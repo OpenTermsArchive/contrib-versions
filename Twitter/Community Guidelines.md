@@ -1,554 +1,1205 @@
-Perpetrators of Violent Attacks
-===============================
+Child sexual exploitation policy
+================================
 
-Overview
+### Overview 
 
-**February 2023**
+**October 2020**
 
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+**We have a zero-tolerance child sexual exploitation policy on X.**
 
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
-
-Perpetrators of Violent Attacks
-===============================
-
-Overview
-
-**February 2023**
-
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
-
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
-
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
-
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
-
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
-
-**What is a manifesto?**
-
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
-
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
-
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies. 
-
-What is in violation of this policy?
-
-Under this policy, we will permanently suspend accounts belonging to apparent individual perpetrators of terrorist, violent extremist, and mass violent attacks, as well as accounts dedicated to the sharing of harmful and violent content associated with the perpetrators or the violent attack.
-
-Additionally, you may not Post any of the following:
-
-**Manifestos and other content created by perpetrators**
-
-We may remove content containing manifestos and other content created by individual perpetrators or their accomplices. Violations can occur via Posts, Spaces, images, and videos, including live video. Examples of content that we may action under this policy include, but are not limited to:
-
-* Sharing or linking full-length manifestos, regardless of context
-* Any Posts containing excerpt(s) of a reproduced manifesto (edited or sliced) or of the original manifesto, except when shared in a newsworthy context.
-    * Regardless of context, it is always prohibited to share any of the following: 
-        
-        * Excerpt(s) that convey suggestions about how to arm oneself and choose targets.
-        * Excerpt(s) that share hateful slogans, symbols, memes, and/or hateful conspiracy theories such as the Great Replacement Theory.
-        * Excerpt(s) outlining the perpetrator’s ideology, tactical choices, and/or plan of attack.
-* Sharing perpetrator-generated media related to the attack in all instances. This includes, but is not limited to:
-    
-    * Media filmed by the perpetrator of the attack
-    * Memes, stickers, or graffiti shared and/or produced by the perpetrator
-    * Media of the weapons utilized in the attack
-* Other perpetrator-generated content that is not associated with the violent attack but that is specific to the promotion or support of violence.
-* Bystander-generated content of the attack as the attack is taking place, such as content that displays a moment of the assault or death, dead bodies, content that identifies victims, or content that depicts the perpetrator(s) conducting the attack.
-
-**Multimedia content, URLs, and hashtags**
-
-We may put a sensitive media interstitial over some media. The interstitial places images and videos behind a warning message that needs to be acknowledged before the media can be viewed. Using this feature means that people who don’t want to see sensitive media can avoid it, or make an informed decision before they choose to view it. The types of media we may interstitial include, but are not limited to:
-
-* Media depicting a perpetrator 
-* Excerpts of the attacker’s manifesto that are shared as part of a news report
-
-We may label URLs linking directly to documents believed to be a manifesto to prevent these URLs from being shared on X.
-
-We may denylist hashtags identifying perpetrators on trends to reduce the visibility of perpetrators’ identities, as well as all hashtags that are used uniquely to surface manifestos.
-
-What is not a violation of this policy?  
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
 
-* Accounts that belong to
-    * Bystanders who happened to be close to the violent attack and/or managed to stop the attack, for example someone who shot the perpetrator(s)
-    * Perpetrators whose convictions were overturned after a not guilty verdict
-* Content depicting any of the following:
-    * The use of force by law enforcement and military personnel, as part of the scope of their official functions, that resulted in casualties;
-    * Violence against military personnel and law enforcement;
-    * Human rights abuses
-    * Violent attacks that are part of an armed conflict
-    * Violence used as a means of self defense
-    * Violent attacks, where there is probable doubt about the intent behind the attack
-    * Cases of vandalism and attacks resulting in damage to essential infrastructure
-    * Sharing a few sentences from the manifesto(s), either in a newsworthy context or to bring more awareness to the rise of hate or violence towards a specific group. For example: “the shooter said he wants to eradicate x group” is not actionable under this policy.
+### What is in violation of this policy? 
 
-Who can report violations of this policy?
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-  
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
 Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
 
-What happens if I violate this policy? 
+### How can I report violations of this policy? 
 
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
   
-The consequences for violating our violent events policy depends on the severity of the violation. Accounts maintained by perpetrators of terrorist, violent extremist, or mass violent attacks will be permanently suspended. As described above, we may also remove content containing manifestos and other content created by perpetrators or their accomplices. 
 
-In addition, we will also remove content that violates our policies regarding [Violent Speech](https://help.twitter.com/en/rules-and-policies/violent-speech.html) or [other parts of Our Rules](https://help.twitter.com/en/rules-and-policies.html#general-policies.html).
+### Additional resources 
 
-Additional resources
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
 
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
   
-Learn more about our [range of enforcement options](https://help.twitter.com/en/rules-and-policies/enforcement-options.html) and our approach to [policy development and enforcement](https://help.twitter.com/en/rules-and-policies/enforcement-philosophy.html).
 
-Perpetrators of Violent Attacks
-===============================
+### What is in violation of this policy? 
 
-Overview
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
 
-**February 2023**
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
 
-**We will remove any accounts maintained by individual perpetrators of terrorist, violent extremist, or mass violent attacks, as well as any accounts glorifying the perpetrator(s), or dedicated to sharing manifestos and/or third party links where related content is hosted. We may also remove Posts disseminating manifestos or other content produced by perpetrators.**
+The following behaviors are also not permitted:   
 
-We want X to be a place where people can find reliable information and express themselves freely and safely without feeling burdened by unhealthy content. In the aftermath of terrorist, violent extremist and mass violent attacks, we know many want to express compassion for victims, condemn the attacks and/or the perpetrators, and discuss how these incidents impact people and their communities. Some might also wish to share manifestos or other similar content produced by the attack’s apparent perpetrator or an accomplice, either to express outrage or condemnation of the perpetrator’s possible motives. 
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
 
-The violence that these perpetrators engage in, and the rationale they outline in manifestos or other means that normalizes hatred and discrimination, may further jeopardize the physical safety and well-being of those who are targeted, and has the potential to inspire future attacks. Exposure to these materials may also cause harm to those that view them. 
+### What is not a violation of this policy? 
 
-We believe the hateful and discriminatory views promoted in content produced by perpetrators are harmful for society and their dissemination should be limited in order to prevent perpetrators from publicizing their message. As a result we may remove Posts that include manifestos or other similar material produced by perpetrators, even if the context is not abusive. However, we may allow newsworthy content if it does not:
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
 
-* Convey suggestions about how to arm oneself and choose targets;
-* Share hateful slogans, symbols, memes, and/or hateful conspiracy theories;
-* Outline the perpetrator’s ideology, tactical choices, and/or plan of attack.
+### Who can report violations of this policy? 
 
-**What is a manifesto?**
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
 
-We define a manifesto as a statement by a perpetrator outlining their motivation, views, or intent to engage in a violent attack. A manifesto can be in the form of a written document, social media post, audio recording, video, external link, or letter or other forms of content. It may be shared in the aftermath, or at any period before a violent attack. A manifesto can be linked to the event through a statement of warning or intent.
+### How can I report violations of this policy? 
 
-**Who are the individual perpetrators of terrorist, violent extremist, and mass violent attacks?**
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
 
-Violent attacks claimed by a violent organization or by a member of such organizations are covered under our [Violent and Hateful Entitites policy](https://help.twitter.com/en/rules-and-policies/violent-entities.html). We do not require that a person have been confirmed as members of terrorist organizations or other violent and hateful entities, nor that they have any official affiliation with any group, organization, or ideology, for us to enforce on content under this aspect of our policies.
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
+
+Child sexual exploitation policy
+================================
+
+### Overview 
+
+**October 2020**
+
+**We have a zero-tolerance child sexual exploitation policy on X.**
+
+X has **zero tolerance towards any material that features or promotes child sexual exploitation**, one of the most serious violations of the [Our Rules](https://help.twitter.com/rules-and-policies/twitter-rules). This may include media, text, illustrated, or computer-generated images. Regardless of the intent, viewing, sharing, or linking to child sexual exploitation material contributes to the re-victimization of the depicted children. This also applies to content that may further contribute to victimization of children through the promotion or glorification of child sexual exploitation. For the purposes of this policy, a minor is any person under the age of 18.   
+  
+
+### What is in violation of this policy? 
+
+Any content that depicts or promotes child sexual exploitation including, but not limited to: 
+
+* visual depictions of a child engaging in sexually explicit or sexually suggestive acts;
+* illustrated, computer-generated or other forms of realistic depictions of a human child in a sexually explicit context, or engaging in sexually explicit acts; 
+* sexualized commentaries about or directed at a known or unknown minor; and
+* links to third-party sites that host child sexual exploitation material.  
+     
+
+The following behaviors are also not permitted:   
+
+* sharing fantasies about or promoting engagement in child sexual exploitation;
+* expressing a desire to obtain materials that feature child sexual exploitation;
+* recruiting, advertising or expressing an interest in a commercial sex act involving a child, or in harboring and/or transporting a child for sexual purposes;
+* sending sexually explicit media to a child;
+* engaging or trying to engage a child in a sexually explicit conversation;
+* trying to obtain sexually explicit media from a child or trying to engage a child in sexual activity  through blackmail or other incentives;
+* identifying alleged victims of childhood sexual exploitation by name or image; and
+* promoting or normalizing sexual attraction to minors as a form of identity or sexual orientation.   
+     
+
+### What is not a violation of this policy? 
+
+* Discussions related to child sexual exploitation are permitted, provided they don’t normalise, promote or glorify child sexual exploitation **in any way**;
+* Conversations about help-seeking behaviour of individuals who may struggle with an attraction to minors;
+* Advocacy against illegal or harmful activity involving minors provided there is no sharing of, or linking to any material featuring child sexual exploitation; and
+* Depictions of nude minors in a non-sexualized context or setting may be permitted in a limited number of scenarios (e.g., art works by internationally renowned artists that feature minors, news media reportage, media created and shared for scientific or educational purposes).  
+     
+
+### Who can report violations of this policy? 
+
+Anyone can report potential violations of this policy, whether they have an X account or not.   
+ 
+
+### How can I report violations of this policy? 
+
+If you think you've found an X account distributing or promoting child sexual exploitation, [you can report it via our child sexual exploitation form](https://help.twitter.com/forms/cse). Provide the username and links to all relevant Posts that led you to believe the account should be reviewed.   
+ 
+
+### What happens if you violate this policy? 
+
+In the majority of cases, the consequence for violating our child sexual exploitation policy is **immediate and permanent suspension**. In addition, violators will be prohibited from creating any new accounts in the future. Note: when we’re made aware of content depicting or promoting child sexual exploitation, including links to third party sites where this content can be accessed, they will be removed without further notice and reported to the National Center for Missing & Exploited Children (NCMEC).
+
+In a limited number of situations, where we haven’t identified any malicious intent, we will require you to remove this content. We will also temporarily lock you out of your account before you can Post again. Further violations will lead to your account being permanently suspended. If you believe that your account was suspended in error, you can [submit an appeal.](https://help.twitter.com/forms/general?subtopic=suspended)  
+  
+
+### Additional resources 
+
+Learn more about our [range of enforcement options](https://help.twitter.com/rules-and-policies/enforcement-options) and our approach to [policy development and enforcement](https://help.twitter.com/rules-and-policies/enforcement-philosophy).
+
+If you’ve found content elsewhere on the internet that is distributing or promoting child sexual exploitation, you should [file a report with NCMEC](http://www.missingkids.org/gethelpnow/cybertipline), or with your local law enforcement. If you believe the content is hosted on a website outside of the United States, you can report it on the [International Association of Internet Hotlines website](https://www.inhope.org/EN#hotlineReferral).
+
+We partner with multiple organisations whose work is dedicated to fighting child sexual exploitation around the world. Please see the full list of [our child protection partners](https://about.twitter.com/safety/safety-partners.html#child-protection-partners).
