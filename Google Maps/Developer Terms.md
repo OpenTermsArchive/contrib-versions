@@ -478,6 +478,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         106. Winnipeg, MB: [https://open.canada.ca/en/open-government-licence-canada](https://open.canada.ca/en/open-government-licence-canada)
             
+        107. Government of Canada [https://www.canada.ca/en/transparency/terms.html](https://www.canada.ca/en/transparency/terms.html)
+            
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
             
@@ -1178,7 +1180,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Smart Dublin (IE): [https://data.smartdublin.ie/](https://data.smartdublin.ie/) Licensed by Creative Commons Attribution 4.0 International (CC By 4.0)
             
-        * Road Management Office Ireland [https://roadmanagement.maps.arcgis.com/home/item.html?id=dd16497565ea42bc8e462e71a0ae8098#overview](https://roadmanagement.maps.arcgis.com/home/item.html?id=dd16497565ea42bc8e462e71a0ae8098#overview)
+        * Road Management Office Ireland [https://roadmanagement.maps.arcgis.com/home/item.html?id=a049f91847034767b00896e48871cb91#overview](https://roadmanagement.maps.arcgis.com/home/item.html?id=a049f91847034767b00896e48871cb91#overview) [https://data.gov.ie/dataset/local-roads](https://data.gov.ie/dataset/local-roads#overview) Licensed under Creative Commons Attribution 4.0
             
     31. **Isle of Man**
         
@@ -1693,6 +1695,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * CTB (Consorcio de Transportes de Bizkaia) agency Link to their license: [https://data.ctb.eus/dataset/metro-bilbao-online](https://data.ctb.eus/dataset/metro-bilbao-online)(Creative Commons Attribution 4.0)
             
         * Gijón Government [https://www.gijon.es/es/datos/portales](https://www.gijon.es/es/datos/portales)(Creative Commons Attribution 4.0)
+            
+        * Valencia Open Data Soft: [https://valencia.opendatasoft.com/explore/dataset/vias/export/?dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6InZpYXMiLCJvcHRpb25zIjp7fX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJvYmplY3RpZCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiM2NmMyYTUifV0sInhBeGlzIjoiZmVjaGFiYWphIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoieWVhciIsInNvcnQiOiIifV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9](https://valencia.opendatasoft.com/explore/dataset/vias/export/?dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6InZpYXMiLCJvcHRpb25zIjp7fX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJvYmplY3RpZCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiM2NmMyYTUifV0sInhBeGlzIjoiZmVjaGFiYWphIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoieWVhciIsInNvcnQiOiIifV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9)
             
     57. **Sweden**
         * © 2009 Cartesia GIS AB
