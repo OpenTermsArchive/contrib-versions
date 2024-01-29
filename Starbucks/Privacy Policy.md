@@ -4,7 +4,7 @@ As part of our effort to protect your privacy and to comply with applicable priv
 
 **Starbucks Privacy Notice**
 
-Last Revised: October 6, 2023
+Last Revised: January 12, 2024
 
 **Overview**
 
@@ -210,18 +210,18 @@ If you are an authorized agent or you are submitting a request on behalf a custo
 
 **(d)  Privacy Metrics**
 
-Privacy Rights Metrics (January 2022 – December 2022) – Includes requests from the United States and Canada:
+Privacy Rights Metrics (January 2023 – December 2023) – Includes requests from the United States and Canada:
 
 Right to Know  
-**•**  Requests Received – 654  
-**•**  Requests Complete – 353  
-**•**  Requests unable to be completed\* – 301  
+**•**  Requests Received – 1,325  
+**•**  Requests Complete – 543  
+**•**  Requests unable to be completed\* – 779  
 **•**  Average completion time – 9 days  
 
 Right to Delete  
-**•**  Requests Received – 1771  
-**•**  Requests Complete – 936  
-**•**  Requests unable to be completed\* – 835  
+**•**  Requests Received – 3,503  
+**•**  Requests Complete – 1,913  
+**•**  Requests unable to be completed\* – 1,556  
 **•**  Average completion time – 12 days  
 
 \*Requests may be unable to be completed due to factors such as inability to verify the customer, duplicate requests, or no information is found.
@@ -333,5 +333,4 @@ Additional contact information may be found below for various Starbucks entities
     * Customer Service
         * [http://customerservice.starbucks.com](http://customerservice.starbucks.com/)
         * : 800-Starbuc (782-7282)
-
-[![TRUSTe](https://content-prod-live.cert.starbucks.com/binary/v2/asset/144-87279.png)](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)
+* [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)
