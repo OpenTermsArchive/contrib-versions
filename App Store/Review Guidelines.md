@@ -56,7 +56,7 @@ Make sure you:
 * [Add to Apple Wallet Guidelines](https://developer.apple.com/wallet/add-to-apple-wallet-guidelines/)
 * [Guidelines for Using Apple Trademarks and Copyrights](https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html)
 
-Guidelines that include ![ASR & NR](/app-store/review/images/key-icon.svg) apply to [Notarization for iOS apps](https://developer.apple.com/support/dma-and-apps-in-the-eu/) in the EU.
+Guidelines that include ![ASR & NR](/app-store/review/images/key-icon.svg) apply to [Notarization for iOS apps](https://developer.apple.com/support/dma-and-apps-in-the-eu/#notarization-for-ios-apps) in the EU.
 
 ### 1\. Safety
 
