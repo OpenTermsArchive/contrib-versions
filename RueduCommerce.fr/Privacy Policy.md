@@ -286,8 +286,7 @@ Pour plus d'informations : [https://www.facebook.com/](https://www.facebook.com/
 **Tokywoky :** Tokywoky est responsable de traitement de données d'inscription fournies par les utilisateurs lorsqu'ils ouvrent un compte sur la communauté Tokywoky. Nous vus invitons à consulter les CGV de Tokywoky lorsque vous utilisez ce service.
 
 **Twitter :** Twitter nous permet de vous proposer des publicités personnalisées.  
-Pour plus d'informations : [https://twiter.com/](https://twitter.com/?lang=fr "Twitter")**Veasybl  
-**Veasybl nous permet de vous proposer des produits susceptibles de vous intéresser.  
+Pour plus d'informations : [https://twiter.com/](https://twitter.com/?lang=fr "Twitter")  
 **  
   
 Partage de l'utilisation du terminal du client avec d'autres personnes**
@@ -641,8 +640,7 @@ Pour plus d'informations : [https://www.facebook.com/](https://www.facebook.com/
 **Tokywoky :** Tokywoky est responsable de traitement de données d'inscription fournies par les utilisateurs lorsqu'ils ouvrent un compte sur la communauté Tokywoky. Nous vus invitons à consulter les CGV de Tokywoky lorsque vous utilisez ce service.
 
 **Twitter :** Twitter nous permet de vous proposer des publicités personnalisées.  
-Pour plus d'informations : [https://twiter.com/](https://twitter.com/?lang=fr "Twitter")**Veasybl  
-**Veasybl nous permet de vous proposer des produits susceptibles de vous intéresser.  
+Pour plus d'informations : [https://twiter.com/](https://twitter.com/?lang=fr "Twitter")  
 **  
   
 Partage de l'utilisation du terminal du client avec d'autres personnes**
