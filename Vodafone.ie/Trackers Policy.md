@@ -3,8 +3,6 @@ Cookie policy
 
   
 
-Last updated 2nd October 2020
-
 What are cookies
 ----------------
 
