@@ -75,8 +75,10 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [La présidence française de l’Union européenne](https://sante.gouv.fr/ministere/europe-et-international/l-union-europeenne-de-la-sante/la-presidence-francaise-du-conseil-de-l-union-europeenne/pfue2022)
             * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
+            
+            * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
             
         * [Défense et Sécurité (HFDS)](https://sante.gouv.fr/ministere/defense-et-securite-hfds/)
             
@@ -787,8 +789,10 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [La présidence française de l’Union européenne](https://sante.gouv.fr/ministere/europe-et-international/l-union-europeenne-de-la-sante/la-presidence-francaise-du-conseil-de-l-union-europeenne/pfue2022)
             * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
+            
+            * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
             
         * [Défense et Sécurité (HFDS)](https://sante.gouv.fr/ministere/defense-et-securite-hfds/)
             
@@ -1473,8 +1477,10 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [La présidence française de l’Union européenne](https://sante.gouv.fr/ministere/europe-et-international/l-union-europeenne-de-la-sante/la-presidence-francaise-du-conseil-de-l-union-europeenne/pfue2022)
             * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
+            
+            * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
             
         * [Défense et Sécurité (HFDS)](https://sante.gouv.fr/ministere/defense-et-securite-hfds/)
             
@@ -2090,8 +2096,10 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [La présidence française de l’Union européenne](https://sante.gouv.fr/ministere/europe-et-international/l-union-europeenne-de-la-sante/la-presidence-francaise-du-conseil-de-l-union-europeenne/pfue2022)
             * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
+            
+            * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
             
         * [Défense et Sécurité (HFDS)](https://sante.gouv.fr/ministere/defense-et-securite-hfds/)
             
@@ -2451,8 +2459,10 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [La présidence française de l’Union européenne](https://sante.gouv.fr/ministere/europe-et-international/l-union-europeenne-de-la-sante/la-presidence-francaise-du-conseil-de-l-union-europeenne/pfue2022)
             * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
+            
+            * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
             
         * [Défense et Sécurité (HFDS)](https://sante.gouv.fr/ministere/defense-et-securite-hfds/)
             
@@ -2812,8 +2822,10 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [La présidence française de l’Union européenne](https://sante.gouv.fr/ministere/europe-et-international/l-union-europeenne-de-la-sante/la-presidence-francaise-du-conseil-de-l-union-europeenne/pfue2022)
             * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
+            
+            * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
             
         * [Défense et Sécurité (HFDS)](https://sante.gouv.fr/ministere/defense-et-securite-hfds/)
             
@@ -3173,8 +3185,10 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [La présidence française de l’Union européenne](https://sante.gouv.fr/ministere/europe-et-international/l-union-europeenne-de-la-sante/la-presidence-francaise-du-conseil-de-l-union-europeenne/pfue2022)
             * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
+            
+            * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
             
         * [Défense et Sécurité (HFDS)](https://sante.gouv.fr/ministere/defense-et-securite-hfds/)
             
@@ -3534,8 +3548,10 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [La présidence française de l’Union européenne](https://sante.gouv.fr/ministere/europe-et-international/l-union-europeenne-de-la-sante/la-presidence-francaise-du-conseil-de-l-union-europeenne/pfue2022)
             * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
+            
+            * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
             
         * [Défense et Sécurité (HFDS)](https://sante.gouv.fr/ministere/defense-et-securite-hfds/)
             
@@ -3895,8 +3911,10 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [La présidence française de l’Union européenne](https://sante.gouv.fr/ministere/europe-et-international/l-union-europeenne-de-la-sante/la-presidence-francaise-du-conseil-de-l-union-europeenne/pfue2022)
             * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
+            
+            * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
             
         * [Défense et Sécurité (HFDS)](https://sante.gouv.fr/ministere/defense-et-securite-hfds/)
             
@@ -4211,8 +4229,10 @@ Retour
 Retour
 
 * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-* [La présidence française de l’Union européenne](https://sante.gouv.fr/ministere/europe-et-international/l-union-europeenne-de-la-sante/la-presidence-francaise-du-conseil-de-l-union-europeenne/pfue2022)
 * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+* [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
+
+* [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
 
 * [Plans de défense, actions de prévention, gestion de crise](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/plans-de-defense-actions-de-prevention-gestion-de-crise)
 * [Intelligence économique et sécurité des infrastructures sensibles](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/intelligence-economique-et-securite-des-infrastructures-sensibles)
