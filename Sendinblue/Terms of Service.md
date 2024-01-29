@@ -231,7 +231,7 @@ The General Terms of Use, anti-spam and confidentiality policies and their chang
 
 In the event of a substantial change to these terms, Brevo may decide to inform the User by email or directly on his [brevo.com](http://brevo.com/) account.
 
-As part of the BrevoPlus offer, Brevo reserves the right to revise the prices indicated in the purchase order (cost per mille, SMS credit, and licence price) on an annual basis. In such a case, Brevo shall notify the new applicable prices to the User at least thirty (30) days before the renewal date.
+As part of the Brevo Enterprise offer, Brevo reserves the right to revise the prices indicated in the purchase order (cost per mille/cost per mail, SMS/WhatsApp credit, and licence price) on an annual basis. In such a case, Brevo shall notify the new applicable prices to the User at least thirty (30) days before the renewal date.
 
 Only the English language version of these Terms of Use is binding between Brevo and the User.
 
