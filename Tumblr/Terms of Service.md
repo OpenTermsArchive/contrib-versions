@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Last Modified: 2024-01-24
+Last Modified: 2024-01-29
 
 Tumblr is a U.S. company and subject to U.S. laws and jurisdiction. The original version of these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are written in English. To the extent any translated version of these Terms of Service (or any other terms, policies, or guidelines that we provide to you) conflicts with the English version, the English version controls.
 
@@ -49,6 +49,10 @@ Tumblr is an ever-evolving platform. With new products, services, and features l
 You may not, without express prior written permission, do any of the following while accessing or using the Services: (a) tamper with, or use non-public areas of the Services, or the computer or delivery systems of Tumblr and/or its service providers; (b) probe, scan, or test any system or network (particularly for vulnerabilities), or otherwise attempt to breach or circumvent any security or authentication measures; (c) access or search or attempt to access or search the Services by any means (automated or otherwise) other than through our currently available, published interfaces that are provided by Tumblr (and only pursuant to those terms and conditions) or unless permitted by Tumblr's robots.txt file or other robot exclusion mechanisms; (d) scrape the Services, and particularly scrape Content (as defined below) from the Services; (e) use the Services to send altered, deceptive, or false source-identifying information, including without limitation by forging TCP-IP packet headers or email headers; or (f) interfere with, or disrupt, (or attempt to do so), the access of any other user of the Services, host or network, including, without limitation, by sending a virus to, spamming, or overloading the Services, or by scripted use of the Services in such a manner as to interfere with or create an undue burden on the Services.
 
 Don't do bad things to Tumblr or to other users. Some particularly egregious examples of "bad things" are listed in this section.
+
+**Recommender Systems:**
+
+For more information on how content is displayed in Tumblr's feeds and our use of recommender systems to show you content we think you'll love, please see [this Help Center article](https://tumblr.zendesk.com/hc/en-us/articles/20873211911319).
 
 4\. Registration, Tumblr URLs, and Security
 -------------------------------------------
@@ -105,7 +109,7 @@ As a User of the Services, Tumblr grants you a worldwide, revocable, non-exclusi
 
 **Compliance with Community Guidelines:**
 
-You agree that you won't violate Tumblr's [Community Guidelines](https://www.tumblr.com/policy/community).
+You agree that you won't violate Tumblr's [Community Guidelines](https://www.tumblr.com/policy/community). These Guidelines provide information on a few categories of content that are damaging to our community. If you violate the Guidelines, you may not be able to continue using Tumblr.
 
 **Termination and Deletion:**
 
