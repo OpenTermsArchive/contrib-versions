@@ -251,9 +251,13 @@ California law requires us to provide California residents with additional infor
 
 **Use of categories of personal information**. We may disclose the categories of personal information identified above for our operational purposes where the use is reasonably necessary and proportionate to achieve the operational purpose for which it was collected or processed, or for another compatible operational purpose.
 
-**Sale of Personal Information**. Based on the definition of “sell” under California law and under current regulatory guidance, we do not believe we engage in such activity and have not engaged in such activity in the past twelve months (including that we do not “sell” the personal information of minors under 16 years of age).  We do share certain information as set forth in Sections 1 and 2 of this Policy, and allow third parties to collect certain information about your activity, for example through cookies, as explained in our [Cookie Policy](https://www.gartner.com/en/about/policies/privacy/cookie-policy).  
+**Sale of Personal Information**. Based on the definition of “sell” under California law and under current regulatory guidance, we do not believe we engage in such activity and have not engaged in such activity in the past twelve months (including that we do not “sell” the personal information of minors under 16 years of age).  
 
-**Individual Rights**. California law may provide you with certain rights and permit you to request the following:
+**Sharing of Personal Information**. We do share certain information as set forth in Sections 1 and 2 of this Policy, and allow third parties to collect certain information about your activity, for example through cookies, as explained in our [Cookie Policy](https://www.gartner.com/en/about/policies/privacy/cookie-policy). You can opt out of sharing your personal information for cross-context behavioral advertising by clicking the button below. Please note that if you opt out of this sharing, you may still continue to see advertising on other companies’ websites from Gartner, but those ads may not be as relevant to you. Sharing for cross-context behavioral advertising is limited to data collected from our public websites and does not occur when individuals are logged in to their Gartner.com account.
+
+Cookie Settings
+
+**Individual Rights**. California law may provide you with certain rights and permit you to request the following:  
 
 * Provide you the categories of personal information we have collected or disclosed about you in the last twelve months; the categories of sources of such information; the business or commercial purpose for collecting or selling your personal information; and the categories of third parties with whom we shared personal information.
 * Provide access to and/or a copy of certain information we hold about you.
