@@ -1,4 +1,5 @@
-**Last updated:** November 2023
+**Last updated:** November 2023  
+The previous privacy policy can be viewed [here](https://www.logitech.com/en-gb/legal/web-privacy-policy/web-privacy-policy-archive.html).
 
 This privacy notice explains how Logitech collects and uses personal data from visitors to its web and mobile sites that link directly to this notice (collectively “Sites”). Your personal data is controlled by Logitech Europe S.A. (collectively “Logitech”, ''We” and “Us”).
 
