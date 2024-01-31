@@ -4,9 +4,9 @@ Associated Newspapers Ltd
 Privacy & Cookies Policy (the “Policy”)
 ---------------------------------------
 
-###### Last updated: 24 October 2022
+###### Last updated: 31 January 2024
 
-###### Previous version: 28 July 2022
+###### Previous version: 24 October 2022
 
 You can control online behavioural advertising cookies on this website via your [Cookie Settings](#). Further details on this can be found under Cookies and other identifiers in Section 15 below.
 
@@ -647,7 +647,7 @@ We reserve the right to make changes to this Policy. Where changes are made, we 
 
 ### 17\. How to contact us
 
-If you have any queries or comments about this Policy or wish to exercise any of your rights under the UK GDPR, the EU GDPR, the CCPA or other laws, we encourage you to use our **[Data Subject Request (Form)](https://privacyportal-de.onetrust.com/webform/7710194a-a828-4c32-8670-52c08674b0de/c10100fa-7987-4498-abc8-104315d29e7a)**.
+If you have any queries or comments about this Policy or wish to exercise any of your rights under the UK GDPR, the EU GDPR, the CCPA or other laws, we encourage you to contact us at: dataprotection@dmgmedia.co.uk
 
 _Alternatively, you can write to us at:_
 
@@ -676,5 +676,3 @@ F.A.O. Data Protection office - Associated Newspapers Ltd.
 First Floor  
 London, W1W 7LT  
 UK
-
-You can also contact us at: dataprotection@dmgmedia.co.uk
