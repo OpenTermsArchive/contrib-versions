@@ -549,7 +549,7 @@ You agree that Deliveroo, in its sole discretion, may terminate, deactivate and/
 
 ###  **12. Deliveroo Plus Offer with Amazon Prime**
 
-* UK Amazon Prime members can enjoy 1-year free (‘free period’) of a Deliveroo Plus Silver subscription worth over €40 a year (€3.99/month) with their Amazon Prime membership. This includes unlimited free delivery on Deliveroo with orders over €25. Service fees and Deliveroo Plus [Ts&Cs](https://www.deliveroo.ie/legal) apply to your use of Deliveroo Plus during this ‘free period’. 
+* UK Amazon Prime members can enjoy 1-year free (‘free period’) of a Deliveroo Plus Silver subscription worth over €40 a year (€3.99/month) with their Amazon Prime membership. This includes unlimited free delivery from a huge range of restaurants on orders over €15 and free delivery from grocery and retail stores on orders over €25. Service fees and Deliveroo Plus [Ts&Cs](https://www.deliveroo.ie/legal) apply to your use of Deliveroo Plus during this ‘free period’. 
 * If you end your Amazon Prime membership at any time during your ‘free period’, you will lose access to Deliveroo Plus and your 1-year free Deliveroo Plus with your Amazon Prime membership will terminate. You will be notified via email once your Deliveroo Plus subscription is lost. If you were previously on Deliveroo Plus and decide to switch to the 1-year free Deliveroo Plus membership with Amazon Prime, and then end your Amazon Prime membership, you will not be re-enrolled to your previous Deliveroo Plus subscription. If you choose to restart your Amazon Prime membership again, you will need to reactivate the Deliveroo Plus with Amazon Prime offer by verifying your Prime membership again through the offer redemption process set out below.
 * To redeem the offer, you should: 
 
@@ -561,7 +561,9 @@ You agree that Deliveroo, in its sole discretion, may terminate, deactivate and/
 
 ### **13\. Deliveroo Plus Offer with Revolut**
 
-Eligible Revolut customers can enjoy a free Deliveroo Plus Silver subscription worth €3.99/month with a qualifying Revolut account (see [here](https://www.revolut.com/en-IE/our-pricing-plans/) for qualifying Revolut accounts)(“**Deliveroo Plus Offer with Revolut**”) as long as Revolut continues to make Deliveroo Plus Silver available as part of those plans (the “**Free Period**”). Deliveroo Plus Silver subscription includes free delivery on Deliveroo with orders over €25 from participating restaurants during the Free Period. Service fees and Deliveroo Plus T&Cs apply when you use the Deliveroo Plus Offer with Revolut.
+Eligible Revolut customers can enjoy a free Deliveroo Plus Silver subscription worth €3.99/month with a qualifying Revolut account (see [here](https://www.revolut.com/en-IE/our-pricing-plans/) for qualifying Revolut accounts)(“**Deliveroo Plus Offer with Revolut**”) as long as Revolut continues to make Deliveroo Plus Silver available as part of those plans (the “**Free Period**”). Deliveroo Plus Silver subscription includes unlimited free delivery from a huge range of restaurants on orders over €15 and free delivery from grocery and retail stores on orders over €25.
+
+Service fees and Deliveroo Plus T&Cs apply when you use the Deliveroo Plus Offer with Revolut.
 
 * If you close your qualifying Revolut account or if Revolut stops making Deliveroo Plus Silver available as part of your qualifying account, you will no longer benefit from the free Deliveroo Plus subscription and the Free Period will be terminated. You will be notified via email once your Deliveroo Plus subscription has ended.
 * If you were previously a Deliveroo Plus subscriber and decided to switch to the Deliveroo Plus Offer with Revolut, and then close your qualifying Revolut account or if Revolut stops making Deliveroo Plus Silver available as part of your qualifying Revolut account, you will not be re-enrolled to your previous Deliveroo Plus subscription. 
