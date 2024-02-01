@@ -583,7 +583,7 @@ If we allow you to accept payments from a payer under a billing agreement, when 
 
 ### PayPal Payouts
 
-If you are using PayPal Payouts (formerly Mass Pay), the terms of the [PayPal Payouts Agreement](https://www.paypal.com/cz/webapps/mpp/ua/paypal-payouts-tnc?locale.x=en_CZ) will apply.
+If you are using PayPal Payouts (formerly Mass Pay), the terms of the [PayPal Payouts Agreement](https://www.paypal.com/cz/webapps/mpp/ua/paypal-payouts-agreement?locale.x=en_CZ) will apply.
 
 ### Your responsibility as a Corporate Customer to notify PayPal of pricing or fee errors
 
