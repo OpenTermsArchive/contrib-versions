@@ -529,7 +529,7 @@ Article 16. Personal Information Handling Business Operator
 
 6th floor, JPR Sendagaya Building, 4-23-5, Sendagaya, Shibuya-ku, Tokyo, 151-0051  
 pixiv Inc.  
-Chief Executive Officer: Shingo Kunieda
+Chief Executive Officer: Yasuhiro Niwa
 
 Supplementary provision
 -----------------------
