@@ -3,8 +3,6 @@
 Terms of Use
 ============
 
-Copy link
-
 _Meta Platforms, Inc. is now providing Facebook in the UK. We’ve updated our Terms of Use and Privacy Policy to reflect this change on 25 April 2023. [Learn more about Meta](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fabout.facebook.com%2Fmeta&e=removed) and our vision for the Metaverse._
 
   
