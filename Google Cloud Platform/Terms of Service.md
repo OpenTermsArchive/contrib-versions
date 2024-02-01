@@ -2,7 +2,7 @@
 
 Stay organized with collections Save and categorize content based on your preferences.
 
-[Register now](https://cloud.withgoogle.com/next?utm_source=cgc-site&utm_medium=et&utm_campaign=FY24-Q2-global-ENDM33-physicalevent-er-next-2024-mc&utm_content=cgc-butter-bar&utm_term=-) for Google Cloud Next '24 in Las Vegas April 9-11 to take advantage of early bird pricing of $999 USD.
+[Register now](https://cloud.withgoogle.com/next?utm_source=cgc-site&utm_medium=et&utm_campaign=FY24-Q2-global-ENDM33-physicalevent-er-next-2024-mc&utm_content=cgc-butter-bar&utm_term=-) for Google Cloud Next '24 in Las Vegas April 9-11.
 
 Google Cloud Platform Terms of Service
 ======================================
