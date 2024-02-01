@@ -632,7 +632,7 @@ pixiv Inc.
 Representative Director
 -----------------------
 
-Shingo Kunieda
+Yasuhiro Niwa
 
 Address
 -------
@@ -642,7 +642,8 @@ JPR Sendagaya Building 6F, 4-23-5 Sendagaya, Shibuya-ku, Tokyo 151-0051 (Japan)
 Inquiries
 ---------
 
-Inquiry form
+Inquiry form  
+[https://www.pixiv.net/support](https://www.pixiv.net/support)
 
 E-mail address:  
 support@pixiv.net
