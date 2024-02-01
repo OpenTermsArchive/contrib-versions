@@ -243,7 +243,7 @@ Just getting started?
 
 Download ThryvPay for FREE and start getting paid.
 
-[![](/media/icon-thryvpay-appstore.png)](https://apps.apple.com/us/app/thryvpay/id1554576474) [![](/media/icon-thryvpay-google-play.png)](https://play.google.com/store/apps/details?id=com.thryv.thryvpay&hl=en&gl=US)
+[![Thryv Apple Store](/media/icon-thryvpay-appstore.png)](https://apps.apple.com/us/app/thryvpay/id1554576474) [![Thryv Google Play](/media/icon-thryvpay-google-play.png)](https://play.google.com/store/apps/details?id=com.thryv.thryvpay&hl=en&gl=US)
 
 ![Smartphone showing the logo for ThryvPay, Thryv's online payment processor for small business](/media/demo-thryvpay-phone.png)
 
@@ -251,7 +251,7 @@ Just getting started?
 
 Download ThryvPay for FREE and start getting paid.
 
-[![](/media/icon-thryvpay-appstore.png)](https://apps.apple.com/us/app/thryvpay/id1554576474) [![](/media/icon-thryvpay-google-play.png)](https://play.google.com/store/apps/details?id=com.thryv.thryvpay&hl=en&gl=US)
+[![Thryv Apple Store](/media/icon-thryvpay-appstore.png)](https://apps.apple.com/us/app/thryvpay/id1554576474) [![Thryv Google Play](/media/icon-thryvpay-google-play.png)](https://play.google.com/store/apps/details?id=com.thryv.thryvpay&hl=en&gl=US)
 
 ![Smartphone showing the logo for ThryvPay, Thryv's online payment processor for small business](/media/demo-thryvpay-phone.png)
 
@@ -259,7 +259,7 @@ Just getting started?
 
 Download ThryvPay for FREE and start getting paid.
 
-[![](/media/icon-thryvpay-appstore.png)](https://apps.apple.com/us/app/thryvpay/id1554576474) [![](/media/icon-thryvpay-google-play.png)](https://play.google.com/store/apps/details?id=com.thryv.thryvpay&hl=en&gl=US)
+[![Thryv Apple Store](/media/icon-thryvpay-appstore.png)](https://apps.apple.com/us/app/thryvpay/id1554576474) [![Thryv Google Play](/media/icon-thryvpay-google-play.png)](https://play.google.com/store/apps/details?id=com.thryv.thryvpay&hl=en&gl=US)
 
 ![Smartphone showing the logo for ThryvPay, Thryv's online payment processor for small business](/media/demo-thryvpay-phone.png)
 
@@ -301,27 +301,27 @@ Something went wrong
 
 See how Thryv works. _Do you have 15 minutes or 5?_
 
-![](/media/demo-option-live-img.png)
+![Image of a customer service rep.](/media/demo-option-live-img.png)
 
 Ready to start a Live Demo NOW? [Click here to start!](#)
 
-![](/media/icon-demo-live-schedule.png)
+![Calendar icon with three dates checked.](/media/icon-demo-live-schedule.png)
 
-![](/media/icon-demo-live-schedule.png)
+![Calendar icon with three dates checked.](/media/icon-demo-live-schedule.png)
 
 Schedule Live Demo
 
 _Takes about 15 minutes_
 
-![](/media/icon-demo-watch-video.png)
+![Play video icon.](/media/icon-demo-watch-video.png)
 
-![](/media/icon-demo-watch-video.png)
+![Play video icon.](/media/icon-demo-watch-video.png)
 
 Watch a Video
 
 _Takes about 5 minutes_
 
-![](/media/demo-option-live-img.png)
+![Image of a customer service rep.](/media/demo-option-live-img.png)
 
 Ready to start a Live Demo NOW? [Click here to start!](#)
 
@@ -335,17 +335,17 @@ LOADING
 
 Schedule Demo
 
-![](/media/demo-logo-g2-2020.png)
+![2020 G2 award winner 4.3/5 rating](/media/demo-logo-g2-2020.png)
 
-![](/media/demo-logo-g2-2020.png)
+![2020 G2 award winner 4.3/5 rating](/media/demo-logo-g2-2020.png)
 
-![](/media/demo-logo-ios-app.png)
+![IOS App Store 4/5 rating](/media/demo-logo-ios-app.png)
 
-![](/media/demo-logo-ios-app.png)
+![IOS App Store 4/5 rating](/media/demo-logo-ios-app.png)
 
-![](/media/demo-logo-getapp-2019.png)
+![2019 GetApp award winner 4/5 rating](/media/demo-logo-getapp-2019.png)
 
-![](/media/demo-logo-getapp-2019.png)
+![2019 GetApp award winner 4/5 rating](/media/demo-logo-getapp-2019.png)
 
 Ready to chat?
 
@@ -368,31 +368,31 @@ Schedule a Demo
 
 _Thank you!_We are excited to show you Thryv.
 
-![](/media/icon-demo-calendar-new-01.png)
+![Calendar icon with three dates checked.](/media/icon-demo-calendar-new-01.png)
 
-![Calendar Icon](/media/icon-demo-calendar-new-01.png)
+![Calendar icon with three dates checked.](/media/icon-demo-calendar-new-01.png)
 
 Friday, August 11 at 11:00 AM Eastern Daylight Time
 
 Add to Calendar
 
-![](/media/Profile.png)
+![Outline of a user profile](/media/Profile.png)
 
-![](/media/Profile.png)
+![Outline of a user profile](/media/Profile.png)
 
 Jonathan Mitchell
 
 Thryv Business Specialist  
 Dallas, TX
 
-![](/media/demo-logo-g2-2020.png)
+![2020 G2 award winner 4.3/5 rating](/media/demo-logo-g2-2020.png)
 
-![](/media/demo-logo-g2-2020.png)
+![2020 G2 award winner 4.3/5 rating](/media/demo-logo-g2-2020.png)
 
-![](/media/demo-logo-ios-app.png)
+![IOS App Store 4/5 rating](/media/demo-logo-ios-app.png)
 
-![](/media/demo-logo-ios-app.png)
+![IOS App Store 4/5 rating](/media/demo-logo-ios-app.png)
 
-![](/media/demo-logo-getapp-2019.png)
+![2019 GetApp award winner 4/5 rating](/media/demo-logo-getapp-2019.png)
 
-![](/media/demo-logo-getapp-2019.png)
+![2019 GetApp award winner 4/5 rating](/media/demo-logo-getapp-2019.png)
