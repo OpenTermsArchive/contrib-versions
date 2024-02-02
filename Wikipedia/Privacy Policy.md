@@ -102,7 +102,7 @@ Other languages:
 * [भोजपुरी](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bho "गोपनीयता नीति (1% translated)")
 * [मराठी](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mr "गोपनियता धोरण (9% translated)")
 * [संस्कृतम्](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sa "गोपनीयतानीतिः (10% translated)")
-* [हिन्दी](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hi "गोपनीयता नीति (40% translated)")
+* [हिन्दी](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hi "गोपनीयता नीति (39% translated)")
 * [অসমীয়া](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/as "গোপনীয়তা নীতি (57% translated)")
 * [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bn "গোপনীয়তার নীতি (97% translated)")
 * [ਪੰਜਾਬੀ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pa "ਪੜਦਾ ਨੀਤੀ (30% translated)")
