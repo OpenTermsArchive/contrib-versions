@@ -299,3 +299,9 @@ If you have any questions or concerns regarding these Terms, please contact us a
   
 
 [★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
+
+W3schools Pathfinder
+
+Track your progress - it's free!
+
+[Log in](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Login to your account") [Sign Up](https://www.w3schools.com/signup/index.php "Sign Up to Improve Your Learning Experience")
