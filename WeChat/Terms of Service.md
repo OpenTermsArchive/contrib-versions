@@ -1,7 +1,7 @@
 WECHAT – TERMS OF SERVICE
 =========================
 
-**Last modified:** 2023-08-01
+**Last modified:** 2024-02-01
 
 INTRODUCTION
 ------------
@@ -426,6 +426,21 @@ Notwithstanding the "Governing Law and Dispute Resolution" section of these Term
 _Loss or damage_
 
 If any WeChat services or features which we have supplied damages a device or digital content belonging to you and this is caused by our failure to use reasonable care and skill we will either repair the damage or pay you reasonable compensation for such damage. However, we will not be liable for damage which you could have avoided by following our advice to apply an update offered to you free of charge or for damage which was caused by you failing to correctly follow installation instructions or to have in place the minimum system requirements advised by us. We only supply WeChat and the services or features accessible via WeChat for domestic and private use. If you use WeChat or the services or features for any commercial or business purpose we will have no liability to you for any loss of profit, loss of business, business interruption, or loss of business opportunity.
+
+_DSA Single Point of Contact for EU Commission and Member State Authorities_
+
+In compliance with Article 11 of the DSA, we have designated a specific channel for communications regarding the DSA with relevant regulatory bodies. All such authorities should direct their DSA related inquiries and correspondence to [dsa.enquiries@global.tencent.com](mailto:dsa.enquiries@global.tencent.com). The email address serves as the single electronic point of contact for the European Commission, Member States’ Authorities, and the European Board for Digital Services concerning the DSA.
+
+For effective communication, we request that all messages to this address include the following information:
+
+* In the subject line and body of the email, the name of the relevant online service/product in which the communications relate to (if applicable)
+* The sender‘s full name
+* The designation of the EU-based authority they represent
+* A contact email affiliated with the respective authority for any necessary follow-up. Preferred language(s) for communication: English. Dutch can also be used for communication if required.
+
+_DSA Single Point of Contact for users_
+
+In compliance with Article 12 of the DSA, our designated electronic single point of contact for users in the EU is: [policy@wechat.com](mailto:policy@wechat.com).
 
 ### WECHAT TERMS OF SERVICE (SINGAPORE-SPECIFIC TERMS)
 
