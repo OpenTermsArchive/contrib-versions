@@ -26,3 +26,5 @@ Your browser or device may offer settings that allow you to choose whether brows
 * [Safari](https://support.apple.com/en-ie/guide/safari/sfri11471/mac)
 * [Safari Mobile](https://support.apple.com/en-us/HT201265)
 * [Opera](https://blogs.opera.com/news/2015/08/how-to-manage-cookies-in-opera/)
+
+The [https://www.whatsapp.com](https://www.whatsapp.com/) website exclusively uses First-Party cookies.
