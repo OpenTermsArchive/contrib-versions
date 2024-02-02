@@ -110,7 +110,7 @@ Criteo respects the [self-regulatory principles of the Digital Advertising Alli
 
 * **Network Advertising Initiative ![](https://www.criteo.com/wp-content/uploads/2017/10/nai.gif-Q-width76-height28nai.gif)** 
 
-Criteo adheres to the [codes of conduct of the Network Advertising Initiative (NAI)](http://www.networkadvertising.org/code-enforcement/code) and is integrated with the [NAI unsubscription platform](http://optout.networkadvertising.org/?c=1), which offers you the opportunity to express your choices regarding online advertising to all the players involved, and in particular your desire to disable their services.
+Criteo adheres to the [codes of conduct of the Network Advertising Initiative (NAI)](https://thenai.org/accountability/code-of-conduct/) and is integrated with the [NAI unsubscription platform](http://optout.networkadvertising.org/?c=1), which offers you the opportunity to express your choices regarding online advertising to all the players involved, and in particular your desire to disable their services.
 
 * **IAB Europe** **![](https://www.criteo.com/wp-content/uploads/2023/09/IAB-Europe-logo.png)**
 
