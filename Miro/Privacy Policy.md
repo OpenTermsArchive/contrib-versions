@@ -17,19 +17,19 @@
     
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/CKhiCgj9RX0CWyB1CVuU2/c946d50cb6a5442914ec5ef29c1e0c28/miro-creators_illustration-02_EN_standard_1_1_2x.png)
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/4NDcHKcAiwMXJ0h3Uxv9K1/eec966d255c916a761dc26a12ae998ba/meeting-3.svg)
         
-        Explore our 2023 releases](https://miro.com/blog/2023-in-review/)
+        Automatic styling with Brand Center](https://help.miro.com/hc/en-us/articles/13061918433426-Brand-center-BETA-)
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/1JVD1MjU9YKgxGTQzgNbp1/0eecfbd4af3cf1556691eb581f9fe757/Flex_your_flexibility_with_Planner.png)
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/2ZEbdBPtunIHWmy8VLYi6N/a227e774c270ac802ec4670e2d3f669b/pose_7_2_1.svg)
         
-        Innovate with Miro Assist](https://miro.com/assist/)
+        Access presenter notes easily](https://miro.com/blog/what-we-launched-january-2024/#h-workshops-amp-async-collaboration:~:text=Prepare%20private%20notes%20for%20your%20interactive%20presentations%C2%A0)
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/kqOanhlKcYq4efJq7sPhu/86ec1b3fafd94971cfc01de43288a503/collaboratio.png)
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/6Vqj6m5CS89zOvdwrm1HDm/9dc44b38915d309e358e4110df4efafd/communication-chat-person.svg)
         
-        Plan your quarter with Azure](https://miro.com/blog/what-we-launched-november-2023/#h-product-development-workflows)
+        Press play with Talktrack shortcuts](https://miro.com/talktrack/)
     
     [See all updates](https://miro.com/whats-new/)
     
