@@ -252,7 +252,7 @@ More information and guidelines on privacy notice best practices  can be found 
 
 **7.3 ​​​​ Data Processing and Protection.**
 
-1. CCPA Service Provider Addendum. If Customer provides NextRoll with any Customer CRM Data of California residents and/or NextRoll collects (on behalf of Customer) any Customer CRM Data of California residents, the NextRoll CCPA Service Provider Addendum (available at [https://www.nextroll.com/terms/ccpa-service-provider](https://www.nextroll.com/terms/ccpa-service-provider)) is incorporated into and made part of this Agreement.
+1. CCPA Addendum. If Customer provides NextRoll with any Customer CRM Data of California residents and/or NextRoll collects (on behalf of Customer) any Customer CRM Data of California residents, the NextRoll Data Protection Addendum (available at [https://www.nextroll.com/terms/data-protection](https://www.nextroll.com/terms/data-protection)) is incorporated into and made part of this Agreement.
     
 2. GDPR Data Protection Addendum. If Customer provides NextRoll with any Customer CRM Data of European residents and/or if NextRoll collects (on behalf of Customer) any Customer CRM Data of European residents, the NextRoll Data Protection Addendum (available at [https://www.nextroll.com/terms/data-protection](https://www.nextroll.com/terms/data-protection)) is incorporated into and made part of this Agreement.
     
