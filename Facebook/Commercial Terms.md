@@ -1,4 +1,8 @@
-_The Facebook company is now Meta. We’ve updated our Terms of Use, Data Policy, and Cookies Policy to reflect the new name on January 4, 2022. While our company name has changed, we are continuing to offer the same products, including the Facebook app from Meta. Our Data Policy and Terms of Service remain in effect, and this name change does not affect how we use or share data. [_Learn more about Meta_](https://about.facebook.com/meta) and our vision for the metaverse._
+We're updating our Terms. These updates go into effect on March 6, 2024. By continuing to use our Products after this date, you agree to the updated Terms.
+
+This update applies to you if you use Meta Products for business purposes. If you have a concern related to our conditions for accessing certain Meta Products, you have a new option to submit a dispute.
+
+[Read the new terms](https://www.facebook.com/legal/commercial_terms_preview).
 
   
   
