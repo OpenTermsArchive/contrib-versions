@@ -3,8 +3,12 @@
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#footer)
 
- [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
-============================================================================================================================================================================
+ [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/1024/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079040)
+
+sante.gouv.fr
+
+
+=======================================================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
 
  Rechercher :
 
@@ -717,8 +721,12 @@ Sauf mention contraire, tous les contenus de ce site sont sous [licence etalab-2
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#footer)
 
- [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
-============================================================================================================================================================================
+ [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/1024/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079040)
+
+sante.gouv.fr
+
+
+=======================================================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
 
  Rechercher :
 
@@ -1405,8 +1413,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#footer)
 
- [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
-============================================================================================================================================================================
+ [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/1024/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079040)
+
+sante.gouv.fr
+
+
+=======================================================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
 
  Rechercher :
 
@@ -1996,28 +2008,50 @@ Recherche
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses/coronavirus/article/tousanticovid#footer)
 
- [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
-============================================================================================================================================================================
+ [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/1024/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079040)
+
+sante.gouv.fr
+
+
+=======================================================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
 
  Rechercher :
 
 Recherche 
 
- [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
-============================================================================================================================================================================
+ [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/1024/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079040)
+
+sante.gouv.fr
+
+
+=======================================================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
 
  Rechercher :
 
 Recherche 
 
- [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
-============================================================================================================================================================================
+ [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/1024/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079040)
 
- [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
-============================================================================================================================================================================
+sante.gouv.fr
 
- [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/130/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079039)](http://sante.gouv.fr/)
-============================================================================================================================================================================
+
+=======================================================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+
+ [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/1024/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079040)
+
+sante.gouv.fr
+
+
+=======================================================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+
+ [![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/1024/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079040)
+
+sante.gouv.fr
+
+
+=======================================================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+
+ ![Accueil Ministère du travail, de la santé et des solidarités](local/adapt-img/1024/10x/IMG/logo/min_travail_sante_solidarites_rvb.png?1705079040)
 
  Rechercher :
 
