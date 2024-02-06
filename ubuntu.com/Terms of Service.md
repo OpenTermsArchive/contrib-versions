@@ -97,8 +97,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 [Back to top](#)
 
-* [OpenStack](https://ubuntu.com/openstack) [OpenStack](#)
-    --------------------------------------------------------
+* [Canonical OpenStack](https://ubuntu.com/openstack) [Canonical OpenStack](#)
+    ----------------------------------------------------------------------------
     
     * [What is OpenStack](https://ubuntu.com/openstack/what-is-openstack)
     * [Features](https://ubuntu.com/openstack/features)
@@ -106,8 +106,8 @@ The open source software platform that runs everywhere from the smartphone, the 
     * [Consulting](https://ubuntu.com/openstack/consulting)
     * [Install](https://ubuntu.com/openstack/install)
     * [Support](https://ubuntu.com/openstack/support)
-* [Ceph](https://ubuntu.com/ceph) [Ceph](#)
-    -----------------------------------------
+* [Canonical Ceph](https://ubuntu.com/ceph) [Canonical Ceph](#)
+    -------------------------------------------------------------
     
     * [What is Ceph](https://ubuntu.com/ceph/what-is-ceph)
     * [Managed](https://ubuntu.com/ceph/managed)
@@ -123,8 +123,8 @@ The open source software platform that runs everywhere from the smartphone, the 
     * [Apps](https://ubuntu.com/managed/apps)
     * [Observability](https://ubuntu.com/observability/managed)
 
-* [Kubernetes](https://ubuntu.com/kubernetes) [Kubernetes](#)
-    -----------------------------------------------------------
+* [Canonical Kubernetes](https://ubuntu.com/kubernetes) [Canonical Kubernetes](#)
+    -------------------------------------------------------------------------------
     
     * [What is Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes)
     * [Charmed Kubernetes](https://ubuntu.com/kubernetes/charmed-k8s)
@@ -167,8 +167,8 @@ The open source software platform that runs everywhere from the smartphone, the 
     
     * [Desktop](https://ubuntu.com/raspberry-pi/desktop)
     * [Server](https://ubuntu.com/raspberry-pi/server)
-* [Core](https://ubuntu.com/core) [Core](#)
-    -----------------------------------------
+* [Ubuntu Core](https://ubuntu.com/core) [Ubuntu Core](#)
+    -------------------------------------------------------
     
     * [Consulting](https://ubuntu.com/core/services)
     * [Success stories](https://ubuntu.com/core/stories)
@@ -176,16 +176,16 @@ The open source software platform that runs everywhere from the smartphone, the 
     * [Tutorials](https://ubuntu.com/tutorials?q=core)
     * [Docs](https://ubuntu.com/core/docs)
 
-* [Desktop](https://ubuntu.com/desktop) [Desktop](#)
-    --------------------------------------------------
+* [Ubuntu Desktop](https://ubuntu.com/desktop) [Ubuntu Desktop](#)
+    ----------------------------------------------------------------
     
     * [Features](https://ubuntu.com/desktop/features)
     * [Organisations](https://ubuntu.com/desktop/organisations)
     * [Developers](https://ubuntu.com/desktop/developers)
     * [Partners](https://ubuntu.com/desktop/partners)
     * [Flavours](https://ubuntu.com/desktop/flavours)
-* [Server](https://ubuntu.com/server) [Server](#)
-    -----------------------------------------------
+* [Ubuntu Server](https://ubuntu.com/server) [Ubuntu Server](#)
+    -------------------------------------------------------------
     
     * [Hyperscale](https://ubuntu.com/server/hyperscale)
     * [Docs](https://ubuntu.com/server/docs)
