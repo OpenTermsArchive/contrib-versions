@@ -230,7 +230,6 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [Pricing](https://ubuntu.com/pricing) [Pricing](#)
     --------------------------------------------------
     
-    * [Support](https://ubuntu.com/pricing/infra)
     * [Consulting](https://ubuntu.com/pricing/consulting)
     * [Desktops](https://ubuntu.com/pricing/desktop)
     * [Devices](https://ubuntu.com/pricing/devices)
