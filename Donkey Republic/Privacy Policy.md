@@ -188,21 +188,21 @@ We never sell or profit directly from any of your personal data.
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| Party name | Personal data disclosed | Purpose | Transfer Mechanism | Hosting Location |
+| **Party name** | **Personal data disclosed** | **Purpose** | **Transfer Mechanism** | **Hosting Location** |
 | [Adyen](https://www.google.com/url?q=http://adyen.com&sa=D&source=editors&ust=1707143082251001&usg=AOvVaw0WiFoMgRvLOJC1s2THtkCx) | Name, email address, Payment card, IP Address and user location (only in case of dispute) | Payment provider | N/A, since no data is transferred outside of the EU | EU  |
 | [Amplitude](https://www.google.com/url?q=https://amplitude.com/&sa=D&source=editors&ust=1707143082253042&usg=AOvVaw1wiCl57PkwwijDFMRpWAP0) | Name, email address, Phone number, User location, Advertising ID, IP address, User id, rental data, usage data, web browsing data | Store and analyze data | DPF | US  |
 | [AppFollow](https://www.google.com/url?q=https://appfollow.io/&sa=D&source=editors&ust=1707143082254602&usg=AOvVaw11FJAB_NVYJfwrsbbwzdx8) | Name | Google Play Store and Apple App Store review aggregator | N/A, since no data is transferred outside of the EU | EU  |
-| [Braintree](https://www.google.com/url?q=http://braintreepayments.com&sa=D&source=editors&ust=1707143082256301&usg=AOvVaw09x7Ada4QVTChbjfknRcj6) | Name, email address, Payment card, IP Address | Payment provider for PayPal |     |     |
+| [Braintree](https://www.google.com/url?q=http://braintreepayments.com&sa=D&source=editors&ust=1707143082256301&usg=AOvVaw09x7Ada4QVTChbjfknRcj6) | Name, email address, Payment card, IP Address | Payment provider for PayPal | BCR, SCCs | Different locations where PayPal operates\* |
 | [Branch](https://www.google.com/url?q=https://www.branch.io/&sa=D&source=editors&ust=1707143082257858&usg=AOvVaw1XLg0kUB7m-7Gc3HZRqZb8) | User name, email address address | Deeplinks for apps | SCCs, DPF | US  |
 | [Brevo](https://www.google.com/url?q=https://www.brevo.com/&sa=D&source=editors&ust=1707143082259644&usg=AOvVaw2ULLSIvhR0W9hRCd27Kug2) | Name, email address, phone number.<br><br>Rental data, member status, app language, user id | Transactional, support and marketing email addresss | N/A, since no data is transferred outside of the EU | France, Belgium |
 | [CleverTap](https://www.google.com/url?q=https://clevertap.com/&sa=D&source=editors&ust=1707143082261744&usg=AOvVaw1XyT46BDZyLXTaIdqIFApF) | Name, email address, Phone number, User, Advertising ID, IP address | Marketing automation, operational information, push notifications | DPF | EU  |
 | [Datadog](https://www.google.com/url?q=https://www.datadoghq.com/&sa=D&source=editors&ust=1707143082263646&usg=AOvVaw2ZvqfwNx-HnnN6p_lioRN4) | Name, email address, Phone number, Location, IP Address | Server logging used for performance and security monitoring | N/A, since no data is transferred outside of the EU | Germany |
 | [Dovetail](https://www.google.com/url?q=https://dovetail.com/&sa=D&source=editors&ust=1707143082265541&usg=AOvVaw2r22NkAxBh6IQQOIR9c5y3) | Name, demographic data | Research management tool | DPF, SCCs | US  |
-| Google LLC | Name, email address, Phone number, User location, IP address, Advertising ID, User id, rental data, usage data, web browsing data. | Marketing activities, ads tracking, storing and analysis of data, crash reporting, remote configuration, app store for Android devices, sign in/up method, maps and location provider.<br><br>This includes the tools Firebase, Analytics, PlayStore, WhatsApp, Cloud and Ads. | DPF, SCCs | US, any country where Google or its Subprocessors maintain facilitiesa) |
+| Google LLC | Name, email address, Phone number, User location, IP address, Advertising ID, User id, rental data, usage data, web browsing data. | Marketing activities, ads tracking, storing and analysis of data, crash reporting, remote configuration, app store for Android devices, sign in/up method, maps and location provider.<br><br>This includes the tools Firebase, Analytics, PlayStore, WhatsApp, Cloud and Ads. | DPF, SCCs | US, any country where Google or its Subprocessors maintain facilities\*\* |
 | [Heroku](https://www.google.com/url?q=https://www.heroku.com/&sa=D&source=editors&ust=1707143082269800&usg=AOvVaw2X4mgLVdj_k8DgqyOdy3K4) | Name, email address, Phone number, User location, IP address | Heroku hosts our backend service and the databases where we collect data | DPF,SCCs | EU, US |
 | [LinkedIn](https://www.google.com/url?q=http://linkedin.com/&sa=D&source=editors&ust=1707143082271928&usg=AOvVaw0rASqJ2xDcjm8gpad21Xo9) |     | Organic content and Ads | DPF |     |
-| [Meta](https://www.google.com/url?q=https://about.meta.com/de/&sa=D&source=editors&ust=1707143082273846&usg=AOvVaw3da6V7yzwRBmNx8zxK7cYM) | Advertising ID, Event data on ride booking and membership signup, meta user name | Facebook, Instagram. Marketing activities, customer communication,  research recruitment | DPF | Different locations where Meta products are availableb) |
-| [PayPal](https://www.google.com/url?q=http://paypal.com&sa=D&source=editors&ust=1707143082276062&usg=AOvVaw14MyYPLnG8gtN5hedrz9CJ) | Name, email address | Payment provider | BCR, SCCs | Different locations where PayPal operatesc) |
+| [Meta](https://www.google.com/url?q=https://about.meta.com/de/&sa=D&source=editors&ust=1707143082273846&usg=AOvVaw3da6V7yzwRBmNx8zxK7cYM) | Advertising ID, Event data on ride booking and membership signup, meta user name | Facebook, Instagram. Marketing activities, customer communication,  research recruitment | DPF | Different locations where Meta products are available\*\*\* |
+| [PayPal](https://www.google.com/url?q=http://paypal.com&sa=D&source=editors&ust=1707143082276062&usg=AOvVaw14MyYPLnG8gtN5hedrz9CJ) | Name, email address | Payment provider | BCR, SCCs | Different locations where PayPal operates\* |
 | [Segment](https://www.google.com/url?q=https://segment.com/&sa=D&source=editors&ust=1707143082277715&usg=AOvVaw2ztRMcWLKToXk-ZrsNjrax) | Name, email address, Phone number, User location, IP address, Advertising ID, User id, web browsing data | Collect and forward data | DPF, SCCs, BCR | US  |
 | [Sisense](https://www.google.com/url?q=https://www.sisense.com/&sa=D&source=editors&ust=1707143082279293&usg=AOvVaw1V24GxgKedldGWwOF15MKx) | Name, email address, Phone number, User location, Advertising ID, IP address | Store and analyze data | SCCs | US  |
 | [Stripe](https://www.google.com/url?q=https://stripe.com/en-dk&sa=D&source=editors&ust=1707143082280914&usg=AOvVaw2PACnREYKSK0DIIo9PHZDw) | Name, email address, Payment card, IP Address and user location (only in case of dispute) | Payments processing | SCCs, DPF | US  |
@@ -218,11 +218,11 @@ SCC = Standard Contractual Clauses ([Standard Contractual Clauses (SCC) – Euro
 
 BCR = Binding Corporate Rules ([Binding Corporate Rules (BCR) – European Commission](https://www.google.com/url?q=https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/binding-corporate-rules-bcr_en&sa=D&source=editors&ust=1707143082289372&usg=AOvVaw3YYQi5vYvjgGQNKenuvIm7))
 
-a) See Google’s data transfer policies [here](https://www.google.com/url?q=https://cloud.google.com/terms/data-processing-addendum&sa=D&source=editors&ust=1707143082289612&usg=AOvVaw2qmK1ZXC21po-JE80Ci2QB)
+\* See PayPal’s transfer policies [here](https://www.google.com/url?q=https://www.paypal.com/dk/webapps/mpp/ua/privacy-full?locale.x%3Den_DK%238&sa=D&source=editors&ust=1707143082290175&usg=AOvVaw3wsAPYjyJV3oJnm7QBbh4a)
 
-b) See Meta’s DPA and transfer policies [here](https://www.google.com/url?q=https://www.facebook.com/privacy/policy&sa=D&source=editors&ust=1707143082289914&usg=AOvVaw10CJ9bJwlMjLe1UGnoGZKT)
+\*\* See Google’s data transfer policies [here](https://www.google.com/url?q=https://cloud.google.com/terms/data-processing-addendum&sa=D&source=editors&ust=1707143082289612&usg=AOvVaw2qmK1ZXC21po-JE80Ci2QB)
 
-c) See PayPal’s transfer policies [here](https://www.google.com/url?q=https://www.paypal.com/dk/webapps/mpp/ua/privacy-full?locale.x%3Den_DK%238&sa=D&source=editors&ust=1707143082290175&usg=AOvVaw3wsAPYjyJV3oJnm7QBbh4a)
+\*\*\* See Meta’s DPA and transfer policies [here](https://www.google.com/url?q=https://www.facebook.com/privacy/policy&sa=D&source=editors&ust=1707143082289914&usg=AOvVaw10CJ9bJwlMjLe1UGnoGZKT)
 
 ### Changes to the list of 3rd party providers
 
@@ -232,4 +232,4 @@ We reserve the right to make changes to this list at any time by giving notice o
 
 If you have any concern about your personal data, please contact us at support[\[email protected\]](https://www.donkey.bike/cdn-cgi/l/email-protection).
 
-Donkey Republic, January 2024, version 1.2
+Donkey Republic, February 2024, version 1.2
