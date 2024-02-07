@@ -297,7 +297,7 @@ The General Data Protection Regulation provides you with a number of rights unde
 
 You have the right to be provided with details of the processing of your personal data and to obtain a copy of the personal data we hold about you, subject to applicable exemptions. To help us better deal with your request please provide us with the information necessary to identify you (name, address, account number) and to identify the personal data you require.
 
-In order to make an access request please email **[Dataprotection@energia.ie](mailto:Dataprotection@energia.ie)** or send your request in writing to the:
+In order to make an access request please email **[Dataprotection@energia.ie](mailto:Dataprotection@energia.ie)** or send your request in writing to the:
 
 * Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H
 *   
@@ -345,7 +345,7 @@ You have the right not to be subject to automated individual decision making, in
 
 You have the right to lodge a complaint with the:
 
-* Data Protection Commission via their website at [**www.dataprotection.ie**](http://www.dataprotection.ie/) or by writing to the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland.
+* Data Protection Commission via their website at [**www.dataprotection.ie**](http://www.dataprotection.ie/) or by writing to the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland.
 
 ### More from Privacy
 
@@ -373,4 +373,4 @@ This Statement will be regularly reviewed to ensure we continue to meet our obli
 ### **Download Privacy Statement:**
 
   
-You can download the full Privacy Statement [**here**](https://www.energia.ie/getmedia/47c9c799-8f7f-4a80-8290-93cd4b9522eb/5397-Energia-Privacy-Policy-Document-Apr-21.pdf.aspx;).
+**[**You can download the full Privacy Statement here**](https://www.energia.ie/getattachment/233d5702-b06c-4648-843d-a7a5c1f08909/Energia-Privacy-Policy.pdf)**.
