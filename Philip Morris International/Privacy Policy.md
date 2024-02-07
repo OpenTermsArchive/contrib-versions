@@ -317,6 +317,10 @@ This Privacy Notice must be understood as a Personal Data Processing Policy in t
 
 If you are in Switzerland,  information about you may be transferred outside of Switzerland, including to a country or territory that may not have equivalent data protection standards. In such cases, the transfer will be subject to appropriate safeguards such as the Standard Contractual Clauses in accordance with the new Data Protection Act and guidance from the Federal Data Protection and Information Commissioner.
 
+_**If you are in United States, find out more…**_
+
+In the US, data obtained through the short code program will not be shared with any third-parties for their marketing reasons/purposes, except for our affiliates.
+
 Who should you contact with questions?
 --------------------------------------
 
