@@ -127,7 +127,7 @@ _**Community Forums**_:  Our websites offer publicly accessible blogs, forums,
 
 **Disclosing to third parties**
 
-We disclose information to third parties that help us operate, provide, improve, integrate, customize, support and market our Services.
+We disclose information to third parties that help us operate, provide, improve, integrate, customize, support and market our Services. Data obtained through the short code program will not be shared with any third parties for their marketing reasons/purposes.
 
 _**Service Providers**_: We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing, analysis, marketing, and other services for us, which may require them to access or use information about you.  If a service provider needs to access information about you to perform services on our behalf, they do so under close instruction from us, including appropriate security and confidentiality procedures designed to protect your information.
 
