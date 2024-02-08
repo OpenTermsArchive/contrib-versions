@@ -132,6 +132,7 @@ Consumer
 * [### YouTube Music](https://support.google.com/youtubemusic?hl=en-GB)
 * [### Google For Families](https://support.google.com/families?hl=en-GB)
 * [### Google Food Ordering](https://support.google.com/foodordering?hl=en-GB)
+* [### Gemini Apps](https://support.google.com/gemini?hl=en-GB)
 * [### YouTube Studio App Help Centre](https://support.google.com/youtubecreatorstudio?hl=en-GB)
 * [### Google Pixel Watch](https://support.google.com/googlepixelwatch?hl=en-GB)
 * [### Chrome Web Store](https://support.google.com/chrome_webstore?hl=en-GB)
