@@ -3,6 +3,8 @@ App Store Review Guidelines
 
 Apps are changing the world, enriching people’s lives, and enabling developers like you to innovate like never before. As a result, the App Store has grown into an exciting and vibrant ecosystem for millions of developers and more than a billion users. Whether you are a first time developer or a large team of experienced programmers, we are excited that you are creating apps for the App Store and want to help you understand our guidelines so you can be confident your app will get through the review process quickly.
 
+ ![ASR & NR](/app-store/review/images/key-icon.svg)Show Notarization Review Guidelines Only
+
 ### Introduction
 
 The guiding principle of the App Store is simple—we want to provide a safe experience for users to get apps and a great opportunity for all developers to be successful. We do this by offering a highly curated App Store where every app is reviewed by experts and an editorial team helps users discover new apps every day. For everything else there is always the open Internet. If the App Store model and guidelines are not best for your app or business idea that’s okay, we provide Safari for a great web experience too.
@@ -307,7 +309,7 @@ Apple customers place a high value on products that are simple, refined, innovat
         * Repurpose keyboard buttons for other behaviors (e.g. holding down the “return” key to launch the camera).
     * **4.4.2**![ASR & NR](/app-store/review/images/key-icon.svg) Safari extensions must run on the current version of Safari on the relevant Apple operating system. They may not interfere with System or Safari UI elements and must never include malicious or misleading content or code. Violating this rule will lead to removal from the Apple Developer Program. Safari extensions should not claim access to more websites than strictly necessary to function.
     * **4.4.3** Intentionally omitted.
-* **4.5 Apple Sites and Services**
+* **4.5![ASR & NR](/app-store/review/images/key-icon.svg) Apple Sites and Services**
     * **4.5.1**![ASR & NR](/app-store/review/images/key-icon.svg) Apps may use approved Apple RSS feeds such as the iTunes Store RSS feed, but may not scrape any information from Apple sites (e.g. apple.com, the iTunes Store, App Store, App Store Connect, developer portal, etc.) or create rankings using this information.
     * **4.5.2**![ASR & NR](/app-store/review/images/key-icon.svg) Apple Music
         * **(i)** MusicKit on iOS lets users play Apple Music and their local music library natively from your apps and games. When a user provides permission to their Apple Music account, your app can create playlists, add songs to their library, and play any of the millions of songs in the Apple Music catalog. Users must initiate the playback of an Apple Music stream and be able to navigate using standard media controls such as “play,” “pause,” and “skip.” Moreover, your app may not require payment or indirectly monetize access to the Apple Music service (e.g. in-app purchase, advertising, requesting user info, etc.). Do not download, upload, or enable sharing of music files sourced from the MusicKit APIs, except as explicitly permitted in [MusicKit](https://developer.apple.com/musickit/) documentation.
