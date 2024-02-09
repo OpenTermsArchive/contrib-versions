@@ -45,7 +45,7 @@ When you view our website or social media sites, we can see:
 * Your country or region (not exactly where you are unless we ask permission)
 * Your unique advertising or other identification numbers allocated to your browser or device
 
-If you follow a link to this website, we know the last site you visited. If you follow a link from this website to another HSBC Group website, we know you have reached the new website from here. To control our use of cookies or switch this off, please visit our Cookie notice at [https://www.hsbc.com/cookie-notice](https://www.hsbc.com/cookie-notice) and select “Manage Cookies”.
+If you follow a link to this website, we know the last site you visited. If you follow a link from this website to another HSBC Group website, we know you have reached the new website from here. To control our use of cookies or switch this off, please visit our [Cookie notice](https://www.hsbc.com/cookie-notice) and select “Manage Cookies”.
 
 You may also have reached this website by following a link from an e-mail. When you open an email from us, we may be able to tell:
 
@@ -104,7 +104,7 @@ We use your information to:
 
 We use your information to help protect you and ourselves against fraud or crime. For example, our service providers look at all use of our website to help block malicious activity. This helps keep you and us safe.
 
-One of our security providers is Google ReCaptcha. Google asks us to tell you that this is subject to the [Google Privacy Policy](https://www.google.com/policies/privacy/) and [Terms of Use](https://www.google.com/policies/terms/)
+One of our security providers is Google ReCaptcha. Google asks us to tell you that this is subject to the [Google Privacy Policy](https://www.google.com/policies/privacy/) and [Terms of Service](https://www.google.com/policies/terms/)
 
 ### Personalising our website
 
@@ -156,7 +156,7 @@ HSBC has access to this information to use for reporting, insights and marketing
 
 This helps HSBC improve our offering on Facebook and create better marketing. HSBC may also see this information if HSBC has communicated with you on Facebook. HSBC does this because it helps us know who we’re speaking to.
 
-If you’ve allowed us to use cookies that support our marketing, HSBC and Meta Ireland or Meta Platforms as applicable can collect this information when you use HSBC’s site too. To learn more, or to switch this off, please visit our Cookie notice at [https://www.hsbc.com/cookie-notice](https://www.hsbc.com/cookie-notice). You can control which cookies you allow by selecting “Manage Cookies”.
+If you’ve allowed us to use cookies that support our marketing, HSBC and Meta Ireland or Meta Platforms as applicable can collect this information when you use HSBC’s site too. To learn more, or to switch this off, please visit our [Cookie notice](https://www.hsbc.com/cookie-notice). You can control which cookies you allow by selecting “Manage Cookies”.
 
 Within the European Union, Meta Ireland is a ‘joint controller’, and within the UK, Meta Platforms is a ‘joint controller’, with us in law for processing where we collect information about you:
 
@@ -171,7 +171,7 @@ We and Meta Ireland and Meta Platforms respectively have agreed to share some re
 
 You can contact HSBC about how we do this. You can also contact Meta Ireland if you are in the EU or Meta Platforms if you are in the UK about what they do. This includes exercising your legal rights in respect of the data Meta Ireland and Meta Platforms, respectively collect and retain themselves.
 
-Further details of how Meta Ireland and Meta Platforms process your personal information, the legal basis it relies on, your rights and Facebook’s contact details can be found at: [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy)
+Further details of how Meta Ireland and Meta Platforms process your personal information, the legal basis it relies on, your rights and Facebook’s contact details can be found on [Meta's privacy page (opens in new window)](https://www.facebook.com/about/privacy)
 
 Your rights
 -----------
@@ -182,7 +182,7 @@ You have a legal right to:
 
 * Ask us to provide you with copies of your personal information, make corrections or sometimes ask us to delete it
 * Object to our processing of your information in some circumstances. For example, to ask us not to share your personal information for online advertising
-* Complain to the UK Information Commissioner’s Office by visiting [ico.org.uk](https://ico.org.uk/) or to the data protection regulator in the country or region where you are
+* Complain to the UK [Information Commissioner’s Office](https://ico.org.uk/) or to the data protection regulator in the country or region where you are
 * We may not always be able to stop processing your information, such as if we’re using it to help protect you or others
 
 Other important information
@@ -210,7 +210,7 @@ BX8 1HB
 
 This privacy notice may be updated from time to time, and you’ll always be able to find the most recent version on this site.
 
-Last updated: 26 May 2023
+Last updated: 9 February 2024
 
 Thank you for reading this privacy notice.
 
