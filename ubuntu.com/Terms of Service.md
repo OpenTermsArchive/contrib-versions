@@ -2,7 +2,8 @@ Your submission was sent successfully! [_Close_](#)
 
 You have successfully unsubscribed! [_Close_](#)
 
-Thank you for signing up for our newsletter![_Close_](#)
+Thank you for signing up for our newsletter!  
+In these regular emails you will find the latest updates about Ubuntu and upcoming events where you can meet our team.[_Close_](#)
 
 Website terms and conditions
 ============================
@@ -182,8 +183,8 @@ The open source software platform that runs everywhere from the smartphone, the 
     * [Features](https://ubuntu.com/desktop/features)
     * [Organisations](https://ubuntu.com/desktop/organisations)
     * [Developers](https://ubuntu.com/desktop/developers)
-    * [Partners](https://ubuntu.com/desktop/partners)
     * [Flavours](https://ubuntu.com/desktop/flavours)
+    * [WSL](https://ubuntu.com/desktop/wsl)
 * [Ubuntu Server](https://ubuntu.com/server) [Ubuntu Server](#)
     -------------------------------------------------------------
     
