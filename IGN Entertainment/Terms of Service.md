@@ -86,7 +86,7 @@ Under no circumstances can Ziff Davis be held liable for comments made by the Me
 
 _For RetailMeNot Cash Back Services:_ 
 
-General. By participating in a RetailMeNot Online Cash Back Rewards Offer and/or In-Store Cash Back Rewards Offer (each, a “Promotion”), you agree to be bound by these Cash Back Rewards and Wallet Terms (these “Promotion Terms”) in addition to the rest of the Ziff Davis Terms of Use and privacy policies. In the event of a conﬂict between these Promotion Terms and the Ziff Davis Terms of Use, these Promotion Terms will control. All features may not be available and RetailMeNot reserves the right in its sole discretion to end any Promotion or other program. 
+General. By participating in a RetailMeNot Online Cash Back Rewards Offer and/or In-Store Cash Back Rewards Offer (each, a “Promotion”), you agree to be bound by these Cash Back Rewards and Wallet Terms (these “Promotion Terms”) in addition to the rest of the Ziff Davis Terms of Use and privacy policies. In the event of a conﬂict between these Promotion Terms and the Ziff Davis Terms of Use, these Promotion Terms will control. All features may not be available and RetailMeNot reserves the right, in its sole and absolute discretion, to terminate, end or cancel any Promotion or other program at any time and without prior notice. Such termination shall not incur any obligations, consequences, or liabilities, including but not limited to compensation or payback, on the part of Ziff Davis.
 
 _Definitions._
 
