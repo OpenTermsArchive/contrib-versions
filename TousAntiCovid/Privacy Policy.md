@@ -62,9 +62,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/catherine-vautrin/)
+            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/frederic-valletoux/)
+            * [Organisation](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -780,9 +781,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/catherine-vautrin/)
+            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/frederic-valletoux/)
+            * [Organisation](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -1472,9 +1474,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/catherine-vautrin/)
+            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/frederic-valletoux/)
+            * [Organisation](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -2113,9 +2116,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/catherine-vautrin/)
+            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/frederic-valletoux/)
+            * [Organisation](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -2476,9 +2480,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/catherine-vautrin/)
+            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/frederic-valletoux/)
+            * [Organisation](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -2839,9 +2844,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/catherine-vautrin/)
+            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/frederic-valletoux/)
+            * [Organisation](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -3202,9 +3208,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/catherine-vautrin/)
+            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/frederic-valletoux/)
+            * [Organisation](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -3565,9 +3572,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/catherine-vautrin/)
+            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/frederic-valletoux/)
+            * [Organisation](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -3928,9 +3936,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/catherine-vautrin/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-du-travail-de-la-sante-et-des-solidarites-421/organisation-11312/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/catherine-vautrin/)
+            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/frederic-valletoux/)
+            * [Organisation](https://sante.gouv.fr/ministere/le-ministere-du-travail-de-la-sante-et-des-solidarites/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
