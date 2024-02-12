@@ -1172,7 +1172,7 @@ Cdiscount se réserve le droit de modifier le prix de l’Abonnement du Service 
 
 En cas de reconduction de l'Abonnement conformément aux stipulations de l'article 5 ci-après, le paiement du prix de l'Abonnement sera exigible au jour du renouvellement de l'Abonnement.
 
-3.3 En cas déoffre promotionnelle portant sur le prix de l’Abonnement au Service lors de la souscription, l’Abonné reconnait que le prix promotionnel n’est applicable que pour la première année de souscription à l’Abonnement et ne saurait s’appliquer en cas de tacite reconduction pour les années suivantes.
+3.3 En cas d’offre promotionnelle portant sur le prix de l’Abonnement au Service lors de la souscription, l’Abonné reconnait que le prix promotionnel n’est applicable que pour la première année de souscription à l’Abonnement et ne saurait s’appliquer en cas de tacite reconduction pour les années suivantes.
 
    
  
