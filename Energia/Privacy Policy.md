@@ -97,7 +97,7 @@ If you wish to change your marketing preferences you can do so at any time by wr
 
 Legal Basis: The processing is necessary for our legitimate interests or those of a third party. It is within Energia’s legitimate interest to verify that those signing up for Energia Extra are entitled customers.
 
-Legal Basis: When you sign up to Energia Extra, you are requested to consent to the processing on your personal data as stated in our sign up process, which you may withdraw at any time by leaving Energia Extra.
+Legal Basis: When you sign up to Energia Extra, you are requested to consent to the processing on your personal data as stated in our sign-up process, which you may withdraw at any time by leaving Energia Extra.
 
 **3.5 Credit Reference Checks & Fraud Prevention (Commercial Customers Only)**
 
@@ -227,7 +227,7 @@ Smart Meter tariff options:
 * Half hourly – One meter read will be taken once a day of the  half hourly data.
 * Bi-monthly – One meter read every 60 days or three meter reads covering set time periods every 60 days depending on your chosen tariff.
 
-Your choice of smart meter tariff and the frequency of energy consumption data provided may limit some of the products and services available. If having chosen to provide your half hourly data you decide to no longer do so this may also limit some of the products and services available.
+Your choice of smart meter tariff and the frequency of energy consumption data provided may limit some of the products and services available. If having chosen to provide your half hourly data, you decide to no longer do so, this may also limit some of the products and services available.
 
   
   
