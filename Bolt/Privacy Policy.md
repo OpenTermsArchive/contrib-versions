@@ -174,7 +174,7 @@ You will always have the right for human review of the decision and to contest t
 
 * Disputes relating to the processing of personal data are resolved through customer support (\[[info@bolt.eu](mailto:info@bolt.eu)\](<a href="mailto:info@bolt.eu" rel ="nofollow">[info@bolt.eu](mailto:info@bolt.eu)</a>)) in the first instance. You have the right to contact Bolt's Data Protection Officer (\[[privacy@bolt.eu](mailto:privacy@bolt.eu)\](<a href="mailto:privacy@bolt.eu" rel ="nofollow">[privacy@bolt.eu](mailto:privacy@bolt.eu)</a>)).
     
-* Our supervisory authority is the Estonian Data Protection Inspectorate ([www.aki.ee](https://bolt.eu/en/legal/ie/privacy-for-riders/www.aki.ee)).
+* Our supervisory authority is the Estonian Data Protection Inspectorate ([www.aki.ee ↗](https://bolt.eu/en/legal/ie/privacy-for-riders/www.aki.ee)).
     
 
 **11\. Making this notice great**
