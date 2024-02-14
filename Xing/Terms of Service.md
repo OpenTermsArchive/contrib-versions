@@ -284,8 +284,7 @@ _Premium membership shall run for the initial term selected by the user during t
 * (a) the absolute numbers of items of manifestly illegal content or manifestly unfounded notices or complaints, submitted within a given time frame;
 * (b) the relative proportion thereof in relation to the total number of items of information provided or notices submitted within a given time frame;
 * (c) the gravity of the misuses, including the nature of illegal content, and of its consequences;
-
-(d) where it is possible to identify it, the intention of the recipient of the service, the individual, the entity or the complainant.
+* (d) where it is possible to identify it, the intention of the recipient of the service, the individual, the entity or the complainant.
 
 ### 9\. Liability of New Work SE 
 
