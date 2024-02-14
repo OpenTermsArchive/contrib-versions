@@ -259,6 +259,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Data.Rio - Instituto Pereira Passos (IPP): [https://www.data.rio/datasets/PCRJ::limite-de-bairros/about](https://www.data.rio/datasets/PCRJ::limite-de-bairros/about)
             
+        * IBGE - Instituto Brasileiro de Geografia e Estatística [https://www.ibge.gov.br/](https://www.ibge.gov.br/)
+            
     9. **Canada**
         1. Google’s maps of Canada include data provided from the following:
             
@@ -487,6 +489,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         109. Town of Oakville: [https://www.oakville.ca/getmedia/3cb7902a-2220-433e-8aed-24f326b745b9/town-hall-oakville-open-data-licence.pdf](https://www.oakville.ca/getmedia/3cb7902a-2220-433e-8aed-24f326b745b9/town-hall-oakville-open-data-licence.pdf)
             
         110. Milton, Ontario: [https://discover-milton.hub.arcgis.com/pages/disclaimer-and-terms-of-use](https://discover-milton.hub.arcgis.com/pages/disclaimer-and-terms-of-use)
+            
+        111. City of Edmonton: [https://data.edmonton.ca/stories/s/City-of-Edmonton-Open-Data-Terms-of-Use/msh8-if28/](https://data.edmonton.ca/stories/s/City-of-Edmonton-Open-Data-Terms-of-Use/msh8-if28/)If you distribute or provide access to the datasets to any other person, whether in original or modified form, you agree to include a copy of, or this Uniform Resource Locator (URL) for, these Terms of Use and to ensure any such person agrees to, and is bound by, them without introducing any further restrictions of any kind.
             
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
@@ -1771,6 +1775,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open data platform Mobility Switzerland Licensing agreement link: [https://opentransportdata.swiss/de/terms-of-use/](https://opentransportdata.swiss/de/terms-of-use/)
             
+        * Kanton Zürich Geoinformation: [https://maps.zh.ch/?topic=AwelRKNGZH](https://maps.zh.ch/?topic=AwelRKNGZH)
+            
+        * City of Zurich [https://www.stadt-zuerich.ch/geodaten/download/Signalisierte\_Geschwindigkeiten](https://www.stadt-zuerich.ch/geodaten/download/Signalisierte_Geschwindigkeiten)
+            
     59. **Syria**
         * HDX: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
             
@@ -2270,6 +2278,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         216. San Jose CA Open Data Portal: [https://data.sanjoseca.gov/dataset/neighborhoods](https://data.sanjoseca.gov/dataset/neighborhoods)
             
+        217. City of San Jose [https://data.sanjoseca.gov/dataset/streets](https://data.sanjoseca.gov/dataset/streets)
+            
     67. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
     68. **United Arab Emirates / Abu Dhabi**
@@ -2354,6 +2364,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Ministerio de Obras Públicas, Dirección de Vialidad [https://vialidad.mop.gob.cl/Paginas/default.aspx](https://vialidad.mop.gob.cl/Paginas/default.aspx)
             
         * IDE Chile (CL): [https://www.ide.cl/](https://www.ide.cl/) Licensed by Creative Commons Attribution 4.0 International (CC By 4.0)
+            
+        * National Institute of Statistics (INE) [https://www.ine.gob.cl/](https://www.ine.gob.cl/)
             
     72. **Zambia**
         * OCHA Regional Office for Southern and Eastern Africa (ROSEA) ([https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses))
@@ -2458,9 +2470,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Croatia State Geodetic Administration (HR): [https://rgi.dgu.hr/](https://rgi.dgu.hr/) Political Boundaries, 2023
             
     95. **Paraguay**
-        
-        Datos Abiertos, 2023 (PY): [https://www.datos.gov.py/](https://www.datos.gov.py/) Postal codes licensed under: [https://www.paraguay.gov.py/datos-abiertos/licencias](https://www.paraguay.gov.py/datos-abiertos/licencias)
-        
+        * Datos Abiertos, 2023 (PY): [https://www.datos.gov.py/](https://www.datos.gov.py/)Postal codes licensed under: [https://www.paraguay.gov.py/datos-abiertos/licencias](https://www.paraguay.gov.py/datos-abiertos/licencias)
+            
+        * INE Instituto Nacional de Estadísticas Paraguay [https://www.ine.gov.py/](https://www.ine.gov.py/)
+            
     96. **Gibraltar**
         
         H.M. Government of Gibraltar - Geoportal - GIS (GI): [https://www.geoportal.gov.gi/](https://www.geoportal.gov.gi/)
