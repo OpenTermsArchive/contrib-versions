@@ -185,11 +185,11 @@ Terms of Service
 
 [Privacy Policy](https://miro.com/legal/privacy-policy)
 
-[Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
+[Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
 
 [Cookies Policy](https://miro.com/legal/cookies-policy)
 
-[Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
+[Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
 
 [Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
 
@@ -199,19 +199,19 @@ Terms of Service
 
 [Current Subprocessors List](https://miro.com/legal/subprocessors-list)
 
-[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
+[Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
+
+[Miro Assist Beta Program Terms](https://miro.com/legal/miro-assist-terms)
 
 [Customer Data Processing Addendum](https://miro.com/legal/customer-data-processing-addendum)
 
-[Code of Conduct](https://miro.com/legal/code-of-conduct)
+[Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
+
+[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
 
 [Miro Imprint](https://miro.com/legal/miro-imprint)
 
-[Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
-
-[Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
-
-[Miro Assist Beta Program Terms](https://miro.com/legal/miro-assist-terms)
+[Code of Conduct](https://miro.com/legal/code-of-conduct)
 
 ##### Table of contents
 
