@@ -127,6 +127,6 @@ By opening a Bolt App account, the Passenger agrees to your personal data being 
 
 10.3 Any complaints and reclamations can be sent to our support team at the following e-mail address: [dublin@bolt.eu](mailto:dublin@bolt.eu). In the event of a dispute about a fare, driver conduct, condition or cleanliness of a vehicle, a customer should pay the fare displayed on the meter including extras, ensure they get a printed receipt and proceed to make a formal complaint which will be investigated by the Commission for Taxi Regulation as appropriate.
 
-If you wish to make a formal complaint, please request a complaint form by ringing the National Transport Authority Information line on + 353 76 1064000. For more information please visit: [https://www.transportforireland.ie/support/taxi-compliments-complaints/](https://www.transportforireland.ie/support/taxi-compliments-complaints/)
+If you wish to make a formal complaint, please request a complaint form by ringing the National Transport Authority Information line on + 353 76 1064000. For more information please visit: [https://www.transportforireland.ie/support/taxi-compliments-complaints/ ↗](https://www.transportforireland.ie/support/taxi-compliments-complaints/)
 
 Date of entry into force of the General Terms and Conditions: 01.10.2020.
