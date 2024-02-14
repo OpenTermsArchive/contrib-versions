@@ -309,7 +309,7 @@ Apps affects the your rights of using the Bolt Services for the provision of Tra
 
 **14\. AMENDMENTS**
 
-14.1. We reserve the right to amend these General Terms anytime by uploading the revised version on the website ([https://bolt.eu/legal/](https://bolt.eu/legal/)) and notifying you (e.g. via e-mail, Bolt Apps or Bolt Driver Account) whenever, in our reasonable opinion, such amendments are material. Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services, available at: [https://eur-lex.europa.eu/legalcontent/EN/TXT/PDF/?uri=CELEX:32019R1150&from=EN](https://eur-lex.europa.eu/legalcontent/EN/TXT/PDF/?uri=CELEX:32019R1150&from=EN)
+14.1. We reserve the right to amend these General Terms anytime by uploading the revised version on the website ([https://bolt.eu/legal/](https://bolt.eu/legal/)) and notifying you (e.g. via e-mail, Bolt Apps or Bolt Driver Account) whenever, in our reasonable opinion, such amendments are material. Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services, available at: [https://eur-lex.europa.eu/legalcontent/EN/TXT/PDF/?uri=CELEX:32019R1150&from=EN ↗](https://eur-lex.europa.eu/legalcontent/EN/TXT/PDF/?uri=CELEX:32019R1150&from=EN)
 
 14.2. Any changes that affect your rights will be notified on a durable medium within a set notice period which is reasonable and proportionate in light of the specific circumstances and which is at least 15 days from notification, unless:
 
