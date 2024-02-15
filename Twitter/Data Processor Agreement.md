@@ -26,7 +26,7 @@ Processing purpose
 * Developer products, including our [APIs](https://help.twitter.com/rules-and-policies/x-api) and [embeds](https://developer.twitter.com/docs/twitter-for-websites)
 * Service-related [notifications](https://help.twitter.com/managing-your-account#notifications) and [customer support](https://help.x.com/forms)
 * Analytics
-* [Advertiser products](https://business.twitter.com/en/help/ads-policies.html)
+* [Advertiser products](https://business.x.com/en/help/ads-policies.html)
 
 Data
 
@@ -131,7 +131,7 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-**[Advertising](https://business.twitter.com/en/help/ads-policies.html) we show you on X based on data you provide or we collect on X**
+**[Advertising](https://business.x.com/en/help/ads-policies.html) we show you on X based on data you provide or we collect on X**
 
 **Advertising we show you on other websites or mobile applications based only on information collected there**
 
@@ -542,7 +542,7 @@ Processing purpose
 
 **The processing activities described above:**
 
-* [Advertising](https://business.twitter.com/en/help/ads-policies.html) we show you on X based on data you provide or we collect on X
+* [Advertising](https://business.x.com/en/help/ads-policies.html) we show you on X based on data you provide or we collect on X
     
 * Advertising we show you on other websites or mobile applications based only on information collected there
     
