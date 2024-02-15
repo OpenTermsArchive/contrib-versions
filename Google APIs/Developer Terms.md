@@ -3,7 +3,7 @@ Google API Services User Data Policy
 
 Stay organized with collections Save and categorize content based on your preferences.
 
-_Last updated August 22, 2022_
+_Last updated February 15, 2024_
 
 Google API Services, including Google Sign-In, are part of an authentication and authorization framework that gives you, the developer, the ability to connect directly with Google users when you would like to request access to Google user data. The policy below, as well as the [Google APIs Terms of Service](https://developers.google.com/terms), govern the use of Google API Services when you request access to Google user data. Please check back from time to time as these policies are occasionally updated.
 
@@ -72,7 +72,7 @@ Certain Google OAuth API Scopes (the "[Sensitive](https://support.google.com/clo
 
 > **Note:** If your app is only used by users within your own domain, then these requirements do not apply. [Google Workspace](https://support.google.com/a/topic/29157?ref_topic=7570177) can control access to connected applications [via allowlisting](https://support.google.com/a/answer/7281227). Learn more about [best practices](https://cloud.google.com/blog/products/g-suite/take-charge-your-oauth-ecosystem-these-best-practices) for managing your enterprise OAuth ecosystem.
 
-**Additional requirements include:**
+**Unless stated otherwise in the product's User Data and Developer Policy, additional requirements include:**
 
 1. **Appropriate Access:** Developers may only request access to the scopes for a permitted Application Type described by the product. Such application types can be found under an Appropriate Access heading in the product specific policy or the product's [Google Developer Page](https://developers.google.com/).
     
