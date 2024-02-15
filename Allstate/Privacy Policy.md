@@ -160,7 +160,7 @@ State specific privacy rights and choices
 **California, Virginia and Connecticut residents:**  
 California law provides residents with rights to know, access, correct and delete certain personal information, and the right to opt out of cross-context behavioral advertising described above. Similar rights exist for Virginia and Connecticut residents for some of the personal information we collect. While these rights apply only to some of the personal information we collect, and rights may differ based on the products and services you have with us, for transparency and for your convenience, you can submit a request no matter where you live.
 
-**Right to know and access your personal information:** You may request the specific pieces of personal information we have collected about you and to know:/p>
+**Right to know and access your personal information:** You may request the specific pieces of personal information we have collected about you and to know:
 
 * the categories of personal information we’ve collected,
 * the categories of sources from which personal information was collected,
