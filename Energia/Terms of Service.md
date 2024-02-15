@@ -843,7 +843,9 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
   
 [View the March 2023 Six Nation Tickets Competition terms and conditions](https://www.energia.ie/getmedia/a9617712-9e09-4cf1-983d-dd804d44c8a6/March-2023-Six-Nations-Competitions-terms-and-conditions.pdf)  
   
-[View the Janurary Mascot Six Nations Competition 2024 terms and condtions](https://www.energia.ie/getattachment/36a42af5-1c28-47b5-97a7-29a045af2317/Ireland-vs-Wales-Mascot-Comp-Terms-and-Conditions-2024-(2).pdf?lang=en-GB)
+[View the Janurary Mascot Six Nations Competition 2024 terms and condtions](https://www.energia.ie/getattachment/36a42af5-1c28-47b5-97a7-29a045af2317/Ireland-vs-Wales-Mascot-Comp-Terms-and-Conditions-2024-(2).pdf?lang=en-GB)  
+  
+[View the March SnaG Ceolchoirm with HotHouse Flowers terms and conditions](https://www.energia.ie/getattachment/4d4e22fa-7099-4f21-9ea0-1948cccb0d9d/SnaG-Ceolchoirm-with-HotHouse-Flowers-Terms-and-Conditions-2024.pdf?lang=en-GB)
 
 36\. Digital & Social Competition
 
