@@ -105,7 +105,7 @@ Rakuten donnera ordre au compte séquestre de procéder au paiement du Prix de l
 
 **5.3** Le Membre s'engage à ne pas créer ou utiliser d'autres comptes que celui initialement créé, que ce soit sous sa propre identité ou celle de tiers. Toute dérogation à cette règle devra faire l'objet d'une demande explicite de la part du Membre et d'une autorisation expresse, préalable et spécifique de Rakuten. Le fait de créer ou utiliser de nouveaux comptes sous sa propre identité ou celle de tiers sans avoir demandé et obtenu l'autorisation de Rakuten pourra entraîner la suspension des comptes du Membre et de tous les services associés.
 
-**5.4** En cas de litige entre les Membres, les parties conviennent que la production par Rakuten des enregistrements sur les serveurs de Rakuten de l'utilisation de la Plateforme Rakuten et notamment des codes d'accès nominatifs du Membre feront foi entre les parties.
+**5.4** En cas de litige entre les Membres, les parties conviennent que la production par Rakuten, des enregistrements sur les serveurs de Rakuten de l'utilisation de la Plateforme Rakuten feront foi entre les parties, sans préjudice de la production d'autres moyens de preuve.
 
 **5.5** Le Membre s'interdit en particulier de mettre en vente, de vendre et/ou d'acheter, directement ou indirectement, des Produits Interdits, ainsi que d'utiliser des informations auxquelles il aurait accès par la Plateforme Rakuten pour procéder à l'achat ou à la vente de tels Produits Interdits. Le Membre s'engage à informer sans délai Rakuten, par l’intermédiaire de la Plateforme Rakuten, dans le cas où il constaterait l'offre en ligne de tels produits. Rakuten se réserve la possibilité de demander des justificatifs d’achat aux Membres susceptibles de proposer des Produits Interdits sur la Plateforme Rakuten. Ces justificatifs seront uniquement destinés à Rakuten, en vue d’apprécier la licéité de la provenance des produits mis en vente sur la Plateforme.
 
@@ -192,7 +192,7 @@ Rakuten n’a aucun contrôle sur les frais de dédouanement et ceux-ci seront �
 
 **7.3** L'Acheteur s'engage à posséder une boîte aux lettres normalisée conforme aux recommandations des services postaux (dimension de la boîte aux lettres, indication des coordonnées des résidents...).
 
-**7.4** Le fait qu'un ou plusieurs Produits commandé(s) à un ou plusieurs Vendeurs sur la Plateforme Rakuten ne soi(en)t pas disponible(s) n'est pas un motif de renonciation à la totalité des Produits commandés; l'Acheteur étant tenu par son acceptation de l'offre du ou des autres Produit(s) disponible(s).
+**7.4** Le fait qu'un ou plusieurs Produits commandé(s) à un ou plusieurs Vendeurs sur la Plateforme Rakuten ne soi(en)t pas disponible(s) n'est pas un motif de renonciation à la totalité des Produits commandés. L'Acheteur est tenu par son acceptation de l'offre du ou des autres Produit(s) disponible(s), sans préjudice de l'exercice de son droit légal de rétractation.
 
 **7.5** Dès la réception des Produit(s) commandés, l'Acheteur confirmera leur conformité à la commande par le biais de la notation du Vendeur selon les modalités définies par l’Aide en ligne (à la rubrique « [J'ai bien reçu ma commande : confirmer la réception et noter mon vendeur](https://fr.shopping.rakuten.com/newhelp/comment-noter-mon-vendeur/) »). L'accord de l'Acheteur sur la Transaction sera ainsi réputé acquis, sans préjudice de l'exercice des garanties légales ou commerciales le cas échéant.
 
@@ -307,7 +307,7 @@ Préalablement à toute offre, le Vendeur vérifiera le cas échéant, notamment
 
 Dans le cas de fraude caractérisée (copie frauduleuse, recel, importation illégale...), Rakuten communiquera toutes les informations nécessaires, y compris nominatives, aux services compétents chargés de la répression desdites fraudes et infractions.
 
-Rakuten ne pourra être tenu responsable du caractère injurieux, diffamatoire et plus généralement contraire aux bonnes moeurs et aux lois en vigueur des commentaires mis en ligne par un Membre.
+Rakuten ne pourra être tenu responsable du caractère injurieux, diffamatoire et plus généralement contraire aux bonnes moeurs et aux lois en vigueur des commentaires mis en ligne par un Membre ; que dans les conditions de la loi n°2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (LCEN).
 
 **9.2** Sauf faute de sa part, Rakuten ne pourra être tenu responsable d'un dommage éventuellement subi par un Membre, notamment : pertes d'exploitation ou d'informations. Rakuten ne pourra être tenu responsable d'un éventuel dysfonctionnement, panne, retard ou interruption de l'accès au réseau internet.
 
