@@ -1,7 +1,7 @@
 Allstate online _privacy statement_
 ===================================
 
-Effective: June 6, 2023
+Effective: February 15, 2024
 
 This Allstate Online Privacy Statement (“Privacy Statement”) describes the privacy practices of Allstate Insurance Company and the Allstate affiliated companies whose websites and mobile apps link to this Privacy Statement (“Allstate,” “we” “our” or “us”). This Privacy Statement explains the information we collect, why we collect it, how we use and share it, and the choices you can make regarding your information. More information about Allstate affiliates is in the Allstate Affiliates section at the end of this Privacy Statement.
 
@@ -27,7 +27,7 @@ We collect the following categories of personal information:
 | --- | --- |
 | Personal identifiers | Name, alias, signature, postal address, phone number, date of birth, unique personal identifier, online identifier, email address, internet protocol (IP) address, state identification card number, account name, Social Security number, driver's license number, passport number, or other similar identifiers. |
 | Personal characteristics | Age, race, ancestry, national origin, citizenship, religion, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information) and other descriptions of your physical characteristics (e.g., height). |
-| Commercial information | Service or product related information including policy coverage information, premiums, account name, policy number, payment history, claims history, records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies, account log-in, bank account number, credit or debit card number, other payment or financial information, health insurance information, driving record, credit information, medical history, or family member information. If you use the Allstate Digital Footprint℠ feature, we will also access emails in your inbox. |
+| Commercial information | Service or product related information including policy coverage information, premiums, account name, policy number, payment history, claims history, records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies, account log-in, bank account number, credit or debit card number, other payment or financial information, health insurance information, driving record, credit information, medical history, or family member information. If you use the Allstate Digital Footprint℠feature, we will also access emails in your inbox. |
 | Biometrics and multimedia information | Fingerprint, voice print, retinal print, scan of hand or facial geometry, audio, electronic, visual or similar information. |
 | Internet or other electronic network activity information | Browsing history, search history, information regarding your interaction with our website, application or advertisement, links you use or web pages you visit while visiting our site or applications, browser type, internet service provider (ISP), cookies, and mobile device information including device identifier or other information. |
 | Geolocation data | Physical location, movements, or trip tracking information. |
@@ -50,7 +50,7 @@ We use your personal and other information for business purposes including to:
 * conduct actuarial or research studies to maintain, protect and develop our networks, services, and products and protect our customers, and
 * analyze how visitors use our Sites to improve the Sites and enhance and personalize your experience.
 
-We collect some information used for these purposes using analytics software, cookies and other tracking technologies. For more information about the collection and use of this information, see Cookies and Other Tracking Technologies below.
+We collect some information used for these purposes using analytics software, cookies and other tracking technologies. For more information about the collection and use of this information, see Online Tracking Technologies and Advertising below.
 
 **Communicate with you about your service or product.** We may communicate with you about your product, service, account, policy or membership, provide you transaction confirmations, payment alerts or other service or product related messages via mail, email or other available methods such as push notifications.
 
@@ -69,7 +69,7 @@ We do not market any products or services to children under the age of thirteen 
 Sharing your information
 ------------------------
 
-We do not sell your personal information. We also do not share personal information for cross-context behavioral advertising as defined under California law. We may share your personal information with our affiliates for business purposes consistent with the uses described in this Privacy Statement. We may also share personal information about you with third parties whenever you consent to or direct such sharing. We strive to work with companies that share our commitment to privacy. We may also share information with others in an aggregated or de-identified form that does not reasonably identify you.
+We share personal information with other companies for various business purposes and strive to work with companies that share our commitment to privacy. We may share your personal information with our affiliates for business purposes consistent with the uses described in this Privacy Statement and we may also share personal information about you with third parties whenever you consent to or direct such sharing. We may share information with others in an aggregated or de-identified form that does not reasonably identify you. We do not sell your personal information except for the sharing of personal information for cross-context behavioral advertising as defined under California law as explained more below.
 
 We may also share any of the categories of personal information described above with service providers and other third parties for business purposes or as required or permitted by law including with:
 
@@ -88,7 +88,7 @@ We may also share any of the categories of personal information described above 
 * provide data analytics services or conduct research or actuarial studies, and
 * provide support to our operations.
 
-**Marketing and advertising partners:** We may share personal and other information with third party online and other marketing and advertising partners or permit these partners to collect personal information from you directly on our Sites to personalize online advertising. We may share personal information with other financial institutions or other companies with whom we have a joint marketing agreement. The [Cookies and Other Tracking Technologies](#cookies) section below has more details about these activities.
+**Marketing and advertising partners:** We may share personal and other information with third party online and other marketing and advertising partners or permit these partners to collect personal information from you directly on our Sites to personalize online advertising. We may share personal information with other financial institutions or other companies with whom we have a joint marketing agreement. The [Online tracking technologies and advertising](#cookies) section below has more details about these activities.
 
 **Third parties in connection with a business transaction:** Personal information may be disclosed to third parties in connection with a corporate transaction, such as a merger, sale of any or all of our company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by an affiliate or third party, or in the event of a bankruptcy or similar proceedings.
 
@@ -103,15 +103,15 @@ How long we keep your information
 
 We retain personal information in accordance with applicable laws or regulatory requirements and also for as long as necessary to fulfill the purposes for which it was collected and to fulfill the business or commercial purposes that are explained in this Privacy Statement.
 
-Cookies and other tracking technologies
----------------------------------------
+Online tracking technologies and advertising
+--------------------------------------------
 
-**Technologies and information collected:** When you visit our Sites, we and our service providers automatically collect information about your use of and access to these Sites. We collect this information through a variety of tracking technologies, including cookies, Flash objects, web beacons (also called pixel tags), embedded scripts, location-identifying technologies, and similar technology (collectively, “tracking technologies”). Information we collect automatically about you may be combined with other personal information we collect directly. The information collected in this manner includes:
+**Technologies and information collected:** We, our service providers operating on our behalf and third parties, may collect information about your activity on, use of and access to our Sites using a variety of tracking technologies, including cookies, Flash objects, web beacons (also called pixel tags), embedded scripts, location-identifying technologies, and similar technology (collectively, “tracking technologies”). Information we may collect this way may be combined with other personal information we collect directly from you. The information collected in this manner includes:
 
 * The website from where you accessed our Sites, where you went to when you left our Sites, how frequently you visit our Sites, your location when you access our Sites, when and whether you open emails or click the links contained in emails, pages you visit and ads you view on our Sites, recordings of mouse clicks, mouse movements, keystrokes, and other communications you make on our Sites,
 * Information about the computer, tablet, smartphone or other device you use, such as your IP address, browser type, Internet service provider, platform type, device type/model/manufacturer, operating system, date and time stamp, a unique ID that allows us to uniquely identify your browser, mobile device or your account (including, e.g., a persistent device identifier or an Ad ID), and other similar information,
 * Analytics information collected by us or via third party analytics tools, to help us measure traffic and usage trends for the Sites and to understand more about the demographics and behaviors of our users, and
-* How often you use a mobile app, from where the app was downloaded, events that occur within the app, aggregated usage, and performance data.
+* How often you use a mobile app, where the app was downloaded, events that occur within the app, aggregated usage, and performance data.
 
 **Use of the information:** The information collected through tracking technologies allows us to provide you with an improved, enhanced and personalized customer experience, to monitor and improve our Sites and for other internal purposes such as:
 
@@ -120,17 +120,20 @@ Cookies and other tracking technologies
 * Identify and contact you across multiple devices,
 * Provide and monitor the effectiveness of our Sites,
 * Perform analytics and detect usage patterns on our Sites,
-* Diagnose or fix technology problems,
-* Detect or prevent fraud or other harmful activities, and
-* Otherwise to plan for and enhance our Sites.
+* Diagnose or fix technology problems, and
+* Detect or prevent fraud or other harmful activities.
 
 Our service providers include Adobe and Google. To learn about Adobe Analytics privacy practices or to opt-out of cookies set to facilitate reporting, visit [Adobe Privacy Center](https://www.adobe.com/privacy.html). To learn more about Google’s privacy practices, visit [Google Privacy Center](https://policies.google.com/privacy). To access and use the Google Analytics Opt-out Browser Add-on, visit [Google Opt-out](https://tools.google.com/dlpage/gaoptout).
 
-**Your choices regarding cookies:** If you prefer not to accept cookies, most browsers will allow you to manage cookies in your browser settings to disable or block cookies, remove existing cookies, automatically accept cookies or to notify you when you receive a cookie. Options available may vary by browser. However, if you disable, modify, or reject cookies, some parts or functionalities of our Site may be inaccessible or not function properly. For example, disabling cookies may require you to repeatedly enter information to take advantage of services or promotions.
+**General choices regarding cookies:** If you prefer not to accept cookies, most browsers will allow you to manage cookies in your browser settings to disable or block cookies, remove existing cookies, automatically accept cookies or to notify you when you receive a cookie. These settings are browser or device specific. Options available may vary by browser. If you disable, modify, or reject cookies, some parts or functionalities of our Site may be inaccessible or not function properly. For example, disabling cookies may require you to repeatedly enter information to take advantage of services or promotions. Also, if you clear your cookies on your browser or make selections using a different device or browser, you may need to redo your cookie settings.
 
-**Targeted online advertising and do not track:** We or our marketing and advertising service providers may use information about your activities on our Sites or other websites, to help tailor our advertisements or offers to what may interest you — also called interest-based advertising. The information is collected using the tracking technologies explained above. To limit interest-based advertising visit [Interest-based Advertising Opt-out](https://optout.aboutads.info/?c=2&lang=EN).
+**Targeted Online Advertising and Opt-outs:** We or our online marketing and advertising providers may use information about your activities on our Sites or other websites to help tailor our advertisements or offers to your interests. On some of our websites, we allow third-party advertising companies to collect information about your activity on our Sites through cookies or other tracking technologies and combine that information with information they collect on other unrelated sites, which the advertising companies may use to provide you with relevant, targeted advertising. This sort of online advertising is called cross-context behavioral advertising under the California Consumer Privacy Act (CCPA). We do not knowingly share personal information for cross-context behavioral advertising of users under the age of sixteen.
 
-You may continue to see generic or non-targeted ads about our products and services if you opt-out of interest-based advertising. Although we do our best to honor the privacy preferences of our visitors, we are currently not able to respond to “Do Not Track” signals from your browser.
+CCPA provides California residents the right to opt-out of the “sharing” of your information for cross-context behavioral advertising. You can opt-out of this sharing via the “Do Not Sell or Share My Personal Information” link in the footer of our website or by visiting our preference center and selecting “Opt out of targeted online advertising.” You may also opt-out by enabling a universal tool that automatically communicates your opt-out preferences through browser settings such as the Global Privacy Control (“GPC”). All website visitors, regardless of residency, can opt-out of this sharing.
+
+You can also limit receiving certain targeted online advertising referred to as Interest-Based Advertising by visiting [NAI Consumer Opt Out (networkadvertising.org)](https://optout.networkadvertising.org/?c=1).
+
+Opt-out choices apply only to the specific browser from which you opted out. Also, clearing cookies or browsing history will erase your opt-out selection. You may continue to see generic or non-targeted ads about our products and services if you opt-out of sharing for cross-context behavioral advertising or interest-based advertising.
 
 Privacy rights and choices
 --------------------------
@@ -147,7 +150,7 @@ If you use My Account you can also manage email and other notifications and mark
 
 You may also update, delete or modify your account profile information at any time by logging into your online account and making updates, or you may call us or contact your agent to correct the information.
 
-**Personal information sharing perferences:** We would like to share your personal information with one or more Allstate affiliates in order to make you aware of different products, services and offers they can provide. However, you can request that Allstate not share your personal information with our affiliates for marketing products and services. For information about Allstate's affiliates, see the Affiliates section at the end of this Privacy Statement.
+**Personal information sharing preferences:** We would like to share your personal information with one or more Allstate affiliates in order to make you aware of different products, services and offers they can provide. However, you can request that Allstate not share your personal information with our affiliates for marketing products and services. For information about Allstate’s affiliates, see the Affiliates section at the end of this Privacy Statement.
 
 To request that we not allow other Allstate affiliates use your personal information to market their products and services, please call us at [1-800-856-2518](tel:1-800-856-2518) twenty-four hours a day, seven days a week. Please keep in mind that it may take up to four weeks to process your request. If you previously contacted us and asked us not to allow other Allstate affiliates to use your personal information, your previous choice still applies, and you do not need to contact us again. If you would like to change your previous choice, please call the number above at any time.
 
@@ -155,46 +158,46 @@ State specific privacy rights and choices
 -----------------------------------------
 
 **California, Virginia and Connecticut residents:**  
-California residents have certain rights under California Consumer Privacy Act (CCPA) to access, correct and delete personal information, and other rights described below. Similar rights exist for Virginia and Connecticut residents for some of the personal information we collect. While these rights apply only to some of the personal information we collect, for transparency and for your convenience, you can submit a request no matter where you live.
+California law provides residents with rights to know, access, correct and delete certain personal information, and the right to opt out of cross-context behavioral advertising described above. Similar rights exist for Virginia and Connecticut residents for some of the personal information we collect. While these rights apply only to some of the personal information we collect, and rights may differ based on the products and services you have with us, for transparency and for your convenience, you can submit a request no matter where you live.
 
-**Right to know and access your personal information:** You have the right to request the specific pieces of personal information we have collected about you and the right to know:
+**Right to know and access your personal information:** You may request the specific pieces of personal information we have collected about you and to know:/p>
 
 * the categories of personal information we’ve collected,
 * the categories of sources from which personal information was collected,
 * the business or commercial purpose for collecting the personal information, and
 * the categories of third parties with whom we disclose or share personal information.
 
-**Right to deletion of personal information:** You have the right to request deletion of personal information collected from you, subject to certain exceptions including that we need the personal information to:
+**Right to deletion of personal information:** You may request deletion of personal information collected from you, subject to certain exceptions including that we need the personal information to:
 
 * Complete a transaction or provide a good or service you requested, service your account, or take actions reasonably anticipated within the context of our ongoing business relationship,
 * Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity, or prosecute those responsible for such activities,
 * Comply with a legal obligation, or
 * Otherwise use your personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
 
-**Right to correct personal information:** You have the right to request we correct any inaccurate information we have about you. We may request that you provide documentation to support your request and we will correct your information unless we determine that the personal information is more than likely accurate.
+**Right to correct personal information:** You may request we correct any inaccurate information we have about you. We may request that you provide documentation to support your request and we will correct your information unless we determine that the personal information is more than likely accurate.
 
 **Non-discrimination rights:** We don’t discriminate against you if you exercise any of the privacy rights described in this privacy statement.
 
 **Verified requests:** To protect you and your personal information, we will only respond to access or deletion requests that we have been able to properly verify through our authentication processes. To verify your identity, you will be asked to provide several pieces of personal information, such as name and demographic information, which we only use to verify your identity or authority to make the request.
 
-**Submitting a request:** To submit an access or deletion request, please visit [Access/Delete webpage](https://allstate.consumerprivacyinfo.com/) to submit an online request or call us at [1-800-624-4419](tel:1-800-624-4419). To submit a correction request, please visit [Correction webpage](https://allstatecorrections.consumerprivacyinfo.com/) to submit an online request or call us at [1-800-624-4419](tel:1-800-624-4419). Responses to a verified request may take up to 45 calendar days, or longer depending on the nature of the request. If additional time is needed, we will notify you of the additional time. We may only respond to two access requests within a 12-month period. Requests from authorized agents must be submitted via the same online portal or toll-free number but to protect your privacy, consumers will be required to verify their identity directly with us via our online portal or toll-free number.
+**Submitting a request:** To submit an access or deletion request, please visit [Access/Delete webpage](https://allstate.consumerprivacyinfo.com/) to submit an online request or call us at 1-800-624-4419. To submit a correction request, please visit [Correction webpage](https://allstatecorrections.consumerprivacyinfo.com/) to submit an online request or call us at [1-800-624-4419](tel:1-800-624-4419). Responses to a verified request may take up to 45 calendar days, or longer depending on the nature of the request. If additional time is needed, we will notify you of the additional time. We may only respond to two access requests within a 12-month period. Requests from authorized agents must be submitted via the same online portal or toll-free number but to protect your privacy, consumers will be required to verify their identity directly with us via our online portal or toll-free number.
 
 **Consumer request metrics:**
 
 [View California Consumer Request Metrics](https://www.allstate.com/privacy-center/consumer-requests-metrics).
 
-**Virginia and Connecticut resident right to appeal:** If we are unable to fulfill your request to access, review, delete or correct your personal information, we will respond to you explaining why. If you would like to appeal for additional review of our inability to fulfill your request, please visit [Appeals webpage](https://appeals.consumerprivacyinfo.com/).
+**Virginia and Connecticut resident right to appeal:** If we are unable to fulfill your request to access, review, delete or correct your personal information, we will respond to you explaining why. If you would like to appeal our response to your request, please visit [Appeals webpage](https://appeals.consumerprivacyinfo.com/).
 
 **Montana residents:** Pursuant to Montana law, you may request a record of any disclosure of your medical information during the preceding three years. Please send requests to Allstate Insurance Company, Customer Privacy Inquiries, P.O. Box 660598, Dallas, TX 75266-0598.
 
-**Nevada residents:** Pursuant to Nevada law, if you do not want to receive sales calls from Allstate you may request to be placed on our internal "do not call" list. To make this request, call [1-800-255-7828](tel:1-800-255-7828) or email us by going to [Allstate.com](https://www.allstate.com/) and clicking on Explore Allstate > Contact Us. Please make sure to provide us with your name, address and all telephone numbers you wish to include on our list. For further information, you may also contact the Office of the Nevada Attorney General, Bureau of Consumer Protection at:
+**Nevada residents:** Pursuant to Nevada law, if you do not want to receive sales calls from Allstate you may request to be placed on our internal “do not call” list. To make this request, call [1-800-255-7828](tel:1-800-255-7828) or email us by going to Allstate.com and clicking on Explore Allstate > Contact Us. Please make sure to provide us with your name, address and all telephone numbers you wish to include on our list. For further information, you may also contact the Office of the Nevada Attorney General, Bureau of Consumer Protection at:
 
 555 E. Washington Avenue, Suite 3900  
 Las Vegas, NV 89101  
 Phone: [(702) 486-3132](tel:702-486-3132)  
 Email: [BCPINFO@ag.state.nv.us](mailto:BCPINFO@ag.state.nv.us)
 
-Allstate's "do not call" list is limited only to telephone solicitation calls. We may still contact you about your Allstate policy, billing issues, claims and other service matters.
+Allstate’s “do not call” list is limited only to telephone solicitation calls. We may still contact you about your Allstate policy, billing issues, claims and other service matters.
 
 **Vermont residents:**  
 We won't share your personal information with Allstate companies for marketing purposes except as allowed by Vermont law.
@@ -209,14 +212,14 @@ Our website includes Social Media features, such as the Facebook Like button and
 Security
 --------
 
-Protecting your personal information is important to us. We use a combination of reasonable technical, administrative, and physical safeguards to protect your personal information. However, no website, mobile application, database or system is completely secure or "hacker proof.'' So, we cannot guarantee its absolute security. You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
+Protecting your personal information is important to us. We use a combination of reasonable technical, administrative, and physical safeguards to protect your personal information. However, no website, mobile application, database or system is completely secure or “hacker proof.” So, we cannot guarantee its absolute security. You are also responsible for taking reasonable steps to protect your personal information against unauthorized disclosure or misuse.
 
 We limit access to your personal information to those who need it to do their jobs. We comply with all applicable federal and state data security laws.
 
 Allstate digital footprint
 --------------------------
 
-If you enroll in the Allstate Digital Footprint℠ feature through the mobile app, you provide Allstate access to your Microsoft and/or Google email accounts. We will only use the data accessed from your Microsoft and Google accounts to read, write, modify, or control email message bodies (including attachments), metadata, headers, and settings ("email data") to:
+If you enroll in the Allstate Digital Footprint℠ feature through the mobile app, you provide Allstate access to your Microsoft and/or Google email accounts. We will only use the data accessed from your Microsoft and Google accounts to read, write, modify, or control email message bodies (including attachments), metadata, headers, and settings (“email data”) to:
 
 * identify certain online accounts,
 * notify you of known security breaches related to those accounts, and
