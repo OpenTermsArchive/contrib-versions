@@ -47,7 +47,7 @@
         * [Storage and international transfer of your Personal Information](#brazil-storage-international-transfer-pii)
         * [Your rights as a Data Subject](#brazil-rights-as-data-subject)
 
-Effective Date: Nov. 14, 2023
+Effective Date: February 15, 2024
 
 [](https://www.kidsafeseal.com/certifiedproducts/roblox.html)
 
@@ -104,6 +104,8 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Covent Garden, London, WC2B 5AH, United Kingdom
     
     If you’re in Brazil, contact our Brazilian Data Protection Officer by emailing [privacy@roblox.com](mailto:privacy@roblox.com).
+    
+    If you’re in Korea, more information is located in the [Privacy Policy Addendum for Users in Republic of Korea](https://en.help.roblox.com/hc/articles/15685139483924).
     
     Before moving on to the rest of the Privacy Policy, when you see certain terms in this Policy, some of them have specific meanings.
     
@@ -195,7 +197,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Sharing your phone number
     
-    If you choose to give a phone number, we’ll send you a text message asking you to confirm your number before you can log in. You can use your phone number to recover a lost or forgotten password or log in via mobile. You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Roblox or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud.
+    If you choose to give a phone number, we’ll send you a text message asking you to confirm your number before you can log in. We will use your phone number for security and account access, including to recover a lost or forgotten password or log in via mobile. You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Roblox or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud.
     
     Additionally, with your explicit and informed consent, we may use your phone number to recommend you as a friend to others using Roblox. You will be recommended with your contact name as stored on your friends’ devices, which may also include your real name. If you do not want us to use your phone number to be found by your friends on Roblox, please do not activate this feature or deactivate it at any time. Please note that the Discoverability feature may not be available in certain locations.
     
@@ -614,7 +616,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     * Username and password to create your account. The basis for processing this personal data is Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”).
     * Email addresses and other information you provided us with for added verification and/or to enable certain features. The bases for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) and f (“legitimate interest”) GDPR. Roblox has a legitimate interest in providing a safe and secure Service, especially to protect children.
-    * If you choose to provide a phone number for verification, which will allow you to log in via mobile. Your phone number may also be used to recover a lost or forgotten password. You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Roblox or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”) and f (“legitimate interest”) GDPR. We have a legitimate interest in enabling you to use our Services via your mobile device and preventing fraud. Additionally, with your explicit and informed consent, we may use your phone number to recommend you as a friend to others using Roblox. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. a GDPR (“consent”).
+    * If you choose to provide a phone number, we will use the phone number for security and account access purposes, which will allow you to log in via mobile and recover a lost or forgotten password. You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Roblox or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”) and f (“legitimate interest”) GDPR. We have a legitimate interest in enabling you to use our Services via your mobile device, ensuring security, and preventing fraud. Additionally, with your explicit and informed consent, we may use your phone number to recommend you as a friend to others using Roblox. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. a GDPR (“consent”).
     
     Purchases on Roblox
     
@@ -727,7 +729,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     * Username and password to create your account.
     * Email addresses and other information you provided us with for added verification and/or to enable certain features. Roblox has a legitimate interest in providing a safe and secure Service, especially to protect children.
-    * If you choose to provide a phone number for verification, which will allow you to log in via mobile. Your phone number may also be used to recover a lost or forgotten password. You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Roblox or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud. We have a legitimate interest in enabling you to use our Services via your mobile device and preventing fraud. Additionally, with your explicit and informed consent, we may use your phone number to recommend you as a friend to others using Roblox.
+    * If you choose to provide a phone number, we will use the phone number for security and account access purposes, which will allow you to log in via mobile and recover a lost or forgotten password. You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Roblox or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud. We have a legitimate interest in enabling you to use our Services via your mobile device, ensuring security, and preventing fraud. Additionally, with your explicit and informed consent, we may use your phone number to recommend you as a friend to others using Roblox.
     
     Purchases on Roblox
     
@@ -843,4 +845,5 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Please also note that these rights are not absolute and may not apply in certain circumstances. For example, we may continue to process and retain Personal Information regardless of your request to delete, object, block or anonymize it, to comply with legal, contractual and/or regulatory obligations, and to protect and exercise rights, including in judicial, administrative and arbitration proceedings, and as otherwise required by law. To exercise your rights or ask questions, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support). To appeal a decision about your privacy rights, please contact our Brazilian Data Protection Officer by emailing [privacy@roblox.com](mailto:privacy@roblox.com), or otherwise reaching out to us as described in Section 1.
     
 
-Last Updated: November 14, 2023
+Effective Date: February 15, 2024  
+Last Updated: February 15, 2024
