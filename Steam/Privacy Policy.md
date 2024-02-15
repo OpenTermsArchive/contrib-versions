@@ -5,9 +5,11 @@ Privacy Policy Agreement
 
 Valve respects the privacy of its online visitors and customers of its products and services and complies with applicable laws for the protection of your privacy, including, without limitation, the California Consumer Privacy Act ("CCPA"), the European Union General Data Protection Regulation ("GDPR") and the UK GDPR.  
   
+Valve and its subsidiary TR Technical Inc. comply with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Valve has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Valve has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).  
+  
 **1\. Definitions**  
   
-Wherever we talk about Personal Data below, we mean any information that can either itself identify you as an individual ("Personally Identifying Information") or that can be connected to you indirectly by linking it to Personally Identifying Information. Valve also processes anonymous data, aggregated or not, to analyze and produce statistics related to the habits, usage patterns, and demographics of customers as a group or as individuals. Such anonymous data does not allow the identification of the customers to which it relates. Valve may share anonymous data, aggregated or not, with third parties.  
+Wherever we talk about personal data ("Personal Data") below, we mean any information that can either itself identify you as an individual ("Personally Identifying Information") or that can be connected to you indirectly by linking it to Personally Identifying Information. Valve also processes anonymous data, aggregated or not, to analyze and produce statistics related to the habits, usage patterns, and demographics of customers as a group or as individuals. Such anonymous data does not allow the identification of the customers to which it relates. Valve may share anonymous data, aggregated or not, with third parties.  
   
 Other capitalized terms in this Privacy Policy shall have the meanings defined in the [Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/) ("SSA").  
   
@@ -76,9 +78,9 @@ In particular:
   
 Valve does not sell Personal Data. However, we may share or provide access to each of the categories of Personal Data we collect as necessary for the following business purposes.  
   
-5.1 Valve and its subsidiaries may share your Personal Data with each other and use it to the degree necessary to achieve the purposes listed in section 2 above. In the event of a reorganization, sale or merger we may transfer Personal Data to the relevant third party subject to applicable laws.  
+5.1 Valve and its subsidiaries may share your Personal Data with each other and use it to the degree necessary to achieve the purposes listed in section 2 above. In the event of a reorganization, sale or merger we may transfer Personal Data to the relevant third party subject to applicable laws, the Principles and liability requirements under the DPF.  
   
-5.2 We may also share your Personal Data with our third party service providers that provide customer support services in connection with goods, Content and Services distributed via Steam. Your Personal Data will be used in accordance with this Privacy Policy and only as far as this is necessary for performing customer support services.  
+5.2 We may also share your Personal Data with our third party service providers that provide customer support services in connection with goods, Content and Services distributed via Steam. Your Personal Data will be used in accordance with this Privacy Policy and only as far as this is necessary for performing customer support services. Valve complies with the Principles for all onward transfers of Personal Data from the EU, Switzerland, and the UK, including the provisions governing onward transfer liability.  
   
 5.3 In accordance with internet standards, we may also share certain information (including your IP address and the identification of Steam content you wish to access) with our third party network providers that provide content delivery network services and game server services in connection with Steam. Our content delivery network providers enable the delivery of digital content you have requested, e.g. when using Steam, by using a system of distributed servers that deliver the content to you, based on your geographic location.  
   
@@ -128,6 +130,9 @@ You have the right to receive your Personal Data in a structured, commonly used 
 6.7 Right to Post-Mortem Control of Your Personal Data  
 If French data protection legislation is applicable to you, you have the right to establish guidelines for the preservation, the deletion and the transmission of Personal Data after your death in accordance with article 40-1 of the Act No 78-17 of 6 January 1978 on Information, Technology, Data Files and Civil Liberties.  
   
+6.8 Arbitration  
+If Valve does not resolve any claimed violations of the Principles by any other DPF mechanism or by your rights under this section, you have � in accordance with the requirements of Annex I to the DPF � the possibility to invoke binding arbitration before the EU-U.S. Data Privacy Framework Panel.  
+  
 **7\. Children**  
   
 The minimum age to create a Steam User Account is 13. Valve will not knowingly collect Personal Data from children under this age. Where certain countries apply a higher age of consent for the collection of Personal Data, Valve requires parental consent before a Steam User Account can be created and Personal Data associated with it collected. Valve encourages parents to instruct their children to never give out personal information when online.  
@@ -138,12 +143,14 @@ You can contact Valve's data protection officer at the address below.
   
 While we review any request sent by mail, please be aware that to combat fraud, harassment and identity theft, the only way to access, rectify or delete your data is through logging in with your Steam User Account at [http://help.steampowered.com](http://help.steampowered.com/) and selecting the menu items _\-> My Account -> View Account Data_.  
   
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Valve commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Valve at:  
+  
 Valve Corporation  
 Att. Data Protection officer  
 P.O. Box 1688  
 Bellevue, WA 98009  
   
-EU representative for data protection questions:  
+EU and Switzerland representative for data protection questions:  
   
 Valve GmbH  
 Att. Legal  
@@ -167,7 +174,18 @@ As a US-based company that operates a worldwide gaming service, we may transfer 
 * Industry-standard encryption
 * Provision of access to data on a need-to-know basis
 * The use of Standard Contractual Clauses in their version in force and approved by the European Commission and the UK ICO to safeguard transfers
+* Certification and participation in the DPF, set out in the DPF List available at https://www.dataprivacyframework.gov/s/participant-search
 
+  
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Valve commits, free of charge to the affected individual, to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs), the UK Information Commissioner�s Office (ICO) and the Gibraltar Regulatory Authority (GRA) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF., the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. Links to the website of each authority are available below.  
+
+* EU DPAs: [https://edpb.europa.eu/about-edpb/about-edpb/members\_en](https://edpb.europa.eu/about-edpb/about-edpb/members_en)
+* UK ICO: [https://ico.org.uk/for-the-public/](https://ico.org.uk/for-the-public/)
+* GRA: [https://www.gra.gi/data-protection](https://www.gra.gi/data-protection)
+* FDPIC: [https://www.edoeb.admin.ch/edoeb/home.html](https://www.edoeb.admin.ch/edoeb/home.html)
+
+  
+The Federal Trade Commission has jurisdiction over Valve�s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).  
   
 **10\. Additional Information for Users from California**  
   
@@ -185,7 +203,7 @@ You may designate, in writing or through a power of attorney, an authorized agen
   
 **Categories, Sources, Purposes, and Recipients of the Data We Collect.** Over the preceding 12 months, we have collected the categories of Personal Data described in section 3 of this Privacy Policy. The sources from which we collect Personal Data, and the purposes for which we collect and process it, are described in sections 2 and 3. Over the preceding 12 months, we have disclosed for business purposes each of the categories of Personal Data with the categories of third parties as described in section 5.  
   
-_Revision Date: July 13, 2023_  
+_Revision Date: February 14th, 2024_  
   
   
    
