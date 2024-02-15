@@ -3,11 +3,11 @@
 Terms of Use
 ============
 
-Download a copy of the SurveyMonkey TOU [here](https://prod.smassets.net/assets/content/sm/Terms-of-Use-SurveyMonkey-2023-08-01.pdf).
+Download a copy of the SurveyMonkey TOU [here](https://prod.smassets.net/assets/content/sm/Terms-of-Use-SurveyMonkey-2024-02-15.pdf).
 
 These terms apply to services purchased or signed-up for on SurveyMonkey's websites. For terms applicable to services offered through our enterprise sales team, please see our [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/gsa/).
 
-LAST UPDATED: November 1, 2023
+LAST UPDATED: February 15, 2024
 
 Introduction
 ------------
@@ -190,7 +190,7 @@ You may only use the Services if you are not prohibited under any applicable law
 
 ### 8.4 Compliance with Laws.
 
-You warrant and undertake that you will at no time use or avail (or permit the use) of SurveyMonkey's services, solutions, facilities, tools, software, or assistance under this Agreement in a manner: (i) which is a breach of laws or regulations applicable to you or SurveyMonkey, or (ii) which would require SurveyMonkey to comply with any laws and/or regulations other than those listed in the definition of Data Protection Legislation in the Data Processing Agreement or otherwise specified in these terms or, which may become applicable to SurveyMonkey by reason of providing services, solutions, facilities, tools, software or assistance to you. 
+You warrant and undertake that you will at no time use or avail (or permit the use) of SurveyMonkey's services, solutions, facilities, tools, software, or assistance under this Agreement in a manner: (i) which is a breach of laws or regulations applicable to you or SurveyMonkey, or (ii) which would require SurveyMonkey to comply with any laws and/or regulations other than those listed in the definition of Data Protection Legislation in the Data Processing Agreement or otherwise specified in these terms. 
 
 9\. Acceptable Uses Policy
 --------------------------
