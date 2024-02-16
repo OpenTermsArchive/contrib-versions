@@ -58,10 +58,10 @@ Misleading content may be allowed in an educational, documentary, scientific, or
 Enforcement of Google Groups’ Content Policy
 --------------------------------------------
 
-If you encounter a group or message that you believe violates our content policies, please report it to us using the 'Report Abuse' option. More information on reporting can be found [here](https://support.google.com/groups/answer/81275).
+If you encounter a group or message that you believe violates our content policies or contains illegal content, please report it to us using the 'Report' option. More information on reporting can be found [here](https://support.google.com/groups/answer/81275).
 
-Our team reviews these flags for policy violations. If the content does not violate our policies, we will not take any action. If we find that the content does violate our policies, we take one or more of the following actions based on the severity of the violation:
+Our teams review the reports. If the content doesn't violate our policies, we won’t take any action. If it does, we’ll do one or more of the following:
 
-* Delete the offending content
-* Disable the author's access to his/her Google account
+* Delete the offending content globally
+* Disable the author's access to his/her Google Account
 * Report the user to law enforcement
