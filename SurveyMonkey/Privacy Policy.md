@@ -96,7 +96,8 @@ When you sign up for our services you are asked to provide us with information a
 
 We may combine information about you from third party sources (such as LinkedIn, ZoomInfo, and other data brokers) with information we hold about you to create a user profile.
 
-### 3\. How we use the Personal Data we collect
+3\. How we use the Personal Data we collect
+-------------------------------------------
 
 * **3.1 Creator**
     
