@@ -1,7 +1,7 @@
 Bumble Terms and Conditions of Use
 ----------------------------------
 
-Welcome to Bumble’s Terms and Conditions of Use (these “Terms”). This is a contract between you and the Bumble Group (as defined further below) and we want you to know yours and our rights before you use the Bumble website or application (“Bumble” or the “App”). Please take a few moments to read these Terms before enjoying the App, because once you access, view or use the App, you are going to be legally bound by these Terms (so probably best to read them first!).
+Welcome to Bumble’s Terms and Conditions of Use (these “Terms”). This is a contract between you and the Bumble Group (as defined further below) and we want you to know yours and our rights before you use the Bumble website or application (“Bumble” or the “App”). Please take a few moments to read these Terms before enjoying the App, because once you access, view or use the App, you are going to be legally bound by these Terms (so probably best to read them first!). Please also read our [Community Guidelines](https://bumble.com/en/guidelines) (which form part of these Terms) and our [Privacy Policy](https://bumble.com/en/privacy).
 
 **Please be aware that if you subscribe to services for a term (the “Initial Term”), then the terms of your subscription will be automatically renewed for additional periods of the same duration as the Initial Term at Bumble’s then-current fee for such services, unless you cancel your subscription in accordance with Section 5 below.**
 
@@ -14,8 +14,10 @@ And a notice to California subscribers: You may cancel your subscription and req
 
 Before you can use the App, you will need to register for an account (“Account”). In order to create an Account you must:
 
-1. be at least 18 years old or the age of majority to legally enter into a contract under the laws of your home country; and
+1. be at least 18 years old or the age of majority to legally enter into a contract under the laws of your home country if that happens to be greater than 18; and
 2. be legally permitted to use the App by the laws of your home country.
+
+Please note that we monitor for underage use and we will terminate, suspend or ask you to verify your Account if we have reason to believe that you may be underage.
 
 You can create an Account via manual registration, or by using your Facebook login details. If you create an Account using your Facebook login details, you authorise us to access, display and use certain information from your Facebook account (e.g. profile pictures, relationship status, location and information about Facebook friends). For more information about what information we use and how we use it, please check out our [Privacy Policy](https://bumble.com/en/privacy).
 
@@ -23,7 +25,9 @@ Unfortunately, we cannot allow you to use another person’s Account or to share
 
 You’ll have great fun on Bumble, but if you feel the need to leave, you can delete your Account at any time by going to the ‘Settings’ page when you are logged in and clicking on the ‘Delete account’ link. Your Account will be deleted immediately but it may take a little while for Your Content (defined below) to be completely removed from the App. Your profile information will be treated in accordance with our Privacy Policy. If you delete your Account and try to create a new account within this time period using the same credentials, we will re-activate your Account for you.
 
-We use a combination of automated systems and a team of moderators to monitor and review accounts and messages for content that indicates breaches of these Terms. We reserve the right at our sole discretion to terminate or suspend any Account, restrict access to the App, or make use of any operational, technological, legal or other means available to enforce the Terms (including without limitation blocking specific IP addresses), at any time without liability and without the need to give you prior notice. Without limiting the foregoing in any way, we expressly reserve the right to terminate or suspend your Account without notice (1) for violating these terms, (2) due to your conduct on the App, or your conduct with other users of the App (including your “offline” conduct), if we, in our sole discretion, determine your conduct was inappropriate or improper, (3) if we or our affiliates, in our or their sole discretion, determine your conduct on other apps operated by our affiliates was inappropriate or improper, or (4) for any reasons whatsoever that we deem, in our sole discretion, justifies termination. If your Account is terminated or suspended, you agree you will not receive a refund for any paid service or features you have already been charged for.
+We use a combination of automated systems, user reports and a team of moderators to monitor and review accounts and content to identify breaches of these Terms. We reserve the right at our sole discretion to terminate or suspend any Account, restrict access to the App, or make use of any operational, technological, legal or other means available to enforce the Terms (including without limitation blocking specific IP addresses). For users residing in the European Union (“EU”), we will notify you when we take action against your Account or Your Content (defined below) unless it is not appropriate for us to do so (for example, we are not permitted by law enforcement agencies). For all other users, we may take such action, at any time without liability and without the need to give you prior notice. Without limiting the foregoing in any way and unless otherwise prohibited by mandatory laws in the country in which you reside, we expressly reserve the right to terminate or suspend your Account without notice (1) for violating these Terms, (2) due to your conduct on the App, or your conduct with other users of the App (including your “offline” conduct), if we, in our sole discretion, determine your conduct was inappropriate or improper, (3) if we or our affiliates, in our or their sole discretion, determine your conduct on other apps operated by our affiliates was inappropriate or improper, or (4) for any reasons whatsoever that we deem, in our sole discretion, justifies termination. If your Account is terminated or suspended, you agree you will not receive a refund for any paid service or features you have already been charged for. If you believe that we’ve made a mistake in taking action on your Account or Your Content (defined below), you can appeal using the processes outlined within the App or by contacting us using the help link in our [Community Guidelines](https://bumble.com/en/guidelines) available [here](https://bumble.com/en/help/#contact-us).
+
+For users residing in the EU, you have additional rights under the Digital Services Act to: (i) access third party out-of-court dispute settlement processes; (ii) seek remedies from the courts in the EU member state in which you live; and (iii) lodge a complaint with your local EU regulatory authority.
 
 You may not access, tamper with, or use non-public areas of the App or our systems. Certain portions of the App may not be accessible if you have not registered for an Account.
 
@@ -38,30 +42,31 @@ There are three types of content that you will be able to access on the App:
 
 **There is certain content we can’t allow on Bumble**
 
-We want our users to be able express themselves as much as possible and post all sorts of things on Bumble, but we have to impose restrictions on certain content which:
+Our [Community Guidelines](https://bumble.com/en/guidelines) form part of these Terms and outline what content and conduct is accepted on and off our App. You agree to comply with our [Community Guidelines](https://bumble.com/en/guidelines) as may be updated from time to time.
 
-* contains language or imagery which could be deemed offensive or is likely to harass, upset, embarrass, alarm or annoy any other person (including for example and without limitation, language that could be deemed discriminatory towards an individual’s race, colour, ethnicity, national origin, religion, disability, sexual orientation, gender expression, gender identity or physical appearance);
-* is obscene, pornographic, violent or otherwise may offend human dignity (including for example and without limitation, language that could be deemed discriminatory towards an individual’s race, colour, ethnicity, national origin, religion, disability, sexual orientation, gender expression, gender identity or physical appearance);
-* is abusive, insulting or threatening, discriminatory or which promotes or encourages racism, sexism, hatred or bigotry (including for example and without limitation, language that could be deemed discriminatory towards an individual’s race, colour, ethnicity, national origin, religion, disability, sexual orientation, gender expression, gender identity or physical appearance);
-* encourages any illegal activity including, without limitation, terrorism, inciting racial hatred or the submission of which in itself constitutes committing a criminal offence;
+We want our users to be able express themselves as much as possible on Bumble, but we have to impose restrictions on certain content which:
+
+* is illegal or encourages, promotes or incites any illegal activity;
+* is harmful to minors;
 * is defamatory or libellous;
-* relates to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium line telephone numbers);
-* involves the transmission of “junk” mail or “spam”;
-* contains any spyware, adware, viruses, corrupt files, worm programmes or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Bumble or otherwise;
 * itself, or the posting of which, infringes any third party’s rights (including, without limitation, intellectual property rights and privacy rights);
 * shows another person which was created or distributed without that person’s consent;
-* is harmful to minors; or
-* impersonates any other person, including falsely stating your name.
-
-Bumble Group operates a zero-tolerance policy for this kind of content.
+* contains language or imagery which could be deemed offensive or is likely to harass, upset, embarrass, alarm or annoy any other person;
+* is obscene, pornographic, violent or otherwise may offend human dignity;
+* is abusive, insulting or threatening, discriminatory or which promotes or encourages racism, sexism, hatred or bigotry;
+* relates to commercial activities (including, without limitation, sales, competitions and advertising, links to other websites or premium line telephone numbers);
+* involves the transmission of “junk” mail or “spam”;
+* impersonates or intends to deceive or manipulate a person (including, without limitation, scams and inauthentic behaviour);
+* contains any spyware, adware, viruses, corrupt files, worm programs or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Bumble or otherwise; or
+* in any other way violates our [Community Guidelines](https://bumble.com/en/guidelines).
 
 ### Your Content
 
-You agree that Your Content must comply with our [Guidelines](https://bumble.com/en/guidelines) as updated from time to time. As Your Content is unique, you are responsible and liable for Your Content and will indemnify, defend, release, and hold us harmless from any claims made in connection with Your Content. Sorry that was a bit of a mouthful, but you are what you post!
+You agree that Your Content must comply with our [Community Guidelines](https://bumble.com/en/guidelines) as updated from time to time. As Your Content is unique, you are responsible and liable for Your Content. You will indemnify, defend, release, and hold us harmless from any claims made in connection with Your Content. Sorry that was a bit of a mouthful, but you are what you post!
 
 You may not display any personal contact or banking information on your individual profile page whether in relation to you or any other person (for example, names, home addresses or postcodes, telephone numbers, email addresses, URLs, credit/debit card or other banking details). If you do choose to reveal any personal information about yourself to other users, whether via email or otherwise, it is at your own risk. We encourage you to use the same caution in disclosing details about yourself to third parties online as you would under any other circumstances.
 
-As Bumble is a public community, Your Content will be visible to other users of the App all around the world instantly - so make sure you are comfortable sharing Your Content before you post. As such, you agree that Your Content may be viewed by other users and any person visiting, participating in or who is sent a link to the App (e.g. individuals who receive a link to a user’s profile or shared content from other Bumble Users). By uploading Your Content on Bumble, you represent and warrant to us that you have all necessary rights and licences to do so, and automatically grant us a non-exclusive, royalty free, perpetual, worldwide licence to use Your Content in any way (including, without limitation, editing, copying, modifying, adapting, translating, reformatting, creating derivative works from, incorporating into other works, advertising, distributing and otherwise making available to the general public such Content, whether in whole or in part and in any format or medium currently known or developed in the future).
+As Bumble is a public community, Your Content will be visible to other users of the App all around the world - so make sure you are comfortable sharing Your Content before you post. As such, you agree that Your Content may be viewed by other users and any person visiting, participating in or who is sent a link to the App (e.g. individuals who receive a link to a user’s profile or shared content from other Bumble Users). By uploading Your Content on Bumble, you represent and warrant to us that you have all necessary rights and licences to do so, and automatically grant us a non-exclusive, royalty free, perpetual, worldwide licence to use Your Content in any way (including, without limitation, editing, copying, modifying, adapting, translating, reformatting, creating derivative works from, incorporating into other works, advertising, distributing and otherwise making available to the general public such Content, whether in whole or in part and in any format or medium currently known or developed in the future).
 
 We may assign and/or sub-license the above licence to our affiliates and successors without any further approval by you.
 
@@ -90,9 +95,13 @@ We grant you a non-exclusive, limited, personal, non-transferable, revocable, li
 
 We reserve all other rights.
 
-**No Obligation to Pre-Screen Content.**
+#### No Obligation to Pre-Screen Content.
 
-Since Bumble is an online community, we generally try to avoid getting in the way and therefore don’t assume any obligation to pre-screen any of Your Content or any Member Content. However, there may be times where we need to step in, and we reserve the right to review, pre-screen, refuse and/or remove any Member Content and Your Content, including content exchanged between users in direct messages.
+While we don’t assume any obligation to pre-screen any of Your Content or any Member Content, there may be times where we need to step in to help keep our members safe, and we reserve the right to review, pre-screen, refuse and/or remove any Member Content and Your Content, including content exchanged between users in direct messages as set out in these Terms.
+
+**Use of Recommender Systems.**
+
+We have developed matching algorithms to predict your compatibility with other users and so we can show you people we think are a good match for you. You can learn more about our use of recommender systems and the main parameters we use in our [Privacy Policy](https://bumble.com/en/privacy).
 
 3\. RESTRICTIONS ON THE APP
 ---------------------------
@@ -101,15 +110,16 @@ You agree to:
 
 * comply with all applicable laws, including without limitation, privacy laws, intellectual property laws, anti-spam laws, equal opportunity laws and regulatory requirements;
 * use your real name and real age in creating your Bumble account and on your profile; and
-* use the services in a professional manner.
+* use the services in a safe, inclusive and respectful manner and adhere to our [Community Guidelines](https://bumble.com/en/guidelines) at all times.
 
 You agree that you will not:
 
-* act in an unlawful or unprofessional manner including being dishonest, abusive or discriminatory;
+* act in an unlawful or disrespectful manner including being dishonest, abusive or discriminatory;
 * misrepresent your identity, your age, your current or previous positions, qualifications or affiliations with a person or entity;
 * disclose information that you do not have the consent to disclose;
 * stalk or harass any other user of the App;
-* create or operate a pyramid scheme, fraud or other similar practice, or;
+* use the App in any deceptive, inauthentic or manipulative way, including engaging in conduct or distributing content relating to scams, spam, inauthentic profiles or commercial and promotional activity;
+* submit appeals, reports, notices or complaints that are manifestly unfounded; or;
 * develop, support or use software, devices, scripts, robots, other types of mobile code or any other means or processes (including crawlers, browser plugins and add-on or other technology) to scrape or otherwise exfiltrate from Bumble or its services, or otherwise copy profiles and other data from the services.
 
 We don’t like users misbehaving in the Bumble community. You can report any abuse or complain about Member Content by contacting us, outlining the abuse and/or complaint. You can also report a user directly from a profile or in chat by clicking the ‘Block & Report’ link. We reserve the right to investigate any possible violations of these Terms, any Bumble user’s rights, or any third party rights and we may, in our sole discretion, immediately terminate any user’s right to use of the App without prior notice, as set out further in Section 1 above, and/or remove any improper, infringing or otherwise unauthorised Member Content submitted to the App.
@@ -370,7 +380,7 @@ If you have any questions, complaints or claims with respect to the App, please 
 17\. GOVERNING LAW AND FORUM.
 -----------------------------
 
-Subject to Section 13(3), your access to the App, Our Content, and any Member Content, any claims arising from or related to your relationship with the Bumble Group, and these Terms are governed and interpreted by the laws of the State of Texas. All claims arising out of or relating to these Terms and/or your relationship with the Bumble Group that for whatever reason are not submitted to arbitration, and all claims or cases challenging the enforceability or applicability of the arbitration provisions herein, will be litigated exclusively in the federal or state courts of Travis County, Texas. You agree that such courts shall have personal jurisdiction and venue and waive any objection based on inconvenient forum. You agree that you will not file or participate in a class action against us.
+Subject to Section 13(3) and any mandatory laws that may apply in the country in which you reside, your access to the App, Our Content, and any Member Content, any claims arising from or related to your relationship with the Bumble Group, and these Terms are governed and interpreted by the laws of the State of Texas. All claims arising out of or relating to these Terms and/or your relationship with the Bumble Group that for whatever reason are not submitted to arbitration, and all claims or cases challenging the enforceability or applicability of the arbitration provisions herein, will be litigated exclusively in the federal or state courts of Travis County, Texas. You agree that such courts shall have personal jurisdiction and venue and waive any objection based on inconvenient forum. You agree that you will not file or participate in a class action against us.
 
 18\. THE BUMBLE GROUP.
 ----------------------
@@ -379,4 +389,4 @@ The Terms constitute a binding legal agreement between you as user (“you”) a
 
 ### Effective date
 
-The Terms were last updated on: 21 December, 2023.
+The Terms were last updated on: 16 February 2024.
