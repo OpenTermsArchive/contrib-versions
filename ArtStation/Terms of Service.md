@@ -133,7 +133,7 @@ For clarity, even if your employer pays for your subscription you may not make L
 
 #### a. Overview
 
-ArtStation Marketplace (the “Marketplace”) is a Service that allows you to commercialize some of Your Content (defined in section 15) through the Site. There are two types of products that are now, or may in the future be, available for sale through the Marketplace, i.e.: Digital Products and Hard Products. All of Your Content, whether it is a Digital Product, Hard Product, a description of a Digital Product or Hard Product, or otherwise, must comply with these Terms, and Epic reserves the right to remove any of Your Content that Epic determines in its sole discretion does not comply with these Terms. You grant Epic rights in Your Content as set out in section 16 below.
+ArtStation Marketplace (the “Marketplace”) is a Service that allows you to commercialize some of Your Content (defined in section 15) through the Site. There are two types of products that are now, or may in the future be, available for sale through the Marketplace, i.e.: Digital Products and Hard Products. All of Your Content, whether it is a Digital Product, Hard Product, a description of a Digital Product or Hard Product, or otherwise, must comply with these Terms, Epic reserves the right to remove any of Your Content that Epic determines in its sole discretion does not comply with these Terms. You grant Epic rights in Your Content as set out in section 16 below.
 
 #### b. Digital Products
 
@@ -639,7 +639,33 @@ As noted above in Section 46(a), Epic does not use Your Content and does not lic
 
 * * *
 
-Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated August 18, 2023)
+### 47\. Suggested Content in Marketplace
+
+**Ranking**. To help our users more easily navigate the Marketplace to find Content that is interesting and relevant, we sometimes organize Content for display to users. We weigh a variety of parameters that inform display order of Content to users in the following contexts
+
+**Algorithmic Featuring**. When Epic features Content algorithmically, the main parameters that factor into its featuring include:
+
+* User-applied filters (like price, publication date, relevant promotions, Content software, Content license, Content authorship, alphabetical order, and Content category)
+* User text search terms
+* Content page views
+* Wishlists
+* Number of sales to users
+* Revenue
+* User-submitted ratings
+* Content rating
+* User region language preferences
+
+The Marketplace uses the parameters described above to algorithmically determine user search results and the following lists: (i) Trending; (ii) Best Selling; (iii) Special Offers; (iv) Top Rated; (v) Free; (vi) Latest; and (vii) Following.
+
+* * *
+
+### 48\. Content Moderation
+
+For more information about our content moderation practices, please visit our [Safety and Security Center](https://safety.epicgames.com/).
+
+* * *
+
+Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 16, 2024)
 
 The estimated average monthly active recipients in the European Union of ArtStation for the past six months was 1.3 million.
 
