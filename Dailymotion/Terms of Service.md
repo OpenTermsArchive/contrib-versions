@@ -3,6 +3,8 @@ Terms Of Use
 
 **Your use of the Dailymotion Service implies your acceptance of these Terms of Use including the Prohibited Content Policy and the Data Protection Annexes below (with the Standard Contractual Clauses incorporated therein). We ask You to read them carefully.**
 
+_Last update date: February 16, 2024._
+
 ### **SECTION 1: DESCRIPTION OF THE DAILYMOTION SERVICE**
 
 1.1. Dailymotion (“**Dailymotion**”, “**we**”, “**us**” or “**our**”) is an original, free video hosting website that enables users to access, view, upload, store and share videos. The Dailymotion Service is made up of the Dailymotion website, the Dailymotion video player that is embeddable onto any website (the “**Video Player**”), the Dailymotion apps and web-apps as accessible (online or offline) via any current or future device capable of distributing the Dailymotion website and/or the Video Player and more generally, any Dailymotion products, content, channels, software, data feeds, services and functionality (“**Dailymotion Service**”).
@@ -153,6 +155,8 @@ Dailymotion has implemented, or has insured that its service providers have impl
 
 8.6. Dailymotion takes Your privacy and the protection of Your personal data collected and processed in connection with Your use of the Dailymotion Service very seriously. If You want to find out more about the personal data collected, how we collect it and the related processes, You can check our [Privacy Policy](https://www.dailymotion.com/legal/privacy) any time available from the Dailymotion homepage.
 
+8.7. Please note that the Dailymotion Service relies on content recommendation tools. You may find more information about these tools on our dedicated page: [Dailymotion Recommendation Tools Transparency](https://legal.dailymotion.com/en/recommendation-tools-transparency/).
+
 ###   
 **SECTION 9: MISCELLANEOUS**
 
@@ -180,13 +184,13 @@ If You reside in a country that is not part of the European Economic Area, the U
 
 9.11. You affirm that You are either more than 18 years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in the Terms, and to abide by and comply with the Terms. In any case, You affirm that You are over the age of 13, as the Dailymotion Service is not intended for children under 13. If You are under 13 years of age, then please do not use the Dailymotion Service
 
-**Last Updated: June 1, 2023**
+**Last Updated:** February 16, 2024
 
 **APPENDIX A – Prohibited Content Policy**
 ------------------------------------------
 
   
-Dailymotion endeavors to ensure a safe and respectful viewing environment for its Visitors. In order to protect its community, Dailymotion prohibits the content defined in Section I below (“Prohibited Content(s)”) and has developed a feature to limit the visibility of so-called sensitive content presented in Section IV.  
+Dailymotion endeavors to ensure a safe and respectful viewing environment for its Visitors. In order to protect its community, Dailymotion prohibits the content defined in Section I below (“Prohibited Content(s)”) and has developed a feature to limit the visibility of so-called sensitive content presented in Section IV.
 
 As a hosting service provider, Dailymotion cannot guarantee that no inappropriate or illegal content will disturb your experience. Indeed, Dailymotion is neither legally required nor able to monitor and control each and every piece of content uploaded onto the Service. Therefore, we encourage our Visitors to notify us of any Prohibited Content on the Dailymotion Service using the methods described in Section II.
 
@@ -198,7 +202,6 @@ Dailymotion encourages the diversity of sources of information on the Internet t
 
 In order for the Dailymotion Service to remain a safe space for exchange and sharing where the fundamental liberties of each person are respected, we have implemented rules aimed at prohibiting the sharing of certain content, as defined hereafter, and in general, any content which could be considered as a violation of any applicable law or regulation. Note that the below list of Prohibited Content is not exhaustive, and the definitions may be adapted based on differing contexts.
 
-  
 These rules apply to all forms of content broadcasted on the Dailymotion Service, including videos available on the platform and/or streamed live, video descriptions or titles, thumbnails, keywords, playlists, channels, and usernames.
 
 ####   
@@ -229,7 +232,6 @@ In particular, it is forbidden for our Users to post online any content:
 The above list is not exhaustive and applies to all types of content.  
 Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.
 
-  
 Any User who violates the rules set out above and/or encourages their violation shall be subject to the consequences set out in Section III.  
 Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.  
 For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
@@ -258,19 +260,16 @@ Some content representing or evoking one of the situations listed above can be e
 
 However, Dailymotion reserves the right to reduce the visibility of such content by applying a parental filter to avoid offending the sensibilities of young audiences.
 
-  
 Any User who violates the rules set out above and/or encourages their violation shall be subject to the consequences set out in Section III.  
 Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
 
   
-For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
+For more information on this type of content, you can read the dedicated article on the Dailymotion help center.  
 
 #### C. Content that may offend Visitor’s sensibilities
 
-  
 Dailymotion has elaborated rules and tools aimed at protecting its Visitors and, in particular, young audiences, from videos which may offend their sensibilities (“Sensitive Content(s)”).
 
-  
 By Sensitive Content, we mean any video that may offend the sensibilities of young audiences and in particular any video:
 
 * Presenting scenes of nudity ;
@@ -285,21 +284,18 @@ By Sensitive Content, we mean any video that may offend the sensibilities of you
 
 The above list is not exhaustive.
 
-  
 Users are prohibited from uploading any Sensitive Content without first restricting access to it by checking the box dedicated to this purpose (“Restrict access to sensitive content”) when uploading. For more information on Restricted Mode, please refer to Section IV of this policy.  
-
+  
 Any User who violates the rules set out above and/or encourages their violation shall be subject to the measures and sanctions set out in Section III.
 
-  
 For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
 
 #### D. Hateful Content
 
 Dailymotion prohibits any content which contains hateful behavior and/or which undermines human dignity. Thus, Dailymotion strictly prohibits any content, behavior, or statements which aim to attack, insult, threaten, or incite to hatred, violence or discrimination against a person or a group of persons on the basis of attributes or personal characteristics, real or supposed, such as: race, ethnicity, nationality, religion, caste, language, sexual orientation, sex/gender, gender identity, serious illness, disability, migratory status, and eating disorders.
 
-  
 Such hateful content may take the form of outrageous expression, terms of contempt, invectives, stereotyping, attempts to offend, stigmatization, dehumanization, declarations of inferiority, expressions of disgust, insults, marginalization, or provocations of hatred, violence, or discrimination against individuals or groups of individuals targeted because of their personal attributes or characteristics.  
-
+  
 In particular, it is forbidden for our Users to post any content:
 
 * Encouraging violence against persons or groups of persons on the basis of one or more of the attributes listed above;
@@ -316,13 +312,10 @@ In particular, it is forbidden for our Users to post any content:
 The above list is not exhaustive and applies to all types of content.  
 Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.
 
-  
 Any User who violates the rules set out above shall be subject to the consequences set out in Section III.
 
-  
 Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
 
-  
 For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
 
 #### E. Content glorifying, normalizing or denying a crime
@@ -339,25 +332,20 @@ In particular, our Users are forbidden to post online any content:
 
 The above list is not exhaustive and applies to all types of content.
 
-  
 Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context.
 
 However, Dailymotion reserves the right to reduce the visibility of such content.
 
-  
 Any User who violates the rules set out above and/or encourages their violation shall be subject to the consequences set out in Section III.  
 Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
 
-  
 For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
 
 #### F. Disinformation
 
-  
 Dailymotion prohibits the dissemination of false, distorted, misleading, and/or malicious speech or information that may disturb public order and/or public opinion.
 
-  
-In particular, it is forbidden for our Users to post online any content:  
+In particular, it is forbidden for our Users to post online any content:
 
 * Carrying a risk of major harm by presenting, illustrating, or evoking an event with deceiving elements which relate to a separate event (videos, photos, etc.);
 * Presenting manifestly false or inaccurate allegations and/or imputations that may interfere with or alter the fairness of elections and/or censuses;
@@ -372,22 +360,16 @@ In particular, it is forbidden for our Users to post online any content:
 The above list is not exhaustive and applies to all types of content.  
 Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.
 
-  
 Any User who violates the rules set out above and/or encourages their violation shall be subject to the consequences set out in Section III.
 
-  
 Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
 
-  
 For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
 
 #### G. Terrorist content
 
-  
-Dailymotion prohibits any content that advocates or promotes violent extremist and/or terrorist organizations, individuals, or acts.
-
-  
-In particular, our Users are forbidden to post online any content:  
+Dailymotion prohibits any content that advocates or promotes violent extremist and/or terrorist organizations, individuals, or acts.  
+In particular, our Users are forbidden to post online any content:
 
 * Provoking the commission of terrorist offences or violent extremist acts or glorifying such offences;
 * Encouraging participation in terrorist offences;
@@ -401,17 +383,15 @@ In particular, our Users are forbidden to post online any content:
 * Posted online with the aim of soliciting, threatening, or intimidating people on behalf of a criminal, violent, extremist, or terrorist organization.
 
 The above list is not exhaustive and applies to all types of content.  
-Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.
+Some content representing or evoking one of the situations listed above can be exceptionally maintained on the Dailymotion Service notably because of its manifestly educational, documentary, scientific or artistic context. However, Dailymotion reserves the right to reduce the visibility of such content.  
 
-  
 Any User who violates the rules set out above and/or encourages their violation is subject to the consequences set out in Section III.  
 Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.  
 For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
 
 #### H. Shocking, Malicious, violent or dangerous content
 
-Dailymotion strictly prohibits any macabre, sadistic, threatening, violent, or harmful content as well as any content intended to shock or inspire disgust. Dailymotion also prohibits any content that is dangerous and/or aims to encourage, normalize, or glorify violence, suffering, death, or any situation that may cause injury.
-
+Dailymotion strictly prohibits any macabre, sadistic, threatening, violent, or harmful content as well as any content intended to shock or inspire disgust. Dailymotion also prohibits any content that is dangerous and/or aims to encourage, normalize, or glorify violence, suffering, death, or any situation that may cause injury.  
   
 In particular, it is forbidden for our Users to post online any content:
 
@@ -538,7 +518,6 @@ The Restricted Mode may be applied to Video Content (as described in Section IV)
 
 Dailymotion works with two providers of digital fingerprint recognition solutions: Audible Magic for audio detection and INA (Institut National de l’Audiovisuel) for video detection. Whenever a piece of video Content uploaded on the Dailymotion Service matches the digital fingerprint databases of our two providers, the video Content will be automatically removed.
 
-  
 Despite their high efficiency and their innovative character, these technologies require the collaboration of the concerned rightsholders, who must communicate their content to one and/or the other of these companies in order to create the associated digital fingerprints. Dailymotion is at the disposal of rightsholders to help them contact these societies, in order to prevent the future upload of content that the rightsholders have protected in this way.
 
 #### B. The reporting tool for Prohibited Content
@@ -556,7 +535,8 @@ To report video Content, you need to:
 5. Fill in your first name and surname(s) (as they appear on an official identity document issued by an administration) as well as your e-mail address. This information will allow Dailymotion to inform the Visitor who has reported the Content of the follow-up given to the report.
 
   
-It should be noted that it is not necessary to have a Dailymotion account to report Prohibited Video Content.  
+It should be noted that it is not necessary to have a Dailymotion account to report Prohibited Video Content.
+
 In the event of a report of copyright infringement or infringement of other rights, the Visitor will be redirected to a dedicated form. He must necessarily include the URL address of the reported video. Otherwise, Dailymotion will not be able to process the report.  
 The reporting forms specific to copyright infringement or other rights infringement are also available via this link.  
 Any report sent to Dailymotion through the reporting tool will be treated in accordance with the formalities required under French law.  
@@ -571,7 +551,6 @@ To report a comment, simply :
 3. Select the main reason for the report; and
 4. Describe in the free text field any information which allows Dailymotion to process the report.
 
-  
 Any report sent to Dailymotion through the reporting tool will be treated in accordance with the formalities required under French law. Any report based on another legislation can be sent to Dailymotion by e-mail or by post in accordance with the provisions below.
 
 #### C. E-mail or postal reports
@@ -640,7 +619,7 @@ Service Contenus Abusifs,
 **Email address:** notifications@dailymotion.com
 
 Regarding reports of copyright infringement, we remind you that certain uses of protected works may be permitted without the authorization of their authors or of the person who holds their rights when they fall within the scope of the exceptions to copyright and/or related rights provided for by the applicable laws and regulations (and in particular in France by articles L.122-5 L and L.211-3 of the Intellectual Property Code, as detailed in our Help Center at the following address:  
-https://faq.dailymotion.com/hc/en-us/articles/360020018900-Exceptions-to-copyright).  
+[https://faq.dailymotion.com/hc/en-us/articles/360020018900-What-are-the-exceptions-to-copyright-and-related-rights](https://faq.dailymotion.com/hc/en-us/articles/360020018900-What-are-the-exceptions-to-copyright-and-related-rights)).  
 Before reporting any Content for copyright infringement, it is thus recommended to check whether the use of the protected work in question is permitted under one of these exceptions.  
 Please note that reports of copyright infringement or infringement of other rights must be made by the owner of the rights concerned or by its duly authorized representative.
 
@@ -648,31 +627,28 @@ Please note that reports of copyright infringement or infringement of other righ
 
 #### A. Moderation actions applicable to the content
 
-If Dailymotion is aware of the uploading of Prohibited Content on its Service, Dailymotion will apply a moderation action adapted to the nature of the Prohibited Content (“Moderation Action”).
-
+If Dailymotion is aware of the uploading of Prohibited Content on its Service, Dailymotion will apply a moderation action adapted to the nature of the Prohibited Content (“Moderation Action”).  
   
 The applicable Moderation Actions may impact the:
 
-* Availability; (1.)
-* Visibility; (2.),
-* Accessibility to; or (3.)
-* Monetization of Content (4.).
+1. Availability;
+2. Visibility;
+3. Accessibility to; or
+4. Monetization of Content.
 
 ##### 1\. Moderation Action affecting the availability of Prohibited Content: removal of Content
 
-  
 Subject to the provisions below, any Prohibited Content will be removed from the Dailymotion Service as soon as Dailymotion is effectively aware of it.
 
 ##### 2\. Moderation Action affecting the visibility of Prohibited Content: restriction of the visibility of a video
 
-  
 Dailymotion may decide to restrict the visibility of a video and apply an age restriction to any Content which may offend the sensitivity of young audiences.  
 This Moderation Action will have the effect of placing the video concerned in Restricted Mode.  
-Such videos cannot (i) be viewed by Visitors having the Restricted Mode activated, (ii) appear in the results of their searches on the Dailymotion platform, or (iii) be monetized nor recommended by Dailymotion.
+Such videos cannot (i) be viewed by Visitors having the Restricted Mode activated, (ii) appear in the results of their searches on the Dailymotion platform, nor (iii) be monetized or recommended by Dailymotion.
 
 ##### 3\. Moderation Action affecting the accessibility of Content: application of a geo-blocking measure
 
-If the concerned Content violates a specific law/regulation in a given country/territory, Dailymotion can implement geo-blocking measures. These measures allow the Content to be made unavailable in a specific country or territories without altering its accessibility in other countries/territories.
+If the concerned Content violates a specific law/regulation in a given country or territory, Dailymotion can implement geo-blocking measures. These measures allow the Content to be made unavailable in a specific country or territories without altering its accessibility in other countries and/or territories.
 
 ##### 4\. Moderation action affecting the monetization of Content: video demonetization
 
@@ -680,20 +656,83 @@ Dailymotion reserves the right to demonetize video Content that is not suitable 
 
 #### B. Appealing a moderation decision
 
-Dailymotion has established an internal appeal mechanism for the decisions taken by its moderation team following the detection and/or reporting of Prohibited Content (“Moderation Decision(s)”).  
-This internal appeal system allows:
+Dailymotion has established an internal appeal mechanism for the decisions taken by its moderation team following the detection and/or reporting of Prohibited Content (“Moderation Decision(s)”). This internal appeal system allows:
 
 1. the author of a report to contest the Moderation Decision taken following his/her report; and
-2. the User who has put Content online that has been the subject of a Moderation Action mentioned in Section III. A of this policy to contest the corresponding Moderation Decision.
+2. the User who has put Content online that has been subject to a Moderation Action mentioned in Section III. A of this Policy to contest the corresponding Moderation Decision.
 
 This internal appeal mechanism is available by contacting our Support teams (see Section II.A.C.) or, in certain cases, via a URL link indicated in the e-mails sent by the moderation team to the author of the report or to the User who posted the Content online.  
 This URL link redirects to an appeal form which must be filled in by providing all the mandatory information required to process such appeal.  
 This appeal system is open for a period of 6 (six) months from the Moderation Decision.  
 Dailymotion is committed to processing these appeals quickly and impartially.  
-If the moderation team considers that the Content subject to the appeal is not illicit, nor incompatible with this Prohibited Content Policy, the Content concerned will be maintained or made accessible and visible again on the Dailymotion Service.  
+If the moderation team considers that the Content subject to the appeal is not illicit nor incompatible with this Prohibited Content Policy, the Content concerned will be maintained or made accessible and visible again on the Dailymotion Service.  
 On the contrary, if the moderation team considers that the Content that is subject of the appeal is illegal or incompatible with this Prohibited Content Policy, a Moderation Action will be applied to the relevant Content.  
-The author of the appeal will be informed of the outcome of his appeal as soon as possible via email sent to the address given on the appeal form.  
+The author of the appeal will be informed of the outcome of the appeal as soon as possible via email sent to the address given on the appeal form.  
 If you consider that a Moderation Decision goes against the law or if you consider yourself a victim of Content put online on the Dailymotion Service, legal recourses are at your disposal (such as filing a complaint or requests for summary proceedings).
+
+#### **C.** Counter 
+
+Dailymotion takes compliance with its [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) and its [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) very seriously in order to ensure a safe and respectful viewing environment for its Visitors, Users and Partners. 
+
+Thus, there are [various procedures, measures and tools](https://legal.dailymotion.com/en/terms-of-use/#ii-detection-and-report-of-prohibited-content) that Dailymotion uses to enforce compliance with our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) and which might lead us to moderate content posted onto our Service. 
+
+Each Dailymotion Account has a penalty scoring system associated with it (the “**Counter**“). Such Counter is set up at zero by default, but may increase depending on the different strikes you may receive. 
+
+Any violation of our [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) or of our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) will be accounted against the Dailymotion Account having performed such violation and will make the Counter increase. 
+
+The number of penalty points given to a violation depends on the severity of the content that was removed and the context in which it was shared in order to ensure our violations’ accounting system is fair and proportionate (e.g.: hateful content will lead to more penalty points added to the Counter than spam for instance). Some violations such as, for example, terrorist content or child abuse content, will lead directly to the disabling of the corresponding Dailymotion Account, as further described in Section E below. 
+
+The accounting of a violation to the Dailymotion Prohibited Content Policy or the Dailymotion general Terms of Use will last for a period of 6 (six) months, meaning that unless the Counter of a Dailymotion Account led to its deletion (as defined in the Section E below), a violation will no longer count towards the Counter of a Dailymotion Account after a period of 6 months.  
+
+We remind you that you may always appeal every moderation decision taken by Dailymotion through the link that was provided to you in the email informing you of the moderation decision taken against your content. 
+
+If an item of content you posted is restored due to an appeal, Dailymotion will take that restoration into consideration and the corresponding violation will no longer count towards the Counter of your Dailymotion Account. 
+
+We are currently working on features that will enable us to increase the level of transparency around the measures taken for the safety of our platform, such as features allowing each User to follow the history of violations of our policies or of the Counter associated to a Dailymotion Account.
+
+#### **D. Restricting features** 
+
+The Counter linked to the violations performed by a given Dailymotion Account might lead to a restriction of the features linked to your account for a certain period of time or even the disabling of such Dailymotion Account at some point, as defined below. 
+
+In addition to the Counter linked to a Dailymotion Account, Dailymotion may also take into consideration the weight of the violations to our policies compared to the activity of this account or of the corresponding User in general, and whenever possible the intention of the violation, in order to define the best and most proportionate sanction applicable. 
+
+Several different sanctions might be applied for periods of up to several weeks if the Counter of a Dailymotion Account reaches the threshold of 50 points, including :  
+
+* Blocking the ability to upload Videos ont such Dailymotion Account; 
+* Excluding Content posted on such Dailymotion Account from the [Dailymotion recommendation systems](https://legal.dailymotion.com/en/recommendation-tools-transparency/) ; 
+* For Partners having the opportunity to monetize their Content, excluding the Content posted on such Dailymotion Account from monetization. 
+
+Please note that Your Dailymotion Account might reach another restriction level as soon as your Counter changes as defined in Section C above. 
+
+These restrictions generally only apply to the Dailymotion Account in connection of which the Counter has been calculated, but they may also be extended to other Dailymotion Accounts owned by the same User on the Dailymotion Service. 
+
+In addition, Dailymotion might restrict the ability of a User to comment on Third Party Videos if the Counter associated to the User’s account is mainly due to comments in violation of the Dailymotion Prohibited Content Policy. 
+
+Apart from the disabling of a Dailymotion Account, all the sanctions applied are temporary, meaning that all the restrictions applied will be lifted automatically at the end of the sanction duration announced in the email informing you of such account restriction decision. 
+
+For sake of clarity, a restriction applied to a Dailymotion Account will continue until the notified end date of such sanction even if your Counter falls below the 50 points threshold in the meantime. 
+
+We remind you that you may always appeal every moderation decision taken by Dailymotion through the link that was provided to you in the email informing you of such account restriction decision. 
+
+#### **E. Disabling accounts** 
+
+If the Counter of a Dailymotion Account reaches the critical level of 100 points,  then such Dailymotion Account will be permanently disabled. 
+
+Please note that some very severe violations of our [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) or of our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) will lead to the direct disabling of the corresponding Dailymotion Account even if that’s the first time such account commits a violation. 
+
+This sanction generally only applies to the Dailymotion Account in connection to which the Counter has been calculated, but it may also be extended to other Dailymotion Accounts owned by the same User on the Dailymotion Service. 
+
+We remind you that you may always appeal every moderation decision taken by Dailymotion through the link that was provided to you in the email informing you of such account disabling decision. 
+
+#### **F. Abusive reports** 
+
+Dailymotion encourages its Visitors to [report any Content that may violate the Dailymotion Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#ii-detection-and-report-of-prohibited-content).  
+
+While we truly believe these reports allow the Dailymotion Service to remain a safe space for everyone, it is important to note that in some cases, unfounded reports might be considered abusive. 
+
+Indeed, unfounded reports done repeatedly and/or reports reasonably suspected to be willfully made to harm the User having posted the reported Content for instance might lead to the refusal of Dailymotion to process the further reports you might make for a certain period of time. 
+
+We remind you that you may always appeal every moderation decision taken by Dailymotion through the link that was provided to you in the email informing you of such reporting restriction. 
 
 ### IV) RESTRICTED MODE
 
@@ -978,4 +1017,4 @@ As such, Dailymotion has determined that the risks of infringing such Third Part
 * **Dailymotion’s Contact Info:** Contact email [here](mailto:feedback@dailymotion.com).
 * **Your Identity Contact Info:** the email address associated with Your Dailymotion Account, or, if applicable, the email address communicated in compliance with Section 6 of this DPA.
 
-Last Update of this DPA: October 13th, 2023
+Last Update of this DPA: February 16, 2024.
