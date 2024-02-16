@@ -22,11 +22,11 @@ We collect minimal information that can be used to identify you by default. If y
 
 Any data we collect is used primarily to provide our Services, which are focused on allowing people to come together and form communities. We don't sell your personal data to third parties, and we never work with data brokers.
 
-* [All of our users get privacy rights - not just those in select countries.](https://www.redditinc.com/policies/rights-and-choices)
+* [All of our users get privacy rights - not just those in select countries.](#rights-and-choices)
 
 Privacy rights are for everyone. At Reddit, anyone can request a copy of their data, account deletion, or information about our policies.
 
-* [If you have questions about how we use data, just ask.](https://www.redditinc.com/policies/contact-us)
+* [If you have questions about how we use data, just ask.](#contact-us)
 
 We've tried our best to make this as easy to understand as possible but sometimes privacy policies are still confusing. If you need help understanding this policy or anything about Reddit, [just ask](#contact-us).
 
