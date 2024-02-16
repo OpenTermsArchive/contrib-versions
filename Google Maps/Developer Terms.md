@@ -588,11 +588,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * [Data.gouv.fr](https://www.data.gouv.fr/fr/) : [Sites de prélèvements pour les tests COVID](https://www.data.gouv.fr/fr/datasets/sites-de-prelevements-pour-les-tests-covid/); [Lieux de vaccination contre la Covid-19](https://www.data.gouv.fr/fr/datasets/lieux-de-vaccination-contre-la-covid-19/)
         * SNCF : les Informations sont fournies par l’intermédiaire de l’API SNCF ; la réutilisation de ces données est réalisée de manière indépendante de SNCF
             
-        * Bordeaux Métropole : [source](https://opendata.bordeaux-metropole.fr/explore/dataset/sv_horai_a/information/)
-            
         * Bordeaux Métropole : [source, 2021](https://opendata.bordeaux-metropole.fr/explore/dataset/se_cpost_s/information/)
-            
-        * Métropole Nice Côte d'Azur : [source](https://opendata.nicecotedazur.org/data/dataset/export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur)
             
         * Toulouse Métropole : [source](https://data.toulouse-metropole.fr/explore/dataset/tisseo-gtfs/information/)
             
@@ -669,6 +665,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             * Réseau urbain Tanéo. ([https://transport.data.gouv.fr/datasets/versions-des-horaires-theoriques-des-lignes-du-reseau-de-bus-au-format-gtfs/](https://transport.data.gouv.fr/datasets/versions-des-horaires-theoriques-des-lignes-du-reseau-de-bus-au-format-gtfs/))
                 
             * etalab gouv.fr. ([https://opendata.lillemetropole.fr/explore/dataset/trace-du-metro-mel/information/](https://opendata.lillemetropole.fr/explore/dataset/trace-du-metro-mel/information/))
+                
+            * Réseau urbain TBM. ([https://transport.data.gouv.fr/datasets/offres-de-services-bus-et-tramway-gtfs](https://transport.data.gouv.fr/datasets/offres-de-services-bus-et-tramway-gtfs))
                 
         * Contient des informations des producteurs de données suivants, sujettes à la Licence Ouverte v2 ([source](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)) et mises à jour régulièrement à partir d'octobre 2022 :
             
@@ -837,6 +835,28 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             * Réseau urbain Transvilles. ([https://transport.data.gouv.fr/datasets/horaires-du-reseau-transvilles-au-format-gtfs](https://transport.data.gouv.fr/datasets/horaires-du-reseau-transvilles-au-format-gtfs))
                 
             * Réseau interurbain Corolis. ([https://transport.data.gouv.fr/datasets/donnees-theoriques-et-temps-reel-du-reseau-corolis-interurbain-communaute-dagglomeration-du-beauvaisis](https://transport.data.gouv.fr/datasets/donnees-theoriques-et-temps-reel-du-reseau-corolis-interurbain-communaute-dagglomeration-du-beauvaisis))
+                
+            * Réseau urbain moova. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-moova-communaute-dagglomeration-de-vesoul-gtfs](https://transport.data.gouv.fr/datasets/horaires-theoriques-du-reseau-moova-communaute-dagglomeration-de-vesoul-gtfs))
+                
+            * Réseau urbain Vitobus. ([https://transport.data.gouv.fr/datasets/reseau-urbain-ville-de-vitre](https://transport.data.gouv.fr/datasets/reseau-urbain-ville-de-vitre))
+                
+            * Réseau urbain Citéa. ([https://transport.data.gouv.fr/datasets/ce-jeu-de-donnees-contient-la-liste-des-arrets-des-horaires-et-des-parcours-theoriques-du-reseau-de-transport-urbain-et-interurbain-de-vrm](https://transport.data.gouv.fr/datasets/ce-jeu-de-donnees-contient-la-liste-des-arrets-des-horaires-et-des-parcours-theoriques-du-reseau-de-transport-urbain-et-interurbain-de-vrm))
+                
+            * Réseau urbain DiviaMobilités. ([https://transport.data.gouv.fr/datasets/gtfs-diviamobilites/](https://transport.data.gouv.fr/datasets/gtfs-diviamobilites/))
+                
+            * Réseau urbain ilévia. ([https://transport.data.gouv.fr/datasets/localisation-des-arrets-ilevia-bus-metro-et-tram-gtfs-pictogrammes-du-reseau-ilevia](https://transport.data.gouv.fr/datasets/localisation-des-arrets-ilevia-bus-metro-et-tram-gtfs-pictogrammes-du-reseau-ilevia))
+                
+            * Réseau urbain La Navette (Gaillac). ([https://transport.data.gouv.fr/datasets/reseau-urbain-la-navette-commune-de-gaillac](https://transport.data.gouv.fr/datasets/reseau-urbain-la-navette-commune-de-gaillac))
+                
+            * Réseau interurbain BreizhGo Car 35 (expérimentation). ([https://transport.data.gouv.fr/datasets/breizhgo-35-experimentation](https://transport.data.gouv.fr/datasets/breizhgo-35-experimentation))
+                
+            * Réseau urbain Lignes d'Azur. ([https://transport.data.gouv.fr/datasets/export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur](https://transport.data.gouv.fr/datasets/export-quotidien-au-format-gtfs-du-reseau-de-transport-lignes-d-azur))
+                
+            * Réseau urbain Lislenbus. ([https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina](https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina))
+                
+            * Réseau urbain Le Passe Pont. ([https://transport.data.gouv.fr/datasets/reseau-urbain-le-passe-pont-communes-de-couffouleux-et-de-rabastens](https://transport.data.gouv.fr/datasets/reseau-urbain-le-passe-pont-communes-de-couffouleux-et-de-rabastens))
+                
+            * Réseau urbain La Navette (Graulhet). ([https://transport.data.gouv.fr/datasets/reseau-urbain-la-navette-commune-de-graulhet](https://transport.data.gouv.fr/datasets/reseau-urbain-la-navette-commune-de-graulhet))
                 
         * Muséum national d'Histoire Naturelle: [https://inpn.mnhn.fr/accueil/mentions-legales](https://inpn.mnhn.fr/accueil/mentions-legales)
             
