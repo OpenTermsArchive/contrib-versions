@@ -120,6 +120,7 @@ Other languages:
 * [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/xmf "კონფიდენციალურალაშ პოლიტიკა (25% translated)")
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ka "კონფიდენციალურობის პოლიტიკა (12% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/km "គោលការណ៍ឯកជនភាព (26% translated)")
+* [ᱥᱟᱱᱛᱟᱲᱤ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sat "ᱟᱹᱨᱤ: ᱩᱱᱩᱠᱩ ᱟᱹᱱᱟᱹᱨᱤ (13% translated)")
 * [中文](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/zh "方针:隐私方针 (100% translated)")
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ja "方針:プライバシー・ポリシー (100% translated)")
 * [粵語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yue "私隱政策 (24% translated)")
