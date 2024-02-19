@@ -1,7 +1,7 @@
 WECHAT PRIVACY POLICY
 =====================
 
-**Last Updated:** 2023-06-01
+**Last Updated:** 2024-02-20
 
 **SUMMARY**
 
@@ -245,7 +245,7 @@ We may send you service-related announcements via WeChat, email, or SMS when nec
 10\. AGE RESTRICTIONS AND PARENTAL/GUARDIAN CONTROLS
 ----------------------------------------------------
 
-Children under the age of 16 (or such applicable age of majority under relevant local laws of the user) ("**Child**") must not use WeChat for any purpose without first obtaining parental/guardian consent to and acknowledgment of this Privacy Policy (both for themselves and on their Child's behalf). In certain jurisdictions, you may be required to provide your date of birth; we will however only process the year and month of your birth. We do not knowingly collect Personal Information from any Child without such consent and acknowledgment. Please contact our Data Protection Officer if you believe we have any Personal Information from any Child without such parental/guardian consent and acknowledgment so that we can promptly investigate and remove such Personal Information.
+Children under the age of 13 (or such applicable age of majority under relevant local laws of the user) ("**Child**") must not use WeChat for any purpose without first obtaining parental/guardian consent to and acknowledgment of this Privacy Policy (both for themselves and on their Child's behalf). In certain jurisdictions, you may be required to provide your date of birth; we will however only process the year and month of your birth. We do not knowingly collect Personal Information from any Child without such consent and acknowledgment. Please contact our Data Protection Officer if you believe we have any Personal Information from any Child without such parental/guardian consent and acknowledgment so that we can promptly investigate and remove such Personal Information.
 
 11\. YOUR RIGHTS
 ----------------
@@ -285,7 +285,7 @@ You may request that we erase the Personal Information we hold about you where:
 * you believe that it is no longer necessary for us to hold your Personal Information;
 * we obtained your consent to process the Personal Information and you withdraw that consent (and we have no other valid legal grounds for processing the Personal Information);
 * you believe we are unlawfully processing your Personal Information; or
-* you are or were under the age of 16 (or such applicable age of majority under relevant local laws) when we collected the Personal Information and we can verify this.
+* you are or were under the age of 13 (or such applicable age of majority under relevant local laws) when we collected the Personal Information and we can verify this.
 
 You may exercise your right to restrict our processing your Personal Information (as described below) whilst we consider a request to erase your data.
 
