@@ -1,7 +1,7 @@
 WECHAT – TERMS OF SERVICE
 =========================
 
-**Last modified:** 2024-02-01
+**Last modified:** 2024-02-20
 
 INTRODUCTION
 ------------
@@ -52,7 +52,7 @@ Please review these Terms and our policies and instructions to understand how yo
 
 _Other general terms in relation to these Terms_
 
-If you are under the age of 13, you must not use WeChat. If you are between the ages of 13 and 18 (or the relevant age in your jurisdiction where you are considered a minor), your parent or guardian must agree to these Terms (both for themselves and on your behalf) before you can use WeChat.
+If you are under the age of 13 (or such applicable legal minimum age in your jurisdiction), you must not use WeChat for any purpose without first obtaining your parent or guardian’s agreement to these Terms (both for themselves and on your behalf).
 
 If you are using WeChat on behalf of a company, partnership, association, government or other organisation (your “**Organisation**”), you warrant that you are authorised to do so and that you are authorised to bind your Organisation to these Terms. In such circumstances, “you” will include your Organisation.
 
