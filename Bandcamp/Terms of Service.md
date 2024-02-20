@@ -1,7 +1,7 @@
 Bandcamp Terms of Use
 =====================
 
-Effective Date: February 14, 2023
+Effective Date: February 14, 2024
 
 Welcome to the non-legally-binding introductory paragraph to our Terms of Use! We recognize that the following document is the literary equivalent of 20 milligrams of Ambien, but it really and truly is required that you read and agree to it before using Bandcamp. We’ve done our best to make it all go down smooth – you won’t find any 8-point type, or long sections of TOTALLY UNREADABLE ALL-CAPS intended to fulfill the legal definition of “conspicuous” (we’re pretty sure Your Honor will accept yellow, bold text instead). Still, what follows is plenty involved, so we thought we’d kick things off by answering the top three things a visitor to this page might be wondering:
 
@@ -215,7 +215,7 @@ June 10, 2014: Added three new paragraphs to [Fees and Payments- Fans](#feesfans
   
   
 
-### Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 14, 2023).
+### Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 14, 2024).
 
 The estimated average monthly active recipients in the European Union of Bandcamp for the past six months was 3.1 million.
 
