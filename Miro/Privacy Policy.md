@@ -88,6 +88,7 @@
     
     * [Overview](https://miro.com/enterprise/)
     * [Trust & Security](https://miro.com/security/)
+    * [Enterprise Guard](https://miro.com/enterprise-guard/)
     * [Accessibility](https://miro.com/accessibility-statement/)
     * [Customer Stories](https://miro.com/customers/)
     
