@@ -139,7 +139,7 @@ When you ask for help, we want to get you support as quickly as possible. In ord
 
 Enforce Our Terms & Policies
 
-We use the data we collect to enforce our Terms and the law. This includes enforcing, investigating, and reporting conduct that violates our Terms, policies, or the law, responding to requests from law enforcement, and complying with legal requirements. For example, when unlawful content is posted on our Services, we may need to enforce our Terms and other policies. In some cases, we may also use or share your information to cooperate with law enforcement requests, escalate safety issues to law enforcement, industry partners, or others, or comply with our legal obligations. Check out our [Transparency Report](https://www.snap.com/privacy/transparency/) to learn more.
+We use the data we collect to enforce our Terms and the law. This includes enforcing, investigating, and reporting conduct that violates our Terms, policies, or the law, responding to requests from law enforcement, and complying with legal requirements. For example, when unlawful content is posted on our Services, we may need to enforce our Terms and other policies. In some cases, we may also use or share your information to cooperate with law enforcement requests, escalate safety issues to law enforcement, industry partners, or others, or comply with our legal obligations. Check out our [Transparency Report](https://www.snap.com/privacy/transparency) to learn more.
 
 ### 
 
