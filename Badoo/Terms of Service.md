@@ -12,7 +12,7 @@ Hello. You should read these terms and conditions in full because they apply eve
 2. We’re not responsible for anything that you post or say while you are on Badoo and we don’t assume any obligation to monitor the content of the site, but if we do see or someone alerts us that you have posted something that we think is inappropriate then we are allowed at our discretion to remove it.
 3. If you post any content that actually belongs to someone else and they get annoyed (or even call in their lawyers), we are not in the firing line. You have to take responsibility for what you post.
 4. Please refer to our Community Guidelines and Safety Tips for additional Dos and Don’ts, and information on staying safe.
-5. If you are concerned about how your data is being used by Badoo then please refer to our [Privacy Policy](https://badoo.com/en/privacy/), which explains how we treat your personal data and protect your privacy when you use Badoo. By using Badoo, you acknowledge that we can use such data in accordance with our Privacy Policy. Our website and apps also use cookies or similar technologies which we tell you more about on our [Privacy Policy](https://badoo.com/privacy/#cookies) page. You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
+5. If you are concerned about how your data is being used by Badoo then please refer to our [Privacy Policy (opens in new window)](https://badoo.com/en/privacy/), which explains how we treat your personal data and protect your privacy when you use Badoo. By using Badoo, you acknowledge that we can use such data in accordance with our Privacy Policy. Our website and apps also use cookies or similar technologies which we tell you more about on our [Privacy Policy (opens in new window)](https://badoo.com/privacy/#cookies) page. You may set your browser and your mobile settings to block cookies and local storage devices, but if you do so, you may not be able to access the features that Badoo offers.
 
 The full legal bit
 ------------------
@@ -80,7 +80,7 @@ When you upload Content to Badoo it can be accessed and viewed by the general pu
 
 When you use Badoo you agree to the Terms, and in return we grant you a limited, personal, non-exclusive and non-transferable licence to use and to upload Content and to use Badoo solely for your personal use. Apart from this licence, you have no other rights in the use of the site, app, or its Content or features, and you may not modify, edit, copy, reproduce, create derivative works of, reverse engineer, alter, enhance or in any way exploit any of the site or Content in any manner. If you breach any of the Terms, the above licence will terminate automatically and you must immediately destroy any downloaded or printed Content.
 
-We have developed matching algorithms to predict your compatibility with other users and so we can show you people we think are a good match for you. You can learn more about our use of recommender systems and the main parameters we use in our [Privacy Policy](https://badoo.com/en/privacy/).
+We have developed matching algorithms to predict your compatibility with other users and so we can show you people we think are a good match for you. You can learn more about our use of recommender systems and the main parameters we use in our [Privacy Policy (opens in new window)](https://badoo.com/en/privacy/).
 
 2\. Ownership of Content
 ------------------------
@@ -158,7 +158,7 @@ Non-registered users are able to access only that portion of Badoo that is publi
 
 ### They say that you can have too much of a good thing... what do I do if I want to “unregister” myself from Badoo?
 
-If you have registered on Badoo, you can terminate your registration at any time by going to the ‘Settings’ control on Badoo when you are logged in and choosing the ‘delete profile’ link. We save your profile information in case you later decide to restore your account. Many users deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to Badoo. You will therefore be able to restore your account and your profile in its entirety within 28 days of de-activating it. Once your registration is terminated, we have the right to delete any related Content that you have submitted or uploaded on to Badoo. For further details, please refer to our [Privacy Policy](https://badoo.com/en/privacy/).
+If you have registered on Badoo, you can terminate your registration at any time by going to the ‘Settings’ control on Badoo when you are logged in and choosing the ‘delete profile’ link. We save your profile information in case you later decide to restore your account. Many users deactivate their accounts for temporary reasons and in doing so expect us to maintain their information until they return to Badoo. You will therefore be able to restore your account and your profile in its entirety within 28 days of de-activating it. Once your registration is terminated, we have the right to delete any related Content that you have submitted or uploaded on to Badoo. For further details, please refer to our [Privacy Policy (opens in new window)](https://badoo.com/en/privacy/).
 
 Content that you have uploaded to Badoo, other than your Profile (such as comments or email messages), may still appear on Badoo following termination of your registration.
 
@@ -169,7 +169,7 @@ Content that you have uploaded to Badoo, other than your Profile (such as commen
 
 You can report any abuse or complain about Content on Badoo by contacting us via [Feedback page](https://badoo.com/terms/feedback), outlining the abuse and or complaint. You can also report a user directly from a profile, by clicking the ‘Report Abuse’ link on their profile, choosing the reason for the complaint and providing us with any additional information you think fit.
 
-We will always try our best to help resolve any issue that you may encounter with our service. If your complaint or dispute remains unresolved, however, you may be eligible to use the [European Commission’s online dispute resolution platform](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
+We will always try our best to help resolve any issue that you may encounter with our service. If your complaint or dispute remains unresolved, however, you may be eligible to use the [European Commission’s online dispute resolution platform (opens in new window)](https://webgate.ec.europa.eu/odr/main/index.cfm?event=main.home.chooseLanguage).
 
 ### Are other users vetted?
 
@@ -184,7 +184,7 @@ You agree to, and hereby do, to the maximum extent permissible under applicable 
 
 ### Do you have guidelines in place about what you can do with my personal data?
 
-We process information in accordance with our [Privacy Policy](https://badoo.com/en/privacy/) which is incorporated into these Terms and Conditions of Use. Please read the terms of our [Privacy Policy](https://badoo.com/en/privacy/) prior to using Badoo. By using Badoo, you agree to such processing and you warrant that all data provided by you is true, correct and accurate.
+We process information in accordance with our [Privacy Policy (opens in new window)](https://badoo.com/en/privacy/) which is incorporated into these Terms and Conditions of Use. Please read the terms of our [Privacy Policy (opens in new window)](https://badoo.com/en/privacy/) prior to using Badoo. By using Badoo, you agree to such processing and you warrant that all data provided by you is true, correct and accurate.
 
 8\. Links
 ---------
