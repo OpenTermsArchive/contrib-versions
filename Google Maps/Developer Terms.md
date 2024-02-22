@@ -226,6 +226,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     7. **Belgium**
         * GeoBolivia (BO): [https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859](https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859)
             
+        * Transport Data Belgium: [https://www.transportdata.be/dataset/tn-its](https://www.transportdata.be/dataset/tn-its)
+            
     8. **Brazil**
         * FUNAI (Fundação Nacional do Índio)
             
@@ -492,6 +494,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         111. City of Edmonton: [https://data.edmonton.ca/stories/s/City-of-Edmonton-Open-Data-Terms-of-Use/msh8-if28/](https://data.edmonton.ca/stories/s/City-of-Edmonton-Open-Data-Terms-of-Use/msh8-if28/)If you distribute or provide access to the datasets to any other person, whether in original or modified form, you agree to include a copy of, or this Uniform Resource Locator (URL) for, these Terms of Use and to ensure any such person agrees to, and is bound by, them without introducing any further restrictions of any kind.
             
+        112. Government of Canada: [https://open.canada.ca/data/en/dataset/3d282116-e556-400c-9306-ca1a3cada77f](https://open.canada.ca/data/en/dataset/3d282116-e556-400c-9306-ca1a3cada77f)
+            
+        113. Ontario GeoHub: [https://www.ontario.ca/page/open-government-licence-ontario](https://www.ontario.ca/page/open-government-licence-ontario)
+            
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
             
@@ -565,6 +571,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * City of Helsinki: [https://www.hel.fi/en/decision-making/information-on-helsinki/maps-and-geospatial-data/make-better-use-of-geospatial-data/open-geographic-data#open-data-licence](https://www.hel.fi/en/decision-making/information-on-helsinki/maps-and-geospatial-data/make-better-use-of-geospatial-data/open-geographic-data#open-data-licence)
             
         * Avoindata.fi: [https://www.avoindata.fi/data/fi/dataset/turun-seudun-osoitteet](https://www.avoindata.fi/data/fi/dataset/turun-seudun-osoitteet)
+            
+        * Finnish Transport Infrastructure Agency (FTIA): [https://vayla.fi/en/about-digiroad](https://vayla.fi/en/about-digiroad)
             
     18. **France and Monaco**
         * © IGN France © 2009 IGN France BD Topo ® IGN, © 2007 IGN France BD Ortho ® IGN 50cm, © 2011 IGN France - Ortho HR® IGN 20cm (Paris region)
@@ -1504,6 +1512,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * GEONORGE (NO): [https://www.geonorge.no/](https://www.geonorge.no/)
             
         * Geonorge - Norway: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        * Statens Vegvesen: [https://data.norge.no/nlod/no](https://data.norge.no/nlod/no)
             
     47. **Poland**
         * © MGGP Aero
@@ -2530,6 +2540,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
     107. **Cyprus**
         * Open Data Cyprus (CY): [https://www.data.gov.cy/](https://www.data.gov.cy/)
+            
+        * The National Access Point (NAP) of Cyprus: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     108. **Cuba**
         * The Humanitarian Data Exchange (CU): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
