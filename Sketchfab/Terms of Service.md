@@ -203,9 +203,9 @@ Under this Agreement, User Content is considered to be created using Generative 
 
 **(c) How We use AI in our Safety and Discovery Tools**
 
-Epic uses artificial intelligence and machine learning technologies in our Safety and Discovery Tools to make sure our Services and Epic ’s other products and services comply with Epic’s [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Community Rules](https://www.epicgames.com/site/community-rules) and to improve our search and recommendations. We use User Content to improve how the Safety and Discovery Tools operate. These tools perform a wide range of safety workloads, like identifying dangerous and illegal content, fraud, spam, unauthorized automation, fake accounts, and content, users or interactions which might break our rules. In addition to safety, we may further classify your content to provide services like search, recommendations and content discovery.
+Epic uses artificial intelligence and machine learning technologies in our Safety and Discovery Tools to make sure our Services and Epic’s other products and services comply with Epic’s [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Community Rules](https://www.epicgames.com/site/community-rules) and to improve our search and recommendations. We use User Content to improve how the Safety and Discovery Tools operate. These tools perform a wide range of safety workloads, like identifying dangerous and illegal content, fraud, spam, unauthorized automation, fake accounts, and content, users or interactions which might break our rules. In addition to safety, we may further classify your content to provide services like search, recommendations and content discovery.
 
-As noted above in Section 14(a), Epic does not use User Content and does not license User Content to third parties for use in datasets for, training of, or as inputs to Generative AI Programs.
+As noted above in Section 15(a), Epic does not use User Content and does not license User Content to third parties for use in datasets for, training of, or as inputs to Generative AI Programs.
 
 The effective date of these Terms of Use is **February 17, 2024**.
 
