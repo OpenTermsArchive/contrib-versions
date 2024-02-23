@@ -182,19 +182,19 @@ Privacy Policy
 
 [Current Subprocessors List](https://miro.com/legal/subprocessors-list)
 
-[Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
-
 [Miro Assist Beta Program Terms](https://miro.com/legal/miro-assist-terms)
-
-[Customer Data Processing Addendum](https://miro.com/legal/customer-data-processing-addendum)
-
-[Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
-
-[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
 
 [Miro Imprint](https://miro.com/legal/miro-imprint)
 
+[Customer Data Processing Addendum](https://miro.com/legal/customer-data-processing-addendum)
+
+[Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
+
+[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
+
 [Code of Conduct](https://miro.com/legal/code-of-conduct)
+
+[Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
 
 ##### Table of contents
 
