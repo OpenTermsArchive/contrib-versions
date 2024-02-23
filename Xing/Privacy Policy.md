@@ -4,7 +4,7 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-* Last updated: 1 June 2023
+* Last updated: 20 December 2023
 * Here we inform you about data processing in connection with the entire service XING and its applications (XING, kununu, onlyfy, etc.).
 * New Work SE is the body responsible for the processing of personal data.
 * Our Data Protection Officer is Christian Schmidt.
@@ -36,6 +36,10 @@ The purposes for which we process your [personal data](https://privacy.xing.com/
 #### Duty to provide and necessity of personal data for contract closure
 
 You are not legally required to make your [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) available. Nevertheless, in order to close a user contract you must provide information such as your name and e-mail address. Without this information we are not able to enter into such a contract with you. Within the scope of the user contract, we are contractually obliged to keep the data provided in its precise and complete form for all applications used by you and for the entire duration of the contractual term. During the initial process of data entry we inform you if the provision of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is necessary for a particular feature or application ("mandatory field"). Where data is required, any failure to provide this information will result in the respective feature or application not being accessible to you the user. In the case of optional data, not making this information available may mean that our services cannot be provided in the same form or scope.
+
+#### Applicability of the Swiss Federal Data Protection Act (FADP)
+
+The FADP applies to circumstances which have an impact on Switzerland, even if said circumstances are initiated outside of Switzerland. Correspondingly, this privacy policy applies to information in line with the [EU GDPR](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr) and the FADP. Here, [EU GDPR](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr) terminology is used in favour of FADP terminology. However, FADP terminology is used if the FADP applies and the terminology differs from [EU GDPR](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr) terminology in a given language. The [About this site](https://www.xing.com/legalnotice) section on XING contains the name and address of our representative in Switzerland.
 
 How is your personal data processed?
 ------------------------------------
@@ -347,15 +351,21 @@ The legal basis for this processing of [personal data](https://privacy.xing.com/
 
 #### Applications via XING
 
-You can apply for some jobs directly via XING by entering your contact details and uploading your documents to an application form. We then send your application to the company that posted the job ad.
+You can often apply for jobs directly via XING and onlyfy by entering your contact details and uploading your documents to an application form. We then send your application to the company that posted the job ad.  
+  
+The "Leverage your application" feature also lets you use the data from your application, irrespective of whether or not you are a member of the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network). If you grant the necessary permission by opting to use this feature, we will save your data from your application and use it to offer you a wide range of professional opportunities and share your data with recruiters. The "Leverage your application" feature also allows us to send you regular job suggestions, while other recruiters/companies can view your CV and contact you about matching vacancies. You also have the option to use your job application data to apply for other jobs. We aim to provide you with the best-possible support for your professional life, which is why we also use the e-mail address you provide to send you information about our other products and services. The "Leverage your application" does not automatically create a visible profile for you on the social network.
 
 #### Visibility
 
-Only you can see which vacancies you applied for. Other people are unable to see this information on XING. Only the company you apply to via XING can access the data and documents you provide in your application.
+Other than the companies you applied to, only you can see which vacancies you applied for. Other people are unable to see this information on XING. Only the company you apply to via XING can access the data and documents you provide in your application.  
+  
+If you give your consent to use the "Leverage your application" feature, you allow us to make your application details and documents available to other companies we think may have a matching vacancy for you. The "Leverage your application" does not automatically create a visible profile for you on the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network).
 
 #### Retention period
 
-We will delete the data and documents you provide in your application via XING after a period of 6 months. Some job application processes can take several months to complete, which is why we want to make sure that companies you apply to via XING have long enough access to your application data and documents.
+We will delete the data and documents you provide in your application via XING after a period of 6 months. Some job application processes can take several months to complete, which is why we want to make sure that companies you apply to via XING have long enough access to your application data and documents.  
+  
+By opting to use the "Leverage your application" feature, we will save your data until you withdraw your consent.
 
 #### Legal basis
 
@@ -431,17 +441,6 @@ You can enable or deactivate this data collection. We recommend you enable it so
     Please note that opting out of cookies is device-specific. This means that if you delete your cookie or use a different computer or web browser, you will need to opt out again. When using mobile apps, you can opt out in the app settings.
     
 
-#### Acoustic
-
-We would like to show you content that is tailored to your interests. We show this content on our websites or in e-mails. To do that, we use the 'Acoustic' service to collect your usage data.  
-  
-You can enable or deactivate this data collection by Acoustic. We recommend you enable it so we can keep providing you with relevant content and with useful tips and information about XING solutions.
-
-* Opt in to data collection with Acoustic
-    
-    Please note that by opting out of data collection, a cookie will be set which saves this setting. If you delete this cookie or use a different device or web browser, you will need to opt out again.
-    
-
 #### Wingify/VWO
 
 We use a tool called VWO to run A/B tests. You can opt out of this kind of web analysis [here](https://vwo.com/opt-out/)
@@ -490,7 +489,7 @@ More information is available [here](https://www.advanced-store.com/en/data-priv
 
 #### Adzuna
 
-More information is available [here](https://www.adzuna.de/privacy-policy.html)
+More information is available [here](https://www.adzuna.co.uk/privacy-policy.html)
 
 #### AppNexus / Xandr
 
@@ -507,6 +506,10 @@ More information is available [here](https://www.emetriq.com/datenschutz/)
 #### Google
 
 More information is available [here](https://policies.google.com/technologies/partner-sites)
+
+#### ID5 Technology Ltd
+
+More information is available [here](https://id5.io/platform-privacy-policy/)
 
 #### Instapage
 
@@ -596,17 +599,13 @@ More information is available [here](https://www.tiktok.com/legal/page/eea/priva
 
 More information is available [here](https://twitter.com/en/privacy)
 
-#### Wonderkind
+#### XAD spoteffects GmbH
 
-More information is available [here](https://wonderkind.com/wp-content/uploads/2020/10/Wonderkind-privacy-statement-2020.pdf)
+More information is available [here](https://xadspoteffects.com/datenschutzerklaerung#part_a)
 
 #### Yieldlab
 
 More information is available [here](https://yieldlab.com/datenschutz/)
-
-#### Zeotap
-
-More information is available [here](https://zeotap.com/product-privacy-policy/)
 
 #### Opting out of tracking for the measurement and optimisation of advertising in our applications
 
@@ -660,6 +659,12 @@ If you’d like to prevent tracking by external providers within the XING enviro
     
     As a non-member these changes only apply in the browser you're currently using.
     
+
+#### Opting out of tracking within the XING environment
+
+Opting out of tracking within the XING environment
+
+You have the option to opt out of data collection and storage by SalesViewer in the future by clicking on [this link](https://www.salesviewer.com/opt-out). This will set what's known as an opt-out cookie in your browser. Please note that you'll need to click on the above link again if you delete this cookie and want to continue to opt out of data collection and storage by SalesViewer.
 
 ### 4\. Information we obtain about you from other sources
 
@@ -792,9 +797,9 @@ Providers of tools for website use analysis
 
 Cooperation partners
 
-#### Companies you apply to via XING
+#### Companies you apply to via XING/onlyfy, "Leverage your application" feature
 
-You can apply for some jobs directly via XING. We send the data and documents in your application to the company that posted the job ad. If you're logged in to XING, we'll also send your XING profile as a link and PDF overview. Companies you apply to via XING can review your application via a secure download link.
+You can often apply for jobs directly via XING and onlyfy by entering your contact details and uploading your documents to an application form. We then send your application to the company that posted the job ad. If you're logged in to XING, we'll also send your XING profile as a link and PDF overview. Companies you apply to via XING receive your application via the e-mail address used in the job ad or via the company's applicant tracking system. If you give your consent to use the "Leverage your application" feature, you allow us to make your application details and documents available to other companies we think may have a matching vacancy for you.
 
 #### Google
 
@@ -908,7 +913,7 @@ Terms used in our Privacy Policy
   
 **Personal data:** Pursuant to Article 4 (1) of the EU General Data Protection Regulation (GDPR), any information relating to an identified or identifiable natural person; an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.  
   
-**Social network:** The contact and communication forums belonging to the applications of the service XING.  
+**Social network:** The professional social network and jobs network belonging to the applications of the service XING.  
   
 **Profile:** The page on the XING websites where the personal data made available by the user is displayed in the social network.  
   
