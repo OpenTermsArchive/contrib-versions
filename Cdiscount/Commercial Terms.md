@@ -652,7 +652,7 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 
 À l’attention de CDISCOUNT, Cdiscount.com / SGPN Service Client - BP 90200 - 93472 Neuilly Sur Marne, France, [droit.retractation@cdiscount.com](https://www.cdiscount.com/mailto:droit.retractation@cdiscount.com) :
 
-— Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*) / prestation de services (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétractez\]…………………………………………………………………………………………………… ……………………………………………….... — Commandé le (\*) / reçu le (\*)………………………………………………………………………………………………… …………..............
+— Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*) / prestation de services (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétractez\]…………………………………………………………………………………………………… ………………………'…………………….... — Commandé le (\*) / reçu le (\*)………………………………………………………………………………………………… …………..............
 
 — N° de commande …………………………………………………………………………………………………… ………..............................
 
@@ -1312,7 +1312,7 @@ Toutefois, le solde sera informatiquement enregistré par Cdiscount et le crédi
 
 Le partage d’abonnement (ci-après le « Partage ») consiste en la possibilité pour l’Abonné de partager les avantages de son Abonnement au Service avec un ou plusieurs membres de sa famille (ci-après le « Bénéficiaire »), sous certaines conditions et pour une durée limitée.
 
-**8.1 Conditions relatives à l'Abonné** 
+**8.1 Conditions relatives à l’Abonné** 
 
 Pour que le Partage soit valable, l‘Abonné doit :
 
