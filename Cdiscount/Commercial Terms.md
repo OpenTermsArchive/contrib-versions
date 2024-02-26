@@ -1312,7 +1312,7 @@ Toutefois, le solde sera informatiquement enregistré par Cdiscount et le crédi
 
 Le partage d’abonnement (ci-après le « Partage ») consiste en la possibilité pour l’Abonné de partager les avantages de son Abonnement au Service avec un ou plusieurs membres de sa famille (ci-après le « Bénéficiaire »), sous certaines conditions et pour une durée limitée.
 
-**8.1 Conditions relatives à l’Abonné** 
+**8.1 Conditions relatives à l'Abonné** 
 
 Pour que le Partage soit valable, l‘Abonné doit :
 
