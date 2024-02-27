@@ -17,6 +17,11 @@
     
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/5d3jdM7BrQazAMyaNNBEMX/59f44ea72a6d4bba1e4aa172e3e0c86e/Whats-new-webinar_hero_opt1-standard-4_3__1___2_.png)
+        
+        2024's first look at What's New](https://miro.com/webinars/whats-new/register/?utm_campaign=FY25Q1-GLB-WB-HI-S2_INX-Whats_New_webinar&utm_source=weblink&utm_medium=redirect&utm_content=Video&src=weblink_glb#51zOaaoN2)
+    * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
         ![](https://images.ctfassets.net/w6r2i5d8q73s/4NDcHKcAiwMXJ0h3Uxv9K1/eec966d255c916a761dc26a12ae998ba/meeting-3.svg)
         
         Automatic styling with Brand Center](https://help.miro.com/hc/en-us/articles/13061918433426-Brand-center-BETA-)
@@ -25,11 +30,6 @@
         ![](https://images.ctfassets.net/w6r2i5d8q73s/2ZEbdBPtunIHWmy8VLYi6N/a227e774c270ac802ec4670e2d3f669b/pose_7_2_1.svg)
         
         Access presenter notes easily](https://miro.com/blog/what-we-launched-january-2024/#h-workshops-amp-async-collaboration:~:text=Prepare%20private%20notes%20for%20your%20interactive%20presentations%C2%A0)
-    * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-        
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/6Vqj6m5CS89zOvdwrm1HDm/9dc44b38915d309e358e4110df4efafd/communication-chat-person.svg)
-        
-        Press play with Talktrack shortcuts](https://miro.com/talktrack/)
     
     [See all updates](https://miro.com/whats-new/)
     
