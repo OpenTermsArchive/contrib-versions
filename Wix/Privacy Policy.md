@@ -329,57 +329,9 @@ You may also correct and/or update your Personal Information through your user a
   
 You can also delete your Personal Information by deleting  your entire account. We will respond to your requests within a reasonable timeframe.
 
-10\. Communication
+10\. Accessing
 
-10\.  Additional Information for California residents
------------------------------------------------------
-
-If you are a California resident using the Services, the California Consumer Privacy Act ("CCPA") grants you the right to request access to and deletion of the Personal Information Wix collects about you, as well as to request that we disclose how we collect, use, and share your Personal Information. 
-
-California residents also have a right to opt-out of the sale of their Personal Information by a business and a right not to be discriminated against for exercising any of their rights under the CCPA. 
-
-​
-
-No sale of Personal Information. Wix does NOT sell (as such term is defined in the CCPA) your Personal Information or your customers’ (Users-of-Users) Personal Information to third parties, and Wix has not sold Personal Information in the twelve months prior to the effective date of this Privacy Policy.
-
-​
-
-No Discrimination. Wix does not discriminate against any User for exercising their rights under the CCPA.
-
-California consumers can exercise their CCPA rights directly or through an authorized agent by signing in to their registered Wix account at Wix.com and following the instructions outlined below. Please note: in order to protect Users’ accounts and Personal Information and safeguard Users’ privacy rights, we verify Users’ deletion and access requests, and to that extent, we may ask you for additional information or documentation (depending on the case), such as account related information, and, in some cases, billing information used to purchase paid Services, and a copy of documents that can assist with verifying your identity. 
-
-Such identification documentation (if requested) will be used only for verification purposes and we will delete it after your request is processed.
-
-  
-The following instructions apply to Personal Information we may collect from California residents on or through our Services.
-
-​
-
-Right to Know: If you want to exercise your right to know or receive a copy or access the Personal Information that you have stored with us, please follow the instructions provided in this Help Center article: <"[Retrieving Your Wix Account Data"](https://support.wix.com/en/article/privacy-retrieving-your-wix-account-data)\>, which explains how you can retrieve your Personal Information directly from within your Wix account.  Alternatively, you can also submit a request to access your Personal Information through [this web form](https://www.wix.com/account/support/get-archive), by submitting a request by email to [privacy@wix.com](mailto:privacy@wix.com), or by mailing your request to Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel.
-
- Right to Deletion: If you want to exercise your right to request deletion of any of your Personal Information that you have stored with us, please follow the instructions provided in this Help Center article: <"[Permanently Deleting Your Wix Account](https://support.wix.com/en/article/privacy-permanently-deleting-your-wix-account-2888065)">, which explains how to delete your Personal Information that you can access directly through your User account. You can also choose to submit a request to delete all your Personal Information (including information accessible via your User account and any other Personal Information we hold about you) through [this web form](https://www.wix.com/account/support/permanent-delete), by submitting a request by email to [privacy@wix.com](mailto:privacy@wix.com), or by mailing your request to Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel. 
-
-Once we receive and verify your consumer request, we will delete your personal information from our records unless an exception applies. We will make reasonable efforts to honor your request promptly and consistent with requirements under applicable law.
-
-Please note that permanently deleting your Wix account erases all of your Personal Information from Wix's databases. After completing this process, you can no longer use any of your Wix Services, your account, and all its data will be removed permanently, and Wix will not be able to restore your account or retrieve your data in the future. Additionally, if you contact our support channels in the future, the system will not recognize your account, and support agents will not be able to locate the deleted account.
-
-  
-If you cannot access your Wix account or if you wish to exercise your CCPA rights through an authorized agent operating on your behalf, you, or your authorized agent (as applicable) may send a request to [privacy@wix.com](mailto:privacy@wix.com) or reach out to our [customer care department](https://support.wix.com/en/article/contacting-wix-customer-care-for-support), including by requesting a callback from a customer care expert. To process your request, in order to protect Users’ accounts and Personal Information, we may ask you or your authorized agent for the verifying information detailed above, which may vary according to the circumstances of your request. Authorized agents will also need to provide Wix with a copy of the consumer’s signed authorization designating them as their agent.
-
-​
-
-The rights described in this section may also apply to other U.S. States' residents, according to applicable laws and regulations. 
-
-### #ItsThatEasy
-
-California residents have a few options to submit requests to exercise their rights. Please refer to this Section 10 for more detail on how you or your authorized agent may submit different types of requests.  
- 
-
-Wix does NOT sell (as such term is defined in the CCPA) your Personal Information or your customers’ Personal Information (Users-of-Users) to third parties.
-
-11\. Accessing
-
-11\. Questions and complaints
+10\. Questions and complaints
 -----------------------------
 
 If you have any questions or concerns about our collection, use or disclosure of Personal Information, or if you believe that we have not complied with this Privacy Policy or applicable data protection laws, please contact us – our details are set out at the end of this Privacy Policy.
@@ -396,9 +348,9 @@ You can file a complaint with your local supervisory authority for data protecti
 
 You can file a complaint with your local supervisory authority for data protection at any time.  Please contact us first so we can try to resolve your concerns.
 
-12\. Questions and Complaints
+11\. Questions and Complaints
 
-12\. Data retention
+11\. Data retention
 -------------------
 
 We may retain your Personal Information (as well as your Users-of-Users’ Personal Information) for as long as your User Account is active, as indicated in this Privacy Policy, or as otherwise needed to provide you with our Services.
@@ -415,9 +367,9 @@ To determine the appropriate retention period for Personal Information, we consi
 
 We may keep your Personal Information for as long as your account is active, and longer as needed (for example, if we are legally obligated to keep it longer, or need it to protect our interests).
 
-13\. Data Retention
+12\. Data Retention
 
-13\. Security
+12\. Security
 -------------
 
 Wix has implemented security measures designed to protect the Personal Information you share with us, including physical, electronic and procedural measures. Among other things, we offer HTTPS secure access to most areas on our Services; the transmission of sensitive payment information (such as a credit card number) through our designated purchase forms is protected by an industry standard SSL/TLS encrypted connection; and we regularly maintain a PCI DSS (Payment Card Industry Data Security Standards) certification. We also regularly monitor our systems for possible vulnerabilities and attacks, and regularly seek new ways and Third Party Services for further enhancing the security of our Services and protection of our Visitors’ and Users’ privacy.
@@ -440,7 +392,7 @@ However, as we can’t guarantee absolute protection – we encourage you to be 
 
 14\. Security
 
-14\. Third-party websites
+13\. Third-party websites
 -------------------------
 
 Our Services may contain links to other websites or services. We are not responsible for such websites’ or services’ privacy practices. We encourage you to be aware when you leave our Services and to read the privacy statements of each and every website and service you visit before providing your Personal Information. This Privacy Policy does not apply to such linked third party websites and services.
@@ -451,7 +403,7 @@ Our Services may contain links to other websites or services.
 
 15\. Public forums and user content
 
-15\. Wix jobs applications
+14\. Wix jobs applications
 --------------------------
 
 Wix welcomes all qualified Applicants to apply to any of the open positions published at [https://www.wix.com/jobs](https://www.wix.com/jobs), by sending us their contact details, CV, and other relevant information via the application form on our Website. Wix will handle this data in accordance with our [Privacy Policy for Job Applicants](https://www.wix.com/jobs/privacy).
@@ -462,9 +414,9 @@ We welcome all qualified job seekers to apply to any of our open positions, by s
 
 We will use such Personal Information solely for our internal recruitment, employment and business purposes.
 
-16\. Updates and interpretation
+15\. Updates and interpretation
 
-16\. Public forums and user content
+15\. Public forums and user content
 -----------------------------------
 
 Our Services offer publicly accessible blogs, communities and support forums. Please be aware that any Personal Information you provide in any such areas may be read, collected, and used by others who access them. To request removal of your Personal Information from our blogs, communities or forums, feel free to contact us [here](https://www.wix.com/support-chatbot?nodeId=kKKuIuXsiPa1kiePMmcA&type=privacyRemovePI&referral=privacyPolicy). In some cases, we may not be able to remove your Personal Information from such areas. For example, if you use a third party application to post a comment (e.g., the Facebook social plugin application) while logged in to your related profile with such third party, you must login into such application or contact its provider if you want to remove the Personal Information you posted on that platform. 
@@ -485,8 +437,8 @@ Avoid posting any Personal Information to any of the public areas on our Service
 
 17. Contacting us
 
-17. Updates and interpretation
-------------------------------
+16\. Updates and interpretation
+-------------------------------
 
 We may update this Privacy Policy as required by applicable law, and to reflect changes to our Personal Information collection, usage and storage practices. If we make any changes that we deem as “material” (in our sole good faith discretion), we will notify you (using one of the notification methods set forth in Section 15.3 of the [Terms of Use](http://www.wix.com/about/terms-of-use)) prior to the change becoming effective. In relation to any updated Privacy Policy, we will, as required by applicable law, notify you, seek your consent and/or take any other measures. We encourage you to periodically review this page for the latest Information on our privacy practices. Unless stated otherwise, our most current Privacy Policy applies to all information that we have about you and your Users-of-Users, with respect to our Website, Wix Apps, Mobile Apps and other Services. 
 
@@ -510,8 +462,8 @@ Only the left column is legally binding (this column is just for clarity).
 
 Translated (non-English) versions of these terms are provided for convenience only.
 
-18. Contacting us
------------------
+17\. Contacting us
+------------------
 
 If you have any questions about this Privacy Policy or wish to exercise any of your rights as described in Sections 9 or 10 please refer to those sections or contact the Data Protection Officer team [here](https://www.wix.com/support-chatbot?nodeId=kKKuIuXsiPa1kiePMmcA&type=privacyShieldPolicy&referral=privacyPolicy). We will attempt to resolve any complaints regarding the use of your Personal Information in accordance with this Privacy Policy.
 
@@ -531,3 +483,104 @@ For the purposes of GDPR (Article 27), you may contact our EU representative at 
 ​
 
 For the purposes of UK GDPR (Article 27), you may contact our UK representative at Wix.Com (UK) Limited, Tower Bridge House, St Katharine's Way, London E1W 1DD, United Kingdom.
+
+Additional Information for U.S. State Residents
+-----------------------------------------------
+
+This section of our Privacy Policy details what Personal Information we collect about you under U.S. applicable privacy laws and regulations, the sources of the Personal Information, the purposes of use and disclosure, and the categories of third parties that may receive that Personal Information. The information in this section applies to you if you are a U.S. resident in a state with an applicable privacy law or regulation.
+
+​
+
+Please read this section in combination with the other sections of this Privacy Policy for a complete understanding of how we collect, use, and disclose your personal information.
+
+### Your Rights and how to exercise them:
+
+Here is a brief overview of your rights:  
+ 
+
+* Right to Delete Your Information: Upon your request, we will delete the personal information we have collected from you, subject to certain legally permissible exceptions. 
+    
+    * Please follow the instructions provided in this Help Center article: <"[Permanently Deleting Your Wix Account](https://support.wix.com/en/article/privacy-permanently-deleting-your-wix-account-2888065)">, which explains how to delete your Personal Information. You can also choose to request the deletion through this  [web form](https://www.wix.com/account/support/permanent-delete) or by contacting us as described in this Privacy Policy.  
+         
+        
+* Right to Know and Access Your Personal Information: You have the right to ask us to confirm whether we process your personal information and for a copy of the personal information we maintain about you.
+    
+    * Please follow the instructions provided in this Help Center article: <"[Retrieving Your Wix Account Data](https://support.wix.com/en/article/privacy-retrieving-your-wix-account-data)">, which explains how you can retrieve your Personal Information. You can also submit a request to access your Personal Information through this [web form](https://www.wix.com/account/support/get-archive) or by contacting us as described in this Privacy Policy  
+         
+        
+* Right to Correct Inaccurate Personal Information: You have the right to request that we correct inaccurate personal information about you. Some personal information can be directly changed or corrected by you through our apps and websites.
+    
+    * For any questions, you can reach out to us using the method described in this Privacy Policy  
+         
+        
+* Right to Opt Out of the Sale of Your Personal Information: You can tell us not to "sell" your personal information according to applicable law, even though we don't technically sell your information in the traditional sense. We may share certain categories of Personal Information with our Third Party Service Providers. However,  the current regulation uses a very broad (and somewhat scary) definition of “Sale”."
+    
+* Right to Limit Use of Your Personal Information for Targeted Advertising (defined in California as “Sharing”): You can ask us not to use or disclose your personal information for targeted advertising. Just visit our [Do Not Sell or Share My Personal Information page](https://www.wix.com/about/privacy/do-not-sell-my-personal-information). You also can use the Global Privacy Control to signal your opt-out preference. To learn more about the GPC please visit [https://globalprivacycontrol.org](https://globalprivacycontrol.org/).
+    
+
+  
+  
+You may exercise any of the rights described above, you can also submit a request by email to privacy@wix.com, or by mail to Wix.com, 5 Yunitsman St., Tel Aviv, Israel.  
+  
+When you submit a request, we will usually ask you to provide an email address to verify your identity and prevent fraud.  
+  
+You may also designate an authorized agent to submit a request on your behalf.   
+Depending on the nature of the request, we may authenticate the request by requesting additional information or documentation, such as account related information, billing information used to purchase paid Services and the submission of specific documents.  
+  
+No Discrimination. Wix does not discriminate against any individual for exercising their rights under this section.  
+  
+If we deny your request or cannot fulfill it, you may appeal our decision by contacting us as described in this Privacy Policy to ask us to review your request again. Your communication should include “Appeal” in the subject line.
+
+### Categories of Information:
+
+In the last 12 months, we collected the following categories of personal information (the same categories we collect from all users globally):  
+ 
+
+* Personal and online identifiers
+    
+* Commercial and transactions information
+    
+* Record-keeping information
+    
+* Internet or other electronic network activity information
+    
+* Non-precise Geolocation data (IP address, only)
+    
+* Audio, electronic, visual, or similar information
+    
+* Inferences drawn from the above information
+    
+
+### Sources of Information
+
+We collect Personal Information:
+
+* You provide us when you register for our Services, sign up for any Wix events, subscribe to our blog(s) or newsletter(s), purchase and/or register domain names, use any of our Services; and/or when you contact us directly by any communication channels  
+     
+    
+* When you use the Services by visiting, downloading, and/or using any of our Services.  
+     
+    
+* From third-party sources, such as security providers, fraud detection services, social media platforms, lead enhancement companies, advertising and marketing partners.
+    
+
+### Disclosure of Information for Business Purposes:
+
+In the past 12 months, we may have disclosed each of the categories of personal information listed above to our affiliates, Third Party Service Providers, social media platforms, advertising partners, analytics partners, and promotional partners.
+
+### Sales or Sharing of Your Information:
+
+Note: for sure, we're not out there auctioning off your data to the highest bidder.  
+We may have "sold" (using that rather broad and dramatic term as defined by U.S. privacy laws and regulations) or shared the categories of Personal Information listed above in the past 12 months to our affiliates, Third Party Service Providers, promotional partners, advertising partners, analytics partners, and social media platforms.  
+  
+Wix does not knowingly collect, use, sell or share the Personal Information of children under the age of 16.
+
+### Sensitive Personal Information:
+
+We may process Sensitive Personal Information in accordance with applicable laws and do not use or disclose Sensitive Personal Information in any way that would require us to provide an opt-out opportunity under the applicable laws.
+
+### Retention of Information:
+
+We retain your Personal Information for the time period reasonably necessary to achieve the purposes described in this Privacy Policy, or any other notice provided at the time of collection.  
+  
+To determine the appropriate retention period for Personal Information, we consider the amount, nature, and sensitivity of such data, the potential risk of harm from unauthorized use or disclosure of such data, the purposes for which we process it, and the applicable legal requirements.
