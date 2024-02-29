@@ -40,6 +40,9 @@ We take action on content that violates our policies. This may include disapprov
 
 We will provide you with information on our decision for any policy violation enforcement actions we take. If one of your ads is disapproved, you can [fix that ad or appeal the decision](https://ads.google.com/aw/policymanager/issues) (or here for [DV360 ads](https://support.google.com/displayvideo/answer/12726387)). You can also [appeal an account suspension decision](https://ads.google.com/nav/login?dst=/aw/overview?supportResource%3Dsuspension_help) (or here for [DV360 appeals](https://support.google.com/displayvideo/contact/tns_dv360_account_suspension)). For these links to work, you’ll need to be signed into your Google Ads account.
 
+> Prohibited content
+> ------------------
+
 > ### [Counterfeit goods](https://support.google.com/adspolicy/answer/176017)
 > 
 > > Google Ads prohibits the sale or promotion for sale of counterfeit goods. Counterfeit goods contain a trademark or logo that is identical to or substantially indistinguishable from the trademark of another. They mimic the brand features of the product in an attempt to pass themselves off as a genuine product of the brand owner. This policy applies to the content of your ad and your website or app. 
