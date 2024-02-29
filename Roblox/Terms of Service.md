@@ -682,7 +682,7 @@ _Appendix C (EUROPEAN UNION/EUROPEAN ECONOMIC AREA AND THE UNITED KINGDOM)_
 
 We are also making changes to other portions of the Roblox TermsThe terms and conditions that apply to and govern a User’s and Creator’s use of the Services. The Roblox Terms include the User Terms, Creator Terms, Roblox Community Standards, Roblox Privacy & Cookie Policy, and regional Supplemental Provisions and other Additional Terms. to align with these changes. Please take some time to review them.
 
-* [DE Nutzungsbedingungen von Roblox 20240215.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957360143380)
+* [DE Nutzungsbedingungen von Roblox 20240226.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957360143380)
     
     1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957360143380)
     
@@ -690,35 +690,35 @@ We are also making changes to other portions of the Roblox TermsThe terms and co
     
     1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957353013908)
     
-* [ES Términos de uso de Roblox 20240215.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957371387284)
+* [ES Términos de uso de Roblox 20240226.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957371387284)
     
     1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957371387284)
     
-* [FR Conditions d'utilisation de Roblox 20240215.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957387413652)
+* [FR Conditions d'utilisation de Roblox 20240226.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957387413652)
     
     1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957387413652)
     
-* [ID Roblox Ketentuan Penggunaan 20240215.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957377130260)
+* [ID Roblox Ketentuan Penggunaan 20240226.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957377130260)
     
     1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957377130260)
     
-* [IT Condizioni di utilizzo di Roblox 20240215.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957342364692)
+* [IT Condizioni di utilizzo di Roblox 20240226.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957342364692)
     
     1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957342364692)
     
-* [JA Roblox利用規約 20240215.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957366267540)
+* [JA Roblox利用規約 20240226.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957366267540)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957366267540)
     
-* [KO Roblox 이용 약관 20240215.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957376690452)
+* [KO Roblox 이용 약관 20240226.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957376690452)
     
     3 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957376690452)
     
-* [PT-BR Termos de Uso da Roblox 20240215.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957397428884)
+* [PT-BR Termos de Uso da Roblox 20240226.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957397428884)
     
     1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957397428884)
     
-* [ZH-CN Roblox使用条款 20240215.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957445389972)
+* [ZH-CN Roblox 使用条款 20240226.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957445389972)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957445389972)
     
@@ -730,7 +730,7 @@ We are also making changes to other portions of the Roblox TermsThe terms and co
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/21522165308692)
     
-* [TH ข้อกำหนดการใช้งานของ Roblox 20240215.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522231017236)
+* [TH ข้อกำหนดการใช้งานของ Roblox 20240226.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522231017236)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/21522231017236)
     
