@@ -180,7 +180,7 @@ EU Residents. GDPR provides certain rights for EU residents. You may decline to 
 ### Who are the subjects of this Privacy Policy?
 
 * Data Controller.  
-    The data controller is IndieGala S.R.L. in person of its legal representative pro-tempore, with registered office located in Rome (IT), Via Bolzano, 15, VAT ID: IT 11660511004.  
+    The data controller is IndieGala S.R.L. in person of its legal representative pro-tempore, with registered office located in Rome (IT), Via Chiana, 38, VAT ID: IT 11660511004.  
     The data controller uses a Data Protection Officer (DPO) to monitor the protection of your personal data.  
     For any request related to your personal data, please see the DPO contact details below.
 * Data Protection Officer and contact details.  
