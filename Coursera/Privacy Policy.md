@@ -5,7 +5,7 @@ Privacy Notice
 
 * * *
 
-_Effective: January 1, 2024._
+_Effective: March 1, 2024._
 
 Key Information
 ---------------
@@ -15,17 +15,17 @@ You can find information about us and how we collect, use and store your persona
 Purpose and who we are
 ----------------------
 
-The purpose of this Privacy Notice is to describe how Coursera, Inc., our subsidiaries, and our international branches, ("Coursera," "us," "we," or "our") collects, uses, and shares information about you through our online interfaces (e.g., websites and mobile applications) owned and controlled by us, including but not limited to coursera.org and rhyme.com (collectively referred to herein as the "Site"). Please read this Privacy Notice carefully to understand what we do. If you do not understand any aspects of our Privacy Notice, please feel free to contact us at [privacy@coursera.org](mailto:privacy@coursera.org). Your use of our Site is also governed by our [Terms of Use.](https://www.coursera.org/about/terms).Terms used but not defined in this Privacy Notice can be found in our Terms of Use. Coursera, Inc. is a Delaware corporation with a principal place of business at 381 E. Evelyn Ave., Mountain View, CA 94041. If you reside or are located in the European Economic Area ("EEA") Coursera is the data controller of all Personal Data (as defined below) collected via the Site and of certain Personal Data collected from third parties, as set out in this Privacy Notice unless you are part of a degree, certain MasterTrack programs, or certain other circumstances as communicated to you, in which case Coursera is the data processor.
+The purpose of this Privacy Notice is to describe how Coursera, Inc., our subsidiaries, and our international branches, ("Coursera," "us," "we," or "our") collects, uses, and shares information about you through our online interfaces (e.g., websites and mobile applications) owned and controlled by us, including but not limited to coursera.org and rhyme.com (collectively referred to herein as the "Site"). Please read this Privacy Notice carefully to understand what we do. If you do not understand any aspects of our Privacy Notice, please feel free to contact us at [privacy@coursera.org](mailto:privacy@coursera.org). Your use of our Site is also governed by our [Terms of Use](https://www.coursera.org/about/terms).Terms used but not defined in this Privacy Notice can be found in our Terms of Use. Coursera, Inc. is a Delaware corporation with a principal place of business at 381 E. Evelyn Ave., Mountain View, CA 94041. If you reside or are located in the European Economic Area ("EEA") Coursera is the data controller of all Personal Data (as defined below) collected via the Site and of certain Personal Data collected from third parties, as set out in this Privacy Notice unless you are part of a degree, certain MasterTrack programs, or certain other circumstances as communicated to you, in which case Coursera is the data processor.
 
 What Information this Privacy Notice Covers
 -------------------------------------------
 
 This Privacy Notice covers information we collect from you through our Site. Some of our Site’s functionality can be used without revealing any Personal Data, but for features or Services related to the Content Offerings, Personal Data is required. In order to access certain features and benefits on our Site, you may need to submit, or we may collect, **"Personal Data"** (i.e., information that can be used to identify you and which may also be referred to as “personally identifiable information” or “personal information”). Personal Data can include information such as your name, email address, IP address, and device identifier, among other things. You are responsible for ensuring the accuracy of the Personal Data you submit to Coursera. Inaccurate information may affect your ability to use the Site, the information you receive when using the Site, and our ability to contact you. For example, your email address should be kept current because that is one of the primary manners in which we communicate with you.
 
-What You Agree to by Using Our Site
------------------------------------
+Legal Bases for Collecting and Using Personal Data
+--------------------------------------------------
 
-We consider that the legal bases for using your personal information as set out in this Privacy Notice are as follows:
+We consider that the legal bases for using your Personal Data as set out in this Privacy Notice are as follows:
 
 Which legal basis applies to a specific activity will depend on the type of personal information used and the context in which it is being used.
 
@@ -35,48 +35,48 @@ We may process your personal information in some cases for marketing purposes on
 
 If we rely on your consent for us to use your personal information in a particular way, but you later change your mind, you may withdraw your consent by visiting your profile page and clicking the box to remove consent and we will stop doing so. If you withdraw your consent, this may impact the ability for us to provide some of our Services to you.
 
-What Information We Collect
----------------------------
+What Personal Data We Collect
+-----------------------------
 
 We gather the following types of information about users through the Site:
 
-1. **Information relating to your use of our Site.** When users come to our Site, we may track, collect, and aggregate information indicating, among other things, which pages of our Site were visited, the order in which they were visited, when they were visited, and which hyperlinks were clicked. We also collect information from the URLs from which you linked to our Site. Collecting such information may involve logging the IP address, operating system, and browser software used by each user of the Site. We may be able to determine from an IP address a user’s Internet Service Provider and the geographic location of their point of connectivity. Location data may be used to route your traffic to the nearest regional server to reduce latency and improve your experience. We may also use cookies and web beacons when you visit our Site. For more information on our use of cookies and web beacons, please refer to our [Cookies Policy](https://www.coursera.org/about/cookies).
+1. **Information relating to your use of our Site.** When users come to our Site, we may track, collect, and aggregate information indicating, among other things, which pages of our Site were visited, the order in which they were visited, when they were visited, and which hyperlinks were clicked. We also collect information from the URLs from which you linked to our Site. Collecting such information may involve logging the IP address, operating system, and browser software used by each user of the Site. We may be able to determine from an IP address a user’s Internet Service Provider and the geographic location of their point of connectivity. Location data may be used to route your traffic to the nearest regional server to reduce latency and improve your experience. We may also use cookies, web beacons, and other similar technologies when you visit our Site. For more information on our use of cookies and web beacons, please refer to our [Cookies Policy](https://www.coursera.org/about/cookies).
     
 2. **Personal Data provided directly by you or via third parties.** We collect Personal Data that you provide to us when you register for an account, update or change information for your account, purchase products or Services, complete a survey, sign-up for email updates, participate in our public forums, send us email messages, and/or participate in Content Offerings or other Services on our Site. We may use the Personal Data that you provide to respond to your questions, provide you the specific Content Offering and/or Services you select, send you updates about Content Offerings or other Coursera events, and send you email messages about Site maintenance or updates.
 
 If you participate in a Content Offering, we may collect certain user-generated content, such as assignments you submit, peer-graded assignments, and peer grading feedback. We also collect course data, such as responses to in-video quizzes, standalone quizzes, exams, and surveys. You should not include any Personal Data or other information of a personal or sensitive nature, whether relating to you or another person, on assignments, exams, or surveys, except for information required to participate in or submit such assignments, exams, or surveys.
 
 * Identity Verification. Coursera may offer you the ability to verify your identity for select Services. In order to enroll for these Services, you may be required to provide us or our third-party identity verification vendor with Personal Data such as your name, address, date of birth, a headshot taken using a webcam, and a photo identification document. Additionally, if you apply for financial aid in connection with these Services, you may be required to provide information regarding your income.
-* Communications with Coursera. We may receive Personal Data when you send us an email message or otherwise contact us.
+* Communications with Coursera. We may receive and record Personal Data when you send us an email message or otherwise contact us, including through the use of an in-platform messaging/chat feature.
 * Third Party Sites. We may receive Personal Data when you access or log-in to a third party site, e.g., Facebook, from our Sites. This may include the text and/or images of your Personal Data available from the third party site.
 * Surveys. We may receive Personal Data when you provide information in response to a survey operated by us or a Content Provider.
 * Partner sites. Partner sites providing Content Offering-related tools and services to Coursera users may collect nonfinancial individual-level user data regarding the individual’s use of that partner site while the partner sites provide those services to Coursera. The partner sites may share that data with Coursera for the purpose of improving our Services, the partner site’s services, and the individual’s education experience. This data includes information such as the amount of time spent on the partner site and pages viewed.
 * Third Party Payment Processing. Coursera provides you with the ability to pay for Content Offerings and other Services using a credit card or other methods through a third party payment processing service provider. Please note that our service provider – not Coursera – collects and processes your financial information.
 
-How We Use the Information
---------------------------
+How We Use Personal Data
+------------------------
 
-Coursera collects and uses Personal Data for the purposes described in this section. Where Coursera may disclose Personal Data to third parties in the context of these purposes, such sharing is explained.
+Coursera collects and uses Personal Data for the purposes described in this section. Coursera may share such Personal Data for these purposes with third parties, such as service providers, university and industry partners, and other commercial partners.
 
 External Links
 --------------
 
 For your convenience we may provide links to sites operated by organizations other than Coursera ("Third Party Sites") that we believe may be of interest to you. We do not disclose your Personal Data to these Third Party Sites unless we have a lawful basis on which to do so. We do not endorse and are not responsible for the privacy practices of these Third Party Sites. If you choose to click on a link to one of these Third Party Sites, you should review the privacy policy posted on the other site to understand how that Third Party Site collects and uses your Personal Data.
 
-Retention of Personally Identifiable Information
-------------------------------------------------
+Retention of Personal Data
+--------------------------
 
 We keep your Personal Data for no longer than necessary for the purposes for which the Personal Data is collected and processed. The length of time we retain Personal Data for depends on the purposes for which we collect and use it and/or as required to comply with applicable laws and to establish, exercise, or defend our legal rights.
 
-Confidentiality & Security of Personally Identifiable Information
------------------------------------------------------------------
+Confidentiality & Security of Personal Data
+-------------------------------------------
 
 We will use industry standard physical, technical, and administrative security measures to keep your Personal Data confidential and secure, and will not share it with third parties, except as otherwise provided in this Privacy Notice, or unless such disclosure is necessary in special cases, such as a physical threat to you or others, as permitted by applicable law. Because the Internet is not a 100% secure environment, we cannot guarantee the security of Personal Data, and there is some risk that an unauthorized third party may find a way to circumvent our security systems or that transmission of your information over the Internet will be intercepted. It is your responsibility to protect the security of your login information. Please note that e-mail communications are typically not encrypted and should not be considered secure.
 
 Your Rights
 -----------
 
-You have certain rights in relation to your Personal Data. You can access your Personal Data and confirm that it remains correct and up-to-date, choose whether or not you wish to receive material from us or some of our partners, and request that we delete or provide you with a copy of your personal data by logging into the Site, selecting ‘Settings’ from the dropdown in the top right, and scrolling down to find the appropriate option. The ability to delete an account may be disabled for some users, particularly those who are enrolled in for-credit offerings such as degrees, MasterTrack certificate programs, and other similar offerings.
+You have certain rights in relation to your Personal Data. You can access your Personal Data and confirm that it remains correct and up-to-date, choose whether or not you wish to receive material from us or some of our partners, and request that we delete or provide you with a copy of your Personal Data by logging into the Site, selecting ‘Settings’ from the dropdown in the top right, and scrolling down to find the appropriate option. The ability to delete an account may be disabled for some users, particularly those who are enrolled in for-credit offerings such as degrees, MasterTrack certificate programs, and other similar offerings.
 
 If you would like further information in relation to your rights or would like to exercise any of them, you may also contact us via [privacy@coursera.org](mailto:privacy@coursera.org). If you reside or are located in the EEA, United Kingdom, Switzerland, or other region that offers similar protections, you have the right to request that we:
 
