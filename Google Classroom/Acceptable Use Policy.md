@@ -12,9 +12,9 @@ Make sure that you check back from time to time, as these policies may change. P
 Report abuse
 ------------
 
-If you believe that someone is violating the policies found below, [report abuse](https://support.google.com/edu/classroom/answer/7299017). If you’re a Workspace user, contact your organisation administrator to report a violation of these policies.
+If you believe that someone is violating the policies found below, [report abuse](https://support.google.com/edu/classroom/answer/7299017). If you're a Workspace user, contact your organisation administrator to report a violation of these policies.
 
-To report copyright infringement or other legal issues, please use this [tool](https://support.google.com/legal/troubleshooter/1114905) which will guide you through the process of reporting content that you believe warrants removal from Google's services based on applicable laws.
+To report copyright infringement or other allegedly illegal content, please use this [tool](https://support.google.com/legal/troubleshooter/1114905), which will guide you through the process of reporting content that you believe warrants removal from Google's services based on applicable laws.
 
 Programme policies
 ------------------
