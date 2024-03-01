@@ -24,12 +24,12 @@
         
         ![](https://images.ctfassets.net/w6r2i5d8q73s/4NDcHKcAiwMXJ0h3Uxv9K1/eec966d255c916a761dc26a12ae998ba/meeting-3.svg)
         
-        Automatic styling with Brand Center](https://help.miro.com/hc/en-us/articles/13061918433426-Brand-center-BETA-)
+        React to Talktrack recordings](https://miro.com/blog/what-we-launched-february-2024/#:~:text=Complete%20the%20async%20collaboration%20loop%20with%20Talktrack%20reactions%C2%A0%C2%A0)
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
         ![](https://images.ctfassets.net/w6r2i5d8q73s/2ZEbdBPtunIHWmy8VLYi6N/a227e774c270ac802ec4670e2d3f669b/pose_7_2_1.svg)
         
-        Access presenter notes easily](https://miro.com/blog/what-we-launched-january-2024/#h-workshops-amp-async-collaboration:~:text=Prepare%20private%20notes%20for%20your%20interactive%20presentations%C2%A0)
+        Instantly style diagramming shapes](https://miro.com/blog/what-we-launched-february-2024/#:~:text=around%20the%20world.-,Apply%20brand%20styles%20to%20diagramming%20shapes,-We%20recently%20launched)
     
     [See all updates](https://miro.com/whats-new/)
     
