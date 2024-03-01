@@ -321,6 +321,12 @@ _**If you are in United States, find out more…**_
 
 In the US, data obtained through the short code program will not be shared with any third-parties for their marketing reasons/purposes, except for our affiliates.
 
+**_If you are in Georgia..._**
+
+Please note that the processing of personal data is conducted in accordance with the Law of Personal Data Protection of Georgia.
+
+We will always obtain your consent to the processing of personal data for specific purposes in advance, if required by the Law on Personal Data Protection. You have the right to withdraw your consent to data processing for free at any time. You have the right to ask us for information as to whether your data is being processed by us, what information is being processed, for what purpose and on what grounds, to ask us to change, or update the information, delete and restrict the processing of the information. This requirement will be satisfied by us free of charge provided this does not contradict the law or does not require disproportionate efforts.
+
 Who should you contact with questions?
 --------------------------------------
 
