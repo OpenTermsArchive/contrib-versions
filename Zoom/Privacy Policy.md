@@ -136,7 +136,7 @@ Upper Pembroke Street 28-32
 Dublin  
 DO2 EK84  
 Republic of lreland  
-email: [zoom@LionheartSquared.eu](mailto:zoom@lionheartsquared.eu)
+email: [zoom@LionheartSquared.eu](mailto:zoom@LionheartSquared.eu)
 
 Lionheart Squared Limited  
 Attn: Data Privacy  
@@ -146,7 +146,7 @@ Fordingbridge
 Hampshire  
 SP6 1QX  
 United Kingdom  
-Contact: [zoom@LionheartSquared.co.uk](mailto:zoom@lionheartsquared.co.uk)
+Contact: [zoom@LionheartSquared.co.uk](mailto:zoom@LionheartSquared.co.uk)
 
 You can contact our Data Protection Officer by sending an email to [privacy@zoom.us](mailto:privacy@zoom.us).
 
