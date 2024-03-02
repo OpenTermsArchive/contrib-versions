@@ -24,7 +24,7 @@ The following is the binding and enforceable Terms of Service.
 
 Kraken.com Terms of Service
 
-Last Updated: 23 February 2023
+Last Updated: 23 February 2024
 
 Please read these Terms of Service (including all Annexes, “Terms”) carefully, as they are binding and govern your use of our services, and our websites (including kraken.com, and pro.kraken.com), and mobile applications through which you access our services (“Platforms”), along with any applicable third-party terms you may have agreed to as part of using or receiving our mobile applications (such as terms for the Apple App Store or Google Play, if applicable). If these Terms conflict with any such third-party terms, these Terms will control to the extent of the conflict. By accessing or using our services or Platforms, or by creating an account, you agree to these Terms. 
 
