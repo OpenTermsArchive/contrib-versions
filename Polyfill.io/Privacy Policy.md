@@ -71,7 +71,7 @@ Your rights
 
 We do not retain personal data relating to the Polyfill.io service.
 
-If you have any questions about the personal data processed as a result of your use of this service, please contact [admin@polyfill.io](mailto:admin@polyfill.io).
+If you have any questions about the personal data processed as a result of your use of this service, please contact [\[email protected\]](https://polyfill.io/cdn-cgi/l/email-protection).
 
 You have the right to lodge a complaint with a supervisory authority. In the UK, this is the Information Commissioner’s Office (ICO).
 
@@ -82,7 +82,7 @@ Polyfill.io is not intended for children under 16 years of age. We do not intent
 
 Polyfill.io contains links to third party websites which are not subject to this privacy policy. Websites which use the polyfills are not subject to this privacy policy. We are not responsible for third party websites’ content, use of personal information, or security practices.
 
-If you have a query in regards to the processing of your personal information, please contact our Data Protection Officer directly at [admin@polyfill.io](mailto:admin@polyfill.io).
+If you have a query in regards to the processing of your personal information, please contact our Data Protection Officer directly at [\[email protected\]](https://polyfill.io/cdn-cgi/l/email-protection).
 
 Changes to this privacy policy
 ------------------------------
