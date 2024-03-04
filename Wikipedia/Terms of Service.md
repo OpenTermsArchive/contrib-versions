@@ -122,7 +122,7 @@ Other languages:
 * [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Условия использования (99% translated)")
 * [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sr "Услови коришћења (21% translated)")
 * [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tg "Қоидаҳои истифода (3% translated)")
-* [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Політика:Умови використання (94% translated)")
+* [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Політика:Умови використання (95% translated)")
 * [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hy "Օգտագործման պայմաններ (15% translated)")
 * [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "תנאים פון באניץ (3% translated)")
 * [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (42% translated)")
