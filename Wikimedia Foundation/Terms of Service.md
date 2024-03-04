@@ -156,7 +156,7 @@ Other languages:
 * [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "政策：使用条款 (100% translated)")
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "方針:利用規約 (100% translated)")
 * [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/syl "ꠘꠤꠔꠤ ꠪ ꠛꠦꠛꠀꠞ ꠇꠞꠣꠞ ꠡꠞ꠆ꠔꠣꠁꠘ (1% translated)")
-* [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "이용 약관 (51% translated)")
+* [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "정책:이용 약관 (55% translated)")
 
 **Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Terms_of_Use&filter=%21translated&action=page&language=).**
 
