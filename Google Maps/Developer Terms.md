@@ -187,6 +187,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open Data Austria [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de)
             
+        * Open Data Österreich [https://www.data.gv.at/katalog/en/dataset/db052ddd-8e62-4eca-a22d-c7c09e1507ee#additional-info](https://www.data.gv.at/katalog/en/dataset/db052ddd-8e62-4eca-a22d-c7c09e1507ee#additional-info)
+            
     5. **Argentina**
         * Instituto Geográfico Nacional (AR): [https://www.ign.gob.ar/](https://www.ign.gob.ar/)
             
@@ -930,6 +932,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Entreprendre Service public: [https://github.com/etalab/licence-ouverte/blob/master/LO.md](https://github.com/etalab/licence-ouverte/blob/master/LO.md)
             
+        * Geo Services - République française: [https://www.etalab.gouv.fr/licence-ouverte-open-licence/](https://www.etalab.gouv.fr/licence-ouverte-open-licence/)
+            
     19. **Gambia**
         * Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
             
@@ -1116,6 +1120,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * LondonAir [https://www.londonair.org.uk/LondonAir/API/](https://www.londonair.org.uk/LondonAir/API/), [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/)
             
         * Glasgow City Council (GB): [https://glasgow.gov.uk/](https://glasgow.gov.uk/)
+            
+        * Transport for West Midlands Link to their license: [https://api-portal.tfwm.org.uk/signup](https://api-portal.tfwm.org.uk/signup)
             
     22. **Greece**
         * EuroGeographics; Copyright Geomatics Ltd.
