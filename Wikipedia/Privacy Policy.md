@@ -53,7 +53,7 @@ Other languages:
 * [italiano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/it "Informativa sulla privacy (100% translated)")
 * [latviešu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/lv "Privātuma politika (52% translated)")
 * [lietuvių](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/lt "Privatumo politika (8% translated)")
-* [magyar](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hu "Adatvédelmi nyilatkozat (86% translated)")
+* [magyar](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hu "Adatvédelmi nyilatkozat (88% translated)")
 * [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nb "Personvernpolitikk (48% translated)")
 * [occitan](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/oc "Policy:Privacy policy/oc (5% translated)")
 * [oʻzbekcha / ўзбекча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/uz "Maxfiylik siyosati (25% translated)")
