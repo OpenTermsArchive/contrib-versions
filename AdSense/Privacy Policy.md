@@ -183,7 +183,7 @@ Decide what types of activity you’d like saved in your account. For example, i
 
 ### Ad settings
 
-Manage your preferences about the ads shown to you on Google and on sites and apps that [partner with Google](https://policies.google.com/privacy?hl=en-GB#footnote-partner) to show ads. You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services.
+Manage your preferences about the ads shown to you on Google and on sites and apps that [partner with Google](https://policies.google.com/technologies/partner-sites?hl=en-GB) to show ads. You can modify your interests, choose whether your personal information is used to make ads more relevant to you, and turn on or off certain advertising services.
 
 [Go to My Ad Centre](https://myadcenter.google.com/?hl=en_GB)
 
