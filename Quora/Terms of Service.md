@@ -1,6 +1,6 @@
 Terms of Service
 
-Effective date: August 25, 2023
+Effective date: March 4, 2024
 
 Welcome to Quora! Quora is a platform to gain and share knowledge, empowering people to learn from others and better understand the world through our websites and applications (“Quora” or the “Quora Platform”).
 
