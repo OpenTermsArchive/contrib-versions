@@ -1,10 +1,3 @@
-We're updating our Terms. These updates go into effect on March 6, 2024. By continuing to use our Products after this date, you agree to the updated Terms.
-
-This update applies to you if you use Meta Products for business purposes. If you have a concern related to our conditions for accessing certain Meta Products, you have a new option to submit a dispute.
-
-[Read the new terms](https://www.facebook.com/legal/commercial_terms_preview).
-
-  
   
 
 **Meta Commercial Terms ("Commercial Terms")**
@@ -62,6 +55,9 @@ As more fully described below, if you reside in the United States or your busine
         
           
         
+    * European Disputes: Nothing in this Section 5 shall limit or restrict any rights and remedies you have under the DMA. Without prejudice to any other rights and remedies you may have under these Commercial Terms and applicable laws, if you are a “business user” of our online social networking core platform service(s), please see the [alternative dispute settlement mechanism](https://www.facebook.com/help/contact/905739804586436) (“ADSM”) offered subject to Article 6(12) of the DMA. “Business user” is defined under Article 2 paragraph (21) of the Regulation (EU) 2022/1925 (the “Digital Markets Act” or “DMA”).  
+          
+        
     * Severability: If any provision of this Section 5 is found unenforceable, that provision will be severed and the balance of this Section 5 will remain in full force and effect.
     
   
@@ -106,4 +102,4 @@ Note: For purposes of these Commercial Terms, references in existing terms or ag
 
   
 
-Effective Date: January 4, 2022
+Effective Date: March 6, 2024
