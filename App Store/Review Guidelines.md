@@ -1,7 +1,7 @@
 App Review Guidelines
 =====================
 
-Apps are changing the world, enriching people’s lives, and enabling developers like you to innovate like never before. As a result, the App Store has grown into an exciting and vibrant ecosystem for millions of developers and more than a billion users. Whether you are a first time developer or a large team of experienced programmers, we are excited that you are creating apps for our platforms, and want to help you understand our guidelines so you can be confident your app will get through the review process quickly.
+Apps are changing the world, enriching people’s lives, and enabling developers like you to innovate like never before. As a result, the App Store has grown into an exciting and vibrant ecosystem for millions of developers and more than a billion users. Whether you are a first-time developer or a large team of experienced programmers, we are excited that you are creating apps for our platforms, and want to help you understand our guidelines so you can be confident your app will get through the review process quickly.
 
  ![ASR & NR](/app-store/review/images/key-icon.svg)Show Notarization Review Guidelines Only
 
@@ -45,7 +45,7 @@ Make sure you:
 * [UIKit](https://developer.apple.com/documentation/uikit/)
 * [AppKit](https://developer.apple.com/documentation/appkit/)
 * [WatchKit](https://developer.apple.com/documentation/watchkit/)
-* [App Extensions](https://developer.apple.com/app-extensions/)
+* [App extensions](https://developer.apple.com/app-extensions/)
 * [iOS Data Storage Guidelines](https://developer.apple.com/icloud/documentation/data-storage/)
 * [Apple File System](https://developer.apple.com/documentation/foundation/file_system/about_apple_file_system/)
 * [App Store Connect Help](https://developer.apple.com/help/app-store-connect/)
@@ -295,7 +295,7 @@ Apple customers place a high value on products that are simple, refined, innovat
     * **(b)** Also avoid piling on to a category that is already saturated; the App Store has enough fart, burp, flashlight, fortune telling, dating, drinking games, and Kama Sutra apps, etc. already. We will reject these apps unless they provide a unique, high-quality experience. Spamming the store may lead to your removal from the Apple Developer Program.
 * **4.4 Extensions**![ASR & NR](/app-store/review/images/key-icon.svg)
     
-    Apps hosting or containing extensions must comply with the [App Extension Programming Guide](https://developer.apple.com/library/archive/documentation/General/Conceptual/ExtensibilityPG/index.html#apple_ref/doc/uid/TP40014214/), the [Safari App Extensions documentation](https://developer.apple.com/documentation/safariservices/safari_app_extensions/), or the [Safari Web Extensions documentation](https://developer.apple.com/documentation/safariservices/safari_web_extensions) and should include some functionality, such as help screens and settings interfaces where possible. You should clearly and accurately disclose what extensions are made available in the app’s marketing text, and the extensions may not include marketing, advertising, or in-app purchases.
+    Apps hosting or containing extensions must comply with the [App Extension Programming Guide](https://developer.apple.com/library/archive/documentation/General/Conceptual/ExtensibilityPG/index.html#apple_ref/doc/uid/TP40014214/), the [Safari app extensions documentation](https://developer.apple.com/documentation/safariservices/safari_app_extensions/), or the [Safari web extensions documentation](https://developer.apple.com/documentation/safariservices/safari_web_extensions) and should include some functionality, such as help screens and settings interfaces where possible. You should clearly and accurately disclose what extensions are made available in the app’s marketing text, and the extensions may not include marketing, advertising, or in-app purchases.
     
     * **4.4.1**![ASR & NR](/app-store/review/images/key-icon.svg) Keyboard extensions have some additional rules.  
         
@@ -341,7 +341,7 @@ Apple customers place a high value on products that are simple, refined, innovat
     * **4.7.5** Your app must share the age rating of the highest age-rated content available in your app.
 * **4.8 Login Services**![ASR & NR](/app-store/review/images/key-icon.svg)
     
-    Apps that use a third-party or social login service (such as Facebook Login, Google Sign-In, Sign In with Twitter, Sign In with LinkedIn, Login with Amazon, or WeChat Login) to set up or authenticate the user’s primary account with the app must also offer as an equivalent option another login service with the following features:
+    Apps that use a third-party or social login service (such as Facebook Login, Google Sign-In, Sign in with Twitter, Sign In with LinkedIn, Login with Amazon, or WeChat Login) to set up or authenticate the user’s primary account with the app must also offer as an equivalent option another login service with the following features:
     
     * the login service limits data collection to the user’s name and email address;
     * the login service allows users to keep their email address private as part of setting up their account; and
