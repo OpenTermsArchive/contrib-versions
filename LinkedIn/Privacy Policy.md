@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-[_Effective August 11, 2020_](https://www.linkedin.com/help/linkedin/answer/3309/updates-to-user-agreement-and-privacy-policy)
+_[Effective March 6, 2024](https://www.linkedin.com/help/linkedin/answer/3309/updates-to-user-agreement-and-privacy-policy)_
 
 Our Privacy Policy has been updated.
 
@@ -67,7 +67,7 @@ Table of Contents
     
     #### Registration
     
-    To create an account you need to provide data including your name, email address and/or mobile number, and a password. If you register for a premium Service, you will need to provide payment (e.g., credit card) and billing information.
+    To create an account you need to provide data including your name, email address and/or mobile number, general location (e.g., city), and a password. If you register for a premium Service, you will need to provide payment (e.g., credit card) and billing information.
     
     You create your LinkedIn profile (a complete profile helps you get the most from our Services).
     
