@@ -11,7 +11,7 @@ Other languages:
 * [Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nan "Ún-su tsìng-tshik (1% translated)")
 * [Canadian English](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/en-ca "Privacy policy (62% translated)")
 * [Cebuano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ceb "Palisiya sa pagkapribado (8% translated)")
-* [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/cy "Polisi preifatrwydd (31% translated)")
+* [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/cy "Polisi preifatrwydd (1% translated)")
 * [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de "Policy:Datenschutzrichtlinie (100% translated)")
 * [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de-formal "Datenschutzerklärung (46% translated)")
 * English
@@ -178,7 +178,7 @@ Introduction
 
 ### Welcome!
 
-The Wikimedia Foundation is the nonprofit organization that operates collaborative, free knowledge websites, like [Wikipedia](https://en.wikipedia.org/wiki/Main_Page "wikipedia:Main Page"), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page "commons:Main Page"), and [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page "wiktionary:Wiktionary:Main Page").
+The Wikimedia Foundation is the nonprofit organization that operates collaborative, free knowledge websites, like [Wikipedia](https://en.wikipedia.org/wiki/en:Main_Page "w:en:Main Page"), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page "c:Main Page"), and [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page "wiktionary:Wiktionary:Main Page").
 
 This Policy explains how we collect, use, and share your Personal Information.
 
@@ -266,7 +266,7 @@ If you want to create a [standard account](https://foundation.wikimedia.org/wiki
 
 | More on Usernames |
 | --- |
-| Your username will be publicly visible, so please be careful about revealing your real name or other Personal Information in your username. Your password is only used to verify that the account is yours. Your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") is also automatically submitted to us, and we record it temporarily. This is to protect Wikimedia users and project content; in the event of abuse, IP addresses may be associated with usernames as part of an investigation. No other Personal Information is required: no name, no email address, no date of birth, and no credit card information.<br><br>Once created, user accounts cannot be removed entirely (although you can usually hide the information on your user page if you choose to). This is because your public contributions must be associated with their author (you!). In some circumstances, the Wikimedia communities [can assist](https://meta.wikimedia.org/wiki/Special:MyLanguage/Right_to_vanish "meta:Special:MyLanguage/Right to vanish") users with removing additional information related to their account from the projects. |
+| Your username will be publicly visible, so please be careful about revealing your real name or other Personal Information in your username. Your password is only used to verify that the account is yours. Your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") is also automatically submitted to us, and we record it temporarily. This is to protect Wikimedia users and project content; in the event of abuse, IP addresses may be associated with usernames as part of an investigation. No other Personal Information is required: no name, no email address, no date of birth, and no credit card information.<br><br>Once created, user accounts cannot be removed entirely (although you can usually hide the information on your user page if you choose to). This is because your public contributions must be associated with their author (you!). In some circumstances, the Wikimedia communities [can assist](https://meta.wikimedia.org/wiki/Special:MyLanguage/Right_to_vanish "m:Special:MyLanguage/Right to vanish") users with removing additional information related to their account from the projects. |
 
 To gain a better understanding of the demographics of our users, to localize our services and to learn how we can improve our services, we may ask you for more demographic information, such as gender or age, about yourself. We will tell you if such information is intended to be public or private, so that you can make an informed decision about whether you want to provide us with that information. Providing such information is always completely optional. If you don't want to, you don't have to—it's as simple as that.
 
@@ -563,4 +563,4 @@ Privacy-related pages
 
 ![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=297169](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=297169)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=331525](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=331525)"
