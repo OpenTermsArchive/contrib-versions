@@ -34,7 +34,7 @@ General
 * [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
 * [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Policy:Terms_of_Use "Recent changes in pages linked from this page [k]")
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=321115 "Permanent link to this revision of this page")
+* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=331251 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 * [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
 * [Download QR code](https://foundation.wikimedia.org/w/index.php?title=Special:QrCode&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
@@ -49,7 +49,7 @@ From Wikimedia Foundation Governance Wiki
 
 (Redirected from [Terms of Use](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use&redirect=no "Terms of Use"))
 
-[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate")
+[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate"); This page contains [changes](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=321115&diff=331251) which are not marked for translation.
 
 Other languages:
 
@@ -362,7 +362,7 @@ The community has the primary role in creating and enforcing policies applying t
 
 It is possible to notify us of illegal content, or content that violates our Terms of Use (including all policies and other documents incorporated by reference) for other reasons [by contacting us directly](https://wikimediafoundation.org/about/contact/ "foundationsite:about/contact/"). However, you can typically make a request directly to the Project's community: this may be more efficient, and is more consistent with our Projects' aim to empower the user community.
 
-Each Project will usually provide "Help" or "Contact" pages for further guidance, or specific tools for reporting issues. Alternatively – if in doubt – you can ask members of the community for help, by sending an email to info![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/15px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org or a more language-specific address from the [Volunteer Response Team page](https://meta.wikimedia.org/wiki/Special:MyLanguage/Volunteer_Response_Team "meta:Special:MyLanguage/Volunteer Response Team"). Please note that these mailboxes are monitored by users of the Projects, not the Foundation. As a result, they should not be threatened or issued with legal demands.
+Each Project will usually provide "Help" or "Contact" pages for further guidance, or specific tools for reporting issues. Alternatively – if in doubt – you can ask members of the community for help, by sending an email to info![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/15px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org or a more language-specific address from the [Volunteer Response Team page](https://meta.wikimedia.org/wiki/Special:MyLanguage/Volunteer_Response_Team "m:Special:MyLanguage/Volunteer Response Team"). Please note that these mailboxes are monitored by users of the Projects, not the Foundation. As a result, they should not be threatened or issued with legal demands.
 
 If you contact the Foundation with a problem, we will typically explore whether and how existing community-led mechanisms can investigate and, where appropriate, resolve it.
 
@@ -381,7 +381,7 @@ In the interests of our users and the Projects, in the extreme circumstance that
 
 The Wikimedia community and its members may also take action when so allowed by the community or Foundation policies applicable to the specific Project edition, including but not limited to warning, investigating, blocking, or banning users who violate those policies. You agree to comply with the final decisions of dispute resolution bodies that are established by the community for the specific Project editions (such as arbitration committees); these decisions may include sanctions as set out by the policy of the specific Project edition.
 
-Especially problematic users who have had accounts or access blocked on multiple Project editions may be subject to a ban from all of the Project editions, in accordance with the [Global Ban Policy](https://meta.wikimedia.org/wiki/Special:MyLanguage/Global_bans "meta:Special:MyLanguage/Global bans"). In contrast to Board resolutions or these Terms of Use, policies established by the community, which may cover a single Project edition or multiple Projects editions (like the Global Ban Policy), may be modified by the relevant community according to its own procedures.
+Especially problematic users who have had accounts or access blocked on multiple Project editions may be subject to a ban from all of the Project editions, in accordance with the [Global Ban Policy](https://meta.wikimedia.org/wiki/Special:MyLanguage/Global_bans "m:Special:MyLanguage/Global bans"). In contrast to Board resolutions or these Terms of Use, policies established by the community, which may cover a single Project edition or multiple Projects editions (like the Global Ban Policy), may be modified by the relevant community according to its own procedures.
 
 The blocking of an account or access or the banning of a user under this provision shall be in accordance with Section 13 of these Terms of Use.
 
@@ -397,7 +397,7 @@ The Wikimedia Foundation Board of Trustees [releases official policies](https://
 12\. API Terms
 --------------
 
-We make available a set of APIs, which include documentation and associated tools, to enable users to build products that promote free knowledge. By using our APIs, you agree to abide by all applicable policies governing the use of the APIs, which include but are not limited to the [User-Agent Policy](https://meta.wikimedia.org/wiki/Special:MyLanguage/User-Agent_policy "meta:Special:MyLanguage/User-Agent policy"), the [Robot Policy](https://wikitech.wikimedia.org/wiki/Robot_policy "wikitech:Robot policy"), and the [API:Etiquette](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Etiquette "mw:Special:MyLanguage/API:Etiquette") (collectively, "API Documentation"), which are incorporated into these Terms of Use by reference.
+We make available a set of APIs, which include documentation and associated tools, to enable users to build products that promote free knowledge. By using our APIs, you agree to abide by all applicable policies governing the use of the APIs, which include but are not limited to the [User-Agent Policy](https://meta.wikimedia.org/wiki/Special:MyLanguage/User-Agent_policy "m:Special:MyLanguage/User-Agent policy"), the [Robot Policy](https://wikitech.wikimedia.org/wiki/Robot_policy "wikitech:Robot policy"), and the [API:Etiquette](https://www.mediawiki.org/wiki/Special:MyLanguage/API:Etiquette "mw:Special:MyLanguage/API:Etiquette") (collectively, "API Documentation"), which are incorporated into these Terms of Use by reference.
 
 13\. Termination
 ----------------
@@ -484,7 +484,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=321115](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=321115)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=331251](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=331251)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
