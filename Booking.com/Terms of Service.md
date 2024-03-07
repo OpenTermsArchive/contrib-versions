@@ -57,7 +57,7 @@ A. All Travel Experiences
 * [A17. Measures against unacceptable behaviour](#sep2023_terms_all_behaviour_subheading)
 * [A18. Limitation of liability](#sep2023_terms_all_liability_subheading)
 * [A19. Applicable law and forum](#sep2023_terms_all_applicable_subheading)
-* [A20. Linked travel arrangements](#sep2023_terms_all_linked_subheading)
+* [A20. Linked travel arrangements](#terms_all_linked_subheading)
 * [A21. Modification clause](#sep2023_terms_all_modification_subheading)
 
 A1. Definitions
@@ -1189,7 +1189,7 @@ For reservations made between 14 February 2022 and 30 October 2023 inclusive
     * [A17. Measures against unacceptable behaviour](#nov2021_terms_all_behaviour_subheading)
     * [A18. Limitation of liability](#nov2021_terms_all_liability_subheading)
     * [A19. Applicable law and forum](#nov2021_terms_all_applicable_subheading)
-    * [A20. Linked travel arrangements](#nov2021_terms_all_linked_subheading)
+    * [A20. Linked travel arrangements](#terms_all_linked_subheading)
     
     A1. Definitions
     
