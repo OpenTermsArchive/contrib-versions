@@ -178,7 +178,7 @@ Introduction
 
 ### Welcome!
 
-The Wikimedia Foundation is the nonprofit organization that operates collaborative, free knowledge websites, like [Wikipedia](https://en.wikipedia.org/wiki/en:Main_Page "w:en:Main Page"), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page "c:Main Page"), and [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page "wiktionary:Wiktionary:Main Page").
+The Wikimedia Foundation is the nonprofit organization that operates collaborative, free knowledge websites, like [Wikipedia](https://en.wikipedia.org/wiki/en:Main_Page "w:en:Main Page"), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page "c:Main Page"), and [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page "wikt:Wiktionary:Main Page").
 
 This Policy explains how we collect, use, and share your Personal Information.
 
@@ -191,11 +191,11 @@ The Wikimedia movement is founded on a simple, but powerful principle: we can do
 
 We believe that information-gathering and use should go hand-in-hand with transparency. This Privacy Policy explains how the Wikimedia Foundation, the non-profit organization that hosts the Wikimedia Sites, like Wikipedia, collects, uses, and shares information we receive from you through your use of the Wikimedia Sites. It is essential to understand that, by using any of the Wikimedia Sites, you consent to the collection, transfer, processing, storage, disclosure, and use of your information as described in this Privacy Policy. That means that reading this Policy carefully is important.
 
-We believe that you shouldn't have to provide nonpublic Personal Information to participate in the free knowledge movement. You do not have to provide things like your real name, address, or date of birth to sign up for a standard account or contribute content to the Wikimedia Sites.
+We believe that you should not have to provide nonpublic Personal Information to participate in the free knowledge movement. You do not have to provide things like your real name, address, or date of birth to sign up for a standard account or contribute content to the Wikimedia Sites.
 
 We do not sell or rent your Personal Information, nor do we give it to others to sell you anything. We use it to figure out how to make the Wikimedia Sites more engaging and accessible, to see which ideas work, and to make learning and contributing more fun. Put simply: we use this information to make the Wikimedia Sites better for you.
 
-After all, it's people like you, the champions of free knowledge, who make it possible for the Wikimedia Sites to not only exist, but also grow and thrive.
+After all, it is people like you, the champions of free knowledge, who make it possible for the Wikimedia Sites to not only exist, but also grow and thrive.
 
 #### Definitions
 
@@ -258,17 +258,17 @@ If you do create an account, you do not need to give us your name or email addre
 
 If you do not create an account, your contributions will be publicly attributed to your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms").
 
-Want to create an account? Great! Don't want to create an account? No problem!
+Want to create an account? Great! Do not want to create an account? No problem!
 
 You are not required to create an account to read or contribute to a Wikimedia Site, except under [rare circumstances](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#needaccount "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions"). However, if you contribute without signing in, your contribution will be publicly attributed to the [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") associated with your device.
 
-If you want to create a [standard account](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#standardaccount "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions"), in most cases we require only a username and a password. However, if you choose not to provide an email address, we can't help you recover your password.
+If you want to create a [standard account](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#standardaccount "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions"), in most cases we require only a username and a password. However, if you choose not to provide an email address, we cannot help you recover your password.
 
 | More on Usernames |
 | --- |
 | Your username will be publicly visible, so please be careful about revealing your real name or other Personal Information in your username. Your password is only used to verify that the account is yours. Your [IP address](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Glossary_of_key_terms#ip-address "Special:MyLanguage/Policy:Privacy policy/Glossary of key terms") is also automatically submitted to us, and we record it temporarily. This is to protect Wikimedia users and project content; in the event of abuse, IP addresses may be associated with usernames as part of an investigation. No other Personal Information is required: no name, no email address, no date of birth, and no credit card information.<br><br>Once created, user accounts cannot be removed entirely (although you can usually hide the information on your user page if you choose to). This is because your public contributions must be associated with their author (you!). In some circumstances, the Wikimedia communities [can assist](https://meta.wikimedia.org/wiki/Special:MyLanguage/Right_to_vanish "m:Special:MyLanguage/Right to vanish") users with removing additional information related to their account from the projects. |
 
-To gain a better understanding of the demographics of our users, to localize our services and to learn how we can improve our services, we may ask you for more demographic information, such as gender or age, about yourself. We will tell you if such information is intended to be public or private, so that you can make an informed decision about whether you want to provide us with that information. Providing such information is always completely optional. If you don't want to, you don't have to—it's as simple as that.
+To gain a better understanding of the demographics of our users, to localize our services and to learn how we can improve our services, we may ask you for more demographic information, such as gender or age, about yourself. We will tell you if such information is intended to be public or private, so that you can make an informed decision about whether you want to provide us with that information. Providing such information is always completely optional. If you do not want to, you do not have to—it is as simple as that.
 
 #### Location Information
 
@@ -407,7 +407,7 @@ We, or particular users with certain administrative rights as described below, n
 
 Wikimedia Sites are collaborative, with users writing most of the policies and selecting from amongst themselves people to hold certain administrative rights. These rights may include access to limited amounts of otherwise nonpublic information about recent contributions and activity by other users. They use this access to help protect against vandalism and abuse, fight harassment of other users, and generally try to minimize disruptive behavior on the Wikimedia Sites. These various user-selected administrative groups have their own privacy and confidentiality guidelines, but all such groups are supposed to agree to follow our [Access to nonpublic personal data policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy "Special:MyLanguage/Policy:Access to nonpublic personal data policy"). These user-selected administrative groups are accountable to other users through checks and balances: users are selected through a community-driven process and overseen by their peers through a logged history of their actions. However, the legal names of these users are not known to the Wikimedia Foundation.
 
-We hope that this never comes up, but we may disclose your Personal Information if we believe that it's reasonably necessary to prevent imminent and serious bodily harm or death to a person, or to protect our organization, employees, contractors, users, or the public. We may also disclose your Personal Information if we reasonably believe it necessary to detect, prevent, or otherwise assess and address potential spam, malware, fraud, abuse, unlawful activity, and security or technical concerns. (Check out the list of examples in our [FAQ](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#investigateuseFAQ "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions") for more information.)
+We hope that this never comes up, but we may disclose your Personal Information if we believe that it is reasonably necessary to prevent imminent and serious bodily harm or death to a person, or to protect our organization, employees, contractors, users, or the public. We may also disclose your Personal Information if we reasonably believe it necessary to detect, prevent, or otherwise assess and address potential spam, malware, fraud, abuse, unlawful activity, and security or technical concerns. (Check out the list of examples in our [FAQ](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Frequently_asked_questions#investigateuseFAQ "Special:MyLanguage/Policy:Privacy policy/Frequently asked questions") for more information.)
 
 #### To Our Service Providers
 
@@ -444,7 +444,7 @@ Protection
 
 We use a variety of physical and technical measures, policies, and procedures to help protect your Personal Information from unauthorized access, use, or disclosure.
 
-We strive to protect your Personal Information from unauthorized access, use, or disclosure. We use a variety of physical and technical measures, policies, and procedures (such as access control procedures, network firewalls, and physical security) designed to protect our systems and your Personal Information. Unfortunately, there's no such thing as completely secure data transmission or storage, so we can't guarantee that our security will not be breached (by technical measures or through violation of our policies and procedures).
+We strive to protect your Personal Information from unauthorized access, use, or disclosure. We use a variety of physical and technical measures, policies, and procedures (such as access control procedures, network firewalls, and physical security) designed to protect our systems and your Personal Information. Unfortunately, there is no such thing as completely secure data transmission or storage, so we cannot guarantee that our security will not be breached (by technical measures or through violation of our policies and procedures).
 
 We will never ask for your password by email (but may send you a temporary password via email if you have requested a password reset). If you ever receive an email that requests your password, please let us know by sending it to privacy@wikimedia.org, so we can investigate the source of the email.
 
@@ -558,9 +558,9 @@ Privacy-related pages
     * [Confidentiality agreement](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Confidentiality_agreement_for_nonpublic_information "Special:MyLanguage/Legal:Confidentiality agreement for nonpublic information")
     * [How to sign](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Confidentiality_agreement_for_nonpublic_information/How_to_sign "Special:MyLanguage/Legal:Confidentiality agreement for nonpublic information/How to sign")
     * [Underage exemptions](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Access_to_nonpublic_personal_data_policy/Underage_exemptions "Special:MyLanguage/Policy:Access to nonpublic personal data policy/Underage exemptions")
-    * [Noticeboard](https://meta.wikimedia.org/wiki/Access_to_nonpublic_personal_data_policy/Noticeboard "meta:Access to nonpublic personal data policy/Noticeboard")
+    * [Noticeboard](https://meta.wikimedia.org/wiki/Access_to_nonpublic_personal_data_policy/Noticeboard "m:Access to nonpublic personal data policy/Noticeboard")
 * [Donor privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Donor_privacy_policy "Special:MyLanguage/Policy:Donor privacy policy")
 
 ![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=331525](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=331525)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=332110](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=332110)"
