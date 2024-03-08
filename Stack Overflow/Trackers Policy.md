@@ -117,7 +117,7 @@ These cookies are used to make advertising messages more relevant to you and may
 | en.wikipedia.org | NetworkProbeLimit, WMF-Last-Access | 3rd Party |
 | www.facebook.com |     | 3rd Party |
 
-You can withdraw any consent to the use of cookies or manage any other cookie preferences by visiting our [Cookie Settings](#) or clicking on the bottom of every page of our websites. You can then toggle on or off the buttons as appropriate. It may be necessary to refresh the page for the updated settings to be displayed.
+You can withdraw any consent to the use of cookies or manage any other cookie preferences by visiting our Cookie Settings or clicking on the bottom of every page of our websites. You can then toggle on or off the buttons as appropriate. It may be necessary to refresh the page for the updated settings to be displayed.
 
 Our use of cookies
 
