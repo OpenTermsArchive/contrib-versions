@@ -34,7 +34,7 @@ General
 * [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
 * [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Policy:Terms_of_Use "Recent changes in pages linked from this page [k]")
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=331251 "Permanent link to this revision of this page")
+* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=332084 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 * [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
 * [Download QR code](https://foundation.wikimedia.org/w/index.php?title=Special:QrCode&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
@@ -49,7 +49,7 @@ From Wikimedia Foundation Governance Wiki
 
 (Redirected from [Terms of Use](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use&redirect=no "Terms of Use"))
 
-[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate"); This page contains [changes](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=321115&diff=331251) which are not marked for translation.
+[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate"); This page contains [changes](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=321115&diff=332084) which are not marked for translation.
 
 Other languages:
 
@@ -342,7 +342,7 @@ You agree to the following licensing requirements:
 8\. DMCA Compliance
 -------------------
 
-The Wikimedia Foundation wants to ensure that the content that we host can be reused by other users without fear of liability and that it is not infringing the proprietary rights of others. In fairness to our users, as well as to other creators and copyright holders, our policy is to respond to notices of alleged infringement that comply with the formalities of the Digital Millennium Copyright Act (DMCA). Pursuant to the DMCA, we will terminate, in appropriate circumstances, users and account holders of our system and network who are repeat infringers on our Projects and services.
+The Wikimedia Foundation wants to ensure that the content that we host can be reused by other users without fear of liability and that it is not infringing the proprietary rights of others. In fairness to our users, as well as to other creators and copyright holders, our policy is to respond to notices of alleged infringement that comply with the formalities of the Digital Millennium Copyright Act ("DMCA"). Pursuant to the DMCA, we will terminate, in appropriate circumstances, users and account holders of our system and network who are repeat infringers on our Projects and services.
 
 However, we also recognize that not every takedown notice is valid or in good faith. In such cases, we strongly encourage users to file counter-notifications when they appropriately believe a DMCA takedown demand is invalid or improper. For more information on what to do if you think a DMCA notice has been improperly filed, you may wish to consult the [Lumen Database](https://lumendatabase.org/) website.
 
@@ -484,7 +484,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=331251](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=331251)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=332084](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=332084)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
