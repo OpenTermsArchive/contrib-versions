@@ -1,5 +1,3 @@
- [![](//www.gstatic.com/images/branding/product/2x/googleg_24dp.png) Read about Google's response to COVID-19](https://blog.google/inside-google/company-announcements/googles-response-covid-19/?utm_source=helpcenter&utm_medium=referral&utm_campaign=covid)
-
 Choose a Google product
 -----------------------
 
