@@ -298,12 +298,12 @@ We process information regarding your membership status and history as well as d
 * membership and profile information – membership commencement date, type and campaign, seat preference (aisle or window)
 * membership card information – membership number, date of issue of last membership card, expiry date
 * membership tier information – tier history, tier points total, number of tier flights, membership tier, flight ticket price accrual, tier date details
-* points information – total tier and award points earned during membership, total award points spent, total award points available, total expired award points
+* Avios and tier points information – total Avios and tier points collected during membership, total Avios spent, total Avios available, total expired Avios
 * transaction data – all transactions and purchases that involve your membership
-* event-specific information – date of event, event details, such as product name, points earned or points spent, service provider’s name, document number (ticket number or another document number)
+* event-specific information – date of event, event details, such as product name, Avios and tier points collected or spent, service provider’s name, document number (ticket number or another document number) 
 * information about whether the customer has a combined Finnair Plus credit card
 * interests and preferences – leisure interests, meal preference and other interests provided by the member
-* marketing data – dispatch dates of marketing communications and point statements, details of campaigns offered to customer and copies of marketing letters sent to customer
+* marketing data – dispatch dates of marketing communications and Avios and tier point statements, details of campaigns offered to customer and copies of marketing letters sent to customer 
 * airport services – information about airport services, such as the use of lounge services, check-in services and baggage handling services and other airport service details
 * Direct marketing-related consents and opt-outs (unsubscriptions).
 
@@ -325,7 +325,7 @@ Your profile also contains the data of your flights as Finnair Plus member or Fi
 
 **Providing our services** 
 
-As part of the Finnair Plus program, Finnair records your transactions. Transactions include points accrual and redemption. This enables us to calculate your account balance. We may send you information about your point balance and about program changes.
+As part of the Finnair Plus program, Finnair records your transactions. Transactions include Avios and tier points accrual and redemption. This enables us to calculate your account balance. We may send you information about your Avios and tier point balance and about program changes. 
 
 We also process the data that is provided by you in your Finnair Plus or Finnair account profile. In your profile you may choose to share your preferences and interests. These preferences may be used for pre-filling information when making a booking on the Finnair website or to provide more relevant service.
 
@@ -333,15 +333,15 @@ When you enrol in special events, we will process the participant list. The same
 
 **Enabling partner services** 
 
-The Finnair Plus partners are a notable part of the Finnair Plus program, as you can earn and spend Finnair Plus points when using partner services. For this reason, Finnair sends information about partner services and benefits to members together with information regarding the Finnair Plus program and Finnair services. More information about partners is available on the Finnair website.
+The Finnair Plus partners are a notable part of the Finnair Plus program, as you can collect Avios and tier points and spend Avios when using partner services. For this reason, Finnair sends information about partner services and benefits to members together with information regarding the Finnair Plus program and Finnair services. More information about partners is available on the Finnair website.
 
-To provide the partner service and to keep your account balance up-to-date, Finnair also exchanges data with the Finnair Plus partners. If you use points with a partner, Finnair will be informed. Similarly, if you accrue points with one of our partners, we will be informed so you are awarded those points correctly. In order to recognise our customers also through our partners’ services, we may send relevant member information. In case of queries or complaints related to partner services, we might correspond with the partners and share relevant member information.
+To provide the partner service and to keep your account balance up-to-date, Finnair also exchanges data with the Finnair Plus partners. If you use Avios with a partner, Finnair will be informed. Similarly, if you accrue Avios or tier points with one of our partners, we will be informed so you are awarded the Avios and tier points correctly. In order to recognise our customers also through our partners’ services, we may send relevant member information. In case of queries or complaints related to partner services, we might correspond with the partners and share relevant member information.
 
 **Communication and engagement**
 
 The data recorded is also used for targeted member communication distributed in the Finnair mobile application, the Finnair website and in our other channels.
 
-We may use the data recorded to communicate with you about your account and program features and benefits. For instance, these messages may include but are not limited to when your points are due to expire or if you are close to the next tier.
+We may use the data recorded to communicate with you about your account and program features and benefits. For instance, these messages may include but are not limited to when your Avios are due to expire or if you are close to the next tier.
 
 In order to provide you with the correct information about our member offers on third-party channels, we may send a list of member emails to the respective third parties. This ensures that the right offers are displayed when you are identified as a Finnair Plus member.
 
@@ -387,7 +387,7 @@ We automatically collect personal data when you use our services where you are i
 
 We may share your personal data with Finnair Group companies and other third parties for the following purposes:
 
-**For providing services related to your membership** **and developing these services**
+**For providing services related to your membership and developing these services**
 
 We share your personal data with, for example, other airlines, airport operators, program partners and other service providers directly involved in providing services related to your membership or the development activities of these services.
 
@@ -395,4 +395,4 @@ We share your personal data with, for example, other airlines, airport operators
 
 We may share your personal data with relevant third parties, if necessary, to detect and prevent crime, fraudulent activities or security issues, or for other legal reasons.
 
-Published 29.04.2021
+Published 09.03.2024
