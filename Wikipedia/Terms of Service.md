@@ -49,7 +49,7 @@ From Wikimedia Foundation Governance Wiki
 
 (Redirected from [Terms of Use](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use&redirect=no "Terms of Use"))
 
-[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate"); This page contains [changes](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=332084&diff=333792) which are not marked for translation.
+[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate")
 
 Other languages:
 
