@@ -3,7 +3,7 @@ Effective date: March 11, 2024
 Grammarly Customer Business Agreement
 -------------------------------------
 
-([Previous Version](https://www.grammarly.com/terms-2022))  
+([Previous Version](https://www.grammarly.com/terms/customer-business-agreement-2022))  
   
 _We have updated our online terms. If you are a Grammarly Business or Grammarly for Education customer that signed an Order before March 11, 2024, the version of the terms that were in effect at that time govern your organization’s use of Grammarly._  
   
@@ -238,7 +238,7 @@ Service-Specific Terms
 ----------------------
 
 **Last Updated**: March 11, 2024   
-([Previous Version](https://www.grammarly.com/terms-2022))  
+([Previous Version](https://www.grammarly.com/terms/customer-business-agreement-2022))  
   
 These Service-Specific Terms set forth additional terms and conditions that apply to your use of the Services listed below and are made a part of the Agreement governing your use of the Services.  Any terms not defined here have the meaning given to them in the Agreement governing your use of the Services. Grammarly may update these Service-Specific Terms from time to time, including to add other Service-Specific Terms for new Services made available by Grammarly, by posting an updated version. If an update materially changes any Service-Specific Terms for any Services already purchased by Customer, Grammarly will notify Customer in accordance with the Agreement governing your use of the Services.  
   
