@@ -52,7 +52,7 @@ Except as expressly authorised by the Guardian, you are not allowed to create a 
 
 [Our robots.txt](https://www.theguardian.com/robots.txt) notice does not, and shall not, constitute the Guardian’s permission or approval for the purposes of these terms and conditions. These terms and conditions shall prevail in all respects over our robots.txt notice.
 
-If you wish to use our content other than as permitted by these terms and conditions, or as otherwise set out in the [Guardian’s Open Licence Terms](http://syndication.theguardian.com/open-licence-terms/), please contact us at [licensing@theguardian.com](mailto:licensing@theguardian.com) or visit our [Licensing website](https://licensing.theguardian.com/)
+If you wish to use our content other than as permitted by these terms and conditions, or as otherwise set out in the [Guardian’s Open Licence Terms](https://www.theguardian.com/info/2022/nov/01/open-licence-terms), please contact us at [licensing@theguardian.com](mailto:licensing@theguardian.com) or visit our [Licensing website](https://licensing.theguardian.com/)
 
 If you operate a media monitoring service , then you are obliged to contact [NLA Media Access Ltd](http://www.nla.co.uk/) directly to discuss your licensing requirements.
 
