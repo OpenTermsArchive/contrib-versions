@@ -462,6 +462,8 @@ d) terminate this EULA and delete your Account.
 
 16.9. If you believe that we have suspended access or deleted your Account in error, please contact our customer support at [https://eu.wargaming.net/support/](https://eu.wargaming.net/support/).
 
+**17\. Applicable Law and Dispute Resolution**
+
 17.1. The law of the Republic of Cyprus shall apply, excluding the UN Convention on Contracts for the International Sale of Goods (CISG) and the conflict of laws rules. If you are a consumer habitually resident in the EU, you also enjoy protection of the mandatory provisions of the law of your country of residence. The non-exclusive jurisdiction of the court of Cyprus is agreed. This means that you may bring an action to enforce your consumer protection rights in connection with this EULA either in Cyprus or in your country of residence with the following exceptions:
 
 a) If you reside in Germany, German law shall apply. The jurisdiction of the courts of Germany is agreed. This means that you may bring an action to enforce your consumer protection rights in connection with this EULA in Germany.
