@@ -349,7 +349,6 @@ The open source software platform that runs everywhere from the smartphone, the 
     * [Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
     * [MLflow](https://ubuntu.com/ai/mlflow)
     * [Consulting](https://ubuntu.com/ai/consulting)
-    * [Roadshow](https://ubuntu.com/ai/roadshow)
 * [Robotics](https://ubuntu.com/robotics) [Robotics](#)
     -----------------------------------------------------
     
