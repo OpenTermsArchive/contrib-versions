@@ -101,18 +101,18 @@ We may combine information about you from third party sources (such as LinkedIn,
 
 * **3.1 Creator**
     
-    We process Personal Data about you as a Creator where:
+    **We process Personal Data about you as a Creator where:**
     
     * **You have consented;**
-    * **We need to** **f**ulfill our contractual responsibility;
-    * **We have a legitimate interest; and**
+    * **We need to** **f****ulfill our contractual responsibility;**
+    * ****We have a legitimate interes**t; and**
     * **We have a legal obligation.**
     
     3.1.1 **Consent**
     
     We rely on your consent to process the following data elements:
     
-    **(a)** Cookies and similar technology.
+    **(a)** **Cookies and similar technology.**
     
     * We or third party data and advertising platforms that we work with collect data from and advertising cookies, page tags, mobile identifiers and IP addresses. We use this data to infer users’ common identities across different services and multiple devices. We may do so, for instance, to tailor ads, personalize marketing, to enable us to determine the success of our advertising campaigns and to improve upon them. You can withdraw your consent at any time.
     * These third party data and advertising platforms may sometimes use data that we provide to them in order to improve their technologies and their ability to match common devices to users.
@@ -309,7 +309,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
 * **3.3 Visitor**
     
-    We process Personal Data about you as a Visitor where:
+    **We process Personal Data about you as a Visitor where:**
     
     * You have consented;
     * We need to fulfill our contractual responsibility;
@@ -371,7 +371,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     * We use referral information to track the success of our integrations and referral processes. For example, if you clicked on an advertisement for one of our brands, presented by one of our partners on the web, which brought you to one of our websites, we will record this information to help us track the success of advertising campaigns.
     
-    3.3.4 Legal obligation.
+    3.3.4 **Legal obligation.**
     
     **(a)** To respond to legal requests, we may need to disclose information we hold about you. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.
     
@@ -451,7 +451,7 @@ We have a security statement related to our self-serve businesses (SurveyMonkey 
 8\. Safety of Minors
 --------------------
 
-Our services (including creating and responding to surveys) are not intended for and may not be used by minors. “Minors” are individuals under the age of 16 (or under a higher age as provided in certain countries or territories). SurveyMonkey does not knowingly collect Personal Data from Minors or allow them to register. If it comes to our attention that we have collected Personal Data from a Minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact customer support.
+Our services (including creating and responding to surveys) are not intended for and may not be used by minors. “**Minors**” are individuals under the age of 16 (or under a higher age as provided in certain countries or territories). SurveyMonkey does not knowingly collect Personal Data from Minors or allow them to register. If it comes to our attention that we have collected Personal Data from a Minor, we may delete this information without notice. If you have reason to believe that this has occurred, please contact customer support.
 
 9\. Data Transfers
 ------------------
@@ -460,7 +460,7 @@ Your information and data may be processed in and transferred or disclosed in th
 
 We have also provided a [help article](https://help.surveymonkey.com/en/policy/data-processing-agreements-eu/) which answers some additional questions about data transfers to the US.
 
-**9.1** EU-U.S. Data Privacy Framework (DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF Principles.
+**9.1** **EU-U.S. Data Privacy Framework (DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF Principles.**
 
 SurveyMonkey Inc. has self-certified its compliance under the EU-U.S. Data Privacy Framework, the UK Extension and the Swiss-U.S. DPF Principles. SurveyMonkey is committed to subjecting all personal information received from the European Union (EU) member countries, the United Kingdom, and Switzerland to the Framework’s applicable Principles. To learn more about the DPF, see [https://www.dataprivacyframework.gov/s](https://www.privacyshield.gov/).
 
@@ -490,7 +490,7 @@ SurveyMonkey is a controller for the account-level data provided by its Creators
 
 You may wish to exercise a right to obtain information about yourself or to correct, update or delete that information. For more information about these rights you can read about it [here](https://help.surveymonkey.com/articles/en_US/kb/surveymonkey-gdpr). Some of these rights may be subject to some exceptions or limitations in local law. Please note your rights and choices vary depending upon your location. We will take reasonable steps to verify your identity and we will respond to your request to exercise these rights within a reasonable time (and in all cases within 30 days of receiving a request) subject to the below for specific categories of person.
 
-**11.1** Apply Applicants
+**11.1** **Apply Applicants**
 
 For SurveyMonkey Apply users please see [information on how to exercise your rights here](https://help.smapply.io/hc/en-us/articles/360003749013-SurveyMonkey-Apply-Data-Privacy).
 
@@ -522,11 +522,11 @@ For SurveyMonkey Apply users please see [information on how to exercise your rig
     **Please do not share other forms of personal identification for data subjects with us when submitting requests.**
     
 
-**11.7 Other rights and choices**
+**11.7 **Other rights and choices****
 
 * For rights and choices specific to US consumers, please refer to our [Region Specific Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/). Please note we will take reasonable steps to verify your identity and the authenticity of your request as described in that Notice.
 
-**11.8 Contact**
+**11.8 **Contact****
 
 Except as explicitly provided herein, please use the following contact information for privacy inquiries
 
@@ -548,7 +548,7 @@ Or contact us [here](https://help.surveymonkey.com/en/contact/?l=en&form=datareq
 **Data Protection Officer**: SurveyMonkey's Data Protection Officer is registered with the Irish Data Protection Commission.  Contact our DPO at [dpo@surveymonkey.com](mailto:dpo@surveymonkey.com).  
 Note that our contact form is the [best](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest) way to make a rights request with us.
 
-**11.9 Complaints**
+**11.9 **Complaints****
 
 If you are a resident in the European Union and you are dissatisfied with how we have managed a complaint you have submitted to us, you are entitled to contact your local data protection supervisory authority. As SurveyMonkey Europe UC operates its business in Ireland, it operates under the remit of the Irish Office of the Data Protection Commissioner (see: [IDPC Website](https://www.dataprotection.ie/)).
 
@@ -562,27 +562,27 @@ We can make changes to the [Privacy Basics](https://www.surveymonkey.com/mp/lega
 
 ALTHOUGH THIS NOTICE APPLIES TO ALL OUR SERVICES, IF YOU ARE USING THE BELOW SERVICES PLEASE CLICK ON THE RELEVANT LINK TO BRING YOU DIRECTLY TO SERVICE SPECIFIC INFORMATION:
 
-**13.1 TechValidate**
+**13.1 **TechValidate****
 
 Our main Privacy Notice applies to our TechValidate users except where the Privacy Notice specifies a section that is only applicable to our survey tool.
 
-**13.1.1 TechFacts**
+**13.1.1 **TechFacts****
 
 TechFacts are published on an anonymous basis – that is, no Respondent Personal Information displayed in a TechFact unless your Respondents authorize the use of their name and company affiliation. You are able to see the individual respondent’s identity in your account and, if you give a SurveyMonkey employee permission to view that response, then SurveyMonkey will also see this. However, we never publish or disseminate this information (unless you explicitly ask us to do so).
 
 We assign a unique identification number to each TechFact. The ID will appear on each copy of the TechFact. Our site is designed so that visitors may look up and view TechFacts without the collection of any personal information (except for such visitor's internet protocol (IP) address).
 
-**13.2 SurveyMonkey Apply**
+**13.2 **SurveyMonkey Apply****
 
 SurveyMonkey Apply is an online application system that helps organizations collect applications, manage subscriptions and facilitate reviews. Our main Privacy Notice applies to [apply.surveymonkey.com](http://apply.surveymonkey.com/?ut_source=legal&ut_source2=privacy-information-specific-to-other-services&ut_source3=inline) (“SurveyMonkey Apply”) except where the Privacy Notice specifies a section that is applicable only to our survey tool. Responses and Respondents in this section are intended as reference to applicants and their applications for the purposes of use of SurveyMonkey Apply.  
 When an applicant submits an application through SurveyMonkey Apply, their login information can be used for multiple applications across the SurveyMonkey Apply site.  
 If you have any questions about your personal information in the context of our SurveyMonkey Apply service, you can contact us [here](https://help.smapply.io/hc/en-us/sections/115000411593-Contact-Us).
 
-**13.3 Wufoo**
+**13.3 **Wufoo****
 
 Our main Privacy Notice applies to our Wufoo users except where the Privacy Notice specifies a section that is only applicable to our survey tool.
 
-**13.3.1 Your control over your form data**
+**13.3.1 **Your control over your form data****
 
 We store your form data (form content and responses) for you. You have the following controls over your form data:
 
@@ -592,7 +592,7 @@ We store your form data (form content and responses) for you. You have the follo
 
 We would like to emphasize that we will not use your form data to compete with you, market to your clients, or contact them for any other means of profit. We will also not sell your form data to anyone.
 
-**13.4 GetFeedback Digital (formerly Usabilla)**
+**13.4 **GetFeedback Digital (formerly Usabilla)****
 
 Our main Privacy Notice applies to our GetFeedback Digital users, except where the Privacy Notice specifies a section that is only applicable to our survey tool, or information in this section distinguishes our treatment of data and information in the case of GetFeedback Digital’s service, in which case this Section takes precedence.
 
@@ -603,26 +603,26 @@ Our main Privacy Notice applies to our GetFeedback Digital users, except where t
 * To adjust your preferences and settings around data and information you must be logged into your account and/or can contact GetFeedback Digital’s team at privacy@getfeedback.com for assistance or you can read about this more [here](https://support.usabilla.com/hc/en-us/articles/360004975472-How-can-I-hide-privacy-sensitive-information-).
 * To exercise your data rights (as described in our main Privacy NoticeSection 14 above) you can use our [contact form](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest) (please specify that this is a GetFeedback Digital request) or you can contact GetFeedback Digital’s team at privacy@getfeedback.com.
 
-**13.5 GetFeedback Direct**
+**13.5 **GetFeedback Direct****
 
 Our main Privacy Notice applies to our GetFeedback Direct users, except where the Privacy Notice specifies a section that is only applicable to our survey tool, or information in this section distinguishes our treatment of data and information in the case of GetFeedback Direct's service, in which case this section takes precedence. If you are part of any of our early adopter programs our main Privacy Notice will apply to you.
 
-**13.5.1 Sentiment Analysis**
+**13.5.1 **Sentiment Analysis****
 
 Sentiment Analysis and other additional machine learning features are auto-implemented for all customer accounts and cannot be switched off. If you do not wish to collect sentiment on your response data you should avoid use of open text response questions. 
 
-**13.5.2 Salesforce  
+**13.5.2 **Salesforce**  
 **GetFeedback Direct is a Salesforce ISVforce partner. If you have created a GetFeedback Direct account, the registration information you provide will be disclosed to Salesforce.com, Inc. and will be used by Salesforce.com, Inc. pursuant to its privacy policy (see [Salesforce Privacy Policy](https://www.salesforce.com/company/privacy/)). More information about how to automate emails in GetFeedback Direct using Salesforce is available [here](https://www.getfeedback.com/help/automate-getfeedback-using-salesforce/). Information about displaying a Post Chat Survey in Salesforce Chat can be found [here](https://www.getfeedback.com/help/displaying-a-post-chat-survey-in-salesforce-chat/).  
 
-**13.5.3 Suppression Lists**
+**13.5.3 **Suppression Lists****
 
 You can manage your suppression lists and map these to Salesforce so as to ensure you comply with unsubscribe requests from your Respondents by following the steps outlined [here](https://www.getfeedback.com/help/automate-getfeedback-using-salesforce/). For clarity, we are not responsible for how you manage your suppression lists.
 
-**13.5.4 Contact Us**
+**13.5.4 **Contact Us****
 
 To exercise your rights (as described in Section 11 of the Privacy Notice), please contact the GetFeedback Direct support team at [help@getfeedback.com](mailto:help@getfeedback.com).
 
-**13.6 Audience**
+**13.6 **Audience****
 
 If you are a panelist using our Rewards or Contribute apps, please read the following notices as they apply to your use of those Services:
 
