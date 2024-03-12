@@ -323,7 +323,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -543,7 +543,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -1043,7 +1043,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -1263,7 +1263,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -1737,7 +1737,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -1957,7 +1957,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -2380,7 +2380,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -2745,7 +2745,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -3110,7 +3110,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -3475,7 +3475,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -3840,7 +3840,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -4205,7 +4205,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -4423,7 +4423,7 @@ Retour
 * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-des-soins-et-pratiques/securite/article/les-pratiques-de-soins-non-conventionnelles)
 * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-des-soins-et-pratiques/biologie-medicale/)
 
-* [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+* [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
 * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
 * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
 * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -4624,7 +4624,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -4840,7 +4840,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -5056,7 +5056,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -5272,7 +5272,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -5488,7 +5488,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -5704,7 +5704,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -5920,7 +5920,7 @@ Recherche
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
-            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+            * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
             * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
             * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
             * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
@@ -6083,7 +6083,7 @@ Retour
 * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-des-soins-et-pratiques/securite/article/les-pratiques-de-soins-non-conventionnelles)
 * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-des-soins-et-pratiques/biologie-medicale/)
 
-* [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose-11356/)
+* [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
 * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
 * [Douleur](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/douleur/)
 * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
