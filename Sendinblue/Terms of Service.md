@@ -125,7 +125,7 @@ As creators of the distribution lists, the Users are responsible for the process
 
 It is specified that the Users are solely responsible for managing the retention periods of personal data that they upload onto the Brevo platform, and that it is incumbent on them to delete the data as and when its retention period expires. Brevo is responsible only for deleting this data at the end of its contractual relationship with the Users.
 
-In addition, the Users shall undertake not to include in the distribution lists uploaded onto the Brevo platform any personal data known as “sensitive” within the meaning of Article 9 of the GDPR, and in particular no health data, but also no data relating to criminal convictions and offences, any social security number, or any bank card number. Brevo can in no way be held responsible for the presence of such personal data on its platform, and the consequences that could result therefrom. In the event of a violation of this clause, the User shall be solely responsible for any consequences, and undertakes to guarantee, and if necessary indemnify, Brevo.
+Without prejudice to Brevo’s obligations to retain data, Brevo reserves the right to delete the User’s account including its content if the User has not logged in the Software for a period of ninety (90) days. Unless the period of inactivity has exceeded 18 months, Brevo will notify the User via email of the imminent deletion of the account. Following the notification, the account and its content will be automatically and permanently deleted If the User has not logged in the Software before the end of the inactivity period. Following such deletion, no restoration of the account or associated data shall be possible.
 
 ##### 4.2.2 Protection of the User’s personal data
 
