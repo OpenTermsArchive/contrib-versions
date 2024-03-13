@@ -3,34 +3,30 @@ GitLab Privacy Statement
 
 * * *
 
-Last updated: February 26, 2024
-
-_Last updated: March 19, 2024_
-
-To see our [California Consumer Privacy Act (CCPA) Notice at Collection](https://about.gitlab.com/privacy/us-state-privacy-rights-and-disclosures/#California), please click on the link or see the “U.S. State Privacy Rights” section below.
+Last updated: June 10, 2022
 
 ### Introduction
 
 At GitLab, we take the privacy and security of your information seriously. This privacy statement (“Privacy Statement”) will explain how GitLab B.V. and GitLab, Inc. ("GitLab", "we", "our", "us") handle your personal data. "Personal Data," as used in this Privacy Statement, is information that identifies or can reasonably be linked directly or indirectly to an identifiable person. The privacy practices and standards detailed in this Privacy Statement apply to all data subjects globally, unless specifically noted otherwise. In particular, this Privacy Statement will touch on the following sections:
 
-* [What Personal Data does GitLab Collect about Me?](https://about.gitlab.com/privacy/#what-personal-data-does-gitlab-collect-about-me)
+* [What Personal Data does GitLab collect about me?](https://about.gitlab.com/privacy/#what-personal-data-does-gitlab-collect-about-me)
     
-* [What Personal Data is Not Collected by GitLab?](https://about.gitlab.com/privacy/#what-personal-data-is-not-collected-by-gitlab)
+* [What Personal Data is Not Collected by GitLab? pas ?](https://about.gitlab.com/privacy/#what-personal-data-is-not-collected-by-gitlab)
     
-* [How Does GitLab Use My Personal Data and Our Legal Basis for Processing?](https://about.gitlab.com/privacy/#how-does-gitlab-use-my-personal-data-and-our-legal-basis-for-processing)
+* [How does GitLab use my Personal Data?](https://about.gitlab.com/privacy/#how-does-gitlab-use-my-personal-data)
     
-* [With Whom does GitLab Share My Personal Data ?](https://about.gitlab.com/privacy/#with-whom-does-gitlab-share-my-personal-data)
+* [With Whom does GitLab share my Personal Data ?](https://about.gitlab.com/privacy/#with-whom-does-gitlab-share-my-personal-data)
     
-* [How does GitLab Secure My Personal Data?](https://about.gitlab.com/privacy/#how-does-gitLab-secure-my-personal-data)
+* [How does GitLab Secure my Personal Data?](https://about.gitlab.com/privacy/#how-does-gitLab-secure-my-personal-data)
     
-* [What are My Rights and Choices Regarding Personal Data?](https://about.gitlab.com/privacy/#what-are-my-rights-and-choices-regarding-personal-data)
+* [What are my rights and choices regarding Personal Data?](https://about.gitlab.com/privacy/#what-are-my-rights-and-choices-regarding-personal-data)
     
 * [U.S. State Privacy Rights](https://about.gitlab.com/privacy/#us-state-privacy-rights)
     
-* [Other Important Privacy Information](https://about.gitlab.com/privacy/#other-important-privacy-information)
+* [Other important privacy information](https://about.gitlab.com/privacy/#other-important-privacy-information)
     
 
-This Privacy Statement applies to the GitLab websites ("Websites"), GitLab.com and [GitLab Dedicated](https://about.gitlab.com/dedicated/) ("SaaS"), Self-managed ("Self-managed"), and additional software products and services; collectively "Services.
+This Privacy Statement applies to the GitLab websites ("Websites"), GitLab.com ("SaaS"), Self-managed ("Self-managed"), and additional software products and services; collectively "Services.
 
 What Personal Data does GitLab collect about me?
 ------------------------------------------------
