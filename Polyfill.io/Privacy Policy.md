@@ -1,4 +1,4 @@
-This Privacy Policy applies to the [Polyfill.io](https://polyfill.io/) website (“_Site_”). and the public instance of the Polyfill Service made available by us, as described on the Site (“_Service_”). This Site and the Service are referred to together as “[_Polyfill.io_](https://polyfill.io/)”.
+This Privacy Policy applies to the [Polyfill.io](https://polyfill.io/) website (“<em>Site</em>”) and the public instance of the Polyfill Service made available by us, as described on the Site (“<em>Service</em>”). This Site and the Service are referred to together as “[_Polyfill.io_](https://polyfill.io/)”.
 
 We collect and use personal information in different ways for the Site and the Service. This Privacy Policy sets out details of these different ways in which we collect and use information.
 
