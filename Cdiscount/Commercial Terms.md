@@ -414,7 +414,7 @@ Selon le mode de livraison sélectionné et en cas de produits exceptionnellemen
 
 En cas d’absence un avis de passage vous sera laissé pour vous inviter à planifier un nouveau rendez-vous.
 
-Si vous êtes en France métropolitaine et que vous souhaitez faire reprendre votre ancien produit de gros gabarit (produits électroménagers et électroniques, télévisions, meubles, literies et canapés), vous pouvez le demander directement au livreur lors de la livraison, le cas échéant (hors références livrées par le transporteur AGEDISS, la possibilité d’une reprise vous sera confirmée par email une fois votre commande passée. Pour la Corse, la demande de reprise doit être faite avant la livraison). La reprise s’effectuera au même endroit que la livraison du nouveau produit, selon l’option de livraison choisie lors de la commande, c’est-à-dire dans la pièce de votre choix ou devant votre domicile ou au pied de votre bâtiment, s’il s’agit d’un immeuble. Pour plus de renseignements sur les modalités et conditions de reprise, consultez l’article 10 de nos CGV ou l'article "Eco-participation et reprise" disponible en bas de page de notre Site.  
+Si vous êtes en France métropolitaine et que vous souhaitez faire reprendre votre ancien produit de gros gabarit (produits électroménagers et électroniques, télévisions, meubles, literies et canapés), vous pouvez le demander directement au livreur lors de la livraison, le cas échéant (hors références livrées par le transporteur AGEDISS, la possibilité d’une reprise vous sera confirmée par email une fois votre commande passée. Pour la Corse, la demande de reprise doit être faite avant la livraison). La reprise s’effectuera au même endroit que la livraison du nouveau produit, selon l’option de livraison choisie lors de la commande, c’est-à-dire dans la pièce de votre choix ou devant votre domicile ou au pied de votre bétiment, s’il s’agit d’un immeuble. Pour plus de renseignements sur les modalités et conditions de reprise, consultez l’article 10 de nos CGV ou l'article "Eco-participation et reprise" disponible en bas de page de notre Site.  
 
 Vous disposez de plusieurs options pour être livrés à l’adresse de votre choix (les conditions complètes de chaque mode de livraison sont disponibles dans l'article "Les modes et frais de livraison" en bas de page de notre Site) :  
   
@@ -652,7 +652,7 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 
 À l’attention de CDISCOUNT, Cdiscount.com / SGPN Service Client - BP 90200 - 93472 Neuilly Sur Marne, France, [droit.retractation@cdiscount.com](https://www.cdiscount.com/mailto:droit.retractation@cdiscount.com) :
 
-— Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*) / prestation de services (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétractez\]…………………………………………………………………………………………………… ……………………………………………….... — Commandé le (\*) / reçu le (\*)………………………………………………………………………………………………… …………..............
+— Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*) / prestation de services (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétractez\]……………………………………………………………'…………………………………… ……………………………………………….... — Commandé le (\*) / reçu le (\*)………………………………………………………………………………………………… …………..............
 
 — N° de commande …………………………………………………………………………………………………… ………..............................
 
