@@ -77,50 +77,58 @@ The above are referred together as "**the Subscriptions**" and individually as a
 
 **2.19.** If your Subscription has been cancelled, vouchers will no longer be valid and you must promptly post any unused paper voucher packs to the address printed on the back of the pack.  We may provide a refund for any vouchers that relate to the remainder of a Subscription period you have already paid for, and we reserve the right to charge you for any voucher packs that have not been returned which relate to a period for which you have not yet paid. Paper and digital voucher subscriptions cannot be suspended by you at any time. 
 
+**Suspension of deliveries** 
+
+**2.20.** You may temporarily suspend Newspaper delivery if you have a Print or Bundled Subscription, for example if you are going on holiday. Please refer to this [FAQ on our Help Centre](https://help.ft.com/faq/newspaper-subscriptions/how-do-i-temporarily-suspend-delivery/) for further details, including the notice period you need to provide for any suspension. 
+
+**2.21.** A monetary credit will be applied against your next payment (or refunded if your Subscription is not renewed). However:
+
+* You will only be credited up to a maximum of 24 editions for 5 or 6 day Subscriptions, or 4 editions for a Weekend-only Subscriptions, in each full subscription year.
+* You cannot carry over any allowance not taken in one subscription year into the next year.
+* You will not be entitled to suspend your Subscription if you use vouchers, or if you have subscribed through an intermediary rather than directly from the FT.
+
 **Your Cancellation Rights**
 
-**2.20.** Digital Subscriptions:
+**2.22.** Digital Subscriptions:
 
 * By placing your order for a Digital Subscription subject to these Terms and Conditions, you agree that we may start your Subscription immediately upon our acceptance of your order and that you waive your statutory right to cancel our contract within 14 days of our confirmation email. 
 * This means that you lose your right to cancel this contract once we have provided confirmation via email of your Digital Subscription (see section 2.3 above) and that any notice of cancellation that you provide (whether before or after the 14-day period) will only take effect at the end of your current subscription period. You will not be entitled to a refund except in the event that there is a fault in our provision of our FT Services. 
 
-**2.21.** Print Subscription or Bundled Subscription:
+**2.23.** Print Subscription or Bundled Subscription:
 
 * You have the right to cancel our contract for a Print Subscription or Bundled Subscription within 14 days of our confirmation email (see section 2.3 above) without giving any reason. 
 * If you exercise your right to cancel within that period, we will reimburse all payments received from you, less a pro rated amount for each Newspaper you received before cancelling.
 * After the above period has expired, you may cancel your Print Subscription or Bundled Subscription by notifying us at any time of your intention to do so. However, the cancellation will only take effect at the end of your then current Subscription period, and you will not be entitled to a refund except in the event that there is a fault in our provision of our FT Services.
 * You may terminate your Subscription immediately in writing to FT if FT.com is unavailable or inaccessible to you for either (a) any 72 hour period during your Subscription; or (b) more than five 24-hour periods over a 30 day period; in either case as a direct result of a fault or failure of FT, in which case we will refund you any amount that you have paid to us in advance that relates to any period which was still to run on your Subscription.
 
-**2.22.** To exercise the above rights to cancel, you must inform us of your decision to cancel the contract by using [our online chat feature, calling us on your regional telephone number,](https://help.ft.com/contact/) or emailling us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com) with the following: "I/We hereby give notice that I/we cancel my/our subscription". Please then include:
+**2.24.** To exercise the above rights to cancel, you must inform us of your decision to cancel the contract by using [our online chat feature, calling us on your regional telephone number,](https://help.ft.com/contact/) or emailling us at [help@ft.com](https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=help@ft.com) with the following: "I/We hereby give notice that I/we cancel my/our subscription". Please then include:
 
 * the subscriber's full name (person on the billing information if different from the user);
 * the Account email address or Account Number (Customer Reference Number);
 * the billing address and delivery address (Including zip code/postcode); and
 * your contact telephone number.
 
-You may also use your [regional telephone number](https://help.ft.com/contact/) to temporarily suspend Newspaper delivery if you have an Bundled Subscription, for example if you are going on holiday, although you must provide at least 5 business days advance notice for this to be implemented. You will not be entitled to suspend your Subscription if you use paper or digital vouchers.
-
 **Our Cancellation Rights**
 
-**2.23.** We may suspend or terminate your Subscription if we are prevented from providing services to you, or accepting payment from you, by applicable law or circumstances beyond our control, or if we cease publishing the Newspaper or FT.com or FT Services. If we terminate for any of these reasons, we will provide you with a pro rata refund to the extent permitted by applicable law.
+**2.25.** We may suspend or terminate your Subscription if we are prevented from providing services to you, or accepting payment from you, by applicable law or circumstances beyond our control, or if we cease publishing the Newspaper or FT.com or FT Services. If we terminate for any of these reasons, we will provide you with a pro rata refund to the extent permitted by applicable law.
 
-**2.24.** We may also suspend or terminate your Subscription, without refund, if you breach these Terms and Conditions, or in the event of any verbal or written abuse of any kind (including abusive, offensive or aggressive language) directed towards our Customer Care team, other FT personnel, or any member of the public, with or without notice and without further obligation to you. 
+**2.26.** We may also suspend or terminate your Subscription, without refund, if you breach these Terms and Conditions, or in the event of any verbal or written abuse of any kind (including abusive, offensive or aggressive language) directed towards our Customer Care team, other FT personnel, or any member of the public, with or without notice and without further obligation to you. 
 
-**2.25.** If you are not a Subscriber, then we may suspend or terminate your access to the FT Content at any time, with or without notice and without further obligation to you.
+**2.27.** If you are not a Subscriber, then we may suspend or terminate your access to the FT Content at any time, with or without notice and without further obligation to you.
 
 **Effects of cancellation**
 
-**2.26.** If you are entitled to a refund, we will make the reimbursement without undue delay, and not later than 14 days after the day on which we are informed about your decision to cancel your Subscription.
+**2.28.** If you are entitled to a refund, we will make the reimbursement without undue delay, and not later than 14 days after the day on which we are informed about your decision to cancel your Subscription.
 
-**2.27.** We will make the reimbursement using your registered payment details detailed within [Manage Your Account](https://www.ft.com/myaccount). Additional charges may apply if we are required to reimburse to any other credit card or bank. 
+**2.29.** We will make the reimbursement using your registered payment details detailed within [Manage Your Account](https://www.ft.com/myaccount). Additional charges may apply if we are required to reimburse to any other credit card or bank. 
 
-**2.28.** If you have received copies of the Newspaper as part of your Subscription, you will not be expected to return these copies, but we will retain payment for such in accordance with these Terms and Conditions.
+**2.30.** If you have received copies of the Newspaper as part of your Subscription, you will not be expected to return these copies, but we will retain payment for such in accordance with these Terms and Conditions.
 
-**2.29.** If you access the FT Services by exchanging the Newspaper for voucher packs which are issued by us, we reserve the right to charge you the subscription fee for the renewal period if we have sent you voucher packs that have not been returned before your subscription start date. We will provide you with a refund of the subscription fee on receipt of the complete returned voucher pack.
+**2.31.** If you access the FT Services by exchanging the Newspaper for voucher packs which are issued by us, we reserve the right to charge you the subscription fee for the renewal period if we have sent you voucher packs that have not been returned before your subscription start date. We will provide you with a refund of the subscription fee on receipt of the complete returned voucher pack.
 
 **Renewals**
 
-**2.30. Unless you notify us at least 14 days before the end of your current subscription period that you wish to cancel, your subscription will continue to renew for further equivalent periods and will be subject to these Terms and Conditions. We will charge the subscription using the same card or other payment method that you previously used. In the case of annual subscriptions, we will send you a reminder notice at least 14 days before the renewal date stating the rate that will apply for the renewal period.** 
+**2.32. Unless you notify us at least 14 days before the end of your current subscription period that you wish to cancel, your subscription will continue to renew for further equivalent periods and will be subject to these Terms and Conditions. We will charge the subscription using the same card or other payment method that you previously used. In the case of annual subscriptions, we will send you a reminder notice at least 14 days before the renewal date stating the rate that will apply for the renewal period.** 
 
 3\. Using FT.com
 ----------------
@@ -245,7 +253,7 @@ in each case even if we have been advised that such damages may arise.**
 7\. Changes to these Terms and Conditions
 -----------------------------------------
 
-**7.1.** These Terms and Conditions were published on 21 February 2024 and replace with immediate effect the Terms and Conditions previously published on 31 May 2023.
+**7.1.** These Terms and Conditions were published on 14 March 2024 and replace with immediate effect the Terms and Conditions previously published on 21 February 2024.
 
 **7.2.** We may update these Terms and Conditions for legal or regulatory reasons, or to reflect changes in our services or business practices. We will provide notice of any significant changes below. You should regularly check this section to see if any changes have been made. If you are a paying subscriber, any changes to our terms and conditions will become effective from the date of your next payment following the change unless we notify you otherwise. If you are not a paying subscriber, any changes will become effective as soon as we post them on FT.com.
 
