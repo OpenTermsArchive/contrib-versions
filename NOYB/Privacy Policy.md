@@ -9,7 +9,7 @@ This privacy policy covers noyb.eu, support.noyb.eu and the noyb.eu newsletters.
 **Storage:** (A) Traffic data is not stored. (B) Security log data (e.g. when the software identifies an “incident”) are deleted within 6 months, unless there is a particular reason to keep information for a longer period of time (e.g. individual IP addresses are blocked).  
 **Legal Basis:** (A) Your consent to receive our page and (B) our legitimate interests (for security reasons we process personal information, IP addresses, on this page) in maintaining the security of our page and fulfilling our legal duty to keep the page secure.  
 **Processors:** We may use trustworthy processors that only process your personal data on our behalf (“processors”). The particular provider may be subject to change over time. Currently all our core systems, including our website, are hosted on our own servers. Some elements that relate to newsletters are hosted by dialog-Mail eMarketing Systems GmbH (details below at 3) on our behalf.  
-**Other** **Recipients:** None. We do not share personal data with other recipients.  
+**Other** **Recipients:** Usually none. The only exception can be our external backend support (nycro UG, Hütten 118, 20355 Hamburg, Germany) that can have unavoidable access to information when solving technical issues.  
 **Third Country Transfers:** None. We process your data within the EEA/EU.  
 **Cookies:** We do not use cookies on noyb.eu.  
 **Statistics:** In addition to the processing above, we run a statistics system that does not process any personal data.
@@ -25,7 +25,7 @@ This privacy policy covers noyb.eu, support.noyb.eu and the noyb.eu newsletters.
 **Processors:** We may use trustworthy processors that only process your personal data on our behalf (“processors”). The particular provider may be subject to change over time. Currently all our core systems, including our member system, are hosted on our own servers.  
 **Payment Providers:** If you choose to pay via credit card, you will be forwarded to a secure page of SIX Payment Services Austria GmbH and/or your payment provider that is not under our control (e.g. the 3D Secure Code form by your issuing bank).You can find the SIX privacy information [here](https://www.six-payment-services.com/en/services/legal/privacy-statement.html "Current Document"). Our bank (Erste Bank der oesterreichischen Sparkassen AG, Am Belvedere 1, 1100 Wien, for SEPA payments) needs to receive the relevant transaction information if you choose SEPA payment.  
 **Postal Service:** If you do not opt-out from reciving a welcome gift, your address will be used to deliver the welcome gift via the postal service.  
-**Other Recipients:** None. We do not transfer your data to any other recipients.  
+**Other Recipients:** Usually none. The only exceptions are (1) our external technical support (nycro UG, Hütten 118, 20355 Hamburg, Germany) that can have unavoidable access to information when solving technical issues and (2) the Austrian tax authority, but only if you choose that we report your membership fee or donation to have this deducted from your Austrian taxes.  
 **Third Country Transfers:** None. We process your data within the EEA/EU.  
 **Cookies:** We use a session cookie (named “session”), to process your membership application, which holds a random string. It is deleted when you close your browser.
 
@@ -36,7 +36,7 @@ This privacy policy covers noyb.eu, support.noyb.eu and the noyb.eu newsletters.
 **Storage:** Your data is removed from the mailing list when you cancel your subscription. Your personal data is consequently deleted within 24 hours.  
 **Legal Basis:** Your consent for sending emails.  
 **Processors:** We only use trustworthy third parties that only process your personal data on our behalf (“processors”). For mailing we currently use dialog-Mail eMarketing Systems GmbH. The particular provider may be subject to change over time.  
-**Other Recipients:** None. We do not transfer your data to any other recipients.  
+**Other Recipients:** Usually none. The only exception can be our external backend support (nycro UG, Hütten 118, 20355 Hamburg, Germany) that can have unavoidable access to information when solving technical issues.  
 **Third Country Transfers:** None. We process your data within the EEA/EU.  
 **Cookies:** We use a session cookie (named “PHPSESSID”), to process your signup, which holds a random string. It is deleted when you close your browser.  
 
@@ -52,7 +52,7 @@ This privacy policy covers noyb.eu, support.noyb.eu and the noyb.eu newsletters.
 **Storage:** Tickets are automatically deleted within 6 months from the last communication, unless there is a legal duty to keep the ticket, such as accounting regulations or keeping evidence of legal requests.  
 **Legal Basis:** Your consent when sending us an email ("affirmative action" when sending an email to a recipient) and, in certain cases, our legitimate interest or legal duty to keep communication as evidence.  
 **Processors:** We may use trustworthy processors that only process your personal data on our behalf (“processors”). The particular provider may be subject to change over time. Currently all our core systems, including our ticket system, are hosted on our own servers.  
-**Other Recipients:** None. We do not transfer your data to any other recipients.  
+**Other Recipients:** Usually none. The only exception can be our external backend support (nycro UG, Hütten 118, 20355 Hamburg, Germany) that can have unavoidable access to information when solving technical issues.  
 **Third Country Transfers:** None. We process your data within the EEA/EU.  
 
 **(6) In all cases, you have the following rights**
