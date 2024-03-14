@@ -1,5 +1,5 @@
-Terms of service
-================
+[Terms of service](#terms-of-service)
+=====================================
 
 **Effective date**: 3rd of June, 2022
 
