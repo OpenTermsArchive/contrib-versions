@@ -93,9 +93,9 @@ _Misleading content related to harmful health practices:_ misleading health or m
 
 _Manipulated media:_ media that has been technically manipulated or doctored in a way that misleads users and may pose a serious risk of egregious harm.
 
-Non-Consensual Explicit Imagery (NCEI)
+Non-consensual intimate imagery (NCII)
 
-Do not store or distribute private nude, sexually explicit, or non-explicit intimate and sexual images or videos without the subject’s consent. If someone has sent a private nude, sexually explicit, or non-explicit intimate and sexual image or video of you, please report it to us [here](https://support.google.com/blogger/answer/7540088).
+Do not store or distribute private nude, sexually explicit or intimate images or videos without the subject's consent. If someone has sent a private nude, sexually explicit or intimate image or video of you, please report it to us [here](https://support.google.com/groups/answer/7540088).
 
 Personal and confidential information
 
