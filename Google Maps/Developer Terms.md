@@ -42,9 +42,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * The Humanitarian Data Exchange (DZ): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
             
     2. **Andorra**
-        
-        Govern de Andorra
-        
+        * Govern de Andorra
+            
+        * Cartography Area Andorra (Àrea de Cartografia - Govern d'Andorra) [https://www.cartografia.ad/](https://www.cartografia.ad/)
+            
     3. **Australia**
         * Certain content which is available as part of the Services is derived from data provided by Transport for NSW. Public Transport Customers requiring the most current information should check at [www.transportnsw.info](https://transportnsw.info/).
             
@@ -934,6 +935,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Geo Services - République française: [https://www.etalab.gouv.fr/licence-ouverte-open-licence/](https://www.etalab.gouv.fr/licence-ouverte-open-licence/)
             
+        * Geoservice IGN: [https://geoservices.ign.fr/sites/default/files/2023-01/IGNF\_BDTOPOr\_3-3.html](https://geoservices.ign.fr/sites/default/files/2023-01/IGNF_BDTOPOr_3-3.html)
+            
     19. **Gambia**
         * Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
             
@@ -1156,6 +1159,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Centre for Budapest Transport (BKK) Licenses: [https://budapestgodokumentumok.bonsaix.com/content/article/510/altalanos-szerzodesi-feltetelek,](https://budapestgodokumentumok.bonsaix.com/content/article/510/altalanos-szerzodesi-feltetelek) [https://budapestgodokumentumok.bonsaix.com/content/article/510/uzletszabalyzat](https://budapestgodokumentumok.bonsaix.com/content/article/510/uzletszabalyzat)
             
+        * E-vignette Hungary: [https://evignettehungary.com/](https://evignettehungary.com/)
+            
     27. **Iceland**
         * Contains data from the Evrópugögn database of the National Land Survey of Iceland from 3/2022 ([https://www.lmi.is/is/um-lmi/starfsemi/skilmalar-og-gjaldskra/gjaldskra](https://www.lmi.is/is/um-lmi/starfsemi/skilmalar-og-gjaldskra/gjaldskra))
             
@@ -1344,9 +1349,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和5年 12 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和6年 1 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和5年 12 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和6年 1 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         * ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
@@ -1437,6 +1442,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Open data portal of the municipality of Groningen - [https://data.groningen.nl/dataset/bag-zoekpostcode-wij-wijken-gemeente-groningen](https://data.groningen.nl/dataset/bag-zoekpostcode-wij-wijken-gemeente-groningen)
             
         * Arnhem Open Data - [https://opendata.arnhem.nl/documents/adressenbestand-csv/about](https://opendata.arnhem.nl/documents/adressenbestand-csv/about)
+            
+        * Eindhoven Open Data - [https://data.eindhoven.nl/explore/dataset/snelhedenkaart/information/?disjunctive.maxshd](https://data.eindhoven.nl/explore/dataset/snelhedenkaart/information/?disjunctive.maxshd)
             
     45. **New Zealand**
         * © Auckland International Airport Ltd
@@ -1762,6 +1769,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Valencia Open Data Soft: [https://valencia.opendatasoft.com/explore/dataset/vias/export/?dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6InZpYXMiLCJvcHRpb25zIjp7fX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJvYmplY3RpZCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiM2NmMyYTUifV0sInhBeGlzIjoiZmVjaGFiYWphIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoieWVhciIsInNvcnQiOiIifV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9](https://valencia.opendatasoft.com/explore/dataset/vias/export/?dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6InZpYXMiLCJvcHRpb25zIjp7fX0sImNoYXJ0cyI6W3siYWxpZ25Nb250aCI6dHJ1ZSwidHlwZSI6ImxpbmUiLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJvYmplY3RpZCIsInNjaWVudGlmaWNEaXNwbGF5Ijp0cnVlLCJjb2xvciI6IiM2NmMyYTUifV0sInhBeGlzIjoiZmVjaGFiYWphIiwibWF4cG9pbnRzIjoiIiwidGltZXNjYWxlIjoieWVhciIsInNvcnQiOiIifV0sImRpc3BsYXlMZWdlbmQiOnRydWUsImFsaWduTW9udGgiOnRydWV9)
             
         * Centro Nacional de Información Geográfica, CNIG: [https://centrodedescargas.cnig.es/CentroDescargas/buscadorCatalogo.do?codFamilia=02122#](https://centrodedescargas.cnig.es/CentroDescargas/buscadorCatalogo.do?codFamilia=02122#)
+            
+        * Open Data Navarra, ES: [https://datosabiertos.navarra.es/dataset/sig-de-movilidad-ciclista-sigmc-de-navarra](https://datosabiertos.navarra.es/dataset/sig-de-movilidad-ciclista-sigmc-de-navarra)
             
     58. **Sweden**
         * © 2009 Cartesia GIS AB
@@ -2323,6 +2332,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         218. Los Angeles Geo Hub [https://geohub.lacity.org/datasets/d6c55385a0e749519f238b77135eafac\_0/explore?location=34.027954](https://geohub.lacity.org/datasets/d6c55385a0e749519f238b77135eafac_0/explore?location=34.027954)
             
         219. Los Angeles County Metropolitan Transportation Authority (LACMTA) Licensing links: [https://developer.metro.net/gtfs-schedule-data/](https://developer.metro.net/gtfs-schedule-data/), [https://www.apache.org/licenses/LICENSE-2.0.html](https://www.apache.org/licenses/LICENSE-2.0.html), and [https://developer.metro.net/terms-conditions/](https://developer.metro.net/terms-conditions/)
+            
+        220. City of Milwaukee Open Data Portal [https://eu2.proxysite.com/process.php](https://eu2.proxysite.com/process.php)
+            
+        221. US Department of Transportation Federal Railroad Administration: [https://safetydata.fra.dot.gov/MasterWebService/PublicApi/Support/TermsOfService](https://safetydata.fra.dot.gov/MasterWebService/PublicApi/Support/TermsOfService)
             
     68. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
