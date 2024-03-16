@@ -150,7 +150,7 @@ Other languages:
 * [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/blk "မူဝါဒ:သုင်ꩻအဝ်ႏ ဖွောင်ꩻရဲဉ်ႏဖုံႏ (1% translated)")
 * [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "မူဝါဒ:အသုံးပြုမှု စည်းမျဉ်းများ (10% translated)")
 * [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/xmf "გჷმორინაფაშ წესეფი (23% translated)")
-* [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "გამოყენების პირობები (42% translated)")
+* [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "გამოყენების პირობები (45% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/km "លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់ (6% translated)")
 * [ᱥᱟᱱᱛᱟᱲᱤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sat "ᱩᱠᱩᱣᱟᱜ : ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱟᱹᱱ ᱟᱹᱨᱤ (5% translated)")
 * [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "政策：使用条款 (99% translated)")
