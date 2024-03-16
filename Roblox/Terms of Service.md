@@ -73,8 +73,6 @@ Last Updated: February 26, 2024 
 
 [Summary of Recent Changes](#change-summary)
 
-The English version is the primary document, unless stated otherwise. Translations are provided for your ease of understanding.
-
 Introduction
 
 ### Welcome to the RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V. universe, where imagination and creativity rule!
