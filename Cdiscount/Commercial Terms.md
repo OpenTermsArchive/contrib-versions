@@ -1598,7 +1598,7 @@ URCT garantit aux Clients que les données à caractère personnel ne pourront f
 
 Conformément au RGPD, le Client dispose de droits sur ses données à caractère personnel dont URCT garantit l’exercice effectif.
 
-Le Client bénéficie d’un droit d’accès à ses données, d’un droit de rectification ou d’effacement (« droit à l’oubli ») de ses données, d’un droit à la limitation du traitement, d’un droit à la portabilité de ses données et d’un droit à ne pas faire l’objet d’une décision individuelle automatisée (y compris le profilage).
+Le Client bénéficie d’un droit d’accés à ses données, d’un droit de rectification ou d’effacement (« droit à l’oubli ») de ses données, d’un droit à la limitation du traitement, d’un droit à la portabilité de ses données et d’un droit à ne pas faire l’objet d’une décision individuelle automatisée (y compris le profilage).
 
 Pour exercer l’un de ses droits, le Client doit adresser une réclamation par courrier à l’attention d’Un Rien C’est Tout au 30, rue Desse à Bordeaux (33000), France ou par courrier électronique à l’adresse suivante : contact@unriencesttout.org. URCT s’engage à donner une suite à la réclamation dans un délai de 30 jours ouvrés. 
 
