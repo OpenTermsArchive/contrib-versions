@@ -390,7 +390,7 @@ Wix values the security of our customers' Personal Information and we do everyth
 
 However, as we can’t guarantee absolute protection – we encourage you to be careful, set a strong password for your account, and avoid submitting any sensitive information which, if exposed, could cause you major harm.
 
-14\. Security
+13\. Security
 
 13\. Third-party websites
 -------------------------
@@ -401,7 +401,7 @@ Our Services may contain links to other websites or services. We are not respons
 
 Our Services may contain links to other websites or services.
 
-15\. Public forums and user content
+14\. Public forums and user content
 
 14\. Wix jobs applications
 --------------------------
@@ -435,7 +435,7 @@ We have put adequate security measures in place to protect your Personal Informa
 
 Avoid posting any Personal Information to any of the public areas on our Services, or to your own website, if you don’t want it to become publicly available.
 
-17. Contacting us
+16. Contacting us
 
 16\. Updates and interpretation
 -------------------------------
