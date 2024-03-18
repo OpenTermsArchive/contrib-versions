@@ -18,7 +18,6 @@ We provide this Privacy Policy to inform you about data processing in connection
 * [onlyfy TalentManager](https://www.xing.com/legal/privacy_policy_talentmanager)
 * [XING TalentpoolManager](https://www.xing.com/legal/privacy_policy_talentpoolmanager)
 * [XING AdCreator](https://www.xing.com/terms)
-* [XING Exchange](https://xing-exchange.xing.com/datenschutz)
 * [FreelancerManager](https://www.xing.com/legal/privacy_policy_freelancermanager)
 
 #### Responsible body
