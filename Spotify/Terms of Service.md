@@ -1,5 +1,5 @@
-[**Spotify Terms of Use**](#spotify-terms-of-use)
-=================================================
+[Spotify Terms of Use](#spotify-terms-of-use)
+=============================================
 
 Effective as of: March 24, 2023
 
@@ -30,8 +30,8 @@ These Terms are between you and Spotify USA Inc., 4 World Trade Center, 150 Gree
 
 BY USING THE SPOTIFY SERVICE, YOU AFFIRM THAT YOU ARE 18 YEARS OR OLDER TO ENTER INTO THESE TERMS, OR, IF YOU ARE NOT, THAT YOU ARE 13 YEARS OR OLDER AND HAVE OBTAINED PARENTAL OR GUARDIAN CONSENT TO ENTER INTO THESE TERMS. Additionally, in order to use the Spotify Service and access any Content, you represent that: you reside in the United States, and any registration and account information that you submit to Spotify is true, accurate, and complete, and you agree to keep it that way at all times.
 
-[**2\. The Spotify Service**](#2-the-spotify-service)
------------------------------------------------------
+[2\. The Spotify Service](#2-the-spotify-service)
+-------------------------------------------------
 
 ### [](#spotify-service-options)**Spotify Service options**
 
@@ -62,7 +62,7 @@ Spotify has no liability to you, nor any obligation to provide a refund to you, 
 
 ### [](#creating-a-spotify-account)**Creating a Spotify account**
 
-You may need to create a Spotify account to use all or part of the Spotify Service. Your username and password are for your personal use only and should be kept confidential. You understand that you are responsible for all use (including any unauthorized use) of your username and password. Notify our [Customer Service](https://support.spotify.com/us/contact-spotify-support/?_ga=2.242801345.2113527512.1615794512-1876599584.1615794512) team immediately if your username or password is lost or stolen, or if you believe there has been unauthorized access to your account.
+You may need to create a Spotify account to use all or part of the Spotify Service. Your username and password are for your personal use only and should be kept confidential. You understand that you are responsible for all use (including any unauthorized use) of your username and password. Notify our Customer Service team immediately if your username or password is lost or stolen, or if you believe there has been unauthorized access to your account.
 
 Spotify may reclaim, or require you to change, your username for any reason.
 
@@ -103,13 +103,13 @@ Tax rates are based on the rates applicable at the time of your monthly charge. 
 
 **Renewal and cancellation**
 
-With the exception of Paid Subscriptions for a Prepaid Period, your payment to Spotify or the third party through which you purchased the Paid Subscription will automatically renew at the end of the applicable subscription period, unless you cancel your Paid Subscription before the end of the then-current subscription period. Contact our Customer Support team [here](https://support.spotify.com/us/contact-spotify-support/?_ga=2.242801345.2113527512.1615794512-1876599584.1615794512) for instructions on how to cancel. The cancellation will take effect the day after the last day of the current subscription period, and you will be downgraded to the free version of the Spotify Service. We do not provide refunds or credits for any partial subscription periods, except as expressly stated in these Terms.
+With the exception of Paid Subscriptions for a Prepaid Period, your payment to Spotify or the third party through which you purchased the Paid Subscription will automatically renew at the end of the applicable subscription period, unless you cancel your Paid Subscription before the end of the then-current subscription period. Contact our Customer Support team here for instructions on how to cancel. The cancellation will take effect the day after the last day of the current subscription period, and you will be downgraded to the free version of the Spotify Service. We do not provide refunds or credits for any partial subscription periods, except as expressly stated in these Terms.
 
 If you have purchased a Paid Subscription using a Code, your subscription will automatically terminate at the end of the period stated with your Code, or when there is an insufficient prepaid balance to pay for the Spotify Service.
 
 ### [](#user-guidelines)**User guidelines**
 
-We've established guidelines for using the Spotify Service, to make sure the Spotify Service stays enjoyable for everyone ("**Spotify User Guidelines**"). In using the Spotify Service, you must comply with the [Spotify User Guidelines](http://spotify.com/legal/user-guidelines), as well as all applicable laws, rules, and regulations, and respect the intellectual property, privacy, and other rights of third parties.
+We've established guidelines for using the Spotify Service, to make sure the Spotify Service stays enjoyable for everyone ("**Spotify User Guidelines**"). In using the Spotify Service, you must comply with the Spotify User Guidelines, as well as all applicable laws, rules, and regulations, and respect the intellectual property, privacy, and other rights of third parties.
 
 ### [](#brand-accounts)**Brand accounts**
 
@@ -132,7 +132,7 @@ You agree to comply with all applicable Trade Control Laws in your use of the Sp
 
 **The content you post on the Spotify Service**
 
-Spotify users may post, upload, or otherwise contribute content to the Spotify Service ("**User Content**"). For the avoidance of doubt, User Content includes all information, materials and other content that is added, created, uploaded, submitted, distributed, or posted to the Spotify Service (including to the [Spotify Support Community](https://community.spotify.com/)) by users.
+Spotify users may post, upload, or otherwise contribute content to the Spotify Service ("**User Content**"). For the avoidance of doubt, User Content includes all information, materials and other content that is added, created, uploaded, submitted, distributed, or posted to the Spotify Service (including to the Spotify Support Community) by users.
 
 You are solely responsible for all User Content that you post.
 
@@ -166,18 +166,18 @@ Some Content licensed by, provided to, created by, or otherwise made available b
 
 **Infringement claims**
 
-Spotify respects the rights of intellectual property owners. If you believe that any Content infringes your copyright rights, please see the [Spotify Copyright Policy.](http://spotify.com/legal/copyright-policy)
+Spotify respects the rights of intellectual property owners. If you believe that any Content infringes your copyright rights, please see the Spotify Copyright Policy.
 
 [](#5-customer-support-information-questions-and-complaints)**5\. Customer Support, Information, Questions, and Complaints**
 ----------------------------------------------------------------------------------------------------------------------------
 
 ### [](#spotify-support-community)**Spotify support community**
 
-[Spotify Community](https://community.spotify.com/) is a place for discussions and exchange of information, tips, and other materials related to the Spotify Service. By using Spotify Community, you agree to the [Community Terms](https://www.spotify.com/us/legal/support-community-end-user-agreement/).
+Spotify Community is a place for discussions and exchange of information, tips, and other materials related to the Spotify Service. By using Spotify Community, you agree to the [Community Terms](https://www.spotify.com/us/legal/support-community-end-user-agreement/).
 
 ### [](#customer-support-information-questions-and-complaints)**Customer support, information, questions, and complaints**
 
-For customer support with account- and payment-related questions ("**Customer Support Queries**"), please use Customer Support resources listed on the [About Us](https://www.spotify.com/us/about-us/contact/) section of our website.
+For customer support with account- and payment-related questions ("**Customer Support Queries**"), please use Customer Support resources listed on the About Us section of our website.
 
 If you have any questions concerning the Spotify Service or these Terms (including any additional Spotify terms and conditions incorporated herein), please contact Spotify Customer Service by visiting the About Us section of our website. You may also contact us at the mailing address set forth in the "Service Provider" section at the start of these Terms.
 
@@ -188,7 +188,7 @@ In addition, under California Civil Code Section 1789.3, you may contact the Com
 
 ### [](#suspending-and-terminating-the-spotify-service)**Suspending and terminating the Spotify Service**
 
-These Terms will continue to apply to you until terminated by either you or Spotify. Spotify may terminate these Terms (including any additional terms and conditions incorporated herein) or suspend your access to the Spotify Service at any time if we believe you have breached any of these Terms, if we stop providing the Spotify Service or any material component thereof, or as we believe necessary to comply with applicable law. If you or Spotify terminate these Terms, or if Spotify suspends your access to the Spotify Service, you agree that Spotify shall have no liability or responsibility to you, and (except as expressly provided in these Terms) Spotify will not refund any amounts that you have already paid. You may terminate these Terms at any time, in which case you may not continue accessing or using the Spotify Service. To learn how to terminate your Spotify account, please use the Customer Support resources on our [About Us](https://www.spotify.com/us/about-us/contact/) page.
+These Terms will continue to apply to you until terminated by either you or Spotify. Spotify may terminate these Terms (including any additional terms and conditions incorporated herein) or suspend your access to the Spotify Service at any time if we believe you have breached any of these Terms, if we stop providing the Spotify Service or any material component thereof, or as we believe necessary to comply with applicable law. If you or Spotify terminate these Terms, or if Spotify suspends your access to the Spotify Service, you agree that Spotify shall have no liability or responsibility to you, and (except as expressly provided in these Terms) Spotify will not refund any amounts that you have already paid. You may terminate these Terms at any time, in which case you may not continue accessing or using the Spotify Service. To learn how to terminate your Spotify account, please use the Customer Support resources on our About Us page.
 
 The following sections shall survive termination: Sections 2 (The Spotify Service), 3 (Your Use of the Spotify Service) (except as set forth therein), 4 (Content and Intellectual Property Rights), 6 (Problems and Disputes), 7 (About These Terms), as well as any other sections of these Terms that, either explicitly or by their nature, must remain in effect even after termination of these Terms.
 
@@ -240,9 +240,9 @@ You and Spotify both agree that any Dispute relating to any actual or alleged in
 
 YOU AND SPOTIFY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER IN ARBITRATION OR LITIGATION ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, COLLECTIVE, CONSOLIDATED, PRIVATE ATTORNEY GENERAL, OR REPRESENTATIVE ACTION. Unless both you and Spotify agree, no arbitrator or judge may consolidate more than one person's claims or otherwise preside over any form of a representative or class proceeding. The arbitrator may award injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party's individual claim. If a court decides that applicable law precludes enforcement of any of this paragraph's limitations as to a particular claim for relief or request for relief (such as a request for public injunctive relief) and all appeals have been exhausted or the decision is otherwise final, then the parties agree that such a claim or request for relief shall be decided by a court only after all other claims and requests for relief are arbitrated.
 
-#### [**Pre-arbitration notice of dispute and informal resolution period**](#pre-arbitration-notice-of-dispute-and-informal-resolution-period)
+#### [Pre-arbitration notice of dispute and informal resolution period](#pre-arbitration-notice-of-dispute-and-informal-resolution-period)
 
-A party who intends to seek arbitration must first send a written notice of the Dispute ("**Notice**") to the other. Notices to Spotify must be sent by email to [legal@spotify.com](mailto:legal@spotify.com), and Notices to you must be sent to the email address associated with your Spotify account. All Notices must: (1) be personally signed by the party sending the Notice; (2) provide the relevant user's name, email address associated with the user's Spotify account, and Spotify username; (3) describe with specificity the nature and basis of the Dispute; and (4) set forth the alleged damage and harm suffered and the specific relief sought with a calculation for it.
+A party who intends to seek arbitration must first send a written notice of the Dispute ("**Notice**") to the other. Notices to Spotify must be sent by email to legal@spotify.com, and Notices to you must be sent to the email address associated with your Spotify account. All Notices must: (1) be personally signed by the party sending the Notice; (2) provide the relevant user's name, email address associated with the user's Spotify account, and Spotify username; (3) describe with specificity the nature and basis of the Dispute; and (4) set forth the alleged damage and harm suffered and the specific relief sought with a calculation for it.
 
 After a Notice containing all of the information required above is received, the parties agree to engage in good faith for a period of sixty (60) days in an effort to resolve the Dispute (this time period may be extended by agreement of the parties) ("**Informal Resolution Period**"). The party receiving the Notice may request a telephone or video settlement conference during the Informal Resolution Period in an effort to facilitate resolution of the Dispute ("**Informal Settlement Conference**"). The Informal Settlement Conference, if any, will take place at a mutually agreeable time, which can be after the sixty (60) day Informal Resolution Period if needed to accommodate the parties' schedules. During the Informal Settlement Conference, you and a Spotify representative must both personally participate in a good-faith effort to resolve the Dispute without the need to proceed with arbitration. Any counsel representing the parties also may participate. Personal participation in an Informal Settlement Conference will not be required if both you and Spotify agree in writing.
 
@@ -254,9 +254,9 @@ Neither you nor Spotify may commence an arbitration proceeding until after the T
 
 ### [](#arbitration-rules-and-fees)**Arbitration rules and fees**
 
-Either you or Spotify may start arbitration proceedings. Any arbitration between you and Spotify will be administered by National Arbitration and Mediation ("**NAM**") in accordance with their rules applicable to the nature of the Dispute, including the Comprehensive Dispute Resolution Rules and Procedures and/or the Supplemental Rules for Mass Arbitration Filings ("**NAM Rules**"), as modified by this Arbitration Agreement. You and Spotify agree that the Federal Arbitration Act applies and governs the interpretation and enforcement of this Arbitration Agreement (despite the choice of law provision above). The NAM Rules, as well as instructions on how to file a demand for arbitration ("**Demand**") with NAM, appear at [www.namadr.com/resources/rules-fees-forms/](http://www.namadr.com/resources/rules-fees-forms/). The Demand must attach the relevant Notice and be personally signed by the party initiating the arbitration (and their counsel, if represented).
+Either you or Spotify may start arbitration proceedings. Any arbitration between you and Spotify will be administered by National Arbitration and Mediation ("**NAM**") in accordance with their rules applicable to the nature of the Dispute, including the Comprehensive Dispute Resolution Rules and Procedures and/or the Supplemental Rules for Mass Arbitration Filings ("**NAM Rules**"), as modified by this Arbitration Agreement. You and Spotify agree that the Federal Arbitration Act applies and governs the interpretation and enforcement of this Arbitration Agreement (despite the choice of law provision above). The NAM Rules, as well as instructions on how to file a demand for arbitration ("**Demand**") with NAM, appear at www.namadr.com/resources/rules-fees-forms/. The Demand must attach the relevant Notice and be personally signed by the party initiating the arbitration (and their counsel, if represented).
 
-If NAM is unavailable, unwilling, or otherwise unable to administer an arbitration in accordance with this Arbitration Agreement, then another administrator that will do so will be selected by agreement of the parties. If the parties cannot agree, then they will jointly petition a court to appoint an administrator that will do so. To start an arbitration, the claimant shall send a copy of the Demand to NAM and the other party. If you initiate arbitration, you shall serve the Demand on Spotify via email at [legal@spotify.com](mailto:legal@spotify.com) and to Spotify's registered agent at CT Corporation System, 28 Liberty Street, New York, New York, 10005. If Spotify initiates arbitration, Spotify shall serve the Demand on you at the email address associated with your Spotify account. The claimant must certify in the Demand that the requirements set forth in the "Pre-arbitration notice of dispute and informal resolution period" section above have been met, and must attach a copy of the Notice to the Demand.
+If NAM is unavailable, unwilling, or otherwise unable to administer an arbitration in accordance with this Arbitration Agreement, then another administrator that will do so will be selected by agreement of the parties. If the parties cannot agree, then they will jointly petition a court to appoint an administrator that will do so. To start an arbitration, the claimant shall send a copy of the Demand to NAM and the other party. If you initiate arbitration, you shall serve the Demand on Spotify via email at legal@spotify.com and to Spotify's registered agent at CT Corporation System, 28 Liberty Street, New York, New York, 10005. If Spotify initiates arbitration, Spotify shall serve the Demand on you at the email address associated with your Spotify account. The claimant must certify in the Demand that the requirements set forth in the "Pre-arbitration notice of dispute and informal resolution period" section above have been met, and must attach a copy of the Notice to the Demand.
 
 Each party retains the right to request a hearing in arbitration from the arbitrator. Any arbitration hearings will be conducted by phone or videoconference to the extent possible, but if the arbitrator determines that a hearing should be conducted in person, the locale for such hearing shall be in the county or parish where you reside or at another agreed upon locale.
 
@@ -266,7 +266,7 @@ Spotify will pay all filing, administration, case-management, hearing, and arbit
 
 Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may consider rulings in other arbitrations involving different users, but an arbitrator's ruling will not be binding in any proceeding involving different users. The arbitrator may make rulings and resolve any disagreements as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within fourteen (14) days of the arbitrator's ruling on the merits. An arbitration award that has been satisfied may not be filed or entered in court.
 
-### [**Mass arbitration**](#mass-arbitration)
+### [Mass arbitration](#mass-arbitration)
 
 If you elect to have your claim addressed as part of a mass arbitration (defined below), you agree to the additional procedures set forth below.
 
@@ -280,7 +280,7 @@ Second Stage: If the parties are unable to resolve the remaining cases after the
 
 If the parties are unable to resolve any remaining cases after a second global mediation session:
 
-Option One: You and Spotify may, separately or by agreement, opt out of arbitration and elect to have your case heard in a court of competent jurisdiction consistent with these Terms. You may opt out of arbitration by providing an individual, personally signed notice of your intention to opt out of arbitration to Spotify via email at [legal@spotify.com](mailto:legal@spotify.com) within thirty (30) days after the conclusion of the second global mediation session. Spotify may opt your case out of arbitration by sending an individual, signed notice of its intention to opt out of arbitration to your counsel via email no more than thirty (30) days following the expiration of your thirty (30) day opt-out period. Counsel for the parties may agree to adjust these deadlines.
+Option One: You and Spotify may, separately or by agreement, opt out of arbitration and elect to have your case heard in a court of competent jurisdiction consistent with these Terms. You may opt out of arbitration by providing an individual, personally signed notice of your intention to opt out of arbitration to Spotify via email at legal@spotify.com within thirty (30) days after the conclusion of the second global mediation session. Spotify may opt your case out of arbitration by sending an individual, signed notice of its intention to opt out of arbitration to your counsel via email no more than thirty (30) days following the expiration of your thirty (30) day opt-out period. Counsel for the parties may agree to adjust these deadlines.
 
 OR
 
@@ -301,7 +301,7 @@ Under applicable law, you may have certain rights that can't be limited by a con
 
 ### [](#changes)**Changes**
 
-We may make changes to these Terms (including any additional Spotify terms and conditions incorporated by reference herein) from time to time by notifying you of such changes by any reasonable means, including by posting the revised Terms on the applicable Spotify Service (provided that, for material changes, we will seek to supplement such notice by email, an in-service pop-up message, or other prominent notice within the Spotify Service, or other means). Your use of the Spotify Service following any changes to these Terms will constitute your acceptance of such changes. Premium Subscribers who do not wish to continue using the Spotify Service under the updated Terms must close their Spotify account prior to their renewal date or thirty (30) days after the Effective Date, whichever occurs first. If Spotify makes any material change to the Arbitration Agreement (other than a change to the notice address), you may reject any such change by sending us a personally signed, written notice of your decision to opt out of those changes via email to [tounotice@spotify.com](mailto:tounotice@spotify.com). This opt-out notice must be sent within thirty (30) days of when we notify users of the change and include: (1) your name, address, email address associated with your Spotify account, phone number, and Spotify username. Such an opt-out must be sent by you personally from your personal email address, and not by your agent, attorney, or anyone else purporting to act on your behalf. The opt-out notice also must include a statement that you wish to reject the change to the Arbitration Agreement. Opting out of a material change to the Arbitration Agreement is not an opt-out of arbitration altogether. Even if you opt out of a material change to the Arbitration Agreement, you and Spotify agree that any Dispute will be determined by binding individual (not class) arbitration in accordance with the Arbitration Agreement in effect immediately before any such opt-out.
+We may make changes to these Terms (including any additional Spotify terms and conditions incorporated by reference herein) from time to time by notifying you of such changes by any reasonable means, including by posting the revised Terms on the applicable Spotify Service (provided that, for material changes, we will seek to supplement such notice by email, an in-service pop-up message, or other prominent notice within the Spotify Service, or other means). Your use of the Spotify Service following any changes to these Terms will constitute your acceptance of such changes. Premium Subscribers who do not wish to continue using the Spotify Service under the updated Terms must close their Spotify account prior to their renewal date or thirty (30) days after the Effective Date, whichever occurs first. If Spotify makes any material change to the Arbitration Agreement (other than a change to the notice address), you may reject any such change by sending us a personally signed, written notice of your decision to opt out of those changes via email to tounotice@spotify.com. This opt-out notice must be sent within thirty (30) days of when we notify users of the change and include: (1) your name, address, email address associated with your Spotify account, phone number, and Spotify username. Such an opt-out must be sent by you personally from your personal email address, and not by your agent, attorney, or anyone else purporting to act on your behalf. The opt-out notice also must include a statement that you wish to reject the change to the Arbitration Agreement. Opting out of a material change to the Arbitration Agreement is not an opt-out of arbitration altogether. Even if you opt out of a material change to the Arbitration Agreement, you and Spotify agree that any Dispute will be determined by binding individual (not class) arbitration in accordance with the Arbitration Agreement in effect immediately before any such opt-out.
 
 ### [](#entire-agreement)**Entire agreement**
 
