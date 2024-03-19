@@ -229,7 +229,7 @@ We expect you to respect the intellectual property rights of others, and will re
 
 For information on how to use Roblox’s name and logo, please see our [Community Usage Guidelines](https://en.help.roblox.com/hc/articles/115001708126).
 
-Copyright and trademark takedown requests can be filed [here](https://www.roblox.com/support).
+Copyright and registered trademark takedown requests can be filed [here](https://www.roblox.com/support). Roblox may proactively delete or archive assets if we suspect that the content may be infringing on someone’s intellectual property rights.
 
 You can learn more about intellectual property reporting on Roblox [here](https://create.roblox.com/docs/production/publishing/dmca-guidelines).
 
@@ -339,6 +339,7 @@ Change Log
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| March 18, 2024 | Clarified requirements for Trademark infringement claims and included action Roblox may take for IP violating content. |
 | December 5, 2023 | Added a link to the detailed 17+ Policy Standards to the Profanity policy.<br><br>Added a Strong Language section to allow Verified 17+ creators to create 17+ experiences containing vulgar or obscene language and allow it in user communications. |
 | October 3, 2023 | Added a link to the detailed 17+ Policy Standards to the Violent Content and Gore, Romantic and Sexual Content, and Illegal and Regulated Goods and Activities policies.<br><br>Updated the section for Misusing Roblox Systems to clarify rules on creating or using an account to evade enforcement actions.<br><br>Updated the section for Illegal and Regulated Goods and Activities with clarified language around alcohol and controlled substances.<br><br>Added clarifying language to Threats, Bullying, and Harassment.<br><br>Effective October 3, 2023 |
 | August 16, 2023 | Updated the following Community Standards<br><br>* Romantic and Sexual Content<br>    * Added link to Avatar Bodies feature requirements for modesty layers<br>    * Clarified language around prohibiting sexually suggestive avatar bodies in addition to clothing items<br>* Misusing Roblox Systems<br>    * Added link to Avatar Bodies feature requirements for clothing and accessories<br><br>Effective August 16, 2023 |
