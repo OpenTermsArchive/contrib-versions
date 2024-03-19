@@ -142,7 +142,7 @@ PLEASE READ THIS SECTION CAREFULLY SINCE IT LIMITS THE LIABILITY OF QUORA ENTITI
 
 PLEASE READ THE FOLLOWING SECTION CAREFULLY – IT MAY SIGNIFICANTLY AFFECT YOUR LEGAL RIGHTS, INCLUDING YOUR RIGHT TO FILE A LAWSUIT IN COURT.
 
-Except for Section 11.10 (Exclusive Venue for Litigation) below, this Section 11 applies only to Quora users in the United States and Canada.
+Except for Section 11.11 (Exclusive Venue for Litigation) below, this Section 11 applies only to Quora users in the United States and Canada.
 
 11.1 Initial Dispute Resolution. We are available by email at [support@quora.com](mailto:support@quora.com "mailto:support@quora.com") and by regular post at Quora, Inc., 605 Castro Street, Mountain View, CA 94041 to address any concerns you may have regarding your use of the Quora Platform. Most concerns may be quickly resolved in this manner. The parties agree to use best efforts to settle any dispute, claim, question, or disagreement directly through consultation and good faith negotiations with us, before initiating a lawsuit or arbitration.
 
