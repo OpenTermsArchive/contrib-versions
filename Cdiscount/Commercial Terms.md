@@ -154,8 +154,6 @@ Le prix de comparaison d’un produit ou d’un service proposé sur le Site p
 
 \- Le « _Prix moyen constaté sur notre Marketplace_ » : est la moyenne des prix de vente que les vendeurs professionnels – qui doivent être au minimum 2 – pratiquent sur notre Marketplace Cdiscount pour le même produit. Ce prix est calculé de manière automatique une fois par semaine. 
 
-\- Le «_prix moyen constaté sur une sélection allant jusqu’à 37 sites_ » : est la moyenne des prix de vente à laquelle ce même produit est vendu par un panel de site Internet de e-commerce concurrents au nôtre, lequel peut comprendre entre 2 et 37 sites Internet. Ce prix est établi par un prestataire professionnel, indépendant de notre société, la société WORKIT ; il est actualisé une fois par mois.
-
 \- Le « _prix de comparaison renseigné par le vendeur de la Marketplace_ » est le prix de référence renseigné par le vendeur de la Marketplace Cdiscount. Notre société n’intervient pas dans la détermination de ce prix de référence. 
 
 .   
@@ -1598,7 +1596,7 @@ URCT garantit aux Clients que les données à caractère personnel ne pourront f
 
 Conformément au RGPD, le Client dispose de droits sur ses données à caractère personnel dont URCT garantit l’exercice effectif.
 
-Le Client bénéficie d’un droit d’accés à ses données, d’un droit de rectification ou d’effacement (« droit à l’oubli ») de ses données, d’un droit à la limitation du traitement, d’un droit à la portabilité de ses données et d’un droit à ne pas faire l’objet d’une décision individuelle automatisée (y compris le profilage).
+Le Client bénéficie d’un droit d’accès à ses données, d’un droit de rectification ou d’effacement (« droit à l’oubli ») de ses données, d’un droit à la limitation du traitement, d’un droit à la portabilité de ses données et d’un droit à ne pas faire l’objet d’une décision individuelle automatisée (y compris le profilage).
 
 Pour exercer l’un de ses droits, le Client doit adresser une réclamation par courrier à l’attention d’Un Rien C’est Tout au 30, rue Desse à Bordeaux (33000), France ou par courrier électronique à l’adresse suivante : contact@unriencesttout.org. URCT s’engage à donner une suite à la réclamation dans un délai de 30 jours ouvrés. 
 
