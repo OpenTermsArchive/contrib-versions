@@ -22,8 +22,8 @@ Effective as of 5 December 2023
 
 [11\. How to contact us](#11-how-to-contact-us)
 
-[**1\. About this Policy**](#1-about-this-policy)
--------------------------------------------------
+[1\. About this Policy](#1-about-this-policy)
+---------------------------------------------
 
 This Privacy Policy describes how we process your personal data at Spotify USA Inc. From now on, we'll call it the 'Policy'.
 
@@ -51,8 +51,8 @@ From time to time, we may develop new or offer additional services. They'll also
 Key information about your personal data is right here in this Policy. However, you might want to take a look at our other privacy resources and controls:
 
 * [Privacy Center](https://www.spotify.com/privacy/): A user-friendly hub with summaries of key topics and helpful videos. It includes the 'Your Privacy Controls' video which shows you how to exercise your user rights and make choices about the way we process your data. See [Section 2 'Your personal data rights and controls'](#2-your-personal-data-rights-and-controls) for more on user rights.
-* [Privacy Settings](https://www.spotify.com/account/privacy/): Control the processing of certain personal data, including [tailored advertising](#tailored-advertising-controls).
-* [Notification Settings](https://www.spotify.com/account/notifications/) Set which marketing communications you get from Spotify.
+* Privacy Settings: Control the processing of certain personal data, including [tailored advertising](#tailored-advertising-controls).
+* Notification Settings Set which marketing communications you get from Spotify.
 * Settings (found in the Desktop and Mobile versions of Spotify): Control certain aspects of the Spotify Service such as 'Social' or 'Explicit Content'. On the 'Social' setting, you can:
     * start a Private session
     * choose whether to share what you listen to on Spotify with your followers
@@ -62,8 +62,8 @@ On the 'Explicit Content' setting you can control whether explicit-rated content
 
 * [Cookies Policy](https://www.spotify.com/legal/cookies-policy/): Information on how we use cookies and how to manage your cookie preferences. Cookies are files saved on your phone, tablet or computer when you visit a website.
 
-[**2\. Your personal data rights and controls**](#2-your-personal-data-rights-and-controls)
--------------------------------------------------------------------------------------------
+[2\. Your personal data rights and controls](#2-your-personal-data-rights-and-controls)
+---------------------------------------------------------------------------------------
 
 Privacy laws give certain rights to individuals over their personal data.
 
@@ -78,23 +78,23 @@ You can also watch our video about [Your Privacy Controls](https://www.spotify.c
 | It’s your right to... |     | How? |
 | --- | --- | --- |
 | **Be informed** | **Be informed of the personal data we process about you and how we process it.** | We inform you:  <br><br>* through this Policy<br>* through information provided to you as you use the Spotify Service<br>* by answering your specific questions and requests when you [contact us](#11-how-to-contact-us) |
-| **Know/****Access** | **Request to know and access the personal data we process about you.** | To request a copy of your personal data from Spotify, either:  <br><br>* use the ‘Download your data’ tool in your account [Privacy Settings](https://www.spotify.com/account/privacy/), or<br>* [contact us](#11-how-to-contact-us)<br><br>  <br>When you download your data you will receive the information about your data that Spotify has to provide under applicable laws. If you would like more information about how we process your personal data, you can [contact us](#11-how-to-contact-us). |
+| **Know/****Access** | **Request to know and access the personal data we process about you.** | To request a copy of your personal data from Spotify, either:  <br><br>* use the ‘Download your data’ tool in your account Privacy Settings, or<br>* [contact us](#11-how-to-contact-us)<br><br>  <br>When you download your data you will receive the information about your data that Spotify has to provide under applicable laws. If you would like more information about how we process your personal data, you can [contact us](#11-how-to-contact-us). |
 | **Correction** | **Request that we amend or update your personal data where it’s inaccurate.** | You can edit your User Data under ‘Edit profile’ in your account or by [contacting us](#11-how-to-contact-us). |
-| **Deletion** | **Request that we delete certain of your personal data.**  <br>Please note there are situations where Spotify is unable to delete your data, for example when:  <br><br>* it’s still necessary to process the data for the purpose we collected it for<br>* we have an overriding interest in continuing to process the data, for example where we need the data to protect our services from fraud<br>* Spotify has a legal obligation to keep the data, or<br>* Spotify needs the data to establish, exercise or defend legal claims. For example, if there’s an unresolved issue relating to your account | There are several ways you can delete personal data from Spotify:  <br><br>* to remove audio content from your profile select the relevant content and choose to remove it. For example, you can remove playlists from your profile, or remove a track from your playlist<br>* to request deletion of your other personal data from Spotify (and thus close your account), follow the steps on our [support page](https://support.spotify.com/article/close-account/). This data includes your User Data, Usage Data and other data listed in [Section 3 ‘Personal data we collect about you’](#3-personal-data-we-collect-about-you)<br>* you can also [contact us](#11-how-to-contact-us) to request deletion or reach out to customer support via our [chat bot](https://support.spotify.com/contact-spotify-privacy/) |
-| **Right to Opt-Out** | **Request to opt out of the processing of your personal data for ‘sharing’ or ‘targeted advertising’ purposes, as defined under certain privacy laws.**  <br>For more information about our processing for these purposes, see the section [‘Tailored advertising controls’](#tailored-advertising-controls) below. | You can exercise your right to opt out in your account [Privacy Settings](https://www.spotify.com/account/privacy/) under ‘Tailored Ads’.  <br>If you do not have an account or are not logged in, you can also opt-out by clicking the ['Your Privacy Choices'](#optanon-toggle-info-display) link at the footer of our website. |
+| **Deletion** | **Request that we delete certain of your personal data.**  <br>Please note there are situations where Spotify is unable to delete your data, for example when:  <br><br>* it’s still necessary to process the data for the purpose we collected it for<br>* we have an overriding interest in continuing to process the data, for example where we need the data to protect our services from fraud<br>* Spotify has a legal obligation to keep the data, or<br>* Spotify needs the data to establish, exercise or defend legal claims. For example, if there’s an unresolved issue relating to your account | There are several ways you can delete personal data from Spotify:  <br><br>* to remove audio content from your profile select the relevant content and choose to remove it. For example, you can remove playlists from your profile, or remove a track from your playlist<br>* to request deletion of your other personal data from Spotify (and thus close your account), follow the steps on our support page. This data includes your User Data, Usage Data and other data listed in [Section 3 ‘Personal data we collect about you’](#3-personal-data-we-collect-about-you)<br>* you can also [contact us](#11-how-to-contact-us) to request deletion or reach out to customer support via our chat bot |
+| **Right to Opt-Out** | **Request to opt out of the processing of your personal data for ‘sharing’ or ‘targeted advertising’ purposes, as defined under certain privacy laws.**  <br>For more information about our processing for these purposes, see the section [‘Tailored advertising controls’](#tailored-advertising-controls) below. | You can exercise your right to opt out in your account Privacy Settings under ‘Tailored Ads’.  <br>If you do not have an account or are not logged in, you can also opt-out by clicking the ['Your Privacy Choices'](#optanon-toggle-info-display) link at the footer of our website. |
 | **Data portability** | **Request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party’s service.** | For information about how to exercise the right to portability, see ‘Know/Access’ above. |
 | **Not be subject to automated decision making** | **Not be subject to a decision based solely on automated decision making (decisions without human involvement), including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.** | Spotify does not carry out this type of automated decision making in the Spotify Service. |
 | **Withdrawal of consent** | **Withdraw your consent to us collecting or using your personal data.**  <br>You can do this if Spotify is processing your personal data solely based on your consent. | To withdraw your consent, you can:<br><br>* adjust the relevant control on Spotify<br>* [contact us](#11-how-to-contact-us) |
 
-#### [**Verifying requests, generally**](#verifying-requests-generally)
+#### [Verifying requests, generally](#verifying-requests-generally)
 
 To verify a consumer request to know, request to delete, and request to correct, we ask you to provide certain details related to your Spotify account. Please note, if you do not have a Spotify account we will not have enough information about you to verify your identity and respond to your requests, as we do not keep sufficient information necessary to re-identify and link you to a prior visit to the Spotify Service where data may have been collected. As such, we will be unable to verify and honor your requests.
 
-#### [**Household requests**](#household-requests)
+#### [Household requests](#household-requests)
 
 If all the members of a household make an access, correction or deletion request, we will respond as if the requests are individual requests.
 
-#### [**Tailored advertising controls**](#tailored-advertising-controls)
+#### [Tailored advertising controls](#tailored-advertising-controls)
 
 What is tailored advertising?
 
@@ -103,20 +103,20 @@ What is tailored advertising?
 
 How to control tailored advertising:
 
-* You can control tailored advertising in your account [Privacy Settings](https://www.spotify.com/account/privacy/) under 'Tailored Ads'.
+* You can control tailored advertising in your account Privacy Settings under 'Tailored Ads'.
 * If you do not have an account or are not logged in, you can also opt-out by clicking the ['Your Privacy Choices'](#optanon-toggle-info-display) link at the footer of our website
 * You can also control tailored advertising for some podcasts using the link in the episode's show description. This applies where the content provider inserts advertising into the podcast to fund it. The hosting provider, which might not be Spotify, manages these controls for the podcast.
 
-If you are 'opted out' of Tailored Ads in your [Privacy Settings](https://www.spotify.com/account/privacy/), you may still get advertising. This can include on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.
+If you are 'opted out' of Tailored Ads in your Privacy Settings, you may still get advertising. This can include on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.
 
 Appropriate age for tailored advertising:
 
 * The appropriate age for tailored advertising is determined by the country you are in and what rules apply to tailored advertising in that country. You will not receive Tailored Ads unless you have reached the appropriate age.
 * You will not be able to 'opt-in' to Tailored Ads if you are under the appropriate age.
-* You will start to receive Tailored Ads once you reach the appropriate age for your country. When this happens, you will receive a message within the Spotify Service to let you know. This message will contain a link to the [Privacy Settings](https://www.spotify.com/account/privacy/) where you can change your preferences or 'opt-out' of Tailored Ads at any time.
+* You will start to receive Tailored Ads once you reach the appropriate age for your country. When this happens, you will receive a message within the Spotify Service to let you know. This message will contain a link to the Privacy Settings where you can change your preferences or 'opt-out' of Tailored Ads at any time.
 
-[**3\. Personal data we collect about you**](#3-personal-data-we-collect-about-you)
------------------------------------------------------------------------------------
+[3\. Personal data we collect about you](#3-personal-data-we-collect-about-you)
+-------------------------------------------------------------------------------
 
 These tables set out the categories of personal data we collect from you. You can also watch our video about [Personal Data at Spotify](https://www.spotify.com/privacy).
 
@@ -151,8 +151,8 @@ We receive some of the data mentioned above from third parties. The below table 
 
 If you download the Spotify mobile app and try Spotify using a logged out user experience, we will collect limited information about your usage of the Spotify Service, including Usage Data. We do this to understand how you are accessing and using the Service. We also do this to ensure we provide the right experience for you, for example based on your country or region. If you decide to create a Spotify account to experience our service in full, then we will combine this data with your Spotify account data.
 
-[**4\. Our purpose for using your personal data**](#4-our-purpose-for-using-your-personal-data)
------------------------------------------------------------------------------------------------
+[4\. Our purpose for using your personal data](#4-our-purpose-for-using-your-personal-data)
+-------------------------------------------------------------------------------------------
 
 The table below sets out:
 
@@ -180,8 +180,8 @@ You can also watch our video about [Personal Data at Spotify](https://www.spotif
 | To keep the Spotify Service secure and to detect and prevent fraud.  <br>For example, when we analyze Usage Data to check for fraudulent use of the Spotify Service. | * User Data<br>* Street Address Data<br>* Usage Data<br>* Payment and Purchase Data |
 | To conduct research and surveys.  <br>For example, when we contact our users to ask for your feedback. | * User Data<br>* Usage Data<br>* Survey and Research Data |
 
-[**5\. Disclosing your personal data**](#5-disclosing-your-personal-data)
--------------------------------------------------------------------------
+[5\. Disclosing your personal data](#5-disclosing-your-personal-data)
+---------------------------------------------------------------------
 
 This section sets out who receives personal data which is collected or generated through your use of the Spotify Service.
 
@@ -211,10 +211,10 @@ We will only disclose the following personal data with those outlined in the tab
 
 | Categories of recipients | Categories of data you can choose to share | Reason for choosing to share |
 | --- | --- | --- |
-| Third party applications, services and devices you connect to your Spotify account | * User Data<br>* Usage Data | To connect your Spotify account, or so that you can use the Spotify Service in connection with third party applications, services or devices.  <br>Examples of such third party applications, services and devices include:<br><br>* social media applications<br>* speaker devices<br>* televisions<br>* automotive platforms<br>* voice assistants<br><br>  <br>You can see and remove many third party connections under ‘[Apps](https://www.spotify.com/account/apps/)’ in your account. |
-| Support community | * User Data | To enable you to use the [Spotify Support Community service](https://community.spotify.com/).  <br>When you register for an account on the Spotify Support Community, we’ll ask you to create a profile name. This will be publicly displayed to anyone who uses the Spotify Support Community. We’ll also display any questions or comments you post. |
+| Third party applications, services and devices you connect to your Spotify account | * User Data<br>* Usage Data | To connect your Spotify account, or so that you can use the Spotify Service in connection with third party applications, services or devices.  <br>Examples of such third party applications, services and devices include:<br><br>* social media applications<br>* speaker devices<br>* televisions<br>* automotive platforms<br>* voice assistants<br><br>  <br>You can see and remove many third party connections under ‘Apps’ in your account. |
+| Support community | * User Data | To enable you to use the Spotify Support Community service.  <br>When you register for an account on the Spotify Support Community, we’ll ask you to create a profile name. This will be publicly displayed to anyone who uses the Spotify Support Community. We’ll also display any questions or comments you post. |
 | Other Spotify users | * User Data<br>* Usage Data | To share information about your use of the Spotify Service with other Spotify users. These could include your followers on Spotify.  <br>For example, under ‘Social’ settings you can choose to share your recently played artists and your playlists on your profile. You can also choose to create or join a shared playlist with other users. Shared playlists give you social recommendations based on your listening activity. |
-| Artists and record labels | * User Data | To receive news or promotional offers from artists, record labels or other partners.  <br>You may choose to share your User Data for this purpose. You’ll always have the option to change your mind and [withdraw your consent at any time](https://www.spotify.com/account/profile/). |
+| Artists and record labels | * User Data | To receive news or promotional offers from artists, record labels or other partners.  <br>You may choose to share your User Data for this purpose. You’ll always have the option to change your mind and withdraw your consent at any time. |
 
 **Information we may disclose**
 
@@ -233,8 +233,8 @@ See this table for details of who we disclose to and why.
 | Law enforcement and other authorities, or other parties to litigation | * User Data<br>* Usage Data | When we believe in good faith it’s necessary for us to do so, for example:<br><br>* to comply with a legal obligation<br>* to respond to a valid legal process (such as a search warrant, court order, or subpoena)<br>* for our own or a third party’s justifiable interest, relating to:<br>    * national security<br>    * law enforcement<br>    * litigation (a court case)<br>    * criminal investigation<br>    * protecting someone’s safety<br>    * preventing death or imminent bodily harm |
 | Purchasers of our business | * User Data<br>* Street Address Data<br>* Usage Data<br>* Payment and Purchase Data<br>* Survey and Research Data | If we were to sell or negotiate to sell our business to a buyer or possible buyer.  <br>In this case, we may transfer your personal data to a successor or affiliate as part of that transaction. |
 
-[**6\. Data retention**](#6-data-retention)
--------------------------------------------
+[6\. Data retention](#6-data-retention)
+---------------------------------------
 
 We keep your personal data only as long as necessary to provide you with the Spotify Service and for Spotify's legitimate and essential business purposes, such as:
 
@@ -257,10 +257,10 @@ Here are some of the categories of our retention periods, and the criteria we us
     * to help ensure user safety, or
     * to protect against harmful content on our platform.
 
-This helps us investigate potential breaches of our [User Guidelines](https://www.spotify.com/legal/user-guidelines/) and [Platform Rules](https://www.spotify.com/platform-rules/). On the other hand, we will remove unlawful content if the law requires us to do so.
+This helps us investigate potential breaches of our [User Guidelines](https://www.spotify.com/legal/user-guidelines/) and Platform Rules. On the other hand, we will remove unlawful content if the law requires us to do so.
 
-[**7\. Transfer to other countries**](#7-transfer-to-other-countries)
----------------------------------------------------------------------
+[7\. Transfer to other countries](#7-transfer-to-other-countries)
+-----------------------------------------------------------------
 
 Because of the global nature of our business, Spotify transfers personal data internationally with Spotify group companies, subcontractors and partners when carrying out the activities described in this Policy.
 
@@ -271,8 +271,8 @@ We also identify and use additional protections as appropriate for each data tra
 * technical protections, such as encryption and pseudonymization
 * policies and processes to challenge disproportionate or unlawful government authority requests
 
-[**8\. Keeping your personal data safe**](#8-keeping-your-personal-data-safe)
------------------------------------------------------------------------------
+[8\. Keeping your personal data safe](#8-keeping-your-personal-data-safe)
+-------------------------------------------------------------------------
 
 We're committed to protecting our users' personal data. We put in place appropriate technical and organizational measures to help protect the security of your personal data. However, be aware that no system is ever completely secure.
 
@@ -284,16 +284,16 @@ To protect your user account, we encourage you to:
 * never share your password with anyone
 * limit access to your computer and browser
 * log out once you have finished using the Spotify Service on a shared device
-* read more detail on [protecting your account](https://support.spotify.com/article/protect-your-account/)
+* read more detail on protecting your account
 
-You can log out of Spotify in multiple places at once by using the 'Sign out everywhere' function on [your account page](http://www.spotify.com/account).
+You can log out of Spotify in multiple places at once by using the 'Sign out everywhere' function on your account page.
 
 If other individuals have access to your Spotify account, then they can access personal data, controls and the Spotify Service available in your account. For example, you might have allowed someone to use your account on a shared device.
 
 It's your responsibility to only allow individuals to use your account where you're comfortable sharing this personal data with them. Anyone else's use of your Spotify account may impact your personalized recommendations and be included in your data download.
 
-[**9\. Children**](#9-children)
--------------------------------
+[9\. Children](#9-children)
+---------------------------
 
 Note: This Policy doesn't apply to Spotify Kids unless the [Spotify Kids Privacy Policy](https://www.spotify.com/legal/kids-privacy-policy/) says so. Spotify Kids is a separate Spotify application.
 
@@ -303,7 +303,7 @@ The Spotify Service has a minimum 'Age Limit' in each country or region. The Spo
 * makes it illegal to process their personal data, or
 * requires parental consent to process their personal data
 
-We do not knowingly collect or use personal data from children under the applicable Age Limit. If you're under the Age Limit, do not use the Spotify Service, and do not provide any personal data to us. Instead, we recommend using a [Spotify Kids](http://www.spotify.com/kids) account.
+We do not knowingly collect or use personal data from children under the applicable Age Limit. If you're under the Age Limit, do not use the Spotify Service, and do not provide any personal data to us. Instead, we recommend using a Spotify Kids account.
 
 If you're a parent of a child under the Age Limit and become aware that your child has provided personal data to Spotify, [contact us](#11-how-to-contact-us).
 
@@ -311,19 +311,19 @@ If we learn that we've collected the personal data of a child under the applicab
 
 When using a shared device on the main Spotify Service, be cautious about playing or recommending any inappropriate content to individuals under 18 years old.
 
-[**10\. Changes to this Policy**](#10-changes-to-this-policy)
--------------------------------------------------------------
+[10\. Changes to this Policy](#10-changes-to-this-policy)
+---------------------------------------------------------
 
 We may occasionally make changes to this Policy.
 
 When we make material changes to this Policy, we'll provide you with prominent notice as appropriate under the circumstances. For example, we may display a prominent notice within the Spotify Service or send you an email or device notification.
 
-[**11\. How to contact us**](#11-how-to-contact-us)
----------------------------------------------------
+[11\. How to contact us](#11-how-to-contact-us)
+-----------------------------------------------
 
 For any questions or concerns about this Policy, contact our Data Protection Officer any one of these ways:
 
-* email [privacy@spotify.com](mailto:privacy@spotify.com)
+* email privacy@spotify.com
 * write to us at: Spotify USA Inc., 150 Greenwich Street, Floor 62, New York, NY 10007, USA
 
 Spotify USA Inc. is the data controller of personal data processed under this Policy.
