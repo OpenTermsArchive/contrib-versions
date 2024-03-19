@@ -3,32 +3,34 @@ GitLab Privacy Statement
 
 * * *
 
-Last updated: June 10, 2022
+Last updated: March 19, 2024
+
+To see our [California Consumer Privacy Act (CCPA) Notice at Collection](https://about.gitlab.com/privacy/us-state-privacy-rights-and-disclosures/#California), please click on the link or see the “U.S. State Privacy Rights” section below.
 
 ### Introduction
 
 At GitLab, we take the privacy and security of your information seriously. This privacy statement (“Privacy Statement”) will explain how GitLab B.V. and GitLab, Inc. ("GitLab", "we", "our", "us") handle your personal data. "Personal Data," as used in this Privacy Statement, is information that identifies or can reasonably be linked directly or indirectly to an identifiable person. The privacy practices and standards detailed in this Privacy Statement apply to all data subjects globally, unless specifically noted otherwise. In particular, this Privacy Statement will touch on the following sections:
 
-* [What Personal Data does GitLab collect about me?](https://about.gitlab.com/privacy/#what-personal-data-does-gitlab-collect-about-me)
+* [What Personal Data does GitLab Collect about Me?](https://about.gitlab.com/privacy/#what-personal-data-does-gitlab-collect-about-me)
     
-* [What Personal Data is Not Collected by GitLab? pas ?](https://about.gitlab.com/privacy/#what-personal-data-is-not-collected-by-gitlab)
+* [What Personal Data is Not Collected by GitLab?](https://about.gitlab.com/privacy/#what-personal-data-is-not-collected-by-gitlab)
     
-* [How does GitLab use my Personal Data?](https://about.gitlab.com/privacy/#how-does-gitlab-use-my-personal-data)
+* [How Does GitLab Use My Personal Data and Our Legal Basis for Processing?](https://about.gitlab.com/privacy/#how-does-gitlab-use-my-personal-data-and-our-legal-basis-for-processing)
     
-* [With Whom does GitLab share my Personal Data ?](https://about.gitlab.com/privacy/#with-whom-does-gitlab-share-my-personal-data)
+* [With Whom does GitLab Share My Personal Data ?](https://about.gitlab.com/privacy/#with-whom-does-gitlab-share-my-personal-data)
     
-* [How does GitLab Secure my Personal Data?](https://about.gitlab.com/privacy/#how-does-gitLab-secure-my-personal-data)
+* [How does GitLab Secure My Personal Data?](https://about.gitlab.com/privacy/#how-does-gitLab-secure-my-personal-data)
     
-* [What are my rights and choices regarding Personal Data?](https://about.gitlab.com/privacy/#what-are-my-rights-and-choices-regarding-personal-data)
+* [What are My Rights and Choices Regarding Personal Data?](https://about.gitlab.com/privacy/#what-are-my-rights-and-choices-regarding-personal-data)
     
 * [U.S. State Privacy Rights](https://about.gitlab.com/privacy/#us-state-privacy-rights)
     
-* [Other important privacy information](https://about.gitlab.com/privacy/#other-important-privacy-information)
+* [Other Important Privacy Information](https://about.gitlab.com/privacy/#other-important-privacy-information)
     
 
-This Privacy Statement applies to the GitLab websites ("Websites"), GitLab.com ("SaaS"), Self-managed ("Self-managed"), and additional software products and services; collectively "Services.
+This Privacy Statement applies to the GitLab websites ("Websites"), GitLab.com and [GitLab Dedicated](https://about.gitlab.com/dedicated/) ("SaaS"), Self-managed ("Self-managed"), and additional software products and services; collectively "Services.
 
-What Personal Data does GitLab collect about me?
+What Personal Data does GitLab Collect about Me?
 ------------------------------------------------
 
 The categories of Personal Data collected by GitLab change depending on the Services you use and whether those Services are free or paid. We have described below which Services correlate with the processing in each Personal Data category.
@@ -37,55 +39,59 @@ The categories of Personal Data collected by GitLab change depending on the Serv
 
 We collect the Personal Data you provide to us, for example:
 
-_Account Information:_ When you register for an account with GitLab, we collect information that identifies you such as your name, username, email address and password. This is collected for free and paid users of the SaaS product.
+_Account Information:_ When you register for an account with GitLab, we collect information that identifies you such as your name, username, email address, country and/or region, and password. This is collected for free and paid users of the SaaS product.
 
-_Profile Information :_ We collect information that you voluntarily provide in your user profile; this may include your public avatar (which may be a photo), additional email addresses, company/organization name, job title, country, social media handles, and biography. Please note this information may be visible to other users of the Services and to the public depending on the privacy setting you apply. This is collected for free and paid users of the SaaS product.
+_Profile Information:_ We collect information that you voluntarily provide in your user profile; this may include your public avatar (which may be a photo), additional email addresses, company/organization name, job title, country, social media handles, and biography. Please note this information will be visible to other users of the Services and to the public, although you can limit the visibility of certain profile fields through your account and profile privacy settings. This is collected for free and paid users of the SaaS product.
 
-_Payment Information :_ If you purchase a paid subscription from GitLab, we will collect payment information from you that may include your name, billing address and credit card or bank information. We may also use your credit card information to verify your identity and prevent abuse of our pipelines. Please note that GitLab does not directly process or store your entire credit card number, but we do direct that information to our third-party payment processors for processing. This is collected for paid users of the Self-managed and SaaS products.
+_Payment and Identity Verification Information:_ If you purchase a paid subscription from GitLab, we will collect payment information from you that may include your name, billing address and credit card or bank information. We may also use your credit card information and telephone number to verify your identity and prevent abuse of our pipelines. Please note that GitLab does not directly process or store your entire credit card number, but we do direct that information to our third-party payment processors for processing. This is collected for paid users of the Self-managed and SaaS products.
 
-_Marketing Contact Information :_ If you request GitLab to contact you, or sign up for marketing materials or events, GitLab may collect information such as name, address, email address, telephone number, company name, and size of company. This may be collected through the Websites as well as through the use of the Self-managed or SaaS products.
+_Contact Information:_ If you request GitLab to contact you, or sign up for marketing materials, events, or participate in user research and development, GitLab may collect information such as name, address, email address, telephone number, company name, and size of company. This may be collected through the Websites, such as through our live video and chat function on our marketing pages or during account registration.
 
-_Licensee Information :_ We collect licensee name, email address, and similar information associated with the individual that receives a license key for the paid users of the Self-managed product.
+_Licensee Information:_ We collect licensee name, email address, and similar information associated with the individual that receives a license key for the paid users of the Self-managed product.
 
-_Content you provide through the use of the Services :_ Examples of content we collect and store include but are not limited to: the summary and description added to an issue, your repositories, commits, project contributions, profile metadata, activity data, and comments. Content also includes any code, files and links you upload to the Services. This is collected for the free and paid users of the SaaS product.
+_Content you provide through the use of the Services:_ Examples of content we collect and store include but are not limited to: the summary and description added to an issue, your repositories, commits, project contributions, profile metadata, activity data, comments, and any inputs and outputs generated by Artificial Intelligence (“AI”) and Machine-Learning (“ML”) powered features. Content also includes any code, files and links you upload to the Services. This is collected for the free and paid users of the SaaS product.
 
-_Customer Support and Professional Services :_ If you contact GitLab customer support or receive professional services, we will collect information about you related to your account and to the requests you are making or the services being provided. Customer Support information is collected through the Websites, such as the [GitLab Community Forum](https://forum.gitlab.com/) and the [GitLab Support Portal](https://support.gitlab.com/hc/en-us).
+_Customer Support and Professional Services Information:_ If you contact GitLab customer support or receive professional services, we will collect information about you related to your account and to the requests you are making or the services being provided. Customer Support information is collected through the Websites, such as the [GitLab Community Forum](https://forum.gitlab.com/) and the [GitLab Support Portal](https://support.gitlab.com/hc/en-us). For [Community Programs](https://handbook.gitlab.com/handbook/marketing/developer-relations/community-programs/), support will be provided through the Gitlab [Service Desk](https://docs.gitlab.com/ee/user/project/service_desk/index.html).
 
-_Call Recordings :_ We may record and transcribe sales calls hosted on various videoconferencing technologies to enable our sales and support teams to share conversational insights, create training and presentations, and improve their internal processes.
+_Call Recordings:_ We may record and transcribe GitLab webinars, trainings, and online events. In addition, we may record and transcribe sales calls hosted on various videoconferencing technologies to enable our sales and support teams to share conversational insights, create training and presentations, and improve their internal processes.
 
-_Other Content You Submit :_ We may also collect other content that you submit to our Services. For example: feedback, comments and blog posts, or when you participate in any interactive features, surveys, contests, promotions, prize draws, activities or events. When you participate in interactive channels, we may collect and process information for demographic analysis. Such collection is not tied to any specific products, but may be collected through the Websites.
+_Other Content You Submit:_ We may also collect other content that you submit to our Services. For example: feedback, comments and blog posts, or when you participate in any interactive features, surveys, contests, promotions, prize draws, activities or events. When you participate in interactive channels, we may collect and process information for demographic analysis. Such collection is not tied to any specific products, but may be collected through the Websites.
 
-### Information About Your Use of the Services We Collect Automatically
+### Information about Your Use of the Services We Collect Automatically
 
 We may collect certain Personal Data automatically through your use of the Services, for example:
 
-_Device Information and Identifiers:_ When you access and use our Services, we automatically collect information about your device, which may include: device type, your device operating system, browser type and version, language preference, IP address, hardware identifiers, and mobile IDs. This information may be collected through any use of the Services.
+_Device Information and Identifiers:_ When you access and use our Services, we automatically collect information about your device, which may include: device type, your device operating system, browser type and version, language preference, IP address, hardware identifiers, and mobile IDs. We may also derive your approximate location from this information, including country, city, state and postal code. This information may be collected through any use of the Services.
 
-_Subscription Data:_ We may automatically collect information about the number of active users, licensing timetables, historical user count, and IP address. This is collected for paid Self-managed and SaaS instances. Subscription Data details can be found in the [Metrics Dictionary](https://metrics.gitlab.com/?q=subscription).
+_Subscription Data:_ We may automatically collect information about the number of active users, licensing timetables, historical user count, and IP address. This is collected for paid Self-managed and SaaS products. Subscription Data details can be found in the [Metrics Dictionary](https://metrics.gitlab.com/?q=subscription).
 
-_Services Usage Data:_ Services Usage Data is broken into two categories: Optional Data and Operational Data. Optional Data is aggregated metrics regarding activity and feature usage that provide insights into the success of stages and features. Operational Data is aggregated metrics that track how value is delivered through the use of the Services and provide insights into optimal customer implementation. Both categories of Services Usage Data can be tied to the instance hostname, but the information does not contain any other individual user data. This is collected for the free and paid users of the Self-managed and SaaS products. For more information about the data collected and how to set your preferences, please visit [Services Usage Data](https://about.gitlab.com/handbook/legal/privacy/customer-product-usage-information/).
+_Customer Product Usage Information:_ We may automatically collect Customer Product Usage Information to gather insights into the success of stages and features, track how value is delivered through the use of the Services, help generate optimal customer implementation of the Services, and understand end-to-end user behavior. Depending on the category of Customer Product Usage Information collected, the metrics are stored in an aggregated and/or pseudonymized format. Please see our [Customer Product Usage Information](https://handbook.gitlab.com/handbook/legal/privacy/customer-product-usage-information/) page for more details regarding the purposes, de-identification, data elements, configuration and opt-out instructions for Customer Product Usage Information. This is collected for the free and paid users of the Self-managed and SaaS products.
 
-_Events Data:_ In addition to Services Usage Data, GitLab also uses event analytics, such as browsing duration, page clicks and page views, in a pseudonymized form to gain insights into end-to-end user behavior. This is collected for SaaS and Self-managed products.
+_Website Usage Data:_ When you visit our Websites, we automatically log information about how you interact with the sites, such as the referring site, date and time of visit, and the pages you have viewed or links you have clicked. For our Websites, GitLab uses session replay, which captures a de-identified log of the marketing Websites that you visit.
 
-_Website Usage Data:_ When you visit our Websites, we automatically log information about how you interact with the sites, such as the referring site, date and time of visit, and the pages you have viewed or links you have clicked.
+_Cookies and Similar Tracking Technologies:_ GitLab uses cookies and similar technologies to provide functionality, such as storing your settings, and to recognize you as you use our Services. In addition, we use cookies to gather information to provide interest-based advertising which is tailored to you based on your online activity. Please review our [Cookies Policy](https://about.gitlab.com/privacy/cookies/) to learn about our practices and the controls we provide you.
 
-_Cookies and Similar Tracking Technologies:_ GitLab uses cookies and similar technologies to provide functionality, such as storing your settings, and to recognize you as you use our Services. In addition, we use cookies to gather information to provide interest-based advertising which is tailored to you based on your online activity. Please review our [Cookie Policy](https://about.gitlab.com/privacy/cookies/) to learn about our practices and the controls we provide you.
+_Email Engagement Information:_ When we send you emails, they may include technology such as a web beacon, that tells us your device type, email client, and whether you have received and opened an email, or clicked on any links contained in the email.
 
-_Email marketing:_ When we send you emails, they may include technology such as a web beacon, that tells us your device type, email client, and whether you have received and opened an email, or clicked on any links contained in the email.
-
-_Buttons, tools, and content from other companies:_ The Services may include links or buttons to third-party services such as Facebook and Twitter. We may collect information about your use of these features. In addition, when you see or interact with these buttons, tools, or content, some information from your browser may automatically be sent to the other company. Please read that company’s privacy statement for more information.
+_Third-Party Integrations:_ The Services allow for integrations with third-party git applications, such as GitPod, or third-party extensions, such as those in the Visual Studio code marketplace. Further, the Services may contain buttons, links, tools and content from third-party services, such as Meta and X. We may collect information about your use of these integrated applications and extensions, and when you see or interact with these integrations some information may be automatically sent to these third-party companies. However, any third-party integrations’ policies and procedures are not controlled by GitLab, and this Privacy Statement does not cover how third-party integrations use your information. We recommend you read the privacy statements of any third-party companies before connecting to or using their applications or services.
 
 ### Information from Third-Parties and Partners
 
 We may collect Personal Data from other parties in the following ways:
 
-_Vendors and Partners:_ We may receive information about you from third-parties such as vendors, resellers, partners, or affiliates. For example, we receive information from our resellers about you and your orders, or we may supplement the data we collect with demographic information licensed from third-parties in order to personalize the Services and our offers to you. Likewise, our sales, marketing, and recruiting teams may receive access to third-party databases containing information to enrich business contacts and other corporate data, or we may receive social listening data from companies that monitor public posts.
+_Vendors and Partners:_ We may receive information about you from third-parties such as vendors, resellers, partners, or affiliates. For example, we receive information from our resellers about you and your orders, or we may supplement the data we collect with demographic information licensed from third-parties in order to personalize the Services and our offers to you. Likewise, our sales, marketing, and recruiting teams may receive access to third-party databases containing information to enrich and cleanse business contacts and other corporate data, which may include your email, phone number, and general geographic location through reverse IP lookup services. We may also receive social listening data from companies that monitor public social media posts.
 
-_Third-Party sign-in services:_ GitLab allows you to sign up for/in to our Services using third-party accounts, such as Facebook or Google. When you give permission for this to happen, GitLab will receive information about you from your third-party account, such as name, email address, location and demographic information.
+_Third-Party Services:_ GitLab allows you to sign up for/in to our Services using third-party accounts, such as Meta or Google. When you give permission for this to happen, GitLab will receive information about you from your third-party account, such as name, email address, location and demographic information. In addition, GitLab allows you to connect the Services through third-party applications, like Jira and Slack. As part of this interaction, third-party applications may send Personal Data to GitLab in accordance with the privacy settings of the third-party service. This Personal Data may include contact information, location, chat commands, and information related to your GitLab projects.
 
-_Other users of the Services:_ Other users of the Services may provide information about you when they submit issues and comments, or we may receive information when you are designated as a representative or administrator on your company's account.
+_Other Users of the Services:_ Other users of the Services may provide information about you when they submit issues and comments, or we may receive information when you are designated as a representative or administrator on your company's account.
 
 When you are asked to provide personal data, you may decline. And you may use web browser or operating system controls to prevent certain types of automatic data collection. But if you choose not to provide or allow information that is necessary for certain products or features, those products or features may not be available or function correctly.
+
+### Information Processed by AI-Powered Features
+
+When you use the [GitLab Duo](https://about.gitlab.com/gitlab-duo/) suite of AI capabilities, including [Code Suggestions](https://docs.gitlab.com/ee/user/project/repository/code_suggestions/index.html), [Suggested Reviewers](https://docs.gitlab.com/ee/user/project/merge_requests/reviews/index.html#suggested-reviewers), and [other AI/ML](https://docs.gitlab.com/ee/user/ai_features.html) features, your Personal Data will be processed in accordance with this Privacy Statement.
+
+To provide these features, GitLab may transmit your code, supporting contextual information, and other prompts you submit to the Services to third-parties, such as private code modeling service providers. Further, GitLab may collect AI prompts and output to debug and troubleshoot the services and enforce our [Website Terms of Use](https://handbook.gitlab.com/handbook/legal/policies/website-terms-of-use/). We may also collect [first-party usage data](https://docs.gitlab.com/ee/user/ai_features.html#telemetry) related to Duo features for the purposes of identifying and developing product improvements and assessing features engagement. However, we will not use your AI-inputs to train any language models without your instruction or prior consent. This data may be collected in both the SaaS and Self-managed products where AI-features are enabled.
 
 What Personal Data is Not Collected by GitLab?
 ----------------------------------------------
@@ -96,97 +102,143 @@ GitLab does not intentionally collect the Personal Data of individuals that are 
 
 If you are a child under the age of 13, you may not have an account. With the exception of Educational Licenses, GitLab does not knowingly collect information from, or direct any of our Services to, children under 13. If we learn or have reason to suspect that a user is under the age of 13, we will close the child's account.
 
-How does GitLab use my Personal Data?
--------------------------------------
+How does GitLab Use My Personal Data and Our Legal Basis for Processing?
+------------------------------------------------------------------------
 
-GitLab uses your Personal Data for the following purposes:
+GitLab collects and processes each category of Personal Data for the purposes listed in the tables below.
 
-* To create your account, identify and authenticate your access to the Services and provide you with the Services you have requested;
-* To process your payment for the Services you have purchased;
-* To understand how our Services are used and to improve our Services;
-* To provide personalized experiences;
-* To conduct user research and development;
-* To send you important information about the Services;
-* To send you information you have requested;
-* To create digital productions and manage events;
-* To provide trainings and learning opportunities;
-* To enable partners to register and track deals;
-* To provide workload and code review recommendations through machine-learning;
-* To respond to your requests for customer support; - To improve the security of and troubleshoot our Services, as necessary to perform the contract governing your use of our applications or to communicate with you;
-* To detect, prevent, or otherwise address fraud and abuse to protect you, GitLab, and third-parties;
-* To enforce the legal terms that govern our Services;
-* To comply with our legal obligations;
-* To protect the rights, safety and property of GitLab, you, or any third-party; and
-* For other purposes, for which we obtain your consent.
+When our processing is subject to international laws, including but not limited to the General Data Protection Regulation ("GDPR") that governs individuals located in the European Economic Area ("EEA"), we have attributed one of the legal bases enumerated under the GDPR to the “Purpose of Processing” activity. To the extent a jurisdiction allows for different legal bases than those enumerated under GDPR, we will apply only those appropriate legal bases to the purposes of processing as required under applicable law.
 
-### Legal Basis for the Processing of your Personal Data
+### Performance of a Contract:
 
-When our processing is subject to international laws, including but not limited to the General Data Protection Regulation ("GDPR") that governs individuals located in the European Economic Area ("EEA"), we collect and process your Personal Data using one or more of the following legal bases set out by applicable law:
+We use your Personal Data to provide the Services you have subscribed to, and to complete and administer the contract you have entered into with GitLab, which includes the [Subscription Agreement](https://handbook.gitlab.com/handbook/legal/subscription-agreement/), the [Website Terms of Use](https://handbook.gitlab.com/handbook/legal/policies/website-terms-of-use/), event and training agreements, and any agreement to process payment information. The purposes of processing and the categories of information used under this lawful basis are described below:
 
-_Performance of a contract:_ We use your Personal Data to provide the Services you have subscribed to, and to complete and administer the contract you have entered into with GitLab, which includes the [Subscription Agreement](https://about.gitlab.com/handbook/legal/subscription-agreement/), the [Website Terms of Use](https://about.gitlab.com/handbook/legal/policies/website-terms-of-use/), and any agreement to process payment information.
+| Purpose of Processing | Personal Data Category |
+| --- | --- |
+| To create your account, identify and authenticate your access to the Services and provide you with the Services you have requested | * Account Information<br>* Profile Information<br>* Payment and Identity Verification Information<br>* Content you provide through the use of the Services |
+| To process your payment for the Services you have purchased | * Payment and Identity Verification Information<br>* Licensee Information<br>* Subscription Data |
+| To provide [Customer Success Services](https://about.gitlab.com/services/customer-success-services/) for the successful adoption of the Services | * Account Information<br>* Licensee Information<br>* Content you provide through the use of the Services<br>* Subscription Data<br>* Customer Product Usage Information |
+| To conduct user research and development | * Contact Information |
+| To send you important information, such as notifications about changes to the Services | * Account Information<br>* Profile Information<br>* Contact Information<br>* Content you provide through the use of the Services |
+| To provide you a forum to comment on or discuss the Services | * Account Information<br>* Profile Information<br>* Customer Support and Professional Services Information |
+| To create digital productions and to manage online or in-person events | * Contact Information<br>* Other Content You Submit |
+| To provide trainings and learning opportunities | * Contact Information<br>* Other Content You Submit |
+| To enable partners to register, track deals and provide support, or to share information with our partners when you attend a joint event | * Account Information<br>* Subscription Information |
+| To provide code workload and code review recommendations and other automated analysis of your contributions through AI and machine-learning | * Content you provide through the use of the Services |
+| To respond to your requests for customer support | * Content you provide through the use of the Services<br>* Customer Support and Professional Services Information |
+| To improve the security of and troubleshoot our Services, as necessary to perform the contract governing your use of our applications or to communicate with you | * Account Information<br>* Profile Information<br>* Content you provide through the use of the Services<br>* Customer Support and Professional Services Information |
+| To enforce the Terms of Use, Acceptable Use Policy and other legal terms that govern our Services | * Account Information<br>* Profile Information<br>* Content you provide through the use of the Services |
 
-_Legitimate Interests:_ We use your Personal Data for our legitimate interests, such as to provide you with relevant content, communicate with business leads, improve our products and services, and for administrative, security, fraud prevention and legal purposes. You may object to the processing of your Personal Data for these purposes at any time.
+### Consent:
 
-_Consent:_ We may use your Personal Data, with your consent, for specific purposes such as marketing, surveys, call recordings, and research. You may withdraw your consent for the specific purpose or object to the processing of your Personal Data at any time.
+We may use your Personal Data, with your consent, for specific purposes such as marketing, surveys, call recordings, and research. You may withdraw your consent for the specific purpose or object to the processing of your Personal Data at any time. The purposes of processing and the categories of information used under this lawful basis are described below:
 
-_Compliance with a Legal Obligation:_ We may use your Personal Data in connection with legal claims, regulatory compliance, and audits.
+| Purpose of Processing | Personal Data Category |
+| --- | --- |
+| To understand how our Services are used and to improve our Services | * Other Content You Submit |
+| To provide [Customer Success Services](https://about.gitlab.com/services/customer-success-services/) for the successful adoption of the Services | * Profile Information |
+| To provide personalized experiences through the Websites and Services and manage our use of tracking technologies | * Cookies and Similar Tracking Technologies |
+| To conduct user research and development | * Account Information<br>* Content you provide through the use of the Services |
+| To send you information you have requested, such as information requested through our live-chat function | * Contact Information<br>* Device Information and Identifiers<br>* Cookies and Similar Tracking Technologies |
+| To send you advertising, marketing content, offers, promotions, newsletters, surveys or other information through email, phone call, and third-party messenger applications | * Contact Information |
+| To create digital productions and to manage online or in-person events | * Call Recordings |
+| To provide trainings and learning opportunities | * Call Recordings |
+| To enable partners to register, track deals and provide support, or to share information with our partners when you attend a joint event | * Contact Information<br>* Customer Support and Professional Services Information |
 
-With Whom does GitLab share my Personal Data?
+### Compliance with a Legal Obligation:
+
+We may use your Personal Data in connection with legal claims, regulatory compliance, and audits. The purposes of processing and the categories of information used under this lawful basis are described below:
+
+| Purpose of Processing | Personal Data Category |
+| --- | --- |
+| To create your account, identify and authenticate your access to the Services and provide you with the Services you have requested | * Device Information and Identifiers |
+| To process your payment for the Services you have purchased | * Device Information and Identifiers |
+| To detect, prevent, or otherwise address fraud and abuse to protect you, GitLab, and third-parties | * Account Information<br>* Profile Information<br>* Payment and Identity Verification Information<br>* Content you provide through the use of the Services<br>* Device Information and Identifiers |
+| To comply with our legal obligations, including export, privacy and security regulations | * Account Information<br>* Profile Information<br>* Payment and Identity Verification Information<br>* Content you provide through the use of the Services<br>* Device Information and Identifiers |
+| To protect the rights, safety and property of GitLab, you, or any third-party | * Account Information<br>* Profile Information<br>* Payment and Identity Verification Information<br>* Content you provide through the use of the Services<br>* Device Information and Identifiers |
+
+### Legitimate Interests:
+
+We rely on our legitimate interests or the legitimate interests of a third-party, such as our users, where they are not outweighed by your interests or fundamental rights and freedoms. You may object to the processing of your Personal Data for these purposes at any time. The purposes of processing and the categories of information used under this lawful basis are described below:
+
+| Purpose of Processing | Personal Data Category |
+| --- | --- |
+| To understand how our Services are used and to improve our Services | * Customer Product Usage Information |
+| To provide [Customer Success Services](https://about.gitlab.com/services/customer-success-services/) for the successful adoption of the Services | * Email Engagement Information |
+| To administer and maintain our Websites | * Website Usage Data<br>* Cookies and Similar Tracking Technologies (strictly necessary) |
+| To send you important information, such as notification about changes to the Services | * Email Engagement Information |
+| To send you information you have requested, such as information requested through our live-chat function | * Email Engagement Information<br>* Website Usage Data |
+| To send you advertising, marketing content, offers, promotions, newsletters, surveys or other information through email, phone call, and third-party messenger applications | * Email Engagement Information |
+| To provide you a forum to comment on or discuss the Services | * Other Content You Submit<br>* Website Usage Data |
+| To provide search indexing of user profiles and contributions | * Account Information<br>* Profile Information |
+| To create digital productions and to manage online or in-person events | * Device Information and Identifiers<br>* Website Usage Data |
+| To provide trainings and learning opportunities | * Device Information and Identifiers<br>* Website Usage Data |
+| To provide code workload and code review recommendations and other automated analysis of your contributions through AI and machine-learning | * Customer Product Usage Information |
+
+With Whom does GitLab Share My Personal Data?
 ---------------------------------------------
 
-_Sharing with Users and the Public:_ We may share your Personal Data with other users of the Services and with the public if you choose to make your SaaS Profile public. You have control over what information is public. To change your settings, go to [User Settings](https://gitlab.com/-/profile) in your profile. You should also be aware that any information you share as part of a project, blog, website etc. may be publicly available and you should consider this carefully when interacting with the Services.
+We may share each of the categories of Personal Data we collect with the types of third-parties described below, for the following business purposes:
+
+_Sharing with Users and the Public:_ We may share your Personal Data with other users of the Services and with the public if you choose to make your SaaS Profile public. You have control over what information is public; however, your name and username will always be displayed. If you do not want to disclose your real name, please use a pseudonym or other alias in your profile and username. To change your settings, go to [User Settings](https://gitlab.com/-/profile) in your profile. You should also be aware that any information you share as part of a project, blog, website etc. may be publicly available and you should consider this carefully when interacting with the Services. Also, we may collect and share public community contribution metrics as part of our [Evangelist Program](https://handbook.gitlab.com/handbook/marketing/developer-relations/evangelist-program/).
 
 _Sharing with Managed Accounts and Administrators:_ If you have created a GitLab account with your corporate email address, we may share your Personal Data with your Company if your Company enters into a commercial relationship with GitLab. If this happens, then your use of the software and your account is subject to the terms and any data protection agreement between your Company and GitLab.
 
 In the event you change the email address on your account from a corporate email address to a personal email address and, thereafter, your Company enters into a commercial relationship with GitLab, your Personal Data related to that account will not be shared with your Company. GitLab will not link an account to a Company based on retroactive use of a corporate email.
 
-In addition, if you choose to become a member of a project, your username, email address, IP address, the date when access was granted, the date when access expires, and your access role will be shared with the group owners of that project.
+In addition, if you choose to become a member of a group, your username, email address, IP address, the date when access was granted, the date when access expires, your access role, and audit logs containing information related to your actions in the group will be shared with the owners of that group.
 
-_Sharing with Service Providers:_ We share your Personal Data with our service providers. These are companies who provide services on our behalf, such as hosting our Services, marketing, advertising, social, analytics, support ticketing, credit card processing, security and other such similar services. These companies are subject to contractual requirements that govern the security and confidentiality of your information.
+_Sharing with Service Providers:_ We share your Personal Data with our service providers. These are companies who provide services on our behalf, including in the areas of cloud hosting, marketing, advertising, ad measurement, social engagement, analytics, support ticketing, credit card processing, AI and ML, security, and other such similar services. These companies are subject to contractual requirements that govern the security and confidentiality of your information.
 
-For example, we use analytics providers, such as Google Analytics, to help us understand the operation and performance of our Services. To learn about how Google uses and shares data it collects through its services, please visit [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). In addition, please visit our [Sub-Processors page](https://about.gitlab.com/privacy/subprocessors/#third-party-sub-processors) to see the list of our Sub-Processors that we use in order to provide customer support and host the Services.
+For example, we use analytics providers, such as Google Analytics and Google Signals, to help us understand the operation and performance of our Services and Stripe for payment, analytics, and other business services.. To learn about how Google uses and shares data it collects through its services, please visit [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). You can learn more about Stripe and its processing activities via their privacy policy at stripe.com/privacy. In addition, please visit our [Sub-Processors page](https://about.gitlab.com/privacy/subprocessors/#third-party-sub-processors) to see the list of our Sub-Processors that we use in order to provide customer support, host the Services, and provide key product features.
 
 _Sharing with Partners and Resellers:_ GitLab works with third-parties who provide sales, consulting, support and technical services for our Services. Where permitted and with your consent (if required), we may share your data with these partners and resellers.
 
 _Sharing with Affiliated Companies:_ GitLab will share information collected with [companies owned and operated by us](https://about.gitlab.com/company/visiting/).
 
-_Sharing for Fraud and Prevention Abuse:_ We may share your information when we have a good faith belief that the disclosure is necessary to prevent fraud, abuse of our services, defend against attacks, and to protect the safety of GitLab and our users.
+_Sharing for Fraud and Prevention Abuse:_ We may share your information when we have a good faith belief that the disclosure is necessary to prevent fraud, abuse of our services, defend against attacks, and to protect the safety of GitLab and our users. For example, we may share your name and phone number with service providers to facilitate an identity verification call or SMS text for fraud prevention.
 
 _Law Enforcement:_ GitLab may disclose Personal Data or other information we collect about you to law enforcement if required in response to a valid subpoena, court order, search warrant, a similar government order, or when we believe in good faith that disclosure is necessary to comply with our legal obligations, to protect our property or rights, or those of third-parties or the public at large.
 
 _Merger or Acquisition:_ We may share your Personal Data if we are involved in a merger, sale, or acquisition of corporate entities or business units. If any such change of ownership happens, we will ensure that it is under terms that preserve the confidentiality of your Personal Data, and we will notify you on our website or by email before any transfer of your Personal Data.
 
-### Sharing Personal Data across national borders
+### Sharing Personal Data Across National Borders
 
 Our Services are hosted in the United States and information we collect will be stored and processed on our servers in the United States. Our employees, contractors, affiliated organizations, service providers, and sub-processors that process Personal Data may be located in the United States or other countries outside of your home country. If you reside in the EEA, United Kingdom, or Switzerland, and we transfer information about you to a jurisdiction that has not been found by the European Commission to have adequate data protections, we will use available safeguards and legal mechanisms to help ensure your rights and protections, including using Standard Contractual Clauses or obtaining your consent.
 
-How does GitLab Secure my Personal Data?
+For our customers whose use of the GitLab Websites and Services involves the processing of Personal Data from Japan, GitLab will transfer Personal Data originating in Japan to both its EEA and non-EEA affiliates, such as GitLab, Inc. in the United States. To make this transfer, GitLab relies on the Japan Personal Information Protection Commision’s adequacy decisions about the Personal Data protection system of the EEA and the United Kingdom, or the transfer will be made in accordance with our intra-company data transfer agreements that provide for obligations equivalent to those as stated under the APPIJ.
+
+How does GitLab Secure My Personal Data?
 ----------------------------------------
 
-We work hard to protect your Personal Data. We employ administrative, technical, and physical security controls where appropriate, to protect your information. For more information on our security practices please see: [Technical and Organizational Security Measures for GitLab.com](https://handbook.gitlab.com/handbook/security/security-assurance/technical-and-organizational-measures/).
+We work hard to protect your Personal Data. We employ administrative, technical, and physical security controls where appropriate, to protect your information from unauthorized access or destruction. For more information on our security practices please see: [Technical and Organizational Security Measures for GitLab.com](https://handbook.gitlab.com/handbook/security/security-assurance/technical-and-organizational-measures/).
+
+Except to host the Services, GitLab does not process Personal Data in private groups or projects unless the following situations arise: to maintain security or to remediate a security incident; to scan for malware and vulnerabilities that violate the [Website Terms of Use](https://handbook.gitlab.com/handbook/legal/policies/website-terms-of-use/); to comply with our legal obligations; to ensure the availability of the Services; to provide support to a repository owner upon request; or on the basis of your consent.
 
 ### Data Retention
 
 In order to protect your Personal Data, GitLab will only retain your Personal Data for as long as your account is active or as needed to perform our contractual obligations, provide you the Services, comply with legal obligations, resolve disputes, preserve legal rights, or enforce our agreements.
 
-GitLab reserves the right to delete inactive accounts, projects, namespaces, and associated content. GitLab may deem an account, project, or namespace inactive based on various criteria, including, but not limited to, the account creation date, the last time there was a valid log-in, and the date of the last contribution. If we plan to delete your account or projects, we will provide advance notice by sending a message to the email address registered to your account. GitLab encourages you to utilize your account on occasion to avoid the risk of being deemed inactive.
+GitLab reserves the right to delete inactive accounts, projects, namespaces, and associated content. GitLab may deem an account, project, or namespace inactive based on various criteria, including, but not limited to, the account creation date, the last time there was a valid log-in, and the date of the last contribution. If we plan to delete your account or projects, we will provide advance notice by sending a message to the email address registered to your account. GitLab encourages you to utilize your account on occasion to avoid the risk of being deemed inactive. GitLab may also delete inactive or weak SSH keys to help keep your account safe. If you use GitLab’s chatbot feature on our Websites, a transcript of your live chat will be retained for 12-months.
 
-What are my rights and choices regarding Personal Data?
+What are My Rights and Choices Regarding Personal Data?
 -------------------------------------------------------
 
 You have the right to access, correct, restrict or delete your Personal Data, and to port your Personal Data to another company. While these rights may vary by jurisdiction, GitLab provides you with the same rights and choices, no matter where you live. We provide these rights free of charge unless your requests are manifestly unfounded and excessive.
 
 You may exercise your choices and rights as follows:
 
-_To opt out of email marketing:_ You may opt-out of email marketing by clicking the “unsubscribe” link located at the bottom of any marketing email you receive or by visiting our [preference center](https://about.gitlab.com/company/preference-center/) and unsubscribing. You may continue to receive transactional email messages about your account and the Service after you have unsubscribed.
+_To opt out of marketing communications:_ You may opt-out of email marketing by clicking the “unsubscribe” link located at the bottom of any marketing email you receive or by visiting our [preference center](https://about.gitlab.com/company/preference-center/) and unsubscribing. You may opt-out of telemarketing by asking our call agent to place you on our Do-Not-Call list or by visiting our [preference center](https://about.gitlab.com/company/preference-center/) and unsubscribing. You may opt-out of messenger application communications, such as WhatsApp, by making a request through an in-app message or visiting our [preference center](https://about.gitlab.com/company/preference-center/) and unsubscribing from telemarketing. You may continue to receive transactional email messages about your account and the Service after you have unsubscribed.
 
-_To opt-out of Interest-based advertising:_ If you wish to opt-out of interest-based advertising, please visit the Cookie Policy to see your options.
+_To opt-out of Interest-based advertising:_ If you wish to opt-out of interest-based advertising, please visit the [Cookies Policy](https://about.gitlab.com/privacy/cookies/) to see your options.
 
-Request a copy of your information:\_You may [request a copy of the Personal Data](https://about.gitlab.com/handbook/gdpr/) that GitLab has about you.
+_Request a copy of your information:_ You may [request a copy of the Personal Data](https://handbook.gitlab.com/handbook/gdpr/) that GitLab has about you.
 
-Update your Information:\_ If you already have an account, you may access, update, or alter your user profile information by logging into your account and updating profile settings.
+_Update your information:_ If you already have an account, you may access, update, or alter your user profile information by logging into your account and updating profile settings.
 
-_To delete your Account:_ If you only want to delete your SaaS account, you may do so by logging into your account and going to the “Delete my Account” option in your profile settings. If your intention is to delete your Personal Data across all systems, including your account, you need to fill out a [Personal Data Request](https://support.gitlab.io/account-deletion/) Form and select "Account Deletion (full)" in the "Request Type" dropdown menu. If your account is tied to a Company that has entered into a commercial relationship with GitLab, you will have to ask your Company administrator to remove your account from that corporate namespace before we can delete it. Once your account is no longer associated with that corporate namespace, GitLab will process your deletion request according to the process stated herein.
+_To delete your account:_ If you only want to delete your SaaS account, you may do so by logging into your account and going to the “Delete Account” option in your User Settings. If your intention is to delete your Personal Data across all systems, including your account, you need to fill out a [Personal Data Request](https://support.gitlab.io/account-deletion/) Form and select "Account Deletion (full)" in the "Request Type" dropdown menu. If your account is tied to a Company that has entered into a commercial relationship with GitLab, you will have to ask your Company administrator to remove your account from that corporate namespace before we can delete it. Once your account is no longer associated with that corporate namespace, GitLab will process your deletion request according to the process stated herein.
+
+Be advised that if you allow your repository to be forked or cloned by making it public or by providing specific authorization, such repositories will fall outside the scope of your request for deletion. GitLab does not have the visibility into or the ability to delete your Personal Data across all forked or cloned repositories nor can we make such a communication to all third-parties on your behalf. As such, you must make your request to delete such repositories directly to those third-parties that you allowed to fork or clone your data.
 
 Please note that due to the open source nature of our Services, we may retain limited Personal Data indefinitely in order to provide a transactional history. For example, if you provide your information in connection with a blog post or comment, we may display that information even if you have deleted your account as we do not automatically delete community posts. Also, if you contribute to a public project (not owned by GitLab), and you provide your Personal Data in connection with that contribution, your Personal Data will be embedded and publicly displayed with your contribution, and we will not be able to delete or erase it because doing so would break the project.
 
@@ -196,14 +248,16 @@ If you contribute to a GitLab owned project by commenting in, or creating an iss
 
 _To port your projects:_ You may port your projects by either using the [Export functionality](https://docs.gitlab.com/ee/user/project/settings/import_export.html) provided within the SaaS product which will also include all metadata, or by cloning your repositories. To port your profile information, you may use the [API](https://docs.gitlab.com/ee/api/users.html#for-user).
 
-_To inform your Supervisory Authority:_ In the unlikely event you disagree with our handling of your request, you have the right to file a complaint with the competent supervisory authority in your jurisdiction.
+_To inform your Supervisory Authority:_ In the unlikely event you disagree with our handling of your request, you have the right to file a complaint with the competent supervisory authority in your jurisdiction, such as the Autoriteit Persoonsgegevens (+31)-(0)70 - 8888 500 in the Netherlands.
 
-US State Privacy Rights
------------------------
+_Appeals:_ If you are located in a state or country where you are granted the right to appeal GitLab's resolution of a data subject rights request, we will provide the specific information on how to appeal in our initial resolution letter to your request.
 
-If you are a California or Virigina resident, please visit the [U.S. State Privacy Rights Disclosures](https://about.gitlab.com/handbook/legal/privacy/us-state-privacy-disclosure.html) for a specific description of your privacy rights and collection practices.
+U.S. State Privacy Rights
+-------------------------
 
-Other important privacy information
+If you are a California resident or reside in a US-state that requires statutory privacy disclosures, please visit the [U.S. State Privacy Rights Disclosures](https://about.gitlab.com/privacy/us-state-privacy-rights-and-disclosures/) for a specific description of your privacy rights and collection practices.
+
+Other Important Privacy Information
 -----------------------------------
 
 ### Statement Changes
@@ -212,4 +266,4 @@ GitLab may change its Privacy Statement from time to time. When we do, we will u
 
 ### Contact Us
 
-Your information is controlled by GitLab B.V. and GitLab Inc. If you have questions or concerns about the way we are handling your Personal Data, please email us with the subject line "Privacy Concern" at `[[email protected]](https://about.gitlab.com/cdn-cgi/l/email-protection)`.
+Your information is controlled by GitLab B.V. and GitLab Inc. If you have questions or concerns about the way we are handling your Personal Data, please email our privacy office with the subject line "Privacy Concern" at [\[email protected\]](https://about.gitlab.com/cdn-cgi/l/email-protection).
