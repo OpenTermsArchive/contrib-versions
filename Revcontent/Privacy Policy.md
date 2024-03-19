@@ -20,9 +20,9 @@ This Privacy Policy explains how information about you is collected, used and di
 
 We may change this Privacy Policy from time to time.  If we make changes, we will notify you by revising the date at the top of the policy.  We encourage you to check back regularly to stay informed about our information practices and the choices available to you.
 
-If you are a resident of the European Economic Area you have certain additional rights and protections, more information about which can be found here [here](https://help.revcontent.com/en/knowledge/revcontent-privacy-policy-residents-of-european-economic-area)
+If you are a resident of the European Economic Area you have certain additional rights and protections, more information about which can be found [here](https://help.revcontent.com/en/knowledge/revcontent-privacy-policy-residents-of-european-economic-area)
 
-If you are a resident of the State of California, additional provisions which address the foundational principles of the California Consumer Privacy Act of 2018 can be found here [here](https://help.revcontent.com/en/knowledge/revcontent-privacy-policy-residents-of-california)
+If you are a resident of the State of California, additional provisions which address the foundational principles of the California Consumer Privacy Act of 2018 can be found [here](https://help.revcontent.com/en/knowledge/revcontent-privacy-policy-residents-of-california)
 
   
   
