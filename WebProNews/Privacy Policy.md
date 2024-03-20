@@ -343,14 +343,13 @@ Removal from our Database
 
 Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [\[email protected\]](https://www.webpronews.com/cdn-cgi/l/email-protection).
 
-Get the WebProNews newsletter  
-delivered to your inbox
+![](https://www.webpronews.com/wp-content/themes/wpn_theme/imgs/wpn-nl-ipad.png)
+
+Get the WebProNews newsletter delivered to your inbox
 
 Get the **free daily newsletter** read by decision makers
 
 [Subscribe](https://control.ientry.com/subscribe/)
-
-![](https://www.webpronews.com/wp-content/themes/wpn_theme/imgs/wpn-nl-ipad.png)
 
 Advertise with Us
 
