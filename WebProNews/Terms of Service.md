@@ -397,14 +397,13 @@ United States
 
 859-514-2720
 
-Get the WebProNews newsletter  
-delivered to your inbox
+![](https://www.webpronews.com/wp-content/themes/wpn_theme/imgs/wpn-nl-ipad.png)
+
+Get the WebProNews newsletter delivered to your inbox
 
 Get the **free daily newsletter** read by decision makers
 
 [Subscribe](https://control.ientry.com/subscribe/)
-
-![](https://www.webpronews.com/wp-content/themes/wpn_theme/imgs/wpn-nl-ipad.png)
 
 Advertise with Us
 
