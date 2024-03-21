@@ -1,11 +1,11 @@
 Thunderbird Privacy Notice
 ==========================
 
-March 16, 2021
+Last updated March 21, 2024
 
 The Thunderbird application allows users to privately integrate and manage their online communications.
 
-This Privacy Notice explains what data Thunderbird collects and shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, and handle, and share information.
+This Privacy Notice explains what data Thunderbird collects and shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
 Thunderbird Collects Data To:
 -----------------------------
@@ -27,6 +27,24 @@ Thunderbird collects your email domain and other technical data to set-up and co
 **Email domain**: Thunderbird receives your email address domain. Your full email address is never processed or stored on our servers (unless you choose to share it when you send a crash report).
 
 **Technical data**: Thunderbird also receives information about the application’s version and device operating system. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
+
+### Set Up and Configure Your Calendar
+
+Thunderbird collects the domain for your email/calendar, as well as technical data to set up and configure your calendar. Other information, like your name, your calendar events, and event attendees are stored locally on your computer and never sent to us.
+
+You can connect your Google, Microsoft, or Apple calendar to Thunderbird and control your calendar right from Thunderbird.
+
+We do not store your content from integrating Apple Calendar, Google Calendar, or Microsoft 365 with Thunderbird. That information stays on your computer. Nor do we share your content with any third party other than your calendar provider and anyone you specifically choose to send the appointments to.
+
+### Set Up and Schedule Calendar Appointments with Thunderbird Appointment
+
+With Thunderbird Appointment, you can allow others to schedule appointments on your calendar.
+
+You can connect your Google, Microsoft, or Apple calendar to Thunderbird Appointment to assist with scheduling.
+
+If you choose to connect your Apple Calendar, Microsoft 365, or Google Calendar to Thunderbird Appointment, we will receive basic information about your calendar invites such as the title, date, stated location, the name and emails of the attendees, and any text in the appointment to display them within Thunderbird Appointment and allow you to invite others to schedule time in your calendar. We will receive technical and interaction data about your interactions with this feature such as how many events you create, whether you have connected to a Google, Microsoft, or Apple account.
+
+We will only use your data to provide and improve the Thunderbird Appointment service.
 
 ### Review Crash Reports
 
