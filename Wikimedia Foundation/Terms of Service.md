@@ -34,7 +34,7 @@ General
 * [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
 * [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Policy:Terms_of_Use "Recent changes in pages linked from this page [k]")
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
-* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=350214 "Permanent link to this revision of this page")
+* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=353836 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 * [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
 * [Download QR code](https://foundation.wikimedia.org/w/index.php?title=Special:QrCode&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
@@ -49,7 +49,7 @@ From Wikimedia Foundation Governance Wiki
 
 (Redirected from [Terms of Use](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use&redirect=no "Terms of Use"))
 
-[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate")
+[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate"); This page contains [changes](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=350214&diff=353836) which are not marked for translation.
 
 Other languages:
 
@@ -175,7 +175,7 @@ Our Terms of Use
 
 _**Imagine a world in which every single human being can freely share in the sum of all knowledge. That's our commitment.**_ – [Our Vision Statement](https://wikimediafoundation.org/about/vision "foundationsite:about/vision")
 
-Welcome to Wikimedia! The Wikimedia Foundation, Inc. ("we" or "us" or "Foundation"), is a non-profit charitable organization, headquartered in San Francisco, California, United States, [whose mission](https://wikimediafoundation.org/about/mission "foundationsite:about/mission") is to empower and engage people around the world to collect and develop content [under a free license](https://en.wikipedia.org/wiki/en:Free_content "w:en:Free content") or in the public domain, and to disseminate it effectively and globally, free of charge.
+Welcome to Wikimedia! The Wikimedia Foundation, Inc. ("we" or "us" or "Foundation"), is a non-profit charitable organization, headquartered in San Francisco, California, United States, [whose mission](https://wikimediafoundation.org/about/mission "foundationsite:about/mission") is to empower and engage people around the world to collect and develop content [under a free license](https://en.wikipedia.org/wiki/Free_content "en:Free content") or in the public domain, and to disseminate it effectively and globally, free of charge.
 
 To support our vibrant community, we provide the essential infrastructure and organizational framework for the development of multilingual wiki projects and their editions (as explained on our [Wikimedia Projects page](https://wikimediafoundation.org/our-work/wikimedia-projects "foundationsite:our-work/wikimedia-projects")) (hereby referred to as "Projects") and other endeavors which serve this mission. We strive to make and keep educational and informational content from the Projects available on the internet free of charge, in perpetuity.
 
@@ -288,7 +288,7 @@ We reserve the right to exercise our enforcement discretion with respect to the 
 
 **Marketing Company Mediations**
 
-Undisclosed editing by users receiving compensation creates an unreasonable burden on volunteer editors [who investigate and enforce community policies](https://en.wikipedia.org/wiki/en:Wikipedia:Conflict_of_interest "w:en:Wikipedia:Conflict of interest"). Therefore, for violations of this section related to undisclosed paid editing, you agree to submit to binding "Med-Arb" (a "Marketing Company Mediation") as described in section 14 of these Terms of Use.
+Undisclosed editing by users receiving compensation creates an unreasonable burden on volunteer editors [who investigate and enforce community policies](https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest "en:Wikipedia:Conflict of interest"). Therefore, for violations of this section related to undisclosed paid editing, you agree to submit to binding "Med-Arb" (a "Marketing Company Mediation") as described in section 14 of these Terms of Use.
 
 5\. Password Security
 ---------------------
@@ -484,7 +484,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=350214](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=350214)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=353836](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=353836)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
