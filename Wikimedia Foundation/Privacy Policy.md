@@ -563,4 +563,4 @@ Privacy-related pages
 
 ![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=333786](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=333786)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=349681](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=349681)"
