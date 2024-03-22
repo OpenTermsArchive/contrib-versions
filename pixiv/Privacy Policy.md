@@ -22,7 +22,7 @@ Article 3. Information Company acquires and purposes of use (according to each S
 
 Company shall acquire or may in the future acquire the User Information specified in each of the following items via the Services or Individual Services in the cases specified in each item for the purposes of use specified in each item.
 
-1. items
+1. Common items
     
     (1)Email address, password, nickname, gender, date of birth
     
@@ -31,7 +31,8 @@ Company shall acquire or may in the future acquire the User Information specifie
     
     At the time of registration for the Service(s)
     
-    of use
+    Purpose of use
+    ==============
     
     1. To provide the Services and to provide appropriate contents to the user.:
     2. To use User Information for making determinations regarding improvement of the Services, provision of new services, posting and distribution of advertisements, and the like on the basis of Users’ age, gender, interests etc.;
@@ -179,7 +180,8 @@ Company shall acquire or may in the future acquire the User Information specifie
     
     (5)Cookies relating to Users’ use of the Services
     
-    of acquisition
+    Time of acquisition
+    ===================
     
     When using the Services
     
