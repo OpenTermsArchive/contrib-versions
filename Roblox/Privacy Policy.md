@@ -47,7 +47,7 @@
         * [Storage and international transfer of your Personal Information](#brazil-storage-international-transfer-pii)
         * [Your rights as a Data Subject](#brazil-rights-as-data-subject)
 
-Effective Date: February 15, 2024
+Effective Date: March 22, 2024
 
 [](https://www.kidsafeseal.com/certifiedproducts/roblox.html)
 
@@ -143,10 +143,10 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     We’ll collect:
     
-    * your username (required). We need this to create your account and run the Roblox Service. We don’t use your username to identify you outside of Roblox.
+    * your username (required). We need this to create your account and run the Roblox Service. We don’t use your username to identify you outside of Roblox
     * your password (required). We need this to log you in to your account and to run the Roblox Service
-    * your birthday (required). We’ll use your birthday to make sure your account has the correct default settings for you
-    * your gender (optional). We will use this information to customize your experience.
+    * your date of birth (required). We’ll use this information to make sure your account has certain default settings intended for your age
+    * your gender (optional). We will use this information to customize your experience
     
     For additional account security and parental controls, you have the option to provide a parent’s or guardian’s email address in account settings or during logout. Children are encouraged to provide a parent’s email address, but are not required to do so to create an account. Parent email addresses (which is the only personal information [as defined by COPPA](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-312#p-312.2(Personal%20information)) we collect from child accounts) are collected for the security and integrity of your account and the Roblox platform. We may use your parent’s email address to communicate with them about your account, like asking them to review your account.
     
@@ -179,7 +179,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Setting up a Roblox account
     
-    Your first step to joining a Roblox experience is to set up a Roblox account. We’ll ask you to create a unique username and password so you can log into your account and access features on Roblox. We also ask you for your birthday and gender (gender is optional) so we can customize your experience on Roblox. Eligible 17+ users may set their account's display name to contain certain Personal Information.  
+    Your first step to joining a Roblox experience is to set up a Roblox account. We’ll ask you to create a unique username and password so you can log into your account and access features on Roblox. We also ask you for your birthday and gender (gender is optional) so we can customize your experience on Roblox. Eligible users may set their account's display name to contain certain Personal Information.  
     
     Three key rules for signing up:
     
@@ -217,7 +217,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Posting content
     
-    You can post comments, messages, or other content on Roblox through chats, forums, group walls, personal posts, or other features. Users who are age 13 or older can also use voice chat on Roblox. We monitor what you say and write to check that it to make sure that it meets our Community Standards and complies with our Terms of Use. If we find that the content doesn’t meet our standards, for example, if we believe that it is inappropriate, includes Personal Information, or is not suitable for users to have on Roblox, we have the right to change or remove it. Where the law allows us to, we may use the content you and other users have posted for training or to help us to improve the way we filter content on our platform. Our aim is to increase safety on our platform. We also may use this data to help us provide a better experience on Roblox and to respond to requests about your account from you or your parent or legal guardian.
+    You can post comments, messages, or other content on Roblox through chats, forums, group walls, personal posts, or other features. Users who are age 13 or older can also use voice chat on Roblox. We monitor what you say and write to check that it meets our Community Standards and complies with our Terms of Use. If we find that the content doesn’t meet our standards, for example, if we believe that it is inappropriate, includes Personal Information, or is not suitable for users to have on Roblox, we have the right to change or remove it. Where the law allows us to, we may use the content you and other users have posted for training or to help us to improve the way we filter content on our platform. Our aim is to increase safety on our platform. We also may use this data to help us provide a better experience on Roblox and to respond to requests about your account from you or your parent or legal guardian.
     
     Asking questions or getting technical support
     
@@ -228,7 +228,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     * ask for technical support
     * ask us questions or give us comments
     
-    We use this information to answer your questions and to give you the support or help you ask for. We retain records of technical support questions for a limited time for internal use only, such as to answer additional questions about your account.
+    We use this information to answer your questions and to give you the support or help you ask for. For users under 13, we communicate with your parent or guardian when sending our responses. We retain records of technical support questions for a limited time for internal use only, such as to answer additional questions about your account.
     
     Using Roblox features
     
@@ -462,7 +462,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     * Customer support services (e.g., Zendesk);
     * Surveys and promotions (e.g., Reach3);
     * Social media log-in services (e.g., SAP Customer Data Cloud);
-    * Billing and payment services (e.g., Kount, Worldpay, PayPal, Incomm, Blackhawk, Google, Apple, Amazon, Windows Store, consoles, Xsolla)
+    * Billing and payment services (e.g., Kount, Worldpay, PayPal, Incomm, Blackhawk, Google, Apple, Amazon, Windows Store, Xbox, Playstation, Meta Quest, Xsolla)
     * Hosting and content delivery services (eg, AWS, Equinix, CenturyLink, YouTube, Vimeo).
     
     When creators need Personal Information to improve your experience
@@ -690,7 +690,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     * Customer support services (e.g., Zendesk);
     * Surveys and promotions (e.g., Reach3);
     * Social Media Log-in (e.g., SAP Customer Data Cloud);
-    * Billing services and payment gateway providers (e.g., Kount, Worldpay, PayPal, Incomm, Blackhawk, Google, Apple, Amazon, Windows Store, consoles, Xsolla); and
+    * Billing services and payment gateway providers (e.g., Kount, Worldpay, PayPal, Incomm, Blackhawk, Google, Apple, Amazon, Windows Store, Xbox, Playstation, Meta Quest, Xsolla); and
     * Hosting and content delivery network services (e.g., AWS, Equinix, CenturyLink, YouTube, Vimeo).
     
     The legal basis for this data transfer and processing activity is Article 28 of GDPR in conjunction with the data processing agreements we concluded with respective third-party agents. These agents and contractors are only allowed to use the information shared with them only for the specific tasks they’ve been hired to do and consistent with this Privacy Policy, and for no other purposes. Roblox takes steps to ensure that all service providers with access to Personal Information are capable of protecting the information we share with them.
@@ -807,7 +807,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     * Customer support services (e.g., Zendesk);
     * Surveys and promotions (e.g., Reach3);
     * Social Media Log-in (e.g., SAP Customer Data Cloud);
-    * Billing services and payment gateway providers (e.g., Kount, Worldpay, PayPal, Incomm, Blackhawk, Google, Apple, Amazon, Windows Store, consoles, Xsolla); and
+    * Billing services and payment gateway providers (e.g., Kount, Worldpay, PayPal, Incomm, Blackhawk, Google, Apple, Amazon, Windows Store, Xbox, Playstation, Meta Quest, Xsolla); and
     * Hosting and content delivery network services (e.g., AWS, Equinix, CenturyLink, YouTube, Vimeo).
     
     These agents and contractors are only allowed to use the information shared with them only for the specific tasks they’ve been hired to do and consistent with this Privacy Policy, and for no other purposes. Roblox takes steps to ensure that all service providers with access to Personal Information are capable of protecting the information we share with them.
@@ -845,5 +845,5 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Please also note that these rights are not absolute and may not apply in certain circumstances. For example, we may continue to process and retain Personal Information regardless of your request to delete, object, block or anonymize it, to comply with legal, contractual and/or regulatory obligations, and to protect and exercise rights, including in judicial, administrative and arbitration proceedings, and as otherwise required by law. To exercise your rights or ask questions, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support). To appeal a decision about your privacy rights, please contact our Brazilian Data Protection Officer by emailing [privacy@roblox.com](mailto:privacy@roblox.com), or otherwise reaching out to us as described in Section 1.
     
 
-Effective Date: February 15, 2024  
-Last Updated: February 15, 2024
+Effective Date: March 22, 2024  
+Last Updated: March 22, 2024
