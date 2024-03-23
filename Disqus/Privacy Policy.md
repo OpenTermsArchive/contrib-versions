@@ -4,7 +4,7 @@ Disqus Privacy Policy
 
 Written by Disqus
 
-Updated over a week ago
+Updated yesterday
 
 Disqus Privacy Policy
 
@@ -72,7 +72,7 @@ Note that we may process your personal data for more than one lawful ground depe
   
 d.
 
-[![](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1711134001&signature=b79d4391387c1979127c414a72d084db879f776f992a2a18940036646b3a81b8)](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1711134001&signature=b79d4391387c1979127c414a72d084db879f776f992a2a18940036646b3a81b8)
+[![](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1711155786&signature=9cedafac33545e6f3b5125b92b8f99e37ac9c106eec4d4fe720ee91008da5450)](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1711155786&signature=9cedafac33545e6f3b5125b92b8f99e37ac9c106eec4d4fe720ee91008da5450)
 
 **6\. DISCLOSURES OF YOUR PERSONAL DATA**  
 a. We may sell or share your personal data with the parties set out below for the purposes set out in the table in the previous section.
@@ -113,22 +113,25 @@ Depending on the laws where you live, you may have one or more of the following 
 
 Visit our [Privacy Choices page](https://disqus.com/data-sharing-settings/) for more details or to exercise your rights.  
 ​  
-We are required to publish statistics on how many people exercised their privacy rights in the previous year. The following statistics are for people who made requests relating to Disqus during the twelve months ending December, 20, 2022. These statistics cover all requests received from individuals around the world.
+We are required to publish statistics on how many people exercised their privacy rights in the previous year. The following statistics are for people who made requests relating to Disqus during the twelve months ending December, 20, 2023. These statistics cover all requests received from individuals around the world.
 
-* Number of requests for access to (copy of) data: 87
+* Access requests: 740
     
-    * Number of these requests that were not actioned because the requestor did not complete the verification process: 13
+    * Email verifications not completed: 70
         
     
-* Number of requests for data deletion: 387
+* Deletion requests: 2591
     
-    * Number of these requests that were not actioned because the requestor did not complete the verification process: 30
+    * Email verifications not completed: 239
         
     
-* Number of requests for opt-out (Do Not Sell): 45
+* Do-Not-Sell requests: 6310
     
-    * Number of these requests that were not actioned because the requestor did not complete the verification process: 9
+    * Email verifications not completed: 3435  
+        ​
         
+    
+    _Disqus received a high volume of automated, unverified, and duplicative requests in late 2023 which resulted in a large number of unverified and therefore uncompleted requests._
     
 
 **11\. INTERNATIONAL DATA TRANSFERS.**  
