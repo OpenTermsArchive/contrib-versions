@@ -32,7 +32,6 @@ Other languages:
 * [Qaraqalpaqsha](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/kaa "Konfidenciallıq siyasatı (1% translated)")
 * [Ripoarisch](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ksh "Bedengonge för der Ömjang met prevaate Daate (4% translated)")
 * [Scots](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sco "Policy:Privacy policy/sco (2% translated)")
-* [Simple English](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/simple "Policy:Privacy policy/simple (0% translated)")
 * [Soomaaliga](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/so "Xeerka lahaanshaha (4% translated)")
 * [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/vi "Quy định về quyền riêng tư (96% translated)")
 * [Türkçe](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/tr "Gizlilik Politikası (96% translated)")
