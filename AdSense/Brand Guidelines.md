@@ -1,12 +1,12 @@
-Branding Guidelines: WebSearch, AdSense for Search, and AdSense for Shopping
-============================================================================
+Branding Guidelines: WebSearch and AdSense for Search
+=====================================================
 
-**Revised:** March 13, 2023
+**Revised:** March 25, 2024
 
 Introduction
 ------------
 
-These guidelines apply to the use of Google's WebSearch (WS), AdSense for Search (AFS), and AdSense for Shopping (AFSH) services.
+These guidelines apply to the use of Google's WebSearch (WS) and AdSense for Search (AFS).
 
 For clarity, for the purposes of these guidelines:
 
@@ -60,8 +60,8 @@ Display of sponsored listings
 
 ### General principles
 
-* Sponsored listings (AFS ads, AFSH ads, or non-Google provided sponsored listings) must always be clearly identified as separate from Google-provided search results.
-* Sponsored listings (AFS ads, AFSH ads, or non-Google provided sponsored listings) may not be intermingled with Google-provided search results.
+* Sponsored listings (AFS ads or non-Google provided sponsored listings) must always be clearly identified as separate from Google-provided search results.
+* Sponsored listings (AFS ads or non-Google provided sponsored listings) may not be intermingled with Google-provided search results.
 * Ads may not be intermingled with non-Google provided search results, unless approved by Google in writing.
 * You must include all elements of ads and the full text of the listings.
 * You must preserve the ordering of ads and must not implement ads in a way that could lead to confusion regarding ads position ranking.
@@ -74,12 +74,6 @@ By default, Google will provide the appropriate label within the AFS ad frame. W
 
 * _Labeling_: AFS ads must be clearly labeled as, “Ads by Google,” “Ads,” "Sponsored Links," "Sponsored Listings" or "Paid Listings." Wording other than these is subject to approval by Google.
 * _Location_: Unless otherwise approved by Google, AFS ad attribution must be displayed in the upper left-hand corner of the ad unit on desktop implementations (for right-to-left languages, upper right-hand corner), and in the upper right-hand or upper left-hand corner of the ad unit on mobile implementations.
-
-### Labeling of AFSH ads
-
-By default, Google will provide the appropriate label within the AFSH ad frame. Where you have been approved to manage your own labeling or where a double attribution is required (e.g., multiple format), these guidelines must be followed to properly identify the ads:
-
-* _Desktop and Tablet Labeling:_ AFSH ads must be clearly labeled as, “Ads," "Sponsored Links," or "Sponsored Products." Wording other than this is subject to approval by Google.
 
 ### Labeling of non-Google sponsored listings
 
