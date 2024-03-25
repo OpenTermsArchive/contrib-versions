@@ -1,7 +1,7 @@
 X Privacy Policy
 ================
 
-**Effective: March 13, 2024**
+**Effective: September 29, 2023**
 
 Before you scroll, read this
 ----------------------------
