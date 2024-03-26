@@ -149,7 +149,7 @@ Open all
     | --- | --- |
     | Clicks, opens and other interactions with our advertisements, emails, sites and apps | * To personalize your experiences and make our marketing more relevant to you<br>* To help you when you request assistance with website or app navigation<br>* To protect you and us against fraud |
     | Location obtained from system applications on your mobile devices | * To assist with locating you in an emergency <br>* To help improve location accuracy in our services and apps<br>* To provide you with mobile application updates |
-    | Information from your calls and chats with our service and support representatives | * To help train employees and support resources and systems to better serve you<br>* To provide customized technical support<br>* To assist you with device settings<br>* To help personalize your experience and our marketing to you |
+    | Information, including recordings, from your calls and chats with our service and support representatives | * To help train and allow employees, service providers, and systems to better serve you<br>* To secure your account<br>* To provide customized technical support<br>* To assist you with device settings<br>* To help personalize your experience and our marketing to you |
     | Employment and grant applications and surveys | * For the purpose for which you provide it, or as described at the time when you submitted the information. |
     | Information obtained from others | * To determine creditworthiness and perform business risk analysis<br>* To verify your identity<br>* To contact you with marketing offers<br>* To improve business modeling |
     | Network usage information | * To measure service quality on your current plan and other plans we offer |
@@ -177,11 +177,12 @@ Open all
     
     Information:
     
-    Information from your calls and chats with our service and support representatives
+    Information, including recordings, from your calls and chats with our service and support representatives
     
     Additional uses:
     
-    * To help train employees and support resources and systems to better serve you
+    * To help train and allow employees, service providers, and systems to better serve you
+    * To secure your account
     * To provide customized technical support
     * To assist you with device settings
     * To help personalize your experience and our marketing to you
@@ -255,7 +256,7 @@ Open all
     
     Credit information includes your credit score, information in your consumer reports, and your account history.  
     
-    ### We share information with service providers with partners.
+    ### We share information with service providers and with partners.
     
     We use service providers to help us offer, provide, repair, restore and bill for services. We share information with them as necessary for them to perform work for us. They are required to protect information they receive from us or collect on our behalf and use it only for the purposes we allow.
     
@@ -412,7 +413,7 @@ Open all
     
     Verizon and third-party information
     
-    This includes information about how you use your mobile device (such as web browsing, device location, and app/feature use), certain information about your Verizon products and services (such as device type and amount of use), and demographic and interest information you provide or we obtain from other companies (such as gender, age range and interests). We may also use point of interest and  location information we obtain from others as well as information provided by business and marketing clients who want insights related to their own businesses.
+    This includes information about how you use your mobile device (such as web browsing, device location, app/feature use, and IP address or similar information), certain information about your Verizon products and services (such as device type and amount of use), and demographic and interest information you provide or we obtain from other companies (such as gender, age range and interests). We may also use point of interest and  location information we obtain from others as well as information provided by business and marketing clients who want insights related to their own businesses.
     
     Business and marketing insights
     
@@ -581,7 +582,7 @@ Open all
     **Customers of specific apps**  
     Use your app settings
     
-    Customers who have Fios or other fiber-to-the-home services can [email](mailto:privacyoffice@verizon.com) us to set up an appointment to review the personally identifiable information we have about you. You can only review records that contain your personally identifiable information, and you’ll have to provide proper identification to do so. We’ll work with you to update your records if necessary. You may be charged for copies of documents that you request.
+    Customers who have Fios or other fiber-to-the-home services can submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) to set up an appointment to review the personally identifiable information we have about you. You can only review records that contain your personally identifiable information, and you’ll have to provide proper identification to do so. We’ll work with you to update your records if necessary. You may be charged for copies of documents that you request.
     
 * [Do I have additional rights under Federal law?
     ----------------------------------------------
@@ -718,7 +719,7 @@ Open all
     
     request
     
-    California residents can make a request by contacting us by submitting a [privacy inquiry form](https://www.verizon.com/privacy/privacy-inquiries)
+    California residents can make a request by contacting us by submitting a [privacy inquiry form](https://www.verizon.com/about//privacy/privacy-inquiries)
     
     Verizon Privacy Office  
     1300 I Street, NW Suite 500 East  
@@ -728,8 +729,7 @@ Open all
     
     request
     
-    California residents can make a request by contacting us at:  
-    privacyoffice@verizon.com
+    California residents can make a request by submitting a [privacy inquiry form](https://www.verizon.com/about//privacy/privacy-inquiries)
     
     Verizon Privacy Office  
     1300 I Street, NW Suite 500 East  
@@ -855,6 +855,10 @@ Open all
     
     Verizon doesn’t sell personally identifiable information today and we don’t have plans to start. If Verizon ever starts selling such personal information, current Verizon customers will be opted out. If you have questions, please submit a [privacy inquiries form](https://www.verizon.com/about/privacy/privacy-inquiries).
     
+    ### Nevada & Washington Health Data Privacy Rights
+    
+    Residents of Nevada and Washington have privacy rights regarding the processing of Consumer Health Data. You can read more about our data practices and your rights in our [Health Privacy Notice](https://www.verizon.com/about/privacy/health-privacy-notice).
+    
 * [How do I learn about changes to this privacy policy?
     ----------------------------------------------------
     
@@ -864,9 +868,9 @@ Open all
     
     We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](https://www.verizon.com/about/privacy/changes-privacy-policy) . If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
     
-    Updated December, 2023
+    Updated March, 2024
     
-    © 2023 Verizon. All rights reserved.
+    © 2024 Verizon. All rights reserved.
     
 
 Related topics
