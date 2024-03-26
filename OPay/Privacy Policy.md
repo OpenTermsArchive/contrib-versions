@@ -1,11 +1,11 @@
 Privacy Policy
 ==============
 
-Version 6.0 | September 14, 2023
+Version 7.0 | March 5, 2024
 
 At OPay, the privacy of our Data Subjects and their Personal Data is of utmost importance to us. And in line with our resolution, we have developed this Privacy Policy to explain your privacy rights, particularly regarding how we collect, process, retain, share and protect your Personal Data when you visit our website, premises or use our digital platforms (collectively, "the Platform" or "Services").
 
-This Privacy Policy between OPay Digital Services Limited ("OPay") and you constitutes our commitment to your continued privacy on all our platforms. It is designed to provide information regarding our privacy practices and help you understand how we handle your data.
+This Privacy Policy between OPay Digital Services Limited ("OPay") and you constitutes our commitment to your continued privacy on all our platforms. It is designed to provide information regarding our privacy practices and help you understand how we handle your data, in full compliance with the provisions of the Nigeria Data Protection Act 2023 and other applicable data protection regulations.
 
 1\. Consent
 -----------
@@ -17,22 +17,19 @@ When you access our platforms and give your consent upon such access, you accept
 
 We collect Personal Data about you when you use the services offered on our website and digital platform, including the following:
 
-1. Sign-up information: When you register to use the services offered on our digital platform, we will collect Personal Data as necessary to offer and fulfil the service you request. Depending on the service you choose, we may require that you provide us with your name, email address, mobile number and debit card details to create an account. We may also require you to provide additional, necessary personal details as you use our services.
+1. Sign-up information: When you register to use the services offered on our digital platform, we will collect Personal Data as necessary to offer and fulfil the service you request. Depending on the service you choose, in line with regulatory requirements for Know Your Customer (KYC) purposes, we may require that you provide us with your name, gender, birthday, facial photo, residential address, ID information (photo, number), utility bill, email address, mobile number, social media handles and debit/credit card details to create an account. We will also require your NIN and/or your BVN in line with regulation and in furtherance of our KYC computation processes. We may also require you to provide additional, necessary personal details as you use our services.
 2. Transaction information: When you use our digital platform to send and receive money, make purchases from merchants, pay bills, deposit & withdraw cash, we collect information about the transaction, as well as other associated information as necessary to offer and fulfil the service (like transaction receipt, account statement) that we are obliged to; such as: the amount sent or received, amount paid for products or services, merchant information – including information about your device and geolocation.
 3. Participant Personal Data: When you use our services, we may collect Personal Data about the other participants associated with the transaction, including your phone contacts with your consent, so you can easily transact with your friends and contacts and enable instant messaging (IM). We collect Personal Data such as name and financial account information about the participant who is receiving money from (or sending money to) you, when you send or receive money through the Services.
-4. Image Information: We may collect your image (upload, storage, and use) information to support account opening, such as uploading your portrait. We may also collect information from your images when you use our customer support to upload evidence such as statements and checks. In addition, we may collect your image information in connection with regulatory KYC (Know Your Customer) purposes.
-5. Information from other sources: We may collect information from other sources, such as our social media platforms when you reach out to us to lodge a complaint about our services. However, we will only ask for information relevant to the help required of us to you.
+4. Image Information: We may collect your image (upload, storage, and use) information to support account opening, such as uploading your portrait. We may also collect information from your images when you use our customer support to upload evidence such as statements and checks. In addition, we may collect your image information in connection with regulatory KYC purposes.
+5. Information from other sources: We may collect information from other sources, such as our social media platforms when you reach out to us to lodge a complaint about our services. However, we will only ask for information relevant to the help required of us to you. In addition, we also indirectly collect information from NIBSS, credit bureaus, NIMC, or other third-party KYC verification service providers.
 6. Other information we collect related to your use of our website or Services: We may collect additional information from or about you when you communicate with us, contact our customer support teams, respond to a survey or use functionality offered by third-party service providers through our Platform. For instance, when you initiate third-party applications through OPay mobile application, with your prior consent, your SMS may be collected and monitored to help third-party service providers reduce risks associated with your application through the relevant model/system to provide customized services.
 7. When you apply for a job with us: We may request Personal Data about your education, employment and state of health. As part of your application, you will be asked to provide your express consent to our use of this information to assess your application and any monitoring activities which may be required of us under applicable laws as an employer. We may also carry out screening checks (including reference, background and criminal record checks). We may exchange your Personal Data with academic institutions, recruiters, health maintenance organisations, law enforcement agencies, referees and your previous employers. Without your Personal Data, we may not be able to process your application for positions with us.
-
-### We do not collect the information of minors.
-
-If you are under the age of 18, you are not eligible to use the service offered on our digital platform.
+8. We do not collect the information of minors: If you are under the age of 18, you are not eligible to use the service offered on our digital platform.
 
 3\. How Do We Retain Personal Data?
 -----------------------------------
 
-We retain Personal Data in an identifiable format only for as long as required for our business purposes, with specific reference to the service rendered to you, and to fulfil our legal or regulatory obligations. Subject to applicable law, which might, from time to time, oblige us to retain your Personal Data for a certain period of time, we will retain your Personal Data for as long as necessary to fulfil the purposes we collect it for, including the purposes of satisfying any legal, accounting, or reporting obligations. Personal Data that is no longer in use or which has been retained beyond the requisite statutorily required storage period, will be destroyed in line with industrial best practices for such operations.
+We retain Personal Data in an identifiable format only for as long as required for our business purposes, with specific reference to the service rendered to you, and to fulfil our legal or regulatory obligations. Subject to applicable law, which might, from time to time, oblige us to retain your Personal Data for a certain period of time, we will retain your Personal Data for as long as necessary to fulfil the purposes we collect it for, including the purposes of satisfying any legal, accounting, or reporting obligations.
 
 4\. How Do We ProcessPersonal Data?
 -----------------------------------
@@ -78,12 +75,11 @@ We may share your Personal Data or other information about you with others for t
     7. As reasonably and legally permitted, to facilitate a purchase or sale of all or part of Opay's business, or in the instance of some merger and acquisition;
     8. To support our audit, compliance, and corporate governance functions.
 * With your consent: We also will share your Personal Data and other information with your consent or direction.
-* Your BVN. By accepting this policy, you agree that, in line with regulation and in furtherance of our KYC computation processes, we may access and utilize your BVN to upgrade your account.
 
 6\. How We Use Cookies
 ----------------------
 
-Cookies are small files placed on your device’s browser that enable the website to identify your device as you view different pages. Like most interactive websites, our website uses cookies to enable us track of your activity for the duration of a session. Our website uses only encrypted session cookies which are erased either after a predefined timeout period or once the user logs out of the platform and closes the browser. Session cookies do not collect information from your device. They will typically store data in the form of a session identification that does not personally identify you. Certain aspects of our website are only available through the use of cookies, so your use of our website may be limited or not possible if you choose to disable or decline cookies.
+Cookies are small files placed on your device’s browser that enable the website to identify your device as you view different pages. Like most interactive websites, our website uses cookies to enable us track of your activity for the duration of a session. Our website uses only encrypted session cookies which are erased either after a predefined timeout period or once the user logs out of the platform and closes the browser. Session cookies do not collect information from your device. They will typically store data in the form of a session identification that does not personally identify you. Certain aspects of our website are only available through the use of cookies, so your use of our website may be limited or not possible if you choose to disable or decline cookies. If you choose to decline the cookies, you may simply exit our website.
 
 7\. What Are Your Rights?
 -------------------------
@@ -115,6 +111,7 @@ Cookies are small files placed on your device’s browser that enable the websit
     2. To comply with the NDPR and relevant Nigerian laws.
     3. For the performance of a task carried out in the public interest or to exercise some official authority vested in us.
     4. To establish, exercise or defend legal claims.
+    5. To comply with pertinent legal and regulatory directives.
     
     In these cases, we can restrict the processing instead of erasing your Personal Data if requested to do so by you.
     
@@ -132,6 +129,7 @@ Cookies are small files placed on your device’s browser that enable the websit
     * For establishing, exercising or defending legal claims.
     * For protecting the rights of another natural or legal person, or
     * For reasons of important public interest as defined under the NDPR and relevant Nigerian laws
+    * To comply with pertinent legal and regulatory directives.
     
     Once processing is restricted following your request, we will inform you before we lift the restriction.
     
@@ -150,7 +148,7 @@ Cookies are small files placed on your device’s browser that enable the websit
     * Permitted by regulations, or
     * Based on your explicit consent.
     
-    Our actions on the automated processing involving your sensitive Personal Data (where you have given your explicit consent or the processing is necessary for reasons of substantial public interest), are in complete compliance with the NDPR and relevant laws.
+    Our actions on the automated processing involving your sensitive Personal Data (where you have given your explicit consent or the processing is necessary for reasons of substantial public interest), are in complete compliance with the NDPA and relevant laws.
     
 
 8\. How Do We Protect Your Personal Data?
@@ -177,7 +175,7 @@ In the event of violation of this policy, our Data Protection Officer shall with
 10\. Governing Law
 ------------------
 
-This Privacy Policy is made according to the Nigeria Data Protection Regulation (2019) or any other relevant Nigerian laws, regulations or international conventions applicable to Nigeria.
+This Privacy Policy is made according to the Nigeria Data Protection Act (2023) or any other relevant Nigerian laws, regulations or international conventions applicable to Nigeria.
 
 11\. Changes to our Privacy Policy
 ----------------------------------
@@ -187,7 +185,7 @@ This privacy policy is reviewed periodically and when there is any substantial c
 12\. How Does Your Personal Data Move Globally?
 -----------------------------------------------
 
-Our operations are supported by a network of computers, cloud-based services and other infrastructure and information technology. Your Personal Data will be stored in Nigeria where we are providing Services to you, except where you provide your consent for your Personal Data to be processed outside Nigeria to enable us process your transactions. Data are stored with appropriate encryption menthod and security standards. We will protect your information as prescribed in the Privacy Policy if your Personal Data is transferred out of Nigeria. By using our Platform and Services, you consent to your Personal Data being transferred out of Nigeria, to a jurisdiction which has adequate data protection laws as prescribed in the NDPR.
+Our operations are supported by a network of computers, cloud-based services and other infrastructure and information technology. Your Personal Data will be stored in Nigeria where we are providing Services to you, except where you provide your consent for your Personal Data to be processed outside Nigeria to enable us process your transactions. Data are stored with appropriate encryption menthod and security standards. We will protect your information as prescribed in the Privacy Policy if your Personal Data is transferred out of Nigeria. By using our Platform and Services, you consent to your Personal Data being transferred out of Nigeria, to a jurisdiction which has adequate data protection laws as prescribed in the NDPA.
 
 13\. Contact Us
 ---------------
@@ -196,7 +194,7 @@ If you have any general questions or concerns about this Privacy Policy or the w
 
 OPAY DIGITAL SERVICES LIMITED
 
-Alexander House, Otunba Jobi Fele Way. Ikeja, Lagos, Nigeria.
+Alexander House, Plot 9, Nurudeen Olowopopo Way, Alausa-Ikeja, Lagos, Nigeria.
 
 Email: [ng-privacy@opay-inc.com](mailto:ng-privacy@opay-inc.com)
 
