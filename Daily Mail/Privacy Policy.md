@@ -4,9 +4,9 @@ Associated Newspapers Ltd
 Privacy & Cookies Policy (the “Policy”)
 ---------------------------------------
 
-###### Last updated: 23 February 2024
+###### Last updated: 26 March 2024
 
-###### Previous version: 31 January 2024
+###### Previous version: 23 February 2024
 
 You can control online behavioural advertising cookies on this website via your [Cookie Settings](#). Further details on this can be found under Cookies and other identifiers in Section 17 below.
 
@@ -524,6 +524,34 @@ The California Consumer Privacy Laws define personal information as information 
 * Information excluded from the California Consumer Privacy Laws such as health or medical information covered under the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) and financial information covered under the Fair Credit Reporting Act (“FCRA”) or Gramm-Leach Bliley Act (“GLBA”).
 
 Information regarding our collection, use and disclosure of personal information are detailed elsewhere in this Policy. To help consumers make informed privacy decisions, the California Consumer Privacy Laws create and define categories of personal information, and our practices regarding personal information are organized below into the aforementioned categories. Please note that some types of personal information may apply to multiple categories.
+
+In the past 12 months, we have collected the categories of personal information described in Table 1 below for the business or commercial purpose(s) indicated. Depending on your level of interaction with us, we may not have collected your personal information from all of the categories.
+
+**Table 1: Categories of Personal Information**
+
+|     |     |
+| --- | --- |
+| **Category** | **Purposes** |
+| Identifiers | Providing Content Services, Auditing, Data Security & Fraud Prevention, Troubleshooting, Develop and improve services, Commercial Interests, Content Personalisation, Subscription & Loyalty Programs. |
+| Customer records information | Providing Content Services, Auditing, Commercial Interests, Develop and improve services, Content Personalisation, Subscription & Loyalty Programs, |
+| Characteristics of protected classifications under California or federal law | None |
+| Commercial information | Providing Content Services, Auditing, Commercial Interests, Develop and improve services, Content Personalisation, Subscription & Loyalty Programs. |
+| Internet or other similar network activity information | Providing Content Services, Auditing, Commercial Interests, Data Security & Fraud Prevention, Troubleshooting, Develop and improve services, Content Personalisation, Subscription & Loyalty Programs. |
+| Geolocation data | Providing Content Services, Auditing, Commercial Interests, Data Security & Fraud Prevention, Troubleshooting, Develop and improve services, Content Personalisation, Subscription & Loyalty Programs. |
+
+**Table 2: How We Use and Disclose Your Personal Information**
+
+Table 2 below describes the sources for each category of personal information we collect, the entities to whom we (i) may disclose your personal information; (ii) we may sell your personal information; and (iii) with whom we may share your personal information for cross-context behavioural advertising.
+
+|     |     |     |
+| --- | --- | --- |
+| **Category** | **Source** | **Shared with** |
+| Identifiers | Directly from consumers<br><br>Website cookies | Our Affiliates; customer service providers; payment processors;  Social Media platforms and Third-Party Services providers; advertising networks; advertising platforms; data analytics providers; our security, fraud, and legal compliance partners. |
+| Customer records information | Directly from consumers | Customer service providers; payment processors; Third-Party Services providers. |
+| Characteristics of protected classifications under California or federal law |     | N/A |
+| Commercial information | Directly from consumers<br><br>From our Third-Party Services providers | Our Affiliates; customer service providers; payment processors; data analytics providers; our security, fraud, and legal compliance partners. |
+| Internet or other similar network activity information | Directly from consumers<br><br>From our Third-Party Services providers | Our Affiliates; customer service providers; Social Media platforms and Third-Party Services providers; advertising networks; advertising platforms; data analytics providers; our security, fraud, and legal compliance partners. |
+| Geolocation data | Directly from consumers<br><br>From our Third-Party Services providers | Our Affiliates; customer service providers; payment processors;  Social Media platforms and Third-Party Services providers; advertising networks; advertising platforms; data analytics providers; our security, fraud, and legal compliance partners. |
 
 #### California “Shine the Light”
 
