@@ -177,7 +177,7 @@ Introduction
 
 ### Welcome!
 
-The Wikimedia Foundation is the nonprofit organization that operates collaborative, free knowledge websites, like [Wikipedia](https://en.wikipedia.org/wiki/en:Main_Page "w:en:Main Page"), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page "c:Main Page"), and [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page "wikt:Wiktionary:Main Page").
+The Wikimedia Foundation is the nonprofit organization that operates collaborative, free knowledge websites, like [Wikipedia](https://en.wikipedia.org/wiki/Main_Page "en:Main Page"), [Wikimedia Commons](https://commons.wikimedia.org/wiki/Main_Page "c:Main Page"), and [Wiktionary](https://en.wiktionary.org/wiki/Wiktionary:Main_Page "wikt:Wiktionary:Main Page").
 
 This Policy explains how we collect, use, and share your Personal Information.
 
@@ -562,4 +562,4 @@ Privacy-related pages
 
 ![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=354901](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=354901)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=359171](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=359171)"
