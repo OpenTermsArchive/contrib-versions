@@ -8,13 +8,13 @@ Introduction
 
 These guidelines apply to the use of Google's WebSearch (WS) and AdSense for Search (AFS).
 
-For clarity, for the purposes of these guidelines:
+For clarity, for the purposes of these policies:
 
 * "ads" means advertisements provided by Google. It does not mean any advertisements (or other advertising products or services) that are not provided by Google;
 * "content" means everything presented to users by you, including publisher-generated content, syndicated content, user-generated content, organic search results, advertisements (whether provided by Google or a third party), and links to other sites or apps; and
 * where it has been indicated that Google’s approval is required, such requirement only applies to the use of Google services, including ads provided by Google.
 
-You must ensure that your use of Google services, including any content on properties where Google services are implemented, is in compliance with these policies. Google may take corrective action(s) for any non-compliance, including but not limited to the following: (1) suspending provision of any Google services, (2) requiring you to cease or modify the use or implementation of any Google services, or (3) exercising any of its rights under the applicable Google Services Agreement, or any other relevant agreement between you and Google.
+You must ensure that your use of Google services, including any content on properties where Google services are implemented, is in compliance with these policies. Google may take corrective action(s) for any non-compliance, including but not limited to the following: (1) suspending provision of any Google services, (2) requiring you to cease or modify the use or implementation of any Google services, or (3) exercising any of its rights under the applicable Google AdSense Online Terms of Service, or any other relevant agreement between you and Google.
 
 Display of search box
 ---------------------
