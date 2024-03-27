@@ -3,7 +3,7 @@ Abuse programme policies and enforcement
 
 The programme policies below apply to Drive, Docs, Sheets, Slides, Forms and new Sites. These policies play an important role to maintain a positive experience for everyone that uses Google products.
 
-We need to curb abuses that threaten our ability to provide these services and we ask that everyone abides by the policies below to help us achieve this goal. We may review content for violations of these policies and take action. This review includes access restriction of content, removal of content, and limitation or termination of a user's access to Google products.
+We need to curb abuses that threaten our ability to provide these services and we ask that everyone abides by the policies below to help us achieve this goal. We may review content for violations of these policies and take action. This review includes access restriction of content, removal of content, and limitation or termination of a user's access to Google products. Any restrictions pursuant to these policies apply globally unless noted otherwise, and content restrictions will remain in place unless successfully appealed.
 
 When these policies apply, Google may make exceptions based on artistic, educational, documentary or scientific considerations, or where there are other substantial benefits to the public to not take action on the content.
 
