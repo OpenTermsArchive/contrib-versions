@@ -108,7 +108,7 @@ Cookies are small files placed on your device’s browser that enable the websit
     If we receive your erasure request, we will also take reasonable steps to inform other data controllers processing the data so they can seek to erase links to or copies of your Personal Data. We may refuse to act on your request to erase your Personal Data if the processing of your Personal Data is necessary:
     
     1. To exercise our right of freedom of expression and information.
-    2. To comply with the NDPR and relevant Nigerian laws.
+    2. To comply with the relevant Nigerian laws and regulations.
     3. For the performance of a task carried out in the public interest or to exercise some official authority vested in us.
     4. To establish, exercise or defend legal claims.
     5. To comply with pertinent legal and regulatory directives.
@@ -128,7 +128,7 @@ Cookies are small files placed on your device’s browser that enable the websit
     * If you have given us your consent.
     * For establishing, exercising or defending legal claims.
     * For protecting the rights of another natural or legal person, or
-    * For reasons of important public interest as defined under the NDPR and relevant Nigerian laws
+    * For reasons of important public interest as defined under the NDPA and relevant Nigerian laws
     * To comply with pertinent legal and regulatory directives.
     
     Once processing is restricted following your request, we will inform you before we lift the restriction.
