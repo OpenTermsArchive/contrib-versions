@@ -49,7 +49,7 @@ From Wikimedia Foundation Governance Wiki
 
 (Redirected from [Terms of Use](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use&redirect=no "Terms of Use"))
 
-[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate"); This page contains [changes](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=357637&diff=361754) which are not marked for translation.
+[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate")
 
 Other languages:
 
@@ -153,7 +153,7 @@ Other languages:
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "გამოყენების პირობები (45% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/km "លក្ខខណ្ឌ​ក្នុងការ​ប្រើប្រាស់ (7% translated)")
 * [ᱥᱟᱱᱛᱟᱲᱤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sat "ᱩᱠᱩᱣᱟᱜ : ᱵᱮᱵᱷᱟᱨ ᱨᱮᱭᱟᱜ ᱟᱹᱱ ᱟᱹᱨᱤ (5% translated)")
-* [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "政策：使用条款 (99% translated)")
+* [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "政策：使用条款 (100% translated)")
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "方針:利用規約 (99% translated)")
 * [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/syl "ꠘꠤꠔꠤ ꠪ ꠛꠦꠛꠀꠞ ꠇꠞꠣꠞ ꠡꠞ꠆ꠔꠣꠁꠘ (1% translated)")
 * [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "정책:이용 약관 (55% translated)")
