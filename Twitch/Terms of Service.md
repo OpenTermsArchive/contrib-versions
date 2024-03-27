@@ -1,4 +1,4 @@
-Last modified on 10/27/2023
+Last modified on 03/26/2024
 
 **Terms of Service**
 --------------------
@@ -27,23 +27,25 @@ Last modified on 10/27/2023
 
 [12\. Advertisements](#12-advertisements)
 
-[13\. Respecting Copyright](#13-respecting-copyright)
+[13\. Recommendations](#13-recommendations)
 
-[14\. Trademarks](#14-trademarks)
+[14\. Respecting Copyright](#14-respecting-copyright)
 
-[15\. Third-Party Content](#15-third-party-content)
+[15\. Trademarks](#15-trademarks)
 
-[16\. Idea Submission](#16-idea-submission)
+[16\. Third-Party Content](#16-third-party-content)
 
-[17\. Termination](#17-termination)
+[17\. Idea Submission](#17-idea-submission)
 
-[18\. Disputes](#18-disputes)
+[18\. Termination](#18-termination)
 
-[19\. Miscellaneous](#19-miscellaneous)
+[19\. Disputes](#19-disputes)
 
-[20\. Contact Information](#20-contact-information)
+[20\. Miscellaneous](#20-miscellaneous)
 
-[21\. Requests for Information and How to Serve a Subpoena](#21-requests-for-information-and-how-to-serve-a-subpoena)
+[21\. Contact Information](#21-contact-information)
+
+[22\. Requests for Information and Subpoenas](#22-requests-for-information-and-subpoenas)
 
 #### 1\. Introduction; Your Agreement to these Terms of Service
 
@@ -89,8 +91,6 @@ Access to the Twitch Services may require the use of your personal computer or m
 
 Twitch may amend any of the terms of these Terms of Service by posting the amended terms and updating the “Last modified” date above. Your continued use of the Twitch Services after the effective date of the revised Terms of Service constitutes your acceptance of the terms.
 
-For residents of the Republic of Korea, Twitch will provide reasonable prior notice regarding any material amendments to its Terms of Service.  All amendments shall become effective no sooner than 30 calendar days after posting; provided that any amendment regarding newly available features of the Service, features of the Service that are beneficial to the user, or changes made for legal reasons may become effective immediately.
-
 For residents of the European Union or the European Economic Area, the United Kingdom, or Switzerland, who are acting as a consumer (i.e., for a purpose which can be regarded as being outside your trade, craft or profession) (“Consumer”) and have registered a Twitch account, Twitch will provide reasonable prior notice of amendments to these Terms of Service. To the extent permitted by applicable law, not canceling your agreement to use the Twitch Services under these Terms of Service before the effective date will be deemed your consent to the amended terms. Where required by applicable law, Twitch will ask for your consent to the amended terms.
 
 #### 7\. License
@@ -102,8 +102,6 @@ Twitch reserves all rights not expressly granted in these Terms of Service. This
 #### 8\. User Content
 
 Twitch allows you to distribute streaming live and pre-recorded audio-visual works; to use services, such as chat, bulletin boards, forum postings, wiki contributions, and voice interactive services; and to participate in other activities in which you may create, post, transmit, perform, or store content, messages, text, sound, images, applications, code, or other data or materials on the Twitch Services (“User Content”).
-
-For residents of the Republic of Korea, distribution of pre-recorded audio-visual works and video on demand related features and functions (including but not limited to clips, highlights, and other uploaded content) may not be available.
 
 ##### **a. License to Twitch**
 
@@ -181,8 +179,6 @@ To the extent permitted by applicable law, Twitch takes no responsibility and as
 
 Twitch is not liable for any statements or representations included in User Content. Twitch does not endorse any User Content, opinion, recommendation, or advice expressed therein, and, to the extent permitted by applicable law, Twitch expressly disclaims any and all liability in connection with User Content. To the fullest extent permitted by applicable law, Twitch reserves the right to remove, screen, or edit any User Content posted or stored on the Twitch Services at any time and without notice, including where such User Content violates these Terms of Service or applicable law, and you are solely responsible for creating backup copies of and replacing any User Content you post or store on the Twitch Services at your sole cost and expense. Any use of the Twitch Services in violation of the foregoing violates these Terms of Service and may result in, among other things, termination or suspension of your rights to use the Twitch Services.
 
-For residents of the Republic of Korea, except in the case where Twitch reasonably considers that giving notice is legally prohibited (for instance, when providing notice would either (i) violate applicable laws, regulations, or orders from regulatory authorities or (ii) compromise an ongoing investigation conducted by a regulatory authority) or that any notice may cause harm to you, third parties, Twitch, and/or its affiliates (for instance, when providing notice harms the security of the Twitch Services), Twitch will without delay notify you of the reason for taking the relevant step.
-
 For residents of the European Union or the European Economic Area, the United Kingdom, or Switzerland who are acting as a Consumer, (i) Twitch will only remove, screen, or edit User Content for justified reasons, including without limitation where such User Content violates these Terms of Service or applicable law, and (ii) except where such notice would be unreasonable or legally prohibited considering the specific circumstances of the individual case, Twitch will without delay notify you of the reason for taking the relevant step.
 
 #### **11\. Simulcasting**
@@ -199,27 +195,31 @@ Collectively, these are referred to as the “Simulcast Guidelines.”
 
 Twitch has the exclusive right to monetize the Twitch Services, including without limitation, the exclusive right to sell, serve, and display advertisements on the Twitch Services. Third-party advertising networks are not allowed to serve advertising through the Twitch Services. However, you can publish Branded Content using the Twitch Services as set forth in Section 9 above.
 
-#### 13\. Respecting Copyright
+#### 13\. Recommendations
+
+As part of the Twitch Services, we will recommend content that might be of interest to you. For more information, please see [Recommendations On Twitch](https://www.twitch.tv/p/legal/recommendations-on-twitch/).
+
+#### 14\. Respecting Copyright
 
 Twitch respects the intellectual property of others and follows the requirements set forth in the Digital Millennium Copyright Act (“DMCA”) and other applicable laws. If you are the copyright owner or agent thereof and believe that content posted on the Twitch Services infringes upon your copyright, please submit a notice following our [DMCA Guidelines](https://www.twitch.tv/p/legal/dmca-guidelines), which include further information about our policies, what to include in your notice, and where to submit your notice.
 
-#### 14\. Trademarks
+#### 15\. Trademarks
 
 TWITCH, the Twitch logos, and any other product or service name, logo, or slogan used by Twitch, and the look and feel of the Twitch Services, including all page headers, custom graphics, button icons, and scripts, are trademarks or trade dress of Twitch, and may not be used in whole or in part in connection with any product or service that is not Twitch’s, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Twitch, without our prior written permission. Any use of these trademarks must be in accordance with the Twitch [Trademark Guidelines](https://www.twitch.tv/p/legal/trademark/).
 
 All other trademarks referenced in the Twitch Services are the property of their respective owners. Reference on the Twitch Services to any products, services, processes, or other information by trade name, trademark, manufacturer, supplier, or otherwise does not constitute or imply endorsement, sponsorship, or recommendation thereof by us or any other affiliation.
 
-#### 15\. Third-Party Content
+#### 16\. Third-Party Content
 
 In addition to the User Content, Twitch may provide other third-party content on the Twitch Services (collectively, the “Third-Party Content”). Twitch does not control or endorse any Third-Party Content and makes no representation or warranties of any kind regarding the Third-Party Content, including without limitation regarding its accuracy or completeness. Please be aware that we do not create Third-Party Content, update, or monitor it. Therefore, to the extent permitted by applicable law, we are not responsible for any Third-Party Content on the Twitch Services.
 
 You are responsible for deciding if you want to access or use third-party websites or applications that link from the Twitch Services (the “Reference Sites”). Twitch does not control or endorse any such Reference Sites or the information, materials, products, or services contained on or accessible through Reference Sites, and makes no representations or warranties of any kind regarding the Reference Sites. In addition, your correspondence or business dealings with, or participation in promotions of, advertisers found on or through the Twitch Services are solely between you and such advertiser. Access and use of Reference Sites, including the information, materials, products, and services on or available through Reference Sites is solely at your own risk.
 
-#### 16\. Idea Submission
+#### 17\. Idea Submission
 
 By submitting ideas, suggestions, documents, and/or proposals (the “Submissions”) to Twitch or its employees, you acknowledge and agree that Twitch shall be entitled to use or disclose such Submissions for any purpose in any way without providing compensation or credit to you.
 
-#### 17\. Termination
+#### 18\. Termination
 
 You may terminate your license to use the Twitch Services and this Terms of Service agreement at your discretion at any time by ceasing to use the Twitch Services or, if you are a registered user, by deleting your Twitch account. For residents of the European Union or the European Economic Area, or of the United Kingdom, who are acting as a Consumer, you may have a right to withdraw from or cancel the agreement for the use of the Twitch Services under these Terms of Service within a specific cooling-off period. When and how this right may apply is explained in our [EU, EEA & UK Consumer Right of Withdrawal Information](https://www.twitch.tv/legal/eu-eea-uk-right-of-withdrawal/).
 
@@ -227,7 +227,7 @@ To the fullest extent permitted by applicable law, Twitch reserves the right, wi
 
 For residents of the Republic of Korea and for residents of the European Union or the European Economic Area, the United Kingdom, or Switzerland who are acting as a Consumer, except in the case where Twitch reasonably considers that giving notice is legally prohibited (for instance, when providing notice would either (i) violate applicable laws, regulations, or orders from regulatory authorities or (ii) compromise an ongoing investigation conducted by a regulatory authority) or that any notice may cause harm to you, third parties, Twitch, and/or its affiliates (for instance, when providing notice harms the security of the Twitch Services), Twitch will without delay notify you of the reason for its action.
 
-#### 18\. Disputes
+#### 19\. Disputes
 
 ##### a. Indemnification
 
@@ -267,21 +267,21 @@ YOU ACKNOWLEDGE AND AGREE THAT TWITCH HAS OFFERED THE TWITCH SERVICES, USER CONT
 
 PLEASE READ THE FOLLOWING CAREFULLY BECAUSE IT REQUIRES YOU TO ARBITRATE DISPUTES WITH TWITCH AND LIMITS THE MANNER IN WHICH YOU CAN SEEK RELIEF FROM TWITCH.
 
-(a) You and Twitch agree to arbitrate any dispute arising from these Terms of Service or your use of the Twitch Services, except that you and Twitch are not required to arbitrate any dispute in which either party seeks equitable and other relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. ARBITRATION PREVENTS YOU FROM SUING IN COURT OR FROM HAVING A JURY TRIAL. You and Twitch agree that you will notify each other in writing of any dispute within thirty (30) days of when it arises. Notice to Twitch shall be sent to: Twitch Interactive, Inc., Attn: Legal, 350 Bush Street, 2nd Floor, San Francisco, CA 94104. You and Twitch further agree: to attempt informal resolution prior to any demand for arbitration; that any arbitration will occur in Santa Clara County, California; that arbitration will be conducted confidentially by a single arbitrator in accordance with the rules of JAMS; and that the state or federal courts in Santa Clara County, California have exclusive jurisdiction over any appeals of an arbitration award and over any suit between the parties not subject to arbitration. Other than class procedures and remedies discussed below, the arbitrator has the authority to grant any remedy that would otherwise be available in court. 
+(a) You and Twitch agree to arbitrate any dispute arising from these Terms of Service or your use of the Twitch Services, except that you and Twitch are not required to arbitrate any dispute in which either party seeks equitable and other relief for the alleged unlawful use of copyrights, trademarks, trade names, logos, trade secrets, or patents. ARBITRATION PREVENTS YOU FROM SUING IN COURT OR FROM HAVING A JURY TRIAL. You and Twitch agree that you will notify each other in writing of any dispute within thirty (30) days of when it arises. Notice to Twitch shall be sent to: Twitch Interactive, Inc., Attn: Legal, 350 Bush Street, 2nd Floor, San Francisco, CA 94104. You and Twitch further agree: to attempt informal resolution prior to any demand for arbitration; that any arbitration will occur in Santa Clara County, California; that arbitration will be conducted confidentially by a single arbitrator in accordance with the rules of JAMS; and that the state or federal courts in Santa Clara County, California have exclusive jurisdiction over any appeals of an arbitration award and over any suit between the parties not subject to arbitration. Other than class procedures and remedies discussed below, the arbitrator has the authority to grant any remedy that would otherwise be available in court.
 
-(b) Any dispute between the parties will be governed by this Agreement and the laws of the State of California and applicable United States law, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction. 
+(b) Any dispute between the parties will be governed by this Agreement and the laws of the State of California and applicable United States law, without giving effect to any conflict of laws principles that may provide for the application of the law of another jurisdiction.
 
 (c) Whether the dispute is heard in arbitration or in court, you and Twitch will not commence against the other a class action, class arbitration, or other representative action or proceeding.
 
 (ii) For residents of the European Union or the European Economic Area, the United Kingdom, or Switzerland who are acting as a Consumer, these Terms of Service and any disputes, claims, or causes of action arising out of or in connection with them will be governed by the laws of the State of California and applicable United States law, provided that this choice of governing law will not deprive you of the protection afforded to you by provisions that cannot be derogated from by agreement by virtue of the laws applicable where you habitually reside. In such cases, disputes shall be resolved in the competent civil courts as determined by applicable law.
 
-(iii) If you are a resident in any jurisdiction other than those named in (ii) in which the arbitration provision in the section (i)(a) above is found to be unenforceable, then any disputes, claims, or causes of action arising out of or in connection with these Terms of Service shall be brought and resolved by the state or federal courts in San Francisco County, California or, if required by applicable law, then by competent civil courts within your jurisdiction of residence. If the governing law provision in (i)(b) is found to be unenforceable, then the laws of your jurisdiction of residence shall govern. 
+(iii) If you are a resident in any jurisdiction other than those named in (ii) in which the arbitration provision in the section (i)(a) above is found to be unenforceable, then any disputes, claims, or causes of action arising out of or in connection with these Terms of Service shall be brought and resolved by the state or federal courts in San Francisco County, California or, if required by applicable law, then by competent civil courts within your jurisdiction of residence. If the governing law provision in (i)(b) is found to be unenforceable, then the laws of your jurisdiction of residence shall govern.
 
 ##### e. Claims
 
 TO THE EXTENT PERMITTED BY APPLICABLE LAW, YOU AND TWITCH AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE TWITCH SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES. OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
 
-#### 19\. Miscellaneous
+#### 20\. Miscellaneous
 
 ##### **a. Waiver**
 
@@ -303,7 +303,7 @@ Upon termination of these Terms of Service, any provision which, by its nature o
 
 The Terms of Service, which incorporate the Guidelines, is the entire agreement between you and Twitch relating to the subject matter herein and will not be modified except by a writing signed by authorized representatives of both parties, or by a change to these Terms of Service made by Twitch as set forth in Section 6 above.
 
-#### 20\. Contact Information
+#### 21\. Contact Information
 
 The Twitch Services are offered by:
 
@@ -317,22 +317,12 @@ The Twitch Services are offered by:
 
 If you are a California resident, you may have this same information emailed to you by sending a letter to the foregoing address with your email address and a request for this information.
 
-Twitch Interactive, Inc. is a company registered in the US State of Delaware under file no. 4221511. 
+Twitch Interactive, Inc. is a company registered in the US State of Delaware under file no. 4221511.
 
 For questions or more information, please visit our [Help Desk](http://help.twitch.tv/) or write to us at the address above, Attn: Customer Support.
 
 The EU Commission provides a platform for online dispute resolution at [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). Please note that Twitch is not obliged to participate in such dispute resolution.
 
-#### 21\. Requests for Information and How to Serve a Subpoena
+#### 22\. Requests for Information and Subpoenas
 
-All requests for information or documents related to potential, anticipated, or current legal proceedings, investigations, or disputes must be made using the appropriate level of legal process, and must be properly served on Twitch via the Corporation Service Company (CSC), Twitch’s national registered agent. Please find below the California address for CSC (the CSC office in your jurisdiction may be located through the Secretary of State’s website):
-
-> Twitch Interactive, Inc.
-> 
-> c/o Corporation Service Company
-> 
-> 2710 Gateway Oaks Drive, Suite 150N
-> 
-> Sacramento, CA 95833
-
-Please note that, to the extent permitted by applicable law, Twitch does not accept requests for information or documents, or service of process, via e-mail or fax and will not respond to such requests. All requests must include the information you may have that will help us identify the relevant records (particularly, the Twitch Service at issue, and the Twitch username at issue, e.g., http://www.twitch.tv/username), the specific information requested, and its relationship to your investigation. Please also note that limiting your request to the relevant records (e.g., a limited time period) will facilitate efficient processing of your request.
+All requests for information or documents related to potential, anticipated, or current legal proceedings, investigations, or disputes must be made using the appropriate level of legal process. Please see our [Service of Process](https://www.twitch.tv/p/legal/service-of-process/) page for more information.
