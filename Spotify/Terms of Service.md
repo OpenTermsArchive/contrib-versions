@@ -1,5 +1,5 @@
-[**Spotify Terms of Use**](#spotify-terms-of-use)
-=================================================
+[Spotify Terms of Use](#spotify-terms-of-use)
+=============================================
 
 Effective as of: March 24, 2023
 
@@ -30,8 +30,8 @@ These Terms are between you and Spotify USA Inc., 4 World Trade Center, 150 Gree
 
 BY USING THE SPOTIFY SERVICE, YOU AFFIRM THAT YOU ARE 18 YEARS OR OLDER TO ENTER INTO THESE TERMS, OR, IF YOU ARE NOT, THAT YOU ARE 13 YEARS OR OLDER AND HAVE OBTAINED PARENTAL OR GUARDIAN CONSENT TO ENTER INTO THESE TERMS. Additionally, in order to use the Spotify Service and access any Content, you represent that: you reside in the United States, and any registration and account information that you submit to Spotify is true, accurate, and complete, and you agree to keep it that way at all times.
 
-[**2\. The Spotify Service**](#2-the-spotify-service)
------------------------------------------------------
+[2\. The Spotify Service](#2-the-spotify-service)
+-------------------------------------------------
 
 ### [](#spotify-service-options)**Spotify Service options**
 
@@ -240,7 +240,7 @@ You and Spotify both agree that any Dispute relating to any actual or alleged in
 
 YOU AND SPOTIFY AGREE THAT EACH MAY BRING CLAIMS AGAINST THE OTHER IN ARBITRATION OR LITIGATION ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY AND NOT AS A PLAINTIFF OR CLASS MEMBER IN ANY PURPORTED CLASS, COLLECTIVE, CONSOLIDATED, PRIVATE ATTORNEY GENERAL, OR REPRESENTATIVE ACTION. Unless both you and Spotify agree, no arbitrator or judge may consolidate more than one person's claims or otherwise preside over any form of a representative or class proceeding. The arbitrator may award injunctive relief only in favor of the individual party seeking relief and only to the extent necessary to provide relief warranted by that party's individual claim. If a court decides that applicable law precludes enforcement of any of this paragraph's limitations as to a particular claim for relief or request for relief (such as a request for public injunctive relief) and all appeals have been exhausted or the decision is otherwise final, then the parties agree that such a claim or request for relief shall be decided by a court only after all other claims and requests for relief are arbitrated.
 
-#### [**Pre-arbitration notice of dispute and informal resolution period**](#pre-arbitration-notice-of-dispute-and-informal-resolution-period)
+#### [Pre-arbitration notice of dispute and informal resolution period](#pre-arbitration-notice-of-dispute-and-informal-resolution-period)
 
 A party who intends to seek arbitration must first send a written notice of the Dispute ("**Notice**") to the other. Notices to Spotify must be sent by email to [legal@spotify.com](mailto:legal@spotify.com), and Notices to you must be sent to the email address associated with your Spotify account. All Notices must: (1) be personally signed by the party sending the Notice; (2) provide the relevant user's name, email address associated with the user's Spotify account, and Spotify username; (3) describe with specificity the nature and basis of the Dispute; and (4) set forth the alleged damage and harm suffered and the specific relief sought with a calculation for it.
 
@@ -266,7 +266,7 @@ Spotify will pay all filing, administration, case-management, hearing, and arbit
 
 Regardless of the manner in which the arbitration is conducted, the arbitrator shall issue a reasoned written decision sufficient to explain the essential findings and conclusions on which the decision and award, if any, are based. The arbitrator may consider rulings in other arbitrations involving different users, but an arbitrator's ruling will not be binding in any proceeding involving different users. The arbitrator may make rulings and resolve any disagreements as to the payment and reimbursement of fees or expenses at any time during the proceeding and upon request from either party made within fourteen (14) days of the arbitrator's ruling on the merits. An arbitration award that has been satisfied may not be filed or entered in court.
 
-### [**Mass arbitration**](#mass-arbitration)
+### [Mass arbitration](#mass-arbitration)
 
 If you elect to have your claim addressed as part of a mass arbitration (defined below), you agree to the additional procedures set forth below.
 
