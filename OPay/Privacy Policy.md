@@ -239,3 +239,11 @@ Alexander House, Otunba Jobi Fele Way, Alausa, Ikeja, Lagos
 _★__★__★__★__★_
 
 [Get the App](https://play.google.com/store/apps/details?id=team.opay.pay)
+
+We use cookies to personalise content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners who may combine it with other information that you’ve provided to them or that they’ve collected from your use of their services. Check [Privacy Policy](https://www.opayweb.com/privacy-policy).
+
+Cookie Settings
+
+Accept All
+
+Reject All
