@@ -94,7 +94,7 @@ Our Privacy Policy explains what information we process when you use our product
 | Български \| Bulgarian | [Политика за поверителност](https://www.wbdprivacy.com/policycenter/b2c/bg) | [Избор за реклами](https://www.wbdprivacy.com/policycenter/b2c/bg#adchoices) | [Диаграма с правните основания](https://www.wbdprivacy.com/policycenter/legalbases/bg) |
 | Hrvatski \| Croatian | [Pravilima o Privatnosti](https://www.wbdprivacy.com/policycenter/b2c/hr) | [Izbori za oglase](https://www.wbdprivacy.com/policycenter/b2c/hr#adchoices) | [Tablica pravnih osnova](https://www.wbdprivacy.com/policycenter/legalbases/hr) |
 | Čeština \| Czech | [Zásady Ochrany Osobních](https://www.wbdprivacy.com/policycenter/b2c/cs) | [Volby reklam](https://www.wbdprivacy.com/policycenter/b2c/cs#adchoices) | [Tabulka právních základů](https://www.wbdprivacy.com/policycenter/legalbases/cs) |
-| Dansk \| Danish | [Databeskyttelsespolitik](https://www.wbdprivacy.com/policycenter/b2c/da) | [Reklamevalg](https://www.wbdprivacy.com/policycenter/b2c/da#adchoices) | [Skema over juridiske grundlag](https://www.wbdprivacy.com/policycenter/legalbases/da) |
+| Dansk \| Danish | [Databeskyttelsespolitik](https://www.wbdprivacy.com/policycenter/b2c/da) | [Reklamevalg](https://www.wbdprivacy.com/policycenter/b2c/da#adchoices) | \>[Skema over juridiske grundlag](https://www.wbdprivacy.com/policycenter/legalbases/da) |
 | Nederlands \| Dutch | [Privacybeleid](https://www.wbdprivacy.com/policycenter/b2c/nl) | [Advertentiekeuzes](https://www.wbdprivacy.com/policycenter/b2c/nl#adchoices) | [Tabel met rechtsgrondslagen](https://www.wbdprivacy.com/policycenter/legalbases/nl) |
 | Suomi \| Finnish | [Tietosuojakäytäntö](https://www.wbdprivacy.com/policycenter/b2c/fi) | [Mainoksia koskevat valinnat](https://www.wbdprivacy.com/policycenter/b2c/fi#adchoices) | [Taulukko oikeusperusteista](https://www.wbdprivacy.com/policycenter/legalbases/fi) |
 | Français \| French | [Politique de Confidentialité](https://www.wbdprivacy.com/policycenter/b2c/fr-emea) | [Choix d’annonces](https://www.wbdprivacy.com/policycenter/b2c/fr-emea#adchoices) | [Tableau des bases juridiques](https://www.wbdprivacy.com/policycenter/legalbases/fr-emea) |
@@ -142,6 +142,7 @@ Our Privacy Policy explains what information we process when you use our product
 
 |     |     |     |     |
 | --- | --- | --- | --- |
+| English (Middle East & North Africa) | [Privacy Policy](https://www.wbdprivacy.com/policycenter/b2c/en-mena) | [Ad Choices](https://www.wbdprivacy.com/policycenter/b2c/en-mena#adchoices) | [Legal Bases Chart](https://www.wbdprivacy.com/policycenter/legalbases/en-mena) |
 | العربية\| Arabic | [سياسة خصوصية المستهلك](https://www.wbdprivacy.com/policycenter/b2c/ar) | [اختيارات الإعلان](https://www.wbdprivacy.com/policycenter/b2c/ar#adchoices) | [مخطط الأسس القانونية](https://www.wbdprivacy.com/policycenter/legalbases/ar) |
 
   
