@@ -2908,8 +2908,8 @@ Article 6. Application for Use Agreement and Non-approval of Application for Use
 5. In cases where a Use Agreement is not formed, the Contract Applicant may not use the Individual Services.
 6. In cases where the Company does not approve a Use Agreement application, the Company shall not bear a duty to disclose or explain the reasons for non-approval to the Contract Applicant relating to the relevant application and shall not bear any liability whatsoever for damage incurred by the Contract Applicant as a result of the non-approval.
 
-Article 7. Contracting Parties’ Duties and Responsibilities任
-------------------------------------------------------------
+Article 7. Contracting Parties’ Duties and Responsibilities
+-----------------------------------------------------------
 
 1. Contracting Parties understand the pixiv Terms of Use, Individual Terms of Use, and other Rules and shall endeavor to perform them and comply with them.
 2. Contracting Parties shall not engage in conduct that is prohibited by the Rules (“Prohibited Conduct”). If a Contracting Party engages in Prohibited Conduct, this shall be deemed as conduct in violation of the Rules including these Individual Terms of Use, regardless of the Contracting Party’s willful misconduct or negligence.
@@ -3031,8 +3031,8 @@ Supplementary Provisions
 
 These Individual Terms of Use shall take effect on 01/28, 2019.
 
-“VRoid mobile” Individual Terms of Us
-=====================================
+“VRoid mobile” Individual Terms of Use
+======================================
 
 This document is an English translation of the original version for reference purposes only. The original version is written in the Japanese language. In the case of any discrepancy between the original Japanese version and this English translation, the original Japanese version shall prevail.
 
