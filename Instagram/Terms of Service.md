@@ -96,7 +96,7 @@ In return for our commitment to provide the Service, we require you to make the 
 
 * If you select a username or similar identifier for your account, we may change it if we believe it is appropriate or necessary (for example, if it infringes someone's intellectual property or impersonates another user).
 * If you use content covered by intellectual property rights that we have and make available in our Service (for example, images, designs, videos, or sounds we provide that you add to content you create or share), we retain all rights to our content (but not yours).
-* You can only use our intellectual property and trademarks or similar marks as expressly permitted by our [Brand Guidelines](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fwww.facebook.com%2Fbrand%2Finstagram%2Fguidelines%2Fsystem-overview%2F&e=removed) or with our prior written permission.
+* You can only use our intellectual property and trademarks or similar marks as expressly permitted by our [Brand Guidelines](https://help.instagram.com/https%3A%2F%2Fl.instagram.com%2F%3Fu=https%3A%2F%2Fabout.meta.com%2Fbrand%2Fresources%2Finstagram%2Finstagram-brand%2F&e=removed) or with our prior written permission.
 * You must obtain written permission from us or under an open source license to modify, create derivative works of, decompile, or otherwise attempt to extract source code from us.
 
   
