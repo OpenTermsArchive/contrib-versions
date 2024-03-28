@@ -60,15 +60,6 @@ _In particular, we will not be liable for:_
 
 _By using Polyfill.io, you agree that the above exclusions of liability are reasonable, and that your use of Polyfill.io is therefore entirely at your own risk._
 
-We are not responsible for viruses and you must not introduce them
-------------------------------------------------------------------
-
-We do not guarantee that Polyfill.io will be secure or free from bugs or viruses.
-
-You are responsible for configuring your information technology, computer programs and platform to access Polyfill.io. You should use your own virus protection software.
-
-You must not misuse Polyfill.io by knowingly introducing viruses, trojans, worms, logic bombs or other material that is malicious or technologically harmful. You must not attempt to gain unauthorised access to Polyfill.io, the server on which Polyfill.io are stored or any server, computer or database connected to Polyfill.io. You must not attack Polyfill.io via a denial-of-service attack or a distributed denial-of service attack. By breaching this provision, you would commit a criminal offence under the Computer Misuse Act 1990. We will report any such breach to the relevant law enforcement authorities and we will co-operate with those authorities by disclosing your identity to them. In the event of such a breach, your right to use Polyfill.io will cease immediately.
-
 We may make changes to these terms
 ----------------------------------
 
