@@ -44,9 +44,9 @@ This Policy applies only to the actions of Wide Angle Software and Users with re
 
 ### 3.2 Data Collected by our Software
 
-3.2.1 Your activation details will be saved and verified by the software. The Software needs to be connected to the internet for the sole purpose of verifying the validity of your purchased software license / activation code.
+3.2.1 The Software accesses your files and data locally on your computer. None of your files or data are transferred to Wide Angle Software or any third party.
 
-3.2.2 The Software accesses your files and data locally on your computer. None of your files or data are transferred to Wide Angle Software or any third party.
+3.2.2 For products that require activation to get full functionality, your activation details will be saved and verified by the software. Those products need to be connected to the internet for the sole purpose of verifying the validity of your purchased software license / activation code.
 
 ### 4\. Our Use of Data
 
