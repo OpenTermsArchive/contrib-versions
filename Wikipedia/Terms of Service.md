@@ -77,7 +77,7 @@ Other languages:
 * [Sunda](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/su "Sarat pamakéan (10% translated)")
 * [Tagalog](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tl "Patakaran:Kasunduan sa Paggamit (21% translated)")
 * [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vi "Điều khoản Sử dụng (99% translated)")
-* [Türkçe](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tr "Kullanım şartları (89% translated)")
+* [Türkçe](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tr "Kullanım şartları (91% translated)")
 * [Zazaki](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/diq "Şerte karkerdışi (10% translated)")
 * [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Términos d'usu (40% translated)")
 * [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/az "İstifadə Şərtləri (10% translated)")
