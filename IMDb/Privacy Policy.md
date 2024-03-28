@@ -1,6 +1,6 @@
 **IMDb Privacy Notice**
 
-**Last Updated, June 30, 2023**. To see prior version, click [here](https://www.imdb.com/privacy/change/?ref_=pvc_1).
+**Last Updated, March 27, 2024**. To see prior version, click [here](https://www.imdb.com/privacy/change/?ref_=pvc_1).
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how IMDb, IMDbPro, and Box Office Mojo (collectively "IMDb") collect and process your personal information through IMDb websites, services, and applications that reference this Privacy Notice (together the "IMDb Services"). **By using the IMDb Services, you are consenting to the practices described in this Privacy Notice.**
 
@@ -58,7 +58,9 @@ Other than as set out above, you will receive notice when personal information a
 
 * **Third-Party Advertising and Links to Other Websites:** IMDb Services may include third-party advertising and links to other websites and apps. Third-party advertising partners may collect information about you when you interact with their content, advertising, and services. For more information about third-party advertising at IMDb, including interest-based ads, please read the [Amazon Interest-Based Ads](https://www.amazon.com/gp/help/customer/display.html?nodeId=202075050) policy. To adjust your advertising preferences, please go to the [Your Ads Privacy Choices](https://www.amazon.com/privacyprefs?ref_=footer_iba) page. 
 
-**Use of Third-Party Advertising Services:** We provide ad-serving companies, ad networks and advertising companies with information that allows them to serve you with more useful and relevant ads and to measure their effectiveness. We never share your name or other information that directly identifies you when we do this. Instead, we use an advertising identifier like a cookie or other device identifier. For example, we may share a cookie or advertising identifier together with a request to deliver an advertisement with an ad network to enable you to receive more relevant ads. As an additional example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again. Some ad companies also use this information to serve you relevant ads from other advertisers.  You can learn more about how to opt-out of personalized advertising (such as cross-context behavioral advertising) by going to the  [Your Ads Privacy Choices](https://www.amazon.com/privacyprefs?ref_=footer_iba)   page. **How Secure Is Information About Me?**
+**Use of Third-Party Advertising Services:** We provide ad-serving companies, ad networks and advertising companies with information that allows them to serve you with more useful and relevant ads and to measure their effectiveness. We never share your name or other information that directly identifies you when we do this. Instead, we use an advertising identifier like a cookie or other device identifier. For example, we may share a cookie or advertising identifier together with a request to deliver an advertisement with an ad network to enable you to receive more relevant ads. As an additional example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again. Some ad companies also use this information to serve you relevant ads from other advertisers.  You can learn more about how to opt-out of personalized advertising (such as cross-context behavioral advertising) by going to the  [Your Ads Privacy Choices](https://www.amazon.com/privacyprefs?ref_=footer_iba)   page. 
+
+**How Secure Is Information About Me?**
 
 We design our systems with your security and privacy in mind.
 
@@ -86,11 +88,52 @@ If you have any questions as to how we collect and use your personal information
 
 **Are Children Allowed to Use IMDb Services?**
 
-IMDb Services are not intended for use by children under the age of 13. If you are under 13, you may not sign up for IMDb Services or submit information about yourself to IMDb.
+IMDb Services are not intended for use by children under the age of 13. If you are under 13 you may not sign up for IMDb Services or submit information about yourself to IMDb.
 
 **Additional State-Specific Privacy Disclosures**
 
 Click [here](https://help.imdb.com/article/issues/G73WRBWXE25UUTHP) to read additional state-specific privacy disclosures as required under applicable laws.
+
+**For Customers in Europe and the UK:**
+
+IMDb.com, Inc., at 410 N. Terry Ave., Seattle, WA 98109 is the data controller of personal information collected and processed through IMDb Services.
+
+**EU General Data Protection Regulation and UK Data Protection Laws** 
+
+**Legal Bases**
+
+The EU GDPR and UK data protection laws require a legal basis for our use of personal information. Our basis varies depending on the specific purpose for which we use personal information. We use:
+
+* **Performance of a contract** when we provide you with services, or communicate with you about them. This includes when we use your personal information to deliver services, and process payments.
+* **Our legitimate business interests and the interests of our customers** when we improve IMDb Services, when we publish and display credit and other factual biographical information on IMDb Services, for certain advertising services, and when we detect and prevent fraud and abuse in order to protect the security of our customers, ourselves, or others.
+* **Your consent** when we ask for your consent to process your personal information for a specific purpose that we communicate to you. When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time and we will stop processing of your data for that purpose.
+* **Compliance with a legal obligation** when we use your personal information to comply with laws.
+* **These and other legal bases** depending on the purpose for which we use personal information.
+
+How Long Do We Keep Your Personal Information?
+----------------------------------------------
+
+We keep your personal information to enable your continued use of IMDb Services, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law such as for tax and accounting purposes, or as otherwise communicated to you. 
+
+**What rights do I have?**
+
+If you have any questions or objection as to how we collect and process your personal information, please contact our [Customer Service](https://help.imdb.com/contact). Many of our IMDb Services also include settings that provide you with options as to how your information is being used.
+
+In addition to the choices outlined above:
+
+* You can view more information about the cookies we use on our site in our [Cookies](https://www.amazon.de/-/en/gp/help/customer/display.html?nodeId=GVASXV5UZ64R4Y25) notice. 
+* When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time and we will stop any further processing of your data for that purpose.
+
+* Subject to applicable law, you have the right to request access to, correct, and delete your personal data, and to ask for data portability. You may also object to our processing of your personal data or ask that we restrict the processing of your personal data in certain instances. If you wish to do any of these things, please contact [Customer Service](https://help.imdb.com/contact) or, to submit a data subject access request, go to the [IMDb Help Center](https://help.imdb.com/article/imdb/general-information/how-can-i-access-or-delete-personal-information-imdb-stores-about-me/GDASD2LZMU8HNH4H?ref_=helpms_helpart_inline). Please be advised that IMDb is legally required or entitled to retain some information, such as your content contribution history. We do this in line with applicable laws, including for tax, accounting, and fraud prevention purposes.
+
+Contacts, Notices & Revisions.
+------------------------------
+
+Our EU representative is Amazon Europe Core S.a.r.l., located 38 avenue John F. Kennedy L-1855 Luxembourg
+
+If you have any concern about privacy at IMDb or want to contact us, please reach out to [Customer Service](https://help.imdb.com/contact) with a thorough description and we will try to resolve the issue for you. Further, the data protection officer for Amazon Europe Core SARL, can be contacted at eu-privacy@amazon.co.uk. If you are of the opinion that the processing of your personal data constitutes a violation of data privacy laws; you can file a complaint with our principal supervisory authority, [Commission Nationale pour la Protection des Données in Luxembourg](https://cnpd.public.lu/fr.html), the [Information Commissioner's Office](https://ico.org.uk/), or with another local authority.
+
+Our business changes constantly and our Privacy Notice will change also. You should check our website frequently to see recent changes. Unless stated otherwise, our current Privacy Notice applies to all information that we have about you and your account. We stand behind the promises we make, however, and will never materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
 
 **Conditions of Use, Notices, and Revisions**
 
