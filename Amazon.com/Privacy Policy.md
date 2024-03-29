@@ -1,9 +1,11 @@
 Amazon.com Privacy Notice
 =========================
 
-**Last updated: August 11, 2023.** To see prior version, click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=202056900).
+**Last updated: March 31, 2024.** To see prior version, click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=202056900).
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). **By using Amazon Services, you are consenting to the practices described in this Privacy Notice.**
+
+_Please read our [Additional State-Specific Privacy Disclosures](https://www.amazon.com/gp/help/customer/display.html?nodeId=GC5HB5DVMU5Y8CJ2) and [Consumer Health Data Privacy Disclosure](https://www.amazon.com/gp/help/customer/display.html?nodeId=TnACMrGVghHocjL8KB) for additional information about the processing of your personal data and your rights under applicable U.S. state data privacy laws._
 
 * [What Personal Information About Customers Does Amazon Collect?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_467C686A137847768F44B619694D3F7C)
 * [For What Purposes Does Amazon Use Your Personal Information?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_7CE768C1281346DAAF87CE795E8B3610)
@@ -15,7 +17,6 @@ We know that you care how information about you is used and shared, and we appre
 * [What Choices Do I Have?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE)
 * [Are Children Allowed to Use Amazon Services?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_D17374D6EE5B4077946965351E11175C)
 * [EU-US and Swiss-US Data Privacy Framework](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_A110DAC3F6BC4D5D9DDD59797104B1E5)
-* [Additional State-Specific Privacy Disclosures](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_FE2374D302994717AB1A8CE585E7E8BE)
 * [Conditions of Use, Notices, and Revisions](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_BA2E1D5A9B1F41CB86BCF0A40D9B8604)
 * [Related Practices and Information](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_644071FEF22E48A2A160BAA332F95B27)
 * [Examples of Information Collected](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01)
@@ -115,11 +116,6 @@ Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extens
 
 _\*We will not rely on the Swiss-US Data Privacy Framework or the UK Extension to the EU-US Data Privacy Framework until they enter into force, but we adhere to their required commitments in anticipation of their doing so._
 
-Additional State-Specific Privacy Disclosures
----------------------------------------------
-
-Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=GC5HB5DVMU5Y8CJ2) to read additional state-specific privacy disclosures as required under applicable laws.
-
 Conditions of Use, Notices, and Revisions
 -----------------------------------------
 
@@ -154,7 +150,7 @@ You provide information to us when you:
 * complete a questionnaire, a support ticket, or a contest entry form;
 * upload or stream images, videos or other files to Prime Photos, Amazon Drive, or other Amazon Services;
 * use our services such as Prime Video;
-* compile Playlists, Watchlists, [Wish Lists](https://www.amazon.com/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist2), or other gift registries;
+* compile Playlists, Watchlists, [Wish Lists](https://www.amazon.com/gp/registry/wishlist-homepage.html/ref=hp_468496_wishlist2) , or other gift registries;
 * participate in Discussion Boards or other community features;
 * provide and rate [Reviews](https://www.amazon.com/gp/help/customer/display.html?nodeId=G4N2FJ6WB9RDPEHW);
 * specify a Special Occasion Reminder; or
