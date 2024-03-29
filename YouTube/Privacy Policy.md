@@ -728,6 +728,10 @@ Examples of these services include:
 
 When lots of people start searching for something, it can provide useful information about particular trends at that time. Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms. [Learn more](https://support.google.com/trends?p=privpol_about)
 
+### similar information related to your physical or mental health
+
+If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.
+
 ### specific Google services
 
 For example, you can delete [your blog](https://support.google.com/blogger?p=privpol_blog) from Blogger or [a Google Site you own](https://support.google.com/sites?p=privpol_delete) from Google Sites. You can also delete [reviews](https://support.google.com/googleplay?p=privpol_review) you’ve left on apps, games, and other content in the Play Store.
