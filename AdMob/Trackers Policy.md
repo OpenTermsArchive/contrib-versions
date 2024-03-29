@@ -100,7 +100,7 @@ These Ads settings are available in the following paths on Google TV and Android
 
 **Google TV**
 
-_Consistent path to Ads:_
+Consistent path to Ads:
 
 1. Settings
 2. Privacy
@@ -110,14 +110,14 @@ _Consistent path to Ads:_
 
 Ads settings show up in one of two general paths for Android TV depending on the TV manufacturer/model. In Android TV, partners have the freedom to adapt the Settings path. It’s up to the partner which path they use to best fit their custom TV experience but below are the common paths to Ad settings.
 
-_Path A:_
+Path A:
 
 1. Settings
 2. About
 3. Legal Information
 4. Ads
 
-_Path B:_
+Path B:
 
 1. Settings
 2. Devices Preferences
