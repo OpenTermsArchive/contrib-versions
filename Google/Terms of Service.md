@@ -414,7 +414,7 @@ If you withdraw from this contract, we shall reimburse to you all payments recei
 | Italy | 800 598 905 |
 | Latvia | 80 205 391 |
 | Liechtenstein | 0800 566 814 |
-| Lithuania | 8 800 00 163 |
+| Lithuania | 0 800 00 163 |
 | Luxembourg | 800 40 005 |
 | Malta | 8006 2257 |
 | Martinique | 0805 98 03 38 |
