@@ -2,9 +2,11 @@
 
 As part of our effort to protect your privacy and to comply with applicable privacy and data protection laws, we strive to consider all of our data governance practices through the lens of the recognized principles of data minimization, limited collection, and limited use, among other key areas addressed below. We do so to respect and maintain your trust. In other words, we believe that taking care of you includes taking care of your data and privacy. Grab a cup of coffee and learn more below.
 
+Please see the [Consumer Health Data Privacy Notice for Washington and Nevada](https://www.starbucks.com/consumer-health-data-privacy-notice/) for additional information of how we may process personal information that could be considered consumer health data.
+
 **Starbucks Privacy Notice**
 
-Last Revised: January 12, 2024
+Last Revised: March 29, 2024
 
 **Overview**
 
@@ -52,6 +54,7 @@ When you visit and use the Starbucks Services, we may collect the following cate
 * **Geolocation Information –** We may collect information about your location of your device, such as information derived from your device (e.g., based on a browser or device’s IP address).  We may also use location-based technology in our retail locations, to collect information about the presence of your device, if your Bluetooth is turned on and your device settings allow for this.
 * **Audio and Visual Information** – We may collect audio and visual information when you use the Starbucks Services.  For example, closed circuit video surveillance cameras (“CCTV”) may be installed at some of our retail locations to monitor building security and assist in crime prevention, detection, and investigation, and to ensure the safety of our staff and visitors to our facilities, and these CCTV cameras may collect audio, visual, and similar information.  Also, depending on your choices, we may collect audio information when you use voice ordering.
 * **Inferences –** We may also collect inferences drawn from the other information described above.
+* **Other –** We may collect other information that you voluntarily provide when you communicate with us.
 
 Additionally, depending on how you use the Starbucks Services, we may collect the following categories of sensitive personal information from you:
 
@@ -184,7 +187,7 @@ If you use the Starbucks App features described above, you consent to the transm
 
 **(b)  Your Rights,** **including State-Specific Rights**
 
-Depending on where you live (including California, Colorado, Connecticut, Utah, and Virginia), you may be entitled to certain rights with respect to your personal information, as described below.
+Depending on where you live (including California, Colorado, Connecticut, Nevada, Utah, Virginia, and Washington), you may be entitled to certain rights with respect to your personal information, as described below.
 
 * **Right to Know** – You may have the right to know what personal information the business has collected about you, including the categories of personal information, the categories of sources from which it is collected, the business or commercial purposes for collecting, selling, or sharing it, and the categories of third parties to whom we disclose it.
 * **Access and Data Portability** – Subject to certain exceptions, you may have the right to request a copy of the personal information that we collected about you during the 12 months before your request.
@@ -194,6 +197,7 @@ Depending on where you live (including California, Colorado, Connecticut, Utah, 
 * **Sensitive Information** – Companies who collect, use, and disclose your sensitive personal information for purposes other than to provide you with goods or services are required to provide you with the right to limit the use and disclosure of your sensitive personal information by providing a “Limit the Use and Disclosure of My Sensitive Personal Information” link. Starbucks only collects, uses, and discloses your sensitive personal information to provide services to you, therefore Starbucks is not required to provide this link.
 * **Opt-Out Preference Signals** – Some web browsers allow customers to automatically exercise their right to opt-out of sale/sharing with all businesses they interact with online by initiating an opt-out preference signal. We will honor such opt-out preference signals.
 * **Appeals –** You may appeal our decision with respect to a request you have submitted by contacting us as described in the “Contact Us” section below.
+* **Consumer Health Data Rights in Washington and Nevada –** You may have additional rights relating to consumer health data. For more information, please see the [Consumer Health Data Privacy Notice for Washington and Nevada](https://www.starbucks.com/consumer-health-data-privacy-notice/)
 
 Requests for U.S. residents should be submitted through this form [**HERE**](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html).
 
