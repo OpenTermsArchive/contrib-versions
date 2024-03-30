@@ -4,7 +4,7 @@ Disqus Privacy Policy
 
 Written by Disqus
 
-Updated this week
+Updated over a week ago
 
 Disqus Privacy Policy
 
@@ -72,7 +72,7 @@ Note that we may process your personal data for more than one lawful ground depe
   
 d.
 
-[![](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1711738955&signature=72fee8d83b904fd453cd28a97b5673d07e3017dce0e412ffa182a44dcd9b847e)](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1711738955&signature=72fee8d83b904fd453cd28a97b5673d07e3017dce0e412ffa182a44dcd9b847e)
+[![](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1711760658&signature=3d00dbe31ef489006ac1259a62ab9957a0101f8fd2b4a12cacce85718cb2bbb9)](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1711760658&signature=3d00dbe31ef489006ac1259a62ab9957a0101f8fd2b4a12cacce85718cb2bbb9)
 
 **6\. DISCLOSURES OF YOUR PERSONAL DATA**  
 a. We may sell or share your personal data with the parties set out below for the purposes set out in the table in the previous section.
