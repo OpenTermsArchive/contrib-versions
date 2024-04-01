@@ -26,10 +26,11 @@ Google helps to enable a free and open internet by helping publishers monetize t
 
 Google Publisher Policies are organized into the following categories:
 
-* [Content policies](#content) 
-* [Behavioral policies](#behavioral) 
+* [Content policies](#content)
+* [Behavioral policies](#behavioral)
+* [Video policies](#video)
 * [Privacy-related policies](#privacy)
-* [Requirements and other standards](#standards) 
+* [Requirements and other standards](#standards)
 
 Learn more about the commonly used policy terms and what they mean in the [glossary](https://support.google.com/publisherpolicies/table/10563033). 
 
@@ -314,6 +315,65 @@ We do not allow content that:
 ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about unsupported languages](https://support.google.com/publisherpolicies/answer/10436912)_
 
  
+
+* * *
+
+Video policies
+--------------
+
+### Policies for video inventory
+
+Monetization of video inventory is a means to bring additional value to video content, benefiting publishers, users, and advertisers. To ensure that video inventory monetized with Google ad code ("**Video Inventory**") provides a positive experience for publishers, users, and advertisers, we have set out requirements below on the nature and implementation of Video Inventory.
+
+#### Accurately describe inventory
+
+1. Video Inventory must provide declarations with accurate signals (for Ad Manager, see [VAST ad tag URL parameters](https://support.google.com/admanager/answer/10678356)), including:
+    * Audibility of ad placement: Audible by default or muted (for Ad Manager, see [`vpmute` parameter](https://support.google.com/admanager/answer/10678356#vpmute)).
+    * Type of ad placement: Video ads serving into video players with video content must be accurately declared as either "In-stream" or "Accompanying Content" placements (for Ad Manager, see [`plcmt` parameter](https://support.google.com/admanager/answer/10678356#plcmt)). Video ads serving into non-video player placements do not require declarations, and will be automatically determined by Google based on [inventory format](https://support.google.com/admanager/answer/9796545) as either "Interstitial" or "Standalone" placements.
+        * "**In-stream**" means a video or audio ad played within the stream of video or audio content, where the video or audio content is the focus of the user's visit or explicitly requested by the user.
+            
+            Example: A video ad that is played before, in the middle of, or after the stream of a user-requested video content.
+            
+        * "**Accompanying Content**" means a video ad played within the stream of video content accompanying the main content of the user’s visit, where the video content is neither the focus of the user’s visit nor explicitly requested by the user. Accompanying Content placements must load within the body of the page, and muted by default.
+            
+            Example: A video ad that is played before, in the middle of, or after the stream of muted video content that takes up a small portion of a primarily editorial page.
+            
+        * "**Interstitial**" means a video ad played without the presence of any other streaming video content in a transition between content, where the video ad is the primary focus of the page and takes up the majority of the viewport.
+            
+            Example: A video ad that is independent of any other streaming video content, and that is placed in full view in a natural break or transition between content.
+            
+        * "**Standalone**" means a video ad played without the presence of any other streaming video content, where the video ad is not the focus of the page.
+            
+            Example: A video ad that is independent of any other streaming video content, and that is placed in a banner at the right rail of an article page.
+            
+
+**Note**: For Ad Manager, the terms "instream" or "in-stream" in Help Center pages and in-product controls refer to both "In-stream" and "Accompanying Content" as defined in these policies. Ad Manager Video Inventory that is "In-stream" or "Accompanying Content" per these policies must adhere to the respective requirements in these policies.
+
+#### Use supported implementations
+
+2. In-stream or Accompanying Content placements must use the [Google Interactive Media Ads SDK](https://developers.google.com/interactive-media-ads) or [Google Programmatic Access Library](https://developers.google.com/ad-manager/pal) on supported platforms, unless through an official Google Beta program.
+    * Partners and publishers cannot use Interactive Media Ads products to monetize YouTube content. For YouTube content, partners and publishers must monetize through the [YouTube Partner Program](https://support.google.com/youtube/answer/72851).
+3. Interstitial or Standalone placements must use Google-provided solutions: on web: [Google Publisher Tags](https://developers.google.com/publisher-tag/guides/get-started); in app: the Google Mobile Ads SDK ([for Ad Manager](https://developers.google.com/ad-manager/mobile-ads-sdk); [for AdMob](https://developers.google.com/admob)).
+    * The Google Interactive Media Ads SDK is not allowed for Interstitial or Standalone placements, except for placements in games.
+
+#### Protect advertiser value
+
+4. Video Inventory content or controls (for example, play, pause, mute, skip, or dismiss), including ad content or controls where provided, must not be obstructed, hidden, or non-functional.
+5. For In-stream placements, audio ads must not be requested or served in muted placements.
+
+#### Respect the user
+
+6. Video Inventory may autoplay, provided that:
+    * Only one Video Inventory across all placement types may autoplay with sound at any time.
+        * Additionally for In-stream or Accompanying Content placements, only one video player may autoplay in view at any time.
+    * The ad must not autoplay until at least 50% of the ad unit is visible.
+7. Video Inventory may be sticky, provided that:
+    * A dismiss option is presented for the entire duration of the video or ad content. This option must not be hidden, obstructed, or non-functional.
+    * For In-stream or Accompanying Content placements, the video player must start in the main content and only transition to a sticky placement as a user scrolls the video player off the page.
+
+**Note**: Our policies define the type of content that creators and publishers may monetize with Google ad code. The above requirements do not guarantee to advertisers the quality of the placements they purchase.
+
+            ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about policies for video inventory](https://support.google.com/publisherpolicies/answer/14558458)_
 
 * * *
 
