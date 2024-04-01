@@ -286,7 +286,7 @@ To help maintain a safe metaverse, Roblox does not permit:
 
 Sharing Personal Information
 
-To maintain privacy and safety, users may be prohibited from sharing their own or requesting others’ personal information and unique identifiers on Roblox, including:
+To maintain privacy and safety, users may be prohibited from sharing or requesting personal information on Roblox depending on their age, including:
 
 * Email address
 * Passwords or access tokens
@@ -295,14 +295,13 @@ To maintain privacy and safety, users may be prohibited from sharing their own o
 * Medical information
 * Telephone number
 * Internet Identifiers such as usernames and handles not linked to Roblox
-* Unique Identifiers such as social security number
-* Images of themselves or other non-public figures
-* Real names except as permitted in display names for eligible users
-* Any personal identifiable information relating to minors including unauthorized images or voice and video recordings.
+* Sensitive credentials such as social security number
+* Visual and audio media of themselves or other non-public figures
+* Full legal names except as permitted in Usernames or Display Names for eligible users
 
 Directing Users Off-Platform
 
-When using Roblox, you may not link to any external websites or services, except for: YouTube, Facebook, Discord, Twitter, and Twitch. Links to any of those approved sites must be wrapped in the [applicable PolicyService API](https://developer.roblox.com/en-us/api-reference/function/PolicyService/GetPolicyInfoForPlayerAsync) or listed in the Social Networks and Social Links settings of your profile or experience description page. Links (including those to approved sites) that appear in locations where the API cannot be deployed - such as text chat or embedded in media - are prohibited. Any other links or efforts to evade detection of links are prohibited, including:
+When using Roblox, you may not link to any external websites or services, except for: YouTube, Facebook, Discord, X (formerly Twitter), and Twitch. Links to any of those approved sites must be wrapped in the [applicable PolicyService API](https://developer.roblox.com/en-us/api-reference/function/PolicyService/GetPolicyInfoForPlayerAsync) or listed in the Social Networks and Social Links settings of your profile or experience description page. Links (including those to approved sites) that appear in locations where the API cannot be deployed - such as text chat or embedded in media - are prohibited. Any other links or efforts to evade detection of links are prohibited, including:
 
 * Links that contain Roblox-inappropriate content
 * Partial links, filter-breaking, and permitted website links to non-permitted websites
@@ -332,14 +331,15 @@ Disruptive Content and Behavior
 
 For more information about creating Avatar Bodies that comply with these policies, including requirements for clothing and accessories, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
 
-Last Updated: December 5, 2023
+Last Updated: April 1, 2024
 
 Change Log
 
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
-| March 18, 2024 | Clarified requirements for Trademark infringement claims and included action Roblox may take for IP violating content. |
+| April 1, 2024 | Updated the following Community Standards:<br><br>* Sharing Personal Information<br>    * Included age clarification<br>    * Updated language for Usernames and Display Names<br>    * Updated examples of prohibited content<br>* Directing Users Off-Platform<br>    * Updated name of Twitter to X (formerly Twitter)<br><br>Effective April 1, 2024 |
+| March 18, 2024 | Clarified requirements for Trademark infringement claims and included action Roblox may take for IP violating content.<br><br>Effective March 18, 2024 |
 | December 5, 2023 | Added a link to the detailed 17+ Policy Standards to the Profanity policy.<br><br>Added a Strong Language section to allow Verified 17+ creators to create 17+ experiences containing vulgar or obscene language and allow it in user communications. |
 | October 3, 2023 | Added a link to the detailed 17+ Policy Standards to the Violent Content and Gore, Romantic and Sexual Content, and Illegal and Regulated Goods and Activities policies.<br><br>Updated the section for Misusing Roblox Systems to clarify rules on creating or using an account to evade enforcement actions.<br><br>Updated the section for Illegal and Regulated Goods and Activities with clarified language around alcohol and controlled substances.<br><br>Added clarifying language to Threats, Bullying, and Harassment.<br><br>Effective October 3, 2023 |
 | August 16, 2023 | Updated the following Community Standards<br><br>* Romantic and Sexual Content<br>    * Added link to Avatar Bodies feature requirements for modesty layers<br>    * Clarified language around prohibiting sexually suggestive avatar bodies in addition to clothing items<br>* Misusing Roblox Systems<br>    * Added link to Avatar Bodies feature requirements for clothing and accessories<br><br>Effective August 16, 2023 |
