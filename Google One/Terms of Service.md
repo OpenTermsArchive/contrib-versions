@@ -1,7 +1,9 @@
 Google One Additional Terms of Service
 ======================================
 
-Last Modified: November 9, 2021
+Effective: November 9, 2021 |
+
+Archived versions[](https://one.google.com/terms-of-service/archive)
 
 To use and access Google One, whether you are the Google One plan manager, are part of a family group sharing Google One, or a non member user, you must accept (1) the [Google Terms of Service](https://policies.google.com/terms), and (2) these Google One Additional Terms of Service (the “**Google One Additional Terms**”).
 
