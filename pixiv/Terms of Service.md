@@ -3191,3 +3191,182 @@ Revision
 
 * March 30, 2020: Terms revised in entirety as individual terms associated with the pixiv Inc. Service Master Terms of Use.
 * July 18, 2019
+
+“pixivcoban” Individual Terms of Use
+====================================
+
+This document is an English translation of the original version for reference purposes only. The original version is written in the Japanese language. In the case of any discrepancy between the original Japanese version and this English translation, the original Japanese version shall prevail.
+
+Article 1 Application and Scope
+-------------------------------
+
+1. These terms of use (these “Terms of Use”) prescribe matters concerning the handling of use of pixivcoban (as defined below) issued by pixiv Inc. (“we,” “our,” or “us”). Users must adequately understand the contents of, and consent to, these Terms of Use before using pixivcoban.
+2. If a User (as defined below) is a person with qualified legal capacity, such as a minor, then that User must obtain the consent of the User’s legal representative (such as a person with parental authority over the User) before using pixivcoban. We may contact the User or the User’s legal representative to confirm whether the consent of the legal representative has been obtained.
+3. If a User uses [any eligible service for which Users may use pixivcoban](https://coban.pixiv.help/hc/ja/articles/26068339388953), the User will need to consent separately to the individual terms of use for that service. In using pixivcoban for an eligible service, the User is requested to adequately confirm the contents of the individual terms of use for that service ([https://policies.pixiv.net/](https://policies.pixiv.net/)) in addition to these Terms of Use.
+
+Article 2 Definitions
+---------------------
+
+The terms below have the following meanings in these Terms of Use.
+
+1. “pixivcoban” means “Coban (fee-based)” (defined in the following item) and “Coban (free of charge)” (defined in item (3)) that are issued by us.
+2. “Coban (fee-based)” means the prepaid payment instrument that we issue for a fee and that has an effective period prescribed by us.
+3. “Coban (free of charge)” means the prepaid payment instrument that, in accordance with conditions prescribed by us, we provide without receiving any payment in exchange and that has an effective period prescribed by us.
+4. “User” means a person who uses pixivcoban or intends to use pixivcoban in accordance with these Terms of Use.
+5. “Products, Etc.” mean products sold, and services and the like provided, through services that incorporate pixivcoban as a payment instrument.
+6. “System” means the system used for provision, management, use, and the like of pixivcoban.
+7. “pixivcoban Services” mean “prepaid payment” services provided by us.
+
+Article 3 Authentication and management of accounts, etc.
+---------------------------------------------------------
+
+1. In commencing the use of pixivcoban Services, a User needs to open a pixiv account ([https://accounts.pixiv.net/signup](https://accounts.pixiv.net/signup)) and complete authentication procedures prescribed by us. The User must separately confirm and consent to the contents of [common rules for pixiv services](https://policies.pixiv.net/) (“Common Rules”) before opening and using a pixiv account. The User is liable for the strict management and storage of information and the like concerning the use of pixivcoban Services (including, but not limited to, information concerning a pixiv account; “User Information”) and must not transfer or sell User Information to a third party, allow a third party to succeed to User Information, or lend, disclose, or divulge User Information to a third party.
+2. If a User finds that any third party has, or is likely to have, improperly used the User Information of that User or pixivcoban held by that User, that User must contact us immediately from the page below.  
+    [https://www.pixiv.net/support](https://www.pixiv.net/support)
+3. A User will be liable for any detriment arising out of any inadequate management, error in use, or the like of that User’s pixivcoban and any detriment arising out of any inaccuracy in, or inadequate management or the like of, the User Information of that User, and we will not be liable unless that detriment has been caused by our negligence.
+
+Article 4 No refund
+-------------------
+
+We will not refund pixivcoban unless such refunding is otherwise provided in laws and regulations.
+
+Article 5 Purchasing pixivcoban
+-------------------------------
+
+1. Issuance of pixivcoban
+    
+    Cobans (fee-based) issued by us will be one yen per Coban, and purchase units, purchase volumes, and purchase prices will be prescribed by us. We may also set an upper limit for the holding and purchasing of Cobans by Users.
+    
+2. Purchase procedures for pixivcoban
+    1. A User purchases Cobans (fee-based) in accordance with procedures prescribed by us.
+    2. Cobans (fee-based) purchased by the User are recorded on the User’s pixivcoban dashboard.
+    3. Each User may confirm the purchase unit, cap for purchase, effective period, and the like of Cobans (fee-based) on [the User’s pixivcoban dashboard](https://coban.pixiv.net/).
+    4. A User may not cancel the purchase of Cobans (fee-based) after completing the procedures prescribed in item (1) in this paragraph.
+
+Article 6 Acquisition of Cobans (free of charge)
+------------------------------------------------
+
+1. We may provide Cobans (free of charge) to Users. Terms and conditions of provision, units of provision, and volumes of provision will be prescribed by us.
+2. Each User may confirm on the User’s pixivcoban dashboard the effective period of Cobans (free of charge) acquired by that User.
+
+Article 7 Use of pixivcoban
+---------------------------
+
+1. Users may use pixivcoban to make payment in each eligible service for the purchase of Products, Etc. at the rate of one yen per Coban.
+2. If a User wishes to make payment by pixivcoban for the purchase of Products, Etc., the User must choose payment by pixivcoban using the method prescribed by us. In this case, the User may not combine payment by pixivcoban and another payment instrument.
+3. In the case that a User chooses to make payment by pixivcoban, if the amount of the price for the Products, Etc. falls within the balance of the pixivcoban recorded on the User’s pixivcoban dashboard, then an amount of pixivcoban equivalent to the price of the Products, Etc. from that balance will, in order from those with the shortest effective periods to those with the longest, be used for the payment. If the respective effective periods of a Coban (fee-based) and a Coban (free of charge) to be used are the same, theCoban (fee-based) will be used first.
+4. Each User accepts that, if the User cancels or takes any similar action to a payment made for a transaction using pixivcoban, we will refund to the User the price for the Products, Etc. by a method through which an amount of pixivcoban equivalent to the price for the Products, Etc. will be provided instead of refund in cash of the price for the Products, Etc. In this case, pixivcoban to be returned will be the same type of pixivcoban used for the payment in question and will have the same effective period as the pixivcoban used for the payment in question.
+
+Article 8 Invalidation of pixivcoban
+------------------------------------
+
+1. The effective period of a Coban(fee-based) will be 180 days, calculated from the purchase date of that Coban (fee-based). The effective period of a Coban (fee-based) will not be extended for any reason whatsoever.
+2. The effective period of a Coban (free of charge) will be a period that is prescribed by us at the time of provision and will fall within the scope of 180 days or less, calculated from the provision date of that Coban (free of charge). The effective period of Cobans (free of charge) will not be extended for any reason whatsoever.
+3. If a User does not use a pixivcoban within the period in question that is prescribed in either of the preceding two paragraphs, it will become invalid on the date when that effective period has elapsed.
+4. Apart from the cases provided for in the preceding paragraph, a pixivcoban will become invalid in each of the following cases:
+    1. if the User deletes the User’s pixiv account;
+    2. if the User’s pixiv account is deleted by us in accordance with these Terms of Use or Common Rules;
+    3. if it is found that the User has, or if we determine it is likely that a User has, acquired a pixivcoban by improper means;
+    4. if it is found that the User has, or if we determine it is likely that a User has, improperly used pixivcoban;
+    5. if the User purchases pixivcoban after it is found that the User has, or we determine it is likely that the User has, improperly acquired or used pixivcoban;
+    6. if the User breaches, or if we determine it is likely that the User has breached, these Terms of Use; or
+    7. if the User falls under the provisions of Article 9.
+5. We will not be in any way liable to any User if a pixivcoban becomes invalid under the preceding two paragraphs.
+
+Article 9 Suspension of use of pixivcoban Services, etc.
+--------------------------------------------------------
+
+1. If a User falls under, or if we determine that a User is suspected to fall under, any of the cases set out below (a person who falls under any of the cases set out below or who we determine is suspected to fall under any of the cases below is referred to as the “Specified Person” in this Article), then we may, without providing the Specified Person with any notice or demand for cure, immediately suspend all or part of the performance of obligations under any contract with us that is based on these Terms of Use, including through the suspension of use of pixivcoban by the Specified Person, invalidate pixivcoban owned by the Specified Person, terminate the use of, or cancel contracts for the use of, pixivcoban Services by the Specified Person, or take any other measures we reasonably consider to be necessary and appropriate. Each User accepts that we will not be liable even if any of these measures cause damage to the Specified Person.
+    1. If the User holds or uses a pixiv account or a pixivcoban for the transfer of criminal proceeds or any other unjust purposes prescribed in Article 2 of the Act on Prevention of Transfer of Criminal Proceeds
+    2. If the User transfers his or her pixiv account or makes an exchange for cash, property, or any other economic benefits for the purpose of transferring his or her balance of pixivcoban
+    3. If the User holds or uses a pixiv account or pixivcoban for the purpose of improperly defrauding money from us, a financial institution, or any other third party or for any other improper purpose
+    4. If the User breaches these Terms of Use or any other rules applicable to Users
+    5. If, apart from in the cases above, we determine that the User’s holding or using of a pixiv account or pixivcoban is inappropriate.
+2. If a User falls under, or if we determine that a User is suspected to fall under, any of the cases prescribed in the preceding paragraph, all obligations owed to us by the Specified Person (that are not limited to obligations under contracts based on these Terms of Use) will become automatically due and payable, and in that case the Specified Person shall immediately pay to us the entire amount of those obligations.
+3. Invalidation of pixivcoban or deletion of a pixiv account under paragraph 1 of this Article will not preclude us from making against the Specified Person a claim for damages.
+
+Article 10 Notices from us
+--------------------------
+
+1. Notices from us to a User in relation to pixivcoban will be (a) sent by email to the email address notified to us by the User when the User opened a pixiv account as provided for in Article 3, paragraph 1 or the email address notified to us under the following paragraph or (b) posted on our website or each User’s pixivcoban dashboard. Users must check such notices at least once every month.
+2. If there is a change in the email address notified to us by a User when the User opened a pixiv account as provided for in Article 3, paragraph 1, that User must notify us of the new email address without delay.
+3. Each User will be liable for any detriment incurred by the User as a result of failing to conduct confirmation or notice as prescribed in the preceding two paragraphs, and we will not be liable for any such damage.
+
+Article 11 No transfer of the balance of pixivcoban
+---------------------------------------------------
+
+1. A User may not transfer any pixivcoban or pixiv account to any third party whether for a fee or free of charge.
+2. Even if a User holds several pixiv accounts, that User may not transfer pixivcoban between accounts.
+
+Article 12 Management of registered information, etc. concerning pixivcoban Services
+------------------------------------------------------------------------------------
+
+1. If a User changes any User Information, that User must notify us of the changed information without delay by the method prescribed by us.
+2. If a User registers inaccurate information or false information when conducting the notice provided for in the preceding paragraph or fails to provide one or more notices under the preceding paragraph, that User will be liable for any detriment incurred by that User as a result of that act, and we will not be liable for any such damage.
+
+Article 13 Theft or loss, etc. of User Information, etc.
+--------------------------------------------------------
+
+1. Even if a User’s pixiv account or pixivcoban becomes unusable or is improperly used due to theft, loss, or the like of User Information, etc. (including in cases where the User forgets User Information, etc.), we will not reissue pixivcoban to that user.
+2. We will not be liable for any detriment incurred by a User under the preceding paragraph unless that detriment is caused by our willful misconduct or negligence. However, we may provide Cobans (free of charge) to that User at our discretion in accordance with the circumstances of the unauthorized use.
+
+Article 14 Suspension or temporary halting of pixivcoban Services and pixiv accounts (the System), etc.
+-------------------------------------------------------------------------------------------------------
+
+1. We may suspend or temporarily halt the use of pixivcoban Services or pixiv accounts without providing notice to Users in advance in each of the following cases:
+    1. if we perform urgent maintenance on the System necessary for us to provide services relating to pixivcoban;
+    2. if any disaster, such as a fire, power failure, earthquake, eruption, flood, or tsunami, or war, terrorism, rebellion, riot, disturbance, or labor dispute occurs;
+    3. if we are unable to provide services relating to pixivcoban or pixiv accounts due to laws and regulations or measures under laws and regulations;
+    4. if we determine it necessary to temporarily suspend or halt the provision of services relating to pixivcoban or pixiv accounts due to operational reasons or technical reasons;
+    5. if a User falls under, or we determine that a User is suspected to fall under, any of the cases prescribed in Article 9, paragraph 1; or
+    6. if, apart from the cases above, we determine it necessary to suspend or halt the provision of services relating to pixivcoban or pixiv accounts due to unavoidable reasons.
+2. If any of the cases prescribed in any of the items of the preceding paragraph occurs, we may, by a method announced or notified in advance in a manner prescribed by us, terminate or change all or part of services relating to pixivcoban without providing any individual notice to Users.
+3. If all or part of services relating to pixivcoban are terminated under the preceding paragraph, pixivcoban for the services subject to termination will be treated in the manner set out below.
+    1. Cobans (fee-based)
+        
+        We will take procedures for refunding the amount equivalent to the balance of the Cobans (fee-based) in accordance with applicable laws and regulations.
+        
+    2. Cobans (free of charge)
+        
+        Cobans (free of charge) will become invalid, and we will not refund or repay the balance.
+        
+4. Even if a User incurs any damage pursuant to any of the preceding paragraphs, we will not be liable for that damage, unless the damage is caused by our negligence.
+
+Article 15 Disclaimer
+---------------------
+
+1. We do not warrant that the contents of services provided by us (including the System) do not have any actual flaws or bugs (including faults and errors concerning security, or the like; meaning we do not warrant their integrity). We do not owe any obligation to Users to remove such flaws, bugs, or the like before providing services.
+2. If any provision of these Terms of Use is deemed to conflict with any relevant law or regulation applicable to contracts with Users based on these Terms of Use, that provision will not, to that extent, apply to those contracts with Users. However, in this case, the effectiveness of any other provisions of these Terms of Use will not be affected.
+
+Article 16 Damages
+------------------
+
+1. If a User causes damage to us or any third party due to the User’s breach of these Terms of Use, the User shall compensate us or the third party for that damage (including, but not limited to, reasonable attorney fees).
+2. We will not be liable for any damage incurred by any User arising out of the use of pixivcoban , unless that damage is caused by our negligence.
+3. Even if we are liable to a User based on these Terms of Use (including, but not limited to, the preceding paragraph) due to our negligence (excluding gross negligence), we will not be liable to compensate for loss of profit or any other damage caused by any other special circumstances, and we will only be liable within the extent of damage that would ordinarily occur and capped to the amount of pixivcoban held by the User at the time of such event of default or tort.
+
+Article 17 Operating environment settings, equipment, etc.
+----------------------------------------------------------
+
+Each User must, at that User’s expense, prepare communication apparatus and all other apparatus and software necessary to make payment using pixivcoban. Each User must, at that User’s own discretion and expense, choose a communication method to connect to our services. We will not be liable for any apparatus, software, or communication method chosen by any User (“Equipment”) or any malfunctioning or the like relating to payment of pixivcoban arising due to Equipment.
+
+Article 18 Amendment to and notices concerning these Terms of Use
+-----------------------------------------------------------------
+
+1. We may amend or abolish these Terms of Use due to changes in economic circumstances, the establishment or abolition of laws or regulations, or for any other similar reason.
+2. If we amend or abolish these Terms of Use, we will make an announcement to that effect on our website.
+3. If there is any amendment to these Terms of Use, it will be deemed that a User’s continued use of pixivcoban after that amendment to these Terms of Use constitutes the User’s consent to the Terms of Use after that amendment.
+
+Article 19 Response to inquiries, etc.
+--------------------------------------
+
+If a User intends to make any inquiry concerning pixivcoban, that User must contact us by the method set out below.  
+Contact method: [https://coban.pixiv.help/hc/ja/requests/new?ticket\_form\_id=26262473806617](https://coban.pixiv.help/hc/ja/requests/new?ticket_form_id=26262473806617)  
+Business hours: From 10:00 a.m. to 7:00 p.m.  
+Holidays: Saturdays, Sundays, national holidays, and year-end and New Year holidays
+
+Supplementary Provisions
+------------------------
+
+* These Individual Terms of Use shall take effect on April 2, 2024.
+* These Individual Terms of Use shall also retroactively apply to conduct undertaken by User before these Individual Terms of Use came into effect.
