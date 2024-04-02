@@ -1,7 +1,7 @@
 Community Guidelines
 ====================
 
-Updated 11 January, 2024
+Updated 1 April, 2024
 
 **Our Promise**
 ===============
