@@ -304,7 +304,7 @@ The terms in capital letters that are not defined in this agreement have the mea
 
 * “**Card Service**” refers to the issuing by PSP of a virtual or physical Card to the Client to enable Client to make online or offline Payment Transactions in extension of their business conduct. Cards will be linked to the Client’s virtual account or, if enabled, a bank account issued by PSP. The use of a Card by Client may be configured by Brevo e.g. to purchase specific products or services as well as to only allow Payment Transactions in certain countries. The configuration of the Card Service may be further determined between PSP and Brevo as part of the Card Program. During onboarding and thereafter from time to time as reasonably required by PSP, the relevant Card Program will be determined based on separate documentation or questionnaires (“Card Program Documentation”). PSP may from time to time, and in its reasonable discretion and prior notification, amend the Card Program or Card Service to comply with Applicable Law or Scheme Rules.
 
-* “**Charge back**” refers to the refund of an online payment made by the End Customer by credit card under certain conditions specified in the PSP’s general terms of use and in particular when the payment is not authorized.
+* “**Chargeback**” refers to the refund of an online payment made by the End Customer by credit card under certain conditions specified in the PSP’s general terms of use and in particular when the payment is not authorized. Chargebacks will be considered justified or unjustified depending on the policy of the End Customer’s Scheme Owner and/or bank. A Chargeback shall only be considered justified based on written evidence issued by the End Customer’s Scheme Owner or bank.
 
 * **“Client”** shall, for the purpose of this Agreement, mean the User as defined by the Brevo Terms of Service. 
 
@@ -438,6 +438,22 @@ When required by PSP or by Applicable Laws, the Client shall apply or implement 
 
 Brevo shall withhold a commission equivalent to the amount of one percent (1%) excluding VAT of any Outgoing Payment Flow (hereinafter the “Commission”). Brevo shall reserve the right to (i) apply a license Fee (hereinafter the “Fees”) for the use of the Brevo Payment Services and/or (ii) increase the percentage of the Commission during the performance of the contract. In such a case, Brevo shall inform the Client of the application or increase of the Fees and/or Commission in writing (via email or via the Brevo Payment Account) with one (1) month prior notice.
 
+**3.7. Chargeback**
+
+**3.7.1.** Brevo might incur undue losses resulting from Chargebacks. In case of justified Chargebacks, Brevo may be under the obligation to pay an administrative fee to the PSP. In case of unjustified Chargebacks, Brevo will incur a loss equivalent to the amount of the Chargeback and to an administrative fee.
+
+The Parties hereby agree that Brevo shall under no circumstances bear any costs in case of a Chargeback. Client and/or its affiliate companies shall indemnify Brevo and/or its affiliate companies against all financial losses in relation to or in connection with a Chargeback.
+
+In case of Chargeback, Brevo reserves the right (i) to set off any amounts from the Client’s Payment Account to cover such loss and/or (ii) to invoice the Client for the amount of the loss and/or to directly debit the amount of the loss from the Client’s bank account, in application of the direct debit mandate. The amount shall be due within thirty (30) days from the date of receipt of the invoice by the Client. The invoice shall either be sent by email or uploaded into  
+the Client’s Brevo account.
+
+By accepting these Payment Terms, the Client expressly authorizes Brevo and/or PSP to send instructions to Client’s bank to debit Client’s bank account in accordance with the payment instruction. Client’s rights are explained in a statement that Client can obtain from its bank.
+
+**3.7.2.** In case of one or multiple Chargeback(s), Brevo reserves the right to:
+
+* Delay the possibility for the Client to perform an Outgoing Payment Flow after receiving payment(s) on the Payment Account;
+* Impose Client to keep a minimal reserve amount, at Brevo’s discretion, on the Payment Account.
+
 ### SECTION 4. Suspension and termination
 
 **4.1. General**
@@ -448,7 +464,8 @@ Brevo reserves the right to block all or part of the Payment Services, Payment L
 * When the KYC documents provided by the Client are incomplete or incorrect or not up-to-date,
 * When the Payment Page displays illicit or restricted products as detailed by the PSP at the following address: https://www.adyen.com/legal/list-restricted-prohibited and/or when the transactions carried out by means of the Payment Services concern these products, 
 
-* At the request of the PSP in the event of a breach of its own general terms and conditions of use available at the following address: [https://www.adyen.com/legal/terms-and-conditions-adyen-for-platforms](https://www.adyen.com/legal/terms-and-conditions-adyen-for-platforms) and or of the Adyen Prohibited and Restricted Products and Services list available at [https://www.adyen.com/legal/list-restricted-prohibited](https://www.adyen.com/legal/list-restricted-prohibited);  
+* At the request of the PSP in the event of a breach of its own general terms and conditions of use available at the following address: [https://www.adyen.com/legal/terms-and-conditions-adyen-for-platforms](https://www.adyen.com/legal/terms-and-conditions-adyen-for-platforms) and or of the Adyen Prohibited and Restricted Products and Services list available at [https://www.adyen.com/legal/list-restricted-prohibited](https://www.adyen.com/legal/list-restricted-prohibited); 
+* In case Client does not refund Brevo for one or several unjustified Chargeback(s);  
 
 * At the request of the competent authorities. 
 
@@ -537,8 +554,11 @@ Brevo reserves the right to cancel Transactions, at PSP’s discretion, that it 
 Without prejudice to the termination grounds set out in the Terms and Conditions, Brevo may at any time terminate this agreement upon written notice to Client if and when:
 
 * Brevo and/or PSP has reasonable suspicion that the Client is involved in, or facilitates, illegal or fraudulent activities;
+* Brevo and/or PSP has reasonable suspicion that the Client is in breach of these Payment Terms;
 * Brevo and/or PSP needs to do so in order to comply with Applicable Law or Scheme Rules, including relevant PCI-DSS regulation; or
 * The provision of all or part of the Payment Service pursuant to this agreement poses a material risk to the reputation of Brevo, the PSP the Scheme Owners and/or the integrity of the payment system.
+
+In all cases of termination (for breach, by mutual agreement, for non-renewal), Brevo shall set off from the Client’s Account, provided the Account’s balance allows it, all amounts due by Client at the date of termination.
 
 Except as expressly notified otherwise by Brevo, the termination of this Agreement shall not automatically terminate the Brevo Terms and Conditions or as the case may be any ongoing Order Forms. However, the termination for cause of this Agreement by Brevo allows Brevo to terminate the Brevo Terms and Conditions and/or as the case may be any ongoing Order Form(s).
 
