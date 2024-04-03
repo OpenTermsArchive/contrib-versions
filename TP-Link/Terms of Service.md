@@ -3,7 +3,7 @@ TERMS OF USE
 
 Welcome to TP-Link!
 
-The Services defined herein are provided by TP-Link Corporation Limited. This document may refer to the service provider as “TP-Link Corporation Limited.”, "TP-Link”, "we”, "us", or "our”. These are the rules and restrictions that govern your use of our website(s), products, services, mobile applications, and other software (collectively, the "Services").
+The Services defined herein are provided by TP-LINK CORPORATION PTE. LTD. This document may refer to the service provider as “TP-LINK CORPORATION PTE. LTD.”, "TP-Link”, "we”, "us", or "our”. These are the rules and restrictions that govern your use of our website(s), products, services, mobile applications, and other software (collectively, the "Services").
 
 The term “Services” means the Sites, Web Apps, Mobile Apps, and Subscription Services, which may be used in conjunction with Products and in other ways provided by TP-Link, as defined at points 1-5, below.. Some Products and Services of TP-Link can be used together or in ways that integrate with products and services from third parties.
 
@@ -228,7 +228,7 @@ User Experience Improvement Program (UEIP)
 
 Dear users of TP-Link products,
 
-Providing products beyond user expectations has always been the goal pursued by TP-Link Corporation Limited (TP-Link). To help us optimally meet your needs, improve product quality and services, TP-Link sincerely invites you to participate in our User Experience Improvement Program (UEIP), and we kindly ask you to read the following statement. Giving consent to participate in our UEIP means that you have carefully read and completely agree to this statement (children under the age of 18 should read in the company with their parents). TP-Link reminds you, as the products improve, this statement may be subject to changes from time to time. Upon any changes, we shall display them in a prominent position on the products or relevant pages to inform you. If you do not accept the changes, you have the right to opt out of the UEIP at any time, and remaining in the program will be seen as consent to such changes.
+Providing products beyond user expectations has always been the goal pursued by TP-LINK CORPORATION PTE. LTD.(TP-Link) To help us optimally meet your needs, improve product quality and services, TP-Link sincerely invites you to participate in our User Experience Improvement Program (UEIP), and we kindly ask you to read the following statement. Giving consent to participate in our UEIP means that you have carefully read and completely agree to this statement (children under the age of 18 should read in the company with their parents). TP-Link reminds you, as the products improve, this statement may be subject to changes from time to time. Upon any changes, we shall display them in a prominent position on the products or relevant pages to inform you. If you do not accept the changes, you have the right to opt out of the UEIP at any time, and remaining in the program will be seen as consent to such changes.
 
 ### **Information Collection**
 
