@@ -1,9 +1,9 @@
 TP-LINK PRIVACY POLICY
 ----------------------
 
-Last Updated: Jul, 25 2023
+Last Updated: April 3, 2024
 
-TP-Link Corporation Limited (“TP-Link,” “we” “us,” or “our”), takes your privacy seriously. We want you to understand what information we collect, and how we use and share it. That’s why we encourage reading our Privacy Policy. This helps your use TP-Link Products and Services in a way that’s right for you. Some Products and Services of TP-Link can be used together or in ways that integrate with products and services from third parties. Using third-party products and services may allow the third party to collect or share data about you. We do not control these third-party products and services, and we encourage you to read the privacy notice of every third-party product and service you use.
+TP-LINK CORPORATION PTE. LTD. (“TP-Link,” “we” “us,” or “our”), takes your privacy seriously. We want you to understand what information we collect, and how we use and share it. That’s why we encourage reading our Privacy Policy. This helps your use TP-Link Products and Services in a way that’s right for you. Some Products and Services of TP-Link can be used together or in ways that integrate with products and services from third parties. Using third-party products and services may allow the third party to collect or share data about you. We do not control these third-party products and services, and we encourage you to read the privacy notice of every third-party product and service you use.
 
 Please read this Privacy Policy carefully as it explains how we collect information, how we use the information we collect, and with whom we disclose such information. By using or accessing our Products and Services in any matter, you accept and consent to the practices and policies outlined in this Privacy Policy. This Privacy Policy incorporates herein the Terms of Use; both statements should be read in conjunction with each other. This Privacy Policy may change from time to time. Your continued engagement with our Products and Services after such revisions indicates that you accept and consent to them, so please check the Privacy Policy periodically for updates.
 
@@ -167,6 +167,6 @@ This Privacy Policy may change from time to time and we may notify you by updati
 
 If you have any questions or need further assistance, please email us at  [privacy@tp-link.com](mailto:privacy@tp-link.com)
 
-TP-Link Corporation Limited
+TP-LINK CORPORATION PTE. LTD.
 
-Room 901,9/F.，New East Ocean Centre, 9 Science Museum Road, Tsim Sha Tsui, Kowloon, Hong Kong
+7 Temasek Boulevard #29-03 Suntec Tower One, Singapore 038987
