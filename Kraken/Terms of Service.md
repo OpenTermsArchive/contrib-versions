@@ -39,14 +39,14 @@ These Terms are a legally binding agreement between “you” (an individual, or
 * Bit Trade Pty Limited, Unit 610, 478 George Street, Sydney, NSW 2000, Australia, if you live in Australia (except as noted below);
 * Payward Europe Solutions Limited, Italian Branch,  21 Via San Marco, Milan, MI, 20121, Italy, for VASP services if you live in Italy (except as noted below);
 * Payward Europe Solutions Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296, for VASP Services if you live in Ireland (except as noted below);
-* Payward Europe Solutions Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296, for BEL VASP Services if you live in Belgium or from 3 April 2024 for ES VASP Services if you live in Spain (except as noted below);
+* Payward Europe Solutions Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296, for BEL VASP Services if you live in Belgium or ES VASP Services if you live in Spain (except as noted below);
 * Payward Continental Services Limited, (an Irish entity whose registered address is at 70 Sir John Rogerson’s, Quay, Dublin, D02R296, Ireland) operating through its Dutch Branch with a local Dutch business address at Weteringschans 165 C, 1017XD Amsterdam for Dutch VASP Services if you live in The Netherlands (except as noted below);
 * Payward International Markets Limited, Trinity Chambers, PO Box 4301, Road Town, Tortola, British Virgin Islands, if you live in the European Economic Area (except as noted above for VASP services if you live in Italy or Ireland, for BEL VASP services if you live in Belgium, ES VASP Services if you live in Spain Dutch VASP Services if you live in the Netherlands, or as noted below);
 * Payward Trading Ltd, 2nd floor, Water’s Edge Building, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands, if you live anywhere else in the world where we make our services available (except Canada, or as noted below);
 * Payward Commercial Ltd., Road Town PO Box 4301, Tortola British Virgin Islands, for those services set forth in Annex C;
 * Payward Trading Ltd, 2nd floor, Water’s Edge Building, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands, for those services set forth in Annex A (except if you live in the United States of America or Australia), Annex B, Annex D, and Annex E;
 * Payward Holdings MENA Ltd, Floor 7, Al Khatem Tower, ADGM Square, Al Maryah Island, Abu Dhabi, UAE, for those services set forth in Annex F; and
-* Payward Ireland Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296 for those services set forth in Section 1(c) of Annex G if you live in Ireland, the Netherlands, or France (or Spain, Belgium, Italy, Austria, Czech Republic, Lithuania or Poland from 3 April 2024).
+* Payward Ireland Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296 for those services set forth in Section 1(c) of Annex G if you live in Ireland, the Netherlands, or France (or Spain, Belgium, Italy, Austria, Czech Republic, Lithuania or Poland).
 
 If you live in Canada, the [Canadian Terms of Service](https://www.kraken.com/legal/ca-terms) are the binding agreement between you and Payward Canada, Inc.
 
