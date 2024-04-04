@@ -188,7 +188,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open Data Austria [https://creativecommons.org/licenses/by/4.0/deed.de](https://creativecommons.org/licenses/by/4.0/deed.de)
             
-        * Open Data Österreich [https://www.data.gv.at/katalog/en/dataset/db052ddd-8e62-4eca-a22d-c7c09e1507ee#additional-info](https://www.data.gv.at/katalog/en/dataset/db052ddd-8e62-4eca-a22d-c7c09e1507ee#additional-info)
+        * Open Data Österreich [https://www.data.gv.at/katalog/en/dataset/2ee6b8bf-6292-413c-bb8b-bd22dbb2ad4b#resources](https://www.data.gv.at/katalog/en/dataset/2ee6b8bf-6292-413c-bb8b-bd22dbb2ad4b#resources)
             
     5. **Argentina**
         * Instituto Geográfico Nacional (AR): [https://www.ign.gob.ar/](https://www.ign.gob.ar/)
@@ -1128,6 +1128,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Transport for West Midlands Link to their license: [https://api-portal.tfwm.org.uk/signup](https://api-portal.tfwm.org.uk/signup)
             
+        * National Highways UK: [https://developer.data.nationalhighways.co.uk/terms#NCTTG](https://developer.data.nationalhighways.co.uk/terms#NCTTG) Powered by National Highways’ Transport Data Feeds
+            
     22. **Greece**
         * EuroGeographics; Copyright Geomatics Ltd.
             
@@ -1586,6 +1588,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Infraestruturas de Portugal (PT): [https://dados.gov.pt/pt/datasets/rede-rodoviaria-nacional/](https://dados.gov.pt/pt/datasets/rede-rodoviaria-nacional/)
             
+        * DG Territorio PT: [https://www.dgterritorio.gov.pt/dados-abertos](https://www.dgterritorio.gov.pt/dados-abertos) Geographical information provided by the General Directorate of the Territory
+            
     50. **Russia**
         
         GIS Innovatsia 2011, Database«TopoRF\_1000000» (с) ДАТА+, 2006 2013 Rosreestr
@@ -1870,7 +1874,11 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Highway Bureau Taiwan: [https://www.thb.gov.tw/cp.aspx?n=266](https://www.thb.gov.tw/cp.aspx?n=266)
             
-        * Data Gov TW: [https://data.gov.tw/license](https://data.gov.tw/license)
+        * Data Gov TW: [https://data.gov.tw/licenses](https://data.gov.tw/licenses)
+            
+        * Kaohsiung City Government Open Data: [https://data.kcg.gov.tw/dataset/113-kh-address](https://data.kcg.gov.tw/dataset/113-kh-address)
+            
+        * data.tainan.gov.tw: [https://data.tainan.gov.tw/specification](https://data.tainan.gov.tw/specification)
             
     62. **Timor-Leste**
         
