@@ -1,12 +1,12 @@
-**Last updated:** November 2023  
+**Last updated:** March 2024  
 The previous privacy policy can be viewed [here](https://www.logitech.com/en-gb/legal/web-privacy-policy/web-privacy-policy-archive.html).
 
-This privacy notice explains how Logitech collects and uses personal data from visitors to its web and mobile sites that link directly to this notice (collectively “Sites”). Your personal data is controlled by Logitech Europe S.A. (collectively “Logitech”, ''We” and “Us”).
+This Privacy Statement explains how Logitech collects and uses personal data from visitors to its web and mobile sites that link directly to this Statement (collectively “Sites”). Logitech is a group of companies working under their parent company; Logitech Europe S.A. (collectively “Logitech”, ''We” and “Us”). The Logitech company that controls your personal data will vary depending on your relationship with us (whether it be as a customer, partner, supplier, contractor or any other relevant relationship).
 
 Actively Submitted Data
 -----------------------
 
-If you call us, send us an email, or fill out a form on one of our Sites, we use the information you provide to respond to your request or to otherwise communicate with you or assist you. If you make purchases through our Sites, we may collect data necessary to process your order, such as your shipping address, products ordered, and your contact information.
+If you call us, send us an email, or fill out a form on one of our Sites, we use the information you provide to respond to your request or to otherwise communicate with you or assist you. If you make purchases through our Sites, we may collect data necessary to process your order, such as your shipping address, products ordered, and your contact information. We may also contact you post purchase to understand your satisfaction with a product or service.
 
 Passively Provided Data
 -----------------------
