@@ -60,7 +60,7 @@ We may also post and update [supplemental terms](https://cdn-media.huggingface.c
 
 **"Repository"** refers to a data structure which contains all of the project files and the entire revision history. A Repository may be public (i.e. anyone on the internet can see it, but only you or members of your organization can make changes) or private (i.e. only you or members of your organization can see and make changes to the repository).
 
-"**Services**" refer to the products and/or services we offer or provide, and that you access, use or purchase. Services may include limited licenses or subscriptions to access or use certain offerings in accordance with these Terms, including use of Models, Datasets, Hugging Face Open-Sources Libraries, the Inference API, AutoTrain, Expert Acceleration Program, Infinity or other Content. Reference to "purchases" and/or "sales" mean a limited right to access and use a Service (not a transfer or any ownership right, title, or interest) in accordance with these Terms.
+"**Services**" refer to the products and/or services we offer or provide, and that you access, use or purchase. Services may include limited licenses or subscriptions to access or use certain offerings in accordance with these Terms, including use of Models, Datasets, Hugging Face Open-Sources Libraries, the Inference API, AutoTrain, Expert Support, Infinity or other Content. Reference to "purchases" and/or "sales" mean a limited right to access and use a Service (not a transfer or any ownership right, title, or interest) in accordance with these Terms.
 
 "**User**" refers to the individual person, company or organization that accesses, receives, or uses the Services. That's you!
 
@@ -81,7 +81,7 @@ We provide Services in the field of machine learning, here is the list:
     
 * **AutoTrain premium Service**: create state of the art Models from your own training data, everything being automatically hosted privately on the Model Hub. You can then share them publicly and/or serve them through the Inference API Service for example.
     
-* **Expert Acceleration Program**: get Premium Support on the use of our open source and all our services and/or products.
+* **Expert Support**: get Premium Support on the use of our open source and all our services and/or products.
     
 * **Infinity Service**: deploy end-to-end optimized inference pipelines for state of the art Transformers Models.
     
