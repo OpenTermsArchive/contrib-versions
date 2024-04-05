@@ -1,7 +1,7 @@
 Websites, Communications & Cookies Privacy Notice
 =================================================
 
-November 1, 2023
+April 3, 2024
 
 We care about your privacy. When Mozilla (that’s us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
@@ -20,7 +20,7 @@ We may receive personal information from you based on your interaction with us o
     
 * **User Feedback**: You can provide feedback to us on our products and services on webpages like [connect.mozilla.org](https://connect.mozilla.org/), through an in-product experience, or through channels such as email, Bugzilla, Matrix, a social media account, our Get Involved page, or through a group like Student Ambassadors. Please minimize the personal information you choose to share on these forums because your comments may be accessible to the public.
     
-* **Accounts & Subscriptions**: Some websites, for example [Add-Ons for Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/), and [MDN](https://developer.mozilla.org/), require account creation. For account management we use [Mozilla accounts](https://www.mozilla.org/privacy/mozilla-accounts/), [GitHub](https://support.github.com/#our-use-of-cookies-and-tracking), or custom systems; [learn more](https://support.mozilla.org/kb/managing-account-data) about how to manage your Mozilla account data. You may periodically receive emails in connection with your account or through subscriptions. Our email management vendors are [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices) or [Acoustic](https://acoustic.com/privacy-notice/), and you can unsubscribe using the link at the bottom of the relevant email.
+* **Accounts & Subscriptions**: Some websites, for example [Add-Ons for Firefox](https://addons.mozilla.org/firefox/), [Relay](https://relay.firefox.com/), [Monitor](https://monitor.firefox.com/), and [MDN](https://developer.mozilla.org/), require account creation. For account management we use [Mozilla accounts](https://www.mozilla.org/privacy/mozilla-accounts/), [GitHub](https://support.github.com/#our-use-of-cookies-and-tracking), or custom systems; [learn more](https://support.mozilla.org/kb/managing-account-data) about how to manage your Mozilla account data. You may periodically receive emails in connection with your account or through subscriptions. Our email management vendors are [SalesForce Marketing Cloud](https://www.salesforce.com/company/privacy/), [Amazon Simple Email Service](https://aws.amazon.com/privacy/), [Mailchimp](https://www.intuit.com/privacy/statement/), [SocketLabs](https://www.socketlabs.com/legal/service-privacy/), [Campaign Monitor](https://meetmarigold.com/privacy-notices), or [Braze](https://www.braze.com/company/legal/privacy), and you can unsubscribe using the link at the bottom of the relevant email.
     
 * **Product & Policy Campaigns**: Some of our webpages host product or policy campaigns. For example, you can request a link by email or SMS to install Firefox on your mobile device or petition your legislators on internet issues. We may use third parties to manage these campaigns and handle any data that you choose to submit.
     
