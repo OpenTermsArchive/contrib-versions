@@ -84,9 +84,9 @@ Do not distribute content that deceives, misleads or confuses users. This includ
 
 Misleading content may be allowed in an educational, documentary, scientific or artistic context, but please be mindful to provide enough information to help people understand this context. In some cases, no amount of context will allow this content to remain on our platforms.
 
-Non-Consensual Explicit Imagery (NCEI)
+Non-consensual intimate imagery (NCII)
 
-Do not store or distribute private nude, sexually explicit or non-explicit intimate and sexual images or videos without the subject's consent. If someone has sent a private nude, sexually explicit or non-explicit intimate and sexual image or video of you, please report it to us [here](https://support.google.com/blogger/answer/7540088).
+Do not store or distribute private nude, sexually explicit or intimate images or videos without the subject's consent. If someone has sent a private nude, sexually explicit or intimate image or video of you, [submit a report through this form](https://support.google.com/blogger/answer/7540088).
 
 Personal and confidential information
 
