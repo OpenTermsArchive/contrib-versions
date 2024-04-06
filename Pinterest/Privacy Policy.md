@@ -426,6 +426,6 @@ The best way to get in touch with us or to exercise your options described above
 
 You can also contact our Data Protection Officer.
 
-Effective Date outside EEA & UK: March 13, 2024   
+Effective Date outside EEA, UK, and Switzerland: March 13, 2024   
   
-Effective Date in EEA & UK: April 30, 2024
+Effective Date in EEA, UK, and Switzerland: April 30, 2024
