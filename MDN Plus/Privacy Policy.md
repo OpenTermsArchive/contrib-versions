@@ -1,3 +1,5 @@
+![](https://www.mozilla.org/media/img/privacy/icon-mdn-plus.9a66a7d4b44c.svg)
+
 MDN Plus Privacy Notice
 =======================
 
