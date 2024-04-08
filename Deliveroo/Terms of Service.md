@@ -1,7 +1,7 @@
 Deliveroo Terms Of Service
 --------------------------
 
-**Last updated**: 20 February 2022
+**Last updated**: 8 April 2024
 
 Welcome to Deliveroo. This page (together with the documents referred to in it) tells you the terms (the “**Terms**”) which apply when you order any menu items (the **"Items"**) from our deliveroo.co.uk website or mobile applications and related services (each referred to as an **“Application”**).
 
@@ -31,7 +31,11 @@ When you place an order through our Application, it needs to be accepted by us o
 
 ### 6\. Delivery
 
-When you place an order you will have the choice to place it as an ASAP Delivery or a Scheduled Delivery. For an ASAP Delivery, we will tell you an estimated delivery time for your Item before you place the order, **but we will attempt delivery as soon as possible**; you must therefore be available to accept delivery from the time you place the order. For a Scheduled Delivery, we will tell you the time when the Item is expected to be delivered; you must be available to accept delivery for ten minutes before and ten minutes after that time.
+When you place an order you will have the choice to place it as an ASAP Delivery, a Scheduled Delivery or a Premium Delivery.
+
+* For an ASAP Delivery, we will tell you an estimated delivery time for your Item before you place the order, but we will attempt delivery as soon as possible; you must therefore be available to accept delivery from the time you place the order. 
+* For a scheduled Delivery, we will tell you the time when the Item is expected to be delivered; you must be available to accept delivery within the estimated arrival time. 
+* Premium delivery guarantees that your rider will deliver your order directly to you, before delivering any other Deliveroo orders. This is an optional service that eligible customers can choose to add to their eligible orders. The price of premium delivery is shown when you select your delivery method, and premium delivery is added in addition to any other delivery fees that may be applicable. Both the price of premium delivery and any other delivery fees are shown before you confirm your order and pay. Deliveroo reserves the right to change the price of premium delivery. If your premium delivery arrives after the estimated maximum delivery time, you may be eligible for a refund. This does not affect your legal rights.
 
 Unfortunately, despite our, and our Partner Restaurant’s best efforts, things do not always go to plan and factors such as traffic and weather conditions may prevent us from delivering your Item on time. If your order is more than 15 minutes late, and we haven’t notified you giving you the option to cancel your order, we will work with you to make things right unless you have caused the delay (e.g. because you gave us the wrong address or did not come to the door).
 
@@ -393,9 +397,9 @@ Referral Program Terms
 Deliveroo Plus Terms and Conditions
 -----------------------------------
 
-Last updated 13 September 2021
+Last updated 8 April 2024
 
-These T&Cs apply to you if you subscribe to have a Deliveroo Plus account. These do not replace the Terms and Conditions of Service for your Deliveroo account, which will continue to apply except to the extent these T&C vary them.
+These T&Cs apply to you if you subscribe to have a Deliveroo Plus account. These do not replace the Terms and Conditions of Service for your Deliveroo account or the Deliveroo Terms of Use for Website and Applications, which will continue to apply except to the extent these T&C vary them.
 
 We know these T&Cs are quite long to read! You can find a summary in the Deliveroo Plus Customers FAQ sheet (“Customer FAQ”) – [https://deliveroo.ie/faq](https://deliveroo.ie/faq)
 
@@ -403,15 +407,15 @@ The Customer FAQ should not be used as a substitute for reading the Deliveroo Pl
 
 ### **1\. Deliveroo Plus**
 
-Deliveroo Plus, is a customer programme (“Deliveroo Plus”) offered to some Eligible Users . It allows those Eligible Users to subscribe to obtain free delivery on Eligible Orders (as further described in section 2 below) through our Service.
+Deliveroo Plus, is a customer programme (“Deliveroo Plus”) offered to some Eligible Users. It allows those Eligible Users to subscribe to obtain free delivery on Eligible Orders (as further described in section 2 below) through our Service.
 
-Subscribers to Deliveroo Plus will receive free delivery on all Eligible Orders from Participating Restaurants (as further described in section 2) placed through our Service in Participating Cities (as further described in section 2). Deliveroo Plus acting in its sole discretion  may offer  selected Eligible Users  other types of benefits at its discretion (for example, restaurant offers, special promotions, memberships, or services) which may among other things depend on the Eligible User’s location and/or frequency of use of the Service.
+Subscribers to Deliveroo Plus will receive free delivery on all Eligible Orders from Participating Partners (as further described in section 2) placed through our Service in Participating Cities (as further described in section 2). Deliveroo Plus acting in its sole discretion  may offer selected Eligible Users  other types of benefits at its discretion (for example, partner offers, special promotions, memberships, or services) which may among other things depend on the Eligible User’s location and/or frequency of use of the Service.
 
 Occasionally we may make changes to Deliveroo Plus including the benefits available to you and/or these Terms. We will communicate any material changes to you prior to being implemented via email or by displaying a prominent notice on our Service (“Change Communication”). We will take your continued use of our Service following receipt of our Change Communication as acceptance of the relevant change. We recommend reading all Change Communications that we send you carefully.
 
 If you do not want to continue with your Plus Subscription following receipt of a Change Communication you may cancel your Plus Subscription with immediate effect (see below).
 
-### **2\. Eligible Users, Eligible Orders and Participating Restaurants**
+### **2\. Eligible Users, Eligible Orders and Participating Partners**
 
 **_Eligible Users_**
 
@@ -435,15 +439,24 @@ If it has been determined by Deliveroo that you do not comply with the above cri
 
 _Eligible Orders_
 
-Eligible Users will receive free delivery on all Eligible Orders. ‘Eligible Orders’ are all orders that are placed with a Participating Partner Restaurant and meet the specified minimum order value. The minimum order value will be communicated to you at the time of subscribing and when placing orders on through the Service. Minimum order values may vary from time to time and may differ between our Participating Restaurants.  Deliveroo reserves the right to vary the minimum order value for any Participating Restaurant at any time in accordance with section 1.
+Eligible Users will receive free delivery on all Eligible Orders. ‘Eligible Orders’ are all orders that are placed with a Participating Partner, meet the specified minimum order value and are within a set distance from where you place your order. Participating Partner orders that are delivered from further away from where you place your order are not eligible for free delivery and an extended delivery fee may be charged for these orders. The extended delivery fee will be shown to you alongside other order fees on our platform. The minimum order value will be communicated to you at the time of subscribing and when placing orders through the Service. Minimum order values may vary from time to time and may differ between our Participating Partners.  Deliveroo reserves the right to vary the minimum order value for any Participating Partner at any time in accordance with section 1.
 
-_Participating Restaurants_
+_Participating Partners_
 
-Deliveroo Plus is only available for Participating Restaurants. Deliveroo in its sole discretion, may determine which Partner Restaurants are “Participating Restaurants” for Plus, and may change the Participating Partner Restaurants at any time. Any changes to Participating Restaurants may be notified to you in accordance with Section 1.
+Deliveroo Plus is only available for Participating Partners. Deliveroo in its sole discretion, may determine which Partners are “Participating Partners” for Plus, and may change the Participating Partners at any time. Any changes to Participating Partners may be notified to you in accordance with Section 1.
 
 _Fraudulent Activity_
 
-You must limit your Deliveroo account to your personal use, and not share your Deliveroo account details with any third party at any time during your Deliveroo Plus subscription. If we have reasonable grounds to suspect that you are not using your Plus account in accordance with these Terms Deliveroo may (in its sole discretion) immediately suspend or terminate your Deliveroo Plus subscription (along with any other steps Deliveroo is entitled to take in accordance with the Terms and Conditions of Service for your Deliveroo account).
+You must limit your Deliveroo account to your personal use, and not share your Deliveroo account details with any third party at any time during your Deliveroo Plus subscription. 
+
+We use a number of measures to monitor customer fraudulent order activity and compensation abuse. If we reasonably suspect that you are engaging in fraudulent activity and/or compensation abuse, we may:
+
+* suspend and/or terminate your Deliveroo Plus subscription; and/or
+* suspend and/or deactivate your Deliveroo account.
+
+If we terminate your Deliveroo Plus subscription but do not suspend or deactivate your Deliveroo account under this paragraph, your Deliveroo Plus subscription will terminate immediately, we will pay you a pro rated refund of the Deliveroo Plus Fee for the remainder of your Deliveroo Plus Subscription Period. To be clear, we will not have to do this if we choose to suspend or deactivate your Deliveroo account. 
+
+If we have reasonable grounds to suspect that you are not using your Plus account in accordance with these Terms Deliveroo may (in its sole discretion) immediately suspend or terminate your Deliveroo Plus subscription (along with any other steps Deliveroo is entitled to take in accordance with the Terms and Conditions of Service for your Deliveroo account).
 
 ### **3\. To Sign Up**
 
@@ -457,17 +470,19 @@ Eligible Users can sign up for Deliveroo Plus through our Service by:
 
 ### **4\. Deliveroo Plus Fees**
 
-Eligible Users can subscribe to Deliveroo Plus for a fee which will be communicated at the time of subscribing (“Deliveroo Plus Fee”). The Deliveroo Plus Fee may vary from customer to customer depending on what other services, restaurant offers, special promotional plans or memberships are offered in combination with free delivery at the time of signing up.
+Eligible Users can subscribe to Deliveroo Plus for a fee which will be communicated at the time of subscribing (“Deliveroo Plus Fee”). The Deliveroo Plus Fee may vary from customer to customer depending on what other services, partner offers, special promotional plans or memberships are offered in combination with free delivery at the time of signing up.
 
-If you have been offered a Free Trial Period (“Free Trial Period”), you will not be charged the applicable Deliveroo Plus Fee for the duration of the Free Trial Period. After the Free Trial Period ends, you will be charged the Deliveroo Plus Fee at the relevant intervals for the remainder of your Deliveroo Plus Subscription Period in accordance with the terms and conditions set out in the “Payment and Billing” section below.
+If you have been offered a Free Trial Period (“Free Trial Period”), you will not be charged the applicable Deliveroo Plus Fee for the duration of the Free Trial Period. After the Free Trial Period ends, you will be charged the Deliveroo Plus Fee at the relevant intervals for the remainder of your Deliveroo Plus Subscription Period in accordance with the terms and conditions set out in the “Payment and Billing” section below.  
+  
+If you have been offered a Free Trial Upgrade ("Free Trial Upgrade Period"), you will not be charged for the duration of the Free Trial Upgrade Period. After the Free Trial Upgrade Period ends, you will be charged the Deliveroo Plus Fee of the higher plan type at your next billing cycle and from then at the relevant intervals for the remainder of your Deliveroo Plus Subscription Period in accordance with the terms and conditions set out in the Payment and Billing section below.
 
-You acknowledge and agree that Deliveroo may vary the Deliveroo Plus Fee during your Deliveroo Plus Subscription Period. Any increase to your Deliveroo Plus Fee will be notified to you as described above. You acknowledge that You will be required to pay any Service Fees in accordance with section ten of the Terms.
+You acknowledge and agree that Deliveroo may vary the Deliveroo Plus Fee during your Deliveroo Plus Subscription Period. Any increase to your Deliveroo Plus Fee will be notified to you as described above. You acknowledge that You will be required to pay any Service Fees, small order fees and other fees applicable to Deliveroo orders (other than delivery fees for Eligible Orders as described in section 2) in accordance with section ten of the Terms.
 
 ### **5\. Deliveroo Plus Subscription Period**
 
 Your Deliveroo Plus subscription period (“Deliveroo Plus Subscription Period”) will be communicated and chosen by you at the time of subscribing.
 
-You will receive an email prior to the end of the current Deliveroo Plus Subscription Period notifying you that your subscription will be automatically renewed for an additional Deliveroo Plus Subscription Period. Subscriptions will automatically renew at the end of each Deliveroo Plus Subscription Period until your Deliveroo Plus membership is cancelled (by you) or terminated (by us) in accordance with these terms and conditions. Your first Deliveroo Plus Subscription Period will start on the day you sign up, or, if you are offered and eligible for a Free Trial Period, the day immediately following the date on which your Free Trial Period expires (“Start Date”).
+You will receive an email prior to the end of the current Deliveroo Plus Subscription Period notifying you that your subscription will be automatically renewed for an additional Deliveroo Plus Subscription Period. Subscriptions will automatically renew at the end of each Deliveroo Plus Subscription Period until your Deliveroo Plus membership is cancelled (by you) or terminated (by us) in accordance with these terms and conditions. Your first Deliveroo Plus Subscription Period will start on the day you sign up, or, if you are offered and eligible for a Free Trial Period or a Free Trial Upgrade, the day immediately following the date on which your Free Trial Period or your Free Trial Upgrade Period expires (“Start Date”).
 
 ### **6\. Payment And Billing**
 
@@ -539,9 +554,11 @@ You agree that Deliveroo, in its sole discretion, may terminate, deactivate and/
 
 ●      Trial Offer Availability: From time to time, we may offer a no payment, fixed period, trial of our Deliveroo Plus membership (“Free Trial Period”) to some Eligible Users. Terms and conditions shall apply for each trial offer. The Free Trial Period is intended to allow new members and certain former members to try Plus.
 
-●      Eligibility: Eligibility for a Free Trial Period is determined by Deliveroo at its sole discretion. To prevent fraudulent activity and abuse of the Free Trial Period we may limit eligibility or duration. We reserve the right to revoke the Free Trial Period and put a hold on your account in the event that we determine that you are not eligible.
+Trial Upgrade Availability: From time to time, we may offer new or existing Plus members the opportunity to trial a complimentary upgrade to a higher tier of the Deliveroo Plus program (“Free Trial Upgrade”) to some Eligible Users. Terms and conditions shall apply for each trial offer. The Free Trial Upgrade Period is intended to allow new members and certain former members to try an alternative tier of Plus.
 
-●      End of Free Trial Period: At the end of the Free Trial Period, you shall be required to pay the Deliveroo Plus Fees. If you do not want to automatically pay the Deliveroo Plus Fee you must cancel your subscription within the Cooling Off Period. You can cancel the trial offer at by logging into your account or by contacting Customer Services. Each Eligible User will only be entitled to one Free Trial Period. If you cancel your Deliveroo Plus subscription at any time in the future, any future subscription to Deliveroo Plus that uses the same Deliveroo account, phone number, or credit card associated with your first Deliveroo Plus subscription will not be entitled to receive an additional Free Trial Period.
+●      Eligibility: Eligibility for a Free Trial Period or a Free Trial Upgrade is determined by Deliveroo at its sole discretion. To prevent fraudulent activity and abuse of the Free Trial Period we may limit eligibility or duration. We reserve the right to revoke the Free Trial Period and put a hold on your account in the event that we determine that you are not eligible.
+
+●      End of Free Trial Period: At the end of the Free Trial Period or Free Trial Upgrade Period, you shall be required to pay the Deliveroo Plus Fees applicable for the tier to which you have subscribed. If you do not want to automatically pay the Deliveroo Plus Fee you must cancel your subscription within the Cooling Off Period. You can cancel the trial offer at by logging into your account or by contacting Customer Services. If you cancel your Deliveroo Plus subscription at any time in the future, any future subscription to Deliveroo Plus that uses the same Deliveroo account, phone number, or credit card associated with your first Deliveroo Plus subscription will not be entitled to receive an additional Free Trial Period.
 
 ●      Providing mobile unique number: You will need to provide us with a unique valid mobile phone number. By providing this number you consent to us sending you a one-time verification code which you will be asked to provide back to us as part of the registration process and in order to activate the trial offer. If you do not have a valid mobile phone number you will not be able to participate in our trial offer. We will only be able to accept a mobile phone number on one (1) occasion as a means of validating a trial offer. Failure to provide a valid mobile phone number will result in your request to participate in the trial offer being declined. Please note that while we do not charge you for the SMS, your mobile standard messaging rates may apply. If you have any questions regarding privacy, please read our privacy policy at: [https://deliveroo.co.ie/privacy](https://deliveroo.co.ie/privacy).
 
@@ -549,7 +566,7 @@ You agree that Deliveroo, in its sole discretion, may terminate, deactivate and/
 
 ###  **12. Deliveroo Plus Offer with Amazon Prime**
 
-* UK Amazon Prime members can enjoy 1-year free (‘free period’) of a Deliveroo Plus Silver subscription worth over €40 a year (€3.99/month) with their Amazon Prime membership. This includes unlimited free delivery from a huge range of restaurants on orders over €15 and free delivery from grocery and retail stores on orders over €25. Service fees and Deliveroo Plus [Ts&Cs](https://www.deliveroo.ie/legal) apply to your use of Deliveroo Plus during this ‘free period’. 
+* UK Amazon Prime members can enjoy 1-year free (‘free period’) of a Deliveroo Plus Silver subscription worth over €40 a year (€3.99/month) with their Amazon Prime membership. This includes free delivery from a huge range of restaurants on orders over €15 and free delivery from grocery and retail stores on orders over €25. Service fees and Deliveroo Plus [Ts&Cs](https://www.deliveroo.ie/legal) apply to your use of Deliveroo Plus during this ‘free period’. 
 * If you end your Amazon Prime membership at any time during your ‘free period’, you will lose access to Deliveroo Plus and your 1-year free Deliveroo Plus with your Amazon Prime membership will terminate. You will be notified via email once your Deliveroo Plus subscription is lost. If you were previously on Deliveroo Plus and decide to switch to the 1-year free Deliveroo Plus membership with Amazon Prime, and then end your Amazon Prime membership, you will not be re-enrolled to your previous Deliveroo Plus subscription. If you choose to restart your Amazon Prime membership again, you will need to reactivate the Deliveroo Plus with Amazon Prime offer by verifying your Prime membership again through the offer redemption process set out below.
 * To redeem the offer, you should: 
 
@@ -561,7 +578,7 @@ You agree that Deliveroo, in its sole discretion, may terminate, deactivate and/
 
 ### **13\. Deliveroo Plus Offer with Revolut**
 
-Eligible Revolut customers can enjoy a free Deliveroo Plus Silver subscription worth €3.99/month with a qualifying Revolut account (see [here](https://www.revolut.com/en-IE/our-pricing-plans/) for qualifying Revolut accounts)(“**Deliveroo Plus Offer with Revolut**”) as long as Revolut continues to make Deliveroo Plus Silver available as part of those plans (the “**Free Period**”). Deliveroo Plus Silver subscription includes unlimited free delivery from a huge range of restaurants on orders over €15 and free delivery from grocery and retail stores on orders over €25.
+Eligible Revolut customers can enjoy a free Deliveroo Plus Silver subscription worth €3.99/month with a qualifying Revolut account (see [here](https://www.revolut.com/en-IE/our-pricing-plans/) for qualifying Revolut accounts)(“**Deliveroo Plus Offer with Revolut**”) as long as Revolut continues to make Deliveroo Plus Silver available as part of those plans (the “**Free Period**”). Deliveroo Plus Silver subscription includes free delivery from a huge range of restaurants on orders over €15 and free delivery from grocery and retail stores on orders over €25.
 
 Service fees and Deliveroo Plus T&Cs apply when you use the Deliveroo Plus Offer with Revolut.
 
@@ -574,6 +591,11 @@ Service fees and Deliveroo Plus T&Cs apply when you use the Deliveroo Plus Offer
     \- Once signed in, you will be automatically redirected to Deliveroo’s voucher entry page where your unique voucher code will be pre-populated;  
     \- Submit the code and follow the instructions to join Deliveroo Plus.
 * Existing fee paying Deliveroo Plus subscribers may also benefit from this offer (provided they have a qualifying Revolut account) and, if they fulfil the eligibility criteria of Revolut, will be moved onto the Deliveroo Plus Offer with Revolut for the Free Period, from the date they will have linked their qualifying Revolut account according to the process described above. At the end of the Free Period or if you close your qualifying Revolut account, you will not be re-enrolled to your previous Deliveroo Plus subscription.
+
+### **14\. Terms Applicable to Deliveroo Plus Gold Only**
+
+* The Deliveroo Plus Credit-Back benefit applies only to Eligible Users who are subscribed to Deliveroo Plus Gold. Plus Credit Back enables customers to earn a percentage of their basket subtotal on eligible restaurant orders over a set Minimum Order Value in the form of account credit. The Minimum Order Value will be made clear in the app or on the website before you place an order. Some partners are excluded. Customers cannot earn Plus Credit-Back on Pick up orders. Credit will be automatically added to your account and you’ll be able to redeem it on a future eligible order.  Customers can stack credit and apply more than one credit to an order, but each credit must be redeemed within 3 months from the date of issue. You can’t earn and redeem credit on the same order. Some restricted products are excluded from both earning and redemption of Plus Credit Back. Standard credit [terms](https://deliveroo.co.uk/legal) apply.
+* The Deliveroo Plus On-Time Promise benefit only to Eligible Users who are subscribed to Deliveroo Plus Gold. If an order arrives later than expected, you may be eligible to claim a credit. For some orders, additional fraud checks may be required before credit is applied to your account. Credit cannot be redeemed on restricted products. Standard credit [terms](https://deliveroo.ie/legal) apply.
 
 Deliveroo User Review and Contribution Terms (Republic of Ireland)
 ------------------------------------------------------------------
