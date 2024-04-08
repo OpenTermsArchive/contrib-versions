@@ -788,7 +788,7 @@ Open all
     
     Our programs include Custom Experience, Custom Experience Plus, Relevant TV Advertising, Relevant Online Advertising, and Fios TV market research and audience measurement.
     
-    You can opt out of sale and sharing by accessing our ;[Your Privacy Choices ![](/about/privacy/sites/default/files/2022-12/your-privacy-choices-icon.png)](https://www.verizon.com/privacy/your-privacy-choices)  page. This page also describes how we honor [Global Privacy Control](https://globalprivacycontrol.org/) signals you may set on your browser. We do not respond to Do Not Track signals. 
+    You can opt out of sale and sharing by accessing our; [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices)  page. This page also describes how we honor [Global Privacy Control](https://globalprivacycontrol.org/) signals you may set on your browser. We do not respond to Do Not Track signals. 
     
     **Some states allow you to appeal** a denial of your request to exercise the privacy rights provided by the state  law. If you are a resident of Colorado, Connecticut  or Virginia and we deny your request, we will give you instructions on how you can appeal that decision to us and to the state Attorney General. 
     
@@ -807,7 +807,7 @@ Open all
     * visiting our Privacy Dashboard or
     * calling 1-800-333-3972.
     
-    You can exercise your right to opt-out of selling and sharing by visiting ;[Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) 
+    You can exercise your right to opt-out of selling and sharing by visiting; [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices) 
     
     We require you to [verify your identity](#) using the processes we describe in the dashboard or the privacy choices page before we fulfill your request. 
     
