@@ -1,7 +1,7 @@
 Publisher Master Services Agreement
 ===================================
 
-**Dated: April 1, 2024**
+**Dated: April 8, 2024**
 
 **Subject to Service Order:**
 
@@ -94,7 +94,7 @@ We recommend that you read this entire Agreement carefully.  However, to make i
 
 6.2.2     Publisher agrees that it is responsible and liable for providing notice and obtaining any required clear and conspicuous user consent on behalf of itself, PubMatic and all applicable Demand Partners with respect to (a) passing personal information, precise location data, user device identification or any sensitive information of its users to PubMatic and Demand Partners, (b) collecting and using statistical identification of its users or other non-cookie technologies (such as pixels, eTags, pin registrations, and web or browser cache), (c) collecting and using information across web browsers and devices, and (d) first- and third-party cookies, including without limitation, ensuring users are clearly informed about third-party cookies and promptly notifying PubMatic in the event a user opts out of having third-party cookies dropped. In the event Data Protection and Privacy Requirements require user consent to pass personal information to PubMatic and Demand Partners, Publisher shall not pass such personal information to PubMatic or Demand Partners without obtaining the requisite consent. PubMatic will cooperate with Publisher in complying with such requirements.
 
-6.2.3    Your receipt of PubMatic Products is subject to the EU Data Protection Addendum and US Data Protection Addendum, which are hereby incorporated by reference.
+6.2.3      Your receipt of PubMatic Products is subject to the Publisher Data Protection Addendum, which is hereby incorporated by reference.
 
 6.2.4      Publisher shall not include or launch any Publisher Property on any of the PubMatic Products if such Publisher Property is directed at children under age thirteen (13), and Publisher shall flag within the PubMatic Products or inform PubMatic in writing prior to launching any of such Publisher Properties on any of the PubMatic Products. Publisher shall not pass to PubMatic or its Demand Partners any (a) personal information of children under 13 as defined under COPPA or Data Protection and Privacy Requirements, as applicable or (b) personal information of a consumer (as defined under the CCPA) under age sixteen (16) or Data Protection and Privacy Requirements, as applicable. Without prejudice to any other right or remedy, PubMatic may immediately suspend Publisher’s access to the PubMatic Products or any portion thereof if PubMatic believes that Publisher has failed to comply with this Section and/or is using the PubMatic Products in a manner that violates any applicable saws or regulation, or that would otherwise damage Demand Partners, PubMatic’s customers, partners, business, or reputation.
 
@@ -132,17 +132,17 @@ We recommend that you read this entire Agreement carefully.  However, to make i
 
 13.5 “Demand Partner” means PubMatic’s media buying advertisers, and addressability partners, including but not limited to demand side platforms, measurement partners, data brokers, identities partners, ad exchanges, agencies, agency trading desks, and ad networks.
 
-13.6 “EU Data Protection Addendum” means the data protection addendum located at [https://pubmatic.com/legal/publisher-data-processing-addendum/](https://pubmatic.com/legal/publisher-data-processing-addendum/).
+13.6 “Marks” means a party’s names, logos, trademarks, service marks, domain names, trade names, logos, other creative or product materials, or identifying insignia, or symbols and abbreviations thereof.
 
-13.7 “Marks” means a party’s names, logos, trademarks, service marks, domain names, trade names, logos, other creative or product materials, or identifying insignia, or symbols and abbreviations thereof.
+13.7 “Order Form” means each written order for PubMatic Products executed by and between PubMatic and Publisher and which documents commercial and contact details.
 
-13.8 “Order Form” means each written order for PubMatic Products executed by and between PubMatic and Publisher and which documents commercial and contact details.
+13.8 “Outstanding Receivables” means any Publisher Revenue that (a) remains unpaid by a Demand Partner for a period greater than one-hundred twenty (120) days of the invoice date, or (b) will not be paid, in PubMatic’s reasonable and good faith discretion, by a Demand Partner. To the fullest extent permitted by applicable law, Publisher shall then have the right to pursue collection of the Outstanding Receivable directly from the applicable Demand Partner, with reasonable assistance from PubMatic upon request. The PubMatic Fees related to an Outstanding Receivable shall only be payable as to the portion of the Outstanding Receivable collected by Publisher or PubMatic from the Demand Partner.
 
-13.9 “Outstanding Receivables” means any Publisher Revenue that (a) remains unpaid by a Demand Partner for a period greater than one-hundred twenty (120) days of the invoice date, or (b) will not be paid, in PubMatic’s reasonable and good faith discretion, by a Demand Partner. To the fullest extent permitted by applicable law, Publisher shall then have the right to pursue collection of the Outstanding Receivable directly from the applicable Demand Partner, with reasonable assistance from PubMatic upon request. The PubMatic Fees related to an Outstanding Receivable shall only be payable as to the portion of the Outstanding Receivable collected by Publisher or PubMatic from the Demand Partner.
+13.9 “Prohibited Content” means all content displayed on any Publisher Property that is forbidden pursuant to the Supply Policy.
 
-13.10 “Prohibited Content” means all content displayed on any Publisher Property that is forbidden pursuant to the Supply Policy.
+13.10 “Publisher Data” means data it provides to or makes available to PubMatic under this Agreement.
 
-13.11 “Publisher Data” means data it provides to or makes available to PubMatic under this Agreement.
+13.11 “Publisher Data Protection Addendum” means the data protection addendum located at [https://pubmatic.com/legal/publisher-data-processing-addendum/](https://pubmatic.com/legal/publisher-data-processing-addendum/).
 
 13.12 “Publisher Inventory” means the advertising inventory or slots made available by Publisher and Publisher’s third-party Publishers in the Publisher Properties.
 
@@ -157,8 +157,6 @@ We recommend that you read this entire Agreement carefully.  However, to make i
 13.17 “PubMatic Products” means PubMatic’s online advertising services, products, and features described at [https://pubmatic.com/legal/program-descriptions](https://pubmatic.com/legal/program-descriptions).
 
 13.18 “Supply Policy” means the supply policy located at [https://pubmatic.com/legal/supply-policy/](https://pubmatic.com/legal/supply-policy).
-
-13.19 “US Data Protection Addendum” means the data protection addendum located at [https://pubmatic.com/legal/us-data-processing-addendum/](https://pubmatic.com/legal/us-data-processing-addendum/)
 
 **In the Absence of a Order Form or Mutually Agreed upon Publisher Master Services Agreement:**
 
