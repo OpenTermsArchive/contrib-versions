@@ -187,11 +187,11 @@ Unless stated otherwise, our current Privacy Policy applies to all Information t
 California's "Shine the Light" Law
 ----------------------------------
 
-Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a request to [support@ipinfo.io](mailto:support@ipinfo.io).
+Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a request to [\[email protected\]](https://ipinfo.io/cdn-cgi/l/email-protection).
 
 How You Can Contact Us
 ----------------------
 
-You can help by keeping us informed of any changes in your Information, such as a change of email address or telephone number. If you have any questions, comments or suggestions, please contact us at [support@ipinfo.io](mailto:support@ipinfo.io) or by mail at:
+You can help by keeping us informed of any changes in your Information, such as a change of email address or telephone number. If you have any questions, comments or suggestions, please contact us at [\[email protected\]](https://ipinfo.io/cdn-cgi/l/email-protection) or by mail at:
 
 IDB, LLC 300 Lenora Street #516, Seattle, WA 98136, USA
