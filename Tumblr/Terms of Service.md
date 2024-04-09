@@ -330,7 +330,7 @@ Tumblr, Inc. (Automattic)
 60 29th Street #343  
 San Francisco, CA 94110  
 **Attn:** Copyright Agent  
-**Email:** [dmca@tumblr.com](mailto:%20dmca@tumblr.com)  
+**Email:** [dmca@tumblr.com](mailto: dmca@tumblr.com)  
   
 **Copyright notice form:** [https://www.tumblr.com/dmca](https://www.tumblr.com/dmca)
 
