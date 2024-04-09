@@ -696,7 +696,7 @@ Suivez-nous
 sur les réseaux sociaux
 -------------------------------------
 
-* [_Suivez-nous sur Twitter_](https://twitter.com/Sante_Gouv)
+* [__Suivez-nous sur Twitter__](https://twitter.com/Sante_Gouv)
 * [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/)
 * [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/)
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
@@ -6402,7 +6402,7 @@ Suivez-nous
 sur les réseaux sociaux
 -------------------------------------
 
-* [_Suivez-nous sur Twitter_](https://twitter.com/Sante_Gouv)
+* [__Suivez-nous sur Twitter__](https://twitter.com/Sante_Gouv)
 * [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/)
 * [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/)
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
@@ -6412,7 +6412,7 @@ Suivez-nous
 sur les réseaux sociaux
 -------------------------------------
 
-* [_Suivez-nous sur Twitter_](https://twitter.com/Sante_Gouv)
+* [__Suivez-nous sur Twitter__](https://twitter.com/Sante_Gouv)
 * [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/)
 * [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/)
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
@@ -6422,7 +6422,7 @@ Suivez-nous
 sur les réseaux sociaux
 -------------------------------------
 
-* [_Suivez-nous sur Twitter_](https://twitter.com/Sante_Gouv)
+* [__Suivez-nous sur Twitter__](https://twitter.com/Sante_Gouv)
 * [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/)
 * [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/)
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
@@ -6432,7 +6432,7 @@ Suivez-nous
 sur les réseaux sociaux
 -------------------------------------
 
-* [_Suivez-nous sur Twitter_](https://twitter.com/Sante_Gouv)
+* [__Suivez-nous sur Twitter__](https://twitter.com/Sante_Gouv)
 * [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/)
 * [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/)
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
@@ -6442,7 +6442,7 @@ Suivez-nous
 sur les réseaux sociaux
 -------------------------------------
 
-* [_Suivez-nous sur Twitter_](https://twitter.com/Sante_Gouv)
+* [__Suivez-nous sur Twitter__](https://twitter.com/Sante_Gouv)
 * [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/)
 * [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/)
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
