@@ -1,7 +1,7 @@
 Last modified on 06/30/2023
 
-**Twitch.tv** **Privacy Notice**
-================================
+**Twitch.tv Privacy Notice**
+============================
 
 Last updated: June 30, 2023. To see prior versions, [click here](https://www.twitch.tv/p/legal/privacy-notice/archive/).
 
@@ -188,7 +188,3 @@ Visit the [State-Specific Privacy Disclosures](https://www.twitch.tv/p/legal/sta
 ### Japan Privacy Disclosures
 
 Visit the [Japan Privacy Disclosures](https://www.twitch.tv/legal/japan-privacy-notice/) page to read additional disclosures required under the Act on Protection of Personal Information.
-
-### Republic of Korea Privacy Disclosures
-
-Visit the [Republic of Korea Privacy Disclosures](https://www.twitch.tv/p/legal/republic-of-korea-privacy-disclosures/) page to read additional disclosures required under the Personal Information Protection Act.
