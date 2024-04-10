@@ -28,6 +28,7 @@ Recherche
     Retour
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
+        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
         * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
@@ -748,6 +749,7 @@ Recherche
     Retour
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
+        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
         * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
@@ -1442,6 +1444,7 @@ Recherche
     Retour
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
+        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
         * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
@@ -2085,6 +2088,7 @@ Recherche
     Retour
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
+        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
         * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
@@ -2450,6 +2454,7 @@ Recherche
     Retour
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
+        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
         * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
@@ -2815,6 +2820,7 @@ Recherche
     Retour
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
+        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
         * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
@@ -3180,6 +3186,7 @@ Recherche
     Retour
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
+        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
         * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
@@ -3545,6 +3552,7 @@ Recherche
     Retour
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
+        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
         * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
@@ -3910,6 +3918,7 @@ Recherche
     Retour
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
+        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
         * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
         * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
