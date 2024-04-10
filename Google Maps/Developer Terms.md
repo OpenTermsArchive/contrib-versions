@@ -190,6 +190,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open Data Österreich [https://www.data.gv.at/katalog/en/dataset/2ee6b8bf-6292-413c-bb8b-bd22dbb2ad4b#resources](https://www.data.gv.at/katalog/en/dataset/2ee6b8bf-6292-413c-bb8b-bd22dbb2ad4b#resources)
             
+        * BEV - Bundesamt für Eich- und Vermessungswesen: [https://data.bev.gv.at/geonetwork/srv/eng/catalog.search#/metadata/2dd73338-e005-475f-a9f2-637165a9f97c](https://data.bev.gv.at/geonetwork/srv/eng/catalog.search#/metadata/2dd73338-e005-475f-a9f2-637165a9f97c)
+            
     5. **Argentina**
         * Instituto Geográfico Nacional (AR): [https://www.ign.gob.ar/](https://www.ign.gob.ar/)
             
@@ -265,6 +267,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Data.Rio - Instituto Pereira Passos (IPP): [https://www.data.rio/datasets/PCRJ::limite-de-bairros/about](https://www.data.rio/datasets/PCRJ::limite-de-bairros/about)
             
         * IBGE - Instituto Brasileiro de Geografia e Estatística [https://www.ibge.gov.br/](https://www.ibge.gov.br/)
+            
+        * Prefeitura de Goiânia: [https://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/)
             
     9. **Canada**
         1. Google’s maps of Canada include data provided from the following:
@@ -500,6 +504,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         112. Government of Canada: [https://open.canada.ca/data/en/dataset/3d282116-e556-400c-9306-ca1a3cada77f](https://open.canada.ca/data/en/dataset/3d282116-e556-400c-9306-ca1a3cada77f)
             
         113. Ontario GeoHub: [https://www.ontario.ca/page/open-government-licence-ontario](https://www.ontario.ca/page/open-government-licence-ontario)
+            
+        114. Ville de Gatineau: [https://creativecommons.org/licenses/by/4.0/legalcode.fr](https://creativecommons.org/licenses/by/4.0/legalcode.fr)
             
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
@@ -937,6 +943,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Geoservice IGN: [https://geoservices.ign.fr/sites/default/files/2023-01/IGNF\_BDTOPOr\_3-3.html](https://geoservices.ign.fr/sites/default/files/2023-01/IGNF_BDTOPOr_3-3.html)
             
+        * République française Data Gouv France: [https://www.etalab.gouv.fr/licence-ouverte-open-licence/](https://www.etalab.gouv.fr/licence-ouverte-open-licence/)
+            
+        * République française Data Gouv France: [https://www.agenceore.fr/forum-expert/consommation-denergie-des-batiments-publics](https://www.agenceore.fr/forum-expert/consommation-denergie-des-batiments-publics)
+            
     19. **Gambia**
         * Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
             
@@ -1070,6 +1080,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Baden Württemberg Ministry of Transport: [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
         * HVV Open Data Hamburg (DE): [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0).
+            
+        * Berlin Open Data: [https://creativecommons.org/licenses/by/3.0/de/](https://creativecommons.org/licenses/by/3.0/de/)
             
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
@@ -1340,6 +1352,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Istat: [https://www.istat.it/it/note-legali](https://www.istat.it/it/note-legali)
         * Roma Servizi per la Mobilità: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
         * Open Data Comune di Milano [https://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/)
+        * Roma Servizi per la Mobilità: [https://data-rsm.opendata.arcgis.com/datasets/3a87172a1bed4e9dba20bd4c820dd226\_0/explore](https://data-rsm.opendata.arcgis.com/datasets/3a87172a1bed4e9dba20bd4c820dd226_0/explore)
     34. **Ivory Cost (Côte d'Ivoire)**
         
         OCHA Côte d'Ivoire ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
@@ -2350,6 +2363,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         220. City of Milwaukee Open Data Portal [https://eu2.proxysite.com/process.php](https://eu2.proxysite.com/process.php)
             
         221. US Department of Transportation Federal Railroad Administration: [https://safetydata.fra.dot.gov/MasterWebService/PublicApi/Support/TermsOfService](https://safetydata.fra.dot.gov/MasterWebService/PublicApi/Support/TermsOfService)
+            
+        222. City of Austin (TX) Open Data Portal: [https://data.austintexas.gov/stories/s/ranj-cccq](https://data.austintexas.gov/stories/s/ranj-cccq)
             
     68. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
