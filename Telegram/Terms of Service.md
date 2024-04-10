@@ -15,6 +15,10 @@ We reserve the right to update these Terms of Service later.
 
 * * *
 
+If you access certain optional features and services on the Telegram platform, you will be additionally bound by their specific terms – such as the Terms of Service for [Telegram Premium](https://telegram.org/tos#terms-of-service-for-telegram-premium), [Telegram Business](https://telegram.org/tos/business), [Bot Users](https://telegram.org/tos/bots), [Mini App Users](https://telegram.org/tos/mini-apps), [Revenue Sharing with Content Creators](https://telegram.org/tos/content-creator-rewards), [Telegram API Developers](https://core.telegram.org/api/terms) and [Bot Developers](https://telegram.org/tos/bot-developers).
+
+* * *
+
 [](#terms-of-service-for-telegram-premium)Terms of Service for Telegram Premium
 -------------------------------------------------------------------------------
 
@@ -86,7 +90,9 @@ We will give you no less than 30 days' advance notice of any material changes vi
 
 #### [](#7-1-included-services)7.1. Included Services
 
-The services included in the Telegram Premium subscription (“Premium Services”) are listed in the Premium Section. From time to time, we may add new items into the Premium Services. We may also remove some of the existing Premium Services if we are no longer able to provide them for legal or technical reasons. In addition, some Premium Services may become free of charge for all Telegram users in the future.
+The services included in the Telegram Premium subscription (“Premium Services”) are listed in the Premium Section. From time to time, we may add new items into the Premium Services, including limited-time or promotional access to additional paid features and subscriptions, such as [Telegram Business](https://telegram.org/blog/telegram-business). In such cases, your access to those features is further subject to their specific Terms of Service.
+
+We may also remove some of the existing Premium Services if we are no longer able to provide them for legal or technical reasons. In addition, some Premium Services may become free of charge for all Telegram users in the future or be offered as a separate membership tier.
 
 #### [](#7-2-availability)7.2. Availability
 
