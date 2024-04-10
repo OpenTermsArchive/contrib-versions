@@ -50,6 +50,12 @@ To make it easier for your contacts and other people to reach you and recognize 
 
 We do **not** require your screen name to be your real name. Note that users who have you in their contacts will see you by the name they saved and not by your screen name. This way your mother can have the public name 'Johnny Depp' while appearing as 'Mom' to you and as 'Boss' to her underlings at work (or the other way around, depending on how these relationships are structured).
 
+#### [](#3-1-1-optional-data)3.1.1. Optional Data
+
+You can add your birthday (with or without the year) to your Telegram profile if you wish to do so. You can granularly choose which users are able to see it on your profile (by default, your Contacts), and they will be shown a reminder on the day. We may use data about your age to determine your eligibility for accessing age-specific content.
+
+[Telegram Business](https://telegram.org/blog/telegram-business) subscribers can add a fixed location and a list of opening hours to their profile, to help clients identify and engage with their business more efficiently on Telegram. If you choose to add it to your profile, this information is always public.
+
 #### [](#3-2-your-email-address)3.2. Your Email Address
 
 When you enable 2-step-verification for your account or store documents using the Telegram Passport feature, you can opt to set up a password recovery email. This address will only be used to send you a password recovery code if you forget it. That's right: no marketing or “we miss you” bullshit.
@@ -153,6 +159,9 @@ You can send data to bot developers when you interact with their bots in one of 
 * By participating in a group with a bot.
 * By pressing buttons in messages sent by a bot.
 * By paying for goods and services via bots (see [section 7](#7-third-party-payment-services) below).
+* By sending a [join request](https://telegram.org/blog/shared-media-scrolling-calendar-join-requests-and-more#join-requests-for-groups-and-channels) to a group or channel.
+* By using Telegram Business features that connect a chatbot to your account.
+* By opening a chat with a Telegram Business account controlled by a chatbot (see [section 6.5](#6-5-telegram-business-chatbots) below).
 
 #### [](#6-3-what-data-bots-receive)6.3. What Data Bots Receive
 
@@ -165,10 +174,15 @@ Bots can also receive the following data when you **interact** with them.
 * If the bot is a member of the same group with you, it may know you are a member.
 * When you start your message with the username of an [inline bot](https://telegram.org/blog/inline-bots) (e.g. [@gif](https://t.me/gif)) the interface transforms so that everything you type becomes a query to that bot. This query is sent to the bot so that it can provide its service. We will warn you about this the first time you use an inline bot.
 * Bots added to groups can operate in two modes: with access to messages in the group or [without access](https://core.telegram.org/bots#privacy-mode). If the bot has access to messages, it can see everything that happens in the group. The interface clearly shows whether or not a bot has access to messages in groups.
+* To facilitate text localization, bots you [interact](#6-2-how-bots-can-receive-data) with (including via chats managed by [Telegram Business Chatbots](#6-5-telegram-business-chatbots)), may receive your interface language based on your app or operating system language settings. Note that if you update your language settings, bots may continue to receive your previous language for some time.
 
 #### [](#6-4-bots-are-not-maintained-by-telegram)6.4. Bots Are Not Maintained by Telegram
 
 Other than our own bots, no other bots or third-party bot developers are affiliated with Telegram. They are completely independent from us. They should ask you for your permission before they access your data or you make it available to them.
+
+#### [](#6-5-telegram-business-chatbots)6.5. Telegram Business Chatbots
+
+[Telegram Business](https://telegram.org/blog/telegram-business) subscribers can connect third-party bots to their Telegram account, to help them automatically process and respond to messages from users.
 
 ### [](#7-third-party-payment-services)7\. Third Party Payment Services
 
@@ -196,7 +210,7 @@ Due to the fact that Telegram doesn't store any credit card details or transacti
 
 #### [](#8-1-other-telegram-users)8.1. Other Telegram Users
 
-Other users of our Services with whom you choose to communicate with and share certain information, who may be located outside the EEA. Note that by entering into the Terms of Service and choosing to communicate with such other users of Telegram, you are instructing us to transfer your personal data, on your behalf, to those users in accordance with this Privacy Policy. We employ all appropriate technical and organizational measures (including encryption of your personal data) to ensure a level of security for your personal data that is appropriate to the risk.
+Other users of our Services with whom you choose to communicate with and share certain information, who may be located outside the EEA. Note that by entering into the Terms of Service and choosing to communicate with such other users of Telegram, you are instructing us to transfer your personal data, on your behalf, to those users in accordance with this Privacy Policy. We employ all appropriate technical and organizational measures (including encryption of your personal data) to ensure a level of security for your personal data that is appropriate to the risk. However, note that if you chat with others and share data with them, they become capable of sharing such data further with third parties without your knowledge or consent, and Telegram has no way to prevent this.
 
 #### [](#8-2-telegrams-group-companies)8.2. Telegram’s Group Companies
 
