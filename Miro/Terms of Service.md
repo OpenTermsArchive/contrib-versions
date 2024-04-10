@@ -221,15 +221,21 @@ Terms of Service
 Terms of Service
 ----------------
 
+Any translated versions of the Agreement in a language other than English are provided as a courtesy only. In the event of any conflict or discrepancy between any translated version of the Agreement and the English language version, [the English language version](https://miro.com/legal/terms-of-service/) shall prevail.
+
+Any translated versions of the Agreement in a language other than English are provided as a courtesy only. In the event of any conflict or discrepancy between any translated version of the Agreement and the English language version, [the English language version](https://miro.com/legal/terms-of-service/) shall prevail.
+
+Any translated versions of the Agreement in a language other than English are provided as a courtesy only. In the event of any conflict or discrepancy between any translated version of the Agreement and the English language version, [the English language version](https://miro.com/legal/terms-of-service/) shall prevail.
+
+These are the standard terms of service applicable to all Miro self-serve and reseller customers. If you have subscribed to an Enterprise Plan, please visit our [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement/).
+
+These are the standard terms of service applicable to all Miro self-serve and reseller customers. If you have subscribed to an Enterprise Plan, please visit our [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement/).
+
+These are the standard terms of service applicable to all Miro self-serve and reseller customers. If you have subscribed to an Enterprise Plan, please visit our [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement/).
+
 Publication date July 19, 2021
 
 Effective date September 1, 2021
-
-These are the standard terms of service applicable to all Miro self-serve and reseller customers. If you have subscribed to an Enterprise Plan, please visit our [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement/).
-
-These are the standard terms of service applicable to all Miro self-serve and reseller customers. If you have subscribed to an Enterprise Plan, please visit our [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement/).
-
-These are the standard terms of service applicable to all Miro self-serve and reseller customers. If you have subscribed to an Enterprise Plan, please visit our [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement/).
 
 This Miro Terms of Service (“**Agreement**”) is entered into by and between RealtimeBoard Inc. dba Miro (“**Miro**”) and the entity or person placing an order for or accessing the Service (“**Customer**” or “**you**”). This Agreement consists of the terms and conditions set forth below and any Orders. If you are accessing or using the Service on behalf of your company, you represent that you are authorized to accept this Agreement on behalf of your company, and all references to “you” reference your company.
 
