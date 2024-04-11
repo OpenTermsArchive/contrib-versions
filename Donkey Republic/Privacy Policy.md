@@ -190,7 +190,7 @@ We never sell or profit directly from any of your personal data.
 | --- | --- | --- | --- | --- |
 | **Party name** | **Personal data disclosed** | **Purpose** | **Transfer Mechanism** | **Hosting Location** |
 | [Adyen](https://www.google.com/url?q=http://adyen.com&sa=D&source=editors&ust=1707143082251001&usg=AOvVaw0WiFoMgRvLOJC1s2THtkCx) | Name, email address, Payment card, IP Address and user location (only in case of dispute) | Payment provider | N/A, since no data is transferred outside of the EU | EU  |
-| [Amplitude](https://www.google.com/url?q=https://amplitude.com/&sa=D&source=editors&ust=1707143082253042&usg=AOvVaw1wiCl57PkwwijDFMRpWAP0) | Name, email address, Phone number, User location, Advertising ID, IP address, User id, rental data, usage data, web browsing data | Store and analyze data | DPF | US  |
+| [Amplitude](https://www.google.com/url?q=https://amplitude.com/&sa=D&source=editors&ust=1707143082253042&usg=AOvVaw1wiCl57PkwwijDFMRpWAP0) | Name, email address, Phone number, User location, Advertising ID, IP address, User id, rental data, usage data, web browsing data | Store and analyze data | DPF | Different locations where Amplitude operates\*\*\*\* |
 | [AppFollow](https://www.google.com/url?q=https://appfollow.io/&sa=D&source=editors&ust=1707143082254602&usg=AOvVaw11FJAB_NVYJfwrsbbwzdx8) | Name | Google Play Store and Apple App Store review aggregator | N/A, since no data is transferred outside of the EU | EU  |
 | [Braintree](https://www.google.com/url?q=http://braintreepayments.com&sa=D&source=editors&ust=1707143082256301&usg=AOvVaw09x7Ada4QVTChbjfknRcj6) | Name, email address, Payment card, IP Address | Payment provider for PayPal | BCR, SCCs | Different locations where PayPal operates\* |
 | [Branch](https://www.google.com/url?q=https://www.branch.io/&sa=D&source=editors&ust=1707143082257858&usg=AOvVaw1XLg0kUB7m-7Gc3HZRqZb8) | User name, email address address | Deeplinks for apps | SCCs, DPF | US  |
@@ -223,6 +223,8 @@ BCR = Binding Corporate Rules ([Binding Corporate Rules (BCR) – European Commi
 \*\* See Google’s data transfer policies [here](https://www.google.com/url?q=https://cloud.google.com/terms/data-processing-addendum&sa=D&source=editors&ust=1707143082289612&usg=AOvVaw2qmK1ZXC21po-JE80Ci2QB)
 
 \*\*\* See Meta’s DPA and transfer policies [here](https://www.google.com/url?q=https://www.facebook.com/privacy/policy&sa=D&source=editors&ust=1707143082289914&usg=AOvVaw10CJ9bJwlMjLe1UGnoGZKT)
+
+\*\*\*\* See Amplitude’s DPA and transfer policies [here](https://www.amplitude.com/dpa?utm_campaign=fy23q3-global-subprocessor-notification&utm_source=marketo&utm_medium=email&utm_content=invite&mkt_tok=MTM4LUNETi01NTAAAAGNEwGuLUto_36aGDyVkjvHPNGKDvNh6Up3AUE3NoZTcLIHIeTlrnvzh2-w5-iykdXN0L33FYVaRU-IAwNB6g7dFMKbQzX8G0seoLg60XyhQc83HQ)
 
 ### Changes to the list of 3rd party providers
 
