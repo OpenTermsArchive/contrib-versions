@@ -1,7 +1,7 @@
 WECHAT PRIVACY POLICY
 =====================
 
-**Last Updated:** 2024-02-20
+**Last Updated:** 2024-04-12
 
 **SUMMARY**
 
@@ -201,6 +201,7 @@ Only where necessary will we share your information with selected recipients, in
     * log in to WeChat using third party authentication services;
     * share content from WeChat to third party services;
     * share content on WeChat from third party services;
+    * log in to platforms of third party services using WeChat account;
     * access content of non-Weixin third party services from WeChat; or
     * link your WeChat contact list with your list on third party services,  
         we may receive information about you from such third party services and/or share your information with such third party services.  
