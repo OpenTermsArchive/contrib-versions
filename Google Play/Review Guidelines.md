@@ -150,7 +150,7 @@ Consumer
 * [### Travel](https://support.google.com/travel?hl=en-GB)
 * [### Google Keep](https://support.google.com/keep?hl=en-GB)
 * [### Google Fiber](https://support.google.com/fiber?hl=en-GB)
-* [### Google Camera](https://support.google.com/pixelcamera?hl=en-GB)
+* [### Pixel Camera](https://support.google.com/pixelcamera?hl=en-GB)
 * [### Photomath](https://support.google.com/photomath?hl=en-GB)
 * [### Gboard](https://support.google.com/gboard?hl=en-GB)
 
