@@ -1,7 +1,7 @@
 PayPal Privacy Statement
 ========================
 
-Effective Date: 24 July, 2023
+Effective Date: 15 April 2024
 
 Please contact us if you have any questions regarding this Privacy Statement or in general questions regarding your Personal Data. Your information will be used to provide the Services and in accordance with this Privacy Statement and the relevant PayPal [**User Agreement**](https://www.paypal.com/cz/webapps/mpp/ua/useragreement-full?locale.x=en_CZ).
 
@@ -126,6 +126,7 @@ We collect the following Personal Data we consider **necessary to fulfil our pre
 * Information related to legal requirements
 * Information you provide when you contact us
 * Transaction information
+* Package Tracking
 * Service-specific Personal Data
 * Information from credit reporting agencies and financial institutions
 * Information from your connected financial accounts
@@ -178,7 +179,7 @@ We have a legal obligation under EU and Member State laws to conduct certain pro
 * to carry out risk analysis, fraud prevention and risk management.
 * to comply with applicable laws, such as anti-money laundering and bookkeeping laws and regulatory capital adequacy requirements and rules issued by our designated banks and relevant card networks. For example, when we process Personal Data for know-your-customer (“KYC”) requirements, to prevent, detect and investigate money laundering, terrorist financing and fraud. We also carry out sanction screening, report to tax authorities, police enforcement authorities, enforcement authorities, supervisory authorities.
 
-**We rely on your explicit and voluntary consent** to process your Personal Data to participate in certain features that while not necessary for use of the Services may be of interest to you, such as syncing your contact list to your account, providing biometric data, targeted advertising, or connecting to a third-party platform. You may change your mind about use of these features at any time through your account settings. Note that withdrawing your consent will not affect the lawfulness of any processing we have conducted prior to your withdrawal. Please refer to Section 10 (“[**Your data protection rights**](#10)”) for more information on your right to withdraw your consent.
+**We rely on your explicit and voluntary consent** to process your Personal Data to participate in certain features that while not necessary for use of the Services may be of interest to you, such as syncing your contact list to your account, providing biometric data, targeted advertising, linking your email account for package tracking or connecting to a third-party platform. You may change your mind about use of these features at any time through your account settings. Note that withdrawing your consent will not affect the lawfulness of any processing we have conducted prior to your withdrawal. Please refer to Section 10 (“[**Your data protection rights**](#10)”) for more information on your right to withdraw your consent.
 
 6\. Do We Share Personal Data, and why?
 ---------------------------------------
