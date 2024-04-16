@@ -2,10 +2,10 @@
 
 3. [Rides](https://bolt.eu/en-ie/legal/?category=rides)
 
-5. General Terms and Conditions for Passengers
+5. General Terms and Conditions for Passengers (effective until 16.04.2024)
 
-General Terms and Conditions for Passengers
-===========================================
+General Terms and Conditions for Passengers (effective until 16.04.2024)
+========================================================================
 
 These General Terms and Conditions (“GTC”) set out the terms and conditions applying to and governing the usage of the Bolt App - technology which connects passengers, fleet partners and drivers and helps to move around cities more efficiently.
 
