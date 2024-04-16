@@ -118,7 +118,7 @@ In the event you believe that any User Content on the Services infringes your co
 Electronic notification is preferred. You can also file a notice with our designated agent, but processing may be slower than using the link above.
 
 Sketchfab, Inc.  
-ATTN: Alban Denoyel  
+ATTN: DMCA AGENT  
 440 9th Ave, Suite 1700  
 New York, NY 10001  
 DMCA@sketchfab.com
