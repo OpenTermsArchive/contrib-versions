@@ -183,16 +183,11 @@ We may share your information with Third-Party Service Providers, and when we do
 
 * Discourse | Forum | United States
 * AWS SES | Emails | United States
-* Stripe | Payment | United States
-* Curated | Newsletters | United States
-* Google/Gsuite | Payment | United States
-* Google Cloud Platform | Hosting/Infrastructure | United States/EMEA
-* Docker.io | Hosting/Infrastructure | United States/EMEA
-* Circle CI Software | Integration and testing platform | United States
-* Github | Hosting code | United States
 * Amazon Web Services, Inc. | Hosting/Infrastructure | United States
-* OVH | Hosting/Infrastructure & Invoicing | France
-* Google Analytics | Analytics | United States
+* Stripe | Payment | United States
+* MongoDB Atlas | Hosting/Infrastructure | United States
+* Google Cloud Platform | Hosting/Infrastructure | United States/EMEA
+* GitHub | Hosting code | United States
+* OVHCloud | Hosting/Infrastructure | France
 * Slack Technologies | Communication | United States
-* Outreach | Customer engagement | United States
 * Hugging Face SAS | All of the above | France
