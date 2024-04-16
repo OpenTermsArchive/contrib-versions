@@ -3370,3 +3370,155 @@ Supplementary Provisions
 
 * These Individual Terms of Use shall take effect on April 2, 2024.
 * These Individual Terms of Use shall also retroactively apply to conduct undertaken by User before these Individual Terms of Use came into effect.
+
+“Pastela” Terms of Use
+======================
+
+Article 1: Introduction
+-----------------------
+
+1. These Individual Terms of Use apply to any and all of Users’ acts when they use an “illustration creation application” (the “App”) and “Pastela” which provides storage and linkage services for illustrations, etc., created on the App, both of which are provided by the Company (collectively, “Pastela”).
+2. These Individual Terms of Use prescribe the terms of use of Pastela. Users shall agree to these Individual Terms of Use and use Pastela in accordance with these Individual Terms of Use.
+3. When a User starts to use the App, the Company deems that the User has agreed to all the terms of these Individual Terms of Use.
+4. These Individual Terms of Use are established as individual terms of use under the pixiv service Master Terms of Use (the “Master Terms of Use”) that apply to all services provided by the Company. Any matters not prescribed herein, unless otherwise specified by these Individual Terms of Use to be excluded, shall be subject to various terms, including individual guidelines for smooth operation of Pastela and the terms of use and guidelines, etc. for services related to Pastela (collectively, “Various Terms”) as an integral part of these Individual Terms of Use, in addition to the Master Terms of Use.
+
+Article 2: Definitions
+----------------------
+
+The terms used in these Individual Terms of Use shall have the meanings set forth in the following items. Unless otherwise provided, terms used in these Individual Terms of Use other than those defined below shall have the meanings specified in the Master Terms of Use.
+
+1. “Pastela” collectively means an illustration creation application and storage service and Linkage Services for illustrations, etc., both of which are provided by the Company.
+2. “App” means an application downloaded by a User to his or her terminal to use Pastela.
+3. “Picture Drawing Function” means a function provided by Pastela to create texts, images, etc.
+4. “Illustrations, Etc.” means images, texts and other works created by a User on the App.
+5. “Cloud Storage” means a cloud storage managed by the Company with free storage capacity and paid storage capacity.
+6. “Cloud Service” means a function and service to store Illustrations, Etc. created by a User in the Cloud Storage managed by the Company.
+7. “Service Site” means a service site (https://pastela.app/) that is linked to the App and can be used by a User by logging in his or her Account set forth in the following article. On the service site, the User can view the guide for use of Pastela, use Linkage Services, subscribe to paid services, etc.
+8. “Linkage Services” means various services or websites provided by the Company or entities other than the Company whereby Users can post their illustrations directly from the App.
+9. “Pastela Account” means an account issued to identify the use of Pastela.
+10. “pixiv Account” means an account issued by the Company that is required to use services provided by the Company.
+11. “Account” individually or collectively means “pixiv Account” and “Pastela Account” that are required for a User to be authorized to use Pastela.
+
+Article 3: Creation of Account and Login
+----------------------------------------
+
+1. To use Pastela, a User needs to have both Pastela Account and pixiv Account. Pastela Account is created when a User logs in Pastela for the first time with his or her pixiv Account. If a User does not have pixiv Account, the User needs to create his or her pixiv Account.
+2. The User shall create a pixiv Account in compliance with the provisions of the Master Terms of Use.
+3. Pastela has functions that can be used by logging in (logging in is hereinafter referred to as “Account Linkage” and such service is hereinafter referred to as the “Linkage Functions”). Details of the Linkage Functions are published on the App or the Service Site, and the scope of the functions may be changed at the Company’s own discretion without notice.
+
+Article 4: Use of Pastela
+-------------------------
+
+1. By downloading the App, a User can use the Picture Drawing Function. To use other services, a User needs to carry out Account Linkage as set forth in the preceding article.
+2. Illustrations, Etc. created by using the Picture Drawing Function will be automatically stored in the User’s terminal.
+3. The User can do the following by carrying out Account Linkage:
+    * Store Illustrations, Etc. created on the App in the Cloud Storage using the Cloud Service
+    * View or delete Illustrations, Etc. posted on the Service Site and link with Linkage Services
+4. The User can post on a Linkage Service Illustrations, Etc. stored in the App or the Cloud Storage.
+
+Article 5: Cloud Service
+------------------------
+
+1. If a User carries out Account Linkage on the App, Illustrations, Etc. created by the User on the App will be automatically synchronized to the Cloud Storage (“Cloud Synchronization”) and thereby the User can view such Illustrations, Etc. on the Service Site.
+2. The Cloud Synchronization set forth in the preceding paragraph will be stopped when a User uses up the storage capacity that is available to him or her. Illustrations, Etc. are also stored in the User’s terminal even if the Illustrations, Etc. are not subject to the Cloud Synchronization. If the User creates space in the capacity of the Cloud Storage by organizing data such as Illustrations, Etc., Illustrations, Etc. created thereafter will begin to be automatically synchronized.
+3. Notwithstanding the preceding two paragraphs, the Company shall have no obligation to store Illustrations, Etc. that are subject to the Cloud Synchronization provided by the Company, but the User shall be solely responsible for the storage of such Illustrations, Etc.
+4. The Company will store Illustrations, Etc. according to the capacity available to the User based on the plan to which the User has subscribed. If Illustrations, Etc. are stored in the Cloud Storage over the capacity that the User is allowed to use due to a change in the plan, the Company may delete the Illustrations, Etc. until the storage capacity reaches within the prescribed capacity in chronological order of final access.
+5. In deleting Illustrations, Etc. pursuant to the preceding paragraph, the Company shall have no liability to the User unless the Company has committed willful misconduct or gross negligence.
+6. The Company reserves the right to judge the appropriateness and compliance with laws and regulations or these terms, of the Illustrations, Etc. synchronized by the User to the Cloud Storage and may transfer, refuse, modify and/or delete such Illustrations, Etc. at its own discretion at any time without notice if the Company recognizes that such Illustrations, Etc. breach laws and regulations or these terms and that they are inappropriate. This does not, however, necessarily mean that the Company monitors the User’s Illustrations, Etc.
+
+Article 6: Linkage Services
+---------------------------
+
+1. Users may post Illustrations, Etc. created using the App on Linkage Services.
+2. Users shall use Linkage Services in compliance with the terms of such Linkage Services. The Company shall have no liability for any trouble arising in the Linkage Services.
+3. Link with the Linkage Services may be temporarily suspended or interrupted due to reasons such as trouble in the Company’s system or a Linkage Service or a failure of a User’s terminal. The Company shall have no liability for such suspension or interruption unless it is caused by the Company’s willful misconduct or gross negligence.
+
+Article 7: Use of Paid Service
+------------------------------
+
+1. Pastela can be used for free, in principle. However, if a User subscribes to paid services, the User can use additional services. For specific service fees and the contents of services, please see the App or the Service Site.
+2. To use a paid service, a User shall access the Service Site and subscribe to the paid service on the Service Site.
+3. If a User subscribes to a paid service, the term of use of the service will be automatically renewed unless the User terminates the service by the method specified by the Company.
+4. Paid services can be terminated by the method specified by the Company. Even if a User takes procedures for termination of a service during the term of the service, the User can still use the service during the remaining term of the service. The service will be terminated at the time of expiration of the term of the service.
+5. If a User subscribes to a paid service and deactivates his or her account during the term of the service, the Company will not refund the fee for the paid service he or she has already paid to the Company.
+6. If a User changes the plan of a paid service during the term of the service, the following items will apply:
+    * Change to a higher-priced plan: The difference between the plan before the change and after the change shall be paid to the Company at the time of the change, and the price of the new plan shall be paid on the following renewal date and thereafter.
+    * Change to a lower-priced plan: The difference between the plan before the change and after the change will not be refunded. The price of the new plan shall be paid on the following renewal date and thereafter.
+7. If a User cannot use any paid service due to the Company’s gross negligence and the service continues to be unavailable for 24 hours or more from the time that the User becomes aware of the unavailability, the Company shall compensate him or her for any actually incurred damage claimed by him or her up to the amount obtained by multiplying the fee for the paid service per month based on the plan the User has subscribed to by the number of days on which the service was unavailable (in units of a day and fractions shall be rounded off) (amounts less than one yen shall be rounded off) or extend the term of use of the service for a period equivalent to the period of unavailability.
+
+Article 8: Termination of Paid Service
+--------------------------------------
+
+1. If a User wishes to terminate a paid service, the User shall complete the termination procedures no later than the day preceding the following renewal date.
+2. If the User fails to complete the termination procedures for the paid service by the day set forth in the preceding paragraph, the term of use of the paid service will be extended for the same period as the current applicable period and a fee will be charged.
+
+Article 9: Termination of Use of Pastela
+----------------------------------------
+
+1. If a User deletes his or her Pastela Account or the Company deactivates a User’s account, or a User does not access the Cloud Storage for one year or more continuously, the Company may deem that the User has terminated the use of Pastela and delete Illustrations, Etc. stored in the Cloud Storage.
+2. The Company shall have no liability for deletion set forth in the preceding paragraph unless the Company has committed willful misconduct or gross negligence.
+
+Article 10: User’s Responsibility
+---------------------------------
+
+1. Users have responsibility for backup of Illustrations, Etc. created using the App. The Company will exert the best efforts to store each User’s Illustrations, Etc. on the Cloud Service, but have no responsibility to store backups of such Illustrations, Etc.
+2. Users shall always use the latest version of the App. The Company shall have no liability for any damage incurred by a User due to his or her failure to use the latest version of the App.
+
+Article 11: Ownership of Intellectual Property Rights and License
+-----------------------------------------------------------------
+
+1. Intellectual property rights, including copyrights, and any other rights in or to Illustrations, Etc. created using Pastela shall belong to the User who has created such Illustrations, Etc.
+2. Intellectual property rights, including know-how and copyrights, and any other rights included in Pastela shall belong to the Company or the owners thereof. Users shall not take any act that violates the Company’s intellectual property rights unless they have obtained the prior written approval of the Company.
+
+Article 12: Change of Service
+-----------------------------
+
+1. The Company may renew, modify or discontinue all or part of functions or services of Pastela at any time (each of such acts is hereinafter referred to as “Update”).
+2. The Company shall have no responsibility to continue to provide released functions and no liability for discontinuance of any functions and services as a result of Update.
+3. The Company may revise the contents and fees of paid services as a result of Update. The Company will notify Users of Update of services and revision of the fees in a way specified by the Company.
+
+Article 13: Prohibitions
+------------------------
+
+1. In using Pastela, Users shall not take the following acts:
+    1. Using the App and Pastela for purposes other than those specified by the Company
+    2. Transferring, lending or licensing the App to a third party
+    3. Taking an act that causes an excessive load on the Cloud Service or the Cloud Storage
+    4. Altering the App
+    5. Fraudulently analyzing the App, the Cloud Service or communication information
+    6. Unlawfully accessing the Cloud Storage
+    7. Storing Illustrations, Etc. that are excessively brutal or obscene or constitute child pornography or child abuse in violation of laws and regulations or other standards established by the Company
+    8. Using the Illustrations, Etc. that fall under the preceding item on any Linkage Service
+    9. Taking a prohibited act under Article 14 of the Master Terms of Use or storing Illustrations, Etc. that fall under the same article of the Master Terms of Use.
+
+Article 14: Actions against Offender
+------------------------------------
+
+1. If a User is deemed to have breached these Individual Terms of Use or other terms of use, etc., or otherwise the Company deems necessary, the Company may take the following actions without prior notice to the User; provided, however, that the Company has no obligation to prevent or correct acts of violation of terms and conditions, to take the following actions, or disclose the reasons for taking such actions:
+    1. Deleting the breaching User’s Illustrations, Etc. from the Cloud Storage
+    2. Suspending the breaching User’s use of the Cloud Service
+    3. Suspending the breaching User’s pixiv Account
+2. Users shall not object to the Company’s actions set forth in the preceding paragraph.
+
+Article 15: Subcontract
+-----------------------
+
+The Company may subcontract all or part of management of Pastela to a third party at its own responsibility.
+
+Article 16: Suspension, Discontinuance, Interruption and Termination of Pastela
+-------------------------------------------------------------------------------
+
+1. In any of the following events, the Company may temporarily suspend the provision of Pastela:
+    1. In an unavoidable event such as maintenance or construction works, etc. of the Company’s telecommunication facilities
+    2. In the event that emergency communications need to be made in preference for the public interest due to occurrence or threatened occurrence of a natural disaster or other emergency in accordance with Article 8 of the Telecommunications Business Act
+    3. In the event that a telecommunications carrier, etc. suspends telecommunication service
+    4. In other events that the Company determines that it is necessary to discontinue or suspend the provision of Pastela
+2. If the Company suspends the provision of Pastela, it shall give prior notice to Users regarding the suspension and the reasons and period of suspension unless it is required urgently.
+3. If the Company suspends the provision of the service pursuant to Paragraph 1, it shall have no liability to compensate Users for any damage incurred by them.
+4. If there are unavoidable reasons, the Company may suspend or discontinue all or part of Pastela. In this case, the Company shall give notice to Users at least one month prior to the suspension or discontinuation unless the suspension or discontinuation is required urgently.
+
+Supplementary Provisions
+------------------------
+
+* These Individual Terms of Use shall take effect on April 17, 2024.
+* These Individual Terms of Use shall also retroactively apply to conduct undertaken by User before these Individual Terms of Use came into effect.
