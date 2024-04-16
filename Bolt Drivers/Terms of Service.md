@@ -2,10 +2,10 @@
 
 3. [Rides](https://bolt.eu/en-ie/legal/?category=rides)
 
-5. General Terms and Conditions for Fleet Partners / Drivers effective as of 1 January 2023
+5. General Terms and Conditions for Fleet Partners / Drivers (effective until 30.04.2024)
 
-General Terms and Conditions for Fleet Partners / Drivers effective as of 1 January 2023
-========================================================================================
+General Terms and Conditions for Fleet Partners / Drivers (effective until 30.04.2024)
+======================================================================================
 
 **Effective from: 1 January 2023**
 
