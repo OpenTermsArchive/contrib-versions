@@ -163,7 +163,7 @@ In addition to your rights set out at Sections 19 (Device Warranty), if the Devi
 
 If you have a defective Device, please contact [Google Store Support](https://support.google.com/store/). If the Device is manufactured by a third party, Google may refer you to the applicable manufacturer of the Device for initial support with Device defects.
 
-Google may require that you return the defective Device before sending you a replacement. You must then ensure that the correct Device is returned to Google. Google is not required to send you a replacement until we have received the correct Device. If, at its discretion, Google provides you with an advanced replacement device before we receive your defective Device, and you do not return the defective Device within a reasonable time (as communicated to you in notification emails), you authorize Google to charge your original form of payment for the full value of the replacement Device.
+If Google provides you with a replacement Device, you agree that Google may exchange the defective Device with a new or refurbished Device. You must then ensure that the correct Device is returned to Google. Google is not required to send you a replacement until we have received the correct Device. If, at its discretion, Google provides you with an advanced replacement device before we receive your defective Device, and you do not return the defective Device within a reasonable time (as communicated to you in notification emails), you authorize Google to charge your original form of payment for the full value of the replacement Device.
 
 Nothing in this section affects your legal rights under statutory or applicable laws.
 
