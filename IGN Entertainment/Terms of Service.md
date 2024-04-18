@@ -120,7 +120,7 @@ _Definitions._
 
 “Receipt” is defined as a proof of purchase from an in-store Qualifying Transaction with a Merchant during the Promotion Period. To be eligible for an In-Store Cash Back Reward, the Receipt must (i) be in US dollars and (ii) clearly display the date; Merchant name; receipt number or other identiﬁer speciﬁc to that Merchant, that Qualifying Transaction and on that applicate date; the item(s) purchased; the item price; and total amount spent on the item(s). The Receipt must clearly display all required information and meet any other speciﬁed terms to be eligible for an In-Store Cash Back Reward, including terms displayed on the Promotion Landing Page or Rewards Oﬀer Card. All decisions regarding whether to issue a Reward and/or accept a Receipt are in RetailMeNot’s sole discretion.
 
-“Redemption Process” is defined as the steps you must take, as speciﬁed by RetailMeNot in its sole discretion, in order to redeem Approved Rewards. The Redemption Process is further described below.
+“Redemption Process” is defined as the steps you must take, as speciﬁed by RetailMeNot in its sole discretion, in order to redeem Approved Rewards. A minimum approved balance of $5.01 is required for redemption (the “Minimum Redemption Amount”). The Redemption Process is further described below.
 
 “Reward” is defined as a reward given by RetailMeNot to you for fulﬁlling the requirements of the Promotion, as speciﬁed on a Promotion Landing Page and Rewards Oﬀer Card.
 
