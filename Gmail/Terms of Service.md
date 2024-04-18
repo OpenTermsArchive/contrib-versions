@@ -5,7 +5,8 @@ Effective 5 January 2022 | [Archived versions](https://policies.google.com/terms
 
 We’re updating our Terms of Service on 22 May 2024 to make it easier for you to understand what to expect from Google – and what we expect from you – as you use our services. Until then, the terms below continue to apply.
 
-See a [preview of the new terms](https://policies.google.com/terms/update?hl=en-GB)
+* See a [preview of the new terms](https://policies.google.com/terms/update?hl=en-GB)
+* Review a [summary of key changes](https://policies.google.com/terms/changes?hl=en-GB)
 
 What’s covered in these terms
 -----------------------------
