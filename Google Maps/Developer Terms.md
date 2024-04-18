@@ -228,6 +228,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Agentschap Wegen en Verkeer (AWV) (BE): [https://www.vlaanderen.be/digitaal-vlaanderen/onze-oplossingen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik](https://www.vlaanderen.be/digitaal-vlaanderen/onze-oplossingen/open-data/voorwaarden-voor-het-hergebruik-van-overheidsinformatie/modellicentie-gratis-hergebruik)
             
+        * Vlaanderen: [https://overheid.vlaanderen.be/sites/default/files/documenten/ict-egov/licenties/hergebruik/modellicentie\_gratis\_hergebruik\_v1\_0.html](https://overheid.vlaanderen.be/sites/default/files/documenten/ictegov/licenties/hergebruik/modellicentie_gratis_hergebruik_v1_0.html)
+            
     7. **Belgium**
         * GeoBolivia (BO): [https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859](https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859)
             
@@ -1083,6 +1085,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Berlin Open Data: [https://creativecommons.org/licenses/by/3.0/de/](https://creativecommons.org/licenses/by/3.0/de/)
             
+        * GovData.de: [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
@@ -1434,6 +1438,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Datos Abiertos Ciudad de México (MX): [https://datos.cdmx.gob.mx/](https://datos.cdmx.gob.mx/) Licensed by Creative Commons Attribution 4.0 International (CC By 4.0)
             
         * Mexico National Institute of Statistics and Geography (INEGI): [https://www.inegi.org.mx/inegi/terminos.html](https://www.inegi.org.mx/inegi/terminos.html)
+            
+        * Datos Abiertos Monterrey MX: [https://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/)
             
     40. Datos Abiertos del Gobierno de México - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
         
