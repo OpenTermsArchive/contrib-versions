@@ -16,16 +16,16 @@ _How can you contact us?_
 
 If you are looking:
 
-* to understand more about [_how we use your information_](https://www.palantir.com/privacy-and-security/www.palantir.com/privacy-and-security#why-and-how-we-use-your-personal-data), or
+* to understand more about [_how we use your information_](https://www.palantir.com/privacy-and-security#why-and-how-we-use-your-personal-data), or
     
-* to [_exercise your rights_](https://www.palantir.com/privacy-and-security/www.palantir.com/privacy-and-security#your-rights-in-relation-to-your-personal-data)_,_
+* to [_exercise your rights_](https://www.palantir.com/privacy-and-security#your-rights-in-relation-to-your-personal-data)
     
 
-you may also reach us at [privacy@palantir.com](mailto:privacy@palantir.com)_._
+You may also reach us at [privacy@palantir.com](mailto:privacy@palantir.com)_._
 
 _Data Controllers_
 
-Palantir is a global company made up of multiple entities that process personal data in the course of conducting our business. Depending on where you engage with us, the entity responsible as controller for the processing of your personal data under this Statement may vary. Palantir Technologies Inc. is the parent company of the group, but the data controller of your information may be one of its affiliates depending on how you interact with Palantir entities. If you visit a Palantir office or engage with an employee of a Palantir office outside of the US, the Palantir affiliate based in that country will be the relevant data controller of your personal data. For example, if you attend a Palantir event in our London office, Palantir Technologies UK, Ltd. would be the data controller of your personal data. To understand where Palantir has affiliates around the world, please see here. In this Statement, where we refer to “Palantir,” “we,” “our,” or “us,” we are referring to the relevant Palantir group entity that decides how and why your information is used.
+Palantir is a global company made up of multiple entities that process personal data in the course of conducting our business. Depending on where you engage with us, the entity responsible as controller for the processing of your personal data under this Statement may vary. Palantir Technologies Inc. is the parent company of the group, but the data controller of your information may be one of its affiliates depending on how you interact with Palantir entities. If you visit a Palantir office or engage with an employee of a Palantir office outside of the US, the Palantir affiliate based in that country will be the relevant data controller of your personal data. For example, if you attend a Palantir event in our London office, Palantir Technologies UK, Ltd. would be the data controller of your personal data. To understand where Palantir has affiliates around the world, please see [here](https://www.palantir.com/Data-Protection-Affiliates). In this Statement, where we refer to “Palantir,” “we,” “our,” or “us,” we are referring to the relevant Palantir group entity that decides how and why your information is used.
 
 Why should you read this Statement and what does it cover?
 ----------------------------------------------------------
@@ -75,7 +75,7 @@ Palantir collects personal data through three main sources:
 
 **Payment Data:** Payment or billing information (including tokenised payment details, as necessary). We may collect this information in the course of signing up for a Palantir product or service or through the use of our website to purchase Palantir products or services.
 
-**Technical data:** IP address, operating system, browser information, user agent. identifiers such as cookie IDs (see [_Cookies and Similar Technologies_](https://www.palantir.com/privacy-and-security/www.palantir.com/privacy-and-security#cookies-and-tracking-technologies) below, and our [_Cookies Statement_](https://www.palantir.com/cookie-statement/)), mobile device ID, Wi-Fi data, interactions with Palantir websites, communications and promotional materials are collected automatically when you interact with Palantir websites or third-party platforms hosting Palantir content. For example, when we send marketing communications, we may collect data on whether you have opened a marketing communication you have received, or whether you clicked on any links in the message.
+**Technical data:** IP address, operating system, browser information, user agent. identifiers such as cookie IDs (see [_Cookies and Tracking Technologies_](https://www.palantir.com/privacy-and-security#cookies-and-tracking-technologies) below, and our [_Cookies Statement_](https://www.palantir.com/cookie-statement/)), mobile device ID, Wi-Fi data, interactions with Palantir websites, communications and promotional materials are collected automatically when you interact with Palantir websites or third-party platforms hosting Palantir content. For example, when we send marketing communications, we may collect data on whether you have opened a marketing communication you have received, or whether you clicked on any links in the message.
 
 **Training and Educational Data:** This can include registrations for courses, assessments signed up for and/or taken, the results of same, and certifications issued. We may collect this information when you sign up for a training or certification program, or it may be generated once you have taken part or completed a training or certification event.
 
@@ -155,7 +155,7 @@ Open
 
 Palantir may disclose or transfer personal information that we process as required in the course of operating our business to the following recipients and purposes:
 
-**Palantir affiliates:** Personal data is disclosed to and from Palantir Technologies Inc. and its affiliates listed here to enable and fulfil our business operations requirements. Affiliates are bound by contractual obligations to process any personal information in compliance with data protection and consumer privacy laws that apply.
+**Palantir affiliates:** Personal data is disclosed to and from Palantir Technologies Inc. and its affiliates listed [here](https://www.palantir.com/Data-Protection-Affiliates) to enable and fulfil our business operations requirements. Affiliates are bound by contractual obligations to process any personal information in compliance with data protection and consumer privacy laws that apply.
 
 **Service providers:** We disclose information as needed to our agents, contractors and service providers. These parties are bound by contractual obligations to keep personal data confidential and use it only for the purposes of providing services for, or with, us. Examples of service providers include marketing and sales services, event management, website hosting and training providers.
 
@@ -167,7 +167,7 @@ Palantir may disclose or transfer personal information that we process as requir
     
 * disclose personal data to our partners when offering co-branded services, selling or distributing our services, running co-branded events, or engaging in joint marketing activities;
     
-* show you relevant adverts – we may disclose pseudonymous data with advertising networks as set out in more detail in [Cookies and Similar Technologies](https://www.palantir.com/privacy-and-security/www.palantir.com/privacy-and-security#cookies-and-tracking-technologies);
+* show you relevant adverts – we may disclose pseudonymous data with advertising networks as set out in more detail in [Cookies and Similar Technologies](https://www.palantir.com/privacy-and-security#cookies-and-tracking-technologies);
     
 * comply with a court order or legal requirement, including to respond to government, regulatory requests, tax authorities, police agencies, public prosecutors, civil disclosure requests or judicial requests; and
     
@@ -203,7 +203,7 @@ If there is an international transfer of your personal data, we will use a data 
 
 If your personal data is transferred out of the EEA, UK or Switzerland, your personal data may be transferred to the United States or other countries worldwide. If your personal data is transferred to a country or organisation that is not subject to an adequacy decision by the European Commission or (where relevant) the UK Secretary of State, we will put in place suitable safeguards to ensure that any transfer is carried out in compliance with applicable data protection rules. To ensure an adequate level of protection for your personal data, we will use a data transfer agreement with the recipient based on Standard Contractual Clauses approved by the European Commission, the UK Secretary of State, or the UK Information Commissioner’s Office (as applicable) under the UK GDPR and the EU GDPR (as applicable).
 
-You may request additional information in this respect and obtain information regarding the relevant safeguard by exercising your rights as set out in the [_Exercising your rights_](https://www.palantir.com/privacy-and-security/www.palantir.com/privacy-and-security#your-rights-in-relation-to-your-personal-data) section.
+You may request additional information in this respect and obtain information regarding the relevant safeguard by exercising your rights as set out in the [_Exercising your rights_](https://www.palantir.com/privacy-and-security#your-rights-in-relation-to-your-personal-data) section.
 
 Children's personal data
 ------------------------
@@ -384,9 +384,9 @@ To provide training and certification services:
 
 **You have the right to object to our processing of your personal data where we rely on Palantir’s legitimate interest**. Where we rely on our legitimate interests as the legal basis for processing your personal data, you can object to that processing. We will action your request unless we have compelling legitimate grounds to continue to process your personal data, or where it is needed for legal reasons. Where we have a compelling legitimate interest to continue the processing, we will communicate that clearly to you following your request.
 
-**You have the right to object to your processing of your personal data where we use your personal data for marketing.** Where we use your personal data for marketing purposes, you can unsubscribe from, or “opt out” of, receiving marketing communications from us by using the “unsubscribe” link in any communications we send to you. See the [_Cookies and Similar Technologies_](https://www.palantir.com/privacy-and-security/www.palantir.com/privacy-and-security#cookies-and-tracking-technologies) and [_Your rights_](https://www.palantir.com/privacy-and-security/www.palantir.com/privacy-and-security#your-rights-in-relation-to-your-personal-data) sections.
+**You have the right to object to your processing of your personal data where we use your personal data for marketing.** Where we use your personal data for marketing purposes, you can unsubscribe from, or “opt out” of, receiving marketing communications from us by using the “unsubscribe” link in any communications we send to you. See the [_Cookies and Similar Technologies_](https://www.palantir.com/privacy-and-security#cookies-and-tracking-technologies) and [_Your rights_](https://www.palantir.com/privacy-and-security#your-rights-in-relation-to-your-personal-data) sections.
 
-**Where we rely on your consent, you may withdraw your consent.** Where we rely on your consent to process your personal data, you may withdraw that consent at any time to prevent our continued processing of your personal data for that purpose. See the [_Your rights_](https://www.palantir.com/privacy-and-security/www.palantir.com/privacy-and-security#your-rights-in-relation-to-your-personal-data) section.
+**Where we rely on your consent, you may withdraw your consent.** Where we rely on your consent to process your personal data, you may withdraw that consent at any time to prevent our continued processing of your personal data for that purpose. See the [_Your rights_](https://www.palantir.com/privacy-and-security#your-rights-in-relation-to-your-personal-data) section.
 
 **Where we need your personal data to comply with a contractual obligation or the law.** Where we require your personal data to fulfil our contract with you, or to comply with a legal obligation, if you fail to provide us with the personal data we need, it might prevent us from being able to comply with our obligations under that contract or fulfil our legal obligations, which might ultimately prevent us from providing you with our products or services. We will let you know where this is the case.
 
@@ -401,7 +401,7 @@ _Last updated April 2024._
 
 This section (the “CCPA Notice”) provides additional information regarding the California Consumer Privacy Act of 2018 (the “CCPA”), as amended by the California Privacy Rights Act of 2020, and supplements the disclosures and information throughout this Privacy Statement. The commitments in this CCPA Notice apply only to individuals covered by the CCPA and are subject to certain statutory exceptions laid out in the CCPA. This CCPA Notice does not apply to information we collect about individuals in their capacity as present or former job applicants, employees, contractors, owners, directors, or officers of Palantir.
 
-This Privacy Statement and CCPA Notice have been designed to be accessible to people with disabilities. If you experience any difficulties accessing the information here, please contact us at [accommodations@palantir.com](mailto:accommodations@palantir.com) or use the relevant details in the [_Contact Us_](https://www.palantir.com/privacy-and-security/www.palantir.com/privacy-and-security#who-is-palantir) section.
+This Privacy Statement and CCPA Notice have been designed to be accessible to people with disabilities. If you experience any difficulties accessing the information here, please contact us at [accommodations@palantir.com](mailto:accommodations@palantir.com) or use the relevant details in the [_Contact Us_](https://www.palantir.com/privacy-and-security#who-is-palantir) section.
 
 [To print this Privacy Statement and CCPA Notice, please click here →](https://www.palantir.com/assets/xrfr7uokpv1b/2Zka4A9yAwaHwyi4eW1rDU/7bddc145ffde3b9fba2bc12c53340163/Palantir-s_Privacy_and_Security_Statement_PDF_April_2024.pdf)
 
@@ -415,7 +415,7 @@ Please note, we do not sell Personal Information in the traditional sense of the
 
 **Use of Personal Information**
 
-We use Personal Information for a variety of business and commercial purposes, as described in the [_Why and how we use your personal information_](https://www.palantir.com/privacy-and-security/www.palantir.com/privacy-and-security#why-and-how-we-use-your-personal-data) section above.
+We use Personal Information for a variety of business and commercial purposes, as described in the [_Why and how we use your personal information_](https://www.palantir.com/privacy-and-security#why-and-how-we-use-your-personal-data) section above.
 
 * * *
 
@@ -663,7 +663,7 @@ Sensitive Personal Information is only used or disclosed to perform the services
 
 **Disclosure**
 
-Any disclosures of your information to third parties over the preceding 12 months have been in accordance with the permitted categories in the [_When do we disclose your personal information_](https://www.palantir.com/privacy-and-security/www.palantir.com/privacy-and-security#when-do-we-share-your-personal-data) section of the Privacy Statement above.
+Any disclosures of your information to third parties over the preceding 12 months have been in accordance with the permitted categories in the [_When do we disclose your personal information_](https://www.palantir.com/privacy-and-security#when-do-we-share-your-personal-data) section of the Privacy Statement above.
 
 **Your CCPA Rights**
 
