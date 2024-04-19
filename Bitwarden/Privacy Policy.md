@@ -7,7 +7,7 @@ Bitwarden Inc. Privacy Policy
 
 ### EU-U.S. Data Privacy Framework
 
-Bitwarden Inc. ("Bitwarden") complies with the requirements of the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”) and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) (collectively “DPF”), as set forth by the U.S. Department of Commerce and the Federal Trade Commission (“FTC”), regarding the collection, use, and retention of personal information transferred from the European Economic Area (“EEA”) and the United Kingdom (“UK”) and Switzerland to the United States. Bitwarden has certified to the Department of Commerce that we adhere to the DPF Principles and Supplemental Principles with respect to personal information transferred to us in reliance on the DPF. If there is any conflict between the terms in this Privacy Policy and the DPF Principles, the DPF Principles shall govern. We are subject to the investigatory powers of the FTC with respect to our DPF compliance. To learn more about the EU-U.S. Data Privacy Framework program, and to view our certification, please visit [https://www.dataprivacyframework.gov/s/participant-search](https://www.dataprivacyframework.gov/s/participant-search)[.](https://www.privacyshield.gov/)
+Bitwarden Inc. ("Bitwarden") complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) (collectively “DPF”), as set forth by the U.S. Department of Commerce. Bitwarden has certified to the Department of Commerce that we adhere to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Bitwarden has certified to the U.S. Department of Commerce that we adhere to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF), and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
 
 [](#eu-u-s-data-privacy-framework-principles "#eu-u-s-data-privacy-framework-principles")
 
@@ -221,7 +221,7 @@ Depending on how Bitwarden is deployed by the customer, Bitwarden may share Pers
 
 To ensure the confidentiality and security of your Personal Information, we have data processing terms in place with service providers that handle Personal Information. These service providers are restricted by contract from using Personal Information in any way other than to provide services for Bitwarden, including on your behalf as part of your contract with us.
 
-In the context of an onward transfer, Bitwarden has responsibility for the processing of Personal Information it receives under the EU-U.S. Data Privacy Framework and subsequently transfers to a third party acting as an agent on its behalf. Bitwarden shall remain liable under the Principles if its agent processes such Personal Information in a manner inconsistent with the Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.
+In the context of an onward transfer, Bitwarden has responsibility for the processing of Personal Information it receives under the Data Privacy Framework and subsequently transfers to a third party acting as an agent on its behalf. Bitwarden shall remain liable under the Principles if its agent processes such Personal Information in a manner inconsistent with the Principles, unless the organization proves that it is not responsible for the event giving rise to the damage.
 
 Bitwarden may also provide your Personal Information to a third party if:
 
@@ -232,7 +232,7 @@ Bitwarden may also provide your Personal Information to a third party if:
 * To respond to an emergency which we believe in good faith requires us to disclose information to assist in preventing serious bodily injury or death of any person.
     
 
-Bitwarden may also share your Personal Information with our subsidiaries, affiliates, and partners, to facilitate our global operations and in accordance with applicable laws, and our agreements with customers or service providers.
+Bitwarden may also share your Personal Information with our affiliates and partners, to facilitate our global operations and in accordance with applicable laws, and our agreements with customers or service providers.
 
 We may also provide your Personal Information to a third party in connection with a merger or acquisition of Bitwarden, either in part or in whole, or the assignment or other transfer of the Site or Service. In such event, such third party will either:
 
@@ -251,7 +251,7 @@ We may also provide your Personal Information to a third party in connection wit
 
 Bitwarden and our subprocessors and vendors primarily store information collected from you within the European Economic Area and the United States. To facilitate our global operations, we may transfer and access such Personal Information from around the world, including from other countries in which Bitwarden or our subprocessors have operations. For more information about our subprocessors, visit [https://bitwarden.com/help/subprocessors/](https://bitwarden.com/help/subprocessors/).
 
-We use applicable, approved information transfer mechanisms where required, such as EU Standard Contractual Clauses (SCCs), or the EU-U.S. Data Privacy Framework.
+We use applicable, approved information transfer mechanisms where required, such as EU Standard Contractual Clauses (SCCs), or the Data Privacy Framework.
 
 [](#recourse-and-enforcement "#recourse-and-enforcement")
 
@@ -259,13 +259,13 @@ We use applicable, approved information transfer mechanisms where required, such
 
 You may contact us about our practices or to make a complaint and seek recourse according to these methods available to you, and subject to applicable enforcement powers.
 
-In compliance with the EU-U.S. Data Privacy Principles, Bitwarden commits to resolve complaints about our collection or use of your Personal Information. European Union, UK and Swiss individuals with inquiries or complaints regarding our EU-U.S. Data Privacy Framework policy should first contact Bitwarden at the information provided below in the "Contact Us" section.
+In compliance with the EU-U.S. Data Privacy Principles, Bitwarden commits to resolve complaints about our collection or use of your Personal Information. European Union, UK and Swiss individuals with inquiries or complaints regarding our Data Privacy Framework policy should first contact Bitwarden at the information provided below in the "Contact Us" section.
 
-If you have an unresolved complaint, Bitwarden has has agreed to participate in the DPF independent dispute resolution mechanism operated by JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit [https://www.jamsadr.com/eu-us-data-privacy-framework](https://www.jamsadr.com/eu-us-data-privacy-framework) for more information or to file a complaint.
+If you have an unresolved complaint, Bitwarden has agreed to participate in the DPF independent dispute resolution mechanism operated by JAMS, an alternative dispute resolution provider located in the United States. If you do not receive timely acknowledgment of your complaint from us, or if we have not resolved your complaint, please contact or visit [https://www.jamsadr.com/dpf-dispute-resolution](https://www.jamsadr.com/dpf-dispute-resolution) for more information or to file a complaint. 
 
-The services of JAMS EU-U.S. Data Privacy Framework are provided at no cost to you. Mediations will be conducted pursuant to JAMS International Mediation Rules unless the parties have specified a different set of Rules or Procedures.
+The services of JAMS Data Privacy Framework are provided at no cost to you. Mediations will be conducted pursuant to JAMS International Mediation Rules unless the parties have specified a different set of Rules or Procedures.
 
-Bitwarden is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). European Union and Swiss individuals have the possibility, under certain conditions, to invoke binding arbitration.
+Bitwarden is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). European Union, UK, and Swiss individuals have the possibility, under certain conditions, to invoke binding arbitration.
 
 [](#security "#security")
 
@@ -379,6 +379,6 @@ Address: 1 North Calle Cesar Chavez, Suite 102, Santa Barbara, CA 93103
 
 Phone: +1-904-664-9194
 
-Email: [privacypolicy@bitwarden.com](https://bitwarden.com/)
+Email: privacypolicy@bitwarden.com
 
 Web Form: [https://bitwarden.com/contact/](https://bitwarden.com/contact/)
