@@ -1,7 +1,7 @@
 Glassdoor Terms of Use
 ======================
 
-**Revised:** February 17, 2024 ([update summary and previous version](https://hrtechprivacy.com/glassdoor-summary-of-changes))
+**Revised:** February 17, 2024 ([major update summary and previous version](https://hrtechprivacy.com/glassdoor-summary-of-changes))
 
 These Terms of Use (the **“Terms”**), which incorporate our [Privacy Policy](https://hrtechprivacy.com/brands/glassdoor), govern your access to and use of our services, including our various websites, such as [Glassdoor.com](https://www.glassdoor.com/) and [Fishbowlapp.com](https://www.fishbowlapp.com/), applications, ads, communications, events, and other covered products or services that link to these Terms (collectively **“services”**). By accessing and using the services, you agree to comply with these Terms. If you’re using the services on behalf of a company or other legal entity, then “you” also means such company or legal entity and you agree to be bound by these Terms even if we have a separate agreement with you. You may not use the services if you do not agree to the linked version of the Terms at the time you access the services.  
 For the purposes of these Terms, **“Glassdoor,”** means Glassdoor LLC.  
