@@ -165,6 +165,7 @@ TERMS OF USE FOR ALL USERS
             
             * If you are a consumer resident in the United Kingdom or the European Union, any claim which you have or which we have arising out of or in connection with your agreement with us or your use of OnlyFans (including, in both cases, non-contractual disputes or claims) may be brought in the courts of England and Wales or the courts of the country where you live.
             * If you are a consumer resident **outside** of the United Kingdom or the European Union, any claim which you have or which we have arising out of or in connection with your agreement with us or your use of OnlyFans (including, in both cases, non-contractual disputes or claims) must be brought in the courts of England and Wales.
+            * If you are a Consumer resident in the United States with claims exclusively against Fenix Internet LLC, a wholly-owned subsidiary of Fenix International Limited, located at 1000 N. West Street, Suite 1200, Wilmington, Delaware, 19801, you may pursue your consumer claim in an appropriate case in a court of jurisdiction in Wilmington, Delaware.
     2. For business Users (Creators and Referring Users):
         
         * **Business Users – Law:**
