@@ -62,7 +62,7 @@ We use a combination of automated systems, user reports, and a team of moderator
 
 For users residing in the European Union (“EU”), we will notify you when we take action against your account or content unless it is not appropriate for us to do so (for example, we are not permitted by law enforcement agencies). If you believe that we’ve made a mistake in taking such action, you can appeal using the processes outlined on Badoo or by contacting us using the help link in our [Community Guidelines](https://badoo.com/terms/guidelines) available [here](https://badoo.com/terms/feedback). For all other users, we reserve the right (without obligation) at our sole discretion and without giving you notice, to remove or edit, limit or block access to any Content that you upload or submit to Badoo without any incurring liability to you. We have no obligation to display any Content that you submit to Badoo, nor to check the accuracy or truthfulness of any Content submitted to Badoo, nor to monitor your use or the use of other users of Badoo.
 
-For users residing in the EU, you have additional rights under the Digital Services Act to: (i) access third party out-of-court dispute settlement processes; (ii) seek remedies from the courts in the EU member state in which you live; and (iii) lodge a complaint with your local EU regulatory authority.
+For users residing in the EU, you have additional rights under the Digital Services Act to: (i) access third party out-of-court dispute settlement processes; (ii) seek remedies from the courts in the EU member state in which you live; and (iii) lodge a complaint with your local EU regulatory authority. For users residing in the UK, you have a right under local law to bring a claim for breach of contract if you believe we have breached the Terms by removing, restricting or limiting access to, or distribution of, your Content, or suspending or terminating your account.
 
 ### Are there any rules relating to personal data like my email address?
 
@@ -132,7 +132,7 @@ If you elect to partake in any of the games, premium features or range of servic
 
 ### Do my credits last forever?
 
-No. We reserve the right to expire any unused credits expire 6 months (unless the credits are purchased through Itunes). If you delete your account or if your account is terminated by us due to breach of these Terms, you will lose any accumulated credits. If you receive free or promotional credits, we may expire them at any time. Credits are not redeemable for any sum of money or monetary value from us unless we agree otherwise in writing.
+No. We reserve the right to expire any unused credits after 6 months (unless the credits are purchased through Itunes). If you delete your account or if your account is terminated by us due to breach of these Terms, you will lose any accumulated credits. If you receive free or promotional credits, we may expire them at any time. Similarly, if you receive additional credits as part of a premium feature, we may change the number of additional credits available as part of that feature and/or expire them at any time. Credits are not redeemable for any sum of money or monetary value from us unless we agree otherwise in writing.
 
 Please refer to the Service Conditions on your ‘top-up’ page for further details relating to your payments.
 
@@ -263,4 +263,4 @@ Our registered office is at The Broadgate Tower, Third Floor, 20 Primrose Street
 Effective date
 --------------
 
-The Terms were last updated on: 16th February 2024.
+The Terms were last updated on: 22nd April 2024.
