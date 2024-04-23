@@ -31,11 +31,11 @@ When you place an order through our Application, it needs to be accepted by us o
 
 ### 6\. Delivery
 
-When you place an order you will have the choice to place it as an ASAP Delivery, a Scheduled Delivery or a Premium Delivery.
+When you place an order you will have the choice to place it as an ASAP Delivery, a Scheduled Delivery or a Priority Delivery.
 
 * For an ASAP Delivery, we will tell you an estimated delivery time for your Item before you place the order, but we will attempt delivery as soon as possible; you must therefore be available to accept delivery from the time you place the order. 
 * For a scheduled Delivery, we will tell you the time when the Item is expected to be delivered; you must be available to accept delivery within the estimated arrival time. 
-* Premium delivery guarantees that your rider will deliver your order directly to you, before delivering any other Deliveroo orders. This is an optional service that eligible customers can choose to add to their eligible orders. The price of premium delivery is shown when you select your delivery method, and premium delivery is added in addition to any other delivery fees that may be applicable. Both the price of premium delivery and any other delivery fees are shown before you confirm your order and pay. Deliveroo reserves the right to change the price of premium delivery. If your premium delivery arrives after the estimated maximum delivery time, you may be eligible for a refund. This does not affect your legal rights.
+* Priority Delivery guarantees that your rider will deliver your order directly to you, before delivering any other Deliveroo orders. This is an optional service that eligible customers can choose to add to their eligible orders. The price of Priority Delivery is shown when you select your delivery method, and Priority Delivery is added in addition to any other delivery fees that may be applicable. Both the price of Priority Delivery and any other delivery fees are shown before you confirm your order and pay. Deliveroo reserves the right to change the price of Priority Delivery. If your Priority Delivery arrives after the estimated maximum delivery time, you may be eligible for a refund. This does not affect your legal rights.
 
 Unfortunately, despite our, and our Partner Restaurant’s best efforts, things do not always go to plan and factors such as traffic and weather conditions may prevent us from delivering your Item on time. If your order is more than 15 minutes late, and we haven’t notified you giving you the option to cancel your order, we will work with you to make things right unless you have caused the delay (e.g. because you gave us the wrong address or did not come to the door).
 
