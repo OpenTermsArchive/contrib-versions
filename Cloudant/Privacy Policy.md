@@ -362,8 +362,7 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 **Sections updated in this release:**
 
-1. Your Additional Rights: Colombia
-2. Your Additional Rights: Taiwan
-3. Your Additional Rights: Tunisia
+1. Your Additional Rights: South Korea
+2. Your Additional Rights: US States
 
 * * *
