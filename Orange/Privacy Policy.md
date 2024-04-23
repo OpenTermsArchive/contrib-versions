@@ -341,26 +341,32 @@ Si vos échanges avec Orange n’ont pas été satisfaisants, vous avez la possi
 
 ### 10.1. Service Utiq
 
-#### **À propos du service Utiq**
+Le Service Utiq est un service basé sur le consentement qui permet aux sites web partenaires de vous fournir du marketing numérique, tel que du contenu personnalisé, de la publicité ou des analyses sur ces sites web, de manière plus pertinente et responsable. Le Service Utiq vous offre un contrôle accru et une transparence sur l'utilisation de vos données via le [consenthub d'Utiq](https://consenthub.utiq.com/), un portail centralisé où vous pouvez gérer le service, y compris visualiser et révoquer tout consentement Utiq donné, ainsi que d'exercer vos droits en matière de protection des données, à tout moment et en un seul endroit.
 
-Le Service Utiq est opéré par Utiq SA/NV (« Utiq »), une entreprise européenne de publicité en ligne qui fournit un service de consentement authentique alimenté par les opérateurs téléphoniques pour permettre une commercialisation numérique responsable.
+Le Service Utiq est exploité par Utiq SA/NV, une entreprise européenne de technologie publicitaire qui collabore avec des opérateurs télécom et des sites web partenaires. Nous avons deux rôles différents dans l'écosystème Utiq, comme décrit ci-dessous :
 
-  
-Le service Utiq vous offre un contrôle accru et une transparence sur l'utilisation de vos données lorsque vous activez la publicité personnalisée, les produits et le contenu ou les analyses sur les sites partenaires d'Utiq. Dans le cadre du service Utiq, vous avez accès à un portail centralisé en libre-service, appelé [consenthub](https://consenthub.utiq.com/) d'Utiq, qui vous permet de gérer tous vos choix de Service Utiq et vos consentements Utiq ainsi que d’exercer vos droits en matière de protection des données. A tout moment. En un seul endroit.
+#### Notre rôle en tant que fournisseur de signaux réseau :
 
-#### **À propos de notre partenariat avec Utiq**
+Nous sommes l'un des opérateurs télécom participants, contribuant à la fourniture du service en fournissant l'infrastructure basée sur le réseau, y compris la génération du signal réseau utilisé dans le cadre du Service Utiq. Nous le faisons en tant que contrôleurs indépendants. Pour plus d'informations, veuillez consulter la [Déclaration de confidentialité](https://consenthub.utiq.com/pages/privacy-statement) du Service Utiq qui décrit le rôle que nous jouons dans ce contexte.
 
-Orange fournit l'infrastructure basée sur le réseau pour ce service. Cela signifie que si vous donnez votre consentement sur un site participant, votre adresse IP sera utilisée, tout d'abord pour vérifier votre éligibilité à utiliser le service, puis pour vous aider à activer le service Utiq. Dans le cadre de l'activation, nous utilisons votre adresse IP et la comparons à votre abonnement réseau pour créer un identifiant pseudonyme appelé "**Network Signal**". Cette valeur est créée à l'aide d'une méthode sécurisée de chiffrement pour protéger votre identité avant de la partager avec Utiq. Utiq utilise ensuite cela dans son système de consentpass pour aider les annonceurs et les éditeurs partenaires à vous offrir une expérience personnalisée ou l'utilisation d'analyses sur leurs sites web tout en vous permettant de conserver le contrôle sur vos données. Nous n'enrichissons pas le "**Network Signal**" avec vos données clients, de navigation, de trafic ou d'autres informations. Nous ne créons pas non plus de profil de votre comportement sur les sites web individuels. De plus, ce traitement de vos données de notre part ne sera effectué que si vous avez donné votre consentement pour les finalités indiquées sur le site web partenaire.
+#### Notre rôle en tant que site web participant :
 
-  
-En tant qu'abonné de Orange, vous pouvez utiliser le service Utiq sur les sites web que vous visitez et qui ont établi un partenariat avec Utiq. L'utilisation du service n'est possible qu'après avoir donné votre consentement, volontaire et éclairé, le Service Utiq étant desactivé par défaut. Veuillez noter que le consentement doit être donné spécifiquement sur chaque site partenaire.
+En plus de ce qui précède, nous utilisons également le Service Utiq sur ce site web. Dans ce contexte, nous agissons en tant que responsables conjoints avec Utiq. Dans le cadre de notre accord de responsables conjoints:
+
+* Le traitement lié au Service Utiq est basé sur le consentement que nous recueillons pour le compte de l’écosystème Utiq sur nos sites web où nous intégrons le Service Utiq.
+* Pour les sites web où nous intégrons le Service Utiq, vous aurez accès à un lien dédié dans le pied de page pour vous fournir des informations sur le service, comment le gérer et vous informer de notre partenariat avec Utiq.
+* Utiq met à votre disposition un portail de confidentialité centralisé ([consenthub](https://consenthub.utiq.com/)) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos consentements Utiq et vos préférences de confidentialité du Service Utiq, à tout moment et en un seul endroit.
+* Nonobstant le fait que vous pouvez exercer vos droits à l’égard de l’un des contrôleurs, Utiq agit en tant que point de contact commun pour toute question ou demande que vous pourriez avoir en relation avec le Service Utiq.
+
+**Veuillez noter que ces deux rôles sont complètement séparés. Cela signifie que nous traitons séparément les données lorsque nous exerçons ces deux rôles différents et uniquement aux fins spécifiques telles que décrites plus en détail dans la [Déclaration de confidentialité](https://consenthub.utiq.com/pages/privacy-statement) du Service Utiq.**
 
 #### **Comment gérer votre service Utiq**
 
-Vous pouvez consulter et gérer tous vos choix Utiq, y compris retirer tous les consentements Utiq que vous avez donnés, ou désactiver ou empêcher l'activation du service, à tout moment via le [consenthub](https://consenthub.utiq.com/) d'Utiq. Le retrait de votre consentement ici signifie que vous retirez également le consentement pour le traitement des données par Orange.
+Il s'agit d'un service facultatif, Cela signifie qu'il n'est pas activé par défaut et qu'il n'est activé que lorsque vous donnez votre consentement sur un site web partenaire via la pop-up Utiq dédiée.
 
-  
-Vous pouvez trouver plus d’informations sur le Service Utiq dans le [consenthub](https://consenthub.utiq.com/) d’Utiq ou dans la [Déclaration de confidentialité d’Utiq](https://consenthub.utiq.com/pages/privacy-statement).
+Vous pouvez consulter et gérer votre Service Utiq, y compris révoquer tout consentement Utiq ou appliquer une fonction permettant de désactiver ou d’empêcher l’activation du service, à tout moment via le [consenthub d'Utiq](https://consenthub.utiq.com/).
+
+Vous pouvez trouver plus d'informations sur le Service Utiq dans le [consenthub d'Utiq](https://consenthub.utiq.com/) ou dans la [Déclaration de confidentialité d'Utiq](https://consenthub.utiq.com/pages/privacy-statement).
 
 ### 10.2. Annuaires
 
@@ -381,4 +387,4 @@ Le dispositif technique utilisé par Flux Vision garantit une anonymisation irr�
 
 La présente Politique de Protection des Données personnelles peut être amenée à évoluer.
 
-Dernière mise à jour le 06/12/2023
+Dernière mise à jour le 23/04/2024
