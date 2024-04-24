@@ -319,7 +319,7 @@ If you are in Switzerland,  information about you may be transferred outside of
 
 _**If you are in United States, find out more…**_
 
-In the US, data obtained through the short code program will not be shared with any third-parties for their marketing reasons/purposes, except for our affiliates.
+In the US, data obtained through the short-code program will not be shared with third parties for their own independent marketing or promotional purposes. 
 
 **_If you are in Georgia..._**
 
