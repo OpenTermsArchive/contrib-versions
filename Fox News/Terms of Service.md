@@ -272,7 +272,7 @@ Company may, from time to time, post Company employment opportunities on the Com
 
 * * *
 
-All quotes delayed by at least 15 minutes. Market Data provided by Interactive Data ([Terms & Conditions](https://www.foxbusiness.com/terms-of-use))
+All quotes delayed by at least 15 minutes. Market Data provided by Interactive Data ([Terms & Conditions](https://www.ice.com/))
 
 Powered and implemented by [Interactive Data Managed Solutions](https://www.interactivedata.com/idms)
 
