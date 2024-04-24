@@ -513,7 +513,7 @@ Pour le suivi de votre commande et le service après-vente, vous pouvez nous con
 
 \-           
 
- En Ligne, par l’intermédiaire de votre Espace Client. Les informations concernant votre commande, son paiement, sa livraison, son SAV, sont accessibles dans votre Espace Client, dans les rubriques « C mes commandes » et « Questions fréquentes (FAQ) » ;
+ En Ligne, par léintermédiaire de votre Espace Client. Les informations concernant votre commande, son paiement, sa livraison, son SAV, sont accessibles dans votre Espace Client, dans les rubriques « C mes commandes » et « Questions fréquentes (FAQ) » ;
 
 \-          Par téléphone :  
   
