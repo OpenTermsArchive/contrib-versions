@@ -369,7 +369,7 @@ _Non-Discrimination Rights_
 
 California residents have the right to not be discriminated against for exercising their rights as described in this section. We will not discriminate against you for exercising your rights.
 
-Last revised 16-OCT-2023
+Last revised APRIL-2024
 
 [](#contact-us "#contact-us")
 
