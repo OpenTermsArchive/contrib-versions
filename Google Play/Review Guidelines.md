@@ -181,7 +181,6 @@ Business
 * [### Google Ad Manager](https://support.google.com/admanager?hl=en-GB)
 * [### Google Domains](https://support.google.com/domains?hl=en-GB)
 * [### Google Vault](https://support.google.com/vault?hl=en-GB)
-* [### Currents](https://support.google.com/googlecurrents?hl=en-GB)
 * [### AppSheet](https://support.google.com/appsheet?hl=en-GB)
 * [### Transit Partners](https://support.google.com/transitpartners?hl=en-GB)
 * [### Analytics](https://support.google.com/analytics?hl=en-GB)
