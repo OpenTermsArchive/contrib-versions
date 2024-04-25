@@ -509,6 +509,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         114. Ville de Gatineau: [https://creativecommons.org/licenses/by/4.0/legalcode.fr](https://creativecommons.org/licenses/by/4.0/legalcode.fr)
             
+        115. Yukon Province CA: [https://open.yukon.ca/open-government-licence-yukon](https://open.yukon.ca/open-government-licence-yukon)
+            
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
             
@@ -544,6 +546,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Danmarks Addressregister (DAR) (DK): [https://datafordeler.dk/vejledning/brugervilkaar/danmarks-adresseregister-dar/](https://datafordeler.dk/vejledning/brugervilkaar/danmarks-adresseregister-dar/)
             
         * Open Data Denmark (DK): [https://www.opendata.dk/](https://www.opendata.dk/) Licensed by Creative Commons Attribution 4.0 International (CC By 4.0)
+            
+        * Rejseplanen Copenhagen: [https://help.rejseplanen.dk/hc/da/articles/213633029-Retningslinjer-for-databrug](https://help.rejseplanen.dk/hc/da/articles/213633029-Retningslinjer-for-databrug)
             
     14. **Ecuador**
         * Quito, [https://www.quito.gob.ec/.](https://www.quito.gob.ec/)
@@ -949,6 +953,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * République française Data Gouv France: [https://www.agenceore.fr/forum-expert/consommation-denergie-des-batiments-publics](https://www.agenceore.fr/forum-expert/consommation-denergie-des-batiments-publics)
             
+        * Enedis Energy Électricité de France: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+            
     19. **Gambia**
         * Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
             
@@ -1086,6 +1092,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Berlin Open Data: [https://creativecommons.org/licenses/by/3.0/de/](https://creativecommons.org/licenses/by/3.0/de/)
             
         * GovData.de: [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
+        * GENESIS Online Destatis: [https://www-genesis.destatis.de/genesis/online?Menu=Impressum#abreadcrumb](https://www-genesis.destatis.de/genesis/online?Menu=Impressum#abreadcrumb)
             
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
@@ -1356,7 +1364,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Istat: [https://www.istat.it/it/note-legali](https://www.istat.it/it/note-legali)
         * Roma Servizi per la Mobilità: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
         * Open Data Comune di Milano [https://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/)
-        * Roma Servizi per la Mobilità: [https://data-rsm.opendata.arcgis.com/datasets/3a87172a1bed4e9dba20bd4c820dd226\_0/explore](https://data-rsm.opendata.arcgis.com/datasets/3a87172a1bed4e9dba20bd4c820dd226_0/explore)
+        * Roma Servizi per la Mobilità: [https://romamobilita.it/it/tecnologie/dataset-geografici](https://romamobilita.it/it/tecnologie/dataset-geografici)
     34. **Ivory Cost (Côte d'Ivoire)**
         
         OCHA Côte d'Ivoire ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
@@ -2371,6 +2379,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         221. US Department of Transportation Federal Railroad Administration: [https://safetydata.fra.dot.gov/MasterWebService/PublicApi/Support/TermsOfService](https://safetydata.fra.dot.gov/MasterWebService/PublicApi/Support/TermsOfService)
             
         222. City of Austin (TX) Open Data Portal: [https://data.austintexas.gov/stories/s/ranj-cccq](https://data.austintexas.gov/stories/s/ranj-cccq)
+            
+        223. Ckrider Concord Kannapolis Area Transit: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+            
+        224. Open Data DC: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     68. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
