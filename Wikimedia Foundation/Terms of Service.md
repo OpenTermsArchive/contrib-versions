@@ -56,7 +56,6 @@ Other languages:
 
 * [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "Policy:Terms of Use/af (5% translated)")
 * [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Policy:Terms of Use/id (48% translated)")
-* [Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan "Policy:Terms of Use/nan (19% translated)")
 * [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cy "Policy:Terms of Use/cy (4% translated)")
 * [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Policy:Terms of Use/de (100% translated)")
 * [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-formal "Policy:Terms of Use/de-formal (99% translated)")
@@ -146,7 +145,7 @@ Other languages:
 * [ગુજરાતી](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gu "Policy:Terms of Use/gu (7% translated)")
 * [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ta "Policy:Terms of Use/ta (6% translated)")
 * [తెలుగు](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/te "Policy:Terms of Use/te (99% translated)")
-* [ಕನ್ನಡ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kn "Policy:Terms of Use/kn (43% translated)")
+* [ಕನ್ನಡ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kn "Policy:Terms of Use/kn (60% translated)")
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (40% translated)")
 * [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "Policy:Terms of Use/th (45% translated)")
 * [ລາວ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lo "Policy:Terms of Use/lo (9% translated)")
@@ -158,6 +157,7 @@ Other languages:
 * [ᱥᱟᱱᱛᱟᱲᱤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sat "Policy:Terms of Use/sat (4% translated)")
 * [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "Policy:Terms of Use/zh (100% translated)")
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "Policy:Terms of Use/ja (99% translated)")
+* [閩南語 / Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan "Policy:Terms of Use/nan (19% translated)")
 * [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/syl "Policy:Terms of Use/syl (0% translated)")
 * [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "Policy:Terms of Use/ko (54% translated)")
 
