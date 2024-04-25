@@ -371,11 +371,6 @@ The open source software platform that runs everywhere from the smartphone, the 
     * [App store](https://ubuntu.com/internet-of-things/appstore)
     * [Embedded Linux](https://ubuntu.com/embedded)
     * [Management](https://ubuntu.com/internet-of-things/management)
-* [Raspberry Pi](https://ubuntu.com/raspberry-pi) [Raspberry Pi](#)
-    -----------------------------------------------------------------
-    
-    * [Desktop](https://ubuntu.com/raspberry-pi/desktop)
-    * [Server](https://ubuntu.com/raspberry-pi/server)
 * [Ubuntu Core](https://ubuntu.com/core) [Ubuntu Core](#)
     -------------------------------------------------------
     
@@ -388,7 +383,6 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [Ubuntu Desktop](https://ubuntu.com/desktop) [Ubuntu Desktop](#)
     ----------------------------------------------------------------
     
-    * [Features](https://ubuntu.com/desktop/features)
     * [Organisations](https://ubuntu.com/desktop/organisations)
     * [Developers](https://ubuntu.com/desktop/developers)
     * [Flavours](https://ubuntu.com/desktop/flavours)
@@ -413,7 +407,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     
     * [Desktop](https://ubuntu.com/download/desktop)
     * [Server](https://ubuntu.com/download/server)
-    * [IoT](https://ubuntu.com/download/iot)
+    * [Core](https://ubuntu.com/download/core)
     * [Cloud](https://ubuntu.com/download/cloud)
 * [Observability](https://ubuntu.com/observability) [Observability](#)
     --------------------------------------------------------------------
