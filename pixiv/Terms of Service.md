@@ -22,6 +22,7 @@ Article 2. Individual Agreements etc.
     
     Table 1
     
+5. In the case of certain services, there are specific terms and restrictions that are applicable in specific circumstances. In the event of any conflict between these specific terms and restrictions and the provisions of both these Terms of Use and any Individual Terms of Use etc., unless otherwise provided, the specific terms and restrictions shall take precedence over the provisions of both these Terms of Use and any Individual Terms of Use etc.
 
 Article 3. Definitions
 ----------------------
@@ -63,8 +64,9 @@ Article 7. Account Registration
 1. The Services may include content that can be used only by Users with registered accounts.
 2. Persons who wish to register an account may, after agreeing to these Terms of Use, apply for account registration by the method designated by the Company. The information that must be input when performing such registration is referred to as “Registered Information.”
 3. When performing the application specified in Paragraph 2, User shall provide to the Company User’s own true, accurate, and current information as Registered Information.
-4. Registration of a person who applies for account registration (“Registration Applicant”) shall be complete when the Company approves the registration.
-5. In any of the following cases, the Company may, at its discretion, reject the registration application of a Registration Applicant without disclosing the reason.
+4. When registering User's country or region of residence, User shall register User's own true, accurate, and current information.
+5. Registration of a person who applies for account registration (“Registration Applicant”) shall be complete when the Company approves the registration.
+6. In any of the following cases, the Company may, at its discretion, reject the registration application of a Registration Applicant without disclosing the reason.
     1. In cases where the Registration Applicant requested registration not using the method specified in Paragraph 2;
     2. In cases where an application is made by providing fraudulent, false, or misleading information;
     3. In cases where the Registration Applicant breached contractual duties in relation to any services provided by the Company or in transactions with other Users in the past; further, in cases where the Company determines that there is a likelihood of such breach in the future;
@@ -73,8 +75,8 @@ Article 7. Account Registration
     6. In cases where the Registration Applicant is a minor, adult ward, person under curatorship, or person under assistance and the Registration Applicant’s legal representative, guardian, curator, or assistant does not consent;
     7. In cases where the Registration Applicant is an anti-social force, was formerly an anti-social force, uses anti-social forces, or its main investors or officers and employees are constituent members of anti-social forces; or
     8. In other cases where the Company determines that the application is inappropriate.
-6. In cases where the Company does not approve an application for account registration, the Company shall not bear a duty to disclose the reason for not approving the application to the applicant and shall not bear any liability whatsoever with regard to damage incurred by the applicant as a result of the non-approval.
-7. In cases falling under any of the following items in relation to a User who registered an account, the Company may cancel or temporarily suspend the User’s membership, cancel rights associated with the User’s membership, or refuse use of the Services in the future.
+7. In cases where the Company does not approve an application for account registration, the Company shall not bear a duty to disclose the reason for not approving the application to the applicant and shall not bear any liability whatsoever with regard to damage incurred by the applicant as a result of the non-approval.
+8. In cases falling under any of the following items in relation to a User who registered an account, the Company may cancel or temporarily suspend the User’s membership, cancel rights associated with the User’s membership, or refuse use of the Services in the future.
     1. In cases where the Company determines that the User fell under or falls under any of the grounds specified in each item of Paragraph 5;
     2. In cases of violation of laws and regulations or these Terms of Use;
     3. In cases where the User is determined to have engaged in prohibited conduct specified in Article 15 in the past or is likely to engage in such prohibited conduct in the future;
@@ -442,6 +444,7 @@ Supplementary Provisions
 Revisions
 ---------
 
+* April 25, 2024: “Article 2, Individual Agreements etc.”, Section 5 have been amended. “Article 7, Account Registration”, Section 4 added.
 * May 31, 2023: Item 14 of “Article 14: Prohibited Conduct” has been revised. The current Item 4 and Item 5 were newly added to “Article 14: Prohibited Conduct”.
 * December 15, 2022: “Article 14, Prohibited Conduct”, Section 26.4 have been amended. “Article 15, Responses to Violation etc. and Cancellation of Registration”, Section 1.8 added.
 * March 31, 2021: Due to the termination of the provision of the service “pixiv Literature”, the terms related to “pixiv Literature” have been deleted. Futhermore, Article 27-2 “Handling of Fan Letters etc.” added.
@@ -691,6 +694,34 @@ For credit card payment or carrier pay, please use [this](https://www.pixiv.net/
 For in-app payments through services such as Google Play, please unsubscribe via the procedures detailed in each app store.  
 No refunds will be provided if you unsubscribe within the period of your subscription.
 
+Restrictions for Healthy Expression in Specific Countries and Regions
+=====================================================================
+
+In using the Services, Users must comply with the various laws and regulations applicable in their country or region. Actions that violate the laws and regulations of any country are not permitted when using the Services. The actions listed below are examples of prohibited activities; however, these are not the only actions that the Company may deem prohibited. Additionally, these restrictions may be modified at the discretion of the Company in response to changes in society or the environment, or to amendments in laws and regulations.
+
+United States
+-------------
+
+1. post any content that depicts or involves the exploitation of any person under 18 years of age (or older in any other location in which 18 is not the minimum age of majority), whether real or simulated (included AI-generated).
+2. post any content that appears to depict or involve a minor engaged in graphic bestiality, sadistic or masochistic abuse, or sexual intercourse.
+3. post any content depicting non-consensual sexual activity (including “deepfake” images), revenge porn, blackmail, intimidation, snuff, torture, death, violence, incest, racial slurs, or hate speech, (either orally or via the written word).
+4. post any content that is obscene, illegal, unlawful, fraudulent, defamatory, libelous, abusive, lewd, invasive of personal privacy or publicity rights, harassing, hateful, racially or ethnically offensive, or encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or is otherwise inappropriate.
+5. post any content that appeals to the prurient interest, is patently offensive in light of community standards where you are located or where such content may be accessed or distributed, lacks serious literary, artistic, political, or scientific value, or otherwise violates any applicable obscenity laws, rules or regulations.
+
+United Kingdom
+--------------
+
+1. post any content that depicts or involves the exploitation of any person under 18 years of age (or older in any other location in which 18 is not the minimum age of majority), whether real or simulated (included AI-generated).
+2. post any content that appears to depict or involve a minor engaged in graphic bestiality, sadistic or masochistic abuse, or sexual intercourse.
+3. post any content depicting non-consensual sexual activity (including “deepfake” images), revenge porn, blackmail, intimidation, snuff, torture, death, violence, incest, racial slurs, or hate speech, (either orally or via the written word).
+4. post any content that is obscene, illegal, unlawful, fraudulent, defamatory, libelous, abusive, lewd, invasive of personal privacy or publicity rights, harassing, hateful, racially or ethnically offensive, or encourages conduct that would be considered a criminal offense, give rise to civil liability, violate any law, or is otherwise inappropriate.
+5. post any content that appeals to the prurient interest, is patently offensive in light of community standards where you are located or where such content may be accessed or distributed, lacks serious literary, artistic, political, or scientific value, or otherwise violates any applicable obscenity laws, rules or regulations.
+
+Supplementary Provisions
+------------------------
+
+* These individual terms will come into effect on April 25, 2024.
+
 Individual Terms of Use
 =======================
 
@@ -707,7 +738,7 @@ INTRODUCTION
 3. These Individual Terms of Use include the “Requests Feature Individual Terms of Service”.
 4. These Individual Terms of Use are the individual terms of pixiv service Master Terms of Use ("Master Terms of Use"), which are applied for all services throughout pixiv Inc.'s services, and cases unspecified in these Individual Terms of Use, unless specified to exclude in these Individual Terms of Use, shall follow Master Terms of Use and other relating guidelines ("Terms etc.") set by the Company.
 5. By using the pixiv, User shall be deemed to have agreed to the entire content of these Individual Terms of Use.
-6. Unless User agrees to these Individual Terms of Use, User may not use the pixiv.
+6. Unless User agrees to these Individual Terms of Use and the "Restrictions for Healthy Expression in Specific Countries and Regions," User may not use the pixiv.
 
 Requests Feature Individual Terms of Service
 ============================================
@@ -884,6 +915,7 @@ Supplemental Provisions
 Revision
 --------
 
+* April 25, 2024 “INTRODUCTION”, Section 6 was updated.
 * August 31st, 2023 “Article 8: Payment of Sale Proceeds to Creators” was updated.
 * May 31, 2021 "Article 2: Definitions", "Article 5: Formation of Request Agreements" and "Article 8: Payment of Sale Proceeds to Creators" were modified.
 * May 13, 2021 In order to ease the communication between creators and fans, Articles 11.1 and 16 have been added.
