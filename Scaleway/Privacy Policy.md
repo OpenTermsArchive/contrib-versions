@@ -136,17 +136,6 @@ All transfers outside the European Union are subject to a strict control to ensu
 Requests from authorities
 -------------------------
 
-Scaleway undertakes to inform its customers in advance in the event of a request for information from an administrative or judicial authority in order to enable them to assert their rights subject to compliance with applicable regulations. Scaleway cannot oppose such a request if it complies with French or European regulations, an international agreement (art. 48 of the GDPR) or with one of the exemptions provided for in art. 49 of the GDPR.
-
-Children
-
-Scaleway does not provide services to children. Any children wishing to use our services must be accompanied and under the responsibility of an adult.  
-with appropriate security measures.  
-  
-
-Requests from authorities
--------------------------
-
 Scaleway undertakes to inform its customers in advance in the event of a request for information from an administrative or judicial authority in order to enable them to assert their rights subject to compliance with applicable regulations. Scaleway cannot oppose such a request if it complies with French or European regulations, an international agreement (art. 48 of the GDPR) or with one of the exemptions provided for in art. 49 of the GDPR.  
   
 
