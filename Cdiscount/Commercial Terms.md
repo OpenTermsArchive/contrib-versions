@@ -513,7 +513,7 @@ Pour le suivi de votre commande et le service après-vente, vous pouvez nous con
 
 \-           
 
- En Ligne, par léintermédiaire de votre Espace Client. Les informations concernant votre commande, son paiement, sa livraison, son SAV, sont accessibles dans votre Espace Client, dans les rubriques « C mes commandes » et « Questions fréquentes (FAQ) » ;
+ En Ligne, par l’intermédiaire de votre Espace Client. Les informations concernant votre commande, son paiement, sa livraison, son SAV, sont accessibles dans votre Espace Client, dans les rubriques « C mes commandes » et « Questions fréquentes (FAQ) » ;
 
 \-          Par téléphone :  
   
@@ -1424,7 +1424,7 @@ En cas de partage d’Abonnement dans les conditions précisées à l’article 
 
 **9.2.1 L’Abonné cumulera du crédit sur sa Cagnotte :**
 
-Pour les Offres Site, par l’achat de produits éligibles au Privilège sur le Site, c’est-à-dire de produits proposés à la vente sur le Site et porteur du pictogramme «  ©  » (ci-après les « **Produits éligibles au Privilège** »). 
+Pour les Offres Site, par l’achat de produits éligibles au Privilège sur le Site, c’est-à-dire de produits proposés à la vente sur le Site et porteur du pictogramme «  ©  » (ci-après les « **Produits éligibles au Privilége** »). 
 
 Le montant du crédit auquel donne droit une Offre Site est précisé sur la fiche produit du Produit éligible au Privilège pour les Offres Site sous forme : 
 
