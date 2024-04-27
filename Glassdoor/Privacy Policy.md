@@ -269,6 +269,7 @@ We may revise this Policy from time to time by posting an updated version. If we
 
 For all routine inquiries please use the contact details provided below.
 
+* If you would like to access/download, delete, rectify/update, ask a question about, or withdraw consent regarding your data, please submit your request through [our automated, self-service system](https://help.glassdoor.com/s/privacyrequest?language=en_US).
 * For service-related inquiries: contact us [here](https://help.glassdoor.com/s/ContactUs?language=en_US).
 * Security researchers can find out about our public bug bounty program [here](https://hackerone.com/glassdoor?type=team).
 
