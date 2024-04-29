@@ -63,6 +63,8 @@ We use this information to provide you with access to our webpages, improve the 
 
 We also provide platforms and forums that enable online sharing, support, and collaboration among registered members. Any information that you submit to these platforms may be made available to others on the internet, or removed by us, as covered in the platform privacy notice or terms. We are not responsible for any content that you make available through your use of our products or services.
 
+IBM makes artificial intelligence models and systems available, including large language models (often called LLMs). IBM may use such AI models and systems on or embedded in IBM.com properties, including through chatbots. IBM may also make such AI models and systems available under separate terms. 
+
 We prepare reports on the use of our websites to derive insights into trending topics and general market knowledge. These reports may be provided to third parties with details on how users interacted with or showed interest in the third-party products or services that were presented on our websites.
 
 We accept no responsibility for the content provided on, or privacy practices, of third-party websites or applications.
@@ -196,7 +198,7 @@ For information on cookies and how to remove these technologies by using browser
 
 #### Children
 
-Unless otherwise indicated, our websites, products, and services are not intended for use by children under the age of 16.
+Unless otherwise indicated, our websites, products, and services are not intended for use by children or minors as specified by law in their jurisdiction.
 
 * * *
 
@@ -271,6 +273,8 @@ Information Security and Retention
 ----------------------------------
 
 To protect your personal information from unauthorized access, use, and disclosure, we implement reasonable physical, administrative, and technical safeguards. These safeguards include role-based access controls and encryption to keep personal information private while in transit. We also require our Business Partners, suppliers, and third parties to implement appropriate safeguards, such as contract terms and access restrictions, to protect information from unauthorized access, use, and disclosure. 
+
+IBM’s AI models and systems are designed, trained, validated, and tested on data from publicly available sources that may incidentally contain Personal Information. We have implemented safeguards, processes, and tools to mitigate associated impacts and help address responsible development and deployment of trustworthy AI.
 
 We only retain personal information as long as necessary to fulfill the purposes for which it is processed, or to comply with legal and regulatory retention requirements. Legal and regulatory retention requirements may include retaining information for:
 
@@ -362,7 +366,8 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 **Sections updated in this release:**
 
-1. Your Additional Rights: South Korea
-2. Your Additional Rights: US States
+1. IBM Websites
+2. Children
+3. Information Security and Retention
 
 * * *
