@@ -705,10 +705,10 @@ sur les réseaux sociaux
 
 ![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495) 
 
-* [www.legifrance.gouv.fr](http://www.legifrance.gouv.fr/)
-* [www.service public.fr](http://www.service-public.fr/)
-* [www.gouvernement.fr](http://www.gouvernement.fr/)
-* [www.france.fr](http://www.france.fr/)
+* [info.gouv.fr](https://info.gouv.fr/)
+* [legifrance.gouv.fr](https://www.legifrance.gouv.fr/)
+* [service public.fr](https://www.service-public.fr/)
+* [data.gouv.fr](https://www.data.gouv.fr/)
 
 * [Plan du site](https://sante.gouv.fr/spip.php?page=plan)
 * [Accessibilité : partiellement conforme](https://sante.gouv.fr/ministere/article/declaration-d-accessibilite-du-site-sante-gouv-fr)
