@@ -1,3 +1,5 @@
+From July 31, 2024 Google is expanding the scope of our EU User Consent Policy to apply to users in Switzerland. You can preview the updated policy [here](https://business.safety.google/ch-euucp-update/ "ch-euucp-update"). Publishers and advertisers can find more information in the [Help with the EU user consent policy](https://www.google.com/about/company/user-consent-policy-help/ "user-consent-policy-help") page.
+
 EU user consent policy
 ======================
 
