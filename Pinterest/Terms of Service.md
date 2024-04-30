@@ -1,5 +1,3 @@
-If you are located in the EEA, UK, and Switzerland, you can view your current Terms of Service here. The Terms of Service below will be effective for the EEA, UK, and Switzerland on April 30, 2024.
-
 Thank you for using Pinterest!
 
 These Terms of Service ("Terms") govern your access to and use of any website, app, service, technology, API, widget, platform, channel or any other products or features owned, operated, branded or offered by Pinterest (“Pinterest” or the “Service”), except where we expressly state that separate terms (and not these) apply. For the purposes of these Terms, “we” or “us” refers to the party with whom you are entering into this agreement, per Section 13(e) (Parties). Please read these Terms carefully, and contact us if you have any questions. 
