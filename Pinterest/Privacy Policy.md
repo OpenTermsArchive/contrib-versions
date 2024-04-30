@@ -1,5 +1,3 @@
-If you are located in the EEA, UK, and Switzerland, you can view your current Privacy Policy here. The Privacy Policy below will be effective for the EEA, UK, and Switzerland on April 30, 2024.
-
 California Privacy Statement
 
 **California Residents: Please see our California Privacy Statement and Notice at Collection here.** 
