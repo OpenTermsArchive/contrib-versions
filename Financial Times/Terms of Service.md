@@ -250,6 +250,8 @@ in each case even if we have been advised that such damages may arise.**
 
 **6.3.** The Managed Funds and Personal Finance areas of FT.com are operated separately by FT Personal Finance Limited whose corporate details are as follows: registered office address is Bracken House, 1 Friday Street, London, EC4M 9BT; company number is 3855520; VAT number GB226162332; and Data Protection Registration Number is Z7670392.
 
+**6.4** Our legal representative in the European Union under the Digital Services Act (EU Regulation 2022/2065) is The Financial Times (Overseas) Ltd, c/o TMF Group, Ground Floor, Two Dockland Central, Guild Street, North Dock, Dublin 1, D01 K2C5, Ireland, email company.secretary@ft.com, telephone +44 (0)20 7873 3000. 
+
 7\. Changes to these Terms and Conditions
 -----------------------------------------
 
