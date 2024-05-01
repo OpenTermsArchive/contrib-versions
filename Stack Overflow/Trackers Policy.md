@@ -55,6 +55,7 @@ These cookies are necessary for our website to function properly and cannot be s
 | artstation.com | \_\_cf\_bm | 3rd Party |
 | ajax.googleapis.com | OptanonAlertBoxClosed, OptanonConsent | 3rd Party |
 | www.pluralsight.com | \_\_cf\_bm | 3rd Party |
+| superuser.com | \_\_cf\_bm | 3rd Party |
 | discordapp.com | \_\_cf\_bm | 3rd Party |
 
 Additionally, some strictly necessary cookies are dynamically generated based on unique identifiers. These cookies are:
@@ -95,12 +96,13 @@ These cookies are used to make advertising messages more relevant to you and may
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_gads, \_gat\_legacyTracker, \_so\_tgt, urr | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_gads, \_\_gpi, \_gat\_legacyTracker, \_so\_tgt, urr | 1st Party |
 | bidr.io | bito, bitoIsSecure | 1st Party |
 | everesttech.net | everest\_g\_v2 | 1st Party |
 | pt.stackoverflow.com | GoogleAdServingTest | 1st Party |
 | youtube.com | GPS | 3rd Party |
 | linkedin.com | bcookie, lang, li\_gc, lidc, lissc, UserMatchHistory | 3rd Party |
+| adnxs.com | anj, uuid2 | 3rd Party |
 | twitter.com | guest\_id, guest\_id\_ads, guest\_id\_marketing, personalization\_id | 3rd Party |
 | mathtag.com | mt\_mop, uuid | 3rd Party |
 | yandex.ru | i, yandexuid, ymex | 3rd Party |
