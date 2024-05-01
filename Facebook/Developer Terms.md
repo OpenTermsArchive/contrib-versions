@@ -12,7 +12,7 @@ Meta Platform Terms
     a. Our Platform is the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others, including app developers and website operators, to develop functionality, retrieve data from Meta and any other [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos), or provide data to us.
     
 *   
-    b. To use Platform (including to Process any Platform Data), you agree to these Platform Terms (“Terms”), as well as all other applicable terms and policies. This may include the [Meta Terms of Service](https://www.facebook.com/legal/terms), the [Instagram Terms of Use](https://help.instagram.com/581066165581870), the [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms), the [Business Tools Terms](https://www.facebook.com/legal/terms/businesstools/update), and any [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos) terms that are applicable.
+    b. To use Platform (including to Process any Platform Data), you agree to these Platform Terms (“Terms”), as well as all other applicable terms and policies. This may include the [Meta Terms of Service](https://www.facebook.com/legal/terms), the [Instagram Terms of Use](https://help.instagram.com/581066165581870), the [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms), the [Business Tools Terms](https://www.facebook.com/legal/terms/businesstools/), and any [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos) terms that are applicable.
     
 *   
     c. You must also comply with the applicable requirements in our [Developer Policies](https://developers.facebook.com/devpolicy/) and those made available on our [Developer Site](https://developers.facebook.com/), including in our [Documentation](https://developers.facebook.com/docs/) collectively, the “Developer Docs”)
@@ -503,7 +503,7 @@ Whenever there is a UK Data Transfer, your use of UK Data is subject to your com
 ------------
 
 *   
-    a. In accordance with our [Terms of Service](https://www.facebook.com/legal/terms), you will not transfer any of your rights or obligations under these Terms to anyone else without our prior written consent. Transferring can include assignment, acquisition, merger, change of control, or other forms of transfer. Any unpermitted transfer will be considered null and void. For any permitted transfer, you can continue to Process Platform Data only for your App subject to these Terms and only after you re-submit your App and receive our approval through our App Review process.
+    a. In accordance with our [Terms of Service](https://www.facebook.com/legal/terms), you will not transfer any of your rights or obligations under these Terms to anyone else without our [prior written consent](https://developers.facebook.com/docs/development/create-an-app/transfer-an-app/notify-meta/). Transferring can include assignment, acquisition, merger, change of control, or other forms of transfer. Any unpermitted transfer will be considered null and void. For any permitted transfer, you can continue to Process Platform Data only for your App subject to these Terms and only after you re-submit your App and receive our approval through our App Review process.
     
 *   
     b. You also must comply with all applicable laws and regulations (including the Children’s Online Privacy Protection Act (“COPPA”) and the Video Privacy Protection Act (“VPPA”)).
