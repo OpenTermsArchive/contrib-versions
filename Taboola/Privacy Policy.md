@@ -481,7 +481,13 @@ To provide Taboola’s Services, Personal Information about individuals in the P
 
 When Taboola transfers Personal Information about individuals in the PRC to Taboola.com Ltd. in Israel, it relies (as applicable) on standard contractual clauses as set forth by the European Commission. In particular, non-PRC Taboola Affiliates, like Taboola, Inc. in the United States, have accordingly adopted Standard Contractual Clauses to ensure the legality, privacy, and security of the data flows necessary to provide, maintain, and develop our services.
 
-6\. Contact Us
+6\. Data Broker Requirements
+----------------------------
+
+THE ENTITY MAINTAINING THIS WEBSITE IS A DATA BROKER UNDER TEXAS LAW. TO CONDUCT BUSINESS IN TEXAS, A DATA BROKER MUST REGISTER WITH THE TEXAS SECRETARY OF STATE (TEXAS SOS). INFORMATION ABOUT DATA BROKER REGISTRANTS IS AVAILABLE ON THE TEXAS SOS WEBSITE.  
+The entity maintaining this website is a data broker under Texas law. To conduct business in Texas, a data broker must register with the Texas Secretary of State (Texas SOS). Information about data broker registrants is available on the Texas SOS website.
+
+7\. Contact Us
 --------------
 
 If you have questions about the privacy aspects of our Sites or Services, please contact us at [support@taboola.com](mailto:support@taboola.com).
@@ -490,7 +496,7 @@ The names and contact details of our Affiliates which may process your Personal 
 
 Residents in Brazil, China, the European Economic Area (including the United Kingdom) and Thailand, if you wish to escalate your inquiry after contacting the support team, you are welcome to contact our Data Protection Officer at [dpo@taboola.com](mailto:dpo@taboola.com).
 
-7\. Changes to This Privacy Policy
+8\. Changes to This Privacy Policy
 ----------------------------------
 
 This Privacy Policy is current as of the Effective Date set forth above.
