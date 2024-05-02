@@ -17,19 +17,19 @@
     
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/5d3jdM7BrQazAMyaNNBEMX/59f44ea72a6d4bba1e4aa172e3e0c86e/Whats-new-webinar_hero_opt1-standard-4_3__1___2_.png)
-        
-        Watch our webinar anytime](https://miro.com/webinars/whats-new/ondemand/)
-    * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-        
         ![](https://images.ctfassets.net/w6r2i5d8q73s/4NDcHKcAiwMXJ0h3Uxv9K1/eec966d255c916a761dc26a12ae998ba/meeting-3.svg)
         
-        Comment with visual cues](https://miro.com/blog/what-we-launched-march-2024/#h-user-interface-enhancements)
+        Visualize your Cloudflare Network](https://miro.com/blog/what-we-launched-april-2024/#:~:text=New%20Cloudflare%20architecture%20icon%20packs)
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/2ZEbdBPtunIHWmy8VLYi6N/a227e774c270ac802ec4670e2d3f669b/pose_7_2_1.svg)
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/2Zxr4Vx1JDRb6UL7icHtaC/40135e6dbe6bfeb37502c61c49adca15/Tree_planter.png)
         
-        Talktracks on the go](https://miro.com/blog/what-we-launched-march-2024/#h-workshops-amp-async-collaboration)
+        Assign Jira cards at will](https://miro.com/blog/what-we-launched-april-2024/#:~:text=Issues%20in%20Jira%20now%20unassigned%20by%20default%C2%A0)
+    * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/5ncGY19hze7Nq0GAWbflTU/3191deeda761a4882abfd80ed3af0d6b/Meeting.svg)
+        
+        Manage widget loads with Planner](https://miro.com/blog/what-we-launched-april-2024/#:~:text=Planner%20updates%20to%20fast%2Dtrack%20your%20work%20in%20Miro%C2%A0)
     
     [See all updates](https://miro.com/whats-new/)
     
