@@ -374,9 +374,9 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [Ubuntu Core](https://ubuntu.com/core) [Ubuntu Core](#)
     -------------------------------------------------------
     
-    * [Services](https://ubuntu.com/core/services)
-    * [Success stories](https://ubuntu.com/core/stories)
     * [Features](https://ubuntu.com/core/features)
+    * [Success stories](https://ubuntu.com/core/stories)
+    * [Services](https://ubuntu.com/core/services)
     * [Docs](https://ubuntu.com/core/docs)
 
 * [Ubuntu Desktop](https://ubuntu.com/desktop) [Ubuntu Desktop](#)
