@@ -1095,6 +1095,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * GENESIS Online Destatis: [https://www-genesis.destatis.de/genesis/online?Menu=Impressum#abreadcrumb](https://www-genesis.destatis.de/genesis/online?Menu=Impressum#abreadcrumb)
             
+        * State Statistical Office of Saxony-Anhalt: [https://statistik.sachsen-anhalt.de/wir-ueber-uns-service/agb](https://statistik.sachsen-anhalt.de/wir-ueber-uns-service/agb)
+            
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
