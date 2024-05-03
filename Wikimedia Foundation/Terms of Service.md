@@ -137,7 +137,7 @@ Other languages:
 * [کوردی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ckb "Policy:Terms of Use/ckb (2% translated)")
 * [ܐܪܡܝܐ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/arc "Policy:Terms of Use/arc (0% translated)")
 * [नेपाली](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ne "Policy:Terms of Use/ne (1% translated)")
-* [मराठी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mr "Policy:Terms of Use/mr (17% translated)")
+* [मराठी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mr "Policy:Terms of Use/mr (19% translated)")
 * [हिन्दी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hi "Policy:Terms of Use/hi (94% translated)")
 * [অসমীয়া](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/as "Policy:Terms of Use/as (0% translated)")
 * [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn "Policy:Terms of Use/bn (20% translated)")
