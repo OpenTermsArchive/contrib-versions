@@ -316,7 +316,7 @@ California residents also have the right not to receive discriminatory treatment
 
   
 
-We do not sell consumers’ covered information for monetary consideration (as defined in Chapter 603A of the Nevada Revised Statutes). However, if you are a Nevada resident, you have the right to submit a request directing us not to sell certain information about you. To submit such a request, please contact us at privacy@weheartit.com.
+We do not sell consumers’ covered information for monetary consideration (as defined in Chapter 603A of the Nevada Revised Statutes). However, if you are a Nevada resident, you have the right to submit a request directing us not to sell certain information about you. To submit such a request, please contact us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection).
 
   
 
@@ -346,7 +346,7 @@ You may submit a privacy rights request to us by:
 
 * Using the privacy rights request options available in the Settings menu of your app (available to app users only) or in the cookie preferences center in your web browser (available to web users only on our sites)
 * Completing [this form](#dsar) 
-* Emailing us at privacy@weheartit.com 
+* Emailing us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) 
 
   
 
@@ -383,7 +383,7 @@ You may be entitled, in accordance with applicable law, to request a copy of the
 
 1. **Our Policy Toward Children**
 
-The Services are not directed to children under 18. We do not knowingly collect Personal Information from children under 18. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at privacy@weheartit.com. If we become aware that a child under 18 has provided us with Personal Information, we will delete such information from our files.
+The Services are not directed to children under 18. We do not knowingly collect Personal Information from children under 18. If a parent or guardian becomes aware that his or her child has provided us with Personal Information without their consent, he or she should contact us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection). If we become aware that a child under 18 has provided us with Personal Information, we will delete such information from our files.
 
   
 
@@ -435,7 +435,7 @@ It may not be possible for us to assist you with certain customer service reques
 
 1. **Complaints**
 
-If you have any complaints concerning We Heart It’s processing of your Personal Information, please email us at privacy@weheartit.com or write to us at 1510 Fashion Island Blvd Suite 350 San Mateo, CA 94404.
+If you have any complaints concerning We Heart It’s processing of your Personal Information, please email us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) or write to us at 1510 Fashion Island Blvd Suite 350 San Mateo, CA 94404.
 
   
 
@@ -451,7 +451,7 @@ Customers in the United Kingdom can contact the Information Commissioner’s Off
 
 1. **Contacting Us**
 
-If you have any questions about this Privacy Policy or if you would like us to delete your Personal Information, you can delete your account from the website, or by contacting us at privacy@weheartit.com or at Super Basic LLC, 1510 Fashion Island Blvd Suite 350 San Mateo, CA 94404. 
+If you have any questions about this Privacy Policy or if you would like us to delete your Personal Information, you can delete your account from the website, or by contacting us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) or at Super Basic LLC, 1510 Fashion Island Blvd Suite 350 San Mateo, CA 94404. 
 
   
 
