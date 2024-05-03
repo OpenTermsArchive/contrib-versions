@@ -3,9 +3,11 @@
 Terms of Use
 ============
 
-Download a copy of the SurveyMonkey TOU [here](https://prod.smassets.net/assets/content/sm/Terms-of-Use-SurveyMonkey-2024-02-15.pdf).
+Download a copy of the SurveyMonkey TOU [here](https://prod.smassets.net/assets/content/sm/Terms-of-Use-SurveyMonkey-2024-02-15.pdf). These terms apply to services purchased or signed-up for on SurveyMonkey's websites.
 
-These terms apply to services purchased or signed-up for on SurveyMonkey's websites. For terms applicable to services offered through our enterprise sales team, please see our [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/gsa/).
+For terms that apply to SurveyMonkey services purchased directly through our enterprise sales team, please see our [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/gsa/).
+
+For terms that apply to SurveyMonkey services purchased through a third party, please see our [End Customer Terms of Use](https://prod.smassets.net/assets/content/sm/End-User-Terms-of-Use-2024-02.pdf).
 
 LAST UPDATED: February 15, 2024
 
