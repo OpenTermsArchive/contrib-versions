@@ -244,11 +244,11 @@ _Privacy._ Our privacy policy, available at https://weheartit.com/about/privacy-
 
 _Consumer Rights Notice._ Under California Civil Code Section 1789.3, California users of our Services are entitled to receive the following specific consumer rights notice: The provider of our Services is Super Basic, LLC., and can be contacted at the address found in the **Contact Us** Section below. As of the date of these terms, no direct charges are imposed by the use or download of our Services. If you have a complaint with the Services or wish to request further information, please contact us at the physical address set forth in the **Contact Us** Section with a description of your request. We cannot guarantee a response in any particular time period. If you remain unsatisfied, contact The Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs may be contacted in writing at 1625 North Market Blvd., Suite N 112, Sacramento, California 95834, or by telephone at 1-800-952-5210.
 
-_For Parents and Guardians._ The Services are not intended for children under the age of 13. If you are under 18, your parent/guardian may request the termination of your Account by contacting We Heart It customer support at hello@weheartit.com. Control tools are available from online services and software manufacturers that can help provide a safe online environment for kids. You can find out about software that protects your kids at https://www.consumer.ftc.gov/topics/protecting-kids-online and at https://www.getnetwise.org/.
+_For Parents and Guardians._ The Services are not intended for children under the age of 13. If you are under 18, your parent/guardian may request the termination of your Account by contacting We Heart It customer support at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection). Control tools are available from online services and software manufacturers that can help provide a safe online environment for kids. You can find out about software that protects your kids at https://www.consumer.ftc.gov/topics/protecting-kids-online and at https://www.getnetwise.org/.
 
 **X. Contact Us**
 
-If you have any questions, comments or concerns about these Terms of Service and/or our Services you may contact us via email at legal@weheartit.com. However, please note that communications made through our Services’ e-mail and messaging system shall in no way be deemed to constitute legal notice to us or any of its officers, employees, agents or representatives, such as where notice to us is required by contract, or any federal, state or local laws, rules or regulations. You may provide legal notice to us here: Super Basic, LLC, 1510 Fashion Island Blvd, #350, San Mateo, CA 94404.
+If you have any questions, comments or concerns about these Terms of Service and/or our Services you may contact us via email at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection). However, please note that communications made through our Services’ e-mail and messaging system shall in no way be deemed to constitute legal notice to us or any of its officers, employees, agents or representatives, such as where notice to us is required by contract, or any federal, state or local laws, rules or regulations. You may provide legal notice to us here: Super Basic, LLC, 1510 Fashion Island Blvd, #350, San Mateo, CA 94404.
 
 **Part B: Terms for Purchase of Premium or Subscription Services**
 
@@ -320,7 +320,7 @@ In addition, you acknowledge and agree that the Indemnified Parties have the rig
 
 In order to expedite the resolution of disputes and control related costs, you and We Heart It agree that any legal or equitable claim relating to these Terms of Service (referred to as a **“Claim”**) will be resolved as set forth in this Governing Law and Dispute Resolution Section.
 
-_Informal Resolution and Written Notice of Claim._ You and We Heart It agree that we will first try to resolve any Claim informally by giving informal written notice prior to initiating any formal proceeding (including litigation or other legal proceeding). Accordingly, neither of us may start a formal proceeding for at least thirty (30) days after one of us notifies the other of a Claim in writing (**“Notice of Claim”**). If We Heart It has a Claim against you, we will send our Notice of Claim to your email address. If you believe you have a Claim against us, You will send your Notice of Claim to hello@weheartit.com with “Notice of Claim” clearly indicated in the subject line.
+_Informal Resolution and Written Notice of Claim._ You and We Heart It agree that we will first try to resolve any Claim informally by giving informal written notice prior to initiating any formal proceeding (including litigation or other legal proceeding). Accordingly, neither of us may start a formal proceeding for at least thirty (30) days after one of us notifies the other of a Claim in writing (**“Notice of Claim”**). If We Heart It has a Claim against you, we will send our Notice of Claim to your email address. If you believe you have a Claim against us, You will send your Notice of Claim to [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) with “Notice of Claim” clearly indicated in the subject line.
 
 _Arbitration._ **Please read this carefully. It affects your rights.** We Heart It and you (such references include our respective predecessors in interest, successors and assigns) agree to arbitrate all disputes and claims arising out of or relating to these Terms of Service between We Heart It and you. The arbitration shall be governed by the Commercial Dispute Resolution Procedures and the Supplementary Procedures for Consumer Related Disputes (collectively, "AAA Rules") of the American Arbitration Association ("AAA"), as modified by these Terms of Service, and shall be administered by the AAA. All issues are for the arbitrator to decide, including the scope of this arbitration clause, but the arbitrator is bound by these Terms of Service. Except as otherwise provided for herein, We Heart It will pay all AAA filing, administration and arbitrator fees. If, however, the arbitrator finds that either the substance of your claim or the relief sought is improper or not warranted, as measured by the standards set forth in Federal Rule of Civil Procedure 11(b), then the payment of all such fees shall be governed by the AAA Rules. In such case, you agree to reimburse We Heart It for all monies previously disbursed by it that are otherwise your obligation to pay under the AAA Rules. If the arbitrator grants relief to you that is equal to or greater than the value of your demand, We Heart It shall reimburse you for your reasonable attorneys’ fees and expenses incurred for the arbitration. **You agree that, by entering into these Terms of Service, you and We Heart It are waiving the right to a trial by jury. You and We Heart It agree that YOU AND We Heart It MAY BRING CLAIMS AGAINST THE OTHER ONLY IN YOUR OR ITS INDIVIDUAL CAPACITY, and not as a plaintiff or class member in any purported class or representative proceeding.** Further, you agree that the arbitrator may not consolidate proceedings or more than one person's claims, and may not otherwise preside over any form of a representative or class proceeding, and that if this specific proviso is found to be unenforceable, then the entirety of this arbitration clause shall be null and void.
 
@@ -363,9 +363,9 @@ Copyright Team
 
 San Mateo, CA 94404 USA
 
-Email: legal@weheartit.com
+Email: [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection)
 
-_DMCA Notices Only._ Only DMCA notices should go to the Copyright Agent; any other feedback, comments, requests for technical support, and other communications should be directed to We Heart It customer support at hello@weheartit.com and identified below.
+_DMCA Notices Only._ Only DMCA notices should go to the Copyright Agent; any other feedback, comments, requests for technical support, and other communications should be directed to We Heart It customer support at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) and identified below.
 
 _Counter-Notices._ If you believe that your Content that has been removed from our Services is not infringing, or that you have the authorization from the copyright owner, the copyright owner’s agent, or pursuant to the law, to Post and use the Content in the manner so Posted or used, you may send a counter-notice containing the following information to our Copyright Agent using the contact information set forth above. The counter notice form is available <%= link\_to "here" , image\_path("DMCACounternoticeForm.pdf"), class: "text-underline" %> for download and should be completed in full.
 
@@ -382,7 +382,7 @@ This Part D of the Terms of Service applies in addition to Part A and Part B of 
 
 **I. Reservation of Changes**
 
-If we notify you of an amendment to these Terms of Services as set forth in the **Amendments to These Terms** Section of Part A above, you may then object to this amendment by sending an email to legal@weheartit.com within thirty (30) days of receipt of the notice of change. If you fail to object prior to the deadline or continue to use the Services after receipt of the notice of change, the amended provisions shall be deemed to be accepted. You will be informed about this legal consequence separately in the notice of change.
+If we notify you of an amendment to these Terms of Services as set forth in the **Amendments to These Terms** Section of Part A above, you may then object to this amendment by sending an email to [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) within thirty (30) days of receipt of the notice of change. If you fail to object prior to the deadline or continue to use the Services after receipt of the notice of change, the amended provisions shall be deemed to be accepted. You will be informed about this legal consequence separately in the notice of change.
 
 **II. Limitation of Liability**
 
@@ -420,7 +420,7 @@ Please note that any refunds or reimbursements to which you may be entitled must
 
 _Right of Withdrawal._ You have the right to withdraw from this agreement within 14 days without giving any reason. The withdrawal period will expire after 14 days from the day of the conclusion of the agreement.
 
-To exercise the right of withdrawal, you must inform us (Super Basic, LLC, 1510 Fashion Island Blvd, #350, San Mateo, CA 94404 USA; legal@weheartit.com) of your decision to withdraw from this agreement by an unequivocal statement (e.g., a letter sent by post or e-mail). You may use the below model withdrawal form, but it is not obligatory.
+To exercise the right of withdrawal, you must inform us (Super Basic, LLC, 1510 Fashion Island Blvd, #350, San Mateo, CA 94404 USA; [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection)) of your decision to withdraw from this agreement by an unequivocal statement (e.g., a letter sent by post or e-mail). You may use the below model withdrawal form, but it is not obligatory.
 
 To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
 
@@ -434,7 +434,7 @@ _Right of Withdrawal._ You have the right to withdraw from this agreement within
 
 The withdrawal period will expire after 14 days from the day of the conclusion of the agreement.
 
-To exercise the right of withdrawal, you must inform us (Super Basic, LLC, 1510 Fashion Island Blvd, #350, San Mateo, CA 94404 USA; legal@weheartit.com) of your decision to withdraw from this agreement by an unequivocal statement (e.g., a letter sent by post or e-mail). You may use the below model withdrawal form, but it is not obligatory.
+To exercise the right of withdrawal, you must inform us (Super Basic, LLC, 1510 Fashion Island Blvd, #350, San Mateo, CA 94404 USA; [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection)) of your decision to withdraw from this agreement by an unequivocal statement (e.g., a letter sent by post or e-mail). You may use the below model withdrawal form, but it is not obligatory.
 
 To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
 
@@ -456,7 +456,7 @@ Super Basic, LLC
 
 1510 Fashion Island Blvd, #350, San Mateo, CA 94404 USA
 
-legal@weheartit.com
+[\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection)
 
 I/We (\*) hereby give notice that I/We (\*) withdraw from my/our (\*) contract of sale of the following goods (\*)/for the provision of the following service (\*),
 
