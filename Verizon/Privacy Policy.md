@@ -719,7 +719,7 @@ Open all
     
     request
     
-    California residents can make a request by contacting us by submitting a [privacy inquiry form](https://www.verizon.com/about//privacy/privacy-inquiries)
+    California residents can make a request by contacting us by submitting a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries)
     
     Verizon Privacy Office  
     1300 I Street, NW Suite 500 East  
@@ -729,7 +729,7 @@ Open all
     
     request
     
-    California residents can make a request by submitting a [privacy inquiry form](https://www.verizon.com/about//privacy/privacy-inquiries)
+    California residents can make a request by submitting a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries)
     
     Verizon Privacy Office  
     1300 I Street, NW Suite 500 East  
