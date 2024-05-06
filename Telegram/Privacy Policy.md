@@ -31,7 +31,7 @@ This Privacy Policy explains the following:
 
 #### [](#1-4-eea-representative)1.4. EEA Representative
 
-If you live in a country in the [European Economic Area](https://en.wikipedia.org/wiki/European_Economic_Area) (EEA), the Services are provided by Telegram, which for the purposes of applicable data protection legislation is the data controller responsible for your personal data when you use our Services. However, as Telegram is located outside the EEA, we have designated a third party, European Data Protection Office (EDPO), as our [representative](https://www.smartcertificate.com/SmartCertificate/?1%7c7b72c5ff-fe64-4290-8c35-221528a0c087%7c36fd44f1-9739-4c72-9e47-c41d96436c6d) pursuant to Article 27 of the GDPR. You can direct to EDPO any of your GDPR-related queries:
+If you live in a country in the [European Economic Area](https://en.wikipedia.org/wiki/European_Economic_Area) (EEA), the Services are provided by Telegram, which for the purposes of applicable data protection legislation is the data controller responsible for your personal data when you use our Services. However, as Telegram is located outside the EEA, we have designated a third party, European Data Protection Office (EDPO), as our [representative](https://www.smartcertificate.com/SmartDiploma/Default.aspx?1%7ca3cc3bd9-a15a-4a85-897a-9d1f15863860%7c1265c70e-d9ce-48ab-8670-d7d83fa20148#) pursuant to Article 27 of the GDPR. You can direct to EDPO any of your GDPR-related queries:
 
 * by using EDPO’s online request form at [](https://edpo.com/telegram-gdpr-data-request)[https://edpo.com/telegram-gdpr-data-request](https://edpo.com/telegram-gdpr-data-request) or
 * by writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium.
@@ -124,7 +124,7 @@ Telegram is a cloud service. We will process your data to deliver your cloud cha
 
 #### [](#5-2-safety-and-security)5.2. Safety and Security
 
-Telegram supports massive communities which we have to police against abuse and Terms of Service violations. Telegram also has more than [700 million](https://telegram.org/blog/700-million-and-premium) users which makes it a lucrative target for spammers. To improve the security of your account, as well as to prevent [spam](https://telegram.org/faq_spam), abuse, and other violations of our Terms of Service, we may collect metadata such as your IP address, devices and Telegram apps you've used, history of username changes, etc. If collected, this metadata can be kept for 12 months maximum.
+Telegram supports massive communities which we have to police against abuse and Terms of Service violations. Telegram also has more than [900 million](https://telegram.org/blog/700-million-and-premium) users which makes it a lucrative target for spammers. To improve the security of your account, as well as to prevent [spam](https://telegram.org/faq_spam), abuse, and other violations of our Terms of Service, we may collect metadata such as your IP address, devices and Telegram apps you've used, history of username changes, etc. If collected, this metadata can be kept for 12 months maximum.
 
 #### [](#5-3-spam-and-abuse)5.3. Spam and Abuse
 
