@@ -1,4 +1,4 @@
-Effective 4 March 2024 | [Archived versions](https://policies.google.com/privacy/archive?hl=en-GB&gl=IE) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20240304/a0z6wy2x/google_privacy_policy_en-GB_eu.pdf)
+Effective 28 March 2024 | [Archived versions](https://policies.google.com/privacy/archive?hl=en-GB&gl=IE) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20240328/kqt85t47/google_privacy_policy_en-GB_eu.pdf)
 
 Contents
 --------
@@ -713,9 +713,9 @@ Examples of these services include:
 
 When lots of people start searching for something, it can provide useful information about particular trends at that time. Google Trends samples Google web searches to estimate the popularity of searches over a certain period of time and shares those results publicly in aggregated terms. [Learn more](https://support.google.com/trends?p=privpol_about&hl=en_GB)
 
-### similar information related to your physical or mental health
+### Similar information related to your physical or mental health
 
-If you use fitness products and apps we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned, and steps taken.
+If you use fitness products and apps that we offer, such as Fitbit, Pixel Watch, Nest or Google Fit, we collect data that you provide, like your height and weight. We also collect information from these apps and devices, such as your sleep patterns, heart rate, skin temperature, calories burned and steps taken.
 
 ### specific Google services
 
