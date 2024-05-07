@@ -333,11 +333,11 @@ Below are links to the cookie opt-out pages of common web browsers. If your web 
 
 To opt out of certain tracking by our analytics providers, you may visit the links below:
 
-* [Google Analytics](https://tools.google.com/dlpage/gaoptout)
-* [Adobe Omniture](http://www.adobe.com/privacy/opt-out.html)
-* [Nielsen](http://www.nielsen.com/digitalprivacy) 
+* [Google Analytics](https://tools.google.com/dlpage/gaoptout) 
+* [Adobe Omniture](https://www.adobe.com/privacy/opt-out.html) 
+* [Nielsen](https://www.nielsen.com/digitalprivacy) 
 
-Some of the Paramount Services may feature Nielsen proprietary measurement software that will allow you to contribute to market research, such as Nielsen’s TV Ratings. For more information about Nielsen’s digital measurement products, please review Nielsen’s privacy statement [here](http://www.nielsen.com/digitalprivacy).
+Some of the Paramount Services may feature Nielsen proprietary measurement software that will allow you to contribute to market research, such as Nielsen’s TV Ratings. For more information about Nielsen’s digital measurement products, please review Nielsen’s privacy statement [here](https://www.nielsen.com/digitalprivacy) .
 
 ##### Interest-based advertising
 
