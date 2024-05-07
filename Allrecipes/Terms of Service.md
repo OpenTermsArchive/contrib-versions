@@ -43,10 +43,9 @@ Nearly 200 million people each month trust us
 **Mélanie Berliet, SVP of The Spruce Home  
 "_One Thing:_" A Video Series From The Spruce**
 
-     ![Jessica Shepherd, MD. Chief Medical Officer, Verywell Health](/img/cascade/verywell.jpg)
+ ![Verywell Illustration](https://images.prismic.io/ddhomepage/ebf970c6-2532-40ab-be20-7b0b62076787_Verywell-Illo-vertical.png?auto=compress,format&w=348&h=465&cs=srgb&dpr=3&q=75)
 
-**Jessica Shepherd, MD  
-Chief Medical Officer, Verywell Health**
+**Trusted health information when you need it most**
 
      ![Jenneh Bockari & Joseph Rishe Wedding](/img/cascade/brides.jpg)
 
