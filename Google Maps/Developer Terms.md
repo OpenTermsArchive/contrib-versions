@@ -511,6 +511,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         115. Yukon Province CA: [https://open.yukon.ca/open-government-licence-yukon](https://open.yukon.ca/open-government-licence-yukon)
             
+        116. Réseau de transport de Longueuil (RTL): [https://www.rtl-longueuil.qc.ca/en-CA/open-data/](https://www.rtl-longueuil.qc.ca/en-CA/open-data/) Note about their license: TERMS OF USE OF THE RTL’S GTFS DATA - Referring to the Réseau de transport de Longueuil You must refer to the RTL as the source when using its data. You must, at the RTL’s request, remove such a reference if the RTL considers it illegitimate, contrary to public interest, or contrary to its mission.
+            
+        117. Exo: [https://www.donneesquebec.ca/licence/#cc-by](https://www.donneesquebec.ca/licence/#cc-by)
+            
+        118. Société de transport de Montréal (STM): [https://www.stm.info/en/about/developers](https://www.stm.info/en/about/developers) Note about their license: The STM’s Terms of use for GTFS and API By accessing the Société de transport de Montréal’s data, you agree to comply with all obligations and terms included in these Terms of use. The purpose of these Terms of use is to protect the STM and promote the publication of its data, as well as ensure that users of this data give back the benefits they receive to the community.
+            
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
             
@@ -1097,6 +1103,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * State Statistical Office of Saxony-Anhalt: [https://statistik.sachsen-anhalt.de/wir-ueber-uns-service/agb](https://statistik.sachsen-anhalt.de/wir-ueber-uns-service/agb)
             
+        * Open Data Schleswig Holstein: [https://opendata.schleswig-holstein.de/dataset/baustellen-schleswig-holstein](https://opendata.schleswig-holstein.de/dataset/baustellen-schleswig-holstein)
+            
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
@@ -1382,9 +1390,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和6年 2 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和6年 3 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和6年 2 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和6年 3 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         * ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
