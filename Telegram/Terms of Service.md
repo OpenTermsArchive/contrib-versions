@@ -7,11 +7,9 @@ By signing up for Telegram, you accept our [Privacy Policy](https://telegram.org
 * Promote violence on publicly viewable Telegram channels, bots, etc.
 * Post illegal pornographic content on publicly viewable Telegram channels, bots, etc.
 
-For users accessing Telegram within the European Union, the [User Guidance for the EU Digital Services Act](https://telegram.org/tos/eu-dsa) constitutes an integral part of our Terms of Service.
-
-> Users from EU countries must be at least 18 years old to sign up.
-
 We reserve the right to update these Terms of Service later.
+
+> Citizens of EU countries and the United Kingdom must be at least 18 years old to sign up.
 
 * * *
 
