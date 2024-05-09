@@ -10,7 +10,7 @@ At Reddit, we believe that privacy is a right. We want to empower our users to b
 
 We want this privacy policy to empower you to make better choices about how you use Reddit. We'd love for you to read the whole policy, but if you don't, here is the TL;DR:
 
-* [Reddit is a public platform.](#platform)
+* [Reddit is a public platform.](https://support.reddithelp.com/hc/articles/26410290525844)
 
 Reddit is a public platform. Our communities are largely public and anyone can see your profile, posts, and comments.
 
