@@ -58,7 +58,7 @@ Other languages:
 * [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ms "Policy:Terms of Use/ms (2% translated)")
 * [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cy "Policy:Terms of Use/cy (4% translated)")
 * [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Policy:Terms of Use/de (100% translated)")
-* [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-formal "Policy:Terms of Use/de-formal (99% translated)")
+* [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-formal "Policy:Terms of Use/de-formal (100% translated)")
 * English
 * [Esperanto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eo "Policy:Terms of Use/eo (16% translated)")
 * [Fulfulde](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ff "Policy:Terms of Use/ff (5% translated)")
