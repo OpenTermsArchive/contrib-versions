@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last Modified: 2024-01-24
+Last Modified: 2024-05-07
 
 The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
 
@@ -180,7 +180,7 @@ You will find a link to prior versions of our Privacy Policy below. We have stor
 Supplemental Privacy Notice
 ---------------------------
 
-Laws in some US states, including California, Colorado, Connecticut, Utah, and Virginia, require us to provide residents with additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it. This Notice covers that required additional information as a supplement to the information in our privacy policy above.
+Laws in some US states require us to provide residents with additional information about the categories of personal information we collect and share, where we get that personal information, and how and why we use it.
 
 ### Summary of Information We Collect
 
@@ -230,7 +230,7 @@ In some circumstances we may deny your request to exercise one of these rights. 
 
 In the event that we deny your request, we will communicate this fact to you in writing. You may appeal our decision by responding in writing to our denial email and stating that you would like to appeal.
 
-If your appeal is denied, in some US states (Colorado, Connecticut, and Virginia) you may refer the denied appeal to the state attorney general if you believe the denial is in conflict with your legal rights. The process for how to do this will be communicated to you in writing at the same time we send you our decision about your appeal.
+If your appeal is denied, in some US states you may refer the denied appeal to the state attorney general if you believe the denial is in conflict with your legal rights.
 
 Contacting Us About These Rights
 --------------------------------
