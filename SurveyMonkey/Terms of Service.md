@@ -299,7 +299,7 @@ Unless otherwise noted, the Services are provided by, and you are contracting wi
 
 For any Service provided by SurveyMonkey Inc., the following provisions will apply to any terms governing that Service:
 
-* Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Inc., located at 1 Franklin Parkway, Building 910, San Mateo, CA 94403, USA.
+* Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Inc., located at 910 Park Pl, Suite 300, San Mateo, CA 94403, USA.
 * Governing Law. Those terms are governed by the laws of the State of California (without regard to its conflict of laws provisions).
 * Jurisdiction. Except if prohibited by applicable law, each party submits to the exclusive jurisdiction of the state courts and federal courts located in San Francisco County, California with respect to the subject matter of those terms.
 
