@@ -10,7 +10,7 @@ By opening an account with [Sonic.net](https://www.sonic.com/), LLC you agree to
 
 [Sonic.net](https://www.sonic.com/), LLC makes no warranties of any kind, whether express or implied, for the service it is providing. [Sonic.net](https://www.sonic.com/), LLC will not be held responsible for any damage you suffer from use of an account or service provided by [Sonic.net](https://www.sonic.com/), LLC unless otherwise agreed to in writing. This includes- but is not limited to- equipment damage, failure or loss of data resulting from delays, non-deliveries, or service interruptions caused by the company's negligence or your negligence or misuse. Dial-up users: contact your telephone service provider to verify that the [Sonic.net](https://www.sonic.com/), LLC modem dial-up number you intend to use is a local call from your location. You may be subject to additional charges from your telephone service provider, depending on your location and calling plan. [Sonic.net](https://www.sonic.com/), LLC can not be held responsible if long distance or other communications fees are incurred.
 
-**Privacy**
+**Sonic Customer Privacy Policy**
 
 [Sonic.net](https://www.sonic.com/), LLC is committed to preserving the privacy of its customers and protecting their personal data. [Sonic.net](http://sonic.net/) does not actively monitor customer use of the Internet, customer email or other customer communications in the course of its regular operations. [Sonic.net](https://www.sonic.com/) is also strongly opposed to the use of third-party information-harvesting strategies and technologies such as unlawful wiretapping.
 
@@ -146,42 +146,47 @@ If you have any questions regarding privacy, please read our privacy policy: [h
 
 [Sonic.net](https://www.sonic.com/), LLC uses a quota system for controlling customer bandwidth and disk usage. Information and specific details about these quotas can be found [here](https://help.sonic.com/hc/en-us/articles/115000381368-Bandwidth-and-Disk-Quotas "Quotas").
 
-11\. Digital Millennium Copyright Act
+11\. Website Policy
+===================
+
+[Website Policy](https://help.sonic.com/hc/en-us/articles/23381773796887-Website-Policy)
+
+12\. Digital Millennium Copyright Act
 =====================================
 
 [Digital Millennium Copyright Act](https://help.sonic.com/hc/en-us/articles/236029887-Digital-Millennium-Copyright-Act-DMCA-policy)
 
-12\. Billing Policy
+13\. Billing Policy
 ===================
 
 [Billing Policy](https://help.sonic.com/hc/en-us/articles/236010428-Billing-Policy)
 
-13\. Equipment Policy
+14\. Equipment Policy
 =====================
 
 [Equipment Policy](https://help.sonic.com/hc/en-us/articles/236030007-Equipment-Policy)
 
-14\. Sonic Wire Plan
+15\. Sonic Wire Plan
 ====================
 
 [Sonic Wire Plan](https://help.sonic.com/hc/en-us/articles/235967608-Sonic-Wire-Plan)
 
-15\. Legal Process Policy
+16\. Legal Process Policy
 =========================
 
 [Legal Process Policy](https://help.sonic.com/hc/en-us/articles/236030167-Legal-Process-Policy)
 
-16\. Regulatory
+17\. Regulatory
 ===============
 
 **[CA Tariff - Local Exchange Services](https://help.sonic.com/hc/en-us/articles/115000380368-Local-Exchange-Services "SonicTariff.pdf")**
 
-17\. Force Majeure
+18\. Force Majeure
 ==================
 
 If Sonic is unable to deliver service because of any condition arising out of or caused, directly or indirectly, by circumstances beyond its reasonable control, including, without limitation, natural calamities and other acts of God; war, terrorism, sabotage, riot, or other civil or military disturbance; earthquake, fire, flood, hurricane, tornado, lightning, severe weather, or explosion; national or regional emergency; epidemic or pandemic; strike, lockout, labor stoppage or slowdown, or other industrial disturbance; power outage or failure; equipment or computer malfunction or failure; inability to obtain labor, material, equipment or transportation; change to the federal, state or local regulatory environment that make it impossible or commercially infeasible for Sonic, in Sonic’s sole judgment, to continue to deliver service, such as the discontinuance of the obligation of Incumbent Local Exchange Carriers to offer and provide one or more Unbundled Network Elements, the allowance of price increase(s) for one or more Unbundled Network Elements, and/or changes in the terms and conditions under which Unbundled Network Elements are offered and provided; change to the availability, prices, and/or terms and conditions of services or facilities offered or provided by Sonic’s suppliers and used by Sonic to perform its obligations, that make it impossible or commercially infeasible for Sonic, in Sonic’s sole judgment, to continue to perform such obligations; change to or termination of license or lease agreements, encroachment permits, excavation permits, facilities attachment arrangements, and/or other means by which Sonic deploys its facilities and equipment in public and private rights-of-way and easements, that make it impossible or commercially infeasible for Sonic, in Sonic’s sole judgment, to continue to deliver service; or any other event or circumstance not within Sonic’s reasonable control, whether similar or dissimilar to any of the foregoing, then Sonic may cease delivery of service on a day-to-day basis. Sonic will recommence service as soon as possible after the causes are removed or ceased.
 
-18\. Terms and Conditions of Global Calling
+19\. Terms and Conditions of Global Calling
 ===========================================
 
 Sonic’s Global Calling feature is for normal residential use only and can’t be used for commercial or other special purposes. Global Calling is subject to reasonable use parameters as determined by Sonic. Customers are liable for all charges incurred from fraudulent use.
