@@ -1,7 +1,7 @@
 Cloudflare Self-Serve Subscription Agreement
 ============================================
 
-Last Updated May 10, 2023
+Last Updated May 9, 2024
 
 PLEASE READ THE FOLLOWING CAREFULLY AS IT AFFECTS YOUR LEGAL RIGHTS. THIS AGREEMENT CONTAINS PROVISIONS REQUIRING THAT YOU AGREE TO THE USE OF ARBITRATION TO RESOLVE ANY DISPUTES ARISING UNDER THIS AGREEMENT RATHER THAN A JURY TRIAL OR ANY OTHER COURT PROCEEDINGS, AND TO WAIVE YOUR PARTICIPATION IN CLASS ACTION OF ANY KIND AGAINST CLOUDFLARE.
 
@@ -89,7 +89,7 @@ We may offer free or trial versions of the Services (“Free Services”) from t
 
 ### 2.7 Acceptable Use
 
-You agree not to, and not to allow third parties to use the Services to: (a) falsely imply any sponsorship or association with Cloudflare; (b) post, transmit, store or link to any files, materials, data, text, audio, video, images or other content that infringe on any person’s intellectual property rights or that are otherwise unlawful; (c) distribute viruses, worms, time bombs, Trojan horses, or other malicious code, files, scripts, software agents and programs; (d) facilitate phishing, spamming, or other technical abuse; or (e) engage in any activities that are illegal, including disseminating, promoting or facilitating child sexual abuse material or engaging in human trafficking.
+You agree not to, and not to allow third parties to use the Services to: (a) falsely imply any sponsorship or association with Cloudflare; (b) post, transmit, store or link to any files, materials, data, text, audio, video, images or other content that infringe on any person’s intellectual property rights or that are otherwise unlawful; (c) distribute viruses, worms, time bombs, Trojan horses, or other malicious code, files, scripts, software agents and programs; (d) facilitate phishing, spamming, or other technical abuse; or (e) engage in any activities that are illegal, including disseminating, promoting or facilitating child sexual abuse material or engaging in human trafficking. You can find more information on our approach to abuse and reporting practices [here](https://www.cloudflare.com/trust-hub/abuse-approach/).
 
 3\. Third-Party Products and Services
 -------------------------------------
@@ -101,7 +101,7 @@ You may access or use, at your sole discretion, certain third-party products and
 
 ### 4.1 Recurring Billing
 
-In order to access those Services for which we require a fee (“Paid Services”) you will be required to provide Cloudflare with your credit card information (“Payment Method”). By providing a Payment Method you are authorizing us to charge your Payment Method on a monthly, annual, or pay-as-you-go basis, or as otherwise applicable for the fees associated with the Paid Services that you use. Any Payment Method that you provide us must be valid, and kept current by you during the Subscription Term. By providing us with a Payment Method, you represent and warrant that you are authorized to use such Payment Method. Cloudflare will begin billing your Payment Method for the Paid Services on the day that you begin using such Paid Services, regardless of whether you have fully configured the Paid Services as of that date.
+In order to access those Services for which we require a fee (“Paid Services”) you will be required to provide Cloudflare with your credit card information (“Payment Method”). By providing a Payment Method you are authorizing us to charge your Payment Method on a monthly, annual, or pay-as-you-go basis, or as otherwise applicable for the fees associated with the Paid Services that you use. Any Payment Method that you provide us must be valid, and kept current by you during the Subscription Term. By providing us with a Payment Method, you represent and warrant that you are authorized to use such Payment Method. Cloudflare will begin billing your Payment Method for the Paid Services on the day that you begin using such Paid Services, regardless of whether you have fully configured the Paid Services as of that date. For Services subject to usage-based billing, we may initiate a pre-authorization on your credit card for the accrued fees at any point during a billing period. This hold will be removed when the time limit for the hold is up.
 
 ### 4.2 Price Changes
 
@@ -109,11 +109,11 @@ We reserve the right to change the fees that we charge for the Service, at any t
 
 ### 4.3 No Refunds
 
-FEES ARE NONREFUNDABLE. YOU WILL BE BILLED IN FULL FOR THE SUBSCRIPTION TERM IN WHICH YOU CANCEL AND NO REFUNDS WILL BE PROVIDED FOR THE UNUSED PORTION OF SUCH SUBSCRIPTION TERM. Following any cancellation, however, you will continue to have access to the Paid Services through the end of your current Subscription Term. We may, in our sole discretion, provide a refund, discount, or credit (“Credits”) to you in a specific instance, however the provision of Credits in a specific instance does not entitle you to Credits in the future for similar instances or obligate us to provide additional Credits.
+FEES ARE NONREFUNDABLE. YOU WILL BE BILLED IN FULL FOR THE SUBSCRIPTION TERM IN WHICH YOU CANCEL AND NO REFUNDS WILL BE PROVIDED FOR THE UNUSED PORTION OF SUCH SUBSCRIPTION TERM. Following any cancellation, however, you will continue to have access to the Paid Services through the end of your current Subscription Term (except with respect to Services subject to usage-based billing). We may, in our sole discretion, provide a refund, discount, or credit (“Credits”) to you in a specific instance, however the provision of Credits in a specific instance does not entitle you to Credits in the future for similar instances or obligate us to provide additional Credits.
 
 ### 4.4 Taxes
 
-Unless otherwise stated, our charges do not include any taxes, levies, duties or similar governmental assessments, including value-added, sales, use or withholding taxes assessable by any local, state, provincial or foreign jurisdiction (collectively “Taxes”). You are responsible for paying Taxes, except those assessable against Cloudflare as measured by our net income. Unless you provide us with evidence of an exemption, we will invoice you for such Taxes if we believe we have a legal obligation to do so and you agree to pay such Taxes if so invoiced.
+Unless otherwise stated, our charges do not include any taxes, levies, duties or similar governmental assessments, including value-added, sales, use or withholding taxes accessible by any local, state, provincial or foreign jurisdiction (collectively “Taxes”). You are responsible for paying Taxes, except those assessable against Cloudflare as measured by our net income. Unless you provide us with evidence of an exemption, we will invoice you for such Taxes if we believe we have a legal obligation to do so and you agree to pay such Taxes if so invoiced.
 
 5\. Beta Services
 -----------------
@@ -145,7 +145,7 @@ If you are an agency, department or entity of the United States Government (“G
 8\. Termination of Use; Discontinuation and Modification of the Service
 -----------------------------------------------------------------------
 
-You will lose your license to use the Service if you violate any provision of this Agreement. Cloudflare reserves the right to investigate violations of this Agreement. We reserve the right to disable or limit your access to or use of the Service ("Suspend") or terminate your user account upon receiving any number of DMCA notifications from content owners regarding your website(s), or upon learning through other means that you are a repeat infringer. We may at our sole discretion terminate your user account or Suspend or terminate your use or access to the Service at any time, with or without notice for any reason or no reason at all. If we determine you have breached Section 2.2, we may immediately Suspend or terminate all or part of your use of the Services, or limit End User access to certain of your resources through the Services. We also reserve the right to modify or discontinue the Service at any time (including, without limitation, by limiting or discontinuing certain features of the Service) without notice to you. We will have no liability whatsoever on account of any change to the Service or any suspension or termination of your access to or use of the Service. You may terminate your account at any time through the Service’s account dashboard.
+You will lose your license to use the Service if you violate any provision of this Agreement. Cloudflare reserves the right to investigate violations of this Agreement. We reserve the right to disable or limit your access to or use of the Service ("Suspend") or terminate your user account upon receiving any number of DMCA notifications from content owners regarding your website(s), or upon learning through other means that you are a repeat infringer. We may at our sole discretion terminate your user account or Suspend or terminate your use or access to the Service at any time, with or without notice for any reason or no reason at all. If we determine you have breached Section 2.2 or 2.7, we may immediately Suspend or terminate all or part of your use of the Services, or limit End User access to certain of your resources through the Services. We also reserve the right to modify or discontinue the Service at any time (including, without limitation, by limiting or discontinuing certain features of the Service) without notice to you. We will have no liability whatsoever on account of any change to the Service or any suspension or termination of your access to or use of the Service. You may terminate your account at any time through the Service’s account dashboard.
 
 9\. Ownership; Proprietary Rights
 ---------------------------------
