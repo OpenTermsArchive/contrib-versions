@@ -332,6 +332,7 @@ The open source software platform that runs everywhere from the smartphone, the 
     * [Ceph](https://ubuntu.com/ceph/managed)
     * [Apps](https://ubuntu.com/managed/apps)
     * [Observability](https://ubuntu.com/observability/managed)
+    * [Firefighting](https://ubuntu.com/managed/firefighting-support)
 
 * [Canonical Kubernetes](https://ubuntu.com/kubernetes) [Canonical Kubernetes](#)
     -------------------------------------------------------------------------------
