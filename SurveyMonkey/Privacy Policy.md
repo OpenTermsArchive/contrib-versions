@@ -531,7 +531,7 @@ For SurveyMonkey Apply users please see [information on how to exercise your rig
 Except as explicitly provided herein, please use the following contact information for privacy inquiries
 
 SurveyMonkey Inc.  
-1 Franklin Parkway, Building 910,  
+910 Park Pl, Suite 300  
 San Mateo, California 94403  
 United States  
 Or contact us [here](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest).
