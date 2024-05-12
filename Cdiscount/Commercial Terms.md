@@ -425,7 +425,7 @@ _\-         Livraison Eco (livraison devant chez vous)_ : la livraison �
 
 Pour ce mode de livraison, une pièce d'identité vous sera demandée. En cas de reprise de votre ancien appareil, le produit devra être mis à disposition à ce même endroit.
 
-L’acheminement du colis jusqu'à l’intérieur de votre domicile reste à votre charge et sous votre responsabilité. Nous vous invitons à bien mesurer les différents accès pour accueillir votre (vos) colis.
+L’acheminement du colis jusqu’à l’intérieur de votre domicile reste à votre charge et sous votre responsabilité. Nous vous invitons à bien mesurer les différents accès pour accueillir votre (vos) colis.
 
 Le déballage du colis et le traitement des emballages restent à votre charge.
 
@@ -659,7 +659,7 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 — Adresse du (des) consommateur(s) …………………………………………………………………………………………………...... ........ …………………………………………………………………………………………………… …………………………………………………….  
 — Signature du (des) consommateur(s) (uniquement en cas de notification du présent formulaire sur papier)
 
-— Date……………………………
+— Date…………………é………
 
 (\*) Rayez la mention inutile
 
