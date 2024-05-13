@@ -64,7 +64,7 @@ The contract is concluded with New Work SE, Am Strandkai 1, 20457 Hamburg, Germa
 
 **2.3** The user warrants and represents that all of the data they provide is accurate and complete. The user is obliged to ensure that the data for all of the applications they use is accurate and complete for the entire duration of the agreement. In the event that the New Work SE customer service team makes any manual changes to the user’s data on the user’s behalf, New Work SE reserves the right to bill the user for any costs they incur in connection with said changes, insofar as the user is responsible for the event that triggers these costs.
 
-**2.4** The user warrants that they are over the age of 16. In the event that the user acts on behalf of a legal person for certain applications, the user warrants that they are of legal age and authorised to act in the name of the legal person. Upon request, the user shall submit proof thereof.
+**2.4** The user warrants that they are aged 16 or over. In the event that the user acts on behalf of a legal person for certain applications, the user warrants that they are of legal age and authorised to act in the name of the legal person. Upon request, the user shall submit proof thereof.
 
 **2.5** It is technically impossible for New Work SE to determine with certainty whether any user registered on the XING Websites is in fact the person they claim to be. Therefore, New Work SE assumes no liability for the actual identity of a user.
 
