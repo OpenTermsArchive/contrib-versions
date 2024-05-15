@@ -198,7 +198,6 @@ Business
 * [### Cloud Search](https://support.google.com/cloudsearch?hl=en-GB)
 * [### Google Pay for Online Business](https://support.google.com/pay/business?hl=en-GB)
 * [### Work Insights](https://support.google.com/workinsights?hl=en-GB)
-* [### gdc-infrastructure-quality-commissioning-ehs](https://support.google.com/gdc-infrastructure-quality-commissioning-ehs?hl=en-GB)
 * [### Android Enterprise](https://support.google.com/work/android?hl=en-GB)
 * [### Google Business Profile](https://support.google.com/business?hl=en-GB)
 * [### Campaign Manager 360](https://support.google.com/campaignmanager?hl=en-GB)
