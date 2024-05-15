@@ -10,11 +10,11 @@ Website Terms of Use[](#website-terms-of-use)
 
 These Website Terms of Use (the “Agreement”) govern all use of the GitLab.com website, or other website(s) owned and operated by GitLab (the “Website”). The Website is offered subject to your acceptance, without modification, to the terms and conditions contained herein as updated subject to this Agreement. For the avoidance of doubt, this Agreement does not control or govern your use of the GitLab products and services. Please visit the [GitLab Terms Page](https://about.gitlab.com/terms/) to see the applicable agreement(s) related to your use of GitLab products and services.
 
-### 1\. Website Eligibility.[](#1-website-eligibility)
+### 1\. Website Eligibility[](#1-website-eligibility)
 
 **1.1.** The Website, and Content (as defined herein) provided on the Website by GitLab, is provided only to entities and persons over the age of 13.
 
-### 2\. License and Ownership.[](#2-license-and-ownership)
+### 2\. License and Ownership[](#2-license-and-ownership)
 
 **2.1.** GitLab grants to you a limited, personal, non-transferable, non-sublicensable, revocable license to access and use the Website, including Content provided within the Website, in the manner presented by GitLab.
 
@@ -22,7 +22,7 @@ These Website Terms of Use (the “Agreement”) govern all use of the GitLab.co
 
 **2.3.** GIT is a trademark of Software Freedom Conservancy and our use of “GitLab” is under license. Other trademarks, service marks, graphics and logos used in connection with the Website may be the trademarks of other third parties. Your use of the Website grants you no right or license to reproduce or otherwise use any GitLab or third-party trademarks.
 
-### 3\. Responsibility of Website Visitors.[](#3-responsibility-of-website-visitors)
+### 3\. Responsibility of Website Visitors[](#3-responsibility-of-website-visitors)
 
 **3.1.** GitLab has not reviewed, and cannot review, all of the materials, website links (including to third party websites) and content posted on the Website (collectively referred to as the “Content”). Therefore, GitLab cannot and will not be responsible for the Content or their effect(s). By operating the Website, GitLab does not represent or imply that it endorses the Content provided or that it believes such Content to be accurate, useful or non-harmful. You are responsible for taking precautions as necessary to protect yourself and your computer systems from viruses, worms, Trojan horses, and other harmful or destructive Content. GitLab disclaims any responsibility for any harm resulting from the use by visitors of the Website, or from any downloading by those visitors of Content posted on the Website. The Website is provided “AS IS” and GitLab and its affiliates, suppliers and licensors hereby disclaim all warranties of any kind, express or implied, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither GitLab nor its suppliers or licensors, makes any warranty that the Website will be error free or that access thereto will be continuous or uninterrupted.
 
