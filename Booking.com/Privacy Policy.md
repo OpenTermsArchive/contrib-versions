@@ -202,25 +202,25 @@ We use the information collected about you for a variety of purposes. Your perso
     
 5. Marketing activities: We use your information for marketing activities. These activities include:
     
-    1. Using your contact information to send you regular news about travel-related products and services. You can unsubscribe from email marketing communications quickly, easily and at any time. All you need to do is click on the ‘Unsubscribe’ link included in each newsletter or other communication, or manage your preferences via your account settings.
+    1. Using your contact information and (collected via cookies and similar tracking technologies) your interaction with the Booking.com platform to send you personalised marketing messages (for example via push notifications or email) from Booking.com, including promotions, search assistant messages, Genius and other rewards, travel experiences, surveys and updates about Booking.com’s products and services. You can unsubscribe from receiving email marketing communications quickly, easily and at any time. All you need to do is click on the ‘Unsubscribe’ link included in each newsletter or other communication, or manage your preferences via your account settings.
         
-    2. Based on your information, individualised offers might be shown to you on the Booking.com website, in mobile apps or on third-party websites/apps (including social media sites) and the content of the site displayed to you might be personalised. These could be offers that you can book directly on the Booking.com website, on co-branded sites, or other third-party offers or products we think you might find interesting.
+    2. Based on your interaction on the Booking.com platform (collected via cookies and similar tracking technologies), personalised marketing from Booking.com including promotions, search assistant messages, Genius and other rewards, travel experiences, surveys and updates about Booking.com’s products and services might be shown to you on the Booking.com website, on mobile apps, or on third-party websites/apps (including social media sites), and the content of the site displayed to you might be personalised. These could be offers and recommendations we think you might find interesting that you can book directly on the Booking.com platform, on co-branded sites, or on other third-party sites.
         
     3. When you participate in other promotional activities (such as sweepstakes, referral programmes or competitions), only relevant information will be used to administer these promotions.
         
-6. Communicating with you: There might be other times when we get in touch, including by email, by chatbot, by post, by phone or by texting you. Which method we choose depends on the contact information you’ve previously shared.
+6. Communicating with you: There might be times when we get in touch, including by email, by push notification, by chatbot, by post, by phone, or by text and/or process communications you send to us.
     
-    We process the communications you send to us. There could be a number of reasons for this, including:
+    There could be a number of reasons for this, including:
     
     1. Responding to and handling any requests you or your booked Trip Provider have made. Booking.com also offers customers and Trip Providers various ways to exchange information, requests and comments about Trip Providers and existing Trip Reservations via Booking.com. For more information, read the section titled [‘How does Booking.com process communications that you and your Trip Provider send through Booking.com?’](https://www.booking.com/content/privacy.en-gb.html#communications-trip-provider-processed-how).
         
-    2. If you have started but not finished a Trip Reservation online, we might contact you to invite you to continue with your reservation. We believe that this additional service benefits you as it allows you to pick up the process where you left off without having to search for a Trip Provider or fill in your reservation details again.
+    2. If you have started but not finished a Trip search or Reservation online, we might contact you to invite you to continue with your search or reservation. We believe that this additional service benefits you as it allows you to pick up the process where you left off without having to search for a Trip Provider or fill in your reservation details again.
         
-    3. When you use our services, we might send you a questionnaire or invite you to provide a review about your experience with Booking.com or the Trip Provider.
+    3. When you use our products and services, we might send you a questionnaire or invite you to provide a review about your experience with Booking.com or the Trip Provider.
         
     4. We also send you other material related to your Trip Reservations, such as how to contact Booking.com if you need assistance while you’re away, and information that we feel might be useful to you in planning or getting the best out of your Trip. We might also send you material related to upcoming Trip Reservations or a summary of previous Trip Reservations you made through Booking.com.
         
-    5. Even if you don’t have an upcoming Trip Reservation, we may still need to send you other administrative messages, which could include security alerts.
+    5. Even if you don’t have an upcoming Trip Reservation, we may still need to send you administrative messages, which could include security alerts.
         
     6. In case of misconduct, we may send you a notice and/or warning.
         
@@ -263,9 +263,9 @@ If the required personal data is not provided, Booking.com cannot finalise the T
 
 When using personal data to serve Booking.com’s or a third party's legitimate interest, Booking.com will always balance your rights and interests in the protection of your personal data against Booking.com’s rights and interests or those of the third party. For purposes M, Booking.com also relies, where applicable, on compliance with legal obligations (such as lawful law enforcement requests).
 
-Finally, where needed under applicable law, Booking.com will obtain your consent prior to processing your personal data, including for email marketing purposes or as otherwise required by law.
+Finally, where needed under applicable law, Booking.com will obtain your consent (or as otherwise required by law) prior to processing your personal data, including for cookies and similar tracking technologies and marketing messaging purposes.
 
-If you wish to object to the processing set out under C to L and no opt-out mechanism is available to you directly (for example, in your account settings), please contact us at [dataprotectionoffice@booking.com](mailto:dataprotectionoffice@booking.com).
+If you wish to object to the processing set out under C to L and no opt-out mechanism is available to you directly (for example, in marketing emails or your account settings), please contact us at [dataprotectionoffice@booking.com](mailto:dataprotectionoffice@booking.com) or go to the [form](https://www.booking.com/content/dsar.en-gb.html?aid=304142).
 
 * * *
 
