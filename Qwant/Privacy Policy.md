@@ -336,3 +336,8 @@ Qwant does its utmost to preserve your privacy during your searches, but you can
 We also advise you to use the Qwant application for your browsing or another browser that does not keep your browsing history and does not analyze it for advertising purposes.
 
 * Mise à jour : 05/12/2023
+
+* [Privacy policy](https://about.qwant.com/en/legal/confidentialite/)
+* [Terms of use](https://about.qwant.com/en/legal/qwant-search/)
+* [Legal notices](https://about.qwant.com/en/legal/mentions-legales/)
+* [Ranking](https://about.qwant.com/en/legal/classement/)
