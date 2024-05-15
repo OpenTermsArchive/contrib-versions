@@ -38,7 +38,7 @@ This Privacy Policy covers how we treat Personal Data that we gather when you ac
 
 This list details the categories of Personal Data that we collect and have collected over the past 12 months:
 
-#### **Profile or Contact Data**
+#### [**Profile or Contact Data**](#profile-or-contact-data)
 
 * _Examples of Personal Data We Collect_
     * First and last name
@@ -50,7 +50,7 @@ This list details the categories of Personal Data that we collect and have colle
     * Service Providers
     * Parties You Authorize, Access or Authenticate
 
-#### **Payment Data**
+#### [**Payment Data**](#payment-data)
 
 * _Examples of Personal Data We Collect_
     * Payment card type
@@ -59,7 +59,7 @@ This list details the categories of Personal Data that we collect and have colle
 * _Categories of Third Parties With Whom We Share this Personal Data_
     * Service Providers (specifically our payment processing partner)
 
-#### **Device/IP Data**
+#### [**Device/IP Data**](#deviceip-data)
 
 * _Examples of Personal Data We Collect_
     * IP address
@@ -70,7 +70,7 @@ This list details the categories of Personal Data that we collect and have colle
     * Service Providers
     * Parties You Authorize, Access or Authenticate
 
-#### **Web Analytics**
+#### [**Web Analytics**](#web-analytics)
 
 * _Examples of Personal Data We Collect_
     * Web page interactions
@@ -81,7 +81,7 @@ This list details the categories of Personal Data that we collect and have colle
     * Service Providers
     * Parties You Authorize, Access or Authenticate
 
-#### **Social Network Data**
+#### [**Social Network Data**](#social-network-data)
 
 * _Examples of Personal Data We Collect_
     * Email
@@ -93,7 +93,7 @@ This list details the categories of Personal Data that we collect and have colle
     * Service Providers
     * Parties You Authorize, Access or Authenticate
 
-#### **Other Identifying Information that You Voluntarily Choose to Provide**
+#### [**Other Identifying Information that You Voluntarily Choose to Provide**](#other-identifying-information-that-you-voluntarily-choose-to-provide)
 
 * _Examples of Personal Data We Collect_
     * Identifying information in emails or letters you send us
@@ -170,15 +170,15 @@ We disclose your Personal Data to the categories of service providers and other 
     * Other users.  
         
 
-#### _Legal Obligations_
+#### [_Legal Obligations_](#legal-obligations)
 
 We may share any Personal Data that we collect with third parties in conjunction with any of the activities set forth under “Meeting Legal Requirements and Enforcing Legal Terms” in the “Our Commercial or Business Purposes for Collecting Personal Data” section above.
 
-#### _Business Transfers_
+#### [_Business Transfers_](#business-transfers)
 
 All of your Personal Data that we collect may be transferred to a third party if we undergo a merger, acquisition, bankruptcy or other transaction in which that third party assumes control of our business (in whole or in part). Should one of these events occur, we will make reasonable efforts to notify you before your information becomes subject to different privacy and security policies and practices.
 
-#### _Data that is Not Personal Data_
+#### [_Data that is Not Personal Data_](#data-that-is-not-personal-data)
 
 We may create aggregated, de-identified or anonymized data from the Personal Data we collect, including by removing information that makes the data personally identifiable to a particular user. We may use such aggregated, de-identified or anonymized data and share it with third parties for our lawful business purposes, including to analyze, build and improve the Services and promote our business, provided that we will not share such data in a manner that could identify you.
 
@@ -212,18 +212,18 @@ As noted in the [Terms of Use](https://linear.app/terms), we do not knowingly co
 [**State Law Privacy Rights**](#state-law-privacy-rights)
 ---------------------------------------------------------
 
-#### _California Resident Rights_
+#### [_California Resident Rights_](#california-resident-rights)
 
 Under California Civil Code Sections 1798.83-1798.84, California residents are entitled to contact us to prevent disclosure of Personal Data to third parties for such third parties’ direct marketing purposes; in order to submit such a request, please contact us at hello@linear.app.
 
-#### _Nevada Resident Rights_
+#### [_Nevada Resident Rights_](#nevada-resident-rights)
 
 If you are a resident of Nevada, you have the right to opt-out of the sale of certain Personal Data to third parties who intend to license or sell that Personal Data. You can exercise this right by contacting us at hello@linear.app with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account.
 
 [**European Union Data Subject Rights**](#european-union-data-subject-rights)
 -----------------------------------------------------------------------------
 
-#### _EU Residents_
+#### [_EU Residents_](#eu-residents)
 
 If you are a resident of the European Union (“EU”), United Kingdom, Lichtenstein, Norway or Iceland, you may have additional rights under the EU General Data Protection Regulation (the “GDPR”) with respect to your Personal Data, as outlined below.
 
@@ -231,11 +231,11 @@ For this section, we use the terms “Personal Data” and “processing” as t
 
 If there are any conflicts between this section and any other provision of this Privacy Policy, the policy or portion that is more protective of Personal Data shall control to the extent of such conflict. If you have any questions about this section or whether any of the following applies to you, please contact us at hello@linear.app. Note that we may also process Personal Data of our customers’ end users or employees in connection with our provision of certain services to customers, in which case we are the processor of Personal Data. If we are the processor of your Personal Data (i.e., not the controller), please contact the controller party in the first instance to address your rights with respect to such data.
 
-#### _Personal Data We Collect_
+#### [_Personal Data We Collect_](#personal-data-we-collect)
 
 The “Categories of Personal Data We Collect” section above details the Personal Data that we collect from you.
 
-#### _Personal Data Use and Processing Grounds_
+#### [_Personal Data Use and Processing Grounds_](#personal-data-use-and-processing-grounds)
 
 The “Our Commercial or Business Purposes for Collecting Personal Data” section above explains how we use your Personal Data.
 
@@ -257,11 +257,11 @@ We will only process your Personal Data if we have a lawful basis for doing so. 
 * Consent:  In some cases, we process Personal Data based on the consent you expressly grant to us at the time we collect such data. When we process Personal Data based on your consent, it will be expressly indicated to you at the point and time of collection.
 * Other Processing Grounds:  From time to time we may also need to process Personal Data to comply with a legal obligation, if it is necessary to protect the vital interests of you or other data subjects, or if it is necessary for a task carried out in the public interest.
 
-#### _Sharing Personal Data_
+#### [_Sharing Personal Data_](#sharing-personal-data)
 
 The “How We Share Your Personal Data” section above details how we share your Personal Data with third parties.
 
-#### _EU Data Subject Rights_
+#### [_EU Data Subject Rights_](#eu-data-subject-rights)
 
 You have certain rights with respect to your Personal Data, including those set forth below. For more information about these rights, or to submit a request, please email us at hello@linear.app.
 
@@ -276,7 +276,7 @@ Please note that in some circumstances, we may not be able to fully comply with 
 * **Restriction of Processing**:  You can ask us to restrict further processing of your Personal Data.
 * **Right to File Complaint**:  You have the right to lodge a complaint about Linear's practices with respect to your Personal Data with the supervisory authority of your country or EU Member State. A list of Supervisory Authorities is available here: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en).
 
-#### _Transfers of Personal Data_
+#### [_Transfers of Personal Data_](#transfers-of-personal-data)
 
 The Services are hosted and operated in the United States (“U.S.”) through Linear and its service providers, and if you do not reside in the U.S., laws in the U.S. may differ from the laws where you reside. By using the Services, you acknowledge that any Personal Data about you, regardless of whether provided by you or obtained from a third party, is being provided to Linear in the U.S. and will be hosted on U.S. servers, and you authorize Linear to transfer, store and process your information to and in the U.S., and possibly other countries.  You hereby consent to the transfer of your data to the U.S. pursuant to: (i) a data processing agreement incorporating standard data protection clauses promulgated by the European Commission, a copy of which can be obtained at https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=celex%3A32010D0087, (ii) binding corporate rules for data protection that align with the GDPR’s requirements, or (iii) adherence to an industry- or technology-specific approved code of conduct blessed by the European Commission.
 
