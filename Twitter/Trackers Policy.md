@@ -67,7 +67,7 @@ Cookies, pixels, and local storage work to operate and support our business, and
 
 * Improve and understand how people use our services, including buttons and widgets.
 * Optimize your experience by understanding how you interact with our services, like when and how often you use them and what links you visit, and from where. (We may use [Google Analytics](https://developers.google.com/analytics/devguides/collection/analyticsjs/cookie-usage) to help us with this.) 
-* Count the number of people who have seen a particular post, embedded posts, buttons, or timeline. [Learn more](https://developer.twitter.com/en/docs/twitter-for-websites/privacy).
+* Count the number of people who have seen a particular post, embedded posts, buttons, or timeline. [Learn more](https://developer.x.com/en/docs/twitter-for-websites/privacy).
 
 **Research and development**
 
