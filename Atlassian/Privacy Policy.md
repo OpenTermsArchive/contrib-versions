@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Effective starting: April 1, 2024_ ([view archived versions](https://www.atlassian.com/legal/archives))
+_Effective starting: May 17, 2024_ ([view archived versions](https://www.atlassian.com/legal/archives))
 
 What this policy covers
 -----------------------
@@ -190,7 +190,7 @@ Depending on which jurisdiction you live in, you may have the right to request i
 
 Your request and choices may be limited in certain cases: for example, if fulfilling your request would reveal information about another person, or if you ask to delete information which we or your administrator are permitted by law or have compelling legitimate interests to keep.  Where you have asked us to disclose data to third parties, for example, by installing third-party apps, you will need to contact those third-party service providers directly to have your information deleted or otherwise restricted.  If you have unresolved concerns, you may have the right to complain to a data protection authority in the country where you live, where you work or where you feel your rights were infringed. Where applicable under local law, you may also contact us as provided in the “Contact Us” section below to appeal any decision we make relating to your request to exercise your rights.
 
-_**Access and update your information**_: Our Services and related documentation (see [Atlassian Documentation](https://support.atlassian.com/atlassian-account/docs/update-your-profile-and-visibility-settings/), [Trello Help](https://support.atlassian.com/trello/docs/my-trello-account/), and [Loom Documentation](https://www.loom.com/account-settings)) give you the ability to access and update certain information about you from within the Service. For example, you can access your profile information from your account and search for content containing information about you using key word searches in the Service.  You can update your profile information within your profile settings and modify content that contains information about you using the editing tools associated with that content.
+_**Access and update your information**_: Our Services and related documentation (see [Atlassian Documentation](https://support.atlassian.com/atlassian-account/docs/update-your-profile-and-visibility-settings/), [Trello Help](https://support.atlassian.com/trello/docs/my-trello-account/), and [Loom Documentation](https://support.loom.com/hc/en-us/articles/360003473338-How-to-edit-your-personal-account-settings)) give you the ability to access and update certain information about you from within the Service. For example, you can access your profile information from your account and search for content containing information about you using key word searches in the Service.  You can update your profile information within your profile settings and modify content that contains information about you using the editing tools associated with that content.
 
 _**Deactivate your account**_:   If you no longer wish to use our Services, you or your administrator may be able to deactivate your Services account. If you can deactivate your own account, that setting is available to you in your account settings. Otherwise, please contact your administrator. If you are an administrator and are unable to deactivate an account through your administrator settings, please contact the appropriate support team through [Atlassian](https://support.atlassian.com/)’s support pages.  Please be aware that deactivating your account does not delete your information; your information remains visible to other Service users based on your past participation within the Services.  For more information on how to delete your information, see below.  
 
@@ -225,14 +225,9 @@ _**International transfers to third parties**_: Some of the third parties descri
 
 On July 10, 2023, the European Commission’s adequacy decision for the EU-U.S. Data Privacy Framework (EU-U.S. DPF) entered into force.
 
-  
-Atlassian, Inc. and its U.S. subsidiaries (Atlassian Network Service, Inc., Dogwood Labs, Inc., AgileCraft LLC, Loom, Inc., Opsgenie, Inc., and Trello, Inc.) adhere to the Data Privacy Framework Principles regarding the collection, use, and retention of personal data that is transferred from the European Union and Switzerland to the U.S. 
+Atlassian, Inc. and its U.S. subsidiaries (Atlassian Network Service, Inc., Dogwood Labs, Inc., AgileCraft LLC, Halp, Inc., Loom, Inc., Opsgenie, Inc., and Trello, Inc.) adhere to the Data Privacy Framework Principles regarding the collection, use, and retention of personal data that is transferred from the European Union and Switzerland to the U.S. 
 
-Atlassian, Inc. has self-certified its commitment to comply with the EU-U.S. DPF Principles and relies on the European Commission’s adequacy decision for the EU-U.S. DPF to receive personal data transfers from the European Union/European Economic Area.
-
-Atlassian, Inc. has self-certified its commitment to comply with the UK Extension to the EU-U.S. DPF, and relies on the UK Extension to the EU-U.S. DPF to receive personal data transfers from the United Kingdom (and Gibraltar).
-
-To view Atlassian’s certifications, please visit [this page](http://www.dataprivacyframework.gov/) and search for ”Atlassian” and “Loom”.
+Atlassian complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Atlassian has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.  Atlassian has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the DPF Principles shall govern. To learn more about the Data Privacy Framework Program, please visit the Data Privacy Framework Program website [here](https://www.dataprivacyframework.gov/). To view Atlassian’s certifications, search for “Atlassian” in the Data Privacy Framework List.
 
 As required under the principles, when we receive information under the Data Privacy Framework and then transfer it to a third-party service provider acting as an agent on our behalf, we have certain liability under the Data Privacy Framework if the agent processes the information in a manner inconsistent with the Data Privacy Framework and we are responsible for the event giving rise to the damage.
 
@@ -344,6 +339,10 @@ E-Mail: [ukrepresentative@atlassian.com](mailto:ukrepresentative@atlassian.com)
 
 Key Changes
 -----------
+
+**Effective May 17, 2024**
+
+We have updated the section Data Privacy Framework Notice as part of our Data Privacy Framework certification.
 
 **Effective April 1, 2024**
 
