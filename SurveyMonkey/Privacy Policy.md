@@ -537,11 +537,10 @@ United States
 Or contact us [here](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest).
 
 SurveyMonkey Europe UC  
-2 Shelbourne Buildings,  
-Second Floor,  
-Shelbourne Rd  
-Ballsbridge,  
-Dublin 4,  
+Ella House, Suite 40.4  
+40 Merrion Square East  
+Dublin 2  
+D02 NP96  
 Ireland  
 Or contact us [here](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest).
 
