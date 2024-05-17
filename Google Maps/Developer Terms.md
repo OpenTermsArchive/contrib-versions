@@ -233,7 +233,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     7. **Belgium**
         * GeoBolivia (BO): [https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859](https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859)
             
-        * Transport Data Belgium: [https://www.transportdata.be/dataset/tn-its](https://www.transportdata.be/dataset/tn-its)
+        * Transport Data Belgium: [https://data.vlaanderen.be/doc/licentie/modellicentie-gratis-hergebruik/v1.0](https://data.vlaanderen.be/doc/licentie/modellicentie-gratis-hergebruik/v1.0)
             
     8. **Brazil**
         * FUNAI (Fundação Nacional do Índio)
@@ -1105,6 +1105,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open Data Schleswig Holstein: [https://opendata.schleswig-holstein.de/dataset/baustellen-schleswig-holstein](https://opendata.schleswig-holstein.de/dataset/baustellen-schleswig-holstein)
             
+        * Mobilithek: [https://mobilithek.info/offers/110000000002521000](https://mobilithek.info/offers/110000000002521000)
+            
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
@@ -1375,6 +1377,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Roma Servizi per la Mobilità: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
         * Open Data Comune di Milano [https://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/)
         * Roma Servizi per la Mobilità: [https://romamobilita.it/it/tecnologie/dataset-geografici](https://romamobilita.it/it/tecnologie/dataset-geografici)
+        * Open Data Comune di Genova: [https://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations](https://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations)
     34. **Ivory Cost (Côte d'Ivoire)**
         
         OCHA Côte d'Ivoire ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
@@ -1819,6 +1822,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open Data Navarra, ES: [https://datosabiertos.navarra.es/dataset/sig-de-movilidad-ciclista-sigmc-de-navarra](https://datosabiertos.navarra.es/dataset/sig-de-movilidad-ciclista-sigmc-de-navarra)
             
+        * Callejero de Andalucia ES: [https://www.callejerodeandalucia.es/portal/aviso-legal](https://www.callejerodeandalucia.es/portal/aviso-legal)
+            
     58. **Sweden**
         * © 2009 Cartesia GIS AB
             
@@ -1916,6 +1921,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Kaohsiung City Government Open Data: [https://data.kcg.gov.tw/dataset/113-kh-address](https://data.kcg.gov.tw/dataset/113-kh-address)
             
         * data.tainan.gov.tw: [https://data.tainan.gov.tw/specification](https://data.tainan.gov.tw/specification)
+            
+        * Taiwan Map Service: [https://maps.nlsc.gov.tw/MbIndex\_qryPage.action?fun=4&language=EN#](https://maps.nlsc.gov.tw/MbIndex_qryPage.action?fun=4&language=EN#)
             
     62. **Timor-Leste**
         
@@ -2394,6 +2401,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         224. Open Data DC: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        225. San Jose CA Open Data Portal: [https://data.sanjoseca.gov/dataset/road-closures](https://data.sanjoseca.gov/dataset/road-closures)
+            
     68. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
     69. **United Arab Emirates / Abu Dhabi**
@@ -2623,7 +2632,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Pacific Data Hub (WF): [https://pacificdata.org/](https://pacificdata.org/)
             
     108. **Cyprus**
-        * Open Data Cyprus (CY): [https://www.data.gov.cy/](https://www.data.gov.cy/)
+        * Open Data Cyprus (CY): [https://www.data.gov.cy/el/dataset/dieythynseis-addresses-inspire](https://www.data.gov.cy/el/dataset/dieythynseis-addresses-inspire)
             
         * The National Access Point (NAP) of Cyprus: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
