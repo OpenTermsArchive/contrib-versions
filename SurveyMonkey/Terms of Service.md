@@ -307,7 +307,7 @@ For any Service provided by SurveyMonkey Inc., the following provisions will app
 
 For any Service provided by SurveyMonkey Europe UC, the following provisions will apply to any terms governing that Service:
 
-* Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Europe UC, located at 2 Shelbourne Buildings, Second Floor, Shelbourne Road, Dublin 4, Ireland.
+* Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Europe UC, located at Ella House, Suite 40.4, 40 Merrion Square East, Dublin 2, D02 NP96, Ireland.
 * Governing Law. Those terms are governed by the laws of Ireland (without regard to its conflicts of laws provisions).
 * Jurisdiction. Except if prohibited by applicable law, in relation to any legal action or proceedings to enforce those terms or arising out of or in connection with those terms, each party irrevocably submits to the exclusive jurisdiction of the courts of Ireland.
 
