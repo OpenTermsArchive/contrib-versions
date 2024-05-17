@@ -80,7 +80,7 @@ Depending on where you live and the local laws, you may have certain rights rega
 * Withdraw consent you have given at any time
 * Lodge a complaint with your local data protection authority
 
-If you would like to exercise your rights, please contact us at [privacy@quora.com](# "mailto:privacy@quora.com") or complete this [form](# "help.quora.com"). You will need access to the email account associated with your Quora account in order to verify your identity and complete this process. You may update your account information anytime by adjusting the settings in your Quora account.Where applicable, you may also contact us using the contact details above to appeal any decision we make relating to your request to exercise your rights.
+If you would like to exercise your rights, please contact us at [privacy@quora.com](mailto:privacy@quora.com "mailto:privacy@quora.com") or complete this [form](https://help.quora.com/hc/en-us/requests/new "help.quora.com"). You will need access to the email account associated with your Quora account in order to verify your identity and complete this process. You may update your account information anytime by adjusting the settings in your Quora account.Where applicable, you may also contact us using the contact details above to appeal any decision we make relating to your request to exercise your rights.
 
 Your Choices and Settings
 
@@ -142,7 +142,7 @@ California consumers have the right to make the following requests:
 * Designated Agent. You may designate an agent to make a request on your behalf. That agent must have access to your Quora account for us to verify the request. The agent must also provide proof that you gave the agent signed permission to submit the request on your behalf.
 * Opt out of having your personal information shared for targeted advertising. You can exercise this right by visiting the “Your Privacy Choices” link on our site.
 
-You may exercise your CCPA rights through the online form [here](https://quora.com/contact "quora.com") or by emailing us at [privacy@quora.com](# "mailto:privacy@quora.com"). You will need access to the email account associated with your Quora account in order to verify your identity and complete this process. Because we only collect limited data about individuals without an account, we are unable to verify requests from non-account holders to the standard required by the CCPA.
+You may exercise your CCPA rights through the online form [here](https://quora.com/contact "quora.com") or by emailing us at [privacy@quora.com](mailto:privacy@quora.com "mailto:privacy@quora.com"). You will need access to the email account associated with your Quora account in order to verify your identity and complete this process. Because we only collect limited data about individuals without an account, we are unable to verify requests from non-account holders to the standard required by the CCPA.
 
 Non-Discrimination. Quora will not discriminate against you, including by denying or providing a different level or quality of services if you choose to exercise your privacy rights.
 
@@ -154,7 +154,7 @@ Poe is a platform that lets people ask questions, get instant answers, and have 
 
 Contact Us
 
-If you have any questions about our practices or this Privacy Policy, please contact our Data Protection Officer at [privacy@quora.com](# "mailto:privacy@quora.com") or send mail to:
+If you have any questions about our practices or this Privacy Policy, please contact our Data Protection Officer at [privacy@quora.com](mailto:privacy@quora.com "mailto:privacy@quora.com") or send mail to:
 
 Quora, Inc.
 
@@ -164,7 +164,7 @@ Attn: Privacy
 
 Mountain View, CA 94041
 
-VeraSafe has been appointed as Quora’s representative in the European Union and the United Kingdom for data protection matters. VeraSafe can be contacted using this [form](# "verasafe.com").
+VeraSafe has been appointed as Quora’s representative in the European Union and the United Kingdom for data protection matters. VeraSafe can be contacted using this [form](https://verasafe.com/public-resources/contact-data-protection-representative "verasafe.com").
 
 Privacy Policy Updates
 
