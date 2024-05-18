@@ -29,10 +29,19 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
+        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+            
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
+            * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
+            * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
+            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
+            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
         * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
             * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
@@ -759,10 +768,19 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
+        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+            
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
+            * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
+            * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
+            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
+            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
         * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
             * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
@@ -1463,10 +1481,19 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
+        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+            
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
+            * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
+            * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
+            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
+            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
         * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
             * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
@@ -2116,10 +2143,19 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
+        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+            
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
+            * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
+            * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
+            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
+            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
         * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
             * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
@@ -2487,10 +2523,19 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
+        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+            
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
+            * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
+            * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
+            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
+            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
         * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
             * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
@@ -2858,10 +2903,19 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
+        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+            
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
+            * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
+            * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
+            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
+            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
         * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
             * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
@@ -3229,10 +3283,19 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
+        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+            
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
+            * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
+            * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
+            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
+            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
         * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
             * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
@@ -3600,10 +3663,19 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
+        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+            
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
+            * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
+            * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
+            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
+            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
         * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
             * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
@@ -3971,10 +4043,19 @@ Recherche
     
     * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
         * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [La vaccination contre le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/vaccin-covid-19/)
+        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+            
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
+            * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
+            * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
+            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
+            
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
         * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
     * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
             
             * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
@@ -4330,6 +4411,14 @@ Recherche
 Retour
 
 Retour
+
+* [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+* [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
+* [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
+* [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
+* [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+* [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+* [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
 
 * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
 
