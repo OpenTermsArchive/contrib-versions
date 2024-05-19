@@ -132,7 +132,7 @@ Nous fournissons ces services à vous et à d’autres personnes pour faire prog
         * la suppression immédiate limiterait notre faculté à :
             
             * identifier ou enquêter sur des activités illégales ou des violations de nos conditions et politiques (par exemple, identifier ou enquêter sur une utilisation détournée de nos Produits ou systèmes) ;
-            * protéger la sécurité et l’intégrité de nos Produits, systèmes, services, employés et utilisateurs, et nous défendre ;
+            * protéger la sécurité et l’intégrité de nos Produits, systèmes, services, employé.es et utilisateurIces, et nous défendre ;
             * respecter des obligations légales pour la préservation de preuves, en ce compris les données que les entités Meta fournissant des produits et services financiers conservent pour se conformer à toute obligation de tenue de documents requise par la loi ; ou
             * nous conformer à la demande d’une autorité judiciaire ou administrative, des forces de l'ordre ou d’un organisme gouvernemental ;
             
