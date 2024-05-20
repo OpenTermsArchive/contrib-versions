@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last updated: November 27, 2023
+Last updated: May 20, 2024
 
 This document (“**Privacy Policy**”) explains the privacy rules applicable to personal data and other information collected or submitted when you access, install, or use Nord Services and Websites regardless of the device (computer, mobile phone, tablet, etc.) you use.
 
@@ -37,6 +37,7 @@ Subscription information
 * **Country details.** When making a purchase we process information on the user’s country the purchase takes place from. This information is necessary for VAT calculation purposes.
 * **Information for payment fraud prevention.** To prevent fraudulent payments for the Services, your personal data (such as payer's email address and device information) can be verified by our and/or our payment processing partners fraud management tools. A payment transaction that is considered high risk may be rejected by us.
 * **Information concerning zero authorization for billing.** The purpose of the zero authorization is to confirm that your payment method is still valid, which, respectively, leads to a seamless continuation of your Subscription. No personally identifiable information is collected in this case, apart from the fact that your provided payment method is still valid (or not) and the date of such authorization.
+* **Information related to A/B price testing.** The results and/or insights obtained from A/B price testing may be used by Nord to optimize its pricing strategies, improve Service offerings, and/or enhance your experience. This may include the collection of data related to your behavior, preferences, or responses to pricing strategies.
 
 Communication data
 
