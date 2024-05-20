@@ -1,7 +1,7 @@
 Wix.com Privacy Policy
 ======================
 
-Effective from January 17, 2023
+Effective from March 3, 2024
 
 Welcome to Wix.com’s Privacy Policy
 
