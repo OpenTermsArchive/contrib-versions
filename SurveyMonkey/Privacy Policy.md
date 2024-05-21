@@ -1,4 +1,4 @@
-[Print this Page](#)
+Print this Page
 
 Privacy Notice
 ==============
