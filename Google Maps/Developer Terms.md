@@ -961,6 +961,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Enedis Energy Électricité de France: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
             
+        * Data Paris 2024: [https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf)
+            
     19. **Gambia**
         * Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
             
@@ -1105,7 +1107,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open Data Schleswig Holstein: [https://opendata.schleswig-holstein.de/dataset/baustellen-schleswig-holstein](https://opendata.schleswig-holstein.de/dataset/baustellen-schleswig-holstein)
             
-        * Mobilithek: [https://mobilithek.info/offers/110000000002521000](https://mobilithek.info/offers/110000000002521000)
+        * Mobilithek: [https://mobilithek.info/offers/608447464874934272](https://mobilithek.info/offers/608447464874934272), [https://mobilithek.info/offers/608439575154401280](https://mobilithek.info/offers/608439575154401280), [https://mobilithek.info/offers/110000000003054000](https://mobilithek.info/offers/110000000003054000), [https://mobilithek.info/offers/608390979298140160](https://mobilithek.info/offers/608390979298140160)
+            
+        * Mobidata BW: [https://mobidata-bw.de/dataset/baustelleninformationen-baden-wurttemberg](https://mobidata-bw.de/dataset/baustelleninformationen-baden-wurttemberg)
             
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
@@ -1165,6 +1169,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Transport for West Midlands Link to their license: [https://api-portal.tfwm.org.uk/signup](https://api-portal.tfwm.org.uk/signup)
             
         * National Highways UK: [https://developer.data.nationalhighways.co.uk/terms#NCTTG](https://developer.data.nationalhighways.co.uk/terms#NCTTG) Powered by National Highways’ Transport Data Feeds
+            
+        * Transport For London: [https://tfl.gov.uk/info-for/open-data-users/](https://tfl.gov.uk/info-for/open-data-users/)
             
     22. **Greece**
         * EuroGeographics; Copyright Geomatics Ltd.
@@ -1824,6 +1830,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Callejero de Andalucia ES: [https://www.callejerodeandalucia.es/portal/aviso-legal](https://www.callejerodeandalucia.es/portal/aviso-legal)
             
+        * Ayuntamiento de Zaragoza: [https://www.zaragoza.es/sede/portal/aviso-legal#condiciones](https://www.zaragoza.es/sede/portal/aviso-legal#condiciones)
+            
+        * Ajuntament de València: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     58. **Sweden**
         * © 2009 Cartesia GIS AB
             
@@ -1916,7 +1926,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Highway Bureau Taiwan: [https://www.thb.gov.tw/cp.aspx?n=266](https://www.thb.gov.tw/cp.aspx?n=266)
             
-        * Data Gov TW: [https://data.gov.tw/licenses](https://data.gov.tw/licenses)
+        * Data Gov TW: [https://data.gov.tw/dataset/157705](https://data.gov.tw/dataset/157705)
             
         * Kaohsiung City Government Open Data: [https://data.kcg.gov.tw/dataset/113-kh-address](https://data.kcg.gov.tw/dataset/113-kh-address)
             
