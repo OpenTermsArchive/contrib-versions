@@ -95,4 +95,4 @@ The TOU and your use of the Sites shall be governed by the laws of the State of 
 10\. Questions
 --------------
 
-Should you have any questions regarding these TOU you may contact us at [Support@Taboola.com](mailto:Support@taboola.com) or via the address as indicated in the header of these TOU.
+Should you have any questions regarding these TOU you may contact us at [Support@Taboola.com](mailto:Support@Taboola.com) or via the address as indicated in the header of these TOU.
