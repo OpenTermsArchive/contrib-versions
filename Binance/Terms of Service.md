@@ -1,6 +1,3 @@
-Binance Terms of Use
-====================
-
 **TERMS OF USE - United Kingdom**
 =================================
 
@@ -876,7 +873,7 @@ c. any other security incident (including a cyber-security attack) affecting you
 
 **Website** means the website located at [www.binance.com](http://www.binance.com/). 
 
-Product Terms
+**Product Terms**
 
 |     |     |     |
 | --- | --- | --- |
@@ -884,3 +881,54 @@ Product Terms
 | [Crypto Loan](https://www.binance.com/en-GB/terms-crypto-loans) | [Fiat](https://www.binance.com/en-GB/legal/terms-fiat) |     |
 | [Gift Card](https://www.binance.com/en-GB/legal/terms-gift-card) | [OTC Terms](https://www.binance.com/en-GB/terms-otc) |     |
 | [Swap](https://www.binance.com/en-GB/terms-swap-farming) |     |     |
+
+### Community
+
+USD-$
+
+### Company
+
+* [About Us](https://www.binance.com/en-GB/about)
+    
+* [Inquiries](https://www.binance.com/en-GB/about#email)
+    
+* [Careers](https://www.binance.com/en-GB/careers)
+    
+* [Press](https://www.binance.com/en-GB/press)
+    
+
+### Support
+
+* [Support Center](https://www.binance.com/en-GB/support)
+    
+* [24/7 Chat Support](https://www.binance.com/en-GB/chat?sourceEntry=4)
+    
+* [Fees](https://www.binance.com/en-GB/fee/schedule)
+    
+* [Trading Rules](https://www.binance.com/en-GB/trade-rule)
+    
+
+### Legal
+
+* [Terms](https://www.binance.com/en-GB/terms)
+    
+* [Privacy Notice](https://www.binance.com/en-GB/privacy)
+    
+
+### Compliance
+
+* [Risk Warning](https://www.binance.com/en-GB/legal/risk-warning)
+    
+* [Law Enforcement Request](https://www.binance.com/en-GB/support/law-enforcement)
+    
+* [Licenses & Registrations](https://www.binance.com/en-GB/legal/licenses)
+    
+
+### **Product Terms**
+
+|     |     |
+| --- | --- |
+| [Auto-Invest](https://www.binance.com/en-GB/terms-autoinvest) | [Mining Pool](https://www.binance.com/en-GB/terms-binance-pool) |
+| [Crypto Loan](https://www.binance.com/en-GB/terms-crypto-loans) | [Fiat](https://www.binance.com/en-GB/legal/terms-fiat) |
+| [Gift Card](https://www.binance.com/en-GB/legal/terms-gift-card) | [OTC Terms](https://www.binance.com/en-GB/terms-otc) |
+| [Swap](https://www.binance.com/en-GB/terms-swap-farming) |     |
