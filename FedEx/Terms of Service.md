@@ -7,19 +7,27 @@
 [7\. Disclaimer of warranty](#7g)  
 [8\. Limitation of Liability](#8h)
 
+* * *
+
 [9\. Indemnity](#9i)  
 [10\. FedEx Service Guide](#10j)  
 [11\. Links to other web sites](#11k)  
 [12\. Privacy Policy](#12l)  
 [13\. Export](#13m)  
-[14\. Controlling Law and               Severability](#14n)  
+[14\. Controlling Law and Severability](#14n)  
 [15\. Terms of Carriage](#15o)
+
+* * *
 
 [16\. FedEx ShipAlert®](#16p)  
 [17\. Address Book](#17q)  
 [18\. Courtesy Rate Quote](#18r)  
 [19\. H.M. Customs & Excise Forms](#19s)  
-[20\. FedEx® Electronic Trade Documents](#20)
+[20\. FedEx® Electronic Trade Documents](#20)  
+[21\. FedEx® Reporting](#21)  
+[22\. One Rate Program](#22)
+
+* * *
 
 THE FOLLOWING TERMS AND CONDITIONS GOVERN YOUR USE OF FEDEX.COM, INCLUDING FEDEX SHIP MANAGER® AT FEDEX.COM AND FEDEX SHIP MANAGERTM LITE (COLLECTIVELY REFERRED TO AS "SHIP MANAGER"), FEDEX® GLOBAL TRADE MANAGER ("GTM"), FEDEX® MOBILE AND FEDEX® BILLING ONLINE. YOUR VIEWING OR USE OF THIS SITE WILL CONSTITUTE YOUR AGREEMENT, ON BEHALF OF YOURSELF AND THE ENTITY YOU REPRESENT (HEREINAFTER COLLECTIVELY "YOU" OR "YOUR"), TO ALL OF THE TERMS AND CONDITIONS PROVIDED BELOW.
 
@@ -36,8 +44,6 @@ FedEx: FedEx Corporate Services, Incorporated, its parent and its parent's subsi
   
 You: Yourself and the entity that you represent.  
 
-[BACK TO TOP](#top) 
-
 * * *
 
 ### Section 2. Use of fedex.com
@@ -45,8 +51,6 @@ You: Yourself and the entity that you represent.
 fedex.com is provided solely for the use of current and potential FedEx customers to interact with FedEx and may not be used by any other person or entity, or for any other purpose. Specifically, all shipping, tracking, rating, receiving FedEx invoices and remitting payment using electronic funds transfer ("EFT"), drop-off location, identifying and preparing international documents, estimating duties and taxes, and other information and services may only be used by current and potential FedEx customers for their own shipments. Unless indicated otherwise in the terms of use of a specific interactive feature on fedex.com, the use of fedex.com to provide information to or prepare shipments by or for the benefit of third party shippers is expressly prohibited. The use of automated dial-in or inquiry devices to obtain information through fedex.com is strictly prohibited.  
   
 FedEx does not accept ideas, concepts, or techniques for new services or products through fedex.com. If such information is received, it will not be considered confidential and FedEx will be deemed free to use, communicate and exploit such information in any manner it chooses.
-
-[BACK TO TOP](#top) 
 
 * * *
 
@@ -60,15 +64,11 @@ Some fedex.com services are being made available to customers based in some coun
 
 When you register using fedex.com Login Registration, you will select a user ID and password. You are responsible for maintaining the confidentiality of the password and user ID, and you are responsible for all activities that occur under Your password and user ID. You agree to (a) immediately notify FedEx of any unauthorized use of Your user ID and password, and (b) ensure that You exit from Your fedex.com session at the end of each visit.
 
-[BACK TO TOP](#top) 
-
 * * *
 
 ### Section 4. Changes to fedex.com
 
 fedex.com and its Content, may be changed, deleted or updated at any time without notice.  
-
-[BACK TO TOP](#top) 
 
 * * *
 
@@ -76,15 +76,11 @@ fedex.com and its Content, may be changed, deleted or updated at any time withou
 
 FedEx may discontinue, suspend or modify fedex.com at any time without notice, and FedEx may block, terminate or suspend Your and any user's access to fedex.com at any time for any reason in its sole discretion, even if access continues to be allowed to others.  
 
-[BACK TO TOP](#top) 
-
 * * *
 
 ### Section 6. Ownership
 
 fedex.com and its Content are protected by United States and international copyright, trademark and other laws. © 1995-2008 FedEx. All rights reserved. Specifically, FedEx does not convey to anyone, through allowing access to fedex.com, any ownership rights in fedex.com or in any Content appearing on or made available through fedex.com. Customer may not copy, modify, translate, transmit, distribute, adapt, reproduce, decompile, reverse engineer or disassemble any part of fedex.com or its Content.  
-
-[BACK TO TOP](#top) 
 
 * * *
 
@@ -94,15 +90,11 @@ FEDEX.COM AND ITS CONTENT ARE PROVIDED "AS IS". FEDEX AND ITS LICENSORS DISCLAIM
 
 FEDEX EXPRESSLY DISCLAIMS AND EXCLUDES ALL WARRANTIES REGARDING FEDEX.COM, SHIP MANAGER AND THE FUNCTIONING OF THE INTERNET WHETHER EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE. FEDEX DOES NOT WARRANT THAT SHIP MANAGER WILL MEET ALL OF CUSTOMER'S REQUIREMENTS OR THAT ITS OPERATIONS WILL BE UNINTERRUPTED OR ERROR FREE, OR THAT ANY DEFECT WITHIN SHIP MANAGER WILL BE CORRECTED. FURTHERMORE, FEDEX DOES NOT WARRANT NOR MAKE ANY REPRESENTATION REGARDING THE RESULTS OF CUSTOMER'S USE OF SHIP MANAGER OR GLOBAL TRADE MANAGER IN TERMS OF CAPABILITY, CORRECTNESS, ACCURACY, RELIABILITY OR OTHERWISE. NO ORAL OR WRITTEN INFORMATION, REPRESENTATION OR ADVICE GIVEN BY FEDEX OR AN AUTHORIZED REPRESENTATIVE OF FEDEX SHALL CREATE A WARRANTY.  
 
-[BACK TO TOP](#top) 
-
 * * *
 
 ### Section 8. Limitation of Liability
 
 USE OF FEDEX.COM AND ITS CONTENT IS AT YOUR SOLE RISK. FEDEX WILL IN NO EVENT BE LIABLE TO YOU OR ANY PERSON OR ENTITY CLAIMING THROUGH YOU FOR ANY DIRECT, INDIRECT, CONSEQUENTIAL, INCIDENTAL OR OTHER DAMAGES UNDER ANY THEORY OF LAW FOR ANY ERRORS IN OR THE USE OF OR INABILITY TO USE FEDEX.COM AND ITS CONTENT INCLUDING WITHOUT LIMITATION, DAMAGES FOR LOST PROFITS, BUSINESS, DATA, OR DAMAGE TO ANY COMPUTER SYSTEMS, EVEN IF YOU HAVE ADVISED FEDEX OF THE POSSIBILITY OF SUCH DAMAGES.  
-
-[BACK TO TOP](#top) 
 
 * * *
 
@@ -110,15 +102,11 @@ USE OF FEDEX.COM AND ITS CONTENT IS AT YOUR SOLE RISK. FEDEX WILL IN NO EVENT BE
 
 You agree to defend, indemnify and hold harmless FedEx, its parent and affiliate companies and their respective officers, directors, employees, agents and representatives from any and all claims (i) arising out of Your breach of any of these terms and conditions, and any of Your activities conducted in connection with this site.  
 
-[BACK TO TOP](#top) 
-
 * * *
 
 ### Section 10. FedEx Service Guide
 
 The terms and conditions for using FedEx delivery and related services are contained in the most current version of the FedEx Service Guide, which is available by request. The most current version of the FedEx Service Guide will control in the event of any conflict between any FedEx delivery or related service information on fedex.com and the delivery or related service information contained in the most current version of the FedEx Service Guide.  
-
-[BACK TO TOP](#top) 
 
 * * *
 
@@ -128,15 +116,11 @@ There are links on the fedex.com site that allow You to visit the sites of third
 
 FedEx has not tested and makes no representations regarding the correctness, performance or quality of any software found at any such sites. You should research and assess the risks which may be involved in accessing and using any software on the Internet before using it.  
 
-[BACK TO TOP](#top) 
-
 * * *
 
 ### Section 12. Privacy Policy
 
 The [FedEx Privacy Policy](https://www.fedex.com/en-fr/privacy-policy.html) governs the use of information acquired from You through fedex.com.  
-
-[BACK TO TOP](#top) 
 
 * * *
 
@@ -146,8 +130,6 @@ You assume all responsibility for compliance with all laws and regulations of th
   
 You acknowledge and agree that you will not export or import any Content to any country/territory to which export or import is restricted under United States law, that You are not a national of any such country/territory, you are not a Denied Party listed on the U.S. Denied Persons List, you are not a Special Designated National on the U.S. Treasury Department's list of Specially Designated Nationals, and that the Content will not be used in the design, development or production of nuclear, chemical or biological weapons.
 
-[BACK TO TOP](#top) 
-
 * * *
 
 ### Section 14. Controlling Law and Severability
@@ -156,21 +138,17 @@ This Agreement and Your use of fedex.com is governed by and construed in accorda
 
 Any cause of action with respect to fedex.com or this Agreement must be instituted within one year after the claim or cause of action has risen or be barred and must be brought in a court of competent jurisdiction within Shelby County, Tennessee. This Agreement may not be changed or modified without the written consent of FedEx.  
 
-[BACK TO TOP](#top) 
-
 * * *
 
 ### Section 15. Terms of Carriage
 
-(i) Customer agrees that domestic and international carriage by FedEx of any shipments tendered to FedEx using SHIP MANAGER shall be in accordance with the terms, conditions and limitations of liability set out on the NONNEGOTIABLE Air Waybill, Label, Manifest, or Pick-Up Record (collectively "Shipping Documentation") and as appropriate any transportation agreement between Customer and FedEx covering such shipment and in any applicable tariff, Service Guide or Standard Conditions of Carriage, copies of which are available upon request, and which are incorporated into this Agreement by reference. If there is a conflict between the Shipping Documentation and any such document then in effect or this Agreement, the transportation agreement, tariff, Service Guide, Standard Conditions of Carriage, or this Agreement will control, in that order of priority. If a shipment originates outside the United States, the contract of carriage is with the FedEx subsidiary, branch, or independent contractor who originally accepts the shipment. Your use of Global Trade Manager shall not alter Your responsibility for the preparation and accuracy of shipping documentation including import/export forms.  
+(i) Customer agrees that domestic and international carriage by FedEx of any shipments tendered to FedEx using SHIP MANAGER shall be in accordance with the terms, conditions and limitations of liability set out on the NONNEGOTIABLE Air Waybill, Label, Manifest, or Pick-Up Record (collectively "Shipping Documentation") and as appropriate any transportation agreement between Customer and FedEx covering such shipment and in any applicable tariff, Service Guide or Terms and Conditions of Carriage, copies of which are available upon request, and which are incorporated into this Agreement by reference. If there is a conflict between the Shipping Documentation and any such document then in effect or this Agreement, the transportation agreement, tariff, Service Guide, Terms and Conditions of Carriage, or this Agreement will control, in that order of priority. If a shipment originates outside the United States, the contract of carriage is with the FedEx subsidiary, branch, or independent contractor who originally accepts the shipment. Unless otherwise provided herein, the Terms and Conditions of Carriage of the origin country / territory apply to all shipments. Your use of Global Trade Manager shall not alter Your responsibility for the preparation and accuracy of shipping documentation including import/export forms.  
   
 (ii) In the event Customer uses SHIP MANAGER to process shipments tendered to FedEx for delivery to locations outside the United States or country/territory of shipment origin, Customer will, at Customer's sole expense, assure that the terms and conditions of international carriage supplied by FedEx from time to time (and which may be amended or modified from time to time at FedEx's sole discretion) are placed on the Shipping Documentation as may be instructed by FedEx, for all such international shipments. Customer will defend, indemnify and hold harmless FedEx, its officers, directors, employees and agents from and against any and all losses, damages, claims and other items of cost and expense arising out of Customer's failure to apply the international carriage terms to the Shipping Documentation for such international shipments, including without limitation claims from the recipient of any shipment, and Customer's failure to follow FedEx's instructions in regard to the placement of the terms on the Shipping Documentation for such international shipments.  
   
 (iii) Printed Signature. Customer acknowledges that if SHIP MANAGER is used to process shipments to locations outside the United States or country/territory of shipment origin, Customer must enter the name of the person completing the Shipping Documentation to print in lieu of its manual signature on the Shipping Documentation, as applicable, for all shipments tendered by Customer to FedEx using SHIP MANAGER. Customer further acknowledges that such printed name shall be sufficient to constitute the Customer's signature, and Customer's acceptance of FedEx's terms and conditions of carriage contained in the applicable transportation agreement, tariff, Service Guide, Standard Conditions, or Shipping Documentation, under which the shipment is accepted by FedEx, or its independent contractor.  
   
 (iv) Unless otherwise indicated, the shipper's address indicated on the face of any Shipping Documentation is the place of execution and the place of departure and the recipient's address listed on the face of the Shipping Documentation is the place of destination. Unless otherwise indicated on the face of the Shipping Documentation the first carrier of all shipments is FedEx Express, P.O. Box 727, Memphis, TN 38194. The address for FedEx Ground is P.O. Box 108, Coraopolis, PA 15230.  
-
-[BACK TO TOP](#top) 
 
 * * *
 
@@ -184,8 +162,6 @@ Do not use FedEx ShipAlert for anything other than to communicate information ab
 
 It is not necessary to use FedEx ShipAlert to ship a package via SHIP MANAGER. FedEx will not be liable for any failure or delay, for any reason, in the transmission, receipt, or acknowledgment of any messages sent by or to You.
 
-[BACK TO TOP](#top) 
-
 * * *
 
 ### Section 17. Address Book
@@ -194,23 +170,17 @@ Subject to the terms listed here, addresses will remain in Your Address Book as 
 
 However, FedEx will not delete Your SHIP MANAGER account. If You have any concerns, please email FedEx at [webmaster@fedex.com](mailto:webmaster@fedex.com). The Address Book is a feature provided free of charge by FedEx. You should maintain a back-up copy of Your addresses as FedEx will not be responsible for the loss of addresses contained in the Address Book. FedEx may modify or terminate this feature at any time for any reason.  
 
-[BACK TO TOP](#top) 
-
 * * *
 
 ### Section 18. Courtesy Rate Quote
 
 The courtesy rate reflected by the Courtesy Rate Quote on FedEx Ship Manager, if shown, may be different than the actual charges for Your shipment. Differences may occur based on actual weight, dimensions, and other factors. Consult the applicable FedEx Service Guide or the FedEx Rate Sheets for details on how shipping charges are calculated.  
 
-[BACK TO TOP](#top) 
-
 * * *
 
 ### Section 19. H.M. Customs and Excise Forms
 
 H.M. Customs and Excise Forms are subject to Crown copyright and are reproduced on Global Trade Manager under license from the Controller of Her Majesty's Stationery Office. Visitors to this site may reproduce and use these forms, but have no right to authorize third parties to use them.  
-
-[BACK TO TOP](#top) 
 
 * * *
 
@@ -238,4 +208,49 @@ FEDEX MAY MAKE FUTURE CHANGES OR MODIFICATIONS TO SUCH TERMS AND CONDITIONS AT A
 
 9\. Indemnification. You will, at Your sole cost and expense, defend, indemnify and hold harmless FedEx, its parent corporation, subsidiaries, affiliated companies and their respective officers, directors, employees, agents, successors, and assigns from all claims, demands, suits, damages, costs, expenses, fines and judgments, including reasonable attorneys' fees (hereinafter collectively "Claims"), arising out of FedEx's use of the information provided by You, including but not limited to package level detail information, Your company letterhead and Your signature image or a signature image of an authorized representative of Your company. FedEx may intervene and assume its defense in any such claims, at its expense and in its sole discretion. You will not settle any action relating to any Claim that involves FedEx without the prior written consent of FedEx.
 
-[BACK TO TOP](#top)
+* * *
+
+### Section 21. FedEx® Reporting
+
+THE FOLLOWING ADDITIONAL TERMS OF USE GOVERN YOUR USE OF FEDEX® REPORTING. YOUR VIEWING OR USE OF THIS SITE CONSTITUTES YOUR AGREEMENT, ON BEHALF OF YOURSELF AND THE ENTITY YOU REPRESENT (HEREINAFTER "YOU" OR "YOUR"), TO ALL OF THE TERMS AND CONDITIONS PROVIDED BELOW.
+
+FEDEX MAY MAKE FUTURE CHANGES OR MODIFICATIONS TO SUCH TERMS AND CONDITIONS AT ANY TIME WITHOUT NOTICE, AND YOUR SUBSEQUENT VIEWING OR USE OF THIS SITE WILL CONSTITUTE YOUR AGREEMENT TO THE CHANGES AND MODIFICATIONS.
+
+1\. Information. FedEx possesses certain proprietary and confidential Information regarding customers’ shipping activity with FedEx (hereinafter “Information”).  Subject to these terms of use, FedEx grants You the non-exclusive royalty-free right and license to use the Information and any related documentation (collectively the “Information”) provided by FedEx for the purpose of analyzing your shipping activity with FedEx and FedEx affiliated companies.
+
+2\. Use. You may desire to obtain the Information to review Your activity with FedEx. You will use the Information solely to analyze trends in Your shipping activity with FedEx. You will follow any instructions provided by FedEx from time to time regarding access and use of the Information.
+
+3\. Confidentiality. You will hold all Information in strict confidence, will not use it other than in connection with the rights granted under this Agreement and will cause Your employees to be bound by the same obligations of confidentiality to which You are bound under this Agreement. You will not provide access to or communicate the Information in any form to any third party without prior written consent from FedEx.
+
+4\. Termination. FedEx may cease providing the Information at any time and is not obligated to provide any Information either in whole or in part.
+
+5\. Shipments. All shipments, and any claims in regard to such shipments, must be made in accordance with the [FedEx Express Terms and Conditions of Carriage for Europe](https://www.fedex.com/en-fr/conditions-of-carriage1.html "FedEx Express Terms and Conditions of Carriage for Europe").
+
+* * *
+
+### Section 22. One Rate Program
+
+1\. By registering an account with FedEx online from 1 July 2020, you will be deemed to accept these Terms and Conditions.
+
+2\. Once you have successfully completed your account registration, you may begin shipping with your new discounted Program rates, if your shipment is deemed an Eligible Shipment (as defined below in paragraph 3). 
+
+3\. An “Eligible Shipment” must meet all of the following criteria:
+
+a. Shipments must be imports or exports only and not third party shipments.  
+b. Shipments must be either FedEx International Priority® Express, FedEx International Priority®, FedEx International Priority® Freight, FedEx International Economy®, or FedEx International Economy® Freight services, or FedEx Regional Economy®, FedEx Regional Economy® Freight.
+
+4\. Discounted rates will be calculated based on Program list rates in effect on the date shipments are tendered to FedEx. The Program list rates are published on the One Rate landing page on fedex.com and available [here](https://www.fedex.com/content/dam/fedex/eu-europe/global-one-rate/rate-cards/fedex_onerate_en_fr.pdf "FedEx List Rates pdf").
+
+5\. Unless stated otherwise in these Terms and Conditions, the discounted rates offered pursuant to this Program apply to the Program list rate transportation charges only and not to surcharges, special handling fees, duties, taxes or other additional or minimum charges. 
+
+6\. Discounts offered through the Program cannot be combined with any other FedEx discounts available from FedEx Express, or through any authorized FedEx representative.
+
+7\. FedEx reserves the right to alter, modify, suspend and/or terminate the discount(s) offered via this Program, modify the Program list rates published on fedex.com, and impose surcharges (including but not limited to fuel surcharge) at any time for any reason without notice. 
+
+8\. Eligible Shipments sent pursuant to the One Rate Program will not be subject to surcharges for Extended Area Service (Out-of-Pickup-Area and Out-of-Delivery-Area) for shipments picked up from or delivered to remote and less accessible locations. 
+
+9\. Regional fuel surcharge is applicable for FedEx® Regional Economy and FedEx® Regional Economy Freight services only. For all other eligible shipments, fuel surcharge shall be reduced by 50% of the international fuel surcharge published on fedex.com and applicable at the time of shipment.
+
+10\. The applicable terms and conditions of carriage in effect on the date of shipment, shall apply to all Eligible Shipments. If there is a conflict between the terms and conditions of carriage and these Terms and Conditions, the former will control.
+
+11\. FedEx reserves the right to amend these Terms and Conditions at any time without notice. Subject to applicable regulatory approval(s).
