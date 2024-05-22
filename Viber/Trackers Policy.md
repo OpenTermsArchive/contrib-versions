@@ -235,7 +235,7 @@ For any queries in relation to this Ads & Cookies Policy please contact us at:
 
 Current Cookies policy August 2023 [**Viber Cookies Policy August 2023**](https://www.viber.com/app/uploads/AdsCookies-Policy-EN-August-2023-1.pdf)
 
-Current Cookies policy June 2023 **[Viber Cookies Policy June 2023](https://www.viber.com/app/uploads/Ads%5E0Cookies-Policy-June-2023.pdf)**
+Current Cookies policy June 2023 **[Viber Cookies Policy June 2023](https://www.viber.com/app/uploads/Ads^0Cookies-Policy-June-2023.pdf)**
 
 Previous Cookies policy 2022 [**Viber Cookies Policy 2022**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-March-2022-EN-1.pdf)
 
