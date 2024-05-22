@@ -27,9 +27,7 @@ Recherche
     
     Retour
     
-    * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
-        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+    * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
             * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
@@ -39,13 +37,7 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
-        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
-    * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
-            
-            * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
-            
+    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
@@ -56,11 +48,21 @@ Recherche
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
-    * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
+        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
+            
+            * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
+            * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
+            
+    * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
+            
+            * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
+            * [Vers une nouvelle stratégie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/vers-une-nouvelle-strategie/)
+            
+        * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
-        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
@@ -766,9 +768,7 @@ Recherche
     
     Retour
     
-    * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
-        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+    * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
             * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
@@ -778,13 +778,7 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
-        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
-    * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
-            
-            * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
-            
+    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
@@ -795,11 +789,21 @@ Recherche
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
-    * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
+        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
+            
+            * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
+            * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
+            
+    * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
+            
+            * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
+            * [Vers une nouvelle stratégie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/vers-une-nouvelle-strategie/)
+            
+        * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
-        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
@@ -1479,9 +1483,7 @@ Recherche
     
     Retour
     
-    * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
-        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+    * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
             * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
@@ -1491,13 +1493,7 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
-        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
-    * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
-            
-            * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
-            
+    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
@@ -1508,11 +1504,21 @@ Recherche
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
-    * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
+        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
+            
+            * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
+            * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
+            
+    * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
+            
+            * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
+            * [Vers une nouvelle stratégie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/vers-une-nouvelle-strategie/)
+            
+        * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
-        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
@@ -2141,9 +2147,7 @@ Recherche
     
     Retour
     
-    * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
-        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+    * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
             * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
@@ -2153,13 +2157,7 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
-        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
-    * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
-            
-            * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
-            
+    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
@@ -2170,11 +2168,21 @@ Recherche
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
-    * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
+        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
+            
+            * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
+            * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
+            
+    * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
+            
+            * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
+            * [Vers une nouvelle stratégie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/vers-une-nouvelle-strategie/)
+            
+        * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
-        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
@@ -2521,9 +2529,7 @@ Recherche
     
     Retour
     
-    * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
-        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+    * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
             * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
@@ -2533,13 +2539,7 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
-        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
-    * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
-            
-            * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
-            
+    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
@@ -2550,11 +2550,21 @@ Recherche
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
-    * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
+        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
+            
+            * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
+            * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
+            
+    * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
+            
+            * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
+            * [Vers une nouvelle stratégie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/vers-une-nouvelle-strategie/)
+            
+        * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
-        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
@@ -2901,9 +2911,7 @@ Recherche
     
     Retour
     
-    * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
-        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+    * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
             * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
@@ -2913,13 +2921,7 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
-        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
-    * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
-            
-            * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
-            
+    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
@@ -2930,11 +2932,21 @@ Recherche
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
-    * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
+        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
+            
+            * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
+            * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
+            
+    * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
+            
+            * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
+            * [Vers une nouvelle stratégie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/vers-une-nouvelle-strategie/)
+            
+        * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
-        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
@@ -3281,9 +3293,7 @@ Recherche
     
     Retour
     
-    * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
-        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+    * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
             * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
@@ -3293,13 +3303,7 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
-        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
-    * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
-            
-            * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
-            
+    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
@@ -3310,11 +3314,21 @@ Recherche
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
-    * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
+        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
+            
+            * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
+            * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
+            
+    * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
+            
+            * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
+            * [Vers une nouvelle stratégie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/vers-une-nouvelle-strategie/)
+            
+        * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
-        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
@@ -3661,9 +3675,7 @@ Recherche
     
     Retour
     
-    * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
-        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+    * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
             * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
@@ -3673,13 +3685,7 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
-        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
-    * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
-            
-            * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
-            
+    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
@@ -3690,11 +3696,21 @@ Recherche
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
-    * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
+        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
+            
+            * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
+            * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
+            
+    * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
+            
+            * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
+            * [Vers une nouvelle stratégie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/vers-une-nouvelle-strategie/)
+            
+        * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
-        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
@@ -4041,9 +4057,7 @@ Recherche
     
     Retour
     
-    * * [Tous les grands dossiers](https://sante.gouv.fr/grands-dossiers/)
-        * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
-        * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
+    * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
             * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
@@ -4053,13 +4067,7 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
-        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
-        * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
-    * * [Conseil national de la refondation (CNR) - Santé](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/)
-            
-            * [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
-            
+    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
@@ -4070,11 +4078,21 @@ Recherche
             * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
-    * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
+        * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/)
+        * [Stop aux violences contre les professionnels de santé](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/)
+            
+            * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
+            * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
+            
+    * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
+            
+            * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
+            * [Vers une nouvelle stratégie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/vers-une-nouvelle-strategie/)
+            
+        * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
-        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
@@ -4420,12 +4438,16 @@ Retour
 * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
 * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
 
-* [Lancement du volet Santé du Conseil national de la refondation (CNR)](https://sante.gouv.fr/grands-dossiers/conseil-national-de-la-refondation-cnr-sante/article/lancement-du-volet-sante-du-conseil-national-de-la-refondation-cnr)
-
 * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
 
 * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
 * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
+
+* [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
+* [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
+
+* [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
+* [Vers une nouvelle stratégie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/vers-une-nouvelle-strategie/)
 
 * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
 
