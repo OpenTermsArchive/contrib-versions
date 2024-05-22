@@ -1,4 +1,4 @@
-[](https://www.amazon.com/gp/help/customer/display.html?nodeId=201376540)
+[](https://)
 
 Amazon Photos Terms of Use
 ==========================
