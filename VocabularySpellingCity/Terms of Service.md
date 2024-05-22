@@ -64,7 +64,7 @@ Trademarks & Copyrights
 -----------------------
 
 Copyright © 2018 VocabularySpellingCity.com. Any rights not expressly granted in this Agreement are reserved for the exclusive use of VocabularySpellingCity. The owner and manufacturer of VocabularySpellingCity.com is VKidz, Inc. 6300 NE 1st Ave. Suite 203, Ft. Lauderdale, FL 33334. “VocabularySpellingCity”, “Vocabulary and SpellingCity”, “Spelling City”, “SpellingCity”, “SpellingCity.com”, “VocabularyCity”, “VocabularyCity.com”, “VocabularyandSpellingCity.com”, “PhonicsCity”, and “GrammarCity” are the exclusive trademarks of VKidz, Inc. All other copyrights and trademarks appearing on the VocabularySpellingCity.com website are the exclusive rights of their respective owners. If any company does not wish the site to be listed, please contact us at  
-[legal@VocabularySpellingCity.com](mailto:legal@vocabularyspellingcity.com).
+[legal@VocabularySpellingCity.com](mailto:legal@vocabularyspellingCity.com).
 
 **Words, Lists, Sentences, Forum Comments, and Suggestions**  
 Any words, lists, sentences, comments, or suggestions (“Content”) posted by users to VocabularySpellingCity’s website and/or iOS Apps are  
