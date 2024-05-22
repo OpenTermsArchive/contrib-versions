@@ -197,7 +197,7 @@ If you believe that any Content in which you claim copyright has been infringed 
 
           G. Violations of this Agreement
 
-If while using the Service, you encounter Content you find inappropriate, or otherwise believe to be a violation of this Agreement, you may report it by sending an email to [abuse@iCloud.com](mailto:abuse@icloud.com).
+If while using the Service, you encounter Content you find inappropriate, or otherwise believe to be a violation of this Agreement, you may report it by sending an email to [abuse@iCloud.com](mailto:abuse@iCloud.com).
 
           H. Content Submitted or Made Available by You on the Service
 
