@@ -1,14 +1,14 @@
 Waze Cookie Policy
 ==================
 
-This policy explains how Waze Mobile Limited and its affiliates (“Waze”) uses cookies and your related choices. For more information on other ways we collect and use information from you and your use of our services, please see our [Privacy Policy](https://www.waze.com/legal/privacy). In this policy we use the term “cookies” to refer to any applicable tracking technologies described herein.
+This policy explains how Waze Mobile Limited and its affiliates (“Waze”) uses cookies and your related choices. For more information on other ways we collect and use information from you and your use of our services, please see our [Privacy Policy](https://support.google.com/waze/answer/12075406). In this policy we use the term “cookies” to refer to any applicable tracking technologies described herein.
 
 WHAT ARE COOKIES?
 -----------------
 
-* **A cookie** is a small piece of text sent to your browser by a website you visit. It helps the website to remember information about your visit, like your preferred language and other settings. That can make your next visit easier and the site more useful to you. Cookies play an important role. Without them, using the web would be a much more frustrating experience.
-* **A pixel tag** is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened. Pixel tags are often used in combination with cookies.
-* **Single Sign-on** allows you to log in to certain of websites or mobile applications using sign-in services provided by third parties, such as Facebook or Google. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our [sign-up form](https://www.waze.com/signin?redirect=%2F).
+* **A cookie** is a small piece of text sent to your browser by a website you visit. It helps the website to remember information about your visit, like your preferred language and other settings. That can make your next visit easier and the site more useful to you. Cookies play an important role. Without them, using the web would be a much more frustrating experience.
+* **A pixel tag** is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened. Pixel tags are often used in combination with cookies.
+* **Single Sign-on** allows you to sign in to certain of websites or mobile applications using sign-in services provided by third parties, such as Google. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our [sign-up form](https://www.waze.com/signin?redirect=%2F).
 
 HOW WE USE COOKIES?
 -------------------
@@ -27,11 +27,11 @@ Loss of the information stored in a preference cookie may make the website exper
 
 ### Authentication
 
-We use these cookies to help us show you the right information and settings when you are logged-in to our website.
+We use these cookies to help us show you the right information and settings when you are signed in to our website.
 
 ### Security
 
-We use security cookies to authenticate users, prevent fraudulent use of login credentials, and protect user data from unauthorized parties.
+We use security cookies to authenticate users, prevent fraudulent use of Sign in credentials, and protect user data from unauthorized parties.
 
 ### Session State
 
@@ -45,12 +45,12 @@ Ad Partners:
 
 * [Google](https://adssettings.google.com/authenticated?hl=en).
 * [Facebook](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen).
-* [Linkedin](https://www.linkedin.com/start/join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpsettings%2Fadvertising%2Fwebsites-visited&trk=login_reg_redirect).
+* [LinkedIn](https://www.linkedin.com/start/join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpsettings%2Fadvertising%2Fwebsites-visited&trk=login_reg_redirect).
 * [Snapchat](https://support.snapchat.com/en-US/a/advertising-preferences).
 * [Yahoo](https://aim.yahoo.com/aim/us/en/optout/?guccounter=1).
 * [Twitter](https://twitter.com/settings/personalization).
 
-Learn more about how you can control [Advertising Cookies](https://www.waze.com/account/cookies_preferences).
+Learn more about how you can control [Advertising Cookies](https://www.waze.com/account/cookies_preferences).
 
 ### Analytics
 
@@ -58,24 +58,24 @@ Google Analytics is Google’s analytics tool that helps website and app owners 
 
 In addition to reporting website usage statistics, Google Analytics can also be used, together with some of the Advertising cookies described above, to help show more relevant ads on Google properties (like Google Search) and across the web and to measure interactions with the ads we show.
 
-Learn more about [Analytics cookies and privacy information](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies?hl=en).
+Learn more about [Analytics cookies and privacy information](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies?hl=en).
 
 YOUR CHOICES
 ------------
 
 * Please note that some cookies, such as Processes cookies, are essential to operate our website and without these cookies, the website cannot function properly.
     
-* Some browsers limit or delete cookies, so you may want to review your cookie settings and [ads settings](https://adssettings.google.com/). In some browsers you can set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy. This means that you can disallow cookies from all sites except those that you trust.
+* Some browsers limit or delete cookies, so you may want to review your cookie settings and [ads settings](https://adssettings.google.com/). In some browsers you can set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy. This means that you can disallow cookies from all sites except those that you trust.
     
-* If you use Google Chrome browser, you can use the “Clear Browsing Data” option included in Tools menu to delete cookies and other site and plug-in data, including data stored on your device by the Adobe Flash Player (commonly known as Flash cookies). See [instructions for managing cookies in Chrome](https://support.google.com/chrome/answer/95647).
+* If you use Google Chrome browser, you can use the “Clear Browsing Data” option included in Tools menu to delete cookies and other site and plug-in data, including data stored on your device by the Adobe Flash Player (commonly known as Flash cookies). See [instructions for managing cookies in Chrome](https://support.google.com/chrome/answer/95647).
     
-* Another feature of Chrome is its [incognito mode](https://support.google.com/chrome/answer/95464). You can browse in incognito mode when you don’t want your website visits or downloads to be recorded in your browsing and download histories. Any cookies created while in incognito mode are deleted after you close all incognito windows.
+* Another feature of Chrome is its [incognito mode](https://support.google.com/chrome/answer/95464). You can browse in incognito mode when you don’t want your website visits or downloads to be recorded in your browsing and download histories. Any cookies created while in incognito mode are deleted after you close all incognito windows.
     
 * For more information on how you can manage Advertising cookies, please see Section Advertising above.
     
-* You can also manage many companies’ cookies used for online advertising via the consumer choice tools created under self-regulation programmes in many countries, such as the US-based [aboutads.info choices](https://www.aboutads.info/choices) page or the EU-based [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices).
+* You can also manage many companies’ cookies used for online advertising via the consumer choice tools created under self-regulation programmes in many countries, such as the US-based [aboutads.info choices](https://www.aboutads.info/choices) page or the EU-based [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices).
     
-* Finally, you can [manage cookies in your web browser](https://policies.google.com/technologies/managing).
+* Finally, you can [manage cookies in your web browser](https://policies.google.com/technologies/managing).
     
 
 CHANGES TO THIS COOKIE POLICY
@@ -86,4 +86,4 @@ We may update this Cookie Policy from time to time. We encourage you to periodic
 CONTACT US
 ----------
 
-If you have any questions about our use of cookies, please contact us at [privacy@waze.com](mailto:privacy@waze.com).
+If you have any questions about our use of cookies, please contact us at [privacy@waze.com](mailto:privacy@waze.com).
