@@ -598,22 +598,20 @@ Primary legal basis/bases for processing personal data from the EU, EFTA States,
 
 Processing purpose
 
-**Identify verification for safety & security and general verification**
+**Identify verification for safety & security, general verification, and fraud and payment manipulation purposes**
 
 Data
 
-**What We Collect:**   
-Image of your ID, selfie, which includes face biometric data, and data from your ID
+**What we collect:**   
+Image of your ID, selfie, which includes face biometric data, and data from your ID.
 
-**How long do we store:**  
-Selfie is deleted soon after we receive verification/processing result
+**How long do we store:  
+**Data extracted from the ID, image of your ID, and the selfie may be kept for 30 days for optional X Premium and Safety and Security purposes, including impersonation. This provides you an opportunity to appeal a verification decision and for X to review your appeal.
 
-Image of your ID is deleted in 72 hours after processing
+Data extracted from the ID, image of your ID, and the selfie may be kept for 30 days in connection with identity verification for the Creator Subscriptions or Ads Revenue Share programs. The full name, address extracted from the ID, when possible, and hashed government ID number for identity verification for these programs will be stored by X for as long as you participate in the programs to help protect users from fraud and payment manipulation. 
 
-Data extracted from the ID may be kept for a longer period for safety purposes, including fraud and impersonation. The data extracted from the ID is deleted after for 30 days. This provides you an opportunity to appeal a verification decision and for X to review your appeal.
-
-**Who Stores the data & Who we share with:**  
-X does not directly store this data. X shares it with Au10tix, who acts as our data processor. Au10tix processes and stores the data as detailed above.
+**Who stores the data & who we share with:  
+**X does not directly store this data in connection with the optional X Premium and Safety and Security purposes, including impersonation. X directly stores the full name, a hash of the document ID number and address extracted from the ID in connection with identity verification for the Creator Subscriptions or Ads Revenue Share programs. In all use cases, X shares the data with Au10tix, who acts as our data processor. Au10tix processes and stores the data as detailed above.
 
 Primary legal basis/bases for processing personal data from the EU, EFTA States, and UK
 
