@@ -1,5 +1,5 @@
-Copyright Policy
-----------------
+Waze Copyright Policy
+=====================
 
 Waze Mobile Ltd. ("**Waze**") respects the intellectual property rights of others and requests the users of its services to do the same. If you believe that certain content, which appears on Waze real-time road maps (the "**Service**"), infringes upon copyrights that you own or represent, you may send Waze's designated copyright agent ("**Copyright Agent**") a written notification, stating the location of the copyrighted work claimed to be infringed, in accordance with the provisions of the Digital Millennium Copyright Act ("**DMCA**").
 
@@ -47,9 +47,9 @@ Waze may deny or cancel any individual use of the Website, or terminate your use
 
 The Copyright Agent is Tal Avery-Amit, Waze Mobile Ltd., Electra Tower, 29th Floor 98 Yigal Alon Tel-Aviv, 6789141 Israel Telephone: +972-74-746-6453  
 Fax: +972-3-761-7171  
-Email: [copyright@waze.com](mailto:copyright@linqmap.com).
+Email: [copyright@waze.com](mailto:copyright@linqmap.com).
 
-Please note that the Copyright Agent receives DMCA notifications only. Any other matters, such as comments, requests and other messages should be referred to: [support@waze.com](mailto:support@waze.com)
+Please note that the Copyright Agent receives DMCA notifications only. Any other matters, such as comments, requests and other messages should be referred to: [support@waze.com](mailto:support@waze.com)
 
 **Misrepresentations**
 
