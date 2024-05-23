@@ -1,20 +1,18 @@
 DeviantArt, Inc. Privacy Policy
 ===============================
 
-![deviantart-old-logo](https://st.deviantart.net/minish/main/logo/old-logo.png)
-
-_Policy last updated: January 12, 2021_
+_Policy last updated: Feburary 16, 2023_
 
 DeviantArt respects your privacy and is fully committed to protect your personal information and use it properly and in compliance with data privacy laws.
 
-This Privacy Policy applies to our web sites, including [www.deviantart.com](https://www.deviantart.com/), [www.deviantart.com/prints](https://www.deviantart.com/prints), [sta.sh](https://sta.sh/), and our DeviantArt mobile applications (collectively, the "**DeviantArt Sites**" or "**Sites**"). This Privacy Policy explains what information we (together with our affiliated companies worldwide) collect and use pertaining to each of our Account holders and non-Account holders (such as Site visitors) through the Sites, how we use that information, and what choices you have with respect to the information we collect about you. The Sites and our services available via the Sites are collectively called the "**Services**".
+This Privacy Policy applies to our web sites, including [www.deviantart.com](https://www.deviantart.com/), [www.deviantart.com/prints](https://www.deviantart.com/prints), [sta.sh](https://sta.sh/), and our DeviantArt mobile applications (collectively, the "**DeviantArt Sites**" or "**Sites**"). This Privacy Policy explains what information we (together with our affiliated companies worldwide) collect and use pertaining to each of our Account holders and non-Account holders (such as Site visitors) through the Sites, how we use that information, and what choices you have with respect to the information we collect about you. The Sites and our services available via the Sites are collectively called the "**Services**".
 
-Please take a few moments to read this Privacy Policy **before** you access or use the Services. By using or accessing the DeviantArt Sites, you acknowledge that you have read and fully understood this Privacy Policy and our Terms of Service and that they both apply to your use of the Services. If you do not read and fully understand this Privacy Policy, please do not use the Sites or Services. This Privacy Policy is not intended to override the terms of any contract you have with us, nor any rights you might have under applicable data privacy laws. Where you have read this policy but would like further clarification, please contact us at [help@deviantart.com](mailto:help@deviantart.com).
+Please take a few moments to read this Privacy Policy **before** you access or use the Services. By using or accessing the DeviantArt Sites, you acknowledge that you have read and fully understood this Privacy Policy and our Terms of Service and that they both apply to your use of the Services. If you do not read and fully understand this Privacy Policy, please do not use the Sites or Services. This Privacy Policy is not intended to override the terms of any contract you have with us, nor any rights you might have under applicable data privacy laws. Where you have read this policy but would like further clarification, please contact us at [help@deviantart.com](mailto:help@deviantart.com).
 
 1\. What information do we collect?
 -----------------------------------
 
-To provide you the Services, we may collect personal information relating to an identified or identifiable natural person ("**Information**").
+To provide you the Services, we may collect personal information relating to an identified or identifiable natural person ("**Information**").
 
 We collect Information in order to provide, operate and improve our Sites and Services, to administer your use of the Site or Services (including your Account, as defined below), and to enable you to enjoy and easily navigate our Site and Services. Additionally, we collect your information, among other reasons stated below, to provide you with ongoing customer assistance and technical support, and to enhance our data security and fraud prevention capabilities.
 
@@ -68,7 +66,7 @@ We may share your information with service providers and others (or otherwise al
 
 3.5. _Information We Disclose with Your Consent or at Your Request_. We will share your Information with third-party websites or platforms, such as social networking sites, if you have expressly requested that we do so.
 
-3.6. _Social Media Features and Framed Pages:_ Our Services include certain Social Media features and widgets, such as the "Facebook Like" button, the "Share this" button or other interactive mini-programs ("Social Media Features"). These Social Media Features may collect information such as your IP address or which page you are visiting on our Sites, and may set a cookie to enable them to function properly. Social Media Features are either hosted by a third party or hosted directly on our Services. Your interactions with these third parties' Social Media Features are governed by their policies and not ours.
+3.6. _Social Media Features and Framed Pages:_ Our Services include certain Social Media features and widgets, such as the "Facebook Like" button, the "Share this" button or other interactive mini-programs ("Social Media Features"). These Social Media Features may collect information such as your IP address or which page you are visiting on our Sites, and may set a cookie to enable them to function properly. Social Media Features are either hosted by a third party or hosted directly on our Services. Your interactions with these third parties' Social Media Features are governed by their policies and not ours.
 
 **For the avoidance of doubt, we may share your Information in manners other than as described above, pursuant to your explicit approval, or if we are legally obligated to do so.**
 
@@ -83,12 +81,12 @@ We may share your information with service providers and others (or otherwise al
 
 4.1.3. Our affiliates and service providers that store or process your Information on our behalf are each contractually committed to keep it protected and secured, in accordance with industry standards and regardless of any lesser legal requirements which may apply in their jurisdiction.
 
-4.2. Transfer of EU Personal data : If you are located in Europe, when we will transfer your Personal Information to the United States or anywhere outside Europe, we will make sure that (i) there is a level of protection deemed adequate by the European Commission or (ii) that the relevant Model Standard Contractual Clauses are in place.DeviantArt participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all Information received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield List, [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+4.2. Transfer of EU Personal data : If you are located in Europe, when we will transfer your Personal Information to the United States or anywhere outside Europe, we will make sure that (i) there is a level of protection deemed adequate by the European Commission or (ii) that the relevant Model Standard Contractual Clauses are in place.DeviantArt participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework and the Swiss-U.S. Privacy Shield Framework. We are committed to subjecting all Information received from European Union (EU) member countries and Switzerland, respectively, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield List, [https://www.privacyshield.gov](https://www.privacyshield.gov/).
 
 5\. Use of Cookies and Similar Technologies
 ===========================================
 
-5.1. A cookie is a small file of letters and numbers downloaded on to your computer when you access certain websites. In general, cookies allow a website to recognize a user’s computer. The most important thing to know about cookies placed by DeviantArt is that they make our website a bit more user-friendly, for example, by remembering site preferences and language settings.
+5.1. A cookie is a small file of letters and numbers downloaded on to your computer when you access certain websites. In general, cookies allow a website to recognize a user's computer. The most important thing to know about cookies placed by DeviantArt is that they make our website a bit more user-friendly, for example, by remembering site preferences and language settings.
 
 5.2. Cookies should be divided in two types:
 
@@ -125,9 +123,8 @@ Please check out the table below to receive information about the type, categori
 | Cookie | tw  | image grid sizing for SSR (green site) | 7 day | Essential |
 | Cookie | hubtoken | websocket push messages | session | Essential |
 | Cookie | tpc | Oauth login for stash | session | Essential |
-| Cookie | vd  | Used for Advertising | 1 month | Marketing |
 | Local Storage | chatDB | Allow chat feature | persistent | Essential |
-| Local Storage | console\_dapi\_recent, console\_recent | Recently used endpoints list in API developer console | persistent | Analytics |
+| Local Storage | console\_dapi\_recent, console\_recent | Recently used endpoints list in API developer console | persistent | Essential |
 | Local Storage | custombox.recent.colors | Remembers colors used in custom boxes | persistent | Functional |
 | Local Storage | FilmQuality | Allow the use of player settings | persistent | Essential |
 | Local Storage | statusUpdateSubmitCounter | Number of status updates submitted via eclipse | persistent | Functional |
@@ -138,23 +135,11 @@ Third Party Cookies:
 | Type | Name | Third party | Purpose | Duration |     |
 | --- | --- | --- | --- | --- | --- |
 | Beacon and Cookie | \_pxhd | PerimeterX ([https://www.perimeterx.com/legal/privacy/](https://www.perimeterx.com/legal/privacy/)) | Security | 1 y | Essential |
-| Beacon and Cookie | \_ga, \_gat, \_gid, \_utm\* | Google Analytics([https://policies.google.com/privacy?hl=en-US](https://policies.google.com/privacy?hl=en-US)) | Analytics | 2y  | Analytics |
-| Beacon and Cookie | r/collect | Google Doubleclick Ads (through Google Analytics)[https://policies.google.com/privacy?hl=en-US](https://policies.google.com/privacy?hl=en-US) | Analytics | session | Marketing |
-| Beacon and Cookie | large number, varies | Google Doubleclick Ads and other Ads networks [https://policies.google.com/privacy?hl=en-US](https://policies.google.com/privacy?hl=en-US) | Advertising | varies | Marketing |
-| Beacon and Cookie | JSESSIONID | New Relic ([https://newrelic.com/termsandconditions/privacy](https://newrelic.com/termsandconditions/privacy)) | System Monitoring | session | Essential |
 | Script and Cookie | TS#, XSRF-TOKEN | Wix.com [https://www.wix.com/about/privacy](https://www.wix.com/about/privacy) | Security | session | Essential |
 | Script and Cookie | frog.wix.com | Wix.com [https://www.wix.com/about/privacy](https://www.wix.com/about/privacy) | Identify logged users | persistent | Essential |
 | Script and Cookie | fed ,fedops.logger.sessionId | Wix.com [https://www.wix.com/about/privacy](https://www.wix.com/about/privacy) | System monitoring | persistent | Essential |
 | Local Storage | debug, debugpanel-height, debugpanel-tab, debugpanel-visible | Wix.com [https://www.wix.com/about/privacy](https://www.wix.com/about/privacy) | System Monitoring | persistent | Essential |
 | Local Storage | firebase:host:wix-engage-visitors-prod-27.firebaseio.com | Wix.com | Allow the Chat feature | persistent | Essential |
-
-Your Choices
-
-You can change your cookie settings by clicking in this [link](https://deviantart.com/settings/cookies).
-
-Alternatively, it is also possible to stop your browser from accepting cookies altogether by changing your browser's cookie settings. You can usually find these settings in the "options" or "preferences" menu of your browser.
-
-Please note that deleting our cookies or disabling future cookies or tracking technologies may prevent you from accessing certain areas or features of our Services or may otherwise adversely affect your user experience.
 
 6\. Communications:
 ===================
@@ -174,11 +159,11 @@ It is important that you are always able to receive such messages. For this reas
 
 7.3. You have the right to lodge a complaint with your local supervisory authority for data protection (but we still recommend you to contact us first).
 
-7.4. For all DeviantArt Users, if you may review and amend your Information by logging in and navigating to your  [Settings page](https://www.deviantart.com/settings/general) on the website. Once there, you may modify information that is incorrect and delete certain information from your profile. You can also change your permission settings for us to send you e-mail newsletters.
+7.4. For all DeviantArt Users, if you may review and amend your Information by logging in and navigating to your [Settings page](https://www.deviantart.com/settings/general) on the website. Once there, you may modify information that is incorrect and delete certain information from your profile. You can also change your permission settings for us to send you e-mail newsletters.
 
 7.5. For all DeviantArt Users, if you wish to **retrieve your DeviantArt Account data** or **permanently delete your DeviantArt data**, please follow the instructions provided in the following article: [https://www.deviantart.com/settings/gdpr/](https://www.deviantart.com/settings/gdpr/).
 
-7.6. In addition, feel free to send us an e-mail to help@deviantart.com, or mail your request to DeviantArt953 N Sycamore Avenue, #700, Los Angeles, CA 90038. We will make all reasonable efforts to honor your request promptly (unless we require further information fromyou in order to fulfil your request) subject to legal and other permissible considerations.
+7.6. In addition, feel free to contact us online, or mail your request (see Section 15). We will make all reasonable efforts to honor your request promptly (unless we require further information from you in order to fulfil your request), subject to legal and other permissible considerations.
 
 7.6.1. Please note that permanently deleting your Account erases all of your information from our databases. After completing this process, you can no longer use any of your Services, your Account and all its data will be removed permanently, and we will not be able to restore your Account or retrieve your data in the future. If you contact DeviantArt Support in the future, the system will not recognize your Account and support agents will not be able to locate the deleted Account.
 
@@ -189,9 +174,9 @@ It is important that you are always able to receive such messages. For this reas
 
 8.2. In order to exercise the right to request access to and deletion of your Information, please see the information on the section 7, above.
 
-8.3. DeviantArt does **not** sell user Information to third parties for the intents and purposes of the CCPA.
+8.3. DeviantArt does not sell user Information to third parties for the intents and purposes of the CCPA.
 
-8.4. Users of the Services who are California residents and under 18 years of age may request and obtain removal of content they posted by emailing us at <help@deviantart.com>. All requests must be labeled "California Removal Request " on the email subject line. All requests must provide a description of the content you want removed and information reasonably sufficient to permit us to locate that content. We do not accept California Removal Requests via postal mail, telephone, or facsimile. We are not responsible for notices that are not labeled or sent properly, and we may not be able to respond if you do not provide adequate information. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party.
+8.4. Users of the Services who are California residents and under 18 years of age may request and obtain removal of content they posted by emailing us at help@deviantart.com. All requests must be labeled "California Removal Request" on the email subject line. All requests must provide a description of the content you want removed and information reasonably sufficient to permit us to locate that content. We do not accept California Removal Requests via postal mail, telephone, or facsimile. We are not responsible for notices that are not labeled or sent properly, and we may not be able to respond if you do not provide adequate information. Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party.
 
 9\. Data Retention
 ==================
@@ -212,7 +197,7 @@ We may continue to retain such Information even after you deactivate your Accoun
 11\. Third-Party Websites
 =========================
 
-Our Services may contain links to other websites or services. We are not responsible for such websites’ or services’ privacy practices. We encourage you to be aware when you leave our Services and to read the privacy statements of each and every website and service you visit before providing your information. This Privacy Policy does not apply to such linked third party websites and services which are subject only to the third party policies.
+Our Services may contain links to other websites or services. We are not responsible for such websites' or services' privacy practices. We encourage you to be aware when you leave our Services and to read the privacy statements of each and every website and service you visit before providing your information. This Privacy Policy does not apply to such linked third party websites and services which are subject only to the third party policies.
 
 12\. Your Profile Page
 ======================
@@ -224,7 +209,7 @@ Our Services may contain links to other websites or services. We are not respons
 13\. Questions and Complaints
 =============================
 
-13.1. If you have any questions or concerns about our collection, use or disclosure of information, or if you believe that we have not complied with this Privacy Policy or applicable data protection laws, please contact us – our details are set out at the end of this Privacy Policy.
+13.1. If you have any questions or concerns about our collection, use or disclosure of information, or if you believe that we have not complied with this Privacy Policy or applicable data protection laws, please contact us - our details are set out at the end of this Privacy Policy.
 
 13.2. Our Data Protection Officer team will investigate the complaint and determine whether a breach has occurred and what action, if any, to take. We take every privacy complaint seriously and will make all reasonable efforts to resolve your complaint promptly and in accordance with applicable law.
 
