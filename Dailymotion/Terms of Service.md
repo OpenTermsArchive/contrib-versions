@@ -3,11 +3,11 @@ Terms Of Use
 
 **Your use of the Dailymotion Service implies your acceptance of these Terms of Use including the Prohibited Content Policy and the Data Protection Annexes below (with the Standard Contractual Clauses incorporated therein). We ask You to read them carefully.**
 
-_Last update date: February 16, 2024._
+_Last update date: May 24, 2024._
 
 ### **SECTION 1: DESCRIPTION OF THE DAILYMOTION SERVICE**
 
-1.1. Dailymotion (“**Dailymotion**”, “**we**”, “**us**” or “**our**”) is an original, free video hosting website that enables users to access, view, upload, store and share videos. The Dailymotion Service is made up of the Dailymotion website, the Dailymotion video player that is embeddable onto any website (the “**Video Player**”), the Dailymotion apps and web-apps as accessible (online or offline) via any current or future device capable of distributing the Dailymotion website and/or the Video Player and more generally, any Dailymotion products, content, channels, software, data feeds, services and functionality (“**Dailymotion Service**”).
+1.1. Dailymotion (“**Dailymotion**”, “**we**”, “**us**” or “**our**”) operates an original, free video hosting service that enables users to upload, store and share videos, and access and view those shared videos in association with advertising. The Dailymotion Service is made up of the Dailymotion website, the Dailymotion video player that is embeddable onto any website or app (the “**Video Player**”), the Dailymotion apps and web-apps as accessible (online or offline) via any current or future device capable of distributing the Dailymotion website and/or the Video Player and more generally, any Dailymotion products, content, channels, software, data feeds, services and functionality (“**Dailymotion Service**”).
 
 1.2. By accessing and/or using the Dailymotion Service, without being logged into a Dailymotion Account**, You (“You” or “Your” as applicable) will be hereinafter a “Viewer.” As a Viewer, You will only have the ability to access, view or share videos available on the Dailymotion Service, but will not be able to benefit from all the other features available on the Dailymotion Service.** A “**Dailymotion Account**” means the video content storage space on the Dailymotion Service which is dedicated to a User (as defined below) on the Dailymotion Service that can be created by signing up for a Dailymotion Account via [www.dailymotion.com](http://www.dailymotion.com/).
 
@@ -24,6 +24,8 @@ _Last update date: February 16, 2024._
 1.8. As a User or a Partner, You are expected to be an active part of the Dailymotion community. As such, You also acknowledge that if Your Dailymotion Account remains inactive for a significant period of time, Dailymotion reserves the right to delete, reclaim or remove Your Dailymotion Account in its sole discretion with or without prior notice to You.
 
 1.9. Any and all individuals or entities accessing the Dailymotion Service may be referred hereafter as a “**Visitor,**” regardless of their status (i.e. be they a Viewer, Account Applicant, User or Partner).
+
+1.10. The Dailymotion Service offers access to videos in association with advertising. Presence of advertisement is an essential feature of our Services. Use of technical or other means aiming to prevent the presence of ads (so-called “ad-blockers”) is explicitly prohibited and its detection may lead to blocking Your access to our Service.
 
 ###   
 **SECTION 2: ACCEPTANCE OF THESE TERMS**
@@ -113,7 +115,7 @@ Some jurisdictions limit or do not allow the disclaimer of warranties or damages
 
 6.3. Failure to comply with the Terms may result in (i) Your Content being removed and/or (ii) Your Dailymotion Account being deactivated and/or (iii) Your use of the embeddable Dailymotion Video Player being blocked and/or (iv) any elements or data related to Your Content or to Your Dailymotion Account being modified or removed (i.e. allegedly infringing username, metadata considered inappropriate, etc.) from the Dailymotion Service. In addition, Dailymotion reserves the right to report any violation of these provisions to applicable legal authorities and You may be personally liable to criminal sanctions applicable to the content in question, in addition to any applicable civil damages depending on the contentious nature of the content.
 
-6.4. Because the Dailymotion Service is not designed as a video back-up service, You are responsible for taking all necessary precautions to safeguard Your video files.
+6.4. Because the Dailymotion Service is not designed as a video back-up service, You are responsible for taking all necessary precautions to safeguard Your video files. Additionally, pursuant to then-current inactive content and accounts rules, we reserve the right to delete Your inactive Content and/or Your Dailymotion Account from our Service.
 
 6.5. Moreover, You shall not (i) falsely increase the number of views, impressions or clicks associated with Your Content or Third-Party Video(s) either directly or indirectly, or automatically (such as using robots, botnets or scrapers) or manually, (ii) authorize or encourage any third-party including offering any financial incentive to do the same, (iii) misuse any reporting, flagging, complaint, dispute, or appeals process, including by making false, groundless, vexatious, or frivolous submissions.
 
@@ -145,13 +147,19 @@ Some jurisdictions limit or do not allow the disclaimer of warranties or damages
 
 8.3. In accordance with Internet practice and custom, You acknowledge and agree that advertisements may be incorporated into the Dailymotion Service and then associated to Your Dailymotion Account and/or Your Content.
 
-8.4. During Your use of our Service, the data that You provide us or that we collect or otherwise receive about You are stored by Dailymotion on servers belonging to Dailymotion SA and located in France. Copies of some of this data, including copies of Your Content, are also, for technical reasons related to the proper functioning and security of our systems, stored on servers belonging to Dailymotion SA located in the United States and in Singapore.
+8.4. During Your use of our Service, the data that You provide to us or that we collect or otherwise receive about You are stored by Dailymotion on servers belonging to Dailymotion SA and to our service providers (ex. cloud storage service providers) located both in the European Economic Area (“EEA”) and outside the EEA.
 
-Dailymotion also uses cloud storage providers to store certain information concerning Your activity on our Service (excluding Your Content which we only store on servers that belong to us).
+In particular, Your **video Content is stored in the European Economic Area** (“EEA”). If You decide to make Your video Content available outside of the EEA, for technical reasons inherent to video delivery technology, a temporary cache copies of extracts of Your video Content may also be stored outside of EEA.
 
-Dailymotion has implemented, or has insured that its service providers have implemented, industry-standard systems and procedures to ensure the security and confidentiality of data, to protect against anticipated threats or hazards to the security or integrity of Your personal data and Your Content and to protect against unauthorized access to or use thereof. The technical constraints related to the international presence of the Dailymotion Service do not allow us to store data in a single country. **If You do not want Your data or data concerning You to be stored outside of Your country of residence, then do not use the Dailymotion Service. By using the Dailymotion Service, You consent to this transfer, Processing and storage of data, including personal data**. For clarity, when the provision or use of the Dailymotion Service involves transfer of personal data outside of data subject country of residence, each Party will (where applicable) comply with the legal obligations relating to such transfers, storage and Processing. In particular, when third-parties’ personal data is incorporated in Your Content, You shall ensure that You have all necessary and legally required consents (including, when applicable, data subjects’ consent) prior to use of the Dailymotion Service.
+Your Comments are stored outside the EEA, namely in the USA.
 
-8.5. As a User, You have the ability to upload Content (which includes the title and description of the video) incorporating personal data. We remind You that You remain responsible for the Processing of the personal data incorporated therein and that Dailymotion acts only as a Data Processor of this data, as these terms are defined by applicable laws on the protection of personal data. In this respect, as data controller, You commit to respecting the Applicable Data Protection Laws, and especially to lawfully collect and process this data and to answer data subjects requests. In particular, You warrant that You have obtained and will maintain all required consents from third-parties whose personal data is incorporated in Your Content as necessary to allow us to provide the Dailymotion Service. You may refer to the provisions set out in Appendix A of the Terms in order to learn more about Your status as a data controller under the General Data Protection Regulation (GDPR) for the personal data of data subjects residing in the European Economic Area that may be incorporated into the Content that You upload on our Service.
+As any other business, Dailymotion uses third parties’ services to carry out its operations. Some of these services require processing of Your data outside of the EEA. For example, we use non-EEA cloud storage to store information pertaining to the delivery of advertising shown to You. For more details on how Your personal data is processed outside the EEA please refer to our [Privacy Policy](https://legal.dailymotion.com/en/privacy-policy/#10-international-data-transfers-and-standard-contrcatual-clauses).
+
+The technical constraints related to the international presence of the Dailymotion Service do not allow us to store data in a single country. Dailymotion has implemented, or has insured that its service providers have implemented, industry-standard systems and procedures aiming at ensuring the security and confidentiality of Your data, protection against anticipated threats or hazards thereto and unauthorized access to or use thereof. Nevertheless, **if You do not want Your data or data concerning You to be stored outside of Your country of residence, then do not use the Dailymotion Service. By using the Dailymotion Service, You consent to this transfer, Processing and storage of data, including personal data**.
+
+For clarity, when the provision or use of the Dailymotion Service involves transfer of personal data outside of data subject country of residence, each Party will (where applicable) comply with the legal obligations relating to such transfers, storage and Processing. In particular, when Your Content contains Third Parties’ personal data, You shall ensure and warrant Dailymotion thereto, that You have all necessary authorizations and consents (including, when applicable, data subjects’ consent) prior to the use of the Dailymotion Service and the resulting transfer.
+
+8.5. As a User, You have the ability to upload Content (which includes the title and description of the video) incorporating personal data. We remind You that You remain responsible for the Processing of the personal data incorporated therein and that Dailymotion acts only as a Data Processor of this data, as these terms are defined by applicable laws on the protection of personal data. In this respect, as a Data Controller, You commit to respecting the Applicable Data Protection Laws, and especially to lawfully collect and process this data and to answer data subjects requests. In particular, You warrant that You have obtained and will maintain all required consents from third-parties whose personal data is incorporated in Your Content as necessary to allow us to provide the Dailymotion Service. You may refer to the provisions set out in Appendix A of the Terms in order to learn more about Your status as a data controller under the General Data Protection Regulation (GDPR) for the personal data of data subjects residing in the European Economic Area that may be incorporated into the Content that You upload on our Service.
 
 8.6. Dailymotion takes Your privacy and the protection of Your personal data collected and processed in connection with Your use of the Dailymotion Service very seriously. If You want to find out more about the personal data collected, how we collect it and the related processes, You can check our [Privacy Policy](https://www.dailymotion.com/legal/privacy) any time available from the Dailymotion homepage.
 
@@ -184,15 +192,15 @@ If You reside in a country that is not part of the European Economic Area, the U
 
 9.11. You affirm that You are either more than 18 years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in the Terms, and to abide by and comply with the Terms. In any case, You affirm that You are over the age of 13, as the Dailymotion Service is not intended for children under 13. If You are under 13 years of age, then please do not use the Dailymotion Service
 
-**Last Updated:** February 16, 2024
+**Last Updated:** May 24, 2024
 
 **APPENDIX A – Prohibited Content Policy**
 ------------------------------------------
 
   
-Dailymotion endeavors to ensure a safe and respectful viewing environment for its Visitors. In order to protect its community, Dailymotion prohibits the content defined in Section I below (“Prohibited Content(s)”) and has developed a feature to limit the visibility of so-called sensitive content presented in Section IV.
+Dailymotion endeavors to ensure a safe and respectful viewing environment for its Visitors. In order to protect its community, Dailymotion prohibits the content defined in Section I below (“**Prohibited Content(s)**”) and has developed a feature to limit the visibility of so-called sensitive content presented in Section IV.
 
-As a hosting service provider, Dailymotion cannot guarantee that no inappropriate or illegal content will disturb your experience. Indeed, Dailymotion is neither legally required nor able to monitor and control each and every piece of content uploaded onto the Service. Therefore, we encourage our Visitors to notify us of any Prohibited Content on the Dailymotion Service using the methods described in Section II.
+As a hosting service provider, Dailymotion cannot guarantee that no inappropriate or illegal content will disturb your experience. Indeed, Dailymotion is neither legally required nor able to monitor and control each and every piece of content uploaded onto the Service. Therefore, we **encourage our Visitors to notify us of any Prohibited Content** on the Dailymotion Service using the **methods described in Section II**.
 
 Furthermore, Users are formally prohibited from putting online any content that falls into one of the categories of Prohibited Content as defined in Section I, and a violation of this may result in the consequences set out in Section III.
 
@@ -445,8 +453,7 @@ For more information on this type of content, you can read the dedicated article
 
 Dailymotion prohibits any copyright-infringing content. The distribution of any content reproducing all or part of a work protected by a copyright without the authorization of the author or the person who holds the rights for this exploitation is indeed forbidden.
 
-  
-In particular, it is forbidden for our Users to post online any content including all or part of:  
+In particular, it is forbidden for our Users to post online any content including all or part of:
 
 * Pre-existing music and/or songs (recordings, soundtracks of films, series, etc.);
 * Audiovisual works (film, series, video clips, TV show, advertisement etc.),
@@ -457,18 +464,15 @@ In particular, it is forbidden for our Users to post online any content includin
 
 of which the User is not the author and for the distribution of which no necessary authorization has been obtained.
 
-  
-However, it should be noted that:  
+However, it should be noted that:
 
 * The notion of ‘work’ is extremely broad. Indeed, originality of a work is the only condition to access copyright protection, without the merit of the work and/or its destination being relevant. Thus, the User must bear in mind that all content is potentially subject to copyright protection and therefore its exploitation must be authorized;
 * The exploitation of a work that has fallen into the public domain may remain subject to certain requirements. However, note that:
-    * o It must always respect the moral rights (which remains even after entering the public domain), and  
-        
-    * o The exploitation of an adaptation and/or interpretation of the work that has fallen into the public domain remains subject to the authorization of the rights holders of the adaptation and/or interpretation concerned when these latter have not fallen into the public domain; and
-* That certain uses of protected works may be possible without the authorization of their authors or of the person who holds the rights to such works when they fall within the scope of the exceptions to copyright and/or related rights provided for by the applicable laws and regulations (and in particular in France by articles L.122-5 L and L.211-3 of the Intellectual Property Code, as detailed in our Help Centre at the following address: https://faq.dailymotion.com/hc/en-us/articles/360020018900-Exceptions-to-copyright) which must always be interpreted strictly.
+    * It must always respect the moral rights (which remains even after entering the public domain), and
+    * The exploitation of an adaptation and/or interpretation of the work that has fallen into the public domain remains subject to the authorization of the rights holders of the adaptation and/or interpretation concerned when these latter have not fallen into the public domain; and
+* That certain uses of protected works may be possible without the authorization of their authors or of the person who holds the rights to such works when they fall within the scope of the exceptions to copyright and/or related rights provided for by the applicable laws and regulations (and in particular in France by articles L.122-5 L and L.211-3 of the Intellectual Property Code, as detailed in our Help Centre at the following address: [https://faq.dailymotion.com/hc/en-us/articles/360020018900-Exceptions-to-copyright](https://faq.dailymotion.com/hc/en-us/articles/360020018900-Exceptions-to-copyright)) which must always be interpreted strictly.
 
-Any User who violates the rules set out above and/or encourages their violation is liable to the consequences set out in Section III.  
-For more information on this type of content, you can read our dedicated article on our Help Center.
+Any User who violates the rules set out above and/or encourages their violation is liable to the consequences set out in Section III. For more information on this type of content, you can read our dedicated article on our Help Center.
 
 #### K. Content infringing other’s rights
 
@@ -496,12 +500,13 @@ For more information on this type of content, you can read the dedicated article
 
 ### II) DETECTION AND REPORT OF PROHIBITED CONTENT
 
-As a hosting service provider, Dailymotion has no general legal obligation to monitor the Content uploaded on the Dailymotion Service nor any general legal obligation to investigate facts or circumstances revealing illicit activities but must immediately remove or disable access to any illicit Content after being informed of its existence.  
+As a hosting service provider, Dailymotion has no general legal obligation to monitor the Content uploaded on the Dailymotion Service nor any general legal obligation to investigate facts or circumstances revealing illicit activities but must immediately remove or disable access to any illicit Content after being informed of its existence.
+
 Dailymotion has therefore put in place detection and reporting tools allowing Dailymotion to be aware of the presence of Prohibited Content on the Dailymotion Service.  
 The presence of Content that may violate the Prohibited Content Policy can be brought to Dailymotion attention by two means:
 
-1. via the automatic detection devices set up on the Dailymotion Service; (A)
-2. via Users’ reporting through the reporting tool present near each video; (B) or through contacting Dailymotion by e-mail or by letter (C).
+1. via the **automatic detection devices** set up on the Dailymotion Service (A) or;
+2. via **Users’ reporting** through the **reporting tool** present near each video; (B) or through contacting Dailymotion **by e-mail or by letter** (C).
 
 #### A. Automatic detection devices
 
@@ -509,7 +514,7 @@ The automatic detection device implemented by Dailymotion includes:
 
 1. **List of keywords and short phrases**
 
-Dailymotion has put in place a list of keywords and short phrases to prevent the uploading of Content that is clearly contrary to this Prohibited Content Policy. This list is updated every week and takes into account the “Moderation Decisions” made during the previous 6 months.
+Dailymotion has put in place a list of keywords and short phrases to prevent the uploading of Content that is clearly contrary to this Prohibited Content Policy. This list is updated every week and takes into account the “**Moderation Decisions**” made during the previous 6 months.
 
 Thus, when uploading Content to the Service, if a word or short phrase in the comment, title or description of the video being uploaded is present in the above-mentioned list, the Content in question will be forwarded to our moderation team.  
 The Restricted Mode may be applied to Video Content (as described in Section IV).
@@ -522,11 +527,11 @@ Despite their high efficiency and their innovative character, these technologies
 
 #### B. The reporting tool for Prohibited Content
 
-Dailymotion encourages its Visitors to report any Content that may violate the Prohibited Content Policy. These reports allow the Dailymotion Service to remain a safe space for everyone. This is the fastest way for Visitors to report any Content that they believe violates this Prohibited Content Policy. Our team reviews all reported Content 24 hours a day, 7 days a week.
+Dailymotion encourages its Visitors to report any Content that may violate the Prohibited Content Policy. These reports allow the Dailymotion Service to remain a safe space for everyone. This is the **fastest way for Visitors to report any Content** that they believe violates this Prohibited Content Policy. Our team reviews all reported Content 24 hours a day, 7 days a week.
 
 ##### 1\. **Video Content Reporting Tool**
 
-To report video Content, you need to:
+To report **video** Content, you need to:
 
 1. Click on the “Report” button available near each video;
 2. Specify whether the report concerns the entire video or only a specific extract (a time stamp is assigned by default but can be modified);
@@ -535,7 +540,7 @@ To report video Content, you need to:
 5. Fill in your first name and surname(s) (as they appear on an official identity document issued by an administration) as well as your e-mail address. This information will allow Dailymotion to inform the Visitor who has reported the Content of the follow-up given to the report.
 
   
-It should be noted that it is not necessary to have a Dailymotion account to report Prohibited Video Content.
+It should be noted that it is NOT necessary to have a Dailymotion account to report Prohibited Video Content.
 
 In the event of a report of copyright infringement or infringement of other rights, the Visitor will be redirected to a dedicated form. He must necessarily include the URL address of the reported video. Otherwise, Dailymotion will not be able to process the report.  
 The reporting forms specific to copyright infringement or other rights infringement are also available via this link.  
@@ -555,7 +560,7 @@ Any report sent to Dailymotion through the reporting tool will be treated in acc
 
 #### C. E-mail or postal reports
 
-The presence of Content that may violate the Prohibited Content Policy may also be reported to Dailymotion by e-mail or by letter. In such case, all of the following elements shall be communicated to Dailymotion:
+The presence of Content that may violate the Prohibited Content Policy may also be reported to Dailymotion **by e-mail or by letter**. In such case, all of the following elements shall be communicated to Dailymotion:
 
 * Depending on the status of the author of the report, the elements necessary to process the request will differ. If the author of the report is:
     * A physical person: he/she must specify his/her first name, surname(s) and e-mail address;
@@ -565,7 +570,7 @@ The presence of Content that may violate the Prohibited Content Policy may also 
 If the report is made in the name of a third party, it is necessary to provide Dailymotion with all supporting documents attesting that the author of the report is duly authorized to represent this third party;
 
 * A description of the Content reported, and its precise location (URL of the video(s) concerned or the page on which the comment(s) is/are available);
-* The main motive for the report (by reference to the Categories of Prohibited Content described in Section I of this Policy); and
+* The main reason of the report (by reference to the Categories of Prohibited Content described in Section I of this Policy); and
 * and, for any report of copyright infringement or infringement of other rights, any documents and/or information allowing to characterize the infringement in question.
 
 No action will be taken on requests that do not include all the elements that would allow Dailymotion to process the report.  
@@ -609,7 +614,7 @@ Eğer Türkiye’de ikamet ediyorsanız, 5651 sayılı Kanun kapsamında görevl
 **Adres:** Buyukdere Cd. No. 193/2 Esentepe – Sisli – Istanbul (Turkey)  
 **Eposta adresi:** Gokhan.gokce.external@dailymotion.com
 
-**• Reports from resident living elsewhere in the world:**
+**• Reports from resident living elsewhere in the world or from competent EU Member States Authorities in regards to the DSA application:**
 
 **Mailing Address:**  
 Dailymotion SA,  
@@ -745,6 +750,8 @@ Any video whose access has been restricted will not be monetized or recommended 
 **APPENDIX B – Data Protection Annex**
 --------------------------------------
 
+_Last Update of this DPA: May 24, 2024._
+
 ###   
 **PREAMBLE**
 
@@ -761,7 +768,7 @@ Note that if you act on behalf of a third party Data Controller, you are a Data 
 
 We remind you that as a Data Controller, it is Your responsibility to establish the existence of a legal basis applicable to the Processing of Third Party Personal Data incorporated in your Content, be it consent, legitimate interest, contract, or another legally recognized legal basis. **In the absence of such valid legal basis, making available on our Service any Content that incorporates Third Party Personal Data constitutes an infringement of our Prohibited Content Policy** (Appendix A).
 
-In visiting and/or using the Dailymotion Service, You accept the DPA as binding on You, and acknowledge that it applies to the Processing of Third-Party Personal Data by Dailymotion as Your Data Processor in relation to the Content that You make available on our Service. If You do not agree with the terms of this DPA, then do not upload, post or otherwise make available Content on the Dailymotion Service.
+In using the Dailymotion Service, You accept the DPA as binding on You, and acknowledge that it applies to the Processing of Third-Party Personal Data by Dailymotion as Your Data Processor in relation to the Content that You make available on our Service. If You do not agree with the terms of this DPA, then do not upload, post or otherwise make available Content on the Dailymotion Service.
 
 Note that, in addition to the Processing of Third-Party Personal Data as Your Data Processor, Dailymotion processes other categories of Your personal data during Your use of our Service, and that regardless of whether You are a Viewer, Account Applicant, User or Partner. While Processing Your personal data (other than the Third-Party Personal Data described above) (i) Dailymotion is not Your Data Processor but the Data Controller, and (ii) such Processing of Your personal data is not governed by this DPA but is described in our [Privacy Policy](https://legal.dailymotion.com/en/privacy-policy/).
 
@@ -770,7 +777,7 @@ You and Dailymotion may be individually referred to herein as “**Party**” or
 ###   
 **1\. Context**
 
-You are the Data Controller of the Third-Party Personal Data that may be incorporated into Your Content. In this capacity, You retain full control over such Third-Party Personal Data. By uploading Your Content on our Service, You (acting as Data Controller) instruct Dailymotion (acting in its capacity as Data Processor) to process the Third-Party Personal Data by hosting the Content and providing to You with content management tools.
+You are the Data Controller of the Third-Party Personal Data that may be incorporated into Your Content. In this capacity, You retain full control over such Third-Party Personal Data. By uploading Your Content on our Service, and using the available Content management features, You (acting as Data Controller) instruct Dailymotion (acting in its capacity as Data Processor) to process the Third-Party Personal Data by hosting the Content and providing to You with content management and communication tools.
 
 If You act on behalf of a different Data Controller, You are a Data Processor and Dailymotion is a Sub-Processor. In such case, any references to Data Controller and Data Processor in this DPA shall be updated accordingly.
 
@@ -800,7 +807,7 @@ In this DPA, capitalized terms and phrases have the meanings indicated below, 
 ###   
 **3\. Characteristics of the Processing**
 
-You confirm and warrant that confining to us Processing of that Third Party Personal Data is in compliance with the Applicable Data Protection Laws, and, in particular, that You (or the Data Controller You act on behalf of) have established a valid legal basis therefor (ex. consent, contract, legitimate interest, etc.). If You use our Service as a Data Processor of a third party Data Controller, You also confirm and warrant that confining to us Processing of that Third Party Personal Data is in compliance with the instructions You receive from the Data Controller.
+You confirm and warrant that confining to us Processing of Third Party Personal Data included in Your Content is in compliance with the Applicable Data Protection Laws, and, in particular, that You (or the Data Controller You act on behalf of) have established a valid legal basis therefor (ex. consent, contract, legitimate interest, etc.). If You use our Service as a Data Processor of a third party Data Controller, You also confirm and warrant that confining to us Processing of that Third Party Personal Data is in compliance with the instructions You receive from the Data Controller.
 
 You authorize and instruct Dailymotion to proceed with the Processing of the Third-Party Personal Data on Your behalf to the extent necessary to provide the Processing Services (as defined below) and pursuant to the conditions established in the DPA or as otherwise authorized under the Applicable Data Protection Laws.
 
@@ -821,7 +828,7 @@ By uploading Content onto the Dailymotion Service, You may use the Dailymotion S
 
 * Storing Your Content, and consequently Third Party Personal Data that may be incorporated within Your Content, on the Dailymotion Service;
 * Making Your Content (and any associated Third Party Personal Data) available to the public;
-* Managing the availability to the public of the Third Party Personal Data incorporated in Your Content, by using the content management tools available on our Service (ex. deciding to place the Content under public or private mode).
+* Managing the availability to the public of the Third Party Personal Data incorporated in Your Content, by using the content management tools available on our Service (ex. deciding to place the Content under public or private mode) and Service features (ex. content recommendation, content-categorization, etc.).
 
 Dailymotion does not collect Third Party Personal Data nor has any prior knowledge of the presence of Third-Party Personal Data within Your Content.
 
@@ -829,17 +836,15 @@ Dailymotion does not collect Third Party Personal Data nor has any prior knowled
 
 You instruct Dailymotion to operate the following services (“**Processing Services**”) on Your behalf:
 
-* Hosting of Your Content on the Dailymotion Service (this includes both the video files and associated metadata):
-    * On the Dailymotion SA’s servers located in France, the United States and Singapore;
-    * On the servers of data hosting service providers (ex. cloud storage providers), i.e. our Sub-Processors;
+* Hosting of Your Content on the Dailymotion Service (this includes both the video files and associated metadata) on the servers owned by Dailymotion or provided by Dailymotion’s data hosting and other service providers (ex. cloud storage providers), i.e. our Sub-Processors;
 * Making available the Video Player for the distribution of Your Content to the public;
-* Making available technical tools allowing You to manage Your Content.
+* Making available technical tools allowing You to manage Your Content and, in particular, if you choose so, to make Your Content available to public, including through content recommendation tools.
 
 Dailymotion shall process the Third-Party Personal Data in compliance with the Applicable Data Protection Laws, for the above-listed purposes and pursuant to the instructions of the Data Controller stipulated in the present DPA. You can provide additional instructions either by using the available technical tools and features of the Dailymotion Service or by addressing them directly to us through Dailymotion’s Help Center. Note that in the event Your instructions are incompatible with the way the Dailymotion Service operates or are in violation of the Terms or any other Dailymotion policies, Dailymotion will not be obliged to comply with such instructions, but You may stop the Processing by removing Your Content or ceasing to use our Service.
 
 #### **3.2. Duration of the Processing**
 
-The Processing of Third-Party Personal Data is undertaken on a continuous basis and will last until Your Content is removed for any reason whatsoever from the Dailymotion Service (ex. closure of Your Account, deletion of Your Content by You, or deletion of Your Content by Dailymotion pursuant to the present Terms). Note that despite the removal (ie unavailability of Your Content) for technical reasons related to the Dailymotion Service the video files and/or metadata associated with Your Content may remain in our systems. Longer retention periods of Your Content or specific elements (ex. metadata) may be applied if required or authorized under applicable laws or if necessary to establish, exercise or defend legal claims.
+The Processing of Third-Party Personal Data is undertaken on a continuous basis and will last until Your Content is removed for any reason whatsoever from the Dailymotion Service (ex. closure of Your Account, deletion of Your Content by You, or deletion of Your Content by Dailymotion pursuant to the present Terms). Note that despite the removal (i.e. unavailability of Your Content) for technical reasons related to the Dailymotion Service the video files and/or metadata associated with Your Content may remain in our systems. Longer retention periods of Your Content or specific elements (ex. metadata) may be applied if required or authorized under applicable laws or if necessary to establish, exercise or defend legal claims.
 
 ####   
 **3.3. Categories of Data Subjects**
@@ -890,31 +895,22 @@ Furthermore, Dailymotion undertakes to provide You with all reasonable assistanc
 
 #### **5.1. General Information**
 
-You authorize Dailymotion to use the services of any Sub-Processor listed in Section 5.2. below. Dailymotion is committed to communicate any information related to a new Sub-Processor by updating these Terms or by other reasonable means of communication (ex. making such list available elsewhere on the Dailymotion website). Dailymotion’s contracts with its Sub-Processors shall contain commitments at least as strict as those provided for in this DPA. If You object to a Sub-Processor, You can, at any time, terminate the Processing by deleting Your Content from our Service and/or ceasing the use of our Service.
+You authorize Dailymotion to use the services of any Sub-Processor listed in Section 5.2. below. Dailymotion is committed to communicate any information related to a new Sub-Processor by updating these Terms or by other reasonable means of communication (ex. making such list available elsewhere on the Dailymotion website). Dailymotion’s contracts with its Sub-Processors shall contain commitments at least as strict as those provided for in this DPA. If You object to a Sub-Processor, You can, at any time, terminate the Processing by deleting Your Content from our Service and/or ceasing the use of our Service. Continuous ongoing use of our Service indicates your acceptance of a new Sub-Processor.
 
 ####   
 **5.2. List of Current Sub-Processors**
 
-Note that Dailymotion stores data, including Third-Party Personal Data that may be integrated within Your Content, on its servers located in Europe, the USA and Singapore.
+As any other company, in order to provide You our Service, Dailymotion outsources some of its activities to third-party service providers. As a result, the Third-Party Personal Data may be processed by our services providers acting in their capacity of Your Sub-Processors.
 
-As any other company, in order to provide You our Service, Dailymotion outsources some of its activities to third-party service providers. As a result, we also store some of that data using the services of third-party cloud storage providers, some of which may be located outside of the EEA (European Economic Area).
-
-The following companies are currently engaged as Your Sub-Processors:
-
-| SUB-PROCESSORS | THE SERVICES PROVIDED BY SUB-PROCESSORS |
-| --- | --- |
-| One or more of our Affiliates other than the Dailymotion entity You contract with and that is Your Data Processor:  <br>  <br>**Dailymotion SA**; 140 boulevard Malesherbes; 75017 Paris; France (data protection contact details: [DPO](mailto:dpo@dailymotion.com))  <br>  <br>**Dailymotion Inc**, 150 W 22nd Street, Floor 12, New York, NY 10011; USA (data protection contact details: [Customer Service](mailto:feedback@dailymotion.com))  <br>  <br>**Dailymotion Asia Pacific Pte Ltd**, 137 Amoy Street; Singapore 049965 (data protection contact details: [Customer Service](mailto:feedback@dailymotion.com))  <br>  <br>**Dailymotion Advertising SAS**; 140 boulevard Malesherbes; 75017 Paris; France (data protection contact details: [DPO](mailto:dpo@dailymotion.com)) | To help Us provide You with the Dailymotion Service |
-| OpenWeb Technologies Ltd. 94 Yigal Alon, building 2, Tel Aviv Yafo, 6706701 Isra¨ël (data protection contact details: privacy@openweb.com). | Host Your comments and moderate them (subject to availability of this feature in your country) |
-| **Google Cloud France SARL**, 8 rue de Londres, 75009 Paris, France) (data protection contact details: [https://support.google.com/policies/contact/general\_privacy\_form](https://support.google.com/policies/contact/general_privacy_form))  <br>  <br>**Amazon Web Services EMEA SARL “AWS”**, 38 Avenue John F. Kennedy, L-1855, Luxembourg (data protection contact details: Amazon Web Services EMEA SARL “AWS”, 38 Avenue John F. Kennedy, L-1855, Luxembourg ATTN: AWS EMEA Legal)  <br>  <br>**MongoDB Ltd. (Atlas)**, 3rd Floor, 3 Shelbourne; Buildings, Nallsbridge; Dublin 4; Ireland; Atlas (data protection contact details: [privacy@mongodb.com](mailto:privacy@mongodb.com)) | In order to host meta data and technical data related to Your Content present on the Service |
-| **Zendesk Inc.** 1019 Market Street, San Francisco, CA 94103; USA (data protection contact details: Zendesk’s Global Privacy Counsel: Rachel Tobin, AGC, EMEA & Global Privacy Counsel, Zendesk International Ltd. 55 Charlemont Place, Saint Kevin’s, Dublin, D02 F985 Ireland privacy@zendesk.com)  <br>  <br>**CallPoint New Europe SRL (Telus)**, AFI PARK 3, Vasile Milea boulevard n°4G ; 6th district ; Bucharest, Romania; (contact: TI.Privacy.Office@telusinternational.com) | To provide customer Support |
+A list of Dailymotion’s Sub-Processors is accessible [here](https://legal.dailymotion.com/en/list-of-dailymotion-data-processors/).
 
 ### **6\. Data Subjects Rights**
 
-As a Data Controller, it is Your responsibility to respond to inform the Data Subjects about the details of the Processing operations and to respond to their requests relating to the exercise of their privacy rights uder the Applicable Data Protection Laws.
+As a Data Controller, it is Your responsibility to respond to inform the Data Subjects about the details of the Processing operations and to respond to their requests relating to the exercise of their privacy rights under the Applicable Data Protection Laws.
 
 In this regard, Dailymotion shall:
 
-* Communicate to You, as soon as possible, any request received frm or on behalf of Data Subjects to exercise their rights (for deletion, correction, communication, access to the Third-Party Personal Data or limitation of its Processing) except where such communication is prohibited by the competent authorities; and
+* Communicate to You, as soon as possible, any request received from or on behalf of Data Subjects to exercise their rights (for deletion, correction, communication, access to the Third-Party Personal Data or limitation of its Processing) except where such communication is prohibited by the competent authorities; and
 * Assist You, by all appropriate and reasonable measures, in fulfilling Your obligation to comply with the requests of Data Subjects. Note that Dailymotion reserves the right to charge You for all reasonable costs and expenses related to assisting You with such requests.
 
 Further, in this regard, You agree that:
@@ -957,6 +953,24 @@ If Dailymotion receives a legally binding request to provide Third Party Persona
 
 ###   
 **9\. Transfers of **Third-Party Personal Data****
+
+#### 9.1. Description of Transfers of Third-Party Personal Data
+
+* **Operation of the Dailymotion Servic**e:
+
+Dailymotion Service is operated by companies belonging to the Dailymotion group, some of which are located outside the EEA. When your Content includes Third-Party Personal Data, non-EEA Dailymotion entities may process such Personal Data outside the EEA, namely in the USA, Singapore or other territories they operate from. Ex. if Your video containing Third Party Personal data is available in the USA, it is Dailymotion Inc’s USA-based content moderation team that will analyze it if it receives a notification of it possibly infringing caracter.
+
+* **Storage and Content Delivery**:
+    
+    * **Comments**: depending on the territory you access the Dailymotion Service from, You may have a possibility to comment Content available on our Service. Your Comments are stored in the USA on servers used by our service provider assisting us in operating the comment feature. Consequently, if your comments contain Third Party Personal Data, that data is transferred to the USA.
+    
+    * **Other Content**: Dailymotion stores Content (other than comments) in the EEA either directly (on servers owned by Dailymotion) or through intermediary of its services providers (cloud-storage service providers). If You decide to render Your video Content available outside of the EEA, for technical reasons inherent to video delivery technology, a temporary cache copies of extracts of Your video Content may also be stored outside of EEA. A cache copy is created on servers close to a viewer. Its creation is inherent to the video delivery technology and serves to reduce the latency, i.e. enables a viewer to see a video faster by shortening the time between the request to see a video and the appearance of that video on the viewer’s screen. When Your Content includes Third-Party Personal Data, creation of a cache copy on non-EEA servers results in a transfer of such Personal Data outside the EEA.
+* **Service Features**: Dailymotion Service enables various Content related features, ex. statistics, customer support, content search or recommendation. The data thus processed is stored on servers owned by Dailymotion and by our services providers (ex. cloud-storage service providers) listed in clause 5.2. above, and is analyzed using Dailymotion’s and our service providers’ tools. When Your Content includes Third-Party Personal Data, use of Content related features may result in transfer of such Personal Data outside the EEA. For example, if the title of Your Video that You rendered available in the USA includes somebody’s else name, the content search tool using USA-based resources will process that Personal Data.  
+    
+
+#### 9.2. Legal Tools Applicable to the Transfer of Third Party Personal Data
+
+##### 9.2.1. Transfer of Third Party Personal Data from You to Dailymotion
 
 To the extent our provision of the Processing Services to You results in the transfer of the Third Party Personal Data incorporated in Your Content from the European Economic Area, United Kingdom or Switzerland to a Third Country, the 2021 SCC, as complemented below, shall be applicable to such transfer.
 
@@ -1003,11 +1017,17 @@ For transfers from the EEA:
 
 The acceptance of  the Terms constitutes mutual acceptance and  signature of the 2021 SCC, incorporated in the present DPA,  and their annexes.
 
-In the event that Dailymotion either directly or indirectly transfers Third-Party Personal Data to a Third Country through a third-party Sub-Processor (instead of Processing such Third-Party Personal Data itself), Dailymotion will ensure that such transfer is done only in the presence of legally adequate safeguards such as, 2021 SCC integrated within contract as with such Sub-Processors and/or by obtaining a commitment from such Sub-Processors to enter into 2021 SCC with their own Sub-Processors (if any).  
+##### 9.2.2. Transfer of Third Party Personal Data from Dailymotion to Sub-Processors
 
-As of the last update of the Terms, Dailymotion has conducted an assessment of the applicable laws and regulations or practices of the Third Countries of destination where the Processing of Third Party Personal Data may occur. It has been established that the Third Party Personal Data that is transferred to these Third Countries is stored in our own proprietary datacenters and for a limited duration in time (all new videos are duplicated on the servers of these datacenters but then only copies of the videos that got popular in the territories closer to the datacenter are kept for a longer time on these servers in Third Countries). Also, Dailymotion is designed as a video-sharing platform, meaning that the videos which may contain Third Party Personal Data are public by default, and therefore accessible to anyone.
+In the event that Dailymotion transfers Third-Party Personal Data to a Third Country through a third-party Sub-Processor, Dailymotion will ensure that such transfer takes place only in the presence of legally adequate safeguards such as, for example, integration of the 2021 SCC within contracts concluded with such Sub-Processors, obtaining a commitment from such Sub-Processors to enter into 2021 SCC with their own Sub-Processors (if any), or, when the Personal Data is transferred to the USA, participation of the data importer in the “Data Privacy Framework” or any replacement thereof.
 
-Also, Dailymotion has no reason to believe that the laws and practices in any Third Country of destination applicable to the Processing of Third Party Personal Data, including any requirements to disclose Third Party Personal Data or measures authorizing access by a Public Authority (e.g. a government agency, or law enforcement authority, including judicial authorities), prevent Dailymotion from fulfilling its obligations under this DPA. However, if Dailymotion reasonably believes that any existing or future enacted or enforceable laws and practices in a Third Country of destination applicable to the Processing prevent it from fulfilling its obligations under this DPA and may represent a threat to Third Party Personal Data’s security and integrity, it shall promptly notify its Users, including You, and it will use reasonable efforts to make available to the affected Users a change in the Services. If Dailymotion is unable to make available such change, You may remove Your Content at any time from the Dailymotion Service.
+##### 9.2.3. Transfer Assessment
+
+As of the last update of the Terms, Dailymotion has conducted an assessment of the applicable laws and regulations or practices of the Third Countries of destination where the Processing of Third Party Personal Data may occur.
+
+Dailymotion is designed as a video-sharing platform, meaning that the videos which may contain Third Party Personal Data are public by default, and therefore accessible to anyone.
+
+Taking into account the categories of Third-Party Personal Data and the purposes Dailymotion process that Data on Your behalf, Dailymotion has no reason to believe that the laws and practices in any Third Country of destination applicable to the Processing of Third Party Personal Data, including any requirements to disclose Third Party Personal Data or measures authorizing access by a Public Authority (e.g. a government agency, or law enforcement authority, including judicial authorities), prevent Dailymotion from fulfilling its obligations under this DPA. However, if Dailymotion reasonably believes that any existing or future enacted or enforceable laws and practices in a Third Country of destination applicable to the Processing prevent it from fulfilling its obligations under this DPA and may represent a threat to Third Party Personal Data’s security and integrity, it shall promptly notify its Users, including You, and it will use reasonable efforts to make available to the affected Users a change in the Services. If Dailymotion is unable to make available such change, You may remove Your Content at any time from the Dailymotion Service.
 
 As such, Dailymotion has determined that the risks of infringing such Third Party’s  privacy associated to such transfer to a Third Country is limited and consequently, that the existing measures in place shall be sufficient to ensure the efficiency of the protection of the rights of the data subjects whose  Third Party Personal Data is related to.
 
@@ -1016,5 +1036,3 @@ As such, Dailymotion has determined that the risks of infringing such Third Part
 
 * **Dailymotion’s Contact Info:** Contact email [here](mailto:feedback@dailymotion.com).
 * **Your Identity Contact Info:** the email address associated with Your Dailymotion Account, or, if applicable, the email address communicated in compliance with Section 6 of this DPA.
-
-Last Update of this DPA: February 16, 2024.
