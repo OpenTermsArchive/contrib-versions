@@ -155,6 +155,6 @@ We always appreciate feedback or other suggestions, but may use them without any
 
 **Updating These Terms**
 
-We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) at least 30 days before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, [here](https://help.instagram.com/370452623149242?ref=igtos&helpref=faq_content).  
+We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) at least 30 days before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, [here](https://help.instagram.com/370452623149242?ref=igtos).  
 
 Effective Date: 25 April 2023
