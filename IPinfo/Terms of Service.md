@@ -119,4 +119,4 @@ These Terms, together with our Privacy Policy, constitutes the entire agreement 
 Contact Us
 ----------
 
-If you have any questions about these Terms, please contact us at: [\[email protected\]](https://ipinfo.io/cdn-cgi/l/email-protection).
+If you have any questions about these Terms, please contact us at: [support@ipinfo.io](mailto:support@ipinfo.io).
