@@ -72,7 +72,7 @@ Note that we may process your personal data for more than one lawful ground depe
   
 d.
 
-[![](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1716814800&signature=e1cffebfedb0df736e96fc2cd4fce60d21402763d1cc44aa59c249e8220ecf51)](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1716814800&signature=e1cffebfedb0df736e96fc2cd4fce60d21402763d1cc44aa59c249e8220ecf51)
+[![](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1716836400&signature=995c531b19db282a441b0cc11aca472d2328813134efbe19cb766643bb0fe915)](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1716836400&signature=995c531b19db282a441b0cc11aca472d2328813134efbe19cb766643bb0fe915)
 
 **6\. DISCLOSURES OF YOUR PERSONAL DATA**  
 a. We may sell or share your personal data with the parties set out below for the purposes set out in the table in the previous section.
