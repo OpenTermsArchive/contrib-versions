@@ -66,13 +66,24 @@ Brevo shall store messages sent through its platform on behalf of the Users. Dis
 
 ### 3) Financial conditions
 
+#### **3.1 General**
+
 By subscribing to Brevo Services, the Users agree to pay the price corresponding to the Services selected and to their country of residence.
 
 Unless specifically otherwise stipulated, the prices of the Services subscribed shall be paid at the time of subscription and in the currency in which they were invoiced, **_in accordance with the financial conditions detailed here:_** **_[https://www.brevo.com/pricing/](https://www.brevo.com/pricing/)_****_._**
 
 The prices displayed on the Site are exclusive of charges, and they do not include VAT. Additional charges shall be applied on the invoice according to the Users’ country of residence and applicable legal and regulatory provisions. If the User’s organization subjects invoicing and/or payment to the creation or update by Brevo of an account on a specific invoicing platform, and/or if the User’s organization only accepts payment via wire transfer, Brevo reserves the right to charge an annual additional fee of 100 euros.
 
-Once logged in the platform, or by subscribing via our Pay as you go page ([https://www.brevo.com/pricing/pay-as-you-go/](https://www.brevo.com/pricing/pay-as-you-go/)), the User can also purchase SMS or WhatsApp messages on a pay-as-you-go basis, with a unit price fixed country by country. Unit prices of SMS and WhatsApp messages depend on the market prices, applied by our suppliers and third parties, and may therefore evolve during the performance of the contract. Once notified to us by our suppliers or WhatsApp, the price increase shall immediately be applied to the Users. Users can request the communication of the current price list relevant to the destination countries for which they purchased SMS and/or WhatsApp messages at **[\[email protected\]](https://www.sendinblue.com/cdn-cgi/l/email-protection)****.** When using WhatsApp messages, the User might benefit from a fixed monthly volume of free WhatsApp messages, as described as the case may be on our Pay as you go page: this offer is only valid as long as (i) the User owns a verified WhatsApp Business account and (ii) WhatsApp provides those messages for free. The monthly volume of free WhatsApp messages resets at the end of each month.
+#### **3.2 Prepaid Credits**
+
+Once logged in the platform, or by subscribing via our Pay as you go page ([https://www.brevo.com/pricing/pay-as-you-go/](https://www.brevo.com/pricing/pay-as-you-go/)), the User can also purchase SMS or WhatsApp messages on a pay-as-you-go basis. To send SMS and/or WhatsApp messages via the Brevo Services, the User must purchase an amount of credits in advance. One credit allows the User to send a certain number of SMS or WhatsApp messages in a given country or geographical area (hereinafter the “Ratio”). Each credit is prepaid and remains valid for a duration of twelve (12) months from its date of purchase by the User (the “Validity Period”). At the time of purchase by the User, the Ratio is indicated in the Platform for informational purpose only. During the Validity Period, the Ratio of both SMS and/or WhatsApp messages depends on the exchange rates applied to Brevo when purchasing the credits and on the market prices, applied by Brevo’s suppliers and third parties, and may therefore evolve during the performance of the contract. When an applicable exchange rate is updated or when a change of price is notified to Brevo by its suppliers or WhatsApp, Brevo might immediately apply with retroactive effect the new Ratio and price increase to the User. Users can request the communication of the current price list relevant to the destination countries for which they purchased SMS and/or WhatsApp messages at [\[email protected\]](https://www.sendinblue.com/cdn-cgi/l/email-protection). When using WhatsApp messages, the User might benefit from a fixed monthly volume of free WhatsApp messages, as described as the case may be on our Pay as you go page: this offer is only valid as long as (i) the User owns a verified WhatsApp Business account and (ii) WhatsApp provides those messages for free. The monthly volume of free WhatsApp messages resets at the end of each month.
+
+#### **3.2 Contact limit and fair use**
+
+When the User subscribes to a Starter or Business plan that is subject to a contacts limit and the User exceeds this contacts limit, Brevo reserves the right to automatically increase the contacts limit in the User account and upgrade the User’s plan without prior notice.  
+If the User subscribes to a Starter or Business plan that is not subject to a contacts limit, the use of the Service shall be subject to fair use. Fair use means a limit of 500.000 contacts for the Starter plan and of 2 millions contacts for the Business plan.
+
+In any case, Brevo reserves the right to set a limit to the overall number of contacts allowed in the User account on Starter or Business plans.
 
 ### 4) Use of the Services
 
@@ -158,6 +169,8 @@ In this context, it is specified that:
 To enable Brevo to anticipate and avoid the risks of spam, phishing or fraud on its platform, the Users are informed that Brevo reserves the right to transmit information related to the User’s representative to third party providers domiciled outside the European Union, for the purpose of establishing a reliability score. Any transmission of this data will be carried out by Brevo in compliance with applicable laws and EU guidelines.
 
 Finally, the Users expressly accept that the behavior of the recipients of these emails may be processed by Brevo (tracking opening rates, click rates and bounce rates at the individual level) to improve the efficiency of the emailing campaigns.
+
+Brevo reserves the right to regularly delete the data generated by the use of the platform and Services from the User’s account, including events and logs (the “Logs”), the statistics and reports that rely on the Logs, and the email previews. The deletion of Logs will be performed at least every 24 months following each Log creation and the deletion of email preview every 30 days. These data deletions may affect the availability of the statistics and reports generated by the Services up to the date of deletion. Brevo advises the User to regularly download such data.
 
 #### 4.3 : Limitation of Use of the Service
 
