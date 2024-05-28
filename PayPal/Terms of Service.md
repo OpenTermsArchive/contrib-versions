@@ -4,7 +4,7 @@ PAYPAL USER AGREEMENT
 About Your Account
 ------------------
 
-This user agreement will be effective for all users as of 16 January 2024.
+This user agreement will be effective for all users as of 28 May 2024.
 
 ### Welcome to PayPal!
 
@@ -117,7 +117,7 @@ We may close your account at our convenience by providing you with 2 months’ (
 
 1. You are in breach of this user agreement and/or we are otherwise entitled to close your account under this user agreement.
 2. You do not access your account for 3 years.
-3. We suspect that your account has been accessed without your authorization.
+3. We suspect that your account has been accessed without your authorisation.
 
 Where we decide to close your account we will provide you with notice of account closure and where practicable, the reasons for closing your account, together with the ability to withdraw any undisputed funds that we are holding.
 
@@ -294,6 +294,8 @@ You can access a "[Currency Converter](https://www.paypal.com/cz/smarthelp/artic
 
 If you have authorized a payment under a billing agreement, and we perform a currency conversion for that payment, we will use the transaction exchange rate in effect at the time the payment transaction is processed by the seller. Therefore, the transaction exchange rate for each payment under a billing agreement may vary.
 
+[**Holds or limitations**](#actions-restricted-activities) may delay currency conversion of amounts until such holds or limitations are released. This may result in the application of a currency conversion that is different from the transaction exchange rate that would have been applied had no account hold(s) or limitation(s) been in place. Currency conversions in these circumstances may be more favourable or less favourable to you.
+
 If you are a seller and you have agreed that you will bear the transaction exchange rate rather than the buyer, or if you have a business account and you convert currency in your PayPal account that does not form part of a specific transaction into or out of your account (e.g. converting your balance to another currency), the transaction exchange rate will not apply. Instead, you will pay a currency conversion fee applied on an external base exchange rate, as described on the [Fees Page](https://www.paypal.com/cz/webapps/mpp/paypal-fees?locale.x=en_CZ). The external base exchange rate is based on rates within the wholesale currency markets on the conversion day or the prior Business Day.
 
 #### Currency conversion choices
@@ -308,6 +310,32 @@ If PayPal determines currency conversion is necessary for a transaction that als
 
 Where a currency conversion is offered at the point of sale by the merchant, not by PayPal, and you choose to authorize the payment transaction on the basis of the merchant's exchange rate and charges, PayPal has no liability to you for that currency conversion.
 
+### Taxes and Information Reporting
+
+#### General information
+
+Our [**consumer fees**](https://www.paypal.com/cz/webapps/mpp/paypal-fees?locale.x=en_CZ) and [**merchant fees**](https://www.paypal.com/cz/webapps/mpp/merchant-fees?locale.x=en_CZ) are exclusive of any taxes, charges, or similar assessments of any nature, including, without limitation, value-added, sales, digital services, stamp, transfer, or withholding taxes, assessable by any jurisdiction or governmental authority (collectively, “Taxes”).
+
+Each of us shall be responsible to pay our own Taxes arising in connection with the performance of our respective obligations from your use of PayPal services.
+
+#### Paying for PayPal’s services
+
+If you are paying for a PayPal service, you agree to pay to PayPal the amount of any legally applicable Taxes imposed on any amount due from you to PayPal.
+
+You agree not to withhold any Taxes on amounts payable by you to PayPal unless you are legally required to do so. If you withhold any Taxes, the amount payable by you to PayPal shall not be decreased by the amount withheld. You agree that PayPal is entitled to receive the full amount that would have been received had there been no withholding of any Taxes. Upon request by PayPal, you will deliver to PayPal in a timely manner any written documentation evidencing your payment of Taxes to the relevant authorities.
+
+#### Your additional responsibilities and acknowledgments
+
+It is your responsibility to determine what, if any, Taxes apply to the payments you make or receive, and it is solely your responsibility to assess, collect, report, and remit the correct Taxes to the appropriate authority. PayPal is not responsible for determining whether any Taxes apply to your transaction or for calculating, collecting, reporting, or remitting Taxes arising from any transaction.
+
+You acknowledge that PayPal may have a legal obligation to make reports, and will make such reports, to tax authorities regarding transactions that we process on your behalf. Additional information can be found in our [**Help Centre**](https://www.paypal.com/cz/cshelp?locale.x=en_CZ).
+
+#### Information reporting
+
+We may request that you provide PayPal with your tax identification number and/or other tax-related documentation or information. If you do not provide the requested information to PayPal or keep documentation up to date in your PayPal account, you may be subject to account holds or limitations and withholding Taxes at the applicable rates on gross payments received. PayPal will remit any such withholding Taxes to the appropriate tax authorities, and you acknowledge PayPal may be prohibited from refunding any amounts to you once these have been sent to the appropriate tax authorities.
+
+If a currency conversion is required on a payment of withholding Taxes, the amount due to the relevant tax authority will be calculated by PayPal in accordance with [**our currency conversion terms**](#currency-conversion) when we process the withholding Taxes. To minimise risks relating to exchange rate fluctuations, account holds and limitations, tax withholding, and remittance to the relevant tax authority, you should add or confirm your taxpayer information to PayPal.
+
 ### Account Statements and Requesting Account Records
 
 Unless your account is restricted you may view and download your PayPal account statement by logging into your PayPal account. You agree to review your transactions through your PayPal account history instead of receiving periodic statements by email.
@@ -319,8 +347,6 @@ We reserve the right to charge a [fee](#tableOfFees1) for providing you with add
 ### Fees
 
 We charge fees for our services as set out on the [fees page](#tableOfFees1) relating to the country in which you are registered with us as resident.
-
-Quoted fees are inclusive of all applicable taxes; however, other taxes or costs may exist that are not paid through or imposed by us.
 
 You are liable for telephone charges and any charges made by your internet service provider or similar or associated charges as a result of the use by you of our services.
 
@@ -400,12 +426,12 @@ We may, at our discretion, impose limits on the amount and value of payments you
 
 When you pay certain sellers or pay for certain purchases (for instance, purchases which have to be shipped to you or may be updated and finalized by the seller), you are providing:
 
-* An authorization to the seller to collect your payment at a later time.
+* An authorisation to the seller to collect your payment at a later time.
 * An instruction to us to automatically pay that seller when the seller requests payment.
 
-Your authorization will typically remain valid for up to 30 days, but may remain valid for longer. If you have balance, we may hold the payment amount as pending until the seller collects your payment. If your payment requires a currency conversion by us, the [transaction exchange rate](https://www.paypal.com/cz/webapps/mpp/paypal-fees?locale.x=en_CZ) will be determined and applied (as described in the [Currency Conversion](#currency-conversion1) section) at the time the payment is processed.
+Your authorisation will typically remain valid for up to 30 days, but may remain valid for longer. If you have balance, we may hold the payment amount as pending until the seller collects your payment. If your payment requires a currency conversion by us, the [transaction exchange rate](https://www.paypal.com/cz/webapps/mpp/paypal-fees?locale.x=en_CZ) will be determined and applied (as described in the [Currency Conversion](#currency-conversion1) section) at the time the payment is processed.
 
-Your authorization allows the seller to update the payment amount before the seller collects the payment (to account for any changes to the purchase that you may agree with the seller, such as additional taxes, shipping or postage charges or discounts). We are not required to verify any changes at any time (including at the time the payment is transferred). We may transfer any amount on the basis of your authorization and upon receiving instructions from the seller of the final payment amount.
+Your authorisation allows the seller to update the payment amount before the seller collects the payment (to account for any changes to the purchase that you may agree with the seller, such as additional Taxes, shipping or postage charges or discounts). We are not required to verify any changes at any time (including at the time the payment is transferred). We may transfer any amount on the basis of your authorisation and upon receiving instructions from the seller of the final payment amount.
 
 #### Billing agreement payments
 
@@ -552,12 +578,6 @@ You must treat PayPal as a payment method or mark at least on par with any other
 
 In representations to your customers or in public communications, you must not mischaracterize any PayPal service as a payment method or exhibit a preference for other payment methods over any PayPal service.
 
-### Taxes and information reporting
-
-It is your responsibility to determine what, if any, taxes apply to the payments you make or receive, and it is solely your responsibility to assess, collect, report and remit the correct taxes to the appropriate authority. We are not responsible for determining whether any taxes apply to your transaction, or for calculating, collecting, reporting or remitting taxes arising from any transaction. As a bank service provider no sales tax applies to the PayPal services in the EU.
-
-Notwithstanding the above, PayPal may request that you provide your tax identification number and/or other tax-related documentation or information. If you do not provide PayPal the requested information or documentation, you understand and agree that you may be subject to account limitations and withholding tax at the applicable rates on gross payments received. PayPal will send such withholding taxes to the appropriate tax authorities and cannot refund those amounts.
-
 ### Your refund policy and privacy policy
 
 You must publish a refunds and return policy, as well as a privacy policy.
@@ -572,7 +592,7 @@ If you use a QR code to accept payments in your physical store, you must use a Q
 
 If you’re a seller on a marketplace or through a third-party application where PayPal is offered, you must comply with any rules that apply to the marketplace’s or the third party application’s buyer protection program for sales you make through that forum. Any such protections may require you to take certain actions and may impact how claims are processed.
 
-We may allow you to authorize certain marketplaces to use your account to pay amounts you owe to the marketplace or to the buyer (as the case may be) arising from a claim under the terms of the marketplace's own resolution process, which we call marketplace due amounts. If you give such an authorization and the marketplace has notified us of the claim, you instruct us to process payments of all and any marketplace due amounts relating to that claim from your PayPal account to that marketplace or to the buyer (as the case may be) according to the marketplace's instructions to us. We may treat your instruction for the payment of any given marketplace due amount as cancelled if we decide that the claim would have been determined in your favor had it been filed as a claim with us. You can also cancel this instruction by [**contacting us**](#comms1). All claims filed directly with the marketplace are governed by the marketplace's policy only. The terms of [PayPal's Seller Protection](https://www.paypal.com/cz/webapps/mpp/ua/buyer-protection?locale.x=en_CZ) do not cover you for claims filed by your buyers directly with the marketplace.
+We may allow you to authorize certain marketplaces to use your account to pay amounts you owe to the marketplace or to the buyer (as the case may be) arising from a claim under the terms of the marketplace's own resolution process, which we call marketplace due amounts. If you give such an authorisation and the marketplace has notified us of the claim, you instruct us to process payments of all and any marketplace due amounts relating to that claim from your PayPal account to that marketplace or to the buyer (as the case may be) according to the marketplace's instructions to us. We may treat your instruction for the payment of any given marketplace due amount as cancelled if we decide that the claim would have been determined in your favor had it been filed as a claim with us. You can also cancel this instruction by [**contacting us**](#comms1). All claims filed directly with the marketplace are governed by the marketplace's policy only. The terms of [PayPal's Seller Protection](https://www.paypal.com/cz/webapps/mpp/ua/buyer-protection?locale.x=en_CZ) do not cover you for claims filed by your buyers directly with the marketplace.
 
 ### Accepting billing agreement payments
 
@@ -1054,9 +1074,9 @@ We may request information from you as we reasonably require to facilitate our a
 
 In this section and the Intellectual Property section, we use the term “PayPal” to refer to us (PayPal (Europe) S.à r.l. et Cie, S.C.A.), our parent PayPal Holdings, Inc., our affiliates, and anybody who works for us or them or who is authorized to act on our or their behalf. Our affiliates include each entity that we control, we are controlled by or we are under common control with. Anybody who works for us or our affiliates or who is authorized to act on our or their behalf includes each of our or their respective directors, officers, employees, agents, joint venturers, service providers and suppliers.
 
-#### Indemnification
+#### Indemnification if you are not a consumer
 
-You must indemnify PayPal for actions related to your PayPal account and your use of the PayPal services.
+If you are not a consumer, you must indemnify PayPal for actions related to your PayPal account and your use of the PayPal services.
 
 You agree to defend, indemnify and hold PayPal harmless from any claim or demand (including reasonable legal fees) made or incurred by any third party due to or arising out of:
 
@@ -1065,7 +1085,22 @@ You agree to defend, indemnify and hold PayPal harmless from any claim or demand
 * Your violation of any law or the rights of a third party.
 * The actions or inactions of any third party to whom you grant permissions to use your PayPal account or access our websites, software, systems (including any networks and servers used to provide any of the PayPal services) operated by us or on our behalf, or any of the PayPal services on your behalf.
 
+#### Your responsibility for losses and costs if you are a consumer
+
+If you are a consumer, you will be responsible for any losses, expenses or other costs incurred by PayPal which are caused by your intentional or negligent:
+
+* breach of this user agreement;
+* improper use of the PayPal Services;
+* violation of any law; or
+* breach of the rights of a third party (this might include, for example, if you have infringed another person’s copyright or trademarks).
+
+You will also be responsible for any losses, expenses of other costs incurred by PayPal which are caused by the actions or inactions of any third party to whom you intentionally or negligently grant permissions to use your PayPal account or access our websites, software, systems (including any networks and servers used to provide any of the PayPal services) operated by us or on our behalf, or any of the PayPal services on your behalf.
+
+You will not be liable for any losses, expenses or other costs incurred by PayPal which are not foreseeable or typical under this user agreement.
+
 #### Limitation of liability
+
+**If you are a consumer, this section does not apply.**
 
 **PayPal's liability is limited with respect to your PayPal account and your use of the PayPal services.** In no event shall PayPal be liable for:
 
@@ -1091,7 +1126,24 @@ In addition, to the extent permitted by applicable law, PayPal is not liable, an
 * A suspension or other action taken with respect to your PayPal account.
 * Your need to modify your practices, content, or behavior, or your loss of or inability to do business, as a result of changes to this user agreement or PayPal's policies.
 
+#### Our liability to consumers
+
+Consumers cannot claim damages from us except for damages which we cause due to:
+
+* injury to life, limb or health;
+* intentional or grossly negligent breach of our obligations to you;
+* a negligent breach by us of material contractual obligations (namely obligations which are necessary to deliver our services to you as set out in this user agreement);
+
+We are only liable for damages under the third point above if they are foreseeable or typical under this user agreement. For example, damage is foreseeable if it is an obvious consequence of a PayPal breach or if it was contemplated by you and PayPal at the time you entered into this user agreement.
+
+We also won’t be responsible for losses due to:
+
+* your breaching this agreement or acting unlawfully; or
+* unavoidable, unforeseeable events outside of our control.
+
 #### No warranty
+
+**If you are a consumer, this section does not apply.**
 
 The PayPal services are provided “as-is” and without any representation or warranty, whether express, implied or statutory. PayPal specifically disclaims any implied warranties of:
 
@@ -1114,6 +1166,14 @@ We cannot guarantee the accuracy of information contained in our correspondence,
 
 You must check all correspondence between us carefully and tell us as soon as possible if it includes something which appears to you to be wrong or not made in accordance with your instructions.
 
+#### Consumer warranty
+
+If you are a consumer:
+
+PayPal does not control the products or services provided by sellers who accept PayPal as a payment method, and PayPal cannot ensure that a buyer or a seller you are dealing with will actually complete the transaction or is authorised to do so.
+
+PayPal does not guarantee continuous or uninterrupted access to any part of the PayPal services or the time within which payments will be completed. Our services may depend on third parties and other factors outside of our control, such as the international banking system, which could lead to delays or interruptions.
+
 #### Release of PayPal
 
 If you have a dispute with any other PayPal account holder, you release PayPal from any and all:
@@ -1124,9 +1184,11 @@ If you have a dispute with any other PayPal account holder, you release PayPal f
 
 of every kind and nature, known and unknown, arising out of or in any way connected with such disputes.
 
+**If you are a consumer, the following sections do not apply:**
+
 In entering into this release you expressly waive any protections that would otherwise limit the coverage of this release to include only those claims which you may know or suspect to exist in your favor at the time of agreeing to this release.
 
-You alone (not PayPal) are responsible for understanding and complying with any and all laws, rules and regulations of your specific jurisdiction that may be applicable to you in connection with your use of our services (for example, in relation to regulated activity, licensed activity, export or import activity, taxes or foreign currency transactions).
+You alone (not PayPal) are responsible for understanding and complying with any and all laws, rules and regulations of your specific jurisdiction that may be applicable to you in connection with your use of our services (for example, in relation to regulated activity, licensed activity, export or import activity, Taxes or foreign currency transactions).
 
 ### Intellectual Property
 
@@ -1156,7 +1218,9 @@ You may not transfer or assign any rights or obligations you have under this use
 
 This user agreement and the relationship between us is governed by the laws of the Grand Duchy of Luxembourg.
 
-If you bring a claim against us in court, you submit to the non-exclusive jurisdiction of the courts of Luxembourg City. If you are contracting with us as a consumer this does not limit your rights under mandatory statutory regulations, such as consumer protection rights, and for you to bring proceedings before any court allowed by law, such as the courts at the place where you are domiciled.
+If you are a consumer, mandatory statutory consumer protection regulations in your country of residence shall apply irrespective of the choice of the laws of the Grand Duchy of Luxembourg. As a consumer, you may bring any judicial proceedings relating to this user agreement before the competent court of your place of residence or the competent court in Luxembourg City where PayPal is based.
+
+If you are acting as a business, you agree to submit to the non-exclusive jurisdiction of the courts of Luxembourg City.
 
 #### Assessment of your website
 
@@ -1208,7 +1272,7 @@ A person who is not a party to this user agreement has no rights under the Contr
 
 #### PayPal as Login Method
 
-We may allow you to authenticate with PayPal when you log into certain external websites or mobile apps. If we do so, we may share your login status with any third party enabling you to log in in this way, as well as the personal and other account information that you consent to being shared so that the third party can recognize you. PayPal will not give the third party access to your account and will only make payments from your account to that third party with your specific authorization and instruction.
+We may allow you to authenticate with PayPal when you log into certain external websites or mobile apps. If we do so, we may share your login status with any third party enabling you to log in in this way, as well as the personal and other account information that you consent to being shared so that the third party can recognize you. PayPal will not give the third party access to your account and will only make payments from your account to that third party with your specific authorisation and instruction.
 
 If you enable visitors to authenticate with PayPal when they log into your website, app, or your customer accounts, you must agree to any specific terms applicable when this functionality is made available to you, and comply with any specifications in any integration manual or guideline. We do not guarantee or otherwise represent the identity of any user of this login method. We will not share with you the personal and other account information of the user (including login status) held by PayPal unless the user has consented to our disclosure of that information to you.
 
@@ -1245,7 +1309,7 @@ Fees apply for other account activity or events as outlined in this user agreeme
 
 See the **Glossary at A4 of this Schedule 1** for further reference.
 
-Quoted Fees are inclusive of all applicable taxes; however, other taxes or costs may exist that are not paid through PayPal or imposed by us. You are liable for telephone charges and any charges made by your internet service provider or similar or associated charges as a result of the use by you of the Services.
+You are liable for telephone charges and any charges made by your internet service provider or similar or associated charges as a result of the use by you of the Services.
 
 We will provide you with the details of the amounts you receive and our charges either by e-mail or in your transaction history (which you can access by logging into your PayPal account). Unless it is proven that we have made a mistake, all fees are payable by you without set off or other deductions. We may make a charge for any additional services we provide outside this agreement. We will tell you of those charges when you ask for the service.
 
