@@ -14,6 +14,12 @@ If you encounter any content that violates Outbrain's guidelines, or have any qu
 
 We hope to see your content on our platform soon.
 
+Respect the Consumer Browsing Experience
+----------------------------------------
+
+* Advertisers must respect a reasonable ad refresh rate: no auto ad refresh above 3x per minute
+* Advertisers must respect a reasonable ad density: pages must not have ad density of more than 5 ad placements per viewport, and no more than 1 video player per viewport.
+
 Acceptable Page Types
 ---------------------
 
