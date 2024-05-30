@@ -1,11 +1,9 @@
-Terms of service
-----------------
-
-Welcome on QWANT!
+Terms of Service
+================
 
 The purpose of the present Terms and Conditions (hereafter ‘Terms’) is to define the terms and conditions under which you can use our products and services.
 
-QWANT’s main activity is to provide a free-to-use, dynamic, updated search engine accessible through its website [https://www.qwant.com](https://www.qwant.com/) and to some accessory sub-domains such as [https://lite.qwant.com](https://lite.qwant.com/), or through its mobile application (hereafter ‘Services’).
+QWANT’s main activity is to provide a free-to-use, dynamic, updated search engine accessible through its websites [https://www.qwant.com](https://www.qwant.com/), [https://www.qwantjunior.com](https://www.qwantjunior.com/) and to some accessory sub-domains such as https://about.qwant.com, or through its mobile application (hereafter ‘Services’).
 
 You recognize that you have the necessary competence and means to access these Services and to use them. The use of our Services imply your approval of the present terms. We reserve the right to modify the terms at any time so they can fit the evolutions of the services of QWANT and/or their operation. You will be informed, by email and/or by any other appropriate means on the affected Services, of all substantial changes to the Terms, prior to their entry into force.
 
@@ -14,7 +12,7 @@ Note: the present document is a good faith translation of the official and enfor
 Accessibility of Services
 -------------------------
 
-You are informed that the Services are operational 24 hours a day and 7 days a week, and you recognize that this accessibility may however be interrupted in case of _force majeure_ or technical difficulties. We shall not be held responsible for network or servers dysfunctions of any other event that is out of our control, which would impede or degrade access to our Services. We reserve the right to interrupt, suspend momentarily or modify without prior notice access to all or parts of the Services, in order to maintain or control them, or to do tests. Such interruption, suspension or modification can not be entitled to obligations or compensations. We will do our best to inform you beforehand. You agree not to use the Services in an inappropriate way (for instance, by unlawfully accessing the Services, servers, computers or databases attached to the Services, by launching saturating attacks or by planting malicious or harmful material…), under penalty of prosecution. We reserve the right to deny access to the Services to any user who does not respect the present Terms.
+You are informed that the Services are operational 24 hours a day and 7 days a week, and you recognize that this accessibility may however be interrupted in case of force majeure or technical difficulties. We shall not be held responsible for network or servers dysfunctions of any other event that is out of our control, which would impede or degrade access to our Services. We reserve the right to interrupt, suspend momentarily or modify without prior notice access to all or parts of the Services, in order to maintain or control them, or to do tests. Such interruption, suspension or modification can not be entitled to obligations or compensations. We will do our best to inform you beforehand. You agree not to use the Services in an inappropriate way (for instance, by unlawfully accessing the Services, servers, computers or databases attached to the Services, by launching saturating attacks or by planting malicious or harmful material…), under penalty of prosecution. We reserve the right to deny access to the Services to any user who does not respect the present Terms.
 
 Software and APIs
 -----------------
@@ -26,14 +24,14 @@ Unless explicitly agreed otherwise, no licence to use the QWANT Application Prog
 Information made available through the services
 -----------------------------------------------
 
-Information provided on the Services have only informational purpose. We make our best efforts to ensure that the real-time updated information displayed on our services be as accurate as possible. However we can not guarantee that the results and the gathered information are free of any mistake or any defect, nor can we guarantee the completeness, up-to-dateness, precision, exhaustiveness, or absence of modification by a third party
+nformation provided on the Services have only informational purpose. We make our best efforts to ensure that the real-time updated information displayed on our services be as accurate as possible. However we can not guarantee that the results and the gathered information are free of any mistake or any defect, nor can we guarantee the completeness, up-to-dateness, precision, exhaustiveness, or absence of modification by a third party.
 
 Therefore, we decline all responsibility, of any nature:
 
 * in case of inaccuracy, lack of update, error or omissions in information available through the Services;
 * for the absence of availability of information;
 * for any damage, direct and/or indirect, whichever are the causes, origins, nature or consequences, induced by the access by anyone to the Services of by the impossibility to access them;
-* for the use of the Services and/or for the credit granted to any information obtained directly or indirectly from the Services.
+* for the use of the Services and/or for the credit granted to any information obtained directly or indirectly from the Services;
 * for decisions based on information obtained through the Services, and for the use that may be done by third parties;
 * in case of inadequacies between the provided information, the offered Services, and your needs
 
@@ -59,9 +57,9 @@ You agree that terms specific to each service may appear in special conditions f
 Partnerships directly linked to affected Services
 -------------------------------------------------
 
-We inform you that partnerships directly linked to one or several of QWANT’s services are in force. Where they may influence the ranking or search engine optimization of content, goods or services offered or posted online, the user will be informed on the page concerned.
+We inform you that partnerships directly [linked](https://www.legifrance.gouv.fr/affichCodeArticle.do?cidTexte=LEGITEXT000006069565&idArticle=LEGIARTI000033219601) to one or several of QWANT’s services are in force. Where they may influence the ranking or search engine optimization of content, goods or services offered or posted online, the user will be informed on the page concerned. The ranking, referencing and dereferencing procedures for Qwant services are set out [in a specific section.](https://about.qwant.com/fr/legal/modalites-de-referencement-dereferencement-et-de-classement/)
 
-To enrich the results, Qwant may use content from partners to whom we send information about your query in order to obtain results and/or advertisements from them corresponding to the keywords you are looking for. To respect your privacy, we apply in these cases the strict methods of pseudonymisation and data limitation described in our [Privacy Policy](https://about.qwant.com/legal/privacy/).
+To enrich the results, Qwant may use content from partners to whom we send information about your query in order to obtain results and/or advertisements from them corresponding to the keywords you are looking for. To respect your privacy, we apply in these cases the strict methods of pseudonymisation and data limitation described in our [Privacy Policy](https://about.qwant.com/fr/legal/confidentialite/).
 
 Intellectual property
 ---------------------
@@ -75,30 +73,30 @@ The various texts, images, photographs, visual interfaces, graphics, trademarks,
 Reporting content
 -----------------
 
-QWANT is a mere technical intermediary that allows you to access content available on the Internet. When requesting that a content be delisted on QWANT, if you obtain a positive answer from our side, we remind you that this content can still be available and accessible via other search engines or by typing the webpage URL in the address bar of your web browser. It is your responsibility to contact the publisher and/or hosting provider of said webpages in order to ask for a definitive withdrawal of the content.
+QWANT is a mere technical intermediary that allows you to access content available on the Internet. When requesting that a content be delisted on QWANT, if you obtain a positive answer from our side, we remind you that this content can still be available and accessible via other search engines or by typing the webpage URL in the address bar of your web browser. It is your responsibility to contact the publisher and/or hosting provider of said webpages in order to ask for a definitive withdrawal of the content. [.](https://www.internet-signalement.gouv.fr/)
 
-In the event that you notice content that may relate to apologies for crimes against humanity, provocation to or apologies for acts of terrorism, incitement to racial hatred, towards people on the basis of their sex, their sexual orientation or identity or handicap, child pornography, incitement to violence, attacks on human dignity, when browsing the Services, you have the option to let us know by contacting us at the address [legal@qwant.net](mailto:legal@qwant.net) (also available at our FAQ).
+In the event that you notice content that may relate to apologies for crimes against humanity, provocation to or apologies for acts of terrorism, incitement to racial hatred, towards people on the basis of their sex, their sexual orientation or identity or handicap, child pornography, incitement to violence, attacks on human dignity, when browsing the Services, you have the option to let us know by contacting us at the address [legal@qwant.net](mailto:legal@qwant.net) (also available at our [FAQ](https://help.qwant.com/en/docs/overview/how-to-report-unlawful-content/)).
 
-In any other situation, please send is a registered letter to the following address: QWANT – Direction Ethique & Affaires Juridiques, Crystal Park building, 63 Rue de Villiers, 92200 Neuilly-sur-Seine, France.
+n any other situation, please send is a registered letter to the following address: QWANT – Service juridique – 42 Avenue de la Porte de Clichy 75017 PARIS, France.
 
 Data protection
 ---------------
 
 QWANT’s policy regarding the privacy of its users meets a very high level of requirements. QWANT collects only the strict minimum of information necessary for its services and applies methods of pseudonymisation of data to protect the confidentiality of your personal data.
 
-All of the processing that we have to carry out and the methods that we apply to protect your privacy are detailed in our Privacy Policy, which states in particular:
+All of the processing that we have to carry out and the methods that we apply to protect your privacy are detailed in our [Privacy Policy](https://about.qwant.com/fr/legal/confidentialite/), which states in particular:
 
 * the reasons why we collect some of your personal data and how we use it;
 * the security measures we use to protect the confidentiality of your personal data, particularly in the event of transfer to a partner;
 * how long we keep your data;
 * the rights you have over the personal data you provide to us and the processing of that data.
 
-For any delisting request, please refer to the help page [“How to exercise my right to be forgotten?](https://help.qwant.com/help/overview/right-to-be-forgotten/)”.
+For any delisting request, please refer to the help page “[How to exercise my right to be forgotten?](https://help.qwant.com/help/overview/right-to-be-forgotten/)“.
 
 Cookies and other tracking devices
 ----------------------------------
 
-Please find our cookie policy on the [dedicated page](https://about.qwant.com/en/legal/confidentialite/cookie-policy/).
+Please find our cookie policy on the [dedicated page](https://about.qwant.com/legal/politique-de-confidentialite-about-qwant/politique-relative-aux-cookies/).
 
 We do not use any advertising trackers (pixels, fingerprinting) when you browse the Services.
 
@@ -107,6 +105,9 @@ Applicable law
 
 The Services and their TOS are subject to French law, wherever they may be used. In the event of that amicable solutions fail or are not sought, any dispute arising from these provisions may be brought before the competent courts.
 
-All rights reserved, QWANT® 2019
+* Mise à jour : 20/05/2024
 
-* Last update: May 9, 2022
+* [Privacy policy](https://about.qwant.com/en/legal/confidentialite/)
+* [Terms of use](https://about.qwant.com/en/legal/qwant-search/)
+* [Legal notices](https://about.qwant.com/en/legal/mentions-legales/)
+* [Ranking](https://about.qwant.com/en/legal/classement/)
