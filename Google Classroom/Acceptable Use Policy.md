@@ -1,13 +1,13 @@
 Abuse programme policies and enforcement
 ========================================
 
-The programme policies listed below apply to content when using Google Classroom with a personal Google Account. This includes all Classroom features, such as course names, information shared in the class stream, communications and collaboration between teachers, students and class materials. The programme policies listed below play an important role in maintaining a positive experience for everyone using Google products. 
+The programme policies listed below apply to content when using Google Classroom with a personal Google Account. This includes all Classroom features, such as course names, information shared in the class stream, communications and collaboration between teachers, students and class materials. The programme policies listed below play an important role in maintaining a positive experience for everyone using Google products.
 
-We need to curb abuse that threatens our ability to provide these services, and we ask that everyone abides by the policies below to help us achieve this goal. After we are notified of a potential policy violation, we may review the content and take action, including restricting access to the content, removing the content and limiting or terminating a user’s access to Google products.
+We need to curb abuse that threatens our ability to provide these services, and we ask that everyone abides by the policies below to help us achieve this goal. After we are notified of a potential policy violation, we may review the content and take action, including restricting access to the content, removing the content globally and limiting or terminating a user's access to Google products.
 
-When applying these policies, we may make exceptions based on educational, documentary, scientific or artistic considerations, or where there are other substantial benefits to the public from not taking action on the content. 
+When applying these policies, we may make exceptions based on educational, documentary, scientific or artistic considerations, or where there are other substantial benefits to the public from not taking action on the content.
 
-Make sure that you check back from time to time, as these policies may change. Please also refer to [Google’s Terms of Service](https://policies.google.com/terms?hl=en-GB), Privacy Policy and the terms of service and policies for Workspace services, including Google Drive, Docs, Gmail and Calendar.
+Make sure that you check back from time to time, as these policies may change. Please also refer to [Google's Terms of Service](https://policies.google.com/terms?hl=en-US), Privacy Policy and the terms of service and policies for Workspace services, including Google Drive, Docs, Gmail and Calendar.
 
 Report abuse
 ------------
