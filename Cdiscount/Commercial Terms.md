@@ -1104,7 +1104,7 @@ Modes de livraison express (entre 24heures et 72heures ouvrées):
    
 Mode de livraison express (entre 24heures et 72heures ouvrées) :
 
-* Chronopost é domicile sans rendez-vous
+* Chronopost à domicile sans rendez-vous
 
 Modes de livraison standard :
 
