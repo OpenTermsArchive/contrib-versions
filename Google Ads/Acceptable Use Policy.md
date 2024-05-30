@@ -187,6 +187,10 @@ We do not allow content that:
     
     **Examples**: Rape, incest, bestiality, necrophilia, snuff, lolita or teen-themed pornography, underage dating
     
+* promotes the creation or distribution of content that has been altered or generated to be sexually explicit or contain nudity.
+    
+    **Examples**: site or app that claims to generate deepfake pornography, instructions on how to create deepfake pornography, endorsing or comparing deepfake pornography services
+    
 
     ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about sexually explicit content_](https://support.google.com/publisherpolicies/answer/10438119)
 
@@ -446,7 +450,7 @@ Requirements and other standards
 
 You must not:
 
-* place Google-served ads on pages that violate the [Spam policies for Google web search](https://developers.google.com/search/docs/essentials/spam-policies).
+* place Google-served ads on screens that violate the [Spam policies for Google web search](https://developers.google.com/search/docs/essentials/spam-policies).
 
                ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about the Spam policies for Google web search](https://support.google.com/publisherpolicies/answer/11035931)_
 
