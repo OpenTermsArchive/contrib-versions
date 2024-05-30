@@ -49,7 +49,7 @@ These Controller Terms reflect the parties’ agreement on the processing of Con
 
 “**UK GDPR**” means the EU GDPR as amended and incorporated into UK law under the UK European Union (Withdrawal) Act 2018, and applicable secondary legislation made under that Act.
 
-“**US State Privacy Laws**” means, as applicable (i) the California Consumer Privacy Act of 2018 (including as amended by the California Privacy Rights Act of 2020) together with all implementing regulations (“**CCPA**”) (ii) Virginia’s Consumer Data Protection Act, Va. Code Ann. § 59.1-571 et seq.; and (iii) the Colorado Privacy Act, Colo. Rev. Stat. § 6-1-1301 et seq.; (iv) Connecticut’s Act Concerning Data Privacy and Online Monitoring, Pub. Act No. 22015; and (v) the Utah Consumer Privacy Act, Utah Code Ann. § 13-61-101 et seq.
+“**US State Privacy Laws**” has the meaning found at [business.safety.google/usdataprotectionlaws](https://privacy.google.com/businesses/usdataprotectionlaws/).
 
 2.2 The terms “**controller**”, “**data subject**”, “**personal data**”, “**processing**” and “**processor**” as used in these Controller Terms have the meanings given by either (a) Applicable Data Protection Legislation; or (b) absent any such meaning or law, the GDPR.
 
@@ -478,12 +478,13 @@ Customer Personal Data will concern the following categories of data subjects:
 
 Depending on the nature of the RDP Services, these data subjects may include individuals: (a) to whom online advertising has been, or will be, directed; (b) who have visited specific websites or applications in respect of which Google provides the RDP Services; and/or (c) who are customers or users of Customer’s products or services.
 
-_Google Ads Controller-Controller Data Protection Terms, Version 7.0_
+_Google Ads Controller-Controller Data Protection Terms, Version 8.0_
 
-_1 September 2023_
+_30 May 2024_
 
 **Previous Versions**
 
+* [1 September 2023](https://kstatic.googleusercontent.com/files/9311cdcc645a27db60cb3938c34e07abdd3f3f7e4078eb3670ded0a7e6df74bd5a0a15d45df1fa34d73f1bd68bb7e06cb5e2b52eee54d989989d2398e9d951d8)
 * [1 July 2023](https://kstatic.googleusercontent.com/files/04f6ccdb98b25657ded2e989c8288fe03c6c6e99301361fa8da3d452e77ed3fe7fea91c217b37be2778a0074e7f6f5a2ea0c39a7b0e0dc60c85f02d3a40be026)
 * [1 January 2023](https://kstatic.googleusercontent.com/files/dfa98df533cc7b2fcbf99fc64047c2157e3d3a1697aa83cdf53efff21382eb4a535f7201214d6666ab49cc3a7d70929f94acabac6cc40a1a5bd4c74d420c0603)
 * [21 September 2022](https://kstatic.googleusercontent.com/files/7b486bcbf6080b9137067c3fba1d9dc957f72814bcf3cdddf66c6809252644df423d3110652b649d81af5e869128596fe339f51fd0a245f4fd4e046e1261730d)
