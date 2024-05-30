@@ -57,7 +57,7 @@ The following is the binding and enforceable Terms of Service.
 
 Kraken.com Terms of Service
 
-Last Updated: April 30, 2024
+Last Updated: May 30, 2024
 
 Please read these Terms of Service (including all Annexes, “Terms”) carefully, as they are binding and govern your use of our services, and our websites (including kraken.com, and pro.kraken.com), and mobile applications through which you access our services (“Platforms”), along with any applicable third-party terms you may have agreed to as part of using or receiving our mobile applications (such as terms for the Apple App Store or Google Play, if applicable). If these Terms conflict with any such third-party terms, these Terms will control to the extent of the conflict. By accessing or using our services or Platforms, or by creating an account, you agree to these Terms. 
 
@@ -67,7 +67,7 @@ We make our services and Platforms available for users in many countries. Becaus
 
 These Terms are a legally binding agreement between “you” (an individual, or an entity acting through an authorized individual) and the entity listed below (including its affiliates, “we”, “us”, “our”, “Kraken” or “Payward”):
 
-* Payward Ventures, Inc., 100 Pine St., Suite 1250, Office 6, PMB A188, San Francisco, CA 94111, USA, (if you live in the United States of America) through May 31, 2024;
+* Payward Ventures, Inc., 100 Pine St., Suite 1250, Office 6, PMB A188, San Francisco, CA 94111, USA, (if you live in the United States of America) through May 31, 2024;
 * Payward Interactive, Inc., 106 E. Lincoln Way, 4th Floor, Cheyenne, WY 82001, USA (if you live in the United States of America) from and after June 1, 2024;
 * Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom, if you live in the United Kingdom (except as noted below);
 * Bit Trade Pty Limited, Unit 610, 478 George Street, Sydney, NSW 2000, Australia, if you live in Australia (except as noted below);
@@ -80,7 +80,7 @@ These Terms are a legally binding agreement between “you” (an individual, or
 * Payward Commercial Ltd., Road Town PO Box 4301, Tortola British Virgin Islands, for those services set forth in Annex C;
 * Payward Trading Ltd, 2nd floor, Water’s Edge Building, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands, for those services set forth in Annex A (except if you live in the United States of America or Australia), Annex B, Annex D, and Annex E;
 * Payward Holdings MENA Ltd, Floor 7, Al Khatem Tower, ADGM Square, Al Maryah Island, Abu Dhabi, UAE, for those services set forth in Annex F; and
-* Payward Ireland Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296 for those services set forth in Section 1(c) of Annex G if you live in Ireland, the Netherlands, France, Spain, Belgium, Italy, Austria, Czech Republic, Lithuania or Poland.
+* Payward Ireland Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296 for those services set forth in Section 1(c) of Annex G if you live in Ireland, the Netherlands, France, Spain, Belgium, Italy, Austria, Czech Republic, Lithuania or Poland (or Norway, Portugal, Romania, Slovakia, Sweden, Cyprus or Estonia from July 3, 2024 or Germany from July 10, 2024).
 
 If you live in Canada, the [Canadian Terms of Service](https://www.kraken.com/legal/ca-terms) are the binding agreement between you and Payward Canada, Inc.
 
