@@ -67,7 +67,7 @@ These Data Processing Terms reflect the parties’ agreement on the terms govern
 
 “**UK GDPR**” means the EU GDPR as amended and incorporated into UK law under the UK European Union (Withdrawal) Act 2018, and applicable secondary legislation made under that Act.
 
-“**US State Privacy Laws**” means, as applicable: (i) the California Consumer Privacy Act of 2018 (including as amended by the California Privacy Rights Act of 2020), together with all implementing regulations (“**CCPA**”); (ii) Virginia’s Consumer Data Protection Act, Va. Code Ann. § 59.1-571 et seq.; and (iii) the Colorado Privacy Act, Colo. Rev. Stat. § 6-1-1301 et seq.; (iv) Connecticut’s Act Concerning Data Privacy and Online Monitoring, Pub. Act No. 22015; and (v) the Utah Consumer Privacy Act, Utah Code Ann. § 13-61-101 et seq.
+“**US State Privacy Laws**” has the meaning found at [business.safety.google/usdataprotectionlaws](https://privacy.google.com/businesses/usdataprotectionlaws/).
 
 2.2 The terms “**controller**”, “**data subject**”, “**personal data**”, “**processing**” and “**processor**” as used in these Data Processing Terms have the meanings given by either (a) Applicable Data Protection Legislation; or (b) absent any such meaning or law, the GDPR.
 
@@ -666,12 +666,13 @@ In this Appendix 3B:
 
 6. **Changes to this Appendix 3B.** In addition to Section 15 of the Data Processing Terms (Changes to these Data Processing Terms), Google may change this Appendix 3B without notice if the change (a) is based on applicable law, applicable regulation, a court order, or guidance issued by a governmental regulator or agency or (b) does not have a material adverse impact on Customer under the US State Privacy Laws, as reasonably determined by Google.
 
-_Google Ads Data Processing Terms, Version 7.0_
+_Google Ads Data Processing Terms, Version 8.0_
 
-_1 September 2023_
+_30 May 2024_
 
 **Previous Versions**
 
+* [1 September 2023](https://kstatic.googleusercontent.com/files/37102bb611b6527b5f0f50d036a6dec5f9fc21b6df9a3fb4b36fc34ff156d3dddc0ca6392126d8fd6258d91d527e3ba4d8e8d8be88ee1a9ebda40c8420df8a34)
 * [1 July 2023](https://kstatic.googleusercontent.com/files/c0b55bfe1a6947dfba9722292599e93a68c8db3ba9014681e02d7ec3930a58c4f713ff1743e04c4db7112de3eeca02bf333bce0ba155a71a0373a647f97f430d)
 * [1 January 2023](https://kstatic.googleusercontent.com/files/f92144b084f3127939d03bb4c9bc8d3d02a691cb814f794b6e58252785939b298b3a4b7c4567b77573ad7ee5371f02854445d2d983224b4351c039a33a52d9c6)
 * [21 September 2022](https://kstatic.googleusercontent.com/files/baf7b2323f74430725d717b9d5e9e3b8ffc0d7cc44cb30133b28d3e39ef7e83268e5edf34e757eabe35287be5897268746e55fda9d4da6d6fc4ecec6b5615cf5)
