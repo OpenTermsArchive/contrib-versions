@@ -8,20 +8,20 @@ PART I - GENERAL PROVISIONS
 
 1. **Controller**: refers to the company that determines the purposes and means of the Processing of Personal Data;
 2. **Processor**: refers to the company that Processes Personal Data on behalf of the Data Controller and according to its instructions;
-3. **Data Protection Regulation**: refers to all European and national regulations on privacy and Personal Data, including implementing texts, regulations, orders, standards, guidelines and other acts including (without limiting the generality of the foregoing) EU Regulation No. 2016/679 of 27 April 2016 known as the "General Data Protection Regulation" (GDPR) and French Law No. 78-17 of 6 January 1978 as amended, known as the "Loi Informatique et Libertés".
-4. **Data Protection Authority**: refers to the controlling authority for the protection of Personal Data concerned by the processing under this DPA. In the case of processing affecting data subjects located in several European Union Member States, the controlling authority of the main establishment of the Data Processor shall be considered the lead authority, in accordance with the GDPR ;
-5. **Personal Data**: means any information relating to an identifiable or identified natural person; an identifiable natural person is one who can be identified directly or indirectly, in particular by an identifier such as name, identification number, location data, online identifier or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
-6. **Services**: means the hosting and storage services provided by SCALINGO under the Agreement;
-7. **Processing**: means any operation or set of operations, whether or not carried out by automated means, on Personal Data or sets of Personal Data, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, limitation, deletion or destruction;
-8. **User(s)**: means the natural person who benefits from the Services, who is employed by Client or by Client's subcontractors, and who is authorized to use all or part of the Services, regardless of location and access.
+3. **Customer Data**: means all data, including all text, sound, video, or image files, and software, that are provided to SCALINGO by, or on behalf of, Customer through use of the Services. Customer Data does not include Professional Services Data.
+4. **Data Protection Regulation**: refers to all European and national regulations on privacy and Personal Data, including implementing texts, regulations, orders, standards, guidelines and other acts including (without limiting the generality of the foregoing) EU Regulation No. 2016/679 of 27 April 2016 known as the "General Data Protection Regulation" (GDPR) and French Law No. 78-17 of 6 January 1978 as amended, known as the "Loi Informatique et Libertés".
+5. **Data Protection Authority**: refers to the controlling authority for the protection of Personal Data concerned by the processing under this DPA. In the case of processing affecting data subjects located in several European Union Member States, the controlling authority of the main establishment of the Data Processor shall be considered the lead authority, in accordance with the GDPR ;
+6. **Personal Data**: means any information relating to an identifiable or identified natural person; an identifiable natural person is one who can be identified directly or indirectly, in particular by an identifier such as name, identification number, location data, online identifier or one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person;
+7. **Products and Services**: means the hosting and storage services provided by SCALINGO under the Agreement;
+8. **Processing**: means any operation or set of operations, whether or not carried out by automated means, on Personal Data or sets of Personal Data, such as collection, recording, organization, structuring, storage, adaptation or alteration, retrieval, consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, limitation, deletion or destruction;
+9. **ISSP**: Scalingo’s Information Systems Security Policy;
+10. **User(s)**: means the natural person who benefits from the Services, who is employed by Client or by Client's subcontractors, and who is authorized to use all or part of the Services, regardless of location and access.
 
 All terms identified in the DPA that begin with a capital letter, if not defined herein, shall have the meaning given to them in SCALINGO's General Terms and Conditions of services (hereinafter the "**GTC**").
 
 ### ARTICLE 2 - SECURITY MEASURES
 
-In addition to SCALINGO's security obligations stipulated in Article 13 of the GTC and in the PSSI, SCALINGO implements and maintains appropriate technical and organizational security measures to protect the confidentiality of the Personal Data it processes, in accordance with the requirements of the Data Protection Regulation.
-
-These measures include the potential risks to the data subjects as a result of the processing operations carried out. These security measures comply with the state of the art and industry best practices in security, and take into account the guidelines of the Data Protection Authorities.
+In addition to SCALINGO's security obligations stipulated in Article 13 of the GTC and in the ISSP, SCALINGO implements and maintains appropriate technical and organizational security measures to protect the confidentiality of the Personal Data it processes, in accordance with the requirements of the Data Protection Regulation. These measures include the potential risks to the data subjects as a result of the processing operations carried out. These security measures comply with the state of the art and industry best practices in security, and take into account the guidelines of the Data Protection Authorities.
 
 SCALINGO uses its best efforts to:
 
@@ -30,7 +30,7 @@ SCALINGO uses its best efforts to:
 
 In case of server failure, SCALINGO will make its best efforts to restore the service as soon as possible, within the limits of the service level commitments made by the hosting provider.
 
-These technical and organizational measures are detailed in the PSSI and regularly tested, analyzed and evaluated by SCALINGO, as part of the certified ISMS set up by the latter, to ensure their effectiveness.
+These technical and organizational measures are detailed in the ISSP and regularly tested, analyzed and evaluated by SCALINGO, as part of the certified ISMS set up by the latter, to ensure their effectiveness.
 
 ### ARTICLE 3 - INSURANCE
 
@@ -40,7 +40,7 @@ SCALINGO agrees to purchase and maintain during the term of the contract an appr
 
 The contact points of the Parties referenced for the purpose of executing the DPA are
 
-* For SCALINGO: Yann KLIS -- [dpo@scalingo.com](mailto:dpo@scalingo.com)
+* For SCALINGO: Scalingo's Data Protection Officer -- [dpo@scalingo.com](mailto:dpo@scalingo.com)
 * For the Client: Name and contact details of the DPO to be indicated and kept up to date by the Client directly from the interface of its Client Account on the Platform, or alternatively the name and contact details indicated at the time of subscription to the Agreement.
 
 The Parties undertake to keep each other informed in the event of a change in the above-mentioned contact points.
@@ -60,12 +60,13 @@ For the performance of the Services and, more generally, for the performance of 
 
   
 
-| Person concerned | Any person whose Personal Data are processed by the Client through the Resources |
+| Data Subject | Any person whose Personal Data is processed by the Client through the Resources |
 | --- | --- |
-| Purpose of the processing | Hosting of Resources on the Platform |
+| Purpose of the processing | Hosting Customer’s Resources on the Platform to provide the Products and Services pursuant to Customer’s agreement. |
+| Nature of Processing | Collection, storage, adaptation, use, transmission, erasure, or destruction. |
 | Legal base | Execution of the Agreement |
 | Categories of data processed | All categories, according to the processing activities carried out by the Client as Data Controller |
-| Shelf life | Agreement duration + 30 days (data return period) or any other retention period requested by the Client |
+| Retention Time | Agreement duration + 30 days (data return period) or any other retention period requested by the Client |
 
 ### ARTICLE 7 - OBLIGATIONS OF SCALINGO
 
@@ -85,25 +86,25 @@ As a Subcontractor, SCALINGO undertakes to respect the following obligations and
 
 (g) To reasonably assist Client in the performance of privacy impact assessments and prior consultation with the relevant supervisory authority. The Client acknowledges and agrees that such assistance will be subject to a specific quote from SCALINGO ;
 
-(h) To answer as soon as possible to any request from the Client concerning the Personal Data processed in order to enable it to take into account, within the time limits set, any requests from the Data Subjects (right of access, rectification, deletion, opposition, etc.); the Client acknowledges and agrees that this assistance will be the subject of a specific quote from SCALINGO;
+(h) To answer as soon as possible ~to~ any request from the Client concerning the Personal Data processed in order to enable it to take into account, within the time limits set, any requests from the Data Subjects (right of access, rectification, deletion, opposition, etc.); the Client acknowledges and agrees that this assistance will be the subject of a specific quote from SCALINGO;
 
 (i) Notify and assist the Client in guaranteeing compliance with obligations relating to the security of Personal Data, in particular in the context of procedures for notifying security breaches, in the conditions set out in ARTICLE 10 below. The Client acknowledges and agrees that this assistance may be subject to a specific quote from SCALINGO;
 
 (j) Implement the necessary technical and organizational measures enabling the Client to fully respect the rights of the Concerned Persons, in particular the right of access, the right to obtain rectification or deletion of Personal Data or limitation of the processing of their Personal Data, the right to object to decisions based on profiling, as well as the right to data portability, if applicable.
 
-(k) Define and formalise a policy for the provision and return of personal data as well as their destruction, and make it available to the Customer on request.
+(k) Define and formalise a policy for the provision and return of personal data as well as it’s destruction, and make it available to the Customer on request.
 
 The Client is informed that if SCALINGO is required to disclose Personal Data to a law enforcement agency, SCALINGO will use its best efforts to provide the Client with reasonable notice and to allow the Client to seek any protective order or other appropriate remedy, unless SCALINGO is prohibited from doing so by law or by the relevant Data Protection Authority.
 
-### ARTICLE 8 - LOCATION OF THE PERSONAL DATA
+### ARTICLE 8 - LOCATION OF PERSONAL DATA
 
-The Personal Data are stocked by SCALINGO in data centers of the company OUTSCALE, located in different places according to the region chosen by the Client in its Order.
+Personal Data is stored by SCALINGO in OUTSCALE's datacenters, which are physically located in different places according to the "region" chosen by the Client in its Order.
 
-The selected region can be **osc-fr1** or **osc-secnum-fr1**.
+The selected "region" can be **osc-fr1** or **osc-secnum-fr1**.
 
-**For the region osc-fr1**. The data are stocked by SCALINGO in data centers located in FRANCE managed by OUTSCALE in its eu-west-2 region (OUTSCALE DPO, 1 rue Royale, 319 bureaux de la Colline, 92210 Saint-Cloud, [personal-data@outscale.com](mailto:personal-data@outscale.com)). The data centers are located in : Paris-Pantin & Magny-les-Hameaux, France. OUTSCALE's OOS storage services are located in France in OUTSCALE's eu-west-2 region and are provided to SCALINGO for database backups and log backups.
+**For the osc-fr1 region**. Data is stored by SCALINGO in datacenters located in FRANCE, and managed by OUTSCALE in its "eu-west-2" region (OUTSCALE DPO, 1 rue Royale, 319 bureaux de la Colline, 92210 Saint-Cloud, [personal-data@outscale.com](mailto:personal-data@outscale.com)). The datacenters are located in Paris-Pantin & Magny-les-Hameaux, France. OUTSCALE's OOS storage services are located in France in OUTSCALE's eu-west-2 region and are provided to SCALINGO for database backups and log backups.
 
-**For the osc-secnum-fr1 region**. The data are stocked by SCALINGO in data centers located in FRANCE managed by OUTSCALE in its cloudgouv-eu-west-1 region (OUTSCALE DPO, 1 rue Royale, 319 bureaux de la Colline, 92210 Saint-Cloud, [personal-data@outscale.com](mailto:personal-data@outscale.com)). The data centers are located in: Paris-Pantin & Magny-les-Hameaux, France. OUTSCALE's OOS storage services are located in France in OUTSCALE's cloudgouv-eu-west-1 region and are provided to SCALINGO for database backups and log backups.
+**For the osc-secnum-fr1 region**. Data are stored by SCALINGO in data centers located in FRANCE, and managed by OUTSCALE in its "cloudgouv-eu-west-1" region (OUTSCALE DPO, 1 rue Royale, 319 bureaux de la Colline, 92210 Saint-Cloud, [personal-data@outscale.com](mailto:personal-data@outscale.com)). The data centers are located in Paris-Pantin & Magny-les-Hameaux, France. OUTSCALE's OOS storage services are located in France in OUTSCALE's cloudgouv-eu-west-1 region and are provided to SCALINGO for database backups and log backups.
 
 ### ARTICLE 9 - EXERCISE OF RIGHTS, REQUESTS AND COMPLAINTS
 
@@ -137,7 +138,7 @@ The general security requirements are set out in ARTICLE 2. - above.
 With regard to the security of Personal Data processed for the purposes of performing the Services, SCALINGO implements additional measures resulting from the Data Protection Regulations. In particular, SCALINGO undertakes to implement the following measures:
 
 * Assisting the Client in carrying out anonymization and/or pseudonymization operations of Personal Data by providing the appropriate functionalities and tools included in the Services as well as the necessary expertise;
-* To ensure throughout the processing of the Personal Data a robust and flawless end-to-end encryption of the Personal Data, as further described in the PSSI made available to the Client under the conditions provided for in the GTC;
+* To ensure throughout the processing of the Personal Data a robust and flawless end-to-end encryption of the Personal Data, as further described in the ISSP made available to the Client under the conditions provided for in the GTC;
 * Ensuring adequate protection of Personal Data to ensure its confidentiality and to prevent Personal Data breaches and/or minimize the impacts in case of a Personal Data breach;
 * The implementation of specific tools and processes to detect Personal Data breaches.
 * The ability to ensure that any person acting under the authority of SCALINGO who may have access to the Personal Data bases for the purposes of its activity, under the conditions provided for in the GTC, does not carry out any other processing of the Personal Data, except in the cases expressly authorized by the Client;
@@ -209,7 +210,7 @@ If the Client acts as a subcontractor of a third party controller, the Client gu
 
 ### ARTICLE 17 - CLIENT OBLIGATIONS
 
-The Client guarantees having obtain and to maintain, for all duration of the Agreement, all necessary consents and/or declarations/authorizations to lawfully process the Personal Data of Users and Data Subjects and more generally, to execute this DPA. The Client will indemnify and hold SCALINGO harmless from any claim or action by any User or Data Subject relating to the protection of their Personal Data.
+The Client guarantees having obtained and to maintain, for all duration of the Agreement, all necessary consents and/or declarations/authorizations to lawfully process the Personal Data of Users and Data Subjects and more generally, to execute this DPA. The Client will indemnify and hold SCALINGO harmless from any claim or action by any User or Data Subject relating to the protection of their Personal Data.
 
 ### ARTICLE 18 - RESPONSIBILITY
 
