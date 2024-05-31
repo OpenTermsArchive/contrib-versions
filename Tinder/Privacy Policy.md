@@ -1,430 +1,266 @@
 Privacy Policy
 ==============
 
-Our Commitment To You
----------------------
+_Do you live in California? Check out our_ [_California Privacy Statement_](https://policies.tinder.com/ccpa-addendum)_, which supplements this Privacy Policy._
 
-At Tinder, your privacy is a top priority. Your privacy is at the core of the way we design and build the services and products you know and love, so that you can fully trust them and focus on building meaningful connections.
-
-We appreciate that you put your trust in us when you provide us with your information and we do not take this lightly.
-
-**Our commitment to privacy.** We design all of our products and services with your privacy in mind. We involve experts from various fields, including legal, security, engineering, product design and others to make sure that our decisions are taken with the utmost respect for your privacy.
-
-**Our commitment to transparency.** Because we use many of the same online services you do, we know that insufficient information and overly complicated language are common issues in privacy policies. We take the exact opposite approach: we’re doing our best to write our Privacy Policy and related documents in plain language. We actually want you to read our policies and understand our privacy practices!
-
-**Our commitment to security.** We have teams dedicated to keeping your data safe and secure. We constantly update our security practices and invest in our security efforts to enhance the safety of your information.
+_Residents of Washington and Nevada, please see our_ [_Consumer Health Data Privacy Policy_](https://policies.tinder.com/consumer-health-data-privacy-policy)_, which supplements this Privacy Policy._
 
 * * *
 
-Welcome to our Privacy Policy. Thank you for taking the time to read it.
+Hey there! Welcome to Tinder’s Privacy Policy.
 
-**If you are a California resident, please see our** [**California Privacy Statement**](https://policies.tinder.com/ccpa-addendum)**, which supplements this Privacy Policy.**
+We know reading a privacy policy might not be everyone’s idea of a good time, but hear us out. We put a lot of effort into making this policy as clear and engaging as possible, because we actually want you to read it! Think of us as your digital wingmate, here to guide you through the ins and outs of what data we collect, and why and how we use it. So get cozy, grab your beverage of choice, and let’s dive into the world of personal data together. 
 
-**If you are a Washington or Nevada resident, please see our** [**Consumer Health Data Privacy Policy**](https://policies.tinder.com/consumer-health-data-privacy-policy)**, which supplements this Privacy Policy**
-
-We appreciate that you trust us with your information and we intend to always keep that trust. This starts with making sure you understand the information we collect, why we collect it, how it is used and your choices regarding your information. This Policy describes our privacy practices in plain language, keeping legal and technical jargon to a minimum.
-
-This Privacy Policy applies from July 1, 2023. The [previous version of this Privacy Policy](https://policies.tinder.com/privacy-2023-2-24) applies until then.
+This Privacy Policy applies from July 1, 2024. The previous version, available [here](https://policies.tinder.com/privacy-policy-6-1-2024), applies until then.
 
 1. [Who We Are](#who-we-are)
     
 2. [Where This Privacy Policy Applies](#where-this-applies)
     
-3. [Information We Collect](#information-we-collect)
+3. [Data We Collect](#data-we-collect)
     
-4. [How We Use Information](#how-we-use-info)
+4. [How We Use Data](#how-we-use-data)
     
-5. [How We Share Information](#how-we-share-info)
+5. [How We Share Data](#how-we-share-data)
     
-6. [Cross-Border Data Transfers](#cross-border-data)
+6. [How Match Group Companies Work Together](#how-match-works-together)
     
-7. [Your Rights](#your-rights)
+7. [Cross-Border Data Transfers](#cross-border-data-transfers)
     
-8. [How Long We Retain Your Information](#how-long-we-retain)
+8. [Your Rights](#your-rights)
     
-9. [Children's Privacy](#childrens-privacy)
+9. [How Long We Retain Your Data](#how-long-we-retain-your-data)
     
-10. [Job Candidates, Contractors and Vendor Representatives](#job-candidates)
+10. [Children's Privacy](#childrens-privacy)
     
-11. [Privacy Policy Changes](#policy-changes)
+11. [Privacy Policy Changes](#privacy-policy-changes)
     
-12. [How To Contact Us](#how-to-contact)
+12. [How To Contact Us](#how-to-contact-us)
     
 
-### For California Consumers
+**1.** **Who We Are**
+---------------------
 
-Please see our [California Privacy Statement](https://policies.tinder.com/ccpa-addendum/) to learn about California privacy rights.
-
-### 1\. Who We Are
-
-If you live in the European Economic Area (“EEA”), the United Kingdom or Switzerland, the company responsible for your information under this Privacy Policy (the “data controller”) is:
+If you live in the European Economic Area (“EEA”), the United Kingdom or Switzerland, the company responsible for your data (the “data controller”) is:
 
 > MTCH Technology Services Limited  
->   
 > Tinder  
->   
-> 1 Hatch Street Upper  
->   
-> Dublin 2  
->   
-> Dublin  
->   
+> 1 Hatch Street Upper   
+> Dublin 2   
 > D02 PY28  
->   
 > Ireland
 
-If you live in Japan, the company responsible for your information is:
+If you live in Japan, the company responsible for your data is:
 
-> MG Japan Services GK
-> 
-> 4F Sumitomo Fudosan Azabu Bldg
-> 
-> 1-4-1 Mita
-> 
-> Minato-ku,Tokyo 108-0073
-> 
+> MG Japan Services GK  
+> 4F Sumitomo Fudosan Azabu Bldg  
+> 1-4-1 Mita  
+> Minato-ku,Tokyo 108-0073  
 > Japan
 
-If you live outside the EEA, the United Kingdom, Switzerland and Japan, the company responsible for your information is:
+If you live outside the EEA, the United Kingdom, Switzerland and Japan, the company responsible for your data is:
 
-> Match Group, LLC
+> `Tinder, LLC`
 > 
-> 8750 North Central Expressway
+> `8750 North Central Expressway`
 > 
-> Suite 1400
+> `Suite 1400`
 > 
-> Dallas, TX 75231
+> `Dallas, TX 75231`
 > 
-> United States
+> `United States`
 
-### 2\. Where This Privacy Policy Applies
+**2\. Where This Privacy Policy Applies**
+-----------------------------------------
 
-This Privacy Policy applies to websites, apps, events and other services we operate under the Tinder brand. For simplicity, we refer to all of these as our “services” in this Privacy Policy. To make it extra clear, we’ve added links to this Privacy Policy on all applicable services.
+This Privacy Policy applies to websites, apps, events and other services we operate under the Tinder brand. Whether you're searching for your soulmate, joining us at one of our events, or using any of our other awesome services, this Policy has got you covered. For simplicity, we just refer to all of these as our “service” in this Privacy Policy.
 
-Some services may require their own unique privacy policy. If a service has its own privacy policy, then that policy -- not this Privacy Policy -- applies.
+If for some reason, one of our services requires its own separate privacy policy, then that policy will be made available to you and that policy -- not this Privacy Policy -- will apply.
 
-### 3\. Information We Collect
+### **3\. Data We Collect**
 
-It goes without saying, we can’t help you develop meaningful connections without some information about you, such as basic profile details and the types of people you’d like to meet. We also collect information about your use of our services such as access logs, as well as information from third parties, like when you access our services through your social media account or when you upload information from your social media account to complete your profile. If you want additional info, we go into more detail below.
+It goes without saying, we can’t help you develop meaningful connections without you providing some information about yourself, like basic profile details and the types of people you’d like to meet. Using our service also generates some information, such as when you logged in and how you used the service. We may also collect data from third parties, like when you access the service through an account you have on another platform (e.g., Facebook, Google or Apple) or when you upload information from your account on another platform to complete your profile. If you're interested in all the details, be sure to check out the table below.
 
-#### Information you give us
+| **Data you give us** |     |
+| --- | --- |
+| **Categories** | **Description** |
+| **Account Data** | When you create an account, you give us basic information for your account to be set up such as your phone number, email address, and date of birth. |
+| **Profile Data** | When you complete your profile, you share additional details about you, such as your gender, interests, preferences, approximate location, etc. Some of this data may be considered sensitive or special in certain countries, such as details about sexual orientation, sexual life, health, or political beliefs. If you choose to provide this data, you consent to us using it as laid out in this Privacy Policy. |
+| **Content** | When you use our service, you may post photos, videos, audio, text and other types of content, such as your chats with other members. |
+| **Purchase Data** | When you make a purchase, we keep the details of the transaction (e.g., what you purchased, the date of the transaction, and the price). The exact data depends on the payment method you choose. When you pay directly with us (rather than through a platform such as iOS or Android), you provide your debit or credit card number or other financial info. |
+| **Marketing, Survey and Research Data** | We sometimes run (i) surveys, focus groups, or market studies for research purposes and (ii) promotions, events or contests for marketing purposes. When you choose to participate, you give us information to process your entry and participation, as well as your responses to our questions and your feedback. |
+| **Third-Party Data** | When you choose to share with us information about other people (for example, if you use the contact details of someone you know for a given feature or if you submit a query or report involving a member), we process this data on your behalf to complete your request. For more information on the Friends of Friends feature see [here](https://www.help.tinder.com/hc/articles/7511247800333-Friends-of-Friends), and you can learn more about how Tinder processes the information of non-members [here](https://www.help.tinder.com/hc/articles/25568861305101). |
+| **Customer Support Data** | When you contact us, you provide us with information that may be necessary to help address your inquiry. Other people may also submit queries or reports involving you. Finally, our moderation tools and teams can collect additional data as part of their investigations.  <br>  <br>Further, we are part of the [Match Group family of businesses](https://mtch.com/). Match Group considers the safety and security of members a top priority. If you were banned from another Match Group service, your data may be shared with us to allow us to take necessary actions, including closing your account or preventing you from creating an account on our service. <br><br>Where legally allowed, we can also receive information about suspected or convicted bad actors from third parties as part of our efforts to ensure our members’ safety and security. |
+| **Social Media Data** | You may decide to share data with us through your accounts on other platforms (e.g., Facebook, Instagram, Spotify, Apple), for instance if you decide to create and log into your account via these platforms or if you decide to upload data such as photos or playlists onto our service from these platforms. |
 
-You choose to give us certain information when using our services. This includes:
+|     |     |
+| --- | --- |
+| **Data generated or automatically collected** |     |
+| **Categories** | **Description** |
+| **Usage Data** | Using the service generates data about your activity, including how you use it (e.g., when you logged in, features you’ve been using, actions taken, information shown to you, referring webpages, ads you interacted with) and how you interact with others (e.g., searching, matching, communicating). We may also receive data related to interactions you had with our ads on third party’s websites or apps. |
+| **Technical Data** | Using the service involves the collection of data from and about the device(s) you use to access our service, including hardware and software information such as IP address, device ID and type, apps settings and characteristics, app crashes, advertising IDs and identifiers associated with cookies or other technologies that may uniquely identify a device or browser. For more information about cookies, see our [Cookie Policy](https://policies.tinder.com/cookie-policy). |
 
-* When you create an account, you provide us with at least your phone number and email address, as well as some basic details necessary for the service to work, such as your gender, date of birth, and who you’d like to connect with.
-    
-* When you complete your profile, you have the option to share your sexual orientation with us. Where you provide such elements to us, you consent to us using it for the purposes identified and as laid out in this Privacy Policy. You can also share additional information with us, such as details on your bio and your interests, as well as content such as photos and videos. To add certain content, like pictures or videos, you may allow us to access your camera or photo album.
-    
-* When you subscribe to a paid service or make a purchase directly from us (rather than through a platform such as iOS or Android), you provide us with information related to the purchases you make and our payment processors with information such as your debit or credit card number or other financial information.
-    
-* When you participate in surveys, focus groups or market studies, you give us your insights into our products and services, responses to our questions and testimonials.
-    
-* When you choose to participate in our promotions, events or contests, we collect the information that you use to register or enter.
-    
-* If you contact our customer care team, we collect the information you give us during the interaction.
-    
-* If you share with us information about other people (for example, if you use contact details of a friend for a given feature), we process this information on your behalf in order to complete your request.
-    
-* Of course, we also process your chats with other members as well as the content you publish to operate and secure the services, and to keep our community safe.
-    
+|     |     |
+| --- | --- |
+| **Other data we collect with your permission/consent** |     |
+| **Categories** | **Description** |
+| **Geolocation Data** | If you give us permission, we can collect your geolocation (latitude and longitude) from your device. If you decline permission, features that rely on precise geolocation may not be available to you. |
+| **Face Geometry** **Data** | You may choose to participate in certain of our features like Photo Verification, or Photo and ID Verification, that involve the collection of face geometry data, which may be considered biometric data in some jurisdictions. [Learn more about our verification feature and how we process your face geometry data](https://www.help.tinder.com/hc/articles/4422771431309-How-Does-Photo-Verification-Work-). |
+| **ID Data** | You may provide us with a copy of your government-issued ID to help us check that you’re who you say you are. |
 
-#### Information we receive from others
+**4\. Why and How We Use Your Data**
+------------------------------------
 
-In addition to the information you may provide us directly, we receive information about you from others, including:
+The main reason we process your data is to provide our service to you and improve it over time. That includes connecting you with members who might make your heart skip a beat, personalizing your experience, and just helping you make the most of our service. We also process your data to keep you and all of our members safe and secure while using our service. We take this responsibility very seriously and we’re always working to improve our systems and processes to help protect you. And yes, we process your data to show relevant ads – you can control this in your settings. Read on for a more detailed explanation.
 
-* **Members:** Members may provide information about you as they use our services, for instance as they interact with you or if they submit a report involving you.
-    
-* **Social Media:** You may decide to share information with us through your social media account, for instance if you decide to create and log into your account via your social media or other account (e.g., Facebook, Google or Apple) or to upload onto our services information such as photos from one of your social media accounts (e.g., Instagram or Spotify).
-    
-* **Affiliates:** We are part of the [Match Group family of businesses](https://mtch.com/). Match Group considers the safety and security of members a top priority. If you were banned from another Match Group service, your information can be shared with us to allow us to take necessary actions, including closing your account or preventing you from creating an account on our services. 
-    
-* **Other Partners:** We may receive information about you from our partners where our ads are published on a partner’s service (in which case they may pass along details on a campaign’s success). Where legally allowed, we can also receive information about suspected or convicted bad actors from third parties as part of our efforts to ensure our members’ safety and security.
-    
+For information on how we process personal data through “profiling” and “automated decision-making”, please see our [FAQ](https://www.help.tinder.com/hc/articles/5349453268877-Privacy-FAQs#h_01G63PGZKTE77J2KYH42JSKPSH).
 
-#### Information generated or automatically collected when you use our services
+|     |     |     |
+| --- | --- | --- |
+| **Purposes for processing your data** | **Grounds for processing your data** | **Categories of data processed**<br><br>_(Those are described in Section 3 of this Policy)_ |
+| **To enable you to use our service, including:**<br><br>  <br><br>Creating and maintaining your account and profile on our service<br><br>Operating and maintaining the various features on our service<br><br>Recommending other members to you and recommending you to them<br><br>Organizing sweepstakes and contests<br><br>Responding to your requests and questions <br><br>Monitoring the well functioning of our service and troubleshooting and fixing issues as needed<br><br>Processing your applications to join one of our premiere/VIP services | Performance of our contract with you<br><br>Your consent (where sensitive data or other type of data that requires consent is processed) | Account Data<br><br>Profile Data<br><br>Content<br><br>Purchase Data<br><br>Marketing, Survey and Research Data<br><br>Third Party Data<br><br>Customer Support Data<br><br>Social Media Data<br><br>Usage Data<br><br>Technical Data<br><br>Geolocation Data<br><br>Face Geometry Data |
+| **To enable your purchases on our service, including:**<br><br>Processing payments<br><br>Offering discounts and promotions, customizing prices | Performance of our contract with you | Account Data<br><br>Profile Data<br><br>Technical Data<br><br>Purchase Data<br><br>Usage Data |
+| **To operate advertising and marketing campaigns, including:**<br><br>Performing and measuring the effectiveness of advertising campaigns run on our service<br><br>Performing and measuring the effectiveness of marketing campaigns promoting our own service on third-party platforms<br><br>Communicating with you about products and services we believe may interest you | Consent (where required under applicable law) and otherwise our legitimate interest. It is in our legitimate interest to promote our service and to show ads to our members which are tailored to their interests, as a way to improve their experience and help fund the parts of our service which are free | Account Data<br><br>Profile Data<br><br>Usage Data<br><br>Marketing, Survey and Research Data<br><br>Technical Data |
+| **To improve our service and create new features and services, including:**<br><br>Running focus groups, market studies and surveys<br><br>Analyzing how our service is used<br><br>Reviewing interactions with customer care teams to improve service quality<br><br>Developing and improving new features and services, including through machine learning and other technologies, and testing them out<br><br>Conducting research and publishing research papers | Performance of our contract with you<br><br>Our legitimate interest: It is in our legitimate interest to improve our service over time<br><br>Consent where required under applicable law (e.g., we may process data deemed sensitive or special in certain countries to help make sure that the various communities using our service are being treated fairly and equitably and that our service remains diverse and inclusive) | Account Data<br><br>Profile Data<br><br>Content<br><br>Purchase Data<br><br>Marketing, Survey and Research Data<br><br>Third Party Data<br><br>Customer Support Data<br><br>Social Media Data<br><br>Usage Data<br><br>Technical Data |
+| **To keep you and other members safe on our service and across Match Group, including:** <br><br>Preventing, detecting and fighting against violations of our [Terms](https://policies.tinder.com/terms) fraud and other illegal or unauthorized activities <br><br>Developing and improving tools to prevent, detect and fight against violations of our Terms, fraud and other illegal or unauthorized activities<br><br>Preventing recurrences, notably by preventing individuals who violate our Terms from creating a new account<br><br>Letting individuals who submit a report know what we’ve done about it<br><br>Verifying your identity<br><br>Securing payments and fighting against financial fraud<br><br>_For more information on safety, integrity and security generally, visit our_ [_Safety Tips_](https://policies.tinder.com/safety) _and_ [_Community Guidelines_](https://policies.tinder.com/community-guidelines) _._ | Performance of our contract with you<br><br>Our legitimate interest: It is in our legitimate interest and that of our members to keep them safe<br><br>Protection of your vital interests and that of other members<br><br>Compliance with legal obligations that apply to us such as taking down illicit content<br><br>Your consent (where sensitive data or other type of data that requires consent is processed) | Account Data<br><br>Profile Data<br><br>Content<br><br>Purchase Data<br><br>Third Party Data<br><br>Customer Support Data<br><br>Usage Data<br><br>Technical Data <br><br>Face Geometry Data<br><br>ID Data |
+| **To comply with applicable law, establish, exercise and defend legal claims & rights, including:**<br><br>Preserving data to comply – and evidence compliance – with applicable law<br><br>Supporting investigations and defending potential or ongoing litigation, regulatory action or dispute<br><br>Responding to lawful requests from law enforcement, courts, regulators, and other third parties<br><br>Reporting illegal or infringing content to law enforcement, government or other authorities<br><br>Establishing, exercising, or defending ongoing or threatened claims<br><br>Sharing data with law enforcement or partners to combat abusive or illegal behavior | Our legitimate interest: It is in our legitimate interest to comply with applicable law and protect ourselves, our members and others, including as part of investigations, legal proceedings and other disputes<br><br>Protection of your vital interests and that of other members<br><br>Compliance with legal obligations applying to us such as responding to law enforcement requests for information | The categories of data shared will vary based on the specific circumstances surrounding each obligation, compelling interest or dispute |
 
-When you use our services, this generates technical data about which features you’ve used, how you’ve used them and the devices you use to access our services. See below for more details.
+### **5\. How We Share Data**
 
-* **Usage Information:** Using the services generates data about your activity on our services, for instance how you use them (e.g., when you logged in, features you’ve been using, actions taken, information shown to you, referring webpages address and ads that you interacted with) and your interactions with other members (e.g., members you connect and interact with, and when you matched and exchanged messages with them).
-    
-* **Device information:** We collect information from and about the device(s) you use to access our services, including hardware and software information such as IP address, device ID and type, apps settings and characteristics, app crashes, advertising IDs (which are randomly generated numbers that you can reset by going into your device’ settings and, in some cases, disable entirely), and identifiers associated with cookies or other technologies that may uniquely identify a device or browser.
-    
-* **Information collected by cookies and similar technologies:** We use and may allow others to use cookies and similar technologies (e.g., web beacons, pixels, SDKs) to recognize you and/or your device(s). You may read our [Cookie Policy](https://policies.tinder.com/cookie-policy) for more information on why we use them and how you can better control their use.
-    
-    Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) have a “Do Not Track” (“DNT”) feature that tells a website that a user does not want to have his or her online activity tracked. If a website that responds to a DNT signal receives a DNT signal, the browser can block that website from collecting certain information about the browser’s user. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, many businesses, including ours, do not currently respond to DNT signals.
-    
-* **Other information with your consent:**
-    
-    * **Precise geolocation data:** If you give us your consent, we can collect your precise geolocation (latitude and longitude) from your device. The collection of your geolocation may occur in the background even when you aren’t using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your precise geolocation, we will not collect it, and our services that rely on precise geolocation may not be available to you.
-        
-    * **Photo Verification** **data:** If you choose to participate in our Photo Verification feature, we collect your face geometry data, which may be considered biometric data in some jurisdictions, to verify that you’re the real you. You can [learn more about Photo Verification](https://www.help.tinder.com/hc/articles/4422771431309-How-Does-Photo-Verification-Work-) and how we process your face geometry data.
-        
-    * **ID + Photo Verification data:** If you choose to participate in our combined ID + Photo Verification feature, we collect your face geometry data, which may be considered biometric data in some jurisdictions, as well as a copy of your ID, to verify that you’re the real you. You can [learn more about ID + Photo Verification](https://www.help.tinder.com/hc/articles/19868368795917) and how we process your data.
-        
-    * **Other information:** We may collect other information with your permission, such as photos and videos (for instance, if you want to publish a photo or video or participate in streaming features on our services).
-        
+Since our goal is to help you make meaningful connections, some of your information is of course visible to other members on the service. We also share data with service providers and partners who assist us in operating the service, with other Match Group companies for the reasons laid out below and, in some cases, for legal and related reasons. Read on for more details. 
 
-### 4\. How We Use Information
+|     |     |     |
+| --- | --- | --- |
+| **Recipients** | **Reasons for sharing** | **Categories of Personal Data** |
+| **Other members** | You share data with other members when you voluntarily disclose information on the service for others to see (e.g., your public profile).<br><br>  <br><br>If someone submits a report involving you (such as a claim you violated our Terms of Use), we may let the reporter know what actions we took, if any, as a result of their report. The same applies if you submit a report involving another member. | Profile Data<br><br>Content<br><br>Social Media Data<br><br>Third Party Data<br><br>Customer Support Data |
+| **Service providers/partners** | We share data with vendors and partners who help us operate, promote and improve our service. They provide us services such as data hosting and maintenance, analytics, customer care, marketing, advertising, payment processing, legal support, and security operations. | Depending on the service provided by the vendor or partner, it may include: <br><br>Account Data<br><br>Profile Data<br><br>Content<br><br>Purchase Data<br><br>Marketing, Survey and Research Data<br><br>Third Party Data<br><br>Customer Support Data<br><br>Social Media Data<br><br>Usage Data<br><br>Technical Data<br><br>Geolocation Data<br><br>Face Geometry Data<br><br>ID Data |
+| **Advertising Partners** | We may publish ads about third-party advertisers’ products and services on our service, and publish ads promoting our own service on third-party sites and apps. To help improve the relevance of these ads, we provide certain info about you to third parties, including advertising partners, or allow them to collect such data from our services (such as via cookies, SDKs, or similar technologies). Some of our advertising partners enable us to transform your email address, advertising identifiers or phone number into an identifier that can’t be used to identify you personally and then use that unique identifier to either exclude you from our marketing campaigns, or to target our ads at an audience that is similar to you in terms of background, interests or app usage. | Account Data<br><br>Profile Data<br><br>Usage Data<br><br>Technical Data |
+| **Affiliates** | We may share data with affiliates or receive data from them for the purposes laid out in Section 6 of this policy. | The categories of data will vary based on the reason for sharing, but it may include:.<br><br>  <br><br>Account Data<br><br>Profile Data<br><br>Content<br><br>Purchase Data<br><br>Marketing, Survey and Research Data<br><br>Third Party Data<br><br>Customer Support Data<br><br>Social Media Data<br><br>Usage Data<br><br>Technical Data<br><br>Geolocation Data<br><br>Face Geometry Data<br><br>ID Data |
+| **Law enforcement authorities** | We may disclose your data to: (i) comply with a legal process, such as a court order, subpoena or search warrant, government / law enforcement investigation or other legal requirements; (ii) assist in the prevention or detection of crime; (iii) protect the safety of any person; and (iv) establish, exercise or defend legal claims. | The categories of data shared will vary depending on the specific circumstances surrounding the request, but it often can include:<br><br>Account data<br><br>Profile Data<br><br>Content<br><br>Purchase Data<br><br>Customer Support Data<br><br>Third Party Data<br><br>Social Media Data<br><br>Usage Data<br><br>Technical Data<br><br>Geolocation Data<br><br>ID Data |
+| **In the context of merger and acquisition, with our Affiliates or new owner(s)** | We may transfer your data if we are involved, whether in whole or in part, in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control. | The categories of data shared will vary based on the type of corporate transaction. It may include the entire organization data or only a specific subset such as Purchase Data. |
+| **When the profile sharing functionality is used** | You may choose to share other members’ profiles and they may share yours with people outside of our service, using the sharing functionality. | Profile Data Content |
 
-The main reason we use your information is to deliver and improve our services. Additionally, we use your info to help keep you and our community safe, and to provide you with advertising that may be of interest to you. Read on for a more detailed explanation of the various reasons for which we use your information, together with practical examples.
+**6\. How Match Group Companies Work Together**
+-----------------------------------------------
 
-#### A. To administer your account and provide our services to you
+Tinder is part of the [Match Group family of businesses](https://mtch.com/ourcompany).
 
-* Create and manage your account
-    
-* Provide you with customer support and respond to your requests
-    
-* Communicate with you about our services
-    
-* Personalize pricing, offer discounts and other promotions, and complete your transactions
-    
-* Administer sweepstakes and contests
-    
+We may share data about you with our Affiliates and they may share data about you with us, for the reasons laid out below:
 
-#### B. To help you connect with other users
-
-* Recommend you to other members and recommend other members to you
+* To make all Match Group platforms safer, for instance by making sure that when a bad actor is found on one Match Group platform (for instance ours), they can be banned from all.
     
-* Show members’ profiles to one another
+* To assist each other in data processing operations, as service providers. This assistance may include processing operations, such as data hosting and maintenance, customer care, marketing and targeted advertising, analytics, finance and accounting, legal support, payment processing, service improvement, data security and fighting against spam, abuse, fraud and other wrongdoings.
     
-* Enable members to search for and connect with members
+* To improve your chances at building significant connections with others, we may make you visible on other Match Group services or allow you to benefit from cross-platform functionalities.  We will of course comply with applicable law and, where relevant, notify you of any such opportunity and allow you to agree or to refuse.
+    
+* Where and as allowed under applicable law, to better understand how people use Match Group services overall, to personalize your experience across Match Group services and to enhance marketing and advertising campaigns.
+    
+* For other legitimate business purposes including corporate / consolidated audit, analysis and reporting.
     
 
-#### C. To provide new Tinder services to you
+[Learn more](https://www.help.tinder.com/hc/articles/25749901453197) about how Match Group companies work together.
 
-* Register you and display your profile on new Tinder features and apps
-    
-* Administer your account on these new features and apps
-    
+**7\. Cross-Border Data Transfers**
+-----------------------------------
 
-#### D. To provide offers and operate advertising and marketing campaigns
+Because we operate a global service, the sharing of your data laid out in Section 5 involves cross-border data transfers to the United States of America and other countries that may have different laws about data processing. When we transfer personal data outside of the EEA, the United Kingdom, Switzerland or other countries whose data protection laws have been deemed adequate by the European Commission or other competent governmental bodies, we typically rely on what are called [standard contract clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en). These standard contractual clauses are commitments between companies transferring personal data, binding them to protect the privacy and security of your data. [Contact us](https://www.help.tinder.com/hc/requests/new) for a copy.
 
-* Perform and measure the effectiveness of advertising campaigns on our services and marketing our services off our platform
-    
-* Communicate with you about products or services that we believe may interest you
-    
+### **8\. Your Rights**
 
-#### E. To improve our services and develop new ones
+We want you to be in control of your data, so we want to remind you of the following rights, options and tools available to you. Depending on where you live, you may not have the same rights or they may be named differently. If you have any questions on your rights and how to exercise them, please contact us [here.](https://gotinder.com/help)
 
-* Administer focus groups, market studies and surveys
-    
-* Review interactions with customer care teams to improve our quality of service
-    
-* Understand how members typically use the services to improve them (for instance, we may decide to change the look and feel or even substantially modify a given feature based on how members react to it)
-    
-* Develop new features and services (for example, we may decide to build a new interests-based feature further to requests received from members)
-    
+|     |     |
+| --- | --- |
+| **Your Rights** | **How to exercise it** |
+| **Access, Portability or To Know**<br><br>_Right to be informed of the personal data we process about you and/or ask for a copy of it_ | You can access and review some data directly by logging into your account. You can also retrieve a copy of your data by following the process explained [here](https://www.help.tinder.com/hc/articles/115005626726-How-do-I-request-a-copy-of-my-personal-data). |
+| **Rectification or Correction** <br><br>_Right to amend or update your personal data where it’s inaccurate or incomplete_ | You can update your data directly within the service by simply updating your profile. If you wish to rectify other data, please contact us [here](https://www.help.tinder.com/hc/requests/new) . |
+| **Deletion or Erasure**<br><br>_Right to delete personal data_ | You can delete some of the data you provided us directly within the service. You can also close your account as explained [here](https://www.help.tinder.com/hc/articles/6956972185229-Delete-Your-Tinder-Account) and we’ll delete your data as laid out in this Privacy Policy. In any event, you can always contact us [here](https://www.help.tinder.com/hc/requests/new). |
+| **Objection (Opt-out) or Restriction**<br><br>_Right to object to us processing personal data or to request that we temporarily or permanently stop processing personal data_ | You can directly opt-out from certain of your personal data processing in your account settings. Otherwise you can contact us [here](https://www.help.tinder.com/hc/requests/new) should you wish to object to or restrict a data processing we’ve listed throughout this Privacy Policy. |
+| **Consent Withdrawal  <br>**_Right to withdraw a consent you’ve given us to process your personal data for a specific purpose_ | You can directly withdraw consent you’ve given us either by updating your account setting or removing Device Permissions you’ve agreed to in your device settings (e.g., access to specific types of device data such as phone contacts, pictures, advertising identifiers and location services or consent to receive push notifications). When you withdraw consent, certain services may lose functionality. You can always contact us [here](https://www.help.tinder.com/hc/en-us/requests/new) for more information. |
 
-#### F. To prevent, detect and fight fraud and other illegal or unauthorized activities
+For your protection and the protection of all of our members, we may ask you for information to verify your identity or authority to act on behalf of a member before we can answer the above requests. We wouldn’t want someone else to get in control of your data! 
 
-* Find and address ongoing, suspected or alleged violations of our [Terms of Use](https://policies.tinder.com/terms), notably through the review of reports and interactions between members
-    
-* Better understand and design countermeasures against violations of our [Terms of Use](https://policies.tinder.com/terms)
-    
-* Retain data related to violations of our [Terms of Use](https://policies.tinder.com/terms) to address the violation and prevent against recurrences
-    
-* Enforce or exercise our rights, for example our rights set out in our [Terms of Use](https://policies.tinder.com/terms)
-    
-* Communicate to individuals who submit a report, including what we’ve done as a result of their submission
-    
+Keep in mind, we may reject requests, including if we are unable to authenticate you, if the request is unlawful or invalid, or if it may infringe on trade secrets or intellectual property or the privacy or other rights of someone else. If you wish to receive information relating to another member, such as a copy of any messages you received from them, the other member will have to make a request themselves.
 
-#### G. To ensure legal compliance
+If you are a resident of Virginia, Colorado, or Connecticut, USA, if we deny your privacy request, you may be able to appeal by [contacting us](https://www.help.tinder.com/hc/requests/new), and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal, you may contact the attorney general for your state.
 
-* Comply with legal requirements
-    
-* Assist law enforcement
-    
+In certain countries, including in the European Economic Area and the United Kingdom, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal data. You can find information about your data protection regulator in the European Economic Area [here](https://edpb.europa.eu/about-edpb/board/members_en), and in the United Kingdom [here](https://ico.org.uk/). The data protection authority you can lodge a complaint with may be that of your habitual residence, where you work or where an alleged infringement took place.
 
-For information on how we process personal information through profiling and automated decision-making, please see our [FAQ](https://www.help.tinder.com/hc/en-us/articles/5349453268877-Privacy-FAQs).
+### **9\. How Long We Retain Your Data**
 
-To process your information as described in this Privacy Policy, we rely on the following legal bases:
+We want the connections you make through our service to last forever, but we keep your personal data only as long as necessary for legitimate business reasons (as laid out in Section 4) and as permitted by applicable law. 
 
-* Provide our service to you: The reason we process your information for purposes A, B and C above is to perform the contract that you have with us. For instance, as you go about using our service to build meaningful connections, we use your information to maintain your account and your profile, make it viewable to other members and recommend other members to you and to otherwise provide our free and paid features to you and other members.
+If you decide to stop using our service, you can close your account and your profile will no longer be visible to other members. Note that we will close your account automatically if you are inactive for two years. 
+
+Following account closure, we delete your data as laid out below: 
+
+1. To protect the safety and security of our members, we implement a safety retention window of three months following account closure or one year following an account ban. During this period, we keep your data to investigate unlawful or harmful conducts. The retention of data during this safety retention window is based on our legitimate interest as well as that of potential third-party victims. 
     
-* Legitimate interests: We process your information for purposes D, E and F above, based on our legitimate interest. For instance, we analyze users’ behavior on our services to continuously improve our offerings, we suggest offers we think might interest you and promote our own services, we process information to help keep our members safe and we process data where necessary to enforce our rights, assist law enforcement and enable us to defend ourselves in the event of a legal action.
+2. We maintain limited data to comply with legal data retention obligations: in particular, we keep transaction data for 10 years to comply with tax and accounting legal requirements, credit card information for the duration the user may challenge the transaction, and “traffic data” / logs for one year to comply with legal data retention obligations. We also keep records of consents members give us for five years to comply and evidence our compliance with applicable law.
     
-* Comply with applicable laws and regulations: We process your information for purpose G above where it is necessary for us to comply with applicable laws and regulations and evidence our compliance with applicable laws and regulations. For example, we retain traffic data and data about transactions in line with our accounting, tax and other statutory data retention obligations and to be able to respond to valid access requests from law enforcement. We also keep data evidencing consents members give us and decisions they may have taken to opt-out of a given feature or processing.
+3. We maintain limited data on the basis of our legitimate interest: we keep customer care exchanges with you for 6 years from the date of the communication, customer care records and supporting data, as well as imprecise location of download/purchase, for five years in support of our safety efforts, to support our customer care decisions, enforce our rights and enable us to defend ourselves in the event of a claim, information on the existence of past accounts and subscriptions, which we delete three years after the closure of your last account to ensure proper and accurate financial forecasting and reporting, profile data for one year in anticipation of potential litigation, for the establishment, exercise or defense of legal claims, and data necessary to prevent members who were banned from opening a new account for as long as necessary to ensure the safety and vital interests of our members.
     
-* Consent: If you choose to provide us with information that may be considered “special” or “sensitive” in certain jurisdictions, such as your sexual orientation, you’re consenting to our processing of that information in accordance with this Privacy Policy. From time to time, we may ask for your consent to collect specific information such as your precise geolocation or use your information for certain specific reasons. In some cases, you may withdraw your consent by adapting your settings (for instance in relation to the collection of our precise geolocation) or by deleting your content (for instance where you entered information in your profile that may be considered “special” or “sensitive”). In any case, you may withdraw your consent at any time by contacting us at the address provided at the end of this Privacy Policy.
+4. Finally, we maintain data on the basis of our legitimate interest where there is an outstanding or potential issue, claim or dispute requiring us to keep data in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings.
     
 
-### 5\. How We Share Information
+Where and as legally permitted, we may maintain and use data that, by itself, cannot identify or be attributed specifically to you for the purposes described in this Privacy Policy, including to improve our service and create new features, technologies and services and keep Match Group services safe. ### **10\. Children's Privacy**
 
-Since our goal is to help you make meaningful connections, the main sharing of members’ information is, of course, with other members. We also share some types of  members’ information with service providers and partners who assist us in operating the services, with other Match Group companies for specified reasons as laid out below and, in some cases, legal authorities. Read on for more details about how your information is shared with others.
+Our service is restricted to individuals who are 18 years of age or older. We do not permit individuals under the age of 18 on our platform. If you suspect that a member is under the age of 18, please use the reporting mechanism available on the service. You can learn more about Tinder’s age verification practices [here](https://www.help.tinder.com/hc/articles/360040592691-Why-do-I-need-to-verify-my-age-).
 
-* #### With other members
-    
-    You share information with other members when you voluntarily disclose information on the service (including your public profile). Please be careful with your information and make sure that the content you share is stuff that you’re comfortable being visible.
-    
-    If you choose to limit the audience for all or part of your profile or for certain content or information about you, then it will be visible according to your settings.
-    
-    If someone submits a report involving you (such as a claim you violated our [Terms of Use](https://policies.tinder.com/terms)), we may communicate to the reporter actions, if any, we took as a result of their report.
-    
-* #### With our service providers and partners
-    
-    We use vendors to help us operate, distribute, market and improve our services, such as data hosting and maintenance, analytics, customer care, marketing, advertising, payment processing and security operations. We also share information with vendors who distribute and assist us in advertising our services. For instance, we may share limited information on you in hashed, non-human readable form to advertising vendors.
-    
+### **11\. Privacy Policy Changes**
 
-We follow a strict vetting process prior to engaging any vendor or working with any partner. Our vendors and partners must agree to strict confidentiality obligations.
+This policy may change over time. We’re always looking for new and innovative ways to help you build meaningful connections and strive to make sure explanations of our data practices remain up-to-date. We will notify you before material changes take effect so that you have time to review the changes.
 
-* #### With our affiliates
-    
-    We are part of the [Match Group family of businesses](https://mtch.com/). We share your information with affiliates for limited legitimate purposes as laid out below:
-    
-    * To make all Match Group platforms safer and enable us to address (e.g., ban) bad actors found on one platform also on the others
-        
-    * For them to assist us in data processing operations, as processors / service providers, upon our instructions and on our behalf. Their assistance may include technical processing operations, such as data hosting and maintenance, customer care, marketing and targeted advertising, analytics, finance and accounting assistance, improving our service, securing our data and systems and fighting against spam, abuse, fraud, infringement and other wrongdoings
-        
-    * We may also share information with other Match Group companies for other legitimate business purposes including corporate audit, analysis and consolidated reporting, where and as allowed under applicable law
-        
-* #### Sharing functionality
-    
-    You may choose to share other members’ profiles and they may share yours with people outside of our services, using the sharing functionality.
-    
-* #### For corporate transactions
-    
-    We may transfer your information if we are involved, whether in whole or in part, in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control.
-    
-* #### With law enforcement / when required by law
-    
-    We may disclose your information if reasonably necessary: (i) to comply with a legal process, such as a court order, subpoena or search warrant, government / law enforcement investigation or other legal requirements; (ii) to assist in the prevention or detection of crime (subject in each case to applicable law); or (iii) to protect the safety of any person.
-    
-* #### To enforce legal rights
-    
-    We may also share information: (i) if disclosure would mitigate our liability in an actual or threatened lawsuit; (ii) as necessary to protect our legal rights and legal rights of our members, business partners or other interested parties; (iii) to enforce our agreements with you; and (iv) to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing.
-    
-* #### With your consent or at your request
-    
-    We may ask for your consent to share your information with third parties. In any such case, we will make it clear why we want to share the information.
-    
-
-We may use and share non-personal information (meaning information that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, location in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other Match Group companies and third parties (notably advertisers) to develop and deliver targeted advertising on our services and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine this information with additional non-personal information or personal information in hashed, non-human readable form collected from other sources. More information on our use of cookies and similar technologies can be found in our [Cookie Policy](https://policies.tinder.com/cookie-policy)
-
-### 6\. Cross-Border Data Transfers
-
-Sharing of information laid out in Section 5 involves cross-border data transfers to the United States of America and other jurisdictions that may have different laws about data processing. When we transfer personal information outside of the EEA, the United Kingdom, Switzerland or other countries which data protection laws have been deemed adequate by the European Commission or other competent governmental body, we use [standard contract clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) (standard contractual clauses are commitments between companies transferring personal data, binding them to protect the privacy and security of your data) or other appropriate transfer mechanism. We are currently in the process of reviewing transfers to our vendors and associated legal basis further to the [recent Court of Justice for the European Union’s ruling on transfers of personal data to the USA](http://curia.europa.eu/juris/document/document.jsf;jsessionid%3DD9783B09CDC25934085215EB6CAC9FDB?text%3D%26docid%3D228677%26pageIndex%3D0%26doclang%3DEN%26mode%3Dreq%26dir%3D%26occ%3Dfirst%26part%3D1%26cid%3D14024666).
-
-### 7\. Your Rights and Choices
-
-We want you to be in control of your information, so we want to remind you of the following options and tools available to you:
-
-* **Access / Update tools in the service.** Tools and account settings can help you access, rectify or remove information that you provided to us and that’s associated with your account directly within the service. If you have any questions on those tools and settings, please [contact our customer care team](https://gotinder.com/help) for help[.](https://gotinder.com/help)
-    
-* **Device permissions.** Mobile platforms can have permission systems for specific types of device data and notifications, such as phone contacts, pictures, location services, push notifications and advertising identifiers. You can change your settings on your device to either consent or oppose the collection or processing of the corresponding information or the display of the corresponding notifications. Of course, if you do that, certain services may lose functionality.
-    
-* **Uninstall.** You can stop all information collection by an app by uninstalling it using the standard uninstall process for your device. Remember that uninstalling an app does NOT close your account. To close your account, please use the corresponding functionality on the service.
-    
-* **Account closure.** You can close your account by using the corresponding functionality directly on the service.
-    
-
-We also want you to be aware of your privacy rights. Depending on where you live, you may have the right to:
-
-* **Access/know.** You may have the right to request a copy of the information we keep about you, and in certain circumstances to receive this in a portable format. You can exercise your right to access directly within the service by [putting in a request.](https://www.help.tinder.com/hc/articles/115005626726-How-do-I-request-a-copy-of-my-personal-data-)
-    
-* **Delete/erase.** You may request that we delete the personal information we keep about you. You can exercise your right to delete by [submitting a request](https://gotinder.com/help)[.](https://gotinder.com/help)
-    
-* **Correct/rectify/update.** You can correct most information you provided to us by editing your profile directly in the service. If you believe the information we hold about you is inaccurate, you may [contact us](https://gotinder.com/help) to rectify it.
-    
-* **Object/restrict.** You may also have the right to object to or request that we restrict certain processing. To do so, please [contact us](https://gotinder.com/help).
-    
-
-For your protection and the protection of all of our members, we may ask you to provide proof of identity before we can answer the above requests. Keep in mind, we may reject requests, including if we are unable to authenticate you, if the request is unlawful or invalid, or if it may infringe on trade secrets or intellectual property or the privacy or other rights of someone else. If you wish to receive information relating to another member, such as a copy of any messages you received from them through our service, the other member will have to contact us to provide their written consent before the information is released. We may also ask them to provide proof of identity before we can answer the request. Also, we may not be able to accommodate certain requests to object to or restrict the processing of personal information, notably where such requests would not allow us to provide our service to you anymore. For instance, we cannot provide our service if we do not have your date of birth and thus cannot ensure that you are 18 years of age or older.
-
-If you are a resident of Virginia, Colorado, or Connecticut, USA, if we deny your privacy request, you may be able to appeal by [contacting us](https://gotinder.com/help), and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal you may contact the attorney general for your state.  Additionally, please note that we do not “sell” your personal data, or use it for “targeted advertising” or “profiling” in furtherance of decisions that produce legal or similarly significant effects, as those terms are defined by applicable law in your state, so no opt-out choice is necessary.
-
-In certain countries, including in the European Economic Area and the United Kingdom, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal information. You can find information about your data protection regulator in the European Economic Area [here](https://edpb.europa.eu/about-edpb/board/members_en), and in the United Kingdom [here](https://ico.org.uk/). The data protection authority you can lodge a complaint with may be that of your habitual residence, where you work or where an alleged infringement took place.
-
-### 8\. How Long We Retain Your Information
-
-We keep your personal information only as long as we need it for legitimate business purposes (as laid out in Section 4) and as permitted by applicable law. If you decide to stop using our services, you can close your account and your profile will stop being visible to other members. Note that we will close your account automatically if you are inactive for a period of two years. After your account is closed, we will delete your personal information, as laid out below:
-
-1. To protect the safety and security of our members, we implement a safety retention window of three months following account closure, or one year following an account ban. During this period, we keep your information in the event that it might be necessary to investigate unlawful or harmful conducts. The retention of information during this safety retention window is based on our legitimate interest as well as that of potential third-party victims.
-    
-2. Once the safety retention window elapses, we delete your data and only keep limited information for specified purposes, as laid out below:
-    
-    * a) We maintain limited data to comply with legal data retention obligations: in particular, we keep transaction data for 10 years to comply with tax and accounting legal requirements, credit card information for the duration the user may challenge the transaction and “traffic data” / logs for one year to comply with legal data retention obligations. We also keep records of consents members give us for five years to evidence our compliance with applicable law.
-        
-    * b) We maintain limited information on the basis of our legitimate interest: we keep customer care records and supporting data as well as imprecise location of download/purchase for five years to support our customer care decisions, enforce our rights and enable us to defend ourselves in the event of a claim, information on the existence of past accounts and subscriptions, which we delete three years after the closure of your last account to ensure proper and accurate financial forecasting and reporting, profile data for one year in anticipation of potential litigation, for the establishment, exercise or defence of legal claims, and data necessary to prevent members who were banned from opening a new account, for as long as necessary to ensure the safety and vital interests of our members.
-        
-    * c) Finally, we maintain information on the basis of our legitimate interest where there is an outstanding or potential issue, claim or dispute requiring us to keep information (in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings).
-        
-
-### 9\. No Children Allowed
-
-Our services are restricted to individuals who are 18 years of age or older. We do not permit individuals under the age of 18 on our platform. If you suspect that a member is under the age of 18, please use the reporting mechanism available on the service.
-
-### 10\. Job Candidates, Contractors and Vendor Representatives
-
-We process the personal information of our job candidates, contractors and vendor representatives, as part of our recruitment and talent management operations and our management of the services that contractors and vendors provide to us. If you are a job candidate, contractor or vendor representative of ours, certain relevant terms of this Privacy Policy apply to our processing of your personal information, including the sections of this Privacy Policy that discuss the [entity that is responsible for the processing of your personal information](https://policies.tinder.com/privacy#who-we-are), [transfers of personal information](https://policies.tinder.com/privacy#cross-border-data), [rights you may have under applicable law](https://policies.tinder.com/privacy#your-rights), [how to contact us](https://policies.tinder.com/privacy#how-to-contact) and [California-specific information](https://policies.tinder.com/ccpa-addendum).
-
-If you are a job applicant, the personal information we process about you may vary depending on the job you seek but typically includes what you provide to us as part of your job application as well as professional qualifications, background and reference information that recruiters or other third parties share with us. We use this information to support the recruitment process, which may lead to an employment contract. For contractors and vendor representatives, we may process identification information and work-related information, as necessary to manage our relationship with you and your employer, which is necessary for the performance of the services agreement, and to establish, exercise or defend potential legal claims. We may share personal information with service providers that assist us with recruitment and technical data processing operations as well as with Match Group companies (for instance if you have a business relationship with employees of an affiliate). We keep your personal information only as long as necessary for those purposes.
-
-### 11\. Privacy Policy Changes
-
-Because we’re always looking for new and innovative ways to help you build meaningful connections and strive to make sure explanations about our data practices remain up-to-date, this policy may change over time. We will notify you before any material changes take effect so that you have time to review the changes.
-
-### 12\. How to Contact Us
+### **12\. How to Contact Us**
 
 If you have questions about this Privacy Policy, you have different options below:
 
-#### If you live in the European Economic Area, the United Kingdom or Switzerland:
+#### **If you live in the European Economic Area, the United Kingdom or Switzerland:**
 
 Online: [here](https://gotinder.com/help)
 
 By post:
 
-> Data Protection Officer  
->   
-> MTCH Technology Services Limited  
->   
+Data Protection Officer
+
+MTCH Technology Services Limited
+
 > Tinder  
->   
-> 1 Hatch Street Upper  
->   
-> Dublin 2  
->   
-> Dublin  
->   
+> 1 Hatch Street Upper   
+> Dublin 2   
+> Dublin   
 > D02 PY28  
->   
 > Ireland
 
-For more information on how to contact the data protection officer, please click [here](https://www.help.tinder.com/hc/articles/5349453268877-How-do-I-contact-Tinder-s-Data-Protection-Officer-).
+For more information on how to contact the data protection officer, please click [here](https://www.help.tinder.com/hc/articles/5349453268877-How-do-I-contact-Tinder-s-Data-Protection-Officer-) 
 
-#### If you live in Japan:
-
-Online: [here](https://gotinder.com/help)
-
-By post:
-
-> Data Protection Officer
-> 
-> Tinder - MG Japan Services GK
-> 
-> c/o Match Group, LLC
-> 
-> 8750 North Central Expressway
-> 
-> Suite 1400
-> 
-> Dallas, TX 75231
-> 
-> United States
-
-#### If you live outside the European Economic Area, the United Kingdom, Switzerland and Japan:
+#### **If you live in Japan:**
 
 Online: [here](https://gotinder.com/help)
 
 By post:
 
-> Data Protection Officer
-> 
-> Tinder - Match Group, LLC
-> 
-> 8750 North Central Expressway
-> 
-> Suite 1400
-> 
-> Dallas, TX 75231
-> 
+Data Protection Officer
+
+> MG Japan Services GK  
+> c/o Tinder, LLC  
+> 8750 North Central Expressway  
+> Suite 1400  
+> Dallas, TX 75231  
 > United States
+
+#### **If you live outside the European Economic Area, the United Kingdom, Switzerland and Japan:**
+
+Online: [here](https://gotinder.com/help)
+
+By post:
+
+Data Protection Officer
+
+> Tinder, LLC  
+> 8750 North Central Expressway  
+> Suite 1400  
+> Dallas, TX 75231  
+> United States
+
+**Well, that's it! You’ve made it to the end of our Privacy Policy. We hope it was as engaging and clear as we tried to make it. Now, let’s get out there and start making some memories! We’re excited to be on this journey with you.**
