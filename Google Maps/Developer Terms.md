@@ -585,7 +585,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Digital and Population Information Agency (FI) - [https://www.avoindata.fi/data/en\_GB/dataset/postcodes/resource/3c277957-9b25-403d-b160-b61fdb47002f](https://www.avoindata.fi/data/en_GB/dataset/postcodes/resource/3c277957-9b25-403d-b160-b61fdb47002f)
             
-        * Statistics Finland - [https://stat.fi/en/statistical-data](https://stat.fi/en/statistical-data)
+        * Statistics Finland - [https://stat.fi/org/lainsaadanto/copyright\_en.html](https://stat.fi/org/lainsaadanto/copyright_en.html)
             
         * Open Data Tampere - [https://data.tampere.fi/data/en\_GB/dataset/tampereen-katuosoitteet](https://data.tampere.fi/data/en_GB/dataset/tampereen-katuosoitteet)
             
@@ -962,6 +962,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Enedis Energy Électricité de France: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
             
         * Data Paris 2024: [https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2018/11/open-licence.pdf)
+            
+        * Data Herault: [https://www.herault-data.fr/explore/dataset/inforoutes-evenements-lineaires-conditions-de-circulation-/information/?disjunctive.lib\_type\_evt&disjunctive.lib\_etat\_circul&disjunctive.epci&sort=date\_heure\_deb\_evt&calendarview=month&location=14,43.64403,3.75217&basemap=jawg.streets](https://www.herault-data.fr/explore/dataset/inforoutes-evenements-lineaires-conditions-de-circulation-/information/?disjunctive.lib_type_evt&disjunctive.lib_etat_circul&disjunctive.epci&sort=date_heure_deb_evt&calendarview=month&location=14,43.64403,3.75217&basemap=jawg.streets)
             
     19. **Gambia**
         * Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
@@ -1399,9 +1401,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和6年 3 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和6年 4 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和6年 3 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和6年 4 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         * ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
@@ -2412,6 +2414,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         224. Open Data DC: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
         225. San Jose CA Open Data Portal: [https://data.sanjoseca.gov/dataset/road-closures](https://data.sanjoseca.gov/dataset/road-closures)
+            
+        226. Honolulu Authority for Rapid Transportation (HART): [https://data.honolulu.gov/terms-of-use](https://data.honolulu.gov/terms-of-use)
             
     68. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
