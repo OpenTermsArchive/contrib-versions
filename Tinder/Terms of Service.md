@@ -1,22 +1,22 @@
 Tinder Terms of Use
 ===================
 
-_Effective on April 1, 2024;_ download these Terms of Use as a PDF
+_Effective on June 1, 2024;_ download these Terms of Use as a PDF
 
 **Here is a short** [**summary**](https://policies.tinder.com/summary-of-terms) **of our Terms of Use.** 
 
 California subscribers: You may cancel your subscription, without penalty or obligation, at any time prior to midnight of the third business day following the date you subscribed. If you subscribed using an External Service (e.g., Apple ID, Google Play), you must cancel through your External Service, as set forth in more detail in Section 8a. If you subscribed through your Apple ID, refunds are handled by Apple, not Tinder. You can request a refund from Apple through your Apple ID account on your phone or at [https://getsupport.apple.com](https://getsupport.apple.com/). All other users may request a refund by contacting Tinder Customer Service via our [Help Center](https://www.help.tinder.com/hc/requests/new), or by mailing or delivering a signed and dated notice that states that you, the buyer, are canceling this agreement, or words of similar effect. Please also include your name and the email address, phone number, or other unique identifier you used to sign up for your account. 
 
-This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dallas, Texas 75225, USA. The Company's business is conducted, in part, at 8750 N. Central Expressway, Suite 1400, Dallas, TX 75205. You may have these Terms of Use (“Terms”) emailed to you by sending a letter to Terms Inquiries, P.O. Box 25472, Dallas, Texas 75225, USA. In accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at Consumer Information Division, 1625 North Market Blvd., Suite N112 Sacramento, CA 95834, or by telephone at (800) 952-5210.
+This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dallas, Texas 75225, USA. The Company's business is conducted, in part, at 8750 N. Central Expressway, Suite 1400, Dallas, TX 75231. You may have these Terms of Use (“Terms”) emailed to you by sending a letter to Terms Inquiries, P.O. Box 25472, Dallas, Texas 75225, USA. In accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at Consumer Information Division, 1625 North Market Blvd., Suite N112 Sacramento, CA 95834, or by telephone at (800) 952-5210.
 
 **We have included brief summaries at the beginning of each section to make it easier for you to read and understand this agreement. The summaries do not replace the text of each section, and you should still read each section in its entirety.**
 
 1\. INTRODUCTION
 ----------------
 
-**By accessing or using Tinder's Services, you agree to be bound by this Terms of Use Agreement (the “Terms” or “Agreement”), including our** [**Privacy Policy**](https://policies.tinder.com/privacy)**,** [**Cookie Policy**](https://policies.tinder.com/cookie-policy)**,** [**Community Guidelines**](https://policies.tinder.com/community-guidelines)**, and** [**Safety Tips**](https://policies.tinder.com/safety)**, so it is important that you read this Agreement and these policies and procedures carefully before you create an account.** 
+**By accessing or using Tinder's Services, you agree to be bound by this Terms of Use Agreement (the “Terms” or “Agreement”), including our** [**Privacy Policy**](https://policies.tinder.com/privacy)**,** [**Cookie Policy**](https://policies.tinder.com/cookie-policy)**,** [**Community Guidelines**](https://policies.tinder.com/community-guidelines)**, and** [**Safety Tips**](https://policies.tinder.com/community-resources/safety-tips)**, so it is important that you read this Agreement and these policies and procedures carefully before you create an account.** 
 
-**PLEASE CAREFULLY REVIEW THE DISPUTE RESOLUTION PROVISIONS IN SECTION 15 BELOW. THESE GOVERN THE MANNER IN WHICH DISPUTES WILL BE ADDRESSED BETWEEN YOU AND TINDER. THESE PROVISIONS INCLUDE A MANDATORY PRE-ARBITRATION INFORMAL DISPUTE RESOLUTION PROCESS** **(EXCEPT FOR INDIVIDUAL CLAIMS OF SEXUAL ASSAULT OR SEXUAL HARASSMENT OCCURRING IN CONNECTION WITH YOUR USE OF THE SERVICES)****, AN ARBITRATION AGREEMENT, SMALL CLAIMS COURT ELECTION, CLASS ACTION WAIVER, ADDITIONAL PROCEDURES FOR MASS ARBITRATION FILINGS, AND JURY TRIAL WAIVER THAT AFFECT YOUR RIGHTS. IN ARBITRATION, THERE IS TYPICALLY LESS DISCOVERY AND APPELLATE REVIEW THAN IN COURT.**
+**PLEASE CAREFULLY REVIEW THE DISPUTE RESOLUTION PROVISIONS IN SECTION 15 BELOW. THESE GOVERN THE MANNER IN WHICH DISPUTES WILL BE ADDRESSED BETWEEN YOU AND TINDER. THESE PROVISIONS INCLUDE A MANDATORY PRE-ARBITRATION INFORMAL DISPUTE RESOLUTION PROCESS (EXCEPT FOR INDIVIDUAL CLAIMS OF SEXUAL ASSAULT OR SEXUAL HARASSMENT OCCURRING IN CONNECTION WITH YOUR USE OF THE SERVICES), AN ARBITRATION AGREEMENT, SMALL CLAIMS COURT ELECTION, CLASS ACTION WAIVER, ADDITIONAL PROCEDURES FOR MASS ARBITRATION FILINGS, AND JURY TRIAL WAIVER THAT AFFECT YOUR RIGHTS. IN ARBITRATION, THERE IS TYPICALLY LESS DISCOVERY AND APPELLATE REVIEW THAN IN COURT.**
 
 **We may update these Terms from time to time, so check this page regularly for updates.**
 
@@ -25,10 +25,9 @@ Welcome to Tinder.
 If you live in the European Economic Area, the United Kingdom, or Switzerland, these Terms of Use are between you and:
 
 MTCH Technology Services Limited (“MTCH Technology”)  
-1 Hatch Street Upper  
+10 Earlsfort Terrace  
 Dublin 2,  
-Dublin  
-D02 PY28  
+D01 T380  
 Ireland
 
 If you live in Japan, these Terms of Use apply between you and: 
@@ -40,17 +39,17 @@ Japan
 
 If you live anywhere else, these Terms of Use apply between you and: 
 
-Match Group, LLC (“Match Group”)  
+Tinder, LLC (“Tinder”)  
 8750 North Central Expressway, Suite 1400  
 Dallas, TX 75231, USA  
   
-The terms “us”, “we”, “Company” and/or “Tinder” refer to MTCH Technology, MG Japan, or Match Group based on your country of residence. Together you and Tinder may be referred to as the “Parties” or separately as “Party”. 
+The terms “us”, “we”, “Company” and/or “Tinder” refer to MTCH Technology, MG Japan, or Tinder based on your country of residence. Together you and Tinder may be referred to as the “Parties” or separately as “Party”. 
 
-As used in this Agreement, the terms "Tinder," "us," "we," the "Company", and "our" shall refer to Match Group, LLC and/or MTCH Technology Services Limited, as appropriate. Together you and Tinder may be referred to as the “Parties” or separately as “Party.”
+As used in this Agreement, the terms "Tinder," "us," "we," the "Company", and "our" shall refer to Tinder, LLC and/or MTCH Technology Services Limited, as appropriate. Together you and Tinder may be referred to as the “Parties” or separately as “Party.”
 
 By accessing or using our Services on Tinder.com(the "Website"), the Tinder mobile application (the "App"), or any other platforms or services Tinder may offer (collectively, the "Service" or our "Services"), you agree to, and are bound by this Agreement. This Agreement applies to anyone who accesses or uses our Services, regardless of registration or subscription status.
 
-Your access and use of our Services is also subject to the [Privacy Policy](https://policies.tinder.com/privacy), [Cookie](https://policies.tinder.com/cookie-policy) [Policy](https://webviews.pof.com/webviews/cookiepolicy), [Community Guidelines](https://policies.tinder.com/community-guidelines), and [Safety Tips](https://policies.tinder.com/safety), and any terms disclosed and agreed to by you when you purchase additional features, products, or services from Tinder ("Additional Terms Upon Purchase"), which are incorporated into this Agreement by reference. If you do not wish to be bound by this Agreement, do not access or use our Services.
+Your access and use of our Services is also subject to the [Privacy Policy](https://policies.tinder.com/privacy), [Cookie](https://policies.tinder.com/cookie-policy) [Policy](https://webviews.pof.com/webviews/cookiepolicy), [Community Guidelines](https://policies.tinder.com/community-guidelines), and [Safety Tips](https://policies.tinder.com/community-resources/safety-tips), and any terms disclosed and agreed to by you when you purchase additional features, products, or services from Tinder ("Additional Terms Upon Purchase"), which are incorporated into this Agreement by reference. If you do not wish to be bound by this Agreement, do not access or use our Services.
 
 Subject to applicable law, we reserve the right to modify, amend, or change the Terms at any time. Notice of material changes will be posted on this page with an updated effective date. In certain circumstances, we may notify you of a change to the Terms via email or other means; however, you are responsible for regularly checking this page for any changes. Your continued access or use of our Services constitutes your ongoing consent to any changes, and as a result, you will be legally bound by the updated Terms. If you do not accept a change to the Terms, you must stop accessing or using our Services immediately. Notwithstanding the foregoing, any material changes to the Limitation of Liability in Section 14 and the Dispute Resolution provisions in Section 15 below will require your affirmative acceptance.  Further, we reserve the right to change the availability of features in our subscription plans.
 
@@ -90,7 +89,7 @@ If at any time you cease to meet these requirements, all authorization to access
     
 3. Use the latest version of the Website and/or App;
     
-4. Review the [Safety Tips](https://policies.tinder.com/safety);
+4. Review the [Safety Tips](https://policies.tinder.com/community-resources/safety-tips);
     
 5. Review and comply with the [Community Guidelines](https://policies.tinder.com/community-guidelines), as updated from time to time; and
     
@@ -354,7 +353,7 @@ For subscribers residing in Arizona, California, Colorado, Connecticut, Illinois
 
 Your Right to Cancel - You may cancel your subscription, without penalty or obligation, at any time prior to midnight of the third business day following the date you subscribed. In the event that you die before the end of your subscription period, your estate shall be entitled to a refund of that portion of any payment you had made for your subscription which is allocable to the period after your death. In the event that you become disabled (such that you are unable to use our Services) before the end of your subscription period, you shall be entitled to a refund of that portion of any payment you had made for your subscription which is allocable to the period after your disability by providing the Company notice in the same manner as you request a refund as described below.
 
-If any of the above apply to you and you subscribed using your Apple ID, your refund requests are handled by Apple, not Tinder. To request a refund, please contact your External Service directly; for example using your Apple device, go to Settings > iTunes & App Stores > \[click on your Apple ID\] > View Apple ID > Purchase History. Find the transaction and select "Report a Problem." You can also request a refund at [Apple Support](https://getsupport.apple.com/). For any other purchase, please contact Tinder [Customer Service](https://www.help.tinder.com/hc/en-us/requests/new) with your order number (see your confirmation email) by mailing or delivering a signed and dated notice which states that you, the buyer, are canceling this Agreement, or words of similar effect. Please also include the email address or telephone number associated with your account along with your order number. This notice shall be sent to:
+If any of the above apply to you and you subscribed using your Apple ID, your refund requests are handled by Apple, not Tinder. To request a refund, please contact your External Service directly; for example using your Apple device, go to Settings > iTunes & App Stores > \[click on your Apple ID\] > View Apple ID > Purchase History. Find the transaction and select "Report a Problem." You can also request a refund at [Apple Support](https://getsupport.apple.com/). For any other purchase, please contact Tinder [Customer Service](https://www.help.tinder.com/hc/requests/new) with your order number (see your confirmation email) by mailing or delivering a signed and dated notice which states that you, the buyer, are canceling this Agreement, or words of similar effect. Please also include the email address or telephone number associated with your account along with your order number. This notice shall be sent to:
 
 Tinder,  
 Attn: Cancellations,  
@@ -413,7 +412,7 @@ Tinder has adopted the following policy towards copyright infringement in accord
 6. A statement that, under penalty of perjury, the information in the notification is accurate and you are authorized to act on behalf of the owner of the exclusive right that is allegedly infringed.
     
 
-Any DMCA Takedown Notices should be sent to [copyright@match.com](mailto:%20copyright@match.com), by phone to 214-576-3272 or via mail to the following address: Copyright Compliance Department c/o Match Group Legal, 8750 N. Central Expressway, Dallas, Texas 75231.
+Any DMCA Takedown Notices should be sent to [copyright@match.com](mailto:%20copyright@match.com), by phone to 214-576-3272 or via mail to the following address: Copyright Compliance Department c/o Tinder Legal, 8750 N. Central Expressway, Dallas, Texas 75231.
 
 Tinder will terminate the accounts of repeat infringers.
 
@@ -534,7 +533,7 @@ You agree, to the extent permitted under applicable law, to indemnify, defend, a
 
 **By using our Services, you accept the Terms of this Agreement.**
 
-By using our Services, whether through a mobile device, mobile application, or computer, you agree to be bound by (i) these Terms, which we may amend from time to time, (ii) our [Privacy Policy](https://policies.tinder.com/privacy), [Cookie Policy](https://policies.tinder.com/cookie-policy), [Community](https://policies.tinder.com/community-guidelines) [Guidelines](https://policies.tinder.com/community-guidelines), and [Safety Tips](https://policies.tinder.com/safety) (iii) any Additional Terms Upon Purchase. If you do not accept and agree to be bound by all of the terms of this Agreement, you are not entitled to use our Services.
+By using our Services, whether through a mobile device, mobile application, or computer, you agree to be bound by (i) these Terms, which we may amend from time to time, (ii) our [Privacy Policy](https://policies.tinder.com/privacy), [Cookie Policy](https://policies.tinder.com/cookie-policy), [Community](https://policies.tinder.com/community-guidelines) [Guidelines](https://policies.tinder.com/community-guidelines), and [Safety Tips](https://policies.tinder.com/community-resources/safety-tips) (iii) any Additional Terms Upon Purchase. If you do not accept and agree to be bound by all of the terms of this Agreement, you are not entitled to use our Services.
 
 All pronouns and any variations thereof shall be deemed to refer to the masculine, feminine, neuter, singular or plural as the identity of the entities or persons referred to any require. 
 
@@ -543,7 +542,7 @@ All pronouns and any variations thereof shall be deemed to refer to the masculin
 
 **This Agreement supersedes any previous agreements or representations.**
 
-These Terms, with the [Privacy Policy](https://policies.tinder.com/privacy), [Cookie Policy](https://policies.tinder.com/cookie-policy), [Community Guidelines](https://policies.tinder.com/community-guidelines), and [Safety Tips](https://policies.tinder.com/safety), and any Additional Terms Upon Purchase, contain the entire agreement between you and Tinder regarding the use of our Services. The Terms supersede all previous agreements, representations, and arrangements between us, written or oral. If any provision of these Terms is held invalid, illegal, or otherwise unenforceable, the remainder of the Terms shall continue in full force and effect. The failure of the Company to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. You agree that your Tinder account is non-transferable and all of your rights to your account and its content terminate upon your death, unless otherwise provided by law. Any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by us without restriction. No agency, partnership, joint venture, fiduciary or other special relationship or employment is created as a result of these Terms, and you may not make any representations on behalf of or bind Tinder in any manner.
+These Terms, with the [Privacy Policy](https://policies.tinder.com/privacy), [Cookie Policy](https://policies.tinder.com/cookie-policy), [Community Guidelines](https://policies.tinder.com/community-guidelines), and [Safety Tips](https://policies.tinder.com/community-resources/safety-tips), and any Additional Terms Upon Purchase, contain the entire agreement between you and Tinder regarding the use of our Services. The Terms supersede all previous agreements, representations, and arrangements between us, written or oral. If any provision of these Terms is held invalid, illegal, or otherwise unenforceable, the remainder of the Terms shall continue in full force and effect. The failure of the Company to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. You agree that your Tinder account is non-transferable and all of your rights to your account and its content terminate upon your death, unless otherwise provided by law. Any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by us without restriction. No agency, partnership, joint venture, fiduciary or other special relationship or employment is created as a result of these Terms, and you may not make any representations on behalf of or bind Tinder in any manner.
 
 21\. SPECIAL TERMS FOR RESIDENTS OF CERTAIN LOCATIONS
 -----------------------------------------------------
@@ -554,7 +553,7 @@ For subscribers residing in New York:
 
 * The Services do not guarantee any number of "referrals" - rather, the functionality of the Services is such that the subscriber can view as many profiles as he/she would like;
     
-* Upon notice in writing and delivered to Match Group Legal, P.O. Box 25472, Dallas, Texas 75225, USA, subscribers may place their subscription on hold for up to one year;
+* Upon notice in writing and delivered to Tinder Legal, P.O. Box 25472, Dallas, Texas 75225, USA, subscribers may place their subscription on hold for up to one year;
     
 * How your information is used and how you may access your information is set forth in Section 5 and our [Privacy Policy](https://policies.tinder.com/privacy);
     
@@ -568,7 +567,7 @@ For subscribers residing in North Carolina:
 
 For subscribers residing in Illinois, New York, North Carolina, and Ohio:
 
-* Our Services are widely available in the United States - if you believe that you have moved outside a location where we provide the Services, please contact us in writing delivered to Match Group Legal, P.O. Box 25472, Dallas, Texas 75225, USA, and we will work with you to provide alternative services or a refund.
+* Our Services are widely available in the United States - if you believe that you have moved outside a location where we provide the Services, please contact us in writing delivered to Tinder Legal, P.O. Box 25472, Dallas, Texas 75225, USA, and we will work with you to provide alternative services or a refund.
     
 
 For subscribers residing in Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, Rhode Island, and Wisconsin:
@@ -591,8 +590,8 @@ To:
 
 MTCH Technology Services Limited,  
 Attn: Tinder Cancellations,  
-1 Hatch Street Upper,  
-Dublin 2, Ireland D02PY28,  
+10 Earlsfort Terrace,  
+Dublin 2, D01T389, Ireland  
 Email: legaldept@gotinder.com.
 
 I hereby declare that I wish to exercise my right of withdrawal in connection with my purchase agreement for the provision of the following services.
