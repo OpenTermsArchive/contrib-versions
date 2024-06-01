@@ -6,7 +6,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -20,7 +20,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -67,7 +67,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -81,7 +81,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -128,7 +128,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -142,7 +142,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -189,7 +189,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -203,7 +203,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -250,7 +250,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -264,7 +264,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -311,7 +311,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -325,7 +325,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -372,7 +372,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -386,7 +386,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -433,7 +433,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -447,7 +447,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -494,7 +494,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -508,7 +508,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -555,7 +555,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -569,7 +569,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -616,7 +616,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -630,7 +630,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -677,7 +677,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -691,7 +691,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -738,7 +738,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -752,7 +752,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -799,7 +799,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -813,7 +813,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -860,7 +860,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -874,7 +874,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -921,7 +921,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -935,7 +935,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -982,7 +982,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -996,7 +996,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
@@ -1043,7 +1043,7 @@ X's purpose is to serve the public conversation. Violence, harassment and other 
 
 ### Safety
 
-Violent Speech: You may not threaten, incite, glorify, or express desire for violence or harm. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
+Violent Content: You may share graphic media if it is properly labeled, not prominently displayed and is not excessively gory or depicting sexual violence, but explicitly threatening, inciting, glorifying, or expressing desire for violence is not allowed. [Learn more](https://help.twitter.com/en/rules-and-policies/violent-speech.html).
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
@@ -1057,7 +1057,7 @@ Perpetrators of Violent Attacks: We will remove any accounts maintained by indiv
 
 Suicide: You may not promote or encourage suicide or self-harm. [Learn more](https://help.twitter.com/en/rules-and-policies/glorifying-self-harm.html).
 
-Sensitive media: You may not post media that is excessively gory or share violent or adult content within live video or in profile or header images. Media depicting sexual violence and/or assault is also not permitted. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
+Adult Content: You may share consensually produced and distributed adult nudity or sexual behavior, provided it's properly labeled and not prominently displayed. [Learn more](https://help.twitter.com/en/rules-and-policies/media-policy.html). 
 
 Illegal or Certain Regulated Goods or Services: You may not use our service for any unlawful purpose or in furtherance of illegal activities. This includes selling, buying, or facilitating transactions in illegal goods or services, as well as certain types of regulated goods or services. [Learn more](https://help.twitter.com/en/rules-and-policies/regulated-goods-services.html).  
   
