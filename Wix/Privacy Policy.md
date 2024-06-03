@@ -465,15 +465,15 @@ Translated (non-English) versions of these terms are provided for convenience on
 17\. Contacting us
 ------------------
 
-If you have any questions about this Privacy Policy or wish to exercise any of your rights as described in Sections 9 or 10 please refer to those sections or contact the Data Protection Officer team [here](https://www.wix.com/support-chatbot?nodeId=kKKuIuXsiPa1kiePMmcA&type=privacyShieldPolicy&referral=privacyPolicy). We will attempt to resolve any complaints regarding the use of your Personal Information in accordance with this Privacy Policy.
+If you have any questions about this Privacy Policy or wish to exercise any of your rights as described in Sections 9 or 10 please refer to those sections or contact the Data Protection Officer team via [dpo@wix.com](mailto:dpo@wix.com) email. We will attempt to resolve any complaints regarding the use of your Personal Information in accordance with this Privacy Policy.
 
 ​
 
 You may also contact us by mail at:
 
-* 40 Namal Tel Aviv St., Tel Aviv, Israel; or 
+* Wix.com, Ltd. : Yunitsman 5 St, Tel Aviv, Israel 
     
-* 500 Terry A. Francois Boulevard, 6th Floor, San Francisco, CA, 94158.
+* Wix.com, Inc. : 100 Gansevoort Street, New York, NY 10014.
     
 
 ​
