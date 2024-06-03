@@ -39,17 +39,17 @@ Japan
 
 If you live anywhere else, these Terms of Use apply between you and: 
 
-Tinder, LLC (“Tinder”)  
+Tinder LLC (“Tinder”)  
 8750 North Central Expressway, Suite 1400  
 Dallas, TX 75231, USA  
   
 The terms “us”, “we”, “Company” and/or “Tinder” refer to MTCH Technology, MG Japan, or Tinder based on your country of residence. Together you and Tinder may be referred to as the “Parties” or separately as “Party”. 
 
-As used in this Agreement, the terms "Tinder," "us," "we," the "Company", and "our" shall refer to Tinder, LLC and/or MTCH Technology Services Limited, as appropriate. Together you and Tinder may be referred to as the “Parties” or separately as “Party.”
+As used in this Agreement, the terms "Tinder," "us," "we," the "Company", and "our" shall refer to Tinder LLC and/or MTCH Technology Services Limited, as appropriate. Together you and Tinder may be referred to as the “Parties” or separately as “Party.”
 
 By accessing or using our Services on Tinder.com(the "Website"), the Tinder mobile application (the "App"), or any other platforms or services Tinder may offer (collectively, the "Service" or our "Services"), you agree to, and are bound by this Agreement. This Agreement applies to anyone who accesses or uses our Services, regardless of registration or subscription status.
 
-Your access and use of our Services is also subject to the [Privacy Policy](https://policies.tinder.com/privacy), [Cookie](https://policies.tinder.com/cookie-policy) [Policy](https://webviews.pof.com/webviews/cookiepolicy), [Community Guidelines](https://policies.tinder.com/community-guidelines), and [Safety Tips](https://policies.tinder.com/community-resources/safety-tips), and any terms disclosed and agreed to by you when you purchase additional features, products, or services from Tinder ("Additional Terms Upon Purchase"), which are incorporated into this Agreement by reference. If you do not wish to be bound by this Agreement, do not access or use our Services.
+Your access and use of our Services is also subject to the [Privacy Policy](https://policies.tinder.com/privacy), [Cookie Policy](https://policies.tinder.com/cookie-policy), [Community Guidelines](https://policies.tinder.com/community-guidelines), and [Safety Tips](https://policies.tinder.com/community-resources/safety-tips), and any terms disclosed and agreed to by you when you purchase additional features, products, or services from Tinder ("Additional Terms Upon Purchase"), which are incorporated into this Agreement by reference. If you do not wish to be bound by this Agreement, do not access or use our Services.
 
 Subject to applicable law, we reserve the right to modify, amend, or change the Terms at any time. Notice of material changes will be posted on this page with an updated effective date. In certain circumstances, we may notify you of a change to the Terms via email or other means; however, you are responsible for regularly checking this page for any changes. Your continued access or use of our Services constitutes your ongoing consent to any changes, and as a result, you will be legally bound by the updated Terms. If you do not accept a change to the Terms, you must stop accessing or using our Services immediately. Notwithstanding the foregoing, any material changes to the Limitation of Liability in Section 14 and the Dispute Resolution provisions in Section 15 below will require your affirmative acceptance.  Further, we reserve the right to change the availability of features in our subscription plans.
 
