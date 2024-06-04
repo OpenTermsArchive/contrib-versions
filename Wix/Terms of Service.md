@@ -1,7 +1,7 @@
 Wix.com Terms of Use
 ====================
 
-Last Revised: January 8, 2024
+Last Revised: June 3, 2024
 
 Welcome to Wix.com’s Terms of Use! We are truly excited to have you aboard. Thank you for choosing to use our services.
 
@@ -415,7 +415,7 @@ Invoices for our paid services will be available in your user account unless you
 
 ### 6.3. Subscription Auto-Renewals
 
-1. In order to ensure that you do not experience any interruption or loss of services, certain Paid Services include an automatic renewal option by default, according to which, unless you [turn off](https://support.wix.com/en/article/turning-off-the-auto-renewal-for-a-wix-premium-plan/) the auto-renewal option is turned off by you or your Reseller, such Paid Services will automatically renew upon the end of the applicable subscription period, for a renewal period equal in time to the original subscription period (excluding extended periods) and, unless otherwise notified to you, (by Wix or your Reseller), at the same price (subject to applicable Taxes changes and excluding any discount or other promotional offer provided for the first period) (“Renewing Paid Services”). For example, if the original subscription period for a Service is one month, each of its renewal periods (where applicable) will be for one month. 
+1. In order to ensure that you do not experience any interruption or loss of services, certain Paid Services include an automatic renewal option by default, according to which, unless you or your Reseller [turn off](https://support.wix.com/en/article/turning-off-the-auto-renewal-for-a-wix-premium-plan/) the auto-renewal option, such Paid Services will automatically renew upon the end of the applicable subscription period, for a renewal period equal in time to the original subscription period (excluding extended periods) and, unless otherwise notified to you, (by Wix or your Reseller), at the same price (subject to applicable Taxes changes and excluding any discount or other promotional offer provided for the first period) (“Renewing Paid Services”). For example, if the original subscription period for a Service is one month, each of its renewal periods (where applicable) will be for one month.
     
 2. Accordingly, where applicable and as for Fees paid directly to Wix, Wix will attempt to automatically charge you the applicable Fees using the Stored Card, within up to two (2) weeks before such renewal period commences. In the event of failure to collect the Fees owed by you, we may in our sole discretion (but shall not be obligated to) retry to collect at a later time, and/or suspend or cancel your User Account, without further notice. If your Renewing Paid Service is subject to a yearly or multiple-year subscription period, Wix will endeavor to provide you a notice prior to the renewal of such Paid Service at least thirty (30) days in advance of the renewal date.
     
