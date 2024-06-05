@@ -10,7 +10,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -71,7 +71,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -132,7 +132,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -193,7 +193,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -254,7 +254,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -315,7 +315,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -376,7 +376,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -437,7 +437,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -498,7 +498,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -559,7 +559,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -620,7 +620,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -681,7 +681,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -742,7 +742,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -803,7 +803,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -864,7 +864,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -925,7 +925,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -986,7 +986,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
@@ -1047,7 +1047,7 @@ Violent Content: You may share graphic media if it is properly labeled, not pro
 
 Violent & Hateful Entities: You can’t affiliate with or promote the activities of violent and hateful entities. [Learn more](https://help.x.com/rules-and-policies/violent-entities.html).
 
-Child Sexual Exploitation: We have zero tolerance for child sexual exploitation on X. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
+Child Safety: We have zero tolerance for any forms of child sexual exploitation and remove certain media depicting physical child abuse to prevent the normalization of violence against children. [Learn more](https://help.twitter.com/en/rules-and-policies/sexual-exploitation-policy.html).  
 
 Abuse/Harassment: You may not share abusive content, engage in the targeted harassment of someone, or incite other people to do so. [Learn more](https://help.twitter.com/en/rules-and-policies/abusive-behavior.html).
 
