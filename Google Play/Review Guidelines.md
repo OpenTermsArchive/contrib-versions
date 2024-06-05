@@ -91,6 +91,7 @@ Consumer
 * [### Google Cardboard](https://support.google.com/cardboard?hl=en-GB)
 * [### Google News](https://support.google.com/googlenews?hl=en-GB)
 * [### Google Voice](https://support.google.com/voice?hl=en-GB)
+* [### GSOC Document Library](https://support.google.com/gsrs-gsoc?hl=en-GB)
 * [### YouTube For Families Help](https://support.google.com/youtubekids?hl=en-GB)
 * [### Pixel phone](https://support.google.com/pixelphone?hl=en-GB)
 * [### Google Translate](https://support.google.com/translate?hl=en-GB)
