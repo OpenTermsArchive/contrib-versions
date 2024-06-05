@@ -1,4 +1,7 @@
-_Last Updated: 12 March 2024_
+_Last Updated: 5 June 2024_
+
+For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/legal/privacy/us-notice)  
+ 
 
 **1\. Introduction**
 --------------------
@@ -61,11 +64,12 @@ The minimum information required for entering into a contract governing your use
 
 We also receive information about you from third parties such as your payment providers, our service providers assisting with AML, fraud, and security compliance, and through publicly available sources. For example:
 
-* The banks you use to transfer money to us will provide us with your basic personal data, such as your name and address, as well as your financial information such as your bank account details;
-* Your business partners may provide us with your name and address, as well as financial information;
+* The banks you use to transfer money to us will provide us with your basic personal data, such as your name and address, as well as your financial information such as your bank account details.
+* Your business partners may provide us with your name and address, as well as financial information.
 * Advertising networks, analytics providers and search information providers may provide us with anonymized or de-identified information about you, such as confirming how you found our website. 
 * Our service providers may provide us with information relating to fraud, security, sanctions and AML and other risks, for example, confirmation of identity attributes, and information about any attributes linked to such matters. 
 * Credit reference agencies may provide us with your personal data during the credit referencing process.
+* We may read and store data that is written on a blockchain, other publicly available ledgers, or is otherwise in the public domain.
 
 **6\. Our legal justification for processing personal data**
 ------------------------------------------------------------
@@ -77,6 +81,8 @@ As part of processing your personal data for the purposes set out above, Kraken 
 
 If Kraken discloses your personal data to service providers and business partners, in order to perform the services requested by clients or to comply with our legal and regulatory obligations, such providers and partners may store your personal data within their own systems. We require them to protect the confidentiality of this personal data, and comply with all relevant privacy and data protection laws.
 
+Kraken may also disclose personal data when it is compelled by law, for example to a government agency as a result of a valid court order.
+
 **8\. Where we store your personal data**
 -----------------------------------------
 
@@ -85,7 +91,7 @@ Our operations are supported by a network of computers, servers, other infrastru
 **9\. For UK & EEA clients: Transfers of personal  data outside of the European Economic Area (EEA) and the United Kingdom (UK)**
 ---------------------------------------------------------------------------------------------------------------------------------
 
-We may transfer your personal data outside the EEA and UK to other Kraken group companies, service providers and business partners. Transfers outside of the EEA or the UK (as appropriate) shall be in accordance with lawful transfer mechanisms. If personal data is transferred to a country which has been found by the European Commission to have an essentially equivalent standard of data protection to the EEA, then Kraken may rely on an ‘adequacy decision’ to transfer that personal data. See [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en#:~:text=The%20European%20Commission%20has%20so,Uruguay%20as%20providing%20adequate%20protection.) for a list of countries with adequacy decisions. If personal data is transferred from the EEA or UK to the US, we may rely on standard contractual clauses. 
+We may transfer your personal data outside the EEA and UK to other Kraken group companies, service providers and business partners. Transfers outside of the EEA or the UK (as appropriate) are done in accordance with lawful transfer mechanisms. If personal data is transferred to a country which has been found by the European Commission to have an essentially equivalent standard of data protection to the EEA, then Kraken may rely on an ‘adequacy decision’ to transfer that personal data. See [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en#:~:text=The%20European%20Commission%20has%20so,Uruguay%20as%20providing%20adequate%20protection.) for a list of countries with adequacy decisions. If personal data is transferred from the EEA or UK to the US, we may rely on standard contractual clauses. 
 
 **10\. Privacy when using digital assets and blockchains**
 ----------------------------------------------------------
@@ -110,7 +116,7 @@ We may keep your personal data for longer than 5 years if we cannot delete it fo
 **12\. Cookies**
 ----------------
 
-When you use our products and services or visit our websites, we may place tiny data files called cookies, flash cookies, pixel tags, or other tracking tools (herein, “Cookies”) on your computer or other devices used when engaging with us. We use cookies to help us recognize you as a customer, collect information about your use of our products and services, to better customize our services and content for you, and to collect information about your computer or other access devices to ensure our compliance with our U.S. Bank Secrecy Act, fraud, security, sanctions and AML obligations.
+Cookies are small text files that provide information regarding the device used by a visitor. Click on Cookie Settings in the footer of this page for additional detail on the types of cookies this website uses and why, and to adjust your Cookie Settings. Cookie information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies although doing so may impact website functionality.
 
 **13\. Your rights regarding your personal data**
 -------------------------------------------------
