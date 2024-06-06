@@ -247,7 +247,7 @@ Agent Network
 
 OPay Office
 
-HQ:Alexander House, Otunba Jobi Fele Way, Ikeja, Lagos
+HQ:Alexander House, Plot 9, Dr.Nurudeen Olowopopo Avenue, Alausa, Lagos
 
 Customer Service Centers
 
