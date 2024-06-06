@@ -91,7 +91,7 @@ If you think that anything on the Service infringes upon any copyright that you 
 
            **Designated Agent:** Copyright Manager
 
-           **Address of Designated Agent:** 427 N Tatnall St. #27273, Wilmington, DE 19801
+           **Address of Designated Agent:** 169 Madison Ave, Ste 11218, New York, NY 10016
 
            **Telephone Number of Designated Agent:** 888-607-2270
 
