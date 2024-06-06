@@ -162,7 +162,7 @@ Your access to your customer account will be automatically suspended following 2
 Cookies are set when you visit your account. The following cookies are also set when you use your account.
 
 **CrossEngage**  
-If you have a bahn.de customer account, you can be shown personalised offers and promotions after you have logged in. If you have consented to the use of marketing cookies, your online usage behaviour will also be taken into account. Cookies with a duration of 13 months are set in your browser for the design of personalised content on bahn.de. The data used for this purpose is processed in pseudonymised form on the servers of our service provider CrossEngage GmbH (Bertha-Benz-Str. 5, 10557 Berlin). The legal basis for the use of the technology is § 25 para. 2 no. 2 TTDSG in conjunction with Art. 6 para. 1 lit. b) GDPR.
+If you have a bahn.de customer account, you can be shown personalised offers and promotions after you have logged in. If you have consented to the use of marketing cookies, your online usage behaviour will also be taken into account. Cookies with a duration of 13 months are set in your browser for the design of personalised content on bahn.de. The data used for this purpose is processed in pseudonymised form on the servers of our service provider CrossEngage GmbH (Bertha-Benz-Str. 5, 10557 Berlin). The legal basis for the use of the technology is § 25 para. 2 no. 2 TDDDG in conjunction with Art. 6 para. 1 lit. b) GDPR.
 
 ### What rights to customer account users have?
 
@@ -191,4 +191,4 @@ If you contact one company but another company is responsible for your particula
 
 We update our privacy statement to bring it into line with new functions or legal requirements. We therefore recommend that you check the privacy notice at regular intervals.
 
-Last modified: April 2023
+Last modified: June 2024
