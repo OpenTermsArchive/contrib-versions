@@ -156,7 +156,7 @@ This license is:
 3. It has been aggregated with other data by us and cannot be disaggregated or only with disproportionate efforts; or
 4. It has been generated jointly by user and others, and other users are able to continue to make use of the content.
 
-6.7. If your UGC is based on our intellectual property, it also qualifies as Player Content and therefore must comply with our [Player Content Policy](https://legal.eu.wargaming.net/en/player-content) in addition to this section 6. For the avoidance of doubt, you always grant Wargaming a license to your UGC in accordance with section 6.4 of this EULA and not in accordance with the Player Content Policy (even if your UGC qualifies as Player Content).
+6.7. If your UGC is based on our intellectual property, it also qualifies as Player Content and therefore must comply with our [Player Content Policy](https://legal.eu.wargaming.net/en/player-content-policy) in addition to this section 6. For the avoidance of doubt, you always grant Wargaming a license to your UGC in accordance with section 6.4 of this EULA and not in accordance with the Player Content Policy (even if your UGC qualifies as Player Content).
 
 ### **7\. Feedback and User Submissions** [\[Back to top\]](https://legal.eu.wargaming.net/en/eula-en/#)
 
@@ -382,7 +382,7 @@ If you reside in South Korea, [\[click here\]](https://legal.asia.wargaming.net/
 
 12.3.4. Explanations about Player Content are set out at the following link:
 
-* [Player Content Policy](https://legal.eu.wargaming.net/en/player-content/)
+* [Player Content Policy](https://legal.eu.wargaming.net/en/player-content-policy/)
 
 12.3.5. Wargaming may add, amend, and delete such explanations in future. In case of any discrepancies, this EULA shall prevail.  
 
