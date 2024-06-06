@@ -965,6 +965,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Data Herault: [https://www.herault-data.fr/explore/dataset/inforoutes-evenements-lineaires-conditions-de-circulation-/information/?disjunctive.lib\_type\_evt&disjunctive.lib\_etat\_circul&disjunctive.epci&sort=date\_heure\_deb\_evt&calendarview=month&location=14,43.64403,3.75217&basemap=jawg.streets](https://www.herault-data.fr/explore/dataset/inforoutes-evenements-lineaires-conditions-de-circulation-/information/?disjunctive.lib_type_evt&disjunctive.lib_etat_circul&disjunctive.epci&sort=date_heure_deb_evt&calendarview=month&location=14,43.64403,3.75217&basemap=jawg.streets)
             
+        * Adresse Data Gouv France - Base Adresse Nationale: [https://adresse.data.gouv.fr/commune/97701](https://adresse.data.gouv.fr/commune/97701)
+            
     19. **Gambia**
         * Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
             
@@ -1386,6 +1388,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Open Data Comune di Milano [https://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/)
         * Roma Servizi per la Mobilità: [https://romamobilita.it/it/tecnologie/dataset-geografici](https://romamobilita.it/it/tecnologie/dataset-geografici)
         * Open Data Comune di Genova: [https://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations](https://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations)
+        * Comune di Firenze:[https://www.comune.fi.it/i](https://www.comune.fi.it/)
     34. **Ivory Cost (Côte d'Ivoire)**
         
         OCHA Côte d'Ivoire ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
@@ -1428,6 +1431,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Soramame [https://www.env.go.jp/mail.html](https://www.env.go.jp/mail.html)
             
         * Created by BreezoMeter Ltd. based on "Japan env" (Ministry of the Environment) ([https://www.env.go.jp/](https://www.env.go.jp/))
+            
+        * 静岡市 [https://opendata-api-wiki-dot-shizuokashi-road.appspot.com/terms](https://opendata-api-wiki-dot-shizuokashi-road.appspot.com/terms)
             
     36. **Liechtenstein**
         * “Liechtensteinische Landesverwaltung“ - [https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf](https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf)
@@ -1637,6 +1642,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Infraestruturas de Portugal (PT): [https://dados.gov.pt/pt/datasets/rede-rodoviaria-nacional/](https://dados.gov.pt/pt/datasets/rede-rodoviaria-nacional/)
             
         * DG Territorio PT: [https://www.dgterritorio.gov.pt/dados-abertos](https://www.dgterritorio.gov.pt/dados-abertos) Geographical information provided by the General Directorate of the Territory
+            
+        * Lisboa.pt Cartografia não homologada, não podendo ser utilizada para fins legais. Aplica-se a licença Creative Commons CCZero([https://opendefinition.org/licenses/cc-zero/](https://opendefinition.org/licenses/cc-zero/)). A reprodução da aplicação é autorizada, devendo ser citados os créditos do autor.
             
     50. **Russia**
         
