@@ -2,7 +2,7 @@
 
 * [Explore](#)
     
-    * [![Buy Crypto](https://assets-cms.kraken.com/images/51n36hrp/facade/aa1f76783d3090a160a4bd42200a231d78089e43-48x48.svg)Buy CryptoStart with just $10](https://www.kraken.com/learn/buy-crypto)
+    * [![Buy Crypto](https://assets-cms.kraken.com/images/51n36hrp/facade/aa1f76783d3090a160a4bd42200a231d78089e43-48x48.svg)Buy CryptoStart with just $10](https://www.kraken.com/sign-up)
     * [![Kraken Pro](https://assets-cms.kraken.com/images/51n36hrp/facade/61fd63a15c71c30a8e1f37fe6ec1328420b4797c-48x48.svg)Kraken ProAdvanced trading](https://pro.kraken.com/app/trade/btc-usd)
     * [![Trade NFTs](https://assets-cms.kraken.com/images/51n36hrp/facade/aa2ba8e1aac714ec4f37833df8cfe8aa68424763-48x48.svg)Trade NFTsZero gas fees](https://nft.kraken.com/)
     * [![Kraken Wallet](https://assets-cms.kraken.com/images/51n36hrp/facade/ee33fe824ee87d78bd9d57c5bc72c3c973f717bb-48x48.svg)Kraken WalletYour passport onchain](https://www.kraken.com/wallet)
