@@ -110,6 +110,7 @@ Other languages:
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ml "Policy:Privacy policy/ml (26% translated)")
 * [සිංහල](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/si "Policy:Privacy policy/si (4% translated)")
 * [ไทย](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/th "Policy:Privacy policy/th (78% translated)")
+* [ລາວ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/lo "Policy:Privacy policy/lo (5% translated)")
 * [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/blk "Policy:Privacy policy/blk (26% translated)")
 * [ဖၠုံလိက်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/kjp "Policy:Privacy policy/kjp (8% translated)")
 * [ဘာသာမန်](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mnw "Policy:Privacy policy/mnw (0% translated)")
