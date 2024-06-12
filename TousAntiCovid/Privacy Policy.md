@@ -368,15 +368,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -592,15 +605,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -1109,15 +1135,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -1333,15 +1372,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -1824,15 +1876,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -2048,15 +2113,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -2488,15 +2566,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -2870,15 +2961,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -3252,15 +3356,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -3634,15 +3751,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -4016,15 +4146,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -4398,15 +4541,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -4625,10 +4781,19 @@ Retour
 
 Retour
 
-* [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+* [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+* [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+* [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
+
+* [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+* [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+* [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
 
 * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
 * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+
+* [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+* [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
 
 * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
 * [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
@@ -4837,15 +5002,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -5057,15 +5235,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -5277,15 +5468,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -5497,15 +5701,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -5717,15 +5934,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -5937,15 +6167,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -6157,15 +6400,28 @@ Recherche
     
     * * [Toute la rubrique Système de santé](https://sante.gouv.fr/systeme-de-sante/)
         * [La démocratie en santé](https://sante.gouv.fr/systeme-de-sante/la-democratie-en-sante/article/la-democratie-en-sante)
-    * * [Ma santé 2022 : un engagement collectif](https://sante.gouv.fr/systeme-de-sante/masante2022/)
+        * [Parcours des patients et des usagers](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/)
             
-            * [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+            * [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+            * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+            * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
-        * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+    * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
+        * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
+            
+            * [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+            * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+            * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
+            
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+            
+        * [Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/)
+            
+            * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+            * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
@@ -6317,10 +6573,19 @@ Retour
 
 Retour
 
-* [Ma santé 2022 : mise en œuvre](https://sante.gouv.fr/systeme-de-sante/masante2022/article/ma-sante-2022-mise-en-oeuvre)
+* [Parcours de santé, de soins et de vie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/article/parcours-de-sante-de-soins-et-de-vie)
+* [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
+* [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
+
+* [Développement durable](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/developpement-durable)
+* [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
+* [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
 
 * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
 * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
+
+* [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
+* [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
 
 * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
 * [Innovation en santé](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/innovation-en-sante/)
