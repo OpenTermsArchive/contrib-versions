@@ -220,6 +220,25 @@ D02 AY28
 
 Key Contact: Vincent Rezzouk-Hammachi
 
+**Privacy Notice for United States Consumers** 
+-----------------------------------------------
+
+This section of our Privacy Policy applies to consumers who reside in some US States and supplements the information above, as well as the State-Specific information below. 
+
+Privacy laws in certain US States may give consumers rights with respect to their personal information, which could include:
+
+* The right to access the personal information we process about you;
+* The right to request the deletion of your personal information;
+* The right to request the correction of your personal information;
+* The right to opt out of targeted advertising and profiling;
+* The right to opt-out of the sale or sharing of your personal information.
+
+You can opt-out of the sale or sharing of your personal information by clicking the ‘Do Not Sell or Share my Personal Information’ link in the footer of the website. Or, where your personal information is included in one of our Directories, you can email us.privacy@ft.com to exercise your right to opt-out.
+
+In addition, residents of some States also have the right to lodge a complaint with its designated Supervisory Authority. Please refer to guidance provided by your relevant Supervisory Authority for further information.
+
+We take the privacy of all of our customers seriously, regardless of location; where we do not fall into scope for a particular State’s privacy law, we still protect customer data in line with this policy.
+
 Privacy notice for California Consumer Privacy Act
 --------------------------------------------------
 
@@ -280,13 +299,10 @@ If your contact details have been included in the database, you will have receiv
 
 For more information on how we use your personal information and who we share your personal information with, please see our Privacy Policy above or contact [ccpa.privacy@ft.com](mailto:ccpa.privacy@ft.com). 
 
-**Additional US State Laws**  
-We take the privacy of our customers seriously and, whilst we do not fall into scope for other US State privacy laws, we still protect our customer data in line with this policy regardless of location.
-
 Changes to this Privacy Policy
 ------------------------------
 
-This policy was reviewed on 20/02/2024 and last updated on 20/02/2024.
+This policy was reviewed on 10/06/2024 and last updated on 10/06/2024.
 
 Any changes we may make to this privacy policy will be posted on this page. If changes are significant, we may choose to notify you by email or to clearly indicate on our home page that the policy has been updated. 
 
