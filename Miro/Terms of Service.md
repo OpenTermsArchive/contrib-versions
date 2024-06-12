@@ -17,12 +17,12 @@
     
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/38KcDg5CQvCoEnuQWLCpQn/981ab08660edfd0e55f612748efddf0a/Screenshot_2024-06-06_at_11.52.09.png)
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/38KcDg5CQvCoEnuQWLCpQn/981ab08660edfd0e55f612748efddf0a/Screenshot_2024-06-06_at_11.52.09.png?fm=webp&q=75)
         
         Catch this summer's biggest update on July 17](https://miro.com/whats-next/register/?utm_campaign=FY25Q2-GLB-WB-HI-S2_INX-Whats_New_webinar&utm_source=weblink&utm_medium=redirect&utm_content=Webinar%20-%20High%20Intent&utm_term=Top%20Nav&src=-weblink_glb#CxvHAz7sO)
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/2Zxr4Vx1JDRb6UL7icHtaC/40135e6dbe6bfeb37502c61c49adca15/Tree_planter.png)
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/2Zxr4Vx1JDRb6UL7icHtaC/40135e6dbe6bfeb37502c61c49adca15/Tree_planter.png?fm=webp&q=75)
         
         Navigate through diagrams using keyboard](https://miro.com/blog/what-we-launched-may-2024/#:~:text=And%20last%20but,and%20assistive%20technology.)
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
