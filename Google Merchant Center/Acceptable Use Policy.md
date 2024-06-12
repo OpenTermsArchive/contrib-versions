@@ -211,4 +211,4 @@ About our policies
 > 
 > Advertisers have a responsibility not to promote content or engage in behaviour that risks harm to our users, employees or the Ads ecosystem. If we find such content or behaviour, we may take action, including but not limited to restricting or blocking your ads or suspending your account.
 
-If you're working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue or complete the task. [Learn how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
+If you're working with a third-party platform, some of these instructions may not apply to you. Refer to your third-party platform for instructions on how to resolve the issue and request a review. [Learn how to find support if you use a non-Google platform](https://support.google.com/merchants/answer/12048683).
