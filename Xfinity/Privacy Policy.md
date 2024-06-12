@@ -1,4 +1,4 @@
-Effective January 1, 2024 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_01012024.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_SP_01012024.pdf)
+Effective March 31, 2024 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_03312024_80.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_SP_03312024_36.pdf)
 
   
 
@@ -418,6 +418,8 @@ Your privacy may be impacted differently depending on where you live. If you're 
 [Utah](https://www.xfinity.com/privacy/policy/staterights#utah)
 
 [Virginia](https://www.xfinity.com/privacy/policy/staterights#virginia)
+
+[Washington/Nevada](https://www.xfinity.com/privacy/policy/staterights#washington)
 
 [EEA, Switzerland, and the United Kingdom](https://www.xfinity.com/privacy/policy/staterights#eea)
 
