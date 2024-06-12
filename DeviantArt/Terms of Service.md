@@ -143,7 +143,7 @@ You agree that DeviantArt may at any time, and without notice, suspend or termin
 
 **21\. Product Purchases from the DeviantArt Shop**
 
-DeviantArt users may make certain products available for purchase through the [DeviantArt Shop](https://www.deviantart.com/prints). For example, you may have the opportunity to purchase or commission "Digital Artwork" that a registered member has listed for sale through the Shop.
+DeviantArt users may make certain products available for purchase through the [DeviantArt Shop](https://www.deviantart.com/shop). For example, you may have the opportunity to purchase or commission "Digital Artwork" that a registered member has listed for sale through the Shop.
 
 All payments are to be made in US dollars and prices are subject to change at any time.
 
