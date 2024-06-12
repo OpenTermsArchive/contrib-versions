@@ -310,7 +310,7 @@ Toute commande réalisée auprès de nos Partenaires Marchands via la Galerie Ma
 
 \- Vous ayez procédé au règlement complet de votre commande ;
 
-\- Vous ayez fait une tentative infructueuse de résolution amiable du litige avec le Partenaire Marchand ou vous avez posé une question au Partenaire Marchand depuis votre compte client (bouton "Mon service client") depuis au moins 10 jours et vous n'avez toujours pas reçu de réponse de sa part  
+\- Vous ayez fait une tentative infructueuse de résolution amiable du litige avec le Partenaire Marchand ou vous avez posé une question au Partenaire Marchand depuis votre compte client depuis au moins 10 jours et vous n'avez toujours pas reçu de réponse de sa part  
   
 
 La « Garantie Zen » pourra s’appliquer, à votre demande, dans les hypothèses suivantes :
@@ -337,7 +337,7 @@ Cette « Garantie Zen » n’a pas vocation à résoudre :
   
 **Comment faire fonctionner la « Garantie Zen » ?**
 
-Pour faire jouer votre Garantie Zen vous devez contacter Rue du Commerce via le formulaire dédié sur votre compte client (en cliquant sur le bouton « Garantie Zen » dans le détail de votre commande « Visualiser ma commande »).
+Pour faire jouer votre Garantie Zen, vous devez contacter Rue du Commerce depuis le formulaire de contact (Item 7: "Problème sur une commande passée sur Rue Du Commerce auprès d'un vendeur partenaire", motif: "Je suis en désaccord avec la solution proposée par le vendeur suite à un litige")
 
 Nous nous engageons à vous apporter une réponse dans un délai maximum de 10 jours, suivant le dépôt de votre requête
 
@@ -659,7 +659,7 @@ Toute commande réalisée auprès de nos Partenaires Marchands via la Galerie Ma
 
 \- Vous ayez procédé au règlement complet de votre commande ;
 
-\- Vous ayez fait une tentative infructueuse de résolution amiable du litige avec le Partenaire Marchand ou vous avez posé une question au Partenaire Marchand depuis votre compte client (bouton "Mon service client") depuis au moins 10 jours et vous n'avez toujours pas reçu de réponse de sa part  
+\- Vous ayez fait une tentative infructueuse de résolution amiable du litige avec le Partenaire Marchand ou vous avez posé une question au Partenaire Marchand depuis votre compte client depuis au moins 10 jours et vous n'avez toujours pas reçu de réponse de sa part  
   
 
 La « Garantie Zen » pourra s’appliquer, à votre demande, dans les hypothèses suivantes :
@@ -686,7 +686,7 @@ Cette « Garantie Zen » n’a pas vocation à résoudre :
   
 **Comment faire fonctionner la « Garantie Zen » ?**
 
-Pour faire jouer votre Garantie Zen vous devez contacter Rue du Commerce via le formulaire dédié sur votre compte client (en cliquant sur le bouton « Garantie Zen » dans le détail de votre commande « Visualiser ma commande »).
+Pour faire jouer votre Garantie Zen, vous devez contacter Rue du Commerce depuis le formulaire de contact (Item 7: "Problème sur une commande passée sur Rue Du Commerce auprès d'un vendeur partenaire", motif: "Je suis en désaccord avec la solution proposée par le vendeur suite à un litige")
 
 Nous nous engageons à vous apporter une réponse dans un délai maximum de 10 jours, suivant le dépôt de votre requête
 
