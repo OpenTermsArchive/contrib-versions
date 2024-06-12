@@ -684,7 +684,7 @@ We are also making changes to other portions of the Roblox TermsThe terms and co
     
     1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957360143380)
     
-* [EN Roblox Terms of Use 20240322.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957353013908)
+* [EN Roblox Terms of Use 20240612.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957353013908)
     
     1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957353013908)
     
@@ -708,7 +708,7 @@ We are also making changes to other portions of the Roblox TermsThe terms and co
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957366267540)
     
-* [KO Roblox 이용 약관 20240322.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957376690452)
+* [KO - Roblox 이용 약관 20240612.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957376690452)
     
     3 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957376690452)
     
