@@ -1,7 +1,7 @@
 Allstate online _privacy statement_
 ===================================
 
-Effective: February 15, 2024
+Effective: April 8, 2024
 
 This Allstate Online Privacy Statement (“Privacy Statement”) describes the privacy practices of Allstate Insurance Company and the Allstate affiliated companies whose websites and mobile apps link to this Privacy Statement (“Allstate,” “we” “our” or “us”). This Privacy Statement explains the information we collect, why we collect it, how we use and share it, and the choices you can make regarding your information. More information about Allstate affiliates is in the Allstate Affiliates section at the end of this Privacy Statement.
 
@@ -27,7 +27,7 @@ We collect the following categories of personal information:
 | --- | --- |
 | Personal identifiers | Name, alias, signature, postal address, phone number, date of birth, unique personal identifier, online identifier, email address, internet protocol (IP) address, state identification card number, account name, Social Security number, driver's license number, passport number, or other similar identifiers. |
 | Personal characteristics | Age, race, ancestry, national origin, citizenship, religion, marital status, medical condition, physical or mental disability, sex (including gender, gender identity, gender expression, pregnancy or childbirth and related medical conditions), sexual orientation, veteran or military status, genetic information (including familial genetic information) and other descriptions of your physical characteristics (e.g., height). |
-| Commercial information | Service or product related information including policy coverage information, premiums, account name, policy number, payment history, claims history, records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies, account log-in, bank account number, credit or debit card number, other payment or financial information, health insurance information, driving record, credit information, medical history, or family member information. If you use the Allstate Digital Footprint℠feature, we will also access emails in your inbox. |
+| Commercial information | Service or product related information including policy coverage information, premiums, account name, policy number, payment history, claims history, records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies, account log-in, bank account number, credit or debit card number, other payment or financial information, health insurance information, driving record, credit information, medical history, or family member information. If you use the Allstate Digital Footprint℠ feature, we will also access emails in your inbox. |
 | Biometrics and multimedia information | Fingerprint, voice print, retinal print, scan of hand or facial geometry, audio, electronic, visual or similar information. |
 | Internet or other electronic network activity information | Browsing history, search history, information regarding your interaction with our website, application or advertisement, links you use or web pages you visit while visiting our site or applications, browser type, internet service provider (ISP), cookies, and mobile device information including device identifier or other information. |
 | Geolocation data | Physical location, movements, or trip tracking information. |
@@ -69,7 +69,7 @@ We do not market any products or services to children under the age of thirteen 
 Sharing your information
 ------------------------
 
-We share personal information with other companies for various business purposes and strive to work with companies that share our commitment to privacy. We may share your personal information with our affiliates for business purposes consistent with the uses described in this Privacy Statement and we may also share personal information about you with third parties whenever you consent to or direct such sharing. We may share information with others in an aggregated or de-identified form that does not reasonably identify you. We do not sell your personal information except for the sharing of personal information for cross-context behavioral advertising as defined under California law as explained more below.
+We share personal information with other companies for various business purposes and strive to work with companies that share our commitment to privacy. We may share your personal information with our affiliates for business purposes consistent with the uses described in this Privacy Statement and we may also share personal information about you with third parties whenever you consent to or direct such sharing. We may share information with others in an aggregated or de-identified form that does not reasonably identify you. We do not sell your personal information except for the sharing of personal information for cross-context behavioral advertising as defined under California law as explained below.
 
 We may also share any of the categories of personal information described above with service providers and other third parties for business purposes or as required or permitted by law including with:
 
@@ -98,6 +98,8 @@ We may also share any of the categories of personal information described above 
 * protect our or others safety, rights or property, and
 * investigate fraud or to protect the security or integrity of our Sites or any product or services.
 
+Our service providers and third-party marketing and advertising partners include Adobe, Google and Microsoft. To learn about Adobe Analytics privacy practices or to opt-out of Adobe cookies, [visit Adobe Privacy Center](https://www.adobe.com/privacy.html). To learn more about Google’s privacy practices and to manage privacy controls, [visit Google Privacy Center](https://policies.google.com/privacy#infochoices). To access and use the Google Analytics Opt-out Browser Add-on, visit [Google Opt-out](https://tools.google.com/dlpage/gaoptout). To read more about Microsoft’s privacy practices, [visit the Microsoft Privacy Statement.](https://privacy.microsoft.com/en-us/privacystatement)
+
 How long we keep your information
 ---------------------------------
 
@@ -123,13 +125,13 @@ Online tracking technologies and advertising
 * Diagnose or fix technology problems, and
 * Detect or prevent fraud or other harmful activities.
 
-Our service providers include Adobe and Google. To learn about Adobe Analytics privacy practices or to opt-out of cookies set to facilitate reporting, visit [Adobe Privacy Center](https://www.adobe.com/privacy.html). To learn more about Google’s privacy practices, visit [Google Privacy Center](https://policies.google.com/privacy). To access and use the Google Analytics Opt-out Browser Add-on, visit [Google Opt-out](https://tools.google.com/dlpage/gaoptout).
-
 **General choices regarding cookies:** If you prefer not to accept cookies, most browsers will allow you to manage cookies in your browser settings to disable or block cookies, remove existing cookies, automatically accept cookies or to notify you when you receive a cookie. These settings are browser or device specific. Options available may vary by browser. If you disable, modify, or reject cookies, some parts or functionalities of our Site may be inaccessible or not function properly. For example, disabling cookies may require you to repeatedly enter information to take advantage of services or promotions. Also, if you clear your cookies on your browser or make selections using a different device or browser, you may need to redo your cookie settings.
 
 **Targeted Online Advertising and Opt-outs:** We or our online marketing and advertising providers may use information about your activities on our Sites or other websites to help tailor our advertisements or offers to your interests. On some of our websites, we allow third-party advertising companies to collect information about your activity on our Sites through cookies or other tracking technologies and combine that information with information they collect on other unrelated sites, which the advertising companies may use to provide you with relevant, targeted advertising. This sort of online advertising is called cross-context behavioral advertising under the California Consumer Privacy Act (CCPA). We do not knowingly share personal information for cross-context behavioral advertising of users under the age of sixteen.
 
-CCPA provides California residents the right to opt-out of the “sharing” of your information for cross-context behavioral advertising. You can opt-out of this sharing via the “Do Not Sell or Share My Personal Information” link in the footer of our website or by visiting our preference center and selecting “Opt out of targeted online advertising.” You may also opt-out by enabling a universal tool that automatically communicates your opt-out preferences through browser settings such as the Global Privacy Control (“GPC”). All website visitors, regardless of residency, can opt-out of this sharing.
+CCPA provides California residents the right to opt-out of the “sharing” of your information for cross-context behavioral advertising. You can opt-out of this sharing via the “about ads / do not sell or share my personal information” link in the footer of our website and selecting “Opt out of targeted online advertising.” You may also opt-out by enabling a universal tool that automatically communicates your opt-out preferences through browser settings such as the Global Privacy Control (“GPC”). All website visitors, regardless of residency, can opt-out of this sharing.
+
+Some browsers offer a setting called “Do Not Track.” Although we do our best to honor the privacy preferences of our visitors, we may not be able to respond to all “Do Not Track” signals from your browser.
 
 You can also limit receiving certain targeted online advertising referred to as Interest-Based Advertising by visiting [NAI Consumer Opt Out (networkadvertising.org)](https://optout.networkadvertising.org/?c=1).
 
@@ -180,7 +182,7 @@ California law provides residents with rights to know, access, correct and delet
 
 **Verified requests:** To protect you and your personal information, we will only respond to access or deletion requests that we have been able to properly verify through our authentication processes. To verify your identity, you will be asked to provide several pieces of personal information, such as name and demographic information, which we only use to verify your identity or authority to make the request.
 
-**Submitting a request:** To submit an access or deletion request, please visit [Access/Delete webpage](https://allstate.consumerprivacyinfo.com/) to submit an online request or call us at 1-800-624-4419. To submit a correction request, please visit [Correction webpage](https://allstatecorrections.consumerprivacyinfo.com/) to submit an online request or call us at [1-800-624-4419](tel:1-800-624-4419). Responses to a verified request may take up to 45 calendar days, or longer depending on the nature of the request. If additional time is needed, we will notify you of the additional time. We may only respond to two access requests within a 12-month period. Requests from authorized agents must be submitted via the same online portal or toll-free number but to protect your privacy, consumers will be required to verify their identity directly with us via our online portal or toll-free number.
+**Submitting a request:**To submit an access or deletion request, please visit [Access/Delete webpage](https://allstate.consumerprivacyinfo.com/) to submit an online request or call us at 1-800-624-4419. To submit a correction request, please visit [Correction webpage](https://allstatecorrections.consumerprivacyinfo.com/) to submit an online request or call us at [1-800-624-4419](tel:1-800-624-4419). Responses to a verified request may take up to 45 calendar days, or longer depending on the nature of the request. If additional time is needed, we will notify you of the additional time. We may only respond to two access requests within a 12-month period. Requests from authorized agents must be submitted via the same online portal or toll-free number but to protect your privacy, consumers will be required to verify their identity directly with us via our online portal or toll-free number.
 
 **Consumer request metrics:**
 
@@ -219,7 +221,7 @@ We limit access to your personal information to those who need it to do their jo
 Allstate digital footprint
 --------------------------
 
-If you enroll in the Allstate Digital Footprint℠ feature through the mobile app, you provide Allstate access to your Microsoft and/or Google email accounts. We will only use the data accessed from your Microsoft and Google accounts to read, write, modify, or control email message bodies (including attachments), metadata, headers, and settings (“email data”) to:
+If you enroll in the Allstate Digital℠ feature through the mobile app, you provide Allstate access to your Microsoft and/or Google email accounts. We will only use the data accessed from your Microsoft and Google accounts to read, write, modify, or control email message bodies (including attachments), metadata, headers, and settings (“email data”) to:
 
 * identify certain online accounts,
 * notify you of known security breaches related to those accounts, and
