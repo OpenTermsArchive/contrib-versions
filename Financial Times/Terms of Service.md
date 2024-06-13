@@ -58,7 +58,7 @@ The above are referred together as "**the Subscriptions**" and individually as a
 
 **Home Delivery**
 
-**2.13.** We will deliver your Newspaper from Monday through to Saturday to the address you provided during the sign-up process if it is within our delivery areas. We do not guarantee delivery to non-secure locations or beyond ground floor levels.  Any special delivery requests may be printed on your Newspaper and seen by third parties, and we cannot guarantee that these requests will be fulfilled.
+**2.13.** We will deliver your Newspaper from Monday through to Saturday to the address you provided during the sign-up process if it is within our delivery areas. Delivery of the Newspaper may be delayed until the next business day where national or other public holidays are being observed in your country. We do not guarantee delivery to non-secure locations or beyond ground floor levels.  Any special delivery requests may be printed on your Newspaper and seen by third parties, and we cannot guarantee that these requests will be fulfilled.
 
 **2.14.** We aim to commence delivery of your Newspaper within 2 business days (UK), 7-10 business days (Eurozone) or 10-12 business days (United States) of your Subscription commencing.  Delivery times for other regions will be confirmed separately. 
 
@@ -193,7 +193,7 @@ The above are referred together as "**the Subscriptions**" and individually as a
 * ban you (temporarily or permanently) from participating in UGC on FT.com; and 
 * at our discretion, remove any other UGC you have posted. 
 
-**3.18.** FT is not obliged to provide commenting facilities or other Forums on FT.com or for any specific content within FT.com. FT may, at its sole discretion, choose to close (or not to enable) posting of UGC on any article or other content.
+**3.18.** FT is not obliged to provide commenting facilities or other Forums on FT.com or for any specific content within FT.com. FT may, at its sole discretion, choose to close (or not to enable) posting of UGC on any article or other content, or to restrict posting of UGC to specified categories of user. Posting of comments on FT.com is restricted to users with a Subscription (excluding Trial Subscriptions).
 
 **Accuracy of information and availability of FT.com**
 
@@ -255,7 +255,7 @@ in each case even if we have been advised that such damages may arise.**
 7\. Changes to these Terms and Conditions
 -----------------------------------------
 
-**7.1.** These Terms and Conditions were published on 14 March 2024 and replace with immediate effect the Terms and Conditions previously published on 21 February 2024.
+**7.1.** These Terms and Conditions were published on 13 June 2024 and replace with immediate effect the Terms and Conditions previously published on 14 March 2024.
 
 **7.2.** We may update these Terms and Conditions for legal or regulatory reasons, or to reflect changes in our services or business practices. We will provide notice of any significant changes below. You should regularly check this section to see if any changes have been made. If you are a paying subscriber, any changes to our terms and conditions will become effective from the date of your next payment following the change unless we notify you otherwise. If you are not a paying subscriber, any changes will become effective as soon as we post them on FT.com.
 
