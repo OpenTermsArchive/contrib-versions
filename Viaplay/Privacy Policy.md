@@ -1,6 +1,15 @@
 Data Protection and Viaplay
 ===========================
 
+* [1\. Introduction](#1. Introduction)
+* [2\. How we process your personal data](#2. How we process your personal data)
+* [3\. Who do we share your personal data with?](#3. Who do we share your personal data with?)
+* [4\. For how long do we keep your personal data?](#4. For how long do we keep your personal data?)
+* [6\. How do we protect your personal data?](#6. How do we protect your personal data?)
+* [7\. Your rights](#7. Your rights)
+* [8\. Contact information](#8. Contact information)
+* [9\. Updates of this Statement](#9. Updates of this Statement)
+
 We value your trust in us.
 
 ### 1\. Introduction
