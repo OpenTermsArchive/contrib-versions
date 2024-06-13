@@ -249,7 +249,41 @@ OPay Office
 
 HQ:Alexander House, Plot 9, Dr.Nurudeen Olowopopo Avenue, Alausa, Lagos
 
-OPay Office Address
+Customer Service Centers
+
+ABUJA:Uyk Hexahub Plaza, Balanga Cresent off Uke Street by Bolton White Hotel, opposite Hawthrone Suites, Garki 11, Abuja
+
+LAGOS, ALLEN IKEJA:No 103 Mosesola House, Allen Road, Ikeja Lagos
+
+LAGOS, FESTAC:4th Avenue A Close, Festac Town Beside Quincess School, Festac, Lagos
+
+LAGOS,IKORODU:78B Lagos Road Ikorodu Beside Micro Station Slot
+
+ABEOKUTA:Dolly House Opposite Laroy Hotel, Abiola Way
+
+IBADAN:Tricennial House, 189B, Fajuyi Road, Beside Ideal Consult, Opposite Thermocool Showroom, Along Adamasingba road, Eleganza, Ibadan
+
+GOOD:Thilda'S Center, Shop 12 Opposit Gig Logistics Dadin Kowa 3Rd Gate Jos
+
+KADUNA:Asd City Mall Katsina Road By Independent Way,Kaduna State
+
+KANO:Amana Plaza Second Floor Beside Shoprite Zoo Road,Kano State
+
+OSOGBO:Opposite Technical Besides Arowolo Filling Station Osogbo, Osun State
+
+BENUE:Chiventis Plaza, Atom Kpera OAD, Modern Market
+
+AKWA IBOM:Plot 104 Nsikak Eduok Ave, Homelight Properties, After Full Life Christian Centre, Two Lane Uyo
+
+IMO:No.138 Tetlow Road, off Lagos Street
+
+ABIA:135, Azikiwe by Yoke, Southabia State
+
+KOGI:No 100, 1BB Waymoremi House, Lokoja, Kog State
+
+PORTHARCOURT:Plot 79 Evo Road, opposite Medicine Mart Phamacy GRA Porthacout Rivers State
+
+Edo:Elora Royal Event Centre N0.162 Benin Sapele Road, after Magistrate Court, before Eriaria junction, Benin City, Edo State
 
 download the OPay app
 
