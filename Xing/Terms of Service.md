@@ -118,7 +118,7 @@ The contract is concluded with New Work SE, Am Strandkai 1, 20457 Hamburg, Germa
 
 **4.1** The user is obliged
 
-* (a) to provide only true and non-misleading statements along with its real name, and to refrain from using pseudonyms or pen names,
+* (a) to provide only true and non-misleading statements along with its real name, and - except for posts on the employer review platform - to refrain from using pseudonyms or pen names,
 * (b) to only use as the profile picture for its social network user profile a photo where the user can be clearly identified. The user warrants and represents that the public display of the profile photo delivered by the user to the XING Websites is not prohibited by applicable law. The user shall not use photos or images of any person other than the user, nor of non-existent persons or other beings (such as animals, imaginary creatures, etc.), nor use logos as its profile picture.
 * (c) to comply with all applicable legislation and respect all third-party rights when using XING and the content served on XING Websites. In particular, the user shall not
     * use any insulting or defamatory contents, regardless of whether said contents are directed at another user or New Work SE personnel or other companies,
