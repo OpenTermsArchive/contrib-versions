@@ -215,7 +215,7 @@ OPAY DIGITAL SERVICES LIMITED
 
 Alexander House, Plot 9, Nurudeen Olowopopo Way, Alausa-Ikeja, Lagos, Nigeria.
 
-Email: [\[email protected\]](https://www.opayweb.com/cdn-cgi/l/email-protection)
+Email: [ng-privacy@opay-inc.com](mailto:ng-privacy@opay-inc.com)
 
 Company
 
