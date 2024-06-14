@@ -1,6 +1,10 @@
 Privacy Policy Agreement
 
   
+
+Privacy Policy
+==============
+
   
 
 Valve respects the privacy of its online visitors and customers of its products and services and complies with applicable laws for the protection of your privacy, including, without limitation, the California Consumer Privacy Act ("CCPA"), the European Union General Data Protection Regulation ("GDPR") and the UK GDPR.  
