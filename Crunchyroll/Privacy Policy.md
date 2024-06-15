@@ -103,10 +103,9 @@ We use tracking technologies for three purposes:
     
     To the extent required by law, we will ask for your consent before setting these cookies. To learn more about certain cookies used for interest based advertising as described above by third parties, including through cross-device tracking, and to exercise certain choices regarding such cookies, please visit the [Digital Advertising Alliance](http://optout.aboutads.info/#!/), [Network Advertising Initiative](http://optout.networkadvertising.org/#/), [Digital Advertising Alliance-Canada](http://youradchoices.ca/choices), [European Interactive Digital Advertising Alliance](http://www.youronlinechoices.eu/) or your device settings.
     
-
 * **To analyse and improve your browsing experience:** to analyse which Content is most popular and gets viewed the most and which gets viewed the least, and to provide us with general information about users of the Content (such as age, gender and interest areas). We also remember the choices you have made, such as your language or region, to enhance and personalize your experience.  We may also remember the place where you have left off viewing the Content, so that you can return to the same place when you view the Content again.  We typically collect device identifiers such as IP address and usage information such as browsing history, device and browser type, and operating system for this purpose.  We use analytics services provided by Adobe, Google, and others to help us analyse and improve your browsing experience as outlined in this paragraph; you can find their cookies policies at the following links [_here_](https://www.adobe.com/privacy/cookies.html) for Adobe and [_here_](https://policies.google.com/technologies/cookies) for Google. To the extent required by law, we will ask for your consent before setting these cookies. If you change your mind or if you don’t want us to use information about your visits in this way, click [_here_](https://www.adobe.com/privacy/opt-out.html) for Adobe and [_here_](https://tools.google.com/dlpage/gaoptout) for Google, to opt-out of their services, and follow the instructions below for other analytics services.  
 
-**_How to manage tracking technologies_**
+_**How to manage tracking technologies**_
 
 We keep information collected from cookies for no longer than the maximum period permitted by law.
 
@@ -116,11 +115,11 @@ If you are using our Content via a browser and cookies are deployed, you can cha
 
 In addition, the Help menu on the menu bar of most browsers tells you how to prevent your browser from accepting new cookies, how to delete old cookies, how to have the browser notify you when you receive a new cookie and how to disable cookies altogether.
 
-**_Location-identifying Technologies_**
+_**Location-identifying Technologies**_
 
 Subject to applicable laws, we may use GPS (global positioning systems) software, geo-filtering and other location-aware technologies to locate (sometimes precisely) you for purposes such as verifying your location and delivering or restricting content (e.g. territory restrictions) and advertising based on your location. You can turn off precise geo-location tracking through the location settings on your device and/or in our Content (if available). 
 
-**_PlayStation, Apple iOS, Android Devices, and Other Connected Devices_**
+_**PlayStation, Apple iOS, Android Devices, and Other Connected Devices**_
 
 When you access certain applications from these devices, cookies, and other tracking technologies will be automatically stored to your device for the following purposes: keeping you logged in, managing parental control PINs, financial reporting, and for other purposes permitted by applicable law. These cookies are essential to the operation of the application. Depending on which device you are using, you may be able to opt out or remove these cookies from the device through the settings or by deleting the application or your account.
 
