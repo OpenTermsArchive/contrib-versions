@@ -165,43 +165,4 @@ YOU AGREE THAT YOUR USE OF THE SERVICES SHALL BE AT YOUR SOLE RISK. TO THE FULLE
 
 NEITHER MEDIAFIRE NOR ANY PROVIDER OF ANY THIRD PARTY CONTENT WARRANTS THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR FREE OR MAKES ANY WARRANTY OF THE RESULTS TO BE OBTAINED FROM USE OF THE SERVICES OR CONTENT. BOTH THE SERVICES AND CONTENT ARE DISTRIBUTED ON AN "AS IS, AS AVAILABLE" BASIS. NEITHER MEDIAFIRE NOR ANY THIRD PARTY MAKES ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE SERVICES OR CONTENT OR ANY PRODUCTS OR SERVICES SOLD THROUGH THE SERVICES.
 
-NEITHER MEDIAFIRE NOR ANY THIRD PARTY WARRANT THAT ANY FILES AVAILABLE FOR DOWNLOADING THROUGH THE SERVICES WILL BE FREE OF VIRUSES OR SIMILAR CONTAMINATION OR DESTRUCTIVE FEATURES. YOU AGREE THAT YOU ASSUME ALL RISK AS TO THE QUALITY AND PERFORMANCE OF THE SERVICES AND THE ACCURACY AND COMPLETENESS OF THE CONTENT. MEDIAFIRE IS NOT RESPONSIBLE OR LIABLE FOR ANY UNAUTHORIZED ACCESS TO OR ALTERATION OF YOUR CONTENT OR FOR ANY VIOLATION OF ITS AGREEMENT.
-
-FOR CLARITY, MEDIAFIRE ASSUMES NO LIABILITY OR RESPONSIBILITY FOR ANY (I) ERRORS, MISTAKES, OR INACCURACIES OF CONTENT, (II) PERSONAL INJURY OR PROPERTY DAMAGE, OF ANY NATURE WHATSOEVER, RESULTING FROM YOUR ACCESS TO AND USE OF OUR SERVICES, (III) ANY UNAUTHORIZED ACCESS TO OR USE OF OUR SECURE SERVERS AND/OR ANY AND ALL PERSONAL INFORMATION AND/OR FINANCIAL INFORMATION STORED THEREIN, (IV) ANY INTERRUPTION OR CESSATION OF TRANSMISSION TO OR FROM OUR SERVICES, (V) ANY BUGS, VIRUSES, TROJANS, OR THE LIKE WHICH MAY BE TRANSMITTED TO OR THROUGH OUR SERVICES BY ANY THIRD PARTY, AND/OR (VI) ANY ERRORS OR OMISSIONS IN ANY CONTENT OR FOR ANY LOSS OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF ANY CONTENT POSTED, EMAILED, TRANSMITTED, OR OTHERWISE MADE AVAILABLE VIA THE SERVICES. MEDIAFIRE DOES NOT WARRANT, ENDORSE, GUARANTEE, OR ASSUME RESPONSIBILITY FOR ANY PRODUCT OR SERVICE ADVERTISED OR OFFERED BY A THIRD PARTY THROUGH THE SERVICES OR ANY HYPERLINKED SERVICES OR FEATURED IN ANY BANNER OR OTHER ADVERTISING, AND MEDIAFIRE WILL NOT BE A PARTY TO OR IN ANY WAY BE RESPONSIBLE FOR MONITORING ANY TRANSACTION BETWEEN YOU AND THIRD-PARTY PROVIDERS OF PRODUCTS OR SERVICES. AS WITH THE PURCHASE OF A PRODUCT OR SERVICE THROUGH ANY MEDIUM OR IN ANY ENVIRONMENT, YOU SHOULD USE YOUR BEST JUDGMENT AND EXERCISE CAUTION.
-
-_Which means: Standard contract capitalized language. Internet services are great but nothing is perfect and we’re not responsible if something goes wrong._
-
-Limitation of Liability
------------------------
-
-NEITHER MEDIAFIRE NOR ANY THIRD PARTY PROVIDER SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES WHATSOEVER ARISING OUT OF THE USE OF OR INABILITY TO USE THE SERVICES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL MEDIAFIRES AGGREGATE LIABILITY TO YOU OR ANY THIRD PARTY FOR ANY AND ALL CLAIMS ARISING OUT OF OR IN CONNECTION WITH THE USE OF THE SERVICES EXCEED ONE HUNDRED DOLLARS ($100). THE LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN MEDIAFIRE AND YOU. IN STATES, COUNTRIES OR TERRITORIES NOT ALLOWING EXCLUSION OF IMPLIED WARRANTIES OR LIMITATION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, MEDIAFIRE AND ANY THIRD PARTY PROVIDER SHALL BE LIMITED TO THE GREATEST EXTENT OF THE LAW.
-
-The Services are controlled and offered by MediaFire from its facilities in the United States of America. MediaFire makes no representations that the Services are appropriate or available for use in other locations. Those who access or use the Services from other jurisdictions do so at their own volition and are responsible for compliance with local law.
-
-_Which means: Also standard contract capitalized language. This clarifies that we limit our responsibility if something goes wrong._
-
-Indemnity
----------
-
-You agree to indemnify, defend and hold MediaFire and its affiliates, and both MediaFire and their respective officers, directors, owners, employees, agents, information providers and licensors harmless from and against any and all claims, liability, losses, damages, obligations, costs and expenses, including attorney's fees, incurred by any MediaFire Party in connection with any Content or use of the Services, whether via your password and/or by any other person, whether or not authorized by you. MediaFire reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and in such case, you agree to cooperate with MediaFire's defense of such claim. This defense and indemnification obligation will survive these Terms of Service and your use of the Services.
-
-_Which means: If we get in trouble because of something you did or should have done, you’ll defend us in court or help us defend ourselves._
-
-Miscellaneous Legal
--------------------
-
-The Agreement, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by MediaFire without restriction.
-
-The Agreement shall be construed in accordance with the laws of the State of Texas, without reference to principles of choice of law. You and MediaFire each irrevocably consent to the personal jurisdiction of the federal or state courts located in Harris County, Texas ("Courts") with respect to any action, suit or proceeding arising out of or related to the Agreement or to the Services and /or Content and waive any objection to venue in any of the Courts for such an action, suit or proceeding; additionally, you agree that you will not bring any such action, suit or proceeding in any court other than the Courts.
-
-These Terms of Service, together with the Privacy Policy and any other legal notices published by MediaFire on the Services, the Agreement, constitutes the entire agreement between the parties with respect to the subject matter hereof, and supersedes all previous written or oral agreements between the parties with respect to such subject matter. If any inconsistency exists between the terms of the Agreement and any additional terms and conditions posted on the Services, such terms shall be interpreted as to eliminate any inconsistency, if possible, and otherwise, the additional terms and conditions shall control. If any provision of the Agreement is held invalid, illegal or unenforceable in any respect, (i) such provision shall be interpreted in such a manner as to preserve, to the maximum extent possible, the intent of the parties, (ii) the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby, and (iii) such decision shall not affect the validity, legality or enforceability of such provision under other circumstances.
-
-No failure in delay in exercising or enforcing this policy shall constitute a waiver of the Agreement or any other right or remedy. If any provision of the Agreement is deemed unenforceable due to law or change in law, such a provision shall be disregarded and the balance of the Agreement shall remain in effect.
-
-YOU AND MEDIAFIRE AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ARISES, OTHERWISE, SUCH CAUSE OF ACTION IS PERMANENTLY BARRED.
-
-_Which means: Standard contract language. All disagreements will be heard in Harris County, Texas, USA within one year._
-
-Please submit reports of any violations to our support department.
-
-Revised: May 31, 2022
+NEITHER MEDIAFIRE NOR ANY THIRD PARTY WARRANT THAT ANY FILES AVAILABLE FOR DOWNLOADING THROUGH THE SERVICES WILL BE FREE OF VIRUSES OR SIMILAR CONTAMINATION OR DESTRUCTI
