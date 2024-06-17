@@ -1,21 +1,21 @@
 Terms of Use
 ============
 
-2024-02-07 09:59
+2024-06-17 05:41
 
-Part A: New version -updated on 7th of February 2024, effective as of 17th of February 2024
-===========================================================================================
+Part A: New version -updated on 17th of June 2024, effective as of 24th of June 2024
+====================================================================================
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY!
 
 Welcome to [www.alibaba.com](http://www.alibaba.com/)!  These Terms of Use describe the terms and conditions applicable to your access and use of the websites, mobile sites, mobile applications and other portals owned, operated, branded or made available by Alibaba.com (defined below) from time to time which relate to the Alibaba e-commerce platform including but not limited to the web and mobile-optimized versions of the websites identified by the uniform resource locator “www.alibaba.com” and the mobile applications of the Alibaba.com e-commerce platform (the “Sites”).  This document is a legally binding agreement between you as the user(s) of the Sites (referred to as “you”, “your” or “User” hereinafter) and the Alibaba.com contracting entity determined in accordance with clause 2.1 below (referred to as “we”, “our” or “Alibaba.com” hereinafter).
 
 1\. Application and Acceptance of the Terms
--------------------------------------------
+===========================================
 
 1.1 Your access to and use of the Sites and Alibaba.com’s services, software and products through the Sites, which shall include the platforms described in clause 7.1 of the Terms (such services, software and products collectively referred to as the “Services” hereinafter) is subject to the terms and conditions contained in this document as well as the [Privacy Policy](https://rulechannel.alibaba.com/icbu?type=detail&ruleId=2034&cId=1306#/rule/detail?ruleId=2034&cId=1306)(defined in clause 3.3 below), the [Product Listing Policy](https://rule.alibaba.com/rule/detail/2047.htm?spm=a271m.8038972.0.0.7d0e495bPfQfya)and any other rules and policies of the Sites that Alibaba.com may publish from time to time.  This document and such other rules and policies of the Sites are collectively referred to below as the “Terms”. By accessing and use of the Sites and Services, you agree to accept and be bound by the Terms.  Please do not access or use the Services or the Sites if you do not accept all of the Terms.   
 
-1.2 You may not access or use the Services or the Sites and may not accept the Terms if (a) you are not of legal age, for example, under 18 years old if you are in the European Union (EU) and the European Economic Area (EEA), to form a binding contract with Alibaba.com, or (b) you are not permitted to receive any Services under the laws of Hong Kong or other countries/regions including the country/region in which you are resident or from which you access and use the Services and the Sites.
+1.2 You may not access or use the Services or the Sites and may not accept the Terms if (a) you are not of legal age, for example, UNDER 18 YEARS OLD IF YOU ARE IN THE EUROPEAN UNION (EU) AND THE EUROPEAN ECONOMIC AREA  (EEA), to form a binding contract with Alibaba.com, or (b) you are not permitted to receive any Services under the laws of Hong Kong or other countries/regions including the country/region in which you are resident or from which you access and use the Services and the Sites，or (c) you will not use the Sites in your role as business entity/professional. You acknowledge that the Sites and the Services are not intended for consumers.
 
 1.3 Alibaba.com may amend any Terms at any time by posting the relevant amended and restated Terms on the Sites.  Alibaba.com will inform you of any material change to the Terms by posting the relevant changes on the Sites. By continuing to access or use the Services or the Sites, you agree that the amended and restated Terms will apply to you.  
 
@@ -26,7 +26,7 @@ Welcome to [www.alibaba.com](http://www.alibaba.com/)!  These Terms of Use desc
 1.6 The Terms may not otherwise be modified except in writing by an authorized officer of Alibaba.com.  
 
 2\. Provision of Services
--------------------------
+=========================
 
 2.1 If you are a registered member of any of the Sites, and you are from mainland China, you are contracting with Hangzhou Alibaba Advertising Co., Ltd.
 
@@ -49,13 +49,15 @@ If you are a registered member of any of the Sites, and either (a) you are from 
 Alibaba.com shall be entitled to, at its sole discretion, determine whether the Promotion Services or any part thereof will be available to you. 
 
 3\. Users Generally
--------------------
+===================
 
 3.1 As a condition of your access to and use of the Sites or Services, you agree that you will comply with all applicable laws and regulations when accessing or using the Sites or Services.
 
 3.2 You agree that (a) you will not copy, reproduce, download, re-publish, sell, distribute or resell any Services or any information, text, images, graphics, video clips, sound, directories, files, databases or listings, etc available on or through the Sites (the “Site Content”), and (b) you will not copy, reproduce, download, compile or otherwise use any Site Content for the purposes of operating a business that competes with Alibaba.com, or otherwise commercially exploiting the Site Content. Systematic retrieval of Site Content from the Sites to create or compile, directly or indirectly, a collection, compilation, database or directory (whether through robots, spiders, automatic devices or manual processes) without written permission from Alibaba.com is prohibited. Use of any content or materials on the Sites for any purpose not expressly permitted in the Terms is prohibited.  
 
 3.3  To know how we and our affiliates use and protect your personal information when using the relevant Site, please review our privacy policy at the following link: [Alibaba.com Privacy Policy](https://rule.alibaba.com/rule/detail/2034.htm?spm=a271m.8038972.1999288231.5.hH1onO).
+
+3.3.1  To know how we and our affiliates provide product recommendation results when you use the relevant Site, please review our Product Recommendation Rules at the following link: [Product Recommendation Rules](https://rulechannel.alibaba.com/icbu?type=detail&ruleId=21000489&cId=1306#/rule/detail?ruleId=21000489&cId=1306) .
 
 3.4 Alibaba.com may allow Users to access to content, products or services offered by third parties through hyperlinks (in the form of word link, banners, channels or otherwise), API or otherwise to such third parties' web sites. You are cautioned to read such web sites' terms and conditions and/or privacy policies before using the Sites. You acknowledge that Alibaba.com has no control over such third parties' web sites, does not monitor such web sites, and shall not be responsible or liable to anyone for such web sites, or any content, products or services made available on or through such web sites.  
 
@@ -66,7 +68,7 @@ Alibaba.com shall be entitled to, at its sole discretion, determine whether the 
 3.7 By posting or displaying any logos, trademarks, service marks, brands, description/information in the product listings, and any other information, content or material  on the Sites (any of such information, content or material, collectively referred to as“User Content”) or providing any User Content to Alibaba.com and/or its affiliates and their respective representative(s), and to the extent permitted under applicable laws, you grant an irrevocable, perpetual, worldwide, royalty-free, and sub-licensable (through multiple tiers) license to Alibaba.com and/or its affiliates and their respective representative(s) to display, transmit, distribute, reproduce, publish, duplicate, adapt, modify, edit, translate, create derivative works using the User Content, remove any part of it (including, without limitation, the watermark or mark the User Content bears), and otherwise use any or all of the User Content in any form, media, or technology now known or not currently known in any manner, on the Sites, Alibaba Channels and/or Third Party Channels and for any purpose which may be beneficial, whether directly or indirectly, to Alibaba.com, the operation of the Sites, the provision of any Services and Promotion Services and/or the business of the User. You confirm and warrant to Alibaba.com that you have all the rights, power and authority necessary to grant the above license and the User Content and use of such User Content (including derivative works) by Alibaba.com and/or its affiliates under such license is free from any infringement or violation of any Third Party Rights (as defined in clause 5.4 of the Terms). To the maximum extent permitted by law, you waive your right to enforce your Intellectual Property Rights in the User Content against Alibaba.com and/or its affiliates, assignees or sub-licensees in connection with use of such User Content in connection with the Services. Information that is protected under data protection laws will only be used and kept in compliance with those laws.
 
 4\. Member Accounts
--------------------
+===================
 
 4.1 User must be registered on the Sites to access or use some Services (a registered User is also referred to as a “Member” below). Except with Alibaba.com’s approval, one User may only register one member account on the Sites. Alibaba.com may cancel or terminate a User’s member account if Alibaba.com has reasons to suspect that the User has concurrently registered or is in control of two or more member accounts. Further, Alibaba.com may reject User’s application for registration for any reason.
 
@@ -79,7 +81,7 @@ Alibaba.com shall be entitled to, at its sole discretion, determine whether the 
 4.5 Member acknowledges that sharing of your account with other persons, or allowing multiple users outside of your business entity to use your account (collectively, "multiple use"), may cause irreparable harm to Alibaba.com or other Users of the Sites. Member shall indemnify Alibaba.com, our affiliates, directors, employees, agents and representatives against any loss or damages (including but not limited to loss of profits) suffered as a result of the multiple use of your account. Member also agrees that in case of the multiple use of your account or Member’s failure to maintain the security of your account, Alibaba.com shall not be liable for any loss or damages arising from such a breach and shall have the right to suspend or terminate Member’s account without liability to the Member.
 
 5\. Member’s Responsibilities
------------------------------
+=============================
 
 5.1 Each Member represents, warrants and agrees that (a) you have full power and authority to accept the Terms, to grant the license and authorization and to perform the obligations hereunder; (b) your access and use the Sites and Services will be for business purposes only; and (c) for Members who are business entities, the address you provide when registering is the principal place of business of your business entity.  For purposes of this provision, a branch or liaison office will not be considered a separate entity and your principal place of business will be deemed to be that of your head office.
 
@@ -126,7 +128,7 @@ Alibaba.com shall be entitled to, at its sole discretion, determine whether the 
 If, at any time, you fail to meet any of the above requirements, you should stop using the Services immediately. If Alibaba.com reasonably believes that any of your conduct violates or threatens to violate any applicable laws and regulations, Alibaba.com may, at its sole discretion, at any time take action as it may deem appropriate in light of the circumstances, including, but not limited to, terminating the provision of Services to you, closing relevant purchase orders, and terminating your accounts, while reserving all rights it may have regarding any non-compliant actions or conduct of its members.
 
 6\. Breaches by Members
------------------------
+=======================
 
 6.1 Alibaba.com reserves the right in our sole discretion to remove, modify or reject any User Content (in whole or in part) that you submit to, post or display on the Sites which we reasonably believe (i) violates any applicable laws and regulations, (ii) violates the Terms hereunder, (iii) could subject Alibaba.com or our affiliates to liability, (iv) infringes any Third Party Rights, (v) could harm the interests of our Members, third party or Alibaba.com or our affiliates, or (vi) is otherwise found inappropriate in Alibaba.com’s sole discretion.
 
@@ -143,7 +145,7 @@ If, at any time, you fail to meet any of the above requirements, you should stop
 6.7 Each Member further agrees that Alibaba.com is not responsible, and shall have no liability to you or anyone else for any User Content or other material transmitted through the Sites or Services, including fraudulent, untrue, misleading, inaccurate, defamatory, offensive or illicit material and that the risk of damage from such User Content or other material rests entirely with the Member. Alibaba.com reserves the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by the Member, in which event the Member shall cooperate with Alibaba.com in asserting any available defenses.
 
 7\. Transactions Between Buyers and Sellers
--------------------------------------------
+===========================================
 
 7.1 Through the Sites, Alibaba.com provides electronic web-based platforms for exchanging information between buyers and sellers of products and services.  Alibaba.com additionally provides electronic web-based transaction platforms for Members to place, accept, conclude, manage and fulfill orders for the provision of products and services online within the Sites subject to the terms of the [Transaction Services Agreement](https://rule.alibaba.com/rule/detail/2054.htm).  However, for any Services, Alibaba.com does not represent either the seller or the buyer in specific transactions. Alibaba.com does not control and is not liable or responsible for the quality, safety, lawfulness or availability of the products or services offered for sale on the Sites, the ability of the sellers to complete a sale or the ability of buyers to complete a purchase. 
 
@@ -160,7 +162,7 @@ If, at any time, you fail to meet any of the above requirements, you should stop
 7.7 The sellers declare, and the buyers acknowledge, that all the contents the sellers provide contain commercial communications.
 
 8\. Limitation of Liability
----------------------------
+===========================
 
 8.1 TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SERVICES PROVIDED BY ALIBABA.COM ON OR THROUGH THE SITES ARE PROVIDED "AS IS", "AS AVAILABLE" AND “WITH ALL FAULTS”, AND ALIBABA.COM HEREBY EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, ANY WARRANTIES OF CONDITION, QUALITY, DURABILITY, PERFORMANCE, ACCURACY, RELIABILITY, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. ALL SUCH WARRANTIES, REPRESENTATIONS, CONDITIONS, AND UNDERTAKINGS ARE HEREBY EXCLUDED. 
 
@@ -181,12 +183,11 @@ If, at any time, you fail to meet any of the above requirements, you should stop
 8.9 The limitations and exclusions of liability to you under the Terms shall apply to the maximum extent permitted by law and shall apply whether or not Alibaba.com has been advised of or should have been aware of the possibility of any such losses arising.
 
 9\. Force Majeure
------------------
+=================
 
 9.1  Alibaba.com shall not be liable for or required to pay compensation of any nature whatsoever for any loss arising from the unavailability, inconvenience or failures of the services or systems due to the following reasons: (i) system shut-down for maintenance; (ii) inability to transmit data due to failures in communications terminals or telecommunications equipment; (iii) systems failure and inability to perform its functions due to force majeure events including but not limited to typhoons, earthquakes, tsunamis, floods, power failure, fires, storms, war, political unrest, labour strikes, shortage of labor or materials, riots, insurrections, civil disturbances, terrorist attack, explosions, acts of God, governmental actions, orders of domestic or foreign courts or tribunals, non-performance of third parties; or (iv) suspension or delay of services or systems failure due to reasons beyond the reasonable control of Alibaba.com such as hacker or cyber attacks, technical adjustments or failure of the telecommunications department, website upgrades, third party problems or any suspension or disruption of transportation or business operation (including but not limited to delays or disruption of the resumption of work or operation ordered by any government agency) in the event of a national or regional spread of epidemic or pandemic.
 
 10\. Intellectual Property Rights
----------------------------------
 
 10.1 Alibaba.com is the sole owner or lawful licensee of all the rights and interests in the Sites and the Site Content. The Sites and Site Content embody trade secrets and other intellectual property rights protected under worldwide copyright and other laws. All title, ownership and intellectual property rights in the Sites and Site Content shall remain with Alibaba.com, our affiliates or licensors, as the case may be. All rights not otherwise claimed under the Terms or by Alibaba.com are hereby reserved. 
 
@@ -197,11 +198,11 @@ If, at any time, you fail to meet any of the above requirements, you should stop
 10.4 To the largest extent permissible under applicable law, all rights, title and interest to all derivative work created by Alibaba.com and/or its affiliates using User Content pursuant to the Terms shall belong to Alibaba.com, which may be freely assignable, licensable or grantable by Alibaba.com to any third party or its affiliates.
 
 11\. Notices
-------------
+============
 
-### 11.1 Legal Notices
+11.1 Legal Notices
 
-11.1.1 All legal notices or demands to or upon Alibaba.com shall be made in writing and sent to Alibaba.com personally, by courier or certified mail to the following entity and address: Alibaba.com Hong Kong Limited/Alibaba.com Singapore E-Commerce Private Limited/Hangzhou Alibaba Advertising Co. Ltd (as the case maybe), 26/F Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong, Attn: Legal Department. The notices shall be effective when they are received by Alibaba.com in the above-mentioned manner.
+11.1.1All legal notices or demands to or upon Alibaba.com shall be made in writing and sent to Alibaba.com personally, by courier or certified mail to the following entity and address: Alibaba.com Hong Kong Limited/Alibaba.com Singapore E-Commerce Private Limited/Hangzhou Alibaba Advertising Co. Ltd (as the case maybe), 26/F Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong, Attn: Legal Department. The notices shall be effective when they are received by Alibaba.com in the above-mentioned manner.
 
 11.1.2 All legal notices or demands to or upon a User shall be effective if either delivered personally, sent by courier, certified mail, by facsimile or email to the last-known correspondence, fax or email address provided by the User to Alibaba.com, or by posting such notice or demand on an area of the Sites that is publicly accessible without a charge. Notice to a User shall be deemed to be received by such User if and when:
 
@@ -209,7 +210,11 @@ a) Alibaba.com is able to demonstrate that communication, whether in physical or
 
 11.1.3 You agree that all agreements, notices, demands, disclosures and other communications that Alibaba.com sends to you electronically will satisfy any legal requirement that such communication should be in writing.
 
-### 11.2  Notices of illicit content of EU and EEA Users
+11.1.4  The content posted by Users on Alibaba.com is monitored through both automated systems and manual review. Illegal content will be removed from the Sites.
+
+11.1.5  We reserve the right to suspend Services to any User who violates the rules of Alibaba.com available at our “Rules Center”. The decision to suspend Services will consider several factors, including but not limited to: (i) the number of items of manifestly illegal content or the number of notifications or unfounded complaints, submitted within a specific timeframe; (ii) the relative proportion of these items or notifications in relation to the total number of items of information provided or notifications submitted within the same timeframe; (iii) the severity of the misuse, which includes the nature of the illegal content and the consequences of such misuse; and (iv) the apparent intent of the User, where sufficiently evident.
+
+11.2  Notices of illicit content of EU and EEA Users
 
 11.2.1.  Notice mechanism. You may notify us specific pieces of information that you consider to be illegal content at “[Report abuse](https://my-health.alibaba.com/helpCenter/mainTab.htm)” through product listing page or by contacting our customer service through “[Help Center](https://service.alibaba.com/page/home?spm=a2700.product_home_l0.home_header.33.28a867afrNeqlc&pageId=122&language=en)”. Your notice should include the following:
 
@@ -223,12 +228,12 @@ a) Alibaba.com is able to demonstrate that communication, whether in physical or
 
 11.2.2.  Actions taken on notices. Where your notice contains electronic contact information, Alibaba.com will send a confirmation of receipt of the notice. After reviewing your notice, Alibaba.com will notify you of its decision in respect of the information to which the notice relates and provide you with information on the possibilities for redress.
 
-11.2.3.  Complaint-handling system. If you have submitted a notice, you may lodge a complaint within 6 months after you have been informed of Alibaba.com’s decision following your notice. You may lodge your complaint, using the form accessible at the “[Help Center](https://service.alibaba.com/page/home?spm=a2700.product_home_l0.home_header.33.28a867afrNeqlc&pageId=122&language=en)”. Alibaba.com will inform you of its decision in respect of the information to which the complaint related and of the possibility of out-of-court dispute settlement or other redress mechanisms. YOU ARE INFORMED THAT IF YOU FREQUENTLY SUBMIT NOTICES OR COMPLAINTS THAT ARE MANIFESTLY UNFOUNDED ALIBABA.COM MAY SUSPEND, AFTER ISSUING A PRIOR WARNING, THE PROCESSING OF YOUR NOTICES AND COMPLAINTS.
+11.2.3.  Complaint-handling system. If you have submitted a notice, you may lodge a complaint within 6 months after you have been informed of Alibaba.com’s decision following your notice. You may lodge your complaint, using the form accessible at the “[Help Center](https://service.alibaba.com/page/home?spm=a2700.product_home_l0.home_header.33.28a867afrNeqlc&pageId=122&language=en)”. Alibaba.com will inform you of its decision in respect of the information to which the complaint related and of the possibility of out-of-court dispute settlement or other redress mechanisms. YOU ARE INFORMED THAT IF YOU FREQUENTLY SUBMIT NOTICES OR COMPLAINTS THAT ARE MANIFESTLY UNFOUNDED ALIBABA.COM MAY SUSPEND, AFTER ISSUING A PRIOR WARNING, THE PROCESSING OF YOUR NOTICES AND COMPLAINTS. For example, when the User has abused the “Report” button by repeatedly reporting the same content(s), submitting large numbers of reports that do not violate our policies, using multiple accounts or technical means to attempt to bypass reporting rate limits.
 
 11.2.4.  Certified out-of-court dispute settlement. Where you have submitted a notice or lodged a complaint, you may select any certified out-of-court dispute settlement body in order to resolve dispute relating to Alibaba.com decisions following a notice or a complaint. In such case, you and Alibaba.com will engage, in good faith, with the selected certified out-of-court dispute settlement body with a view to resolving the dispute.
 
 12\. General Provisions
------------------------
+=======================
 
 12.1 Subject to any Additional Agreements, the Terms constitute the entire agreement between you and Alibaba.com with respect to and govern your use of the Sites and Services, superseding any prior written or oral agreements in relation to the same subject matter herein.
 
@@ -246,34 +251,30 @@ a) Alibaba.com is able to demonstrate that communication, whether in physical or
 
 12.8 If you have any comments on the Services we provide to you, you may contact our customer service support line ([https://service.alibaba.com/buyer?spm=a2700.8293689.0.0.643f65aasdVUJy&tracelog=footer\_hp\_buyer](https://service.alibaba.com/buyer?spm=a2700.8293689.0.0.643f65aasdVUJy&tracelog=footer_hp_buyer)) with any such feedback or questions.
 
-﻿[Chinese  version](https://rulechannel.alibaba.com/icbu?type=detail&ruleId=2091&cId=1301#/rule/detail?ruleId=2091&cId=1301)﻿
-
-Part B:  Old version - effective as of 5th of August, 2022
-==========================================================
+Part B: Old version -updated on 7th of February 2024, effective as of 17th of February 2024
+===========================================================================================
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY!
 
 Welcome to [www.alibaba.com](http://www.alibaba.com/)!  These Terms of Use describe the terms and conditions applicable to your access and use of the websites, mobile sites, mobile applications and other portals owned, operated, branded or made available by Alibaba.com (defined below) from time to time which relate to the Alibaba e-commerce platform including but not limited to the web and mobile-optimized versions of the websites identified by the uniform resource locator “www.alibaba.com” and the mobile applications of the Alibaba.com e-commerce platform (the “Sites”).  This document is a legally binding agreement between you as the user(s) of the Sites (referred to as “you”, “your” or “User” hereinafter) and the Alibaba.com contracting entity determined in accordance with clause 2.1 below (referred to as “we”, “our” or “Alibaba.com” hereinafter).
 
 1\. Application and Acceptance of the Terms
--------------------------------------------
 
-1.1 Your access to and use of the Sites and Alibaba.com’s services, software and products through the Sites, which shall include the platforms described in clause 7.1 of the Terms (such services, software and products collectively referred to as the “Services” hereinafter) is subject to the terms and conditions contained in this document as well as the [Privacy Policy](https://rulechannel.alibaba.com/icbu?type=detail&ruleId=2034&cId=1306#/rule/detail?ruleId=2034&cId=1306)(defined in clause 3.3 below), the [Product Listing Policy](https://rule.alibaba.com/rule/detail/2047.htm?spm=a271m.8038972.0.0.7d0e495bPfQfya)and any other rules and policies of the Sites that Alibaba.com may publish from time to time.  This document and such other rules and policies of the Sites are collectively referred to below as the “Terms”. By accessing and use of the Sites and Services, you agree to accept and be bound by the Terms.  Please do not access or use the Services or the Sites if you do not accept all of the Terms.   
+1.1 Your access to and use of the Sites and Alibaba.com’s services, software and products through the Sites, which shall include the platforms described in clause 7.1 of the Terms (such services, software and products collectively referred to as the “Services” hereinafter) is subject to the terms and conditions contained in this document as well as the [Privacy Policy](https://rulechannel.alibaba.com/icbu?type=detail&ruleId=2034&cId=1306#/rule/detail?ruleId=2034&cId=1306)(defined in clause 3.3 below), the [Product Listing Policy](https://rule.alibaba.com/rule/detail/2047.htm?spm=a271m.8038972.0.0.7d0e495bPfQfya)and any other rules and policies of the Sites that Alibaba.com may publish from time to time.  This document and such other rules and policies of the Sites are collectively referred to below as the “Terms”. By accessing and use of the Sites and Services, you agree to accept and be bound by the Terms.  Please do not access or use the Services or the Sites if you do not accept all of the Terms.   
 
-1.2 You may not access or use the Services or the Sites and may not accept the Terms if (a) you are not of legal age to form a binding contract with Alibaba.com, or (b) you are not permitted to receive any Services under the laws of Hong Kong or other countries/regions including the country/region in which you are resident or from which you access and use the Services and the Sites.
+1.2 You may not access or use the Services or the Sites and may not accept the Terms if (a) you are not of legal age, for example, under 18 years old if you are in the European Union (EU) and the European Economic Area (EEA), to form a binding contract with Alibaba.com, or (b) you are not permitted to receive any Services under the laws of Hong Kong or other countries/regions including the country/region in which you are resident or from which you access and use the Services and the Sites.
 
-1.3 Alibaba.com may amend any Terms at any time by posting the relevant amended and restated Terms on the Sites.  By continuing to access or use the Services or the Sites, you agree that the amended and restated Terms will apply to you.  
+1.3 Alibaba.com may amend any Terms at any time by posting the relevant amended and restated Terms on the Sites.  Alibaba.com will inform you of any material change to the Terms by posting the relevant changes on the Sites. By continuing to access or use the Services or the Sites, you agree that the amended and restated Terms will apply to you.  
 
 1.4 If Alibaba.com has posted or provided a translation of the English language version of the Terms, you agree that the translation is provided for convenience only and that the English language version will govern your access to and use of the Services or the Sites.  
 
 1.5 You may be required to enter into separate agreement(s), whether online or offline, with Alibaba.com or our affiliate for any Service (or features within the Services) (each an “Additional Agreement”).  If there is any conflict or inconsistency between the Terms and an Additional Agreement, the Additional Agreement shall take precedence over the Terms only in relation to that Service (or feature within the Service) concerned.
 
-1.6 The Terms may not otherwise be modified except in writing by an authorized officer of Alibaba.com.   
+1.6 The Terms may not otherwise be modified except in writing by an authorized officer of Alibaba.com.  
 
 2\. Provision of Services
--------------------------
 
-2.1  If you are a registered member of any of the Sites, and you are from mainland China, you are contracting with Hangzhou Alibaba Advertising Co., Ltd.
+2.1 If you are a registered member of any of the Sites, and you are from mainland China, you are contracting with Hangzhou Alibaba Advertising Co., Ltd.
 
 If you are a registered member of any of the Sites, and you are from Hong Kong or Macau, the Alibaba.com contracting entity that you are contracting with is Alibaba.com Hong Kong Limited. 
 
@@ -294,9 +295,8 @@ If you are a registered member of any of the Sites, and either (a) you are from 
 Alibaba.com shall be entitled to, at its sole discretion, determine whether the Promotion Services or any part thereof will be available to you. 
 
 3\. Users Generally
--------------------
 
-3.1 As a condition of your access to and use of the Sites or Services, you agree that you will comply with all applicable laws and regulations when accessing or using the Sites or Services. 
+3.1 As a condition of your access to and use of the Sites or Services, you agree that you will comply with all applicable laws and regulations when accessing or using the Sites or Services.
 
 3.2 You agree that (a) you will not copy, reproduce, download, re-publish, sell, distribute or resell any Services or any information, text, images, graphics, video clips, sound, directories, files, databases or listings, etc available on or through the Sites (the “Site Content”), and (b) you will not copy, reproduce, download, compile or otherwise use any Site Content for the purposes of operating a business that competes with Alibaba.com, or otherwise commercially exploiting the Site Content. Systematic retrieval of Site Content from the Sites to create or compile, directly or indirectly, a collection, compilation, database or directory (whether through robots, spiders, automatic devices or manual processes) without written permission from Alibaba.com is prohibited. Use of any content or materials on the Sites for any purpose not expressly permitted in the Terms is prohibited.  
 
@@ -308,10 +308,9 @@ Alibaba.com shall be entitled to, at its sole discretion, determine whether the 
 
 3.6 You agree not to undertake any action which may undermine the integrity of Alibaba.com’s feedback system, such as leaving positive feedback for yourself using secondary Member IDs or through third parties or by leaving unsubstantiated negative feedback for another User. 
 
-3.7 By posting or displaying any logos, trademarks, service marks, brands, description/information in the product listings, and any other information, content or material  on the Sites (any of such information, content or material, collectively referred to as“User Content”) or providing any User Content to Alibaba.com and/or its affiliates and their respective representative(s), and to the extent permitted under applicable laws, you grant an irrevocable, perpetual, worldwide, royalty-free, and sub-licensable (through multiple tiers) license to Alibaba.com and/or its affiliates and their respective representative(s) to display, transmit, distribute, reproduce, publish, duplicate, adapt, modify, edit, translate, create derivative works using the User Content, remove any part of it (including, without limitation, the watermark or mark the User Content bears), and otherwise use any or all of the User Content in any form, media, or technology now known or not currently known in any manner, on the Sites, Alibaba Channels and/or Third Party Channels and for any purpose which may be beneficial, whether directly or indirectly, to Alibaba.com, the operation of the Sites, the provision of any Services and Promotion Services and/or the business of the User.  You confirm and warrant to Alibaba.com that you have all the rights, power and authority necessary to grant the above license and the User Content and use of such User Content (including derivative works) by Alibaba.com and/or its affiliates under such license is free from any infringement or violation of any Third Party Rights (as defined in clause 5.4 of the Terms). To the maximum extent permitted by law, you waive your right to enforce your Intellectual Property Rights in the User Content against Alibaba.com and/or its affiliates, assignees or sub-licensees in connection with use of such User Content in connection with the Services. Information that is protected under data protection laws will only be used and kept in compliance with those laws.
+3.7 By posting or displaying any logos, trademarks, service marks, brands, description/information in the product listings, and any other information, content or material  on the Sites (any of such information, content or material, collectively referred to as“User Content”) or providing any User Content to Alibaba.com and/or its affiliates and their respective representative(s), and to the extent permitted under applicable laws, you grant an irrevocable, perpetual, worldwide, royalty-free, and sub-licensable (through multiple tiers) license to Alibaba.com and/or its affiliates and their respective representative(s) to display, transmit, distribute, reproduce, publish, duplicate, adapt, modify, edit, translate, create derivative works using the User Content, remove any part of it (including, without limitation, the watermark or mark the User Content bears), and otherwise use any or all of the User Content in any form, media, or technology now known or not currently known in any manner, on the Sites, Alibaba Channels and/or Third Party Channels and for any purpose which may be beneficial, whether directly or indirectly, to Alibaba.com, the operation of the Sites, the provision of any Services and Promotion Services and/or the business of the User. You confirm and warrant to Alibaba.com that you have all the rights, power and authority necessary to grant the above license and the User Content and use of such User Content (including derivative works) by Alibaba.com and/or its affiliates under such license is free from any infringement or violation of any Third Party Rights (as defined in clause 5.4 of the Terms). To the maximum extent permitted by law, you waive your right to enforce your Intellectual Property Rights in the User Content against Alibaba.com and/or its affiliates, assignees or sub-licensees in connection with use of such User Content in connection with the Services. Information that is protected under data protection laws will only be used and kept in compliance with those laws.
 
 4\. Member Accounts
--------------------
 
 4.1 User must be registered on the Sites to access or use some Services (a registered User is also referred to as a “Member” below). Except with Alibaba.com’s approval, one User may only register one member account on the Sites. Alibaba.com may cancel or terminate a User’s member account if Alibaba.com has reasons to suspect that the User has concurrently registered or is in control of two or more member accounts. Further, Alibaba.com may reject User’s application for registration for any reason.
 
@@ -324,7 +323,6 @@ Alibaba.com shall be entitled to, at its sole discretion, determine whether the 
 4.5 Member acknowledges that sharing of your account with other persons, or allowing multiple users outside of your business entity to use your account (collectively, "multiple use"), may cause irreparable harm to Alibaba.com or other Users of the Sites. Member shall indemnify Alibaba.com, our affiliates, directors, employees, agents and representatives against any loss or damages (including but not limited to loss of profits) suffered as a result of the multiple use of your account. Member also agrees that in case of the multiple use of your account or Member’s failure to maintain the security of your account, Alibaba.com shall not be liable for any loss or damages arising from such a breach and shall have the right to suspend or terminate Member’s account without liability to the Member.
 
 5\. Member’s Responsibilities
------------------------------
 
 5.1 Each Member represents, warrants and agrees that (a) you have full power and authority to accept the Terms, to grant the license and authorization and to perform the obligations hereunder; (b) your access and use the Sites and Services will be for business purposes only; and (c) for Members who are business entities, the address you provide when registering is the principal place of business of your business entity.  For purposes of this provision, a branch or liaison office will not be considered a separate entity and your principal place of business will be deemed to be that of your head office.
 
@@ -340,13 +338,13 @@ Alibaba.com shall be entitled to, at its sole discretion, determine whether the 
 
 5.7 Member may not use the Sites, Services or member account to engage in activities which are identical or similar to Alibaba.com’s e-commerce marketplace business. 
 
-5.8 If Member provides a business referee, Member represents, warrants and agrees that you have obtained all necessary consents, approvals and waivers from such referee to (a) act as your business referee; (b) post and publish their contact details and information, reference letters and comments on their behalf; and (c) that third parties may contact such business referees to support claims or statements made about you. You further warrant and agree that all reference letters and comments are true and accurate and third parties may contact the business referees without the need to obtain your consent. 
+5.8 If Member provides a business referee, Member represents, warrants and agrees that you have obtained all necessary consents, approvals and waivers from such referee to (a) act as your business referee; (b) post and publish their contact details and information, reference letters and comments on their behalf; and (c) that third parties may contact such business referees to support claims or statements made about you. You further warrant and agree that all reference letters and comments are true and accurate and third parties may contact the business referees without the need to obtain your consent.
 
-5.9 Member agrees to provide all necessary information, materials and approval, and render all reasonable assistance and cooperation necessary for Alibaba.com’s provision of the Services, evaluating whether Member has breached the Terms and/or handling any complaint against the Member.  If Member’s failure to do so results in delay in, or suspension or termination of, the provision of any Service, Alibaba.com shall not be obliged to extend the relevant service period nor be liable for any loss or damages arising out of or in connection with such delay, suspension or termination. 
+5.9 Member agrees to provide all necessary information, materials and approval, and render all reasonable assistance and cooperation necessary for Alibaba.com’s provision of the Services, evaluating whether Member has breached the Terms and/or handling any complaint against the Member.  If Member’s failure to do so results in delay in, or suspension or termination of, the provision of any Service, Alibaba.com shall not be obliged to extend the relevant service period nor be liable for any loss or damages arising out of or in connection with such delay, suspension or termination.
 
 5.10 Member acknowledges and agrees that Alibaba.com reserves the right to, but shall not be required to actively monitor or exercise any editorial control whatsoever over the content of any message or material or information (including User Content) created, obtained or accessible through the Services or Sites. Alibaba.com does not endorse, verify or otherwise certify the contents of any comments or other material or information (including User Content) created, submitted, posted, displayed or otherwise made by any Member. Each Member is solely responsible for the contents of their communications and may be held legally liable or accountable for the content of their comments or other material or information 
 
-5.11 Member acknowledges and agrees that the Sites and Services may only be used by businesses and their representatives for business use and not for individual consumers or for personal use. 
+5.11 Member acknowledges and agrees that the Sites and Services may only be used by businesses and their representatives for business use and not for individual consumers or for personal use.
 
 5.12 Member acknowledges and agrees that each Member is solely responsible for observing applicable laws and regulations in its respective jurisdictions to ensure that all access and use of the Site and Services are in compliance with the same.
 
@@ -366,10 +364,11 @@ Alibaba.com shall be entitled to, at its sole discretion, determine whether the 
 
 (g) You and your affiliates are responsible for your products' compliance with the laws and regulations of the local country/region, the country/region of destination and other applicable international conventions, including but not limited to labour laws and standards, such as the Forced Labour Convention, 1930 and the Abolition of Forced Labour Convention, 1957. If a product is not permitted to be possessed, sold, purchased, exported, imported or manufactured in one or more country/regions, Sites reserve the right to remove the listing of such product from, OR STOP THE SALE OF ANY SUCH PRODUCT IN, those country/regions.
 
-If, at any time, you fail to meet any of the above requirements, you should stop using the Services immediately. If Alibaba.com reasonably believes that any of your conduct violates or threatens to violate any applicable laws and regulations, Alibaba.com may, at its sole discretion, at any time take action as it may deem appropriate in light of the circumstances, including, but not limited to, terminating the provision of Services to you, closing relevant purchase orders, and terminating your accounts, while reserving all rights it may have regarding any non-compliant actions or conduct of its members.
+(h) you certify and commit that the products and services that you offer to the Users in the EU comply with the applicable rules of EU law.
+
+If, at any time, you fail to meet any of the above requirements, you should stop using the Services immediately. If Alibaba.com reasonably believes that any of your conduct violates or threatens to violate any applicable laws and regulations, Alibaba.com may, at its sole discretion, at any time take action as it may deem appropriate in light of the circumstances, including, but not limited to, terminating the provision of Services to you, closing relevant purchase orders, and terminating your accounts, while reserving all rights it may have regarding any non-compliant actions or conduct of its members.
 
 6\. Breaches by Members
------------------------
 
 6.1 Alibaba.com reserves the right in our sole discretion to remove, modify or reject any User Content (in whole or in part) that you submit to, post or display on the Sites which we reasonably believe (i) violates any applicable laws and regulations, (ii) violates the Terms hereunder, (iii) could subject Alibaba.com or our affiliates to liability, (iv) infringes any Third Party Rights, (v) could harm the interests of our Members, third party or Alibaba.com or our affiliates, or (vi) is otherwise found inappropriate in Alibaba.com’s sole discretion.
 
@@ -377,7 +376,7 @@ If, at any time, you fail to meet any of the above requirements, yo
 
 6.3 Without limiting the generality of the provisions of the Terms, a Member would be considered as being in breach of the Terms in any of the following circumstances: a) upon complaint or claim from any third party, Alibaba.com has reasonable grounds to believe that such Member has willfully or materially failed to perform your contract with such third party including without limitation where a Member who supplies products or services using the Sites and Services has failed to deliver any items ordered by such third party after receipt of the purchase price, or where the items such Member has delivered materially fail to meet the terms and descriptions outlined in your contract with such third party, b) Alibaba.com has reasonable grounds to suspect that such Member has used a stolen credit card or other false or misleading information in any transaction with a counter party, c) Alibaba.com has reasonable grounds to suspect that any information provided by the Member is not current or complete or is untrue, inaccurate, or misleading, or d) Alibaba.com believes that the Member’s actions may cause financial loss or legal liability to Alibaba.com or our affiliates or any other Users. 
 
-6.4 Alibaba.com reserves the right to cooperate fully with governmental or regulatory authorities, law enforcement bodies, private investigators and/or injured third parties in the investigation of any suspected criminal or civil wrongdoing.  Further, to the extent permitted by applicable laws and policies, Alibaba.com may disclose the Member's identity, contact information and/or information regarding the Member's account(s), transactions or activities carried out on or via the Site, if requested by a government, regulatory or law enforcement body or an injured third party, or as a result of a subpoena or other legal action.  Alibaba.com shall not be liable for damages or results arising from such disclosure, and Member agrees not to bring any action or claim against Alibaba.com for such disclosure. 
+6.4 Alibaba.com reserves the right to cooperate fully with governmental or regulatory authorities, law enforcement bodies, private investigators and/or injured third parties in the investigation of any suspected criminal or civil wrongdoing. Further, to the extent permitted by applicable laws and policies, Alibaba.com may disclose the Member's identity, contact information and/or information regarding the Member's account(s), transactions or activities carried out on or via the Site, if requested by a government, regulatory or law enforcement body or an injured third party, or as a result of a subpoena or other legal action.  Alibaba.com shall not be liable for damages or results arising from such disclosure, and Member agrees not to bring any action or claim against Alibaba.com for such disclosure. 
 
 6.5 Alibaba.com may, at any time and in our reasonable discretion, impose limitations on, suspend or terminate the Member’s use of any Service or the Sites without being liable to the Member if Alibaba.com has received notice that the Member is in breach of any agreement or undertaking with any affiliate of Alibaba.com including without limitation Taobao, Alipay, China Yahoo! and such breach involves or is reasonably suspected to involve dishonest or fraudulent activities. Alibaba.com reserves the right to, but shall not be required to investigate such breach or request confirmation from the Member.
 
@@ -386,7 +385,6 @@ If, at any time, you fail to meet any of the above requirements, yo
 6.7 Each Member further agrees that Alibaba.com is not responsible, and shall have no liability to you or anyone else for any User Content or other material transmitted through the Sites or Services, including fraudulent, untrue, misleading, inaccurate, defamatory, offensive or illicit material and that the risk of damage from such User Content or other material rests entirely with the Member. Alibaba.com reserves the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by the Member, in which event the Member shall cooperate with Alibaba.com in asserting any available defenses.
 
 7\. Transactions Between Buyers and Sellers
--------------------------------------------
 
 7.1 Through the Sites, Alibaba.com provides electronic web-based platforms for exchanging information between buyers and sellers of products and services.  Alibaba.com additionally provides electronic web-based transaction platforms for Members to place, accept, conclude, manage and fulfill orders for the provision of products and services online within the Sites subject to the terms of the [Transaction Services Agreement](https://rule.alibaba.com/rule/detail/2054.htm).  However, for any Services, Alibaba.com does not represent either the seller or the buyer in specific transactions. Alibaba.com does not control and is not liable or responsible for the quality, safety, lawfulness or availability of the products or services offered for sale on the Sites, the ability of the sellers to complete a sale or the ability of buyers to complete a purchase. 
 
@@ -400,8 +398,9 @@ If, at any time, you fail to meet any of the above requirements, yo
 
 7.6 In the event that any User has a dispute with any party to a transaction, such User agrees to release and indemnify Alibaba.com (and our agents, affiliates, directors, officers and employees) from all claims, demands, actions, proceedings, costs, expenses and damages (including without limitation any actual, special, incidental or consequential damages) arising out of or in connection with such dispute or the transaction.
 
+7.7 The sellers declare, and the buyers acknowledge, that all the contents the sellers provide contain commercial communications.
+
 8\. Limitation of Liability
----------------------------
 
 8.1 TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE SERVICES PROVIDED BY ALIBABA.COM ON OR THROUGH THE SITES ARE PROVIDED "AS IS", "AS AVAILABLE" AND “WITH ALL FAULTS”, AND ALIBABA.COM HEREBY EXPRESSLY DISCLAIMS ANY AND ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO, ANY WARRANTIES OF CONDITION, QUALITY, DURABILITY, PERFORMANCE, ACCURACY, RELIABILITY, MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE. ALL SUCH WARRANTIES, REPRESENTATIONS, CONDITIONS, AND UNDERTAKINGS ARE HEREBY EXCLUDED. 
 
@@ -411,23 +410,21 @@ If, at any time, you fail to meet any of the above requirements, yo
 
 8.4 The Sites may make available to User services or products provided by independent third parties.  No warranty or representation is made with regard to such services or products.  In no event shall Alibaba.com or our affiliates be held liable for any such services or products. 
 
-8.5 Each User hereby agrees to indemnify and hold Alibaba.com, our affiliates, directors, officers and employees harmless, from any and all losses, claims, liabilities (including legal costs on a full indemnity basis) which may arise from such User's access to or use of the Sites or Services (including but not limited to the submission, posting or display of such User's information and User Content on the Sites, Alibaba Channels or Third Party Channels under Promotion Services) or from your breach of any of the representations, warranties hereunder and the terms and conditions of the Terms. Each User hereby further agrees to indemnify and hold Alibaba.com, our affiliates, directors, officers and employees harmless, from any and all losses, damages, claims, liabilities (including legal costs on a full indemnity basis) which may arise from User's breach of any representations and warranties made by User to Alibaba.com, including but not limited to those set forth in clause 5 hereunder.   
+8.5 Each User hereby agrees to indemnify and hold Alibaba.com, our affiliates, directors, officers and employees harmless, from any and all losses, claims, liabilities (including legal costs on a full indemnity basis) which may arise from such User's access to or use of the Sites or Services (including but not limited to the submission, posting or display of such User's information and User Content on the Sites, Alibaba Channels or Third Party Channels under Promotion Services) or from your breach of any of the representations, warranties hereunder and the terms and conditions of the Terms. Each User hereby further agrees to indemnify and hold Alibaba.com, our affiliates, directors, officers and employees harmless, from any and all losses, damages, claims, liabilities (including legal costs on a full indemnity basis) which may arise from User's breach of any representations and warranties made by User to Alibaba.com, including but not limited to those set forth in clause 5 hereunder.  
 
 8.6 Each User hereby further agrees to indemnify and save Alibaba.com, our affiliates, directors, officers and employees harmless, from any and all losses, damages, claims, liabilities (including legal costs on a full indemnity basis) which may arise, directly or indirectly, as a result of any claims asserted by Third Party Rights claimants or other third parties relating to the User Content, information and/or products offered or displayed on the Sites. Each User hereby further agrees that Alibaba.com is not responsible and shall have no liability to you, for any material posted by others, including defamatory, offensive or illicit material and that the risk of damages from such material rests entirely with each User. Alibaba.com reserves the right, at our own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, in which event you shall cooperate with Alibaba.com in asserting any available defenses. 
 
 8.7 Alibaba.com shall not be liable for any special, direct, indirect, punitive, incidental or consequential damages or any damages whatsoever (including but not limited to damages for loss of profits or savings, business interruption, loss of information), whether in contract, negligence, tort, equity or otherwise or any other damages resulting from any of the following: a) the use or the inability to use the Sites or Services; b) any defect in goods, samples, data, information or services purchased or obtained from a User or any other third party through the Sites or Services; c) violation of Third Party Rights or claims or demands that User's manufacture, importation, exportation, distribution, offer, display, purchase, sale and/or use of products or services offered or displayed on the Sites or through the Services may violate or may be asserted to violate Third Party Rights; or claims by any party that they are entitled to defense or indemnification in relation to assertions of rights, demands or claims by Third Party Rights claimants; d) unauthorized access by third parties to data or private information of any User; e) statements or conduct of any User of the Sites or Services; or; f) any matters relating to the Sites or Services, however arising, including negligence. 
 
-8.8 Notwithstanding any of the foregoing provisions, the aggregate liability of Alibaba.com, our employees, agents, affiliates, representatives or anyone acting on our behalf with respect to each User for all claims arising from the access to or use of the Sites or Services during any calendar year shall be limited to the greater of (a) the amount of fees the User has paid to Alibaba.com in exchange for the access to or use of the Site or Services during the calendar year and (b) the maximum amount permitted under the applicable law. The preceding sentence shall not preclude the requirement by the User to prove actual damages. All claims arising from the use of the Sites or Services must be filed within one (1) year from the date the cause of action arose or such longer period as prescribed under the applicable law governing the Terms. 
+8.8 Notwithstanding any of the foregoing provisions, the aggregate liability of Alibaba.com, our employees, agents, affiliates, representatives or anyone acting on our behalf with respect to each User for all claims arising from the access to or use of the Sites or Services during any calendar year shall be limited to the greater of (a) the amount of fees the User has paid to Alibaba.com in exchange for the access to or use of the Site or Services during the calendar year and (b) the maximum amount permitted under the applicable law. The preceding sentence shall not preclude the requirement by the User to prove actual damages. All claims arising from the use of the Sites or Services must be filed within one (1) year from the date the cause of action arose or such longer period as prescribed under the applicable law governing the Terms.
 
 8.9 The limitations and exclusions of liability to you under the Terms shall apply to the maximum extent permitted by law and shall apply whether or not Alibaba.com has been advised of or should have been aware of the possibility of any such losses arising.
 
 9\. Force Majeure
------------------
 
 9.1  Alibaba.com shall not be liable for or required to pay compensation of any nature whatsoever for any loss arising from the unavailability, inconvenience or failures of the services or systems due to the following reasons: (i) system shut-down for maintenance; (ii) inability to transmit data due to failures in communications terminals or telecommunications equipment; (iii) systems failure and inability to perform its functions due to force majeure events including but not limited to typhoons, earthquakes, tsunamis, floods, power failure, fires, storms, war, political unrest, labour strikes, shortage of labor or materials, riots, insurrections, civil disturbances, terrorist attack, explosions, acts of God, governmental actions, orders of domestic or foreign courts or tribunals, non-performance of third parties; or (iv) suspension or delay of services or systems failure due to reasons beyond the reasonable control of Alibaba.com such as hacker or cyber attacks, technical adjustments or failure of the telecommunications department, website upgrades, third party problems or any suspension or disruption of transportation or business operation (including but not limited to delays or disruption of the resumption of work or operation ordered by any government agency) in the event of a national or regional spread of epidemic or pandemic.
 
 10\. Intellectual Property Rights
----------------------------------
 
 10.1 Alibaba.com is the sole owner or lawful licensee of all the rights and interests in the Sites and the Site Content. The Sites and Site Content embody trade secrets and other intellectual property rights protected under worldwide copyright and other laws. All title, ownership and intellectual property rights in the Sites and Site Content shall remain with Alibaba.com, our affiliates or licensors, as the case may be. All rights not otherwise claimed under the Terms or by Alibaba.com are hereby reserved. 
 
@@ -438,20 +435,38 @@ If, at any time, you fail to meet any of the above requirements, yo
 10.4 To the largest extent permissible under applicable law, all rights, title and interest to all derivative work created by Alibaba.com and/or its affiliates using User Content pursuant to the Terms shall belong to Alibaba.com, which may be freely assignable, licensable or grantable by Alibaba.com to any third party or its affiliates.
 
 11\. Notices
-------------
 
-11.1 All legal notices or demands to or upon Alibaba.com shall be made in writing and sent to Alibaba.com personally, by courier or certified mail to the following entity and address: Alibaba.com Hong Kong Limited/Alibaba.com Singapore E-Commerce Private Limited/Hangzhou Alibaba Advertising Co. Ltd (as the case maybe), 26/F Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong, Attn: Legal Department. The notices shall be effective when they are received by Alibaba.com in the above-mentioned manner.
+11.1 Legal Notices
 
-11.2 All legal notices or demands to or upon a User shall be effective if either delivered personally, sent by courier, certified mail, by facsimile or email to the last-known correspondence, fax or email address provided by the User to Alibaba.com, or by posting such notice or demand on an area of the Sites that is publicly accessible without a charge. Notice to a User shall be deemed to be received by such User if and when:
+11.1.1 All legal notices or demands to or upon Alibaba.com shall be made in writing and sent to Alibaba.com personally, by courier or certified mail to the following entity and address: Alibaba.com Hong Kong Limited/Alibaba.com Singapore E-Commerce Private Limited/Hangzhou Alibaba Advertising Co. Ltd (as the case maybe), 26/F Tower One, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong, Attn: Legal Department. The notices shall be effective when they are received by Alibaba.com in the above-mentioned manner.
+
+11.1.2 All legal notices or demands to or upon a User shall be effective if either delivered personally, sent by courier, certified mail, by facsimile or email to the last-known correspondence, fax or email address provided by the User to Alibaba.com, or by posting such notice or demand on an area of the Sites that is publicly accessible without a charge. Notice to a User shall be deemed to be received by such User if and when:
 
 a) Alibaba.com is able to demonstrate that communication, whether in physical or electronic form, has been sent to such User, or b) immediately upon Alibaba.com posting such notice on an area of the Sites that is publicly accessible without charge.
 
-11.3 You agree that all agreements, notices, demands, disclosures and other communications that Alibaba.com sends to you electronically will satisfy any legal requirement that such communication should be in writing.
+11.1.3 You agree that all agreements, notices, demands, disclosures and other communications that Alibaba.com sends to you electronically will satisfy any legal requirement that such communication should be in writing.
+
+11.2  Notices of illicit content of EU and EEA Users
+
+11.2.1.  Notice mechanism. You may notify us specific pieces of information that you consider to be illegal content at “[Report abuse](https://my-health.alibaba.com/helpCenter/mainTab.htm)” through product listing page or by contacting our customer service through “[Help Center](https://service.alibaba.com/page/home?spm=a2700.product_home_l0.home_header.33.28a867afrNeqlc&pageId=122&language=en)”. Your notice should include the following:
+
+(a)  a sufficiently substantiated explanation of the reasons why you allege the information in question to be illegal content;
+
+(b)  a clear indication of the exact electronic location of that information (such as the exact URL or URLs, and, where necessary, additional information enabling the identification of the illegal content);
+
+(c)  your name and email address, except in the case of information considered to involve one of the offences referred to in Articles 3 to 7 of Directive 2011/93/EU (sexual abuse and sexual exploitation of children and child pornography);
+
+(d)  a statement confirming your bona fide belief that the information and allegations contained therein are accurate and complete.
+
+11.2.2.  Actions taken on notices. Where your notice contains electronic contact information, Alibaba.com will send a confirmation of receipt of the notice. After reviewing your notice, Alibaba.com will notify you of its decision in respect of the information to which the notice relates and provide you with information on the possibilities for redress.
+
+11.2.3.  Complaint-handling system. If you have submitted a notice, you may lodge a complaint within 6 months after you have been informed of Alibaba.com’s decision following your notice. You may lodge your complaint, using the form accessible at the “[Help Center](https://service.alibaba.com/page/home?spm=a2700.product_home_l0.home_header.33.28a867afrNeqlc&pageId=122&language=en)”. Alibaba.com will inform you of its decision in respect of the information to which the complaint related and of the possibility of out-of-court dispute settlement or other redress mechanisms. YOU ARE INFORMED THAT IF YOU FREQUENTLY SUBMIT NOTICES OR COMPLAINTS THAT ARE MANIFESTLY UNFOUNDED ALIBABA.COM MAY SUSPEND, AFTER ISSUING A PRIOR WARNING, THE PROCESSING OF YOUR NOTICES AND COMPLAINTS.
+
+11.2.4.  Certified out-of-court dispute settlement. Where you have submitted a notice or lodged a complaint, you may select any certified out-of-court dispute settlement body in order to resolve dispute relating to Alibaba.com decisions following a notice or a complaint. In such case, you and Alibaba.com will engage, in good faith, with the selected certified out-of-court dispute settlement body with a view to resolving the dispute.
 
 12\. General Provisions
------------------------
 
-12.1 Subject to any Additional Agreements, the Terms constitute the entire agreement between you and Alibaba.com with respect to and govern your use of the Sites and Services, superseding any prior written or oral agreements in relation to the same subject matter herein. 
+12.1 Subject to any Additional Agreements, the Terms constitute the entire agreement between you and Alibaba.com with respect to and govern your use of the Sites and Services, superseding any prior written or oral agreements in relation to the same subject matter herein.
 
 12.2 Alibaba.com and you are independent contractors, and no agency, partnership, joint venture, employee-employer or franchiser-franchisee relationship is intended or created by the Terms. 
 
@@ -467,4 +482,4 @@ a) Alibaba.com is able to demonstrate that communication, whether in physical or
 
 12.8 If you have any comments on the Services we provide to you, you may contact our customer service support line ([https://service.alibaba.com/buyer?spm=a2700.8293689.0.0.643f65aasdVUJy&tracelog=footer\_hp\_buyer](https://service.alibaba.com/buyer?spm=a2700.8293689.0.0.643f65aasdVUJy&tracelog=footer_hp_buyer)) with any such feedback or questions.
 
-﻿[Chinese version](https://rulechannel.alibaba.com/icbu?type=detail&ruleId=2091&cId=1301#/rule/detail?ruleId=2091&cId=1301)
+﻿[Chinese  version](https://rulechannel.alibaba.com/icbu?type=detail&ruleId=2091&cId=1301#/rule/detail?ruleId=2091&cId=1301)
