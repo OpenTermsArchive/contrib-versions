@@ -215,7 +215,7 @@ OPAY DIGITAL SERVICES LIMITED
 
 Alexander House, Plot 9, Nurudeen Olowopopo Way, Alausa-Ikeja, Lagos, Nigeria.
 
-Email: [ng-privacy@opay-inc.com](mailto:ng-privacy@opay-inc.com)
+Email: [\[email protected\]](https://www.opayweb.com/cdn-cgi/l/email-protection)
 
 Company
 
@@ -249,31 +249,23 @@ OPay Office
 
 HQ:Alexander House, Plot 9, Dr.Nurudeen Olowopopo Avenue, Alausa, Lagos
 
-Customer Service Centers
-
-ABUJA:Uyk Hexahub Plaza, Balanga Cresent off Uke Street by Bolton White Hotel, opposite Hawthrone Suites, Garki 11, Abuja
-
-LAGOS, ALLEN IKEJA:No 103 Mosesola House, Allen Road, Ikeja Lagos
-
-LAGOS, FESTAC:4th Avenue A Close, Festac Town Beside Quincess School, Festac, Lagos
+OPay Office Address
 
 LAGOS,IKORODU:78B Lagos Road Ikorodu Beside Micro Station Slot
 
-ABEOKUTA:Dolly House Opposite Laroy Hotel, Abiola Way
+LAGOS, FESTAC:4th Avenue A Close, Festac Town Beside Quincess School, Festac, Lagos
 
 IBADAN:Tricennial House, 189B, Fajuyi Road, Beside Ideal Consult, Opposite Thermocool Showroom, Along Adamasingba road, Eleganza, Ibadan
 
-GOOD:Thilda'S Center, Shop 12 Opposit Gig Logistics Dadin Kowa 3Rd Gate Jos
+ABEOKUTA:Dolly House Opposite Laroy Hotel, Abiola Way
 
-KADUNA:Asd City Mall Katsina Road By Independent Way,Kaduna State
-
-KANO:Amana Plaza Second Floor Beside Shoprite Zoo Road,Kano State
-
-OSOGBO:Opposite Technical Besides Arowolo Filling Station Osogbo, Osun State
+JOS:Thilda'S Center, Shop 12 Opposit Gig Logistics Dadin Kowa 3Rd Gate Jos
 
 BENUE:Chiventis Plaza, Atom Kpera OAD, Modern Market
 
 AKWA IBOM:Plot 104 Nsikak Eduok Ave, Homelight Properties, After Full Life Christian Centre, Two Lane Uyo
+
+DDDD\_LAGOS, ALLEN IKEJA":No 103 Mosesola House, Allen Road, Ikeja Lagos
 
 IMO:No.138 Tetlow Road, off Lagos Street
 
@@ -281,9 +273,11 @@ ABIA:135, Azikiwe by Yoke, Southabia State
 
 KOGI:No 100, 1BB Waymoremi House, Lokoja, Kog State
 
-PORTHARCOURT:Plot 79 Evo Road, opposite Medicine Mart Phamacy GRA Porthacout Rivers State
+EDO:5, Dawson Road opposite Felona Hotel, Benin City
 
-Edo:Elora Royal Event Centre N0.162 Benin Sapele Road, after Magistrate Court, before Eriaria junction, Benin City, Edo State
+KADUNA:Asd City Mall Katsina Road By Independent Way,Kaduna State
+
+AAAAABUJA\_:A0, UYK HexaHub, Area 11, Plot 1077A Balanga Cres, off Uke Street, Garki, Abuja
 
 download the OPay app
 
