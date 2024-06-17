@@ -207,7 +207,11 @@ Privacy Policy
 Privacy Policy
 --------------
 
-**Privacy Policy**
+We're updating our Privacy Policy. Read the updated Privacy Policy [here](https://miro.com/legal/privacy-policy-july-17/). The updates will go into effect on July 17, 2024.
+
+We're updating our Privacy Policy. Read the updated Privacy Policy [here](https://miro.com/legal/privacy-policy-july-17/). The updates will go into effect on July 17, 2024.
+
+We're updating our Privacy Policy. Read the updated Privacy Policy [here](https://miro.com/legal/privacy-policy-july-17/). The updates will go into effect on July 17, 2024.
 
 **Last updated: 18 October 2023** 
 
@@ -263,7 +267,7 @@ Miro may collect and receive Customer Content and other personal data (“**Othe
         
     * **Third-Party Services data.** A Customer may choose to use Third-Party Services. If Customer enables Third-Party Services, Miro may access and exchange Customer Content and Other Data with the Third-Party on Customer’s behalf, in accordance with our agreement with the Third-Party Services and any permissions granted by the Customer (including its Authorized User(s)).
         
-    * **Contactdata.** In accordance with the consent provided by your device or other third-party API, we process any contact information that an Authorized User chooses to import when using the Services.
+    * **Contact data.** In accordance with the consent provided by your device or other third-party API, we process any contact information that an Authorized User chooses to import when using the Services.
         
     * **Community data**. We also receive Other Data when submitted to our Websites or in other ways, such as if you participate in the Miro Community, Miro Academy, or Miroverse. This data is either submitted directly to the Services, or collected during Forums, Programs, contests, activities, events, or educational programs hosted by Miro (or a vendor).
         
