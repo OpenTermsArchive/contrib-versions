@@ -720,7 +720,7 @@ Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](h
 16. **DATA PROTECTION**
     1. Protecting our customer’s Personal Data is important to us.  Please see our Privacy Statement set out in the Appendix to this Contract for details of how we collect, use, store, share and protect your personal data in compliance with Data Protection Legislation.
     2. You acknowledge and agree that the Electric Vehicle Charging Point in conjunction with the Device Manufacture’s software will automatically download data to and from the Electric Vehicle Charging Point and this data will automatically be forwarded to Energia. Energia reserves the right to analyse this information for the purpose of evaluating the effectiveness of the Electric Vehicle Charging Point and improving its business services. 
-    3. Notwithstanding the generality of Clause 18.2 above, you have the right to request the erasure of your personal data obtained.  You should let us know if you require us to erase your personal data by contacting our Data Protection Officer at [Dataprotection@energia.ie](mailto:Dataprotection@energia.ie)or in writing addressed to Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H. .
+    3. Notwithstanding the generality of Clause 18.2 above, you have the right to request the erasure of your personal data obtained.  You should let us know if you require us to erase your personal data by contacting our Data Protection Officer at [Dataprotection@energia.ie](mailto:Dataprotection@energia.ie)or in writing addressed to Data Protection Officer, The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H. .
 17. GENERAL
     1. Assignment and other dealings.
         1. Energia may at any time assign, transfer, mortgage, charge, subcontract or deal in any other manner with all or any of its rights or obligations under the Contract.
@@ -743,7 +743,7 @@ Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](h
     2. prevent or restrict the further exercise of that or any other right or remedy.
 6. **Severance**. If any provision or part-provision of the Contract is or becomes invalid, illegal or unenforceable, it shall be deemed modified to the minimum extent necessary to make it valid, legal and enforceable. If such modification is not possible, the relevant provision or part-provision shall be deemed deleted. Any modification to or deletion of a provision or part-provision under this paragraph shall not affect the validity and enforceability of the rest of the Contract.
 7. **Notices**.
-    1. Any notice or other communication given to a party under or in connection with the Contract shall be in writing, addressed to Energia at The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H and the Customer to its address specified in its order or such other address as that party may have specified to the other party in writing in accordance with this paragraph, and shall be delivered personally, sent by pre-paid first class post or other next working day delivery service, commercial courier, or email.
+    1. Any notice or other communication given to a party under or in connection with the Contract shall be in writing, addressed to Energia at The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H and the Customer to its address specified in its order or such other address as that party may have specified to the other party in writing in accordance with this paragraph, and shall be delivered personally, sent by pre-paid first class post or other next working day delivery service, commercial courier, or email.
     2. A notice or other communication shall be deemed to have been received: if delivered personally, when left at the address referred to in paragraph 19.7.1; if sent by pre-paid first class post or other next working day delivery service, at 9.00 am on the second Business Day after posting; if delivered by commercial courier, on the date and at the time that the courier's delivery receipt is signed; or, if sent by email, one Business Day after transmission.
     3. The provisions of this paragraph shall not apply to the service of any proceedings or other documents in any legal action.
 8. **Third party rights**. No one other than a party to this Contract shall have any right to enforce any of its terms.
@@ -762,12 +762,12 @@ Protecting our customer’s personal data is important to Energia. This Privacy 
 
 1. **Company Information**
 
-Energia is part of the Energia Group, the leading independent energy company in the all-Ireland market.  Energia is the trading name of Energia Customer Solutions Limited, a company registered in Ireland with company number 306035 and having its registered office at The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H. Further information can be found at [https://www.energia.ie/home](https://www.energia.ie/home) or [https://www.energiagroup.com/](https://www.energiagroup.com/).
+Energia is part of the Energia Group, the leading independent energy company in the all-Ireland market.  Energia is the trading name of Energia Customer Solutions Limited, a company registered in Ireland with company number 306035 and having its registered office at The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H. Further information can be found at [https://www.energia.ie/home](https://www.energia.ie/home) or [https://www.energiagroup.com/](https://www.energiagroup.com/).
 
 1. **Contact us**
 
 If you have questions as to the manner in which your personal data is being handled or if you require any further information you can contact the Data Protection Officer at [Dataprotection@energia.ie](mailto:Dataprotection@energia.ie) or by writing to the :  
-Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
+Data Protection Officer, The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
 
 1. **Protecting your Information**
 
@@ -811,7 +811,7 @@ The General Data Protection Regulation provides you with a number of rights unde
 
 1. **Right of access.** You have the right to be provided with details of the processing of your personal data and to obtain a copy of the personal data we hold about you, subject to applicable exemptions under data protection legislation. In order to make an access request please write to the Data Protection Officer at [Dataprotection@energia.ie](mailto:Dataprotection@energia.ie) or by writing to the:
 
-Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
+Data Protection Officer, The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
 
 1. **Right to rectification.** If the personal data we hold on you is inaccurate or incomplete you have the right to rectify such personal data and we would encourage you to ensure the personal data we hold on you is kept as up to date and accurate as possible.
 2. **Right to erasure.** In certain circumstances you have the right to request the deletion of your personal data where there is no compelling reason for us to continue processing it.
