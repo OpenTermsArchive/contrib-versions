@@ -10,7 +10,7 @@ Customers of Allstate’s insurance, investment and other financial products may
 privacy statement
 -----------------
 
-[download privacy statement](https://delivery.contenthub.allstate.com/api/public/content/3140e554e53b44dfa00a40f15fddca39?v=a9270b36&adobe_mc=MCMID%3D81691297492657930330480702829138199328%7CMCORGID%3D97021C8B53295DF30A490D4D%2540AdobeOrg%7CTS%3D1718647325)
+[download privacy statement](https://delivery.contenthub.allstate.com/api/public/content/3140e554e53b44dfa00a40f15fddca39?v=a9270b36)
 
 [en Español](https://espanol.allstate.com/sobre-allstate/declaracion-de-privacidad-aic.aspx)
 
@@ -182,7 +182,7 @@ California law provides residents with rights to know, access, correct and delet
 
 **Verified requests:** To protect you and your personal information, we will only respond to access or deletion requests that we have been able to properly verify through our authentication processes. To verify your identity, you will be asked to provide several pieces of personal information, such as name and demographic information, which we only use to verify your identity or authority to make the request.
 
-**Submitting a request:**To submit an access or deletion request, please visit [Access/Delete webpage](https://allstate.consumerprivacyinfo.com/?adobe_mc=MCMID%3D81691297492657930330480702829138199328%7CMCORGID%3D97021C8B53295DF30A490D4D%2540AdobeOrg%7CTS%3D1718647325) to submit an online request or call us at 1-800-624-4419. To submit a correction request, please visit [Correction webpage](https://allstatecorrections.consumerprivacyinfo.com/?adobe_mc=MCMID%3D81691297492657930330480702829138199328%7CMCORGID%3D97021C8B53295DF30A490D4D%2540AdobeOrg%7CTS%3D1718647325) to submit an online request or call us at [1-800-624-4419](tel:1-800-624-4419). Responses to a verified request may take up to 45 calendar days, or longer depending on the nature of the request. If additional time is needed, we will notify you of the additional time. We may only respond to two access requests within a 12-month period. Requests from authorized agents must be submitted via the same online portal or toll-free number but to protect your privacy, consumers will be required to verify their identity directly with us via our online portal or toll-free number.
+**Submitting a request:**To submit an access or deletion request, please visit [Access/Delete webpage](https://allstate.consumerprivacyinfo.com/) to submit an online request or call us at 1-800-624-4419. To submit a correction request, please visit [Correction webpage](https://allstatecorrections.consumerprivacyinfo.com/) to submit an online request or call us at [1-800-624-4419](tel:1-800-624-4419). Responses to a verified request may take up to 45 calendar days, or longer depending on the nature of the request. If additional time is needed, we will notify you of the additional time. We may only respond to two access requests within a 12-month period. Requests from authorized agents must be submitted via the same online portal or toll-free number but to protect your privacy, consumers will be required to verify their identity directly with us via our online portal or toll-free number.
 
 **Consumer request metrics:**
 
