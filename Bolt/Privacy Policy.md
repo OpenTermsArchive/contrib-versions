@@ -162,9 +162,7 @@ Here is a general explanation of each 'legal basis' that Bolt relies on to proce
 | **To reorganise or make changes to our business** | \- _Legitimate Interests_ - It is in our interest to process personal data for organisational and business planning purposes. | \- All Data |
 | **To ensure the security of the Bolt services (including the Bolt Platform and Bolt App)**  <br>  <br>Depending on the issue, All Data may be used for technical and cyber security reasons: for example measures for combating piracy and ensuring the security of the service, website, Bolt Platform and App as well as for making and storing back-up copies and preventing/repairing technical issues. | \- _Legitimate Interests_ - It is in our interest and in the interest of our Passengers to protect, guard and maintain Bolt’s security systems, respond to suspected or actual criminal acts and repair any technical issues. | \- All Data |
 
-When we process your personal data for a new purpose different from the purpose your personal data was originally collected for and we haven't asked for your consent, we will have to ensure that this new purpose is compatible with the initial purpose we collected it for. We will take into account any link between the two purposes and decide if the personal data can be used for this new purpose. Otherwise, we will take appropriate steps to ask for your consent or refrain from processing your personal data.
-
-### 5\. Who do we share your personal data with?
+When we process your personal data for a new purpose different from the purpose your personal data was originally collected for and we haven't asked for your consent, we will have to ensure that this new purpose is compatible with the initial purpose we collected it for. We will take into account any link between the two purposes and decide if the personal data can be used for this new purpose. Otherwise, we will take appropriate steps to ask for your consent or refrain from processing your personal data.### 5. Who do we share your personal data with?
 
 We may share your personal data with the following categories of recipients.
 
