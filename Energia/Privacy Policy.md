@@ -13,11 +13,11 @@ Protecting our customer’s personal data is important to Energia. This Privacy 
   
 **1.1 Company Information**
 
-Energia is part of the Energia Group, the leading independent energy company in the all-Ireland market.  Energia is the trading name of Energia Customer Solutions Limited a company registered in Ireland with company number 306035 and having its registered office at The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H. Further information can be found at [**https://www.energia.ie/home**](https://www.energia.ie/home) or **[https://www.energiagroup.com/](https://www.energiagroup.com/)****.** **1.2 Contact Us**
+Energia is part of the Energia Group, the leading independent energy company in the all-Ireland market.  Energia is the trading name of Energia Customer Solutions Limited a company registered in Ireland with company number 306035 and having its registered office at The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H. Further information can be found at [**https://www.energia.ie/home**](https://www.energia.ie/home) or **[https://www.energiagroup.com/](https://www.energiagroup.com/)****.** **1.2 Contact Us**
 
 If you have questions as to the manner in which your personal data is being handled or if you require any further information you can contact the Data Protection Officer at [**Dataprotection@energia.ie**](mailto:Dataprotection@energia.ie) or by writing to the :
 
-* Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
+* Data Protection Officer, The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
 
   
 **1.3 Statement Review**
@@ -299,7 +299,7 @@ You have the right to be provided with details of the processing of your persona
 
 In order to make an access request please email **[Dataprotection@energia.ie](mailto:Dataprotection@energia.ie)** or send your request in writing to the:
 
-* Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H
+* Data Protection Officer, The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H
 *   
     
 *   
