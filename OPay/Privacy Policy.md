@@ -251,33 +251,39 @@ HQ:Alexander House, Plot 9, Dr.Nurudeen Olowopopo Avenue, Alausa, Lagos
 
 OPay Office Address
 
-LAGOS,IKORODU:78B Lagos Road Ikorodu Beside Micro Station Slot
+ABUJA:Uyk Hexahub Plaza, Balanga Cresent off Uke Street by Bolton White Hotel, opposite Hawthrone Suites, Garki 11, Abuja
 
-LAGOS, FESTAC:4th Avenue A Close, Festac Town Beside Quincess School, Festac, Lagos
+LAGOS, ALLEN IKEJA:No 103 Mosesola House, Allen Road, Ikeja Lagos
 
-IBADAN:Tricennial House, 189B, Fajuyi Road, Beside Ideal Consult, Opposite Thermocool Showroom, Along Adamasingba road, Eleganza, Ibadan
+LAGOS, FESTAC:Plot 3084, 24 Sky Castle Plaza, Festac Access Road, beside Santiago hotel, Festac Town, Lagos
+
+LAGOS, IKORODU:No. 132B Lagos Road, Ikorodu Jumofak Bus Stop, Ikorodu, Lagos State
 
 ABEOKUTA:Dolly House Opposite Laroy Hotel, Abiola Way
 
-JOS:Thilda'S Center, Shop 12 Opposit Gig Logistics Dadin Kowa 3Rd Gate Jos
+IBADAN:Tricennial House, 189B, Fajuyi Road, Beside Ideal Consult, Opposite Thermocool Showroom, Along Adamasingba Road, Eleganza, Ibadan
+
+JOS:Thilda's Center, Shop 12 Opposit Gig Logistics Dadin Kowa 3Rd Gate Jos
+
+KADUNA:Asd City Mall Katsina Road By Independent Way, Kaduna State
+
+KANO:91/94 Ibrahim Taiwo Road Adjacent Azman filling Station, Fagge local government area, Kano
+
+OSOGBO:KLM 3, Gbongan Ibadan expressway, opposite Fakunle Justrite Mall, Osogbo, beside MTN office, Osun State
 
 BENUE:Chiventis Plaza, Atom Kpera OAD, Modern Market
 
 AKWA IBOM:Plot 104 Nsikak Eduok Ave, Homelight Properties, After Full Life Christian Centre, Two Lane Uyo
 
-DDDD\_LAGOS, ALLEN IKEJA":No 103 Mosesola House, Allen Road, Ikeja Lagos
-
 IMO:No.138 Tetlow Road, off Lagos Street
 
-ABIA:135, Azikiwe by Yoke, Southabia State
+ABIA:No 37 Okigwe Road, opposite Hotel De Ville Aba South LGA, Abia State
 
-KOGI:No 100, 1BB Waymoremi House, Lokoja, Kog State
+KOGI:No 36, 1BB Way, opposite Kogi State Revenue House, Lokoja, Kogi Stat
 
-EDO:5, Dawson Road opposite Felona Hotel, Benin City
+PORTHARCOURT:Plot 79 Evo Road, opposite Medicine Mart Pharmacy GRA Porthacout Rivers State
 
-KADUNA:Asd City Mall Katsina Road By Independent Way,Kaduna State
-
-AAAAABUJA\_:A0, UYK HexaHub, Area 11, Plot 1077A Balanga Cres, off Uke Street, Garki, Abuja
+EDO:5, Dawson Road, Opposite Felona Hotel, Benin City Edo State
 
 download the OPay app
 
