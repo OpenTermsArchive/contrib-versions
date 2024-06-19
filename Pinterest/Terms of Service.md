@@ -1,12 +1,44 @@
+Terms of Service
+
+Table of Contents
+
+[Thank you for using Pinterest!](https://policy.pinterest.com/en/terms-of-service#section-thank-you-for-using-pinterest)
+
+[1\. The Service](https://policy.pinterest.com/en/terms-of-service#section-1-the-service)
+
+[2\. Using Pinterest](https://policy.pinterest.com/en/terms-of-service#section-2-using-pinterest)
+
+[3\. Your User Content](https://policy.pinterest.com/en/terms-of-service#section-3-your-user-content)
+
+[4\. Intellectual Property](https://policy.pinterest.com/en/terms-of-service#section-4-intellectual-property)
+
+[5\. Security](https://policy.pinterest.com/en/terms-of-service#section-5-security)
+
+[6\. Third party links, sites, and services](https://policy.pinterest.com/en/terms-of-service#section-6-third-party-links-sites-and-services)
+
+[7\. Termination](https://policy.pinterest.com/en/terms-of-service#section-7-termination)
+
+[8\. Indemnity](https://policy.pinterest.com/en/terms-of-service#section-8-indemnity)
+
+[9\. Disclaimers](https://policy.pinterest.com/en/terms-of-service#section-9-disclaimers)
+
+[10\. Limitation of Liability](https://policy.pinterest.com/en/terms-of-service#section-10-limitation-of-liability)
+
+[11\. Arbitration](https://policy.pinterest.com/en/terms-of-service#section-11-arbitration)
+
+[12\. Governing law and jurisdiction](https://policy.pinterest.com/en/terms-of-service#section-12-governing-law-and-jurisdiction)
+
+[13\. General terms](https://policy.pinterest.com/en/terms-of-service#section-13-general-terms)
+
 Thank you for using Pinterest!
 
-These Terms of Service ("Terms") govern your access to and use of any website, app, service, technology, API, widget, platform, channel or any other products or features owned, operated, branded or offered by Pinterest (“Pinterest” or the “Service”), except where we expressly state that separate terms (and not these) apply. For the purposes of these Terms, “we” or “us” refers to the party with whom you are entering into this agreement, per Section 13(e) (Parties). Please read these Terms carefully, and contact us if you have any questions. 
+These Terms of Service ("Terms") govern your access to and use of any website, app, service, technology, API, widget, platform, channel or any other [products](https://help.pinterest.com/article/pinterest-products-and-services) or features owned, operated, branded or offered by Pinterest (“Pinterest” or the “Service”), except where we expressly state that separate terms (and not these) apply. For the purposes of these Terms, “we” or “us” refers to the party with whom you are entering into this agreement, per Section 13(e) (Parties). Please read these Terms carefully, and contact us if you have any questions.
 
 You may not use the Service to do or share anything that is contrary to these Terms. For clarity, these Terms include, and incorporate by reference, the following policies:
 
-* Our Community Guidelines, which explain what is and isn’t allowed on Pinterest;
-* Our Advertising Guidelines and Merchant Guidelines, which explain additional policies that apply to ads and merchants on Pinterest; and
-* Our Enforcement practices, which explain how we put our policies into practice, including restrictions we may impose on your content on or use of Pinterest.
+* Our [Community Guidelines](https://policy.pinterest.com/community-guidelines), which explain what is and isn’t allowed on Pinterest;
+* Our [Advertising Guidelines](https://policy.pinterest.com/advertising-guidelines) and [Merchant Guidelines](https://policy.pinterest.com/merchant-guidelines), which explain additional policies that apply to ads and merchants on Pinterest; and
+* Our [Enforcement](https://policy.pinterest.com/enforcement) practices, which explain how we put our policies into practice, including restrictions we may impose on your content on or use of Pinterest.
 
 By accessing or using Pinterest, you agree to be bound by these Terms. If you do not agree to our Terms, you must not access or use Pinterest.
 
@@ -16,7 +48,7 @@ Every company has its terms. These are ours. They include these Terms of Service
 
 1\. The Service
 
-Pinterest helps to bring everyone the inspiration to create a life they love. To do that, we show you things we think will be relevant, interesting and personal to you based on your onsite and offsite activity. To provide the Service, we need to be able to identify you and your interests, and we use your personal data to do this. For more information, please read our Privacy Policy. Some of the things we show you are promoted by advertisers. As part of the Service we try to ensure that even promoted content is relevant and interesting to you. You can identify promoted content because it will be clearly labeled.
+Pinterest helps to bring everyone the inspiration to create a life they love. To do that, we show you things we think will be relevant, interesting and personal to you based on your onsite and offsite activity. To provide the Service, we need to be able to identify you and your interests, and we use your personal data to do this. For more information, please read our [Privacy Policy](https://policy.pinterest.com/privacy-policy-preview). Some of the things we show you are promoted by advertisers. As part of the Service we try to ensure that even promoted content is relevant and interesting to you. You can identify promoted content because it will be clearly labeled.
 
 More simply put
 
@@ -26,13 +58,13 @@ Pinterest helps to bring everyone the inspiration to create a life they love. We
 
 a. Who can use Pinterest
 
-You may use Pinterest only if you follow these Terms and all applicable laws. Using Pinterest may include downloading software to your computer, phone, tablet or other device. You agree that we may automatically update that software, and these Terms will apply to any updates. When you create your Pinterest account, you must provide us with accurate and complete information. 
+You may use Pinterest only if you follow these Terms and all applicable laws. Using Pinterest may include downloading software to your computer, phone, tablet or other device. You agree that we may automatically update that software, and these Terms will apply to any updates. When you create your Pinterest account, you must provide us with accurate and complete information.
 
-Any use or access to Pinterest by anyone under the age of 13 is not allowed. If you are older than 13, you can use Pinterest if you are over the minimum age of consent in your country. If you are 13 to 18, you may only use the Service with the permission of your parent or legal guardian. Please be sure your parent or legal guardian has reviewed and discussed these Terms with you. 
+Any use or access to Pinterest by anyone under the age of 13 is not allowed. If you are older than 13, you can use Pinterest if you are over the minimum age of consent in your country. If you are 13 to 18, you may only use the Service with the permission of your parent or legal guardian. Please be sure your parent or legal guardian has reviewed and discussed these Terms with you.
 
-If we’ve previously disabled your account for violating these Terms, any of our policies or for legal reasons, you will not create a new Pinterest account without our express written permission, which is provided at our sole discretion. 
+If we’ve previously disabled your account for violating these Terms, any of our policies or for legal reasons, you will not create a new Pinterest account without our express written permission, which is provided at our sole discretion.
 
-In using Pinterest, you agree not to scrape, collect, search, copy or otherwise access data or content from Pinterest in unauthorized ways, such as by using automated means (without our express prior permission), or access or attempt to access data you do not have permission to access. 
+In using Pinterest, you agree not to scrape, collect, search, copy or otherwise access data or content from Pinterest in unauthorized ways, such as by using automated means (without our express prior permission), or access or attempt to access data you do not have permission to access.
 
 You may not use, access, download, or otherwise make available the Service (including related software), except as authorized by applicable trade restrictions, including but not limited to US, EU and UK sanctions and export controls. You agree not to use the Service for any purpose prohibited by applicable trade restrictions.
 
@@ -46,7 +78,7 @@ You may not permit Pinterest to be used by or for the benefit of unauthorized th
 
 c. Commercial use of Pinterest
 
-If you want to use Pinterest for commercial purposes, you must create a business account and agree to our Business Terms of Service. If you do open an account for a company, organization or other entity, then "you" includes you and that entity, and you represent and warrant that you are authorized to grant all permissions and licenses provided in these Terms and bind the entity to these Terms, and that you agree to these Terms on the entity's behalf. To the extent that any provisions in the Business Terms of Service conflict with these Terms, the Business Terms of Service shall govern to the extent of the conflict.
+If you want to use Pinterest for commercial purposes, you must create a business account and agree to our [Business Terms of Service](https://business.pinterest.com/business-terms-of-service). If you do open an account for a company, organization or other entity, then "you" includes you and that entity, and you represent and warrant that you are authorized to grant all permissions and licenses provided in these Terms and bind the entity to these Terms, and that you agree to these Terms on the entity's behalf. To the extent that any provisions in the [Business Terms of Service](https://business.pinterest.com/business-terms-of-service) conflict with these Terms, the [Business Terms of Service](https://business.pinterest.com/business-terms-of-service) shall govern to the extent of the conflict.
 
 More simply put
 
@@ -56,9 +88,9 @@ These Terms are an agreement between you and us. You cannot use Pinterest if you
 
 a. Posting User Content
 
-Pinterest allows you to post content, including photos, videos, comments, links, and other materials. For the purpose of these Terms, anything that you post or otherwise make available on Pinterest is referred to as "User Content." You retain all rights in, and are solely responsible for, the User Content you post to Pinterest. All User Content must comply with these Terms and our policies, including our Community Guidelines. 
+Pinterest allows you to post content, including photos, videos, comments, links, and other materials. For the purpose of these Terms, anything that you post or otherwise make available on Pinterest is referred to as "User Content." You retain all rights in, and are solely responsible for, the User Content you post to Pinterest. All User Content must comply with these Terms and our policies, including our [Community Guidelines](https://policy.pinterest.com/community-guidelines).
 
-You will only post User Content that you have the rights to post, and you won’t post User Content that infringes the intellectual property rights of others (e.g., copyright infringement, trademark infringement or counterfeit), or that is otherwise unlawful, unless an exception or limitation applies under applicable law. We can take action against User Content that violates these Terms or our policies or where we are permitted or required by law, such as by removing, restricting, or limiting access to, or distribution of, the content. We can also suspend or terminate accounts of users who repeatedly or seriously infringe third-party intellectual property rights, violate the law, these Terms, or our policies, or where permitted or required to do so by law. We are a neutral intermediary and we do not review all User Content before or after it is published on the Service, so we are not responsible or liable to any third party for the content or accuracy of any User Content posted by you or any other Pinterest user. For more information about how we enforce our policies or otherwise take action on content on Pinterest, see our Enforcement page. Where appropriate, you may appeal the decisions you think were made in error. You may have a right under local law to bring a claim for breach of contract if you believe we have breached these Terms by removing, restricting or limiting access to, or distribution of, your User Content, or suspending or terminating your account. Pinterest cannot provide you with legal advice.
+You will only post User Content that you have the rights to post, and you won’t post User Content that infringes the intellectual property rights of others (e.g., copyright infringement, trademark infringement or counterfeit), or that is otherwise unlawful, unless an exception or limitation applies under applicable law. We can take action against User Content that violates these Terms or our policies or where we are permitted or required by law, such as by removing, restricting, or limiting access to, or distribution of, the content. We can also suspend or terminate accounts of users who repeatedly or seriously infringe third-party intellectual property rights, violate the law, these Terms, or our policies, or where permitted or required to do so by law. We are a neutral intermediary and we do not review all User Content before or after it is published on the Service, so we are not responsible or liable to any third party for the content or accuracy of any User Content posted by you or any other Pinterest user. For more information about how we enforce our policies or otherwise take action on content on Pinterest, see our [Enforcement page](https://policy.pinterest.com/enforcement). Where appropriate, you may appeal the decisions you think were made in error. You may have a right under local law to bring a claim for breach of contract if you believe we have breached these Terms by removing, restricting or limiting access to, or distribution of, your User Content, or suspending or terminating your account. Pinterest cannot provide you with legal advice.
 
 More simply put
 
@@ -66,7 +98,7 @@ If you post your Content on Pinterest, it still belongs to you. In using Pintere
 
 b. How we and other users can use your User Content
 
-By providing any User Content on the Service, you grant us and our affiliates and service providers, and our users, a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, store, publicly perform or display, reproduce, save, modify, create derivative works, monetize, download, translate and distribute your User Content, including for the purpose of promoting and redistributing part or all of the Pinterest Service. Nothing in these Terms: (i) entitles you to any payments or the right to share in any revenue from any monetization of User Content; or (ii) restricts other legal rights we may have to User Content, for example under other licenses. We reserve the right to remove, limit distribution of, or modify User Content, or change the way it’s used in Pinterest. This not only includes User Content that we believe violates these Terms, but also our Community Guidelines, our Copyright Policy, our Trademark Policy or any of our other policies, or other circumstances where we feel such action is in the best interest of Pinterest or our Users.
+By providing any User Content on the Service, you grant us and our affiliates and service providers, and our users, a non-exclusive, royalty-free, transferable, sublicensable, worldwide license to use, store, publicly perform or display, reproduce, save, modify, create derivative works, monetize, download, translate and distribute your User Content, including for the purpose of promoting and redistributing part or all of the Pinterest Service. Nothing in these Terms: (i) entitles you to any payments or the right to share in any revenue from any monetization of User Content; or (ii) restricts other legal rights we may have to User Content, for example under other licenses. We reserve the right to remove, limit distribution of, or modify User Content, or change the way it’s used in Pinterest. This not only includes User Content that we believe violates these Terms, but also our [Community Guidelines](https://policy.pinterest.com/community-guidelines), our [Copyright Policy](https://policy.pinterest.com/copyright), our [Trademark Policy](https://policy.pinterest.com/trademark) or any of our other policies, or other circumstances where we feel such action is in the best interest of Pinterest or our Users.
 
 Content recommendations on Pinterest are made based on a combination of factors. Your recommendations are mainly influenced by how you engage with our Service, the topics we think you’re interested in and how interested you are in them, and what other users who share your similar characteristics and interests like. The relative importance of these criteria is influenced by how you engage with our Service, including how often you engage, your saves, and your hides.
 
@@ -90,7 +122,7 @@ We value hearing from our users and are always interested in learning about ways
 
 e. Our reporting channels
 
-Pinterest offers reporting channels that you may use to tell us about content on Pinterest that you think violates these Terms, our policies, or local law. We will review your report and take any appropriate action in a timely fashion. In using these channels, you agree to submit reports in good faith and not misuse any reporting or appeals channel by making baseless reports or appeals. Visit our Help Center to learn more about how to report content on Pinterest.
+Pinterest offers reporting channels that you may use to tell us about content on Pinterest that you think violates these Terms, our policies, or local law. We will review your report and take any appropriate action in a timely fashion. In using these channels, you agree to submit reports in good faith and not misuse any reporting or appeals channel by making baseless reports or appeals. Visit our Help Center to learn more about [how to report content](https://help.pinterest.com/article/report-something-on-pinterest) on Pinterest.
 
 More simply put
 
@@ -100,7 +132,7 @@ We appreciate your feedback and will use your suggestions and reporting to make 
 
 a. Copyright Policy and Trademark Policy
 
-Pinterest has adopted and implemented the Pinterest Copyright Policy and the Pinterest Trademark Policy in accordance with applicable intellectual property laws. For more information, please read our Copyright Policy and Trademark Policy.
+Pinterest has adopted and implemented the Pinterest Copyright Policy and the Pinterest Trademark Policy in accordance with applicable intellectual property laws. For more information, please read our [Copyright Policy](https://policy.pinterest.com/copyright) and [Trademark Policy](https://policy.pinterest.com/trademark).
 
 b. Pinterest Intellectual Property
 
@@ -118,7 +150,7 @@ We care about the security of our users. While we work to protect the security o
 
 More simply put
 
-You can help us keep your account and Pinterest secure by keeping these security tips in mind.
+You can help us keep your account and Pinterest secure by keeping [these security tips](https://help.pinterest.com/article/protect-your-account) in mind.
 
 6\. Third party links, sites, and services
 
@@ -130,11 +162,11 @@ We allow users to include links to content outside of Pinterest. We're not respo
 
 7\. Termination
 
-We may terminate or suspend your right to access or use Pinterest for any violation of these Terms. Where appropriate, we will provide you with written notice and you may appeal a decision you think was made in error. For more information about how we enforce our policies or otherwise take action on content on Pinterest, see our Enforcement page.  
+We may terminate or suspend your right to access or use Pinterest for any violation of these Terms. Where appropriate, we will provide you with written notice and you may appeal a decision you think was made in error. For more information about how we enforce our policies or otherwise take action on content on Pinterest, see our [Enforcement page](https://policy.pinterest.com/enforcement).  
   
   
   
-You may also terminate or delete your account at any time. You can learn how to delete your account in our Help Center.
+You may also terminate or delete your account at any time. You can learn [how to delete your account](https://help.pinterest.com/article/deactivate-or-close-your-account) in our Help Center.
 
 Upon termination, Sections 3, 8, 9, 10, 11, 12, and 13 of these Terms will continue to be operative.
 
@@ -144,7 +176,7 @@ Pinterest is provided to you for free. We reserve the right to refuse service to
 
 8\. Indemnity
 
-If you use Pinterest for commercial purposes without agreeing to our Business Terms as required by Section 2(c) of these Terms, you agree to indemnify and hold harmless Pinterest, Inc., Pinterest Europe Ltd., and their affiliates from any claims (including reasonable attorney’s fees) relating to your use of our Service. Pinterest reserves the right, at its own cost, to assume the exclusive defense and control of any matter otherwise subject to indemnification, in which event you will fully cooperate with Pinterest.
+If you use Pinterest for commercial purposes without agreeing to our [Business Terms](https://business.pinterest.com/business-terms-of-service) as required by Section 2(c) of these Terms, you agree to indemnify and hold harmless Pinterest, Inc., Pinterest Europe Ltd., and their affiliates from any claims (including reasonable attorney’s fees) relating to your use of our Service. Pinterest reserves the right, at its own cost, to assume the exclusive defense and control of any matter otherwise subject to indemnification, in which event you will fully cooperate with Pinterest.
 
 More simply put
 
@@ -186,13 +218,13 @@ If you are a consumer in the EEA or United Kingdom (UK), Section 11 doesn't appl
 
 For any dispute you have with us, you agree to first contact us and try to resolve the dispute informally. To the extent permitted by law, neither party may initiate any legal proceeding—whether in court, arbitration, or any other forum—until the Notice of Dispute and Informal Dispute Resolution processes described below are completed. Nothing in this Section, however, will prevent either you or us from seeking temporary injunctive relief in court (or in arbitration) to preserve the status quo or to help enforce this arbitration clause at the outset of any dispute.
 
-A party with a dispute must first send us a Notice of Dispute, which must include your full name; your Pinterest profile name (which begins @); the email address associated with your Pinterest account; your country of residence and, if you are a U.S. resident, your state of residence; your counsel, if you are represented by counsel; a detailed description of both the dispute and the alleged harm; and your signature. That information should be emailed to litigation \[at\] pinterest.com (litigation\[at\]pinterest\[dot\]com). The notice can only be sent on behalf of an individual party; a Notice of Dispute that asserts the rights of more than one party is ineffective. After receiving the Notice of Dispute, Pinterest will respond within 60 days to attempt to resolve the dispute amicably. After the 60-day period has elapsed, either party may initiate arbitration. 
+A party with a dispute must first send us a Notice of Dispute, which must include your full name; your Pinterest profile name (which begins @); the email address associated with your Pinterest account; your country of residence and, if you are a U.S. resident, your state of residence; your counsel, if you are represented by counsel; a detailed description of both the dispute and the alleged harm; and your signature. That information should be emailed to litigation@pinterest.com. The notice can only be sent on behalf of an individual party; a Notice of Dispute that asserts the rights of more than one party is ineffective. After receiving the Notice of Dispute, Pinterest will respond within 60 days to attempt to resolve the dispute amicably. After the 60-day period has elapsed, either party may initiate arbitration.
 
-**Arbitration**: If we haven’t been able to resolve the dispute through the mandatory processes above, you and we each agree to resolve any claim, dispute, or controversy arising out of or relating to these Terms or the Service through binding arbitration or, for qualifying claims, in small claims court. 
+**Arbitration**: If we haven’t been able to resolve the dispute through the mandatory processes above, you and we each agree to resolve any claim, dispute, or controversy arising out of or relating to these Terms or the Service through binding arbitration or, for qualifying claims, in small claims court.
 
-Arbitration is a more informal way to resolve our disagreements than a lawsuit in court. By accepting these Terms, you agree that the U.S. Federal Arbitration Act governs the interpretation and enforcement of this Section, and that you and Pinterest are each waiving the right to a trial by jury or to participate in a class action. The arbitrator also has exclusive authority to resolve any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement. 
+Arbitration is a more informal way to resolve our disagreements than a lawsuit in court. By accepting these Terms, you agree that the U.S. Federal Arbitration Act governs the interpretation and enforcement of this Section, and that you and Pinterest are each waiving the right to a trial by jury or to participate in a class action. The arbitrator also has exclusive authority to resolve any dispute relating to the interpretation, applicability, or enforceability of this binding arbitration agreement.
 
-Any arbitration will be administered by the American Arbitration Association ("AAA") under the applicable rules then in effect for the AAA. If the AAA rules conflict in any way with these Terms, the Terms will govern. You can find AAA’s forms at www.adr.org. The arbitrator shall issue a reasoned written decision explaining the essential findings and conclusions on which the award is based. A judgment on the arbitrator’s award may be entered in any court of competent jurisdiction. Where the AAA’s Consumer Arbitration Rules apply, if the arbitrator determines that a party’s claim was frivolous or brought for an improper purpose, the arbitrator must assign all fees and costs associated with the arbitration to that party. 
+Any arbitration will be administered by the American Arbitration Association ("AAA") under the applicable rules then in effect for the AAA. If the AAA rules conflict in any way with these Terms, the Terms will govern. You can find AAA’s forms at [www.adr.org](http://www.adr.org/). The arbitrator shall issue a reasoned written decision explaining the essential findings and conclusions on which the award is based. A judgment on the arbitrator’s award may be entered in any court of competent jurisdiction. Where the AAA’s Consumer Arbitration Rules apply, if the arbitrator determines that a party’s claim was frivolous or brought for an improper purpose, the arbitrator must assign all fees and costs associated with the arbitration to that party.
 
 All disputes must be brought in the party's individual capacity, and not as a member in any class or representative proceeding. You agree that, by entering into these Terms, you are waiving the right to a trial by jury or to participate in a class action.
 
