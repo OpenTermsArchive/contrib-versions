@@ -2,7 +2,7 @@ Your Privacy Rights
 
 ----------------------
 
-UPDATED AS OF: January 23, 2024
+UPDATED AS OF: June 18, 2024
 
 **Personal Information Sharing Practices for 2023**  
 
@@ -18,7 +18,7 @@ Your vehicle may be equipped with Connected Services that electronically transmi
 
 **Toyota Privacy Notice – Summary**
 
-This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on January 23, 2024.
+This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on June 18, 2024.
 
 **Information Collected**
 
@@ -70,7 +70,7 @@ To read our full Privacy Notice [click here.](#privacy)
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: January 23, 2024
+UPDATED AS OF: June 18, 2024
 
 Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information. Personal Information is sometimes also referred to as personal data, personally identifiable information or other like terms that mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household. Please read below and learn how we collect, protect, share, and use your Personal Information including information we collect as part of our technology Platforms (including, without limitation, our Toyota-owned and branded websites, web pages, interactive features, applications, and mobile applications that link to this Privacy Notice ("Platforms"), offline, and from other parties.
 
@@ -317,21 +317,21 @@ We do not charge a fee to process or respond to your verifiable consumer request
 You may only make a verifiable consumer request to know about or access your Personal Information twice within a 12-month period.
 
 **METRICS FOR REQUESTS BY CALIFORNIA RESIDENTS**  
-(January 1, 2022, to December 31, 2022)
-
-|     |     |     |     |     |
-| --- | --- | --- | --- | --- |
-| **Request Type** | **Total requests** | **Requests complied with in whole or in part** | **Requests denied** | **Median number of calendar days to complete requests in 2022** |
-| "Do Not Sell or Share My Personal Information" (Toyota and Lexus) | 9,773 | 8,641 | 1,132\* | 3   |
-| "Get My Personal Information" (Toyota and Lexus) | 353 | 155 | 198\*\* | 20  |
-| "Delete My Personal Information" (Toyota and Lexus) | 838 | 365 | 473\*\* | 12  |
-| **Total** | **10,964** | **9,161** | **1,803** |     |
+(January 1, 2023, to December 31, 2023)
 
   
 
-\*Includes California resident requests that failed matching with Toyota Motor North America's internal system of consumer records, any canceled California resident requests where the submission failed to register with Toyota Motor North America's privacy tool, or when a California resident consumer explicitly requested cancellation of their request.
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Request Type** | **“Do Not Sell Or Share My Personal Information”** | **“Delete My Personal Information”** | **“Get My Personal Information”** | **“Correct My Personal Information”** |
+| **Received** | 7,017 | 1,188 | 569 | 69  |
+| **Complied with in whole or in part** | 6,757 | 482 | 218 | 28  |
+| **Denied** | 260\* | 706\*\* | 351\*\* | 41\*\* |
+| **Median number of days to complete** | 3   | 13  | 18  | 5   |
 
-\*\*Includes those California resident requests that failed verification with Toyota Motor North America's third-party provider, failed matching with Toyota Motor North America's internal system of consumer records, any canceled California resident requests where the submission failed to register with Toyota Motor North America's privacy tool, or when a California resident consumer explicitly requested cancellation of their request.
+\*Failed matching with internal system of consumer records, or request canceled where the submission failed to register with privacy tool.
+
+\*\*Request not verifiable with third party provider, failed matching with internal system of consumer records, or request canceled where the submission failed to register with privacy tool.
 
 **13\. CONTACT US.**
 
