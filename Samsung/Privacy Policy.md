@@ -4,7 +4,7 @@ PRIVACY
 Privacy
 -------
 
- 
+   ![](//images.samsung.com/is/image/samsung/assets/ie/p6_gro2/p6_initial_info/header-bg-privacy.jpg?imwidth=1366)
 
 SAMSUNG PRIVACY POLICY HIGHLIGHTS
 ---------------------------------
