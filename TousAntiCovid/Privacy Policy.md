@@ -5,10 +5,10 @@
 
 [![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
 
-stopcovid.gouv.fr
+sante.gouv.fr
 
 
-===================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
 
  Rechercher :
 
@@ -642,7 +642,7 @@ Recherche
             
     
 
-* [Accueil](http://stopcovid.gouv.fr/) >
+* [Accueil](http://sante.gouv.fr/) >
 * [Soins et maladies](https://sante.gouv.fr/soins-et-maladies/) >
 * [Maladies](https://sante.gouv.fr/soins-et-maladies/maladies/) >
 * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/) >
@@ -772,10 +772,10 @@ Sauf mention contraire, tous les contenus de ce site sont sous [licence etalab-2
 
 [![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
 
-stopcovid.gouv.fr
+sante.gouv.fr
 
 
-===================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
 
  Rechercher :
 
@@ -1409,7 +1409,7 @@ Recherche
             
     
 
-* [Accueil](http://stopcovid.gouv.fr/) >
+* [Accueil](http://sante.gouv.fr/) >
 * [Soins et maladies](https://sante.gouv.fr/soins-et-maladies/) >
 * [Maladies](https://sante.gouv.fr/soins-et-maladies/maladies/) >
 * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/) >
@@ -1513,10 +1513,10 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 
 [![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
 
-stopcovid.gouv.fr
+sante.gouv.fr
 
 
-===================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
 
  Rechercher :
 
@@ -2157,21 +2157,10 @@ Recherche
 
 [![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
 
-stopcovid.gouv.fr
+sante.gouv.fr
 
 
-===================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
-
- Rechercher :
-
-Recherche 
-
-[![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
-
-stopcovid.gouv.fr
-
-
-===================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
 
  Rechercher :
 
@@ -2179,24 +2168,35 @@ Recherche
 
 [![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
 
-stopcovid.gouv.fr
+sante.gouv.fr
 
 
-===================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
 
-[![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
+ Rechercher :
 
-stopcovid.gouv.fr
-
-
-===================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+Recherche 
 
 [![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
 
-stopcovid.gouv.fr
+sante.gouv.fr
 
 
-===================================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+
+[![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
+
+sante.gouv.fr
+
+
+===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+
+[![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
+
+sante.gouv.fr
+
+
+===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
 
 ![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
 
@@ -6594,7 +6594,7 @@ Retour
 * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
 * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
 
-* [Accueil](http://stopcovid.gouv.fr/) >
+* [Accueil](http://sante.gouv.fr/) >
 * [Soins et maladies](https://sante.gouv.fr/soins-et-maladies/) >
 * [Maladies](https://sante.gouv.fr/soins-et-maladies/maladies/) >
 * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/) >
