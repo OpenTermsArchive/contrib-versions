@@ -54,7 +54,7 @@ The following is the binding and enforceable Terms of Service.
 
 Kraken.com Terms of Service
 
-Last Updated: May 30, 2024
+Last Updated: June 21, 2024
 
 Please read these Terms of Service (including all Annexes, “Terms”) carefully, as they are binding and govern your use of our services, and our websites (including kraken.com, and pro.kraken.com), and mobile applications through which you access our services (“Platforms”), along with any applicable third-party terms you may have agreed to as part of using or receiving our mobile applications (such as terms for the Apple App Store or Google Play, if applicable). If these Terms conflict with any such third-party terms, these Terms will control to the extent of the conflict. By accessing or using our services or Platforms, or by creating an account, you agree to these Terms. 
 
@@ -75,9 +75,8 @@ These Terms are a legally binding agreement between “you” (an individual, or
 * Payward International Markets Limited, Trinity Chambers, PO Box 4301, Road Town, Tortola, British Virgin Islands, if you live in the European Economic Area (except as noted above for VASP services if you live in Italy or Ireland, for BEL VASP services if you live in Belgium, ES VASP Services if you live in Spain Dutch VASP Services if you live in the Netherlands, or as noted below);
 * Payward Trading Ltd, 2nd floor, Water’s Edge Building, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands, if you live anywhere else in the world where we make our services available (except Canada, or as noted below);
 * Payward Commercial Ltd., Road Town PO Box 4301, Tortola British Virgin Islands, for those services set forth in Annex C;
-* Payward Trading Ltd, 2nd floor, Water’s Edge Building, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands, for those services set forth in Annex A (except if you live in the United States of America or Australia), Annex B, Annex D, and Annex E;
-* Payward Holdings MENA Ltd, Floor 7, Al Khatem Tower, ADGM Square, Al Maryah Island, Abu Dhabi, UAE, for those services set forth in Annex F; and
-* Payward Ireland Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296 for those services set forth in Section 1(c) of Annex G if you live in Ireland, the Netherlands, France, Spain, Belgium, Italy, Austria, Czech Republic, Lithuania or Poland (or Norway, Portugal, Romania, Slovakia, Sweden, Cyprus or Estonia from July 3, 2024 or Germany from July 10, 2024).
+* Payward Trading Ltd, 2nd floor, Water’s Edge Building, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands, for those services set forth in Annex A (except if you live in the United States of America or Australia), Annex B, Annex D, and Annex E; and
+* Payward Ireland Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296 for those services set forth in Section 1(c) of Annex F if you live in Ireland, the Netherlands, France, Spain, Belgium, Italy, Austria, Czech Republic, Lithuania or Poland (or Norway, Portugal, Romania, Slovakia, Sweden, Cyprus or Estonia from July 3, 2024 or Germany from July 10, 2024).
 
 If you live in Canada, the [Canadian Terms of Service](https://www.kraken.com/legal/ca-terms) are the binding agreement between you and Payward Canada, Inc.
 
@@ -116,9 +115,7 @@ Annex D: Opt-In Rewards Program
 
 Annex E: NFT Services
 
-Annex F: AED Annex
-
-Annex G: PIL Services
+Annex F: PIL Services
 
 1. Eligibility; Account
 
@@ -683,7 +680,7 @@ When you elect to stake a Digital Asset that is eligible for staking (each, a �
 
 Opting into On-Chain Staking Services & On-Chain Staking Reward Terms
 
-If you select to stake assets from your account, Payward Commercial will remit to you the applicable percentage of staking rewards received from the Supported Token protocol attributable to your staked Supported Tokens (“Staking Rewards”), provided that the applicable percentage and timing of such remittances will: (i) be determined by Payward Commercial in its sole discretion; (ii) be subject to Payward Commercial’s staking fee; (iii) vary by the Supported Token protocol; and (iv) be further detailed in your account. You understand and agree that we don't guarantee that you will receive Staking Rewards and that the applicable percentage (i) is an estimate only and not guaranteed, (ii) may change at any time in Payward Commercial’s sole discretion, and (iii) may be more or less than the actual Staking Rewards Payward Commercial receives from the Supported Token protocol. For all eligible stakeable assets, you understand and agree that Payward Commercial, in its sole discretion, may limit the amount of assets that you are able to stake. For stakeable assets eligible for Rewards, individual limits on staking will be updated from time to time and will be viewable [here](https://support.kraken.com/hc/en-us/articles/overview-of-rewards-on-kraken). Additionally, for standard Flexible Staking, we stake only a portion of the assets you select to stake on-chain; the remainder is held to ensure our ability to offer adequate liquidity in the relevant assets. When you elect to participate in Bonded Staking, you are instructing Payward Commercial Ltd. to commit the token to the relevant blockchain’s unbonding period and you won't be able to access your tokens during the specified period after you elect to unstake.
+If you select to stake assets from your account, Payward Commercial will remit to you the applicable percentage of staking rewards received from the Supported Token protocol attributable to your staked Supported Tokens (“Staking Rewards”), provided that the applicable percentage and timing of such remittances will: (i) be determined by Payward Commercial in its sole discretion; (ii) be subject to Payward Commercial’s staking fee; (iii) vary by the Supported Token protocol; and (iv) be further detailed in your account. You understand and agree that we don't guarantee that you will receive Staking Rewards and that the applicable percentage (i) is an estimate only and not guaranteed, (ii) may change at any time in Payward Commercial’s sole discretion, and (iii) may be more or less than the actual Staking Rewards Payward Commercial receives from the Supported Token protocol. For all eligible stakeable assets, you understand and agree that Payward Commercial, in its sole discretion, may limit the amount of assets that you are able to stake. For stakeable assets eligible for Rewards, individual limits on staking will be updated from time to time and will be viewable [here](https://support.kraken.com/hc/en-us/articles/overview-of-rewards-on-kraken). Additionally, for standard Flexible Staking, we stake only a portion of the assets you select to stake on-chain; the remainder is held to ensure our ability to offer adequate liquidity in the relevant assets. In the event that insufficient liquidity is available in a particular staked asset, we reserve the right, in our sole discretion, to delay the release of any of your remaining unstaked assets under the Flexible Staking program until after the relevant unbonding period has elapsed based on the blockchain protocol. When you elect to participate in Bonded Staking, you are instructing Payward Commercial Ltd. to commit the token to the relevant blockchain’s unbonding period and you won't be able to access your tokens during the specified period after you elect to unstake.
 
 Slashing Penalty
 
@@ -850,7 +847,7 @@ You grant us (including our affiliates, and any of our respective licensees, suc
 
 3. Authorization
 
-If you post, promote, display, store, solicit offers for, or sell an NFT, or create, transfer, or hold on or through or in connection with the NFT Services or a web3 Wallet (defined below) an NFT, you authorize and instruct us to include such NFT and all related User Submitted Content on our NFT Services and other NFT Platforms, and such NFT and you grant us a license to such User Submitted Content on the same terms as set forth in Section 2(b) above.
+If you post, promote, display, store, solicit offers for, or sell an NFT, or create, transfer, or hold on or through or in connection with the NFT Services or a web3 Wallet (defined below) an NFT, you authorize and instruct us to include such NFT and all related User Submitted Content on our NFT Services and other NFT Platforms, and you grant us a license to such NFT and User Submitted Content on the same terms as set forth in Section 2(b) above.
 
 4. Responsibility for Your User Submitted Content 
 
@@ -1024,123 +1021,9 @@ You agree to defend, indemnify, and hold harmless us and our officers, directors
 
 Annex F
 
-AED Annex
-
-This Annex F (“AED Annex”) applies to you in your capacity as a client of Payward MENA Holdings Limited (“Payward MENA”) with an account denominated in United Arab Emirates Dirham (AED) (a “Kraken AED Account”). This AED Annex incorporates by reference and supplements the Kraken.com Terms of Service (including all applicable Annexes thereto, “Terms”), and provides additional terms between you and Payward MENA with respect to AED Services (defined below). For clarity, Payward MENA is our affiliate and is deemed included in the terms “we”, “us”, “our”, “Kraken” or “Payward”. You acknowledge and agree that, except as expressly modified by this AED Annex, the Terms remain entirely binding and applicable to you and your use of the services. Capitalized terms used but not defined herein will have the meanings given to them in the Terms. In the event of a conflict between the main body of the Terms and this AED Annex, the terms of this AED Annex will control.
-
-1\. General
-
-(a)        Payward MENA has an address at Floor 7, Al Khatem Tower, ADGM Square, Al Maryah Island, Abu Dhabi, UAE. Its ultimate holding company is Payward, Inc., with an address at 100 Pine Street, Suite 1250, PMB B297, San Francisco, CA 94111, USA.
-
-(b)        Payward MENA is licensed by the Abu Dhabi Global Market (“ADGM”) Financial Services Regulatory Authority (“FSRA”) to operate a “Multilateral Trading Facility” (“MTF”) and for providing custody in relation to Digital Assets in or from the ADGM.
-
-(c)        This AED Annex, together with the terms, are between you and Payward MENA. They constitute a "Client Agreement" for the purposes of the FSRA Rules.
-
-(d)        In using the AED Services, you agree that you will comply with Payward MENA’s market rulebook, available [here](https://assets.kraken.com/marketing/legal/market-rulebook-1.pdf).
-
-(e)        For the purpose of clause 7(g) of this AED Annex, the only AED transactions taking place in the UAE are transfers of AED funds by you to credit a Kraken AED Account, and the transfer of AED funds out of your Kraken AED Account to your bank account in the UAE. All other transactions involving Payward MENA take place in the ADGM, and your Kraken AED Account is operated in the ADGM.
-
-2\. Services, AED Services and Restrictions. Not all services, or Digital Assets may be available to you when you choose to transact in AED. Payward MENA may make available to you some or all of the below listed services (collectively, the “AED Services”):
-
-(a)        Trading in Digital Assets via the MTF operated by Payward MENAs: This AED Service allows you to use your Kraken AED Account to trade Digital Assets. The list of Digital Assets which you may trade on the MTF is updated from time to time and can be found on our website;
-
-(b)        Custody of your Digital Assets: This AED Service consists of Payward MENA, whether directly or through third-parties, safeguarding, storing, holding or maintaining custody of Digital Assets on your behalf; and
-
-(c)        Other services: Any other additional or ancillary services or functionalities to the above AED Services, as Payward MENA is permitted to do so under its FSRA license and Applicable Laws and Regulations, as Payward MENA may notify you from time to time.
-
-3\. Payward MENA disclosures
-
-(a)        If you are eligible, you may be entitled to receive services from entity(ies) other than Payward MENA. Such entity(ies) may not be regulated by the ADGM, and/or may not be regulated at all.
-
-(b)        Changes in ADGM regulation (or any other applicable regulator) may adversely affect the use, transfer, exchange, and value of your Digital Asset(s).
-
-4\. Complaint handling procedures
-
-(a)        Any complaint in relation to any aspect of your relationship with us should be addressed to us [in accordance with our communications page](https://support.kraken.com/hc/en-us/articles/215601908) or by contacting such other email address or contact details as we notify to you from time to time.
-
-(b)        We'll make every reasonable effort to resolve your complaint within a reasonable period of time and in any event in no longer than sixty (60) calendar days from the time we receive your complaint, depending on the complexity and seriousness of your complaint and in accordance with our Complaints Policy published on our website.
-
-(c)        If you are not satisfied with our handling of a complaint or its outcome, you can contact the FSRA in one or more of the following ways:
-
-i. By email to: [fsra.Complaints@adgm.com](mailto:fsra.Complaints@adgm.com)
-
-ii. Write to FSRA at the following address: Financial Services Regulatory Authority, Abu Dhabi Global Market PO Box 111999, Abu Dhabi, United Arab Emirates.
-
-iii. Deliver the complaint at: Financial Services Regulatory Authority, Abu Dhabi Global Market Square, Al Maryah Island Abu Dhabi, United Arab Emirates.
-
-5\. Eligibility for a Kraken AED Account.
-
-(c)        Your use of the AED Services is subject to the laws, regulations, and rules of any governmental or regulatory authority that apply to Payward MENA, and those which might apply to you in your country of residence or where you normally reside or are domiciled, as enacted, replaced or amended from time to time (the “Applicable Laws and Regulations”). The Applicable Laws and Regulations in relation to Payward MENA include without limitation:
-
-i. The laws and regulations in force in the ADGM, including but not limited to those in relation to the protection of personal data and the FSRA Rules; and
-
-ii. The federal and emirate-level laws and regulations in force in the United Arab Emirates, to the extent applicable, including without limitation the relevant UAE legislation and implementing regulations on Financial Crime and confidentiality.
-
-(b)        Payward MENA can accept you as a client only after you satisfactorily clear all of the verifications that it's required to undertake in accordance with the Applicable Laws and Regulations, including for the prevention of Financial Crime, and after you have provided any information it requires to open your account. Therefore, you understand and agree that, regardless of whether you are a pre-existing Kraken client, Payward MENA will onboard you as a client only after it's satisfied that you meet its eligibility and other onboarding requirements (as may be updated and communicated to you from time to time), including (without limitation) that you (i) have the capacity to enter into binding agreements under the Applicable Laws and Regulations (ii) have had the opportunity to seek legal, accounting, taxation, or other professional advice regarding investing in Digital Assets or this AED Annex; (iii) have the technical competence to use the AED Services.
-
-6\. Additional Risks
-
-In addition to any previously disclosed risks in the Terms, you understand that:
-
-(a) Digital Assets are not legal tender or backed by a government;
-
-(b) There is no established procedure for establishing the value of Digital Assets. The methodology for valuing virtual assets is nascent, and there may be disagreement amongst investors, some of whom may argue that Digital Assets have no value. You should ensure that you fully understand the characteristics of any particular Digital Asset before investing;
-
-(c) The value of any given Digital Asset may be unpredictable. Relative to Fiat Currency the value of any Digital Asset may be uncertain and subject to volatility. You should be prepared for prices to fluctuate up to 10% per day, or more;
-
-(d) Trading in Digital Assets may be susceptible to irrational market forces, and it may not always be clear why the market is moving in a particular direction;
-
-(e) The character of Digital Assets is such that it may lead to an increased risk of financial crime;
-
-(f) Given the character of Digital Assets there may be an increased risk of cyberattack, and in the event of a cyberattack you may not be able to access your Digital Assets and/or the value of those Digital Assets may be diminished;
-
-(g) There may be limited or no means for the recovery of lost or stolen Digital Assets. If you send your Digital Assets to an incorrect wallet address, it may be impossible for you to recover those Digital Assets;
-
-(h) Digital Assets may be transacted by means of new technologies, (including for example distributed ledger technologies (‘DLT’)) and may in the future include technologies not known to exist today. Such new novel technologies may adversely affect Digital Assets, and may result in such things as anonymity of ownership, irreversibility of transactions, accidental transactions, and concerns regarding transaction recording, and settlement;
-
-(i) Even though a party may accept a Digital Asset as payment today, it's possible that the same party or any other party may not accept a Digital Asset as payment in the future. For example, some merchants that accept certain Digital Assets today (such as Bitcoin and Ether) may not accept them in the future; and
-
-(j) You may not have access to or use of your Digital Assets or Fiat Balances due to technological difficulties affecting our services and Platforms, the actions or inactions of third parties that provide services to Us, and other factors outside Our control.
-
-7\. Governing Law and Jurisdiction
-
-(a)        This AED Annex (including any non-contractual obligations arising out of or in connection with it) and all of your other rights and obligations arising therefrom will be governed by the laws of the Abu Dhabi Global Market.
-
-(b)        In the event that a dispute, controversy, difference or claim arises between us out of or in connection with this AED Annex (a “Dispute”), both parties agree to enter into good faith negotiations in order to settle the Dispute by either party serving a notice briefly outlining the nature of the Dispute (a Dispute Notice) to the other party.
-
-(c)        In the event the Dispute isn't resolved within sixty (60) calendar days of the date of the sending of a Dispute Notice, either party may commence proceedings in the courts of Abu Dhabi Global Market which will, subject to 6(d) below, have exclusive jurisdiction for any Disputes arising out of and/or in connection with these Terms.
-
-(d)        Nothing in this Section 6 will prevent us from bringing proceedings relating to a Dispute with you in any jurisdiction outside the ADGM against you before the courts of the country in which you may be, or have been, registered, incorporated, resident, domiciled or where you hold assets. This clause is for our sole and exclusive benefit.
-
-(e)        You irrevocably agree to waive, to the fullest extent permitted under the relevant Applicable Laws and Regulations:
-
-i. Any objection which you may have at any time to the bringing by us of any proceeding in any court and agree not to claim that such proceeding has been brought in an inconvenient forum or that such court does not have jurisdiction over you; and
-
-ii. Any immunity on the grounds of sovereignty or other similar grounds, and the right to claim any such immunity in respect of any proceedings.
-
-(f)        You understand and agree that:
-
-i. You may not margin trade;
-
-ii. You may not short-sell;
-
-iii. You may only trade in ADGM Approved Digital Assets;
-
-iv. We are not acting as your agent or principal;
-
-v. Payward MENA isn't offering OTC brokerage desk; and
-
-vi. we won't execute your orders against proprietary capital.
-
-(g)        Notwithstanding clauses 7(a) and (b) above, if you are a natural person or sole proprietorship under the laws of the United Arab Emirates (“UAE Law"), AED transactions taking place in the UAE will be governed by UAE Law and any dispute in relation to such a transaction will be governed by UAE Law and may be referred to the jurisdiction of the on-shore UAE courts.
-
-* * *
-
-Annex G
-
 PIL Services Annex
 
-This Annex G (this “Annex G”) governs the PIL Services (as defined herein) offered by Payward Ireland Limited (“PIL”) relating to your Kraken e-money account (the “Kraken E-money Wallet”). This Annex G incorporates by reference and supplements the Terms. You acknowledge and agree that, except as expressly modified by this Annex G, the Terms remain entirely binding and applicable to the PIL Services. Capitalized terms used but not defined herein shall have the meanings given to them in the Terms. In the event of a conflict between the main body of the Terms and this Annex G with respect to the PIL Services, the terms of this Annex G will control.
+This Annex F (this “Annex F”) governs the PIL Services (as defined herein) offered by Payward Ireland Limited (“PIL”) relating to your Kraken e-money account (the “Kraken E-money Wallet”). This Annex F incorporates by reference and supplements the Terms. You acknowledge and agree that, except as expressly modified by this Annex F, the Terms remain entirely binding and applicable to the PIL Services. Capitalized terms used but not defined herein shall have the meanings given to them in the Terms. In the event of a conflict between the main body of the Terms and this Annex F with respect to the PIL Services, the terms of this Annex F will control.
 
 In reviewing these terms you will see that some text is colored in bold blue ink. These sections highlight the provisions which do not relate to prudentially regulated services and in particular they do not relate to regulated e-money services. For the avoidance of doubt, such services will not be provided by PIL.
 
@@ -1148,7 +1031,7 @@ In reviewing these terms you will see that some text is colored in bold blue ink
 
 1. PIL is incorporated in Ireland (with company registration number 688569 and is authorised by the Central Bank of Ireland as an electronic money institution under the European Communities (Electronic Money) Regulations 2011. PIL’s Central Bank of Ireland register number is C453020.
 2. Electronic money accounts are not bank accounts. By accepting these Terms you acknowledge that the Irish Deposit Guarantee Scheme (IDGS) does not apply to your Kraken E-money Wallet Account, or any other Kraken account. In the unlikely event that we become insolvent, you may lose the electronic money held in your Kraken E-money Wallet Account. However, the European Electronic Money Directive 2009/110/EC and Irish national legislation apply to PIL and these laws are designed to ensure the safety and liquidity of funds deposited in electronic money accounts.  
-3. PIL offers the following services (collectively, the “PIL Services”), subject to the terms of this Annex G:
+3. PIL offers the following services (collectively, the “PIL Services”), subject to the terms of this Annex F:
 
 1. The opening and closing of your Kraken E-money Wallet;
 2. The issuance of e-money to your Kraken E-money Wallet when you make a corresponding deposit of Legal Tender by methods we permit (e.g.bank transfer); and
@@ -1165,7 +1048,7 @@ In reviewing these terms you will see that some text is colored in bold blue ink
 
 3. Subject to the provisions of Section 1 of the main body of the Terms, you may have more than one Kraken E-money Wallet, each corresponding to a different currency that we make available from time to time via the PIL Services. The electronic money held on your Kraken E-money Wallet does not expire but it will not earn any interest.
 
-4. You can request a redemption of all or part of the e-money held in your Kraken E-money Wallet on demand at par value at any time during the term of this Annex G by selecting the relevant option in the Kraken E-Money Wallet and following the instructions. The e-money will be redeemed into Legal Tender by PIL and the proceeds transferred to the bank account you have registered with us during account setup or any other bank account that has subsequently been approved by Kraken. If this Annex G is terminated, we will automatically redeem any e-money remaining in your Kraken E-Money Wallet to which you are entitled and attempt to transfer funds to the bank account you have registered with us or redeem any e-money remaining in your Kraken E-Money Wallet and transfer balances to another Kraken entity capable of providing e-money services.
+4. You can request a redemption of all or part of the e-money held in your Kraken E-money Wallet on demand at par value at any time during the term of this Annex F by selecting the relevant option in the Kraken E-Money Wallet and following the instructions. The e-money will be redeemed into Legal Tender by PIL and the proceeds transferred to the bank account you have registered with us during account setup or any other bank account that has subsequently been approved by Kraken. If this Annex F is terminated, we will automatically redeem any e-money remaining in your Kraken E-Money Wallet to which you are entitled and attempt to transfer funds to the bank account you have registered with us or redeem any e-money remaining in your Kraken E-Money Wallet and transfer balances to another Kraken entity capable of providing e-money services.
 
 5. Prior to redeeming E-Money from your Kraken E-Money Wallet, we may conduct checks for the purposes of preventing fraud, money laundering, terrorist financing and other financial crimes, and as required by applicable law. This may mean you are prevented or delayed from withdrawing e-money from your Kraken E-Money Wallet until those checks are completed to our reasonable satisfaction in order to comply with our regulatory requirements.
 
@@ -1225,21 +1108,21 @@ In the event that you suspect or know of any instances of fraud or any security 
 10. We endeavour to provide you with an answer or resolution to your complaint within the timeframes as outlined by the European Union (Payment Services) Regulations 2018 and at the latest within 15 business days. Should this not be possible due to unforeseen circumstances or lack of information, we will contact you requesting further information on the complaint.  In any event, we will send a final reply to you, addressing all points raised in your complaint, at the latest within 35 business days of receipt of the complaint.
 11. If your complaint is not resolved to your satisfaction, you may then be able to take unresolved complaints to the Financial Services and Pensions Ombudsman (FSPO). You can find further information about the FSPO and the types of eligible complaints the FSPO will consider using the following details: Financial Services and Pensions Ombudsman, Lincoln House, Lincoln Place, Dublin 2, Ireland (Telephone: +353 1 567 7000, Email: [info@fspo.ie](mailto:info@fspo.ie); Website: https://www.fspo.ie/).
 
-8. Changes to this Annex G
+8. Changes to this Annex F 
 
-1. We may change this Annex G from time to time.  Notwithstanding anything to the contrary in the Terms, these changes will be implemented with prior notice from us under the procedure set forth in this Section 8.
+1. We may change this Annex F from time to time.  Notwithstanding anything to the contrary in the Terms, these changes will be implemented with prior notice from us under the procedure set forth in this Section 8.
 2. We shall give notice to you of any proposed change by sending an email to the primary email address registered with your Kraken E-money Wallet.
-3. The proposed change shall come into effect two (2) months after the date the change notice is deemed received under Section 9(a), unless you have given us notice that you object to the proposed changes before the changes come into effect. Changes that make this Annex G more favorable to you shall come into effect immediately if so stated in the change notice.
-4. If you object to the changes prior to their effective date, they will not apply to you. However, any such objection shall constitute a notice by you to terminate and close your Kraken E-money Wallet with effect at any time before the date when the changes would have applied had you not rejected the changes. Your Kraken E-money Wallet will be closed free of charge in accordance with the terms of this Annex G and all e-money held in your account will be redeemed in the manner described in Section 2(d)-(e) above.
+3. The proposed change shall come into effect two (2) months after the date the change notice is deemed received under Section 9(a), unless you have given us notice that you object to the proposed changes before the changes come into effect. Changes that make this Annex F more favorable to you shall come into effect immediately if so stated in the change notice.
+4. If you object to the changes prior to their effective date, they will not apply to you. However, any such objection shall constitute a notice by you to terminate and close your Kraken E-money Wallet with effect at any time before the date when the changes would have applied had you not rejected the changes. Your Kraken E-money Wallet will be closed free of charge in accordance with the terms of this Annex F and all e-money held in your account will be redeemed in the manner described in Section 2(d)-(e) above.
 
 9. How We Communicate
 
-1. We usually contact you via email. For this purpose you must at all times maintain at least one valid email address in your Kraken E-money Wallet profile. You are required to check for incoming messages regularly and frequently. Emails may contain links to further communication on our website. Any communication or notice sent by email will be deemed received by you on the same day if it is received in your email inbox before 4.30 pm on a Business Day. If it is received in your email inbox after 4:30pm on a Business Day or at any other time, it will be deemed received on the next Business Day.  As used in this Annex G a ““Business Day” means any day other than a Saturday or a Sunday or a public holiday in Ireland.
+1. We usually contact you via email. For this purpose you must at all times maintain at least one valid email address in your Kraken E-money Wallet profile. You are required to check for incoming messages regularly and frequently. Emails may contain links to further communication on our website. Any communication or notice sent by email will be deemed received by you on the same day if it is received in your email inbox before 4.30 pm on a Business Day. If it is received in your email inbox after 4:30pm on a Business Day or at any other time, it will be deemed received on the next Business Day.  As used in this Annex F a ““Business Day” means any day other than a Saturday or a Sunday or a public holiday in Ireland.
 2. We will communicate to you in English and will always accept communications made to us in English. For non-standard communication, we reserve the right to communicate with you in English. Documents or communications in any other languages are for convenience only and shall not constitute an obligation on us to conduct any further communication in that language.
 3. Where legislation requires us to provide information to you on a durable medium, we will either send you an email (with or without attachment) or send you a notification pointing you to information on our website in a way that enables you to retain the information in print format or other format that can be retained by you permanently for future reference. We recommend you keep copies of all communications we send or make available to you.
 
 10. Miscellaneous
 
 1. You agree to provide us with the information we request (which we may request at any time deemed necessary) for the purposes of identity verification and the detection of money laundering, terrorist financing, fraud, or any other financial crime and permit us to keep a record of such information. You will need to complete certain verification procedures before you are permitted to start using the Kraken E-Money Wallet and the limits that apply to your use of the Kraken E-Money Wallet may be altered as a result of information collected on an ongoing basis.
-2. This Annex G between you and us will remain in force indefinitely unless terminated by either you or us in accordance with the Terms.  
-3. This Annex G is governed by Irish law and any dispute under this Annex G or otherwise in connection with your Kraken E-Money Wallet or the PIL Services shall be brought exclusively in the courts of Ireland.
+2. This Annex F between you and us will remain in force indefinitely unless terminated by either you or us in accordance with the Terms.  
+3. This Annex F is governed by Irish law and any dispute under this Annex F or otherwise in connection with your Kraken E-Money Wallet or the PIL Services shall be brought exclusively in the courts of Ireland.
