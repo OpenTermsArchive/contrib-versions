@@ -1,7 +1,7 @@
 Allstate online _privacy statement_
 ===================================
 
-Effective: April 8, 2024
+Effective: June 20, 2024
 
 This Allstate Online Privacy Statement (“Privacy Statement”) describes the privacy practices of Allstate Insurance Company and the Allstate affiliated companies whose websites and mobile apps link to this Privacy Statement (“Allstate,” “we” “our” or “us”). This Privacy Statement explains the information we collect, why we collect it, how we use and share it, and the choices you can make regarding your information. More information about Allstate affiliates is in the Allstate Affiliates section at the end of this Privacy Statement.
 
@@ -35,7 +35,7 @@ We collect the following categories of personal information:
 | Education information | Education records, grades or transcripts. |
 | Inferences | Inferences drawn from any personal information collected to create a profile reflecting preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities and aptitudes. |
 
-**Sensitive Personal Information:** Some personal information we collect is defined under the law as sensitive personal information. Sensitive personal information we collect includes Social Security number, driver’s license number, state identification card number, passport number, customer account log-in, financial account number, debit card number, credit card number in combination with any required security or access code, password, or credentials allowing access to an account, precise geolocation information, racial or ethnic origin, religious beliefs, union membership, genetic data, biometric information used for identification, personal health information and sexual orientation.
+**Sensitive Personal Information:** Some personal information we collect is defined under the law as sensitive personal information. Sensitive personal information we collect includes Social Security number, driver’s license number, state identification card number, passport number, customer account log-in, financial account number, debit card number, credit card number in combination with any required security or access code, password, or credentials allowing access to an account, precise geolocation information, racial or ethnic origin, religious beliefs, union membership, genetic data, biometric information used for identification, personal health information, status as a victim of a crime and sexual orientation.
 
 Use of your personal information
 --------------------------------
@@ -86,7 +86,7 @@ We may also share any of the categories of personal information described above 
 * provide tax and accounting, legal services, delivery, and data enhancement services,
 * provide technology services and enhance security, privacy and fraud protections,
 * provide data analytics services or conduct research or actuarial studies, and
-* provide support to our operations.
+* o provide support to our operations.
 
 **Marketing and advertising partners:** We may share personal and other information with third party online and other marketing and advertising partners or permit these partners to collect personal information from you directly on our Sites to personalize online advertising. We may share personal information with other financial institutions or other companies with whom we have a joint marketing agreement. The [Online tracking technologies and advertising](#cookies) section below has more details about these activities.
 
@@ -103,7 +103,7 @@ Our service providers and third-party marketing and advertising partners include
 How long we keep your information
 ---------------------------------
 
-We retain personal information in accordance with applicable laws or regulatory requirements and also for as long as necessary to fulfill the purposes for which it was collected and to fulfill the business or commercial purposes that are explained in this Privacy Statement.
+We retain personal information in accordance with applicable laws or regulatory requirements and also for as long as necessary to fulfill the purposes for which it was collected and to fulfill the business or commercial purposes that are explained in this Privacy Statement
 
 Online tracking technologies and advertising
 --------------------------------------------
@@ -113,7 +113,7 @@ Online tracking technologies and advertising
 * The website from where you accessed our Sites, where you went to when you left our Sites, how frequently you visit our Sites, your location when you access our Sites, when and whether you open emails or click the links contained in emails, pages you visit and ads you view on our Sites, recordings of mouse clicks, mouse movements, keystrokes, and other communications you make on our Sites,
 * Information about the computer, tablet, smartphone or other device you use, such as your IP address, browser type, Internet service provider, platform type, device type/model/manufacturer, operating system, date and time stamp, a unique ID that allows us to uniquely identify your browser, mobile device or your account (including, e.g., a persistent device identifier or an Ad ID), and other similar information,
 * Analytics information collected by us or via third party analytics tools, to help us measure traffic and usage trends for the Sites and to understand more about the demographics and behaviors of our users, and
-* How often you use a mobile app, where the app was downloaded, events that occur within the app, aggregated usage, and performance data.
+* How often you use a mobile app, where the app was downloaded, events that occur within the app, aggregated usage, and performance data..
 
 **Use of the information:** The information collected through tracking technologies allows us to provide you with an improved, enhanced and personalized customer experience, to monitor and improve our Sites and for other internal purposes such as:
 
@@ -129,7 +129,7 @@ Online tracking technologies and advertising
 
 **Targeted Online Advertising and Opt-outs:** We or our online marketing and advertising providers may use information about your activities on our Sites or other websites to help tailor our advertisements or offers to your interests. On some of our websites, we allow third-party advertising companies to collect information about your activity on our Sites through cookies or other tracking technologies and combine that information with information they collect on other unrelated sites, which the advertising companies may use to provide you with relevant, targeted advertising. This sort of online advertising is called cross-context behavioral advertising under the California Consumer Privacy Act (CCPA). We do not knowingly share personal information for cross-context behavioral advertising of users under the age of sixteen.
 
-CCPA provides California residents the right to opt-out of the “sharing” of your information for cross-context behavioral advertising. You can opt-out of this sharing via the “about ads / do not sell or share my personal information” link in the footer of our website and selecting “Opt out of targeted online advertising.” You may also opt-out by enabling a universal tool that automatically communicates your opt-out preferences through browser settings such as the Global Privacy Control (“GPC”). All website visitors, regardless of residency, can opt-out of this sharing.
+CCPA provides California residents the right to opt-out of the “sharing” of your information for cross-context behavioral advertising. You can opt-out of this sharing via the “Do Not Sell or Share My Personal Information” link in the footer of our website or by visiting our preference center and selecting “Opt out of targeted online advertising.” You may also opt-out by enabling a universal tool that automatically communicates your opt-out preferences through browser settings such as the Global Privacy Control (“GPC”). All website visitors, regardless of residency, can opt-out of this sharing.
 
 Some browsers offer a setting called “Do Not Track.” Although we do our best to honor the privacy preferences of our visitors, we may not be able to respond to all “Do Not Track” signals from your browser.
 
@@ -159,8 +159,8 @@ To request that we not allow other Allstate affiliates use your personal informa
 State specific privacy rights and choices
 -----------------------------------------
 
-**California, Virginia and Connecticut residents:**  
-California law provides residents with rights to know, access, correct and delete certain personal information, and the right to opt out of cross-context behavioral advertising described above. Similar rights exist for Virginia and Connecticut residents for some of the personal information we collect. While these rights apply only to some of the personal information we collect, and rights may differ based on the products and services you have with us, for transparency and for your convenience, you can submit a request no matter where you live.
+**California, Virginia, Texas, Oregon, New Hampshire and Connecticut Residents:**  
+California law provides residents with rights to know, access, correct and delete certain personal information, and the right to opt out of cross-context behavioral advertising described above. Similar rights exist for Virginia, Texas, Oregon, New Hampshire and Connecticut residents for some of the personal information we collect. While these rights apply only to some of the personal information we collect, and rights may differ based on the products and services you have with us, for transparency and for your convenience, you can submit a request no matter where you live.
 
 **Right to know and access your personal information:** You may request the specific pieces of personal information we have collected about you and to know:
 
@@ -188,7 +188,7 @@ California law provides residents with rights to know, access, correct and delet
 
 [View California Consumer Request Metrics](https://www.allstate.com/privacy-center/consumer-requests-metrics).
 
-**Virginia and Connecticut resident right to appeal:** If we are unable to fulfill your request to access, review, delete or correct your personal information, we will respond to you explaining why. If you would like to appeal our response to your request, please visit [Appeals webpage](https://appeals.consumerprivacyinfo.com/).
+**Virginia, Texas, Oregon, New Hampshire and Connecticut residents right to appeal:** If we are unable to fulfill your request to access, review, delete or correct your personal information, we will respond to you explaining why. If you would like to appeal our response to your request, please visit [Appeals webpage](https://appeals.consumerprivacyinfo.com/).
 
 **Montana residents:** Pursuant to Montana law, you may request a record of any disclosure of your medical information during the preceding three years. Please send requests to Allstate Insurance Company, Customer Privacy Inquiries, P.O. Box 660598, Dallas, TX 75266-0598.
 
