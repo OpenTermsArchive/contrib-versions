@@ -266,4 +266,4 @@ GitLab may change its Privacy Statement from time to time. When we do, we will u
 
 ### Contact Us
 
-Your information is controlled by GitLab B.V. and GitLab Inc. If you have questions or concerns about the way we are handling your Personal Data, please email our privacy office with the subject line "Privacy Concern" at DPO@gitlab.com.
+Your information is controlled by GitLab B.V. and GitLab Inc. If you have questions or concerns about the way we are handling your Personal Data, please email our privacy office with the subject line "Privacy Concern" at [\[email protected\]](https://about.gitlab.com/cdn-cgi/l/email-protection).
