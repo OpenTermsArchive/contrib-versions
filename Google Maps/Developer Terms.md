@@ -1121,6 +1121,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Mobilithek: [https://www.gesetze-im-internet.de/geonutzv/\_\_3.html](https://www.gesetze-im-internet.de/geonutzv/__3.html)
             
+        * Berlin Open Data: [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
@@ -1181,6 +1183,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * National Highways UK: [https://developer.data.nationalhighways.co.uk/terms#NCTTG](https://developer.data.nationalhighways.co.uk/terms#NCTTG) Powered by National Highways’ Transport Data Feeds
             
         * Transport For London: [https://tfl.gov.uk/info-for/open-data-users/](https://tfl.gov.uk/info-for/open-data-users/)
+            
+        * Geoportal Statistics UK: [https://www.ons.gov.uk/methodology/geography/licences](https://www.ons.gov.uk/methodology/geography/licences)
             
     22. **Greece**
         * EuroGeographics; Copyright Geomatics Ltd.
@@ -1440,6 +1444,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * 静岡市 [https://opendata-api-wiki-dot-shizuokashi-road.appspot.com/terms](https://opendata-api-wiki-dot-shizuokashi-road.appspot.com/terms)
             
+        * Hiroshima Dobox: [https://hiroshima-dobox.jp/en/pages/terms](https://hiroshima-dobox.jp/en/pages/terms)
+            
     36. **Liechtenstein**
         * “Liechtensteinische Landesverwaltung“ - [https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf](https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf)
             
@@ -1511,6 +1517,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Arnhem Open Data - [https://opendata.arnhem.nl/documents/adressenbestand-csv/about](https://opendata.arnhem.nl/documents/adressenbestand-csv/about)
             
         * Eindhoven Open Data - [https://data.eindhoven.nl/explore/dataset/snelhedenkaart/information/?disjunctive.maxshd](https://data.eindhoven.nl/explore/dataset/snelhedenkaart/information/?disjunctive.maxshd)
+            
+        * Nationaal Georegister - [https://creativecommons.org/publicdomain/mark/1.0/deed.nl](https://creativecommons.org/publicdomain/mark/1.0/deed.nl)
             
     45. **New Zealand**
         * © Auckland International Airport Ltd
