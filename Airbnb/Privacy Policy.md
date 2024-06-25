@@ -19,7 +19,7 @@ If you reside outside of the United States, such as in the European Economic Are
 
 If you reside in the United States, visit our “[State-Specific Supplements](https://www.airbnb.co.uk/help/article/2863)” page for important supplemental information that may apply to you.
 
-If you reside in the People’s Republic of China, which for purposes of this Privacy Policy does not include Hong Kong, Macau, and Taiwan (“China”), visit our “[China](https://www.airbnb.cn/help/article/3188/)” page for important information that may apply to you.
+If you reside in the People’s Republic of China, which for purposes of this Privacy Policy does not include Hong Kong, Macau, and Taiwan (“China”), visit our “[Privacy Supplement for China Users](https://www.airbnb.co.uk/help/article/3602)” page for important information that may apply to you.
 
 [**1\. Personal Information We Collect**](#1)
 
@@ -163,7 +163,7 @@ In certain cases, automated processes, which analyze your account and activities
 
 **3.2.6(i) Airbnb, Inc.** Even if your country of residence is not the United States, your information will be shared with Airbnb, Inc., which provides the technical infrastructure for the Airbnb Platform.
 
-**3.2.6(ii) Airbnb Payments.** In order to facilitate payments on or through the Airbnb Platform, certain information as described in the “[Outside of the United States](https://www.airbnb.co.uk/terms/outside_us)” section will be shared with the relevant Airbnb Payments entity.
+**3.2.6(ii) Airbnb Payments.** In order to facilitate payments on or through the Airbnb Platform, certain information as described in the “[Outside of the United States](https://www.airbnb.co.uk/terms/outside_us)” and the “[Privacy Supplement for China Users](https://www.airbnb.co.uk/help/article/3602)” section will be shared with the relevant Airbnb Payments entity.
 
 **3.2.6(iii) Airbnb Insurance Agent Affiliates.** If you elect to purchase travel insurance and assistance services or reservation insurance, in order to furnish the policy and market insurance offerings, certain information, such as booking details and guest name and contact information, will be shared with (i) Airbnb Insurance Agency LLC, if you reside in the United States, or (ii) the relevant Airbnb insurance agent affiliate, if you reside outside of the United States.
 
@@ -209,7 +209,7 @@ In certain cases, automated processes, which analyze your account and activities
 
 **5.1 EU and Brazil Residents.** Learn more about rights under the General Data Protection Regulation (“GDPR”) and the Brazil General Data Protection Law (“LGPD”) [here](https://www.airbnb.co.uk/terms/outside_us).
 
-**5.2 China Residents.** Learn more about your rights [here](https://www.airbnb.cn/help/article/2855).
+**5.2 China Residents.** Learn more about your rights [here](https://www.airbnb.cn/help/article/3602).
 
 **5.3 Managing Your Information.** You can access and update some of your personal information through your Account settings. you are responsible for keeping your personal information up to date.
 
@@ -229,7 +229,7 @@ In certain cases, automated processes, which analyze your account and activities
 
 **7\. CHANGES TO THIS PRIVACY POLICY.** We reserve the right to modify this Privacy Policy at any time in accordance with applicable law. If we do so, we will post the revised Privacy Policy and update the “Last Updated” date at the top. In case of material changes, we will also provide you with notice of the modification by email at least thirty (30) days before the effective date. If you disagree with the revised Privacy Policy, you can cancel your Account. If you do not cancel your Account before the date the revised Privacy Policy becomes effective, your continued access to or use of the Airbnb Platform will be subject to the revised Privacy Policy.
 
-**8\. CONTACT INFORMATION AND RESPONSIBLE AIRBNB ENTITIES.** For questions or complaints about this Privacy Policy or Airbnb’s handling of personal information (i) If you reside in the United States contact Airbnb, Inc., Legal Privacy, 888 Brannan Street, San Francisco, CA 94103 USA or by emailing us at dpo@airbnb.com or by calling us toll-free at (844) 234-2500; (ii) for payments related matter please use the contact information provided in the [Payments Terms of Service](https://www.airbnb.co.uk/terms/payments_terms) page, and (iii) if you reside outside the United States, please use the contact information for your controller provided in the [Outside of the United States](https://www.airbnb.co.uk/terms/outside_us) page.
+**8\. CONTACT INFORMATION AND RESPONSIBLE AIRBNB ENTITIES.** For questions or complaints about this Privacy Policy or Airbnb’s handling of personal information (i) If you reside in the United States contact Airbnb, Inc., Legal Privacy, 888 Brannan Street, San Francisco, CA 94103 USA or by emailing us at dpo@airbnb.com or by calling us toll-free at (844) 234-2500; (ii) for payments related matter please use the contact information provided in the [Payments Terms of Service](https://www.airbnb.co.uk/terms/payments_terms) page, and (iii) if you reside outside the United States, please use the contact information for your controller provided in the [Outside of the United States](https://www.airbnb.co.uk/terms/outside_us) page, and (iv) you reside in China, please use the contact information for your controller provided in the [Privacy Supplement for China Users](https://www.airbnb.co.uk/help/article/3602) page.
 
 **9\. DEFINITIONS.** Undefined terms in this Privacy Policy have the same definition as in our [Terms of Service](https://www.airbnb.co.uk/terms) (“Terms”).
 
