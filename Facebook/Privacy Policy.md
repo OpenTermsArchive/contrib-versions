@@ -25,13 +25,13 @@ Lisez la politique complète ci-dessous.
 
 [En savoir plus sur la gestion de votre confidentialité dans notre Centre de confidentialité](https://www.facebook.com/privacy/center/)
 
-Quelles informations recueillons-nous ?
+Quelles informations recueillons-nous ?
 
 En bref
 
 Les informations vous concernant que nous recueillons et traitons dépendent de la manière dont vous utilisez nos [Produits](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis). Nous recueillons par exemple des informations différentes selon que vous vendez des meubles sur Marketplace ou publiez un reel sur Instagram. Lorsque vous utilisez nos Produits, nous recueillons certaines informations à votre sujet [même si vous ne possédez pas de compte](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=1.ex.41-InformationWeCollectIf).
 
-Voici les informations que nous recueillons :
+Voici les informations que nous recueillons :
 
 [Votre activité et les informations que vous fournissez](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.1-YourActivityAndInformation)
 
@@ -45,7 +45,7 @@ Voici les informations que nous recueillons :
 
 * * *
 
-[Les informations provenant de partenaires, fournisseurs et tout autre tiers :](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
+[Les informations provenant de partenaires, fournisseurs et tout autre tiers :](https://fr-fr.facebook.com/privacy/policy/?subpage=1.subpage.4-InformationFromPartnersVendors)
 
 Que se passe-t-il si vous ne nous laissez pas collecter certaines informations ?
 
@@ -53,7 +53,7 @@ Certaines informations sont requises pour que nos Produits fonctionnent. D’aut
 
 [En savoir plus](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=1.ex.43-WhatHappensIfYou)
 
-Que se passe-t-il si les informations que nous recueillons ne permettent pas d’identifier les personnes ?
+Que se passe-t-il si les informations que nous recueillons ne permettent pas d’identifier les personnes ?
 
 Dans certains cas, les informations sont dépersonnalisées, agrégées ou anonymisées par des tiers, de sorte qu’elles ne permettent plus d’identifier les personnes avant d’être mises à notre disposition. Nous utilisons ces informations de la manière décrite ci-dessous sans essayer de ré-identifier les personnes.
 
