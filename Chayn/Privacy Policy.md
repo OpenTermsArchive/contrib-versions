@@ -39,7 +39,7 @@ social media details (if you have provided them to us);
 
 your country and city of residence;
 
-information you provide through Little Window, our chatbot; y
+information you provide through Little Window, our chatbot;
 
 time and day you used Little Window,
 
