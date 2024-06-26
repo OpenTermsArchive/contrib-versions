@@ -1,15 +1,9 @@
-[](#bitwarden-inc-privacy-policy "#bitwarden-inc-privacy-policy")
-
 Bitwarden Inc. Privacy Policy
 -----------------------------
-
-[](#eu-u-s-data-privacy-framework "#eu-u-s-data-privacy-framework")
 
 ### EU-U.S. Data Privacy Framework
 
 Bitwarden Inc. ("Bitwarden") complies with the EU-U.S. Data Privacy Framework (“EU-U.S. DPF”) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) (collectively “DPF”), as set forth by the U.S. Department of Commerce. Bitwarden has certified to the Department of Commerce that we adhere to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. Bitwarden has certified to the U.S. Department of Commerce that we adhere to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF), and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/)
-
-[](#eu-u-s-data-privacy-framework-principles "#eu-u-s-data-privacy-framework-principles")
 
 ### EU-U.S. Data Privacy Framework (Principles)
 
@@ -26,13 +20,9 @@ Bitwarden Inc. ("Bitwarden") complies with the EU-U.S. Data Privacy Framework (�
 * [Security](#security)
     
 
-[](#notice "#notice")
-
 ### Notice
 
 Bitwarden provides this Privacy Policy to describe the ways we collect, use, transfer, store, secure and protect Personal Information on our Bitwarden.com website ("Site") and in connection with the Bitwarden password management solution used by customers to securely store, share, and access passwords ("Bitwarden Service"). "Personal Information" means information that personally identifies you as described in the Privacy Policy. This Privacy Policy describes the ways you can exercise your rights to access and control your Personal Information, and the complaint and recourse methods available to you.
-
-[](#data-integrity-and-purpose-limitation "#data-integrity-and-purpose-limitation")
 
 ### Data Integrity and Purpose Limitation
 
@@ -168,8 +158,6 @@ We retain this information in accordance with our retention policy.
 
 Your Personal Information may be accessed by recruiters and interviewers working in the country where the position for which you are applying is based, as well as by recruiters and interviewers working in different countries.We may use third party service providers to provide a recruiting software system. We also share your Personal Information with other third party service providers that may assist us in recruiting talent, administering and evaluating pre-employment screening and testing, and improving our recruiting practices.
 
-[](#choice-access "#choice-access")
-
 ### Choice; Access
 
 Here is how to exercise your rights to access and control your Personal Information:
@@ -181,8 +169,6 @@ Bitwarden respects your email communications and marketing preferences. If you p
 ##### Accessing, Correcting And Deleting Your Personal Information
 
 Ensuring that Personal Information we hold about you is accurate and complete is important to us. We enable you to access, correct, and delete your account with the Bitwarden Service at any time. If you would like to request assistance with accessing, correcting, or deleting your Personal Information, please submit your request to us by email at privacypolicy@bitwarden.com. We will verify these requests and respond to you in accordance with our legal obligations, which typically means forwarding your request to the licensed administrator (in your organization) of your Bitwarden account for review.
-
-[](#accountability-and-onward-transfer "#accountability-and-onward-transfer")
 
 ### Accountability and Onward Transfer
 
@@ -253,8 +239,6 @@ Bitwarden and our subprocessors and vendors primarily store information collecte
 
 We use applicable, approved information transfer mechanisms where required, such as EU Standard Contractual Clauses (SCCs), or the Data Privacy Framework.
 
-[](#recourse-and-enforcement "#recourse-and-enforcement")
-
 ### Recourse and Enforcement
 
 You may contact us about our practices or to make a complaint and seek recourse according to these methods available to you, and subject to applicable enforcement powers.
@@ -266,8 +250,6 @@ If you have an unresolved complaint, Bitwarden has agreed to participate in the 
 The services of JAMS Data Privacy Framework are provided at no cost to you. Mediations will be conducted pursuant to JAMS International Mediation Rules unless the parties have specified a different set of Rules or Procedures.
 
 Bitwarden is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). European Union, UK, and Swiss individuals have the possibility, under certain conditions, to invoke binding arbitration.
-
-[](#security "#security")
 
 ### Security
 
@@ -370,8 +352,6 @@ _Non-Discrimination Rights_
 California residents have the right to not be discriminated against for exercising their rights as described in this section. We will not discriminate against you for exercising your rights.
 
 Last revised APRIL-2024
-
-[](#contact-us "#contact-us")
 
 ### Contact Us
 
