@@ -468,8 +468,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     We may share your Personal Information, as permitted or required by law, if:
     
-    necessary to comply with a judicial proceeding, court order, or other legal process served on Roblox
-    
+    * necessary to comply with a judicial proceeding, court order, or other legal process served on Roblox
     * law enforcement agencies, regulators, or other public agencies (including schools or children services) request that we share it
     * we believe that disclosing the information may prevent a crime
     * a law requires us to share it
