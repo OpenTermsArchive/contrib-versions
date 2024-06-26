@@ -1,7 +1,7 @@
 **Vimeo Privacy Policy**
 ========================
 
-Last Updated: December 14, 2023
+Last Updated: June 25, 2024
 
 This Privacy Policy explains the information that Vimeo collects when you use our products and services or otherwise interact with us, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -48,7 +48,7 @@ To create an account, you must provide a valid email address and password. If yo
 
 ### **Financial Information**
 
-To make a purchase, you may need to provide a valid payment method (e.g., credit card or PayPal account). Your payment information will be collected and processed by our authorized payment vendors. We do not directly collect or store credit or debit card numbers ourselves in the ordinary course of processing transactions. If we allow purchase through a third-party platform (i.e. in-app purchase), the payment method stored with the third-party platform will be charged. If you choose to make a purchase via bank transfer, you must provide the relevant bank account details.
+To make a purchase, you may need to provide a valid payment method (e.g., credit card or PayPal account) and billing address. Your payment information will be collected and processed by our authorized payment vendors. We do not directly collect or store credit or debit card numbers ourselves in the ordinary course of processing transactions. If we allow purchase through a third-party platform (i.e. in-app purchase), the payment method stored with the third-party platform will be charged. If you choose to make a purchase via bank transfer, you must provide the relevant bank account details.
 
 If you sell items or earn money from advertising through our services, you must provide an account to receive funds and tax information, which may include your name, address, and taxpayer identification number.
 
@@ -58,9 +58,9 @@ You may upload and create content such as videos, text, photographs, and artwork
 
 Your interactions during events such as live streams and webinars, or with other users (e.g., comments, "likes," poll responses) may be seen by others. 
 
-### **Capture Forms**
+### **Registration Forms**
 
-You may submit information through a capture form set up by a video owner or webinar host. This information will be received by both Vimeo and the video owner and is subject to both Vimeo's Privacy Policy as well as the video owner's privacy policy. Except where Vimeo is the video owner, Vimeo will not use any information you submit through such forms for direct marketing purposes.
+You may submit information through a registration form set up by a video owner or event host. This information will be received by both Vimeo and the video owner and is subject to both Vimeo's Privacy Policy as well as the video owner's privacy policy. Except where Vimeo is the video owner, Vimeo will not use any information you submit through such forms for direct marketing purposes.
 
 ### **Other Information You May Submit**
 
@@ -69,10 +69,6 @@ You may submit data to us for limited purposes, such as requesting customer supp
 ### **Automatically Collected Information**
 
 We automatically collect certain types of data when you use our services, regardless of whether you have an account. This data includes your IP address, technical information about your device (e.g., browser type, operating system, basic device information), the web page you visited or search query you entered before reaching us, and your activities. We may track your activities using cookies and similar technologies. By using our services, you agree to our use of these methods as set forth in our [Cookie Policy](https://vimeo.com/cookie_policy).
-
-### **Physical Products**
-
-We collect your shipping address to send you products you have ordered.
 
 ### **Information Collected by Third Parties**
 
@@ -85,13 +81,13 @@ We may obtain data from third parties about you. We may combine that data with i
 
 We may use your data for the following purposes:
 
-* **Identification and authentication:** We use your data to verify you when you access your account.
+* **Identification and authentication:** We use your data to verify you when you access your account, and to uphold the security of our services.
 * **Operating our services:** We use your data to provide our services, process and fulfill orders, provide customer support, and to otherwise comply with our contractual obligations to you. We (and/or our third-party vendors) use your financial information to process purchases made by you and to pay you amounts you have earned.
 * **Communicating with you:** We use your data when we communicate with you (e.g., when we respond to a customer support or other inquiry).
-* **Improving our services:** We use your data to understand how our services are being used and how we can improve them. In general, we analyze aggregated data, rather than specific user data.
-* **Customizing your experience:** We use your data to personalize the service to you. This may include remembering your preferences for language or volume or displaying videos that you might enjoy, based upon your viewing choices.
+* **Improving our services:** We use your data to understand how our services are being used and how we can improve them.
+* **Customizing your experience:** We use your data to personalize the service to you. This may include remembering your preferences for language or volume or displaying videos that you might enjoy, based upon your viewing choices. This may also include restricting access to certain features or content due to applicable law in your location.
 * **Marketing and advertising:** We use your data to show you ads on third-party sites, and to measure the effectiveness of those ads. 
-* **Exercising our rights:** Where reasonably necessary, we use your data to exercise our legal rights and prevent abuse of our service. For example, we may use your data to detect and prevent fraud, spam, or content that violates our Terms of Service.
+* **Protecting our services:** We use your data to prevent abuse of our services and enforce our Terms of Service. For example, we use tools that process data to detect and prevent fraud in transactions and content that violates our Acceptable Use Policy.
 * **Legal compliance:** We use your data where we are legally required to do so. For example, we may need to gather your data to respond to a subpoena or court order.
 * **Protecting your information:** Where appropriate, we may anonymize, backup, and delete certain data.
 
@@ -113,14 +109,14 @@ We share data with third parties as follows:
 
 * **As you instruct:** We may make your profile and videos available to others as you instruct in using our services. We may share your data with persons to whom you have granted account-level access.
 * **With your consent:** We may share your data with third parties where we have obtained your express consent to do so.
-* **Authorized vendors:** We may share your data with third-party vendors that help us operate our services, process orders, and comply with your instructions and our contractual obligations. This includes payment processors, content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, customer relations management (CRM) vendors, chatbot providers, and shipment vendors.
+* **Authorized vendors:** We may share your data with third-party vendors that help us operate and improve our services, process orders, and comply with your instructions and our contractual obligations. This includes payment processors, content delivery networks (CDNs), cloud-based hosting services, monitoring services, email service providers, quality assurance and testing vendors, fraud and abuse prevention vendors, customer relations management (CRM) vendors, chatbot providers, and shipment vendors.
 * **Advertising:** We may share your data with advertising companies to display relevant ads to you, and to measure the effectiveness of those ads.
-* **Analytics:** We may share your data with analytics providers which help us understand how customers are using our services. We may also share identifying analytics information with the hosts of webinars you attend, and the administrator(s) of your Enterprise Account (see below for more details).
+* **Analytics:** We may share your data with analytics providers which help us understand how customers are using our services. We may also share individually identifying analytics information with the hosts of live events you attend, the owners of recorded video you view (where you have provided your consent to share such information), and the administrator(s) of your Enterprise Account (see below for more details).
 * **Affiliates and advisors:** We may share your data with our auditors and advisors for planning, financial reporting, accounting, auditing, tax filings, and legal compliance. We may share your data with our affiliates to the extent necessary to provide you with the services ordered.
-* **Certain legal situations:** We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in Section 6.
+* **Certain legal situations:** We may share your data where we believe disclosure is necessary to comply with a legal obligation or in connection with a corporate transaction as discussed in **Section 6**.
 * **Aggregated or anonymized information:** We may publicly disclose non-personal aggregated or anonymized information such as our number of visitors and registered users.
 
-We use reasonable efforts to vet vendors for their privacy and data security practices. We require that such vendors agree to protect the data we share.
+We use reasonable efforts to vet vendors for their privacy and data security practices. We require that all vendors agree to protect the data we share.
 
 ### **Enterprise Accounts**
 
@@ -158,7 +154,7 @@ We may share your data with potential transaction partners, advisors, and others
 
 We retain your data for as long as you have an account. When you close an account, we will delete your data. We may retain logs of automatically collected information (for internal analytics and security purposes); your email address; your tax information; communications with you; and your transactional information (for auditing, tax, and financial purposes). When we no longer have a business reason for retaining your data, we will delete or anonymize it.
 
-We retain deleted videos on our servers for a short period in case you wish to reverse deletion. Once we delete a video, we may not be able to recover it. If you have previously made a video public, the video or its thumbnail may be discoverable in a search engine's cache for a time. We have no control over search engines; however, we will, upon request, send a request for deletion to major search engines.
+We retain deleted videos on our servers for a short period in case you wish to reverse deletion. Once we delete a video, we may not be able to recover it. If you have previously made a video public, the video or its thumbnail may continue to be discoverable in a search engine's cache for a time.
 
 If we receive legal process pertaining to your account, we will retain your data for as long as we in good faith believe is necessary to comply with the legal process. Similarly, if we believe that your account has been involved in wrongdoing, we may preserve your data to defend or assert our rights.
 
@@ -205,7 +201,7 @@ Regardless of your profile or video privacy settings, Vimeo reserves the right t
 
 ### **Emails**
 
-If you create an account, you may receive commercial emails from us. This includes newsletters and offers. You may always opt out from receiving commercial messages in your account settings. Please note that any opt-out request may take several days to process and you will continue to receive transactional emails from us (e.g., emails confirming transactions and/or providing information about your account).
+If you create an account or request information about Vimeo's services, you may receive commercial emails from us. You may always opt out from receiving commercial messages in your account settings or through the unsubscribe link included at the bottom of each email. Please note that any opt-out request may take several days to process and you will continue to receive transactional emails from us (e.g., emails confirming transactions and/or providing information about your account).
 
 ### **Mobile Device Communications**
 
