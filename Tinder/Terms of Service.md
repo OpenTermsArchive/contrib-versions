@@ -247,8 +247,8 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     
     Member Content is subject to the terms and conditions of Sections 512(c) and/or 512(d) of the Digital Millennium Copyright Act 1998. To submit a complaint regarding Member Content that may constitute intellectual property infringement, see Section 12 (Digital Millennium Copyright Act) below.
     
-5. 5\. PRIVACY
-    -----------
+5. PRIVACY
+    -------
     
     **Privacy is important to us. We have a separate policy about it that you should read.**
     
@@ -382,8 +382,8 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     
     Though Tinder strives to encourage a respectful user experience, it is not responsible for the conduct of any user on or off the Service. You agree to use caution in all interactions with other users, particularly if you decide to communicate off the Service or meet in person.
     
-11. 11\. DISCLAIMER
-    ---------------
+11. DISCLAIMER
+    ----------
     
     **Tinder's Services are provided "as is" and we do not make, and cannot make, any representations about the content or features of our Services or Member Content.**
     
@@ -391,8 +391,8 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     
     TINDER ASSUMES NO RESPONSIBILITY FOR ANY CONTENT THAT YOU OR ANOTHER USER OR THIRD PARTY POSTS, SENDS, RECEIVES, OR ACTS ON THROUGH OUR SERVICES, NOR DOES TINDER ASSUME ANY RESPONSIBILITY FOR THE IDENTITY, INTENTIONS, LEGITIMACY, OR VERACITY OF ANY USERS WITH WHOM YOU MAY COMMUNICATE WITH THROUGH TINDER. ANY MATERIAL DOWNLOADED OR OTHERWISE OBTAINED THROUGH THE USE OF OUR SERVICES IS ACCESSED AT YOUR OWN DISCRETION AND RISK. TINDER IS NOT RESPONSIBLE FOR ANY DAMAGE TO YOUR COMPUTER HARDWARE, COMPUTER SOFTWARE, OR OTHER EQUIPMENT OR TECHNOLOGY INCLUDING, BUT WITHOUT LIMITATION, DAMAGE FROM ANY SECURITY BREACH OR FROM ANY VIRUS, BUGS, TAMPERING, HACKING, FRAUD, ERROR, OMISSION, INTERRUPTION, DEFECT, DELAY IN OPERATION OR TRANSMISSION, COMPUTER LINE OR NETWORK FAILURE, OR ANY OTHER TECHNICAL OR OTHER DISRUPTION OR MALFUNCTION.
     
-12. 12\. DIGITAL MILLENNIUM COPYRIGHT ACT
-    -------------------------------------
+12. DIGITAL MILLENNIUM COPYRIGHT ACT
+    --------------------------------
     
     **We take copyright infringement very seriously. We ask you to help us to ensure we address it promptly and effectively.**
     
@@ -422,8 +422,8 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     
     Our Services may contain advertisements and promotions offered by third parties and links to other websites or resources.  In addition, our Services may allow you to watch an advertisement in exchange for Virtual Items; Tinder does not guarantee that you will always be eligible to watch such advertisements, or that any such advertisements will be available.  Tinder may also provide non-commercial links or references to third parties within its content. Tinder is not responsible for the availability (or lack of availability) of any external websites or resources or their content. Furthermore, Tinder is not responsible for, and does not endorse, any products or services that may be offered by third-party websites or resources. If you choose to interact with the third parties made available through our Services, such party's terms will govern their relationship with you. Tinder is not responsible or liable for such third parties' terms or actions.
     
-14. 14\. LIMITATION OF LIABILITY
-    ----------------------------
+14. LIMITATION OF LIABILITY
+    -----------------------
     
     **Tinder's liability is limited to the maximum extent allowed by applicable law.**
     
@@ -433,8 +433,8 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     
     SOME JURISDICTIONS DO NOT ALLOW THE LIMITATION OF CERTAIN DAMAGES, SO SOME OR ALL OF THE LIMITATIONS IN THIS SECTION MAY NOT APPLY TO YOU.
     
-15. 15\. DISPUTE RESOLUTION SECTION
-    -------------------------------
+15. DISPUTE RESOLUTION SECTION
+    --------------------------
     
     **In the unlikely event that we have a legal dispute, here is how the Parties agree to proceed, except where prohibited by applicable law.**
     
@@ -504,23 +504,23 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     
     This Dispute Resolution Section 15 applies to all Disputes between the Parties, including for any claims that accrued against you or Tinder prior to the time of your consent to this Agreement and to any claims that accrue against you or Tinder after your consent to this Agreement. Notwithstanding any provision in this Agreement to the contrary, you may elect to opt out of the retroactive application of this Dispute Resolution Section 15 as to claims that have accrued against you or against Tinder prior to the time of your consent to this Agreement. You may opt out by sending us written notice, within 30 days of the time you consent to this Agreement, to the following email address: [tinderoptout@match.com](mailto:tinderoptout@match.com). Please do not direct any customer support inquiries to [tinderoptout@match.com](mailto:tinderoptout@match.com), as they will not be addressed; such inquiries should be directed to  [customer support](https://gotinder.com/help). You must include information sufficient to identify your account(s), such as the email address or phone number associated with your account(s), and should include a statement that you are opting out of the retroactive application of this Dispute Resolution Section 15. Please note: if you opt out of the retroactive application of this Dispute Resolution Section 15, you will still be subject to and bound by any Dispute Resolution Sections and Arbitration Procedures you previously agreed to, including any arbitration provisions, class action waivers, and retroactive application sections. Also, regardless of whether you opt out of the retroactive application of these changes, the Parties will resolve any claims that accrue against you or Tinder after your consent to this Agreement in accordance with this Dispute Resolution Section.
     
-16. 16\. GOVERNING LAW
-    ------------------
+16. GOVERNING LAW
+    -------------
     
     **Texas law and the Federal Arbitration Act will apply to any Dispute (except where prohibited by law).**
     
     The laws of Texas, U.S.A., without regard to its conflict of laws rules, shall explicitly apply to any Dispute arising out of or relating to this Agreement or our Services, and the Dispute Resolution Process set forth in Section 15 shall be governed by the Federal Arbitration Act. 
     
     In the EU and EEA, the choice of Texas governing law shall not apply only where a mandatory consumer protection law explicitly prohibits such choice of law provisions. 
-17. 17\. VENUE/FORUM SELECTION
-    --------------------------
+17. VENUE/FORUM SELECTION
+    ---------------------
     
     **To the fullest extent allowable by law, any claims that are not arbitrated for any reason must be litigated in Dallas County, Texas (except for claims filed in small claims court, or for users residing in the EU, EEA, UK or Switzerland or another jurisdiction where prohibited by law).**
     
     Except where prohibited by law, including for users residing in the EU, EEA, UK or Switzerland, who may bring claims in their country of residence in accordance with applicable law, and except for claims that are heard in a small claims court as set forth in Section 15, any claims arising out of or relating to this Agreement (including any challenges to the class action waiver provision in subsection 15b), to our Services, or to your relationship with Tinder that for whatever reason are not required to be arbitrated or filed in small claims court, will be litigated exclusively in the federal or state courts located in Dallas County, Texas, U.S.A. You and Tinder consent to the exercise of personal jurisdiction of courts in the State of Texas and waive any claim that such courts constitute an inconvenient forum.
     
-18. 18\. INDEMNITY BY YOU
-    ---------------------
+18. INDEMNITY BY YOU
+    ----------------
     
     **You agree to indemnify Tinder if a claim is made against Tinder due to your actions.**
     
