@@ -3,7 +3,7 @@
 Privacy Policy
 ==============
 
-_Last Updated: March 18, 2024_
+_Last Updated: July 1, 2024_
 
 The Meet Group, Inc., its brands, affiliates, and subsidiaries ("**TMG**"," "**we**," "**our**," or "**us**") values your privacy. This Privacy Policy ("**Policy**") describes how TMG collects, uses, discloses, and otherwise processes personal information described in this Policy, as well as the rights and choices you have regarding such personal information.
 
@@ -214,7 +214,7 @@ Residents of certain jurisdictions have additional rights under applicable priva
 
 If you are a resident of California, please review [Section 13.B, Additional Information for California Residents](#additional_information_for_california_residents) below for a description of your rights pursuant to California privacy laws.
 
-Residents of certain U.S. states, including Colorado, Connecticut, Utah, and Virginia, may have additional rights under applicable privacy laws, subject to certain limitations, which may include:
+Residents of certain U.S. states, including Colorado, Connecticut, Oregon, Texas, Utah, and Virginia, may have additional rights under applicable privacy laws, subject to certain limitations, which may include:
 
 * **Access**. To confirm whether we are processing their personal information and to obtain a copy of their personal information in a portable and, to the extent technically feasible, readily usable format.
     
@@ -408,7 +408,7 @@ You may withdraw from participating in a Program at any time by contacting us us
 Privacy Policy for users having their residence in the European Economic Area or the United Kingdom
 ===================================================================================================
 
-_Last Updated: March 18, 2024_
+_Last Updated: July 1, 2024_
 
 The Meet Group, Inc., its brands, affiliates, and subsidiaries values your privacy. This Privacy Policy ("**Policy**") describes how The Meet Group, Inc. ("**TMG**"," "**we**," "**our**," or "**us**") collects, uses, discloses, and otherwise processes personal information (also referred to as personal data in some jurisdictions) described in this Policy, as well as the rights and choices you have regarding such personal information.
 
@@ -894,7 +894,7 @@ You are welcome to contact them at:
 Esta Política de Privacidad aplica a los usuarios residentes del Espacio Económico Europeo o del Reino Unido
 ============================================================================================================
 
-_Última actualización: March 18, 2024_
+_Última actualización: July 1, 2024_
 
 The Meet Group, Inc., sus marcas, filiales y subsidiarias valoran la privacidad de sus usuarios. Esta Política de Privacidad (" **Política** ") describe la manera en que The Meet Group, Inc. (" **TMG** ," " **nosotros** ", " **nuestro** " o " **nos** ") recolecta, usa, comparte y procesa la información personal (también denominada "datos personales" en ciertas jurisdicciones) descrita en esta Política, así como los derechos y elecciones existentes en torno a dicha información personal.
 
@@ -1380,7 +1380,7 @@ El usuario puede contactarlo al visitar el enlace a continuación:
 Política de Privacidade para utilizadores com residência no Espaço Económico Europeu ou no Reino Unido
 ======================================================================================================
 
-_Última atualização: March 18, 2024_
+_Última atualização: July 1, 2024_
 
 O The Meet Group, Inc., as suas marcas, filiais e subsidiárias valorizam a sua privacidade. Esta Política de Privacidade (" **Política** ") descreve como o The Meet Group, Inc. (" **TMG** ", " " **nós** ," " **nosso** ," ou " **\-nos** ) recolhe, utiliza, divulga e trata os dados pessoais (também referidos como informações pessoais em algumas jurisdições) descritos nesta Política , bem como os direitos e as escolhas disponíveis em relação aos mencionados dados pessoais.
 
@@ -1866,7 +1866,7 @@ Pode contactá-lo através de:
 Datenschutzrichtlinie für Benutzer mit Wohnsitz im Europäischen Wirtschaftsraum oder im Vereinigten Königreich
 ==============================================================================================================
 
-_Stand: March 18, 2024_
+_Stand: July 1, 2024_
 
 Für The Meet Group, Inc., ihre Marken, verbundenen Unternehmen und Tochtergesellschaften hat Ihre Privatsphäre einen hohen Stellenwert. In dieser Datenschutzrichtlinie („ **Richtlinie** “) wird erläutert, wie The Meet Group, Inc. („ **TMG** “, „ **wir** “, „ **unser** “ in allen gebeugten Formen oder „ **uns** “) die in dieser Richtlinie beschriebenen personenbezogenen Daten erfasst, verwendet, offenlegt und anderweitig verarbeitet, sowie die Rechte und Wahlmöglichkeiten, die Sie in Bezug auf diese personenbezogenen Daten haben.
 
@@ -2352,7 +2352,7 @@ Diesen können Sie kontaktieren unter:
 Politique de respect de la vie privée pour les utilisateurs résidant dans l'Espace économique européen ou au Royaume-Uni
 ========================================================================================================================
 
-_Dernière mise à jour : March 18, 2024_
+_Dernière mise à jour : July 1, 2024_
 
 The Meet Group, Inc. ses marques, ses sociétés affiliées et ses filiales se soucient de votre vie privée. La présente Politique de respect de la vie privée (« **Politique** ») décrit la façon dont The Meet Group, Inc. (« **TMG** », « **nous** », « **notre** » ou « **nos** ») collecte, utilise, divulgue et traite les données à caractère personnel (également appelées informations personnelles dans certaines juridictions) décrites dans la présente Politique, ainsi que vos droits et vos options en ce qui concerne ces données à caractère personnel.
 
@@ -2838,7 +2838,7 @@ Vous pouvez la contacter en vous rendant sur cette page :
 Polityka prywatności dla użytkowników z miejscem zamieszkania w Europejskim Obszarze Gospodarczym lub w Wielkiej Brytanii
 =========================================================================================================================
 
-_Data ostatniej aktualizacji: March 18, 2024_
+_Data ostatniej aktualizacji: July 1, 2024_
 
 Firma The Meet Group, Inc., jej marki, podmioty stowarzyszone i zależne cenią prywatność użytkowników. Niniejsza Polityka prywatności („ **Polityka** ”) opisuje, w jaki sposób firma The Meet Group, Inc. („ **TMG** ”, „ **my** ”, „ **nasz** ” lub „ **nas** ” we wszystkich formach gramatycznych) gromadzi, wykorzystuje, ujawnia i w inny sposób przetwarza dane użytkowników (zwane również danymi osobowymi w niektórych jurysdykcjach) opisane w niniejszej Polityce, a także prawa i wybory, jakie użytkownik ma w odniesieniu do takich danych osobowych.
 
@@ -3324,7 +3324,7 @@ Zachęcamy do kontaktowania się z nim pod adresem:
 Privacybeleid voor gebruikers die in de Europese Economische Ruimte of het Verenigd Koninkrijk wonen
 ====================================================================================================
 
-_Laatst bijgewerkt: March 18, 2024_
+_Laatst bijgewerkt: July 1, 2024_
 
 The Meet Group, Inc., zijn merken, gelieerde bedrijven en dochterondernemingen vinden je privacy belangrijk. Dit Privacybeleid (' **Beleid** ') beschrijft hoe The Meet Group, Inc. (' **TMG** ', ' **we** ', ' **wij** ' of ' **ons** ') de in dit beleid beschreven persoonlijke gegevens (soms ook persoonsgegevens genoemd) verzamelen, gebruiken, verstrekken en anderszins verwerken, en de rechten en opties die je hebt met betrekking tot dergelijke persoonlijke gegevens.
 
@@ -3810,7 +3810,7 @@ Je kunt contact met hen opnemen via:
 Az Európai Gazdasági Térségben vagy az Egyesült Királyságban lakóhellyel rendelkező felhasználókra vonatkozó Adatvédelmi szabályzat
 ===================================================================================================================================
 
-_Utolsó frissítés: March 18, 2024_
+_Utolsó frissítés: July 1, 2024_
 
 A The Meet Group, Inc., annak márkái, társvállalatai és leányvállalatai nagyra értékelik az Ön adatainak védelmét. A jelen Adatvédelmi szabályzat („Szabályzat”) leírja, hogy a The Meet Group, Inc. („ **TMG** ”, „ **mi** ”, „ **miénk** ”vagy „ **bennünket** ”) hogyan gyűjti, használja, hozza nyilvánosságra és kezeli más módon a jelen szabályzatban leírt személyes információkat (egyes joghatóságok személyes adatoknak is nevezik), valamint az Ön jogait és választási lehetőségeit az ilyen személyes információkkal kapcsolatban.
 
@@ -4302,7 +4302,7 @@ Az alábbi elérhetőségen veheti fel vele a kapcsolatot:
 Politica de confidențialitate pentru utilizatorii cu reședința în Spațiul Economic European sau în Regatul Unit
 ===============================================================================================================
 
-_Ultima actualizare: March 18, 2024_
+_Ultima actualizare: July 1, 2024_
 
 The Meet Group, Inc., mărcile, afiliații și filialele sale respectă confidențialitatea dvs. Această politică de confidențialitate („ **Politica** ”) descrie modul în care The Meet Group, Inc. („ **TMG** ”, „ **noi** ”, „ **nostru** ” sau „ **nouă** ”) colectează, utilizează, dezvăluie și procesează în orice alt mod informații cu caracter personal (denumite și date cu caracter personal în unele jurisdicții) descrise în această Politică, precum și drepturile și opțiunile pe care le aveți cu privire la aceste informații cu caracter personal.
 
