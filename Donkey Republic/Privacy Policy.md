@@ -11,7 +11,7 @@ The purpose of this document is to provide you with information about the data w
 ### Section 1: Information on the collection of personal data
 
 1. According to GDPR Art.4,  ‘personal data’ means any information relating to an identified or identifiable natural person (‘data subject’); an identifiable natural person is one who can be identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, location data, an online identifier or to one or more factors specific to the physical, physiological, genetic, mental, economic, cultural or social identity of that natural person.
-2. The data controller within the meaning of Article 4 (7) of the EU General Data Protection Regulation (GDPR) is
+2. The data controller within the meaning of Article 4 (7) of the EU General Data Protection Regulation (GDPR) and, where applicable, the corresponding provision of the Swiss Federal Act on Data Protection (FADP) is:
 
 DonkeyRepublic Admin Aps  
 Skelbækgade 4, trappe B, 4. sal.  
@@ -225,6 +225,8 @@ BCR = Binding Corporate Rules ([Binding Corporate Rules (BCR) – European Commi
 \*\*\* See Meta’s DPA and transfer policies [here](https://www.google.com/url?q=https://www.facebook.com/privacy/policy&sa=D&source=editors&ust=1707143082289914&usg=AOvVaw10CJ9bJwlMjLe1UGnoGZKT)
 
 \*\*\*\* See Amplitude’s DPA and transfer policies [here](https://www.amplitude.com/dpa?utm_campaign=fy23q3-global-subprocessor-notification&utm_source=marketo&utm_medium=email&utm_content=invite&mkt_tok=MTM4LUNETi01NTAAAAGNEwGuLUto_36aGDyVkjvHPNGKDvNh6Up3AUE3NoZTcLIHIeTlrnvzh2-w5-iykdXN0L33FYVaRU-IAwNB6g7dFMKbQzX8G0seoLg60XyhQc83HQ)
+
+In certain cases, we may transfer your data to countries without an adequate level of data protection based on an exception, such as if you consent to the transfer, in case of legal proceedings abroad, or if the transfer is necessary for the performance of a contract.
 
 ### Changes to the list of 3rd party providers
 
