@@ -34,7 +34,7 @@ Recherche
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
             * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
-            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
@@ -801,7 +801,7 @@ Recherche
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
             * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
-            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
@@ -1542,7 +1542,7 @@ Recherche
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
             * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
-            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
@@ -2232,7 +2232,7 @@ Recherche
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
             * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
-            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
@@ -2627,7 +2627,7 @@ Recherche
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
             * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
-            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
@@ -3022,7 +3022,7 @@ Recherche
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
             * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
-            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
@@ -3417,7 +3417,7 @@ Recherche
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
             * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
-            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
@@ -3812,7 +3812,7 @@ Recherche
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
             * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
-            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
@@ -4207,7 +4207,7 @@ Recherche
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
             * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
-            * [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+            * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
@@ -4591,7 +4591,7 @@ Retour
 * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
 * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
 * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
-* [L’infirmier en pratique avancée](https://sante.gouv.fr/systeme-de-sante/acces-territorial-aux-soins/article/l-infirmier-en-pratique-avancee)
+* [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
 * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
 
 * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
