@@ -8,7 +8,7 @@ Privacy Notice
 
 Thryv, Inc. and its affiliates and subsidiaries (individually and collectively known as “Thryv”) respect your right to privacy, and we want you to be aware of how we collect and handle information. This policy applies to our handling of information on each website and mobile application on which we provide this Privacy Policy.
 
-**Revised: January 8, 2024**
+**Revised: June 28, 2024**
 
 Your information privacy is important to us.
 
@@ -97,7 +97,7 @@ We obtain the categories of Personal Information listed above from the following
     * We collect contact information and other identifying information from Social Networking Services. For example if you use Facebook or Google to sign-in to your account on This Website or to the Services, we collect such information about you that you permit the Social Networking Service to share with us.
     * We collect contact information, other identifying information, commercial information, geolocation data, and internet and electronic activity from Service Providers that collect certain Personal Information from or about you on our behalf, such as analytics software or platforms that we use to measure and analyze traffic to This Website, the Services or interaction with our Ads. For example, our Service Providers capture certain usage data to provide and analyze a “session replay” of your activities on This Website, which allows us to optimize This Website and the Services. The session replay may record, for example, clicks, mouse movements, scrolling, typing, navigation through This Website and the technical specifications of your device.
     * We collect contact information, other identifying information, demographic information, and commercial information from third party data suppliers. Thryv collects Personal Information such as your name and contact details from third party data suppliers. If your Personal Information was provided to us by a data supplier, we will have sought their confirmation that they are authorized under privacy laws to provide us with your Personal Information for the purposes described below.
-    * We collect the Personal Information of our client’s customers. We may collect contact information, Sensitive Personal Information, demographic information, financial information and other Personal Information from businesses you interact with who use our products and services. For example, our clients may upload and store your Personal Information within our customer management products. We may only access or use this Personal information in limited circumstances—in our capacity as a service provider to our clients.
+    * We collect the Personal Information of our client’s customers. We may collect contact information, sensitive Personal Information, demographic information, financial information and other Personal Information from businesses you interact with who use our products and services. For example, our clients may upload and store your Personal Information within our customer management products. We may only access or use this Personal information in limited circumstances—in our capacity as a service provider to our clients.
 
 Purpose of Collection and How We Use Personal Information
 
@@ -256,11 +256,11 @@ Although we will make all reasonable efforts to ensure your personal information
 
 Notice to Residents of the United States
 
-If you are a resident of California, or jurisdictions with similar laws (e.g., Colorado, Connecticut, Utah, Virginia), you may have certain additional privacy rights under the applicable privacy laws in your state (“**State Privacy Laws**”). This section generally describes those rights and how you can exercise them.
+If you are a resident of California, or jurisdictions with similar laws (e.g., Colorado, Connecticut, Oregon, Texas, Utah, Virginia), you may have certain additional privacy rights under the applicable privacy laws in your state (“**State Privacy Laws**”). This section generally describes those rights and how you can exercise them.
 
-These rights are not absolute. In some situations we may not be able to process your request. This may include if a legal exception applies. We’ll let you know when or if a right doesn’t apply to you. You will not be discriminated against for exercising a privacy right. Those rights are:
+These rights are not absolute. In some situations we may not be able to process your request. This may include if a legal exception applies. These rights may be offered based on your location. We’ll let you know when or if a right doesn’t apply to you. You will not be discriminated against for exercising a privacy right. Those rights are:
 
-1. **Access:** to learn the categories of information we collect and use, and for those in California, the categories of sources of collection and disclosure and the business purpose for collection;
+1. **Access:** to learn the categories and specific pieces of information we collect, use, disclose and sell; for those in California, the categories of sources of collection, the third parties to whom the information is disclosed or sold, and the business purpose for such collection or disclosure; for those in Oregon, a list of specific third parties (as defined under Oregon law), to whom we have disclosed Personal Information;
 2. **Portability:** a copy of (Virginia) or specific pieces of (California) Personal Information collected;
 3. **Deletion:** to have us delete information we collected from you; and
 4. **Correction:** asking us to fix your information.
@@ -295,7 +295,7 @@ Making a verifiable consumer request does not require you to create an account w
 
 **Right to Opt-out of the Sale or Sharing of Personal Information**
 
-Residents of certain jurisdictions (e.g., Colorado, Virginia) have the right to opt out of the “sale” or “sharing” of their personal data, as such terms are defined under State Privacy Laws.
+Residents of certain jurisdictions (e.g., California, Colorado, Connecticut, Utah, Texas, Oregon, Virginia) have the right to opt out of the “sale” or “sharing” of their personal data, as such terms are defined under State Privacy Laws.
 
 Under California law, “share” means disclosing your personal information by us to a third party for cross-context behavioral advertising, in exchange for money or anything else of value. Thus, when we use the term “share” under this section, we are using it in the narrow meaning of how it is defined under California law. Other State Privacy Laws do not use the term “share,” but describe the concept as using personal information for targeted advertising.
 
@@ -327,7 +327,7 @@ To learn more about these advertising practices or to opt out of this type of ad
 
 **Right to Opt-out of Profiling**
 
-Residents of some jurisdictions (e.g., California, Colorado, Virginia) - subject to certain exceptions - may have a right to opt out of forms of automated processing performed on Personal Information to evaluate, analyze or predict personal aspects related to your economic situation, health, personal preferences, interests, reliability, behavior, location or movements (“**Profiling**”).
+Residents of some jurisdictions (e.g., California, Colorado, Connecticut, Oregon, Texas, Virginia) - subject to certain exceptions - may have a right to opt out of forms of automated processing performed on Personal Information to evaluate, analyze or predict personal aspects related to your economic situation, health, personal preferences, interests, reliability, behavior, location or movements (“**Profiling**”).
 
 We engage in cookie-based or digital advertising-based Profiling. To opt out of this practice, please follow the instructions detailed above regarding opting out of the sale or sharing of your Personal Information.
 
@@ -339,7 +339,7 @@ We do not otherwise engage in Profiling.
 
 **Right to Limit Disclosure of Sensitive Personal Information**
 
-Residents of some jurisdictions (e.g., California) have a right to limit the processing of their Sensitive Personal Information (as defined by the applicable State Privacy law). We do not collect or process Sensitive Personal Information for inferring characteristics or use or disclose Sensitive Personal Information for purposes other than those permitted by law.
+Residents of some jurisdictions (e.g., California) have a right to limit the processing of their sensitive Personal Information (as defined by the applicable State Privacy law). We do not collect or process sensitive Personal Information for inferring characteristics or use or disclose sensitive Personal Information for purposes other than those permitted by law and we do not sell sensitive Personal Information.
 
 **Right to Appeal**
 
