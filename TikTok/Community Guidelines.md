@@ -1,515 +1,287 @@
-Privacy and Security
+Community Principles
 --------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We know that protecting your privacy rights and personal information, and keeping our platform secure, are critical to maintaining your trust and ensuring your safety.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-### Personal Information
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-Content shared online may be seen by anyone, and has a wide reach. We are committed to making sure that any personal information shared intentionally or accidentally on TikTok does not lead to harm. **We do not allow content that includes personal information that may pose a risk of stalking, violence, phishing, fraud, identity theft, or financial exploitation.** This includes content that someone has posted themselves or that they consented to being shared by others.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-If you believe you have experienced a privacy violation, you can [report it](https://www.tiktok.com/legal/report/privacy?lang=en).
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-More information
-
-NOT ALLOWED
-
-* Personal non-public phone numbers and home addresses
-* Financial and payment information, such as bank account or credit card numbers
-* Login information, such as usernames or passwords
-* Identity documentation, cards, or numbers, such as passports, government-issued identifications, or social security numbers
-* Threats or encouragement to share personal information or to hack an account
-
-* * *
-
-### Platform Security
-
-We work hard to protect and secure you and your information on TikTok. **We do not allow: (1) access to any part of TikTok through unauthorized methods; (2) attempts to obtain sensitive, confidential, commercial, or personal information; or (3) any abuse of the security, integrity, or reliability of our platform.**
-
-You should avoid clicking on suspicious links or responding to requests for information about your account details, passwords, verification qualification, financial, and other personal information. Learn more about our approach to [privacy and security](https://www.tiktok.com/safety/privacy-and-security-on-tiktok/?lang=en) on the platform.
-
-More information
-
-NOT ALLOWED
-
-* Providing other people with access to your account credentials or enabling other people to conduct activities that violate our rules
-* Accessing our platform in an unauthorized way, or creating fake versions of our platform
-* Sharing malicious files, content, and messages that contain viruses, Trojan horses, worms, logic bombs, or other harmful materials endangering cyber security
-* Attempting to obtain personal information (such as login credentials) or access content, accounts, systems, or data through the use of any deceptive technique (such as phishing, smishing, automated scripts, or web crawling)
-* Modifying, adapting, translating, reverse engineering, disassembling, decompiling, or creating any derivative products based on TikTok, including any files, tables or documentation, and attempting to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
-
-Privacy and Security
+Community Principles
 --------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We know that protecting your privacy rights and personal information, and keeping our platform secure, are critical to maintaining your trust and ensuring your safety.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-### Personal Information
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-Content shared online may be seen by anyone, and has a wide reach. We are committed to making sure that any personal information shared intentionally or accidentally on TikTok does not lead to harm. **We do not allow content that includes personal information that may pose a risk of stalking, violence, phishing, fraud, identity theft, or financial exploitation.** This includes content that someone has posted themselves or that they consented to being shared by others.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-If you believe you have experienced a privacy violation, you can [report it](https://www.tiktok.com/legal/report/privacy?lang=en).
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-More information
-
-NOT ALLOWED
-
-* Personal non-public phone numbers and home addresses
-* Financial and payment information, such as bank account or credit card numbers
-* Login information, such as usernames or passwords
-* Identity documentation, cards, or numbers, such as passports, government-issued identifications, or social security numbers
-* Threats or encouragement to share personal information or to hack an account
-
-* * *
-
-### Platform Security
-
-We work hard to protect and secure you and your information on TikTok. **We do not allow: (1) access to any part of TikTok through unauthorized methods; (2) attempts to obtain sensitive, confidential, commercial, or personal information; or (3) any abuse of the security, integrity, or reliability of our platform.**
-
-You should avoid clicking on suspicious links or responding to requests for information about your account details, passwords, verification qualification, financial, and other personal information. Learn more about our approach to [privacy and security](https://www.tiktok.com/safety/privacy-and-security-on-tiktok/?lang=en) on the platform.
-
-More information
-
-NOT ALLOWED
-
-* Providing other people with access to your account credentials or enabling other people to conduct activities that violate our rules
-* Accessing our platform in an unauthorized way, or creating fake versions of our platform
-* Sharing malicious files, content, and messages that contain viruses, Trojan horses, worms, logic bombs, or other harmful materials endangering cyber security
-* Attempting to obtain personal information (such as login credentials) or access content, accounts, systems, or data through the use of any deceptive technique (such as phishing, smishing, automated scripts, or web crawling)
-* Modifying, adapting, translating, reverse engineering, disassembling, decompiling, or creating any derivative products based on TikTok, including any files, tables or documentation, and attempting to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
-
-Privacy and Security
+Community Principles
 --------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We know that protecting your privacy rights and personal information, and keeping our platform secure, are critical to maintaining your trust and ensuring your safety.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-### Personal Information
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-Content shared online may be seen by anyone, and has a wide reach. We are committed to making sure that any personal information shared intentionally or accidentally on TikTok does not lead to harm. **We do not allow content that includes personal information that may pose a risk of stalking, violence, phishing, fraud, identity theft, or financial exploitation.** This includes content that someone has posted themselves or that they consented to being shared by others.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-If you believe you have experienced a privacy violation, you can [report it](https://www.tiktok.com/legal/report/privacy?lang=en).
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-More information
-
-NOT ALLOWED
-
-* Personal non-public phone numbers and home addresses
-* Financial and payment information, such as bank account or credit card numbers
-* Login information, such as usernames or passwords
-* Identity documentation, cards, or numbers, such as passports, government-issued identifications, or social security numbers
-* Threats or encouragement to share personal information or to hack an account
-
-* * *
-
-### Platform Security
-
-We work hard to protect and secure you and your information on TikTok. **We do not allow: (1) access to any part of TikTok through unauthorized methods; (2) attempts to obtain sensitive, confidential, commercial, or personal information; or (3) any abuse of the security, integrity, or reliability of our platform.**
-
-You should avoid clicking on suspicious links or responding to requests for information about your account details, passwords, verification qualification, financial, and other personal information. Learn more about our approach to [privacy and security](https://www.tiktok.com/safety/privacy-and-security-on-tiktok/?lang=en) on the platform.
-
-More information
-
-NOT ALLOWED
-
-* Providing other people with access to your account credentials or enabling other people to conduct activities that violate our rules
-* Accessing our platform in an unauthorized way, or creating fake versions of our platform
-* Sharing malicious files, content, and messages that contain viruses, Trojan horses, worms, logic bombs, or other harmful materials endangering cyber security
-* Attempting to obtain personal information (such as login credentials) or access content, accounts, systems, or data through the use of any deceptive technique (such as phishing, smishing, automated scripts, or web crawling)
-* Modifying, adapting, translating, reverse engineering, disassembling, decompiling, or creating any derivative products based on TikTok, including any files, tables or documentation, and attempting to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
-
-Privacy and Security
+Community Principles
 --------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We know that protecting your privacy rights and personal information, and keeping our platform secure, are critical to maintaining your trust and ensuring your safety.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-### Personal Information
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-Content shared online may be seen by anyone, and has a wide reach. We are committed to making sure that any personal information shared intentionally or accidentally on TikTok does not lead to harm. **We do not allow content that includes personal information that may pose a risk of stalking, violence, phishing, fraud, identity theft, or financial exploitation.** This includes content that someone has posted themselves or that they consented to being shared by others.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-If you believe you have experienced a privacy violation, you can [report it](https://www.tiktok.com/legal/report/privacy?lang=en).
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-More information
-
-NOT ALLOWED
-
-* Personal non-public phone numbers and home addresses
-* Financial and payment information, such as bank account or credit card numbers
-* Login information, such as usernames or passwords
-* Identity documentation, cards, or numbers, such as passports, government-issued identifications, or social security numbers
-* Threats or encouragement to share personal information or to hack an account
-
-* * *
-
-### Platform Security
-
-We work hard to protect and secure you and your information on TikTok. **We do not allow: (1) access to any part of TikTok through unauthorized methods; (2) attempts to obtain sensitive, confidential, commercial, or personal information; or (3) any abuse of the security, integrity, or reliability of our platform.**
-
-You should avoid clicking on suspicious links or responding to requests for information about your account details, passwords, verification qualification, financial, and other personal information. Learn more about our approach to [privacy and security](https://www.tiktok.com/safety/privacy-and-security-on-tiktok/?lang=en) on the platform.
-
-More information
-
-NOT ALLOWED
-
-* Providing other people with access to your account credentials or enabling other people to conduct activities that violate our rules
-* Accessing our platform in an unauthorized way, or creating fake versions of our platform
-* Sharing malicious files, content, and messages that contain viruses, Trojan horses, worms, logic bombs, or other harmful materials endangering cyber security
-* Attempting to obtain personal information (such as login credentials) or access content, accounts, systems, or data through the use of any deceptive technique (such as phishing, smishing, automated scripts, or web crawling)
-* Modifying, adapting, translating, reverse engineering, disassembling, decompiling, or creating any derivative products based on TikTok, including any files, tables or documentation, and attempting to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
-
-Privacy and Security
+Community Principles
 --------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We know that protecting your privacy rights and personal information, and keeping our platform secure, are critical to maintaining your trust and ensuring your safety.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-### Personal Information
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-Content shared online may be seen by anyone, and has a wide reach. We are committed to making sure that any personal information shared intentionally or accidentally on TikTok does not lead to harm. **We do not allow content that includes personal information that may pose a risk of stalking, violence, phishing, fraud, identity theft, or financial exploitation.** This includes content that someone has posted themselves or that they consented to being shared by others.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-If you believe you have experienced a privacy violation, you can [report it](https://www.tiktok.com/legal/report/privacy?lang=en).
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-More information
-
-NOT ALLOWED
-
-* Personal non-public phone numbers and home addresses
-* Financial and payment information, such as bank account or credit card numbers
-* Login information, such as usernames or passwords
-* Identity documentation, cards, or numbers, such as passports, government-issued identifications, or social security numbers
-* Threats or encouragement to share personal information or to hack an account
-
-* * *
-
-### Platform Security
-
-We work hard to protect and secure you and your information on TikTok. **We do not allow: (1) access to any part of TikTok through unauthorized methods; (2) attempts to obtain sensitive, confidential, commercial, or personal information; or (3) any abuse of the security, integrity, or reliability of our platform.**
-
-You should avoid clicking on suspicious links or responding to requests for information about your account details, passwords, verification qualification, financial, and other personal information. Learn more about our approach to [privacy and security](https://www.tiktok.com/safety/privacy-and-security-on-tiktok/?lang=en) on the platform.
-
-More information
-
-NOT ALLOWED
-
-* Providing other people with access to your account credentials or enabling other people to conduct activities that violate our rules
-* Accessing our platform in an unauthorized way, or creating fake versions of our platform
-* Sharing malicious files, content, and messages that contain viruses, Trojan horses, worms, logic bombs, or other harmful materials endangering cyber security
-* Attempting to obtain personal information (such as login credentials) or access content, accounts, systems, or data through the use of any deceptive technique (such as phishing, smishing, automated scripts, or web crawling)
-* Modifying, adapting, translating, reverse engineering, disassembling, decompiling, or creating any derivative products based on TikTok, including any files, tables or documentation, and attempting to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
-
-Privacy and Security
+Community Principles
 --------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We know that protecting your privacy rights and personal information, and keeping our platform secure, are critical to maintaining your trust and ensuring your safety.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-### Personal Information
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-Content shared online may be seen by anyone, and has a wide reach. We are committed to making sure that any personal information shared intentionally or accidentally on TikTok does not lead to harm. **We do not allow content that includes personal information that may pose a risk of stalking, violence, phishing, fraud, identity theft, or financial exploitation.** This includes content that someone has posted themselves or that they consented to being shared by others.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-If you believe you have experienced a privacy violation, you can [report it](https://www.tiktok.com/legal/report/privacy?lang=en).
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-More information
-
-NOT ALLOWED
-
-* Personal non-public phone numbers and home addresses
-* Financial and payment information, such as bank account or credit card numbers
-* Login information, such as usernames or passwords
-* Identity documentation, cards, or numbers, such as passports, government-issued identifications, or social security numbers
-* Threats or encouragement to share personal information or to hack an account
-
-* * *
-
-### Platform Security
-
-We work hard to protect and secure you and your information on TikTok. **We do not allow: (1) access to any part of TikTok through unauthorized methods; (2) attempts to obtain sensitive, confidential, commercial, or personal information; or (3) any abuse of the security, integrity, or reliability of our platform.**
-
-You should avoid clicking on suspicious links or responding to requests for information about your account details, passwords, verification qualification, financial, and other personal information. Learn more about our approach to [privacy and security](https://www.tiktok.com/safety/privacy-and-security-on-tiktok/?lang=en) on the platform.
-
-More information
-
-NOT ALLOWED
-
-* Providing other people with access to your account credentials or enabling other people to conduct activities that violate our rules
-* Accessing our platform in an unauthorized way, or creating fake versions of our platform
-* Sharing malicious files, content, and messages that contain viruses, Trojan horses, worms, logic bombs, or other harmful materials endangering cyber security
-* Attempting to obtain personal information (such as login credentials) or access content, accounts, systems, or data through the use of any deceptive technique (such as phishing, smishing, automated scripts, or web crawling)
-* Modifying, adapting, translating, reverse engineering, disassembling, decompiling, or creating any derivative products based on TikTok, including any files, tables or documentation, and attempting to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
-
-Privacy and Security
+Community Principles
 --------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We know that protecting your privacy rights and personal information, and keeping our platform secure, are critical to maintaining your trust and ensuring your safety.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-### Personal Information
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-Content shared online may be seen by anyone, and has a wide reach. We are committed to making sure that any personal information shared intentionally or accidentally on TikTok does not lead to harm. **We do not allow content that includes personal information that may pose a risk of stalking, violence, phishing, fraud, identity theft, or financial exploitation.** This includes content that someone has posted themselves or that they consented to being shared by others.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-If you believe you have experienced a privacy violation, you can [report it](https://www.tiktok.com/legal/report/privacy?lang=en).
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-More information
-
-NOT ALLOWED
-
-* Personal non-public phone numbers and home addresses
-* Financial and payment information, such as bank account or credit card numbers
-* Login information, such as usernames or passwords
-* Identity documentation, cards, or numbers, such as passports, government-issued identifications, or social security numbers
-* Threats or encouragement to share personal information or to hack an account
-
-* * *
-
-### Platform Security
-
-We work hard to protect and secure you and your information on TikTok. **We do not allow: (1) access to any part of TikTok through unauthorized methods; (2) attempts to obtain sensitive, confidential, commercial, or personal information; or (3) any abuse of the security, integrity, or reliability of our platform.**
-
-You should avoid clicking on suspicious links or responding to requests for information about your account details, passwords, verification qualification, financial, and other personal information. Learn more about our approach to [privacy and security](https://www.tiktok.com/safety/privacy-and-security-on-tiktok/?lang=en) on the platform.
-
-More information
-
-NOT ALLOWED
-
-* Providing other people with access to your account credentials or enabling other people to conduct activities that violate our rules
-* Accessing our platform in an unauthorized way, or creating fake versions of our platform
-* Sharing malicious files, content, and messages that contain viruses, Trojan horses, worms, logic bombs, or other harmful materials endangering cyber security
-* Attempting to obtain personal information (such as login credentials) or access content, accounts, systems, or data through the use of any deceptive technique (such as phishing, smishing, automated scripts, or web crawling)
-* Modifying, adapting, translating, reverse engineering, disassembling, decompiling, or creating any derivative products based on TikTok, including any files, tables or documentation, and attempting to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
-
-Privacy and Security
+Community Principles
 --------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We know that protecting your privacy rights and personal information, and keeping our platform secure, are critical to maintaining your trust and ensuring your safety.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-### Personal Information
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-Content shared online may be seen by anyone, and has a wide reach. We are committed to making sure that any personal information shared intentionally or accidentally on TikTok does not lead to harm. **We do not allow content that includes personal information that may pose a risk of stalking, violence, phishing, fraud, identity theft, or financial exploitation.** This includes content that someone has posted themselves or that they consented to being shared by others.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-If you believe you have experienced a privacy violation, you can [report it](https://www.tiktok.com/legal/report/privacy?lang=en).
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-More information
-
-NOT ALLOWED
-
-* Personal non-public phone numbers and home addresses
-* Financial and payment information, such as bank account or credit card numbers
-* Login information, such as usernames or passwords
-* Identity documentation, cards, or numbers, such as passports, government-issued identifications, or social security numbers
-* Threats or encouragement to share personal information or to hack an account
-
-* * *
-
-### Platform Security
-
-We work hard to protect and secure you and your information on TikTok. **We do not allow: (1) access to any part of TikTok through unauthorized methods; (2) attempts to obtain sensitive, confidential, commercial, or personal information; or (3) any abuse of the security, integrity, or reliability of our platform.**
-
-You should avoid clicking on suspicious links or responding to requests for information about your account details, passwords, verification qualification, financial, and other personal information. Learn more about our approach to [privacy and security](https://www.tiktok.com/safety/privacy-and-security-on-tiktok/?lang=en) on the platform.
-
-More information
-
-NOT ALLOWED
-
-* Providing other people with access to your account credentials or enabling other people to conduct activities that violate our rules
-* Accessing our platform in an unauthorized way, or creating fake versions of our platform
-* Sharing malicious files, content, and messages that contain viruses, Trojan horses, worms, logic bombs, or other harmful materials endangering cyber security
-* Attempting to obtain personal information (such as login credentials) or access content, accounts, systems, or data through the use of any deceptive technique (such as phishing, smishing, automated scripts, or web crawling)
-* Modifying, adapting, translating, reverse engineering, disassembling, decompiling, or creating any derivative products based on TikTok, including any files, tables or documentation, and attempting to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
-
-Privacy and Security
+Community Principles
 --------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We know that protecting your privacy rights and personal information, and keeping our platform secure, are critical to maintaining your trust and ensuring your safety.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-### Personal Information
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-Content shared online may be seen by anyone, and has a wide reach. We are committed to making sure that any personal information shared intentionally or accidentally on TikTok does not lead to harm. **We do not allow content that includes personal information that may pose a risk of stalking, violence, phishing, fraud, identity theft, or financial exploitation.** This includes content that someone has posted themselves or that they consented to being shared by others.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-If you believe you have experienced a privacy violation, you can [report it](https://www.tiktok.com/legal/report/privacy?lang=en).
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-More information
-
-NOT ALLOWED
-
-* Personal non-public phone numbers and home addresses
-* Financial and payment information, such as bank account or credit card numbers
-* Login information, such as usernames or passwords
-* Identity documentation, cards, or numbers, such as passports, government-issued identifications, or social security numbers
-* Threats or encouragement to share personal information or to hack an account
-
-* * *
-
-### Platform Security
-
-We work hard to protect and secure you and your information on TikTok. **We do not allow: (1) access to any part of TikTok through unauthorized methods; (2) attempts to obtain sensitive, confidential, commercial, or personal information; or (3) any abuse of the security, integrity, or reliability of our platform.**
-
-You should avoid clicking on suspicious links or responding to requests for information about your account details, passwords, verification qualification, financial, and other personal information. Learn more about our approach to [privacy and security](https://www.tiktok.com/safety/privacy-and-security-on-tiktok/?lang=en) on the platform.
-
-More information
-
-NOT ALLOWED
-
-* Providing other people with access to your account credentials or enabling other people to conduct activities that violate our rules
-* Accessing our platform in an unauthorized way, or creating fake versions of our platform
-* Sharing malicious files, content, and messages that contain viruses, Trojan horses, worms, logic bombs, or other harmful materials endangering cyber security
-* Attempting to obtain personal information (such as login credentials) or access content, accounts, systems, or data through the use of any deceptive technique (such as phishing, smishing, automated scripts, or web crawling)
-* Modifying, adapting, translating, reverse engineering, disassembling, decompiling, or creating any derivative products based on TikTok, including any files, tables or documentation, and attempting to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
-
-Privacy and Security
+Community Principles
 --------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We know that protecting your privacy rights and personal information, and keeping our platform secure, are critical to maintaining your trust and ensuring your safety.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-### Personal Information
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-Content shared online may be seen by anyone, and has a wide reach. We are committed to making sure that any personal information shared intentionally or accidentally on TikTok does not lead to harm. **We do not allow content that includes personal information that may pose a risk of stalking, violence, phishing, fraud, identity theft, or financial exploitation.** This includes content that someone has posted themselves or that they consented to being shared by others.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-If you believe you have experienced a privacy violation, you can [report it](https://www.tiktok.com/legal/report/privacy?lang=en).
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-More information
-
-NOT ALLOWED
-
-* Personal non-public phone numbers and home addresses
-* Financial and payment information, such as bank account or credit card numbers
-* Login information, such as usernames or passwords
-* Identity documentation, cards, or numbers, such as passports, government-issued identifications, or social security numbers
-* Threats or encouragement to share personal information or to hack an account
-
-* * *
-
-### Platform Security
-
-We work hard to protect and secure you and your information on TikTok. **We do not allow: (1) access to any part of TikTok through unauthorized methods; (2) attempts to obtain sensitive, confidential, commercial, or personal information; or (3) any abuse of the security, integrity, or reliability of our platform.**
-
-You should avoid clicking on suspicious links or responding to requests for information about your account details, passwords, verification qualification, financial, and other personal information. Learn more about our approach to [privacy and security](https://www.tiktok.com/safety/privacy-and-security-on-tiktok/?lang=en) on the platform.
-
-More information
-
-NOT ALLOWED
-
-* Providing other people with access to your account credentials or enabling other people to conduct activities that violate our rules
-* Accessing our platform in an unauthorized way, or creating fake versions of our platform
-* Sharing malicious files, content, and messages that contain viruses, Trojan horses, worms, logic bombs, or other harmful materials endangering cyber security
-* Attempting to obtain personal information (such as login credentials) or access content, accounts, systems, or data through the use of any deceptive technique (such as phishing, smishing, automated scripts, or web crawling)
-* Modifying, adapting, translating, reverse engineering, disassembling, decompiling, or creating any derivative products based on TikTok, including any files, tables or documentation, and attempting to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
-
-Privacy and Security
+Community Principles
 --------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We know that protecting your privacy rights and personal information, and keeping our platform secure, are critical to maintaining your trust and ensuring your safety.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-### Personal Information
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-Content shared online may be seen by anyone, and has a wide reach. We are committed to making sure that any personal information shared intentionally or accidentally on TikTok does not lead to harm. **We do not allow content that includes personal information that may pose a risk of stalking, violence, phishing, fraud, identity theft, or financial exploitation.** This includes content that someone has posted themselves or that they consented to being shared by others.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-If you believe you have experienced a privacy violation, you can [report it](https://www.tiktok.com/legal/report/privacy?lang=en).
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-More information
-
-NOT ALLOWED
-
-* Personal non-public phone numbers and home addresses
-* Financial and payment information, such as bank account or credit card numbers
-* Login information, such as usernames or passwords
-* Identity documentation, cards, or numbers, such as passports, government-issued identifications, or social security numbers
-* Threats or encouragement to share personal information or to hack an account
-
-* * *
-
-### Platform Security
-
-We work hard to protect and secure you and your information on TikTok. **We do not allow: (1) access to any part of TikTok through unauthorized methods; (2) attempts to obtain sensitive, confidential, commercial, or personal information; or (3) any abuse of the security, integrity, or reliability of our platform.**
-
-You should avoid clicking on suspicious links or responding to requests for information about your account details, passwords, verification qualification, financial, and other personal information. Learn more about our approach to [privacy and security](https://www.tiktok.com/safety/privacy-and-security-on-tiktok/?lang=en) on the platform.
-
-More information
-
-NOT ALLOWED
-
-* Providing other people with access to your account credentials or enabling other people to conduct activities that violate our rules
-* Accessing our platform in an unauthorized way, or creating fake versions of our platform
-* Sharing malicious files, content, and messages that contain viruses, Trojan horses, worms, logic bombs, or other harmful materials endangering cyber security
-* Attempting to obtain personal information (such as login credentials) or access content, accounts, systems, or data through the use of any deceptive technique (such as phishing, smishing, automated scripts, or web crawling)
-* Modifying, adapting, translating, reverse engineering, disassembling, decompiling, or creating any derivative products based on TikTok, including any files, tables or documentation, and attempting to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
-
-Privacy and Security
+Community Principles
 --------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We know that protecting your privacy rights and personal information, and keeping our platform secure, are critical to maintaining your trust and ensuring your safety.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-### Personal Information
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-Content shared online may be seen by anyone, and has a wide reach. We are committed to making sure that any personal information shared intentionally or accidentally on TikTok does not lead to harm. **We do not allow content that includes personal information that may pose a risk of stalking, violence, phishing, fraud, identity theft, or financial exploitation.** This includes content that someone has posted themselves or that they consented to being shared by others.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-If you believe you have experienced a privacy violation, you can [report it](https://www.tiktok.com/legal/report/privacy?lang=en).
-
-More information
-
-NOT ALLOWED
-
-* Personal non-public phone numbers and home addresses
-* Financial and payment information, such as bank account or credit card numbers
-* Login information, such as usernames or passwords
-* Identity documentation, cards, or numbers, such as passports, government-issued identifications, or social security numbers
-* Threats or encouragement to share personal information or to hack an account
-
-* * *
-
-### Platform Security
-
-We work hard to protect and secure you and your information on TikTok. **We do not allow: (1) access to any part of TikTok through unauthorized methods; (2) attempts to obtain sensitive, confidential, commercial, or personal information; or (3) any abuse of the security, integrity, or reliability of our platform.**
-
-You should avoid clicking on suspicious links or responding to requests for information about your account details, passwords, verification qualification, financial, and other personal information. Learn more about our approach to [privacy and security](https://www.tiktok.com/safety/privacy-and-security-on-tiktok/?lang=en) on the platform.
-
-More information
-
-NOT ALLOWED
-
-* Providing other people with access to your account credentials or enabling other people to conduct activities that violate our rules
-* Accessing our platform in an unauthorized way, or creating fake versions of our platform
-* Sharing malicious files, content, and messages that contain viruses, Trojan horses, worms, logic bombs, or other harmful materials endangering cyber security
-* Attempting to obtain personal information (such as login credentials) or access content, accounts, systems, or data through the use of any deceptive technique (such as phishing, smishing, automated scripts, or web crawling)
-* Modifying, adapting, translating, reverse engineering, disassembling, decompiling, or creating any derivative products based on TikTok, including any files, tables or documentation, and attempting to regenerate any source code, algorithms, methods, or techniques embodied in TikTok
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
