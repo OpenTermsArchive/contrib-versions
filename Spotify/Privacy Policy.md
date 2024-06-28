@@ -20,7 +20,7 @@ Effective as of 27 June 2024
 
 [9\. Children](#9-children)
 
-[10\. Request metrics](#10-privacy-request-metrics)
+[10\. Privacy Request Metrics](#10-privacy-request-metrics)
 
 [11\. Changes to this Policy](#11-changes-to-this-policy)
 
