@@ -1,4 +1,4 @@
-Effective March 31, 2024 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_03312024_80.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_SP_03312024_36.pdf)
+Effective July 1, 2024 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-5055_xfinity-com-welcome-kit-legal/PP_07012024.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-5055_xfinity-com-welcome-kit-legal/PP_SP_07012024.pdf)
 
   
 
@@ -225,7 +225,7 @@ We may also share personal information that does not identify you with third par
 
 **The Comcast family of businesses**
 
-If Comcast shares the personal information it collects about you with separate Comcast companies, such as NBCUniversal-branded companies, to use for their own purposes, we will first give you the choice to opt out of or opt in to any sharing in the [Xfinity Privacy Preferences Center](https://www.xfinity.com/privacy/your-privacy-choices).
+If Comcast shares the personal information it collects about you with separate Comcast companies, including our parent company Comcast Corporation and its subsidiaries, such as NBCUniversal and Sky, to use for their own purposes, we will first give you the choice to opt out of or opt in, as appropriate, in the [Xfinity Privacy Preferences Center](https://www.xfinity.com/privacy/your-privacy-choices).
 
 * * *
 
@@ -292,11 +292,11 @@ cookies and other technologies on our online Services, please see the [Cookies 
 
 AUDIENCE MEASUREMENT AND ANALYTICS COMPANIES
 
-We work with business partners to help us measure and analyze how our customers are using our Services. For video, this includes assessing which programs are most popular, how many people watch a program to its conclusion, whether people are watching advertisements, and what programming and video content we will carry on the Services. It also includes determining how our customers prefer to view certain kinds of programming when they use our Services, such as whether they like to watch certain programs live, or if they prefer to view them on demand, on mobile devices, or online. Our business partners may compile this information into reports with aggregated and anonymous statistics that are then made commercially available (for example, a ratings report that indicates what percentage of viewers watched a particular program live vs. on-demand). Xfinity Stream includes Nielsen's proprietary measurement software, which will allow users to contribute to market research, like Nielsen's television ratings. By visiting www.nielsen.com/digitalprivacy, users can access more information about the measurement software and learn about their choices with regard to Nielsen's measurement.
+We work with business partners to help us measure and analyze how our customers are using our Services. For video, this includes assessing which programs are most popular, how many people watch a program to its conclusion, whether people are watching advertisements, and what programming and video content we will carry on the Services. It also includes determining how our customers prefer to view certain kinds of programming when they use our Services, such as whether they like to watch certain programs live, or if they prefer to view them on demand, on mobile devices, or online. Our business partners may compile this information into reports with aggregated and anonymous statistics that are then made commercially available (for example, a ratings report that indicates what percentage of viewers watched a particular program live vs. on-demand). Xfinity Stream includes Nielsen's proprietary measurement software, which will allow users to contribute to market research, like Nielsen's television ratings. By visiting [nielsen.com/digitalprivacy](http://www.nielsen.com/digitalprivacy), users can access more information about the measurement software and learn about their choices with regard to Nielsen's measurement.
 
 NON-XFINITY APPS AND PARTNERS
 
-Certain Services enable you to interact directly with technology provided by other companies, such as using a [non-Xfinity video app](#/privacy/overlays/Non-Xfinity-Video-app) available through our Services, or accessing our Services through [another company’s platform or device](#/privacy/overlays/Another-company-Platform). When you use our Services in connection with any technology provided by another company, you are directing us to interact with that company and that company may collect information from you and our Services. This Privacy Policy does not cover the privacy practices of other companies. For more information about how those companies use your information, please review their privacy policies. For more information about non-Xfinity apps supported on our video Services, please visit [https://my.xfinity.com/privacy/providers](https://my.xfinity.com/privacy/providers). Certain apps may also run using technology provided by Metrological, a separate Comcast company not subject to this Privacy Policy, whose privacy practices are described at [www.metrological.com/privacypolicy](https://www.xfinity.com/privacy/www.metrological.com/privacypolicy).
+Certain Services enable you to interact directly with technology provided by other companies, such as using a [non-Xfinity video app](#/privacy/overlays/Non-Xfinity-Video-app) available through our Services, or accessing our Services through [another company’s platform or device](#/privacy/overlays/Another-company-Platform). When you use our Services in connection with any technology provided by another company, you are directing us to interact with that company and that company may collect information from you and our Services. This Privacy Policy does not cover the privacy practices of other companies. For more information about how those companies use your information, please review their privacy policies. For more information about non-Xfinity apps supported on our video Services, please visit [https://my.xfinity.com/privacy/providers](https://my.xfinity.com/privacy/providers). Certain apps may also run using technology provided by Metrological, a separate Comcast company not subject to this Privacy Policy, whose privacy practices are described at [metrological.com/privacypolicy](https://www.xfinity.com/privacy/www.metrological.com/privacypolicy).
 
 CONSUMER REPORTING AGENCIES
 
@@ -369,7 +369,7 @@ Part of our commitment to transparency includes giving our customers access to t
 
 Certain states may give you additional rights, as described in the “[Additional information regarding other laws and individual rights](https://www.xfinity.com/privacy/policy/staterights)” section of this Privacy Policy.
 
-All individuals may also make requests to access and correct certain personal information, and to have us delete certain personal information through our Privacy Center by visiting [www.xfinity.com/privacy/requests](https://www.xfinity.com/privacy/requests). 
+All individuals may also make requests to access and correct certain personal information, and to have us delete certain personal information through our Privacy Center by visiting [xfinity.com/privacy/requests](https://www.xfinity.com/privacy/requests). 
 
 If you subscribe to an Xfinity Service, you may correct or update information in [your account](https://www.xfinity.com/overview) or by contacting us as described below. If you are an Xfinity Home customer, you can also correct or update your contact and emergency information in the Xfinity Home app. We will correct our records once we have verified that the changes you request are proper.
 
@@ -414,6 +414,12 @@ Your privacy may be impacted differently depending on where you live. If you're 
 [Colorado](https://www.xfinity.com/privacy/policy/staterights#colorado)
 
 [Maine](https://www.xfinity.com/privacy/policy/staterights#maine)
+
+[Montana](https://www.xfinity.com/privacy/policy/staterights#montana)
+
+[Oregon](https://www.xfinity.com/privacy/policy/staterights#oregon)
+
+[Texas](https://www.xfinity.com/privacy/policy/staterights#texas)
 
 [Utah](https://www.xfinity.com/privacy/policy/staterights#utah)
 
