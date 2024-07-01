@@ -6,11 +6,11 @@ Please see the [Consumer Health Data Privacy Notice for Washington and Nevada](h
 
 **Starbucks Privacy Notice**
 
-Last Revised: March 29, 2024
+Last Revised: July 01, 2024
 
 **Overview**
 
-This Starbucks Privacy Notice describes the types of personal information that Starbucks Corporation and its respective subsidiaries and affiliated companies (“Starbucks,” “we,” and “us”) collect, how we use it, how and when it may be shared, and the rights and choices you have with respect to your information. It also explains how we communicate with you and how you can make requests or submit inquiries to us about your information. Our goal is to help you understand how we use your information to improve our products, services, marketing, and interactions with you, as part of our commitment to maintaining your trust. Thank you for taking the time to read and understand our data and privacy related practices.
+This Starbucks Privacy Notice describes the types of personal information that Starbucks Corporation and its respective subsidiaries and affiliates (“Starbucks,” “we,” and “us”) collect, how we use it, how and when it may be shared, and the rights and choices you have with respect to your information. It also explains how we communicate with you and how you can make requests or submit inquiries to us about your information. Our goal is to help you understand how we use your information to improve our products, services, marketing, and interactions with you, as part of our commitment to maintaining your trust. Thank you for taking the time to read and understand our data and privacy related practices.
 
 By continuing to use Starbucks Services you acknowledge this Privacy Notice and agree to our Terms of Use and other important policies, all available on our Online Policies page.
 
@@ -66,7 +66,7 @@ Without this information, we may not be able to provide you with all the request
 
 **4\. Sources of Information**
 
-In addition to the information we receive from you, we may also receive the categories of information described above from other sources including from other users of Starbucks Services (such as when they purchase a gift for you), advertising partners, co-sponsors, internet service providers, data analytics providers, operating systems and platforms, social networks, and publicly available sources.  For example, if you access any social media or similar services through the Starbucks Services to login or to share information about your experience on our Starbucks Services with others, we may collect information from these third-party services.
+In addition to the information we receive from you, we may also receive the categories of information described above from other sources including from other users of Starbucks Services (such as when they purchase a gift for you), advertising partners, co-sponsors, internet service providers, data analytics providers, operating systems and platforms, social networks, and publicly available sources. For example, if you access any social media or similar services through the Starbucks Services to login or to share information about your experience on our Starbucks Services with others, we may collect information from these third-party services.
 
 **5\. How We Use Your Information**
 
@@ -112,9 +112,9 @@ We may use your information for business purposes, including to provide the prod
 
 We may disclose your information as needed to fulfill the purposes described in this Notice and as permitted by applicable law.
 
- **(a) When We Work Together** – We may share information between and among Starbucks Corporation, its subsidiaries, and affiliated companies for purposes of management and analysis, decision making, and other business purposes. For example, we may share your information with our subsidiaries and affiliated companies to administer our loyalty programs, process orders and requests, and expand and promote our product and service offerings.
+ **(a) When We Work Together** – We may share information between and among Starbucks Corporation, its subsidiaries, and affiliates companies for purposes of management and analysis, decision making, and other business purposes. For example, we may share your information with our subsidiaries and affiliates companies to administer our loyalty programs, process orders and requests, and expand and promote our product and service offerings.
 
-**(b)  When We Work with Service Providers & Business Partners** – We may share identifiers, commercial information, electronic and network activity, geolocation and precise geolocation information, audio and visual information, and inferences, as described above, for a variety of business purposes, such as payment processing, website and data hosting, location mapping, product and service delivery, customer service, advertising and marketing (including counting ad impressions, ensuring compliance with industry standards, personalization, analytics services, security and performance monitoring, maintaining and servicing accounts, processing or fulfilling orders and transactions, verifying customer information, research, auditing, and data processing. We strive to contractually prohibit these service providers and business partners from retaining, using, or disclosing your confidential personal information for any purpose other than performing agreed upon services for us.
+**(b)  When We Work with Service Providers & Business Partners** – We may share each of the categories of information described, in the “Information We Collect” section, for a variety of business purposes, with our service providers and business partners who provide an array of services such as payment processing, website and data hosting, location mapping, product and service delivery, customer service, advertising and marketing (including counting ad impressions and audience creation), facilitating sweepstakes and Starbucks® Rewards loyalty program benefits and communication, ensuring compliance with industry standards, personalization, analytics services, security and performance monitoring, maintaining and servicing accounts, processing or fulfilling orders and transactions, verifying customer information, research, auditing, and data processing. We strive to contractually prohibit these service providers and business partners from retaining, using, or disclosing your confidential personal information for any purpose other than performing agreed upon services for us.
 
 **(c)  When We Work on Business Transactions** – If we become involved with a merger, corporate transaction or another situation involving the transfer of some or all of our business assets, we may share your information with business entities or people involved in the negotiation or transfer.
 
@@ -181,7 +181,8 @@ If you allow for location sharing, your device may communicate with us in ways t
 For most mobile devices, you can disable the collection of geolocation information by turning off location services on your device.  If you have any questions about how to prevent Starbucks from collecting your geolocation, we recommend you contact your mobile device service provider or the device manufacturer. Certain Starbucks App features and some Starbucks Services may not work properly without information about your location. You can re-enable the collection of geolocation information, at any time, by turning on location services on your device.
 
 * **Voice Ordering –** In order to use certain Starbucks Services,  such as voice ordering, when available, you must (a) enable “microphone” and “speech recognition” in the Starbucks App; and/or (b) set the permissions in your mobile device to allow communication of this information.
-* **Email Communications, Push Notifications, and In-App Messages** – The Starbucks App allows all users to set preferences for receiving promotional email communications from Starbucks, receiving push notifications on your device, and receiving inbox messages. Please note as well that you may opt-out of receiving email communications at any time by adjusting your Starbucks online account settings or by clicking the “unsubscribe” link included within any commercial email we send you.
+* **Email Communications, Push Notifications, and In-App Messages****–** The Starbucks App allows all users to set preferences for receiving promotional email communications from Starbucks, receiving push notifications on your device, and receiving inbox messages. You may opt-out of receiving promotional emails at any time by adjusting your Starbucks online account settings or by clicking the “unsubscribe” link included within any promotional emails we send you. If you opt-out of receiving promotional emails from us, we may still send communications to you about your orders and transactions, and any accounts you have with us. Please note that when you opt-out of receiving promotional emails, you may still receive automated marketing text messages if you have opted-in to receiving them.
+* **Text Messages –** In connection with certain Starbucks Services you may consent to receiving automated marketing text messages. You may opt-out of receiving automated marketing text messages at any time by texting any of the following replies at the end of any text message you receive: STOP, END, CANCEL, UNSUBSCRIBE, or QUIT. Please note that when you opt-out of receiving automated marketing text messages you may still receive promotional emails.
 
 If you use the Starbucks App features described above, you consent to the transmission of your user information to Starbucks and/or its agents, and authorize Starbucks and/or its agents, to record, process, and store such user information as necessary for administering the Starbucks App features and for purposes described in this Notice.
 
@@ -234,7 +235,7 @@ Right to Delete
 
 Starbucks® Rewards is one way in which Starbucks endeavors to reward and thank loyal customers for patronizing our business and purchasing Starbucks products.  Starbucks® Rewards members opt in by signing up for Rewards online or through the Starbucks App and are able to earn and accumulate "Stars" that can be redeemed for Starbucks® Rewards benefits at participating Starbucks stores. If you would like to become a Starbucks® Rewards member, please see the Starbucks Rewards Terms of Use available at [https://www.starbucks.com/rewards/terms](https://www.starbucks.com/rewards/terms).
 
-Starbucks collects and uses the categories of personal information described in the “Information We Collect” section, including information you voluntarily provide us (such as your name and email), information we collect automatically, and information from other sources to operate the Starbucks® Rewards loyalty program, including to send you promotions, content, and special offers and the other uses described in this Notice.  We work with many service providers and business partners to offer the benefits of our Starbucks® Rewards loyalty program.  Those partners may fall into the following categories: delivery partners, Starbucks global licensees, subsidiaries, and affiliated companies, and our service providers and business partners.  You can learn about the business partners with whom we share your information by referring to the “How We Disclose Your Information” section.  Starbucks does not assign monetary value for the information we collect through the Starbucks® Rewards loyalty program when sending email communications.  You may opt out of receiving commercial email communications at any time by adjusting your Starbucks online account settings, or by clicking the “unsubscribe” link included within any commercial email we send you. Participation in Starbucks® Rewards is voluntary, and you may withdraw from the Starbucks® Rewards loyalty program by visiting the Account section in the Starbucks App, by requesting deletion of your information by filling out this form **[HERE](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html)**, or by calling Starbucks customer service. Please note that by withdrawing from Starbucks® Rewards, you will no longer have access to your Starbucks® Rewards account, but you can otherwise continue to use the Starbucks app. All points and rewards you have earned until the time of withdrawal will no longer be available.  As previously shared, to communicate and provide services to you through the Starbucks® Rewards loyalty program, we need to use your personal information. Therefore, if you choose to delete your personal information from the Starbucks® Rewards loyalty program, we can no longer provide you with services through this loyalty program. 
+Starbucks collects and uses the categories of personal information described in the “Information We Collect” section, including information you voluntarily provide us (such as your name and email), information we collect automatically, and information from other sources to operate the Starbucks® Rewards loyalty program, including to send you promotions, content, and special offers and the other uses described in this Notice.  We work with many service providers and business partners to offer the benefits of our Starbucks® Rewards loyalty program.  Those partners may fall into the following categories: delivery partners, Starbucks global licensees, subsidiaries, and affiliates, and or service providers and business partners.  You can learn about the business partners with whom we share your information by referring to the “How We Disclose Your Information” section.  Starbucks does not assign monetary value for the information we collect through the Starbucks® Rewards loyalty program when sending email communications.  You may opt out of receiving promotional emails at any time by adjusting your Starbucks online account settings, or by clicking the “unsubscribe” link included within any promotional emails we send you. Participation in Starbucks® Rewards is voluntary, and you may withdraw from the Starbucks® Rewards loyalty program by visiting the Account section in the Starbucks App, by requesting deletion of your information by filling out this form **[HERE](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html)**, or by calling Starbucks customer service. Please note that by withdrawing from Starbucks® Rewards, you will no longer have access to your Starbucks® Rewards account, but you can otherwise continue to use the Starbucks app. All points and rewards you have earned until the time of withdrawal will no longer be available.  As previously shared, to communicate and provide services to you through the Starbucks® Rewards loyalty program, we need to use your personal information. Therefore, if you choose to delete your personal information from the Starbucks® Rewards loyalty program, we can no longer provide you with services through this loyalty program. 
 
 Based on our reasonable and good faith estimate, we receive value from Starbucks® Rewards in increased customer loyalty and patronage, though any value will vary by Starbucks® Rewards member depending on purchases made, which offers a member takes advantage of, and many other factors.
 
@@ -245,16 +246,20 @@ This section provides general information about how Starbucks collects, stores, 
 **(a)  Lawful Bases of Processing** – Where a Starbucks entity is acting as a data controller that determines the purposes and means of processing your personal data, such as when we collect, use, and share personal data as described in this Notice, we must have a lawful basis for processing for doing so. Our lawful bases for processing personal data include:
 
 * to conclude or perform a contract with you, for example to:
+    
     * process your purchases of or requests for products and services, including delivering
     * gift cards in accordance with your instructions;
     * communicate with you about orders, purchases, returns, services, accounts, programs,
     * contests, and sweepstakes;
+    
 * for our legitimate business purposes, including to:
+    
     * respond to your customer service inquiries and requests for information;
     * maintain, improve, and analyze our websites, mobile applications, ads, and the
     * products and services we offer;
     * detect, prevent, or investigate security breaches or fraud; and
     * facilitate the functionality of our websites and mobile applications;
+    
 * to comply with our legal obligations, for example to maintain appropriate records for internal administrative purposes and as required by applicable law, and provide important product safety information and notice of product recalls; and
 * on the basis of your consent, for example to send you via email and other electronic means personalized promotions and special offers or informing you about our brands, products, events, or other promotional purposes.
 
@@ -286,7 +291,7 @@ Starbucks is responsible for the processing of personal data it receives, and su
 
 Starbucks complies with the Data Privacy Principles for all onward transfers of personal data from the EU, the U.K., and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Privacy Framework, Starbucks is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+With respect to personal data received or transferred pursuant to the Data Privacy Framework, Starbucks is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
 
 In certain situations, Starbucks may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
@@ -308,7 +313,6 @@ Additional contact information may be found below for various Starbucks entities
     * Additional Contact (If Any) –
         * Customer Service
             * 800-Starbuc (782-7282)
-            * tel.: 800-Starbuc (782-7282)
 * **Country – France**
     * Entity Name – Starbucks Coffee France SAS
     * Entity Address – 38 rue des Jeûneurs, 75002 Paris
@@ -328,7 +332,7 @@ Additional contact information may be found below for various Starbucks entities
     * Entity Address – Building 4 Chiswick Park, 566 Chiswick High Road, London, W4 5YE
     * Additional Contact (If Any) –
         * Customer Support
-            * Please contact our Customer Care team [here](https://customercare.starbucks.co.uk/sbux?lang=en).
+            * Please contact our U.K. Customer Care team **[HERE](https://customercare.starbucks.co.uk/sbux?lang=en)**.
             * : +443330050449 or +442088345050 (app)
 * **Country – U.S.**
     * Entity Name – Starbucks Reserve; Princi
@@ -337,4 +341,4 @@ Additional contact information may be found below for various Starbucks entities
     * Customer Service
         * [http://customerservice.starbucks.com](http://customerservice.starbucks.com/)
         * : 800-Starbuc (782-7282)
-* [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)
+* [![TRUSTe](https://privacy-policy.truste.com/privacy-seal/seal?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)
