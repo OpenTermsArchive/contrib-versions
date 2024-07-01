@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-Fri 9 Feb 2024 10.33 GMT
+Mon 1 Jul 2024 16.22 BST
 
 Introduction
 ------------
@@ -10,7 +10,7 @@ This is the privacy policy for Guardian News & Media Limited (collectively refer
 
 Our [values](https://www.theguardian.com/global/blog/2015/sep/22/living-our-values-facts-guardian) guide everything that we do – including our editorial approach and how we use personal data. We are strongly committed to keeping your personal data safe. This commitment exists throughout the lifecycle of your personal data, from the design of any Guardian service which uses personal data to the deletion of that data.
 
-To complement our global approach to privacy protection, this policy also incorporates specific information privacy rights granted to individuals under Californian and Australian privacy law. This reflects our relationship with our readers in these locations where we provide localised editions of our editorial content.
+To complement our global approach to privacy protection, this policy also incorporates specific data privacy rights granted to individuals under Californian and Australian privacy law. This reflects our relationship with our readers in these locations where we provide localised editions of our editorial content.
 
 We think carefully about our use of personal data, and below you can find the details of what we do to protect your privacy. This policy covers, among other topics:
 
@@ -23,7 +23,7 @@ We think carefully about our use of personal data, and below you can find the de
 * Information on how we will facilitate your rights and respond to your questions.
     
 
-Find out more about how we manage your personal data below:
+Find out more about how we manage your personal data below.
 
 About this privacy policy
 -------------------------
@@ -72,14 +72,14 @@ We collect your personal data when you visit our sites, subscribe for products o
     
 * Personal data we generate about you, e.g. personal data we use to authenticate you, or personal data we generate about you from your IP address or your preferences.
     
-* Personal data we collect from third parties, e.g. personal data that helps us to combat fraud or which we collect, with your permission, when you interact with your social media accounts and/or payment service providers (e.g. Paypal).
+* Personal data we collect from third parties, e.g. personal data that helps us to combat fraud or which we collect, with your permission, when you interact with us through your social media accounts and/or payment service providers (e.g. Paypal).
     
 
 More details about the types of personal data we collect are provided below.
 
-_The personal data we collect when you register for a Guardian account_
+_The personal data we collect when you register for a Guardian account on theguardian.com_
 
-When you register for a Guardian account on theguardian.com, we collect:
+When you register for a Guardian account, we collect:
 
 * Your name.
     
@@ -98,7 +98,7 @@ You can change or remove these details using the profile and settings area of yo
 
 _Personal data we generate about you_
 
-When you register for a Guardian account or sign up for a newsletter, we assign you a unique ID number. We use this to manage your preferences, for example, the newsletters you have subscribed to. When you register for an account we use your unique ID to recognise you when you are signed in to our services. This will recognise you if you sign in using the same account on a new device or through a different application such as the Guardian app on mobile devices.
+When you register for a Guardian account or sign up for a newsletter, we assign you a unique ID number. We use this to manage your preferences, for example, the newsletters you have subscribed to. When you register for a Guardian account we use your unique ID to recognise you when you are signed in to our services. This will recognise you if you sign in using the same account on a new device or through a different application such as the Guardian app on mobile devices.
 
 When you use our sites we may also use cookies or similar technologies to collect extra data, including:
 
@@ -186,11 +186,11 @@ The legal ground may be one of the following:
 
 * _Consent_: Often we will use your personal data because we have asked for your consent, which you can withdraw at any time. Please refer to the table below for examples of where we ask for your consent.
     
-* _Performance of a contract with you_ (or in order to take steps prior to entering into a contract with you): We will use your personal data if we need to in order to perform a contract with you. For example, where you have purchased a subscription from us, we will need to use your contact details and payment data in order to process your order and deliver your subscription or we may contact you directly via social media or email if you enter competitions, prize draws, bids or respond to call-outs.
+* _Performance of a contract with you_ (or in order to take steps prior to entering into a contract with you): We will use your personal data if we need to in order to perform a contract with you. For example, where you have purchased a subscription from us, we will need to use your contact details and payment data in order to process your order and deliver your subscription. We will use your information as necessary in order to conduct competitions or prize draws. We may contact you directly via social media or email if you enter competitions, prize draws, bids or respond to call-outs.
     
-* _Compliance with law_: In some cases, we may have a legal obligation to use or keep your personal data, for example to disclose salary details to HMRC.
+* _Compliance with law_: In some cases, we may have a legal obligation to use or keep your personal data, for example to retain records of transactions as required by financial regulations.
     
-* _Our legitimate interests_: We may process your personal data where it is necessary for our legitimate interests in a way that might be expected as part of running the Guardian and in a way which does not materially impact your rights and freedoms. For example, it is in our legitimate interests for us to understand our readers, promote our services and ways to support us, and operate our sites and apps efficiently for the creation, publication and distribution of news, media and related journalistic content both online and in print form, globally. Please refer to the table below for examples of when we rely on our legitimate interests to use your personal data.
+* _Our legitimate interest_: We may process your personal data where it is necessary for our legitimate interests in a way that might be expected as part of running the Guardian and in a way which does not materially impact your rights and freedoms. For example, it is in our legitimate interest for us to understand our readers, promote our services and ways to support us, and operate our sites efficiently for the creation, publication and distribution of news, media and related journalistic content both online and in print form, globally. Please refer to the table below for examples of when we rely on our legitimate interests to use your personal data.
     
 
 In addition to the above, we also rely on the legitimate interests below to use your personal data:
@@ -199,15 +199,19 @@ In addition to the above, we also rely on the legitimate interests below to use 
     
 * To inform you of any changes to our services, such as updates to our terms and conditions.
     
+* To enable you to register for an account on our sites.
+    
 * To enable you to share our content with others using social media or email.
     
 * When we respond to your queries and to resolve complaints.
     
 * When we moderate comments under our community standards and participation guidelines.
     
+* To remember where you have reached in our puzzle products.
+    
 * To troubleshoot technical issues on our sites and their functionalities.
     
-* When we de-identify or anonymise personal data.
+* When we de-identify or anonymise personal data, or aggregate it so that it can no longer identify you.
     
 * For security and fraud prevention, and to ensure that our sites are safe and secure and used in line with our terms of use.
     
@@ -233,7 +237,7 @@ When you use the Guardian app, we will ask for permissions to access particular 
 
 _Updating your personal data and your profile page on our sites_
 
-When you register for an account with theguardian.com, you have access to a profile page. Under “edit profile” you can review and update what personal data is public when you comment on our articles, or if people look up your profile. For more information on how to manage your account please see [https://manage.theguardian.com/help-centre](https://manage.theguardian.com/help-centre).
+When you register for a Guardian account, you have access to a profile page. Under “edit profile” you can review and update what personal data is public when you comment on our articles, or if people look up your profile. For more information on how to manage your account please see [https://manage.theguardian.com/help-centre](https://manage.theguardian.com/help-centre).
 
 You may also update your marketing preferences in the “Emails and marketing” and/or “Data privacy” tabs in your account.
 
@@ -260,7 +264,7 @@ We also note and comply with the California law which prohibits sale of personal
 Security of your personal data
 ------------------------------
 
-We have implemented appropriate technical and organisational controls to protect your personal data against unauthorised processing and against accidental loss, damage or destruction. You are responsible for choosing a secure password when we ask you to set up a password to access parts of our sites or apps. You should keep this password confidential and you should choose a password that you do not use on any other site. You should not share your password with anyone else, including anyone who works for us. Unfortunately, sending any information, including personal data, via the internet is not completely secure. We cannot guarantee the security of any personal data sent to our site while still in transit and so you provide it at your own risk.
+We have implemented appropriate technical and organisational controls to protect your personal data against unauthorised processing and against accidental loss, damage or destruction. You are responsible for choosing a secure password when we ask you to set up a password to access parts of our sites. You should keep this password confidential and you should choose a password that you do not use on any other site. You should not share your password with anyone else, including anyone who works for us. Sending any information, including personal data, via the internet is not completely secure. We cannot guarantee the security of any personal data sent to our site while still in transit and so you provide it at your own risk.
 
 When we share your personal data
 --------------------------------
@@ -300,7 +304,7 @@ _Service providers_ - We may share your data with other organisations that provi
     
 * Service providers that help us carry out analytics, facilitate audience creation and segmentation and to measure our audience engagement. For example, Permutive provides us with data management platform services.
     
-* Service providers that help provide us with insights and analytics that help us to improve our products and services. For example, we use Google Analytics to understand how visitors engage with our sites.
+* Service providers that help provide us with insights and analytics that help us to improve our products and services.
     
 * Google ReCaptcha, which we use to protect our sites from fraudulent users.
     
@@ -317,13 +321,13 @@ _Service providers_ - We may share your data with other organisations that provi
 * Skimlinks because they are an affiliate marketing service provider. We do not drop first or third party cookies, or otherwise access local storage through our affiliate links. Instead we use a type of link that redirects users into Skimlinks’ network. This means we are tracking and identifying the click, rather than individuals. Skimlinks will use IP addresses to direct readers to the geographically relevant affiliate link. The IP address and user agent are anonymised and truncated by Skimlinks. Third party sites including retailers and sites in Skimlinks’ network may place cookies or collect additional information. Details about Skimlinks use of data is set out in their privacy policy at [https://skimlinks.com/privacy-policy](https://skimlinks.com/privacy-policy).
     
 
-_Advertising partners_ - We may also share your data collected through our websites and apps with our advertising partners, as set out in our [cookie policy](https://www.theguardian.com/info/cookies). These partners help us deliver relevant advertising across our websites and apps. For example, we use Google Ad Manager to assist us with the delivery of relevant ads.
+_Advertising partners_ - We may also share your data collected through our sites with our advertising partners, as set out in our [cookie policy](https://www.theguardian.com/info/cookies). These partners help us deliver relevant advertising across our sites. For example, we use Google Ad Manager to assist us with the delivery of relevant ads.
 
 _Affiliate marketing_ - When a product is linked from a Guardian article or gallery, if the retailer has an affiliate programme, then the link will redirect to the retailer website through our affiliate marketing partner, such as Skimlinks’ network. When a reader clicks on a link, Skimlinks will identify which page the click came from and assign it a randomly generated number. This is communicated to the retailer and associated with any subsequent purchase. The affiliate marketing partner, such as Skimlinks, then reconciles the list of clicks from links on the Guardian with purchases on the retailer’s site. This is used in order to calculate the commission for the Guardian.
 
 _Agencies and authorities if required by law_ - We may reveal your personal data to any law enforcement agency, court, regulator, government authority, or in connection with any legal action if we are required to do so to meet a legal or regulatory obligation, where the request is proportionate, or otherwise to protect our rights or the rights of anyone else (for example, in response to a valid and properly served legal process such as subpoena or warrant). If we have your contact details, we will take reasonable steps to attempt to notify you prior to disclosing your data unless (i) prohibited by applicable law from doing so, or (ii) there are clear indications of unlawful conduct in connection with your use of Guardian services.
 
-_Event sponsors and partners_ - We may share your personal data with sponsors of Guardian events and partners who we hold events with for marketing purposes when you have given your permission for us to do so. We may also share your personal data with these sponsors and partners for event administration purposes.
+_Event sponsors and partners_ - We may share your personal data with sponsors of Guardian events and partners who we hold events with for marketing purposes when you have given your permission for us to do so. We may also share your personal data with these sponsors and partners for event administration and security purposes.
 
 _Prize draws, competitions and bids_ \- We may share your personal data with sponsors and partners for the purposes of selecting and notifying winners when you participate in any of our prize draws, competitions and bids. We may also share your data with entities offering any prize you have won in order for that entity to contact you about such a prize.
 
@@ -354,7 +358,9 @@ If you are located in the UK or the EEA, you may contact us for a copy of the sa
 How long we keep your personal data
 -----------------------------------
 
-We keep your personal data for only as long as we need to. How long we need your personal data depends on what we are using it for, as set out in this privacy policy. For example, we may need to use it to answer your queries about a product or service and as a result may keep personal data while you are still using our product or services. To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means. We may also need to keep your personal data for accounting purposes, for example, where you have bought a subscription. If we no longer need your data, we will delete it or make it anonymous by removing all details that identify you. If we have asked for your permission to process your personal data and we have no other lawful grounds to continue with that processing, and you withdraw your permission, we will delete your personal data. However, when you unsubscribe from marketing communications, we will keep your email address to ensure that we do not send you any marketing in future.
+We keep your personal data for only as long as we need to. How long we need your personal data depends on what we are using it for, as set out in this privacy policy. For example, we may need to use it to answer your queries about a product or service and as a result may keep your personal data while you are still using our product or service. To determine the appropriate retention period for personal data, we consider the amount, nature and sensitivity of the personal data, the potential risk of harm from unauthorised use or disclosure of your personal data, the purposes for which we process your personal data and whether we can achieve those purposes through other means. We may also need to keep your personal data for accounting purposes, for example, where you have bought a subscription.
+
+If we no longer need your data, we will delete it or make it anonymous by removing all details that identify you. If we have asked for your permission to process your personal data and we have no other lawful grounds to continue with that processing, and you withdraw your permission, we will delete your personal data. However, when you unsubscribe from marketing communications, we will keep your email address to ensure that we do not send you any marketing communications in the future.
 
 How we may contact you
 ----------------------
@@ -373,9 +379,9 @@ You can decide not to receive these emails at any time and will be able to “un
 
 For more information on how to manage your account please see [https://manage.theguardian.com/help-centre](https://manage.theguardian.com/help-centre).
 
-_Market research_
+_Guardian research_
 
-Sometimes we may contact you for market research purposes, for example about a survey. You can opt out from being contacted in this way by signing into your Guardian account and going to the tab “emails and marketing”.
+If we have your permission or you have not opted out, we may contact you for research purposes, for example about the Guardian app. You can opt out from being contacted in this way by signing into your Guardian account and going to the tab “emails and marketing”.
 
 _Responding to your queries or complaints_
 
@@ -414,7 +420,7 @@ You have a number of rights with regard to the personal data that we hold about 
 
 If you would like to exercise any of your rights specified above, please email dataprotection@theguardian.com or write to the Data Protection Officer at Guardian News & Media Limited, Kings Place, 90 York Way, London N1 9GU. We will respond to all standard legitimate requests within one month. Occasionally it may take us longer than a month if your request is particularly complex or you have made a large number of requests. In this case, we will notify you and keep you updated.
 
-We may need verification of your identity to proceed with a request. If you provide us with proof of identity containing information that does not match our records, we may request further proof of identity from you. This is a security measure to ensure that your personal data is not disclosed to any person who has no right to receive it.
+We may need verification of your identity to proceed with a request. If you provide us with proof of identity containing information that does not match our records, we may request further proof of identity from you. This is a security measure to ensure that your personal data is not disclosed to any person who does not have a right to receive it.
 
 You will not have to pay a fee to obtain a copy of your personal data (or to exercise any of the other rights). However, for any further copies requested by you, we may charge a reasonable fee based on administrative costs.
 
@@ -425,18 +431,36 @@ The California Consumer Privacy Act 2018 (“CCPA”) and California Privacy Rig
 
 If you are a resident of California you may contact us with regard to the following rights in relation to your personal data:
 
-* Right of Access: You have a right to request access to the personal data we may hold on you for the past twelve (12) months. You may submit up to two (2) requests per year of access to your personal data.
+* Right to Know: At or before the time of collection, you have a right to receive notice of our practices, including the categories of personal data and sensitive personal data to be collected, the purposes for which it is collected and used, whether such personal data is “sold or shared” and for how long personal data is retained. These details are set out in this Privacy Policy.
     
-* Right to Opt-In/Opt-Out of Sale of Personal Data: For individuals sixteen (16) years or older, you have the right to opt-out of sale of personal data we may hold on you. You can exercise this right at any time by pressing the “California resident - Do not sell” link in the footer of every page on our site. For individuals between thirteen (13) to sixteen (16) years old, you have the right to opt-in to the sale of personal data we may hold on you.
+* Right to Access: You have the right to request access to the personal data we may hold on you for the past twelve (12) months. You may submit up to two (2) requests per year of access to your personal data.
+    
+* Right to Correct: You have the right to correct inaccurate personal data we hold about you.
+    
+* Right to Opt-Out of Sale of Personal Data: For individuals sixteen (16) years or older, you have the right to opt-out of sale of personal data we may hold on you. You can exercise this right at any time by pressing the “California resident - Do not sell” link in the footer of every page on our site. For individuals between thirteen (13) to sixteen (16) years old, you have the right to opt-in to the sale of personal data we may hold on you.
     
 * Right to Deletion: You also have the right to ask us to delete personal data we may hold on you or restrict how it is used. There may be exceptions to the right to deletion which, if applicable, we will set out for you in response to your request.
+    
+* Right to Limit Use and Disclosure of Sensitive Personal Data: Where applicable, you have the right to limit our use of sensitive personal data for any purposes other than to provide the services you request or as otherwise permitted by law.
     
 * Right to Non-Discrimination: We will not discriminate against you for exercising any of your California Consumer Privacy Act rights.
     
 
 If you want to make any of these requests, please contact dataprotection@theguardian.com. We will deal with requests for access to your personal data within forty-five (45) days for California-specific requests.
 
-To help us respond as you expect, please specify that you are making a request under the CCPA. We may need to request specific information from you to help us confirm your identity. If you provide us with proof of identity containing information that does not match our records, we may request further proof of identity from you.
+To help us respond as you expect, please specify that you are making a request under the CCPA. We may need to request specific information from you to help us confirm your identity. For example, we will verify your identity before complying. If you provide us with proof of identity containing information that does not match our records, we may request further proof of identity from you.
+
+You can designate an “authorized agent” to make requests to exercise your rights on your behalf under the CCPA. We will clarify that any “authorized agent” has your written permission in making that request. We may also contact you directly to verify your identity.
+
+**Record of Requests**
+
+We keep a record of requests that we received from users exercising their CCPA rights. If the user does not verify their identity, their request will be denied. We have set out this record of requests for the last calendar year from 1 July 2023 below:
+
+**California “Shine the Light” Privacy Rights**
+
+Residents of California can ask us to provide a list of the types of personal data we have disclosed to third parties for direct marketing purposes and the identity of those third parties. We do not generally disclose personal data as defined under the California “Shine the Light” law. To the extent that we share email addresses with third parties in connection with online marketing that could be covered, you may opt-out through your “Manage My Account” choices.
+
+To make a “Shine the Light” request, please email dataprotection@theguardian.com with “Shine the Light” in the subject line.
 
 Your Australian privacy rights
 ------------------------------
@@ -445,7 +469,7 @@ The Australian privacy Act has rules around how we handle your personal informat
 
 **Personal information we collect and use**
 
-When we refer to “personal data” throughout this policy, we are also referencing “personal information,” as it is defined under Australian law, which you can read about [here](https://www.oaic.gov.au/privacy/australian-privacy-principles-guidelines/chapter-b-key-concepts/).
+When we refer to “personal data” throughout this policy, we are also referencing “personal information,” as it is defined under Australian law.
 
 Details about the personal information that we collect, use and disclose is set out throughout this privacy policy. You can navigate these relevant sections by going to the contents section at the top of the page.
 
@@ -472,7 +496,7 @@ If you have contacted us at dataprotection@theguardian.com with a privacy relate
 
 GPO BOX 5218, Sydney NSW 2001
 
-T 1300 363 992
+1300 363 992
 
 [https://www.oaic.gov.au/](https://www.oaic.gov.au/)
 
@@ -499,6 +523,8 @@ _Changes to this privacy policy to date_
 
 The most recent changes to this privacy policy were made on:
 
+* 1 July 2024
+    
 * 9 February 2024
     
 * 8 December 2023
