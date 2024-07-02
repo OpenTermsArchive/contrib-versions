@@ -135,7 +135,7 @@ Consumer
 * [### Gemini Apps](https://support.google.com/gemini?hl=en-GB)
 * [### YouTube Studio App Help Centre](https://support.google.com/youtubecreatorstudio?hl=en-GB)
 * [### Google Pixel Watch](https://support.google.com/googlepixelwatch?hl=en-GB)
-* [### Buy Fitbit Ace LTE](https://support.google.com/fitbitacelte?hl=en-GB)
+* [### Fitbit Ace LTE](https://support.google.com/fitbitacelte?hl=en-GB)
 * [### Chrome Web Store](https://support.google.com/chrome_webstore?hl=en-GB)
 * [### Google TV](https://support.google.com/googletv?hl=en-GB)
 * [### AR](https://support.google.com/ar?hl=en-GB)
