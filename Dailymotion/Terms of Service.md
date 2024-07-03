@@ -628,6 +628,8 @@ Regarding reports of copyright infringement, we remind you that certain uses of 
 Before reporting any Content for copyright infringement, it is thus recommended to check whether the use of the protected work in question is permitted under one of these exceptions.  
 Please note that reports of copyright infringement or infringement of other rights must be made by the owner of the rights concerned or by its duly authorized representative.
 
+Regarding reports from **competent EU Member States Authorities in regards to the DSA application**, Dailymotion can process the requests in **English**, as a language broadly understood by a large number of EU citizens, as well as in **French**.
+
 ### III) CONSEQUENCES OF NON-COMPLIANCE WITH THE PROHIBITED CONTENT POLICY
 
 #### A. Moderation actions applicable to the content
