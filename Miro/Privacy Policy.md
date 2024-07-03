@@ -168,11 +168,11 @@ Privacy Policy
 
 [Local Provisions](#local-provisions)
 
-[Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
+[Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
 
 [Cookies Policy](https://miro.com/legal/cookies-policy)
 
-[Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
+[Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
 
 [Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
 
@@ -194,13 +194,13 @@ Privacy Policy
 
 [Miro Assist Beta Program Terms](https://miro.com/legal/miro-assist-terms)
 
-[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
-
 [Privacy Policy July 17](https://miro.com/legal/privacy-policy-july-17)
 
 [Miro Imprint](https://miro.com/legal/miro-imprint)
 
 [Code of Conduct](https://miro.com/legal/code-of-conduct)
+
+[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
 
 ##### Table of contents
 
