@@ -1,8 +1,7 @@
 Privacy Policy
 ==============
 
-Effective Date: July 1, 2024
-
+Effective Date: July 1, 2024  
 This privacy policy outlines what information we collect, how we secure it, and how we use it in relation to the service illumin provides to its customers via our advertising technology platform.
 
 ### Who we are
