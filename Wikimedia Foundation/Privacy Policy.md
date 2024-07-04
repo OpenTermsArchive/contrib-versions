@@ -95,7 +95,7 @@ Other languages:
 * [کوردی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ckb "Policy:Privacy policy/ckb (36% translated)")
 * [کٲشُر](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ks-arab "Policy:Privacy policy/ks-arab (4% translated)")
 * [कॉशुर / کٲشُر](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ks "Policy:Privacy policy/ks (13% translated)")
-* [नेपाली](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ne "Policy:Privacy policy/ne (84% translated)")
+* [नेपाली](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ne "Policy:Privacy policy/ne (100% translated)")
 * [भोजपुरी](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bho "Policy:Privacy policy/bho (1% translated)")
 * [मराठी](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mr "Policy:Privacy policy/mr (9% translated)")
 * [संस्कृतम्](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sa "Policy:Privacy policy/sa (10% translated)")
