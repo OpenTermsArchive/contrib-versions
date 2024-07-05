@@ -22,14 +22,14 @@
         Catch this summer's biggest update on July 17](https://miro.com/whats-next/register/?utm_campaign=FY25Q2-GLB-WB-HI-S2_INX-Whats_New_webinar&utm_source=weblink&utm_medium=redirect&utm_content=Webinar%20-%20High%20Intent&utm_term=Top%20Nav&src=-weblink_glb#CxvHAz7sO)
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/2Zxr4Vx1JDRb6UL7icHtaC/40135e6dbe6bfeb37502c61c49adca15/Tree_planter.png?fm=webp&q=75)
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/75GGM6ibPJvaal5dyaZ6wY/a2d2cb8b75a8fbdfbffaa174692f954c/XS1_3_4_columns_canvas_features_and_widgets_timer_001?fm=webp&q=75)
         
-        Navigate through diagrams using keyboard](https://miro.com/blog/what-we-launched-may-2024/#:~:text=And%20last%20but,and%20assistive%20technology.)
+        Start Timer or Private mode with one click](https://miro.com/blog/what-we-launched-june-2024/#:~:text=Canvas%20and%20collaboration-,Timer%20and%20Private%20Mode%20action%20shortcuts,-We%20know%20how)
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/5ncGY19hze7Nq0GAWbflTU/3191deeda761a4882abfd80ed3af0d6b/Meeting.svg)
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/2YRWiwcNUH7Z7fEZ6D0uen/c81b66f6bca0505bb70093b70a227c3b/collaboration.svg)
         
-        Visualize your company structure with org chart](https://miro.com/blog/what-we-launched-may-2024/#:~:text=Introducing%20Miro%E2%80%99s%20organizational%20chart%20widget)
+        Spotlight dependencies using Dependencies shortcut](https://miro.com/blog/what-we-launched-june-2024/#:~:text=Action%20shortcuts%20for%20Dependencies)
     
     [See all updates](https://miro.com/whats-new/)
     
@@ -186,11 +186,11 @@ Terms of Service
 
 [Privacy Policy](https://miro.com/legal/privacy-policy)
 
-[Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
+[Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
 
 [Cookies Policy](https://miro.com/legal/cookies-policy)
 
-[Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
+[Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
 
 [Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
 
@@ -212,13 +212,13 @@ Terms of Service
 
 [Miro Assist Beta Program Terms](https://miro.com/legal/miro-assist-terms)
 
+[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
+
 [Privacy Policy July 17](https://miro.com/legal/privacy-policy-july-17)
 
 [Miro Imprint](https://miro.com/legal/miro-imprint)
 
 [Code of Conduct](https://miro.com/legal/code-of-conduct)
-
-[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
 
 ##### Table of contents
 
