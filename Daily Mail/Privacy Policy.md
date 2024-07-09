@@ -8,7 +8,7 @@ Privacy & Cookies Policy (the “Policy”)
 
 ###### Previous version: 23 February 2024
 
-You can control online behavioural advertising cookies on this website via your [Cookie Settings](#). Further details on this can be found under Cookies and other identifiers in Section 17 below.
+You can control online behavioural advertising cookies on this website via your [Privacy Settings](#). Further details on this can be found under Cookies and other identifiers in Section 17 below.
 
 ### 1\. What is this Policy for?
 
@@ -213,7 +213,7 @@ We use this information to segment our audiences into groups with attributes. Th
 
 Our partner, Piano, assists us in understanding user journeys (e.g. which pages our users are visiting the most, which pages lead to the greatest audience conversion, etc.), user session length on our website/app, testing the effectiveness of our marketing campaigns, and optimising our website/app based on audience data. Please see Piano’s [Privacy Policy](https://piano.io/privacy-policy/) and [GDPR](https://piano.io/gdpr/) policy.
 
-Please note you have the right to object to profiling for marketing purposes at any time. If you wish to opt-out of having your personal information profiled for personalisation purposes, you can do so via the [Cookie Settings](#).
+Please note you have the right to object to profiling for marketing purposes at any time. If you wish to opt-out of having your personal information profiled for personalisation purposes, you can do so via the [Privacy Settings](#).
 
 ##### Legal basis for this processing activity: Consent (if requested) or legitimate interests
 
@@ -351,7 +351,7 @@ This aggregated data does not include contact details (such as names, addresses 
 
 ##### Legal basis for processing this data: Consent
 
-**Online Behavioural Advertising partners:** We allow third parties to collect and use information obtained during your browsing activities in order to deliver tailored advertisements to you. These parties are listed in our [Cookie Settings](#) tool where we provide you with their details, links to their privacy notices and the ability to opt out of their use.
+**Online Behavioural Advertising partners:** We allow third parties to collect and use information obtained during your browsing activities in order to deliver tailored advertisements to you. These parties are listed in our [Privacy Settings](#) tool where we provide you with their details, links to their privacy notices and the ability to opt out of their use.
 
 We may provide Online Behavioural Advertising partners, including DMPs, LiveRamp and ID5, with a unique UID or information that could be used to (re)create one – such as a hashed version of your email address, and they can collect or receive information about your browser and device, such as type of browser, browser language, browser settings, cookie information, device type, operating system, IP address and ISP information. This can help our selected DMP match our UIDs with data belong to our partners by using a clean room where neither we nor the partner has access to each other’s data. This match is noted against our UID and use cases are established demonstrating lookalike groupings of potential interest to our partners.
 
@@ -359,7 +359,7 @@ This data sharing can also help partners continue to make advertising and site/a
 
 Please note that ID5 may also use your user ID and/or internet activity information (such as browsing history) to provide, maintain and improve their services and products. This includes research and development activities (e.g. conducting machine learning to better optimise the efficiency of their products and services) and investigating, protecting against and deterring malicious activity (such as fake traffic). For further information, please see ID5’s privacy notice [here](https://www.id5.io/platform-privacy-policy/#how-do-we-use-the-information-we-collect).
 
-To withdraw your consent for those cookies or to otherwise opt out of their services directly, please visit [https://liveramp.com/opt\_out/](https://liveramp.com/opt_out/) and [https://id5-sync.com/privacy/optout](https://id5-sync.com/privacy/optout). You can also control their use on our sites, or opt out of all non-essential site tracking, via our Cookie Settings Tool linked to above. Our Cookie Settings Tool also specifies which partners rely on your consent and which partners rely on legitimate interests to use your data.
+To withdraw your consent for those cookies or to otherwise opt out of their services directly, please visit [https://liveramp.com/opt\_out/](https://liveramp.com/opt_out/) and [https://id5-sync.com/privacy/optout](https://id5-sync.com/privacy/optout). You can also control their use on our sites, or opt out of all non-essential site tracking, via our Privacy Settings Tool linked to above. Our Privacy Settings Tool also specifies which partners rely on your consent and which partners rely on legitimate interests to use your data.
 
 ##### Legal basis for processing this data: Consent (if requested) or legitimate interests
 
@@ -442,7 +442,7 @@ In certain circumstances, for example if you are a UK or EEA resident, you may e
 * **Rectification**: If you wish to update or rectify your data, you can do this directly by accessing your account settings.
 * **Restriction:** To request the restriction or suppression of your personal data, please contact us, or our joint controllers, at the contact details provided below.
 * **Revoke consent for direct marketing:** : If you wish to object to the processing of your data for direct marketing, you can opt-out by updating your settings or clicking on the ‘unsubscribe’ link in any marketing email or newsletter you receive from us.
-* **Opt-out of online behavioural advertising:** You are able to control whether we and our partners may use your information for online behavioural advertising related purposes when you visit our websites via our Consent Management Platform that appears when you first visit our sites, or by going to the [Cookie Settings](#).
+* **Opt-out of online behavioural advertising:** You are able to control whether we and our partners may use your information for online behavioural advertising related purposes when you visit our websites via our Consent Management Platform that appears when you first visit our sites, or by going to the [Privacy Settings](#).
 * **Objection to automated profiling:** If you wish to opt-out of having your personal information profiled for personalisation purposes, you can adjust your account settings or contact us directly at the contact details provided below.
 * **Objection to legitimate interests:** If you wish to object to our processing of your data where we are pursuing our legitimate interests or those of a third party, please contact us, or our joint controllers, at the contact details provided below stating the nature of and reasons for such objection.
 * **Complain:** You also have the right to lodge a complaint about us with your local supervisory authority, for example the [Information Commissioner’s Office](https://ico.org.uk/) in the UK.
@@ -696,13 +696,13 @@ We also use these cookies in order to:
 
 **Do Not Track:** Our websites do not respond to “**Do Not Track**” browser settings; however, we treat Global Privacy Control signals as an opt-out of selling or sharing of personal information under the California Consumer Privacy Laws, and as opt-out of processing for targeted advertising requests under the VCDPA.
 
-**Managing Cookies:** You can change your cookie settings on this website at any time via your [Cookie Settings](#). Please note that this consent tool is not supported on certain versions of Internet Explorer. Please change your browser in order to exercise your rights under the UK GDPR or the EU GDPR.
+**Managing Cookies:** You can change your cookie settings on this website at any time via your [Privacy Settings](#). Please note that this consent tool is not supported on certain versions of Internet Explorer. Please change your browser in order to exercise your rights under the UK GDPR or the EU GDPR.
 
 Cookies can also be controlled using the following instructions:
 
 * **Mobile Devices**: When using a mobile device, you can opt-out of receiving online behavioural advertising by selecting “**Limit Ad Tracking**” in the Settings of your Apple iPhone or iPad, or the “**Opt out of interest-based ads**” in the Settings on your Android device. You may also be able to reset your unique identifier used for online behavioural advertising (referred to as an “**Advertising ID**”) in the Settings on your Apple or Android device.
 * **Online Behavioural Advertising cookies:**: If you are primarily concerned about third party cookies generated by advertisers, you can turn these off by going to [Your Online Choices](https://www.youronlinechoices.com/uk/).
-* **Web-Beacons:** You can usually prevent the operation of web-beacons by changing your web-browser [Cookie Settings](#) and your ad choices, or for those in emails, by switching off images in your email client or viewing emails using only the “text” display (rather than “HTML” display’). See the “Help” section of your email client for instructions. Please see the [All About Cookies](https://www.allaboutcookies.org/) website for further information about managing your options.
+* **Web-Beacons:** You can usually prevent the operation of web-beacons by changing your web-browser [Privacy Settings](#) and your ad choices, or for those in emails, by switching off images in your email client or viewing emails using only the “text” display (rather than “HTML” display’). See the “Help” section of your email client for instructions. Please see the [All About Cookies](https://www.allaboutcookies.org/) website for further information about managing your options.
 * You can also visit the trade body representing these advertising platforms where you can control your third-party online advertising preferences by going to th [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!%2F).
 * **Browsers:** The links below take you to the help sections for each of the major browsers that will tell you how you can manage your cookies:
     * [Firefox](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectlocale=en-US&redirectslug=enable-and-disable-cookies-website-preferences)
