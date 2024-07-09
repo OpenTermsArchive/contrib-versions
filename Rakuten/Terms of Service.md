@@ -1,7 +1,7 @@
 Conditions Générales d'Utilisation
 ==================================
 
-_**Version mise à jour le 15 février 2024**_
+_**Version mise à jour le 10 juillet 2024**_
 
 _Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 04.07.2023 au 19.10.2023, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/5.0_CGU_en_vigueur_entre_le_4_juillet_2023_et_le_19_octobre_2023.pdf?vh=c0d9bf&func=proxy)._ 
 
@@ -9,11 +9,13 @@ _Pour consulter la version des Conditions Générales d'Utilisation en vigueur d
 
 _Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 15.01.2024 au 14.02.2024, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/7.0_CGU_en_vigueur_%C3%A0_compter_du_15janvier_2024.pdf?vh=072bb6&func=proxy)._ 
 
+_Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 15.02.2024 au 09.07.2024, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/8.0_CGU_en_vigueur_du_15_f%C3%A9vrier_2024_au_09_juillet_2024.pdf?vh=2afa74&func=proxy)._ 
+
 **PRÉAMBULE**
 
-Le service d'annonces en ligne Rakuten est édité et hébergé par la société Rakuten France ( « Rakuten »), société par actions simplifiée au capital de 355 964,80 euros, dont le siège social est sis 92 rue Réaumur, 75002 PARIS, France, immatriculée au Registre du commerce et des sociétés de Paris sous le numéro B 432 647 584, Tél. : 09.70.75.64.60 (appel non surtaxé) - Fax : 01.42.78.80.61 - [courrier électronique](https://fr.shopping.rakuten.com/help/cnh-oth-contact-us), numéro de TVA Intracommunautaire FR23432647584, enregistrée à l'ORIAS sous le numéro 13005139. Rakuten est un agent mandaté par la société Rakuten Europe Bank, société anonyme de droit luxembourgeois dont le siège est sis 2 rue du Fossé, 1536 LUXEMBOURG, immatriculée au Registre du commerce de Luxembourg sous le numéro B181868 et par la société MangoPay, société anonyme de droit luxembourgeois dont le siège social est situé 2 avenue Amélie, 2449 LUXEMBOURG, immatriculée au Registre du commerce et des sociétés de Luxembourg sous le numéro B173459, pour fournir des services de paiement.
+Le service d'annonces en ligne Rakuten est édité et hébergé par la société Rakuten France ( « Rakuten »), société par actions simplifiée au capital de 355 964,80 euros, dont le siège social est sis 92 rue Réaumur, 75002 PARIS, France, immatriculée au Registre du commerce et des sociétés de Paris sous le numéro B 432 647 584, Tél. : 09.70.75.64.60 (appel non surtaxé) - [courrier électronique](https://help.fr.shopping.rakuten.net/hc/fr), numéro de TVA Intracommunautaire FR23432647584, enregistrée à l'ORIAS sous le numéro 13005139. Rakuten est un agent mandaté par la société Mangopay, société anonyme de droit luxembourgeois dont le siège social est situé 2 avenue Amélie, L.1125 LUXEMBOURG, immatriculée au Registre du commerce et des sociétés de Luxembourg sous le numéro B173459, pour fournir des services de paiement.
 
-Le directeur de la publication est Monsieur Fabien Versavau.
+Le directeur de la publication est Monsieur Cédric DUFOUR.
 
 La Plateforme Rakuten permet la mise en relation ("_Mise en relation"_) de vendeurs annonceurs et d'acheteurs de produits neufs ou d'occasion. Les Vendeurs et les Acheteurs sont ci-après désignés conjointement les Membres. La Plateforme Rakuten permet la conclusion de contrats de vente des Produits. Les Membres sont seuls décisionnaires de la concrétisation de l'achat et de la vente des Produits.
 
@@ -23,7 +25,7 @@ L'acceptation des présentes Conditions Générales d'Utilisation de la Platefor
 
 **Acheteur :** désigne un Membre ayant indiqué son acceptation de l'offre d'un Vendeur.
 
-**Aide en ligne :** désigne les informations constituées des questions fréquemment posées (« FAQ/Contact ») et des pages « Comment vendre » et « Comment acheter » et « [Aide](https://fr.shopping.rakuten.com/newhelp/) » accessibles sur la Plateforme Rakuten.
+**Aide en ligne :** désigne les informations constituées des questions fréquemment posées (« FAQ/Contact ») accessibles sur la Plateforme Rakuten depuis la page "[Besoin d'aide?](https://help.fr.shopping.rakuten.net/hc/fr/articles/5179761027730-Conditions-G%C3%A9n%C3%A9rales-d-Utilisation)".
 
 **Base de Références :** désigne la base de données interne de la Plateforme Rakuten comportant, notamment, les Codes Produit des Produits susceptibles de faire l'objet d'une offre par un Vendeur.
 
@@ -37,7 +39,7 @@ L'acceptation des présentes Conditions Générales d'Utilisation de la Platefor
 
 **Plateforme Rakuten :** désigne la structure fonctionnelle et organisationnelle mise en place par Rakuten permettant la Mise en Relation de Vendeurs et d'Acheteurs de Produits. Les offres s'opèrent selon les moyens informatiques de télécommunications décrits dans l'Aide en ligne.
 
-**Porte-Monnaie** : Porte-monnaie électronique destiné à permettre au Membre de recevoir de la monnaie électronique dans le cadre de l’utilisation de la Plateforme Rakuten. Le Porte-Monnaie fonctionne conformément aux présentes Conditions générales d'utilisation de la Plateforme Rakuten, aux [Conditions d'utilisation du Porte-Monnaie Rakuten](https://fr.shopping.rakuten.com/newhelp/conditions-dutilisation-du-porte-monnaie-rakuten/), ainsi qu’aux [Conditions d'utilisation de la Monnaie Électronique du Porte-Monnaie](https://fr.shopping.rakuten.com/newhelp/conditions-dutilisation-de-la-monnaie-electronique-du-porte-monnaie/) conclues entre le Membre et Rakuten Europe Bank S.A.
+**Porte-Monnaie** : Porte-monnaie électronique destiné à permettre au Membre de recevoir de la monnaie électronique dans le cadre de l’utilisation de la Plateforme Rakuten. Le Porte-Monnaie fonctionne conformément aux présentes Conditions Générales d’Utilisation de la Plateforme Rakuten, aux [Conditions d'utilisation du Porte-Monnaie Rakuten](https://help.fr.shopping.rakuten.net/hc/fr/articles/5180048609938-Conditions-d-utilisation-du-Porte-Monnaie-Rakuten), ainsi qu’aux [Conditions générales d’utilisation des services de paiement Mangopay](https://fr.shopping.rakuten.com/cdn/legal/2024.02.16_CGU_Mangopay.pdf?vh=7c5de1&func=proxy).
 
 **Prix :** désigne le prix proposé par le Vendeur pour son offre de vente d'un Produit. Le Prix constitue l'assiette de la Commission de Rakuten et des frais de Protection Acheteurs. En ce qui concerne les livres, le prix neuf s'entend au sens et dans les limites de la loi du 10 août 1981 relative au prix du livre (dite « loi Lang »).
 
@@ -116,11 +118,14 @@ Rakuten donnera ordre au compte séquestre de procéder au paiement du Prix de l
 **5.8** En cas de non-respect des dispositions des articles 5.7, 6.1 et 6.4, le Membre s’expose, nonobstant le paiement des sommes dues à titre principal, à une pénalité contractuelle égale à ving (20) pourcent hors taxe du montant en cause (valeur des coupons ou montant de la commission) avec un minimum de cent (100) euros hors taxe.  
 Le Membre autorise Rakuten à percevoir ces sommes sur le compte séquestre conformément aux articles 6.8 et suivants.
 
-**5.9** Le Membre s’engage à renseigner des informations exactes quant à son identité, adresse et autres données nécessaires à l'accès à la Plateforme Rakuten et à mettre à jour toute modification concernant ces informations. Le Membre fera son affaire de la réception effective des courriers électroniques qui lui seront adressés par Rakuten ou Rakuten Europe Bank, notamment en paramétrant sa messagerie électronique de sorte à ce que les courriers électroniques expédiés depuis une adresse en <@priceminister.com>, <@rakuten.com> et <@bank.rakuten.eu> soient parfaitement acheminés dans sa boite de réception.
+**5.9** Le Membre s’engage à renseigner des informations exactes quant à son identité, adresse et autres données nécessaires à l'accès à la Plateforme Rakuten et à mettre à jour toute modification concernant ces informations. Le Membre fera son affaire de la réception effective des courriers électroniques qui lui seront adressés, notamment en paramétrant sa messagerie électronique de sorte à ce que les courriers électroniques expédiés depuis une adresse en <@rakuten.com>, <@mail.rakuten.com> et <@mail.fr.shopping.rakuten.com> soient parfaitement acheminés dans sa boite de réception.
 
-**5.10** Au titre de ses obligations légales de vigilance en matière de lutte contre la criminalité, le terrorisme et le blanchiment d’argent inhérente à son statut d’agent des sociétés Rakuten Europe Bank et MangoPay, Rakuten ou son représentant désigné pourra procéder à une vérification d’identité du Membre dès lors que les sommes créditées sur son Porte-Monnaie dépasseraient le montant fixé par la réglementation. Cette vérification sera systématiquement effectuée lors de l’ouverture d’un compte sur la Plateforme Rakuten par un Vendeur Professionnel.  
-Lors d’une vérification, le Membre devra communiquer dans les plus brefs délais et selon les modalités fixées par Rakuten, une copie de ses justificatifs d’identité en cours de validité, ainsi qu’un justificatif de domicile. Le Vendeur Professionnel devra quant à lui fournir les informations relatives à son entreprise et le cas échéants à sa société (notamment statuts, structure du capital, identité des principaux associés et des dirigeants, etc.).  
-L’accès au Porte-Monnaie du Membre et l’activation du compte du Vendeur Professionnel pourront être suspendus tant que la vérification d’identité n’aura pas pleinement abouti, selon les [Conditions d’utilisation de la Monnaie électronique du Porte-Monnaie](https://fr.shopping.rakuten.com/newhelp/conditions-dutilisation-de-la-monnaie-electronique-du-porte-monnaie/).
+**5.10** Au titre de ses obligations légales de vigilance en matière de lutte contre la criminalité, le terrorisme et le blanchiment d’argent inhérente à son statut d’agent de la société Mangopay, Rakuten ou son représentant désigné pourra procéder à une vérification d’identité du Membre. Cette vérification sera notamment effectuée à chaque première demande de reversement vers le compte bancaire du Membre.  
+Lors d’une vérification, le Membre devra communiquer dans les plus brefs délais et selon les modalités fixées par Rakuten, une copie de ses justificatifs d’identité en cours de validité. Le Vendeur Professionnel devra quant à lui fournir les informations relatives à son entreprise et le cas échéants à sa société (notamment statuts, structure du capital, identité des principaux associés et des dirigeants, etc.).
+
+Au titre de ses obligations légales en matière de coopération administrative en matière fiscale, Rakuten pourra demander au Membre des informations supplémentaires telles que son pays de résidence fiscale et son numéro d’identification fiscal.
+
+L’accès au Porte-Monnaie du Membre et l’activation du compte du Vendeur Professionnel pourront être suspendus en l'absence de communication des informations demandées au titre du présent article, ou, tant que la vérification d’identité n’aura pas pleinement abouti, selon les [Conditions générales d’utilisation des services de paiement Mangopay](https://fr.shopping.rakuten.com/cdn/legal/2024.02.16_CGU_Mangopay.pdf?vh=7c5de1&func=proxy).
 
 **5.11** Le Membre autorise Rakuten à transmettre aux Etats et administrations français et étrangers, à titre automatique, spontané ou sur demande, dans la limite des obligations fiscales et sociales de Rakuten, les informations relatives au Membre ainsi qu’aux transactions auxquelles le Membre a participé.
 
@@ -159,11 +164,13 @@ La communication du code de retrait au Vendeur est sans préjudice des droits et
 
 **6.7.1** Le Vendeur agissant à titre professionnel doit s'identifier auprès de Rakuten en cette qualité. Rakuten se réserve le droit de ne pas contracter avec un Vendeur Professionnel.
 
-**6.7.2** Rakuten rappelle au Vendeur agissant à titre professionnel son obligation de respecter les lois et règlements relatifs à l'exercice d'une activité commerciale de vente à distance à titre professionnel. Il devra notamment s'assurer de ses obligations déclaratives de nature sociale ou fiscale. Le Vendeur respectera la réglementation sur les déchets d'équipements électroniques et électriques, la garantie de conformité et les garanties commerciales.
+**6.7.2** Rakuten rappelle au Vendeur agissant à titre professionnel son obligation de respecter les lois et règlements relatifs à l'exercice d'une activité commerciale de vente à distance à titre professionnel. Il devra notamment s'assurer de ses obligations déclaratives de nature sociale ou fiscale. Le Vendeur respectera également la réglementation sur la Responsabilité Elargie du Producteur, la redevance copie privée, la conformité et la sécurité des produits, le cas échéant, la personne responsable dans l’Union européenne et le fabricant des Produits, la garantie légale de conformité et les garanties commerciales.
 
-**6.7.3** Le Vendeur s'engage à établir gratuitement une facture conforme aux exigences légales au profit de l'Acheteur.
+**6.7.3** Au titre de l’article 30, paragraphe 1, e) du Règlement (UE) n°2022/2065 du 19 octobre 2022, le Vendeur Professionnel certifie, dès son inscription, au travers de l’acceptation du [certificat d’engagement](https://fr.shopping.rakuten.com/cdn/legal/AutoCertification_Conformite.pdf?vh=672ae0&func=proxy), et dans son usage de la Plateforme Rakuten en tant que Vendeur Professionnel, s'engager à ne fournir que des Produits et services conformes aux règles applicables du droit de l'Union, du droit français, et des droits applicables dans les pays respectifs au sein desquels il effectue ses ventes et il preste ses services.
 
-**6.7.4** Le Vendeur Professionnel s'engage à respecter les [Conditions particulières applicables aux Vendeurs Professionnels](https://fr.shopping.rakuten.com/newhelp/cpvp/).
+**6.7.4** Le Vendeur s'engage à établir gratuitement une facture conforme aux exigences légales au profit de l'Acheteur.
+
+**6.7.5** Le Vendeur Professionnel s'engage à respecter les [Conditions particulières applicables aux Vendeurs Professionnels](https://fr.shopping.rakuten.com/newhelp/cpvp/).
 
 **6.8 Stipulations financières**
 
@@ -173,7 +180,7 @@ La communication du code de retrait au Vendeur est sans préjudice des droits et
 
 **6.8.3** En rémunération de l'utilisation de la Plateforme Rakuten, le Vendeur autorise Rakuten, du seul fait de l'acceptation de l'offre par l'Acheteur et du parfait paiement par celui-ci du Prix de la Transaction, à retenir sur le Prix total de la Transaction une Commission déterminée selon les modalités définies à l'article 6.8.4 ci-après. La Commission est due par le Vendeur même en cas de retour du Produit par l'Acheteur ou d'infirmation de l'offre de vente par le Vendeur, sauf faute de Rakuten.
 
-**6.8.4** La Commission facturée au Vendeur par Rakuten pour chaque vente correspond à la différence entre le montant total payé par l'Acheteur et le montant reversé au Vendeur selon les modalités de l'opération de mandat. Le calcul de la Commission sur le prix de vente de l'article, tel que facturé par le Vendeur à l'Acheteur, est détaillé dans la rubrique  « [Je souhaite connaître le montant de la commission prise sur mes ventes](https://help.fr.shopping.rakuten.net/hc/fr/articles/360020638980-Je-souhaite-conna%C3%AEtre-le-montant-de-la-commission-prise-sur-mes-ventes) » de l'Aide en ligne, disponible sur la Plateforme Rakuten. La Commission est exigible et prélevée par Rakuten à l'encaissement par Rakuten de la totalité du Prix de la Transaction.
+**6.8.4** La Commission facturée au Vendeur par Rakuten pour chaque vente correspond à la différence entre le montant total payé par l'Acheteur et le montant reversé au Vendeur selon les modalités de l'opération de mandat. Le calcul de la Commission sur le prix de vente de l'article, tel que facturé par le Vendeur à l'Acheteur, est détaillé dans l'Aide en ligne « [Quel est le pourcentage de commission retenu sur mes ventes ?](https://help.fr.shopping.rakuten.net/hc/fr/articles/360020638980-Quel-est-le-pourcentage-de-commission-retenu-sur-mes-ventes) » disponible sur la Plateforme Rakuten. La Commission est exigible et prélevée par Rakuten à l'encaissement par Rakuten de la totalité du Prix de la Transaction.
 
 **6.8.5** Hormis pour les modes de livraison Prépayés, Rakuten versera au Vendeur une somme forfaitaire au titre de sa participation aux frais d'expédition par le Vendeur à l'Acheteur du Produit. Les modalités de cette prise en charge sont décrites dans la rubrique « [Je souhaite savoir comment sont calculés les frais d'envoi](https://help.fr.shopping.rakuten.net/hc/fr/articles/360020667799-Je-souhaite-savoir-comment-sont-calcul%C3%A9s-les-frais-d-envoi) » de l'Aide en ligne.
 
@@ -224,7 +231,7 @@ Aux termes de celui-ci, tout Acheteur de Produits porteurs du badge "Satisfait o
 
 Les stipulations du présent article 7.9.2 s’appliquent sans préjudice des dispositions relatives aux garanties légales. 
 
-**7.9.3** A la demande l’Acheteur, Rakuten exécute les services de la Protection Acheteurs, notamment de Mise en relation, au moment de l’achat du Produit sur la Plateforme Rakuten. Dans ces conditions, l’Acheteur est informé et accepte qu’il renonce à son droit de rétractation portant sur les services de la Protection Acheteurs.
+**7.9.3** A la demande de l’Acheteur, Rakuten exécute les services de la Protection Acheteurs, notamment de Mise en relation, au moment de l’achat du Produit sur la Plateforme Rakuten. Dans ces conditions, l’Acheteur est informé et accepte qu’il renonce à son droit de rétractation portant sur les services de la Protection Acheteurs.
 
 **8\. RÉCLAMATIONS ET DROIT DE RÉTRACTATION**
 
@@ -307,7 +314,7 @@ Préalablement à toute offre, le Vendeur vérifiera le cas échéant, notamment
 
 Dans le cas de fraude caractérisée (copie frauduleuse, recel, importation illégale...), Rakuten communiquera toutes les informations nécessaires, y compris nominatives, aux services compétents chargés de la répression desdites fraudes et infractions.
 
-Rakuten ne pourra être tenu responsable du caractère injurieux, diffamatoire et plus généralement contraire aux bonnes moeurs et aux lois en vigueur des commentaires mis en ligne par un Membre ; que dans les conditions de la loi n°2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (LCEN).
+Rakuten ne pourra être tenu responsable du caractère injurieux, diffamatoire et plus généralement contraire aux bonnes moeurs et aux lois en vigueur des commentaires mis en ligne par un Membre ; que dans les conditions de la loi n°2004-575 du 21 juin 2004 pour la confiance dans l'économie numérique (LCEN) et du Règlement (UE) n°2022/2065 du 19 octobre 2022 relatif à un marché unique des services numériques.
 
 **9.2** Sauf faute de sa part, Rakuten ne pourra être tenu responsable d'un dommage éventuellement subi par un Membre, notamment : pertes d'exploitation ou d'informations. Rakuten ne pourra être tenu responsable d'un éventuel dysfonctionnement, panne, retard ou interruption de l'accès au réseau internet.
 
@@ -354,13 +361,28 @@ Dans le cas où Rakuten constaterait, sur la base de faits ou d’un faisceau d�
 * fraudes aux moyens de paiement,
 * détournement du fonctionnement des coupons de réduction,
 * manquement aux obligations sociales, fiscales et douanières,
+* absence du certificat d’engagement  ou mention inexacte, incomplète ou obsolète au regard de l’activité du Vendeur Professionnel ;
 * ou tout autre manquement, contractuel ou légal, fraude ou infraction pénale (y compris toute tentative),
 
-Rakuten se réserve la faculté de suspendre au Membre l'accès à la Plateforme Rakuten et/ou de prendre toute mesure (incluant, sans s’y limiter : restriction de tout ou partie de l’accès aux services de la Plateforme Rakuten, clôture du compte du Membre, suspension temporaire de l’utilisation du Porte-Monnaie, etc.) rendue nécessaire par les violations ou tentatives de violations précitées du Membre et proportionnelle à ces violations et aux circonstances entourant leur commission (notamment en considération de leur caractère grave et/ou répété), sans préjudice de l'indemnisation intégrale du dommage éventuellement subi par Rakuten; le Vendeur ne pouvant invoquer dans cette hypothèse les frais éventuellement exposés par lui à l'occasion de la mise en ligne de ses Produits.
+Rakuten se réserve la faculté de suspendre au Membre l'accès à la Plateforme Rakuten et/ou de prendre toute mesure (incluant, sans s’y limiter : restriction de tout ou partie de l’accès aux services de la Plateforme Rakuten, clôture du compte du Membre, suspension temporaire de l’utilisation du Porte-Monnaie, retrait ou suspension d'une annonce, etc.) rendue nécessaire par les violations ou tentatives de violations précitées du Membre et proportionnelle à ces violations et aux circonstances entourant leur commission (notamment en considération de leur caractère grave et/ou répété), sans préjudice de l'indemnisation intégrale du dommage éventuellement subi par Rakuten; le Vendeur ne pouvant invoquer dans cette hypothèse les frais éventuellement exposés par lui à l'occasion de la mise en ligne de ses Produits.
 
 Ces stipulations sont sans préjudice de mesures et sanctions spécifiquement définies dans les présentes Conditions Générales d’Utilisation, dans les [Conditions particulières applicables aux Vendeurs Professionnels](https://fr.shopping.rakuten.com/newhelp/cpvp/) ou dans toute autre composante des conditions auxquelles l’adhésion est nécessaire pour bénéficier des services de la Plateforme (incluant, sans s’y limiter, le [Règlement du Club Rakuten](https://fr.shopping.rakuten.com/newhelp/reglement-club/), les règles relatives au [Programme de Parrainage](https://fr.shopping.rakuten.com/offre-parrainage-rakuten), les [Conditions d’Utilisation du Porte-Monnaie Rakuten](https://help.fr.shopping.rakuten.net/hc/fr/articles/5180048609938-Conditions-d-utilisation-du-Porte-Monnaie-Rakuten), les [Conditions d’Utilisation de la Monnaie électronique du Porte-Monnaie](https://fr.shopping.rakuten.com/newhelp/conditions-dutilisation-de-la-monnaie-electronique-du-porte-monnaie/), etc.).
 
 La suspension ne produit ses effets que pour l'avenir. Ainsi, en dépit d'une suspension pour quelque motif que ce soit, le Membre reste tenu au versement des Commissions ou frais de Protection Acheteurs exigibles pour une Mise en Relation effectuée avant la date effective de suspension.
+
+**11.3 Règlement sur les Services Numériques** 
+
+**11.3.1** Rakuten met à disposition sur la [page dédiée](https://help.fr.shopping.rakuten.net/hc/fr/articles/17077414665106-R%C3%A8glement-sur-les-Services-Num%C3%A9riques-Digital-Services-Act) au Règlement sur les Services Numériques (« RSN »), l’ensemble des informations utiles et régulièrement mises à jour, tel que les rapports de transparence, les mécanismes de notifications et de réclamations, les organismes de règlement extrajudiciaire des litiges et au moins tous les six (6) mois, les informations relatives aux destinataires actifs des services ainsi que le point de contact pour les autorités.
+
+**11.3.2** Toute personne physique ou morale peut signaler à Rakuten la présence d’éléments d’information spécifiques, telles que des annonces ou des activités, que la personne physique ou morale considère comme étant illicite à l’adresse [fr-dsa-notifications@mail.rakuten.com](mailto:fr-dsa-notifications@mail.rakuten.com). Tout Membre peut également signaler un contenu ou une activité par courrier ou via formulaire grâce aux informations accessibles depuis [cette page](https://help.fr.shopping.rakuten.net/hc/fr/articles/360020565639-Je-souhaite-signaler-une-erreur-sur-une-fiche-produit-un-contenu-ou-un-comportement-illicite).
+
+**11.3.3** Toute personne physique ou morale peut introduire des réclamations contre toute décision prise par Rakuten relative à la suite donnée aux notifications mentionnées à l’article 11.3.2 des présentes Conditions Générales d'Utilisation ou contre toutes décisions prises par Rakuten au motif que les informations fournies par le Membre constituent un contenu illicite ou sont contraires aux présentes Conditions Générales d'Utilisation à l’adresse [fr-dsa-complaints@mail.rakuten.com](mailto:fr-dsa-complaints@mail.rakuten.com). Tout Membre peut également adresser une réclamation via un formulaire grâce aux informations accessibles depuis [cette page](https://help.fr.shopping.rakuten.net/hc/fr/articles/17077414665106-R%C3%A8glement-sur-les-Services-Num%C3%A9riques-Digital-Services-Act).
+
+**11.3.4** Les Membres ainsi que les personnes physiques ou morales qui ont soumis des notifications ont le droit de choisir un organe de règlement extrajudiciaire des litiges qui a été certifié conformément au paragraphe 3 de l’article 21 du RSN en vue de résoudre les litiges relatifs aux décisions prises suite aux réclamations mentionnées à l’article 11.3.3.
+
+**11.3.5** Rakuten priorisera les notifications mentionnées à l’article 11.3.2 des présentes Conditions Générales d'Utilisation provenant des signaleurs de confiance agréés au sens de l’Article 24 du RSN, ainsi que celles soumises par les personnes physiques ou morales ayant conclu un accord spécifique avec Rakuten.
+
+**11.3.6** Tout Membre dispose du droit d’introduire une plainte auprès du coordinateur pour les services numériques français (ARCOM).
 
 **12\. STIPULATIONS GÉNÉRALES**
 
@@ -381,7 +403,7 @@ TOUT LITIGE AVEC UN MEMBRE ET NÉ A L’OCCASION DE SON INTERPRETATION ET/OU DE 
 
 **12.8** **Médiation**
 
-**12.8.1** Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Rakuten adhère au Service du Médiateur du e-commerce de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – [http://www.mediateurfevad.fr](http://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis de Rakuten, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).
+**12.8.1** Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Rakuten adhère au Service du Médiateur de la consommation de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – [http://www.mediateurfevad.fr](http://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis de Rakuten, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).
 
 **12.8.2** Les Membres agissant en qualité de consommateurs peuvent également recourir au service de règlements des différends en ligne proposé par la Commission européenne accessible [ici](http://ec.europa.eu/consumers/odr).
 
