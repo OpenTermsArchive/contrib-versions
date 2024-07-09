@@ -119,13 +119,11 @@ We use your personal data for the following specific purposes:
 How Does Grammarly Secure and Store Personal Information?
 ---------------------------------------------------------
 
-As described in more detail on our [Security page](https://www.grammarly.com/security), we use a combination of technical, physical, and logical safeguards to secure your data. These safeguards include encryption, secure network configuration, data transfer restrictions, restricted employee access, and several other measures.   
+As described in more detail on our [Security page](https://www.grammarly.com/security), we use a combination of technical, physical, and logical safeguards designed to secure your data. These safeguards include encryption, secure network configuration, data transfer restrictions, restricted employee access, and other measures.  
   
-Grammarly retains personal information for as long as necessary to provide our products to you, to complete the transactions you have requested, or for other legitimate purposes such as to comply with our legal obligations or resolve disputes.  
+We retain personal data for as long as necessary to provide our products to you, to complete the transactions you have requested, to comply with our legal obligations, and to resolve any disputes.  
   
-When it comes to user content, by default, we process user content associated with your account to provide services to you (for example, writing suggestions). After that, if you did not choose to retain that content, we either delete or de-identify it. With the Grammarly Editor, we will store documents you create until you delete them. For more information, please visit [https://www.grammarly.com/trust](https://www.grammarly.com/trust).  
-  
-Some of our optional product features will provide personalized writing suggestions. When we offer those personalized features to you, we will describe how we use and store your information to provide those features.   
+When it comes to user content, by default, we process user content associated with your account to provide services to you (for example, writing suggestions, customization, and insights on how to use our features). For troubleshooting and product improvement, we typically retain user content no longer than one year, after which we either delete or de-identify the content unless you choose to retain it in your account for longer or specifically ask us to delete it sooner, subject to any legal obligations requiring us to maintain the content for a longer period. We also pseudonymize, aggregate, and/or de-identify data and content when providing our services to you as described in our Technical Specifications. With the Grammarly Editor, we will store documents you create until you delete them or we close your account.  
 
 To Whom Does Grammarly Disclose Personal Data?
 ----------------------------------------------
