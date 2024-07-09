@@ -144,6 +144,7 @@ Consumer
 * [### Contacts](https://support.google.com/contacts?hl=en-GB)
 * [### Snapseed](https://support.google.com/snapseed?hl=en-GB)
 * [### Google Wifi](https://support.google.com/wifi?hl=en-GB)
+* [### Fitbit](https://support.google.com/fitbit?hl=en-GB)
 * [### Google Workspace Individual](https://support.google.com/google-workspace-individual?hl=en-GB)
 * [### My Maps](https://support.google.com/mymaps?hl=en-GB)
 * [### Daydream](https://support.google.com/daydream?hl=en-GB)
