@@ -701,7 +701,7 @@ Conformément à l’article L221-28 du Code de la Consommation, le droit de ré
 \-          Les enregistrements audio ou vidéo ou de logiciels informatiques lorsqu'ils ont été descellés par le consommateur: c’est par exemple le cas pour les produits livrés avec un logiciel lorsque vous avez descellé et/ou installé ce logiciel  
 \-          La fourniture de journaux, de périodiques ou de magazines ;
 
-\-          Les téléchargements de contenus numériques non fournis sur un support matériel dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprés à son droit de rétractation ;
+\-          Les téléchargements de contenus numériques non fournis sur un support matériel dont l'exécution a commencé après accord préalable exprès du consommateur et renoncement exprès à son droit de rétractation ;
 
 \-          La vente de voyages et d'activités de loisirs qui doivent être fournis à une date ou à une période déterminée (ex. tickets de concert).  
   
