@@ -1,7 +1,7 @@
 Privacy Notice
 ==============
 
-Last Updated: 11 August, 2023.
+Last Updated: 5 July, 2024
 
 To see prior version, click [here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
 
@@ -88,7 +88,7 @@ We design our systems with your security and privacy in mind.
 ---------------------------
 
 * **Third-party advertisers and links to other websites:** Amazon Services may include third-party advertising and links to other websites and apps. Third party advertising partners may collect information about you when you interact with their content, advertising, and services. For more information about third-party advertising at Amazon Europe, including interest-based ads, please read our [Interest-Based Ads notice](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=G64JFZVFDY66XG9K). To adjust your advertising preferences, please go to the [Advertising Preferences page](https://www.amazon.co.uk/adprefs).
-* **Use of third-party advertising services:** We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness. We never share your name or other information that directly identifies you when we do this. Instead, we use an advertising identifier like a cookie, a device identifier, or a code derived from applying irreversible cryptography to other information like an email address. For example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again. Some ad companies also use this information to serve you relevant ads from other advertisers. You can learn more about how to opt-out of interest-based advertising by going to the [Advertising Preferences page](https://www.amazon.co.uk/adprefs).
+* **Use of third-party advertising services:** We provide ad companies with information that allows them to serve you with more useful and relevant Amazon ads and to measure their effectiveness. We never share your name or other information that directly identifies you when we do this. Instead, we use an advertising identifier like a cookie, a device identifier, or a code derived from applying irreversible cryptography to other information like an email address. For example, if you have already downloaded one of our apps, we will share your advertising identifier and data about that event so that you will not be served an ad to download the app again. While we do not share your specific shopping actions like purchases, product views, or searches with ad companies, we may share an advertising identifier and an estimate of the value of the ads they show you on our behalf so they can serve you with more effective Amazon ads. Some ad companies also use this information to serve you relevant ads from other advertisers. You can learn more about how to opt-out of interest-based advertising by going to the [Advertising Preferences page](https://www.amazon.co.uk/adprefs).
 
 8\. What Information Can I Access?
 ----------------------------------
