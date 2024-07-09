@@ -345,6 +345,8 @@ Please provide us with enough information to verify your identity. We will use t
 
 **Important:** these rights are **not** absolutely guaranteed and there are several exceptions where we may not have an obligation to fulfill your request. We are only required to honor these rights to the extent that they have been granted to you and apply to you under CCPA/CPRA. Please consult CCPA/CPRA to determine which rights may be available to you and when access to these rights is limited. You may appeal an adverse decision on your requests by emailing or writing to us, and you have the right to lodge a complaint with the California Attorney General if you are not satisfied with our responses to your requests or how we manage your personal information. However, we encourage you to contact us first so we can address your concerns directly.
 
+[California Consumer Request Metrics](https://www.thomsonreuters.com/en/ccpa-privacy-information.html "California Consumer Request Metrics")
+
 We last updated this California Statement on April 8, 2024.
 
 * * *
@@ -429,6 +431,6 @@ Except for clerical or typographical errors and format changes in compliance wit
 
 In many cases, Thomson Reuters is not the source of the information content, and we are not obliged to change or delete the substance of the original content — including any personal information — unless we receive a verified request from the source of the information content; for example, a court order from the court that issued the court case in the first place.
 
-If you have any questions or concerns regarding the substance of any informational content or your personal information as contained in that information content, please contact the source of the informational content and work with them directly to resolve your questions or concerns. 
+If you have any questions or concerns regarding the substance of any informational content or your personal information as contained in that information content, please contact the source of the informational content and work with them directly to resolve your questions or concerns.
 
 We last updated this Informational Content Privacy Statement on April 8, 2024.
