@@ -163,6 +163,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * VIC - Victorian Government open data: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        * Department of Infrastructure, Transport, Regional Development, Communications and the Arts: [https://www.infrastructure.gov.au/copyright](https://www.infrastructure.gov.au/copyright)
+            
     4. **Austria**
         * You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
