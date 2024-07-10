@@ -1,50 +1,25 @@
-Privacy Policy
-==============
+Hey there! Welcome to Match’s Privacy Policy.
 
-\* \* \*
+We know reading a privacy policy might not be everyone’s idea of a good time, but hear us out. We put a lot of effort into making this policy as clear and engaging as possible, because we actually want you to read it! Think of us as your digital wingmate, here to guide you through the ins and outs of what data we collect, and why and how we use it. So get cozy, grab your beverage of choice, and let’s dive into the world of personal data together.
 
-**OUR COMMITMENT TO YOU**
+This Privacy Policy applies from 09/08/2024. The previous version, available [here](https://uk.match.com/pages/misc/privacy_072024?styled=1), applies until then.
 
-At MATCH, your privacy is a top priority. Your privacy is at the core of the way we design and build the services and products you know and love, so that you can fully trust them and focus on building meaningful connections.
+1. [Who We Are](#CH1)
+2. [Where This Privacy Policy Applies](#CH2)
+3. [Data We Collect](#CH3)
+4. [How We Use Data](#CH4)
+5. [How We Share Data](#CH5)
+6. [How Match Group Companies Work Together](#CH6)
+7. [Cross-Border Data Transfers](#CH7)
+8. [Your Rights](#CH8)
+9. [How Long We Retain Your Data](#CH9)
+10. [Children’s Privacy](#CH10)
+11. [Privacy Policy Changes](#CH11)
+12. [How To Contact Us](#CH12)
 
-We appreciate that you put your trust in us when you provide us with your information and we do not take this lightly.
+### 1\. Who We Are
 
-**Our commitment to privacy**. We design all of our products and services with your privacy in mind. We involve experts from various fields, including legal, security, engineering, product design and others to make sure that our decisions are taken with the utmost respect for your privacy.
-
-**Our commitment to transparency**. Because we use many of the same online services you do, we know that insufficient information and overly complicated language are common issues in privacy policies. We take the exact opposite approach: we’re doing our best to write our Privacy Policy and related documents in plain language. We actually want you to read our policies and understand our privacy practices!
-
-**Our commitment to security**. We have teams dedicated to keeping your data safe and secure. We constantly update our security practices and invest in our security efforts to enhance the safety of your information.
-
-\* \* \*
-
-**PRIVACY POLICY**
-
-Welcome to MATCH’s Privacy Policy. Thank you for taking the time to read it.
-
-We appreciate that you trust us with your information and we intend to always keep that trust. This starts with making sure you understand the information we collect, why we collect it, how it is used and your choices regarding your information. This Policy describes our privacy practices in plain language, keeping legal and technical jargon to a minimum.
-
-This Privacy Policy applies from 13/12/2022.
-
-The previous version of this Privacy Policy, available [here](https://uk.match.com/pages/misc/privacy_042022?styled=1), applies until then.
-
-1. [WHO WE ARE](#_section01)
-2. [WHERE THIS PRIVACY POLICY APPLIES](#_section02)
-3. [INFORMATION WE COLLECT](#_section03)
-4. [COOKIES AND OTHER SIMILAR DATA COLLECTION TECHNOLOGIES](#_section04)
-5. [HOW WE USE INFORMATION](#_section05)
-6. [HOW WE SHARE INFORMATION](#_section06)
-7. [CROSS-BORDER DATA TRANSFERS](#_section07)
-8. [YOUR RIGHTS](#_section08)
-9. [HOW LONG WE RETAIN YOUR INFORMATION](#_section09)
-10. [CHILDREN’S PRIVACY](#_section10)
-11. [JOB CANDIDATES, CONTRACTORS AND VENDOR REPRESENTATIVES](#_section11)
-12. [PRIVACY POLICY CHANGES](#_section12)
-13. [HOW TO CONTACT US](#_section13)
-
-1\. WHO WE ARE
---------------
-
-The company responsible for your information under this Privacy Policy is:
+The company responsible for your data (the “data controller”) is:
 
 Match.com International Limited  
 MATCH  
@@ -56,259 +31,162 @@ United Kingdom
 Our Representative in the European Union is:
 
 MTCH Technology Services Limited  
-WeWork Charlemont Exchange  
-42 Charlemont Street  
-Dublin 2, D02 R593  
-Ireland
+10 EARLSFORT TERRACE  
+D02 T380 IRELAND  
+DUBLIN 2  
+DUBLIN, D02T380  
+IRELAND
 
-2\. WHERE THIS PRIVACY POLICY APPLIES
--------------------------------------
+### 2\. Where This Privacy Policy Applies
 
-This Privacy Policy applies to websites, apps, events and other services we operate under the brand MATCH. For simplicity, we refer to all of these as our “services” in this Privacy Policy. To make it extra clear, we’ve added links to this Privacy Policy on all applicable services.
+This Privacy Policy applies to websites, apps, events and other services we operate under the Match brand. Whether you’re searching for your soulmate, joining us at one of our events, or using any of our other awesome services, this Policy has got you covered. For simplicity, we just refer to all of these as our “service” in this Privacy Policy.
 
-Some services may require their own unique privacy policy. If a service has its own privacy policy, then that policy — not this Privacy Policy — applies.
+If for some reason, one of our services requires its own separate privacy policy, then that policy will be made available to you and that policy — not this Privacy Policy — will apply.
 
-3\. INFORMATION WE COLLECT
---------------------------
+### 3\. Data We Collect
 
-It goes without saying, we can’t help you develop meaningful connections without some information about you, such as basic profile details and the types of people you’d like to meet. We also collect information about your use of our services such as access logs, as well as information from third parties, like when you access our services through your social media account or when you upload information from your social media account to complete your profile. If you want additional info, we go into more detail below.
+It goes without saying, we can’t help you develop meaningful connections without you providing some information about yourself, like basic profile details and the types of people you’d like to meet. Using our service also generates some information, such as when you logged in and how you used the service. We may also collect data from third parties, like when you access the service through an account you have on another platform (e.g., Google or Apple) or when you upload information from your account on another platform to complete your profile. If you’re interested in all the details, be sure to check out the table below.
 
-**_Information you give us_**
+| Data you give us |     |
+| --- | --- |
+| Categories | Description |
+| --- | --- |
+| Account Data | When you create an account, you give us basic information for your account to be set up such as email address, date of birth, password. |
+| Profile Data | When you complete your profile, you share additional details about you, such as your gender, interests, preferences, approximate location, etc. Some of this data may be considered sensitive or special in certain countries, such as details about sexual orientation, health, racial or ethnic origins. If you choose to provide this data, you consent to us using it as laid out in this Privacy Policy. |
+| Content | When you use our service, you may post photos, videos, audio, text and other types of content, such as your chats with other members. |
+| Purchase Data | When you make a purchase, we keep the details of the transaction (e.g., what you purchased, the date of the transaction, and the price). The exact data depends on the payment method you choose. When you pay directly with us (rather than through a platform such as iOS or Android), you provide your debit or credit card number or other financial info. |
+| Marketing, Survey and Research Data | We sometimes run (i) surveys, focus groups, or market studies for research purposes and (ii) promotions, events or contests for marketing purposes. When you choose to participate, you give us information to process your entry and participation, as well as your responses to our questions and your feedback. |
+| Third-Party Data | When you choose to share with us information about other people (for example, if you use the contact details of someone you know for a given feature or if you submit a query or report involving a member), we process this data on your behalf to complete your request. |
+| Customer Support Data | When you contact us, you provide us with information that may be necessary to help address your inquiry. Other people may also submit queries or reports involving you. Finally, our moderation tools and teams can collect additional data as part of their investigations. Further, we are part of the [Match Group family of businesses](https://mtch.com/). Match Group considers the safety and security of members a top priority. If you were banned from another Match Group service, your data may be shared with us to allow us to take necessary actions, including closing your account or preventing you from creating an account on our service.<br><br>Where legally allowed, we can also receive information about suspected or convicted bad actors from third parties as part of our efforts to ensure our members’ safety and security. |
+| Social Media Data | You may decide to share data with us through your accounts on other platforms (e.g., Spotify, Google or Apple), for instance if you decide to create and log into your account via these platforms or if you decide to upload data such as playlists onto our service from these platforms. |
 
-You choose to give us certain information when using our services. This includes:
+| Data generated or automatically collected |     |
+| --- | --- |
+| Categories | Description |
+| --- | --- |
+| Usage Data | Using the service generates data about your activity, including how you use it (e.g., when you logged in, features you’ve been using, actions taken, information shown to you, referring webpages, ads you interacted with) and how you interact with others (e.g., searching, matching, communicating). We may also receive data related to interactions you had with our ads on third party’s websites or apps. |
+| Technical Data | Using the service involves the collection of data from and about the device(s) you use to access our service, including hardware and software information such as IP address, device ID and type, apps settings and characteristics, app crashes, advertising IDs and identifiers associated with cookies or other technologies that may uniquely identify a device or browser. For more information about cookies, see our [Cookie Policy](https://uk.match.com/pages/misc/cookie/?styled=1). |
 
-* When you create an account, you provide us with at least your login credentials or phone number, as well as some basic details necessary for the service to work, such as your gender and date of birth.
-* When you complete your profile, you can share with us additional information, such as details on your personality, lifestyle, interests and other details about you, as well as content such as photos and videos. To add certain content, like pictures or videos, you may allow us to access your camera or photo album.
-* When you subscribe to a paid service or make a purchase directly from us (rather than through a platform such as iOS or Android), you provide us or our payment service provider with information, such as your debit or credit card number or other financial information.
-* When you participate in surveys, focus groups or market studies, you give us your insights into our products and services, responses to our questions and testimonials.
-* When you choose to participate in our promotions, events or contests, we collect the information that you use to register or enter.
-* If you contact our customer care team, we collect the information you give us during the interaction.
-* If you share with us information about other people (for example, if you use contact details of a friend for a given feature), we process this information on your behalf in order to complete your request.
-* Of course, we also process your chats with other users as well as the content you publish, as necessary for the operation of the services.
+| Other data we collect with your permission/consent |     |
+| --- | --- |
+| Categories | Description |
+| --- | --- |
+| Face Geometry Data | You may choose to participate in certain of our features like Photo Verification, that involve the collection of face geometry data, which may be considered biometric data in some jurisdictions. [Learn more](https://uk.match.com/faq/?answer=0309_ProfileVerifiedPhoto) about our verification feature and how we process your face geometry data. |
+| ID Data | You may provide us with a copy of your government-issued ID to help us check that you’re who you say you are. |
 
-**_Information we receive from others_**
+### 4\. Why and How We Use Your Data
 
-In addition to the information you may provide us directly, we receive information about you from others, including:
+The main reason we process your data is to provide our service to you and improve it over time. That includes connecting you with members who might make your heart skip a beat, personalizing your experience, and just helping you make the most of our service. We also process your data to keep you and all of our members safe and secure while using our service. We take this responsibility very seriously and we’re always working to improve our systems and processes to help protect you. And yes, we process your data to show relevant ads – you can control this in your settings. Read on for a more detailed explanation.
 
-* **Users**
+For information on how we process personal data through “profiling” and “automated decision-making”, please see our [FAQ](https://uk.match.com/faq/?answer=0262_ProfilagePriseDecisionAutomatisee).
 
-Users may provide information about you as they use our services, for instance as they interact with you or if they submit a report involving you.
+| Purposes for processing your data | Grounds for processing your data | Categories of data processed (Those are described in Section 3 of this Policy) |
+| --- | --- | --- |
+| To enable you to use our service, including:<br><br>* Creating and maintaining your account and profile on our service<br>* Operating and maintaining the various features on our service<br>* Recommending other members to you and recommending you to them<br>* Organizing sweepstakes and contests<br>* Responding to your requests and questions<br>* Monitoring the well functioning of our service and troubleshooting and fixing issues as needed | * Performance of our contract with you<br>* Your consent (where sensitive data or other type of data that requires consent is processed) | * Account Data<br>* Profile Data<br>* Content<br>* Purchase Data<br>* Marketing, Survey and Research Data<br>* Third Party Data<br>* Customer Support Data<br>* Social Media Data<br>* Usage Data<br>* Technical Data |
+| To enable your purchases on our service, including:<br><br>* Processing payments<br>* Offering discounts and promotions, customizing prices | * Performance of our contract with you | * Account Data<br>* Profile Data<br>* Technical Data<br>* Purchase Data<br>* Usage Data |
+| To operate advertising and marketing campaigns, including:<br><br>* Performing and measuring the effectiveness of advertising campaigns run on our service<br>* Performing and measuring the effectiveness of marketing campaigns promoting our own service on third-party platforms<br>* Communicating with you about products and services we believe may interest you | * Consent (where required under applicable law) and otherwise our legitimate interest. It is in our legitimate interest to promote our service and to show ads to our members which are tailored to their interests, as a way to improve their experience and help fund the parts of our service which are free | * Account Data<br>* Profile Data<br>* Usage Data<br>* Marketing, Survey and Research Data<br>* Technical Data |
+| To improve our service and create new features and services, including:<br><br>* Running focus groups, market studies and surveys<br>* Analyzing how our service is used<br>* Reviewing interactions with customer care teams to improve service quality<br>* Developing and improving new features and services, including through machine learning and other technologies, and testing them out<br>* Conducting research and publishing research papers | * Performance of our contract with you<br>* Our legitimate interest: It is in our legitimate interest to improve our service over time<br>* Consent where required under applicable law (e.g., we may process data deemed sensitive or special in certain countries to help make sure that the various communities using our service are being treated fairly and equitably and that our service remains diverse and inclusive) | * Account Data<br>* Profile Data<br>* Content<br>* Purchase Data<br>* Marketing, Survey and Research Data<br>* Third Party Data<br>* Customer Support Data<br>* Social Media Data<br>* Usage Data<br>* Technical Data |
+| To keep you and other members safe on our service and across Match Group, including:<br><br>* Preventing, detecting and fighting against violations of our [Terms](https://uk.match.com/pages/misc/terms/?styled=1), fraud and other illegal or unauthorized activities<br>* Developing and improving tools to prevent, detect and fight against violations of our Terms, fraud and other illegal or unauthorized activities<br>* Preventing recurrences, notably by preventing individuals who violate our Terms from creating a new account<br>* Letting individuals who submit a report know what we’ve done about it<br>* Verifying your identity<br>* Securing payments and fighting against financial fraud<br><br>For more information on safety, integrity and security generally, visit our [Safety Tips](https://uk.match.com/safety/) and [Community Guidelines](https://uk.match.com/pages/misc/community-guidelines/?styled=1). | * Performance of our contract with you<br>* Our legitimate interest: It is in our legitimate interest and that of our members to keep them safe<br>* Protection of your vital interests and that of other members<br>* Compliance with legal obligations that apply to us such as taking down illicit content<br>* Your consent (where sensitive data or other type of data that requires consent is processed) | * Account Data<br>* Profile Data<br>* Content<br>* Purchase Data<br>* Third Party Data<br>* Customer Support Data<br>* Usage Data<br>* Technical Data<br>* Face Geometry Data<br>* ID Data |
+| To comply with applicable law, establish, exercise and defend legal claims & rights, including:<br><br>* Preserving data to comply – and evidence compliance – with applicable law<br>* Supporting investigations and defending potential or ongoing litigation, regulatory action or dispute<br>* Responding to lawful requests from law enforcement, courts, regulators, and other third parties<br>* Reporting illegal or infringing content to law enforcement, government or other authorities<br>* Establishing, exercising, or defending ongoing or threatened claims<br><br>* Sharing data with law enforcement or partners to combat abusive or illegal behavior | * Our legitimate interest: It is in our legitimate interest to comply with applicable law and protect ourselves, our members and others, including as part of investigations, legal proceedings and other disputes<br>* Protection of your vital interests and that of other members<br>* Compliance with legal obligations applying to us such as responding to law enforcement requests for information | The categories of data shared will vary based on the specific circumstances surrounding each obligation, compelling interest or dispute |
 
-* **Social Media**
+### 5\. How We Share Data
 
-You may decide to share information with us through your social media account, for instance if you decide to create and log into your MATCH account via your social media or other account (e.g., Facebook, Google or Apple) or to upload onto our services information such as photos from one of your social media accounts (e.g., Facebook, Instagram…).
+Since our goal is to help you make meaningful connections, some of your information is of course visible to other members on the service. We also share data with service providers and partners who assist us in operating the service, with other Match Group companies for the reasons laid out below and, in some cases, for legal and related reasons. Read on for more details.
 
-* **Affiliates**
+| Recipients | Reasons for sharing | Categories of Personal Data |
+| --- | --- | --- |
+| Other members | You share data with other members when you voluntarily disclose information on the service for others to see (e.g., your public profile).<br><br>If someone submits a report involving you (such as a claim you violated our Terms of Use), we may let the reporter know what actions we took, if any, as a result of their report. The same applies if you submit a report involving another member. | * Profile Data<br>* Content<br>* Social Media Data<br>* Third Party Data<br>* Customer Support Data |
+| Service providers/partners | We share data with vendors and partners who help us operate, promote and improve our service. They provide us services such as data hosting and maintenance, analytics, customer care, marketing, advertising, payment processing, legal support, and security operations. | Depending on the service provided by the vendor or partner, it may include:<br><br>* Account Data<br>* Profile Data<br>* Content<br>* Purchase Data<br>* Marketing, Survey and Research Data<br>* Third Party Data<br>* Customer Support Data<br>* Social Media Data<br>* Usage Data<br>* Technical Data<br>* Face Geometry Data<br>* ID Data |
+| Advertising Partners | We may publish ads about third-party advertisers’ products and services on our service, and publish ads promoting our own service on third-party sites and apps. To help improve the relevance of these ads, we provide certain info about you to third parties, including advertising partners, or allow them to collect such data from our services (such as via cookies, SDKs, or similar technologies). Some of our advertising partners enable us to transform your email address, advertising identifiers or phone number into an identifier that can’t be used to identify you personally and then use that unique identifier to either exclude you from our marketing campaigns, or to target our ads at an audience that is similar to you in terms of background, interests or app usage. | * Account Data<br>* Profile Data<br>* Usage Data<br>* Technical Data |
+| Affiliates | We may share data with affiliates or receive data from them for the purposes laid out in Section 6 of this policy. | The categories of data will vary based on the reason for sharing, but it may include:<br><br>* Account Data<br>* Profile Data<br>* Content<br>* Purchase Data<br>* Marketing, Survey and Research Data<br>* Third Party Data<br>* Customer Support Data<br>* Social Media Data<br>* Usage Data<br>* Technical Data<br>* Face Geometry Data<br>* ID Data |
+| Law enforcement authorities | We may disclose your data to: (i) comply with a legal process, such as a court order, subpoena or search warrant, government / law enforcement investigation or other legal requirements; (ii) assist in the prevention or detection of crime; (iii) protect the safety of any person; and (iv) establish, exercise or defend legal claims. | The categories of data shared will vary depending on the specific circumstances surrounding the request, but it often can include:<br><br>* Account data<br>* Profile Data<br>* Content<br>* Purchase Data<br>* Customer Support Data<br>* Third Party Data<br>* Social Media Data<br>* Usage Data<br>* Technical Data<br>* ID Data |
+| In the context of merger and acquisition, with our Affiliates or new owner(s) | We may transfer your data if we are involved, whether in whole or in part, in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control. | The categories of data shared will vary based on the type of corporate transaction. It may include the entire organization data or only a specific subset such as Purchase Data. |
 
-MATCH is part of the [Match Group family of businesses](http://mtch.com/). Match Group considers the safety and security of users a top priority. If you were banned from another Match Group service, your information can be shared with us to allow us to take necessary actions, including closing your account or preventing you from creating an account on our services.
+### 6\. How Match Group Companies Work Together
 
-* **Other Partners**
+Match is part of the [Match Group family of businesses](https://mtch.com/ourcompany).
 
-We may receive information about you from our partners, including when MATCH accounts can be created through a partner’s service (in which case they pass along registration information to us) or where MATCH ads are published on a partner’s service (in which case they may pass along details on a campaign’s success). Where legally allowed, we can also receive information about suspected or convicted bad actors from third parties as part of our efforts to ensure our users’ safety and security.
+We may share data about you with our Affiliates and they may share data about you with us, for the reasons laid out below:
 
-**_Information generated when you use our services_**
+* To make all Match Group platforms safer, for instance by making sure that when a bad actor is found on one Match Group platform (for instance ours), they can be banned from all.
+* To assist each other in data processing operations, as service providers. This assistance may include processing operations, such as data hosting and maintenance, customer care, marketing and targeted advertising, analytics, finance and accounting, legal support, payment processing, service improvement, data security and fighting against spam, abuse, fraud and other wrongdoings.
+* To improve your chances at building significant connections with others, we may make you visible on other Match Group services or allow you to benefit from cross-platform functionalities. We will of course comply with applicable law and, where relevant, notify you of any such opportunity and allow you to agree or to refuse.
+* Where and as allowed under applicable law, to better understand how people use Match Group services overall, to personalize your experience across Match Group services and to enhance marketing and advertising campaigns.
+* For other legitimate business purposes including corporate / consolidated audit, analysis and reporting.
 
-When you use our services, this generates technical data about which features you’ve used, how you’ve used them and the devices you use to access our services. See below for more details:
+[Learn more](https://www.uk.match.com/faq/?answer=0332_DataAcrossMG) about how Match Group companies work together.
 
-* **Usage Information**
+### 7\. Cross-Border Data Transfers
 
-Using the services generates data about your activity on our services, for instance how you use them (e.g., when you logged in, features you’ve been using, actions taken, information shown to you, referring webpages address and ads that you interacted with) and your interactions with other users (e.g., users you connect and interact with, when you exchanged with them, number of messages you send and receive).
+Because we operate a global service, the sharing of your data laid out in [Section 6](#CH6) involves cross-border data transfers to the United States of America and other countries that may have different laws about data processing. When we transfer personal data outside of the EEA, the United Kingdom, Switzerland or other countries whose data protection laws have been deemed adequate by the European Commission or other competent governmental bodies, we typically rely on what are called [standard contract clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en). These standard contractual clauses are commitments between companies transferring personal data, binding them to protect the privacy and security of your data. [Contact us](https://uk.match.com/faq/#privacyRequest) for a copy.
 
-* **Device Information**
+### 8\. Your Rights
 
-We collect information from and about the device(s) you use to access our services, including hardware and software information such as IP address, device ID and type, apps settings and characteristics, app crashes, advertising IDs (which are randomly generated numbers that you can reset by going into your device’ settings), identifiers associated with cookies or other technologies that may uniquely identify a device or browser.
+We want you to be in control of your data, so we want to remind you of the following rights, options and tools available to you. Depending on where you live, you may not have the same rights or they may be named differently. If you have any questions on your rights and how to exercise them, please contact us here.
 
-* **Other Information with your Consent**
+| Your Rights | How to exercise it |
+| --- | --- |
+| Access, Portability or To Know  <br>_Right to be informed of the personal data we process about you and/or ask for a copy of it_ | You can access and review some data directly by logging into your account. You can also retrieve a copy of your data by following the process explained [here](https://uk.match.com/faq/#privacyRequest). |
+| Rectification or Correction  <br>_Right to amend or update your personal data where it’s inaccurate or incomplete_ | You can update your data directly within the service by simply updating your profile. If you wish to rectify other data, please contact us [here](https://uk.match.com/faq/#privacyRequest). |
+| Deletion or Erasure  <br>_Right to delete personal data_ | You can delete some of the data you provided us directly within the service. You can also close your account as explained [here](https://uk.match.com/faq/managing-my-profile/deleting-or-suspending-my-account/) and we’ll delete your data as laid out in this Privacy Policy. In any event, you can always contact us [here](https://uk.match.com/faq/#privacyRequest). |
+| Objection (Opt-out) or Restriction  <br>_Right to object to us processing personal data or to request that we temporarily or permanently stop processing personal data_ | You can directly opt-out from certain of your personal data processing in your account settings. Otherwise you can contact us [here](https://uk.match.com/faq/#privacyRequest) should you wish to object to or restrict a data processing we’ve listed throughout this Privacy Policy. |
+| Consent Withdrawal  <br>_Right to withdraw a consent you’ve given us to process your personal data for a specific purpose_ | You can directly withdraw consent you’ve given us either by updating your account setting or removing Device Permissions you’ve agreed to in your device settings (e.g., access to specific types of device data such as phone contacts, pictures, advertising identifiers and location services or consent to receive push notifications). When you withdraw consent, certain services may lose functionality. You can always contact us [here](https://uk.match.com/faq/#privacyRequest) for more information. |
 
-If you give us permission, we can collect your precise geolocation (latitude and longitude). The collection of your geolocation may occur in the background even when you aren’t using the services if the permission you gave us expressly permits such collection. If you decline permission for us to collect your precise geolocation, we will not collect it. Similarly, if you consent, we may collect photos and videos (for instance, if you want to publish a photo or video or participate in streaming features on our services). Additionally, if you choose to participate in our Selfie Verification feature, we collect your face geometry data, which may be considered biometric data in some jurisdictions, to verify that you’re the real you. You can learn more about Selfie Verification and how we process your face geometry data [here](https://uk.match.com/faq/?answer=0309_ProfileVerifiedPhoto).
+For your protection and the protection of all of our members, we may ask you for information to verify your identity or authority to act on behalf of a member before we can answer the above requests. We wouldn’t want someone else to get in control of your data!
 
-4\. COOKIES AND OTHER SIMILAR DATA COLLECTION TECHNOLOGIES
-----------------------------------------------------------
+Keep in mind, we may reject requests, including if we are unable to authenticate you, if the request is unlawful or invalid, or if it may infringe on trade secrets or intellectual property or the privacy or other rights of someone else. If you wish to receive information relating to another member, such as a copy of any messages you received from them, the other member will have to make a request themselves.
 
-We use and may allow others to use cookies and similar technologies (e.g., web beacons, pixels, SDKs) to recognize you and/or your device(s). You may read our [Cookie Policy](https://uk.match.com/pages/misc/cookie?styled=1) for more information on why we use them and how you can better control their use.
+In certain countries, including in the European Economic Area and the United Kingdom, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal data. You can find information about your data protection regulator in the European Economic Area [here](https://edpb.europa.eu/about-edpb/board/members_en), and in the United Kingdom [here](https://ico.org.uk/). The data protection authority you can lodge a complaint with may be that of your habitual residence, where you work or where an alleged infringement took place.
 
-Some web browsers (including Safari, Internet Explorer, Firefox and Chrome) have a “Do Not Track” (“**DNT**”) feature that tells a website that a user does not want to have his or her online activity tracked. If a website that responds to a DNT signal receives a DNT signal, the browser can block that website from collecting certain information about the browser’s user. Not all browsers offer a DNT option and DNT signals are not yet uniform. For this reason, many businesses, including MATCH, do not currently respond to DNT signals.
+### 9\. How Long We Retain Your Data
 
-5\. HOW WE USE INFORMATION
---------------------------
+We want the connections you make through our service to last forever, but we keep your personal data only as long as necessary for legitimate business reasons (as laid out in [Section 4](#CH4)) and as permitted by applicable law.
 
-The main reason we use your information is to deliver and improve our services. Additionally, we use your info to help keep you safe, and to provide you with advertising that may be of interest to you. Read on for a more detailed explanation of the various reasons for which we use your information, together with practical examples.
+If you decide to stop using our service, you can close your account and your profile will no longer be visible to other members. Note that we will close your account automatically if you are inactive for two years.
 
-1. **_To administer your account and provide our services to you_**
+Following account closure, we delete your data as laid out below:
 
-* Create and manage your account
-* Provide you with customer support and respond to your requests
-* Complete your transactions
-* Communicate with you about our services
+1. To protect the safety and security of our members, we implement a safety retention window of three months following account closure. During this period, we keep your data to investigate unlawful or harmful conducts. The retention of data during this safety retention window is based on our legitimate interest as well as that of potential third-party victims.
+2. We maintain limited data to comply with legal data retention obligations: in particular, we keep transaction data and imprecise location of purchase for 10 years to comply with tax and accounting legal requirements, credit card information for the duration the user may challenge the transaction, and “traffic data” / logs for one year to comply with legal data retention obligations. We also keep records of consents members give us for five years to comply and evidence our compliance with applicable law.
+3. We maintain limited data on the basis of our legitimate interest: we keep customer care records and supporting data 6 years from the date of the report in support of our safety efforts, to support our customer care decisions, enforce our rights and enable us to defend ourselves in the event of a claim, profile data and imprecise location of download for one year in anticipation of potential litigation, for the establishment, exercise or defense of legal claims, and data necessary to prevent members who were banned from opening a new account for as long as necessary to ensure the safety and vital interests of our members.
+4. Finally, we maintain data on the basis of our legitimate interest where there is an outstanding or potential issue, claim or dispute requiring us to keep data in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings.
 
-1. **_To help you connect with other users_**
+Where and as legally permitted, we may maintain and use data that, by itself, cannot identify or be attributed specifically to you for the purposes described in this Privacy Policy, including to improve our service, create new features, technologies and services, and keep Match Group services safe.
 
-* Recommend you other users to meet
-* Show users’ profiles to one another
+### 10\. Children’s Privacy
 
-1. **_To_** **_operate_** **_advertising and marketing campaigns_**
+Our service is restricted to individuals who are 18 years of age or older. We do not permit individuals under the age of 18 on our platform. If you suspect that a member is under the age of 18, please use the reporting mechanism available on the service.
 
-* Administer sweepstakes, contests, discounts or other offers
-* Perform and measure the effectiveness of advertising campaigns on our services and marketing campaigns promoting MATCH on and off our services
-* Communicate with you about products or services that we believe may interest you
+### 11\. Privacy Policy Changes
 
-1. **_To_** **_improve_** **_our services and develop new ones_**
+This policy may change over time. We’re always looking for new and innovative ways to help you build meaningful connections and strive to make sure explanations of our data practices remain up-to-date. We will notify you before material changes take effect so that you have time to review the changes.
 
-* Administer focus groups, market studies and surveys
-* Review interactions with customer care teams to improve our quality of service
-* Understand how users typically use the services to improve them (for instance, we may decide to change the look and feel or even substantially modify a given feature based on how users react to it)
-* Develop new features and services (for example, we may decide to build a new interests-based feature further to requests received from users).
-
-1. **_To_** **_prevent_****_, detect and fight fraud and other illegal or unauthorized activities_**
-
-* Find and address ongoing, suspected or alleged violations of our [Terms of Use](https://uk.match.com/pages/misc/term?styled=1), notably through the review of reports and interactions between members.
-* Better understand and design countermeasures against violations of our [Terms of Use](https://uk.match.com/pages/misc/term?styled=1)
-* Retain data related to violations of our [Terms of Use](https://uk.match.com/pages/misc/term?styled=1) to prevent against recurrences
-* Enforce or exercise our rights, for example our [Terms of Use](https://uk.match.com/pages/misc/term?styled=1).
-* Communicate to users what we’ve done as a result of their reports
-
-1. **_To_** **_ensure_** **_legal compliance_**
-
-* Comply with legal requirements
-* Assist law enforcement
-
-For information on how we process personal information through profiling and automated decision-making, please see our [FAQ](https://uk.match.com/faq/?answer=0262_ProfilagePriseDecisionAutomatisee).
-
-To process your information as described in this Privacy Policy, we rely on the following legal bases:
-
-* _Provide our service to you_: The reason we process your information for purposes A and B above is to perform the contract that you have with us. For instance, as you go about using our service to build meaningful connections, we use your information to maintain your account and your profile, make it viewable to other users and recommend other users to you and to otherwise provide our free and paid features.
-* _Legitimate interests_: We process your information for purposes C, D and E above, based on our legitimate interest. For instance, we analyze users’ behavior on our services to continuously improve our offerings, we suggest offers we think might interest you and promote our own services, we process information to help keep our users safe and we process data where necessary to enforce our rights, assist law enforcement and enable us to defend ourselves in the event of a legal action.
-* _Comply with applicable laws and_ _regulations_: We process your information for purpose F above where it is necessary for us to comply with applicable laws and regulations and evidence our compliance with applicable laws and regulations. For example, we retain traffic data and data about transactions in line with our accounting, tax and other statutory data retention obligations and to be able to respond to valid access requests from law enforcement. We also keep data evidencing consents users give us and decisions they may have taken to opt-out of a given feature or processing.
-* _Consent_: If you choose to provide us with information that may be considered “special” or “sensitive” in certain jurisdictions, such as your sexual orientation, you’re consenting to our processing of that information in accordance with this Privacy Policy. From time to time, we may ask for your consent to collect specific information such as your precise geolocation or use your information for certain specific reasons. In some cases, you may withdraw your consent by adapting your settings (for instance in relation to the collection of our precise geolocation) or by deleting your content (for instance where you entered information in your profile that may be considered “special” or “sensitive”). In any case, you may withdraw your consent at any time by contacting us at the address provided at the end of this Privacy Policy.
-
-6\. HOW WE SHARE INFORMATION
-----------------------------
-
-Since our goal is to help you make meaningful connections, the main sharing of users’ information is, of course, with other users. We also share some users’ information with service providers and partners who assist us in operating the services, with other Match Group companies for specified reasons as laid out below and, in some cases, legal authorities. Read on for more details about how your information is shared with others.
-
-* **With** **other users**
-
-You share information with other users when you voluntarily disclose information on the service (including your public profile). Please be careful with your information and make sure that the content you share is stuff that you’re comfortable being visible.
-
-If you choose to limit the audience for all or part of your profile or for certain content or information about you, then it will be visible according to your settings.
-
-If someone submits a report involving you (such as claim that you violated our Terms of Use or Community Guidelines), we may communicate to the report actions, if any, we took as a result of their report.
-
-* **_With our service providers and partners_**
-
-We use third parties to help us operate and improve our services. These third parties assist us with various tasks, including data hosting and maintenance, analytics, customer care, marketing, advertising, payment processing and security operations. We also share information with partners who distribute and assist us in advertising our services. For instance, we may share limited information on you in hashed, non-human readable form to advertising partners.
-
-We follow a strict vetting process prior to engaging any service provider or working with any partner. Our service providers and partners must agree to strict confidentiality obligations.
-
-* **_With our affiliates_**
-
-MATCH is part of the [Match Group family of businesses](http://mtch.com/).
-
-We share your information with affiliates for limited legitimate purposes as laid out below:
-
-* to make all Match Group platforms safer, by making sure that when a bad actor is found on one of them (for instance on our services), it is not only addressed there (for instance by banning them), but also on the others;
-* for them to assist us in data processing operations, as service providers, upon our instructions and on our behalf. Their assistance may include technical processing operations, such as data hosting and maintenance, customer care, marketing and targeted advertising, analytics, finance and accounting assistance, improving our service, securing our data and systems and fighting against spam, abuse, fraud, infringement and other wrongdoings.
-* in order to improve your chances at building significant connections with others, we may make you visible on other Match Group services or allow you to benefit from cross-platform functionalities. We will of course comply with applicable law and, where relevant, notify you of any such opportunity and allow you to agree or to refuse. Examples of such opportunities may include the creation of a new service within Match Group, addressing a specific demographic that we think might be interesting to you based on your profile.
-* for other legitimate business purposes including corporate audit, analysis and consolidated reporting, where and as allowed under applicable laws.
-
-* **_For corporate transactions_**
-
-We may transfer your information if we are involved, whether in whole or in part, in a merger, sale, acquisition, divestiture, restructuring, reorganization, dissolution, bankruptcy or other change of ownership or control.
-
-* **_With law enforcement / when required by law_**
-
-We may disclose your information if reasonably necessary: (i) to comply with a legal process, such as a court order, subpoena or search warrant, government / law enforcement investigation or other legal requirements; (ii) to assist in the prevention or detection of crime (subject in each case to applicable law); or (iii) to protect the safety of any person.
-
-* **_To enforce legal rights_**
-
-We may also share information: (i) if disclosure would mitigate our liability in an actual or threatened lawsuit; (ii) as necessary to protect our legal rights and legal rights of our users, business partners or other interested parties; (iii) to enforce our agreements with you; and (iv) to investigate, prevent, or take other action regarding illegal activity, suspected fraud or other wrongdoing.
-
-* **_With your consent or at your request_**
-
-We may ask for your consent to share your information with third parties. In any such case, we will make it clear why we want to share the information.
-
-We may use and share non-personal information (meaning information that, by itself, does not identify who you are such as device information, general demographics, general behavioral data, geolocation in de-identified form), as well as personal information in hashed, non-human readable form, under any of the above circumstances. We may also share this information with other Match Group companies and third parties (notably advertisers) to develop and deliver targeted advertising on our services and on websites or applications of third parties, and to analyze and report on advertising you see. We may combine this information with additional non-personal information or personal information in hashed, non-human readable form collected from other sources. More information on our use of cookies and similar technologies can be found in our [Cookie Policy](https://uk.match.com/pages/misc/cookie?styled=1).
-
-7\. CROSS-BORDER DATA TRANSFERS
--------------------------------
-
-The sharing of information laid out in [Section 6](#_section06) involves cross-border data transfers to the United States of America and other jurisdictions that may have different laws about data processing. When we transfer personal information outside of the EEA, the United Kingdom, Switzerland or other countries which data protection laws have been deemed adequate by the European Commission or other competent governmental body, we use [standard contract clauses](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) (standard contractual clauses are commitments between companies transferring personal data, binding them to protect the privacy and security of your data) or other appropriate transfer mechanism. We are currently in the process of reviewing transfers to our vendors and associated legal basis further to the recent Court of Justice for the European Union’s ruling on transfers of personal data to the USA.
-
-8\. YOUR RIGHTS
----------------
-
-We want you to be in control of your information, so we want to remind you of the following options and tools available to you:
-
-* Access / Update tools in the service. Tools and account settings can help you access, rectify or remove information that you provided to us and that’s associated with your account directly within the service. If you have any question on those tools and settings, please contact our customer care team for help [here](https://uk.match.com/faq).
-* Device permissions. Mobile platforms can have permission systems for specific types of device data and notifications, such as phone contacts, pictures, location services, push notifications and advertising identifiers. You can change your settings on your device to either consent or oppose the collection or processing of the corresponding information or the display of the corresponding notifications. Of course, if you do that, certain services may lose functionality.
-* Uninstall. You can stop all information collection by an app by uninstalling it using the standard uninstall process for your device. Remember that uninstalling an app does NOT close your account. To close your account, please use the corresponding functionality on the service
-* Account closure. You can close your account by using the corresponding functionality directly on the service.
-
-We also want you to be aware of your privacy rights. Here are a few key points to remember:
-
-* Reviewing your information. Applicable privacy laws may give you the right to review the personal information we keep about you (depending on the jurisdiction, this may be called right of access, right of portability, right to know or variations of those terms). You can exercise this right by putting in such a request [here](https://uk.match.com/faq/#privacyRequest).
-* Updating your information. If you believe that the information we hold about you is inaccurate or that we are no longer entitled to use it and want to request its rectification, deletion, object to or restrict its processing, please contact us [here](https://uk.match.com/faq/#privacyRequest).
-
-For your protection and the protection of all of our users, we may ask you to provide proof of identity before we can answer the above requests.
-
-Keep in mind, we may reject requests, including if we are unable to authenticate you, if the request is unlawful or invalid, or if it may infringe on trade secrets or intellectual property or the privacy or other rights of someone else. If you wish to receive information relating to another user, such as a copy of any messages you received from them through our service, the other user will have to contact us to provide their written consent before the information is released. We may also ask them to provide proof of identity before we can answer the request.
-
-Also, we may not be able to accommodate certain requests to object to or restrict the processing of personal information, notably where such requests would not allow us to provide our service to you anymore. For instance, we cannot provide our service if we do not have your date of birth and thus cannot ensure that you are 18 years of age or older.
-
-In certain countries, including in the European Economic Area and the United Kingdom, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal information. You can find information about your data protection regulator in the European Economic Area [here](https://edpb.europa.eu/about-edpb/board/members_en), and in the United Kingdom [here](https://ico.org.uk/). The data protection authority you can lodge a complaint with may be that of your habitual residence, where you work or where an alleged infringement took place.
-
-9\. HOW LONG WE RETAIN YOUR INFORMATION
----------------------------------------
-
-We keep your personal information only as long as we need it for legitimate business purposes (as laid out in [Section 5](#_section05)) and as permitted by applicable law. If you decide to stop using our services, you can close your account and your profile will stop being visible to other users. Note that we will close your account automatically if you are inactive for a period of two years. After your account is closed, we will delete your personal information, as laid out below:
-
-1. To protect the safety and security of our users, we implement a safety retention window of three months following account closure. During this period, we keep your information in the event that it might be necessary to investigate unlawful or harmful conducts. The retention of information during this safety retention window is based on our legitimate interest as well as that of potential third-party victims.
-2. Once the safety retention window elapses, we delete your data and only keep limited information for specified purposes, as laid out below:
-    1. We maintain limited data to comply with legal data retention obligations: in particular, we keep transaction data for 10 years to comply with tax and accounting legal requirements. We may also need to keep “traffic data” / logs for one year to comply with legal data retention obligations. We also keep records of consents users give us for five years to evidence our compliance with applicable law.
-    2. We maintain limited information on the basis of our legitimate interest: we keep customer care records and supporting data as well as imprecise location of download/purchase for five years to support our customer care decisions, enforce our rights and enable us to defend ourselves in the event of a claim, profile data for one year in anticipation of potential litigation, for the establishment, exercise or defence of legal claims, and data necessary to prevent users who were banned or people who were found to be under the age of 18 from opening a new account, to ensure the safety and vital interests of our users.
-    3. Finally, we maintain information on the basis of our legitimate interest where there is an outstanding or potential issue, claim or dispute requiring us to keep information (in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings).
-
-10\. CHILDREN’S PRIVACY
------------------------
-
-Our services are restricted to individuals who are 18 years of age or older. We do not permit individuals under the age of 18 on our platform. If you suspect that a user is under the age of 18, please use the reporting mechanism available on the service.
-
-11\. JOB CANDIDATES, CONTRACTORS AND VENDOR REPRESENTATIVES
------------------------------------------------------------
-
-We also process the personal information of our job candidates, contractors and vendor representatives, as part of our recruitment and talent management operations and our management of the services that contractors and vendors provide to us. If you are a job candidate, contractor or vendor representative of MATCH, certain relevant terms of this Privacy Policy apply to our processing of your personal information, including the sections of this Privacy Policy that discuss the [entity that is responsible for the processing of your personal information](#_section01) , [transfers of personal information](#_section07), [rights you may have under applicable law](#_section08), [how to contact us](#_section13).
-
-If you are a job applicant, the personal information we process about you may vary depending on the job you seek but typically includes what you provide to us as part of your job application as well as professional qualifications, background and reference information that recruiters or other third parties share with us. We use this information to support the recruitment process, which may lead to an employment contract. For contractors and vendor representatives, we may process identification information and work-related information, as necessary to manage our relationship with you and your employer, which is necessary for the performance of the services agreement, and to establish, exercise or defend potential legal claims. We may share personal information with service providers that assist us with recruitment and technical data processing operations as well as with Match Group companies (for instance if you have a business relationship with employees of an affiliate). We keep your personal information only as long as necessary for those purposes.
-
-12\. PRIVACY POLICY CHANGES
----------------------------
-
-Because we’re always looking for new and innovative ways to help you build meaningful connections and strive on making sure explanations about our data practices remain up-to-date, this policy may change over time. We will notify you before any material changes take effect so that you have time to review the changes.
-
-13\. HOW TO CONTACT US
-----------------------
+### 12\. How to Contact Us
 
 If you have questions about this Privacy Policy, you have different options below:
 
-Online: [here](https://uk.match.com/faq/#privacyRequest)
+Online: [here](https://uk.match.com/faq/)
 
 By post:
 
-Data Protection Officer
-
+Data Protection Officer  
 Match.com International Limited  
-MATCH  
+MATCH, DPO Office  
 c/o Skadden, Arps, Slate, Meagher & Flom (UK) LLP  
 22 Bishopsgate  
 London, EC2N 4BQ  
 United Kingdom
 
-**Or, if you live in the European Union:**
-
-Data Protection Officer
+Or, if you live in the European Union:
 
 MTCH Technology Services Limited  
-MATCH  
-1 Hatch Street Upper  
-Dublin 2, D02 PY28  
-Ireland
+MATCH, DPO Office  
+10 EARLSFORT TERRACE,  
+D02 T380 IRELAND,  
+DUBLIN 2,  
+DUBLIN, D02T380,  
+IRELAND
+
+For more information on how to contact the data protection officer, please click [here](https://uk.match.com/faq/#privacyRequest).
+
+Well, that’s it! You’ve made it to the end of our Privacy Policy. We hope it was as engaging and clear as we tried to make it. Now, let’s get out there and start making some memories! We’re excited to be on this journey with you.
