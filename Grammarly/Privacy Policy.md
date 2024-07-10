@@ -45,7 +45,7 @@ Table of Contents
   
 [For What Purposes Does Grammarly Use Personal Data?](#sectionSingleColumn_1ZFKil4JH2VO74XoITm1cJ)  
   
-[How Does Grammarly Secure and Store Personal Information?](#sectionSingleColumn_572yz4dIpV8Vs0noJxPXC)  
+[How Does Grammarly Secure and Store Personal Data?](#sectionSingleColumn_572yz4dIpV8Vs0noJxPXC)  
 
 [To Whom Does Grammarly Disclose Personal Data?](#sectionSingleColumn_3pK9aQunp3MqHqBEM2VgFH)  
   
@@ -116,8 +116,8 @@ We use your personal data for the following specific purposes:
 
   
 
-How Does Grammarly Secure and Store Personal Information?
----------------------------------------------------------
+How Does Grammarly Secure and Store Personal Data?
+--------------------------------------------------
 
 As described in more detail on our [Security page](https://www.grammarly.com/security), we use a combination of technical, physical, and logical safeguards designed to secure your data. These safeguards include encryption, secure network configuration, data transfer restrictions, restricted employee access, and other measures.  
   
