@@ -884,7 +884,7 @@ Please note, some products may not be available in your location.
 | [Cloud Mining](https://www.binance.com/en/terms-cloud-mining) | [Convert](https://www.binance.com/en/terms-convert) | [Crypto Loan](https://www.binance.com/en/terms-crypto-loans) |
 | [DeFi Staking](https://www.binance.com/en/terms-defi-staking) | [ETH Staking](https://www.binance.com/en/terms-ETH-2-0-staking) | [Fiat](https://www.binance.com/en/legal/terms-fiat) |
 | [Futures](https://www.binance.com/en/binance-futures-services-agreement) | [Gift Card](https://www.binance.com/en/legal/terms-gift-card) | [Launchpool](https://www.binance.com/en/about-legal/terms-launchpool) |
-| [Mining Pool](https://www.binance.com/en/terms-binance-pool) | [NFT Staking](https://www.binance.com/en/legal/NFT_Staking_Terms) | [Options](https://www.binance.com/en/legal/terms-options) |
+| [Mining Pool](https://www.binance.com/en/terms-binance-pool) | [NFT Staking](https://www.binance.com/en/legal/terms-nft-staking) | [Options](https://www.binance.com/en/legal/terms-options) |
 | [OTC Terms](https://www.binance.com/en/terms-otc) | [Pay](https://www.binance.com/en/legal/terms-pay) | [P2P](https://www.binance.com/en/terms-p2p) |
 | [Simple Earn](https://www.binance.com/en/terms-simple-earn) | [Swap](https://www.binance.com/en/terms-swap-farming) | [Spot](https://www.binance.com/en/terms-spot) |
 | [Web3 Wallet](https://www.binance.com/en/defiwallet/term-of-use) |     |     |
