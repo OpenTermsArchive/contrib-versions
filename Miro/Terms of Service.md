@@ -138,6 +138,42 @@ Miro legal information
 
 ###### Table of contents
 
+[AI Features Addendum](https://miro.com/legal/ai-features-addendum)
+
+[Code of Conduct](https://miro.com/legal/code-of-conduct)
+
+[Cookies Policy](https://miro.com/legal/cookies-policy)
+
+[Customer Data Processing Addendum](https://miro.com/legal/customer-data-processing-addendum)
+
+[Current Subprocessors List](https://miro.com/legal/subprocessors-list)
+
+[Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
+
+[Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement)
+
+[Miro Assist Beta Program Terms](https://miro.com/legal/miro-assist-terms)
+
+[Miro Imprint](https://miro.com/legal/miro-imprint)
+
+[Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
+
+[Miro Master Cloud Agreement Guide](https://miro.com/legal/miro-mca-guide)
+
+[Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
+
+[Open Source Software - Client](https://miro.com/legal/open-source-software-client)
+
+[Open Source Software - Site](https://miro.com/legal/open-source-software-site)
+
+[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
+
+[Privacy Policy](https://miro.com/legal/privacy-policy)
+
+[Privacy Policy July 17](https://miro.com/legal/privacy-policy-july-17)
+
+[Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
+
 Terms of Service
 
 [1\. Overview](#1.-overview)
@@ -182,43 +218,9 @@ Terms of Service
 
 [Definitions](#definitions)
 
-[Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement)
-
-[Privacy Policy](https://miro.com/legal/privacy-policy)
-
-[Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
-
-[Cookies Policy](https://miro.com/legal/cookies-policy)
-
-[Developer Terms of Use](https://miro.com/legal/developer-terms-of-use)
-
-[Online Community Terms of Use](https://miro.com/legal/online-community-terms-of-use)
-
-[Open Source Software - Site](https://miro.com/legal/open-source-software-site)
-
-[Open Source Software - Client](https://miro.com/legal/open-source-software-client)
-
-[Current Subprocessors List](https://miro.com/legal/subprocessors-list)
-
-[Miro Master Cloud Agreement Guide](https://miro.com/legal/miro-mca-guide)
-
-[Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
-
-[Customer Data Processing Addendum](https://miro.com/legal/customer-data-processing-addendum)
-
 [Vendor Data Processing Addendum](https://miro.com/legal/vendor-data-processing-addendum)
 
-[AI Features Addendum](https://miro.com/legal/ai-features-addendum)
-
-[Miro Assist Beta Program Terms](https://miro.com/legal/miro-assist-terms)
-
-[Prior Master Cloud Agreement "MCA" Versions](https://miro.com/legal/prior-master-cloud-agreement-mca-versions)
-
-[Privacy Policy July 17](https://miro.com/legal/privacy-policy-july-17)
-
-[Miro Imprint](https://miro.com/legal/miro-imprint)
-
-[Code of Conduct](https://miro.com/legal/code-of-conduct)
+[Vendor Information Security Schedule](https://miro.com/legal/vendor-information-security-schedule)
 
 ##### Table of contents
 
