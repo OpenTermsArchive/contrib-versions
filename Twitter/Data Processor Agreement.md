@@ -670,6 +670,15 @@ Without these notifications, people would have a harder time learning of content
 To safeguard the rights of those who use our services, each non-service related email notification contains an opt out link that enables the individual to disable any or all such notifications. An individual can similarly update his or her preferences at any time while logged into X.com or our mobile apps. For individuals in the European Union, an EFTA State, and the United Kingdom, control is also provided during the registration process in which the individual’s email address is first collected.  
  
 
+### Legitimate interests analysis summary –  processing public post data to train machine learning and artificial intelligence models, including generative models
+
+X may use information that individuals provide and data that it receives (as described in X’s Privacy Policy) to train machine learning and artificial intelligence models, including generative models. This includes public X posts and associated metadata of X users. This helps X offer better services, including summaries of search results and content.
+
+Without this training and processing, people would not have access to a large range of information, opinions, viewpoints and accurate summaries and X would have a more difficult time providing relevant, accurate and appropriate responses.
+
+To safeguard the rights of those who use our services, users can easily “protect” (limit to a followers-only audience) their posts, or delete their posts at any time, thereby removing their posts and related metadata from being used. X also provides [information and user controls](https://help.x.com/en/using-x/about-grok) to enable X users to opt out of their public post data being used to train an underlying generative model.  
+ 
+
 ### Sources of personal data we process 
 
 The table below describes the categories of sources from which we may receive personal data. 
