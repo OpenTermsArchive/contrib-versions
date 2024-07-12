@@ -1,27 +1,27 @@
 Legal
 -----
 
-[Website Terms of Use](https://www.cloudflare.com/en-us/website-terms/)
+[Website Terms of Use](https://www.cloudflare.com/website-terms/)
 
-[Self-Serve Subscription Agreement](https://www.cloudflare.com/en-us/terms/)
+[Self-Serve Subscription Agreement](https://www.cloudflare.com/terms/)
 
-[Service-Specific Terms](https://www.cloudflare.com/en-us/service-specific-terms-overview/)
+[Service-Specific Terms](https://www.cloudflare.com/service-specific-terms-overview/)
 
-[Privacy Policy](https://www.cloudflare.com/en-us/privacypolicy/)
+[Privacy Policy](https://www.cloudflare.com/privacypolicy/)
 
-[Cookie Policy](https://www.cloudflare.com/en-us/cookie-policy/)
+[Cookie Policy](https://www.cloudflare.com/cookie-policy/)
 
-[Trust & Safety](https://www.cloudflare.com/en-us/abuse/)
+[Trust & Safety](https://www.cloudflare.com/abuse/)
 
-[Transparency Report](https://www.cloudflare.com/en-us/transparency/)
+[Transparency Report](https://www.cloudflare.com/transparency/)
 
-[Domain Registration Agreement](https://www.cloudflare.com/en-us/domain-registration-agreement/)
+[Domain Registration Agreement](https://www.cloudflare.com/domain-registration-agreement/)
 
-[Modern Slavery Act Statement](https://www.cloudflare.com/en-us/modern-slavery-act-statement/)
+[Modern Slavery Act Statement](https://www.cloudflare.com/modern-slavery-act-statement/)
 
-Third Party Code of Conduct
+[Third Party Code of Conduct](https://cf-assets.www.cloudflare.com/slt3lc6tev37/284hiWkCYNc49GQpAeBvGN/e137cdac96d1c4cd403c6b525831d284/Third_Party_Code_of_Conduct.pdf)
 
-[Candidate Privacy Policy](https://www.cloudflare.com/en-us/candidate-privacy-notice/)
+[Candidate Privacy Policy](https://www.cloudflare.com/candidate-privacy-notice/)
 
 ### Have Questions?
 
@@ -75,7 +75,7 @@ This Policy applies to Cloudflare’s collection, use, and disclosure of the per
 * Registrants: Users of Cloudflare’s domain registrar services. Cloudflare is an [ICANN](https://www.icann.org/)\-accredited registrar and complies with the [2013 Registrar Accreditation Agreement](https://www.icann.org/resources/pages/approved-with-specs-2013-09-17-en) (“RAA”).
     
 
-This Policy does not apply to “Application Users”—those individuals who use Cloudflare’s consumer-facing 1.1.1.1 Application. See the [1.1.1.1 Application Privacy Policy](https://www.cloudflare.com/en-us/application/privacypolicy/) for more information about the data collection and use practices for Cloudflare's 1.1.1.1 Application and the associated 1.1.1.1 Application Services.
+This Policy does not apply to “Application Users”—those individuals who use Cloudflare’s consumer-facing 1.1.1.1 Application. See the [1.1.1.1 Application Privacy Policy](https://www.cloudflare.com/application/privacypolicy/) for more information about the data collection and use practices for Cloudflare's 1.1.1.1 Application and the associated 1.1.1.1 Application Services.
 
 This Policy also does not apply to our Customers’ domains, websites, APIs, applications, and networks, which may have their own terms and privacy policies. Our Customers are solely responsible for establishing policies for and ensuring compliance with all applicable laws and regulations, including those relating to the collection of personal information, in connection with the use of our Services by End Users with whom our Customers interact.
 
@@ -98,7 +98,7 @@ When Cloudflare is a reverse proxy, our IP addresses may appear in WHOIS and DNS
         
     * Log files: Just as when you visit and interact with most websites and services delivered via the Internet, when you visit our Websites, including the Cloudflare Community Forum, we gather certain information and store it in log files. This information may include but is not limited to Internet Protocol (IP) addresses, system configuration information, URLs of referring pages, and locale and language preferences.
         
-    * Cookies and other tracking technologies: We may use cookies and other information-gathering technologies for a variety of purposes, such as providing us with information about how you interact with our Websites and assisting us in our marketing efforts. You may view a complete list of cookies and change your cookie preferences by clicking on the “Cookie Preferences” link (or, in the United States, the “Your Privacy Choices” link) in the footer of the Cloudflare homepage at cloudflare.com or in the banner displayed when you visit our Websites from certain countries (such as the European Economic Area and the UK). Note that if you disable cookies entirely, Cloudflare’s Websites may not function properly. We may also use cookies and similar technologies to provide you advertising on third-party sites based upon your browsing activities and interests. In addition to exercising cookie choices through our “Cookie Preferences” or “Your Privacy Choices” links, if you do not want to have cookies and similar technologies used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://optout.networkadvertising.org/?c=1) (or if located in the European Union, the United Kingdom, or Switzerland, click [here](https://www.youronlinechoices.eu/)). For more information about the cookies Cloudflare uses and your privacy choices, please see our [Cookie Policy](https://www.cloudflare.com/en-us/cookie-policy/).
+    * Cookies and other tracking technologies: We may use cookies and other information-gathering technologies for a variety of purposes, such as providing us with information about how you interact with our Websites and assisting us in our marketing efforts. You may view a complete list of cookies and change your cookie preferences by clicking on the “Cookie Preferences” link (or, in the United States, the “Your Privacy Choices” link) in the footer of the Cloudflare homepage at cloudflare.com or in the banner displayed when you visit our Websites from certain countries (such as the European Economic Area and the UK). Note that if you disable cookies entirely, Cloudflare’s Websites may not function properly. We may also use cookies and similar technologies to provide you advertising on third-party sites based upon your browsing activities and interests. In addition to exercising cookie choices through our “Cookie Preferences” or “Your Privacy Choices” links, if you do not want to have cookies and similar technologies used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](https://optout.networkadvertising.org/?c=1) (or if located in the European Union, the United Kingdom, or Switzerland, click [here](https://www.youronlinechoices.eu/)). For more information about the cookies Cloudflare uses and your privacy choices, please see our [Cookie Policy](https://www.cloudflare.com/cookie-policy/).
         
     * Material contributed in Interactive Areas: The Websites may offer publicly accessible blogs, community forums, comments sections, discussion forums, or other interactive features (“Interactive Areas”). If you choose to participate in any of these Interactive Areas, please be aware that any information that you post in an Interactive Area might be read, collected, and used by others who access it. If you wish to remove your personal information from any of our Interactive Areas, please see the Section 8, below.
         
@@ -116,7 +116,7 @@ When Cloudflare is a reverse proxy, our IP addresses may appear in WHOIS and DNS
     
     * Limited DNS query data: We will collect limited DNS query data that is sent to our 1.1.1.1 resolver. Our 1.1.1.1 resolver service does not log personal information, and the bulk of the limited non-personally identifiable query data is only stored for 25 hours. You can learn more about our 1.1.1.1 resolver commitment to privacy [here](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver/).
         
-    * Please note that our data handling practices for our 1.1.1.1 Application, which is not covered by this Policy, are somewhat different than our 1.1.1.1 resolver data handling practices and are described [here](https://www.cloudflare.com/en-us/application/privacypolicy/).
+    * Please note that our data handling practices for our 1.1.1.1 Application, which is not covered by this Policy, are somewhat different than our 1.1.1.1 resolver data handling practices and are described [here](https://www.cloudflare.com/application/privacypolicy/).
         
     
 * End Users
@@ -188,7 +188,7 @@ In addition to sharing with Service Providers as described above, we also may sh
     
 * In the event of a merger, sale, change in control, or reorganization of all or part of our business;
     
-* When we are required to disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. (Learn more about how we handle law enforcement requests [here](https://www.cloudflare.com/en-us/transparency/));
+* When we are required to disclose personal information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. (Learn more about how we handle law enforcement requests [here](https://www.cloudflare.com/transparency/));
     
 * Where we have a good-faith belief sharing is necessary to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or violations of our Website Terms of Use, Self-Serve Subscription Agreement, and/or Enterprise Subscription Terms of Service; or as otherwise required to comply with our legal obligations; or
     
@@ -199,7 +199,7 @@ Additional Information on Sharing
 
 Public DNS Resolver Users. Cloudflare does not share 1.1.1.1 resolver logs with any third parties except for anonymous logs shared with APNIC pursuant to a Research Cooperative Agreement. Learn more about information sharing specific to the 1.1.1.1 resolver [here](https://developers.cloudflare.com/1.1.1.1/privacy/public-dns-resolver/).
 
-Registrants. If you purchase a domain name from Cloudflare’s registrar service, ICANN (The Internet Corporation for Assigned Names and Numbers) and the relevant registry operators overseeing the domain’s top-level domain require us to collect registrant data for the purposes of domain registration and via the WHOIS protocol. We may also be required to share this public data with ICANN, the relevant registry operators and other such providers with whom we contract in order to provide our domain name services, and additionally upon the legitimate request of third parties. Registrant data may include the domain name, registrant name and other contact information, and domain name server information. See our Domain Registration Agreement [here](https://www.cloudflare.com/en-us/domain-registration-agreement/).
+Registrants. If you purchase a domain name from Cloudflare’s registrar service, ICANN (The Internet Corporation for Assigned Names and Numbers) and the relevant registry operators overseeing the domain’s top-level domain require us to collect registrant data for the purposes of domain registration and via the WHOIS protocol. We may also be required to share this public data with ICANN, the relevant registry operators and other such providers with whom we contract in order to provide our domain name services, and additionally upon the legitimate request of third parties. Registrant data may include the domain name, registrant name and other contact information, and domain name server information. See our Domain Registration Agreement [here](https://www.cloudflare.com/domain-registration-agreement/).
 
 Marketing & Advertising Partners. Our marketing and advertising partners may collect or receive personal information about you and/or collect certain information about your interactions with our Websites, or your email communications with Cloudflare, including through the use of cookies, beacons, and similar technologies, in order to gain insights that may help us market and advertise our services to you. You may opt out of such sharing using our “Cookie Preferences” link (or, in the United States, the “Your Privacy Choices” link) on the cloudflare.com homepage.
 
@@ -223,7 +223,7 @@ If you have any questions about or need further information concerning the legal
 
 Cloudflare is a U.S. based, global company. We primarily store your information in the United States and the European Economic Area. To facilitate our global operations, we may transfer and access such information from around the world, including from other countries in which the Cloudflare Group has operations for the purposes described in this Policy.
 
-Whenever a Cloudflare company transfers personal information originating from one country to another Cloudflare group company or a third party service provider or partner in a different country, we will implement appropriate safeguards, consistent with the laws of the territory from which the data is exported. We describe the safeguards we implement [here](https://www.cloudflare.com/en-us/trust-hub/). If you have any questions about or need further information concerning the safeguards Cloudflare has in place to protect your personal information, please contact us at [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com).
+Whenever a Cloudflare company transfers personal information originating from one country to another Cloudflare group company or a third party service provider or partner in a different country, we will implement appropriate safeguards, consistent with the laws of the territory from which the data is exported. We describe the safeguards we implement [here](https://www.cloudflare.com/trust-hub/). If you have any questions about or need further information concerning the safeguards Cloudflare has in place to protect your personal information, please contact us at [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com).
 
 When Cloudflare transfers personal data from the EEA, Switzerland, or the United Kingdom (UK) to the United States, we rely on our certifications under the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), and the UK Extension to the EU-U.S. DPF. Should these certifications lapse or become otherwise invalidated, Cloudflare relies on the standard contractual clauses, including supplementary measures as necessary for transfers to the United States. We also use standard contractual clauses for other international transfers from the EEA, Switzerland, or the United Kingdom.  
   
