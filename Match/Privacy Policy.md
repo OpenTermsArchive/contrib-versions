@@ -32,10 +32,7 @@ Our Representative in the European Union is:
 
 MTCH Technology Services Limited  
 10 EARLSFORT TERRACE  
-D02 T380 IRELAND  
-DUBLIN 2  
-DUBLIN, D02T380  
-IRELAND
+D02 T380 IRELAND
 
 ### 2\. Where This Privacy Policy Applies
 
@@ -169,7 +166,6 @@ Online: [here](https://uk.match.com/faq/)
 
 By post:
 
-Data Protection Officer  
 Match.com International Limited  
 MATCH, DPO Office  
 c/o Skadden, Arps, Slate, Meagher & Flom (UK) LLP  
@@ -182,10 +178,7 @@ Or, if you live in the European Union:
 MTCH Technology Services Limited  
 MATCH, DPO Office  
 10 EARLSFORT TERRACE,  
-D02 T380 IRELAND,  
-DUBLIN 2,  
-DUBLIN, D02T380,  
-IRELAND
+D02 T380 IRELAND
 
 For more information on how to contact the data protection officer, please click [here](https://uk.match.com/faq/#privacyRequest).
 
