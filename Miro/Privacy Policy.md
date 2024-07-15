@@ -56,7 +56,6 @@
     * [Retrospectives](https://miro.com/agile/retrospective/)
     * [Scaled Product Planning](https://miro.com/agile/pi-planning/)
     * [Process Mapping](https://miro.com/process-mapping/)
-    
     * [Customer Journey Mapping](https://miro.com/customer-journey-map/)
     * [Strategy & Planning](https://miro.com/strategic-planning/)
     
@@ -92,6 +91,8 @@
     * [Accessibility](https://miro.com/accessibility-statement/)
     * [Customer Stories](https://miro.com/customers/)
     
+* [Customers](https://miro.com/customers/)
+    
 * [Pricing](https://miro.com/pricing/)
     
 
@@ -109,6 +110,7 @@
     
 * Enterprise
     
+* [Customers](https://miro.com/customers/)
 * [Pricing](https://miro.com/pricing/)
 
 * * *
@@ -127,6 +129,7 @@
     
 * Enterprise
     
+* [Customers](https://miro.com/customers/)
 * [Pricing](https://miro.com/pricing/)
 
 * * *
