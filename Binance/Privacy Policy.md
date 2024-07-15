@@ -160,7 +160,7 @@
 
 #### **10\. What Rights Do I Have?**
 
-#### **Subject to applicable law, as outlined below, you have a number of rights in relation to your privacy and the protection of your personal data. You have the right to request access to, correct, and delete your personal data, and to ask for data portability. You may also object to our processing of your personal data or ask that we restrict the processing of your personal data in certain instances. In addition, when you consent to our processing of your personal data for a specified purpose, you may withdraw your consent at any time. If you want to exercise any of your rights please contact us using the webform available** [**here**](https://privacyportal-bn.my.onetrust.com/webform/99f99939-5a0d-4feb-aef3-ba45f16b6907/207567de-2c3f-440e-8e36-adcae06ed0e5)**.**
+#### **Subject to applicable law, as outlined below, you have a number of rights in relation to your privacy and the protection of your personal data. You have the right to request access to, correct, and delete your personal data, and to ask for data portability. You may also object to our processing of your personal data or ask that we restrict the processing of your personal data in certain instances. In addition, when you consent to our processing of your personal data for a specified purpose, you may withdraw your consent at any time. If you want to exercise any of your rights please contact us using the webform available** [**here**](https://privacyportal-bn.my.onetrust.com/webform/6e570c5a-2a9e-41a2-864d-f3b9592ae6b5/207567de-2c3f-440e-8e36-adcae06ed0e5)**.**
 
 #### **These rights may be limited in some situations - for example, where we can demonstrate we have a legal requirement to process your personal data.**
 
@@ -183,7 +183,7 @@
 * **Right to lodge a complaint with the relevant data protection authority: We hope that we can satisfy any queries you may have about the way in which we process your personal data. However, if you have unresolved concerns, you also have the right to complain to the data protection authority in the location in which you live, work or believe a data protection breach has occurred.**
     
 
-#### **If you have any questions or objection as to how we collect and process your personal data, please contact us using the webform available** [**here**](https://privacyportal-bn.my.onetrust.com/webform/99f99939-5a0d-4feb-aef3-ba45f16b6907/207567de-2c3f-440e-8e36-adcae06ed0e5)**.** 
+#### **If you have any questions or objection as to how we collect and process your personal data, please contact us using the webform available** [**here**](https://privacyportal-bn.my.onetrust.com/webform/6e570c5a-2a9e-41a2-864d-f3b9592ae6b5/207567de-2c3f-440e-8e36-adcae06ed0e5)**.** 
 
 #### **11\. How Long Does Binance Keep My Personal Data?**
 
