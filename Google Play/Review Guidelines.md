@@ -183,7 +183,6 @@ Business
 * [### Google Cloud Platform Console](https://support.google.com/cloud?hl=en-GB)
 * [### Google Merchant Center](https://support.google.com/merchants?hl=en-GB)
 * [### Google Ad Manager](https://support.google.com/admanager?hl=en-GB)
-* [### Google Domains](https://support.google.com/domains?hl=en-GB)
 * [### Google Vault](https://support.google.com/vault?hl=en-GB)
 * [### AppSheet](https://support.google.com/appsheet?hl=en-GB)
 * [### Transit Partners](https://support.google.com/transitpartners?hl=en-GB)
