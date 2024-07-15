@@ -86,7 +86,7 @@ We may also share any of the categories of personal information described above 
 * provide tax and accounting, legal services, delivery, and data enhancement services,
 * provide technology services and enhance security, privacy and fraud protections,
 * provide data analytics services or conduct research or actuarial studies, and
-* o provide support to our operations.
+* provide support to our operations.
 
 **Marketing and advertising partners:** We may share personal and other information with third party online and other marketing and advertising partners or permit these partners to collect personal information from you directly on our Sites to personalize online advertising. We may share personal information with other financial institutions or other companies with whom we have a joint marketing agreement. The [Online tracking technologies and advertising](#cookies) section below has more details about these activities.
 
