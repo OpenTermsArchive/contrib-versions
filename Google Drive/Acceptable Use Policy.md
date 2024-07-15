@@ -1,7 +1,7 @@
 Abuse programme policies and enforcement
 ========================================
 
-The programme policies below apply to Drive, Docs, Sheets, Slides, Forms and new Sites. These policies play an important role to maintain a positive experience for everyone that uses Google products.
+The programme policies below apply to Drive, Docs, Sheets, Slides, Forms, Vids and new Sites. These policies play an important role in maintaining a positive experience for everyone that uses Google products.
 
 We need to curb abuses that threaten our ability to provide these services and we ask that everyone abides by the policies below to help us achieve this goal. We may review content for violations of these policies and take action. This review includes access restriction of content, removal of content, and limitation or termination of a user's access to Google products. Any restrictions pursuant to these policies apply globally unless noted otherwise, and content restrictions will remain in place unless successfully appealed.
 
@@ -194,4 +194,6 @@ Content distribution 
 
 Google Drive allows you to store, share and stream video content, but should not be used as a replacement for a content distribution network. For large-scale public streaming, YouTube is a better fit. Google Drive will restrict usage when it appears that it's being used for large-scale public streaming. Repeated violations may result in additional action, including terminating your account or your ability to use Google Drive.
 
-Translations of our policies are provided for your convenience. If there is a conflict between the text of this policy and the text of the English-language version of the policy, the text of the English-language version of the policy will take precedence.
+Translations of our policies are provided for your convenience. If there is a conflict between the text of this policy and the text of the English-language version of the policy, the text of the English-language version of the policy will take precedence. 
+
+**Important:** This article refers to [Vids](https://docs.google.com/videos/u/0/), a product available for selected customers to test in [alpha](https://support.google.com/a/answer/11202276) and users in Google Workspace Labs, which is an invitation-only programme for users to try new AI features. Users with Vids access can invite any user with a Workspace account to view, edit and collaborate on a video. Workspace Labs is currently available to trusted testers in English and [may not be available in your country](https://support.google.com/meet/answer/13607340) or region.
