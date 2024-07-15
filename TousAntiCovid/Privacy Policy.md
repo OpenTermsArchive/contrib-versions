@@ -303,7 +303,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -540,7 +540,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -1070,7 +1070,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -1307,7 +1307,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -1811,7 +1811,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -2048,7 +2048,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -2501,7 +2501,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -2896,7 +2896,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -3291,7 +3291,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -3686,7 +3686,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -4081,7 +4081,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -4476,7 +4476,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -4731,7 +4731,7 @@ Retour
 
 * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
 * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-* [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+* [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
 * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
 * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
 * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -4937,7 +4937,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -5170,7 +5170,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -5403,7 +5403,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -5636,7 +5636,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -5869,7 +5869,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -6102,7 +6102,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -6335,7 +6335,7 @@ Recherche
             
             * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
             * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+            * [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
             * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
             * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
             * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
@@ -6523,7 +6523,7 @@ Retour
 
 * [Les plans nationaux cancer](https://sante.gouv.fr/soins-et-maladies/maladies/cancer-11425/article/les-plans-nationaux-cancer)
 * [VIH-Sida](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/article/informer-sur-le-vih-sida-et-les-autres-infections-sexuellement-transmissibles)
-* [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires/)
+* [Maladies cardiovasculaires et AVC](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-cardiovasculaires-et-avc/)
 * [Diabète](https://sante.gouv.fr/soins-et-maladies/maladies/article/diabete)
 * [Maladies et infections respiratoires](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/)
 * [Maladies rares](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/maladies-rares/)
