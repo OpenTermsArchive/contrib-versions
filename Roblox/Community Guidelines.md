@@ -56,6 +56,7 @@ Roblox has a zero-tolerance policy for endangering minors, including:
 * Sexualizing minors in any way
 * Engaging in sexual conversation with or soliciting sexual material from minors
 * Sharing, requesting, or discussing child sexual exploitation material
+Sexual extortion of children Child sex trafficking Coercion and enticement of a minor to engage in illegal sexual activity 
 
 Terrorism and Violent Extremism
 
@@ -301,7 +302,7 @@ To maintain privacy and safety, users may be prohibited from sharing or requesti
 
 Directing Users Off-Platform
 
-When using Roblox, you may not link to any external websites or services, except for: YouTube, Facebook, Discord, X (formerly Twitter), and Twitch. Links to any of those approved sites must be wrapped in the [applicable PolicyService API](https://developer.roblox.com/en-us/api-reference/function/PolicyService/GetPolicyInfoForPlayerAsync) or listed in the Social Networks and Social Links settings of your profile or experience description page. Links (including those to approved sites) that appear in locations where the API cannot be deployed - such as text chat or embedded in media - are prohibited. Any other links or efforts to evade detection of links are prohibited, including:
+When using Roblox, you may not link to any external websites or services, except for: YouTube, Facebook, Discord, X (formerly Twitter), Twitch, GitHub, and Guilded. Links to any of those approved sites must be wrapped in the [applicable PolicyService API](https://developer.roblox.com/en-us/api-reference/function/PolicyService/GetPolicyInfoForPlayerAsync) or listed in the Social Networks and Social Links settings of your profile or experience description page. Links (including those to approved sites) that appear in locations where the API cannot be deployed - such as text chat or embedded in media - are prohibited. Any other links or efforts to evade detection of links are prohibited, including:
 
 * Links that contain Roblox-inappropriate content
 * Partial links, filter-breaking, and permitted website links to non-permitted websites
@@ -331,13 +332,14 @@ Disruptive Content and Behavior
 
 For more information about creating Avatar Bodies that comply with these policies, including requirements for clothing and accessories, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
 
-Last Updated: April 1, 2024
+Last Updated: July 15, 2024
 
 Change Log
 
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| July 15, 2024 | Added “Guilded” and “GitHub” to the list of allowed external websites or services under the Directing Users Off-Platform policy.<br><br>Added additional examples under Child Endangerment.<br><br>Effective July 15, 2024 |
 | April 1, 2024 | Updated the following Community Standards:<br><br>* Sharing Personal Information<br>    * Included age clarification<br>    * Updated language for Usernames and Display Names<br>    * Updated examples of prohibited content<br>* Directing Users Off-Platform<br>    * Updated name of Twitter to X (formerly Twitter)<br><br>Effective April 1, 2024 |
 | March 18, 2024 | Clarified requirements for Trademark infringement claims and included action Roblox may take for IP violating content.<br><br>Effective March 18, 2024 |
 | December 5, 2023 | Added a link to the detailed 17+ Policy Standards to the Profanity policy.<br><br>Added a Strong Language section to allow Verified 17+ creators to create 17+ experiences containing vulgar or obscene language and allow it in user communications. |
