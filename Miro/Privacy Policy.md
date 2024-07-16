@@ -197,9 +197,9 @@ Privacy Policy
 
 [Local Provisions](#local-provisions)
 
-[Privacy Policy July 17](https://miro.com/legal/privacy-policy-july-17)
-
 [Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
+
+[Privacy Policy July 17](https://miro.com/legal/privacy-policy-july-17)
 
 [Terms of Service](https://miro.com/legal/terms-of-service)
 
