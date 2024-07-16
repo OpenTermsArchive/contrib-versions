@@ -117,7 +117,6 @@ Consumer
 * [### Google Fi Wireless](https://support.google.com/fi?hl=en-GB)
 * [### Google Store](https://support.google.com/store?hl=en-GB)
 * [### Google Assistant](https://support.google.com/assistant?hl=en-GB)
-* [### Local Guides](https://support.google.com/local-guides?hl=en-GB)
 * [### Google Accessibility](https://support.google.com/accessibility?hl=en-GB)
 * [### Google Messages](https://support.google.com/messages?hl=en-GB)
 * [### Stadia](https://support.google.com/stadia?hl=en-GB)
