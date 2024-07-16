@@ -366,12 +366,12 @@ Table of Contents
     
     For personal data that we have about you, you can:
     
-    * Delete Data: You can ask us to erase or delete all or some of your personal data (e.g., if it is no longer necessary to provide Services to you).
-    * Change or Correct Data: You can edit some of your personal data through your account. You can also ask us to change, update or fix your data in certain cases, particularly if it’s inaccurate.
-    * Object to, or Limit or Restrict, Use of Data: You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).
-    * Right to Access and/or Take Your Data: You can ask us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form.
+    * [Delete Data](https://www.linkedin.com/help/linkedin/answer/a1342613/): You can ask us to erase or delete all or some of your personal data (e.g., if it is no longer necessary to provide Services to you).
+    * [Change or Correct Data](https://www.linkedin.com/help/linkedin/answer/a1336621/): You can edit some of your personal data through your account. You can also ask us to change, update or fix your data in certain cases, particularly if it’s inaccurate.
+    * [Object to, or Limit or Restrict, Use of Data](https://www.linkedin.com/help/linkedin/answer/a1338610): You can ask us to stop using all or some of your personal data (e.g., if we have no legal right to keep using it) or to limit our use of it (e.g., if your personal data is inaccurate or unlawfully held).
+    * [Right to Access and/or Take Your Data](https://www.linkedin.com/help/linkedin/answer/a1339364/): You can ask us for a copy of your personal data and can ask for a copy of personal data you provided in machine readable form.
     
-    Visitors can [learn more about how to make these requests](https://www.linkedin.com/help/linkedin/answer/50191?trk=microsites-frontend_legal_privacy-policy&lang=en) [here](https://www.linkedin.com/help/linkedin/answer/50191?trk=microsites-frontend_legal_privacy-policy&lang=en). You may also contact us using the contact information below, and we will consider your request in accordance with applicable laws.
+    Visitors can [learn more about how to make these requests here](https://www.linkedin.com/help/linkedin/answer/50191?trk=microsites-frontend_legal_privacy-policy&lang=en). You may also contact us using the contact information below, and we will consider your request in accordance with applicable laws.
     
     Residents in the [Designated Countries](https://www.linkedin.com/help/linkedin/answer/89877?trk=microsites-frontend_legal_privacy-policy&lang=en) and [other regions](https://privacy.linkedin.com/regionalinfo) may have additional rights under their laws.
     
