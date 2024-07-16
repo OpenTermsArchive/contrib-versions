@@ -173,9 +173,9 @@ Miro legal information
 
 [Privacy Policy](https://miro.com/legal/privacy-policy)
 
-[Privacy Policy July 17](https://miro.com/legal/privacy-policy-july-17)
-
 [Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
+
+[Privacy Policy July 17](https://miro.com/legal/privacy-policy-july-17)
 
 Terms of Service
 
