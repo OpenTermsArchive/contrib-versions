@@ -3,7 +3,7 @@ Print this Page
 Privacy Notice
 ==============
 
-LAST UPDATED: February 15, 2024
+LAST UPDATED: July 15, 2024
 
 1\. Introduction
 ----------------
@@ -50,7 +50,7 @@ We use first party and third party cookies and tracking services that employ coo
 
 **(c) Customer support information.**
 
-We collect information submitted through our Customer Support portal, such as name, email, and message text.
+We collect information submitted through our Customer Support portal, such as name, email, and message text. We also record the content of Customer Support, Customer Success, and Sales calls.
 
 **(d) Usage information.**
 
@@ -128,12 +128,12 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     **(a) Account information.**
     
-    * We need to use your account information to run your account, provide you with services, bill you for our services, provide you with customer support, and contact you or your organization about your service or account. These communications are of a transactional nature (e.g., service-related announcements, billing-related matters, changes to our services or policies, a welcome email when you first register). You cannot opt out of these communications since they are required to provide our services to you.
+    * We need to use your account information to run your account, provide you with services, bill you for our services, resolve disputes such as chargebacks and refund requests, provide you with customer support, and contact you or your organization about your service or account. These communications are of a transactional nature (e.g., service-related announcements, billing-related matters, changes to our services or policies, a welcome email when you first register). You cannot opt out of these communications since they are required to provide our services to you.
     * We may also use billing information in aggregate to adjust or manage pricing at the individual level or across all service users.
     
     **(b) Customer support information.**
     
-    * We will use information submitted through our Customer Support portal, such as name, email, and message text, in order to provide you with customer support.
+    * We will use information submitted through our Customer Support emails, chats, or phone calls, such as name, email, and message content, in order to provide you with customer support.
     
     **(c) Usage information.**
     
@@ -169,7 +169,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     **(b) Customer support information.**
     
-    * We may use information provided to our Customer Support, Customer Success, and Sales teams, such as name, email, and message content to train machine learning models to better predict and answer customer support question type, provide answers, generate insights about customer support trends, and to improve our Customer Support for you. This data is de-identified where possible.
+    * We may use information provided to our Customer Support, Customer Success, and Sales teams such as name, email, and message content to train machine learning models to better predict customer support question type, provide answers, generate insights about customer support trends, and to improve our Customer Support for you. This data is de-identified where possible.
     
     **(c) Usage information.**
     
@@ -290,9 +290,13 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     **(c) Inferred geographic location.**
     
-    * We may infer your geographic location based on your IP address to produce aggregated data around Respondent location trends. We will use this information to compare and look at trends on how our service operates and how you interact with surveys, on different browsers and devices. Note: we do not collect precise (GPS) location. 
+    * We may infer your geographic location based on your IP address to produce aggregated data around Respondent location trends. We will use this information to compare and look at trends on how our service operates and how you interact with surveys, on different browsers and devices. Note: we do not collect precise (GPS) location.
     
-    **(d) Customer support information.**
+    **(d) Email Address.**
+    
+    * Depending on your geographic location, we may share your email address in hashed form with marketing vendors to present personalized advertisements such as display, videos, and content on the web or connected devices. You can opt out via [this portal](https://www.transparentadvertising.com/).
+    
+    **(e) Customer support information.**
     
     * We may use information provided to our Customer Support, Customer Success, and Sales teams such as name, email, and message content to train machine learning models to better predict customer support question type, provide answers, generate insights about customer support trends, and to improve our Customer Support for our Customer. This data is de-identified where possible.
     
@@ -350,12 +354,16 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     * Where permitted by law, we combine information about you from third party sources with information we hold about you to create a user profile, which will help us to make our sales and marketing efforts more relevant to you and to personalize and improve our marketing/sales campaigns and website experience
     
-    **(b) Usage information.**
+    **(b) Email address.**
+    
+    * Depending on your geographic location, we may share your email address in hashed form with marketing vendors to present targeted and personalized marketing and sales information online. You can opt out via [this portal](https://www.transparentadvertising.com/).
+    
+    **(c) Usage information.**
     
     * We use information about how you have interacted with our websites to improve our website services for you and all users. Some examples relevant to you:
         * Examples: We collect information about the webpages you have visited and your activity on our sites at an aggregate level. We collect this information so that we can track the most visited and most useful parts of our website to identify what are our most popular services.
     
-    **(c) Event data.**
+    **(d) Event data.**
     
     * We use event data for many different business purposes including the following:
         * To monitor abuse and troubleshoot;
@@ -363,11 +371,11 @@ We may combine information about you from third party sources (such as LinkedIn,
         * To track behavior at the aggregate/de-identified level to identify and understand trends in the various interactions with our services; and
         * To fix bugs and troubleshoot product functionality.
     
-    **(d) Customer Support information.**
+    **(e) Customer Support information.**
     
     * We may use information provided to our Customer Support, Customer Success, and Sales teams such as name, email, and message content to train machine learning models to better predict customer support question type, provide answers, generate insights about customer support trends, and to improve our Customer Support. This data is de-identified where possible.
     
-    **(e) Referral information.**
+    **(f) Referral information.**
     
     * We use referral information to track the success of our integrations and referral processes. For example, if you clicked on an advertisement for one of our brands, presented by one of our partners on the web, which brought you to one of our websites, we will record this information to help us track the success of advertising campaigns.
     
@@ -393,13 +401,15 @@ Many of our services let you share information with others. Remember that when y
 
 We do not share your information or data with third parties outside SurveyMonkey except in the following limited circumstances:
 
-**(a)** If you are a Creator that is part of a SurveyMonkey team plan or SurveyMonkey Enterprise plan, your account information and data will be shared with the primary administrator(s) and your survey data may also be visible to other members in your team with whom you share your surveys or with whom you collaborate. Your administrator(s) will be able to view your account data, change your passwords, suspend, transfer or terminate your account or restrict your settings. Please refer to your organization’s internal policies if you have questions about this.
+**(a)** If you are a Creator that is part of a SurveyMonkey Enterprise or team plan, your account information and data will be shared with the primary administrator(s) and your survey data may also be visible to other members in your team with whom you share your surveys or with whom you collaborate. Your administrator(s) will be able to view your account data, change your passwords, suspend, transfer or terminate your account or restrict your settings. Please refer to your organization’s internal policies if you have questions about this.
 
-**(b)** If you are part of a SurveyMonkey Enterprise plan, your plan’s administrator(s) can transfer your survey questions and responses to, or share them with, other members in your team, including your plan’s administrator(s) themselves.  Your plan’s administrator(s) can also delete your survey questions and responses.  Your plan’s administrator(s) may also have the ability to make changes to any aspects of your survey questions and analysis.  Please refer to your organization’s internal policies if you have questions about this.
+**(b)** If you are the primary administrator of a SurveyMonkey team plan, the team name and the domain of the email address on your account may be shared with an individual who has been invited to preview a survey created by one of the members of your team in order to facilitate their request to join the team. You can learn more about how to adjust Team Discovery settings [here.](https://help.surveymonkey.com/en/surveymonkey/teams/team-discovery/)
 
-**(c)** If your organization has purchased a SurveyMonkey Enterprise account and you are using an email address on a domain owned by your employer or organization linked to your individual account, you may be asked to migrate to the SurveyMonkey Enterprise Account and your email address, name and account data will subsequently be visible to the primary administrator(s) for that account once you have been migrated. You may be notified in advance of this migration and given an opportunity to change the email address linked to your account if you are not using your account for business purposes.
+**(c)** If you are part of a SurveyMonkey Enterprise or team plan, your plan’s administrator(s) can transfer your survey questions and responses to, or share them with, other members in your team, including your plan’s administrator(s) themselves.  Your plan’s administrator(s) can also delete your survey questions and responses.  Your plan’s administrator(s) may also have the ability to make changes to any aspects of your survey questions and analysis.  Please refer to your organization’s internal policies if you have questions about this.
 
-**(d)** To help us provide certain aspects of our services we use our affiliates and trusted key partners – in particular, we engage third parties to:
+**(d)** If your organization has purchased a SurveyMonkey Enterprise plan and you are using an email address on a domain owned by your employer or organization linked to your individual account, you may be asked to migrate to the SurveyMonkey Enterprise Account and your email address, name and account data will subsequently be visible to the primary administrator(s) for that account once you have been migrated. You may be notified in advance of this migration and given an opportunity to change the email address linked to your account if you are not using your account for business purposes.
+
+**(e)** To help us provide certain aspects of our services we use our affiliates and trusted key partners – in particular, we engage third parties to:
 
 * facilitate our collectors for sending surveys by email or text to Respondents. For email delivery, we use [SparkPost](https://www.sparkpost.com/policies/privacy/) and for text/SMS services we use [Twilio](https://www.twilio.com/legal/privacy). We share the relevant contact information for respondents (email address or phone number as applicable) with these third parties.
 * facilitate Creators in making [payments](https://www.surveymonkey.com/mp/legal/list-of-payment-processors/).
@@ -408,8 +418,7 @@ We do not share your information or data with third parties outside SurveyMonkey
 * deliver and help us track our marketing and advertising content.
 * help us track website conversion success metrics.
 * manage our sales and customer support services to you, including for resolving any disputes.
-
-**(e)** We enter into confidentiality and data processing terms with partners to ensure they comply with high levels of confidentiality and best practices in privacy and security standards and we regularly review these standards and practices. You can find more information in our [Subprocessor Statement](https://www.surveymonkey.com/mp/legal/subprocessor-list/?ut_source=legal&ut_source2=privacy&ut_source3=inline).
+* We enter into confidentiality and data processing terms with partners to ensure they comply with high levels of confidentiality and best practices in privacy and security standards and we regularly review these standards and practices. You can find more information in our [Subprocessor Statement](https://www.surveymonkey.com/mp/legal/subprocessor-list/?ut_source=legal&ut_source2=privacy&ut_source3=inline).
 
 **(f)** On your instructions, we share your information or data if you choose to use an integration in conjunction with SurveyMonkey services, to the extent necessary to facilitate that use. See further information [here](https://www.surveymonkey.com/apps/?ut_source=legal&ut_source2=privacy&ut_source3=inline) on our API partners.
 
@@ -441,7 +450,9 @@ We and our partners use cookies and similar technologies on our websites. For mo
 
 You can also choose to remove or disable cookies via your [browser settings](https://help.surveymonkey.com/en/account/opt-out/) and, depending on your geographic location you can withdraw consent to non-essential cookies using the in-product cookie preferences tool.
 
-You can opt-out from direct marketing in your account and we provide opt-out options in all direct marketing emails. Finally, if you do not wish to see personalized marketing content on the web related to our service you can clear the cookies in your browser settings. See our Help Center article on how to do this [here](https://help.surveymonkey.com/en/account/opt-out/). 
+You can opt-out from direct marketing in your account and we provide opt-out options in all direct marketing emails. Finally, if you do not wish to see personalized marketing content on the web related to our service you can clear the cookies in your browser settings. See our Help Center article on how to do this [here](https://help.surveymonkey.com/en/account/opt-out/).
+
+Depending on your geographic location, we may share your email address in hashed form with marketing vendors to present targeted and personalized marketing and sales information online. You can opt out via [this portal](https://www.transparentadvertising.com/). 
 
 7\. Security
 ------------
