@@ -3,20 +3,16 @@ Print this Page
 Terms of Use
 ============
 
-Download a copy of the SurveyMonkey TOU [here](https://prod.smassets.net/assets/content/sm/Terms-of-Use-SurveyMonkey-2024-02-15.pdf). These terms apply to services purchased or signed-up for on SurveyMonkey's websites.
-
 For terms that apply to SurveyMonkey services purchased directly through our enterprise sales team, please see our [Governing Services Agreement](https://www.surveymonkey.com/mp/legal/gsa/).
 
 For terms that apply to SurveyMonkey services purchased through a third party, please see our [End Customer Terms of Use](https://prod.smassets.net/assets/content/sm/End-User-Terms-of-Use-2024-02.pdf).
 
-LAST UPDATED: February 15, 2024
+LAST UPDATED: July 15, 2024
 
 Introduction
 ------------
 
 _These are terms that will apply to your use of our Services.  You should read these terms thoroughly, but for your convenience, we provide annotations in boxes like this one throughout.  Please note that these annotations have no legal effect and are not part of our official terms._
-
-_Effective as of August 1, 2023, Momentive Inc. became SurveyMonkey Inc. and Momentive Europe UC became SurveyMonkey Europe UC. Effective as of July 10, 2023, Momentive Brasil Internet Eireli became SurveyMonkey Brasil Internet Ltda_.
 
 These Terms of Use (“**TOU**”) apply to your access and use of SurveyMonkey's products, services, websites, and apps that you purchase or sign up for on SurveyMonkey's websites and which are branded as “Momentive”, “SurveyMonkey”, “Wufoo” or “GetFeedback” (collectively the “**Service(s)**”). These TOU do not apply to Services which are available solely through our [enterprise sales](https://www.surveymonkey.com/mp/enterprise/) channel.
 
@@ -221,7 +217,7 @@ __Here is how you can close your account with us and how we may suspend or disab
 
 _You can cancel your Subscription immediately through your account management page. We do not offer refunds except under very limited circumstances._
 
-You can cancel your Subscription and/or close your account at any time through your account management page. When you close your account, your Subscription will automatically be cancelled, your Services will be terminated, and you will no longer be able to access your account to use the Services and your Content will be deleted in accordance with our data retention policy and these TOU. You can obtain a copy of your Content from the relevant Service(s) before closing your account, subject to applicable law and policies. Alternatively, you can delete your Content yourself proactively prior to cancelling a Subscription and closing your account. If you would like to cancel your Subscription without closing your account, see [Section 1.2](#1.2 Subscriptions.) (SurveyMonkey) and [Section 16.2](#16.2 Wufoo-Specific Terms.) (Wufoo) for further information.
+You can cancel your Subscription and/or close your account at any time through your account management page. When you close your account, your Subscription will automatically be cancelled, your Services will be terminated, and you will no longer be able to access your account to use the Services and your Content will be deleted in accordance with our data retention policy and these TOU. You can obtain a copy of your Content from the relevant Service(s) before closing your account, subject to applicable law and policies. Alternatively, you can delete your Content yourself proactively prior to cancelling a Subscription and closing your account. If you would like to cancel your Subscription without closing your account, see [Section 1.2](#1.2 Subscriptions.) for further information.
 
 When you close your account, we will provide you with confirmation of account closure and Subscription cancellation, and you will not be charged again for that Subscription unless you open a new account and purchase a new Subscription. If you cancel a Subscription in the middle of a billing cycle, you will not receive a refund unless you are canceling for any of the following reasons: (a) we have materially breached these Terms and failed to cure that breach within 30 days after you have so notified us in writing; (b) a refund is required by law; or (c) we, in our sole discretion, determine a refund is appropriate. For clarity, we will not grant a refund where you have used our Services, collected responses, and/or downloaded your responses unless the termination is due to our material, uncured breach or a refund is required by law.
 
@@ -388,9 +384,8 @@ The following amendments automatically apply to you upon acceptance of these Ter
 
 If you are using Wufoo Services, the following additional terms apply:
 
-* One free account per person. You may only have one active, free Wufoo account at any time. Multiple Wufoo accounts for any person may be closed by SurveyMonkey.
+* **One free account per person**. You may only have one active, free Wufoo account at any time. Multiple Wufoo accounts for any person may be closed by SurveyMonkey.
 * **Form Gallery.** In the course of using the Wufoo website, you may create certain templates, graphics or form documents (collectively, the “**Form Content**”) and load or post such documents into the Wufoo form gallery (“**Form Gallery**”) for other users. By making such Form Content available on the Form Gallery, you grant to SurveyMonkey a worldwide, irrevocable, perpetual, royalty-free, transferable and sub-licensable, non-exclusive right to use, copy, modify, distribute, display, perform, create derivative works and exploit that Form Content in connection with SurveyMonkey's operation of Wufoo.
-* **Subscriptions.** Your Subscription will automatically renew at the end of each billing cycle unless you cancel your Subscription plan through your online account management page, or by [contacting our customer support team](https://help.wufoo.com/). **IF YOU CANCEL A SUBSCRIPTION IN THE MIDDLE OF A BILLING CYCLE, (I) YOUR ACCOUNT WILL DOWNGRADE TO A FREE PLAN IMMEDIATELY AND (II) AFTER THE DATE OF DOWNGRADE, YOU WILL NO LONGER HAVE ACCESS TO ANY PAID FEATURES AVAILABLE FOR THAT SUBSCRIPTION. YOU WILL FORFEIT ANY REMAINING TIME ON YOUR SUBSCRIPTION FROM THE DATE OF DOWNGRADE TO THE END OF THAT BILLING CYCLE, AND YOU WILL NOT RECEIVE ANY PRO** **RATA REFUND FOR THAT PERIOD UNLESS YOU ARE CANCELLING FOR ONE OF THE REASONS DESCRIBED IN** [SECTION 11.1(**A**)-(**C**)](#11.%20By%20You.)**.** You may need to adjust your form count, report count, rule count, and file usage in order to complete your account downgrade. Where you no longer have an active Subscription, your account becomes a Wufoo free plan. To close your account and terminate your contract with us, please see [Section 11.1](#11.%20By%20You.) above. 
 * **Account Inactivity**. SurveyMonkey may close any free Wufoo accounts that do not receive a form submission for 6 months or where the accounts are not accessed for 6 months.
 * **Use of API**. You may access your Wufoo account data via Wufoo’s application programming interface (“**API**”) and SurveyMonkey hereby grants you a non-exclusive, non-transferable license (without the right to sublicense) to use the API solely as necessary to develop, test, operate and support your software application or website using certain data and content from the Wufoo website (“**Application**”), and to distribute or allow access to your integration of the API within your Application to end users of your Application. Any use of the API, including use of the API through a third party product or service that accesses Wufoo, is bound by these Terms, plus the following specific items:
 
