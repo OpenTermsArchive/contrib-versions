@@ -1,14 +1,14 @@
 Guidelines for law enforcement
 ==============================
 
-These guidelines are intended for law enforcement authorities seeking information about X accounts. Information concerning requests to [withhold content on X](https://help.twitter.com/rules-and-policies/tweet-withheld-by-country) is available. More general information is available in our [Privacy Policy](https://twitter.com/en/privacy), [Terms of Service](https://twitter.com/en/tos), and [X Rules](https://help.x.com/en/rules-and-policies/twitter-rules.html).   
+These guidelines are intended for law enforcement authorities seeking information about X accounts. Information concerning requests to [withhold content on X](https://help.twitter.com/rules-and-policies/tweet-withheld-by-country) is available. More general information is available in our [Privacy Policy](https://twitter.com/en/privacy), [Terms of Service](https://twitter.com/en/tos), and [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules.html).   
 
 ### What is X?
 
   
 X is a real-time global information network that lets users create and share ideas and information instantly to serve the public conversation. X is what’s happening in the world and what people are talking about right now. When it happens, it happens on X.
 
-For more information, please visit [about.x.com](https://about.twitter.com/). For the latest on X's features and functionality, please visit our [Help Center](https://help.x.com/en.html).  
+For more information, please visit [about.x.com](https://about.twitter.com/). For the latest on X's features and functionality, please visit our [Help Center](https://help.twitter.com/en.html).  
  
 
 ### Account Information Requests
@@ -21,7 +21,7 @@ A X account profile often contains a profile photo, header photo, background ima
 ### Does X have access to user-generated photos or videos?  
 
   
-X provides photo hosting for some image uploads (i.e., pic.x.com images) as well as X account profile photos, and header photos. However, X is not the sole photo provider for images that may appear on the X platform. More information about [posting photos on X](https://help.x.com/en/using-twitter/tweeting-gifs-and-pictures.html).
+X provides photo hosting for some image uploads (i.e., pic.x.com images) as well as X account profile photos, and header photos. However, X is not the sole photo provider for images that may appear on the X platform. More information about [posting photos on X](https://help.twitter.com/en/using-twitter/tweeting-gifs-and-pictures.html).
 
 X provides video hosting for some videos uploaded to X (i.e., pic.xr.com videos) as well as those posted to Periscope. Please note that X is not the sole video provider for videos that may appear on the X platform.
 
