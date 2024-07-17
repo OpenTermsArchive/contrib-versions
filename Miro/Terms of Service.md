@@ -2,13 +2,8 @@
     -------
     
     * [Product Overview](https://miro.com/product-overview/)
-    * [Visual Project Management](https://miro.com/visual-project-management/)
-    * [Diagramming & Process Mapping](https://miro.com/diagramming/)
-    * [Product Development Workflows](https://miro.com/product-development/)
-    * [Content & Data Visualization](https://miro.com/content-data-visualization/)
-    
-    * [Workshops & Async Collaboration](https://miro.com/workshops-async-collaboration/)
-    * [Artificial Intelligence](https://miro.com/assist/)
+    * [Intelligent Canvas](https://miro.com/intelligent-canvas/)
+    * [Artificial Intelligence](https://miro.com/ai/)
     * [Apps & Integrations](https://miro.com/integrations/)
     * [Developer Platform](https://developers.miro.com/)
     
@@ -42,9 +37,7 @@
     * [Engineering](https://miro.com/how-development-teams-use-miro/)
     * [IT Teams](https://miro.com/how-it-teams-use-miro/)
     * [UX & Design](https://miro.com/how-ux-teams-use-miro/)
-    * [Consultants & Agencies](https://miro.com/consultants-agencies/)
     * [Marketing](https://miro.com/how-marketing-teams-use-miro/)
-    * [Sales](https://miro.com/how-sales-teams-use-miro/)
     
     By Use Case
     -----------
@@ -52,9 +45,7 @@
     * [Technical Diagramming](https://miro.com/technical-diagramming/)
     * [Whiteboarding](https://miro.com/whiteboard/)
     * [Wireframing](https://miro.com/wireframe/)
-    * [Mind Map](https://miro.com/mind-map/)
-    * [Retrospectives](https://miro.com/agile/retrospective/)
-    * [Scaled Product Planning](https://miro.com/agile/pi-planning/)
+    * [Agile development](https://miro.com/agile/)
     * [Process Mapping](https://miro.com/process-mapping/)
     * [Customer Journey Mapping](https://miro.com/customer-journey-map/)
     * [Strategy & Planning](https://miro.com/strategic-planning/)
@@ -64,7 +55,7 @@
     Connect & Learn
     ---------------
     
-    * [Miroverse Templates](https://miro.com/miroverse/)
+    * [Customer Stories](https://miro.com/customers/)
     * [Community](https://community.miro.com/)
     * [Academy](https://academy.miro.com/)
     * [Help Center](https://help.miro.com/)
@@ -155,8 +146,6 @@ Miro legal information
 
 [Master Cloud Agreement](https://miro.com/legal/master-cloud-agreement)
 
-[Miro Assist Beta Program Terms](https://miro.com/legal/miro-assist-terms)
-
 [Miro Imprint](https://miro.com/legal/miro-imprint)
 
 [Miro Marketplace Terms of Use](https://miro.com/legal/miro-marketplace-terms-of-use)
@@ -174,8 +163,6 @@ Miro legal information
 [Privacy Policy](https://miro.com/legal/privacy-policy)
 
 [Recruitment Privacy Policy](https://miro.com/legal/recruitment-privacy-policy)
-
-[Privacy Policy July 17](https://miro.com/legal/privacy-policy-july-17)
 
 Terms of Service
 
