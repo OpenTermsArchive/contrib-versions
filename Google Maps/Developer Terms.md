@@ -1401,6 +1401,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Roma Servizi per la Mobilità: [https://romamobilita.it/it/tecnologie/dataset-geografici](https://romamobilita.it/it/tecnologie/dataset-geografici)
         * Open Data Comune di Genova: [https://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations](https://inspire.ec.europa.eu/metadata-codelist/LimitationsOnPublicAccess/noLimitations)
         * Comune di Firenze:[https://www.comune.fi.it/i](https://www.comune.fi.it/)
+        * Comune di Verona: [https://dati.veneto.it/content/numerazione\_civica\_comune\_di\_verona](https://dati.veneto.it/content/numerazione_civica_comune_di_verona)
     34. **Ivory Cost (Côte d'Ivoire)**
         
         OCHA Côte d'Ivoire ([https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/))
@@ -1454,6 +1455,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Landesverwaltung Fuerstentum Liechtenstein - [https://www.gesetze.li/konso/suche](https://www.gesetze.li/konso/suche)
             
         * Landesverwaltung Fuerstentum Liechtenstein - [https://www.llv.li/de/navigation/footer-nav/rechtshinweise](https://www.llv.li/de/navigation/footer-nav/rechtshinweise)
+            
+        * Fintraffic: - [https://liikennetilanne.fintraffic.fi/lahteet/?sources=roadIncidents](https://liikennetilanne.fintraffic.fi/lahteet/?sources=roadIncidents) [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        * Finnish Transport Infrastructure Agency (FTIA): - [https://vayla.fi/tietoa-meista/yhteystiedot/tietosuoja](https://vayla.fi/tietoa-meista/yhteystiedot/tietosuoja) [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
             
     37. **Lithuania**
         * The Lithuanian Spatial Information Portal - [https://creativecommons.org/licenses/by/4.0/deed.en](https://creativecommons.org/licenses/by/4.0/deed.en)
@@ -2568,9 +2573,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Government of Ghana - [https://data.gov.gh/](https://data.gov.gh/) Licenses: [https://opendatacommons.org/licenses/by/1-0/](https://opendatacommons.org/licenses/by/1-0/)
             
     82. **Morocco**
-        
-        OCHA Middle East and North Africa (ROMENA) - Attribution required - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
-        
+        * OCHA Middle East and North Africa (ROMENA) - Attribution required - Creative Commons Attribution for Intergovernmental Organisations (CC BY-IGO) - ([https://data.humdata.org/about/license](https://data.humdata.org/about/license))
+            
+        * Humanitarian Data Exchange - HDX: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
+            
     83. **Dominican Republic**
         
         OCHA Field Information Services Section (FISS) - [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
