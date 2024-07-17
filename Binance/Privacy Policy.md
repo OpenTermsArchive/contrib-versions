@@ -21,7 +21,7 @@
 | --- | --- | --- | --- |
 | #### **Where you reside** | #### **Services Provided** | #### **Your Operating Entity** | #### **Contact address** |
 | #### **France** | #### **Digital Asset Services Provider** | #### **Binance France SAS** | #### **17 rue de la Vanne 92129, Montrouge, France.** |
-| #### **Italy** | #### **Digital Asset Services Provider** | #### **Binance Italy S.R.L** | #### **Via Generale Francesco Poli, 31, 73100, Lecce, Lecce, Italy.** |
+| #### **Italy** | #### **Digital Asset Services Provider** | #### **Binance Italy S.R.L** | #### **Corso Europa n. 15, 20122, Milano (MI), Italy** |
 | #### **Spain** | #### **Virtual Assets Services Provider** | #### **Binance Spain SL** | #### **C/ Don Ramón de la Cruz, 38, 28001, Madrid, Spain.** |
 | #### **Sweden** | #### **Financial Institution** | #### **Binance Nordics AB** | #### **Mailbox 625, 114 11 Stockholm Sverige.** |
 | #### **Poland** | #### **Digital Asset Services** | #### **Binance Poland Spółka z Ograniczoną Odpowiedzialnością** | #### **Ul. Aleje Ujazdowskie, No. 41, apt., locality Warsaw, 00-540, Poland.** |
