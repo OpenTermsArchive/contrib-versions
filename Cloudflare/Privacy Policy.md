@@ -39,9 +39,9 @@ USA
 Cloudflare Privacy Policy
 =========================
 
-This Privacy Policy is effective as of October 03, 2023.
+This Privacy Policy is effective as of July 18, 2024.
 
-_We have updated our August 31, 2023 Privacy Policy to update the labeling we use for our cookie preferences footer on Cloudflare.com and to clarify our previous update on international data transfer mechanisms._  
+_We have updated our October 03, 2023 Privacy Policy to update_ _the address for our entity in Mexico, Cloudflare Mexico S. de R.L de C.V__._  
   
 
 * * *
@@ -237,7 +237,9 @@ In compliance with the DPFs, Cloudflare commits to refer unresolved complaints c
 
 The Federal Trade Commission has jurisdiction over Cloudflare’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF). We may be required to disclose personal information we receive under the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Cloudflare is liable for the processing of personal information it receives under the DPF Principles and subsequently transfers to a third party acting as an agent on its behalf. Cloudflare shall remain liable under the DPF Principles if its agent processes such personal information in a manner inconsistent with the DPF Principles, unless Cloudflare proves that it is not responsible for the event giving rise to the damage.  
+Cloudflare is liable for the processing of personal information it receives under the DPF Principles and subsequently transfers to a third party acting as an agent on its behalf. Cloudflare shall remain liable under the DPF Principles if its agent processes such personal information in a manner inconsistent with the DPF Principles, unless Cloudflare proves that it is not responsible for the event giving rise to the damage.
+
+  
 
 ### 8\. DATA SUBJECT RIGHTS AND CHOICES
 
@@ -247,7 +249,9 @@ Please note that before we can complete your Rights Request, we will need to ver
 
 For any Rights Request, we will need to verify a requestor is inquiring about their own information before we can assist. Where a Rights Request may implicate the personal information of another individual, we must balance the request against the risk of violating another person’s privacy rights. We will comply with Rights Requests to the extent required by applicable law or the Swiss-U.S. or EU-U.S. Data Privacy Framework. In the event that your Rights Request is denied, residents of the U.S. states Virginia and Colorado may appeal our decision by responding to the email informing them of the denial or by submitting a Rights Request to appeal to sar@cloudflare.com, and we will respond within sixty (60) days. In the EEA, the UK, and Switzerland, you also have the right to lodge a complaint with a supervisory authority.  
   
-Please note that we do not retain any personal information about 1.1.1.1 resolver users that would be subject to the Rights Requests described above. In addition, Cloudflare has no direct relationship with End Users. Even where “Cloudflare” may be indicated as the authoritative name server for a domain, unless Cloudflare is the owner of that domain, we have no control over a domain’s content. Accordingly, we rely upon our Customers to comply with the underlying legal requirements for Rights Requests in accordance with their obligations under applicable data protection laws. If an End User requests that we fulfill a Rights Request, we will direct that End User to contact the Customer website(s) with which they interacted directly. Our Customers are solely responsible for ensuring compliance with all applicable laws and regulations with respect to their website users.  
+Please note that we do not retain any personal information about 1.1.1.1 resolver users that would be subject to the Rights Requests described above. In addition, Cloudflare has no direct relationship with End Users. Even where “Cloudflare” may be indicated as the authoritative name server for a domain, unless Cloudflare is the owner of that domain, we have no control over a domain’s content. Accordingly, we rely upon our Customers to comply with the underlying legal requirements for Rights Requests in accordance with their obligations under applicable data protection laws. If an End User requests that we fulfill a Rights Request, we will direct that End User to contact the Customer website(s) with which they interacted directly. Our Customers are solely responsible for ensuring compliance with all applicable laws and regulations with respect to their website users.
+
+  
 
 ### 9\. COMMUNICATION PREFERENCES
 
@@ -458,8 +462,8 @@ Attention: Data Protection Officer
 [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
 
 Cloudflare Mexico S. de R.L de C.V.  
-Paseo de los Tamarindos 150, Bosques de las Lomas, Cuajimalpa  
-Ciudad de México, C.P. 05120  
+Bosque de Ciruelos No. 180 int. PP 101, Col. Bosque de las Lomas, Miguel Hidalgo  
+Ciudad de México, 11700, México  
 Attention: Data Protection Officer  
 [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
 
