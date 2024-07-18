@@ -12,9 +12,9 @@
     
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/38KcDg5CQvCoEnuQWLCpQn/981ab08660edfd0e55f612748efddf0a/Screenshot_2024-06-06_at_11.52.09.png?fm=webp&q=75)
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/p8nsxiI8JhdMmTyrllSOk/04595421cc01826b6ff34a01afe413c0/AI_icon__2_.png?fm=webp&q=75)
         
-        Catch this summer's biggest update on July 17](https://miro.com/whats-next/register/?utm_campaign=FY25Q2-GLB-WB-HI-S2_INX-Whats_New_webinar&utm_source=weblink&utm_medium=redirect&utm_content=Webinar%20-%20High%20Intent&utm_term=Top%20Nav&src=-weblink_glb#CxvHAz7sO)
+        Watch our latest product launch keynote](https://miro.com/whats-new/)
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
         ![](https://images.ctfassets.net/w6r2i5d8q73s/75GGM6ibPJvaal5dyaZ6wY/a2d2cb8b75a8fbdfbffaa174692f954c/XS1_3_4_columns_canvas_features_and_widgets_timer_001?fm=webp&q=75)
@@ -45,7 +45,7 @@
     * [Technical Diagramming](https://miro.com/technical-diagramming/)
     * [Whiteboarding](https://miro.com/whiteboard/)
     * [Wireframing](https://miro.com/wireframe/)
-    * [Agile development](https://miro.com/agile/)
+    * [Agile development](https://miro.com/pt/agile/)
     * [Process Mapping](https://miro.com/process-mapping/)
     * [Customer Journey Mapping](https://miro.com/customer-journey-map/)
     * [Strategy & Planning](https://miro.com/strategic-planning/)
