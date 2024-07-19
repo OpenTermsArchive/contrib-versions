@@ -4,7 +4,7 @@
 Introduction
 ------------
 
-We do our best to comply with the rapidly changing privacy policies globally. If we are missing something, let us know at [rivacypay@ediafiremay.omcay](ailtomay:rivacypay@ediafiremay.omcay).
+We strive to comply with global privacy regulations, including GDPR. If you have any concerns or believe we are not in compliance, please contact us at [rivacypay@ediafiremay.omcay](ailtomay:rivacypay@ediafiremay.omcay).
 
 MediaFire recognizes and believes that data privacy is essential to all Internet users, and the privacy of your personal information is of the utmost importance to us. We are committed to providing you an experience that is safe, secure, and trustworthy. Part of this commitment means safeguarding and respecting your privacy and your choices.
 
@@ -32,7 +32,7 @@ This Privacy Policy incorporates:
 What is Personal and Non Personal Information?
 ----------------------------------------------
 
-Personally Identifiable Information, commonly referred to as PII, is information that itself may identify a unique individual or can be linked back to an individual, directly or indirectly, by reference to an identifier such as a name, an online or device identifier, an identification number, or location data such as your IP address. In relation to your interaction with MediaFire, personal information, for example, may include information you may purposefully provide such as your name and email address during account registration or your address and financial information if you make a purchase. By visiting our website, we automatically collect your IP address. Upon your request and in order for us to download or distribute any Content uploaded by you to MediaFire, your files become published Content and cannot be considered personally identifiable information.
+Personally Identifiable Information, commonly referred to as PII, is information that itself may identify a unique individual or can be linked back to an individual, directly or indirectly, by reference to an identifier such as a name, an online or device identifier, an identification number, or location data such as your IP address. In relation to your interaction with MediaFire, personal information, for example, may include information you may purposefully provide such as your name and email address during account registration or your address and financial information if you make a purchase. By visiting our website, we automatically collect your IP address. Upon your request and in order for us to download or distribute any Content uploaded by you to MediaFire, your files become published Content. However, any personally identifiable information within those files remains protected under GDPR.
 
 Non-personally identifiable information cannot be used to identify or locate an individual person. Examples are: hashed/anonymized/pseudonymized data, click stream information, browser type, demographics, time and date, which advertisements are clicked or scrolled over and other data of interest.
 
@@ -43,7 +43,7 @@ Who We Get Information From and How Your Information Is Used
 
 Whenever you use any website, mobile application or other internet service, certain information gets created and logged automatically. The same is true when you visit MediaFire.
 
-We use your personal information to fulfill our commitment to you and provide you with our Services. In short, it’s necessary for us to do these things in order to make our Services relevant, interesting and personal to you. We balance our interests with your rights.
+We use your personal information to fulfill our commitment to you and provide you with our Services. In short, it’s necessary for us to do these things in order to make our Services relevant, interesting and personal to you. We process your data based on legitimate interests, consent, contract necessity, and compliance with legal obligations, always prioritizing your rights under GDPR.
 
 How we use the information we collect depends in part on which Services you use, how you use them, and any choices you have made about information you provide.
 
@@ -108,7 +108,7 @@ Our systems and/or third parties may automatically obtain information:
 
 * Third-party platforms you connect with
     
-    An example would be logging into MediaFire from Facebook. We need to ensure it’s you, so information is passed to us. You should review the privacy policies of every website you visit. Websites use cookies to track users and gather information.
+    An example would be logging into MediaFire from Facebook. We need to ensure it’s you, so information is passed to us. You should review the privacy policies of every website you visit. Third-party platforms may use cookies to track users and gather information. You should review the privacy policies of these platforms to understand their practices.
     
 * Information about your device(s)
     
@@ -171,7 +171,7 @@ Other companies give us data:
 Device Information
 ------------------
 
-We automatically receive certain types of information when you install, access, update, or use our Services. This information includes your computer, tablet, mobile or other digital device's unique identifier, manufacturer and model, operating system and version, screen size and resolution, mobile network and status (WiFi, etc.), application version including installation and updates info, settings, and crash data that helps us understand when something breaks. Whether we collect some or all of this information often depends on what type of device you’re using and its settings. For example, different types of information are available depending on whether you’re using a Mac or a PC, or an iPhone or Android phone. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.
+We automatically receive certain types of information when you install, access, update, or use our Services. This information includes your computer, tablet, mobile or other digital device's unique identifier, manufacturer and model, operating system and version, screen size and resolution, mobile network and status (WiFi, etc.), application version including installation and updates info, settings, and crash data that helps us understand when something breaks. Whether we collect some or all of this information often depends on what type of device you’re using and its settings. The type and amount of information collected may vary depending on the device and its settings, such as whether you are using a Mac, PC, iPhone, or Android phone. To learn more about what information your device makes available to us, please also check the policies of your device manufacturer or software provider.
 
 We use this information to determine what types and version of devices, etc. are accessing our Services. After all, we have to write software to accommodate various platforms, versions, etc. We have to keep up and necessarily sunset unused code.
 
@@ -212,7 +212,7 @@ MediaFire and our third-party partners, such as our advertising and analytics pa
 
 We use these cookies both when you visit our site and Services via a browser and our mobile app. As we adopt additional technologies, we may also gather additional data through other methods.
 
-Our cookies and similar technologies have different functions. They are either necessary for the functioning of our services, help us improve our performance, give you extra functionalities, or help us to serve you relevant and targeted ads. We use cookies and similar technologies that only remain on your device for as long as you keep your browser active (session) and cookies and similar technologies that remain on your device for a longer period (persistent). You are free to block, delete, or disable these technologies if your device allows this, but if you disable them, then certain functionalities will break or be unavailable. You can manage your cookies and your cookie preferences in your browser or device settings.
+Our cookies and similar technologies have different functions. They are either necessary for the functioning of our services, help us improve our performance, give you extra functionalities, or help us to serve you relevant and targeted ads. We use cookies and similar technologies that only remain on your device for as long as you keep your browser active (session) and cookies and similar technologies that remain on your device for a longer period (persistent). You are free to block, delete, or disable these technologies through your device settings. However, disabling them may affect the functionality of certain features of our Services. You can manage your cookies and your cookie preferences in your browser or device settings.
 
 To help Us help You to …
 
@@ -264,19 +264,19 @@ Data Retention
 
 Account holder information is held by MediaFire in accordance with our Terms of Service and Privacy Policy.
 
-MediaFire takes your privacy seriously and is not in the business of tracking you; we are in the business of helping you store, share, and access your data. We work hard to collect the minimum information possible to facilitate a great user experience with the powerful features you use on our website, mobile apps, and other associated platforms.
+MediaFire takes your privacy seriously and focuses on providing secure storage, sharing, and access to your data. We work hard to collect the minimum information possible to facilitate a great user experience with the powerful features you use on our website, mobile apps, and other associated platforms.
 
 MediaFire’s Data Retention Policy can be viewed at [https://www.mediafire.com/policies/data\_retention.php](https://www.mediafire.com/policies/data_retention.php)
 
 Revoke Consent
 --------------
 
-In order to access your account and files, MediaFire must have information about you in order to identify you. Revoking consent to collection and retention of your personal data effectively closes your account with MediaFire. You can [submit a ticket to customer support](https://www.mediafire.com/help/submit_a_ticket.php) to request deletion of your account. See our Data Retention Policy for more information.
+In order to access your account and files, MediaFire must have information about you in order to identify you. Revoking consent to the collection and retention of your personal data will result in the closure of your account with MediaFire, as we require this information to provide our Services. You can [submit a ticket to customer support](https://www.mediafire.com/help/submit_a_ticket.php) to request deletion of your account. See our Data Retention Policy for more information.
 
 California Privacy
 ------------------
 
-When you access MediaFire from California, you will receive a notification "Do Not Sell My Personal Information". If you click on that notification, you will then receive an option to Dismiss or Opt out.
+When you access MediaFire from California, you will receive a notification "Do Not Sell My Personal Information". If you click on that notification, you will then receive options to either dismiss it or opt-out of the sale of your personal information, in accordance with the California Consumer Privacy Act (CCPA).
 
 For more information, MediaFire’s California Privacy Policy can be viewed at  
 [https://www.mediafire.com/policies/california\_privacy.php](https://www.mediafire.com/policies/california_privacy.php)
@@ -284,7 +284,7 @@ For more information, MediaFire’s California Privacy Policy can be viewed at
 Data Processing
 ---------------
 
-MediaFire respects your privacy and collects, uses, and processes minimal data. We are not in the data mining and sales business, nor have we ever been in this business.
+MediaFire respects your privacy and collects, uses, and processes minimal data. We do not, now or in the past, engage in data mining or selling personal information. Our primary focus is providing secure storage and sharing of your data.
 
 MediaFire’s Data Processing Policy can be viewed at [https://www.mediafire.com/policies/data\_processing.php](https://www.mediafire.com/policies/data_processing.php)
 
@@ -295,7 +295,7 @@ We store the smallest amount of information on you as possible to enable the ser
 
 MediaFire’s Data Deletion Policy can be viewed at [https://www.mediafire.com/policies/data\_deletion.php](https://www.mediafire.com/policies/data_deletion.php)
 
-If you would like to ensure your data is fully flushed from our system, please email us at [rivacypay@ediafiremay.omcay](ailtomay:rivacypay@ediafiremay.omcay) and request your data be purged. We will process your request and notify you.
+If you would like to ensure your data is completely removed from our system, please email us at [rivacypay@ediafiremay.omcay](ailtomay:rivacypay@ediafiremay.omcay) with your request. We will process your request and notify you once it is complete.
 
 Platform Security
 -----------------
@@ -311,7 +311,7 @@ We realize that children have access to the internet and visit websites. However
 
 We encourage parents and legal guardians to monitor and take an active role in their children’s online activities and interests and to help enforce this Policy by instructing their children never to provide personal information through Websites or Services without their permission.
 
-If a parent or guardian becomes aware that "his" child has provided us with personal information, "he" should delete the account. If we become aware that a child under 16 has provided us with personal information, we will take responsible steps to delete the account. For assistance, [contact our support department](https://www.mediafire.com/help/submit_a_ticket.php).
+If a parent or guardian becomes aware that their child has provided us with personal information, they should delete the account. If we become aware that a child under 16 has provided us with personal information, we will take reasonable steps to delete the account. For assistance, [contact our support department](https://www.mediafire.com/help/submit_a_ticket.php).
 
 PII
 ---
@@ -323,7 +323,7 @@ The security of your information is important to us. MediaFire employs measures 
 International Information Transfers
 -----------------------------------
 
-MediaFire is a United States company and our datacenter is located in the United States. To facilitate our global operations and provide services to you, you understand and agree that MediaFire will transfer, store and process your information to/in the United States and allow access to that information from/to other locations outside of your state, province, country, or other governmental jurisdiction, as requested by you, and for the purposes described in this policy.
+MediaFire is a United States company and our datacenter is located in the United States. To facilitate our global operations and provide services to you, MediaFire will transfer, store, and process your information in the United States. We take steps to ensure that any international transfers of your personal data comply with applicable data protection laws and offer the same level of protection as required by the GDPR.
 
 MediaFire transfers personal data only in a secure and lawful way. We always do our best to protect your personal data and once we have received it; we use strict procedures and security features to try to prevent unauthorized access. MediaFire utilizes industry-standard technical, administrative, and physical safeguards to help protect the information on our servers against unauthorized access, alteration, disclosure or destruction. You are responsible for maintaining the secrecy of your own passwords. If you have reason to believe that your password or personal data is no longer secure, please promptly [contact our support department](https://www.mediafire.com/help/submit_a_ticket.php).
 
@@ -334,7 +334,7 @@ If you have questions concerning the transfer of your information, please contac
 Law enforcement, legal proceedings, and in the interest of Others
 -----------------------------------------------------------------
 
-Stewardship of your information and data is critical to us and a responsibility that we embrace. However, in certain situations, we may be required to disclose information. Disclosures may be in response to lawful requests by law enforcement, government agencies, courts, or authorized third-parties, to meet national security or law enforcement requirements, respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or defend against legal claims, or as otherwise required by law.
+Stewardship of your information and data is critical to us and a responsibility that we embrace. However, in certain situations, we may be required to disclose information. Disclosures may be in response to lawful requests by law enforcement, government agencies, courts, or authorized third parties, in accordance with applicable law, to meet national security or law enforcement requirements, respond to subpoenas, court orders, or legal process, to establish or exercise our legal rights or defend against legal claims, or as otherwise required by law.
 
 We may also share personal information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, situations involving potential threats to property or the physical safety of any person, in connection with an investigation of fraud, intellectual property infringement, piracy, abuse of MediaFire, our Services, or our users, to protect our network and physical assets, and for violations of our Service Agreements, or other unlawful activity.
 
@@ -343,7 +343,7 @@ Notification of Modifications to This Privacy Policy
 
 We may change this policy from time to time.
 
-Minor changes will become effective immediately upon posting on the website. If there are material changes to this Policy, you will be notified to view the new policy and give your consent. A revised Privacy Policy supersedes all previous Privacy Policies.
+Minor changes will become effective immediately upon posting on the website. For significant changes, you will be notified and asked to review the new policy and provide your consent. A revised Privacy Policy supersedes all previous Privacy Policies.
 
 We encourage you to review our Privacy Notice whenever you access our Services to stay informed about our information practices and the ways you can help protect your privacy. If you disagree with any changes to this Privacy Notice and do not wish your information to be subject to the revised Privacy Notice, your only remedy, if you do not accept the terms of this Policy, is to discontinue use of the Website and the Services. Your use of any of our Services after the posting of changes shall constitute your consent to the changes.
 
@@ -354,7 +354,7 @@ We may assign or transfer this Policy, as well as your account and related infor
 
 In the unlikely event of our bankruptcy, insolvency, reorganization, receivership, or assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors' rights generally, MediaFire may not be able to control how your personal information is treated, transferred or used.
 
-You will be notified via email and/or a prominent notice placed on the Services if a transaction takes place, as well as any choices you may have regarding your information.
+You will be notified via email and/or a prominent notice placed on the Services if a transaction takes place. You will also be informed of any choices you may have regarding your information as a result of the transaction.
 
 Contact Us
 ----------
@@ -365,4 +365,4 @@ Your right to file complaints with a data protection supervisory authority remai
 
 Thank you for choosing to use MediaFire!
 
-Last update: January 31, 2023
+Last update: July 18, 2024
