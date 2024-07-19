@@ -10,14 +10,14 @@ If you are using the Services on behalf of a company, organization or branch of 
 
 IF YOU DO NOT FULLY AND COMPLETELY AGREE TO THE TERMS OF THE AGREEMENT AND YOU, AS A RESPONSIBLE USER, CHOOSE TO CONTINUE TO USE THE SERVICES, YOU WILL BE BOUND TO THE TERMS OF THE AGREEMENT.
 
-MediaFire (also referred herein as “us”, “we” or “our”) may modify the Agreement which will become effective immediately upon its posting to the website. Your continued use of the website and any associated services indicates your acceptance of changes to the Agreement and you agree to be bound by such modification or revisions. If you are dissatisfied with anything related to the MediaFire website, your sole remedy is to discontinue use of the Services. You use the Services of MediaFire at your own risk. Nothing in the Agreement shall be deemed to confer any third-party rights or benefits.
+MediaFire (also referred herein as “us”, “we” or “our”) may modify the Agreement which will become effective immediately upon its posting to the website. Your continued use of the website and any associated services indicates your acceptance of changes to the Agreement after being notified of such changes. If you do not agree to the changes, you must stop using the Services. If you are dissatisfied with anything related to the MediaFire website, your sole remedy is to discontinue use of the Services. You use the Services of MediaFire at your own risk. Nothing in the Agreement shall be deemed to confer any third-party rights or benefits.
 
 _Which means: The above states that you have read and agree to the Terms of Service and Privacy Policy, and any future changes, if you use MediaFire for yourself or your company or organization now or after modifications to this Agreement._
 
 Ability to Accept Terms of Service
 ----------------------------------
 
-MediaFire Free Services are available to anyone over the age of 16, in observance of and compliance with the Children's Online Privacy Protection Act. If you are under 16 years of age, then do not use the Service. There are lots of other great web sites for you. Talk to your parents about what sites are appropriate for you.
+MediaFire Free Services are available to anyone over the age of 16, in observance of and compliance with the Children's Online Privacy Protection Act. If you are under 16 years of age, you are not permitted to use the Services, in compliance with the Children's Online Privacy Protection Act and other applicable laws. There are lots of other great web sites for you. Talk to your parents about what sites are appropriate for you.
 
 MediaFire premium services are available to anyone over the age of 18.
 
@@ -34,14 +34,14 @@ You retain all of your ownership rights in your Content. We don’t claim any ow
 
 _Which means: If you created it, it’s yours. If any piece of it was created by someone else, you swear you have their permission to store it for your own use or share it. We don’t claim we own any of it._
 
-To enable MediaFire to provide the Services, it is necessary for you to hereby grant MediaFire a worldwide, non-exclusive, royalty-free, sub-licensable and transferable limited license to use, reproduce, distribute, prepare derivative works of, or display Content in connection with the Services.
+To enable MediaFire to provide the Services, you grant MediaFire a worldwide, non-exclusive, royalty-free, limited license to use, reproduce, distribute, and display Content solely for the purpose of providing the Services. This license can be revoked by you at any time by removing your Content from the Services.
 
 _Which means: You give us limited permission to do what you need us to do, like show your Content to you or people you share it with, store it on our servers._
 
 It’s All About You
 ------------------
 
-You control your Content through your account and/or cookies which may be placed on your computer or other devices.
+While you are responsible for your Content and interactions with other users, MediaFire will take reasonable steps to ensure a safe and compliant environment.
 
 You are responsible for any costs associated with your Content and use of the MediaFire Services.
 
@@ -100,7 +100,7 @@ _Which means: Play Nice. You are solely responsible for everything you share or 
 Account Safeguards
 ------------------
 
-To access or benefit from the Services or features on MediaFire, you may have to create a MediaFire account. You are responsible for maintaining the confidentiality of your access information and are responsible for all activities that occur utilizing your information. You should only access your MediaFire account from a trusted network. Although MediaFire will not be liable for any losses you might suffer, you may be liable for the losses of MediaFire or others.
+To access or benefit from the Services or features on MediaFire, you may have to create a MediaFire account. You are responsible for maintaining the confidentiality of your access information and are responsible for all activities that occur utilizing your information. You should only access your MediaFire account from a trusted network. MediaFire is not liable for any losses you might suffer due to unauthorized access to your account. However, you may be held liable for losses incurred by MediaFire or others due to your failure to maintain the confidentiality of your access information.
 
 MediaFire & Services
 --------------------
@@ -158,10 +158,15 @@ Processing
 
 MediaFire reserves the right to fix any processing errors it discovers, which may result in adjustments to your account.
 
+GDPR
+----
+
+MediaFire will process personal data in accordance with the GDPR. You have the right to access, rectify, erase, restrict, and object to the processing of your personal data. For more information on your rights and how to exercise them, please refer to our GDPR Policy.
+
 As-Is Services
 --------------
 
-YOU AGREE THAT YOUR USE OF THE SERVICES SHALL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, MEDIAFIRE, ITS OFFICERS, DIRECTORS, EMPLOYEES, AND AGENTS DISCLAIM ALL WARRANTIES, EXPRESS OR IMPLIED, IN CONNECTION WITH THE SERVICES AND YOUR USE THEREOF.
+YOU AGREE THAT YOUR USE OF THE SERVICES SHALL BE AT YOUR SOLE RISK. TO THE FULLEST EXTENT PERMITTED BY LAW, MEDIAFIRE DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE.
 
 NEITHER MEDIAFIRE NOR ANY PROVIDER OF ANY THIRD PARTY CONTENT WARRANTS THAT THE SERVICES WILL BE UNINTERRUPTED OR ERROR FREE OR MAKES ANY WARRANTY OF THE RESULTS TO BE OBTAINED FROM USE OF THE SERVICES OR CONTENT. BOTH THE SERVICES AND CONTENT ARE DISTRIBUTED ON AN "AS IS, AS AVAILABLE" BASIS. NEITHER MEDIAFIRE NOR ANY THIRD PARTY MAKES ANY WARRANTIES OF ANY KIND, EITHER EXPRESS OR IMPLIED, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE OR IMPLIED WARRANTIES OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE, WITH RESPECT TO THE SERVICES OR CONTENT OR ANY PRODUCTS OR SERVICES SOLD THROUGH THE SERVICES.
 
@@ -174,7 +179,7 @@ _Which means: Standard contract capitalized language. Internet services are grea
 Limitation of Liability
 -----------------------
 
-NEITHER MEDIAFIRE NOR ANY THIRD PARTY PROVIDER SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES WHATSOEVER ARISING OUT OF THE USE OF OR INABILITY TO USE THE SERVICES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL MEDIAFIRES AGGREGATE LIABILITY TO YOU OR ANY THIRD PARTY FOR ANY AND ALL CLAIMS ARISING OUT OF OR IN CONNECTION WITH THE USE OF THE SERVICES EXCEED ONE HUNDRED DOLLARS ($100). THE LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN MEDIAFIRE AND YOU. IN STATES, COUNTRIES OR TERRITORIES NOT ALLOWING EXCLUSION OF IMPLIED WARRANTIES OR LIMITATION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, MEDIAFIRE AND ANY THIRD PARTY PROVIDER SHALL BE LIMITED TO THE GREATEST EXTENT OF THE LAW.
+NEITHER MEDIAFIRE NOR ANY THIRD PARTY PROVIDER SHALL BE LIABLE TO YOU OR ANY THIRD PARTY FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL OR PUNITIVE DAMAGES WHATSOEVER ARISING OUT OF THE USE OF OR INABILITY TO USE THE SERVICES, EVEN IF SUCH PARTY HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. IN NO EVENT WILL MEDIAFIRE'S AGGREGATE LIABILITY TO YOU OR ANY THIRD PARTY FOR ANY AND ALL CLAIMS ARISING OUT OF OR IN CONNECTION WITH THE USE OF THE SERVICES EXCEED THE AMOUNT PAID BY YOU TO MEDIAFIRE IN THE TWELVE MONTHS PRECEDING THE CLAIM. THE LIMITATIONS OF DAMAGES SET FORTH ABOVE ARE FUNDAMENTAL ELEMENTS OF THE BASIS OF THE BARGAIN BETWEEN MEDIAFIRE AND YOU. IN STATES, COUNTRIES OR TERRITORIES NOT ALLOWING EXCLUSION OF IMPLIED WARRANTIES OR LIMITATION OF LIABILITY FOR INCIDENTAL OR CONSEQUENTIAL DAMAGES, MEDIAFIRE AND ANY THIRD PARTY PROVIDER SHALL BE LIMITED TO THE GREATEST EXTENT OF THE LAW.
 
 The Services are controlled and offered by MediaFire from its facilities in the United States of America. MediaFire makes no representations that the Services are appropriate or available for use in other locations. Those who access or use the Services from other jurisdictions do so at their own volition and are responsible for compliance with local law.
 
@@ -192,7 +197,7 @@ Miscellaneous Legal
 
 The Agreement, and any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by MediaFire without restriction.
 
-The Agreement shall be construed in accordance with the laws of the State of Texas, without reference to principles of choice of law. You and MediaFire each irrevocably consent to the personal jurisdiction of the federal or state courts located in Harris County, Texas ("Courts") with respect to any action, suit or proceeding arising out of or related to the Agreement or to the Services and /or Content and waive any objection to venue in any of the Courts for such an action, suit or proceeding; additionally, you agree that you will not bring any such action, suit or proceeding in any court other than the Courts.
+The Agreement shall be construed in accordance with the laws of the State of Texas, without reference to principles of choice of law. You and MediaFire each consent to the jurisdiction of the federal or state courts located in Montgomery County, Texas ('Courts') with respect to any action, suit, or proceeding arising out of or related to the Agreement or to the Services and/or Content. You agree not to bring any such action, suit, or proceeding in any court other than the Courts, unless required by applicable law.
 
 These Terms of Service, together with the Privacy Policy and any other legal notices published by MediaFire on the Services, the Agreement, constitutes the entire agreement between the parties with respect to the subject matter hereof, and supersedes all previous written or oral agreements between the parties with respect to such subject matter. If any inconsistency exists between the terms of the Agreement and any additional terms and conditions posted on the Services, such terms shall be interpreted as to eliminate any inconsistency, if possible, and otherwise, the additional terms and conditions shall control. If any provision of the Agreement is held invalid, illegal or unenforceable in any respect, (i) such provision shall be interpreted in such a manner as to preserve, to the maximum extent possible, the intent of the parties, (ii) the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby, and (iii) such decision shall not affect the validity, legality or enforceability of such provision under other circumstances.
 
@@ -204,4 +209,4 @@ _Which means: Standard contract language. All disagreements will be heard in Har
 
 Please submit reports of any violations to our support department.
 
-Revised: May 31, 2022
+Revised: July 18, 2024
