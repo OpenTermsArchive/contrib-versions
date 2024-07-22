@@ -1,11 +1,11 @@
 AWS Trademark Guidelines & License Terms
 ========================================
 
-#### Last Updated: April 15, 2024
+#### Last Updated: July 18, 2024
 
 **1\. Introduction.** These AWS Trademark Guidelines (“Guidelines”) apply to your use of AWS Marks pursuant to Section 3 below and/or to any agreement entered into with Amazon Web Services, Inc. or its affiliates (“AWS”) that references and incorporates these Guidelines. The Definitions in Section 2 and Licenses in Section 3 will apply unless you have entered into a written agreement with AWS that contains separate license terms (“Written Agreement”), in which case the terms of your Written Agreement will control to the extent that there is any inconsistency.  
 
-**2\. Definitions.** “AWS Marks” means trademarks, service marks, names, logos, or other designations owned by AWS, including, but not limited to: (i) AWS and the AWS Smile Logo; (ii) the Powered by AWS Logo made available on the [AWS Co-Marketing Tools](https://aws.amazon.com/co-marketing/) page; (iii) the Partner Logo described in Section 3; and (iv) all other names and logos associated with AWS products, services, events, programs, and initiatives (see a non-exhaustive list at Section 16).
+**2\. Definitions.** “AWS Marks” means trademarks, service marks, names, logos, or other designations owned by AWS, including, but not limited to: (i) AWS and the AWS Smile Logo; (ii) the Powered by AWS Logo made available on the [AWS Co-Marketing Tools](https://aws.amazon.com/co-marketing/) page; (iii) the Partner Logo described in Section 3; and (iv) all other names and logos associated with AWS products, services, events, programs, and initiatives (see a non-exhaustive list at Section 17).
 
 “Licensor” means Amazon Web Services EMEA SARL (if the geographic location associated with your AWS or program account or your Written Agreement is any country within Europe, the Middle East, or Africa (“EMEA”)) or Amazon Web Services, Inc. (if the geographic location associated with your AWS or program account or your Written Agreement is any country outside of EMEA).  
 
@@ -29,34 +29,36 @@ WITHOUT LIMITATION, YOUR USE OF THE AWS MARKS IS AT YOUR SOLE RISK AND WE HAVE N
 
 **4\. Limitations; Approvals.** You will only use the specific trademarks provided to you by AWS and only in materials that have been approved in advance by AWS. Your permitted use of the AWS Marks is conditioned upon compliance with these Guidelines and any other terms or agreements entered into with AWS. AWS reserves the right to modify these Guidelines and License Terms at any time by posting a revised version on this webpage or by otherwise notifying you. AWS may revoke your right to use AWS Marks at any time. AWS will take appropriate action against any use without permission or any use that does not conform to these Guidelines.  
 
-**5\. No Affiliation or Endorsement;** No Dominant Display. You will not misrepresent or embellish your relationship with AWS. You will not display the AWS Marks in any manner that implies sponsorship or endorsement by AWS other than by using the Marks as specifically authorized by AWS. You will not display any AWS Mark in a way that is larger or more prominent than your own branding in materials associated with your products or services.  
+**5\. No Affiliation or Endorsement; No Dominant Display.** You will not misrepresent or embellish your relationship with AWS. You will not display the AWS Marks in any manner that implies sponsorship or endorsement by AWS other than by using the Marks as specifically authorized by AWS. You will not display any AWS Mark in a way that is larger or more prominent than your own branding in materials associated with your products or services.  
 
 **6\. Quality Control; Manner of Use.** You must use the AWS Marks in a manner that maintains or exceeds the high standard, quality, and reputation associated with AWS. Upon request from AWS, you will provide samples of your materials featuring the AWS Marks sufficient for AWS to confirm compliance with these Guidelines and to ensure your permitted use is of a consistent high quality. If AWS finds that your use is not in compliance, you will make any changes requested by AWS or cease use of the AWS Marks. You will not use the AWS Marks to disparage AWS or its products or services or display the AWS Marks in any manner that is misleading, unfair, defamatory, infringing, libelous, disparaging, obscene, or otherwise objectionable as determined by AWS in its sole discretion. You will not use the AWS Marks in any manner that violates any law or regulation. You will not display any AWS Mark on your website if your website contains or displays adult content or promotes illegal activities, gambling, or the sale of tobacco or alcohol to persons under the age of twenty-one.  
 
 **7\. No Combination.** You will not combine, abbreviate, telescope, or hyphenate AWS Marks with any other words, trademarks, or brand elements. You will not incorporate AWS Marks into the names of your organization, products, or services, or into your trademarks or logos.  
 
-**8\. Logo Display.** AWS will supply logo images of the AWS Marks for your permitted use. You will not alter the logo images in any manner, including but not limited to changing the proportion, color, or font of the AWS Marks, or adding or removing any elements to or from the images. AWS Marks must appear by themselves, with reasonable spacing between each side of the logo image and other visual, graphic or textual elements. Under no circumstance should the AWS Marks be placed on any background which interferes with the readability or display of the logo images. You will comply with any relevant graphics standards provided by AWS.  
+**8\. Amazon One and Just Walk Out.** In connection with your authorized use of the Amazon One or Just Walk Out trademarks (the “Identity and Checkout Names”), you will not (a) use an alteration or play on the Identity and Checkout Names, including by adding, removing, or modifying terms to create your own related name or tagline (example: “ONE STOP,” “JUST WALK,” “WALK OUT,” “JUST WALK OFF,” “SIMPLY WALK OUT,” or “JUST RUN OUT”); or (b) use the Identity and Checkout Names or similar variations descriptively when explaining the technology (“just walk off,” “simply walk out,” or “just pop out”). You will use the terms “technology” or “shopping” when referring to the Identity and Checkout Names in a sentence or other text (example: “AMAZON ONE technology,” “JUST WALK OUT technology,” or “JUST WALK OUT shopping”).  
 
-**9\. Trade Dress.** You will not imitate the trade dress or “look and feel” of any AWS website, including without limitation, the branding, color combinations, fonts, graphic designs, product icons, or other elements associated with AWS.
+**9\. Logo Display.** AWS will supply logo images of the AWS Marks for your permitted use. You will not alter the logo images in any manner, including but not limited to changing the proportion, color, or font of the AWS Marks, or adding or removing any elements to or from the images. AWS Marks must appear by themselves, with reasonable spacing between each side of the logo image and other visual, graphic or textual elements. Under no circumstance should the AWS Marks be placed on any background which interferes with the readability or display of the logo images. You will comply with any relevant graphics standards provided by AWS.  
 
-**10\. Domain Names;** URLs. You will not register any domain name that contains an AWS Mark, including any variation or modification, or use any AWS Mark in a subdomain. However, you may use AWS Marks in the URL path or subdirectory (Example: www.YourDomain.com/aws) solely for content related to AWS, so long as such use complies with these Guidelines.  
+**10\. Trade Dress.** You will not imitate the trade dress or “look and feel” of any AWS website, including without limitation, the branding, color combinations, fonts, graphic designs, product icons, or other elements associated with AWS.
 
-**11\. Exclusive Rights; Goodwill.** You acknowledge that all rights to the AWS Marks are the exclusive property of AWS and all goodwill generated through your use of the AWS Marks will inure solely to the benefit of AWS. Nothing in these Guidelines will be construed as an assignment of any right, title, or interest in the AWS Marks, except for the limited licenses granted herein. You will not take any action that is in conflict with AWS's rights in or ownership of the AWS Marks. You will not attempt to register any trademarks, service marks, trade names, logos, domain names, other designations that include the AWS Marks.  
+**11\. Domain Names;** **URLs**. You will not register any domain name that contains an AWS Mark, including any variation or modification, or use any AWS Mark in a subdomain. However, you may use AWS Marks in the URL path or subdirectory (Example: www.YourDomain.com/aws) solely for content related to AWS, so long as such use complies with these Guidelines.  
 
-**12\. Fair Use.** AWS does not object to fair use of its marks by third parties, so long as the use would not be confusing for customers. Any such use should be in plain text only (no logos) and used to make true factual statements. Fair use does not permit you to state or imply affiliation, sponsorship, or endorsement by AWS. If you want to reference AWS in connection with your own product, service, or event, please use the following format:            
+**12\. Exclusive Rights; Goodwill.** You acknowledge that all rights to the AWS Marks are the exclusive property of AWS and all goodwill generated through your use of the AWS Marks will inure solely to the benefit of AWS. Nothing in these Guidelines will be construed as an assignment of any right, title, or interest in the AWS Marks, except for the limited licenses granted herein. You will not take any action that is in conflict with AWS's rights in or ownership of the AWS Marks. You will not attempt to register any trademarks, service marks, trade names, logos, domain names, other designations that include the AWS Marks.  
+
+**13\. Fair Use.** AWS does not object to fair use of its marks by third parties, so long as the use would not be confusing for customers. Any such use should be in plain text only (no logos) and used to make true factual statements. Fair use does not permit you to state or imply affiliation, sponsorship, or endorsement by AWS. If you want to reference AWS in connection with your own product, service, or event, please use the following format:            
 
 * Format: \[Your Brand or Use Case\] \[relational phrase\] \[AWS Mark\]           
 * Example: YourApp for Amazon S3 
 
 Note: You may replace “for” in this example with any of the following relational phrases, so long as the term is accurate when used with the AWS Mark: “for use with”; “with”; “compatible with”; “works with”; “built on”; “built with”; “developed on”; “developed with”; etc.  
 
-**13\. Paid Search Ads.** AWS restricts trademark use by third parties on all search engines and will authorize only AWS Partners that have reached validated stage in any of the [AWS Partner Paths](https://aws.amazon.com/partners/paths/) to use AWS Marks in paid search ads. Contact your APN Partner Development Manager to request authorization.  
+**14\. Paid Search Ads.** AWS restricts trademark use by third parties on all search engines and will authorize only AWS Partners that have reached validated stage in any of the [AWS Partner Paths](https://aws.amazon.com/partners/paths/) to use AWS Marks in paid search ads. Contact your APN Partner Development Manager to request authorization.  
 
-**14\. Third Party Publications**. In most cases, AWS does not provide licenses or other authorization for use of AWS content in third party publications, including screenshots, diagrams, code, documentation, or other copyrightable materials. However, AWS does not object to limited fair use of such materials for educational or non-profit purposes.  
+**15\. Third Party Publications**. In most cases, AWS does not provide licenses or other authorization for use of AWS content in third party publications, including screenshots, diagrams, code, documentation, or other copyrightable materials. However, AWS does not object to limited fair use of such materials for educational or non-profit purposes.  
 
-**15\. Contact Information.** If you have questions regarding your obligations under these AWS Trademark Guidelines or questions about any AWS Mark, please contact [trademarks@amazon.com](mailto:trademarks@amazon.com).  
+**16\. Contact Information.** If you have questions regarding your obligations under these AWS Trademark Guidelines or questions about any AWS Mark, please contact [trademarks@amazon.com](mailto:trademarks@amazon.com).  
 
-**16\. AWS Marks (non-exhaustive list):**  
+**17\. AWS Marks (non-exhaustive list):**  
 Amazon Web Services  
 AWS  
 Amazon AppStream  
@@ -77,14 +79,16 @@ Amazon Connect
 Amazon Corretto  
 Amazon DataZone  
 Amazon Detective  
-Amazon Devops Guru  
+Amazon DevOps Guru  
 Amazon DevPay  
 Amazon Direct Connect  
 Amazon DynamoDB  
 Amazon EKS  
 Amazon Elastic Beanstalk  
-Amazon Elastic Compute Cloud (Amazon EC2)  
-Amazon Elastic Container Service (Amazon ECS)  
+Amazon Elastic Compute Cloud  
+Amazon EC2  
+Amazon Elastic Container Service  
+Amazon ECS  
 Amazon ElastiCache  
 Amazon EventBridge  
 Amazon FinSpace  
@@ -93,7 +97,6 @@ Amazon GameLift
 Amazon GameSparks  
 Amazon Glacier  
 Amazon GuardDuty  
-Amazon Healthlake  
 Amazon Honeycode  
 Amazon Inspector  
 Amazon Kendra  
@@ -103,19 +106,22 @@ Amazon Lex
 Amazon Lightsail  
 Amazon Lookout  
 Amazon Macie  
-Amazon Mechanical Turk (MTurk)  
+Amazon Mechanical Turk  
 Amazon MemoryDB  
 Amazon Monitron  
 Amazon Neptune  
 Amazon Nimble Studio  
+Amazon One  
 Amazon Pinpoint  
-Amazon PollyAmazon Q  
+Amazon Polly  
+Amazon Q  
 Amazon Quantum Ledger Database (QLDB)  
 Amazon QuickSight  
 Amazon Redshift  
 Amazon Redshift Spectrum  
 Amazon Rekognition  
-Amazon Relational Database Service (Amazon RDS)  
+Amazon Relational Database Service  
+Amazon RDS  
 Amazon Route 53  
 Amazon SageMaker  
 Amazon SageMaker Clarify  
@@ -124,14 +130,20 @@ Amazon SageMaker HyperPod
 Amazon SageMaker JumpStart  
 Amazon SageMaker Neo  
 Amazon Silk  
-Amazon Simple Email Service (SES)  
-Amazon Simple Notification Service (SNS)  
-Amazon Simple Queue Service (SQS)  
-Amazon Simple Storage Service (Amazon S3)  
+Amazon Simple Email Service  
+Amazon SES  
+Amazon Simple Notification Service  
+Amazon SNS  
+Amazon Simple Queue Service  
+Amazon SQS  
+Amazon Simple Storage Service  
+Amazon S3  
 Amazon SimpleDB  
-Amazon TextractAmazon Timestream  
+Amazon Textract  
+Amazon Timestream  
 Amazon Titan  
-Amazon Virtual Private Cloud (Amazon VPC)  
+Amazon Virtual Private Cloud  
+Amazon VPC  
 Amazon VPC Lattice  
 Amazon WorkDocs  
 Amazon WorkLink  
@@ -139,6 +151,7 @@ Amazon WorkMail
 Annapurna Labs  
 AWS Activate  
 AWS Amplify  
+AWS App Studio  
 AWS AppSync  
 AWS Artifact  
 AWS BugBust  
@@ -174,12 +187,13 @@ AWS Fargate
 AWS Fusion Nebula  
 AWS Glue  
 AWS Graviton  
+AWS HealthLake  
 AWS HealthScribe  
 AWS Impact Computing  
 AWS InCommunities  
 AWS Inferentia  
 AWS IoT Edukit  
-AWS IoT Fleetwise  
+AWS IoT FleetWise  
 AWS IoT GreenGrass  
 AWS IoT RoboRunner  
 AWS IoT SiteWise  
@@ -216,7 +230,8 @@ AWSome Day
 Babelfish  
 Blazegraph  
 BlazingText  
-Blu AgeBlu Insights  
+Blu Age  
+Blu Insights  
 Bottlerocket  
 Cedar  
 CloudEndure  
@@ -231,6 +246,7 @@ Flexmatch
 Fortuna  
 FreeRTOS  
 Intersect by AWS  
+Just Walk Out  
 Karpenter  
 NICE  
 NWCD  
@@ -250,7 +266,7 @@ Umbra
 Umbra Composit  
 Wickr  
 亚马逊云  
-亚马逊网络服务
+亚马逊网络服务  
 
 ![](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/Powered-By_logo-horiz_RGB.87c70af8a8a34b68606524ade6261db083947a14.png)
 
@@ -259,11 +275,11 @@ Wickr
 AWS Trademark Guidelines & License Terms
 ========================================
 
-#### Last Updated: April 15, 2024
+#### Last Updated: July 18, 2024
 
 **1\. Introduction.** These AWS Trademark Guidelines (“Guidelines”) apply to your use of AWS Marks pursuant to Section 3 below and/or to any agreement entered into with Amazon Web Services, Inc. or its affiliates (“AWS”) that references and incorporates these Guidelines. The Definitions in Section 2 and Licenses in Section 3 will apply unless you have entered into a written agreement with AWS that contains separate license terms (“Written Agreement”), in which case the terms of your Written Agreement will control to the extent that there is any inconsistency.  
 
-**2\. Definitions.** “AWS Marks” means trademarks, service marks, names, logos, or other designations owned by AWS, including, but not limited to: (i) AWS and the AWS Smile Logo; (ii) the Powered by AWS Logo made available on the [AWS Co-Marketing Tools](https://aws.amazon.com/co-marketing/) page; (iii) the Partner Logo described in Section 3; and (iv) all other names and logos associated with AWS products, services, events, programs, and initiatives (see a non-exhaustive list at Section 16).
+**2\. Definitions.** “AWS Marks” means trademarks, service marks, names, logos, or other designations owned by AWS, including, but not limited to: (i) AWS and the AWS Smile Logo; (ii) the Powered by AWS Logo made available on the [AWS Co-Marketing Tools](https://aws.amazon.com/co-marketing/) page; (iii) the Partner Logo described in Section 3; and (iv) all other names and logos associated with AWS products, services, events, programs, and initiatives (see a non-exhaustive list at Section 17).
 
 “Licensor” means Amazon Web Services EMEA SARL (if the geographic location associated with your AWS or program account or your Written Agreement is any country within Europe, the Middle East, or Africa (“EMEA”)) or Amazon Web Services, Inc. (if the geographic location associated with your AWS or program account or your Written Agreement is any country outside of EMEA).  
 
@@ -287,34 +303,36 @@ WITHOUT LIMITATION, YOUR USE OF THE AWS MARKS IS AT YOUR SOLE RISK AND WE HAVE N
 
 **4\. Limitations; Approvals.** You will only use the specific trademarks provided to you by AWS and only in materials that have been approved in advance by AWS. Your permitted use of the AWS Marks is conditioned upon compliance with these Guidelines and any other terms or agreements entered into with AWS. AWS reserves the right to modify these Guidelines and License Terms at any time by posting a revised version on this webpage or by otherwise notifying you. AWS may revoke your right to use AWS Marks at any time. AWS will take appropriate action against any use without permission or any use that does not conform to these Guidelines.  
 
-**5\. No Affiliation or Endorsement;** No Dominant Display. You will not misrepresent or embellish your relationship with AWS. You will not display the AWS Marks in any manner that implies sponsorship or endorsement by AWS other than by using the Marks as specifically authorized by AWS. You will not display any AWS Mark in a way that is larger or more prominent than your own branding in materials associated with your products or services.  
+**5\. No Affiliation or Endorsement; No Dominant Display.** You will not misrepresent or embellish your relationship with AWS. You will not display the AWS Marks in any manner that implies sponsorship or endorsement by AWS other than by using the Marks as specifically authorized by AWS. You will not display any AWS Mark in a way that is larger or more prominent than your own branding in materials associated with your products or services.  
 
 **6\. Quality Control; Manner of Use.** You must use the AWS Marks in a manner that maintains or exceeds the high standard, quality, and reputation associated with AWS. Upon request from AWS, you will provide samples of your materials featuring the AWS Marks sufficient for AWS to confirm compliance with these Guidelines and to ensure your permitted use is of a consistent high quality. If AWS finds that your use is not in compliance, you will make any changes requested by AWS or cease use of the AWS Marks. You will not use the AWS Marks to disparage AWS or its products or services or display the AWS Marks in any manner that is misleading, unfair, defamatory, infringing, libelous, disparaging, obscene, or otherwise objectionable as determined by AWS in its sole discretion. You will not use the AWS Marks in any manner that violates any law or regulation. You will not display any AWS Mark on your website if your website contains or displays adult content or promotes illegal activities, gambling, or the sale of tobacco or alcohol to persons under the age of twenty-one.  
 
 **7\. No Combination.** You will not combine, abbreviate, telescope, or hyphenate AWS Marks with any other words, trademarks, or brand elements. You will not incorporate AWS Marks into the names of your organization, products, or services, or into your trademarks or logos.  
 
-**8\. Logo Display.** AWS will supply logo images of the AWS Marks for your permitted use. You will not alter the logo images in any manner, including but not limited to changing the proportion, color, or font of the AWS Marks, or adding or removing any elements to or from the images. AWS Marks must appear by themselves, with reasonable spacing between each side of the logo image and other visual, graphic or textual elements. Under no circumstance should the AWS Marks be placed on any background which interferes with the readability or display of the logo images. You will comply with any relevant graphics standards provided by AWS.  
+**8\. Amazon One and Just Walk Out.** In connection with your authorized use of the Amazon One or Just Walk Out trademarks (the “Identity and Checkout Names”), you will not (a) use an alteration or play on the Identity and Checkout Names, including by adding, removing, or modifying terms to create your own related name or tagline (example: “ONE STOP,” “JUST WALK,” “WALK OUT,” “JUST WALK OFF,” “SIMPLY WALK OUT,” or “JUST RUN OUT”); or (b) use the Identity and Checkout Names or similar variations descriptively when explaining the technology (“just walk off,” “simply walk out,” or “just pop out”). You will use the terms “technology” or “shopping” when referring to the Identity and Checkout Names in a sentence or other text (example: “AMAZON ONE technology,” “JUST WALK OUT technology,” or “JUST WALK OUT shopping”).  
 
-**9\. Trade Dress.** You will not imitate the trade dress or “look and feel” of any AWS website, including without limitation, the branding, color combinations, fonts, graphic designs, product icons, or other elements associated with AWS.
+**9\. Logo Display.** AWS will supply logo images of the AWS Marks for your permitted use. You will not alter the logo images in any manner, including but not limited to changing the proportion, color, or font of the AWS Marks, or adding or removing any elements to or from the images. AWS Marks must appear by themselves, with reasonable spacing between each side of the logo image and other visual, graphic or textual elements. Under no circumstance should the AWS Marks be placed on any background which interferes with the readability or display of the logo images. You will comply with any relevant graphics standards provided by AWS.  
 
-**10\. Domain Names;** URLs. You will not register any domain name that contains an AWS Mark, including any variation or modification, or use any AWS Mark in a subdomain. However, you may use AWS Marks in the URL path or subdirectory (Example: www.YourDomain.com/aws) solely for content related to AWS, so long as such use complies with these Guidelines.  
+**10\. Trade Dress.** You will not imitate the trade dress or “look and feel” of any AWS website, including without limitation, the branding, color combinations, fonts, graphic designs, product icons, or other elements associated with AWS.
 
-**11\. Exclusive Rights; Goodwill.** You acknowledge that all rights to the AWS Marks are the exclusive property of AWS and all goodwill generated through your use of the AWS Marks will inure solely to the benefit of AWS. Nothing in these Guidelines will be construed as an assignment of any right, title, or interest in the AWS Marks, except for the limited licenses granted herein. You will not take any action that is in conflict with AWS's rights in or ownership of the AWS Marks. You will not attempt to register any trademarks, service marks, trade names, logos, domain names, other designations that include the AWS Marks.  
+**11\. Domain Names;** **URLs**. You will not register any domain name that contains an AWS Mark, including any variation or modification, or use any AWS Mark in a subdomain. However, you may use AWS Marks in the URL path or subdirectory (Example: www.YourDomain.com/aws) solely for content related to AWS, so long as such use complies with these Guidelines.  
 
-**12\. Fair Use.** AWS does not object to fair use of its marks by third parties, so long as the use would not be confusing for customers. Any such use should be in plain text only (no logos) and used to make true factual statements. Fair use does not permit you to state or imply affiliation, sponsorship, or endorsement by AWS. If you want to reference AWS in connection with your own product, service, or event, please use the following format:            
+**12\. Exclusive Rights; Goodwill.** You acknowledge that all rights to the AWS Marks are the exclusive property of AWS and all goodwill generated through your use of the AWS Marks will inure solely to the benefit of AWS. Nothing in these Guidelines will be construed as an assignment of any right, title, or interest in the AWS Marks, except for the limited licenses granted herein. You will not take any action that is in conflict with AWS's rights in or ownership of the AWS Marks. You will not attempt to register any trademarks, service marks, trade names, logos, domain names, other designations that include the AWS Marks.  
+
+**13\. Fair Use.** AWS does not object to fair use of its marks by third parties, so long as the use would not be confusing for customers. Any such use should be in plain text only (no logos) and used to make true factual statements. Fair use does not permit you to state or imply affiliation, sponsorship, or endorsement by AWS. If you want to reference AWS in connection with your own product, service, or event, please use the following format:            
 
 * Format: \[Your Brand or Use Case\] \[relational phrase\] \[AWS Mark\]           
 * Example: YourApp for Amazon S3 
 
 Note: You may replace “for” in this example with any of the following relational phrases, so long as the term is accurate when used with the AWS Mark: “for use with”; “with”; “compatible with”; “works with”; “built on”; “built with”; “developed on”; “developed with”; etc.  
 
-**13\. Paid Search Ads.** AWS restricts trademark use by third parties on all search engines and will authorize only AWS Partners that have reached validated stage in any of the [AWS Partner Paths](https://aws.amazon.com/partners/paths/) to use AWS Marks in paid search ads. Contact your APN Partner Development Manager to request authorization.  
+**14\. Paid Search Ads.** AWS restricts trademark use by third parties on all search engines and will authorize only AWS Partners that have reached validated stage in any of the [AWS Partner Paths](https://aws.amazon.com/partners/paths/) to use AWS Marks in paid search ads. Contact your APN Partner Development Manager to request authorization.  
 
-**14\. Third Party Publications**. In most cases, AWS does not provide licenses or other authorization for use of AWS content in third party publications, including screenshots, diagrams, code, documentation, or other copyrightable materials. However, AWS does not object to limited fair use of such materials for educational or non-profit purposes.  
+**15\. Third Party Publications**. In most cases, AWS does not provide licenses or other authorization for use of AWS content in third party publications, including screenshots, diagrams, code, documentation, or other copyrightable materials. However, AWS does not object to limited fair use of such materials for educational or non-profit purposes.  
 
-**15\. Contact Information.** If you have questions regarding your obligations under these AWS Trademark Guidelines or questions about any AWS Mark, please contact [trademarks@amazon.com](mailto:trademarks@amazon.com).  
+**16\. Contact Information.** If you have questions regarding your obligations under these AWS Trademark Guidelines or questions about any AWS Mark, please contact [trademarks@amazon.com](mailto:trademarks@amazon.com).  
 
-**16\. AWS Marks (non-exhaustive list):**  
+**17\. AWS Marks (non-exhaustive list):**  
 Amazon Web Services  
 AWS  
 Amazon AppStream  
@@ -335,14 +353,16 @@ Amazon Connect
 Amazon Corretto  
 Amazon DataZone  
 Amazon Detective  
-Amazon Devops Guru  
+Amazon DevOps Guru  
 Amazon DevPay  
 Amazon Direct Connect  
 Amazon DynamoDB  
 Amazon EKS  
 Amazon Elastic Beanstalk  
-Amazon Elastic Compute Cloud (Amazon EC2)  
-Amazon Elastic Container Service (Amazon ECS)  
+Amazon Elastic Compute Cloud  
+Amazon EC2  
+Amazon Elastic Container Service  
+Amazon ECS  
 Amazon ElastiCache  
 Amazon EventBridge  
 Amazon FinSpace  
@@ -351,7 +371,6 @@ Amazon GameLift
 Amazon GameSparks  
 Amazon Glacier  
 Amazon GuardDuty  
-Amazon Healthlake  
 Amazon Honeycode  
 Amazon Inspector  
 Amazon Kendra  
@@ -361,19 +380,22 @@ Amazon Lex
 Amazon Lightsail  
 Amazon Lookout  
 Amazon Macie  
-Amazon Mechanical Turk (MTurk)  
+Amazon Mechanical Turk  
 Amazon MemoryDB  
 Amazon Monitron  
 Amazon Neptune  
 Amazon Nimble Studio  
+Amazon One  
 Amazon Pinpoint  
-Amazon PollyAmazon Q  
+Amazon Polly  
+Amazon Q  
 Amazon Quantum Ledger Database (QLDB)  
 Amazon QuickSight  
 Amazon Redshift  
 Amazon Redshift Spectrum  
 Amazon Rekognition  
-Amazon Relational Database Service (Amazon RDS)  
+Amazon Relational Database Service  
+Amazon RDS  
 Amazon Route 53  
 Amazon SageMaker  
 Amazon SageMaker Clarify  
@@ -382,14 +404,20 @@ Amazon SageMaker HyperPod
 Amazon SageMaker JumpStart  
 Amazon SageMaker Neo  
 Amazon Silk  
-Amazon Simple Email Service (SES)  
-Amazon Simple Notification Service (SNS)  
-Amazon Simple Queue Service (SQS)  
-Amazon Simple Storage Service (Amazon S3)  
+Amazon Simple Email Service  
+Amazon SES  
+Amazon Simple Notification Service  
+Amazon SNS  
+Amazon Simple Queue Service  
+Amazon SQS  
+Amazon Simple Storage Service  
+Amazon S3  
 Amazon SimpleDB  
-Amazon TextractAmazon Timestream  
+Amazon Textract  
+Amazon Timestream  
 Amazon Titan  
-Amazon Virtual Private Cloud (Amazon VPC)  
+Amazon Virtual Private Cloud  
+Amazon VPC  
 Amazon VPC Lattice  
 Amazon WorkDocs  
 Amazon WorkLink  
@@ -397,6 +425,7 @@ Amazon WorkMail
 Annapurna Labs  
 AWS Activate  
 AWS Amplify  
+AWS App Studio  
 AWS AppSync  
 AWS Artifact  
 AWS BugBust  
@@ -432,12 +461,13 @@ AWS Fargate
 AWS Fusion Nebula  
 AWS Glue  
 AWS Graviton  
+AWS HealthLake  
 AWS HealthScribe  
 AWS Impact Computing  
 AWS InCommunities  
 AWS Inferentia  
 AWS IoT Edukit  
-AWS IoT Fleetwise  
+AWS IoT FleetWise  
 AWS IoT GreenGrass  
 AWS IoT RoboRunner  
 AWS IoT SiteWise  
@@ -474,7 +504,8 @@ AWSome Day
 Babelfish  
 Blazegraph  
 BlazingText  
-Blu AgeBlu Insights  
+Blu Age  
+Blu Insights  
 Bottlerocket  
 Cedar  
 CloudEndure  
@@ -489,6 +520,7 @@ Flexmatch
 Fortuna  
 FreeRTOS  
 Intersect by AWS  
+Just Walk Out  
 Karpenter  
 NICE  
 NWCD  
@@ -508,7 +540,7 @@ Umbra
 Umbra Composit  
 Wickr  
 亚马逊云  
-亚马逊网络服务
+亚马逊网络服务  
 
 ![](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/Powered-By_logo-horiz_RGB.87c70af8a8a34b68606524ade6261db083947a14.png)
 
