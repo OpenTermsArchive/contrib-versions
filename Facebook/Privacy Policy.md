@@ -61,7 +61,9 @@ Prendre les commandes
 
 [![](/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-34-Mobile.png)
 
-Gérer les informations que nous recueillons à votre sujetCentre de confidentialité](https://www.facebook.com/privacy/guide/collection/)
+Gérer les informations que nous recueillons à votre sujet
+
+Centre de confidentialité](https://www.facebook.com/privacy/guide/collection/)
 
 Comment utilisons-nous vos informations ?
 
@@ -161,7 +163,9 @@ Prendre les commandes
 
 [![](/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-52-Mobile.png)
 
-En savoir plus sur les audiences.Centre de confidentialité](https://www.facebook.com/privacy/guide/sharing/)
+En savoir plus sur les audiences.
+
+Centre de confidentialité](https://www.facebook.com/privacy/guide/sharing/)
 
 [Gestion des applications et sites web](https://fr-fr.facebook.com/privacy/policy/?link_dialog=MANAGE_APPS)
 
@@ -238,7 +242,9 @@ Les Produits Meta partagent des informations avec les autres Entités Meta :
 
 Autres ressources
 
-[Consulter les politiques de confidentialité des autres Entités MetaPages d’aide Facebook](https://www.facebook.com/help/111814505650678)
+[Consulter les politiques de confidentialité des autres Entités Meta
+
+Pages d’aide Facebook](https://www.facebook.com/help/111814505650678)
 
 Comment pouvez-vous gérer ou supprimer vos informations et exercer vos droits ?
 
@@ -252,7 +258,9 @@ Vérifier vos paramètres de confidentialité
 
 [![](/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-57-Mobile.png)
 
-Vérifier vos paramètres de confidentialitéÊtre guidé au travers des paramètres de confidentialité de Facebook](https://www.facebook.com/privacy/checkup/)
+Vérifier vos paramètres de confidentialité
+
+Être guidé au travers des paramètres de confidentialité de Facebook](https://www.facebook.com/privacy/checkup/)
 
 Visualiser et gérer vos informations
 
