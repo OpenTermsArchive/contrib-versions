@@ -24,7 +24,7 @@ Choose a Google product
     ### Google AdSense](https://support.google.com/adsense?hl=en-GB)
 * [![](//fonts.gstatic.com/s/i/productlogos/google_now/v5/web-64dp/logo_google_now_color_1x_web_64dp.png)
     
-    ### Pixel phone](https://support.google.com/pixelphone?hl=en-GB)
+    ### Pixel Phone](https://support.google.com/pixelphone?hl=en-GB)
 * [![](//fonts.gstatic.com/s/i/productlogos/maps/v6/web-64dp/logo_maps_color_1x_web_64dp.png)
     
     ### Google Maps](https://support.google.com/maps?hl=en-GB)
@@ -93,7 +93,7 @@ Consumer
 * [### Google Voice](https://support.google.com/voice?hl=en-GB)
 * [### GSOC Document Library](https://support.google.com/gsrs-gsoc?hl=en-GB)
 * [### YouTube For Families Help](https://support.google.com/youtubekids?hl=en-GB)
-* [### Pixel phone](https://support.google.com/pixelphone?hl=en-GB)
+* [### Pixel Phone](https://support.google.com/pixelphone?hl=en-GB)
 * [### Google Translate](https://support.google.com/translate?hl=en-GB)
 * [### Google Shopping](https://support.google.com/googleshopping?hl=en-GB)
 * [### Chromebook](https://support.google.com/chromebook?hl=en-GB)
