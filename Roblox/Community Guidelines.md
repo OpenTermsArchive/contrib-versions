@@ -56,7 +56,9 @@ Roblox has a zero-tolerance policy for endangering minors, including:
 * Sexualizing minors in any way
 * Engaging in sexual conversation with or soliciting sexual material from minors
 * Sharing, requesting, or discussing child sexual exploitation material
-Sexual extortion of children Child sex trafficking Coercion and enticement of a minor to engage in illegal sexual activity 
+* Sexual extortion of children
+* Child sex trafficking
+* Coercion and enticement of a minor to engage in illegal sexual activity
 
 Terrorism and Violent Extremism
 
