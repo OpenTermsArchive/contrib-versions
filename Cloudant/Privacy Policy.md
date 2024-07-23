@@ -101,7 +101,7 @@ We use information that we collect for marketing purposes. This may include info
 
 * Collected directly from you through your interactions with IBM, such as attendance at events or submission of online registration forms,
 * Received from third-party data providers, subject to controls confirming that the third party legally acquired the information and has the right to provide the information to IBM for use in our marketing communications,
-* Collected on [our websites](#Our_Websites "our websites") or from your interactions with IBM emails and content, including content on third-party sites. For more information on the technologies that we use to collect this information, see [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies "Cookies and Similar Technologies.").
+* Collected on [our websites](#Our_Websites "our websites") or from your interactions with IBM emails and content, including content on third-party sites. For more information on the technologies that we use to collect this information, see [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies "Cookies and Similar Technologies.").
 
 Subject to your preferences, we may use this information to market to you regarding IBM products, services, and offerings. For example, we may:
 
@@ -366,8 +366,6 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 **Sections updated in this release:**
 
-1. IBM Websites
-2. Children
-3. Information Security and Retention
+1. Your Additional Rights: Saudi Arabia
 
 * * *
