@@ -1,13 +1,13 @@
 **Terms of Service**
 ====================
 
-Updated as of April 18, 2024
+Updated as of July 23, 2024
 
 ### WE DO NOT CONDUCT CRIMINAL BACKGROUND CHECKS. PLEASE BE SAFE WHEN INTERACTING WITH USERS.
 
 Subscribers in Arizona, California, Colorado, Connecticut, Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, and Rhode Island: **You, the buyer, may cancel your subscription, without penalty or obligation, at any time prior to midnight of the third business day following the date you subscribed, excluding Sundays and holidays. To cancel the subscription, users may request a refund by contacting Tagged Member Services at support@themeetgroup.com, or by mailing or delivering a signed and dated notice that states that you, the buyer, are canceling this agreement, or words of similar effect. Please also include your name and the email address, phone number, or other unique identifier you used to sign up for your account. This notice shall be sent to: The Meet Group, Attn: Cancellations, 100 Union Square Drive, New Hope, PA 18938, USA. The Company's business is conducted, in part, at 100 Union Square Drive, New Hope, PA 18938, USA. You may have these terms of use e-mailed to you by sending a letter to Tagged Terms Inquiries, 100 Union Square Drive, New Hope, PA 18938, USA. If you subscribed using an External Service (e.g., Apple ID, Google Play), you must cancel through your External Service. If you subscribed through your Apple ID, refunds are handled by Apple, not Tagged. You can request a refund from Apple through your Apple ID account on your phone or at [https://getsupport.apple.com](https://getsupport.apple.com/).** For California subscribers only: In accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at Consumer Information Division, 1625 North Market Blvd., Suite N112 Sacramento, CA 95834, or by telephone at (800) 952-5210.
 
-Subscribers in Wisconsin: **CANCELLATION AND REFUNDS.** Right to Cancel. You are permitted to cancel this contract until midnight of the 3rd day after the date on which you signed the contract. If within this time period you decide you want to cancel this contract, you may do so by notifying eHarmony by any writing mailed or delivered to eHarmony at the address shown on the contract (The Meet Group, Attn: Cancellations, 100 Union Square Drive, New Hope, PA 18938, USA.), within the previously described time period. If you do so cancel, any payments made by you will be refunded within 21 days after notice of cancellation is delivered, and any evidence of any indebtedness executed by you will be canceled by eHarmony and arrangements will be made to relieve you of any further obligation to pay the same. If you subscribed using an External Service (e.g., Apple ID, Google Play), you must cancel through your External Service. If you subscribed through your Apple ID, refunds are handled by Apple, not Tagged. You can request a refund from Apple through your Apple ID account on your phone or at https://getsupport.apple.com.
+Subscribers in Wisconsin: **CANCELLATION AND REFUNDS.** Right to Cancel. You are permitted to cancel this contract until midnight of the 3rd day after the date on which you signed the contract. If within this time period you decide you want to cancel this contract, you may do so by notifying The Meet Group by any writing mailed or delivered to The Meet Group at the address shown on the contract (The Meet Group, Attn: Cancellations, 100 Union Square Drive, New Hope, PA 18938, USA.), within the previously described time period. If you do so cancel, any payments made by you will be refunded within 21 days after notice of cancellation is delivered, and any evidence of any indebtedness executed by you will be canceled by The Meet Group and arrangements will be made to relieve you of any further obligation to pay the same. If you subscribed using an External Service (e.g., Apple ID, Google Play), you must cancel through your External Service. If you subscribed through your Apple ID, refunds are handled by Apple, not Tagged. You can request a refund from Apple through your Apple ID account on your phone or at https://getsupport.apple.com.
 
 This Terms of Service Agreement (the "Agreement") controls your access and use of Tagged and hi5 (collectively, the "Services") made available to you (the "Member" or "you") by The Meet Group, Inc. ("Company"). By downloading or using Tagged or hi5 you agree to this Agreement, our [Privacy Policy](http://www.hi5.com/terms_of_service.html?#privacy_policy), and our [Content and Conduct Policy](https://terms.hi5.com/content-and-conduct). The Privacy Policy and the Content and Conduct Policy are each part of this Agreement. ONLY USERS WHO ARE 18 YEARS OF AGE OR OLDER MAY REGISTER FOR THE SERVICES. By accessing the services and/or completing the registration process for one of our Services, you represent that you are 18 years of age or older, and can and will be legally bound by this Agreement. By registering for one of our Services, you represent and warrant that you are not required to register as a sex offender with any government entity. No Member may participate where doing so would be prohibited by any applicable law or regulation. We have created side summaries to help you easily locate specific terms within this Agreement. These summaries are for reference only and in the event that there is a discrepancy between this Agreement and the language of the side summaries, the Agreement will prevail.
 
@@ -197,7 +197,7 @@ Users with questions about this Agreement and any of the above statements may co
 Terms of Service for users having their residence in the European Economic Area or the United Kingdom
 =====================================================================================================
 
-Updated as of April 18, 2024
+Updated as of July 23, 2024
 
 **The following Terms of Service for users having their residence in the European Economic Area or the United Kingdom ("Terms of Service") set out the contractual relationship between The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, USA ("TMG", "us", "our", "we") and its customers ("you") when you subscribe to and use the free-of-charge and chargeable services of Tagged and/or Hi5 (collectively, the "Services"), whether through a mobile device, mobile application (our app) or computer.**
 
@@ -564,7 +564,7 @@ Date
 Términos de Uso para usuarios con residencia en el Espacio Económico Europeo o en el Reino Unido
 ================================================================================================
 
-Actualizado a partir del April 18, 2024
+Actualizado a partir del July 23, 2024
 
 **Los siguientes Términos de Uso para usuarios con residencia en el Espacio Económico Europeo o en el Reino Unido ("Términos de Uso") establecen la relación contractual entre The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, EE. UU. ("TMG", "nosotros", "nuestro", "nos") y sus clientes ("tú") cuando te suscribes y utilizas los servicios gratuitos y de pago de Tagged y/o Hi5 (colectivamente, los "Servicios"), ya sea a través de un dispositivo móvil, una aplicación móvil (nuestra app) o una computadora.**
 
@@ -931,7 +931,7 @@ Citas
 Condições de serviço para utilizadores com residência no Espaço Económico Europeu ou no Reino Unido
 ===================================================================================================
 
-Atualizado em April 18, 2024
+Atualizado em July 23, 2024
 
 **As condições de serviço, a seguir, destinam-se a utilizadores que residam no Espaço Económico Europeu ou no Reino Unido ("Condições de Serviço") e estabelecem a relação contratual entre o The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, USA ("TMG", "nós", "o nosso") e os seus clientes ("o utilizador") quando subscreve e utilizar os serviços gratuitos e pagos da Tagged e/ou da Hi5 (coletivamente, os "serviços"), seja através de um dispositivo móvel, aplicação móvel (ou app) ou computador.**
 
@@ -1298,7 +1298,7 @@ Encontro
 Nutzungsbedingungen für Benutzer mit Wohnsitz im Europäischen Wirtschaftsraum oder im Vereinigten Königreich
 ============================================================================================================
 
-Stand: April 18, 2024
+Stand: July 23, 2024
 
 **Die nachstehenden Nutzungsbedingungen für Benutzer mit Wohnsitz im Europäischen Wirtschaftsraum bzw. im Vereinigten Königreich („Nutzungsbedingungen“) regeln das Vertragsverhältnis zwischen The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, USA („TMG“, „uns“, „unser“, „wir“ in allen gebeugten Formen), und ihren Kunden („Sie“ in allen gebeugten Formen) bei der Anmeldung für und Nutzung der kostenlosen und kostenpflichtigen Dienste von Tagged und/oder Hi5 (zusammen die „Dienste“), sei es über ein Mobilgerät, eine Mobilanwendung (unsere App) oder einen Computer.**
 
@@ -1663,7 +1663,7 @@ Date
 Conditions générales d'utilisation applicables aux utilisateurs résidant dans l'Espace économique européen ou au Royaume-Uni
 ============================================================================================================================
 
-Document mis à jour le April 18, 2024
+Document mis à jour le July 23, 2024
 
 **Les Conditions générales d'utilisation applicables aux utilisateurs résidant dans l'Espace économique européen ou au Royaume-Uni qui suivent (« Conditions générales d'utilisation ») régissent les relations contractuelles entre The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, USA (« TMG », « nous », « notre » ou « nos ») et ses clients (« Vous ») lorsque vous vous abonnez et utilisez les services gratuits et payants de Tagged et/ou Hi5 (collectivement, les « Services »), que ce soit sur un appareil mobile, à l'aide de l'application mobile (notre appli) ou d'un ordinateur.**
 
@@ -2030,7 +2030,7 @@ Date
 Warunki korzystania z usługi dla użytkowników mających miejsce zamieszkania w Europejskim Obszarze Gospodarczym lub Wielkiej Brytanii
 =====================================================================================================================================
 
-Aktualizacja na dzień April 18, 2024
+Aktualizacja na dzień July 23, 2024
 
 **Poniższe Warunki korzystania z usługi dla użytkowników mających miejsce zamieszkania w Europejskim Obszarze Gospodarczym lub Wielkiej Brytanii („Warunki korzystania z usługi”) określają stosunek umowny między firmą The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, USA („TMG”, „nam”, „nasz” i „my” we wszystkich formach gramatycznych) i jej klientami („użytkownik”), gdy użytkownik subskrybuje bezpłatne i płatne usługi Tagged i/lub Hi5 (zwanych łącznie „Usługami”) oraz z nich korzysta za pośrednictwem urządzenia mobilnego, aplikacji mobilnej (naszej aplikacji) lub komputera.**
 
@@ -2397,7 +2397,7 @@ Data
 Servicevoorwaarden voor gebruikers die in de Europese Economische Ruimte of het Verenigd Koninkrijk wonen
 =========================================================================================================
 
-Bijgewerkt op April 18, 2024
+Bijgewerkt op July 23, 2024
 
 **In de volgende Servicevoorwaarden voor gebruikers die in de Europese Economische Ruimte of het Verenigd Koninkrijk wonen ('Servicevoorwaarden') wordt de contractuele relatie tussen The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, VS ('TMG', 'ons', 'onze', 'wij', 'we') en zijn klanten ('je', 'jij') uiteengezet wanneer je je abonneert op en gebruik maakt van de gratis en betaalde diensten van Tagged en/of Hi5 (gezamenlijk de 'Diensten'), of dit nu via een mobiel toestel, een mobiele toepassing (onze app) of een computer is.**
 
@@ -2764,7 +2764,7 @@ Date
 Az Európai Gazdasági Térségben vagy az Egyesült Királyságban lakóhellyel rendelkező felhasználókra vonatkozó Szolgáltatási feltételek
 =====================================================================================================================================
 
-Frissítve: April 18, 2024
+Frissítve: July 23, 2024
 
 **Az alábbi, az Európai Gazdasági Térségben vagy az Egyesült Királyságban lakóhellyel rendelkező felhasználókra vonatkozó Szolgáltatási feltételek ("Szolgáltatási feltételek") a The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, USA ("TMG", "mi", "miénk", "mi") és ügyfelei ("Ön") közötti szerződéses kapcsolatot szabályozzák, amikor Ön előfizet a Tagged és/vagy a Hi5 (együttesen a „Szolgáltatások”) ingyenes és fizetős szolgáltatásaira, és azokat akár mobileszközön, mobilalkalmazáson (alkalmazásunkon), akár számítógépen használja.**
 
@@ -3131,7 +3131,7 @@ Dátum
 Termeni de utilizare a serviciului pentru utilizatorii cu reședința în Spațiul Economic European sau în Regatul Unit
 ====================================================================================================================
 
-Actualizat la data de April 18, 2024
+Actualizat la data de July 23, 2024
 
 **Următorii Termeni de utilizare a serviciului pentru utilizatorii cu reședința în Spațiul Economic European sau Regatul Unit („Termenii de utilizare a serviciului”) stabilesc relația contractuală dintre The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, SUA („TMG”, „nouă”, „nostru”, „noi”) și clienții săi („dvs.”) atunci când vă abonați și utilizați serviciile gratuite și contra cost ale Tagged și/ sau Hi5 (colectiv, „serviciile”), fie printr-un dispozitiv mobil, aplicație mobilă (aplicația noastră) sau computer.**
 
