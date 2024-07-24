@@ -63,6 +63,40 @@ To use some of our products and services you need to have an account, and to cre
 
 When you use our services, we collect information about how you use our products and services. We use that information to provide you with products and services, to help keep X more secure and respectful for everyone, and more relevant to you.
 
+**Usage Information.** We collect information about your activity on X, including:
+
+* Posts and other content you post (including the date, application, and version of X) and information about your broadcast activity (e.g., Spaces), including broadcasts you’ve created and when you created them, your lists, bookmarks, and communities you are a part of.
+* Your interactions with other users’ content, such as reposts, likes, bookmarks, shares, replies, if other users mention or tag you in content or if you mention or tag them, and broadcasts you’ve participated in (including your viewing history, listening, commenting, speaking, and reacting).
+* How you interact with others on the platform, such as people you follow and people who follow you, metadata related to [Encrypted Messages](https://help.x.com/using-twitter/encrypted-direct-messages), and when you use [Direct Messages](https://help.x.com/using-twitter/direct-messages), including the contents of the messages, the recipients, and date and time of messages.
+* If you communicate with us, such as through email, we will collect information about the communication and its content.
+* We collect information on links you interact with across our services (including in our emails sent to you).
+
+**Purchase and payments.** To allow you to make a payment or send money using X features or services, including through an intermediary, we may receive information about your transaction such as when it was made, when a subscription is set to expire or auto-renew, and amounts paid or received.  
+
+**Device Information.** We collect information from and about the devices you use to access X, including:
+
+* Information about your connection, such as your IP address, browser type, and related information.
+* Information about your device and its settings, such as device and advertising ID, operating system, carrier, language, memory, apps installed, and battery level.
+* Your device address book, if you’ve chosen to share it with us.
+
+**Location Information.** When you use X, we collect some information about your approximate location to provide the service you expect, including showing you relevant ads. You can also choose to share your current precise location or places where you’ve previously used X by enabling these settings in your account.
+
+**Inferred Identity.** We may collect or receive information that we use to infer your identity as detailed below:
+
+* When you sign into X on a browser or device, we will associate that browser or device with your account. Subject to your settings, we may also associate your account with browsers or devices other than those you use to sign into X (or associate your signed-out device or browser with other browsers or devices or X-generated identiﬁers).
+* When you provide other information to X, including an email address or phone number, we associate that information with your X account. Subject to your settings, we may also use this information in order to infer other information about your identity, for example by associating your account with hashes of email addresses that share common components with the email address you have provided to X.
+* When you access X and are not signed in, we may infer your identity based on the information we collect.
+
+**Log Information.** We may receive information when you view content on or otherwise interact with our products and services, even if you have not created an account or are signed out, such as:
+
+* IP address and related information; browser type and language; operating system; the referring webpage; access times; pages visited; location; your mobile carrier; device information (including device and application IDs); search terms and IDs (including those not submitted as queries); ads shown to you on X; X-generated identiﬁers; and identiﬁers associated with cookies. We also receive log information when you click on, view, or interact with links on our services, including when you install another application through X.
+
+**Advertisements.** When you view or interact with ads we serve on or oﬀ X, we may collect information about those views or interactions (e.g., watching a video ad or preroll, clicking on an ad, interacting with reposts of or replies to an ad).
+
+**Cookies and similar technologies.** Like many websites, we use cookies and similar technologies to collect additional website usage data and to operate our services. Cookies are not required for many parts of our products and services such as searching and looking at public proﬁles. You can learn more about how we use cookies and similar technologies [here](https://help.x.com/rules-and-policies/twitter-cookies).
+
+**Interactions with our content on third-party sites.** When you view our content on third-party websites that integrate X content such as embedded timelines or post buttons, we may receive log information that includes the web page you visited.
+
 **1.3 Information we receive from third parties.**
 
 When you use other online products and services, they may share information about that usage with us.**  
