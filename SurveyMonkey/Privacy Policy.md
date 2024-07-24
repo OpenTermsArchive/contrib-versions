@@ -457,7 +457,7 @@ Depending on your geographic location, we may share your email address in hashed
 7\. Security
 ------------
 
-We have a security statement related to our self-serve businesses (SurveyMonkey and Wufoo) available to view [here](https://www.surveymonkey.com/mp/legal/security/). For information about security related to our other business lines you can speak to a sales representative by completing the form [here](https://www.surveymonkey.com/mp/enterprise/?form_autoload=).
+We have a security statement related to our self-serve businesses (SurveyMonkey and Wufoo) available to view [here](https://www.surveymonkey.com/mp/legal/security/). For information about security related to our other business lines you can speak to a sales representative by completing the form [here](https://www.surveymonkey.com/product/enterprise/?form_autoload=).
 
 8\. Safety of Minors
 --------------------
