@@ -16,6 +16,8 @@ Report abuse
 
 If you believe that someone is violating the policies found below, [report abuse](https://support.google.com/drive/answer/2463296).
 
+Reports don't guarantee removal of the file or any other action on Google's part. Content that you disagree with or deem inappropriate isn't always a violation of Google's Terms of Service or programme policies. After you submit the report, Google may contact you to learn more about the report's content.
+
 To report copyright infringement or other legal issues, please use [this tool](https://support.google.com/legal/troubleshooter/1114905?rd=2%23ts=1115681), which will guide you through the process of reporting content that you believe warrants removal from Google's services based on applicable laws.
 
 Programme Policies
