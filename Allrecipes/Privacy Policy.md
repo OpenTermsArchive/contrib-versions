@@ -1,7 +1,7 @@
 Brand Privacy Policy
 --------------------
 
-Effective Date: January 12, 2024
+Effective Date: July 24, 2024
 
 At Dotdash Meredith, we take privacy seriously and we respect the privacy concerns of our community of users.  This Privacy Policy (the “**Privacy Policy**”) describes how the Dotdash Meredith publishing family and any other digital properties that link to this Privacy Policy (collectively, the “**Company**,” “**we**,” “**us**,” or “**our**”) collect, use, disclose, and otherwise process personal information in connection with our websites (the “**Sites**”), mobile applications (the “**Apps**”), and the related content, services, products, and other features and functionality offered on or through those Sites and Apps (collectively, the “**Services**”).
 
@@ -27,7 +27,7 @@ For additional ways to delete, opt out, or manage your information, please see t
 
 The personal information we collect from and about you may vary depending on how you engage with our Services and the information you provide voluntarily.  We may collect personal information directly from you or otherwise in connection with your use of the Services, such as:
 
-● **Contact Information**, including your name, contact details (such as a postal address and email address), event or conference registration and related information (including dietary restrictions or photos and videos taken at events), and communication preferences. 
+● **Contact Information**, including your name, contact details (such as a postal address, email address, or phone number), event or conference registration and related information (including dietary restrictions or photos and videos taken at events), and communication preferences. 
 
 ● **Inquiry Information**, including information provided in messages sent through forms or surveys, to our email addresses, or via phone. This also may include information provided when you sign up for our newsletters.
 
@@ -60,11 +60,11 @@ The type of information automatically collected includes:
 
 ⠀⠀⠀● **Location data,** including geographic location we or our third-party providers may collect, such as via permissions within the app operating system or browser functionality.
 
-⠀⠀⠀● **Advertising/Advertising measurement data**, including data associated with your view of, or your clicks on, advertisements served on our Services, cookie IDs or other digital or proprietary identifiers (e.g., iOS IDFA, Google AAID) assigned to such device, and device metadata, analytics/usage data, and location data described above, in each case, for purposes of serving advertising (personalized or otherwise) or facilitating advertising measurement/attribution to better optimize or otherwise understand the effectiveness of ad campaigns. For more information on our and third-party partners’ data collection and online advertising practices, please see the “**[What are Our Third-Party Data Collection and Online Advertising Practices?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-6)**” section of this Privacy Policy.
+⠀⠀⠀● **Advertising/Advertising measurement data**, including data associated with your view of, or your clicks on, advertisements served on our Services, cookie IDs or other digital or proprietary identifiers (e.g., iOS IDFA, Google AAID) assigned to such device, and device metadata, analytics/usage data, and location data described above, in each case, for purposes of serving advertising (personalized or otherwise) or facilitating advertising measurement/attribution to better optimize or otherwise understand the effectiveness of ad campaigns. For more information on our and third-party partners’ data collection and online advertising practices, please see the “[**What are Our Third-Party Data Collection and Online Advertising Practices?**](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-6)” section of this Privacy Policy.
 
 Note that we and our third-party partners may combine information that each of us collects automatically with other information about you, including information you choose to provide.
 
-See the “**[What Controls Do I Have Over My Information?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-7)**” section below to learn more about how you may limit or disable cookies or certain other tracking technologies on your device. For more information about how we and our third-party partners use these technologies and data for advertising purposes, please see “**[What are Our Third-Party Data Collection and Online Advertising Practices?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-6)”** below.
+See the “[**What Controls Do I Have Over My Information?**](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-7)” section below to learn more about how you may limit or disable cookies or certain other tracking technologies on your device. For more information about how we and our third-party partners use these technologies and data for advertising purposes, please see “**[What are Our Third-Party Data Collection and Online Advertising Practices?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-6)”** below.
 
 #### **Third-Party Sources**
 
@@ -174,7 +174,7 @@ We display targeted advertising to you through social media platforms, such as F
 ● **Access to, Modification of, or Deletion of Your Information**: You have the right to request access to your personal information, amendment/correction of inaccurate/incomplete personal information, or deletion of your personal information. In order to better protect the security of your personal information, we will seek to confirm your identity as part of our processing of any request. Under certain circumstances, we may not fulfill your request, such as where we, in our discretion, deem that your identity has not been reasonably verified or that such information is subject to legal/regulatory, internal audit, record-keeping, or other requirements or legal exceptions such that the request should not reasonably be granted (or should be granted in part). In any event, we will respond to your request within a reasonable timeframe. In order to make such a request of us, please contact us by using one of the following methods:  
   
 ⠀⠀⠀⠀⠀o   for United States residents and for individuals located in the European Economic Area, Switzerland, or the United Kingdom, please use this [form](https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/0c410d51-8e85-4308-9bb9-37c24a461ccb.html%E2%80%9D%20with%20%E2%80%9Chttps://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/ac1b3f16-60f7-4795-aca2-2240267ed067.html).  
-⠀⠀⠀⠀⠀o   by emailing at **privacy@dotdashmdp.com** and indicating in the subject line the type of request (e.g., Access, Modification, or Deletion)  
+⠀⠀⠀⠀⠀o  Email [privacy@dotdashmdp.com](mailto:privacy@dotdashmdp.com) for assistance on exercising rights requests (email assistance available only where required under applicable privacy laws).  
   
 
 ● **Marketing E-mail Preferences**: You can manage your opt-out preferences for each of our brand’s marketing e-mails by:  
@@ -188,8 +188,9 @@ Please note that you cannot opt out of transactional or administrative e-mails (
 
 ● **Postal Mail**: To remove your name and postal address from lists that we sell or rent to third parties for their direct marketing purposes, or to opt out of receiving marketing offers for other magazines and products by mail:   
 o   please use the opt-out form available [here](https://www.meredith.com/offlinePrivacy.html); or  
-o   send your request to us in a letter addressed to **Dotdash Meredith, Opt-Out Postal,** **Attn: Circulation, 225 Liberty St, 4th Floor, New York, NY 10281**. Note that if you choose to opt out of our promotional mailings, you may still receive renewal notices and related offers for any magazines to which you subscribe.  
-  
+o   send your request to us in a letter addressed to **Dotdash Meredith, Opt-Out Postal,** **Attn: Circulation, 225 Liberty St, 4th Floor, New York, NY 10281**. Note that if you choose to opt out of our promotional mailings, you may still receive renewal notices and related offers for any magazines to which you subscribe.
+
+● **Telemarketing Calls/Texts**: When you have provided your “prior express written consent” where required under the TCPA to receive telemarketing communications from us, we will not provide such consent to third parties so that they can provide telemarketing communications to you to the extent such telemarketing communications from such third party also requires “prior express written consent” and you have not provided such consent to such third party. Message and data rates may apply to telephonic communications you receive; message frequency varies. The phrase “prior express written consent” used in this paragraph is as defined under the Telephone Consumer Protection Act (TCPA).  
 
 ● **Cookies and Other Tracking Technologies**: To manage cookies, an individual may have the ability to change their browser settings to (for example): (i) notify them when they receive a cookie, so the individual can choose whether or not to accept it; (ii) disable existing cookies; or (iii) automatically reject cookies (or certain types of cookies, such as cookies set by third parties). Note that similar controls may exist for other tracking technologies, such as pixels, SDKs, and localStorage. Please check your device or browser settings and related documentation for more information.   
   
@@ -229,7 +230,7 @@ Your personal information may be stored in, transferred to, and processed in the
 
 We may choose or be required by law to provide different or additional disclosures about our data privacy practices depending on your state or country of residence:
 
-● **California, Colorado, Connecticut, Nevada, Utah, and Virginia**:  If you are a California, Colorado, Connecticut, Nevada, Utah, or Virginia resident, please see the ‘[U.S. State Privacy Notice](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-9)’ section below.
+● **U.S. States**:  If you are a U.S. State resident, please see the ‘[U.S. State Privacy Notice](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-9)’ section below.
 
 ● **European Economic Area, United Kingdom, or Switzerland**: If you are located in the European Economic Area (“**EEA**”), United Kingdom (“**UK**”), or Switzerland, or otherwise engage with our European operations, please see the 'European Privacy Notice' section for additional European-specific privacy information, including what constitutes your personal data, the lawful bases we rely on to process your personal data, and your rights in respect of your personal data.  
   
@@ -240,9 +241,9 @@ We may update this Privacy Policy periodically to reflect changes to our privacy
 
 #### **How Can You Contact Us?**
 
-If you have questions about this Privacy Policy or about our privacy practices, you may contact us by emailing **[privacy@dotdashmdp.com](mailto:privacy@dotdashmdp.com)**.
+If you have questions about this Privacy Policy or about our privacy practices, you may contact us by emailing [**privacy@dotdashmdp.com**](mailto:privacy@dotdashmdp.com).
 
-If you are a California, Colorado, Connecticut, Utah, or Virginia resident inquiring about your privacy rights under your respective State Privacy Law, please include “U.S. Privacy Rights Request” in the subject line of your email.
+If you are a U.S. State resident inquiring about your privacy rights under your respective State Privacy Law, please include “U.S. Privacy Rights Request” in the subject line of your email.
 
 If you are a resident of the European Economic Area inquiring about your rights under the General Data Protection Regulation (“GDPR”), please include “GDPR Privacy Rights Request” in the subject line of your email.
 
@@ -252,7 +253,7 @@ You may also write to:
 
 ### **U.S. State Privacy Notice**
 
-For residents covered under the State Privacy Laws (and Nevada, in the case of the “Notice to Nevada Residents” section only), this U.S. State Privacy Notice supplements the information contained in our Privacy Policy by providing additional information under such laws. The term “**State Privacy Laws**” means, as applicable, the California Consumer Privacy Act (the “**CCPA**”), the Colorado Privacy Act, the Connecticut Data Privacy Act, the Utah Consumer Privacy Act, and the Virginia Consumer Data Protection Act.
+For residents covered under the State Privacy Laws (and Nevada, in the case of the “Notice to Nevada Residents” section only), this U.S. State Privacy Notice supplements the information contained in our Privacy Policy by providing additional information under such laws. The term “**State Privacy Laws**” means, as applicable, the U.S. state privacy laws that govern the processing of consumers’ personal information generally (e.g., the California Consumer Privacy Act (the “**CCPA**”), Colorado Privacy Act, Connecticut Data Privacy Act, Utah Consumer Privacy Act, Virginia Consumer Data Protection Act).
 
 #### **Your Privacy Rights**
 
@@ -260,7 +261,7 @@ Depending on your state of residency, you may exercise the following rights unde
 
 **The Right to Access**
 
-Under the State Privacy Laws, you have the right to obtain confirmation regarding whether we are processing your personal information and to access that personal information. You also have the right to access that personal information in a portable, readily usable format, unless not technically feasible to provide in such a format. 
+Under the State Privacy Laws, you have the right to obtain confirmation regarding whether we are processing your personal information and to access that personal information and, in some cases, information about the third parties who may receive such personal information. You also have the right to access that personal information in a portable, readily usable format, unless not technically feasible to provide in such a format. 
 
 Specifically with respect to the CCPA’s right to access, you have the right to request the following: (a) the specific pieces of personal information the business has collected about you and (b) the categories of personal information collected, the sources of collection, the business/commercial purpose for collecting or "selling/sharing" personal information, and the categories of third party to whom the business discloses personal information.
 
@@ -282,7 +283,7 @@ We do not have actual knowledge of “selling” or “sharing” PI of consumer
 
 #### **To Exercise Your Privacy Rights**
 
-To submit a request to exercise your right to access, deletion, or correction, please use [this form](https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/ac1b3f16-60f7-4795-aca2-2240267ed067.html).
+To submit a request to exercise your right to access, deletion, or correction, please use [this form](https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/ac1b3f16-60f7-4795-aca2-2240267ed067.html). You may also email [privacy@dotdashmdp.com](mailto:privacy@dotdashmdp.com) for assistance on exercising rights requests (where State Privacy Laws require that we provide another means for such assistance). 
 
 To exercise your right to opt-out of "sales," "shares," ”targeted advertising,” or certain use/disclosure of “sensitive” personal information, please click our **Your Privacy Choices** link (found in the website footer) and follow the instructions therein. As discussed in such link, you may also visit our website with the Global Privacy Control (GPC) signal enabled to opt-out of “sales/shares” via Targeting Cookies (learn more about GPC at [www.globalprivacycontrol.org](http://www.globalprivacycontrol.org/)). The Targeting Cookies opt-out is on a per-website basis and applies at the browser level for the device you use to opt out.  
 
@@ -294,13 +295,13 @@ In certain circumstances, we may decline a request to exercise the rights descri
 
 You have the right to not receive “discriminatory” treatment for exercising the rights discussed in the table above.  However, please note that if the exercise of these rights limits our ability to process personal information (such as in the case of a deletion request), we may no longer be able to provide you our products and services or engage with you in the same manner.
 
-Further, under Colorado, Connecticut, and Virginia’s State Privacy Laws, you may appeal our decision to not take action on your rights request. All appeals should be submitted by emailing [privacy@dotdashmdp.com](about:blank), along with a copy of the decision that you are appealing.
+Further, under certain State Privacy Laws, you may appeal our decision to not take action on your rights request. All appeals should be submitted by emailing [privacy@dotdashmdp.com](about:blank), along with a copy of the decision that you are appealing.
 
 **Authorized Agents**
 
-In certain circumstances under the State Privacy Laws, you are permitted to use an authorized agent to submit requests on your behalf (using the mechanisms for submitting requests above), where we can verify the authorized agent’s authority to act on your behalf.
+In certain circumstances under the State Privacy Laws, you are permitted to use an authorized agent to submit requests on your behalf (using the mechanisms for submitting requests above), to the extent we can verify the authorized agent’s authority to act on your behalf.
 
-Specifically, under the CCPA, for requests to access, delete, or correct personal information, we require the following for verification purposes:
+For requests to access, delete, or correct personal information, we may require the following for verification purposes:
 
 (a) a power of attorney from you or your authorized agent that is valid under the laws of the applicable state where you reside; or
 
@@ -311,7 +312,7 @@ Specifically, under the CCPA, for requests to access, delete, or correct persona
     
 2. verified your own identity directly with us or directly confirmed with us that you provided the authorized agent permission to submit the request on your behalf.
 
-For requests to opt-out of “sales,” “shares,” or the processing of your personal information for “targeted advertising” under the State Privacy Laws, we require a signed permission demonstrating your authorized agent has been authorized by you to act on your behalf.
+For requests to opt-out of “sales,” “shares,” or the processing of your personal information for “targeted advertising” under the State Privacy Laws, we may require a signed permission demonstrating your authorized agent has been authorized by you to act on your behalf.
 
 **Deidentified Information**
 
@@ -321,7 +322,7 @@ Where we process “deidentified information” (as such term is defined under t
 
 The following additional disclosures apply to residents covered under the CCPA.
 
-● **Categories/Use of PI**: In the last 12 months, please see the list below for the categories of personal information we have collected. Further, please see “**[How Do We Use Personal Information?](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-4)**” for the purposes for which such personal information is used.
+● **Categories/Use of PI**: In the last 12 months, please see the list below for the categories of personal information we have collected. Further, please see “[**How Do We Use Personal Information?**](https://www.dotdashmeredith.com/brands-privacy#TextBlockOneColumn-4)” for the purposes for which such personal information is used.
 
 ⠀⠀⠀o  **Identifiers**, such as your name, email address, date of birth, online identifiers, or other similar identifiers.
 
@@ -361,7 +362,7 @@ Chapter 603A of the Nevada Revised Statutes permits a Nevada resident to opt out
 
 **Controller of your Personal Data**
 
-The controller of your personal data under this European Privacy Notice is Dotdash Meredith, with an address of **225 Liberty St, 4th Floor, New York, NY 10281**.  Our local representative with respect to the GDPR can be contacted at **[privacy@dotdashmdp.com](mailto:privacy@dotdashmdp.com)**. 
+The controller of your personal data under this European Privacy Notice is Dotdash Meredith, with an address of **225 Liberty St, 4th Floor, New York, NY 10281**.  Our local representative with respect to the GDPR can be contacted at [**privacy@dotdashmdp.com**](mailto:privacy@dotdashmdp.com). 
 
 **Legal Basis for Using Personal Data**
 
@@ -447,4 +448,4 @@ We are owned and operated by Dotdash Meredith, located at
 
 **225 Liberty St, 4th Floor, New York, NY 10281**
 
-All feedback, questions, and comments  in connection with our privacy practices and our privacy policies should be directed to: **[privacy@dotdashmdp.com](mailto:privacy@dotdashmdp.com)**.
+All feedback, questions, and comments in connection with our privacy practices and our privacy policies should be directed to: [**privacy@dotdashmdp.com**](mailto:privacy@dotdashmdp.com).
