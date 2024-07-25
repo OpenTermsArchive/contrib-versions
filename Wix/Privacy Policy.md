@@ -253,7 +253,7 @@ We and our Third Party Service Providers use cookies and other similar technolog
 
 ​
 
-You can learn more about how we use cookies and similar technologies and how you can exercise control over them in our [Cookie Policy](https://www.wix.com/about/cookie-policy).
+You can learn more about how we use cookies and similar technologies and how you can exercise control over them in our [Cookie Policy](https://www.wix.com/about/cookie-policy).
 
 ​
 
@@ -302,7 +302,7 @@ Wix believes that it is imperative that all Wix users have control over their Pe
   
 Wix will not charge you more if you exercise any of these rights and will continue to provide you with the same level of service.  
   
-If you are a Wix user, you can access and correct a lot of your Personal Information directly through your account, or via online forms Wix makes available to you (as detailed below). You can also exercise your rights by sending your request to [privacy@wix.com](mailto:privacy@wix.com), mailing it to Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel, or reaching out to our [customer care department](https://support.wix.com/en/article/contacting-wix-customer-care-for-support?_gl=1*bbrojx*_ga*MTkyMDMwNjI5LjE2MzIwMzI1ODc.*_ga_H314XQHSPY*MTYzMjAzODExNy4yLjAuMTYzMjAzODExNy42MA..). When we receive your right request, we may take steps to verify your identity before complying with the request to protect your privacy and security.
+If you are a Wix user, you can access and correct a lot of your Personal Information directly through your account, or via online forms Wix makes available to you (as detailed below). You can also exercise your rights by sending your request to [privacy@wix.com](mailto:privacy@wix.com), mailing it to Wix.com Ltd, Yunitsman 5 St, Tel Aviv, Israel, or reaching out to our [customer care department](https://support.wix.com/en/article/contacting-wix-customer-care-for-support?_gl=1*bbrojx*_ga*MTkyMDMwNjI5LjE2MzIwMzI1ODc.*_ga_H314XQHSPY*MTYzMjAzODExNy4yLjAuMTYzMjAzODExNy42MA..). When we receive your right request, we may take steps to verify your identity before complying with the request to protect your privacy and security.
 
 ​
 
@@ -312,7 +312,7 @@ Before fulfilling your request, we may ask you for additional information in ord
 
 You have the right to file a complaint with your local supervisory authority for data protection (but we still recommend that you contact us first).  
   
-If you are a Wix User, and you wish to receive a copy, access and/or request us to make corrections to the Personal Information that you have stored with us (either yours or your Users-of-Users’), or wish to request a list of what Personal Information (if any) pertaining to you we disclosed to third parties for direct marketing purposes, please follow the instructions provided in these Help Center articles: “[Retrieving Your Wix Account Data](https://support.wix.com/en/article/gdpr-retrieving-your-wix-account-data?_gl=1*1xik3pa*_ga*MjA3NzYxNjc4LjE2MzEzODU0OTA.)” or "[Permanently Deleting Your Wix Account](https://support.wix.com/en/article/privacy-permanently-deleting-your-wix-account-2888065?_gl=1*1xik3pa*_ga*MjA3NzYxNjc4LjE2MzEzODU0OTA.)”. You can also mail your request to Wix.com, 40 Namal Tel Aviv St., Tel Aviv 6350671, Israel. We will make reasonable efforts to honor your request promptly (unless we require further information from you in order to fulfil your request), subject to legal and other permissible considerations.
+If you are a Wix User, and you wish to receive a copy, access and/or request us to make corrections to the Personal Information that you have stored with us (either yours or your Users-of-Users’), or wish to request a list of what Personal Information (if any) pertaining to you we disclosed to third parties for direct marketing purposes, please follow the instructions provided in these Help Center articles: “[Retrieving Your Wix Account Data](https://support.wix.com/en/article/gdpr-retrieving-your-wix-account-data?_gl=1*1xik3pa*_ga*MjA3NzYxNjc4LjE2MzEzODU0OTA.)” or "[Permanently Deleting Your Wix Account](https://support.wix.com/en/article/privacy-permanently-deleting-your-wix-account-2888065?_gl=1*1xik3pa*_ga*MjA3NzYxNjc4LjE2MzEzODU0OTA.)”. You can also mail your request to Wix.com Ltd, Yunitsman 5 St, Tel Aviv, Israel. We will make reasonable efforts to honor your request promptly (unless we require further information from you in order to fulfil your request), subject to legal and other permissible considerations.
 
 ​
 
@@ -440,11 +440,11 @@ Avoid posting any Personal Information to any of the public areas on our Service
 16\. Updates and interpretation
 -------------------------------
 
-We may update this Privacy Policy as required by applicable law, and to reflect changes to our Personal Information collection, usage and storage practices. If we make any changes that we deem as “material” (in our sole good faith discretion), we will notify you (using one of the notification methods set forth in Section 15.3 of the [Terms of Use](http://www.wix.com/about/terms-of-use)) prior to the change becoming effective. In relation to any updated Privacy Policy, we will, as required by applicable law, notify you, seek your consent and/or take any other measures. We encourage you to periodically review this page for the latest Information on our privacy practices. Unless stated otherwise, our most current Privacy Policy applies to all information that we have about you and your Users-of-Users, with respect to our Website, Wix Apps, Mobile Apps and other Services. 
+We may update this Privacy Policy as required by applicable law, and to reflect changes to our Personal Information collection, usage and storage practices. If we make any changes that we deem as “material” (in our sole good faith discretion), we will notify you (using one of the notification methods set forth in Section 15.3 of the [Terms of Use](http://www.wix.com/about/terms-of-use)) prior to the change becoming effective. In relation to any updated Privacy Policy, we will, as required by applicable law, notify you, seek your consent and/or take any other measures. We encourage you to periodically review this page for the latest Information on our privacy practices. Unless stated otherwise, our most current Privacy Policy applies to all information that we have about you and your Users-of-Users, with respect to our Website, Wix Apps, Mobile Apps and other Services. 
 
 ​
 
-Any heading, caption or section title contained herein, and any explanation or summary under the right “#ItsThatEasy” column, is provided only for convenience, and in no way defines or explains any section or provision hereof, or legally binds any of us in any way.
+Any heading, caption or section title contained herein, and any explanation or summary under the right “#ItsThatEasy” column, is provided only for convenience, and in no way defines or explains any section or provision hereof, or legally binds any of us in any way.
 
 ​
 
