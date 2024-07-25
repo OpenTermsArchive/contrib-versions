@@ -304,156 +304,216 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * _Loading..._
 
-[Back to top](#)
+* * *
 
-* [Canonical OpenStack](https://ubuntu.com/openstack) [Canonical OpenStack](#)
-    ----------------------------------------------------------------------------
-    
-    * [What is OpenStack](https://ubuntu.com/openstack/what-is-openstack)
-    * [Features](https://ubuntu.com/openstack/features)
-    * [Managed](https://ubuntu.com/openstack/managed)
-    * [Consulting](https://ubuntu.com/openstack/consulting)
-    * [Install](https://ubuntu.com/openstack/install)
-    * [Support](https://ubuntu.com/openstack/support)
-* [Canonical Ceph](https://ubuntu.com/ceph) [Canonical Ceph](#)
-    -------------------------------------------------------------
-    
-    * [What is Ceph](https://ubuntu.com/ceph/what-is-ceph)
-    * [Managed](https://ubuntu.com/ceph/managed)
-    * [Consulting](https://ubuntu.com/ceph/consulting)
-    * [Docs](https://ubuntu.com/ceph/docs)
-    * [Install](https://ubuntu.com/ceph/install)
-* [Managed](https://ubuntu.com/managed) [Managed](#)
-    --------------------------------------------------
-    
-    * [OpenStack](https://ubuntu.com/openstack/managed)
-    * [Kubernetes](https://ubuntu.com/kubernetes/managed)
-    * [Ceph](https://ubuntu.com/ceph/managed)
-    * [Apps](https://ubuntu.com/managed/apps)
-    * [Observability](https://ubuntu.com/observability/managed)
-    * [Firefighting](https://ubuntu.com/managed/firefighting-support)
+[OpenStack](https://ubuntu.com/openstack) [OpenStack](#)
+--------------------------------------------------------
 
-* [Canonical Kubernetes](https://ubuntu.com/kubernetes) [Canonical Kubernetes](#)
-    -------------------------------------------------------------------------------
-    
-    * [What is Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes)
-    * [Charmed Kubernetes](https://ubuntu.com/kubernetes/charmed-k8s)
-    * [Managed](https://ubuntu.com/kubernetes/managed)
-    * [Install](https://ubuntu.com/kubernetes/install)
-    * [Docs](https://ubuntu.com/kubernetes/docs)
-    * [Resources](https://ubuntu.com/kubernetes/resources)
-* [AI / ML](https://ubuntu.com/ai) [AI / ML](#)
-    ---------------------------------------------
-    
-    * [MLOps](https://ubuntu.com/ai/mlops)
-    * [Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
-    * [MLflow](https://ubuntu.com/ai/mlflow)
-    * [Consulting](https://ubuntu.com/ai/consulting)
-* [Robotics](https://ubuntu.com/robotics) [Robotics](#)
-    -----------------------------------------------------
-    
-    * [ROS ESM](https://ubuntu.com/robotics/ros-esm)
-    * [What is ROS](https://ubuntu.com/robotics/what-is-ros)
-    * [Community](https://ubuntu.com/robotics/community)
-    * [Docs](https://ubuntu.com/robotics/docs)
-* [Cloud](https://ubuntu.com/cloud) [Cloud](#)
-    --------------------------------------------
-    
-    * [What is cloud computing](https://ubuntu.com/cloud/cloud-computing)
-    * [What is private cloud](https://ubuntu.com/cloud/private-cloud)
-    * [What is hybrid cloud](https://ubuntu.com/cloud/hybrid-cloud)
-    * [What is multi-cloud](https://ubuntu.com/cloud/multi-cloud)
-    * [Public cloud](https://ubuntu.com/cloud/public-cloud)
-
-* [IoT](https://ubuntu.com/internet-of-things) [IoT](#)
-    -----------------------------------------------------
-    
-    * [App store](https://ubuntu.com/internet-of-things/appstore)
-    * [Embedded Linux](https://ubuntu.com/embedded)
-    * [Management](https://ubuntu.com/internet-of-things/management)
-* [Ubuntu Core](https://ubuntu.com/core) [Ubuntu Core](#)
-    -------------------------------------------------------
-    
-    * [Features](https://ubuntu.com/core/features)
-    * [Success stories](https://ubuntu.com/core/stories)
-    * [Services](https://ubuntu.com/core/services)
-    * [Docs](https://ubuntu.com/core/docs)
-
-* [Ubuntu Desktop](https://ubuntu.com/desktop) [Ubuntu Desktop](#)
-    ----------------------------------------------------------------
-    
-    * [Organisations](https://ubuntu.com/desktop/organisations)
-    * [Developers](https://ubuntu.com/desktop/developers)
-    * [Flavours](https://ubuntu.com/desktop/flavours)
-    * [WSL](https://ubuntu.com/desktop/wsl)
-* [Ubuntu Server](https://ubuntu.com/server) [Ubuntu Server](#)
-    -------------------------------------------------------------
-    
-    * [Hyperscale](https://ubuntu.com/server/hyperscale)
-    * [Docs](https://ubuntu.com/server/docs)
-* [Security](https://ubuntu.com/security) [Security](#)
-    -----------------------------------------------------
-    
-    * [ESM](https://ubuntu.com/security/esm)
-    * [Livepatch](https://ubuntu.com/security/livepatch)
-    * [Certifications & Hardening](https://ubuntu.com/security/certifications)
-    * [CVEs](https://ubuntu.com/security/cves)
-    * [Notices](https://ubuntu.com/security/notices)
-    * [Docker Images](https://ubuntu.com/security/docker-images)
-
-* [Downloads](https://ubuntu.com/download) [Downloads](#)
-    -------------------------------------------------------
-    
-    * [Desktop](https://ubuntu.com/download/desktop)
-    * [Server](https://ubuntu.com/download/server)
-    * [Core](https://ubuntu.com/download/core)
-    * [Cloud](https://ubuntu.com/download/cloud)
-* [Observability](https://ubuntu.com/observability) [Observability](#)
-    --------------------------------------------------------------------
-    
-    * [What is observability](https://ubuntu.com/observability/what-is-observability)
-    * [Managed](https://ubuntu.com/observability/managed)
-* [Appliance](https://ubuntu.com/appliance) [Appliance](#)
-    --------------------------------------------------------
-    
-    * [About](https://ubuntu.com/appliance/about)
-    * [Portfolio](https://ubuntu.com/appliance/portfolio)
-    * [Community](https://ubuntu.com/appliance/community)
-    * [Hardware](https://ubuntu.com/appliance/hardware)
-    * [Virtual machines](https://ubuntu.com/appliance/vm)
-
-* [Support](https://ubuntu.com/support) [Support](#)
-    --------------------------------------------------
-    
-    * [Your subscriptions](https://ubuntu.com/pro/dashboard)
-    * [Account users](https://ubuntu.com/pro/users)
-    * [Pricing](https://ubuntu.com/pricing/pro)
-    * [Discourse](https://discourse.ubuntu.com/c/ubuntu-pro)
-* [Pricing](https://ubuntu.com/pricing) [Pricing](#)
-    --------------------------------------------------
-    
-    * [Consulting](https://ubuntu.com/pricing/consulting)
-    * [Desktops](https://ubuntu.com/pricing/desktop)
-    * [Devices](https://ubuntu.com/pricing/devices)
-* Sectors
-    -------
-    
-    * [Automotive](https://ubuntu.com/automotive)
-    * [Industrial](https://ubuntu.com/industrial)
-    * [Government](https://ubuntu.com/gov)
-    * [Telco](https://ubuntu.com/telco)
-    * [Finance](https://ubuntu.com/financial-services)
-* * [Containers](https://ubuntu.com/containers)
-    * [Tutorials](https://ubuntu.com/tutorials)
-    * [16-04](https://ubuntu.com/16-04)
-    * [Software partnerships](https://ubuntu.com/software-partnerships)
-    * [Landscape](https://ubuntu.com/landscape)
-    * [Canonical Embedding Programme](https://ubuntu.com/embedding)
+* [What is OpenStack](https://ubuntu.com/openstack/what-is-openstack)
+* [Features](https://ubuntu.com/openstack/features)
+* [Managed](https://ubuntu.com/openstack/managed)
+* [Consulting](https://ubuntu.com/openstack/consulting)
+* [Install](https://ubuntu.com/openstack/install)
+* [Support](https://ubuntu.com/openstack/support)
 
 * * *
 
-* [Contact us](https://ubuntu.com/contact-us)
-* [Contact us](https://ubuntu.com/contact-us)
+[Ceph](https://ubuntu.com/ceph) [Ceph](#)
+-----------------------------------------
+
+* [What is Ceph](https://ubuntu.com/ceph/what-is-ceph)
+* [Managed](https://ubuntu.com/ceph/managed)
+* [Consulting](https://ubuntu.com/ceph/consulting)
+* [Docs](https://ubuntu.com/ceph/docs)
+* [Install](https://ubuntu.com/ceph/install)
+
+* * *
+
+[Kubernetes](https://ubuntu.com/kubernetes) [Kubernetes](#)
+-----------------------------------------------------------
+
+* [What is Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes)
+* [Charmed Kubernetes](https://ubuntu.com/kubernetes/charmed-k8s)
+* [Managed](https://ubuntu.com/kubernetes/managed)
+* [Install](https://ubuntu.com/kubernetes/install)
+* [Docs](https://ubuntu.com/kubernetes/docs)
+* [Resources](https://ubuntu.com/kubernetes/resources)
+
+* * *
+
+[Managed Services](https://ubuntu.com/managed) [Managed Services](#)
+--------------------------------------------------------------------
+
+* [OpenStack](https://ubuntu.com/openstack/managed)
+* [Kubernetes](https://ubuntu.com/kubernetes/managed)
+* [Ceph](https://ubuntu.com/ceph/managed)
+* [Apps](https://ubuntu.com/managed/apps)
+* [Observability](https://ubuntu.com/observability/managed)
+* [Firefighting](https://ubuntu.com/managed/firefighting-support)
+
+* * *
+
+[AI / ML](https://ubuntu.com/ai) [AI / ML](#)
+---------------------------------------------
+
+* [MLOps](https://ubuntu.com/ai/mlops)
+* [Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
+* [MLflow](https://ubuntu.com/ai/mlflow)
+* [Consulting](https://ubuntu.com/ai/consulting)
+
+* * *
+
+[Robotics](https://ubuntu.com/robotics) [Robotics](#)
+-----------------------------------------------------
+
+* [What is ROS](https://ubuntu.com/robotics/what-is-ros)
+* [ROS ESM](https://ubuntu.com/robotics/ros-esm)
+* [Community](https://ubuntu.com/robotics/community)
+* [Docs](https://ubuntu.com/robotics/docs)
+
+* * *
+
+[IoT](https://ubuntu.com/internet-of-things) [IoT](#)
+-----------------------------------------------------
+
+* [App store](https://ubuntu.com/internet-of-things/appstore)
+* [Embedded Linux](https://ubuntu.com/embedded)
+* [Management](https://ubuntu.com/internet-of-things/management)
+
+* * *
+
+[Ubuntu Core](https://ubuntu.com/core) [Ubuntu Core](#)
+-------------------------------------------------------
+
+* [Features](https://ubuntu.com/core/features)
+* [Success stories](https://ubuntu.com/core/stories)
+* [Services](https://ubuntu.com/core/services)
+* [Docs](https://ubuntu.com/core/docs)
+
+* * *
+
+[Ubuntu Desktop](https://ubuntu.com/desktop) [Ubuntu Desktop](#)
+----------------------------------------------------------------
+
+* [Organisations](https://ubuntu.com/desktop/organisations)
+* [Developers](https://ubuntu.com/desktop/developers)
+* [Flavours](https://ubuntu.com/desktop/flavours)
+* [WSL](https://ubuntu.com/desktop/wsl)
+
+* * *
+
+[Ubuntu Server](https://ubuntu.com/server) [Ubuntu Server](#)
+-------------------------------------------------------------
+
+* [Hyperscale](https://ubuntu.com/server/hyperscale)
+* [Docs](https://ubuntu.com/server/docs)
+
+* * *
+
+[Cloud](https://ubuntu.com/cloud) [Cloud](#)
+--------------------------------------------
+
+* [What is cloud computing](https://ubuntu.com/cloud/cloud-computing)
+* [What is private cloud](https://ubuntu.com/cloud/private-cloud)
+* [What is hybrid cloud](https://ubuntu.com/cloud/hybrid-cloud)
+* [What is multi-cloud](https://ubuntu.com/cloud/multi-cloud)
+* [Public cloud](https://ubuntu.com/cloud/public-cloud)
+
+* * *
+
+[Security](https://ubuntu.com/security) [Security](#)
+-----------------------------------------------------
+
+* [ESM](https://ubuntu.com/security/esm)
+* [Livepatch](https://ubuntu.com/security/livepatch)
+* [Certifications & Hardening](https://ubuntu.com/security/certifications)
+* [CVEs](https://ubuntu.com/security/cves)
+* [Notices](https://ubuntu.com/security/notices)
+* [Docker Images](https://ubuntu.com/security/docker-images)
+
+* * *
+
+[Landscape](https://ubuntu.com/landscape) [Landscape](#)
+--------------------------------------------------------
+
+* [Features](https://ubuntu.com/landscape/features)
+* [Managed](https://ubuntu.com/landscape/managed)
+* [Pricing](https://ubuntu.com/landscape/pricing)
+* [Install](https://ubuntu.com/landscape/install)
+* [Docs](https://ubuntu.com/landscape/docs)
+* [Log in to Landscape](https://landscape.canonical.com/login/authenticate)
+
+* * *
+
+[Containers](https://ubuntu.com/containers) [Containers](#)
+-----------------------------------------------------------
+
+* [What are containers](https://ubuntu.com/containers/what-are-containers)
+* [Chiselled Ubuntu](https://ubuntu.com/containers/chiselled)
+* [Chiselled and .NET](https://ubuntu.com/containers/chiselled/dotnet)
+
+* * *
+
+[Downloads](https://ubuntu.com/download) [Downloads](#)
+-------------------------------------------------------
+
+* [Desktop](https://ubuntu.com/download/desktop)
+* [Server](https://ubuntu.com/download/server)
+* [Core](https://ubuntu.com/download/core)
+* [Cloud](https://ubuntu.com/download/cloud)
+
+* * *
+
+[Support](https://ubuntu.com/support) [Support](#)
+--------------------------------------------------
+
+* [Your subscriptions](https://ubuntu.com/pro/dashboard)
+* [Account users](https://ubuntu.com/pro/users)
+* [Pricing](https://ubuntu.com/pricing/pro)
+* [Discourse](https://discourse.ubuntu.com/c/ubuntu-pro)
+
+* * *
+
+[Observability](https://ubuntu.com/observability) [Observability](#)
+--------------------------------------------------------------------
+
+* [What is observability](https://ubuntu.com/observability/what-is-observability)
+* [Managed](https://ubuntu.com/observability/managed)
+
+* * *
+
+[Pricing](https://ubuntu.com/pricing) [Pricing](#)
+--------------------------------------------------
+
+* [Consulting](https://ubuntu.com/pricing/consulting)
+* [Desktops](https://ubuntu.com/pricing/desktop)
+* [Devices](https://ubuntu.com/pricing/devices)
+
+* * *
+
+Solutions
+---------
+
+* [AI](https://canonical.com/solutions/ai)
+* [Data](https://canonical.com/data)
+* [Infrastructure](https://canonical.com/solutions/infrastructure)
+* [Secure open source](https://canonical.com/solutions/secure-open-source)
+
+* * *
+
+Sectors
+-------
+
+* [Automotive](https://ubuntu.com/automotive)
+* [Industrial](https://ubuntu.com/industrial)
+* [Government](https://ubuntu.com/gov)
+* [Telco](https://ubuntu.com/telco)
+* [Finance](https://ubuntu.com/financial-services)
+
+* * *
+
+[Contact us](https://ubuntu.com/contact-us)
+
 * [About us](https://ubuntu.com/about)
 * [Community](https://ubuntu.com/community)
 * [Careers](https://www.canonical.com/careers)
@@ -461,17 +521,25 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [Resources](https://ubuntu.com/engage)
 * [Press centre](https://ubuntu.com/blog/press-centre)
 
-© 2024 Canonical Ltd. Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+* [](https://twitter.com/ubuntu "Follow Ubuntu on Twitter")
+* [](https://www.facebook.com/ubuntulinux/ "Follow Ubuntu on Facebook")
+* [](https://www.linkedin.com/company/234280 "Find Canonical on LinkedIn")
+* [](https://www.instagram.com/ubuntu_os/ "Follow Ubuntu on Instagram")
+* [](https://ubuntu.com/blog/feed "Use the Ubuntu Blog rss feed")
+
+* * *
+
+© 2024 Canonical Ltd.
+
+Ubuntu and Canonical are registered trademarks of Canonical Ltd.
+
+* * *
 
 * [Legal information](https://ubuntu.com/legal)
 * [Data privacy](https://ubuntu.com/legal/data-privacy)
 * Manage your tracker settings
 * [Report a bug on this site](https://github.com/canonical/ubuntu.com/issues/new)
 
-* [](https://twitter.com/ubuntu "Follow Ubuntu on Twitter")
-* [](https://www.facebook.com/ubuntulinux/ "Follow Ubuntu on Facebook")
-* [](https://www.linkedin.com/company/234280 "Find Canonical on LinkedIn")
-* [](https://www.instagram.com/ubuntu_os/ "Follow Ubuntu on Instagram")
-* [](https://ubuntu.com/blog/feed "Use the Ubuntu Blog rss feed")
+[Back to top](#)
 
 [Go to the top of the page](#)
