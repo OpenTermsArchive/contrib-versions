@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: July 23, 2024
+#### Last Updated: July 24, 2024
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -307,7 +307,7 @@ Your failure to maintain your database instance within the support perimeter (as
 
 **11.4.** You are responsible for complying with legal requirements related to unsolicited or unwanted communications, including without limitation, the Telephone Consumer Protection Act (TCPA), the FTC’s Telemarketing Sales Rule, and the EU e-Privacy Directive, or any other similar telemarketing law.
 
-**11.5.** We may change, discontinue, or deprecate support for a third party push notification platform at any time. We will provide you with prior notice of any deprecation or discontinuation of support for a third party push notification platform where practicable under the circumstances.
+**11.5.** Amazon SNS utilizes the underlying functionality of AWS End User Messaging to send SMS messages and push notifications, and your use of Amazon SNS is also subject to the terms that govern AWS End User Messaging.
 
 **11.6.** Through your use of Amazon SNS you will not:
 
@@ -321,15 +321,6 @@ Your failure to maintain your database instance within the support perimeter (as
 * Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties.  
     
 * Use the Services in hazardous environments (such as operation of nuclear facilities, aircraft navigation, or any other use that may result in foreseeable risk of injury, death, or destruction of property).
-
-**11.7**.  From time to time, telecommunication providers may change or modify their rules, requirements, and policies (collectively “Carrier Policies”). We will make reasonable efforts to notify you of changes to Carrier Policies through, for example, email, Personal Health Dashboard notifications, or technical documentation. You are responsible for complying with all Carrier Policies that apply to your use of the Service.
-
-**11.8.** If the applicable AWS Contracting Party is AWS India, you must obtain our prior written consent before using Amazon SNS to send SMS messages for:  
-
-* financial transactions or payment services (e.g., mobile banking, bill presentment, bill payment, money transfer, peer-to-peer payment or lending credit, debit or stored value payment services);
-* sweepstakes or contests; or
-* advertisements or promotions for commercial products, goods, or services.   
-    
 
 #### 12\. AWS Identity and Access Management (IAM)
 
@@ -519,23 +510,44 @@ The distribution of files created by Amazon Elastic Transcoder may require that 
 
 **28.8**. AWS is the registrant of, and controls the DNS records for, all \[name\].workdocs.aws domain names (“Domain Names”). Customer does not acquire any rights in any such domain. Termination or suspension of Customer’s AWS account may result in the termination or suspension of Customer’s ability to use its previously assigned Domain Names. In order to use a Domain Name, Customer must comply with all guidelines included in the [Amazon WorkDocs Site Naming Policy](https://aws.amazon.com/workdocs/policy/).
 
-#### 29\. Amazon Pinpoint
+#### 29\. Amazon Pinpoint and AWS End User Messaging (formerly, the SMS, MMS, voice message, and push notification features of Amazon Pinpoint)
 
-**29.1.** Portions of Amazon Pinpoint in Japan are sold and provided by AMCS LLC (“AMCS”), an affiliate of AWS, and not AWS, but are otherwise subject to the terms of the Agreement. 
+**29.1.** Portions of Amazon Pinpoint and AWS End User Messaging in Japan are sold and provided by AMCS LLC (“AMCS”), an affiliate of AWS, and not AWS, but are otherwise subject to the terms of the Agreement. 
 
-**29.2.** Portions of Amazon Pinpoint in Singapore are sold and provided by AMCS SG PRIVATE LIMITED (“AMCS SG”), an affiliate of AWS, and not AWS, but are otherwise subject to the terms of the Agreement.
+**29.2.** Portions of Amazon Pinpoint and AWS End User Messaging in Singapore are sold and provided by AMCS SG PRIVATE LIMITED (“AMCS SG”), an affiliate of AWS, and not AWS, but are otherwise subject to the terms of the Agreement.
 
-**29.3.** Amazon Pinpoint utilizes underlying functionality from the Amazon Simple Notification Service (Amazon SNS) and Amazon Simple Email Service (SES), and your use of Amazon Pinpoint is subject to the terms that govern those Services.
+**29.3.** Amazon Pinpoint and AWS End User Messaging utilize underlying functionality from Amazon Simple Email Service (SES), and your use of Amazon Pinpoint and AWS End User Messaging is subject to the terms that govern Amazon Simple Email Service (SES).
 
-**29.4**. You acknowledge that Amazon Pinpoint:
+**29.4**. You acknowledge that Amazon Pinpoint and AWS End User Messaging:
 
-a. Is not an Integrated Public Alert and Warning System (IPAWS) eligible system.
+a. Are not Integrated Public Alert and Warning System (IPAWS) eligible systems.
 
-b. Is not intended for use in, or in association with, the operation of any hazardous environments or critical systems. You are solely responsible for liability that may arise in association with such use.
+b. Are not intended for use in, or in association with, the operation of any hazardous environments or critical systems. You are solely responsible for liability that may arise in association with such use.
 
-c. Does not support or carry emergency calling or messaging to any emergency services personnel or public safety answering points (“Emergency Services”), such as calls or texts to 911, and may not determine the physical location of your devices or your End Users, which may be required when contacting Emergency Services. You understand and agree that it is your responsibility to: (i) contact and access Emergency Services independently of Amazon Pinpoint and (ii) inform all End Users of these limitations.
+c. Do not support or carry emergency calling or messaging to any emergency services personnel or public safety answering points (“Emergency Services”), such as calls or texts to 911, and may not determine the physical location of your devices or your End Users, which may be required when contacting Emergency Services. You understand and agree that it is your responsibility to: (i) contact and access Emergency Services independently of Amazon Pinpoint and/or AWS End User Messaging; and (ii) inform all End Users of these limitations.
 
-d. Is not a replacement for traditional telephone or mobile phone services, including but not limited to calling, texting, or contacting Emergency Services, and does not function as such.  
+d. Are not replacements for traditional telephone or mobile phone services, including but not limited to calling, texting, or contacting Emergency Services, and do not function as such.
+
+**29.5.** Through your use of AWS End User Messaging you will not:
+
+* Offer or purport to offer any Emergency Services. “Emergency Services” means services that allow a user to connect with emergency services personnel or public safety answering points, such as 911 or E911 services.
+* If the applicable AWS Contracting Party is AWS India, “Emergency Services” shall mean services that allow a user to connect with emergency services personnel or public safety answering points, such as 100, 112 services.
+* Transmit material that is sexually explicit, relates to “adult services”, or contains sensitive financial or identifying information (such as social security numbers).
+* Resell, sublicense, or timeshare the Services, or use them on behalf of anonymous or other third parties
+
+**29.6.** From time to time, telecommunication providers may change or modify their rules, requirements, and policies (collectively “Carrier Policies”). We will make reasonable efforts to notify you of changes to Carrier Policies through, for example, email, Personal Health Dashboard notifications, or technical documentation. You are responsible for complying with all Carrier Policies that apply to your use of the Service.
+
+**29.7.** Fees for Amazon Pinpoint and AWS End User Messaging will apply regardless of whether delivery of your messages is prevented, delayed, or blocked due to reasons outside of our control.
+
+**29.8.** You are responsible for complying with legal requirements related to unsolicited or unwanted communications, including without limitation, the Telephone Consumer Protection Act (TCPA), the FTC’s Telemarketing Sales Rule, and the EU e-Privacy Directive, or any other similar telemarketing law.
+
+**29.9.** We may change, discontinue, or deprecate support for a third party push notification platform at any time. We will provide you with prior notice of any deprecation or discontinuation of support for a third party push notification platform where practicable under the circumstances.
+
+**29.10.** If the applicable AWS Contracting Party is AWS India, you must obtain our prior written consent before using AWS End User Messaging to send SMS messages for:
+
+* financial transactions or payment services (e.g., mobile banking, bill presentment, bill payment, money transfer, peer-to-peer payment or lending credit, debit or stored value payment services);
+* sweepstakes or contests; or
+* advertisements or promotions for commercial products, goods, or services.
 
 #### 30\. AWS Lambda
 
