@@ -1,6 +1,6 @@
-Your privacy is important. As of 27 June, we’ve updated our Privacy Policy to make it easier to read and include additional detail.
-
   
+
+===
 
 **Spotify Privacy Policy**
 ==========================
