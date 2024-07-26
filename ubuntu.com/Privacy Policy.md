@@ -306,8 +306,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[OpenStack](https://ubuntu.com/openstack) [OpenStack](#)
---------------------------------------------------------
+[OpenStack](https://ubuntu.com/openstack) [OpenStack](https://ubuntu.com/openstack)
+-----------------------------------------------------------------------------------
 
 * [What is OpenStack](https://ubuntu.com/openstack/what-is-openstack)
 * [Features](https://ubuntu.com/openstack/features)
@@ -318,8 +318,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[Ceph](https://ubuntu.com/ceph) [Ceph](#)
------------------------------------------
+[Ceph](https://ubuntu.com/ceph) [Ceph](https://ubuntu.com/ceph)
+---------------------------------------------------------------
 
 * [What is Ceph](https://ubuntu.com/ceph/what-is-ceph)
 * [Managed](https://ubuntu.com/ceph/managed)
@@ -329,8 +329,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[Kubernetes](https://ubuntu.com/kubernetes) [Kubernetes](#)
------------------------------------------------------------
+[Kubernetes](https://ubuntu.com/kubernetes) [Kubernetes](https://ubuntu.com/kubernetes)
+---------------------------------------------------------------------------------------
 
 * [What is Kubernetes](https://ubuntu.com/kubernetes/what-is-kubernetes)
 * [Charmed Kubernetes](https://ubuntu.com/kubernetes/charmed-k8s)
@@ -341,8 +341,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[Managed Services](https://ubuntu.com/managed) [Managed Services](#)
---------------------------------------------------------------------
+[Managed Services](https://ubuntu.com/managed) [Managed Services](https://ubuntu.com/managed)
+---------------------------------------------------------------------------------------------
 
 * [OpenStack](https://ubuntu.com/openstack/managed)
 * [Kubernetes](https://ubuntu.com/kubernetes/managed)
@@ -353,8 +353,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[AI / ML](https://ubuntu.com/ai) [AI / ML](#)
----------------------------------------------
+[AI / ML](https://ubuntu.com/ai) [AI / ML](https://ubuntu.com/ai)
+-----------------------------------------------------------------
 
 * [MLOps](https://ubuntu.com/ai/mlops)
 * [Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
@@ -363,8 +363,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[Robotics](https://ubuntu.com/robotics) [Robotics](#)
------------------------------------------------------
+[Robotics](https://ubuntu.com/robotics) [Robotics](https://ubuntu.com/robotics)
+-------------------------------------------------------------------------------
 
 * [What is ROS](https://ubuntu.com/robotics/what-is-ros)
 * [ROS ESM](https://ubuntu.com/robotics/ros-esm)
@@ -373,8 +373,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[IoT](https://ubuntu.com/internet-of-things) [IoT](#)
------------------------------------------------------
+[IoT](https://ubuntu.com/internet-of-things) [IoT](https://ubuntu.com/internet-of-things)
+-----------------------------------------------------------------------------------------
 
 * [App store](https://ubuntu.com/internet-of-things/appstore)
 * [Embedded Linux](https://ubuntu.com/embedded)
@@ -382,8 +382,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[Ubuntu Core](https://ubuntu.com/core) [Ubuntu Core](#)
--------------------------------------------------------
+[Ubuntu Core](https://ubuntu.com/core) [Ubuntu Core](https://ubuntu.com/core)
+-----------------------------------------------------------------------------
 
 * [Features](https://ubuntu.com/core/features)
 * [Success stories](https://ubuntu.com/core/stories)
@@ -392,8 +392,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[Ubuntu Desktop](https://ubuntu.com/desktop) [Ubuntu Desktop](#)
-----------------------------------------------------------------
+[Ubuntu Desktop](https://ubuntu.com/desktop) [Ubuntu Desktop](https://ubuntu.com/desktop)
+-----------------------------------------------------------------------------------------
 
 * [Organisations](https://ubuntu.com/desktop/organisations)
 * [Developers](https://ubuntu.com/desktop/developers)
@@ -402,16 +402,16 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[Ubuntu Server](https://ubuntu.com/server) [Ubuntu Server](#)
--------------------------------------------------------------
+[Ubuntu Server](https://ubuntu.com/server) [Ubuntu Server](https://ubuntu.com/server)
+-------------------------------------------------------------------------------------
 
 * [Hyperscale](https://ubuntu.com/server/hyperscale)
 * [Docs](https://ubuntu.com/server/docs)
 
 * * *
 
-[Cloud](https://ubuntu.com/cloud) [Cloud](#)
---------------------------------------------
+[Cloud](https://ubuntu.com/cloud) [Cloud](https://ubuntu.com/cloud)
+-------------------------------------------------------------------
 
 * [What is cloud computing](https://ubuntu.com/cloud/cloud-computing)
 * [What is private cloud](https://ubuntu.com/cloud/private-cloud)
@@ -421,8 +421,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[Security](https://ubuntu.com/security) [Security](#)
------------------------------------------------------
+[Security](https://ubuntu.com/security) [Security](https://ubuntu.com/security)
+-------------------------------------------------------------------------------
 
 * [ESM](https://ubuntu.com/security/esm)
 * [Livepatch](https://ubuntu.com/security/livepatch)
@@ -433,8 +433,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[Landscape](https://ubuntu.com/landscape) [Landscape](#)
---------------------------------------------------------
+[Landscape](https://ubuntu.com/landscape) [Landscape](https://ubuntu.com/landscape)
+-----------------------------------------------------------------------------------
 
 * [Features](https://ubuntu.com/landscape/features)
 * [Managed](https://ubuntu.com/landscape/managed)
@@ -445,8 +445,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[Containers](https://ubuntu.com/containers) [Containers](#)
------------------------------------------------------------
+[Containers](https://ubuntu.com/containers) [Containers](https://ubuntu.com/containers)
+---------------------------------------------------------------------------------------
 
 * [What are containers](https://ubuntu.com/containers/what-are-containers)
 * [Chiselled Ubuntu](https://ubuntu.com/containers/chiselled)
@@ -454,8 +454,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[Downloads](https://ubuntu.com/download) [Downloads](#)
--------------------------------------------------------
+[Downloads](https://ubuntu.com/download) [Downloads](https://ubuntu.com/download)
+---------------------------------------------------------------------------------
 
 * [Desktop](https://ubuntu.com/download/desktop)
 * [Server](https://ubuntu.com/download/server)
@@ -464,8 +464,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[Support](https://ubuntu.com/support) [Support](#)
---------------------------------------------------
+[Support](https://ubuntu.com/support) [Support](https://ubuntu.com/support)
+---------------------------------------------------------------------------
 
 * [Your subscriptions](https://ubuntu.com/pro/dashboard)
 * [Account users](https://ubuntu.com/pro/users)
@@ -474,16 +474,16 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-[Observability](https://ubuntu.com/observability) [Observability](#)
---------------------------------------------------------------------
+[Observability](https://ubuntu.com/observability) [Observability](https://ubuntu.com/observability)
+---------------------------------------------------------------------------------------------------
 
 * [What is observability](https://ubuntu.com/observability/what-is-observability)
 * [Managed](https://ubuntu.com/observability/managed)
 
 * * *
 
-[Pricing](https://ubuntu.com/pricing) [Pricing](#)
---------------------------------------------------
+[Pricing](https://ubuntu.com/pricing) [Pricing](https://ubuntu.com/pricing)
+---------------------------------------------------------------------------
 
 * [Consulting](https://ubuntu.com/pricing/consulting)
 * [Desktops](https://ubuntu.com/pricing/desktop)
