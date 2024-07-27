@@ -106,7 +106,7 @@ Other languages:
 * [ગુજરાતી](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gu "Policy:Privacy policy/gu (2% translated)")
 * [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ta "Policy:Privacy policy/ta (25% translated)")
 * [తెలుగు](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/te "Policy:Privacy policy/te (30% translated)")
-* [ತುಳು](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/tcy "Policy:Privacy policy/tcy (1% translated)")
+* [ತುಳು](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/tcy "Policy:Privacy policy/tcy (3% translated)")
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ml "Policy:Privacy policy/ml (26% translated)")
 * [සිංහල](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/si "Policy:Privacy policy/si (4% translated)")
 * [ไทย](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/th "Policy:Privacy policy/th (78% translated)")
@@ -125,7 +125,7 @@ Other languages:
 * [閩南語 / Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nan "Policy:Privacy policy/nan (0% translated)")
 * [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/syl "Policy:Privacy policy/syl (0% translated)")
 * [ꯃꯤꯇꯩ ꯂꯣꯟ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mni "Policy:Privacy policy/mni (4% translated)")
-* [한국어](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ko "Policy:Privacy policy/ko (96% translated)")
+* [한국어](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ko "Policy:Privacy policy/ko (100% translated)")
 
 **Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Privacy_Policy&filter=%21translated&action=page&language=).**
 
