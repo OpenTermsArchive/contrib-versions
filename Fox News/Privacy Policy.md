@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Last Updated/Effective Date: June 28, 2024_
+_Last Updated/Effective Date: July 1, 2024_
 
 Table of Contents:
 ------------------
@@ -38,7 +38,7 @@ Table of Contents:
     
     Other things you should know if you reside in California
     
-9. [**For Consumers in Virginia, Colorado, and Connecticut, and Other U.S. States With Similar Privacy Laws**](#other-states) 
+9. [**For Consumers in Virginia, Colorado, and Connecticut, and Other U.S. States With Similar Privacy Laws**](#other-states)
     
     Other things you should know if you are a consumer residing in Virginia, Colorado, Connecticut, or other states with similar privacy laws
     
@@ -276,7 +276,7 @@ To opt out, you can visit our "Your Privacy Choices" Internet Webpage for Fox Bu
 
 **(5) Right to be Free from Discrimination.** You have the right to be free from unlawful discrimination for exercising your rights under the CCPA.
 
-**(6) Record Keeping.** Please visit [www.foxnews.com/recordkeeping/](https://www.foxnews.com/recordkeeping/) for metrics regarding the requests we received during the previous calendar year for: Requests to Know, Requests to Delete, Requests for Correction, and Requests to Opt Out of "Sales" And "Sharing."
+**(6) Record Keeping.** Please visit [www.foxnews.com/recordkeeping/](https://www.foxnews.com/recordkeeping/) for metrics regarding the requests we received during the previous calendar year for: Requests to Know, Requests to Delete, Requests for Correction, and Requests to Opt Out of "Sales" and "Sharing."
 
  
 
@@ -334,7 +334,7 @@ Please note that, in some instances, we may decline to honor your request where,
 
 **(3) Right to Request Correction.** You have the right to request that we correct inaccurate Personal Data we collected from or about you.
 
-To make a request for correction of inaccurate Personal Data, please go to [https://fcprivacy.exterro.net/portal/dsar.htm?target=Fox\_News\_Network](https://fcprivacy.exterro.net/portal/dsar.htm?target=Fox_News_Network) or call us at 888-596-3929. You will need to provide your name, email address, and the Personal Data you would like to have corrected, along with other details about your request. You will then receive verification instructions by email. For certain requests, you will be asked to authenticate to your account as part of the verification process, if you have an account/profile with us. But you do not need to have an account/profile to submit a request. In some circumstances, we may need additional information from you to verify your identity or proceed with your request.
+To make a request for correction of inaccurate Personal Data, please go to [https://fcprivacy.exterro.net/portal/dsar.htm?target=Fox\_News\_Network](https://fcprivacy.exterro.net/portal/dsar.htm?target=Fox_News_Network) or call us at 888-596-3929. You will need to provide your name, email address, and the Personal Data you would like to be corrected, along with other details about your request. You will then receive verification instructions by email. For certain requests, you will be asked to authenticate to your account as part of the verification process, if you have an account/profile with us. But you do not need to have an account/profile to submit a request. In some circumstances, we may need additional information from you to verify your identity or proceed with your request.
 
 You can use an authorized agent to submit a request for correction of inaccurate Personal Data. When submitting a request online, your authorized agent should select the "Other" option on the form and, in the field provided, include your name, your email address, the Personal Data you would like to be corrected, and whether or not you have an account/profile with us. In addition to verifying your identity, as described above, we also will need to verify your authorized agent’s ability to act on your behalf (e.g., by receiving a copy of your signed permission). Once verification is complete, we may communicate directly with you /for privacy and security reasons.
 
