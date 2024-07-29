@@ -45,7 +45,7 @@
     * [Technical Diagramming](https://miro.com/technical-diagramming/)
     * [Whiteboarding](https://miro.com/whiteboard/)
     * [Wireframing](https://miro.com/wireframe/)
-    * [Agile development](https://miro.com/agile/)
+    * [Agile Development](https://miro.com/agile/)
     * [Process Mapping](https://miro.com/process-mapping/)
     * [Customer Journey Mapping](https://miro.com/customer-journey-map/)
     * [Strategy & Planning](https://miro.com/strategic-planning/)
