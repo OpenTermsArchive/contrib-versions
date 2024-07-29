@@ -752,14 +752,14 @@ Any video whose access has been restricted will not be monetized or recommended 
 **APPENDIX B – Data Protection Annex**
 --------------------------------------
 
-_Last Update of this DPA: May 24, 2024._
+_Last Update of this DPA: July 29, 2024._
 
 ###   
 **PREAMBLE**
 
-When You make available Content on the Dailymotion Service, Your Content may include personal data of **third-parties** (e.g. images, voice recordings, names, etc.) (hereafter “**Third-Party Personal Data**”). The Processing of such Third-Party Personal Data is governed by the Applicable Data Protection Laws, as defined below.
+When You make available Content on the Dailymotion Service, Your Content may include personal data of **third-parties** (e.g. images, voice recordings, names, etc.) (hereafter “**Third-Party Personal Data**”). The Processing of such Third-Party Personal Data is governed by the Applicable Data Protection Laws, as defined below. It is explicitly confirmed that nothing in the present DPA shall be interpreted as extending the scope of any of the Applicable Data Protection Laws and that the present DPA applies only to the extent necessary to ensure compliance with each of the Applicable Data Protection Laws.
 
-Since You control the Content You make available on the Dailymotion Service, You alone determine the purposes and means of the Processing of Third Party Personal Data that may be included therein.
+Since You control the Content You make available on the Dailymotion Service, You alone determine the purposes and means of the Processing of Third-Party Personal Data that may be included therein.
 
 The present Appendix (“DPA”) is applicable to the Processing of Third Party Personal Data included in Your Content, per which:
 
@@ -768,7 +768,7 @@ The present Appendix (“DPA”) is applicable to the Processing of Third Party 
 
 Note that if you act on behalf of a third party Data Controller, you are a Data Processor and Dailymotion is Your Sub-Processor.
 
-We remind you that as a Data Controller, it is Your responsibility to establish the existence of a legal basis applicable to the Processing of Third Party Personal Data incorporated in your Content, be it consent, legitimate interest, contract, or another legally recognized legal basis. **In the absence of such valid legal basis, making available on our Service any Content that incorporates Third Party Personal Data constitutes an infringement of our Prohibited Content Policy** (Appendix A).
+We remind you that as a Data Controller, it is Your responsibility to establish the existence of a legal basis applicable to the Processing of Third-Party Personal Data incorporated in your Content, be it consent, legitimate interest, contract, or another legally recognized legal basis. **In the absence of such valid legal basis, making available on our Service any Content that incorporates Third-Party Personal Data constitutes an infringement of our Prohibited Content Policy** (Appendix A).
 
 In using the Dailymotion Service, You accept the DPA as binding on You, and acknowledge that it applies to the Processing of Third-Party Personal Data by Dailymotion as Your Data Processor in relation to the Content that You make available on our Service. If You do not agree with the terms of this DPA, then do not upload, post or otherwise make available Content on the Dailymotion Service.
 
@@ -781,7 +781,7 @@ You and Dailymotion may be individually referred to herein as “**Party**” or
 
 You are the Data Controller of the Third-Party Personal Data that may be incorporated into Your Content. In this capacity, You retain full control over such Third-Party Personal Data. By uploading Your Content on our Service, and using the available Content management features, You (acting as Data Controller) instruct Dailymotion (acting in its capacity as Data Processor) to process the Third-Party Personal Data by hosting the Content and providing to You with content management and communication tools.
 
-If You act on behalf of a different Data Controller, You are a Data Processor and Dailymotion is a Sub-Processor. In such case, any references to Data Controller and Data Processor in this DPA shall be updated accordingly.
+If You act on behalf of a different Data Controller, You are a Data Processor and Dailymotion is a Sub-Processor. In such a case, any references to Data Controller and Data Processor in this DPA shall be updated accordingly.
 
 ###   
 **2\. Definitions**
@@ -802,14 +802,14 @@ In this DPA, capitalized terms and phrases have the meanings indicated below, 
 
 “**Supervisory Authority**” means the independent public authority responsible for monitoring the application of Applicable Data Protection Laws in each applicable country in order to protect the fundamental rights and freedoms of natural persons with respect to data Processing and to facilitate the free flow of data within the applicable country. In France, the competent supervisory authority is the “_Commission Nationale de l’Informatique et des Libertés_” (CNIL).
 
-**“Third Countries**” means (a) for the purpose of application of the EU Data Protection Law: a country which: (i) is not part of the European Economic Area (“**EEA**”); and (ii) is not subject of a formal adequacy decision of the European Commission (“**EC**”) taken in accordance with Art. 25 (6) of Directive 95/46/EC of the European Parliament and the Council of the European Union or Art. 45 (3) of GDPR, recognizing that the country ensures an adequate level of protection of Personal Data; and (iii) is not subject to a formal [Swiss adequacy decision](https://www.edoeb.admin.ch/edoeb/en/home/data-protection/handel-und-wirtschaft/transborder-data-flows.html), and (iv) is not subject to [UK adequacy decision](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-transfers-after-uk-exit/#adequacy), and b) for the purpose of application of the LGPD: a country outside of Brazil and not considered as providing adequate protection.
+**“Third Countries**” means (a) for the purpose of application of the EU Data Protection Law: a country which: (i) is not part of the European Economic Area (“**EEA**”); and (ii) is not subject of a formal adequacy decision of the European Commission (“**EC**”) taken in accordance with Art. 25 (6) of Directive 95/46/EC of the European Parliament and the Council of the European Union or Art. 45 (3) of GDPR, recognizing that the country ensures an adequate level of protection of Personal Data; and (iii) is not subject to a formal [Swiss adequacy decision](https://www.edoeb.admin.ch/edoeb/en/home/data-protection/handel-und-wirtschaft/transborder-data-flows.html), and (iv) is not subject to [UK adequacy decision](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-transfers-after-uk-exit/#adequacy), and b) for the purpose of application of the LGPD: a country outside of Brazil and not considered as providing adequate protection.When Personal Data is transferred to the US, and during the validity of the DPF under the applicable EC adequacy decision, the term “Third Country” refers to transfers to entities that do not participate in the Data Privacy Framework (“**DPF**”).
 
 “**UK Addendum**” means the terms complementing the 2021 SCCs as adapted under the UK GDPR and available [here](https://ico.org.uk/media/for-organisations/documents/4019539/international-data-transfer-addendum.pdf).
 
 ###   
 **3\. Characteristics of the Processing**
 
-You confirm and warrant that confining to us Processing of Third Party Personal Data included in Your Content is in compliance with the Applicable Data Protection Laws, and, in particular, that You (or the Data Controller You act on behalf of) have established a valid legal basis therefor (ex. consent, contract, legitimate interest, etc.). If You use our Service as a Data Processor of a third party Data Controller, You also confirm and warrant that confining to us Processing of that Third Party Personal Data is in compliance with the instructions You receive from the Data Controller.
+You confirm and warrant that confining to us Processing of Third-Party Personal Data included in Your Content is in compliance with the Applicable Data Protection Laws, and, in particular, that You (or the Data Controller You act on behalf of) have established a valid legal basis therefor (ex. consent, contract, legitimate interest, etc.). If You use our Service as a Data Processor of a third party Data Controller, You also confirm and warrant that confining to us Processing of that Third-Party Personal Data is in compliance with the instructions You receive from the Data Controller.
 
 You authorize and instruct Dailymotion to proceed with the Processing of the Third-Party Personal Data on Your behalf to the extent necessary to provide the Processing Services (as defined below) and pursuant to the conditions established in the DPA or as otherwise authorized under the Applicable Data Protection Laws.
 
@@ -824,15 +824,15 @@ Furthermore, each Party undertakes to comply with all legal obligations imposed 
 
 As a User of the Dailymotion Service, You make Content available on the Dailymotion Service, and such Content may incorporate Third-Party Personal Data.
 
-Dailymotion processes Third Party Personal Data in order to enable You to use the Dailymotion Service and, in particular, store and communicate Your Content using our Service features.
+Dailymotion processes Third-Party Personal Data in order to enable You to use the Dailymotion Service and, in particular, store and communicate Your Content using our Service features.
 
 By uploading Content onto the Dailymotion Service, You may use the Dailymotion Service’s technical features for the following purposes:
 
-* Storing Your Content, and consequently Third Party Personal Data that may be incorporated within Your Content, on the Dailymotion Service;
-* Making Your Content (and any associated Third Party Personal Data) available to the public;
-* Managing the availability to the public of the Third Party Personal Data incorporated in Your Content, by using the content management tools available on our Service (ex. deciding to place the Content under public or private mode) and Service features (ex. content recommendation, content-categorization, etc.).
+* Storing Your Content, and consequently Third-Party Personal Data that may be incorporated within Your Content, on the Dailymotion Service;
+* Making Your Content (and any associated Third-Party Personal Data) available to the public;
+* Managing the availability to the public of the Third-Party Personal Data incorporated in Your Content, by using the content management tools available on our Service (ex. deciding to place the Content under public or private mode) and Service features (ex. content recommendation, content-categorization, etc.).
 
-Dailymotion does not collect Third Party Personal Data nor has any prior knowledge of the presence of Third-Party Personal Data within Your Content.
+Dailymotion does not collect Third-Party Personal Data nor has any prior knowledge of the presence of Third-Party Personal Data within Your Content.
 
 ##### **3.1.b. Description of the Processing Services** – Your Instructions
 
@@ -846,7 +846,7 @@ Dailymotion shall process the Third-Party Personal Data in compliance with the A
 
 #### **3.2. Duration of the Processing**
 
-The Processing of Third-Party Personal Data is undertaken on a continuous basis and will last until Your Content is removed for any reason whatsoever from the Dailymotion Service (ex. closure of Your Account, deletion of Your Content by You, or deletion of Your Content by Dailymotion pursuant to the present Terms). Note that despite the removal (i.e. unavailability of Your Content) for technical reasons related to the Dailymotion Service the video files and/or metadata associated with Your Content may remain in our systems. Longer retention periods of Your Content or specific elements (ex. metadata) may be applied if required or authorized under applicable laws or if necessary to establish, exercise or defend legal claims.
+The Processing of Third-Party Personal Data is undertaken on a continuous basis and will last until Your Content is removed for any reason whatsoever from the Dailymotion Service (ex. closure of Your Account, deletion of Your Content by You, or deletion of Your Content by Dailymotion pursuant to the present Terms). Note that despite the removal (i.e. unavailability of Your Content) for technical reasons related to the Dailymotion Service the video files and/or metadata associated with Your Content may remain in our systems for up to 1 month. Longer retention periods of Your Content or of its specific elements (ex. metadata) may be applied if required or authorized under applicable laws (ex. Content removed following a moderation decision is retained or a period of 12 months) and, in particular, if necessary to establish, exercise or defend legal claims.
 
 ####   
 **3.3. Categories of Data Subjects**
@@ -888,7 +888,7 @@ In addition, the main **technical measures** currently implemented by Dailymot
 * peer-to-peer code review (development methodology),
 * periodic security audits (architecture, configuration, code, intrusion tests, etc.).
 
-In the event of a Third-Party Personal Data Breach (as defined in the GDPR) of which Dailymotion is aware, Dailymotion commits itself to notify You of this Third-Party Personal Data Breach as soon as possible either at the email address associated with Your Dailymotion Account (or any other email address communicated to Dailymotion by You for this purpose) or through any other appropriate means (ex. banner notification visible from Your Dailymotion Account). Dailymotion will cooperate with You, should You choose to notify the Supervisory Authority or an affected Data Subject of the Third-Party Personal Data Breach. Please note that the competent Supervisory Authority under this DPA is the CNIL.
+In the event of a Third-Party Personal Data Breach (as defined in the GDPR) of which Dailymotion is aware, Dailymotion commits itself to notify You of this Third-Party Personal Data Breach as soon as possible either at the email address associated with Your Dailymotion Account (or any other email address communicated to Dailymotion by You for this purpose) or through any other appropriate means (ex. banner notification visible from Your Dailymotion Account). Dailymotion will cooperate with You, should You choose to notify the Supervisory Authority or an affected Data Subjects of the Third-Party Personal Data Breach. Please note that the competent Supervisory Authority under this DPA is the CNIL.
 
 Furthermore, Dailymotion undertakes to provide You with all reasonable assistance in order to help You in respecting Your obligations regarding the security of the Third-Party Personal Data. You understand and agree that the reasonable costs of our assistance, if any, will be at Your expense.
 
@@ -897,7 +897,7 @@ Furthermore, Dailymotion undertakes to provide You with all reasonable assistanc
 
 #### **5.1. General Information**
 
-You authorize Dailymotion to use the services of any Sub-Processor listed in Section 5.2. below. Dailymotion is committed to communicate any information related to a new Sub-Processor by updating these Terms or by other reasonable means of communication (ex. making such list available elsewhere on the Dailymotion website). Dailymotion’s contracts with its Sub-Processors shall contain commitments at least as strict as those provided for in this DPA. If You object to a Sub-Processor, You can, at any time, terminate the Processing by deleting Your Content from our Service and/or ceasing the use of our Service. Continuous ongoing use of our Service indicates your acceptance of a new Sub-Processor.
+You authorize Dailymotion to use the services of any Sub-Processor listed in Section 5.2. below. Dailymotion is committed to communicate any information related to a new Sub-Processor by updating these Terms or by other reasonable means of communication (ex. making such list available on the Dailymotion website). Dailymotion’s contracts with its Sub-Processors shall contain commitments at least as strict as those provided for in this DPA. If You object to a Sub-Processor, You can, at any time, terminate the Processing by deleting Your Content from our Service and/or ceasing the use of our Service. Continuous ongoing use of our Service indicates your acceptance of a new Sub-Processor.
 
 ####   
 **5.2. List of Current Sub-Processors**
@@ -908,32 +908,68 @@ A list of Dailymotion’s Sub-Processors is accessible [here](https://legal.dail
 
 ### **6\. Data Subjects Rights**
 
-As a Data Controller, it is Your responsibility to respond to inform the Data Subjects about the details of the Processing operations and to respond to their requests relating to the exercise of their privacy rights under the Applicable Data Protection Laws.
+As a Data Controller, it is Your responsibility to inform Data Subjects about the details of the Processing operations and to respond to their requests relating to the exercise of privacy rights (such as: right to information, access, rectification,  erasure, restriction of processing, objection and portability) they benefit from under the Applicable Data Protection Laws (“**Data Subject Request**”).
 
-In this regard, Dailymotion shall:
+In this regard:
 
-* Communicate to You, as soon as possible, any request received from or on behalf of Data Subjects to exercise their rights (for deletion, correction, communication, access to the Third-Party Personal Data or limitation of its Processing) except where such communication is prohibited by the competent authorities; and
-* Assist You, by all appropriate and reasonable measures, in fulfilling Your obligation to comply with the requests of Data Subjects. Note that Dailymotion reserves the right to charge You for all reasonable costs and expenses related to assisting You with such requests.
+* Dailymotion shall:
 
-Further, in this regard, You agree that:
+– Communicate to You, as soon as possible, any Data Subject Request received by us (except where such communication is prohibited by the competent authorities); and
 
-* Dailymotion will communicate with You using the email address associated with Your Dailymotion Account and/or another email address communicated therefore to Dailymotion’s DPO;
-* Dailymotion may share this email address and/or any other contact information provided within Your account (ex. the postal address) with the Data Subjects as the contact address of the Data Controller. Should You wish to designate any contact information different from what is recorded in Your Dailymotion Account, You should do so by contacting Dailymotion’s DPO;
-* You shall respond to requests from Data Subjects within the timeframes set forth in the Applicable Data Protection Laws;
-* You shall notify Dailymotion of Your response to each of the Data Subjects requests including, if applicable, whether You invoked an extension of the time to respond. In the absence of such notification from You within the timelines prescribed by the Applicable Data Protection Laws, You authorize Dailymotion to proceed with the removal of Your Content from the Dailymotion Service. In the event that the Data Subjects claims that Your Content contains sensitive and/or special Third-Party Personal Data (as defined under the Applicable Data Protection Laws) or that of a minor, You authorize Dailymotion to immediately disable access to Your Content pending Your response. Note that this process is separate and in addition to any other content removal process described under the Terms (ex. removal of Your Content because it violates copyright law).
+– Assist You, by all appropriate and reasonable measures, in fulfilling Your obligation to comply with the Data Subject Requests. Note that Dailymotion reserves the right to charge You for all reasonable costs and expenses related to assisting You with such requests.
+
+* You hereby instruct Dailymotion, acing on Your behalf, to:
+
+– Receive Data Subject Requests;
+
+– Proceed with the verification of whether a received request is a valid Data Subject Request under the Applicable Data Protection Laws, and in particular:
+
+– proceed with the reasonable verification of requestors’ identity; including, when necessary, through the verification of their IDs;
+
+– request from Data Subjects any addition information or documents reasonably necessary for that verification;
+
+– Not to reply to Data Subject Requests on Your behalf other than by informing Data Subjects about the applicable procedures and, in particular, You being the Data Controller responsible for answering Data Subject Requests and Dailymotion being Your Data Processor whose role is limited to that of an intermediary between a requestor (i.e. a Data Subject) and You (i.e. the Data Controller);
+
+– Transfer Your replies to Data Subjects and receive their communication addressed to You and that, in particular, when Data Subjects do not wish to provide their contact details to You.
+
+* You shall:
+
+– respond to Data Subject Requests within the timeframes set forth in the Applicable Data Protection Laws;
+
+– notify Dailymotion of Your response to each Data Subject Request including, if applicable, when You invoke an extension of the time to respond;
+
+– not use any information transmitted by Dailymotion for purposes other than replying to Data Subject Requests and for a period longer than justified by that purpose or otherwise authorized by Applicable Data Protection Laws. In particular, if applicable, You shall proceed with destruction of any copies of communicated Data Subjects’ IDs upon completion of the verification of Data Subjects’ identity.
+
+* You agree that:
+
+– Dailymotion will communicate with You using the email address associated with Your Dailymotion Account and/or any other email address communicated therefor to the Dailymotion’s DPO;
+
+– Dailymotion may share Your email address and/or any other contact information provided within Your Account (ex. the postal address) or otherwise accessible to us (ex. the url of Your website) with the Data Subjects as a Data Controller’s contact address. Should You wish to designate any contact information different from what is recorded in Your Dailymotion Account, You should do so by contacting the Dailymotion’s DPO;
+
+– Dailymotion will proceed, on Your behalf, with the reasonable verification of Data Subjects’ identity, including, when necessary, through verification of Data Subjects’ IDs;
+
+– You will not challenge the results of Data Subject identity verification undertaken by Dailymotion and, in particular, You will not ask for copies of Data Subjects’ IDs, unless needed for a valid and documented reason complying with the data minimization and data security principles;
+
+– Data Subjects may refuse to communicate their direct contact details to You, in which case You agree to us acting as an intermediary for the purpose of Your communication with Data Subjects.  
+
+In the absence of a timely notification from You informing us about your reply to Data Subject Request, You authorize Dailymotion to proceed with the removal of Your Content from the Dailymotion Service.  
+
+In the event that a Data Subject claims that Your Content contains sensitive and/or special Third-Party Personal Data (as defined under the Applicable Data Protection Laws) or that of a minor, You authorize Dailymotion to immediately disable access to Your Content pending Your response to the Data Subject Request.  
+
+Note that process applicable to Data Subjects Requests is separate and in addition to any other content removal process described under the Terms (ex. removal of Your Content because it violates copyright law).
 
 ### **7\. Your Representations and Warranties**
 
 You represent and warrant to Dailymotion that:
 
 * You have obtained and will maintain for the duration of Your use of the Dailymotion Service all rights and authorizations necessary to allow us to provide You with the Processing Services including, when applicable, Data Subjects’ consent;
-* All instructions You transmit to Dailymotion regarding the Processing of Third-Party Personal Data, as described under Section 3.1. are in conformity with the Applicable Data Protection Laws and, if You act in capacity of a Data Processor for another Data Controller, are compatible with any instructions You have received from such Data Controller. In particular, You warrant that You have been authorized to designate us as a Data Sub-Processor;
+* all instructions You transmit to Dailymotion regarding the Processing of Third-Party Personal Data, as described in the present DPA and, in particular, in its Section 3.1. are in conformity with the Applicable Data Protection Laws and, if You act in capacity of a Data Processor for another Data Controller, are compatible with any instructions You have received from such Data Controller. In particular, You warrant that You have been authorized to designate us as a Data Sub-Processor;
 * the Third-Party Personal Data has been collected and is processed in compliance with the Applicable Data Protection Law;
 * You have obtained the consent of the Data Subjects or have established an alternative legal basis for the collection and Processing of the said Third-Party Personal Data and You undertake to produce evidence of such consent or legal basis upon a request from Dailymotion, the Data Subjects and/or competent authorities.
 
-To that end, You undertake to defend and indemnify Dailymotion against any and all claims, fees, fines, or other expenses incurred in relation to the availability on our Service of Your Content integrating Third-Party Personal Data.
+To that end, You undertake to defend and indemnify Dailymotion against any and all claims, costs, fines, reasonable attorney fees, or other expenses incurred in relation to the availability on our Service of Your Content integrating Third-Party Personal Data.
 
-### **8\. Requests**
+### **8\. Audits and Public Authorities Requests**
 
 #### 8.1 Audit Requests
 
@@ -949,9 +985,9 @@ Furthermore, You agree that if during the twenty-four (24) months preceding Your
 
 #### 8.2 Public Authorities Requests
 
-In its role as a Data Processor, Dailymotion shall maintain appropriate measures to protect Third Party Personal Data in accordance with the requirements of applicable data protection Laws and regulations, including by implementing appropriate technical and organizational safeguards to protect Third Party Personal Data against any interference that goes beyond what is necessary in a democratic society to safeguard national security, defense and public security.
+In its role as a Data Processor, Dailymotion shall maintain appropriate measures to protect Third-Party Personal Data in accordance with the requirements of applicable data protection Laws and regulations, including by implementing appropriate technical and organizational safeguards to protect Third-Party Personal Data against any interference that goes beyond what is necessary in a democratic society to safeguard national security, defense and public security.
 
-If Dailymotion receives a legally binding request to provide Third Party Personal Data to a Public Authority, Dailymotion shall, unless otherwise legally prohibited, promptly notify You and provide You with a summary of the nature of the request. Dailymotion may challenge the request if, after careful assessment, it concludes that there are reasonable grounds to consider that the request is unlawful, and may pursue possibilities of appeal and/or seek interim measures with a view to suspending the effects of the request until the competent judicial authority had decided on its merits. It shall not disclose the Third Party Personal Data requested until required to do so under the applicable procedural rules. Dailymotion agrees it will provide the minimum amount of information permissible when responding to a request for disclosure, based on a reasonable interpretation of the request. For the avoidance of doubt, this DPA shall not require Dailymotion to pursue action or inaction that could result in civil or criminal penalty for Dailymotion such as contempt of court.
+If Dailymotion receives a legally binding request to provide Third-Party Personal Data to a Public Authority, Dailymotion shall, unless otherwise legally prohibited, promptly notify You and provide You with a summary of the nature of the request. Dailymotion may challenge the request if, after careful assessment, it concludes that there are reasonable grounds to consider that the request is unlawful and may pursue possibilities of appeal and/or seek interim measures with a view to suspending the effects of the request until the competent judicial authority had decided on its merits. It shall not disclose the Third-Party Personal Data requested until required to do so under the applicable procedural rules. Dailymotion agrees it will provide the minimum amount of information permissible when responding to a request for disclosure, based on a reasonable interpretation of the request. For the avoidance of doubt, this DPA shall not require Dailymotion to pursue action or inaction that could result in civil or criminal penalty for Dailymotion such as contempt of court.
 
 ###   
 **9\. Transfers of **Third-Party Personal Data****
@@ -960,21 +996,23 @@ If Dailymotion receives a legally binding request to provide Third Party Persona
 
 * **Operation of the Dailymotion Servic**e:
 
-Dailymotion Service is operated by companies belonging to the Dailymotion group, some of which are located outside the EEA. When your Content includes Third-Party Personal Data, non-EEA Dailymotion entities may process such Personal Data outside the EEA, namely in the USA, Singapore or other territories they operate from. Ex. if Your video containing Third Party Personal data is available in the USA, it is Dailymotion Inc’s USA-based content moderation team that will analyze it if it receives a notification of it possibly infringing caracter.
+Dailymotion Service is operated by companies belonging to the Dailymotion group, some of which are located outside the EEA. When your Content includes Third-Party Personal Data, non-EEA Dailymotion entities may process such Personal Data outside the EEA, namely in the USA, Singapore or other territories they operate from. In particular, if Your video containing Third Party Personal data is available in the USA, it is Dailymotion Inc’s USA-based content moderation team that will analyze it if it receives a notification of it allegedly infringing character.
+
+Note that Dailymotion Inc. participates in the Data Privacy Framework. Any transfer of Third-Party Personal Data to Dailymotion Inc. relies on that DPF participation. In the event of either, Dailymotion’s Inc. discontinuing its DPF participation or invalidation of the DPF, any such transfer shall rely on the 2021 SCC, as further detailed hereinbelow.
 
 * **Storage and Content Delivery**:
     
-    * **Comments**: depending on the territory you access the Dailymotion Service from, You may have a possibility to comment Content available on our Service. Your Comments are stored in the USA on servers used by our service provider assisting us in operating the comment feature. Consequently, if your comments contain Third Party Personal Data, that data is transferred to the USA.
+    * **Comments**: o depending on the territory you access the Dailymotion Service from, You may have a possibility to comment Content available on our Service. In addition to them being stored in the EEA Your Comments may be stored in the USA on servers used by our service provider assisting us in operating the comment feature. Consequently, if your Comments contain Third-Party Personal Data, that data is transferred to the USA.
     
-    * **Other Content**: Dailymotion stores Content (other than comments) in the EEA either directly (on servers owned by Dailymotion) or through intermediary of its services providers (cloud-storage service providers). If You decide to render Your video Content available outside of the EEA, for technical reasons inherent to video delivery technology, a temporary cache copies of extracts of Your video Content may also be stored outside of EEA. A cache copy is created on servers close to a viewer. Its creation is inherent to the video delivery technology and serves to reduce the latency, i.e. enables a viewer to see a video faster by shortening the time between the request to see a video and the appearance of that video on the viewer’s screen. When Your Content includes Third-Party Personal Data, creation of a cache copy on non-EEA servers results in a transfer of such Personal Data outside the EEA.
+    * **Other Content**: o Dailymotion stores Content (other than Comments) in the EEA either directly (on servers owned by Dailymotion) or through intermediary of its services providers (cloud-storage service providers). If You decide to render Your video Content available outside of the EEA, for technical reasons inherent to video-delivery technology, a temporary cache copies of extracts of Your video Content may also be stored outside of the EEA. A cache copy is created on servers close to a viewer. Its creation is inherent to video-delivery technology and serves to reduce the latency, i.e. enables a viewer to see a video faster by shortening the time between the request to see a video and the appearance of that video on the viewer’s screen. When Your Content includes Third-Party Personal Data, creation of cache copies of extracts of Your Content on non-EEA servers may result in a transfer of such Personal Data outside the EEA (if the actual copies of extracts contain Third-Party Personal Data).
 * **Service Features**: Dailymotion Service enables various Content related features, ex. statistics, customer support, content search or recommendation. The data thus processed is stored on servers owned by Dailymotion and by our services providers (ex. cloud-storage service providers) listed in clause 5.2. above, and is analyzed using Dailymotion’s and our service providers’ tools. When Your Content includes Third-Party Personal Data, use of Content related features may result in transfer of such Personal Data outside the EEA. For example, if the title of Your Video that You rendered available in the USA includes somebody’s else name, the content search tool using USA-based resources will process that Personal Data.  
     
 
-#### 9.2. Legal Tools Applicable to the Transfer of Third Party Personal Data
+#### 9.2. Legal Tools Applicable to the Transfer of Third-Party Personal Data
 
-##### 9.2.1. Transfer of Third Party Personal Data from You to Dailymotion
+##### 9.2.1. Transfer of Third-Party Personal Data from You to Dailymotion
 
-To the extent our provision of the Processing Services to You results in the transfer of the Third Party Personal Data incorporated in Your Content from the European Economic Area, United Kingdom or Switzerland to a Third Country, the 2021 SCC, as complemented below, shall be applicable to such transfer.
+To the extent our provision of the Processing Services to You results in the transfer of the Third-Party Personal Data incorporated in Your Content from the European Economic Area, United Kingdom or Switzerland to a Third Country, the 2021 SCC, as complemented below, shall be applicable to such transfer.
 
 It is agreed by the Parties that the 2021 SCC are complemented as follows:
 
@@ -1019,22 +1057,24 @@ For transfers from the EEA:
 
 The acceptance of  the Terms constitutes mutual acceptance and  signature of the 2021 SCC, incorporated in the present DPA,  and their annexes.
 
-##### 9.2.2. Transfer of Third Party Personal Data from Dailymotion to Sub-Processors
+##### 9.2.2. Transfer of Third-Party Personal Data from Dailymotion to Sub-Processors
 
-In the event that Dailymotion transfers Third-Party Personal Data to a Third Country through a third-party Sub-Processor, Dailymotion will ensure that such transfer takes place only in the presence of legally adequate safeguards such as, for example, integration of the 2021 SCC within contracts concluded with such Sub-Processors, obtaining a commitment from such Sub-Processors to enter into 2021 SCC with their own Sub-Processors (if any), or, when the Personal Data is transferred to the USA, participation of the data importer in the “Data Privacy Framework” or any replacement thereof.
+In the event that Dailymotion transfers Third-Party Personal Data to a Third Country through a third-party Sub-Processor, Dailymotion will ensure that such transfer takes place only in the presence of legally adequate safeguards such as, for example, integration of the 2021 SCC within contracts concluded with such Sub-Processors, obtaining a commitment from such Sub-Processors to enter into 2021 SCC with their own Sub-Processors (if any).
+
+When the Personal Data is transferred from the EEA, the UK or Switzerland to an US data importer participating in the “Data Privacy Framework” (or any replacement thereof.) such transfer relies on that data importer’s participation in the DPF.
 
 ##### 9.2.3. Transfer Assessment
 
-As of the last update of the Terms, Dailymotion has conducted an assessment of the applicable laws and regulations or practices of the Third Countries of destination where the Processing of Third Party Personal Data may occur.
+As of the last update of the Terms, Dailymotion has conducted an assessment of the applicable laws and regulations or practices of the Third Countries of destination where the Processing of Third-Party Personal Data may occur.
 
 Dailymotion is designed as a video-sharing platform, meaning that the videos which may contain Third Party Personal Data are public by default, and therefore accessible to anyone.
 
 Taking into account the categories of Third-Party Personal Data and the purposes Dailymotion process that Data on Your behalf, Dailymotion has no reason to believe that the laws and practices in any Third Country of destination applicable to the Processing of Third Party Personal Data, including any requirements to disclose Third Party Personal Data or measures authorizing access by a Public Authority (e.g. a government agency, or law enforcement authority, including judicial authorities), prevent Dailymotion from fulfilling its obligations under this DPA. However, if Dailymotion reasonably believes that any existing or future enacted or enforceable laws and practices in a Third Country of destination applicable to the Processing prevent it from fulfilling its obligations under this DPA and may represent a threat to Third Party Personal Data’s security and integrity, it shall promptly notify its Users, including You, and it will use reasonable efforts to make available to the affected Users a change in the Services. If Dailymotion is unable to make available such change, You may remove Your Content at any time from the Dailymotion Service.
 
-As such, Dailymotion has determined that the risks of infringing such Third Party’s  privacy associated to such transfer to a Third Country is limited and consequently, that the existing measures in place shall be sufficient to ensure the efficiency of the protection of the rights of the data subjects whose  Third Party Personal Data is related to.
+As such, Dailymotion has determined that the risks of infringing such Third-Party’s  privacy associated to such transfer to a Third Country is limited and consequently, that the existing measures in place shall be sufficient to ensure the efficiency of the protection of the rights of the data subjects whose  Third Party Personal Data is related to.
 
 ###   
 **10\. DPO – Identity and Contact Details**
 
-* **Dailymotion’s Contact Info:** Contact email [here](mailto:feedback@dailymotion.com).
-* **Your Identity Contact Info:** the email address associated with Your Dailymotion Account, or, if applicable, the email address communicated in compliance with Section 6 of this DPA.
+* **Dailymotion’s Contact Information:** Contact email [here](mailto:feedback@dailymotion.com).
+* **Your Identity Contact Information:** the email address associated with Your Dailymotion Account, or, if applicable, the email address communicated in compliance with Section 6 of this DPA.
