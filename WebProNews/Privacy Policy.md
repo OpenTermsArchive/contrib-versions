@@ -184,6 +184,8 @@ Browse Categories
 
 Request Media Kit
 
+\[forminator\_form id="522797"\]
+
 Privacy Policy
 ==============
 
@@ -221,6 +223,8 @@ Advertise with Us
 #### Ready to get started?
 
 Get our media kit
+
+\[forminator\_form id="522797"\]
 
 About Us
 
