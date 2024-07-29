@@ -253,4 +253,6 @@ THIS AGREEMENT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE
 
 [Schedule 3: UBIQUITI PAYMENT GATEWAY](https://www.ui.com/legal/payment-gateway-legal/)
 
+[Schedule 4: ENHANCED THREAT UPDATES](https://www.ui.com/legal/enhanced-threat-updates/)
+
 Copyright © 2024 Ubiquiti Inc. All rights reserved.
