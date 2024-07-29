@@ -36,7 +36,7 @@ If Outbrain does not satisfactorily answer your questions or concerns, you may a
 ---------------------------
 
 * We adhere to the Self-Regulatory Principles set forth by the [Digital Advertising Alliance](http://digitaladvertisingalliance.org/) (DAA) and the [European Interactive Digital Advertising Alliance](https://www.edaa.eu/) (EDAA);
-* We are members in good standing of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI), an association dedicated to responsible data collection and its use for digital advertising. We also adhere to the NAI Code of Conduct for Web and Mobile. Outbrain also adheres to the Interactive Advertising Bureau’s (IAB) Self-Regulatory Principles for Online Behavioral Advertising, and the IAB Europe OBA Framework; and
+* We are members in good standing of the [Network Advertising Initiative](https://www.networkadvertising.org/) (NAI), an association dedicated to responsible data collection and its use for digital advertising as well as the [Digital Advertising Alliance of Canada](https://youradchoices.ca/en/tools) (DAAC) AdChoices Program. We also adhere to the NAI Code of Conduct for Web and Mobile. Outbrain also adheres to the Interactive Advertising Bureau’s (IAB) Self-Regulatory Principles for Online Behavioral Advertising, and the IAB Europe OBA Framework; and
 * We are also TAG Brand Safety Certified [here](https://tag-members-prod.herokuapp.com/registry/lookup?q=outbrain).
 
 ![](https://www.outbrain.com/privacy/wp-content/uploads/2021/11/rJwgwc0EP-e1639478091999-1024x151.png)
@@ -363,7 +363,7 @@ We may change this Privacy Policy from time to time. We will place a prominent n
 
 **Data Protection Officer (DPO)**
 
-To communicate with our Data Protection Officer, please email at [dpo@outbrain.com](mailto:dpo@outbrain.com) or use the contact details below. 
+To communicate with our Data Protection Officer, please email at [dpo@outbrain.com](mailto:dpo@outbrain.com) or use the contact details below.
 
 **Contact us**
 
@@ -371,9 +371,11 @@ To communicate with our Data Protection Officer, please email at [dpo@outbrain.c
 
 If you have any questions or concerns about your privacy you may contact us at:
 
-_Outbrain Inc._ _111 West 19th Street  
+_Outbrain Inc.  
+__111 West 19th Street  
 __3rd Floor  
-__New York, NY 10011, USA_ _Attn: Privacy questions_
+__New York, NY 10011, USA  
+__Attn: Privacy questions_
 
 Email: [privacy@outbrain.com](mailto:privacy@outbrain.com) or [dpo@outbrain.com](mailto:dpo@outbrain.com)
 
