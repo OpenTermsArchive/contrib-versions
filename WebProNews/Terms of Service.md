@@ -182,9 +182,7 @@ Browse Categories
 
 [](https://www.facebook.com/WebProNews/)[](https://twitter.com/WebProNews)[](https://www.linkedin.com/company/webpronews)
 
-Request Media Kit
-
-\[forminator\_form id="522797"\]
+[Request Media Kit](https://www.webpronews.com/advertise)
 
 Terms of Service
 ================
@@ -277,8 +275,6 @@ Advertise with Us
 #### Ready to get started?
 
 Get our media kit
-
-\[forminator\_form id="522797"\]
 
 About Us
 
