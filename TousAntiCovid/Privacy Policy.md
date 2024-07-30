@@ -205,7 +205,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -442,7 +442,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -972,7 +972,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -1209,7 +1209,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -1713,7 +1713,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -1950,7 +1950,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -2403,7 +2403,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -2798,7 +2798,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -3193,7 +3193,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -3588,7 +3588,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -3983,7 +3983,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -4378,7 +4378,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -4666,7 +4666,7 @@ Retour
 * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
 * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
 * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-* [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+* [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
 * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
 * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
 
@@ -4839,7 +4839,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -5072,7 +5072,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -5305,7 +5305,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -5538,7 +5538,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -5771,7 +5771,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -6004,7 +6004,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -6237,7 +6237,7 @@ Recherche
             * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
             * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
             * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-            * [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+            * [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
             * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
@@ -6458,7 +6458,7 @@ Retour
 * [Vaccination](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/)
 * [Pour un hiver sans virus](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-hiver-sans-virus/)
 * [Pour un été sans souci](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/pour-un-ete-sans-soucis/)
-* [Activité physique et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-et-sante)
+* [Activité physique, sédentarité et santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/activite-physique-sedentarite-et-sante)
 * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
 * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
 
