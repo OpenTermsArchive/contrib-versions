@@ -1,14 +1,12 @@
-From July 31, 2024 Google is expanding the scope of our EU User Consent Policy to apply to users in Switzerland. You can preview the updated policy [here](https://business.safety.google/ch-euucp-update/ "ch-euucp-update"). Publishers and advertisers can find more information in the [Help with the EU user consent policy](https://www.google.com/about/company/user-consent-policy-help/ "user-consent-policy-help") page.
-
 EU user consent policy
 ======================
 
-If your agreement with Google incorporates this policy, or you otherwise use a Google product that incorporates this policy, you must ensure that certain **disclosures** are given to, and **consents** obtained from, end users in the European Economic Area along with the UK. If you fail to comply with this policy, we may limit or suspend your use of the Google product and/or terminate your agreement.
+If your agreement with Google incorporates this policy, or you otherwise use a Google product that incorporates this policy, you must ensure that certain **disclosures** are given to, and **consents** obtained from, end users in the European Economic Area, the UK and Switzerland. If you fail to comply with this policy, we may limit or suspend your use of the Google product and/or terminate your agreement.
 
 Properties under your control
 -----------------------------
 
-For Google products used on any site, app or other property that is **under your control, or that of your affiliate or your client**, the following duties apply for end users in the European Economic Area along with the UK.
+For Google products used on any site, app or other property that is **under your control, or that of your affiliate or your client**, the following duties apply for end users in the European Economic Area, the UK and Switzerland.
 
 You must obtain end users’ legally valid consent to:
 
