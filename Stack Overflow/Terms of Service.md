@@ -1,6 +1,8 @@
 Public Network Terms of Service
 -------------------------------
 
+Last updated: July 25, 2024
+
 By using our products, you agree to our Terms of Service.
 
 The Stack Overflow Network is a set of related Internet sites and other applications for questions and answers (also referred to herein as the “Network”), owned and operated by Stack Exchange, Inc. (“Stack Overflow”, “we” or “us”), a Delaware corporation. Stack Overflow welcomes you to the Network, the largest community of developers in the world, and invites you to participate in the community by sharing knowledge with your peers and colleagues. Like all communities, we ask that you participate in a manner that respects your fellow community members. To that end, we provide you with these terms of service to advise you of the legal obligations you assume when you engage with the Stack Overflow community or otherwise access or use the public Network or any services provided on the public Network (collectively, “Services”). These terms govern the use of the public Network (the “Public Network Terms”).
@@ -121,45 +123,4 @@ The section and paragraph headings in these Public Network Terms are for conveni
 
 ### 11\. Copyright policy
 
-Stack Exchange has adopted the following policy toward copyright infringement with respect to the Network in accordance with the [Digital Millennium Copyright Act](http://www.loc.gov/copyright/legislation/dmca.pdf). The address of Stack Exchange's Designated Agent for copyright takedown notices (“Designated Agent”) is listed below.
-
-#### Reporting Copyright Infringements
-
-If You believe that content residing or accessible on the Network infringes a copyright, please send a notice of copyright infringement containing the following information to the Designated Agent at the address below (all received notices will be posted in full to [https://lumendatabase.org/](https://lumendatabase.org/)):
-
-1. Identification, including a description, of the copyrighted work or material You are claiming has been infringed. If You are claiming infringement of multiple works, you may provide a representative list.
-2. Identification of the material that is claimed to be infringing, including its location and URL, with sufficient detail so that Stack Exchange is capable of finding and verifying its existence.
-3. Contact information about the notifying party (the Notifying Party), including company name, name of contact person, mailing address, telephone number and e-mail address.
-4. A statement that the Notifying Party has a good faith belief that the material is not authorized by the copyright owner, its agent or law.
-5. A statement made under penalty of perjury that the information provided in the notice is accurate and that the Notifying Party is authorized to make the complaint on behalf of the copyright owner.
-6. The Notifying Party's physical or electronic signature.
-
-After the Designated Agent receives notification of an alleged infringement that meets all of the requirements above, Stack Exchange shall:
-
-1. Disable access to or remove material that it has a reasonable, good faith belief is copyrighted material that has been illegally copied and distributed by any subscriber to the Network.
-2. Stack Exchange will then immediately notify the subscriber responsible for the allegedly infringing material (the Offending Subscriber) that it has removed or disabled access to the material.
-3. Stack Exchange reserves the right, at its discretion, to immediately terminate the account of any subscriber who is the subject of repeated takedown notices.
-
-#### Filing Copyright Counterclaims
-
-A subscriber who believes they are the wrongful subject of a copyright takedown notice may file a counter notification with Stack Exchange by providing the following items in writing to the Designated Agent at the address below (all received notices will be posted in full to [https://lumendatabase.org/](https://lumendatabase.org/)):
-
-* Identification, including the specific URLs, of material that Stack Exchange has removed or to which Stack Exchange has disabled access.
-* User’s name, address, telephone number, and email address.
-* A statement that User consent to the jurisdiction of Federal District Court for the judicial district in which your address is located (or New York County, New York if your address is outside of the United States), and that User will accept service of process from the person who provided notification under subsection (c)(1)(C) or an agent of such person.
-* The following statement: "I swear, under penalty of perjury, that I have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled."
-* User’s physical or electronic signature.
-
-Upon receipt of a counterclaim, Stack Exchange will forward it to the party who submitted the original copyright infringement claim. The original complainant will then have 10 days to notify us that he or she has filed legal action relating to the allegedly infringing material. If Stack Exchange does not receive any such notification within 10 days, we may restore the material to the Network.
-
-#### Designated Agent
-
-**Attn**: Copyright Agent  
-Stack Exchange Inc.  
-14 Wall Street, 20th Floor  
-New York, NY 10005  
-**Tel**: +1 (212) 232-8280  
-**Fax**: +1 (212) 785-4578  
-**Email**: [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection)  
-
-Last update: January 12, 2022
+If You believe that content residing or accessible on the Network infringes a copyright, please contact us in accordance with the reporting requirements outlined in our [Digital Millennium Copyright Act Takedown Notice](https://policies.stackoverflow.co/company/dmca-takedown). Note that we reserve the right to pursue legal action for submitting false or frivolous notices of copyright infringement. As such, please consider all circumstances prior to submitting your request, including fair use and other licensing exceptions and limitations. We also reserve the right, at our discretion, to immediately suspend or terminate the account of any user who is the subject of repeated valid takedown notices.
