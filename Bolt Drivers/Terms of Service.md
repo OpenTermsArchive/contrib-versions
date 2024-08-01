@@ -7,7 +7,7 @@
 General Terms and Conditions for Fleet Partners / Drivers (effective until 30.04.2024)
 ======================================================================================
 
-**Effective from: 1 January 2023**
+****Effective from: 1 January 2023****
 
 By offering the Bolt Apps and the Bolt Services, we offer technological solutions to assist the Fleet Partner and/ or Driver in its operations and a platform where Passengers can connect with them in order to request the provision of Transportation Services. Bolt Ireland provides booking services as a licensed dispatch operator for the procurement of transportation services performed by third party licensed small public service vehicles which include taxis, hackneys, or limousines (“SPSV”).
 
@@ -15,45 +15,45 @@ These terms and conditions (also referred to as “T&Cs”) set out the terms an
 
 To benefit from Bolt Services and provide Transportation Services through the Bolt Platform, you must carefully read and agree to the completion of the terms and conditions set out below.
 
-**1\. DEFINITIONS**
+****1\. DEFINITIONS****
 
-1.1 **Bolt Ireland** (also referred to as **we**, **our** or **us**) - **Bolt ITX Limited**. is a registered company under the laws of Ireland, company number: 671417, EU VAT no. 3694239QH, registered address: 17 Percy Place, Ballsbridge, D04 V250, Ireland.
+1.1 ****Bolt Ireland**** (also referred to as ****we****, ****our**** or ****us****) - ****Bolt ITX Limited****. is a registered company under the laws of Ireland, company number: 671417, EU VAT no. 3694239QH, registered address: 17 Percy Place, Ballsbridge, D04 V250, Ireland.
 
-1.2 **Bolt Group companies** - means Bolt Operations OÜ (registry code 14532901, address Vana-Lõuna tn 15 Tallinn Harjumaa 10135, Estonia, e-mail address [info@bolt.eu](mailto:info@bolt.eu)) and companies over which Bolt Operations OÜ exercises right of control (e.g., Bolt Operations OÜ’s subsidiaries).
+1.2 ****Bolt Group companies**** - means Bolt Operations OÜ (registry code 14532901, address Vana-Lõuna tn 15 Tallinn Harjumaa 10135, Estonia, e-mail address [info@bolt.eu](mailto:info@bolt.eu)) and companies over which Bolt Operations OÜ exercises right of control (e.g., Bolt Operations OÜ’s subsidiaries).
 
-1.3 **Bolt Partners** - means local representatives, local branches, agents appointed or mandated by Bolt Operations OÜ (e.g., Payment Agent).
+1.3 ****Bolt Partners**** - means local representatives, local branches, agents appointed or mandated by Bolt Operations OÜ (e.g., Payment Agent).
 
-1.4 **Bolt Services** - Services that Bolt Ireland provides, including the provision and maintenance of the Bolt Apps, the Bolt Platform, In-App Payment, Passenger support and the communication between the Fleet Partner, the Driver and Passenger, the billing system, and other similar services.
+1.4 ****Bolt Services**** - Services that Bolt Ireland provides, including the provision and maintenance of the Bolt Apps, the Bolt Platform, In-App Payment, Passenger support and the communication between the Fleet Partner, the Driver and Passenger, the billing system, and other similar services.
 
 1.5\_\_ Bolt Apps\_\_ - smartphone applications intended for the Driver and Passengers who can request and receive Transportation Services.
 
-1.6 **Bolt Platform** - technology connecting the Passenger and the Fleet Partner / Driver.
+1.6 ****Bolt Platform**** - technology connecting the Passenger and the Fleet Partner / Driver.
 
-1.7 **Passenger** - a person who requests the Transportation Services by using the Bolt Apps.
+1.7 ****Passenger**** - a person who requests the Transportation Services by using the Bolt Apps.
 
-1.8 **Fleet Partner** - the company/sole trader that provides the Transportation Services, uses the Bolt Platform - who has, among all the necessary requirements, including the appropriate licenses, and where applicable which employ licensed SPSV (small public service vehicle) licensed vehicle drivers with SPSV licensed vehicles as taxis, hackneys or limousines. Each Fleet Partner will get a personal Bolt Driver Account to use the Bolt Platform.
+1.8 ****Fleet Partner**** - the company/sole trader that provides the Transportation Services, uses the Bolt Platform - who has, among all the necessary requirements, including the appropriate licenses, and where applicable which employ licensed SPSV (small public service vehicle) licensed vehicle drivers with SPSV licensed vehicles as taxis, hackneys or limousines. Each Fleet Partner will get a personal Bolt Driver Account to use the Bolt Platform.
 
-1.9 **Driver** - the person, employed by or operating on behalf of the Fleet Partner and providing Transportation Services via the Bolt Platform who is a licensed SPSV licensed vehicle driver. Each Driver will also get a personal Bolt Driver Account to use Bolt Apps.
+1.9 ****Driver**** - the person, employed by or operating on behalf of the Fleet Partner and providing Transportation Services via the Bolt Platform who is a licensed SPSV licensed vehicle driver. Each Driver will also get a personal Bolt Driver Account to use Bolt Apps.
 
-1.10 **Agreement** - The agreement between you (Fleet Partner / Driver) and Bolt Ireland, Bolt Group Companies and Bolt Partners regarding the use of the Bolt Platform and the Bolt Services and consists of: (i) these T&Cs, (ii) the special terms displayed in the Bolt Apps (e.g., description of service), (iii) guidelines provided in writing on our website or sent via e-mail to the Fleet Partner and/or Drivers from time to time by Bolt Ireland, Bolt Group Companies and/or Bolt Partners, (iv) other terms referred to in this Agreement as may be amended from time to time.
+1.10 ****Agreement**** - The agreement between you (Fleet Partner / Driver) and Bolt Ireland, Bolt Group Companies and Bolt Partners regarding the use of the Bolt Platform and the Bolt Services and consists of: (i) these T&Cs, (ii) the special terms displayed in the Bolt Apps (e.g., description of service), (iii) guidelines provided in writing on our website or sent via e-mail to the Fleet Partner and/or Drivers from time to time by Bolt Ireland, Bolt Group Companies and/or Bolt Partners, (iv) other terms referred to in this Agreement as may be amended from time to time.
 
-1.11 **Fare** - the fee a Passenger is obliged to pay the Fleet Partner for provision of the Transportation Services. In case the Fleet Partner/Driver is a licensed taxi, the fee a Passenger is obliged to pay shall amount to the taxi tariff as imposed and/or applicable from time to time by the applicable law and based on the official taximeter. Hackneys and limousines must charge the Passenger the pre-agreed fare. It is the sole responsibility of the Fleet Partner / Driver to charge the Passenger the correct Fare as may be imposed by the law applicable for each provision of Transportation Service.
+1.11 ****Fare**** - the fee a Passenger is obliged to pay the Fleet Partner for provision of the Transportation Services. In case the Fleet Partner/Driver is a licensed taxi, the fee a Passenger is obliged to pay shall amount to the taxi tariff as imposed and/or applicable from time to time by the applicable law and based on the official taximeter. Hackneys and limousines must charge the Passenger the pre-agreed fare. It is the sole responsibility of the Fleet Partner / Driver to charge the Passenger the correct Fare as may be imposed by the law applicable for each provision of Transportation Service.
 
-1.12 **Bolt Fees** - the fees the Driver or Fleet Partner (as applicable) shall pay to Bolt Ireland for the Bolt Services, including the right to use the Bolt Platform.
+1.12 ****Bolt Fees**** - the fees the Driver or Fleet Partner (as applicable) shall pay to Bolt Ireland for the Bolt Services, including the right to use the Bolt Platform.
 
-1.13 **In-App Payment** - cards, carrier billing and other payment methods used by the Passenger via the Bolt Apps to pay for the Transportation Services.
+1.13 ****In-App Payment**** - cards, carrier billing and other payment methods used by the Passenger via the Bolt Apps to pay for the Transportation Services.
 
-1.14 **Bolt Driver Account** - a portal with relevant information and documents on the use of the Bolt Platform and Bolt Services in the course of providing Transportation Services, which also includes accounting documentation. Driver may access the Bolt Driver Account at [https://partners.bolt.eu](https://partners.bolt.eu/) by entering username and password. Registering Bolt Driver Account as a fleet company. Upon concluding a separate agreement, a fleet company may itself register accounts to its employees and/or service providers. In such case the fleet company shall be required to ensure that its employees and/or service providers conform to the requirements of General Terms, Agreement and any further agreements and agrees to act in accordance and be bound with its conditions and obligations. The fleet company and its employees and/or service providers shall remain jointly and severally liable for any infringement conducted by such employee and/or service provider.
+1.14 ****Bolt Driver Account**** - a portal with relevant information and documents on the use of the Bolt Platform and Bolt Services in the course of providing Transportation Services, which also includes accounting documentation. Driver may access the Bolt Driver Account at [https://partners.bolt.eu](https://partners.bolt.eu/) by entering username and password. Registering Bolt Driver Account as a fleet company. Upon concluding a separate agreement, a fleet company may itself register accounts to its employees and/or service providers. In such case the fleet company shall be required to ensure that its employees and/or service providers conform to the requirements of General Terms, Agreement and any further agreements and agrees to act in accordance and be bound with its conditions and obligations. The fleet company and its employees and/or service providers shall remain jointly and severally liable for any infringement conducted by such employee and/or service provider.
 
-1.15 **Transportation Service** - transport service a Fleet Partner / Driver provides to Passenger whose request Driver has accepted through the Bolt App. All transportation services dispatched under this Agreement must be made by SPSV licensed laws, tariffs and tariff rules relating to transportation by taxi, as applicable from time to time.
+1.15 ****Transportation Service**** - transport service a Fleet Partner / Driver provides to Passenger whose request Driver has accepted through the Bolt App. All transportation services dispatched under this Agreement must be made by SPSV licensed laws, tariffs and tariff rules relating to transportation by taxi, as applicable from time to time.
 
-1.16 **Payment Agent** - Bolt Operations OÜ (Register code: 14532901; Legal address: Vana-Lõuna tn 15 Tallinn Harjumaa 10135 , formerly, Billify OÜ), the agent responsible for providing technical support to facilitate payment services and/or billing. The Payment Agent may also process and settle complaints regarding payments.
+1.16 ****Payment Agent**** - Bolt Operations OÜ (Register code: 14532901; Legal address: Vana-Lõuna tn 15 Tallinn Harjumaa 10135 , formerly, Billify OÜ), the agent responsible for providing technical support to facilitate payment services and/or billing. The Payment Agent may also process and settle complaints regarding payments.
 
-1.17 **Website** - [www.bolt.eu](https://www.bolt.eu/) and all relevant sub-sites.
+1.17 ****Website**** - [www.bolt.eu](https://www.bolt.eu/) and all relevant sub-sites.
 
-1.18 **you, your, yours** - refers to the Fleet Partner or Driver, as applicable.
+1.18 ****you, your, yours**** - refers to the Fleet Partner or Driver, as applicable.
 
-**2\. CONCLUSION OF THE AGREEMENT**
+****2\. CONCLUSION OF THE AGREEMENT****
 
 2.1. Prior to using the Bolt Services, you must sign up by providing the requested information in the signup application on the Website and uploading or sending via email the necessary documentation as required by Bolt Ireland. Upon successful completion of the signup application process, Bolt Ireland will provide you with a personal account accessible via a username and password. The Fleet Partner shall register on an ongoing basis Drivers and vehicles, which at the sole discretion of Bolt Ireland will or will not be activated and provided access to the Bolt Apps. By clicking the „Sign up" button located at the end of the signup application and/or by using the Bolt Platform and/or Bolt Apps, you accept the terms of the Agreement, representing and warranting that:
 
@@ -97,9 +97,9 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 2.5.7. If the Fleet Partner has registered several of its employees and/or service providers (Drivers), the Fleet Partner must ensure that, at all times, the Drivers conform to the requirements of this Agreement and that the Drivers agree to act in accordance with the conditions and obligations of the T&Cs and any further agreements between the Parties. The Fleet Partner and its employees and/or service providers (Drivers) shall remain jointly and severally liable for any infringement conducted by such employee and/or service provider (Drivers).
 
-**3\. FLEET PARTNER/DRIVER’S RIGHT TO USE THE BOLT APPS, BOLT PLATFORM AND THE BOLT DRIVER ACCOUNT**
+****3\. FLEET PARTNER/DRIVER’S RIGHT TO USE THE BOLT APPS, BOLT PLATFORM AND THE BOLT DRIVER ACCOUNT****
 
-3.1. **The Bolt Platform**: The Bolt Platform will allow you to receive inquiries from Passengers interested in receiving Transportation Services that only you can decide to accept or ignore, in your sole discretion and in strict compliance with any applicable law. More information about the Bolt Platform can be found on the Website.
+3.1. ****The Bolt Platform****: The Bolt Platform will allow you to receive inquiries from Passengers interested in receiving Transportation Services that only you can decide to accept or ignore, in your sole discretion and in strict compliance with any applicable law. More information about the Bolt Platform can be found on the Website.
 
 3.2. License to use the Bolt Apps, Bolt Platform and the Bolt Driver Account: Subject to your compliance with the Agreement, Bolt Ireland hereby grants you for valuable consideration a non-exclusive, revocable, non-sublicensable, non-transferable license to use the Bolt Apps, Bolt Platform, Bolt Driver Account in Ireland, in accordance with the conditions in the Agreement.
 
@@ -133,13 +133,13 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 3.7. All copyrights and trademarks, including source code, databases, logos and visual designs are owned by or exclusively licensed to Bolt Ireland in Ireland and are protected by copyright, trademark and/or trade secret laws and international treaty provisions. By using the Bolt Platform or any other Bolt Services, you do not acquire any rights of ownership to any intellectual property whatsoever.
 
-**4\. THE TRANSPORTATION SERVICES**
+****4\. THE TRANSPORTATION SERVICES****
 
 4.1. You guarantee to provide Transportation Services in accordance with the Agreement as well as laws and regulations applicable in the state or city where Transportation Services are provided. The Fleet Partner and Drivers are fully, jointly and several liable for any violation of any laws and regulations as may arise from providing Transportation Services, which may result in damage claims and immediate termination of the Agreement.
 
 4.2. You must have all concessions, licenses (including a valid driver's license), permits, car insurance, liability insurance (if applicable), registrations, certifications and other documentation that are required in the applicable jurisdiction for providing the Transportation Services. It is your obligation to maintain the validity of all aforementioned documentation. Bolt Ireland reserves the right to require to present evidence and submit for review all the necessary licenses, permits, approvals, authority, registrations and certifications.
 
-4.3. Notwithstanding the obligations arising from the Agreement, **the legal relationship regarding the Transportation Service is concluded between You and the Passenger** according to the stipulations of the applicable law.
+4.3. Notwithstanding the obligations arising from the Agreement, ****the legal relationship regarding the Transportation Service is concluded between You and the Passenger**** according to the stipulations of the applicable law.
 
 4.4. You will ensure the provision of the Transportation Services in a professional manner in accordance with the business ethics applicable to providing such services and endeavor to perform the Passenger's request in the best interest of the Passenger. Among else, you (i) may not have any other passengers in the vehicle other than the Passenger and the passengers accompanying the Passenger; (ii) must adhere to any applicable traffic acts and regulations, i.e., must not conduct any actions that may disrupt driving or the perception of traffic conditions, including holding a phone in his/her hand while the vehicle is moving and (iii) must keep the vehicle smokefree, clean and in hygienic conditions at all times, as prescribed by the law.
 
@@ -175,13 +175,13 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 4.19. Cash payments: You have to be able to accept cash payments of the Fare. You are solely responsible to be compliant with any applicable legislation on cash payments.
 
-**5\. BOLT FEES**
+****5\. BOLT FEES****
 
 5.1. In order to use the Bolt Services, you are obliged to pay Bolt Ireland a fee (i.e. Bolt Fees). The Bolt Fees are paid based on the Fare of each Transportation Service order that you have completed. The amount of the Bolt Fees are made available to you via email, the Bolt App, the Bolt Driver Account or other pertinent means. Please note that the Bolt Fees chargeable may change from time to time, considering the principles of dynamic pricing that take into account (i) the balance of the supply and demand for the Transportation Service, (ii) characteristics of the ride ordered; and (iii) conditions of any applicable campaigns. The Bolt Fees shall not go above the highest rate for Bolt Fees, that we have communicated to you (‘Highest Rate of Bolt Fees’). However, we may increase the applicable Highest Rate of Bolt Fees at any time by giving you prior notice.
 
 5.2. You must pay the Bolt Fees and other fees within the payment terms specified in Bolt Ireland's underlying invoices, which may not be shorter than seven (7) days. If the payment of the Bolt Fees is late, you will be required to pay a late payment of 0.05% (zero point five percent) of the unpaid amount per day. You are required to cover all costs incurred by Bolt Ireland which are related to debt collection activities.
 
-**6\. IN-APP PAYMENTS**
+****6\. IN-APP PAYMENTS****
 
 6.1. Passengers may be enabled to pay for the Transportation Service via cards, carrier billing and other payment methods (Bolt Business, etc.) directly in the Bolt Apps (cf. In-App Payment). The Fares, including any applicable taxes or other fees paid by the Passenger are collected via In-App Payment. Any payment obligation made by the Passenger via the In-App Payment shall be considered fulfilled as of the time that the payment has been made. You agree that payments made by the Passengers through In-App Payment are considered to be payments made directly to you.
 
@@ -205,11 +205,11 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 6.11. If a transfer regarding the respective amount of the Fares or Tips to you is not possible due to the non-inclusion of your bank account details or if the bank account details have been inserted incorrectly, then such payments will be held for 180 days. If you do not notify Bolt Ireland of the correct bank account details within 180 days from the date that the right to claim such payments has been established, your claim regarding the payment of the Fare or Tips not yet transferred shall expire.
 
-**7\. CUSTOMER SUPPORT**
+****7\. CUSTOMER SUPPORT****
 
 7.1. Bolt Ireland provides assistance to the Fleet Partners and Drivers regarding the use of Bolt Services. Bolt Ireland has the right to discontinue such services at any time in case of late payments, for any reason.
 
-**8\. RATINGS AND ACTIVITY**
+****8\. RATINGS AND ACTIVITY****
 
 8.1. In order to guarantee high-quality service and provide additional reassurance to Passengers, you hereby acknowledge that the Passengers may provide you a rating and leave feedback regarding the quality of the Transportation Services that you have provided. Your average rating will be linked to your Driver´s account and will be available to Passengers at Bolt App. If we find out the rating or comment is not given in good faith, this rating or comment may not be projected in the calculations of your rating.
 
@@ -217,7 +217,7 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 8.3. In order to provide reliable services to Passengers, we may determine a minimum average rating and a minimum activity score that Drivers must establish and maintain. If, after a pertinent notification from us, you do not increase your average rating or activity score to minimum level within the prescribed time period, your Driver´s account will be automatically suspended either temporarily or permanently. We may reverse the suspension of your account if it is merited by any external circumstances or it is detected that the suspension was caused by a system error or false ratings.
 
-**9\. MARKET ANALYSIS AND CAMPAIGNS**
+****9\. MARKET ANALYSIS AND CAMPAIGNS****
 
 9.1. Market Overviews: Bolt Ireland may send you via the Bolt Apps, Bolt Driver Account, SMS, e-mail or other means, market overviews, to increase its awareness of when the Passenger's needs are the highest. Please note that such market analysis are only recommendations and do not constitute any obligations for either party. As any market estimation provided is based on previous statistics, we cannot give any guarantees that the actual market situation will reflect the latter.
 
@@ -225,7 +225,7 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 9.3. Campaigns for Passengers: Bolt Ireland may occasionally arrange various campaigns to Passengers in order to promote the Bolt Services. If the Fare paid by the Passenger is reduced as part of such a campaign, Bolt Ireland will in most cases pay compensation equal to the monetary value of the benefit offered to the Passengers. Bolt Ireland may set-off the marketing compensation against the Bolt Fees.
 
-**10\. RELATIONSHIP BETWEEN YOU, US AND THE PASSENGERS**
+****10\. RELATIONSHIP BETWEEN YOU, US AND THE PASSENGERS****
 
 10.1. You hereby acknowledge and agree that Bolt Ireland acts as a licensed dispatch operator connecting Passengers with third party Fleet Partners to help the Passengers move around cities more efficiently, and does not in any way provide Transportation Services. You acknowledge that you are the sole provider of the Transportation Services on the basis of a service contract with the Passengers and that you provide the Transportation Services as an economic and professional activity. Bolt Ireland acts as a provider of booking services between the Fleet Partners and the Passenger, and thus, among other things, processes, also by means of third parties, payments from the Passengers and forwards the payments to the Fleet Partners.
 
@@ -241,7 +241,7 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 10.7. The Driver, if employed or contracted by the Fleet Partner, is subject to the Fleet Partner’s sole instructions.
 
-**11\. PROCESSING OF PERSONAL DATA & ACCESS TO DATA**
+****11\. PROCESSING OF PERSONAL DATA & ACCESS TO DATA****
 
 11.1. Personal data will be processed according to the privacy policy available at [https://bolt.eu/legal/](https://bolt.eu/legal/).
 
@@ -251,7 +251,7 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 11.4. Your misuse of personal data (including Passenger’s data) is strictly prohibited and will result in immediate termination of the Agreement.
 
-**12\. LIABILITY**
+****12\. LIABILITY****
 
 12.1. The Bolt Services, Bolt Apps and Bolt Platform are provided on an "as is" and "as available" basis. Bolt Ireland, Bolt Group Companies, Bolt Partners or any of their subsidiaries make no warranty or guarantee that access to the Bolt Platform will be uninterrupted or error free. As the usage of Bolt Platform for requesting transportation services depends on the behavior of Passengers, Bolt Ireland does not guarantee that the Fleet Parner’s / Driver’s usage of the Bolt Platform will result in any Transportation Service requests. Bolt Ireland, Bolt Group Companies, Bolt Partners are not responsible for the proper functioning of the Bolt Apps / Bolt Platform nor for any loss or damage that may result therefrom.
 
@@ -269,7 +269,7 @@ To benefit from Bolt Services and provide Transportation Services through the Bo
 
 12.6. You shall be fully liable for breaching the T&Cs, this Agreement or any other applicable laws or regulations and must stop and remedy such breach immediately after receipt of a respective demand from Bolt Ireland or any public authority. You shall indemnify Bolt Ireland, Bolt Group Companies, Bolt Partners for any direct and/or indirect loss and/or damage, loss of profits, expense, penalty, fine that Bolt Ireland, Bolt Group Companies, Bolt Partners may occur in connection with your breach of the T&Cs, this Agreement and any other applicable laws and regulations. If the Passenger presents any claims against Bolt Ireland in connection with your provision of Transportation Services, then you shall compensate such damage to the damaged party in full within 7 (seven) days as of the receipt of the respective request from Bolt Ireland. In case Bolt Ireland is entitled to present any claims against you, then you shall compensate the damaged party any legal costs related to the evaluation of the damages and the submission and enforcement of claims relating to compensation for such damages.
 
-12.7. You must comply with all tax and trade obligations that may arise in connection with the performance of your obligations under the Agreement or the provision of Transportation Services. You must indemnify Bolt Ireland, Bolt Group Companies, Bolt Partners against all tax, customs, duties, claims and penalties, as well as any trade-related penalties arising from your failure to comply with your tax and / or trade obligations (including, but not limited to, social security tax). **13\. TERM, SUSPENSION AND TERMINATION**
+12.7. You must comply with all tax and trade obligations that may arise in connection with the performance of your obligations under the Agreement or the provision of Transportation Services. You must indemnify Bolt Ireland, Bolt Group Companies, Bolt Partners against all tax, customs, duties, claims and penalties, as well as any trade-related penalties arising from your failure to comply with your tax and / or trade obligations (including, but not limited to, social security tax). ****13\. TERM, SUSPENSION AND TERMINATION****
 
 13.1. The conditions expressly specified in the T&Cs shall enter into force as of your submission and acceptance by Bolt Ireland of the signup application. The Agreement and other terms shall enter into force once the specific document or message has been made available to you and you start or continue providing Transportation Services on Bolt Platform using Bolt Services.
 
@@ -305,7 +305,7 @@ Apps affects the your rights of using the Bolt Services for the provision of Tra
 
 13.7. You (i.e., “Business User Operating in the Member State”) have the right to challenge the termination of the Agreement, suspension, and other alleged non-compliance with the Regulation, in accordance with the “Internal Complaint-Handling System Rules for Business Users”. In fact, we will provide you with the opportunity to clarify the facts and circumstances that led to the restriction, suspension or termination in its internal complaint-handling process. If the restriction, suspension or termination is revoked, you shall be enabled to continue to access the Bolt Services without any limitation of accessing personal or other data, or both resulting from its prior use of the Bolt Platform, Bolt Apps or Bolt Services.
 
-**14\. AMENDMENTS**
+****14\. AMENDMENTS****
 
 14.1. We reserve the right to amend these General Terms anytime by uploading the revised version on the website ([https://bolt.eu/legal/](https://bolt.eu/legal/)) and notifying you (e.g. via e-mail, Bolt Apps or Bolt Driver Account) whenever, in our reasonable opinion, such amendments are material. Regulation (EU) 2019/1150 of the European Parliament and of the Council of 20 June 2019 on promoting fairness and transparency for business users of online intermediation services, available at: [https://eur-lex.europa.eu/legalcontent/EN/TXT/PDF/?uri=CELEX:32019R1150&from=EN ↗](https://eur-lex.europa.eu/legalcontent/EN/TXT/PDF/?uri=CELEX:32019R1150&from=EN)
 
@@ -327,13 +327,13 @@ Apps affects the your rights of using the Bolt Services for the provision of Tra
 
 14.6. During the notice period, submitting new services to the online intermediation services shall be considered a clear affirmative action to waive the notice period, except in cases where the reasonable and proportionate notice period is longer than 15 days because the changes to the terms and conditions require significant technical adjustments. In such cases, the notice period shall not be considered automatically to be waived.
 
-**15\. APPLICABLE LAW AND JURISDICTION**
+****15\. APPLICABLE LAW AND JURISDICTION****
 
 15.1. The Agreement shall be governed by and construed and enforced in accordance with the laws of Ireland.
 
 15.2. All disputes that may arise in connection with the Agreement, whether in terms of their existence, validity, interpretation, performance, infringement, termination or otherwise, shall be settled by negotiation. If the dispute arising out of the Agreement, is not resolved by the negotiations, the dispute will be settled in the courts of Dublin (Ireland). Applicable mandatory consumer protection laws remain unaffected.
 
-**16\. NOTICES**
+****16\. NOTICES****
 
 16.1. You are obliged to notify Bolt Ireland promptly of any material change regarding the Fleet Partner, the Drivers and/or vehicles (including contact information) and to ensure that any provided data or information are correct and up-to-date at any time.
 
@@ -341,7 +341,7 @@ Apps affects the your rights of using the Bolt Services for the provision of Tra
 
 16.3. Any notification made under the Agreement shall be deemed satisfactory if (i) it is delivered in person, (ii) sent by courier with proof of delivery, (iii) sent by registered post, (iv) by e-mail or (v) via the Bolt Driver Account or Bolt Apps. Any notice sent or posted in accordance with this clause shall be deemed received: (i) if delivered in person, at the time of delivery to the recipient; (ii) if delivered by courier on the date indicated by the courier as the date on which the envelope containing the notice was delivered to the recipient; (iii) if sent by registered mail, on the 10th day following delivery of the document to the post office; (iv) when disclosed on the Bolt Driver Account or the Bolt Apps; or (v) if sent by e-mail, on the day the party receiving the e-mail confirms receiving the respective e-mail or on the 2nd day following the dispatch of the e-mail provided that the sender has not received an error notice (notifying that the e-mail was not delivered to the party) and has sent the e-mail again on the next calendar day and has not received a similar error notice.
 
-**17\. FINAL PROVISIONS**
+****17\. FINAL PROVISIONS****
 
 17.1. If any provision of the Agreement is held to be unenforceable, the parties shall replace the affected provision by an enforceable provision that approximates the intent and economic effect of the provision in question. If one of the provisions of the Agreement is or becomes invalid, the validity of the other provisions shall not be affected. 17.2. Any failure or delay of a party to enforce a right under the Agreement shall not be deemed as a waiver of such a right.
 
