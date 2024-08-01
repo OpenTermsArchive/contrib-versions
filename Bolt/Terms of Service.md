@@ -9,11 +9,11 @@ General Terms and Conditions for Passengers (effective until 16.04.2024)
 
 These General Terms and Conditions (“GTC”) set out the terms and conditions applying to and governing the usage of the Bolt App - technology which connects passengers, fleet partners and drivers and helps to move around cities more efficiently.
 
-**Definitions**
+****Definitions****
 
 The term “you”, “your” refers to the user who requests the provision of Transportation Service for itself or third parties via Bolt App (hereinafter also referred to as “User” or “Passenger”).
 
-The term "us" or "we" refers to Bolt ITX Ltd., a company registered under the laws of Ireland, with company number: 671417, with registered address: 15 Main Street, Raheny, Dublin (Ireland), D05 X006, EU VAT no. 3694239QH (hereinafter also referred to as “Bolt Ireland”). Bolt Ireland provides booking services as a licensed dispatch operator for the procurement of transportation services performed by third party licensed small public service vehicles which include taxis, hackneys or limousines (“**SPSV**”).
+The term "us" or "we" refers to Bolt ITX Ltd., a company registered under the laws of Ireland, with company number: 671417, with registered address: 15 Main Street, Raheny, Dublin (Ireland), D05 X006, EU VAT no. 3694239QH (hereinafter also referred to as “Bolt Ireland”). Bolt Ireland provides booking services as a licensed dispatch operator for the procurement of transportation services performed by third party licensed small public service vehicles which include taxis, hackneys or limousines (“****SPSV****”).
 
 Bolt Group companies means enterprises over which Bolt Operations OÜ (Vana-Lõuna tn 15 Kesklinna linnaosa, Tallinn Harju maakond 10135, Estonia, FN 14532901; Bolt Operations OÜ) exercises right of control (e.g. Bolt Operations OÜ subsidiaries) and Bolt Partners means local representatives, local branches, agents appointed or mandated by Bolt Operations OÜ (e.g. Payment Agent).
 
@@ -29,7 +29,7 @@ Bolt App means a smartphone application intended for the Passengers to request a
 
 In order to use Bolt App you must agree to the terms and conditions that are set out below. By registering the user account, the Users acknowledge to have read, understood and accepted the GTC.
 
-**1\. Using the Bolt app**
+****1\. Using the Bolt app****
 
 1.1 Bolt provides an information society service through Bolt app that enables mediation of the requests for transport services between the passengers and drivers and Bolt does not provide transport services. Transport Services are provided by Fleet Partners /Drivers, on the basis of a contract with you for the carriage of passengers (“Transportation Contract”). They provide transport services on an independent basis as economic and professional carriers. Bolt is not responsible in any way for the fulfilment of the contract entered into between the passenger (you) and the driver. Please note that all disputes arising from or in connection with the Transportation Contract will be resolved between you and Fleet Partners / Drivers as may be the case. The Transportation Contract enters into force with the acceptance of your order by the Fleet Partner via Bolt App according to the agreement between you and the Fleet Partner.
 
@@ -39,7 +39,7 @@ In order to use Bolt App you must agree to the terms and conditions that are set
 
 1.4 The use of Bolt App requires the installation of the mobile application, the registration of a user account and the acceptance of these GTC. During the installation of Bolt App, the passenger’s mobile number is linked to the respective Bolt user account and added to our database. If you are no longer using this mobile number, you must notify Bolt Ireland within seven (7) days so we can anonymize your account data. If you do not notify us about any change to your number, your mobile operator might assign your previous mobile number to another person who later by using Bolt app will be able to see your data.
 
-**2\. Promotional Codes**
+****2\. Promotional Codes****
 
 2.1 Bolt Ireland, or Bolt Group Companies, may send you promotional codes on a per promotion basis. Promotional code credit can be applied towards payment on completion of a ride or other features or benefits related to the Transport Service and/or a Third Party’s service and are subject to any additional terms that are established on a per promotional code basis. Expiration dates of promotional codes will be reflected in-app once you have applied the promotional code to your account.
 
@@ -47,7 +47,7 @@ In order to use Bolt App you must agree to the terms and conditions that are set
 
 2.3 Bolt Ireland reserves the right to cancel any promotional code at any time for any reason. This includes, but is not limited to, if Bolt Ireland deems that promotion codes are being used in an unlawful or fraudulent manner, those issued mistakenly, and those which have expired.
 
-**3\. Bolt in-App Payment**
+****3\. Bolt in-App Payment****
 
 3.1 You can pay for the Fare for the Transport Services with a card, mobile carrier billing and other payment methods (eg: Bolt Business, etc), including In-App Payment (through the Payment Agent), which require prior activation in the Bolt App. Your payment obligation towards the Fleet Partners is fulfilled when the payment order is given to transfer funds for the Fare to the dedicated bank account. You, as a passenger are responsible for ensuring that the payment takes place and ensuring that sufficient funds are available.
 
@@ -59,7 +59,7 @@ In order to use Bolt App you must agree to the terms and conditions that are set
 
 3.5 Upfront Fare. ​You may be offered to use a ride option that allows you to agree to a fixed Fare for a given instance of Transportation service provided by the Fleet Partner / Driver (i.e Upfront Fare). Upfront Fare is communicated to you via the Bolt App before the ride is requested. Upfront Fare shall not be applied if you change the destination during the ride, the ride takes materially longer than estimated due to traffic or other factors, or when other unexpected circumstances impact the characteristics of the ride materially (e.g a route is used where tolls apply).
 
-**4\. Ordering and cancelling transport services**
+****4\. Ordering and cancelling transport services****
 
 4.1 If you order a Transport Service and the Fleet Partner has agreed to the request then the transport service is considered to be ordered, and you will enter into a separate Transport Contract with the Fleet Partner on such terms and conditions as you agree with the latter. Bolt Ireland does not provide journeys and is not a party to your Transport Contract with the relevant Fleet Partner.
 
@@ -75,11 +75,11 @@ In order to use Bolt App you must agree to the terms and conditions that are set
 
 4.7 If you wish to change the destination to which the Driver shall transport you to, you shall change the destination within the Bolt App.
 
-**5\. License to use Bolt App**
+****5\. License to use Bolt App****
 
 5.1 As long as you comply with these GTC, you are granted a royalty free, revocable, non-exclusive, right to access and use the Bolt App in accordance with these GTC, the Privacy Policy and the applicable app-store terms. You shall not transfer or sub-license the right to access and use the Bolt App. In the event that your right to use Bolt App is cancelled, the corresponding non-exclusive licence will also be cancelled.
 
-**6\. Liability**
+****6\. Liability****
 
 6.1 As the Bolt app is an information society service (a means of communication) between passengers and drivers and neither Bolt Ireland or Bolt Group Companies are not a provider of the Transport Services, we cannot guarantee or take any responsibility for the quality or the absence of defects in the provision of Transport Services. As the usage of Bolt App for requesting Transport Services depends on the behaviour of the Fleet Partners. Bolt Ireland, Bolt Group Companies, Bolt Partners neither guarantee nor shall be held liable for your requests on transport always being accepted by a Fleet Partner.
 
@@ -99,7 +99,7 @@ In order to use Bolt App you must agree to the terms and conditions that are set
 
 6.9 Bolt Ireland shall not be liable to issue invoices. The invoice for the provision of Transport Services will be sent to the email indicated by the User or delivered in person upon conclusion of a ride, upon request of the passenger, by the Fleet Partner / Driver.
 
-**7\. Good practice using the Bolt app**
+****7\. Good practice using the Bolt app****
 
 7.1 As Bolt Ireland is not a provider of the Transport Services, any issues with defects or quality of the Transport Services will be resolved in accordance with the rules and regulations of the Transport Contract and by the relevant public authority. We support the Passengers in settling any dispute with the Fleet Partner / Driver in an amicable way.
 
@@ -109,17 +109,17 @@ In order to use Bolt App you must agree to the terms and conditions that are set
 
 7.4 Bolt Ireland will make every effort to ensure that only service providers, who have integrity and are respectful of their profession and passengers, use the Bolt app. However, we are not in the position to guarantee that every Fleet Partner / Driver, available in Bolt App, satisfies the aforementioned criteria and the applicable legal provisions, at all times. If you experience objectionable Transport Service, please notify us or our customer support.
 
-**8\. Personal Data**
+****8\. Personal Data****
 
 By opening a Bolt App account, the Passenger agrees to your personal data being processed in accordance with the Privacy Policy available at [https://bolt.eu/legal](https://bolt.eu/legal).
 
-**9\. Amendments to the General Terms and Conditions / Termination**
+****9\. Amendments to the General Terms and Conditions / Termination****
 
 9.1 If any substantial amendments are made to the General Terms and Conditions, then you will be notified by e-mail or Bolt App notifications. If you continue using Bolt app, you will be deemed to accept the amendments.
 
 9.2 You can terminate these GTC at any time and without a notice period.
 
-**10\. Final Provisions**
+****10\. Final Provisions****
 
 10.1 The General Terms and Conditions will be governed by, and construed and enforced in accordance with the laws of Ireland. If the respective dispute resulting from these General Terms could not be settled by the negotiations, then the dispute will be finally solved in the Court of Dublin. If any provision of the General Terms is held to be unenforceable, the parties will substitute for the affected provision an enforceable provision that approximates the intent and economic effect of the affected provision. If one of the provisions of this GTC is or becomes invalid, the validity of the other provisions shall not be affected.
 
