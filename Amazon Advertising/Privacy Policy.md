@@ -1,7 +1,7 @@
 Privacy Notice
 ==============
 
-Last Updated: 5 July, 2024
+Last Updated: 1 August, 2024
 
 To see prior version, click [here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GYT8SUSD2E9EWE8Q).
 
@@ -27,7 +27,7 @@ We know that you care how information about you is used and shared and we apprec
 1\. Controllers of Personal Information
 ---------------------------------------
 
-Amazon Europe Core SARL, Amazon EU SARL, Amazon Services Europe SARL and Amazon Media EU SARL, all four at 38 avenue John F. Kennedy, L-1855, Luxembourg and Amazon Digital UK Limited of 1 Principal Place, Worship Street, London, EC2A 2FA, UK (together "Amazon Europe") are data controllers of personal information collected and processed through Amazon Services. Details can be found [here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GR2TDVTNRVM2PY2M).
+Amazon Europe Core SARL, Amazon EU SARL, and Amazon Media EU SARL, all three at 38 avenue John F. Kennedy, L-1855, Luxembourg and Amazon Digital UK Limited of 1 Principal Place, Worship Street, London, EC2A 2FA, UK (together "Amazon Europe") are data controllers of personal information collected and processed through Amazon Services. Details can be found [here](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=GR2TDVTNRVM2PY2M).
 
 2\. What Personal Information About Customers Does Amazon Europe Collect?
 -------------------------------------------------------------------------
