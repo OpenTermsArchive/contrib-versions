@@ -274,8 +274,14 @@ Article 18. Procedures in Cases of Copyright Infringement
 Article 19. Use Fees
 --------------------
 
-1. Except in the case of pixiv Premium and in cases specified otherwise in Individual Terms of Use etc. of the Services, use of the Services shall be without charge.
-2. The particulars of the fee-based services, use fees, methods of payment, and so on shall be separately specified in the Individual Terms of Use etc.
+Except in the case of pixiv Premium and when specified otherwise in each service's individual Terms of Use etc., the use of the Services (excluding internet connection fees, shipping charges, etc. required when using the Services) shall be free of charge.
+
+Article 19-2. Payment Procedures
+--------------------------------
+
+1. Payment methods shall be provided when payments are made from Users to the Company, or when payments are made between Users on this Service, according to pixiv Premium or individual Terms of Use.
+2. Different payment methods may be specified for each Service, and Users shall select the payment method they wish to use from the ones available.
+3. If the User selects payment by credit card among the payment methods available as mentioned in the preceding point, the User shall use Stripe, Inc. through our Company to transmit the User's credit card information.
 
 Article 20. Warranties and Duties Relating to Posted Information
 ----------------------------------------------------------------
@@ -444,6 +450,7 @@ Supplementary Provisions
 Revisions
 ---------
 
+* August 1, 2024: "Article 19: Use Fees" was updated, and "Article 19-2: Payment Procedures" was added.
 * April 25, 2024: “Article 2, Individual Agreements etc.”, Section 5 have been amended. “Article 7, Account Registration”, Section 4 added.
 * May 31, 2023: Item 14 of “Article 14: Prohibited Conduct” has been revised. The current Item 4 and Item 5 were newly added to “Article 14: Prohibited Conduct”.
 * December 15, 2022: “Article 14, Prohibited Conduct”, Section 26.4 have been amended. “Article 15, Responses to Violation etc. and Cancellation of Registration”, Section 1.8 added.
