@@ -98,7 +98,7 @@ When people install an app from the App Store, they want to feel confident that
     
     You must comply with applicable privacy laws around the world relating to the collection of data from children online. Be sure to review the [Privacy section](#privacy) of these guidelines for more information. In addition, Kids Category apps may not send personally identifiable information or device information to third parties. Apps in the Kids Category should not include third-party analytics or third-party advertising. This provides a safer experience for kids. In limited cases, third-party analytics may be permitted provided that the services do not collect or transmit the IDFA or any identifiable information about children (such as name, date of birth, email address), their location, or their devices. This includes any device, network, or other information that could be used directly or combined with other information to identify users and their devices. Third-party contextual advertising may also be permitted in limited cases provided that the services have publicly documented practices and policies for Kids Category apps that include human review of ad creatives for age appropriateness.
     
-* **1.4 Physical Harm**![ASR & NR](/app-store/review/images/key-icon.svg)
+* **1.4![ASR & NR](/app-store/review/images/key-icon.svg) Physical Harm**
     
     If your app behaves in a way that risks physical harm, we may reject it. For example:
     
@@ -109,11 +109,11 @@ When people install an app from the App Store, they want to feel confident that
     * **1.4.3** Apps that encourage consumption of tobacco and vape products, illegal drugs, or excessive amounts of alcohol are not permitted. Apps that encourage minors to consume any of these substances will be rejected. Facilitating the sale of controlled substances (except for licensed pharmacies and licensed or otherwise legal cannabis dispensaries), or tobacco is not allowed.
     * **1.4.4**![ASR & NR](/app-store/review/images/key-icon.svg) Apps may only display DUI checkpoints that are published by law enforcement agencies, and should never encourage drunk driving or other reckless behavior such as excessive speed.
     * **1.4.5**![ASR & NR](/app-store/review/images/key-icon.svg) Apps should not urge customers to participate in activities (like bets, challenges, etc.) or use their devices in a way that risks physical harm to themselves or others.
-* **1.5 Developer Information**![ASR & NR](/app-store/review/images/key-icon.svg)
+* **1.5![ASR & NR](/app-store/review/images/key-icon.svg) Developer Information**
     
     People need to know how to reach you with questions and support issues. Make sure your app and its Support URL include an easy way to contact you; this is particularly important for apps that may be used in the classroom. Failure to include accurate and up-to-date contact information not only frustrates customers, but may violate the law in some countries or regions. Also ensure that Wallet passes include valid contact information from the issuer and are signed with a dedicated certificate assigned to the brand or trademark owner of the pass.
     
-* **1.6 Data Security**![ASR & NR](/app-store/review/images/key-icon.svg)
+* **1.6![ASR & NR](/app-store/review/images/key-icon.svg) Data Security**
     
     Apps should implement appropriate security measures to ensure proper handling of user information collected pursuant to the Apple Developer Program License Agreement and these Guidelines (see Guideline 5.1 for more information) and prevent its unauthorized use, disclosure, or access by third parties.
     
@@ -131,7 +131,7 @@ When people install an app from the App Store, they want to feel confident that
     
     Demos, betas, and trial versions of your app don’t belong on the App Store – use TestFlight instead. Any app submitted for beta distribution via TestFlight should be intended for public distribution and should comply with the App Review Guidelines. Note, however, that apps using TestFlight cannot be distributed to testers in exchange for compensation of any kind, including as a reward for crowd-sourced funding. Significant updates to your beta build should be submitted to TestFlight App Review before being distributed to your testers. To learn more, visit the [TestFlight Beta Testing](https://developer.apple.com/testflight/) page.
     
-* **2.3 Accurate Metadata**![ASR & NR](/app-store/review/images/key-icon.svg)
+* **2.3![ASR & NR](/app-store/review/images/key-icon.svg) Accurate Metadata**
     
     Customers should know what they’re getting when they download or buy your app, so make sure all your app metadata, including privacy information, your app description, screenshots, and previews accurately reflect the app’s core experience and remember to keep them up-to-date with new versions.
     
@@ -292,7 +292,7 @@ Apple customers place a high value on products that are simple, refined, innovat
 * **4.3 Spam**
     * **(a)**![ASR & NR](/app-store/review/images/key-icon.svg) Don’t create multiple Bundle IDs of the same app. If your app has different versions for specific locations, sports teams, universities, etc., consider submitting a single app and provide the variations using in-app purchase.
     * **(b)** Also avoid piling on to a category that is already saturated; the App Store has enough fart, burp, flashlight, fortune telling, dating, drinking games, and Kama Sutra apps, etc. already. We will reject these apps unless they provide a unique, high-quality experience. Spamming the store may lead to your removal from the Apple Developer Program.
-* **4.4 Extensions**![ASR & NR](/app-store/review/images/key-icon.svg)
+* **4.4![ASR & NR](/app-store/review/images/key-icon.svg) Extensions**
     
     Apps hosting or containing extensions must comply with the [App Extension Programming Guide](https://developer.apple.com/library/archive/documentation/General/Conceptual/ExtensibilityPG/index.html#apple_ref/doc/uid/TP40014214/), the [Safari app extensions documentation](https://developer.apple.com/documentation/safariservices/safari_app_extensions/), or the [Safari web extensions documentation](https://developer.apple.com/documentation/safariservices/safari_web_extensions) and should include some functionality, such as help screens and settings interfaces where possible. You should clearly and accurately disclose what extensions are made available in the app’s marketing text, and the extensions may not include marketing, advertising, or in-app purchases.
     
@@ -312,7 +312,7 @@ Apple customers place a high value on products that are simple, refined, innovat
         * Repurpose keyboard buttons for other behaviors (e.g. holding down the “return” key to launch the camera).
     * **4.4.2**![ASR & NR](/app-store/review/images/key-icon.svg) Safari extensions must run on the current version of Safari on the relevant Apple operating system. They may not interfere with System or Safari UI elements and must never include malicious or misleading content or code. Violating this rule will lead to removal from the Apple Developer Program. Safari extensions should not claim access to more websites than strictly necessary to function.
     * **4.4.3** Intentionally omitted.
-* **4.5 Apple Sites and Services**![ASR & NR](/app-store/review/images/key-icon.svg)
+* **4.5![ASR & NR](/app-store/review/images/key-icon.svg) Apple Sites and Services**
     * **4.5.1**![ASR & NR](/app-store/review/images/key-icon.svg) Apps may use approved Apple RSS feeds such as the iTunes Store RSS feed, but may not scrape any information from Apple sites (e.g. apple.com, the iTunes Store, App Store, App Store Connect, developer portal, etc.) or create rankings using this information.
     * **4.5.2**![ASR & NR](/app-store/review/images/key-icon.svg) Apple Music
         * **(i)** MusicKit on iOS lets users play Apple Music and their local music library natively from your apps and games. When a user provides permission to their Apple Music account, your app can create playlists, add songs to their library, and play any of the millions of songs in the Apple Music catalog. Users must initiate the playback of an Apple Music stream and be able to navigate using standard media controls such as “play,” “pause,” and “skip.” Moreover, your app may not require payment or indirectly monetize access to the Apple Music service (e.g. in-app purchase, advertising, requesting user info, etc.). Do not download, upload, or enable sharing of music files sourced from the MusicKit APIs, except as explicitly permitted in [MusicKit](https://developer.apple.com/musickit/) documentation.
@@ -323,19 +323,19 @@ Apple customers place a high value on products that are simple, refined, innovat
     * **4.5.5**![ASR & NR](/app-store/review/images/key-icon.svg) Only use Game Center Player IDs in a manner approved by the Game Center terms and do not display them in the app or to any third party.
     * **4.5.6**![ASR & NR](/app-store/review/images/key-icon.svg) Apps may use Unicode characters that render as Apple emoji in their app and app metadata. Apple emoji may not be used on other platforms or embedded directly in your app binary.
 * **4.6** Intentionally omitted.
-* **4.7 Mini apps, mini games, streaming games, chatbots, plug-ins, and game emulators**
+* **4.7![ASR & NR](/app-store/review/images/key-icon.svg) Mini apps, mini games, streaming games, chatbots, plug-ins, and game emulators**
     
-    Apps may offer certain software that is not embedded in the binary, specifically HTML5 mini apps and mini games, streaming games, chatbots, and plug-ins. Additionally, retro game console emulator apps can offer to download games. You are responsible for all such software offered in your app, including ensuring that such software complies with these Guidelines and all applicable laws. Software that does not comply with one or more guidelines will lead to the rejection of your app. You must also ensure that the software adheres to the additional rules that follow in 4.7.1 through 4.7.5. These additional rules are important to preserve the experience that App Store customers expect, and to help ensure user safety.
+    Apps may offer certain software that is not embedded in the binary, specifically HTML5 mini apps and mini games, streaming games, chatbots, and plug-ins. Additionally, retro game console and PC emulator apps can offer to download games. You are responsible for all such software offered in your app, including ensuring that such software complies with these Guidelines and all applicable laws. Software that does not comply with one or more guidelines will lead to the rejection of your app. You must also ensure that the software adheres to the additional rules that follow in 4.7.1 through 4.7.5. These additional rules are important to preserve the experience that App Store customers expect, and to help ensure user safety.
     
     * **4.7.1** Software offered in apps under this rule must:
         * follow all privacy guidelines, including but not limited to the rules set forth in Guideline 5.1 concerning collection, use, and sharing of data, and sensitive data (such as health and personal data from kids);
         * include a method for filtering objectionable material, a mechanism to report content and timely responses to concerns, and the ability to block abusive users; and
         * use in-app purchase in order to offer digital goods or services to end users.
-    * **4.7.2** Your app may not extend or expose native platform APIs to the software without prior permission from Apple.
-    * **4.7.3** Your app may not share data or privacy permissions to any individual software offered in your app without explicit user consent in each instance.
+    * **4.7.2**![ASR & NR](/app-store/review/images/key-icon.svg) Your app may not extend or expose native platform APIs to the software without prior permission from Apple.
+    * **4.7.3**![ASR & NR](/app-store/review/images/key-icon.svg) Your app may not share data or privacy permissions to any individual software offered in your app without explicit user consent in each instance.
     * **4.7.4** You must provide an index of software and metadata available in your app. It must include universal links that lead to all of the software offered in your app.
     * **4.7.5** Your app must share the age rating of the highest age-rated content available in your app.
-* **4.8 Login Services**![ASR & NR](/app-store/review/images/key-icon.svg)
+* **4.8![ASR & NR](/app-store/review/images/key-icon.svg) Login Services**
     
     Apps that use a third-party or social login service (such as Facebook Login, Google Sign-In, Sign in with Twitter, Sign In with LinkedIn, Login with Amazon, or WeChat Login) to set up or authenticate the user’s primary account with the app must also offer as an equivalent option another login service with the following features:
     
@@ -353,7 +353,7 @@ Apple customers place a high value on products that are simple, refined, innovat
     * Your app uses a government or industry-backed citizen identification system or electronic ID to authenticate users.
     * Your app is a client for a specific third-party service and users are required to sign in to their mail, social media, or other third-party account directly to access their content.
     
-* **4.9 Apple Pay**![ASR & NR](/app-store/review/images/key-icon.svg)
+* **4.9![ASR & NR](/app-store/review/images/key-icon.svg) Apple Pay**
     
     Apps using Apple Pay must provide all material purchase information to the user prior to sale of any good or service and must use Apple Pay branding and user interface elements correctly, as described in the Apple Pay Marketing Guidelines and Human Interface Guidelines. Apps using Apple Pay to offer recurring payments must, at a minimum, disclose the following information:
     
@@ -361,20 +361,20 @@ Apple customers place a high value on products that are simple, refined, innovat
     * What will be provided during each period
     * The actual charges that will be billed to the customer
     * How to cancel
-* **4.10 Monetizing Built-In Capabilities**![ASR & NR](/app-store/review/images/key-icon.svg)
+* **4.10![ASR & NR](/app-store/review/images/key-icon.svg) Monetizing Built-In Capabilities**
     
     You may not monetize built-in capabilities provided by the hardware or operating system, such as Push Notifications, the camera, or the gyroscope; or Apple services and technologies, such as Apple Music access, iCloud storage, or Screen Time APIs.
     
 
-### 5\. Legal ![ASR & NR](/app-store/review/images/key-icon.svg)
+### 5.![ASR & NR](/app-store/review/images/key-icon.svg) Legal
 
 Apps must comply with all legal requirements in any location where you make them available (if you’re not sure, check with a lawyer). We know this stuff is complicated, but it is your responsibility to understand and make sure your app conforms with all local laws, not just the guidelines below. And of course, apps that solicit, promote, or encourage criminal or clearly reckless behavior will be rejected. In extreme cases, such as apps that are found to facilitate human trafficking and/or the exploitation of children, appropriate authorities will be notified.
 
-* **5.1 Privacy**![ASR & NR](/app-store/review/images/key-icon.svg)
+* **5.1![ASR & NR](/app-store/review/images/key-icon.svg) Privacy**
     
     Protecting user privacy is paramount in the Apple ecosystem, and you should use care when handling personal data to ensure you’ve complied with [privacy best practices](https://developer.apple.com/documentation/uikit/protecting_the_user_s_privacy/), applicable laws, and the terms of the [Apple Developer Program License Agreement](https://developer.apple.com/support/terms/), not to mention customer expectations. More particularly:
     
-    * **5.1.1 Data Collection and Storage**![ASR & NR](/app-store/review/images/key-icon.svg)
+    * **5.1.1![ASR & NR](/app-store/review/images/key-icon.svg) Data Collection and Storage**
         * **(i) Privacy Policies:** All apps must include a link to their privacy policy in the App Store Connect metadata field and within the app in an easily accessible manner. The privacy policy must clearly and explicitly:
             * Identify what data, if any, the app/service collects, how it collects that data, and all uses of that data.
             * Confirm that any third party with whom an app shares user data (in compliance with these Guidelines)—such as analytics tools, advertising networks and third-party SDKs, as well as any parent, subsidiary or other related entities that will have access to user data—will provide the same or equal protection of user data as stated in the app’s privacy policy and required by these Guidelines.
@@ -388,7 +388,7 @@ Apps must comply with all legal requirements in any location where you make them
         * **(viii)** Apps that compile personal information from any source that is not directly from the user or without the user’s explicit consent, even public databases, are not permitted on the App Store or alternative app marketplaces.
         * **(ix)** Apps that provide services in highly regulated fields (such as banking and financial services, healthcare, gambling, legal cannabis use, and air travel) or that require sensitive user information should be submitted by a legal entity that provides the services, and not by an individual developer. Apps that facilitate the legal sale of cannabis must be geo-restricted to the corresponding legal jurisdiction.
         * **(x)** Apps may request basic contact information (such as name and email address) so long as the request is optional for the user, features and services are not conditional on providing the information, and it complies with all other provisions of these guidelines, including limitations on collecting information from kids.
-    * **5.1.2 Data Use and Sharing**![ASR & NR](/app-store/review/images/key-icon.svg)
+    * **5.1.2![ASR & NR](/app-store/review/images/key-icon.svg) Data Use and Sharing**
         * **(i)** Unless otherwise permitted by law, you may not use, transmit, or share someone’s personal data without first obtaining their permission. You must provide access to information about how and where the data will be used. Data collected from apps may only be shared with third parties to improve the app or serve advertising (in compliance with the [Apple Developer Program License Agreement](https://developer.apple.com/support/terms/)). You must receive explicit permission from users via the App Tracking Transparency APIs to track their activity. Learn more about [tracking](https://developer.apple.com/app-store/user-privacy-and-data-use/). Your app may not require users to enable system functionalities (e.g. push notifications, location services, tracking) in order to access functionality, content, use the app, or receive monetary or other compensation, including but not limited to gift cards and codes. Apps that share user data without user consent or otherwise complying with data privacy laws may be removed from sale and may result in your removal from the Apple Developer Program.
         * **(ii)** Data collected for one purpose may not be repurposed without further consent unless otherwise explicitly permitted by law.
         * **(iii)** Apps should not attempt to surreptitiously build a user profile based on collected data and may not attempt, facilitate, or encourage others to identify anonymous users or reconstruct user profiles based on data collected from Apple-provided APIs or any data that you say has been collected in an “anonymized,” “aggregated,” or otherwise non-identifiable way.
@@ -396,7 +396,7 @@ Apps must comply with all legal requirements in any location where you make them
         * **(v)** Do not contact people using information collected via a user’s Contacts or Photos, except at the explicit initiative of that user on an individualized basis; do not include a Select All option or default the selection of all contacts. You must provide the user with a clear description of how the message will appear to the recipient before sending it (e.g. What will the message say? Who will appear to be the sender?).
         * **(vi)** Data gathered from the HomeKit API, HealthKit, Clinical Health Records API, MovementDisorder APIs, ClassKit or from depth and/or facial mapping tools (e.g. ARKit, Camera APIs, or Photo APIs) may not be used for marketing, advertising or use-based data mining, including by third parties. Learn more about best practices for implementing [CallKit](https://developer.apple.com/documentation/callkit/), [HealthKit](https://developer.apple.com/documentation/healthkit/), [ClassKit](https://developer.apple.com/documentation/classkit/), and [ARKit](https://developer.apple.com/documentation/arkit/).
         * **(vii)** Apps using Apple Pay may only share user data acquired via Apple Pay with third parties to facilitate or improve delivery of goods and services.
-    * **5.1.3 Health and Health Research**![ASR & NR](/app-store/review/images/key-icon.svg)
+    * **5.1.3![ASR & NR](/app-store/review/images/key-icon.svg) Health and Health Research**
         
         Health, fitness, and medical data are especially sensitive and apps in this space have some additional rules to make sure customer privacy is protected:
         
@@ -417,7 +417,7 @@ Apps must comply with all legal requirements in any location where you make them
             
             As a reminder, [Guideline 2.3.8](#2.3.8) requires that use of terms like “For Kids” and “For Children” in app metadata is reserved for the Kids Category. Apps not in the Kids Category cannot include any terms in app name, subtitle, icon, screenshots or description that imply the main audience for the app is children.
             
-    * **5.1.5 Location Services**![ASR & NR](/app-store/review/images/key-icon.svg)
+    * **5.1.5![ASR & NR](/app-store/review/images/key-icon.svg) Location Services**
         
         Use Location Services in your app only when it is directly relevant to the features and services provided by the app. Location-based APIs shouldn’t be used to provide emergency services or autonomous control over vehicles, aircraft, and other devices, except for small devices such as lightweight drones and toys, or remote control car alarm systems, etc. Ensure that you notify and obtain consent before collecting, transmitting, or using location data. If your app uses Location Services, be sure to explain the purpose in your app; refer to the [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/patterns/accessing-private-data/) for best practices for doing so.
         
@@ -431,7 +431,7 @@ Apps must comply with all legal requirements in any location where you make them
     * **5.2.4 Apple Endorsements**
         * **(a)**![ASR & NR](/app-store/review/images/key-icon.svg) Don’t suggest or imply that Apple is a source or supplier of the App, or that Apple endorses any particular representation regarding quality or functionality.
         * **(b)** If your app is selected as an “Editor’s Choice,” Apple will apply the badge automatically.
-    * **5.2.5 Apple Products**![ASR & NR](/app-store/review/images/key-icon.svg) Don’t create an app that appears confusingly similar to an existing Apple product, interface (e.g. Finder), app (such as the App Store, iTunes Store, or Messages) or advertising theme. Apps and extensions, including third-party keyboards and Sticker packs, may not include Apple emoji. Music from iTunes and Apple Music previews may not be used for their entertainment value (e.g. as the background music to a photo collage or the soundtrack to a game) or in any other unauthorized manner. If you provide music previews from iTunes or Apple Music, you must display a link to the corresponding music in iTunes or Apple Music. If your app displays Activity rings, they should not visualize Move, Exercise, or Stand data in a way that resembles the Activity control. The [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/patterns/workouts/#activity-rings) have more information on how to use Activity rings. If your app displays Apple Weather data, it should follow the attribution requirements provided in the [WeatherKit documentation](https://developer.apple.com/weatherkit/get-started/#attribution-requirements).
+    * **5.2.5![ASR & NR](/app-store/review/images/key-icon.svg) Apple Products** Don’t create an app that appears confusingly similar to an existing Apple product, interface (e.g. Finder), app (such as the App Store, iTunes Store, or Messages) or advertising theme. Apps and extensions, including third-party keyboards and Sticker packs, may not include Apple emoji. Music from iTunes and Apple Music previews may not be used for their entertainment value (e.g. as the background music to a photo collage or the soundtrack to a game) or in any other unauthorized manner. If you provide music previews from iTunes or Apple Music, you must display a link to the corresponding music in iTunes or Apple Music. If your app displays Activity rings, they should not visualize Move, Exercise, or Stand data in a way that resembles the Activity control. The [Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/patterns/workouts/#activity-rings) have more information on how to use Activity rings. If your app displays Apple Weather data, it should follow the attribution requirements provided in the [WeatherKit documentation](https://developer.apple.com/weatherkit/get-started/#attribution-requirements).
 * **5.3 Gaming, Gambling, and Lotteries**
     
     Gaming, gambling, and lotteries can be tricky to manage and tend to be one of the most regulated offerings on the App Store. Only include this functionality if you’ve fully vetted your legal obligations everywhere you make your app available and are prepared for extra time during the review process. Some things to keep in mind:
@@ -440,15 +440,15 @@ Apps must comply with all legal requirements in any location where you make them
     * **5.3.2** Official rules for sweepstakes, contests, and raffles must be presented in the app and make clear that Apple is not a sponsor or involved in the activity in any manner.
     * **5.3.3** Apps may not use in-app purchase to purchase credit or currency for use in conjunction with real money gaming of any kind.
     * **5.3.4** Apps that offer real money gaming (e.g. sports betting, poker, casino games, horse racing) or lotteries must have necessary licensing and permissions in the locations where the app is used, must be geo-restricted to those locations, and must be free on the App Store. Illegal gambling aids, including card counters, are not permitted on the App Store. Lottery apps must have consideration, chance, and a prize.
-* **5.4 VPN Apps**![ASR & NR](/app-store/review/images/key-icon.svg)
+* **5.4![ASR & NR](/app-store/review/images/key-icon.svg) VPN Apps**
     
     Apps offering VPN services must utilize the [NEVPNManager API](https://developer.apple.com/documentation/networkextension/nevpnmanager/) and may only be offered by developers enrolled as an organization. You must make a clear declaration of what user data will be collected and how it will be used on an app screen prior to any user action to purchase or otherwise use the service. Apps offering VPN services may not sell, use, or disclose to third parties any data for any purpose, and must commit to this in their privacy policy. VPN apps must not violate local laws, and if you choose to make your VPN app available in a territory that requires a VPN license, you must provide your license information in the App Review Notes field. Parental control, content blocking, and security apps, among others, from approved providers may also use the NEVPNManager API. Apps that do not comply with this guideline will be removed from the App Store and blocked from installing via alternative distribution and you may be removed from the Apple Developer Program.
     
-* **5.5 Mobile Device Management**![ASR & NR](/app-store/review/images/key-icon.svg)
+* **5.5![ASR & NR](/app-store/review/images/key-icon.svg) Mobile Device Management**
     
     Mobile Device Management Apps that offer Mobile Device Management (MDM) services must request this capability from Apple. Such apps may only be offered by commercial enterprises, educational institutions, or government agencies, and in limited cases, companies using MDM for parental control services or device security. You must make a clear declaration of what user data will be collected and how it will be used on an app screen prior to any user action to purchase or otherwise use the service. MDM apps must not violate any applicable laws. Apps offering MDM services may not sell, use, or disclose to third parties any data for any purpose, and must commit to this in their privacy policy. In limited cases, third-party analytics may be permitted provided that the services only collect or transmit data about the performance of the developer’s MDM app, and not any data about the user, the user’s device, or other apps used on that device. Apps offering configuration profiles must also adhere to these requirements. Apps that do not comply with this guideline will be removed from the App Store and blocked from installing via alternative distribution and you may be removed from the Apple Developer Program.
     
-* **5.6 Developer Code of Conduct**![ASR & NR](/app-store/review/images/key-icon.svg)
+* **5.6![ASR & NR](/app-store/review/images/key-icon.svg) Developer Code of Conduct**
     
     Please treat everyone with respect, whether in your responses to App Store reviews, customer support requests, or when communicating with Apple, including your responses in App Store Connect. Do not engage in harassment of any kind, discriminatory practices, intimidation, bullying, and don’t encourage others to engage in any of the above. Repeated manipulative or misleading behavior or other fraudulent conduct will lead to your removal from the Apple Developer Program.
     
@@ -462,7 +462,7 @@ Apps must comply with all legal requirements in any location where you make them
         
         Use the provided API to prompt users to review your app; this functionality allows customers to provide an App Store rating and review without the inconvenience of leaving your app, and we will disallow custom review prompts.
         
-    * **5.6.2 Developer Identity**![ASR & NR](/app-store/review/images/key-icon.svg)
+    * **5.6.2![ASR & NR](/app-store/review/images/key-icon.svg) Developer Identity**
         
         Providing verifiable information to Apple and customers is critical to customer trust. Your representation of yourself, your business, and your offerings on the App Store or alternative app marketplaces must be accurate. The information you provide must be truthful, relevant, and up-to-date so that Apple and customers understand who they are engaging with and can contact you regarding any issues.
         
@@ -489,4 +489,4 @@ Once you’ve submitted your app and metadata in App Store Connect and you’r
 
 We’re excited to see what you come up with next!
 
-Last Updated: [June 10, 2024](https://developer.apple.com/news/?id=og4hxxz8)
+Last Updated: [August 1, 2024](https://developer.apple.com/news/?id=ty0avr2s)
