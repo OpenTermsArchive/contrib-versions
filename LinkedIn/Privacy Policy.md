@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_[Effective March 6, 2024](https://www.linkedin.com/help/linkedin/answer/3309/updates-to-user-agreement-and-privacy-policy)_
+_[Effective July 31, 2024](https://www.linkedin.com/help/linkedin/answer/3309/updates-to-user-agreement-and-privacy-policy)_
 
 Our Privacy Policy has been updated.
 
@@ -321,7 +321,7 @@ Table of Contents
     
     You may link your account with others’ services so that they can look up your contacts’ profiles, post your shares on such platforms, or enable you to start conversations with your connections on such platforms. Excerpts from your profile will also appear on the services of others.
     
-    Subject to your [settings](https://www.linkedin.com/psettings/privacy), other services may look up your profile. When you opt to link your account with other services, personal data will become available to them. The sharing and use of that personal data will be described in, or linked to, a consent screen when you opt to link the accounts. For example, you may link your Twitter or WeChat account to share content from our Services into these other services, or your email provider may give you the option to upload your LinkedIn contacts into its own service. Third-party services have their own privacy policies, and you may be giving them permission to use your data in ways we would not. You may [revoke](https://www.linkedin.com/psettings/account) the link with such accounts.
+    Subject to your [settings](https://www.linkedin.com/psettings/privacy), other services may look up your profile. When you opt to link your account with other services, personal data (e.g., your name, title, and company) will become available to them. The sharing and use of that personal data will be described in, or linked to, a consent screen when you opt to link the accounts. For example, you may link your Twitter or WeChat account to share content from our Services into these other services, or your email provider may give you the option to upload your LinkedIn contacts into its own service. Third-party services have their own privacy policies, and you may be giving them permission to use your data in ways we would not. You may [revoke](https://www.linkedin.com/psettings/account) the link with such accounts.
     
     Subject to your [settings](https://www.linkedin.com/psettings/data-sharing), excerpts from your [profile](https://www.linkedin.com/help/linkedin/answer/79854?trk=microsites-frontend_legal_privacy-policy&lang=en) will appear on the services of others (e.g., search engine results, mail and calendar applications that show a user limited profile data of the person they are meeting or messaging, [social media aggregators](https://www.linkedin.com/help/linkedin/answer/79854?trk=psettings-data-sharing_api&lang=en), talent and lead managers). “Old” profile information remains on these services until they update their data cache with changes you made to your profile.
     
@@ -329,13 +329,13 @@ Table of Contents
     
     We share your data across our different Services and LinkedIn affiliated entities.
     
-    We will share your personal data with our affiliates to provide and develop our Services. We may combine information internally across the different Services covered by this Privacy Policy to help our Services be more relevant and useful to you and others. For example, we may personalize your feed or job recommendations based on your learning history.
+    We will share your personal data with our affiliates to provide and develop our Services. For example, we may refer your query to Bing in some instances, such as where a more up to date response may benefit you. We may combine information internally across the different Services covered by this Privacy Policy to help our Services be more relevant and useful to you and others. For example, we may personalize your feed or job recommendations based on your learning history.
     
     ### 3.5 Service Providers
     
     We may use others to help us with our Services.
     
-    We use others to help us provide our Services (e.g., maintenance, analysis, audit, payments, fraud detection, marketing and development). They will have access to your information as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes.
+    We use others to help us provide our Services (e.g., maintenance, analysis, audit, payments, fraud detection, customer support, marketing and development). They will have access to your information (e.g., the contents of a customer support request) as reasonably necessary to perform these tasks on our behalf and are obligated not to disclose or use it for other purposes.
     
     ### 3.6 Legal Disclosures
     
