@@ -30,6 +30,9 @@
 * [Learn](https://www.kraken.com/learn)
 * [Support](https://support.kraken.com/hc/en-us)
 
+* [Sign in](https://www.kraken.com/sign-in)
+* [Sign up](https://www.kraken.com/sign-up)
+
 **Terms of Service**
 
 
