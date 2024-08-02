@@ -1,4 +1,4 @@
-Effective July 1, 2024 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-5055_xfinity-com-welcome-kit-legal/PP_07012024.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-5055_xfinity-com-welcome-kit-legal/PP_SP_07012024.pdf)
+Effective July 1, 2024 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_07112024_65.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_SP_07112024.pdf)
 
   
 
