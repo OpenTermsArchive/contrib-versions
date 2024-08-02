@@ -170,7 +170,7 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* [Etudes et statistiques](http://drees.solidarites-sante.gouv.fr/)
+* 
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -253,7 +253,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -490,7 +490,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -937,7 +937,7 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* [Etudes et statistiques](http://drees.solidarites-sante.gouv.fr/)
+* 
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -1020,7 +1020,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -1257,7 +1257,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -1678,7 +1678,7 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* [Etudes et statistiques](http://drees.solidarites-sante.gouv.fr/)
+* 
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -1761,7 +1761,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -1998,7 +1998,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -2368,7 +2368,7 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* [Etudes et statistiques](http://drees.solidarites-sante.gouv.fr/)
+* 
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -2451,7 +2451,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -2763,7 +2763,7 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* [Etudes et statistiques](http://drees.solidarites-sante.gouv.fr/)
+* 
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -2846,7 +2846,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -3158,7 +3158,7 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* [Etudes et statistiques](http://drees.solidarites-sante.gouv.fr/)
+* 
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -3241,7 +3241,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -3553,7 +3553,7 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* [Etudes et statistiques](http://drees.solidarites-sante.gouv.fr/)
+* 
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -3636,7 +3636,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -3948,7 +3948,7 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* [Etudes et statistiques](http://drees.solidarites-sante.gouv.fr/)
+* 
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -4031,7 +4031,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -4343,7 +4343,7 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* [Etudes et statistiques](http://drees.solidarites-sante.gouv.fr/)
+* 
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -4426,7 +4426,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -4699,7 +4699,7 @@ Retour
 * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
 * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
 * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-* [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+* 
 
 * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
 
@@ -4887,7 +4887,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -5120,7 +5120,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -5353,7 +5353,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -5586,7 +5586,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -5819,7 +5819,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -6052,7 +6052,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -6285,7 +6285,7 @@ Recherche
             * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -6491,7 +6491,7 @@ Retour
 * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
 * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
 * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-* [Eaux de baignade](http://baignades.sante.gouv.fr/baignades/editorial/fr/accueil.html)
+* 
 
 * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
 
