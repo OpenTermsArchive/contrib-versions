@@ -3,8 +3,8 @@ Terms of Use
 
 2024-06-17 05:41
 
-Part A: New version -updated on 17th of June 2024, effective as of 24th of June 2024
-====================================================================================
+Part A: New version -updated on 5th of August 2024, effective as of 10th of August 2024
+=======================================================================================
 
 PLEASE READ THESE TERMS AND CONDITIONS CAREFULLY!
 
@@ -28,13 +28,7 @@ Welcome to [www.alibaba.com](http://www.alibaba.com/)!  These Terms of Use desc
 2\. Provision of Services
 =========================
 
-2.1 If you are a registered member of any of the Sites, and you are from mainland China, you are contracting with Hangzhou Alibaba Advertising Co., Ltd.
-
-If you are a registered member of any of the Sites, and you are from Hong Kong or Macau, the Alibaba.com contracting entity that you are contracting with is Alibaba.com Hong Kong Limited. 
-
-If you are a registered member of any of the Sites, and either (a) you are from a place outside mainland China, Hong Kong, Macau; or (b) you access and use the Alibaba Sites from any of the Relevant Jurisdictions, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).   As some or part of the Services may be supported and provided by affiliates of Alibaba.com, Alibaba.com may delegate some of the Services to its affiliates.
-
- “Relevant Jurisdictions” shall mean the Russian Federation, Azerbaijan, Armenia, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Turkmenistan, Tajikistan and Uzbekistan.
+2.1 If you are a registered member of any of the Sites, and you are from mainland China, you are contracting with Hangzhou Alibaba Advertising Co., Ltd. If you are a registered member of any of the Sites, and either (a) you are from a place outside mainland China; or (b) you access and use the Alibaba Sites from any of the Relevant Jurisdictions, you are contracting with Alibaba.com Singapore E-Commerce Private Limited (incorporated in Singapore with Company Reg. No. 200720572D).   As some or part of the Services may be supported and provided by affiliates of Alibaba.uk, Alibaba.uk may delegate some of the Services to its affiliates.  “Relevant Jurisdictions” shall mean the Russian Federation, Azerbaijan, Armenia, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Turkmenistan, Tajikistan and Uzbekistan.
 
 2.2 You must register as a member on the Sites in order to access and use some Services. Further, Alibaba.com reserves the right, without prior notice, to restrict access to or use of certain Services (or any features within the Services) to paying Users, or subject to other conditions that Alibaba.com may impose in our discretion.  
 
@@ -247,7 +241,7 @@ a) Alibaba.com is able to demonstrate that communication, whether in physical or
 
 12.6 Alibaba.com shall have the right to assign the Terms (including all of our rights, titles, benefits, interests, and obligations and duties in the Terms） to any person or entity (including any affiliates of Alibaba.com). You may not assign, in whole or part, the Terms to any person or entity. 
 
-12.7 THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE PEOPLE’S REPUBLIC OF CHINA (“PRC”) IF YOU CONTRACT WITH HANGZHOU ALIBABA ADVERTISING CO., LTD ACCORDING TO PARAGRAPH 2.1, AND THE PARTIES TO THIS AGREEMENT HEREBY SUBMIT TO THE EXCLUSIVE JURISDICTION OF THE YUHANG BASIC PEOPLE’S COURT OF HANGZHOU, PRC.  IF YOUR CONTRACT IS WITH ALIBABA.COM HONG KONG LIMITED OR ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED, THEN THIS AGREEMENT SHALL BE GOVERNED BY LAWS OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION ("HONG KONG") WITHOUT REGARD TO ITS CONFLICT OF LAW PROVISIONS; AND THE PARTIES TO THIS AGREEMENT HEREBY SUBMIT TO THE EXCLUSIVE JURISDICTION OF THE HONG KONG COURTS, EXCEPT AS OTHERWISE STIPULATED UNDER APPLICABLE LAW.
+12.7 THIS AGREEMENT SHALL BE GOVERNED BY THE LAWS OF THE PEOPLE’S REPUBLIC OF CHINA (“PRC”) IF YOU CONTRACT WITH HANGZHOU ALIBABA ADVERTISING CO., LTD ACCORDING TO PARAGRAPH 2.1, AND THE PARTIES TO THIS AGREEMENT HEREBY SUBMIT TO THE EXCLUSIVE JURISDICTION OF THE YUHANG BASIC PEOPLE’S COURT OF HANGZHOU, PRC.  IF YOUR CONTRACT IS WITH ALIBABA.COM SINGAPORE E-COMMERCE PRIVATE LIMITED, THEN THIS AGREEMENT SHALL BE GOVERNED BY LAWS OF THE HONG KONG SPECIAL ADMINISTRATIVE REGION ("HONG KONG") WITHOUT REGARD TO ITS CONFLICT OF LAW PROVISIONS; AND THE PARTIES TO THIS AGREEMENT HEREBY SUBMIT TO THE EXCLUSIVE JURISDICTION OF THE HONG KONG COURTS, EXCEPT AS OTHERWISE STIPULATED UNDER APPLICABLE LAW.
 
 12.8 If you have any comments on the Services we provide to you, you may contact our customer service support line ([https://service.alibaba.com/buyer?spm=a2700.8293689.0.0.643f65aasdVUJy&tracelog=footer\_hp\_buyer](https://service.alibaba.com/buyer?spm=a2700.8293689.0.0.643f65aasdVUJy&tracelog=footer_hp_buyer)) with any such feedback or questions.
 
