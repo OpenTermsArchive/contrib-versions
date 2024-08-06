@@ -19,7 +19,7 @@ The full legal bit
 
 Badoo is a social media website and app designed as a forum for meeting new people, a place to have discussions and to share photos, news and information. It is intended to be a fun place to visit and it is important to us (and for you) that it remains a safe and friendly environment so you agree that you will only use Badoo in a manner consistent with its purpose and which is in accordance with these terms and conditions, as well as the Badoo Community Guidelines and Safety Tips (the “**Terms**”). When we mention Badoo, we mean www.badoo.com, together with affiliated websites and applications.
 
-The Terms constitute a binding legal agreement between you as user (“**you**”) and the Badoo Group (“we” or “us”). The Badoo Group includes, but is not limited to, Badoo Trading Limited (an English company whose registered office is at The Broadgate Tower, Third Floor, 20 Primrose Street, London EC2A 2RS), Social Online Payments Limited (a company incorporated in Ireland under company number 496494) and Social Online Payments, Inc. (a company incorporated in Delaware under company number 5214252).
+The Terms constitute a binding legal agreement between you as user (“**you**”) and the Badoo Group (“we” or “us”). The Badoo Group includes, but is not limited to, Badoo Trading Limited (an English company whose registered office is at 1 Blossom Yard, Fourth Floor, London E1 6RS), Social Online Payments Limited (a company incorporated in Ireland under company number 496494) and Social Online Payments, Inc. (a company incorporated in Delaware under company number 5214252).
 
 The Terms apply whenever you visit Badoo, whether or not you have chosen to register with us, so please read them carefully. By accessing, using, registering for or receiving services offered on Badoo you are accepting and agreeing to be bound by the Terms.
 
@@ -258,9 +258,9 @@ www.badoo.com is an app and site owned and operated by Badoo Trading Limited.
 
 We are registered in England under company number 07540255.
 
-Our registered office is at The Broadgate Tower, Third Floor, 20 Primrose Street, London EC2A 2RS.
+Our registered office is at 1 Blossom Yard, Fourth Floor, London E1 6RS.
 
 Effective date
 --------------
 
-The Terms were last updated on: 22nd April 2024.
+The Terms were last updated on: 2nd August 2024.
