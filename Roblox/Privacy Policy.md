@@ -43,9 +43,7 @@
         * [Storage and international transfer of your Personal Information](#brazil-storage-international-transfer-pii)
         * [Your rights as a Data Subject](#brazil-rights-as-data-subject)
 
-Effective Date: June 12, 2024
-
-[](https://www.kidsafeseal.com/certifiedproducts/roblox.html)
+Effective Date: August 5, 2024
 
 You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/20961293738004).
 
@@ -81,7 +79,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Write to us at:  
     Roblox Corporation  
     Attn: Roblox Privacy Manager  
-    Address: 970 Park Place, Suite 100  
+    Address: Roblox Corporation 3150 S. Delaware St. San Mateo, CA 94403  
     San Mateo, California, 94403  
     [privacy@roblox.com](mailto:privacy@roblox.com)
     
@@ -144,7 +142,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     * your date of birth (required). We’ll use this information to make sure your account has certain default settings intended for your age
     * your gender (optional). We will use this information to customize your experience
     
-    For additional account security and parental controls, you have the option to provide a parent’s or guardian’s email address in account settings or during logout. Children are encouraged to provide a parent’s email address, but are not required to do so to create an account. Parent email addresses (which is the only personal information [as defined by COPPA](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-312#p-312.2(Personal%20information)) we collect from child accounts) are collected for the security and integrity of your account and the Roblox platform. We may use your parent’s email address to communicate with them about your account, like asking them to review your account.
+    For additional account security and parental controls, you have the option to provide a parent’s or guardian’s email address in account settings or during logout. Children are encouraged to provide a parent’s email address, but are not required to do so to create an account. Parent email addresses (which is the only personal information [as defined by COPPA](https://www.ecfr.gov/current/title-16/chapter-I/subchapter-C/part-312#p-312.2(Personal%20information)) we collect from child accounts) are collected for the security and integrity of your account and the Roblox platform. We may use your parent’s email address to log you in. We may also use your parent’s email address to communicate with them about your account, like asking them to review your account.
     
     We don’t want more Personal Information
     
@@ -168,6 +166,8 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     In the US and want to know more?  
     We comply with the Children’s Online Privacy Protection Act (“COPPA”). To learn more about COPPA, you can visit the US Federal Trade Commission’s COPPA website: [https://www.ftc.gov/news-events/topics/protecting-consumer-privacy-security/kids-privacy-coppa](https://www.ftc.gov/news-events/topics/protecting-consumer-privacy-security/kids-privacy-coppa)
+    
+    [](https://www.kidsafeseal.com/certifiedproducts/roblox.html)
     
     You can also learn more about COPPA by looking at this simple guide from the kidSAFE Seal Program – [www.kidsafeseal.com/knowaboutcoppa.html](https://en.help.roblox.com/hc/en-us/articles/www.kidsafeseal.com/knowaboutcoppa.html)
     
@@ -243,10 +243,10 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Voice-based services (users 13 and older)
     
-    If you use Roblox’s voice services, we will collect, use, and store your voice recordings to:
+    If you use Roblox’s voice services, we will monitor, collect, use, and store your voice recordings to:
     
     * enable voice services
-    * make our voice-related services safer
+    * make our voice-related services safer, including to detect and combat abuse and other harmful activity on our Services
     
     If you use voice services on Roblox, we may use voice recordings to inform training and product improvement in accordance with applicable law. For more information about laws that apply in your region, please visit Section 7 of this policy.
     
@@ -819,5 +819,5 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Please also note that these rights are not absolute and may not apply in certain circumstances. For example, we may continue to process and retain Personal Information regardless of your request to delete, object, block or anonymize it, to comply with legal, contractual and/or regulatory obligations, and to protect and exercise rights, including in judicial, administrative and arbitration proceedings, and as otherwise required by law. To exercise your rights or ask questions, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support). To appeal a decision about your privacy rights, please contact our Brazilian Data Protection Officer by emailing [privacy@roblox.com](mailto:privacy@roblox.com), or otherwise reaching out to us as described in Section 1.
     
 
-Effective Date: June 12, 2024  
-Last Updated: June 12, 2024
+Effective Date: August 5, 2024  
+Last Updated: August 5, 2024
