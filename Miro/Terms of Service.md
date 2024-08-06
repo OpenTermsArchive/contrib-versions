@@ -34,9 +34,9 @@
     -------
     
     * [Product Management](https://miro.com/how-product-teams-use-miro/)
-    * [Engineering](https://miro.com/how-development-teams-use-miro/)
+    * [Engineering](https://miro.com/how-engineering-teams-use-miro/)
     * [IT Teams](https://miro.com/how-it-teams-use-miro/)
-    * [UX & Design](https://miro.com/how-ux-teams-use-miro/)
+    * [UX & Design](https://miro.com/how-design-teams-use-miro/)
     * [Marketing](https://miro.com/how-marketing-teams-use-miro/)
     
     By Use Case
@@ -77,7 +77,7 @@
     --------------------------
     
     * [Overview](https://miro.com/enterprise/)
-    * [Trust & Security](https://miro.com/security/)
+    * [Trust & Security](https://miro.com/trust/)
     * [Enterprise Guard](https://miro.com/enterprise-guard/)
     * [Accessibility](https://miro.com/accessibility-statement/)
     * [Customer Stories](https://miro.com/customers/)
