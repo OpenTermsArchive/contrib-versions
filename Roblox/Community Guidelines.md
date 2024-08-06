@@ -300,7 +300,7 @@ To maintain privacy and safety, users may be prohibited from sharing or requesti
 * Internet Identifiers such as usernames and handles not linked to Roblox
 * Sensitive credentials such as social security number
 * Visual and audio media of themselves or other non-public figures
-* Full legal names except as permitted in Usernames or Display Names for eligible users
+* Full legal names except as permitted in Customizable Friend Requests, Usernames or Display Names for eligible users
 
 Directing Users Off-Platform
 
@@ -341,6 +341,7 @@ Change Log
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| August 5, 2024 | Added “Customizable Friend Requests” as permitted to use real names for eligible users under the Sharing PII policy |
 | July 15, 2024 | Added “Guilded” and “GitHub” to the list of allowed external websites or services under the Directing Users Off-Platform policy.<br><br>Added additional examples under Child Endangerment.<br><br>Effective July 15, 2024 |
 | April 1, 2024 | Updated the following Community Standards:<br><br>* Sharing Personal Information<br>    * Included age clarification<br>    * Updated language for Usernames and Display Names<br>    * Updated examples of prohibited content<br>* Directing Users Off-Platform<br>    * Updated name of Twitter to X (formerly Twitter)<br><br>Effective April 1, 2024 |
 | March 18, 2024 | Clarified requirements for Trademark infringement claims and included action Roblox may take for IP violating content.<br><br>Effective March 18, 2024 |
