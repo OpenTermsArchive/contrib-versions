@@ -12,7 +12,7 @@ Who we are
 
 Badoo Trading Limited act as the data controller of the personal information collected and processed through the Badoo App and Sites (referred to in this Policy as “we” and “us”).
 
-Badoo has designated a Data Protection Officer that can be reached by emailing DPO@badoo.com or by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS
+Badoo has designated a Data Protection Officer that can be reached by emailing DPO@badoo.com or by post at the following address: 1 Blossom Yard, Fourth Floor, London E1 6RS
 
 1\. COLLECTION OF INFORMATION
 -----------------------------
@@ -300,7 +300,7 @@ Privacy laws applicable in your country may give you the following rights:
 
 The particular rights which are applicable to you (which might include other rights not listed above) may vary depending on your country. You should make yourself aware of the rights you have under applicable privacy laws in your country.
 
-If you want to exercise any of your rights listed above please visit our [Feedback Page](https://badoo.com/privacy/feedback) or email our Data Protection Officer at DPO@badoo.com. You can also contact us by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS. For your protection and the protection of all of our Users, we may need to request specific information from you to help us confirm your identity before we can answer the above requests.
+If you want to exercise any of your rights listed above please visit our [Feedback Page](https://badoo.com/privacy/feedback) or email our Data Protection Officer at DPO@badoo.com. You can also contact us by post at the following address: 1 Blossom Yard, Fourth Floor, London E1 6RS. For your protection and the protection of all of our Users, we may need to request specific information from you to help us confirm your identity before we can answer the above requests.
 
 If you have a concern about how we have processed your request or your personal data, you should contact us in the first instance via the contact details listed above.
 
@@ -340,4 +340,4 @@ Thanks for reading, we hope we didn’t drone on for too long!
 
 As Badoo evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://badoo.com/privacy/. If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Badoo.
 
-**Effective date.** This Privacy Policy was last updated on: 16th February 2024.
+**Effective date.** This Privacy Policy was last updated on: 2nd August 2024.
