@@ -12,14 +12,14 @@ When you use your customer account, the DB companies DB Vertrieb GmbH, DB Fernve
 If you have any questions or suggestions regarding this privacy statement, simply contact one of the DB companies.
 
 DB Vertrieb GmbH  
-Europa-Allee 78- 84  
+Europa-Allee 70-76  
 60486 Frankfurt  
 Germany
 
 [p.d-datenschutz@deutschebahn.com](mailto:p.d-datenschutz@deutschebahn.com)
 
 DB Fernverkehr AG  
-Europa-Allee 78- 84  
+Europa-Allee 78-84  
 60486 Frankfurt  
 Germany
 
@@ -179,7 +179,7 @@ Joint responsibility exists between DB Vertrieb, DB Fernverkehr and DB Regio as 
 To exercise your rights relating to your customer account, simply contact us at the following address:  
   
 DB Vertrieb GmbH  
-Europa-Allee 78-84  
+Europa-Allee 70-76  
 60486 Frankfurt  
 Germany
 
@@ -191,4 +191,4 @@ If you contact one company but another company is responsible for your particula
 
 We update our privacy statement to bring it into line with new functions or legal requirements. We therefore recommend that you check the privacy notice at regular intervals.
 
-Last modified: June 2024
+Last modified: August 2024
