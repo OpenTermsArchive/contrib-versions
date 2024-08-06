@@ -1,9 +1,9 @@
 Privacy Policy
 ==============
 
-_Effective: May 30, 2023_
+_Effective: 1 August, 2024_
 
-This Privacy Policy ("Privacy Policy") describes the types of Information that IDB LLC ("we" or "us") may collect from you through our software, website ("Site"), documentation, and related services (together, the "Services"), in person, and other means, unless otherwise expressly stated by IDB. This Privacy Policy also describeshow we collect, store, use, process, and share that Information.
+This Privacy Policy ("Privacy Policy") describes the types of Information that IDB LLC ("we" or "us") may collect from you through our software, website ("Site"), documentation, and related services (together, the "Services"), in person, and other means, unless otherwise expressly stated by IDB. This Privacy Policy also describes how we collect, store, use, process, and share that Information.
 
 Please read this Privacy Policy to understand our policies and practices regarding your Information and how we will handle it. If you do not agree with our policies and practices, do not use the Services or provide your Information to us.
 
@@ -34,7 +34,13 @@ If you encounter technical errors when using the Services, we may request your p
 
 ### Cookies, Usage, and Analytics Information
 
-As you use our Services, we and Data Processors working on our behalf may also collect Information through the use of commonly-used data-gathering tools, such as "cookies" (described further below), log files, and Web beacons. We collect the following types of information from these tracking technologies:
+We may use cookies and similar tracking technologies (like web beacons and pixels) to gather information when you interact with our Services. Some online tracking technologies help us maintain the security of our Services and your account, prevent crashes, fix bugs, save your preferences, and assist with basic site functions.
+
+We also permit third parties and service providers to use online tracking technologies on our Services for analytics and advertising, including to help manage and display advertisements, to tailor advertisements to your interests, or to send abandoned shopping cart reminders (depending on your communication preferences). The third parties and service providers use their technology to provide advertising about products and services tailored to your interests which may appear either on our Services or on other websites.
+
+If you believe our online tracking technologies qualify as a "sale" or "sharing" of your personal information under applicable US state laws (including targeted advertising), you can opt out of these technologies by submitting a request. This also applies to the processing of your personal data for targeted advertising (or sharing as defined under California law), the sale of personal data, or profiling used to make decisions with legal or similar significant impacts (known as 'profiling').
+
+Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 
 * _Device information_, including IP address, device identifiers, and details about your web browser.
 * _Analytical information_, including details about your interaction with our website and electronic newsletters.
