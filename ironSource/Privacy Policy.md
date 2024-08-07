@@ -1,6 +1,6 @@
 #### ironSource Website Privacy Policy
 
-Last Updated: July 3rd, 2023
+Last Updated: August 6th, 2024
 
 The following policy governs how ironSource Ltd. (“ironSource“, “Company” “we” or “us“), and its subsidiaries, handle information collected from users of its websites, at the addresses [is.com/](https://www.is.com/), lunalabs.io/, bidalgo.com/, tapjoy.com/ and their subdomains (the “Sites“), including ironSource Mobile Dashboard, Tapjoy Dashboard, Luna Create Hub and the Luna Control Hub (the “Dashboards”).
 
@@ -19,7 +19,7 @@ Tapjoy’s privacy policy – [https://dev.tapjoy.com/en/legal/Privacy-Policy](h
 The Sites are accessible for individuals around the world. Accordingly, throughout the document, we try to harmonize our approach and the language of the privacy policy as much as possible. However, sometimes we refer to specific laws that require further disclosures. These disclosures cover laws and regulations applicable to the following regions:
 
 1. Individuals who we deem to be located in the European Economic Area, United Kingdom, or Switzerland – With respect to the collection and processing of their personal data, as defined by the General Data Protection Regulation (“GDPR”), and the UK Data Protection Act.
-2. If you are a resident of California, Virginia, Connecticut, or Colorado – please see “State Privacy Rights” section of this privacy policy for information related to privacy laws in these states.
+2. If you are a resident of California, Virginia, Connecticut, Colorado, Utah, Florida, Oregon, Texas, Montana, Delaware, Iowa, Nebraska, New Hampshire and New Jersey – please see “State Privacy Rights” section of this privacy policy for information related to privacy laws in these states.
 
 Your Consent (PLEASE READ CAREFULLY!) BY ACCESSING THE SITES AND/OR USING THE SITES, YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE “PRIVACY POLICY“), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT USE THE SITES.
 
@@ -84,7 +84,7 @@ A data subject also has the right to file a complaint with the relevant supervis
 
 State Privacy Rights
 
-1. California, Virginia, Connecticut and Colorado residents have certain rights under state privacy laws with respect to personal data we collect. If you are a resident of such states, this section of the privacy policy contains disclosures required by law and explains rights that may be available to you.
+1. California, Virginia, Connecticut, Colorado, Utah, Florida, Oregon, Texas, Montana, Delaware, Iowa, Nebraska, New Hampshire and New Jersey residents have certain rights under state privacy laws with respect to personal data we collect. If you are a resident of such states, this section of the privacy policy contains disclosures required by law and explains rights that may be available to you.
 2. In the past 12 months, we have collected, sold (including sharing for targeted advertising), and disclosed for business purposes the following categories of personal data. We do not knowingly sell, nor do we share or process for targeted advertising purposes, personal data about consumers under the age of 16.
 ![](/wp-content/uploads/2022/12/privacy-policy-3-1.png ) ![](/wp-content/uploads/2022/12/privacy-policy-3-2.png )5. Our Purposes for Processing Personal Data – We use and disclose the personal data we collect for our commercial and business purposes, as further described above in the “Information We Collect, and Purposes of Processing” and the “Sharing Information With Third Parties” Sections.
 6. Recipients of Personal Data Although we do not sell personal data for monetary consideration, we do sell personal data, including sharing for targeted advertising purposes, subject to the choices you make on the Site, to the categories of third parties listed below:
@@ -118,7 +118,7 @@ Verification Process and Required Information
 
 Note that we may need to request additional information from you to verify your identity or process your request. You will not be required to create an account with us to submit a request or have it fulfilled. We will require you to provide, at a minimum, your email address and state of residence. We may also ask you to provide us a few of your device identifiers, so that we can verify your identity. Once we verify your identity, we will request additional information necessary to authenticate the request.
 
-Information about California resident requests in 2022
+Information about California resident requests: As required by California law, ironSource has provided the following information about requests it received from California residents from June 1, 2023 to May 31, 2024.
 
 ![](data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==)
 
@@ -126,17 +126,22 @@ Changes to the Privacy Policy
 
 We may revise this privacy policy from time to time. The most current version of the policy will govern our processing of information and is posted at https://www.is.com/privacy-policy/. If we make a change to this policy, we will post the revised privacy policy to this page.
 
-Have any Questions?
+Contact Us:
 
-If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email to website-privacy-request@ironsrc.com, and we will make an effort to reply within a reasonable timeframe.
+ironSource Ltd., located at 121 Menachem Begin Rd., Tel Aviv, Israel, is the organization responsible for collection, use, and disclosure of your Personal Information under this Privacy Policy.
 
-Representation for data subjects in the EU
+If you have any questions about this Privacy Policy, please contact us at ironsource\_privacy@unity3d.com.
 
-We value your privacy and your rights as a data subject and have therefore appointed Prighter as our privacy representative and your point of contact. Prighter gives you an easy way to exercise your privacy-related rights (e.g. requests to access or erase personal data). If you want to contact us via our representative Prighter or make use of your data subject rights, please visit the following website. [https://prighter.com/q/19359051762](https://prighter.com/q/19359051762)
+Because email communications are not always secure, please do not include credit card or other sensitive information in your emails to us.
 
-Data Protection Officer
+121 Menachem Begin Rd., Tel Aviv, Israel
 
-ironSource Ltd.  
-ironsource\_privacy@unity3d.com  
-121 Menachem Begin Rd., Tel Aviv, Israel  
 Attn: Data Protection Officer
+
+You can also contact us as follows:
+
+* DPO@unity3d.com
+* ironSource Ltd., 121 Menachem Begin Rd., Tel Aviv, Israel (Israel contact)
+* Unity Technologies, 30 3rd Street, San Francisco, CA 94103 (United States contact)
+* Unity Technologies ApS, Niels Hemmingsens Gade 24, 1153 Copenhagen, Denmark (European Union contact)
+* Unity Technologies, GINZA SIX 8F, 6-10-1 Ginza, Chuo-ku, Tokyo Japan 104-0061 (Japan Contact)
