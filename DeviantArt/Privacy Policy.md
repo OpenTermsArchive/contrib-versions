@@ -129,6 +129,8 @@ Please check out the table below to receive information about the type, categori
 | Local Storage | FilmQuality | Allow the use of player settings | persistent | Essential |
 | Local Storage | statusUpdateSubmitCounter | Number of status updates submitted via eclipse | persistent | Functional |
 | Local Storage | intents, intents\_other | List of signup intents selected by user | persistent | Essential |
+| Local storage | pwa\_notifications | Allowing push notifications | persistent | Essential |
+| Cookie | pwa\_banner | Dismissing the prompt to install the web app | session | Essential |
 
 Third Party Cookies:
 
