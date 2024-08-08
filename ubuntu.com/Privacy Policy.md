@@ -1,7 +1,5 @@
 Your submission was sent successfully! [_Close_](#)
 
-Thank you for contacting our team. We will be in touch shortly. [_Close_](#)
-
 You have successfully unsubscribed! [_Close_](#)
 
 Thank you for signing up for our newsletter!  
