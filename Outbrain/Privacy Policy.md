@@ -120,6 +120,10 @@ In addition to Outbrain’s visible widget on Partner Sites, certain Outbrain ad
 
 If you click on a link to one of our recommendations, the advertiser sponsoring the recommendation may place cookies (or third party cookies of third parties acting on the advertiser’s behalf) on your device either through redirects prior to arriving on the destination page of the recommendations or upon reaching the destination page. Such cookies are dropped for the purposes of providing analytics to the advertiser with regards to the advertiser’s campaign (for example, to see how many users viewed the advertiser’s campaign). We require our advertisers to disclose the use of third party pixels and/or cookies to end users via their website. As these cookies and/or pixels are added at the sole discretion of our advertisers you will be subject to that advertiser’s privacy notice and/or privacy policy.
 
+* **Third Party Segments**
+
+Outbrain’s policy restricts targeting based on sensitive demographics like political views due to privacy concerns and the potential for bias. However, based on Outbrain’s third-party targeting options available to our advertisers, Outbrain may use third-party standard politics related segments that may indicate general political sentiment, interest in specific political issues, and political party affiliation. Outbrain does not knowingly create segments that are based upon what we consider to be sensitive information (for example, Personal Data revealing your racial or ethnic origin or your religious affiliations, or Personal Data concerning your sensitive health information, sex life or sexual orientation, or genetic or biometric data). 
+
 **(c) How we may share information**
 
 * **Our Partners**
