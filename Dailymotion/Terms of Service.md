@@ -498,6 +498,11 @@ The above list is non-exhaustive and applies to all types of content.
 Any User who violates the rules set out above and/or encourages their violation is subject to the consequences set out in Section III.  
 For more information on this type of content, you can read the dedicated article on the Dailymotion Help Center.
 
+#### **L. Any Other Content Violating Applicable Laws or Regulations**
+
+  
+Prohibited Content shall also include any other content in violation of applicable laws and/or regulations.
+
 ### II) DETECTION AND REPORT OF PROHIBITED CONTENT
 
 As a hosting service provider, Dailymotion has no general legal obligation to monitor the Content uploaded on the Dailymotion Service nor any general legal obligation to investigate facts or circumstances revealing illicit activities but must immediately remove or disable access to any illicit Content after being informed of its existence.
