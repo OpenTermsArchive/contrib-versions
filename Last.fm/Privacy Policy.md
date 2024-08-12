@@ -270,7 +270,7 @@ YOUR CHOICES, RIGHTS, AND CONTROLS
 
 You may have certain rights and choices regarding your personal information, such as the right to ask us for a copy of the information we hold about you. These rights are not available everywhere and may be limited by local laws. For example, these rights may be limited if fulfilling your request would reveal personal information about another person, or if you ask us to delete information that we are required by law to keep.
 
-To exercise any of these rights or choices, please visit our [Privacy Rights Center](http://privacy.paramount.com/privacyrightscenter) and select the relevant form.
+To exercise any of these rights or choices, please visit our [Privacy Rights Center](https://privacy.paramount.com/privacyrightscenter) and select the relevant form.
 
 ### Learn More...
 
@@ -290,7 +290,7 @@ Depending on where you live, you may have the following rights regarding your pe
 
 For additional information about the additional rights that may be available to you if you live in certain US states, please see “[Additional Information: US States](#additional-information:-us-states)”.
 
-If you would like to submit a request to exercise any of the rights that are available to you, ask a question, or contact the data protection officer, please visit the [Privacy Rights Center](http://privacy.paramount.com/privacyrightscenter) and select the relevant form.
+If you would like to submit a request to exercise any of the rights that are available to you, ask a question, or contact the data protection officer, please visit the [Privacy Rights Center](https://privacy.paramount.com/privacyrightscenter) and select the relevant form.
 
 Before responding to a request, we may need to ask for additional information and may send you an email to verify your identity and confirm that you submitted the request. We may also need additional information to verify that your authorized agent or representative has the authority to make a request on your behalf. We will respond to your request within the time period required under the law.
 
@@ -343,9 +343,9 @@ Some of the Paramount Services may feature Nielsen proprietary measurement softw
 
 We, our service providers, business partners, and other third parties may use interest-based advertising. This means that we may collect information about you on the Paramount Services and on Third-Party Services to help serve advertising relevant to your interests across your devices, browsers, and on and off the Paramount Services. For more information on the choices that may be available to you to opt out of receiving interest-based advertising, please visit:
 
-* [Digital Advertising Alliance (US)](http://www.aboutads.info/choices/)
+* [Digital Advertising Alliance (US)](https://www.aboutads.info/choices/)
 * [Digital Advertising Alliance (Canada)](https://youradchoices.ca/en/tools)
-* [Digital Advertising Alliance (Australia)](http://www.youronlinechoices.com.au/)
+* [Digital Advertising Alliance (Australia)](https://www.youronlinechoices.com.au/)
 * [Digital Advertising Alliance (EU)](https://www.youronlinechoices.com/)
 * [Network Advertising Initiative](https://optout.networkadvertising.org/?c=1)
 
@@ -423,7 +423,7 @@ CONTACT US
 
 The Paramount company responsible for your personal information can be found in the “[Paramount Controller List](https://privacy.paramount.com/en/controllers-list)”.
 
-If you have any questions or concerns regarding this privacy policy or would like to contact the data protection officer, please visit the [Privacy Rights Center](http://privacy.paramount.com/privacyrightscenter) and select the relevant form.
+If you have any questions or concerns regarding this privacy policy or would like to contact the data protection officer, please visit the [Privacy Rights Center](https://privacy.paramount.com/privacyrightscenter) and select the relevant form.
 
 If you prefer to send your questions or comments by postal mail, please send a letter to the following address:
 
@@ -483,7 +483,7 @@ In certain U.S. States, in addition to the rights described in the **Your Choice
 * **Non-discrimination**. We will not discriminate against you based on your exercise of any of the rights described above.
 * **Appeal**. If you have any unresolved privacy concerns that we have not addressed satisfactorily after contacting us, you may have the right to appeal our decision by responding directly in your request or by opening a new request and selecting ‘General Privacy Request’ and indicating that you are appealing our response to your previous request.
 
-In those states where it is applicable, you or your authorized agent may submit a request to exercise any of the above rights by visiting our [Privacy Rights Center](http://privacy.paramount.com/privacyrightscenter) or by calling us at (888) 841-3343. To opt out of the sale or sharing of your personal information, or our processing of your personal information for purposes of targeted advertising, click on the Your Privacy Choices link in the footer of the relevant websites or in the settings menu of the relevant mobile or online applications. Note that your choice to opt out is device- or browser-specific and you will need to manage your preferences for each device or browser you use. You may also need to make this choice separately on different Paramount Services.
+In those states where it is applicable, you or your authorized agent may submit a request to exercise any of the above rights by visiting our [Privacy Rights Center](https://privacy.paramount.com/privacyrightscenter) or by calling us at (888) 841-3343. To opt out of the sale or sharing of your personal information, or our processing of your personal information for purposes of targeted advertising, click on the Your Privacy Choices link in the footer of the relevant websites or in the settings menu of the relevant mobile or online applications. Note that your choice to opt out is device- or browser-specific and you will need to manage your preferences for each device or browser you use. You may also need to make this choice separately on different Paramount Services.
 
 In those states where it is required, if you have enabled the Global Privacy Control signal, we will treat this as a request to opt out of “sales”, “sharing” and “targeted advertising” for device information. Note that we do not associate your browser or device information with your name, email address, and other direct identifiers. If you would like to opt out of the use of this information for “sales”, “sharing” and “targeted advertising”, please visit our Privacy Rights Center linked above. For more information about how to use the Global Privacy Control signal, please see [here](https://globalprivacycontrol.org/).
 
@@ -508,6 +508,6 @@ We may use your personal information for the purposes described in “[How We Us
 
 **“Shine the Light” and “Eraser” Laws**. Residents of the State of California may request a list of all third parties to whom we have disclosed certain information during the preceding year for those third parties’ direct marketing purposes.
 
-If you are a California resident under the age of 18 and a registered user of a service where this policy is posted, you may request removal of content or information you have publicly posted. Please be aware that such a request does not ensure complete removal from the internet of the content or information you posted, and there may be circumstances in which the law does not require or allow removal. For all requests under the “Shine the Light” or “Eraser” law, please visit our [Privacy Rights Center](http://privacy.paramount.com/privacyrightscenter) and complete the form relevant to your relationship with Paramount and select California as your state. We will only accept requests to exercise these rights through this mechanism.
+If you are a California resident under the age of 18 and a registered user of a service where this policy is posted, you may request removal of content or information you have publicly posted. Please be aware that such a request does not ensure complete removal from the internet of the content or information you posted, and there may be circumstances in which the law does not require or allow removal. For all requests under the “Shine the Light” or “Eraser” law, please visit our [Privacy Rights Center](https://privacy.paramount.com/privacyrightscenter) and complete the form relevant to your relationship with Paramount and select California as your state. We will only accept requests to exercise these rights through this mechanism.
 
 **CCPA METRICS**: CAN BE VIEWED [HERE](https://www.viacomcbsprivacy.com/metrics/ccpa/).
