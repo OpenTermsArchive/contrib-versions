@@ -360,6 +360,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
 * [MLflow](https://ubuntu.com/ai/mlflow)
 * [Consulting](https://ubuntu.com/ai/consulting)
+* [Data Science](https://ubuntu.com/ai/data-science)
 
 * * *
 
