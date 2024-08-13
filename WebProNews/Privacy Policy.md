@@ -250,11 +250,11 @@ Publication Categories
 * [Life](https://www.webpronews.com/life/)
 * [IT Management](https://www.webpronews.com/technology/)
 
-Newsletter
+Advertise With Us
 
 Deliver your marketing message **directly to decision makers.**
 
-[Subscribe](https://control.ientry.com/subscribe/)
+[Get Started](https://www.webpronews.com/advertise/?utm_source=main_header&utm_medium=site&utm_campaign=advertise_page)
 
 ![](https://www.webpronews.com/wp-content/themes/wpn_theme/imgs/ientry_logo.png) WebProNews is an iEntry Publication
 
