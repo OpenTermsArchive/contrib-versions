@@ -9,6 +9,8 @@ Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
 Date effective : 26 juin 2024 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/?show_versions=1)
 
+### 
+
 En bref
 
 Chez Meta, nous souhaitons que vous compreniez quelles informations nous recueillons et comment nous les utilisons et les partageons. C’est pourquoi nous vous encourageons à lire notre Politique de confidentialité. Cela vous permet d’utiliser les [Produits Meta](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) de la manière qui vous convient le mieux.
@@ -26,6 +28,8 @@ Lisez la politique complète ci-dessous.
 [En savoir plus sur la gestion de votre confidentialité dans notre Centre de confidentialité](https://www.facebook.com/privacy/center/)
 
 Quelles informations recueillons-nous ?
+
+### 
 
 En bref
 
@@ -66,6 +70,8 @@ Gérer les informations que nous recueillons à votre sujet
 Centre de confidentialité](https://www.facebook.com/privacy/guide/collection/)
 
 Comment utilisons-nous vos informations ?
+
+### 
 
 En bref
 
@@ -125,6 +131,8 @@ Nous utilisons les informations à notre disposition, les informations fournies 
 
 Comment vos informations sont-elles partagées sur les Produits Meta ou avec nos partenaires intégrés ?
 
+### 
+
 En bref
 
 ![Mains tenant un téléphone qui utilise Facebook Login pour se connecter au site web d’un partenaire intégré.](/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/Privacy-2021-CompanyBrand-71A-Mobile.png)
@@ -170,6 +178,8 @@ Centre de confidentialité](https://www.facebook.com/privacy/guide/sharing/)
 [Gestion des applications et sites web](https://fr-fr.facebook.com/privacy/policy/?link_dialog=MANAGE_APPS)
 
 Comment partageons-nous des informations avec des tiers ?
+
+### 
 
 En bref
 
@@ -219,6 +229,8 @@ Si nous vendons ou transférons une partie de notre activité à quelqu’un d�
 
 Comment les Entités Meta collaborent-elles ?
 
+### 
+
 En bref
 
 ![Un Meta Quest, un téléphone mobile affichant les applications Facebook, Instagram et Messenger et une paire de lunettes Ray-Ban Stories sont posés sur une table.](/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/PrivacyPolicy-LogoTree-Hero-16x7-WWW.png)
@@ -247,6 +259,8 @@ Autres ressources
 Pages d’aide Facebook](https://www.facebook.com/help/111814505650678)
 
 Comment pouvez-vous gérer ou supprimer vos informations et exercer vos droits ?
+
+### 
 
 En bref
 
@@ -293,6 +307,8 @@ Transférer, télécharger ou supprimer vos informations
 Vous pouvez en savoir plus au sujet de la confidentialité sur [Facebook](https://www.facebook.com/privacy/center/) et sur [Instagram](https://fr-fr.facebook.com/privacy/explanation/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp) ainsi que sur les [Pages d’aide Facebook](https://www.facebook.com/help/). Pour toute question concernant la présente politique, vous pouvez [nous contacter](https://www.facebook.com/help/contact/507739850846588) par les moyens décrits ci-dessous. Dans certains pays, vous pouvez également contacter le Délégué à la Protection des données de Meta Platforms, Inc. Et, selon votre juridiction, vous pouvez également contacter directement votre Autorité chargée de la Protection des données (« APD ») locale.
 
 Quelle est notre base légale pour le traitement de vos informations et quels sont vos droits ?
+
+### 
 
 En bref
 
@@ -344,6 +360,8 @@ Déposer une plainte](https://fr-fr.facebook.com/privacy/policy/?subpage=7.subpa
 
 Combien de temps conservons-nous vos informations ?
 
+### 
+
 En bref
 
 Nous conservons des informations tant que nous en avons besoin pour fournir nos Produits, respecter des obligations légales, ou protéger nos intérêts ou ceux d’autrui. Nous décidons combien de temps nous avons besoin des informations au cas par cas. Voici les éléments que nous prenons en considération au moment de prendre notre décision :
@@ -356,6 +374,8 @@ Nous conservons des informations tant que nous en avons besoin pour fournir nos 
 Dans certains cas et pour des raisons spécifiques, nous conserverons des informations pendant une période prolongée. [Lisez notre politique](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=8.ex.3-WhyWeMayPreserve) au sujet des circonstances dans lesquelles nous sommes susceptibles de conserver vos informations.
 
 Comment transférons-nous des informations ?
+
+### 
 
 En bref
 
@@ -370,6 +390,8 @@ En bref
 [Comment protégeons-nous vos informations ?](https://fr-fr.facebook.com/privacy/policy/?subpage=9.subpage.3-HowDoWeSafeguard)
 
 Comment procédons-nous pour répondre aux demandes légales, nous conformer à la loi applicable et éviter tout risque de préjudice ?
+
+### 
 
 En bref
 
