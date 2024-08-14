@@ -1,7 +1,7 @@
 Last modified on 06/30/2023
 
-**Twitch.tv&nbsp;Privacy Notice**
-=================================
+**Twitch.tv Privacy Notice**
+============================
 
 Last updated: June 30, 2023. To see prior versions, [click here](https://www.twitch.tv/p/legal/privacy-notice/archive/).
 
