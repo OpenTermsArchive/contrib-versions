@@ -193,8 +193,8 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     
     The uploading or sharing of content that violates these Terms ("Prohibited Content") may result in the immediate suspension or termination of your account.
     
-3. 3\. CONTENT
-    -----------
+3. CONTENT
+    -------
     
     **It is important that you understand your rights and responsibilities with regard to the content on our Services, including any content you provide or post. You are expressly prohibited from posting inappropriate content.**
     
@@ -348,7 +348,7 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     
     in accordance with local law, you are entitled to a full refund of your subscription and/or unused Virtual Items during the 7 days following the purchase. Please note that this 7-day period commences upon the purchase.
     
-    For subscribers residing in Arizona, California, Colorado, Connecticut, Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, Rhode Island, Wisconsin, and Israel:
+    For subscribers residing in Arizona, California, Colorado, Connecticut, Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, Rhode Island, Wisconsin and Israel:
     
     Your Right to Cancel - You may cancel your subscription, without penalty or obligation, at any time prior to midnight of the third business day following the date you subscribed. In the event that you die before the end of your subscription period, your estate shall be entitled to a refund of that portion of any payment you had made for your subscription which is allocable to the period after your death. In the event that you become disabled (such that you are unable to use our Services) before the end of your subscription period, you shall be entitled to a refund of that portion of any payment you had made for your subscription which is allocable to the period after your disability by providing the Company notice in the same manner as you request a refund as described below.
     
@@ -531,7 +531,7 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     
     **By using our Services, you accept the Terms of this Agreement.**
     
-    By using our Services, whether through a mobile device, mobile application, or computer, you agree to be bound by (i) these Terms, which we may amend from time to time, (ii) our [Privacy Policy](https://policies.tinder.com/privacy), [Cookie Policy](https://policies.tinder.com/cookie-policy), [Community](https://policies.tinder.com/community-guidelines) [Guidelines](https://policies.tinder.com/community-guidelines), and [Safety Tips](https://policies.tinder.com/community-resources/safety-tips) (iii) any Additional Terms Upon Purchase. If you do not accept and agree to be bound by all of the terms of this Agreement, you are not entitled to use our Services.
+    By using our Services, whether through a mobile device, mobile application, or computer, you agree to be bound by (i) these Terms, which we may amend from time to time, (ii) our [Privacy Policy](https://policies.tinder.com/privacy), [Cookie Policy](https://policies.tinder.com/cookie-policy), [Community Guidelines](https://policies.tinder.com/community-guidelines) and [Safety Tips](https://policies.tinder.com/community-resources/safety-tips) (iii) any Additional Terms Upon Purchase. If you do not accept and agree to be bound by all of the terms of this Agreement, you are not entitled to use our Services.
     
     All pronouns and any variations thereof shall be deemed to refer to the masculine, feminine, neuter, singular or plural as the identity of the entities or persons referred to any require. 
 20. ENTIRE AGREEMENT
@@ -539,7 +539,7 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     
     **This Agreement supersedes any previous agreements or representations.**
     
-    These Terms, with the [Privacy Policy](https://policies.tinder.com/privacy), [Cookie Policy](https://policies.tinder.com/cookie-policy), [Community Guidelines](https://policies.tinder.com/community-guidelines), and [Safety Tips](https://policies.tinder.com/community-resources/safety-tips), and any Additional Terms Upon Purchase, contain the entire agreement between you and Tinder regarding the use of our Services. The Terms supersede all previous agreements, representations, and arrangements between us, written or oral. If any provision of these Terms is held invalid, illegal, or otherwise unenforceable, the remainder of the Terms shall continue in full force and effect. The failure of the Company to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. You agree that your Tinder account is non-transferable and all of your rights to your account and its content terminate upon your death, unless otherwise provided by law. Any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by us without restriction. No agency, partnership, joint venture, fiduciary or other special relationship or employment is created as a result of these Terms, and you may not make any representations on behalf of or bind Tinder in any manner.
+    These Terms, with the [Privacy Policy](https://policies.tinder.com/privacy), [Cookie Policy](https://policies.tinder.com/cookie-policy), [Community Guidelines](https://policies.tinder.com/community-guidelines), and [Safety Tips](https://policies.tinder.com/community-resources/safety-tips) and any Additional Terms Upon Purchase, contain the entire agreement between you and Tinder regarding the use of our Services. The Terms supersede all previous agreements, representations, and arrangements between us, written or oral. If any provision of these Terms is held invalid, illegal, or otherwise unenforceable, the remainder of the Terms shall continue in full force and effect. The failure of the Company to exercise or enforce any right or provision of these Terms shall not constitute a waiver of such right or provision. You agree that your Tinder account is non-transferable and all of your rights to your account and its content terminate upon your death, unless otherwise provided by law. Any rights and licenses granted hereunder, may not be transferred or assigned by you, but may be assigned by us without restriction. No agency, partnership, joint venture, fiduciary or other special relationship or employment is created as a result of these Terms, and you may not make any representations on behalf of or bind Tinder in any manner.
     
 21. SPECIAL TERMS FOR RESIDENTS OF CERTAIN LOCATIONS
     ------------------------------------------------
@@ -562,12 +562,12 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     * You may review the [North Carolina Buyer's Rights](https://www.ncleg.gov/EnactedLegislation/Statutes/PDF/BySection/Chapter_66/GS_66-120.pdf).
         
     
-    For subscribers residing in Illinois, New York, North Carolina, and Ohio:
+    For subscribers residing in Illinois, New York, North Carolina and Ohio:
     
     * Our Services are widely available in the United States - if you believe that you have moved outside a location where we provide the Services, please contact us in writing delivered to Tinder Legal, P.O. Box 25472, Dallas, Texas 75225, USA, and we will work with you to provide alternative services or a refund.
         
     
-    For subscribers residing in Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, Rhode Island, and Wisconsin:
+    For subscribers residing in Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, Rhode Island and Wisconsin:
     
     **Your Right to Cancel - You may cancel your subscription, without penalty or obligation, at any time prior to midnight of the third business day following the date you subscribed.** In the event that you die before the end of your subscription period, your estate shall be entitled to a refund of that portion of any payment you had made for your subscription which is allocable to the period after your death. In the event that you become disabled (such that you are unable to use our Services) before the end of your subscription period, you shall be entitled to a refund of that portion of any payment you had made for your subscription which is allocable to the period after your disability by providing the Company notice in the same manner as you request a refund as described above in Section 8.
     
@@ -578,7 +578,7 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     * Exception to the right of cancellation: You cannot cancel an order that includes a delivery of digital content that is not delivered on a physical medium if order processing has begun with your express, prior consent and acknowledgment that you thereby waive your right of cancellation. This applies, for example, to the purchase of Virtual Items. This means that these types of purchases are FINAL AND NON-EXCHANGEABLE OR REFUNDABLE.
         
     
-    **Appendix** 
+    **Appendix**
     
     **Standard Form of Cancellation  
     **(for residents of Denmark only)
