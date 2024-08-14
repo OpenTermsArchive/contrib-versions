@@ -165,18 +165,6 @@ You assume the volatility risk of the cryptocurrencies in which cryptocurrency t
 
 Any refunds of cryptocurrency transactions are subject to DeviantArt's sole discretion.
 
-**23\. DeviantArt Protect**
-
-DeviantArt enables you to use its DeviantArt Protect service (for qualifying images submitted as deviations), in order to detect potential infringements of your images that you submitted. By using DeviantArt Protect, you agree and acknowledge the following:
-
-The DeviantArt Protect service is limited to detecting potentially similar or near-identical images to your images identified on DeviantArt. There might be other similar images that we will not detect, and therefore, we encourage you to keep track of existing works.
-
-To use DeviantArt Protect, you will need to open an account with DeviantArt and agree to these terms and to the DeviantArt general privacy policy.
-
-For images eligible for the DeviantArt Protect service, when a potential infringement is identified, we will send you a notice via email or via platform notification of any potential similar image found. Upon receiving such a notice, you may choose to take action regarding such images or not (for example, by filing a DMCA takedown notice). If you believe that one of the results in our notification is infringing, we encourage you to take relevant actions. We will not cause or initiate any legal procedures with respect to the similar images on our own. DeviantArt will not be responsible, in any event, for such procedures. All results are indicating some similarity, but in no event will we determine or suggest if such work is indeed infringing or not.
-
-For Core Members, we provide the DeviantArt Protect service for all images published as deviations. For non-Core users, we offer the DeviantArt Protect service for 90 days as of the day when the image was submitted as a deviation.
-
 **Services Fees**
 
 Your use of Cryptocurrency Payment Services is subject to certain fees and exchange rates ("**Service Fees**"), which may be modified from time to time. For more information, see [here](https://www.deviantartsupport.com/en//article/what-are-the-costs-for-withdrawing-your-earnings-from-deviantart). The Service Fees shall be deducted from your DeviantArt Earnings Account. All Service Fees are non-refundable.
@@ -187,13 +175,11 @@ Certain transactions (e.g., underpayment and overpayment of cryptocurrency trans
 
 DeviantArt enables you to use its DeviantArt Protect service (for qualifying images submitted as deviations), in order to detect potential infringements of your images that you submitted. By using DeviantArt Protect, you agree and acknowledge the following:
 
-The DeviantArt Protect service is limited to detecting potentially similar or near-identical images to your images identified on DeviantArt. There might be other similar images that we will not detect, and therefore, we encourage you to keep track of existing works.
-
-To use DeviantArt Protect, you will need to open an account with DeviantArt and agree to these terms and to the DeviantArt general privacy policy.
-
-For images eligible for the DeviantArt Protect service, when a potential infringement is identified, we will send you a notice via email or via platform notification of any potential similar image found. Upon receiving such a notice, you may choose to take action regarding such images or not (for example, by filing a DMCA takedown notice). If you believe that one of the results in our notification is infringing, we encourage you to take relevant actions. We will not cause or initiate any legal procedures with respect to the similar images on our own. DeviantArt will not be responsible, in any event, for such procedures. All results are indicating some similarity, but in no event will we determine or suggest if such work is indeed infringing or not.
-
-For Core Members, we provide the DeviantArt Protect service for all images published as deviations. For non-Core users, we offer the DeviantArt Protect service for 90 days as of the day when the image was submitted as a deviation.
+1. The DeviantArt Protect service is limited to detecting potentially similar or near-identical images to your images identified on DeviantArt. There might be other similar images that we will not detect, and therefore, we encourage you to keep track of existing works.
+2. To use DeviantArt Protect, you will need to open an account with DeviantArt, and agree to these terms and to the DeviantArt [general privacy policy](https://www.deviantart.com/about/policy/privacy/).
+3. For images eligible for the DeviantArt Protect service, when a potential infringement is identified, we will send you a notice via email or via platform notification, of any potential similar image found. Upon receiving such a notice, you may choose if you wish to take action regarding such images or not (for example, by filing a DMCA takedown notice).
+4. We will not cause or initiate any legal procedures with respect to the similar images. If you believe that one of our results is infringing upon your image, we encourage you to file a DMCA takedown [notice](https://www.deviantart.com/contact-us?menuId=copyright_dmca_holder#issue-response). DeviantArt will not be responsible, in any event, for such procedures. All results are indicating some similarity, but in no event will we determine or suggest if such work is indeed infringing or not.
+5. For Core Members, we provide the DeviantArt Protect service for all images published as deviations. For non-Core users, we offer the DeviantArt Protect service for 90 days as of the day when the image was submitted as a deviation.
 
 **24\. Data Scraping & Machine Learning Activities**
 
