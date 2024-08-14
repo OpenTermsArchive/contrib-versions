@@ -33,7 +33,7 @@ Recherche
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
-            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [CPTS : s’organiser sur un même territoire pour renforcer les soins aux patients](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/cpts-s-organiser-sur-un-meme-territoire-pour-renforcer-les-soins-aux-patients/)
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
@@ -800,7 +800,7 @@ Recherche
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
-            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [CPTS : s’organiser sur un même territoire pour renforcer les soins aux patients](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/cpts-s-organiser-sur-un-meme-territoire-pour-renforcer-les-soins-aux-patients/)
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
@@ -1541,7 +1541,7 @@ Recherche
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
-            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [CPTS : s’organiser sur un même territoire pour renforcer les soins aux patients](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/cpts-s-organiser-sur-un-meme-territoire-pour-renforcer-les-soins-aux-patients/)
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
@@ -2231,7 +2231,7 @@ Recherche
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
-            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [CPTS : s’organiser sur un même territoire pour renforcer les soins aux patients](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/cpts-s-organiser-sur-un-meme-territoire-pour-renforcer-les-soins-aux-patients/)
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
@@ -2626,7 +2626,7 @@ Recherche
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
-            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [CPTS : s’organiser sur un même territoire pour renforcer les soins aux patients](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/cpts-s-organiser-sur-un-meme-territoire-pour-renforcer-les-soins-aux-patients/)
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
@@ -3021,7 +3021,7 @@ Recherche
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
-            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [CPTS : s’organiser sur un même territoire pour renforcer les soins aux patients](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/cpts-s-organiser-sur-un-meme-territoire-pour-renforcer-les-soins-aux-patients/)
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
@@ -3416,7 +3416,7 @@ Recherche
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
-            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [CPTS : s’organiser sur un même territoire pour renforcer les soins aux patients](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/cpts-s-organiser-sur-un-meme-territoire-pour-renforcer-les-soins-aux-patients/)
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
@@ -3811,7 +3811,7 @@ Recherche
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
-            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [CPTS : s’organiser sur un même territoire pour renforcer les soins aux patients](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/cpts-s-organiser-sur-un-meme-territoire-pour-renforcer-les-soins-aux-patients/)
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
@@ -4206,7 +4206,7 @@ Recherche
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
-            * [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+            * [CPTS : s’organiser sur un même territoire pour renforcer les soins aux patients](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/cpts-s-organiser-sur-un-meme-territoire-pour-renforcer-les-soins-aux-patients/)
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
@@ -4590,7 +4590,7 @@ Retour
 * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
 * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
 * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
-* [Les communautés professionnelles territoriales de santé (CPTS)](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/les-communautes-professionnelles-territoriales-de-sante-cpts/)
+* [CPTS : s’organiser sur un même territoire pour renforcer les soins aux patients](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/cpts-s-organiser-sur-un-meme-territoire-pour-renforcer-les-soins-aux-patients/)
 * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
 * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
 
