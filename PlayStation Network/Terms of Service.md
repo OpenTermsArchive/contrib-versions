@@ -157,7 +157,7 @@ Always use common sense and good manners. Things you say and do online affect ot
 
 **☒ Do not** reveal personal information about other people or yourself. It makes you and them vulnerable. Personal information includes, but is not limited to, social network handles, messaging app profiles, phone numbers, email addresses, and real-world addresses like your home, school, or temporary location.
 
-**☒ Do not** share material that is pornographic, obscene, or that depicts extreme or abhorrent violence.
+**☒ Do not** share material that is pornographic, obscene,or that depicts extreme or abhorrent violence.
 
 **☒ Do not** share or threaten to share any image or other media of another person without their consent.
 
