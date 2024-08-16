@@ -386,6 +386,37 @@ Monetization of video inventory is a means to bring additional value to video co
 Privacy-related policies
 ------------------------
 
+### Personalized advertising
+
+You must not use Google's platform products or Google ad code to select or target personalized ads, or to collect or use audience data such as cookie lists, based on:
+
+* past or current activity by users known by you to be under the age of 13 years;
+* past or current activity by users on sites or apps or areas of sites or apps directed at children under the age of 13 years;
+* past or current activity by users on adult, gambling, or government agency sites or apps; or
+* other inferred or actual sensitive information, including, without limitation:
+    * health or medical history or information, such as from sites or apps that market to a specific health-related group,
+    * negative financial status or other detailed information pertaining to a person's finances, such as information indicating that a user has a low credit rating or high debt load,
+    * racial or ethnic origins, such as from sites or apps that collect affirmative racial or ethnic identification from visitors,
+    * religious beliefs or other beliefs of a similar nature, such as from sites or apps that collect people’s affirmative information on religion or religious beliefs,
+    * the commission or alleged commission of any crime, such as information indicating that a user has a criminal record,
+    * political affiliation, such as information indicating a user’s political opinion or political ideology,
+    * trade union membership, such as a user’s visit to a trade union’s site or app, or
+    * sexual behavior or orientation, such as sexual orientation inferred from a user’s visit to a particular site.
+
+In the U.S. and Canada, the following categories of products or services cannot be targeted to audiences based on gender, age, parental status, marital status, or ZIP code:
+
+* housing, such as housing listings for sale or rental, real estate services.
+* employment, such as ads for jobs, job recruitment sites, job listing sites. A subset of predetermined U.S. government advertisers promoting employment are permitted to target restricted audiences under specific conditions. If the targeting is based on a bona fide occupational qualification for a government job, which is defined under U.S. law as a qualification that is reasonably necessary for normal function of the job, these identified U.S. government advertisers may target restricted audiences.
+* offers relating to credit, banking products and services, or certain financial planning and management services. Examples: Credit cards and loans, banking and checking accounts, debt management products.
+
+If you use Google's platform products or Google ad code for personalized advertising:
+
+* you must have all rights necessary to use audience data such as cookie lists.
+* advertisers must attach notices to advertisements to make clear that they are interest-based (e.g., by using an "AdChoices" icon); and
+* all parties must comply with applicable Internet advertising industry guidelines (e.g., the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance, or IAB Europe's EU Framework for Online Behavioral Advertising).
+
+ ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)[_Learn more about personalized advertising_](https://support.google.com/publisherpolicies/answer/15101728)
+
 ### Privacy disclosures
 
 Publishers must:
