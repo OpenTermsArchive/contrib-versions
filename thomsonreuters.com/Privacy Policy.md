@@ -22,6 +22,7 @@ Last updated: April 8, 2024
 * [How long do you retain personal information?](#Retention)
 * [What rights do I have over my personal information?](#RightsPI)
 * [Changes to this Privacy Statement](#ChangesStatement)
+* [California Consumer Request Metrics](#requestmetrics)
 
 * [Supplemental Privacy Statements](#SupplementalStatements)
     * [European Data Privacy Framework Supplemental Statement](#EuropeanDataPrivacy)
@@ -207,6 +208,33 @@ Changes to this Privacy Statement
 This Privacy Statement is expected to change over time. We reserve the right to update it at any time for any reason. We will notify you of changes to our Privacy Statement by updating the “last updated” date and posting the updated Privacy Statement on this page. We may email periodic reminders of our notices and terms and conditions, but you should check our Services frequently to see the current Privacy Statement and any changes made to it.
 
 If there are any differences between the English version of our Privacy Statement and a version translated into another language, the English version controls.
+
+[Back to top](#toc)
+
+California Consumer Request Metrics
+-----------------------------------
+
+January 1 – December 31, 2023
+
+|     |     |     |     |
+| --- | --- | --- | --- |
+| **Request Type** | **Count** | **Average Days to Close** | **Median Days to Close** |
+| **Data Access Request** | **112** | **15** | **7** |
+| COMPLETE | 15  | 37  | 36  |
+| REJECTED | 97  | 12  | 6   |
+| **Delete my PI\*** | **170** | **15** | **6** |
+| COMPLETE | 52  | 37  | 38  |
+| REJECTED | 118 | 6   | 4   |
+| **Do Not Sell My Personal Information** | **2,052** | **2** | **1** |
+| COMPLETE | 1,833 | 2   | 1   |
+| REJECTED | 219 | 4   | 3   |
+| **Grand Total** | **2,334** | 3   | **1** |
+
+\*No requests that required deletion under each provision in California Civil Code section 1798.145 or 1798.146 were partially or wholly denied.
+
+Published in accordance with Section 999.317(g) of the CCPA Regulations & The Delete Act of 2023, SB 362
+
+[California Consumer Request Metrics](https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/other/california-consumer-request-metrics-2023.pdf)
 
 [Back to top](#toc)
 
