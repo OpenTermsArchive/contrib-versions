@@ -85,7 +85,7 @@ You may refuse the use of cookies by selecting the appropriate settings on your 
 
 This website uses Google Analytics with the extension "\_anonymizeIp()". As a result, IP addresses are further processed in abbreviated form, so that an identification can be ruled out. As a result, insofar as the data collected about you enable an identification, such possibility will be excluded immediately.
 
-We use Google Analytics to analyze and regularly improve the use of our website. We can improve our offer and make it more interesting for you as a user. For the exceptional cases in which personal data is transferred to the USA, Google has submitted to the EU-US Privacy Shield, [https://www.privacyshield.gov/EU-US-Framework](https://www.privacyshield.gov/EU-US-Framework). The legal basis for the use of Google Analytics is Art. 6 Par. 1 S. 1 lit. f GDPR.
+We use Google Analytics to analyze and regularly improve the use of our website. We can improve our offer and make it more interesting for you as a user. For the exceptional cases in which personal data is transferred to the USA, Google has submitted to the EU-US Data Privacy Framework, [https://www.edpb.europa.eu/our-work-tools/our-documents/other-guidance/eu-us-data-privacy-framework-faq-european-businesses\_en](https://www.edpb.europa.eu/our-work-tools/our-documents/other-guidance/eu-us-data-privacy-framework-faq-european-businesses_en). The legal basis for the use of Google Analytics is Art. 6 Par. 1 S. 1 lit. f GDPR.
 
 Third party information: Google Dublin, Google Ireland Ltd, Gordon House, Barrow Street, Dublin 4, Ireland, Fax: +353 (1) 436 1001.
 
@@ -96,7 +96,7 @@ Terms of Use: [https://www.google.com/analytics/terms/de.html](https://www.googl
 
 We offer a chat for our users as an additional option for our users to communicate with us via our website. The information set forth in section 4 is processed in connection with your use of the chat function. Legal basis is Art. 6 para. 1 s. 1 lit. f GDPR.
 
-We use the external service provider Intercom, Inc. for the provision of the chat function. The processing of your personal data by Intercom, Inc. is based on an agreement on data protection and data security that complies with legal requirements. Intercom, Inc. has submitted to the EU-US Privacy Shield, [https://www.privacyshield.gov/EU-US-Framework](https://www.privacyshield.gov/EU-US-Framework).
+We use the external service provider Intercom, Inc. for the provision of the chat function. The processing of your personal data by Intercom, Inc. is based on an agreement on data protection and data security that complies with legal requirements. Intercom, Inc. has submitted to the EU-US Data Privacy Framework, [https://www.edpb.europa.eu/our-work-tools/our-documents/other-guidance/eu-us-data-privacy-framework-faq-european-businesses\_en](https://www.edpb.europa.eu/our-work-tools/our-documents/other-guidance/eu-us-data-privacy-framework-faq-european-businesses_en).
 
 Third party information: Intercom, Inc., 55 2nd Street, 4th Floor, San Francisco, CA 94105, USA, [https://www.intercom.com/](https://www.intercom.com/). Privacy policy:[https://www.intercom.com/legal/privacy](https://www.intercom.com/legal/privacy).
 
