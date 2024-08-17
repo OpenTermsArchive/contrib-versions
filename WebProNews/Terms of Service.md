@@ -1,8 +1,6 @@
 [![webpronews.com](https://www.webpronews.com/wp-content/uploads/2023/07/newlogotest.png)  
 WebProNews](https://www.webpronews.com/)
 
-[![](https://ientry.nui.media/pipeline/467404/0/vc?z=ientry&ch=1414329&dim=1391341&kw=&click=)](https://ientry.nui.media/pipeline/467404/0/cc?z=ientry)
-
 [Advertise with Us](https://www.webpronews.com/advertise/?utm_source=main_header&utm_medium=site&utm_campaign=advertise_page)
 
 [![webpronews.com](https://www.webpronews.com/wp-content/uploads/2023/07/newlogotest.png)](https://www.webpronews.com/)
