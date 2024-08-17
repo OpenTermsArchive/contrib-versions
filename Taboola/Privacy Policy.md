@@ -1,7 +1,7 @@
 TABOOLA PRIVACY POLICY
 ======================
 
-Last Update: July 3rd, 2024
+Last Update: August 16th, 2024
 
 For Taboola’s opt-out status options, please [click here](#user-choices-and-opting-out).  
 For Taboola’s region-specific notices, please visit the applicable notice for individuals in [Brazil](#notice-to-individuals-in-brazil), [California](#notice-to-individuals-in-the-state-of-california) and [additional U.S. states](https://www.taboola.com/policies/privacy-policy/#notice-to-individuals-in-the-states-of-colorado-connecticut-florida-oregon-texas-utah-and-virginia), [Europe](#notice-to-individuals-within-the-european-economic-area-eea) (including the United Kingdom), [China](#notice-to-individuals-in-china), or [Thailand](#notice-to-individuals-in-thailand).
@@ -40,10 +40,10 @@ Taboola also maintains an externally-facing [Trust Center](https://help.taboola.
 
 ### **Privacy Policy:**
 
-Taboola, Inc., together with its Affiliates, (“**Taboola**”, “**we**”, “**us**”, or “**our**”), recognize the importance of your privacy. In this privacy policy (“Privacy Policy”) we describe how we collect, process, use, and disclose information that we obtain through the following contexts:
+Taboola, Inc., together with its Affiliates, (“**Taboola**”, “**we**”, “**us**”, or “**our**”), recognize the importance of your privacy. In this privacy policy (“Privacy Policy”) we describe how we collect, process, use, and disclose information that we obtain in the following contexts:
 
-* our website, [www.taboola.com](http://www.taboola.com/) and any Taboola website displaying this Privacy Policy (collectively, the “**Sites**”);
-* our content-discovery platforms, feeds, widgets, analytics tools, and other technical applications that we provide on third-party websites (collectively, the “**Content Discovery Platform**”); and
+* our website, [www.taboola.com](http://www.taboola.com/) and any Taboola website, digital property, communication, or form displaying this Privacy Policy (collectively, the “**Sites**”);
+* our content-discovery platforms, feeds, widgets, analytics tools, pixels, integrations, and other technical applications that we provide on third-party websites (collectively, the “**Content Discovery Platform**”); and
 * the Taboola News suite of content-discovery tools available on mobile devices and operating systems (including the Start line of products, collectively “**Taboola News**”) (together with the Content Discovery Platform, the “**Services**”).
 
 When you visit the Sites, or use or interact with any of our Services, we will collect information from or about you or your device, which may include personal information or personal data as defined by applicable privacy laws (“**Personal** **Information**” or “**Personal Data**“) (collectively, the “**Information**”), and this Information will be handled as described in this Privacy Policy.
@@ -106,7 +106,7 @@ We may send periodic promotional or informational emails to Customers in accorda
 
 ### 2.1 Information We Collect from Users (“User Information”)
 
-We automatically collect User Information when Users interact with our Services that appear on our Customers’ websites and digital properties. Like most other web-based services, we collect this User Information through cookies and other technologies. Taboola collects only pseudonymized data, which means we do not know who you are because we do not know or process your name, email address, or other identifiable data.
+We automatically collect User Information when Users interact with our Services that appear on our Customers’ websites and digital properties. Like most other web-based services, we collect this User Information through cookies and other technologies. Taboola collects only pseudonymized data, which means we do not know who you are because we do not know or process your name, email address, or other identifiable data. Instead, we only process digital identifiers such as cookie IDs, IP addresses, mobile advertising IDs on your device, Taboola network browsing history and associated preferences, and in some limited circumstances, your hashed email address.
 
 User Information that we collect includes, but is not limited to the following:
 
@@ -297,9 +297,9 @@ If you have questions about or need further information concerning the legal bas
 
 ### 5.1.3 Your Rights to Your Information
 
-You have the right to request that Taboola (i) provide you with access to the Personal Data we hold about you, (ii) correct your Personal Data, (iii) export your Personal Data, (iv) delete your Personal Data, and (v) cease or restrict processing of your Personal Data. If you are a User and would like to understand what Personal Data and behavioral information Taboola holds about you, specifically, and how you can exercise any of your rights with respect to your Personal Data, please visit [Taboola’s Data Subject Access Request Portal](https://accessrequest.taboola.com/access). Customers may also submit a data subject access request by emailing us at [privacy@taboola.com](mailto:privacy@taboola.com) so that Taboola may either respond with the relevant information or, if applicable, direct this request to, and cooperate with, your employer to respond.
+You have the right to request that Taboola (i) provide you with access to the Personal Data we hold about you, (ii) correct your Personal Data, (iii) export your Personal Data, (iv) delete your Personal Data, and (v) cease or restrict processing of your Personal Data. Where we have obtained your consent, or our Customers have obtained it on our behalf, you have the right to withdraw it at any time. If you are a User and would like to understand what Personal Data and behavioral information Taboola holds about you, specifically, and how you can exercise any of your rights with respect to your Personal Data, please visit [Taboola’s Data Subject Access Request Portal](https://accessrequest.taboola.com/access). Customers may also submit a data subject access request by emailing us at [privacy@taboola.com](mailto:privacy@taboola.com) so that Taboola may either respond with the relevant information or, if applicable, direct this request to, and cooperate with, your employer to respond.
 
-You have the right to complain to a data protection authority about our collection and use of your Personal Data. To learn more, please contact your local data protection authority, via the contact methods available [here](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en). However, if you have any questions about our collection and use of your Personal Data, please first contact us at [privacy@taboola.com](mailto:privacy@taboola.com). If you are unable to obtain the information or resolution that you seek, you may also contact our Data Protection Officer at [dpo@taboola.com](mailto:dpo@taboola.com).
+You have the right to lodge a complaint to a data protection authority about our collection and use of your Personal Data. To learn more, please contact your local data protection authority, via the contact methods available [here](https://www.edpb.europa.eu/about-edpb/about-edpb/members_en). However, if you have any questions about our collection and use of your Personal Data, please first contact us at [privacy@taboola.com](mailto:privacy@taboola.com). If you are unable to obtain the information or resolution that you seek, you may also contact our Data Protection Officer at [dpo@taboola.com](mailto:dpo@taboola.com).
 
 ### 5.1.4 EEA/UK Data Transfers
 
@@ -325,23 +325,30 @@ If you would like to opt out of Taboola’s disclosures, sharing, and sales of y
 
 This is a [summary of the requests](https://www.taboola.com/pdf/taboolas-ccpa-consumer-request-statistics) that Taboola received and honored from California residents in the last calendar year.
 
-### 5.2.3 Categories of Data that Taboola Holds about You
+### 5.2.3 Categories of Data that Taboola May Hold about You
 
-As mentioned above, Taboola maintains data about you in only pseudonymized form, which means that we do not know your identity because we do not process your name, email address, or other identifiable information. Instead, we only process digital identifiers such as cookie IDs, IP addresses, mobile advertising IDs on your device, Taboola network browsing history and associated preferences, and in some limited circumstances, your hashed email address.
+During the 12-month period prior to the effective date of this notice, Taboola may have used or obtained your Personal Information with respect to our Services and Sites in accordance with the chart below.
 
-### 5.2.4 Why Taboola Collects your Personal Information
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Consumer/Data Subject Type** | **Statutory Category of Personal Information (PI)** | **Sources of PI** | **Purpose of Collection** | **Disclosure of PI** |
+| Customers | [Identifiers](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(A))<br><br>[Additional data subject to Cal. Civ. Code section 1798.80](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(B))<br><br>[Commercial Information](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(D))<br><br>[Internet/online activity](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(F))<br><br>Geolocation Data (non-precise geolocation derived from IP address)<br><br>[Professional information](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(I)) | Please visit section 1.1 this Privacy Notice | Please visit section 1.2 and 4.1 of this Privacy Notice | Please visit section 1.3 and 4.2 of this Privacy Notice |
+| Users | [Identifiers](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(A))<br><br>[Commercial Information](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(D))<br><br>[Internet/online activity](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(F))<br><br>Geolocation Data (non-precise geolocation derived from IP address)<br><br>[Inferences](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(K)) | Please visit section 2.1 this Privacy Notice | Please visit section 2.2 and 4.1 of this Privacy Notice | Please visit section 2.3 and 4.2 of this Privacy Notice |
+| Site Visitors | [Identifiers](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(A))<br><br>[Additional data subject to Cal. Civ. Code section 1798.80](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(B))<br><br>[Commercial Information](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(D))<br><br>[Internet/online activity](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(F))<br><br>Geolocation Data (non-precise geolocation derived from IP address)<br><br>[Professional information](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(I))<br><br>[Inferences](https://www.caprivacy.org/cpra-text/#1798.140(v)(1)(K)) | Please visit section 3.1 this Privacy Notice | Please visit section 3.2 and 4.1 of this Privacy Notice | Please visit section 3.3 and 4.2 of this Privacy Notice |
 
-Taboola processes your Personal Information in order to provide personalized content and advertisements to you.
+### 5.2.4 How Taboola Shares Your Personal Information
 
-### 5.2.5 Where Taboola Collects Your Personal Information
+We may disclose your Personal Information by allowing certain third parties (such as online advertising services, advertising networks, and social networks) to collect Personal Information via automated technologies on our websites for cross-context behavioral advertising purposes. Under California law, such disclosures may be considered a “sale” when the personal information is exchanged for non-monetary consideration, or “sharing” when the personal information is disclosed for cross-context behavioral advertising purposes. You have the right to opt out of these types of disclosures of your Personal Information in accordance with the opt out methods we have provided throughout this notice.
 
-We automatically collect User Information when Users interact with our Services that appear on our Customers’ websites and digital properties. Like most other web-based services, we collect this User Information through cookies and other technologies. We may also obtain Information about you from our data partners.
+We may sell or share for cross-context behavioral advertising purposes (and may have sold or shared during the 12-month period prior to the Effective Date of this Statement) the following categories of personal information about you to online advertising services, advertising networks and social networks:
 
-Taboola collects Information either directly from you during your use of our Sites and Services or from third parties that independently collect this Information from you, and we may combine the Information that we collect from these various sources. For more information about these collection methods, please see Sections 2.1 and 3.1 above.
+* Commercial Information
+* Geolocation Data
+* Identifiers
+* Internet/Online Activity
+* Inferences
 
-**5.2.6 How Taboola Shares Your Personal Information**
-
-Taboola may disclose or make available your pseudonymous Personal Information to our trusted partners. In most cases when we do so, we have contractually restricted their uses of this data for only Taboola’s business purposes. Under the CCPA, such disclosures of Personal Information to service providers are not deemed to be a “sale” and thus are not prohibited after you exercise your right to cease or restrict disclosures or sales of your Personal Information to third parties. In any instances where we have not entered into a service provider relationship with such third parties, we will stop sharing your Personal Information when you instruct us not to “sell” or share your Personal Information.
+We do not have actual knowledge that we sell or share Personal Information of minors under 16 years old.
 
 ### 5.3 Notice to Individuals in the States of Colorado, Connecticut, Florida, Oregon, Texas, Utah, and Virginia
 
@@ -351,23 +358,26 @@ Residents of Colorado, Connecticut, Florida, Oregon, Texas, Utah, and Virginia h
 
 If you would like to opt out of Taboola’s disclosures, sharing, and sales of your Personal Information and targeted advertising, you may do so as outlined in [Taboola’s U.S. State Consumer Rights Portal](https://ccparequest.taboola.com/). Please note that this feature is currently only available for U.S. state residents (i.e., CA, CO, CT, FL, OR, TX, UT, VA). If you would like to effectuate additional consumer rights requests, please visit [Taboola’s Data Subject Access Request Portal](https://accessrequest.taboola.com/access).
 
-**5.3.2 Categories of Data that Taboola Holds about You**
+**5.3.2 Categories of Data that Taboola May Hold about You**
 
-As mentioned above, Taboola maintains data about you in only pseudonymized form, which means that we do not know your identity because we do not process your name, email address, or other identifiable information. Instead, we only process digital identifiers such as cookie IDs, IP addresses, mobile advertising IDs on your device, Taboola network browsing history and associated preferences, and in some limited circumstances, your hashed email address.
+Taboola may have used or obtained your Personal Information with respect to our Services and Sites in accordance with the chart below.
 
-**5.3.3 Why Taboola Collects your Personal Information**
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Consumer/Data Subject Type** | **Category of Personal Information (PI)** | **Sources of PI** | **Purpose of Collection** | **Sources** |
+| Customers | Identifiers<br><br>Commercial Information<br><br>Internet/online activity<br><br>Geolocation Data (non-precise geolocation derived from IP address)<br><br>Professional information | Please visit section 1.1 this Privacy Notice | Please visit section 1.2 and 4.1 of this Privacy Notice | Please visit section 1.3 and 4.2 of this Privacy Notice |
+| Users | Identifiers<br><br>Commercial Information<br><br>Internet/online activity<br><br>Geolocation Data (non-precise geolocation derived from IP address)<br><br>Inferences | Please visit section 2.1 this Privacy Notice | Please visit section 2.2 and 4.1 of this Privacy Notice | Please visit section 2.3 and 4.2 of this Privacy Notice |
+| Site Visitors | Identifiers<br><br>Commercial Information<br><br>Internet/online activity<br><br>Geolocation Data (non-precise geolocation derived from IP address)<br><br>Professional information<br><br>Inferences | Please visit section 3.1 this Privacy Notice | Please visit section 3.2 and 4.1 of this Privacy Notice | Please visit section 3.3 and 4.2 of this Privacy Notice |
 
-Taboola processes your Personal Information in order to provide personalized content and advertisements to you.
+We may disclose your Personal Information by allowing certain third parties (such as online advertising services, advertising networks, and social networks) to collect Personal Information via automated technologies on our websites for targeted advertising purposes. You have the right to opt out of these types of disclosures of your Personal Information.
 
-**5.3.4 Where Taboola Collects Your Personal Information**
+We may sell or share for targeted advertising purposes, the following categories of personal information about you to online advertising services, advertising networks and social networks:
 
-We automatically collect User Information when Users interact with our Services that appear on our Customers’ websites and digital properties. Like most other web-based services, we collect this User Information through cookies and other technologies. We may also obtain Information about you from our data partners.
-
-Taboola collects Information either directly from you during your use of our Sites and Services or from third parties that independently collect this Information from you, and we may combine the Information that we collect from these various sources. For more information about these collection methods, please see Sections 2.1 and 3.1 above.
-
-**5.3.5 How Taboola Shares Your Personal Information**
-
-Taboola may disclose or make available your pseudonymous Personal Information to our trusted partners. In most cases when we do so, we have contractually restricted their uses of this data for only Taboola’s business purposes. Such disclosures of Personal Information to service providers are not deemed to be a “sale” and thus are not prohibited after you exercise your right to cease or restrict disclosures or sales of your Personal Information to third parties. In any instances where we have not entered into a service provider relationship with such third parties, we will stop sharing your Personal Information when you instruct us not to “sell” or share your Personal Information.
+* Commercial Information
+* Geolocation Data
+* Identifiers
+* Internet/Online Activity
+* Inferences
 
 ### 5.4 Notice to Individuals in Thailand
 
@@ -395,7 +405,7 @@ If you have any questions about our collection and use of your Personal Data, pl
 
 Taboola transfers data outside of Thailand. Taboola has in place an Inter Group Data Transfer Agreement across its international entities, which is based on the EEA’s standard model clauses.
 
-As part of Taboola’s global operations, our data flows between Thailand, the EEA, the United States, Israel, and Hong Kong. To ensure that Thailand Data is adequately protected when transferred outside of Thailand, the Personal Data Protection Act, B.E. 2562 mandates that such transfers take place using certain legal mechanisms.
+As part of Taboola’s global operations, our data flows among Thailand, the EEA, the United States, Israel, and Hong Kong. To ensure that Thailand Data is adequately protected when transferred outside of Thailand, the Personal Data Protection Act, B.E. 2562 mandates that such transfers take place using certain legal mechanisms.
 
 When transferring Thailand data elsewhere, Taboola relies on Standard Contractual Clauses, set forth by the European Commission, that outline contractual privacy and security commitments between companies that transfer personal data (for example, from Taboola (Thailand) Limited to Taboola, Inc.). Taboola, Inc. and its Affiliates have accordingly adopted Standard Contractual Clauses to ensure the legality, privacy, and security of the data flows necessary to provide, maintain, and develop our services.
 
@@ -427,7 +437,7 @@ Brazilian data subjects can file a complaint in relation to the LGPD with Brazil
 
 **5.7.4. Brazil Data Transfers**
 
-Taboola transfers data outside Brazil. As part of Taboola’s global operations, our data flows between Brazil, the EEA, the United States, Israel, and Hong Kong. To ensure that Brazil Data is adequately protected when transferred outside Brazil, the LGPD mandates that such transfers take place using [certain legal mechanisms](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu_en). Taboola has in place an Inter Group Data Transfer Agreement across its international entities, which is based on the EEA’s standard model clauses, and which may be updated upon further guidance from the future ANPD.
+Taboola transfers data outside Brazil. As part of Taboola’s global operations, our data flows among Brazil, the EEA, the United States, Israel, and Hong Kong. To ensure that Brazil Data is adequately protected when transferred outside Brazil, the LGPD mandates that such transfers take place using [certain legal mechanisms](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu_en). Taboola has in place an Inter Group Data Transfer Agreement across its international entities, which is based on the EEA’s standard model clauses, and which may be updated upon further guidance from the future ANPD.
 
 Note: Taboola currently stores Customer, User, and Visitor Information in our data centers located in the United States and Israel.
 
