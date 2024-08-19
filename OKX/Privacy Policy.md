@@ -1,7 +1,7 @@
 Privacy Policy Statement
 ========================
 
-Published on May 9, 2024Updated on Jul 16, 202423 min read
+Published on May 9, 2024
 
 Last updated: May 9, 2024
 
