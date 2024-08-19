@@ -21,18 +21,17 @@ Sony may also automatically collect your IP address or other unique identifiers 
 
 The technologies used on the Website to collect Usage Information, including Device Identifiers, may include:
 
-* Cookies.
-    
-    A “cookie” is a small text file that a website asks your browser to store on your device to remember information about you, such as your language preference. Cookies that are set by Sony are called first-party cookies. The Website may also use third-party cookies, which are cookies set by an organization other than Sony, and these are typically used to support our advertising and marketing efforts. Sony may not control the storage or access to these cookies. You should review the privacy and cookie policies of these services to find out how these third parties use cookies and where your cookie data is being stored and processed. For more information about cookies, including how you can control their use, please review [Sony's Cookie Policy](https://www.sony.com/en/privacy/cookie/).
-    
-* Web Beacons.
-    
-    A “web beacon” (also known as image tag, pixel tag, clear GIF or web bug) is a small piece of code used to collect advertising data, such as counting page views, promotion views or advertising responses. Web beacons or similar technologies may be used for various purposes, including, without limitation, to count visitors to the Website and to monitor how users navigate the Website.
-    
-* Embedded Scripts.
-    
-    An “embedded script” is programming code that is designed to collect information about your interactions with the Website, such as the links you click on. The code is temporarily downloaded onto your Device from our server or a third-party service provider, is active only while you are connected to the Website, and is deactivated or deleted thereafter.
-    
+Cookies.
+
+A “cookie” is a small text file that a website asks your browser to store on your device to remember information about you, such as your language preference. Cookies that are set by Sony are called first-party cookies. The Website may also use third-party cookies, which are cookies set by an organization other than Sony, and these are typically used to support our advertising and marketing efforts. Sony may not control the storage or access to these cookies. You should review the privacy and cookie policies of these services to find out how these third parties use cookies and where your cookie data is being stored and processed. For more information about cookies, including how you can control their use, please review [Sony's Cookie Policy](https://www.sony.com/en/privacy/cookie/).
+
+Web Beacons.
+
+A “web beacon” (also known as image tag, pixel tag, clear GIF or web bug) is a small piece of code used to collect advertising data, such as counting page views, promotion views or advertising responses. Web beacons or similar technologies may be used for various purposes, including, without limitation, to count visitors to the Website and to monitor how users navigate the Website.
+
+Embedded Scripts.
+
+An “embedded script” is programming code that is designed to collect information about your interactions with the Website, such as the links you click on. The code is temporarily downloaded onto your Device from our server or a third-party service provider, is active only while you are connected to the Website, and is deactivated or deleted thereafter.
 
 Please note that third parties may collect personal information about your online activities over time and across different websites when you visit or use the Website. For example, some third parties' embedded content or plugins on the Website, such as social media sharing tools, allow their operators to learn that you have visited or interacted with the Website, and they may combine this information with other identifiable information they have collected about your visits to other websites or online services. These third parties may handle this information, and other information they directly collect through their content and plugins, pursuant to their own privacy policies.
 
