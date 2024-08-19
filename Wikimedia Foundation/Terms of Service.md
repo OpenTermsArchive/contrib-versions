@@ -80,7 +80,7 @@ Other languages:
 * [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vi "Policy:Terms of Use/vi (99% translated)")
 * [Türkçe](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tr "Policy:Terms of Use/tr (91% translated)")
 * [Zazaki](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/diq "Policy:Terms of Use/diq (9% translated)")
-* [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Policy:Terms of Use/ast (40% translated)")
+* [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Policy:Terms of Use/ast (41% translated)")
 * [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/az "Policy:Terms of Use/az (10% translated)")
 * [bosanski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bs "Policy:Terms of Use/bs (3% translated)")
 * [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Terms of Use/ca (86% translated)")
