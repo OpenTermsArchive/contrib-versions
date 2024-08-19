@@ -132,7 +132,11 @@ If you elect to partake in any of the games, premium features or range of servic
 
 ### Do my credits last forever?
 
-No. We reserve the right to expire any unused credits after 6 months (unless the credits are purchased through Itunes). If you delete your account or if your account is terminated by us due to breach of these Terms, you will lose any accumulated credits. If you receive free or promotional credits, we may expire them at any time. Similarly, if you receive additional credits as part of a premium feature, we may change the number of additional credits available as part of that feature and/or expire them at any time. Credits are not redeemable for any sum of money or monetary value from us unless we agree otherwise in writing.
+No. We reserve the right to expire any unused credits after 6 months (unless the credits are purchased through Itunes). If you delete your account or if your account is terminated by us due to breach of these Terms, you will lose any accumulated credits. If you receive free or promotional credits, we may expire them at any time. Credits are not redeemable for any sum of money or monetary value from us unless we agree otherwise in writing.
+
+### Bonus credits under premium subscriptions
+
+If you receive bonus credits on credit packs bought as part of a premium feature (for example, as an Extra or Premium subscriber), we may change the percentage of bonus credits available as part of that feature at our discretion. Bonus credits apply to full-price credit packs only.
 
 Please refer to the Service Conditions on your ‘top-up’ page for further details relating to your payments.
 
@@ -263,4 +267,4 @@ Our registered office is at 1 Blossom Yard, Fourth Floor, London E1 6RS.
 Effective date
 --------------
 
-The Terms were last updated on: 2nd August 2024.
+The Terms were last updated on: 16th August 2024.
