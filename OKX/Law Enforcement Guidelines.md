@@ -1,7 +1,7 @@
 OKX Law Enforcement Request Guide
 =================================
 
-Published on Sep 11, 2023Updated on Aug 5, 20245 min read
+Published on Sep 11, 2023
 
 **Law Enforcement Request Guide**
 
