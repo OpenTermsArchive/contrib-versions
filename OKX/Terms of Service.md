@@ -1,7 +1,7 @@
 Terms of Service - EEA
 ======================
 
-Published on May 9, 2024Updated on May 9, 202448 min read
+Published on May 9, 2024
 
 **Effective: May 9, 2024**
 
