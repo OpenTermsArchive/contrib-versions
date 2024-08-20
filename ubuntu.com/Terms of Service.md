@@ -331,7 +331,7 @@ Ubuntu and Canonical are registered trademarks of Canonical Ltd.
 * [Legal information](https://ubuntu.com/legal)
 * [Data privacy](https://ubuntu.com/legal/data-privacy)
 * Manage your tracker settings
-* [Report a bug on this site](https://github.com/canonical/ubuntu.com/issues/new)
+* [Report a bug on this site](https://github.com/canonical/ubuntu.com/issues/new?template=ISSUE_TEMPLATE.yaml)
 
 [Back to top](#)
 
