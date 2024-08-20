@@ -118,7 +118,7 @@ Other languages:
 * [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be-tarask "Policy:Terms of Use/be-tarask (61% translated)")
 * [български](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bg "Policy:Terms of Use/bg (100% translated)")
 * [гӀалгӀай](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/inh "Policy:Terms of Use/inh (0% translated)")
-* [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ky "Policy:Terms of Use/ky (26% translated)")
+* [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ky "Policy:Terms of Use/ky (30% translated)")
 * [македонски](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mk "Policy:Terms of Use/mk (56% translated)")
 * [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ce "Policy:Terms of Use/ce (0% translated)")
 * [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Policy:Terms of Use/ru (100% translated)")
