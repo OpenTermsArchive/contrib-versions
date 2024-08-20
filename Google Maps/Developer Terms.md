@@ -527,6 +527,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         122. Société de transport de Montréal STM: [https://www.stm.info/en/about/developers/terms-use](https://www.stm.info/en/about/developers/terms-use)
             
+        123. City of Kelowna: [https://open.canada.ca/en/open-government-licence-canada](https://open.canada.ca/en/open-government-licence-canada) [https://apps.kelowna.ca/images/opendata/opengovernmentlicence.pdf](https://apps.kelowna.ca/images/opendata/opengovernmentlicence.pdf)
+            
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
             
@@ -1129,7 +1131,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Mobilithek: [https://www.gesetze-im-internet.de/geonutzv/\_\_3.html](https://www.gesetze-im-internet.de/geonutzv/__3.html)
             
-        * Berlin Open Data: [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+        * Berlin Open Data: [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) [https://daten.berlin.de/datensaetze/baustellen-sperrungen-und-sonstige-storungen-von-besonderem-verkehrlichem-interesse](https://daten.berlin.de/datensaetze/baustellen-sperrungen-und-sonstige-storungen-von-besonderem-verkehrlichem-interesse)
             
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
@@ -2450,6 +2452,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         225. San Jose CA Open Data Portal: [https://data.sanjoseca.gov/dataset/road-closures](https://data.sanjoseca.gov/dataset/road-closures)
             
         226. Honolulu Authority for Rapid Transportation (HART): [https://data.honolulu.gov/terms-of-use](https://data.honolulu.gov/terms-of-use)
+            
+        227. Sacramento County Open Data: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        228. Arkansas GIS Office: [https://gis.arkansas.gov/product/arkansas-road-inventory/](https://gis.arkansas.gov/product/arkansas-road-inventory/)
+            
+        229. Carteret County NC: [https://www.carteretcountync.gov/DocumentCenter/View/4659/Carteret-County-GIS-Data-Terms-and-Conditions-of-Use?bidId=](https://www.carteretcountync.gov/DocumentCenter/View/4659/Carteret-County-GIS-Data-Terms-and-Conditions-of-Use?bidId=)
             
     68. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
