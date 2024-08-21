@@ -2515,7 +2515,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Global Energy Monitor [https://globalenergymonitor.org/creative-commons-public-license/](https://globalenergymonitor.org/creative-commons-public-license/)
             
-        * Global Models - CAMS [https://www.ecmwf.int/en/forecasts/dataset/cams-global-reanalysis](https://www.ecmwf.int/en/forecasts/dataset/cams-global-reanalysis) - Contains modified Copernicus Atmosphere Monitoring Service information.
+        * Global Models - CAMS [https://www.ecmwf.int/en/forecasts/dataset/cams-global-reanalysis](https://www.ecmwf.int/en/forecasts/dataset/cams-global-reanalysis) - Contains modified Copernicus Atmosphere Monitoring Service information. Neither the European Commission nor ECMWF is responsible for any use that may be made of the Copernicus information or data it contains.
             
         * EEA [https://creativecommons.org/licenses/by/2.5/dk/deed.en\_GB](https://creativecommons.org/licenses/by/2.5/dk/deed.en_GB)
             
