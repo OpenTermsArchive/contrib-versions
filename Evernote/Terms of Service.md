@@ -3,7 +3,7 @@ Terms of Service
 
 **Evernote Terms of Service**
 
-Effective Date: February 15, 2024
+Effective Date: August 21, 2024
 
 Welcome to Evernote! We invite you to access our websites and use the Evernote Service, but please note that your invitation is subject to your agreement with these Terms. This document describes in detail your rights and our rights relating to the provision of the Evernote Service, so please review these Terms carefully. Capitalized terms that are not defined in this document are defined in our [Glossary](https://evernote.com/legal/glossary).
 
@@ -129,7 +129,7 @@ The Evernote Service is available worldwide, but your data is stored in the Unit
 
 ### **How is My Account Closed?**
 
-You may deactivate your account with the Evernote Service at any time, for any reason (or no reason). However, if you want to deactivate your account you need to take certain specific steps, which are described in our Help & Learning article entitled [“How do I deactivate my account?”](https://help.evernote.com/hc/en-us/articles/208314088). If you subscribe to a Paid Service, you will need to cancel your subscription pursuant to our [Commercial Terms](https://evernote.com/legal/commercial-terms).
+You may close your account with the Evernote Service at any time, for any reason (or no reason). When you close your Evernote account, your Content will be deleted automatically from the Evernote Service and your Content can no longer be accessed or recovered by you or Evernote. If you subscribe to a Paid Service, you will need to cancel your subscription pursuant to our [Commercial Terms](https://evernote.com/legal/commercial-terms) prior to closing your account. 
 
 We may act to temporarily limit your use of the Evernote Service, suspend access to your account, or close your account, with or without notice according to these Terms. Reasons for suspending or closing your account may include, without limitation: (i) breach or violation of these Terms (including the User Guidelines) or any Separate Agreement, (ii) an extended period of inactivity (determined in our sole discretion), (iii) your nonpayment of any fees or other sums due Evernote or any other party related to your use of the Evernote Service, (iv) the discontinuance or material modification of the Evernote Service (or any part thereof) or (v) unexpected technical or security issues or problems or extensive Unsupported Use.
 
