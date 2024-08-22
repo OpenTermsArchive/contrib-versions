@@ -92,6 +92,7 @@ Other languages:
 * [français cadien](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/frc "Policy:Terms of Use/frc (3% translated)")
 * [føroyskt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fo "Policy:Terms of Use/fo (5% translated)")
 * [galego](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gl "Policy:Terms of Use/gl (41% translated)")
+* [hrvatski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hr "Policy:Terms of Use/hr (32% translated)")
 * [italiano](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/it "Policy:Terms of Use/it (57% translated)")
 * [kurdî](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ku "Policy:Terms of Use/ku (3% translated)")
 * [latviešu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lv "Policy:Terms of Use/lv (100% translated)")
@@ -161,7 +162,7 @@ Other languages:
 * [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "Policy:Terms of Use/zh (100% translated)")
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "Policy:Terms of Use/ja (100% translated)")
 * [閩南語 / Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan "Policy:Terms of Use/nan (19% translated)")
-* [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/syl "Policy:Terms of Use/syl (10% translated)")
+* [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/syl "Policy:Terms of Use/syl (14% translated)")
 * [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "Policy:Terms of Use/ko (66% translated)")
 
 **Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Terms_of_Use&filter=%21translated&action=page&language=).**
