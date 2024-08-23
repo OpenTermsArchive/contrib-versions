@@ -205,7 +205,13 @@ Privacy Policy
 Privacy Policy
 --------------
 
-**Effective Date:  July 17, 2024**
+We have updated our Privacy Policy. We participate in the EU-US Data Privacy Framework. Section 10 ("International Transfers") now includes our company's commitment to the Data Privacy Framework Principles applicable to transfers of Personal Data from the EU, Switzerland and the UK to the US.
+
+We have updated our Privacy Policy. We participate in the EU-US Data Privacy Framework. Section 10 ("International Transfers") now includes our company's commitment to the Data Privacy Framework Principles applicable to transfers of Personal Data from the EU, Switzerland and the UK to the US.
+
+We have updated our Privacy Policy. We participate in the EU-US Data Privacy Framework. Section 10 ("International Transfers") now includes our company's commitment to the Data Privacy Framework Principles applicable to transfers of Personal Data from the EU, Switzerland and the UK to the US.
+
+**Effective Date:  August 23, 2024**
 
 This Privacy Policy describes how RealtimeBoard, Inc. dba Miro, including its affiliates and subsidiaries (collectively, **Miro** and also referred to as **our**, **us** and **we**) collects, uses and discloses information from or about an identified or identifiable person, including information that we can associate with an individual person (“**Personal Data**”), as well as any choices you have with respect to your Personal Data.
 
@@ -340,7 +346,7 @@ We may share Personal Data as follows: 
 
 ### **7\. Security**
 
-Miro takes the security of Personal Data seriously. Miro strives to protect Personal Data from unauthorized access or disclosure.. Miro cannot guarantee that Personal Data stored or sent to Miro will be completely safe and encourages you to use caution. To the maximum extent allowed by applicable law, you agree and acknowledge that Miro will not be liable or responsible if any information about you is intercepted, accessed, and/or used by an unintended recipient. 
+Miro takes the security of Personal Data seriously. Miro strives to protect Personal Data from unauthorized access or disclosure. Miro cannot guarantee that Personal Data stored or sent to Miro will be completely safe and encourages you to use caution. To the maximum extent allowed by applicable law, you agree and acknowledge that Miro will not be liable or responsible if any information about you is intercepted, accessed, and/or used by an unintended recipient. 
 
 ### **8\. Our responsibility for third party links**
 
@@ -354,7 +360,13 @@ By using our Services and Websites, you represent and warrant that you are not a
 
 ### **10\. International Transfers**
 
-If we share your Personal Data with our Miro group company(ies) or third parties located outside the European Economic Area or the United Kingdom, we take steps to ensure that appropriate safeguards are in place to guarantee the continued protection of your Personal Data, such as by entering into the Standard Contractual Clauses adopted by the European Commission (article 46(2)(c) GDPR), which are available [here](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_en), and which were also adopted by the UK Government under section 119A of the UK Data Protection Act 2018.
+RealtimeBoard Inc. has an international corporate presence, as such our collection of Personal Data necessarily involves the transmission of data on an international basis. If you are an individual located outside of the United States, please be aware that information we collect may be transferred to and processed in the United States and elsewhere outside the United States. As more fully described in the Customer Agreement terms between you and RealtimeBoard Inc., Personal Data may be transferred across international borders, including without limitation from the EEA, Switzerland, and the UK to the United States. Any cross-border transfers of Personal Data are supported by an approved adequacy mechanism where required by applicable law, such as the EU Standard Contractual Clauses.
+
+RealtimeBoard Inc. complies with the EU-US Data Privacy Framework (“**EU-US DPF**”), the UK Extension to the EU-US DPF, and the Swiss-US Data Privacy Framework (“**Swiss-US DPF**”) as set forth by the US Department of Commerce. RealtimeBoard Inc. has certified to the US Department of Commerce that it adheres to the EU-US Data Privacy Framework Principles (“**EU-US DPF Principles**”) with regard to the processing of Personal Data received from the European Union in reliance on the EU-US DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-US DPF. RealtimeBoard Inc. has certified to the US Department of Commerce that it adheres to the Swiss-US Data Privacy Framework Principles (“**Swiss-US DPF Principles**”) with regard to the processing of Personal Data received from Switzerland in reliance on the Swiss-US DPF. With respect to onward transfers of Personal Data to the EU-US DPF, the UK Extension to the EU-US DPF, and the Swiss-US DPF, we remain liable for processing such transfers in accordance with the Principles. If there is any conflict between the terms in this privacy policy and the EU-US DPF Principles and/or the Swiss-US DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please [visit the US Department of Commerce’s Data Privacy Framework website by clicking here or visiting](https://www.dataprivacyframework.gov/) [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+
+RealtimeBoard Inc. may disclose your Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. If you have a question or complaint related to participation by RealtimeBoard Inc. in the DPF program, we encourage you to contact us [online](https://help.miro.com/hc/en-us/requests/new). For any complaints related to the DPF that RealtimeBoard Inc. cannot resolve directly, we have chosen to cooperate with the relevant EU Data Protection Authority, or a panel established by the European data protection authorities, for resolving disputes with EU individuals, the UK Information Commissioner (ICO) for resolving disputes with UK individuals, and the Swiss Federal Data Protection and Information Commissioner (FDPIC) for resolving disputes with Swiss individuals. Please contact us if you’d like us to direct you to your data protection authority contacts. As further explained in the Principles, binding arbitration is available to address residual complaints not resolved by other means. RealtimeBoard Inc. is subject to the investigatory and enforcement powers of the United States Federal Trade Commission (FTC).
+
+If we share your Personal Data with any RealtimeBoard Inc. affiliates or third parties located in countries outside the European Economic Area, Switzerland, the UK, or the United States we take steps to ensure that appropriate safeguards are in place to guarantee the continued protection of your Personal Data, such as by entering into the EU Standard Contractual Clauses adopted by the European Commission (article 46(2)(c) GDPR), which are available [here](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc/standard-contractual-clauses-international-transfers_en), and which were also adopted by the UK Government under section 119A of the UK Data Protection Act 2018.
 
 ### **11\. Your Rights**
 
