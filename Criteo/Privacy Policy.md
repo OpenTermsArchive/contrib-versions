@@ -1,3 +1,15 @@
+Table of Contents
+-----------------
+
+* Privacy Policy
+* [Disable Criteo services on Internet browsers](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers/)
+* [Disable Criteo services on mobile applications](https://www.criteo.com/privacy/disable-criteo-services-on-mobile-applications/)
+* [How we use your data](https://www.criteo.com/privacy/how-we-use-your-data/)
+* [How Criteo services work across environments](https://www.criteo.com/privacy/how-criteo-services-work-across-environments/)
+* [Your rights](https://www.criteo.com/privacy/your-rights/)
+* [Our partners](https://www.criteo.com/privacy/our-partners/)
+* [CCPA Privacy Policy](https://www.criteo.com/privacy/ccpa-privacy-policy/)
+
 Welcome! This is where you can learn about Criteo, the technologies and services we offer to our partners, and our data collection and privacy policies.
 
 [Disable Criteo services](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers/)
