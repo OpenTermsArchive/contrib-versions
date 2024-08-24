@@ -180,3 +180,6 @@ Criteo reserves the right to detail, modify or update this policy at any time. C
 * * *
 
 Last updated: January 2023
+
+Table of Contents
+-----------------
