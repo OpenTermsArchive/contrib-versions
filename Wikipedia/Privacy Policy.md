@@ -84,7 +84,7 @@ Other languages:
 * [עברית](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/he "Policy:Privacy policy/he (32% translated)")
 * [اردو](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ur "Policy:Privacy policy/ur (15% translated)")
 * [الدارجة](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ary "Policy:Privacy policy/ary (5% translated)")
-* [العربية](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ar "Policy:Privacy policy/ar (99% translated)")
+* [العربية](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ar "Policy:Privacy policy/ar (100% translated)")
 * [تۆرکجه](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/azb "Policy:Privacy policy/azb (10% translated)")
 * [روچ کپتین بلوچی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/bgn "Policy:Privacy policy/bgn (4% translated)")
 * [سرائیکی](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/skr "Policy:Privacy policy/skr (13% translated)")
