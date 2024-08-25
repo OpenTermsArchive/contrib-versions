@@ -70,7 +70,7 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 * Do not upload X-rated or otherwise highly objectionable pictures.
 * Do not upload suggestive images of minors or seeming minors.
 * You may not impersonate another person, or other entity, on LibraryThing.
-* Your username may not be an insult, either general or specific. Sheesh!
+* Your member name may not be pornographic, or an insult, either general or specific. Sheesh!
 * We may remove accounts with no books after three months. (But we have never done so.)
 * LibraryThing may not be used for any illegal activity.
 * LibraryThing may not be used to injure, threaten, stalk, impersonate, or harass someone.
