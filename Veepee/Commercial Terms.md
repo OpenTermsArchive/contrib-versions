@@ -2,81 +2,45 @@ Conditions Générales de Vente Veepee
 
 
 
-Version au 1er août 2023
+Version août 2024
 
 
 
 Article 1 – Société
 
-
-
 Article 2 – Définitions
-
-
 
 Article 3 – Champs d’application et acceptation des CGV
 
-
-
 Article 4 – Modalités d’accès aux ventes
-
-
 
 Article 5 – Modalités de Commande
 
-
-
 Article 6 – Obligations du Membre
-
-
 
 Article 7 – Prix
 
-
-
 Article 8 – Disponibilité des produits et services
-
-
 
 Article 9 – Droit de rétractation
 
-
-
 Article 10 – Reprise des produits usagés « un pour un »
-
-
 
 Article 11 – Paiement
 
-
-
 Article 12 – Sécurisation des paiements
-
-
 
 Article 13 – Livraison
 
-
-
 Article 14 – Garanties
-
-
 
 Article 15 – Modification des CGV
 
-
-
 Article 16 – Données personnelles
-
-
 
 Article 17 – Liste d’opposition au démarchage téléphonique
 
-
-
 Article 18 – Loi applicable et résolution des litiges
-
-
 
 Toute Commande passée au sein des ventes évènementielles organisées sur le
 
@@ -86,9 +50,9 @@ Veepee ») édités par la société Vente-Privee.com implique sans réserve
 
 l’acceptation des dispositions suivantes :
 
+
+
 Article 1 – Société
-
-
 
 Vente-Privee.com est une société anonyme dont le siège social est situé au 249
 
@@ -114,11 +78,11 @@ Registre du Commerce et des Sociétés de Bobigny.
 
 Au titre de son activité, Vente-Privee.com bénéficie d’une assurance de
 
-responsabilité professionnelle souscrite auprès de AXA France IARD, GROUPE OREFI,
+Responsabilité souscrite auprès de AXA France IARD SA, 313 Terrasses de l’Arche T5,
 
-249 Avenue du Président Wilson - 93 210 La Plaine Saint Denis, couvrant le monde
+92727? NANTERRE Cedex, France pour le GROUPE OREFI, 249 Avenue du Président
 
-entier.
+Wilson - 93 210 La Plaine Saint Denis, couvrant le monde entier.
 
 
 
@@ -130,11 +94,7 @@ Jules Lefebvre - 75331 PARIS Cedex 09, sous le numéro d’immatriculation 12 06
 
 
 
-Garantie financière : SOCIÉTÉ GÉNÉRALE, 29 Boulevard Haussmann - 75009 PARIS.
-
-
-
-RCP : MMA IARD, 14 boulevard Marie et Alexandre Oyon - 72030 LE MANS Cedex 09.
+Garantie financière et : MMA IARD SA, - 72030 LE MANS Cedex 09.
 
 
 
@@ -164,9 +124,9 @@ Ces numéros garantissent que Vente-Privee.com, en adhérant à ces
 
 incombent en application de l’article L 541-10-8 du Code de l’Environnement.
 
-
-
 Coordonnées du Service Relations Membres :
+
+
 
 ● Numéro de téléphone depuis la France :
 
@@ -262,11 +222,13 @@ professionnelles”.
 
 
 
-« Partenaire » désigne la personne morale vendeur autre que Veepee qui propose
+« Partenaire » désigne la personne morale vendeur professionnel autre que Veepee
 
-aux Membres, depuis le Site Veepee ou depuis son site internet, la vente de ses
+qui propose aux Membres l’achat de produits et/ou prestations de service ou de
 
-produits ou de ses services selon ses conditions générales de vente. .
+loisirs sur la plateforme Veepee ou Veepee Voyage selon ses propres conditions
+
+générales de vente.
 
 
 
@@ -274,49 +236,47 @@ Article 3 – Champs d’application et acceptation des CGV
 
 
 
-3.1 Les présentes conditions générales de vente de Vente-Privee.com (ci-après
+3.1 Les conditions générales de vente de Vente-Privee.com (ci-après désignées les
 
-désignées les « CGV Veepee ») définissent les droits et obligations des parties dans
+« CGV Veepee ») définissent les droits et obligations des parties dans le cadre de la
 
-le cadre de la vente de produits et/ou services proposés par Vente-Privee.com aux
+vente de produits et/ou services vendus par Vente-Privee.com aux Membres sur le
 
-Membres depuis le Site Veepee.
-
-
-
-Les CGV Veepee ne régissent pas la vente des offres Voyage, Rosedeal,
-
-Brandsplace (la Marketplace de Veepee), \& Re-Cycle.
+Site Veepee.
 
 
 
-3.2 Les produits et services peuvent être vendus aux Membres de deux façons :
+Les produits et services vendus par Veepee sont identifiés par la mention “Vendu
+
+par Veepee” dans chaque catalogue de nos ventes événementielles et Fiche
+
+Descriptive des produits sur le Site Veepee.
 
 
 
-● Soit la vente est conclue directement entre le Membre et Vente-Privee.com :
+3.2 Concernant les ventes de billets, il est précisé que les CGV Veepee régissent
 
-Les CGV Veepee s’appliquent exclusivement et en intégralité. Pour les ventes
+uniquement l’acte d’achat sur le Site Veepee. Les conditions qui encadrent
 
-de billets concernées, les CGV Veepee ne régissent que l’acte d’achat et les
+l’événement, auquel donnent accès les billets achetés sur le Site Veepee, sont
 
-conditions qui encadrent l’événement sont régies par les conditions
-
-générales de vente de l’organisateur.
+régies par les conditions générales de vente de l’organisateur.
 
 
 
-● Soit la vente est conclue directement entre le Membre et le Partenaire :
+3.3 Concernant les ventes Rosedeal, les ventes partenaires ou Veepee voyage
 
-Vente-Privee.com agit en qualité d’intermédiaire. Ces ventes sont régies par
+accessibles depuis la plateforme d’intermédiation Veepee, les CGV Veepee ne
 
-les Conditions Particulières des Ventes Partenaires et les conditions
+s'appliquent pas. Ces ventes sont régies uniquement par les conditions de ventes
 
-générales de vente dudit Partenaire.
+des vendeurs partenaires, ainsi que par les Conditions Générales d’Utilisation
+
+Ventes Partenaires.
 
 
 
-3.3 Les CGV Veepee se complètent des Conditions Générales d'Utilisation Veepee
+3.4 Les CGV Veepee se complètent des Conditions Générales d'Utilisation Veepee
 
 et de la Politique de Confidentialité et Protection de la Vie Privée de
 
@@ -334,8 +294,6 @@ l’acceptation des présentes.
 
 Article 4 – Modalités d’accès aux ventes
 
-
-
 4.1 L’accès aux ventes s’effectue par une inscription préalable, soit directement par
 
 le Membre, soit par un parrainage préalable depuis le Site Veepee.
@@ -346,7 +304,7 @@ le Membre, soit par un parrainage préalable depuis le Site Veepee.
 
 proches, amis) du Membre parrainant et doit s’effectuer dans le respect des
 
-conditions posées à l’article 5 des Conditions Générales d'Utilisation Veepee.
+conditions posées à l’article 4 des Conditions Générales d'Utilisation Veepee.
 
 Article 5 – Modalités de Commande
 
@@ -362,7 +320,21 @@ description des produits et/ou services proposés à la vente.
 
 
 
-5.2 En cliquant sur le bouton « Payer ma commande » à la fin du processus de
+5.2 Vente-Privee.com fera ses meilleurs efforts pour que la représentation
+
+photographique des produits ou services soit la plus fidèle possible aux
+
+produits eux-mêmes. Toutefois, eu égard au mode de présentation numérique
+
+des produits sur le réseau Internet, il est possible que la perception par le
+
+Membre de la représentation photographique ne corresponde pas exactement
+
+au produit réceptionné.
+
+
+
+5.3 En cliquant sur le bouton « Payer ma commande » à la fin du processus de
 
 Commande, le Membre déclare avoir lu et accepté, pleinement et sans réserve,
 
@@ -382,13 +354,13 @@ expédition, par courrier électronique.
 
 
 
-5.3 Exceptionnellement et pour certaines ventes seulement, le Membre pourra,
+5.4 Exceptionnellement et pour certaines ventes seulement, le Membre pourra,
 
 pendant toute la durée d’une même vente d’un produit ou service, après avoir
 
 payé sa Commande, compléter celle-ci par d’autres produits ou services de la
 
-même vente, et ce par trois moyens :
+même vente, et ce par deux moyens :
 
 
 
@@ -397,14 +369,6 @@ même vente, et ce par trois moyens :
 Mon compte » / « Mes commandes » (en sélectionnant la Commande
 
 concernée) ;
-
-
-
-● Soit depuis « Aide \& contact » / « Mon Espace » / « Questions relatives à mes
-
-commandes » (en sélectionnant la Commande concernée) / « Je souhaite
-
-compléter ma commande » ;
 
 
 
@@ -432,11 +396,11 @@ agissements en cause, sans préjudice de tous dommages et intérêts que pourrai
 
 solliciter Vente-Privee.com.
 
-
-
 6.2 Vente-Privee.com se réserve le droit d’annuler toute Commande pour des
 
 motifs légitimes et notamment sans que cette liste soit exhaustive :
+
+
 
 ● lorsque le compte Veepee a fait l’objet d’une suspension d’accès aux
 
@@ -522,13 +486,13 @@ peut figurer un prix de comparaison qui peut être :
 
 France auprès des distributeurs en France ;
 
-
-
 ● le prix moyen constaté du produit ou du service proposé en France dans le
 
 réseau de distribution du fournisseur ou auprès d’un ou plusieur(s) site(s)
 
 représentatif(s); ;
+
+
 
 ● le prix constaté du produit ou du service proposé en France dans le réseau
 
@@ -556,8 +520,6 @@ du fait qu'il ait été ou est pratiqué par les autres distributeurs.
 
 Article 8 – Disponibilité des produits et services
 
-
-
 Les produits et services proposés sont vendus en quantité limitée. Ils sont proposés
 
 aux Membres jusqu’à épuisement du stock.
@@ -583,8 +545,6 @@ sa demande.
 
 
 Article 9 – Droit de rétractation
-
-
 
 9.1 Périmètre
 
@@ -615,6 +575,8 @@ telle hypothèse, Vente-Privee.com pourra lui réclamer le versement d’un mont
 correspondant au service fourni jusqu’à la communication de sa décision de se
 
 rétracter, pour autant que Vente-Privee.com ait recueilli sa demande expresse.
+
+
 
 9.1.2 Certains produits et services listés à l’article L221-28 du Code de la
 
@@ -706,6 +668,8 @@ restauration ou d’activités de loisirs qui doivent être fournis à une date 
 
 une période déterminée ;
 
+
+
 ● de la fourniture d’un contenu numérique non fourni sur un support matériel
 
 dont l’exécution a commencé après accord préalable exprès du
@@ -748,13 +712,11 @@ contact suivants :
 
 
 
-● Formulaire de contact sur son compte Veepee, rubrique « Aide et contact » /
+● Depuis son compte Veepee, rubrique «Mon compte » / « Mes commandes »
 
-« Mon Espace » / « Questions relatives à mes commandes » (en
+(en sélectionnant la Commande concernée) et cliquant sur le lien
 
-sélectionnant la Commande concernée) / « Je souhaite retourner un produit
-
-».
+“Retourner un article”;.
 
 
 
@@ -792,11 +754,15 @@ communication de sa décision de se rétracter.
 
 Pour retourner son produit, Vente-Privee.com offre la possibilité au Membre de :
 
-● Utiliser une étiquette adresse : l’étiquette permettra uniquement au Membre
+● Utiliser une étiquette adresse disponible depuis la rubrique “Mes
 
-de connaitre l’adresse de retour pour son produit. Le Membre devra
+Commandes” (en sélectionnant la Commande concernée) puis “Voir les
 
-procéder au retour à ses frais, en sollicitant le transporteur de son choix.
+détails du retour”: l’étiquette permettra uniquement au Membre de
+
+connaitre l’adresse de retour pour son produit. Le Membre devra procéder
+
+au retour à ses frais, en sollicitant le transporteur de son choix.
 
 
 
@@ -806,23 +772,21 @@ livraison est prévue contre signature à l’adresse postale indiquée lors de 
 
 commande) : elle sera mise à disposition du Membre par courrier
 
-électronique et sur son compte Veepee dans la rubrique « Aide et contact »
+électronique et sur son compte Veepee dans la rubrique “Mes
 
-/ « Mon Espace » / Questions relatives à mes commandes » (en
+Commandes” (en sélectionnant la Commande concernée) puis “Voir les
 
-sélectionnant la Commande concernée). Son montant sera déduit du
+détails du retour”. Son montant sera déduit du remboursement du produit.
 
-remboursement du produit. Le Membre est informé que l'étiquette prépayée
+Le Membre est informé que l'étiquette prépayée mise à sa disposition, suite
 
-mise à sa disposition, suite à une demande de retour, doit être utilisée
+à une demande de retour, doit être utilisée uniquement pour le retour
 
-uniquement pour le retour du/des produit(s) associé(s) à cette demande. A
+du/des produit(s) associé(s) à cette demande. A défaut, Vente-Privee.com
 
-défaut, Vente-Privee.com différera le remboursement jusqu'à récupération
+différera le remboursement jusqu'à récupération du/des produit(s), ce qui
 
-du/des produit(s), ce qui expose le Membre à des délais de remboursement
-
-allongés.
+expose le Membre à des délais de remboursement allongés.
 
 
 
@@ -852,9 +816,9 @@ d’emploi et documentations, étiquettes ;
 
 
 
-● accompagné de la facture de la Commande de façon à permettre
+● accompagné du bon de retour de façon à permettre d’identifier le Membre
 
-d’identifier le Membre et la Commande concernée ;
+et la Commande concernée ;
 
 
 
@@ -1018,8 +982,6 @@ dans un magasin, pour les biens qui y sont proposés à la vente.
 
 Article 10 – Reprise des produits usagés « un pour un »
 
-
-
 Vente-Privee.com participe à la collecte des produits listés à l’article L541-10-8 du
 
 Code de l'environnement et relevant du régime de responsabilité élargie du
@@ -1054,11 +1016,13 @@ sans frais.
 
 Pour pouvoir bénéficier de ce droit de reprise, le Membre peut, dans les sept (7)
 
-jours après la validation de sa Commande, en faire la demande depuis la rubrique
+jours après la validation de sa Commande, en faire la demande depuis son
 
-« Aide et contact » / « Nos engagements », de son compte Veepee. Au-delà de ce
+compte Veepee à la rubrique “Aide et Contact” / “Contact”/” Reprise d’un ancien
 
-délai, Vente-Privee.com se réserve le droit de refuser toutes demandes de reprise.
+produit” / “Je souhaite la reprise d’un ancien produit”. Au-delà de ce délai,
+
+Vente-Privee.com se réserve le droit de refuser toutes demandes de reprise.
 
 Pour permettre la reprise d’un produit usagé et préserver la sécurité et la santé du
 
@@ -1149,8 +1113,6 @@ date de validité supérieure à la durée du financement choisie. Les cartes à
 autorisation systématique notamment de type Electron, Maestro, Nickel etc. ainsi
 
 que les e-cards, les cartes Indigo et American Express ne sont pas acceptées.
-
-
 
 11.2.2 Modalités de souscription
 
@@ -1244,7 +1206,7 @@ la Commande, prélevées à 30 et 60 jours après pour le 3x et à 30, 60 et 90
 
 jours après pour le 4x, lesquelles comprennent des frais correspondants à
 
-1,58% du montant total de la Commande pour un 3x et à 2,37% pour un 4x
+1,61% du montant total de la Commande pour un 3x et à 2,40% pour un 4x
 
 (dans la limite de 25€ maximum pour un paiement en 3x et de 50€
 
@@ -1256,19 +1218,19 @@ Le paiement en 3x ou 4x est disponible à partir de 70€ d’achat et jusqu’�
 
 
 
-Exemple d’un paiement en 3x : pour un achat de 150€, apport de 52,37€, puis 2
+Exemple d’un paiement en 3x : pour un achat de 150€, apport de 52,42€, puis 2
 
-mensualités de 50€. Crédit d’une durée de 2 mois au TAEG fixe de 21,18%. Coût du
+mensualités de 50€. Crédit d’une durée de 2 mois au TAEG fixe de 21,68%. Coût du
 
-financement : 2,37€ dans la limite de 25€ maximum.
+financement : 2,42€ dans la limite de 25€ maximum.
 
 
 
-Exemple d’un paiement en 4x : Pour un achat de 400€, apport de 109,48€ puis 3
+Exemple d’un paiement en 4x : Pour un achat de 400€, apport de 109,60€ puis 3
 
-mensualités de 100€. Crédit sur 3 mois au TAEG fixe de 21,31%. Coût du financement :
+mensualités de 100€. Crédit sur 3 mois au TAEG fixe de 21,61%. Coût du financement
 
-9,48€ dans la limite de 50€ maximum.
+: 9,60€ dans la limite de 50€ maximum.
 
 
 
@@ -1322,7 +1284,7 @@ financement : 0€
 
 Klarna Bank propose une solution de financement dénommée « Payer plus tard en
 
-3 fois », qui permet au Membre de payer ses achats de 70€ à 1500€ en 3 fois sans
+3 fois », qui permet au Membre de payer ses achats de 100€ à 1500€ en 3 fois sans
 
 frais avec sa carte de paiement sur les ventes signalées dans la Fiche Descriptive
 
@@ -1337,8 +1299,6 @@ Tiers.
 Conformément à la règlementation en vigueur, Vente-Privee.com ne perçoit pas
 
 de rémunération de la part des Membres au titre de cette solution de paiement.
-
-
 
 Klarna Bank AB (publ) est une société de droit suédois enregistrée auprès de
 
@@ -1418,6 +1378,8 @@ priorité contacter le Service Relations Membre Veepee.
 
 11.3.2 Conditions particulières
 
+
+
 L’émetteur de la carte de paiement utilisée par le Membre peut entraîner la
 
 facturation d’intérêts ou de frais selon les termes de l’accord conclu entre
@@ -1427,8 +1389,6 @@ l’établissement bancaire et le Membre. En cas de questions sur ces intérêts
 le Membre est invité à contacter directement l’établissement bancaire ayant émis
 
 sa carte de paiement.
-
-
 
 Le Membre donne à Klarna Bank le pouvoir de prélever les deux (2) paiements
 
@@ -1470,13 +1430,13 @@ https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_fr/paylaterin3
 
 
 
-Dès que la Commande du Membre sera expédiée, Vente-Privee.com mettra à
+Dès que la confirmation de la Commande du Membre, Vente-Privee.com mettra à
 
 disposition du Membre, la facture de la Commande dans la rubrique « Mon
 
-Compte » / « Mes commandes » / « Relevé de facture » (en sélectionnant la
+Compte » / « Mes commandes » (en sélectionnant la Commande concernée)/
 
-Commande concernée) sur le Site Veepee.
+«Télécharger la facture» sur le Site Veepee.
 
 
 
@@ -1508,7 +1468,9 @@ compte » / « Mes moyens de paiement ».
 
 Pour plus d’informations, consultez la Politique de Confidentialité et Protection de la
 
-Vie Privée de Vente-Privee.com.
+Vie Privee de Vente-Privee.com.
+
+
 
 Article 13 – Livraison
 
@@ -1518,15 +1480,11 @@ Article 13 – Livraison
 
 
 
-Les produits seront envoyés à l’adresse de livraison indiquée par le Membre.
+Les produits seront envoyés à l’adresse de livraison sélectionnée par le Membre.
 
+La livraison est possible qu’en France métropolitaine et à Monaco (sauf mention
 
-
-Il est précisé que, pour des raisons techniques et logistiques, le Membre ne pourra
-
-se faire livrer qu’en France métropolitaine et à Monaco (sauf mention spécifique
-
-lors de la vente).
+spécifique lors de la vente).
 
 
 
@@ -1548,9 +1506,9 @@ Il est indiqué toutes taxes comprises.
 
 
 
-Le montant de ces frais sont communiqués au Membre avant la validation
+Le montant de ces frais est communiqué au Membre avant la validation définitive
 
-définitive et le paiement de sa commande.
+et le paiement de sa commande.
 
 
 
@@ -1558,15 +1516,15 @@ définitive et le paiement de sa commande.
 
 
 
-Le délai de livraison est indiqué sur la Fiche Descriptive de chaque produit durant le
+Un délai de livraison estimé est indiqué sur la Fiche Descriptive de chaque produit
 
-processus de Commande.
+durant le processus de Commande.
 
 
 
-Ce délai sera rappelé au Membre lors du récapitulatif de Commande ainsi que
+Ce délai estimé sera rappelé au Membre lors du récapitulatif de Commande ainsi
 
-dans la rubrique « Suivi de livraison » du Site Veepee.
+que dans la rubrique « Suivre mon colis » du Site Veepee
 
 
 
@@ -1574,31 +1532,47 @@ dans la rubrique « Suivi de livraison » du Site Veepee.
 
 
 
-Les modalités de livraison peuvent différer en fonction du poids du colis :
+Les modalités de livraison peuvent différer en fonction du transporteur et du poids
+
+du colis :
 
 
 
-● Pour les colis dont le poids est inférieur à 40 kg, la livraison sera effectuée
+● Pour les colis dont le poids est inférieur ou égal à 40 kg, la livraison pourra
 
-uniquement au pied du camion.
+être effectuée soit en boîte aux lettres, soit remise en main propre au pied
 
-● Pour les colis dont le poids est supérieur à 40 kg, la livraison du produit est
+du camion.
 
-effectuée dans la pièce du choix du Membre (installation et montage non
+● Pour les colis dont le poids est supérieur à 40 kg, la livraison est effectuée
 
-inclus), sous réserve que les dimensions des colis permettent l’accès à
+dans la pièce du choix du Membre (installation et montage non inclus), sous
 
-l’immeuble et à la pièce d’utilisation. Si la livraison nécessite l’utilisation d’un
+réserve que les dimensions des colis permettent l’accès à l’immeuble et à la
 
-monte-charge, d’une nacelle ou d’un autre équipement spécifique, les frais
+pièce d’utilisation. Si la livraison nécessite l’utilisation d’un monte-charge,
+
+d’une nacelle ou d’un autre équipement spécifique, les frais
 
 supplémentaires resteront à la charge du membre.
 
 
 
-Le Membre est informé que les emballages ne seront pas repris par le livreur quelle
+Le Membre est informé que les emballages ne seront pas repris par le livreur quel
 
-que soit la prestation.
+que soit le mode de livraison.
+
+
+
+En raison de la nature périssable des produits frais, la livraison sera assurée par un
+
+transporteur spécialisé, qui contactera le Membre pour fixer un rendez-vous. Le
+
+Membre est informé qu'il ne pourra ni obtenir une nouvelle livraison ni prétendre à
+
+un remboursement si la commande n'est pas réceptionnée selon les modalités
+
+fixées par le transporteur.
 
 13.5 Retard et absence d’expédition ou de livraison
 
@@ -1606,15 +1580,11 @@ que soit la prestation.
 
 En cas d’absence ou de retard de livraison, le Membre peut contacter le Service
 
-Relations Membres de Vente-Privee.com, depuis la rubrique « Aide et contact » / «
+Relations Membres de Vente-Privee.com, depuis de son compte Veepee à la
 
-Mon Espace » / « Questions relatives à mes commandes » (en sélectionnant la
+rubrique « Aide et contact » / “Contact” / “Expédition” / “Retard d’expédition” ou “Je
 
-Commande concernée) / « Je n’ai pas encore reçu ma commande » ou « Ma
-
-commande a été remise au transporteur mais n’a pas encore été livrée », de son
-
-compte Veepee.
+n’ai pas reçu ma commande”.
 
 
 
@@ -1622,11 +1592,11 @@ Dans le cas où le Membre conteste la livraison effective du Produit malgré
 
 l’information du colis “livré” dans son suivi de Commande, celui-ci contacte le
 
-Service Relations Membres de Vente-Privée.com selon les modalités
+Service Relations Membres de Vente-Privee.com selon les modalités
 
-précédemment énoncées dans un délai de (30) jours à compter de la date de
+précédemment énoncées dans un délai de trente (30) jours à compter de la date
 
-livraison indiquée dans son suivi transporteur.
+de livraison indiquée dans son suivi transporteur.
 
 
 
@@ -1634,7 +1604,7 @@ Dans les deux cas précédemment énoncés, Vente-Privee.com ouvrira une enquêt
 
 auprès du transporteur dont les délais de réponse sont généralement de
 
-vingt-et-un jours minimum. Le Membre reçoit alors un courrier électronique
+vingt-et-un (21) jours minimum. Le Membre reçoit alors un courrier électronique
 
 l’informant de l’ouverture d’une enquête ainsi que le résultat de cette enquête.
 
@@ -1668,11 +1638,11 @@ sens de la jurisprudence des Tribunaux français.
 
 Le Membre qui souhaite annuler sa Commande devra le notifier à
 
-Vente-Privee.com depuis la rubrique « Aide et contact » / « Mon Espace » / «
+Vente-Privee.com depuis son compte Veepee à la rubrique « Aide et contact »
 
-Questions relatives à mes commandes » (en sélectionnant la Commande
+/”Contact” / “Expédition” / “Retard d’expédition” ou “Je n’ai pas reçu ma
 
-concernée) / « Je souhaite annuler ma commande », de son compte Veepee.
+commande”.
 
 
 
@@ -1681,6 +1651,8 @@ En cas d’annulation ou de colis déclaré perdu, le Membre sera alors rembours
 dans un délai de quatorze (14) jours suivant la demande d’annulation de la
 
 Commande ou le résultat d’enquête des services de la poste ou du transporteur.
+
+
 
 13.6 Réception et Réserves de la Commande
 
@@ -1722,69 +1694,7 @@ résultat de cette enquête.
 
 
 
-13.7 Procédure de livraison spécifique pour les produits frais
-
-
-
-Les produits frais sont livrables en France métropolitaine à l’exclusion des îles du
-
-littoral, non reliées par la route, et de la Corse.
-
-
-
-Le Membre sera informé par SMS et par courrier électronique de la date précise de
-
-livraison, 24 heures avant celle-ci.
-
-
-
-Lors de la livraison, le Membre devra alors impérativement être présent pour
-
-remise de sa Commande en main propre.
-
-
-
-En raison de la spécificité des produits frais qui sont des denrées périssables, le
-
-transporteur ne pourra effectuer que deux tentatives de livraison en 48 heures. En
-
-cas d’absence lors de la deuxième tentative de livraison, un avis de passage est
-
-adressé dans la boîte aux lettres du Membre l’informant que le colis est retourné
-
-chez le transporteur et stocké en chambre froide. Le Membre devra alors contacter
-
-le transporteur dans un délai maximum de sept jours pour convenir d’une nouvelle
-
-livraison.
-
-
-
-L’attention du Membre est tout particulièrement attirée sur les modalités suivantes :
-
-compte tenu du caractère périssable des produits frais, si le Membre ne
-
-réceptionne pas son colis selon les modalités décrites ci-dessus, il ne sera procédé
-
-à aucun remboursement du Membre.
-
-
-
-Dans l’hypothèse où dans les cinq jours ouvrés après l’expédition du colis, le
-
-Membre n’a pas de nouvelles de sa Commande, il doit se rapprocher de
-
-Vente-Privee.com, notamment à partir de la rubrique « Aide et contact » / « Mon
-
-Espace » / « Questions relatives à mes commandes » (en sélectionnant la
-
-Commande concernée) / « Je n’ai pas encore reçu ma colis » de son compte
-
-Veepee.
-
-
-
-13.8 Mise à disposition des billets de spectacle et d'événements
+13.7 Mise à disposition des billets de spectacle et d'événements
 
 
 
@@ -1864,9 +1774,9 @@ en cas d’annulation ou de report d’un spectacle (ou d’un événement). Les
 
 l'organisateur
 
+
+
 Article 14 – Garanties
-
-
 
 14.1 Garanties légales
 
@@ -1958,7 +1868,7 @@ ou mettre fin au contrat en se faisant rembourser intégralement contre
 
 restitution du produit, si :
 
-1° Vente-privee.com refuse de réparer ou de remplacer le produit ;
+1° Vente-Privee.com refuse de réparer ou de remplacer le produit ;
 
 2° La réparation ou le remplacement du produit intervient après un délai de
 
@@ -2020,11 +1930,11 @@ Pour les produits frais, afin de connaître les démarches de retour d’un prod
 
 qui ne serait pas conforme à la Commande, le Membre est invité à contacter
 
-Vente-Privee.com depuis la rubrique « Aide et contact » / « Mon espace » / «
+Vente-Privee.com depuis son compte Veepee à la rubrique « Aide et contact »
 
-Questions relatives à mes commandes » (en sélectionnant la Commande
+“Contact”/ “Problème à la suite de la réception de ma commande” / “Article
 
-concernée) / « Un de mes produits est défaillant, que dois-je faire ? »
+différent de celui commandé”.
 
 
 
@@ -2126,7 +2036,7 @@ L. 224-25-1 à L. 224-25-31 du code de la consommation.
 
 Si Vente-Privee.com fait obstacle de mauvaise foi à la mise en œuvre de la
 
-garantie légale de conformité, Vente-privee.com encourt une amende civile d'un
+garantie légale de conformité, Vente-Privee.com encourt une amende civile d'un
 
 montant maximal de 300 000 euros, qui peut être porté jusqu'à 10 % du chiffre
 
@@ -2296,7 +2206,7 @@ suivants :
 
 
 
-● Le Membre ne prouve pas les trois conditions listées ci-dessus ;
+● Le Membre ne prouve pas les trois conditions citées ci-dessus ;
 
 ● La mise en œuvre de la garantie n’est pas faite dans les délais ;
 
@@ -2348,11 +2258,11 @@ Vente-Privee.com, en utilisant un des moyens de contact suivants :
 
 ● Formulaire de contact en se rendant sur son compte Veepee, rubrique «
 
-Aide et contact » / « Questions relatives à mes commandes » (en
+Aide et contact » / “Contact” / “Problème à la suite de la réception de ma
 
-sélectionnant la Commande concernée) / « Un de mes produits est
+commande” / “Article défectueux – ne fonctionnant pas”.
 
-défaillant, que dois-je faire ? »
+
 
 ● Adresse électronique : contactvp@veepee.com
 
@@ -2361,8 +2271,6 @@ défaillant, que dois-je faire ? »
 ● Adresse postale : Vente-Privee.com - Service Relations Membres - TSA 91531
 
 \- 91853 ORSAY CEDEX
-
-
 
 14.3.2 Mise en œuvre de la garantie commerciale
 
@@ -2444,13 +2352,13 @@ Article 16 – Données personnelles
 
 Vente-Privee.com est le responsable de traitement de vos données personnelles.
 
+
+
 Pour toute information concernant le traitement de vos données et connaître vos
 
 droits, consultez la Politique de Confidentialité et Protection de la Vie Privée de
 
 Vente-Privee.com.
-
-
 
 Article 17 – Liste d’opposition au démarchage téléphonique
 
@@ -2528,7 +2436,7 @@ Ainsi, le Membre est invité à contacter Vente-Privee.com :
 
 18.2 Conformément aux dispositions du Code de la consommation concernant le
 
-règlement amiable des litiges, vente-privee.com adhère au Service du Médiateur
+règlement amiable des litiges, Vente-Privee.com adhère au Service du Médiateur
 
 de la consommation la FEVAD (Fédération du e-commerce et de la vente à
 
@@ -2538,9 +2446,11 @@ consommation FEVAD BP 20015 - 75362 PARIS CEDEX 8 -
 
 https://www.mediateurfevad.fr.
 
+
+
 Après démarches préalables écrites des consommateurs vis-à-vis de
 
-vente-privee.com, le Service du Médiateur peut être saisi pour tout litige de
+Vente-Privee.com, le Service du Médiateur peut être saisi pour tout litige de
 
 consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités
 
