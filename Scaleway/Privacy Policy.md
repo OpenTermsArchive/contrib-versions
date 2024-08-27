@@ -53,6 +53,10 @@ Scaleway processes your data in order to manage contracts for the services you u
 | Management of contracts and customer relations (management of accounts, support and means of payment) | Identity data Billing data Consumption data Communication data Connection data | Execution of the contract | Duration of the contractual relationship plus an archiving period to meet our legal obligations and guarantee the defense of our legitimate interest | Scaleway Services Entitled Scaleway Partners for support and payment management Authorized third parties\* |
 | Management of contracts with our partners (service providers and suppliers) | Identity data Commercial relationship monitoring data (activity reports and, communications) | Execution of the contract | Duration of the contractual relationship | Scaleway Services Entitled Scaleway Partner for the management of suppliers Authorized third parties |
 
+  
+  
+\*Means any public authority or administration authorized by a text to receive personal information
+
 Sales and Marketing
 
 Scaleway processes certain data in order to send its service offers to its customers or prospects, guests for events or even collect their opinions on products (processing may involve profiling techniques). These processing operations may be based either on legitimate interest, if the person is already a customer of the company, particularly if the proposals concern products or services similar to those already subscribed, or on consent. Scaleway mainly collects this data directly but can also obtain it indirectly via specialized data processors in conformity with all applicable legal requirements.  
