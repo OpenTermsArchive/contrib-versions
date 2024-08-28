@@ -529,6 +529,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         123. City of Kelowna: [https://open.canada.ca/en/open-government-licence-canada](https://open.canada.ca/en/open-government-licence-canada) [https://apps.kelowna.ca/images/opendata/opengovernmentlicence.pdf](https://apps.kelowna.ca/images/opendata/opengovernmentlicence.pdf)
             
+        124. City of Vancouver: [https://opendata.vancouver.ca/pages/licence/](https://opendata.vancouver.ca/pages/licence/)
+            
+        125. City of Toronto: [https://open.toronto.ca/open-data-license/](https://open.toronto.ca/open-data-license/)
+            
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
             
@@ -980,6 +984,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Adresse Data Gouv France - Base Adresse Nationale: [https://adresse.data.gouv.fr/commune/97701](https://adresse.data.gouv.fr/commune/97701)
             
         * Data Paris 2024: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
+            
+        * République Française: [https://adresse.data.gouv.fr/donnees-nationales](https://adresse.data.gouv.fr/donnees-nationales)
             
     19. **Gambia**
         * Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
@@ -2458,6 +2464,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         228. Arkansas GIS Office: [https://gis.arkansas.gov/product/arkansas-road-inventory/](https://gis.arkansas.gov/product/arkansas-road-inventory/)
             
         229. Carteret County NC: [https://www.carteretcountync.gov/DocumentCenter/View/4659/Carteret-County-GIS-Data-Terms-and-Conditions-of-Use?bidId=](https://www.carteretcountync.gov/DocumentCenter/View/4659/Carteret-County-GIS-Data-Terms-and-Conditions-of-Use?bidId=)
+            
+        230. Hillsborough County Florida: [https://gis2017-01-10t133755357z-hillsborough.opendata.arcgis.com/datasets/e8b9ccb23ab942bc954a1b9ffcefe399\_0/explore](https://gis2017-01-10t133755357z-hillsborough.opendata.arcgis.com/datasets/e8b9ccb23ab942bc954a1b9ffcefe399_0/explore)
+            
+        231. Chesterfield County: [https://opengeospace.chesterfield.gov/](https://opengeospace.chesterfield.gov/)
+            
+        232. Utah Geospatial Resource Center: [https://opendata.gis.utah.gov/datasets/utah-roads/about](https://opendata.gis.utah.gov/datasets/utah-roads/about)
+            
+        233. Loudoun GeoHub: [https://logis.loudoun.gov/metadata/Address.html](https://logis.loudoun.gov/metadata/Address.html)\-[https://geohub-loudoungis.opendata.arcgis.com/datasets/loudoun-address-points/explore](https://geohub-loudoungis.opendata.arcgis.com/datasets/loudoun-address-points/explore)
             
     68. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
