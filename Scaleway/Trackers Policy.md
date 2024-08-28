@@ -1,4 +1,7 @@
-This page explains the cookies used when you visit the following websites (the “Website”): [scaleway.com](https://www.scaleway.com/en/).
+Cookie Policy
+=============
+
+This page explains the cookies used when you visit the following websites (the “Website”): [scaleway.com.](https://www.scaleway.com/en/)
 
 What are cookies?
 -----------------
@@ -58,10 +61,34 @@ Cookies can only be installed on your device with your consent unless they are s
 1. Click Settings and then Advanced.
 2. In the Cookies from websites drop-down menu, select Block all.
 
-You can also regularly clear the cookies installed on your device.
+You can also regularly clear the cookies installed on your device. For any questions regarding our cookie policy, please address your query at [privacy@scaleway.com.](mailto:privacy@scaleway.com)
 
-For any questions regarding our cookie policy, please address your query at [privacy@scaleway.com](mailto:privacy@scaleway.com).
+SCALEWAY, a simplified stock corporation (Société anonyme par actions simplifiée) with a working capital of €214.410,50, headquartered at 8 rue de la ville l’Evêque – 75008 Paris, FRANCE, registered with the Paris Corporate and Trade Register number RCS PARIS B 433 115 904, VAT number FR35433115904, reachable via its Internet site [https://www.scaleway.com/](https://www.scaleway.com/)
 
-SCALEWAY, a simplified stock corporation (Société anonyme par actions simplifiée) with a working capital of €214.410,50, headquartered at 8 rue de la ville l’Evêque – 75008 Paris, FRANCE, registered with the Paris Corporate and Trade Register number RCS PARIS B 433 115 904, VAT number FR35433115904, reachable via its Internet site https://www.scaleway.com/
+Manage cookies settings
 
-Your choices have been saved!
+Functional
+
+Always active
+
+These cookies are required for the website to function properly and to allow you to use its services and features. Without these cookies, we would be unable to provide certain requested services or features.
+
+Applicable cookies:
+
+* * *
+
+Analytics
+
+These cookies are used to monitor the performance of our site and to enhance your browsing experience.
+
+Applicable cookies:
+
+* * *
+
+Marketing
+
+These cookies are used to understand user behavior in order to provide you with a more relevant browsing experience or personalize the content on our site.
+
+Applicable cookies:
+
+Accept allReject allSave settings
