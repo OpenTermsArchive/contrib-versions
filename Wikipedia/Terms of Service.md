@@ -45,6 +45,8 @@ Print/export
 * [Download as PDF](https://foundation.wikimedia.org/w/index.php?title=Special:DownloadAsPdf&page=Policy%3ATerms_of_Use&action=show-download-screen)
 * [Printable version](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&printable=yes "Printable version of this page [p]")
 
+In other projects
+
 From Wikimedia Foundation Governance Wiki
 
 (Redirected from [Terms of Use](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use&redirect=no "Terms of Use"))
@@ -93,7 +95,7 @@ Other languages:
 * [føroyskt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fo "Policy:Terms of Use/fo (5% translated)")
 * [galego](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gl "Policy:Terms of Use/gl (41% translated)")
 * [hrvatski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hr "Policy:Terms of Use/hr (100% translated)")
-* [italiano](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/it "Policy:Terms of Use/it (81% translated)")
+* [italiano](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/it "Policy:Terms of Use/it (100% translated)")
 * [kurdî](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ku "Policy:Terms of Use/ku (3% translated)")
 * [latviešu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lv "Policy:Terms of Use/lv (100% translated)")
 * [lietuvių](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lt "Policy:Terms of Use/lt (100% translated)")
