@@ -12,19 +12,19 @@
     
     * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
         
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/p8nsxiI8JhdMmTyrllSOk/04595421cc01826b6ff34a01afe413c0/AI_icon__2_.png?fm=webp&q=75)
-        
-        Watch our latest product launch keynote](https://miro.com/whats-new/)
-    * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-        
-        ![](https://images.ctfassets.net/w6r2i5d8q73s/75GGM6ibPJvaal5dyaZ6wY/a2d2cb8b75a8fbdfbffaa174692f954c/XS1_3_4_columns_canvas_features_and_widgets_timer_001?fm=webp&q=75)
-        
-        Start Timer or Private mode with one click](https://miro.com/blog/what-we-launched-june-2024/#:~:text=Canvas%20and%20collaboration-,Timer%20and%20Private%20Mode%20action%20shortcuts,-We%20know%20how)
-    * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
-        
         ![](https://images.ctfassets.net/w6r2i5d8q73s/2YRWiwcNUH7Z7fEZ6D0uen/c81b66f6bca0505bb70093b70a227c3b/collaboration.svg)
         
-        Spotlight dependencies using Dependencies shortcut](https://miro.com/blog/what-we-launched-june-2024/#:~:text=Action%20shortcuts%20for%20Dependencies)
+        Quickly cast your vote with dots](https://miro.com/app/dashboard/#/lc/video/2Bp9rGqQr4F1cCCXBzVxE3)
+    * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/p8nsxiI8JhdMmTyrllSOk/04595421cc01826b6ff34a01afe413c0/AI_icon__2_.png?fm=webp&q=75)
+        
+        Turn brainstorms into briefs with Miro AI](https://arc.net/l/quote/alrpkcpo)
+    * [![](data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2744%27%20height=%2744%27/%3e)![](data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7)
+        
+        ![](https://images.ctfassets.net/w6r2i5d8q73s/3XlTPcsWaVhdwXZsI2PaUz/013d5c126c83042e64418f4b4c45aba9/AI_practices_fairness_illustration_ENG_standard_1_1_2x?fm=webp&q=75)
+        
+        Gather opinions using Polling widget](https://arc.net/l/quote/ilbezyry)
     
     [See all updates](https://miro.com/whats-new/)
     
