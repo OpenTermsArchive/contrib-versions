@@ -7,6 +7,7 @@ Overview
 SCALEWAY attaches great importance to compliance with regulations relating to the protection of personal data and in particular the General Data Protection Regulation (EU Regulation 2016/679 of the European Parliament known as “GDPR”) and the data processing and freedom law (law no. 78-17 of January 6, 1978 relating to data processing, files and freedoms).
 
 In this context, this Privacy Policy will help you to understand what personal data concerning you is collected by Scaleway and what it is intended for.  
+  
 
 Scope
 -----
@@ -22,6 +23,7 @@ This privacy policy is intended to govern the processing carried out by Scaleway
 
   
 The data collected for the operation of our services, where Scaleway acts as a processor, is governed by our [General Conditions of Services](https://www.scaleway.com/en/contracts/) as well as our [Data Processing Agreement (DPA).](https://www.scaleway.com/en/contracts/)  
+  
 
 What kind of personal data is processed ?
 -----------------------------------------
@@ -35,6 +37,7 @@ Scaleway is required to process the following categories of data:
 * Connection data: IP address, user ID, location data, connection and event logs etc.
 
 The categories of data used are indicated in each of the treatments in the following section. Any reference to “user account data” includes all account data.  
+  
 
 How we use your data.
 ---------------------
@@ -43,6 +46,7 @@ Contracts management and customer relations
 -------------------------------------------
 
 Scaleway processes your data in order to manage contracts for the services you use. This includes the management of accounts, support and payment methods.  
+  
 
 | Purposes | Categories of data | Legal basis | Retention | Categories of recipients |
 | --- | --- | --- | --- | --- |
@@ -72,6 +76,7 @@ Recruitment
 -----------
 
 Scaleway also processes the personal data of candidates as part of its recruitment procedure.  
+  
 
 | Purposes | Categories of data | Legal basis | Retention | Categories of recipients |
 | --- | --- | --- | --- | --- |
@@ -81,6 +86,7 @@ Legal obligations
 -----------------
 
 Scaleway processes some of your data in order to meet its legal obligations. This is particularly the case in order to secure our services as a provider of electronic communications services, to meet our accounting and tax obligations or to process your requests for rights relating to data protection.  
+  
 
 | Purposes | Categories of data | Legal basis | Retention | Categories of recipients |
 | --- | --- | --- | --- | --- |
@@ -95,6 +101,7 @@ Legitimate interest
 -------------------
 
 Scaleway processes some of your data in order to meet a legitimate interest. This is particularly the case in order to secure our services, ensure the management of unpaid debts and the training of our teams (processing relating to security or fraud may involve profiling techniques).  
+  
 
 | Purposes | Categories of data | Legal basis | Retention | Categories of recipients |
 | --- | --- | --- | --- | --- |
@@ -121,6 +128,7 @@ As a data controller, Scaleway uses data processors for the following purposes:
 * security and identity control
 
 Scaleway selects its data processors through a strict security control procedure to ensure that they only process data for the purposes for which they have been chosen. Scaleway also ensures that its data processors have technical and organizational security measures in accordance with the regulations relating to the protection of personal data.  
+  
 
 Transfer of data outside the European Union
 -------------------------------------------
@@ -128,21 +136,25 @@ Transfer of data outside the European Union
 Scaleway strives to minimize data transfers outside the European Union and only carries out such transfers as data controller for the purposes listed above. Data transferred as part of our services is governed by our [Data Processing Agreement (DPA)](https://www.scaleway.com/en/contracts/)
 
 All transfers outside the European Union are subject to a strict control to ensure that the contracts entered into with our service providers comply with the Standard Contractual Clauses (SCC) updated by the implementing decision ( EU) 2021/914 of the Commission of 4 June 2021 on standard contractual clauses for the transfer of personal data to third countries under Regulation (EU) 2016/679 of the European Parliament and of the Council (Text presenting interest for the EEA) and where possible, to supplement these clauses  
+  
 
 Requests from authorities
 -------------------------
 
 Scaleway undertakes to inform its customers in advance in the event of a request for information from an administrative or judicial authority in order to enable them to assert their rights subject to compliance with applicable regulations. Scaleway cannot oppose such a request if it complies with French or European regulations, an international agreement (art. 48 of the GDPR) or with one of the exemptions provided for in art. 49 of the GDPR.  
+  
 
 Children
 --------
 
 Scaleway does not provide services to children. Any children wishing to use our services must be accompanied and under the responsibility of an adult.  
+  
 
 Link to our partners
 --------------------
 
 Our sites may contain links to our partners. We inform you that these links refer directly to the sites of these partners who have their own confidentiality policy for which Scaleway cannot be held responsible.  
+  
 
 Data Security
 -------------
@@ -183,6 +195,7 @@ Scaleway informs you that you have the following rights depending on the purpose
 * Exercise your right to portability
 
 You can exercise your rights directly in the privacy section of your Scaleway account or via [privacy@scaleway.com](mailto:privacy@scaleway.com). If you believe that your rights have not been respected, you can also file a complaint [with the competent supervisory authority](https://www.edpb.europa.eu/about-edpb/about-edpb/members_fr).  
+  
 
 Policy update
 -------------
