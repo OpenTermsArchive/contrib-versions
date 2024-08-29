@@ -1,6 +1,10 @@
 Cookies
 =======
 
+Effective February 1, 2024
+
+  
+
 ### About cookies
 
 A cookie is a small text file that a website you visit asks your browser to store on your computer or mobile device.
