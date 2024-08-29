@@ -227,6 +227,8 @@ Company
 
 [Report an Issue](https://feedback.opayweb.com/report)
 
+[Security Features](https://www.opayweb.com/new/help)
+
 Resources
 
 [Privacy Policy](https://www.opayweb.com/privacy-policy)
