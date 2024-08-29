@@ -171,6 +171,7 @@ Recherche
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
 * 
+* [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -938,6 +939,7 @@ Recherche
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
 * 
+* [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -1679,6 +1681,7 @@ Recherche
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
 * 
+* [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -2369,6 +2372,7 @@ Recherche
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
 * 
+* [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -2764,6 +2768,7 @@ Recherche
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
 * 
+* [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -3159,6 +3164,7 @@ Recherche
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
 * 
+* [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -3554,6 +3560,7 @@ Recherche
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
 * 
+* [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -3949,6 +3956,7 @@ Recherche
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
 * 
+* [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
@@ -4344,6 +4352,7 @@ Recherche
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
 * 
+* [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
     
