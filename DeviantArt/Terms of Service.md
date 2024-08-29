@@ -167,7 +167,7 @@ Any refunds of cryptocurrency transactions are subject to DeviantArt's sole disc
 
 **Services Fees**
 
-Your use of Cryptocurrency Payment Services is subject to certain fees and exchange rates ("**Service Fees**"), which may be modified from time to time. For more information, see [here](https://www.deviantartsupport.com/en//article/what-are-the-costs-for-withdrawing-your-earnings-from-deviantart). The Service Fees shall be deducted from your DeviantArt Earnings Account. All Service Fees are non-refundable.
+Your use of Cryptocurrency Payment Services is subject to certain fees and exchange rates ("**Service Fees**"), which may be modified from time to time. For more information, see [here](https://www.deviantartsupport.com/en/article/what-are-the-costs-for-withdrawing-your-earnings-from-deviantart). The Service Fees shall be deducted from your DeviantArt Earnings Account. All Service Fees are non-refundable.
 
 Certain transactions (e.g., underpayment and overpayment of cryptocurrency transactions) may be subject to additional fees by the Cryptocurrency Payment Services provider. In the case of BitPay, please refer to the following [article](https://support.bitpay.com/hc/en-us/articles/360000051746-How-to-claim-a-refund-from-a-BitPay-merchant-refund-email) for additional information.
 
