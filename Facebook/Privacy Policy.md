@@ -258,7 +258,7 @@ Autres ressources
 
 Pages d’aide Facebook](https://www.facebook.com/help/111814505650678)
 
-Comment pouvez-vous gérer ou supprimer vos informations et exercer vos droits ?
+Comment pouvez-vous gérer ou supprimer vos informations et exercer vos droits ?
 
 ### 
 
@@ -304,7 +304,7 @@ Transférer, télécharger ou supprimer vos informations
 
 [Supprimer vos informations ou votre compte](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=6.ex.2-DeleteYourInformationOr)
 
-Vous pouvez en savoir plus au sujet de la confidentialité sur [Facebook](https://www.facebook.com/privacy/center/) et sur [Instagram](https://fr-fr.facebook.com/privacy/explanation/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp) ainsi que sur les [Pages d’aide Facebook](https://www.facebook.com/help/). Pour toute question concernant la présente politique, vous pouvez [nous contacter](https://www.facebook.com/help/contact/507739850846588) par les moyens décrits ci-dessous. Dans certains pays, vous pouvez également contacter le Délégué à la Protection des données de Meta Platforms, Inc. Et, selon votre juridiction, vous pouvez également contacter directement votre Autorité chargée de la Protection des données (« APD ») locale.
+Vous pouvez en savoir plus au sujet de la confidentialité sur [Facebook](https://www.facebook.com/privacy/center/) et sur [Instagram](https://fr-fr.facebook.com/privacy/explanation/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp) ainsi que sur les [Pages d’aide Facebook](https://www.facebook.com/help/). Pour toute question concernant la présente politique, vous pouvez [nous contacter](https://www.facebook.com/help/contact/507739850846588) par les moyens décrits ci-dessous. Dans certains pays, vous pouvez également contacter le Délégué à la Protection des données de Meta Platforms, Inc. Et, selon votre juridiction, vous pouvez également contacter directement votre Autorité chargée de la Protection des données (« APD ») locale.
 
 Quelle est notre base légale pour le traitement de vos informations et quels sont vos droits ?
 
@@ -411,17 +411,17 @@ Comment contacter Meta en cas de questions
 
 Vous pouvez en savoir plus au sujet de la confidentialité sur [Facebook](https://www.facebook.com/help) et sur [Instagram](https://fr-fr.facebook.com/privacy/explanation/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F196883487377501%3Fref%3Ddp) ainsi que sur les [Pages d’aide Facebook](https://www.facebook.com/help/). Si vous avez des questions sur la présente Politique ou des questions, des plaintes ou des demandes concernant vos informations, vous pouvez nous contacter par les moyens décrits ci-dessous.
 
-Le responsable du traitement de vos informations est Meta Platforms, Inc., que vous pouvez [contacter en ligne](https://www.facebook.com/help/contact/1650115808681298) ou en écrivant à l’adresse suivant :
+Le responsable du traitement de vos informations est Meta Platforms, Inc., que vous pouvez [contacter en ligne](https://www.facebook.com/help/contact/1650115808681298) ou en écrivant à l’adresse suivant :
 
-Meta Platforms, Inc.
+Meta Platforms, Inc.
 
-ATTN : Privacy Operations
+ATTN : Privacy Operations
 
-1601 Willow Road
+1601 Willow Road
 
 Menlo Park, CA 94025, USA
 
-Contacter le Délégué à la Protection des Données de Meta Platforms, Inc. [ici](https://www.facebook.com/help/contact/540977946302970).
+Contacter le Délégué à la Protection des Données de Meta Platforms, Inc. [ici](https://www.facebook.com/help/contact/540977946302970).
 
 Vous avez également le droit de déposer une réclamation auprès de l’autorité de contrôle anglaise (Information Commissioner’s Office, ICO).
 
