@@ -39,9 +39,9 @@ USA
 Cloudflare Privacy Policy
 =========================
 
-This Privacy Policy is effective as of July 18, 2024.
+This Privacy Policy is effective as of August 28, 2024.
 
-_We have updated our October 03, 2023 Privacy Policy to update_ _the address for our entity in Mexico, Cloudflare Mexico S. de R.L de C.V__._  
+_We have updated our July 18, 2024 Privacy Policy to update the contact email of our Data Protection Officer._  
   
 
 * * *
@@ -369,71 +369,71 @@ Cloudflare, Inc.
 101 Townsend St.  
 San Francisco, CA 94107  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare (Canada) Information Technology Co., Ltd.  
 Suite 2600, Three Bentall Centre  
 595 Burrard Street, P.O. Box 49314  
 Vancouver, BC V7X 1L3  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare, Ltd.  
 County Hall/The Riverside Building  
 Belvedere Road  
 London, SE1 7PB  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare Portugal, Unipessoal Lda.  
 Largo Rafael Bordalo Pinheiro 29  
 1200-369 Lisboa  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare Germany GmbH  
 Rosental 7  
 80331 München  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare France SAS  
 6 place de la Madeleine  
 75008 Paris  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare Netherlands B.V.  
 Keizersgracht 62,  
 1015CS Amsterdam  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare Pte., Ltd.  
 182 Cecil Street, #35-01  
 Frasers Tower, Singapore 069547  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare Australia Pty Ltd.  
 333 George St., 5th Floor  
 Sydney, NSW 2000  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare (Beijing) Information Technology Co., Ltd.  
 16 South Guangshun Street  
 Donghuang Building 17th Floor  
 Chaoyang District Beijing 100015  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare Japan K.K.  
 Marunouchi Kitaguchi Building 9F  
 1-6-5 Marunouchi, Chiyoda-ku  
 Tokyo, 100-0005  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare Middle East FZ-LLC  
 DIC 1 Internet City Road  
@@ -441,31 +441,31 @@ Building 1, Ground Floor, Office 17
 Jumeirah  
 Dubai UAE  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare India Private Limited  
 No. 215 Richmond Towers, 12 Richmond Road, Richmond Town  
 Banglore, Bangalore, Karnataka, India, 560025  
 Attention: Grievance Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Area 1 Security, LLC  
 838 Walker Road Suite 21-2,  
 Dover, DE, 19904  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare Korea LLC  
 8-113 (Samseong-dong), Teheran-ro 507  
 Gangnam-gu, Seoul, South Korea, 06168  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare Mexico S. de R.L de C.V.  
 Bosque de Ciruelos No. 180 int. PP 101, Col. Bosque de las Lomas, Miguel Hidalgo  
 Ciudad de México, 11700, México  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
 
 Cloudflare Malaysia Sdn. Bhd.  
 Level 21, Suite 21.01, The Gardens South Tower,  
@@ -475,4 +475,4 @@ Kuala Lumpur
 Wilayah Persekutuan  
 59200  
 Attention: Data Protection Officer  
-[privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com)
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
