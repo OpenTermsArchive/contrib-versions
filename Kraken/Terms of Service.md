@@ -77,7 +77,7 @@ These Terms are a legally binding agreement between “you” (an individual, or
 * Payward Trading Ltd, 2nd floor, Water’s Edge Building, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands, if you live anywhere else in the world where we make our services available (except Canada, or as noted below);
 * Payward Commercial Ltd., Road Town PO Box 4301, Tortola British Virgin Islands, for those services set forth in Annex C;
 * Payward Trading Ltd, 2nd floor, Water’s Edge Building, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands, for those services set forth in Annex A (except if you live in the United States of America or Australia), Annex B, Annex D, and Annex E; and
-* Payward Ireland Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296 for those services set forth in Section 1(c) of Annex F if you live in Ireland, the Netherlands, France, Spain, Belgium, Italy, Austria, Czech Republic, Lithuania, Poland,Norway, Portugal, Romania, Slovakia, Sweden, Cyprus, or Estonia (or Germany from September 3rd, 2024).
+* Payward Ireland Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296 for those services set forth in Section 1(c) of Annex F if you live in Ireland, the Netherlands, France, Spain, Belgium, Italy, Austria, Czech Republic, Lithuania, Poland,Norway, Portugal, Romania, Slovakia, Sweden, Cyprus, or Estonia (or Germany from September 10th, 2024, or Finland, Aland islands, Croatia, Bulgaria, Denmark, Greece, Hungary, Iceland, Latvia, Liechtenstein, Luxembourg, Malta, Slovenia from October 1st, 2024).
 
 If you live in Canada, the [Canadian Terms of Service](https://www.kraken.com/legal/ca-terms) are the binding agreement between you and Payward Canada, Inc.
 
