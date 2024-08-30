@@ -40,7 +40,7 @@ Taboola also maintains an externally-facing [Trust Center](https://help.taboola.
 
 ### **Privacy Policy:**
 
-Taboola, Inc., together with its Affiliates, (“**Taboola**”, “**we**”, “**us**”, or “**our**”), recognize the importance of your privacy. In this privacy policy (“Privacy Policy”) we describe how we collect, process, use, and disclose information that we obtain in the following contexts:
+Taboola, Inc., together with its [Affiliates](https://www.taboola.com/pdf/affiliate-list), (“**Taboola**”, “**we**”, “**us**”, or “**our**”), recognize the importance of your privacy. In this privacy policy (“Privacy Policy”) we describe how we collect, process, use, and disclose information that we obtain in the following contexts:
 
 * our website, [www.taboola.com](http://www.taboola.com/) and any Taboola website, digital property, communication, or form displaying this Privacy Policy (collectively, the “**Sites**”);
 * our content-discovery platforms, feeds, widgets, analytics tools, pixels, integrations, and other technical applications that we provide on third-party websites (collectively, the “**Content Discovery Platform**”); and
