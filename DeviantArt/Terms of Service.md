@@ -214,7 +214,9 @@ Users acknowledge that by uploading Content to DeviantArt, third-parties may scr
     
 * DeviantArt is not a fiduciary, contracting agent, or representative of any Seller or Buyer, and disclaims all responsibilities and obligations related to any of these roles.
     
-* Unless expressly specified otherwise on a specific matter, DeviantArt does not endorse any Seller or Buyer or any of the content made available through the Platform; Unless required under applicable law, DeviantArt does not create, revise, or interfere with the integrity of the content made available by DeviantArt users; DeviantArt users are solely and fully responsible and liable for the condition, quality, legality, and suitability of any content and/or service made available by them through the Platform and any warranties or representations they make in connection with such content and/or service; and DeviantArt is not responsible for the bona fides of any DeviantArt user. DeviantArt does not attempt to confirm any member's purported identity, and DeviantArt will not be responsible for any damage or harm resulting from your interactions with other members or other third parties. DEVIANTART IS NOT RESPONSIBLE FOR THE CONDUCT OF DEVIANTART USERS AND OTHER THIRD PARTIES AND DISCLAIMS ALL LIABILITY IN THIS REGARD.
+* Unless expressly specified otherwise on a specific matter, DeviantArt does not endorse any Seller or Buyer or any of the content made available through the Platform; Unless required under applicable law, DeviantArt does not create, revise, or interfere with the integrity of the content made available by DeviantArt users; DeviantArt users are solely and fully responsible and liable for the condition, quality, legality, and suitability of any content and/or service made available by them through the Platform and any warranties or representations they make in connection with such content and/or service; and DeviantArt is not responsible for the bona fides of any DeviantArt user.
+    
+* DeviantArt does not attempt to confirm any member's purported identity, and DeviantArt will not be responsible for any damage or harm resulting from your interactions with other members or other third parties. DEVIANTART IS NOT RESPONSIBLE FOR THE CONDUCT OF DEVIANTART USERS AND OTHER THIRD PARTIES AND DISCLAIMS ALL LIABILITY IN THIS REGARD.
     
 * Any agreement made between a Seller and a Buyer using the Platform automatically incorporates by reference an agreement between the Seller and the Buyer that they are both subject to these Terms for the use of the Platform.
     
@@ -256,10 +258,12 @@ Content and/or the Platform or its messaging may contain links to third-party we
     
 * **Subscriptions:** DeviantArt allows its users to offer and purchase access to certain works submitted in a way that will only be visible to subscribers, subject to the terms specified [here](https://www.deviantartsupport.com/en/subscriptions/creating) and in compliance with these Terms. You are required to read these term before offering or buying Subscriptions.
     
-* **Exclusive Deviation:** DeviantArt allows its users to offer and purchase Exclusive Deviations, subject to the terms specified [here](https://www.deviantartsupport.com/kb/en/article/what-do-i-offer-and-receive-when-purchasing-exclusives) and in compliance with these Terms. You are required to read these terms before offering or buying Exclusive Deviations.
+* **Exclusive Deviations:** DeviantArt allows its users to offer and purchase Exclusive Deviations, subject to the terms specified [here](https://www.deviantartsupport.com/kb/en/article/what-do-i-offer-and-receive-when-purchasing-exclusives) and in compliance with these Terms. You are required to read these terms before offering or buying Exclusive Deviations.
     
 
-* **30\. Buyer Access**DeviantArt reserves the right to ensure that Buyers receive fair access to Seller Content they purchased. In the case that a Seller edits or deletes Seller Content while a transaction is taking place or immediately thereafter, DeviantArt reserves the right to provide Buyers access to the purchased Seller Content prior to its change or deletion.
+**30\. Buyer Access**
+
+DeviantArt reserves the right to ensure that Buyers receive fair access to Seller Content they purchased. In the case that a Seller edits or deletes Seller Content while a transaction is taking place or immediately thereafter, DeviantArt reserves the right to provide Buyers access to the purchased Seller Content prior to its change or deletion.
 
 **31\. Identifying where Your Content was created with Generative AI Programs or AI Tools**
 
