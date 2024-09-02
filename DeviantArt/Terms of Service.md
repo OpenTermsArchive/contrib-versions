@@ -11,7 +11,7 @@ By using our Service, you agree to be bound by Section I of these Terms ("Genera
 
 **1\. Availability**
 
-This Service is provided by DeviantArt on an "AS IS" and "AS AVAILABLE" basis and DeviantArt reserves the right to modify, suspend or discontinue the Service, in its sole discretion, at any time and without notice. **You agree that DeviantArt is and will not be liable to you for any modification, suspension or discontinuance of the Service.**
+This Service is provided by DeviantArt on an "AS IS" and "AS AVAILABLE" basis and DeviantArt reserves the right to modify, suspend or discontinue the Service, in its sole discretion, at any time and without notice. **You agree that DeviantArt is not and will not be liable to you for any modification, suspension or discontinuance of the Service.**
 
 **2\. Privacy**
 
@@ -167,9 +167,9 @@ Any refunds of cryptocurrency transactions are subject to DeviantArt's sole disc
 
 **Services Fees**
 
-Your use of Cryptocurrency Payment Services is subject to certain fees and exchange rates ("**Service Fees**"), which may be modified from time to time. For more information, see [here](https://www.deviantartsupport.com/en/article/what-are-the-costs-for-withdrawing-your-earnings-from-deviantart). The Service Fees shall be deducted from your DeviantArt Earnings Account. All Service Fees are non-refundable.
+Your use of Cryptocurrency Payment Services is subject to certain fees and exchange rates ("**Service Fees**"), which may be modified from time to time. For more information, see [here](https://www.deviantartsupport.com/kb/en/article/how-do-i-withdraw-earnings-using-bitpay). The Service Fees shall be deducted from your DeviantArt Earnings Account. All Service Fees are non-refundable.
 
-Certain transactions (e.g., underpayment and overpayment of cryptocurrency transactions) may be subject to additional fees by the Cryptocurrency Payment Services provider. In the case of BitPay, please refer to the following [article](https://support.bitpay.com/hc/en-us/articles/360000051746-How-to-claim-a-refund-from-a-BitPay-merchant-refund-email) for additional information.
+Certain transactions (e.g., underpayment and overpayment of cryptocurrency transactions) may be subject to additional fees by the Cryptocurrency Payment Services provider. In the case of BitPay, please refer to the following [article](https://support.bitpay.com/hc/en-us) for additional information.
 
 **23\. DeviantArt Protect**
 
@@ -178,7 +178,7 @@ DeviantArt enables you to use its DeviantArt Protect service (for qualifying ima
 1. The DeviantArt Protect service is limited to detecting potentially similar or near-identical images to your images identified on DeviantArt. There might be other similar images that we will not detect, and therefore, we encourage you to keep track of existing works.
 2. To use DeviantArt Protect, you will need to open an account with DeviantArt, and agree to these terms and to the DeviantArt [general privacy policy](https://www.deviantart.com/about/policy/privacy/).
 3. For images eligible for the DeviantArt Protect service, when a potential infringement is identified, we will send you a notice via email or via platform notification, of any potential similar image found. Upon receiving such a notice, you may choose if you wish to take action regarding such images or not (for example, by filing a DMCA takedown [notice](https://www.deviantart.com/contact-us?menuId=copyright_dmca_holder#issue-response)).
-4. We will not cause or initiate any legal procedures with respect to the similar images. If you believe that one of our results is infringing upon your image, we encourage you to file a DMCA takedown [notice](https://www.deviantart.com/contact-us?menuId=copyright_dmca_holder#issue-response). DeviantArt will not be responsible, in any event, for such procedures. All results are indicating some similarity, but in no event will we determine or suggest if such work is indeed infringing or not.
+4. We will not cause or initiate any legal procedures with respect to the similar images. If you believe that one of our results is infringing upon your image, we encourage you to take the proper reporting steps. DeviantArt will not be responsible, in any event, for such procedures. All results are indicating some similarity, but in no event will we determine or suggest if such work is indeed infringing or not.
 5. For Core Members, we provide the DeviantArt Protect service for all images published as deviations. For non-Core users, we offer the DeviantArt Protect service for 90 days as of the day when the image was submitted as a deviation.
 
 **24\. Data Scraping & Machine Learning Activities**
@@ -214,7 +214,7 @@ Users acknowledge that by uploading Content to DeviantArt, third-parties may scr
     
 * DeviantArt is not a fiduciary, contracting agent, or representative of any Seller or Buyer, and disclaims all responsibilities and obligations related to any of these roles.
     
-* Unless expressly specified otherwise on a specific matter, DeviantArt does not endorse any Seller or Buyer or any of the content made available through the Platform; Unless required under applicable law, DeviantArt does not create, revise, or interfere with the integrity of the content made available by DeviantArt users; DeviantArt users are solely and fully responsible and liable for the condition, quality, legality, and suitability of any content and/or service made available by them through the Platform and any warranties or representations they make in connection with such content and/or service; and DeviantArt is not responsible for the bona fides of any DeviantArt user.
+* Unless expressly specified otherwise on a specific matter, DeviantArt does not endorse any Seller or Buyer or any of the content made available through the Platform; Unless required under applicable law, DeviantArt does not create, revise, or interfere with the integrity of the content made available by DeviantArt users; DeviantArt users are solely and fully responsible and liable for the condition, quality, legality, and suitability of any content and/or service made available by them through the Platform and any warranties or representations they make in connection with such content and/or service; and DeviantArt is not responsible for the good faith of any DeviantArt user.
     
 * DeviantArt does not attempt to confirm any member's purported identity, and DeviantArt will not be responsible for any damage or harm resulting from your interactions with other members or other third parties. DEVIANTART IS NOT RESPONSIBLE FOR THE CONDUCT OF DEVIANTART USERS AND OTHER THIRD PARTIES AND DISCLAIMS ALL LIABILITY IN THIS REGARD.
     
