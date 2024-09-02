@@ -386,6 +386,8 @@ If you reside in South Korea, [\[click here\]](https://legal.asia.wargaming.net/
 
 12.3.5. Wargaming may add, amend, and delete such explanations in future. In case of any discrepancies, this EULA shall prevail.  
 
+**TIP:** You will find more information [here](https://legal.eu.wargaming.net/en/content-moderation-policy/) about how we moderate content.
+
 ### **13\. Patches, Updates and Changes** [\[Back to top\]](https://legal.eu.wargaming.net/en/eula-en/#)
 
 13.1. From time to time, we may need to deploy or provide patches, updates, additional Content or other modifications (each, a “**Change**”) to the Products. We do so to maintain conformity of the Products or for other important operational reasons, e.g. to adapt the Products to a new technical environment or to an increased number of users, enhance online gameplay, add, update, or remove features, resolve software bugs.
