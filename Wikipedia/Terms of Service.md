@@ -66,6 +66,7 @@ Other languages:
 * [Fulfulde](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ff "Policy:Terms of Use/ff (5% translated)")
 * [Gaeilge](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ga "Policy:Terms of Use/ga (100% translated)")
 * [Hausa](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ha "Policy:Terms of Use/ha (1% translated)")
+* [Igbo](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ig "Policy:Terms of Use/ig (2% translated)")
 * [Kreyòl ayisyen](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ht "Policy:Terms of Use/ht (2% translated)")
 * [Latina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/la "Policy:Terms of Use/la (0% translated)")
 * [Lëtzebuergesch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lb "Policy:Terms of Use/lb (6% translated)")
