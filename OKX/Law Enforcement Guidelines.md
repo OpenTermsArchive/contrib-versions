@@ -29,11 +29,11 @@ As per our Terms of Service, the services of OKX.com are being provided by the f
 
 (such entities collectively referred to herein as “**OKX**”, “**we**” or “**us**”).
 
-Where appropriate, we will respond to requests from authorized law enforcement officers with proof of authority. We will review each case and cooperate on a case-by-case basis, in accordance with the relevant Terms of Service, our Privacy Policy Statement, and any applicable laws and regulations. This Law Enforcement Request Guide explains how authorized law enforcement officers can engage and contact us to request customer information and/or freeze a customer’s OKX account.
+Where appropriate, we will respond to requests from authorized law enforcement officers with proof of authority. We will review each case and cooperate on a case-by-case basis, in accordance with the relevant Terms of Service, our Privacy Notice Statement, and any applicable laws and regulations. This Law Enforcement Request Guide explains how authorized law enforcement officers can engage and contact us to request customer information and/or freeze a customer’s OKX account.
 
 ### 2\. LAW ENFORCEMENT REQUESTS
 
-We are responsible for processing law enforcement requests from all jurisdictions, in accordance with our Terms of Service, our Privacy Policy Statement, and any applicable laws and regulations.
+We are responsible for processing law enforcement requests from all jurisdictions, in accordance with our Terms of Service, our Privacy Notice Statement, and any applicable laws and regulations.
 
 If you are an authorized law enforcement officer, please address all law enforcement requests to “**OKX**” (as opposed to a specific OKX entity) and send such requests to [enforcement@okx.com](mailto: enforcement@okx.com) . We make every effort to promptly respond to your emails. If, however, you do not receive our response, please check your email's junk/spam folder.
 
