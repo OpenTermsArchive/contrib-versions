@@ -1,4 +1,4 @@
-Privacy Policy Statement
+Privacy Notice Statement
 ========================
 
 Published on May 9, 2024
@@ -10,9 +10,9 @@ Last updated: May 9, 2024
 
 Thank you for visiting OKX.com or the OKX app (the “**Site**”). For residents of one of our approved operating locations within the European Economic Area (“**EEA**”), your use of the Site is being facilitated by **OKCoin Europe LTD,** a Malta limited liability company, (“OKX”, “We”, “Us” or “Our”).
 
-OKX, as a/the data controller, provides this Privacy Policy Statement (the “**Privacy Policy**”) to describe our practices regarding the collection, storage, use, disclosure, and other processing of Personal Data (defined below). By visiting, accessing, or using the Site and associated application program interfaces or mobile applications, you (a) acknowledge that you have the right, capacity, and authority to accept this Privacy Policy; (b) acknowledge that you have read and understand this Privacy Policy; and (c) consent to the policies and practices outlined in this Privacy Policy. So please read them carefully to understand what we do.
+OKX, as a/the data controller, provides this Privacy Notice Statement (the “**Privacy Notice**”) to describe our practices regarding the collection, storage, use, disclosure, and other processing of Personal Data (defined below). By visiting, accessing, or using the Site and associated application program interfaces or mobile applications, you (a) acknowledge that you have the right, capacity, and authority to accept this Privacy Notice; (b) acknowledge that you have read and understand this Privacy Notice; and (c) consent to the policies and practices outlined in this Privacy Notice. So please read them carefully to understand what we do.
 
-This Privacy Policy explains what data we collect, why we collect it, how such data is used and stored, how such data may be shared by us, rights you may have, and how you can contact us about our privacy practices. If you do not wish for your Personal Data (as defined below) to be used in the ways described in this Privacy Policy, you should not use the Site or any services, software, API (application program interface), technologies, products and/or functionalities offered by this Site (collectively, the “**Service(s)**”).
+This Privacy Notice explains what data we collect, why we collect it, how such data is used and stored, how such data may be shared by us, rights you may have, and how you can contact us about our privacy practices. If you do not wish for your Personal Data (as defined below) to be used in the ways described in this Privacy Notice, you should not use the Site or any services, software, API (application program interface), technologies, products and/or functionalities offered by this Site (collectively, the “**Service(s)**”).
 
 **2\. DEFINITIONS**
 -------------------
@@ -42,7 +42,7 @@ We collect information you provide during the OKX onboarding process, which may 
 
 * **Personal identification information** such as name, email, phone number, nationality, date of birth, address, image, and government identification information;
     
-* **Photographs or** **images**, which then we provide to third parties that process that information and generate and store biometric information solely for identity verification purposes (please see the section below entitled “Identity Verification and Biometric Data Privacy Policy” for more information);  
+* **Photographs or** **images**, which then we provide to third parties that process that information and generate and store biometric information solely for identity verification purposes (please see the section below entitled “Identity Verification and Biometric Data Privacy Notice” for more information);  
     
 * **Institutional details** such as corporate legal name, corporate registration information, government identification number, proof of identity and legal existence, address, business description, and beneficial owner information;
     
@@ -66,7 +66,7 @@ If the Personal Data we request is not provided by you, we may not be able to pr
 **4\. UNSOLICITED PERSONAL DATA**
 ---------------------------------
 
-We may receive unsolicited Personal Data about you. We destroy or de-identify all unsolicited Personal Data we receive, unless it is relevant to the purposes stated in this Privacy Policy for collecting Personal Data or otherwise required by applicable law. We may retain additional information we receive about you if it is combined with other information we are required or entitled to collect. If we do this, we will retain the information in the same way we hold your other Personal Data.
+We may receive unsolicited Personal Data about you. We destroy or de-identify all unsolicited Personal Data we receive, unless it is relevant to the purposes stated in this Privacy Notice for collecting Personal Data or otherwise required by applicable law. We may retain additional information we receive about you if it is combined with other information we are required or entitled to collect. If we do this, we will retain the information in the same way we hold your other Personal Data.
 
 **5\. WHO WE COLLECT PERSONAL DATA ABOUT**
 ------------------------------------------
@@ -122,7 +122,7 @@ OKX may disclose Personal Data to:
 * **Other business purposes** as permitted by law or required to comply with our legal obligations.
     
 
-Other than as disclosed in this Privacy Policy, OKX does not share your Personal Data with any other third parties unless required to do so by law or legal obligation. This Site may contain links to other third-party websites where their own privacy policies may apply, and OKX is not responsible for the privacy policies of such third-party websites.
+Other than as disclosed in this Privacy Notice, OKX does not share your Personal Data with any other third parties unless required to do so by law or legal obligation. This Site may contain links to other third-party websites where their own privacy policies may apply, and OKX is not responsible for the privacy policies of such third-party websites.
 
 If we disclose your Personal Data to service providers that perform business activities for us, they may only use your Personal Data for the specific purpose for which we supply it. We will take reasonable steps to ensure that all contractual arrangements with third parties adequately address compliance with applicable privacy laws.
 
@@ -144,7 +144,7 @@ We retain your Personal Data for as long as is reasonably necessary to provide s
 
 OKX is a global business and Personal Data may be stored and processed in any country where we have operations or where we engage service providers. We may disclose information to third party storage providers or affiliates that are located outside your country of residence or disclose to third-party storage providers or affiliates that are located outside your country of residence. 
 
-We may transfer Personal Data that we maintain about you to recipients in countries other than the country in which the Personal Data was originally collected. Those other countries may have data protection or privacy rules that are different from those of your country. However, we will take measures to ensure that any such transfers comply with applicable data protection laws and that your Personal Data remains protected to the standards described in this Privacy Policy. In certain circumstances, courts, law enforcement agencies, regulatory agencies, or security authorities in those other countries may be entitled to access your Personal Data. By communicating electronically with OKX, you acknowledge and agree to your Personal Data being processed in this way.
+We may transfer Personal Data that we maintain about you to recipients in countries other than the country in which the Personal Data was originally collected. Those other countries may have data protection or privacy rules that are different from those of your country. However, we will take measures to ensure that any such transfers comply with applicable data protection laws and that your Personal Data remains protected to the standards described in this Privacy Notice. In certain circumstances, courts, law enforcement agencies, regulatory agencies, or security authorities in those other countries may be entitled to access your Personal Data. By communicating electronically with OKX, you acknowledge and agree to your Personal Data being processed in this way.
 
 **Collection and Transfer of Data Outside of The EEA**
 
@@ -164,7 +164,7 @@ In response to data access, correction, or deletion requests, we will verify the
 
 OKX does not knowingly offer services to or collect the Personal Data of anyone under the age of 18. If we learn that we have collected Personal Data of anyone under the age of 18, we will promptly delete it from our systems. If you are aware of anyone under the age of 18 using our Services, please notify us so we can take prompt action to prevent access to our Services.
 
-**11\. IDENTITY VERIFICATION AND BIOMETRIC DATA PRIVACY POLICY**
+**11\. IDENTITY VERIFICATION AND BIOMETRIC DATA Privacy Notice**
 ----------------------------------------------------------------
 
 To comply with applicable laws, regulations, and other legal obligations in the EEA and in other countries, including “know your customer” obligations, we require all users to verify their identity before using our Services. 
@@ -206,17 +206,17 @@ If you have any questions about information security or report any security issu
 **15\. CONTACTING OKX ABOUT PRIVACY QUESTIONS OR CONCERNS**
 -----------------------------------------------------------
 
-If you have any questions about this Privacy Policy or the use of your Personal Data, please contact us by sending an email to the following address support@okcoin.com with the subject “PRIVACY REQUEST”. For users from the EEA, you have the right to make a complaint for unresolved questions in relation to the collection, use or disclosure of your Personal Data to the applicable supervisory authority within your jurisdiction. 
+If you have any questions about this Privacy Notice or the use of your Personal Data, please contact us by sending an email to the following address support@okcoin.com with the subject “PRIVACY REQUEST”. For users from the EEA, you have the right to make a complaint for unresolved questions in relation to the collection, use or disclosure of your Personal Data to the applicable supervisory authority within your jurisdiction. 
 
-**16\. CHANGES TO OUR PRIVACY POLICY**
+**16\. CHANGES TO OUR Privacy Notice**
 --------------------------------------
 
-We may update this Privacy Policy at any time by posting the amended version on this Site including the effective date of the amended version, so please check frequently to see if there are any updates or changes. Your continued access to or use of this Site and/or the Services constitutes your acknowledgment and acceptance of such changes to this Privacy Policy.
+We may update this Privacy Notice at any time by posting the amended version on this Site including the effective date of the amended version, so please check frequently to see if there are any updates or changes. Your continued access to or use of this Site and/or the Services constitutes your acknowledgment and acceptance of such changes to this Privacy Notice.
 
 **17\. LANGUAGES**
 ------------------
 
-This Privacy Policy may be posted in different languages. If there are any discrepancies, the English version shall prevail.
+This Privacy Notice may be posted in different languages. If there are any discrepancies, the English version shall prevail.
 
 **18\. ADDITIONAL INFORMATION FOR PERSONS SUBJECT TO THE EU GDPR**
 ------------------------------------------------------------------
