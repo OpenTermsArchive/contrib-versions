@@ -1118,6 +1118,233 @@ Revision
 * March 30, 2020 pixiv Co., Ltd. The entire agreement has been revised as an individual agreement tied to the service common use agreement.
 * April 28, 2018
 
+FANBOX PRINT Terms of Use for Content Providers
+===============================================
+
+Article 1. Introduction
+-----------------------
+
+1. pixiv Inc. (hereafter referred to as “the Company”) offers a service called “FANBOX PRINT” (hereafter referred to as “the Service,” defined in the next article) that allows customers to purchase and print their favorite content on the multi-function printer and copy machines at Lawson, Family Mart, and Ministop in Japan (excluding some stores). This is a one-of-a-kind service that was made possible thanks to the cooperation between Content Providers (defined in the next article) and the Company.
+2. Any person who wishes to become a Content Provider shall fully understand the FANBOX PRINT Terms of Use for Content Providers (hereafter referred to as “Individual Terms of Use”) before registering as a Content Provider.
+3. These Individual Terms of Use define the relationship between the Company and Content Providers. If a person applies to become a Content Provider, it will be assumed that they have consented to all of these Individual Terms of Use.
+4. In the case that a definition is not specified in these Individual Terms of Use, the pixiv Service Master Terms of Use (hereafter referred to as the "Service Master Terms of Use") and other provisions including guidelines and the like (“Other Provisions”) established by the Company for this Service shall apply.
+
+Article 2. Definitions
+----------------------
+
+The terms used in these Individual Terms of Use shall have the meanings set forth in the following items. Unless otherwise provided, terms used in these Individual Terms of Use other than those defined below shall have the meanings specified in the pixiv Master Terms of Use.
+
+1. “This Service” refers to “FANBOX PRINT,” a service provided by the Company in partnership with Sharp Marketing Japan Corporation which allows customers to buy Print Products (defined in the next section) from multi-function printer and copy machines at convenience stores.
+2. “Print Products” refers to the products that the Company sells using this Service through multi-function printer and copy machines at convenience stores.
+3. "Content" refers to any data related to the image, including the image data registered with the service in the form of text, images, symbols, etc. provided by Content Providers, as well as metadata such as Content Provider names, and work titles. This also includes content printed using this Service, content that constitutes Print Products, and product information pages.
+4. "Content Provider" is a person whose application to use the service has been approved by the Company’s Content Provider Review process.
+
+Article 3. Content Provider Registration
+----------------------------------------
+
+1. Persons intending to register as a Content Provider must first agree to the Service Master Terms of Use and pixivFANBOX’s Individual Terms of Use provided by the Company. After that, they can apply for account registration by the method designated by the Company, or log in to their existing account and register as a pixivFANBOX creator.
+2. Minors need the consent of a parent or a legal guardian to register an account, use the Service, and register as a Content Provider. Users of the Company’s services, including this and other services, (hereafter referred to as "Users") will be considered as having already obtained the consent stipulated in this section. If the Company deems it necessary, the Content Provider will have to provide information (including the contact information of the legal guardian) to confirm whether or not the legal guardian has consented to the use of this service.
+
+Article 4. Content Provider Application and Review
+--------------------------------------------------
+
+1. Only persons who have a certain track record as a creator for the services provided by the Company or on other social media can register as a Content Provider for this Service.
+2. Persons who intend to register as a Content Provider must apply using the method designated by the Company.
+3. Persons who intend to register as a Content Provider must provide the Company with true, accurate, and up-to-date information about themselves when applying to register as a Content Provider. If they are a corporation, they are required to register the information of the corporation representative. For any queries, please contact the Company through the [FANBOX PRINT inquiry form](https://www.pixiv.net/support?mode=select_type&service=fanbox-print).
+4. The Company may reject applications lacking all the necessary documents to register as a Content Provider.
+5. Applications will be reviewed based on the Company’s standards and the Company will decide whether or not to accept the application. Please note that review criteria will not be disclosed.
+6. Content Providers shall not object to the review results.
+7. The Company will provide a management page to successfully registered Content Providers (hereafter referred to as the "Management Page") that will allow Content Providers to register and manage their content.
+
+Article 5. Changes in Registered Information
+--------------------------------------------
+
+1. If there is a change in the information that must be reported to the Company (hereafter referred to as an "Update in Registered Information"), the Content Provider must immediately notify the changes using the procedures and methods designated by the Company.
+2. Content Providers are responsible for managing and revising the information registered with the Company to make sure it is always accurate. The Company will deem that there have been no changes in the circumstance that there is no Update in Registered Information from the Content Provider, regardless of whether there is a change. Even if a change is reported, transactions and other procedures performed before the information is updated may still contain the old information.
+3. All communication regarding this Service is made based on the information registered with the Company. The Company shall not be responsible for any inconvenience caused to the Content Provider due to delays in reporting any Update in Registered Information mentioned in point 1 of this Article.
+
+Article 6. Content
+------------------
+
+### Content Registration and Review
+
+1. The Company will conduct a content review according to the procedures designated by the Company for each content that is registered by Content Providers to the Service (hereafter referred to as "Content Review").
+2. The Company will review the content submitted by Content Providers according to the [FANBOX PRINT Content Guidelines](https://fanbox-print.pixiv.help/hc/en-us/articles/35511843026841), and will notify the Content Providers of the results of the Content Review.
+3. The Content Review will be completed within 4 business days (for details on business days, click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35237331491481)) from the date of registration. The Content Provider must be aware that the start date and the time required for the Content Review are only estimates, and that there may be delays.
+4. If the Company deems the Content is appropriate after the Content Review, the content will be registered on the Service.
+5. Content Providers shall not object to the Content Review results.
+6. When the Content is registered on the Service via the process described in Section 4, it will be deemed that the Content Provider has granted the Company a sublicense and non-exclusive right to use the Content. The Company shall pay the Content Provider royalties for their Content in accordance with Article 8 of these Individual Terms of Use (“Article 8. Royalties and Payment”). In addition, the Content Provider needs to inform the Company before providing the same Content to a third party with a service that competes with this Service (this includes those who are planning to or may in the future provide a competing service).
+
+### Prohibited Content
+
+1. Content Providers shall agree that the content listed below (hereafter collectively referred to as "Prohibited Content") will not be registered even if an application is made according to the process outlined in “Content Registration and Review” above. n
+    1. Content prohibited by the [FANBOX PRINT Content Guidelines](https://fanbox-print.pixiv.help/hc/en-us/articles/35511843026841)
+    2. Content prohibited in Article 14 of the Service Master Terms of Use
+    3. Other Content prohibited by various regulations
+    4. Other Content that the Company may deem inappropriate
+2. If the Company determines that the Content and Print Products are inappropriate or violate the Individual Terms of Use, the Company may delete the Content or suspend sales of the Print Products.
+3. If a transaction has already been made with a purchaser for a Print Product that falls under one of the categories listed above, the Company may cancel the transaction at its discretion. The Company shall not be held responsible for any damage caused to the Content Provider as a result of measures taken according to this Article, unless the damage is caused by the Company's negligence.
+
+### Sales Suspension of Print Products
+
+1. As a general rule, the Company will not suspend sales of Print Products until the end of the sales period specified in Article 7, Section 2.
+2. Content Providers shall agree that if any of the following hold true, the Company may completely or partially suspend or terminate the sale of the Print Products without obtaining the prior consent of the Content Provider, regardless of what is stipulated in paragraph 1, above.
+    1. If the author, copyright holder, publisher, or any other rightful claimant of a Print Product wishes to terminate sales.
+    2. If the Company determines that it has become difficult to sell the Print Products due to problematic circumstances.
+    3. If, after the sale of the Print Products, it is found that it violates the prohibitions of the Individual Terms, applicable guidelines, or Terms of Use.
+    4. If the Company has any other reason to believe that it is necessary to suspend or terminate the sale of the Print Products.
+3. If the Content Provider wishes the Company to suspend the sale of the Print Products due to unavoidable circumstances, the Content Provider shall apply to the Company for the suspension of sales using the method designated by the Company on this website. The steps for the procedure are as follows:
+
+* Please click [here](https://www.pixiv.net/support?mode=select\_type\&service=fanbox-print) and fill in the pixiv User ID (number) and e-mail address. Enter "Application for suspension of sales of FANBOX PRINT Products" in the "Subject" and the following information in "Details".
+
+* The Print Number or the URL with which the Company can identify the Content to be suspended.
+* Reason for suspension of sales
+
+5. Once the Company receives an application to suspend sales of Print Products as described in the above section, the Company will assess the information and discontinue sales of the Print Products within a reasonable period of time. However, the Content Provider shall agree that depending on the application, sales may not be suspended.
+
+### Copyright and Content Usage
+
+1. Content Providers shall agree that the Company may use the Content for advertising and promotional purposes for the services the Company provides without first obtaining consent from the Content Provider.
+2. The Company may modify the Content at its own discretion when updating the Service with the intent of optimizing how the Content looks and works on the Service.
+3. Copyright and all other rights related to the Content belong to the Content Provider who creates and registers the Content. The Company may use and modify the Content information registered by Content Provider to the extent necessary for the smooth operation of the Service, the development, improvement, and maintenance of the Company's system, and other advertising and promotional activities for the Service. The Company may omit a part of the information or the Content Provider’s name when the Content and Print Products are used in format designated by the Company.
+
+### Content Liability
+
+1. The Content Provider shall bear all responsibility for the Content they have registered. The Content Provider must guarantee to the Company that the Content does not infringe on the rights of any third party (including copyright and all other rights).
+2. If the Content Provider violates the aforementioned section and if this causes damage to the Company, the Content Provider shall be responsible for compensating for the damage caused to the Company.
+3. The Company shall not be held responsible for any damage caused to the Content Provider due to the sale of Print Products, unless the damage is clearly caused by willful misconduct or negligence by the Company.
+
+Article 7. Sale of Print Products
+---------------------------------
+
+1. Content Providers can set a date after the scheduled completion date of the Content Review to begin the sale of the Print Products (hereafter referred to as the "Sales Start Date") on the Management Page.  
+    By setting the Sales Start Date, the Company shall assume that the Content Provider has given their approval to the Company to sell the approved Content (hereafter referred to as "Sales Approval"). Please note that once the Sales Start Date has been set, it cannot be changed.
+2. As a general rule, once the Sales Start Date has been set for a Print Product, it will be available for purchase by customers for 30 days from the Sales Start Date defined in the preceding section. However, this does not apply if a separate agreement is made with the Company.  
+    Due to Content Review delays, the actual Sales Start Date may be later than the date specified in the previous section. Even if it is delayed, the sales period will be approximately 30 days counting from the Sales Start Date specified in the previous paragraph. The Company shall not be liable for any damages arising from delays in Content Review or the Sales Start Date unless the damage is clearly caused by willful misconduct or negligence by the Company.
+3. Content Providers can give Sales Approval to the Company for up to 5 Print Products at a time. Information about the types and prices of available Print Products is available [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35240014705177). Print Products with different sizes between L and 2L will be counted as 1. Print Products with different types of paper such as A4 plain paper and A4 glossy paper will also be counted as 1.
+4. If a Content Provider wishes to list a Print Product for which the sales period has ended for sale again (hereafter referred to as "Restock"), it is possible to set a new Sales Start Date and give the Company the corresponding Sales Approval using the [designated method](https://fanbox-print.pixiv.help/hc/en-us/articles/35238144896793) from the registration screen for the relevant Content. Print Products that have already passed the Content Review can be Restocked without going through Content Review again, and can be Restocked without limit.
+5. The Company may choose to terminate the sale of Print Products without prior notice in the following cases. Unless otherwise stipulated in the Service Master Terms of Use or these Individual Terms of Use, the Company shall not be responsible for compensating Content Providers for damages caused by the termination of sales of Print Products based on this section.
+    1. When the author, copyright holder, publisher, or other rights holder of a Print Product wishes to terminate sales.
+    2. If it is found that there are any violations of the Terms and Conditions (not limited to the Service Master Terms of Use and Individual Terms) or guidelines agreed upon between the Content Provider and the Company, such as the FANBOX PRINT Content Guidelines.
+    3. If the Company deems it difficult to keep selling said Print Products.
+
+Article 8. Royalties and Payments
+---------------------------------
+
+### Royalties
+
+1. The Company will compensate Content Providers for the Print Products sold with a monetary amount (hereafter referred to as "Royalties") calculated using the Company's [designated method](https://fanbox-print.pixiv.help/hc/en-us/articles/35212037208729) depending on the number of Print Products sold by the Company through this service.
+2. "Sold by the Company" means Print Products sold through orders placed on this Service, and printed by pressing the purchase button on the multi-function printer and copy machine installed at a convenience store. Note that a purchase is counted only when the user actually presses the purchase button on the machine.
+3. Royalties will be the sum of each purchase from 0:00 on the first day of the month to 11:59 pm on the last day of the month. Content Providers can check the relevant Royalties and Payment Amount (as defined in Section 1 of the following Item) on the Management Page after the 4th business day of the following month.
+
+### Payments
+
+1. The Company shall deposit the amount (hereafter referred to as “Payment Amount”) after deducting withholding tax (applicable to all individual recipients, whether within or outside Japan, or when the recipient is a corporate entity outside Japan) and a transfer fee determined by the Company from the current month's Royalties to the account specified in advance by the Content Provider within 5 business days from the 20th of the second following month. For more information on transfer fees and tax deductions, please click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35215404431513). If the payment date falls on a holiday for the Company or the financial institution, payment will be made within 5 business days from the next business day.
+2. If the Payment Amount is very large, the Company may transfer all or part of the Payment Amount in the following month.
+3. If the Payment Amount is less than 5000 JPY (hereafter referred to as the "Minimum Payment Amount"), the transfer will be carried over to the next month or later, and the same shall apply thereafter. Regardless of the Payment Amount, the Company shall settle the payment for the current fiscal year by transferring the amount held on the last day of June of each year within 5 business days from the said date. Click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35214613493913) for more details.
+4. If the transfer account information is incorrect, any service fees charged as a result of additional transfer attempts will be the responsibility of the Content Provider.
+5. If an extra amount is paid to the Content Provider due to a malfunction in the Company system or for any other reason, the Content Provider is obligated to immediately return the extra amount to the Company regardless of the reason.
+6. If the Content Provider is an individual in Japan and receives a total Payment of 50,000 JPY or more from the Company in 1 year, the Content Provider shall provide the Company with their My Number information using the Company's designated method by the end of December of each year. However, this does not apply in the case the Company already has the Content Provider's My Number information or if the Content Provider refuses to share their My Number with the Company.
+
+### Inaccuracies or Mistakes in Transfer Account Information
+
+1. If the Payment Amount cannot be transferred due to incomplete or incorrect registered transfer account information (hereafter referred to as "Transfer Account Information") set by the Content Provider, the Payment Amount will be transferred the following month. The same will be carried forward thereafter.
+2. If a payment is not successful due to an error in the Transfer Account Information, the Content Provider will not be allowed to register new Content or Restock Print Products.
+3. If a payment cannot be made due to incorrect Transfer Account Information even after 6 months have passed from the date of the payment, the Company shall assume that the Content Provider has exempted the Company from any obligation to transfer the Payment Amount.
+4. If the Company makes a payment to a third party due to incomplete or incorrect Transfer Account Information, the Company may treat that payment as a payment to the Content Provider and shall be exempted from any claims made by the Content Provider.
+
+### Waiving Payments
+
+The Company may deem that the Content Provider has waived the right to receive their Payment Amount if any of the following points are applicable.
+
+1. If there is any conduct that violates the Individual Terms of Use or Service Master Terms of Use.
+2. If the Content Provider wishes to waive the amount.
+3. If the Company is unable to contact the Content Provider through the Content Provider's registered information for more than 6 months.
+
+Article 9. Content Provider Responsibilities
+--------------------------------------------
+
+### Prohibited Conduct
+
+1. Content Providers must not do anything that violates the Service Master Terms of Use, Individual Terms of Use, Other Terms, and given guidelines.
+2. If a Content Provider violates the Service Master Terms of Use, Individual Terms of Use, Other Terms, or Guidelines, the company may cancel their registration as a Content Provider, suspend their account, or take other actions deemed necessary by the Company. However, the Company is not obligated to take these measures, nor is it obligated to disclose the reasons for taking these measures.
+3. In addition, if a Content Provider causes damage to the Company through fraudulent or illegal acts, the Company may claim compensation for damages from the Content Provider.
+4. If a Content Provider causes damage to another Content Provider or a third party, the Content Provider shall be responsible for resolving the matter at their own expense and shall not cause any damage to the Company.
+
+### Prohibited Transfer of Rights and Obligations
+
+During the sales period of Print Products, the Content Provider shall not transfer the rights and obligations associated with this agreement to a third party, offer it as collateral, or dispose of it without the prior written consent of the Company.
+
+Article 10. Disclaimers and Company Responsibilities
+----------------------------------------------------
+
+### Handling of Personal Information
+
+The Company will appropriately handle personal information obtained from Content Providers according to the [Company's Privacy Policy](https://policies.pixiv.net/ja/privacy_policy.html).
+
+### Disclaimers
+
+1. The Company shall not be liable for any suspension, termination, or change in the Service provided by the Company, cancelation of the Content Provider's account, deletion or disappearance of the Content, or any other damage sustained by the Content Provider in connection with the Service, except for if the damage is caused by willful misconduct or negligence by the Company.
+2. Extent of the Company’s Responsibility  
+    Even if the Company is liable for damages to the Content Provider, the Company's liability is limited to actual, direct, and ordinary damages caused to the Content Provider due to an event of default or illegal offense by the Company. This excludes cases caused by willful misconduct or negligence by the Company.
+
+Article 11. Notifications and Communications
+--------------------------------------------
+
+1. If the Company needs to notify or contact a Content Provider, the Company will do so by post, e-mail, or via messages on this Service or related services. In the case that the Company notifies or contacts the Content Provider by posting a message on this Service or related services, it will be valid from the time the message is posted. In case any other mode of communication is used, it will be valid from the time the message is sent.
+2. If the Content Provider needs to contact the Company, they shall do so using e-mail or the inquiry form for the Service.
+3. The Company will not accept any contact via telephone or in person, unless it is deemed necessary.
+4. The Company shall not disclose e-mail communication history to any third party except in the cases mentioned in the following section.
+5. If a judge issues a compulsory search and seizure warrant, if an inquiry is made by a public institution with legal authority (Article 197, Section 2 of the Code of Criminal Procedure), or if the Company is forced to provide information based on other laws and regulations, the Company may disclose the information requested without first obtaining the Content Provider's consent.
+
+Article 12. Problem-Handling
+----------------------------
+
+1. Except for what is mentioned in the Individual Terms of Use, the Company assumes no responsibility or obligation to respond to any trouble that occurs between Content Providers and third parties in connection with the Service.  
+    However, if the Company deems it necessary for the operation of the Service, the Company may act as a bridge to convey complaints to the Content Provider or a third party. In this case, the Content Provider shall respond in good faith as requested by the Company. However, the Company is not obligated to act as a bridge between the two parties.
+2. If the Company receives a claim of infringement of copyright or other rights from a third party (including Content Providers in this section) regarding the Content or Print Products, the Company reserves the right to contact the Content Provider who registered Content or Print Products, and suspend the sale of the Print Products at the Company discretion.
+
+Article 13. Suspension or Cancellation of the Service
+-----------------------------------------------------
+
+The Company may change all or part of the Service, or discontinue or permanently cancel the Service at any time without notifying the Content Provider.
+
+Article 14. Account Cancelation
+-------------------------------
+
+### Cancelation of Content Provider Registration
+
+1. If a Content Provider wishes to cancel their registration, they may do so by submitting an application according to the method designated by the Company. For information on how to cancel the registration, please click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35143349338905).
+2. However, regardless of the previous section, it is not possible to cancel a Content Provider's FANBOX account, newly created accounts, or other accounts that have been previously registered with the Company (hereafter collectively referred to as "Accounts") as stipulated in Article 3, Section 1 in the following cases.
+    1. If the sales period for Print Products specified in Article 7, Section 2 has not ended: If the Content Provider wishes to cancel their account during the sales period of their Print Product due to unavoidable circumstances, the Content Provider shall apply for cancelation using the method designated by the Company based on the preceding section.
+    2. If there is a pending Payment: If there are any pending Payments, the Content Provider shall apply to receive the Payment Amount using the method designated by the Company (refer to [here](https://fanbox-print.pixiv.help/hc/en-us/articles/35143349338905)). The Company shall transfer the Payment Amount to the account specified by the Content Provider within 5 business days from the 20th day of the second month following the month in which the Content Provider applied for registration cancelation.
+3. Even after the Content Provider applies for cancelation, the Company may suspend the registration cancelation procedure for a reasonable period of time necessary for the smooth operation of this Service.
+4. When the Company receives an application to cancel registration by a Content Provider, the Company will examine the content and cancel the Content Provider's registration within a reasonable period of time. However, depending on the application, the Content Provider's registration may not be canceled.
+5. If the Content Provider has balance money (including pending Payment Amount) in their account when the Company approves the application to cancel an account registration, the Company will deem that the Content Provider has abandoned all the money, and the amount will be discarded before canceling the account registration unless there are special circumstances that make it clear that the Content Provider did not intend to abandon the money.
+
+### Cancelation of Content Provider Registration/Compulsory Withdrawal
+
+1. In the case where a Content Provider (in the case of a business, its representative, officer, person with substantial management rights, employee, agent, or intermediary) falls under any of the following, the Company may, at its discretion, cancel the registration, delete the Content or the account, and take other measures that the Company deems necessary without notifying the Content Provider in advance.
+    1. If the Content Provider makes an application that doesn't follow the method prescribed by the Company.
+    2. If all or part of the information in the application provided to the Company is false or is suspected to be false.
+    3. If the Content Provider has been forced to withdraw or has received multiple violation warnings in the past due to violation of the Service Master Terms of Use, pixivFANBOX Individual Terms of Use, these Individual Terms of Use, other Terms of Use, or Terms of Use of other services operated by the Company.
+    4. If the Content Provider is found to be associated with organized crime groups, organized crime group members, associate members of organized crime groups, companies affiliated with organized crime groups, groups engaging in criminal activities under the pretext of conducting social campaigns or political campaigns, crime groups specialized in intellectual crimes, or to have close relationships with these groups (including through the provision of funds and other benefits) (hereafter referred to as "Anti-Social Forces").
+    5. If the Content Provider tries to damage the credibility of the Company by spreading rumors, using deceit, force, or other illegal means.
+    6. If the Content Provider has not used this Service for a certain period of time, or if the Company determines that the Content Provider will no longer be using the service.
+    7. In addition to what is stipulated in subsections ‘a’ to ‘f’, if the Company loses trust in the Content Provider, if the Company reasonably determines that providing this Service to the Content Provider is inappropriate; additionally, if there is anything else the Company deems suitably inappropriate to merit such measures.
+2. If the Company cancels the Content Provider's registration, the Company may delete all of their Content.
+
+Article 15. Compensation
+------------------------
+
+1. If the Company is liable to pay the Content Provider because of this Service, the Company shall be obliged to pay a compensation of up to 10,000 JPY or the sales amount for the Print Products, whichever is lower.
+2. Content Providers shall be held responsible for compensating for the damages caused to the Company due to the Content registered by them. However, this does not apply if the Content Provider was not aware of the nature or error despite not being negligent, or if the Company was aware of this.
+
+Supplementary Provisions
+------------------------
+
+These Individual Terms of Use shall take effect on September 4th, 2024.
+
 “pixiv COMIC” Terms of Use
 ==========================
 
