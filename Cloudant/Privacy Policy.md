@@ -63,9 +63,7 @@ We use this information to provide you with access to our webpages, improve the 
 
 We also provide platforms and forums that enable online sharing, support, and collaboration among registered members. Any information that you submit to these platforms may be made available to others on the internet, or removed by us, as covered in the platform privacy notice or terms. We are not responsible for any content that you make available through your use of our products or services.
 
-IBM makes artificial intelligence models and systems available, including large language models (often called LLMs). IBM may use such AI models and systems on or embedded in IBM.com properties, including through chatbots. IBM may also make such AI models and systems available under separate terms. 
-
-We prepare reports on the use of our websites to derive insights into trending topics and general market knowledge. These reports may be provided to third parties with details on how users interacted with or showed interest in the third-party products or services that were presented on our websites.
+We prepare reports on the use of our websites to derive insights into trending topics and general market knowledge. These reports may be provided to third parties with details on how users interacted with or showed interest in the third-party products or services that were presented on our websites.  
 
 We accept no responsibility for the content provided on, or privacy practices, of third-party websites or applications.
 
@@ -274,6 +272,8 @@ Information Security and Retention
 
 To protect your personal information from unauthorized access, use, and disclosure, we implement reasonable physical, administrative, and technical safeguards. These safeguards include role-based access controls and encryption to keep personal information private while in transit. We also require our Business Partners, suppliers, and third parties to implement appropriate safeguards, such as contract terms and access restrictions, to protect information from unauthorized access, use, and disclosure. 
 
+IBM makes artificial intelligence models and systems available, including large language models (often called LLMs). IBM may use such AI models and systems on or embedded in IBM.com properties, including through chatbots. IBM may also make such AI models and systems available under separate terms. 
+
 IBM’s AI models and systems are designed, trained, validated, and tested on data from publicly available sources that may incidentally contain Personal Information. We have implemented safeguards, processes, and tools to mitigate associated impacts and help address responsible development and deployment of trustworthy AI.
 
 We only retain personal information as long as necessary to fulfill the purposes for which it is processed, or to comply with legal and regulatory retention requirements. Legal and regulatory retention requirements may include retaining information for:
@@ -331,7 +331,7 @@ We rely on this legal basis when we need to process certain personal information
 Examples:
 
 * If you intend to purchase a product or service, we require your business contact information to enter into a contract with you or you may need to create an IBMid (see [Your Account](#Your_Account "Your Account")_)_ to access a purchased product online_._
-* When fulfilling a contact, you may need to receive [support services](#Support_Services), for which we will need to collect your contact information.
+* When fulfilling a contract, you may need to receive [support services](#Support_Services), for which we will need to collect your contact information.
 * We need personal information to consider job applicants or manage the pension entitlements of retirees (see [Recruitment and Former Employees](#Recruitment_and_Former_Employees)).
 
 Legitimate interests relate to being able to conduct and organize business, which includes the marketing of our offerings, protecting our legal interests, securing our IT environment, or meeting client requirements.  
@@ -366,6 +366,7 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 **Sections updated in this release:**
 
-1. Your Additional Rights: Saudi Arabia
+1. IBM Websites
+2. Information Security and Retention
 
 * * *
