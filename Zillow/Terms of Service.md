@@ -1,7 +1,7 @@
 Terms of Use
 ============
 
-#### **Updated September 29, 2023**
+#### **Updated August 29, 2024**
 
 Welcome and thank you for your interest in Zillow and the Zillow family of businesses (Zillow, Inc. and its affiliated brands listed in Section 2, collectively, the “Zillow Companies,” “us,” “our,” or “we” ). By clicking a registration or new account submission button, or by otherwise using our websites, networks, mobile applications, or other services provided by the Zillow Companies (collectively, the “Services”), or accessing any content provided by us through the Services, you agree to be bound by the following terms of use, as updated from time to time (the “Terms of Use”).
 
