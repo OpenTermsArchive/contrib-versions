@@ -198,6 +198,8 @@ Privacy Policy
 
 [Vendor Information Security Schedule](https://miro.com/legal/vendor-information-security-schedule)
 
+[Miro Supplier Code of Conduct](https://miro.com/legal/supplier-code-of-conduct)
+
 [Cookie List](https://miro.com/legal/cookie-list)
 
 ##### Table of contents
