@@ -170,7 +170,6 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* 
 * [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
@@ -335,9 +334,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -572,9 +571,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -938,7 +937,6 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* 
 * [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
@@ -1103,9 +1101,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -1340,9 +1338,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -1680,7 +1678,6 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* 
 * [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
@@ -1845,9 +1842,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -2082,9 +2079,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -2371,7 +2368,6 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* 
 * [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
@@ -2536,9 +2532,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -2767,7 +2763,6 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* 
 * [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
@@ -2932,9 +2927,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -3163,7 +3158,6 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* 
 * [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
@@ -3328,9 +3322,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -3559,7 +3553,6 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* 
 * [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
@@ -3724,9 +3717,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -3955,7 +3948,6 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* 
 * [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
@@ -4120,9 +4112,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -4351,7 +4343,6 @@ Recherche
             * [Observatoire national des violences en santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/observatoire-national-des-violences-en-sante/)
             * [Télé-déclarer le chiffre d’affaires de sa pharmacie](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/tele-declarer-le-chiffre-d-affaires-de-sa-pharmacie/)
     
-* 
 * [DREES - Etudes et statistiques](https://drees.solidarites-sante.gouv.fr/)
 
 * [Prévention en santé](https://sante.gouv.fr/prevention-en-sante/)
@@ -4516,9 +4507,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -4765,9 +4756,9 @@ Retour
 * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
 * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
 
-* [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-* [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-* [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+* [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+* [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+* [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
 
 * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
 * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
@@ -4977,9 +4968,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -5210,9 +5201,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -5443,9 +5434,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -5676,9 +5667,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -5909,9 +5900,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -6142,9 +6133,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -6375,9 +6366,9 @@ Recherche
             
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
-            * [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-            * [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-            * [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+            * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+            * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+            * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
@@ -6557,9 +6548,9 @@ Retour
 * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
 * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
 
-* [Élimination des déchets d’activités de soins à risque infectieux](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/reglementation-de-securite-sanitaire-dans-les-etablissements-de-sante/article/elimination-des-dechets-d-activites-de-soins-a-risque-infectieux)
-* [Les pratiques de soins non conventionnelles](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/article/les-pratiques-de-soins-non-conventionnelles)
-* [Biologie médicale](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/biologie-medicale/)
+* [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
+* [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
+* [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
 
 * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
 * [La chirurgie ambulatoire](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/la-chirurgie-ambulatoire)
