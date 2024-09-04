@@ -101,7 +101,7 @@ Do not store or distribute private nude, sexually explicit or intimate images or
 
 Personal and confidential information
 
-Do not store or distribute other people’s personal or confidential information without authorisation. ​This includes the use of sensitive information, such as National Insurance numbers, bank account numbers, credit card numbers, images of signatures and personal health documents. In most cases where this information is broadly available elsewhere on the Internet or in public records, such s national ID numbers listed on a government website, we generally don’t process enforcement actions.
+Do not distribute personal or confidential information without authorisation. Do not collect personal or confidential information. Do not collect personal or confidential information. Examples of personal and confidential information include US Social Security numbers, bank account numbers, credit card numbers, images of signatures and personal health documents. In most cases where this information is broadly available elsewhere on the Internet or in public records, like national ID numbers listed on a government website, we generally don't process enforcement actions. We may place additional restrictions on information relating to minors.
 
 Phishing
 
