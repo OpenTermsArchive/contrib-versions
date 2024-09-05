@@ -200,6 +200,8 @@ Privacy Policy
 
 [Miro Supplier Code of Conduct](https://miro.com/legal/supplier-code-of-conduct)
 
+[Solutions Partner Program Agreement](https://miro.com/legal/solutions-partner-program-agreement)
+
 [Cookie List](https://miro.com/legal/cookie-list)
 
 ##### Table of contents
