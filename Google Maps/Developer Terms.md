@@ -533,6 +533,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         125. City of Toronto: [https://open.toronto.ca/open-data-license/](https://open.toronto.ca/open-data-license/)
             
+        126. City of Vancouver, BC: [https://opendata.vancouver.ca/pages/licence/](https://open.toronto.ca/open-data-license/)
+            
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
             
@@ -624,11 +626,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Google utilise les dernières versions des jeux de données communiquées par les producteurs ci-dessous ; ces données sont disponibles sur [transport.data.gouv.fr](https://transport.data.gouv.fr/) sous la licence « Open Database Licence » (ODbL) et sous les conditions d'utilisation précisant que la clause de partage à l’identique figurant à l’article 4.4 concerne les informations de même nature, de même granularité, de même conditions temporelles et de même emprise géographique :
             
-            * SNCF ; les modifications et améliorations aux données sont disponibles [ici](https://opendata.itoworld.com/france_sncf/france_sncf_gtfs.zip)
+            * SNCF ; les modifications et améliorations aux données sont disponibles [ici](https://gtech-transit-prod.apigee.net/v1/google/gtfs/odbl/SNCF_public.zip?apikey=BasyG6OFZXgXnzWdQLTwJFGcGmeOs204&secret=gNo6F5PhQpsGRBCK)
             * Nantes Métropole
-            * Nîmes Métropole
-            * Grand Guéret Agglo
-            * Tout'enbus Aubenas
             * Métropole de Montpellier
         * [Data.gouv.fr](https://www.data.gouv.fr/fr/) : [Sites de prélèvements pour les tests COVID](https://www.data.gouv.fr/fr/datasets/sites-de-prelevements-pour-les-tests-covid/); [Lieux de vaccination contre la Covid-19](https://www.data.gouv.fr/fr/datasets/lieux-de-vaccination-contre-la-covid-19/)
         * SNCF : les Informations sont fournies par l’intermédiaire de l’API SNCF ; la réutilisation de ces données est réalisée de manière indépendante de SNCF
@@ -902,6 +901,26 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             * Réseau urbain Le Passe Pont. ([https://transport.data.gouv.fr/datasets/reseau-urbain-le-passe-pont-communes-de-couffouleux-et-de-rabastens](https://transport.data.gouv.fr/datasets/reseau-urbain-le-passe-pont-communes-de-couffouleux-et-de-rabastens))
                 
             * Réseau urbain La Navette (Graulhet). ([https://transport.data.gouv.fr/datasets/reseau-urbain-la-navette-commune-de-graulhet](https://transport.data.gouv.fr/datasets/reseau-urbain-la-navette-commune-de-graulhet))
+                
+            * Navette estivale réseau Vaï ([https://transport.data.gouv.fr/datasets/navette-chorges-chanteloube-ete-2024-reseau-vai](https://transport.data.gouv.fr/datasets/navette-chorges-chanteloube-ete-2024-reseau-vai))
+                
+            * Réseau urbain Ametis ([https://transport.data.gouv.fr/datasets/ametis](https://transport.data.gouv.fr/datasets/ametis))
+                
+            * Réseau urbain Horizon ([https://transport.data.gouv.fr/datasets/reseau-de-bus-urbain-horizon](https://transport.data.gouv.fr/datasets/reseau-de-bus-urbain-horizon))
+                
+            * Réseau urbain TUD ([https://transport.data.gouv.fr/datasets/reseau-de-transport-urbains-dignois](https://transport.data.gouv.fr/datasets/reseau-de-transport-urbains-dignois))
+                
+            * Réseau urbain Elios ([https://transport.data.gouv.fr/datasets/elios-transports-urbains-du-grand-villeneuvois](https://transport.data.gouv.fr/datasets/elios-transports-urbains-du-grand-villeneuvois))
+                
+            * Réseau urbain Villéo Retzéo ([https://transport.data.gouv.fr/datasets/donnees-de-mobilite](https://transport.data.gouv.fr/datasets/donnees-de-mobilite))
+                
+            * Réseau européen Eurostar ([https://transport.data.gouv.fr/datasets/eurostar-gtfs](https://transport.data.gouv.fr/datasets/eurostar-gtfs))
+                
+            * Navettes stations Vaï Hiver 2024 ([https://transport.data.gouv.fr/datasets/navettes-stations-hiver-2024](https://transport.data.gouv.fr/datasets/navettes-stations-hiver-2024))
+                
+            * Navette de Montbrison et de Saint Just Saint Rambert ([https://transport.data.gouv.fr/datasets/navettes-de-loire-forez-agglomeration](https://transport.data.gouv.fr/datasets/navettes-de-loire-forez-agglomeration))
+                
+            * Réseau urbain Hoplà ([https://transport.data.gouv.fr/datasets/donnees-theoriques-du-reseau-hopla-communaute-de-communes-de-la-plaine-destrees](https://transport.data.gouv.fr/datasets/donnees-theoriques-du-reseau-hopla-communaute-de-communes-de-la-plaine-destrees))
                 
         * Muséum national d'Histoire Naturelle: [https://inpn.mnhn.fr/accueil/mentions-legales](https://inpn.mnhn.fr/accueil/mentions-legales)
             
@@ -1431,9 +1450,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和6年 6 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和6年 7 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和6年 6 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和6年 7 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         * ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
@@ -2469,7 +2488,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         231. Chesterfield County: [https://opengeospace.chesterfield.gov/](https://opengeospace.chesterfield.gov/)
             
-        232. Utah Geospatial Resource Center: [https://opendata.gis.utah.gov/datasets/utah-roads/about](https://opendata.gis.utah.gov/datasets/utah-roads/about)
+        232. Utah Geospatial Resource Center: [https://opendata.gis.utah.gov/datasets/utah::utah-address-points/about](https://opendata.gis.utah.gov/datasets/utah::utah-address-points/about)
             
         233. Loudoun GeoHub: [https://logis.loudoun.gov/metadata/Address.html](https://logis.loudoun.gov/metadata/Address.html)\-[https://geohub-loudoungis.opendata.arcgis.com/datasets/loudoun-address-points/explore](https://geohub-loudoungis.opendata.arcgis.com/datasets/loudoun-address-points/explore)
             
