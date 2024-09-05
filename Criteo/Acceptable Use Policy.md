@@ -5,7 +5,7 @@ Criteo Advertising Guidelines
 
 * * *
 
-Criteo and its affiliated platforms, including BidSwitch and BrandCrush, operate through the highest-quality network. For this reason, Criteo’s advertiser partners must at all times adhere to and comply with these guidelines.
+Criteo and its affiliated platforms, including BidSwitch, operate through the highest-quality network. For this reason, Criteo’s advertiser partners must at all times adhere to and comply with these guidelines.
 
 To ensure a trustworthy advertising ecosystem, Criteo requires all its advertising partners to uphold high ethical standards. Each of Criteo’s advertising partners is responsible for ensuring that their content, products, or services comply with applicable laws and regulations, including applicable data protection and privacy laws and regulations.
 
