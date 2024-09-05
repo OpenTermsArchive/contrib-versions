@@ -140,7 +140,7 @@ If you are an Alaska resident with questions regarding formal complaints, please
 5. “Us”. Without limiting Section 7.1, above, the following are the entities to which “us,” “we,” or “our” refer:
     1. To the extent you initiate a payment, other than a Meta-Processed Payment, through the Meta Products or we initiate a debit or charge to your payment instrument, these Payment Terms are between you and (a) Meta Platforms, Inc., if you are a resident of or have your principal place of business in the U.S. or Canada, or (b) Meta Platforms Ireland Limited if you are a resident of or have your principal place of business in a country other than the U.S. or Canada, as provided under the Terms presented at the time of payment.
         1. To view the Meta Platform, Inc.'s Privacy Policy, please visit: [https://www.facebook.com/about/privacy](https://www.facebook.com/about/privacy).
-        2. To view the Meta Platforms Ireland Limited Privacy Policy, please visit: [www.facebook.com/payments\_terms/EU\_privacy](https://www.facebook.com/www.facebook.com/payments_terms/EU_privacy)
+        2. To view the Meta Platforms Ireland Limited Privacy Policy, please visit: [www.facebook.com/payments\_terms/EU\_privacy](https://www.facebook.com/payments_terms/EU_privacy)
     2. To the extent you use Meta-Processed Payments and are a resident of or have your principal place of business in the U.S. or Canada, these Payments Terms are between you and Meta Payments Inc., a Florida corporation.
     
     1. To view Meta Payments Inc.'s Privacy Policy, please visit: [https://www.facebook.com/payments\_terms/privacy](https://www.facebook.com/payments_terms/privacy).
