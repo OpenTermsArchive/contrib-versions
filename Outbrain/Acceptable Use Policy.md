@@ -429,3 +429,83 @@ When running campaigns on the Outbrain network, please make sure to adhere to th
 If you **do not follow the advertiser guidelines** Outbrain will assign **red flag warnings** (communicated to you via email). Repeat or severe violations may result in your account, content and/or campaigns being **suspended or banned** from the Outbrain network at any time and at Outbrain's sole discretion.
 
 If you encounter any content that violates Outbrain's guidelines, or have any questions, don't hesitate to reach out to our friendly Support team. **We hope to see your content on our platform soon**.
+
+For Advertisers
+---------------
+
+* [Advertise with Outbrain](https://www.outbrain.com/advertisers/)
+* [Native Advertising](https://www.outbrain.com/native-advertising/)
+* [Contextual Advertising](https://www.outbrain.com/contextual-advertising/)
+* [Ads Specs](https://www.outbrain.com/help/ads-specs/)
+* [Demo Outbrain](https://www.outbrain.com/try-outbrain-demo/)
+* [How to Buy Outbrain](https://www.outbrain.com/advertisers/buying-options/)
+* [Outbrain Academy](https://lp.outbrain.com/outbrain-academy//advertisers/guidelines/)
+* [Advertiser Guidelines](https://www.outbrain.com/advertisers/guidelines/)
+* [Advertising FAQ](https://www.outbrain.com/help/advertisers/)
+* [Support](https://www.outbrain.com/contact?who=support)
+
+Insights
+--------
+
+* [Advertising Glossary](https://www.outbrain.com/glossary/)
+* [Vertical Insights](https://www.outbrain.com/brainpower/)
+* [Vertical Hub](https://www.outbrain.com/resources/vertical-hub/)
+
+Affiliates
+----------
+
+* [Affiliate Marketing](https://www.outbrain.com/blog/affiliate-marketing/)
+* [Affiliate Hub](https://www.outbrain.com/affiliate-marketing-strategy/)
+* [High-Conversion Content](https://www.outbrain.com/resources/guides/how-to-create-high-conversion-content-for-your-outbrain-campaigns/)
+* [Repurpose Social Campaigns](https://www.outbrain.com/resources/guides/how-to-repurpose-your-social-campaigns-for-native-ads/)
+
+About Outbrain
+--------------
+
+* [Company Overview](https://www.outbrain.com/about/company/)
+* [Cultural Manifesto](https://www.outbrain.com/about/cultural-manifesto/)
+* [Leadership](https://www.outbrain.com/about/team/)
+* [Join Us](https://www.outbrain.com/careers/)
+* [Trust & Transparency](https://www.outbrain.com/trust-and-transparency/)
+* [For Publishers](https://www.outbrain.com/publishers/)
+* [News](https://www.outbrain.com/news)
+* [Thought Leadership](https://www.outbrain.com/blog/category/insights-opinion/)
+* [Contact Us](https://www.outbrain.com/contact)
+
+Resources
+---------
+
+* [Outbrain Blog](https://www.outbrain.com/blog/)
+* [Resources Hub](https://www.outbrain.com/resources/)
+* [Events](https://www.outbrain.com/resources/events)
+* [Webinars](https://www.outbrain.com/resources/webinars)
+* [Case Studies](https://www.outbrain.com/case-studies/)
+* [Performance Marketing](https://www.outbrain.com/blog/performance-marketing/)
+* [Advertising Academy](https://lp.outbrain.com/outbrain-academy/)
+* [Publisher's Directory](https://www.outbrain.com/publishers-directory/)
+* [Help Center](https://www.outbrain.com/help/)
+
+[Register](https://my.outbrain.com/amplify/funnel/)[Login](https://my.outbrain.com/login)
+
+English (US)GermanFrenchSpanishPortugueseJapaneseItalianChinese
+
+* [](https://facebook.com/outbrain "Facebook")
+* [](https://twitter.com/outbrain "X")
+* [](https://www.linkedin.com/company/outbrain "Linkedin")
+* [](https://www.youtube.com/c/outbrain "Youtube")
+
+Ready to start?
+
+Try Outbrain for Advertisers today
+
+Your work email
+
+Copyright © 2024 Outbrain Inc. All rights reserved. Outbrain is a trademark of Outbrain Inc.
+
+* [Interest-Based Ads (Opt Out)](https://my.outbrain.com/recommendations-settings/home)
+* [Advertiser Guidelines](https://www.outbrain.com/advertisers/guidelines/)
+* [Privacy Policy](https://www.outbrain.com/privacy)
+* [Cookies](https://www.outbrain.com/privacy/cookies)
+* [Security](https://www.outbrain.com/security)
+* [Patents](https://www.outbrain.com/patents/)
+* [Terms of Use](https://www.outbrain.com/legal#terms-of-use)
