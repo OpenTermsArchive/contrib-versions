@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Last Modified: 2024-01-29
+Last Modified: 2024-09-06
 
 Tumblr is a U.S. company and subject to U.S. laws and jurisdiction. The original version of these Terms of Service (and any other terms, policies, or guidelines that we provide to you) are written in English. To the extent any translated version of these Terms of Service (or any other terms, policies, or guidelines that we provide to you) conflicts with the English version, the English version controls.
 
@@ -34,7 +34,7 @@ As Tumblr grows and improves, we might have to make changes to these Terms of Se
 
 **Eligibility:**
 
-You may not use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address) if you are under the Minimum Age. The Minimum Age is (i) thirteen (13), (ii) sixteen (16) for users in the European Union or the United Kingdom, or (iii) eighteen (18) for certain features like to give or receive tips **(“Tipping Feature”)**. You may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.
+You may not use the Services, provide any personal information to Tumblr, or otherwise submit personal information through the Services (including, for example, a name, address, telephone number, or email address) if you are under the Minimum Age. The Minimum Age is (i) thirteen (13), (ii) sixteen (16) for users in the European Union or the United Kingdom, or (iii) eighteen (18) for certain features. You may only use the Services if you can form a binding contract with Tumblr and are not legally prohibited from using the Services.
 
 You have to be the Minimum Age to use Tumblr. We're serious: it's a hard rule. “But I’m, like, almost old enough!” you plead. Nope, sorry. If you're not old enough, don't use Tumblr. Ask your parents for a Playstation 4, or try books.
 
@@ -171,55 +171,12 @@ When you register a domain, you’re required to provide complete and accurate r
 
 For more information about your domain registration, like associated fees, how to update your contact information, or what happens during the domain expiration process, please see the [Domains support doc](https://help.tumblr.com/hc/articles/14449316040087).
 
-13\. Special Provisions for Tipping
------------------------------------
-
-Our Services may allow users to monetize their content through features such as the Tipping Feature ([Tipping FAQs](https://help.tumblr.com/hc/articles/4417356885527)), which allows users to pay tips to other users to support blogs and related content.
-
-When using these features, users must not deceive others into sending moneyvia scam tactics, phishing, or other such methods.
-
-**Additional Terms for Tippers:**
-
-Users who pay tips via the Tipping Feature (“**Tippers**”) are paying the tip recipient (“**Tippee**”) as a way to show support for the User Content made available by the Tippee. As a Tipper, you acknowledge that tips are entirely voluntary and optional, that you may not receive anything in return, and that the tips you give could be sent to someone or used for a purpose that you may not expect. We will not resolve disputes that arise between users regarding the Tipping Feature. It is important to understand that giving tips does not grant you any additional rights, nor does it entitle you to any privileges with respect to any User Content or any Tippee. You must not give tips in exchange for — or to promote or encourage — content that is against our [User Guidelines](https://www.tumblr.com/policy/en/community), or that is otherwise illegal, abusive toward others, hateful, or that could result in self-harm.
-
-You assume all risks with the Tipping Feature, including that the User Content will not remain available or that the Tippee or User Content may not live up to your expectations. While we require the Tippee to be responsible, we are not responsible for their behavior. For this reason, you should only use the Tipping Feature with Tippees you trust. Views expressed by Tippees are their own and do not necessarily represent ours.
-
-Note that payment processing and platform fees will be assessed on tips in accordance with the fee breakdown available [here](https://tumblr.zendesk.com/hc/articles/4418113451671).
-
-**Creating and Maintaining a Tippee Account:**
-
-In order to be eligible to be a Tippee, you must at a minimum:
-
-* Be a resident and located in an [eligible country](https://tumblr.zendesk.com/hc/articles/4402757539607#eligible-creators);
-* Successfully create or link an approved payment and payout account (your "**Connected Account**"). In some instances, you may be required to establish a Connected Account with Stripe Inc. or other third-party payment services provider, in which case, you agree to (i) provide accurate information in connection with establishing your Connected Account, (ii) be bound by the [Stripe terms and conditions](https://stripe.com/connect-account/legal) (or the terms and conditions of other third-party payment service providers approved by Tumblr), and (iii) enter into an agreement directly with Stripe Inc. (or with such other third-party payment service provider approved by Tumblr);
-* As necessary for certain jurisdictions and/or types of transactions, you designate Tumblr as your agent for the sole purpose of accepting and processing payments on your behalf, and you agree that in such instances, a User’s obligation to make payment will be satisfied when and to the extent that Tumblr collects such User’s payment; and
-* Meet any additional Tippee eligibility requirements set by Tumblr, including being at least eighteen (18) years of age to send or receive funds via the Tipping Feature.
-
-You may deactivate your entire Tumblr account at any time.
-
-Tumblr will not be liable for any tips that you may or may not receive, including if Tumblr suspends your account or prevents you from soliciting or accepting tips.
-
-**Tippee Conduct Requirements:**
-
-* Don’t violate laws or the rights of others: As a reminder, you and User Content must meet all requirements under this Agreement and our User Guidelines. For instance, User Content may not violate any laws, including laws that protect the intellectual property rights of others. In addition, if you are receiving funds on behalf of someone else, you are responsible for complying with all applicable laws. We reserve the right to suspend, delete, or terminate your Account and/or your participation in the Tipping Feature at any time, including in cases where we believe you have violated this Agreement, our User Guidelines, or abused the Tipping Feature. You are responsible for all activity on your Account, even if someone else uses your Account.
-* Be honest: You must act in a fair and truthful manner in your dealings with Tumblr and Tippers. You may not use our Services to deceive others into sending you tips via scam tactics, phishing, or other such methods.
-* Address issues with Tippers: You are solely responsible for resolving any disputes with Tippers. You are responsible for all refunds owed to Tippers, including as a result of chargebacks initiated by Tippers or as initiated by Tumblr. You authorize any such refunded amounts to be paid out of any outstanding balance in or owed to your Merchant Account or to be offset against proceeds from your tips. Tumblr reserves the right to holdback payment amounts and/or initiate refunds to Tippers if it believes that refunds are appropriate.
-* Don’t forget taxes: You are responsible for all income reporting and tax withholding requirements related to your Connected Accounts. Tumblr may, but is not obligated to, deduct applicable tax from any payments made for your tips to the extent it is required by applicable laws.
-
-**Tippee Payouts:**
-
-Payouts for the Tipping Feature are calculated by totaling the amounts paid by your Tippers and subtracting Tumblr platform fees, payment processor fees, refunds/chargebacks, and related fees/withholdings. Payment processor fee rates and timing will depend on the payment option used by each Tipper, as applicable (i.e., Stripe, Apple, Google, etc.). More information on payout fees can be found [here](https://tumblr.zendesk.com/hc/articles/4418113451671).
-
-You are responsible for providing accurate information, including as may be needed to facilitate payment to you. Payouts are calculated solely based on records maintained by or on behalf of Tumblr (or the relevant payment processor). Tumblr reserves the right to modify the payout method at any time in its sole discretion. In addition, Tumblr reserves the right to withhold, offset, or charge back your Merchant Account due to refunds, fraud, abuse, a violation of this Agreement, or to mitigate the risk of such. You agree that we will not be liable for any amounts not earned due to the Services not being available, including Site maintenance or our suspension, deletion, or termination of your Account or access to the Tipping Feature.
-
-Payouts will be determined by Tumblr, in its sole discretion, and such determination is final and binding. If you dispute any payout made, you must notify Tumblr within thirty (30) days of any such payout by providing us a detailed description of your dispute to www.tumblr.com/support. You agree that failure to do so shall result in your waiver of any claim relating to such disputed payment. Tumblr in no way waives its absolute right to make a final determination of the payout you are owed.
-
-14\. Warranty Disclaimer; Services Available on an "AS IS" Basis
+13\. Warranty Disclaimer; Services Available on an "AS IS" Basis
 ----------------------------------------------------------------
 
 Your access to and use of the Services or any Content is at your own risk. YOU UNDERSTAND AND AGREE THAT THE SERVICES ARE PROVIDED TO YOU ON AN "AS IS" AND "AS AVAILABLE" BASIS. WITHOUT LIMITING THE FOREGOING, TO THE FULL EXTENT PERMITTED BY LAW, TUMBLR DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT. Tumblr makes no representations or warranties of any kind with respect to the Services, including any representation or warranty that the use of the Services will (a) be timely, uninterrupted or error-free or operate in combination with any other hardware, software, system, or data, (b) meet your requirements or expectations, (c) be free from errors or that defects will be corrected, (d) be free of viruses or other harmful components; or (e) be entirely secure or that the information you share with us will be secure. Tumblr also makes no representations or warranties of any kind with respect to Content; User Content, in particular, is provided by and is solely the responsibility of, the Users providing that Content. No advice or information, whether oral or written, obtained from Tumblr or through the Services, will create any warranty not expressly made herein.
 
-15\. Time Limitation on Claims and Releases From Liability
+14\. Time Limitation on Claims and Releases From Liability
 ----------------------------------------------------------
 
 You agree that any claim you may have arising out of or related to this Agreement or your relationship with Tumblr must be filed within one year after such claim arose; otherwise, your claim is permanently barred.
@@ -238,26 +195,26 @@ Claims relating to any face-to-face meetings in any way related to Tumblr at any
 
 If you are a California resident, you waive California Civil Code § 1542, which says: "A general release does not extend to claims which the creditor does not know or suspect to exist in his favor at the time of executing the release, which if known by him must have materially affected his settlement with the debtor."
 
-16\. Limitation of Liability
+15\. Limitation of Liability
 ----------------------------
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, TUMBLR AND THE TUMBLR AFFILIATES SHALL NOT BE LIABLE FOR: (A) ANY INDIRECT, INCIDENTAL, EXEMPLARY PUNITIVE, OR CONSEQUENTIAL DAMAGES OF ANY KIND WHATSOEVER; (B) LOSS OF: PROFITS, REVENUE, DATA, USE, GOODWILL, OR OTHER INTANGIBLE LOSSES; (C) DAMAGES RELATING TO YOUR ACCESS TO, USE OF, OR INABILITY TO ACCESS OR USE THE SERVICES; (D) DAMAGES RELATING TO ANY CONDUCT OR CONTENT OF ANY THIRD PARTY OR USER USING THE SERVICES, INCLUDING WITHOUT LIMITATION, DEFAMATORY, OFFENSIVE OR ILLEGAL CONDUCT OR CONTENT; AND/OR (E) DAMAGES IN ANY MANNER RELATING TO ANY CONTENT. THIS LIMITATION APPLIES TO ALL CLAIMS, WHETHER BASED ON WARRANTY, CONTRACT, TORT, OR ANY OTHER LEGAL THEORY, WHETHER OR NOT TUMBLR HAS BEEN INFORMED OF THE POSSIBILITY OF SUCH DAMAGE, AND FURTHER WHERE A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED ITS ESSENTIAL PURPOSE.
 
 TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE TOTAL LIABILITY OF TUMBLR AND THE TUMBLR AFFILIATES, FOR ANY CLAIM UNDER THIS AGREEMENT, INCLUDING FOR ANY IMPLIED WARRANTIES, IS LIMITED TO THE GREATER OF ONE HUNDRED DOLLARS (US $100.00) OR THE AMOUNT YOU PAID US TO USE THE APPLICABLE SERVICE(S).
 
-17\. Exclusions to Warranties and Limitation of Liability
+16\. Exclusions to Warranties and Limitation of Liability
 ---------------------------------------------------------
 
 Some jurisdictions may not allow the exclusion of certain warranties or the exclusion/limitation of liability as set forth in Section 13 and 15, so the limitations above may not apply to you.
 
-18\. Termination
+17\. Termination
 ----------------
 
 Either party may terminate this Agreement at any time by notifying the other party. Tumblr may terminate or suspend your access to or ability to use any and all Services immediately, without prior notice or liability, for any reason or no reason, including but not limited to if you breach any of the terms or conditions of this Agreement. In particular, Tumblr may immediately terminate or suspend Accounts that have been flagged for repeat copyright infringement.
 
 Upon termination of your access to or ability to use a Service, including but not limited to suspension of your Account on a Service, your right to use or access that Service and any Content will immediately cease. All provisions of this Agreement that by their nature should survive termination shall survive termination, including, without limitation, ownership provisions, warranty disclaimers, and limitations of liability. Termination of your access to and use of the Services shall not relieve you of any obligations arising or accruing prior to such termination or limit any liability that you otherwise may have to Tumblr or any third party and shall not relieve you of your rights if you are a user in the European Economic Area which are described in the Privacy Policy.
 
-19\. Choice of Law and Venue
+18\. Choice of Law and Venue
 ----------------------------
 
 You and Tumblr agree that we will resolve any claim or controversy at law or equity that arises out of this Agreement or the Services in accordance with this Section or as you and Tumblr otherwise agree in writing. Before resorting to formal dispute resolution, we strongly encourage you to [contact us](https://www.tumblr.com/support) to seek a resolution.
@@ -268,7 +225,7 @@ This Agreement shall be governed in all respects by the laws of the State of New
 
 If you are (a) a United States federal, state, or local government agency or body, (b) using the Services in your official capacity, and (c) legally unable to accept the clauses in this Section, then this Section doesn’t apply to you. For such entities, this Agreement and any related action will be governed by the laws of the United States of America, without regard to conflict of law provisions, and, in the absence of federal law and to the extent permitted under federal law, the laws of the State of New York, excluding choice of law.
 
-20\. Miscellaneous
+19\. Miscellaneous
 ------------------
 
 This Agreement, as modified from time to time, constitutes the entire agreement between you and Tumblr with respect to the subject matter hereof. This Agreement replaces all prior or contemporaneous understandings or agreements, written or oral, regarding the subject matter hereof and constitutes the entire and exclusive agreement between the parties. The failure of either party to exercise, in any way, any right provided for herein shall not be deemed a waiver of any further rights hereunder. If any provision of this Agreement is found to be unenforceable or invalid, that provision shall be limited or eliminated to the minimum extent necessary so that this Agreement shall otherwise remain enforceable and in full force and effect. This Agreement is not assignable, transferable, or sublicensable by you except with Tumblr's prior written consent. Tumblr may assign this Agreement in whole or in part at any time without your consent. No agency, partnership, joint controllership, joint venture, or employment is created as a result of this Agreement and you do not have any authority of any kind to bind Tumblr in any respect whatsoever. Any notice to Tumblr that is required or permitted by this Agreement shall be in writing and shall be deemed effective upon receipt, when delivered in person by nationally recognized overnight courier or mailed by first class, registered or certified mail, postage prepaid, to
@@ -278,14 +235,14 @@ Tumblr, Inc. (Automattic)
 San Francisco, CA 94110  
 **Attn: Legal Department**  
 
-21\. Special Provisions for Users Located Outside of the United States
+20\. Special Provisions for Users Located Outside of the United States
 ----------------------------------------------------------------------
 
 Tumblr provides global products and services and enables a global community for individuals to share and follow the things they love. Tumblr's servers and operations are, however, located in the United States, and Tumblr's policies and procedures are based on United States law. As such, the following provisions apply specifically to Users located outside of the United States: (1) you acknowledge that we will transfer, store, and process your information, including but not limited to User Content and any personal information, in the United States and/or other countries in order to provide you with the Services and perform this Agreement; and (2) if you are using the Services from a country embargoed by the United States, or are on the United States Treasury Department's list of "Specially Designated Nationals," you agree that you will not engage in financial transactions, or conduct any commercial activities using or through the Services (for example, purchasing Premium Themes).
 
 [**Submit an infringement notice**](https://www.tumblr.com/dmca)
 
-22\. DMCA Copyright Policy
+21\. DMCA Copyright Policy
 --------------------------
 
 Tumblr has adopted the following policy toward copyright infringement on the Services in accordance with the [Digital Millennium Copyright Act](https://www.loc.gov/copyright/legislation/dmca.pdf) (the "**DMCA**"). The address of Tumblr's Designated Agent for copyright takedown notices ("**Designated Agent**") is listed below. You may submit a notice under the DMCA using our [copyright notice form](https://www.tumblr.com/dmca).
@@ -334,7 +291,7 @@ San Francisco, CA 94110
   
 **Copyright notice form:** [https://www.tumblr.com/dmca](https://www.tumblr.com/dmca)
 
-23\. Open Source Disclosures
+22\. Open Source Disclosures
 ----------------------------
 
 You can find disclosures related to our use of open source software packages at the following locations:
