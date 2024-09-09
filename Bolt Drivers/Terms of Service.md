@@ -1,9 +1,3 @@
-1. [Categories](https://bolt.eu/en-ie/legal/)
-
-3. [Rides](https://bolt.eu/en-ie/legal/?category=rides)
-
-5. General Terms and Conditions for Fleet Partners / Drivers (effective until 30.04.2024)
-
 General Terms and Conditions for Fleet Partners / Drivers (effective until 30.04.2024)
 ======================================================================================
 
