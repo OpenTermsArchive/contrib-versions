@@ -1,5 +1,3 @@
-**Don't invest unless you're prepared to lose all the money you invest. This is a high-risk investment and you should not expect to be protected if something goes wrong. [Take 2 minutes to learn more](https://www.kraken.com/legal/uk/disclaimer).**
-
 [Kraken](https://www.kraken.com/)
 
 * [Explore](#)
@@ -29,6 +27,9 @@
     
 * [Learn](https://www.kraken.com/learn)
 * [Support](https://support.kraken.com/hc/en-us)
+
+* [Sign in](https://www.kraken.com/sign-in)
+* [Sign up](https://www.kraken.com/sign-up)
 
 **Terms of Service**
 
