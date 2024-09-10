@@ -167,18 +167,20 @@ Marketers are solely responsible for complying with applicable federal, state an
 #### Political Advertisements
 
 * Political content must comply with the local legislation and legal requirements including and mandated “election silence periods” for any geographic areas that they target.
-* Required disclosure(s):
+* **Required disclosure(s)**:
     * All political ads must contain clear disclosure(s) of who has paid for the ad and whether or not it was authorized by a candidate and/or organization on the landing page or during the video.
     * The landing page and the site name for the ad should identify: "Paid for by Candidate X for President", "Paid for by the Committee on Democratic Ideals" or any other disclosure requirements in accordance with local legislation and/or legal requirements.
     * In the site name, the "Paid for by" element can be omitted unless the organization promotes third-party material.
     * The landing page must include a link to contact information for the organization.
     * All political ads that are in full or in part AI generated must be clearly labelled, including in accordance with local legislation and legal requirements, where applicable.
-    * **Focus on Facts** - Content should contain only stories/positions that are based on facts.
-    * **Prevent Outbrain Affiliation:** - Political advertising cannot give the appearance that Outbrain promotes any particular candidate, party, or political agenda.
-* Prohibited Political Ads:
+* **Focus on Facts** - Content should contain only stories/positions that are based on facts.
+* **Prevent Outbrain Affiliation:** - Political advertising cannot give the appearance that Outbrain promotes any particular candidate, party, or political agenda.
+
+* **Prohibited Political Ads**:
 
 * Political ads which contain or are focused on sensitive health information (including campaigns relating to abortion rights), anti-voting and ethnicity are not allowed.
 * Outside of clearly disclosed political ads (as defined above), taking or expressing political stands is not allowed.
+
 * **Be Respectful** - Ads must not humiliate, disparage, mislead or incite against a candidate, party, or population group. All information must be based on fact.
 * **Headlines** - Content may include political groups or leanings in the headline, as long as paid sponsorship is clearly disclosed. Stance language is authorized as long as it does not discriminate against any group, person, or belief.
 * **Image/Video Content** - When selecting any content, including images and/or videos for your political ads please ensure they are relevant to the political ads or cause you are promoting and are not misleading.
@@ -362,7 +364,7 @@ Additional Guidelines for Publishers
 
 #### Prohibited Categories:
 
-* Inflammatory Political Content
+* Inflammatory, humiliating, disparaging and misleading political content
 * True Crime stories older than 5 years
 * Negative representation of celebrities
 * Bankruptcy
