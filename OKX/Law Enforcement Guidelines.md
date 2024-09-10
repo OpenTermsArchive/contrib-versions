@@ -13,21 +13,23 @@ Published on Sep 11, 2023
 
 As per our Terms of Service, the services of OKX.com are being provided by the following entities:
 
+**Aux Cayes FinTech Co. Ltd.**, a Seychelles registered company for all other users eligible to access and use OKX’s Services;
+
 **OKCoin Europe LTD**, a Malta limited liability company, which operates under the OKX brand, for users who are residents of one of our approved operating locations within the European Economic Area;
 
-**OKX Bahamas FinTech Company Limited**, a Bahamas registered company for users who are residents of Mexico and who registered between November 16, 2022 and August 28, 2023, and institutional users who are registered on or after August 29, 2023,
+**OKX Australia Pty Ltd** and **OKX Australia Financial Pty Ltd**, Australian registered companies, for users who are residents of Australia;
 
-**OKX Hong Kong FinTech Company Limited**, a Hong Kong registered company, for users who are residents of Hong Kong and who registered on or after May 15, 2023,
+**OKX Bahamas FinTech Company Limited**, a Bahamas registered company for users who are residents of Mexico and who registered between November 16, 2022 and August 28, 2023, and institutional users who are registered on or after August 29, 2023;
 
-**OKX Serviços Digitais Ltda.**, a Brazil registered company, for users who are residents of Brazil and who registered on or after June 15, 2023,
+**OKX Hong Kong FinTech Company Limited**, a Hong Kong registered company, for users who are residents of Hong Kong and who registered on or after May 15, 2023;
 
-**OKX SG Pte. Ltd**., a Singapore limited liability company, for users who are residents of Singapore and who registered on or after October 13, 2023,
+**OKX Middle East FinTech FZE,** a United Arab Emirates registered company, for users who are residents of the United Arab Emirates;
 
-**OKX Australia Pty Ltd** and **OKX Australia Financial Pty Ltd**, Australian registered companies, for users who are residents of Australia,
+**OKX Serviços Digitais Ltda.**, a Brazil registered company, for users who are residents of Brazil and who registered on or after June 15, 2023; and
 
-**Aux Cayes FinTech Co. Ltd.**, a Seychelles registered company for all other users eligible to access and use OKX’s Services,
+**OKX SG Pte. Ltd**., a Singapore limited liability company, for users who are residents of Singapore and who registered on or after October 13, 2023.
 
-(such entities collectively referred to herein as “**OKX**”, “**we**” or “**us**”).
+(Such entities collectively referred to herein as “**OKX**”, “**we**” or “**us**”).
 
 Where appropriate, we will respond to requests from authorized law enforcement officers with proof of authority. We will review each case and cooperate on a case-by-case basis, in accordance with the relevant Terms of Service, our Privacy Notice Statement, and any applicable laws and regulations. This Law Enforcement Request Guide explains how authorized law enforcement officers can engage and contact us to request customer information and/or freeze a customer’s OKX account.
 
