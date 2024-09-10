@@ -30,7 +30,7 @@ You may skip to the specific sections of our Privacy Notice by selecting any of 
 10. [Children’s Privacy](#childrens-privacy)
 11. [Starbucks WiFi](#starbucks-wifi)
 12. [Your Choices & Rights](#your-choices-rights)
-13. [Notice of Financial Incentive & Starbucks® Rewards](#starbucks-rewards)
+13. [Notice of Financial Incentive & Starbucks® Rewards](#notice-of-financial-incentive)
 14. [Additional Disclosures for Data Subjects in the EEA, the U.K. and Switzerland](#additional-disclosures-for-data-subjects-in-the-eea-the-uk-and-switzerland)
 15. [Participation in the Privacy Framework](#participation-in-the-privacy-shield-frameworks)
 16. [Contact Us](#contact-us)
