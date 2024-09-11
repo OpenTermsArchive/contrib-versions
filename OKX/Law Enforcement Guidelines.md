@@ -5,7 +5,7 @@ Published on Sep 11, 2023
 
 **Law Enforcement Request Guide**
 
-**Last Updated: April 30, 2024**
+**Last Updated: September 10, 2024**
 
 **For Government and Law Enforcement Agencies only:**
 
