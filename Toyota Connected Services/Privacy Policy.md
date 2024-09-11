@@ -2,7 +2,7 @@ Your Privacy Rights
 
 ----------------------
 
-UPDATED AS OF: June 18, 2024
+UPDATED AS OF: September 11, 2024
 
 **Personal Information Sharing Practices for 2023**  
 
@@ -18,7 +18,7 @@ Your vehicle may be equipped with Connected Services that electronically transmi
 
 **Toyota Privacy Notice – Summary**
 
-This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on June 18, 2024.
+This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on September 11, 2024.
 
 **Information Collected**
 
@@ -70,7 +70,7 @@ To read our full Privacy Notice [click here.](#privacy)
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: June 18, 2024
+UPDATED AS OF: September 11, 2024
 
 Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information. Personal Information is sometimes also referred to as personal data, personally identifiable information or other like terms that mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household. Please read below and learn how we collect, protect, share, and use your Personal Information including information we collect as part of our technology Platforms (including, without limitation, our Toyota-owned and branded websites, web pages, interactive features, applications, and mobile applications that link to this Privacy Notice ("Platforms"), offline, and from other parties.
 
@@ -279,11 +279,12 @@ U.S. privacy laws provide consumers with certain rights regarding their Personal
 3. Right to Confirm Processing. You may have the right to confirm whether we are processing your Personal Information.
 4. Right to Know and Access. You may have the right to request that we provide you with the Personal Information we have collected about you, including the categories of Personal Information; the categories of sources from which the Personal Information is collected; the business or commercial purpose for collecting, selling, or sharing Personal Information; the categories of third parties to whom we disclose Personal Information; and the specific pieces of Personal Information we have collected about you.
 5. Right to Data Portability. You may have the right to receive the information under right (4) in a format, to the extent technically feasible, that is portable, usable, and allows you to transmit the Personal Information to a person without impediment, where the processing is carried out by automated means.
-6. Right to Opt Out of Profiling. In the context of this Privacy Notice, we do not engage in any processing of your Personal Information for profiling in furtherance of decisions about you that produce legal or similarly significant effects, so there is no need to provide a right to opt out.
-7. Rights Related to Sharing for Targeted Advertising or Sale. You may have the right to opt out of the sharing of your Personal Information for targeted advertising or the sale of your Personal Information.
-8. Rights Related to Sensitive Personal Information. United States privacy laws may provide additional protection for sensitive Personal Information or data. Where required by law, we will process sensitive Personal Information with your consent and/or limit the use and disclosure of your sensitive Personal Information.
-9. Right to No Discrimination. You have the right not to be discriminated against for exercising any of your privacy rights. This includes us not: (a) denying you goods or services; (b) charging you different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties; (c) providing you a different level or quality of goods or services; (d) suggesting to you that you will receive a different price or rate for goods or services or a different level or quality of goods or services; or (e) retaliating against you for exercising your privacy rights.
-10. Right to Appeal. Under certain United States privacy laws, you may have the right to appeal our response to your privacy request. If we decline to take action in response to your exercise of a privacy right, we will inform you of the reason for denying your request and provide you instructions on how you may be able to appeal the decision.
+6. List of Specific Third Parties (Oregon Residents Only). You have the right, at our option, to receive a list of the specific third parties, other than natural persons, to which we have disclosed either (a) your personal information or (b) any personal information.
+7. Right to Opt Out of Profiling. In the context of this Privacy Notice, we do not engage in any processing of your Personal Information for profiling in furtherance of decisions about you that produce legal or similarly significant effects, so there is no need to provide a right to opt out.
+8. Rights Related to Sharing for Targeted Advertising or Sale. You may have the right to opt out of the sharing of your Personal Information for targeted advertising or the sale of your Personal Information.
+9. Rights Related to Sensitive Personal Information. United States privacy laws may provide additional protection for sensitive Personal Information or data. Where required by law, we will process sensitive Personal Information with your consent and/or limit the use and disclosure of your sensitive Personal Information.
+10. Right to No Discrimination. You have the right not to be discriminated against for exercising any of your privacy rights. This includes us not: (a) denying you goods or services; (b) charging you different prices or rates for goods or services, including through the use of discounts or other benefits or imposing penalties; (c) providing you a different level or quality of goods or services; (d) suggesting to you that you will receive a different price or rate for goods or services or a different level or quality of goods or services; or (e) retaliating against you for exercising your privacy rights.
+11. Right to Appeal. Under certain United States privacy laws, you may have the right to appeal our response to your privacy request. If we decline to take action in response to your exercise of a privacy right, we will inform you of the reason for denying your request and provide you instructions on how you may be able to appeal the decision.
 
 **How to Submit a Request**
 
