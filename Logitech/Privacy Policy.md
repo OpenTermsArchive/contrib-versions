@@ -3,7 +3,7 @@ Pangea temporary hotfixes here
 Logitech Privacy Policy
 -----------------------
 
-**Last updated:** August 2024
+**Last updated:** September 2024
 
 Your privacy is essential to Logitech. This Privacy Policy explains how we handle your personal data.
 
