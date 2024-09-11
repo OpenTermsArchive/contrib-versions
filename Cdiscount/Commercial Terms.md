@@ -1,5 +1,5 @@
-_Article 1 : CHAMP D'APPLICATION_
----------------------------------
+_CONDITIONS GENERALES ABONNEMENT (uniquement pour la France) "CDISCOUNT ABONNEMENT"_
+------------------------------------------------------------------------------------
 
 Ce site est opéré  par :  
   
@@ -11,8 +11,8 @@ Siège social : 120-126 Quai de Bacalan - 33000 Bordeaux (siège administratif u
   
 Le site cdiscount.com propose une offre réservée uniquement aux personnes physiques agissant en qualité de consommateurs. 
 
-_PREAMBULE  Modalités de contact_
----------------------------------
+_CONDITIONS GENERALES ABONNEMENT (uniquement pour la France) "CDISCOUNT ABONNEMENT"_
+------------------------------------------------------------------------------------
 
   
   
@@ -84,8 +84,8 @@ Depuis le Portugal au 0800 60 00 45 (numéro gratuit) du lundi au vendredi de 9
   
 Afin d'optimiser le traitement de vos demandes, pensez à indiquer dans toutes vos correspondances, quel que soit le canal utilisé : vos nom, prénom, email avec lequel vous avez passé votre commande et le numéro de la commande concernée.                    
 
-_Article 1 : CHAMP D'APPLICATION_
----------------------------------
+_CONDITIONS GENERALES ABONNEMENT (uniquement pour la France) "CDISCOUNT ABONNEMENT"_
+------------------------------------------------------------------------------------
 
 **1.1 Champ d’application**
 
@@ -254,8 +254,8 @@ Nonobstant ce qui précède, CDISCOUNT se réserve le droit d’engager toute ac
 
   
 
-_Article 4 : MODALITES DE PAIEMENT_
------------------------------------
+_CONDITIONS GENERALES ABONNEMENT (uniquement pour la France) "CDISCOUNT ABONNEMENT"_
+------------------------------------------------------------------------------------
 
  **4.1. Modes de paiement** 
 
@@ -284,26 +284,19 @@ Pour en savoir plus sur la Solution de Crédit - "Payez en plusieurs fois", [cli
   
 (viii) Par Bancontact/Mistercash : Ce mode de paiement n’est pas disponible pour les paniers contenant des produits de la Marketplace Cdiscount.  Pour bénéficier de ce mode de paiement, vous devez disposer d’une adresse de facturation située en Belgique. En cas de paiement par Bancontact/Mistercash, ce sont les conditions générales d'utilisation de Bancontact/Mistercash qui s'appliquent. Elles sont accessibles en cliquant [ici](https://www.bancontact.com/).  
   
-(ix) Par bons d'achat : Il est possible d’utiliser les bons d’achat émis par CDISCOUNT pour le paiement de toute ou partie de votre commande. Ces bons d’achats ne sont utilisables qu’une seule fois. Dans l’hypothèse où un client tenterait d’utiliser frauduleusement plusieurs fois l’un de ses bons d’achat, les commandes concernées par cette fraude seraient  annulées par CDISCOUNT.  
+(ix) Par bons d'achat : Il est possible d’utiliser les bons d’achat émis par CDISCOUNT pour le paiement de toute ou partie de votre commande. Ces bons d’achats ne sont utilisables qu’une seule fois. Dans l’hypothèse où un client tenterait d’utiliser frauduleusement plusieurs fois l’un de ses bons d’achat, les commandes concernées par cette fraude seraient  annulées par CDISCOUNT.   
   
-(x) Paiement PAYLIB : Vous pouvez également régler votre commande via l'application PAYLIB sur votre téléphone. Pour bénéficier de ce mode de paiement, vous devez télécharger et créer un compte sur l'application de votre banque. En cas de paiement par PAYLIB, ce sont les conditions générales d'utilisation de PAYLIB qui s'appliquent.
-
-(xi) Par carte(s) cadeau(x) : Vous pouvez également utiliser une ou plusieurs carte(s) cadeau(x) telles que :   
+(x) Par carte(s) cadeau(x) : Vous pouvez également utiliser une ou plusieurs carte(s) cadeau(x) telles que :   
   
 \- la carte ILLICADO pour le paiement de tout ou partie de votre commande, dans la limite de deux-cents cinquante (250) euros (produits de la Marketplace inclus, à l’exception des produits dématérialisés et des offres de services tels que, notamment : voyages, forfaits mobiles, électricité/fioul, billetterie, etc.). Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://www.illicado.com/utilisation-carte).
 
 En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une commande payée par carte(s) ILLICADO, les sommes débitées sur la ou les carte(s) ILLICADO utilisée(s) seront remboursées sous forme d’un ou plusieurs bon(s) d’achat, disponible(s) dans votre espace client et utilisable sur le Site pendant un (1) an.  
   
-\- les cartes UP CADHOC (à l’exclusion des cartes Up Cadhoc Incentive et Up Cadhoc Absolu) pour le paiement de tout ou partie de votre commande contenant uniquement des produits vendus et expédiés par Cdiscount (exclusion des produits de la marketplace et des services tels que : voyages, billetterie ou forfait mobile). Au moment du choix de paiement par carte cadeau UP CADHOC, le client est redirigé vers le site du prestataire technique de l’émetteur (Limonetik) afin de saisir le code de la carte, le montant qu’il souhaite utiliser et si besoin compléter le montant par une autre carte cadeau du même émetteur (dans la limite de 3 cartes cadeaux) ou par carte bancaire. A l’issue de la transaction, le client est redirigé sur la page de confirmation de commande Cdiscount. Pour en savoir plus sur ce mode de paiement : [cliquez ici](https://up.coop/upcadhoc/utilisateurs/). En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une commande payée par carte(s) UP CADHOC, les sommes débitées sur la ou les carte(s) cadeau(x) utilisée(s) seront remboursées dans un délai d'un (1) jour ouvré sur le moyen de paiement concerné. Dans le cas où la commande a utilisé un complément par carte bancaire, la priorité du remboursement sera faite sur la carte bancaire ayant fait le complément puis sur la carte cadeau si besoin.
-
-Les cartes ILLICADO sont cumulables avec les cartes UP CADHOC si les cartes ILLICADO sont utilisées en premier dans le parcours de paiement.
-
+(xi) Paiement par virement sécurisé par Bridge powered by Bankin’ : ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://pay.bridgeapi.io/docs/mention-information.pdf).  
   
-(xii) Paiement par virement sécurisé par Bridge powered by Bankin’ : ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://pay.bridgeapi.io/docs/mention-information.pdf).  
-  
-(xiii)  Par e\-carte cadeau Cdiscount, soumise aux conditions ci-après :   
+(xii)  Par e\-carte cadeau Cdiscount, soumise aux conditions ci-après :   
         - la contrevaleur de la e-Carte cadeau Cdiscount est utilisable de façon non sécable : la e-Carte cadeau Cdiscount n’est pas fractionnable et n’est pas convertible en numéraire. Elle doit être utilisée dans son intégralité et en une seule fois.  
-        - la e-Carte cadeau est valable et utilisable sur le site www.cdiscount.com, hors frais de port, abonnements, Cdiscount à volonté ou « Services » (tels que notamment Cdiscount Voyages, Cdiscount Mobile, Cdiscount Pro, Cdiscount Billetterie, Disneyland, livres, développement photo, téléchargement musique, etc.).  
+        - la e-Carte cadeau est valable et utilisable sur le site www.cdiscount.com, hors frais de port, abonnements, Cdiscount à volonté ou « Services » (tels que notamment Cdiscount Voyages, Cdiscount Mobile, Cdiscount Billetterie, Disneyland, livres, développement photo, téléchargement musique, etc.).
 
 **Généralités**
 
@@ -334,8 +327,8 @@ Vous êtes informé de la collecte de ces informations dès votre première conn
   
 Vous pouvez retirer votre consentement à la collecte de cet identifiant à tout moment en cliquant sur l'onglet "Gérer mes cookies" présent sur la page d'information "Protection de la vie privée et cookies" et en désactivant les cookies "Analytique et Personnalisation". Pour en savoir +, [cliquez ici](https://www.cdiscount.com/vie-privee-et-cookies.html).
 
-_Article 6 : EXPEDITION ET LIVRAISON_
--------------------------------------
+_CONDITIONS GENERALES ABONNEMENT (uniquement pour la France) "CDISCOUNT ABONNEMENT"_
+------------------------------------------------------------------------------------
 
 **CDISCOUNT peut vous proposer, au moment de la passation de votre commande, différents modes de livraison en fonction notamment de la taille de votre colis et de votre adresse de livraison.** CDISCOUNT n'assure pas de livraison à destination : des bases militaires, des armées, des casernes.  
   
@@ -464,7 +457,7 @@ Pour faciliter le chargement dans votre véhicule, un matériel de manutention p
 
 Nous vous invitons à vérifier l’état de l’emballage de votre colis avant de l’accepter en apposant votre signature sur le bordereau de livraison papier ou électronique. Vous n’êtes pas autorisé à déballer le produit sur le point retrait. Si vous constatez des avaries sur l’emballage, mais que vous souhaitez malgré tout récupérer le colis, nous vous invitons à formuler des réserves précises sur le bordereau de livraison.
 
-Si vous souhaitez faire reprendre votre ancien appareil (uniquement les déchets électriques et électroniques - DEEE), les modalités et conditions de reprise sont accessibles à l’article 10 de nos CGV ou en [cliquant ici](https://www.cdiscount.com/edito/ecopart.html).
+Si vous souhaitez faire reprendre votre ancien appareil, les modalités et conditions de reprise sont accessibles à l’article 10 de nos CGV ou en [cliquant ici](https://www.cdiscount.com/edito/ecopart.html).
 
  
 
@@ -722,8 +715,8 @@ Ainsi, si vous avez payé votre commande à l’aide d’une carte bancaire (au 
 
  
 
-_Article 9 : GARANTIES_
------------------------
+_CONDITIONS GENERALES ABONNEMENT (uniquement pour la France) "CDISCOUNT ABONNEMENT"_
+------------------------------------------------------------------------------------
 
 **9.1 Les Garanties Légales**
 
@@ -732,7 +725,7 @@ Pour les produits directement vendus par Cdiscount (à l’exclusion des produit
 **Attention, pour les produits achetés auprès d’un vendeur de la Marketplace, vous devez vous rapprocher du vendeur concerné pour exercer vos droits, CDISCOUNT ne pouvant se substituer au vendeur.** 
 
   
-Il est rappelé que le consommateur, dans le cadre de la garantie légale de conformité :  
+Il est rappelé que dans le cadre de la garantie légale de conformité :  
 
     Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.  
   
@@ -1013,8 +1006,8 @@ BP 20015 - 75362 PARIS CEDEX 8 - [https://www.mediateurfevad.fr](https://urldef
 
 Dans l’hypothèse où une ou plusieurs clauses des présentes CGV deviendraient nulles suite à un changement de législation ou par décision de justice, cela ne saurait en aucun cas affecter la validité des autres clauses, qui elles resteraient applicables.
 
-_CONDITIONS GENERALES D'ABONNEMENT " CDISCOUNT A VOLONTE "_
------------------------------------------------------------
+_CONDITIONS GENERALES ABONNEMENT (uniquement pour la France) "CDISCOUNT ABONNEMENT"_
+------------------------------------------------------------------------------------
 
 **  
   
@@ -1231,7 +1224,8 @@ Dans le cadre d’une tacite reconduction, le montant de l’Abonnement au Servi
 
 Dans le cas où les coordonnées bancaires renseignées ne correspondent pas à la carte bancaire de l’Abonné mais de celle d’un tiers, l’Abonné garantit à CDISCOUNT qu’il dispose des droits nécessaires pour utiliser la carte de paiement dont il n’est pas le titulaire.
 
-_L215-1 du Code de la consommation_
+**Reproduction des dispositions légales :  
+**_L215-1 du Code de la consommation_
 
 _Pour les contrats de prestations de services conclus pour une durée déterminée avec une clause de reconduction tacite, le professionnel prestataire de services informe le consommateur par écrit, par lettre nominative ou courrier électronique dédiés, au plus tôt trois mois et au plus tard un mois avant le terme de la période autorisant le rejet de la reconduction, de la possibilité de ne pas reconduire le contrat qu'il a conclu avec une clause de reconduction tacite. Cette information, délivrée dans des termes clairs et compréhensibles, mentionne, dans un encadré apparent, la date limite de non reconduction._
 
@@ -1399,7 +1393,7 @@ Le Bénéficiaire peut décider de ne pas bénéficier des avantages du Service 
 
 Dans un tel cas, le Bénéficiaire ne pourra prétendre à un quelconque dédommagement de quelque sorte ou nature que ce soit.
 
-En aucun cas le Bénéficiaire ne peut pas demander à ce qu’une autre personne bénéficie, en ses lieu et place, du Partage dont il aurait refusé de bénéficier.
+En aucun cas le Bénéficiaire ne peut demander à ce qu’une autre personne bénéficie, en ses lieu et place, du Partage dont il aurait refusé de bénéficier.
 
 Il en sera de même dans le cas où le Bénéficiaire ne pourrait bénéficier du Partage par suite d'une erreur ou d'une omission dans les coordonnées du Bénéficiaire lors de leur saisie par l’Abonné ou d’une modification des coordonnées du Bénéficiaire.
 
@@ -1457,7 +1451,7 @@ Le Solde de la Cagnotte est utilisable dans les conditions définies ci-après.
 
 Tout montant crédité et non utilisé par l’Abonné avant la fin de sa durée de validité sera automatiquement déduit du Solde de la Cagnotte et sera donc définitivement perdu.
 
-**9.3.3** L’Abonné pourra utiliser le Solde de la Cagnotte pour payer tout ou partie d’une commande passée sur le Site (produits de la Marketplace inclus, hors frais de port, abonnements, Cdiscount à Volonté, livres et hors services Cdiscount tels que notamment Cdiscount Voyages, Cdiscount Mobile, Cdiscount Energie, Cdiscount Santé, Cdiscount Beauté, Cdiscount Immobilier, Cdiscount Billetterie, Disneyland), sans minimum d’achat.
+**9.3.3** L’Abonné pourra utiliser le Solde de la Cagnotte pour payer tout ou partie d’une commande passée sur le Site (produits de la Marketplace inclus, hors frais de port, abonnements, Cdiscount à Volonté, livres et hors services Cdiscount tels que notamment Cdiscount Voyages, Cdiscount Mobile, Cdiscount Santé, Cdiscount Billetterie), sans minimum d’achat.
 
 Pour cela, l’Abonné devra choisir « Payer avec Ma cagnotte à volonté » sur la page de choix du mode de paiement.
 
@@ -1624,149 +1618,6 @@ Les présentes Conditions Générales d’Utilisation sont soumises au droit fra
 
 _CONDITIONS GENERALES ABONNEMENT (uniquement pour la France) "CDISCOUNT ABONNEMENT"_
 ------------------------------------------------------------------------------------
-
-**  
-  
-  
-ARTICLE 1 - CHAMP D’APPLICATION  
-  
-**
-
-Les présentes Conditions Générales d’Abonnement (ci-après, les « **CGA** ») du service Cdiscount abonnement (« ci-après, le « **Service** »), s’appliquent à tout abonnement (ci-après, l’« **Abonnement** ») souscrit par un particulier, résidant en France, agissant, à titre personnel, en qualité de consommateur auprès de la société CDISCOUNT (ci-après, l’ « **Abonné** »), soit :
-
-* directement sur son site internet accessible à l'adresse suivante : www.cdiscount.com (ci-après, le « **Site** »), ou,
-* par téléphone au 3979 (0.70 cts par minutes + prix de l'appel)
-
-Et portant sur le Service Cdiscount abonnement tel que décrit à l’**Article 2** des présentes.
-
-Le Service n’est disponible que sur PC. Il n’est pas disponible sur mobile, ni sur les applications Android ou IOS de Cdiscount, que ce soit pour smartphones ou tablettes. 
-
-L’Abonnement au Service requiert l’acceptation et le respect des CGA ainsi que des Conditions Générales de Vente (« **CGV** ») du Site.  
-  
-Cdiscount se réserve le droit de modifier les présentes CGU, à tout moment et sans préavis.  
-  
-Les CGA et CGV applicables sont celles en vigueur au jour de votre souscription au Service.  En cas de modification des CGA, celles-ci vous seront opposables dans les quinze (15) jours suivant ladite modification.  
-
-**ARTICLE 2 - DESCRIPTION DU SERVICE  
-  
-**
-
- Le Service vous permet de recevoir vos produits favoris, sous réserve qu’ils soient éligibles (voir conditions d’éligibilité à l’**Article 4** ci-après – les « **Produits Eligibles** »), de manière régulière et automatique, selon la fréquence et la quantité que vous aurez choisies. 
-
-**ARTICLE 3 - CONDITIONS D’ABONNEMENT  
-  
-**
-
-Pour bénéficier du Service, il suffit d’ajouter un Produit Eligible dans votre panier, en précisant la fréquence et la quantité souhaitées puis de procéder au règlement de votre première commande conformément aux CGV.
-
-Vous ne pouvez ajouter qu’un seul Produit Eligible à votre panier. Si vous souhaitez commander plusieurs Produits Eligibles, vous devez passer plusieurs commandes. Vous pouvez toutefois ajouter à un même panier, un Produit Eligible et des produits non éligibles au service Cdiscount abonnement.  
-  
-
-**ARTICLE 4 - PRODUIT ELIGIBLES** 
-
-Les Produits Eligibles au Service sont :  
-   
-\- présentés dans la rubrique « Abonnement » du Site ;
-
-\- identifiables grâce au drapeau "Cdiscount Abonnement" 
-
-**ARTICLE 5 - AVANTAGES  
-  
-**
-
- Pour les Produits Eligibles, vous bénéficiez :
-
-\- de leur **livraison automatique**, à la fréquence de votre choix ;
-
-\- de leur **livraison offerte à domicile** ;
-
-\- d’un **minimum de 5% de remise immédiate** par rapport aux prix pratiqués sur le Site pour les clients non abonnés au Service. 
-
-La disponibilité et le contenu des avantages décrits ci-dessus peuvent varier en cours d’Abonnement, sans préavis ni indemnité au profit de l’Abonné. Vous serez informé de l’évolution desdits avantages par tout moyen.
-
-Ces avantages peuvent être cumulables avec d’autres avantages présentés sur le Site, notamment avec ceux liés à votre éventuelle adhésion au programme Cdiscount à volonté. 
-
-**ARTICLE 6 - DISPONIBILITE DES PRODUITS CDISCOUNT ABONNEMENT  
-  
-**
-
-Les offres de Produits Eligibles sont valables dans la limite des stocks disponibles. La disponibilité des Produits Cdiscount abonnement est indiquée sur chaque fiche produit. 
-
-Si malgré tous nos efforts, un Produit Eligible devenait indisponible en cours d’Abonnement, Cdiscount vous en informera et vous remboursera le prix du produit concerné ainsi que toute somme versée au titre de votre commande. Toutefois, si votre commande contient d’autres produits disponibles, non compris dans votre Abonnement, ceux-ci vous seront livrés et les frais de livraison associés vous seront facturés. 
-
-**ARTICLE 7 - PRIX DU SERVICE  
-  
-**
-
-Le Service est gratuit.
-
-Cdiscount se réserve le droit de modifier le prix du Service à tout moment. Dans le cas où Cdiscount déciderait de modifier le prix du Service, Cdiscount vous en informera par tout moyen.
-
-Conformément à l’article 11 des présentes, vous disposez d’une faculté de résiliation de votre Abonnement. 
-
-**ARTICLE 8 - PRIX DES PRODUITS CDISCOUNT ABONNEMENT  
-  
-**
-
-Cdiscount se réserve le droit de modifier le prix des Produits Eligibles à tout moment. Le prix que vous paierez tout au long de votre abonnement est donc susceptible de varier. Vous serez informé de toute modification de prix par tout moyen. En toute hypothèse, vous recevrez chaque mois, au plus tard huit (8) jours avant l’expédition de votre Produit Eligible, un email récapitulatif tel que décrit ci-après.
-
-**Pour la première expédition,** le prix du Produit Eligible est le prix pratiqué sur le Site le jour où vous souscrivez à votre Abonnement. 
-
-**Pour les expéditions suivantes,** le prix du Produit Eligible est le prix affiché dans votre Espace client, huit (8) jours avant la date de livraison prévue pour votre commande. Ainsi, vous recevrez chaque mois, au plus tard huit (8) jours avant l’expédition de votre Produit Eligible, un email récapitulatif des Produits Eligibles sur le point d’être expédiés, de leur prix et de leur date de livraison prévisionnelle. Vous aurez alors la possibilité de gérer, modifier ou résilier votre abonnement afin d’annuler vos expéditions suivantes.
-
-Conformément à l’article 11 des présentes, la faculté de résiliation de votre Abonnement doit être exercée avant l’expédition de chaque commande. A défaut, elle ne sera prise en compte que pour l’expédition suivante. 
-
-**ARTICLE 9 - PAIEMENT  
-  
-**
-
-Le paiement des Produits Cdiscount abonnement ne peut être effectué que par carte bancaire. 
-
-Au moment de la validation de votre première commande de Produits Eligibles, vos coordonnées bancaires sont automatiquement enregistrées afin de faciliter vos commandes ultérieures. Cdiscount prélèvera ainsi chaque mois, sur le compte bancaire associé à votre carte bancaire, le prix du Produit Eligible que vous avez choisi.
-
-A titre informatif, vous serez prélevés des sommes correspondant au prix de vos livraisons généralement dans les trois (3) jours précédant l’expédition de vos Produits Eligibles.
-
-Comme indiqué précédemment, vous recevrez chaque mois, au plus tard huit (8) jours avant l’expédition de votre Produit Eligible, un email récapitulatif des Produits Eligibles sur le point d’être expédiés, de leur prix et de leur date de livraison prévisionnelle.
-
-Vous pourrez alors modifier la fréquence de votre abonnement. Vous pouvez également à tout moment consulter et gérer vos abonnements via votre Espace client ainsi que modifier les coordonnées bancaires liées à votre Abonnement. 
-
-**ARTICLE 10 - LIVRAISON** 
-
-Les Produits Eligibles sont livrés à l’adresse de votre choix.   
-
-Vous recevrez chaque mois, au plus tard huit (8) jours avant l’expédition de votre Produit Eligible, un email récapitulatif des Produits Eligibles sur le point d’être expédiés, de leur prix et de leur date de livraison prévisionnelle.
-
-Cdiscount se réserve le droit de modifier le prix de la livraison à tout moment. Dans le cas où Cdiscount déciderait de modifier le prix de la livraison, Cdiscount en informera personnellement l’Abonné, par tout moyen. 
-
-**ARTICLE 11 - DUREE ET RESILIATION DE L’ABONNEMENT  
-  
-**
-
-**Durée  
-**
-
-L’Abonnement est sans engagement de durée ; la durée de l’Abonnement est indéterminée. 
-
-Il prend effet lorsque vous commandez pour la 1ère fois un Produit Eligible et souscrivez simultanément, pour la 1ère fois, à un Abonnement.  
-
-**Résiliation par l’Abonné  
-**
-
-Vous pouvez à tout moment consulter, gérer et résilier vos abonnements via votre Espace client.  
-
-A noter : lorsqu’une commande est en cours d’expédition (voir statut de votre commande dans votre Espace Client), la résiliation de votre Abonnement ne sera effective que pour la commande suivante.  
-
-**Résiliation par CDISCOUNT** 
-
-Cdiscount se réserve le droit de résilier votre Abonnement pour motifs légitimes et notamment, sans que cette liste soit exhaustive dans l’hypothèse où :  
-    
-\-Vous ne respecteriez pas les CGA et/ou les CGV ;  
-\-Vous utiliserez le Service dans un but professionnel, notamment dans le but d'acheter des Produits Eligibles et de les revendre ou de faire livrer des Produits Eligibles directement à vos clients ;  
-\-Votre Produit Eligible ne serait plus éligible au Service ;  
-\-Cdiscount arrêterait le Service.
-
-_CONDITIONS GENERALES DE PRECOMMANDE JEUX VIDEOS - TELEPHONIE (uniquement pour la France métropolitaine)_
----------------------------------------------------------------------------------------------------------
 
 **  
   
