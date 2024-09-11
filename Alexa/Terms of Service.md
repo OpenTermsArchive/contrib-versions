@@ -1,9 +1,11 @@
 Alexa Terms of Use
 ==================
 
-**Last Updated: December 15, 2023**
+  
 
-This is an agreement between you and Amazon.com Services LLC (with its affiliates, "Amazon" or "we"). Before using Alexa, please read these Alexa Terms of Use, including the attached schedules, the [Amazon.com Privacy Notice](https://www.amazon.com/privacy), the [Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse), the [Alexa Acceptable Use Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=TTFAPMmEqemeDWZaWf), and the other applicable rules, policies, and terms posted on the Amazon.com website, available through your Alexa App, or provided with Alexa Enabled Products (collectively, this "Agreement"). By using Alexa, you agree to the terms of this Agreement on behalf of yourself and all other persons who use Alexa under your account. If you do not accept the terms of this Agreement, then you may not use Alexa.
+**Last Updated: August 2, 2024**
+
+This is an agreement between you and Amazon.com Services LLC (with its affiliates, "Amazon", "we", “us”, or “our”). Before using Alexa, please read these Alexa Terms of Use, including the attached schedules, the [Amazon.com Privacy Notice](https://www.amazon.com/privacy), the [Amazon.com Conditions of Use](https://www.amazon.com/conditionsofuse), the [Alexa Acceptable Use Policy](https://www.amazon.com/gp/help/customer/display.html?nodeId=TTFAPMmEqemeDWZaWf), and the other applicable rules, policies, and terms posted on the Amazon.com website, available through your Alexa App, or provided with Alexa Enabled Products (collectively, this "Agreement"). By using Alexa, you agree to the terms of this Agreement on behalf of yourself and all other persons who use Alexa under your account. If you do not accept the terms of this Agreement, then you may not use Alexa.
 
 For the purpose of these Alexa Terms of Use:
 
