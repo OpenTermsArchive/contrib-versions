@@ -47,6 +47,10 @@ Print/export
 
 In other projects
 
+Appearance
+
+move to sidebar hide
+
 From Wikimedia Foundation Governance Wiki
 
 (Redirected from [Terms of Use](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use&redirect=no "Terms of Use"))
