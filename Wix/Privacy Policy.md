@@ -103,17 +103,10 @@ We also collect and use Personal Information in order to contact Users and to co
 
 We may share your Personal Information with service providers and others (or otherwise allow them access to it) in the following manners and instances:
 
-Third Party Service Providers:  Wix has partnered with a number of selected service providers, whose services and solutions complement, facilitate and enhance our own. These include hosting and server co-location services, communications and content delivery networks (CDNs), data and cyber security services, billing and payment processing services, domain name registrars, fraud detection and prevention services, web analytics, e-mail distribution and monitoring services, session recording and remote access services, performance measurement, data optimization and marketing services, content providers, and our legal and financial advisors (collectively, “Third Party Service Provider(s)”). 
+Third Party Service Providers:  Wix has partnered with a number of selected service providers, whose services and solutions complement, facilitate and enhance our own. These include hosting and server co-location services, communications and content delivery networks (CDNs), data and cyber security services, billing and payment processing services, domain name registrars, fraud detection and prevention services, web analytics, e-mail distribution and monitoring services, session recording and remote access services, performance measurement, data optimization and marketing services, content providers, and our legal and financial advisors (collectively, “Third Party Service Provider(s)”).   
+ 
 
-​
-
-Wix may share the following categories of Personal Information with Third Party Service Providers for a business purpose:
-
-* identifiers, including name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, or other similar identifiers.  
-     
-    
-* commercial Personal Information, for example Personal Information regarding products or services purchased, obtained, or considered.
-    
+In case that Wix shares personal data with a Third Party Service Provider that provides AI services, Wix will ensure that the Third Party Service Provider is under a contractual obligation not to use the data in order to train or improve its AI models.​
 
 4.1.
 
