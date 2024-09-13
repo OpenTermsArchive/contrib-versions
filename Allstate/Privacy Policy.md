@@ -1,7 +1,7 @@
 Allstate online _privacy statement_
 ===================================
 
-Effective: June 20, 2024
+Effective: September 6, 2024
 
 This Allstate Online Privacy Statement (“Privacy Statement”) describes the privacy practices of Allstate Insurance Company and the Allstate affiliated companies whose websites and mobile apps link to this Privacy Statement (“Allstate,” “we” “our” or “us”). This Privacy Statement explains the information we collect, why we collect it, how we use and share it, and the choices you can make regarding your information. More information about Allstate affiliates is in the Allstate Affiliates section at the end of this Privacy Statement.
 
@@ -88,7 +88,7 @@ We may also share any of the categories of personal information described above 
 * provide data analytics services or conduct research or actuarial studies, and
 * provide support to our operations.
 
-**Marketing and advertising partners:** We may share personal and other information with third party online and other marketing and advertising partners or permit these partners to collect personal information from you directly on our Sites to personalize online advertising. We may share personal information with other financial institutions or other companies with whom we have a joint marketing agreement. The [Online tracking technologies and advertising](#cookies) section below has more details about these activities.
+**Marketing and advertising providers:** We may share personal and other information with third party online and other marketing and advertising providers or permit these providers to collect personal information from you directly on our Sites to personalize online advertising. We may share personal information with other financial institutions or other companies with whom we have a joint marketing agreement. The [Online tracking technologies and advertising](#cookies) section below has more details about these activities. We obtain opt-in consent to send marketing-related text messages to consumers as required by law and do not sell or share this information with third parties except Allstate affiliates and service providers.
 
 **Third parties in connection with a business transaction:** Personal information may be disclosed to third parties in connection with a corporate transaction, such as a merger, sale of any or all of our company assets or shares, reorganization, financing, change of control or acquisition of all or a portion of our business by an affiliate or third party, or in the event of a bankruptcy or similar proceedings.
 
@@ -98,7 +98,7 @@ We may also share any of the categories of personal information described above 
 * protect our or others safety, rights or property, and
 * investigate fraud or to protect the security or integrity of our Sites or any product or services.
 
-Our service providers and third-party marketing and advertising partners include Adobe, Google and Microsoft. To learn about Adobe Analytics privacy practices or to opt-out of Adobe cookies, [visit Adobe Privacy Center](https://www.adobe.com/privacy.html). To learn more about Google’s privacy practices and to manage privacy controls, [visit Google Privacy Center](https://policies.google.com/privacy#infochoices). To access and use the Google Analytics Opt-out Browser Add-on, visit [Google Opt-out](https://tools.google.com/dlpage/gaoptout). To read more about Microsoft’s privacy practices, [visit the Microsoft Privacy Statement.](https://privacy.microsoft.com/en-us/privacystatement)
+Our service providers and third-party marketing and advertising providers include Adobe, Google and Microsoft. To learn about Adobe Analytics privacy practices or to opt-out of Adobe cookies, [visit Adobe Privacy Center](https://www.adobe.com/privacy.html). To learn more about Google’s privacy practices and to manage privacy controls, [visit Google Privacy Center](https://policies.google.com/privacy#infochoices). To access and use the Google Analytics Opt-out Browser Add-on, visit [Google Opt-out](https://tools.google.com/dlpage/gaoptout). To read more about Microsoft’s privacy practices, [visit the Microsoft Privacy Statement.](https://privacy.microsoft.com/en-us/privacystatement)
 
 How long we keep your information
 ---------------------------------
