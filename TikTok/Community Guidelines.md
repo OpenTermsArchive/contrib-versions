@@ -1,1163 +1,455 @@
-Youth Safety and Well-Being
----------------------------
+Community Guidelines
+====================
+
+Overview
+--------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We are deeply committed to TikTok being a safe and positive experience for people under the age of 18 (we refer to them as "youth" or "young people"). This starts by being old enough to use TikTok. **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions.
+TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
 
-In the United States, there is a separate [under-13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users) that offers additional safeguards, including restricting interactive features, content suitability assessments from [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home), and a dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy). If you create a new account in the United States with a birthdate that shows you are under the age of 13, you will automatically enter into this experience.
+We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
 
-If we learn someone is below the minimum age to have an account on TikTok, we will ban that account. If you believe you were incorrectly banned, you can [appeal](https://support.tiktok.com/en/safety-hc/account-and-user-safety/underage-appeals-on-tiktok) the decision. Anyone can report accounts that they suspect are under the minimum age, either [in-app](https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-user) or [online](https://www.tiktok.com/legal/report/privacy).
+To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
 
-We do not allow content that may put young people at risk of psychological, physical, or developmental harm. If we become aware an account holder has a [severe violation](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2024H1update#1) or has committed a sexual offense against a young person, we will ban the account, as well as any other accounts belonging to that person. We report incidents of youth sexual abuse and exploitation to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
+Thank you for helping to keep TikTok a welcoming space for everyone!
 
-To provide young people with an experience that is developmentally suitable and a safe space for self-exploration, we take several steps including:
+**Content Moderation**
 
-* Setting minimum age requirements for access to [certain product features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18), including being 16 years and older to have your content be eligible for the FYF
-* Using restrictive [default privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18)
-* Developing content levels to restrict content that may not be suitable for people under the age of 18, and providing you with content filtering options
+Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-You can learn more about TikTok's tools, controls, and educational content on our [Youth Portal](https://www.tiktok.com/safety/youth-portal?lang=en) and in our [Guardian’s Guide](https://www.tiktok.com/safety/guardians-guide/?lang=en).
+Remove content that we do not allow
 
-We allow a range of content on our platform, but some of it is only made available to adults. Here is a consolidated "quick guide" of content restricted from younger audiences.
+Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-RESTRICTED (18 years and older)
+Restrict content that is not suitable for youth
 
-**[Disordered Eating and Body Image](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#2)**
+We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-* Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including:
+Make ineligible for the FYF content that does not meet our recommendation standards
 
-* Restrictive low-calorie diets, such as extended intermittent fasting
-* Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use
-* Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week
+The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-* Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation
-* Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
-* Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
+Empower our community with information, tools, and resources
 
-**[Dangerous Activity and Challenges](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#3)**
+We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
 
-* Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
-* Showing activity that is likely to be imitated and may lead to any physical harm
+Community Guidelines
+====================
 
-**[Nudity and Body Exposure](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#2)**
-
-* Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks
-
-**[Sexually Suggestive Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#3)**
-
-* Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
-* Showing sex products
-
-**[Shocking and Graphic Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#4)**
-
-* Showing human or animal blood
-* Showing extreme physical fighting
-* Showing graphic or potentially distressing footage of events that are in the public interest to view, such as clashes with law enforcement or the aftermath of a bombing or natural disaster
-
-**[Gambling](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#1)**
-
-* Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
-
-**[Alcohol, Tobacco, and Drugs](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#2)**
-
-* Discussing drugs or other regulated substances (as long as the substances are not being used or shown)
-* Showing the consumption of excessive amounts of alcohol by adults
-* Promoting tobacco products
-* Showing the consumption of tobacco products by adults
-* Promoting alcohol products
-
-More information
-
-**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk.
-
-**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body.
-
-**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts.
-
-**Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
-
-**Intimate kissing** means kissing that may indicate sexual arousal or the beginning of a sexual interaction.
-
-**Sexualized framing** means content that intentionally emphasizes clothed intimate body parts through techniques, such as filming, editing, or positioning of the body in front of the camera.
-
-**Sexualized behavior** means behavior that is intended to be sexually arousing, including performances or repetitive body movements emphasizing intimate body parts, and imitating sexual acts.
-
-**Sex product** means an object or device that is designed to be used for sexual pleasure, such as a sex toy.
-
-**Gambling** is betting money (including digital currencies, such as bitcoin) or something of monetary value on an event with an uncertain outcome, for a financial gain.
-
-**Gambling-like activities** means activities that do not rise to the level of gambling, but are similar in behavior and carry similar risks, such as social casinos and gambling-related software.
-
-**Tobacco products** include vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other Electronic Nicotine Delivery Systems.
-
-**Regulated substances** include prescription drugs, over-the-counter drugs, compressed air canisters (whippets), and nitrite poppers.
-
-Youth Safety and Well-Being
----------------------------
+Overview
+--------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We are deeply committed to TikTok being a safe and positive experience for people under the age of 18 (we refer to them as "youth" or "young people"). This starts by being old enough to use TikTok. **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions.
+TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
 
-In the United States, there is a separate [under-13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users) that offers additional safeguards, including restricting interactive features, content suitability assessments from [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home), and a dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy). If you create a new account in the United States with a birthdate that shows you are under the age of 13, you will automatically enter into this experience.
+We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
 
-If we learn someone is below the minimum age to have an account on TikTok, we will ban that account. If you believe you were incorrectly banned, you can [appeal](https://support.tiktok.com/en/safety-hc/account-and-user-safety/underage-appeals-on-tiktok) the decision. Anyone can report accounts that they suspect are under the minimum age, either [in-app](https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-user) or [online](https://www.tiktok.com/legal/report/privacy).
+To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
 
-We do not allow content that may put young people at risk of psychological, physical, or developmental harm. If we become aware an account holder has a [severe violation](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2024H1update#1) or has committed a sexual offense against a young person, we will ban the account, as well as any other accounts belonging to that person. We report incidents of youth sexual abuse and exploitation to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
+Thank you for helping to keep TikTok a welcoming space for everyone!
 
-To provide young people with an experience that is developmentally suitable and a safe space for self-exploration, we take several steps including:
+**Content Moderation**
 
-* Setting minimum age requirements for access to [certain product features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18), including being 16 years and older to have your content be eligible for the FYF
-* Using restrictive [default privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18)
-* Developing content levels to restrict content that may not be suitable for people under the age of 18, and providing you with content filtering options
+Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-You can learn more about TikTok's tools, controls, and educational content on our [Youth Portal](https://www.tiktok.com/safety/youth-portal?lang=en) and in our [Guardian’s Guide](https://www.tiktok.com/safety/guardians-guide/?lang=en).
+Remove content that we do not allow
 
-We allow a range of content on our platform, but some of it is only made available to adults. Here is a consolidated "quick guide" of content restricted from younger audiences.
+Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-RESTRICTED (18 years and older)
+Restrict content that is not suitable for youth
 
-**[Disordered Eating and Body Image](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#2)**
+We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-* Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including:
+Make ineligible for the FYF content that does not meet our recommendation standards
 
-* Restrictive low-calorie diets, such as extended intermittent fasting
-* Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use
-* Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week
+The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-* Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation
-* Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
-* Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
+Empower our community with information, tools, and resources
 
-**[Dangerous Activity and Challenges](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#3)**
+We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
 
-* Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
-* Showing activity that is likely to be imitated and may lead to any physical harm
+Community Guidelines
+====================
 
-**[Nudity and Body Exposure](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#2)**
-
-* Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks
-
-**[Sexually Suggestive Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#3)**
-
-* Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
-* Showing sex products
-
-**[Shocking and Graphic Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#4)**
-
-* Showing human or animal blood
-* Showing extreme physical fighting
-* Showing graphic or potentially distressing footage of events that are in the public interest to view, such as clashes with law enforcement or the aftermath of a bombing or natural disaster
-
-**[Gambling](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#1)**
-
-* Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
-
-**[Alcohol, Tobacco, and Drugs](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#2)**
-
-* Discussing drugs or other regulated substances (as long as the substances are not being used or shown)
-* Showing the consumption of excessive amounts of alcohol by adults
-* Promoting tobacco products
-* Showing the consumption of tobacco products by adults
-* Promoting alcohol products
-
-More information
-
-**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk.
-
-**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body.
-
-**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts.
-
-**Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
-
-**Intimate kissing** means kissing that may indicate sexual arousal or the beginning of a sexual interaction.
-
-**Sexualized framing** means content that intentionally emphasizes clothed intimate body parts through techniques, such as filming, editing, or positioning of the body in front of the camera.
-
-**Sexualized behavior** means behavior that is intended to be sexually arousing, including performances or repetitive body movements emphasizing intimate body parts, and imitating sexual acts.
-
-**Sex product** means an object or device that is designed to be used for sexual pleasure, such as a sex toy.
-
-**Gambling** is betting money (including digital currencies, such as bitcoin) or something of monetary value on an event with an uncertain outcome, for a financial gain.
-
-**Gambling-like activities** means activities that do not rise to the level of gambling, but are similar in behavior and carry similar risks, such as social casinos and gambling-related software.
-
-**Tobacco products** include vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other Electronic Nicotine Delivery Systems.
-
-**Regulated substances** include prescription drugs, over-the-counter drugs, compressed air canisters (whippets), and nitrite poppers.
-
-Youth Safety and Well-Being
----------------------------
+Overview
+--------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We are deeply committed to TikTok being a safe and positive experience for people under the age of 18 (we refer to them as "youth" or "young people"). This starts by being old enough to use TikTok. **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions.
+TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
 
-In the United States, there is a separate [under-13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users) that offers additional safeguards, including restricting interactive features, content suitability assessments from [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home), and a dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy). If you create a new account in the United States with a birthdate that shows you are under the age of 13, you will automatically enter into this experience.
+We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
 
-If we learn someone is below the minimum age to have an account on TikTok, we will ban that account. If you believe you were incorrectly banned, you can [appeal](https://support.tiktok.com/en/safety-hc/account-and-user-safety/underage-appeals-on-tiktok) the decision. Anyone can report accounts that they suspect are under the minimum age, either [in-app](https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-user) or [online](https://www.tiktok.com/legal/report/privacy).
+To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
 
-We do not allow content that may put young people at risk of psychological, physical, or developmental harm. If we become aware an account holder has a [severe violation](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2024H1update#1) or has committed a sexual offense against a young person, we will ban the account, as well as any other accounts belonging to that person. We report incidents of youth sexual abuse and exploitation to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
+Thank you for helping to keep TikTok a welcoming space for everyone!
 
-To provide young people with an experience that is developmentally suitable and a safe space for self-exploration, we take several steps including:
+**Content Moderation**
 
-* Setting minimum age requirements for access to [certain product features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18), including being 16 years and older to have your content be eligible for the FYF
-* Using restrictive [default privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18)
-* Developing content levels to restrict content that may not be suitable for people under the age of 18, and providing you with content filtering options
+Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-You can learn more about TikTok's tools, controls, and educational content on our [Youth Portal](https://www.tiktok.com/safety/youth-portal?lang=en) and in our [Guardian’s Guide](https://www.tiktok.com/safety/guardians-guide/?lang=en).
+Remove content that we do not allow
 
-We allow a range of content on our platform, but some of it is only made available to adults. Here is a consolidated "quick guide" of content restricted from younger audiences.
+Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-RESTRICTED (18 years and older)
+Restrict content that is not suitable for youth
 
-**[Disordered Eating and Body Image](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#2)**
+We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-* Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including:
+Make ineligible for the FYF content that does not meet our recommendation standards
 
-* Restrictive low-calorie diets, such as extended intermittent fasting
-* Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use
-* Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week
+The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-* Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation
-* Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
-* Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
+Empower our community with information, tools, and resources
 
-**[Dangerous Activity and Challenges](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#3)**
+We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
 
-* Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
-* Showing activity that is likely to be imitated and may lead to any physical harm
+Community Guidelines
+====================
 
-**[Nudity and Body Exposure](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#2)**
-
-* Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks
-
-**[Sexually Suggestive Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#3)**
-
-* Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
-* Showing sex products
-
-**[Shocking and Graphic Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#4)**
-
-* Showing human or animal blood
-* Showing extreme physical fighting
-* Showing graphic or potentially distressing footage of events that are in the public interest to view, such as clashes with law enforcement or the aftermath of a bombing or natural disaster
-
-**[Gambling](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#1)**
-
-* Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
-
-**[Alcohol, Tobacco, and Drugs](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#2)**
-
-* Discussing drugs or other regulated substances (as long as the substances are not being used or shown)
-* Showing the consumption of excessive amounts of alcohol by adults
-* Promoting tobacco products
-* Showing the consumption of tobacco products by adults
-* Promoting alcohol products
-
-More information
-
-**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk.
-
-**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body.
-
-**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts.
-
-**Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
-
-**Intimate kissing** means kissing that may indicate sexual arousal or the beginning of a sexual interaction.
-
-**Sexualized framing** means content that intentionally emphasizes clothed intimate body parts through techniques, such as filming, editing, or positioning of the body in front of the camera.
-
-**Sexualized behavior** means behavior that is intended to be sexually arousing, including performances or repetitive body movements emphasizing intimate body parts, and imitating sexual acts.
-
-**Sex product** means an object or device that is designed to be used for sexual pleasure, such as a sex toy.
-
-**Gambling** is betting money (including digital currencies, such as bitcoin) or something of monetary value on an event with an uncertain outcome, for a financial gain.
-
-**Gambling-like activities** means activities that do not rise to the level of gambling, but are similar in behavior and carry similar risks, such as social casinos and gambling-related software.
-
-**Tobacco products** include vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other Electronic Nicotine Delivery Systems.
-
-**Regulated substances** include prescription drugs, over-the-counter drugs, compressed air canisters (whippets), and nitrite poppers.
-
-Youth Safety and Well-Being
----------------------------
+Overview
+--------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We are deeply committed to TikTok being a safe and positive experience for people under the age of 18 (we refer to them as "youth" or "young people"). This starts by being old enough to use TikTok. **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions.
+TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
 
-In the United States, there is a separate [under-13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users) that offers additional safeguards, including restricting interactive features, content suitability assessments from [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home), and a dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy). If you create a new account in the United States with a birthdate that shows you are under the age of 13, you will automatically enter into this experience.
+We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
 
-If we learn someone is below the minimum age to have an account on TikTok, we will ban that account. If you believe you were incorrectly banned, you can [appeal](https://support.tiktok.com/en/safety-hc/account-and-user-safety/underage-appeals-on-tiktok) the decision. Anyone can report accounts that they suspect are under the minimum age, either [in-app](https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-user) or [online](https://www.tiktok.com/legal/report/privacy).
+To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
 
-We do not allow content that may put young people at risk of psychological, physical, or developmental harm. If we become aware an account holder has a [severe violation](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2024H1update#1) or has committed a sexual offense against a young person, we will ban the account, as well as any other accounts belonging to that person. We report incidents of youth sexual abuse and exploitation to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
+Thank you for helping to keep TikTok a welcoming space for everyone!
 
-To provide young people with an experience that is developmentally suitable and a safe space for self-exploration, we take several steps including:
+**Content Moderation**
 
-* Setting minimum age requirements for access to [certain product features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18), including being 16 years and older to have your content be eligible for the FYF
-* Using restrictive [default privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18)
-* Developing content levels to restrict content that may not be suitable for people under the age of 18, and providing you with content filtering options
+Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-You can learn more about TikTok's tools, controls, and educational content on our [Youth Portal](https://www.tiktok.com/safety/youth-portal?lang=en) and in our [Guardian’s Guide](https://www.tiktok.com/safety/guardians-guide/?lang=en).
+Remove content that we do not allow
 
-We allow a range of content on our platform, but some of it is only made available to adults. Here is a consolidated "quick guide" of content restricted from younger audiences.
+Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-RESTRICTED (18 years and older)
+Restrict content that is not suitable for youth
 
-**[Disordered Eating and Body Image](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#2)**
+We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-* Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including:
+Make ineligible for the FYF content that does not meet our recommendation standards
 
-* Restrictive low-calorie diets, such as extended intermittent fasting
-* Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use
-* Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week
+The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-* Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation
-* Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
-* Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
+Empower our community with information, tools, and resources
 
-**[Dangerous Activity and Challenges](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#3)**
+We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
 
-* Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
-* Showing activity that is likely to be imitated and may lead to any physical harm
+Community Guidelines
+====================
 
-**[Nudity and Body Exposure](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#2)**
-
-* Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks
-
-**[Sexually Suggestive Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#3)**
-
-* Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
-* Showing sex products
-
-**[Shocking and Graphic Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#4)**
-
-* Showing human or animal blood
-* Showing extreme physical fighting
-* Showing graphic or potentially distressing footage of events that are in the public interest to view, such as clashes with law enforcement or the aftermath of a bombing or natural disaster
-
-**[Gambling](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#1)**
-
-* Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
-
-**[Alcohol, Tobacco, and Drugs](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#2)**
-
-* Discussing drugs or other regulated substances (as long as the substances are not being used or shown)
-* Showing the consumption of excessive amounts of alcohol by adults
-* Promoting tobacco products
-* Showing the consumption of tobacco products by adults
-* Promoting alcohol products
-
-More information
-
-**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk.
-
-**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body.
-
-**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts.
-
-**Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
-
-**Intimate kissing** means kissing that may indicate sexual arousal or the beginning of a sexual interaction.
-
-**Sexualized framing** means content that intentionally emphasizes clothed intimate body parts through techniques, such as filming, editing, or positioning of the body in front of the camera.
-
-**Sexualized behavior** means behavior that is intended to be sexually arousing, including performances or repetitive body movements emphasizing intimate body parts, and imitating sexual acts.
-
-**Sex product** means an object or device that is designed to be used for sexual pleasure, such as a sex toy.
-
-**Gambling** is betting money (including digital currencies, such as bitcoin) or something of monetary value on an event with an uncertain outcome, for a financial gain.
-
-**Gambling-like activities** means activities that do not rise to the level of gambling, but are similar in behavior and carry similar risks, such as social casinos and gambling-related software.
-
-**Tobacco products** include vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other Electronic Nicotine Delivery Systems.
-
-**Regulated substances** include prescription drugs, over-the-counter drugs, compressed air canisters (whippets), and nitrite poppers.
-
-Youth Safety and Well-Being
----------------------------
+Overview
+--------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We are deeply committed to TikTok being a safe and positive experience for people under the age of 18 (we refer to them as "youth" or "young people"). This starts by being old enough to use TikTok. **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions.
+TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
 
-In the United States, there is a separate [under-13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users) that offers additional safeguards, including restricting interactive features, content suitability assessments from [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home), and a dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy). If you create a new account in the United States with a birthdate that shows you are under the age of 13, you will automatically enter into this experience.
+We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
 
-If we learn someone is below the minimum age to have an account on TikTok, we will ban that account. If you believe you were incorrectly banned, you can [appeal](https://support.tiktok.com/en/safety-hc/account-and-user-safety/underage-appeals-on-tiktok) the decision. Anyone can report accounts that they suspect are under the minimum age, either [in-app](https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-user) or [online](https://www.tiktok.com/legal/report/privacy).
+To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
 
-We do not allow content that may put young people at risk of psychological, physical, or developmental harm. If we become aware an account holder has a [severe violation](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2024H1update#1) or has committed a sexual offense against a young person, we will ban the account, as well as any other accounts belonging to that person. We report incidents of youth sexual abuse and exploitation to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
+Thank you for helping to keep TikTok a welcoming space for everyone!
 
-To provide young people with an experience that is developmentally suitable and a safe space for self-exploration, we take several steps including:
+**Content Moderation**
 
-* Setting minimum age requirements for access to [certain product features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18), including being 16 years and older to have your content be eligible for the FYF
-* Using restrictive [default privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18)
-* Developing content levels to restrict content that may not be suitable for people under the age of 18, and providing you with content filtering options
+Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-You can learn more about TikTok's tools, controls, and educational content on our [Youth Portal](https://www.tiktok.com/safety/youth-portal?lang=en) and in our [Guardian’s Guide](https://www.tiktok.com/safety/guardians-guide/?lang=en).
+Remove content that we do not allow
 
-We allow a range of content on our platform, but some of it is only made available to adults. Here is a consolidated "quick guide" of content restricted from younger audiences.
+Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-RESTRICTED (18 years and older)
+Restrict content that is not suitable for youth
 
-**[Disordered Eating and Body Image](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#2)**
+We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-* Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including:
+Make ineligible for the FYF content that does not meet our recommendation standards
 
-* Restrictive low-calorie diets, such as extended intermittent fasting
-* Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use
-* Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week
+The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-* Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation
-* Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
-* Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
+Empower our community with information, tools, and resources
 
-**[Dangerous Activity and Challenges](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#3)**
+We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
 
-* Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
-* Showing activity that is likely to be imitated and may lead to any physical harm
+Community Guidelines
+====================
 
-**[Nudity and Body Exposure](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#2)**
-
-* Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks
-
-**[Sexually Suggestive Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#3)**
-
-* Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
-* Showing sex products
-
-**[Shocking and Graphic Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#4)**
-
-* Showing human or animal blood
-* Showing extreme physical fighting
-* Showing graphic or potentially distressing footage of events that are in the public interest to view, such as clashes with law enforcement or the aftermath of a bombing or natural disaster
-
-**[Gambling](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#1)**
-
-* Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
-
-**[Alcohol, Tobacco, and Drugs](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#2)**
-
-* Discussing drugs or other regulated substances (as long as the substances are not being used or shown)
-* Showing the consumption of excessive amounts of alcohol by adults
-* Promoting tobacco products
-* Showing the consumption of tobacco products by adults
-* Promoting alcohol products
-
-More information
-
-**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk.
-
-**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body.
-
-**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts.
-
-**Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
-
-**Intimate kissing** means kissing that may indicate sexual arousal or the beginning of a sexual interaction.
-
-**Sexualized framing** means content that intentionally emphasizes clothed intimate body parts through techniques, such as filming, editing, or positioning of the body in front of the camera.
-
-**Sexualized behavior** means behavior that is intended to be sexually arousing, including performances or repetitive body movements emphasizing intimate body parts, and imitating sexual acts.
-
-**Sex product** means an object or device that is designed to be used for sexual pleasure, such as a sex toy.
-
-**Gambling** is betting money (including digital currencies, such as bitcoin) or something of monetary value on an event with an uncertain outcome, for a financial gain.
-
-**Gambling-like activities** means activities that do not rise to the level of gambling, but are similar in behavior and carry similar risks, such as social casinos and gambling-related software.
-
-**Tobacco products** include vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other Electronic Nicotine Delivery Systems.
-
-**Regulated substances** include prescription drugs, over-the-counter drugs, compressed air canisters (whippets), and nitrite poppers.
-
-Youth Safety and Well-Being
----------------------------
+Overview
+--------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We are deeply committed to TikTok being a safe and positive experience for people under the age of 18 (we refer to them as "youth" or "young people"). This starts by being old enough to use TikTok. **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions.
+TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
 
-In the United States, there is a separate [under-13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users) that offers additional safeguards, including restricting interactive features, content suitability assessments from [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home), and a dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy). If you create a new account in the United States with a birthdate that shows you are under the age of 13, you will automatically enter into this experience.
+We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
 
-If we learn someone is below the minimum age to have an account on TikTok, we will ban that account. If you believe you were incorrectly banned, you can [appeal](https://support.tiktok.com/en/safety-hc/account-and-user-safety/underage-appeals-on-tiktok) the decision. Anyone can report accounts that they suspect are under the minimum age, either [in-app](https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-user) or [online](https://www.tiktok.com/legal/report/privacy).
+To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
 
-We do not allow content that may put young people at risk of psychological, physical, or developmental harm. If we become aware an account holder has a [severe violation](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2024H1update#1) or has committed a sexual offense against a young person, we will ban the account, as well as any other accounts belonging to that person. We report incidents of youth sexual abuse and exploitation to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
+Thank you for helping to keep TikTok a welcoming space for everyone!
 
-To provide young people with an experience that is developmentally suitable and a safe space for self-exploration, we take several steps including:
+**Content Moderation**
 
-* Setting minimum age requirements for access to [certain product features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18), including being 16 years and older to have your content be eligible for the FYF
-* Using restrictive [default privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18)
-* Developing content levels to restrict content that may not be suitable for people under the age of 18, and providing you with content filtering options
+Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-You can learn more about TikTok's tools, controls, and educational content on our [Youth Portal](https://www.tiktok.com/safety/youth-portal?lang=en) and in our [Guardian’s Guide](https://www.tiktok.com/safety/guardians-guide/?lang=en).
+Remove content that we do not allow
 
-We allow a range of content on our platform, but some of it is only made available to adults. Here is a consolidated "quick guide" of content restricted from younger audiences.
+Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-RESTRICTED (18 years and older)
+Restrict content that is not suitable for youth
 
-**[Disordered Eating and Body Image](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#2)**
+We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-* Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including:
+Make ineligible for the FYF content that does not meet our recommendation standards
 
-* Restrictive low-calorie diets, such as extended intermittent fasting
-* Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use
-* Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week
+The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-* Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation
-* Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
-* Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
+Empower our community with information, tools, and resources
 
-**[Dangerous Activity and Challenges](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#3)**
+We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
 
-* Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
-* Showing activity that is likely to be imitated and may lead to any physical harm
+Community Guidelines
+====================
 
-**[Nudity and Body Exposure](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#2)**
-
-* Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks
-
-**[Sexually Suggestive Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#3)**
-
-* Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
-* Showing sex products
-
-**[Shocking and Graphic Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#4)**
-
-* Showing human or animal blood
-* Showing extreme physical fighting
-* Showing graphic or potentially distressing footage of events that are in the public interest to view, such as clashes with law enforcement or the aftermath of a bombing or natural disaster
-
-**[Gambling](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#1)**
-
-* Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
-
-**[Alcohol, Tobacco, and Drugs](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#2)**
-
-* Discussing drugs or other regulated substances (as long as the substances are not being used or shown)
-* Showing the consumption of excessive amounts of alcohol by adults
-* Promoting tobacco products
-* Showing the consumption of tobacco products by adults
-* Promoting alcohol products
-
-More information
-
-**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk.
-
-**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body.
-
-**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts.
-
-**Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
-
-**Intimate kissing** means kissing that may indicate sexual arousal or the beginning of a sexual interaction.
-
-**Sexualized framing** means content that intentionally emphasizes clothed intimate body parts through techniques, such as filming, editing, or positioning of the body in front of the camera.
-
-**Sexualized behavior** means behavior that is intended to be sexually arousing, including performances or repetitive body movements emphasizing intimate body parts, and imitating sexual acts.
-
-**Sex product** means an object or device that is designed to be used for sexual pleasure, such as a sex toy.
-
-**Gambling** is betting money (including digital currencies, such as bitcoin) or something of monetary value on an event with an uncertain outcome, for a financial gain.
-
-**Gambling-like activities** means activities that do not rise to the level of gambling, but are similar in behavior and carry similar risks, such as social casinos and gambling-related software.
-
-**Tobacco products** include vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other Electronic Nicotine Delivery Systems.
-
-**Regulated substances** include prescription drugs, over-the-counter drugs, compressed air canisters (whippets), and nitrite poppers.
-
-Youth Safety and Well-Being
----------------------------
+Overview
+--------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We are deeply committed to TikTok being a safe and positive experience for people under the age of 18 (we refer to them as "youth" or "young people"). This starts by being old enough to use TikTok. **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions.
+TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
 
-In the United States, there is a separate [under-13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users) that offers additional safeguards, including restricting interactive features, content suitability assessments from [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home), and a dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy). If you create a new account in the United States with a birthdate that shows you are under the age of 13, you will automatically enter into this experience.
+We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
 
-If we learn someone is below the minimum age to have an account on TikTok, we will ban that account. If you believe you were incorrectly banned, you can [appeal](https://support.tiktok.com/en/safety-hc/account-and-user-safety/underage-appeals-on-tiktok) the decision. Anyone can report accounts that they suspect are under the minimum age, either [in-app](https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-user) or [online](https://www.tiktok.com/legal/report/privacy).
+To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
 
-We do not allow content that may put young people at risk of psychological, physical, or developmental harm. If we become aware an account holder has a [severe violation](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2024H1update#1) or has committed a sexual offense against a young person, we will ban the account, as well as any other accounts belonging to that person. We report incidents of youth sexual abuse and exploitation to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
+Thank you for helping to keep TikTok a welcoming space for everyone!
 
-To provide young people with an experience that is developmentally suitable and a safe space for self-exploration, we take several steps including:
+**Content Moderation**
 
-* Setting minimum age requirements for access to [certain product features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18), including being 16 years and older to have your content be eligible for the FYF
-* Using restrictive [default privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18)
-* Developing content levels to restrict content that may not be suitable for people under the age of 18, and providing you with content filtering options
+Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-You can learn more about TikTok's tools, controls, and educational content on our [Youth Portal](https://www.tiktok.com/safety/youth-portal?lang=en) and in our [Guardian’s Guide](https://www.tiktok.com/safety/guardians-guide/?lang=en).
+Remove content that we do not allow
 
-We allow a range of content on our platform, but some of it is only made available to adults. Here is a consolidated "quick guide" of content restricted from younger audiences.
+Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-RESTRICTED (18 years and older)
+Restrict content that is not suitable for youth
 
-**[Disordered Eating and Body Image](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#2)**
+We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-* Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including:
+Make ineligible for the FYF content that does not meet our recommendation standards
 
-* Restrictive low-calorie diets, such as extended intermittent fasting
-* Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use
-* Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week
+The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-* Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation
-* Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
-* Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
+Empower our community with information, tools, and resources
 
-**[Dangerous Activity and Challenges](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#3)**
+We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
 
-* Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
-* Showing activity that is likely to be imitated and may lead to any physical harm
+Community Guidelines
+====================
 
-**[Nudity and Body Exposure](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#2)**
-
-* Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks
-
-**[Sexually Suggestive Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#3)**
-
-* Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
-* Showing sex products
-
-**[Shocking and Graphic Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#4)**
-
-* Showing human or animal blood
-* Showing extreme physical fighting
-* Showing graphic or potentially distressing footage of events that are in the public interest to view, such as clashes with law enforcement or the aftermath of a bombing or natural disaster
-
-**[Gambling](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#1)**
-
-* Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
-
-**[Alcohol, Tobacco, and Drugs](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#2)**
-
-* Discussing drugs or other regulated substances (as long as the substances are not being used or shown)
-* Showing the consumption of excessive amounts of alcohol by adults
-* Promoting tobacco products
-* Showing the consumption of tobacco products by adults
-* Promoting alcohol products
-
-More information
-
-**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk.
-
-**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body.
-
-**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts.
-
-**Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
-
-**Intimate kissing** means kissing that may indicate sexual arousal or the beginning of a sexual interaction.
-
-**Sexualized framing** means content that intentionally emphasizes clothed intimate body parts through techniques, such as filming, editing, or positioning of the body in front of the camera.
-
-**Sexualized behavior** means behavior that is intended to be sexually arousing, including performances or repetitive body movements emphasizing intimate body parts, and imitating sexual acts.
-
-**Sex product** means an object or device that is designed to be used for sexual pleasure, such as a sex toy.
-
-**Gambling** is betting money (including digital currencies, such as bitcoin) or something of monetary value on an event with an uncertain outcome, for a financial gain.
-
-**Gambling-like activities** means activities that do not rise to the level of gambling, but are similar in behavior and carry similar risks, such as social casinos and gambling-related software.
-
-**Tobacco products** include vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other Electronic Nicotine Delivery Systems.
-
-**Regulated substances** include prescription drugs, over-the-counter drugs, compressed air canisters (whippets), and nitrite poppers.
-
-Youth Safety and Well-Being
----------------------------
+Overview
+--------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We are deeply committed to TikTok being a safe and positive experience for people under the age of 18 (we refer to them as "youth" or "young people"). This starts by being old enough to use TikTok. **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions.
+TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
 
-In the United States, there is a separate [under-13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users) that offers additional safeguards, including restricting interactive features, content suitability assessments from [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home), and a dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy). If you create a new account in the United States with a birthdate that shows you are under the age of 13, you will automatically enter into this experience.
+We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
 
-If we learn someone is below the minimum age to have an account on TikTok, we will ban that account. If you believe you were incorrectly banned, you can [appeal](https://support.tiktok.com/en/safety-hc/account-and-user-safety/underage-appeals-on-tiktok) the decision. Anyone can report accounts that they suspect are under the minimum age, either [in-app](https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-user) or [online](https://www.tiktok.com/legal/report/privacy).
+To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
 
-We do not allow content that may put young people at risk of psychological, physical, or developmental harm. If we become aware an account holder has a [severe violation](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2024H1update#1) or has committed a sexual offense against a young person, we will ban the account, as well as any other accounts belonging to that person. We report incidents of youth sexual abuse and exploitation to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
+Thank you for helping to keep TikTok a welcoming space for everyone!
 
-To provide young people with an experience that is developmentally suitable and a safe space for self-exploration, we take several steps including:
+**Content Moderation**
 
-* Setting minimum age requirements for access to [certain product features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18), including being 16 years and older to have your content be eligible for the FYF
-* Using restrictive [default privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18)
-* Developing content levels to restrict content that may not be suitable for people under the age of 18, and providing you with content filtering options
+Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-You can learn more about TikTok's tools, controls, and educational content on our [Youth Portal](https://www.tiktok.com/safety/youth-portal?lang=en) and in our [Guardian’s Guide](https://www.tiktok.com/safety/guardians-guide/?lang=en).
+Remove content that we do not allow
 
-We allow a range of content on our platform, but some of it is only made available to adults. Here is a consolidated "quick guide" of content restricted from younger audiences.
+Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-RESTRICTED (18 years and older)
+Restrict content that is not suitable for youth
 
-**[Disordered Eating and Body Image](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#2)**
+We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-* Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including:
+Make ineligible for the FYF content that does not meet our recommendation standards
 
-* Restrictive low-calorie diets, such as extended intermittent fasting
-* Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use
-* Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week
+The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-* Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation
-* Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
-* Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
+Empower our community with information, tools, and resources
 
-**[Dangerous Activity and Challenges](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#3)**
+We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
 
-* Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
-* Showing activity that is likely to be imitated and may lead to any physical harm
+Community Guidelines
+====================
 
-**[Nudity and Body Exposure](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#2)**
-
-* Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks
-
-**[Sexually Suggestive Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#3)**
-
-* Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
-* Showing sex products
-
-**[Shocking and Graphic Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#4)**
-
-* Showing human or animal blood
-* Showing extreme physical fighting
-* Showing graphic or potentially distressing footage of events that are in the public interest to view, such as clashes with law enforcement or the aftermath of a bombing or natural disaster
-
-**[Gambling](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#1)**
-
-* Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
-
-**[Alcohol, Tobacco, and Drugs](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#2)**
-
-* Discussing drugs or other regulated substances (as long as the substances are not being used or shown)
-* Showing the consumption of excessive amounts of alcohol by adults
-* Promoting tobacco products
-* Showing the consumption of tobacco products by adults
-* Promoting alcohol products
-
-More information
-
-**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk.
-
-**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body.
-
-**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts.
-
-**Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
-
-**Intimate kissing** means kissing that may indicate sexual arousal or the beginning of a sexual interaction.
-
-**Sexualized framing** means content that intentionally emphasizes clothed intimate body parts through techniques, such as filming, editing, or positioning of the body in front of the camera.
-
-**Sexualized behavior** means behavior that is intended to be sexually arousing, including performances or repetitive body movements emphasizing intimate body parts, and imitating sexual acts.
-
-**Sex product** means an object or device that is designed to be used for sexual pleasure, such as a sex toy.
-
-**Gambling** is betting money (including digital currencies, such as bitcoin) or something of monetary value on an event with an uncertain outcome, for a financial gain.
-
-**Gambling-like activities** means activities that do not rise to the level of gambling, but are similar in behavior and carry similar risks, such as social casinos and gambling-related software.
-
-**Tobacco products** include vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other Electronic Nicotine Delivery Systems.
-
-**Regulated substances** include prescription drugs, over-the-counter drugs, compressed air canisters (whippets), and nitrite poppers.
-
-Youth Safety and Well-Being
----------------------------
+Overview
+--------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We are deeply committed to TikTok being a safe and positive experience for people under the age of 18 (we refer to them as "youth" or "young people"). This starts by being old enough to use TikTok. **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions.
+TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
 
-In the United States, there is a separate [under-13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users) that offers additional safeguards, including restricting interactive features, content suitability assessments from [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home), and a dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy). If you create a new account in the United States with a birthdate that shows you are under the age of 13, you will automatically enter into this experience.
+We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
 
-If we learn someone is below the minimum age to have an account on TikTok, we will ban that account. If you believe you were incorrectly banned, you can [appeal](https://support.tiktok.com/en/safety-hc/account-and-user-safety/underage-appeals-on-tiktok) the decision. Anyone can report accounts that they suspect are under the minimum age, either [in-app](https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-user) or [online](https://www.tiktok.com/legal/report/privacy).
+To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
 
-We do not allow content that may put young people at risk of psychological, physical, or developmental harm. If we become aware an account holder has a [severe violation](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2024H1update#1) or has committed a sexual offense against a young person, we will ban the account, as well as any other accounts belonging to that person. We report incidents of youth sexual abuse and exploitation to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
+Thank you for helping to keep TikTok a welcoming space for everyone!
 
-To provide young people with an experience that is developmentally suitable and a safe space for self-exploration, we take several steps including:
+**Content Moderation**
 
-* Setting minimum age requirements for access to [certain product features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18), including being 16 years and older to have your content be eligible for the FYF
-* Using restrictive [default privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18)
-* Developing content levels to restrict content that may not be suitable for people under the age of 18, and providing you with content filtering options
+Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-You can learn more about TikTok's tools, controls, and educational content on our [Youth Portal](https://www.tiktok.com/safety/youth-portal?lang=en) and in our [Guardian’s Guide](https://www.tiktok.com/safety/guardians-guide/?lang=en).
+Remove content that we do not allow
 
-We allow a range of content on our platform, but some of it is only made available to adults. Here is a consolidated "quick guide" of content restricted from younger audiences.
+Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-RESTRICTED (18 years and older)
+Restrict content that is not suitable for youth
 
-**[Disordered Eating and Body Image](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#2)**
+We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-* Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including:
+Make ineligible for the FYF content that does not meet our recommendation standards
 
-* Restrictive low-calorie diets, such as extended intermittent fasting
-* Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use
-* Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week
+The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-* Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation
-* Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
-* Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
+Empower our community with information, tools, and resources
 
-**[Dangerous Activity and Challenges](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#3)**
+We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
 
-* Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
-* Showing activity that is likely to be imitated and may lead to any physical harm
+Community Guidelines
+====================
 
-**[Nudity and Body Exposure](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#2)**
-
-* Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks
-
-**[Sexually Suggestive Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#3)**
-
-* Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
-* Showing sex products
-
-**[Shocking and Graphic Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#4)**
-
-* Showing human or animal blood
-* Showing extreme physical fighting
-* Showing graphic or potentially distressing footage of events that are in the public interest to view, such as clashes with law enforcement or the aftermath of a bombing or natural disaster
-
-**[Gambling](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#1)**
-
-* Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
-
-**[Alcohol, Tobacco, and Drugs](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#2)**
-
-* Discussing drugs or other regulated substances (as long as the substances are not being used or shown)
-* Showing the consumption of excessive amounts of alcohol by adults
-* Promoting tobacco products
-* Showing the consumption of tobacco products by adults
-* Promoting alcohol products
-
-More information
-
-**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk.
-
-**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body.
-
-**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts.
-
-**Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
-
-**Intimate kissing** means kissing that may indicate sexual arousal or the beginning of a sexual interaction.
-
-**Sexualized framing** means content that intentionally emphasizes clothed intimate body parts through techniques, such as filming, editing, or positioning of the body in front of the camera.
-
-**Sexualized behavior** means behavior that is intended to be sexually arousing, including performances or repetitive body movements emphasizing intimate body parts, and imitating sexual acts.
-
-**Sex product** means an object or device that is designed to be used for sexual pleasure, such as a sex toy.
-
-**Gambling** is betting money (including digital currencies, such as bitcoin) or something of monetary value on an event with an uncertain outcome, for a financial gain.
-
-**Gambling-like activities** means activities that do not rise to the level of gambling, but are similar in behavior and carry similar risks, such as social casinos and gambling-related software.
-
-**Tobacco products** include vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other Electronic Nicotine Delivery Systems.
-
-**Regulated substances** include prescription drugs, over-the-counter drugs, compressed air canisters (whippets), and nitrite poppers.
-
-Youth Safety and Well-Being
----------------------------
+Overview
+--------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We are deeply committed to TikTok being a safe and positive experience for people under the age of 18 (we refer to them as "youth" or "young people"). This starts by being old enough to use TikTok. **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions.
+TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
 
-In the United States, there is a separate [under-13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users) that offers additional safeguards, including restricting interactive features, content suitability assessments from [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home), and a dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy). If you create a new account in the United States with a birthdate that shows you are under the age of 13, you will automatically enter into this experience.
+We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
 
-If we learn someone is below the minimum age to have an account on TikTok, we will ban that account. If you believe you were incorrectly banned, you can [appeal](https://support.tiktok.com/en/safety-hc/account-and-user-safety/underage-appeals-on-tiktok) the decision. Anyone can report accounts that they suspect are under the minimum age, either [in-app](https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-user) or [online](https://www.tiktok.com/legal/report/privacy).
+To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
 
-We do not allow content that may put young people at risk of psychological, physical, or developmental harm. If we become aware an account holder has a [severe violation](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2024H1update#1) or has committed a sexual offense against a young person, we will ban the account, as well as any other accounts belonging to that person. We report incidents of youth sexual abuse and exploitation to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
+Thank you for helping to keep TikTok a welcoming space for everyone!
 
-To provide young people with an experience that is developmentally suitable and a safe space for self-exploration, we take several steps including:
+**Content Moderation**
 
-* Setting minimum age requirements for access to [certain product features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18), including being 16 years and older to have your content be eligible for the FYF
-* Using restrictive [default privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18)
-* Developing content levels to restrict content that may not be suitable for people under the age of 18, and providing you with content filtering options
+Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-You can learn more about TikTok's tools, controls, and educational content on our [Youth Portal](https://www.tiktok.com/safety/youth-portal?lang=en) and in our [Guardian’s Guide](https://www.tiktok.com/safety/guardians-guide/?lang=en).
+Remove content that we do not allow
 
-We allow a range of content on our platform, but some of it is only made available to adults. Here is a consolidated "quick guide" of content restricted from younger audiences.
+Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-RESTRICTED (18 years and older)
+Restrict content that is not suitable for youth
 
-**[Disordered Eating and Body Image](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#2)**
+We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-* Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including:
+Make ineligible for the FYF content that does not meet our recommendation standards
 
-* Restrictive low-calorie diets, such as extended intermittent fasting
-* Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use
-* Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week
+The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-* Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation
-* Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
-* Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
+Empower our community with information, tools, and resources
 
-**[Dangerous Activity and Challenges](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#3)**
+We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
 
-* Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
-* Showing activity that is likely to be imitated and may lead to any physical harm
+Community Guidelines
+====================
 
-**[Nudity and Body Exposure](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#2)**
-
-* Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks
-
-**[Sexually Suggestive Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#3)**
-
-* Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
-* Showing sex products
-
-**[Shocking and Graphic Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#4)**
-
-* Showing human or animal blood
-* Showing extreme physical fighting
-* Showing graphic or potentially distressing footage of events that are in the public interest to view, such as clashes with law enforcement or the aftermath of a bombing or natural disaster
-
-**[Gambling](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#1)**
-
-* Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
-
-**[Alcohol, Tobacco, and Drugs](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#2)**
-
-* Discussing drugs or other regulated substances (as long as the substances are not being used or shown)
-* Showing the consumption of excessive amounts of alcohol by adults
-* Promoting tobacco products
-* Showing the consumption of tobacco products by adults
-* Promoting alcohol products
-
-More information
-
-**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk.
-
-**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body.
-
-**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts.
-
-**Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
-
-**Intimate kissing** means kissing that may indicate sexual arousal or the beginning of a sexual interaction.
-
-**Sexualized framing** means content that intentionally emphasizes clothed intimate body parts through techniques, such as filming, editing, or positioning of the body in front of the camera.
-
-**Sexualized behavior** means behavior that is intended to be sexually arousing, including performances or repetitive body movements emphasizing intimate body parts, and imitating sexual acts.
-
-**Sex product** means an object or device that is designed to be used for sexual pleasure, such as a sex toy.
-
-**Gambling** is betting money (including digital currencies, such as bitcoin) or something of monetary value on an event with an uncertain outcome, for a financial gain.
-
-**Gambling-like activities** means activities that do not rise to the level of gambling, but are similar in behavior and carry similar risks, such as social casinos and gambling-related software.
-
-**Tobacco products** include vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other Electronic Nicotine Delivery Systems.
-
-**Regulated substances** include prescription drugs, over-the-counter drugs, compressed air canisters (whippets), and nitrite poppers.
-
-Youth Safety and Well-Being
----------------------------
+Overview
+--------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We are deeply committed to TikTok being a safe and positive experience for people under the age of 18 (we refer to them as "youth" or "young people"). This starts by being old enough to use TikTok. **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions.
+TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
 
-In the United States, there is a separate [under-13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users) that offers additional safeguards, including restricting interactive features, content suitability assessments from [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home), and a dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy). If you create a new account in the United States with a birthdate that shows you are under the age of 13, you will automatically enter into this experience.
+We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
 
-If we learn someone is below the minimum age to have an account on TikTok, we will ban that account. If you believe you were incorrectly banned, you can [appeal](https://support.tiktok.com/en/safety-hc/account-and-user-safety/underage-appeals-on-tiktok) the decision. Anyone can report accounts that they suspect are under the minimum age, either [in-app](https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-user) or [online](https://www.tiktok.com/legal/report/privacy).
+To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
 
-We do not allow content that may put young people at risk of psychological, physical, or developmental harm. If we become aware an account holder has a [severe violation](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2024H1update#1) or has committed a sexual offense against a young person, we will ban the account, as well as any other accounts belonging to that person. We report incidents of youth sexual abuse and exploitation to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
+Thank you for helping to keep TikTok a welcoming space for everyone!
 
-To provide young people with an experience that is developmentally suitable and a safe space for self-exploration, we take several steps including:
+**Content Moderation**
 
-* Setting minimum age requirements for access to [certain product features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18), including being 16 years and older to have your content be eligible for the FYF
-* Using restrictive [default privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18)
-* Developing content levels to restrict content that may not be suitable for people under the age of 18, and providing you with content filtering options
+Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-You can learn more about TikTok's tools, controls, and educational content on our [Youth Portal](https://www.tiktok.com/safety/youth-portal?lang=en) and in our [Guardian’s Guide](https://www.tiktok.com/safety/guardians-guide/?lang=en).
+Remove content that we do not allow
 
-We allow a range of content on our platform, but some of it is only made available to adults. Here is a consolidated "quick guide" of content restricted from younger audiences.
+Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-RESTRICTED (18 years and older)
+Restrict content that is not suitable for youth
 
-**[Disordered Eating and Body Image](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#2)**
+We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-* Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including:
+Make ineligible for the FYF content that does not meet our recommendation standards
 
-* Restrictive low-calorie diets, such as extended intermittent fasting
-* Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use
-* Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week
+The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-* Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation
-* Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
-* Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
+Empower our community with information, tools, and resources
 
-**[Dangerous Activity and Challenges](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#3)**
+We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
 
-* Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
-* Showing activity that is likely to be imitated and may lead to any physical harm
+Community Guidelines
+====================
 
-**[Nudity and Body Exposure](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#2)**
-
-* Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks
-
-**[Sexually Suggestive Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#3)**
-
-* Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
-* Showing sex products
-
-**[Shocking and Graphic Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#4)**
-
-* Showing human or animal blood
-* Showing extreme physical fighting
-* Showing graphic or potentially distressing footage of events that are in the public interest to view, such as clashes with law enforcement or the aftermath of a bombing or natural disaster
-
-**[Gambling](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#1)**
-
-* Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
-
-**[Alcohol, Tobacco, and Drugs](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#2)**
-
-* Discussing drugs or other regulated substances (as long as the substances are not being used or shown)
-* Showing the consumption of excessive amounts of alcohol by adults
-* Promoting tobacco products
-* Showing the consumption of tobacco products by adults
-* Promoting alcohol products
-
-More information
-
-**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk.
-
-**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body.
-
-**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts.
-
-**Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
-
-**Intimate kissing** means kissing that may indicate sexual arousal or the beginning of a sexual interaction.
-
-**Sexualized framing** means content that intentionally emphasizes clothed intimate body parts through techniques, such as filming, editing, or positioning of the body in front of the camera.
-
-**Sexualized behavior** means behavior that is intended to be sexually arousing, including performances or repetitive body movements emphasizing intimate body parts, and imitating sexual acts.
-
-**Sex product** means an object or device that is designed to be used for sexual pleasure, such as a sex toy.
-
-**Gambling** is betting money (including digital currencies, such as bitcoin) or something of monetary value on an event with an uncertain outcome, for a financial gain.
-
-**Gambling-like activities** means activities that do not rise to the level of gambling, but are similar in behavior and carry similar risks, such as social casinos and gambling-related software.
-
-**Tobacco products** include vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other Electronic Nicotine Delivery Systems.
-
-**Regulated substances** include prescription drugs, over-the-counter drugs, compressed air canisters (whippets), and nitrite poppers.
-
-Youth Safety and Well-Being
----------------------------
+Overview
+--------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-We are deeply committed to TikTok being a safe and positive experience for people under the age of 18 (we refer to them as "youth" or "young people"). This starts by being old enough to use TikTok. **You must be 13 years and older to have an account.** There are additional age limitations based on local law in some regions.
+TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
 
-In the United States, there is a separate [under-13 TikTok experience](https://newsroom.tiktok.com/en-us/tiktok-for-younger-users) that offers additional safeguards, including restricting interactive features, content suitability assessments from [Common Sense Networks](https://www.sensical.tv/common-sense-networks/home), and a dedicated [Privacy Policy](https://www.tiktok.com/legal/childrens-privacy-policy). If you create a new account in the United States with a birthdate that shows you are under the age of 13, you will automatically enter into this experience.
+We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
 
-If we learn someone is below the minimum age to have an account on TikTok, we will ban that account. If you believe you were incorrectly banned, you can [appeal](https://support.tiktok.com/en/safety-hc/account-and-user-safety/underage-appeals-on-tiktok) the decision. Anyone can report accounts that they suspect are under the minimum age, either [in-app](https://support.tiktok.com/en/safety-hc/report-a-problem/report-a-user) or [online](https://www.tiktok.com/legal/report/privacy).
+To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
 
-We do not allow content that may put young people at risk of psychological, physical, or developmental harm. If we become aware an account holder has a [severe violation](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2024H1update#1) or has committed a sexual offense against a young person, we will ban the account, as well as any other accounts belonging to that person. We report incidents of youth sexual abuse and exploitation to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
+Thank you for helping to keep TikTok a welcoming space for everyone!
 
-To provide young people with an experience that is developmentally suitable and a safe space for self-exploration, we take several steps including:
+**Content Moderation**
 
-* Setting minimum age requirements for access to [certain product features](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18), including being 16 years and older to have your content be eligible for the FYF
-* Using restrictive [default privacy settings](https://support.tiktok.com/en/account-and-privacy/account-privacy-settings/privacy-and-safety-settings-for-users-under-age-18)
-* Developing content levels to restrict content that may not be suitable for people under the age of 18, and providing you with content filtering options
+Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
 
-You can learn more about TikTok's tools, controls, and educational content on our [Youth Portal](https://www.tiktok.com/safety/youth-portal?lang=en) and in our [Guardian’s Guide](https://www.tiktok.com/safety/guardians-guide/?lang=en).
+Remove content that we do not allow
 
-We allow a range of content on our platform, but some of it is only made available to adults. Here is a consolidated "quick guide" of content restricted from younger audiences.
+Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
 
-RESTRICTED (18 years and older)
+Restrict content that is not suitable for youth
 
-**[Disordered Eating and Body Image](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#2)**
+We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
 
-* Showing, describing, promoting, or offering or requesting coaching for potentially harmful weight management behaviors including:
+Make ineligible for the FYF content that does not meet our recommendation standards
 
-* Restrictive low-calorie diets, such as extended intermittent fasting
-* Using medication or supplements for weight loss or muscle gain, such as anabolic steroid use
-* Exercises designed for rapid and significant weight loss, such as cardio routines that promise to help you lose a waist size in a week
+The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
 
-* Promoting weight loss or muscle gain products, such as sharing a before-and-after transformation
-* Promoting body types as ideal or perfect, when associated with potentially harmful weight management behaviors
-* Showing or promoting cosmetic surgery that does not include risk warnings, including before-and-after images, videos of surgical procedures, and messages discussing elective cosmetic surgery
+Empower our community with information, tools, and resources
 
-**[Dangerous Activity and Challenges](https://www.tiktok.com/community-guidelines/en/mental-behavioral-health?lang=en&cgversion=2024H1update#3)**
-
-* Showing activity that involves visible or imminent moderate physical harm, or promoting activity that is likely to lead to moderate physical harm
-* Showing activity that is likely to be imitated and may lead to any physical harm
-
-**[Nudity and Body Exposure](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#2)**
-
-* Showing semi-nudity of adults, such as wearing only nipple covers or underwear that does not cover the majority of the buttocks
-
-**[Sexually Suggestive Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#3)**
-
-* Showing adults engaging in intimate kissing, sexualized framing, or sexualized behavior
-* Showing sex products
-
-**[Shocking and Graphic Content](https://www.tiktok.com/community-guidelines/en/sensitive-mature-themes?lang=en&cgversion=2024H1update#4)**
-
-* Showing human or animal blood
-* Showing extreme physical fighting
-* Showing graphic or potentially distressing footage of events that are in the public interest to view, such as clashes with law enforcement or the aftermath of a bombing or natural disaster
-
-**[Gambling](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#1)**
-
-* Showing or glamorizing gambling or gambling-like activities, such as filming someone gambling or making any general positive statements about gambling
-
-**[Alcohol, Tobacco, and Drugs](https://www.tiktok.com/community-guidelines/en/regulated-commercial-activities?lang=en&cgversion=2024H1update#2)**
-
-* Discussing drugs or other regulated substances (as long as the substances are not being used or shown)
-* Showing the consumption of excessive amounts of alcohol by adults
-* Promoting tobacco products
-* Showing the consumption of tobacco products by adults
-* Promoting alcohol products
-
-More information
-
-**Potentially harmful weight management** means diets, medication, or exercise used for rapid or drastic weight loss or muscle gain that may create a long-term health or well-being risk.
-
-**Moderate physical harm** is harm that is unlikely to require professional medical treatment and does not pose a risk of disability or disfigurement. This includes small cuts with minimal blood loss and minor bruising on the body.
-
-**Semi-nudity** means being mostly unclothed and close to (but not actually) nude, such as implied nudity or wearing clothes that minimally cover intimate body parts.
-
-**Intimate body parts** means genitalia, buttocks, and breasts (including nipple and areola).
-
-**Intimate kissing** means kissing that may indicate sexual arousal or the beginning of a sexual interaction.
-
-**Sexualized framing** means content that intentionally emphasizes clothed intimate body parts through techniques, such as filming, editing, or positioning of the body in front of the camera.
-
-**Sexualized behavior** means behavior that is intended to be sexually arousing, including performances or repetitive body movements emphasizing intimate body parts, and imitating sexual acts.
-
-**Sex product** means an object or device that is designed to be used for sexual pleasure, such as a sex toy.
-
-**Gambling** is betting money (including digital currencies, such as bitcoin) or something of monetary value on an event with an uncertain outcome, for a financial gain.
-
-**Gambling-like activities** means activities that do not rise to the level of gambling, but are similar in behavior and carry similar risks, such as social casinos and gambling-related software.
-
-**Tobacco products** include vaping products, smokeless or combustible tobacco products, synthetic nicotine products, E-cigarettes, and other Electronic Nicotine Delivery Systems.
-
-**Regulated substances** include prescription drugs, over-the-counter drugs, compressed air canisters (whippets), and nitrite poppers.
+We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
