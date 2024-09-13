@@ -9,9 +9,9 @@ Apps are changing the world, enriching people’s lives, and enabling developers
 
 The guiding principle of the App Store is simple—we want to provide a safe experience for users to get apps and a great opportunity for all developers to be successful. We do this by offering a highly curated App Store where every app is reviewed by experts and an editorial team helps users discover new apps every day. We also scan each app for malware and other software that may impact user safety, security, and privacy. These efforts have made Apple’s platforms the safest for consumers around the world.
 
-In the European Union, developers can also distribute notarized iOS apps from alternative app marketplaces. Learn more about [alternative app marketplaces](https://developer.apple.com/support/dma-and-apps-in-the-eu/) and [Notarization for iOS apps](https://developer.apple.com/support/dma-and-apps-in-the-eu/#notarization-for-ios-apps). You can see which guidelines apply to Notarization for iOS apps by clicking on “Show Notarization Review Guidelines Only” in the menu to the left.
+In the European Union, developers can also distribute notarized iOS and iPadOS apps from alternative app marketplaces and directly from their website. Learn more about [alternative app marketplaces](https://developer.apple.com/help/app-store-connect/distributing-apps-in-the-european-union/manage-distribution-on-an-alternative-app-marketplace), [Web Distribution](https://developer.apple.com/support/web-distribution-eu/), and [Notarization for iOS and iPadOS apps](https://developer.apple.com/support/dma-and-apps-in-the-eu/#notarization-for-ios-apps). You can see which guidelines apply to Notarization for iOS and iPadOS apps by clicking on “Show Notarization Review Guidelines Only” in the menu to the left.
 
-For everything else there is always the open Internet. If the App Store model and guidelines or alternative app marketplaces and Notarization for iOS apps are not best for your app or business idea that’s okay, we provide Safari for a great web experience too.
+For everything else there is always the open Internet. If the App Store model and guidelines or alternative app marketplaces and Notarization for iOS and iPadOS apps are not best for your app or business idea that’s okay, we provide Safari for a great web experience too.
 
 On the following pages you will find our latest guidelines arranged into five clear sections: Safety, Performance, Business, Design, and Legal. The App Store is always changing and improving to keep up with the needs of our customers and our products. Your apps should change and improve as well in order to stay on the App Store.
 
@@ -62,11 +62,11 @@ Make sure you:
 * [Add to Apple Wallet Guidelines](https://developer.apple.com/wallet/add-to-apple-wallet-guidelines/)
 * [Guidelines for Using Apple Trademarks and Copyrights](https://www.apple.com/legal/intellectual-property/guidelinesfor3rdparties.html)
 
-Guidelines that include ![ASR & NR](/app-store/review/images/key-icon.svg) apply to [Notarization for iOS apps](https://developer.apple.com/support/dma-and-apps-in-the-eu/#notarization-for-ios-apps) in the EU.
+Guidelines that include ![ASR & NR](/app-store/review/images/key-icon.svg) apply to [Notarization for iOS and iPadOS apps](https://developer.apple.com/support/dma-and-apps-in-the-eu/#notarization-for-ios-apps) in the EU.
 
 ### 1\. Safety
 
-When people install an app from the App Store, they want to feel confident that it’s safe to do so—that the app doesn’t contain upsetting or offensive content, won’t damage their device, and isn’t likely to cause physical harm from its use. We’ve outlined the major pitfalls below, but if you’re looking to shock and offend people, the App Store isn’t the right place for your app. Some of these rules are also included in Notarization for iOS apps.
+When people install an app from the App Store, they want to feel confident that it’s safe to do so—that the app doesn’t contain upsetting or offensive content, won’t damage their device, and isn’t likely to cause physical harm from its use. We’ve outlined the major pitfalls below, but if you’re looking to shock and offend people, the App Store isn’t the right place for your app. Some of these rules are also included in Notarization for iOS and iPadOS apps.
 
 * **1.1 Objectionable Content**
     
@@ -489,4 +489,4 @@ Once you’ve submitted your app and metadata in App Store Connect and you’r
 
 We’re excited to see what you come up with next!
 
-Last Updated: [August 1, 2024](https://developer.apple.com/news/?id=ty0avr2s)
+Last Updated: [September 13, 2024](https://developer.apple.com/news/?id=4sn7e783)
