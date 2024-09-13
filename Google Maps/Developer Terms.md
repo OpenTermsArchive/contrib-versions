@@ -535,6 +535,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         126. City of Vancouver, BC: [https://opendata.vancouver.ca/pages/licence/](https://open.toronto.ca/open-data-license/)
             
+        127. County of Grande Prairie: [https://www.countygp.ab.ca/en/living-in-our-community/open-data-licence.aspx#You-must-where-you-do-any-of-the-above](https://www.countygp.ab.ca/en/living-in-our-community/open-data-licence.aspx#You-must-where-you-do-any-of-the-above)
+            
+        128. The City of Airdrie: [https://data-airdrie.opendata.arcgis.com/pages/our-open-licence](https://data-airdrie.opendata.arcgis.com/pages/our-open-licence)
+            
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
             
