@@ -3,13 +3,15 @@
 Community Guidelines
 ====================
 
-_**COVID-19: Community Guidelines Updates and Protections:** As people around the world confront this unprecedented public health emergency, we want to make sure that our Community Guidelines protect people from harmful content and new types of abuse related to COVID-19. We’re working to remove content that has the potential to contribute to real-world harm, including through our policies prohibiting coordination of harm, sale of medical masks and related goods, hate speech, bullying and harassment and misinformation that contributes to the risk of imminent violence or physical harm. To learn more about our policies on COVID-19 and vaccines, [see here.](https://help.instagram.com/697825587576762)_
+_**COVID-19: Community Guidelines Updates and Protections:** As people around the world confront this unprecedented public health emergency, we want to make sure that our Community Guidelines protect people from harmful content and new types of abuse related to COVID-19. We’re working to remove content that has the potential to contribute to real-world harm, including through our policies prohibiting coordination of harm, sale of medical masks and related goods, hate speech, bullying and harassment and misinformation that contributes to the risk of imminent violence or physical harm. To learn more about our policies on COVID-19 and vaccines, [see here.](https://help.instagram.com/697825587576762?helpref=faq_content)_
 
 The Short
+---------
 
 We want Instagram to continue to be an authentic and safe place for inspiration and expression. Help us foster this community. Post only your own photos and videos and always follow the law. Respect everyone on Instagram, don’t spam people or post nudity.
 
 The Long
+--------
 
 Instagram is a reflection of our diverse community of cultures, ages, and beliefs. We’ve spent a lot of time thinking about the different points of view that create a safe and open environment for everyone.
 
