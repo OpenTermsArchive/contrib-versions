@@ -33,6 +33,7 @@ WebProNews](https://www.webpronews.com/)
     * [InfluencerMarketingPro](https://www.webpronews.com/advertising/influencemarketingpro/)
     * [MarketingAI](https://www.webpronews.com/advertising/marketingai/)
     * [MarketingNews](https://www.webpronews.com/advertising/marketingnews/)
+    * [Marketing Strategies](https://www.webpronews.com/advertising/marketing-strategies/)
     * [MediaTransformationUpdate](https://www.webpronews.com/advertising/mediatransformationupdate/)
     * [OmniChannelMarketer](https://www.webpronews.com/advertising/omnichannelmarketer/)
     * [PaidSearchPro](https://www.webpronews.com/advertising/paidsearchpro/)
@@ -89,7 +90,7 @@ WebProNews](https://www.webpronews.com/)
     * [DevWebPro](https://www.webpronews.com/developer/devwebpro/)
     * [KubernetesPro](https://www.webpronews.com/developer/kubernetespro/)
     * [MobileDevPro](https://www.webpronews.com/developer/mobiledevpro/)
-    * [ObservabiltyTrends](https://www.webpronews.com/developer/observabiltytrends/)
+    * [ObservabilityTrends](https://www.webpronews.com/developer/observabiltytrends/)
     * [SoftwareEngineerNews](https://www.webpronews.com/developer/softwareengineernews/)
 * [Emerging Tech](https://www.webpronews.com/emergingtech/)
     * [5GRevolution](https://www.webpronews.com/emergingtech/5grevolution/)
@@ -176,7 +177,7 @@ Browse Categories
 * [Contact Us](https://www.webpronews.com/contact/)
 * [Privacy Policy](https://www.webpronews.com/privacy-policy/)
 * [Advertise With Us](https://www.webpronews.com/advertise/)
-* [Newsletter Signup](https://control.ientry.com/subscribe/)
+* [Newsletter Signup](https://www.webpronews.com/subscribe)
 
 [](https://www.facebook.com/WebProNews/)[](https://twitter.com/WebProNews)[](https://www.linkedin.com/company/webpronews)
 
@@ -212,7 +213,7 @@ Get the WebProNews newsletter delivered to your inbox
 
 Get the **free daily newsletter** read by decision makers
 
-[Subscribe](https://control.ientry.com/subscribe/)
+[Subscribe](https://www.webpronews.com/subscribe/subscribe?utm_source=main_header&utm_medium=site&utm_campaign=footer_subscribe)
 
 Advertise with Us
 
@@ -227,7 +228,7 @@ About Us
 WebProNews is a leading publisher of business and technology email newsletters and websites.
 ============================================================================================
 
-[Contact Us](https://www.webpronews.com/contact-us)
+[Contact Us](https://www.webpronews.com/contact-us/subscribe?utm_source=main_header&utm_medium=site&utm_campaign=medie_kit_pop)
 
 [](https://www.facebook.com/WebProNews/)[](https://twitter.com/WebProNews)[](https://www.linkedin.com/company/webpronews)
 
