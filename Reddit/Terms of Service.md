@@ -5,11 +5,6 @@ Effective September 16, 2024. Last Revised August 16, 2024
 
   
 
-|     |     |     |
-| --- | --- | --- |
-|     | We’ve updated our User Agreement. Please take a look before the changes take effect on September 16, 2024.  <br>  <br>This page is the updated User Agreement; for the version effective until September 16, 2024 [click here](https://www.redditinc.com/policies/user-agreement-february-15-2024). |     |
-| ‍   |
-
 **Reddit powers hundreds of thousands of distinct online communities. This User Agreement and your conduct make that possible.**
 
 * If you live in the United States or outside the European Economic Area (“**EEA**”), the United Kingdom, and Switzerland, your terms are [here](#hello-redditors-and-people-of-the-internet-this).
