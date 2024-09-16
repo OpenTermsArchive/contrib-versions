@@ -1,4 +1,5 @@
-#### Privacy Policy
+Privacy Policy
+==============
 
 LAST UPDATED: September 15, 2023
 
