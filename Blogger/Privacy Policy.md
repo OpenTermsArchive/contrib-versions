@@ -435,6 +435,7 @@ The following privacy notices provide additional information about some Google s
 
 * [Payments](https://payments.google.com/legaldocument?family=0.privacynotice&hl=en-GB)
 * [Fiber](https://fiber.google.com/legal/privacy.html)
+* [Gemini Apps](https://support.google.com/gemini/answer/13594961?hl=en_GB#privacy_notice)
 * [Google Fi](https://fi.google.com/about/tos/#project-fi-privacy-notice)
 * [Google Workspace for Education](https://workspace.google.com/terms/education_privacy.html)
 * [Read Along](https://ssl.gstatic.com/seekh/intl/en/privacy)
