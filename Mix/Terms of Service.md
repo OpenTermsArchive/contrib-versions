@@ -1,4 +1,5 @@
-#### Terms of Service
+Terms of Service
+================
 
 LAST UPDATED: September 15, 2023
 
