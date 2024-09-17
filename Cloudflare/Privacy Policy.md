@@ -1,27 +1,42 @@
-Legal
------
+#### Privacy Policy
 
-[Website Terms of Use](https://www.cloudflare.com/website-terms/)
+[Overview](#cloudflare-privacy-policy)  
+  
+[Policy application](#1-policy-application)  
+  
+[Information we collect](#2-information-we-collect-categories-of-data-subjects)  
+  
+[How we use information we collect](#3-how-we-use-information-we-collect)
 
-[Self-Serve Subscription Agreement](https://www.cloudflare.com/terms/)
+[Data aggregation](#4-data-aggregation)
 
-[Service-Specific Terms](https://www.cloudflare.com/service-specific-terms-overview/)
+[Information sharing](#5-information-sharing)
 
-[Privacy Policy](https://www.cloudflare.com/privacypolicy/)
+[Notice to UK and EU residents](#6-notice-to-eu-uk-and-swiss-residents)
 
-[Cookie Policy](https://www.cloudflare.com/cookie-policy/)
+[International information transfers](#7-international-information-transfers)
 
-[Trust & Safety](https://www.cloudflare.com/abuse/)
+[Data subject rights and choices](#8-data-subject-rights-and-choices)
 
-[Transparency Report](https://www.cloudflare.com/transparency/)
+[Communication preferences](#9-communication-preferences)
 
-[Domain Registration Agreement](https://www.cloudflare.com/domain-registration-agreement/)
+[Data security, data integrity and access](#10-data-security-data-integrity-and-access)
 
-[Modern Slavery Act Statement](https://www.cloudflare.com/modern-slavery-act-statement/)
+[Data retention](#11-data-retention)
 
-[Third Party Code of Conduct](https://cf-assets.www.cloudflare.com/slt3lc6tev37/284hiWkCYNc49GQpAeBvGN/e137cdac96d1c4cd403c6b525831d284/Third_Party_Code_of_Conduct.pdf)
+[Notification of changes](#12-notification-of-changes)
 
-[Candidate Privacy Policy](https://www.cloudflare.com/candidate-privacy-notice/)
+[Business transactions](#13-business-transactions)
+
+[English language controls](#14-english-language-controls)
+
+[Dispute resolution](#15-dispute-resolution)
+
+[Notice to California residents](#16-notice-to-california-residents)
+
+[Contact information](#17-contact-information)
+
+[Legal questions](#legal-links)
 
 ### Have Questions?
 
