@@ -3,8 +3,8 @@ TABOOLA PRIVACY POLICY
 
 Last Update: August 16th, 2024
 
-For Taboola’s opt-out status options, please [click here](#user-choices-and-opting-out).  
-For Taboola’s region-specific notices, please visit the applicable notice for individuals in [Brazil](#notice-to-individuals-in-brazil), [California](#notice-to-individuals-in-the-state-of-california) and [additional U.S. states](https://www.taboola.com/policies/privacy-policy/#notice-to-individuals-in-the-states-of-colorado-connecticut-florida-oregon-texas-utah-and-virginia), [Europe](#notice-to-individuals-within-the-european-economic-area-eea) (including the United Kingdom), [China](#notice-to-individuals-in-china), or [Thailand](#notice-to-individuals-in-thailand).
+For Taboola’s opt-out status options, please [click here](#opting-out).  
+For Taboola’s region-specific notices, please visit the applicable notice for individuals in [Brazil](#notice-to-individuals-in-brazil), [California](#notice-to-individuals-in-the-state-of-california) and [additional U.S. states](#Notice-to-Individuals-in-the-States-of-Colorado,-Connecticut,-Florida,-Oregon,-Texas,-Utah,-and-Virginia), [Europe](#notice-to-individuals-within-the-european-economic-area-eea) (including the United Kingdom), [China](#notice-to-individuals-in-china), or [Thailand](#notice-to-individuals-in-thailand).
 
 ### **Privacy Self-Regulation:**
 
