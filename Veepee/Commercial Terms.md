@@ -2,7 +2,7 @@ Conditions Générales de Vente Veepee
 
 
 
-Version août 2024
+Version septembre 2024
 
 
 
@@ -1074,207 +1074,9 @@ confirmation de l’accord des centres de paiement bancaires.
 
 
 
-Oney Bank propose une solution de financement dénommée 3x 4x Oney, qui
+Retrouvez les conditions générales applicables au paiement en 3 ou 4 fois avec
 
-permet au Membre de payer ses achats de 70€ à 6 000€ en 3 ou 4 fois avec sa
-
-carte bancaire sur certaines ventes signalées dans la Fiche Descriptive (hors
-
-Voyage, Loisir, Billetterie, Panier Multi-Ventes, Ventes de boissons alcoolisées,
-
-Ventes dont le paiement n’est pas réalisé sur le Site Veepee).
-
-
-
-Conformément à la règlementation en vigueur, Vente-Privee.com ne perçoit pas
-
-de rémunération de la part des Membres au titre de cette solution de paiement.
-
-
-
-Oney Bank - SA au capital de 51 286 585 € - Siège social : 34 avenue de Flandre
-
-59170 CROIX - RCS Lille Métropole 546 380 197 - n° Orias : 07 023 261 - www.orias.fr -
-
-Correspondance : CS 60006 - 59 895 Lille Cedex 9 - www.oney.fr
-
-
-
-11.2.1 Conditions
-
-
-
-Cette offre est réservée aux particuliers (personnes physiques majeures) résidant
-
-en France et titulaires d’une carte bancaire Visa et MasterCard possédant une
-
-date de validité supérieure à la durée du financement choisie. Les cartes à
-
-autorisation systématique notamment de type Electron, Maestro, Nickel etc. ainsi
-
-que les e-cards, les cartes Indigo et American Express ne sont pas acceptées.
-
-11.2.2 Modalités de souscription
-
-
-
-Après avoir validé son panier et la livraison de sa Commande, il suffit au Membre
-
-de cliquer sur le bouton « paiement en 3x 4x Oney par carte bancaire ».
-
-
-
-Le Membre est alors redirigé vers la page internet 3x 4x d'Oney affichant le
-
-récapitulatif détaillé de sa Commande et la demande de financement
-
-personnalisée, qu’il doit ensuite valider.
-
-
-
-Le Membre doit saisir ses informations personnelles ou, s’il dispose d’un compte 3x
-
-4x Oney, s’identifier au moyen des identifiants de connexion liés à son compte 3x 4x
-
-Oney.
-
-
-
-Le Membre prend connaissance des conditions de paiement en plusieurs fois
-
-auxquelles il souhaite souscrire qui lui sont fournies sous format PDF afin qu’il puisse
-
-les lire, les imprimer et les enregistrer avant de les accepter. Le Membre notifie
-
-ensuite son acceptation électronique par la case à cocher correspondante.
-
-
-
-Le Membre reconnaît que le « double clic » associé à la case à cocher sur la prise
-
-de connaissance des conditions générales de paiement en plusieurs en fois vaut
-
-consentement à contracter et constitue une acceptation irrévocable et sans
-
-réserve des conditions générales de paiement en plusieurs en fois.
-
-
-
-Sauf preuve contraire, les données enregistrées par Oney Bank constituent la
-
-preuve de l’ensemble des transactions passées entre le Membre et Oney Bank.
-
-
-
-Si le Membre demande à bénéficier d’une solution de financement proposée par
-
-Oney Bank, les informations en rapport à sa Commande seront transmises à Oney
-
-Bank, qui les utilisera à des fins d’étude de sa demande pour l’octroi, la gestion et le
-
-recouvrement de crédit.
-
-
-
-Oney Bank se réserve le droit d’accepter ou de refuser toute demande de
-
-financement en 3x 4x Oney.
-
-
-
-Le Membre dispose d’un délai de rétractation de quatorze (14) jours pour renoncer
-
-à son crédit.
-
-
-
-11.2.3 Fonctionnement
-
-
-
-Le paiement en 3x ou 4x par carte bancaire permet au Membre de régler la
-
-Commande effectuée sur le Site Veepee de la façon suivante :
-
-
-
-● un apport obligatoire, débité le jour de la confirmation de Commande ;
-
-● deux ou trois mensualités, correspondant chacune à un tiers ou un quart de
-
-la Commande, prélevées à 30 et 60 jours après pour le 3x et à 30, 60 et 90
-
-jours après pour le 4x, lesquelles comprennent des frais correspondants à
-
-1,61% du montant total de la Commande pour un 3x et à 2,40% pour un 4x
-
-(dans la limite de 25€ maximum pour un paiement en 3x et de 50€
-
-maximum pour un paiement en 4x).
-
-
-
-Le paiement en 3x ou 4x est disponible à partir de 70€ d’achat et jusqu’à 6 000€.
-
-
-
-Exemple d’un paiement en 3x : pour un achat de 150€, apport de 52,42€, puis 2
-
-mensualités de 50€. Crédit d’une durée de 2 mois au TAEG fixe de 21,68%. Coût du
-
-financement : 2,42€ dans la limite de 25€ maximum.
-
-
-
-Exemple d’un paiement en 4x : Pour un achat de 400€, apport de 109,60€ puis 3
-
-mensualités de 100€. Crédit sur 3 mois au TAEG fixe de 21,61%. Coût du financement
-
-: 9,60€ dans la limite de 50€ maximum.
-
-
-
-Les remboursements dans le cadre de l’exercice du droit de rétractation ou
-
-d’annulation de la Commande à crédit donneront lieu à un remboursement égal à
-
-la totalité des sommes versées par le Membre, c'est à dire au prix d’achat avec les
-
-intérêts payés du ou des produit(s) ou service(s) et des frais éventuels de livraison.
-
-Si le retour porte sur une partie des produits ou services commandés à crédit, le
-
-montant du remboursement portera uniquement sur le produit ou le service
-
-retourné et les frais éventuels de livraisons y afférents, hors les intérêts échus à la
-
-date d'annulation partielle de la Commande qui resteront dus par le Membre.
-
-
-
-11.2.4 Conditions particulières pour les offres promotionnelles ponctuelles
-
-
-
-Pour le paiement en 3 fois sans frais : le coût du financement est de 0% du montant
-
-total de la commande.
-
-
-
-Exemple pour un achat de 150€, apport de 50€, puis 2 mensualités de 50€, Crédit
-
-d’une durée de 2 mois au TAEG fixe de 0%. Coût du financement : 0€
-
-
-
-Pour le paiement en 4 fois sans frais : le coût du financement est de 0% du montant
-
-total de la commande. Exemple pour un achat de 400€, apport de 100€, suivi de 3
-
-mensualités de 100€. Crédit d’une durée de 3 mois au TAEG fixe de 0%. Coût du
-
-financement : 0€
+ONEY en cliquant ici.
 
 
 
@@ -1282,147 +1084,9 @@ financement : 0€
 
 
 
-Klarna Bank propose une solution de financement dénommée « Payer plus tard en
+Retrouvez les conditions générales applicables au paiement en 3 fois avec KLARNA
 
-3 fois », qui permet au Membre de payer ses achats de 100€ à 1500€ en 3 fois sans
-
-frais avec sa carte de paiement sur les ventes signalées dans la Fiche Descriptive
-
-(hors Voyage, Loisir, Billetterie, Ventes de boissons alcoolisées, Ventes dont le
-
-paiement n’est pas réalisé sur le Site Veepee ou produits vendus par un vendeur
-
-Tiers.
-
-
-
-Conformément à la règlementation en vigueur, Vente-Privee.com ne perçoit pas
-
-de rémunération de la part des Membres au titre de cette solution de paiement.
-
-Klarna Bank AB (publ) est une société de droit suédois enregistrée auprès de
-
-l’Office suédois d’enregistrement des sociétés. Son numéro d’organisation est
-
-556737-0431. Klarna Bank AB (publ) est autorisée à fournir des services financiers
-
-par Finansinspektionen (l’Autorité suédoise de surveillance financière). Klarna Bank
-
-AB (publ) a établi une succursale en France qui est immatriculée auprès du
-
-registre du commerce et des sociétés (RCS) sous le numéro 819 701 988.
-
-
-
-11.3.1 Conditions
-
-
-
-Le Membre s’engage à utiliser sa propre carte de paiement de débit ou de crédit
-
-valide pour payer sa commande (les cartes prépayées ne sont pas acceptées). Le
-
-Membre doit avoir plus de 18 ans, résider en France métropolitaine et être capable
-
-de conclure un contrat juridique ayant force obligatoire.
-
-
-
-Le premier paiement est prélevé lors de la validation du placement de la
-
-Commande et l’acceptation des conditions générales d’utilisation Klarna Bank, et
-
-les deux (2) paiements suivants sont automatiquement prélevés 30 et 60 jours
-
-après le premier paiement initial. Klarna Bank communiquera au Membre par voie
-
-électronique les dates des deux échéances restantes. Cet échéancier sera
-
-également consultable dans l’application Klarna Bank.
-
-
-
-Aucun frais ni intérêts ne s’appliqueront à l’achat avec la solution « Payer plus tard
-
-en 3 fois » tant que le Membre respecte l’échéancier de paiement automatique. Si
-
-toutefois, le Membre se trouvait en situation de retard de paiement, Klarna Bank se
-
-réserve le droit de prélever des frais de retard.
-
-
-
-Tout versement manqué, frais de retard compris, seront reportés à la prochaine
-
-date d’échéance prévue.
-
-
-
-Si le Membre annule sa Commande ou retourne ses Produits issus de la
-
-Commande Veepee, Klarna Bank renoncera automatiquement au montant dû par
-
-la Membre (dès que l’annulation ou le retour du (des) Produit(s) aura été confirmé
-
-par Veepee). Si le Membre a déjà payé pour une commande annulée ou
-
-retournée, Klarna Bank lui remboursera le montant qui a été réglé.
-
-
-
-En cas de questions sur la qualité ou l’envoi de sa Commande, le Membre devra en
-
-priorité contacter le Service Relations Membre Veepee.
-
-
-
-11.3.2 Conditions particulières
-
-
-
-L’émetteur de la carte de paiement utilisée par le Membre peut entraîner la
-
-facturation d’intérêts ou de frais selon les termes de l’accord conclu entre
-
-l’établissement bancaire et le Membre. En cas de questions sur ces intérêts ou frais,
-
-le Membre est invité à contacter directement l’établissement bancaire ayant émis
-
-sa carte de paiement.
-
-Le Membre donne à Klarna Bank le pouvoir de prélever les deux (2) paiements
-
-restants sur sa carte de paiement bancaire aux dates d’échéances sans autre
-
-préavis.
-
-
-
-En acceptant les conditions générales d'utilisations de Klarna Bank, le Membre
-
-demande expressément à ce que ce contrat soit exécuté immédiatement sans
-
-attendre l’expiration du délai de droit de rétractation (voir ci-dessous «droit de
-
-rétractation »).
-
-
-
-En application de l’article L. 312-4 du Code de la Consommation, « Payer plus tard
-
-en 3 fois » n’est pas régi par le chapitre 2 « Crédit Consommation » du Code de la
-
-Consommation. Par conséquent, le Membre reconnaît et accepte que « Payer plus
-
-tard en 3 fois » est exclu de l’application du régime français du crédit à la
-
-consommation.
-
-
-
-Pour plus d’informations sur le service proposé par Klarna Bank, voir :
-
-https://cdn.klarna.com/1.0/shared/content/legal/terms/0/fr_fr/paylaterin3
+BANK en cliquant ici.
 
 
 
@@ -1481,6 +1145,8 @@ Article 13 – Livraison
 
 
 Les produits seront envoyés à l’adresse de livraison sélectionnée par le Membre.
+
+
 
 La livraison est possible qu’en France métropolitaine et à Monaco (sauf mention
 
@@ -1574,6 +1240,8 @@ un remboursement si la commande n'est pas réceptionnée selon les modalités
 
 fixées par le transporteur.
 
+
+
 13.5 Retard et absence d’expédition ou de livraison
 
 
@@ -1633,8 +1301,6 @@ livraison annoncé par Vente-Privee.com ne le satisfait pas ou de refuser le col
 livré en retard, sauf si ce retard de livraison est dû à un cas de force majeure au
 
 sens de la jurisprudence des Tribunaux français.
-
-
 
 Le Membre qui souhaite annuler sa Commande devra le notifier à
 
@@ -1814,8 +1480,6 @@ d'établir que l'existence du défaut de conformité et non la date d'apparition
 
 celui-ci.
 
-
-
 Lorsque le contrat de vente du produit prévoit la fourniture d'un contenu
 
 numérique ou d'un service numérique de manière continue pendant une durée
@@ -1925,6 +1589,8 @@ garantie légale de conformité, Vente-Privee.com encourt une amende civile d'un
 montant maximal de 300 000 euros, qui peut être porté jusqu'à 10 % du chiffre
 
 d'affaires moyen annuel (article L. 241-5 du code de la consommation).
+
+
 
 Pour les produits frais, afin de connaître les démarches de retour d’un produit frais
 
@@ -2060,8 +1726,6 @@ du service numérique. Durant ce délai, le Membre n'est tenu d'établir que
 
 l'existence du défaut de conformité et non la date d'apparition de celui-ci.
 
-
-
 La garantie légale de conformité emporte obligation de fournir toutes les mises à
 
 jour nécessaires au maintien de la conformité du contenu numérique ou du
@@ -2141,8 +1805,6 @@ conforme.
 Ces droits résultent de l'application des articles L. 224-25-1 à L. 224-25-31 du code
 
 de la consommation.
-
-
 
 Si Vente-Privee.com fait obstacle de mauvaise foi à la mise en œuvre de la
 
@@ -2232,8 +1894,6 @@ La mise en œuvre de la garantie commerciale ne prive pas le Membre des
 
 dispositions relatives aux garanties légales telles que définies dans les présentes.
 
-
-
 14.3 Modalités de mise en œuvre des garanties
 
 
@@ -2271,6 +1931,8 @@ commande” / “Article défectueux – ne fonctionnant pas”.
 ● Adresse postale : Vente-Privee.com - Service Relations Membres - TSA 91531
 
 \- 91853 ORSAY CEDEX
+
+
 
 14.3.2 Mise en œuvre de la garantie commerciale
 
@@ -2322,8 +1984,6 @@ Article 15 – Modification des CGV
 
 Vente-Privee.com se réserve le droit de modifier à tout moment les CGV Veepee.
 
-
-
 Dans une telle hypothèse, le Membre prendra connaissance de la nouvelle version
 
 des CGV Veepee lors de sa prochaine Commande et pourra les consulter à tout
@@ -2359,6 +2019,8 @@ Pour toute information concernant le traitement de vos données et connaître vo
 droits, consultez la Politique de Confidentialité et Protection de la Vie Privée de
 
 Vente-Privee.com.
+
+
 
 Article 17 – Liste d’opposition au démarchage téléphonique
 
@@ -2409,8 +2071,6 @@ s’efforceront de trouver une solution amiable.
 
 
 Ainsi, le Membre est invité à contacter Vente-Privee.com :
-
-
 
 ● Numéro de téléphone depuis la France :
 
