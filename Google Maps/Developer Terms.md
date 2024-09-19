@@ -539,6 +539,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         128. The City of Airdrie: [https://data-airdrie.opendata.arcgis.com/pages/our-open-licence](https://data-airdrie.opendata.arcgis.com/pages/our-open-licence)
             
+        129. Data Quebec: [https://www.donneesquebec.ca/recherche/dataset/vque\_18](https://www.donneesquebec.ca/recherche/dataset/vque_18)
+            
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
             
@@ -552,7 +554,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Czech Office for Surveying, Mapping and Cadastre - [https://www.cuzk.cz/Uvod/Produkty-a-sluzby/Otevrena-data/Otevrena-data-zakladni-informace.aspx](https://www.cuzk.cz/Uvod/Produkty-a-sluzby/Otevrena-data/Otevrena-data-zakladni-informace.aspx)
             
-        * Data.Brno - [https://data.brno.cz/datasets/7ba88c54abfa4551bdfdb2d6759c642a\_0/explore?location=49.21662316.59403715.75&showTable=true](https://data.brno.cz/datasets/7ba88c54abfa4551bdfdb2d6759c642a_0/explore?location=49.21662316.59403715.75&showTable=true)
+        * Data.Brno - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     13. **Denmark**
         * © COWI A/S
@@ -1873,7 +1875,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open Data Barcelona: [https://opendata-ajuntament.barcelona.cat/data/es/dataset/taula-direle/resource/6bfe63d8-8c6c-4cde-aaa3-b7c48fa66e34?inner\_span=True](https://opendata-ajuntament.barcelona.cat/data/es/dataset/taula-direle/resource/6bfe63d8-8c6c-4cde-aaa3-b7c48fa66e34?inner_span=True)
             
-        * Geoportal del Ayuntamiento de Madrid: [https://www-2.munimadrid.es/IDEAM\_WBGEOPORTAL/dataset.iam?id=9be44652-6666-11e9-a99c-ecb1d752b636](https://www-2.munimadrid.es/IDEAM_WBGEOPORTAL/dataset.iam?id=9be44652-6666-11e9-a99c-ecb1d752b636)
+        * Geoportal del Ayuntamiento de Madrid: [https://datos.madrid.es/portal/site/egob/menuitem.3efdb29b813ad8241e830cc2a8a409a0/?vgnextoid=108804d4aab90410VgnVCM100000171f5a0aRCRD&vgnextchannel=b4c412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default](https://datos.madrid.es/portal/site/egob/menuitem.3efdb29b813ad8241e830cc2a8a409a0/?vgnextoid=108804d4aab90410VgnVCM100000171f5a0aRCRD&vgnextchannel=b4c412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
             
         * Open Data Islas Baleares, Spain: [https://catalegdades.caib.cat/es/Demografia/Portal/ris5-jhj2](https://catalegdades.caib.cat/es/Demografia/Portal/ris5-jhj2)
             
@@ -1900,6 +1902,20 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Ayuntamiento de Zaragoza: [https://www.zaragoza.es/sede/portal/aviso-legal#condiciones](https://www.zaragoza.es/sede/portal/aviso-legal#condiciones)
             
         * Ajuntament de València: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        * Callejero Digital de Andalucía Unificado: [https://www.callejerodeandalucia.es/portal/aviso-legal](https://www.callejerodeandalucia.es/portal/aviso-legal)
+            
+        * Datos Comunidad de Madrid: [https://datos.comunidad.madrid/catalogo/dataset/spacm\_aproximacionespostalescm](https://datos.comunidad.madrid/catalogo/dataset/spacm_aproximacionespostalescm)
+            
+        * Datos Comunidad de Madrid: [https://datos.comunidad.madrid/catalogo/dataset/spacmbta10000redviarialin2011](https://datos.comunidad.madrid/catalogo/dataset/spacmbta10000redviarialin2011)
+            
+        * IDE LA Rioja: [https://codsi.larioja.org/srv/eng/catalog.search#/metadata/spacarcarretera](https://codsi.larioja.org/srv/eng/catalog.search#/metadata/spacarcarretera)
+            
+        * Open Data Aragon: [https://opendata.aragon.es/datos/catalogo/dataset/ejes-de-vias-de-comunicacion-carreteras\_06\_carreteras\_aragon](https://opendata.aragon.es/datos/catalogo/dataset/ejes-de-vias-de-comunicacion-carreteras_06_carreteras_aragon)
+            
+        * Galicia Government: [https://mapas.xunta.gal/gl/aviso-legal](https://mapas.xunta.gal/gl/aviso-legal)
+            
+        * Open data portal of Valencia: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     58. **Sweden**
         * © 2009 Cartesia GIS AB
@@ -2761,6 +2777,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
     118. **Puerto Rico**
         * United States Census Bureau: [https://www.census.gov/data/developers/about/terms-of-service.html](https://www.census.gov/data/developers/about/terms-of-service.html)
+            
+    119. **Vietnam**
+        * Humanitarian Data Exchange - HDX: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
             
 4. **Business Listings Data.**
     
