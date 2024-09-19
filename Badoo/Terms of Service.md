@@ -60,9 +60,11 @@ Please use your common sense when picking the Content that you choose to post on
 
 We use a combination of automated systems, user reports, and a team of moderators to monitor and review accounts and content to identify breaches of these Terms. If you repeatedly infringe our rules, you may be prevented from using Badoo and we may restrict your access to Badoo, disable your account or block you from further use of Badoo. We may also remove any Content you submit to Badoo if we believe it violates the Terms or we are required to do so by applicable law.
 
-For users residing in the European Union (“EU”), we will notify you when we take action against your account or content unless it is not appropriate for us to do so (for example, we are not permitted by law enforcement agencies). If you believe that we’ve made a mistake in taking such action, you can appeal using the processes outlined on Badoo or by contacting us using the help link in our [Community Guidelines](https://badoo.com/terms/guidelines) available [here](https://badoo.com/terms/feedback). For all other users, we reserve the right (without obligation) at our sole discretion and without giving you notice, to remove or edit, limit or block access to any Content that you upload or submit to Badoo without any incurring liability to you. We have no obligation to display any Content that you submit to Badoo, nor to check the accuracy or truthfulness of any Content submitted to Badoo, nor to monitor your use or the use of other users of Badoo.
+For users residing in the European Union (“EU”), we will notify you when we take action against your account or content unless it is not appropriate for us to do so (for example, we are not permitted by law enforcement agencies). For all other users, we reserve the right (without obligation) at our sole discretion and without giving you notice, to remove or edit, limit or block access to any Content that you upload or submit to Badoo without any incurring liability to you. If you believe that we’ve made a mistake in taking such action, you have the option to appeal our decision **within a six-month period**. If you wish to appeal a decision, please start by taking a moment to read the relevant section of our [Community Guidelines](https://badoo.com/terms/guidelines). If you still think there has been a mistake in the action taken on your account or Content, the best way to appeal is to fill out the appeals form linked in the notification shown to you within the app at the time. Alternatively, you can contact us [here](https://badoo.com/terms/feedback) (please explain why you are appealing our decision, and give as much detail as you can).
 
 For users residing in the EU, you have additional rights under the Digital Services Act to: (i) access third party out-of-court dispute settlement processes; (ii) seek remedies from the courts in the EU member state in which you live; and (iii) lodge a complaint with your local EU regulatory authority. For users residing in the UK, you have a right under local law to bring a claim for breach of contract if you believe we have breached the Terms by removing, restricting or limiting access to, or distribution of, your Content, or suspending or terminating your account.
+
+We have no obligation to display any Content that you submit to Badoo, nor to check the accuracy or truthfulness of any Content submitted to Badoo, nor to monitor your use or the use of other users of Badoo.
 
 ### Are there any rules relating to personal data like my email address?
 
@@ -267,4 +269,4 @@ Our registered office is at 1 Blossom Yard, Fourth Floor, London E1 6RS.
 Effective date
 --------------
 
-The Terms were last updated on: 16th August 2024.
+The Terms were last updated on: 18th September 2024.
