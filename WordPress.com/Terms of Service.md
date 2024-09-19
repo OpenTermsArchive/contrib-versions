@@ -1,7 +1,45 @@
-Terms of Service
-----------------
+Index
 
-_Last Updated: June 18, 2024_
+1. [The Gist](https://wordpress.com/tos/#the-gist)
+2. [Terms of Service](https://wordpress.com/tos/#terms-of-service)
+3. [1\. Who’s Who](https://wordpress.com/tos/#whos-who)
+4. [2\. Your Account](https://wordpress.com/tos/#your-account)
+5. [3\. Minimum Age Requirements](https://wordpress.com/tos/#minimum-age-requirements)
+6. [4\. Responsibility of Visitors and Users](https://wordpress.com/tos/#responsibility-visitors-users)
+7. [5\. Fees, Payment, and Renewal](https://wordpress.com/tos/#fees-payments-renewal)
+    1. [a. Automattic Fees](https://wordpress.com/tos/#a-automattic-fees)
+    2. [b. Fees Collected by Website Owners](https://wordpress.com/tos/#b-fees-collected-by-website-owners)
+8. [6\. Feedback](https://wordpress.com/tos/#feedback)
+9. [7\. General Representation and Warranty](https://wordpress.com/tos/#general-rep-warranty)
+10. [8\. Specific Service Terms](https://wordpress.com/tos/#specific-service-terms)
+    1. [a. WordPress.com Websites and Accounts](https://wordpress.com/tos/#wordpress-websites-accounts)
+    2. [b. Woo](https://wordpress.com/tos/#woocommerce)
+    3. [c. WooPay](https://wordpress.com/tos/#woopay)
+    4. [d. Jetpack](https://wordpress.com/tos/#jetpack)
+    5. [e. Jetpack CRM](https://wordpress.com/tos/#jetpack-crm)
+    6. [f. VaultPress](https://wordpress.com/tos/#vaultpress)
+    7. [g. Blaze and Blaze Pro](https://wordpress.com/tos/#g-blaze-and-blaze-pro)
+    8. [h. Ecommerce Services](https://wordpress.com/tos/#h-ecommerce-services)
+    9. [i. Artificial Intelligence](https://wordpress.com/tos/#artificial-intelligence)
+11. [9\. Copyright Policy](https://wordpress.com/tos/#copyright-policy)
+12. [10\. Intellectual Property](https://wordpress.com/tos/#intellectual-property)
+13. [11\. Third-Party Services](https://wordpress.com/tos/#third-party-services)
+14. [12\. Changes](https://wordpress.com/tos/#changes)
+15. [13\. Termination](https://wordpress.com/tos/#termination)
+16. [14\. Disclaimers](https://wordpress.com/tos/#dislaimers)
+17. [15\. Jurisdiction and Applicable Law.](https://wordpress.com/tos/#jurisdiction-applicable-law)
+18. [16\. Limitation of Liability](https://wordpress.com/tos/#limitation-of-liability)
+19. [17\. Indemnification](https://wordpress.com/tos/#indemnification)
+20. [18\. US Economic Sanctions](https://wordpress.com/tos/#us-economic-sanctions)
+21. [19\. Data Processing Agreement](https://wordpress.com/tos/#data-processing-agreement)
+22. [20\. Translation](https://wordpress.com/tos/#translation)
+23. [21\. Miscellaneous](https://wordpress.com/tos/#miscellaneous)
+
+Terms of Service
+
+* _Last Updated: June 18, 2024_
+* [Change log](https://wordpress.com/tos-change-log)
+* [Print friendly version](https://en.support.wordpress.com/wp-content/uploads/2024/06/tos-june-18-2024.pdf)
 
 The Gist
 --------
@@ -416,6 +454,4 @@ The Agreement (together with any other terms we provide that apply to any specif
 
 Automattic may assign its rights under the Agreement without condition. You may only assign your rights under the Agreement with our prior written consent.
 
-[Print friendly version](https://en.support.wordpress.com/wp-content/uploads/2024/06/tos-june-18-2024.pdf)
-
-[**Change log**](https://wordpress.com/tos-change-log)
+[](https://wordpress.com/tos-change-log)**[](https://wordpress.com/tos-change-log)**
