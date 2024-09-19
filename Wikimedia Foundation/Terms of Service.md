@@ -55,7 +55,7 @@ From Wikimedia Foundation Governance Wiki
 
 (Redirected from [Terms of Use](https://foundation.wikimedia.org/w/index.php?title=Terms_of_Use&redirect=no "Terms of Use"))
 
-[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter= "Special:Translate")
+[Translate this page](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&action=page&filter=&action_source=translate_page "Special:Translate")
 
 Other languages:
 
@@ -150,7 +150,7 @@ Other languages:
 * [मराठी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mr "Policy:Terms of Use/mr (19% translated)")
 * [हिन्दी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hi "Policy:Terms of Use/hi (94% translated)")
 * [অসমীয়া](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/as "Policy:Terms of Use/as (0% translated)")
-* [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn "Policy:Terms of Use/bn (20% translated)")
+* [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn "Policy:Terms of Use/bn (28% translated)")
 * [ਪੰਜਾਬੀ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pa "Policy:Terms of Use/pa (23% translated)")
 * [ગુજરાતી](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gu "Policy:Terms of Use/gu (9% translated)")
 * [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ta "Policy:Terms of Use/ta (6% translated)")
