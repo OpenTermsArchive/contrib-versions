@@ -296,7 +296,6 @@ Publication Categories
 
 * [Advertising & Marketing](https://www.webpronews.com/advertising/)
 * [Business](https://www.webpronews.com/business/)
-* [COOUpdate](https://www.webpronews.com/cooupdate-advertising/)
 * [Developer](https://www.webpronews.com/developer/)
 * [Retail & eCommerce](https://www.webpronews.com/ecommerce/)
 * [Emerging Tech](https://www.webpronews.com/emergingtech/)
