@@ -3,29 +3,29 @@ Google Store Sales Terms
 
 Effective Date: March 15, 2022
 
-Welcome to the online Google Store (the “**Store**”) provided by Google Commerce Limited whose principal place of business is at Gordon House, Barrow Street, Dublin 4, Ireland, Company number IE512080, VAT number IE9825613N (“**Google**” or “**we**”). These Google Store Sales Terms and any other terms referred to in these terms, such as terms provided in the [Returns Policy](https://support.google.com/store/answer/2411741) (Devices), [Cancellation Policy](https://support.google.com/store/answer/11264766) (Subscription Services) and [Warranty Center](https://support.google.com/product-documentation/troubleshooter/3070579) (“**Terms**”), apply between you and Google when you purchase devices and/or accessories (“**Device**”) and/or subscription services (“**Subscription Services**”) from the Store.
+Welcome to the online Google Store (the “**Store**”) provided by Google Commerce Limited whose principal place of business is at Gordon House, Barrow Street, Dublin 4, Ireland, Company number IE512080, VAT number IE9825613N (“**Google**” or “**we**”). These Google Store Sales Terms and any other terms referred to in these terms, such as terms provided in the [Returns Policy](https://support.google.com/store/answer/2411741 "Returns Policy") (Devices), [Cancellation Policy](https://support.google.com/store/answer/11264766 "Cancellation Policy") (Subscription Services) and [Warranty Center](https://support.google.com/product-documentation/troubleshooter/3070579 "Warranty Center") (“**Terms**”), apply between you and Google when you purchase devices and/or accessories (“**Device**”) and/or subscription services (“**Subscription Services**”) from the Store.
 
 Please carefully read the Terms. Your purchase of a Device and/or Subscription Service requires that you accept the Terms. If you do not understand the Terms or do not accept any part of them, do not place an order.
 
 1\. **Google Services**
 
-When you use any Google product or service through your Device and/or any Subscription Service, your use is subject to the applicable terms and conditions for those services, including the [Google Terms of Service](https://policies.google.com/terms). Use of certain Device and/or Subscription Service features may require that you open a [Google Account](https://accounts.google.com/SignUp). Note that Google services and content may vary by region.
+When you use any Google product or service through your Device and/or any Subscription Service, your use is subject to the applicable terms and conditions for those services, including the [Google Terms of Service](https://policies.google.com/terms "Google Terms of Service"). Use of certain Device and/or Subscription Service features may require that you open a [Google Account](https://accounts.google.com/SignUp "Google Account"). Note that Google services and content may vary by region.
 
 2\. **Google Payments or Guest Checkout**
 
-To place an order, you may use guest checkout or be signed in to your Google account. To use your Google account you will need to agree to the [Google Payments Terms of Service](https://support.google.com/pay/answer/7020860) and to set up a [Google Payments Account](https://payments.google.com/). To use guest checkout, you will need to agree to the Google Payments Terms of Service.
+To place an order, you may use guest checkout or be signed in to your Google account. To use your Google account you will need to agree to the [Google Payments Terms of Service](https://support.google.com/pay/answer/7020860 "Google Payments Terms of Service") and to set up a [Google Payments Account](https://payments.google.com/ "Google Payments Account"). To use guest checkout, you will need to agree to the Google Payments Terms of Service.
 
 3\. **Privacy**
 
-Beside these Terms, we also publish a [Google Privacy Policy](https://policies.google.com/privacy). Although it’s not part of these Terms, we encourage you to read it to better understand how you can update, manage, export, and delete your information.
+Beside these Terms, we also publish a [Google Privacy Policy](https://policies.google.com/privacy "Google Privacy Policy"). Although it’s not part of these Terms, we encourage you to read it to better understand how you can update, manage, export, and delete your information.
 
 4\. **Support**
 
-Please refer to [Google Store Support](https://support.google.com/store/) to learn more about the support offered by Google in connection with your Device and/or Subscription Service.
+Please refer to [Google Store Support](https://support.google.com/store/ "Google Store Support") to learn more about the support offered by Google in connection with your Device and/or Subscription Service.
 
 5\. **Ordering and Payment for Devices**
 
-By providing a credit card or [other payment method accepted by Google](https://support.google.com/store/answer/6160267), you confirm that you are authorised to use the designated payment method and that you authorise us (or our third-party payment processor) to charge your payment method for the total amount of your order (including any applicable taxes and other charges notified to you, such as shipping charges). If the payment method you provide cannot be verified, is invalid or is otherwise not acceptable, your order may be suspended or cancelled. You will need to resolve any problem we encounter in order to proceed with your order.
+By providing a credit card or [other payment method accepted by Google](https://support.google.com/store/answer/6160267 "other payment method accepted by Google"), you confirm that you are authorised to use the designated payment method and that you authorise us (or our third-party payment processor) to charge your payment method for the total amount of your order (including any applicable taxes and other charges notified to you, such as shipping charges). If the payment method you provide cannot be verified, is invalid or is otherwise not acceptable, your order may be suspended or cancelled. You will need to resolve any problem we encounter in order to proceed with your order.
 
 Google reserves the right to reject all or part of an order and may refuse to ship Devices to you for reasons such as: (a) if we detect suspicious or fraudulent activity (including unauthorised reseller activity) in violation of these Terms; (b) if we do not currently deliver to the country you want to ship the Device to; (c) if you order more than the permitted maximum number of Devices; or (d) if your Device is out of stock.
 
@@ -33,13 +33,13 @@ If your order is accepted by Google, we will send you an email (without delay) c
 
 6\. **Payment for Subscription Services**
 
-Continuous Subscriptions. When you purchase any of our Subscription Services, you agree that (1) Google is authorised to charge you a monthly or annual subscription service fee depending on the billing cycle you choose for as long as your subscription continues, and (2) your subscription is continuous until you cancel it as set out in the [Cancellation Policy](https://support.google.com/store/answer/11264766), or until such Subscription Service is terminated. Your legal right of withdrawal in respect of Subscription Services is set out in paragraph 17 below.
+Continuous Subscriptions. When you purchase any of our Subscription Services, you agree that (1) Google is authorised to charge you a monthly or annual subscription service fee depending on the billing cycle you choose for as long as your subscription continues, and (2) your subscription is continuous until you cancel it as set out in the [Cancellation Policy](https://support.google.com/store/answer/11264766 "Cancellation Policy"), or until such Subscription Service is terminated. Your legal right of withdrawal in respect of Subscription Services is set out in paragraph 17 below.
 
 Billing. We automatically bill the payment method associated with your Google account on a monthly or annual basis (depending on the billing cycle you choose). Day one of your billing cycle is tied to the date you activate your Subscription Services by pairing them to Device(s). In the event you later decide to purchase additional Subscription Services (each, an “**Add-On Service**”), your payments for these Add-On Service will be added to your existing billing cycle. This means if you subscribe to an Add-On Service midway through a billing cycle we will prorate the payment for that billing cycle and add it onto the next payment due on your next subscription renewal date, in addition to any normal amount due for the Add-On Service. Thereafter, the full amount of the Add-On Service will be charged on your subscription renewal date.
 
 When you purchase a Subscription Service, you will initially be charged at the rate applicable at the time of your agreement to subscribe. If the price of the subscription increases later, Google will notify you by email in advance. The increase will apply to the next payment due from you after the notice, provided that you have been given at least 10 days' prior notice before the charge is made. If you are given less than 10 days' prior notice, the price increase will not apply until the payment after the next payment due. If you do not wish to pay the increased price for a subscription, you may cancel the Subscription Service in accordance with the procedure described in the Cancellations section of these Terms, and you will not be charged further amounts for the Subscription Service, provided you have notified us before the end of the current billing period.
 
-Cancellations and Refunds. Please see this [Cancellation Policy](https://support.google.com/store/answer/11264766) for how to cancel product Subscription Services.
+Cancellations and Refunds. Please see this [Cancellation Policy](https://support.google.com/store/answer/11264766 "Cancellation Policy") for how to cancel product Subscription Services.
 
 No Cost Trials. We may offer trials of our Subscription Services for limited periods of time without asking you to pay, after which you will be charged until you cancel your subscription. To avoid being charged, you must cancel before the end of the trial period. Once you cancel your trial, you will immediately lose access to any subscription privileges unless otherwise specified. Access to such trial periods may be limited to a certain number of trials for each user during a given period, or subject to other restrictions as set out in the terms applicable to the relevant trial.
 
@@ -47,7 +47,7 @@ Pre-paid Subscription Services. We may offer Devices that include pre-paid Subsc
 
 7\. **Prices and Taxes**
 
-Google offers free standard shipping in most instances so the price you are shown is generally the price including standard shipping (unless otherwise communicated to you in advance of the applicable purchase). Information about shipping charges can be found [here](https://support.google.com/store/answer/6380753) and will also be presented at checkout before you place your order. All prices displayed on the Store are subject to change at any time without notice before a purchase is completed.
+Google offers free standard shipping in most instances so the price you are shown is generally the price including standard shipping (unless otherwise communicated to you in advance of the applicable purchase). Information about shipping charges can be found [here](https://support.google.com/store/answer/6380753 "here") and will also be presented at checkout before you place your order. All prices displayed on the Store are subject to change at any time without notice before a purchase is completed.
 
 All prices include VAT. Applicable taxes will be presented at checkout or on the Device and/or Subscription Service description page before you place your order.
 
@@ -57,11 +57,11 @@ When purchasing a new Pixel phone, you may be offered the option to trade in you
 
 9\. **Delivery**
 
-We may not be able to deliver Devices to, or offer Subscription Services in, all locations. Where there are restrictions on delivery these will be communicated to you at the beginning of the ordering process if not before. You can also consult our [Country Availability](https://support.google.com/store/answer/2462844?ref_topic=2803008) page for locations to which we will deliver your Device [or offer a Subscription Service](https://support.google.com/store/answer/2462844). If Google does not ship a Device to the address you provided, you will be sent a notice and you will not be charged for your order.
+We may not be able to deliver Devices to, or offer Subscription Services in, all locations. Where there are restrictions on delivery these will be communicated to you at the beginning of the ordering process if not before. You can also consult our [Country Availability](https://support.google.com/store/answer/2462844?ref_topic=2803008 "Country Availability") page for locations to which we will deliver your Device [or offer a Subscription Service](https://support.google.com/store/answer/2462844 "or offer a Subscription Service"). If Google does not ship a Device to the address you provided, you will be sent a notice and you will not be charged for your order.
 
-If you do not receive your Device, please contact [Google Store Support](https://support.google.com/store/). For more information on missing shipments see [here](https://support.google.com/store/answer/6380752).
+If you do not receive your Device, please contact [Google Store Support](https://support.google.com/store/ "Google Store Support"). For more information on missing shipments see [here](https://support.google.com/store/answer/6380752 "here").
 
-For information on delivery dates, times and costs, please see [here](https://support.google.com/store/answer/6380752). Although we will aim to deliver your Device as soon as reasonably possible, you agree that any delivery dates or times provided by Google (or a delivery agent) are estimates only and are not guaranteed.
+For information on delivery dates, times and costs, please see [here](https://support.google.com/store/answer/6380752 "here"). Although we will aim to deliver your Device as soon as reasonably possible, you agree that any delivery dates or times provided by Google (or a delivery agent) are estimates only and are not guaranteed.
 
 10\. **Availability and Order Limits**
 
@@ -71,7 +71,7 @@ Certain products have quantity limits. You may not order more than the maximum n
 
 11\. **Pricing Mistakes**
 
-We try very hard to make sure there are no mistakes in the prices that appear on the [Google Store](https://store.google.com/). In the unlikely event that an obvious and substantial mistake happens, you agree that Google will not be bound by that incorrect price and may cancel your order, unless your credit card, debit card or other payment method in your Google Payments account has already been charged. If an obvious and substantial mistake is discovered and you haven't yet been charged, we will let you know the correct price and you will be given the option to continue with your order at the correct price or cancel it.
+We try very hard to make sure there are no mistakes in the prices that appear on the [Google Store](https://store.google.com/ "Google Store"). In the unlikely event that an obvious and substantial mistake happens, you agree that Google will not be bound by that incorrect price and may cancel your order, unless your credit card, debit card or other payment method in your Google Payments account has already been charged. If an obvious and substantial mistake is discovered and you haven't yet been charged, we will let you know the correct price and you will be given the option to continue with your order at the correct price or cancel it.
 
 12\. **Promotions**
 
@@ -95,9 +95,9 @@ Battery life for your Device, as described in any Device description page, will 
 
 17\. **Return Policy and Withdrawal Information**
 
-Returns and refunds for Devices are governed by our [Return Policy (Devices)](https://support.google.com/store/answer/2411741).
+Returns and refunds for Devices are governed by our [Return Policy (Devices)](https://support.google.com/store/answer/2411741 "Return Policy (Devices)").
 
-Cancellations and refunds for Subscription Services are governed by our [Cancellation Policy](https://support.google.com/store/answer/11264766). Please review these policies.
+Cancellations and refunds for Subscription Services are governed by our [Cancellation Policy](https://support.google.com/store/answer/11264766 "Cancellation Policy"). Please review these policies.
 
 _**Legal right of withdrawal for Devices**_
 
@@ -109,7 +109,7 @@ If you are purchasing as a consumer, you have the right by law to withdraw from 
 
 _**Contacting us about the withdrawal**_
 
-To exercise your right of withdrawal for a Device or Subscription Service (as described above), you must inform us of your decision to withdraw from the contract by an unequivocal statement. You may use the model withdrawal form shown below, but it is not obligatory. Alternatively, you may contact Google Commerce Limited, c/o Customer Support, Gordon House, Barrow Street, Dublin 4, Ireland through, [store-eu-support@google.com](mailto:store-eu-support@google.com) or inform us through the [Contact](https://support.google.com/store/gethelp) page.
+To exercise your right of withdrawal for a Device or Subscription Service (as described above), you must inform us of your decision to withdraw from the contract by an unequivocal statement. You may use the model withdrawal form shown below, but it is not obligatory. Alternatively, you may contact Google Commerce Limited, c/o Customer Support, Gordon House, Barrow Street, Dublin 4, Ireland through, [store-eu-support@google.com](mailto:store-eu-support@google.com "store-eu-support@google.com") or inform us through the [Contact](https://support.google.com/store/gethelp "Contact") page.
 
 To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the 14 day withdrawal period has expired.
 
@@ -149,19 +149,19 @@ If you tell Google that you have not received your Device, the Device is defecti
 
 19\. **Device Warranty**
 
-Details of any manufacturer's warranty can be found in the Device box and in the [Warranty Center](https://support.google.com/product-documentation/troubleshooter/3070579). This limited warranty will only apply to consumers purchasing a Device from Google or its authorised resellers in the EEA (except France), UK or Switzerland, except as otherwise stated in the limited warranty.
+Details of any manufacturer's warranty can be found in the Device box and in the [Warranty Center](https://support.google.com/product-documentation/troubleshooter/3070579 "Warranty Center"). This limited warranty will only apply to consumers purchasing a Device from Google or its authorised resellers in the EEA (except France), UK or Switzerland, except as otherwise stated in the limited warranty.
 
 20\. **Legal Guarantee**
 
 If you’re a UK based consumer, and you’ve agreed to these Terms as part of a purchase of goods (such as a phone), then UK consumer laws provide you with a legal guarantee covering the goods that we provide. Under this guarantee, if the goods are not (i) as described, (ii) fit for certain purposes, or (iii) of satisfactory quality, then we’re liable for any such lack of conformity that you discover.
 
-For more detail regarding your rights in relation to defective Devices, please see Section 21 below. Your rights under the legal guarantee aren’t limited by any other commercial guarantees that we provide (such as the manufacturer warranty). If you want to make a claim under the legal guarantee, please contact [Google Store Support](https://support.google.com/store/).
+For more detail regarding your rights in relation to defective Devices, please see Section 21 below. Your rights under the legal guarantee aren’t limited by any other commercial guarantees that we provide (such as the manufacturer warranty). If you want to make a claim under the legal guarantee, please contact [Google Store Support](https://support.google.com/store/ "Google Store Support").
 
 21\. **Device Defects**
 
 In addition to your rights set out at Sections 19 (Device Warranty), if the Device is or becomes defective through no fault of your own, you may have statutory rights such as the right to repair or replacement of the defective Device, or in some cases, a price reduction, or the right to cancel the contract for a refund.
 
-If you have a defective Device, please contact [Google Store Support](https://support.google.com/store/). If the Device is manufactured by a third party, Google may refer you to the applicable manufacturer of the Device for initial support with Device defects.
+If you have a defective Device, please contact [Google Store Support](https://support.google.com/store/ "Google Store Support"). If the Device is manufactured by a third party, Google may refer you to the applicable manufacturer of the Device for initial support with Device defects.
 
 If Google provides you with a replacement Device, you agree that Google may exchange the defective Device with a new or refurbished Device. You must then ensure that the correct Device is returned to Google. Google is not required to send you a replacement until we have received the correct Device. If, at its discretion, Google provides you with an advanced replacement device before we receive your defective Device, and you do not return the defective Device within a reasonable time (as communicated to you in notification emails), you authorize Google to charge your original form of payment for the full value of the replacement Device.
 
