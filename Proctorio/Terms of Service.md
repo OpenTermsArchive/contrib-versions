@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Last modified December 30, 2023.
+Last modified September, 2024.
 
 These Terms of Service ("**TOS**" or "**Terms**") apply to you if: you are an institution, university, college, school, or organization (each, an "**Institution**"); you are an authorized Institution administrator, professor, test sponsor, employee, agent or contractor of an Institution (each, an "**Institution User**"); or you are an authorized individual, customer, or test taker end user (each, an "**End User**"). For purposes of these Terms, "You" refers to an Institution, Institution User, or End User, in whatever manner applicable to you. These Terms govern Your access to and use of the services, including our (referred to as "**Proctorio**" or "**We**") various websites, SMS, APIs, email notifications, documentation, software, licenses or applications, including the SaaS Agreement technology/application software (the "_Application Service**") (collectively, the "**Services**"), and any information, content, text, graphics, photos, audio, video, or other materials, uploaded, downloaded, or appearing on the Services, (with the exclusion of "**Feedback**," as defined in Section 7) (collectively, the "**Content_\*"). Your access to and use of the Services is conditioned on Your acceptance of and compliance with these Terms, as revised by Proctorio from time to time in its sole and exclusive discretion. The most current version of the Terms will always be at proctorio.com/policies. By continuing to access or use the Services after any revisions to the Terms become effective, You agree to be bound by the revised Terms as published. If You have entered into a SaaS Agreement, in the event of a conflict between these Terms and those contained in the SaaS Agreement, the terms of the SaaS Agreement shall prevail.
 
@@ -73,6 +73,8 @@ More information can be found at [proctorio.com/support/requirements](https://pr
 Proctorio has the right, but not the obligation, at all times to remove or refuse to distribute any Content on the Services, to suspend or terminate users without liability to You if we reasonably determine that the Content or users materially violated these Terms. Subject to applicable laws and the terms of Proctorio's [Privacy Policy](https://proctorio.com/privacy), we also reserve the right to access, read, preserve, and disclose any information as we reasonably believe necessary to: (i) satisfy any applicable law, regulation, legal process, or governmental request; (ii) enforce the Terms, including investigation of potential violations hereof; (iii) detect, prevent, or otherwise address fraud, security, or technical issues; (iv) respond to user support requests; or (v) protect the rights, property, or safety of Proctorio, its users, its clients, and the public.
 
 While accessing or using the Services You shall not: (i) access, tamper with, or use non-public areas of the Services, Proctorio's computer systems, or the technical delivery systems of Proctorio's providers; (ii) probe, scan, or test the vulnerability of any system or network or breach or circumvent any security or authentication measures; (iii) access or search or attempt to access or search the Services by any means (automated or otherwise) other than through Proctorio's currently available published interfaces (and only pursuant to those terms and conditions), unless You have been specifically allowed to do so in a separate agreement with Proctorio; (iv) forge any TCP/IP packet header or any part of the header information in any written communication, or in any way use the Services to send altered, deceptive, or false source-identifying information; or (v) interfere with, or disrupt (or attempt to do so), the access of any user, host, or network, including, without limitation, sending a virus, overloading, flooding, spamming, mail-bombing the Services, or by scripting the creation of Content in such a manner as to interfere with or create an undue burden on the Services.
+
+Proctorio’s Services are not considered an Automated Decision Tool (“ADT”). An ADT is an artificial intelligence system or service that makes a consequential decision, or is a substantial factor in making consequential decisions. The Services do not autonomously make or recommend critical decisions based on algorithmic processes. Instead, the Services serve as an analytical or support tool, requiring human input and oversight for any significant actions. You agree that you will not use the Services to automate any decisions.
 
 10\. Copyright Policy.
 ----------------------
@@ -163,8 +165,8 @@ Email: notices@proctorio.com
 All notices required under an applicable SaaS Agreement shall be in writing and sent by certified mail or email; to the address provided on the SaaS Agreement, and to Proctorio GmbH at:
 
 Proctorio GmbH  
-Bahnhofstraße 18  
-85774 Unterföhring  
+Lindleystraße 8A  
+60314 Frankfurt am Main  
 Germany
 
 Email: notices@proctorio.de
