@@ -31,7 +31,7 @@ You can customize the Policy to only see the portions that apply to you. Just ch
 Privacy Notice
 --------------
 
-Last modified October 27, 2023.
+Last modified July 17, 2024.
 
 * General
 * "Personal Information" means information that identifies, relates to, describes, is capable of being associated with or could reasonably be linked, directly or indirectly, with a particular consumer or household, such as your name, mailing and email addresses, phone number, and other information that permits us to contact you at a physical location, online, or by electronic communication, including telephone or email.
@@ -803,6 +803,8 @@ Test-taker audio, video, and screen recordings and images are secured and proces
 3. Proctorio is SOC 2, ISO 27001, and ISO 27018 certified.
 
 Security systems breach notification
+
+Proctorio investigates and provides notification of data breaches in accordance with our internal Security Incident Policy ­and applicable law.
 
 #### As a data processor
 
