@@ -43,7 +43,7 @@
         * [Storage and international transfer of your Personal Information](#brazil-storage-international-transfer-pii)
         * [Your rights as a Data Subject](#brazil-rights-as-data-subject)
 
-Effective Date: August 16, 2024
+Effective Date: September 20, 2024
 
 You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/20961293738004).
 
@@ -100,6 +100,8 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     If you’re in Brazil, contact our Brazilian Data Protection Officer by emailing [privacy@roblox.com](mailto:privacy@roblox.com).
     
     If you’re in Korea, more information is located in the [Privacy Policy Addendum for Users in Republic of Korea](https://en.help.roblox.com/hc/articles/15685139483924).
+    
+    If you’re in the United States, additional rules may apply depending on the state you live in. To learn more about the rights available to you under US state laws please visit the the [US State Privacy Policy Addendum](https://en.help.roblox.com/hc/articles/4402871541140).
     
     Before moving on to the rest of the Privacy Policy, when you see certain terms in this Policy, some of them have specific meanings.
     
@@ -819,5 +821,5 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Please also note that these rights are not absolute and may not apply in certain circumstances. For example, we may continue to process and retain Personal Information regardless of your request to delete, object, block or anonymize it, to comply with legal, contractual and/or regulatory obligations, and to protect and exercise rights, including in judicial, administrative and arbitration proceedings, and as otherwise required by law. To exercise your rights or ask questions, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support). To appeal a decision about your privacy rights, please contact our Brazilian Data Protection Officer by emailing [privacy@roblox.com](mailto:privacy@roblox.com), or otherwise reaching out to us as described in Section 1.
     
 
-Effective Date: August 16, 2024  
-Last Updated: August 16, 2024
+Effective Date: September 20, 2024  
+Last Updated: September 20, 2024
