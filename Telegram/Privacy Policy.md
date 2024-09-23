@@ -232,7 +232,7 @@ To provide, improve and support our Services, we may share your personal data wi
 
 #### [](#8-3-law-enforcement-authorities)8.3. Law Enforcement Authorities
 
-If Telegram receives a court order that confirms you're a terror suspect, we may disclose your IP address and phone number to the relevant authorities. So far, this has never happened. When it does, we will include it in a semiannual transparency report published at: [](https://t.me/transparency)[https://t.me/transparency](https://t.me/transparency).
+If Telegram receives a valid order from the relevant judicial authorities that confirms you're a suspect in a case involving criminal activities that violate the Telegram Terms of Service, we will perform a legal analysis of the request and may disclose your IP address and phone number to the relevant authorities. If any data is shared, we will include such occurrences in a quarterly transparency report published at: [](https://t.me/transparency)[https://t.me/transparency](https://t.me/transparency).
 
 #### [](#8-4-translation-of-chats-channels-and-specific-messages-at-the-r)8.4. Translation of Chats, Channels and specific Messages at the Request of the User
 
