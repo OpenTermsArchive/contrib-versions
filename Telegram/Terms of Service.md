@@ -6,6 +6,7 @@ By signing up for Telegram, you accept our [Privacy Policy](https://telegram.org
 * Use our service to send spam or scam users.
 * Promote violence on publicly viewable Telegram channels, bots, etc.
 * Post illegal pornographic content on publicly viewable Telegram channels, bots, etc.
+* Engage in activities that are recognized as illegal in the majority of countries. This includes child abuse, selling or offering illegal goods and services (drugs, firearms, forged documents), etc.
 
 We reserve the right to update these Terms of Service later.
 
