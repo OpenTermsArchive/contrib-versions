@@ -67,7 +67,7 @@ Consumer
 
 * [### Blogger](https://support.google.com/blogger?hl=en-GB)
 * [### Finance](https://support.google.com/finance?hl=en-GB)
-* [### Chromecast](https://support.google.com/chromecast?hl=en-GB)
+* [### Streaming](https://support.google.com/chromecast?hl=en-GB)
 * [### Google Pixel Buds](https://support.google.com/googlepixelbuds?hl=en-GB)
 * [### Earth](https://support.google.com/earth?hl=en-GB)
 * [### Google Maps](https://support.google.com/maps?hl=en-GB)
@@ -145,8 +145,8 @@ Consumer
 * [### Snapseed](https://support.google.com/snapseed?hl=en-GB)
 * [### Google Wifi](https://support.google.com/wifi?hl=en-GB)
 * [### Fitbit](https://support.google.com/fitbit?hl=en-GB)
-* [### My Maps](https://support.google.com/mymaps?hl=en-GB)
 * [### Google Workspace Individual](https://support.google.com/google-workspace-individual?hl=en-GB)
+* [### My Maps](https://support.google.com/mymaps?hl=en-GB)
 * [### Daydream](https://support.google.com/daydream?hl=en-GB)
 * [### Google Kids Space](https://support.google.com/kidsspace?hl=en-GB)
 * [### Wear OS by Google](https://support.google.com/wearos?hl=en-GB)
