@@ -17,7 +17,7 @@ Things you should know:
 
 ### Information we collect
 
-**Mozilla account information.** This service requires a Mozilla account, which provides MDN Plus read-only access to your Mozilla account profile information, for example your user ID, display name, avatar, email address, locale, and active product subscriptions. Learn more about [Mozilla account data practices](https://www.mozilla.org/privacy/firefox/#firefox-accounts-join-firefox).
+**Mozilla account information.** This service requires a Mozilla account, which provides MDN Plus read-only access to your Mozilla account profile information, for example your user ID, display name, avatar, email address, locale, and active product subscriptions. Learn more about [Mozilla account data practices](https://www.mozilla.org/privacy/mozilla-accounts).
 
 **MDN Plus account information.** When you use MDN Plus features, we receive the data required to provide those features to you. For instance, if you set saved pages, we receive your saved pages.
 
