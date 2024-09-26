@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: July 24, 2024
+#### Last Updated: September 25, 2024
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -834,7 +834,7 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 * To the extent permitted by applicable law, and except with respect to Mistral’s indemnity obligations to you: Mistral will not be liable for any indirect, special, incidental, punitive, exemplary or consequential damages (including real or alleged loss of revenues) or any liabilities, damages and costs incurred by you in the case of: (i) a force majeure event; (ii) any cause not attributable to Mistral; or (iii) output of a Mistral Model being similar or identical to any other customer’s output; and for any such claims Mistral’s liability to you will be limited to the lower of the aggregate payments you made to AWS for your use of the Mistral Models in the immediately preceding 4 months and EUR 10,000, except for Mistral’s open source models where the maximum liability will be the lower of 1 month of payments and EUR 1,000.
 * You will defend, indemnify, and hold harmless Mistral, its affiliates, and its licensors from and against any losses arising out of a third-party claim caused by: (a) your use of the Mistral Models in violation of this section 50.12.5; (b) your application (if any); and (c) by any finetuned, refined, customized or modified Mistral Model where the claim would not have arisen but for this fine-tuning, refinement, customization, or modification.
 
-**50.12.6.** **Llama 3 and Llama 3.1 on Bedrock**. Llama 3 and Llama 3.1 are trained and developed by Meta Platforms, Inc. and Meta Platforms Ireland Limited (collectively, **“Meta”**) and is Third-Party Content. If you use Llama 3 on Bedrock then the following additional terms apply: [https://llama.meta.com/llama3/license/](https://llama.meta.com/llama3/license/). If you use Llama 3.1 on Bedrock then the following additional terms apply: [https://github.com/meta-llama/llama-models/blob/main/models/llama3\_1/LICENSE](https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/LICENSE).
+**50.12.6.** **Llama 3, Llama 3.1, and Llama 3.2 on Bedrock**. Llama 3, Llama 3.1, and Llama 3.2 are trained and developed by Meta Platforms, Inc. and Meta Platforms Ireland Limited (collectively, **“Meta”**) and is Third-Party Content. If you use Llama 3 on Bedrock then the following additional terms apply: [https://llama.meta.com/llama3/license/](https://llama.meta.com/llama3/license/). If you use Llama 3.1 on Bedrock then the following additional terms apply: [https://github.com/meta-llama/llama-models/blob/main/models/llama3\_1/LICENSE](https://github.com/meta-llama/llama-models/blob/main/models/llama3_1/LICENSE). If you use Llama 3.2 on Bedrock then the following additional terms apply: [https://github.com/meta-llama/llama-models/blob/main/models/llama3\_2/LICENSE](https://github.com/meta-llama/llama-models/blob/main/models/llama3_2/LICENSE).
 
 **50.12.7.** PartyRock is intended for personal and educational use, and not for commercial or business use. You may not use PartyRock if you are younger than 18. We do not knowingly collect information from anyone under 18, but if we discover that we have inadvertently collected information from anyone under 18, we will delete that information.
 
