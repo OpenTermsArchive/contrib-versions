@@ -541,6 +541,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         129. Data Quebec: [https://www.donneesquebec.ca/recherche/dataset/vque\_18](https://www.donneesquebec.ca/recherche/dataset/vque_18)
             
+        130. Ville de Québec: [https://www.donneesquebec.ca/recherche/dataset/adresses-de-la-ville-de-quebec](https://www.donneesquebec.ca/recherche/dataset/adresses-de-la-ville-de-quebec)
+            
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
             
@@ -1917,6 +1919,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open data portal of Valencia: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        * Junta de Castilla y Leon: [https://datosabiertos.jcyl.es/web/es/licencia-igcylnc.html](https://datosabiertos.jcyl.es/web/es/licencia-igcylnc.html)
+            
+        * Open Data Castilla y La Mancha Argis: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        * Gobierno Abierto de Navarra: [https://datosabiertos.navarra.es/dataset/spasitnainfrae\_lin\_ctraeje-xml/resource/964d0db3-86c4-442d-a165-376b223f511e](https://datosabiertos.navarra.es/dataset/spasitnainfrae_lin_ctraeje-xml/resource/964d0db3-86c4-442d-a165-376b223f511e)
+            
     58. **Sweden**
         * © 2009 Cartesia GIS AB
             
@@ -2511,6 +2519,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         232. Utah Geospatial Resource Center: [https://opendata.gis.utah.gov/datasets/utah::utah-address-points/about](https://opendata.gis.utah.gov/datasets/utah::utah-address-points/about)
             
         233. Loudoun GeoHub: [https://logis.loudoun.gov/metadata/Address.html](https://logis.loudoun.gov/metadata/Address.html)\-[https://geohub-loudoungis.opendata.arcgis.com/datasets/loudoun-address-points/explore](https://geohub-loudoungis.opendata.arcgis.com/datasets/loudoun-address-points/explore)
+            
+        234. City of Austin: [https://data.austintexas.gov/stories/s/ranj-cccq](https://data.austintexas.gov/stories/s/ranj-cccq)
             
     68. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
