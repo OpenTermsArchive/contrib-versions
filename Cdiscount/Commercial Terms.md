@@ -1465,7 +1465,7 @@ Si le montant de la commande est supérieur au Solde de la Cagnotte, l’Abonné
 
 Si le montant de la commande est inférieur au Solde de la Cagnotte, la totalité du montant de la commande sera débité de la Cagnotte. Le Solde de la Cagnotte restant après déduction du montant de la commande restera utilisable lors d’une prochaine commande dans la limite de sa durée de validité.
 
-**9.3.4** Cdiscount pourra utiliser le Solde de la Cagnotte de l’Abonné afin de financer le montant de l’Abonnement au Service dans le cadre d’une tacite reconduction, dans l’hypothèse où le montant de l’Abonnement au Service ne pourra pas être prélevé dans les conditions précisées à l’article 7 ci-dessus.
+**9.3.4** Cdiscount pourra utiliser le Solde de la Cagnotte de l’Abonné afin de financer le montant de l’Abonnement au Service dans le cadre d’une tacite reconduction, dans l'hypothèse où le montant de l’Abonnement au Service ne pourra pas être prélevé dans les conditions précisées à l’article 7 ci-dessus.
 
  
 
