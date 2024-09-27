@@ -320,7 +320,7 @@ We will review and may update this Privacy Policy from time to time. Any changes
 **March 31, 2024**
 
 * Added [3.1.1. Optional Data](#3-1-1-optional-data).
-* Added information about [Telegram Buisness chatbots](https://telegram.org/blog/telegram-business#chatbots-for-businesses) to the [Bot Messages](#6-bot-messages) section (6.2, 6.3, 6.5).
+* Added information about [Telegram Business chatbots](https://telegram.org/blog/telegram-business#chatbots-for-businesses) to the [Bot Messages](#6-bot-messages) section (6.2, 6.3, 6.5).
 
 Important changes made to this Privacy Policy will be notified to you via Telegram.
 
