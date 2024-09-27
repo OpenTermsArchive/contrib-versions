@@ -28,6 +28,9 @@
 * [Learn](https://www.kraken.com/learn)
 * [Support](https://support.kraken.com/hc/en-us)
 
+* [Sign in](https://www.kraken.com/sign-in)
+* [Sign up](https://www.kraken.com/sign-up)
+
 **Terms of Service**
 
 
@@ -54,7 +57,7 @@ The following is the binding and enforceable Terms of Service.
 
 Kraken.com Terms of Service
 
-Last Updated: July 9, 2024
+Last Updated: September 27, 2024
 
 Please read these Terms of Service (including all Annexes, “Terms”) carefully, as they are binding and govern your use of our services, and our websites (including kraken.com, and pro.kraken.com), and mobile applications through which you access our services (“Platforms”), along with any applicable third-party terms you may have agreed to as part of using or receiving our mobile applications (such as terms for the Apple App Store or Google Play, if applicable). If these Terms conflict with any such third-party terms, these Terms will control to the extent of the conflict. By accessing or using our services or Platforms, or by creating an account, you agree to these Terms. 
 
@@ -75,7 +78,7 @@ These Terms are a legally binding agreement between “you” (an individual, or
 * Payward Trading Ltd, 2nd floor, Water’s Edge Building, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands, if you live anywhere else in the world where we make our services available (except Canada, or as noted below);
 * Payward Commercial Ltd., Road Town PO Box 4301, Tortola British Virgin Islands, for those services set forth in Annex C;
 * Payward Trading Ltd, 2nd floor, Water’s Edge Building, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands, for those services set forth in Annex A (except if you live in the United States of America or Australia), Annex B, Annex D, and Annex E; and
-* Payward Ireland Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296 for those services set forth in Section 1(c) of Annex F if you live in Ireland, the Netherlands, France, Spain, Belgium, Italy, Austria, Czech Republic, Lithuania, Poland,Norway, Portugal, Romania, Slovakia, Sweden, Cyprus, or Estonia (or Germany from September 10th, 2024, or Finland, Aland islands, Croatia, Bulgaria, Denmark, Greece, Hungary, Iceland, Latvia, Liechtenstein, Luxembourg, Malta, Slovenia from October 1st, 2024).
+* Payward Ireland Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296 for those services set forth in Section 1(c) of Annex F if you live in Ireland, the Netherlands, France, Spain, Belgium, Italy, Austria, Czech Republic, Lithuania, Poland,Norway, Portugal, Romania, Slovakia, Sweden, Cyprus Estonia, or Germany (Finland, Aland Islands, Croatia, Bulgaria, Denmark, Greece, Hungary, Iceland, Latvia, Liechtenstein, Luxembourg, Malta, and Slovenia from October 1, 2024).
 
 If you live in Canada, the [Canadian Terms of Service](https://www.kraken.com/legal/ca-terms) are the binding agreement between you and Payward Canada, Inc.
 
@@ -115,6 +118,8 @@ Annex D: Opt-In Rewards Program
 Annex E: NFT Services
 
 Annex F: PIL Services
+
+Annex G: kBTC
 
 1. Eligibility; Account
 
@@ -163,7 +168,7 @@ Execution
 
 We don’t control or make any guarantees about the amount of time it takes to complete a Deposit or Issuance. This time frame depends upon the performance of third parties, including third-party financial institutions or payment services.
 
-Deposits and Issuances may not be cancellable once initiated. All Deposits and Issuances are final and non-refundable once made, but you may be able to Redeem Fiat Balances or Withdraw Digital Assets in accordance with Section ‎3 (Withdrawals & Redemptions). We may, at any time and without notice, reject any Deposit or impose limits on Deposits you can make (for example, in magnitude and frequency) or a Fiat Balance Issuance. If you reverse a Deposit, Issuance, payment, or other transaction made from a Financial Account, you authorize us, in our sole discretion, to cancel the transaction or to use alternate Digital Assets and Fiat Currency in your account as necessary to complete the transaction or resolve any resulting shortfall or negative balance, including to exchange Digital Assets or Fiat Currency in your account for alternative types of Digital Assets or Fiat Currency and deduct any applicable fees.
+Deposits and Issuances may not be cancellable once initiated. All Deposits and Issuances are final and non-refundable once made, but you may be able to Redeem Fiat Balances or Withdraw Digital Assets in accordance with Section ‎3 (Withdrawals & Redemptions). We may, at any time and without notice, reject any Deposit or impose limits on Deposits you can make (for example, in magnitude and frequency) or a Fiat Balance Issuance. Deposit limits and withdrawal hold durations are based on many factors, such as account history, payment activity, and transaction history. Deposit limits and withdrawal hold durations may adjust over time with no prior notice. If you reverse a Deposit, Issuance, payment, or other transaction made from a Financial Account, you authorize us, in our sole discretion, to cancel the transaction or to use alternate Digital Assets and Fiat Currency in your account as necessary to complete the transaction or resolve any resulting shortfall or negative balance, including to exchange Digital Assets or Fiat Currency in your account for alternative types of Digital Assets or Fiat Currency and deduct any applicable fees.
 
 We may charge you fees for Deposits and Issuances. See Section ‎‎6 for additional information on fees. There may also be third-party fees associated with use of Financial Accounts, and we aren’t responsible for any such third-party fees.
 
@@ -499,7 +504,7 @@ It's important that you fully understand the unique risks involved in trading as
 * Using margin to support spot transactions poses a high degree of financial risk and isn't suitable for everyone. Margin trading can  lead to large losses, including losses that could substantially exceed the amount of funds you hold in your account. You should examine your financial objectives, financial resources and risk tolerance to determine whether receiving extensions of margin secured by the assets in your account is appropriate for you.
 * You can rapidly lose all of the funds you deposit for trading and may lose more funds than you deposit in your account.
 * We may require you to immediately Deposit additional funds into your account, and not doing so may lead to automatic liquidation. The prices of Digital Assets are highly volatile and a decline in the value of assets that are traded on margin may require you to provide additional funds to us, on short notice or with no notice, to avoid the automatic liquidation of assets in your account(s).
-* You authorize us to sell assets in your account without further notice to you. If the equity in your account falls below our maintenance margin requirements, you authorize us to sell assets (including Digital Assets and Fiat Balances) in your account to cover the margin deficiency. You will be responsible for any shortfall in the account after such a sale. As Digital Asset markets are open 24 hours a day, 7 days a week, margin calls and liquidations may occur at any time, including outside of normal business hours.
+* You authorize us to sell assets in your account without further notice to you. If the equity in your account is below our maintenance margin requirements, you authorize us to sell assets (including Digital Assets and Fiat Balances) in your account to cover the margin deficiency. You will be responsible for any shortfall in the account after such a sale. As Digital Asset markets are open 24 hours a day, 7 days a week, margin calls and liquidations may occur at any time, including outside of normal business hours.
 * You authorize us to sell your assets without contacting you. We have no obligation to contact you for a margin call to be valid, and we may liquidate assets in your account without contacting you first. While we may attempt to notify you of margin calls, we are not required to do so. Moreover, even if we have contacted you and provided a specific date by which you must meet a margin call, we may still immediately sell assets in your account without notice to you and without waiting for the specific date to meet a margin call.
 * We can increase maintenance margin requirements without advance notice. Increased maintenance margin requirements may result in the issuance of a maintenance margin call. Your failure to satisfy the call may cause us to liquidate or sell assets in your account(s). We are not responsible for delays in the release of funds intended to satisfy the call, including but not limited to internal holds on funds exceeding verification limits, delays in the transfer of funds from external accounts maintained by third-party financial institutions, and failure of proper routing of funds through financial networks. The funds won't count towards meeting the maintenance margin requirements until the funds are released.
 * You are not entitled to an extension of time on a margin call. While we might grant you an extension of time to meet margin requirements under certain conditions, you don't have a right to any extension, and our granting of an extension in one case does not mean it will be extended in any future cases (even if similar). Moreover, even if we have agreed to an extension of time to meet margin requirements, we may still immediately sell assets in your account without notice to you and without waiting for the expiration of the extension of time to meet a margin call.
@@ -526,7 +531,7 @@ All Received Assets are assets held by Kraken for your benefit, subject to the t
 
 4. Terminating Margin Extensions
 
-To terminate a Margin Extension, you must have sufficient funds in your Margin Enabled Account, which must be the same asset type as the denomination of the Margin Extension (for example, you must terminate a bitcoin-denominated Margin Extension by having sufficient bitcoin credited to your Margin Enabled Account). You may terminate a Margin Extension, partially or wholly, by either: (i) transferring funds into your Margin Enabled Account; or (ii) Trading requisite Collateral Assets (as defined below) or other Digital Assets or Fiat Balances in your account to have sufficient funds of the same asset type as the denomination of your Margin Extension, which can then be applied to your Margin Extension when you execute a settlement transaction. You will have no right to and must return to us any Digital Assets received because the Margin Extension (and not Received Assets) (i) enabled you to receive such Digital Assets (an “Airdrop”) or (ii) was subject to changes in the underlying operating rules that resulted in the creation of related versions of Digital Assets (a “Fork”). Prior to satisfying the corresponding Margin Extension pursuant to the preceding paragraph, requisite Collateral Assets may not be otherwise transferred to a Financial Account or Traded through our services.
+To terminate a Margin Extension, you must obtain sufficient funds in your Margin Enabled Account of the same asset type as the denomination of the Margin Extension (for example, you must terminate a bitcoin-denominated Margin Extension by having sufficient bitcoin credited to your Margin Enabled Account). You may terminate a Margin Extension, partially or wholly, by either: (i) transferring funds into your Margin Enabled Account; or (ii) Trading requisite Collateral Assets (as defined below) or other Digital Assets or Fiat Balances in your account to have sufficient funds of the same asset type as the denomination of your Margin Extension. Funds in your account of the same asset type as the denomination of your Margin Extension are (either automatically if your Margin Enabled Account uses Kraken Spot Margin or when you execute a settlement transaction if your Margin Enabled Account uses Kraken Classic Margin) applied to your Margin Extension to, either partially or wholly, terminate your Margin Extension. You will have no right to and must return to us any Digital Assets received because the Margin Extension (and not Received Assets) (i) enabled you to receive such Digital Assets (an “Airdrop”) or (ii) were subject to changes in the underlying operating rules that resulted in the creation of related versions of Digital Assets (a “Fork”). Prior to satisfying the corresponding Margin Extension pursuant to the preceding paragraph, requisite Collateral Assets may not be otherwise transferred to a Financial Account or Traded through our services.
 
 5. Restrictions on your account subject to satisfaction of your Margin Extension obligations.
 
@@ -548,7 +553,7 @@ There are no term limits on margin obligations, meaning that you may elect to ma
 
 Fees charged on and in connection with any Margin Extension will be at the applicable rates and methods of computation specified in the [Fee Schedule](https://www.kraken.com/features/fee-schedule) (the “Margin Fees”). If the Margin Fees on any Margin Extension made under these Terms exceeds the maximum rates we may charge under applicable law, the parties hereto agree that the Margin Fees will be reduced automatically to the maximum rates we may charge under applicable law. Margin Fees will be deemed included in “fees” as used in the Terms, and Section 6 of the main body of the Terms (Fees) will apply in addition to all other requirements set forth herein.
 
-Upon your failure to satisfy the Maintenance Margin Requirement, to make any payment of fees when due, including Margin Fees, or to terminate a Margin Extension when required, or upon otherwise materially breaching this Annex A (Margin Trading), your Margin Extensions will be immediately due and must be terminated (and any accrued and unpaid fees thereon and any fees and costs of collection must be paid) and, to the extent permitted by applicable law and in addition to any other remedies available to it, we, in our sole discretion, may apply the proceeds from the sale of any Digital Assets in your Margin Enabled Account, whether such Digital Assets are considered Collateral Assets as defined in the Terms or not, first to the payment of any outstanding fees, commissions, charges or other expenses then due to Kraken, and then to the termination of your Margin Extensions. If your account balance becomes negative, as determined by us, you agree to pay the amount of funds owed to Kraken within 48 hours. You may not trade or withdraw on a negative account.
+Upon your failure to satisfy the Maintenance Margin Requirement, to make any payment of fees when due, including Margin Fees, or to terminate a Margin Extension when required, or upon otherwise materially breaching this Annex A (Margin Trading), your Margin Extensions will be immediately due and must be terminated (and any accrued and unpaid fees thereon and any fees and costs of collection must be paid) and, to the extent permitted by applicable law and in addition to any other remedies available to it, we, in our sole discretion, may apply the proceeds from the sale of any Digital Assets in your Margin Enabled Account, whether such Digital Assets are considered Collateral Assets as defined in the Terms or not, first to the payment of any outstanding fees, commissions, charges or other expenses then due to Kraken, and then to the termination of your Margin Extensions. If the value of your Collateral Assets ever become less than the value of your Margin Extension (i.e., ‘negative equity’), as determined by us, you agree to pay the amount of funds owed to Kraken within 48 hours. You may not trade or withdraw on a negative equity account.
 
 8. Discontinuance of Margin Extension services.
 
@@ -1020,7 +1025,7 @@ You agree to defend, indemnify, and hold harmless us and our officers, directors
 
 Annex F
 
-PIL Services Annex
+PIL Services
 
 This Annex F (this “Annex F”) governs the PIL Services (as defined herein) offered by Payward Ireland Limited (“PIL”) relating to your Kraken e-money account (the “Kraken E-money Wallet”). This Annex F incorporates by reference and supplements the Terms. You acknowledge and agree that, except as expressly modified by this Annex F, the Terms remain entirely binding and applicable to the PIL Services. Capitalized terms used but not defined herein shall have the meanings given to them in the Terms. In the event of a conflict between the main body of the Terms and this Annex F with respect to the PIL Services, the terms of this Annex F will control.
 
@@ -1125,3 +1130,51 @@ In the event that you suspect or know of any instances of fraud or any security 
 1. You agree to provide us with the information we request (which we may request at any time deemed necessary) for the purposes of identity verification and the detection of money laundering, terrorist financing, fraud, or any other financial crime and permit us to keep a record of such information. You will need to complete certain verification procedures before you are permitted to start using the Kraken E-Money Wallet and the limits that apply to your use of the Kraken E-Money Wallet may be altered as a result of information collected on an ongoing basis.
 2. This Annex F between you and us will remain in force indefinitely unless terminated by either you or us in accordance with the Terms.  
 3. This Annex F is governed by Irish law and any dispute under this Annex F or otherwise in connection with your Kraken E-Money Wallet or the PIL Services shall be brought exclusively in the courts of Ireland.
+    
+    * * *
+    
+
+Annex G
+
+kBTC
+
+This Annex G (this “kBTC Annex”) incorporates by reference and supplements the Kraken.com Terms of Service (excluding all Annexes thereto, “Terms”) as if the entirety of the Terms were set forth in this kBTC Annex. Capitalized terms used but not defined in this kBTC Annex have the meanings given to them elsewhere in the Terms. In the event of a conflict between the Terms and this kBTC Annex, the terms of this kBTC Annex will control solely to the extent of the conflict and solely with respect to the subject matter of this kBTC Annex.
+
+Kraken Wrapped Bitcoin (“kBTC”) is an ERC-20 token minted exclusively by our affiliate Payward Commercial Ltd, a British Virgin Islands company (“Payward Commercial”), for use on Ethereum-based networks. As part of the services, you may have the opportunity to exchange BTC for kBTC and vice versa using our services and Platforms (the “kBTC Services”). The kBTC Services are subject to certain eligibility requirements and the Terms, including this kBTC Annex.
+
+WE MAKE NO REPRESENTATION OR WARRANTY THAT THE KBTC SERVICES ARE APPROPRIATE FOR USE IN ALL LOCATIONS, OR THAT THE SERVICES DESCRIBED HEREIN ARE AVAILABLE OR APPROPRIATE FOR USE IN ALL JURISDICTIONS OR BY ALL PARTIES. YOU SHOULD INFORM YOURSELF AS TO THE LEGAL REQUIREMENTS AND TAX CONSEQUENCES OF USING THE KBTC SERVICES WITHIN ALL JURISDICTIONS APPLICABLE TO YOU. WE ARE NOT RESPONSIBLE FOR TAX CONSEQUENCES TO YOU OF PARTICIPATING IN THE KBTC SERVICES.
+
+1. Eligibility
+
+kBTC Services will only be offered to eligible Kraken users in select jurisdictions at Kraken’s sole discretion and are subject to change or to be paused or discontinued at any time, without prior notice.  You must have an account with us in order to use the kBTC Services or engage in a kBTC Exchange (as defined below); if you are not eligible to open an account with us or otherwise don’t have an account with us, you will not be entitled to use the kBTC Services or engage in kBTC Exchanges.
+
+If the ability to utilize the kBTC Services is available in your jurisdiction and you meet all other eligibility requirements, your account will include an option to engage in kBTC Exchanges in the Deposits/Withdrawals section of your account.
+
+2. kBTC and Associated Risks
+
+kBTC is an ERC-20 token minted exclusively by Payward Commercial for use on Ethereum-based networks. kBTC is fully backed by an equivalent amount of BTC held by Payward Commercial in a segregated vault at our affiliate, Payward Financial, Inc. (“Payward Financial”) for the sole purpose of fulfilling kBTC holders’ exchange requests on the Platform. By transacting in kBTC, you understand, acknowledge and agree that:
+
+* kBTC may be compatible with protocols or other software or technology provided by third parties, but we make no guarantee as to such compatibility and we are not responsible for any losses of kBTC or other issues you may experience through use of such third-party protocols, software or technology;
+* Trading in kBTC will not be available on our Platforms, and there may not be a market for kBTC;
+* We are not responsible for any decrease in value of your kBTC. Although at the time of withdrawal one kBTC will always equal one BTC, we do not guarantee that the value of one kBTC will always equal the value of one BTC on third-party platforms;
+* Legislative and regulatory changes and requirements may adversely affect the value of, and ability to transact in, kBTC, including the ability to withdraw and deposit kBTC;
+* When you transact in kBTC Exchanges, you are contracting with the entity that provides you with Deposit and Withdrawal services pursuant to the Terms;
+* kBTC is intended for use on various decentralized and open source blockchains and protocols over which we have no control.  In the event that any such blockchain or protocol experiences a “fork”, we reserve the right to suspend the kBTC Services temporarily or indefinitely, on little or no notice, while we determine, in our sole discretion, which fork we will support, if any.  We will have no liability or responsibility for any loss, liability, or damage you may incur as result of our determination to support or not support any particular blockchain or protocol or fork thereof;
+* We will have the ability, in our sole discretion, to add or remove specific addresses to an internal blocking list in the kBTC smart contract.  We may add addresses to the blocking list in response to law enforcement demands and sanctions requirements, and as we may otherwise deem appropriate in our discretion, including in response to exploits and suspected fraudulent activity.   Addresses on this list will be blocked from receiving or transferring kBTC;
+* We may, in our sole discretion, refuse to process a deposit and exchange of kBTC if we suspect that the subject kBTC was acquired through fraudulent means.
+
+3. kBTC Deposits and Withdrawals
+
+We may provide you the ability to deposit and withdraw kBTC at a 1:1 exchange rate with BTC, less any applicable fees (such deposits and withdrawals of kBTC, “kBTC Exchanges”).  kBTC Exchanges will be conducted as described [here](https://support.kraken.com/hc/articles/what-is-kbtc), and in accordance with and subject to the Terms, including Section 2 (Deposit of Crypto and Issuance of Fiat Balance) and Section 3 (Withdrawal of Crypto and Redemption of Fiat Balance).
+
+4. Fees; Minimums
+
+kBTC Exchanges are subject to deposit and withdrawal fees and minimums. Details regarding current fees can be found at our [Fee Schedule](https://www.kraken.com/features/fee-schedule) under the Deposit & Withdrawal tab.
+
+5. Liability
+
+You are solely responsible for your use of the kBTC Services, and we make no representations, warranties, or guarantees that the kBTC Services will function or perform in accordance with your expectations. You hereby acknowledge and agree that we disclaim and have no responsibility for any loss, liability, or damage you may incur, directly or indirectly, in connection with the kBTC Services. You further agree that we shall not be liable for any delays in effectuating a kBTC Exchange, regardless of the reason for that delay, or if we are unable to complete a kBTC Exchange for any reason, including but not limited to, because of: (i) any direct or indirect actions taken by you, including providing inaccurate, or insufficient instructions, that result in a mistaken or accidental transfer; (ii) insufficient Digital Assets in your account to complete the kBTC Exchange; (iii) any malfunction of the kBTC Services due to circumstances beyond our control; or (iv) any suspension or discontinuance of the kBTC Services.
+
+6. Compliance with Laws, Sanctions
+
+In connection with your holding kBTC or use of the kBTC Services, you hereby agree and represent and warrant that you will not (i) use kBTC or the kBTC Services in violation of any applicable laws or regulations; or (ii) use kBTC or the kBTC Services in any transaction involving the proceeds of crime or terrorist financing or otherwise in violation of any applicable anti-money laundering or sanctions laws or regulations. We reserve the right to monitor for the foregoing and to reject, deter, suspend, freeze and report, or otherwise prevent transactions we believe to be in violation thereof or to involve one or more transactions with any person that is the subject or target of any sanctions. We are not responsible for determining which laws or regulations may apply to your transactions involving kBTC, and we have no responsibility for any loss, liability, or damage you may incur as result of any violation of such laws or regulations by you or any third party.
