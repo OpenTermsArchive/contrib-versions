@@ -13,13 +13,10 @@ Table of contents:
 7. [Disclaimers; limitation of liability; no guarantees; limited warranty & agreement](#7)
 8. [Amendments to this agreement](#8)
 9. [Term and termination](#9)
-10. [Applicable law/mediation/jurisdiction/attorney’s fees](#10)
-11. [Dispute resolution/binding arbitration/class action waiver](#11)
-12. [Miscellaneous](#12)
+10. [Applicable law/jurisdiction](#10)
+11. [Miscellaneous](#11)
 
 This Steam Subscriber Agreement ("Agreement") is a legal document that explains your rights and obligations as a subscriber of Steam from Valve Corporation, a corporation under the laws of the State of Washington, with its registered office at 10400 NE 4th St., Bellevue, WA 98004, United States, registered with the Washington Secretary of State under number 60 22 90 773, VAT ID No. EU 8260 00671 ("Valve"). Please read it carefully.
-
-SECTION 11 CONTAINS A BINDING ARBITRATION AGREEMENT AND CLASS ACTION WAIVER. IT AFFECTS HOW DISPUTES ARE RESOLVED. PLEASE READ IT. IF YOU ARE A CONSUMER AND LIVE IN THE PROVINCE OF QUEBEC (CANADA), THE EUROPEAN UNION, OR THE UNITED KINGDOM, SECTION 11 DOES NOT APPLY TO YOU.
 
 1\. REGISTRATION AS A SUBSCRIBER; APPLICATION OF TERMS TO YOU; YOUR ACCOUNT, ACCEPTANCE OF AGREEMENTS
 
@@ -283,13 +280,17 @@ Valve may restrict or cancel your Account or any particular Subscription(s) at a
 
 D. Survival of Terms
 
-Sections 2.C., 2.D., 2.F., 2.G., 3.A., 3.B., 3.D., 3.H., and 5 - 12 will survive any expiration or termination of this Agreement.
+Sections 2.C., 2.D., 2.F., 2.G., 3.A., 3.B., 3.D., 3.H., and 5 - 11 will survive any expiration or termination of this Agreement.
 
-10\. APPLICABLE LAW/MEDIATION/JURISDICTION/ATTORNEYS’ FEES
+10\. APPLICABLE LAW/JURISDICTION
+
+Most user concerns can be resolved by use of our Steam support site at [https://support.steampowered.com/](https://support.steampowered.com/). If Valve is unable to resolve your concerns and a dispute remains between you and Valve, this Section explains how the parties have agreed to resolve it.
 
 For All Subscribers Outside the European Union and United Kingdom:
 
-You and Valve agree that this Agreement shall be deemed to have been made and executed in the State of Washington, U.S.A., and Washington law, excluding conflict of laws principles and the Convention on Contracts for the International Sale of Goods, governs all claims arising out of or relating to: (i) any aspect of the relationship between us; (ii) this Agreement; or (iii) your use of Steam, your Account or the Content and Services; except that the U.S. Federal Arbitration Act governs arbitration as far as your country’s laws permit. Subject to Section 11 (Dispute Resolution/Binding Arbitration/Class Action Waiver) below, you and Valve agree that any claim asserted in any legal proceeding shall be commenced and maintained exclusively in any state or federal court located in King County, Washington, having subject matter jurisdiction. You and Valve hereby consent to the exclusive jurisdiction of such courts. In any dispute arising out of or relating to this Agreement, your use of Steam, your account, or the Content and Services, the prevailing party will be entitled to attorneys’ fees and expenses (except arbitration -- see Section 11.C.)
+You and Valve agree that this Agreement shall be deemed to have been made and executed in the State of Washington, U.S.A., and Washington law, excluding conflict of laws principles and the Convention on Contracts for the International Sale of Goods, governs all disputes and claims arising out of or relating to: (i) any aspect of the relationship between us; (ii) this Agreement; or (iii) your use of Steam, your Account or the Content and Services. You and Valve agree that all disputes and claims between you and Valve (including any dispute or claim that arose before the existence of this or any prior agreement) shall be commenced and maintained exclusively in any state or federal court located in King County, Washington, having subject matter jurisdiction. You and Valve hereby consent to the exclusive jurisdiction of such courts and waive any objections as to personal jurisdiction or venue in such courts.
+
+If the laws where you live mandate alternative dispute resolution options, you may seek a remedy under those options. If you are a consumer who lives in Russia, you may also seek a remedy with local Russian state courts.
 
 For EU and UK Subscribers:
 
@@ -299,50 +300,14 @@ In the event of a dispute relating to the interpretation, the performance or the
 
 In the event that an Alternative Dispute Resolution Procedure fails, or if either Valve or you prefer not to resort to Alternative Dispute Resolution, you may bring proceedings in the courts of the place where you are domiciled.
 
-11\. DISPUTE RESOLUTION/BINDING ARBITRATION/CLASS ACTION WAIVER
+11\. MISCELLANEOUS
 
-This Section 11 shall apply to the maximum extent permitted by applicable law. IN PARTICULAR, IF YOU ARE A CONSUMER WHO LIVES IN A EUROPEAN UNION MEMBER COUNTRY, THE UNITED KINGDOM, THE PROVINCE OF QUEBEC (CANADA), AUSTRALIA, OR NEW ZEALAND, THIS SECTION 11 DOES NOT APPLY TO YOU. IF YOU ARE A CONSUMER WHO LIVES IN RUSSIA,YOU MAY UTILIZE THE ARBITRATION PROCESS IDENTIFIED IN THIS SECTION 11 OR YOU MAY USE LOCAL RUSSIAN STATE COURTS TO RESOLVE YOUR DISPUTE.
+In the event that any provision of this Agreement is held by a court to be invalid or unenforceable, such provision will be deemed severable and the remaining provisions of this Agreement shall remain in full force and effect.
 
-Most user concerns can be resolved by use of our Steam support site at [https://support.steampowered.com/](https://support.steampowered.com/). If Valve is unable to resolve your concerns and a dispute remains between you and Valve, this Section explains how the parties have agreed to resolve it.
-
-A. Must Arbitrate All Claims Except Intellectual Property, Unauthorized Use, Piracy, or Theft
-
-YOU AND VALVE AGREE TO RESOLVE ALL DISPUTES AND CLAIMS BETWEEN US IN INDIVIDUAL BINDING ARBITRATION. THAT INCLUDES, BUT IS NOT LIMITED TO, ANY CLAIMS ARISING OUT OF OR RELATING TO: (i) ANY ASPECT OF THE RELATIONSHIP BETWEEN US; (ii) THIS AGREEMENT; OR (iii) YOUR USE OF STEAM, YOUR ACCOUNT, HARDWARE OR THE CONTENT AND SERVICES. IT APPLIES REGARDLESS OF WHETHER SUCH CLAIMS ARE BASED IN CONTRACT, TORT, STATUTE, FRAUD, UNFAIR COMPETITION, MISREPRESENTATION OR ANY OTHER LEGAL THEORY, AND INCLUDES ALL CLAIMS BROUGHT ON BEHALF OF ANOTHER PARTY.
-
-However, this Section 11 does not apply to the following types of claims or disputes, which you or Valve may bring in any court with jurisdiction: (i) claims of infringement or other misuse of intellectual property rights, including such claims seeking injunctive relief; and (ii) claims related to or arising from any alleged unauthorized use, piracy, or theft.
-
-This Section 11 does not prevent you from bringing your dispute to the attention of any federal, state, or local government agencies that can, if the law allows, seek relief from us for you.
-
-An arbitration is a proceeding before a neutral arbitrator, instead of before a judge or jury. Arbitration is less formal than a lawsuit in court, and provides more limited discovery. It follows different rules than court proceedings, and is subject to very limited review by courts. The arbitrator will issue a written decision and provide a statement of reasons if requested by either party. YOU UNDERSTAND THAT YOU AND VALVE ARE GIVING UP THE RIGHT TO SUE IN COURT AND TO HAVE A TRIAL BEFORE A JUDGE OR JURY.
-
-B. Try to Resolve Dispute Informally First
-
-You and Valve agree to make reasonable, good faith efforts to informally resolve any dispute before initiating arbitration. A party who intends to seek arbitration must first send the other a written notice that describes the nature and basis of the claim or dispute and sets forth the relief sought. If you and Valve do not reach an agreement to resolve that claim or dispute within thirty (30) calendar days after the notice is received, you or Valve may commence an arbitration. Written notice to Valve must be sent via postal mail to: ATTN: Arbitration Notice, Valve Corporation, P.O. Box 1688, Bellevue, WA 98004.
-
-C. Arbitration Rules and Fees
-
-The U.S. Federal Arbitration Act applies to this Section 11 as far as your country’s laws permit. The arbitration will be governed by the Consumer Arbitration Rules (or the Commercial Arbitration Rules, if the Consumer Arbitration rules are inapplicable) of the American Arbitration Association ("AAA") as modified by this Agreement. Rules are available at [http://www.adr.org](http://www.adr.org/). The arbitrator is bound by the terms of this Agreement.
-
-The AAA will administer the arbitration. Outside the U.S., Valve will select a neutral arbitration provider that uses these or similar rules. It may be conducted through the submission of documents, by phone, or in person in the county where you live or at another mutually agreed location.
-
-If you seek $10,000 or less, Valve agrees to promptly reimburse your filing fee and your share if any of AAA’s arbitration costs, including arbitrator compensation, unless the arbitrator determines your claims are frivolous or were filed for harassment. Valve agrees not to seek its attorneys’ fees or costs unless the arbitrator determines your claims are frivolous or were filed for harassment. If you seek more than $10,000 and the AAA Consumer Arbitration Rules do not apply, the AAA’s arbitration costs, including arbitrator compensation, will be split between you and Valve according to the AAA Commercial Arbitration Rules.
-
-D. Individual Binding Arbitration Only
-
-YOU AND VALVE AGREE NOT TO BRING OR PARTICIPATE IN A CLASS OR REPRESENTATIVE ACTION, PRIVATE ATTORNEY GENERAL ACTION, WHISTLE BLOWER ACTION, OR CLASS, COLLECTIVE, OR REPRESENTATIVE ARBITRATION, EVEN IF AAA’s RULES WOULD OTHERWISE ALLOW ONE. THE ARBITRATOR MAY AWARD RELIEF ONLY IN FAVOR OF THE INDIVIDUAL PARTY SEEKING RELIEF AND ONLY TO THE EXTENT OF THAT PARTY’S INDIVIDUAL CLAIM. You and Valve also agree not to seek to combine any action or arbitration with any other action or arbitration without the consent of all parties to this Agreement and all other actions or arbitrations.
-
-This Agreement does not permit class, collective, or representative arbitration. A court has exclusive authority to rule on any assertion that it does.
-
-E. What Happens if Part of Section 11 Is Found Illegal or Unenforceable
-
-If any part of Section 11 (Dispute Resolution/Binding Arbitration/Class Action Waiver) is found to be illegal or unenforceable, the rest will remain in effect (with an arbitration award issued before any court proceeding begins), except that if a finding of partial illegality or unenforceability would allow class, collective, or representative arbitration, all of Section 11 will be unenforceable and the claim or dispute will be resolved in court.
-
-12\. MISCELLANEOUS
-
-Except as otherwise expressly set forth in this Agreement, in the event that any provision of this Agreement shall be held by an arbitrator, court, or other tribunal of competent jurisdiction to be illegal or unenforceable, such provision will be enforced to the maximum extent permissible and the remaining portions of this Agreement shall remain in full force and effect. Section 11.E. governs if some parts of Section 11 (Dispute Resolution/Binding Arbitration/Class Action Waiver) are held to be illegal or unenforceable. This Agreement, including any Subscription Terms, Rules of Use, the Valve Privacy Policy, and the Valve Hardware Limited Warranty Policy, constitutes and contains the entire agreement between the parties with respect to the subject matter hereof and supersedes any prior oral or written agreements. You agree that this Agreement is not intended to confer and does not confer any rights or remedies upon any person other than the parties to this Agreement.
+This Agreement, including any Subscription Terms, Rules of Use, the Valve Privacy Policy, and the Valve Hardware Limited Warranty Policy, constitutes and contains the entire agreement between the parties with respect to the subject matter hereof and supersedes any prior oral or written agreements. You agree that this Agreement is not intended to confer and does not confer any rights or remedies upon any person other than the parties to this Agreement.
 
 Valve’s obligations are subject to existing laws and legal process and Valve may comply with law enforcement or regulatory requests or requirements notwithstanding any contrary term.
 
 You agree to comply with all applicable import/export laws and regulations. You agree not to export the Content and Services or Hardware or allow use of your Account by individuals of any terrorist supporting countries to which encryption exports are at the time of exportation restricted by the U.S. Bureau of Export Administration. You represent and warrant that you are not located in, under the control of, or a national or resident of any such prohibited country.
 
-This Agreement was last updated on April 25, 2023 ("Revision Date"). If you were a Subscriber before the Revision Date, it replaces your existing agreement with Valve or Valve SARL on the day that it becomes effective according to Section 8 above.
+This Agreement was last updated on September 26, 2024 ("Revision Date"). If you were a Subscriber before the Revision Date, it replaces and supersedes your existing agreement with Valve or Valve SARL on the day that it becomes effective according to Section 8 above.
