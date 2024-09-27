@@ -3,12 +3,12 @@
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#footer)
 
-[![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
+[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
 
 sante.gouv.fr
 
 
-===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
  Rechercher :
 
@@ -75,15 +75,17 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/frederic-valletoux/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
+            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
+            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
+            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
+            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -119,7 +121,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -663,7 +665,7 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+La fin d’un chapitre
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -678,9 +680,9 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+Réponses à vos questions sur l’application
 
-[Comment importer son certificat de vaccination ?](javascript:;)
+#### [Comment importer son certificat de vaccination ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 Vous avez été vacciné par un professionnel de santé ?  
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
@@ -696,7 +698,7 @@ Le professionnel de santé vous remettra, au format papier, un certificat de vac
     * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
     * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
-[Comment récupérer un nouveau certificat sanitaire ?](javascript:;)
+#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -705,35 +707,34 @@ Vous pouvez également obtenir une copie papier en vous rendant dans votre caiss
 Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
 En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
-[L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
+#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
 Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
 
-[Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)
+#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
 L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+Plus d’informations sur TousAntiCovid
 
-**–** La foire aux questions technique
-
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
-
-  
-**–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
-
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
-
-  
-**–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
-
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
-
-* * *
+* La foire aux questions technique
+    
+    pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+    
+* Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
+    
+    pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+    
+* Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
+    
+    pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+    
+    * * *
+    
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
@@ -749,7 +750,7 @@ sur les réseaux sociaux
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
 * [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
 
-![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495) 
+![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845) 
 
 * 
 * [legifrance.gouv.fr](https://www.legifrance.gouv.fr/)
@@ -770,12 +771,12 @@ Sauf mention contraire, tous les contenus de ce site sont sous [licence etalab-2
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#footer)
 
-[![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
+[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
 
 sante.gouv.fr
 
 
-===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
  Rechercher :
 
@@ -842,15 +843,17 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/frederic-valletoux/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
+            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
+            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
+            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
+            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -886,7 +889,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -1430,7 +1433,7 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+La fin d’un chapitre
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -1445,9 +1448,9 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+Réponses à vos questions sur l’application
 
-[Comment importer son certificat de vaccination ?](javascript:;)
+#### [Comment importer son certificat de vaccination ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 Vous avez été vacciné par un professionnel de santé ?  
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
@@ -1463,7 +1466,7 @@ Le professionnel de santé vous remettra, au format papier, un certificat de vac
     * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
     * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
-[Comment récupérer un nouveau certificat sanitaire ?](javascript:;)
+#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -1472,35 +1475,34 @@ Vous pouvez également obtenir une copie papier en vous rendant dans votre caiss
 Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
 En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
-[L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
+#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
 Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
 
-[Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)
+#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
 L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+Plus d’informations sur TousAntiCovid
 
-**–** La foire aux questions technique
-
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
-
-  
-**–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
-
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
-
-  
-**–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
-
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
-
-* * *
+* La foire aux questions technique
+    
+    pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+    
+* Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
+    
+    pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+    
+* Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
+    
+    pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+    
+    * * *
+    
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
@@ -1511,12 +1513,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#footer)
 
-[![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
+[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
 
 sante.gouv.fr
 
 
-===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
  Rechercher :
 
@@ -1583,15 +1585,17 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/frederic-valletoux/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
+            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
+            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
+            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
+            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -1627,7 +1631,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -2155,50 +2159,50 @@ Recherche
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#footer)
 
-[![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
+[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
 
 sante.gouv.fr
 
 
-===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
  Rechercher :
 
 Recherche 
 
-[![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
+[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
 
 sante.gouv.fr
 
 
-===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
  Rechercher :
 
 Recherche 
 
-[![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
+[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
 
 sante.gouv.fr
 
 
-===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
-[![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
-
-sante.gouv.fr
-
-
-===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
-
-[![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
+[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
 
 sante.gouv.fr
 
 
-===============================================================================================================================](https://sante.gouv.fr/ "Ministère du travail, de la santé et des solidarités")
+=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
-![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495)
+[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
+
+sante.gouv.fr
+
+
+=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+
+![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
 
  Rechercher :
 
@@ -2273,15 +2277,17 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/frederic-valletoux/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
+            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
+            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
+            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
+            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -2317,7 +2323,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -2668,15 +2674,17 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/frederic-valletoux/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
+            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
+            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
+            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
+            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -2712,7 +2720,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -3063,15 +3071,17 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/frederic-valletoux/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
+            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
+            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
+            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
+            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -3107,7 +3117,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -3458,15 +3468,17 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/frederic-valletoux/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
+            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
+            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
+            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
+            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -3502,7 +3514,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -3853,15 +3865,17 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/frederic-valletoux/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
+            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
+            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
+            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
+            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -3897,7 +3911,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -4248,15 +4262,17 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Frédéric Valletoux](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/frederic-valletoux/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
+            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
+            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
+            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
+            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -4292,7 +4308,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère du Travail, de la Santé et des Solidarités](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-et-des-solidarites)
+        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
         * [Les métiers du soin et de l’accompagnement recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -6615,7 +6631,7 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+La fin d’un chapitre
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -6630,9 +6646,9 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+Réponses à vos questions sur l’application
 
-[Comment importer son certificat de vaccination ?](javascript:;)
+#### [Comment importer son certificat de vaccination ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 Vous avez été vacciné par un professionnel de santé ?  
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
@@ -6648,7 +6664,7 @@ Le professionnel de santé vous remettra, au format papier, un certificat de vac
     * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
     * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
-[Comment récupérer un nouveau certificat sanitaire ?](javascript:;)
+#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -6657,35 +6673,34 @@ Vous pouvez également obtenir une copie papier en vous rendant dans votre caiss
 Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
 En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
-[L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
+#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
 Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
 
-[Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)
+#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
 L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+Plus d’informations sur TousAntiCovid
 
-**–** La foire aux questions technique
-
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
-
-  
-**–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
-
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
-
-  
-**–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
-
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
-
-* * *
+* La foire aux questions technique
+    
+    pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+    
+* Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
+    
+    pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+    
+* Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
+    
+    pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+    
+    * * *
+    
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
@@ -6705,7 +6720,7 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+La fin d’un chapitre
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -6720,9 +6735,9 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+Réponses à vos questions sur l’application
 
-[Comment importer son certificat de vaccination ?](javascript:;)
+#### [Comment importer son certificat de vaccination ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 Vous avez été vacciné par un professionnel de santé ?  
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
@@ -6738,7 +6753,7 @@ Le professionnel de santé vous remettra, au format papier, un certificat de vac
     * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
     * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
-[Comment récupérer un nouveau certificat sanitaire ?](javascript:;)
+#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -6747,35 +6762,34 @@ Vous pouvez également obtenir une copie papier en vous rendant dans votre caiss
 Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
 En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
-[L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
+#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
 Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
 
-[Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)
+#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
 L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+Plus d’informations sur TousAntiCovid
 
-**–** La foire aux questions technique
-
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
-
-  
-**–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
-
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
-
-  
-**–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
-
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
-
-* * *
+* La foire aux questions technique
+    
+    pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+    
+* Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
+    
+    pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+    
+* Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
+    
+    pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+    
+    * * *
+    
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
@@ -6795,7 +6809,7 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-### La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+La fin d’un chapitre
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -6810,9 +6824,9 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-### Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+Réponses à vos questions sur l’application
 
-[Comment importer son certificat de vaccination ?](javascript:;)
+#### [Comment importer son certificat de vaccination ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 Vous avez été vacciné par un professionnel de santé ?  
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
@@ -6828,7 +6842,7 @@ Le professionnel de santé vous remettra, au format papier, un certificat de vac
     * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
     * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
-[Comment récupérer un nouveau certificat sanitaire ?](javascript:;)
+#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -6837,35 +6851,34 @@ Vous pouvez également obtenir une copie papier en vous rendant dans votre caiss
 Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
 En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
-[L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
+#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
 Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
 
-[Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)
+#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
 
 TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
 L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-### Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+Plus d’informations sur TousAntiCovid
 
-**–** La foire aux questions technique
-
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
-
-  
-**–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
-
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
-
-  
-**–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
-
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
-
-* * *
+* La foire aux questions technique
+    
+    pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+    
+* Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
+    
+    pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+    
+* Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
+    
+    pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+    
+    * * *
+    
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
@@ -6874,6 +6887,10 @@ TousAntiCovid
 
 publié le22.12.22 mise à jour12.10.23
 
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 Suivez-nous  
@@ -6926,7 +6943,7 @@ sur les réseaux sociaux
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
 * [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
 
-![Accueil Ministère du travail, de la santé et des solidarités](IMG/logo/logo-travail-emploi.png?1707300495) 
+![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845) 
 
 * [Plan du site](https://sante.gouv.fr/spip.php?page=plan)
 * [Accessibilité : partiellement conforme](https://sante.gouv.fr/ministere/article/declaration-d-accessibilite-du-site-sante-gouv-fr)
