@@ -103,7 +103,51 @@ In many instances, the content available through the Site represents the opinion
 
 CNN may run advertisements and promotions from third parties on the Site. Your business dealings or correspondence with, or participation in promotions of, advertisers other than CNN, and any terms, conditions, warranties or representations associated with such dealings, are solely between you and such third party. CNN is not responsible or liable for any loss or damage of any sort incurred as the result of any such dealings or as the result of the presence of third-party advertisers on the Site.
 
-**6\. Disclaimer of Warranty; Limitation of Liability and Time Limitation for Claims.** 
+**6\. Subscription Terms.**
+
+These Subscription Terms set forth in this Section govern your use and access to subscription content on CNN.com (the “Subscription Content”).
+
+To access Subscription Content, you must have an Account, and you must have an active subscription plan (a “**Subscription**”) with a valid payment method (a “**Payment Method**”).
+
+(A) Purchasing a Subscription. By purchasing a Subscription, you expressly acknowledge and agree that (1) we (or our third-party payment processor) (the “**Payment Service**”), are authorized to charge your Payment Method. By providing a Payment Method to us, you agree that we and/or our Payment Service are authorized to periodically charge the applicable Subscription fee together with any applicable taxes and service fees (collectively, the “**Subscription Fee**”) on a recurring basis until you duly cancel your Subscription. We and/or our Payment Service will attempt to verify the Payment Method you provide, and may do this by processing an authorization hold, which is a standard practice. If your Payment Method expires and you do not update your Payment Method or duly cancel your Subscription before it automatically renews, you authorize us and/or our Payment Service to continue billing, and you will remain responsible for any uncollected amounts. If a valid Payment Method is not available when a payment becomes due, we may restrict, suspend or cancel your Subscription due to lack of payment.
+
+(B) Ongoing Subscription and Billing Cycle. The Subscription Fee will be billed at the time you establish your Subscription and on an ongoing basis at the intervals specified when you complete your Subscription purchase unless you cancel your Subscription prior to your Subscription renewal. Please note that the length of your billing cycle will vary based upon the Subscription plan you choose when you subscribe. The timing of your billing may change in the event of a problem with your Payment Method (e.g., an expired credit card), in the event you change your Subscription plan or where you start your Subscription on a day not contained in a subsequent month. You can go to the “Subscription” section in your settings to see your next billing date.
+
+**(C) Subscription Price Changes**
+
+We may change the Subscription Fee for any Subscription plan at any time and will communicate any price changes to you in accordance with applicable law. Your continuation of your subscription to the service after such notice has been delivered to you will constitute your acceptance of such price changes, unless you cancel your Subscription in accordance with these Subscription Terms.
+
+(D) No Refunds. UNLESS REQUIRED BY APPLICABLE LAW, WE DO NOT PROVIDE REFUNDS FOR ANY SUBSCRIPTION; NOR DO WE PROVIDE CREDIT, REFUNDS, OR PRORATED BILLING FOR SUBSCRIPTIONS THAT ARE CANCELLED. Even if you cancel your Subscription before the end of your active billing period, as applicable, you will not receive a refund for any portion of the Subscription Fees for the remainder of that billing period. If you cancel, you will continue to have access to the Subscription Content until the end of the then-current billing period. We may choose to offer refunds, discounts or other consideration as a discretionary accommodation. However, each circumstance is unique and our election to make such an offer in one instance does not create the obligation to do so in another.
+
+(F) Cancelling Your Subscription. YOU CAN CANCEL YOUR SUBSCRIPTION AT ANY TIME AND YOU WILL CONTINUE TO HAVE ACCESS TO THE SUBSCRIPTION CONTENT THROUGH THE END OF THE BILLING PERIOD YOU HAVE ALREADY PAID. YOU MUST CANCEL YOUR SUBSCRIPTION AT LEAST ONE DAY BEFORE IT RENEWS IN ORDER TO AVOID BEING CHARGED FOR THE NEXT CYCLE’S SUBSCRIPTION FEE. You may cancel your subscription at any time through your [account settings](https://www.cnn.com/account/settings) by clicking “manage subscription”. If you cancel your subscription, the cancellation will go into effect at the end of your then-current billing period and you will have continued access to your Subscription until the end of that period, but YOU WILL NOT RECEIVE A REFUND OF ANY FEES PAID. You acknowledge and agree that, to the extent not prohibited by applicable law, cancellation of your subscription is your sole recourse if you have any dissatisfaction, issue or concern related to your Subscription, including the Subscription Content, Subscription Fees, applicable taxes, or billing methods; the Subscription Terms or any changes thereto; or any other policies or practices that apply to the Subscription.
+
+(G) Changing Your Account Information. Should you wish to change your name or display name associated with your Subscription, you may do so within your Settings when logged into your Account.
+
+(H) Multiple Billing Options and Plan Switching. You may be offered multiple Subscription billing options to access the Subscription Content. The pricing and offers for Subscriptions may change over time without notice (except as may be required by applicable law). Over time, each Subscription billing plan may offer different Subscription Content availability, functionality, features, device compatibility or have certain conditions or limitations, which will be disclosed during your sign-up or in other materials available on the Site. Subject to availability, if you have purchased a Subscription and would like to make change to a different billing frequency, you will need to log into your Account. You can change your subscription frequency by clicking “Manage” in the “Subscriptions” section of your Settings. Additional terms applicable to the switching of a Subscription plan (such as the applicable charges and changes to billing dates) will be provided at the time of your plan switch.
+
+(I) Updating Your Payment Method. You may update your Payment Method at any time by accessing your Account and clicking “Edit” in the “Subscriptions” section of your Settings. A change in your Payment Method may result in changes to your prior billing cycle. It is your responsibility to update and maintain the Payment Method associated with your Subscription Fee. Please note, for certain Payment Methods, the relevant issuer may charge you certain fees, such as transactional fees or other fees relating to the processing of your Payment Method. Taxes and charges may also be applied and may vary depending on the Payment Method used. You will be solely responsible for any such taxes and charges that may apply.
+
+(J) Unpaid Amounts. You are responsible for all charges incurred in connection with your Subscription. If your Payment Method is declined due to insufficient funds, expired or invalid account details, or for any other reason, and we are unable to process your Subscription Fee for your current billing period, (1) you will remain responsible for all such amounts, as well as any costs that we incur in collecting any amounts you fail to pay for access to the Subscription Content, including attorney and collection fees; (2) you authorize CNN to continue charging your Payment Method, as your Payment Method information may be updated as described in the Account Information section; and (3) CNN may suspend or terminate your Subscription until such time as your Payment Method has been updated and the Subscription Fee is duly paid. You may lose the benefit of any Promotional Offer in the event your Payment Method on file with us fails to cover the Subscription Fee. Except as specified in Section 13, you will remain liable for all amounts and all costs incurred to collect these amounts, such as bank overdraft fees, collection agency fees, reasonable attorney’s fees and arbitration costs.
+
+(K) Free Trials and Promotional Offers. From time to time, we may make certain Subscription plans on the Site available to you on a free trial basis for a limited time (each, a “Trial Subscription”). The duration of each Trial Subscription will be specified at sign-up. Trial Subscriptions are limited to new subscribers, unless otherwise specified. Your status as a new subscriber will be determined by us.
+
+At the time of signing up for a Trial Subscription, you must provide a valid Payment Method in order to access the Subscription Content during the Trial Subscription period. Your Payment Method will not be charged during the Trial Subscription period.
+
+UNLESS YOU TIMELY CANCEL YOUR TRIAL SUBSCRIPTION BEFORE THE END OF YOUR FREE TRIAL, YOUR TRIAL SUBSCRIPTION WILL CONVERT TO A PAID SUBSCRIPTION AT THE END OF YOUR FREE TRIAL, AND THE APPLICABLE SUBSCRIPTION FEE WILL BE CHARGED TO YOUR PAYMENT METHOD.
+
+In addition, from time to time, we may make certain Subscription plans available to you on a discounted basis or in conjunction with a promotion (each, a “Promotional Offer”). If we provide you with a Promotional Offer, you must provide a valid Payment Method in order to access the Subscription Content during the Promotional Period. Promotional Offers may take a variety of forms and may be available on a standalone basis or provided as part of a bundle with other products or services.
+
+In the event of a new/subsequent Promotional Offer after you sign-up for a Subscription, no refunds, adjustments or price protection will be applied to your Subscription Fee. Customers may take advantage of any “new customer” promotion only once. Requirements for a special promotion will be stated at the time each offer is presented. You agree not to register multiple times for the same Promotional Offer using multiple names, addresses, email addresses or other means. Any such action shall constitute a violation of these Terms and may result in the termination of your Subscription.
+
+We reserve the right, in our absolute discretion, to determine your eligibility for any Free Trial or Promotional Offer. In each case, after your Trial Subscription or Promotional Offer period ends, your Subscription will convert to a paid Subscription, and the Payment Service will begin billing your Payment Method for your Subscription at the then-current Subscription Fee unless you cancel before the offer period ends. You may not be notified that your Trial Subscription or Promotional Offer is about to end unless such notice is required by applicable law.
+
+(L) Customer Service. For Customer Service inquiries related to your Subscription or the Subscription Content available through CNN.com (including Subscription Fee and Payment Method), please visit our [Help Center](http://help.cnn.com/). If you are unable to resolve your question using the [Help Center](http://help.cnn.com/), please contact CNN Customer Support at help@cnn.com.
+
+If you have reason to believe that your Account credentials have been compromised or misappropriated in some way, you are encouraged to contact us immediately at CNN Customer Support at [help@cnn.com](http://help@cnn.com/)
+
+(M) Suspension and Termination. We may suspend or terminate your Subscription immediately for any reason or for no reason whatsoever, including if we reasonably determine that you have provided inaccurate account or payment details or you are otherwise in violation of this Agreement. In addition to the foregoing, we can modify access or disable features of the Subscription Content where we have concluded in our discretion that there has been misuse of your Account. If a suspension or termination occurs, you must stop accessing the Subscription Content. If we suspend or terminate your Subscription, you agree not to create another Account or try to access the Subscription Content without permission and we reserve the right to block any such attempted access to the Subscription Content.
+
+**7\. Disclaimer of Warranty; Limitation of Liability and Time Limitation for Claims.** 
 
 (A) YOU EXPRESSLY AGREE THAT USE OF THE SITE IS AT YOUR SOLE RISK.  
 NEITHER CNN, ITS PRESENT OR FUTURE PARENT(S), SUBSIDIARIES, OR RELATED ENTITIES (COLLECTIVELY, “WBD”), NOR ANY OF THEIR RESPECTIVE EMPLOYEES, AGENTS, THIRD PARTY CONTENT PROVIDERS OR LICENSORS WARRANT THAT THE SITE WILL BE UNINTERRUPTED OR ERROR FREE; NOR DO THEY MAKE ANY WARRANTY AS TO THE RESULTS THAT MAY BE OBTAINED FROM USE OF THE SITE, OR AS TO THE ACCURACY, RELIABILITY OR CONTENT OF ANY INFORMATION, SERVICE, OR MERCHANDISE PROVIDED THROUGH THE SITE.
@@ -120,29 +164,29 @@ IF APPLICABLE LAW DOES NOT ALLOW ALL OR ANY PART OF THE ABOVE LIMITATION OF LIAB
 
 (F) SUBJECT TO SECTION 12, TO THE EXTENT PERMITTED BY APPLICABLE LAW, ANY DISPUTE, CLAIM OR CONTROVERSY ARISING OUT OF OR RELATING IN ANY WAY TO THE SERVICE OR YOUR USE OF THE SERVICE AND/OR SITE, THESE TERMS OF USE, OR THE RELATIONSHIP BETWEEN US, MUST BE COMMENCED WITHIN ONE YEAR OF THE RELEVANT EVENTS. A DISPUTE IS COMMENCED IF IT IS FILED IN AN ARBITRATION OR, IF THE DISPUTE IS NON-ARBITRABLE, A COURT WITH JURISDICTION, DURING THE ONE-YEAR PERIOD. IF YOU OR WE PROVIDE NOTICE OF A DISPUTE UNDER SECTION 12(2), THE ONE-YEAR PERIOD IS TOLLED FOR 60 DAYS FOLLOWING RECEIPT OF THE NOTICE OF DISPUTE (ALTHOUGH FOR THE SAKE OF CLARITY IT MAY BE FURTHER EXTENDED IF YOUR DISPUTE, CLAIM, OR CONTROVERSY IS PART OF A MASS FILING AS CONTEMPLATED IN SECTION 12(9)). YOU AND WE EACH WAIVE—THAT IS, GIVE UP—THE RIGHT TO PURSUE ANY DISPUTE, CLAIM OR CONTROVERSY THAT IS NOT FILED WITHIN ONE YEAR AND ANY RIGHT YOU OR WE MAY HAVE HAD TO PURSUE THAT DISPUTE, CLAIM OR CONTROVERSY IN ANY FORUM IS PERMANENTLY BARRED.
 
-**7\. Indemnification.** 
+**8\. Indemnification.** 
 
 You agree to defend, indemnify and hold harmless CNN, its affiliates and their respective directors, officers, employees and agents from and against all claims and expenses, including attorneys’ fees, arising out of the use of the Site by you or your Account. CNN reserves the right to take over the exclusive defense of any claim for which we are entitled to indemnification under this Section. In such event, you shall provide CNN with such cooperation as is reasonably requested by CNN.
 
-**8\. Termination.** 
+**9\. Termination.** 
 
 CNN may terminate or suspend these Terms of Use at any time without notice to you. Without limiting the foregoing, CNN shall have the right to immediately terminate Your Account in the event of any conduct by you which CNN, in its sole discretion, considers to be unacceptable, or in the event of any breach by you of these Terms of Use. The provisions of Sections 1 - 15 shall survive termination of these Terms of Use.
 
-**9\. Trademarks.** 
+**10\. Trademarks.** 
 
 CNN, its parent, subsidiaries and affiliates, own all rights to their logos and trademarks used in connection with the Site. All other logos and trademarks appearing on the Site are the property of their respective owners.
 
-**10\. Governing Law and Venue.** 
+**11\. Governing Law and Venue.** 
 
 The content, data, video, and all other material and features on the Site are presented for the purpose of providing entertainment, news and/or information and/or promoting programs, films, music, games, and other products and/or services that are or may become available in the United States, its territories, possessions, and protectorates.
 
 Any and all disputes, claims and controversies arising out of or in connection with your access to, and/or use of the Sites, and/or the provision of content, services, and/or technology on or through the Sites shall be governed by and construed exclusively in accordance with the laws and decisions of the State of New York applicable to contracts made, entered into and performed entirely therein, without giving effect to its conflict of laws provisions, except to the extent that law is inconsistent with or preempted by federal law. Any dispute that is not subject to arbitration under Section 12 (Dispute Resolution) of this Agreement, or any issues involving arbitrability or enforcement of provisions under Section 12, shall be brought in the appropriate state or federal court located in New York County, New York; and we both irrevocably consent to the exclusive jurisdiction and venue of the state or federal courts in New York County, New York for the adjudication of all non-arbitral claims.
 
-**11\. Severability.** 
+**12\. Severability.** 
 
 Except as specified in Section 12 (Dispute Resolution), if any provision of this Agreement shall be unlawful, void, or for any reason unenforceable, then that provision shall be deemed severable for this Agreement and shall not affect the validity and enforceability of any remaining provisions. This is the entire agreement between the parties relating to the matters contained herein.
 
-**12\. Dispute Resolution.** 
+**13\. Dispute Resolution.** 
 
 We endeavor to resolve customer concerns as quickly as possible. Please contact CNN at [cnn.com/feedback](http://www.cnn.com/feedback).
 
@@ -220,19 +264,19 @@ You and CNN agree that we each value the integrity and efficiency of arbitration
 
 (10) **Severability**: If any portion of this Arbitration Agreement is found to be void, invalid, or otherwise unenforceable, then that portion shall be deemed to be severable and, if possible, superseded by a valid, enforceable provision, or portion thereof, that matches the intent of the original provision, or portion thereof, as closely as possible. The remainder of this Arbitration Agreement shall continue to be enforceable and valid according to the terms contained herein.
 
-**13\. CLASS ACTION AND JURY TRIAL WAIVER** 
+**14\. CLASS ACTION AND JURY TRIAL WAIVER** 
 
 You and CNN agree that, to the fullest extent permitted by law, each party may bring claims (whether in court or in arbitration) against the other only in an individual capacity, and not participate as a plaintiff, claimant, or class member in any class, collective, consolidated, private attorney general, or representative proceeding.  This means that you and CNN may not bring a claim on behalf of a class or group and may not bring a claim on behalf of any other person unless doing so as a parent, guardian, or ward of a minor or in another similar capacity for an individual who cannot otherwise bring their own individual claim.  This also means that you and CNN may not participate in any class, collective, consolidated, private attorney general, or representative proceeding brought by any third party.  Notwithstanding the foregoing, you or CNN may participate in a class-wide settlement.
 
 To the fullest extent permitted by law, you and CNN waive any right to a jury trial.
 
-**14\. Miscellaneous.** 
+**15\. Miscellaneous.** 
 
 These Terms of Use and any operating rules for the Site established by CNN constitute the entire agreement of the parties with respect to the subject matter hereof, and supersede all previous written or oral agreements between the parties with respect to such subject matter. The provisions of these Terms of Use are for the benefit of CNN, its parent, subsidiaries, other affiliates and its third party content providers and licensors and each shall have the right to assert and enforce such provisions directly or on its own behalf. If you access the Site, including its Interactive Areas, from any location other than the United States, you accept full responsibility for compliance with all local laws. You are also subject to United States export controls and are responsible for any violations of United States embargoes or other federal rules and regulations restricting exports. No waiver by either party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default. If any part of these Terms of Use is found by a court of competent jurisdiction to be invalid or unenforceable, it will be replaced with language reflecting the original purpose in a valid and enforceable manner. The enforceable sections of these Terms of Use will remain binding upon the parties. The section headings used herein are for convenience only and shall not be given any legal import.
 
 Neither CNN nor you shall be liable for damages or for delays or failures in performance resulting from acts or occurrences beyond their reasonable control, including, without limitation: fire, lightning, explosion, power surge or failure, water, acts of God, war, terrorism, revolution, civil commotion or acts of civil or military authorities or public enemies: any law, order, regulation, ordinance, or requirement of any government or legal body or any representative of any such government or legal body; or labor unrest, including without limitation, strikes, slowdowns, picketing, or boycotts; inability to secure raw materials, transportation facilities, fuel or energy shortages, or acts or omissions of other common carriers.
 
-**15\. Copyrights and Copyright Agent.** 
+**16\. Copyrights and Copyright Agent.** 
 
 CNN respects the rights of all copyright holders and in this regard, CNN has adopted and implemented a policy that provides for the termination in appropriate circumstances of users and account holders who infringe the rights of copyright holders. If you believe that your work has been copied in a way that constitutes copyright infringement, please provide CNN’s Copyright Agent the following information required by the Online Copyright Infringement Liability Limitation Act of the Digital Millennium Copyright Act, 17 U.S.C. 512:
 
