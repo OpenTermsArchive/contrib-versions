@@ -1,8 +1,6 @@
 Shopping ads policies
 =====================
 
-![A custom icon for Merchant Center Classic and Merchant Center Next. ](//storage.googleapis.com/support-kms-prod/KLWxVXlu6Fv7s0kWSTYVaqjN22vx2p8xrBcL)
-
 As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
 
 Due to the ongoing war in Ukraine, we will be temporarily pausing Google Ads from serving to users located in Russia.
