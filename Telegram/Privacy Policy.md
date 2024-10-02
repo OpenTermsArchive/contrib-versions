@@ -281,7 +281,7 @@ Messages in Secret Chats can be ordered to [self-destruct](https://telegram.org/
 
 #### [](#10-4-account-self-destruction)10.4. Account Self-Destruction
 
-By default, if you stop using Telegram and do not come online for at least 6 months, your account will be deleted along with all messages, media, contacts and every other piece of data you store in the Telegram cloud. You can go to Settings to change the exact period after which your inactive account will self-destruct.
+By default, if you stop using Telegram and do not come online for at least 18 months, your account will be deleted along with all messages, media, contacts and every other piece of data you store in the Telegram cloud. You can go to Settings to change the exact period after which your inactive account will self-destruct.
 
 ### [](#11-changes-to-this-privacy-policy)11\. Changes to this Privacy Policy
 
@@ -321,6 +321,14 @@ We will review and may update this Privacy Policy from time to time. Any changes
 
 * Added [3.1.1. Optional Data](#3-1-1-optional-data).
 * Added information about [Telegram Business chatbots](https://telegram.org/blog/telegram-business#chatbots-for-businesses) to the [Bot Messages](#6-bot-messages) section (6.2, 6.3, 6.5).
+
+**September 23, 2024**
+
+* Updated [8.3](#8-3-law-enforcement-authorities), see [this post](https://t.me/durov/345) for more details.
+
+**September 29, 2024**
+
+* Updated [10.4](#10-4-account-self-destruction) to reflect the new default time period for Account Self-Destruction.
 
 Important changes made to this Privacy Policy will be notified to you via Telegram.
 
