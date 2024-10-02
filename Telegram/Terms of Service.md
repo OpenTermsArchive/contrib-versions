@@ -664,7 +664,7 @@ Termination of a Telegram account is irreversible. If you sign up again, you wil
 
 #### [](#q-how-does-account-self-destruction-work)Q: How does account self-destruction work?
 
-Telegram is not a commercial organization, and we value our disk space greatly. If you stop using Telegram and don't come online for at least six months, your account will be deleted along with all messages, media, contacts and every other piece of data you store in the Telegram cloud. You can change the exact period after which your inactive account will self-destruct in Settings.
+Telegram is not a commercial organization, and we value our disk space greatly. If you stop using Telegram and don't come online for at least 18 months, your account will be deleted along with all messages, media, contacts and every other piece of data you store in the Telegram cloud. You can change the exact period after which your inactive account will self-destruct in Settings.
 
 #### [](#q-can-i-delete-my-data-without-deleting-my-account)Q: Can I delete my data without deleting my account?
 
@@ -704,7 +704,7 @@ First of all, sorry about your phone. Unfortunately, the phone number is the onl
 
 Common thieves usually throw out the SIM card immediately (the phone is harder to locate this way), then wipe the devices and sell them, so there isn't much risk for the data in case of regular petty theft. But if you have reasons to worry about the data on the device and are unable to [log out the other device](#i-have-access-to-telegram-on-another-device), it is best that you wipe it remotely. You can read more about it here: [Apple iOS](https://support.apple.com/kb/PH2701), [Android](https://www.google.com/android/devicemanager). Unfortunately, this requires you to have prepared in advance for this scenario.
 
-You can [delete your Telegram account](#q-how-do-i-delete-my-account) if you are logged in on at least one of your other devices (mobile or desktop). Note that inactive Telegram accounts self-destruct automatically after a period of time — 6 months being the default setting.
+You can [delete your Telegram account](#q-how-do-i-delete-my-account) if you are logged in on at least one of your other devices (mobile or desktop). Note that inactive Telegram accounts self-destruct automatically after a period of time — 18 months being the default setting.
 
 ### [](#bots)Bots
 
@@ -1607,7 +1607,7 @@ Termination of a Telegram account is irreversible. If you sign up again, you wil
 
 #### [](#q-how-does-account-self-destruction-work)Q: How does account self-destruction work?
 
-Telegram is not a commercial organization, and we value our disk space greatly. If you stop using Telegram and don't come online for at least six months, your account will be deleted along with all messages, media, contacts and every other piece of data you store in the Telegram cloud. You can change the exact period after which your inactive account will self-destruct in Settings.
+Telegram is not a commercial organization, and we value our disk space greatly. If you stop using Telegram and don't come online for at least 18 months, your account will be deleted along with all messages, media, contacts and every other piece of data you store in the Telegram cloud. You can change the exact period after which your inactive account will self-destruct in Settings.
 
 #### [](#q-can-i-delete-my-data-without-deleting-my-account)Q: Can I delete my data without deleting my account?
 
@@ -1647,7 +1647,7 @@ First of all, sorry about your phone. Unfortunately, the phone number is the onl
 
 Common thieves usually throw out the SIM card immediately (the phone is harder to locate this way), then wipe the devices and sell them, so there isn't much risk for the data in case of regular petty theft. But if you have reasons to worry about the data on the device and are unable to [log out the other device](#i-have-access-to-telegram-on-another-device), it is best that you wipe it remotely. You can read more about it here: [Apple iOS](https://support.apple.com/kb/PH2701), [Android](https://www.google.com/android/devicemanager). Unfortunately, this requires you to have prepared in advance for this scenario.
 
-You can [delete your Telegram account](#q-how-do-i-delete-my-account) if you are logged in on at least one of your other devices (mobile or desktop). Note that inactive Telegram accounts self-destruct automatically after a period of time — 6 months being the default setting.
+You can [delete your Telegram account](#q-how-do-i-delete-my-account) if you are logged in on at least one of your other devices (mobile or desktop). Note that inactive Telegram accounts self-destruct automatically after a period of time — 18 months being the default setting.
 
 ### [](#bots)Bots
 
