@@ -1,7 +1,7 @@
 Ziff Davis, LLC Terms of Use
 ============================
 
-**Effective October 18, 2023**
+**Effective September 2024**
 
 #### **Note: The Ziff Davis Terms of Use have been updated. Please review the updated Terms of Use carefully before using the Ziff Davis Services. By using any of the Ziff Davis Services, you consent to the terms of the updated Terms of Use.**
 
@@ -48,6 +48,8 @@ These Terms cover the following Ziff Davis websites and mobile applications:
 * [**TechHubBox**](https://www.techhubbox.com/)
 * [**Technology-Signals**](https://technology-signals.com/)
 * [**Ziff Davis Performance Marketing**](https://zdperformancemarketing.com/)
+* [**CNET**](https://www.cnet.com/)
+* [**ZDNET**](https://www.zdnet.com/)
 
 Applications:
 
@@ -305,7 +307,7 @@ You agree to indemnify, defend and hold Ziff Davis and its affiliates, and their
 * Your violation of the rights of any other person or entity; or
 * Your violation of any applicable laws, rules or regulations.
 
-Ziff Davis reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and in such case, you agree to cooperate with Ziff Davis’ defense of such claim.
+Ziff Davis reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and in such case, you agree to cooperate with Ziff Davis’ defense of such claim. You may not settle any claim covered by this indemnification provision without our prior written approval.
 
 7\. Termination of Service
 --------------------------
