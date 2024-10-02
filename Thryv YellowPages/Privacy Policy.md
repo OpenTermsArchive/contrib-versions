@@ -8,7 +8,7 @@ Privacy Notice
 
 Thryv, Inc. and its affiliates and subsidiaries (individually and collectively known as “Thryv”) respect your right to privacy, and we want you to be aware of how we collect and handle information. This policy applies to our handling of information on each website and mobile application on which we provide this Privacy Policy.
 
-**Revised: June 28, 2024**
+**Revised: October 1, 2024**
 
 Your information privacy is important to us.
 
@@ -208,7 +208,7 @@ Some browsers or browser extensions also allow you to tell websites not to share
 
 Options you make are device specific.
 
-Residents of some jurisdictions (e.g., California, Virginia, Colorado) have the ability to opt out of cross-contextual behavioral advertising through other means. Please see the Right to Opt-out of Sale or Sharing section below.
+Residents of some jurisdictions (e.g., California, Virginia, Colorado, Montana) have the ability to opt out of cross-contextual behavioral advertising through other means. Please see the Right to Opt-out of Sale or Sharing section below.
 
 Managing Your Marketing Preferences
 
@@ -256,12 +256,12 @@ Although we will make all reasonable efforts to ensure your personal information
 
 Notice to Residents of the United States
 
-If you are a resident of California, or jurisdictions with similar laws (e.g., Colorado, Connecticut, Oregon, Texas, Utah, Virginia), you may have certain additional privacy rights under the applicable privacy laws in your state (“**State Privacy Laws**”). This section generally describes those rights and how you can exercise them.
+If you are a resident of California, or jurisdictions with similar laws (e.g., Colorado, Connecticut, Montana, Oregon, Texas, Utah, Virginia), you may have certain additional privacy rights under the applicable privacy laws in your state (“**State Privacy Laws**”). This section generally describes those rights and how you can exercise them.
 
 These rights are not absolute. In some situations we may not be able to process your request. This may include if a legal exception applies. These rights may be offered based on your location. We’ll let you know when or if a right doesn’t apply to you. You will not be discriminated against for exercising a privacy right. Those rights are:
 
 1. **Access:** to learn the categories and specific pieces of information we collect, use, disclose and sell; for those in California, the categories of sources of collection, the third parties to whom the information is disclosed or sold, and the business purpose for such collection or disclosure; for those in Oregon, a list of specific third parties (as defined under Oregon law), to whom we have disclosed Personal Information;
-2. **Portability:** a copy of (Virginia) or specific pieces of (California) Personal Information collected;
+2. **Portability:** a copy of (e.g., Virginia, Montana) or specific pieces of (e.g., California) Personal Information collected;
 3. **Deletion:** to have us delete information we collected from you; and
 4. **Correction:** asking us to fix your information.
 
@@ -295,7 +295,7 @@ Making a verifiable consumer request does not require you to create an account w
 
 **Right to Opt-out of the Sale or Sharing of Personal Information**
 
-Residents of certain jurisdictions (e.g., California, Colorado, Connecticut, Utah, Texas, Oregon, Virginia) have the right to opt out of the “sale” or “sharing” of their personal data, as such terms are defined under State Privacy Laws.
+Residents of certain jurisdictions (e.g., California, Colorado, Connecticut, Utah, Texas, Oregon, Montana, Virginia) have the right to opt out of the “sale” or “sharing” of their personal data, as such terms are defined under State Privacy Laws.
 
 Under California law, “share” means disclosing your personal information by us to a third party for cross-context behavioral advertising, in exchange for money or anything else of value. Thus, when we use the term “share” under this section, we are using it in the narrow meaning of how it is defined under California law. Other State Privacy Laws do not use the term “share,” but describe the concept as using personal information for targeted advertising.
 
@@ -327,7 +327,7 @@ To learn more about these advertising practices or to opt out of this type of ad
 
 **Right to Opt-out of Profiling**
 
-Residents of some jurisdictions (e.g., California, Colorado, Connecticut, Oregon, Texas, Virginia) - subject to certain exceptions - may have a right to opt out of forms of automated processing performed on Personal Information to evaluate, analyze or predict personal aspects related to your economic situation, health, personal preferences, interests, reliability, behavior, location or movements (“**Profiling**”).
+Residents of some jurisdictions (e.g., California, Colorado, Connecticut, Oregon, Montana, Texas, Virginia) - subject to certain exceptions - may have a right to opt out of forms of automated processing performed on Personal Information to evaluate, analyze or predict personal aspects related to your economic situation, health, personal preferences, interests, reliability, behavior, location or movements (“**Profiling**”).
 
 We engage in cookie-based or digital advertising-based Profiling. To opt out of this practice, please follow the instructions detailed above regarding opting out of the sale or sharing of your Personal Information.
 
@@ -343,7 +343,7 @@ Residents of some jurisdictions (e.g., California) have a right to limit the pro
 
 **Right to Appeal**
 
-Residents of some jurisdictions (e.g., Virginia, Colorado) have a right to appeal our decision on a privacy rights request. If we were unable to fulfill your request, you may appeal our request by submitting our web form available [here](https://privacyportal-cdn.onetrust.com/dsarwebform/dd6500c7-03cb-45b0-8bed-97ece55a892d/cfcefb69-41db-4aee-bd00-c702df72ee0f.html) within fourteen days of our decision, and provide a detailed reason for your appeal, as well as your state of residence.
+Residents of some jurisdictions (e.g., Virginia, Montana, Colorado) have a right to appeal our decision on a privacy rights request. If we were unable to fulfill your request, you may appeal our request by submitting our web form available [here](https://privacyportal-cdn.onetrust.com/dsarwebform/dd6500c7-03cb-45b0-8bed-97ece55a892d/cfcefb69-41db-4aee-bd00-c702df72ee0f.html) within fourteen days of our decision, and provide a detailed reason for your appeal, as well as your state of residence.
 
 **Notice to Nevada Residents/Your Nevada Privacy Rights**
 
