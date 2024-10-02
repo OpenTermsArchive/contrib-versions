@@ -116,6 +116,8 @@ Violent organisations and movements
 
 Known violent non-state organisations and movements are not permitted to use this product for any purpose. Do not distribute content that facilitates or promotes the activities of these groups, such as recruiting, coordinating online or offline activities, sharing manuals or other materials that could facilitate harm, promoting ideologies of violent non-state organisations, promoting terrorist acts, inciting violence or celebrating attacks by violent non-state organisations. Depending upon the content, we may also take action against the user. Content related to violent non-state organisations may be allowed in an educational, documentary, scientific or artistic context, but please be mindful to provide enough information to help people understand the context.
 
+**Last updated**: September 2021
+
 Unauthorised images of minors
 
 Do not store or distribute images of minors without explicit consent from the child's parent, guardian or legal representative. If someone has stored or distributed an image of a minor without necessary consent, please report it to us [here](https://support.google.com/photos/troubleshooter/6080141).
@@ -175,6 +177,8 @@ Below are examples of what we do not allow in printed products:
 #### Violent organisations and movements
 
 Known violent non-state organisations and movements are not permitted to use this product for any purpose. Do not distribute content that facilitates or promotes the activities of these groups, such as recruiting, coordinating online or offline activities, sharing manuals or other materials that could facilitate harm, promoting ideologies of violent non-state organisations, promoting terrorist acts, inciting violence or celebrating attacks by violent non-state organisations. Depending upon the content, we may also take action against the user. Content related to violent non-state organisations may be allowed in an educational, documentary, scientific or artistic context, but please be mindful to provide enough information to help people understand the context.
+
+**Last updated**: September 2021
 
 #### Violence and gore
 
