@@ -11,7 +11,7 @@ The App and Sites are global, and your information will be sent to and used in t
 
 The App and Sites are operated by the “Bumble Group” (also referred to in this policy as “we” or “us”) which includes Bumble Holding Limited, Badoo Trading Limited and Bumble Trading LLC, all of which are controllers of personal information collected and processed through the Bumble App and Sites.
 
-The Bumble Group has designated a Data Protection Officer and they can be reached by emailing [DPO@bumble.com](mailto:DPO@bumble.com) or by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS.
+The Bumble Group has designated a Data Protection Officer and they can be reached by emailing [DPO@bumble.com](mailto:DPO@bumble.com) or by post at the following address: 1 Blossom Yard, Fourth Floor, London E1 6RS.
 
 1\. COLLECTION OF INFORMATION.
 ------------------------------
@@ -322,7 +322,7 @@ Privacy laws applicable in your country may give you the following rights:
 
 The particular rights which are applicable to you (which might include other rights not listed above) may vary depending on your country. You should make yourself aware of the rights you have under applicable privacy laws in your country.
 
-If you want to exercise any of your rights listed above please visit our [Feedback Page](https://bumble.com/contact-us) or email our Data Protection Officer at [DPO@bumble.com](mailto:DPO@bumble.com). You can also contact us by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS. For your protection and the protection of all of our Users, we may need to request specific information from you to help us confirm your identity before we can answer the above requests.
+If you want to exercise any of your rights listed above please visit our [Feedback Page](https://bumble.com/contact-us) or email our Data Protection Officer at [DPO@bumble.com](mailto:DPO@bumble.com). You can also contact us by post at the following address: 1 Blossom Yard, Fourth Floor, London E1 6RS. For your protection and the protection of all of our Users, we may need to request specific information from you to help us confirm your identity before we can answer the above requests.
 
 If you have a concern about how we have processed your request or your personal data, you should contact us in the first instance via the contact details listed above.
 
@@ -364,4 +364,4 @@ As Bumble evolves, we may revise this Privacy Policy from time to time. The most
 
 ### Effective date
 
-This Privacy Policy was last updated on: 16th February 2024
+This Privacy Policy was last updated on: 02nd October 2024
