@@ -35,27 +35,49 @@ If you are a visitor of our website, we use your personal and non-personal data 
 
 When you are one of our customers, we use the information we collect about you to provide the services to you. As part of that purpose, we use your data:
 
-1. to create and maintain your platform account, and to control access to it;
+1. Badge Check
     
-2. to provide our services and facilitate performance, including verifications relating to you and for email verifications;
+    to create and maintain your platform account, and to control access to it;
     
-3. to provide you with real-time logs of your use of the platform;
+2. Badge Check
     
-4. to respond to any requests you may submit for support or sales information, or similar communications;
+    to provide our services and facilitate performance, including verifications relating to you and for email verifications;
     
-5. to communicate with you about our services (for example through newsletters, marketing emails, announcements or special offers);
+3. Badge Check
     
-6. for billing and collection purposes, if you have subscribed to one of our paid plans;
+    to provide you with real-time logs of your use of the platform;
     
-7. for the investigation, prevention and management of fraud and for breaches of our Terms of service;
+4. Badge Check
     
-8. to enable third parties to provide services to us;
+    to respond to any requests you may submit for support or sales information, or similar communications;
     
-9. for customers that request allocated dedicated IP addresses, for the purposes of assigning the dedicated IP address to that customer;
+5. Badge Check
     
-10. personalize, assess, and improve our services, content and materials and for audience measurement purposes;
+    to communicate with you about our services (for example through newsletters, marketing emails, announcements or special offers);
     
-11. to comply with applicable laws to which we are subject.
+6. Badge Check
+    
+    for billing and collection purposes, if you have subscribed to one of our paid plans;
+    
+7. Badge Check
+    
+    for the investigation, prevention and management of fraud and for breaches of our Terms of service;
+    
+8. Badge Check
+    
+    to enable third parties to provide services to us;
+    
+9. Badge Check
+    
+    for customers that request allocated dedicated IP addresses, for the purposes of assigning the dedicated IP address to that customer;
+    
+10. Badge Check
+    
+    personalize, assess, and improve our services, content and materials and for audience measurement purposes;
+    
+11. Badge Check
+    
+    to comply with applicable laws to which we are subject.
     
 
 We may use your non-personal data to enhance the services, for instance through web analytics or troubleshooting. We may also use aggregated or depersonalized information to promote our services, such as by citing usage statistics.
@@ -109,19 +131,33 @@ You can sign our Data Processing Agreement which lists out all our important sub
 
 In accordance with Data Protection laws, you have the right to:
 
-1. Request access to your personal data. This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
+1. Badge Check
     
-2. Request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
+    Request access to your personal data. This enables you to receive a copy of the personal data we hold about you and to check that we are lawfully processing it.
     
-3. Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no legitimate reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have exercised your right to object to processing (see below).
+2. Badge Check
     
-4. Withdraw your consent and opt-out from our communications. We will honor your opt-out within 14 days. Please note that you cannot unsubscribe from service-related messages if you remain a customer.
+    Request correction of the personal data that we hold about you. This enables you to have any incomplete or inaccurate information we hold about you corrected.
     
-5. Object to processing of your personal data, for example, if we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this basis.
+3. Badge Check
     
-6. Request the restriction of processing of your personal data. This enables you to ask us to suspend the processing of personal data about you, for example if you want us to establish its accuracy or the reason for processing it.
+    Request erasure of your personal data. This enables you to ask us to delete or remove personal data where there is no legitimate reason for us continuing to process it. You also have the right to ask us to delete or remove your personal data where you have exercised your right to object to processing (see below).
     
-7. Request the transfer of your personal data (right to data portability).
+4. Badge Check
+    
+    Withdraw your consent and opt-out from our communications. We will honor your opt-out within 14 days. Please note that you cannot unsubscribe from service-related messages if you remain a customer.
+    
+5. Badge Check
+    
+    Object to processing of your personal data, for example, if we are relying on a legitimate interest (or those of a third party) and there is something about your particular situation which makes you want to object to processing on this basis.
+    
+6. Badge Check
+    
+    Request the restriction of processing of your personal data. This enables you to ask us to suspend the processing of personal data about you, for example if you want us to establish its accuracy or the reason for processing it.
+    
+7. Badge Check
+    
+    Request the transfer of your personal data (right to data portability).
     
 
 If you want to exercise any of the above rights, please email our privacy team at [privacy@mailgun.com](mailto:privacy@mailgun.com). Sinch Email commits to resolve complaints about our collection or use of your personal information. EU individuals with inquiries or complaints should first contact our Data Protection Officer at [privacy@mailgun.com](mailto:privacy@mailgun.com).
