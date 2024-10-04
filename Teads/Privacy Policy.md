@@ -3,13 +3,13 @@ Teads Website Privacy Policy
 
 Last updated: January 23, 2020
 
-Teads SA., together with its affiliates (“Teads,” “we,” “us,” or “our”) takes your privacy very seriously. This privacy policy governs and details Teads’ data practices on how we collect, use, process, and share the data we collect through our website [www.teads.com](http://www.teads.com/) (the “Services”). This privacy policy does not describe Teads’ data practices relating to information Teads collects through its advertising services. Your use of the Site is also governed by the Terms of Use.
+Teads SA., together with its affiliates (“Teads,” “we,” “us,” or “our”) takes your privacy very seriously. This privacy policy governs and details Teads’ data practices on how we collect, use, process, and share the data we collect through our website [www.teads.com](http:/) (the “Services”). This privacy policy does not describe Teads’ data practices relating to information Teads collects through its advertising services. Your use of the Site is also governed by the Terms of Use.
 
 To access our privacy policy governing our advertising service only, please [click here](https://www.teads.com/privacy-policy/) 
 
 As used herein, “personal data” means any information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular Teads customer or consumer or his or her household. 
 
-Please note that we may update or change this privacy policy. If we revise our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective. Please check the Teads website [www.teads.com](http://www.teads.com/) for the latest version of the privacy policy.
+Please note that we may update or change this privacy policy. If we revise our privacy policy, we will post those changes to this privacy statement, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective. Please check the Teads website [www.teads.com](http:/) for the latest version of the privacy policy.
 
 1\. Information We Collect
 --------------------------
