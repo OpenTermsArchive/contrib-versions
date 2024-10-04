@@ -2,7 +2,7 @@ Roblox Community Standards
 ==========================
 
 * [Safety](#safety)
-    * [Child Endangerment](#child-endangerment)
+    * [Child Exploitation](#child-exploitation)
     * [Terrorism and Violent Extremism](#terrorism-and-violent-extremism)
     * [Threats, Bullying, and Harassment](#threats-bullying-and-harassment)
     * [Suicide, Self Injury, and Harmful Behavior](#suicide-self-injury-and-harmful-behavior)
@@ -14,7 +14,7 @@ Roblox Community Standards
     * [Romantic and Sexual Content](#romantic-and-sexual-content)
     * [Illegal and Regulated Goods and Activities](#illegal-and-regulated-goods-and-activities)
     * [Profanity](#profanity)
-    * [Political Content](#political-content)
+    * [Political Figures and Entities](#political-figures-entities)
 * [Integrity](#integrity)
     * [Cheating and Scams](#cheating-and-scams)
     * [Spam](#spam)
@@ -48,9 +48,9 @@ Safety
 
 We want our community to be a place where people can connect with optimism and civility, regardless of their identity or beliefs. To ensure Roblox is a place where everyone feels comfortable being themselves, the following is not allowed:
 
-Child Endangerment
+Child Exploitation
 
-Roblox has a zero-tolerance policy for endangering minors, including:
+Roblox has a zero-tolerance policy for the exploitation of minors, including:
 
 * Any predatory behavior, including attempting to befriend a minor in order to manipulate and exploit them (i.e., grooming)
 * Sexualizing minors in any way
@@ -93,7 +93,6 @@ At Roblox, we take our users’ well-being very seriously. We’re here to help 
 * Content that glorifies, supports, or depicts instances or methods of suicide or self-harm
 * Dangerous physical challenges or stunts in the real world
 
-  
 If you or a loved one are having thoughts of suicide or self-harm, there is help available. Reach out to a suicide prevention hotline like the one found [here](https://988lifeline.org/). For additional global resources, [here](https://support.google.com/websearch/answer/11181469) is a good place to start.
 
 Discrimination, Slurs, and Hate Speech
@@ -129,9 +128,11 @@ Real-World Sensitive Events
 
 Roblox prohibits content that recreates specific real-world sensitive events; mocks the victims of such events; supports, glorifies, or promotes the perpetrators or outcome of such events; or capitalizes on these events for commercial purposes, including content about:
 
-* Mass acts of violence against people or property
-* Specific, real-world, natural disaster events
+* Acts of mass violence against people or property
+* Specific, real-world natural disaster events and catastrophic accidents
 * Human or civil rights violations
+* Sensational crimes and their perpetrators
+* Inflammatory content related to real-world border, territorial, or jurisdictional relationships
 
 Violent Content and Gore
 
@@ -160,7 +161,7 @@ For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.hel
 
 Illegal and Regulated Goods and Activities
 
-We do not allow users to discuss or engage in illegal activities or encourage others to do so on Roblox. We also prohibit the discussion, depiction, or promotion of some illegal and regulated goods or activities. This includes:
+We do not allow users to discuss or engage in real world illegal activities or encourage others to do so on or off Roblox. We also prohibit the discussion, depiction, or promotion of some illegal and regulated goods or activities. This includes:
 
 * Controlled substances such pharmaceutical and recreational drugs, as well as as alcohol, tobacco, vaping, and their associated paraphernalia
 * Dietary supplements and enhancers such as weight loss pills and steroids
@@ -168,10 +169,10 @@ We do not allow users to discuss or engage in illegal activities or encourage ot
 * Purveyors of illegal and regulated substances
 * Bomb/explosive and weapon-making instructions or schematics in the real world
 * Realistic modern firearms outside of in-experience items
-* On-platform contests where Robux or anything else of value is offered as a prize
+* On-platform contests, games of chance, or competitions where Robux or anything else of value is offered as a prize
 * Sweepstakes-style games
 
-Except where prohibited by local law or regulation, we allow the portrayal of gambling in experiences. However, no real money, Robux, or in-experience items of value may be exchanged in connection with any gambling activities. We also require that the odds of winning be fair and clearly disclosed to the user prior to playing.
+Except where prohibited by local law or regulation, we allow unplayable gambling content, such as references to gambling and related imagery. However, we prohibit both simulated and actual gambling activities on the platform. No real money, Robux, or in-experience items of value may be exchanged in connection with any gambling activities.
 
 If you or someone you know is struggling with substance abuse, help is available. You can start [here](https://www.samhsa.gov/public-messages).
 
@@ -186,18 +187,19 @@ To keep Roblox safe and civil for everyone, we do not allow swearing in any lang
 
 For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
 
-Political Content
+Political Figures and Entities
 
-We value friendly debate about issues and topics that matter to Robloxians. However, to maintain a civil and respectful environment, we prohibit the discussion or depiction of certain political content, including:
+We value friendly debate about social and political issues and topics that matter to the Roblox community. To maintain Roblox’s civil environment, we prohibit the discussion or depiction of content pertaining to political figures and entities, including:
 
-* Current candidates running for public office, including their slogans, campaign material, rallies, or events
-* Political parties, including official party-affiliated organizations
-* Specific races for elected office
-* Sitting real-world elected officials
-* Recent, previously-elected, officials in their official capacity
-* Individuals who have previously run for political office in their capacity as candidate
-* Desecration of political entity symbols, including flag burning
-* Inflammatory content related to real world border, territorial, or jurisdictional relationships
+* Political figures in their official capacity, including:
+    * Current or recent real-world government officials
+    * Candidates who are currently running for or recently ran for public office and their slogans, campaign material, rallies, or events
+* Political entities, including:  
+    * Political parties, including official party-affiliated organizations
+    * Specific races for elected office
+    * Desecration of political symbols, such as flag burning
+
+Note: Fundraising for political figures and entities as defined above is prohibited by the Community Standard governing Roblox Economy. Advertising for political figures and entities as defined above is prohibited by our Advertising Standards.
 
 Integrity
 
@@ -249,7 +251,6 @@ Independent Advertisement Publishing Instead of using Roblox Immersive Ads, deve
 * Developers may not reuse or repurpose Roblox Immersive Ad content.
 * Advertisements cannot falsely represent the content being advertised to encourage user engagement (e.g., offer free Robux).
 
-  
 For more information on how to independently advertise, please see our [Creator guidance here.](https://create.roblox.com/docs/production/promotion/advertising-on-roblox#independent-advertising)
 
 Prohibited Advertising Practices and Content All advertisements on Roblox must adhere to Roblox’s [Advertising Standards](https://en.help.roblox.com/hc/articles/13722260778260). Creator guidance for complying with the Advertising Standards can be found [here](https://create.roblox.com/docs/production/promotion/complying-with-advertising-standards).
@@ -261,6 +262,7 @@ Roblox maintains the Robux system for everyone’s benefit and enjoyment. To kee
 * Using third-party services to buy, sell, trade, or give away Robux. This does not apply to Roblox gift cards.
 * Engaging in off-platform, secondary market transactions for account access or virtual content from experiences or Marketplace. This does not apply to account holders selling or transferring the rights to the account’s creations as part of a verifiable agreement.
 * Using the group payout system in a fraudulent or misleading manner; including offering payment in Robux for acting as a model for assets, joining groups, referring members, or role-playing in experiences.
+* Circumventing Roblox payment systems or fees, including by providing users indirect benefits for purchasing content or packages in other Roblox properties or systems.
 
 Promotional Offers Developers may not use off-platform services or products to sell on-platform items (including exclusive features or other in-experience enhancements) for money or Robux, either directly or as a bundle, unless expressly authorized by or in partnership with Roblox. Find more details on acceptable promo codes [here](https://en.help.roblox.com/hc/articles/10549651908244).
 
@@ -270,7 +272,6 @@ Soliciting Donations We also do not allow our community to solicit donations for
 * Claiming that a transaction is associated with a fundraiser
 * Stating to users that some amount of sales proceeds will be directed toward a cause
 
-  
 Note: Developers may implement in-experience Robux transactions for users to express appreciation of the experience or generously reward a creator (e.g. a “tip jar” feature) as long as it is clear to the user that they receive nothing in return for their payment.
 
 Paid Random Items Paid random item generators include those purchased with Robux directly or via in-experience currencies that are purchased with Robux.
@@ -281,10 +282,10 @@ Paid Random Items Paid random item generators include those purchased with Robux
 
 Security
 
-For our community to thrive, everyone must feel digitally safe as well as physically safe. We can achieve this by respecting each other’s personal information and Roblox’s safety systems, and by keeping Roblox accounts secure. This section describes how players and creators should treat others’ information and protect their own and others’ digital security.  
-  
-For information about how Roblox handles your personal information, please visit the [Privacy Policy](https://en.help.roblox.com/hc/articles/115004630823). For more information on how to keep your account secure - including how to enable additional security features such as two-step verification - visit our help page [here](https://en.help.roblox.com/hc/articles/203313380).  
-  
+For our community to thrive, everyone must feel digitally safe as well as physically safe. We can achieve this by respecting each other’s personal information and Roblox’s safety systems, and by keeping Roblox accounts secure. This section describes how players and creators should treat others’ information and protect their own and others’ digital security.
+
+For information about how Roblox handles your personal information, please visit the [Privacy Policy](https://en.help.roblox.com/hc/articles/115004630823). For more information on how to keep your account secure - including how to enable additional security features such as two-step verification - visit our help page [here](https://en.help.roblox.com/hc/articles/203313380).
+
 To help maintain a safe metaverse, Roblox does not permit:
 
 Sharing Personal Information
@@ -304,14 +305,15 @@ To maintain privacy and safety, users may be prohibited from sharing or requesti
 
 Directing Users Off-Platform
 
-When using Roblox, you may not link to any external websites or services, except for: YouTube, Facebook, Discord, X (formerly Twitter), Twitch, GitHub, and Guilded. Links to any of those approved sites must be wrapped in the [applicable PolicyService API](https://developer.roblox.com/en-us/api-reference/function/PolicyService/GetPolicyInfoForPlayerAsync) or listed in the Social Networks and Social Links settings of your profile or experience description page. Links (including those to approved sites) that appear in locations where the API cannot be deployed - such as text chat or embedded in media - are prohibited. Any other links or efforts to evade detection of links are prohibited, including:
+When using Roblox, you may not link to \\, share, or display URLs of any external websites or services, except for: YouTube, Facebook, Discord, X (formerly Twitter), Guilded, and Twitch. Links to any of those approved sites must be wrapped in the [applicable PolicyService API](https://developer.roblox.com/en-us/api-reference/function/PolicyService/GetPolicyInfoForPlayerAsync) or listed in the Social Networks and Social Links settings of your profile or experience description page. Links (including those to approved sites) that appear in locations where the API cannot be deployed - such as text chat or embedded in media - are prohibited unless expressly authorized by or in partnership with Roblox. Any other efforts to direct users off of Roblox to an external website or service are prohibited, including:
 
-* Links that contain Roblox-inappropriate content
-* Partial links, filter-breaking, and permitted website links to non-permitted websites
+* Links, QR codes, or barcodes
+* Efforts to evade detection of links, including but not limited to: partial links, filter-bypassing, or masked links that misdirect users
 * Encouraging others to visit unpermitted external links
 
-  
-Note: For their privacy and safety, we prohibit users under age 13 from sharing links, regardless of API usage
+Note: For their privacy and safety, we prohibit users under age 13 from viewing or sharing links, regardless of API usage
+
+DevForum and Talent Hub are treated separately and may have other links to external websites and services approved for use that are not permissible on the Roblox platform.
 
 Misusing Roblox Systems Roblox maintains many systems to keep our users safe and secure, and we prohibit attempts to bypass these systems, gain unauthorized access to Roblox or to others’ Roblox accounts or information, or to otherwise violate our platform security requirements, including by:
 
@@ -334,13 +336,14 @@ Disruptive Content and Behavior
 
 For more information about creating Avatar Bodies that comply with these policies, including requirements for clothing and accessories, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
 
-Last Updated: July 15, 2024
+Last Updated: October 3, 2024
 
 Change Log
 
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| October 3, 2024 | Updated the following Community Standards:<br><br>* Child Endangerment<br>    * Changed name to “Child Exploitation”<br>* Directing Users Off-Platform<br>    * Clarified that QR codes, or barcodes are not allowed<br>    * Added note that DevForum and Talent Hub are treated differently<br>    * Added that some URLs are allowed if authorized by or in partnership with Roblox<br>* Illegal and Regulated Goods and Activities<br>    * Clarified contests to include games of chance and competitions<br>    * Updated gambling language and removed mention of favorable odds<br>* Political Content<br>    * Changed name to “Political Figures and Entities”<br>    * Moved bullet about inflammatory content related to real world border, territorial, or jurisdictional relationships to Real-World Sensitive Events<br>    * Reorganized prohibited content into two categories: political figures and political entities<br>* Real-World Sensitive Events<br>    * Added catastrophic accidents and sensational crimes<br>    * Moved bullet about inflammatory content related to real world border, territorial, or jurisdictional relationships from Political Figures and Entities<br>* Roblox Economy<br>    * Added a prohibition against offering indirect benefits across Roblox payment systems or properties<br><br>Effective October 3, 2024 |
 | August 5, 2024 | Added “Customizable Friend Requests” as permitted to use real names for eligible users under the Sharing PII policy |
 | July 15, 2024 | Added “Guilded” and “GitHub” to the list of allowed external websites or services under the Directing Users Off-Platform policy.<br><br>Added additional examples under Child Endangerment.<br><br>Effective July 15, 2024 |
 | April 1, 2024 | Updated the following Community Standards:<br><br>* Sharing Personal Information<br>    * Included age clarification<br>    * Updated language for Usernames and Display Names<br>    * Updated examples of prohibited content<br>* Directing Users Off-Platform<br>    * Updated name of Twitter to X (formerly Twitter)<br><br>Effective April 1, 2024 |
