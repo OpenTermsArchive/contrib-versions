@@ -665,7 +665,8 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-La fin d’un chapitre
+La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -680,9 +681,10 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-Réponses à vos questions sur l’application
+Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### [Comment importer son certificat de vaccination ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+#### [Comment importer son certificat de vaccination ?](javascript:;)
 
 Vous avez été vacciné par un professionnel de santé ?  
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
@@ -698,7 +700,7 @@ Le professionnel de santé vous remettra, au format papier, un certificat de vac
     * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
     * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
-#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -707,34 +709,36 @@ Vous pouvez également obtenir une copie papier en vous rendant dans votre caiss
 Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
 En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
-#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
 
 L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
 Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
 
-#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)
 
 TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
 L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-Plus d’informations sur TousAntiCovid
+Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* La foire aux questions technique
-    
-    pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
-    
-* Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
-    
-    pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
-    
-* Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
-    
-    pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
-    
-    * * *
-    
+**–** La foire aux questions technique
+
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+
+  
+**–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
+
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+
+  
+**–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
+
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+
+* * *
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
@@ -1433,7 +1437,8 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-La fin d’un chapitre
+La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -1448,9 +1453,10 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-Réponses à vos questions sur l’application
+Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### [Comment importer son certificat de vaccination ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+#### [Comment importer son certificat de vaccination ?](javascript:;)
 
 Vous avez été vacciné par un professionnel de santé ?  
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
@@ -1466,7 +1472,7 @@ Le professionnel de santé vous remettra, au format papier, un certificat de vac
     * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
     * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
-#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -1475,34 +1481,36 @@ Vous pouvez également obtenir une copie papier en vous rendant dans votre caiss
 Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
 En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
-#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
 
 L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
 Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
 
-#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)
 
 TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
 L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-Plus d’informations sur TousAntiCovid
+Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* La foire aux questions technique
-    
-    pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
-    
-* Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
-    
-    pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
-    
-* Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
-    
-    pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
-    
-    * * *
-    
+**–** La foire aux questions technique
+
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+
+  
+**–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
+
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+
+  
+**–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
+
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+
+* * *
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
@@ -6631,7 +6639,8 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-La fin d’un chapitre
+La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -6646,9 +6655,10 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-Réponses à vos questions sur l’application
+Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### [Comment importer son certificat de vaccination ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+#### [Comment importer son certificat de vaccination ?](javascript:;)
 
 Vous avez été vacciné par un professionnel de santé ?  
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
@@ -6664,7 +6674,7 @@ Le professionnel de santé vous remettra, au format papier, un certificat de vac
     * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
     * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
-#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -6673,223 +6683,229 @@ Vous pouvez également obtenir une copie papier en vous rendant dans votre caiss
 Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
 En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
-#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
 
 L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
 Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
 
-#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)
 
 TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
 L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-Plus d’informations sur TousAntiCovid
+Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* La foire aux questions technique
-    
-    pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
-    
-* Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
-    
-    pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
-    
-* Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
-    
-    pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
-    
-    * * *
-    
-
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
-
-[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#0 "Haut de page")
-
-TousAntiCovid
--------------
-
-publié le22.12.22 mise à jour12.10.23
-
-* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#)
-* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#)
-* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Imprimer")
-
-* [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
-* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
-* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur facebook")
-* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur linkedin")
-
-La fin d’un chapitre
-
-**Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
-
-Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
-
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
-
-Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
-
-* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/) ;
-* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
-
-* * *
-
-Réponses à vos questions sur l’application
-
-#### [Comment importer son certificat de vaccination ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
-
-Vous avez été vacciné par un professionnel de santé ?  
-Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
-
-* Commencer l’importation
-    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
-    * Cliquez sur « **S’identifier avec FranceConnect** ».
-    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
-    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
-    * Confirmez votre demande comme indiqué dans les instructions.
-
-* J’ai été vacciné à l’étranger
-    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
-
-#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
-
-Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
-
-Vous pouvez également obtenir une copie papier en vous rendant dans votre caisse d’assurance maladie ou en vous rapprochant d’un professionnel de santé.
-
-Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
-En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
-
-#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
-
-L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
-Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
-
-#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
-
-TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
-L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
-
-Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
-
-Plus d’informations sur TousAntiCovid
-
-* La foire aux questions technique
-    
-    pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
-    
-* Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
-    
-    pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
-    
-* Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
-    
-    pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
-    
-    * * *
-    
-
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
-
-[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#0 "Haut de page")
-
-TousAntiCovid
--------------
-
-publié le22.12.22 mise à jour12.10.23
-
-* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#)
-* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#)
-* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Imprimer")
-
-* [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
-* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
-* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur facebook")
-* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur linkedin")
-
-La fin d’un chapitre
-
-**Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
-
-Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
-
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
-
-Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
-
-* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/) ;
-* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
-
-* * *
-
-Réponses à vos questions sur l’application
-
-#### [Comment importer son certificat de vaccination ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
-
-Vous avez été vacciné par un professionnel de santé ?  
-Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
-
-* Commencer l’importation
-    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
-    * Cliquez sur « **S’identifier avec FranceConnect** ».
-    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
-    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
-    * Confirmez votre demande comme indiqué dans les instructions.
-
-* J’ai été vacciné à l’étranger
-    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
-
-#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
-
-Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
-
-Vous pouvez également obtenir une copie papier en vous rendant dans votre caisse d’assurance maladie ou en vous rapprochant d’un professionnel de santé.
-
-Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
-En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
-
-#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
-
-L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
-Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
-
-#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
-
-TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
-L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
-
-Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
-
-Plus d’informations sur TousAntiCovid
-
-* La foire aux questions technique
-    
-    pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
-    
-* Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
-    
-    pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
-    
-* Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
-    
-    pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
-    
-    * * *
-    
-
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
-
-TousAntiCovid
--------------
-
-publié le22.12.22 mise à jour12.10.23
+**–** La foire aux questions technique
 
 pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
 
+  
+**–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
+
 pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+
+  
+**–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
+
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+
+* * *
+
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+
+[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#0 "Haut de page")
+
+TousAntiCovid
+-------------
+
+publié le22.12.22 mise à jour12.10.23
+
+* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#)
+* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#)
+* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Imprimer")
+
+* [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
+* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
+* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur facebook")
+* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur linkedin")
+
+La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
+
+Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
+
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+
+Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
+
+* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/) ;
+* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
+
+* * *
+
+Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### [Comment importer son certificat de vaccination ?](javascript:;)
+
+Vous avez été vacciné par un professionnel de santé ?  
+Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
+
+* Commencer l’importation
+    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+    * Cliquez sur « **S’identifier avec FranceConnect** ».
+    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
+    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
+    * Confirmez votre demande comme indiqué dans les instructions.
+
+* J’ai été vacciné à l’étranger
+    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
+
+#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)
+
+Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
+
+Vous pouvez également obtenir une copie papier en vous rendant dans votre caisse d’assurance maladie ou en vous rapprochant d’un professionnel de santé.
+
+Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
+En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
+
+#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
+
+L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
+Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
+
+#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)
+
+TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
+L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
+
+Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
+
+Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**–** La foire aux questions technique
+
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+
+  
+**–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
+
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+
+  
+**–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
+
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+
+* * *
+
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+
+[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#0 "Haut de page")
+
+TousAntiCovid
+-------------
+
+publié le22.12.22 mise à jour12.10.23
+
+* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#)
+* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#)
+* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Imprimer")
+
+* [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
+* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
+* [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur facebook")
+* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcoronavirus-11069%2Farticle%2Ftousanticovid "Partager sur linkedin")
+
+La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
+
+Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
+
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+
+Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
+
+* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/) ;
+* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
+
+* * *
+
+Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+#### [Comment importer son certificat de vaccination ?](javascript:;)
+
+Vous avez été vacciné par un professionnel de santé ?  
+Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
+
+* Commencer l’importation
+    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+    * Cliquez sur « **S’identifier avec FranceConnect** ».
+    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
+    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
+    * Confirmez votre demande comme indiqué dans les instructions.
+
+* J’ai été vacciné à l’étranger
+    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
+
+#### [Comment récupérer un nouveau certificat sanitaire ?](javascript:;)
+
+Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
+
+Vous pouvez également obtenir une copie papier en vous rendant dans votre caisse d’assurance maladie ou en vous rapprochant d’un professionnel de santé.
+
+Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
+En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
+
+#### [L’application fonctionne-t-elle aussi hors de France ?](javascript:;)
+
+L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
+Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
+
+#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](javascript:;)
+
+TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
+L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
+
+Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
+
+Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid# "Retour au sommaire")
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**–** La foire aux questions technique
+
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+
+  
+**–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
+
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+
+  
+**–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
+
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+
+* * *
+
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+
+TousAntiCovid
+-------------
+
+publié le22.12.22 mise à jour12.10.23
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/coronavirus-11069/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
