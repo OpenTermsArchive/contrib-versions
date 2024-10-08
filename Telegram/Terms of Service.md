@@ -14,7 +14,7 @@ We reserve the right to update these Terms of Service later.
 
 * * *
 
-If you access certain optional features and services on the Telegram platform, you will be additionally bound by their specific terms – such as the Terms of Service for [Telegram Stars](https://telegram.org/tos/stars), [Telegram Premium](https://telegram.org/tos#terms-of-service-for-telegram-premium), [Telegram Business](https://telegram.org/tos/business), [Bot Users](https://telegram.org/tos/bots), [Mini App Users](https://telegram.org/tos/mini-apps), [Content Creators](https://telegram.org/tos/content-creator-rewards), [Telegram API Developers](https://core.telegram.org/api/terms), and [Bot Developers](https://telegram.org/tos/bot-developers).
+If you access certain optional features and services on the Telegram platform, you will be additionally bound by their specific terms – such as the Terms of Service for [Telegram Stars](https://telegram.org/tos/stars), [Telegram Premium](https://telegram.org/tos#terms-of-service-for-telegram-premium), [Telegram Business](https://telegram.org/tos/business), [Bot Users](https://telegram.org/tos/bots), [Mini App Users](https://telegram.org/tos/mini-apps), [Content Creators](https://telegram.org/tos/content-creator-rewards), [Telegram Gateway API](https://telegram.org/tos/gateway), [Telegram API Developers](https://core.telegram.org/api/terms), and [Bot Developers](https://telegram.org/tos/bot-developers).
 
 * * *
 
@@ -167,7 +167,7 @@ We reserve the right to update these Terms of Service later.
 
 * * *
 
-If you access certain optional features and services on the Telegram platform, you will be additionally bound by their specific terms – such as the Terms of Service for [Telegram Stars](https://telegram.org/tos/stars), [Telegram Premium](https://telegram.org/tos#terms-of-service-for-telegram-premium), [Telegram Business](https://telegram.org/tos/business), [Bot Users](https://telegram.org/tos/bots), [Mini App Users](https://telegram.org/tos/mini-apps), [Content Creators](https://telegram.org/tos/content-creator-rewards), [Telegram API Developers](https://core.telegram.org/api/terms), and [Bot Developers](https://telegram.org/tos/bot-developers).
+If you access certain optional features and services on the Telegram platform, you will be additionally bound by their specific terms – such as the Terms of Service for [Telegram Stars](https://telegram.org/tos/stars), [Telegram Premium](https://telegram.org/tos#terms-of-service-for-telegram-premium), [Telegram Business](https://telegram.org/tos/business), [Bot Users](https://telegram.org/tos/bots), [Mini App Users](https://telegram.org/tos/mini-apps), [Content Creators](https://telegram.org/tos/content-creator-rewards), [Telegram Gateway API](https://telegram.org/tos/gateway), [Telegram API Developers](https://core.telegram.org/api/terms), and [Bot Developers](https://telegram.org/tos/bot-developers).
 
 * * *
 
