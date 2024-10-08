@@ -3,13 +3,13 @@
 Privacy Policy
 ==============
 
-_Last Updated: July 1, 2024_
+_Last Updated: October 8, 2024_
 
 The Meet Group, Inc., its brands, affiliates, and subsidiaries ("**TMG**"," "**we**," "**our**," or "**us**") values your privacy. This Privacy Policy ("**Policy**") describes how TMG collects, uses, discloses, and otherwise processes personal information described in this Policy, as well as the rights and choices you have regarding such personal information.
 
 For additional information about the privacy choices you have regarding your personal information, please review [Section 6. Your Privacy Choices](#your_privacy_choices), as well as [Section 13. Additional Privacy Information for Certain Jurisdictions](#additional_privacy_information), which includes additional information about privacy rights for residents of certain jurisdictions. If you are a resident of California, please refer to [Section 13.B. Additional Information for California Residents](#additional_information_for_california_residents) for information about the categories of personal information we collect and your rights under California privacy laws.
 
-When you create a profile on one of our Services, your personal information may be visible also to users of our other Services, and other applications we own and other applications and websites not owned by us with which we share our live platform. For a list of our current live partners, click [here](https://talent.tagged.com/partner-policy-tagged.html).
+When you create a profile on one of our Services, your personal information may be visible also to users of our other Services, and other applications we own and other applications and websites not owned by us with which we share our live platform. For a list of our current live partners, click [here](https://talent.tagged.com/partner-policy-tagged.html). For users of Skout or MeetMe: When you create a profile on Skout or MeetMe, your personal information may be visible to users on both platforms.
 
 By using our Services (as defined below), you agree that your personal information will be handled as described in this Policy. Your use of our Services and any dispute over privacy, is subject to this Policy and our [Terms and Conditions](https://secure.tagged.com/terms_of_service.html), including their applicable terms governing limitations on damages and the resolution of disputes.
 
@@ -31,7 +31,7 @@ By using our Services (as defined below), you agree that your personal informati
 
 **1\. Scope**
 
-Except as otherwise described below, this Policy applies to the personal information TMG collects and processes related to: visitors of our website where this Policy is posted, including any of our websites that link to or post this Policy (the "**Sites**"); individuals who download and use our mobile application ("**Mobile App**"); individuals who register for or participate in our events, surveys, research, promotions, and sweepstakes conducted by us; current, former, and prospective customers, vendors and service providers, and business partners; and individuals who communicate or otherwise interact or engage with us or the services available through our Sites, Mobile App, or other online services (collectively referred to as the "**Services**").
+Except as otherwise described below, this Policy applies to the personal information TMG collects and processes related to: visitors of our website where this Policy is posted, including any of our websites that link to or post this Policy (the "**Sites**"); individuals who download and use our mobile applications ("**Mobile Apps**"); individuals who register for or participate in our events, surveys, research, promotions, and sweepstakes conducted by us; current, former, and prospective customers, vendors and service providers, and business partners; and individuals who communicate or otherwise interact or engage with us or the services available through our Sites, Mobile Apps, or other online services (collectively referred to as the "**Services**").
 
 **2\. Personal Information Collected**
 
@@ -45,7 +45,7 @@ As further described below, we may collect personal information directly from yo
     
 * **Purchases, Payments, and Rewards**. When you make a purchase or payment through our Services, we may collect information such as payment type, payment card details, billing, shipping address, purchasing information, and any other financial or commercial-related information necessary for facilitating our Services.
     
-* **Communications and Interactions**. When you email, call, or otherwise communicate or interact with us or with other TMG users, including if you sign up for our mailing lists, complete forms on our Sites or Mobile App, interact with our social media pages, post a review or testimonial, submit content in any online discussion groups, or otherwise enter information into public-facing comment fields, blogs, or community forums sponsored by or affiliated with TMG, we may collect, receive, and maintain records of your contact details, communications and interactions, your posts or submissions, and our responses, if applicable.
+* **Communications and Interactions**. When you email, call, or otherwise communicate or interact with us or with other TMG users, including if you sign up for our mailing lists, complete forms on our Sites or Mobile Apps, interact with our social media pages, post a review or testimonial, submit content in any online discussion groups, or otherwise enter information into public-facing comment fields, blogs, or community forums sponsored by or affiliated with TMG, we may collect, receive, and maintain records of your contact details, communications and interactions, your posts or submissions, and our responses, if applicable.
     
 * **Promotional Information**. If you agree to receive marketing communications from us, we may collect your name, email address, phone number, preferences, and if relevant, information about your account and profile, including the Services and features you use. If you participate in special activities, offers, programs, or promotions we offer, we may also collect certain contact details, your age, and any other information that may be required by law. If you win a promotion, we may also need to collect certain tax information and/or waivers and releases, depending on the prize.
     
@@ -147,11 +147,11 @@ We and our third-party service providers use cookies, pixels, local storage obje
 
 **Log Files**. We may collect certain activity information from log files. Log file information is automatically collected when you access our Sites. We record certain information from these log files, including web requests, IP address, browser type and version, language information, referring and exiting URLs, links clicked, pages viewed and other similar information.
 
-**Third Party Analytics**. We may use automated devices, applications, and tools, such as Google Analytics, which are operated by third party companies, to evaluate usage of our Services. These third-party companies may use cookies, pixels, and other tracking technologies to collect usage data about our Services and provide us with reports and metrics that help us evaluate usage of our Services and enhance performance and user experiences. To learn more about Google's privacy practices, please review the Google Privacy Policy at [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/). You can also download the Google Analytics Opt-out Browser Add-on to prevent your data from being used by Google Analytics at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
+**Third Party Analytics**. We may use automated devices, applications, and tools, such as Google Analytics, which are operated by third party companies, to evaluate usage of our Services. These third-party companies may use cookies, pixels, and other tracking technologies to collect usage data about our Services and provide us with reports and metrics that help us evaluate usage of our Services and enhance performance and user experiences. To learn more about Google's privacy practices, please review the Google Privacy Policy at https://www.google.com/policies/privacy/partners/. You can also download the Google Analytics Opt-out Browser Add-on to prevent your data from being used by Google Analytics at https://tools.google.com/dlpage/gaoptout.
 
 **Third-Party Advertising**. We work with third-party ad networks, analytics, marketing partners, mobile ad networks, and others ("third-party ad companies") to personalize content and display advertising within our Services, as well as to manage our advertising on third-party websites. We and these third-party ad companies may use cookies, pixels tags, SDKs, and other tools to collect browsing and activity information within our Services (as well as on third-party sites and services), as well as IP address, unique ID, cookie and advertising IDs, and other online identifiers. We and these third-party ad companies use this information to provide you more relevant ads and content within our Services and on third-party sites, and to evaluate the success of such ads and content.
 
-**Cross-Device Use**. We and our third-party service providers may use the information we collect about you (whether directly from our Sites or Mobile App, through your device(s), or from third party sources) to help us and our third-party service providers identify other devices you use (e.g., a mobile phone, tablet, other computer, etc.). We and our third-party service providers may also use the cross-device use and other information we learn about you to serve targeted advertising or personalize content within our Services. To opt-out of cross-device advertising, you may follow the instructions set forth below. Please note, if you opt-out of these targeted advertising cookies, the opt-out will be specific to the web browser, app, or device from which you accessed the opt-out. If you use multiple devices or web browsers, you will need to opt-out each browser or device that you use.
+**Cross-Device Use**. We and our third-party service providers may use the information we collect about you (whether directly from our Sites or Mobile Apps, through your device(s), or from third party sources) to help us and our third-party service providers identify other devices you use (e.g., a mobile phone, tablet, other computer, etc.). We and our third-party service providers may also use the cross-device use and other information we learn about you to serve targeted advertising or personalize content within our Services. To opt-out of cross-device advertising, you may follow the instructions set forth below. Please note, if you opt-out of these targeted advertising cookies, the opt-out will be specific to the web browser, app, or device from which you accessed the opt-out. If you use multiple devices or web browsers, you will need to opt-out each browser or device that you use.
 
 **Custom Lists and Matching**. We may share or make available certain customer list information (such as your name, email address and other contact information) with third parties so that we can better target ads and content to you across third party websites, platforms and services. In some cases, these third parties may help us to enhance our customer lists with additional demographic or other similar information so we can better target our advertising and marketing campaigns.
 
@@ -163,7 +163,7 @@ We and our third-party service providers use cookies, pixels, local storage obje
     
 * **Marketing Communications**. We may send periodic promotional emails, content, or other similar communications to you. You may opt-out of these communications by following the instructions provided to you in the communication. If you opt-out of receiving promotional content from us, we may still send you communications about your account or any services you have requested or received from us. Additionally, you can manage your communication preferences in your account and profile settings.
     
-* **Push Notifications**. You can manage the type of push notifications you receive from us by adjusting your mobile device settings or by modifying the settings within our Mobile App.
+* **Push Notifications**. You can manage the type of push notifications you receive from us by adjusting your mobile device settings or by modifying the settings within our Mobile Apps.
     
 
 **Cookie Preferences/Targeted Advertising**. We also make available several ways for you to manage your preferences regarding cookies, targeted advertising, and other similar tracking mechanisms within our Services. Many of these choices are browser and device specific, which means that you may need to set the preference for each browser and device you use to access our Services. In addition, if you delete or block cookies, you may need to reapply these preferences to each browser and/or device. Further, opting out of cookies and advertising does not mean that you will no longer receive advertising content from us, and you may continue to receive generic or "contextual" ads from us.
@@ -174,7 +174,7 @@ We and our third-party service providers use cookies, pixels, local storage obje
     
 * **Industry Ad Choice Programs**. You can also control how participating third-party ad companies use the information that they collect about your visits to our Sites and those of third parties, in order to display more relevant targeted advertising to you. For more information and to opt out of receiving targeted ads from participating third-party ad networks go to:
     
-    * **U.S. Users**: [aboutads.info/choices](http://aboutads.info/choices) (Digital Advertising Alliance) (You can also download the DAA AppChoices tool in order to help control interest-based advertising on Mobile App on your mobile device).
+    * **U.S. Users**: [aboutads.info/choices](http://aboutads.info/choices) (Digital Advertising Alliance) (You can also download the DAA AppChoices tool in order to help control interest-based advertising on Mobile Apps on your mobile device).
 
 Residents of certain jurisdictions may have additional rights to their personal information, as set forth below in [Section 13. Additional Privacy Information for Certain Jurisdictions](#additional_privacy_information).
 
@@ -196,7 +196,7 @@ Our Services are not designed for children, and we do not knowingly collect pers
 
 **11\. Changes to this Policy**
 
-This Policy is current as of the date set forth above. We may change, update, or modify this Policy from time to time, so please be sure to check back periodically. We will post any updates to this Policy here. If we make any changes to this Policy that materially affect our practices regarding our use of the personal information we have previously collected from you, we will notify endeavor to provide you with notice, such as by emailing you or by posting prominent notice on our Sites, in our Mobile App, or within the Services.
+This Policy is current as of the date set forth above. We may change, update, or modify this Policy from time to time, so please be sure to check back periodically. We will post any updates to this Policy here. If we make any changes to this Policy that materially affect our practices regarding our use of the personal information we have previously collected from you, we will notify endeavor to provide you with notice, such as by emailing you or by posting prominent notice on our Sites, in our Mobile Apps, or within the Services.
 
 **12\. Contact Us**
 
@@ -214,7 +214,7 @@ Residents of certain jurisdictions have additional rights under applicable priva
 
 If you are a resident of California, please review [Section 13.B, Additional Information for California Residents](#additional_information_for_california_residents) below for a description of your rights pursuant to California privacy laws.
 
-Residents of certain U.S. states, including Colorado, Connecticut, Oregon, Texas, Utah, and Virginia, may have additional rights under applicable privacy laws, subject to certain limitations, which may include:
+Residents of certain U.S. states may have additional rights under applicable privacy laws, subject to certain limitations, which may include:
 
 * **Access**. To confirm whether we are processing their personal information and to obtain a copy of their personal information in a portable and, to the extent technically feasible, readily usable format.
     
@@ -279,7 +279,7 @@ This section of the Policy provides additional information for California reside
     * Social networks
     * Regulators, government entities and law enforcement
     * Others with your permission or as required by law
-* **Internet or Other Electronic Network Activity Information.** Includes, but is not limited to, browsing history, clickstream data, search history, and information regarding interactions with our Sites, Mobile App, and the Services, advertisements, or emails, including other usage data related to your use of any of our Services or other similar online services.
+* **Internet or Other Electronic Network Activity Information.** Includes, but is not limited to, browsing history, clickstream data, search history, and information regarding interactions with our Sites, Mobile Apps, and the Services, advertisements, or emails, including other usage data related to your use of any of our Services or other similar online services.
     
     **Third Party Disclosures for Business or Commercial Purposes:**
     
@@ -383,15 +383,15 @@ This section of the Policy provides additional information for California reside
 
 **Submitting CCPA Requests**. California residents may exercise their CCPA privacy rights as set forth below:
 
-* **Right to Know, Delete, and Correct**. California residents may submit CCPA requests to access/know, delete, and correct their personal by contacting us at [support@themeetgroup.com](mailto:support@themeetgroup.com).
+* **Right to Know, Delete, and Correct**. California residents may submit CCPA requests to access/know, delete, and correct their personal information by contacting us at [support@themeetgroup.com](mailto:support@themeetgroup.com).
 
 When you submit a request, we will take steps to verify your identity and request by matching the information provided by you with the information we have in our records. In some cases, we may request additional information in order to verify your identity, or where necessary to process your request. If we are unable to verify your identity after a good faith attempt, we may deny the request and, if so, will explain the basis for the denial.
 
 You may also designate someone as an authorized agent to submit requests and act on your behalf. Authorized agents will be required to provide proof of their authorization in their first communication with us, and we may also require that the relevant consumer directly verify their identity and the authority of the authorized agent.
 
-* **Right to Opt-Out of Sales and Sharing**. To exercise your right to opt-out of the "sale" or "sharing" of your personal information, you may do so via our cookie preference manager. We will apply your opt out based upon the personal information in our records that is linked or reasonably linkable to the information provided in your request. You may also click the "_Do Not Sell or Share My Personal Information_" link at the bottom of our Sites and in our Mobile App.
+* **Right to Opt-Out of Sales and Sharing**. To exercise your right to opt-out of the "sale" or "sharing" of your personal information, you may do so via our cookie preference manager. We will apply your opt out based upon the personal information in our records that is linked or reasonably linkable to the information provided in your request. You may also click the "_Do Not Sell or Share My Personal Information_" link at the bottom of our Sites and in our Mobile Apps.
 
-In addition, if we detect that your browser or device is transmitting an opt-out preference signal, such as the "global privacy control" (or GPC) signal, we will opt that browser or device out of cookies that result in a "sale" or "sharing" of your personal information. If you come to our Sites or use our Services from a different device or from a different browser on the same device, you will need to opt-out, or use an opt-out preference signal, for that browser and/or device as well. More information about GPC is available at: [https://globalprivacycontrol.org/](https://globalprivacycontrol.org/).
+In addition, if we detect that your browser or device is transmitting an opt-out preference signal, such as the "global privacy control" (or GPC) signal, we will opt that browser or device out of cookies that result in a "sale" or "sharing" of your personal information. If you come to our Sites or use our Services from a different device or from a different browser on the same device, you will need to opt-out, or use an opt-out preference signal, for that browser and/or device as well. More information about GPC is available at: https://globalprivacycontrol.org/.
 
 **Notice of Financial Incentive**. With respect to some of our Services, TMG may make available certain programs or offerings, and other sweepstakes, contests, or similar promotional offerings (each a "Program") which may include certain offers, rewards, discounts, services, perks, and promotions ("Rewards and Offers"). These Programs may be considered "financial incentives" under the CCPA. We provide these Rewards and Offers to participating users in order to understand and improve customer satisfaction and experiences, and to foster positive customer relationships.
 
@@ -403,12 +403,56 @@ You may withdraw from participating in a Program at any time by contacting us us
 
 **California's Shine the Light Law**. Under California's "Shine the Light" law (Cal. Civ. Code § 1798.83), California residents who provide us certain personal information are entitled to request and obtain from us, free of charge, information about the personal information (if any) we have shared with third parties for their own direct marketing use. Such requests may be made once per calendar year for information about any relevant third-party sharing in the prior calendar year. To submit a "Shine the Light" request, you may contact us by using the methods described in this Policy. Please include in your request a current California address and your attestation that you are a California resident.
 
+### CONSUMER HEALTH DATA PRIVACY POLICY
+
+Effective: October 8, 2024
+
+This Consumer Health Data Privacy Policy (“Policy”) applies to the extent The Meet Group, Inc., its brands, and subsidiaries (“we”, “our”, or “us”) process consumer health information for purposes of the Washington My Health My Data Act or other similar state laws through our websites, mobile apps, and other online services that link to or post this Policy (“Services”). This Policy supplements The Meet Group’s Privacy Policy, and we encourage you to review our full Privacy Policy carefully.
+
+### Collection and Use of Consumer Health Data
+
+Depending on what you choose to share when you add personal information to your profile, use the Services to communicate with other members, or use other relevant features, it is possible that you may provide us with consumer health data, such as:
+
+* Information about your physical and mental health conditions or medications;
+* Information about health care services that you have sought or are seeking;
+* Information about bodily functions, vital signs or measurements;
+* Reproductive or sexual health information; and
+* Other information about your past, present, or future physical or mental health status.
+
+To the extent you elect to share consumer health data, we primarily use the consumer health data to provide and operate our Services. We also may use consumer health data with your consent or as otherwise permitted by law. For additional details, please review “Purposes for Collection and Processing” in our Privacy Policy.
+
+The Meet Group also may collect biometric information with your consent, such as where you consent to certain account verification procedures. Please see our Privacy Policy and the applicable Biometric Data Specific Notice for more information.
+
+### Disclosure of Consumer Health Data
+
+We may share your consumer health data as reasonably necessary to provide and operate our Services or as otherwise permitted by law. For example, we may share your personal information in the following manner:
+
+* With other users in the context of features that are social in nature, such as when we disclose your profile information to other users, only to the extent that you choose to disclose such information;
+* With vendors and service providers who perform functions on our behalf (e.g., Customer Care provider);
+* With our brands, corporate affiliates and subsidiaries, such as eHarmony, Inc. and ParshipMeet Group; and
+* With other third parties for legal and compliance purposes, where permitted by law, including:
+    * With legal, governmental, or judicial authorities as instructed or requested by those authorities or required by applicable laws, or in relation to a legal activity, such as in response to a subpoena or investigation of suspected illicit or illegal activities, or where we believe in good faith that users may be engaged in illicit or illegal activities, or where we are bound by contract or law to enable a network partner to comply with applicable laws;
+    * Where we believe doing so is necessary to protect the Services, our rights and property, or the rights, property, and safety of others;
+    * With necessary third parties in connection with, or during negotiations for, an acquisition, merger, asset sale, or other similar business transfer that involves all or substantially all of our assets or functions where personal information is transferred or shared as part of the business assets; and
+    * As otherwise described in our Privacy Policy; and
+* With your consent or at your direction
+
+### Your Rights
+
+You may be entitled, in accordance with applicable law, to submit a request to know, access, or delete consumer health data we have collected about you or withdraw consent to our use of consumer health data. If we decline your request, you may have the right to appeal within a reasonable period of time after you have received notice of this decision.
+
+You can exercise your privacy rights or request an appeal under applicable law, please contact us by submitting a request to **[support@themeetgroup.com](mailto:support@themeetgroup.com)**.
+
+### Policy Updates
+
+The effective date of this Policy is noted above. We reserve the right to modify this Policy at any time, so please review it frequently. If we make material changes to this Policy, we will notify you here by updating the effective date, or by other means, such as e-mail, at our discretion. We recommend that you review this Policy from time to time to stay informed of our practices. Your continued use of any portion of our Services following the posting of the updated Policy will constitute your acceptance of the changes.
+
 **The Meet Group Inc.**
 
 Privacy Policy for users having their residence in the European Economic Area or the United Kingdom
 ===================================================================================================
 
-_Last Updated: July 1, 2024_
+_Last Updated: October 8, 2024_
 
 The Meet Group, Inc., its brands, affiliates, and subsidiaries values your privacy. This Privacy Policy ("**Policy**") describes how The Meet Group, Inc. ("**TMG**"," "**we**," "**our**," or "**us**") collects, uses, discloses, and otherwise processes personal information (also referred to as personal data in some jurisdictions) described in this Policy, as well as the rights and choices you have regarding such personal information.
 
@@ -894,7 +938,7 @@ You are welcome to contact them at:
 Esta Política de Privacidad aplica a los usuarios residentes del Espacio Económico Europeo o del Reino Unido
 ============================================================================================================
 
-_Última actualización: July 1, 2024_
+_Última actualización: October 8, 2024_
 
 The Meet Group, Inc., sus marcas, filiales y subsidiarias valoran la privacidad de sus usuarios. Esta Política de Privacidad (" **Política** ") describe la manera en que The Meet Group, Inc. (" **TMG** ," " **nosotros** ", " **nuestro** " o " **nos** ") recolecta, usa, comparte y procesa la información personal (también denominada "datos personales" en ciertas jurisdicciones) descrita en esta Política, así como los derechos y elecciones existentes en torno a dicha información personal.
 
@@ -1380,7 +1424,7 @@ El usuario puede contactarlo al visitar el enlace a continuación:
 Política de Privacidade para utilizadores com residência no Espaço Económico Europeu ou no Reino Unido
 ======================================================================================================
 
-_Última atualização: July 1, 2024_
+_Última atualização: October 8, 2024_
 
 O The Meet Group, Inc., as suas marcas, filiais e subsidiárias valorizam a sua privacidade. Esta Política de Privacidade (" **Política** ") descreve como o The Meet Group, Inc. (" **TMG** ", " " **nós** ," " **nosso** ," ou " **\-nos** ) recolhe, utiliza, divulga e trata os dados pessoais (também referidos como informações pessoais em algumas jurisdições) descritos nesta Política , bem como os direitos e as escolhas disponíveis em relação aos mencionados dados pessoais.
 
@@ -1866,7 +1910,7 @@ Pode contactá-lo através de:
 Datenschutzrichtlinie für Benutzer mit Wohnsitz im Europäischen Wirtschaftsraum oder im Vereinigten Königreich
 ==============================================================================================================
 
-_Stand: July 1, 2024_
+_Stand: October 8, 2024_
 
 Für The Meet Group, Inc., ihre Marken, verbundenen Unternehmen und Tochtergesellschaften hat Ihre Privatsphäre einen hohen Stellenwert. In dieser Datenschutzrichtlinie („ **Richtlinie** “) wird erläutert, wie The Meet Group, Inc. („ **TMG** “, „ **wir** “, „ **unser** “ in allen gebeugten Formen oder „ **uns** “) die in dieser Richtlinie beschriebenen personenbezogenen Daten erfasst, verwendet, offenlegt und anderweitig verarbeitet, sowie die Rechte und Wahlmöglichkeiten, die Sie in Bezug auf diese personenbezogenen Daten haben.
 
@@ -2352,7 +2396,7 @@ Diesen können Sie kontaktieren unter:
 Politique de respect de la vie privée pour les utilisateurs résidant dans l'Espace économique européen ou au Royaume-Uni
 ========================================================================================================================
 
-_Dernière mise à jour : July 1, 2024_
+_Dernière mise à jour : October 8, 2024_
 
 The Meet Group, Inc. ses marques, ses sociétés affiliées et ses filiales se soucient de votre vie privée. La présente Politique de respect de la vie privée (« **Politique** ») décrit la façon dont The Meet Group, Inc. (« **TMG** », « **nous** », « **notre** » ou « **nos** ») collecte, utilise, divulgue et traite les données à caractère personnel (également appelées informations personnelles dans certaines juridictions) décrites dans la présente Politique, ainsi que vos droits et vos options en ce qui concerne ces données à caractère personnel.
 
@@ -2838,7 +2882,7 @@ Vous pouvez la contacter en vous rendant sur cette page :
 Polityka prywatności dla użytkowników z miejscem zamieszkania w Europejskim Obszarze Gospodarczym lub w Wielkiej Brytanii
 =========================================================================================================================
 
-_Data ostatniej aktualizacji: July 1, 2024_
+_Data ostatniej aktualizacji: October 8, 2024_
 
 Firma The Meet Group, Inc., jej marki, podmioty stowarzyszone i zależne cenią prywatność użytkowników. Niniejsza Polityka prywatności („ **Polityka** ”) opisuje, w jaki sposób firma The Meet Group, Inc. („ **TMG** ”, „ **my** ”, „ **nasz** ” lub „ **nas** ” we wszystkich formach gramatycznych) gromadzi, wykorzystuje, ujawnia i w inny sposób przetwarza dane użytkowników (zwane również danymi osobowymi w niektórych jurysdykcjach) opisane w niniejszej Polityce, a także prawa i wybory, jakie użytkownik ma w odniesieniu do takich danych osobowych.
 
@@ -3324,7 +3368,7 @@ Zachęcamy do kontaktowania się z nim pod adresem:
 Privacybeleid voor gebruikers die in de Europese Economische Ruimte of het Verenigd Koninkrijk wonen
 ====================================================================================================
 
-_Laatst bijgewerkt: July 1, 2024_
+_Laatst bijgewerkt: October 8, 2024_
 
 The Meet Group, Inc., zijn merken, gelieerde bedrijven en dochterondernemingen vinden je privacy belangrijk. Dit Privacybeleid (' **Beleid** ') beschrijft hoe The Meet Group, Inc. (' **TMG** ', ' **we** ', ' **wij** ' of ' **ons** ') de in dit beleid beschreven persoonlijke gegevens (soms ook persoonsgegevens genoemd) verzamelen, gebruiken, verstrekken en anderszins verwerken, en de rechten en opties die je hebt met betrekking tot dergelijke persoonlijke gegevens.
 
@@ -3810,7 +3854,7 @@ Je kunt contact met hen opnemen via:
 Az Európai Gazdasági Térségben vagy az Egyesült Királyságban lakóhellyel rendelkező felhasználókra vonatkozó Adatvédelmi szabályzat
 ===================================================================================================================================
 
-_Utolsó frissítés: July 1, 2024_
+_Utolsó frissítés: October 8, 2024_
 
 A The Meet Group, Inc., annak márkái, társvállalatai és leányvállalatai nagyra értékelik az Ön adatainak védelmét. A jelen Adatvédelmi szabályzat („Szabályzat”) leírja, hogy a The Meet Group, Inc. („ **TMG** ”, „ **mi** ”, „ **miénk** ”vagy „ **bennünket** ”) hogyan gyűjti, használja, hozza nyilvánosságra és kezeli más módon a jelen szabályzatban leírt személyes információkat (egyes joghatóságok személyes adatoknak is nevezik), valamint az Ön jogait és választási lehetőségeit az ilyen személyes információkkal kapcsolatban.
 
@@ -4302,7 +4346,7 @@ Az alábbi elérhetőségen veheti fel vele a kapcsolatot:
 Politica de confidențialitate pentru utilizatorii cu reședința în Spațiul Economic European sau în Regatul Unit
 ===============================================================================================================
 
-_Ultima actualizare: July 1, 2024_
+_Ultima actualizare: October 8, 2024_
 
 The Meet Group, Inc., mărcile, afiliații și filialele sale respectă confidențialitatea dvs. Această politică de confidențialitate („ **Politica** ”) descrie modul în care The Meet Group, Inc. („ **TMG** ”, „ **noi** ”, „ **nostru** ” sau „ **nouă** ”) colectează, utilizează, dezvăluie și procesează în orice alt mod informații cu caracter personal (denumite și date cu caracter personal în unele jurisdicții) descrise în această Politică, precum și drepturile și opțiunile pe care le aveți cu privire la aceste informații cu caracter personal.
 
