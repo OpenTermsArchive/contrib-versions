@@ -612,7 +612,7 @@ Open all
 * [Do I have specific rights under privacy laws in the United States?
     ------------------------------------------------------------------
     
-    You have specific rights under state laws, including California, Colorado, Connecticut, Maine, Nevada, Oregon, Texas, Utah and Virginia privacy laws.](#acc-item-55)
+    You have specific rights under state laws, including California, Colorado, Connecticut, Illinois, Maine, Montana, Nevada, Oregon, Texas, Utah and Virginia privacy laws.](#acc-item-55) 
     
     ### California Consumer Privacy Act
     
@@ -729,9 +729,9 @@ Open all
     1300 I Street, NW Suite 500 East  
     Washington, DC 20005  
     
-    ### Colorado, Connecticut, Oregon, Texas, Utah and Virginia Privacy Laws
+    ### Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia Privacy Laws
     
-    Colorado, Connecticut, Oregon, Texas, Utah and Virginia have comprehensive privacy laws that provide residents with additional specific rights.
+    Colorado, Connecticut, Montana, Oregon, Texas, Utah and Virginia have comprehensive privacy laws that provide residents with additional specific rights.
     
     **Your right to know what personal information we collect, how we use and share it, and how long we keep it**. This privacy policy provides details about our collection and use practices. The state laws generally require that we provide you information about the [categories of personal information we collect and the purposes for which we collect each category](#). 
     
@@ -784,7 +784,7 @@ Open all
     
     You can opt out of sale and sharing by accessing our; [Your Privacy Choices](https://www.verizon.com/privacy/your-privacy-choices)  page. This page also describes how we honor [Global Privacy Control](https://globalprivacycontrol.org/) signals you may set on your browser. We do not respond to Do Not Track signals. 
     
-    **Some states allow you to appeal** a denial of your request to exercise the privacy rights provided by the state  law. If you are a resident of Colorado, Connecticut, Oregon, Texas, or Virginia and we deny your request, you can appeal the denial of a request to exercise privacy rights by following the instructions listed in the denial communication, by submitting a request through a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries), or by calling 1-800-333-3972. 
+    **Some states allow you to appeal** a denial of your request to exercise the privacy rights provided by the state  law. If you are a resident of Colorado, Connecticut, Montana, Oregon, Texas, or Virginia and we deny your request, you can appeal the denial of a request to exercise privacy rights by following the instructions listed in the denial communication, by submitting a request through a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries), or by calling 1-800-333-3972. 
     
     **You have the right to not be discriminated against.** We do not [discriminate](#) against you if you exercise any rights provided to you by state law. 
     
@@ -792,7 +792,7 @@ Open all
     
     We will not deny goods or services, charge different prices or rates for goods or services or provide you a different level or quality of goods and services. You also have the right to receive information about any financial incentives we offer to you.
     
-    **Where to exercise your rights.** You can exercise your right to know, access, delete, and correct data, or in Colorado, Connecticut, Oregon and Texas you may appoint an [authorized agent](#) to act on your behalf,  by:
+    **Where to exercise your rights.** You can exercise your right to know, access, delete, and correct data, or in Colorado, Connecticut, Montana, Oregon and Texas you may appoint an [authorized agent](#) to act on your behalf,  by:
     
     authorized agent
     
@@ -809,7 +809,25 @@ Open all
     
     For example, you may have to prove access to your mobile phone, to your email address on file with us, or to a government-issued ID.
     
-    **Questions.** If you have questions about your rights under the  Colorado, Connecticut, Oregon, Texas, Utah or Virginia state privacy laws or about our privacy policies and practices, please submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries).
+    **Questions.** If you have questions about your rights under the  Colorado, Connecticut, Montana, Oregon, Texas, Utah or Virginia state privacy laws or about our privacy policies and practices, please submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries).
+    
+    ### Illinois Biometric Information Privacy
+    
+    The Illinois Biometric Information Privacy Act applies to [Biometric Identifiers or Biometric Information](#).
+    
+    Biometric Identifiers or Biometric Information
+    
+    Biometric Identifiers means a retina or iris scan, fingerprint, voiceprint, or scan of your hand or face geometry. Biometric Identifiers do not include writing samples, written signatures, photographs, demographic data, tattoo descriptions or physical descriptions such as height or weight. “Biometric Information” means information that is based on an individual’s biometric identifier used to identify an individual.
+    
+    **What we collect and how we use it.** We may collect and use certain Biometric Information to verify or authenticate your identity; to protect against fraud; and for safety and other security purposes. We collect Biometric Information when you consent to voice or facial authentication. When you permit us to scan your face geometry or create a voiceprint, we turn it into a stored numerical representation (the “template”). Each time you scan your face geometry or later when you speak to one of our representatives, we compare your face or your voice to the stored template associated with your account. If they match, we are able to authenticate you so that you can access account information, complete account transactions, get assistance from a Verizon representative, or visit a Verizon corporate office.
+    
+    **When we share Biometric Information.** We may disclose Biometric Information to service providers who work on our behalf. These service providers may use the Biometric Information disclosed to them only for purposes related to providing service to Verizon, and are required to delete the information when it is no longer needed to provide the service. We may also disclose Biometric Information to comply with law as described in the Does Verizon Share Information section of this Policy.
+    
+    **How long we retain Biometric Information.** We retain Biometric Information as follows (unless we are legally required to retain it longer):
+    
+    * We retain scans of your face geometry or voiceprint very briefly. We permanently delete the first scan after we use it to generate the stored template. Each time you authenticate, we retain your face geometry or voiceprint scan long enough to compare it to the template, then we permanently delete the scan. 
+    * We retain the stored template until the purpose for collecting it is satisfied. For instance, we retain stored templates of face scans for approximately 90 days from the date that you provided it. We retain voiceprints for as long as you are an active customer and are enrolled in voice authentication. Voiceprints are deleted approximately 24 hours after unenrollment or termination of service.
+    * We may also retain biometric data as otherwise required to comply with applicable law or valid legal/judicial process.
     
     ### Maine Broadband Customer Privacy Rights
     
@@ -902,7 +920,7 @@ Open all
     
     We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](https://www.verizon.com/about/privacy/changes-privacy-policy) . If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
     
-    Updated June, 2024
+    Updated October, 2024
     
     © 2024 Verizon. All rights reserved.
     
