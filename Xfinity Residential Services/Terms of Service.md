@@ -394,4 +394,4 @@ You accept this Agreement and agree to its terms by activating the Services, usi
     The following sections shall survive the termination of your Services with us: Section 11, Section 13, Section 14, Section 15, Section 16, and Section 19.
     
 
-Stnd0724
+Stnd1024
