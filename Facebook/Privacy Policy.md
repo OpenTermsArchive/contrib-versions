@@ -7,7 +7,7 @@ Nous nous apprêtons à étendre nos [expériences basées sur l’IA de Meta](h
 
 Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
-Date effective : 26 juin 2024 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/?show_versions=1)
+Date effective : 5 septembre 2024 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/?show_versions=1)
 
 ### 
 
