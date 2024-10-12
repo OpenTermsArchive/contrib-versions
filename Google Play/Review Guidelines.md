@@ -22,6 +22,9 @@ Choose a Google product
 * [![](//storage.googleapis.com/support-kms-prod/bJppRS0Z8FmVujFmM7KFHADzbq3L0PPb1Wpj)
     
     ### Google AdSense](https://support.google.com/adsense?hl=en-GB)
+* [![](//storage.googleapis.com/support-kms-prod/RtYfYt69uZaC29qgMoE4JCX862QbezJhsup7)
+    
+    ### Gemini Apps](https://support.google.com/gemini?hl=en-GB)
 * [![](//fonts.gstatic.com/s/i/productlogos/google_now/v5/web-64dp/logo_google_now_color_1x_web_64dp.png)
     
     ### Pixel Phone](https://support.google.com/pixelphone?hl=en-GB)
@@ -55,9 +58,6 @@ Choose a Google product
 * [![](//fonts.gstatic.com/s/i/productlogos/drive_2020q4/v8/web-64dp/logo_drive_2020q4_color_1x_web_64dp.png)
     
     ### Google Drive](https://support.google.com/drive?hl=en-GB)
-* [![](//lh3.googleusercontent.com/RM7cOeibu6ErWYBzYaGdu6EbXVYw9qcFkqkEoLT2Yn_tKIyWIrAIvb1UBH-qDrUFbitH=w64)
-    
-    ### Google Shopping](https://support.google.com/googleshopping?hl=en-GB)
 * [![](//fonts.gstatic.com/s/i/productlogos/accessibility/v4/web-64dp/logo_accessibility_color_1x_web_64dp.png)
     
     ### Google Accessibility](https://support.google.com/accessibility?hl=en-GB)
