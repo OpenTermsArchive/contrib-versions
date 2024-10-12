@@ -214,7 +214,7 @@ Vos Données Personnelles sont conservées sur les périodes suivantes :
 * Données relatives au paiement : ces données relatives sont conservées pendant 13 mois suivant la date de débit à titre de preuve, et jusqu’à 15 mois afin de prendre en compte la possibilité d'utilisation de cartes de paiement à débit différé.
 * Données relatives au score et à la segmentation client : ces données sont conservées jusqu’à 2 ans à compter de leur calcul.
 * Données utilisées dans le cadre de la gestion des impayés : en cas de non-paiement, les informations sont conservées jusqu’à 56 mois après la résiliation, durée éventuellement prolongée d’un délai correspondant à la période maximale pendant laquelle un client mobile peut être inscrit dans le fichier du GIE Préventel. En cas de paiement les informations sont conservées 48 heures à compter du paiement.
-* Données spécifiques utilisées pour éviter la fraude et préserver le chiffre d’affaire : les données d’alerte en cas de fraude sont conservées dans un délai de 12 mois à compter de l'émission des alertes pour les qualifier. Les alertes non qualifiées sont supprimées directement. Les données d’alerte en cas de fraude avérée sont conservées pour une durée maximale de 5 ans à compter de la clôture du dossier de fraude. Les données de lutte contre le blanchiment sont conservées pendant 5 ans à compter de l’exécution de l’opération. Justificatifs d’identité : Ils sont conservés jusu'à 18 mois à compter de leur collecte à des fins de lutte contre la fraude.
+* Données spécifiques utilisées pour éviter la fraude et préserver le chiffre d’affaire : les données d’alerte en cas de fraude sont conservées dans un délai de 12 mois à compter de l'émission des alertes pour les qualifier. Les alertes non qualifiées sont supprimées directement. Les données d’alerte en cas de fraude avérée sont conservées pour une durée maximale de 5 ans à compter de la clôture du dossier de fraude. Les données de lutte contre le blanchiment sont conservées pendant 5 ans à compter de l’exécution de l’opération. Justificatifs d’identité : Ils sont conservés jusqu'à 18 mois à compter de leur collecte à des fins de lutte contre la fraude.
 * Données permettant de réaliser des jeux concours : les données sont conservées 3 mois et jusqu’à 6 mois après la fin du jeu s’il existe un risque élevé de contestation.
 * Données permettant de piloter notre impact environnemental : pour le traitement des plaintes environnementales, les données sont conservées 12 mois à partir de la collecte ou du dépôt de la plainte. Pour le calcul et la restitution de l’empreinte carbone, les données ne sont pas conservées.
 * Données relatives à la géolocalisation pour déployer et opérer les réseaux et les services : ces données sont conservées jusqu’à 6 mois à compter de leur collecte.
@@ -341,32 +341,61 @@ Si vos échanges avec Orange n’ont pas été satisfaisants, vous avez la possi
 
 ### 10.1. Service Utiq
 
-Le Service Utiq est un service basé sur le consentement qui permet aux sites web partenaires de vous fournir du marketing numérique, tel que du contenu personnalisé, de la publicité ou des analyses sur ces sites web, de manière plus pertinente et responsable. Le Service Utiq vous offre un contrôle accru et une transparence sur l'utilisation de vos données via le [consenthub d'Utiq](https://consenthub.utiq.com/), un portail centralisé où vous pouvez gérer le service, y compris visualiser et révoquer tout consentement Utiq donné, ainsi que d'exercer vos droits en matière de protection des données, à tout moment et en un seul endroit.
+La technologie Utiq est fournie par Utiq SA/NV, une société européenne. Elle a été conçue pour la protection de vos données personnelles en vous offrant choix et contrôle, tout en facilitant les activités en ligne des sites web.
 
-Le Service Utiq est exploité par Utiq SA/NV, une entreprise européenne de technologie publicitaire qui collabore avec des opérateurs télécom et des sites web partenaires. Nous avons deux rôles différents dans l'écosystème Utiq, comme décrit ci-dessous :
+Utiq travaille avec des [opérateurs télécom partenaires](https://consenthub.utiq.com/pages/privacy-statement#telecom-operators), comme nous, qui aident au fonctionnement de la technologie.
 
-#### Notre rôle en tant que fournisseur de signaux réseau :
+Cette technologie, qui est disponible pour nos clients, est désactivée par défaut et nécessite votre consentement pour être activée. Si elle est activée, les sites web partenaires peuvent l’utiliser pour supporter leurs activités digitales, telles que la personnalisation publicitaire ou de contenu et d’analyses.
 
-Nous sommes l'un des opérateurs télécom participants, contribuant à la fourniture du service en fournissant l'infrastructure basée sur le réseau, y compris la génération du signal réseau utilisé dans le cadre du Service Utiq. Nous le faisons en tant que contrôleurs indépendants. Pour plus d'informations, veuillez consulter la [Déclaration de confidentialité](https://consenthub.utiq.com/pages/privacy-statement) du Service Utiq qui décrit le rôle que nous jouons dans ce contexte.
+En plus d’être un opérateur télécom partenaire travaillant avec Utiq, nous utilisons également cette technologie sur nos sites web. Plus de détails ci-dessous.
 
-#### Notre rôle en tant que site web participant :
+#### Notre rôle en tant qu’opérateur télécom partenaire
 
-En plus de ce qui précède, nous utilisons également le Service Utiq sur ce site web. Dans ce contexte, nous agissons en tant que responsables conjoints avec Utiq. Dans le cadre de notre accord de responsables conjoints:
+Lorsque vous visitez un site web utilisant la technologie Utiq et que vous consentez à son utilisation, nous fournissons à Utiq un identifiant digital (le “Network Signal”) que nous créons sur la base de votre adresse IP et une référence au contrat associé à votre connexion internet, tel que le numéro de contrat ou numéro de téléphone, sans partager d’information supplémentaire vous concernant. Nous faisons cela en tant que responsable de traitement indépendant. Utiq utilise cet identifiant pour générer d’autres identifiants digitaux à destination des sites web partenaires.
 
-* Le traitement lié au Service Utiq est basé sur le consentement que nous recueillons pour le compte de l’écosystème Utiq sur nos sites web où nous intégrons le Service Utiq.
-* Pour les sites web où nous intégrons le Service Utiq, vous aurez accès à un lien dédié dans le pied de page pour vous fournir des informations sur le service, comment le gérer et vous informer de notre partenariat avec Utiq.
-* Utiq met à votre disposition un portail de confidentialité centralisé ([consenthub](https://consenthub.utiq.com/)) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement vos consentements Utiq et vos préférences de confidentialité du Service Utiq, à tout moment et en un seul endroit.
-* Nonobstant le fait que vous pouvez exercer vos droits à l’égard de l’un des contrôleurs, Utiq agit en tant que point de contact commun pour toute question ou demande que vous pourriez avoir en relation avec le Service Utiq.
+#### Notre utilisation de la technologie Utiq sur ce site web
 
-**Veuillez noter que ces deux rôles sont complètement séparés. Cela signifie que nous traitons séparément les données lorsque nous exerçons ces deux rôles différents et uniquement aux fins spécifiques telles que décrites plus en détail dans la [Déclaration de confidentialité](https://consenthub.utiq.com/pages/privacy-statement) du Service Utiq.**
+Nous, Orange (le responsable de traitement) utilisons la technologie Utiq sur nos sites web. Lorsque vous consentez à son activation Utiq nous fournit des identifiants marketing. Ils nous aident à comprendre vos habitudes de navigation et à relier vos visites sur nos sites web (seulement ceux pour lesquels vous consentez à l’utilisation de la technologie Utiq). Nous les utilisons pour nos activités digitales, telles que la personnalisation de pub ou de contenu et d’analyses sur nos sites web utilisant la technologie d’Utiq et sous réserve de vos consentements. Ces identifiants sont aussi partagés avec nos plateformes publicitaires lorsque nécessaire à nos activités de marketing et d’analyses.  
+ 
 
-#### **Comment gérer votre service Utiq**
+Si vous activez la technologie Utiq sur nos sites web (liste disponible sur les pages “Gérer Utiq” de chacun de nos sites web), nous pourrons l’utiliser pour comprendre vos habitudes de navigation sur ces sites (ceux pour lesquels vous avez donné votre consentement).
 
-Il s'agit d'un service facultatif, Cela signifie qu'il n'est pas activé par défaut et qu'il n'est activé que lorsque vous donnez votre consentement sur un site web partenaire via la pop-up Utiq dédiée.
+La technologie Utiq est liée à la connexion internet.
 
-Vous pouvez consulter et gérer votre Service Utiq, y compris révoquer tout consentement Utiq ou appliquer une fonction permettant de désactiver ou d’empêcher l’activation du service, à tout moment via le [consenthub d'Utiq](https://consenthub.utiq.com/).
+Ainsi, toutes les personnes utilisant la même connexion et ayant consenti se verront attribuer le même identifiant.  
+  
+En général :
 
-Vous pouvez trouver plus d'informations sur le Service Utiq dans le [consenthub d'Utiq](https://consenthub.utiq.com/) ou dans la [Déclaration de confidentialité d'Utiq](https://consenthub.utiq.com/pages/privacy-statement).
+* **Pour une connexion foyer** (ex : Wi-Fi), la personnalisation sera basée sur la navigation des membres du foyer ayant consenti.
+* **Pour une connexion mobile**, la personnalisation sera basée uniquement sur la navigation du propriétaire du mobile.
+    
+
+  
+  
+Nous Orange agissons en tant que responsable de traitement conjoint avec Utiq pour certaines étapes de traitement. Dans le cadre de notre accord de responsables conjoints :
+
+* Nous collectons votre consentement à l’activation de la technologie Utiq, qui inclut les traitements de données effectués par Utiq et votre opérateur télécom en vue de cette activation.
+* Nous mettons à votre disposition un lien dédié en bas de chacun de nos sites web (“[Gérer Utiq](https://consenthub.utiq.com/)”) afin de vous fournir des informations sur la technologie et les contrôles dont vous disposez.
+* Utiq met à votre disposition un portail (consenthub) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement les consentements Utiq. À tout moment. En un seul endroit.
+* Bien que vous puissiez exercer vos droits à l’égard de chacun des responsables de traitement, Utiq demeure le point de contact principal pour toute question ou demande que vous pourriez avoir en relation avec la technologie Utiq.
+
+#### Comment gérer les consentements Utiq
+
+Vous pouvez révoquer les consentements\* Utiq de diverses manières :
+
+* **Sur le consenthub** : Pour révoquer tous les consentements Utiq sur l’ensemble des sites web utilisant la technologie Utiq, accédez au portail d’Utiq (“[consenthub](https://consenthub.utiq.com/)”)
+* **Sur les sites web partenaires** : où vous pouvez révoquer chaque consentement Utiq sur les sites web où vous l’avez donné, en visitant la page “Gérer Utiq” accessible au bas de chaque site web.
+
+  
+  
+La technologie Utiq est basée sur votre connexion internet. Ainsi, si vous utilisez d’autres connections, il vous faudra gérer les consentements sur chaque connexion séparément.
+
+Autrement, vous avez toujours la possibilité de supprimer votre historique et données de navigation via les paramètres de votre navigateur. Cela supprimera tous vos consentements Utiq de votre navigateur. Toutes vos données stockées dans la plateforme Utiq seront également supprimées dans la durée indiquée dans la [Politique relative à l’utilisation des données personnelles d'Utiq](https://consenthub.utiq.com/pages/privacy-statement).
+
+Pour plus d'informations, veuillez consulter la [Politique relative à l’utilisation des données personnelles d'Utiq](https://consenthub.utiq.com/pages/privacy-statement).   
+  
+
+_\* Cela comprend les consentements Utiq que vous avez donnés, mais également, dans le cas d’une connexion internet partagée, ceux donnés par les membres de votre foyer._
 
 ### 10.2. Annuaires
 
@@ -387,4 +416,4 @@ Le dispositif technique utilisé par Flux Vision garantit une anonymisation irr�
 
 La présente Politique de Protection des Données personnelles peut être amenée à évoluer.
 
-Dernière mise à jour le 23/04/2024
+Dernière mise à jour le 09/10/2024
