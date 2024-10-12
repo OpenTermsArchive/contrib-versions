@@ -52,7 +52,7 @@ Similarly, it’s OK to use the WordPress or WordCamp logo as part of a page th
 
 We do not allow the use of the trademark in advertising, including AdSense/AdWords.
 
-Please note that it is not the goal of this policy to limit commercial activity around WordPress. We encourage WordPress-based businesses, and hundreds of them are thriving while in compliance with this policy (Automattic, CrowdFavorite, and StudioPress are a few examples).
+Please note that it is not the goal of this policy to limit commercial activity around WordPress. We encourage WordPress-based businesses, and hundreds of them are thriving while in compliance with this policy (Automattic, GoDaddy, Hostinger, and Bluehost are a few examples).
 
 The abbreviation “WP” is not covered by the WordPress trademarks, but please don’t use it in a way that confuses people. For example, many people think WP Engine is “WordPress Engine” and officially associated with WordPress, which it’s not. They have never once even donated to the WordPress Foundation, despite making billions of revenue on top of WordPress.
 
