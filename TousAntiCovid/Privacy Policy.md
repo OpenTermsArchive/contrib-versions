@@ -684,7 +684,7 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Vous avez été vacciné par un professionnel de santé ?  
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
@@ -700,7 +700,7 @@ Le professionnel de santé vous remettra, au format papier, un certificat de vac
     * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
     * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
-#### [Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -709,12 +709,12 @@ Vous pouvez également obtenir une copie papier en vous rendant dans votre caiss
 Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
 En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
-#### [L’application fonctionne-t-elle aussi hors de France ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[L’application fonctionne-t-elle aussi hors de France ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
 Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
 
-#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
 L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
@@ -1456,7 +1456,7 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Vous avez été vacciné par un professionnel de santé ?  
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
@@ -1472,7 +1472,7 @@ Le professionnel de santé vous remettra, au format papier, un certificat de vac
     * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
     * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
-#### [Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -1481,12 +1481,12 @@ Vous pouvez également obtenir une copie papier en vous rendant dans votre caiss
 Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
 En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
-#### [L’application fonctionne-t-elle aussi hors de France ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[L’application fonctionne-t-elle aussi hors de France ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
 Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
 
-#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
 L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
@@ -6658,7 +6658,7 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Vous avez été vacciné par un professionnel de santé ?  
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
@@ -6674,7 +6674,7 @@ Le professionnel de santé vous remettra, au format papier, un certificat de vac
     * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
     * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
-#### [Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -6683,12 +6683,12 @@ Vous pouvez également obtenir une copie papier en vous rendant dans votre caiss
 Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
 En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
-#### [L’application fonctionne-t-elle aussi hors de France ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[L’application fonctionne-t-elle aussi hors de France ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
 Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
 
-#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
 L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
@@ -6751,7 +6751,7 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Vous avez été vacciné par un professionnel de santé ?  
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
@@ -6767,7 +6767,7 @@ Le professionnel de santé vous remettra, au format papier, un certificat de vac
     * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
     * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
-#### [Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -6776,12 +6776,12 @@ Vous pouvez également obtenir une copie papier en vous rendant dans votre caiss
 Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
 En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
-#### [L’application fonctionne-t-elle aussi hors de France ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[L’application fonctionne-t-elle aussi hors de France ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
 Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
 
-#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
 L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
@@ -6844,7 +6844,7 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#### [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Vous avez été vacciné par un professionnel de santé ?  
 Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
@@ -6860,7 +6860,7 @@ Le professionnel de santé vous remettra, au format papier, un certificat de vac
     * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
     * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
-#### [Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -6869,12 +6869,12 @@ Vous pouvez également obtenir une copie papier en vous rendant dans votre caiss
 Ce nouveau certificat sanitaire pourra être **importé dans TousAntiCovid** en flashant le QR Code en bas à gauche.  
 En cas de difficulté à ajouter un nouveau certificat sanitaire dans l’application TousAntiCovid, **vérifiez que votre application est bien à jour**. La dernière version de l’application doit être la 7.0.0
 
-#### [L’application fonctionne-t-elle aussi hors de France ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[L’application fonctionne-t-elle aussi hors de France ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 L’application est disponible dans les stores de **tous les pays et traduite en anglais.**  
 Ainsi, une personnes qui voyage en France peut utiliser l’application **quel que soit son pays d’origine.**
 
-#### [Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Est-ce que l’application TousAntiCovid collecte mes données personnelles ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 TousAntiCovid est conforme à la réglementation qui garantit la protection de vos données (RGPD).  
 L’application ne nécessite pas de renseigner mes informations personnelles pour être installées et fonctionner.
