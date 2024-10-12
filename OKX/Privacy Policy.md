@@ -3,7 +3,7 @@ Privacy Notice Statement
 
 Published on May 9, 2024
 
-Last updated: May 9, 2024
+Last updated: October 11, 2024
 
 **1\. INTRODUCTION**
 --------------------
@@ -94,7 +94,7 @@ Below are specific ways in which we may process your Personal Data:
     
 5. **User/customer support.** We process your Personal Data when you contact our Customer Service team to help us address your requests.
     
-6. **Enhancing our Services.** We process your Personal Data to understand how our products and Services are being used to improve our Services and develop new products.
+6. **Enhancing our Services.** We process your Personal Data to understand how our products and Services are being used to improve our Services, train our systems to improve our Services and develop new Services.
     
 7. **Product marketing.** We process your Personal Data to identify our products and Services that we believe may be of interest to you. We may contact you about them. You may opt out of marketing communications with us at any time. If you do not want to receive these communications, please send an email to support@okcoin.com.
     
@@ -122,7 +122,7 @@ OKX may disclose Personal Data to:
 * **Other business purposes** as permitted by law or required to comply with our legal obligations.
     
 
-Other than as disclosed in this Privacy Notice, OKX does not share your Personal Data with any other third parties unless required to do so by law or legal obligation. This Site may contain links to other third-party websites where their own privacy policies may apply, and OKX is not responsible for the privacy policies of such third-party websites.
+Other than as disclosed in this Privacy Notice, OKX does not share your Personal Data with any other third parties unless required to do so by law or legal obligation. This Site may contain links to other third-party websites where their own privacy policies / notices may apply, and OKX is not responsible for the privacy policies / notices of such third-party websites.
 
 If we disclose your Personal Data to service providers that perform business activities for us, they may only use your Personal Data for the specific purpose for which we supply it. We will take reasonable steps to ensure that all contractual arrangements with third parties adequately address compliance with applicable privacy laws.
 
