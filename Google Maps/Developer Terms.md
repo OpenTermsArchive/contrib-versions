@@ -1875,7 +1875,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Callejero de Andalucia ES: [https://www.callejerodeandalucia.es/portal/aviso-legal](https://www.callejerodeandalucia.es/portal/aviso-legal)
             
-        * Open Data Barcelona: [https://opendata-ajuntament.barcelona.cat/data/es/dataset/taula-direle/resource/6bfe63d8-8c6c-4cde-aaa3-b7c48fa66e34?inner\_span=True](https://opendata-ajuntament.barcelona.cat/data/es/dataset/taula-direle/resource/6bfe63d8-8c6c-4cde-aaa3-b7c48fa66e34?inner_span=True)
+        * Open Data Barcelona: [https://opendata-ajuntament.barcelona.cat/data/es/dataset/mapa-graf-viari-carrers-wms/resource/a11a534d-4aeb-497f-b6bd-2e170b4724aa](https://opendata-ajuntament.barcelona.cat/data/es/dataset/mapa-graf-viari-carrers-wms/resource/a11a534d-4aeb-497f-b6bd-2e170b4724aa)
             
         * Geoportal del Ayuntamiento de Madrid: [https://datos.madrid.es/portal/site/egob/menuitem.3efdb29b813ad8241e830cc2a8a409a0/?vgnextoid=108804d4aab90410VgnVCM100000171f5a0aRCRD&vgnextchannel=b4c412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default](https://datos.madrid.es/portal/site/egob/menuitem.3efdb29b813ad8241e830cc2a8a409a0/?vgnextoid=108804d4aab90410VgnVCM100000171f5a0aRCRD&vgnextchannel=b4c412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
             
@@ -1928,6 +1928,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Gobierno de La Rioja: [https://codsi.larioja.org/srv/spa/catalog.search;jsessionid=0EE8270E3C73EAE099A01228EFEA9699#/metadata/spacarcallejero](https://codsi.larioja.org/srv/spa/catalog.search;jsessionid=0EE8270E3C73EAE099A01228EFEA9699#/metadata/spacarcallejero)
             
         * Gobierno de Cantabria: [https://www.territoriodecantabria.es/cartografia-sig/datos-abiertos-y-politica-de-licencias](https://www.territoriodecantabria.es/cartografia-sig/datos-abiertos-y-politica-de-licencias)
+            
+        * Instituto Cartográfico Valenciano: [https://icv.gva.es/es/condiciones-de-uso-de-la-geoinformacion-icv](https://icv.gva.es/es/condiciones-de-uso-de-la-geoinformacion-icv)
+            
+        * Open Data Navarra: [https://datosabiertos.navarra.es/es/dataset/direcciones-postales-portales-de-navarra](https://datosabiertos.navarra.es/es/dataset/direcciones-postales-portales-de-navarra)
             
     58. **Sweden**
         * © 2009 Cartesia GIS AB
