@@ -4,7 +4,7 @@ PAYPAL USER AGREEMENT
 About Your Account
 ------------------
 
-This user agreement will be effective for all users as of 28 May 2024.
+This user agreement will be effective for all users as of 10 October 2024.
 
 ### Welcome to PayPal!
 
@@ -41,7 +41,7 @@ We may revise this user agreement and any of the documents listed above from tim
 
 Our services are provided by PayPal (Europe) S.à r.l.et Cie, S.C.A. (R.C.S. Luxembourg B 118 349) to registered users in the European Economic Area. For details on how to reach PayPal, please refer to this page on [Customer Service](https://www.paypal.com/cz/smarthelp/home?locale.x=en_CZ).
 
-PayPal is duly licensed in Luxembourg as a bank (or “credit institution” in legal terms). We are supervised by the Luxembourg financial regulatory authority, the Commission de Surveillance du Secteur Financier or CSSF. CSSF’s registered office: 283, route d’Arlon, L-1150 Luxembourg. The CSSF maintains a register of the organisations that it regulates at [https://supervisedentities.apps.cssf.lu/index.html?language=en#Home](https://supervisedentities.apps.cssf.lu/index.html?language=en#Home). PayPal is number B00000351 on the register, but you can also look us up on the register by our name. Trade Register Number: R.C.S. Luxembourg B 118 349.
+PayPal is duly licensed in Luxembourg as a bank (or “credit institution” in legal terms). We are supervised by the Luxembourg financial regulatory authority, the Commission de Surveillance du Secteur Financier or CSSF. CSSF’s registered office: 283, route d’Arlon, L-1150 Luxembourg. The CSSF maintains a register of the organisations that it regulates at [https://supervisedentities.apps.cssf.lu/index.html?language=en#Home](https://supervisedentities.apps.cssf.lu/index.html?language=en#Home). PayPal is number B00000351 on the register, but you can also look us up on the register by our name. Trade Register Number: R.C.S. Luxembourg B 118 349.
 
 ### Our service
 
@@ -67,7 +67,7 @@ As part of our sign-up process, you must:
 * Register an email address and mobile number;
 * Set a password, which we will use to log you in;
 * Meet our eligibility requirements; and
-* Agree to our [Privacy Statement](https://www.paypal.com/cz/webapps/mpp/ua/privacy-full?locale.x=en_CZ) and [user agreement](https://www.paypal.com/cz/webapps/mpp/ua/useragreement-full?locale.x=en_CZ), including the applicable documents on the Legal Agreements page.
+* Agree to our [Privacy Statement](https://www.paypal.com/cz/webapps/mpp/ua/privacy-full?locale.x=en_CZ) and [user agreement](https://www.paypal.com/cz/webapps/mpp/ua/useragreement-full?locale.x=en_CZ), including the applicable documents on the Legal Agreements page.
 
 #### Personal accounts
 
@@ -996,7 +996,7 @@ If the outcome of any complaint about our services, after completing the complai
 * European Consumer Centre (**ECC-Net**) (if you are a consumer). You may obtain further information regarding the ECC-Net and how to contact them for alternative dispute resolution at ([**https://commission.europa.eu/live-work-travel-eu/consumer-rights-and-complaints/resolve-your-consumer-complaint/european-consumer-centres-network-ecc-net\_en**](https://commission.europa.eu/live-work-travel-eu/consumer-rights-and-complaints/resolve-your-consumer-complaint/european-consumer-centres-network-ecc-net_en)).
 * Commission de Surveillance du Secteur Financier (CSSF). The CSSF is the authority responsible for the prudential supervision of companies in the financial sector in Luxembourg, like us. You can contact the CSSF at 283 Route d'Arlon, 1150 Luxembourg, Luxembourg. You may obtain further information regarding the CSSF and how to contact them at: [**https://www.cssf.lu**](https://www.cssf.lu/) or by visiting the EU's Online Dispute Resolution site at [**https://ec.europa.eu/consumers/odr**](https://ec.europa.eu/consumers/odr).
 * For consumer residents of the Czech Republic, the alternative dispute resolution authority regarding disputes with payment services providers is the Financial Arbitrator and the Office of the Financial Arbitrator (**[www.finarbitr.cz](http://www.finarbitr.cz/)**) to the extent and within the scope set forth in Act No. 229/2002 Coll., on Financial Arbitrator, as amended.
-* For residents of Lithuania, Bank of Lithuania (if you are a consumer). You can file a complaint to the respective out-of-court dispute resolution authority that handles consumers’ complaints in Lithuania, where we provide our services. You can contact the Bank of Lithuania at Žalgirio g. 90, LT-09303, Vilnius, Lithuania. You may obtain further information regarding the Bank of Lithuania and how to contact them at: [https://www.lb.lt](https://www.lb.lt/) or by visiting the EU's Online Dispute Resolution site at  **[https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).**
+* For residents of Lithuania, Bank of Lithuania (if you are a consumer). You can file a complaint to the respective out-of-court dispute resolution authority that handles consumers’ complaints in Lithuania, where we provide our services. You can contact the Bank of Lithuania at Žalgirio g. 90, LT-09303, Vilnius, Lithuania. You may obtain further information regarding the Bank of Lithuania and how to contact them at: [https://www.lb.lt](https://www.lb.lt/) or by visiting the EU's Online Dispute Resolution site at **[https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr).**
 
 * For residents of Latvia:
     * The Financial and Capital Markets Commission (in Latvian – Finanšu un kapitāla tirgus komisija) (if you are a non-consumer). The Financial and Capital Markets Commission is the authority responsible for the supervision of companies in the financial sector in Latvia, like us. You may obtain further information regarding the Financial and Capital Markets Commission and how to contact them at ([**https://www.fktk.lv/en/**](https://www.fktk.lv/en/)).
@@ -1240,9 +1240,7 @@ This user agreement is concluded in English only. A translation of this user agr
 
 #### Your use (as a seller) of personal data; Data protection laws
 
-If you (as a seller) receive personal data about another PayPal customer, you must keep such personal data confidential and only use it in connection with the PayPal services. You may not disclose or distribute any personal data about PayPal customers to a third party or use such personal data for marketing purposes unless you receive that customer's express consent to do so. You may not send unsolicited emails to a PayPal customer or use the PayPal services to collect payments to send, or assist in sending, unsolicited emails to third parties.
-
-To the extent that you process any personal data about a PayPal customer pursuant to this user agreement, you and PayPal will each be an independent data controller (and not joint controllers), meaning we will each separately determine the purposes and means of processing such personal data. We each agree to comply with the requirements of any applicable privacy and data protection laws, including any applicable regulations, directives, codes of practice, and regulatory requirements applicable to data controllers in connection with this agreement. We each have and will follow our own, independently determined privacy statements, notices, policies and procedures for any such personal data that we each process in connection with this agreement.
+To the extent that you, in your capacity as a seller and/or using a business profile, process any personal data about a PayPal customer pursuant to this user agreement, you and PayPal will each be an independent data controller (and not joint controllers), meaning we will each separately determine the purposes and means of processing such personal data. We each agree to comply with the requirements of any applicable privacy and data protection laws, including any applicable regulations, directives, codes of practice, and regulatory requirements applicable to data controllers in connection with this agreement. We each have and will follow our own, independently determined privacy statements, notices, policies and procedures for any such personal data that we each process in connection with this agreement.
 
 In complying with the applicable data protection laws, we will each:
 
@@ -1250,7 +1248,7 @@ In complying with the applicable data protection laws, we will each:
 * Maintain a record of all processing activities carried out under this user agreement; and
 * Not knowingly or intentionally do anything, or knowingly or intentionally permit anything to be done which might lead to a breach by the other party of the applicable data protection laws.
 
-Any personal data you collect in connection with the PayPal services (and not otherwise generated, collected, or obtain by you through a customer's separate relationship with outside the use of the PayPal services) will be used by you only to the limited extent that is necessary and relevant to the PayPal services and for no other purpose unless you have obtained the prior express consent of the customer.
+Any personal data provided to you by PayPal in connection with the PayPal services, excluding personal data collected or obtained by you directly from the customer will be used by you only to the limited extent that is necessary and relevant to the PayPal services and for no other purpose, including marketing purposes, unless you have obtained the prior consent of the customer. You represent, warrant, and covenant that you will provide and/or obtain all necessary disclosures and consents, as applicable, in connection with your data collection and sharing practices with PayPal. You may not disclose or distribute any customer personal data provided to you by PayPal to a third party, unless such third party is your service provider and acting on your behalf (as defined by applicable law).
 
 #### **Resolution and Recovery**
 
@@ -1291,10 +1289,6 @@ We and you may agree that certain provisions of PSD2 (as implemented by local la
 * Where you identify a problem you have up to 60 days from the date on which the problem happened to notify us about it, after which time we have no obligation to investigate and refund you.
 * We are not obliged to comply with the information requirements set out in Title III of PSD2 and their equivalents in any implementation of PSD2 in member states of the European Economic Area that may apply to you (“PSD2 transpositions”).
 * Articles 72 and 89 of PSD2 and equivalent provisions in PSD2 transpositions do not apply to your use of our service, meaning that, even where we may say so otherwise in this user agreement, we are not liable to you for the losses or damage you may suffer under those articles and provisions.
-
-#### Section numbers and defined words
-
-If other documents (e.g. terms and conditions) refer to section numbers or defined words of this user agreement, please see our [User Agreement Reference Notes](https://www.paypal.com/cz/webapps/mpp/ua/reference-notes-full?locale.x=en_CZ) to locate the relevant provision or defined word.
 
 #### Schedule 1. Table of Fees
 
@@ -1385,7 +1379,7 @@ Payments to users registered with PayPal as residents of Bulgaria, Cyprus, Czech
 
 \* See the [**PayPal Online Card Payment Services Agreement**](https://www.paypal.com/cz/webapps/mpp/ua/pocpsa-full?locale.x=en_CZ) for information about the Interchange Plus Fee Structure and Blended Pricing Fee Structure and your choices.
 
-**For Advanced Credit and Debit Card Payments users only:** you may opt to be charged under the Interchange Plus Plus Fee Structure. Please [**contact us**](https://www.paypal.com/cz/smarthelp/home?locale.x=en_CZ) for further information. The additional terms outlined in the [PayPal Online Card Payment Services Agreement](https://www.paypal.com/cz/webapps/mpp/ua/pocpsa-full?locale.x=en_CZ) apply.
+**For Advanced Credit and Debit Card Payments users only:** you may opt to be charged under the Interchange Plus Plus Fee Structure. Please [**contact us**](https://www.paypal.com/cz/smarthelp/home?locale.x=en_CZ) for further information. The additional terms outlined in the [PayPal Online Card Payment Services Agreement](https://www.paypal.com/cz/webapps/mpp/ua/pocpsa-full?locale.x=en_CZ) apply.
 
 **A2.3 Receiving Cross Border payments (Selling)**
 
