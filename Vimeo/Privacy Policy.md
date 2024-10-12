@@ -1,7 +1,7 @@
 **Vimeo Privacy Policy**
 ========================
 
-Last Updated: June 25, 2024
+Last Updated: October 8, 2024
 
 This Privacy Policy explains the information that Vimeo collects when you use our products and services or otherwise interact with us, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -260,10 +260,8 @@ _330 West 34th Street, 10th Floor_
 _New York, New York 10001_  
 [_privacy@vimeo.com_](mailto:privacy@vimeo.com)
 
-Alternatively, if you are in the UK, EU/EEA or Switzerland and would like to exercise your rights or have questions about our processing of personal information, you may contact our local representative.
+Alternatively, if you are in the EU, EEA, or Switzerland and would like to exercise your rights or have questions about our processing of personal information, you may contact our local representative.
 
-For the UK: _RA Robert Niedermeier, DATA BUSINESS SERVICES GmbH & CO KG-UK, Golden Cross House, 8 Duncannon Street, Greater London WC2N4JF, London, England_; or by email at [_niedermeier@db5.io_](mailto:niedermeier@db5.io).
+For the EU/EEA: _European Data Protection Office via the online request form at [https://edpo.com/gdpr-data-request](https://edpo.com/gdpr-data-request) or by writing to EDPO at Avenue Huart Hamoir 71, 1030 Brussels, Belgium._
 
-For the EU/EEA: _RA Robert Niedermeier, DATA BUSINESS SERVICES GmbH & CO KG-Germany, Noerdliche Muenchner Str 47, 82031 Gruenwald/Munich, Germany_; or by email at [_niedermeier@db5.io_](mailto:niedermeier@db5.io).
-
-For Switzerland: _RA Robert Niedermeier, DATA BUSINESS SERVICES GmbH & CO KG-Switzerland, Badenerstrasse 549, City West, Zurich, CH-8048; or by email at_ [_niedermeier@db5.io_](mailto:niedermeier@db5.io)_._
+For Switzerland: _EDPO Switzerland Sàrl via the online request form at [https://edpo.com/swiss-data-request](https://edpo.com/swiss-data-request) or by writing to EDPO Switzerland at Rue de Lausanne 37, 1201 Geneva, Switzerland._
