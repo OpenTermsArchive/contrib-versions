@@ -1,7 +1,7 @@
 **Spotify Privacy Policy**
 ==========================
 
-Effective as of 15 August 2024
+Effective as of 10 October 2024
 
   
 
@@ -74,7 +74,7 @@ Key information about your personal data is right here in this Policy. However, 
   
 
 * [Safety & Privacy Center](https://www.spotify.com/us/safetyandprivacy/): A user-friendly hub with summaries of key topics and helpful videos. It includes the ‘Your Privacy Controls’ video which shows you how to exercise your user rights and make choices about the way we process your data. See [Section 2 ‘Your personal data rights and controls’](#/2-your-personal-data-rights-and-controls) for more on user rights.
-* [Privacy Settings](https://www.spotify.com/account/privacy/): Control the processing of certain personal data, including [tailored advertising](#tailored-advertising-controls).
+* [Account Privacy](https://www.spotify.com/account/privacy/): Control the processing of certain personal data, including [tailored advertising](#tailored-advertising-controls).
 * [Notification Settings](https://www.spotify.com/account/notifications/) Set which marketing communications you get from Spotify.
 * Settings (found in the Desktop and Mobile versions of Spotify): Control certain aspects of the Spotify Service such as ‘Social’ or ‘Explicit Content’. On the ‘Social’ setting, you can:
     * start a Private session
@@ -107,10 +107,10 @@ You can also watch our video about [Your Privacy Controls](https://www.spotify.c
 | **It’s your right to...** |     | **How?** |
 | --- | --- | --- |
 | **Be informed** | **Be informed of the personal data we process about you and how we process it.** | We inform you:<br><br>* through this Policy<br>* through information provided to you as you use the Spotify Service<br>* by answering your specific questions and requests when you [contact us](#12-how-to-contact-us) |
-| **Know/**<br><br>**Access** | **Request to know and access the personal data we process about you.** | To request a copy of your personal data from Spotify, either:<br><br>* use the ‘Download your data’ tool in your account [Privacy Settings](https://www.spotify.com/account/privacy/), or<br>* [contact us](#12-how-to-contact-us)<br><br>When you download your data you will receive the information about your data that Spotify has to provide under applicable laws. If you would like more information about how we process your personal data, you can [contact us](#12-how-to-contact-us). |
+| **Know/**<br><br>**Access** | **Request to know and access the personal data we process about you.** | To request a copy of your personal data from Spotify, either:<br><br>* use the ‘Download your data’ tool on your [Account Privacy](https://www.spotify.com/account/privacy/) page, or<br>* [contact us](#12-how-to-contact-us)<br><br>When you download your data you will receive the information about your data that Spotify has to provide under applicable laws. If you would like more information about how we process your personal data, you can [contact us](#12-how-to-contact-us). |
 | **Correction** | **Request that we amend or update your personal data where it’s inaccurate.** | You can edit your User Data under ‘Edit profile’ in your account or by [contacting us](#12-how-to-contact-us). |
 | **Deletion** | **Request that we delete certain of your personal data.**<br><br>  <br><br>Please note there are situations where Spotify is unable to delete your data, for example when:<br><br>* it’s still necessary to process the data for the purpose we collected it for<br>* we have an overriding interest in continuing to process the data, for example where we need the data to protect our services from fraud<br>* Spotify has a legal obligation to keep the data, or<br>* Spotify needs the data to establish, exercise or defend legal claims. For example, if there’s an unresolved issue relating to your account | There are several ways you can delete personal data from Spotify:<br><br>* to remove audio content you have saved, select the relevant content and choose to remove it. For example you can remove a track from your playlist or remove an artist you’ve saved to your Library<br>* to request deletion of your account data from Spotify and close your account, follow the steps on our [support page](https://support.spotify.com/article/close-account/). This data includes your User Data, Usage Data and other data listed in [Section 3 ‘Personal data we collect about you](#3-personal-data-we-collect-about-you)’<br>* for any other deletion requests, you can [contact us](#12-how-to-contact-us) or reach out to customer support via our [chat bot](https://support.spotify.com/us/contact-spotify-privacy/) |
-| **Opt-out of tailored advertising** | **Request to opt out of the processing of your personal data for tailored advertising.**<br><br>  <br><br>For more information about our processing for these purposes, see the section ‘Tailored advertising controls’ below. | You can exercise your right to opt out in your account [Privacy Settings](https://www.spotify.com/account/privacy/) under ‘Tailored Ads’.<br><br>  <br>If you do not have an account or are not logged in, you can also opt-out by clicking the ['Your Privacy Choices'](#optanon-toggle-info-display) link at the footer of our website. |
+| **Opt-out of tailored advertising** | **Request to opt out of the processing of your personal data for tailored advertising.**<br><br>  <br><br>For more information about our processing for these purposes, see the section ‘Tailored advertising controls’ below. | You can exercise your right to opt out on your [Account Privacy](https://www.spotify.com/account/privacy/) page under ‘Tailored Ads’.<br><br>  <br>If you do not have an account or are not logged in, you can also opt-out by clicking the ['Your Privacy Choices'](#optanon-toggle-info-display) link at the footer of our website. |
 | **Data portability** | **Request a copy of your personal data in electronic format and the right to transmit that personal data for use in another party’s service.** | For information about how to exercise the right to portability, see ‘Know/Access’ above. |
 | **Not be subject to automated decision making** | **Not be subject to a decision based solely on automated decision making (decisions without human involvement), including profiling, where the decision would have a legal effect on you or produce a similarly significant effect.** | Spotify does not carry out this type of automated decision making in the Spotify Service. |
 | **Withdrawal of consent** | **Withdraw your consent to us collecting or using your personal data.**<br><br>  <br><br>You can do this if Spotify is processing your personal data solely based on your consent. | To withdraw your consent, you can:<br><br>• adjust the relevant control on Spotify<br><br>• [contact us](#12-how-to-contact-us) |
@@ -143,23 +143,23 @@ If your request is denied you may have the right to appeal the denial in accorda
 
 What is tailored advertising?
 
-* This is when we use information about your use of our services and other websites and mobile apps to tailor ads to be more relevant to you. This is also known as interest based advertising, targeted advertising, or ‘sharing’ for purposes of cross-context behavioral advertising.
+* This is when we use information about your use of our services and other websites and mobile apps to tailor ads to be more relevant to you. This is also known as interest based advertising, targeted advertising, or ‘sharing’ for purposes of cross-context behavioural advertising.
 * An example of tailored advertising is when an advertising partner provides us with information indicating that you may be interested in cars. This could enable us to show you ads about cars.
 
 How to control tailored advertising:
 
-* You can control tailored advertising in your account [Privacy Settings](https://www.spotify.com/account/privacy/) under ‘Tailored Ads’.
+* You can control tailored advertising on your [Account Privacy](https://www.spotify.com/account/privacy/) page under ‘Tailored Ads’.
 * If you do not have an account or are not logged in, you can also opt-out by clicking the ['Your Privacy Choices'](#optanon-toggle-info-display) link at the footer of our website.
 * You can also control tailored advertising for some podcasts using the link in the episode’s show description. This applies where the content provider inserts advertising into the podcast to fund it. The hosting provider, which might not be Spotify, manages these controls for the podcast.
 * You can also visit our services via a browser with a recognized opt-out preference signal enabled, such as the Global Privacy Control (GPC). If you use a preference signal you may need to renew your preferences if you visit the Spotify Service with another device or browser, or if you clear your cookies.
 
-If you are ‘opted out’ of tailored advertising in your [Privacy Settings](https://www.spotify.com/account/privacy/), you will receive less relevant advertising, including on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.
+If you are ‘opted out’ of tailored advertising on your [Account Privacy](https://www.spotify.com/account/privacy/) page, you will receive less relevant advertising, including on our free Service Option, as well as our paid Service Option, as applicable (for example, advertising in podcasts). This type of advertising is based on your registration information and what you are currently listening to on our services. For example, if you are listening to a cooking podcast, you may hear an ad for a food processor.
 
   
 
 Appropriate age for tailored advertising:
 
-* Younger users may have tailored advertising turned off by default. When you reach the appropriate age, you will start to receive tailored advertising . When this happens, you will receive a message within the Spotify Service to let you know. This message will contain a link to the [Privacy Settings](https://www.spotify.com/account/privacy/) where you can change your preferences or ‘opt-out’ of tailored advertising at any time under Tailored Ads.
+* Younger users may have tailored advertising turned off by default. When you reach the appropriate age, you will start to receive tailored advertising . When this happens, you will receive a message within the Spotify Service to let you know. This message will contain a link to the [Account Privacy](https://www.spotify.com/account/privacy/) page where you can change your preferences or ‘opt-out’ of tailored advertising at any time under Tailored Ads.
 
 **3\. Personal data we collect about you**
 ------------------------------------------
