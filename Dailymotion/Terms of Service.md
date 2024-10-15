@@ -3,7 +3,7 @@ Terms Of Use
 
 **Your use of the Dailymotion Service implies your acceptance of these Terms of Use including the Prohibited Content Policy and the Data Protection Annexes below (with the Standard Contractual Clauses incorporated therein). We ask You to read them carefully.**
 
-_Last update date: May 24, 2024._
+_Last update date: October 15, 2024._
 
 ### **SECTION 1: DESCRIPTION OF THE DAILYMOTION SERVICE**
 
@@ -212,6 +212,8 @@ In order for the Dailymotion Service to remain a safe space for exchange and sha
 
 These rules apply to all forms of content broadcasted on the Dailymotion Service, including videos available on the platform and/or streamed live, video descriptions or titles, thumbnails, keywords, playlists, channels, and usernames.
 
+Please note that disclaimers inserted within content broadcasted on the Dailymotion Service, including videos available on the platform and/or livestreams, comments, video descriptions or titles have no legal force whatsoever. Under no circumstances may they allow a User to avoid complying with the rules set forth in this Prohibited Content Policy, nor to escape the consequences set forth in section III below. 
+
 ####   
 A. Pornographic or sexually explicit content
 
@@ -232,7 +234,7 @@ In particular, it is forbidden for our Users to post online any content:
 * Involving sexual acts with animals (zoophilia);
 * Representing and/or involving pimping;
 * Published as a form revenge porn and/or sextortion of a minor or adult;
-* Showing genitals;
+* Showing genitals, breasts, buttocks, whether clothed or unclothed, in an evocative manner, meaning images or representations of nudity that, while not explicitly pornographic, can provoke or encourage interpretations with sexual connotations through poses, angles, or staging that may create an erotic atmosphere ;
 * Using or displaying sex toys in an explicit context;
 * Threatening or encouraging sexual assault or sexual exploitation; or
 * Promoting non-consensual sexual acts.
@@ -300,19 +302,21 @@ For more information on this type of content, you can read the dedicated article
 
 #### D. Hateful Content
 
-Dailymotion prohibits any content which contains hateful behavior and/or which undermines human dignity. Thus, Dailymotion strictly prohibits any content, behavior, or statements which aim to attack, insult, threaten, or incite to hatred, violence or discrimination against a person or a group of persons on the basis of attributes or personal characteristics, real or supposed, such as: race, ethnicity, nationality, religion, caste, language, sexual orientation, sex/gender, gender identity, serious illness, disability, migratory status, and eating disorders.
+Dailymotion prohibits any content which contains hateful behavior and/or which undermines human dignity. Thus, Dailymotion strictly prohibits any content, behavior, or statements which aim to attack, insult, threaten, or incite to hatred, violence or discrimination against a person or a group of persons on the basis of attributes or personal characteristics, real or supposed, such as: race, ethnicity, nationality, religion/faith/beliefs, caste, language, sexual orientation, sex/gender, gender identity, physical appearance, illness, disability, migratory status, and eating disorders, or more generally, fueling hatred by instilling discriminatory ideas and beliefs in people’s mind.
 
 Such hateful content may take the form of outrageous expression, terms of contempt, invectives, stereotyping, attempts to offend, stigmatization, dehumanization, declarations of inferiority, expressions of disgust, insults, marginalization, or provocations of hatred, violence, or discrimination against individuals or groups of individuals targeted because of their personal attributes or characteristics.  
   
 In particular, it is forbidden for our Users to post any content:
 
 * Encouraging violence against persons or groups of persons on the basis of one or more of the attributes listed above;
+* Stigmatizing a person or group of persons by gratuitously criticizing or attacking their actual or perceived religion, faith, beliefs or sexual orientation; 
 * Relaying hateful, insulting or humiliating speech or acts targeting, for example, the religious affiliation, gender, skin color, sexual orientation, or disability of one or more groups of people;
 * Dehumanizing and/or demeaning to a person or group of persons, including implying that they are inferior;
 * Abusing or defaming a person or group of persons on the basis of personal attribute(s) or characteristics;
 * Encouraging, supporting or glorifying hateful ideologies (such as antisemitism, racism, white supremacism, anti-LGBTQIA+ activism…) or proclaiming the superiority and/or dominance of one group of people over others;
 * Defending conspiracy theories that a person or group of people is dishonest or malicious;
 * Using stereotypes based on personal attributes or characteristics which incite hatred;
+* Conveying discriminatory, hostile, mocking and/or contemptuous messages, images and/or statements towards overweight, obese or anorexic people; 
 * Encouraging, supporting, or promoting conversion therapy or any other practice aimed at changing or repressing a person’s actual or perceived sexual orientation or gender identity;
 * Undermining human dignity; or
 * Contributing to the exploitation of people (such as content depicting forced labor, domestic servitude, human trafficking for sexual exploitation, slavery and/or pimping).
