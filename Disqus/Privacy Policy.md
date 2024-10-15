@@ -72,7 +72,7 @@ Note that we may process your personal data for more than one lawful ground depe
   
 d.
 
-[![](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1728930600&signature=e52cb0fb2dc171c01de6be2707d3c9a1b2d1f64b1e9f994a83a2aee7608c6d5b&req=ciQkHsx8lINfFb4f3HP0gEi7r2RwwD3TtZEaR9RYXiXvIxsHagMjw75oMVz9%0ATbPDPcEjI6NggxXLMQ%3D%3D%0A)](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1728930600&signature=e52cb0fb2dc171c01de6be2707d3c9a1b2d1f64b1e9f994a83a2aee7608c6d5b&req=ciQkHsx8lINfFb4f3HP0gEi7r2RwwD3TtZEaR9RYXiXvIxsHagMjw75oMVz9%0ATbPDPcEjI6NggxXLMQ%3D%3D%0A)
+[![](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1728973800&signature=4d99710ba8742f0f54eef1614d12fae15f4542bee88ba24a8620f4296f78b7f8&req=ciQkHsx8lINfFb4f3HP0gEi7r2R0wzPTtZEaR9RYXiUrVlrVhiPGmM3mw2QN%0AXb6df7WZdCQ8d93NFA%3D%3D%0A)](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1728973800&signature=4d99710ba8742f0f54eef1614d12fae15f4542bee88ba24a8620f4296f78b7f8&req=ciQkHsx8lINfFb4f3HP0gEi7r2R0wzPTtZEaR9RYXiUrVlrVhiPGmM3mw2QN%0AXb6df7WZdCQ8d93NFA%3D%3D%0A)
 
 **6\. DISCLOSURES OF YOUR PERSONAL DATA**  
 a. We may sell or share your personal data with the parties set out below for the purposes set out in the table in the previous section.
