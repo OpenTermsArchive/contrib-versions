@@ -1,7 +1,7 @@
 Couchsurfing.com Privacy Policy
 ===============================
 
-Effective Date: April **06, 2023**
+Effective Date: October **14, 2023**
 
 Please read this Global Privacy Policy (“**Privacy Policy**”) carefully to get a clear understanding of how Couchsurfing International, Inc. (“**Couchsurfing**,” “**we**,” “**us**” or “**our**”) collects, uses, discloses, protects and otherwise handles information about you. Our privacy practices may vary among the countries in which we operate to reflect local practices and legal requirements. In this Privacy Policy, we also provide a supplementary privacy notice for [California residents](#NoticetoCAResidents) and a supplementary privacy notice for data subjects in the [EEA, Switzerland and the UK (collectively, “Europe”)](#NoticeToEuropeanDataSubjects).
 
@@ -241,4 +241,10 @@ Provision of some of this data is necessary to establish an account on Couchsurf
 * **Restrict Processing.** You may ask us to suspend our processing of your personal data, for example, if you want us to establish its accuracy or the reason for processing it.
 * **Data Portability.** If required to do so, we will give you your personal data in a structured, commonly used, and machine-readable format.
 
-To exercise these rights, please email _privacy@couchsurfing.com_. You may also contact our representative using the contact information referenced in the [Controller and Representative](#ControllerandRepresentative) section above. You also have the right to complain to a data protection authority in your country about our processing of your personal data.
+To exercise these rights, please email _privacy@couchsurfing.com_ You may also contact our representative using the contact information referenced in the [Controller and Representative](#ControllerandRepresentative) section above. You also have the right to complain to a data protection authority in your country about our processing of your personal data.
+
+### Data deletion for Non-EU and Non-California Residents
+
+You can ask us to delete or correct the personal data that we hold about you. We may retain your personal data as necessary for our legitimate business interests, such as fraud detection and prevention, and enhancing trust and safety. For example, if we suspend a Couchsurfing account for fraud or safety reasons, we may retain information from that account to prevent that member from opening a new account in the future.
+
+* **To request deletion of personal information collected**, please email us at _privacy@couchsurfing.com_ or by mail at Couchsurfing International, Inc. Attention: Legal Department, PO Box 7775 ECM 86600, San Francisco, CA 94120.
