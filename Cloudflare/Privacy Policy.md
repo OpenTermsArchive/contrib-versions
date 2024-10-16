@@ -1,42 +1,42 @@
 #### Privacy Policy
 
-[Overview](#cloudflare-privacy-policy)  
+[Overview](https://www.cloudflare.com/#cloudflare-privacy-policy/)  
   
-[Policy application](#1-policy-application)  
+[Policy application](https://www.cloudflare.com/#1-policy-application/)  
   
-[Information we collect](#2-information-we-collect-categories-of-data-subjects)  
+[Information we collect](https://www.cloudflare.com/#2-information-we-collect-categories-of-data-subjects/)  
   
-[How we use information we collect](#3-how-we-use-information-we-collect)
+[How we use information we collect](https://www.cloudflare.com/#3-how-we-use-information-we-collect/)
 
-[Data aggregation](#4-data-aggregation)
+[Data aggregation](https://www.cloudflare.com/#4-data-aggregation/)
 
-[Information sharing](#5-information-sharing)
+[Information sharing](https://www.cloudflare.com/#5-information-sharing/)
 
-[Notice to UK and EU residents](#6-notice-to-eu-uk-and-swiss-residents)
+[Notice to UK and EU residents](https://www.cloudflare.com/#6-notice-to-eu-uk-and-swiss-residents/)
 
-[International information transfers](#7-international-information-transfers)
+[International information transfers](https://www.cloudflare.com/#7-international-information-transfers/)
 
-[Data subject rights and choices](#8-data-subject-rights-and-choices)
+[Data subject rights and choices](https://www.cloudflare.com/#8-data-subject-rights-and-choices/)
 
-[Communication preferences](#9-communication-preferences)
+[Communication preferences](https://www.cloudflare.com/#9-communication-preferences/)
 
-[Data security, data integrity and access](#10-data-security-data-integrity-and-access)
+[Data security, data integrity and access](https://www.cloudflare.com/#10-data-security-data-integrity-and-access/)
 
-[Data retention](#11-data-retention)
+[Data retention](https://www.cloudflare.com/#11-data-retention/)
 
-[Notification of changes](#12-notification-of-changes)
+[Notification of changes](https://www.cloudflare.com/#12-notification-of-changes/)
 
-[Business transactions](#13-business-transactions)
+[Business transactions](https://www.cloudflare.com/#13-business-transactions/)
 
-[English language controls](#14-english-language-controls)
+[English language controls](https://www.cloudflare.com/#14-english-language-controls/)
 
-[Dispute resolution](#15-dispute-resolution)
+[Dispute resolution](https://www.cloudflare.com/#15-dispute-resolution/)
 
-[Notice to California residents](#16-notice-to-california-residents)
+[Notice to California residents](https://www.cloudflare.com/#16-notice-to-california-residents/)
 
-[Contact information](#17-contact-information)
+[Contact information](https://www.cloudflare.com/#17-contact-information/)
 
-[Legal questions](#legal-links)
+[Legal questions](https://www.cloudflare.com/#legal-links/)
 
 ### Have Questions?
 
