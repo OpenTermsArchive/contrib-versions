@@ -5,7 +5,7 @@ About Us: Terms of Service
 
 Please read these Terms of Service ("Terms") carefully. They contain the legal terms and conditions that govern your use of services provided to you by DeviantArt, including information, text, images, graphics, data or other materials ("Content") and products and services provided through [www.DeviantArt.com](https://www.deviantart.com/), Sta.sh, DeviantArt Protect, and other DeviantArt mobile applications as well as all elements, software, programs and code forming or incorporated in to [www.DeviantArt.com](https://www.deviantart.com/) (the "Service"). This Service is operated by DeviantArt, Inc. ("DeviantArt"). DeviantArt is also referred to in these Terms as "we", "our", and "us".
 
-By using our Service, you agree to be bound by Section I of these Terms ("General Terms"), which contains provisions applicable to all users of our Service, including visitors to the DeviantArt website (the "Site"). If you choose to register as a member of our Service or purchase products from the DeviantArt Shop, you will be asked to check a box indicating that you have read, and agree to be bound by, the additional terms set forth in Section II of these Terms ("Additional Terms").
+By using our Service, you agree to be bound by Section I of these Terms ("General Terms"), which contains provisions applicable to all users of our Service, including visitors to the DeviantArt website (the "Site"). If you choose to register as a member of our Service or purchase products from the DeviantArt Shop, you acknowledge that you have read, and agree to be bound by, the additional terms set forth in Section II of these Terms ("Additional Terms").
 
 **Section I: General Terms**
 
@@ -46,16 +46,6 @@ DeviantArt may provide links to third-party websites or resources. You acknowled
 
 As a convenience, we may make third-party software available through the Service. To use the third-party software, you must agree to the terms and conditions imposed by the third party provider and the agreement to use such software will be solely between you and the third party provider. By downloading third party software, you acknowledge and agree that the software is provided on an "AS IS" basis without warranty of any kind. In no event shall DeviantArt be liable for claims or damages of any nature, whether direct or indirect, arising from or related to any third-party software downloaded through the Service.
 
-MPEG License:  
-
-As part of the DeviantArt platform, DeviantArt may provide different video services, available for its Core users.
-
-The use of the video services for your account, may require that you receive a license to use certain patents from MPEG-LA (the "License"). It is your own exclusive responsibility to decide whether your activity requires a License and to obtain it. Information about the License can be obtained from MPEG LA L.L.C. [here](https://www.mpegla.com/).
-
-Without derogating from any subclause in these Terms of Use, and without any limitation of liability, you shall fully indemnify, defend and hold DeviantArt its officers, directors, shareholders, employees, affiliates and agents, harmless from any and all damages and costs, obligations, losses, liabilities debt and expenses (including attorneys' fees), as accrued, that arise out of or are related to infringement and/or misuse of the patent pool under the MPEG-LA consortium.
-
-If your needs require a more inclusive plan than those regularly offered by us, please contact our support team at: help@deviantart.com
-
 **8\. Conduct**
 
 You agree that you shall not interfere with or disrupt (or attempt to interfere with or disrupt) this Service or servers or networks connected to this Service, or to disobey any requirements, procedures, policies or regulations of networks connected to this Service; or provide any information to DeviantArt that is false or misleading, that attempts to hide your identity or that you do not have the right to disclose. DeviantArt does not endorse any content placed on the Service by third parties or any opinions or advice contained in such content. You agree to defend, indemnify, and hold harmless DeviantArt, its officers, directors, employees and agents, from and against any claims, liabilities, damages, losses, and expenses, including, without limitation, reasonable legal and expert fees, arising out of or in any way connected with your access to or use of the Services, or your violation of these Terms.
@@ -92,7 +82,9 @@ When you register as a member you will be asked to provide a password. You are r
 
 _Chat Rooms and Forums_ - As a registered member of the Service, you will be granted the privilege of participating in chat rooms and forums on the DeviantArt website as part of the Service, which means you may post Your Content in the form of text for display in these areas of the DeviantArt website, subject to your compliance with the Terms.
 
-_Artist Materials -_ As a registered member of the Service, you will also be granted the privilege of submitting certain types of Your Content, known as "Artist Materials," for display on your user page. Prior to submitting Artist Materials, you must accept the additional terms and conditions of the [Submission Policy](https://www.deviantart.com/about/policy/submission/), which is incorporated into, and forms a part of, the Terms.
+_Artist Materials -_ As a registered member of the Service, you will also be granted the privilege of submitting certain types of Your Content, known as "Artist Materials," for display on your user page. Upon submitting Artist Materials, you acknowledge and accept the additional terms and conditions of the [Submission Policy](https://www.deviantart.com/about/policy/submission/), which is incorporated into, and forms a part of, the Terms.
+
+_Boost Content Exposure -_ You may increase the exposure of your content on DeviantArt by using the “Boost” feature, subject to the terms available [here](https://www.deviantartsupport.com/kb/en/article/what-is-boosting-and-how-do-i-boost-my-content). When content is boosted, its exposure across the network will be increased for the relevant period; however, DeviantArt makes no guarantees regarding the exact level of exposure, number of views, or any other type of engagement the boosted content may receive. DeviantArt offers access to the Boost feature at different rates in accordance with your relevant [Core Membership](https://www.deviantart.com/core-membership) plan.
 
 **16\. Copyright in Your Content**
 
@@ -195,22 +187,23 @@ Users acknowledge that by uploading Content to DeviantArt, third-parties may scr
 
 **25\. Submitting and Purchasing Works on DeviantArt**
 
-* In order to withdraw earnings from the Platform, you must be a verified user of DeviantArt. DeviantArt offers its users the ability to withdraw earnings they have made on the platform to their private accounts or balances, via third parties (such as PayPal or Stripe, which may vary from time to time, at DeviantArt’s sole discretion). Learn more about withdrawal methods, fees, and other important information [here](https://www.deviantartsupport.com/en/article/how-do-i-withdraw-my-earnings). Alternatively, any user may choose to convert their earnings to DeviantArt Points, which they may use across the platform, subject to the terms available [here](https://www.deviantartsupport.com/en/article/what-are-points-1749105).
+* In order to purchase a work submitted by a Seller on the DeviantArt platform, you need to create an account on DeviantArt.
+    
+* Sale may be available via different payment methods (including PayPal, credit card or Points), depending on the item/service offered for sale. Further information is [available here](https://www.deviantartsupport.com/en/article/what-payment-methods-does-deviantart-support).
     
 * DeviantArt receives fees from each sale on the platform, in accordance with the Platform Fees available for your specific Core plan, [available here](https://www.deviantart.com/core-membership).
     
 * DeviantArt reserves the right to update Platform Fees from time to time at its sole discretion. Sales transactions involving a third-party payment processor (such as credit cards or PayPal) incur a processing fee, subject to the terms [available here](https://www.deviantartsupport.com/kb/en/article/what-is-the-difference-between-platform-processing-and-payout-fees). DeviantArt reserves the right to update processing fees from time to time at its sole discretion.
-    
-* You may not sell any work that infringes on third-party rights, including intellectual property rights, publicity rights, and others, and you may not sell "deep-fakes".
-    
-* Sale may be available via different payment methods (including PayPal, credit card or Points), depending on the item/service offered for sale. Further information is [available here](https://www.deviantartsupport.com/en/article/what-payment-methods-does-deviantart-support).
     
 * You decide on the price for any work or service offered by you.
     
 * However, DeviantArt reserves the right to set or update price guidelines, limitations, and requirements at any time, at its sole discretion.
     
 * Subject to applicable law and to the extent so permitted under applicable law, purchases made on DeviantArt are non refundable.
+    
 * At DeviantArt's discretion, it may elect to limit the size of transactions on the Platform.
+    
+* You may not sell any work that infringes on third-party rights, including intellectual property rights, publicity rights, and others, and you may not sell "deep-fakes".
     
 * DeviantArt is not a fiduciary, contracting agent, or representative of any Seller or Buyer, and disclaims all responsibilities and obligations related to any of these roles.
     
@@ -220,7 +213,11 @@ Users acknowledge that by uploading Content to DeviantArt, third-parties may scr
     
 * Any agreement made between a Seller and a Buyer using the Platform automatically incorporates by reference an agreement between the Seller and the Buyer that they are both subject to these Terms for the use of the Platform.
     
-* In order to purchase a work submitted by a Seller on the DeviantArt platform, you need to create an account on DeviantArt.
+* DeviantArt offers its users the ability to withdraw earnings they have made on the platform to their private accounts or balances, via third parties (such as PayPal or Stripe, which may vary from time to time, at DeviantArt’s sole discretion).
+    
+* In order to withdraw earnings from the Platform, you must be a verified user of DeviantArt.
+    
+* Learn more about withdrawal methods, fees, and other important information [here](https://www.deviantartsupport.com/en/article/how-do-i-withdraw-my-earnings). Alternatively, any user may choose to convert their earnings to DeviantArt Points, which they may use across the platform, subject to the terms available [here](https://www.deviantartsupport.com/en/article/what-are-points-1749105).
     
 
 **26\. Payment Terms**
