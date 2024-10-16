@@ -194,6 +194,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * BEV - Bundesamt für Eich- und Vermessungswesen: [https://data.bev.gv.at/geonetwork/srv/eng/catalog.search#/metadata/2dd73338-e005-475f-a9f2-637165a9f97c](https://data.bev.gv.at/geonetwork/srv/eng/catalog.search#/metadata/2dd73338-e005-475f-a9f2-637165a9f97c)
             
+        * Open Data Österreich - [https://www.data.gv.at/katalog/dataset/468dc562-d99c-4ec1-9edd-8fead87c355e#additional-info](https://www.data.gv.at/katalog/dataset/468dc562-d99c-4ec1-9edd-8fead87c355e#additional-info)
+            
     5. **Argentina**
         * Instituto Geográfico Nacional (AR): [https://www.ign.gob.ar/](https://www.ign.gob.ar/)
             
@@ -557,6 +559,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Czech Office for Surveying, Mapping and Cadastre - [https://www.cuzk.cz/Uvod/Produkty-a-sluzby/Otevrena-data/Otevrena-data-zakladni-informace.aspx](https://www.cuzk.cz/Uvod/Produkty-a-sluzby/Otevrena-data/Otevrena-data-zakladni-informace.aspx)
             
         * Data.Brno - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        * Stahovací služby Atom: ČUZK - [https://atom.cuzk.cz/](https://atom.cuzk.cz//)
             
     13. **Denmark**
         * © COWI A/S
@@ -1489,6 +1493,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * 静岡市 [https://opendata-api-wiki-dot-shizuokashi-road.appspot.com/terms](https://opendata-api-wiki-dot-shizuokashi-road.appspot.com/terms)
             
         * Hiroshima Dobox: [https://hiroshima-dobox.jp/en/pages/terms](https://hiroshima-dobox.jp/en/pages/terms)
+            
+        * 大東市: [https://www.city.daito.lg.jp/soshiki/67/44745.html](https://www.city.daito.lg.jp/soshiki/67/44745.html)
+            
+        * 北海道オープンデータ: [https://ckan.hoda.jp/dataset/gtfs-data/resource/3efff7e5-b604-4850-8888-38f0e60bb238](https://ckan.hoda.jp/dataset/gtfs-data/resource/3efff7e5-b604-4850-8888-38f0e60bb238)
             
     36. **Liechtenstein**
         * “Liechtensteinische Landesverwaltung“ - [https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf](https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf)
