@@ -61,33 +61,19 @@ You may not use our platform or Services to engage in, foster, or promote illega
 
 You may not publish, transmit or store on or via the Services any content or links to any content that Sinch Email reasonably believes is illegal, harmful, unwanted, or otherwise poses a threat to the public. Moreover and unless the sender gives us sufficient and specific guarantees at our sole discretion, we do not work in principle with senders who promote the following activities or sends content, whether permitted by law or not, that includes the following, but is not limited to:
 
-* Badge Check
+* Any payday loans, debt collection agencies, affiliate marketing, or anything that can be considered abusive or dishonest;
     
-    Any payday loans, debt collection agencies, affiliate marketing, or anything that can be considered abusive or dishonest;
+* Any gambling activity in violation of any required licenses, codes of practice, or necessary technical standards required under the laws or regulations of any jurisdiction in which your site is hosted or accessed;
     
-* Badge Check
+* Constitutes, depicts, fosters, promotes or relates in any manner to child pornography, bestiality, non-consensual sex acts, or otherwise unlawfully exploits persons under 18 years of age;
     
-    Any gambling activity in violation of any required licenses, codes of practice, or necessary technical standards required under the laws or regulations of any jurisdiction in which your site is hosted or accessed;
+* Publish, transmit or store any content or links to any content that is excessively violent, incites violence, threatens violence, contains harassing content or hate speech, creates a risk to a person’s safety or health, or public safety or health, compromises national security or interferes with an investigation by law enforcement;
     
-* Badge Check
+* Is unfair or deceptive under the consumer protection laws of any jurisdiction, including chain letters and pyramid schemes;
     
-    Constitutes, depicts, fosters, promotes or relates in any manner to child pornography, bestiality, non-consensual sex acts, or otherwise unlawfully exploits persons under 18 years of age;
+* Is defamatory or violates a person’s privacy; or
     
-* Badge Check
-    
-    Publish, transmit or store any content or links to any content that is excessively violent, incites violence, threatens violence, contains harassing content or hate speech, creates a risk to a person’s safety or health, or public safety or health, compromises national security or interferes with an investigation by law enforcement;
-    
-* Badge Check
-    
-    Is unfair or deceptive under the consumer protection laws of any jurisdiction, including chain letters and pyramid schemes;
-    
-* Badge Check
-    
-    Is defamatory or violates a person’s privacy; or
-    
-* Badge Check
-    
-    Is otherwise malicious, fraudulent, morally repugnant.
+* Is otherwise malicious, fraudulent, morally repugnant.
     
 
 4) Excessive Use of Shared or Free System Resources
