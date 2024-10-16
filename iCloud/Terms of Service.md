@@ -61,8 +61,6 @@ Some iCloud+ features are not available in all countries or regions. 
 
           J. Advanced Data Protection. With Advanced Data Protection, you can enable the use of end-to-end encryption to further protect additional categories of your data in iCloud, including your iCloud Backup, Photos, Notes, and files stored in iCloud Drive. To enable Advanced Data Protection, you must have two-factor authentication enabled for your Apple Account and a trusted device (devices on which you have signed into your Account using two-factor authentication) for that account with passcode or password enabled. In addition, you will also be required to generate a recovery key or designate at least one account recovery contact to help you regain access to your Account and data in the event you forget your Account password, do not have access to any of your trusted devices, and you have forgotten your device passcodes or passwords. You can change your recovery contacts at any time, but they must be over 13 years old (or equivalent minimum age where the recovery contact resides), have an Apple Account with two-factor authentication enabled, and have an Apple device set with a passcode or a password. Apple will not be able to help you recover data protected using Advanced Data Protection once it has been enabled, so it is your responsibility to keep your recovery key safe and/or your recovery contacts up to date. Apple shall bear no responsibility for your inability to access your account or data related to a failure to safeguard your recovery key or if your recovery contact is unable or unwilling to help you regain access to your Account and data. Managed Apple Accounts and Child accounts are ineligible for Advanced Data Protection. You may turn off Advanced Data Protection at any time.
 
-  
-
           K. Security Keys. Security Keys allows you to require a physical security key to be used to sign in with your Apple Account. Security Keys requires that you have two-factor authentication enabled for your Apple Account, and that you use a FIDO certified third party security key as one of your two factors. Security Keys allows you to use a trusted device to add a new key or turn off Security Keys altogether to preserve access to your account. However, if you have lost all of your security keys as well as your trusted devices, you will lose access to your account permanently, and Apple will not be able to help you regain access to your account or data. Apple shall bear no responsibility for your inability to access your account or data related to a failure to safeguard your physical security keys or if your physical security keys malfunction. Managed Apple Accounts and child accounts are ineligible for Security Keys.
 
           L. Digital Legacy.  With Digital Legacy, you can choose to add one or more contacts to access and download certain data in your account after your death.  If your designated contacts provide proof of death to Apple and have the required key, they will automatically obtain access to that certain account data and activation lock will be removed from all your devices.  Thus, it is your responsibility to keep your Digital Legacy contacts up to date.  You can learn more about Digital Legacy at http://support.apple.com/HT212360 and  http://support.apple.com/HT212361.   
@@ -315,8 +313,6 @@ This Agreement constitutes the entire agreement between you and Apple, governs y
 
 • Apple Distribution International Ltd., located at Hollyhill Industrial Estate, Hollyhill, Cork, Republic of Ireland, for all other users (subject to the below exception).
 
-  
-
 Effective October 26, 2024, for users in Bhutan, Brunei, Cambodia, Fiji, Laos, Macau, Maldives, Micronesia, Mongolia, Myanmar, Nauru, Nepal, Palau, Papua New Guinea, South Korea, Sri Lanka, Solomon Islands, Tonga, and Vanuatu, “Apple” means Apple Services Pte. Ltd., located at 7 Ang Mo Kio Street 64, Singapore 569086. Prior to October 26, 2024, “Apple” means Apple Distribution International Ltd. for such users.
 
 ELECTRONIC CONTRACTING
@@ -327,4 +323,4 @@ Your use of the Service includes the ability to enter into agreements and/or to 
 
 Your use of the Service is subject to Apple’s Privacy Policy, which is available at https://www.apple.com/legal/privacy/.
 
-Last revised: September 9, 2024
+Last revised: September 16, 2024
