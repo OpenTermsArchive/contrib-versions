@@ -28,6 +28,9 @@
 * [Learn](https://www.kraken.com/learn)
 * [Support](https://support.kraken.com/hc/en-us)
 
+* [Sign in](https://www.kraken.com/sign-in)
+* [Sign up](https://www.kraken.com/sign-up)
+
 **Terms of Service**
 
 
@@ -54,15 +57,15 @@ The following is the binding and enforceable Terms of Service.
 
 Kraken.com Terms of Service
 
-Last Updated: October 7, 2024
+Last Updated: October 16, 2024
 
 Please read these Terms of Service (including all Annexes, “Terms”) carefully, as they are binding and govern your use of our services, and our websites (including kraken.com, and pro.kraken.com), and mobile applications through which you access our services (“Platforms”), along with any applicable third-party terms you may have agreed to as part of using or receiving our mobile applications (such as terms for the Apple App Store or Google Play, if applicable). If these Terms conflict with any such third-party terms, these Terms will control to the extent of the conflict. By accessing or using our services or Platforms, or by creating an account, you agree to these Terms. 
 
-These Terms may change at any time and without notice, including updates to (1) reflect changes to our services and Platforms or how we do business; (2) reflect the addition of new services, features, technologies, or offers; (3) address legal, regulatory, or security development; or (4) prevent harm to our services and Platforms or to those using our services and Platforms. These Terms can only be modified in writing, and any change will be effective as of the Last Updated date set forth above. You should frequently check these Terms for updates. If you continue to access or use our Platforms or services, after we change these Terms, you agree to all our changes.
+These Terms may change at any time and without notice, including updates to (1) reflect changes to our services and Platforms or how we do business; (2) reflect the addition of new services, features, technologies, or offers; (3) address legal, regulatory, or security developments; or (4) prevent harm to our services and Platforms or to those using our services and Platforms. These Terms can only be modified in writing, and any change will be effective as of the Last Updated date set forth above. You should frequently check these Terms for updates. If you continue to access or use our Platforms or services, after we change these Terms, you agree to all our changes.
 
 We make our services and Platforms available for users in many countries. Because of this, not all services are available on every Platform or in every location, and the services and Platforms may be provided to you by one of our affiliated entities.
 
-These Terms are a legally binding agreement between “you” (an individual, or an entity acting through an authorized individual) and the entity listed below (including its affiliates, “we”, “us”, “our”, “Kraken” or “Payward”):
+These Terms are a legally binding agreement between “you” (an individual, or an entity acting through an authorized individual) and the entity listed below (including its affiliates, “we”, “us”, “our”, “Kraken”, or “Payward”):
 
 * Payward Interactive, Inc., 106 E. Lincoln Way, 4th Floor, Cheyenne, WY 82001, USA (if you live in the United States of America);
 * Payward Ltd., 6th Floor, One London Wall, London, EC2Y 5EB, United Kingdom, if you live in the United Kingdom (except as noted below);
@@ -118,6 +121,8 @@ Annex D: Opt-In Rewards Program
 Annex E: NFT Services
 
 Annex F: PIL Services
+
+Annex G: kBTC
 
 1. Eligibility; Account
 
@@ -277,7 +282,7 @@ Our Fees
 
 You agree to pay us all applicable fees associated with your use of the services, including fees for Trades, Deposits, Issuances, Redemptions and Withdrawals. You authorize us, or our designated third-party providers, to charge or deduct Fiat Balances or Digital Assets held or reflected, as applicable, from your account to cover any applicable fees associated with your use of the services. The relevant fees are shown in our [Fee Schedule](https://www.kraken.com/features/fee-schedule).
 
-Transactions using the Instant Buy/Sell Services are subject to fees and a spread that is included in the transaction price. Applicable transaction fees and spreads may change. Our current fees can be found in the Fee Schedule under the Instant Buy/Sell tab. Fees may differ depending on the selected payment method (e.g. account balance, card, ACH). Spreads may be determined based on a combination of factors, including market conditions, asset, order size, type of trade, participation in Kraken’s VIP program, and trading and custodial activity. Spreads typically vary between 0%-1.5% of the trade amount, but may be up to 3% in extreme conditions.
+Transactions using the Instant Buy/Sell services are subject to fees and a spread that is included in the transaction price. Applicable transaction fees and spreads may change. Our current fees can be found in the Fee Schedule under the Instant Buy/Sell tab. Fees may differ depending on the selected payment method (e.g. account balance, card, ACH). Spreads may be determined based on a combination of factors, including market conditions, asset, order size, type of trade, participation in Kraken’s VIP program, and trading and custodial activity. Spreads typically vary between 0%-1.5% of the trade amount, but may be up to 3% in extreme conditions.
 
 Your payment provider may charge additional fees in conjunction with your transaction, however we do not know the fees charged by your payment provider. You understand and agree that you are fully responsible for your payment providers’ fees for all transactions.
 
@@ -375,7 +380,7 @@ We can, at any time and without liability or prior notice to you:
 
 If we terminate your account, we'll contact you to return any Digital Assets or NFTs in your account to you and will instruct any Designated Financial Institution to Redeem Your Fiat Balances, except in each case if you owe us any fees or if we believe you have committed fraud, negligence, or other misconduct. If you’re inactive for a protracted period and we are unable to return any Digital Assets or NFTs or Redeem Fiat Balances in your account to your designated Financial Account, then we may be required to report and remit such Digital Assets, NFTs and Fiat Balances in accordance with any applicable state or jurisdiction unclaimed property laws. State unclaimed property law may require liquidation of the Digital Assets and NFTs held in your account.
 
-You may terminate your account at any time by transferring your Digital Assets and redeeming your Fiat Balances to a Financial Account and ceasing to use our Services.
+You may terminate your account at any time by transferring your Digital Assets and redeeming your Fiat Balances to a Financial Account and ceasing to use our services.
 
 16. Legal Disclosures
 
@@ -421,7 +426,7 @@ You cannot assign or transfer any right or obligation under these Terms without 
 
 Interpretation.
 
-In these Terms, (1) “or” is inclusive, (2) “including” or “such as” aren’t words of limitation, (3) headings are only for your convenience, (4) unless otherwise indicated, a section reference in the main body of these Terms is a reference to a section in the main body of these Terms, (5) unless otherwise indicated, a section reference in an Annex is a reference to a section in such Annex, and (6) the “Summary of Kraken.com Terms of Service” and any definitions provided only for informational purposes are provided only for your convenience, isn't legally binding, and does not affect the interpretation of these Terms,.
+In these Terms, (1) “or” is inclusive, (2) “including” or “such as” aren’t words of limitation, (3) headings are only for your convenience, (4) unless otherwise indicated, a section reference in the main body of these Terms is a reference to a section in the main body of these Terms, (5) unless otherwise indicated, a section reference in an Annex is a reference to a section in such Annex, and (6) the “Summary of Kraken.com Terms of Service” and any definitions provided only for informational purposes are provided only for your convenience, isn't legally binding, and does not affect the interpretation of these Terms.
 
 Relationship
 
@@ -1130,3 +1135,51 @@ In the event that you suspect or know of any instances of fraud or any security 
 1. You agree to provide us with the information we request (which we may request at any time deemed necessary) for the purposes of identity verification and the detection of money laundering, terrorist financing, fraud, or any other financial crime and permit us to keep a record of such information. You will need to complete certain verification procedures before you are permitted to start using the Kraken E-Money Wallet and the limits that apply to your use of the Kraken E-Money Wallet may be altered as a result of information collected on an ongoing basis.
 2. This Annex F between you and us will remain in force indefinitely unless terminated by either you or us in accordance with the Terms.  
 3. This Annex F is governed by Irish law and any dispute under this Annex F or otherwise in connection with your Kraken E-Money Wallet or the PIL Services shall be brought exclusively in the courts of Ireland.
+    
+    * * *
+    
+
+Annex G
+
+kBTC
+
+This Annex G (this “kBTC Annex”) incorporates by reference and supplements the Kraken.com Terms of Service (excluding all Annexes thereto, “Terms”) as if the entirety of the Terms were set forth in this kBTC Annex. Capitalized terms used but not defined in this kBTC Annex have the meanings given to them elsewhere in the Terms. In the event of a conflict between the Terms and this kBTC Annex, the terms of this kBTC Annex will control solely to the extent of the conflict and solely with respect to the subject matter of this kBTC Annex.
+
+Kraken Wrapped Bitcoin (“kBTC”) is an ERC-20 token minted exclusively by our affiliate Payward Commercial Ltd, a British Virgin Islands company (“Payward Commercial”), for use on Ethereum-based networks. As part of the services, you may have the opportunity to exchange BTC for kBTC and vice versa using our services and Platforms (the “kBTC Services”). The kBTC Services are subject to certain eligibility requirements and the Terms, including this kBTC Annex.
+
+WE MAKE NO REPRESENTATION OR WARRANTY THAT THE KBTC SERVICES ARE APPROPRIATE FOR USE IN ALL LOCATIONS, OR THAT THE SERVICES DESCRIBED HEREIN ARE AVAILABLE OR APPROPRIATE FOR USE IN ALL JURISDICTIONS OR BY ALL PARTIES. YOU SHOULD INFORM YOURSELF AS TO THE LEGAL REQUIREMENTS AND TAX CONSEQUENCES OF USING THE KBTC SERVICES WITHIN ALL JURISDICTIONS APPLICABLE TO YOU. WE ARE NOT RESPONSIBLE FOR TAX CONSEQUENCES TO YOU OF PARTICIPATING IN THE KBTC SERVICES.
+
+1. Eligibility
+
+kBTC Services will only be offered to eligible Kraken users in select jurisdictions at Kraken’s sole discretion and are subject to change or to be paused or discontinued at any time, without prior notice.  You must have an account with us in order to use the kBTC Services or engage in a kBTC Exchange (as defined below); if you are not eligible to open an account with us or otherwise don’t have an account with us, you will not be entitled to use the kBTC Services or engage in kBTC Exchanges.
+
+If the ability to utilize the kBTC Services is available in your jurisdiction and you meet all other eligibility requirements, your account will include an option to engage in kBTC Exchanges in the Deposits/Withdrawals section of your account.
+
+2. kBTC and Associated Risks
+
+kBTC is an ERC-20 token minted exclusively by Payward Commercial for use on Ethereum-based networks. kBTC is fully backed by an equivalent amount of BTC held by Payward Commercial in a segregated vault at our affiliate, Payward Financial, Inc. (“Payward Financial”) for the sole purpose of fulfilling kBTC holders’ exchange requests on the Platform. By transacting in kBTC, you understand, acknowledge and agree that:
+
+* kBTC may be compatible with protocols or other software or technology provided by third parties, but we make no guarantee as to such compatibility and we are not responsible for any losses of kBTC or other issues you may experience through use of such third-party protocols, software or technology;
+* Trading in kBTC will not be available on our Platforms, and there may not be a market for kBTC;
+* We are not responsible for any decrease in value of your kBTC. Although at the time of withdrawal one kBTC will always equal one BTC, we do not guarantee that the value of one kBTC will always equal the value of one BTC on third-party platforms;
+* Legislative and regulatory changes and requirements may adversely affect the value of, and ability to transact in, kBTC, including the ability to withdraw and deposit kBTC;
+* When you transact in kBTC Exchanges, you are contracting with the entity that provides you with Deposit and Withdrawal services pursuant to the Terms;
+* kBTC is intended for use on various decentralized and open source blockchains and protocols over which we have no control.  In the event that any such blockchain or protocol experiences a “fork”, we reserve the right to suspend the kBTC Services temporarily or indefinitely, on little or no notice, while we determine, in our sole discretion, which fork we will support, if any.  We will have no liability or responsibility for any loss, liability, or damage you may incur as result of our determination to support or not support any particular blockchain or protocol or fork thereof;
+* We will have the ability, in our sole discretion, to add or remove specific addresses to an internal blacklist in the kBTC smart contract.  We may add addresses to the blacklist in response to law enforcement demands and sanctions requirements, and as we may otherwise deem appropriate in our discretion, including in response to exploits and suspected fraudulent activity.   Addresses on this blacklist will be blocked from receiving or transferring kBTC;
+* We may, in our sole discretion, refuse to process a deposit and exchange of kBTC if we suspect that the subject kBTC was acquired through fraudulent means.
+
+3. kBTC Deposits and Withdrawals
+
+We may provide you the ability to deposit and withdraw kBTC at a 1:1 exchange rate with BTC, less any applicable fees (such deposits and withdrawals of kBTC, “kBTC Exchanges”).  kBTC Exchanges will be conducted as described [here](https://support.kraken.com/hc/articles/what-is-kbtc), and in accordance with and subject to the Terms, including Section 2 (Deposit of Crypto and Issuance of Fiat Balance) and Section 3 (Withdrawal of Crypto and Redemption of Fiat Balance).
+
+4. Fees; Minimums
+
+kBTC Exchanges are subject to deposit and withdrawal fees and minimums. Details regarding current fees can be found at our [Fee Schedule](https://www.kraken.com/features/fee-schedule) under the Deposit & Withdrawal tab.
+
+5. Liability
+
+You are solely responsible for your use of the kBTC Services, and we make no representations, warranties, or guarantees that the kBTC Services will function or perform in accordance with your expectations. You hereby acknowledge and agree that we disclaim and have no responsibility for any loss, liability, or damage you may incur, directly or indirectly, in connection with the kBTC Services. You further agree that we shall not be liable for any delays in effectuating a kBTC Exchange, regardless of the reason for that delay, or if we are unable to complete a kBTC Exchange for any reason, including but not limited to, because of: (i) any direct or indirect actions taken by you, including providing inaccurate, or insufficient instructions, that result in a mistaken or accidental transfer; (ii) insufficient Digital Assets in your account to complete the kBTC Exchange; (iii) any malfunction of the kBTC Services due to circumstances beyond our control; or (iv) any suspension or discontinuance of the kBTC Services.
+
+6. Compliance with Laws, Sanctions
+
+In connection with your holding kBTC or use of the kBTC Services, you hereby agree and represent and warrant that you will not (i) use kBTC or the kBTC Services in violation of any applicable laws or regulations; or (ii) use kBTC or the kBTC Services in any transaction involving the proceeds of crime or terrorist financing or otherwise in violation of any applicable anti-money laundering or sanctions laws or regulations. We reserve the right to monitor for the foregoing and to reject, deter, suspend, freeze and report, or otherwise prevent transactions we believe to be in violation thereof or to involve one or more transactions with any person that is the subject or target of any sanctions. We are not responsible for determining which laws or regulations may apply to your transactions involving kBTC, and we have no responsibility for any loss, liability, or damage you may incur as result of any violation of such laws or regulations by you or any third party.
