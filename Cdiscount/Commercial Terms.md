@@ -957,7 +957,7 @@ Conformément aux articles L. 541-10-8 et R. 541-161 et suivants du Code de l'En
         - DEA  
         - DAB&J  
         - Contenus et contenants des produits chimiques  
-        - Cartouches de gaz combustibles é usage unique  
+        - Cartouches de gaz combustibles à usage unique  
         - Jouets  
         - Sport et loisirs. 
 
@@ -1002,7 +1002,7 @@ _Article 14 : LITIGE, MEDIATION ET DROIT APPLICABLE_
 
 14.1 Pour toute réclamation, notre Service Client est à votre disposition.  
 
- 14.2 Conformément aux dispositions du Code de la consommation concernant le réglement amiable des litiges, Cdiscount adhère au Service du Médiateur de la consommation la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes :  Médiateur de la consommation FEVAD
+ 14.2 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Cdiscount adhère au Service du Médiateur de la consommation la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes :  Médiateur de la consommation FEVAD
 
 BP 20015 - 75362 PARIS CEDEX 8 - [https://www.mediateurfevad.fr](https://urldefense.com/v3/__https:/62021a2e94424da7995e2da9606a295b.svc.dynamics.com/t/t/7dYvfcxBDUAE9fNdxqL9eQadDF0pBN6nPEK9S9vBRQwx/uKgxLWVBK5mT1IHQWFMm3AawqxziTIrV9ZlxULrf0Okx__;!!HseEOGaABhuC!RyJyLDoHTwAjBuH4Vd7NU60H7UMLQFP52W6nEcaP8q_9d9V79N1_RW7r5vqlhSkp3Z4utKAuSvsgPkEpGEUVeA$ "https://www.mediateurfevad.fr/"). Après démarches préalables écrites des consommateurs vis-à-vis de Cdiscount, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, [cliquer ici](https://urldefense.com/v3/__https:/62021a2e94424da7995e2da9606a295b.svc.dynamics.com/t/t/E6GqxjI5iv00wdanY60VFRHgGJUx78rpZ2MsGz46C1Ux/uKgxLWVBK5mT1IHQWFMm3AawqxziTIrV9ZlxULrf0Okx__;!!HseEOGaABhuC!RyJyLDoHTwAjBuH4Vd7NU60H7UMLQFP52W6nEcaP8q_9d9V79N1_RW7r5vqlhSkp3Z4utKAuSvsgPkGur6A3WQ$ "http://www.mediateurfevad.fr/index.php/espace-consommateur/").  
   
