@@ -3,7 +3,7 @@ Terms Of Use
 
 **Your use of the Dailymotion Service implies your acceptance of these Terms of Use including the Prohibited Content Policy and the Data Protection Annexes below (with the Standard Contractual Clauses incorporated therein). We ask You to read them carefully.**
 
-_Last update date: October 15, 2024._
+_Last update date: October 18, 2024._
 
 ### **SECTION 1: DESCRIPTION OF THE DAILYMOTION SERVICE**
 
@@ -353,7 +353,7 @@ Should any illegal activity(ies) be detected, Dailymotion will contact the relev
 
 For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
 
-#### F. Disinformation
+#### F. Disinformation / Misinformation
 
 Dailymotion prohibits the dissemination of false, distorted, misleading, and/or malicious speech or information that may disturb public order and/or public opinion.
 
@@ -364,6 +364,7 @@ In particular, it is forbidden for our Users to post online any content:
 * Making false claims in order to delegitimize the results of elections;
 * Disseminating false information or rumors that may present a direct risk of injury and/or physical violence to others;
 * Including false information that may be harmful to the health of others;
+* Disseminating conspiracy theories that disturb or may disturb public peace;
 * Containing false medical information that contradicts that of local health authorities and/or the World Health Organization (WHO);
 * Containing exaggerated promises, such as claiming that a miracle treatment can cure chronic diseases such as cancer and diabetes;
 * Altered or edited in order to mislead Users (beyond the extracts taken out of context) and which may present a significant risk of major harm; or
@@ -692,13 +693,13 @@ Dailymotion takes compliance with its [Prohibited Content Policy](https://legal.
 
 Thus, there are [various procedures, measures and tools](https://legal.dailymotion.com/en/terms-of-use/#ii-detection-and-report-of-prohibited-content) that Dailymotion uses to enforce compliance with our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) and which might lead us to moderate content posted onto our Service. 
 
-Each Dailymotion Account has a penalty scoring system associated with it (the “**Counter**“). Such Counter is set up at zero by default, but may increase depending on the different strikes you may receive. 
+If you repeatedly post Content that violates this Prohibited Content Policy, we may restrict certain features associated with your Dailymotion Account or permanently disable your Dailymotion Account under this repeated infringer policy.
 
-Any violation of our [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) or of our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) will be accounted against the Dailymotion Account having performed such violation and will make the Counter increase. 
+Per this policy, each Dailymotion Account has a penalty scoring system associated with it (the “**Counter**“). Such Counter is set up at zero by default, but any violation of our [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) or of our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) will be accounted against the Dailymotion Account having performed such violation and will make the Counter increase. 
 
 The number of penalty points given to a violation depends on the severity of the content that was removed and the context in which it was shared in order to ensure our violations’ accounting system is fair and proportionate (e.g.: hateful content will lead to more penalty points added to the Counter than spam for instance). Some violations such as, for example, terrorist content or child abuse content, will lead directly to the disabling of the corresponding Dailymotion Account, as further described in Section E below. 
 
-The accounting of a violation to the Dailymotion Prohibited Content Policy or the Dailymotion general Terms of Use will last for a period of 6 (six) months, meaning that unless the Counter of a Dailymotion Account led to its deletion (as defined in the Section E below), a violation will no longer count towards the Counter of a Dailymotion Account after a period of 6 months.  
+The accounting of a violation to the Dailymotion Prohibited Content Policy or the Dailymotion general Terms of Use will last for a period of 90 (ninety) days, meaning that unless the Counter of a Dailymotion Account led to its deletion (as defined in the Section E below), a violation will no longer count towards the Counter of a Dailymotion Account after a period of 90 days.  
 
 We remind you that you may always appeal every moderation decision taken by Dailymotion through the link that was provided to you in the email informing you of the moderation decision taken against your content. 
 
@@ -712,10 +713,11 @@ The Counter linked to the violations performed by a given Dailymotion Account mi
 
 In addition to the Counter linked to a Dailymotion Account, Dailymotion may also take into consideration the weight of the violations to our policies compared to the activity of this account or of the corresponding User in general, and whenever possible the intention of the violation, in order to define the best and most proportionate sanction applicable. 
 
-Several different sanctions might be applied for periods of up to several weeks if the Counter of a Dailymotion Account reaches the threshold of 50 points, including :  
+Several different sanctions might be applied for periods of up to several days if the Counter of a Dailymotion Account reaches the threshold of 50 points, including :  
 
 * Blocking the ability to upload Videos ont such Dailymotion Account; 
-* Excluding Content posted on such Dailymotion Account from the [Dailymotion recommendation systems](https://legal.dailymotion.com/en/recommendation-tools-transparency/) ; 
+* Excluding Content posted on such Dailymotion Account from the [Dailymotion recommendation systems](https://legal.dailymotion.com/en/recommendation-tools-transparency/); 
+* restricting the visibility of your Content posted on such Dailymotion Account;
 * For Partners having the opportunity to monetize their Content, excluding the Content posted on such Dailymotion Account from monetization. 
 
 Please note that Your Dailymotion Account might reach another restriction level as soon as your Counter changes as defined in Section C above. 
@@ -738,7 +740,7 @@ Please note that some very severe violations of our [Prohibited Content Policy](
 
 This sanction generally only applies to the Dailymotion Account in connection to which the Counter has been calculated, but it may also be extended to other Dailymotion Accounts owned by the same User on the Dailymotion Service. 
 
-We remind you that you may always appeal every moderation decision taken by Dailymotion through the link that was provided to you in the email informing you of such account disabling decision. 
+If you believe your Dailymotion Account has been deactivated by mistake, we remind you that you may always appeal every moderation decision taken by Dailymotion through the link that was provided to you in the email informing you of such account disabling decision. 
 
 #### **F. Abusive reports** 
 
