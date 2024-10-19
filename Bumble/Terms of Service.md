@@ -158,13 +158,27 @@ The Bumble Group operates a global business, and our pricing varies by a number 
 
 **Refunds. Generally, all charges for purchases are nonrefundable, and there are no refunds or credits for partially used periods.**
 
+However:
+
 For subscribers residing in Arizona, California, Colorado, Connecticut, Illinois, Iowa, Minnesota, New York, North Carolina, Ohio, Rhode Island, and Wisconsin, the terms below apply:
 
 YOU, THE BUYER, MAY CANCEL YOUR SUBSCRIPTION, WITHOUT PENALTY OR OBLIGATION, AT ANY TIME PRIOR TO MIDNIGHT OF THE THIRD BUSINESS DAY FOLLOWING THE DATE YOU SUBSCRIBED (EXCLUDING SUNDAYS AND HOLIDAYS). IN THE EVENT THAT YOU DIE BEFORE THE END OF YOUR SUBSCRIPTION PERIOD, YOUR ESTATE SHALL BE ENTITLED TO A REFUND OF THAT PORTION OF ANY PAYMENT YOU HAD MADE FOR YOUR SUBSCRIPTION WHICH IS ALLOCABLE TO THE PERIOD AFTER YOUR DEATH. IN THE EVENT THAT YOU BECOME DISABLED (SUCH THAT YOU ARE UNABLE TO USE BUMBLE) BEFORE THE END OF YOUR SUBSCRIPTION PERIOD, YOU SHALL BE ENTITLED TO A REFUND OF THAT PORTION OF ANY PAYMENT YOU HAD MADE FOR YOUR SUBSCRIPTION WHICH IS ALLOCABLE TO THE PERIOD AFTER YOUR DISABILITY BY PROVIDING THE COMPANY NOTICE IN THE SAME MANNER AS YOU REQUEST A REFUND AS DESCRIBED BELOW.
 
+For subscribers residing anywhere outside the US:
+
+Subscribers who purchase weekly subscriptions are entitled to a refund of the price of the subscription (minus the value of any portion of the subscription used at the date the refund is requested) if requested within the first 6 days after the subscription starts.
+
+Subscribers who purchase monthly or longer subscriptions are entitled to a refund of the price of the subscription (minus the value of any portion of the subscription used at the date the refund is requested) if requested within the first 14 days after the subscription starts.
+
+There are no refunds for subscription renewals. Blocked members are not entitled to refunds.
+
 To request a refund:
 
-**To request a refund:** In addition to cancelling, eligible subscribers must request a refund to receive one. If you subscribed using your Apple ID, refunds are handled by Apple, not Bumble. To request a refund, go to iTunes, click on your Apple ID, select “Purchase history,” find the transaction and hit “Report Problem”. You can also submit a request at [Apple Support](https://getsupport.apple.com/).
+**To request a refund:** In addition to cancelling, eligible subscribers must request a refund to receive one.
+
+If you subscribed through Google and, reside outside the US your refund will be handled by Google, not Bumble. To request a refund, go to the Google Play Store app, select your order history, find the transaction, select “Report a Problem” and submit your refund request.
+
+If you subscribed using your Apple ID, refunds are handled by Apple (regardless of where you live), not Bumble. To request a refund, go to iTunes, click on your Apple ID, select “Purchase history,” find the transaction and hit “Report Problem”. You can also submit a request at [Apple Support](https://getsupport.apple.com/).
 
 For all other purchases: please contact [customer support](https://bumble.com/en/help/#contact-us) with your order number (you can find the order number in the order confirmation email, or if you purchased from the Google Play Store by logging in to Google Wallet). You may also mail or deliver a signed and dated notice which states that you, the buyer, are cancelling this agreement, or words of similar effect. Please also include the email address or mobile number associated with your account along with your order number. This notice shall be sent to: Bumble, Attn.: Cancellations, P.O. Box 300940, Austin, Texas, 78703.
 
@@ -389,4 +403,4 @@ The Terms constitute a binding legal agreement between you as user (“you”) a
 
 ### Effective date
 
-The Terms were last updated on: 16th October 2024.
+The Terms were last updated on: 18th October 2024.
