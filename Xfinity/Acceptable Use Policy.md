@@ -1,31 +1,33 @@
-**Acceptable Use Policy for Xfinity® Internet**
-===============================================
+Acceptable Use Policy for Xfinity® Internet
+-------------------------------------------
+
+View full agreement [English (PDF)](https://assets.xfinity.com/assets/dotcom/learn/Files/FEDCM-MIG/Batch-2/PDF/pages/Corporate/Customers/Policies/HighSpeedInternetAUP/Xfinity_Internet_AUP_Residential_ENG_02012021.pdf) **|** [Spanish (PDF)](https://assets.xfinity.com/assets/dotcom/learn/Files/FEDCM-MIG/Batch-2/PDF/pages/Corporate/Customers/Policies/HighSpeedInternetAUP/Xfinity%20Internet%20AUP%20Residential_Spanish_02012021.pdf)
 
 **Why is Comcast providing this Policy to me?**
 -----------------------------------------------
 
-Comcast's goal is to provide its customers with the best residential cable Internet service possible. In order to help accomplish this, Comcast has adopted this Acceptable Use Policy (the “Policy”). This Policy outlines acceptable use of the residential Xfinity Internet service, including Comcast-provided Xfinity WiFi Internet service (collectively, the “Service”). This Policy is in addition to any restrictions or conditions contained in the Comcast Agreement for Residential Services (the “Subscriber Agreement”) available at [https://www.xfinity.com/policies](https://www.xfinity.com/policies). The Frequently Asked Questions (“FAQs”) at [https://www.xfinity.com/support/internet/comcast-acceptable-use-policy/](https://www.xfinity.com/support/internet/comcast-acceptable-use-policy/) explain how Comcast implements and applies many of the provisions contained in this Policy. All capitalized terms used in this Policy that are not defined here have the meanings given to them in the Subscriber Agreement.
+Comcast's goal is to provide its customers with the best residential cable Internet service possible. In order to help accomplish this, Comcast has adopted this Acceptable Use Policy (the “Policy”). This Policy outlines acceptable use of the residential Xfinity Internet service, including Comcast-provided Xfinity WiFi Internet service (collectively, the “Service”). This Policy is in addition to any restrictions or conditions contained in the Comcast Agreement for Residential Services (the “Subscriber Agreement”) available at [https://www.xfinity.com/policies](https://www.xfinity.com/policies). The Frequently Asked Questions (“FAQs”) at [https://www.xfinity.com/support/internet/comcast-acceptable-use-policy/](https://www.xfinity.com/support/internet/comcast-acceptable-use-policy/) explain how Comcast implements and applies many of the provisions contained in this Policy. All capitalized terms used in this Policy that are not defined here have the meanings given to them in the Subscriber Agreement.
 
 All residential Xfinity Internet customers (the “customer,” “user,” “you,” or “your”) and all others who use the Service must comply with this Policy. Your failure, or others' failure, to comply with this Policy could result in the suspension or termination of your or their Service accounts. Therefore, you should take steps to ensure that others you permit to use your Service are aware of this Policy and agree to abide by it. If you are unwilling to comply with this Policy, you must immediately stop all use of the Service and notify Comcast so that it can close your account.
 
 **Does this Policy apply to my use of Xfinity WiFi-identified services inside and outside of my premises and in public places?**
 --------------------------------------------------------------------------------------------------------------------------------
 
-This Policy applies to your use of the Service if you are a residential Xfinity Internet customer who accesses Comcast-provided, Xfinity WiFi-identified services inside or outside of your premises or in public places using an Xfinity Internet login and password. You can learn more about Comcast-provided Xfinity WiFi services by going to the portal at [https://wifi.xfinity.com/](https://wifi.xfinity.com/). In the event certain provisions of this Policy may not apply to all uses of Xfinity WiFi-identified services, we explain those exceptions in the FAQs at [https://wifi.xfinity.com/faq.php](https://wifi.xfinity.com/faq.php).
+This Policy applies to your use of the Service if you are a residential Xfinity Internet customer who accesses Comcast-provided, Xfinity WiFi-identified services inside or outside of your premises or in public places using an Xfinity Internet login and password. You can learn more about Comcast-provided Xfinity WiFi services by going to the portal at [https://wifi.xfinity.com/](https://wifi.xfinity.com/). In the event certain provisions of this Policy may not apply to all uses of Xfinity WiFi-identified services, we explain those exceptions in the FAQs at [https://wifi.xfinity.com/faq.php](https://wifi.xfinity.com/faq.php).
 
 **How will I know when Comcast changes this Policy and how do I report violations of it?**
 ------------------------------------------------------------------------------------------
 
-Comcast may revise this Policy from time to time by posting a new version on the website at [https://www.xfinity.com/](https://www.xfinity.com/) or any successor URL(s) (the “Xfinity Website”). Comcast will use reasonable efforts to make customers aware of any changes to this Policy, which may include sending email announcements or posting information on the Xfinity Website. Revised versions of this Policy are effective immediately upon posting. Accordingly, customers of the Service should read any Comcast announcements they receive and regularly visit the Xfinity Website and review this Policy to ensure that their activities conform to the most recent version. You can send questions regarding this Policy to, and report violations of it, at [https://www.xfinity.com/support/account/ways-to-get-help](https://www.xfinity.com/support/account/ways-to-get-help). To report child exploitation or another child-related incident involving the Internet, go to [https://internetsecurity.xfinity.com/help/report-abuse](https://internetsecurity.xfinity.com/help/report-abuse).
+Comcast may revise this Policy from time to time by posting a new version on the website at [https://www.xfinity.com/](https://www.xfinity.com/) or any successor URL(s) (the “Xfinity Website”). Comcast will use reasonable efforts to make customers aware of any changes to this Policy, which may include sending email announcements or posting information on the Xfinity Website. Revised versions of this Policy are effective immediately upon posting. Accordingly, customers of the Service should read any Comcast announcements they receive and regularly visit the Xfinity Website and review this Policy to ensure that their activities conform to the most recent version. You can send questions regarding this Policy to, and report violations of it, at [https://www.xfinity.com/support/account/ways-to-get-help](https://www.xfinity.com/support/account/ways-to-get-help). To report child exploitation or another child-related incident involving the Internet, go to [https://internetsecurity.xfinity.com/help/report-abuse](https://internetsecurity.xfinity.com/help/report-abuse).
 
-1. **Prohibited Uses and Activities**
-    ----------------------------------
+1. **1\. Prohibited Uses and Activities**
+    --------------------------------------
     
     ### **What uses and activities does Comcast prohibit?**
     
     In general, the Policy prohibits uses and activities involving the Service that are illegal, infringe the rights of others, or interfere with or diminish the use and enjoyment of the Service by others. For example, these prohibited uses and activities include, but are not limited to, using the Service, Customer Equipment, or the Comcast Equipment, either individually or in combination with one another, to:
     
-    #### **Conduct and information restrictions**
+    #### **CONDUCT AND INFORMATION RESTRICTIONS**
     
     * undertake or accomplish any unlawful purpose. This includes, but is not limited to, posting, storing, transmitting or disseminating information, data or material which is libelous, obscene, unlawful, threatening or defamatory, or which infringes the intellectual property rights of any person or entity, or which in any way constitutes or encourages conduct that would constitute a criminal offense, or otherwise violate any local, state, federal, or non-U.S. law, order, or regulation;
         
@@ -52,7 +54,7 @@ Comcast may revise this Policy from time to time by posting a new version on the
     * violate the rules, regulations, terms of service, or policies applicable to any network, server, computer database, service, application, system, or website that you access or use;
         
     
-    #### **Technical restrictions**
+    #### **TECHNICAL RESTRICTIONS**
     
     * access any other person’s computer or computer system, device, sensor, camera, network, software, or data without his or her knowledge and consent; breach the security of another user or system; or attempt to circumvent the user authentication or security of any host, network, or account. This includes, but is not limited to, accessing data not intended for you, logging into or making use of a server or account you are not expressly authorized to access, or probing the security of other hosts, networks, or accounts without express permission to do so;
         
@@ -69,7 +71,7 @@ Comcast may revise this Policy from time to time by posting a new version on the
     * service, alter, modify, or tamper with the Comcast Equipment or Service or permit any other person to do the same who is not authorized by Comcast;
         
     
-    #### **Network and usage restrictions**
+    #### **NETWORK AND USAGE RESTRICTIONS**
     
     * use the Service for any purpose other than personal and non-commercial residential use (except for your individual use for telecommuting);
         
@@ -89,12 +91,12 @@ Comcast may revise this Policy from time to time by posting a new version on the
         
     * access and use the Service with anything other than a dynamic Internet Protocol (“IP”) address that adheres to the dynamic host configuration protocol (“DHCP”). You may not configure the Service or any related equipment to access or use a static IP address or use any protocol other than DHCP unless you are subject to a Service plan that expressly permits you to do so.
         
-2. **Customer Conduct and Features of the Service**
-    ------------------------------------------------
+2. **2\. Customer Conduct and Features of the Service**
+    ----------------------------------------------------
     
     ### **What obligations do I have under this Policy?**
     
-    You are responsible for your own compliance with this Policy. You are also responsible for any use or misuse of the Service that violates this Policy by anyone else you permit to access the Service (such as a friend, family member, or guest) with one exception: In cases where you permit others to access your Comcast-provided, Xfinity WiFi-identified Internet Service with their own login information, those users are responsible for complying with all then-current terms and policies that apply to their access. You can learn more about Comcast-provided WiFi access at [https://wifi.xfinity.com/](https://wifi.xfinity.com/).
+    You are responsible for your own compliance with this Policy. You are also responsible for any use or misuse of the Service that violates this Policy by anyone else you permit to access the Service (such as a friend, family member, or guest) with one exception: In cases where you permit others to access your Comcast-provided, Xfinity WiFi-identified Internet Service with their own login information, those users are responsible for complying with all then-current terms and policies that apply to their access. You can learn more about Comcast-provided WiFi access at [https://wifi.xfinity.com/](https://wifi.xfinity.com/).
     
     Comcast recommends against enabling file or printer sharing unless you do so in strict compliance with all security recommendations and features provided by Comcast and the manufacturer of the applicable file or printer sharing devices. Any files or devices you choose to make available for shared access on a home LAN, for example, should be protected with a strong password or as otherwise appropriate.
     
@@ -106,34 +108,34 @@ Comcast may revise this Policy from time to time by posting a new version on the
     
     ### **What requirements apply to electronic mail?**
     
-    The Service may not be used to communicate or distribute email or other forms of communications in violation of Section I of this Policy. As described below in Section III of this Policy, Comcast uses reasonable network management tools and techniques to protect customers from receiving spam and from sending spam (often without their knowledge over an infected computer). Comcast’s anti-spam approach is explained in the FAQs under the topic “What is Comcast doing about spam?” located at [https://www.xfinity.com/support/internet/reducing-spam-email/](https://www.xfinity.com/support/internet/reducing-spam-email/).
+    The Service may not be used to communicate or distribute email or other forms of communications in violation of Section I of this Policy. As described below in Section III of this Policy, Comcast uses reasonable network management tools and techniques to protect customers from receiving spam and from sending spam (often without their knowledge over an infected computer). Comcast’s anti-spam approach is explained in the FAQs under the topic “What is Comcast doing about spam?” located at [https://www.xfinity.com/support/internet/reducing-spam-email/](https://www.xfinity.com/support/internet/reducing-spam-email/).
     
     Comcast is not responsible for deleting or forwarding any email sent to the wrong email address by you or by someone else trying to send email to you. Comcast is also not responsible for forwarding email sent to any account that has been suspended or terminated. This email will be returned to the sender, ignored, deleted, or stored temporarily at Comcast’s sole discretion. If you cancel or terminate your Service account for any reason, all email associated with that account (and any secondary accounts) may be permanently deleted as well.
     
     If Comcast believes in its sole discretion that any subscriber name, account name, or email address (collectively, an “identifier”) on the Service may be used for, or is being used for, any misleading, fraudulent, or other improper or illegal purpose, Comcast (i) reserves the right to block access to and prevent the use of any of these identifiers and (ii) may at any time require any customer to change his or her identifier. In addition, Comcast may at any time reserve any identifiers on the Service for its own purposes.
     
-3. **Network Management**
-    ----------------------
+3. **3\. Network Management**
+    --------------------------
     
     ### **Why does Comcast manage its network?**
     
     Comcast manages its network with one goal: to deliver the best possible broadband Internet experience to all of its customers. High-speed bandwidth and network resources are not unlimited. Managing the network is essential as Comcast works to promote the use and enjoyment of the Internet by all of its customers. The company uses reasonable network management practices that are consistent with industry standards. Comcast tries to use tools and technologies that are minimally intrusive and, in its independent judgment guided by industry experience, among the best in class. Of course, the company’s network management practices will change and evolve along with the uses of the Internet and the challenges and threats on the Internet.
     
-    The need to engage in network management is not limited to Comcast. In fact, all large Internet service providers manage their networks. Many of them use the same or similar tools that Comcast does. If the company didn’t manage its network, its customers would be subject to the negative effects of spam, viruses, security attacks, network congestion, and other risks and degradations of service. By engaging in responsible network management including enforcement of this Policy, Comcast can deliver the best possible broadband Internet experience to all of its customers. Visit Comcast’s Network Management page at [https://networkmanagement.xfinity.com/](https://networkmanagement.xfinity.com/) for more information.
+    The need to engage in network management is not limited to Comcast. In fact, all large Internet service providers manage their networks. Many of them use the same or similar tools that Comcast does. If the company didn’t manage its network, its customers would be subject to the negative effects of spam, viruses, security attacks, network congestion, and other risks and degradations of service. By engaging in responsible network management including enforcement of this Policy, Comcast can deliver the best possible broadband Internet experience to all of its customers. Visit Comcast’s Network Management page at [https://networkmanagement.xfinity.com/](https://networkmanagement.xfinity.com/) for more information.
     
     ### **How does Comcast manage its network?**
     
     Comcast uses various tools and techniques to manage its network, deliver the Service, and ensure compliance with this Policy and the Subscriber Agreement. These tools and techniques are dynamic, like the network and its usage, and can and do change frequently. For example, these network management activities may include (i) identifying spam and preventing its delivery to customer email accounts, (ii) detecting malicious Internet traffic and preventing the distribution of viruses or other harmful code or content, (iii) temporarily lowering the priority of traffic for users who are the top contributors to current network congestion, and (iv) using other tools and techniques that Comcast may be required to implement in order to meet its goal of delivering the best possible broadband Internet experience to all of its customers.
     
-4. **Data Consumption**
-    --------------------
+4. **4\. Data Consumption**
+    ------------------------
     
     ### **What data consumption requirements apply to the Service?**
     
-    Comcast applies a monthly data consumption threshold to Xfinity Internet accounts. The company retains the right to trial or adopt a different data consumption threshold or other usage plan for the Service at any time. If we do this we will notify customers and, if necessary, post an updated version of this Policy. You can learn about the data plan that applies in your area by going to [https://dataplan.xfinity.com/](https://dataplan.xfinity.com/). You can view your current data usage at any time by logging into your My Account page and viewing the data usage meter at [https://customer.xfinity.com/MyServices/Internet/UsageMeter/](https://customer.xfinity.com/#/devices). You can also use the Xfinity My Account mobile app to view your data usage.
+    Comcast applies a monthly data consumption threshold to Xfinity Internet accounts. The company retains the right to trial or adopt a different data consumption threshold or other usage plan for the Service at any time. If we do this we will notify customers and, if necessary, post an updated version of this Policy. You can learn about the data plan that applies in your area by going to [https://dataplan.xfinity.com/](https://dataplan.xfinity.com/). You can view your current data usage at any time by signing into your account on xfinity.com and viewing the data usage meter at [https://customer.xfinity.com/MyServices/Internet/UsageMeter/](https://customer.xfinity.com/#/devices). You can also use the Xfinity app to view your data usage.
     
-5. **Violation of this Acceptable Use Policy**
-    -------------------------------------------
+5. **5\. Violation of this Acceptable Use Policy**
+    -----------------------------------------------
     
     ### **What happens if you violate this Policy?**
     
@@ -145,17 +147,13 @@ Comcast may revise this Policy from time to time by posting a new version on the
     
     Comcast reserves the right to investigate suspected violations of this Policy, including the gathering of information from the user or users involved and the complaining party, if any, and examination of material and data on Comcast’s servers and network. During an investigation, Comcast may suspend the account or accounts involved and/or remove or block material that potentially violates this Policy. You expressly authorize and consent to Comcast and its suppliers cooperating with (i) law enforcement authorities in the investigation of suspected legal violations, and (ii) and system administrators at other Internet service providers or other network or computing facilities in order to enforce this Policy. Upon termination of your Service account, Comcast is authorized to delete any files, programs, data, email and other messages associated with your account (and any secondary accounts).
     
-6. **Copyright**
-    -------------
+6. **6\. Copyright**
+    -----------------
     
     ### **What is Comcast’s DMCA policy?**
     
-    Users of the Service and copyright owners should refer to the Comcast Digital Millennium Copyright Act (DMCA) Policy at [https://www.xfinity.com/dmca](https://www.xfinity.com/dmca) to learn more about how Comcast handles notifications of alleged copyright infringement and its repeat infringer policy.
+    Users of the Service and copyright owners should refer to the Comcast Digital Millennium Copyright Act (DMCA) Policy at [https://www.xfinity.com/dmca](https://www.xfinity.com/dmca) to learn more about how Comcast handles notifications of alleged copyright infringement and its repeat infringer policy.
     
-    **Revised and effective: February 1, 2021**
+    Revised and effective: February 1, 2021
     
     [< Back](https://www.xfinity.com/policies)
-    
-
-View full agreement  
-[English (PDF)](https://cdn.comcast.com/-/media/Files/FEDCM-MIG/Batch-2/PDF/pages/Corporate/Customers/Policies/HighSpeedInternetAUP/Xfinity_Internet_AUP_Residential_ENG_02012021.pdf?rev=26ab7877-acc3-40f6-8a9f-1d014f7c307f&la=en) | [Spanish (PDF)](https://cdn.comcast.com/-/media/Files/FEDCM-MIG/Batch-2/PDF/pages/Corporate/Customers/Policies/HighSpeedInternetAUP/Xfinity%20Internet%20AUP%20Residential_Spanish_02012021.pdf?rev=cd1801f1-5421-40f7-96e5-c7c2dfb446cf&la=en)
