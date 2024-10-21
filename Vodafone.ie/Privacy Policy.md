@@ -1,10 +1,14 @@
   
 
+### 
+
+About our Privacy Notice  
+
 ### Our Privacy Notice
 
 #### Changes to our privacy notice
 
-This Privacy Notice gets updated from time to time; whenever we make a change, we’ll post this on our website and let you know.
+This Privacy Notice gets updated from time to time; whenever we make a material change, we’ll post this on our website and let you know.
 
 We have revised our privacy notice as we are introducing some new features and ways of working. The main changes are outlined below.
 
@@ -52,6 +56,8 @@ Vodafone is committed to respecting your privacy. We take privacy, security, and
 
 We have set out our core [Privacy Commitments](http://www.vodafone.com/content/index/about/privacy.html) in our Privacy Centre. We aim to put these commitments at the heart of everything we do.
 
+{{feedbackMessage}}
+
 ### 
 
 Personal information we collect about you  
@@ -86,7 +92,7 @@ Information collected not directly from you:
 8. **Credential information** We’ll collect passwords, hints, and similar security information used for authentication and access to accounts and services;
 9. **Your preferences** for products, services and lifestyle activities when you tell us what they are, or we assume what they are, based on how you use the products and services;
 10. **Cookies** See the [Cookie Policy](https://n.vodafone.ie/privacy/cookie-policy.html) for details on what we collect using cookies, web beacons and other technologies, including advertising data;
-11. **Your browsing history** If you have given your permission, Vodafone collects the categories of website you have browsed on your mobile, device or PC, for example Sports, Music or News. However, we don’t have a history of the sites you browse, as this is limited for a short period of time to enable the connection to be made. We use these interests to send you personalised marketing or show you personalised advertising. You can opt out of advertising through [](https://n.vodafone.ie/privacy/cookie-policy.html)Cookies[](https://vodafone-my.sharepoint.com/personal/brian_redahan_vodafone_com/Documents/Rough-work/Privacy%20update/Group%20Master%20Template%20-%20Consumer%20Privacy%20Statement_v3.0%20-%20Final.docx#_msocom_1) or, in the case of marketing, your [Privacy Settings](https://n.vodafone.ie/en.html#login),
+11. **Your browsing history** If you have given your permission, Vodafone collects the categories of website you have browsed on your mobile, device or PC, for example Sports, Music or News. However, we don’t have a history of the sites you browse, as this is limited for a short period of time to enable the connection to be made. We use these interests to send you personalised marketing or show you personalised advertising. You can opt out of advertising and manage how we use cookies through the Cookie Settings which can be accessed via our [Cookies Policy](https://n.vodafone.ie/privacy/cookie-policy.html) or, in the case of marketing, your [Privacy Settings](https://n.vodafone.ie/en.html#login).
 12. **Information about how you use our products and services** Such as the level of service that you receive – for example, network or service faults and other events that may affect our network services or other services; or your viewing history if you use our VTV product for example.
 13. **Details of your use of the specific services or products** for example CIOT devices or VTV. You can refer to the specific privacy supplement for each product/service for more information on the data processed.
 
@@ -148,8 +154,8 @@ It is necessary for us to process your personal information to enable us to prov
 | **How is your information used?** | **What data is used?** | **Lawful basis** |
 | To process your order and provide you with your products and services<br><br>* To process orders for the products and services you’ve bought from us, and keep you updated with the progress of your order.<br>* To provide the relevant products or services to you. This includes other services not included in your agreement with us, services that use information about where you are, and to contact you with messages about changes to the products or services.<br>* Where you’ve purchased Vodafone products and services using a third party or partner organisation, we often need to exchange information with them as part of managing that relationship and your account – for example, to be able to identify your order and be able to pay them. | Contact details<br><br> Account information<br><br> Financial details | Performance of your contract |
 | Billing and Customer Care<br><br>* To bill you for using our products and services, or to take the appropriate amount of credit from you;<br>* To contact you if the billing information you provided us with is about to expire or we’re not able to take payment;<br>* To respond to any questions or concerns you may have about our network, products or services. | Account information<br><br> Financial details<br><br> Your contact with us | Performance of your contract |
-| Service messages<br><br>* We will contact you with customer service messages to keep you updated with current information about products and services you’ve purchased. For example, changes to our terms and conditions, price plan and data use, upgrade you might be entitled to, roaming or service interruptions. | Contact details <br><br> Account information | Performance of your contract |
-| Complaint handling purposes<br><br>* Regarding the service proved by and under contract with Vodafone<br><br> _NB: Vodafone may also handle your complaint in compliance with mandatory legal obligation as outlined in the ‘[To comply with mandatory legal obligation’ section](#comply)_ | Account information<br><br> Customer Relationship Management data | Performance of your contaypal? |
+| Service messages<br><br>* We will contact you with customer service messages to keep you updated with current information about products and services you’ve purchased. For example, changes to our terms and conditions, price plan and data use, upgrades you might be entitled to, roaming or service interruptions. | Contact details <br><br> Account information | Performance of your contract |
+| Complaint handling purposes<br><br>* Regarding the service proved by and under contract with Vodafone<br><br> _NB: Vodafone may also handle your complaint in compliance with mandatory legal obligation as outlined in the ‘[To comply with mandatory legal obligation’ section](#comply)_ | Account information<br><br> Customer Relationship Management data | Performance of your contract |
 
 {{feedbackMessage}}
 
@@ -157,7 +163,7 @@ It is necessary for us to process your personal information to enable us to prov
 
 To improve our service  
 
-We collect information such as on your use of our products and services on an aggregated or anonymous basis in order to help us manage and improve the services we offer to everyone.
+We collect information about your use of our products and services on an aggregated or anonymous basis in order to help us manage and improve the services we offer to everyone.  
 
 |     |     |     |
 | --- | --- | --- |
@@ -202,7 +208,7 @@ Profiling consists of the use of personal data in an automated form in order to 
 | --- | --- | --- |
 | **How is your information used?** | **What data is used?** | **Lawful basis** |
 | Credit checks and ID<br><br>* We may carry out a credit check when you apply for a contract for any products or services with us.<br>* We will also use your personal information for identity verification purposes, for access to your account and for general account management. We sometimes supplement the information we collect about you with information from other sources to assess the accuracy of the information that we hold. | Financial details<br><br> Account information<br><br> Credential information | Performance of your contract |
-| Fraud Prevention & Security<br><br>* We will process your data and data received from third parties to protect and detect misuse or damage to our networks and to protect against and detect fraud across our products and services <br><br>Fraud management and law enforcement<br><br>* We may be obligated to release information, including information from third parties if it’s reasonable for the purpose of protecting us against fraud, defending our rights or property, or to protect our legitimate interests or the interests of our customers. | Traffic data<br><br> Account information<br><br> Financial details<br><br> Third Party Data<br><br> Information about your device of connectivity<br><br> Cookies | Legitimate interest |
+| Fraud Prevention & Security<br><br>* We will process your data and data received from third parties to protect and detect misuse or damage to our networks and to protect against and detect fraud across our products and services <br><br>Fraud management and law enforcement<br><br>* We may be obligated to release information, including information from third parties if it’s reasonable for the purpose of protecting us against fraud, defending our rights or property, or to protect our legitimate interests or the interests of our customers. | Traffic data<br><br> Account information<br><br> Financial details<br><br> Third Party Data<br><br> Information about your device or connectivity<br><br> Cookies | Legitimate interest |
 | Network Security<br><br>* We will process your traffic data in order to protect and detect misuse or damage to our networks or to detect and resolve fraudulent use of our networks (and our partner roaming networks) and to solve technical issues you are experiencing. | Anonymous and aggregated contact details or credential related information<br><br> Traffic data | Legitimate interest |
 | Physical Security<br><br>* We may use CCTV footage to safeguard our stores and sites. | Images<br><br> Video footage | Legitimate interest |
 
@@ -218,7 +224,7 @@ Under certain circumstances, it is necessary for us to process your personal inf
 | --- | --- | --- | --- |
 | **How is your information used?** | **What data is used?** | **Lawful basis** | **Legislation applicable** |
 | Accounting and tax requirements | Financial details<br><br> Account information | Compliance with mandatory legal obligation | Companies Act 2014 |
-| Law enforcement purposes<br><br>* We also may need to release your information to comply with our legal obligation to respond to the authorities’ lawful demands. Your personal data shall only be provided when there is a legal basis to do so in accordance with the law and pursuant to an exhaustive evaluation of all legal requirements. | Account information<br><br> Data about the Device<br><br> Traffic Data<br><br> Location data | Compliance with mandatory legal obligation | Data Protection Act 2018<br><br> Communications (Retention of Data) (Amendment) Act 2022 |
+| Law enforcement purposes<br><br>* We also may need to release your information to comply with our legal obligation to respond to the authorities’ lawful demands. Your personal data shall only be provided when there is a legal basis to do so in accordance with the law and pursuant to an exhaustive evaluation of all legal requirements. | Account information<br><br> Data about the Device<br><br> Traffic Data<br><br> Location data | Compliance with mandatory legal obligation | Data Protection Act 2018<br><br> Communications (Retention of Data) Act 2011, as amended by the Communications (Retention of Data) (Amendment) Act 2022 |
 | Complaint handling purposes<br><br>* Regarding how Vodafone handles your personal data<br><br> Complaint handling purposes<br><br>* Regarding the processing of electronic communications content and of metadata carried out in connection with the provision and use of electronic communications services | Account information<br><br> Customer Relationship   <br>Management data<br><br> Data about the Device and   SIM | Compliance with mandatory legal obligation | Data Protection Act 2018<br><br> European Communities (Electronic Communications Networks and Services) (Privacy and Electronic Communications) Regulations 2011 (“the ePrivacy Regulations”) |
 | Sharing caller ID and location data with emergency services<br><br> Sharing account data to national registers | Account information<br><br> Data about the Device<br><br> Traffic Data<br><br> Location data<br><br> Account information | Compliance with mandatory legal obligation | European Union (Electronic Communications Code) Regulations 2022 |
 
@@ -269,10 +275,10 @@ Subject to the above, the following specific retention periods will be followed:
 |     |     |
 | --- | --- |
 | **Type of Record or Information** | **Retention Period** |
-| **Call Traffic Details** (records of call and SMS communication, i.e. Time and duration of call, originating number, destination number, quantity of data used, approximate location based on network information, and details of your  <br>device.) | Up to 24 months plus current month for billing and our purposes ([as described above under "How we use your information"](https://n.vodafone.ie/privacy/privacy-and-you.html#how-we-use-information) and in our [general terms and conditions](https://n.vodafone.ie/terms/bill-pay.html)). The call detail element of your standard bill will be severed and deleted after 24 months (plus current month) to facilitate customer queries and debt collection. |
+| **Call Traffic Details** (records of call and SMS communication, i.e. Time and duration of call, originating number, destination number, quantity of data used, approximate location based on network information, and details of your  <br>device.) | Up to 24 months plus current month for billing and our purposes ([as described above under "To provide you with your service"](#to-provide-you-with-your-service) and in our [general terms and conditions](https://n.vodafone.ie/terms/bill-pay.html)). The call detail element of your standard bill will be severed and deleted after 24 months (plus current month) to facilitate customer queries and debt collection. |
 |     | Interconnect call records (i.e. the records of calls made to or received from other networks) are retained for 12 months for inter-operator billing purposes. |
 |     | To comply with legal obligations, call traffic records will be retained for a period of 12 months (plus current month). This retention will take place in a restricted access secure system and will not be used for Vodafone's commercial purposes. |
-| **Invoices & Statements** | 6 years plus current year for invoices and statements.<br><br>  <br>The call detail element of your standard bill will be severed and deleted after 24 months (plus current month) to facilitate customer queries and debt collection, as described [above under "How we use your information"](https://n.vodafone.ie/privacy/privacy-and-you.html#how-we-use-information) . |
+| **Invoices & Statements** | 6 years plus current year for invoices and statements.<br><br>  <br>The call detail element of your standard bill will be severed and deleted after 24 months (plus current month) to facilitate customer queries and debt collection, as described [above under "To provide you with your service"](#to-provide-you-with-your-service) . |
 | **Location Based Information for value added services** (excluding network traffic data) | Deleted immediately on completion/ termination of the value-added service. |
 
 We’ll keep some personal information for a reasonable period after your contract with us has finished in case you decide to use our services again; to allow us to answer any questions you might have after you cease your services, or for our own business and reporting requirements. We, or one of our partners, may contact you about Vodafone services during this time if you haven’t opted out of receiving marketing communications from us.
@@ -362,13 +368,15 @@ Opting out does not mean that you won’t any longer receive service-related mes
 
 To opt out of receiving marketing communications from other Vodafone Group companies, just contact them directly.
 
-In some cases, you may receive marketing from Vodafone, even if you’re not a customer or never had contact with Vodafone. This is a result of third-party marketing lists which Vodafone may acquire from time to time. If you’ve registered to opt out of such marketing, you shouldn’t receive such communications. If you do, we ask that you let us know immediately.
+In some cases, you may receive marketing from Vodafone, even if you’re not a customer or never had contact with Vodafone. This is a result of third-party marketing lists which Vodafone may acquire from time to time. If you’ve registered to opt out of such marketing, you shouldn’t receive such communications. If you do, we ask that you let us know immediately.  
+ 
 
-To manage Cookies and understand more about what they are:
+**To manage Cookies and understand more about what they are**
 
-Want to disable a cookie, or understand more about what these are? Check the [Cookies](https://n.vodafone.ie/privacy/cookie-policy.html) section of this notice for full details on how to do this.
+Want to disable a cookie, or understand more about what these are? Check the [Cookies](https://n.vodafone.ie/privacy/cookie-policy.html) section of this notice for full details on how to do this.  
+ 
 
-How to lodge a complaint
+**How to lodge a complaint**
 
 If you want to contact us about any of your rights or to complain about how we use your information, contact our [Customer Services](https://n.vodafone.ie/support.html#contact-us) team or email us at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com). We’ll do our best to help but if you’re still unhappy, you can contact the Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
