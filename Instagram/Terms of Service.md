@@ -3,6 +3,8 @@
 Terms of Use
 ============
 
+We’re updating the Instagram Terms of Use. These updates will go into effect on January 1, 2025. [Read the new Terms](https://help.instagram.com/350562574791105?helpref=faq_content)
+
 _Meta Platforms, Inc. is now providing Facebook in the UK. We’ve updated our Terms of Use and Privacy Policy to reflect this change on 25 April 2023. [Learn more about Meta](https://about.facebook.com/meta) and our vision for the Metaverse._
 
   
@@ -163,6 +165,6 @@ We always appreciate feedback or other suggestions, but may use them without any
 **Updating These Terms**
 ------------------------
 
-We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) at least 30 days before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, [here](https://help.instagram.com/370452623149242?ref=igtos).  
+We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. We will only make changes if the provisions are not appropriate anymore or if they are incomplete, and only if the changes are reasonable for you in consideration to your interests. Unless otherwise required by law, we will notify you of the changes and choices you have (for example, through our Service) at least 30 days before we update the Terms, and we will give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, [here](https://help.instagram.com/370452623149242?ref=igtos). We may change our Service and policies, and we may need to make changes to these Terms so that they accurately reflect our Service and policies. Unless otherwise required by law, we will notify you (for example, through our Service) at least 30 days before we make changes to these Terms and give you an opportunity to review them before they go into effect. Then, if you continue to use the Service, you will be bound by the updated Terms. If you do not want to agree to these or any updated Terms, you can delete your account, [here](https://help.instagram.com/370452623149242?ref=igtos).  
 
 Effective Date: 25 April 2023
