@@ -200,3 +200,11 @@ Do Not Track is a privacy preference that users can set in their web browsers. W
 ---------------------------
 
 We welcome your feedback regarding this Privacy Policy. If you have questions, comments, or concerns about this Policy, please contact us by email at [privacy@evernote.com](mailto:privacy@evernote.com).
+
+* [Privacy Center](https://evernote.com/privacy)
+* [Privacy Policy](https://evernote.com/privacy/policy)
+* [Region-Specific Information](https://evernote.com/privacy/regional)
+* [3 Laws of Data Protection](https://evernote.com/privacy/3-laws-of-data-protection)
+* [Cookie Notice](https://evernote.com/privacy/cookies)
+* [Transparency Report](https://evernote.com/privacy/transparency-report)
+* [Vendors](https://evernote.com/privacy/vendors)
