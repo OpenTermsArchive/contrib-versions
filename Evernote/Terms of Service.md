@@ -317,3 +317,11 @@ Attention: Legal Notice
 A couple of final, but important, points. First, these Terms constitute the entire agreement between you and us, and govern your use of the Evernote Service, except for, and then only to the extent that you have entered into a Separate Agreement. These Terms supersede any prior agreements or earlier versions of these Terms between you and Evernote for the use of the Evernote Service as of the Effective Date indicated at the top of these Terms. If, through accessing or using the Evernote Service, you utilize or obtain any product or service from a third party, you may additionally be subject to such third party’s terms and conditions applicable thereto, and these Terms shall not affect your legal relationship with such third party. Second, you acknowledge and agree that each affiliate of Bending Spoons shall be a third-party beneficiary to these Terms and that such other companies shall be entitled to directly enforce, and rely upon, any provision of these Terms which confers a benefit on (or provides rights in favor of) them. Other than this, no other person or company shall be a third-party beneficiary to these Terms. Finally, the section headings in these Terms are for convenience only and have no legal or contractual effect.
 
 In the event of a conflict, the English language version shall govern.
+
+* [Privacy Center](https://evernote.com/privacy)
+* [Privacy Policy](https://evernote.com/privacy/policy)
+* [Region-Specific Information](https://evernote.com/privacy/regional)
+* [3 Laws of Data Protection](https://evernote.com/privacy/3-laws-of-data-protection)
+* [Cookie Notice](https://evernote.com/privacy/cookies)
+* [Transparency Report](https://evernote.com/privacy/transparency-report)
+* [Vendors](https://evernote.com/privacy/vendors)
