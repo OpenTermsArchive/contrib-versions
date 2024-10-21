@@ -1,395 +1,328 @@
-Legal
-=====
-
 Coinbase Global Privacy Policy
-------------------------------
 
-Last updated: October 8, 2021
+Last Updated: March 26, 2024_._
 
-* * *
+We at Coinbase (the Coinbase entities listed in [Section 11 below](#our-relationship-with-you), referred to here as “**we**”, “**us**” or “**our**”) respect and protect the privacy of those who explore our Services (“**Users**”) and Users who sign up for and access our Services (“**Customers**”) (together referred throughout this policy as “**you**” and “**your**”).
 
-We at Coinbase (defined below) respect and protect the privacy of visitors to our websites and our customers. This Privacy Policy describes our information handling practices when you access our services, which include our content on the websites located at [coinbase.com](https://www.coinbase.com/), [](https://coinbase.com/exchange)[coinbase.com/exchange](https://www.coinbase.com/exchange), [coinbase.com/prime](https://www.coinbase.com/prime), [custody.coinbase.com](https://custody.coinbase.com/), or any other websites, pages, features, or content we own or operate (collectively, the "Site(s)") or when you use the Coinbase mobile app, the Coinbase Card App (as defined below), any Coinbase, Coinbase Exchange, Coinbase Prime, or Coinbase Custody API or third party applications relying on such an API, and related services (referred to collectively hereinafter as "Services").
+This Privacy Policy describes how we collect, use, and share personal information when you explore, sign up for or access our **“Services”**, which include the services offered on our websites, including [coinbase.com](https://www.coinbase.com/), [coinbase.com/exchange](https://www.coinbase.com/exchange), [coinbase.com/prime](https://www.coinbase.com/prime), [coinbase.com/futures](https://www.coinbase.com/futures), [coinbase.com/cloud](https://www.coinbase.com/cloud) (each a “**Site**” and collectively the "**Sites**") or when you use the Coinbase mobile app, the Coinbase Card App, Coinbase Exchange, Coinbase Prime, Dapp Wallet, or Coinbase Custody application programming interface (“**API**”) or third party applications relying on such APIs (together, our “**Apps**”) and related services. 
 
-Please take a moment to read this Privacy Policy carefully. If you have any questions about this Policy, please submit your request via our Support Portal at [https://support.coinbase.com/customer/portal/emails/new](https://support.coinbase.com/customer/portal/emails/new).
+If you reside outside of the UK and the European Economic Area (the “**EEA**”), accessing and using our Services means that you accept this Privacy Policy and its terms. 
 
-We may modify this Privacy Policy from time to time which will be indicated by changing the date at the top of this page. If we make any material changes, we will notify you by email (sent to the email address specified in your account), by means of a notice on our Services prior to the change becoming effective, or as otherwise required by law.
+It is important that you understand how we use your information. You should read this page in full, but below are the key highlights and some helpful links:
 
-### 1\. ACCEPTANCE OF THIS PRIVACY POLICY
-
-By accessing and using our Services, you signify acceptance to the terms of this Privacy Policy. Where we require your consent to process your personal information, we will ask for your consent to the collection, use, and disclosure of your personal information as described further below. We may provide additional "just-in-time" disclosures or information about the data processing practices of specific Services. These notices may supplement or clarify our privacy practices or may provide you with additional choices about how we process your data.
-
-If you do not agree with or you are not comfortable with any aspect of this Privacy Policy, you should immediately discontinue access or use of our Services.
-
-### 2\. OUR RELATIONSHIP TO YOU
-
-| Where You Reside | Services Provided | Your Operating Entity | Contact Address |
-| --- | --- | --- | --- |
-| Anywhere but the United States and Japan | Custodial services | Coinbase Custody International Limited (unless otherwise indicated in your service contract) Company No: 657718 | 70 Sir John Rogerson's Quay Dublin 2, Ireland |
-| EU and the United Kingdom | Digital Currency services | Coinbase Europe, Limited. Company No: 675475 | 70 Sir John Rogerson's Quay Dublin 2, Ireland |
-| Germany | Digital Currency services | Coinbase Germany GmbH. Company No: HRB 213709 B. BaFin-ID 10158674 | Kurfürstendamm 22, 10719 Berlin, Germany |
-| European Economic Area | Fiat Wallet services | Coinbase Ireland, Limited. Company No: 630350 CBI Register No: C188493 | 70 Sir John Rogerson's Quay Dublin 2, Ireland |
-| Singapore | Digital Currency services, Fiat Wallet services | Coinbase Singapore Pte. Ltd. Unique Entity No.: 201935002N | One Marina Boulevard, #28-00, Singapore 018989 |
-| Japan | Digital Currency services, Fiat Wallet services, Custodial services | Coinbase KK. Company No: 0100-01-173138 FSA Register No: Kanto Finance Bureau Directory-General No. 00028 | Otemachi Building 4F FINOLAB, 1-6-1 Otemachi, Chiyoda-ku, Tokyo |
-| Anywhere but the EU, US, UK, Singapore and Japan | Digital Currency Services | Coinbase Ascending Markets Kenya Limited (“CB Kenya”) | P.O. Box 10643, G.P.O. Nairobi, Kenya |
-| United Kingdom (and select non-EEA countries in Europe) | Fiat Wallet services | CB Payments. Ltd Company No: 09708629 FCA Register No: 900635 | 5 Fleet Place, London, EC4M 7RD, United Kingdom |
-| United States | Digital Currency services, Fiat Wallet services | Coinbase, Inc. CA Entity No.: C3548456 | Coinbase, Inc. c/o C T Corporation System 818 West Seventh St., Ste. 930 Los Angeles, California 90017 |
-| United States | Custodial services | Coinbase Custody Trust Company, LLC (unless otherwise indicated in your service contract) NYS License # 122506 | Coinbase Custody Trust Company, LLC c/o C T Corporation System 28 Liberty Street New York, New York 10005 |
-| United States | Credit and Lending services, Margin Trading services | Coinbase Credit, Inc. CA Entity No.: C4315976 | Coinbase Credit, Inc. c/o C T Corporation System 818 West Seventh St., Ste. 930 Los Angeles, California 90017 |
-
-The CB operating entity you contract with determines the means and purposes of processing your personal information in relation to the Services provided to you (typically referred to as a “data controller”).
-
-You may be asked to provide personal information anytime you are in contact with any CB companies. The CB companies may share your personal information with each other and use it consistent with this Privacy Policy. They may also combine it with other information to provide and improve our products, services, and content (additional details below). For example, even if you do not reside in the United States (the “US”), your information may be shared with Coinbase, Inc. which provides global support for all Services including technical infrastructure, product development, security, compliance, fraud prevention, and customer support.
-
-If you have any questions about your CB Account, your personal information, or this Privacy Policy, please submit your request via our [Support Portal](https://support.coinbase.com/customer/portal/emails/new).
-
-### 3\. THE PERSONAL INFORMATION WE COLLECT
-
-Personal information is typically data that identifies an individual or relates to an identifiable individual. This includes information you provide to us, information which is collected about you automatically, and information we obtain from third parties. The definition of personal information depends on the applicable law based on your physical location. Only the definition that applies to your physical location will apply to you under this Privacy Policy.
-
-**Information you provide to us**. To establish an account and access our Services, we'll ask you to provide us with some important information about yourself. This information is either required by law (e.g. to verify your identity), necessary to provide the requested services (e.g. you will need to provide your bank account number if you'd like to link that account to CB), or is relevant for certain specified purposes, described in greater detail below. As we add new features and Services, you may be asked to provide additional information.
-
-If you choose not to share certain information with us, we may not be able to serve you as effectively or offer you our Services. Any information you provide to us that is not required is voluntary.
-
-We may collect the following types of information from you:
-
-* Personal Identification Information: Full name, date of birth, nationality, gender, signature, utility bills, photographs, phone number, home address, and/or email.
+* Our goal is to simplify your crypto experience. If you do not wish for your personal information to be collected, used, or disclosed as described in this Privacy Policy, or you are under 18 years of age, you should stop accessing our Services.
+    * We collect and use your information in order to provide and improve our Services and your experience, protect the security and integrity of our platform, and meet our legal obligations.
     
-* Formal Identification Information: Government issued identity document such as Passport, Driver's License, National Identity Card, State ID Card, Tax ID number, passport number, driver's license details, national identity card details, visa information, and/or any other information deemed necessary to comply with our legal obligations under financial or anti-money laundering laws.
+    * To learn more, explore [**Section 1. What Information We Collect**](#what-information-we-collect) and [**Section 2. How We Use Your Information**](#how-we-use-your-information).
+        * We share your information with other Coinbase companies, as well as trusted third parties and service providers, in order to offer our Services and fulfill legal requirements.
     
-* Institutional Information: Employer Identification number (or comparable number issued by a government), proof of legal formation (e.g. Articles of Incorporation), personal identification information for all material beneficial owners.
-    
-* Financial Information: Bank account information, payment card primary account number (PAN), transaction history, trading data, and/or tax identification.
-    
-* Transaction Information: Information about the transactions you make on our Services, such as the name of the recipient, your name, the amount, and/or timestamp.
-    
-* Employment Information: Office location, job title, and/or description of role.
-    
-* Correspondence: Survey responses, information provided to our support team or user research team.
-    
-* Audio, electronic, visual and similar information, such as call and video recordings.
+    * To learn more, explore [**Section 3. How And Why We Share Your Information**](#how-and-why-we-share-your-information).
+        * We offer privacy tools for you to request access to or deletion of information we hold about you. You can use these tools by visiting your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights). Depending on where you live, you may also have other privacy rights under law.
+    * If you have any questions, please contact us on our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase) or at dpo@coinbase.com. See [**Section 9. How to Contact Us With Questions**](#how-to-contact-us-with-questions) for more information.
     
 
-**Information we collect from you automatically.** To the extent permitted under the applicable law, we may collect certain types of information automatically, such as whenever you interact with the Sites or use the Services. This information helps us address customer support issues, improve the performance of our Sites and Services, provide you with a streamlined and personalized experience, and protect your account from fraud by detecting unauthorized access. Information collected automatically includes:
+1\. WHAT INFORMATION WE COLLECT
 
-* Online Identifiers: Geo location/tracking details, browser fingerprint, operating system, browser name and version, and/or personal IP addresses.
-    
-* Usage Data: Authentication data, security questions, click-stream data, public social networking posts, and other data collected via cookies and similar technologies. Please read our [Cookie Policy](https://www.coinbase.com/legal/cookie?locale%3Den-US) for more information.
-    
+We collect the following personal information and documentation:
 
-For example, we may automatically receive and record the following information on our server logs:
+Information You Provide to Us
 
-* How you came to and use the Services;
-    
-* Device type and unique device identification numbers;
-    
-* Device event information (such as crashes, system activity and hardware settings, browser type, browser language, the date and time of your request and referral URL);
-    
-* How your device interacts with our Sites and Services, including pages accessed and links clicked;
-    
-* Broad geographic location (e.g. country or city-level location); and
-    
-* Other technical data collected through cookies, pixel tags and other similar technologies that uniquely identify your browser.
-    
+
 
-We may also use identifiers to recognize you when you access our Sites via an external link, such as a link appearing on a third party site.
-
-**Information we collect from our affiliates and third parties.** From time to time, we may obtain information about you from our affiliates or third party sources as required or permitted by applicable law. These sources may include:
-
-* Our Coinbase Family of Companies: Our “family of companies” is the group of companies related to us by common control or ownership (“Affiliates”). In accordance with applicable law, we may obtain information about you from our Affiliates as a normal part of conducting business, if you link your various Coinbase accounts (e.g., Coinbase Wallet account or Coinbase Commerce account in order to convert cryptocurrency into fiat and make withdrawals into your bank account), so that we may offer our Affiliates’ Services to you.
-    
-* Public Databases, Credit Bureaus & ID Verification Partners: We obtain information about you from public databases and ID verification partners for purposes of verifying your identity in accordance with applicable law. ID verification partners like World-Check use a combination of government records and publicly available information about you to verify your identity. Such information may include your name, address, job role, public employment profile, credit history, status on any sanctions lists maintained by public authorities, and other relevant data. We obtain such information to comply with our legal obligations, such as anti-money laundering laws. In some cases, we may process additional data about you to assess risk and ensure our Services are not used fraudulently or for other illicit activities. In such instances, processing is necessary for us to continue to perform our contractual obligations with you and others. World-Check's Privacy Policy, available at [https://www.refinitiv.com/en/products/world-check-kyc-screening/privacy-statement/](https://www.refinitiv.com/en/products/world-check-kyc-screening/privacy-statement/), describes its collection and use of personal data.
-    
-* Blockchain Data: We may analyze public blockchain data to ensure parties utilizing our Services are not engaged in illegal or prohibited activity under our Terms, and to analyze transaction trends for research and development purposes.
-    
-* Joint Marketing Partners & Resellers: For example, unless prohibited by applicable law, joint marketing partners or resellers may share information about you with us so that we can better understand which of our Services may be of interest to you.
-    
-* Advertising Networks & Analytics Providers: We work with these providers to provide us with de-identified information about how you found our Sites and how you interact with the Sites and Services. This information may be collected prior to account creation. For more information on how you can manage collection of this data, please see our [Cookie Policy](https://www.coinbase.com/legal/cookie?locale%3Den-US).
-    
-
-### 4\. ANONYMIZED AND AGGREGATED DATA
-
-Anonymization is a data processing technique that modifies personal information so that it cannot be associated with a specific individual. Except for this section, none of the other provisions of this Privacy Policy applies to anonymized or aggregated customer data (i.e. information about our customers that we combine together so that it no longer identifies or references an individual customer).
-
-Coinbase may use anonymized or aggregate customer data for any business purpose, including to better understand customer needs and behaviors, improve our Services, conduct business intelligence and marketing, and detect security threats. We may perform our own analytics on anonymized data or enable analytics provided by third parties.
-
-Types of data we may anonymize include, transaction data, click-stream data, performance metrics, and fraud indicators.
-
-### 5\. HOW YOUR PERSONAL INFORMATION IS USED
-
-Our primary purpose in collecting personal information is to provide you with a secure, smooth, efficient, and customized experience. We generally use personal information to create, develop, operate, deliver, and improve our Services, content and advertising; and for loss prevention and anti-fraud purposes. We may use this information in the following ways:
-
-1) To maintain legal and regulatory compliance
-
-Most of our core Services are subject to laws and regulations requiring us to collect, use, and store your personal information in certain ways. For example, CB must identify and verify customers using our Services in order to comply with anti-money laundering laws across jurisdictions. This includes collection and storage of your photo identification. In addition, we use third parties to verify your identity by comparing the personal information you provide against third-party databases and public records. When you seek to link a bank account to your CB Account, we may require you to provide additional information which we may use in collaboration with service providers acting on our behalf to verify your identity or address, and/or to manage risk as required under applicable law. If you do not provide personal information required by law, we will have to close your account.
-
-2) To enforce our terms in our user agreement and other agreements
-
-CB handles sensitive information, such as your identification and financial data, so it is very important for us and our customers that we actively monitor, investigate, prevent, and mitigate any potentially prohibited or illegal activities, enforce our agreements with third parties, and/or prevent and detect violations of our posted user agreement or agreements for other Services. In addition, we may need to collect fees based on your use of our Services. We collect information about your account usage and closely monitor your interactions with our Services. We may use any of your personal information collected for these purposes. The consequences of not processing your personal information for such purposes is the termination of your account.
-
-3) To detect and prevent fraud and/or funds loss
-
-We process your personal information in order to help detect, prevent, and mitigate fraud and abuse of our services and to protect you against account compromise or funds loss.
-
-4) To provide Coinbase's Services
-
-We process your personal information to provide the Services to you. For example, when you want to store funds on our platform, we require certain information such as your identification, contact information, and payment information. We cannot provide you with Services without such information. Third parties such as identity verification services may also access and/or collect your personal information when providing identity verification and/or fraud prevention services.
-
-5) To provide Service communications
-
-We send administrative or account-related information to you to keep you updated about our Services, inform you of relevant security issues or updates, or provide other transaction-related information. Without such communications, you may not be aware of important developments relating to your account that may affect how you can use our Services. You may not opt-out of receiving critical service communications, such as emails or mobile notifications sent for legal or security purposes.
-
-6) To provide customer service
-
-We process your personal information when you contact us to resolve any questions, disputes, collect fees, or to troubleshoot problems. Without processing your personal information for such purposes, we cannot respond to your requests and ensure your uninterrupted use of the Services.
-
-7) To ensure quality control
-
-We process your personal information for quality control and staff training to make sure we continue to provide you with accurate information. If we do not process personal information for quality control purposes, you may experience issues on the Services such as inaccurate transaction records or other interruptions.
-
-8) To ensure network and information security
-
-We process your personal information in order to enhance security, monitor and verify identity or service access, combat spam or other malware or security risks and to comply with applicable security laws and regulations. The threat landscape on the internet is constantly evolving, which makes it more important than ever that we have accurate and up-to-date information about your use of our Services. Without processing your personal information, we may not be able to ensure the security of our Services.
-
-9) For research and development purposes
-
-We process your personal information to better understand the way you use and interact with Coinbase's Services. In addition, we use such information to customize, measure, and improve Coinbase's Services and the content and layout of our website and applications, and to develop new services. Without such processing, we cannot ensure your continued enjoyment of our Services.
-
-10) To enhance your experience
-
-We process your personal information to provide a personalized experience, and implement the preferences you request. For example, you may choose to provide us with access to certain personal information stored by third parties. Without such processing, we may not be able to ensure your continued enjoyment of part or all of our Services.
-
-11) To facilitate corporate acquisitions, mergers, or transactions
-
-We may process any information regarding your account and use of our Services as is necessary in the context of corporate acquisitions, mergers, or other corporate transactions.
-
-12) To engage in marketing activities
-
-Based on your communication preferences, we may send you marketing communications (e.g. emails or mobile notifications) to inform you about our events or our partner events; to deliver targeted marketing; and to provide you with promotional offers. Our marketing will be conducted in accordance with your advertising marketing preferences and as permitted by applicable law.
-
-13) To protect the health and safety of our employees and visitors, our facilities and our property and other rights. If you visit one of our locations, to maintain security at such locations you may be photographed or videotaped.
-
-14) For any purpose that you provide your consent. 
-
-We will not use your personal information for purposes other than those purposes we have disclosed to you, without your permission. From time to time, and as required under the applicable law, we may request your permission to allow us to share your personal information with third parties. In such instances, you may opt out of having your personal information shared with third parties, or allowing us to use your personal information for any purpose that is incompatible with the purposes for which we originally collected it or subsequently obtained your authorization. If you choose to limit the use of your personal information, certain features or CB Services may not be available to you.
-
-### 6\. LEGAL BASES FOR PROCESSING YOUR INFORMATION
-
-For individuals who are located in the European Economic Area, the United Kingdom or Switzerland (collectively “EEA Residents'') at the time their personal information is collected, our legal bases for processing your information under the EU General Data Protection Regulation (“GDPR”) will depend on the personal information at issue, the specific context in the which the personal information is collected and the purposes for which it is used. We generally only process your data where we are legally required to, where processing is necessary to perform any contracts we entered with you (or to take steps at your request prior to entering into a contract with you), where processing is in our legitimate interests to operate our business and not overridden by your data protection interests or fundamental rights and freedoms, or where we have obtained your consent to do so. In some rare instances, we may need to process your personal information to protect your vital interests or those of another person. Below is a list of how CB uses your personal information, as described above in Section 5, with the corresponding legal bases for processing. If you have questions about or need further information concerning the legal basis on which we collect and use your personal information, please contact us using the contact details provided under the "How to contact us" heading below.
-
-| Section & Purpose of Processing | Legal Bases for Processing |
+| Information Category | Description |
 | --- | --- |
-| (2) To enforce our terms in our user agreement and other agreements (4) To provide Coinbase's Services (5) To provide Service communications (6) To provide customer service (7) To ensure quality control | Based on our contract with you or to take steps at your request prior to entering into a contract. |
-| (9) For research and development purposes (10) To enhance your experience (11) To facilitate corporate acquisitions, mergers, or transactions (12) To engage in direct marketing activities | Based on our legitimate interests. When we process your personal data for our legitimate interests we always ensure that we consider and balance any potential impact on you and your rights under data protection laws. |
-| (1) To maintain legal and regulatory compliance (3) To detect and prevent fraud and/or funds loss (8) To ensure network and information security (13) To protect your or our’s vital interests | Based on our legal obligations, the public interest, or in your vital interests. |
-| (10) To enhance your experience (12) To engage in third party marketing activities (14) For any purpose to which you consent | Based on your consent. |
+| Basic Customer Information | Name, Address, Date of birth, Nationality, Country of residence, Gender, Phone number, Email Address |
+| Supplemental Identification Information | Utility bills (for your billing address), Photographs and/or videos, Government-issued identity document, e.g. passport, driver’s license, or state identification card, Social security number, Employment information (e.g. company name), Proof of residency, including visa information |
+| Electronic Identification (“**EIDV**”) Information | Biometric information generated based on photos or videos you provide in order for us to verify your identity |
+| Institutional Information (if you are an institutional Customer) | Employer Identification number (or comparable number issued by a government), Personal identification information for all material beneficial owners of your business |
+| Financial Information | Bank account number, Payment card primary account number ("**PAN**"), Trading and investment experience, Tax identification number, Income/net assets/wealth verification statements |
+| Wallet Information | When you sign up to use our Web3 browser, self-custody, or multi-coin crypto wallet, and connect it to your Coinbase account, we collect your Wallet address and information related to integrations that you select |
+| Preferences | The digital asset(s) you choose to be paid in through our Direct Deposit service, Settings and preferences you select in the Coinbase app |
+| Transaction Information | Information about the transactions made on our Services, such as the name of the sender, the name of the recipient, the amount, currency preferences, payment method, date, and/or timestamp |
+| Additional information you submit to us | **Communications:** Survey responses, information (including call recordings) provided to our Customer Support team or User Research team, including communications with interfaces such as our chatbots.<br><br>**Referral Information:** Your contacts’ phone or email addresses if you choose to invite friends to Coinbase (available only in certain countries outside the EEA) |
 
-### 7\. WHY WE SHARE PERSONAL INFORMATION WITH OTHER PARTIES
+Information Collected Automatically
 
-We take care to allow your personal information to be accessed only by those who require access to perform their tasks and duties, and to share only with third parties who have a legitimate purpose for accessing it. CB will never sell or rent your personal information to third parties without your explicit consent. We will only share your information in the following circumstances:
+
 
-* With third party identity verification services in order to prevent fraud. This allows CB to confirm your identity by comparing the information you provide us to public records and other third party databases. These service providers may create derivative data based on your personal information that can be used in connection with the provision of identity verification and fraud prevention services. For example:
-    
-    * We may use Jumio Corporation or Jumio UK, Limited (collectively “Jumio”) to verify your identity by determining whether a selfie you take matches the photo in your government issued identity document. The information collected from your photo may include biometric data. Jumio's Privacy Policy, available at [https://www.jumio.com/legal-information/privacy-policy/jumio-inc-privacy-policy-for-online-services/](https://www.jumio.com/legal-information/privacy-policy/jumio-inc-privacy-policy-for-online-services/), describes its collection and use of personal information.
-        
-    * For Germany users, we may use SolarisBank AG (“Solarisbank”) to verify your identity through verification of identifiable personal information. The information collected from you may include biometric data. Solarisbank’s Privacy Policy, available at [https://www.solarisbank.com/en/privacy-policy/](https://www.solarisbank.com/en/privacy-policy/), describes its collection and use of personal information. 
-        
-    * We may use Sift Science, Inc. (“Sift”) to detect and prevent fraudulent activity on your account in real time. Information shared with Sift is treated by Sift in accordance with its Privacy Policy, available at [https://sift.com/service-privacy](https://sift.com/service-privacy).
-        
-    * If you are based in the US, CB may use Plaid, Inc. ("Plaid") to connect your Coinbase account with your bank account, verify your bank account and confirm your bank account balance prior to approving a transaction. Information shared with Plaid is treated by Plaid in accordance with its Privacy Policy, available at [https://plaid.com/legal/#end-user-privacy-policy](https://plaid.com/legal/#end-user-privacy-policy).
-        
-* With financial institutions with which we partner to process payments you have authorized.
-    
-* With service providers under contract who help with parts of our business operations. Our contracts require these service providers to only use your information in connection with the services they perform for us, and prohibit them from selling your information to anyone else. Examples of the types of service providers we may share personal information with (other than those mentioned above) include:
-    
-    * Network infrastructure
-        
-    * Cloud storage
-        
-    * Payment processing
-        
-    * Transaction monitoring
-        
-    * Security
-        
-    * Document repository services
-        
-    * Customer support
-        
-    * Internet (e.g. ISPs)
-        
-    * Data analytics
-        
-    * Information Technology
-        
-    * Marketing
-        
-* With companies or other entities that we plan to merge with or be acquired by. You will receive prior notice of any change in applicable policies.
-    
-* With companies or other entities that purchase CB assets pursuant to a court-approved sale or where we are required to share your information pursuant to insolvency law in any applicable jurisdiction.
-    
-* With our professional advisors who provide banking, legal, compliance, insurance, accounting, or other consulting services in order to complete third party financial, technical, compliance and legal audits of our operations or otherwise comply with our legal obligations.
-    
-* With law enforcement, officials, or other third parties when we are compelled to do so by a subpoena, court order, or similar legal procedure, or when we believe in good faith that the disclosure of personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity, or to investigate violations of our User Agreement or any other applicable policies.
-    
-* We share personal information about you with our Affiliates as a normal part of conducting business and offering Services to you.
-    
+| Information Category | Description |
+| --- | --- |
+| App, browser, and device information | Information about the device, operating system, and browser you’re using<br><br>Other device characteristics or identifiers (e.g. plugins, the network you connect to)<br><br>IP address |
+| Product Usage Information | **Activity information:** Information about what you view or click on while visiting our Sites and Apps and how you use our Services<br><br>**Diagnostic and Troubleshooting Information:** Information about how our Services are performing when you use them, i.e. service-related diagnostic and performance information, including timestamps, crash data, website performance logs, and error messages or reports |
+| Information from cookies and similar technologies | See our [Cookies Policy](https://www.coinbase.com/legal/cookie) for more information |
 
-Where we believe it is necessary in order to protect the vital interests of any person. If you establish a CB Account indirectly on a third party website or via a third party application, any information that you enter on that website or application (and not directly on a CB website) will be shared with the owner of the third party website or application and your information will be subject to their privacy policies. For more information see the “Third-Party Sites and Services” section below.
+Information we obtain from Affiliates and third parties
 
-### 8\. SPECIAL PROVISIONS RELATING TO COINBASE CARD USERS
+
 
-If you sign up to use the Digital Currency backed debit card Service (the “Coinbase Card”) provided by CB via the dedicated app for that Service (the “Coinbase Card App”), we will process your personal information in accordance with this Policy.
+| Information Category | Description |
+| --- | --- |
+| Coinbase Group of Companies (“**Affiliates**”) | We may obtain information about you, such as Basic Customer Information, Transaction Information and Product Usage Information, from our Affiliates as a normal part of conducting business. For instance, if you link your various Coinbase accounts e.g. your Coinbase Wallet account or your Coinbase Commerce account, we may utilize your Wallet Information and Financial Information in order to convert cryptocurrency into fiat and allow you to make withdrawals into your bank account. For more information, please see [**Section 3. How and Why We Share Your Information**](#how-and-why-we-share-your-information) |
+| Public Database Information | We obtain information about you from public databases, such as the United Nations Sanctions List, US ITA Consolidated Screening List, and the SEC EDGAR, including your name, address, email address, phone number, gender, national ID number and nationality/country of residence, date of birth, job role, public employment profile, listing on any sanctions lists maintained by public authorities, and other data as necessary |
+| Blockchain Data | We may analyze public blockchain data, including timestamps of transactions or events, transaction IDs, digital signatures, transaction amounts, and wallet addresses |
+| Information from our Marketing and Advertising Partners | We receive information such as your name and contact information from our marketing partners, including in some instances what marketing content you viewed or the  actions you take on our Sites |
+| Information from Analytics Providers | We receive information about your Site usage, interactions, age group, and survey responses (including prior to account creation, in some cases) |
+| Retail Merchant Information | If you use your Coinbase account to conduct a transaction with a third party merchant, the merchant may provide us with data about you, such as your name and contact details, and your transaction with that merchant |
+| Research and In-App Survey Information | We use third party service providers to conduct in-app surveys to better understand our Customers’ experience and improve our Services. The information we receive from our research partners is pseudonymous |
 
-In order to provide the Coinbase Card Service to you, we have partnered with Paysafe Financial Services Limited and Paysafe Payment Solution Limited (collectively “Paysafe”). Paysafe is the issuer of the Coinbase Card and is a member of the Visa card scheme, which will be used to enable your Coinbase Card to operate as a normal debit card. When you sign up on the Coinbase Card App you agree to Paysafe's own terms and conditions and Privacy Policy (available at [https://www.paysafe.com/paysafegroup/privacy-policy/](https://www.paysafe.com/paysafegroup/privacy-policy/)), and as a result Paysafe will be an independent data controller in relation to the personal information they collect and hold relating to you.
+2\. HOW WE USE YOUR INFORMATION
 
-We may at times need to share some of your personal information that we control with Paysafe to enable us and Paysafe to provide you with the Coinbase Card Service. Where we do this, Paysafe will act as a data processor and only process your personal information to the extent necessary to enable us and Paysafe to provide the Coinbase Card Service to you.
+We use your personal information to deliver, personalize, operate, improve, create, and develop our Services, to provide you with a secure, smooth, efficient and customized experience as you use them, and for legal compliance, loss prevention, and anti-fraud purposes. Learn more about how we use your personal information and our legal basis for each such data use:
 
-### 9\. HOW WE PROTECT AND STORE PERSONAL INFORMATION
+Data use necessary to perform our contract with you
 
-We understand how important your privacy is, which is why CB maintains (and contractually requires third parties it shares your information with to maintain) appropriate physical, technical and administrative safeguards to protect the security and confidentiality of the personal information you entrust to us.
+
 
-We may store and process all or part of your personal and transactional information, including certain payment information, such as your encrypted bank account and/or routing numbers, in the US and elsewhere in the world where our facilities or our service providers are located. We protect your personal information by maintaining physical, electronic, and procedural safeguards in compliance with the applicable laws and regulations.
+We use certain information that is necessary to conclude and perform our [Customer Agreement](https://www.coinbase.com/legal/user_agreement/) or other relevant contract(s) with you. We will need to terminate your account if we cannot process your personal information for such purposes.
 
-For example, we use computer safeguards such as firewalls and data encryption, we enforce physical access controls to our buildings and files, and we authorize access to personal information only for those employees who require it to fulfill their job responsibilities. Full credit card data is securely transferred and hosted off-site by payment vendors like Worldpay, (UK) Limited, Worldpay Limited, or Worldpay AP Limited (collectively “Worldpay”) in compliance with Payment Card Industry Data Security Standards (PCI DSS). This information is not accessible to CB or Coinbase staff. For more information about how Worldpay stores and uses your information, please see Worldpay's Privacy Policy at [https://www.worldpay.com/uk/worldpay-privacy-notice](https://www.worldpay.com/uk/worldpay-privacy-notice).
+| Why and How We Use Your Information | Information Categories Used |
+| --- | --- |
+| To create and maintain your Coinbase account<br><br>In order to provide you with our Services, and to allow you to set up a customer account and profile. | Basic Customer Information, Supplemental Identification Information, Financial Information |
+| To provide you with Consumer Services<br><br>In order to provide you with personalized Services to invest (such as buy or sell), save, earn, spend, stake, and borrow within your account, including hosting and maintaining your digital wallets, including your E-Money Wallet, Digital Currency Wallet, and Web3 Wallet (when you connect them to your Coinbase account) and to provide you with [Verified by Coinbase](https://www.coinbase.com/onchain-verify). | Basic Customer Information, Supplemental Identification Information, Financial Information, Institutional Information, Transaction Information, Wallet Information, Preferences, Blockchain Data, Product Usage Information, Additional information you submit to us (not including Referral Information, which we do not retain) |
+| To provide you with Institutional Services<br><br>In order to provide Services to you, investors and institutions to allow investing, payment, asset listings, and account management. | Basic Customer Information, Supplemental Identification Information, Financial Information, Institutional Information, Additional information you submit to us, Wallet Information, Transaction Information |
+| To provide you with Developer Services<br><br>In order to provide you with Coinbase Pay,  a payment feature that allows you to buy or transfer supported crypto on Coinbase to your wallet, and Direct Deposit, which allows you to get your salary paid in the cryptocurrency of your choice, asset controls, and connects merchants to Users or Customers to allow acceptance and provision of crypto payments. | Basic Customer Information, Supplemental Identification Information, Financial Information, Preferences |
+| To provide you with Coinbase Cloud Services<br><br>In order to provide you with our Coinbase Cloud services, which offers tools, APIs and infrastructure for Web3 development and, staking services. | Basic Customer Information, Transaction Information, Wallet Information, Financial Information, Blockchain Data |
+| To provide customer support<br><br>To address your request for support in the Apps, via the Sites or by email and to respond to customer care and other inquiries, including providing telephone-based premium customer support to Customers (who provide their telephone numbers), chat message support (including chatbots), and social support. | Basic Customer Information, Supplemental Identification Information, Transaction Information, Product Usage Information (including Location Information), Communications |
+| To send Service communications<br><br>To send you administrative or account-related communications about our Services, which can include security updates or transaction-related information, through email, telephone, or in-product/push notifications. You may not opt-out of receiving critical service communications, such as emails or mobile notifications sent for legal or security purposes. | Basic Customer Information, Product Usage Information, Communications, Transaction Information |
+| To promote the safety, security and integrity of our Services<br><br>To verify accounts and related activity, find and address violations of our Customer [Agreement](https://www.coinbase.com/legal/user_agreement/united_states) or policies (including our [Prohibited & Conditional Use Policy](https://www.coinbase.com/legal/prohibited_use)), investigate suspicious activity, detect, prevent and combat harmful or unlawful behaviour, detect fraudulent behaviour and to maintain the integrity of our Services, including account takeover (“**ATO**”) prevention and support. | Basic Customer Information, Transaction Information, Product Usage Information, Supplemental Identification Information,  Institutional Information, Financial Information, Communications, Additional information you submit to us |
 
-However, we cannot guarantee that loss, misuse, unauthorized acquisition, or alteration of your data will not occur. Please recognize that you play a vital role in protecting your own personal information. When registering with our Services, it is important to choose a password of sufficient length and complexity, to not reveal this password to any third-parties, and to immediately notify us if you become aware of any unauthorized access to or use of your account.
+Data use to comply with our legal obligations
 
-Furthermore, we cannot ensure or warrant the security or confidentiality of information you transmit to us or receive from us by Internet or wireless connection, including email, phone, or SMS, since we have no way of protecting that information once it leaves and until it reaches us. If you have reason to believe that your data is no longer secure, please contact us using the contact information provided in the “How to contact us” section below.
+
 
-### 10\. RETENTION OF PERSONAL INFORMATION
+Our Services are subject to laws and regulations requiring us to collect, use, and store your personal information in certain ways. If you do not provide the personal information required by law, we will have to close your account.
 
-We store your personal information securely throughout the life of your CB Account. We will only retain your personal information for as long as necessary to fulfill the purposes for which we collected it, including for the purposes of satisfying any legal, accounting, or reporting obligations or to resolve disputes. While retention requirements vary by jurisdiction, information about our typical retention periods for different aspects of your personal information are described below.
+| Why and How We Use Your Information | Information Categories Used |
+| --- | --- |
+| To verify your identity<br><br>We are generally required to collect various pieces of personal information to properly identify or verify your identity and comply with other specific anti-money laundering (“**AML**”) or sanctions laws/regulations (e.g. funds transfer rules).  Our verification processes also involve electronic identification through the comparison of your ‘selfie’ against your provided verification information.  All such information is securely maintained by Coinbase and its service providers, and is only disclosed where permitted by law. | Basic Customer Information, Supplemental Identification Information, EIDV Information |
+| To determine your legal eligibility for certain regulated products<br><br>When you use certain locally regulated products or engage in certain advanced trading activities, we may be required to carry out additional checks to ensure your suitability (e.g. under the European Market Infrastructure Regulation). | Basic Customer Information, Financial Information, Supplemental Identification Information |
+| To comply with other legal and regulatory obligations<br><br>We may access, read, preserve, and disclose information when we believe it is reasonably necessary to comply with law, legal obligations, regulations, law enforcement, governmental, and other legal requests, court orders, or for disclosure to tax authorities. <br><br>Examples of laws that may require us to collect, use or disclose your information:<br><br>**Civil, commercial, criminal, or consumer protection matters:** where we are in receipt of a court order to disclose information for the purposes of court proceedings or regulatory inquiries (e.g. orders or mandatory requests under the Irish Competition and Consumer Protection Act 2014, US federal and state consumer protection and privacy laws, subpoenas from any court with jurisdiction, and/or Singapore Criminal Procedure Code 2010).<br><br>**Corporate and taxation matters:** obligations such as the Irish Companies Act 2014 and the Taxes Consolidation Act 1997, and the Internal Revenue Service code.<br><br>**Regulatory matters**: to comply with our regulatory obligations, including  engaging with our regulators, such as (but not limited to) the U.S. Commodity Futures Trading Commission, the National Futures Association, the U.S. Securities and Exchange Commission, the Central Bank of Ireland, the UK Financial Conduct Authority, the German federal financial supervisory authority ("**BaFin**"), the Monetary Authority of Singapore, and the Australian Securities and Investments Commission. | Basic Customer Information, Supplemental Identification Information , Institutional Information, Wallet Information, Transaction Information, Product Usage Information, Communications Information, Blockchain Data |
 
-* Personal information collected to comply with our legal obligations under financial or anti-money laundering laws may be retained after account closure for as long as required under such laws.
-    
-* Contact Information such as your name, email address and telephone number for marketing purposes is retained on an ongoing basis until you unsubscribe. Thereafter we will add your details to our suppression list to ensure we do not inadvertently market to you.
-    
-* Content that you post on our website such as support desk comments, photographs, videos, blog posts, and other content may be kept after you close your account for audit and crime prevention purposes (e.g. to prevent a known fraudulent actor from opening a new account).
-    
-* Recording of our telephone calls with you may be kept for a period of up to six years.
-    
-* Information collected via technical means such as cookies, webpage counters and other analytics tools is kept for a period of up to one year from expiry of the cookie.
-    
+Data use for our Legitimate Interests
 
-### 11\. THIRD-PARTY SITES AND SERVICES
+
 
-If you authorize one or more third-party applications to access your CB Services, then information you have provided to CB may be shared with those third parties. A connection you authorize or enable between your CB account and a non-CB account, payment instrument, or platform is considered an “account connection.” Unless you provide further permissions, Coinbase will not authorize these third parties to use this information for any purpose other than to facilitate your transactions using CB Services. Please note that third parties you interact with may have their own privacy policies, and CB is not responsible for their operations or their use of data they collect. Information collected by third parties, which may include such things as contact details, financial information, or location data, is governed by their privacy practices and Coinbase is not responsible for unauthorized third-party conduct. We encourage you to learn about the privacy practices of those third parties.
+We rely on our legitimate interests or those of third parties (like our other Customers and in some cases, the general public) where they are not outweighed by your rights and freedoms. In the EEA and UK, you have the right to object to, and seek the restriction of, this processing. See [**Section 7. Your Privacy Rights and Choices**](#your-privacy-rights-and-choices) for more information.
 
-Examples of account connections include:
-
-* Merchants: If you use your CB account to conduct a transaction with a third party merchant, the merchant may provide data about you and your transaction to us.
-    
-* Your Financial Services Providers: For example, if you send us funds from your bank account, your bank will provide us with identifying information in addition to information about your account in order to complete the transaction.
-    
-
-Information that we share with a third party based on an account connection will be used and disclosed in accordance with the third party's privacy practices. Please review the privacy notice of any third party that will gain access to your personal information. Coinbase is not responsible for such third party conduct.
-
-### 12\. CHILDREN'S PERSONAL INFORMATION
-
-We do not knowingly request to collect personal information from any person under the age of 18. If a user submitting personal information is suspected of being younger than 18 years of age, CB will require the user to close his or her account and will not allow the user to continue using our Services. We will also take steps to delete the information as soon as possible. Please notify us if you know of any individuals under the age of 18 using our Services so we can take action to prevent access to our Services.
-
-### 13\. INTERNATIONAL TRANSFERS
-
-To facilitate our global operations, CB may transfer, store, and process your personal information within our Affiliates, third-party partners, and service providers based throughout the world, including Ireland, Germany, Singapore, Japan, the UK, the US, the Philippines, and possibly other countries. We will protect your personal information in accordance with this Privacy Policy wherever it is processed and will take appropriate contractual or other steps to protect the relevant personal information in accordance with applicable laws. We contractually obligate recipients of your personal information to agree to at least the same level of privacy safeguards as required under applicable data protection laws. By communicating electronically with CB, you acknowledge and agree to your personal information being processed in this way.
-
-If you have a complaint about our privacy practices and our collection, use or disclosure of personal information please submit your request via our [Support Portal](https://support.coinbase.com/customer/portal/emails/new).
-
-**Data transferred out of the EU**
-
-We rely primarily on the European Commission’s Standard Contractual Clauses to facilitate the international and onward transfer of personal information collected in the European Economic Area (“EEA”), the United Kingdom and Switzerland (collectively “European Personal Information”), to the extent the recipients of the European Personal Information are located in a country that the EU considers to not provide an adequate level of data protection. This includes transfers from our EU-based CB operating entities to our US-based operating entity, Coinbase, Inc. We may also rely on an adequacy decision of the European Commission confirming an adequate level of data protection in the jurisdiction of the party receiving the information, or derogations in specific situations.
-
-Coinbase, Inc. is responsible for the processing of personal information it receives and subsequently transfers to a third party acting as an agent on its behalf. Before we share your information with any third party, Coinbase, Inc. will enter into a written agreement that the third party provides at least the same level of protection for the personal information as required under applicable data protection laws.
-
-Coinbase, Inc., also participates in and has certified its compliance with the EU-US Privacy Shield Framework. Under the Privacy Shield Framework, Coinbase, Inc. is subject to the authority of the Federal Trade Commission. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's Privacy Shield List at [https://www.privacyshield.gov](https://www.privacyshield.gov/).
-
-European data subjects with inquiries or complaints relating to our Privacy Shield certifications should first contact CB via our [Support Portal](https://support.coinbase.com/customer/portal/emails/new) or by emailing [dpo@coinbase.com](https://www.coinbase.com/legal/dpo@coinbase.com). If we are unable to resolve your complaint or dispute, you may refer your complaint to our designated independent dispute resolution mechanism, the International Centre for Dispute Resolution ("ICDR"), operated by the American Arbitration Association ("AAA"). For more information and to file a complaint, you may contact the International Centre for Dispute Resolution by phone at +1.212.484.4181, or by visiting the website [https://go.adr.org/privacyshield.html](https://go.adr.org/privacyshield.html).
-
-If your Privacy Shield complaint cannot be resolved through the above channels, under certain conditions, you may invoke binding arbitration for some residual claims not resolved by other redress mechanisms. See Privacy Shield Annex 1 at [https://www.privacyshield.gov/article?id=ANNEX-I-ntroduction](https://www.privacyshield.gov/article?id%3DANNEX-I-ntroduction).
-
-### 14\. YOUR PRIVACY RIGHTS AND CHOICES
-
-Depending on applicable law where you reside, you may be able to assert certain rights related to your personal information identified below. If any of the rights listed below are not provided under law for your operating entity or jurisdiction, CB has absolute discretion in providing you with those rights.
-
-Your rights to personal information are not absolute. Depending upon the applicable law, access to your rights under the applicable law may be denied: (a) when denial of access is required or authorized by law; (b) when granting access would have a negative impact on another's privacy; (c) to protect our rights and properties; (d) where the request is frivolous or vexatious, or for other reasons.
-
-* Access and portability. You may request that we provide you a copy of your personal information held by us. This information will be provided without undue delay subject to a potential fee associated with gathering of the information (as permitted by law), unless such provision adversely affects the rights and freedoms of others. In certain circumstances, you may request to receive your personal information in a structured, commonly used and machine-readable format, and to have us transfer your personal information directly to another data controller.
-    
-* Rectification of incomplete or inaccurate personal information. You may request us to rectify or update any of your personal information held by CB that is inaccurate. You may do this at any time by logging in to your account and clicking the Profile or My Account tab.
-    
-* Erasure. You may request to erase your personal information, subject to applicable law. If you close your CB Account, we will mark your account in our database as "Closed," but will keep certain account information, including your request to erase, in our database for a period of time as described above. This is necessary to deter fraud, by ensuring that persons who try to commit fraud will not be able to avoid detection simply by closing their account and opening a new account, and to comply with CB's legal obligations. However, if you close your account, your personal information will not be used by us for any further purposes, nor shared with third parties, except as necessary to prevent fraud and assist law enforcement, as required by law, or in accordance with this Privacy Policy.
-    
-* Withdraw consent. To the extent the processing of your personal information is based on your consent, you may withdraw your consent at any time. Your withdrawal will not affect the lawfulness of CB's processing based on consent before your withdrawal.
-    
-* Restriction of processing. In some jurisdictions, applicable law may give you the right to restrict or object to us processing or transferring your personal information under certain circumstances. We may continue to process your personal information if it is necessary for the defense of legal claims, or for any other exceptions permitted by applicable law.
-    
-* Automated individual decision-making, including profiling. CB relies on automated tools to help determine whether a transaction or a customer account presents a fraud or legal risk. In some jurisdictions, you have the right not to be subject to a decision based solely on automated processing of your personal information, including profiling, which produces legal or similarly significant effects on you, save for the exceptions applicable under relevant data protection laws.
-    
-* Marketing communications. You can opt-out of receiving marketing communications from CB. Direct marketing includes any communications to you that are only based on advertising or promoting our products and services. We will only contact you by electronic means (email or SMS) based on our legitimate interests, as permitted by applicable law, or your consent. If you do not want us to send you marketing communications, please go to your account settings to opt-out or submit a request via our [Support Portal](https://support.coinbase.com/customer/portal/emails/new). 
-    
-    * For users in the European Economic Area, the United Kingdom and Switzerland: To the extent we can rely on legitimate interest under the applicable law, we will only send you information about our Services that are similar to those which were the subject of a previous sale or negotiations of a sale to you. We will contact you by electronic means for marketing purposes only if you have consented to such communication. You may raise such objections with regard to initial or further processing for purposes of direct marketing, at any time and free of charge. 
-        
-
-**How to make a privacy request**
-
-You can make privacy rights requests relating to your personal information by going to your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights) or, if you cannot access the Dashboard, by contacting us via our [Support Portal](https://support.coinbase.com/customer/portal/emails/new). Our Privacy Rights Dashboard also allows you to set your communication preferences and make individual rights requests relating to your personal information. We strongly encourage you to make any individual rights requests through the Privacy Rights Dashboard because it ensures that you have been authenticated already (based on the KYC information you have provided to open your account and by providing the necessary login credentials and multi-factor authentication to access the account). Otherwise, when we receive an individual rights request via other intake methods, we may take steps to verify your identity before complying with the request to protect your privacy and security.
-
-**How to lodge a complaint**
-
-If you believe that we have infringed your rights, we encourage you to first submit a request via our [Support Portal](https://support.coinbase.com/customer/portal/emails/new) so that we can try to resolve the issue or dispute informally. If that does not resolve your issue, you may contact the CB Data Protection Officer at [dpo@coinbase.com](https://www.coinbase.com/legal/dpo@coinbase.com).
-
-If you reside in the EU, you can file a complaint with the International Centre for Dispute Resolution by phone at +1.212.484.4181, or by visiting the website [http://info.adr.org/safeharbor](http://info.adr.org/safeharbor), or your relevant data protection authority.
-
-In the UK, the relevant data protection authority is Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, 0303 123 1113, [casework@ico.org.uk](https://www.coinbase.com/legal/casework@ico.org.uk).
-
-In Ireland, the relevant data protection authority is the Data Protection Commission, Canal House, Station Road, Portarlington, R32 AP23 Co. Laois; phone: +353 (0761) 104 800; LoCall: 1890 25 22 31; Fax: +353 57 868 4757; email: [info@dataprotection.ie](https://www.coinbase.com/legal/info@dataprotection.ie)
-
-### 15\. CALIFORNIA PRIVACY RIGHTS
-
-In addition to the rights provided for above, if you are a California resident, you have the right to request information from us regarding whether we share certain categories of your personal information with third parties for the third parties' direct marketing purposes. To the extent we share you personal information in this way, you may receive the following information:
-
-* the categories of information we disclosed to third parties for the third parties' direct marketing purposes during the preceding calendar year; and
-    
-*  the names and addresses of third parties that received such information, or if the nature of their business cannot be determined from the name, then examples of the products or services marketed.
-    
-
-Pursuant to the California Consumer Privacy Act of 2018 (“CCPA”), California residents have certain rights in relation to their personal information, subject to limited exceptions. Any terms defined in the CCPA have the same meaning when used in this California Privacy Rights section. This section describes the categories of personal information CB has collected, the categories of personal information CB has disclosed, and a description of California residents’ rights.
-
-|     |     |     |
+| Why and How We Use Your Information | Legitimate Interests Relied On | Information Categories Used |
 | --- | --- | --- |
-**Categories of Personal Information Collected**
-The chart below described the categories of personal information CB has collected in the preceding 12 months, the sources and purpose of such collection, and the parties to whom the information was shared for business purposes.
-| Personal Information Category (corresponds to categories in CCPA §1798.140(o)(1)) | Sources of Personal Information and Why We Collect this Information (see Section 5 above for more information) | Disclosure of Personal Information (see “Why We Share Personal Information With Other Parties” heading above for more information) |
-| --- | --- | --- |
-| (A) Identifiers such as Personal Identification Information | Information you provide us; Information collected from third parties; Why we collect this information: see Section 5, subsections 1, 2, 3, 4, 5, 6, 8, 9, 11, and 12 | \- Third party identity verification services - Financial institutions - Service providers - Professional advisors - our Affiliates |
-| (B) Customer records such as signature | Information you provide us; Information collected from third parties; Why we collect this information: see Section 5, subsections 1, 2, 5, 6, and 11 | \- Third party identity verification services - Financial institutions - Service providers |
-| (C) Protected classifications under California and federal law, including gender, age and citizenship | Information you provide us; Information collected from third parties; Why we collect this information: see Section 5, subsection 1 | \- Third party identity verification services - Professional advisors |
-| (D) Commercial information such as records of services purchased, obtained, or considered | Information you provide us; Information we collect from you automatically; Information collected from third parties; Why we collect this information: see Section 5, subsections 3, 4, 5, 6, 8, 9, 10, 11 and 12 | \- Third party identity verification services - Financial institutions - Service providers - Professional advisors - our Affiliates |
-| (E) Biometric information | Information you provide us; Why we collect this information: see Section 5, subsection 1 | \- Third party identity verification services - Financial institutions |
-| (F) Usage Data | Information we collect from you automatically; Why we collect this information: see Section 5, subsections 2, 3, 4, 6, 7, 8, 9, 10, and 12 | \- Third party identity verification services - Service providers - Professional advisors - our Affiliates |
-| (G) Online Identifiers | Information we collect from you automatically; Why we collect this information: see Section 5, subsections 1, 3, 9 and 12 | \- Third party identity verification services - Service Providers |
-| (H) Sensory data, such audio, electronic, visual information | Information you provide to us; Why we collect this information: see Section 5, subsections 3, 4, 5 and 7 | Not applicable |
-| (I) Professional or employment-related information | Information you provide us; Information collected from third parties; Why we collect this information: see Section 5, subsections 1, 12 | \- Third party identity verification services - Service providers - our Affiliates |
-| (J) Inferences about preferences, characteristics, predispositions, etc. | Information you provide us; Information we collect from you automatically; Why we collect this information: see Section 5, subsections 9, 10, 12 | \- Service providers - Professional advisors - our Affiliates |
+| To customize your experience with our Services and otherwise improve our Services<br><br>In order to perform core metrics, customize your experience with our Services and to generally improve our Services, we collect information about your online activity while you are using the Services (for example, when and how often pages on our Sites are visited, and our Services are used). | It is in our interest to understand how you interact with the Services in order to customize and/or improve our products and Services and enable accurate and reliable reporting. | Basic Customer Information, Product Usage Information, Transaction Information |
+| To provide marketing communications to you<br><br>We use your information to send you targeted  marketing communications through email, mobile, in-app and push notifications or by SMS.<br><br>You may also see ads for our Services when you visit other apps and websites. | It is in our interest to promote Coinbase products and Services that you may be interested in. | Basic Customer Information, Institutional Information, Product Usage Information, Transaction Information, Information from our Marketing Partners |
+| To provide you with promotions<br><br>We use your information to provide promotions, including sweepstakes offers or other incentives and rewards for using our Services. | It is in our interest and your interest to reward customer loyalty. | Basic Customer Information, Wallet Information, Supplemental Identification Information, Transaction Information |
+| We preserve and share information with others, including law enforcement, civil litigants, and others who may issue legal requests <br><br>Where not otherwise required by law, and depending on the circumstances, we may preserve and share your information:<br><br>\- in response to requests from third parties, such as civil litigants, law enforcement, and other government authorities, for example to assist authorities in the investigation of fraud;<br><br>\- to promote the safety, security, and integrity of the Coinbase Service, network, our Customers, Users, employees, property and the public;<br><br>\- when we seek to protect ourselves in the context of litigation or other disputes, such as violations of our Customer Agreement and policies; and/or<br><br>\- to respond to Customer/claimant requests or communications, reviewing Customer accounts and transactions for litigation disputes, and recording account details for litigation and settlement purposes. | It is in our interest and the interest of the general public to prevent and address fraud, unauthorized use of the Services, violations of our terms or policies, or other harmful or illegal activity; to protect ourselves (including our rights, Coinbase personnel and property or the Service), our Customers or others, including as part of investigations or regulatory inquiries; to defend our legal rights and resolve disputes; to secure our platform and network, to verify accounts and activity, to combat harmful conduct, to detect, prevent and address fraud, abuse, spam and other bad experiences or to prevent death or imminent bodily harm. | Basic Customer Information, Supplemental Identification Information, Institutional Information, Wallet Information, Transaction Information, Product Usage Information, Communications Information, Blockchain Data |
+| To promote safety, security and integrity <br><br>Outside of performing our contract with you, we may use and analyze your information  to protect the integrity of our Services. For example, we may use it to:<br><br>\- log customer reports and patterns of suspicious behaviour to understand techniques being used by bad actors who may wish to interfere with the Services; and<br><br>\- to identify and investigate patterns of suspicious behaviour or violations of our policies and Terms. | It is in our interest and the interests of our Users and Customers to secure our platform and network, to verify accounts and activity, to combat harmful conduct, to detect, prevent and address fraud, abuse, spam and other bad experiences. | Any of the categories of information listed in [**Section 1. What Information We Collect.**](#what-information-we-collect) |
+| To research and innovate<br><br>We carry out surveys of your experience using the Services and the trading that you engage in to conduct and support research and innovation on topics related to our Services. | It is in our interest and our Customers’ interest to improve and iterate our Services through information obtained from these research surveys and interviews. | Basic Customer Information, Transaction Information, Product Usage Information, Communications, Research and In-App Survey Information |
+| To provide customer support<br><br>To provide communications and customer support through our Customer Support team and User Research team, including communications with interfaces such as our chatbots. | It is in our interest and our Customers’ interest to provide customer support and improve our Services. | Basic Customer Information, Supplemental Identification Information, Additional Information you submit to us |
 
-**California Residents’ Rights**
+Data use based on your consent
 
-Under the CCPA, you may have the following consumer rights. Please note that these rights are not absolute and in certain cases are subject to conditions or limitations as specified in the CCPA:
+
 
-* For personal information collected by us during the preceding 12 months preceding your request that is not otherwise subject to an exception, California residents have the right to access and delete their personal information. CB will not discriminate against those who exercise their rights. Specifically, if you exercise your rights, we will not deny you services, charge you different prices for services or provide you a different level or quality of services.
+When we use your information based on your consent, you have the right to withdraw your consent at any time on a go-forward basis (which will not affect our prior use of your data, based on your previously given consent). You may change your device-based or in-app settings anytime as described in [**Section 7. Your Privacy Rights and Choices.**](#your-privacy-rights-and-choices)
+
+| Why and How We Use Your Information | Information Categories Used |
+| --- | --- |
+| To enable device-based settings<br><br>Collecting information that you allow us to receive through the device-based settings you enable (such as access to your GPS location, camera or photos) which we use to provide the features or services described when you enable the setting. | App, browser, and device information |
+| To provide marketing communications to you<br><br>To send you targeted marketing communications through email, mobile, in-app, and push notifications or by SMS.<br><br>You may also see ads for our Services when you visit other apps and websites | Basic Customer Information, Institutional Information, Product Usage Information, Transaction Information, Information from our Marketing Partners, Additional information You Provide to Us |
+
+Data use to protect your or others’ vital interests
+
+
+
+| Why and How We Use Your Information | Information Categories Used |
+| --- | --- |
+| Preserving, reviewing, and sharing information with law enforcement and others<br><br>We may preserve, review, and share information with law enforcement and others in circumstances where someone’s vital interests require protection, such as in the case of emergencies. For example, where there is a risk to the well-being or life of a Coinbase Customer. | Basic Customer Information, Supplemental Identification Information, Institutional Information, Wallet Information, Transaction Information, Product Usage Information, Communications Information, Blockchain Data |
+
+If you reside outside the United Kingdom or EEA, the legal bases on which we rely in your country may differ from those listed above.
+
+3\. HOW AND WHY WE SHARE YOUR INFORMATION
+
+We work with service providers, partners and other third parties to help us provide our Services, and as a result we need to share certain information with these third parties.  Here’s how:
+
+Affiliates
+
+
+
+Personal information that we process and collect may be transferred between companies, Services, and employees affiliated with us as a normal part of conducting business and offering our Services to you. See [Section 11. Our Relationship With You](#our-relationship-with-you) for a list of our affiliated companies and Services. 
+
+Linked Third Party Websites
+
+
+
+When you use third-party services (like when you connect your Coinbase account with your bank account) or websites that are linked through our Services, the providers of those services or products may receive information about you that Coinbase, you, or others share with them. Please note that when you use third-party services or Coinbase Affiliate Services which are not governed by this Privacy Policy, their own terms and privacy policies will govern your use of those services and products.
+
+TRUST
+
+
+
+TRUST is a global, secure, and industry-driven solution designed to comply with a requirement known as the Travel Rule while protecting your security and privacy. Coinbase and other custodial cryptocurrency exchanges and financial institutions share certain basic information about their customers when sending funds over a certain amount to another financial institution. To learn more, see [Travel Rule FinCEN Advisory](https://www.fincen.gov/sites/default/files/advisory/advissu7.pdf).
+
+Professional advisors, industry partners, authorities and regulators
+
+
+
+We share your information described in [Section 1. What Information We Collect](#what-information-we-collect) with our advisors, regulators, tax authorities, law enforcement, government agencies, and industry partners to:
+
+\- respond pursuant to applicable law or regulations, court orders, legal process or government requests; 
+
+\- comply with our reporting and information sharing obligations with industry partners, including other Virtual Asset Service Providers (“VASPs”) and regulatory authorities; 
+
+\- detect, investigate, prevent, or address fraud and other illegal activity or security and technical issues; and 
+
+\- protect the rights, property, and safety of our Customers, Coinbase and its Affiliates, or others, including to prevent death or imminent bodily harm.
+
+Asset Transfer or Company Acquisition
+
+
+
+We may choose to buy or sell assets, and may share and/or transfer information about our Customers in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, merged, reorganized, or if we go out of business, enter bankruptcy, or go through some other change of control or similar event, your personal information could be one of the assets transferred to the acquiring party. 
+
+Third-Party Service Providers
+
+
+
+We work with third-party service providers to help us provide our Services. When we share information with third-party service providers in this capacity, we require them to use your information on our behalf in accordance with our instructions and terms and only process as necessary for the purpose of the contract. We work with different types of third-party service providers, including:
+
+| Types of Third-Party Service Providers We Use | What Information We Share |
+| --- | --- |
+| [Third-Party Electronic ID Verification Service Vendors](https://www.coinbase.com/legal/privacy/third-party-verification-vendors), including those that process biometric information<br><br>Vendors for tax reporting<br><br>Derivatives service providers<br><br>Retail merchants (to provide rewards/incentives)<br><br>Marketing and promotions providers (to promote our Services)<br><br>Telecommunications technology providers (to send you messages, including SMS messages)<br><br>CTF/AML service providers (for the purposes of transaction monitoring)<br><br>Data hosting service providers and payment vendors (for off-site data hosting)<br><br>Security service providers (for investigating fraud and security incidents)<br><br>Analytics providers (to understand how you use our Services)<br><br>Payment processing companies (to process transactions on our behalf)<br><br>Document repository services providers<br><br>Customer support vendors<br><br>Chatbots | Basic Customer Information, Supplemental Identification Information, EIDV Information, Institutional Information, Usage Information, Transaction Information, Blockchain Data, Wallet Information, Additional information you submit to us |
+
+4\. HOW LONG WE RETAIN YOUR PERSONAL INFORMATION
+
+We retain your information as needed to provide our Services, comply with legal obligations, or protect our or others’ interests. While retention requirements vary by country, we maintain internal retention policies on the basis of how information needs to be used. This includes considerations such as when the information was collected or created, whether it is necessary in order to continue offering you our Services, whether we are required to hold the information to comply with our legal obligations, including AML/KYC compliance or other financial regulatory obligations, or information preservation requirements. We also keep certain information where necessary to protect the safety, security and integrity of our Services, Customers, and Users. Our third-party electronic identity verification providers collect and retain biometric information for the period required for financial regulatory compliance or otherwise as required by applicable law. They retain this information for as long as set out in their [applicable notices/policies](https://www.coinbase.com/legal/privacy/third-party-verification-vendors). In line with these considerations, we delete information that is no longer needed for the above purposes when you close your account, or when you request deletion of your information (which you can initiate through your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights)).
+
+5\. CHILDREN'S PERSONAL INFORMATION
+
+The Sites and Services are not directed to persons under the age of 18, and we do not knowingly request or collect any information about persons under the age of 18. If you are under the age of 18, please do not provide any personal information through the Sites or Services. If a User or Customer submitting personal information is suspected of being younger than 18 years of age, Coinbase will require the relevant Customer or User to close his or her account, and will take steps to delete the individual’s information as soon as possible.
+
+6\. INTERNATIONAL TRANSFERS
+
+To facilitate our global operations, Coinbase, its Affiliates, third-party partners, and service providers may transfer, store, and process your personal information throughout the world, including Ireland, Germany, Singapore, the UK, the US, and the Philippines. [See here for more information](https://www.coinbase.com/legal/privacy/international-transfers). 
+
+If you reside in the EEA, Switzerland, or the United Kingdom, we rely upon a variety of legal mechanisms to facilitate these transfers of your personal information (collectively, “**European Personal Data**”).
+
+* We rely primarily on the European Commission’s Standard Contractual Clauses to facilitate the international and onward transfer of European Personal Data to third countries, including from our EU operating entities to Coinbase, Inc. in the United States. For a copy of the Standard Contractual Clauses, please contact dpo@coinbase.com. * In addition, we may rely on certain exemptions provided for under data protection law for our international transfers. We also rely on [adequacy decisions](https://ec.europa.eu/info/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) from the European Commission where available and exemptions provided for under data protection law. For example, because Coinbase operates and provides its Services globally, we need to share information with our Affiliates and to data centers outside the EEA in order to develop, offer, and improve our Services (Article 49(1)(b) GDPR). In addition, we may rely on certain exemptions for sharing personal information with law enforcement outside of the EEA in emergency situations (Article 49(1)(f) GDPR).
     
-* To the extent we sell your personal information to third parties, you also have the right to request that we disclose to you: (i) the categories of your personal information that we sold, and (ii) the categories of third parties to whom your personal information was sold. You have the right to direct us not to sell your personal information. CB does not sell your personal information in its ordinary course of business and will never sell your personal information to third parties without your explicit consent.
+
+EU-US, UK-US, and Swiss-US  Data Privacy Framework
+
+Coinbase complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) (together referred to as the “Data Privacy Frameworks”) and the DPF Principles as set forth by the U.S. Department of Commerce. Coinbase has certified to the U.S. Department of Commerce that it adheres to:
+
+* the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF;
+    * the UK-U.S. Data Privacy Framework Principles (EU-UK DPF Principles) with regard to the processing of personal data received from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF; and
+    * the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  
+
+In the context of an onward transfer, Coinbase has responsibility for the processing of personal data it receives under the DPF and subsequently transfers to a third party acting as a service provider, partner and/or other third party to help us provide our Services on our behalf (as described in Section 4 of this policy). Coinbase remains liable under the DPF if any such third party processes personal data in a manner inconsistent with the DPF, unless Coinbase can prove that we are not responsible for the event giving rise to the damage. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, visit [https://www.dataprivacyframework.gov](https://www.dataprivacyframework.gov/)  
+
+In compliance with the Data Privacy Frameworks, Coinbase commits to resolve all DPF Principles-related complaints about our collection and use of your personal information.  EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the relevant Data Privacy Frameworks should first contact Coinbase at: [dpo@coinbase.com](mailto:dpo@coinbase.com) 
+
+For unresolved complaints concerning our handling of personal information in reliance on the Data Privacy Frameworks, Coinbase is a member of and relies upon the ICDR-AAA services for the Data Privacy Framework Program, see here [https://go.adr.org/dpf\_irm.html](https://go.adr.org/dpf_irm.html), which may involve, under certain conditions, binding arbitration.
+
+The Federal Trade Commission has jurisdiction over Coinbase’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
+
+7\. YOUR PRIVACY RIGHTS AND CHOICES
+
+Depending on where you live, you may be able to exercise certain privacy rights related to your personal information. For any of your privacy rights and choices referenced below, requests relating to your personal information can be made by logging into your account and going to your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights) or by submitting a request via our [Support Portal](https://help.coinbase.com/en) or at [dpo@coinbase.com](mailto:dpo@coinbase.com). If any of the rights listed below are not provided under law for your operating entity or jurisdiction, Coinbase has absolute discretion in providing you with these rights.
+
+* **Right to access and portability**_:_ 
     
+    * You may request that we provide you a copy of your personal information held by us through your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights), or by submitting a request via our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase). * **Right to rectification**_:_ 
+    
+    * You may request us to rectify or update any of your personal information held by Coinbase that is incomplete or inaccurate by logging in to your account and clicking the Profile or My Account tab.
+        * **Right to deletion/erasure**_:_ 
+    
+    * You may request to erase your personal information, subject to applicable law. If you close your Coinbase Account, we will retain or delete information associated with your account as described in [**Section 4. How Long We Keep Your Personal Information**](#how-long-we-keep-your-information)**.**
+        * **Right to withdraw your consent**_:_ 
+    
+    * To the extent the processing of your personal information is based on your consent, you may withdraw your consent at any time. The lawfulness of Coinbase’s processing before you withdraw your consent will not be affected by such withdrawal.
+        * **Right to object to or restrict processing**_:_ 
+    
+    * You may have the right to restrict or object to us using or transferring your personal information based on our legitimate interests, in the public interest, or for direct marketing. We may continue to process your personal information where permitted or required by applicable law. You can opt-out of receiving marketing communications from Coinbase through your account settings or by submitting a request via our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase).  * **Right to non-discrimination**: We will not discriminate against you for exercising any of your rights provided to you under law.
+    * **Right to lodge a complaint:**  
+    
+    * If you reside in the EEA, Switzerland, or the UK, you have the right to lodge a complaint about our practices with respect to your personal information with the supervisory authority of your country or state. In the UK, the relevant data protection authority is the Information Commissioner's Office, Wycliffe House, Water Lane, Wilmslow, Cheshire, SK9 5AF, +44 (0303) 123 1113, email: casework@ico.org.uk. In Ireland, the relevant data protection authority is the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, +353 017650100 / + 353 1800437737, email: info@dataprotection.ie or by using the following online form: [Forms for Data Protection](https://forms.dataprotection.ie/contact).
+        * If you reside in Australia or the Philippines, you may lodge a complaint about our practices with respect to your personal information with the supervisory authority of your country. In Australia, the relevant data protection authority is the Office of the Australian Information Commissioner, and complaints may be made through their website at [www.oaic.gov.au](http://www.oaic.gov.au/). In the Philippines, the relevant data protection authority is the National Privacy Commission, email: complaints@privacy.gov.ph.
+        
 
-Should CB engage in any of the activities listed in this section, your ability to exercise these rights will be made available to you in your account settings. You can exercise your rights by going to your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights) or contacting us via our [Support Portal](https://support.coinbase.com/customer/portal/emails/new) so that we may consider your request.
+To protect your privacy and security, we may take steps to verify your identity before complying with your request and we may decline your request if we are unable to verify your identity.
 
-We will need to verify your identity before processing your request. In order to verify your identity, we will generally either require the successful login to your account or the matching of sufficient information you provide us to the information we maintain about you in our systems. Although we try to limit the personal information collected in connection with a request to exercise your rights, certain requests may require us to obtain additional personal information from you. In certain circumstances, we may decline a request to exercise the right to know and right to deletion, particularly where we are unable to verify your identity.
+Under certain US data privacy laws, as well as in Brazil, you may also designate an authorized agent to make these requests on your behalf. 
 
-If you are a California resident, you may designate an authorized agent to make a request to access or a request to delete on your behalf. To do so, you must: (1) provide that authorized agent written and signed permission to submit such a request; and (2) verify your own identity directly with us. Please note, we may deny a request from an authorized agent that does not submit proof that they have been authorized by you to act on your behalf. We will respond to your authorized agent's request if they submit proof that they are registered with the California Secretary of State to be able to act on your behalf, or submit evidence you have provided them with power of attorney pursuant to California Probate Code section 4121 to 4130. We may deny requests from authorized agents who do not submit proof that they have been authorized by you to act on their behalf, or are unable to verify their identity.
+_These rights are not absolute, and may be denied: (a) when granting access or assisting portability would adversely affect the rights and freedoms of others; (b) to protect our rights and properties; (c) where the request is frivolous or vexatious; or (d) as otherwise permitted by law._
 
-**Do Not Track**
+8\. PRIVACY NOTICE FOR UNITED STATES RESIDENTS
 
-Some Internet browsers - like Internet Explorer, Firefox, and Safari - include the ability to transmit "Do Not Track" or "DNT" signals. Since uniform standards for "DNT" signals have not been adopted, we do not currently process or respond to "DNT" signals.
+If you are a United States Resident, you can learn more about how we use your information and your privacy rights by reviewing our [United States Privacy Notice](https://www.coinbase.com/legal/unitedstates-privacy-notice). Any terms defined in the California Consumer Privacy Act (as amended) (“**CCPA**”) have the same meaning when used in the US Privacy Notice.
 
-### 16\. HOW TO CONTACT US
+9\. HOW TO CONTACT US WITH QUESTIONS
 
-If you have questions or concerns regarding this Privacy Policy, or if you have a complaint, please contact us on our [Support page](https://support.coinbase.com/), at [dpo@coinbase.com](https://www.coinbase.com/legal/dpo@coinbase.com), or by writing to us at the address of your operating entity (provided above).
+If you have questions or concerns regarding this Privacy Policy, or if you have a complaint, please contact us on our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase), at dpo@coinbase.com, or by writing to us at the address of your Coinbase service provider (provided in [**Section 11. Our Relationship With You**](#our-relationship-with-you) below).
+
+10\. CHANGES TO THIS PRIVACY POLICY
+
+We’re constantly trying to improve our Services, so we may need to change this Privacy Policy from time to time as well. We post any changes we make to our Privacy Policy on this page and, where appropriate, we will provide you with reasonable notice of any material changes before they take effect or as otherwise required by law. The date the Privacy Policy was last updated is identified at the top of this page.
+
+We may provide additional "just-in-time" disclosures or information about how we collect or use your information in the context of specific Services; these in-product notices may supplement or clarify our privacy practices or may provide you with additional choices about how we use your information.
+
+11\. OUR RELATIONSHIP WITH YOU
+
+If you reside in the EEA or Switzerland, Coinbase Ireland Limited, Coinbase Europe Limited and Coinbase Germany GmbH act as joint controllers in respect of your personal information. Coinbase Ireland Limited is the joint controller with primary responsibility for your personal information, including with respect to providing you with information and responding to any requests you may make under the GDPR. Please see more about how you can  exercise your rights under the GDPR through our [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights).
+
+CONSUMER/INSTITUTIONAL SERVICES
+
+
+
+NORTH AMERICA (UNITED STATES & CANADA)
+
+| Where You Reside | Services Provided | Your Coinbase Service Provider | Contact Address |
+| --- | --- | --- | --- |
+| United States | Digital Asset Services, Fiat Wallet services | Coinbase, Inc. CA Entity No.: C3548456 | Coinbase, Inc. c/o C T Corporation System 818 West Seventh St., Ste. 930 Los Angeles, California 90017 |
+| United States | Custodial Services | Coinbase Custody Trust Company, LLC (unless otherwise indicated in your service contract) NYS License # 122506 | Coinbase Custody Trust Company, LLC c/o C T Corporation System 28 Liberty Street New York, New York 10005 |
+| United States | Credit and Lending Services | Coinbase Credit, Inc. CA Entity No.: C4315976 | Coinbase Credit, Inc. c/o C T Corporation System 818 West Seventh St., Ste. 930 Los Angeles, California 90017 |
+| United States | Futures Trading | Coinbase Financial Markets, Inc. Entity No.: 4742037 | 100 Pine Street, Suite 1250, San Francisco, CA 94111 |
+| Canada | Digital Asset Services, Fiat Wallet services | Coinbase Canada, Inc. | 2600-1066 West Hastings Street; Vancouver BC  V6E3X1 |
+
+APAC
+
+| Where You Reside | Services Provided | Your Coinbase Service Provider | Contact Address |
+| --- | --- | --- | --- |
+| Singapore | Digital Asset Services, Fiat Wallet Services | Coinbase Singapore Pte. Ltd. Unique Entity No.: 201935002N | One Marina Boulevard, #28-00, Singapore 018989 |
+| Australia | Digital Asset Services, Fiat Wallet Services | Coinbase Australia Pty Ltd; ACN 654 922 442 | Coinbase Australia c/o TMF Corporate Services (Aust) Pty Limited, Suite 1 Level 11, 66 Goulburn Street, Sydney NSW 2000 Australia |
+| Anywhere | Custodial Services | Coinbase Custody International Limited (unless otherwise indicated in your service contract) Company No: 657718 | 70 Sir John Rogerson's Quay Dublin 2, Ireland |
+| Anywhere but Singapore, and New Zealand | Digital Asset Services | Coinbase Ascending Markets Kenya Limited | P.O. Box 10643, G.P.O. Nairobi, Kenya |
+| New Zealand | Digital Asset Services, Fiat Wallet Services | Coinbase Europe Limited. Company No: 675475<br><br>CB Payments, Ltd Company No: 09708629 FCA Register No: 900635 | 70 Sir John Rogerson's Quay Dublin 2, Ireland<br><br>The Scalpel, 18th Floor, 52 Lime Street, London, United Kingdom, EC3M 7AF |
+
+EEA (European Economic Area)
+
+| Where You Reside | Services Provided | Your Coinbase Service Provider | Contact Address |
+| --- | --- | --- | --- |
+| EEA and the United Kingdom | Digital Asset Services | Coinbase Europe Limited. Company No: 675475 | 70 Sir John Rogerson's Quay Dublin 2, Ireland |
+| Germany | Digital Asset Services | Coinbase Germany GmbH. Company No: HRB 213709 B. BaFin-ID 10158674 | Kurfürstendamm 22, 10719 Berlin, Germany |
+| EEA | Fiat Wallet Services | Coinbase Ireland Limited. Company No: 630350 CBI Register No: C188493 | 70 Sir John Rogerson's Quay Dublin 2, Ireland |
+| United Kingdom (and select non-EEA countries in Europe) | Fiat Wallet Services | CB Payments, Ltd Company No: 09708629 FCA Register No: 900635 | The Scalpel, 18th Floor, 52 Lime Street, London, United Kingdom, EC3M 7AF |
+| EEA | Custodial Services | Coinbase Custody International Limited (unless otherwise indicated in your service contract) Company No: 657718 | 70 Sir John Rogerson's Quay Dublin 2, Ireland |
+
+OUTSIDE EU, US, UK, APAC
+
+| Where You Reside | Services Provided | Your Coinbase Service Provider | Contact Address |
+| --- | --- | --- | --- |
+| Anywhere but North America, APAC, EEA | Digital Asset Services | Coinbase Ascending Markets Kenya Limited | P.O. Box 10643, G.P.O. Nairobi, Kenya |
+
+OTHER
+
+| Where You Reside | Services Provided | Your Coinbase Service Provider | Contact Address |
+| --- | --- | --- | --- |
+| Anywhere but the USA | Digital Asset Services | Coinbase Bermuda Limited | Park Place, 55 Par La Ville Road, Hamilton, HM11 Bermuda |
+| Anywhere but US, UK, APAC, EEA | Digital Asset Services | Coinbase Bermuda Services Limited | Park Place, 55 Par La Ville Road, Hamilton, HM11 Bermuda |
+| Brazil | Digital Asset Services | Coinbase Brasil Ltda | City of Sao Paulo, State of Sao Paulo, at Alameda Santos, 2300, Suite 11 part, Cerqueira Cesar, ZIP Code 01418-200 |
+
+DEVELOPER SERVICES
+
+
+
+| Where You Reside | Services Provided | Your Coinbase Service Provider | Contact Address |
+| --- | --- | --- | --- |
+| Anywhere | Coinbase Pay SDK, Exchange API , Rosetta, Prime API, Sign In with Coinbase | Coinbase, Inc. CA Entity No.: C4315976 | Coinbase, Inc. c/o C T Corporation System 818 West Seventh St., Ste. 930 Los Angeles, California 90017 |
+| Anywhere | Wallet SDK and Commerce API | Toshi Holdings Pte. Ltd. | One Marina Boulevard, Postal 018989, Singapore |
+| Anywhere but the United States | Delegate & Participate | Coinbase Cloud Pte. Ltd. | One Marina Boulevard, #28-00018989, Singapore |
+| United States | Delegate & Participate | Coinbase Crypto Services, LLC | 1209 Orange Street, Corporation Trust Center City of Wilmington, DE 19801 |
