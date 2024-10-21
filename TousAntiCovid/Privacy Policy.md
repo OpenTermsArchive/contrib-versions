@@ -3,12 +3,12 @@
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
+ [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_cmjn.jpg?1728983893)
 
 sante.gouv.fr
 
 
-=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==================================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
  Rechercher :
 
@@ -754,7 +754,7 @@ sur les réseaux sociaux
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
 * [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
 
-![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845) 
+ ![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/200/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_cmjn.jpg?1728983892) 
 
 * 
 * [legifrance.gouv.fr](https://www.legifrance.gouv.fr/)
@@ -775,12 +775,12 @@ Sauf mention contraire, tous les contenus de ce site sont sous [licence etalab-2
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
+ [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_cmjn.jpg?1728983893)
 
 sante.gouv.fr
 
 
-=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==================================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
  Rechercher :
 
@@ -1521,12 +1521,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
+ [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_cmjn.jpg?1728983893)
 
 sante.gouv.fr
 
 
-=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==================================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
  Rechercher :
 
@@ -2167,50 +2167,50 @@ Recherche
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
+ [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_cmjn.jpg?1728983893)
 
 sante.gouv.fr
 
 
-=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==================================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
  Rechercher :
 
 Recherche 
 
-[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
+ [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_cmjn.jpg?1728983893)
 
 sante.gouv.fr
 
 
-=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==================================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
  Rechercher :
 
 Recherche 
 
-[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
+ [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_cmjn.jpg?1728983893)
 
 sante.gouv.fr
 
 
-=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==================================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
-[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
-
-sante.gouv.fr
-
-
-=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
-
-[![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
+ [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_cmjn.jpg?1728983893)
 
 sante.gouv.fr
 
 
-=========================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==================================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
 
-![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845)
+ [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_cmjn.jpg?1728983893)
+
+sante.gouv.fr
+
+
+==================================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+
+ ![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_cmjn.jpg?1728983893)
 
  Rechercher :
 
@@ -6959,7 +6959,7 @@ sur les réseaux sociaux
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
 * [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
 
-![Accueil Ministère de la santé et de l'accès aux soins](IMG/logo/logo_ministere_sante.jpg?1727195845) 
+ ![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/200/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_cmjn.jpg?1728983892) 
 
 * [Plan du site](https://sante.gouv.fr/spip.php?page=plan)
 * [Accessibilité : partiellement conforme](https://sante.gouv.fr/ministere/article/declaration-d-accessibilite-du-site-sante-gouv-fr)
