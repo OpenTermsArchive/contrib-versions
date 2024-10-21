@@ -24,7 +24,7 @@ Please read this policy carefully to understand our policies and practices regar
 
 **Children Under the Age of 18**
 
-**Our Service is not intended for children under 18 years of age.  No one under age 18 may provide any information to or on the Service.  We do not knowingly collect personal information from children under 18.  If you are under 18, do not use or provide any information on this Service, or on/or through any of its features.  If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will delete that information.  If you believe we might have any information from or about a child under 18, please contact us at:** [\[email protected\]](https://www.themirror.space/cdn-cgi/l/email-protection)**. Information We Collect About You and How We Collect It**
+**Our Service is not intended for children under 18 years of age.  No one under age 18 may provide any information to or on the Service.  We do not knowingly collect personal information from children under 18.  If you are under 18, do not use or provide any information on this Service, or on/or through any of its features.  If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will delete that information.  If you believe we might have any information from or about a child under 18, please contact us at:** [**legal@themirror.space**](mailto:legal@themirror.space)**. Information We Collect About You and How We Collect It**
 
 We collect several types of information from and about users of our Service, including information:
 
@@ -110,9 +110,9 @@ We may disclose personal information that we collect, or you provide as describe
 We strive to provide you with choices regarding the personal information you provide to us.  We have created mechanisms to provide you with the following control over your information:
 
 * **Tracking Technologies and Advertising**.  Do Not Track (“**DNT**”) is a privacy preference that users can set in certain web browsers.  You can set your browser to refuse all or some browser cookies, or to alert you when cookies are being sent.  If you disable or refuse cookies, please note that some parts of this Service may then be inaccessible, or not function properly.
-* **Disclosure of Your Information for Third-Party Advertising**.  If you do not want us to share your personal information with unaffiliated or non-agent third-parties for promotional purposes, you can opt-out by sending us an email stating your request to [\[email protected\]](https://www.themirror.space/cdn-cgi/l/email-protection).  
-* **Promotional Offers from the Company**.  If you do not wish to have your contact information used by the Company to promote our own or third-parties’ products or services, you can opt-out by sending us an email stating your request to [\[email protected\]](https://www.themirror.space/cdn-cgi/l/email-protection).  If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions.
-* **Targeted Advertising**.  If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by sending us an email stating your request to [\[email protected\]](https://www.themirror.space/cdn-cgi/l/email-protection).  
+* **Disclosure of Your Information for Third-Party Advertising**.  If you do not want us to share your personal information with unaffiliated or non-agent third-parties for promotional purposes, you can opt-out by sending us an email stating your request to [optout@themmirror.space](mailto:optout@themmirror.space).  
+* **Promotional Offers from the Company**.  If you do not wish to have your contact information used by the Company to promote our own or third-parties’ products or services, you can opt-out by sending us an email stating your request to [optout@themmirror.space](mailto:optout@themmirror.space).  If we have sent you a promotional email, you may send us a return email asking to be omitted from future email distributions.
+* **Targeted Advertising**.  If you do not want us to use information that we collect or that you provide to us to deliver advertisements according to our advertisers’ target-audience preferences, you can opt-out by sending us an email stating your request to [optout@themmirror.space](mailto:optout@themmirror.space).  
 
 We do not control third-parties’ collection or use of your information to serve interest-based advertising.  However, these third-parties may provide you with ways to choose not to have your information collected or used in this way.  You can opt-out of receiving targeted ads from users of the Network Advertising Initiative (“**NAI**”) on the NAI’s website: ([https://www.thenai.org/](https://www.thenai.org/)).
 
@@ -122,7 +122,7 @@ You can review and change your personal information by logging into the Service 
 
 If you are a California resident, California law may provide you with additional rights regarding our use of your personal information.  To learn more about your California privacy rights, visit [https://oag.ca.gov/privacy/ccpa](https://oag.ca.gov/privacy/ccpa).
 
-California’s “shine the Light” law (Civil Code Section § 1798.83) permits users of our App that are California residents to request certain information regarding our disclosure of personal information to third-parties for their direct marketing purposes.  To make such a request, please send an email to [\[email protected\]](https://www.themirror.space/cdn-cgi/l/email-protection) or write us at: 7901 4th St N, Suite 15196, St. Petersburg FL 33702.
+California’s “shine the Light” law (Civil Code Section § 1798.83) permits users of our App that are California residents to request certain information regarding our disclosure of personal information to third-parties for their direct marketing purposes.  To make such a request, please send an email to [legal@themirror.space](mailto:legal@themirror.space) or write us at: 7901 4th St N, Suite 15196, St. Petersburg FL 33702.
 
 **Your Nevada Privacy Rights**
 
@@ -146,6 +146,6 @@ It is our policy to post any changes we make to our Privacy Policy on this page,
 
 **Contact Information**
 
-To ask questions and/or comment about this Privacy Policy and our Privacy Practices, contact us at [\[email protected\]](https://www.themirror.space/cdn-cgi/l/email-protection).
+To ask questions and/or comment about this Privacy Policy and our Privacy Practices, contact us at [legal@themirror.space](mailto:legal@themirror.space).
 
 ‍
