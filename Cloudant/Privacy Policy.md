@@ -292,20 +292,25 @@ When personal information is no longer needed, we have processes in place to sec
 Your Rights
 -----------
 
-You have certain rights when it comes to the handling of your personal information. The **Contact Us** form in the header of this page can be used to:
+You have certain rights when it comes to the handling of your personal information.
 
-* request access to the personal information that we have on you, or have it updated or corrected. Depending on the applicable law, you may have additional rights concerning your personal information.
-* Request to obtain your personal information in a usable format and transmit it to another party (also known as the right to data portability).
-* Request to delete the personal information we hold about you.
-* Opt-out of specific personal information processing types, such as targeted advertising.
+The [Contact Us](http://ibm.biz/contactoprt "Contact Us") form can be used to:
+
 * ask questions related to this Privacy Statement and privacy practices. Your message is forwarded to the appropriate member of IBM's Data Privacy Team, including the responsible Data Protection Officers.
 * submit a complaint to IBM if you are not satisfied with how IBM is processing your personal information.
+
+The [Submit a data rights request form](http://ibm.biz/dsrrequest "Submit a data rights request form") can be used to:
+
+* request access to the personal information that we have on you, or have it updated or corrected. Depending on the applicable law, you may have additional rights concerning your personal information.
+* request to obtain your personal information in a usable format and transmit it to another party (also known as the right to data portability);
+* request to delete the personal information we hold about you;
+* Opt-out of specific personal information processing types, such as targeted advertising
 
 When you submit a Data Rights (DR) request, you provide us with personal information, including your name and contact details, which we use to respond to your request. In some circumstances, to verify your identity and to ensure we disclose the personal information to the correct individual, we may also request a copy of your photo ID, which is deleted immediately after verification of your identity.
 
 Upon your DR request, your personal information is processed for handling and fulfilling your DR request, in line with IBM's legal obligations and commitments related to DRs.
 
-You can verify the status of requests that you have submitted by using the DR webform in the IBM [Privacy Portal](https://www.ibm.com/privacy/portal/us-en "IBM Privacy Portal") for 90 days after completion of the request. The data relevant to your DR request is retained for a minimum of three years from the date of your last DR-related communication with IBM, to address any request you may have in relation to it, and for IBM's compliance and recording purposes.
+You can verify the status of requests that you have submitted by using the DR webform in the [IBM Trust Center](https://www.ibm.com/privacy/requests/dsr/us-en "IBM Trust Center") for 90 days after completion of the request. The data relevant to your DR request is retained for a minimum of three years from the date of your last DR-related communication with IBM, to address any request you may have in relation to it, and for IBM's compliance and recording purposes.
 
 For more information about how we process your data, see [Personal Information We Collect and Use](#Your_Account "Personal Information We Collect and Use").
 
@@ -366,7 +371,15 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 **Sections updated in this release:**
 
-1. IBM Websites
-2. Information Security and Retention
+1. Your Rights
+2. Your Additional Rights: Canada
+3. Your Additional Rights: Oman
+4. Your Additional Rights: Nebraska
+5. Your Additional Rights: New Hampshire
+6. Your Additional Rights: New Jersey
+
+* * *
+
+We have made our best effort to accurately translate the IBM Privacy Statement into this language. To report any translation concerns, select [Contact Us](https://ibm.biz/contactoprt "Contact Us") in the header of this page.
 
 * * *
