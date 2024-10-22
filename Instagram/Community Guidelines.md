@@ -3,6 +3,8 @@
 Community Guidelines
 ====================
 
+On November 12, 2024, these guidelines will move to our [Transparency Center](https://transparency.meta.com/policies/community-standards/) and we will refer to them as the Community Standards. This is part of our efforts to streamline your experience and make things easier to find. None of the standards will change and they will continue to apply across Instagram, Threads, Facebook, and Messenger.
+
 _**COVID-19: Community Guidelines Updates and Protections:** As people around the world confront this unprecedented public health emergency, we want to make sure that our Community Guidelines protect people from harmful content and new types of abuse related to COVID-19. We’re working to remove content that has the potential to contribute to real-world harm, including through our policies prohibiting coordination of harm, sale of medical masks and related goods, hate speech, bullying and harassment and misinformation that contributes to the risk of imminent violence or physical harm. To learn more about our policies on COVID-19 and vaccines, [see here.](https://help.instagram.com/697825587576762?helpref=faq_content)_
 
 The Short
