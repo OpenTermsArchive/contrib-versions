@@ -1,6 +1,6 @@
 Wargaming Privacy Policy
 
-Effective: 17 July 2020
+Effective: 18 October 2024
 
 We are committed to protecting and respecting your privacy. This Privacy Policy (“**Policy**”) describes how we collect, process, use and share your personal information when you download and play our games and use our websites, applications and other products.
 
@@ -28,9 +28,7 @@ In this Policy, “**Wargaming**”, “**we**”, “**us**” or “**our**”
 [http://worldofwarships.eu](http://worldofwarships.eu/)  
 [https://wotblitz.com](https://wotblitz.com/)  
 [https://wowsblitz.com](https://wowsblitz.com/)  
-[http://wargaming.net](http://wargaming.net/)  
-[https://godsandglory.com](https://godsandglory.com/)  
-[https://playcaliber.eu](https://playcaliber.eu/)
+[http://wargaming.net](http://wargaming.net/)
 
 (“**Sites**”).
 
@@ -52,9 +50,9 @@ Nicosia 1080
 Cyprus  
 Email: [dpo@wargaming.net](mailto:dpo@wargaming.net)
 
-**3\. CALIFORNIA AND NEVADA RESIDENTS**
+**3\. RESIDENTS OF U.S. STATES THAT PROVIDE ADDITIONAL RIGHTS**
 
-For California and Nevada residents, we have also prepared a supplemental privacy policy in compliance with the California Consumer Privacy Act of 2018 (“**CCPA**“) and Nevada law (NRS 603A.340). Please review our supplementary privacy policy attached below for more information.
+For residents of those U.S. states that provide additional rights under applicable law, including California, Colorado, Connecticut, Nevada, Utah, Montana, Oregon, Texas, and Virginia, please review our supplementary privacy policy attached below for more information.
 
 **4\. GENERAL INFORMATION IN BRIEF**
 
@@ -292,7 +290,7 @@ As a result of deleting your Account, you will lose access to most Products, inc
 
 **Information we retain.** Upon expiry of the suspension period we will delete all your Personal Data, except for the data which are required for our compliance with the requirements of applicable laws (e.g. tax and accounting requirements) or for our detection, investigation and prevention of cheating in the Game and EULA violations or to resolve disputes and enforce our agreements. We will also retain anonymous or de-identified information after your Account has been deleted. Information you have shared with others (e.g. through in-Games chats, updates or group posts) will remain visible after you have deleted your account or deleted the information from your own profile or mailbox, and we do not control the data that other members/users copied out of our Products. Groups content associated with deleted accounts will show an unknown user as the source. Your profile may continue to be displayed in the services of others (e.g. search engine results) until they refresh their cache.
 
-**COMPLAINTS**
+**9\. COMPLAINTS**
 
 If you have any issues with our compliance you may contact our Data Protection Officer as set out in section 2 above. You also have the right to lodge a complaint with the data protection regulator in your jurisdiction.
 
@@ -300,77 +298,150 @@ If you have any issues with our compliance you may contact our Data Protection O
 
 We may change this Policy from time to time for various reasons, such as legal and regulatory changes, changes in industry practices and technological developments that need to be reflected. If the changes are material, we may provide you additional notice to your email address.
 
-**ADDITIONAL DISCLOSURES FOR CALIFORNIA AND NEVADA RESIDENTS**
+**ADDITIONAL DISCLOSURES FOR RESIDENTS OF THOSE U.S. STATES THAT PROVIDE ADDITIONAL RIGHTS**
 
-These additional disclosures apply only to California and Nevada residents. For questions regarding this Policy, our data practices, or our compliance with applicable laws, please contact us as follows:
+**11\. U.S.-SPECIFIC PRIVACY NOTICE**
 
-**United States**
+This U.S.-Specific Privacy Notice (“**U.S. Privacy Notice**“) supplements our primary Policy. It applies to residents of those U.S. states that provide additional rights under applicable law, including California, Colorado, Connecticut, Nevada, Utah, Montana, Oregon, Texas, and Virginia, as applicable. Terms used in this U.S. Privacy Notice have the meaning given to them under applicable law.
 
-Address: 500 108th Ave NE, Suite 2350, Bellevue WA 98004-5582  
-Email: [privacy@wargaming.net](mailto:privacy@wargaming.net)
+**11.1. Notice At Collection**
 
-This Policy has been designed to be accessible to people with disabilities. If you experience any difficulties accessing the information here, please contact us at [privacy@wargaming.net](mailto:privacy@wargaming.net).
+At or before the time of collection of your personal information or your personal data (“**personal information**“), you have a right to receive notice of our data practices. Our data practices are as follows:
 
-**11\. CALIFORNIA RESIDENTS**
+**Categories of Personal Information**
 
-The California Consumer Privacy Act of 2018 (“**CCPA**”) provides additional rights to know, delete and opt-out, and requires businesses collecting or disclosing personal information to provide notices and means to exercise rights.
+We have collected the following categories of personal information in the past 12 months:
 
-**11.1. NOTICE OF COLLECTION**
+– Contact identifiers – such as email address and nickname; name, postal address, and phone number when required for specific purposes such as customer support or fulfilling certain services.
 
-In the past 12 months, we have collected the following categories of personal information enumerated in the CCPA:
+– Characteristics or demographics – such as date of birth, country, and in some cases, gender.
 
-* **Identifiers**, including name, postal address, email address, and online identifiers (such as IP address).
-* **Customer records**, including phone number, billing address, and credit or debit card information (as per section 5.2.6 above).
-* **Commercial or transactions information**, including records of products or services purchased, obtained, or considered.
-* **Internet activity**, including browsing history, and interactions with a website, email, application, or advertisement.
-* **Geolocation data**.
-* **Inferences drawn** from the above information about your predicted characteristics and preferences.
+– Commercial or transactions information – such as records of products or services purchased, obtained, or considered.
 
-For further details on information we collect, including the sources from which we may have collected personal information in the past 12 months, review the “Information We Collect” section above. We collect and use these categories of personal information for the business purposes described in the “How We Use Your Information” section above, including to manage our Products.
+– Device identifiers – such as device IP address and Ad ID.
 
-We do not generally sell information as the term “sell” is traditionally understood. To the extent “sale” under the CCPA is interpreted to include the activities set out in this Policy, such as those disclosed in section 5.2.1 above we will comply with applicable law as to such activity. We disclose the following categories of personal information for commercial purposes: identifiers, customer records, commercial or transactions information, internet activity, geolocation data, and inferences drawn. Please review the “How We Share Your Information” section above for further details about the categories of parties with whom we may have shared personal information in the past 12 months.
+– Device information – such as device operating software and browser (e.g., type, version, and configuration), internet service provider, and regional and language settings.
 
-**11.2. RIGHT TO KNOW AND DELETE**
+– Internet activity – such as information about browsing history and interactions, including features used, pages visited, content viewed, purchases made or considered, time of day browsed, and referring and exiting pages.
 
-You have the right to know certain details about our data practices in the past 12 months. In particular, you may request the following from us:
+– Non-precise location data – such as location derived from an IP address or data that indicates a city or postal code level.
 
-* The categories of personal information we have collected about you;
-* The categories of sources from which the personal information was collected;
-* The categories of personal information about you we disclosed for a business purpose or sold;
-* The categories of third parties to whom the personal information was disclosed for a business purpose or sold;
-* The business or commercial purpose for collecting or selling the personal information; and
-* The specific pieces of personal information we have collected about you.
+– Public content – such as content publicly posted on the service (such as in product reviews or blog comments).
 
-In addition, you have the right to delete the personal information we have collected from you.
+– Inferences drawn from any non-sensitive categories of personal information identified in this section.
 
-To exercise any of these rights, visit your Account Management tool. Alternatively, you can do so by submitting a request via email at [privacy@wargaming.net](mailto:privacy@wargaming.net). In the request, please specify which right you are seeking to exercise and the scope of the request. We will confirm receipt of your request within 10 days. We may require specific information from you to help us verify your identity and process your request. If we are unable to verify your identity, we may deny your requests to know or delete. For more information, please refer to section 8 above.
+– Account credentials – such as Wargaming ID, password, password hints, and other information for authentication or account access.
 
-For games developed by another developer and published by Wargaming on the Wargaming Game Center, you should exercise your rights directly with the other developer. If personal information about you has been processed by us as a service provider on behalf of the developer and you contact us to assist you on exercising your rights, please provide the name of the developer on whose behalf we processed your information. We will refer your request to that developer and will support them to the extent required by applicable law in responding to your request.
+– Sensitive identifiers – such as passport or driver’s license, collected only for specific purposes where necessary (e.g., for identity verification or compliance with legal requirements).
 
-**11.3. RIGHT TO OPT-OUT**
+– Payment information – such as payment instrument number (e.g., the first four digits of the credit or debit card number), billing address as necessary to process payments.
 
-To the extent Wargaming sells your personal information as the term “sell” is defined under the CCPA, you have the right to opt-out of the sale of your personal information by us to third parties at any time. You may submit a request to opt-out by clicking [Do Not Sell My Personal Information](https://wargaming.com/en/ccpa/).
+– Private content – such as content within any messages sent to us.
 
-**11.4. AUTHORIZED AGENT**
+– Precise location data – such as latitude / longitude, with consent.
 
-You can designate an authorized agent to submit requests on your behalf. However, we will require written proof of the agent’s permission to do so and verify your identity directly.
+For further details on the categories of personal information we have collected, see the Information We Collect section of our Policy.
 
-**11.5. RIGHT TO NON-DISCRIMINATION**
+**11.2. Sources of Personal Information**
 
-You have the right not to receive discriminatory treatment by us for the exercise of any your rights.
+For the categories of sources from which personal information is collected, see the Information We Collect section of our Policy.
 
-**11.6. FINANCIAL INCENTIVES**
+**11.3. Purposes for Processing Personal Information**
 
-The CCPA allows businesses to offer consumers financial incentives for sharing personal information. For example, a business can offer a reward program or provide other benefits or offerings to consumers as compensation for the personal information. Where we offer these programs, your participation is optional. If you choose to participate, your participation will be subject to any applicable terms.
+For the specific business and commercial purposes for collecting and using personal information, see the How We Use Your Information section of our Policy.
 
-**11.7. SHINE THE LIGHT**
+**11.4. Disclosure of Personal Information**
 
-Customers who are residents of California may request (i) a list of the categories of personal information disclosed by us to third parties during the immediately preceding calendar year for those third parties’ own direct marketing purposes; and (ii) a list of the categories of third parties to whom we disclosed such information. To exercise a request, please write us at the email or postal address set out above and specify that you are making a “California Shine the Light Request.” We may require additional information from you to allow us to verify your identity and are only required to respond to requests once during any calendar year.
+For the categories of third parties to whom personal information is disclosed, see the How We Share Your Information section of our Policy.
 
-**11.8. MINORS**
+**11.5. Retention of Personal Information**
 
-If you are a California resident under 18 years old and registered to use the Products, you can ask us to remove any content or information you have posted on the Products. To make a request, email us at [privacy@wargaming.net](mailto:privacy@wargaming.net) with “California Under 18 Content Removal Request” in the subject line, and tell us what you want removed. We will make reasonable good faith efforts to remove the post from prospective public view, although we cannot ensure the complete or comprehensive removal of the content and may retain the content as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+For the criteria used to determine the period of time personal information will be retained, see the Data Retention section of our Policy.
 
-**12\. NEVADA RESIDENTS**
+**11.6. Sensitive Personal Information**
 
-Nevada law (NRS 603A.340) requires each business to establish a designated request address where Nevada consumers may submit requests directing the business not to sell certain kinds of personal information that the business has collected or will collect about the consumer. A sale under Nevada law is the exchange of personal information for monetary consideration by the business to a third party for the third party to license or sell the personal information to other third parties. If you are a Nevada consumer and wish to submit a request relating to our compliance with Nevada law, please contact us at [privacy@wargaming.net](mailto:privacy@wargaming.net).
+Some of the personal information we collect may be considered sensitive personal information. For example, account credentials, sensitive identifiers, and payment information. We collect, use, and disclose such sensitive personal information only for the permissible business purposes for sensitive personal information or without the purpose of inferring characteristics about consumers. We do not sell or share sensitive personal information.
+
+**11.7. Secondary Uses**
+
+We do not sell personal information as that term is traditionally understood. However, some of our disclosures of personal information may be considered a “sale” or “share” under applicable law, including for California. For purposes of this U.S. Privacy Notice, a “sale” is broadly defined to include a disclosure for something of value, and a “share” is broadly defined to include a disclosure for cross-context behavioral advertising.
+
+We collect, sell, or share the following categories of personal information for commercial purposes: contact identifiers, characteristics, or demographics, commercial or transactions information, device identifiers, device information, internet activity, non-precise location data, public content, and non-sensitive inferences. The categories of third parties to whom we sell or share your personal information include, where applicable, vendors and other parties involved in cross-context behavioral advertising. We do not knowingly sell or share the personal information of minors under 16 years old who are California residents.
+
+For details on your rights regarding sales and shares, please see the Right to Opt-Out of Sales, Shares, and Targeted Advertising section below.
+
+**11.8. Profiling**
+
+We do not process personal information for purposes of profiling in furtherance of decisions that produce legal or similarly significant effects concerning consumers.
+
+**11.9. Financial Incentives**
+
+We may offer discounted prices or benefits to consumers who sign up for our rewards programs. Some states consider the exchange of personal information as part of a rewards program to be a financial incentive. Where we offer these programs, your participation is optional. If you choose to participate, your participation will be subject to any applicable terms which we will make available to you at the time you opt-in to participate.
+
+**12\. CONSUMER RIGHTS**
+
+**12.1. Verifiable Requests**
+
+Subject to exceptions, you may have some or all of the following rights under applicable law:
+
+– The right to confirm whether we are processing your personal information, and in some regions, confirm the categories of personal data we have processed.
+
+– The right to know what personal information we have collected about you, including the categories of personal information, the categories of sources from which personal information was collected, the business or commercial purposes for collecting, selling, or sharing personal information, the categories of personal information we sold, shared, or disclosed for a business purpose, and the categories of third parties to whom we disclosed personal information.
+
+– The right to access the specific pieces of personal information we have about you or obtain a copy in a portable and readily usable format.
+
+– The right to correct inaccuracies in your personal information.
+
+– The right to delete your personal information.
+
+If you are an Oregon resident, you also have the right to receive a list of the specific third parties to which we have disclosed personal data.
+
+To exercise any of the rights available to you, please submit a request through our form [here](https://wargaming.com/en/ccpa/) or send us an email at [privacy@wargaming.net](mailto:privacy@wargaming.net). If you have an account with us, you must submit your request through your account [here](https://na.wargaming.net/personal). We will confirm receipt and respond to the request within 45 days of receive or the time permitted by applicable law.
+
+To verify your identity, we will use the email address you provide us, which matches our records, and wait for your response. In some instances, we may ask for additional information to verify you. If we are unable to verify your identity, we may deny your request. We may retain personal information in accordance with our data retention practices.
+
+**12.2. Opt-Out of Sales, Shares, and Targeted Advertising**
+
+Subject to exceptions, you may have the right to opt-out of sales, shares, or the processing of your personal information for targeted advertising purposes. To exercise this right, click Do Not Sell or Share My Personal Information in the footer of any website to manage your tracking technology preferences or turn on a recognized opt-out preference signal, such as [Global Privacy Control](https://globalprivacycontrol.org/), in your browser or extension. Please note that when you opt-out through either of these methods we do not know who you are within our systems, and your opt-out only applies to personal information collected through tracking technologies on the specific site you are visiting. If you delete or reset your cookies, or use a different browser or device, you will need to reconfigure your settings.
+
+If you want the opt-out to apply to personal information we have about you in our systems, such as your email address, please click [here](https://wargaming.com/en/ccpa/) and submit a request. We will address your request in accordance with applicable law.
+
+**12.3. Authorized Agent**
+
+You can designate an authorized agent to submit requests on your behalf. To the extent permitted by applicable law, requests must be submitted through the designated methods listed above. Except for opt-out requests, we will require written proof of the agent’s permission to do so and may verify your identity directly.
+
+**12.4. Right to Non-Discrimination**
+
+Should you choose to exercise any of your rights as detailed herein, we will not discriminate against you by offering you different pricing or products, or by providing you with a different level or quality of products, based solely upon this request.
+
+**13\. CALIFORNIA LEGACY RIGHTS**
+
+**13.1. Shine The Light**
+
+Under California’s Shine the Light law, once per year, customers who are residents of California may request (i) a list of the categories of personal information disclosed by us to third parties during the immediately preceding calendar year for those third parties’ own direct marketing purposes; and (ii) a list of the categories of third parties to whom we disclosed such information. To make a request, please contact us and specify that you are making a “California Shine the Light Request”. Your request is subject to our verification and data retention practices.
+
+**13.2. Minors**
+
+If you are a California resident under 18 years old who is registered with us, you can ask us to remove any content you have publicly posted by contacting us and specifying you are making a “California Eraser Request”. We will make reasonable good faith efforts to remove the post from prospective public view, although we cannot ensure the complete removal. Your request is subject to our verification and data retention practices.
+
+**14\. CONSENT**
+
+You have the right to revoke consent previously given to us for the processing of your personal data. To revoke consent, write us at the email or postal address set out in the Contact Us section above (specifying the consent you wish to withdraw). If you withdraw consent, you may not be able to receive certain services related to that consent.
+
+**15\. APPEALS**
+
+If we refuse to take action on a request, you may appeal our decision within a reasonable period time by contacting us and specifying you wish to appeal. Within 60 days of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied, you may submit a complaint as follows:
+
+– For California residents, to the California AG at [https://oag.ca.gov/contact/consumer-complaint-against-business-or-company](https://oag.ca.gov/contact/consumer-complaint-against-business-or-company)  
+– For Colorado residents, to the Colorado AG at [https://coag.gov/file-complaint/](https://coag.gov/file-complaint/)  
+– For Connecticut residents, to the Connecticut AG at [https://www.dir.ct.gov/ag/complaint/](https://www.dir.ct.gov/ag/complaint/)  
+– For Nevada residents, to the AG at [https://ag.nv.gov/Complaints/CSU\_Complaints\_\_\_FAQ/](https://ag.nv.gov/Complaints/CSU_Complaints___FAQ/)  
+– For Utah residents, to the AG at [https://www.attorneygeneral.utah.gov/contact/complaint-form/](https://www.attorneygeneral.utah.gov/contact/complaint-form/)  
+– For Montana residents, to the Montana AG at [https://dojmt.gov/consumer/](https://dojmt.gov/consumer/)  
+– For Oregon residents, to the Oregon AG at: [https://justice.oregon.gov/consumercomplaints/](https://justice.oregon.gov/consumercomplaints/)  
+– For Texas residents, to the Texas AG at: [https://oag.my.salesforce-sites.com/CPDOnlineForm](https://oag.my.salesforce-sites.com/CPDOnlineForm)  
+– For Virginia residents, to the AG at [https://www.oag.state.va.us/consumercomplaintform](https://www.oag.state.va.us/consumercomplaintform)
+
+**16\. CONTACT US**
+
+For any enquiries related to this U.S. Privacy Notice, you can contact us by email at [privacy@wargaming.net](mailto:privacy@wargaming.net) or by post to 500 108th Ave NE, Suite 2350, Bellevue WA 98004-5582.
