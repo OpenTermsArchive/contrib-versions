@@ -158,7 +158,7 @@ Fostering Responsible Engagement
 Protecting Your Information
 ---------------------------
 
-* When you engage with us via social media (e.g. Twitter, Facebook, LinkedIn) it is important for you to know that information shared may be stored on that Site's servers, which are outside our control and may be in the U.S. or elsewhere inside or outside the EU. Any information posted to such Sites may be accessed and read by the general public. It is not an appropriate forum to discuss customers' products or financial arrangements
+* When you engage with us via social media (e.g. X, Facebook, LinkedIn) it is important for you to know that information shared may be stored on that Site's servers, which are outside our control and may be in the U.S. or elsewhere inside or outside the EU. Any information posted to such Sites may be accessed and read by the general public. It is not an appropriate forum to discuss customers' products or financial arrangements
 * We will never ask you to share personal, account, or security information via our social media sites. For your own protection, always be thoughtful about what you publish - particularly on external platforms. You must make sure you do not disclose or use confidential or proprietary information in any online social platform
 * Do not post materials on our pages that are false, fraudulent, libelous, defamatory, obscene, threatening, are invasive of privacy or publicity rights, infringe on intellectual property rights, are abusive, harassing, illegal, or otherwise objectionable
 
