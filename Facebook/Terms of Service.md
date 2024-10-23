@@ -1,10 +1,12 @@
-Meta Platforms, Inc. fournit maintenant Facebook au Royaume-Uni. Nous avons mis à jour nos Conditions de service et notre Politique de confidentialité afin de prendre en compte cette modification le 25 avril 2023. [En savoir plus sur Meta](https://about.facebook.com/meta) et notre vision du métavers.
-
   
   
   
 
 **Conditions de service**
+
+Nous mettons à jour les Conditions de service de Meta. Ces mises à jour prendront effet le 1er janvier 2025. [Consulter les nouvelles conditions](https://www.facebook.com/legal/terms/preview).
+
+  
 
 Meta conçoit des technologies et des services qui permettent à chacun et à chacune d’entrer en contact, de former des communautés et de développer les activités de leur entreprise. Les présentes Conditions de service (les « Conditions ») régissent votre utilisation de Facebook, de Messenger et d’autres produits, fonctionnalités, applications, services, technologies et logiciels que nous proposons (les [Produits Meta](https://www.facebook.com/help/1561485474074139?ref=tos) ou les [Produits](https://www.facebook.com/help/1561485474074139?ref=tos)), sauf lorsque nous indiquons expressément que des conditions distinctes s’appliquent au lieu des présentes. Ces Produits vous sont fournis par Meta Platforms, Inc.
 
