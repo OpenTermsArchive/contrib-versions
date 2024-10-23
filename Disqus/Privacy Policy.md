@@ -1,7 +1,5 @@
 Disqus Privacy Policy
 
-![Disqus avatar](https://static.intercomassets.com/avatars/512695/square_128/Disqus_d_icon_%28gray%29.svg-1472681159.png)
-
 Written by Disqus
 
 Updated over a week ago
@@ -72,7 +70,7 @@ Note that we may process your personal data for more than one lawful ground depe
   
 d.
 
-[![](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1729665000&signature=b7fc9d9895f2ee93246e3bad72814c7d908eb66bf4b72f10346160f2b1ea8f54&req=ciQkHsx8lINfFb4f3HP0gEi7rmt1xTvTtZEaR9RYXiXZQrLpSLNalA94daGy%0AfHFev9KjDINKT%2BOe5g%3D%3D%0A)](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png?expires=1729665000&signature=b7fc9d9895f2ee93246e3bad72814c7d908eb66bf4b72f10346160f2b1ea8f54&req=ciQkHsx8lINfFb4f3HP0gEi7rmt1xTvTtZEaR9RYXiXZQrLpSLNalA94daGy%0AfHFev9KjDINKT%2BOe5g%3D%3D%0A)
+[![](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png)](https://downloads.intercomcdn.com/i/o/643852920/bfca548e5235e2bb09fd75fc/image+%2814%29.png)
 
 **6\. DISCLOSURES OF YOUR PERSONAL DATA**  
 a. We may sell or share your personal data with the parties set out below for the purposes set out in the table in the previous section.
