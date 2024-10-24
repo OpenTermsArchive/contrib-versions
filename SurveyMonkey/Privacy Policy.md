@@ -584,7 +584,7 @@ We assign a unique identification number to each TechFact. The ID will appear on
 
 **13.2 **SurveyMonkey Apply****
 
-SurveyMonkey Apply is an online application system that helps organizations collect applications, manage subscriptions and facilitate reviews. Our main Privacy Notice applies to [apply.surveymonkey.com](http://apply.surveymonkey.com/?ut_source=legal&ut_source2=privacy-information-specific-to-other-services&ut_source3=inline) (“SurveyMonkey Apply”) except where the Privacy Notice specifies a section that is applicable only to our survey tool. Responses and Respondents in this section are intended as reference to applicants and their applications for the purposes of use of SurveyMonkey Apply.  
+SurveyMonkey Apply is an online application system that helps organizations collect applications, manage subscriptions and facilitate reviews. Our main Privacy Notice applies to [apply.surveymonkey.com](https://apply.surveymonkey.com/?ut_source=legal&ut_source2=privacy-information-specific-to-other-services&ut_source3=inline) (“SurveyMonkey Apply”) except where the Privacy Notice specifies a section that is applicable only to our survey tool. Responses and Respondents in this section are intended as reference to applicants and their applications for the purposes of use of SurveyMonkey Apply.  
 When an applicant submits an application through SurveyMonkey Apply, their login information can be used for multiple applications across the SurveyMonkey Apply site.  
 If you have any questions about your personal information in the context of our SurveyMonkey Apply service, you can contact us [here](https://help.smapply.io/hc/en-us/sections/115000411593-Contact-Us).
 
