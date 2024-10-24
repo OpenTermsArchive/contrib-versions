@@ -12,6 +12,8 @@ General Terms and Conditions for the Supply of Energy.
   
 These terms and conditions, as amended from time to time (the “General Terms and Conditions”) together with the Customer Registration and Product Terms Sheet constitute the Energy Supply Contract between Energia Customer Solutions Limited and a person requesting a supply of Energy (the “Customer” or “you”).
 
+#### 
+
 1\. Definitions
 
 “**Agreement**” means the Energy Supply Contract comprising the Customer Registration, Product Terms Sheet, Privacy Statement and these General Terms and Conditions.
@@ -102,6 +104,8 @@ In the event of inconsistency between these General Terms and Conditions, the Pr
 
 Headings in this Agreement are inserted for convenience only and are to be ignored in the interpretation of this Agreement. References to persons or parties in this Agreement shall include successors and assigns.  References to any Laws or documents shall be read as references to such Laws or documents as amended, repealed or replaced from time to time.  “Including” and “include” or any similar expression shall be construed as illustrative and shall not limit the words preceding them.
 
+#### 
+
 2\. Duration
 
 2.1 This Agreement shall commence on the Start Date and shall continue until the Termination Date.
@@ -114,6 +118,8 @@ Headings in this Agreement are inserted for convenience only and are to be ignor
 
 2.5 Energia shall be entitled to rely on the information provided by registered third party representatives in respect of applications submitted on behalf of Vulnerable Customers.
 
+#### 
+
 3\. Conditions Precedent
 
 3.1 You are connected to the system of, and are entitled to take supply of electricity and gas from, the system of the Relevant System Operator, and agree to be bound by the terms and conditions of the Connection Agreement.
@@ -121,6 +127,8 @@ Headings in this Agreement are inserted for convenience only and are to be ignor
 3.2 Where you are transferring from another supplier to Energia, all relevant Customer transfer processes are completed including transfer of meter registration to Energia.
 
 3.3 Your meter must be capable of providing data at the required level of granularity to avail of some of our tariffs.
+
+#### 
 
 4\. Variation To This Agreement
 
@@ -131,6 +139,8 @@ Headings in this Agreement are inserted for convenience only and are to be ignor
 4.3 You may terminate this Agreement under Clause 13.3 if there is any material change to the General Terms and Conditions.
 
 4.4 The General Terms and Conditions applicable from time to time are available at [www.energia.ie](http://www.energia.ie/) or will be provided on request.
+
+#### 
 
 5\. Charges
 
@@ -145,6 +155,8 @@ Headings in this Agreement are inserted for convenience only and are to be ignor
 5.5 Pass Through Charges, including VAT and other taxes and government levies or taxes, and standing charges may change from time to time. You will be liable for any such changed Pass Through Charges or standing charges from time to time, whether or not notified in advance by Energia.
 
 5.6 Energia will notify you if your Energy consumption is in excess of what we reasonably deem to be appropriate for a domestic customer. In the event that your consumption exceeds the threshold for a reasonable domestic customer, Energia reserves the right to change you to a Tariff that would be more appropriate for your consumption.
+
+#### 
 
 6\. Terms Of Payment
 
@@ -174,6 +186,8 @@ In addition, if any amount due is not paid by the due date, Energia shall be ent
 
 6.9 Some Tariffs are calculated based on estimated consumption over a 12 month (or shorter) period. If you pay an equal amount each month for your Energy by direct debit or by any other payment method agreed by Energia (as appropriate), we may change the monthly amount payable by you and/or the number of months for which you will pay the equal amount following (for example) a review of your actual Energy usage or change in the Charges. You will be liable for any costs associated with this following recalculation of your bills or statements.
 
+#### 
+
 7\. Security
 
 7.1 Energia may request a security deposit from you in advance of the provision of the Energy supply. The decision to request a security deposit is taken on an account by account basis and can be influenced by security requirements and credit history of the Customer. The value and duration of the security requirement is based on all information available to Energia at the time of the decision. Security deposits may be applied to new and existing customers and, during the term of supply, Energia may increase an existing security deposit or request a new security deposit from you if:
@@ -200,6 +214,8 @@ In either case by cheque if you have provided Energia with a forwarding address 
 
 7.6  In the event that Energia’s credit terms are not met after one year Energia will continue to hold the security deposit in respect of your account.  In this instance, Energia will inform you of the steps which must be taken to satisfy Energia’s credit terms so that the security deposit will no longer be required. The security deposit will thereafter be kept until such time as Energia’s credit terms have been met for a continuous 12 month period, and the security deposit will be returned to you in the month following a determination by Energia that the credit terms have been met.
 
+#### 
+
 8\. Change Of Supplier
 
 8.1 You will not be charged for changing supplier.
@@ -213,6 +229,8 @@ In either case by cheque if you have provided Energia with a forwarding address 
 8.5  If you do not meet the credit terms set by Energia and you attempt to change supplier, a debt flag will be displayed on your account and be visible to the proposed new supplier.
 
 8.6  If you are a Pay As You Go Customer and you decide to move your electricity supply to another supplier, you will need to notify Energia in accordance with Clause 13. In addition, you will need to contact our call centre directly to request a deactivation code and to claim any refund that may be due to you.  Energia shall issue the deactivation code no later than 10 days of the receipt of the MM110 (change of supply) market message. The deactivation code may be issued to you over the phone from a call centre representative, or may be emailed to you.  Please see the Code of Practice on Pay as You Go Metering and Budget Controllers for more information, available on Energia’s website [www.energia.ie](http://www.energia.ie/).
+
+#### 
 
 9\. Pay As You Go Meter
 
@@ -228,6 +246,8 @@ In either case by cheque if you have provided Energia with a forwarding address 
 
 9.3 If you are a Pay As You Go Customer, you are at risk of losing any credit on your account if Energia ceases to operate in the electricity market.
 
+#### 
+
 10\. Metering
 
 10.1 Your Energy supply will be measured by the Meter that will be installed and maintained in line with your Connection Agreement. Any costs incurred in installing and maintaining the meter shall be payable by you. Energia has no responsibility for maintaining the Meter or any associated metering equipment.
@@ -242,6 +262,8 @@ In either case by cheque if you have provided Energia with a forwarding address 
 
 10.6 Customers which have commenced using smart meters may not revert to their previous metering profile.
 
+#### 
+
 11\. Emergency
 
 11.1 In the event of an Emergency or incident causing danger or requiring urgent attention at the Premises relating to your gas supply, you may contact the Gas Emergency Response Service on  1800 20 50 50.
@@ -249,6 +271,8 @@ In either case by cheque if you have provided Energia with a forwarding address 
 11.2  In the event of an Emergency or incident causing danger or requiring urgent attention at the Premises relating to your electricity supply you may contact the Electricity Emergency Response Service on 1800 372 999.
 
 11.3 In the event of an Emergency, supply of Energy to the Premises may be discontinued from the Premises at the request of the relevant Emergency Response Service or the Relevant System Operator.
+
+#### 
 
 12\. Liability & Force Majeure
 
@@ -273,6 +297,8 @@ In either case by cheque if you have provided Energia with a forwarding address 
 12.6 The exclusions and limitation of liability in this Clause 12 shall not apply to any claim on account of death or personal injury resulting from the negligence of either party.
 
 12.7 Nothing in this Clause 12 shall release you from your obligation to pay the Charges in accordance with Clause 3
+
+#### 
 
 13\. Term & Termination
 
@@ -348,6 +374,8 @@ In either case by cheque if you have provided Energia with a forwarding address 
 
 13.12 In the event of your death, either your personal representative, or the occupiers for the time being of the Premises, or both of them together, will be liable for any continued supply of electricity to the Premises until a new Agreement is entered into for the supply of electricity to the Premises or until this Agreement is terminated.
 
+#### 
+
 14\. Data Protection
 
 14.1 Protecting our customer’s Personal Data is important to Energia. Please see our Privacy Statement for details of how we process your Personal Data, in accordance with our obligations under the Data Protection Legislation. Our Privacy statement is available in your welcome pack and online at [https://www.energia.ie/energia-privacy](https://www.energia.ie/energia-privacy). We may update this statement from time to time and any changes will be notified on our website or otherwise will be notified as required by the Data Protection Law. The Privacy Statement forms part of this Agreement and by entering into this Agreement or taking Energy supply from Energia you are agreeing to be bound by the Privacy statement.
@@ -356,17 +384,23 @@ In either case by cheque if you have provided Energia with a forwarding address 
 
 14.3 In order to avail of certain Time of Use Tariffs, you agree to provide Energia with half hourly metering data on an ongoing basis. If you decide that you no longer wish to provide half hourly data to Energia, you will no longer be eligible to avail of the Time of Use Tariff.  Energia may terminate this Agreement and an exit fee may apply.
 
+#### 
+
 15\. Obligation To Provide Information
 
 15.1You must provide Energia within 5 days of request (or in the case of Emergency such shorter time as Energia may request) such information as Energia may request to enable it to comply with applicable Laws and must continue to provide Energia with all such information as soon as is reasonably practicable.
 
 15.2 The Customer is entitled to request its export data from Energia and shall be able to access its historical consumption data via a Harmonised Downloadable File available online.  Energia shall take reasonable and effective steps to refresh the data regularly and frequently.
 
+#### 
+
 16\. Change In Occupancy
 
 16.1 In the event that you move from the Premises and are replaced by a new occupant, you shall provide at least 2 days’ notice in writing to Energia, stating the date and time from which a new occupant will be occupying the Premises and whether the occupant will require Energy supply from Energia from such date (the “**Change in Occupancy Date**”). You must provide Energia with a closing meter reading. If you fail to do so, you shall be responsible for all Energy supplied by Energia and consumed at the Premises until the date when a new occupant is registered at the meter point. This is without prejudice to the provision of Clause 13.
 
 16.2 If you are the new occupant of a Premises and request Energy supply from Energia, you may be required to provide Energia with proof of residency at the Premises.
+
+#### 
 
 17\. Complaints
 
@@ -382,6 +416,8 @@ Dublin 2
    
 (b) By telephone on 0818 405 405; or  
 (c) By online query at [www.energia.ie](http://www.energia.ie/)
+
+#### 
 
 18\. Customer Charter & Codes Of Practice
 
@@ -409,9 +445,13 @@ Dublin 2
 
 18.4 Here you can find [The Codes of Practice](https://www.energia.ie/home/codes-of-practice) or by any of the means contained in Clause 20.1. If we fall in our commitments to you, you may be entitled to compensation. 
 
+#### 
+
 19\. Marketing
 
 19.1  Depending on your preferences, Energia and/or agents acting on behalf of Energia may wish to contact you by email, text message, post, telephone or in person with information about products and service (relating to Energy or other products and services including those offered by third parties) which may be of interest to you. If you do not wish to be contacted please exercise your right to opt-out. This can be exercised by writing to us at the address in 20.1.
+
+#### 
 
 20\. Notices
 
@@ -431,6 +471,8 @@ Attention: Customer Service Team,
 2. If delivered by pre-paid ordinary post within the jurisdiction in which you reside or is registered, 2 days after sending or if delivered by pre-paid ordinary post outside the jurisdiction in which you reside 5 days after sending;
 3. If delivered by facsimile, at the time that a transmission report is produced by the sender’s facsimile machine confirming that the transmission has been satisfactorily completed; or
 4. If delivered by electronic mail, at the time that the sender’s computer generates a message stating that the e-mail has been received.
+
+#### 
 
 21\. Deemed Contract
 
@@ -456,6 +498,8 @@ Attention: Customer Service Team,
 
 (c) ESB Networks General Conditions for Connection to the distribution system for customers with a connection less than 100kVA.
 
+#### 
+
 22\. Annual Prompt
 
 22.1 If you have remained on the same Tariff for 3 years following the commencement of this Agreement, Energia will notify you (on your bill, by email or by letter) of certain information such as:
@@ -472,6 +516,8 @@ Attention: Customer Service Team,
 
 22.4 Where a Customer has not switched to time-of-use 12 months after receiving a Time of Use Primer, Energia will contact the Customer, and every subsequent 12 month period thereafter where the Customer has not switched to time-of-use, with a Time of Use Reminder.
 
+#### 
+
 23\. Miscellaneous
 
 * Energia may assign or otherwise transfer the benefit and/or burden of this Agreement or any part of it. You may assign the Agreement only with written consent of Energia.
@@ -479,6 +525,8 @@ Attention: Customer Service Team,
 * Any waiver under this Agreement must be in writing. No waiver of any power or right shall be construed as a waiver of any other power or right. A waiver of a breach will not operate or be construed as a waiver of any other or further breach.
 * If any court of competent jurisdiction declares any provision of this Agreement void, that provision will be severed and the remainder of this Agreement will remain in full force and effect. If any provision of this Agreement becomes invalid or unenforceable or requires variation as a result of any change in any Law or trading arrangements, this Agreement will be amended by agreement between the parties, or failing such agreement, as determined by Energia acting in good faith, in such a way as to give effect to the commercial intent of the parties as set out in this Agreement.
 * The laws of Ireland will govern this Agreement and the parties accept the non-exclusive jurisdiction of the courts of Ireland
+
+#### 
 
 24\. EV Tariff (Our Electric Vehicle Plan)
 
@@ -516,6 +564,8 @@ Taxes and Pass-through charges
   
 VAT applied at current rates. The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.
 
+#### 
+
 25\. CEG Tariff (Clean Export Guarantee)
 
 •    If you are a Microgeneration Customer who meets the CEG Eligibility Criteria, you will receive from us the CEG Tariff in accordance with this Clause.  
@@ -525,6 +575,8 @@ VAT applied at current rates. The Public Service Obligation (PSO) Levy is set an
 •    Only Microgeneration Customers that meet the CEG Eligibility Criteria will be eligible to receive the CEG Tariff. Customers that refuse or previously refused a smart meter installation as offered by ESB Networks will be ineligible for the CEG Tariff.  
 •    Energia reserves the right to cease making payments under the CEG Scheme should you fail to meet the CEG Eligibility Criteria at any time.  
  
+
+#### 
 
 26\. Product Terms & Conditions
 
@@ -547,6 +599,8 @@ With our fix pay you can spread your energy costs out equally over 12 months hel
    
 If you do not pay by direct debit then we expect payment before the due date on any bills issued. Your bill is due for payment 14 days after your bill has been issued.
 
+#### 
+
 27\. Cashback Terms & Conditions
 
 **Cashback Offers:**  
@@ -557,9 +611,13 @@ The cashback amount will be applied as a credit to the customer’s Electricity
   
 To avail of the cashback offer you must be successfully signed up to Energia.  Only one cashback allowed per person. 
 
+#### 
+
 28\. Boiler Services Terms & Conditions
 
 Learn more about our [Boiler Services Terms and Conditions](https://www.energia.ie/getattachment/702455b3-c54b-4da9-9852-17502169c70b/Boiler-Services-Terms-and-Conditions.pdf?lang=en-GB)
+
+#### 
 
 29\. "Get a Quote Calculator" Promotional Terms & Conditions
 
@@ -575,6 +633,8 @@ Your Dual fuel and Electricity tariff discounts will apply for the period agree
   
 All prices are subject to change as per Energia standard terms and conditions. For new customers only that sign up online or over the phone.
 
+#### 
+
 30\. Contract Renewal Terms & Conditions
 
 Total discount is based on opting in to our Renewal Price Plan.  You must pay your bill by Direct Debit to avail of the Direct Debit Discount and use Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.    
@@ -585,13 +645,19 @@ Your renewal discount will be applied for 12 months and will begin on either you
    
 All prices are subject to change as per our General Terms and Conditions above.
 
+#### 
+
 31\. Free Gas Boiler Offer
 
 Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](https://www.energia.ie/getmedia/5057a354-08af-4088-a667-a4a54418dc39/Free-Gas-Boiler-Service-terms-and-conditions.pdf).
 
+#### 
+
 32\. Energia Solar & Battery Terms and Conditions
 
 ****View the terms and conditions [here](https://www.energia.ie/getmedia/cf7b9dbf-bdb0-41aa-aead-322081026d05/Solar-and-Battery-TC-s-and-Privacy-Policy-(final)-(11-11-2020)_2.pdf.aspx;).****
+
+#### 
 
 33\. Energia EV Charger Customer Terms and Conditions
 
@@ -829,6 +895,8 @@ Data Protection Officer, The Generali Building, Blanchardstown Retail Park, Dubl
 You have the right to lodge a complaint with the:  
 Data Protection Commission by writing to the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland or contacting them via their website at: [https://www.dataprotection.ie/](https://www.dataprotection.ie/).
 
+#### 
+
 34\. Revolut Customer Exclusive Offer
 
 Dual Fuel Terms:  
@@ -838,6 +906,8 @@ EAB €2,745, based on average annual usage. 12 month contract, discounted unit 
 Electricity Terms:  
   
 EAB €1,512, based on average annual usage. 12 month contract, discounted unit rates, standing charge, PSO levy and Carbon Tax, T&Cs and early termination fee apply. Valid from November 2020 & subject to change. Smart Home Voucher must be used at [https://smarthomestore.energia.ie/](https://smarthomestore.energia.ie/) by 31st December 2022. No cash equivalent will be provided. €50 cash back to be applied to 3rd customer bill.
+
+#### 
 
 35\. Newsletter competition terms and conditions
 
@@ -850,6 +920,8 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
 [View the March SnaG Ceolchoirm with HotHouse Flowers terms and conditions](https://www.energia.ie/getattachment/4d4e22fa-7099-4f21-9ea0-1948cccb0d9d/SnaG-Ceolchoirm-with-HotHouse-Flowers-Terms-and-Conditions-2024.pdf?lang=en-GB)  
   
 [View the Energy Smart Energy Tariffs Survey Competition terms and conditions](https://www.energia.ie/getattachment/a6b0211a-e290-4159-ab25-eea36a57c687/Energy-Smart-Energy-Tariffs-Survey-Competition-terms-and-conditions.pdf?lang=en-GB)
+
+#### 
 
 36\. Digital & Social Competition
 
@@ -869,9 +941,13 @@ General Social Compeition: Energia's decision regarding prize winners will be fi
   
 . 
 
+#### 
+
 37\. Download all Terms and Conditions
 
 You can download all Terms & Conditions [here.](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB)
+
+#### 
 
 Energia Rugby – Win two tickets to Leinster vs Edinburgh at the RDS Arena
 
