@@ -4,6 +4,7 @@ Energia Privacy Statement
 =========================
 
 We care about your privacy
+--------------------------
 
 Last updated April 2021.
 
