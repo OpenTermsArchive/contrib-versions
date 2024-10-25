@@ -38,6 +38,8 @@ Further information about the customer account is available in the [terms of use
 
 ### What data do we collect, and how and why do we process your data in connection with your customer account?
 
+#### Detailed information
+
 The aforementioned companies have formally agreed which of them performs a given task as part of this joint processing. The key features of this agreement are described below.
 
 **DB Vertrieb GmbH is responsible for the following**
@@ -91,7 +93,7 @@ It is not possible to create a personal account without supplying this informati
 When you book a digital ticket, our system uses the address details as well as surname and first name in your customer account. In addition, when you book an international ticket via international-bahn.de/bahn.com or certain regional offerings, our system uses the date of birth in your customer account, if you have included it. When the tickets are inspected on board the train, the train attendant's mobile terminal will display the information contained in the ticket.
 
 **Buying BahnCards**  
-When you purchase a BahnCard, our system uses the contact and identification data in your customer account. Further information on data processing in connection with the BahnCard can be found at: [www.db-vertrieb.com/datenschutz/datenschutz-bahncard](http://www.db-vertrieb.com/datenschutz/datenschutz-bahncard).
+When you purchase a BahnCard, our system uses the contact and identification data in your customer account. Further information on data processing in connection with the BahnCard can be found at: [https://www.db-fernverkehr.com/datenschutzhinweise/datenschutz-bahncard](https://www.db-fernverkehr.com/datenschutzhinweise/datenschutz-bahncard) (only in German)
 
 **Payment details in customer accounts**  
 We process your payment details when handling transactions, such as when you buy a product via bahn.de/bahn.com. Depending on the payment method chosen, we may forward your payment details to a third party, as we work with partner companies in order to process certain payment options. You can use the payment services of PayPal, paydirekt and Klarna without payment details being stored in your customer account.
