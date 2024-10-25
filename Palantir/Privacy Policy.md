@@ -725,4 +725,4 @@ Palo Alto, CA 94301
 
 _Email:_ privacy@palantir.com
 
-[Customize your communication preferences](https://pl.ntr/2ko)
+[Customize your communication preferences](https://privacyportal.onetrust.com/ui/#/preferences/multipage/login/030ec51c-230a-484d-b866-c008ee32ef0c)
