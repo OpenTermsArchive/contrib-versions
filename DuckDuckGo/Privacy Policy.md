@@ -8,11 +8,11 @@ That’s our Privacy Policy in a nutshell.
 
 ### About Us
 
-DuckDuckGo (officially, Duck Duck Go, Inc.) has been an independent company since our founding in 2008. While we started as a search engine, [our apps and extensions](https://duckduckgo.com/app?origin=) now offer protection well beyond search, including when [browsing the web](https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/), [reading email](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/), and even [using other apps](https://spreadprivacy.com/app-tracking-protection-open-beta/).
+DuckDuckGo (officially, Duck Duck Go, Inc.) has been an independent company since our founding in 2008. While we started as a search engine, [our apps and extensions](https://duckduckgo.com/app?origin=funnel_home) now offer protection well beyond search, including when [browsing the web](https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/), [reading email](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/), and even [using other apps](https://spreadprivacy.com/app-tracking-protection-open-beta/).
 
 Trackers lurk nearly everywhere online, trying to scoop up your search history, browsing history, location history, and more. Even everyday online activities like purchasing groceries or looking up the local weather can result in dozens of companies tracking you.
 
-Other companies track your data — like your search and browse history — to create detailed profiles about you, and then use those profiles to follow you around with ads so creepy it can seem like your devices are listening in on you (even when they aren’t). These profiles are also used by companies to influence what you see online, which can lead to manipulation and discrimination. That’s why we offer an [all-in-one privacy product](https://duckduckgo.com/app?origin=) as a privacy preserving alternative to products like Google Search and Google Chrome, to help protect your everyday online activities.
+Other companies track your data — like your search and browse history — to create detailed profiles about you, and then use those profiles to follow you around with ads so creepy it can seem like your devices are listening in on you (even when they aren’t). These profiles are also used by companies to influence what you see online, which can lead to manipulation and discrimination. That’s why we offer an [all-in-one privacy product](https://duckduckgo.com/app?origin=funnel_home) as a privacy preserving alternative to products like Google Search and Google Chrome, to help protect your everyday online activities.
 
 ### Privacy Policy
 
@@ -82,11 +82,11 @@ We will notify you of changes by posting the modified version on our website. We
 
 ### About Us
 
-DuckDuckGo (officially, Duck Duck Go, Inc.) has been an independent company since our founding in 2008. While we started as a search engine, [our apps and extensions](https://duckduckgo.com/app?origin=) now offer protection well beyond search, including when [browsing the web](https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/), [reading email](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/), and even [using other apps](https://spreadprivacy.com/app-tracking-protection-open-beta/).
+DuckDuckGo (officially, Duck Duck Go, Inc.) has been an independent company since our founding in 2008. While we started as a search engine, [our apps and extensions](https://duckduckgo.com/app?origin=funnel_home) now offer protection well beyond search, including when [browsing the web](https://duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/), [reading email](https://spreadprivacy.com/protect-your-inbox-with-duckduckgo-email-protection/), and even [using other apps](https://spreadprivacy.com/app-tracking-protection-open-beta/).
 
 Trackers lurk nearly everywhere online, trying to scoop up your search history, browsing history, location history, and more. Even everyday online activities like purchasing groceries or looking up the local weather can result in dozens of companies tracking you.
 
-Other companies track your data — like your search and browse history — to create detailed profiles about you, and then use those profiles to follow you around with ads so creepy it can seem like your devices are listening in on you (even when they aren’t). These profiles are also used by companies to influence what you see online, which can lead to manipulation and discrimination. That’s why we offer an [all-in-one privacy product](https://duckduckgo.com/app?origin=) as a privacy preserving alternative to products like Google Search and Google Chrome, to help protect your everyday online activities.
+Other companies track your data — like your search and browse history — to create detailed profiles about you, and then use those profiles to follow you around with ads so creepy it can seem like your devices are listening in on you (even when they aren’t). These profiles are also used by companies to influence what you see online, which can lead to manipulation and discrimination. That’s why we offer an [all-in-one privacy product](https://duckduckgo.com/app?origin=funnel_home) as a privacy preserving alternative to products like Google Search and Google Chrome, to help protect your everyday online activities.
 
 ### Privacy Policy
 
