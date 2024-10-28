@@ -1,4 +1,4 @@
-_Last Updated: 5 June 2024_
+_Last Updated: 28 October 2024_
 
 For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/legal/privacy/us-notice)  
  
@@ -35,16 +35,16 @@ You are contracting with Kraken as specified in our [Terms of Service](https://w
 **4\. How do we protect personal data?**
 ----------------------------------------
 
-Kraken takes the security of personal data incredibly seriously. Please see [here](https://support.kraken.com/hc/en-us/articles/203248063-What-does-Kraken-do-to-secure-my-personal-information-) for further detail about our information security practices, and [here](https://www.kraken.com/features/security) for general security information.
+Kraken takes the security of personal data incredibly seriously. For additional information on our information security practices, please click [here](https://support.kraken.com/hc/en-us/articles/203248063-What-does-Kraken-do-to-secure-my-personal-information-), and for general security information, click [here](https://www.kraken.com/features/security).
 
 **5\. Information we may collect about you**
 --------------------------------------------
 
-We obtain information about you in a number of ways through your use of our products and services, including through any of our websites, the account opening process, webinar sign-up forms, event subscribing, news and updates subscribing and from information provided in the course of on-going support service communications.
+We obtain information about you in a number of ways through your use of our products and services, our websites, the account opening process, webinar sign-up forms, event subscribing, news and updates subscribing and from information provided in the course of on-going support service communications.
 
-In order to open an account with us, you must first complete and submit a “create account” form to us by completing the required information. By completing this form, you are requested to disclose personal data in order to enable Kraken to assess your application and comply with the relevant laws and regulations.
+In order to open an account with us, you must first complete and submit a “create account” form. By completing this form, you are requested to disclose personal data in order to enable Kraken to assess your application and comply with applicable laws and regulations.
 
-The minimum information required for entering into a contract governing your use of our products and services, and for enabling us to comply with our statutory obligations in respect of anti-money laundering and crime and fraud prevention, is biographical information and contact information, verification information, PEP information (defined below), and financial information. Without this information, we cannot commence, or continue to perform our services or provide our products to you.
+The minimum information required for entering into a contract governing your use of our products and services, and for enabling us to comply with our statutory obligations in respect of anti-money laundering and crime and fraud prevention, is "Biographical information and contact information", "Financial Information", "PEP information", and "Verification information" (each defined below). Without this information, we cannot commence, or continue to perform our services or provide our products to you.
 
 **The information that we collect from you is as follows:**
 
@@ -52,7 +52,7 @@ The minimum information required for entering into a contract governing your use
 * Bank account information, wallet addresses, credit card details, details about your source of funds, assets and liabilities, and information relating to economic and trade sanctions lists (“**Financial information**”);
 * Trading account balances, trading activity (such as whether you participate in Kraken's VIP program, and custodial activity), your inquiries and our responses (“**Trading information**”);
 * Information on whether you (or someone close to you) holds a prominent public function (“**PEP information**”);
-* Verification information, which includes information necessary to verify your identity such as a passport, driver’s licence, selfie photos / videos, login credentials or Government-issued identity card (“**Verification information**”);
+* Verification information, which includes information necessary to verify your identity such as a passport, driver’s licence, selfie photos / videos, login credentials or Government-issued identity card, which may be processed using technologies that extract biometric data (“**Verification information**”);
 * Other personal data or commercial and/or identification information – Information we, in our sole discretion, deem necessary to comply with our legal obligations under various AML obligations, such as under the European Union’s 5th AML Directive and the U.S. Bank Secrecy Act (“**Other information**”).
 
 **Information we collect about you automatically:**
@@ -91,7 +91,7 @@ Our operations are supported by a network of computers, servers, other infrastru
 **9\. For UK & EEA clients: Transfers of personal  data outside of the European Economic Area (EEA) and the United Kingdom (UK)**
 ---------------------------------------------------------------------------------------------------------------------------------
 
-We may transfer your personal data outside the EEA and UK to other Kraken group companies, service providers and business partners. Transfers outside of the EEA or the UK (as appropriate) are done in accordance with lawful transfer mechanisms. If personal data is transferred to a country which has been found by the European Commission to have an essentially equivalent standard of data protection to the EEA, then Kraken may rely on an ‘adequacy decision’ to transfer that personal data. See [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en#:~:text=The%20European%20Commission%20has%20so,Uruguay%20as%20providing%20adequate%20protection.) for a list of countries with adequacy decisions. If personal data is transferred from the EEA or UK to the US, we may rely on standard contractual clauses. 
+We may transfer your personal data outside the EEA and UK to other Kraken group companies, service providers and business partners. Transfers outside of the EEA or the UK (as appropriate) are done in accordance with lawful transfer mechanisms. If personal data is transferred to a country which has been found by the European Commission to have an essentially equivalent standard of data protection to the EEA, then Kraken may rely on an ‘adequacy decision’ to transfer that personal data. See [here](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en#:~:text=The%20European%20Commission%20has%20so,Uruguay%20as%20providing%20adequate%20protection.) for a list of countries with adequacy decisions. If personal data is transferred from the EEA or UK to the US, we may rely on Standard Contractual Clauses. 
 
 **10\. Privacy when using digital assets and blockchains**
 ----------------------------------------------------------
@@ -103,13 +103,13 @@ As blockchains are decentralized or third-party networks which are not controlle
 **11\. Data retention**
 -----------------------
 
-When personal data is no longer necessary for the purposes for which it may lawfully be processed, we will remove any details that will identify you, or we will securely destroy the relevant records. We may need to maintain records for a significant period of time after you cease being our client for legal or regulatory reasons, for example when we need to retain information to help manage a dispute or legal claim. Additionally, we are subject to certain anti-money laundering laws which may require us to retain the following for a period (e.g., 5 years) after our business relationship with you has ended:  
+When personal data is no longer necessary for the purposes for which it may lawfully be processed, we will remove any details that will identify you, or we will securely destroy the relevant records. We may need to maintain records for a significant period of time after you cease being our client for legal or regulatory reasons, for example, when we need to retain information to help manage a dispute or legal claim. Additionally, we are subject to certain anti-money laundering laws which may require us to retain the following for a period (e.g., 5 years) after our business relationship with you has ended:  
  
 
 * A copy of the records we used in order to comply with our client due diligence obligations;
 * Supporting evidence and records of transactions with you, and your relationship with us.
 
-If you have opted out of receiving marketing communications we will hold your details on our suppression list so that we know you do not want to receive these communications.
+If you have opted out of receiving marketing communications, we will keep your information on our suppression list to ensure that you do not receive these messages.
 
 We may keep your personal data for longer than 5 years if we cannot delete it for legal, regulatory, or technical reasons.
 
@@ -125,13 +125,13 @@ The rights that are available to you in relation to the personal data we process
 
 **Access**
 
-You can ask us to confirm whether we are processing your personal data and, if so, what information we process and to provide you with a copy of that information.
+You can ask us to confirm whether we are processing your personal data and, if so, what information we process. Should you wish to obtain a copy of that information, please contact [support@kraken.com](mailto:support@kraken.com).
 
 **Rectification**
 
 It is important to us that your personal data is up to date. We will take all reasonable steps to make sure that your personal data remains accurate, complete and up-to-date. Please inform us if your personal data changes. If the personal data we hold about you is inaccurate or incomplete, you are entitled to have it rectified. If we have disclosed your personal data to others, we will let them know about the rectification where possible. If you ask us, and if possible and lawful to do so, we will also inform you with whom we have shared your personal data.
 
-You may inform us at any time that your personal details have changed by emailing us at [support@kraken.com](mailto:support@kraken.com). Subject to applicable law, Kraken will change your personal data in accordance with your instructions. To proceed with such requests, in some cases we may need supporting documents from you as proof i.e. personal data that we are required to keep for regulatory or other legal purposes.
+You may inform us at any time if your personal details have changed by emailing us at [support@kraken.com](mailto:support@kraken.com). Subject to applicable law, Kraken will update your personal data in accordance with your instructions. To proceed with such requests, in some cases we may need supporting documents from you as proof, i.e. personal data that we are required to keep for regulatory or other legal purposes.
 
 **Erasure**
 
@@ -190,6 +190,14 @@ If you are not satisfied with our response to your complaint, you have the right
 Office of the Australian Privacy Commissioner  
 GPO Box 5218,  
 Sydney, NSW 2001, Australia
+
+**For residents of Bermuda:**
+
+The Office of the Privacy Commissioner   
+4th Floor Maxwell Roberts Building  
+1 Church Street   
+Hamilton, HM11  
+Bermuda
 
 **For residents of Canada:**
 
