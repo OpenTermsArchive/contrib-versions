@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-#### Last Updated: July 1, 2024
+#### Last Updated: October 28, 2024
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20240101/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20240701/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -325,7 +325,6 @@ We provide additional information about our controllers and data protection offi
     | NHN KCP Corp. | Payment instrument processing and invoicing |
     | Paymentech | Payment instrument processing |
     | Salesforce | Customer relationship management |
-    | General Agent | Domestic agent |
     
     The details of delegation for event management can be found on the relevant event page.
     
@@ -334,9 +333,11 @@ We provide additional information about our controllers and data protection offi
     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- |
     | _**Name of Party (Contact Information)**_ | _**Country**_ | _**Transferred Items**_ | _**Purpose of Transfer**_ | _**Date and Method of Transfer**_ | _**Period of Retention**_ |
-    | Marketo  <br>(privacyofficer@marketo.com) | United States | Personal information as described in this Privacy Notice | Customer communications | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
-    | Salesforce  <br>(privacy@salesforce.com) | United States | Personal information as described in this Privacy Notice | Customer Relationship Management | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
-    | Paymentech<br><br>(+1-800-935-9935) | United States | Personal information as described in this Privacy Notice | Payment Instrument Processing | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
+    | Marketo  <br>(privacyofficer@marketo.com) | United States | Personal information necessary for customer communications (including your name, email address, physical address, phone number, and other similar contact information) | Customer communications | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
+    | Salesforce  <br>(privacy@salesforce.com) | United States | Personal information necessary for customer relationship management (including your name, email address, physical address, phone number, and other similar contact information) | Customer relationship management | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
+    | Paymentech<br><br>(+1-800-935-9935) | United States | Personal information necessary for payment instrument processing (including credit card number and expiration dates) | Payment instrument processing | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
+    
+    If you do not agree with the above-stated overseas transfers, please stop using AWS Services and close your AWS Account. 
     
     **Deletion of Personal Information** 
     
@@ -345,18 +346,6 @@ We provide additional information about our controllers and data protection offi
     **Retention of Personal Information**
     
     AWS Korea keeps your personal information to enable your continued use of AWS Offerings, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law (including for tax and accounting purposes as may be required by the Framework Act on National Taxes of Republic of Korea or other laws), or as otherwise communicated to you. How long we retain specific personal information varies depending on the purpose for its use, and we will delete your personal information in accordance with applicable law.  
-    
-    **Domestic Agent Information**
-    
-    The information of Domestic Agent based on the Personal Information Protect Act is as follows:
-    
-    Name and representative: General Agent Co., Ltd. (Representative: Eun Mi Kim)
-    
-    Address: Rm. 1216, 28, Saemunan-ro 5ga-gil Jongno-gu, Seoul  
-    
-    Telephone number: (02) 735 6888
-    
-    Email address: AWS@generalagent.co.kr
     
     If you have any privacy questions or requests please contact:
     
@@ -511,9 +500,9 @@ Customers can access the information above through AWS Offerings, such as the [A
 Privacy Notice
 ==============
 
-#### Last Updated: July 1, 2024
+#### Last Updated: October 28, 2024
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20240101/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20240701/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -835,7 +824,6 @@ We provide additional information about our controllers and data protection offi
     | NHN KCP Corp. | Payment instrument processing and invoicing |
     | Paymentech | Payment instrument processing |
     | Salesforce | Customer relationship management |
-    | General Agent | Domestic agent |
     
     The details of delegation for event management can be found on the relevant event page.
     
@@ -844,9 +832,11 @@ We provide additional information about our controllers and data protection offi
     |     |     |     |     |     |     |
     | --- | --- | --- | --- | --- | --- |
     | _**Name of Party (Contact Information)**_ | _**Country**_ | _**Transferred Items**_ | _**Purpose of Transfer**_ | _**Date and Method of Transfer**_ | _**Period of Retention**_ |
-    | Marketo  <br>(privacyofficer@marketo.com) | United States | Personal information as described in this Privacy Notice | Customer communications | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
-    | Salesforce  <br>(privacy@salesforce.com) | United States | Personal information as described in this Privacy Notice | Customer Relationship Management | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
-    | Paymentech<br><br>(+1-800-935-9935) | United States | Personal information as described in this Privacy Notice | Payment Instrument Processing | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
+    | Marketo  <br>(privacyofficer@marketo.com) | United States | Personal information necessary for customer communications (including your name, email address, physical address, phone number, and other similar contact information) | Customer communications | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
+    | Salesforce  <br>(privacy@salesforce.com) | United States | Personal information necessary for customer relationship management (including your name, email address, physical address, phone number, and other similar contact information) | Customer relationship management | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
+    | Paymentech<br><br>(+1-800-935-9935) | United States | Personal information necessary for payment instrument processing (including credit card number and expiration dates) | Payment instrument processing | Transmission of data through information network as needed | As disclosed in the Privacy Notice |
+    
+    If you do not agree with the above-stated overseas transfers, please stop using AWS Services and close your AWS Account. 
     
     **Deletion of Personal Information** 
     
@@ -855,18 +845,6 @@ We provide additional information about our controllers and data protection offi
     **Retention of Personal Information**
     
     AWS Korea keeps your personal information to enable your continued use of AWS Offerings, for as long as it is required in order to fulfill the relevant purposes described in this Privacy Notice, as may be required by law (including for tax and accounting purposes as may be required by the Framework Act on National Taxes of Republic of Korea or other laws), or as otherwise communicated to you. How long we retain specific personal information varies depending on the purpose for its use, and we will delete your personal information in accordance with applicable law.  
-    
-    **Domestic Agent Information**
-    
-    The information of Domestic Agent based on the Personal Information Protect Act is as follows:
-    
-    Name and representative: General Agent Co., Ltd. (Representative: Eun Mi Kim)
-    
-    Address: Rm. 1216, 28, Saemunan-ro 5ga-gil Jongno-gu, Seoul  
-    
-    Telephone number: (02) 735 6888
-    
-    Email address: AWS@generalagent.co.kr
     
     If you have any privacy questions or requests please contact:
     
