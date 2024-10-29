@@ -919,7 +919,7 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
   
 [View the March SnaG Ceolchoirm with HotHouse Flowers terms and conditions](https://www.energia.ie/getattachment/4d4e22fa-7099-4f21-9ea0-1948cccb0d9d/SnaG-Ceolchoirm-with-HotHouse-Flowers-Terms-and-Conditions-2024.pdf?lang=en-GB)  
   
-[View the Energy Smart Energy Tariffs Survey Competition terms and conditions](https://www.energia.ie/getattachment/a6b0211a-e290-4159-ab25-eea36a57c687/Energy-Smart-Energy-Tariffs-Survey-Competition-terms-and-conditions.pdf?lang=en-GB)
+[View the Energy Smart Energy Tariffs Survey Competition terms and conditions](https://www.energia.ie/getattachment/fe0c352a-0061-4232-af2e-d20f06d60fdb/Energy-Smart-Energy-Tariffs-Survey-Competition-terms-and-conditions.pdf?lang=en-GB)
 
 #### 
 
