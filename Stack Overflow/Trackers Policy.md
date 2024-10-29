@@ -43,9 +43,11 @@ These cookies are necessary for our website to function properly and cannot be s
 | --- | --- | --- |
 | askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_cf\_bm, .AspNetCore.Antiforgery, acct, csouser, drafts, fkey, flash-message-json, have\_a\_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, OptanonAlertBoxClosed, OptanonConsent, optimizelyEndUserId, optimizelyPPID, prov, prov\_tgt, sgt, theme, uauth, usr | 1st Party |
 | stackoverflow.email | iterableEmailCampaignId, iterableEndUserId, iterableMessageId, iterableTemplateId | 1st Party |
+| careers.stackoverflow.com | \_\_cflb | 1st Party |
 | stackexchange.com | mc, rawr | 1st Party |
+| qa.sockets.stackexchange.com | \_\_cf\_bm | 3rd Party |
 | imgur.com | \_\_cfduid | 3rd Party |
-| stackexchange.com | prov | 3rd Party |
+| stackexchange.com | \_\_cflb, prov | 3rd Party |
 | stacksnippets.net | intercom-id-inf0secd, intercom-session-inf0secd | 3rd Party |
 | cdn.sstatic.net | OptanonAlertBoxClosed, OptanonConsent | 3rd Party |
 | sstatic.net | \_\_cf\_bm | 3rd Party |
@@ -73,7 +75,7 @@ These cookies allow us to count visits and traffic sources so we can measure and
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_qca, \_ga, \_gat, \_gat\_xxxxxxxxxxxxxxxxxxxxxxxxxx, \_ym\_d, \_ym\_isad, \_ym\_uid, referral | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_qca, \_ga, \_ga\_xxxxxxxxxx, \_gat, \_gat\_xxxxxxxxxxxxxxxxxxxxxxxxxx, \_ym\_d, \_ym\_isad, \_ym\_uid, referral | 1st Party |
 | stacksnippets.net | \_gid | 1st Party |
 | mc.yandex.ru | sync\_cookie\_csrf, yabs-sid | 3rd Party |
 | mc.yandex.com | sync\_cookie\_csrf, sync\_cookie\_ok | 3rd Party |
@@ -99,6 +101,7 @@ These cookies are used to make advertising messages more relevant to you and may
 | askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_gads, \_\_gpi, \_gat\_legacyTracker, \_so\_tgt, GoogleAdServingTest, urr | 1st Party |
 | everesttech.net | everest\_g\_v2 | 1st Party |
 | bidr.io | bito, bitoIsSecure | 1st Party |
+| bidr.io | checkForPermission | 3rd Party |
 | youtube.com | GPS | 3rd Party |
 | linkedin.com | bcookie, lang, li\_gc, lidc, lissc, UserMatchHistory | 3rd Party |
 | adnxs.com | anj, uuid2 | 3rd Party |
