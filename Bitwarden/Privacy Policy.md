@@ -364,3 +364,5 @@ Phone: +1-904-664-9194
 Email: privacypolicy@bitwarden.com
 
 Web Form: [https://bitwarden.com/contact/](https://bitwarden.com/contact/)
+
+Get page details as PDF
