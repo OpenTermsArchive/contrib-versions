@@ -28,6 +28,9 @@
 * [Learn](https://www.kraken.com/learn)
 * [Support](https://support.kraken.com/hc/en-us)
 
+* [Sign in](https://www.kraken.com/sign-in)
+* [Sign up](https://www.kraken.com/sign-up)
+
 **Terms of Service**
 
 
@@ -54,7 +57,7 @@ The following is the binding and enforceable Terms of Service.
 
 Kraken.com Terms of Service
 
-Last Updated: October 16, 2024
+Last Updated: October 23, 2024
 
 Please read these Terms of Service (including all Annexes, “Terms”) carefully, as they are binding and govern your use of our services, and our websites (including kraken.com, and pro.kraken.com), and mobile applications through which you access our services (“Platforms”), along with any applicable third-party terms you may have agreed to as part of using or receiving our mobile applications (such as terms for the Apple App Store or Google Play, if applicable). If these Terms conflict with any such third-party terms, these Terms will control to the extent of the conflict. By accessing or using our services or Platforms, or by creating an account, you agree to these Terms. 
 
@@ -72,13 +75,13 @@ These Terms are a legally binding agreement between “you” (an individual, or
 * Payward Europe Solutions Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296, for BEL VASP Services if you live in Belgium or for ES VASP Services if you live in Spain (except as noted below);
 * Payward Continental Services Limited, (an Irish entity whose registered address is at 70 Sir John Rogerson’s, Quay, Dublin, D02R296, Ireland) operating through its Dutch Branch with a local Dutch business address at Weteringschans 165 C, 1017XD Amsterdam for Dutch VASP Services if you live in The Netherlands (except as noted below);
 
-* Coin Meester B.V., Boeingavenue 219, 1119PD, SCHIPHOL-RIJK, Nederland, (from October 1, 2024, if you have a Personal Account and from October 7, 2024, if you have a Business Account) for POL VASP Services if you live in Poland or VASP Services if you live in France (except as noted below);
+* Coin Meester B.V., Boeingavenue 219, 1119PD, SCHIPHOL-RIJK, Nederland, for POL VASP Services if you live in Poland or VASP Services if you live in France (except as noted below);
 
-* Payward International Markets Limited, Trinity Chambers, PO Box 4301, Road Town, Tortola, British Virgin Islands, if you live in the European Economic Area (except as noted above for VASP services if you live in Italy or Ireland, for BEL VASP services if you live in Belgium, ES VASP Services if you live in Spain Dutch VASP Services if you live in the Netherlands, or as noted below);
+* Payward International Markets Limited, Trinity Chambers, PO Box 4301, Road Town, Tortola, British Virgin Islands, if you live in the European Economic Area (except as noted above for VASP services if you live in Italy, Ireland or France, for BEL VASP services if you live in Belgium, ES VASP Services if you live in Spain, Dutch VASP Services if you live in the Netherlands, POL VASP Services if you live in Poland, or as noted below);
 * Payward Trading Ltd, 2nd floor, Water’s Edge Building, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands, if you live anywhere else in the world where we make our services available (except Canada, or as noted below);
 * Payward Commercial Ltd., Road Town PO Box 4301, Tortola British Virgin Islands, for those services set forth in Annex C;
 * Payward Trading Ltd, 2nd floor, Water’s Edge Building, Wickhams Cay II, Road Town, Tortola, VG1110, British Virgin Islands, for those services set forth in Annex A (except if you live in the United States of America or Australia), Annex B, Annex D, and Annex E; and
-* Payward Ireland Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296 for those services set forth in Section 1(c) of Annex F if you live in Ireland, the Netherlands, France, Spain, Belgium, Italy, Austria, Czech Republic, Lithuania, Poland,Norway, Portugal, Romania, Slovakia, Sweden, Cyprus, Estonia, Germany, Finland, Aland Islands, Croatia, Bulgaria, Denmark, Greece, Hungary, Iceland, Latvia, Liechtenstein, Luxembourg, Malta, or Slovenia.
+* Payward Ireland Limited, 70 Sir John Rogerson’s Quay, Dublin Docklands, Dublin 2, Ireland D02 R296 for those services set forth in Section 1(c) of Annex F if you live in Ireland, the Netherlands, France, Spain, Belgium, Italy, Austria, Czech Republic, Lithuania, Poland, Norway, Portugal, Romania, Slovakia, Sweden, Cyprus, Estonia, Germany, Finland, Aland Islands, Croatia, Bulgaria, Denmark, Greece, Hungary, Iceland, Latvia, Liechtenstein, Luxembourg, Malta, or Slovenia.
 
 If you live in Canada, the [Canadian Terms of Service](https://www.kraken.com/legal/ca-terms) are the binding agreement between you and Payward Canada, Inc.
 
@@ -120,6 +123,8 @@ Annex E: NFT Services
 Annex F: PIL Services
 
 Annex G: kBTC
+
+Annex H: Kraken Transfers
 
 1. Eligibility; Account
 
@@ -1179,4 +1184,70 @@ You are solely responsible for your use of the kBTC Services, and we make no rep
 
 6. Compliance with Laws, Sanctions
 
-In connection with your holding kBTC or use of the kBTC Services, you hereby agree and represent and warrant that you will not (i) use kBTC or the kBTC Services in violation of any applicable laws or regulations; or (ii) use kBTC or the kBTC Services in any transaction involving the proceeds of crime or terrorist financing or otherwise in violation of any applicable anti-money laundering or sanctions laws or regulations. We reserve the right to monitor for the foregoing and to reject, deter, suspend, freeze and report, or otherwise prevent transactions we believe to be in violation thereof or to involve one or more transactions with any person that is the subject or target of any sanctions. We are not responsible for determining which laws or regulations may apply to your transactions involving kBTC, and we have no responsibility for any loss, liability, or damage you may incur as result of any violation of such laws or regulations by you or any third party.
+In connection with your holding kBTC or use of the kBTC Services, you hereby agree and represent and warrant that you will not (i) use kBTC or the kBTC Services in violation of any applicable laws or regulations; or (ii) use kBTC or the kBTC Services in any transaction involving the proceeds of crime or terrorist financing or otherwise in violation of any applicable anti-money laundering or sanctions laws or regulations. We reserve the right to monitor for the foregoing and to reject, deter, suspend, freeze and report, or otherwise prevent transactions we believe to be in violation thereof or to involve one or more transactions with any person that is the subject or target of any sanctions. We are not responsible for determining which laws or regulations may apply to your transactions involving kBTC, and we have no responsibility for any loss, liability, or damage you may incur as result of any violation of such laws or regulations by you or any third party.    
+
+* * *
+
+Annex H
+
+Kraken Transfers
+
+This Annex H (this “Kraken Transfers Annex”) incorporates by reference and supplements the Kraken.com Terms of Service (excluding all Annexes thereto, “Terms”) as if the entirety of the Terms were set forth in this Kraken Transfers Annex. Capitalized terms used but not defined in this Kraken Transfers Annex have the meanings given to them elsewhere in the Terms. In the event of a conflict between the Terms and this Kraken Transfers Annex, the terms of this Kraken Transfers Annex will control solely to the extent of the conflict and solely with respect to the subject matter of this Kraken Transfers Annex.
+
+We may provide you the option to send or receive certain Digital Assets and/or Fiat Currency to or from other eligible Kraken users on the Platform (the “Kraken Transfers Service”) for personal use, subject to these Terms and your fulfillment of all applicable eligibility criteria.
+
+WE MAKE NO REPRESENTATION OR WARRANTY THAT THE KRAKEN TRANSFERS SERVICE IS APPROPRIATE FOR USE IN ALL LOCATIONS, OR THAT THE TRANSACTIONS AND SERVICES DESCRIBED HEREIN ARE AVAILABLE OR APPROPRIATE FOR ENTRY INTO OR USE IN ALL JURISDICTIONS OR BY ALL PARTIES. YOU SHOULD INFORM YOURSELF AS TO THE LEGAL REQUIREMENTS AND TAX CONSEQUENCES OF USING THE  KRAKEN TRANSFERS SERVICE WITHIN ALL JURISDICTIONS APPLICABLE TO YOU. WE ARE NOT RESPONSIBLE FOR TAX CONSEQUENCES TO YOU OF PARTICIPATING IN THE  KRAKEN TRANSFERS SERVICE.
+
+1. Eligibility
+
+You may only use the Kraken Transfers Service if (i) you fulfill the eligibility criteria of the Terms and (ii) your use of the Kraken Transfers Service is not prohibited by applicable laws or regulations of the jurisdiction of your residence. We reserve the right to impose additional eligibility criteria on your use of the Kraken Transfers Service. If the Kraken Transfers Service is available in your jurisdiction, your account will include a “Kraken Transfers” section located in the Deposits/Withdrawals section of your account.
+
+The Kraken Transfers Service will only be offered in select jurisdictions at Kraken’s sole discretion and is subject to change or discontinuation at any time. Please note that in some jurisdictions the Kraken Transfers Service may be available for Digital Asset transfers only.
+
+2. Sending Digital Assets and/or Fiat Currency Using the Kraken Transfers Service
+
+1. Initiating a Transfer
+
+To initiate a transfer of Digital Assets or Fiat Currency to another Kraken user (the “Recipient”) through the Kraken Transfers Service (a “Kraken Transfer”), you (the “Sender”) may provide instructions to Kraken by designating (i) the intended Recipient of the transfer, and (ii) the type and amount of Digital Asset or Fiat Currency in your account that you wish to transfer (the “Kraken Transfer Instructions”). By submitting the Kraken Transfer Instructions and confirming the transaction, you authorize us to transfer the designated Digital Assets or Fiat Currency to the Recipient you have selected.
+
+2. Identifying a Recipient
+
+You may designate a Recipient by entering the Public Account ID (IIBAN), email, or username (if enabled) associated with the Recipient’s Kraken account. You may only initiate a Kraken Transfer to a Kraken account user who is eligible to use the Kraken Transfers Service and who has enabled Kraken Transfers in their account settings.
+
+3. Identifying Digital Assets or Fiat Currency for Transfer
+
+To initiate a Kraken Transfer, you must select the amount and type of Digital Asset or Fiat Currency you wish to transfer. You agree to have sufficient Digital Assets and/or Fiat Currency in your account prior to submitting your Kraken Transfer Instructions. If the Digital Assets and/or Fiat Currency in your account are insufficient to cover the amount required for us to complete the Kraken Transfer, we will not effect the transfer.
+
+You may only send Digital Assets and/or Fiat Currency to a Recipient if the Digital Asset and/or Fiat Currency is also available in the Recipient’s jurisdiction. We may decide to add or remove assets from the list of eligible Digital Assets or Fiat Currency available in any jurisdiction, including those available for Kraken Transfers, at any time at our sole discretion. Additionally, your use of the Kraken Transfers Service is subject to certain limits (for example, in the magnitude and/or frequency of Kraken Transfers you may initiate within a specified period), which may change at any time.
+
+4. Transfer Timing
+
+You understand and agree that when you submit Kraken Transfer Instructions and confirm the transaction, we will begin processing the transfer instruction immediately and the designated Digital Assets or Fiat Currency  may leave your account as soon as you confirm the transaction. Title to any Digital Assets or Fiat Currency you send through the Kraken Transfers Service will be transferred to the Recipient immediately following a successful transfer.  
+
+You should verify all transaction information prior to submitting Kraken Transfer Instructions as the transfer may not be canceled or reversed once it is processed unless we decide at our sole discretion that the transaction should be canceled or reversed and we have the technical capability to effect such a cancellation or reversal. You acknowledge that you are responsible for ensuring the accuracy of any Kraken Transfer Instructions submitted to us and that any errors may result in the irreversible loss of your Digital Assets and/or Fiat Currency.
+
+5. Pending Transfers
+
+Kraken Transfers that you initiate may have a “Pending” status displayed in your account (“Pending Transfers”). These transfers may remain in pending status for a certain period of time depending on various factors. Pending Transfers will either fail due to various reasons or eventually become a successful transfer.
+
+6. Failed Transfers
+
+ Kraken Transfers may fail for a number of reasons. In the case of a failed transfer, you will be notified, and you may be able to reinitiate a transfer by submitting new Kraken Transfer Instructions as outlined above. In the case of a failed transfer, the Digital Assets and/or Fiat Currency designated for transfer will remain in your account, and the Digital Assets and/or Fiat Currency will not be transferred to the Recipient.
+
+7. Cancellation of Transfers
+
+All completed Kraken Transfers are final and generally cannot be reversed. In some circumstances, you may have the opportunity to request cancellation of a Pending Transfer, but we may refuse any cancellation request at our sole discretion. If we fulfill such a cancellation request, that does not mean we will cancel future transfers in the same or similar circumstances. Additionally, we may cancel or refuse to process any pending Kraken Transfers as required by law or any court or other authority to which Kraken is subject in any jurisdiction.
+
+3. Fees
+
+There are no fees for using the Kraken Transfers Service. Please note, however, that when you initiate a transfer of Digital Assets, any Fiat Currency equivalent value displayed by our services is indicative only.  The exchange rate between Fiat Currency and the Digital Asset indicated by our services may change between when you submit the Kraken Transfer Instructions and when we execute those instructions. We are not liable for any fluctuations in the market value of the Digital Assets you designate for transfer.
+
+4. Liability
+
+You are solely responsible for your use of the Kraken Transfers Service, and we make no representations, warranties, or guarantees that the Kraken Transfers Services will function or perform in accordance with your expectations. You hereby acknowledge and agree that we disclaim and have no responsibility for any loss, liability, or damage you may incur, directly or indirectly, in connection with the Kraken Transfers Services. You further agree that we shall not be liable for any delays in effectuating a Kraken Transfer,, or if we are unable to complete a Kraken Transfer for any reason, including but not limited to, because of: (i) any direct or indirect actions taken by you, including providing inaccurate, or insufficient Kraken Transfer Instructions, that result in a mistaken or accidental transfer; (ii) insufficient Digital Assets and/or Fiat Currency in your account to complete the transfer according to your Kraken Transfer Instructions; (ii) any malfunction of the Kraken Transfers Service due to circumstances beyond our control; or (iii) any suspension or discontinuance of the Kraken Transfers Service.
+
+5. Taxes
+
+Sending or receiving Digital Assets may constitute a taxable transaction in certain situations (e.g., exchanging digital assets for goods or services).  You alone are responsible for determining whether your use of the Kraken Transfers Service is subject to tax and for reporting and remitting the correct taxes to the appropriate tax authorities. You agree that we have no responsibility or liability for determining whether a transaction is subject to tax and what taxes apply or for collecting, reporting, withholding, or remitting any taxes arising from Kraken Transfers, unless otherwise required by law.  Notwithstanding anything herein to the contrary, you acknowledge and accept that Kraken may have a legal obligation to make reports, and will make such reports as required, to the relevant tax authorities regarding Kraken Transfers.
+
+If you have any questions about your tax obligations, please consult with a tax professional for advice.
