@@ -3,7 +3,7 @@ Flickr Privacy Policy
 
 For SmugMug’s Privacy Policy click [here](https://www.smugmug.com/about/privacy/).
 
-Date of Last Revision: June 15, 2024
+Date of Last Revision: October 29, 2024
 
 Flickr, Inc. ("Flickr") is passionately committed to the privacy of our customers.
 
@@ -194,7 +194,7 @@ In the "Privacy & Permissions" section of your Account Settings, you can determi
 
 Account Information
 
-You may update, correct or delete certain information about you at any time by logging into your online account or contacting us through [https://flickrhelp.com/hc/en-us/requests/new](https://flickrhelp.com/hc/en-us/requests/new). You may delete your account or terminate your subscription pursuant to Flickr’s Terms of Use, but note that we may retain certain information as required by law or for legitimate business purposes.
+You may update, correct or delete certain information about you at any time by logging into your online account at [https://www.flickr.com/account](https://www.flickr.com/account). To delete your Flickr account, click “Delete your Flickr Account” and confirm on the following page. Alternatively, you may contact us at [https://flickrhelp.com/hc/en-us/requests/new](https://flickrhelp.com/hc/en-us/requests/new). To begin, select “Account Settings and Profile,” choose the issue “I would like to delete my account,” and complete the required information. You may delete your account or terminate your subscription pursuant to Flickr’s Terms of Use, but note that we may retain certain information as required by law or for legitimate business purposes.
 
 Privacy and Permissions Settings
 
