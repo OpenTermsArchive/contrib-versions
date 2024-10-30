@@ -234,6 +234,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Vlaanderen: [https://overheid.vlaanderen.be/sites/default/files/documenten/ict-egov/licenties/hergebruik/modellicentie\_gratis\_hergebruik\_v1\_0.html](https://overheid.vlaanderen.be/sites/default/files/documenten/ictegov/licenties/hergebruik/modellicentie_gratis_hergebruik_v1_0.html)
             
+        * Open data Liège: [https://opendata.liege.be/explore/dataset/infos-travaux/information/?disjunctive.categories&calendarview=month&basemap=jawg.light&location=17,50.64929,5.59674](https://opendata.liege.be/explore/dataset/infos-travaux/information/?disjunctive.categories&calendarview=month&basemap=jawg.light&location=17,50.64929,5.59674)
+            
     7. **Belgium**
         * GeoBolivia (BO): [https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859](https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859)
             
@@ -561,6 +563,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Data.Brno - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
         * Stahovací služby Atom: ČUZK - [https://atom.cuzk.cz/](https://atom.cuzk.cz//)
+            
+        * Czech Land Survey and Cadastre Office - [https://cuzk.gov.cz/Predpisy/Podminky-poskytovani-prostor-dat-a-sitovych-sluzeb/Podminky-poskytovani-prostorovych-dat-CUZK.aspx](https://cuzk.gov.cz/Predpisy/Podminky-poskytovani-prostor-dat-a-sitovych-sluzeb/Podminky-poskytovani-prostorovych-dat-CUZK.aspx)
             
     13. **Denmark**
         * © COWI A/S
@@ -1941,6 +1945,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open Data Navarra: [https://datosabiertos.navarra.es/es/dataset/direcciones-postales-portales-de-navarra](https://datosabiertos.navarra.es/es/dataset/direcciones-postales-portales-de-navarra)
             
+        * Datos Comunidad de Madrid: [https://www.madrid.org/cartografia/staticFiles/catalogo/aviso\_legal.htm](https://www.madrid.org/cartografia/staticFiles/catalogo/aviso_legal.htm)
+            
+        * Datos Gobierno de España: [https://administraciodigital.gencat.cat/ca/dades/dades-obertes/informacio-practica/llicencies/](https://administraciodigital.gencat.cat/ca/dades/dades-obertes/informacio-practica/llicencies/)
+            
     58. **Sweden**
         * © 2009 Cartesia GIS AB
             
@@ -2524,7 +2532,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         227. Sacramento County Open Data: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
-        228. Arkansas GIS Office: [https://gis.arkansas.gov/product/arkansas-road-inventory/](https://gis.arkansas.gov/product/arkansas-road-inventory/)
+        228. Arkansas GIS Office: [https://gis.arkansas.gov/product/arkansas-weight-restricted-highways/](https://gis.arkansas.gov/product/arkansas-weight-restricted-highways//)
             
         229. Carteret County NC: [https://www.carteretcountync.gov/DocumentCenter/View/4659/Carteret-County-GIS-Data-Terms-and-Conditions-of-Use?bidId=](https://www.carteretcountync.gov/DocumentCenter/View/4659/Carteret-County-GIS-Data-Terms-and-Conditions-of-Use?bidId=)
             
@@ -2537,6 +2545,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         233. Loudoun GeoHub: [https://logis.loudoun.gov/metadata/Address.html](https://logis.loudoun.gov/metadata/Address.html)\-[https://geohub-loudoungis.opendata.arcgis.com/datasets/loudoun-address-points/explore](https://geohub-loudoungis.opendata.arcgis.com/datasets/loudoun-address-points/explore)
             
         234. City of Austin: [https://data.austintexas.gov/stories/s/ranj-cccq](https://data.austintexas.gov/stories/s/ranj-cccq)
+            
+        235. Iowa DOT Open Data Portal: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     68. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
