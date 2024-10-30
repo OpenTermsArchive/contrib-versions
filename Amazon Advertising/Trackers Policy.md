@@ -1,7 +1,7 @@
 About Cookies
 =============
 
-Last changed on 09 September 2020.
+Last changed on 28 October 2024.
 
 We use cookies and similar tools (collectively, cookies) for the purposes described below.
 
@@ -27,7 +27,7 @@ To learn more about how Amazon provides interest-based ads, please visit the [In
 
 Operational cookies will remain on your browser for 13 months from your last visit to our services, except for cookies used to remember your privacy settings (such as Advertising Preferences), which may remain on your browser for up to 5 years. Other cookies remain on your browser for 13 months after you provide us with your consent to use these cookies.
 
-You can manage cookies by visiting our [Cookie Preferences page](https://www.amazon.co.uk/privacyprefs/retail). We will apply your cookie preferences to the Amazon service and the browser on which you made your choice and on any other browser where you are signed in. If you are not signed in, we may need to ask you for your choice again.
+You can manage cookies by visiting our [Cookie Preferences page](https://www.amazon.co.uk/privacyprefs/retail). We will apply your cookie preferences to the Amazon service and the browser on which you made your choice and on any other browser where you are signed in. If you are not signed in, we may need to ask you for your choice again. Some mobile operating systems may further limit the use of cookies and similar technologies; your choices do not override those more limited settings on such mobile devices.
 
 Alternatively, the settings on your browser will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, how to disable and remove cookies, and when cookies will expire.
 
