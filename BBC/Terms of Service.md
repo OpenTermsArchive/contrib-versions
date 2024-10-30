@@ -1,7 +1,8 @@
 Terms of Use for the BBC's digital services
 ===========================================
 
-_Page updated: 19 September 2022_  
+_Page updated: 19 September 2022_
+
 _Version 1.8_
 
 1\. Hello
@@ -198,7 +199,7 @@ So you’ll have to ask them if you can use it. Except under certain circumstanc
 
 [For business use, read this.](https://www.bbc.co.uk/usingthebbc/terms/can-i-use-bbc-content-for-my-business/ "Can I reuse content for my business?") Bear in mind: you normally need to ask permission and there may be a fee to pay.
 
-[For everything else, read this](https://www.bbc.co.uk/usingthebbc/terms/can-i-use-bbc-content/ "Using BBC content"). 
+[For everything else, read this](https://www.bbc.co.uk/usingthebbc/terms/can-i-use-bbc-content "Using BBC content"). 
 
 9\. Shareables - what they are
 ------------------------------
@@ -620,9 +621,3 @@ c. This is a contract between you and us. No one else has any rights to enforce 
 d. English law governs these terms, and only English courts can make judgments about them.
 
 e. Our services and content are made available to you by the British Broadcasting Corporation, Broadcasting House, Portland Place, London, W1A 1AA.
-
-Change language:
-
-* [Gàidhlig](http://localhost:4040/usingthebbc/terms-of-use/gd)
-* [English](http://localhost:4040/usingthebbc/terms-of-use)
-* [Cymraeg](http://localhost:4040/usingthebbc/terms-of-use/cy)
