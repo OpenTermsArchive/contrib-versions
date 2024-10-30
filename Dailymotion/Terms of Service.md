@@ -687,15 +687,15 @@ On the contrary, if the moderation team considers that the Content that is subje
 The author of the appeal will be informed of the outcome of the appeal as soon as possible via email sent to the address given on the appeal form.  
 If you consider that a Moderation Decision goes against the law or if you consider yourself a victim of Content put online on the Dailymotion Service, legal recourses are at your disposal (such as filing a complaint or requests for summary proceedings).
 
-#### **C.** Counter 
+#### **C.** Repeated Infringement Policy 
 
 Dailymotion takes compliance with its [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) and its [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) very seriously in order to ensure a safe and respectful viewing environment for its Visitors, Users and Partners. 
 
 Thus, there are [various procedures, measures and tools](https://legal.dailymotion.com/en/terms-of-use/#ii-detection-and-report-of-prohibited-content) that Dailymotion uses to enforce compliance with our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) and which might lead us to moderate content posted onto our Service. 
 
-If you repeatedly post Content that violates this Prohibited Content Policy, we may restrict certain features associated with your Dailymotion Account or permanently disable your Dailymotion Account under this repeated infringer policy.
+If you repeatedly post Content that violates this Prohibited Content Policy, we may restrict certain features associated with your Dailymotion Account or permanently disable your Dailymotion Account under this repeated infringer policy. Please note that additional specific terms will shortly be made available in regards to repeated infringement of copyright.
 
-Per this policy, each Dailymotion Account has a penalty scoring system associated with it (the “**Counter**“). Such Counter is set up at zero by default, but any violation of our [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) or of our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) will be accounted against the Dailymotion Account having performed such violation and will make the Counter increase. 
+In a general manner, each Dailymotion Account has a penalty scoring system associated with it (the “**Counter**“). Such Counter is set up at zero by default, but any violation of our [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) or of our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) will be accounted against the Dailymotion Account having performed such violation and will make the Counter increase. 
 
 The number of penalty points given to a violation depends on the severity of the content that was removed and the context in which it was shared in order to ensure our violations’ accounting system is fair and proportionate (e.g.: hateful content will lead to more penalty points added to the Counter than spam for instance). Some violations such as, for example, terrorist content or child abuse content, will lead directly to the disabling of the corresponding Dailymotion Account, as further described in Section E below. 
 
@@ -713,7 +713,7 @@ The Counter linked to the violations performed by a given Dailymotion Account mi
 
 In addition to the Counter linked to a Dailymotion Account, Dailymotion may also take into consideration the weight of the violations to our policies compared to the activity of this account or of the corresponding User in general, and whenever possible the intention of the violation, in order to define the best and most proportionate sanction applicable. 
 
-Several different sanctions might be applied for periods of up to several days if the Counter of a Dailymotion Account reaches the threshold of 50 points, including :  
+Several different sanctions might be applied for periods of up to several days if the Counter of a Dailymotion Account reaches a certain threshold, including :  
 
 * Blocking the ability to upload Videos ont such Dailymotion Account; 
 * Excluding Content posted on such Dailymotion Account from the [Dailymotion recommendation systems](https://legal.dailymotion.com/en/recommendation-tools-transparency/); 
@@ -728,13 +728,13 @@ In addition, Dailymotion might restrict the ability of a User to comment on Thir
 
 Apart from the disabling of a Dailymotion Account, all the sanctions applied are temporary, meaning that all the restrictions applied will be lifted automatically at the end of the sanction duration announced in the email informing you of such account restriction decision. 
 
-For sake of clarity, a restriction applied to a Dailymotion Account will continue until the notified end date of such sanction even if your Counter falls below the 50 points threshold in the meantime. 
+For sake of clarity, a restriction applied to a Dailymotion Account will continue until the notified end date of such sanction even if your Counter falls below the threshold in the meantime. 
 
 We remind you that you may always appeal every moderation decision taken by Dailymotion through the link that was provided to you in the email informing you of such account restriction decision. 
 
 #### **E. Disabling accounts** 
 
-If the Counter of a Dailymotion Account reaches the critical level of 100 points,  then such Dailymotion Account will be permanently disabled. 
+If the Counter of a Dailymotion Account reaches a critical level,  then such Dailymotion Account will be permanently disabled. 
 
 Please note that some very severe violations of our [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) or of our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) will lead to the direct disabling of the corresponding Dailymotion Account even if that’s the first time such account commits a violation. 
 
