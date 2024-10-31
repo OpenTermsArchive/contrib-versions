@@ -252,7 +252,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -489,7 +489,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -1024,7 +1024,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -1261,7 +1261,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -1770,7 +1770,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -2007,7 +2007,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -2462,7 +2462,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -2859,7 +2859,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -3256,7 +3256,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -3653,7 +3653,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -4050,7 +4050,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -4447,7 +4447,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -4720,7 +4720,7 @@ Retour
 * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
 * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
 * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-* [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+* [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
 * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
 * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
 * 
@@ -4908,7 +4908,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -5141,7 +5141,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -5374,7 +5374,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -5607,7 +5607,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -5840,7 +5840,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -6073,7 +6073,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -6306,7 +6306,7 @@ Recherche
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
             * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
             * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-            * [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+            * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
             * 
@@ -6512,7 +6512,7 @@ Retour
 * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
 * [Eaux conditionnées](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-conditionnees)
 * [Eaux thermales](https://sante.gouv.fr/sante-et-environnement/eaux/article/eaux-thermales)
-* [Usage domestique d’eau de pluie](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eau-de-pluie)
+* [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
 * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
 * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
 * 
