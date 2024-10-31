@@ -3,11 +3,9 @@
 Politique de confidentialité
 ----------------------------
 
-À l’heure actuelle, nous reportons la modification de notre utilisation de vos informations afin de développer et d’améliorer [l’IA chez Meta](https://www.facebook.com/privacy/genai). Nous vous tiendrons au courant avant de commencer à utiliser vos informations. Nous vous expliquerons également comment vous pouvez exercer votre droit d’opposition. Nous avons mis à jour notre Politique de confidentialité le 26 juin 2024. [Consulter notre politique précédente.](https://fr-fr.facebook.com/privacy/policy/version/7122790421067234/)
-
 Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
-Date effective : 5 septembre 2024 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/?show_versions=1)
+Date effective : 26 juin 2024 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/?show_versions=1)
 
 ### 
 
