@@ -176,7 +176,7 @@ To request a refund:
 
 **To request a refund:** In addition to cancelling, eligible subscribers must request a refund to receive one.
 
-If you subscribed through Google and, reside outside the US your refund will be handled by Google, not Bumble. To request a refund, go to the Google Play Store app, select your order history, find the transaction, select “Report a Problem” and submit your refund request.
+If you subscribed through Google and reside outside the US your refund will be handled by Google, not Bumble. To request a refund, go to the Google Play Store app, select your order history, find the transaction, select “Report a Problem” and submit your refund request.
 
 If you subscribed using your Apple ID, refunds are handled by Apple (regardless of where you live), not Bumble. To request a refund, go to iTunes, click on your Apple ID, select “Purchase history,” find the transaction and hit “Report Problem”. You can also submit a request at [Apple Support](https://getsupport.apple.com/).
 
