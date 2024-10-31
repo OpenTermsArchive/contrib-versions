@@ -153,9 +153,9 @@ Roblox is a safe space for meeting online friends, chatting, and collaborating o
 * Engaging in sexually explicit conversations or soliciting sexual material from other Robloxians
 * Content that depicts, strongly suggests, or explicitly describes sexual acts
 * Nudity
-* Sexually suggestive avatar bodies and clothing items
+* Sexually suggestive assets or bundles
 
-For more information about creating Avatar Bodies that comply with these policies, including required use of modesty layers, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
+For more information about creating assets or bundles that comply with these policies, including required use of modesty layers, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
 
 For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
 
@@ -323,7 +323,7 @@ Evading Safety and Security Systems
 * Creating or using an account to avoid enforcement action taken against another account
 * Using VPNs to mask your location in order to gain unauthorized access to Roblox, including to a specific feature or account
 * Offering access to your Roblox account or soliciting access to another’s Roblox account for the purpose of evading enforcement action or safety systems
-* Failing to use required PolicyService APIs in your experience
+* Failing to use required [PolicyService APIs](https://create.roblox.com/docs/reference/engine/classes/PolicyService) and [TextChatService APIs](https://create.roblox.com/docs/reference/engine/classes/TextChatService) to declare features in your experience that are covered by Roblox policy, such as text chat
 
 Disruptive Content and Behavior
 
@@ -336,13 +336,16 @@ Disruptive Content and Behavior
 
 For more information about creating Avatar Bodies that comply with these policies, including requirements for clothing and accessories, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
 
-Last Updated: October 3, 2024
+For more information about how to safely offer text chat in your experience, please see [here](https://devforum.roblox.com/t/migrate-to-textchatservice-removing-support-for-legacy-chat-and-custom-chat-systems/3237100).
+
+Last Updated: October 30, 2024
 
 Change Log
 
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| October 30, 2024 | Updated the following Community Standards:<br><br>* Romantic and Sexual Content<br>    * Clarified that any sexually suggestive assets or bundles are prohibited<br><br>Effective October 30, 2024<br><br>* Misusing Roblox Systems<br>    * Added note about required use of TextChatService APIs<br><br>Effective April 30, 2025 |
 | October 3, 2024 | Updated the following Community Standards:<br><br>* Child Endangerment<br>    * Changed name to “Child Exploitation”<br>* Directing Users Off-Platform<br>    * Clarified that QR codes, or barcodes are not allowed<br>    * Added note that DevForum and Talent Hub are treated differently<br>    * Added that some URLs are allowed if authorized by or in partnership with Roblox<br>* Illegal and Regulated Goods and Activities<br>    * Clarified contests to include games of chance and competitions<br>    * Updated gambling language and removed mention of favorable odds<br>* Political Content<br>    * Changed name to “Political Figures and Entities”<br>    * Moved bullet about inflammatory content related to real world border, territorial, or jurisdictional relationships to Real-World Sensitive Events<br>    * Reorganized prohibited content into two categories: political figures and political entities<br>* Real-World Sensitive Events<br>    * Added catastrophic accidents and sensational crimes<br>    * Moved bullet about inflammatory content related to real world border, territorial, or jurisdictional relationships from Political Figures and Entities<br>* Roblox Economy<br>    * Added a prohibition against offering indirect benefits across Roblox payment systems or properties<br><br>Effective October 3, 2024 |
 | August 5, 2024 | Added “Customizable Friend Requests” as permitted to use real names for eligible users under the Sharing PII policy |
 | July 15, 2024 | Added “Guilded” and “GitHub” to the list of allowed external websites or services under the Directing Users Off-Platform policy.<br><br>Added additional examples under Child Endangerment.<br><br>Effective July 15, 2024 |
