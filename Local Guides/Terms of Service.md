@@ -10,9 +10,9 @@ In order to participate in the Programme as a Local Guide, you must:
 
 * have a valid Google account;
 * meet the [age requirements for your country](https://maps.google.com/accounts/answer/1350409); and
-* have signed up to participate in the Programme [here](https://www.google.com/local/guides/signup)
+* have signed up to participate in the programme [here](https://www.google.com/local/guides/signup)
 
-Google Workforce for Education accounts that are under 18 years of age, organisations, brands and businesses are not eligible for the Programme. If you offer services for hire (such as marketing yourself as a Street View trusted provider), you are not allowed to bundle such services with your Local Guide membership.
+Google Workforce for Education accounts that are under 18 years of age, organisations, brands and businesses aren't eligible for the programme. You are not allowed to bundle services for hire with your Local Guide membership.
 
 Local Guides contributions and levels
 -------------------------------------
@@ -23,16 +23,16 @@ Contributions are considered 'High Quality' when they adhere to the guidelines d
 
 Some Local Guides may receive invitations to attend special events held by Google ('Events'). At some Events, you may be permitted to bring a guest (as indicated by Google). Event invitations are limited to only Local Guides and (if applicable) their guest(s) who meet the legal drinking age in the Event city. You must share these terms with your guest prior to bringing your guest to an Event.
 
-Events, perks and early access rules are subject to change at anytime and without advance notice.
+Events, perks and early access rules are subject to change at any time and without advance notice.
 
-#### Limited or no Perks
+#### Limited or no perks
 
 Some participants may be ineligible for some or all perks, including persons who are:
 
 * residents of U.S. embargoed countries;
 * ordinary resident in U.S. embargoed countries;
 * otherwise prohibited by applicable export controls and sanctions programmes; and
-* government officials, including (1) government employees, (2) candidates for public office and (3) employees of government-owned or government-controlled companies, public international organisations and political parties.
+* government officials, including (1) government employees; (2) candidates for public office; and (3) employees of government-owned or government-controlled companies, public international organisations and political parties.
 
 Appropriate conduct and participation
 -------------------------------------
@@ -62,9 +62,9 @@ You must not at any time represent yourself in any way as a Google employee or a
 
 The Local Guides logo is a Google brand identity and is reserved for official use only. Do not use the Local Guides logo, pin or any other Google imagery in any of your online or offline materials without expressed written permission.
 
-If you do organise or arrange to meet with other Local Guides, independently or through the Local Guides’ Meet-Up Site, you agree and acknowledge that Google is not responsible for organising, financing, supporting or otherwise facilitating your meeting. Google may, at its discretion, allow you to post details of a meeting on Google products or services, but such events must be clearly marked as not sponsored by Google. Google is not, in any way, liable for any loss or damage suffered at any meetings.
+If you do organise or arrange to meet with other Local Guides, independently or through Local Guides Connect, you agree and acknowledge that Google is not responsible for organising, financing, supporting or otherwise facilitating your meeting. Google moderators may deny meet-ups organised through Local Guides Connect. Google may, at its discretion, allow you to post details of a meeting on Google products or services, but such events must be clearly marked as not sponsored by Google. Google is not, in any way, liable for any loss or damage suffered at any meetings or meet-ups.
 
-Local Guides Connect Content Policy
+Local Guides Connect content policy
 -----------------------------------
 
 Local Guides Connect (collectively referred to as “Connect”) is a platform that enables people from diverse backgrounds to start conversations, share experiences, provide feedback and plan online/offline activities. In order to participate on Connect as a Local Guide, you must be at least 18 years of age. Our policies play an important role in maintaining a positive experience for Local Guides on Connect (collectively referred to as the “Services”). Please follow these policies as you:
@@ -101,9 +101,9 @@ We occasionally modify these policies, so please check here again for any update
 12. **Regulated Goods and Services:** Our Services enable discussion of many topics, but we do not allow content that facilitates the sale of regulated products and services, including alcohol, gambling, pharmaceuticals and unapproved supplements, tobacco, fireworks, weapons or health/medical devices. If we receive a complaint that such content is targeting audiences in violation of applicable laws and regulations, we may remove or restrict the offending content or account.
 13. **Impersonation:** Do not use our Services to mislead or confuse Local Guides by pretending to be someone else or pretending to represent an organisation that you do not represent. Some products have additional guidelines.
 14. **Account Hijacking:** Do not access or attempt to access another Local Guide’s account.
-15. **Use of Multiple Accounts:** Local Guides may participate in the programme with one account. Do not create or use multiple accounts to evade our policies or bypass blocks or otherwise subvert restrictions placed on your account. For example, if you’ve been suspended for abuse, don’t create a replacement account.
-16. **About Our Policies and Terms:** These policies apply generally to the content that you post on Connect. Some Google Services have their own separate policies that can be found within those services and apply to your use of them. All Google products and services are governed by their applicable terms of service.
-17. **Reporting Potential Issues:** If you encounter content or a Local Guide that you believe violates the above policies, please report it to us using the 'Report Inappropriate Content' feature by clicking on the three dots on the top right hand corner of the post (or similar link).
+15. **Use of multiple accounts:** Local Guides may participate in the programme with one account. Do not create or use multiple accounts to evade our policies or bypass blocks or otherwise subvert restrictions placed on your account. For example, if you’ve been suspended for abuse, don’t create a replacement account.
+16. **About our Policies and Terms:** These policies apply generally to the content you post on Connect. Some Google services have their own separate policies that can be found within those services and apply. All Google products and services are governed by their applicable Terms of Service.
+17. **Reporting potential Issues:** If you encounter content or a Local Guide that you believe violates the above policies, please report it to us using the 'Report inappropriate content' feature by clicking on the three dots on the top right-hand corner of the post (or similar link).
 
 Meet-up sponsorship
 -------------------
