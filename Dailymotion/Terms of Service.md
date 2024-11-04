@@ -693,7 +693,7 @@ Dailymotion takes compliance with its [Prohibited Content Policy](https://legal.
 
 Thus, there are [various procedures, measures and tools](https://legal.dailymotion.com/en/terms-of-use/#ii-detection-and-report-of-prohibited-content) that Dailymotion uses to enforce compliance with our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) and which might lead us to moderate content posted onto our Service. 
 
-If you repeatedly post Content that violates this Prohibited Content Policy, we may restrict certain features associated with your Dailymotion Account or permanently disable your Dailymotion Account under this repeated infringer policy. Please note that additional specific terms will shortly be made available in regards to repeated infringement of copyright.
+If you repeatedly post Content that violates this Prohibited Content Policy, we may restrict certain features associated with your Dailymotion Account or permanently disable your Dailymotion Account under this repeated infringer policy. Please note that additional specific terms are available [here](https://legal.dailymotion.com/en/copyright-repeated-infringement-policy/) in regards to copyright repeated infringements.
 
 In a general manner, each Dailymotion Account has a penalty scoring system associated with it (the “**Counter**“). Such Counter is set up at zero by default, but any violation of our [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) or of our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) will be accounted against the Dailymotion Account having performed such violation and will make the Counter increase. 
 
