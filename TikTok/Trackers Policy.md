@@ -1,196 +1,163 @@
-_Last updated: 16 September 2022_
+Last updated: 11/04/2024
 
-You can change your cookie settings on the Websites to accept or refuse certain tracking technologies at any time via our Cookie Settings tool, which you can access by clicking the link below.
+This Cookies Policy explains how TikTok and our partners use cookies and similar technologies. It applies to TikTok’s apps, websites, software and related services (together, the “Platform”). It also covers your choices to control them. Unless otherwise stated in this Cookies Policy, our Privacy Policy applies to the data we collect through cookies and similar technologies.
 
-This Cookies Policy applies whenever you visit a website on the [tiktok.com](https://tiktok.com/) domain, unless expressly stated otherwise (collectively, the “Websites” and each a “Website”). Other than the Websites, this Cookies Policy does not apply to any of our services, applications, products and content, which are each subject to their own, separate, notices.
+### How do cookies work?
 
-On the Websites, we use cookies and other tracking technologies such as software development kits (SDKs), pixels and local storage. These technologies allow us to store information or gain access to information stored on your device to enable certain features and distinguish you from other visitors. Tracking technologies are used by most website providers to let users navigate between pages efficiently, ensure web security, understand how their websites are used, remember user preferences and generally improve the user experience.
+Cookies are small text files that let websites and apps identify your browser or device. Cookies and similar technologies let websites and apps store or access info on your device. They turn on certain features and distinguish you from other visitors. Most website and app providers use these technologies for various purposes. These purposes include: efficient page navigation, web security and usage tracking. These technologies also remember user preferences and customise the user experience, especially in relation to ads.
 
-**1\. What technologies are used?**
------------------------------------
+Like many websites and apps, TikTok uses cookies and similar technologies, such as software development kits (“SDKs”), pixels, APIs, mobile ad IDs, tags and local storage. We call them all “cookies” in this Cookies Policy.
 
-Cookies:  Cookies are small text files that enable us and our service providers to uniquely identify your browser or device for various purposes, including those described above. Cookies normally work by assigning a unique number to your device and are stored on your browser by the websites that you visit as well as third party service providers to those websites. 
+Most of the cookies on our Platform are set on browsers or devices and used directly by us. These are referred to as “first-party” cookies.
 
-Cookies can remain on your computer or mobile device for different periods of time. Some cookies are "session cookies", meaning that they exist only while your browser is open and are deleted automatically once you close your browser. Session cookies cannot be used to track your browser or device from website to website.
+Other businesses (“Partners”) also set and use cookies on the Platform. They help us keep it safe and secure and promote our services on other apps and websites. These cookies also enable us, our advertisers and measurement partners to measure ad campaign effectiveness and show you personalised ads. In this Cookies Policy, we refer to cookies set by Partners on the Platform as “third-party cookies”. You can find more information about the Partners that use cookies on the Platform and links to their own privacy policies here.
 
-Other cookies are "persistent cookies", meaning that they survive after your browser is closed. Most persistent cookies are set to automatically expire after a defined duration (for example, a few days, weeks or months). When you return to that website (or visit other websites that use the same cookies) the website provider or its service providers can recognise the persistent cookies they have set and recognise your browsing device. 
+Cookies can remain on your computer or mobile device for different periods of time. Some cookies are “session cookies”. They exist only while your browser is open and are deleted automatically or shortly after you close your browser.
 
-SDKs: SDKs are pieces of code that enable data to be collected about your device, network and interaction with a website. Like cookies, they generally operate by assigning your device a unique number.
+Other cookies are “persistent cookies”. They stay after you close your browser or app. Persistent cookies expire automatically after a set time, like a few days or weeks. When you return to the Platform, a third-party site or other sites that use the same cookies, persistent cookies on your device can be recognised.
 
-Pixels (also called beacons or tags): Pixels are small 1 pixel x 1 pixel invisible image files that are embedded in certain website pages or emails.  They can be used to collect information about your visit to that website page or to record the fact you opened an email.  
+### What are cookies used for
 
-When you open a website page or email with an embedded pixel, the page or email will automatically run simple code that downloads the 1x1 image file to your browser or device.  At the same time, the code also passes certain information about your device and your actions on the website, or the fact that you opened the email, to the website server.  Your interest in the website or email can then be logged and used for analytics or advertising purposes.  
+Cookies enable us to provide and secure, as well as analyse and customise, the Platform. This includes providing a safer, personalised experience to users of the Platform. For example, we will verify logged-in users to give them an appropriate experience.
 
-Local storage: Local storage files are created by websites to store information locally on your device. They are very similar to cookies, but can have slightly different properties (for example, local storage can be used to store more information and can be stored in a different location on your device to cookies).  Local storage is normally used to speed up site functionality and remember your preferences.
+Cookies let us, our advertisers and measurement partners measure ad campaign effectiveness. They also allow us to show you ads based on your browsing and profile.
 
-**2\. Categories of tracking technologies**
--------------------------------------------
+We have provided more information below about the purpose of cookies.
 
-Tracking technologies can either be “First-party” or “Third-party”. First-party tracking technologies refers to tracking technologies that we set and use directly. Third-party tracking technologies refer to tracking technologies set by third parties (such as our analytics or advertising service providers) through our Websites.
+  
 
-The types of tracking technologies used by us and our partners in connection with the Websites can be classified into one of four categories, namely (i) "Strictly necessary", (ii) "Functionality", (iii) "Analytics and performance" (iv) "Advertising and marketing". We have set out some further general information about each of these categories below.
+#### Essential and optional cookies
 
-### **(i) Strictly necessary**
+Some cookies are essential to provide you with the Platform and features you have requested. You cannot decline or turn them off afterwards.
 
-These tracking technologies are strictly necessary to provide you with the Website and the features you have requested, such as to allow you to log into secure areas of the Website. Because these technologies are essential for the Website and the features you have requested to work, you cannot decline these tracking technologies.
+Other optional, non-essential cookies will be used based on your usage and the sites you visit. We outline a summary of the types of cookies we use in Section 2.2 below.
 
-_First-party tracking technologies (set by TikTok):_
+  
 
-We use first-party tracking technologies for the following essential purposes:
+#### Types of cookies
 
-* Optimising and improving access to the website
+The Platform uses cookies for the following purposes:
 
-* Preventing fraud and detecting non-human (bot) traffic
+  
 
-* User authentication and secure logins
+**Functionality and customisation**
 
-* Traffic scheduling and network distribution.
+Some cookies help the Platform work better. They also let us customise the Platform to your preferences. For example, we can display it in your preferred language. We also use cookies to verify your account when logged in. This helps us provide you with an appropriate experience on the Platform and its features.
 
-As explained above, these tracking technologies are strictly necessary to operate our Websites and cannot be declined. Some of these tracking technologies have a maximum duration of 24 months.
+Below, we provide examples of the cookies we use for functionality and customisation.
 
-_Third-party tracking technologies (set by our partners): ­­_
+* Some cookies allow for the proper functioning of the Platform and our services. These cookies remember your login details and status while you browse the Platform, for example, “sid\_tt” cookies (retained for 2 months).
+* Some cookies record your preferred language, like “default\_lang” cookies (retained for 1 year). Other cookies, like “locale” cookies (retained for 1 year), record the country from which you visit the Platform.
+* Other cookies record your consent to remember your choice of optional cookies.
 
-We also deploy tracking technologies from the following third parties for the following essential purposes:
+  
 
-* Akamai ([https://www.akamai.com/](https://www.akamai.com/)) 
+**Safety and security**
 
-* Purpose: content delivery, security, bot management, fraud prevention
+We use some cookies to keep you and the Platform safe and secure.
 
-* Duration: Session
+For example, these types of cookies enable us to:
 
-### **(ii) Functionality**
+* Prevent fraudulent attacks to our Platform.
+* Detect non-human traffic (bots).
+* Detect suspicious activity.
+* Check if an account was suspended for violating our Community Guidelines. This will let us take appropriate action.
+* Schedule traffic and distribute it properly across networks.
 
-Functionality tracking technologies record information you enter or choices you make, such as your login details, login status, ID, language preference for the Website and your cookie consent choice. ­­­­­ They help to make the Website work more efficiently and enable us to tailor the Website to your preferences.
+The cookies used for these purposes include “ttwid” cookies (retained for 1 year) and “security\_verification\_ticket” cookies (retained for 1 month).
 
-_First-party tracking technologies (set by TikTok):_
+  
 
-We use first-party tracking technologies for the following functionality purposes:
+**Analytics and research**
 
-* Frequency capping (limiting the number of times you see the same video)
+Some cookies help us understand your use of the Platform and its features. They show which pages you view and how you interact
 
-* Localisation (remembering the country from which you visit the Website(s) and your language preferences) 
+This information lets us measure and quickly fix any errors on the Platform to improve your experience. We also use the information obtained through these cookies to test design ideas. It helps us understand user activity and patterns. This, in turn, improves the Platform and its features.
 
-* Cookie consent (remembering your cookie consent preferences)
+Below are examples of the analytics cookies we use, their purposes and their retention periods.
 
-Some of these tracking technologies have a maximum duration of 24 months.
+* The “ttwid” first-party cookie is for analytics and web optimisation. It lasts for a maximum of 13 months.
+* We also use Google Analytics to analyse Platform usage. This includes the number of page views and unique visitors. Google Analytics has a retention period of 24 months.
 
-_Third-party tracking technologies (set by our partners):_
+  
 
-None for this purpose.
+**Advertising and measurement**
 
-### **(iii) Analytics and performance**
+Our Platform uses first-party and third-party cookies for advertising purposes. This includes personalising ads (depending on your settings) based on your browsing habits and profile and your off-app activity.
 
-We use analytics and performance tracking technologies to analyse how you use the Website, including which pages you view most often, how you interact with the content, measure any errors that occur and test different design ideas. The information is used to report and evaluate your activities and patterns as a user of the Website.
+We also use cookies to measure our ads’ performance on the Platform.
 
-_First-party tracking technologies (set by TikTok):_
+Examples of the advertising and measurement cookies include cookies:
 
-We use first-party tracking technologies for analytics and web optimisation purposes. Some of these tracking technologies have a maximum duration of 13 months.
+* To show you personalised ads from an advertiser if you have visited their website or app before. For example, we use the “ttp” first-party cookie for these purposes and it has a retention period of 1 year.
+* To serve ads about TikTok on third-party platforms. This includes remarketing TikTok to people who visited our website and measuring our ad campaigns’ performance. For example, the “fbp” third-party cookie which has a retention period of 3 months.
+* To measure the performance of ads on our Platform. This includes tracking user actions in response to ads. For example, this includes visits to an advertiser’s website or purchases. For example, the third-party advertising identifiers “IDFA” and “GAID” are used for ad measurement and personalising ads.
 
-_Third-party tracking technologies (set by our partners):_
+### How TikTok Partners use cookies
 
-We also deploy tracking technologies from the following third parties for the following analytics and performance purposes:
+Some of our Partners, including third-party platforms, advertisers and measuring partners, use cookies on the Platform for the purposes listed above. These let us provide you with additional features on the Platform. For example, you can log in using your third-party accounts (like Facebook or Google) or share your content on other platforms. Our [Cookies Partners List](https://www.tiktok.com/legal/tiktok-partner-list) includes a list of our Partners using cookies on the Platform. It also has links to their own privacy and cookie policies.
 
-* Google Analytics ([https://policies.google.com/privacy](https://policies.google.com/privacy))
+### How can you control cookies?
 
-* Purpose: Analyse Website usage, including the number of page views and unique visitors). 
+Some of the cookies that we use are essential to operate the Platform. As a result, you cannot control the use of such cookies.
 
-* Duration: 24 months 
+You can accept or refuse optional cookies.
 
-### **(iv) Advertising and marketing**
+Blocking or deleting cookies may mean that some of your Platform preferences will be lost. Blocking all cookies may also mean certain functionalities on the Platform will not operate fully or properly.
 
-Some of our Websites use third-party advertising and marketing tracking technologies. These tracking technologies help us, and third parties in some cases, to promote our services on the other platforms and websites and measure the effectiveness of our campaigns.
+You can control how we use data from cookies to show you ads by using the settings described below.
 
-_First-party tracking technologies (set by TikTok):_
+  
 
-We use first-party tracking technologies to improve our marketing campaigns, including to track ad conversions from ads for TikTok, build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken action on our Websites or on TikTok ads.
+**Platform Cookie settings**
 
-_Third-party tracking technologies (set by our partners):_ 
+You can manage your cookie settings any time and accept or refuse optional cookies.
 
-We also deploy tracking technologies from the following third parties for the following advertising and marketing purposes:
+  
 
-* AppsFlyer ([https://www.appsflyer.com/privacy-policy/](https://www.appsflyer.com/privacy-policy/)) 
+**Your Personalised Ads settings**
 
-* Purpose: App download attribution, campaign measurement and remarketing services.  For example, when you download TikTok via a Website, AppsFlyer collects selective data from your device to help us understand the download source, the ad you clicked on to access TikTok, and when the installation happened. Your post-installation activity, such as what videos you have viewed/accounts you have followed, will also be used to measure campaign effectiveness. 
+If you have a TikTok account and are logged in, you can [manage how your information affects certain ads you see on the Platform](https://www.tiktok.com/privacy/ads-and-your-data/en). You can do so by following the following instructions:
 
-* Duration: 24 months 
+  
 
-* Google Analytics remarketing and search engine optimisation ([https://policies.google.com/privacy](https://policies.google.com/privacy))
+**Your App settings**
 
-* Purpose: To connect Google searches with visits to our Websites. To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on Google build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken some kind of action on our Websites or on TikTok ads.
+You can also tailor your device settings to control your mobile advertising identifiers:
 
-* Duration: 24 months 
+* On Apple devices: For iOS versions older than iOS 14, you can turn on the “Limit Ad Tracking” setting in your device settings. For iOS 14 or newer, you can limit third-party tracking in your device settings.
+* On Android devices, you can turn on the “Opt out of Ads Personalisation” in your device.
 
-* Facebook Pixel ([https://www.facebook.com/policy](https://www.facebook.com/policy))
+  
 
-* Purpose: To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on Facebook, build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken action on our websites or on TikTok ads. 
+**Your web browser settings**
 
-* Duration: 24 months
+Most browsers will also allow you to choose the level of privacy settings you want. You can control your cookies and local storage settings, like:
 
-* LinkedIn Insight Tag ([https://www.linkedin.com/legal/privacy-policy](https://www.linkedin.com/legal/privacy-policy))
-
-* Purpose: To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on LinkedIn, build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken action on our Websites or on TikTok ads.
-
-* Duration: 24 months
-
-* Bing Pixel ([https://privacy.microsoft.com/privacystatement](https://privacy.microsoft.com/privacystatement))
-
-* Purpose: To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on Bing, build targeted audiences, optimise TikTok ads on third party websites and apps  for current and future visitors and remarket to people who have already taken action on our Websites or on TikTok ads.
-
-* Duration: 24 months
-
-* Reddit Pixel ([https://www.reddit.com/policies/privacy-policy](https://www.reddit.com/policies/privacy-policy))
-
-* Purpose: To improve our marketing campaigns, including to track ad conversions from ads for TikTok shown on Reddit, build targeted audiences, optimise TikTok ads on third party websites and apps for current and future visitors and remarket to people who have already taken action on our Websites or on TikTok ads.
-* Duration: 24 months
-
-* HubSpot Cookie ([https://legal.hubspot.com/privacy-policy](https://legal.hubspot.com/privacy-policy))
-
-* Purpose: To improve our marketing campaigns, including to track conversions from emails we distribute. We also use HubSpot for analytics purposes, to analyse website usage, including how you navigated to our website.
-* Duration: 12 months
-
-**3\. How to accept or refuse cookies**
----------------------------------------
-
-* Website Cookie Settings Tool
-
-You can manage your cookie settings to accept or refuse certain tracking technologies on our Websites via our Cookie Settings tool, located at the top of this page.
-
-* Browser Settings
-
-Most browsers will also allow you to choose the level of privacy settings you want. This lets you control your cookie and local storage settings so that you can:
-
-* See what cookies or other locally stored data you’ve got and delete them on an individual basis;
-
-* Block third-party cookies or similar technology;
-
-* Block cookies or similar technology from particular sites;
-
-* Block all cookies or similar technologies from being set; or
-
+* See what cookies or other locally stored data you have and delete them on an individual basis;
+* Block third-party cookies;
+* Block cookies from particular sites;
+* Block all cookies from being set; or
 * Delete all cookies/site data.
 
-Blocking and/or deleting cookies or similar technologies may mean that any Website preferences will be lost. Blocking all cookies or similar technology may also mean certain functionality on the Website will not operate properly. Please therefore note that if you choose to refuse or delete cookies you may not be able to use the full functionality of the Website.
-
-For more information on how to manage the most popular browsers, please see below:
+For more information on how to manage the most popular browsers, see below:
 
 * Google Chrome: [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)
-
-* Safari: [https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)  
-
+* Safari: [https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 * Internet Explorer: [https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
-
 * Edge: [https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies](https://support.microsoft.com/en-gb/help/4027947/microsoft-edge-delete-cookies)
-
 * Firefox: [https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer)
 
-**4\. Changes to this policy**
-------------------------------
+### Changes to this policy
 
-We will occasionally update this policy to reflect changes in our practices and services. When we post changes to this policy, we will revise the "Last Updated" date at the top of this policy.
+We may update this Cookies Policy from time to time. We will notify you of any material changes to this policy through the Platform or other means. The “Last updated” date at the top of this Cookies Policy shows the effective date of such policy changes.
 
-If we make any material changes in the way we collect, use, and/or share information held in cookies, we will notify you by prominently posting notice of the changes on the Website and if required by applicable law we will request your consent for any such new uses. We recommend that you check this page from time to time to inform yourself of any changes in this policy or any of our other policies.
+### Contact us
 
-**5\. Contact us**
-------------------
+If you have questions about this Cookies Policy, or any privacy issues, contact us [through our webform](https://www.tiktok.com/legal/report/privacy).
 
-If you have any questions or comments about this policy, or privacy matters generally, please contact us at: [https://www.tiktok.com/legal/report/privacy](https://www.tiktok.com/legal/report/privacy).
+### More information
+
+For details on TikTok’s cookie data processing, see our [Privacy Policy](https://www.tiktok.com/legal/privacy-policy). It covers international data transfers, safeguards mechanisms implemented and the use of personal data with cookies.
+
+For more info on our Partners’ data transfers, see their privacy and cookies policies. (See point 3: How TikTok Partners use cookies, of this Cookies Policy).
