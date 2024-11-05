@@ -43,9 +43,7 @@ _Account Merges:_ If you open an account using an email address belonging to an 
 Your Ownership of Your Data and the Limited Permissions You Give Us
 -------------------------------------------------------------------
 
-**User Content** refers to the text and documents you enter, upload, and transmit when you use our products.  
-  
-You own your User Content; Grammarly doesn’t own it. To provide our products to you, we need your permission (in legal language, a license) to use your User Content.  
+**User Content** refers to the text and documents you enter, upload, and transmit when you use our products. You own your User Content; Grammarly doesn’t own it. To provide our products to you, we need your permission (in legal language, a license) to use your User Content.  
   
 You grant us a license to your User Content for the limited purposes of:  
 
@@ -57,7 +55,7 @@ You grant us a license to your User Content for the limited purposes of:
     
 * Developing new products or features (for example, creating our tone detector); and  
     
-* Using information you upload or provide to us (such as your name) to encourage other people in your organization to join your Grammarly Business or Grammarly for Education team account.  
+* Using information you upload or provide to us (such as your name) to encourage other people in your organization to join your company’s or organization’s Grammarly account.  
     
 
   
