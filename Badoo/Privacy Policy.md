@@ -10,7 +10,7 @@ Badoo’s App and Sites are global, and your information will be sent to and use
 Who we are
 ----------
 
-Badoo Trading Limited act as the data controller of the personal information collected and processed through the Badoo App and Sites (referred to in this Policy as “we” and “us”).
+Badoo Trading Limited acts as the data controller of the personal information collected and processed through the Badoo App and Sites (referred to in this Policy as “we” and “us”).
 
 Badoo has designated a Data Protection Officer that can be reached by emailing DPO@badoo.com or by post at the following address: 1 Blossom Yard, Fourth Floor, London E1 6RS
 
@@ -58,9 +58,9 @@ When you post information about yourself or use the messaging function to commun
 
 ### Profile Verification Information (Including Biometric Information)
 
-For safety and security and to ensure you have the best possible user experience, we may require Users to verify their accounts and might ask for your phone number and, in some instances, we might also ask that you carry out [photo verification (opens in new window)](https://badoo.com/help/?section=265). We want to make sure you are not a robot! And we also want to avoid fake Badoo accounts being created which can be used for malicious activities and cybercrime – they threaten the Badoo network and spoil things for everyone. This verification might be required by us for the prevention of fraud. You can also verify your photo on a voluntary basis (to add the blue “verified” badge to your profile).
+For safety and security and to ensure you have the best possible user experience, we may require Users to verify their accounts and might ask for your phone number and, in some instances, we might also ask that you carry out [photo verification (opens in new window)](https://badoo.com/help/?section=265#settings-help-question/271/3441). We want to make sure you are not a robot! And we also want to avoid fake Badoo accounts being created which can be used for malicious activities and cybercrime – they threaten the Badoo network and spoil things for everyone. This verification might be required by us for the prevention of fraud. You can also verify your photo on a voluntary basis (to add the blue “verified” badge to your profile).
 
-If you choose to verify your profile photo, we will scan each photo that you submit. The scan may include the use of facial recognition technology so that we can compare the photo you submit to your profile photo, to help ensure that you are who you say you are. We do not add the verification photos to your profile. We retain the scans so that we can verify you in the future and for our record-keeping purposes until we no longer need them for such purposes or for three years after your last interaction with us, whichever occurs first. After the applicable retention period expires, we take commercially reasonable steps to permanently and securely delete the scans from our systems.
+If you choose to verify your profile photo, we will scan each photo that you submit. The scan may include the use of facial recognition technology so that we can compare the photo you submit to your profile photo, to help ensure that you are who you say you are. We do not add the verification photos to your profile. We’ll keep your photo to compare it with any future photos you add to your profile. Your verification photo will not be visible on your profile.
 
 ### Purchases Information
 
@@ -333,11 +333,16 @@ When your Account is deleted, we make sure it is no longer viewable on the App. 
 
 **Warning:** Even after you remove information from your profile or delete your Account, copies of that information may still be viewable and/or accessed to the extent such information has been previously shared with others, or copied or stored by others. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information, they may retain such information to the extent permitted under their terms of service or privacy policies.
 
+12\. BETA PROGRAMS.
+-------------------
+
+If you choose to participate in beta testing through Apple’s TestFlight Program, please see here for additional information about how your data will be processed.
+
 Thanks for reading, we hope we didn’t drone on for too long!
 
-12\. CHANGES TO THIS POLICY.
+13\. CHANGES TO THIS POLICY.
 ----------------------------
 
 As Badoo evolves, we may revise this Privacy Policy from time to time. The most current version of the policy will govern our use of your information and will always be at https://badoo.com/privacy/. If we make a change to this policy that, in our sole discretion, is material, we will notify you, for example, via an email to the email associated with your Account or by posting a notice within Badoo.
 
-**Effective date.** This Privacy Policy was last updated on: 2nd August 2024.
+**Effective date.** This Privacy Policy was last updated on: 5th November 2024.
