@@ -334,7 +334,7 @@ Disruptive Content and Behavior
 * Falsely reporting other users or experiences or encouraging others to do so
 * Invading or flooding experiences or groups in an effort to disrupt the experience or its reputation
 
-For more information about creating Avatar Bodies that comply with these policies, including requirements for clothing and accessories, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
+For more information about creating bundles that comply with these policies, including requirements for clothing and accessories, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
 
 For more information about how to safely offer text chat in your experience, please see [here](https://devforum.roblox.com/t/migrate-to-textchatservice-removing-support-for-legacy-chat-and-custom-chat-systems/3237100).
 
