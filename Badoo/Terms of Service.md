@@ -280,7 +280,14 @@ If we are sued as a result of your use of Badoo then we have the right to defend
 
 You agree to hold harmless and indemnify us and our officers, directors, employees, agents, representatives and licensors from and against any third party claims, damages (actual and/or consequential), actions, proceedings, demands, losses, liabilities, costs and expenses (including reasonable solicitors’ fees) suffered or reasonably incurred by us arising as a result of, or in connection with, your access to and use of Badoo, the uploading or submission of Content to Badoo by you or your conduct, other than in accordance with the Terms or any applicable law or regulation (“**Claim**”). Badoo retains the exclusive right to settle, compromise and pay any and all Claims or causes of action which are brought against us without your prior consent.
 
-11\. Miscellaneous
+11\. Beta Programs
+------------------
+
+You may be invited to participate in a beta program. Participation in a beta program is optional and at your own risk. Badoo’s Terms and Conditions and [Privacy Policy (opens in new window)](https://badoo.com/en/privacy/) continue to apply to any beta program. Additional terms may apply. Badoo reserves the right to remove you from a beta program at any time and may suspend or discontinue a beta program at any time without notice to you.
+
+In order to participate in Badoo’s beta program with Apple TestFlight, you will be required to install the Apple TestFlight app and agree to its [Terms of Service (opens in new window)](https://www.apple.com/legal/internet-services/itunes/testflight/sren/terms.html) and [Privacy Notice (opens in new window)](https://www.apple.com/legal/privacy/data/en/test-flight/). Only one version of Badoo (the regular App Store version or the TestFlight version) can be installed on your device at a time. If you have the App Store version installed on your device and you install the TestFlight version, your app data may be corrupted or lost and may not be recoverable. You should back up your information before installing the beta app. You may discontinue participating in the beta program at any time by following the instructions in the TestFlight Terms of Service. Discontinuing your participation in the beta program does not delete your Badoo account. You will be able to continue using the regular App Store version of Badoo by reinstalling it and logging into your account. Please note that your data may not remain available from within the App Store version. We recommend that you backup your data before deleting the beta app or reinstalling the full version from the App Store. In-app purchases made whilst participating in a beta program via Apple TestFlight are free, however, subscriptions and consumables (including credits) obtained during the beta program have accelerated expiration rates and will expire within a certain number of minutes after selection. Subscriptions will automatically renew a limited number of times. Apple and/or Badoo may change the expiry periods and renewal rates at their discretion. Subscriptions and consumables obtained during the beta program will not carry over to the App Store version of Badoo unless that version is accessed within the time period during which they are live. Separately, participants may receive a certain number of credits daily for participating in the beta program; those credits will not have accelerated expiry rates, however, they will not carry over to the App Store version of Badoo and Badoo may expire those credits at any time.
+
+12\. Miscellaneous
 ------------------
 
 ### What about all of those standard clauses that you see at the end of most contracts? They’re the best bit!
@@ -313,4 +320,4 @@ Our registered office is at 1 Blossom Yard, Fourth Floor, London E1 6RS.
 Effective date
 --------------
 
-The Terms were last updated on: October 16th 2024.
+The Terms were last updated on: 5th November 2024.
