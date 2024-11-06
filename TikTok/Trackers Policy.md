@@ -1,4 +1,4 @@
-Last updated: 11/04/2024
+Last updated: 4 November 2024
 
 This Cookies Policy explains how TikTok and our partners use cookies and similar technologies. It applies to TikTok’s apps, websites, software and related services (together, the “Platform”). It also covers your choices to control them. Unless otherwise stated in this Cookies Policy, our Privacy Policy applies to the data we collect through cookies and similar technologies.
 
