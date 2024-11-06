@@ -336,7 +336,7 @@ When your Account is deleted, we make sure it is no longer viewable on the App. 
 12\. BETA PROGRAMS.
 -------------------
 
-If you choose to participate in beta testing through Apple’s TestFlight Program, please see here for additional information about how your data will be processed.
+If you choose to participate in beta testing through Apple’s TestFlight Program, please see [here (opens in new window)](https://www.apple.com/legal/privacy/data/en/test-flight/) for additional information about how your data will be processed.
 
 Thanks for reading, we hope we didn’t drone on for too long!
 
