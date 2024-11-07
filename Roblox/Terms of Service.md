@@ -751,7 +751,7 @@ Summary of Recent Changes
 _Terms of Use_
 
 * We have added Roblox Commerce terms and In-Experience Friend Reward Program terms.
-* We have expanded the definition of “Earned Robux” to include Roboux awarded by Roblox in certain promotional campaigns and clarified some of its limitations.
+* We have expanded the definition of “Earned Robux” to include Robux awarded by Roblox in certain promotional campaigns and clarified some of its limitations.
 * We have added terms clarifying our existing practices that tax may be added to Robux and subscriptions purchases.
 
 _Appendix C_
