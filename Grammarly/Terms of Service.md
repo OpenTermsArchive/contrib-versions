@@ -1,24 +1,20 @@
-Effective as of September 4, 2024 | Posted: September 4, 2024
+Effective as of November 8, 2024 
 
 Terms of Service
 ----------------
 
-([View Previous Version](https://www.grammarly.com/terms-2023))  
+([View Previous Version](https://www.grammarly.com/terms-2024))  
   
-**_Note: If your organization has signed up for Grammarly Business or Grammarly for Education, our online (available_** [**_here_**](https://www.grammarly.com/terms/customer-business-agreement)**_) or offline Grammarly Customer Business Agreement will govern your use of your Grammarly team account._** **_Grammarly Pro customers are subject to these Terms of Service._**  
+Welcome to Grammarly! These terms of service govern your use of our products, except where stated otherwise. References to our products in these terms of service refer to all of our products and services, including our apps, websites, and software.  
   
-Welcome to Grammarly! These terms of service govern your use of our products. References to our products in this terms of service refer to all of our products and services, including our apps, websites, and software.  
-  
-In addition to these terms, we provide a [Privacy Policy](https://www.grammarly.com/privacy-policy) for individuals and a [Data Privacy Addendum](https://www.grammarly.com/terms/Grammarly-DPA.pdf) for multi-person accounts. These documents describe how we process, collect, use, and protect your information.  
-  
-If you open a paid account on behalf of a company, organization, or other legal entity, you must have the authority to bind that entity to these terms of service. In such cases, references to “you” and “your” in these terms will refer to that legal entity  
+**_Which terms apply to me? These_** **_terms of service apply to most Grammarly customers. If you’ve signed up for Grammarly Business or Grammarly for Education, please refer to our Customer Business Agreement and Data Privacy Addendum. If you signed up for Grammarly Pro on behalf of a company, organization, or other legal entity, you must have authority to bind that entity to these terms of service. In such cases, “you” and “your” in these terms will refer to that legal entity. If you signed up for a Grammarly Pro account that has multiple users, please see “Limitations on Use and Responsibilities” for additional details._**   
 
 Our Mission and Business Model
 ------------------------------
 
 Our mission is to improve lives by improving communication.  
   
-We offer free and paid products and hope you’ll purchase one of our paid products. We don’t sell your data.  
+We offer free and paid products and hope you’ll purchase one of our paid products. Grammarly does not monetize data or use the content customers upload to our products for advertising purposes.  
 
 Who We Are
 ----------
@@ -30,7 +26,7 @@ Paid Accounts
 
 _Billing:_ You can upgrade your account to access paid features, which would turn your account into a paid account. When you do that, we’ll automatically bill you from the date you convert to a paid account and on each periodic renewal until cancellation. You are responsible for all applicable taxes, and we’ll charge tax when required. Some countries have mandatory local laws regarding your cancellation rights, and this paragraph doesn’t override these laws.  
   
-_Refunds:_ You may cancel your Grammarly paid account at any time (instructions on how to do that are [here](https://support.grammarly.com/hc/en-us/articles/115000090172-How-do-I-cancel-my-subscription)). Refunds are issued if they are required by law.  
+_Refunds:_ You may cancel your Grammarly paid account at any time (instructions on how to do so are [here](https://support.grammarly.com/hc/en-us/articles/115000090172-How-do-I-cancel-my-subscription)). Refunds are issued if they are required by law.  
   
 _Downgrades:_ Your paid account will remain in effect until it’s canceled or terminated under these terms. If you don’t pay for your paid account on time, we reserve the right to suspend it or reduce your access to the free version of our products.  
   
@@ -38,7 +34,7 @@ _Free trials_: Grammarly may offer a free trial membership. If you are using a f
   
 _Changes:_ We may change the fees in effect but will give you advance notice before those changes take effect. Any change in prices will apply to your next billing cycle.  
   
-_Account Merges:_ If you open an account using an email address belonging to an employer or an organization that has purchased Grammarly Business or Grammarly for Education, your account may be merged with your employer’s or organization’s account upon their request. Following such a merger, your use of our services will be governed by the terms applicable to the parent account, which may differ from these terms  
+_Account merges:_ If you open an account using an email address belonging to an employer or an organization that has purchased Grammarly Business, Grammarly Pro, or Grammarly for Education, your account may be merged with your employer’s or organization’s account upon their request. Following such a merger, your use of our services will be governed by the terms applicable to the parent account, which may differ from these terms  
 
 Your Ownership of Your Data and the Limited Permissions You Give Us
 -------------------------------------------------------------------
@@ -104,21 +100,25 @@ _Usage Restrictions._ You may not use Grammarly’s generative AI features:
 
   
 
-Grammarly Business and Grammarly for Education Users
-----------------------------------------------------
+Grammarly Business, Grammarly for Education, or Certain Grammarly Pro Plan End Users
+------------------------------------------------------------------------------------
 
-_Business terms_. When you sign up for Grammarly Business or Grammarly for Education, your organization’s terms will govern your use of your Grammarly team account.  
+When you sign up for an account under the management of a company, organization, or other legal entity, including Grammarly Business, Grammarly Pro, or Grammarly for Education, your organization’s terms will govern your use of such Grammarly account.  
   
-_Using Grammarly Business or Grammarly for Education_. If you join a Grammarly Business or Grammarly for Education team account, you must use the products in compliance with your organization’s terms and policies. Please note that Grammarly team accounts are subject to your organization’s control. Your administrators can downgrade, restrict, or terminate your access to a Grammarly team account and view information about it. Also, if you are a Grammarly for Education team member, your parents and school administrator may have the legal right to access your account or delete it.  
+_Y_ou must use the products in compliance with such organization’s terms and policies. Please note that such Grammarly accounts are subject to your organization’s control. Your administrators can downgrade, restrict, or terminate your access to such a Grammarly account and view information about it. Also, if you use a Grammarly for Education account, your parents and school administrator may have the legal right to access your account or delete it.  
 
 Limitations on Use and Responsibilities
 ---------------------------------------
 
-_Acceptable Use Policy_. You must comply with our [Acceptable Use Policy](https://www.grammarly.com/acceptable-use-policy) when you use our products.   
+_Acceptable Use Policy._ You must comply with our [Acceptable Use Policy](https://www.grammarly.com/acceptable-use-policy) when you use our products.   
   
-_Keeping your account information up to date and safe_. You are responsible for safeguarding your password to our products. Don’t share your account credentials or give others access to your account. We will use your account email address to contact you about our products, so you must ensure that your account information stays current. _Minimum age requirements_. To use our products, you must be at least 13 if you reside in the United States and 16 if you reside anywhere else. If the law where you reside requires that you are older for us to lawfully provide our products to you without parental consent (including using your information), you must be that age. You may not use our products if you don’t meet these age requirements. However, if your parents or guardians have allowed you to join a Grammarly for Education team, you may still use our products.  
+_Keeping your account information up to date and safe._ You are responsible for safeguarding your password to our products. Don’t share your account credentials or give others access to your account. We will use your account email address to contact you about our products, so you must ensure that your account information stays current.   
   
-_Handling_ _multi-user_ _account_s. When you set up an account for multiple end users, it is your duty to ensure they follow these terms of service. You are also responsible for providing any required notices and obtaining any necessary consents for us to provide our products to them on your behalf. For more information on managing multi-user accounts, please review our [Technical Specifications](https://www.grammarly.com/technical-specifications).  
+_Minimum age requirements._ To use our products, you must be at least 13 if you reside in the United States and 16 if you reside anywhere else. If the law where you reside requires that you are older for us to lawfully provide our products to you without parental consent (including using your information), you must be that age. You may not use our products if you don’t meet these age requirements. However, if your parents or guardians have allowed you to join a Grammarly for Education account, you may still use our products.  
+  
+_Processing of Personal Information._ If you open a paid account on behalf of a company, organization, or other legal entity with multiple seats, Grammarly will process the personal information of your end users in accordance with the [Data Privacy Addendum](https://assets.ctfassets.net/1e6ajr2k4140/Bu72J3VyTvOlAeKMJC2td/7fa68723cc630157d202ae1eaef997a7/Grammarly_Data_Privacy_Addendum__11.6.24.pdf). In such cases, you are responsible for providing any legally required notices and obtaining any necessary consents for us to provide our products to your end users on your behalf. If you’ve opened a Grammarly Pro account with multiple end users, but are not a formal organization or legal entity, Grammarly’s [Privacy Policy](https://www.grammarly.com/privacy-policy) will govern the processing of personal information about the users of your account.   
+  
+_Handling_ _multi-user_ _account_s_._ When you set up an account for multiple end users, it is your duty to ensure they follow these terms of service. For more information on managing multi-user accounts, please review our technical documentation and usage guides for our products made available on our Support [page](https://support.grammarly.com/). If you are an individual operating under a multi-user Grammarly Pro account, your account administrator is responsible for providing us instructions on how to process User Content, such as by selecting applicable settings, and we will process your User Content in accordance with such instructions unless otherwise prohibited by applicable law.   
 
 Termination
 -----------
@@ -204,7 +204,7 @@ _Severability._ If the “NO CLASS ACTIONS” paragraph is held unenforceable, t
   
 **Controlling Law**  
   
-California law will govern these terms except for its conflicts of laws principles. However, some countries (including those in the European Union) have laws that require agreements to be governed by the local laws of the consumer’s country. This paragraph doesn’t override those laws.  
+Unless otherwise required by a mandatory law of a member state of the European Union, United Kingdom, Switzerland, or any other jurisdiction, this Agreement and terms and any disputes shall be governed by California law except for its conflicts of laws principles. However, some countries (including those in the European Union) have laws that require agreements to be governed by the local laws of the consumer’s country. This paragraph doesn’t override those laws nor any general rights to have disputes settled in court rather than by arbitration.   
 
 Miscellaneous Legal Terms
 -------------------------
