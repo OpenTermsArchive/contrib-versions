@@ -83,7 +83,7 @@ Please understand that the above rights are subject to exceptions in some cases 
 
 You may request disclosure and/or deletion of any information we have collected about you by either:
 
-* filling out the form available [here](https://privacyportal.cookiepro.com/webform/1f3ee98b-8600-4aae-954a-cf9d215eb0ab/4419f43d-8c61-4ba7-9b40-58e2c4cc5fc8), or
+* filling out the form available [here](https://urbandictionary.wufoo.com/forms/data-subject-request-form/), or
 * emailing us with the details of your request at [support@urbandictionary.com](mailto:support@urbandictionary.com)
 
 We will be in touch after receiving your request to verify your identity and to process your request. Please note that requests are considered on a case-by-case basis and are subject to legal requirements and, in some cases, verification.
