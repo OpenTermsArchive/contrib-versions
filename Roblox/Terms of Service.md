@@ -763,69 +763,69 @@ We are also making changes to other portions of the Roblox TermsThe terms and co
 Effective Date: November 6, 2024  
 Last Updated: November 6, 2024
 
-* [DE - Nutzungsbedingungen von Roblox 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957360143380)
+* [DE - Nutzungsbedingungen von Roblox 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957360143380)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957360143380)
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957360143380)
     
 * [EN - Roblox Terms of Use 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957353013908)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957353013908)
     
-* [ES - Términos de uso de Roblox 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957371387284)
+* [ES - Términos de uso de Roblox 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957371387284)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957371387284)
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957371387284)
     
-* [FR - Conditions d'utilisation de Roblox 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957387413652)
+* [FR - Conditions d'utilisation de Roblox 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957387413652)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957387413652)
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957387413652)
     
-* [ID - Roblox Ketentuan Penggunaan 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957377130260)
+* [ID - Roblox Ketentuan Penggunaan 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957377130260)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957377130260)
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957377130260)
     
-* [IT - Condizioni di utilizzo di Roblox 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957342364692)
+* [IT - Condizioni di utilizzo di Roblox 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957342364692)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957342364692)
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957342364692)
     
-* [JA - Roblox利用規約 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957366267540)
+* [JA - Roblox利用規約 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957366267540)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957366267540)
     
-* [KO - Roblox 이용 약관 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957376690452)
+* [KO - Roblox 이용 약관 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957376690452)
     
     3 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957376690452)
     
-* [PT-BR - Termos de Uso da Roblox 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957397428884)
+* [PT-BR - Termos de Uso da Roblox 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957397428884)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957397428884)
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957397428884)
     
-* [ZH-CN - Roblox使用条款 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957445389972)
+* [ZH-CN - Roblox使用条款 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957445389972)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957445389972)
     
-* [ZH-TW - Roblox 使用條款 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957415352852)
+* [ZH-TW - Roblox 使用條款 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957415352852)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957415352852)
     
-* [PL - Warunki korzystania z Roblox 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522165308692)
+* [PL - Warunki korzystania z Roblox 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522165308692)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/21522165308692)
     
-* [TH - ข้อกำหนดการใช้งานของ Roblox 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522231017236)
+* [TH - ข้อกำหนดการใช้งานของ Roblox 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522231017236)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/21522231017236)
     
-* [TR - Roblox Kullanım Koşulları 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522305082260)
+* [TR - Roblox Kullanım Koşulları 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522305082260)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/21522305082260)
     
-* [VI - Điều khoản Sử dụng của Roblox 20240812.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522384208660)
+* [VI - Điều khoản Sử dụng của Roblox 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522384208660)
     
     4 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/21522384208660)
     
-* [NL - Roblox-gebruiksvoorwaarden 20240805.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/27498186922004)
+* [NL - Roblox-gebruiksvoorwaarden 20241106.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/27498186922004)
     
-    1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/27498186922004)
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/27498186922004)
     
 
 [Return to top](#article-container)
