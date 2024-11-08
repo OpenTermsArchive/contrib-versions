@@ -3,7 +3,7 @@ Print this Page
 Privacy Notice
 ==============
 
-LAST UPDATED: July 15, 2024
+LAST UPDATED: November 7, 2024
 
 1\. Introduction
 ----------------
@@ -488,13 +488,13 @@ Under certain conditions, more fully described on the DPF website [https://www.d
 
 If you have provided survey responses, filled out a form, submitted an application, or provided website feedback to a Creator using SurveyMonkey services, that Creator is the controller of your data, and SurveyMonkey is the processor of that data. 
 
-For SurveyMonkey Enterprise account holders, your organization’s primary administrator controls some basic account level information which you input when setting up your account like name, email address and profile photo.  
+For SurveyMonkey Enterprise account holders, your organization’s primary administrator controls some basic account level information which you input when setting up your account like name, email address, and profile photo.  
 
-If you have provided survey responses, filled out a form, submitted an application, or provided website feedback directly to SurveyMonkey, then SurveyMonkey is the controller and our use of that data is described in our [SurveyMonkey Research Privacy Notice](https://www.surveymonkey.com/mp/legal/survey-research-privacy-notice/?ut_source=legal&ut_source2=privacy&ut_source3=inline). 
+If you have provided survey responses, filled out a form, submitted an application, or provided website feedback directly to SurveyMonkey, then SurveyMonkey is the controller and our use of that data is described by this Notice and in our [SurveyMonkey Research Privacy Notice](https://www.surveymonkey.com/mp/legal/survey-research-privacy-notice/?ut_source=legal&ut_source2=privacy&ut_source3=inline). 
 
 If you are a Creator and have received more responses than your plan allows (“overage data”), SurveyMonkey is the controller over the overage data until you change your plan type, or the overage data is deleted in accordance with section 12.4 of our [Terms of Use](https://www.surveymonkey.com/mp/legal/terms-of-use/#12.4%20SurveyMonkey%20Basic%20(Free)%20Plan%20Response%20Limits.) or per the terms of your negotiated contract.
 
-SurveyMonkey is a controller for the account-level data provided by its Creators and panelists from Contribute and Rewards.  
+SurveyMonkey is a controller for the account-level data provided by its Creators and panelists from Contribute and Rewards. More information can be found in section 13.6 of this Privacy Notice.
 
 11\. Your rights
 ----------------
@@ -509,7 +509,7 @@ For SurveyMonkey Apply users please see [information on how to exercise your rig
     
     Where you hold an account with any SurveyMonkey service, you are entitled to a copy of all Personal Data which we hold in relation to you. You also may be entitled to request that we restrict how we use your data or object to some aspect of our treatment of your data. You can access a lot of your data in your own account when you log in. If you want to exercise your rights, please contact us [here](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest).
     
-    Depending on your plan type, SurveyMonkey also enables you to export your own response data from our system in a variety of formats so that you can back it up or use it with other applications. Alternatively, for assistance in exporting you can contact us.
+    Depending on your plan type, SurveyMonkey also enables you to export your own response data from our system in a variety of formats so that you can back it up or use it with other applications. Alternatively, for assistance in exporting or deleting responses, you can contact us.
     
 * **11.3 Respondent**
     
@@ -578,13 +578,13 @@ Our main Privacy Notice applies to our TechValidate users except where the Priva
 
 **13.1.1 **TechFacts****
 
-TechFacts are published on an anonymous basis – that is, no Respondent Personal Information displayed in a TechFact unless your Respondents authorize the use of their name and company affiliation. You are able to see the individual respondent’s identity in your account and, if you give a SurveyMonkey employee permission to view that response, then SurveyMonkey will also see this. However, we never publish or disseminate this information (unless you explicitly ask us to do so).
+TechFacts are published on an anonymous basis – that is, no Respondent Personal Information is displayed in a TechFact unless your Respondents authorize the use of their name and company affiliation. You are able to see the individual respondent’s identity in your account and, if you give a SurveyMonkey employee permission to view that response, then SurveyMonkey will also see this. However, we never publish or disseminate this information (unless you explicitly ask us to do so).
 
 We assign a unique identification number to each TechFact. The ID will appear on each copy of the TechFact. Our site is designed so that visitors may look up and view TechFacts without the collection of any personal information (except for such visitor's internet protocol (IP) address).
 
 **13.2 **SurveyMonkey Apply****
 
-SurveyMonkey Apply is an online application system that helps organizations collect applications, manage subscriptions and facilitate reviews. Our main Privacy Notice applies to [apply.surveymonkey.com](https://apply.surveymonkey.com/?ut_source=legal&ut_source2=privacy-information-specific-to-other-services&ut_source3=inline) (“SurveyMonkey Apply”) except where the Privacy Notice specifies a section that is applicable only to our survey tool. Responses and Respondents in this section are intended as reference to applicants and their applications for the purposes of use of SurveyMonkey Apply.  
+SurveyMonkey Apply is an online application system that helps organizations collect applications, manage subscriptions and facilitate reviews. Our main Privacy Notice applies to [apply.surveymonkey.com](http://apply.surveymonkey.com/?ut_source=legal&ut_source2=privacy-information-specific-to-other-services&ut_source3=inline) (“SurveyMonkey Apply”) except where the Privacy Notice specifies a section that is applicable only to our survey tool. Responses and Respondents in this section are intended as reference to applicants and their applications for the purposes of use of SurveyMonkey Apply.  
 When an applicant submits an application through SurveyMonkey Apply, their login information can be used for multiple applications across the SurveyMonkey Apply site.  
 If you have any questions about your personal information in the context of our SurveyMonkey Apply service, you can contact us [here](https://help.smapply.io/hc/en-us/sections/115000411593-Contact-Us).
 
@@ -608,7 +608,7 @@ Our main Privacy Notice applies to our GetFeedback Digital users, except where t
 
 * Information about GetFeedback Digital APIs is provided [here](https://usabilla.com/api/).
 * Information about GetFeedback Digital partners is provided [here](https://usabilla.com/partner-directory/).
-* We do not delete customer data unless the customer has instructed us to do so. If you request that we delete data within your account or you close your account all data is deleted permanently within 6 months. Customers can also set a data retention periods between 1-36 months after which data is automatically deleted.
+* We do not delete customer data unless the customer has instructed us to do so. You can delete your data at any time. You can also set a data retention period between 1-36 months after which data is automatically deleted.
 * Sentiment Analysis and other additional machine learning features are auto-implemented for all customer accounts and cannot be switched off. If you do not wish to collect sentiment on your response data you should avoid use of open text response questions. 
 * To adjust your preferences and settings around data and information you must be logged into your account and/or can contact GetFeedback Digital’s team at privacy@getfeedback.com for assistance or you can read about this more [here](https://support.usabilla.com/hc/en-us/articles/360004975472-How-can-I-hide-privacy-sensitive-information-).
 * To exercise your data rights (as described in our main Privacy NoticeSection 14 above) you can use our [contact form](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest) (please specify that this is a GetFeedback Digital request) or you can contact GetFeedback Digital’s team at privacy@getfeedback.com.
