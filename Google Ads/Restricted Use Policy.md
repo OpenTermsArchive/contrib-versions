@@ -260,7 +260,7 @@ We will provide you with information on our decision for any policy violation en
 > Need help?
 > ----------
 > 
-> If you have questions about our policies, [contact Google Ads Support](https://support.google.com/google-ads/gethelp)
+> If you have questions about our policies, [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
 > 
 >   
 > 
