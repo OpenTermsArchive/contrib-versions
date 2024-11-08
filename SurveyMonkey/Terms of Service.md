@@ -7,14 +7,14 @@ For terms that apply to SurveyMonkey services purchased directly through our ent
 
 For terms that apply to SurveyMonkey services purchased through a third party, please see our [End Customer Terms of Use](https://prod.smassets.net/assets/content/sm/End-User-Terms-of-Use-2024-02.pdf).
 
-LAST UPDATED: July 15, 2024
+LAST UPDATED: November 7, 2024
 
 Introduction
 ------------
 
 _These are terms that will apply to your use of our Services.  You should read these terms thoroughly, but for your convenience, we provide annotations in boxes like this one throughout.  Please note that these annotations have no legal effect and are not part of our official terms._
 
-These Terms of Use (“**TOU**”) apply to your access and use of SurveyMonkey's products, services, websites, and apps that you purchase or sign up for on SurveyMonkey's websites and which are branded as “Momentive”, “SurveyMonkey”, “Wufoo” or “GetFeedback” (collectively the “**Service(s)**”). These TOU do not apply to Services which are available solely through our [enterprise sales](https://www.surveymonkey.com/product/enterprise/) channel.
+These Terms of Use (“**TOU**”) apply to your access and use of SurveyMonkey's products, services, websites, and apps that you purchase or sign up for on SurveyMonkey's websites and which are branded as “SurveyMonkey”, “Wufoo” or “GetFeedback” (collectively the “**Service(s)**”). These TOU do not apply to Services which are available solely through our [enterprise sales](https://www.surveymonkey.com/product/enterprise/) channel.
 
 Additional [service-specific terms](https://www.surveymonkey.com/mp/legal/which-terms-apply/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) apply to some Services (“**Service-Specific Terms**”). Certain [country-specific terms](https://www.surveymonkey.com/mp/legal/country-specific-terms/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) may also apply to you if you are located outside the United States (“**Country-Specific Terms**”). We refer to the Service-Specific Terms and Country-Specific Terms collectively as “**Additional Terms**” and the combination of these TOU and any applicable Additional Terms collectively as these “**Terms**.” To the extent any conflict exists, the Additional Terms prevail over these TOU with respect to the Services for which the Additional Terms apply.
 
@@ -84,7 +84,9 @@ We know that by giving us your Content (as defined below), you are trusting us t
 
 _We keep your content confidential except in limited circumstances._
 
-SurveyMonkey will treat your Content as confidential information and only use and disclose it in accordance with these Terms (including the SurveyMonkey privacy notices). However, your Content is not regarded as confidential information if such Content: (a) is or becomes public (other than through breach of these Terms by SurveyMonkey); (b) was lawfully known to SurveyMonkey before receiving it from you; (c) is received by SurveyMonkey from a third party without knowledge of breach of any obligation owed to you; (d) is shared in the context of your account being identified by you as a business owned account or migrated to an organization’s Enterprise account, if your account is registered using a work email address within that organization; or (e) was independently developed by SurveyMonkey without reference to your Content. SurveyMonkey may disclose your Content when required by law or legal process, but only after SurveyMonkey, if permitted by law, uses commercially reasonable efforts to notify you to give you the opportunity to challenge the requirement to disclose.
+SurveyMonkey will treat your Content as confidential information and only use and disclose it in accordance with these Terms (including the SurveyMonkey privacy notices). However, your Content is not regarded as confidential information if such Content: (a) is or becomes public (other than through breach of these Terms by SurveyMonkey); (b) was lawfully known to SurveyMonkey before receiving it from you; (c) is received by SurveyMonkey from a third party without knowledge of breach of any obligation owed to you; or (d) was independently developed by SurveyMonkey without reference to your Content. SurveyMonkey may disclose your Content when required by law or legal process, but only after SurveyMonkey, if permitted by law, uses commercially reasonable efforts to notify you to give you the opportunity to challenge the requirement to disclose.
+
+If you sign up for a self-serve account with a work email address owned by an Enterprise customer and the Enterprise account requests information about such accounts, we will notify you before sharing your contact information and account usage information. If the Enterprise customer requests consolidation of all accounts created with a work email address owned by the Enterprise customer, your content will be consolidated under the Enterprise account. 
 
 ### **2.3 Security.**
 
@@ -247,11 +249,11 @@ If you are considered a consumer in the European Union, this Section 12.2 may no
 
 ### **12.3 Downgrades.**
 
-Downgrading your account plan (changing your Subscription type, or cancelling a Subscription and downgrading to our SurveyMonkey Basic (free) plan) may cause the loss of Content, features, functionality, or capacity of your account.
+Downgrading your account plan (changing your Subscription type, or cancelling a Subscription and downgrading to our SurveyMonkey Basic (free) plan) may cause the loss of Content, features, functionality, or capacity of your account. You will also no longer be able to see any responses over our SurveyMonkey Basic (free) plan response limits (see further below). This is applicable to all responses even those you have already collected under your paid plan.
 
 ### **12.4 SurveyMonkey Basic (Free) Plan Response Limits**.
 
-Any responses over your SurveyMonkey Basic (free) plan's response limits will not be viewable, and each response over the limit will be deleted 60 days after it is received, unless you upgrade to a SurveyMonkey paid plan to view and keep access to all responses before they are deleted. We encourage you to go to [My Surveys](https://www.surveymonkey.com/home/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) to see which surveys have extra responses over your plan's response limit, in case you want to upgrade to a paid plan to view and keep them.
+Any responses over your SurveyMonkey Basic (free) plan's response limits will not be viewable, and each response over the limit will be deleted in accordance with our retention policies and your selection, unless you upgrade to a SurveyMonkey paid plan to view and keep access to all responses before they are deleted. We will notify you in advance prior to deletion. You can view the surveys which have extra responses over your plan's response limit in your homepage and can seek to view and keep those additional responses at any time prior to deletion by upgrading to a paid plan.
 
 13\. Disclaimers, Limitations of Liability, and Indemnification
 ---------------------------------------------------------------
