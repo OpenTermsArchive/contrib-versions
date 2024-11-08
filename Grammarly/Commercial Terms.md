@@ -111,7 +111,7 @@ We will provide Customer with prompt notice of any suspension. 
 8\. Disclaimer
 --------------
 
-8.1 Disclaimer about the Services**. Except as expressly stated in this agreement, to the fullest extent permitted by law, we, our Affiliates, and our suppliers (a) do not make any warranties of any kind, whether express, implied, statutory, or otherwise, including warranties of merchantability, fitness for a particular use, title, noninfringement, or error-free or uninterrupted use of the Services; (b) make no representation about the content or information accessible through the Services; and (c) do not warrant that the operation of the Services will meet your requirements.**  
+8.1 Disclaimer about the Services**.** **Except as expressly stated in this Agreement****, to the fullest extent permitted by law, we, our Affiliates, and our suppliers (a) do not make any warranties of any kind, whether express, implied, statutory, or otherwise, including warranties of merchantability, fitness for a particular use, title, noninfringement, or error-free or uninterrupted use of the Services; (b) make no representation about the content or information accessible through the Services; and (c) do not warrant that the operation of the Services will meet your requirements.**  
   
 8.2 Beta Services. Sometimes we create new service offerings that are still in development. If we do so, we will mark those services as “alpha”, “beta”, “early access” or something similar. Customer may choose to use these beta services in its sole discretion. We may not support these beta services, we may change them at any time, and they may not be as secure or reliable as our other Services. Customer will treat the beta services and any related documentation as Confidential Information until we officially launch the beta services. Notwithstanding anything else in this Agreement, we will have no liability arising out of or in connection with these beta services.   
 
@@ -156,7 +156,7 @@ We will provide Customer with prompt notice of any suspension. 
 
 11.1. Jurisdiction and Venue. Subject to the dispute resolution provisions below, all claims and disputes arising from or relating to this Agreement, or the Services may only be brought in the federal or state courts of San Francisco County, California. Both Customer and we consent to venue and personal jurisdiction there.   
   
-11.2 Informal Resolution. Before filing a claim, we must first be contacted through the notice procedures below. The parties will try in good faith to settle any dispute. If the dispute is not resolved within 30 days of notice, a formal proceeding may be brought in accordance with this Section 11.  
+11.2 Informal Resolution. Before filing a claim, we must first be contacted through the notice procedures below. The parties will try in good faith to settle any dispute. If the dispute is not resolved within 30 days of notice, a formal proceeding may be brought in accordance with this Section 11 (Disputes).  
   
 11.3 Mandatory Arbitration. Any claims or disputes arising from or relating to this Agreement or the Services (including any dispute regarding the interpretation or performance of the Agreement) must be resolved through final and binding arbitration, except as set forth below. The American Arbitration Association (AAA) will administer the arbitration under its Commercial Arbitration Rules. The arbitration will be in English and held in San Francisco, California.  
   
@@ -183,7 +183,7 @@ We will provide Customer with prompt notice of any suspension. 
   
 12.8 Headings. Headings and captions used in this Agreement are for reference purposes only and will not have any effect on the interpretation of this Agreement.  
   
-12.9 Governing law. Except as set forth in Section 11.4, this Agreement and all disputes or claims (including procedural issues) between the parties are governed by the laws of California, excluding California’s conflict of laws rules. This Agreement will not be governed by the United Nations Convention on Contracts for the International Sale of Goods.  
+12.9 Governing law. Except as set forth in Section 11.4 (Exceptions), this Agreement and all disputes or claims (including procedural issues) between the parties are governed by the laws of California, excluding California’s conflict of laws rules. This Agreement will not be governed by the United Nations Convention on Contracts for the International Sale of Goods.  
   
 12.10 Force Majeure. Except for Customer’s obligation to pay Fees owed, neither party will be liable for failure or delay in performance to the extent caused by circumstances beyond its reasonable control, including acts of God, natural disasters, terrorism, riots, or war.  
   
@@ -259,7 +259,7 @@ These Service-Specific Terms set forth additional terms and conditions that appl
 
 * To develop foundation or large language models that compete with Grammarly.  
     
-* To mislead any third party that any output from Generative AI was solely human generated.  
+* To mislead any third party that any Output from Generative AI was solely human generated.  
     
 * In a way that infringes, violates, or misappropriates any of our rights or the rights of any third party.  
     
