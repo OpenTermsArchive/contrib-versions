@@ -7,6 +7,8 @@ This statement describes what personal data we process in connection with custom
 
 ### Who is responsible for collecting and processing data?
 
+#### Contacts and adresses
+
 When you use your customer account, the DB companies DB Vertrieb GmbH, DB Fernverkehr AG and DB Regio AG process your data as joint controllers. The companies have agreed which of them is responsible for privacy-related obligations. The essence of this agreement can be found in this privacy statement.
 
 If you have any questions or suggestions regarding this privacy statement, simply contact one of the DB companies.
@@ -34,7 +36,7 @@ Germany
 
 Dr Marein Müller is the designated privacy officer for all three companies.
 
-Further information about the customer account is available in the [terms of use for customer accounts](https://next.bahn.de/nutzungsbedingungen/nutzungsbedingungen-kundenkonto).
+Further information about the customer account is available in the [terms of use for customer accounts](https://int.bahn.de/en/terms-of-use/customer-accounts-terms-of-use).
 
 ### What data do we collect, and how and why do we process your data in connection with your customer account?
 
@@ -191,6 +193,8 @@ If you contact one company but another company is responsible for your particula
 
 ### How up-to-date is this data privacy information regarding the customer account?
 
+#### Last adjustment
+
 We update our privacy statement to bring it into line with new functions or legal requirements. We therefore recommend that you check the privacy notice at regular intervals.
 
-Last modified: August 2024
+Last modified: November 2024
