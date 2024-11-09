@@ -334,20 +334,6 @@ There are some exceptions because sometimes it is obvious that you are online. R
 
 If you're not sharing your last seen timestamp with someone and don't do anything of the above, they'll never see you online. Another way of achieving this is to block that person.
 
-#### [](#q-what-is-people-nearby)Q: What is People Nearby?
-
-People Nearby is an _optional_ feature that allows Telegram users to **explore local groups**, **find friends** to chat with in their area, or quickly **exchange contacts** with people who are close.
-
-You can find it in _Contacts > Find People Nearby_, as well as directly in the side menu on Android.
-
-While you have the People Nearby section **open on your screen**, people who are _very close_ will be able to see you there – so that it's easy to exachange contacts. If you don't open the section, others will **never** see you in 'People Nearby'.
-
-> **Note:** People Nearby is **never turned on by default** – users must manually enable it. If you are receiving messages from someone you don't know, see [_Q: Who can contact me?_](#q-who-can-contact-me)
-
-You can also choose to permanently add your profile to the list of nearby people by tapping **Make Myself Visible**. After becoming visible, you can remove your profile from the list at any time by tapping **Stop Showing Me**.
-
-> To protect user privacy, 'People Nearby' always shows **distances to approximate locations** within an area that spans up to 800 meters in diameter. (This is affected by latitude, so if you're broadcasting your location from the Arctic Circle, it may be closer to 300 meters.)
-
 #### [](#q-can-i-delete-my-messages)Q: Can I delete my messages?
 
 Yes. You can always delete any messages you **sent** or **received** for _both sides_ in _any_ one-on-one conversation (in groups, it's still your own messages only). You can also clear the entire chat history on both ends. On Telegram, deleted messages do not leave a mark in the chat.
@@ -1276,20 +1262,6 @@ There are some exceptions because sometimes it is obvious that you are online. R
 * Broadcast a “typing…” status to their chat with you or to a group where you both are members.
 
 If you're not sharing your last seen timestamp with someone and don't do anything of the above, they'll never see you online. Another way of achieving this is to block that person.
-
-#### [](#q-what-is-people-nearby)Q: What is People Nearby?
-
-People Nearby is an _optional_ feature that allows Telegram users to **explore local groups**, **find friends** to chat with in their area, or quickly **exchange contacts** with people who are close.
-
-You can find it in _Contacts > Find People Nearby_, as well as directly in the side menu on Android.
-
-While you have the People Nearby section **open on your screen**, people who are _very close_ will be able to see you there – so that it's easy to exachange contacts. If you don't open the section, others will **never** see you in 'People Nearby'.
-
-> **Note:** People Nearby is **never turned on by default** – users must manually enable it. If you are receiving messages from someone you don't know, see [_Q: Who can contact me?_](#q-who-can-contact-me)
-
-You can also choose to permanently add your profile to the list of nearby people by tapping **Make Myself Visible**. After becoming visible, you can remove your profile from the list at any time by tapping **Stop Showing Me**.
-
-> To protect user privacy, 'People Nearby' always shows **distances to approximate locations** within an area that spans up to 800 meters in diameter. (This is affected by latitude, so if you're broadcasting your location from the Arctic Circle, it may be closer to 300 meters.)
 
 #### [](#q-can-i-delete-my-messages)Q: Can I delete my messages?
 
