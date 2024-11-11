@@ -464,7 +464,6 @@ The following products, apps and services are covered by the Microsoft Services 
 * Microsoft Rewards
 * Microsoft Search in Bing
 * Microsoft Soundscape
-* Microsoft Start
 * Microsoft Support and Recovery Assistant for Office 365
 * Microsoft Sway
 * Microsoft Teams
@@ -474,6 +473,7 @@ The following products, apps and services are covered by the Microsoft Services 
 * Minecraft games
 * Minecraft Realms Plus and Minecraft Realms
 * Mixer
+* MSN (formerly known as Microsoft Start)
 * MSN Dial Up
 * MSN Explorer
 * MSN Food & Drink
