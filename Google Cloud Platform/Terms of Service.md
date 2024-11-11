@@ -231,7 +231,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 (b) _For U.S. Federal Government Entities._ If Customer is a U.S. federal government entity, then the following applies: ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SERVICES WILL BE GOVERNED BY THE LAWS OF THE UNITED STATES OF AMERICA, EXCLUDING ITS CONFLICT OF LAWS RULES. SOLELY TO THE EXTENT PERMITTED BY FEDERAL LAW, (I) THE LAWS OF THE STATE OF CALIFORNIA (EXCLUDING CALIFORNIA'S CONFLICT OF LAWS RULES) WILL APPLY IN THE ABSENCE OF APPLICABLE FEDERAL LAW; AND (II) FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SERVICES, THE PARTIES CONSENT TO PERSONAL JURISDICTION IN, AND THE EXCLUSIVE VENUE OF, THE COURTS IN SANTA CLARA COUNTY, CALIFORNIA.
 
-(c) _For All Other Entities._ If Customer is any entity not identified in Section 14.12(a) (U.S. Governing Law for U.S. City, County, and State Government Entities) or (b) (U.S. Governing Law for Federal Government Entities), then the following applies: ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SERVICES WILL BE GOVERNED BY CALIFORNIA LAW, EXCLUDING THAT STATE'S CONFLICT OF LAWS RULES, AND WILL BE LITIGATED EXCLUSIVELY IN THE FEDERAL OR STATE COURTS OF SANTA CLARA COUNTY, CALIFORNIA, USA; THE PARTIES CONSENT TO PERSONAL JURISDICTION IN THOSE COURTS.
+(c) _For All Other Entities._ If Customer is any entity not identified in Section 15.12(a) (U.S. Governing Law for U.S. City, County, and State Government Entities) or (b) (U.S. Governing Law for Federal Government Entities), then the following applies: ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SERVICES WILL BE GOVERNED BY CALIFORNIA LAW, EXCLUDING THAT STATE'S CONFLICT OF LAWS RULES, AND WILL BE LITIGATED EXCLUSIVELY IN THE FEDERAL OR STATE COURTS OF SANTA CLARA COUNTY, CALIFORNIA, USA; THE PARTIES CONSENT TO PERSONAL JURISDICTION IN THOSE COURTS.
 
 15.13 _Amendments._ Except as stated in Sections 1.4(b) (Updates: To this Agreement (GCP Services and TSS only)); 1.4(c) (Updates: To the URL Terms (All Services)) or (c) (Updates: To the Cloud Data Processing Addendum), any amendment must be in writing, signed by both parties, and expressly state that it is amending this Agreement.
 
@@ -464,11 +464,11 @@ When the Google contracting entity is Google Cloud Brasil Computação e Serviç
 
 **North America - United States**
 
-Section 15.19 (Definitions) is changed to Section 14.20 (Definitions).
+Section 15.19 (Definitions) is changed to Section 15.20 (Definitions).
 
-A new Section 15.20 is added:
+A new Section 15.19 is added:
 
-15.20 _U.S. Federal Agency Users._ The Services were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable Federal Acquisition Regulations and their agency supplements.
+15.19 _U.S. Federal Agency Users._ The Services were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable Federal Acquisition Regulations and their agency supplements.
 
 Previous versions of SecOps Services Agreement
 
