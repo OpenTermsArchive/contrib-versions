@@ -3,8 +3,6 @@
 Developer Agreement
 ===================
 
-**WE HAVE MADE SOME UPDATES TO OUR DEVELOPER AGREEMENT, AND THE FULLY UPDATED AGREEMENT IS BELOW.**
-
 X Developer Agreement
 ---------------------
 
