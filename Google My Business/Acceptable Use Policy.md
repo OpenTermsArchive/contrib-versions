@@ -209,6 +209,7 @@ The following types of co-located businesses should each have their own profile.
 * A Restaurant/Cafe/Bar inside a Hotel/Motel
 * A Pharmacy inside a Supermarket/Grocery Shop
 * A Petrol Station next to a Supermarket/Grocery Shop
+* A Car Rental at an Airport, only if pick up and drop off happen at separate locations
 
 Menu
 
