@@ -16,13 +16,17 @@ If you are a customer who is subject to the privacy laws of the European Union, 
         Ads appearing on our Site may be delivered to you by advertising partners who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers our use of cookies and does not cover the use of cookies by any advertisers. However, data tracking files used by us may also be used by these advertisers and, when combined with other information held by them, be used to identify you personally. For more information on third party cookies and instructions on how to opt-out of those cookies set by members of the National Advertising Initiative, please click [here](http://www.networkadvertising.org/choices/). Or, if you are located in the European Union, please visit the European Interactive Digital Advertising Alliance [here](https://youronlinechoices.eu/).
     4. **Information Collected by Our Customers**. Our customers may collect personal data in connection with the Services we provide to them. WP Engine’s customers control the personal data they collect, and WP Engine will not use or disclose that personal data except as authorized or directed by the customer in the course of our provision of the Services and as governed by our agreement with that customer. If your personal data is controlled by one of our customers, and you have concerns about the way that data is managed or wish to exercise your rights with respect to such data (including your rights of access, amendment, or deletion), please contact that customer directly
 2. **How We Use Personal Data**. WP Engine will only use the personal data we collect as reasonably necessary for the following purposes:
-    * to allow you to use and interact with the Site;
-    * to provide the Services to you as our customer;
-    * to inform our continued development of the Site and the Services;
-    * to communicate with you from time to time in response to your requests for information or as may be relevant to your account with us;
-    * to send marketing communications related to the services we provide;
-    * as required by applicable law or legal requirements pertaining to records retention or for internal administrative purposes; or
-    * as specifically authorized by you in writing
+    
+    * * to allow you to use and interact with the Site;
+        * to provide the Services to you as our customer;
+        * to inform our continued development of the Site and the Services;
+        * to communicate with you from time to time in response to your requests for information or as may be relevant to your account with us;
+        * to send marketing communications related to the services we provide;
+        * as required by applicable law or legal requirements pertaining to records retention or for internal administrative purposes; or
+        * as specifically authorized by you in writing
+    
+    We will not share your phone number or consent preferences with third parties/affiliates for their marketing/promotional purposes.
+    
 3. **Disclosure to Third Parties**. We will not disclose your personal data to third parties except as follows:
     
     * when we believe disclosure is reasonably required to comply with any law or legal request;
