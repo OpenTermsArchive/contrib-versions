@@ -401,18 +401,28 @@ We’ll process your data when we have a legal obligation to do so, for example,
 
 ### U.S. State Law requirements
 
-Some U.S. state privacy laws like the California Consumer Privacy Act (CCPA) and Virginia Consumer Data Protection Act (VCDPA) require specific disclosures for state residents. This Privacy Policy is designed to help you understand how Waze handles your information:
+Some U.S. state privacy laws require specific disclosures.
+
+These laws include:
+
+* California Consumer Privacy Act (CCPA);
+* Virginia Consumer Data Protection Act (VCDPA);
+* Colorado Privacy Act (CPA);
+* Connecticut Act Concerning Personal Data Privacy and Online Monitoring (CTDPA); and
+* Utah Consumer Privacy Act (UCPA)
+
+This Privacy Policy is designed to help you understand how Waze handles your information:
 
 * We explain the categories of information Waze collects and the sources of that information in [Information That is Being Collected](https://www.waze.com/legal/privacy#collected).
 * We explain how Waze uses information in [Why Waze Collects Data](https://www.waze.com/legal/privacy#why-waze-collects-data).
 * We explain when Waze may disclose information in [Sharing Your Information](https://www.waze.com/legal/privacy#sharing). Waze does not sell your personal information. Waze also does not “share” your personal information as that term is defined in the CCPA.
 * We explain how Waze retains information in How Waze Retains Data We Collect. You can also learn more about How does Waze Use Aggregated Information. When Waze anonymizes data to protect your privacy, we maintain policies and technical measures to avoid re-identifying that information.
 
-State laws like the CCPA and VCDPA also provide the right to request information about how Waze collects, uses, and discloses your information. And they give you the right to access and correct your information and request that Waze delete that information. The VCDPA also provides the right to opt out of certain forms of profiling and targeted advertising. Finally, the CCPA and VCDPA provide the right to not be discriminated against for exercising these privacy rights.
+U.S. state privacy laws also provide the right to request information about how Waze collects, uses, and discloses your information. And they give you the right to access your information, sometimes in portable format, correct your information, and request that Waze delete that information. Many of these laws also provide the right to opt out of certain forms of profiling and targeted advertising. They also provide the right to not be discriminated against for exercising these privacy rights.
 
-We describe the choices you have to manage your privacy and data in [Controlling your personal information](https://www.waze.com/legal/privacy#controlling-your-personal-information) section. These controls allow you to access, review, update and delete your information, as well as export and download a copy of it. You can also turn off personalized ads, by visiting your in-app ad settings. You can log in to the dashboard by going to the [Waze website](https://www.waze.com/signin?redirect=%2Faccount), then Settings, then choose Download your data archive. Note that in order to access the dashboard you will need a Waze account with a valid email address to receive your data archive. When you use these tools, we’ll validate your request by verifying that you’re logged in to your Waze Account. If you have questions or requests related to your rights under the CCPA or VCDPA, you (or your authorized agent) can also contact Waze at privacy@waze.com. And if you disagree with the decision on your request, you can ask Waze to reconsider it by responding to the support team’s email. 
+We describe the choices you have to manage your privacy and data in [Controlling your personal information](https://www.waze.com/legal/privacy#controlling-your-personal-information) section. These controls allow you to access, review, update and delete your information, as well as export and download a copy of it. You can also turn off personalized ads, by visiting your in-app ad settings. You can log in to the dashboard by going to the [Waze website](https://www.waze.com/signin?redirect=%2Faccount), then Settings, then choose Download your data archive. Note that in order to access the dashboard you will need a Waze account with a valid email address to receive your data archive. When you use these tools, we’ll validate your request by verifying that you’re logged in to your Waze Account. If you have questions or requests related to your rights under U.S. state privacy laws, you (or your authorized agent) can also contact Waze at privacy@waze.com. And if you disagree with the decision on your request, you can ask Waze to reconsider it by responding to the support team’s email. 
 
-The CCPA requires a description of data practices using specific categories. [This table](https://support.google.com/waze/answer/10058982) uses these categories to organize the information in this Privacy Policy.
+Some U.S. state privacy laws require a description of data practices using specific categories. [This table](https://support.google.com/waze/answer/10058982) uses these categories to organize the information in this Privacy Policy.
 
 Changes to this Privacy Policy
 ==============================
@@ -426,6 +436,6 @@ Other changes will take effect 7 days after their initial posting on the Website
 
 You agree to be bound by any of the changes made in the terms of this Privacy Policy. Continuing to use the Services will indicate your acceptance of the amended terms. If you do not agree with any of the amended terms, you must avoid any further use of the Services.
 
-**Last modified: 1 January 2023**
+**Last modified: 1 August 2023**
 
 **The Company has registered a database with the Israeli Database Registrar**
