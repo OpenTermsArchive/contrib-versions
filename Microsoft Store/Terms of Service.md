@@ -1,5 +1,7 @@
 Microsoft – Terms of Use
-========================
+
+
+============================
 
 Last Updated: February 7, 2022
 
@@ -33,11 +35,11 @@ Software
 
 Any software that is made available to download from the Services ("Software") is the copyrighted work of Microsoft and/or its suppliers. Use of the Software is governed by the terms of the end user license agreement, if any, which accompanies or is included with the Software ("License Agreement"). An end user will be unable to install any Software that is accompanied by or includes a License Agreement, unless he or she first agrees to the License Agreement terms. Third party scripts or code, linked to or referenced from this website, are licensed to you by the third parties that own such code, not by Microsoft.
 
-The Software is made available for download solely for use by end users according to the License Agreement. Any reproduction or redistribution of the Software not in accordance with the License Agreement is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.
+The Software is made available for download solely for use by end users according to the License Agreement. Any reproduction or redistribution of the Software not in accordance with the License Agreement is expressly prohibited by law, and may result in severe civil and criminal penalties. Violators will be prosecuted to the maximum extent possible.  
 
-**Without limiting the foregoing, copying or reproduction of the software to any other server or location for further reproduction or redistribution is expressly prohibited, unless such reproduction or redistribution is expressly permitted by the license agreement accompanying such software.**
+**Without limiting the foregoing, copying or reproduction of the software to any other server or location for further reproduction or redistribution is expressly prohibited, unless such reproduction or redistribution is expressly permitted by the license agreement accompanying such software.**  
 
-**Restricted Rights Legend**. Any Software which is downloaded from the Services for or on behalf of the United States of America, its agencies and/or instrumentalities ("U.S. Government"), is provided with Restricted Rights. Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software - Restricted Rights at 48 CFR 52.227-19, as applicable. Manufacturer is Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399.
+**Restricted Rights** **Legend.** Any Software which is downloaded from the Services for or on behalf of the United States of America, its agencies and/or instrumentalities ("U.S. Government"), is provided with Restricted Rights. Use, duplication, or disclosure by the U.S. Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of the Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software - Restricted Rights at 48 CFR 52.227-19, as applicable. Manufacturer is Microsoft Corporation, One Microsoft Way, Redmond, WA 98052-6399.  
 
 Documents
 ---------
@@ -46,20 +48,14 @@ Permission to use Documents (such as white papers, press releases, datasheets an
 
 Documents specified above do not include the design or layout of the Microsoft.com website or any other Microsoft owned, operated, licensed or controlled site. Elements of Microsoft websites are protected by trade dress, trademark, unfair competition, and other laws and may not be copied or imitated in whole or in part. No logo, graphic, sound or image from any Microsoft website may be copied or retransmitted unless expressly permitted by Microsoft.
 
-Representations and Warranties  
- 
-----------------------------------
+Representations and Warranties
+------------------------------
 
-Software is warranted, if at all, only according to the terms of the license agreement. **Except as warranted in the license agreement, microsoft corporation hereby disclaims all warranties and conditions with regard to the software, including all warranties and conditions of merchantability, whether express, implied or statutory, fitness for a particular purpose, title and non-infringement**. For your convenience, microsoft may make available as part of the services or in its software products, tools and utilities for use and/or download. **Microsoft does not make any assurances with regard to the accuracy of the results or output that derives from such use of any such tools and utilities**. please respect the intellectual property rights of others when using the tools and utilities made available on the services or in microsoft software products.  
- 
+Software is warranted, if at all, only according to the terms of the license agreement. **Except as warranted in the license agreement, microsoft corporation hereby disclaims all warranties and conditions with regard to the software, including all warranties and conditions of merchantability, whether express, implied or statutory, fitness for a particular purpose, title and non-infringement.** For your convenience, microsoft may make available as part of the services or in its software products, tools and utilities for use and/or download. **Microsoft does not make any assurances with regard to the accuracy of the results or output that derives from such use of any such tools and utilities.** please respect the intellectual property rights of others when using the tools and utilities made available on the services or in microsoft software products.
 
 **Microsoft and/or its respective suppliers make no representations about the suitability of the information contained in the documents and related graphics published as part of the services for any purpose. all such documents and related graphics are provided "as is" without warranty of any kind. microsoft and/or its respective suppliers hereby disclaim all warranties and conditions with regard to this information, including all warranties and conditions of merchantability, whether express, implied or statutory, fitness for a particular purpose, title and non-infringement. in no event shall microsoft and/or its respective suppliers be liable for any special, indirect or consequential damages or any damages whatsoever resulting from loss of use, data or profits, whether in an action of contract, negligence or other tortious action, arising out of or in connection with the use or performance of information available from the services.**  
- 
 
 The documents and related graphics published on the services could include technical inaccuracies or typographical errors. changes are periodically added to the information herein. microsoft and/or its respective suppliers may make improvements and/or changes in the product(s) and/or the program(s) described herein at any time.
-
-  
- 
 
 Limitation of Liability
 -----------------------
@@ -82,46 +78,65 @@ Use of Services
 The Services may contain e-mail services, bulletin board services, chat areas, news groups, forums, communities, personal web pages, calendars, photo albums, file cabinets and/or other message or communication facilities designed to enable you to communicate with others (each a "Communication Service" and collectively "Communication Services"). You agree to use the Communication Services only to post, send and receive messages and material that are proper and, when applicable, related to the particular Communication Service. By way of example, and not as a limitation, you agree that when using the Communication Services, you will not:
 
 * Use the Communication Services in connection with surveys, contests, pyramid schemes, chain letters, junk email, spamming or any duplicative or unsolicited messages (commercial or otherwise).
+
 * Defame, abuse, harass, stalk, threaten or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
+
 * Publish, post, upload, distribute or disseminate any inappropriate, profane, defamatory, obscene, indecent or unlawful topic, name, material or information.
+
 * Upload, or otherwise make available, files that contain images, photographs, software or other material protected by intellectual property laws, including, by way of example, and not as limitation, copyright or trademark laws (or by rights of privacy or publicity) unless you own or control the rights thereto or have received all necessary consent to do the same.
+
 * Use any material or information, including images or photographs, which are made available through the Services in any manner that infringes any copyright, trademark, patent, trade secret, or other proprietary right of any party.
+
 * Upload files that contain viruses, Trojan horses, worms, time bombs, cancelbots, corrupted files, or any other similar software or programs that may damage the operation of another's computer or property of another.
+
 * Advertise or offer to sell or buy any goods or services for any business purpose, unless such Communication Services specifically allows such messages.
+
 * Download any file posted by another user of a Communication Service that you know, or reasonably should know, cannot be legally reproduced, displayed, performed, and/or distributed in such manner.
+
 * Falsify or delete any copyright management information, such as author attributions, legal or other proper notices or proprietary designations or labels of the origin or source of software or other material contained in a file that is uploaded.
+
 * Restrict or inhibit any other user from using and enjoying the Communication Services.
+
 * Violate any code of conduct or other guidelines which may be applicable for any particular Communication Service.
+
 * Harvest or otherwise collect information about others, including e-mail addresses.
+
 * Violate any applicable laws or regulations.
+
 * Create a false identity for the purpose of misleading others.
+
 * Use, download or otherwise copy, or provide (whether or not for a fee) to a person or entity any directory of users of the Services or other user or usage information or any portion thereof.
 
 Microsoft has no obligation to monitor the Communication Services. However, Microsoft reserves the right to review materials posted to the Communication Services and to remove any materials in its sole discretion. Microsoft reserves the right to terminate your access to any or all of the Communication Services at any time, without notice, for any reason whatsoever.
 
-Microsoft reserves the right at all times to disclose any information as Microsoft deems necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, in Microsoft's sole discretion.
+Microsoft reserves the right at all times to disclose any information as Microsoft deems necessary to satisfy any applicable law, regulation, legal process or governmental request, or to edit, refuse to post or to remove any information or materials, in whole or in part, in Microsoft's sole discretion.  
 
-Always use caution when giving out any personally identifiable information about yourself or your children in any Communication Services. Microsoft does not control or endorse the content, messages or information found in any Communication Services and, therefore, Microsoft specifically disclaims any liability with regard to the Communication Services and any actions resulting from your participation in any Communication Services. Managers and hosts are not authorized Microsoft spokespersons, and their views do not necessarily reflect those of Microsoft.
+Always use caution when giving out any personally identifiable information about yourself or your children in any Communication Services. Microsoft does not control or endorse the content, messages or information found in any Communication Services and, therefore, Microsoft specifically disclaims any liability with regard to the Communication Services and any actions resulting from your participation in any Communication Services. Managers and hosts are not authorized Microsoft spokespersons, and their views do not necessarily reflect those of Microsoft.  
 
-Materials uploaded to the Communication Services may be subject to posted limitations on usage, reproduction and/or dissemination; you are responsible for adhering to such limitations if you download the materials.
+Materials uploaded to the Communication Services may be subject to posted limitations on usage, reproduction and/or dissemination; you are responsible for adhering to such limitations if you download the materials.  
 
 **AI Services.**  
+
 ”AI services” are services that are labeled or described by Microsoft as including, using, powered by, or being an Artificial Intelligence (“AI”) system.
 
 * **Reverse Engineering.** You may not use the AI services to discover any underlying components of the models, algorithms, and systems. For example, you may not try to determine and remove the weights of models.
-* **Extracting Data.** You may not use web scraping, web harvesting, or web data extraction methods to extract data from the AI services.
-* **Limits on use of data from the AI Services.** You may not use the AI services, or data from the AI services, to create, train, or improve (directly or indirectly) any other AI service. 
+
+* **Extracting Data.** You may not use web scraping, web harvesting, or web data extraction methods to extract data from the AI services.
+
+* **Limits on use of data from the AI Services.** You may not use the AI services, or data from the AI services, to create, train, or improve (directly or indirectly) any other AI service. 
+
 * **Use of Your Content.** As part of providing the AI services, Microsoft will process and store your inputs to the service as well as output from the service, for purposes of monitoring for and preventing abusive or harmful uses or outputs of the service.
-* **Third party claims.** You are solely responsible for responding to any third-party claims regarding your use of the AI services in compliance with applicable laws (including, but not limited to, copyright infringement or other claims relating to content output during your use of the AI services).
+
+* **Third party claims**. You are solely responsible for responding to any third-party claims regarding your use of the AI services in compliance with applicable laws (including, but not limited to, copyright infringement or other claims relating to content output during your use of the AI services).
 
 Materials Provided to Microsoft or Posted at any Microsoft Website
 ------------------------------------------------------------------
 
 Microsoft does not claim ownership of the materials you provide to Microsoft (including feedback and suggestions) or post, upload, input or submit to any Services or its associated services for review by the general public, or by the members of any public or private community, (each a "Submission" and collectively "Submissions"). However, by posting, uploading, inputting, providing or submitting ("Posting") your Submission you are granting Microsoft, its affiliated companies and necessary sublicensees permission to use your Submission in connection with the operation of their Internet businesses (including, without limitation, all Microsoft Services), including, without limitation, the license rights to: copy, distribute, transmit, publicly display, publicly perform, reproduce, edit, translate and reformat your Submission; to publish your name in connection with your Submission; and the right to sublicense such rights to any supplier of the Services.
 
-No compensation will be paid with respect to the use of your Submission, as provided herein. Microsoft is under no obligation to post or use any Submission you may provide and Microsoft may remove any Submission at any time in its sole discretion.
+No compensation will be paid with respect to the use of your Submission, as provided herein. Microsoft is under no obligation to post or use any Submission you may provide and Microsoft may remove any Submission at any time in its sole discretion.  
 
-By Posting a Submission you warrant and represent that you own or otherwise control all of the rights to your Submission as described in these Terms of Use including, without limitation, all the rights necessary for you to provide, post, upload, input or submit the Submissions.
+By Posting a Submission you warrant and represent that you own or otherwise control all of the rights to your Submission as described in these Terms of Use including, without limitation, all the rights necessary for you to provide, post, upload, input or submit the Submissions.  
 
 In addition to the warranty and representation set forth above, by Posting a Submission that contain images, photographs, pictures or that are otherwise graphical in whole or in part ("Images"), you warrant and represent that (a) you are the copyright owner of such Images, or that the copyright owner of such Images has granted you permission to use such Images or any content and/or images contained in such Images consistent with the manner and purpose of your use and as otherwise permitted by these Terms of Use and the Services, (b) you have the rights necessary to grant the licenses and sublicenses described in these Terms of Use, and (c) that each person depicted in such Images, if any, has provided consent to the use of the Images as set forth in these Terms of Use, including, by way of example, and not as a limitation, the distribution, public display and reproduction of such Images. By Posting Images, you are granting (a) to all members of your private community (for each such Images available to members of such private community), and/or (b) to the general public (for each such Images available anywhere on the Services, other than a private community), permission to use your Images in connection with the use, as permitted by these Terms of Use, of any of the Services, (including, by way of example, and not as a limitation, making prints and gift items which include such Images), and including, without limitation, a non-exclusive, world-wide, royalty-free license to: copy, distribute, transmit, publicly display, publicly perform, reproduce, edit, translate and reformat your Images without having your name attached to such Images, and the right to sublicense such rights to any supplier of the Services. The licenses granted in the preceding sentences for a Images will terminate at the time you completely remove such Images from the Services, provided that, such termination shall not affect any licenses granted in connection with such Images prior to the time you completely remove such Images. No compensation will be paid with respect to the use of your Images.
 
@@ -135,7 +150,7 @@ See [Notice and Procedure for Making Claims of Copyright Infringement](http://w
 Links to Third Party Sites
 --------------------------
 
-The links in this area will let you leave microsoft's site. the linked sites are not under the control of microsoft and **microsoft is not responsible for the contents of any linked site or any link contained in a linked site, or any changes or updates to such sites. microsoft is not responsible for webcasting or any other form of transmission received from any linked site**. microsoft is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by microsoft of the site.
+The links in this area will let you leave microsoft's site. the linked sites are not under the control of microsoft and **microsoft is not responsible for the contents of any linked site or any link contained in a linked site, or any changes or updates to such sites. microsoft is not responsible for webcasting or any other form of transmission received from any linked site.** microsoft is providing these links to you only as a convenience, and the inclusion of any link does not imply endorsement by microsoft of the site.
 
 Unsolicited Idea Submission Policy
 ----------------------------------
