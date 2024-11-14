@@ -67,7 +67,7 @@ Other languages:
 * [suomi](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fi "Policy:Privacy policy/fi (96% translated)")
 * [svenska](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sv "Policy:Privacy policy/sv (68% translated)")
 * [čeština](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/cs "Policy:Privacy policy/cs (100% translated)")
-* [Ελληνικά](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/el "Policy:Privacy policy/el (54% translated)")
+* [Ελληνικά](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/el "Policy:Privacy policy/el (69% translated)")
 * [башҡортса](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ba "Policy:Privacy policy/ba (11% translated)")
 * [беларуская](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/be "Policy:Privacy policy/be (0% translated)")
 * [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/be-tarask "Policy:Privacy policy/be-tarask (96% translated)")
