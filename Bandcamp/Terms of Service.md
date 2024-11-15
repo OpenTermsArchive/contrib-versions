@@ -207,6 +207,8 @@ You may contact Company by directing inquiries to our support team.
 
 ### Change log.
 
+November 15, 2024: Updated average monthly active users in the EU
+
 November 11, 2024: Updated terms to include a statement that Bandcamp will not use your music to train models to generate music or allow others to do so. Also, modified the fees and payment terms to accommodate payments to songwriters via their rights organizations, and aligned Bandcamp’s Terms of Use language to be consistent with the Privacy Policy, ensuring clarity across both documents.
 
 February 14, 2024: Updated terms to comply with the EU Data Services act, updated terms to reflect additional Content Moderation Policy. Updated average monthly active users in the EU
@@ -228,8 +230,8 @@ June 10, 2014: Added three new paragraphs to [Fees and Payments- Fans](#feesfans
   
   
 
-### Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 14, 2024).
+### Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated November 15, 2024).
 
-The estimated average monthly active recipients in the European Union of Bandcamp for the past six months was 3.1 million.
+The estimated average monthly active recipients in the European Union of Bandcamp for the past six months was 4 million.
 
 Users who accessed more than one of Songtradr, Inc.’s services or products in a given month are counted as a user for each service or product.
