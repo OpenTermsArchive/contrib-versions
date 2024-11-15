@@ -332,6 +332,10 @@ Vous pouvez utiliser le [formulaire de contact en ligne](https://formulaires.ser
 
 Vous pouvez écrire à : Orange Service Client, Gestion des données personnelles, 33732 Bordeaux Cedex 9 pour les prospects Grand Public. Orange Business Service, Agences Entreprises, Gestion des données personnelles, TSA 70007, 82008 Montauban pour les prospects pros.
 
+### Possibilité de saisir le DPO
+
+Vous pouvez également écrire à group-dpo.donnees-personnelles@orange.com pour exercer vos droits.
+
 ### Possibilité de saisir la CNIL
 
 Si vos échanges avec Orange n’ont pas été satisfaisants, vous avez la possibilité d’introduire une réclamation auprès de la Commission Nationale de l’Informatique et des Libertés (CNIL), autorité de contrôle en charge du respect des obligations en matière de protection des données personnelles en France.
@@ -393,7 +397,7 @@ La technologie Utiq est basée sur votre connexion internet. Ainsi, si vous util
 Autrement, vous avez toujours la possibilité de supprimer votre historique et données de navigation via les paramètres de votre navigateur. Cela supprimera tous vos consentements Utiq de votre navigateur. Toutes vos données stockées dans la plateforme Utiq seront également supprimées dans la durée indiquée dans la [Politique relative à l’utilisation des données personnelles d'Utiq](https://consenthub.utiq.com/pages/privacy-statement).
 
 Pour plus d'informations, veuillez consulter la [Politique relative à l’utilisation des données personnelles d'Utiq](https://consenthub.utiq.com/pages/privacy-statement).   
-  
+ 
 
 _\* Cela comprend les consentements Utiq que vous avez donnés, mais également, dans le cas d’une connexion internet partagée, ceux donnés par les membres de votre foyer._
 
@@ -405,7 +409,17 @@ Vous pouvez limiter gratuitement leur parution en vous inscrivant sur les listes
 
 Vous pouvez modifier vos choix à tout moment et gratuitement sur votre espace client.
 
-### 10.3. Utilisation de données anonymes – Flux vision
+### 10.3. Prospection commerciale par téléphone
+
+Si vous ne vous y êtes pas opposés vous êtes susceptibles d’être contactés par téléphone afin de vous proposer des offres et services des partenaires privilégiés d’Orange  :
+
+\- Canal+
+
+\- Orange Télésurveillance
+
+Vous pouvez changer vos permissions de contact à tout moment depuis votre espace client.
+
+### 10.4. Utilisation de données anonymes – Flux vision
 
 Les données relatives à la localisation des utilisateurs du réseau mobile Orange sont agrégées afin de constituer des indicateurs statistiques de fréquentation de provenance et de déplacement à destination de divers partenaires du secteur du commerce, du tourisme, des transports…
 
@@ -416,4 +430,4 @@ Le dispositif technique utilisé par Flux Vision garantit une anonymisation irr�
 
 La présente Politique de Protection des Données personnelles peut être amenée à évoluer.
 
-Dernière mise à jour le 09/10/2024
+Dernière mise à jour le 14/11/2024
