@@ -173,22 +173,19 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
         
     8. Involves or facilitates the transmission of spam;
         
-    9. Contains any spyware, adware, viruses, corrupt files, worm programs or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or
+    9. Contains any spyware, adware, viruses, corrupt files, worm programs or other malicious code designed to interrupt, damage or limit the functionality of or disrupt any software, hardware, telecommunications, networks, servers or other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Tinder or otherwise;
         
-    
-    other equipment, Trojan horse or any other material designed to damage, interfere with, wrongly intercept or expropriate any data or personal information whether from Tinder or otherwise;
-    
-    1. Infringes upon any third party's rights (including, without limitation, intellectual property rights and privacy rights);
+    10. Infringes upon any third party's rights (including, without limitation, intellectual property rights and privacy rights);
         
-    2. Was not written by you, unless expressly authorized by Tinder;
+    11. Was not written by you, unless expressly authorized by Tinder;
         
-    3. Includes the image or likeness of another person without that person's consent (or in the case of a minor, the minor's parent or guardian);
+    12. Includes the image or likeness of another person without that person's consent (or in the case of a minor, the minor's parent or guardian);
         
-    4. Includes an image or likeness of a minor who is unaccompanied by the minor's parent or guardian or not fully clothed or otherwise depicts or implies a minor engaged in sexual activity; 
+    13. Includes an image or likeness of a minor who is unaccompanied by the minor's parent or guardian or not fully clothed or otherwise depicts or implies a minor engaged in sexual activity; 
         
-    5. Is inconsistent with the intended use of the Services; or 
+    14. Is inconsistent with the intended use of the Services; or 
         
-    6. May harm the reputation of Tinder or its affiliates, meaning the uploading or sharing of content on the Tinder platform that is defamatory to Tinder or its affiliates or advocates misuse of the Service or any service provided by Tinder’s affiliates.
+    15. May harm the reputation of Tinder or its affiliates, meaning the uploading or sharing of content on the Tinder platform that is defamatory to Tinder or its affiliates or advocates misuse of the Service or any service provided by Tinder’s affiliates.
         
     
     The uploading or sharing of content that violates these Terms ("Prohibited Content") may result in the immediate suspension or termination of your account.
@@ -202,7 +199,7 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     
     For additional information on how we moderate content, please see our [Safety](https://mtch.com/safety) page for more details.  For additional information on how recommended profiles are ordered, please see the [Method Behind our Matching](https://www.help.tinder.com/hc/en-us/articles/7606685697037-Powering-Tinder-The-Method-Behind-Our-Matching).
     
-    ### **3a. YOUR CONTENT**
+    ### 3a. **YOUR CONTENT**
     
     **You are responsible for Your Content. Don't share anything that you wouldn't want others to see, that would violate this Agreement, or that may expose you or us to legal liability.**
     
