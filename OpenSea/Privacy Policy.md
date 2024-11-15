@@ -1,5 +1,6 @@
+#### Install the OpenSea app
+
 Privacy Policy
-==============
 
 _Last Updated: December 1, 2023_
 
