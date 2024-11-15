@@ -3,7 +3,7 @@
 Politique de confidentialité
 ----------------------------
 
-Nous avons mis à jour notre politique de confidentialité le 14 novembre 2024. [Consulter notre politique précédente.](https://fr-fr.facebook.com/privacy/policy/version/7122790421067234/)
+Nous avons mis à jour notre politique de confidentialité le 14 novembre 2024. [Consulter notre politique précédente.](https://fr-fr.facebook.com/privacy/policy/version/25238980265745528/)
 
 Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
