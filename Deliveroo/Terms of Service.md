@@ -1,7 +1,7 @@
 Deliveroo Terms Of Service
 --------------------------
 
-**Last updated**: 17 June 2024
+**Last updated**: 15 November 2024
 
 Welcome to Deliveroo. This page (together with the documents referred to in it) tells you the terms (the “**Terms**”) which apply when you order any items (the **"Items"**) from our deliveroo.co.uk website or mobile applications and related services (each referred to as an **“Application”**).
 
@@ -9,7 +9,7 @@ Please read these Terms carefully before ordering any Items from our Application
 
 ### 1\. Information About Us
 
-Deliveroo Ireland Limited is a company incorporated and registered in Ireland, with a registered office at 2 Dublin Landings, North Dock, Dublin 1, Ireland.  Our Company registration number is 556923. Our VAT number is 3332774RH. You may contact us at support@deliveroo.ie or by using the instant messaging facility on our Application.
+Deliveroo Ireland Limited is a company incorporated and registered in Ireland, with a registered office at 1-2 Victoria Buildings, Haddington Road, Dublin 4, DUBLIN, Ireland.  Our Company registration number is 556923. Our VAT number is 3332774RH. You may contact us at support@deliveroo.ie or by using the instant messaging facility on our Application.
 
 ### 2\. Purpose
 
@@ -135,13 +135,13 @@ For further information on how we rank our Partners, you’ll find a dedicated s
 Deliveroo Terms Of Use For Website And Applications
 ---------------------------------------------------
 
-Last updated: 17 June 2024
+Last updated: 15 November 2024
 
 This page (together with the documents referred to on it) tells you the terms of use on which you may make use of our website deliveroo.ie (and all pages attaching to and including this domain name) (our **"Site"**) or any application we make available via an app store or otherwise (our **"Service"**), whether as a guest or a registered user. Please read these terms of use carefully before you start to use our Site or our Service. By accessing our Site or by using our Service, you indicate that you accept these terms of use and that you agree to abide by them. If you do not agree to these terms of use, do not access our Site or use our Service.
 
 ### 1\. Information About Us
 
-deliveroo.ie, and all pages attaching to and including this domain name, is a website operated by Deliveroo Ireland Limited ("we", "us" or "Deliveroo"), incorporated and registered in the Ireland, whose registered office is at 15 Flemmings Place, Dublin 4, D04 P6W3, Ireland. Our Company registration number is 556923. Our VAT number is 3332774RH. Deliveroo is a business where the items are prepared by independent businesses (our **"Partners"**) and delivered by us to you on behalf of our Partners or in some cases delivered by the Partner.
+deliveroo.ie, and all pages attaching to and including this domain name, is a website operated by Deliveroo Ireland Limited ("we", "us" or "Deliveroo"), incorporated and registered in the Ireland, whose registered office is at 1-2 Victoria Buildings, Haddington Road, Dublin 4, DUBLIN, Ireland. Our Company registration number is 556923. Our VAT number is 3332774RH. Deliveroo is a business where the items are prepared by independent businesses (our **"Partners"**) and delivered by us to you on behalf of our Partners or in some cases delivered by the Partner.
 
 ### 2\. Accessing Our Service Or Our Services
 
@@ -268,9 +268,9 @@ Any attempt to manipulate our Site and our offers of Credits by use of bulk entr
 Deliveroo Gift Card Terms and Conditions
 ----------------------------------------
 
-**Last updated: 5 April 2021**
+**Last updated: 15 November 2024**
 
-This page sets out the terms that apply to Gift Cards supplied by Deliveroo Ireland Limited (“**Deliveroo**”), a company registered in Ireland with registered number 556923.  Our registered address is 2 Dublin Landings, North Dock, Dublin 1, Ireland.  
+This page sets out the terms that apply to Gift Cards supplied by Deliveroo Ireland Limited (“**Deliveroo**”), a company registered in Ireland with registered number 556923.  Our registered address is 1-2 Victoria Buildings, Haddington Road, Dublin 4, DUBLIN, Ireland.  
 
 Please read these terms carefully before purchasing or using any Gift Card on our Service. By purchasing or using a Gift Card, you confirm your acceptance of these terms. We may change these terms and from time to time, so we recommend that you check back regularly. 
 
