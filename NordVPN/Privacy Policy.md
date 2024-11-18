@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last updated: May 20, 2024
+Last updated: November 18, 2024
 
 This document (“**Privacy Policy**”) explains the privacy rules applicable to personal data and other information collected or submitted when you access, install, or use Nord Services and Websites regardless of the device (computer, mobile phone, tablet, etc.) you use.
 
@@ -46,6 +46,7 @@ Communication data
 * **Communication optimization data.** We use various tools to help us optimize our emailing campaigns. These tools may track actions you perform with an email, such as open it or unsubscribe from further communication. We may also be able to see the user device’s operating system (e.g., Windows, Mac, iOS, Android) and country in order to optimize push and email notifications and automatically set the language.
 * **Chatbot.** If you contact us via our chatbot on our Websites, in addition to processing your contact information, we will be able to collect your device information and IP address.
 * **Live chat widget.** If you contact us via live chat widget, in addition to processing your contact information, we will also process your device information (such as type of the operating system and browser) and IP address. This information is necessary for our support to determine the user's country, prevent abuse,see if the user is connected to our servers, and help our support to process queries faster.
+* **Phone calls.** If phone contact is available in your country and you reach out to us in response to one of our TV advertisements, we will record the call for quality assurance and to respond to your queries (including complaints) about our Services you are interested in, but only with your prior consent. In this case, we will process call metadata (such as your phone number, call time, and duration) along with the content of the call (including your voice, email address, details about our Services you are interested in, and any other information exchanged). Additionally, if your call is dropped while we are locating an available consultant or during your conversation, or if you call when the phone line is closed, we will record your phone number and may call you back. If you prefer not to have your call recorded, we encourage you to contact us via email at [support@nordaccount.com](mailto:support@nordaccount.com) instead of reaching out by phone.
 
 Information collected on our applications and Websites
 
@@ -76,7 +77,7 @@ Your personal data is processed:
     
 * **When we have a legal obligation to process certain personal data collected from you** (e.g., to keep and process records for tax purposes and accounting).
     
-* **Where you have provided your consent to us.** Such cases may include: i) to send marketing communication (unless applicable law permits us to contact you without your prior consent); ii) to communicate with you and manage your participation in Nord’s contests, offers, referrals, or promotions. Please note that although Nord may also process your personal data for marketing purposes when applicable law permits us to contact you without your separate consent, if you choose not to receive marketing communication from us (i.e., if you opt-out), we will honor your request.
+* **Where you have provided your consent to us.** Such cases may include: i) to send marketing communication (unless applicable law permits us to contact you without your prior consent); ii) to communicate with you and manage your participation in Nord’s contests, offers, referrals, or promotions; iii) to record your call. Please note that although Nord may also process your personal data for marketing purposes when applicable law permits us to contact you without your separate consent, if you choose not to receive marketing communication from us (i.e., if you opt-out), we will honor your request.
     
 * **We sometimes may process your personal data under the legal basis of our or third parties’ legitimate interest.** Such cases include: i) to properly administer business communication with you; ii) to detect, prevent, or otherwise address fraud, abuse, security, or technical issues with our Services and Websites; iii) to protect against harm to the rights, property, and safety of Nord, our users, or third parties; iv) to improve or maintain our Services and provide new products and features; v) to receive knowledge of how our Websites and applications are being used (crash reports, app store reviews, information about the channel from which our app was downloaded, etc.).
     
@@ -185,6 +186,8 @@ Nord will keep your personal data only as long as necessary to provide you with 
 * Customer billing information and payment details are kept by Nord for 10 years from the last payment transaction.
     
 * Nord will use your email for marketing communication for 1 year after the end of your Subscription or until you exercise your right to opt-out, whichever comes first.
+    
+* If the call with our support team is recorded, recordings will be retained for a maximum period of 2 years unless further retention is required for legal or compliance purposes.
     
 
 When we no longer have a legal ground to keep your personal data, it will either be securely disposed of, or de-identified through appropriate anonymization means. Nord will destroy personal data recorded or stored in the form of electronic files using method(s) that would prevent the recovery of the data.
