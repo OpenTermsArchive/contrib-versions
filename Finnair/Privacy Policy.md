@@ -4,9 +4,9 @@ Finnair privacy policy
 Hello. We want to make sure you are on board with us when it comes to the use of your data.
 -------------------------------------------------------------------------------------------
 
-This Finnair Privacy Policy tells you how we collect, use, disclose and in other ways process your personal data. Here, we also explain your rights, how to contact us and how we safeguard your data.
+This Finnair privacy policy explains how we collect, use, disclose and process your personal data. It also explains your rights, how to contact us and how we safeguard your data.
 
-This Privacy Policy applies to all the personal data we process about you when you plan your trip, travel with us, purchase or use our services, visit our online services or otherwise interact with us. We process personal data in accordance with the provisions of the European Union General Data Protection Regulation (“GDPR”) and other applicable data protection legislation.
+This privacy policy applies to all the personal data we process about you when you plan your trip, travel with us, purchase or use our services, visit our online services or otherwise interact with us. We process personal data in accordance with the provisions of the European Union General Data Protection Regulation (GDPR) and other applicable data protection legislation.
 
 You can find more information about the processing of your personal data under each topic below. Please click the relevant section below for more information.
 
