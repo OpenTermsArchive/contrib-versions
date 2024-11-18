@@ -36,7 +36,7 @@ Roblox Community Standards
 
 Roblox’s mission is to connect a billion people with optimism and civility. Every day, tens of millions of people around the world have fun with friends as they explore millions of immersive digital experiences. All of these experiences are built by the Roblox community, made up of millions of creators. We believe in building a safe, civil, and diverse community—one that inspires and fosters creativity and positive relationships between people around the world.
 
-We’ve created these Community Standards to help ensure that everyone feels safe and welcome in our shared adventure. These Standards apply to all of your actions on Roblox and with other Robloxians, both online and at real-world events hosted by Roblox. For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
+We’ve created these Community Standards to help ensure that everyone feels safe and welcome in our shared adventure. These Standards apply to all of your actions on Roblox and with other Robloxians, both online and at real-world events hosted by Roblox. For Restricted experiences, please see [Roblox’s Restricted Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
 
 We ask that you respect our Standards and each other at all times — and understand that violating them may result in enforcement action against your account(s) and content. For some behavior that violates these Standards, such as behavior that poses a real-world risk to others, we reserve the right to contact or cooperate with the relevant authorities in order to keep everyone safe.
 
@@ -141,7 +141,7 @@ Although some experiences on Roblox may include weapons and violence, we do not 
 * Animal abuse and torture
 * Realistic or real-world depictions of extreme gore, graphic violence, or death
 
-For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
+For Restricted experiences, please see [Roblox’s Restricted Content Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
 
 Romantic and Sexual Content
 
@@ -157,7 +157,7 @@ Roblox is a safe space for meeting online friends, chatting, and collaborating o
 
 For more information about creating assets or bundles that comply with these policies, including required use of modesty layers, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
 
-For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
+For Restricted experiences, please see [Roblox’s Restricted Content Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
 
 Illegal and Regulated Goods and Activities
 
@@ -176,7 +176,7 @@ Except where prohibited by local law or regulation, we allow unplayable gambling
 
 If you or someone you know is struggling with substance abuse, help is available. You can start [here](https://www.samhsa.gov/public-messages).
 
-For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
+For Restricted experiences, please see [Roblox’s Restricted Content Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
 
 Profanity
 
@@ -185,7 +185,7 @@ To keep Roblox safe and civil for everyone, we do not allow swearing in any lang
 * Using misspellings, special characters, or other methods to evade detection of profanity
 * Quoting or using audio containing profane lyrics
 
-For 17+ experiences, please see [Roblox’s 17+ Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
+For Restricted experiences, please see [Roblox’s Restricted Content Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
 
 Political Figures and Entities
 
@@ -345,6 +345,7 @@ Change Log
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| November 18, 2024 | Replaced mentions of 17+ Experiences Policy with the new Restricted Content Policy |
 | October 30, 2024 | Updated the following Community Standards:<br><br>* Romantic and Sexual Content<br>    * Clarified that any sexually suggestive assets or bundles are prohibited<br><br>Effective October 30, 2024<br><br>* Misusing Roblox Systems<br>    * Added note about required use of TextChatService APIs<br><br>Effective April 30, 2025 |
 | October 3, 2024 | Updated the following Community Standards:<br><br>* Child Endangerment<br>    * Changed name to “Child Exploitation”<br>* Directing Users Off-Platform<br>    * Clarified that QR codes, or barcodes are not allowed<br>    * Added note that DevForum and Talent Hub are treated differently<br>    * Added that some URLs are allowed if authorized by or in partnership with Roblox<br>* Illegal and Regulated Goods and Activities<br>    * Clarified contests to include games of chance and competitions<br>    * Updated gambling language and removed mention of favorable odds<br>* Political Content<br>    * Changed name to “Political Figures and Entities”<br>    * Moved bullet about inflammatory content related to real world border, territorial, or jurisdictional relationships to Real-World Sensitive Events<br>    * Reorganized prohibited content into two categories: political figures and political entities<br>* Real-World Sensitive Events<br>    * Added catastrophic accidents and sensational crimes<br>    * Moved bullet about inflammatory content related to real world border, territorial, or jurisdictional relationships from Political Figures and Entities<br>* Roblox Economy<br>    * Added a prohibition against offering indirect benefits across Roblox payment systems or properties<br><br>Effective October 3, 2024 |
 | August 5, 2024 | Added “Customizable Friend Requests” as permitted to use real names for eligible users under the Sharing PII policy |
