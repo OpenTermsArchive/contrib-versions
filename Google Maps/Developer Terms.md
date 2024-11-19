@@ -165,6 +165,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Department of Infrastructure, Transport, Regional Development, Communications and the Arts: [https://www.infrastructure.gov.au/copyright](https://www.infrastructure.gov.au/copyright)
             
+        * Digital Atlas of Australia: [https://digital.atlas.gov.au/datasets/7f1d581ac75446629e66d1fd1c05a1e9/about](https://digital.atlas.gov.au/datasets/7f1d581ac75446629e66d1fd1c05a1e9/about)
+            
     4. **Austria**
         * You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
@@ -1502,8 +1504,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * 大東市: [https://www.city.daito.lg.jp/soshiki/67/44745.html](https://www.city.daito.lg.jp/soshiki/67/44745.html)
             
-        * 北海道オープンデータ: [https://ckan.hoda.jp/dataset/gtfs-data/resource/3efff7e5-b604-4850-8888-38f0e60bb238](https://ckan.hoda.jp/dataset/gtfs-data/resource/3efff7e5-b604-4850-8888-38f0e60bb238)
-            
     36. **Liechtenstein**
         * “Liechtensteinische Landesverwaltung“ - [https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf](https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf)
             
@@ -1667,6 +1667,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Statens Vegvesen: [https://data.norge.no/nlod/no](https://data.norge.no/nlod/no)
             
+        * Geonorge: [https://data.norge.no/nlod/no/1.0](https://data.norge.no/nlod/no/1.0)
+            
     48. **Poland**
         * © MGGP Aero
             
@@ -1695,6 +1697,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Otwarte Dane - Dane.gov.pl: [https://creativecommons.org/licenses/by/4.0/deed](https://creativecommons.org/licenses/by/4.0/deed)
             
         * Geoportal of Poland - Gugik: [https://www.geoportal.gov.pl/pl/o-geoportalu/regulamin/](https://www.geoportal.gov.pl/pl/o-geoportalu/regulamin/)
+            
+        * GUGIK Główny Urząd Geodezji i Kartografii: [https://creativecommons.org/licenses/by/3.0/pl/deed.en](https://creativecommons.org/licenses/by/3.0/pl/deed.en)
             
     49. **Portugal**
         * IgeoE - Portugal
@@ -1950,6 +1954,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Datos Comunidad de Madrid: [https://www.madrid.org/cartografia/staticFiles/catalogo/aviso\_legal.htm](https://www.madrid.org/cartografia/staticFiles/catalogo/aviso_legal.htm)
             
         * Datos Gobierno de España: [https://administraciodigital.gencat.cat/ca/dades/dades-obertes/informacio-practica/llicencies/](https://administraciodigital.gencat.cat/ca/dades/dades-obertes/informacio-practica/llicencies/)
+            
+        * Datos Madrid: [https://datos.madrid.es/portal/site/egob/menuitem.400a817358ce98c34e937436a8a409a0/?vgnextoid=b4c412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextchannel=b4c412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default](https://datos.madrid.es/portal/site/egob/menuitem.400a817358ce98c34e937436a8a409a0/?vgnextoid=b4c412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextchannel=b4c412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
+            
+        * Open Data BCN: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     58. **Sweden**
         * © 2009 Cartesia GIS AB
