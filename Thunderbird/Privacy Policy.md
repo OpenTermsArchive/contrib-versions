@@ -1,7 +1,7 @@
 Thunderbird Privacy Notice
 ==========================
 
-Last updated September 30, 2024
+Last updated November 15, 2024
 
 The Thunderbird Desktop, Thunderbird for Android, and K-9 Mail applications (together, “Thunderbird”) allow users to privately integrate and manage their online communications. K-9 Mail is a variant of Thunderbird for Android. All references to “Thunderbird” or “Thunderbird for Android” apply equally to K-9 Mail.
 
@@ -32,11 +32,7 @@ Thunderbird collects your email domain and other technical data to set-up and co
 
 ### Set Up and Configure Your Calendar (Desktop Only)
 
-Thunderbird collects the domain for your email/calendar, as well as technical data to set up and configure your calendar. Other information, like your name, your calendar events, and event attendees are stored and processed locally on your computer and never sent to us.
-
-You can connect your Google, Microsoft, or Apple calendar to Thunderbird and control your calendar right from Thunderbird.
-
-We do not store your content from integrating Apple Calendar, Google Calendar, or Microsoft 365 with Thunderbird. That information stays on your computer. Nor do we share your content with any third party other than your calendar provider and anyone you specifically choose to send the appointments to.
+Thunderbird collects the domain for your email/calendar, as well as technical data to set up and configure your calendar. Other information, like your name, your calendar events, and event attendees are stored and processed locally on your computer and never sent to us. If you are using a remote calendar such as Google, Microsoft, or Apple, calendar content is solely shared with the respective calendar provider and anyone you specifically choose to send appointments to. Calendar contents and personal data are used only to display and enable you to use your calendar in Thunderbird.
 
 ### Set Up and Schedule Calendar Appointments with Thunderbird Appointment
 
@@ -85,6 +81,15 @@ You can install add-ons for Thunderbird Desktop from addons.thunderbird.net or f
 **Interaction data**: We receive aggregate data about visits to the Thunderbird website and the Add-ons Manager in Thunderbird, as well as interactions with content on those pages. Read about data practices on [Mozilla websites](https://www.mozilla.org/privacy/websites/).
 
 **Technical data for updates**: Thunderbird periodically connects to our server to install updates to add-ons. Your installed add-ons, application version, language, and device operating system are used to apply the correct updates. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
+
+Use of OAuth Information
+------------------------
+
+OAuth is a secure authorization protocol that allows third-party applications to access resources without sharing login credentials. Thunderbird uses OAuth to connect with certain email or calendar providers that mandate or prefer its use, such as Google, Yahoo and Microsoft.
+
+When using OAuth to authorize access to your email or calendars, all data is strictly exchanged over an encrypted connection between the email client application and the OAuth service. Mozilla does not collect, access, or store any sensitive information exchanged during this process.
+
+On your device, login credentials are not retained; instead, they are exchanged for OAuth tokens. These tokens, along with your email and calendar data, are stored within the application sandbox (on Android) or confined within your user profile (on Desktop). When you remove an account, all associated content and tokens will be deleted from your device. On Desktop, the tokens may be retained for a longer period of time in case you have multiple accounts, but can be removed separately in the password manager.
 
 Thunderbird May Disclose Information To:
 ----------------------------------------
