@@ -49,7 +49,7 @@ Choose a Google product
 * [![](//www.gstatic.com/images/branding/product/1x/google_home_64dp.png)
     
     ### Google Nest](https://support.google.com/googlenest?hl=en-GB)
-* [![](//fonts.gstatic.com/s/i/productlogos/googleg/v6/web-64dp/logo_googleg_color_1x_web_64dp.png)
+* [![](//www.gstatic.com/images/branding/productlogos/pay_ios/v10/web-64dp/logo_pay_ios_color_1x_web_64dp.png)
     
     ### Google Pay](https://support.google.com/googlepay?hl=en-GB)
 * [![](//fonts.gstatic.com/s/i/productlogos/gstore/v5/web-64dp/logo_gstore_color_1x_web_64dp.png)
