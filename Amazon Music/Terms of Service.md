@@ -1,4 +1,4 @@
 Amazon Music Terms of Use
 =========================
 
-Last updated May 1, 2023
+Last updated November 19, 2024
