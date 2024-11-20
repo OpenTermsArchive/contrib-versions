@@ -56,6 +56,7 @@ Information Google collects
 ===========================
 
 We want you to understand the types of information we collect as you use our services
+-------------------------------------------------------------------------------------
 
 We collect information to provide better services to all our users — from figuring out basic stuff like which language you speak, to more complex things like which [ads you’ll find most useful](https://policies.google.com/privacy#footnote-useful-ads), [the people who matter most to you online](https://policies.google.com/privacy#footnote-people-online), or which YouTube videos you might like. The information Google collects, and how that information is used, depends on how you use our services and how you manage your privacy controls.
 
@@ -123,6 +124,7 @@ Why Google collects data
 ========================
 
 We use data to build better services
+------------------------------------
 
 We use the information we collect from all our services for the following purposes:
 
@@ -176,6 +178,7 @@ Your privacy controls
 =====================
 
 You have choices regarding the information we collect and how it's used
+-----------------------------------------------------------------------
 
 This section describes key controls for managing your privacy across our services. You can also visit the [Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_body), which provides an opportunity to review and adjust important privacy settings. In addition to these tools, we also offer specific privacy settings in our products — you can learn more in our [Product Privacy Guide](https://policies.google.com/technologies/product-privacy).
 
@@ -324,6 +327,7 @@ Keeping your information secure
 ===============================
 
 We build security into our services to protect your information
+---------------------------------------------------------------
 
 All Google products are built with strong security features that continuously protect your information. The insights we gain from maintaining our services help us detect and automatically block security threats from ever reaching you. And if we do detect something risky that we think you should know about, we’ll notify you and help guide you through steps to stay better protected.
 
