@@ -1,7 +1,7 @@
 TABOOLA COOKIE POLICY
 =====================
 
-Last Update: January 5th, 2021
+Last Update: November 20th, 2024
 
 Taboola, Inc. together with its Affiliates (“Taboola”, “we”, “us”, or “our”) recognizes the importance of your privacy. In this cookie policy (“Cookie Policy”), we aim to inform you about the use of cookies, and other automated means of data collection (1) on our website [www.taboola.com](https://www.taboola.com/),  and any other Taboola digital properties displaying this Cookie Policy (collectively, the “Sites”) and (2) via our content discovery platform (the “Services”), which appears on the websites and digital properties of our publisher customers to redistribute their own content or recommend the content of our advertiser customers (collectively, the “Customers”). When we refer to “cookies” in this Cookie Policy, we mean both cookies and other automated means of data collection, as defined below. By visiting the Sites and interacting with or using the Sites, you expressly consent to the use of cookies as explained hereafter. We ask our Customers to obtain consent on our behalf, where required by applicable data protection laws, so that we may use cookies and other automated means of data collection on their digital properties.
 
@@ -140,12 +140,13 @@ You can find more information about the individual first-party cookies used for 
 | t\_pt\_gid | Assigns a unique User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user. | Publisher or Advertiser Domain | 1 year |
 | trc\_cookie\_storage | Assigns a unique User ID that is used for attribution and reporting purposes. | Publisher’s Domain | 1 year |
 | \_tb\_sess\_r | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. It maintains a session reference about the user’s visit to this particular website. | Publisher’s Domain | 30 minutes |
-| \_tb\_t\_ppg | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. This cookie is used to identify the referring website (i.e. the website that the user visited prior to arriving at this publisher’s website). | Publisher’s Domain | 30 minutes |
+| \_tb\_t\_ppg | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. This cookie is used to identify the referring website (i.e. the website that the user visited prior to arriving at this publisher’s website). | Publisher’s Domain | 30 minutes |     |
 | Performance (Analytics) Cookies | abLdr | Supports routine technical and performance improvements for Taboola’s browser-based Services. | taboola.com | 3 hours |
 | abMbl | Supports routine technical and performance improvements for Taboola’s mobile SDK Services. | taboola.com | 3 hours |
 | tb\_click\_param | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. It measures performance of the publisher’s homepage articles that are clicked. | Publisher’s Domain | 50 seconds |
 | taboola global:last-external | Used for attribution purposes to see what link or page led a user to the current page. | Publisher or Advertiser Domain | Local Storage (deleted when the user deletes it) |
-| global:last-external-referrer | Used for attribution purposes to see what link or page led a user to the current page. | Publisher or Advertiser Domain | Local Storage (deleted when the user deletes it) |
+| Local Storage | global:last-external-referrer | Used for attribution purposes to see what link or page led a user to the current page. | Publisher or Advertiser Domain | Local Storage (deleted when the user deletes it) |
+| Local Storage: taboolasmartSwap | Used for storing the latest article recommendations users have seen in previous session | Publisher’s Domain | Local Storage (deleted when the user deletes it) |
 
 4\. How To Manage Cookies
 -------------------------
