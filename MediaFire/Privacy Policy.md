@@ -177,6 +177,8 @@ We use this information to determine what types and version of devices, etc. are
 
 This Privacy Policy governs your use of the MediaFire Services, regardless of how you access it, and by using our Services you consent to the collection, transfer, processing, storage and disclosure and other uses described in this Privacy Policy. Information may be collected from you in various ways when you use our Services. We automatically receive certain types of information when you interact with our Web pages, apps, services and communications. This information includes your computer, tablet, mobile or other digital device's IP address, access times, your browser type and language. We may also collect information about the type of operating system you use, your account activity, and accessed pages. Personal and non-personally identifiable information from collected data may be shared with third parties who work on our behalf to provide your services. These third-party services and unique identifiers may be used to contact you, measure usage and analyze trends, administer the website and collect information for its databases. For example: [Google Analytics Privacy Policy](http://www.google.com/intl/en/policies/privacy/).
 
+Along with other third-party advertisers, we work with Ezoic. The Ezoic privacy policy is available at [https://g.ezoic.net/privacy/mediafire.com](https://g.ezoic.net/privacy/mediafire.com)
+
 Cookies, Web Beacons, and Similar Technologies
 ----------------------------------------------
 
