@@ -130,3 +130,5 @@ If, after reasonable efforts, you believe your concern has not been satisfactori
 * If you are in the US, our privacy practices are regulated by the Federal Trade Commission or state-specific data protection authorities;
 * If you are in the EU, we recommend you contact you contact the Data Protection Authority in the Member State where you normally reside;
 * If you are in the UK, we recommend you contact the UK Information Commissioner’s Office (ICO).
+
+<<END OF POLICY>>
