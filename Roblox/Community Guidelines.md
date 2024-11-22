@@ -106,7 +106,6 @@ Roblox honors and welcomes users of all ages, backgrounds, and identities. We do
 * Gender, gender identity, or gender expression
 * Religion or religious affiliation or beliefs
 * Disability status including diseases, bodily conditions, disfigurement, mobility issues, and mental impairment
-* Physical or mental disability status
 * Veteran status
 * Caste
 * Familial status
@@ -345,6 +344,7 @@ Change Log
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| November 21, 2024 | * Updated the following Community Standard<br>    * Discrimination, Slurs, and Hate Speech<br>    * Removed repeat language<br><br>Effective November 21, 2024 |
 | November 18, 2024 | Replaced mentions of 17+ Experiences Policy with the new Restricted Content Policy |
 | October 30, 2024 | Updated the following Community Standards:<br><br>* Romantic and Sexual Content<br>    * Clarified that any sexually suggestive assets or bundles are prohibited<br><br>Effective October 30, 2024<br><br>* Misusing Roblox Systems<br>    * Added note about required use of TextChatService APIs<br><br>Effective April 30, 2025 |
 | October 3, 2024 | Updated the following Community Standards:<br><br>* Child Endangerment<br>    * Changed name to “Child Exploitation”<br>* Directing Users Off-Platform<br>    * Clarified that QR codes, or barcodes are not allowed<br>    * Added note that DevForum and Talent Hub are treated differently<br>    * Added that some URLs are allowed if authorized by or in partnership with Roblox<br>* Illegal and Regulated Goods and Activities<br>    * Clarified contests to include games of chance and competitions<br>    * Updated gambling language and removed mention of favorable odds<br>* Political Content<br>    * Changed name to “Political Figures and Entities”<br>    * Moved bullet about inflammatory content related to real world border, territorial, or jurisdictional relationships to Real-World Sensitive Events<br>    * Reorganized prohibited content into two categories: political figures and political entities<br>* Real-World Sensitive Events<br>    * Added catastrophic accidents and sensational crimes<br>    * Moved bullet about inflammatory content related to real world border, territorial, or jurisdictional relationships from Political Figures and Entities<br>* Roblox Economy<br>    * Added a prohibition against offering indirect benefits across Roblox payment systems or properties<br><br>Effective October 3, 2024 |
