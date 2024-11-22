@@ -1,9 +1,13 @@
 Terms Of Use
 ------------
 
-**Your use of the Dailymotion Service implies your acceptance of these Terms of Use including the Prohibited Content Policy and the Data Protection Annexes below (with the Standard Contractual Clauses incorporated therein). We ask You to read them carefully.**
+Simplified Summary of our Terms of Use:
 
-_Last update date: October 18, 2024._
+If you want to access the main points of our Terms of Use in a simplified way, for instance if you’re a kid, you can [access this Summary](https://legal.dailymotion.com/en/kids-friendly-tou/). Please note though that it is provided for **informational** purposes only. In case of conflict between the Terms of Use and the summary, only the Terms of Use shall prevail.
+
+**Your use of the Dailymotion Service implies your acceptance of these Terms of Use including the [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) and the [Data Protection Annex](https://legal.dailymotion.com/en/terms-of-use/#appendix-b-data-protection-annex) below (with the Standard Contractual Clauses incorporated therein). We ask You to read them carefully.**
+
+_Last update : November 22, 2024._
 
 ### **SECTION 1: DESCRIPTION OF THE DAILYMOTION SERVICE**
 
@@ -38,7 +42,7 @@ _Last update date: October 18, 2024._
 
 2.3. Dailymotion may, in its sole discretion, modify the Terms from time to time, and You agree to be bound by such modifications. Although we may notify You when major changes are made to the Terms, You should periodically review the most up-to-date version which is always accessible from the homepage of the Dailymotion website. If You do not agree to the modified Terms or cannot comply with the modified Terms, Your only recourse is to stop using the Dailymotion Service. Your continued use of the Dailymotion Service after the effective date of the modified Terms will constitute Your acceptance of the modified Terms.
 
-2.4. You shall not use the Dailymotion Service if (a) You are not of legal age to form a binding contract with Dailymotion, or (b) You are a person who is either barred or otherwise legally prohibited from receiving or using the Dailymotion Service under the laws of the country in which You are a resident or from which You access or use the Dailymotion Service.
+2.4. If you are an individual (by opposition to a legal entity), You represent to Dailymotion that you are either: (i) more than 18 years old, or (ii) an emancipated minor, or (iii) at least 13 years old and that You possess legal parental or guardian consent. The Dailymotion Service is not intended for children under 13 so you shall not use it if you are not 13 yet. You shall neither use the Dailymotion Service if (a) You are not of legal age to form a binding contract with Dailymotion, or (b) You are legally prohibited from receiving or using the Dailymotion Service under the laws of the country in which You are a resident or from which You access or use the Dailymotion Service.
 
 2.5. If You are not an individual (i.e., a corporation or other legal entity), You represent to Dailymotion that You have all necessary corporate or equivalent authority and power to agree to the Terms which You agree shall be binding on the corporation, partnership, association or other entity in whose name You are using or accessing the Dailymotion Service.
 
@@ -69,7 +73,7 @@ _Last update date: October 18, 2024._
 
 5.1. In its capacity as a web hosting service provider, Dailymotion is under no legal obligation to monitor content uploaded on the Dailymotion Service, nor obligated to actively seek facts or circumstances indicating illegal content but shall forthwith remove or disable access from its Dailymotion Service to any infringing content once having been notified of its existence. Furthermore, Dailymotion does not, and has no legal obligation to, review or inspect content for possible illegality or infringement prior to its being viewable on the Dailymotion website.
 
-5.2. You acknowledge and agree that the owners of the Third-Party Video(s) and Dailymotion in accordance with Section 5.1., may from time to time remove Dailymotion users’ content (including Your Content) from the Dailymotion Service without notice. You shall nonetheless remain fully liable for Your Content.
+5.2. You acknowledge and agree that the owners of the Third-Party Video(s) and Dailymotion in accordance with Section 5.1., may from time to time remove Dailymotion users’ content (including Your Content) from the Dailymotion Service. You shall nonetheless remain fully liable for Your Content.
 
 5.3. You agree that Your use of the Dailymotion Service shall be at Your sole risk and liability. In this regard, You are solely responsible for (i) Your use of the Dailymotion Service and more specifically for Your Content (including any personal data that may be incorporated therein) and (ii) the protection of Your computer hardware against any virus or interruption.
 
@@ -136,7 +140,7 @@ Some jurisdictions limit or do not allow the disclaimer of warranties or damages
 
 7.1. Dailymotion has implemented an easily accessible mechanism next to each video uploaded on the Dailymotion Service allowing anyone to report the availability of infringing or illegal material and/or activity on the Dailymotion Service set out in Section 6.1.
 
-7.2. Such processes to report prohibited content are described in detail at the following URL: [**http://www.dailymotion.com/legal/prohibited**](https://www.dailymotion.com/legal/prohibited?localization=en) and within our Help Center at the following URL: **https://faq.dailymotion.com/hc/en-us/sections/200384117-Community-guidelines**.
+7.2. Such processes to report prohibited content are described in detail at the following URL: [**http://www.dailymotion.com/legal/prohibited**](https://www.dailymotion.com/legal/prohibited?localization=en) and within our Help Center at the following URL: [**https://faq.dailymotion.com/hc/en-us/sections/200384117-Community-guidelines**.](https://faq.dailymotion.com/hc/en-us/sections/200384117-Community-guidelines.)
 
 ###   
 **SECTION 8: DATA, ADVERTISEMENTS AND PRIVACY**
@@ -172,7 +176,7 @@ For clarity, when the provision or use of the Dailymotion Service involves trans
 
 9.2. Any obligations which expressly or by their nature continue after termination, cancellation, or expiration of the Terms shall survive and remain in effect after such happening.
 
-9.3. You agree that if one or more provision of the Terms is considered to be not enforceable as a result of the application of a Law, regulation, or the decision of a competent body having jurisdiction, it will be treated as not forming part of the Terms and all other provisions stated herein will remain in force.
+9.3. You agree that if one or more provisions of the Terms is considered to be invalid as such or as a result of the application of a Law, regulation, or the decision of a competent body having jurisdiction, it will be treated as not forming part of the Terms and all other provisions stated herein will remain in force.
 
 9.4. You also acknowledge that if Dailymotion does not take immediate action in the case You fail to comply with the Terms, this shall not mean that Dailymotion is giving up on any rights that we may have, including but not limited to the right to take action in the future.
 
@@ -186,16 +190,14 @@ If You reside in a country that is not part of the European Economic Area, the U
 
 9.8. You agree that Dailymotion may provide You with notices, including those regarding changes to the Terms, by email, regular mail, or postings on the Dailymotion Service.
 
-9.9. If one or more provision of the Terms is considered to be invalid as such or as a result of the application of a law, regulation, or the decision of a competent body having jurisdiction, it will be treated as not forming part of the Terms and all other conditions of the Terms will remain in force.
-
-9.10. No waiver by either Party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default.
-
-9.11. You affirm that You are either more than 18 years of age, or an emancipated minor, or possess legal parental or guardian consent, and are fully able and competent to enter into the terms, conditions, obligations, affirmations, representations, and warranties set forth in the Terms, and to abide by and comply with the Terms. In any case, You affirm that You are over the age of 13, as the Dailymotion Service is not intended for children under 13. If You are under 13 years of age, then please do not use the Dailymotion Service
-
-**Last Updated:** May 24, 2024
+9.9. No waiver by either Party of any breach or default hereunder shall be deemed to be a waiver of any preceding or subsequent breach or default.
 
 **APPENDIX A – Prohibited Content Policy**
 ------------------------------------------
+
+Summary of Prohibited Content Policy:
+
+If you want to access the main points of our Prohibited Content Policy in a simplified way, for instance if you’re a kid, you can [access this Summary](https://legal.dailymotion.com/en/summary-of-dailymotion-prohibited-content-policy/). Please note though that it is provided for **informational** purposes only. In case of conflict between the Prohibited Content Policy and the summary, only the Prohibited Content Policy below shall prevail.
 
   
 Dailymotion endeavors to ensure a safe and respectful viewing environment for its Visitors. In order to protect its community, Dailymotion prohibits the content defined in Section I below (“**Prohibited Content(s)**”) and has developed a feature to limit the visibility of so-called sensitive content presented in Section IV.
