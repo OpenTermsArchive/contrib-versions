@@ -1840,4 +1840,4 @@ Si votre commande d’un ou plusieurs Produits Jeux Vidéos en précommande cont
   
 CDISCOUNT vous propose différents modes de livraison pour vos Produits en Précommande.  
   
-Pour plus d’informations concernant l’ensemble des modes de livraison vous pouvez vous référer à l’article 6 des CGV.
+Pour plus déinformations concernant l’ensemble des modes de livraison vous pouvez vous référer à l’article 6 des CGV.
