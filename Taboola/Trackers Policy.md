@@ -132,21 +132,50 @@ You can find more information about the individual first-party cookies used for 
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
+| **Taboola Publisher** |     |     |     |     |
 | Cookie Category | Cookie Name | Purpose | Domain | Expiry |
-| Strictly Necessary Cookies | taboola\_session\_id | Creates a temporary session ID to avoid the display of duplicate recommendations on the page. | trc.taboola.com | session |
-| Functionality Cookies | taboola\_select | Maintains a record of whether the user performed an action in the “Taboola Select” feature. | taboola.com | 1 year |
-| taboola\_fp\_td\_user\_id | Indicates that the user clicked on an item that was recommended by Taboola’s Services. This is used for reporting and analytics purposes. | taboola.com | 1 year |
-| t\_gid | Assigns a unique, partitioned User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with one advertiser or publisher. | taboola.com | 1 year |
-| t\_pt\_gid | Assigns a unique User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user. | Publisher or Advertiser Domain | 1 year |
-| trc\_cookie\_storage | Assigns a unique User ID that is used for attribution and reporting purposes. | Publisher’s Domain | 1 year |
-| \_tb\_sess\_r | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. It maintains a session reference about the user’s visit to this particular website. | Publisher’s Domain | 30 minutes |
-| \_tb\_t\_ppg | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. This cookie is used to identify the referring website (i.e. the website that the user visited prior to arriving at this publisher’s website). | Publisher’s Domain | 30 minutes |     |
+| Strictly Necessary Cookies | DNS | Maintains a record of a user’s instruction not to sell or share their personal data when the user exercises its rights via Taboola’s DNSS portal. | taboola.com | 5 years |
+| DNT | Maintains a record of the user’s instruction not to make use of their personal data when the user exercises rights via Taboola’s DSAR portal. | taboola.com | 5 years |
+| Functionality Cookies | taboola\_session\_id | Creates a temporary session ID to avoid the display of duplicate recommendations on the page. | trc.taboola.com | Expires upon conclusion of a user session |
+| receive-cookie-deprecation | Indication of browser cookie deprecation | taboola.com | 1 year |
+| trc\_cache | Holds recommendation data per page\_url for the publisher to reduce the server load and allow fast rendering. | taboola.com | Expires upon conclusion of a user session |
+| trc\_cache\_by\_placement | Holds mapping per page and placement (widget) name types within storage (trc\_cache). | taboola.com | Expires upon conclusion of a user session |
+| taboola\_select | Maintains a record of whether the user performed an action in the “Taboola Select” ad removal feature. | taboola.com | 1 year |
+| taboola\_fp\_td\_user\_id | Indicates that the user clicked on an item that was recommended by Taboola’s Services and is used for reporting and analytics purposes. | taboola.com | 1 year |
+| trc\_cookie\_storage | Assigns a unique User ID used for attribution and reporting purposes. | Publisher’s Domain | 1 year |
 | Performance (Analytics) Cookies | abLdr | Supports routine technical and performance improvements for Taboola’s browser-based Services. | taboola.com | 3 hours |
 | abMbl | Supports routine technical and performance improvements for Taboola’s mobile SDK Services. | taboola.com | 3 hours |
-| tb\_click\_param | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. It measures performance of the publisher’s homepage articles that are clicked. | Publisher’s Domain | 50 seconds |
-| taboola global:last-external | Used for attribution purposes to see what link or page led a user to the current page. | Publisher or Advertiser Domain | Local Storage (deleted when the user deletes it) |
-| Local Storage | global:last-external-referrer | Used for attribution purposes to see what link or page led a user to the current page. | Publisher or Advertiser Domain | Local Storage (deleted when the user deletes it) |
-| Local Storage: taboolasmartSwap | Used for storing the latest article recommendations users have seen in previous session | Publisher’s Domain | Local Storage (deleted when the user deletes it) |
+| Advertising (Targeting) Cookies | t\_gid | Assigns a unique, partitioned User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | taboola.com | 1 year |
+| t\_pid | Assigns a unique, partitioned User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | taboola.com | 1 year |
+| t\_pt\_gid | Assigns a unique User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | Publisher’s Domain | 1 year |
+| Local Storage | Local Storage:<br><br>taboola global:last-external | Used for attribution purposes to identify the referring website (i.e. the website that the user visited prior to arriving at the current website). | Publisher’s Domain | Local Storage (deleted when the user deletes it) |
+| Local Storage:<br><br>global:last-external-referrer | Used for attribution purposes to identify the referring website (i.e. the website that the user visited prior to arriving at the current website). | Publisher’s Domain | Local Storage (deleted when the user deletes it) |
+| Local Storage:<br><br>taboola global:user-id | Assigns a unique User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user (in local storage) | Publisher’s Domain | Local Storage (deleted when the user deletes it) |
+| Local Storage:<br><br>\_taboolaStorageDetection | An indicator to see if the browser supports local storage which is necessary for the functionality of the website. No data is actually written here and it’s immediately deleted. | Publisher’s Domain | Local Storage (deleted when the user deletes it) |
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Taboola Publisher (Newsroom)** |     |     |     |     |
+| Cookie Category | Cookie Name | Purpose | Domain | Expiry |
+| Functionality Cookies | \_tb\_sess\_r | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. It maintains a session reference about the user’s visit to this particular website. | Publisher’s Domain | 30 minutes |
+| \_tb\_t\_ppg | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. This cookie is used to identify the referring website (i.e. the website that the user visited prior to arriving at this publisher’s website). | Publisher’s Domain | 30 minutes |
+| Performance (Analytics) Cookies | tb\_click\_param | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. It measures performance of the publisher’s homepage articles that are clicked. | Publisher’s Domain | 50 seconds |
+
+|     |     |     |     |     |     |
+| --- | --- | --- | --- | --- | --- |
+| **Taboola Advertiser (Pixel)** |     |     |     |     |     |
+| Implementation | Cookie Category | Cookie Name | Purpose | Domain | Expiry |
+| Full Javascript Implementation | Functionality Cookie | taboola\_session\_id | Creates a temporary session ID to avoid the display of duplicate recommendations on the page. | [trc.taboola.com](http://trc.taboola.com/) | Expires upon conclusion of a user session |
+| receive-cookie-deprecation | Indication of browser cookie deprecation. | [taboola.com](http://taboola.com/) | 1 year |
+| Targeting (Advertising Cookies) | t\_gid | Assigns a unique, partitioned User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | [taboola.com](http://taboola.com/) | 1 year |
+| t\_pt\_gid | Assigns a unique User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | Advertiser Domain | 1 year |
+| Local Storage | taboola global:last-external-referrer | Used for attribution purposes to identify the referring website (i.e. the website that the user visited prior to arriving at the current website). | Advertiser Domain | Local Storage (deleted when the user deletes it) |
+| taboola global:local-storage-keys | Indication on which local storage entries were written by Taboola. | Advertiser Domain | Local Storage (deleted when the user deletes it) |
+| taboola global:user-id | Assigns a unique, partitioned User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | Advertiser Domain | Local Storage (deleted when the user deletes it) |
+| taboola global:tblci | Holds the last Taboola click id. | Advertiser Domain | Local Storage (deleted when the user deletes it) |
+| Image pixel implementation | Functionality Cookie | receive-cookie-deprecation | Indication of browser cookie deprecation. | [taboola.com](http://taboola.com/) | 1 year |
+| Advertising (Targeting) Cookie | t\_gid | Assigns a unique, partitioned User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | [taboola.com](http://taboola.com/) | 1 year |
+| t\_pt\_gid | Assigns a unique User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | Advertiser Domain | 1 year |
 
 4\. How To Manage Cookies
 -------------------------
