@@ -503,7 +503,7 @@ GPO BOX 5218, Sydney NSW 2001
 Contact us for information about how we use your personal data
 --------------------------------------------------------------
 
-If you have any questions about how we use your personal data or if you have a concern about how your personal data is used, please contact the Data Protection Officer at Guardian News & Media Limited, Kings Place, 90 York Way, London N1 9GU. Or, email [dataprotection@theguardian.com](mailto:dataprotection@theguardian.com).
+If you have any questions about how we use your personal data or if you have a concern about how your personal data is used, please contact the Data Protection Officer at Guardian News & Media Limited, Kings Place, 90 York Way, London N1 9GU. Or, email dataprotection@theguardian.com.
 
 Complaints will be dealt with by the Data Protection Team, and will be responded to within 30 days.
 
