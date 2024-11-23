@@ -1,4 +1,4 @@
-[IKEA FAMILY members: Free small standard parcel delivery when you spend €65 or more](https://www.ikea.com/ie/en/customer-service/services/delivery/#18fc4069-0a57-11ec-912c-d5190c7baa2c)
+[Place your order for Click and collect by 22nd December, to collect before Christmas](https://www.ikea.com/ie/en/customer-service/services/click-collect/)
 
 Cookie Policy
 =============
