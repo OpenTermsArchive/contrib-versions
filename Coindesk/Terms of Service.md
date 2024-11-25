@@ -1,9 +1,201 @@
+* [Prices](https://www.coindesk.com/price)
+    
+* [Indices](https://indices.coindesk.com/indices)
+    
+    * [CoinDesk 20 Index](https://indices.coindesk.com/indices/cd20)
+        
+    * [Bitcoin Offerings](https://indices.coindesk.com/indices/bitcoin)
+        
+    * [Ethereum Offerings](https://indices.coindesk.com/indices/ether/eti)
+        
+    * [Trend Indicators](https://indices.coindesk.com/indices/trend-indicators)
+        
+    * [Indices](https://indices.coindesk.com/indices/crypto-indices)
+        
+    * [Crypto Sectors](https://indices.coindesk.com/indices/sector)
+        
+* [News](https://www.coindesk.com/)
+    
+    * [Markets](https://www.coindesk.com/markets)
+        
+    * [Finance](https://www.coindesk.com/business)
+        
+    * [Policy](https://www.coindesk.com/policy)
+        
+    * [Tech](https://www.coindesk.com/tech)
+        
+    * [Learn](https://www.coindesk.com/learn)
+        
+    * [Opinion](https://www.coindesk.com/opinion)
+        
+    * [Consensus Magazine](https://www.coindesk.com/consensus-magazine)
+        
+* [Video](https://www.coindesk.com/videos)
+    
+* [Podcasts](https://www.coindesk.com/podcasts)
+    
+    * [CoinDesk Podcast Network](https://www.coindesk.com/podcasts/coindesk-podcast-network)
+        
+    * [Markets Daily](https://www.coindesk.com/podcasts/markets-daily)
+        
+    * [Gen C](https://www.coindesk.com/podcasts/generation-c)
+        
+    * [The Protocol](https://www.coindesk.com/podcasts/the-protocol)
+        
+    * [Unchained with Laura Shin](https://www.coindesk.com/podcasts/unchained)
+        
+    * [The Mining Pod](https://www.coindesk.com/podcasts/coindesk-podcast-network)
+        
+* [Newsletters](https://www.coindesk.com/newsletters)
+    
+    * [The Node](https://www.coindesk.com/newsletters/the-node)
+        
+    * [First Mover](https://www.coindesk.com/newsletters/first-mover)
+        
+    * [State of Crypto](https://www.coindesk.com/newsletters/state-of-crypto)
+        
+    * [Crypto Long & Short](https://www.coindesk.com/newsletters/crypto-long-short)
+        
+    * [The Protocol](https://www.coindesk.com/newsletters/the-protocol)
+        
+    * [Crypto for Advisors](https://www.coindesk.com/newsletters/crypto-for-advisors)
+        
+* [Sponsored](https://www.coindesk.com/sponsored-content)
+    
+    * [Thought Leadership](https://www.coindesk.com/sponsored-content)
+        
+    * [Press Release](https://www.coindesk.com/press-release)
+        
+    * [Hub: Abra](https://www.coindesk.com/sponsored-content/hub/abra)
+        
+    * [Hub: Bitget](https://www.coindesk.com/sponsored-content/hub/bitget)
+        
+    * [Hub: Gate.US](https://www.coindesk.com/sponsored-content/hub/gate.us)
+        
+    * [Hub: Matrixport](https://www.coindesk.com/sponsored-content/hub/Matrixport)
+        
+    * [Hub: MEXC](https://www.coindesk.com/sponsored-content/hub/MEXC)
+        
+    * [Hub: NEAR](https://www.coindesk.com/sponsored-content/hub/Near)
+        
+    * [Hub: Phemex](https://www.coindesk.com/sponsored-content/hub/Phemex)
+        
+    * [Hub: SocialGood](https://www.coindesk.com/sponsored-content/hub/SocialGood)
+        
+    * [Hub: Tron](https://www.coindesk.com/sponsored-content/hub/Tron)
+        
+    * [Advertise](https://www.coindesk.com/advertise)
+        
+* [Consensus](https://consensus.coindesk.com/)
+    
+    * [Consensus 2025 Hong Kong](https://consensus-hongkong2025.coindesk.com/)
+        
+    * [Consensus 2025 Toronto](https://consensus2025.coindesk.com/)
+        
+* [Webinars](https://events.coindesk.com/)
+    
+
+[Log In / Create Account](https://www.coindesk.com/api/auth/login)
+
+* [Prices](https://www.coindesk.com/price)
+* [Indices](https://indices.coindesk.com/indices)
+* [Consensus](https://consensus.coindesk.com/)
+
+[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-6x26obw3p-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75)](https://www.coindesk.com/)
+
+* [Sponsored](https://www.coindesk.com/sponsored-content)
+* [Sign Up](https://www.coindesk.com/api/auth/login?returnTo=/terms)
+
+[BTC
+
+98,158.90
+
+\-0.25%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
+
+3,382.94
+
+\-1.00%](https://www.coindesk.com/price/ethereum "View price details")[USDT
+
+1.00
+
++0.03%](https://www.coindesk.com/price/tether "View price details")[SOL
+
+253.15
+
+\-0.71%](https://www.coindesk.com/price/solana "View price details")[BNB
+
+661.04
+
+\-0.54%](https://www.coindesk.com/price/binance-coin "View price details")[XRP
+
+1.45
+
++0.08%](https://www.coindesk.com/price/xrp "View price details")[DOGE
+
+0.42388835
+
+\-2.68%](https://www.coindesk.com/price/dogecoin "View price details")[USDC
+
+0.99975381
+
++0.02%](https://www.coindesk.com/price/usd-coin "View price details")[ADA
+
+1.04
+
+\-1.64%](https://www.coindesk.com/price/cardano "View price details")[STETH
+
+3,382.36
+
+\-0.96%](https://www.coindesk.com/price/steth "View price details")[TRX
+
+0.20905622
+
+\-2.68%](https://www.coindesk.com/price/tron "View price details")[AVAX
+
+41.98
+
+\-2.11%](https://www.coindesk.com/price/avax "View price details")[XLM
+
+0.52382010
+
+\-6.81%](https://www.coindesk.com/price/xlm "View price details")[TON
+
+6.11
+
+\-6.30%](https://www.coindesk.com/price/toncoin "View price details")[SHIB
+
+0.0₄25458
+
+\-4.45%](https://www.coindesk.com/price/shiba-inu "View price details")[WBTC
+
+97,924.79
+
+\-0.18%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
+
+18.15
+
++2.13%](https://www.coindesk.com/price/chainlink "View price details")[BCH
+
+511.47
+
+\-0.41%](https://www.coindesk.com/price/bitcoin-cash "View price details")[SUI
+
+3.43
+
+\-0.61%](https://www.coindesk.com/price/sui "View price details")[NEAR
+
+6.99
+
++4.76%](https://www.coindesk.com/price/near "View price details")
+
+Ad
+
 Terms Of Use
 ============
 
 Effective Date: February 23, 2023.
 
-Welcome to the CoinDesk website and related interactive features, products, services, applications, or downloads (collectively, the “Websites”) that are owned by CoinDesk, Inc., including our affiliates and subsidiaries (“Company,” “we” and “us). **BY USING OUR WEBSITES, YOU ARE ACCEPTING THE PRACTICES DESCRIBED IN THESE TERMS OF USE (“TERMS”) AND OUR** [**PRIVACY POLICY**](https://www.coindesk.com/privacy/)**. IF YOU DO NOT AGREE TO THESE TERMS, YOU MAY NOT USE THESE WEBSITES. WE RESERVE THE RIGHT TO MODIFY OR AMEND THESE TERMS FROM TIME TO TIME WITHOUT NOTICE. YOUR CONTINUED USE OF OUR WEBSITES OR ANY AFFILIATED WEBSITES FOLLOWING THE POSTING OF CHANGES TO THESE TERMS WILL MEAN YOU ACCEPT THOSE CHANGES.**
+Welcome to the CoinDesk website and related interactive features, products, services, applications, or downloads (collectively, the “Websites”) that are owned by CoinDesk, Inc., including our affiliates and subsidiaries (“Company,” “we” and “us). **BY USING OUR WEBSITES, YOU ARE ACCEPTING THE PRACTICES DESCRIBED IN THESE TERMS OF USE (“TERMS”) AND OUR** **[PRIVACY POLICY](https://www.coindesk.com/privacy/). IF YOU DO NOT AGREE TO THESE TERMS, YOU MAY NOT USE THESE WEBSITES. WE RESERVE THE RIGHT TO MODIFY OR AMEND THESE TERMS FROM TIME TO TIME WITHOUT NOTICE. YOUR CONTINUED USE OF OUR WEBSITES OR ANY AFFILIATED WEBSITES FOLLOWING THE POSTING OF CHANGES TO THESE TERMS WILL MEAN YOU ACCEPT THOSE CHANGES.**
 
 **EXCEPT FOR CERTAIN TYPES OF DISPUTES DESCRIBED IN THE AGREEMENT TO ARBITRATE SECTION BELOW, YOU AGREE THAT ALL DISPUTES BETWEEN YOU AND USE WILL BE RESOLVED BY BINDING, INDIVIDUAL ARBITRATION, AND YOU WAIVE YOUR RIGHT TO PARTICIPATE IN A CLASS ACTION LAWSUIT OR CLASS-WIDE ARBITRATION.**
 
@@ -18,6 +210,8 @@ The arbitrator may award money or equitable relief in favor of only the individu
 **Order Eligibility.** Unless otherwise stated at the time of purpose, you may only purchase products and services for personal, non-commercial use. We may refuse any order that we have reason to believe is for onward sale other than through distribution channels approved by Company. We make no representation or guarantees that products or services available on the Websites are appropriate or available for use in locations outside the United States. Accessing the Websites from territories where its contents are illegal or unlawful is prohibited. It is your responsibility to ascertain and obey all applicable local, state, federal and international laws (including minimum age requirements) regarding the possession, use and sale of any product or service purchased from these Websites. Nothing on the Websites constitutes a binding offer to sell, distribute, or give away any products or services. In the event the products and services are listed at an incorrect price, we have the right to refuse or cancel orders placed at the incorrect price, regardless of whether the order has been confirmed or you have been charged. We reserve the right at any time after receipt of your order to accept or decline such order, or any portion thereof, or to not ship to particular addresses, even after your receipt of an order confirmation or after you have been charged.
 
 **Products and Services.** Details of the products and services available for purchase are set out on the Websites. All prices are displayed and charged in US dollars. Applicable sales and other taxes may not be included and are in addition to the sale price. All online transaction totals reflect the estimated tax amount; the actual tax amount will be calculated based on your shipping location and many vary from the estimated tax. Discounts and sales prices may not be applied to previous orders. We reserve the right to shorten the duration of any special order or sales promotion. All features, content, specifications, products and prices of products and services described or depicted on these Websites are subject to change at any time without notice. The inclusion of any products or services on these Websites at a particular time does not imply or warrant that these products or services will be available at any time. Occasionally, the availability of a certain product or service may be delayed. Any terms and conditions of any offer disclosed to you when ordering is deemed part of these Terms.
+
+**DESK Program:** DESK is a social token that is designed solely for use and engagement between you and us and, as such, may only be earned on and used in connection with our Websites and events. DESK does not have any independent or monetary value, it is not a store of value or investment, it does not constitute your property, and it does not entitle you to any vested right or interest. While we offer you the ability to trade your DESK for certain products, services, or other items, DESK is not redeemable or exchangeable for any other forms of value and we are under no obligation to provide you anything in exchange for DESK you have been rewarded by us. Rewarded DESK are personal to you and may not be sold, transferred, or assigned to, or shared with, family, friends, or others by you or used for any commercial purposes. Without notice to you, we reserve the right to suspend or terminate your account and void any DESK associated with your account or associated with any wallet used by multiple accounts, if you attempt to list, offer/acquire, or exchange DESK, or otherwise violate these Terms. If your account is terminated, any DESK associated with your account will be voided. We reserve the right, at any time and without notice, to change or suspend when, how, and how much DESK is provided in our sole discretion. We reserve the right to change, modify, discontinue, or cancel this reward program at any time and in our sole discretion and without notice to you. If this program is discontinued or canceled, all rewarded DESK will be forfeited without compensation.
 
 **NFTs; Consensus NFT Ticket:** Any NFTs purchased or received from us or one of our approved marketplaces are subject to the following terms. You agree that we, or our licensee (including the original artist), own all legal rights, titles, and interests in and to the artwork and any other intellectual property rights contained within the NFT. Except for the limited license granted to you in the next sentence, we and our licensees reserve all rights, titles, and interests in the artwork and any other intellectual property rights contained therein. Subject to your continued compliance with these Terms and any other applicable terms and conditions, we hereby grant you a worldwide, revocable, non-exclusive, personal and non-commercial license to (a) display the artwork associated with the NFT in its original form, (b) display the NFT on a third-party site for non-commercial purposes, so long as the site cryptographically verifies each NFT owner’s right to display the artwork to ensure that only the actual owner can display the artwork and that the artwork is no longer visible once the NFT owner leaves the site, and (c) to transfer said NFT, provided that said transfer and any future transfers remain subject to these Terms, and if transferred via a marketplace, so long as that marketplace cryptographically verifies each NFT owner’s right to display the artwork to ensure that only the actual owners can display the artwork.
 
@@ -92,3 +286,45 @@ If you are a California resident and in connection with the foregoing releases, 
 If any provision of these Terms is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall be enforced. You agree that these Terms and all incorporated agreements may be assigned by Company in our sole discretion. Headings are for reference purposes only and in no way define, limit, construe or describe the scope or extent of such section. Our failure to act with respect to a breach by you or others does not waive our right to act with respect to subsequent or similar breaches. Except for additional terms and conditions that are provided at the time of purchase, including but not limited to additional terms associated with our events, these Terms are the entire agreement between you and Company with respects to the subject matter hereof and supersede any prior understandings or agreements (written or oral). Any provision that must survive to give proper effect to its intent (e.g., indemnity, general, any perpetual license, limitations on liability, disclaimers, representations, and warranties, etc) shall survive the expiration or termination of these Terms.
 
 All rights not granted herein are expressly reserved to CoinDesk, Inc.
+
+[](https://www.coindesk.com/ "CoinDesk homepage")
+
+[X icon](https://twitter.com/coindesk)[](https://facebook.com/coindesk)[](https://linkedin.com/company/coindesk)[](https://www.coindesk.com/arc/outboundfeeds/rss/)[](https://instagram.com/coindesk)[](https://www.youtube.com/coindesk)[](https://www.tiktok.com/@coindesk/)[](https://discord.com/invite/tRuUMkkQd9)[](https://t.me/CoinDeskGlobal)
+
+* * *
+
+ABOUT
+
+* [About Us](https://www.coindesk.com/about)
+* [Masthead](https://www.coindesk.com/masthead)
+* [Careers](https://bullish.wd3.myworkdayjobs.com/CoinDesk)
+* [CoinDesk News](https://www.coindesk.com/coindesk-news)
+
+* * *
+
+CONTACT
+
+* [Contact Us](https://www.coindesk.com/contact-us)
+* [Accessibility](https://www.coindesk.com/accessibility-help)
+* [Advertise](https://www.coindesk.com/advertise)
+* [Sitemap](https://www.coindesk.com/sitemap)
+
+* * *
+
+POLICIES
+
+* [Ethics](https://www.coindesk.com/ethics)
+* [Privacy](https://www.coindesk.com/privacy)
+* [Terms of Use](https://www.coindesk.com/terms)
+* Cookie Consent
+* [Do Not Sell My Info](https://www.coindesk.com/privacy#dnsmpi)
+
+* * *
+
+DISCLOSURE
+
+Please note that our [privacy policy](https://www.coindesk.com/privacy), [terms of use](https://www.coindesk.com/terms), [cookies](https://www.coindesk.com/privacy#cookies), and [do not sell my personal information](https://www.coindesk.com/privacy#dnsmpi) have been updated.  
+  
+CoinDesk is an [award-winning](https://www.coindesk.com/business/2023/02/20/coindesk-wins-a-polk-award-a-top-journalism-prize-for-explosive-ftx-coverage) media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of [editorial policies](https://www.coindesk.com/ethics). CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of the Bullish group, which owns and invests in digital asset businesses and digital assets. CoinDesk employees, including journalists, may receive Bullish group equity-based compensation. Bullish was incubated by technology investor Block.one.
+
+© 2024 CoinDesk
