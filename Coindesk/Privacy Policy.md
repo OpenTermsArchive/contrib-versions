@@ -1,5 +1,197 @@
-Privacy Policy
-==============
+* [Prices](https://www.coindesk.com/price)
+    
+* [Indices](https://indices.coindesk.com/indices)
+    
+    * [CoinDesk 20 Index](https://indices.coindesk.com/indices/cd20)
+        
+    * [Bitcoin Offerings](https://indices.coindesk.com/indices/bitcoin)
+        
+    * [Ethereum Offerings](https://indices.coindesk.com/indices/ether/eti)
+        
+    * [Trend Indicators](https://indices.coindesk.com/indices/trend-indicators)
+        
+    * [Indices](https://indices.coindesk.com/indices/crypto-indices)
+        
+    * [Crypto Sectors](https://indices.coindesk.com/indices/sector)
+        
+* [News](https://www.coindesk.com/)
+    
+    * [Markets](https://www.coindesk.com/markets)
+        
+    * [Finance](https://www.coindesk.com/business)
+        
+    * [Policy](https://www.coindesk.com/policy)
+        
+    * [Tech](https://www.coindesk.com/tech)
+        
+    * [Learn](https://www.coindesk.com/learn)
+        
+    * [Opinion](https://www.coindesk.com/opinion)
+        
+    * [Consensus Magazine](https://www.coindesk.com/consensus-magazine)
+        
+* [Video](https://www.coindesk.com/videos)
+    
+* [Podcasts](https://www.coindesk.com/podcasts)
+    
+    * [CoinDesk Podcast Network](https://www.coindesk.com/podcasts/coindesk-podcast-network)
+        
+    * [Markets Daily](https://www.coindesk.com/podcasts/markets-daily)
+        
+    * [Gen C](https://www.coindesk.com/podcasts/generation-c)
+        
+    * [The Protocol](https://www.coindesk.com/podcasts/the-protocol)
+        
+    * [Unchained with Laura Shin](https://www.coindesk.com/podcasts/unchained)
+        
+    * [The Mining Pod](https://www.coindesk.com/podcasts/coindesk-podcast-network)
+        
+* [Newsletters](https://www.coindesk.com/newsletters)
+    
+    * [The Node](https://www.coindesk.com/newsletters/the-node)
+        
+    * [First Mover](https://www.coindesk.com/newsletters/first-mover)
+        
+    * [State of Crypto](https://www.coindesk.com/newsletters/state-of-crypto)
+        
+    * [Crypto Long & Short](https://www.coindesk.com/newsletters/crypto-long-short)
+        
+    * [The Protocol](https://www.coindesk.com/newsletters/the-protocol)
+        
+    * [Crypto for Advisors](https://www.coindesk.com/newsletters/crypto-for-advisors)
+        
+* [Sponsored](https://www.coindesk.com/sponsored-content)
+    
+    * [Thought Leadership](https://www.coindesk.com/sponsored-content)
+        
+    * [Press Release](https://www.coindesk.com/press-release)
+        
+    * [Hub: Abra](https://www.coindesk.com/sponsored-content/hub/abra)
+        
+    * [Hub: Bitget](https://www.coindesk.com/sponsored-content/hub/bitget)
+        
+    * [Hub: Gate.US](https://www.coindesk.com/sponsored-content/hub/gate.us)
+        
+    * [Hub: Matrixport](https://www.coindesk.com/sponsored-content/hub/Matrixport)
+        
+    * [Hub: MEXC](https://www.coindesk.com/sponsored-content/hub/MEXC)
+        
+    * [Hub: NEAR](https://www.coindesk.com/sponsored-content/hub/Near)
+        
+    * [Hub: Phemex](https://www.coindesk.com/sponsored-content/hub/Phemex)
+        
+    * [Hub: SocialGood](https://www.coindesk.com/sponsored-content/hub/SocialGood)
+        
+    * [Hub: Tron](https://www.coindesk.com/sponsored-content/hub/Tron)
+        
+    * [Advertise](https://www.coindesk.com/advertise)
+        
+* [Consensus](https://consensus.coindesk.com/)
+    
+    * [Consensus 2025 Hong Kong](https://consensus-hongkong2025.coindesk.com/)
+        
+    * [Consensus 2025 Toronto](https://consensus2025.coindesk.com/)
+        
+* [Webinars](https://events.coindesk.com/)
+    
+
+[Log In / Create Account](https://www.coindesk.com/api/auth/login)
+
+* [Prices](https://www.coindesk.com/price)
+* [Indices](https://indices.coindesk.com/indices)
+* [Consensus](https://consensus.coindesk.com/)
+
+[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-6x26obw3p-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75)](https://www.coindesk.com/)
+
+* [Sponsored](https://www.coindesk.com/sponsored-content)
+* [Sign Up](https://www.coindesk.com/api/auth/login?returnTo=/privacy)
+
+[BTC
+
+98,158.90
+
+\-0.25%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
+
+3,382.94
+
+\-1.00%](https://www.coindesk.com/price/ethereum "View price details")[USDT
+
+1.00
+
++0.03%](https://www.coindesk.com/price/tether "View price details")[SOL
+
+253.15
+
+\-0.71%](https://www.coindesk.com/price/solana "View price details")[BNB
+
+661.04
+
+\-0.54%](https://www.coindesk.com/price/binance-coin "View price details")[XRP
+
+1.45
+
++0.08%](https://www.coindesk.com/price/xrp "View price details")[DOGE
+
+0.42388835
+
+\-2.68%](https://www.coindesk.com/price/dogecoin "View price details")[USDC
+
+0.99975381
+
++0.02%](https://www.coindesk.com/price/usd-coin "View price details")[ADA
+
+1.04
+
+\-1.64%](https://www.coindesk.com/price/cardano "View price details")[STETH
+
+3,382.36
+
+\-0.96%](https://www.coindesk.com/price/steth "View price details")[TRX
+
+0.20905622
+
+\-2.68%](https://www.coindesk.com/price/tron "View price details")[AVAX
+
+41.98
+
+\-2.11%](https://www.coindesk.com/price/avax "View price details")[XLM
+
+0.52382010
+
+\-6.81%](https://www.coindesk.com/price/xlm "View price details")[TON
+
+6.11
+
+\-6.30%](https://www.coindesk.com/price/toncoin "View price details")[SHIB
+
+0.0₄25458
+
+\-4.45%](https://www.coindesk.com/price/shiba-inu "View price details")[WBTC
+
+97,924.79
+
+\-0.18%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
+
+18.15
+
++2.13%](https://www.coindesk.com/price/chainlink "View price details")[BCH
+
+511.47
+
+\-0.41%](https://www.coindesk.com/price/bitcoin-cash "View price details")[SUI
+
+3.43
+
+\-0.61%](https://www.coindesk.com/price/sui "View price details")[NEAR
+
+6.99
+
++4.76%](https://www.coindesk.com/price/near "View price details")
+
+Ad
+
+Privacy
+=======
 
 Effective Date: May 5, 2022.
 
@@ -19,7 +211,7 @@ We collect, process, and retain information from you and any devices you may use
 
 If you apply for a job on our Websites, we will collect your name, contact information, resume/CV and cover letter, information from your LinkedIn Profile or website, and whether you require sponsorship for employment within the U.S. You will also have the opportunity to provide voluntary demographic and self-identification information; this information is not required and is not used for any employment decisions.
 
-**Information We Automatically Collect:** We receive and store certain types of information whenever you use our Websites. Our Websites may use “cookies,” tagging and other tracking technologies to help enable us to enhance or personalize your online experience. This information includes computer and connection information such as statistics on your page views, traffic to and from our Websites, referral URL, ad data, your IP address, device identifiers, transaction history, and your web log information. When you have a wallet connected to your account, we will also have information on the associated transfers, balances, transactions, and ledger.
+**Information We Automatically Collect:** We receive and store certain types of information whenever you use our Websites. Our Websites may use “cookies,” tagging and other tracking technologies to help enable us to enhance or personalize your online experience. This information includes computer and connection information such as statistics on your page views, traffic to and from our Websites, referral URL, ad data, your IP address, device identifiers, transaction history, and your web log information. When you have any DESK tokens or a wallet connected to your account, we will also have information on the associated transfers, balances, transactions, and ledger.
 
 **Location Information:** When you visit our Websites or interact with our online services, we may receive information about your location and your device, including a unique identifier for your device. Location information allows us to provide location-based services, such as advertising and other personalized content. In addition, if you scan one of our QR codes, we will know the event, venue, or business associated with that code and, thus, your location at the time you scan the QR code.
 
@@ -33,11 +225,17 @@ We use the information we collect from or about you to help us personalize and c
 
 We also may use information about you to: provide, maintain, and improve the Websites and for internal or other business purposes; run and administer our virtual and in-personal conferences; fulfill your requests for information; communicate with you; detect, investigate, and prevent activities that may violate our policies or be fraudulent or illegal; optimize, perform analysis, or improve our Websites, products, services, and operations; provide, produce, and ship the products that you order or the services you request; provide customer support; send you offers or other communications about our products and services, such as special or promotional events, including services, products, or events for which we collaborate or co-offer with a third party; administer contests, sweepstakes, promotions, and surveys; and to post user generated content provided by users.
 
+**DESK Program:** If you provide your wallet address as part of our DESK Program, we will not use or otherwise analyze your wallet address for any purpose other than to provide the DESK Program to you. As discussed below, your wallet address may be shared by our DESK Program with our program partners, sponsors, or service providers in order to enable or provide a program benefit that you have earned or redeemed. We contractually prohibit these third parties from using your wallet information for any purpose other than providing such benefits, and we require them to delete the data once the benefit has been provided. Your wallet address shared with the DESK Program will never be used by us for any of our journalistic or news reporting functions.
+
+We may use the information from one portion of the Websites on other portions of the Websites, and we may combine information gathered from multiple portions of the Websites. We also may use or combine information that we collect offline, or that we collect or receive from third-party sources for many reasons, including to enhance, expand, and check the accuracy of our records. Additionally, we may use information collected from a particular browser or device with another computer or device that is linked to the browser or device on which such information was collected.
+
+We may retain information we collect from or about you for as long as reasonably required to satisfy the purposes for which we have collected the information, or as required by law, whichever is longer. This means we will retain information about you both while you are an active user of our Websites and after you cease to be an active user.
+
 **HOW WE SHARE YOUR INFORMATION WITH OTHERS**
 
 We share information we collect from or about you with third parties as described below. In addition, we may share information that does not personally identify you, such as aggregate information, de-identified information, device identifiers, or other unique identifiers with third parties. For information about how to manage information about you and the choices you have, see the **Your Choices** section below.
 
-**Third-Party Service Providers:** We engage third-party service providers to perform functions on our behalf such as: hosting, content syndication, content management, technical integration, marketing, analytics, customer serv**Sale of Personal Information and Right to Opt Out**ce, fraud protection, payment processing, fulfillment, and shipping. These third parties may have access to information about you when needed to perform their functions.
+**Third-Party Service Providers:** We engage third-party service providers to perform functions on our behalf such as: hosting, content syndication, content management, technical integration, marketing, analytics, customer service, fraud protection, payment processing, fulfillment, and shipping. These third parties may have access to information about you when needed to perform their functions.
 
 **Business Partners:** We may share information that personally identifies you with business partners who provide products and services that we think you may be interested in.
 
@@ -123,7 +321,7 @@ _Identifiers:_ Name, email, unique personal identifiers, online identifiers, IP 
 
 _Internet or other electronic network activity information:_ info regarding your interaction with an internet website, application, or advertisement to affiliates, business partners, advertising and marketing companies, data analytics providers, and social networks.
 
-**Rights Requests:** As noted above, you have the right to request that we disclose what personal information we collect, use, and sell, as well as the right to request that we delete certain personal information that we have collected from you. You or your authorized agent may submit a request to exercise these rights **by using our** [**Request for Information**](https://rfi.coindesk.com/) **or** [**Request for Deletion**](https://rfd.coindesk.com/) **tool or** sending us an email at [privacy@coindesk.com](mailto:privacy@coindesk.com). We will require you to verify your identity before we can act on your request. You are required to provide your name and email address, your cell phone number if you have sign-up to received text messages from us, or wallet address if you have linked that with your account to start the verification process.
+**Rights Requests:** As noted above, you have the right to request that we disclose what personal information we collect, use, and sell, as well as the right to request that we delete certain personal information that we have collected from you. You or your authorized agent may submit a request to exercise these rights **by using our** [**Request for Information**](https://rfi.coindesk.com/) **or** [**Request for Deletion**](https://rfd.coindesk.com/) **tool or** sending us an email at [privacy@coindesk.com](mailto:privacy@coindesk.com). We will require you to verify your identity before we can act on your request. You are required to provide your name and email address, your cell phone number if you have sign-up to received text messages from us, or wallet address if you have linked that with your account to start the verification process.
 
 **Financial Incentives:** We may run promotions from time to time and ask you to share personal information with us. We will always give you clear notice about these types of programs when you sign up, and participation is always voluntary. If you change your mind, you will be able to opt out, and if you do not participate, you will still be able to use our services.
 
@@ -151,6 +349,48 @@ You are not required to provide all personal data identified in this Privacy Pol
 
 **Users Outside of the United States:** If you use our Websites outside of the United States, you understand and consent to the transfer of information we collect from or about you to, and the collection, processing, and storage of information about you in, the United States and elsewhere. The laws in the U.S. and these countries may be different than the laws of your country.
 
-**For questions about our Privacy Policy, you can contact us at** [**privacy@coindesk.com**](mailto:privacy@coindesk.com)**.**
+**For questions about our Privacy Policy, you can contact us at** **[privacy@coindesk.com](mailto:privacy@coindesk.com).**
 
 All rights reserved.
+
+[](https://www.coindesk.com/ "CoinDesk homepage")
+
+[X icon](https://twitter.com/coindesk)[](https://facebook.com/coindesk)[](https://linkedin.com/company/coindesk)[](https://www.coindesk.com/arc/outboundfeeds/rss/)[](https://instagram.com/coindesk)[](https://www.youtube.com/coindesk)[](https://www.tiktok.com/@coindesk/)[](https://discord.com/invite/tRuUMkkQd9)[](https://t.me/CoinDeskGlobal)
+
+* * *
+
+ABOUT
+
+* [About Us](https://www.coindesk.com/about)
+* [Masthead](https://www.coindesk.com/masthead)
+* [Careers](https://bullish.wd3.myworkdayjobs.com/CoinDesk)
+* [CoinDesk News](https://www.coindesk.com/coindesk-news)
+
+* * *
+
+CONTACT
+
+* [Contact Us](https://www.coindesk.com/contact-us)
+* [Accessibility](https://www.coindesk.com/accessibility-help)
+* [Advertise](https://www.coindesk.com/advertise)
+* [Sitemap](https://www.coindesk.com/sitemap)
+
+* * *
+
+POLICIES
+
+* [Ethics](https://www.coindesk.com/ethics)
+* [Privacy](https://www.coindesk.com/privacy)
+* [Terms of Use](https://www.coindesk.com/terms)
+* Cookie Consent
+* [Do Not Sell My Info](https://www.coindesk.com/privacy#dnsmpi)
+
+* * *
+
+DISCLOSURE
+
+Please note that our [privacy policy](https://www.coindesk.com/privacy), [terms of use](https://www.coindesk.com/terms), [cookies](https://www.coindesk.com/privacy#cookies), and [do not sell my personal information](https://www.coindesk.com/privacy#dnsmpi) have been updated.  
+  
+CoinDesk is an [award-winning](https://www.coindesk.com/business/2023/02/20/coindesk-wins-a-polk-award-a-top-journalism-prize-for-explosive-ftx-coverage) media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of [editorial policies](https://www.coindesk.com/ethics). CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of the Bullish group, which owns and invests in digital asset businesses and digital assets. CoinDesk employees, including journalists, may receive Bullish group equity-based compensation. Bullish was incubated by technology investor Block.one.
+
+© 2024 CoinDesk
