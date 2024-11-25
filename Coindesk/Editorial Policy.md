@@ -1,7 +1,200 @@
-CoinDesk Ethics Policy
-----------------------
+* [Prices](https://www.coindesk.com/price)
+    
+* [Indices](https://indices.coindesk.com/indices)
+    
+    * [CoinDesk 20 Index](https://indices.coindesk.com/indices/cd20)
+        
+    * [Bitcoin Offerings](https://indices.coindesk.com/indices/bitcoin)
+        
+    * [Ethereum Offerings](https://indices.coindesk.com/indices/ether/eti)
+        
+    * [Trend Indicators](https://indices.coindesk.com/indices/trend-indicators)
+        
+    * [Indices](https://indices.coindesk.com/indices/crypto-indices)
+        
+    * [Crypto Sectors](https://indices.coindesk.com/indices/sector)
+        
+* [News](https://www.coindesk.com/)
+    
+    * [Markets](https://www.coindesk.com/markets)
+        
+    * [Finance](https://www.coindesk.com/business)
+        
+    * [Policy](https://www.coindesk.com/policy)
+        
+    * [Tech](https://www.coindesk.com/tech)
+        
+    * [Learn](https://www.coindesk.com/learn)
+        
+    * [Opinion](https://www.coindesk.com/opinion)
+        
+    * [Consensus Magazine](https://www.coindesk.com/consensus-magazine)
+        
+* [Video](https://www.coindesk.com/videos)
+    
+* [Podcasts](https://www.coindesk.com/podcasts)
+    
+    * [CoinDesk Podcast Network](https://www.coindesk.com/podcasts/coindesk-podcast-network)
+        
+    * [Markets Daily](https://www.coindesk.com/podcasts/markets-daily)
+        
+    * [Gen C](https://www.coindesk.com/podcasts/generation-c)
+        
+    * [The Protocol](https://www.coindesk.com/podcasts/the-protocol)
+        
+    * [Unchained with Laura Shin](https://www.coindesk.com/podcasts/unchained)
+        
+    * [The Mining Pod](https://www.coindesk.com/podcasts/coindesk-podcast-network)
+        
+* [Newsletters](https://www.coindesk.com/newsletters)
+    
+    * [The Node](https://www.coindesk.com/newsletters/the-node)
+        
+    * [First Mover](https://www.coindesk.com/newsletters/first-mover)
+        
+    * [State of Crypto](https://www.coindesk.com/newsletters/state-of-crypto)
+        
+    * [Crypto Long & Short](https://www.coindesk.com/newsletters/crypto-long-short)
+        
+    * [The Protocol](https://www.coindesk.com/newsletters/the-protocol)
+        
+    * [Crypto for Advisors](https://www.coindesk.com/newsletters/crypto-for-advisors)
+        
+* [Sponsored](https://www.coindesk.com/sponsored-content)
+    
+    * [Thought Leadership](https://www.coindesk.com/sponsored-content)
+        
+    * [Press Release](https://www.coindesk.com/press-release)
+        
+    * [Hub: Abra](https://www.coindesk.com/sponsored-content/hub/abra)
+        
+    * [Hub: Bitget](https://www.coindesk.com/sponsored-content/hub/bitget)
+        
+    * [Hub: Gate.US](https://www.coindesk.com/sponsored-content/hub/gate.us)
+        
+    * [Hub: Matrixport](https://www.coindesk.com/sponsored-content/hub/Matrixport)
+        
+    * [Hub: MEXC](https://www.coindesk.com/sponsored-content/hub/MEXC)
+        
+    * [Hub: NEAR](https://www.coindesk.com/sponsored-content/hub/Near)
+        
+    * [Hub: Phemex](https://www.coindesk.com/sponsored-content/hub/Phemex)
+        
+    * [Hub: SocialGood](https://www.coindesk.com/sponsored-content/hub/SocialGood)
+        
+    * [Hub: Tron](https://www.coindesk.com/sponsored-content/hub/Tron)
+        
+    * [Advertise](https://www.coindesk.com/advertise)
+        
+* [Consensus](https://consensus.coindesk.com/)
+    
+    * [Consensus 2025 Hong Kong](https://consensus-hongkong2025.coindesk.com/)
+        
+    * [Consensus 2025 Toronto](https://consensus2025.coindesk.com/)
+        
+* [Webinars](https://events.coindesk.com/)
+    
 
-###### CoinDesk is the leading news publication covering the digital transformation of money in the 21st century. Our mission is to inform, educate and connect the global community of investors, innovators and users of cryptocurrencies, blockchains and other decentralized technologies. That includes everyone from sophisticated professionals to curious newcomers. Founded in 2013, we serve an audience of 5 million monthly website visitors, 15,000+ annual conference attendees, and 370,000+ newsletter subscribers.
+[Log In / Create Account](https://www.coindesk.com/api/auth/login)
+
+* [Prices](https://www.coindesk.com/price)
+* [Indices](https://indices.coindesk.com/indices)
+* [Consensus](https://consensus.coindesk.com/)
+
+[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-6x26obw3p-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75)](https://www.coindesk.com/)
+
+* [Sponsored](https://www.coindesk.com/sponsored-content)
+* [Sign Up](https://www.coindesk.com/api/auth/login?returnTo=/ethics)
+
+[BTC
+
+98,158.90
+
+\-0.25%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
+
+3,382.94
+
+\-1.00%](https://www.coindesk.com/price/ethereum "View price details")[USDT
+
+1.00
+
++0.03%](https://www.coindesk.com/price/tether "View price details")[SOL
+
+253.15
+
+\-0.71%](https://www.coindesk.com/price/solana "View price details")[BNB
+
+661.04
+
+\-0.54%](https://www.coindesk.com/price/binance-coin "View price details")[XRP
+
+1.45
+
++0.08%](https://www.coindesk.com/price/xrp "View price details")[DOGE
+
+0.42388835
+
+\-2.68%](https://www.coindesk.com/price/dogecoin "View price details")[USDC
+
+0.99975381
+
++0.02%](https://www.coindesk.com/price/usd-coin "View price details")[ADA
+
+1.04
+
+\-1.64%](https://www.coindesk.com/price/cardano "View price details")[STETH
+
+3,382.36
+
+\-0.96%](https://www.coindesk.com/price/steth "View price details")[TRX
+
+0.20905622
+
+\-2.68%](https://www.coindesk.com/price/tron "View price details")[AVAX
+
+41.98
+
+\-2.11%](https://www.coindesk.com/price/avax "View price details")[XLM
+
+0.52382010
+
+\-6.81%](https://www.coindesk.com/price/xlm "View price details")[TON
+
+6.11
+
+\-6.30%](https://www.coindesk.com/price/toncoin "View price details")[SHIB
+
+0.0₄25458
+
+\-4.45%](https://www.coindesk.com/price/shiba-inu "View price details")[WBTC
+
+97,924.79
+
+\-0.18%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
+
+18.15
+
++2.13%](https://www.coindesk.com/price/chainlink "View price details")[BCH
+
+511.47
+
+\-0.41%](https://www.coindesk.com/price/bitcoin-cash "View price details")[SUI
+
+3.43
+
+\-0.61%](https://www.coindesk.com/price/sui "View price details")[NEAR
+
+6.99
+
++4.76%](https://www.coindesk.com/price/near "View price details")
+
+Ad
+
+CoinDesk Ethics Policy
+======================
+
+CoinDesk is the leading news publication covering the digital transformation of money in the 21st century. Our mission is to inform, educate and connect the global community of investors, innovators and users of cryptocurrencies, blockchains and other decentralized technologies. That includes everyone from sophisticated professionals to curious newcomers. Founded in 2013, we serve an audience of 5 million monthly website visitors, 15,000+ annual conference attendees, and 370,000+ newsletter subscribers.
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 _Last updated August 2024_
 
@@ -64,3 +257,45 @@ CoinDesk articles sometimes include affiliate links, which may generate revenue 
 Likewise, CoinDesk events may include sponsored sessions. These sessions will be clearly billed as sponsored and wholly separate from the vast majority of sessions that are curated by the content team, Sponsor relationships will have no impact on speaking invitations or event programming.
 
 **Giveaways/contests:** CoinDesk journalists may not accept tokens, coins or any other products or merchandise from giveaways, contests, airdrops or other events that may affect their ability to impartially cover digital assets or the companies behind them.
+
+[](https://www.coindesk.com/ "CoinDesk homepage")
+
+[X icon](https://twitter.com/coindesk)[](https://facebook.com/coindesk)[](https://linkedin.com/company/coindesk)[](https://www.coindesk.com/arc/outboundfeeds/rss/)[](https://instagram.com/coindesk)[](https://www.youtube.com/coindesk)[](https://www.tiktok.com/@coindesk/)[](https://discord.com/invite/tRuUMkkQd9)[](https://t.me/CoinDeskGlobal)
+
+* * *
+
+ABOUT
+
+* [About Us](https://www.coindesk.com/about)
+* [Masthead](https://www.coindesk.com/masthead)
+* [Careers](https://bullish.wd3.myworkdayjobs.com/CoinDesk)
+* [CoinDesk News](https://www.coindesk.com/coindesk-news)
+
+* * *
+
+CONTACT
+
+* [Contact Us](https://www.coindesk.com/contact-us)
+* [Accessibility](https://www.coindesk.com/accessibility-help)
+* [Advertise](https://www.coindesk.com/advertise)
+* [Sitemap](https://www.coindesk.com/sitemap)
+
+* * *
+
+POLICIES
+
+* [Ethics](https://www.coindesk.com/ethics)
+* [Privacy](https://www.coindesk.com/privacy)
+* [Terms of Use](https://www.coindesk.com/terms)
+* Cookie Consent
+* [Do Not Sell My Info](https://www.coindesk.com/privacy#dnsmpi)
+
+* * *
+
+DISCLOSURE
+
+Please note that our [privacy policy](https://www.coindesk.com/privacy), [terms of use](https://www.coindesk.com/terms), [cookies](https://www.coindesk.com/privacy#cookies), and [do not sell my personal information](https://www.coindesk.com/privacy#dnsmpi) have been updated.  
+  
+CoinDesk is an [award-winning](https://www.coindesk.com/business/2023/02/20/coindesk-wins-a-polk-award-a-top-journalism-prize-for-explosive-ftx-coverage) media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of [editorial policies](https://www.coindesk.com/ethics). CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of the Bullish group, which owns and invests in digital asset businesses and digital assets. CoinDesk employees, including journalists, may receive Bullish group equity-based compensation. Bullish was incubated by technology investor Block.one.
+
+© 2024 CoinDesk
