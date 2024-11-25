@@ -263,7 +263,7 @@ Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :
   
 (i) Cartes bancaires : Visa, Mastercard.  
   
-(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles en [cliquant ici](https://i2.cdscdn.com/resources/ImagesOK/cgv/4f.pdf).
+(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles en [cliquant ici](https://paymentresources.cdiscount.com/static/cgv/4f.pdf).
 
   Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre un traitement automatisé afin d'identifier es clients et commandes éligibles au paiement "4 fois".  
  (iii) Paiement Flash : ce système vous permet, pour les paiements par carte bancaire, de ne plus saisir votre numéro de Carte de Paiement lors de vos prochaines commandes passées sur le Site et livrées à la ou les adresse(s) associée(s) à votre numéro de Carte de Paiement. A noter : votre numéro de Carte de Paiement est visible en totalité lors de la saisie de celui-ci, mais seuls les 4 derniers chiffres seront visibles dans votre Compte Client Cdiscount. Le service paiement flash est entièrement sécurisé, pour en savoir plus sur le Paiement Flash, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).
@@ -1840,4 +1840,4 @@ Si votre commande d’un ou plusieurs Produits Jeux Vidéos en précommande cont
   
 CDISCOUNT vous propose différents modes de livraison pour vos Produits en Précommande.  
   
-Pour plus déinformations concernant l’ensemble des modes de livraison vous pouvez vous référer à l’article 6 des CGV.
+Pour plus d’informations concernant l’ensemble des modes de livraison vous pouvez vous référer à l’article 6 des CGV.
