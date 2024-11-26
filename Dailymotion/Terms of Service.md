@@ -3,7 +3,7 @@ Terms Of Use
 
 Simplified Summary of our Terms of Use:
 
-If you want to access the main points of our Terms of Use in a simplified way, for instance if you’re a kid, you can [access this Summary](https://legal.dailymotion.com/en/kids-friendly-tou/). Please note though that it is provided for **informational** purposes only. In case of conflict between the Terms of Use and the summary, only the Terms of Use shall prevail.
+If you want to access the main points of our Terms of Use in a simplified way, for instance if you’re a minor, you can [access this Summary](https://legal.dailymotion.com/en/kids-friendly-tou/). Please note though that it is provided for **informational** purposes only. In case of conflict between the Terms of Use and the summary, only the Terms of Use shall prevail.
 
 **Your use of the Dailymotion Service implies your acceptance of these Terms of Use including the [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) and the [Data Protection Annex](https://legal.dailymotion.com/en/terms-of-use/#appendix-b-data-protection-annex) below (with the Standard Contractual Clauses incorporated therein). We ask You to read them carefully.**
 
@@ -197,7 +197,7 @@ If You reside in a country that is not part of the European Economic Area, the U
 
 Summary of Prohibited Content Policy:
 
-If you want to access the main points of our Prohibited Content Policy in a simplified way, for instance if you’re a kid, you can [access this Summary](https://legal.dailymotion.com/en/summary-of-dailymotion-prohibited-content-policy/). Please note though that it is provided for **informational** purposes only. In case of conflict between the Prohibited Content Policy and the summary, only the Prohibited Content Policy below shall prevail.
+If you want to access the main points of our Prohibited Content Policy in a simplified way, for instance if you’re a minor, you can [access this Summary](https://legal.dailymotion.com/en/summary-of-dailymotion-prohibited-content-policy/). Please note though that it is provided for **informational** purposes only. In case of conflict between the Prohibited Content Policy and the summary, only the Prohibited Content Policy below shall prevail.
 
   
 Dailymotion endeavors to ensure a safe and respectful viewing environment for its Visitors. In order to protect its community, Dailymotion prohibits the content defined in Section I below (“**Prohibited Content(s)**”) and has developed a feature to limit the visibility of so-called sensitive content presented in Section IV.
