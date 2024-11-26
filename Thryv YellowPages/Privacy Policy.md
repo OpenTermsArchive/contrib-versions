@@ -8,7 +8,7 @@ Privacy Notice
 
 Thryv, Inc. and its affiliates and subsidiaries (individually and collectively known as “Thryv”) respect your right to privacy, and we want you to be aware of how we collect and handle information. This policy applies to our handling of information on each website and mobile application on which we provide this Privacy Policy.
 
-**Revised: October 1, 2024**
+**Revised: November 26, 2024**
 
 Your information privacy is important to us.
 
@@ -250,7 +250,7 @@ This Website and the Services are intended for and directed to a general adult a
 
 Processing Location
 
-Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. Please be advised that we store all information in the United States or Australia. Additionally, we may process information in multiple locations, including without limitation, the United States, Australia, Canada, Dominican Republic, the European Economic Area (“**EEA**”), India, Israel, Italy, Japan, Mexico, New Zealand, the Philippines, Singapore, and the United Kingdom.
+Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. Please be advised that we store all information in the United States or Australia. Additionally, we may process information in multiple locations, including without limitation, the United States, Australia, Canada, Dominican Republic, the European Economic Area (“**EEA**”), India, Israel, Japan, Mexico, New Zealand, the Philippines, Singapore, South Africa, Tunisia, and the United Kingdom.
 
 Although we will make all reasonable efforts to ensure your personal information is protected in accordance with our obligations, the laws in these countries may not be as protective of your privacy as those in your location. Personal information processed and stored in another country may be subject to disclosure or access requests by the governments, courts or law enforcement or regulatory agencies in that country according to its laws. By using This Website or Services, you are agreeing to the collection, use, transfer, and disclosure of your Personal Information and communications will be governed by the applicable laws in the United States and/or the applicable country of processing. If you have any questions regarding international data transfers, you may contact us using the contact information we provide below.
 
