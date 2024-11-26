@@ -24,7 +24,7 @@ The information that we collect and use may include profile information, interac
 
 #### Your Account
 
-You can create an account with IBM by creating an IBMid. An IBMid provides IBM with your name, email address, and country or region of residence. We may require an IBMid for certain services, such as the use of [IBM Applications, Cloud and Online Services](#IBM_Cloud_and_Online_Services "IBM Cloud and Online Services").
+You can create an account with IBM by creating an IBMid. An IBMid provides IBM with your name, email address, mailing address, and related information that you may provide. We may require an IBMid for certain services, such as the use of [IBM Applications, Cloud and Online Services](#IBM_Cloud_and_Online_Services "IBM Cloud and Online Services").
 
 We may also store your details from business contact information that you provide to us, or that we collect from your organization, our Business Partners, or our suppliers.
 
@@ -33,6 +33,16 @@ An IBMid uniquely identifies you when you access our websites, make a request or
 Business contact information is typically information that you would find on a business card, such as name and business contact details. We use this information to contact or communicate with you about business matters. If we receive business contact information from a third party, such as an IBM Business Partner or supplier, we will confirm that the information was shared appropriately.
 
 We may also combine your business contact information with other business-relevant information, such as information about your professional education, skills, work experience, or other publicly available information, such as business-related blogs, publications, job roles, and certifications. This information may be used to tailor our interactions with you in any part of IBM’s business, for example in the sales process, to maintain a relationship with you, and for post-contractual relationships.
+
+If your account is created by using an email address containing a domain owned by an organization which you are employed by, contracted to, or volunteer for, your organization can:
+
+* inquire about the status of your account,
+* request your account settings (including your personal information), and,
+* at its option, convert it to an enterprise ID.
+
+If your account was created as, or is converted to, an enterprise ID, your organization manages your account information. It is also the authenticating agency for your ID, meaning your access is controlled by your organization’s login service.
+
+If your IBMid is created through an Enterprise Federation Partner (Identity Provider), basic personal information is collected from the Identity Partner and shared with IBM.
 
 #### IBM Websites
 
@@ -371,12 +381,7 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 **Sections updated in this release:**
 
-1. Your Rights
-2. Your Additional Rights: Canada
-3. Your Additional Rights: Oman
-4. Your Additional Rights: Nebraska
-5. Your Additional Rights: New Hampshire
-6. Your Additional Rights: New Jersey
+1. Your Account
 
 * * *
 
