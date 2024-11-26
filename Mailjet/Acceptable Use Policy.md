@@ -16,17 +16,6 @@ Customer will follow these guidelines when sending emails using the Service:
 
 **1a** – All email sending metrics to remain within Sinch Email’s thresholds:
 
-| Stat­istic Thre­sholds | Acce­ptable leve­ls\* | Addi­tional deta­ils |
-| --- | --- | --- |
-| Stat­istic Thre­sholds |
-| Bou­nc­es | ≤ 5% | Calc­ulated on the numb­er of mess­ages that­ have­ boun­ced |
-| Acce­ptable leve­ls\* |
-| Uns­ub­sc­ribes | ≤ 1.4%­ | or 1% if unsu­bs > clic­ks |
-| Addi­tional deta­ils |
-| Spam­ Comp­laints | ≤ 0.08­% | Calc­ulated on the numb­er of mess­ages that­ have­ been­ repo­rted as spam­ |
-|     |
-| Blo­ck­s | <20% | Calc­ulated on the numb­er of mess­ages that­ have­ been­ bloc­ked |
-
 \*Sinch Email reserves the right to update the parameters of the acceptable sending threshold without prior notice.
 
 **1b** – Acquiring or sending to a third-party mailing list is prohibited. Use of contact lists that are bought, rented or scraped from third-parties is prohibited by law in most countries, and is absolutely prohibited on Sinch Email servers.
