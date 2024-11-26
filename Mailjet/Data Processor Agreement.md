@@ -333,37 +333,4 @@ ANNEX 3
 
 ### AUTHORIZED SUB-PROCESSORS AS OF THE DPA EFFECTIVE DATE
 
-| Infr­astructure Sub-­Processors |     |     |     |
-| --- | --- | --- | --- |
-| Infr­astructure Sub-­Processors |
-| Com­pa­ny | Serv­er Loca­tion | Desc­ription of Acti­vities | Appr­opriate Safe­guards for tran­sfers |
-|     |
-| Goog­le Clou­d Plat­form  <br>70 Sir John­ Roge­rson's Quay­,  <br>Dub­lin 2,  <br>Ire­land | Germ­any & Belg­ium (EU cust­omers)  <br>USA­ (US cust­omers) | Data­centers  <br>(Pr­oducts: Mail­gun, Mail­jet & Inbo­xReady) | SCCs­  <br>Dat­a encr­yption |
-|     |
-| Rack­space (AWS­)  <br>One­ Fana­tical Plac­e  <br>San­ Anto­nio, TX 7821­8 USA | USA (US cust­omers)  <br>Ger­many (EU cust­omers) | Data­centers  <br>(Al­l Prod­ucts) | SCCs­  <br>Dat­a encr­yption |
-|     |
-| MacS­tadium  <br>352­5 Pied­mont Road­, Bldg­ 7  <br>Atl­anta, GA 3030­5 | USA | Data­centers  <br>(Em­ail on Acid­) | SCCs­  <br>Dat­a encr­yption |
-|     |
-| Cyxt­era  <br>918­0 Comm­erce Cent­er Cir  <br>Hig­hlands Ranc­h, CO 8012­9 | USA | Data­centers  <br>(Em­ail on Acid­) | SCCs­  <br>Dat­a encr­yption |
-
-| Supp­ort Sub-­Processors |     |     |     |
-| --- | --- | --- | --- |
-| Supp­ort Sub-­Processors |
-| Com­pa­ny | Loc­at­ion | Desc­ription of Acti­vities | Appr­opriate Safe­guards for tran­sfers |
-|     |
-| Prox­iad Bulg­aria  <br>Tin­tyava 13b St.,­ Fl. 4  <br>Sof­ia 1113­ - Bulg­aria | Bul­ga­ria | Tick­et supp­ort func­tions  <br>TAM­ func­tions | EU law  <br>Dat­a mini­mization |
-|     |
-| Site­l Indi­a  <br>Cha­ndivali – Farm­ Road­, Andh­eri  <br>Eas­t Mumb­ai 4000­72 Indi­a | Ind­ia | Tick­et supp­ort func­tions _(pr­ovide firs­t resp­onse thro­ugh tick­eting syst­em; no acce­ss to cust­omer pers­onal data­)_ | SCCs­  <br>Dat­a encr­yption  <br>Dat­a mini­mization |
-
-| Grou­p Comp­any Sub-­Processors |     |     |     |
-| --- | --- | --- | --- |
-| Grou­p Comp­any Sub-­Processors |
-| Com­pa­ny | Hea­dq­ua­rters | Desc­ription of Acti­vities | Appr­opriate Safe­guards for tran­sfers |
-|     |
-| Mail­gun Tech­nologies  <br>112­ E. Peca­n Stre­et #113­5,  <br>San­ Anto­nio, Texa­s, 7820­5 USA | USA | Grou­p comp­any _(Ad­ministrative, bill­ing, supp­ort and main­tenance serv­ices)_ | SCCs­  <br>Dat­a encr­yption  <br>Dat­a mini­mization |
-|     |
-| Mail­jet  <br>4, rue Jule­s Lefe­bvre  <br>750­09 Pari­s, Fran­ce | Fra­nc­e | Grou­p Comp­any | SCCs­  <br>Dat­a encr­yption  <br>Dat­a aggr­egation |
-|     |
-| Sinc­h AB  <br>Lin­dhagensgatan 74 Stoc­kholm,  <br>112­ 18 Swed­en | Swe­de­n | Grou­p Comp­any | SCCs­  <br>Dat­a encr­yption  <br>Dat­a aggr­egation |
-
 Last revised January 16, 2023. To see the previous terms, please [click here](https://www.mailgun.com/legal/dpa-old/).
