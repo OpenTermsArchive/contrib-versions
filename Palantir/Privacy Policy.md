@@ -12,6 +12,8 @@ Open
 
 We are a technology company founded in the United States in 2003. We provide software platforms and services to help public, private, and non-governmental organizations gain insights into their data through data analysis, in a secure and privacy-protective way. You can read more about our business [here](https://www.palantir.com/offerings/).
 
+This Privacy Statement (“Statement”) applies to the processing activities for which Palantir Technologies Inc. and its affiliates act on behalf of themselves as “data controllers”. This Statement does not apply to our customers’ processing of personal data using Palantir products or services as we are only acting as “data processor” for such processing activities. See the _Data Controllers_ and [_What does this Statement cover_](https://www.palantir.com/privacy-and-security#why-should-you-read-this-statement-and-what-does-it-cover)_?_ sections below.
+
 _How can you contact us?_
 
 If you are looking:
@@ -25,7 +27,7 @@ You may also reach us at [privacy@palantir.com](mailto:privacy@palantir.com)_._
 
 _Data Controllers_
 
-Palantir is a global company made up of multiple entities that process personal data in the course of conducting our business. Depending on where you engage with us, the entity responsible as controller for the processing of your personal data under this Statement may vary. Palantir Technologies Inc. is the parent company of the group, but the data controller of your information may be one of its affiliates depending on how you interact with Palantir entities. If you visit a Palantir office or engage with an employee of a Palantir office outside of the US, the Palantir affiliate based in that country will be the relevant data controller of your personal data. For example, if you attend a Palantir event in our London office, Palantir Technologies UK, Ltd. would be the data controller of your personal data. To understand where Palantir has affiliates around the world, please see [here](https://www.palantir.com/Data-Protection-Affiliates). In this Statement, where we refer to “Palantir,” “we,” “our,” or “us,” we are referring to the relevant Palantir group entity that decides how and why your information is used.
+Palantir is a global company made up of multiple entities that process personal data in the course of conducting our business. Depending on where you engage with us, the entity responsible as controller for the processing of your personal data under our Privacy Statement ("Statement") may vary. Palantir Technologies Inc. is the parent company of the group, but the data controller of your information may be one of its affiliates depending on how you interact with Palantir entities. If you visit a Palantir office or engage with an employee of a Palantir office outside of the US, the Palantir affiliate based in that country will be the relevant data controller of your personal data. For example, if you attend a Palantir event in our London office, Palantir Technologies UK, Ltd. would be the data controller of your personal data. To understand where Palantir has affiliates around the world, please see [here](https://www.palantir.com/Data-Protection-Affiliates). In this Statement, where we refer to “Palantir,” “we,” “our,” or “us,” we are referring to the relevant Palantir group entity that decides how and why your information is used.
 
 Why should you read this Statement and what does it cover?
 ----------------------------------------------------------
@@ -63,7 +65,7 @@ Palantir collects personal data through three main sources:
 
 1\. Personal data you provide to us (for example, through forms or correspondence);
 
-2\. Personal data we collect automatically (for example, when you visit Palantir websites);
+2\. Personal data we collect automatically (for example, when you visit Palantir websites and as discussed in the Technical Data as set out below);
 
 3\. Personal data from other sources (such as our service providers, business partners, and publicly available personal data as set out below):
 
@@ -79,13 +81,13 @@ Palantir collects personal data through three main sources:
 
 **Training and Educational Data:** This can include registrations for courses, assessments signed up for and/or taken, the results of same, and certifications issued. We may collect this information when you sign up for a training or certification program, or it may be generated once you have taken part or completed a training or certification event.
 
-**Communication Data:** Messages, correspondence and other data created, or generated, by you when communicating with Palantir via post, SMS, e-mail, posts on Palantir or third-party channels, forums, social media platforms, other third-party platforms, or other means of electronic communication. We may collect this information when you interact with Palantir or Palantir employees, contractor, agents, third-party service providers and partners.
+**Communication Data:** Messages, correspondence and other data created, or generated, by you when communicating with Palantir via post, SMS, e-mail, posts on Palantir or third-party channels, forums, social media platforms, other third-party platforms, or other means of electronic communication. We may collect this information when you interact with Palantir or Palantir employees, contractor, agents, third-party service providers and partners- for example through providing feedback or sharing your experiences of our products and services with us.
 
 **Government Identifiers:** Government or state issued photographic identification documentation such as passport or driver license – for example when you provide it in the course of verifying your identity.
 
 **Audiovisual Data:** Image, voice – including photographs, images and audio and video recordings – collected through security and monitoring systems or recorded during events, for example, when you participate in a Palantir or Palantir-affiliated event, visit a Palantir office or present at a seminar hosted by Palantir.
 
-**Inferred Data:** Preferences, likelihood of requiring Palantir products and/or services. Data generated by combining data processed by Palantir with information obtained from third parties, including partners and publicly available sources, which assist with the sale of products or services, compliance with laws, and that detect, prevent and otherwise address fraudulent, deceptive, or illegal activity.
+**Inferred Data:** Preferences, likelihood of interest in Palantir products and/or services. Data generated by combining data (such as Contact Data, Professional Data, Transaction Data and Technical Data) collected by Palantir with information obtained from third parties (such as Contact Data, Professional Data, Transaction Data and Technical Data), including partners and publicly available sources, which assist with the sale of products or services, compliance with laws, and that detect, prevent and otherwise address fraudulent, deceptive, or illegal activity.
 
 **Contact Preference:** Consents or preferences that you give us, such as how you would like us to contact you or what Palantir products or services interest you.
 
@@ -110,28 +112,32 @@ _1\. To conduct our business operations and provide our products and services_:
         
     * Fulfil our contract with you;
         
-    * Provide you with access to our self-serve platforms an services.
+    * Provide you with access to our AIP Now platforms an services.
         
-* **To process financial transactions:** We use your information, including Contact Data, Communication Data, Payment Data and Transactional Data to process transactions and to provide you with Palantir products and services. All payments are made online leveraging our third-party payment service provider, Stripe. Stripe is an independent controller of information provided in the course of using Stripe’s payment processing service on Palantir platforms. To understand how Stripe will process your information please see Stripe’s [privacy policy](https://stripe.com/gb/privacy) and Stripe’s [terms](https://stripe.com/gb/ssa).
+* **To process financial transactions:** We use your information, including Contact Data, Communication Data, Payment Data and Transactional Data to process transactions and to provide you with Palantir products and services. When you make a payment on our website, our payment processor, Stripe, collects your Payment Data and Contact data directly from you. Palantir does not provide Payment Data to Stripe. As a result, Stripe is an independent controller of information provided in the course of using Stripe’s payment processing service on Palantir platforms. To understand how Stripe will process your information please see Stripe’s [privacy policy](https://stripe.com/gb/privacy) and Stripe’s [terms](https://stripe.com/gb/ssa).
     
 * **To analyse activity on our websites, improve our public facing platforms and communications:** We use your information, including Technical Data, Communication Data and Training and Certification Data to understand how you use our websites, forums or training platforms and to understand improve your experience of those websites, training platforms and the communications we send.
     
-* **To enable business transfers and transactions:** We process your information in connection with transactions if there is a proposed or actual merger, purchase, sale acquisition, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Palantir’s assets, in which personal information processed by Palantir pursuant to this Privacy Statement forms part of the assets transferred.
+* **To enable business transfers and transactions:** We process your information in connection with transactions if there is a proposed or actual merger, purchase, sale acquisition, financing due diligence, transition of service to another service provider, divestiture, bankruptcy, restructuring, receivership, reorganization, dissolution or other sale or transfer of some or all of Palantir’s assets, in which personal information processed by Palantir pursuant to this Statement forms part of the assets transferred or sold.
     
-* **To ensure compliance with our obligations:** We process your information, where required, to comply with a court order or legal requirement, including to respond to governmental or regulatory requests, or verify your identity when purchasing Palantir self-serve products and services.
+* **To ensure compliance with our obligations:** We may access, preserve, process, or disclose your information, where required, to comply with a court order or legal requirement, including to respond to governmental or regulatory requests, verify your identity when purchasing Palantir AIP Now products and services, enforce our policies and contracts, collect amounts owed to us, or assist with an investigation or prosecution of suspected or actual illegal activity.
     
 * **To protect the rights, property, life, health, safety or security:** We process your information, where required, to protect the rights, property, life, health, safety or security of Palantir, our employees, our users (including you) or others.
+    
+* **To measure, develop and improve our products and services**: We process your information, including Contact Data, Technical Data, and Communication Data to develop, improve and measure the performance of our products and services.
+    
+* **To create de-identified and aggregated information.** We may use personal information to create de-identified and/or aggregated information, such as demographic information, information about the device from which you assess our services, or other analysis we create.
     
 
 2\. _To enable our sales and marketing functions to carry out marketing related to Palantir products and services_:
 
 * **To send sales and marketing communications:** We use your Contact Data, Professional Data, Technical Data, Communication Data, Transaction Data, Training and Educational Data, Inferred Data and Contact Preferences to send you marketing communications about Palantir products and services you have purchased or attempted to purchase, or communications about Palantir products and services we think you might be interested in purchasing or events you might wish to attend, and to carry out targeted marketing campaigns including posts to third party platforms such as social media platforms and networking websites.
     
-* **To understand who would be most interested in our products and services and personalise our communications:** We use your Contact Data, Communication Data, Professional Data, Technical Data, Transaction Data, Training and Educational Data, Inferred Data and Contact Preferences to understand who may be interested in our products and services.
+* **To understand who would be most interested in our products and services and to personalise our communications:** We use your Contact Data, Communication Data, Professional Data, Technical Data, Transaction Data, Training and Educational Data, Inferred Data and Contact Preferences to understand who may be interested in our products and services to personalize our communications with you, including sending marketing communications.
     
 * **To analyse the effectiveness of our communications:** We use your Contact Data, Communication Data and Technical Data to understand the impact of our communications, for example to understand the effectiveness of our marketing campaigns and to improve them going forward.
     
-* **To target advertising:** We use your Contact Data, Professional Data, Communication Data, Technical Data, Transaction Data, Training and Educational Data, and Inferred Data to target advertisements and messages to you via third party advertising platforms including search engines and social media/networking platforms such as LinkedIn or Twitter.
+* **To target advertising:** We use your Contact Data, Professional Data, Communication Data, Technical Data, Transaction Data, Training and Educational Data, and Inferred Data to target advertisements and messages to you, this can include targeted advertising via third party advertising platforms including search engines and social media/networking platforms such as LinkedIn or Twitter.
     
 
 3\. _To manage your visit to a Palantir managed space or event_:
