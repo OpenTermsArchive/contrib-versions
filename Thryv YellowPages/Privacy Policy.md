@@ -130,8 +130,8 @@ Where required by law, we seek your consent to receive marketing materials from 
 
 * Provide you with This Website and the Services, including to send you alerts about your account and provide the live chat;
 * Handle your customer services requests;
-* Help us diagnose technical and service proble
-s and administer This Website and the Services;* Help us to monitor and improve this Website’s and the Services’ performance and to make it easier for you and other users to use and manage features and programs made available through this Website and the Services;
+* Help us diagnose technical and service problem and administer This Website and the Services;
+* Help us to monitor and improve this Website’s and the Services’ performance and to make it easier for you and other users to use and manage features and programs made available through this Website and the Services;
 * Help us to better understand the functionality of our mobile applications on your phone;
 * To provide support, personalize and develop this Website or the Services;
 * For feature testing, research, analysis, evaluation and product development, including to develop and improve this Website and the Services;
@@ -250,7 +250,7 @@ This Website and the Services are intended for and directed to a general adult a
 
 Processing Location
 
-Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. Please be advised that we store all information in the United States or Australia. Additionally, we may process information in multiple locations, including without limitation, the United States, Australia, Canada, Dominican Republic, the European Economic Area (“**EEA**”), India, Israel, Japan, Mexico, New Zealand, the Philippines, Singapore, South Africa, Tunisia, and the United Kingdom.
+Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. Please be advised that we store all information in the United States or Australia. Additionally, we may process information in multiple locations, including without limitation, the United States, Australia, Canada, Columbia, Dominican Republic, the European Economic Area (“**EEA**”), India, Israel, Japan, Mexico, New Zealand, the Philippines, Singapore, South Africa, Tunisia, and the United Kingdom.
 
 Although we will make all reasonable efforts to ensure your personal information is protected in accordance with our obligations, the laws in these countries may not be as protective of your privacy as those in your location. Personal information processed and stored in another country may be subject to disclosure or access requests by the governments, courts or law enforcement or regulatory agencies in that country according to its laws. By using This Website or Services, you are agreeing to the collection, use, transfer, and disclosure of your Personal Information and communications will be governed by the applicable laws in the United States and/or the applicable country of processing. If you have any questions regarding international data transfers, you may contact us using the contact information we provide below.
 
@@ -366,7 +366,7 @@ We use the Personal Information we collect about you to pursue the following pur
 * To enable you to register to This Website and Services;
 * To send you transaction-related emails or push notifications;
 * To offer you the features for which you provide information;
-* To handle any request you may have to our consumer services such as resolving your problem or question, manage any complaints or deal with any feedback you may provide us;
+* To handle any request you may have to our consumer services such as resolving your m or question, manage any complaints or deal with any feedback you may provide us;
 * For statistical analysis of aggregated data to help us segmenting our offering and develop our products and services;
 * To better understand the way in which This Website and Services are working, to offer better experience to you when using This Website and Services, to create statistics in relation to the use of This Website and Services, and our other services and offerings in general; and
 * To help us diagnose technical and service problems and administer This Website and Services.
@@ -440,7 +440,7 @@ If you are an individual, you have rights of access to, and correction of, Perso
 
 **Data Deletion/Data Security**
 
-You may permit us to delete Personal Information using the Contact Us form on [https://yellow.co.nz/company/contact-us/](https://yellow.co.nz/company/contact-us/). A recovery feature is offered by us to enable recovery from accidental deletions for up to 14 days, which may be overridden by us. After any recovery period, we will permanently delete the Personal Information from the live systems. On termination, you have the option to request the return or deletion of Personal Information This request must be made within 14 days of termination. Thereafter we will permanently delete the Personal Information from the live systems in any event. Following permanent deletion from the live systems, partial data resides on our archival systems for a period of up to 14 days. If requested by you, we may be able to assist with recovery of partial data from these archives during this period.
+You may permit us to delete Personal Information using the Contact Us form on [https://yellow.co.nz/company/contact-us/](https://yellow.co.nz/company/contact-us/). A recovery feature is offered by us to enable recovery from accidental deletions for up to 14 days, which may be overridden by us. After any recovery period, we will permanently delete the Personal Information from the live systems. On termination, you have the option to request the return or deletion of Personal Information. This request must be made within 14 days of termination. Thereafter we will permanently delete the Personal Information from the live systems in any event. Following permanent deletion from the live systems, partial data resides on our archival systems for a period of up to 14 days. If requested by you, we may be able to assist with recovery of partial data from these archives during this period.
 
 **Complaints**
 
