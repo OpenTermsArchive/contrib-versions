@@ -1,99 +1,116 @@
-Deliveroo Ireland Limited and Roofoods Ltd (**"we"**, **"our"**, **"us"** or **"Deliveroo"**). We are committed to protecting the privacy of all users of our website, deliveroo.ie, or mobile applications (together, the **"Sites"**). Please read this privacy policy that explains how we use and protect your personal information. We are the "controllers" of the information we process, unless otherwise stated.
+You know us as Deliveroo, but our legal name is Roofoods Ltd (“**we**”, “**our**”, “**us**” or “**Deliveroo**”). We are committed to protecting the privacy of all users of our website [deliveroo.ie](https://deliveroo.ie/), mobile applications and social media accounts (together, the “**Sites**”). Please read this privacy policy that explains how we use and protect your personal information, which is any information about you or that can be used to identify you. We are the “controller” of the personal information we process, unless otherwise stated.
 
-1\. Contact Details
+1\. Contact details
 -------------------
 
-If you have any queries or requests about this privacy policy or how we handle your information more generally, you can get in touch by contacting us at support@deliveroo.ie.
+If you have any queries or requests about this privacy policy or how we handle your information more generally, you can get in touch by contacting us using our contact form available [here](https://deliveroo.ie/contact).
 
 See more
 
-2\. How We Collect Your Information
------------------------------------
+2\. Information we collect about you
+------------------------------------
 
-We collect your information when you interact with us or use our services, such as when you use our Sites to place an order. We also look at how visitors use our Sites, to help us improve our services and optimise customer experience.
-
-See more
-
-3\. Information We Collect From You
------------------------------------
-
-As part of our commitment to the privacy of our customers and visitors to our Sites more generally, we want to be clear about the sorts of information we will collect from you.
+As part of our commitment to the privacy of our customers, and visitors to our Sites more generally, we want to be clear about the sorts of information we will collect about you.
 
 See more
 
-4\. Use Of Your Information
+3\. Use of your information
 ---------------------------
 
-We will only process your information if there is a reason for doing so, and if that reason is permitted by law.
+We use your information in a variety of  ways, as described below, and only if we have a valid reason to do so.
 
 See more
 
-5\. Deliveroo For Work
+4\. Deliveroo for Work
 ----------------------
 
-We process your information to determine whether you may be interested in hearing about our Deliveroo for Work service and, if your employer signs up for Deliveroo for Work, to make this service available to you.
+We use your information to understand whether you may be interested in hearing about our Deliveroo for Work service and, if your employer signs up for Deliveroo for Work, to make this service available to you.
 
 See more
 
-6\. Cookies
+5\. Cookies
 -----------
 
-You can set your browser to refuse all or some browser cookies, or to alert you when websites set or access cookies. If you disable or refuse cookies, please note that some parts of the Site may become inaccessible or not function properly. For more information about the cookies we use, and how to set or amend your cookie preferences, please see our [Cookie Policy](https://deliveroo.ie/cookies).
-
-7\. Marketing
--------------
-
-Where you have given your consent or where we have a legitimate interest for doing so (and are permitted to do so by law) we will use your information to let you know about our other products and services, or Deliveroo initiatives that may be of interest to you and we may contact you to do so by email, post, phone, or push notification or in-app message.
-
-We use online advertising to keep you aware of what we’re up to and to help you see and find our products.
+We and our partners use cookies and other similar technologies on our Sites to collect information about you.
 
 See more
 
-8\. Automated Decisions
------------------------
-
-We undertake fraud checks on all customers which is necessary for us to: 
-
-* perform our contracted services to customers; 
-* ensure that our services (and those of all our partners) provided are duly paid for;
-* ensure that customers themselves are protected from fraudulent transactions being made on their payment cards.
-
-See more
-
-9\. Retention Of Your Information
----------------------------------
-
-We will only retain your information for as long as reasonably necessary to fulfil the purposes we collected it for, including for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. In the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you, we retain your information for a longer period.
-
-See more
-
-10\. Sharing Your Information
+6\. Marketing and advertising
 -----------------------------
 
-The information we collect about you is transferred to and stored on our servers located within the EU. We are very careful and transparent about who else your information is shared with.
+If you have placed an order with us or signed up to Deliveroo, we use your information to send you marketing communications by post, email, mobile messaging (such as SMS, MMS, WhatsApp and push notifications) and by phone, as well as to show you advertising online.
 
 See more
+
+7\. Use of automated systems
+----------------------------
+
+We use automated systems to detect and prevent fraud and abuses of our Sites and to manage customer operations and key elements of our contract with you.
+
+See more
+
+8\. Retention of your information
+---------------------------------
+
+We will only retain your information for as long as reasonably necessary to fulfil the purposes we collected it for, and for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. In the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you, we may retain your information for a longer period.
+
+When determining the appropriate retention periods, we take into account factors including:
+
+* our contractual obligations and rights in relation to the information involved;
+* legal obligation(s) under applicable law to retain information for a certain period of time;
+* statute of limitations under applicable law(s);
+* our legitimate interests for retaining the information (to learn more, check the “Use of your information” section above);
+* whether there is an actual or potential dispute; and
+* guidelines issued by relevant data protection authorities.
+
+For example:
+
+* After you have closed your account, we will keep your transaction details for 6 years so we can comply with our tax obligations. 
+* When you rate an order, Partner or item on our Sites, we will keep the rating for 2 years to help our customers make relevant and informed orders and to ensure all our ratings remain relevant.
+
+Otherwise, we securely erase your information where we no longer require it for the purposes we collected it for.
+
+9\. Sharing your information
+----------------------------
+
+We share your information only where necessary for the purposes set out in the “Use of your information” section above.
+
+See more
+
+10\. Transfers of your information
+----------------------------------
+
+Deliveroo is an international business and we may need to transfer your information outside the United Kingdom (UK) or European Economic Area (EEA) to help us provide our services, such as to India or other countries where we may have operations.
+
+If we transfer your information to another country that does not, under their local laws, offer an equivalent standard of data protection to the UK or EEA, we will make sure that your information is protected. For example, we will only transfer your information:
+
+* to countries that have been deemed to provide an adequate level of protection for personal information; or
+* where we can enter into contracts with third parties ensuring that strict data protection safeguards are in place before we transfer your information.
+
+If you have any questions about the specific mechanisms used, please contact us (to learn more, check the “Contact details” section above).
+
+If you use Deliveroo services in another country where we operate, for example, when you are travelling, your information will be processed in accordance with the applicable laws of that country and the Deliveroo privacy policy of that country will apply.
 
 11\. Security
 -------------
 
-We adopt robust technologies and policies to protect your information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed.
+We adopt robust technologies and policies to protect your information from being accidentally lost, used or accessed in an unauthorised way, altered or disclosed. In addition, we limit access to your information to those riders, third party providers and Deliveroo employees who have a business need-to-know.
 
 See more
 
-12\. Your Rights
+12\. Your rights
 ----------------
 
-Under certain circumstances, you have rights under data protection law in relation to the information we hold about you.
+You have certain rights over the information we hold about you. These rights can help you control the way we use your information.
 
 See more
 
-13\. Changes To Our Privacy Policy
+13\. Changes to our privacy policy
 ----------------------------------
 
-We update this privacy policy from time to time, so remember to check back in every so often, in case anything has changed and, where appropriate, we may notify you of the changes, for example by email or push notification.
+We may update this policy from time to time, so remember to check back in every so often, in case anything has changed. Where appropriate, we may notify you of changes, for example by email or in-app notification. 
 
-This privacy policy was last published on: 20 June 2023
+This policy was last published on: 27 November 2024
 
 **Deliveroo Ireland Limited**, 2 Dublin Landings North Dock Dublin 1 Ireland
 
