@@ -611,4 +611,4 @@ Here’s what you can expect:
 
 Thank you for trusting us with your personal data.
 
-Published 09.03.2024
+Published on 19 November 2024
