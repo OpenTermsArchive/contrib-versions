@@ -246,7 +246,7 @@ Additional information (including how to opt-out of data collection through the 
 
 The types of data we will use for such purpose will mainly include (as detailed in the “**[**Data We Collect**](#data-we-collect)**” section above):
 
-* Data provided or collected through registration & under your Viber account, such as such as Identifiers (e.g. your mobile phone number country code; your personal details, e.g., name and date of birth, if you provided them;);
+* Data provided or collected through registration & under your Viber account, such as Identifiers (e.g. your mobile phone number country code; your personal details, e.g., name and date of birth, if you provided them;);
 * Geolocation data;
 * Data we collect automatically from your device, such as device identifiers, activity data, and other device data;
 * Data we collect from other sources and inferred data, such as social media data and inferences about your account and device identifier.
