@@ -1,7 +1,7 @@
 TABOOLA COOKIE POLICY
 =====================
 
-Last Update: November 20th, 2024
+Last Update: November 26th, 2024
 
 Taboola, Inc. together with its Affiliates (“Taboola”, “we”, “us”, or “our”) recognizes the importance of your privacy. In this cookie policy (“Cookie Policy”), we aim to inform you about the use of cookies, and other automated means of data collection (1) on our website [www.taboola.com](https://www.taboola.com/),  and any other Taboola digital properties displaying this Cookie Policy (collectively, the “Sites”) and (2) via our content discovery platform (the “Services”), which appears on the websites and digital properties of our publisher customers to redistribute their own content or recommend the content of our advertiser customers (collectively, the “Customers”). When we refer to “cookies” in this Cookie Policy, we mean both cookies and other automated means of data collection, as defined below. By visiting the Sites and interacting with or using the Sites, you expressly consent to the use of cookies as explained hereafter. We ask our Customers to obtain consent on our behalf, where required by applicable data protection laws, so that we may use cookies and other automated means of data collection on their digital properties.
 
@@ -152,6 +152,7 @@ You can find more information about the individual first-party cookies used for 
 | Local Storage:<br><br>global:last-external-referrer | Used for attribution purposes to identify the referring website (i.e. the website that the user visited prior to arriving at the current website). | Publisher’s Domain | Local Storage (deleted when the user deletes it) |
 | Local Storage:<br><br>taboola global:user-id | Assigns a unique User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user (in local storage) | Publisher’s Domain | Local Storage (deleted when the user deletes it) |
 | Local Storage:<br><br>\_taboolaStorageDetection | An indicator to see if the browser supports local storage which is necessary for the functionality of the website. No data is actually written here and it’s immediately deleted. | Publisher’s Domain | Local Storage (deleted when the user deletes it) |
+| Local Storage:  <br>taboolasmartSwap | Used for storing the latest article recommendations users have seen in previous session | Publisher’s Domain | Local Storage (deleted when the user deletes it) |
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
