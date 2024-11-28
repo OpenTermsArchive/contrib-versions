@@ -115,7 +115,7 @@ Premium Services include the optional ability to request the conversion of any v
 
 These technologies are still evolving and there is no guarantee that every message you attempt to either transcribe or translate will be processed correctly, or at all. The accuracy and availability of these technologies depend on a third party (Google LLC, subsidiary of Alphabet Inc.), and we can not guarantee that they will always be accurate and available.
 
-> Read more about the privacy of this data in our [Privacy Policy](https://telegram.org/privacy#8-5-transcription-of-voice-messages-at-the-request-of-the-user)
+> Read more about the privacy of this data in our [Privacy Policy](https://telegram.org/privacy#8-5-transcription-of-voice-and-video-messages-at-the-request-of)
 
 #### [](#7-5-increased-download-speed)7.5. Increased Download Speed
 
@@ -268,7 +268,7 @@ Premium Services include the optional ability to request the conversion of any v
 
 These technologies are still evolving and there is no guarantee that every message you attempt to either transcribe or translate will be processed correctly, or at all. The accuracy and availability of these technologies depend on a third party (Google LLC, subsidiary of Alphabet Inc.), and we can not guarantee that they will always be accurate and available.
 
-> Read more about the privacy of this data in our [Privacy Policy](https://telegram.org/privacy#8-5-transcription-of-voice-messages-at-the-request-of-the-user)
+> Read more about the privacy of this data in our [Privacy Policy](https://telegram.org/privacy#8-5-transcription-of-voice-and-video-messages-at-the-request-of)
 
 #### [](#7-5-increased-download-speed)7.5. Increased Download Speed
 
