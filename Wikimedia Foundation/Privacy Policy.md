@@ -56,7 +56,7 @@ Other languages:
 * [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nb "Policy:Privacy policy/nb (48% translated)")
 * [occitan](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/oc "Policy:Privacy policy/oc (5% translated)")
 * [oʻzbekcha / ўзбекча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/uz "Policy:Privacy policy/uz (25% translated)")
-* [polski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pl "Policy:Privacy policy/pl (91% translated)")
+* [polski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pl "Policy:Privacy policy/pl (100% translated)")
 * [português](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pt "Policy:Privacy policy/pt (56% translated)")
 * [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pt-br "Policy:Privacy policy/pt-br (95% translated)")
 * [română](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ro "Policy:Privacy policy/ro (18% translated)")
@@ -563,6 +563,6 @@ Privacy-related pages
     * [Noticeboard](https://meta.wikimedia.org/wiki/Access_to_nonpublic_personal_data_policy/Noticeboard "m:Access to nonpublic personal data policy/Noticeboard")
 * [Donor privacy policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Donor_privacy_policy "Special:MyLanguage/Policy:Donor privacy policy")
 
-![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1)
+![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&useformat=desktop)
 
 Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=366672](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=366672)"
