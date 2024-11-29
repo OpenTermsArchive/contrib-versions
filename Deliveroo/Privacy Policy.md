@@ -54,21 +54,7 @@ See more
 
 We will only retain your information for as long as reasonably necessary to fulfil the purposes we collected it for, and for the purposes of satisfying any legal, regulatory, tax, accounting or reporting requirements. In the event of a complaint or if we reasonably believe there is a prospect of litigation in respect to our relationship with you, we may retain your information for a longer period.
 
-When determining the appropriate retention periods, we take into account factors including:
-
-* our contractual obligations and rights in relation to the information involved;
-* legal obligation(s) under applicable law to retain information for a certain period of time;
-* statute of limitations under applicable law(s);
-* our legitimate interests for retaining the information (to learn more, check the “Use of your information” section above);
-* whether there is an actual or potential dispute; and
-* guidelines issued by relevant data protection authorities.
-
-For example:
-
-* After you have closed your account, we will keep your transaction details for 6 years so we can comply with our tax obligations. 
-* When you rate an order, Partner or item on our Sites, we will keep the rating for 2 years to help our customers make relevant and informed orders and to ensure all our ratings remain relevant.
-
-Otherwise, we securely erase your information where we no longer require it for the purposes we collected it for.
+See more
 
 9\. Sharing your information
 ----------------------------
@@ -82,14 +68,7 @@ See more
 
 Deliveroo is an international business and we may need to transfer your information outside the United Kingdom (UK) or European Economic Area (EEA) to help us provide our services, such as to India or other countries where we may have operations.
 
-If we transfer your information to another country that does not, under their local laws, offer an equivalent standard of data protection to the UK or EEA, we will make sure that your information is protected. For example, we will only transfer your information:
-
-* to countries that have been deemed to provide an adequate level of protection for personal information; or
-* where we can enter into contracts with third parties ensuring that strict data protection safeguards are in place before we transfer your information.
-
-If you have any questions about the specific mechanisms used, please contact us (to learn more, check the “Contact details” section above).
-
-If you use Deliveroo services in another country where we operate, for example, when you are travelling, your information will be processed in accordance with the applicable laws of that country and the Deliveroo privacy policy of that country will apply.
+See more
 
 11\. Security
 -------------
