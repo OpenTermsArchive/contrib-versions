@@ -8,19 +8,17 @@ By signing up for Telegram, you accept our [Privacy Policy](https://telegram.org
 * Post illegal pornographic content on publicly viewable Telegram channels, bots, etc.
 * Engage in activities that are recognized as illegal in the majority of countries. This includes child abuse, selling or offering illegal goods and services (drugs, firearms, forged documents), etc.
 
-We reserve the right to update these Terms of Service later.
+For users accessing Telegram within the European Union, the [User Guidance for the EU Digital Services Act](https://telegram.org/tos/eu-dsa) constitutes an integral part of our Terms of Service.
 
-> Citizens of EU countries and the United Kingdom must be at least 18 years old to sign up.
+> Users from EU countries must be at least 18 years old to sign up.
+
+We reserve the right to update these Terms of Service later.
 
 * * *
 
 If you access certain optional features and services on the Telegram platform, you will be additionally bound by their specific terms – such as the Terms of Service for [Telegram Stars](https://telegram.org/tos/stars), [Telegram Premium](https://telegram.org/tos#terms-of-service-for-telegram-premium), [Telegram Business](https://telegram.org/tos/business), [Bot Users](https://telegram.org/tos/bots), [Mini App Users](https://telegram.org/tos/mini-apps), [Content Creators](https://telegram.org/tos/content-creator-rewards), [Telegram Gateway API](https://telegram.org/tos/gateway), [Telegram API Developers](https://core.telegram.org/api/terms), and [Bot Developers](https://telegram.org/tos/bot-developers).
 
 * * *
-
-### [](#terms-of-service-for-telegram-stars)Terms of Service for Telegram Stars
-
-Telegram users can acquire Telegram Stars, which are used to purchase digital goods and services from bots and mini-apps inside the Telegram app. Should you wish to use Telegram Stars, you in turn accept the [Terms of Service for Telegram Stars](https://telegram.org/tos/stars).
 
 [](#terms-of-service-for-telegram-premium)Terms of Service for Telegram Premium
 -------------------------------------------------------------------------------
@@ -161,19 +159,17 @@ By signing up for Telegram, you accept our [Privacy Policy](https://telegram.org
 * Post illegal pornographic content on publicly viewable Telegram channels, bots, etc.
 * Engage in activities that are recognized as illegal in the majority of countries. This includes child abuse, selling or offering illegal goods and services (drugs, firearms, forged documents), etc.
 
-We reserve the right to update these Terms of Service later.
+For users accessing Telegram within the European Union, the [User Guidance for the EU Digital Services Act](https://telegram.org/tos/eu-dsa) constitutes an integral part of our Terms of Service.
 
-> Citizens of EU countries and the United Kingdom must be at least 18 years old to sign up.
+> Users from EU countries must be at least 18 years old to sign up.
+
+We reserve the right to update these Terms of Service later.
 
 * * *
 
 If you access certain optional features and services on the Telegram platform, you will be additionally bound by their specific terms – such as the Terms of Service for [Telegram Stars](https://telegram.org/tos/stars), [Telegram Premium](https://telegram.org/tos#terms-of-service-for-telegram-premium), [Telegram Business](https://telegram.org/tos/business), [Bot Users](https://telegram.org/tos/bots), [Mini App Users](https://telegram.org/tos/mini-apps), [Content Creators](https://telegram.org/tos/content-creator-rewards), [Telegram Gateway API](https://telegram.org/tos/gateway), [Telegram API Developers](https://core.telegram.org/api/terms), and [Bot Developers](https://telegram.org/tos/bot-developers).
 
 * * *
-
-### [](#terms-of-service-for-telegram-stars)Terms of Service for Telegram Stars
-
-Telegram users can acquire Telegram Stars, which are used to purchase digital goods and services from bots and mini-apps inside the Telegram app. Should you wish to use Telegram Stars, you in turn accept the [Terms of Service for Telegram Stars](https://telegram.org/tos/stars).
 
 [](#terms-of-service-for-telegram-premium)Terms of Service for Telegram Premium
 -------------------------------------------------------------------------------
