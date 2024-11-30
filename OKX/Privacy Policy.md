@@ -1,5 +1,5 @@
-Privacy Notice Statement
-========================
+Privacy Notice Statement EEA
+============================
 
 Published on May 9, 2024
 
