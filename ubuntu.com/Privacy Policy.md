@@ -363,6 +363,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [MLflow](https://ubuntu.com/ai/mlflow)
 * [Consulting](https://ubuntu.com/ai/consulting)
 * [Data Science](https://ubuntu.com/ai/data-science)
+* [MLOps workshop](https://ubuntu.com/ai/mlops-workshop)
 
 * * *
 
