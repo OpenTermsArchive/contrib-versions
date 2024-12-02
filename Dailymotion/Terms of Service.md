@@ -7,7 +7,7 @@ If you want to access the main points of our Terms of Use in a simplified way, f
 
 **Your use of the Dailymotion Service implies your acceptance of these Terms of Use including the [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) and the [Data Protection Annex](https://legal.dailymotion.com/en/terms-of-use/#appendix-b-data-protection-annex) below (with the Standard Contractual Clauses incorporated therein). We ask You to read them carefully.**
 
-_Last update : November 22, 2024._
+_Last update : December 2nd, 2024._
 
 ### **SECTION 1: DESCRIPTION OF THE DAILYMOTION SERVICE**
 
@@ -602,16 +602,14 @@ Email address: notifications@dailymotion.com
 **Mailing Address:**  
 Dailymotion SA,  
 Service Contenus Abusifs,  
-140 boulevard Malesherbes,  
-75017 Paris – France  
+50, rue Camille Desmoulins 92130 Issy-les-Moulineaux France  
 **Email address:** notifications@dailymotion.com
 
 **• Reports from Indian residents:**
 
 **Mailing Address:**  
 Dailymotion India Grievance Officer,  
-140 boulevard Malesherbes,  
-75017 Paris – France  
+50, rue Camille Desmoulins 92130 Issy-les-Moulineaux France  
 **Email address:** dailymotion-in\_grievance-officer@dailymotion.com
 
 **• Reports from Turkish residents:**
@@ -631,8 +629,7 @@ Eğer Türkiye’de ikamet ediyorsanız, 5651 sayılı Kanun kapsamında görevl
 **Mailing Address:**  
 Dailymotion SA,  
 Service Contenus Abusifs,  
-140 boulevard Malesherbes,  
-75017 Paris – France  
+50, rue Camille Desmoulins 92130 Issy-les-Moulineaux France  
 **Email address:** notifications@dailymotion.com
 
 Regarding reports of copyright infringement, we remind you that certain uses of protected works may be permitted without the authorization of their authors or of the person who holds their rights when they fall within the scope of the exceptions to copyright and/or related rights provided for by the applicable laws and regulations (and in particular in France by articles L.122-5 L and L.211-3 of the Intellectual Property Code, as detailed in our Help Center at the following address:  
@@ -1038,7 +1035,7 @@ It is agreed by the Parties that the 2021 SCC are complemented as follows:
     
     * The Dailymotion entity You contract with, namely:
         
-        * If You are established in the European Economic Area, United Kingdom or Switzerland:  Dailymotion SA, 140 boulevard Malesherbes, 75017 Paris, France, contact details: [dpo@dailymotion.com](mailto:dpo@dailymotion.com), or
+        * If You are established in the European Economic Area, United Kingdom or Switzerland:  Dailymotion SA, 50, rue Camille Desmoulins 92130 Issy-les-Moulineaux France, contact details: [dpo@dailymotion.com](mailto:dpo@dailymotion.com), or
         
         * If You are established in any other territory:  Dailymotion Inc., 150 W 22nd Street, Floor 12, New York, NY 10011, USA, contact details: [legal@dailymotion.com](mailto:legal@dailymotion.com);
     
