@@ -130,7 +130,7 @@ Where required by law, we seek your consent to receive marketing materials from 
 
 * Provide you with This Website and the Services, including to send you alerts about your account and provide the live chat;
 * Handle your customer services requests;
-* Help us diagnose technical and service problem and administer This Website and the Services;
+* Help us diagnose technical and service problems and administer This Website and the Services;
 * Help us to monitor and improve this Website’s and the Services’ performance and to make it easier for you and other users to use and manage features and programs made available through this Website and the Services;
 * Help us to better understand the functionality of our mobile applications on your phone;
 * To provide support, personalize and develop this Website or the Services;
