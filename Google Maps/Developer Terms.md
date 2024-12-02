@@ -549,6 +549,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         130. Ville de Québec: [https://www.donneesquebec.ca/recherche/dataset/adresses-de-la-ville-de-quebec](https://www.donneesquebec.ca/recherche/dataset/adresses-de-la-ville-de-quebec)
             
+        131. Halifax Regional Municipality: [https://data-hrm.hub.arcgis.com/pages/open-data-licence](https://data-hrm.hub.arcgis.com/pages/open-data-licence)
+            
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
             
@@ -1958,6 +1960,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Datos Madrid: [https://datos.madrid.es/portal/site/egob/menuitem.400a817358ce98c34e937436a8a409a0/?vgnextoid=b4c412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextchannel=b4c412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default](https://datos.madrid.es/portal/site/egob/menuitem.400a817358ce98c34e937436a8a409a0/?vgnextoid=b4c412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextchannel=b4c412b9ace9f310VgnVCM100000171f5a0aRCRD&vgnextfmt=default)
             
         * Open Data BCN: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        * Principado de Asturias: [https://ideas.asturias.es/catalogo-de-metadatos](https://ideas.asturias.es/catalogo-de-metadatos); [https://www.asturias.es/web/asturias/licencias-y-términos-de-uso](https://www.asturias.es/web/asturias/licencias-y-t%C3%A9rminos-de-uso)
+            
+        * Diputación Foral de Bizkaia: [https://www.opendatabizkaia.eus/es/info/aviso-legal](https://www.opendatabizkaia.eus/es/info/aviso-legal)
             
     58. **Sweden**
         * © 2009 Cartesia GIS AB
