@@ -1,9 +1,13 @@
 Privacy Policy
 ==============
 
-_Last Update: December 2nd, 202_4
+Simplified Summary of our Privacy Policy:
 
-Dailymotion respects Your privacy. Our Privacy Policy Your explains how we collect, use, share and protect Personal Data from or about You in connection with Your use of the Dailymotion Service.
+If you want to access the main points of our Privacy Policy in a simplified way, for instance if you’re a minor, you can [access this Summary](https://legal.dailymotion.com/en/summary-of-privacy-policy/). Please note though that it is provided for **informational** purposes only. In case of conflict between the Privacy Policy and the summary, only the Privacy Policy below shall prevail.
+
+_Last Update: December 3rd, 202_4
+
+Dailymotion respects Your privacy. Our Privacy Policy explains how we collect, use, share and protect Personal Data from or about You in connection with Your use of the Dailymotion Service.
 
 If you reside in a country that is part of the [European Economic Area](https://en.wikipedia.org/wiki/European_Economic_Area) United Kingdom, or Switzerland (collectively referred to as “**EEA**” unless otherwise explicitly stated herein), any reference to “**Dailymotion**“, “**we**“, “**us**“, or “**our**” in this Privacy Policy refers to “Dailymotion SA” whose details are provided [here](http://www.dailymotion.com/legal/infos).
 
@@ -75,9 +79,9 @@ In general, we rely on contract when processin of You Personal Data is necessary
     * Retention of identifying information of a User: as a content hosting platform we are legally obliged to retain identifying information of anyone having uploaded, changed or deleted Content on our Service. Consequently, when we store Your email address or other identifying information following Your upload, change or Content deletion we rely on a legal obligation.
     
     * Age collection: some of the legal obligations imposed on on-line service providers depend on the age of their end-users. Consequently, when we ask for Your birthdate during the account-opening process, we do so to be able to comply with these obligations.  
-* Consent: we rely on consent when processing Your Personal Data Your Your Your to determine what interests You have and present You with ads that are adapted to Your interests. We also ask for Your consent to share Your Personal Data with our affiliates and third parties.
+* Consent: we rely on consent when processing Your Personal Data to determine what interests You have and show You ads that are adapted to Your interests. We also ask for Your consent to share Your Personal Data with our affiliates and third parties.
 
-Note that Your when our Processing of Your Personal Data is based on consent we ask you to communicate YYour consent via a positive action (e.g. by clicking the “Accept” button on our Site, Secondary Site or Video Player or through another method defined under the applicable laws). When Processing of Your Personal Data is based on legal grounds other than consent, we provide you with information regarding the applicable legal ground and, when applicable, provide you with means to oppose to it.
+Note that when our Processing of Your Personal Data is based on consent, we ask you to communicate Your consent via a positive action (e.g. by clicking the “Accept” button on our Site, Secondary Site or Video Player or through another method defined under the applicable laws). When Processing of Your Personal Data is based on legal grounds other than consent, we provide you with information regarding the applicable legal ground and, when applicable, provide you with means to oppose to it.
 
 When you access our Service **through our Video Player embedded on third-party websites or apps**, we Process Your Personal data for purposes and in reliance of the legal basis [declared](https://vendor-list.consensu.org/v3/vendor-list.json) with the IAB TCF, as further explained below.
 
