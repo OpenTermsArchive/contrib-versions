@@ -231,11 +231,17 @@ Physical Access Control
 
 To prevent unauthorized persons from gaining access to data processing systems with which personal data is processed or used:
 
-* Sinch Email leverages industry-leading data center and cloud infrastructure providers. Access to all data centers is strictly controlled. All data centers are equipped with 24x7x365 surveillance and biometric access control systems. Additionally, all providers have industry standard certifications.
+* Badge Check
     
-* Data centers are equipped with at least N+1 redundancy for power, networking, and cooling infrastructure.
+    Sinch Email leverages industry-leading data center and cloud infrastructure providers. Access to all data centers is strictly controlled. All data centers are equipped with 24x7x365 surveillance and biometric access control systems. Additionally, all providers have industry standard certifications.
     
-* Within a region, data processing occurs across at least three distinct availability zones. Services are designed to withstand the failure of an availability zone without customer disruption.
+* Badge Check
+    
+    Data centers are equipped with at least N+1 redundancy for power, networking, and cooling infrastructure.
+    
+* Badge Check
+    
+    Within a region, data processing occurs across at least three distinct availability zones. Services are designed to withstand the failure of an availability zone without customer disruption.
     
 
 System Access Control
@@ -243,17 +249,29 @@ System Access Control
 
 To prevent data processing systems from being used without authorization:
 
-* Administrative access to Sinch Email systems and services follows the principle of least privilege. Access to systems is based on job role and responsibilities. Sinch Email utilizes unique usernames/identifiers that are not permitted to be shared or re-assigned to another person.
+* Badge Check
     
-* VPN and multi-factor authentication is used for access to internal support tools and product infrastructure.
+    Administrative access to Sinch Email systems and services follows the principle of least privilege. Access to systems is based on job role and responsibilities. Sinch Email utilizes unique usernames/identifiers that are not permitted to be shared or re-assigned to another person.
     
-* Network access control lists (ACLs) and security groups are used to limit ingress and egress traffic from production infrastructure.
+* Badge Check
     
-* Intrusion detection systems (IDS) are used to detect potential unauthorized access.
+    VPN and multi-factor authentication is used for access to internal support tools and product infrastructure.
     
-* Network protections have been deployed to mitigate the impact of distributed denial of service (DDoS) attacks.
+* Badge Check
     
-* Onboarding and offboarding processes are documented and followed consistently to ensure access is properly managed to internal and externally hosted tools and systems. Where possible, third-party services leverage single sign-on (SSO) functionality which allows for centralized management and enforces multi-factor authentication.
+    Network access control lists (ACLs) and security groups are used to limit ingress and egress traffic from production infrastructure.
+    
+* Badge Check
+    
+    Intrusion detection systems (IDS) are used to detect potential unauthorized access.
+    
+* Badge Check
+    
+    Network protections have been deployed to mitigate the impact of distributed denial of service (DDoS) attacks.
+    
+* Badge Check
+    
+    Onboarding and offboarding processes are documented and followed consistently to ensure access is properly managed to internal and externally hosted tools and systems. Where possible, third-party services leverage single sign-on (SSO) functionality which allows for centralized management and enforces multi-factor authentication.
     
 
 Data Access Control
@@ -261,17 +279,29 @@ Data Access Control
 
 To ensure authorized users entitled to use data processing systems have access only to the data to which they have a right of access, and that personal data cannot be read, copied, modified or removed without authorization in the course of processing or use and after storage:
 
-* Sinch Email utilizes a password management system that enforces minimum password length, complexity, expiration time, and minimum last used.
+* Badge Check
     
-* Employee workstations automatically lock after a prolonged period of inactivity. Systems log out users after a prolonged period of inactivity.
+    Sinch Email utilizes a password management system that enforces minimum password length, complexity, expiration time, and minimum last used.
     
-* Logs are centrally stored and indexed. Critical logs, such as security logs, are retained for at least one year.
+* Badge Check
     
-* The Sinch Email patch management process ensures that systems are patched at least once every month. Monitoring, alerting, and routine vulnerability scanning occurs to ensure that all product infrastructure is patched consistently.
+    Employee workstations automatically lock after a prolonged period of inactivity. Systems log out users after a prolonged period of inactivity.
     
-* Industry-standard antivirus software is utilized to ensure internal assets that access personal data are protected against known viruses. Antivirus software is updated regularly.
+* Badge Check
     
-* Sinch Email utilizes firewall devices to segregate unwanted traffic from entering the network. A DMZ is utilized using firewalls to further protect internal systems protecting sensitive data.
+    Logs are centrally stored and indexed. Critical logs, such as security logs, are retained for at least one year.
+    
+* Badge Check
+    
+    The Sinch Email patch management process ensures that systems are patched at least once every month. Monitoring, alerting, and routine vulnerability scanning occurs to ensure that all product infrastructure is patched consistently.
+    
+* Badge Check
+    
+    Industry-standard antivirus software is utilized to ensure internal assets that access personal data are protected against known viruses. Antivirus software is updated regularly.
+    
+* Badge Check
+    
+    Sinch Email utilizes firewall devices to segregate unwanted traffic from entering the network. A DMZ is utilized using firewalls to further protect internal systems protecting sensitive data.
     
 
 Data Transmission Control
@@ -279,15 +309,25 @@ Data Transmission Control
 
 To ensure that personal data cannot be read, copied, modified or removed without authorization during electronic transmission or transport:
 
-* Customer data is stored encrypted-at-rest through the use of AES-256 encryption on block devices.
+* Badge Check
     
-* Customer backups are encrypted-in-transit and at rest using strong encryption.
+    Customer data is stored encrypted-at-rest through the use of AES-256 encryption on block devices.
     
-* Sinch Email supports TLS 1.2 to encrypt network traffic between the client application and Sinch Email infrastructure.
+* Badge Check
     
-* Sinch Email is alerted to encryption issues through periodic risk assessments and third-party penetration tests. Sinch Email performs third-party penetration tests on an annual basis, or as needed due to changes in the business.
+    Customer backups are encrypted-in-transit and at rest using strong encryption.
     
-* Sinch Email operates a bug bounty program, encouraging the responsible disclosure of vulnerabilities from community researchers.
+* Badge Check
+    
+    Sinch Email supports TLS 1.2 to encrypt network traffic between the client application and Sinch Email infrastructure.
+    
+* Badge Check
+    
+    Sinch Email is alerted to encryption issues through periodic risk assessments and third-party penetration tests. Sinch Email performs third-party penetration tests on an annual basis, or as needed due to changes in the business.
+    
+* Badge Check
+    
+    Sinch Email operates a bug bounty program, encouraging the responsible disclosure of vulnerabilities from community researchers.
     
 
 Input Control
@@ -295,9 +335,13 @@ Input Control
 
 To ensure that it is possible to check and establish whether and by whom personal data have been input into data processing systems, modified or removed:
 
-* Systems are monitored for security events to ensure quick resolution.
+* Badge Check
     
-* Logs are centrally stored and indexed. Critical logs, such as security logs, are retained for at least one year. Logs can be traced back to individual unique usernames with timestamps to investigate nonconformities or security events.
+    Systems are monitored for security events to ensure quick resolution.
+    
+* Badge Check
+    
+    Logs are centrally stored and indexed. Critical logs, such as security logs, are retained for at least one year. Logs can be traced back to individual unique usernames with timestamps to investigate nonconformities or security events.
     
 
 Availability Control
@@ -305,13 +349,21 @@ Availability Control
 
 To ensure personal data is protected from accidental destruction or loss:
 
-* Account data is backed up at least daily. Incremental/point-in-time recovery is available for all primary databases. Backups are encrypted-in-transit and at rest using strong encryption.
+* Badge Check
     
-* Sinch Email patch management process ensures that systems are patched at least once every month. Monitoring, alerting, and routine vulnerability scanning occurs to ensure that all product infrastructure is patched consistently.
+    Account data is backed up at least daily. Incremental/point-in-time recovery is available for all primary databases. Backups are encrypted-in-transit and at rest using strong encryption.
     
-* When necessary, Sinch Email patches infrastructure in an expedited manner in response to the disclosure of critical vulnerabilities to ensure system uptime is preserved.
+* Badge Check
     
-* Customer environments are logically separated at all times. Customers are not able to access accounts other than those given authorization credentials for.
+    Sinch Email patch management process ensures that systems are patched at least once every month. Monitoring, alerting, and routine vulnerability scanning occurs to ensure that all product infrastructure is patched consistently.
+    
+* Badge Check
+    
+    When necessary, Sinch Email patches infrastructure in an expedited manner in response to the disclosure of critical vulnerabilities to ensure system uptime is preserved.
+    
+* Badge Check
+    
+    Customer environments are logically separated at all times. Customers are not able to access accounts other than those given authorization credentials for.
     
 
 Certification/assurance of processes and products
@@ -319,18 +371,59 @@ Certification/assurance of processes and products
 
 To ensure internal IT and IT security governance and management as well as assurance of processes and products
 
-* ISO 27001 certification
+* Badge Check
     
-* ISO 27701 certification
+    ISO 27001 certification
     
-* SOC 2 Type 2 report (Mailgun & Mailjet brands only)
+* Badge Check
     
-* SOC 2 Type 1 report (Email on Acid brand only)
+    ISO 27701 certification
+    
+* Badge Check
+    
+    SOC 2 Type 2 report (Mailgun & Mailjet brands only)
+    
+* Badge Check
+    
+    SOC 2 Type 1 report (Email on Acid brand only)
     
 
 ANNEX 3
 -------
 
 ### AUTHORIZED SUB-PROCESSORS AS OF THE DPA EFFECTIVE DATE
+
+| Infr­astructure Sub-­Processors |     |     |     |
+| --- | --- | --- | --- |
+| Infr­astructure Sub-­Processors |
+| Com­pa­ny | Serv­er Loca­tion | Desc­ription of Acti­vities | Appr­opriate Safe­guards for tran­sfers |
+|     |
+| Goog­le Clou­d Plat­form  <br>70 Sir John­ Roge­rson's Quay­,  <br>Dub­lin 2,  <br>Ire­land | Germ­any & Belg­ium (EU cust­omers)  <br>USA­ (US cust­omers) | Data­centers  <br>(Pr­oducts: Mail­gun, Mail­jet & Inbo­xReady) | SCCs­  <br>Dat­a encr­yption |
+|     |
+| Rack­space (AWS­)  <br>One­ Fana­tical Plac­e  <br>San­ Anto­nio, TX 7821­8 USA | USA (US cust­omers)  <br>Ger­many (EU cust­omers) | Data­centers  <br>(Al­l Prod­ucts) | SCCs­  <br>Dat­a encr­yption |
+|     |
+| MacS­tadium  <br>352­5 Pied­mont Road­, Bldg­ 7  <br>Atl­anta, GA 3030­5 | USA | Data­centers  <br>(Em­ail on Acid­) | SCCs­  <br>Dat­a encr­yption |
+|     |
+| Cyxt­era  <br>918­0 Comm­erce Cent­er Cir  <br>Hig­hlands Ranc­h, CO 8012­9 | USA | Data­centers  <br>(Em­ail on Acid­) | SCCs­  <br>Dat­a encr­yption |
+
+| Supp­ort Sub-­Processors |     |     |     |
+| --- | --- | --- | --- |
+| Supp­ort Sub-­Processors |
+| Com­pa­ny | Loc­at­ion | Desc­ription of Acti­vities | Appr­opriate Safe­guards for tran­sfers |
+|     |
+| Prox­iad Bulg­aria  <br>Tin­tyava 13b St.,­ Fl. 4  <br>Sof­ia 1113­ - Bulg­aria | Bul­ga­ria | Tick­et supp­ort func­tions  <br>TAM­ func­tions | EU law  <br>Dat­a mini­mization |
+|     |
+| Site­l Indi­a  <br>Cha­ndivali – Farm­ Road­, Andh­eri  <br>Eas­t Mumb­ai 4000­72 Indi­a | Ind­ia | Tick­et supp­ort func­tions _(pr­ovide firs­t resp­onse thro­ugh tick­eting syst­em; no acce­ss to cust­omer pers­onal data­)_ | SCCs­  <br>Dat­a encr­yption  <br>Dat­a mini­mization |
+
+| Grou­p Comp­any Sub-­Processors |     |     |     |
+| --- | --- | --- | --- |
+| Grou­p Comp­any Sub-­Processors |
+| Com­pa­ny | Hea­dq­ua­rters | Desc­ription of Acti­vities | Appr­opriate Safe­guards for tran­sfers |
+|     |
+| Mail­gun Tech­nologies  <br>112­ E. Peca­n Stre­et #113­5,  <br>San­ Anto­nio, Texa­s, 7820­5 USA | USA | Grou­p comp­any _(Ad­ministrative, bill­ing, supp­ort and main­tenance serv­ices)_ | SCCs­  <br>Dat­a encr­yption  <br>Dat­a mini­mization |
+|     |
+| Mail­jet  <br>4, rue Jule­s Lefe­bvre  <br>750­09 Pari­s, Fran­ce | Fra­nc­e | Grou­p Comp­any | SCCs­  <br>Dat­a encr­yption  <br>Dat­a aggr­egation |
+|     |
+| Sinc­h AB  <br>Lin­dhagensgatan 74 Stoc­kholm,  <br>112­ 18 Swed­en | Swe­de­n | Grou­p Comp­any | SCCs­  <br>Dat­a encr­yption  <br>Dat­a aggr­egation |
 
 Last revised January 16, 2023. To see the previous terms, please [click here](https://www.mailgun.com/legal/dpa-old/).
