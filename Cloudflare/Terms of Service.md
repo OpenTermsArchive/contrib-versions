@@ -1,7 +1,7 @@
 Cloudflare Self-Serve Subscription Agreement
 ============================================
 
-Last Updated May 9, 2024
+Last Updated December 3, 2024
 
 PLEASE READ THE FOLLOWING CAREFULLY AS IT AFFECTS YOUR LEGAL RIGHTS. THIS AGREEMENT CONTAINS PROVISIONS REQUIRING THAT YOU AGREE TO THE USE OF ARBITRATION TO RESOLVE ANY DISPUTES ARISING UNDER THIS AGREEMENT RATHER THAN A JURY TRIAL OR ANY OTHER COURT PROCEEDINGS, AND TO WAIVE YOUR PARTICIPATION IN CLASS ACTION OF ANY KIND AGAINST CLOUDFLARE.
 
@@ -41,9 +41,11 @@ Unless otherwise expressly permitted in writing by Cloudflare, you will not and 
 
 (g) reverse engineer the Services;
 
-(h) process or collect personal or business credit card information on any web property that is receiving Free Services (as defined below); or
+(h) process or collect personal or business credit card information on any web property that is receiving Free Services (as defined below);
 
-(i) use the Services to store or transmit any “protected health information” as that term is defined in 45 C.F.R. 160.103 without Cloudflare’s written consent.
+(i) use the Services to store or transmit any “protected health information” as that term is defined in 45 C.F.R. 160.103 without Cloudflare’s written consent; or
+
+(j) use the Services to provide a virtual private network or other similar proxy services.
 
 ### 2.2.2 Benchmarking
 
