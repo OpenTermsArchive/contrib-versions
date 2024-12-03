@@ -16,6 +16,17 @@ Customer will follow these guidelines when sending emails using the Service:
 
 **1a** – All email sending metrics to remain within Sinch Email’s thresholds:
 
+| Stat­istic Thre­sholds | Acce­ptable leve­ls\* | Addi­tional deta­ils |
+| --- | --- | --- |
+| Stat­istic Thre­sholds |
+| Bou­nc­es | ≤ 5% | Calc­ulated on the numb­er of mess­ages that­ have­ boun­ced |
+| Acce­ptable leve­ls\* |
+| Uns­ub­sc­ribes | ≤ 1.4%­ | or 1% if unsu­bs > clic­ks |
+| Addi­tional deta­ils |
+| Spam­ Comp­laints | ≤ 0.08­% | Calc­ulated on the numb­er of mess­ages that­ have­ been­ repo­rted as spam­ |
+|     |
+| Blo­ck­s | <20% | Calc­ulated on the numb­er of mess­ages that­ have­ been­ bloc­ked |
+
 \*Sinch Email reserves the right to update the parameters of the acceptable sending threshold without prior notice.
 
 **1b** – Acquiring or sending to a third-party mailing list is prohibited. Use of contact lists that are bought, rented or scraped from third-parties is prohibited by law in most countries, and is absolutely prohibited on Sinch Email servers.
@@ -50,19 +61,33 @@ You may not use our platform or Services to engage in, foster, or promote illega
 
 You may not publish, transmit or store on or via the Services any content or links to any content that Sinch Email reasonably believes is illegal, harmful, unwanted, or otherwise poses a threat to the public. Moreover and unless the sender gives us sufficient and specific guarantees at our sole discretion, we do not work in principle with senders who promote the following activities or sends content, whether permitted by law or not, that includes the following, but is not limited to:
 
-* Any payday loans, debt collection agencies, affiliate marketing, or anything that can be considered abusive or dishonest;
+* Badge Check
     
-* Any gambling activity in violation of any required licenses, codes of practice, or necessary technical standards required under the laws or regulations of any jurisdiction in which your site is hosted or accessed;
+    Any payday loans, debt collection agencies, affiliate marketing, or anything that can be considered abusive or dishonest;
     
-* Constitutes, depicts, fosters, promotes or relates in any manner to child pornography, bestiality, non-consensual sex acts, or otherwise unlawfully exploits persons under 18 years of age;
+* Badge Check
     
-* Publish, transmit or store any content or links to any content that is excessively violent, incites violence, threatens violence, contains harassing content or hate speech, creates a risk to a person’s safety or health, or public safety or health, compromises national security or interferes with an investigation by law enforcement;
+    Any gambling activity in violation of any required licenses, codes of practice, or necessary technical standards required under the laws or regulations of any jurisdiction in which your site is hosted or accessed;
     
-* Is unfair or deceptive under the consumer protection laws of any jurisdiction, including chain letters and pyramid schemes;
+* Badge Check
     
-* Is defamatory or violates a person’s privacy; or
+    Constitutes, depicts, fosters, promotes or relates in any manner to child pornography, bestiality, non-consensual sex acts, or otherwise unlawfully exploits persons under 18 years of age;
     
-* Is otherwise malicious, fraudulent, morally repugnant.
+* Badge Check
+    
+    Publish, transmit or store any content or links to any content that is excessively violent, incites violence, threatens violence, contains harassing content or hate speech, creates a risk to a person’s safety or health, or public safety or health, compromises national security or interferes with an investigation by law enforcement;
+    
+* Badge Check
+    
+    Is unfair or deceptive under the consumer protection laws of any jurisdiction, including chain letters and pyramid schemes;
+    
+* Badge Check
+    
+    Is defamatory or violates a person’s privacy; or
+    
+* Badge Check
+    
+    Is otherwise malicious, fraudulent, morally repugnant.
     
 
 4) Excessive Use of Shared or Free System Resources
