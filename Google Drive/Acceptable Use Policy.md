@@ -239,4 +239,4 @@ Google Drive allows you to store, share and stream video content, but should not
 
 Translations of our policies are provided for your convenience. If there is a conflict between the text of this policy and the text of the English-language version of the policy, the text of the English-language version of the policy will take precedence. 
 
-**Important**: This article refers to [Vids](https://docs.google.com/videos/u/0/), a product available for selected users to test in alpha and in Google Workspace Labs. It's an invite-only programme for users to try new AI features. Users with Vids access can invite Workspace account users to find, edit and collaborate on a video. Workspace Labs is currently available to trusted testers in English and may not be available in your country or region.
+Learn about [Google Vids availability](https://support.google.com/docs/answer/15609411).
