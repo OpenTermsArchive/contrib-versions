@@ -44,11 +44,11 @@
         * [Your rights as a Data Subject](#brazil-rights-as-data-subject)
 * [Summary of Recent Changes](#change-summary)
 
-Effective Date: November 6, 2024
+Effective Date: December 2, 2024
 
 [Summary of Recent Changes](#change-summary)
 
-You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/20961293738004). 
+You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/20961293738004).
 
 1. Welcome to the Roblox Privacy Policy
     
@@ -197,11 +197,11 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     We might ask for your email to verify your identity or enable additional features. The main reason we need an email address is for security because it is how we check to make sure accounts are authentic. You can change your email address anytime you want – if an email address is changed, we’ll send a notification email to the address that you used before.
     
-    If you have a 13+ account and change your birthday to indicate you are under age 13, Roblox will save a hash of your email address and delete any email addresses previously collected from you immediately afterwards. This hash cannot be reconstructed back into your email address or used to contact you, and will only be used to authenticate you in the future.
+    If you have a 13+ account and change your birthday to indicate you are under age 13, Roblox will save a hash of your email address and any email addresses previously collected from you. This hash cannot be reconstructed back into your email address or used to contact you, and will only be used to authenticate you in the future.
     
     Sharing your phone number
     
-    If you choose to give a phone number, we’ll send you a text message asking you to confirm your number before you can log in. We will use your phone number for security and account access, including to recover a lost or forgotten password or log in via mobile. You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Roblox or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud.
+    If you choose to give a phone number, we’ll send you a text message asking you to confirm your number before you can log in. We will use your phone number for security and account access, including to recover a lost or forgotten password, access a feature, or log in via mobile. You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Roblox or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud.
     
     Additionally, with your explicit and informed consent, we may use your phone number to recommend you as a friend to others using Roblox. You will be recommended with your contact name as stored on your friends’ devices, which may also include your real name. If you do not want us to use your phone number to be found by your friends on Roblox, please do not activate this feature or deactivate it at any time. Please note that the Discoverability feature may not be available in certain locations.
     
@@ -460,7 +460,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     * Account integrity and security services (e.g., Veriff, Persona, Arkose Labs);
     * Analytics services (e.g., Google LLC);
     * User acquisition services (e.g., AppsFlyer);
-    * Community filtering and moderation services (e.g., CommunitySift);
+    * Community filtering and moderation services;
     * Customer support services (e.g., Zendesk);
     * Surveys and promotions (e.g., Reach3);
     * Social media log-in services (e.g., SAP Customer Data Cloud);
@@ -672,7 +672,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     * Account Integrity and Security (e.g., Veriff, Persona, Arkose Labs);
     * Analytics services (e.g., Google LLC);
     * User Acquisition services (e.g., AppsFlyer);
-    * Community filtering and moderation services (e.g., CommunitySift);
+    * Community filtering and moderation services;
     * Customer support services (e.g., Zendesk);
     * Surveys and promotions (e.g., Reach3);
     * Social Media Log-in (e.g., SAP Customer Data Cloud);
@@ -793,7 +793,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     * Account Integrity and Security (e.g., Veriff, Persona, Arkose Labs);
     * Analytics services (e.g., Google LLC);
     * User Acquisition services (e.g., AppsFlyer);
-    * Community filtering and moderation services (e.g., CommunitySift);
+    * Community filtering and moderation services;
     * Customer support services (e.g., Zendesk);
     * Surveys and promotions (e.g., Reach3);
     * Social Media Log-in (e.g., SAP Customer Data Cloud);
@@ -847,5 +847,5 @@ Summary of Recent Changes
 * We have added information about the data that is processed when users elect to receive personalized ads on Roblox.
 * We added information about data processing relating to Roblox Commerce.
 
-Effective Date: November 6, 2024  
-Last Updated: November 6, 2024
+Effective Date: December 2, 2024  
+Last Updated: December 2, 2024
