@@ -1,5 +1,3 @@
-_Our new Privacy Policy comes into effect on 04 December 2024. Click_ [here](https://www.tiktok.com/legal/privacy-policy-eea-archive) _to view our current Privacy Policy._
-
 Effective Date: _04 December 2024_
 
   
@@ -34,7 +32,7 @@ We collect your information in three ways: [Information You Provide](#info-you-p
 * **Usage Information.** We collect information about how you engage with the Platform, including information about how you interact with content and ads, the duration and frequency of your use, your engagement with other users, and your search history.
 * **Content Characteristics and Features.** We detect and collect characteristics and features about the videos, images, and audio recordings that are part of your [User Content](#user-content), for example, by identifying objects and scenery, the existence or location within an image of a face or other body parts; and the text of words spoken in your [User Content](#user-content). We do this, for example, for content moderation and to provide special effects (such as video filters and avatars) and captions.
 * **Inferred Information.** We infer your attributes (such as age-range and gender) and interests based on the information we have about you. We use inferences, for example, to keep the Platform safe (such as for content moderation), to show you relevant information, and, where permitted, to serve you personalised ads based on your interests.
-* **Cookies.** We use cookies and similar tracking technologies to operate and provide the Platform. For example, we use cookies to remember your language preferences, make sure you don’t see the same video more than once, and for security purposes. We also use these technologies for marketing purposes. To learn more about our use of cookies, please see our [Cookie Policy](https://www.tiktok.com/legal/tiktok-website-cookies-policy). We will obtain your consent to our use of cookies where required by law.
+* **Cookies.** We use cookies and similar tracking technologies to operate and provide the Platform. For example, we use cookies to remember your language preferences, make sure you don’t see the same video more than once, and for security purposes. We also use these technologies for marketing purposes. To learn more about our use of cookies, please see our [Cookie Policy](https://www.tiktok.com/legal/page/global/tiktok-website-cookies-policy). We will obtain your consent to our use of cookies where required by law.
 
 ### **Information From Other Sources**
 
@@ -180,7 +178,7 @@ We use your information where this is necessary to achieve legitimate interests 
 
 **Facilitate independent research.**
 
-* We share your information with independent researchers to facilitate research that meets certain criteria, including where such researchers have demonstrable experience and expertise in their area. Click [here](https://developers.tiktok.com/doc/about-research-api/) to learn more
+* We share your information with independent researchers to facilitate research that meets certain criteria, including where such researchers have demonstrable experience and expertise in their area. Click [here](https://www.tiktok.com/legal/page/global/privacy-data-sharing-with-researchers/en) to learn more
 * **Legitimate Interest relied upon**: To facilitate independent research that aims to develop society’s collective knowledge, including in the areas of misinformation and disinformation, violence, cybercrime, and social trends.
 * **Information used**: [Information You Provide](#info-you-provide) and [Automatically Collected Information](#auto-collect-info).
 
