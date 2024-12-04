@@ -103,92 +103,92 @@
 * [Indices](https://indices.coindesk.com/indices)
 * [Consensus](https://consensus.coindesk.com/)
 
-[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-hbpvg6a0r-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75)](https://www.coindesk.com/)
+[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-j8qcsuw08-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75&dpl=dpl_b2keUxFJH9WBfZCPvVhrrezrJeVA)](https://www.coindesk.com/)
 
 * [Sponsored](https://www.coindesk.com/sponsored-content)
 * [Sign Up](https://www.coindesk.com/api/auth/login?returnTo=/privacy)
 
 [BTC
 
-95,622.13
+96,579.93
 
-+1.09%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
++0.29%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
 
-3,573.77
+3,683.54
 
-+0.08%](https://www.coindesk.com/price/ethereum "View price details")[XRP
++0.68%](https://www.coindesk.com/price/ethereum "View price details")[XRP
 
-2.55
+2.61
 
-\-1.79%](https://www.coindesk.com/price/xrp "View price details")[USDT
-
-1.00
-
-+0.03%](https://www.coindesk.com/price/tether "View price details")[SOL
-
-224.16
-
-+1.34%](https://www.coindesk.com/price/solana "View price details")[BNB
-
-659.14
-
-+4.63%](https://www.coindesk.com/price/binance-coin "View price details")[DOGE
-
-0.40572306
-
-\-1.38%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
-
-1.20
-
-+2.86%](https://www.coindesk.com/price/cardano "View price details")[USDC
+\-4.35%](https://www.coindesk.com/price/xrp "View price details")[USDT
 
 1.00
 
-+0.02%](https://www.coindesk.com/price/usd-coin "View price details")[STETH
++0.04%](https://www.coindesk.com/price/tether "View price details")[SOL
 
-3,575.77
+238.15
 
-+0.20%](https://www.coindesk.com/price/steth "View price details")[TRX
++4.51%](https://www.coindesk.com/price/solana "View price details")[BNB
 
-0.27654786
+763.33
 
-+33.55%](https://www.coindesk.com/price/tron "View price details")[AVAX
++16.45%](https://www.coindesk.com/price/binance-coin "View price details")[DOGE
 
-50.37
+0.41903577
 
-+7.10%](https://www.coindesk.com/price/avax "View price details")[TON
+\-1.13%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
 
-6.64
+1.23
 
-+3.60%](https://www.coindesk.com/price/toncoin "View price details")[SHIB
+\-4.86%](https://www.coindesk.com/price/cardano "View price details")[USDC
 
-0.0₄27897
+1.00
 
-\-2.74%](https://www.coindesk.com/price/shiba-inu "View price details")[XLM
+\-0.00%](https://www.coindesk.com/price/usd-coin "View price details")[STETH
 
-0.50950083
+3,682.93
 
-\-3.90%](https://www.coindesk.com/price/xlm "View price details")[LINK
++0.70%](https://www.coindesk.com/price/steth "View price details")[TRX
 
-23.94
+0.40936246
 
-+9.17%](https://www.coindesk.com/price/chainlink "View price details")[WBTC
++77.10%](https://www.coindesk.com/price/tron "View price details")[AVAX
 
-95,520.92
+52.73
 
-+0.99%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[HBAR
++0.96%](https://www.coindesk.com/price/avax "View price details")[TON
 
-0.33402396
+7.05
 
-+20.10%](https://www.coindesk.com/price/hbar "View price details")[SUI
++5.30%](https://www.coindesk.com/price/toncoin "View price details")[SHIB
 
-3.73
+0.0₄29974
 
-+17.33%](https://www.coindesk.com/price/sui "View price details")[BCH
++1.38%](https://www.coindesk.com/price/shiba-inu "View price details")[XLM
 
-533.78
+0.51580408
 
-+5.64%](https://www.coindesk.com/price/bitcoin-cash "View price details")
+\-6.97%](https://www.coindesk.com/price/xlm "View price details")[LINK
+
+24.21
+
+\-3.04%](https://www.coindesk.com/price/chainlink "View price details")[WBTC
+
+96,285.33
+
++0.27%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[HBAR
+
+0.32937676
+
+\-6.59%](https://www.coindesk.com/price/hbar "View price details")[BCH
+
+572.30
+
++5.10%](https://www.coindesk.com/price/bitcoin-cash "View price details")[SUI
+
+3.70
+
++8.16%](https://www.coindesk.com/price/sui "View price details")
 
 Privacy
 =======
