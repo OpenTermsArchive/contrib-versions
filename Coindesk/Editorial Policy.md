@@ -103,92 +103,92 @@
 * [Indices](https://indices.coindesk.com/indices)
 * [Consensus](https://consensus.coindesk.com/)
 
-[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-j8qcsuw08-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75&dpl=dpl_b2keUxFJH9WBfZCPvVhrrezrJeVA)](https://www.coindesk.com/)
+[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-kuw57mqld-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75&dpl=dpl_AzEybsZa7UxbLLfHgQBPxjQBYRd8)](https://www.coindesk.com/)
 
 * [Sponsored](https://www.coindesk.com/sponsored-content)
 * [Sign Up](https://www.coindesk.com/api/auth/login?returnTo=/ethics)
 
 [BTC
 
-96,579.93
+95,679.39
 
-+0.29%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
+\-0.28%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
 
-3,683.54
+3,820.61
 
-+0.68%](https://www.coindesk.com/price/ethereum "View price details")[XRP
++6.74%](https://www.coindesk.com/price/ethereum "View price details")[XRP
 
-2.61
+2.44
 
-\-4.35%](https://www.coindesk.com/price/xrp "View price details")[USDT
-
-1.00
-
-+0.04%](https://www.coindesk.com/price/tether "View price details")[SOL
-
-238.15
-
-+4.51%](https://www.coindesk.com/price/solana "View price details")[BNB
-
-763.33
-
-+16.45%](https://www.coindesk.com/price/binance-coin "View price details")[DOGE
-
-0.41903577
-
-\-1.13%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
-
-1.23
-
-\-4.86%](https://www.coindesk.com/price/cardano "View price details")[USDC
+\-6.71%](https://www.coindesk.com/price/xrp "View price details")[USDT
 
 1.00
 
-\-0.00%](https://www.coindesk.com/price/usd-coin "View price details")[STETH
++0.02%](https://www.coindesk.com/price/tether "View price details")[SOL
 
-3,682.93
+230.10
 
-+0.70%](https://www.coindesk.com/price/steth "View price details")[TRX
++2.17%](https://www.coindesk.com/price/solana "View price details")[BNB
 
-0.40936246
+735.06
 
-+77.10%](https://www.coindesk.com/price/tron "View price details")[AVAX
++10.78%](https://www.coindesk.com/price/binance-coin "View price details")[DOGE
 
-52.73
+0.41058895
 
-+0.96%](https://www.coindesk.com/price/avax "View price details")[TON
++0.54%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
 
-7.05
+1.18
 
-+5.30%](https://www.coindesk.com/price/toncoin "View price details")[SHIB
+\-2.61%](https://www.coindesk.com/price/cardano "View price details")[USDC
 
-0.0₄29974
+1.00
 
-+1.38%](https://www.coindesk.com/price/shiba-inu "View price details")[XLM
+\-0.01%](https://www.coindesk.com/price/usd-coin "View price details")[STETH
 
-0.51580408
+3,817.03
 
-\-6.97%](https://www.coindesk.com/price/xlm "View price details")[LINK
++6.65%](https://www.coindesk.com/price/steth "View price details")[TRX
 
-24.21
+0.33181224
 
-\-3.04%](https://www.coindesk.com/price/chainlink "View price details")[WBTC
++17.70%](https://www.coindesk.com/price/tron "View price details")[AVAX
 
-96,285.33
+54.30
 
-+0.27%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[HBAR
++6.67%](https://www.coindesk.com/price/avax "View price details")[TON
 
-0.32937676
+6.94
 
-\-6.59%](https://www.coindesk.com/price/hbar "View price details")[BCH
++4.24%](https://www.coindesk.com/price/toncoin "View price details")[SHIB
 
-572.30
+0.0₄29694
 
-+5.10%](https://www.coindesk.com/price/bitcoin-cash "View price details")[SUI
++5.73%](https://www.coindesk.com/price/shiba-inu "View price details")[LINK
 
-3.70
+24.80
 
-+8.16%](https://www.coindesk.com/price/sui "View price details")
++3.06%](https://www.coindesk.com/price/chainlink "View price details")[XLM
+
+0.49617717
+
+\-4.26%](https://www.coindesk.com/price/xlm "View price details")[WBTC
+
+95,306.96
+
+\-0.36%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[BCH
+
+557.63
+
++3.93%](https://www.coindesk.com/price/bitcoin-cash "View price details")[HBAR
+
+0.28795428
+
+\-15.15%](https://www.coindesk.com/price/hbar "View price details")[SUI
+
+3.64
+
+\-4.14%](https://www.coindesk.com/price/sui "View price details")
 
 CoinDesk Ethics Policy
 ======================
@@ -196,13 +196,9 @@ CoinDesk Ethics Policy
 CoinDesk is the leading news publication covering the digital transformation of money in the 21st century. Our mission is to inform, educate and connect the global community of investors, innovators and users of cryptocurrencies, blockchains and other decentralized technologies. That includes everyone from sophisticated professionals to curious newcomers. Founded in 2013, we serve an audience of 5 million monthly website visitors, 15,000+ annual conference attendees, and 370,000+ newsletter subscribers.
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-_Last updated August 2024_
+_Last updated December 2024_
 
 **Editorial independence:** In November 2023, CoinDesk was [acquired](https://bullish.com/news-insights/news/bullish-acquires-coindesk-from-digital-currency-group/) by Bullish, which [also owns](https://www.sec.gov/Archives/edgar/data/1872195/000119312521363646/d180840df4a.htm#toc180840_30) an eponymous cryptocurrency exchange. Bullish's chairman is Brendan Blumer, who is also the CEO and co-founder of [Block.one](http://block.one/); both of his companies have interests in a variety of blockchain and crypto businesses and significant holdings of digital assets including bitcoin. ([Block.one](http://block.one/)'s portfolio companies are listed [here](https://b1.com/portfolio/).)
-
-CoinDesk's news team operates independently with an editorial committee to ensure journalistic independence.
-
-Neither Bullish nor any of its executives has any involvement in editorial or content decisions, and our journalists cover the parent company and its affiliates and investments without fear or favor.
 
 **Disclosure:** In the interest of transparency, all CoinDesk articles automatically include at the bottom a disclosure of our corporate ownership.
 
