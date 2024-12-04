@@ -36,53 +36,29 @@ You may not access or use the Service for any purpose other than that for which 
 As a user of the Service, you agree not to:
 
 1. Systematically retrieve data or other content from the Service to create or compile, directly or indirectly, a collection, compilation, database, or directory without written permission from us.
-    
 2. Make any unauthorized use of the Service, including collecting usernames and/or email addresses of users by electronic or other means for the purpose of sending unsolicited email, or creating user accounts by automated means or under false pretenses.
-    
 3. Circumvent, disable, or otherwise interfere with security-related features of the Service, including features that prevent or restrict the use or copying of any content or enforce limitations on the use of the Service and/or the content contained therein.
-    
 4. Engage in unauthorized framing of or linking to the Site.
-    
 5. Trick, defraud, or mislead us and other users, especially in any attempt to learn sensitive account information such as user passwords.
-    
 6. Make improper use of our support services or submit false reports of abuse or misconduct.
-    
 7. Engage in any automated use of the system, such as using scripts to send comments or messages, or using any data mining, robots, or similar data gathering and extraction tools.
-    
 8. Interfere with, disrupt, or create an undue burden on the Site or the networks or services connected to the Site.
-    
 9. Attempt to impersonate another user or person.
-    
 10. Use any information obtained from the Site in order to harass, abuse, or harm another person.
-    
 11. Use the Service as part of any effort to compete with us or otherwise use the Service and/or the content for any revenue-generating endeavor or commercial enterprise.
-    
 12. Decipher, decompile, disassemble, or reverse engineer any of the software comprising or in any way making up a part of the Site.
-    
 13. Harass, annoy, intimidate, or threaten any of our employees or agents engaged in providing any portion of the Service to you.
-    
 14. Attempt to bypass any measures of the Site designed to prevent or restrict access to the Site, or any portion of the Site.
-    
 15. Delete the copyright or other proprietary rights notice from any content.
-    
 16. Copy or adapt the Site’s software, including but not limited to Flash, PHP, HTML, JavaScript, or other code.
-    
 17. Upload or transmit (or attempt to upload or to transmit) viruses, Trojan horses, or other material, including excessive use of capital letters and spamming (continuous posting of repetitive text), that interferes with any party’s uninterrupted use and enjoyment of the Service or modifies, impairs, disrupts, alters, or interferes with the use, features, functions, operation, or maintenance of the Service.
-    
 18. Upload or transmit (or attempt to upload or to transmit) any material that acts as a passive or active information collection or transmission mechanism, including without limitation, clear graphics interchange formats (“gifs”), 1×1 pixels, web bugs, cookies, or other similar devices (sometimes referred to as “spyware” or “passive collection mechanisms” or “pcms”).
-    
 19. Except as may be the result of standard search engine or Internet browser usage, use, launch, develop, or distribute any automated system, including without limitation, any spider, robot, cheat utility, scraper, or offline reader that accesses the Site, or using or launching any unauthorized script or other software.
-    
 20. Disparage, tarnish, distribute hate speech/explicit content or otherwise harm, in our opinion, us, the Service and/or other users of the Service.
-    
 21. Copy, reproduce, distribute, publicly perform or publicly display all or portions of our Service, except as expressly permitted by us or our licensors.
-    
 22. Modify our Service, remove any proprietary rights notices or markings, or otherwise make any derivative works based upon our Service.
-    
 23. Infringe any patent, trademark, trade secret, copyright or other intellectual or proprietary right of the Foundation or any third party.
-    
 24. Use the Service in a manner inconsistent with any applicable laws or regulations.
-    
 
 **SITE MANAGEMENT**
 
@@ -98,7 +74,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Site for viola
 
 (a) **No Representative Actions. You and the Foundation agree that any dispute arising out of or related to this EULA or the Service is personal to you and the Foundation and that any dispute will be resolved solely through individual action, and will not be brought as a class arbitration, class action or any other type of representative proceeding.**
 
-(b) **Arbitration of Disputes. You and the Foundation** **waive your rights to a jury trial and to have any other dispute arising out of or related to this EULA and the Service, including claims related to privacy and data security, (collectively, “_Disputes_”) resolved in court**. Instead, for any Dispute that you have against the Foundation you agree to first contact the Foundation and attempt to resolve the claim informally by sending a written notice of your claim (“_Notice_”) to the Foundation by email at [operations@solana.foundation](mailto:operations@solana.foundation) or by certified mail addressed to Industriestrasse 47, 6300 Zug, Switzerland. The Notice must (a) include your name, residence address, email address, and telephone number; (b) describe the nature and basis of the Dispute; and (c) set forth the specific relief sought. Our notice to you will be similar in form to that described above. If you and the Foundation cannot reach an agreement to resolve the Dispute within thirty (30) days after such Notice is received, then either party may submit the Dispute to binding arbitration administered by JAMS or, under the limited circumstances set forth above, in court. All Disputes submitted to JAMS will be resolved through confidential, binding arbitration before one arbitrator. Arbitration proceedings will be held in Zug, Switzerland. You and the Foundation agree that Disputes will be held in accordance with the JAMS Streamlined Arbitration Rules and Procedures (“_JAMS Rules_”). The most recent version of the JAMS Rules are available on the [_JAMS website_](https://www.jamsadr.com/rules-streamlined-arbitration/) and are hereby incorporated by reference. You either acknowledge and agree that you have read and understand the JAMS Rules or waive your opportunity to read the JAMS Rules and waive any claim that the JAMS Rules are unfair or should not apply for any reason.
+(b) **Arbitration of Disputes. You and the Foundation** **waive your rights to a jury trial and to have any other dispute arising out of or related to this EULA and the Service, including claims related to privacy and data security, (collectively, “_Disputes_”) resolved in court**. Instead, for any Dispute that you have against the Foundation you agree to first contact the Foundation and attempt to resolve the claim informally by sending a written notice of your claim (“_Notice_”) to the Foundation by email at [operations@solana.foundation](mailto:operations@solana.foundation) or by certified mail addressed to Dammstrasse 16, 6300 Zug, Switzerland. The Notice must (a) include your name, residence address, email address, and telephone number; (b) describe the nature and basis of the Dispute; and (c) set forth the specific relief sought. Our notice to you will be similar in form to that described above. If you and the Foundation cannot reach an agreement to resolve the Dispute within thirty (30) days after such Notice is received, then either party may submit the Dispute to binding arbitration administered by JAMS or, under the limited circumstances set forth above, in court. All Disputes submitted to JAMS will be resolved through confidential, binding arbitration before one arbitrator. Arbitration proceedings will be held in Zug, Switzerland. You and the Foundation agree that Disputes will be held in accordance with the JAMS Streamlined Arbitration Rules and Procedures (“_JAMS Rules_”). The most recent version of the JAMS Rules are available on the [_JAMS website_](https://www.jamsadr.com/rules-streamlined-arbitration/) and are hereby incorporated by reference. You either acknowledge and agree that you have read and understand the JAMS Rules or waive your opportunity to read the JAMS Rules and waive any claim that the JAMS Rules are unfair or should not apply for any reason.
 
 (c) You and the Foundation agree that these Terms affect interstate commerce and that the enforceability of this Section will be substantively and procedurally governed by the Federal Arbitration Act, 9 U.S.C. § 1, _et seq_. (the “_FAA_”), to the maximum extent permitted by applicable law. As limited by the FAA, these Terms and the JAMS Rules, the arbitrator will have exclusive authority to make all procedural and substantive decisions regarding any Dispute and to grant any remedy that would otherwise be available in court, including the power to determine the question of arbitrability. The arbitrator may conduct only an individual arbitration and may not consolidate more than one individual’s claims, preside over any type of class or representative proceeding or preside over any proceeding involving more than one individual.
 
@@ -108,7 +84,7 @@ We reserve the right, but not the obligation, to: (1) monitor the Site for viola
 
 (f) **Any Dispute must be filed within one year after the relevant claim arose; otherwise, the Dispute is permanently barred, which means that you and the Foundation will not have the right to assert the claim.** \[\]{#h.35nkun2 .anchor}
 
-(g) **You have the right to opt out of binding arbitration within 30 days of the date you first accepted the terms of this Section by mailing an opt-out notice to the Foundation at Industriestrasse 47, 6300 Zug, Switzerland**. In order to be effective, the opt-out notice must include your full name and address and clearly indicate your intent to opt out of binding arbitration. By opting out of binding arbitration, you are agreeing to resolve Disputes in accordance with the governing law and venue terms of this EULA.
+(g) **You have the right to opt out of binding arbitration within 30 days of the date you first accepted the terms of this Section by mailing an opt-out notice to the Foundation at Dammstrasse 16, 6300 Zug, Switzerland**. In order to be effective, the opt-out notice must include your full name and address and clearly indicate your intent to opt out of binding arbitration. By opting out of binding arbitration, you are agreeing to resolve Disputes in accordance with the governing law and venue terms of this EULA.
 
 (h) If any portion of this Section is found to be unenforceable or unlawful for any reason, (a) the unenforceable or unlawful provision shall be severed from these Terms; (b) severance of the unenforceable or unlawful provision shall have no impact whatsoever on the remainder of this Section or the parties’ ability to compel arbitration of any remaining claims on an individual basis pursuant to this Section; and (c) to the extent that any claims must therefore proceed on a class, collective, consolidated, or representative basis, such claims must be litigated in a civil court of competent jurisdiction and not in arbitration, and the parties agree that litigation of those claims shall be stayed pending the outcome of any individual claims in arbitration. Further, if any part of this Section is found to prohibit an individual claim seeking public injunctive relief, that provision will have no effect to the extent such relief is allowed to be sought out of arbitration, and the remainder of this Section will be enforceable.
 
@@ -147,15 +123,10 @@ We will maintain certain data that you transmit to the Site for the purpose of m
 You agree and consent to receive disclosures and communications from us regarding our services (“_Communications_”), including, but not limited to:
 
 * Terms and conditions of service, and amendments thereto;
-    
 * Privacy policies and notices, and amendments thereto;
-    
 * Client agreements and receipts;
-    
 * Legal and regulatory disclosures and communications; and
-    
 * Customer service communications.
-    
 
 We may provide Communications to you by email or by making them accessible on the Site or through email (including via “hyperlinks” provided online and in emails). We may always, in our sole discretion, provide you with any Communication via paper.
 
