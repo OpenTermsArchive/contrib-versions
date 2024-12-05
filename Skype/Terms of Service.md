@@ -459,6 +459,7 @@ The following products, apps and services are covered by the Microsoft Services 
 * Microsoft Maths Solver
 * Microsoft Pay
 * Microsoft Pix
+* Microsoft Reading Coach
 * Microsoft Research Interactive Science
 * Microsoft Research Open Data
 * Microsoft Rewards
