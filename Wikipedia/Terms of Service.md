@@ -39,8 +39,8 @@ General
 * [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
 * [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=366676 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
-* [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
-* [Download QR code](https://foundation.wikimedia.org/w/index.php?title=Special:QrCode&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
+* [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlQ%C4%B1sald%C4%B1c%C4%B1s%C4%B1&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
+* [Download QR code](https://foundation.wikimedia.org/w/index.php?title=Special:QrKodu&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
 
 Print/export
 
@@ -504,7 +504,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 **Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.**
 
-![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&useformat=desktop)
+![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=0)
 
 Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=366676](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=366676)"
 
