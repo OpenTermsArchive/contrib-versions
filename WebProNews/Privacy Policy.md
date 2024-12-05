@@ -236,7 +236,7 @@ Reach our audience
 
 * [Advertising](https://www.webpronews.com/advertising)
 * [Client Library](https://www.webpronews.com/library)
-* [Newsletter Signup](https://control.ientry.com/subscribe/)
+* [Newsletter Signup](https://www.webpronews.com/subscribe)
 
 Publication Categories
 
