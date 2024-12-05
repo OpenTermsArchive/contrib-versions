@@ -1,12 +1,3 @@
-Your submission was sent successfully! [_Close_](#)
-
-Thank you for contacting us. A member of our team will be in touch shortly. [_Close_](#)
-
-You have successfully unsubscribed! [_Close_](#)
-
-Thank you for signing up for our newsletter!  
-In these regular emails you will find the latest updates about Ubuntu and upcoming events where you can meet our team.[_Close_](#)
-
 Data privacy
 ============
 
