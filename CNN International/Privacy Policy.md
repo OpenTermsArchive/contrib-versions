@@ -33,8 +33,8 @@ Our Privacy Policy explains what information we process when you use our product
 
 |     |     |     |     |
 | --- | --- | --- | --- |
-| English (U.S.) | [Privacy Policy](https://www.wbdprivacy.com/policycenter/b2c/en-us) | [Ad Choices](https://www.wbdprivacy.com/opt-out/) | [Legal Bases Chart](https://www.wbdprivacy.com/policycenter/legalbases/en-us) |
-| Español (U.S.) | [Política de Privacidad](https://www.wbdprivacy.com/policycenter/b2c/es-us) | [Elecciones de anuncios](https://www.wbdprivacy.com/opt-out/?lang=es) | [Cuadro de bases legales](https://www.wbdprivacy.com/policycenter/legalbases/es-us) |
+| English (U.S.) | [Privacy Policy](https://www.wbdprivacy.com/policycenter/b2c/en-us) | [Ad Choices](https://www.wbdprivacy.com/opt-out/) | [](https://www.wbdprivacy.com/policycenter/legalbases/en-us) |
+| Español (U.S.) | [Política de Privacidad](https://www.wbdprivacy.com/policycenter/b2c/es-us) | [Elecciones de anuncios](https://www.wbdprivacy.com/opt-out/?lang=es) | [](https://www.wbdprivacy.com/policycenter/legalbases/es-us) |
 
   
 
