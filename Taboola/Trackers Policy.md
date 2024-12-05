@@ -1,7 +1,7 @@
 TABOOLA COOKIE POLICY
 =====================
 
-Last Update: November 26th, 2024
+Last Update: December 4th, 2024
 
 Taboola, Inc. together with its Affiliates (“Taboola”, “we”, “us”, or “our”) recognizes the importance of your privacy. In this cookie policy (“Cookie Policy”), we aim to inform you about the use of cookies, and other automated means of data collection (1) on our website [www.taboola.com](https://www.taboola.com/),  and any other Taboola digital properties displaying this Cookie Policy (collectively, the “Sites”) and (2) via our content discovery platform (the “Services”), which appears on the websites and digital properties of our publisher customers to redistribute their own content or recommend the content of our advertiser customers (collectively, the “Customers”). When we refer to “cookies” in this Cookie Policy, we mean both cookies and other automated means of data collection, as defined below. By visiting the Sites and interacting with or using the Sites, you expressly consent to the use of cookies as explained hereafter. We ask our Customers to obtain consent on our behalf, where required by applicable data protection laws, so that we may use cookies and other automated means of data collection on their digital properties.
 
@@ -145,7 +145,7 @@ You can find more information about the individual first-party cookies used for 
 | trc\_cookie\_storage | Assigns a unique User ID used for attribution and reporting purposes. | Publisher’s Domain | 1 year |
 | Performance (Analytics) Cookies | abLdr | Supports routine technical and performance improvements for Taboola’s browser-based Services. | taboola.com | 3 hours |
 | abMbl | Supports routine technical and performance improvements for Taboola’s mobile SDK Services. | taboola.com | 3 hours |
-| Advertising (Targeting) Cookies | t\_gid | Assigns a unique, partitioned User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | taboola.com | 1 year |
+| Advertising (Targeting) Cookies | t\_gid | Assigns a unique, User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | taboola.com | 1 year |
 | t\_pid | Assigns a unique, partitioned User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | taboola.com | 1 year |
 | t\_pt\_gid | Assigns a unique User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | Publisher’s Domain | 1 year |
 | Local Storage | Local Storage:<br><br>taboola global:last-external | Used for attribution purposes to identify the referring website (i.e. the website that the user visited prior to arriving at the current website). | Publisher’s Domain | Local Storage (deleted when the user deletes it) |
@@ -168,14 +168,14 @@ You can find more information about the individual first-party cookies used for 
 | Implementation | Cookie Category | Cookie Name | Purpose | Domain | Expiry |
 | Full Javascript Implementation | Functionality Cookie | taboola\_session\_id | Creates a temporary session ID to avoid the display of duplicate recommendations on the page. | [trc.taboola.com](http://trc.taboola.com/) | Expires upon conclusion of a user session |
 | receive-cookie-deprecation | Indication of browser cookie deprecation. | [taboola.com](http://taboola.com/) | 1 year |
-| Targeting (Advertising Cookies) | t\_gid | Assigns a unique, partitioned User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | [taboola.com](http://taboola.com/) | 1 year |
+| Targeting (Advertising Cookies) | t\_gid | Assigns a unique, User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | [taboola.com](http://taboola.com/) | 1 year |
 | t\_pt\_gid | Assigns a unique User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | Advertiser Domain | 1 year |
 | Local Storage | taboola global:last-external-referrer | Used for attribution purposes to identify the referring website (i.e. the website that the user visited prior to arriving at the current website). | Advertiser Domain | Local Storage (deleted when the user deletes it) |
 | taboola global:local-storage-keys | Indication on which local storage entries were written by Taboola. | Advertiser Domain | Local Storage (deleted when the user deletes it) |
 | taboola global:user-id | Assigns a unique, partitioned User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | Advertiser Domain | Local Storage (deleted when the user deletes it) |
 | taboola global:tblci | Holds the last Taboola click id. | Advertiser Domain | Local Storage (deleted when the user deletes it) |
 | Image pixel implementation | Functionality Cookie | receive-cookie-deprecation | Indication of browser cookie deprecation. | [taboola.com](http://taboola.com/) | 1 year |
-| Advertising (Targeting) Cookie | t\_gid | Assigns a unique, partitioned User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | [taboola.com](http://taboola.com/) | 1 year |
+| Advertising (Targeting) Cookie | t\_gid | Assigns a unique, User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | [taboola.com](http://taboola.com/) | 1 year |
 | t\_pt\_gid | Assigns a unique User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | Advertiser Domain | 1 year |
 
 4\. How To Manage Cookies
