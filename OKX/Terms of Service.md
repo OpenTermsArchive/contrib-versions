@@ -1,8 +1,3 @@
-Terms of Service - EEA
-======================
-
-Published on May 9, 2024
-
 **Effective: May 9, 2024**
 
 Thank you for visiting OKX.com or the OKX app (the “**Site**”). The OKX services in the European Union (EU) and the European Economic Area (EEA) are provided to you by **OKcoin Europe LTD**, a Malta limited liability company registered in Malta and licensed by the Malta Financial Services Authority. If you are a resident of any operating location outside of the EEA, please click [here](https://www.okx.com/help/terms-of-service).
