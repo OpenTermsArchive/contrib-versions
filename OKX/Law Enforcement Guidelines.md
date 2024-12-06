@@ -1,8 +1,3 @@
-OKX Law Enforcement Request Guide
-=================================
-
-Published on Sep 11, 2023
-
 **Law Enforcement Request Guide**
 
 **Last Updated: September 10, 2024**
