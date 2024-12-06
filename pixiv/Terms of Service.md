@@ -1235,7 +1235,7 @@ Article 8. Royalties and Payments
 
 1. The Company will compensate Content Providers for the Print Products sold with a monetary amount (hereafter referred to as "Royalties") calculated using the Company's [designated method](https://fanbox-print.pixiv.help/hc/en-us/articles/35212037208729) depending on the number of Print Products sold by the Company through this service.
 2. "Sold by the Company" means Print Products sold through orders placed on this Service, and printed by pressing the purchase button on the multi-function printer and copy machine installed at a convenience store. Note that a purchase is counted only when the user actually presses the purchase button on the machine.
-3. Royalties will be the sum of each purchase from 0:00 on the first day of the month to 11:59 pm on the last day of the month. Information about the total number sold per content can be found on the Management Page. For more information on this, please click [here](https://fanbox-print.pixiv.help/hc/ja/articles/40561622395929).
+3. Royalties will be the sum of each purchase from 0:00 on the first day of the month to 11:59 pm on the last day of the month. Information about the total number sold per content can be found on the Management Page. For more information on this, please click [here](https://fanbox-print.pixiv.help/hc/en-us/articles/40561622395929).
 
 ### Payments
 
@@ -1280,7 +1280,7 @@ Article 10. Disclaimers and Company Responsibilities
 
 ### Handling of Personal Information
 
-The Company will appropriately handle personal information obtained from Content Providers according to the [Company's Privacy Policy](https://policies.pixiv.net/ja/privacy_policy.html).
+The Company will appropriately handle personal information obtained from Content Providers according to the [Company's Privacy Policy](https://policies.pixiv.net/en/privacy_policy.html).
 
 ### Disclaimers
 
