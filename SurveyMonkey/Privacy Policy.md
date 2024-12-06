@@ -3,14 +3,14 @@ Print this Page
 Privacy Notice
 ==============
 
-LAST UPDATED: November 7, 2024
+LAST UPDATED: December 5, 2024
 
 1\. Introduction
 ----------------
 
 1.1 Scope
 
-This Privacy Notice applies to all the products, services, websites and apps offered by SurveyMonkey Inc., SurveyMonkey Europe UC, SurveyMonkey Brasil Internet Ltda., SurveyMonkey Netherlands B.V., and other SurveyMonkey affiliates (collectively “SurveyMonkey”), except where otherwise noted. The services include SurveyMonkey, SurveyMonkey Apply, SurveyMonkey Audience, SurveyMonkey Rewards, SurveyMonkey Contribute, Wufoo, TechValidate, GetFeedback Direct, and GetFeedback Digital. We refer to those products, services, websites, and apps collectively as the “services” in this notice. Unless otherwise noted in your contract, our services are provided by SurveyMonkey Inc. inside of the United States, by SurveyMonkey Brasil Internet Ltda. inside of Brazil, and by SurveyMonkey Europe UC everywhere else.
+This Privacy Notice applies to all the products, services, websites and apps offered by SurveyMonkey Inc., SurveyMonkey Europe UC, SurveyMonkey Brasil Internet Ltda., SurveyMonkey Netherlands B.V., and other SurveyMonkey affiliates (collectively “SurveyMonkey”), except where otherwise noted. The services include SurveyMonkey, SurveyMonkey Apply, SurveyMonkey Audience, SurveyMonkey Rewards, SurveyMonkey Contribute, Wufoo, TechValidate, GetFeedback Direct, and GetFeedback Digital. We refer to those products, services, websites, and apps collectively as the “services” in this Privacy Notice. Unless otherwise noted in your contract, our services are provided by SurveyMonkey Inc. inside of the United States, by SurveyMonkey Brasil Internet Ltda. inside of Brazil, and by SurveyMonkey Europe UC everywhere else.
 
 US residents: Please visit our [Region Specific Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/?ut_source=legal&ut_source2=privacy&ut_source3=inline) for more information on our privacy practices specific to individual states. 
 
@@ -58,7 +58,7 @@ We collect usage information about you whenever you interact with our websites a
 
 **(e) Device and browser data.**
 
-We collect information from the device and application you use to access our services. Device data mainly means your IP address, operating system version, device type, device ID/MAC address, system and performance information, andbrowser type, and other device, network and browser signals. If you are on a mobile device we also collect the UUID for that device. We also infer your geographic location based on your IP address.
+We collect information from the device and application you use to access our services. Device data mainly means your IP address, operating system version, device type, device ID/MAC address, system and performance information, browser type, and other device, network and browser signals. If you are on a mobile device we also collect the UUID for that device. We also infer your geographic location based on your IP address.
 
 **(f) Event data.**
 
@@ -75,8 +75,9 @@ We collect information from third parties with whom SurveyMonkey enables integra
 **(i) Account information.**
 
 * **Registration information.**
-    * You need a SurveyMonkey account before you can use SurveyMonkey services. When you register for an account, we collect your first and last name, username, password and email address.Billing information.  
-        If you make a payment to SurveyMonkey, we require you to provide your billing details, a name, address, email address and financial information corresponding to your selected method of payment (e.g., a credit card number and expiration date or a bank account number). If you provide a billing address, we will regard that as the location of the account holder to determine the SurveyMonkey entity with whom you contract and the sales tax, if applicable, to be applied to your purchase.
+    * You need a SurveyMonkey account before you can use SurveyMonkey services. When you register for an account, we collect your first and last name, username, password and email address.
+* **Billing information.**
+    * If you make a payment to SurveyMonkey, we require you to provide your billing details, a name, address, email address and financial information corresponding to your selected method of payment (e.g., a credit card number and expiration date or a bank account number). If you provide a billing address, we will regard that as the location of the account holder to determine the SurveyMonkey entity with whom you contract and the sales tax, if applicable, to be applied to your purchase.
 * **Account settings.**
     * You can set various preferences and personal details on pages like your [account settings page](https://www.surveymonkey.com/user/account/?ut_source=legal&ut_source2=privacy&ut_source3=inline) (or on your account settings page for our other products as applicable). These may include, for example, your default language, time zone and communication preferences (e.g., opting in or out of receiving marketing communications from SurveyMonkey).
 
@@ -211,7 +212,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     * We use machine learning techniques on aggregated or de-identified survey questions and responses to understand usage and improve our services.
     
-    3.1.4 **Legal Obligation.**
+    3.1.4 **Legal obligation.**
     
     **(a)** To respond to legal requests, we may need to use and disclose information we hold about you. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.
     
@@ -292,7 +293,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     * We may infer your geographic location based on your IP address to produce aggregated data around Respondent location trends. We will use this information to compare and look at trends on how our service operates and how you interact with surveys, on different browsers and devices. Note: we do not collect precise (GPS) location.
     
-    **(d) Email Address.**
+    **(d) Email address.**
     
     * Depending on your geographic location, we may share your email address in hashed form with marketing vendors to present personalized advertisements such as display, videos, and content on the web or connected devices. You can opt out via [this portal](https://www.transparentadvertising.com/).
     
@@ -300,7 +301,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     * We may use information provided to our Customer Support, Customer Success, and Sales teams such as name, email, and message content to train machine learning models to better predict customer support question type, provide answers, generate insights about customer support trends, and to improve our Customer Support for our Customer. This data is de-identified where possible.
     
-    3.2.3 **Legal Obligation**
+    3.2.3 **Legal obligation**
     
     **(a)** To respond to legal requests, we may need to disclose information we hold about you. If we receive a subpoena or other legal request, we may need to inspect the data we hold to determine how to respond.
     
@@ -346,7 +347,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     * Any comments or content linked to you which you share if you are a guest invited to collaborate on a survey.
     
-    3.3.3 **Legitimate Interest**
+    3.3.3 **Legitimate Interest**s
     
     We also carry out the following processing for legitimate business interests pursued by us. We have undertaken to ensure that we place clear limitations on each of these uses so that your privacy is respected and only the information necessary to achieve these legitimate aims is used.
     
@@ -430,7 +431,7 @@ We do not share your information or data with third parties outside SurveyMonkey
 * To protect against harm to the rights, property or safety of our users, the public or to SurveyMonkey and/or as required or permitted by law; and
 * To facilitate a sale, merger or change in control of all or any part of our company or business or in preparation for any of these events.
 
-5\. Data Retention
+5\. Data retention
 ------------------
 
 If you are a Creator, we generally do not delete the data in your account as long as your account is active – you are responsible for and control the time periods for which you retain this data. You can read about this [here](https://help.surveymonkey.com/en/policy/surveymonkey-data/) for account use. Here are some exceptions: 
@@ -473,13 +474,13 @@ We have also provided a [help article](https://help.surveymonkey.com/en/policy/d
 
 **9.1** **EU-U.S. Data Privacy Framework (DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF Principles.**
 
-SurveyMonkey Inc. has self-certified its compliance under the EU-U.S. Data Privacy Framework, the UK Extension and the Swiss-U.S. DPF Principles. SurveyMonkey is committed to subjecting all personal information received from the European Union (EU) member countries, the United Kingdom, and Switzerland to the Framework’s applicable Principles. To learn more about the DPF, see [https://www.dataprivacyframework.gov/s](https://www.privacyshield.gov/).
+SurveyMonkey Inc. has self-certified its compliance under the EU-U.S. Data Privacy Framework, the UK Extension and the Swiss-U.S. DPF Principles. SurveyMonkey Inc. is committed to subjecting all personal information received from the European Union (EU) member countries, the United Kingdom, and Switzerland to the Framework’s applicable Principles. SurveyMonkey Inc. has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF. SurveyMonkey Inc. has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Notice and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework Program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-SurveyMonkey also complies with the onward transfer liability provisions of the DPF.
+SurveyMonkey Inc. also complies with the onward transfer liability provisions of the DPF.
 
-When SurveyMonkey receives personal information under the DPF and then transfers it to a third-party service provider acting as agent on SurveyMonkey's behalf, SurveyMonkey has certain liability under the DPF if both (i) the agent processes the information in a manner inconsistent with the DPF and (ii) SurveyMonkey is responsible for the event giving rise to the damage. In certain situations, SurveyMonkey may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+When SurveyMonkey Inc. receives personal information under the DPF and then transfers it to a third-party service provider acting as agent on SurveyMonkey Inc.'s behalf, SurveyMonkey Inc. has certain liability under the DPF if both (i) the agent processes the information in a manner inconsistent with the DPF and (ii) SurveyMonkey Inc. is responsible for the event giving rise to the damage. In certain situations, SurveyMonkey Inc. may be required to disclose Personal Data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-With respect to Personal Data received or transferred pursuant to the DPF, SurveyMonkey is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. Please contact SurveyMonkey as described in Section 11 below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at [https://www.jamsadr.com/dpf-dispute-resolution](https://www.jamsadr.com/dpf-dispute-resolution).
+With respect to Personal Data received or transferred pursuant to the DPF, SurveyMonkey Inc. is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. Please contact SurveyMonkey Inc. as described in Section 11 below if you have any concerns or complaints of any nature. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider, (free of charge) at [https://www.jamsadr.com/dpf-dispute-resolution](https://www.jamsadr.com/dpf-dispute-resolution).
 
 Under certain conditions, more fully described on the DPF website [https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf](https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
@@ -567,10 +568,10 @@ If you are a resident in the European Union and you are dissatisfied with how we
 
 We can make changes to the [Privacy Basics](https://www.surveymonkey.com/mp/legal/privacy-basics/?ut_source=legal&ut_source2=privacy&ut_source3=inline) and this Privacy Notice from time to time. We will identify the changes we have made on [this page](https://www.surveymonkey.com/mp/legal/updates-to-our-terms-and-policies/?ut_source=legal&ut_source2=privacy&ut_source3=inline). In circumstances where a change will materially change the way in which we collect or use your personal information or data, we will send a notice of this change to all of our account holders. 
 
-13\. Information specific to other services
--------------------------------------------
+13\. Privacy information specific to other services
+---------------------------------------------------
 
-ALTHOUGH THIS NOTICE APPLIES TO ALL OUR SERVICES, IF YOU ARE USING THE BELOW SERVICES PLEASE CLICK ON THE RELEVANT LINK TO BRING YOU DIRECTLY TO SERVICE SPECIFIC INFORMATION:
+Although this Privacy Notice applies to all our Services, some information may be specific to individual Services. Please see below for more information
 
 **13.1 **TechValidate****
 
