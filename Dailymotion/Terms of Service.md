@@ -7,7 +7,7 @@ If you want to access the main points of our Terms of Use in a simplified way, f
 
 **Your use of the Dailymotion Service implies your acceptance of these Terms of Use including the [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) and the [Data Protection Annex](https://legal.dailymotion.com/en/terms-of-use/#appendix-b-data-protection-annex) below (with the Standard Contractual Clauses incorporated therein). We ask You to read them carefully.**
 
-_Last update : December 2nd, 2024._
+_Last update : December 6th, 2024._
 
 ### **SECTION 1: DESCRIPTION OF THE DAILYMOTION SERVICE**
 
@@ -51,7 +51,7 @@ _Last update : December 2nd, 2024._
 
 3.1. For the entire period during which Your Content is hosted on the Dailymotion Service, You grant to Dailymotion the non-exclusive worldwide rights (unless You geoblock certain territories through Your Dailymotion Account), transferable to Dailymotion’s Affiliates, to reproduce, represent, stream, replay (including offline display without permanent download), exploit, exhibit, show, market, distribute and to technically modify and compress Your Content as is strictly necessary for the purposes of the viewing and/or streaming of Your Content on the Dailymotion Service.
 
-“**Affiliate**” means the other companies within the Vivendi group and the fully-owned subsidiaries of Dailymotion SA (now or in the future).
+“**Affiliate**” means any current or future company that controls, is controlled by, or is under common control with Dailymotion SA.
 
 3.2. By making Your Content accessible on the Dailymotion Service, You agree to allow any Visitors of the Dailymotion Service to view and to share Your Content through the Dailymotion Video Player on or through any declination of the Dailymotion Service, as accessible (online or offline) via any current or future device capable of distributing the Dailymotion Service by any means of access, including but not restricted to computers, smartphones, tablets, TV devices, IPTV platforms and/or game consoles free-of-charge. Furthermore, You acknowledge that Your Content and/or any videos uploaded onto the Dailymotion Service by third-parties (the “**Third-Party Video(s)**”) available for embedding through the Dailymotion Video Player when on the Dailymotion website (www.dailymotion.com) and/or when embedded elsewhere may include advertising.
 
