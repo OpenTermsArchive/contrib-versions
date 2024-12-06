@@ -1,8 +1,3 @@
-Privacy Notice Statement EEA
-============================
-
-Published on May 9, 2024
-
 Last updated: October 11, 2024
 
 **1\. INTRODUCTION**
