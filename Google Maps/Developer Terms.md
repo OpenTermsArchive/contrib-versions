@@ -1965,6 +1965,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Diputación Foral de Bizkaia: [https://www.opendatabizkaia.eus/es/info/aviso-legal](https://www.opendatabizkaia.eus/es/info/aviso-legal)
             
+        * Geo Euskadi: [https://www.geo.euskadi.eus/base-topografica-armonizada-a-escala-1-5-000-de-gobierno-vasco-bta/webgeo00-dataset/es/](https://www.geo.euskadi.eus/base-topografica-armonizada-a-escala-1-5-000-de-gobierno-vasco-bta/webgeo00-dataset/es/)
+            
     58. **Sweden**
         * © 2009 Cartesia GIS AB
             
@@ -2070,9 +2072,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         OCHA Regional Office for Asia and the Pacific (ROAP) ([https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode))
         
     63. **Turkey**
-        
-        © 2013 Basarsoft
-        
+        * © 2013 Basarsoft
+            
+        * Data Gov TW: [https://data.gov.tw/en/license](https://data.gov.tw/en/license)
+            
     64. **Turks and Caicos**
         
         © Salt Cay Devco Ltd.
@@ -2563,6 +2566,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         234. City of Austin: [https://data.austintexas.gov/stories/s/ranj-cccq](https://data.austintexas.gov/stories/s/ranj-cccq)
             
         235. Iowa DOT Open Data Portal: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        236. United States Census Burea: [https://www.census.gov/data/developers/about/terms-of-service.html](https://www.census.gov/data/developers/about/terms-of-service.html)
             
     68. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
