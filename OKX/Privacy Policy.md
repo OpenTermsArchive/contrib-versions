@@ -43,9 +43,13 @@ We collect information you provide during the OKX onboarding process, which may 
     
 * **Correspondence** **information** such as communications with our Customer Support team and responses to user surveys;
     
-* **Information required by regulatory agencies** such as state and federal licensing authorities and consumer protection agencies; and
+* **Information required by regulatory agencies** such as state and federal licensing authorities and consumer protection agencies;
     
-* **Other identifiers** such as device fingerprint data, IP address, and geolocation information.
+* **Other identifiers** such as device fingerprint data, IP address, and geolocation information;
+    
+* Information about **applications installed on your device and your device settings**, to better protect you against interference with your funds by verifying and alerting you if you have any suspicious or malicious applications on your device or if your device may have been jailbroken; and
+    
+* **Sampling rate sensors and external storage device** information and activities.
     
 
 We may also collect Personal Data about you from a third party, such as electronic verification services, referrers, marketing agencies, or liquidity providers. If so, we will take reasonable steps to ensure that they are made aware of applicable privacy laws. We may also use third parties to analyze traffic at the Site, which may involve the use of Cookies (please see the section below entitled “Cookie Usage” for more information). Information collected through such analysis is not anonymous.
