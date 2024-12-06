@@ -1,7 +1,7 @@
 Palantir's Privacy and Security Statement
 =========================================
 
-_Last updated May 2024_
+_Last updated December 2024_
 
 Who is Palantir?
 ----------------
