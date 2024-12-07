@@ -238,7 +238,7 @@ We will provide you with information on our decision for any policy violation en
 > 
 > > In order to help you provide a quality user experience and deliver attractive, professional-looking ads, we only allow ads that comply with specific requirements for each ad format. Review the requirements for all ad formats that you're using.
 > > 
-> > Note that we don't allow Non-family safe ads in image ads, video ads, and other non-text ad formats. Read more about our [Adult content policy](https://support.google.com/adspolicy/answer/6023699).
+> > We don't allow Non-family safe ads in image ads, video ads, and other non-text ad formats. Learn more about our [Sexual content](https://support.google.com/adspolicy/answer/6023699) policy.
 > > 
 > > Advertisers participating in beta programs of new ad formats should reach out to their Google Ads representatives or Google Ads customer support to learn about format-specific policy requirements.
 > > 
@@ -261,10 +261,5 @@ We will provide you with information on our decision for any policy violation en
 > ----------
 > 
 > If you have questions about our policies, [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
-> 
->   
-> 
-> Tell us what you think
-> ----------------------
 > 
 > Rate how helpful this page is and share your feedback with us below:
