@@ -1,4 +1,4 @@
-[Book a delivery by 17th December and we'll make sure you get everything you need to celebrate Christmas](https://www.ikea.com/ie/en/customer-service/services/delivery/)
+[Place your order for Click and collect by 22nd December, to collect before Christmas](https://www.ikea.com/ie/en/customer-service/services/click-collect/)
 
 Privacy policy
 ==============
