@@ -87,7 +87,7 @@ Other languages:
 * [Ripoarisch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ksh "Policy:Terms of Use/ksh (18% translated)")
 * [Runa Simi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/qu "Policy:Terms of Use/qu (5% translated)")
 * [Schweizer Hochdeutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-ch "Policy:Terms of Use/de-ch (0% translated)")
-* [Scots](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sco "Policy:Terms of Use/sco (4% translated)")
+* [Scots](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sco "Policy:Terms of Use/sco (5% translated)")
 * [Sesotho](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/st "Policy:Terms of Use/st (100% translated)")
 * [SiSwati](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ss "Policy:Terms of Use/ss (81% translated)")
 * [Sunda](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/su "Policy:Terms of Use/su (10% translated)")
