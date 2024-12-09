@@ -156,7 +156,7 @@ When using the Services, User must not engage in the conduct set forth in the fo
 8. Conduct in violation of the Act on Regulation of Stalking Conduct, making large numbers of telephone calls or telephone calls over an extended period of time or excessive and repeated inquiries of the same nature, transmitting large numbers of messages using a messaging function, or making demands regarding which there is no duty or which are baseless;
 9. Impersonation of another person;
 10. Conduct that is linked to or likely to be linked to fraud or other criminal behavior;
-11. Engaging in any of the following conduct in relation to the Posted Information data that constitutes constitutes obscenity, obscenity, child pornography, or child abuse in violation of laws, regulations, or other criteria established by the Company (referred to as “Improper Data”):
+11. Engaging in any of the following conduct in relation to the Posted Information data that constitutes obscenity, child pornography, or child abuse in violation of laws, regulations, or other criteria established by the Company (referred to as “Improper Data”):
     1. Issuing, posting, editing, or displaying Improper Data;
     2. Selling media that contains Improper Data; and
     3. Posting or displaying advertisements that allude to the transmission, display, or sale of media that contains Improper Data;
@@ -355,7 +355,7 @@ Article 24. Disclaimers
 -----------------------
 
 1. The Company will not participate in User communications and transactions, etc. Even in the event of a dispute between Users or between a User and a third party, the matter shall be resolved between the relevant Users or the User and third party, and the Company will not bear any responsibility whatsoever.
-2. In cases where the Company determines that it is necessary, the Company may, at its discretion and without the provision of notice to Users, modify, suspend, discontinue, or terminate the Services (including SDK and the like distributed by the Services, hereinafter in this Article 25 the same shall apply.) or delete or modify the particulars of the Services. In this case, the Company will not bear any liability to pay compensation or indemnification for any direct or indirect damage, losses, or other expenses (whether foreseeable or unforeseeable) incurred as a result of such modification, etc. of the Services.
+2. In cases where the Company determines that it is necessary, the Company may, at its discretion and without the provision of notice to Users, modify, suspend, discontinue, or terminate this Service and other individual Services (including SDK and the like distributed by individual Services, hereinafter in this Article 25 the same shall apply.) or delete or modify the particulars of this Service and other individual Services. In this case, the Company will not bear any liability to pay compensation or indemnification for any direct or indirect damage, losses, or other expenses (whether foreseeable or unforeseeable) incurred as a result of such modification, etc. of this Service and other individual Services.
 3. Even if provision of the Services is delayed, interrupted, etc. as a result of any of the reasons set forth below or other reasons, the Company will not bear any liability whatsoever for the resulting damage incurred by Users or other persons, except when specifically provided in these Terms of Use or Individual Terms of Use etc.
     1. Implementation of periodic or emergency maintenance to the Services’s equipment, etc.;
     2. Unavailability of the Services because of disaster, power outage, or the like;
@@ -450,6 +450,7 @@ Supplementary Provisions
 Revisions
 ---------
 
+* December 9, 2024: pixiv Novel was removed from "Article 2. Individual Agreements etc.", Table 1. "Article 24. Disclaimers", Section 2 was revised.
 * August 1, 2024: "Article 19: Use Fees" was updated, and "Article 19-2: Payment Procedures" was added.
 * April 25, 2024: “Article 2, Individual Agreements etc.”, Section 5 have been amended. “Article 7, Account Registration”, Section 4 added.
 * May 31, 2023: Item 14 of “Article 14: Prohibited Conduct” has been revised. The current Item 4 and Item 5 were newly added to “Article 14: Prohibited Conduct”.
