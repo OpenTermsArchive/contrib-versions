@@ -77,6 +77,15 @@ Our Privacy Policy explains what information we process when you use our product
 |     |     |     |     |
 | --- | --- | --- | --- |
 | English (Asia Pacific) | [Privacy Policy](https://www.wbdprivacy.com/policycenter/b2c/en-apac) | [Ad Choices](https://www.wbdprivacy.com/policycenter/b2c/en-apac#adchoices) | [Legal Bases Chart](https://www.wbdprivacy.com/policycenter/legalbases/en-apac) |
+| Filipino | [Patakaran sa Privacy](https://www.wbdprivacy.com/policycenter/b2c/tl) | [Ad Choices](https://www.wbdprivacy.com/policycenter/b2c/tl#adchoices) | [Chart ng mga legal na batayan](https://www.wbdprivacy.com/policycenter/legalbases/tl) |
+| हिन्दी \| Hindi | [उपभोक्ता संबंधी गोपनीयता नीति](https://www.wbdprivacy.com/policycenter/b2c/hi) | [विज्ञापन विकल्प।](https://www.wbdprivacy.com/policycenter/b2c/hi#adchoices) | [कानूनी आधारों का चार्ट](https://www.wbdprivacy.com/policycenter/legalbases/hi) |
+| Bahasa Indonesia \| Indonesian | [Kebijakan Privasi](https://www.wbdprivacy.com/policycenter/b2c/id) | [Pilihan iklan](https://www.wbdprivacy.com/policycenter/b2c/id#adchoices) | [Bagan dasar hukum](https://www.wbdprivacy.com/policycenter/legalbases/id) |
+| 日本語 (にほんご) \| Japanese | [消費者プライバシーポリシー](https://www.wbdprivacy.com/policycenter/b2c/ja) | [広告の選択](https://www.wbdprivacy.com/policycenter/b2c/ja#adchoices) | [法的根拠一覧表](https://www.wbdprivacy.com/policycenter/legalbases/ja) |
+| Bahasa Melayu \| Malaysian | [Dasar Privasi Pengguna](https://www.wbdprivacy.com/policycenter/b2c/ms) | [Pilihan iklan](https://www.wbdprivacy.com/policycenter/b2c/ms#adchoices) | [Carta asas undang-undang](https://www.wbdprivacy.com/policycenter/legalbases/ms) |
+| ไทย \| Thai | [นโยบายความเป็นส่วนตัวของผู้บริโภค](https://www.wbdprivacy.com/policycenter/b2c/th) | [ตัวเลือกโฆษณา](https://www.wbdprivacy.com/policycenter/b2c/th#adchoices) | [ตารางฐานในการประมวลผลข้อมูลส่วนบุคคล](https://www.wbdprivacy.com/policycenter/legalbases/th) |
+| 简体字 (Simplified Chinese) | [消费者隐私政策](https://www.wbdprivacy.com/policycenter/b2c/zh-hans) | [广告选择](https://www.wbdprivacy.com/policycenter/b2c/zh-hans#adchoices) | [法律依据表](https://www.wbdprivacy.com/policycenter/legalbases/zh-hans) |
+| 繁體字 (Traditional Chinese - Hong Kong) | [私隱政策](https://www.wbdprivacy.com/policycenter/b2c/zh-hk) | [廣告選擇](https://www.wbdprivacy.com/policycenter/b2c/zh-hk#adchoices) | [法律基礎圖表](https://www.wbdprivacy.com/policycenter/legalbases/zh-hk) |
+| 繁體字 (Traditional Chinese - Taiwan) | [隱私權政策](https://www.wbdprivacy.com/policycenter/b2c/zh-tw) | [廣告選擇](https://www.wbdprivacy.com/policycenter/b2c/zh-tw#adchoices) | [法律依據表](https://www.wbdprivacy.com/policycenter/legalbases/zh-tw) |
 
   
 
