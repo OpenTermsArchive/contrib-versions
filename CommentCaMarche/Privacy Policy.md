@@ -106,6 +106,8 @@ Note that proceeding with this deactivation prevents the display of all interest
 
 If you would like to read more about cookies on our sites’ social networks, we invite you to consult the documentation on the sites of our social editors: Google+: [https://support.google.com/accounts/answer/61416?hl=en](https://support.google.com/accounts/answer/61416?hl=en) Twitter: [https://help.twitter.com/en/safety-and-security/twitter-do-not-track](https://help.twitter.com/en/safety-and-security/twitter-do-not-track) LinkedIn: [https://www.linkedin.com/legal/cookie-policy](https://www.linkedin.com/legal/cookie-policy) Yahoo: [https://legal.yahoo.com/us/en/yahoo/privacy/topics/cookies/index.html](https://legal.yahoo.com/us/en/yahoo/privacy/topics/cookies/index.html) YouTube: [https://support.google.com/accounts/answer/61416?hl=en](https://support.google.com/accounts/answer/61416?hl=en) Facebook: [https://www.facebook.com/](https://www.facebook.com/) [https://magazinedelledonne.it/faq/11384-coma-cause-sintomi-e-trattamento](https://magazinedelledonne.it/faq/11384-coma-cause-sintomi-e-trattamento) [https://pl.ccm.net/contents/520-polityka-prywatnosci](https://pl.ccm.net/contents/520-polityka-prywatnosci)
 
+[](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9941-processing-of-personal-data-ccm/)[](https://twitter.com/intent/tweet?text=How+is+your+data+processed+by+CCM%3F%2C+par+dwebb%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9941-processing-of-personal-data-ccm%2F%20via%20@ccmnet)
+
 [CCM](https://ccm.net/apps-sites/internet-archeology/ccm/)
 ----------------------------------------------------------
 
