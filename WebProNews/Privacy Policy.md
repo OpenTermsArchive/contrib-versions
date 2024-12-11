@@ -221,6 +221,8 @@ Advertise with Us
 
 Get our media kit
 
+[Advertise with Us](https://www.webpronews.com/advertise/?utm_source=main_header&utm_medium=site&utm_campaign=advertise_page)
+
 About Us
 
 ![](https://www.webpronews.com/wp-content/themes/wpn_theme/imgs/wpn-cube.png)
