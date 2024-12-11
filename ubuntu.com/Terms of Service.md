@@ -257,7 +257,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [Your subscriptions](https://ubuntu.com/pro/dashboard)
 * [Account users](https://ubuntu.com/pro/users)
 * [Pricing](https://ubuntu.com/pricing/pro)
-* [Discourse](https://discourse.ubuntu.com/c/ubuntu-pro)
+* [Discourse](https://discourse.ubuntu.com/c/project/ubuntu-pro/116/)
 
 * * *
 
