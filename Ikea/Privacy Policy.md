@@ -1,4 +1,4 @@
-[Book a delivery by 17th December and we'll make sure you get everything you need to celebrate Christmas](https://www.ikea.com/ie/en/customer-service/services/delivery/)
+[Order by phone](https://www.ikea.com/ie/en/customer-service/shopping-at-ikea/personalised-shopping-assistance-over-the-phone-pub93f14e60/?itm_content=Menu&itm_element=Prop&itm_campaign=Nav_Phone)
 
 Privacy policy
 ==============
