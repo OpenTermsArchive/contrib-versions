@@ -27,7 +27,7 @@ You may also reach us at [privacy@palantir.com](mailto:privacy@palantir.com)_._
 
 _Data Controllers_
 
-Palantir is a global company made up of multiple entities that process personal data in the course of conducting our business. Depending on where you engage with us, the entity responsible as controller for the processing of your personal data under our Privacy Statement ("Statement") may vary. Palantir Technologies Inc. is the parent company of the group, but the data controller of your information may be one of its affiliates depending on how you interact with Palantir entities. If you visit a Palantir office or engage with an employee of a Palantir office outside of the US, the Palantir affiliate based in that country will be the relevant data controller of your personal data. For example, if you attend a Palantir event in our London office, Palantir Technologies UK, Ltd. would be the data controller of your personal data. To understand where Palantir has affiliates around the world, please see [here](https://www.palantir.com/Data-Protection-Affiliates). In this Statement, where we refer to “Palantir,” “we,” “our,” or “us,” we are referring to the relevant Palantir group entity that decides how and why your information is used.
+Palantir is a global company made up of multiple entities that process personal data in the course of conducting our business. Depending on where you engage with us, the entity responsible as controller for the processing of your personal data under this Statement may vary. Palantir Technologies Inc. is the parent company of the group, but the data controller of your information may be one of its affiliates depending on how you interact with Palantir entities. If you visit a Palantir office or engage with an employee of a Palantir office outside of the US, the Palantir affiliate based in that country will be the relevant data controller of your personal data. For example, if you attend a Palantir event in our London office, Palantir Technologies UK, Ltd. would be the data controller of your personal data. To understand where Palantir has affiliates around the world, please see [here](https://www.palantir.com/Data-Protection-Affiliates). In this Statement, where we refer to “Palantir,” “we,” “our,” or “us,” we are referring to the relevant Palantir group entity that decides how and why your information is used.
 
 Why should you read this Statement and what does it cover?
 ----------------------------------------------------------
@@ -108,11 +108,11 @@ _1\. To conduct our business operations and provide our products and services_:
         
     * Send communications relating to the product or service purchased;
         
-    * Provide you with our products and services including training or certification services; and
+    * Provide you with our products and services including training or certification services;
         
     * Fulfil our contract with you;
         
-    * Provide you with access to our AIP Now platforms an services.
+    * Provide you with access to our AIP Now platforms and services.
         
 * **To process financial transactions:** We use your information, including Contact Data, Communication Data, Payment Data and Transactional Data to process transactions and to provide you with Palantir products and services. When you make a payment on our website, our payment processor, Stripe, collects your Payment Data and Contact data directly from you. Palantir does not provide Payment Data to Stripe. As a result, Stripe is an independent controller of information provided in the course of using Stripe’s payment processing service on Palantir platforms. To understand how Stripe will process your information please see Stripe’s [privacy policy](https://stripe.com/gb/privacy) and Stripe’s [terms](https://stripe.com/gb/ssa).
     
@@ -169,9 +169,9 @@ Palantir may disclose or transfer personal information that we process as requir
 
 **Third Parties:** We disclose your personal data to third parties, including third party partners where applicable to:
 
-* verify your identify when signing up for AIP Now products and services;
+* Verify your identify when signing up for AIP Now products and services;
     
-* to provide payment processing services;
+* To provide payment processing services;
     
 * Provide the result of any training course or quiz you complete with us to your employer where you have taken part in training or certification as part of an employment requirement;
     
@@ -706,7 +706,7 @@ Request to Obtain a Copy: Where applicable ,you may request that we provide a co
 
 List of specific third parties: Oregon, Minnesota, and Delaware consumer may request a list of specific third parties to whom we have disclosed your Personal Data.
 
-Sensitive Information: For Virginia, New Hampshire, Colorado, Connecticut,Delaware, Nebraska, Utah, Texas, and Oregon consumers, we will not process your Sensitive Personal Information without obtaining your consent. California consumers will have the right, at any time, to limit the use of their Sensitive Personal Information. For California consumers, please visit “Limit the Use of My Sensitive Personal Information by submitting a form [here](https://www.palantir.com/privacy-and-security/data-request) or by emailing us at [ccpa-requests@palantir.com to exercise this right.](mailto:ccpa-requests@palantir.com%20to%20exercise%20this%20right.%20) These requests will be processed in accordance with Calfornia Consumer Privacy Act, as amended by the California Privacy Rights Act “CCPA”.
+Sensitive Information: For Virginia, New Hampshire, Colorado, Connecticut, Delaware, Nebraska, Utah, Texas, and Oregon consumers, we will not process your Sensitive Personal Information without obtaining your consent. California consumers will have the right, at any time, to limit the use of their Sensitive Personal Information. For California consumers, please visit “Limit the Use of My Sensitive Personal Information by submitting a form [here](https://www.palantir.com/privacy-and-security/data-request) or by emailing us at [ccpa-requests@palantir.com to exercise this right.](mailto:ccpa-requests@palantir.com%20to%20exercise%20this%20right.%20) These requests will be processed in accordance with Calfornia Consumer Privacy Act, as amended by the California Privacy Rights Act “CCPA”.
 
 Request to Opt-Out of the Sale or Sharing: Where applicable, you may opt out of our “sale” of Personal Information or “sharing” of Personal Information for the purposes of (i) targeted advertising, or (ii) “sale” of personal data. Opt-out preference signals will be processed in accordance with applicable laws.
 
