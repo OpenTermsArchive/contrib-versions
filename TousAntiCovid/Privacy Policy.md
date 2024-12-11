@@ -223,7 +223,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -462,7 +462,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -999,7 +999,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -1238,7 +1238,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -1749,7 +1749,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -1988,7 +1988,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -2445,7 +2445,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -2844,7 +2844,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -3243,7 +3243,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -3642,7 +3642,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -4041,7 +4041,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -4440,7 +4440,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -4725,7 +4725,7 @@ Retour
 * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
 
 * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-* [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+* [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
 * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
 * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
 * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -4905,7 +4905,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -5140,7 +5140,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -5375,7 +5375,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -5610,7 +5610,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -5845,7 +5845,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -6080,7 +6080,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -6315,7 +6315,7 @@ Recherche
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-            * [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+            * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
             * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
             * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
             * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
@@ -6533,7 +6533,7 @@ Retour
 * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
 
 * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
-* [Périnatalité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/perinatalite)
+* [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
 * [Personnes détenues - personnes placées sous main de justice](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/personnes-detenues-personnes-placees-sous-main-de-justice/)
 * [L’accès aux soins des personnes en situation de précarité](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/l-acces-aux-soins-des-personnes-en-situation-de-precarite-11421/)
 * [Santé des femmes](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/sante-des-femmes/)
