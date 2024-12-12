@@ -1,16 +1,14 @@
 General Terms and Conditions of Use
 ===================================
 
-[](https://ccm.net/account/nataliakudryavtseva-11754057)[Natalia Kudryavtseva](https://ccm.net/account/nataliakudryavtseva-11754057)  
-03/09/2023 13:46
+[](https://ccm.net/account/nataliakudryavtseva-11754057)[Natalia Kudryavtseva](https://ccm.net/account/nataliakudryavtseva-11754057) 03/09/2023 13:46
 
 General Terms and Conditions of Use
 ===================================
 
    ![General Terms and Conditions of Use](https://img-19.ccm.net/DHIPOk9Ypuf3HyVAyWrkYC4W1b0=/480x335/smart/fb370537ed49497384c46ade8ca32fea/ccmcms-enccm/38208810.jpg)
 
-[](https://ccm.net/account/nataliakudryavtseva-11754057)[Natalia Kudryavtseva](https://ccm.net/account/nataliakudryavtseva-11754057)  
-03/09/2023 13:46
+[](https://ccm.net/account/nataliakudryavtseva-11754057)[Natalia Kudryavtseva](https://ccm.net/account/nataliakudryavtseva-11754057) 03/09/2023 13:46
 
 [](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9909-general-terms-and-conditions-of-use/)[](https://twitter.com/intent/tweet?text=General+Terms+and+Conditions+of+Use%2C+par+NataliaKudryavtseva%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9909-general-terms-and-conditions-of-use%2F%20via%20@ccmnet)
 
@@ -137,6 +135,8 @@ Legal Jurisdiction
 ------------------
 
 French law applies to the content and data transmission on and related to this website. The French language version of this Contract shall govern over any translation. Any legal matter that may arise, and which cannot be resolved through mutual agreement, will be governed by the jurisdiction of French courts.
+
+[](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9909-general-terms-and-conditions-of-use/)[](https://twitter.com/intent/tweet?text=General+Terms+and+Conditions+of+Use%2C+par+NataliaKudryavtseva%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9909-general-terms-and-conditions-of-use%2F%20via%20@ccmnet)
 
 [CCM](https://ccm.net/apps-sites/internet-archeology/ccm/)
 ----------------------------------------------------------
