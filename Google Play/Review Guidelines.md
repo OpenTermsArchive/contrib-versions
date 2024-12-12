@@ -103,7 +103,7 @@ Consumer
 * [### Datally](https://support.google.com/datally?hl=en-GB)
 * [### Google One](https://support.google.com/googleone?hl=en-GB)
 * [### Google Pixel Tablet](https://support.google.com/googlepixeltablet?hl=en-GB)
-* [### Google Cast](https://support.google.com/chromecastbuiltin?hl=en-GB)
+* [### Google Cast](https://support.google.com/googlecast?hl=en-GB)
 * [### Google Fit](https://support.google.com/fit?hl=en-GB)
 * [### YouTube TV](https://support.google.com/youtubetv?hl=en-GB)
 * [### Phone app](https://support.google.com/phoneapp?hl=en-GB)
