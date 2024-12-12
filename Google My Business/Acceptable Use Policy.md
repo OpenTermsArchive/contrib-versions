@@ -104,6 +104,8 @@ Service-area businesses, or businesses that serve customers at their locations, 
 
 Some businesses, like auto repair shops that have a garage for repairs and offer roadside service, are hybrid service-area businesses. These businesses can show their shopfront address and designate a service area on their Business Profile. If you serve customers at your address and want to set a service area, your business location should be staffed by your team and able to receive customers during its stated hours.
 
+Businesses associated with products or services that require the customer to be a certain minimum age, like alcohol, cannabis or weapons, aren’t permitted as service-area businesses without a shop front.
+
 Google determines how best to display your business address based on your business information and information from other sources.
 
 #### Shopfront versus service-area businesses
