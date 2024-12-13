@@ -3,7 +3,7 @@ Terms & Conditions
 
 ![Louise](https://files.helpdocs.io/n0njida9x8/other/1697448726388/clean-shot-2023-09-26-at-13-07-20-2-x.png)
 
-Updated 2024-11-18T16:38:46Z by Louise
+Updated 2024-12-13T16:32:07Z by Louise
 
 There are several versions of Yuka's Terms & Conditions, depending on the country of residence of the User :
 
@@ -33,4 +33,4 @@ How do we inform the team of an error with a product ?
 
 ![Louise](https://files.helpdocs.io/n0njida9x8/other/1697448726388/clean-shot-2023-09-26-at-13-07-20-2-x.png)
 
-Updated 2024-11-18T16:38:46Z by Louise
+Updated 2024-12-13T16:32:07Z by Louise
