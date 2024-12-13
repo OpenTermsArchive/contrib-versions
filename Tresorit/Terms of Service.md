@@ -1,7 +1,7 @@
 Tresorit – Terms of Service
 ===========================
 
-Thank you for using Tresorit. Tresorit is a cloud-based service that helps you share files and collaborate with your partners, colleagues and friends using cryptographic end-to-end security. Our Services are provided by Tresorit AG, having its registered seat at Franklinstrasse 27, 8050 Zurich, Switzerland ("Tresorit").
+Thank you for using Tresorit. Tresorit is a cloud-based service that helps you share files and collaborate with your partners, colleagues and friends using cryptographic end-to-end security. Our Services are provided by Tresorit AG, having its registered seat at Pfingstweidstrasse 60b, CH-8005 Zurich, Switzerland ("Tresorit").
 
 This document (the "Agreement") is a legally binding agreement between you ("Customer" or "User") and Tresorit; and governs access and use of our products and services, including applications, websites and relating Software (the "Services"). If you are agreeing to this Agreement not as an individual but on behalf of your organization, then "Customer" means your organization. In this case, this Agreement will bind your organization, unless your organization has a separate agreement in effect with us. You confirm that you have the necessary authority to enter into this Agreement on behalf of Customer before proceeding.
 
@@ -252,7 +252,7 @@ Version: 28/10/2022
         
     10. **Language:** Tresorit may provide translations of this Agreement or other terms or policies. Translations are provided for informational purposes only. If there is any inconsistency or conflict between a translation and the English version, the English version will apply.
         
-    11. **Notices:** Notices must be sent via email, first class post, airmail or overnight courier and are deemed given when received. Notices to Customer may also be sent to the applicable account email address and are deemed given when sent. Any questions about this Agreement, pricing, complaints, or other inquiries are to be addressed to Tresorit AG, Franklinstrasse 27, CH-8050 Zurich, Switzerland or to [support@tresorit.com](mailto:support@tresorit.com). Tresorit reserves the right to make reasonable steps to verify Customer's or Company Administered Users' identity before responding to or acting upon Customer's request.
+    11. **Notices:** Notices must be sent via email, first class post, airmail or overnight courier and are deemed given when received. Notices to Customer may also be sent to the applicable account email address and are deemed given when sent. Any questions about this Agreement, pricing, complaints, or other inquiries are to be addressed to Tresorit AG, Pfingstweidstrasse 60b, CH-8005 Zurich, Switzerland or to [support@tresorit.com](mailto:support@tresorit.com). Tresorit reserves the right to make reasonable steps to verify Customer's or Company Administered Users' identity before responding to or acting upon Customer's request.
         
 18. **Glossary**
     
