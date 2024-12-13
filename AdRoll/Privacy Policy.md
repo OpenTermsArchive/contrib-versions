@@ -28,7 +28,7 @@ Table of Contents
 * [International Transfers](#service-11)
 * [Information for European Territory Residents: Our Legal Basis and Your Rights](#service-12)
 * [Information For California Residents Only](#service-13)
-* [Information for Virginia, Connecticut, Colorado, and Utah Residents Only](#service-14)
+* [Information for Non-California Residents in US States with Data Privacy Laws](#service-14)
 * [Make a Privacy Request](#service-15)
 * [Information For Individuals Located in Brazil](#service-16)
 * [Changes to this Service Privacy Notice](#service-17)
@@ -640,21 +640,19 @@ We will not discriminate against you for exercising any of your CCPA rights. Unl
 * Retaliate against an employee, applicant, or independent contractor’s right to exercise their CCPA rights.
     
 
-### 14\. Information for Virginia, Connecticut, Colorado, and Utah Residents Only
+### 14\. Information for Non-California Residents in US States with Data Privacy Laws
 
 [Back to top](#service-toc)
 
 #### Exercising Your Consumer Rights.
 
-US state privacy regulations provide Virginia, Connecticut, Colorado, and Utah residents with specific rights regarding their personal information. For more information, please see the [Connecticut Data Privacy Act](https://www.cga.ct.gov/2022/ACT/PA/PDF/2022PA-00015-R00SB-00006-PA.PDF), [Colorado Privacy Rights Act](https://leg.colorado.gov/bills/sb21-190), [Virginia Consumer Data Protection Act](https://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0035), and [Utah Consumer Privacy Rights Act](https://le.utah.gov/~2022/bills/static/SB0227.html).
-
-Consumers in these states can exercise their rights via the methods described in Exercising Right to Know, Data Portability, Right to Deletion, and Right to Correct. To appeal NextRoll’s decision as a Controller with regard to a consumer request, or to contact NextRoll, please view the Contact Us About Questions section.
+Several US state privacy laws provide residents with specific rights regarding their personal information. Consumers in these states can exercise their rights via the methods described above under the headings: [Exercising Right to Know](#:~:text=residents%20and%20provides%20information%20on%20how%20to%20exercise%20those%20rights.-,Right%20to%20Know,-and%20Data%20Portability%20Rights); [Data Portability](#:~:text=residents%20and%20provides%20information%20on%20how%20to%20exercise%20those%20rights.-,Right%20to%20Know%20and%20Data%20Portability%20Rights,-You%20have%20the%20right%20to%20request%20that%20we%20disclose%20certain); Right to Deletion; and Right to Correct. To appeal NextRoll’s decision as a Controller with regard to a consumer request, or to contact NextRoll, please view the [Contact Us About Questions section](#service-18).
 
 #### The Sale of Personal Information and Processing for Targeted Advertising
 
-For information on the sale of your personal information and how to opt out, see Sales of Personal Information.  NextRoll processes personal information for targeted advertising. See [How We Use the Data We Collect](#service-3) above. To opt out of targeted advertising, see [Your Choices and Opting-Out of Interest-Based Advertising and Analytics](#service-8), or visit the “Privacy Choices” link in the footer of all NextRoll webpages:
+For information on the sale of your personal information and how to opt out, see [Sales of Personal Information](#:~:text=the%20customer%E2%80%99s%20site.-,Sales%20of%20Personal%20Information,-In%20the%20preceding). NextRoll processes personal information for targeted advertising. See [How We Use the Data We Collect](#service-3) above. To opt out of targeted advertising, see [Your Choices and Opting-Out of Interest-Based Advertising and Analytics](#service-8), or visit the “Privacy Choices” link in the footer of all NextRoll webpages:
 
-![](/assets/img/legal/your-privacy-choices.png)
+[![](/assets/img/legal/your-privacy-choices.png)](https://www.nextroll.com/your-privacy-choices)
 
 ### 15\. Make a Privacy Request
 
@@ -730,7 +728,7 @@ Table of Contents
 * [International Transfers](#website-11)
 * [Information for European Territory Residents: Our Legal Basis and Your Rights](#website-12)
 * [Information for California Residents Only](#website-13)
-* [Information for Virginia, Connecticut, Colorado, and Utah Residents Only](#website-14)
+* [Information for Non-California Residents in US States with Data Privacy Laws](#website-14)
 * [Information for Individuals Located in Brazil](#website-15)
 * [Changes to this Privacy Notice](#website-16)
 * [Contact Us About Questions](#website-17)
@@ -1202,19 +1200,19 @@ We will not discriminate against you for exercising any of your CCPA rights. Unl
 * Provide you a different level or quality of goods or services; or
 * Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
 
-### 14\. Information for Virginia, Connecticut, Colorado, and Utah Residents Only
+### 14\. Information for Non-California Residents in US States with Data Privacy Laws
 
 [Back to top](#website-toc)
 
 #### Exercising Your Consumer Rights.
 
-US state privacy regulations provide Virginia, Connecticut, Colorado, and Utah residents with specific rights regarding their personal information. For more information, please see the [Connecticut Data Privacy Act](https://www.cga.ct.gov/2022/ACT/PA/PDF/2022PA-00015-R00SB-00006-PA.PDF), [Colorado Privacy Rights Act](https://leg.colorado.gov/bills/sb21-190), [Virginia Consumer Data Protection Act](https://lis.virginia.gov/cgi-bin/legp604.exe?212+ful+CHAP0035), and [Utah Consumer Privacy Rights Act](https://le.utah.gov/~2022/bills/static/SB0227.html).
-
-Consumers in these states can exercise their rights via the methods described in Exercising Right to Know, Data Portability, Right to Deletion, and Right to Correct. To appeal NextRoll’s decision as a Controller with regard to a consumer request, or to contact NextRoll, please view the Contact Us About Questions section.
+Several US state privacy laws provide residents with specific rights regarding their personal information. Consumers in these states can exercise their rights via the methods described above under the headings:in Exercising Right to Know, Data Portability; Right to Deletion; and Right to Correct. To appeal NextRoll’s decision as a Controller with regard to a consumer request, or to contact NextRoll, please view the Contact Us About Questions section.
 
 #### The Sale of Personal Information and Processing for Targeted Advertising
 
-For information on the sale of your personal information and how to opt out, see Sharing and Selling Personal Information. NextRoll processes personal information for targeted advertising. See How We Use the Data We Collect above. To opt out of targeted advertising, see Your Choices and Opting-Out of Interest-Based Advertising and Analytics.
+For information on the sale of your personal information and how to opt out, see [Sales of Personal Information](#:~:text=the%20customer%E2%80%99s%20site.-,Sales%20of%20Personal%20Information,-In%20the%20preceding). NextRoll processes personal information for targeted advertising. See [How We Use the Data We Collect](#service-3) above. To opt out of targeted advertising, see [Your Choices and Opting-Out of Interest-Based Advertising and Analytics](#service-8), or visit the “Privacy Choices” link in the footer of all NextRoll webpages:
+
+[![](/assets/img/legal/your-privacy-choices.png)](https://www.nextroll.com/your-privacy-choices)
 
 ### 15\. Information for Individuals Located in Brazil
 
