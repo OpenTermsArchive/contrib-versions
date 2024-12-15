@@ -1,4 +1,4 @@
-[Free bedroom appointments, online and in store. Talk to us about your sleep and storage needs](https://www.ikea.com/ie/en/customer-service/services/planning-consultation/#8f122ac0-8280-11ec-8fb5-bbf24207f858)
+[Book a delivery by 17th December and we'll make sure you get everything you need to celebrate Christmas](https://www.ikea.com/ie/en/customer-service/services/delivery/)
 
 Privacy policy
 ==============
