@@ -3644,7 +3644,7 @@ Supplementary Provisions
 Article 1: Introduction
 -----------------------
 
-1. These Individual Terms of Use apply to any and all of Users’ acts when they use an “illustration creation application” (the “App”) and “Pastela” which provides storage and linkage services for illustrations, etc., created on the App, both of which are provided by the Company (collectively, “Pastela”).
+1. These Individual Terms of Use apply to any and all of Users’ acts when they use an “illustration creation application” (the “App”) and “Pastela” which provides storage and linkage services for illustrations, etc., created and used on the App, both of which are provided by the Company (collectively, “Pastela”).
 2. These Individual Terms of Use prescribe the terms of use of Pastela. Users shall agree to these Individual Terms of Use and use Pastela in accordance with these Individual Terms of Use.
 3. When a User starts to use the App, the Company deems that the User has agreed to all the terms of these Individual Terms of Use.
 4. These Individual Terms of Use are established as individual terms of use under the pixiv service Master Terms of Use (the “Master Terms of Use”) that apply to all services provided by the Company. Any matters not prescribed herein, unless otherwise specified by these Individual Terms of Use to be excluded, shall be subject to various terms, including individual guidelines for smooth operation of Pastela and the terms of use and guidelines, etc. for services related to Pastela (collectively, “Various Terms”) as an integral part of these Individual Terms of Use, in addition to the Master Terms of Use.
@@ -3657,9 +3657,9 @@ The terms used in these Individual Terms of Use shall have the meanings set fort
 1. “Pastela” collectively means an illustration creation application and storage service and Linkage Services for illustrations, etc., both of which are provided by the Company.
 2. “App” means an application downloaded by a User to his or her terminal to use Pastela.
 3. “Picture Drawing Function” means a function provided by Pastela to create texts, images, etc.
-4. “Illustrations, Etc.” means images, texts and other works created by a User on the App.
+4. “Illustrations, Etc.” means images, texts and other works created by a User on the App, as well as works used by the User on the App as materials for creating such works.
 5. “Cloud Storage” means a cloud storage managed by the Company with free storage capacity and paid storage capacity.
-6. “Cloud Service” means a function and service to store Illustrations, Etc. created by a User in the Cloud Storage managed by the Company.
+6. “Cloud Service” means a function and service to store Illustrations, Etc. created and used by a User in the Cloud Storage managed by the Company.
 7. “Service Site” means a service site (https://pastela.app/) that is linked to the App and can be used by a User by logging in his or her Account set forth in the following article. On the service site, the User can view the guide for use of Pastela, use Linkage Services, subscribe to paid services, etc.
 8. “Linkage Services” means various services or websites provided by the Company or entities other than the Company whereby Users can post their illustrations directly from the App.
 9. “Pastela Account” means an account issued to identify the use of Pastela.
@@ -3677,46 +3677,53 @@ Article 4: Use of Pastela
 -------------------------
 
 1. By downloading the App, a User can use the Picture Drawing Function. To use other services, a User needs to carry out Account Linkage as set forth in the preceding article.
-2. Illustrations, Etc. created by using the Picture Drawing Function will be automatically stored in the User’s terminal.
+2. Illustrations, Etc. created and used by using the Picture Drawing Function will be automatically stored in the User’s terminal.
 3. The User can do the following by carrying out Account Linkage:
-    * Store Illustrations, Etc. created on the App in the Cloud Storage using the Cloud Service
+    * Store Illustrations, Etc. created and used on the App in the Cloud Storage using the Cloud Service
     * View or delete Illustrations, Etc. posted on the Service Site and link with Linkage Services
 4. The User can post on a Linkage Service Illustrations, Etc. stored in the App or the Cloud Storage.
 
 Article 5: Cloud Service
 ------------------------
 
-1. If a User carries out Account Linkage on the App, Illustrations, Etc. created by the User on the App will be automatically synchronized to the Cloud Storage (“Cloud Synchronization”) and thereby the User can view such Illustrations, Etc. on the Service Site.
-2. The Cloud Synchronization set forth in the preceding paragraph will be stopped when a User uses up the storage capacity that is available to him or her. Illustrations, Etc. are also stored in the User’s terminal even if the Illustrations, Etc. are not subject to the Cloud Synchronization. If the User creates space in the capacity of the Cloud Storage by organizing data such as Illustrations, Etc., Illustrations, Etc. created thereafter will begin to be automatically synchronized.
+1. If a User carries out Account Linkage on the App, Illustrations, Etc. created and used by the User on the App will be automatically synchronized to the Cloud Storage (“Cloud Synchronization”) and thereby the User can view such Illustrations, Etc. on the Service Site.
+2. The Cloud Synchronization set forth in the preceding paragraph will be stopped when a User uses up the storage capacity that is available to him or her. Illustrations, Etc. are also stored in the User’s terminal even if the Illustrations, Etc. are not subject to the Cloud Synchronization. If the User creates space in the capacity of the Cloud Storage by organizing data such as Illustrations, Etc., Illustrations, Etc. created and used thereafter will begin to be automatically synchronized.
 3. Notwithstanding the preceding two paragraphs, the Company shall have no obligation to store Illustrations, Etc. that are subject to the Cloud Synchronization provided by the Company, but the User shall be solely responsible for the storage of such Illustrations, Etc.
-4. The Company will store Illustrations, Etc. according to the capacity available to the User based on the plan to which the User has subscribed. If Illustrations, Etc. are stored in the Cloud Storage over the capacity that the User is allowed to use due to a change in the plan, the Company may delete the Illustrations, Etc. until the storage capacity reaches within the prescribed capacity in chronological order of final access.
+4. The Company will store Illustrations, Etc. up to the capacity available to the User based on the plan to which the User has subscribed. If Illustrations, Etc. are stored in the Cloud Storage over the capacity that the User is allowed to use due to a change in the plan, the Company may delete the Illustrations, Etc. until the storage capacity reaches within the prescribed capacity in chronological order of final access.
 5. In deleting Illustrations, Etc. pursuant to the preceding paragraph, the Company shall have no liability to the User unless the Company has committed willful misconduct or gross negligence.
 6. The Company reserves the right to judge the appropriateness and compliance with laws and regulations or these terms, of the Illustrations, Etc. synchronized by the User to the Cloud Storage and may transfer, refuse, modify and/or delete such Illustrations, Etc. at its own discretion at any time without notice if the Company recognizes that such Illustrations, Etc. breach laws and regulations or these terms and that they are inappropriate. This does not, however, necessarily mean that the Company monitors the User’s Illustrations, Etc.
 
 Article 6: Linkage Services
 ---------------------------
 
-1. Users may post Illustrations, Etc. created using the App on Linkage Services.
+1. Users may post Illustrations, Etc. created and used using the App on Linkage Services.
 2. Users shall use Linkage Services in compliance with the terms of such Linkage Services. The Company shall have no liability for any trouble arising in the Linkage Services.
 3. Link with the Linkage Services may be temporarily suspended or interrupted due to reasons such as trouble in the Company’s system or a Linkage Service or a failure of a User’s terminal. The Company shall have no liability for such suspension or interruption unless it is caused by the Company’s willful misconduct or gross negligence.
 
 Article 7: Use of Paid Service
 ------------------------------
 
-1. Pastela can be used for free, in principle. However, if a User subscribes to paid services, the User can use additional services. For specific service fees and the contents of services, please see the App or the Service Site.
-2. To use a paid service, a User shall access the Service Site and subscribe to the paid service on the Service Site.
-3. If a User subscribes to a paid service, the term of use of the service will be automatically renewed unless the User terminates the service by the method specified by the Company.
-4. Paid services can be terminated by the method specified by the Company. Even if a User takes procedures for termination of a service during the term of the service, the User can still use the service during the remaining term of the service. The service will be terminated at the time of expiration of the term of the service.
+1. Pastela can be used for free, in principle. However, if a User subscribes to paid services, the User can use additional services.
+2. To use a paid service, a User shall access the Service Site and subscribe on the Service Site or within the App. For details, please check the page on the App or Service Site.
+3. If a User subscribes to a paid service, the term of use of the service will be automatically renewed unless the User terminates the service by the methods set forth below:
+    1. If subscribed on the Service Site: By the method specified by the Company.
+    2. If subscribed within the App: By unsubscribing through the Apple App Store subscription cancellation process.
+4. Paid services can be terminated in the manner set forth in the preceding paragraph. Even if a User takes procedures for termination of a service during the term of the service, the User can still use the service during the remaining term of the service. The service will be terminated at the time of expiration of the term of the service.
 5. If a User subscribes to a paid service and deactivates his or her account during the term of the service, the Company will not refund the fee for the paid service he or she has already paid to the Company.
 6. If a User changes the plan of a paid service during the term of the service, the following items will apply:
-    * Change to a higher-priced plan: The difference between the plan before the change and after the change shall be paid to the Company at the time of the change, and the price of the new plan shall be paid on the following renewal date and thereafter.
-    * Change to a lower-priced plan: The difference between the plan before the change and after the change will not be refunded. The price of the new plan shall be paid on the following renewal date and thereafter.
+    * Change to a higher-priced plan
+        * If subscribed on the Service Site: The difference between the plan before the change and after the change shall be paid to the Company at the time of the change, and the price of the new plan shall be paid on the following renewal date and thereafter.
+        * If subscribed within the App: The Apple App Store's subscription upgrade terms shall apply.
+    * Change to a lower-priced plan
+        * The difference between the plan before the change and after the change will not be refunded. The price of the new plan shall be paid on the following renewal date and thereafter.
 7. If a User cannot use any paid service due to the Company’s gross negligence and the service continues to be unavailable for 24 hours or more from the time that the User becomes aware of the unavailability, the Company shall compensate him or her for any actually incurred damage claimed by him or her up to the amount obtained by multiplying the fee for the paid service per month based on the plan the User has subscribed to by the number of days on which the service was unavailable (in units of a day and fractions shall be rounded off) (amounts less than one yen shall be rounded off) or extend the term of use of the service for a period equivalent to the period of unavailability.
 
 Article 8: Termination of Paid Service
 --------------------------------------
 
-1. If a User wishes to terminate a paid service, the User shall complete the termination procedures no later than the day preceding the following renewal date.
+1. If a User wishes to terminate a paid service, the User shall complete the termination procedures by the deadlines below:
+    1. If subscribed on the Service Site: No later than the day preceding the next renewal date.
+    2. If subscribed within the App: No later than two days before the next renewal date.
 2. If the User fails to complete the termination procedures for the paid service by the day set forth in the preceding paragraph, the term of use of the paid service will be extended for the same period as the current applicable period and a fee will be charged.
 
 Article 9: Termination of Use of Pastela
@@ -3728,13 +3735,13 @@ Article 9: Termination of Use of Pastela
 Article 10: User’s Responsibility
 ---------------------------------
 
-1. Users have responsibility for backup of Illustrations, Etc. created using the App. The Company will exert the best efforts to store each User’s Illustrations, Etc. on the Cloud Service, but have no responsibility to store backups of such Illustrations, Etc.
+1. Users have responsibility for backup of Illustrations, Etc. created and used using the App and image materials stored in the Cloud Storage. The Company will exert the best efforts to store each User’s Illustrations, Etc. and image materials on the Cloud Service, but has no responsibility to store backups of such Illustrations, Etc.
 2. Users shall always use the latest version of the App. The Company shall have no liability for any damage incurred by a User due to his or her failure to use the latest version of the App.
 
 Article 11: Ownership of Intellectual Property Rights and License
 -----------------------------------------------------------------
 
-1. Intellectual property rights, including copyrights, and any other rights in or to Illustrations, Etc. created using Pastela shall belong to the User who has created such Illustrations, Etc.
+1. Use of Pastela does not mean that the Intellectual property rights, including copyrights, and any other rights in or to Illustrations, Etc. created and used using Pastela are transferred. Such rights are reserved by the creator of the Illustrations, Etc.
 2. Intellectual property rights, including know-how and copyrights, and any other rights included in Pastela shall belong to the Company or the owners thereof. Users shall not take any act that violates the Company’s intellectual property rights unless they have obtained the prior written approval of the Company.
 
 Article 12: Change of Service
@@ -3748,15 +3755,17 @@ Article 13: Prohibitions
 ------------------------
 
 1. In using Pastela, Users shall not take the following acts:
-    1. Using the App and Pastela for purposes other than those specified by the Company
-    2. Transferring, lending or licensing the App to a third party
-    3. Taking an act that causes an excessive load on the Cloud Service or the Cloud Storage
-    4. Altering the App
-    5. Fraudulently analyzing the App, the Cloud Service or communication information
-    6. Unlawfully accessing the Cloud Storage
-    7. Storing Illustrations, Etc. that are excessively brutal or obscene or constitute child pornography or child abuse in violation of laws and regulations or other standards established by the Company
-    8. Using the Illustrations, Etc. that fall under the preceding item on any Linkage Service
-    9. Taking a prohibited act under Article 14 of the Master Terms of Use or storing Illustrations, Etc. that fall under the same article of the Master Terms of Use.
+    1. Using the App and Pastela for purposes other than those specified by the Company,
+    2. Transferring, lending or licensing the App to a third party,
+    3. Taking an act that causes an excessive load on the Cloud Service or the Cloud Storage,
+    4. Altering the App,
+    5. Fraudulently analyzing the App, the Cloud Service or communication information,
+    6. Unlawfully accessing the Cloud Storage,
+    7. Executing unauthorized code on the App or Cloud Service, or engaging in acts intended for such purposes,
+    8. Storing Illustrations, Etc. that are excessively brutal or obscene or constitute child pornography or child abuse in violation of laws and regulations or other standards established by the Company,
+    9. Using the Illustrations, Etc. that fall under the preceding item on any Linkage Service,
+    10. Uploading or transmitting Illustrations, Etc. that fall under item (8) to Cloud Storage or Linkage Services, and
+    11. Taking a prohibited act under Article 14 of the Master Terms of Use or storing Illustrations, Etc. that fall under the same article of the Master Terms of Use.
 
 Article 14: Actions against Offender
 ------------------------------------
@@ -3789,3 +3798,212 @@ Supplementary Provisions
 
 * These Individual Terms of Use shall take effect on April 17, 2024.
 * These Individual Terms of Use shall also retroactively apply to conduct undertaken by User before these Individual Terms of Use came into effect.
+
+Revisions
+---------
+
+* December 16, 2024: These Individual Terms of Use have been revised throughout upon the start of provision of new function and in-app purchases.
+
+VEAT
+====
+
+第1条 はじめに
+--------
+
+1. この利用規約（以下「本個別規約」といいます。）は、当社が提供するモバイル版アプリケーションソフトウェア（以下、「アプリ」といいます。）である「Veat」（以下「Veat」といいます。）の利用条件を定めるものであり、Veatをユーザーが利用する場合の一切の行為に適用されます。
+2. ユーザーは、本個別規約に同意の上、本個別規約に従いVeatを利用するものとします。
+3. 本個別規約は、当社が提供するすべてのサービスに適用されるピクシブ株式会社 サービス共通利用規約（以下「共通規約」といいます）の個別規約であり、本個別規約において定めのない事項については、本個別規約で適用を除外することを定めている場合をのぞいて「共通規約」の他、本個別サービス上で当社が規定するガイドライン等の諸規定（以下「諸規定」といいます。）が適用されます。
+4. ユーザーは、本個別規約並びに共通規約及び諸規定のすべての記載内容について同意の上でVeatを利用するものとします。
+
+第2条 定義
+------
+
+本個別規約において使用する用語の定義は、次の各号に定めるとおりとします。本個別規約に明示的な定めのない用語の定義は共通規約の定めに従います。
+
+1. 「Veat」とは、誰でもカンタンに「アバターダンス動画」がつくれるアプリ「Veat」をいいます。
+2. 「ユーザー」とは、Veatを利用する個人又は法人をいいます。
+3. 「動画」とは、Veat上に投稿された動画及びVeatを用いて作成された動画の総称をいいます。
+4. 「作成動画」とは、Veat上に公開されている動画をRemixして新たに作成した動画をいいます。
+5. 「投稿動画」とは、動画のうち、Veat上に投稿されているものをいいます。
+6. 「フィード」とは、Veatを開いたときに最初に表示されるホーム画面のことで、投稿動画が閲覧できる画面をいいます。
+7. 「Remix」とは、Veat上に公開されている動画の「音楽」「モーション」「アバター」「背景」等のプロパティを編集して新しい動画を作成することをいいます。
+8. 「アバター」とは、動画に登場している第三者又はユーザーがVRoid Hub（第4条に定義）上に登録した3Dアバターをいいます。
+9. 「投稿」とは、Veatのサーバー上に作成動画をアップロードすることをいいます。
+10. 「保存」とは、作成動画のデータを自己の端末にダウンロードすることをいいます。
+11. 「シェア」とは、作成動画をVeatから書き出して他のサービス上に掲載することをいいます。
+12. 「オリジナル動画作成機能」とは、Veat上に登録されていない「音楽」「モーション」（アバターは除く）を利用して動画を作成する機能のことをいいます。
+13. 「pixivアカウント」とは、当社が発行する当社が提供するサービスを利用する際に必要となるアカウントをいいます。
+
+第3条 Veatの利用
+-----------
+
+1. 未成年者は保護者の同意を得た場合に限りVeatを利用できます。
+2. Veatは日本国内でのみ利用できます。
+3. ユーザーは、Veatを利用するに際し、情報端末（デバイス）、通信機器・手段、電力等をユーザー自らの責任と負担で準備・用意し、Veat利用中は維持しなければならないものとします。
+4. 当社が定める仕様基準（対応するOS、性能、機能等を含みますが、これらに限られません）に従わない端末では、Veatを利用できない場合があることを予め了承します。
+
+第4条 アカウント連携
+-----------
+
+1. Veatは、当社の提供サービスである「VRoid Hub（以下、単に「VRoid Hub」といいます。）」に登録されているアバターを使用してアバターによるダンス動画を作成するアプリです。そのため、Veatを利用するためには、ユーザーはあらかじめ、「VRoid Hub」の利用登録をして、当該「VRoid Hub」が紐づけられているpixivアカウントとVeatを連携する必要があります。
+2. pixivアカウントへログインができなくなった場合は、次条で定めるVeatの機能のうち一部のみを利用することとなるなど、pixivアカウントへログインできないことにより利用できない機能があることをあらかじめ承諾するものとします。
+3. pixivアカウントの作成については、共通規約の定めに従うものとします。pixivアカウント作成の申込をした者は、当社が当該申込を承諾した時点でユーザーになります。
+
+第5条 Veatの機能
+-----------
+
+1. ユーザーは、Veatを利用して以下のことができます。
+    
+    1. 投稿動画の検索・閲覧
+    2. 投稿動画のRemix
+    3. Remixによる作成動画のVeat上への投稿
+    4. Remixによる作成動画の保存
+    5. Remixによる作成動画のシェア
+    6. Veat上に登録されているデータを利用した新規動画の作成
+    7. オリジナル動画作成機能を用いた動画の作成
+2. ユーザーはVeatを利用するに際し、当社が定めるガイドライン・ルールに従うものとします。
+
+第6条 動画のRemix
+------------
+
+1. ユーザーは投稿動画を自由にRemixすることができます。
+2. Remixとは、Veat上に投稿されている投稿動画のうち、任意に選択した投稿動画について、アバター、背景、モーション等のプロパティを変更する新しい動画を作成することをいいます。
+3. Remixにおいて利用可能なアバターは、VRoid Hubに登録されている自身のアバター又は他のユーザーのアバターであって、当該他のユーザーが利用を許諾しているものに限られます。ユーザーは当社の定めるアバター利用ルールに従ってアバターを利用するものとします。
+4. ユーザーは、Remixした作成動画をVeat上に投稿することで自己の端末に保存することができます。ただし、オリジナル動画作成機能を用いた作成動画については、直接自己の端末に保存することとなります。
+5. ユーザーは、Veat上に投稿した自己の作成動画をYouTube、TikTokにVeat上からシェアをすることができます。
+6. ユーザーは、Remixに用いるアバターや、オリジナル動画作成機能の使用が第三者の権利を侵害しないことを確認のうえRemixを行うものとします。
+7. ユーザーがRemixした作成動画に関する責任は、すべてユーザーのみに帰属します。ユーザーは作成動画に関して、何らかのトラブルが生じた場合には全て自己の責任で解決するものとし、当社に何ら迷惑をかけないものとします。
+
+第7条 オリジナル動画作成機能の利用
+------------------
+
+1. ユーザーは、動画の作成に際してオリジナル動画作成機能を用いることはできますが、当該オリジナル動画作成機能を利用して作成した作成動画を第三者に公開し、頒布し、公衆送信してはならないものとします。
+2. Veat上にはオリジナル動画作成機能を用いて作成した作成動画を投稿できないものとします。
+3. 第6条第4項の定めにかかわらず、オリジナル動画作成機能を利用して作成動画を作成した場合には、Veat上への投稿することなく自己の端末に作成動画を保存できるものとします。
+
+第8条 作成動画の投稿・シェア
+---------------
+
+1. ユーザーは、Veatの投稿機能を用いて作成動画を投稿することができます。ただし、前条に定める通りオリジナル動画作成機能を用いて作成した作成動画についてはVeatへは投稿できません。
+2. ユーザーは、投稿した作成動画についてVeat上からいつでも削除することができます。
+3. ユーザーは作成動画の投稿にあたり、共通規約、本個別規約その他のガイドラインの定める基準を準拠することを保証するものとし、当該基準に違反したことにより当社が被るあらゆる損失、損害については、当該損失、損害が当社の故意又は重過失による場合を除き、ユーザーが責任を負い、当社に一切迷惑をかけないものとします。
+4. ユーザーは、Veatのシェア機能を用いてVeatに投稿した作成動画をYouTube及びTikTokにシェアすることができます。なお、当該シェア機能の対象となるサービスについて当社は任意に変更できるものとします。
+5. ユーザーは作成動画をシェアするにあたり、シェアを行う他のサービスのルールを遵守するものとします。
+
+第9条 作成動画の保存
+-----------
+
+1. ユーザーは、作成動画を自己の端末に保存することができます。
+2. ユーザーは、オリジナル動画作成機能を用いて作成した動画を自己の端末に保存することができますが、当該オリジナル動画作成機能を用いて作成した動画を私的利用の範囲を超えて複製し、又は第三者に譲渡し、頒布し、貸与し、公衆送信してはならないものとします。
+
+第10条 作成動画の著作権
+-------------
+
+1. VeatでRemix又は新規作成した作成動画、及びオリジナル動画作成機能を用いて作成した動画の著作権はユーザーに帰属します。
+2. ユーザーは、Veat上に投稿した作成動画について以下の利用行為を許諾します。
+    
+    1. 当社及び当社の許諾する第三者が、Veatの運営・管理・広告・宣伝等のため、作成動画を複製し、翻案し、公衆送信し頒布すること。
+    2. 当社及び当社の許諾する第三者が作成動画を複製し、翻案し、改変して二次的著作物を作成し、当該二次的著作物を複製し、公衆送信すること。
+3. ユーザーは、前項による作成動画の利用、改変及び二次的著作物の作成に関して、著作者人格権を行使しないものとします。
+
+第11条 Veatに関する知的財産権の帰属及び使用許諾
+---------------------------
+
+Veat上の又はVeatに付随する一切のテキスト、画像、映像、音楽、ロゴ、サービス、及びプログラム等の情報（ただし、作成動画にかかる著作権を除きます。）に関するノウハウ、著作権、意匠権、商標権、特許権、実用新案権等の知的財産権は当社又は当社にこれらの権利の使用、利用もしくは実施を許諾した第三者に帰属します。
+
+第12条 禁止行為
+---------
+
+ユーザーは、Veatの利用にあたり、以下の各号に該当する事項を行ってはならないものとします。
+
+1. 第三者の権利を侵害する行為
+2. Veatをリバースエンジニアリング等解析する行為
+3. Veatに過剰な負荷をかける行為
+4. Veatやそのサーバーに対し不正アクセスをする行為
+5. 法律・条例・その他当社が定める基準に反するような、わいせつ、児童ポルノ又は児童虐待に相当するデータを用いて動画をRemixすること
+6. 次に掲げる内容をVeat上に投稿する行為。なお、作成動画に付随関連する情報（以下、「付随情報」という。）として投稿する場合を含む
+    * 第三者を誹謗中傷する情報
+    * 個人を特定しうる情報（他の情報を組み合わせることにより個人を特定できる情報を含む）
+    * その他、当社が不適切と判断する内容の情報
+7. 商業用の広告、宣伝又は勧誘を目的として作成動画を投稿する行為又は当社が商業用の広告、宣伝又は勧誘を目的としていると判断しうる作成動画を投稿する行為
+8. 他者もしくは他の団体に成りすます行為
+9. 共通規約第14条各項のいずれかに該当する行為又は関連するガイドラインに違反する行為
+10. Veat上でVeatの機能を商用に用いる行為。
+11. その他、当社が不適切と判断する行為
+
+第13条 作成動画の削除
+------------
+
+1. ユーザーはいつでも作成動画を削除できるものとします。
+2. 当社は、次に掲げる場合には、作成動画及び付随情報について全部もしくは一部の削除又は公開範囲の変更等の措置を行うことができるものとします（ただし、当社はこれらの措置をとる義務を負うものではなく、また、これらの措置を講じた理由を開示する義務を負うものではありません。）
+
+1. 第12条に違反する作成動画又は付随情報の投稿があった場合。
+2. 作成動画又は付随情報について、第三者から権利主張があった場合。
+3. ユーザーがpixivアカウントを退会し、削除し、又は抹消された場合。
+
+第14条 VRoid Hubとの連携
+------------------
+
+1. ユーザーは、Veatの利用にあたり、VRoid Hubを利用する際には当該VRoid Hubの利用規約を遵守するものとします。
+2. ユーザーが、VRoid Hubの利用規約その他pixivアカウントを利用するサービスに関する利用規約に違反し、pixivアカウントの利用停止・削除された場合には、VeatとVRoid Hubとの連携は解除され、Veatの一部機能は使用できなくなります。
+3. ユーザーは、前項の取扱いについて異議を述べないこととします。
+
+第15条 違反時の取り扱い
+-------------
+
+1. ユーザーが共通規約又は本個別規約に違反し、又はその恐れがあると判断した場合は、事前にユーザーに通知することなく、当社は以下の措置を講じることができるものとします。ただし、当社はこれらの措置をとる義務を負うものではなく、また、これらの措置を講じた理由を開示する義務を負うものではありません。
+    
+    1. 当該違反したユーザーの作成動画又は付随情報の全部もしくは一部を削除し、公開範囲を変更し、又は閲覧できない状態にすること。
+    2. 当該違反したユーザーのpixivアカウントを停止又は削除すること。
+    3. Veatの利用を停止又は禁止すること。
+    4. その他当社が必要かつ適切と判断する措置を講じること
+2. ユーザーは、前項の当社の措置について異議を述べないこととします。
+3. ユーザーが本個別規約に違反したことにより、当社又は第三者に損害が生じた場合、ユーザーはその損害を賠償する責任を負います。
+
+第16条 ユーザーの責任
+------------
+
+1. ユーザーがVeatを使用して作成した作成動画についてのバックアップの責任はユーザーにあるものとします。当社は投稿された作成動画の保管について最善を尽くしますが、当該作成動画のバックアップを保存する責任は負わないものとします。
+2. ユーザーはpixivアカウントを適切に管理するものとし、当社に届け出ている情報に変更がある場合には遅滞なく当該変更事項を当社に通知するものとします。
+3. ユーザーが前項の通知を怠ったことによりユーザーに不利益が生じた場合、当社は一切の責任を負いません。
+
+第17条 損害賠償
+---------
+
+当社は、当社の故意又は重過失によりユーザーに損害が発生した場合には、当該ユーザーに現実に発生した直接かつ通常の損害について、1,000円を上限として賠償するものとします。
+
+第18条 Veatのアップデート
+----------------
+
+1. 当社は、Veatの機能の全部又は一部を随時更新、変更又は廃止することができます（以下、それぞれの場合において、「アップデート」といいます）。
+2. 当社は、リリースした機能が継続されることについての責任を負うものではなく、アップデートの結果、廃止される機能があることについて何等責任を負わないものとします。
+3. ユーザーは、必ず最新版のVeatを使用するものとします。ユーザーが最新版のVeatを使用しないことにより生じた損害について、当社は一切の責任を負わないものとします。
+
+第19条 免責
+-------
+
+1. 当社は、Veatについて、正確性、完全性、有効性、信頼性、安全性、適法性、特定の目的への適合性を含む、事実上又は法律上の一切の不具合がないことにつき、明示的にも黙示的にも保証は行いません。なお、セキュリティ等への欠陥・エラー・バグがないことについても保証しません。
+2. 当社は、Veatについて次の事項について保証を行いません。
+    
+    1. すべての情報端末に対応して正常に動作すること
+    2. アップデート等が行われた場合において正常に動作すること
+3. 当社はユーザーに対し、Veatに発生した不具合について、解消するように努めるものとしますが、当該不具合の解消を行うことを保証はいたしません。
+4. 当社は、以下の各号に定める事項についての責任、及び当該事項によって生じる、損害その他のあらゆる損害、その他損失について、予見の有無にかかわらず賠償又は補償責任その他一切の責任を負いません。ただし、当該損害が専ら当社の故意・重過失による場合はこの限りではないものとします。
+    
+    1. Veatの利用又は利用不能
+    2. Veatの変更、中断又は終了
+    3. Veatを利用する上でのユーザーの過誤
+    4. Veatの欠陥、一時停止、一部削除、変更、終了
+    5. Veatを利用することによって生じた、ユーザー間、及びユーザーとその他第三者との間の紛争等
+    6. 本条に定める非保証等の対象事項
+
+第20条 連絡
+-------
+
+1. Veatに関する当社からユーザーへの通知は、Veat内の適宜の場所への掲示その他、当社が適当と判断する方法により行います。
+2. ユーザーからの問い合わせは、当社が定める問い合わせフォームより行うものとします。
+
+附則
+--
+
+* 本個別規約は、2024年12月19日から施行します。
