@@ -2,7 +2,7 @@
 
 Welcome to use the developments services provided by the Weixin Open Platform!
 
-To use the Weixin Open Platform Development Services (hereinafter referred to as “the Services”), you shall read and follow the Weixin Open Platform Developer Service Agreement (hereinafter referred to as “the Agreement”), the [Tencent Service Agreement](http://www.qq.com/contract.shtml), the [QQ Number Rules](http://zc.qq.com/chs/agreement1_chs.html) and other relevant agreements and rules.
+The Weixin Open Platform is operated by Shenzhen Tencent Computer Systems Company (hereinafter referred to as "the Company"), and some of the services and functions may be provided by the Company's affiliates (collectively referred to as "Tencent"). To use the Weixin Open Platform Development Services (hereinafter referred to as “the Services”), you shall read and follow the Weixin Open Platform Developer Service Agreement (hereinafter referred to as “the Agreement”), the [Tencent Service Agreement](http://www.qq.com/contract.shtml), the [QQ Number Rules](http://zc.qq.com/chs/agreement1_chs.html) and other relevant agreements and rules.
 
 ##### Please carefully read and fully understand the content of each term, in particular the terms of exemption or limitation of liability, as well as separate agreements and rules for the activation or use of a certain service.
 
