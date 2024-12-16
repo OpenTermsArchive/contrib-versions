@@ -1,7 +1,7 @@
 WECHAT PRIVACY POLICY
 =====================
 
-**Last Updated:** 2024-04-12
+**Last Updated:** 2024-12-16
 
 **SUMMARY**
 
@@ -147,7 +147,7 @@ You may disable the collection and use of your location data through device-leve
 
 This section provides more detail on the types of Personal Information we collect from you, purpose of processing, and retention periods for each type of Personal Information.
 
-For users resident in a Relevant Jurisdiction, it also identifies the legal basis under which we process your data. For the purposes of this Privacy Policy, a **"Relevant Jurisdiction"** includes the EEA, UK, Switzerland, Brazil, Indonesia, Thailand, and Türkiye.
+Where applicable, it also identifies the legal basis under which we process your data under applicable data protection laws
 
 We do not retain Personal Information for longer than is necessary unless we are required or permitted to do so under applicable laws. If we are required to retain your Personal Information beyond the retention periods set out below, for example to comply with applicable laws, we will store it separately from other types of Personal Information. Aggregated registration data (which does not contain Personal Information) is retained for spam prevention and system security purposes. For further details on how long we keep your data, please refer to the retention periods set out below.
 
@@ -166,7 +166,8 @@ We do not retain Personal Information for longer than is necessary unless we are
 | **Text for which you request a translation.**  <br>**Legal Basis (Relevant Jurisdictions only):** Necessary to perform our contract with you. | To provide you with translation of the text as requested by you. | Text to be translated and translated text is hashed and cached for 24 hours from the time you request for translation. |
 | **Customer Support Information** Communications with and any information that you or other users provide to our customer support team.  <br>**Legal Basis (Relevant Jurisdictions only):** Necessary to perform our contract with you to provide and support WeChat. | \- To investigate the issue and provide customised customer support;  <br>\- to develop new and improve existing services and app experience;  <br>\- for security, fraud detection, and account management; and  <br>\- for moderation of content or behaviour that is prohibited by applicable laws and regulations, or which otherwise violate WeChat's terms of service or other rules applicable to WeChat users. | Until your account is deleted, unless otherwise required by law. |
 | **Access tokens.** Access tokens that facilitate the linkage of your WeChat account with your third party social media accounts.  <br>**Legal Basis (Relevant Jurisdictions only):** Necessary to perform our contract with you to provide WeChat services. | If you connect third party social media accounts to your WeChat account, we process access tokens to facilitate your log ins and your sharing of content between these accounts. | Until you unlink your WeChat account from these third party social media accounts. |
-| **Surveys.** If you participate in a survey, we may request certain Personal Information from you. The purpose of the survey and the identity of the service provider providing the survey (if we engaged a service provider), will be notified to you prior to you completing the survey.  <br>**Legal Basis (Relevant Jurisdictions only):** We collect this information with your consent. | \- To better understand how you access and use WeChat;  <br>\- to develop new and improve existing services and app experience;  <br>\- to improve WeChat and respond to customer requests and preferences; and  <br>\- and for any purposes enumerated in the survey itself. | Until your account is deleted or as otherwise stated in the survey itself, whichever is earlier. |
+| **Surveys** If you participate in a survey, we may request certain Personal Information from you. The purpose of the survey and the identity of the service provider providing the survey (if we engaged a service provider), will be notified to you prior to you completing the survey.  <br>**Legal Basis (Relevant Jurisdictions only):** We collect this information with your consent. | \- To better understand how you access and use WeChat;  <br>\- to develop new and improve existing services and app experience;  <br>\- to improve WeChat and respond to customer requests and preferences; and  <br>\- and for any purposes enumerated in the survey itself. | Until your account is deleted or as otherwise stated in the survey itself, whichever is earlier. |
+| **Country/Region Data** unique identifier number (UIN) assigned to users, wuid, where you are located (as determined by your IP address and currently registered mobile number).  <br>**Legal Basis (Relevant Jurisdictions only):** It is in our legitimate interest to display adverts to you based on your country/region.  <br>_Note that such location-based ads are not available to users in the EU and UK._ | Depending on where you are located, we use this information to display location-based advertising to you based on your country/region. | We do not store this information. We process this momentarily after which it is deleted. |
 
 We may also pseudonymise or aggregate Personal Information for analytical purposes. This helps us develop new and improve existing services, conduct fraud detection and account safety analysis, analyse usage trends, and provide third party service providers with basic statistics about how their service is being used by WeChat users.
 
@@ -233,22 +234,17 @@ We are committed to maintaining the privacy and integrity of your Personal Infor
 
 Although we will implement and maintain reasonable measures to protect your Personal Information, please note that as any transmission of information via the internet is never completely secure.
 
-8\. ADVERTISING
----------------
-
-WeChat does not currently display personalised advertising.
-
-9\. COMMUNICATIONS FROM US
+8\. COMMUNICATIONS FROM US
 --------------------------
 
 We may send you service-related announcements via WeChat, email, or SMS when necessary, such as when we temporarily suspend WeChat for maintenance, or security, or privacy reasons. You may not opt-out from these service-related announcements which are not promotional in nature.
 
-10\. AGE RESTRICTIONS AND PARENTAL/GUARDIAN CONTROLS
-----------------------------------------------------
+9\. AGE RESTRICTIONS AND PARENTAL/GUARDIAN CONTROLS
+---------------------------------------------------
 
 Children under the age of 13 (or such applicable age of majority under relevant local laws of the user) ("**Child**") must not use WeChat for any purpose without first obtaining parental/guardian consent to and acknowledgment of this Privacy Policy (both for themselves and on their Child's behalf). In certain jurisdictions, you may be required to provide your date of birth; we will however only process the year and month of your birth. We do not knowingly collect Personal Information from any Child without such consent and acknowledgment. Please contact our Data Protection Officer if you believe we have any Personal Information from any Child without such parental/guardian consent and acknowledgment so that we can promptly investigate and remove such Personal Information.
 
-11\. YOUR RIGHTS
+10\. YOUR RIGHTS
 ----------------
 
 **This Section 11 (Your Rights) only applies to users located in a Relevant Jurisdiction, unless otherwise specified.**
@@ -322,12 +318,12 @@ You may object to our use of your Personal Information that we use on the basis 
 
 To the extent provided by applicable laws and regulations, you may withdraw any consent you previously provided to us by following the instructions set out [here](https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&lang=en&plat=ios&id=180323e2Ermm180323yqauAZ&Channel=helpcenter).
 
-12\. CHANGES TO THIS PRIVACY POLICY
+11\. CHANGES TO THIS PRIVACY POLICY
 -----------------------------------
 
 We may from time to time revise this Privacy Policy. We will update the revised version here along with the "last updated" date, and notify you via WeChat or other means, as appropriate, before the change becomes effective.
 
-13\. LANGUAGE
+12\. LANGUAGE
 -------------
 
 We have provided translations of this Privacy Policy, but in the event of any conflict between the local language version and the English version, unless otherwise prescribed by applicable laws, the English version shall prevail.
