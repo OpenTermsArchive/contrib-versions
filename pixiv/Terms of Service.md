@@ -1495,11 +1495,16 @@ Article 5: Scouting
 1. Editors will be entitled to Scout Posting Users. When a User has accepted the particulars presented by an Editor having fully understood the same, such User shall complete separate procedures to accept the Scouting.
 2. Posting Users that are minors must obtain the consent of a guardian before accepting Scouting.
 3. When a Posting User has accepted Scouting and consented to the “pixiv COMIC Indies Debut Support Program Terms of Service”, the Editor that did the Scouting and the Company will be notified.
+    
+    \*As of December 16, 2024, new applications for the Debut Support Program have been discontinued. Accordingly, from December 17, 2024, agreement to the pixiv COMIC Indies Debut Support Program Terms of Service will no longer be required when accepting Scouting invitations.
+    
 
 Article 6: Debut Support Program
 --------------------------------
 
 When a Posting User has consented to the pixiv COMIC Indies Debut Support Program Terms of Service after accepting Scouting, such Posting User will be entitled to receive the pixiv COMIC Indies Debut Support Program during the period from their acceptance of the Scouting until their Debut.
+
+\*As of December 16, 2024, new applications for the Debut Support Program have been discontinued.
 
 Article 7: Prohibitions Related to Individual Service
 -----------------------------------------------------
@@ -1663,6 +1668,7 @@ Supplemental Provisions
 
 * These Individual Terms come into effect on September 27, 2022.
 * These Individual Terms will apply to all acts committed by Users before their effectuation.
+* As of December 16, 2024, new applications for the Debut Support Program have been discontinued. However, these Individual Terms will continue to apply to users who are already participating in the program.
 
 “BOOTH” Individual Terms of Use
 ===============================
