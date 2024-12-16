@@ -36,13 +36,174 @@ Don't invest unless you're prepared to lose all the money you invest. This is a 
 [](https://www.kraken.com/)
 
 * [Explore](#)
+    
+    ##### Products
+    
+    [![Kraken](https://assets-cms.kraken.com/images/51n36hrp/facade/a925939f448a3a410f4f32334165623ad4cccba1-512x512.svg)
+    
+    Kraken
+    
+    Simple trading](https://www.kraken.com/sign-up)[![Kraken Pro](https://assets-cms.kraken.com/images/51n36hrp/facade/dc9d1cc3d444419e1a7aa746153c57490f2858d3-512x512.svg)
+    
+    Kraken Pro
+    
+    Advanced traders](https://pro.kraken.com/app/trade/btc-usd)[![Kraken Desktop](https://assets-cms.kraken.com/images/51n36hrp/facade/957158d6674aae4809ebb569d32c31308566378b-512x512.svg)
+    
+    Kraken Desktop
+    
+    Multi-screen pro trading](https://www.kraken.com/desktop)[![Kraken Wallet](https://assets-cms.kraken.com/images/51n36hrp/facade/475b8798c392708faa303eab78e616eb868f7730-512x512.svg)
+    
+    Kraken Wallet
+    
+    Your passport onchain](https://www.kraken.com/wallet)[![Kraken Institutions](https://assets-cms.kraken.com/images/51n36hrp/facade/0950a607d68c567931b764149e90662c7914cbe0-512x512.svg)
+    
+    Kraken Institutions
+    
+    Tools for institutional traders](https://www.kraken.com/institutions)
+    
+    ##### Trade
+    
+    [![Buy Crypto](https://assets-cms.kraken.com/images/51n36hrp/facade/bb90941de3c2955f149344ca67858747544398d1-36x37.svg)
+    
+    Buy Crypto
+    
+    Get started with $10](https://www.kraken.com/sign-up)[![Convert Crypto](https://assets-cms.kraken.com/images/51n36hrp/facade/cd2c6d6e94f70aee6c6056965b8bbcdf42e2c2f8-36x37.svg)
+    
+    Convert Crypto
+    
+    Fast currency swaps](https://www.kraken.com/convert)
+    
 * [Prices](https://www.kraken.com/prices)
 * [Why Kraken?](#)
+    
+    ##### Why Kraken?
+    
+    [![Industry-leading security](https://assets-cms.kraken.com/images/51n36hrp/facade/f8cc97a9744d29a77e87b0e58197c92925f2ad1c-36x36.svg)
+    
+    Industry-leading security
+    
+    How we protect your funds](https://www.kraken.com/features/security)[![24-7 customer service](https://assets-cms.kraken.com/images/51n36hrp/facade/bb9a8730be707ba068175cb013f8111fcf2e145d-36x36.svg)
+    
+    24-7 customer service
+    
+    Get help whenever you need it](https://www.kraken.com/features/24-7-support)[![Deep liquidity and volume](https://assets-cms.kraken.com/images/51n36hrp/facade/240c80dee5c65967bda1ae43c434ceabd1ff051f-36x36.svg)
+    
+    Deep liquidity and volume
+    
+    Helping you maximise profits](https://www.kraken.com/features/liquidity)[![Mission-driven values](https://assets-cms.kraken.com/images/51n36hrp/facade/7b1752c85d5b4d656c046e5e2199b3896e2eae46-36x36.svg)
+    
+    Mission-driven values
+    
+    How we earn your trust](https://www.kraken.com/why-kraken)[![Proof of reserves](https://assets-cms.kraken.com/images/51n36hrp/facade/f22bc0656ed2076c40e4316f5108ec3a5ccf263b-36x36.svg)
+    
+    Proof of reserves
+    
+    Our commitment to transparency](https://www.kraken.com/proof-of-reserves)[![Flexible funding options](https://assets-cms.kraken.com/images/51n36hrp/facade/8d1417facf4c78c74d678dead4e30089af42791a-36x36.svg)
+    
+    Flexible funding options
+    
+    Cash, cards, crypto and more](https://www.kraken.com/features/funding-options)
+    
 * [Learn](https://www.kraken.com/learn)
 * [Support](https://support.kraken.com/hc/en-us)
 
 * [Log in](https://www.kraken.com/sign-in)
 * [Sign up](https://www.kraken.com/sign-up)
+
+* [Log in](https://www.kraken.com/sign-in)
+* [Sign up](https://www.kraken.com/sign-up)
+
+* [Sign up](https://www.kraken.com/sign-up)
+
+[](https://www.kraken.com/)
+
+* [Log in](https://www.kraken.com/sign-in)
+* [Sign up](https://www.kraken.com/sign-up)
+
+* [Log in](https://www.kraken.com/sign-in)
+* [Sign up](https://www.kraken.com/sign-up)
+
+* [Sign up](https://www.kraken.com/sign-up)
+
+* [Explore](#)
+    
+* [Prices](https://www.kraken.com/prices)
+    
+* [Why Kraken?](#)
+    
+* [Learn](https://www.kraken.com/learn)
+    
+* [Support](https://support.kraken.com/hc/en-us)
+    
+
+##### Products
+
+[![Kraken](https://assets-cms.kraken.com/images/51n36hrp/facade/a925939f448a3a410f4f32334165623ad4cccba1-512x512.svg)
+
+Kraken
+
+Simple trading](https://www.kraken.com/sign-up)[![Kraken Pro](https://assets-cms.kraken.com/images/51n36hrp/facade/dc9d1cc3d444419e1a7aa746153c57490f2858d3-512x512.svg)
+
+Kraken Pro
+
+Advanced traders](https://pro.kraken.com/app/trade/btc-usd)[![Kraken Desktop](https://assets-cms.kraken.com/images/51n36hrp/facade/957158d6674aae4809ebb569d32c31308566378b-512x512.svg)
+
+Kraken Desktop
+
+Multi-screen pro trading](https://www.kraken.com/desktop)[![Kraken Wallet](https://assets-cms.kraken.com/images/51n36hrp/facade/475b8798c392708faa303eab78e616eb868f7730-512x512.svg)
+
+Kraken Wallet
+
+Your passport onchain](https://www.kraken.com/wallet)[![Kraken Institutions](https://assets-cms.kraken.com/images/51n36hrp/facade/0950a607d68c567931b764149e90662c7914cbe0-512x512.svg)
+
+Kraken Institutions
+
+Tools for institutional traders](https://www.kraken.com/institutions)
+
+##### Trade
+
+[![Buy Crypto](https://assets-cms.kraken.com/images/51n36hrp/facade/bb90941de3c2955f149344ca67858747544398d1-36x37.svg)
+
+Buy Crypto
+
+Get started with $10](https://www.kraken.com/sign-up)[![Convert Crypto](https://assets-cms.kraken.com/images/51n36hrp/facade/cd2c6d6e94f70aee6c6056965b8bbcdf42e2c2f8-36x37.svg)
+
+Convert Crypto
+
+Fast currency swaps](https://www.kraken.com/convert)
+
+##### Why Kraken?
+
+[![Industry-leading security](https://assets-cms.kraken.com/images/51n36hrp/facade/f8cc97a9744d29a77e87b0e58197c92925f2ad1c-36x36.svg)
+
+Industry-leading security
+
+How we protect your funds](https://www.kraken.com/features/security)[![24-7 customer service](https://assets-cms.kraken.com/images/51n36hrp/facade/bb9a8730be707ba068175cb013f8111fcf2e145d-36x36.svg)
+
+24-7 customer service
+
+Get help whenever you need it](https://www.kraken.com/features/24-7-support)[![Deep liquidity and volume](https://assets-cms.kraken.com/images/51n36hrp/facade/240c80dee5c65967bda1ae43c434ceabd1ff051f-36x36.svg)
+
+Deep liquidity and volume
+
+Helping you maximise profits](https://www.kraken.com/features/liquidity)[![Mission-driven values](https://assets-cms.kraken.com/images/51n36hrp/facade/7b1752c85d5b4d656c046e5e2199b3896e2eae46-36x36.svg)
+
+Mission-driven values
+
+How we earn your trust](https://www.kraken.com/why-kraken)[![Proof of reserves](https://assets-cms.kraken.com/images/51n36hrp/facade/f22bc0656ed2076c40e4316f5108ec3a5ccf263b-36x36.svg)
+
+Proof of reserves
+
+Our commitment to transparency](https://www.kraken.com/proof-of-reserves)[![Flexible funding options](https://assets-cms.kraken.com/images/51n36hrp/facade/8d1417facf4c78c74d678dead4e30089af42791a-36x36.svg)
+
+Flexible funding options
+
+Cash, cards, crypto and more](https://www.kraken.com/features/funding-options)
+
+* [Log in](https://www.kraken.com/sign-in)
+* [Sign up](https://www.kraken.com/sign-up)
+
+English
 
 **Terms of Service**
 
