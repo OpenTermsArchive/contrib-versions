@@ -45,7 +45,7 @@ Recherche
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
-            * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
+            * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
@@ -821,7 +821,7 @@ Recherche
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
-            * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
+            * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
@@ -1571,7 +1571,7 @@ Recherche
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
-            * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
+            * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
@@ -2267,7 +2267,7 @@ Recherche
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
-            * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
+            * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
@@ -2666,7 +2666,7 @@ Recherche
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
-            * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
+            * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
@@ -3065,7 +3065,7 @@ Recherche
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
-            * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
+            * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
@@ -3464,7 +3464,7 @@ Recherche
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
-            * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
+            * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
@@ -3863,7 +3863,7 @@ Recherche
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
-            * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
+            * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
@@ -4262,7 +4262,7 @@ Recherche
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
-            * [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
+            * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
             * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
             
         * [Toutes les informations sur le Covid-19](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
@@ -4644,7 +4644,7 @@ Retour
 
 * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
 
-* [11 vaccins obligatoires depuis 2018](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/11-vaccins-obligatoires-depuis-2018)
+* [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
 * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
 
 * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
