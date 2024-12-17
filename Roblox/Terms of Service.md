@@ -297,7 +297,7 @@ These User TermsTerms applicable to all Users which provide an overview and the 
             
         2. Federal Arbitration Act; Interpretation; and Enforcement. This Arbitration Agreement is governed by the Federal Arbitration Act (9 U.S.C. § 1 et seq.) (“**FAAFederal Arbitration Act (9 U.S.C. § 1 et seq.) that governs the terms of the Arbitration Agreement.**”), including its procedural provisions, in all respects. This means that the FAAFederal Arbitration Act (9 U.S.C. § 1 et seq.) that governs the terms of the Arbitration Agreement. governs, among other things, the interpretation and enforcement of this Arbitration AgreementA mandatory provision within the User Terms, applicable only to Users of the Services who reside in the U.S., that requires Disputes not resolved through MIDR to be resolved through binding, individual arbitration and waives the right to a jury trial and any class action or class arbitration, as set forth in Section 11(b) of the User Terms. and all of its provisions, including, without limitation, the class action waiver. State arbitration laws do not govern in any respect. Further, UserAny person or entity who uses or accesses the Services. and RobloxThe Roblox Corporation, including its designated subsidiaries: Roblox Prepaid Company LLC, Roblox Godo Kaisha or Roblox Japan, Roblox Canada Inc., Roblox UK Limited (FKA Ceebr Limited), Roblox India Services Private Limited, Roblox Korea Limited, Roblox Australia Pty Ltd, and Roblox Netherlands B.V. each agree that the Roblox TermsThe terms and conditions that apply to and govern a User’s and Creator’s use of the Services. The Roblox Terms include the User Terms, Creator Terms, Roblox Community Standards, Roblox Privacy & Cookie Policy, and regional Supplemental Provisions and other Additional Terms. evidence a transaction involving interstate commerce and will be governed by and construed in accordance with federal law to the fullest extent possible.
         3. Arbitration Generally; Relief Available. There is no judge or jury in arbitration, and court review of an arbitration award is limited pursuant to the FAAFederal Arbitration Act (9 U.S.C. § 1 et seq.) that governs the terms of the Arbitration Agreement.. However, an arbitrator can award, on an individual basis, the same damages and relief as a court (including injunctive and declaratory relief and statutory damages) and must follow the Roblox TermsThe terms and conditions that apply to and govern a User’s and Creator’s use of the Services. The Roblox Terms include the User Terms, Creator Terms, Roblox Community Standards, Roblox Privacy & Cookie Policy, and regional Supplemental Provisions and other Additional Terms. as a court would. For the avoidance of doubt, the arbitrator can award public injunctive relief if authorized by law and warranted by the individual claim(s).
-        4. Arbitration Proceedings and Rules. Arbitrations will be administered by FedArbA nationwide alternative dispute resolution firm that administers all arbitration proceedings under Roblox’s MIDR process, as set forth in Section 11(b) of the User Terms. in accordance with FedArb’s Expedited Arbitration Rules and (if applicable) Framework for Mass Arbitration Proceedings ADR-MDL, except as modified by the Roblox TermsThe terms and conditions that apply to and govern a User’s and Creator’s use of the Services. The Roblox Terms include the User Terms, Creator Terms, Roblox Community Standards, Roblox Privacy & Cookie Policy, and regional Supplemental Provisions and other Additional Terms.. In particular, the Framework for Mass Arbitration Proceedings ADR-MDL shall apply if five or more demands for arbitration are filed that share common factual or legal issues, and if counsel for the parties submitting those demands are the same or coordinated. Users can find more information at [www.fedarb.com](https://en.help.roblox.com/hc/en-us/articles/www.fedarb.com) or by calling 1-650-328-9500.  
+        4. Arbitration Proceedings and Rules. Arbitrations will be administered by FedArbA nationwide alternative dispute resolution firm that administers all arbitration proceedings under Roblox’s MIDR process, as set forth in Section 11(b) of the User Terms. in accordance with FedArb’s Expedited Arbitration Rules and (if applicable) Framework for Mass Arbitration Proceedings ADR-MDL, except as modified by the Roblox TermsThe terms and conditions that apply to and govern a User’s and Creator’s use of the Services. The Roblox Terms include the User Terms, Creator Terms, Roblox Community Standards, Roblox Privacy & Cookie Policy, and regional Supplemental Provisions and other Additional Terms.. In particular, the Framework for Mass Arbitration Proceedings ADR-MDL shall apply if five or more demands for arbitration are filed that share common factual or legal issues, and if counsel for the parties submitting those demands are the same or coordinated. Users can find more information at [https://www.fedarb.com/](https://www.fedarb.com/) or by calling 1-650-328-9500.  
             
             Unless required by law, or unless the parties mutually agree otherwise in writing, any arbitration hearing—including oral arguments—will be conducted through video conferencing. If the arbitration hearing is conducted in person, it will take place in San Mateo County, California, if that is a convenient location for the UserAny person or entity who uses or accesses the Services., or the county or parish where the UserAny person or entity who uses or accesses the Services. resides.
             
@@ -775,7 +775,7 @@ Last Updated: December 2, 2024
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957353013908)
     
-* [ES - Términos de uso de Roblox 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957371387284)
+* [ES - Términos de uso de Roblox 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957371387284)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957371387284)
     
@@ -791,25 +791,25 @@ Last Updated: December 2, 2024
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957342364692)
     
-* [JA - Roblox利用規約 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957366267540)
+* [JA Roblox利用規約 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957366267540)
     
-    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957366267540)
+    3 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957366267540)
     
-* [KO - Roblox 이용 약관 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957376690452)
+* [KO - Roblox 이용 약관 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957376690452)
     
-    3 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957376690452)
+    4 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957376690452)
     
-* [PT-BR - Termos de Uso da Roblox 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957397428884)
+* [PTBR - Termos de Uso da Roblox 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957397428884)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957397428884)
     
-* [ZH-CN - Roblox使用条款 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957445389972)
+* [ZHCN - Roblox使用条款 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957445389972)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957445389972)
     
-* [ZH-TW - Roblox 使用條款 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957415352852)
+* [ZHTW - Roblox 使用條款 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/20957415352852)
     
-    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957415352852)
+    3 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/20957415352852)
     
 * [PL - Warunki korzystania z Roblox 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522165308692)
     
@@ -819,11 +819,11 @@ Last Updated: December 2, 2024
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/21522231017236)
     
-* [TR - Roblox Kullanım Koşulları 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522305082260)
+* [TR - Roblox Kullanım Koşulları 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522305082260)
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/21522305082260)
     
-* [VI - Điều khoản Sử dụng của Roblox 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522384208660)
+* [VI - Điều khoản Sử dụng của Roblox 20241202.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/21522384208660)
     
     4 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/21522384208660)
     
