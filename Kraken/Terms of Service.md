@@ -28,6 +28,8 @@
 * [Learn](https://www.kraken.com/learn)
 * [Support](https://support.kraken.com/hc/en-us)
 
+![Get the app](https://assets-cms.kraken.com/images/51n36hrp/facade/475b8798c392708faa303eab78e616eb868f7730-512x512.svg)Get the app
+
 * [Log in](https://www.kraken.com/sign-in)
 * [Sign up](https://www.kraken.com/sign-up)
 
@@ -107,6 +109,8 @@ Don't invest unless you're prepared to lose all the money you invest. This is a 
 * [Learn](https://www.kraken.com/learn)
 * [Support](https://support.kraken.com/hc/en-us)
 
+![Get the app](https://assets-cms.kraken.com/images/51n36hrp/facade/c33f503b700288fbe36e59d0d03612f1850da5ab-464x464.svg)Get the app
+
 * [Log in](https://www.kraken.com/sign-in)
 * [Sign up](https://www.kraken.com/sign-up)
 
@@ -116,6 +120,8 @@ Don't invest unless you're prepared to lose all the money you invest. This is a 
 * [Sign up](https://www.kraken.com/sign-up)
 
 [](https://www.kraken.com/)
+
+![Get the app](https://assets-cms.kraken.com/images/51n36hrp/facade/c33f503b700288fbe36e59d0d03612f1850da5ab-464x464.svg)Get the app
 
 * [Log in](https://www.kraken.com/sign-in)
 * [Sign up](https://www.kraken.com/sign-up)
@@ -200,6 +206,12 @@ Flexible funding options
 
 Cash, cards, crypto and more](https://www.kraken.com/features/funding-options)
 
+Get the Kraken app and buy or sell Bitcoin in minutes.
+
+[![#](https://assets-cms.kraken.com/images/51n36hrp/facade/2d372dec6b8def980893101e8c950d87783b99bb-121x40.svg)](#)
+
+[![#](https://assets-cms.kraken.com/images/51n36hrp/facade/f59c1a87cc31e6da9d4b8f99f048272cf77def84-121x40.svg)](#)
+
 * [Log in](https://www.kraken.com/sign-in)
 * [Sign up](https://www.kraken.com/sign-up)
 
@@ -231,7 +243,7 @@ The following is the binding and enforceable Terms of Service.
 
 Kraken.com Terms of Service
 
-Last Updated: October 23, 2024
+Last Updated: December 16, 2024
 
 Please read these Terms of Service (including all Annexes, “Terms”) carefully, as they are binding and govern your use of our services, and our websites (including kraken.com, and pro.kraken.com), and mobile applications through which you access our services (“Platforms”), along with any applicable third-party terms you may have agreed to as part of using or receiving our mobile applications (such as terms for the Apple App Store or Google Play, if applicable). If these Terms conflict with any such third-party terms, these Terms will control to the extent of the conflict. By accessing or using our services or Platforms, or by creating an account, you agree to these Terms. 
 
@@ -1364,64 +1376,70 @@ In connection with your holding kBTC or use of the kBTC Services, you hereby agr
 
 Annex H
 
-Kraken Transfers
+Kraken Pay
 
-This Annex H (this “Kraken Transfers Annex”) incorporates by reference and supplements the Kraken.com Terms of Service (excluding all Annexes thereto, “Terms”) as if the entirety of the Terms were set forth in this Kraken Transfers Annex. Capitalized terms used but not defined in this Kraken Transfers Annex have the meanings given to them elsewhere in the Terms. In the event of a conflict between the Terms and this Kraken Transfers Annex, the terms of this Kraken Transfers Annex will control solely to the extent of the conflict and solely with respect to the subject matter of this Kraken Transfers Annex.
+This Annex H (this “Kraken Pay Annex”) incorporates by reference and supplements the Kraken.com Terms of Service (excluding all Annexes thereto, “Terms”) as if the entirety of the Terms were set forth in this Kraken Pay Annex. Capitalized terms used but not defined in this Kraken Pay Annex have the meanings given to them elsewhere in the Terms. In the event of a conflict between the Terms and this Kraken Pay Annex, the terms of this Kraken Pay Annex will control solely to the extent of the conflict and solely with respect to the subject matter of this Kraken Pay Annex.
 
-We may provide you the option to send or receive certain Digital Assets and/or Fiat Currency to or from other eligible Kraken users on the Platform (the “Kraken Transfers Service”) for personal use, subject to these Terms and your fulfillment of all applicable eligibility criteria.
+We may provide you the option to send or receive certain Digital Assets and/or Fiat Currency to or from other eligible Kraken users on the Platform (the “Kraken Pay Service”) for personal use, subject to these Terms and your fulfillment of all applicable eligibility criteria.
 
-WE MAKE NO REPRESENTATION OR WARRANTY THAT THE KRAKEN TRANSFERS SERVICE IS APPROPRIATE FOR USE IN ALL LOCATIONS, OR THAT THE TRANSACTIONS AND SERVICES DESCRIBED HEREIN ARE AVAILABLE OR APPROPRIATE FOR ENTRY INTO OR USE IN ALL JURISDICTIONS OR BY ALL PARTIES. YOU SHOULD INFORM YOURSELF AS TO THE LEGAL REQUIREMENTS AND TAX CONSEQUENCES OF USING THE  KRAKEN TRANSFERS SERVICE WITHIN ALL JURISDICTIONS APPLICABLE TO YOU. WE ARE NOT RESPONSIBLE FOR TAX CONSEQUENCES TO YOU OF PARTICIPATING IN THE  KRAKEN TRANSFERS SERVICE.
+WE MAKE NO REPRESENTATION OR WARRANTY THAT THE Kraken Pay SERVICE IS APPROPRIATE FOR USE IN ALL LOCATIONS, OR THAT THE TRANSACTIONS AND SERVICES DESCRIBED HEREIN ARE AVAILABLE OR APPROPRIATE FOR ENTRY INTO OR USE IN ALL JURISDICTIONS OR BY ALL PARTIES. YOU SHOULD INFORM YOURSELF AS TO THE LEGAL REQUIREMENTS AND TAX CONSEQUENCES OF USING THE  Kraken Pay SERVICE WITHIN ALL JURISDICTIONS APPLICABLE TO YOU. WE ARE NOT RESPONSIBLE FOR TAX CONSEQUENCES TO YOU OF PARTICIPATING IN THE  Kraken Pay SERVICE.
 
 1. Eligibility
 
-You may only use the Kraken Transfers Service if (i) you fulfill the eligibility criteria of the Terms and (ii) your use of the Kraken Transfers Service is not prohibited by applicable laws or regulations of the jurisdiction of your residence. We reserve the right to impose additional eligibility criteria on your use of the Kraken Transfers Service. If the Kraken Transfers Service is available in your jurisdiction, your account will include a “Kraken Transfers” section located in the Deposits/Withdrawals section of your account.
+You may only use the Kraken Pay Service if (i) you fulfill the eligibility criteria of the Terms and (ii) your use of the Kraken Pay Service is not prohibited by applicable laws or regulations of the jurisdiction of your residence. You may only use the Kraken Pay Service for personal use and transfers to third parties may not be to any provider or merchant for goods, services, rents, or royalties. We reserve the right to impose additional eligibility criteria on your use of the Kraken Pay Service.
 
-The Kraken Transfers Service will only be offered in select jurisdictions at Kraken’s sole discretion and is subject to change or discontinuation at any time. Please note that in some jurisdictions the Kraken Transfers Service may be available for Digital Asset transfers only.
+The Kraken Pay Service will only be offered in select jurisdictions at Kraken’s sole discretion and is subject to change or discontinuation at any time. Please note that in some jurisdictions the Kraken Pay Service may be available for Digital Asset transfers only.
 
-2. Sending Digital Assets and/or Fiat Currency Using the Kraken Transfers Service
+2. Sending Digital Assets and/or Fiat Currency Using the Kraken Pay Service
 
-1. Initiating a Transfer
+1. Initiating a Kraken Payment
 
-To initiate a transfer of Digital Assets or Fiat Currency to another Kraken user (the “Recipient”) through the Kraken Transfers Service (a “Kraken Transfer”), you (the “Sender”) may provide instructions to Kraken by designating (i) the intended Recipient of the transfer, and (ii) the type and amount of Digital Asset or Fiat Currency in your account that you wish to transfer (the “Kraken Transfer Instructions”). By submitting the Kraken Transfer Instructions and confirming the transaction, you authorize us to transfer the designated Digital Assets or Fiat Currency to the Recipient you have selected.
+To initiate a transfer of Digital Assets or Fiat Currency through the Kraken Pay Service (a “Kraken Payment”), you (the “Sender”) may provide instructions to Kraken by designating (i) the type and amount of Digital Asset or Fiat Currency in your account that you wish to transfer, and (ii)  the intended recipient of the transfer (the “Kraken Pay Instructions”). By submitting the Kraken Pay Instructions and confirming the transaction, you authorize us to transfer the designated Digital Assets or Fiat Currency to the recipient you have selected.
 
-2. Identifying a Recipient
+2. Identifying Digital Assets or Fiat Currency for Kraken Payment
 
-You may designate a Recipient by entering the Public Account ID (IIBAN), email, or username (if enabled) associated with the Recipient’s Kraken account. You may only initiate a Kraken Transfer to a Kraken account user who is eligible to use the Kraken Transfers Service and who has enabled Kraken Transfers in their account settings.
+To initiate a Kraken Payment, you must select the amount and type of Digital Asset or Fiat Currency you wish to transfer. You agree to have sufficient Digital Assets and/or Fiat Currency in your account prior to submitting your Kraken Pay Instructions. If the Digital Assets and/or Fiat Currency in your account are insufficient to cover the amount required for us to complete the Kraken Payment, you may select alternative Digital Assets and/or Fiat Currency in your account to Trade for the desired amount and type of Digital Asset or Fiat Currency you wish to transfer, which will be subject to applicable fees for the Instant Buy/Sell service.
 
-3. Identifying Digital Assets or Fiat Currency for Transfer
+You may only send Digital Assets and/or Fiat Currency to a Recipient if the Digital Asset and/or Fiat Currency is also available in the Recipient’s jurisdiction. We may decide to add or remove assets from the list of eligible Digital Assets or Fiat Currency available in any jurisdiction, including those available for Kraken Pay, at any time at our sole discretion. Additionally, your use of the Kraken Pay Service is subject to certain limits (for example, in the magnitude and/or frequency of Kraken Pay you may initiate within a specified period), which may change at any time.
 
-To initiate a Kraken Transfer, you must select the amount and type of Digital Asset or Fiat Currency you wish to transfer. You agree to have sufficient Digital Assets and/or Fiat Currency in your account prior to submitting your Kraken Transfer Instructions. If the Digital Assets and/or Fiat Currency in your account are insufficient to cover the amount required for us to complete the Kraken Transfer, we will not effect the transfer.
+3. Identifying a Recipient
 
-You may only send Digital Assets and/or Fiat Currency to a Recipient if the Digital Asset and/or Fiat Currency is also available in the Recipient’s jurisdiction. We may decide to add or remove assets from the list of eligible Digital Assets or Fiat Currency available in any jurisdiction, including those available for Kraken Transfers, at any time at our sole discretion. Additionally, your use of the Kraken Transfers Service is subject to certain limits (for example, in the magnitude and/or frequency of Kraken Transfers you may initiate within a specified period), which may change at any time.
+You may designate another Kraken user by entering the Kraktag or email (if enabled) associated with the recipient’s Kraken account or by selecting the “Paylinks” feature, described below. You may only initiate a Kraken Payment to a Kraken account user who is eligible to use the Kraken Pay Service.
 
-4. Transfer Timing
+If you select Paylinks as your recipient, a payment link (“Paylink”) will be generated, which you may share with the intended recipient through your own chosen communication method. Once a Paylink has been generated, the Digital Assets and/or Fiat Currency you have selected for transfer will no longer be available in your account. While a recipient of the Paylink does not need a Kraken account to receive the Paylink, the recipient must create a Kraken account, pass identity verification, and otherwise be eligible to use the Kraken Pay Service in order to claim the Digital Assets or Fiat Currency you have designated for transfer through the Paylink.
 
-You understand and agree that when you submit Kraken Transfer Instructions and confirm the transaction, we will begin processing the transfer instruction immediately and the designated Digital Assets or Fiat Currency  may leave your account as soon as you confirm the transaction. Title to any Digital Assets or Fiat Currency you send through the Kraken Transfers Service will be transferred to the Recipient immediately following a successful transfer.  
+A Paylink may only be redeemed once and expires after 14 days. If after 14 days the designated Digital Assets or Fiat Currency have not been successfully claimed through the Paylink, the Digital Assets or Fiat Currency will be returned to your account.
 
-You should verify all transaction information prior to submitting Kraken Transfer Instructions as the transfer may not be canceled or reversed once it is processed unless we decide at our sole discretion that the transaction should be canceled or reversed and we have the technical capability to effect such a cancellation or reversal. You acknowledge that you are responsible for ensuring the accuracy of any Kraken Transfer Instructions submitted to us and that any errors may result in the irreversible loss of your Digital Assets and/or Fiat Currency.
+You are responsible for ensuring that the Paylink is sent to the intended recipient. Kraken does not verify the identity of the intended recipient and shall bear no liability or responsibility in the event an individual other than the intended recipient claims the Digital Assets or Fiat Currency sent via the Paylinks feature.
 
-5. Pending Transfers
+4. Kraken Payment Timing
 
-Kraken Transfers that you initiate may have a “Pending” status displayed in your account (“Pending Transfers”). These transfers may remain in pending status for a certain period of time depending on various factors. Pending Transfers will either fail due to various reasons or eventually become a successful transfer.
+You understand and agree that when you submit Kraken Pay Instructions and confirm the transaction, we will begin processing the transfer instruction immediately and the designated Digital Assets or Fiat Currency may leave your account as soon as you confirm the transaction. Title to any Digital Assets or Fiat Currency you send through the Kraken Pay Service will be transferred to the Recipient immediately following a successful transfer.  
 
-6. Failed Transfers
+You should verify all transaction information prior to submitting Kraken Pay Instructions as the transfer may not be canceled or reversed once it is processed unless we decide at our sole discretion that the transaction should be canceled or reversed and we have the technical capability to effect such a cancellation or reversal. You acknowledge that you are responsible for ensuring the accuracy of any Kraken Pay Instructions submitted to us and that any errors may result in the irreversible loss of your Digital Assets and/or Fiat Currency.
 
- Kraken Transfers may fail for a number of reasons. In the case of a failed transfer, you will be notified, and you may be able to reinitiate a transfer by submitting new Kraken Transfer Instructions as outlined above. In the case of a failed transfer, the Digital Assets and/or Fiat Currency designated for transfer will remain in your account, and the Digital Assets and/or Fiat Currency will not be transferred to the Recipient.
+5. Pending Kraken Payments
 
-7. Cancellation of Transfers
+Kraken Payments you initiate may have a “Pending” status displayed in your account (“Pending Kraken Payments”). These Pending Kraken Payments may remain in pending status for a certain period of time depending on various factors. The Pending Kraken Payments will either fail due to various reasons or eventually become a successful Kraken Payment.
 
-All completed Kraken Transfers are final and generally cannot be reversed. In some circumstances, you may have the opportunity to request cancellation of a Pending Transfer, but we may refuse any cancellation request at our sole discretion. If we fulfill such a cancellation request, that does not mean we will cancel future transfers in the same or similar circumstances. Additionally, we may cancel or refuse to process any pending Kraken Transfers as required by law or any court or other authority to which Kraken is subject in any jurisdiction.
+6. Failed Kraken Payments
+
+Kraken Payments may fail for a number of reasons. In the case of a failed Kraken Payment, you will be notified, and you may be able to reinitiate a Kraken Payment by submitting new Kraken Pay Instructions as outlined above. In the case of a failed Kraken Payment, the Digital Assets and/or Fiat Currency designated for transfer will remain in your account, and the Digital Assets and/or Fiat Currency will not be transferred to the Recipient.
+
+7. Cancellation of Kraken Payments
+
+All completed Kraken Payments are final and generally cannot be reversed. In some circumstances, you may have the opportunity to request cancellation of a Pending Kraken Payments, but we may refuse any cancellation request at our sole discretion. If we fulfill such a cancellation request, that does not mean we will cancel future Kraken Payments in the same or similar circumstances. Additionally, we may cancel or refuse to process any pending Kraken Payments as required by law or any court or other authority to which Kraken is subject in any jurisdiction.
 
 3. Fees
 
-There are no fees for using the Kraken Transfers Service. Please note, however, that when you initiate a transfer of Digital Assets, any Fiat Currency equivalent value displayed by our services is indicative only.  The exchange rate between Fiat Currency and the Digital Asset indicated by our services may change between when you submit the Kraken Transfer Instructions and when we execute those instructions. We are not liable for any fluctuations in the market value of the Digital Assets you designate for transfer.
+There are no fees for using the Kraken Pay Service. Please note, however, that when you initiate a transfer of Digital Assets, any Fiat Currency equivalent value displayed by our services is indicative only.  The exchange rate between Fiat Currency and the Digital Asset indicated by our services may change between when you submit the Kraken Pay Instructions and when we execute those instructions. We are not liable for any fluctuations in the market value of the Digital Assets you designate for transfer.
 
 4. Liability
 
-You are solely responsible for your use of the Kraken Transfers Service, and we make no representations, warranties, or guarantees that the Kraken Transfers Services will function or perform in accordance with your expectations. You hereby acknowledge and agree that we disclaim and have no responsibility for any loss, liability, or damage you may incur, directly or indirectly, in connection with the Kraken Transfers Services. You further agree that we shall not be liable for any delays in effectuating a Kraken Transfer,, or if we are unable to complete a Kraken Transfer for any reason, including but not limited to, because of: (i) any direct or indirect actions taken by you, including providing inaccurate, or insufficient Kraken Transfer Instructions, that result in a mistaken or accidental transfer; (ii) insufficient Digital Assets and/or Fiat Currency in your account to complete the transfer according to your Kraken Transfer Instructions; (ii) any malfunction of the Kraken Transfers Service due to circumstances beyond our control; or (iii) any suspension or discontinuance of the Kraken Transfers Service.
+You are solely responsible for your use of the Kraken Pay Service, and we make no representations, warranties, or guarantees that the Kraken Pay Services will function or perform in accordance with your expectations. You hereby acknowledge and agree that we disclaim and have no responsibility for any loss, liability, or damage you may incur, directly or indirectly, in connection with the Kraken Pay Services. You further agree that we shall not be liable for any delays in effectuating a Kraken Payment, or if we are unable to complete a Kraken Payment for any reason, including but not limited to, because of: (i) any direct or indirect actions taken by you, including providing inaccurate, or insufficient Kraken Pay Instructions, that result in a mistaken or accidental transfer; (ii) insufficient Digital Assets and/or Fiat Currency in your account to complete the transfer according to your Kraken Pay Instructions; (ii) any malfunction of the Kraken Pay Service due to circumstances beyond our control; or (iii) any suspension or discontinuance of the Kraken Pay Service.
 
 5. Taxes
 
-Sending or receiving Digital Assets may constitute a taxable transaction in certain situations (e.g., exchanging digital assets for goods or services).  You alone are responsible for determining whether your use of the Kraken Transfers Service is subject to tax and for reporting and remitting the correct taxes to the appropriate tax authorities. You agree that we have no responsibility or liability for determining whether a transaction is subject to tax and what taxes apply or for collecting, reporting, withholding, or remitting any taxes arising from Kraken Transfers, unless otherwise required by law.  Notwithstanding anything herein to the contrary, you acknowledge and accept that Kraken may have a legal obligation to make reports, and will make such reports as required, to the relevant tax authorities regarding Kraken Transfers.
+Sending or receiving Digital Assets may constitute a taxable transaction in certain situations.  You alone are responsible for determining whether your use of the Kraken Pay Service is subject to tax and for reporting and remitting the correct taxes to the appropriate tax authorities. You agree that we have no responsibility or liability for determining whether a transaction is subject to tax and what taxes apply or for collecting, reporting, withholding, or remitting any taxes arising from Kraken Payments, unless otherwise required by law.  Notwithstanding anything herein to the contrary, you acknowledge and accept that Kraken may have a legal obligation to make reports, and will make such reports as required, to the relevant tax authorities regarding Kraken Pay.
 
 If you have any questions about your tax obligations, please consult with a tax professional for advice.
