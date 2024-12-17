@@ -1,7 +1,7 @@
 [![webpronews.com](https://www.webpronews.com/wp-content/uploads/2023/07/newlogotest.png)  
 WebProNews](https://www.webpronews.com/)
 
-[Advertise with Us](https://www.webpronews.com/advertise/?utm_source=main_header&utm_medium=site&utm_campaign=advertise_page)
+[Advertise with Us](https://www.webpronews.com/advertise)
 
 [![webpronews.com](https://www.webpronews.com/wp-content/uploads/2023/07/newlogotest.png)](https://www.webpronews.com/)
 
@@ -181,7 +181,9 @@ Browse Categories
 
 [](https://www.facebook.com/WebProNews/)[](https://twitter.com/WebProNews)[](https://www.linkedin.com/company/webpronews)
 
-[Request Media Kit](https://www.webpronews.com/advertise)
+Request Media Kit
+
+\[forminator\_form id="522797"\]
 
 Terms of Service
 ================
@@ -261,7 +263,7 @@ United States
 
 859-514-2720
 
-![](https://www.webpronews.com/wp-content/themes/wpn_theme/imgs/wpn-nl-ipad.png)
+![](https://www.webpronews.com/wp-content/themes/wpntheme/imgs/wpn-nl-ipad.png)
 
 Get the WebProNews newsletter delivered to your inbox
 
@@ -279,7 +281,7 @@ Get our media kit
 
 About Us
 
-![](https://www.webpronews.com/wp-content/themes/wpn_theme/imgs/wpn-cube.png)
+![](https://www.webpronews.com/wp-content/themes/wpntheme/imgs/wpn-cube.png)
 
 WebProNews is a leading publisher of business and technology email newsletters and websites.
 ============================================================================================
@@ -310,6 +312,6 @@ Deliver your marketing message **directly to decision makers.**
 
 [Get Started](https://www.webpronews.com/advertise/?utm_source=main_header&utm_medium=site&utm_campaign=advertise_page)
 
-![](https://www.webpronews.com/wp-content/themes/wpn_theme/imgs/ientry_logo.png) WebProNews is an iEntry Publication
+![](https://www.webpronews.com/wp-content/themes/wpntheme/imgs/ientry_logo.png) WebProNews is an iEntry Publication
 
 ©2024 iEntry, Inc. All rights reserved. [Privacy Policy](https://www.webpronews.com/privacy-policy) | [Legal](https://www.ientry.com/legal/) | [Contact Us](https://www.webpronews.com/contact) |
