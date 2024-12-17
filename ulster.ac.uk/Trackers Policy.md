@@ -37,6 +37,8 @@ We will not identify you through analytics information, and we will not combine 
 
 We continuously test and monitor our data protection controls to make sure they’re effective and to detect any weaknesses.
 
+* [View our Cookie Policy](https://www.ulster.ac.uk/cookie-policy)
+
 Microsoft Clarity
 -----------------
 
