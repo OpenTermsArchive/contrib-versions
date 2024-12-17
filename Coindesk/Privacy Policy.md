@@ -103,92 +103,92 @@
 * [Indices](https://indices.coindesk.com/indices)
 * [Consensus](https://consensus.coindesk.com/)
 
-[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-d89tzs5lk-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75&dpl=dpl_Cm8ENUnqkt6uuDWw6nVV81jv81VA)](https://www.coindesk.com/)
+[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-6knf3tiyc-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75&dpl=dpl_5WfNcvLw7N5k9AZk3ygLu9fmruzk)](https://www.coindesk.com/)
 
 * [Sponsored](https://www.coindesk.com/sponsored-content)
 * [Sign Up](https://www.coindesk.com/api/auth/login?returnTo=/privacy)
 
 [BTC
 
-107,017.44
+106,797.15
 
-+3.56%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
++1.65%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
 
-4,045.63
+4,025.36
 
-+2.85%](https://www.coindesk.com/price/ethereum "View price details")[XRP
++1.31%](https://www.coindesk.com/price/ethereum "View price details")[XRP
 
-2.50
+2.51
 
-+3.71%](https://www.coindesk.com/price/xrp "View price details")[USDT
++3.88%](https://www.coindesk.com/price/xrp "View price details")[USDT
 
-1.00
+0.99976798
 
-+0.04%](https://www.coindesk.com/price/tether "View price details")[SOL
++0.01%](https://www.coindesk.com/price/tether "View price details")[BNB
 
-219.71
+717.37
 
-\-0.89%](https://www.coindesk.com/price/solana "View price details")[BNB
++0.36%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
 
-724.60
+215.06
 
-+0.75%](https://www.coindesk.com/price/binance-coin "View price details")[DOGE
+\-3.34%](https://www.coindesk.com/price/solana "View price details")[DOGE
 
-0.40880264
+0.40034310
 
-+1.35%](https://www.coindesk.com/price/dogecoin "View price details")[USDC
+\-1.31%](https://www.coindesk.com/price/dogecoin "View price details")[USDC
 
-0.99987389
+0.99992372
 
-\-0.01%](https://www.coindesk.com/price/usd-coin "View price details")[ADA
+\-0.01%](https://www.coindesk.com/price/usd-coin "View price details")[STETH
 
-1.11
+4,019.21
 
-+1.60%](https://www.coindesk.com/price/cardano "View price details")[STETH
++1.23%](https://www.coindesk.com/price/steth "View price details")[ADA
 
-4,040.55
+1.06
 
-+2.77%](https://www.coindesk.com/price/steth "View price details")[TRX
+\-1.92%](https://www.coindesk.com/price/cardano "View price details")[TRX
 
-0.29608353
+0.29399781
 
-+3.90%](https://www.coindesk.com/price/tron "View price details")[AVAX
++3.27%](https://www.coindesk.com/price/tron "View price details")[AVAX
 
-50.03
+48.97
 
-\-0.60%](https://www.coindesk.com/price/avax "View price details")[LINK
+\-2.83%](https://www.coindesk.com/price/avax "View price details")[LINK
 
-29.90
+28.40
 
-+1.23%](https://www.coindesk.com/price/chainlink "View price details")[SHIB
+\-1.78%](https://www.coindesk.com/price/chainlink "View price details")[SHIB
 
-0.0₄27633
+0.0₄27001
 
-\-0.40%](https://www.coindesk.com/price/shiba-inu "View price details")[TON
+\-2.09%](https://www.coindesk.com/price/shiba-inu "View price details")[TON
 
-6.14
+6.05
 
-\-3.85%](https://www.coindesk.com/price/toncoin "View price details")[WBTC
+\-5.28%](https://www.coindesk.com/price/toncoin "View price details")[WBTC
 
-106,708.40
+106,435.17
 
-+3.71%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[SUI
++1.72%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[SUI
 
 4.72
 
-+2.21%](https://www.coindesk.com/price/sui "View price details")[XLM
+\-2.35%](https://www.coindesk.com/price/sui "View price details")[XLM
 
-0.42645547
+0.41797881
 
-+0.14%](https://www.coindesk.com/price/xlm "View price details")[HBAR
+\-0.87%](https://www.coindesk.com/price/xlm "View price details")[HBAR
 
-0.28626023
+0.27925323
 
-\-1.32%](https://www.coindesk.com/price/hbar "View price details")[BCH
+\-3.16%](https://www.coindesk.com/price/hbar "View price details")[BCH
 
-545.98
+537.42
 
-+1.36%](https://www.coindesk.com/price/bitcoin-cash "View price details")
+\-0.76%](https://www.coindesk.com/price/bitcoin-cash "View price details")
 
 Privacy
 =======
