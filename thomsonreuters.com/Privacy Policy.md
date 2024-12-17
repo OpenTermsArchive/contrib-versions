@@ -23,10 +23,10 @@ Last updated: April 8, 2024
 * [What rights do I have over my personal information?](#RightsPI)
 * [Changes to this Privacy Statement](#ChangesStatement)
 * [California Consumer Request Metrics](#requestmetrics)
-
 * [Supplemental Privacy Statements](#SupplementalStatements)
     * [European Data Privacy Framework Supplemental Statement](#EuropeanDataPrivacy)
     * [California Statement](#california)
+    * [Supplemental Privacy Statement for Chinese Residents under PIPL (EN)](#SupplementalPrivacy)
     * [Informational Content Privacy Statement](#InfoContent)
     * [Public Records Privacy Statement](https://legal.thomsonreuters.com/en/legal-notices/privacy-records)
     * [Cookie & IBA Statement](#CookieIBA)
@@ -247,6 +247,8 @@ Depending on the specific Service you are using or specific interactions you hav
 
 * For California Consumers, please review our Supplemental Privacy Statement for California Consumers under CCPA/CPRA (California Statement).
 
+* For residents of China, please review our Supplemental Privacy Statement for Chinese Residents under PIPL
+
 * For our content that is distributed within our Services — with respect to personal information included in such content — please review our Informational Content Privacy Statement.
 
 * For our Risk, Fraud, and Compliance products (“Public Records Products”) — such as PeopleMap, Public Records on Westlaw, Company Investigator, Court Express, Batch Services, and CLEAR — please review our supplemental Public Records Privacy Statement.
@@ -462,3 +464,79 @@ In many cases, Thomson Reuters is not the source of the information content, and
 If you have any questions or concerns regarding the substance of any informational content or your personal information as contained in that information content, please contact the source of the informational content and work with them directly to resolve your questions or concerns.
 
 We last updated this Informational Content Privacy Statement on April 8, 2024.
+
+* * *
+
+**Supplemental Privacy Statement for Chinese Residents under PIPL**
+-------------------------------------------------------------------
+
+This Supplemental Privacy Statement for Chinese Residents under PIPL (“Chinese Statement”) supplements our Privacy Statement and further explains required disclosures about how we collect and process the personal information of individuals resident in China and the rights that Chinese residents may have under the Personal Information Protection Law of the People’s Republic of China (“PIPL”) where we act as a personal information processor pursuant to PIPL. Solely for the purpose of this Privacy Statement, the term “China” or “PRC” refers to the People’s Republic of China and does not include Hong Kong, Macau and Taiwan.
+
+When we use the term “personal information” in this Chinese Statement, we are using that term as PIPL defines it, which generally means information related to an identified or identifiable natural person that is recorded electronically or otherwise, excluding anonymized information.
+
+For individuals (excluding job applicants) resident in China, the controller (i.e., the personal information processor as defined under the PIPL) of their personal information is Thomson Reuters (Beijing) Technology Development Co. Ltd.. For job applicants resident in China, the controller of their personal information is Thomson Reuters Canada Limited.
+
+This Privacy Statement applies to customers and users (including prospective customers and users), third party business partners and other individuals who interact with us or whose personal information we maintain, resident in China, but does not apply to Chinese employees, the processing of personal information of whom has been described in the Thomson Reuters – China Employee Privacy Notice.
+
+### Processing of sensitive personal information
+
+“Sensitive personal information” is defined in the PIPL as personal information, that, if leaked or if used illegally, is likely to cause harm to a natural person’s personal dignity or endanger his or her personal safety or the safety of his or her property, including information concerning biometrics, religious beliefs, particular capacity, medical treatments, health, financial accounts, tracking, as well as personal information of minors under the age of 14. Among the various categories of personal information we may collect as described in the “What personal information do you collect and process?” section of this Privacy Statement, the following may be considered as sensitive personal information:
+
+* **Account information including purchase history;** 
+* **Pictures, audio, and video recordings** 
+* **Identity information;**
+* **Financial information;**
+* **Legal information**
+
+We will process your sensitive personal information for the specific purposes as described in this Privacy Statement, and in a way that has the least impact on your personal rights and interests. **By interacting with us, you will be deemed as having consented to our collection and processing of your sensitive personal information in accordance with this Privacy Statement.**
+
+### Legal basis and purposes for the processing of personal information
+
+We may, where applicable under the Chinese laws, rely on some or all of the following applicable legal bases for the processing of your personal information: (i) your consent (“Your Consent”), (ii) the necessity to conclude or perform a contract to which you are a party (“Contract Basis”), (iii) the necessity to perform a statutory duty or legal obligation (“Legal Obligation Basis”); (iv) the necessity to safeguard your life safety, health and property safety in emergency situations (“Emergency Basis”); (v) personal information has been made public by you or has otherwise been lawfully made public, and our processing is done pursuant to the PIPL and the extent of the processing is reasonable (“Public Information Basis”); and (vi) other circumstances as stipulated in Chinese laws.
+
+The below table includes the relevant purposes for the personal information processing and the corresponding legal basis. This table is for indicative purposes only, and in practice, there may be some variations based on the circumstances.
+
+|     |     |
+| --- | --- |
+| **Purpose** | **Legal basis** |
+| * To fulfill our contractual obligations, including registering your account and providing our Services<br>    <br>* Communicate with you about our Services and process related transactions<br>    <br>* For any purpose, with your consent or to follow your instructions | * Contract Basis<br>    <br>* Individual Consent |
+| * To operate, improve, or personalize our Services, corporate networks and devices, offices, events, and related infrastructure<br>* To annotate, tag, and add metadata to our content, including naming or tagging individuals in our news content<br>* Develop new products, services, content, and other offerings <br>* Monitor the usage of our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Audit usage of our Services, corporate networks and devices, offices, events, and related infrastructure, including consumer interactions<br>* Ensure the security of our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Detect fraud and abuse, including for our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Manage our internal operations, such as account administration, corporate asset deployment, billing, troubleshooting, and repair | * Contract Basis<br>    <br>* Individual Consent |
+| * Provide our Services to third parties where our Services and content include your personal information.<br>* Send you personalized and interest-based advertising and marketing <br>* Improve and develop new marketing campaigns, segments, and materials<br>* To enable you to partake in a prize draw or competition or complete a survey | * Contract Basis<br>    <br>* Individual Consent<br>    <br><br>* Public Information Basis<br><br>* Individual Consent |
+| * Manage the applicant relationship, such as for the application process or background checks<br>* Communicate with you regarding recruiting purposes | * Contract Basis<br>    <br>* Individual Consent |
+| * Exercise our rights and protect our or others’ rights or property <br>* Effectuate the sale, merger, acquisition, or other disposition of our business<br>* Advance our other commercial and economic interests as permitted by law<br>* For other purposes as required by or permitted by law | * Legal Obligation Basis<br>    <br>* Emergency Basis<br>    <br>* Individual Consent |
+
+### Sharing of personal information
+
+We may share your personal information to the recipients as prescribed in the “Who do you share personal information with?” section of this Privacy Statement.  Depending on how you interact with us and as required by applicable law, we provide notice of recipients at the time of data collection. If we provide your personal information to additional recipients, we will follow and adopt the applicable process and requirements required by the applicable law (including the PIPL) in respect of the provision of your personal information. **By interacting with us, you will be deemed as having consented to our sharing of your personal data to the foregoing recipients in accordance with this Privacy Statement.**
+
+### Provision of personal information outside of China
+
+As mentioned in the “Where do you store personal information?” section of this Privacy Statement, your personal information may be transferred outside of China. The details of the outbound provision of your personal information are set out below:
+
+* Recipient: Thomson Reuters Canada Limited
+* Country of the Recipient: Canada
+* Types of personal information: Please refer to the “What personal information do you collect and process?” section of this Privacy Statement
+* Purposes: Please refer to the “Legal basis and purposes for the processing of personal information” section of this China Statement
+* Contact information of the recipient: You may contact Thomson Reuters by emailing us at [privacy.issues@thomsonreuters.com](mailto:privacy.issues@thomsonreuters.com "privacy.issues@thomsonreuters.com") or mailing to our Chief Compliance Officer and Data Protection Officer: Thomson Reuters, Landis + Gyr-Strasse 3, 6300 Zug, Switzerland.
+
+### Your rights
+
+If you are resident in China, you may have one or more of the following rights under PIPL:
+
+* Right of access and copy: You have the right to access and copy the personal information concerning you.
+* Right to rectification: You have the right to request us to rectify inaccurate personal information concerning you or supplement incomplete personal information.
+* Right to erasure: You have the right to ask us to erase your personal information in certain circumstances specified under the applicable law. However, your right to erasure will not affect the lawfulness of our processing prior to the erasure request or processing based on the applicable legal bases.
+* Right to explanation: You have the right to require us to further explain our rules of processing of personal information to the extent that are unclear or not addressed in this Privacy Statement.
+* Right to transfer: You have the right to request us to transfer your personal information that we hold about you to another controller to the extent the conditions stipulated by the applicable law are fulfilled.
+* Right to withdraw your consent: If you have given your consent regarding certain types of processing activities, you can withdraw this consent at any time with future effect. Such a withdrawal will not affect the lawfulness of the processing prior to the consent withdrawal or processing based on the applicable legal bases.
+* Other rights permitted by the applicable law.
+
+To submit a request, you can contact us through our [Data Subject Rights Portal](https://privacyportal-cdn.onetrust.com/dsarwebform/dbf5ae8a-0a6a-4f4b-b527-7f94d0de6bbc/5dc91c0f-f1b7-4b6e-9d42-76043adaf72d.html "Data Subject Rights Portal") or email us at privacy.issues@thomsonreuters.com. Please provide us with enough information to verify your identity. We will use the information you provide to us to verify your request.
+
+**Important:** These rights are **not** absolutely guaranteed and there are several exceptions where we may not have an obligation to fulfill your request. We are only required to honor these rights to the extent that they have been granted to you and apply to you under PIPL.
+
+### Contact us
+
+If you wish to exercise your rights or have any comments, complaints or questions on or about this Privacy Statement, this China Statement and/or our processing of your personal information, please email us at [privacy.issues@thomsonreuters.com](mailto:privacy.issues@thomsonreuters.com "privacy.issues@thomsonreuters.com").
+
+We last updated this China Statement on September 27, 2024.
