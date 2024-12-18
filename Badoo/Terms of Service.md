@@ -32,7 +32,7 @@ IF YOU DO NOT ACCEPT AND AGREE TO THE TERMS THEN YOU MUST NOT ACCESS OR USE THE 
 
 Badoo is a meeting place for adults. You may only use Badoo, including any of its features, or become a registered member if you are 18 years old or older (or the age of majority in the country in which you reside if that happens to be greater than 18).
 
-You warrant that you have the right, authority and capacity to enter into and be bound by the Terms and that by using Badoo you will not be violating any law or regulation of the country in which you are resident. You are solely responsible for your compliance with all applicable local laws and regulations.
+You warrant that you have the right, authority and capacity to enter into and be bound by the Terms and that by using Badoo you will not be violating any law or regulation of the country in which you are resident. You are solely responsible for your compliance with all applicable local laws and regulations. Unfortunately, we cannot allow you to use another person’s Badoo account or to share your Badoo account with any other person without permission. You are responsible for ensuring that any use of your account complies with these Terms.
 
 You further warrant that you have not been convicted of, nor are subject to any court order relating to assault, violence, sexual misconduct or harassment.
 
