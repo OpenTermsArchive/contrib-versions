@@ -5,7 +5,7 @@ Terms of Use
 
 * * *
 
-_Effective: May 27, 2024._
+_Effective: January 1, 2025._
 
 Thank you for using Coursera!
 -----------------------------
@@ -163,7 +163,7 @@ Before filing an arbitration, you and we will try in good faith to informally re
 
 The Terms evidence a transaction involving interstate commerce; and notwithstanding any other provision herein with respect to the applicable substantive law, the Federal Arbitration Act, 9 U.S.C. § 1 et seq., will govern the interpretation and enforcement of this arbitration provision and any arbitration proceedings. If Informal Dispute Resolution does not resolve satisfactorily within sixty (60) days after receipt of a Notice of Dispute, you and Coursera agree that either party shall have the right to finally resolve the Claim through binding arbitration. Any and all Claims shall be submitted for binding arbitration in accordance with the National Arbitration & Mediation ("NAM”) Comprehensive Dispute Resolution Rules and Procedures (the “NAM Rules”), in effect at the time arbitration is initiated, except as supplemented, where applicable, by the NAM Mass Filing Supplemental Dispute Resolution Rules and Procedures, and as modified by this arbitration agreement. The NAM Rules are currently available online at [https://www.namadr.com/resources/rules-fees-forms/](https://www.namadr.com/resources/rules-fees-forms/). In the event of any inconsistency between this arbitration provision and the NAM Rules, such inconsistency shall be resolved in favor of this provision.
 
-A party who wishes to initiate arbitration must provide the other party with a request for arbitration (the “Request”). A Request to Coursera should be sent either by mail to 381 E. Evelyn Ave., Mountain View, CA 94041 or by email to [consumer-arbitration@coursera.org](mailto:consumer-arbitration@coursera.org). A Request to you will be sent to your email address or regular address associated with your account. It is your responsibility to keep your contact information up to date. The Request must include: (1) the name, telephone number, mailing address, e‐mail address of the party seeking arbitration and the account username (if applicable) as well as the email address associated with any applicable account; (2) a statement of the legal claims being asserted and the factual bases of those claims; (3) a description of the remedy sought and an accurate, good‐faith calculation of the amount in controversy in United States Dollars; (4) a statement certifying completion of the informal dispute resolution process as described above; and (5) evidence that the requesting party has paid any necessary filing fees in connection with such arbitration.
+A party who wishes to initiate arbitration must provide the other party with a request for arbitration (the “Request”). A Request to Coursera should be sent either by mail to 2440 West El Camino Real, Suite 500, Mountain View, CA 94040 or by email to [consumer-arbitration@coursera.org](mailto:consumer-arbitration@coursera.org). A Request to you will be sent to your email address or regular address associated with your account. It is your responsibility to keep your contact information up to date. The Request must include: (1) the name, telephone number, mailing address, e‐mail address of the party seeking arbitration and the account username (if applicable) as well as the email address associated with any applicable account; (2) a statement of the legal claims being asserted and the factual bases of those claims; (3) a description of the remedy sought and an accurate, good‐faith calculation of the amount in controversy in United States Dollars; (4) a statement certifying completion of the informal dispute resolution process as described above; and (5) evidence that the requesting party has paid any necessary filing fees in connection with such arbitration.
 
 If the party requesting arbitration is represented by counsel, the Request shall also include counsel’s name, telephone number, mailing address, and email address. Such counsel must also sign the Request. By signing the Request, counsel certifies to the best of counsel’s knowledge, information, and belief, formed after an inquiry reasonable under the circumstances, that: (1) the Request is not being presented for any improper purpose, such as to harass, cause unnecessary delay, or needlessly increase the cost of dispute resolution; (2) the claims, defenses and other legal contentions are warranted by existing law or by a nonfrivolous argument for extending, modifying, or reversing existing law or for establishing new law; and (3) the factual and damages contentions have evidentiary support or, if specifically so identified, will likely have evidentiary support after a reasonable opportunity for further investigation or discovery.
 
@@ -255,7 +255,7 @@ Copyright and Trademark Policy
 
 * * *
 
-_Effective as of January 1, 2023._
+_Effective as of January 1, 2025._
 
 Coursera respects the intellectual property rights of our Content Providers, instructors, users, and other third parties and expects our users to do the same when using the Services. We reserve the right to suspend, disable, or terminate the accounts of users who repeatedly infringe or are repeatedly charged with infringing the copyrights, trademarks, or other intellectual property rights of others.
 
@@ -274,7 +274,7 @@ The notice must include the following information:
 
 Notices must meet the then-current statutory requirements imposed by the DMCA. Notices and counter-notices with respect to the Services can either be sent:
 
-* via mail: Copyright Agent, Coursera 381 E. Evelyn Ave Mountain View, CA 94041
+* via mail: Copyright Agent, Coursera 2440 West El Camino Real, Suite 500, Mountain View, CA 94040
 * via email: [copyright@coursera.org](mailto:copyright@coursera.org)
 
 We suggest that you consult your legal advisor before filing a notice. Also, be aware that there can be penalties for false claims under the DMCA.
@@ -469,6 +469,7 @@ Revisions
 
 Below is a list of all the revisions made to the content of our Terms, with links to view the difference between each revision.
 
+* [2024-12-18: Updated information on how to contact Coursera](https://www.diffchecker.com/l8Y2xk0w/)
 * [2024-05-27: Updated changes to the arbitration agreement and the procedures for filing a dispute against Coursera.](https://www.diffchecker.com/HqdSxYtK/)
 * [2024-02-08: Updated changes to the arbitration agreement and the procedures for filing a dispute against Coursera.](https://www.diffchecker.com/6CMgg3kF/)
 * [2023-12-16: Updated terms specific to Modifying or Terminating our Services. Clarified and added terms specific to Export Controls. Updated terms specific to Governing Law and Venue. Clarified terms specific to Acceptable Use Policy. Updated terms specific to Payments and Refund Policy.](https://www.diffchecker.com/YmIR3V6I/)
