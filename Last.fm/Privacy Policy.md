@@ -437,8 +437,8 @@ NY 10036
 
 United States
 
-ADDITIONAL INFORMATION US STATES
---------------------------------
+ADDITIONAL INFORMATION: US STATES
+---------------------------------
 
 If you are a California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia resident, there are additional disclosures and certain additional rights regarding your personal information, as described below. The rights available to you will depend on the laws in the state where you live.
 
