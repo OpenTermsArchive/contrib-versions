@@ -260,50 +260,68 @@ _Article 4 : MODALITES DE PAIEMENT_
  **4.1. Modes de paiement** 
 
 Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :  
+   
+4.1.1 Paiement au comptant  
   
-(i) Cartes bancaires : Visa, Mastercard.  
+(a) Par cartes bancaires   
+Toute carte bancaire des réseaux Cartes Bancaires (CB), Visa, Mastercard et American Express est utilisable pour le paiement au comptant de la commande.  
   
-(ii) Paiement en « 4 fois » : le paiement en « 4 fois » peut être effectué par carte bancaire conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande.  Les conditions générales du paiement en « 4 fois » sont accessibles en [cliquant ici](https://paymentresources.cdiscount.com/static/cgv/4f.pdf).
+(b) Par Carte Cdiscount  
+La Carte Cdiscount est une carte de paiement et de crédit affiliée au réseau MasterCard. A chaque achat, vous avez le choix de régler au comptant ou à crédit. Votre souscription à la Carte Cdiscount est soumise à l’acceptation de FLOA Bank, Société Anonyme au capital de 72 297 200€ - 434 130 423 RCS Bordeaux - Siege social : Bâtiment G7, 71 rue Lucien Faure 33000 Bordeaux, soumise au contrôle de l’Autorité de Contrôle Prudentiel et de Résolution, (ACPR) 4, Place de Budapest, CS 92459, 75436 Paris cedex 09 et après expiration du délai légal de rétractation de 14 jours. ORIAS N° : 07 028 160 (www.orias.fr). Pour en savoir plus sur la Carte Cdiscount, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).  
+  
+(c) Par Bancontact  
+Pour bénéficier de ce mode de paiement, vous devez disposer d’une adresse de facturation située en Belgique. En cas de paiement par Bancontact, ce sont les conditions générales d'utilisation de Bancontact qui s'appliquent. Elles sont accessibles en cliquant [ici](https://www.bancontact.com/). Ce mode de paiement n'est pas disponible pour les paniers contenant des produits de la Marketplace Cdiscount.  
+  
+(d) Par bons d'achat  
+Il est possible d’utiliser les bons d’achat émis par CDISCOUNT pour le paiement de toute ou partie de votre commande. Ces bons d’achats ne sont utilisables qu’une seule fois. Dans l’hypothèse où un client tenterait d’utiliser frauduleusement plusieurs fois l’un de ses bons d’achat, les commandes concernées par cette fraude seraient annulées par CDISCOUNT et le compte client peut être fermé.   
+(e) Par e-carte cadeau Cdiscount, soumise aux conditions ci-après :  
+        - la contrevaleur de la e-Carte cadeau Cdiscount est utilisable de façon non sécable : la e-Carte cadeau Cdiscount n’est pas fractionnable et n’est pas convertible en numéraire. Elle doit être utilisée dans son intégralité et en une seule fois.  
+        - la e-Carte cadeau est valable et utilisable sur le site www.cdiscount.com, hors frais de port, abonnements, Cdiscount à volonté ou « Services » (tels que notamment Cdiscount Voyages, Cdiscount Mobile, Cdiscount Pro, Cdiscount Billetterie,  livres, développement photo, téléchargement musique, etc.).  
+  
+(f) Avec la cagnotte Cdiscount à volonté  
+Si vous êtes membre du programme de fidélité Cdiscount à volonté, vous pouvez utiliser votre cagnotte pour régler tout ou partie de vos achats. Dans ce cas, le montant disponible est automatiquement déduit du montant de la commande. Pour en savoir plus sur la Cagnotte à volonté, cliquer sur "Conditions générales d'abonnement "Cdiscount à volonté" plus bas.
 
-  Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre un traitement automatisé afin d'identifier es clients et commandes éligibles au paiement "4 fois".  
- (iii) Paiement Flash : ce système vous permet, pour les paiements par carte bancaire, de ne plus saisir votre numéro de Carte de Paiement lors de vos prochaines commandes passées sur le Site et livrées à la ou les adresse(s) associée(s) à votre numéro de Carte de Paiement. A noter : votre numéro de Carte de Paiement est visible en totalité lors de la saisie de celui-ci, mais seuls les 4 derniers chiffres seront visibles dans votre Compte Client Cdiscount. Le service paiement flash est entièrement sécurisé, pour en savoir plus sur le Paiement Flash, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).
-
-(iv) Carte Cdiscount : la Carte Cdiscount est une carte de paiement et de crédit affiliée au réseau MasterCard. A chaque achat, vous avez le choix de régler au comptant ou à crédit. Votre souscription à la Carte Cdiscount est soumise à l’acceptation de FLOA Bank, Société Anonyme au capital de 42 773 400€  - 434 130 423 RCS Bordeaux - Siege social : Bâtiment G7, 71 rue Lucien Faure 33000 Bordeaux, soumise au contrôle de l’Autorité de Contrôle Prudentiel et de Résolution, (ACPR) 4, Place de Budapest, CS 92459, 75436 Paris cedex 09 et après expiration du délai légal de rétractation de 14 jours. ORIAS N° : 07 028 160 (www.orias.fr). ([www.orias.fr](http://www.orias.fr/)). Pour en savoir plus sur la Carte Cdiscount, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).  
-  
-(v) Solution de Crédit - "Payez en plusieurs fois" : CDISCOUNT, en partenariat avec FLOA Bank, peut vous offrir la possibilité de financer en plusieurs fois vos commandes d’un montant compris entre 999 euros et 15000 euros.  
-  
-A noter : la commande sera expédiée après l’étude du dossier complet du souscripteur et dès validation de la demande de financement par FLOA Bank.
-
-Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager.
-
-Pour en savoir plus sur la Solution de Crédit - "Payez en plusieurs fois", [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).  
-  
-(vi) Solution de crédit affecté : Cdiscount, en partenariat avec FLOA Bank, peut vous proposer, pour certains produits de la marque Apple, de régler votre commande en plusieurs fois à l'aide d'une offre de crédit affecté.
-
-(vii) Par Paypal : Vous pouvez régler votre commande par PayPal, dans la limite de 1000 euros. Pour bénéficier de ce mode de paiement, vous devez avoir un compte auprès de la société PayPal. En cas de paiement par PayPal, ce sont les conditions générales d'utilisation de PayPal qui s'appliquent. Elles sont accessibles [en cliquant ici](https://www.paypal.com/fr/webapps/mpp/ua/useragreement-full?locale.x=fr_FR).  
-  
-(viii) Par Bancontact/Mistercash : Ce mode de paiement n’est pas disponible pour les paniers contenant des produits de la Marketplace Cdiscount.  Pour bénéficier de ce mode de paiement, vous devez disposer d’une adresse de facturation située en Belgique. En cas de paiement par Bancontact/Mistercash, ce sont les conditions générales d'utilisation de Bancontact/Mistercash qui s'appliquent. Elles sont accessibles en cliquant [ici](https://www.bancontact.com/).  
-  
-(ix) Par bons d'achat : Il est possible d’utiliser les bons d’achat émis par CDISCOUNT pour le paiement de toute ou partie de votre commande. Ces bons d’achats ne sont utilisables qu’une seule fois. Dans l’hypothèse où un client tenterait d’utiliser frauduleusement plusieurs fois l’un de ses bons d’achat, les commandes concernées par cette fraude seraient  annulées par CDISCOUNT.  
-  
-(x) Paiement PAYLIB : Vous pouvez également régler votre commande via l'application PAYLIB sur votre téléphone. Pour bénéficier de ce mode de paiement, vous devez télécharger et créer un compte sur l'application de votre banque. En cas de paiement par PAYLIB, ce sont les conditions générales d'utilisation de PAYLIB qui s'appliquent.
-
-(xi) Par carte(s) cadeau(x) : Vous pouvez également utiliser une ou plusieurs carte(s) cadeau(x) telles que :   
-  
-\- la carte ILLICADO pour le paiement de tout ou partie de votre commande, dans la limite de deux-cents cinquante (250) euros (produits de la Marketplace inclus, à l’exception des produits dématérialisés et des offres de services tels que, notamment : voyages, forfaits mobiles, électricité/fioul, billetterie, etc.). Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://www.illicado.com/utilisation-carte).
+(g) Par carte Illicado  
+Pour le paiement de tout ou partie de votre commande, dans la limite de deux-cents cinquante (250) euros (produits de la Marketplace inclus, à l’exception des produits dématérialisés et des offres de services tels que, notamment : voyages, forfaits mobiles, billetterie, etc.). Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://www.illicado.com/utilisation-carte).
 
 En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une commande payée par carte(s) ILLICADO, les sommes débitées sur la ou les carte(s) ILLICADO utilisée(s) seront remboursées sous forme d’un ou plusieurs bon(s) d’achat, disponible(s) dans votre espace client et utilisable sur le Site pendant un (1) an.  
   
-\- les cartes UP CADHOC (à l’exclusion des cartes Up Cadhoc Incentive et Up Cadhoc Absolu) pour le paiement de tout ou partie de votre commande contenant uniquement des produits vendus et expédiés par Cdiscount (exclusion des produits de la marketplace et des services tels que : voyages, billetterie ou forfait mobile). Au moment du choix de paiement par carte cadeau UP CADHOC, le client est redirigé vers le site du prestataire technique de l’émetteur (Limonetik) afin de saisir le code de la carte, le montant qu’il souhaite utiliser et si besoin compléter le montant par une autre carte cadeau du même émetteur (dans la limite de 3 cartes cadeaux) ou par carte bancaire. A l’issue de la transaction, le client est redirigé sur la page de confirmation de commande Cdiscount. Pour en savoir plus sur ce mode de paiement : [cliquez ici](https://up.coop/upcadhoc/utilisateurs/). En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une commande payée par carte(s) UP CADHOC, les sommes débitées sur la ou les carte(s) cadeau(x) utilisée(s) seront remboursées dans un délai d'un (1) jour ouvré sur le moyen de paiement concerné. Dans le cas où la commande a utilisé un complément par carte bancaire, la priorité du remboursement sera faite sur la carte bancaire ayant fait le complément puis sur la carte cadeau si besoin.
+4.1.2 Paiement en plusieurs fois  
+  
+(a) Paiement en « 4 fois »  
+Le paiement en « 4 fois » peut être effectué en utilisant une carte bancaire des réseaux Cartes Bancaires (CB), Visa, Mastercard, conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande. Sous réserve d'acceptation de Cnova Pay, agréée par l'Autorité de Contrôle Prudentiel et de Résolution (ACPR).  Les conditions générales du paiement en « 4 fois » sont accessibles en [cliquant ici](https://paymentresources.cdiscount.com/static/cgv/4f.pdf)
 
-Les cartes ILLICADO sont cumulables avec les cartes UP CADHOC si les cartes ILLICADO sont utilisées en premier dans le parcours de paiement.
+Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre un traitement automatisé afin d'identifier les clients et commandes éligibles au paiement "4 fois".  
+(b) Paiement jusqu'à 20 fois par carte bancaire Cdiscount  
+La Carte Cdiscount est une carte de paiement et de crédit affiliée au réseau MasterCard. A chaque achat, vous avez le choix de régler au comptant ou à crédit. Votre souscription à la Carte Cdiscount est soumise à l’acceptation de FLOA Bank, Société Anonyme au capital de 72 297 200€ - 434 130 423 RCS Bordeaux - Siege social : Bâtiment G7, 71 rue Lucien Faure 33000 Bordeaux, soumise au contrôle de l’Autorité de Contrôle Prudentiel et de Résolution, (ACPR) 4, Place de Budapest, CS 92459, 75436 Paris cedex 09 et après expiration du délai légal de rétractation de 14 jours. ORIAS N° : 07 028 160 (www.orias.fr). Pour en savoir plus sur la Carte Cdiscount, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).  
+  
+(c) Paiement jusqu’à 60 fois avec Floa  
+CDISCOUNT, en partenariat avec FLOA Bank, peut vous offrir la possibilité de financer en plusieurs fois vos commandes d’un montant compris entre 999 euros et 15000 euros.
+
+A noter : la commande sera expédiée après l’étude du dossier complet du souscripteur et dès validation de la demande de financement par FLOA Bank, Société Anonyme au capital de 72 297 200€ - 434 130 423 RCS Bordeaux - Siege social : Bâtiment G7, 71 rue Lucien Faure 33000 Bordeaux, soumise au contrôle de l’Autorité de Contrôle Prudentiel et de Résolution, (ACPR) 4, Place de Budapest, CS 92459, 75436 Paris cedex 09 et après expiration du délai légal de rétractation de 14 jours. ORIAS N° : 07 028 160 (www.orias.fr).
+
+Un crédit vous engage et doit être remboursé. Vérifiez vos capacités de remboursement avant de vous engager. Pour en savoir plus sur cette solution de crédit, cliquez [ici](http://https//www.cdiscount.com/payment/paymentinfo.html).
+
+(d) Solution de crédit affecté  
+Cdiscount, en partenariat avec FLOA Bank, peut vous proposer, pour certains produits, de régler votre commande en plusieurs fois à l'aide d'une offre de crédit affecté.
+
+4.1.3 Paiement rapide  
+  
+(a) Paiement Flash  
+Ce système vous permet, pour les paiements par carte bancaire, de ne plus saisir votre numéro de Carte de Paiement lors de vos prochaines commandes passées sur le Site et livrées à la ou les adresse(s) associée(s) à votre numéro de Carte de Paiement. A noter : votre numéro de Carte de Paiement est visible en totalité lors de la saisie de celui-ci, mais seuls les 4 derniers chiffres seront visibles dans votre Compte Client Cdiscount. Le service paiement flash est entièrement sécurisé, pour en savoir plus sur le Paiement Flash, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).
+
+(b) Par Paypal :  
+La commande peut être réglée par PayPal, dans la limite de 3000 euros. Pour bénéficier de ce mode de paiement, vous devez avoir un compte auprès de la société PayPal. En cas de paiement par PayPal, ce sont les conditions générales d'utilisation de PayPal qui s'appliquent. Elles sont accessibles [en cliquant ici](https://www.paypal.com/fr/webapps/mpp/ua/useragreement-full?locale.x=fr_FR).
+
+(c) Par Apple Pay   
+Apple Pay est un moyen de paiement numérique vous permettant de régler vos achats directement depuis vos appareils Apple (iPhone, iPad, Apple Watch).  
+Il utilise des méthodes de sécurité comme l'authentification biométrique (Face ID, Touch ID). Toute carte bancaire des réseaux Cartes Bancaire (CB), Visa, Mastercard ajoutée dans l'app Cartes de votre appareil compatible est utilisable pour le paiement au comptant de votre commande. Pour en savoir plus sur ce moyen de paiement, cliquez ici.
 
   
-(xii) Paiement par virement sécurisé par Bridge powered by Bankin’ : ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://pay.bridgeapi.io/docs/mention-information.pdf).  
+4.1.4 Paiement par virement sécurisé  
+   
+Ce mode de paiement n’est disponible que pour les règlements effectués depuis la plateforme de recouvrement de Cdiscount. Vous avez la possibilité de régulariser votre commande par virement bancaire en validant votre demande de virement directement depuis l’interface de votre banque, grâce à la solution Bridge powered by Bankin’, éditée par Perspecteev SAS - société par actions simplifiée immatriculée au RCS Paris numéro B 529 196 313 dont le siège social est 4 rue de la Pierre Levée - 75011 Paris. Perspecteev est un établissement de paiement agréé par l'ACPR sous le numéro 16918P, et est immatriculé à l'ORIAS sous le numéro 18003177 en tant que mandataire d'intermédiaire d'assurance. Perspecteev ne peut être assimilé à un établissement de crédit. Pour en savoir plus sur ce mode de paiement, [cliquez ici](https://pay.bridgeapi.io/docs/mention-information.pdf).  
   
-(xiii)  Par e\-carte cadeau Cdiscount, soumise aux conditions ci-après :   
-        - la contrevaleur de la e-Carte cadeau Cdiscount est utilisable de façon non sécable : la e-Carte cadeau Cdiscount n’est pas fractionnable et n’est pas convertible en numéraire. Elle doit être utilisée dans son intégralité et en une seule fois.  
-        - la e-Carte cadeau est valable et utilisable sur le site www.cdiscount.com, hors frais de port, abonnements, Cdiscount à volonté ou « Services » (tels que notamment Cdiscount Voyages, Cdiscount Mobile, Cdiscount Pro, Cdiscount Billetterie, Disneyland, livres, développement photo, téléchargement musique, etc.).  
 
 **Généralités**
 
