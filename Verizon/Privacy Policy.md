@@ -674,7 +674,7 @@ Open all
     
     Since 2023 and presently, we engage in the following activities that may be considered selling or sharing. We sell or share personal information with advertising technology companies, including those present on our websites, who combine that information with information they collect about your visits to other sites or that they otherwise have about you to provide more personalized advertising to you. This occurs through the use of cookies, pixels, tags, application programming interfaces (APIs), scripts and similar technologies. We also engage in sale and sharing when we disclose personal information we have about you, or personal information we obtained from your activity across third-party businesses, websites, apps or services, to other companies to better target ads to you, to find others like you who might value our services, or when we use personal information as part of [our own internal programs](#).
     
-    Our programs include Relevant Online Advertising, and Fios TV market research and audience measurement.
+    our own internal programs
     
     Our programs include Custom Experience, Custom Experience Plus, Relevant TV Advertising, Relevant Online Advertising, and Fios TV market research and audience measurement.
     
