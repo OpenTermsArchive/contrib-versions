@@ -1,5 +1,4 @@
-Ubiquiti Services General Terms and Conditions
-----------------------------------------------
+#### Ubiquiti Services General Terms and Conditions
 
 ### Last Modified: August 9, 2021
 
