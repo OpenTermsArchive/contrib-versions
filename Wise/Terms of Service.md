@@ -237,6 +237,8 @@ If you attempt to do this, we may hold your money for a period of time that is r
 
 **10.4 Taxes.** You are responsible for any taxes which may be due by you resulting from your use of our Services, and it is your responsibility to collect, report and pay the correct tax to the appropriate tax authority.
 
+**10.5 API Partner fees.** An API Partner may charge a fee for the convenience of using our Services via the API Partner. This fee is set by the API Partner and is separate to any fees charged by Wise for your transaction(s). Wise may collect this fee on behalf of an API Partner.
+
 * * *
 
 **CONVERTING CURRENCY**
@@ -680,7 +682,7 @@ After the expiry of the aforementioned time limits, the payment order may only b
 
 **29.2 We do not exclude or limit in any way our liability to you where it would be unlawful to do so.** This includes liability for death or personal injury caused by our negligence or the negligence of our employees, agents or subcontractors; for fraud or fraudulent misrepresentation. Nothing in this agreement constitutes an exoneration Wise Europe SA from its liability for its wilful misconduct, gross negligence or that of its employees or agents, or, except in circumstances beyond its control, for the non-performance of an obligation that constitutes one of the main performances of the contract.
 
-**29.3 We are not liable for technological attacks** We will not be liable for any loss or damage caused by a virus, or other technological issues or attacks or harmful material that may infect your computer equipment, computer programmes, data or other proprietary material related to your use of our Services.
+**29.3 We are not liable for technological attacks.** We will not be liable for any loss or damage caused by a virus, or other technological issues or attacks or harmful material that may infect your computer equipment, computer programmes, data or other proprietary material related to your use of our Services.
 
 **29.4 We have no control over websites linked to and from our Website.** We assume no responsibility for such Third Party Materials or any loss or damage that may arise from your use of them.
 
