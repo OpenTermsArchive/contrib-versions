@@ -143,7 +143,9 @@ For that reason, we allow the promotion of the content below, but on a limited b
 > 
 > ### [Healthcare and medicines](https://support.google.com/adspolicy/answer/176031)
 > 
-> > We are dedicated to following advertising regulations for healthcare and medicine, so we expect that ads and destinations follow appropriate laws and industry standards. Some healthcare-related content can’t be advertised at all, while others can only be advertised if the advertiser is certified with Google and targets only approved countries. Check local regulations for the areas you want to target.
+> > We're dedicated to following advertising regulations for healthcare and medicine, so we expect that ads and destinations follow appropriate laws and industry standards. Some healthcare-related content can’t be advertised at all, while others can only be advertised if the advertiser is certified with Google and targets only approved locations. Check local regulations for the locations you want to target.
+> > 
+> > For most healthcare policies, if your ad campaign targets allowed locations and the domain is properly certified, your ad will be labeled “[Eligible (limited)](https://support.google.com/google-ads/answer/2684542)” and can run in allowed locations.
 > > 
 > > **Examples of restricted healthcare content (non-exhaustive)**: clinical trial recruitment; HIV home tests;  addiction services; prescription drug services
 > 
