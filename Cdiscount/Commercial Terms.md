@@ -1153,7 +1153,7 @@ Il est précisé que pour bénéficier des offres spéciales "anniversaire", l'A
 
 **2.4 Privilège « Ma Cagnotte à Volonté »**
 
-Le Service offre la possibilité pour l’Abonné de cumuler du crédit sur une cagnotte dématérialisée consultable dans son Espace Client (ci-après la « **Cagnotte** ») pour l’achat de produits éligibles sur le Site dans les conditions précisées à l’article 9 ci-après.
+Le Service offre la possibilité pour l’Abonné de cumuler du crédit sur une cagnotte dématérialisée consultable dans son Espace Client (ci-après la « **Cagnotte** ») pour l’achat de produits éligibles sur le Site, qui n'auront pas fait l'objet d'une rétractation ou d'une annulation, dans les conditions précisées à l’article 9 ci-après.
 
 **2.5 Autres avantages**
 
@@ -1426,7 +1426,7 @@ Il en sera de même dans le cas où le Bénéficiaire ne pourrait bénéficier d
   
 **
 
-Le privilège « Ma cagnotte à volonté » (ci-après le « **Privilège** ») offre la possibilité pour l’Abonné de cumuler du crédit sur la Cagnotte consultable dans son Espace Client pour l’achat de produits éligibles sur le Site (ci-après les « Offres Site »).   
+Le privilège « Ma cagnotte à volonté » (ci-après le « **Privilège** ») offre la possibilité pour l’Abonné de cumuler du crédit sur la Cagnotte consultable dans son Espace Client pour l’achat de produits éligibles sur le Site, qui n'auraient pas fait l'objet d'une rétractation ou d'une annulation (ci-après les « Offres Site »).   
   
  
 
@@ -1469,7 +1469,7 @@ Le Solde de la Cagnotte est utilisable dans les conditions définies ci-après.
    
  **9.3 Utilisation de la Cagnotte**
 
-**9.3.1** Le Solde de la Cagnotte est utilisable par l’Abonné pendant toute la durée de l’Abonnement, dès lors que le délai légal de rétractation de quatorze jours suivant la Date de souscription au Service est écoulé. 
+**9.3.1** Le Solde de la Cagnotte est utilisable par l’Abonné pendant toute la durée de l’Abonnement, dès lors que le délai légal de rétractation de quatorze jours suivant la Date de souscription au Service est écoulé et que la commande éligible n'a pas fait l'objet d'une annulation. 
 
 **9.3.2** La durée de validité de chaque montant crédité à la suite de la passation d’une commande éligible au Privilège sera précisée dans l’Espace Client de l’Abonné, rubrique « Ma cagnotte à volonté ».
 
