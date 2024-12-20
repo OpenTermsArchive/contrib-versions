@@ -434,8 +434,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * [Features](https://ubuntu.com/landscape/features)
 * [Managed](https://ubuntu.com/landscape/managed)
-* [Pricing](https://ubuntu.com/landscape/pricing)
-* [Install](https://ubuntu.com/landscape/install)
+* [Compare](https://ubuntu.com/landscape/compare)
+* [Install](https://ubuntu.com/landscape/docs/quickstart-deployment)
 * [Docs](https://ubuntu.com/landscape/docs)
 * [Log in to Landscape](https://landscape.canonical.com/)
 
