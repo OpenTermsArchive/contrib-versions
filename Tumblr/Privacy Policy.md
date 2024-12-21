@@ -144,7 +144,7 @@ Tumblr will retain your information only for as long as is necessary for the pur
 What Information You Can Access
 -------------------------------
 
-If you are a registered user, you can access most information associated with your Account by logging into the Services and checking your Account Settings page. Registered and unregistered users can access and delete cookies through their web browser settings.
+If you are a registered user, you can download a personal data report by submitting a request in the Privacy section of your Settings. You need to be signed in to your Tumblr account to submit this request, and you will have to log in to your account to access the summary or the report. You can also [download/export a copy of the content you post to Tumblr.](https://help.tumblr.com/export-your-blog/)
 
 How to Delete Your Account and What Happens When You Delete Your Account
 ------------------------------------------------------------------------
@@ -158,12 +158,12 @@ What won’t get scrubbed are Reblogs of your posts. Those will remain on whatev
 Privacy Rights
 --------------
 
-If you’re a resident of certain US states including California, Colorado, Connecticut, Utah, and Virginia, you have a number of rights and choices about your personal information. To learn more, see the [Supplemental Privacy Notice](https://www.tumblr.com/privacy/en#supplemental) below.
+If you’re a resident of certain US states you have a number of rights and choices about your personal information. To learn more, see the [Supplemental Privacy Notice](https://www.tumblr.com/privacy/en#supplemental) below.
 
 Changes to This Privacy Policy
 ------------------------------
 
-We may amend this Privacy Policy from time to time, using the process for modifications set forth in our [Terms of Service](https://www.tumblr.com/policy/terms-of-service/automattic). Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
+We may amend this Privacy Policy from time to time, using the process for modifications set forth in our [Terms of Service](https://www.tumblr.com/policy/en/terms-of-service). Use of information we collect is subject to the Privacy Policy in effect at the time such information is collected.
 
 Where to Direct Questions or Concerns
 -------------------------------------
@@ -204,12 +204,12 @@ We may also use the categories of personal information for compliance with appli
 
 In some US states, you have additional rights subject to any exemptions provided by your state’s respective law. You can find detailed metrics about Tumblr's compliance with these rights in our Privacy Report [here](https://transparency.automattic.com/tumblr/).
 
-* **Access:** Some US states give you the right to request a copy of certain information we hold about you, as well as a summary of: the categories of personal information we have collected or disclosed about you in the last twelve months, the categories of sources of such information, the business or commercial purpose for collecting or sharing that information, and the categories of third parties with whom we shared that information. As described in the section ‘What Information You Can Access,’ you can access much of your information by logging in to your Tumblr account. You can also request a personal data report by submitting a request in the Privacy section of your Settings. You need to be signed in to your Tumblr account to submit this request, and you will have to log in to your account to access the summary or the report. If you want to request the summary described above, require additional assistance, or if you do not have a Tumblr account, submit a support ticket [here](https://www.tumblr.com/support) or email us at ccpa@tumblr.com.
-* **Delete:** In some US states you also have the right to delete certain information we have about you. You can delete much of your information by logging in to your account. If you cannot do this, or you do not have a Tumblr account, please submit a support ticket [here](https://www.tumblr.com/support), or email us at ccpa@tumblr.com. For more information on deleting your account or leaving Tumblr, please refer to the section ‘How to Delete Your Account.’
+* **Access:** Depending on your state’s relevant laws, you may have the right to request a copy of some or all of the following: a copy of the information we hold about you, the categories of personal information we have collected or disclosed about you in the last twelve months, the categories of sources of such information, the business or commercial purpose for collecting or sharing that information, the categories of third parties with whom we shared that information, and/or the list of specific third parties (other than natural persons) to which we have disclosed personal information. As described in the section ‘What Information You Can Access,’ you can download a personal data report by submitting a request in the Privacy section of your Settings. You need to be signed in to your Tumblr account to submit this request, and you will have to log in to your account to access the summary or the report. If you want to request the summary described above, require additional assistance, or if you do not have a Tumblr account, submit a support ticket [here](https://tumblr.zendesk.com/hc/en-us/requests/new?ticket_form_id=12913521777175) or email us at privacy@tumblr.com.
+* **Delete:** In some US states you also have the right to delete certain information we have about you. You can delete much of your information by logging in to your account. If you cannot do this, or you do not have a Tumblr account, please submit a support ticket [here](https://tumblr.zendesk.com/hc/en-us/requests/new?ticket_form_id=12913521777175), or email us at privacy@tumblr.com. For more information on deleting your account or leaving Tumblr, please refer to the section ‘How to Delete Your Account.’
 * **Non-Discrimination:** You also have the right not to be discriminated against (as provided for in applicable law) for exercising your rights.
-* **Correct:** In general you can correct any information Tumblr has about you by editing your account. For example, you can update your email address from [your account settings](https://www.tumblr.com/settings/account). If there’s any information we have about you that you would like corrected, that you can’t change yourself, you can [contact our support team](https://www.tumblr.com/support) to request this.
+* **Correct:** In general you can correct any information Tumblr has about you by editing your account. For example, you can update your email address from [your account settings](https://www.tumblr.com/settings/account). If there’s any information we have about you that you would like corrected, that you can’t change yourself, you can [contact our support team](https://tumblr.zendesk.com/hc/en-us/requests/new?ticket_form_id=12913521777175) to request this.
 * **Opt-Out:** You may have the right to opt-out of having your data sold or shared (as those terms are defined in your state’s law). More on how to do that below.
-* **Portability:** At Tumblr it’s totally possible to [export your blog](https://help.tumblr.com/hc/articles/360005118894-Export-Your-Blog). It’s your stuff, not ours. We make it easy for you to grab a copy of it
+* **Content Portability:** At Tumblr it’s totally possible to [export your blog](https://help.tumblr.com/hc/articles/360005118894-Export-Your-Blog). It’s your stuff, not ours. We make it easy for you to grab a copy of it.
 
 Certain information may be exempt from these rights under applicable law. For example, we need certain types of information so that we can provide you with the Services. If you ask us to delete them, you may no longer be able to access or use the Services.
 
