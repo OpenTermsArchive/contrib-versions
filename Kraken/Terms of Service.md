@@ -28,7 +28,7 @@
 * [Learn](https://www.kraken.com/learn)
 * [Support](https://support.kraken.com/hc/en-us)
 
-![Get the app](https://assets-cms.kraken.com/images/51n36hrp/facade/475b8798c392708faa303eab78e616eb868f7730-512x512.svg)Get the app
+Get the Kraken app
 
 * [Log in](https://www.kraken.com/sign-in)
 * [Sign up](https://www.kraken.com/sign-up)
@@ -69,11 +69,11 @@ Don't invest unless you're prepared to lose all the money you invest. This is a 
     
     Buy Crypto
     
-    Get started with $10](https://www.kraken.com/sign-up)[![Convert Crypto](https://assets-cms.kraken.com/images/51n36hrp/facade/cd2c6d6e94f70aee6c6056965b8bbcdf42e2c2f8-36x37.svg)
+    Get started with $10](https://www.kraken.com/learn/buy-crypto)[![Convert Crypto](https://assets-cms.kraken.com/images/51n36hrp/facade/cd2c6d6e94f70aee6c6056965b8bbcdf42e2c2f8-36x37.svg)
     
     Convert Crypto
     
-    Fast currency swaps](https://www.kraken.com/convert)
+    Fast currency swaps](https://www.kraken.com/convert/btc/usd)
     
 * [Prices](https://www.kraken.com/prices)
 * [Why Kraken?](#)
@@ -109,7 +109,7 @@ Don't invest unless you're prepared to lose all the money you invest. This is a 
 * [Learn](https://www.kraken.com/learn)
 * [Support](https://support.kraken.com/hc/en-us)
 
-![Get the app](https://assets-cms.kraken.com/images/51n36hrp/facade/c33f503b700288fbe36e59d0d03612f1850da5ab-464x464.svg)Get the app
+Get the Kraken app
 
 * [Log in](https://www.kraken.com/sign-in)
 * [Sign up](https://www.kraken.com/sign-up)
@@ -121,7 +121,7 @@ Don't invest unless you're prepared to lose all the money you invest. This is a 
 
 [](https://www.kraken.com/)
 
-![Get the app](https://assets-cms.kraken.com/images/51n36hrp/facade/c33f503b700288fbe36e59d0d03612f1850da5ab-464x464.svg)Get the app
+Get the Kraken app
 
 * [Log in](https://www.kraken.com/sign-in)
 * [Sign up](https://www.kraken.com/sign-up)
@@ -141,6 +141,10 @@ Don't invest unless you're prepared to lose all the money you invest. This is a 
     
 * [Support](https://support.kraken.com/hc/en-us)
     
+
+Buy crypto in minutes
+
+[Get the Kraken app](https://kraken.onl/JDNW/7kre1pt7)
 
 ##### Products
 
@@ -172,11 +176,11 @@ Tools for institutional traders](https://www.kraken.com/institutions)
 
 Buy Crypto
 
-Get started with $10](https://www.kraken.com/sign-up)[![Convert Crypto](https://assets-cms.kraken.com/images/51n36hrp/facade/cd2c6d6e94f70aee6c6056965b8bbcdf42e2c2f8-36x37.svg)
+Get started with $10](https://www.kraken.com/learn/buy-crypto)[![Convert Crypto](https://assets-cms.kraken.com/images/51n36hrp/facade/cd2c6d6e94f70aee6c6056965b8bbcdf42e2c2f8-36x37.svg)
 
 Convert Crypto
 
-Fast currency swaps](https://www.kraken.com/convert)
+Fast currency swaps](https://www.kraken.com/convert/btc/usd)
 
 ##### Why Kraken?
 
@@ -205,12 +209,6 @@ Our commitment to transparency](https://www.kraken.com/proof-of-reserves)[![Flex
 Flexible funding options
 
 Cash, cards, crypto and more](https://www.kraken.com/features/funding-options)
-
-Get the Kraken app and buy or sell Bitcoin in minutes.
-
-[![#](https://assets-cms.kraken.com/images/51n36hrp/facade/2d372dec6b8def980893101e8c950d87783b99bb-121x40.svg)](#)
-
-[![#](https://assets-cms.kraken.com/images/51n36hrp/facade/f59c1a87cc31e6da9d4b8f99f048272cf77def84-121x40.svg)](#)
 
 * [Log in](https://www.kraken.com/sign-in)
 * [Sign up](https://www.kraken.com/sign-up)
