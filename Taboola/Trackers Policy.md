@@ -18,8 +18,7 @@ _**Cookies**_
 
 Taboola places cookies on our Customers’ websites and digital properties and uses these cookies as set forth in this policy. A cookie is a small text file that is placed on the browser of the hard drive of your computer (or similar device) by websites that you visit. Most websites use cookies. Cookies are typically used in order to make websites function, or function more efficiently, as well as to provide information to the owners of the particular website. Cookies make your use of the Sites and Services more enjoyable and improve the functionality of the services we provide to you.  Taboola also uses cookies to tailor content and information that we may send or display to you and otherwise personalize your experience while interacting with our Services.  For more information about relevant advertisements delivered by the Services, please read about our [Interest Based Advertisements](https://www.taboola.com/policies/privacy-policy#interest-based-advertising).
 
-_**  
-Other Automated Means**_
+_**Other Automated Means**_
 
 _Our advertiser Customers may place Taboola’s pixel tag on their websites. Pixel tags (also known as pixels, web beacons or clear GIFs) are typically transparent graphic images placed on a website. These pixel tags are used in combination with cookies to measure the actions of visitors to their websites._
 
@@ -133,7 +132,7 @@ You can find more information about the individual first-party cookies used for 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | **Taboola Publisher** |     |     |     |     |
-| Cookie Category | Cookie Name | Purpose | Domain | Expiry |
+| **Cookie Category** | **Cookie Name** | **Purpose** | **Domain** | **Expiry** |
 | Strictly Necessary Cookies | DNS | Maintains a record of a user’s instruction not to sell or share their personal data when the user exercises its rights via Taboola’s DNSS portal. | taboola.com | 5 years |
 | DNT | Maintains a record of the user’s instruction not to make use of their personal data when the user exercises rights via Taboola’s DSAR portal. | taboola.com | 5 years |
 | Functionality Cookies | taboola\_session\_id | Creates a temporary session ID to avoid the display of duplicate recommendations on the page. | trc.taboola.com | Expires upon conclusion of a user session |
@@ -157,7 +156,7 @@ You can find more information about the individual first-party cookies used for 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
 | **Taboola Publisher (Newsroom)** |     |     |     |     |
-| Cookie Category | Cookie Name | Purpose | Domain | Expiry |
+| **Cookie Category** | **Cookie Name** | **Purpose** | **Domain** | **Expiry** |
 | Functionality Cookies | \_tb\_sess\_r | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. It maintains a session reference about the user’s visit to this particular website. | Publisher’s Domain | 30 minutes |
 | \_tb\_t\_ppg | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. This cookie is used to identify the referring website (i.e. the website that the user visited prior to arriving at this publisher’s website). | Publisher’s Domain | 30 minutes |
 | Performance (Analytics) Cookies | tb\_click\_param | Used on websites of our publisher Customers that utilize the Taboola Newsroom services. It measures performance of the publisher’s homepage articles that are clicked. | Publisher’s Domain | 50 seconds |
@@ -165,7 +164,7 @@ You can find more information about the individual first-party cookies used for 
 |     |     |     |     |     |     |
 | --- | --- | --- | --- | --- | --- |
 | **Taboola Advertiser (Pixel)** |     |     |     |     |     |
-| Implementation | Cookie Category | Cookie Name | Purpose | Domain | Expiry |
+| **Implementation** | **Cookie Category** | **Cookie Name** | **Purpose** | **Domain** | **Expiry** |
 | Full Javascript Implementation | Functionality Cookie | taboola\_session\_id | Creates a temporary session ID to avoid the display of duplicate recommendations on the page. | [trc.taboola.com](http://trc.taboola.com/) | Expires upon conclusion of a user session |
 | receive-cookie-deprecation | Indication of browser cookie deprecation. | [taboola.com](http://taboola.com/) | 1 year |
 | Targeting (Advertising Cookies) | t\_gid | Assigns a unique, User ID that Taboola uses for attribution and reporting purposes, and to tailor recommendations to this specific user based on interactions with an advertiser or publisher. | [taboola.com](http://taboola.com/) | 1 year |
