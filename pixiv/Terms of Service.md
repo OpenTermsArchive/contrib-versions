@@ -1557,6 +1557,11 @@ Supplemental Provisions
 * These Individual Terms come into effect on September 27, 2022.
 * These Individual Terms will apply to acts committed by Users before their effectuation.
 
+Revision
+--------
+
+* December 17, 2024 "Article 5: Scouting" and "Article 6: Debut Support Program" have been revised to reflect the discontinuation of new applications for the Debut Support Program.
+
 pixiv COMIC Indies Debut Support Program Terms of Service
 =========================================================
 
@@ -1669,6 +1674,11 @@ Supplemental Provisions
 * These Individual Terms come into effect on September 27, 2022.
 * These Individual Terms will apply to all acts committed by Users before their effectuation.
 * As of December 16, 2024, new applications for the Debut Support Program have been discontinued. However, these Individual Terms will continue to apply to users who are already participating in the program.
+
+Revision
+--------
+
+* December 17, 2024 The pixiv COMIC Indies Debut Support Program Terms of Service have been fully revised and updated to reflect the discontinuation of new applications for the Debut Support Program.
 
 “BOOTH” Individual Terms of Use
 ===============================
