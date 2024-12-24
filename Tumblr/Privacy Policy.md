@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last Modified: 2024-05-07
+Last Modified: 2024-12-20
 
 The original version of this Privacy Policy is written in English. To the extent any translated version of this Privacy Policy conflicts with the English version, the English version controls.
 
