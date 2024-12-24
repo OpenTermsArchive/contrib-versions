@@ -3,12 +3,12 @@
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
- [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_n.png?1734942610)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
 
 sante.gouv.fr
 
 
-===============================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==============================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
  Rechercher :
 
@@ -75,13 +75,11 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
-            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
-            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
-            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
-            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -758,7 +756,7 @@ sur les réseaux sociaux
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
 * [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
 
- ![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/200/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_n.png?1734942609) 
+![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705) 
 
 * [info.gouv.fr](https://info.gouv.fr/)
 * [legifrance.gouv.fr](https://www.legifrance.gouv.fr/)
@@ -779,12 +777,12 @@ Sauf mention contraire, tous les contenus de ce site sont sous [licence etalab-2
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
- [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_n.png?1734942610)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
 
 sante.gouv.fr
 
 
-===============================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==============================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
  Rechercher :
 
@@ -851,13 +849,11 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
-            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
-            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
-            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
-            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -1529,12 +1525,12 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
- [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_n.png?1734942610)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
 
 sante.gouv.fr
 
 
-===============================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==============================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
  Rechercher :
 
@@ -1601,13 +1597,11 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
-            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
-            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
-            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
-            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -2179,50 +2173,50 @@ Recherche
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
- [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_n.png?1734942610)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
 
 sante.gouv.fr
 
 
-===============================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==============================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
  Rechercher :
 
 Recherche 
 
- [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_n.png?1734942610)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
 
 sante.gouv.fr
 
 
-===============================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==============================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
  Rechercher :
 
 Recherche 
 
- [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_n.png?1734942610)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
 
 sante.gouv.fr
 
 
-===============================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==============================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
- [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_n.png?1734942610)
-
-sante.gouv.fr
-
-
-===============================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
-
- [![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_n.png?1734942610)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
 
 sante.gouv.fr
 
 
-===============================================================================================================================================================================](https://sante.gouv.fr/ "Ministère de la santé et de l’accès aux soins")
+==============================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
- ![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/793/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_n.png?1734942610)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
+
+sante.gouv.fr
+
+
+==============================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+
+![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
 
  Rechercher :
 
@@ -2297,13 +2291,11 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
-            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
-            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
-            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
-            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -2696,13 +2688,11 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
-            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
-            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
-            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
-            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -3095,13 +3085,11 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
-            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
-            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
-            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
-            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -3494,13 +3482,11 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
-            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
-            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
-            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
-            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -3893,13 +3879,11 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
-            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
-            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
-            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
-            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -4292,13 +4276,11 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-        * [Geneviève Darrieussecq](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
-            * [Biographie](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/biographie/)
-            * [Cabinet](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/cabinet/)
-            * [Communiqués de presse](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/communiques-de-presse/)
-            * [Discours](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/discours/)
-            * [Agenda](https://sante.gouv.fr/ministere/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/agenda/)
+    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
         * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
@@ -7001,7 +6983,7 @@ sur les réseaux sociaux
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
 * [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
 
- ![Accueil Ministère de la santé et de l'accès aux soins](local/adapt-img/200/10x/IMG/logo/ministe_re_de_la_sante_et_de_l_acce_s_aux_soins_n.png?1734942609) 
+![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705) 
 
 * [Plan du site](https://sante.gouv.fr/spip.php?page=plan)
 * [Accessibilité : partiellement conforme](https://sante.gouv.fr/ministere/article/declaration-d-accessibilite-du-site-sante-gouv-fr)
