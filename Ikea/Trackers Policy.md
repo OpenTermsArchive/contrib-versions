@@ -1,4 +1,4 @@
-[Free bedroom appointments, online and in store. Talk to us about your sleep and storage needs](https://www.ikea.com/ie/en/customer-service/services/planning-consultation/#8f122ac0-8280-11ec-8fb5-bbf24207f858)
+[IKEA FAMILY members: Free small standard parcel delivery when you spend €65 or more](https://www.ikea.com/ie/en/customer-service/services/delivery/#18fc4069-0a57-11ec-912c-d5190c7baa2c)
 
 Cookie Policy
 =============
