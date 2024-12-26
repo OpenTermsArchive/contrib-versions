@@ -3,7 +3,7 @@
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
 
@@ -756,7 +756,7 @@ sur les réseaux sociaux
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
 * [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
 
-![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705) 
+![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028) 
 
 * [info.gouv.fr](https://info.gouv.fr/)
 * [legifrance.gouv.fr](https://www.legifrance.gouv.fr/)
@@ -777,7 +777,7 @@ Sauf mention contraire, tous les contenus de ce site sont sous [licence etalab-2
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
 
@@ -1525,7 +1525,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
 
@@ -2173,7 +2173,7 @@ Recherche
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
 * [Aller au plan du site](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#footer)
 
-[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
 
@@ -2184,7 +2184,7 @@ sante.gouv.fr
 
 Recherche 
 
-[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
 
@@ -2195,28 +2195,28 @@ sante.gouv.fr
 
 Recherche 
 
-[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
 
 
 ==============================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
-[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
 
 
 ==============================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
-[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
+[![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
 
 
 ==============================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
-![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705)
+![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028)
 
  Rechercher :
 
@@ -6983,7 +6983,7 @@ sur les réseaux sociaux
 * [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
 * [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
 
-![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi2.png?1735029705) 
+![Accueil Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028) 
 
 * [Plan du site](https://sante.gouv.fr/spip.php?page=plan)
 * [Accessibilité : partiellement conforme](https://sante.gouv.fr/ministere/article/declaration-d-accessibilite-du-site-sante-gouv-fr)
