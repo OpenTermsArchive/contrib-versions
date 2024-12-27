@@ -244,6 +244,12 @@ Users whose publications were taken down in connection with the TCO Regulation c
 * by writing to EDSR at Avenue Huart Hamoir 71, 1030 Brussels, Belgium, or
 * by contacting the [@EURegulation](https://t.me/EURegulation) bot on Telegram and using the command `/tco_ask`.
 
+#### [](#q-is-telegram-a-very-large-online-platform-according-to-the-eu-d)Q: Is Telegram a “very large online platform” according to the EU Digital Services Act?
+
+No. The EU Digital Services Act (DSA) requires certain services (which it describes as “online platforms”) to publish information about their average monthly active users in the European Union.
+
+Some non-essential elements of the services provided by Telegram may qualify as “online platforms” under the DSA. As of August 2024, these services had significantly fewer than 45 million average monthly active recipients in the EU over the preceding 6 months — which is below the threshold required for designation as a “very large online platform.”
+
 #### [](#q-a-bot-or-channel-is-infringing-on-my-copyright-what-do-i-do)Q: A bot or channel is infringing on my copyright. What do I do?
 
 **Private groups and chats** on Telegram are private amongst their participants. We do not process any requests related to them. However, Telegram also supports **sticker sets**, **bots**, **channels** and **groups** that are _publicly available_.
@@ -1187,6 +1193,12 @@ Users whose publications were taken down in connection with the TCO Regulation c
 
 * by writing to EDSR at Avenue Huart Hamoir 71, 1030 Brussels, Belgium, or
 * by contacting the [@EURegulation](https://t.me/EURegulation) bot on Telegram and using the command `/tco_ask`.
+
+#### [](#q-is-telegram-a-very-large-online-platform-according-to-the-eu-d)Q: Is Telegram a “very large online platform” according to the EU Digital Services Act?
+
+No. The EU Digital Services Act (DSA) requires certain services (which it describes as “online platforms”) to publish information about their average monthly active users in the European Union.
+
+Some non-essential elements of the services provided by Telegram may qualify as “online platforms” under the DSA. As of August 2024, these services had significantly fewer than 45 million average monthly active recipients in the EU over the preceding 6 months — which is below the threshold required for designation as a “very large online platform.”
 
 #### [](#q-a-bot-or-channel-is-infringing-on-my-copyright-what-do-i-do)Q: A bot or channel is infringing on my copyright. What do I do?
 
