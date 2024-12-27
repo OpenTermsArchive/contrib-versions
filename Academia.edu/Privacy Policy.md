@@ -338,3 +338,6 @@ Academia
 No. 400  
 San Francisco, CA 94104  
 [privacy@academia.edu](mailto:privacy@academia.edu)
+
+  
+[SUPPLEMENTAL NOTICE FOR TÜRKİYE RESIDENTS](https://www.academia.edu/privacy_turkish_supplemental)
