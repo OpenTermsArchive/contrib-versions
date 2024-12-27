@@ -75,15 +75,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+    * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
             * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
             * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
-        * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -119,7 +118,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -849,15 +848,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+    * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
             * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
             * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
-        * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -893,7 +891,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -1597,15 +1595,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+    * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
             * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
             * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
-        * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -1641,7 +1638,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -2291,15 +2288,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+    * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
             * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
             * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
-        * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -2335,7 +2331,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -2688,15 +2684,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+    * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
             * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
             * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
-        * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -2732,7 +2727,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -3085,15 +3080,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+    * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
             * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
             * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
-        * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -3129,7 +3123,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -3482,15 +3476,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+    * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
             * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
             * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
-        * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -3526,7 +3519,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -3879,15 +3872,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+    * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
             * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
             * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
-        * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -3923,7 +3915,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
@@ -4276,15 +4268,14 @@ Recherche
     
     Retour
     
-    * * [Tout sur le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/archives/la-ministre-de-la-sante-et-de-l-acces-aux-soins/genevieve-darrieussecq/)
+    * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
         * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
             * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
             * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
-        * [Simplification de vos démarches administratives](https://sante.gouv.fr/ministere/article/simplification-de-vos-demarches-administratives)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
             * [Organisation des directions et services](https://sante.gouv.fr/ministere/organisation/organisation-des-directions-et-services/)
             * [Services territoriaux](https://sante.gouv.fr/ministere/organisation/services-territoriaux/)
@@ -4320,7 +4311,7 @@ Recherche
     Retour
     
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
-        * [Travailler pour le ministère de la Santé et de l’Accès aux soins](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-de-la-sante-et-de-l-acces-aux-soins)
+        * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
