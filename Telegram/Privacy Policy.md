@@ -180,7 +180,9 @@ Bots can also receive the following data when you **interact** with them.
 
 #### [](#6-4-bots-are-not-maintained-by-telegram)6.4. Bots Are Not Maintained by Telegram
 
-Other than our own bots, no other bots or third-party bot developers are affiliated with Telegram. They are completely independent from us. They should ask you for your permission before they access your data or you make it available to them.
+The terms of use for certain bots are set by Telegram. No other bots or third-party bot developers are affiliated with Telegram. They are completely independent from us. They should ask you for your permission before they access your data or you make it available to them.
+
+Your usage of the Bot and Mini App features is governed by the [Terms of Service for Bots](https://telegram.org/tos/bots) and the [Terms of Services for Mini Apps](https://telegram.org/tos/mini-apps), respectively.
 
 #### [](#6-5-telegram-business-chatbots)6.5. Telegram Business Chatbots
 
