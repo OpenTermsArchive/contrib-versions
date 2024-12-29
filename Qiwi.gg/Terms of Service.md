@@ -18,7 +18,7 @@ Terms of Service
 3\. Choice of law and jurisdiction
 ----------------------------------
 
-(1) The law of the Lithuania applies to the contractual relations between the supplier and the customer.
+(1) The law of the British Virgin Islands applies to the contractual relations between Gaea Operations Ltd and the customer.
 
 (2) Jurisdiction for all disputes arising from the contractual relationship between the customer and the provider is the domicile of the provider, if the customer is a merchant, a legal entity under public law or a special fund under public law.
 
