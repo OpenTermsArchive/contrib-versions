@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-At Qiwi.gg, accessible from https://qiwi.gg, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Qiwi.gg and how we use it.
+At Qiwi.gg, accessible from https://qiwi.gg, operated by Gaea Operations Ltd, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Gaea Operations Ltd and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
 
@@ -66,7 +66,7 @@ You may consult this list to find the Privacy Policy for each of the advertising
 
 Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Qiwi, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
 
-Note that Qiwi.gg has no access to or control over these cookies that are used by third-party advertisers.
+Note that Gaea Operations Ltd has no access to or control over these cookies that are used by third-party advertisers.
 
 Third Party Privacy Policies
 ----------------------------
