@@ -76,10 +76,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+        * [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
@@ -849,10 +849,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+        * [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
@@ -1596,10 +1596,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+        * [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
@@ -2289,10 +2289,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+        * [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
@@ -2685,10 +2685,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+        * [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
@@ -3081,10 +3081,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+        * [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
@@ -3477,10 +3477,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+        * [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
@@ -3873,10 +3873,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+        * [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
@@ -4269,10 +4269,10 @@ Recherche
     Retour
     
     * * [Tout sur le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/ministere/)
-        * [La ministre et le ministre délégué](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/)
-            * [Catherine Vautrin](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/catherine-vautrin/)
-            * [Yannick Neuder](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/yannick-neuder/)
-            * [Organisation](https://sante.gouv.fr/ministere/la-ministre-et-le-ministre-delegue/organisation-11312/)
+        * [Les ministres](https://sante.gouv.fr/ministere/les-ministres/)
+            * [Catherine Vautrin](https://sante.gouv.fr/ministere/les-ministres/catherine-vautrin/)
+            * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
+            * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
