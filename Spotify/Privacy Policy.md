@@ -1,7 +1,7 @@
 **Spotify Privacy Policy**
 ==========================
 
-Effective as of 10 October 2024
+Effective as of 31 December 2024
 
   
 
@@ -34,7 +34,7 @@ Effective as of 10 October 2024
 **1\. About this Policy**
 -------------------------
 
-This Privacy Policy describes how we process your personal data at Spotify USA Inc. From now on, we’ll call it the ‘Policy’.
+This Privacy Policy describes how we at Spotify USA Inc. process personal data of U.S. residents. From now on, we’ll call it the ‘Policy’.
 
   
 
@@ -54,7 +54,7 @@ From now on, we’ll collectively call these the ‘**Spotify Service**’.
 
   
 
-From time to time, we may develop new or offer additional services. They’ll also be subject to this Policy, unless stated otherwise when we introduce them. IIf you reside in California, our supplemental [California Notice at Collection](https://www.spotify.com/us/legal/notice-at-collection/), applies in addition to this Policy.
+From time to time, we may develop new or offer additional services. They’ll also be subject to this Policy, unless stated otherwise when we introduce them. Our [California Notice at Collection](https://www.spotify.com/us/legal/notice-at-collection/) as required by the California Consumer Privacy Act applies to residents of California. If you are a resident of California, you should read this notice together with this Policy.
 
   
 
@@ -90,17 +90,16 @@ On the ‘Explicit Content’ setting you can control whether explicit-rated con
 **2\. Your personal data rights and controls**
 ----------------------------------------------
 
-Privacy laws give certain rights to individuals over their personal data.
+Certain U.S. states have adopted privacy laws that give certain rights to individuals over their personal data. We provide these rights to all residents of the U.S., regardless of where they live.
 
   
 
 The table below explains:
 
 * your rights
-* circumstances when they apply
-* how to use them
+* how to exercise them
 
-You can also watch our video about [Your Privacy Controls](https://www.spotify.com/us/safetyandprivacy/personal-data-collected). You will not receive discriminatory treatment for exercising any of your privacy rights.
+You can also watch our video about [Your Privacy Controls](https://www.spotify.com/us/safetyandprivacy/learn-more-about-privacy). You will not receive discriminatory treatment for exercising any of your privacy rights.
 
   
 
@@ -168,22 +167,22 @@ These tables set out the categories of personal data we collect from you. You ca
 
   
 
-| **Collected when you sign up for the Spotify Service**<br><br>**or when you update your account** |     |     |
-| --- | --- | --- |
-| **Categories** | **Categories under CCPA** | **Description** |
-| User Data | Identifiers; and<br><br>  <br><br>Characteristics of protected classifications under California or U.S. law (i.e., your age and gender) | Personal data that we need to create your Spotify account and that enables you to use the Spotify Service.<br><br>  <br><br>The type of data collected and used depends on the type of Service Option you have. It also depends on how you create your account, the country you are in, and if you use third party services to sign in. This may include your:<br><br>* profile name<br>* email address<br>* password<br>* phone number<br>* date of birth<br>* gender<br>* street address (see further details below)<br>* country<br>* university/college (for Spotify Premium Student)<br><br>We receive some of this data from you e.g. from the sign up form or account page.<br><br>  <br><br>We also collect some of this data from your device e.g. country or region. For more information about how we collect and use this data, see ‘Your general (non-precise) location’ in the Usage Data category. |
-| Street Address Data | Geolocation data | We may ask for and process your street address for the following reasons:<br><br>* to check eligibility for a Service Option<br>* to deliver notices which are required by law<br>* to deliver support options<br>* for billing and tax administration<br>* to deliver physical goods or gifts which you have requested<br><br>In some cases, we may use a third party application to help you verify your address, such as Google Maps. |
+| **Collected when you sign up for the Spotify Service**<br><br>**or when you update your account** |     |
+| --- | --- |
+| **Categories** | **Description** |
+| User Data | Personal data that we need to create your Spotify account and that enables you to use the Spotify Service.<br><br>  <br><br>The type of data collected and used depends on the type of Service Option you have. It also depends on how you create your account, the country you are in, and if you use third party services to sign in. This may include your:<br><br>* profile name<br>* email address<br>* password<br>* phone number<br>* date of birth<br>* gender<br>* street address (see further details below)<br>* country<br>* university/college (for Spotify Premium Student)<br><br>We receive some of this data from you e.g. from the sign up form or account page.<br><br>  <br><br>We also collect some of this data from your device e.g. country or region. For more information about how we collect and use this data, see ‘Your general (non-precise) location’ in the Usage Data category. |
+| Street Address Data | We may ask for and process your street address for the following reasons:<br><br>* to check eligibility for a Service Option<br>* to deliver notices which are required by law<br>* to deliver support options<br>* for billing and tax administration<br>* to deliver physical goods or gifts which you have requested<br><br>In some cases, we may use a third party application to help you verify your address, such as Google Maps. |
 
-| **Collected through your use of the Spotify Service** |     |     |
-| --- | --- | --- |
-| **Categories** | **Categories under CCPA** | **Description** |
-| Usage Data | Internet or other electronic network activity information;<br><br>  <br><br>Geolocation data (i.e.,your non-precise location as derived from your IP address);<br><br>  <br><br>Commercial information; and<br><br>  <br><br>Inferences | Personal data collected and processed about you when you’re accessing or using the Spotify Service.<br><br>  <br><br>There are a few types of information this includes, listed in the following sections.<br><br>  <br><br>**Information about how you use Spotify**<br><br>  <br><br>Examples include:<br><br>* information about your Spotify Service Option<br>* your actions with the Spotify Service (including date and time), such as:<br>    * search queries<br>    * streaming history<br>    * playlists you create<br>    * your library<br>    * browsing history<br>    * account settings<br>    * interactions with other Spotify users<br>* your use of third party services, devices and applications in connection with the Spotify Service<br>* inferences (i.e., our understanding) of your interests and preferences based on your usage of the Spotify Service<br>* content you provide when participating in Spotify promotions, such as contests or sweepstakes<br>* content you post to any part of the Spotify Service. For example: images, audio, text, titles, descriptions, communications, and other types of content  <br>      <br>    <br><br>**Your technical data**<br><br>  <br><br>Examples include:<br><br>* URL information<br>* online identifiers such as [cookie data](https://www.spotify.com/legal/cookies-policy/) and IP addresses<br>* information about the devices you use such as:<br>    * device IDs<br>    * network connection type (e.g. wifi, 4G, LTE, Bluetooth)<br>    * provider<br>    * network and device performance<br>    * browser type<br>    * language<br>    * information enabling digital rights management<br>    * operating system<br>    * Spotify application version<br>* information which enables us to discover and connect with third party devices and applications. Examples of this information are the device name, device identifiers, brand and version. Examples of third party devices and applications are:<br>    * devices on your wifi network (such as speakers) which can connect to the Spotify Service<br>    * devices your operating system makes available when connecting via Bluetooth, plugin, and installation<br>    * Spotify partner applications to determine whether the application is installed on your device<br><br>  <br><br>**Your general (non-precise) location**<br><br>  <br><br>Your general location includes country, region or state. We may learn this from technical data (e.g. your IP address, language setting of your device) or payment currency.<br><br>  <br><br>We need this to:<br><br>* meet geographic requirements in our agreements with the owners of content on the Spotify Service<br>* deliver content and advertising that’s relevant to you<br><br>  <br><br>**Your device sensor data**<br><br>  <br><br>Motion-generated or orientation-generated device sensor data if needed to provide features of the Spotify Service that require this data. This is data which your device collects about the way you move or hold your device. |
+| **Collected through your use of the Spotify Service** |     |
+| --- | --- |
+| **Categories** | **Description** |
+| Usage Data | Personal data collected and processed about you when you’re accessing or using the Spotify Service.<br><br>  <br><br>There are a few types of information this includes, listed in the following sections.<br><br>  <br><br>**Information about how you use Spotify**<br><br>  <br><br>Examples include:<br><br>* information about your Spotify Service Option<br>* your actions with the Spotify Service (including date and time), such as:<br>    * search queries<br>    * streaming history<br>    * playlists you create<br>    * your library<br>    * browsing history<br>    * account settings<br>    * interactions with other Spotify users<br>* your use of third party services, devices and applications in connection with the Spotify Service<br>* inferences (i.e., our understanding) of your interests and preferences based on your usage of the Spotify Service<br>* content you provide when participating in Spotify promotions, such as contests or sweepstakes<br>* content you post to any part of the Spotify Service. For example: images, audio, text, titles, descriptions, communications, and other types of content  <br>      <br>    <br><br>**Your technical data**<br><br>  <br><br>Examples include:<br><br>* URL information<br>* online identifiers such as [cookie data](https://www.spotify.com/legal/cookies-policy/) and IP addresses<br>* information about the devices you use such as:<br>    * device IDs<br>    * network connection type (e.g. wifi, 4G, LTE, Bluetooth)<br>    * provider<br>    * network and device performance<br>    * browser type<br>    * language<br>    * information enabling digital rights management<br>    * operating system<br>    * Spotify application version<br>* information which enables us to discover and connect with third party devices and applications. Examples of this information are the device name, device identifiers, brand and version. Examples of third party devices and applications are:<br>    * devices on your wifi network (such as speakers) which can connect to the Spotify Service<br>    * devices your operating system makes available when connecting via Bluetooth, plugin, and installation<br>    * Spotify partner applications to determine whether the application is installed on your device<br><br>  <br><br>**Your general (non-precise) location**<br><br>  <br><br>Your general location includes country, region or state. We may learn this from technical data (e.g. your IP address, language setting of your device) or payment currency.<br><br>  <br><br>We need this to:<br><br>* meet geographic requirements in our agreements with the owners of content on the Spotify Service<br>* deliver content and advertising that’s relevant to you<br><br>  <br><br>**Your device sensor data**<br><br>  <br><br>Motion-generated or orientation-generated device sensor data if needed to provide features of the Spotify Service that require this data. This is data which your device collects about the way you move or hold your device. |
 
-| **Additional data you may choose to give us** |     |     |
-| --- | --- | --- |
-| **Categories** | **Categories under CCPA** | **Description** |
-| Payment and Purchase Data | Commercial information | If you make any purchases from Spotify or sign up for a paid Service Option or a trial, we will need to process your payment data.<br><br>  <br><br>The exact personal data collected and used will vary depending on the payment method. It will include information such as:<br><br>* name<br>* date of birth<br>* payment method type (e.g. credit or debit card)<br>* if using a debit or credit card, the card type, expiration date, and certain digits of your card numberNote: For security, we never store your full card number<br>* ZIP/postal code<br>* mobile phone number<br>* details of your purchase and payment history |
-| Survey and Research Data | Identifiers; and<br><br>  <br><br>other information you share | When you respond to a survey or take part in user research, we collect and use the personal data you provide as described in the survey or research. |
+| **Additional data you may choose to give us** |     |
+| --- | --- |
+| **Categories** | **Description** |
+| Payment and Purchase Data | If you make any purchases from Spotify or sign up for a paid Service Option or a trial, we will need to process your payment data.<br><br>  <br><br>The exact personal data collected and used will vary depending on the payment method. It will include information such as:<br><br>* name<br>* date of birth<br>* payment method type (e.g. credit or debit card)<br>* if using a debit or credit card, the card type, expiration date, and certain digits of your card numberNote: For security, we never store your full card number<br>* ZIP/postal code<br>* mobile phone number<br>* details of your purchase and payment history |
+| Survey and Research Data | When you respond to a survey or take part in user research, we collect and use the personal data you provide as described in the survey or research. |
 
 We receive some of the data mentioned above from third parties. The below table describes the categories of those third parties.
 
@@ -211,7 +210,7 @@ The table below sets out:
 * our purpose for processing your personal data
 * categories of personal data which we use for each purpose. See more about these categories in [Section 3 ‘Personal data we collect about you’](#3-personal-data-we-collect-about-you)
 
-You can also watch our video about [Personal Data at Spotify](https://www.spotify.com/privacy).
+You can also watch our video about [Personal Data at Spotify](https://www.spotify.com/us/safetyandprivacy/learn-more-about-privacy).
 
   
 
