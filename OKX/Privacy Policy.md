@@ -1,4 +1,4 @@
-Last updated: October 11, 2024
+Last updated: December 31, 2024
 
 **1\. INTRODUCTION**
 --------------------
@@ -91,7 +91,7 @@ Below are specific ways in which we may process your Personal Data:
     
 6. **Enhancing our Services.** We process your Personal Data to understand how our products and Services are being used to improve our Services, train our systems to improve our Services and develop new Services.
     
-7. **Product marketing.** We process your Personal Data to identify our products and Services that we believe may be of interest to you. We may contact you about them. You may opt out of marketing communications with us at any time. If you do not want to receive these communications, please send an email to support@okcoin.com.
+7. **Product marketing.** We process your Personal Data to identify our products and Services that we believe may be of interest to you. We may contact you about them. You may opt out of marketing communications with us at any time. If you do not want to receive these communications, please send an email to support@okx.com.
     
 8. **Consent.** We may use your Personal Data for additional purposes with your consent.
     
@@ -181,7 +181,7 @@ You have the right to request us not to use or disclose your Personal Data for t
 
 We may communicate company news, promotions, and information relating to our products and services provided by OKX. We may share Personal Data with third parties to help us with our marketing and promotional projects or sending marketing communications.
 
-Users can opt out from these marketing communications at any time. If you do not want to receive these communications, please send an email to support@okcoin.com.
+Users can opt out from these marketing communications at any time. If you do not want to receive these communications, please send an email to support@okx.com.
 
 For product related communications, such as policy/terms updates and operational notifications, you will not be able to opt out of receiving such information.
 
@@ -202,7 +202,7 @@ If you have any questions about information security or report any security issu
 **15\. CONTACTING OKX ABOUT PRIVACY QUESTIONS OR CONCERNS**
 -----------------------------------------------------------
 
-If you have any questions about this Privacy Notice or the use of your Personal Data, please contact us by sending an email to the following address support@okcoin.com with the subject “PRIVACY REQUEST”. For users from the EEA, you have the right to make a complaint for unresolved questions in relation to the collection, use or disclosure of your Personal Data to the applicable supervisory authority within your jurisdiction. 
+If you have any questions about this Privacy Notice or the use of your Personal Data, please contact us by sending an email to the following address support@okx.com with the subject “PRIVACY REQUEST”. For users from the EEA, you have the right to make a complaint for unresolved questions in relation to the collection, use or disclosure of your Personal Data to the applicable supervisory authority within your jurisdiction. 
 
 **16\. CHANGES TO OUR Privacy Notice**
 --------------------------------------
