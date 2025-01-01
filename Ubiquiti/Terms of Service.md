@@ -254,4 +254,4 @@ THIS AGREEMENT REQUIRES THE USE OF ARBITRATION ON AN INDIVIDUAL BASIS TO RESOLVE
 
 [Schedule 4: CyberSecure](https://www.ui.com/legal/enhanced-threat-updates/)
 
-Copyright © 2024 Ubiquiti Inc. All rights reserved.
+Copyright © 2025 Ubiquiti Inc. All rights reserved.
