@@ -12,7 +12,7 @@ Other languages:
 * [Cebuano](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ceb "Policy:Privacy policy/ceb (7% translated)")
 * [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/cy "Policy:Privacy policy/cy (1% translated)")
 * [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de "Policy:Privacy policy/de (100% translated)")
-* [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de-formal "Policy:Privacy policy/de-formal (46% translated)")
+* [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/de-formal "Policy:Privacy policy/de-formal (50% translated)")
 * English
 * [Esperanto](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/eo "Policy:Privacy policy/eo (57% translated)")
 * [Frysk](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/fy "Policy:Privacy policy/fy (1% translated)")
