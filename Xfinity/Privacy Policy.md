@@ -1,4 +1,4 @@
-Effective July 1, 2024 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_07112024_65.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects/cix-2602_xpc-re-platform/PP_SP_07112024.pdf)
+Effective January 1, 2025 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects_3/2024/dec/privacy-policy---info-collection/xfinityprivacypolicyjanuary2025.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects_3/2024/dec/privacy-policy---info-collection/xfinityprivacypolicyjanuary2025.pdf)
 
   
 
@@ -43,7 +43,7 @@ We know you care about your privacy and the protection of your [personal informa
 Some of what we say in our Privacy Policy is required by law, and may at times seem long and complicated, but we’ve worked hard to try to make our Privacy Policy easy to understand and provide examples where possible. The [Xfinity Privacy Center](https://www.xfinity.com/privacy) includes more information about:
 
 * How to review and manage your personal information and account activity
-* How to manage your preference, including setting your marketing and advertising preferences, and restricting certain uses and sharing
+* How to manage your preferences, including setting your marketing and advertising preferences, and restricting certain uses and sharing
 * How you can better protect yourself online
 
 You can review this Privacy Policy and the information in the Xfinity Privacy Center anytime. If you still have questions, you can [contact us](https://www.xfinity.com/xfinityassistant "XfinityChat") for more information.
@@ -53,18 +53,18 @@ When the Privacy Policy applies
 
 This Privacy Policy applies to the information we collect when you use or interact with the [business entities, products, services, networks, and platforms](#/privacy/overlays/Xfinity-branded), including our websites, mobile apps, and other services and devices where this policy is referenced. These may include Xfinity-branded services, Comcast-branded Services, Xumo-branded Services, and other products and services we deliver. This Privacy Policy also applies when you otherwise interact with us. We'll refer to all of these as our "Services" in this Privacy Policy. It also applies to the information we collect about you from third parties. 
 
-This Privacy Policy does _**not**_ apply to the [other products, services, websites, and applications](#/privacy/overlays/Other-products) (mobile or television) that you may use or interact with through Xfinity platforms.
+This Privacy Policy does _**not**_ apply to the [other products, services, websites, and applications](#/privacy/overlays/Other-products) (mobile or television) that you may use or interact with through Xfinity platforms. It also does not apply where we process your personal information at the direction of business clients for whom we provide services where you have a relationship with those business clients. Instead, the privacy policies of those other parties will apply.
 
 Because this Privacy Policy describes the privacy practices for all of our Services, some parts may not apply to you. For example, if you do not subscribe to Xfinity Voice (home phone service) or Xfinity Mobile, we will not collect call detail information. If you do not subscribe to Xfinity Home, we will not collect home security event information.
 
 Some Services may have additional privacy practices that may be described to you in different ways, such as in a separate contract for Comcast Business Services. To the extent there is an overlap between this Privacy Policy and a Service-specific privacy policy, the Service-specific policy or agreement will control with respect to that Service.
 
-This Policy does **_not_** apply to the non-Xfinity products, services, websites, and applications that you may use through the Xfinity platforms and we are not responsible for the practices of the companies providing those offerings. For example, if you subscribe to Xfinity Internet and visit a news or shopping website, the privacy policy for that website will apply. If you use one of our platforms to use another company’s streaming service, the privacy policy for that streaming service will apply to information it collects about your activity within the app. Likewise, if you connect your smart thermostat to your Xfinity Home security and automation service, the privacy policy of the smart thermostat company will apply to the information it collects. For more information about how these non-Xfinity products, services, websites, and applications use your information, please review their privacy policies.
+This Policy does **_not_** apply to the non-Xfinity products, services, websites, and applications that you may use through the Xfinity platforms, and we are not responsible for the practices of the companies providing those offerings. For example, if you subscribe to Xfinity Internet and visit a news or shopping website, the privacy policy for that website will apply. If you use one of our platforms to use another company’s streaming service, the privacy policy for that streaming service will apply to information it collects about your activity within the app. Likewise, if you connect your smart thermostat to your Xfinity Home security and automation service, the privacy policy of the smart thermostat company will apply to the information it collects. For more information about how these non-Xfinity products, services, websites, and applications use your information, please review their privacy policies.
 
 The personal information we collect and how we collect it
 ---------------------------------------------------------
 
-To provide you with our Services, we collect your personal information. This can include information that does not personally identify you -  such as device numbers, IP addresses, and account numbers. It may also include information that does personally identify you, such as your name, address, and telephone number. We call any information that identifies you "personally identifiable information" or "PII."
+To provide you with our Services, we collect your personal information. This can include information that does not directly identify you - such as device numbers, IP addresses, and account numbers. It may also include information that does personally identify you, such as your name, address, and telephone number. We call any information that identifies you "personally identifiable information" or "PII."
 
 If you allow others to use your Services, we will also collect personal information about those individuals. If you use our Services through someone else’s account, we will collect information about you, but it may not identify who you are to us. We may also collect information about you from [third parties](#/privacy/overlays/Third-Parties).
 
@@ -126,7 +126,7 @@ We collect personal information about you in several ways
 * Geolocation information on where you are at a specific point in time based on your service address [to help us authenticate you](#/privacy/overlays/help-us-authenticate-you) for certain services on our platform
 * IP addresses, device identifiers, and network equipment addresses when devices connect to our Services, and other device information, including information about Devices provided by other companies from which you use our Services
 * User activity information on our websites and applications [using cookies and other technologies](https://www.xfinity.com/privacy/policy/cookienotice) and information provided by other companies [when you integrate their services with our Services](#/privacy/overlays/integrated-services)
-* Domain Name Server or “[DNS](#/privacy/overlays/DNS)” searches and [network traffic activity](#/privacy/overlays/network-traffic-activity) when you use our Services, such as Xfinity Internet, Xfinity Mobile or Xfinity WiFi
+* Domain Name Server or “[DNS](#/privacy/overlays/DNS)” searches and [network traffic activity](#/privacy/overlays/network-traffic-activity) when you use our Services, such as Xfinity Internet, Xfinity Mobile, or Xfinity WiFi
 * Geolocation information that indicates where your device is at a specific point in time when you use [Xfinity Mobile](#/privacy/overlays/Xfinity-Mobile) or enable that function in our [mobile apps](#/privacy/overlays/mobile-apps)
 * General location information, such as the city or ZIP Code that correlates with the location of a WiFi service access point or with the lease of your device IP address when you use Xfinity Internet or Xfinity WiFi 
 * The quantity, technical configuration, type, features, call history, and amount of your use of voice services (known as Customer Proprietary Network Information or “CPNI”)
@@ -139,6 +139,8 @@ We collect personal information about you in several ways
     Government entities that offer public records
 * Consumer data providers that offer [demographic](#/privacy/overlays/demographic), [interest](#/privacy/overlays/interest), [purchase](#/privacy/overlays/purchase), and other data that we use to tailor our marketing and communications to your interest
 * Providers of third-party apps that you use on devices governed by this privacy policy
+* Third parties that you use to sign into our Services
+* Resellers or third parties that sell you a Xumo device
 * Social networks and other publicly available data, like [Facebook](#/privacy/overlays/Facebook)
 * Online advertising companies who may share information about the marketing and advertisements you have seen or clicked on
 
@@ -217,6 +219,8 @@ We share personal information with others when it's needed to provide you with o
 * When required by law or to respond to legal process
 * To protect our property or rights or the safety of our employees, our customers, or other individuals
 
+If your internet service or other access is provided in whole or in part by a third party, such as a landlord or property owner, educational institution, local government, or nonprofit entity, we may share with them information collected during your registration, as well as service tier, activation, and/or aggregated usage information.
+
 If we share your personal information with other companies for their own marketing and advertising activities, we will first get your consent. This may be through [opt-in or opt-out settings](#/privacy/overlays/opt-in), depending on the type of personal information shared.
 
 We may also share personal information that does not identify you with third parties for their own marketing and advertising purposes, which you can opt out of. This mainly occurs when you interact with our websites and mobile applications that contain third-party cookies or other advertising trackers. To learn more about this, please read our [Cookie Notice](https://www.xfinity.com/privacy/policy/cookienotice)
@@ -287,7 +291,7 @@ You may interact with parts of our Services that cause information to be publish
 
 ONLINE ADVERTISING PARTNERS
 
-We may use cookies or other technology to deliver personalized advertising to you when you visit other websites, including advertising based on the products and services you viewed on our Services. We also allow our partners, including advertisers and service providers, to use cookies and similar tracking technologies when you use our Services. For more information about the use of  
+We may use cookies or other technology to deliver [personalized advertising](#/privacy/overlays/Personalized-advertising) to you when you visit other websites, including advertising based on the products and services you viewed on our Services. We also allow our partners, including advertisers and service providers, to use cookies and similar tracking technologies when you use our Services. For more information about the use of  
 cookies and other technologies on our online Services, please see the [Cookies Notice](https://www.xfinity.com/privacy/policy/cookienotice).
 
 AUDIENCE MEASUREMENT AND ANALYTICS COMPANIES
@@ -409,13 +413,23 @@ Your privacy may be impacted differently depending on where you live. If you're 
 
 [California](https://www.xfinity.com/privacy/policy/staterights#california)
 
+[Colorado](https://www.xfinity.com/privacy/policy/staterights#colorado)
+
 [Connecticut](https://www.xfinity.com/privacy/policy/staterights#connecticut)
 
-[Colorado](https://www.xfinity.com/privacy/policy/staterights#colorado)
+[Delaware](https://www.xfinity.com/privacy/policy/staterights#delaware)
+
+[Iowa](https://www.xfinity.com/privacy/policy/staterights#iowa)
 
 [Maine](https://www.xfinity.com/privacy/policy/staterights#maine)
 
 [Montana](https://www.xfinity.com/privacy/policy/staterights#montana)
+
+[Nebraska](https://www.xfinity.com/privacy/policy/staterights#nebraska)
+
+[New Hampshire](https://www.xfinity.com/privacy/policy/staterights#newhampshire)
+
+[New Jersey](https://www.xfinity.com/privacy/policy/staterights#newjersey)
 
 [Oregon](https://www.xfinity.com/privacy/policy/staterights#oregon)
 
