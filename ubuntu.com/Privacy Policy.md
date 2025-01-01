@@ -525,7 +525,7 @@ Sectors
 
 * * *
 
-© 2024 Canonical Ltd.
+© 2025 Canonical Ltd.
 
 Ubuntu and Canonical are registered trademarks of Canonical Ltd.
 
