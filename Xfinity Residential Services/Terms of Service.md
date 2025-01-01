@@ -137,7 +137,7 @@ You accept this Agreement and agree to its terms by activating the Services, usi
         
         “Customer Equipment” means software, hardware, or services used in connection with the Services that we (or our agents) do not provide or lease. Customer Equipment also includes certain equipment that you purchase from us (or our agents) under an express sale agreement. Customer Equipment does not include Xfinity Equipment for which you have paid an Unreturned Equipment Fee (as defined in Section 7(b) below).
         
-        You agree that we (or our agents) may access your Customer Equipment in order to configure, maintain, inspect, or upgrade it, set up Services, or install or download software. For example, we may send software, downloads, or updates remotely to modems, gateways, routers, and digital interactive televisions with CableCARDs. These updates may change, add, or remove features or functionality of your Customer Equipment or the Services.
+        You agree that we (or our agents) may access your Customer Equipment in order to configure, maintain, inspect, or upgrade it, set up Services, or install or download software. For example, we may send software, downloads, or updates remotely to modems, gateways, and routers. These updates may change, add, or remove features or functionality of your Customer Equipment or the Services.
         
         You represent and warrant that you own your Customer Equipment or have obtained the authority to give us access to your Customer Equipment. If you do not own your Customer Equipment, you agree to supply the owner’s name, address, and phone number, and evidence that the owner has approved our access, upon request.
         
@@ -153,7 +153,7 @@ You accept this Agreement and agree to its terms by activating the Services, usi
         
 7. ### XFINITY EQUIPMENT
     
-    “**Xfinity Equipment**” means all new or reconditioned equipment that we or our agent provides or leases to you, including, but not limited to, cabling or wiring (except for Inside Wiring, as defined above) and related electronic devices, modems, routers, CableCARDs, and any other hardware and includes all software and programs contained within Xfinity Equipment or downloaded to Customer Equipment by us.
+    “**Xfinity Equipment**” means all new or reconditioned equipment that we or our agent provides or leases to you, including, but not limited to, cabling or wiring (except for Inside Wiring, as defined above) and related electronic devices, modems, routers, and any other hardware and includes all software and programs contained within Xfinity Equipment or downloaded to Customer Equipment by us.
     
     * **a. We own all Xfinity Equipment**
         
@@ -394,4 +394,4 @@ You accept this Agreement and agree to its terms by activating the Services, usi
     The following sections shall survive the termination of your Services with us: Section 11, Section 13, Section 14, Section 15, Section 16, and Section 19.
     
 
-Stnd1024
+Stnd0125
