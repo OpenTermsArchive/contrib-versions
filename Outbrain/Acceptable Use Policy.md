@@ -502,7 +502,7 @@ Try Outbrain for Advertisers today
 
 Your work email
 
-Copyright © 2024 Outbrain Inc. All rights reserved. Outbrain is a trademark of Outbrain Inc.
+Copyright © 2025 Outbrain Inc. All rights reserved. Outbrain is a trademark of Outbrain Inc.
 
 * [Interest-Based Ads (Opt Out)](https://my.outbrain.com/recommendations-settings/home)
 * [Advertiser Guidelines](https://www.outbrain.com/advertisers/guidelines/)
