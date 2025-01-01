@@ -258,4 +258,4 @@ Deliver your marketing message **directly to decision makers.**
 
 ![](https://www.webpronews.com/wp-content/themes/wpntheme/imgs/ientry_logo.png) WebProNews is an iEntry Publication
 
-©2024 iEntry, Inc. All rights reserved. [Privacy Policy](https://www.webpronews.com/privacy-policy) | [Legal](https://www.ientry.com/legal/) | [Contact Us](https://www.webpronews.com/contact) |
+©2025 iEntry, Inc. All rights reserved. [Privacy Policy](https://www.webpronews.com/privacy-policy) | [Legal](https://www.ientry.com/legal/) | [Contact Us](https://www.webpronews.com/contact) |
