@@ -43,7 +43,7 @@ We know you care about your privacy and the protection of your [personal informa
 Some of what we say in our Privacy Policy is required by law, and may at times seem long and complicated, but we’ve worked hard to try to make our Privacy Policy easy to understand and provide examples where possible. The [Xfinity Privacy Center](https://www.xfinity.com/privacy) includes more information about:
 
 * How to review and manage your personal information and account activity
-* How to manage your preference, including setting your marketing and advertising preferences, and restricting certain uses and sharing
+* How to manage your preferences, including setting your marketing and advertising preferences, and restricting certain uses and sharing
 * How you can better protect yourself online
 
 You can review this Privacy Policy and the information in the Xfinity Privacy Center anytime. If you still have questions, you can [contact us](https://www.xfinity.com/xfinityassistant "XfinityChat") for more information.
@@ -413,9 +413,9 @@ Your privacy may be impacted differently depending on where you live. If you're 
 
 [California](https://www.xfinity.com/privacy/policy/staterights#california)
 
-[Connecticut](https://www.xfinity.com/privacy/policy/staterights#connecticut)
-
 [Colorado](https://www.xfinity.com/privacy/policy/staterights#colorado)
+
+[Connecticut](https://www.xfinity.com/privacy/policy/staterights#connecticut)
 
 [Delaware](https://www.xfinity.com/privacy/policy/staterights#delaware)
 
