@@ -2,11 +2,11 @@ Disqus Privacy Policy
 
 Written by Disqus
 
-Updated over a year ago
+Updated today
 
 Disqus Privacy Policy
 
-Updated December 30, 2022
+Updated January 2, 2025
 
 This Privacy Policy tells you how Disqus collects, uses, sells, discloses  
 and protects data relating to you in connection with our Service (as defined  
@@ -111,25 +111,15 @@ Depending on the laws where you live, you may have one or more of the following 
 
 Visit our [Privacy Choices page](https://disqus.com/data-sharing-settings/) for more details or to exercise your rights.  
 ​  
-We are required to publish statistics on how many people exercised their privacy rights in the previous year. The following statistics are for people who made requests relating to Disqus during the twelve months ending December, 20, 2023. These statistics cover all requests received from individuals around the world.
+We are required to publish statistics on how many people exercised their privacy rights in the previous year. The following statistics are for people who made requests relating to Disqus during the twelve months ending December 31, 2024. These statistics cover all requests received from individuals around the world.
 
-* Access requests: 740
+* Number of requests for access to (copy of) data: 468
     
-    * Email verifications not completed: 70
-        
+* Number of requests for data deletion: 1475
     
-* Deletion requests: 2591
+* Number of requests for opt-out (Do Not Sell): 7166
     
-    * Email verifications not completed: 239
-        
-    
-* Do-Not-Sell requests: 6310
-    
-    * Email verifications not completed: 3435  
-        ​
-        
-    
-    _Disqus received a high volume of automated, unverified, and duplicative requests in late 2023 which resulted in a large number of unverified and therefore uncompleted requests._
+* Number of requests that were not actioned because the requestor did not complete the verification process: 5275
     
 
 **11\. INTERNATIONAL DATA TRANSFERS.**  
