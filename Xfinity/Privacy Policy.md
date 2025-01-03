@@ -1,4 +1,4 @@
-Effective January 1, 2025 | [Download PDF](https://assets.xfinity.com/assets/dotcom/projects_3/2024/dec/privacy-policy---info-collection/xfinityprivacypolicyjanuary2025.pdf) [Descargar PDF](https://assets.xfinity.com/assets/dotcom/projects_3/2024/dec/privacy-policy---info-collection/xfinityprivacypolicyjanuary2025.pdf)
+Effective January 1, 2025 | [Download PDF (English)](https://assets.xfinity.com/assets/dotcom/projects_3/2024/dec/privacy-policy---info-collection/xfinityprivacypolicyjanuary2025.pdf) | [Download PDF (Spanish)](https://assets.xfinity.com/assets/dotcom/dam-183/Privacy%20Policy%20Spanish%20Version.pdf)
 
   
 
