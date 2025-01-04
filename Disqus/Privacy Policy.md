@@ -2,7 +2,7 @@ Disqus Privacy Policy
 
 Written by Disqus
 
-Updated yesterday
+Updated this week
 
 Disqus Privacy Policy
 
