@@ -25,7 +25,7 @@ Choose a Google product
 * [![](//storage.googleapis.com/support-kms-prod/RtYfYt69uZaC29qgMoE4JCX862QbezJhsup7)
     
     ### Gemini Apps](https://support.google.com/gemini?hl=en-GB)
-* [![](//fonts.gstatic.com/s/i/productlogos/google_now/v5/web-64dp/logo_google_now_color_1x_web_64dp.png)
+* [![](//www.gstatic.com/images/branding/productlogos/google_search_round/v8/web-64dp/logo_google_search_round_color_1x_web_64dp.png)
     
     ### Pixel Phone](https://support.google.com/pixelphone?hl=en-GB)
 * [![](//fonts.gstatic.com/s/i/productlogos/maps/v6/web-64dp/logo_maps_color_1x_web_64dp.png)
