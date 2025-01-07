@@ -88,7 +88,7 @@ These terms and conditions, as amended from time to time (the “General Terms a
 
 “**Supply Point**” means the point at which the Premises is connected to the relevant gas or electricity distribution system and is metered by the relevant distribution company.
 
-“**Tariff**” means the price you pay for the supply of Energy. Standard tariffs will be published on Energia’s website [www.energia.ie](http://www.energia.ie/). The tariff payable by you will be contained in your Invoice.
+“**Tariff**” means the price you pay for the supply of Energy. Standard tariffs will be published on Energia’s website [www.energia.ie](https://www.energia.ie/). The tariff payable by you will be contained in your Invoice.
 
 “**Termination Date**” means the date on which this Agreement is terminated pursuant to Clause 13.
 
@@ -138,7 +138,7 @@ Headings in this Agreement are inserted for convenience only and are to be ignor
 
 4.3 You may terminate this Agreement under Clause 13.3 if there is any material change to the General Terms and Conditions.
 
-4.4 The General Terms and Conditions applicable from time to time are available at [www.energia.ie](http://www.energia.ie/) or will be provided on request.
+4.4 The General Terms and Conditions applicable from time to time are available at [www.energia.ie](https://www.energia.ie/) or will be provided on request.
 
 #### 
 
@@ -148,7 +148,7 @@ Headings in this Agreement are inserted for convenience only and are to be ignor
 
 5.2 Energia shall be entitled to vary any Variable Tariff, the variable component of any Hybrid Tariff, standing charges and Pass through Charges and any other elements used to calculate the Charges from time to time. Energia will notify you on your bill, by email, by letter or by way of public advertisement of changes to standing charges or unit rates as soon as reasonably practicable and, no later than 30 days before the change comes into effect unless you have signed up to a more flexible arrangement. Such changes shall take effect from the later of the date specified by Energia in such notice or 30 days after the date of such notice. If your average daily usage is less than 2 units per billing period (typically 56 days), you may be subject to a higher standing charge than other Customers.
 
-5.3 Up-to-date information on Tariffs and other elements used to calculate the Charges may be obtained on Energia’s website: [www.energia.ie](http://www.energia.ie/).
+5.3 Up-to-date information on Tariffs and other elements used to calculate the Charges may be obtained on Energia’s website: [www.energia.ie](https://www.energia.ie/).
 
 5.4 All Tariffs and any other elements used to calculate the Charges are exclusive of VAT and any other tax, duty or levy imposed in respect of Energy supplied. 
 
@@ -228,7 +228,7 @@ In either case by cheque if you have provided Energia with a forwarding address 
 
 8.5  If you do not meet the credit terms set by Energia and you attempt to change supplier, a debt flag will be displayed on your account and be visible to the proposed new supplier.
 
-8.6  If you are a Pay As You Go Customer and you decide to move your electricity supply to another supplier, you will need to notify Energia in accordance with Clause 13. In addition, you will need to contact our call centre directly to request a deactivation code and to claim any refund that may be due to you.  Energia shall issue the deactivation code no later than 10 days of the receipt of the MM110 (change of supply) market message. The deactivation code may be issued to you over the phone from a call centre representative, or may be emailed to you.  Please see the Code of Practice on Pay as You Go Metering and Budget Controllers for more information, available on Energia’s website [www.energia.ie](http://www.energia.ie/).
+8.6  If you are a Pay As You Go Customer and you decide to move your electricity supply to another supplier, you will need to notify Energia in accordance with Clause 13. In addition, you will need to contact our call centre directly to request a deactivation code and to claim any refund that may be due to you.  Energia shall issue the deactivation code no later than 10 days of the receipt of the MM110 (change of supply) market message. The deactivation code may be issued to you over the phone from a call centre representative, or may be emailed to you.  Please see the Code of Practice on Pay as You Go Metering and Budget Controllers for more information, available on Energia’s website [www.energia.ie](https://www.energia.ie/).
 
 #### 
 
@@ -242,7 +242,7 @@ In either case by cheque if you have provided Energia with a forwarding address 
 
 (c)  You owe Energia money and by installing a pay as you go meter Energia can avoid disconnecting your supply.
 
-9.2 Information regarding pay as you go meters is available on Energia’s website [www.energia.ie](http://www.energia.ie/) and in the Code of Practice on Pay as You Go Metering and Budget Controllers.  
+9.2 Information regarding pay as you go meters is available on Energia’s website [www.energia.ie](https://www.energia.ie/) and in the Code of Practice on Pay as You Go Metering and Budget Controllers.  
 
 9.3 If you are a Pay As You Go Customer, you are at risk of losing any credit on your account if Energia ceases to operate in the electricity market.
 
@@ -415,13 +415,13 @@ PO Box 12380
 Dublin 2  
    
 (b) By telephone on 0818 405 405; or  
-(c) By online query at [www.energia.ie](http://www.energia.ie/)
+(c) By online query at [www.energia.ie](https://www.energia.ie/)
 
 #### 
 
 18\. Customer Charter & Codes Of Practice
 
-18.1 Energia has a customer charter which is approved by the Regulator that sets out our commitments to you in relation to levels of service that you can expect from us. The customer charter can be found on our website at [www.energia.ie](http://www.energia.ie/) or by any of the means contained in Clause 20.1. If we fall in our commitments to you, you may be entitled to compensation.
+18.1 Energia has a customer charter which is approved by the Regulator that sets out our commitments to you in relation to levels of service that you can expect from us. The customer charter can be found on our website at [www.energia.ie](https://www.energia.ie/) or by any of the means contained in Clause 20.1. If we fall in our commitments to you, you may be entitled to compensation.
 
 18.2 Our Code of Practice on Vulnerable Customers sets out our services for Priority Support Customers and special services customers and also contains details on how to join the industry register if you are a Priority Support Customer or a special services customer. If you wish to be treated as a special services customer, you must give us the necessary information that we require to compile this register and we agree that we will not disclose this information except to the Relevant System Operators who require the information to perform certain services for you and in accordance with these terms and conditions and the law.
 
