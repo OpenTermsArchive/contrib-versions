@@ -42,13 +42,10 @@
         * [Legal disclosure](#brazil-legal-disclosure)
         * [Storage and international transfer of your Personal Information](#brazil-storage-international-transfer-pii)
         * [Your rights as a Data Subject](#brazil-rights-as-data-subject)
-* [Summary of Recent Changes](#change-summary)
 
-Effective Date: December 2, 2024
+Effective Date: January 6, 2025
 
-[Summary of Recent Changes](#change-summary)
-
-You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/20961293738004).
+You can also find the full Privacy Policy [here](https://roblox1531333111.zendesk.com/hc/article_attachments/20961293738004).
 
 1. Welcome to the Roblox Privacy Policy
     
@@ -82,8 +79,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Write to us at:  
     Roblox Corporation  
     Attn: Roblox Privacy Manager  
-    Address: Roblox Corporation  
-    970 Park Place, Suite 100  
+    Address: 3150 S. Delaware St.  
     San Mateo, California, 94403  
     [privacy@roblox.com](mailto:privacy@roblox.com)
     
@@ -280,7 +276,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Creator Events (users 13 and older)
     
-    If you join a virtual event hosted by a Creator, data such as your username, email, and Roblox user ID may be shared with the company that hosts the events. This is done to allow you to log in to the experience. Your activity during a Creator Event is subject to the third party platform’s privacy policy as well as the Roblox Community Standards. Creator events are only available if you are 13 or older. 
+    If you join a virtual event hosted by a Creator, data such as your username, email, and Roblox user ID may be shared with the company that hosts the events. This is done to allow you to log in to the experience. Your activity during a Creator Event is subject to the third party platform’s privacy policy as well as the Roblox Community Standards. Creator events are only available if you are 13 or older.
     
     Interacting with our experiences
     
@@ -839,13 +835,5 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Please also note that these rights are not absolute and may not apply in certain circumstances. For example, we may continue to process and retain Personal Information regardless of your request to delete, object, block or anonymize it, to comply with legal, contractual and/or regulatory obligations, and to protect and exercise rights, including in judicial, administrative and arbitration proceedings, and as otherwise required by law. To exercise your rights or ask questions, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support). To appeal a decision about your privacy rights, please contact our Brazilian Data Protection Officer by emailing [privacy@roblox.com](mailto:privacy@roblox.com), or otherwise reaching out to us as described in Section 1.
     
 
-Summary of Recent Changes
-
-* We have added information about how we will enable authentication when accounts age down below age 13.
-* We have added information about data collection when purchasing Roblox for someone else.  
-    We have updated language pertaining to the information we collect and share for safety and security purposes.
-* We have added information about the data that is processed when users elect to receive personalized ads on Roblox.
-* We added information about data processing relating to Roblox Commerce.
-
-Effective Date: December 2, 2024  
-Last Updated: December 2, 2024
+Effective Date: January 6, 2025  
+Last Updated: January 6, 2025
