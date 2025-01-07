@@ -73,7 +73,7 @@ Throughout the examples below, names or parts of names in italics wouldn't be pe
 | Trademark/Registered signs | * Burger King_®_ | * Burger King |
 | Fully capitalised words | * SUBWAY | * Subway, KFC, IHOP, JCPenney |
 | Opening hours information | * Regal Pizzeria _Open 24 hours_<br>* Sears Outlet _(Closed)_ | * Regal Pizzeria<br>* Sears Outlet |
-| Phone numbers or website URLs | * Airport Direct _1-888-557-8953_<br>* _webuyanycar.com_ | * Airport Direct<br>* 1-800-Got-Junk |
+| Phone numbers or website URLs | * Airport Direct _1-888-557-8953_<br>* Google.com | * Airport Direct<br>* 1-800-Got-Junk<br>* Google |
 | Special characters (e.g. %$@/") or irrelevant legal terms | * Shell Pay_@Pump_<br>* Re/Max_, LLC_<br>* LAZ Parking _Ltd_ | * Shell<br>* Re/Max<br>* LAZ Parking<br>* Toys R Us<br>* H&M<br>* T.J.Maxx |
 | Service or product information | * Verizon Wireless _4G LTE_<br>* Midas _Auto Service Experts_ | * Verizon Wireless<br>* Midas<br>* Best Buy Mobile<br>* Advance Auto Parts<br>* JCPenney Portrait Studios |
 | Location information | * Holiday Inn _(I-93 at Exit 2)_<br>* U.S. Bank ATM _– 7th & Pike – Car Park Lobby near Life_<br>* Equinox _near SOHO_ | * Holiday Inn Salem<br>* U.S. Bank ATM<br>* Equinox SOHO<br>* University of California, Berkeley |
