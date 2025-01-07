@@ -190,6 +190,7 @@ Business
 * [### Google Pay Merchant](https://support.google.com/pay/merchants?hl=en-GB)
 * [### Global Market Finder](https://support.google.com/globalmarketfinder?hl=en-GB)
 * [### Google Meet](https://support.google.com/meet?hl=en-GB)
+* [### Ads Data Hub](https://support.google.com/ads-data-hub?hl=en-GB)
 * [### Google AdMob](https://support.google.com/admob?hl=en-GB)
 * [### Chrome Enterprise and Education](https://support.google.com/chrome/a?hl=en-GB)
 * [### Local Services](https://support.google.com/localservices?hl=en-GB)
