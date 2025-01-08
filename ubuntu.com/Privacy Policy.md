@@ -445,8 +445,8 @@ The open source software platform that runs everywhere from the smartphone, the 
 ---------------------------------------------------------------------------------------
 
 * [What are containers](https://ubuntu.com/containers/what-are-containers)
-* [Chiselled Ubuntu](https://ubuntu.com/containers/chiselled)
-* [Chiselled and .NET](https://ubuntu.com/containers/chiselled/dotnet)
+* [Chiseled Ubuntu](https://ubuntu.com/containers/chiseled)
+* [Chiseled and .NET](https://ubuntu.com/containers/chiseled/dotnet)
 
 * * *
 
