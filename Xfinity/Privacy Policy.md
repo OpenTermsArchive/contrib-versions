@@ -1,4 +1,4 @@
-Effective January 1, 2025 | [Download PDF (English)](https://assets.xfinity.com/assets/dotcom/projects_3/2024/dec/privacy-policy---info-collection/xfinityprivacypolicyjanuary2025.pdf) | [Download PDF (Spanish)](https://assets.xfinity.com/assets/dotcom/dam-183/Privacy%20Policy%20Spanish%20Version.pdf)
+Effective January 1, 2025 | [Download PDF (English)](https://assets.xfinity.com/assets/dotcom/projects_3/2024/dec/privacy-policy---info-collection/xfinityprivacypolicy_january2025.pdf) | [Download PDF (Spanish)](https://assets.xfinity.com/assets/dotcom/dam-183/Privacy%20Policy%20Spanish%20Version.pdf)
 
   
 
@@ -53,13 +53,13 @@ When the Privacy Policy applies
 
 This Privacy Policy applies to the information we collect when you use or interact with the [business entities, products, services, networks, and platforms](#/privacy/overlays/Xfinity-branded), including our websites, mobile apps, and other services and devices where this policy is referenced. These may include Xfinity-branded services, Comcast-branded Services, Xumo-branded Services, and other products and services we deliver. This Privacy Policy also applies when you otherwise interact with us. We'll refer to all of these as our "Services" in this Privacy Policy. It also applies to the information we collect about you from third parties. 
 
-This Privacy Policy does _**not**_ apply to the [other products, services, websites, and applications](#/privacy/overlays/Other-products) (mobile or television) that you may use or interact with through Xfinity platforms. It also does not apply where we process your personal information at the direction of business clients for whom we provide services where you have a relationship with those business clients. Instead, the privacy policies of those other parties will apply.
+This Privacy Policy does not apply to the [other products, services, websites, and applications](#/privacy/overlays/Other-products) (mobile or television) that you may use or interact with through Xfinity platforms. It also does not apply where we process your personal information at the direction of business clients for whom we provide services where you have a relationship with those business clients. Instead, the privacy policies of those other parties will apply.
 
 Because this Privacy Policy describes the privacy practices for all of our Services, some parts may not apply to you. For example, if you do not subscribe to Xfinity Voice (home phone service) or Xfinity Mobile, we will not collect call detail information. If you do not subscribe to Xfinity Home, we will not collect home security event information.
 
 Some Services may have additional privacy practices that may be described to you in different ways, such as in a separate contract for Comcast Business Services. To the extent there is an overlap between this Privacy Policy and a Service-specific privacy policy, the Service-specific policy or agreement will control with respect to that Service.
 
-This Policy does **_not_** apply to the non-Xfinity products, services, websites, and applications that you may use through the Xfinity platforms, and we are not responsible for the practices of the companies providing those offerings. For example, if you subscribe to Xfinity Internet and visit a news or shopping website, the privacy policy for that website will apply. If you use one of our platforms to use another company’s streaming service, the privacy policy for that streaming service will apply to information it collects about your activity within the app. Likewise, if you connect your smart thermostat to your Xfinity Home security and automation service, the privacy policy of the smart thermostat company will apply to the information it collects. For more information about how these non-Xfinity products, services, websites, and applications use your information, please review their privacy policies.
+This Policy does not apply to the non-Xfinity products, services, websites, and applications that you may use through the Xfinity platforms, and we are not responsible for the practices of the companies providing those offerings. For example, if you subscribe to Xfinity Internet and visit a news or shopping website, the privacy policy for that website will apply. If you use one of our platforms to use another company’s streaming service, the privacy policy for that streaming service will apply to information it collects about your activity within the app. Likewise, if you connect your smart thermostat to your Xfinity Home security and automation service, the privacy policy of the smart thermostat company will apply to the information it collects. For more information about how these non-Xfinity products, services, websites, and applications use your information, please review their privacy policies.
 
 The personal information we collect and how we collect it
 ---------------------------------------------------------
@@ -111,6 +111,7 @@ We collect personal information about you in several ways
 * Contact information, which may include your name, mailing address, email address, or telephone number
 * Login credentials for our Services, such as your username and password
 * Information regarding your preferences for your experience on the Services, such as your settings and other information you provide us to enable personalization of content
+* Biometric information, such as audio recordings for voiceprints and facial scans that we create in the identity verification process
 * Customer communications records, including records of calls and chats with our customer service representatives
 * Information that you provide when interacting with us on our social media pages, message boards, and other forums, including your username, profile pictures, and comments, as well as information you publicly share about us
 * [Photographs](#/privacy/overlays/Photographs) or images of your property
@@ -159,7 +160,7 @@ We may combine information across our systems, platforms, and databases. This in
 
 TO PROVIDE THE SERVICES
 
-* Setting up your account and account management
+* Set up your account and account management
 * Measure credit and payment risk
 * Service delivery
 * Bill and invoice
@@ -361,6 +362,8 @@ You have many choices about how we communicate with you and how we use or share 
 * your preferences regarding communications, offers, and notifications from us
 
 You can find out more about the choices you have and set your preferences. If you change your mind, you can return any time to update it. Some of the choices are limited to our use of certain customer information and may require you to sign in to your account.
+
+We understand that sometimes you may want to speak to a Comcast representative who can assist you with your choices. You can contact Comcast at 1-800-XFINITY and ask us to put your name on our internal company “do not call,” “do not mail,” or “do not knock” list.
 
 If you subscribe to Xfinity voice service, when you are interacting with one of our customer service representatives, such as on a call, in our offices, or during an online chat session, we may ask you for your oral consent to the use of your customer proprietary network information or “CPNI” for the purpose of reviewing your account and providing you with an offer for other products and services. If you provide consent, Comcast may use your CPNI only for the duration of that telephone call or discussion in order to offer you additional services. If you deny or restrict your approval for us to use your CPNI, you will suffer no effect, now or in the future, on how we provide any services to which you subscribe.
 
