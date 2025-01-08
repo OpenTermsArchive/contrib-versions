@@ -151,6 +151,7 @@ Recherche
             * [Performance des établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/performance-des-etablissements-de-sante/)
             * [Qualité dans les établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/qualite-dans-les-etablissements-de-sante/)
             * [Ressources humaines](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/ressources-humaines/)
+            * [La permanence des soins](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/la-permanence-des-soins-11447/)
             * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
@@ -403,6 +404,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -642,6 +644,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -924,6 +927,7 @@ Recherche
             * [Performance des établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/performance-des-etablissements-de-sante/)
             * [Qualité dans les établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/qualite-dans-les-etablissements-de-sante/)
             * [Ressources humaines](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/ressources-humaines/)
+            * [La permanence des soins](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/la-permanence-des-soins-11447/)
             * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
@@ -1176,6 +1180,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -1415,6 +1420,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -1671,6 +1677,7 @@ Recherche
             * [Performance des établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/performance-des-etablissements-de-sante/)
             * [Qualité dans les établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/qualite-dans-les-etablissements-de-sante/)
             * [Ressources humaines](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/ressources-humaines/)
+            * [La permanence des soins](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/la-permanence-des-soins-11447/)
             * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
@@ -1923,6 +1930,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -2162,6 +2170,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -2364,6 +2373,7 @@ Recherche
             * [Performance des établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/performance-des-etablissements-de-sante/)
             * [Qualité dans les établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/qualite-dans-les-etablissements-de-sante/)
             * [Ressources humaines](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/ressources-humaines/)
+            * [La permanence des soins](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/la-permanence-des-soins-11447/)
             * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
@@ -2616,6 +2626,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -2760,6 +2771,7 @@ Recherche
             * [Performance des établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/performance-des-etablissements-de-sante/)
             * [Qualité dans les établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/qualite-dans-les-etablissements-de-sante/)
             * [Ressources humaines](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/ressources-humaines/)
+            * [La permanence des soins](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/la-permanence-des-soins-11447/)
             * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
@@ -3012,6 +3024,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -3156,6 +3169,7 @@ Recherche
             * [Performance des établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/performance-des-etablissements-de-sante/)
             * [Qualité dans les établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/qualite-dans-les-etablissements-de-sante/)
             * [Ressources humaines](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/ressources-humaines/)
+            * [La permanence des soins](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/la-permanence-des-soins-11447/)
             * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
@@ -3408,6 +3422,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -3552,6 +3567,7 @@ Recherche
             * [Performance des établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/performance-des-etablissements-de-sante/)
             * [Qualité dans les établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/qualite-dans-les-etablissements-de-sante/)
             * [Ressources humaines](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/ressources-humaines/)
+            * [La permanence des soins](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/la-permanence-des-soins-11447/)
             * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
@@ -3804,6 +3820,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -3948,6 +3965,7 @@ Recherche
             * [Performance des établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/performance-des-etablissements-de-sante/)
             * [Qualité dans les établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/qualite-dans-les-etablissements-de-sante/)
             * [Ressources humaines](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/ressources-humaines/)
+            * [La permanence des soins](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/la-permanence-des-soins-11447/)
             * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
@@ -4200,6 +4218,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -4344,6 +4363,7 @@ Recherche
             * [Performance des établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/performance-des-etablissements-de-sante/)
             * [Qualité dans les établissements de santé](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/qualite-dans-les-etablissements-de-sante/)
             * [Ressources humaines](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/ressources-humaines/)
+            * [La permanence des soins](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/la-permanence-des-soins-11447/)
             * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
@@ -4596,6 +4616,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -4824,6 +4845,7 @@ Retour
 
 * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
 * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+* [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
 
  Rechercher :
 
@@ -5061,6 +5083,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -5296,6 +5319,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -5531,6 +5555,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -5766,6 +5791,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -6001,6 +6027,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -6236,6 +6263,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -6471,6 +6499,7 @@ Recherche
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
             * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+            * [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
             
     
 
@@ -6632,6 +6661,7 @@ Retour
 
 * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
 * [Systèmes d’information](https://sante.gouv.fr/systeme-de-sante/e-sante/sih/)
+* [Usages du numérique dans l’offre de soins](https://sante.gouv.fr/systeme-de-sante/e-sante/usages-du-numerique-dans-l-offre-de-soins/)
 
 * [Accueil](http://sante.gouv.fr/) >
 * [Soins et maladies](https://sante.gouv.fr/soins-et-maladies/) >
