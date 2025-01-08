@@ -125,6 +125,6 @@ If you would like to read more about cookies on our sites’ social networks, we
 * [Moderation Guidelines](https://ccm.net/apps-sites/internet-archeology/ccm/10125-moderation-guidelines/)
 * [CCM: User Guide](https://ccm.net/apps-sites/internet-archeology/ccm/10121-user-guide/)
 * [Advice for writing messages on CCM](https://ccm.net/apps-sites/internet-archeology/ccm/10137-advice-for-writing-messages-on-ccm/)
-* [How to browse CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10129-browsing-ccm/)
 * [CCM: Moderation of defamatory posts](https://ccm.net/apps-sites/internet-archeology/ccm/10197-ccm-moderation-of-defamatory-posts/)
+* [How to browse CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10129-browsing-ccm/)
 * [How to contribute to the development of CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10135-contributing-to-the-development-of-ccm-net/)
