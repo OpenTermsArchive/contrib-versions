@@ -2,11 +2,11 @@ Your Privacy Rights
 
 ----------------------
 
-UPDATED AS OF: September 11, 2024
+UPDATED AS OF: January 7, 2025  
 
-**Personal Information Sharing Practices for 2023**  
+**Personal Information Sharing Practices for 2024**  
 
-During 2023, Toyota shared Personal Information about our customers with specific other parties where the information was used for the recipient's own marketing purposes.
+During 2024, Toyota shared Personal Information about our customers with specific other parties where the information was used for the recipient's own marketing purposes.
 
 [**Learn more**](#PIN)
 
@@ -18,7 +18,7 @@ Your vehicle may be equipped with Connected Services that electronically transmi
 
 **Toyota Privacy Notice – Summary**
 
-This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on September 11, 2024.
+This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on January 7, 2025.
 
 **Information Collected**
 
@@ -47,7 +47,7 @@ This summary of the Toyota Privacy Notice applies to Personal Information (as d
 **Your Choices and Access**
 
 * You have the right to have a copy of the Personal Information you provide to Toyota.
-* You have the right to access, delete, correct or update your Personal Information, and other rights under data privacy laws.
+* You have the right to access, delete, correct or update your Personal Information,  opt-out of certain processing activities, and other rights under data privacy laws.
 * You may instruct Toyota to remove you from our programs you have subscribed to by using the unsubscribe link provided in our email programs or by contacting us.
 
 [**Learn more**](#_5)
@@ -70,9 +70,22 @@ To read our full Privacy Notice [click here.](#privacy)
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: September 11, 2024
+UPDATED AS OF: January 7, 2025  
 
-Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information. Personal Information is sometimes also referred to as personal data, personally identifiable information or other like terms that mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household. Please read below and learn how we collect, protect, share, and use your Personal Information including information we collect as part of our technology Platforms (including, without limitation, our Toyota-owned and branded websites, web pages, interactive features, applications, and mobile applications that link to this Privacy Notice ("Platforms"), offline, and from other parties.
+Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information. Personal Information is sometimes also referred to as personal data, personally identifiable information or other like terms that mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household. **Personal Information does not include the following if exempt under privacy laws**:
+
+* Publicly available information: information that is lawfully made available to the general public through government records, by you or from widely distributed media, or by a person to whom you have disclosed the information, unless you have restricted the information to a specific audience.
+* De-identified (which we commit to keep de-identified) or aggregated information.
+* Other regulated information that is excluded from the scope of United States privacy laws, such as:
+    
+    * Medical information governed by the California Confidentiality of Medical Information Act (CMIA);
+    * Protected health information collected by a covered entity or business associate governed by the Health Insurance Portability and Accountability Act of 1996 (HIPAA);
+    * Clinical trial data or other biomedical research data subject to the Federal Policy for the Protection of Human Subjects;
+    * Personal information covered by certain sector-specific privacy laws, including the Fair Credit Reporting Act (FCRA), the Gramm-Leach-Bliley Act (GLBA) or California Financial Information Privacy Act (FIPA), and the Driver's Privacy Protection Act of 1994.
+    
+    [](#_msocom_1)
+
+Please read below and learn how we collect, protect, share, and use your Personal Information including information we collect as part of our technology Platforms (including, without limitation, our Toyota-owned and branded websites, web pages, interactive features, applications, and mobile applications that link to this Privacy Notice ("Platforms"), offline, and from other parties.
 
 **United States Only**. This Privacy Notice describes our practices with respect to Personal Information collected regarding individuals in the United States. If you are located in another country, please review the applicable Toyota privacy notice for your country.
 
@@ -135,7 +148,7 @@ We use the information we collect about and from you for a variety of business p
 
 * Respond to your questions and requests such as requests for product information, new vehicle information alerts, and brochures, or to provide other customer support to you;
 * Advise you of important safety-related information;
-* Provide services to you, such as the Connected Services to which you have subscribed (e.g., roadside assistance, navigation and telematics services) or the Toyota App;
+* Provide services to you, such as the Connected Services (please note that the Toyota Connected Services Privacy Notice will apply at the juncture when data is collected from your vehicle) to which you have subscribed (e.g., roadside assistance, navigation and telematics services) or the Toyota App;
 * Provide and enhance vehicle services to you, such as service reminders and dealer support services;
 * Enable you to participate in promotional activities, or other programs;
 * Provide you with access to certain areas and features of the Platforms such as your interactions with other users;
@@ -296,7 +309,7 @@ Where permitted by state law, you may exercise your privacy rights through an au
 
 **How We Verify Your Request**
 
-Except for rights related to sharing for targeted advertising or sale (unless we need information to complete your request or find you in our systems), we cannot fulfill your request or provide you with your Personal Information if we cannot verify your identity or authority to make the request and confirm the Personal Information relates to you. Making a verifiable consumer request does not require you to create an account with us.
+Except for rights related to sharing for targeted advertising or sale or if a certain privacy law does not permit verification (unless we need information to complete your request or find you in our systems), we cannot fulfill your request or provide you with your Personal Information if we cannot verify your identity or authority to make the request and confirm the Personal Information relates to you. Making a verifiable consumer request does not require you to create an account with us. Please also note that, as mentioned above, we use your “sensitive" Personal Information with your consent or for certain permitted purposes. As such, we will not verify your identity if you contact us to request to limit the use and disclosure of your "sensitive" Personal Information because we use such data only for the limited purposes noted above. However, we may request your information to answer any questions you have related to "sensitive" Personal Information.
 
 To verify your identity, we will ask that you provide the following Personal Information when you submit your request:
 
@@ -336,7 +349,7 @@ You may only make a verifiable consumer request to know about or access your Per
 
 **13\. CONTACT US.**
 
-To contact us with a question call us at [800-331-4331](tel:800-331-4331) or mail your inquiry to:
+To contact us with a question call us at [800-331-4331](tel:800-331-4331), email us at [Office.of.Privacy@toyota.com](mailto:Office.of.Privacy@toyota.com),or mail your inquiry to:
 
 Toyota Motor Sales, U.S.A., Inc.  
 P.O. Box 259001  
