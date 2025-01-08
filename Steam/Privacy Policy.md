@@ -158,8 +158,8 @@ EU and Switzerland representative for data protection questions:
   
 Valve GmbH  
 Att. Legal  
-Rödingsmarkt 9  
-D-20459 Hamburg  
+Alstertwiete 3  
+D-20099 Hamburg  
 Germany  
   
 UK representative for data protection questions:  
