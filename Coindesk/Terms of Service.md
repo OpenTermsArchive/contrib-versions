@@ -103,92 +103,92 @@
 * [Indices](https://indices.coindesk.com/indices)
 * [Consensus](https://consensus.coindesk.com/)
 
-[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-3xxhjknwv-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75&dpl=dpl_EY98mg2CffmP7TFmnb8io9BMwWsv)](https://www.coindesk.com/)
+[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-clzqiistv-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75&dpl=dpl_8sUDf8q1fC1hKygj83X2Zug7BKAF)](https://www.coindesk.com/)
 
 * [Sponsored](https://www.coindesk.com/sponsored-content)
 * [Sign Up](https://www.coindesk.com/api/auth/login?returnTo=/terms)
 
 [BTC
 
-94,409.15
+92,856.99
 
-\-2.13%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
+\-1.52%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
 
-3,326.77
+3,261.08
 
-\-0.66%](https://www.coindesk.com/price/ethereum "View price details")[USDT
+\-0.77%](https://www.coindesk.com/price/ethereum "View price details")[USDT
 
-0.99953385
+0.99996085
 
-\-0.04%](https://www.coindesk.com/price/tether "View price details")[XRP
++0.01%](https://www.coindesk.com/price/tether "View price details")[XRP
 
-2.35
+2.31
 
-+2.19%](https://www.coindesk.com/price/xrp "View price details")[BNB
+\-0.07%](https://www.coindesk.com/price/xrp "View price details")[BNB
 
-698.48
+686.69
 
-+1.14%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
+\-0.63%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
 
-194.13
+188.30
 
-\-0.88%](https://www.coindesk.com/price/solana "View price details")[DOGE
+\-3.18%](https://www.coindesk.com/price/solana "View price details")[DOGE
 
-0.33884216
+0.32290438
 
-\-2.89%](https://www.coindesk.com/price/dogecoin "View price details")[USDC
+\-4.18%](https://www.coindesk.com/price/dogecoin "View price details")[USDC
 
-0.99999420
+1.00
 
 +0.01%](https://www.coindesk.com/price/usd-coin "View price details")[ADA
 
-0.93387767
+0.91782426
 
-\-5.42%](https://www.coindesk.com/price/cardano "View price details")[TRX
+\-2.20%](https://www.coindesk.com/price/cardano "View price details")[TRX
 
-0.24725665
+0.24225518
 
-\-1.55%](https://www.coindesk.com/price/tron "View price details")[AVAX
+\-2.69%](https://www.coindesk.com/price/tron "View price details")[AVAX
 
-37.00
+36.56
 
-\-3.85%](https://www.coindesk.com/price/avax "View price details")[SUI
+\-2.44%](https://www.coindesk.com/price/avax "View price details")[SUI
 
-4.79
+4.77
 
-+2.78%](https://www.coindesk.com/price/sui "View price details")[TON
++3.01%](https://www.coindesk.com/price/sui "View price details")[TON
 
-5.29
+5.20
 
-+1.93%](https://www.coindesk.com/price/toncoin "View price details")[LINK
+\-1.49%](https://www.coindesk.com/price/toncoin "View price details")[SHIB
 
-20.19
+0.0₄21515
 
-\-3.58%](https://www.coindesk.com/price/chainlink "View price details")[XLM
++0.96%](https://www.coindesk.com/price/shiba-inu "View price details")[LINK
 
-0.41421558
+19.84
 
-\-2.65%](https://www.coindesk.com/price/xlm "View price details")[SHIB
+\-2.87%](https://www.coindesk.com/price/chainlink "View price details")[WBTC
 
-0.0₄21280
+92,782.47
 
-\-1.62%](https://www.coindesk.com/price/shiba-inu "View price details")[WBTC
+\-1.26%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[XLM
 
-94,367.86
+0.40235457
 
-\-2.00%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[HBAR
+\-1.79%](https://www.coindesk.com/price/xlm "View price details")[HBAR
 
-0.27747952
+0.27178855
 
-\-2.10%](https://www.coindesk.com/price/hbar "View price details")[BCH
+\-2.79%](https://www.coindesk.com/price/hbar "View price details")[BCH
 
-431.73
+424.16
 
-\-0.74%](https://www.coindesk.com/price/bitcoin-cash "View price details")[LEO
+\-1.96%](https://www.coindesk.com/price/bitcoin-cash "View price details")[LEO
 
-9.06
+9.03
 
-+1.57%](https://www.coindesk.com/price/unus-sed-leo "View price details")
+\-0.16%](https://www.coindesk.com/price/unus-sed-leo "View price details")
 
 Terms Of Use
 ============
