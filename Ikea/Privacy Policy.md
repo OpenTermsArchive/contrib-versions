@@ -1,4 +1,4 @@
-[Order by phone](https://www.ikea.com/ie/en/customer-service/shopping-at-ikea/personalised-shopping-assistance-over-the-phone-pub93f14e60/?itm_content=Menu&itm_element=Prop&itm_campaign=Nav_Phone)
+[Free bedroom appointments, online and in store. Talk to us about your sleep and storage needs](https://www.ikea.com/ie/en/customer-service/services/planning-consultation/#8f122ac0-8280-11ec-8fb5-bbf24207f858)
 
 Privacy policy
 ==============
