@@ -238,6 +238,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open data Liège: [https://opendata.liege.be/explore/dataset/infos-travaux/information/?disjunctive.categories&calendarview=month&basemap=jawg.light&location=17,50.64929,5.59674](https://opendata.liege.be/explore/dataset/infos-travaux/information/?disjunctive.categories&calendarview=month&basemap=jawg.light&location=17,50.64929,5.59674)
             
+        * STIB Open Data license Brussels - [https://statbel.fgov.be/sites/default/files/files/opendata/Licence open data\_EN.pdf](https://statbel.fgov.be/sites/default/files/files/opendata/Licence%20open%20data_EN.pdf)
+            
     7. **Belgium**
         * GeoBolivia (BO): [https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859](https://geo.gob.bo/geonetwork/srv/eng/catalog.search#/metadata/cbead6cb-be77-4560-a10a-d1e37928d4fe269690859)
             
@@ -550,6 +552,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         130. Ville de Québec: [https://www.donneesquebec.ca/recherche/dataset/adresses-de-la-ville-de-quebec](https://www.donneesquebec.ca/recherche/dataset/adresses-de-la-ville-de-quebec)
             
         131. Halifax Regional Municipality: [https://data-hrm.hub.arcgis.com/pages/open-data-licence](https://data-hrm.hub.arcgis.com/pages/open-data-licence)
+            
+        132. Trois-Rivières QC: [https://www.donneesquebec.ca/licence/#cc-by](https://www.donneesquebec.ca/licence/#cc-by)
             
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
@@ -1474,9 +1478,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和6年 10 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和6年 11 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和6年 10 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和6年 11 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         * ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
@@ -2063,7 +2067,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Highway Bureau Taiwan: [https://www.thb.gov.tw/cp.aspx?n=266](https://www.thb.gov.tw/cp.aspx?n=266)
             
-        * Data Gov TW: [https://data.gov.tw/dataset/157705](https://data.gov.tw/dataset/157705)
+        * Data Gov TW: [https://data.gov.tw/licenses](https://data.gov.tw/licenses)
             
         * Kaohsiung City Government Open Data: [https://data.kcg.gov.tw/dataset/113-kh-address](https://data.kcg.gov.tw/dataset/113-kh-address)
             
@@ -2719,7 +2723,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * VSIA "Latvijas Vides, Ģeoloģijas un Meteoroloģijas Centrs"
             
     85. **Slovenia**
-        * Javni Geodetski Podatki - Public Geodetic Data Slovenia - [https://creativecommons.org/licenses/by/4.0/deed.sl](https://creativecommons.org/licenses/by/4.0/deed.sl)
+        * Javni Geodetski Podatki - Public Geodetic Data Slovenia - [https://www.e-prostor.gov.si/fileadmin/struktura/Preberi\_me.docx](https://www.e-prostor.gov.si/fileadmin/struktura/Preberi_me.docx)
             
         * Republika Slovenija - [https://ipi.eprostor.gov.si/jgp/data](https://ipi.eprostor.gov.si/jgp/data)
             
