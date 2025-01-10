@@ -730,6 +730,64 @@ Supplementary Provisions
 
 * These individual terms will come into effect on April 25, 2024.
 
+The Company’s Policy on Responding to Economic Sanctions, Domestic and Foreign Laws and Regulations etc., and Treaties
+======================================================================================================================
+
+In order to comply with economic sanctions imposed by Japan and other countries, domestic and foreign laws and regulations, and treaties, pixiv Inc. (the “Company”) has put the restrictions set forth below (“Restrictions”) on some transactions, arising from the use of the Services (defined below), that involve transfer of funds between Users or between a User and the Company and on the use of some Services with respect to such transactions. Users are asked to accept that there are these Restrictions imposed by the Company, prior to using the services provided by the Company (“Services”).
+
+These restrictions are subject to revision by the Company, as it sees fit, in accordance with or as required by any social or environmental changes or any amendments to laws, regulations, or rules.
+
+Article 1. Definitions
+----------------------
+
+1. Terms used in the Restrictions have the respective meanings ascribed to them below.
+    1. “User” means a person who uses the Services.
+    2. “Obligation Payment Means” means payment means provided by the Company for a User and the Company for paying money to a counterparty or third party for the purpose of performing an obligation arising in the course of the Services.
+    3. “Service with Remittance” means a service that falls under one of the following:
+        1. A service within the Services in which transactions involving the transfer of funds between Users take place, and where the Company, acting on behalf of a User with a payment claim, receives the transaction payment and remits such payment to that User; or
+        2. A service where the Company makes payment to a User.
+    4. “Deposit” means money that the Company receives on behalf of a User in the course of a Service with Remittance.
+    5. “Payment Funds” means money the Company pays to a User in a Service with Remittance.
+    6. “Subject Country” means a country or region subject to restrictions on transactions restricted under laws and regulations etc. of the Japanese or foreign governments etc. Users are asked to confirm the details of transaction restrictions stipulated by the Japanese government on the websites of the Ministry of Finance and the Ministry of Economy, Trade and Industry.
+    7. “Settlement Restricted User” means a person who falls under one or both of the following:
+        1. A User who accesses the Services from a Subject Country; or
+        2. A User who uses a credit card etc. issued in a Subject Country for the Services.
+    8. “Remittance Restricted User” means a person who falls under one or both of the following:
+        1. A User who resides in a Subject Country; or
+        2. A User who designates an account with a financial institution in a Subject Country as the account for receiving a Deposit or Payment Funds.
+    9. The Users of the preceding two items are referred to collectively as “Subject User”.
+    10. “Sanctioned Person” means an individual or group whose transactions are restricted under laws and regulations etc. of the Japanese government or a foreign government etc.
+
+Article 2. Restrictions on Settlement Restricted Users
+------------------------------------------------------
+
+1. The Company will not permit a Settlement Restricted User to use Obligation Payment Means, and the Company may choose not to accept a request by a Settlement Restricted User to use Obligation Payment Means.
+2. If a Settlement Restricted User uses or attempts to use any Obligation Payment Means in violation of the preceding paragraph, the Company may choose not to provide any Obligation Payment Means to such Settlement Restricted User.
+
+Article 3. Restrictions on Remittance Restricted Users
+------------------------------------------------------
+
+1. A Remittance Restricted User must not use any Service with Remittance.
+2. In the case where a Remittance Restricted User uses a Service with Remittance in violation of the preceding paragraph, if there is any Deposit or Payment Funds balance of such Remittance Restricted User, the Remittance Restricted User shall pay the amount of such Deposit or Payment Funds to the Company as a penalty.
+3. The Company will be entitled to set off the penalty of the preceding paragraph against any Deposit or Payment Funds regardless of whether the payment date has arrived and regardless of payment date order.
+
+Article 4. Measures against Sanctioned Persons
+----------------------------------------------
+
+1. The Company may apply provisions relating to anti-social forces etc. specified in the Services Terms of Use against a Sanctioned Person and may take the following measures.
+
+1. If a Sanctioned Person directly or through a third party requests creation of an account for the Services: Refuse such request.
+2. If a Sanctioned Person directly or through a third party creates an account for the Services and uses the Service as a User: Take the following measures:
+
+1. Delete the account created by the Sanctioned Person;
+2. Withhold Obligation Payment Means from the Sanctioned Person; or
+3. Confiscate any Deposit or Payment Funds that may arise.
+
+Supplementary Provisions
+------------------------
+
+* The Restrictions will be enforced from January 10, 2025.
+
 Individual Terms of Use
 =======================
 
