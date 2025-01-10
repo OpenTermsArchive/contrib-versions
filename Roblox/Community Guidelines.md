@@ -162,7 +162,7 @@ Illegal and Regulated Goods and Activities
 
 We do not allow users to discuss or engage in real world illegal activities or encourage others to do so on or off Roblox. We also prohibit the discussion, depiction, or promotion of some illegal and regulated goods or activities. This includes:
 
-* Controlled substances such pharmaceutical and recreational drugs, as well as alcohol, tobacco, vaping, and their associated paraphernalia
+* Controlled substances such as pharmaceutical products and recreational drugs, as well as alcohol, tobacco, vaping, and their associated paraphernalia
 * Dietary supplements and enhancers such as weight loss pills and steroids
 * Depictions of intoxicated behavior associated with consuming alcohol or drugs
 * Purveyors of illegal and regulated substances
