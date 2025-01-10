@@ -30,9 +30,6 @@
 
 Get the Kraken app
 
-* [Log in](https://www.kraken.com/sign-in)
-* [Sign up](https://www.kraken.com/sign-up)
-
 Don't invest unless you're prepared to lose all the money you invest. This is a high-risk investment and you should not expect to be protected if something goes wrong. [Take 2 minutes to learn more](https://www.kraken.com/legal/uk/disclaimer).
 
 [](https://www.kraken.com/)
@@ -41,23 +38,23 @@ Don't invest unless you're prepared to lose all the money you invest. This is a 
     
     ##### Products
     
-    [![Kraken](https://assets-cms.kraken.com/images/51n36hrp/facade/a925939f448a3a410f4f32334165623ad4cccba1-512x512.svg)
+    [![Kraken](https://assets-cms.kraken.com/images/51n36hrp/facade/dbe5b566b9b680d37a93a41979bcea29b7a0b291-36x36.svg)
     
     Kraken
     
-    Simple trading](https://www.kraken.com/sign-up)[![Kraken Pro](https://assets-cms.kraken.com/images/51n36hrp/facade/dc9d1cc3d444419e1a7aa746153c57490f2858d3-512x512.svg)
+    Simple trading](https://www.kraken.com/sign-up)[![Kraken Pro](https://assets-cms.kraken.com/images/51n36hrp/facade/2b8081b62b94d3f1aaf70534767d80c2fef84a67-36x36.svg)
     
     Kraken Pro
     
-    Advanced traders](https://pro.kraken.com/app/trade/btc-usd)[![Kraken Desktop](https://assets-cms.kraken.com/images/51n36hrp/facade/957158d6674aae4809ebb569d32c31308566378b-512x512.svg)
+    Advanced traders](https://pro.kraken.com/app/trade/btc-usd)[![Kraken Desktop](https://assets-cms.kraken.com/images/51n36hrp/facade/726aa0619dcb9aaec1e142a175519424aaf847de-36x36.svg)
     
     Kraken Desktop
     
-    Multi-screen pro trading](https://www.kraken.com/desktop)[![Kraken Wallet](https://assets-cms.kraken.com/images/51n36hrp/facade/475b8798c392708faa303eab78e616eb868f7730-512x512.svg)
+    Multi-screen pro trading](https://www.kraken.com/desktop)[![Kraken Wallet](https://assets-cms.kraken.com/images/51n36hrp/facade/151178675bb8c5b065988aeac599c772896424c6-36x36.svg)
     
     Kraken Wallet
     
-    Your passport onchain](https://www.kraken.com/wallet)[![Kraken Institutions](https://assets-cms.kraken.com/images/51n36hrp/facade/0950a607d68c567931b764149e90662c7914cbe0-512x512.svg)
+    Your passport onchain](https://www.kraken.com/wallet)[![Kraken Institutions](https://assets-cms.kraken.com/images/51n36hrp/facade/0a38e07f1d558ffb9d78d0b85b0f6181fd10a6a8-36x36.svg)
     
     Kraken Institutions
     
@@ -111,25 +108,9 @@ Don't invest unless you're prepared to lose all the money you invest. This is a 
 
 Get the Kraken app
 
-* [Log in](https://www.kraken.com/sign-in)
-* [Sign up](https://www.kraken.com/sign-up)
-
-* [Log in](https://www.kraken.com/sign-in)
-* [Sign up](https://www.kraken.com/sign-up)
-
-* [Sign up](https://www.kraken.com/sign-up)
-
 [](https://www.kraken.com/)
 
 Get the Kraken app
-
-* [Log in](https://www.kraken.com/sign-in)
-* [Sign up](https://www.kraken.com/sign-up)
-
-* [Log in](https://www.kraken.com/sign-in)
-* [Sign up](https://www.kraken.com/sign-up)
-
-* [Sign up](https://www.kraken.com/sign-up)
 
 * [Explore](#)
     
@@ -148,23 +129,23 @@ Buy crypto in minutes
 
 ##### Products
 
-[![Kraken](https://assets-cms.kraken.com/images/51n36hrp/facade/a925939f448a3a410f4f32334165623ad4cccba1-512x512.svg)
+[![Kraken](https://assets-cms.kraken.com/images/51n36hrp/facade/dbe5b566b9b680d37a93a41979bcea29b7a0b291-36x36.svg)
 
 Kraken
 
-Simple trading](https://www.kraken.com/sign-up)[![Kraken Pro](https://assets-cms.kraken.com/images/51n36hrp/facade/dc9d1cc3d444419e1a7aa746153c57490f2858d3-512x512.svg)
+Simple trading](https://www.kraken.com/sign-up)[![Kraken Pro](https://assets-cms.kraken.com/images/51n36hrp/facade/2b8081b62b94d3f1aaf70534767d80c2fef84a67-36x36.svg)
 
 Kraken Pro
 
-Advanced traders](https://pro.kraken.com/app/trade/btc-usd)[![Kraken Desktop](https://assets-cms.kraken.com/images/51n36hrp/facade/957158d6674aae4809ebb569d32c31308566378b-512x512.svg)
+Advanced traders](https://pro.kraken.com/app/trade/btc-usd)[![Kraken Desktop](https://assets-cms.kraken.com/images/51n36hrp/facade/726aa0619dcb9aaec1e142a175519424aaf847de-36x36.svg)
 
 Kraken Desktop
 
-Multi-screen pro trading](https://www.kraken.com/desktop)[![Kraken Wallet](https://assets-cms.kraken.com/images/51n36hrp/facade/475b8798c392708faa303eab78e616eb868f7730-512x512.svg)
+Multi-screen pro trading](https://www.kraken.com/desktop)[![Kraken Wallet](https://assets-cms.kraken.com/images/51n36hrp/facade/151178675bb8c5b065988aeac599c772896424c6-36x36.svg)
 
 Kraken Wallet
 
-Your passport onchain](https://www.kraken.com/wallet)[![Kraken Institutions](https://assets-cms.kraken.com/images/51n36hrp/facade/0950a607d68c567931b764149e90662c7914cbe0-512x512.svg)
+Your passport onchain](https://www.kraken.com/wallet)[![Kraken Institutions](https://assets-cms.kraken.com/images/51n36hrp/facade/0a38e07f1d558ffb9d78d0b85b0f6181fd10a6a8-36x36.svg)
 
 Kraken Institutions
 
@@ -209,9 +190,6 @@ Our commitment to transparency](https://www.kraken.com/proof-of-reserves)[![Flex
 Flexible funding options
 
 Cash, cards, crypto and more](https://www.kraken.com/features/funding-options)
-
-* [Log in](https://www.kraken.com/sign-in)
-* [Sign up](https://www.kraken.com/sign-up)
 
 English
 
