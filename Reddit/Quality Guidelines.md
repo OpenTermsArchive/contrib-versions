@@ -38,7 +38,7 @@ Ensure people have predictable experiences on Reddit by properly labeling conten
 
 ##### Rule 7
 
-Keep it legal, and avoid posting illegal content or soliciting or facilitating [illegal or prohibited transactions](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/reddits-policy-against-transactions).
+Keep it legal, and avoid posting illegal content or soliciting or facilitating [illegal or prohibited transactions](https://www.reddithelp.com/en/categories/rules-reporting/account-and-community-restrictions/reddits-policy-against-transactions).
 
 ##### Rule 8
 
