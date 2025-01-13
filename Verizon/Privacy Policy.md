@@ -4,7 +4,7 @@ full Verizon Privacy Policy.
 
 Our Privacy Policy describes the information we collect, how it is used and disclosed, your choices about uses and disclosure and your rights under certain privacy laws.  
 [View recent changes](https://www.verizon.com/about/privacy/changes-privacy-policy)  
-[Print this policy](https://www.verizon.com/about/privacy/)
+[Print this policy](http://www.verizon.com/about/privacy/)
 
 Open all
 
@@ -229,7 +229,7 @@ Open all
     
     We, and third party companies acting on our behalf, collect information from our sites and apps for operational purposes such as improving website and app security, authenticating you, detecting and deterring fraud, improving site performance and providing content or analytics.
     
-    We and these third-party companies may use [cookies, pixels, web beacons, tags, scripts, or similar technologies](https://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use and may access advertising or other identifiers from your mobile device operating systems. 
+    We and these third-party companies may use [cookies, pixels, web beacons, tags, scripts, or similar technologies](http://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use and may access advertising or other identifiers from your mobile device operating systems. 
     
     ### We also use de-identified and aggregated information.
     
@@ -260,7 +260,7 @@ Open all
     
     **Service Providers.** We use service providers to help us offer, provide, repair, restore and bill for services. We disclose information to them as necessary for them to perform work for us. They are required to protect information they receive from us or collect on our behalf and use it only for the purposes we allow.
     
-    We may disclose to or we may allow our service providers to collect personal information, including your activity on our sites and in our apps. These companies may use technologies, such as [cookies, pixels, web beacons, tags, scripts, or similar technologies](https://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use or we may disclose information using application programming interfaces (APIs). These service providers help us improve website and app security, authenticate you, detect and deter fraud, improve site performance, provide content or analytics, conduct advertising and marketing activity and other purposes as described in the “How does Verizon use information” section.
+    We may disclose to or we may allow our service providers to collect personal information, including your activity on our sites and in our apps. These companies may use technologies, such as [cookies, pixels, web beacons, tags, scripts, or similar technologies](http://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use or we may disclose information using application programming interfaces (APIs). These service providers help us improve website and app security, authenticate you, detect and deter fraud, improve site performance, provide content or analytics, conduct advertising and marketing activity and other purposes as described in the “How does Verizon use information” section.
     
     **Partners.** When you purchase or use services that are offered by Verizon and one of our partners, both parties may collect information about you. When this is the case, you should also review the partner company's privacy policy because it may describe uses of information that are different from ours.
     
@@ -274,7 +274,7 @@ Open all
     
     ### We disclose information to advertising companies.
     
-    We may disclose, or allow certain [third-party advertising companies](#) to collect, information about your activity on our sites and in our apps. These companies may use your email address, or other information they collect to create one or more identifiers associated with you or your device(s) both on and off our sites and in our apps. They can use that information to help us provide more relevant Verizon advertising on our own and third-party sites and apps. These companies may combine this information with information they collect elsewhere to determine whether you or someone with similar interests may fit into an audience that advertisers, including Verizon, are trying to reach, to serve targeted advertising to you on our sites and other sites and platforms, or to find other potential customers. To do this, we and these companies use a variety of tracking, validation and other technologies, such as [cookies, pixels, web beacons, tags, scripts, or similar technologies](https://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use, or we may disclose information using application programming interfaces (APIs).
+    We may disclose, or allow certain [third-party advertising companies](#) to collect, information about your activity on our sites and in our apps. These companies may use your email address, or other information they collect to create one or more identifiers associated with you or your device(s) both on and off our sites and in our apps. They can use that information to help us provide more relevant Verizon advertising on our own and third-party sites and apps. These companies may combine this information with information they collect elsewhere to determine whether you or someone with similar interests may fit into an audience that advertisers, including Verizon, are trying to reach, to serve targeted advertising to you on our sites and other sites and platforms, or to find other potential customers. To do this, we and these companies use a variety of tracking, validation and other technologies, such as [cookies, pixels, web beacons, tags, scripts, or similar technologies](http://www.verizon.com/about/privacy/cookies) on our pages and the browsers you use, or we may disclose information using application programming interfaces (APIs).
     
     third-party advertising companies
     
@@ -454,7 +454,7 @@ Open all
     ### You have choices about whether certain information may be used within Verizon for specific marketing purposes.
     
     **Credit information**   
-    Wireline customers can limit the disclosure of credit information within Verizon for the marketing of new products and services. Check the instructions in the [notice](https://www.verizon.com/about/privacy/customer-proprietary-network-information) on your monthly bill, or call 1-844-366-2879 to opt out.
+    Wireline customers can limit the disclosure of credit information within Verizon for the marketing of new products and services. Check the instructions in the [notice](http://www.verizon.com/about/privacy/customer-proprietary-network-information) on your monthly bill, or call 1-844-366-2879 to opt out.
     
     **Customer Proprietary Network Information (CPNI)**  
     You can limit the [sharing of CPNI](#) within Verizon for marketing services to you that are different from the ones you have. 
@@ -925,7 +925,7 @@ Open all
     
     ### Changes to the privacy policy
     
-    We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](https://www.verizon.com/about/privacy/changes-privacy-policy) . If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
+    We may make changes to this privacy policy, so please check back periodically. You will be able to see that we made changes by checking the effective date below. You can also read about [recent changes](http://www.verizon.com/about/privacy/changes-privacy-policy) . If we decide to use or disclose information that identifies you personally in a way that is materially different from what we stated in our privacy policy at the time we collected that information from you, we will give you a choice about the new use or disclosure by appropriate means, which may include an opportunity to opt-out.
     
     Updated December, 2024
     
