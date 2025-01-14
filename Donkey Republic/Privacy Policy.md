@@ -194,6 +194,7 @@ We never sell or profit directly from any of your personal data.
 | [AppFollow](https://www.google.com/url?q=https://appfollow.io/&sa=D&source=editors&ust=1707143082254602&usg=AOvVaw11FJAB_NVYJfwrsbbwzdx8) | Name | Google Play Store and Apple App Store review aggregator | N/A, since no data is transferred outside of the EU | EU  |
 | [Braintree](https://www.google.com/url?q=http://braintreepayments.com&sa=D&source=editors&ust=1707143082256301&usg=AOvVaw09x7Ada4QVTChbjfknRcj6) | Name, email address, Payment card, IP Address | Payment provider for PayPal | BCR, SCCs | Different locations where PayPal operates\* |
 | [Branch](https://www.google.com/url?q=https://www.branch.io/&sa=D&source=editors&ust=1707143082257858&usg=AOvVaw1XLg0kUB7m-7Gc3HZRqZb8) | User name, email address address | Deeplinks for apps | SCCs, DPF | US  |
+| [Braze](https://www.braze.com/) | Name, email address, Phone number, User, Advertising ID, IP address | Marketing automation, operational information, push notifications | DPF, SCCs | EU, US, different locations where Braze operates\*\*\*\*\* |
 | [Brevo](https://www.google.com/url?q=https://www.brevo.com/&sa=D&source=editors&ust=1707143082259644&usg=AOvVaw2ULLSIvhR0W9hRCd27Kug2) | Name, email address, phone number.<br><br>Rental data, member status, app language, user id | Transactional, support and marketing email addresss | N/A, since no data is transferred outside of the EU | France, Belgium |
 | [CleverTap](https://www.google.com/url?q=https://clevertap.com/&sa=D&source=editors&ust=1707143082261744&usg=AOvVaw1XyT46BDZyLXTaIdqIFApF) | Name, email address, Phone number, User, Advertising ID, IP address | Marketing automation, operational information, push notifications | DPF | EU  |
 | [Datadog](https://www.google.com/url?q=https://www.datadoghq.com/&sa=D&source=editors&ust=1707143082263646&usg=AOvVaw2ZvqfwNx-HnnN6p_lioRN4) | Name, email address, Phone number, Location, IP Address | Server logging used for performance and security monitoring | N/A, since no data is transferred outside of the EU | Germany |
@@ -225,6 +226,8 @@ BCR = Binding Corporate Rules ([Binding Corporate Rules (BCR) – European Commi
 \*\*\* See Meta’s DPA and transfer policies [here](https://www.google.com/url?q=https://www.facebook.com/privacy/policy&sa=D&source=editors&ust=1707143082289914&usg=AOvVaw10CJ9bJwlMjLe1UGnoGZKT)
 
 \*\*\*\* See Amplitude’s DPA and transfer policies [here](https://www.amplitude.com/dpa?utm_campaign=fy23q3-global-subprocessor-notification&utm_source=marketo&utm_medium=email&utm_content=invite&mkt_tok=MTM4LUNETi01NTAAAAGNEwGuLUto_36aGDyVkjvHPNGKDvNh6Up3AUE3NoZTcLIHIeTlrnvzh2-w5-iykdXN0L33FYVaRU-IAwNB6g7dFMKbQzX8G0seoLg60XyhQc83HQ)
+
+\*\*\*\*\* See Braze’s DPA and transfer policies [here](https://www.braze.com/company/legal/dpa#DPAEnglish)
 
 In certain cases, we may transfer your data to countries without an adequate level of data protection based on an exception, such as if you consent to the transfer, in case of legal proceedings abroad, or if the transfer is necessary for the performance of a contract.
 
