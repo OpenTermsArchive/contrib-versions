@@ -123,7 +123,7 @@ Other languages:
 * [ᱥᱟᱱᱛᱟᱲᱤ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sat "Policy:Privacy policy/sat (13% translated)")
 * [中文](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/zh "Policy:Privacy policy/zh (100% translated)")
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ja "Policy:Privacy policy/ja (100% translated)")
-* [粵語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yue "Policy:Privacy policy/yue (23% translated)")
+* [粵語](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yue "Policy:Privacy policy/yue (24% translated)")
 * [閩南語 / Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/nan "Policy:Privacy policy/nan (0% translated)")
 * [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/syl "Policy:Privacy policy/syl (11% translated)")
 * [ꯃꯤꯇꯩ ꯂꯣꯟ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/mni "Policy:Privacy policy/mni (4% translated)")
