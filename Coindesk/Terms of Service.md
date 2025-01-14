@@ -103,92 +103,92 @@
 * [Indices](https://indices.coindesk.com/indices)
 * [Consensus](https://consensus.coindesk.com/)
 
-[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-1krzbzdd9-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75&dpl=dpl_BU7deb1UgTdpwWi5bVuF4y5JxG1w)](https://www.coindesk.com/)
+[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-370iju2tb-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75&dpl=dpl_4pNNn1hbYtbBKJCzqagnfktiDpSk)](https://www.coindesk.com/)
 
 * [Sponsored](https://www.coindesk.com/sponsored-content)
 * [Sign Up](https://www.coindesk.com/api/auth/login?returnTo=/terms)
 
 [BTC
 
-94,891.40
+96,498.43
 
-+0.82%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
++4.86%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
 
-3,160.84
+3,213.21
 
-\-1.98%](https://www.coindesk.com/price/ethereum "View price details")[XRP
++6.25%](https://www.coindesk.com/price/ethereum "View price details")[XRP
 
-2.53
+2.66
 
-+0.70%](https://www.coindesk.com/price/xrp "View price details")[USDT
++8.14%](https://www.coindesk.com/price/xrp "View price details")[USDT
 
-0.99975363
+0.99955432
 
-+0.03%](https://www.coindesk.com/price/tether "View price details")[BNB
+\-0.02%](https://www.coindesk.com/price/tether "View price details")[BNB
 
-687.78
+697.43
 
-+0.83%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
++4.01%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
 
-185.56
+186.82
 
-+0.56%](https://www.coindesk.com/price/solana "View price details")[DOGE
++5.70%](https://www.coindesk.com/price/solana "View price details")[DOGE
 
-0.34246282
+0.35670522
 
-+3.81%](https://www.coindesk.com/price/dogecoin "View price details")[USDC
++10.76%](https://www.coindesk.com/price/dogecoin "View price details")[USDC
 
 1.00
 
-+0.01%](https://www.coindesk.com/price/usd-coin "View price details")[ADA
+\-0.02%](https://www.coindesk.com/price/usd-coin "View price details")[ADA
 
-0.94674497
+0.99491237
 
-+0.31%](https://www.coindesk.com/price/cardano "View price details")[TRX
++8.31%](https://www.coindesk.com/price/cardano "View price details")[TRX
 
-0.22357217
+0.22309325
 
-\-2.09%](https://www.coindesk.com/price/tron "View price details")[AVAX
++1.78%](https://www.coindesk.com/price/tron "View price details")[AVAX
 
-35.36
+36.47
 
-+0.32%](https://www.coindesk.com/price/avax "View price details")[SUI
++8.21%](https://www.coindesk.com/price/avax "View price details")[SUI
 
 4.59
 
-+0.84%](https://www.coindesk.com/price/sui "View price details")[TON
++2.03%](https://www.coindesk.com/price/sui "View price details")[TON
 
-5.22
+5.37
 
-+1.21%](https://www.coindesk.com/price/toncoin "View price details")[XLM
++3.76%](https://www.coindesk.com/price/toncoin "View price details")[XLM
 
-0.41929258
+0.43447084
 
-\-0.46%](https://www.coindesk.com/price/xlm "View price details")[SHIB
++4.49%](https://www.coindesk.com/price/xlm "View price details")[LINK
 
-0.0₄21287
+20.30
 
-+0.74%](https://www.coindesk.com/price/shiba-inu "View price details")[WBTC
++9.30%](https://www.coindesk.com/price/chainlink "View price details")[SHIB
 
-94,693.13
+0.0₄21619
 
-+0.88%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
++6.63%](https://www.coindesk.com/price/shiba-inu "View price details")[WBTC
 
-19.48
+96,129.31
 
-+0.51%](https://www.coindesk.com/price/chainlink "View price details")[HBAR
++5.06%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[HBAR
 
-0.27738450
+0.29022321
 
-+1.79%](https://www.coindesk.com/price/hbar "View price details")[LEO
++8.20%](https://www.coindesk.com/price/hbar "View price details")[BCH
+
+437.58
+
++6.23%](https://www.coindesk.com/price/bitcoin-cash "View price details")[LEO
 
 9.24
 
-+0.42%](https://www.coindesk.com/price/unus-sed-leo "View price details")[BCH
-
-430.56
-
-\-1.16%](https://www.coindesk.com/price/bitcoin-cash "View price details")
+\-0.54%](https://www.coindesk.com/price/unus-sed-leo "View price details")
 
 Terms Of Use
 ============
