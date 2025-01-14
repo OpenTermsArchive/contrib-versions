@@ -73,9 +73,9 @@ When Your Content is created with or submitted to the Services, you grant us a w
   
 Any ideas, suggestions, and feedback about Reddit or our Services that you provide to us are entirely voluntary, and you agree that Reddit may use such ideas, suggestions, and feedback without compensation or obligation to you.  
   
-Although we have no obligation to screen, edit, or monitor Your Content, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content, at any time and for any reason, including for violating these Terms, our [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en), or our [other terms and policies](https://www.redditinc.com/policies?hsLang=en), or if you otherwise create or are likely to create liability for us.  
+Although we have no obligation to screen, edit, or monitor Your Content, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content, at any time and for any reason, including for violating these Terms, our [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), or our [other terms and policies](https://www.redditinc.com/policies?hsLang=en), or if you otherwise create or are likely to create liability for us.  
   
-For more information about Reddit’s approach to content moderation, including how we enforce our [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en) and how to appeal content moderation decisions, please visit our [Help Center.](https://support.reddithelp.com/hc/articles/23511059871252)
+For more information about Reddit’s approach to content moderation, including how we enforce our [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en)[](https://www.redditinc.com/policies/content-policy?hsLang=en) and how to appeal content moderation decisions, please visit our [Help Center.](https://support.reddithelp.com/hc/articles/23511059871252)
 
 ##### 6\. Third-Party Content, Advertisements, and Promotions
 
@@ -87,7 +87,7 @@ If you choose to use the Services to conduct a promotion, including a contest or
 
 ##### 7\. Things You Cannot Do
 
-When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en), which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en), you may not do any of the following:
+When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), you may not do any of the following:
 
 * Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;
     
@@ -102,7 +102,7 @@ When using or accessing the Services, you must comply with these Terms and all a
 * Use the Services in any manner that we reasonably believe to be an abuse of or fraud on Reddit or any payment system.
     
 
-We encourage you to [report](https://reddit.zendesk.com/hc/en-us/requests/new) content or conduct that you believe violates these Terms or our [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en). We also support the responsible reporting of security vulnerabilities. To report a security issue, please email [security@reddit.com](mailto:security@reddit.com).
+We encourage you to [report](https://reddit.zendesk.com/hc/en-us/requests/new) content or conduct that you believe violates these Terms or our [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en)[](https://www.redditinc.com/policies/content-policy?hsLang=en). We also support the responsible reporting of security vulnerabilities. To report a security issue, please email [security@reddit.com](mailto:security@reddit.com).
 
 ##### 8\. Moderators
 
@@ -122,7 +122,7 @@ If you choose to moderate a subreddit:
     
 * If you have access to non-public information as a result of moderating a subreddit, you will use such information only in connection with your performance as a moderator; and
     
-* You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en), or the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct?hsLang=en).
+* You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), or the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct?hsLang=en).
     
 
 Reddit reserves the right, but has no obligation, to overturn any action or decision of a moderator if Reddit, in its sole discretion, believes that such action or decision is not in the interest of Reddit or the Reddit community.
@@ -191,7 +191,7 @@ Because we offer a variety of Services, you may be asked to agree to additional 
 
 You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing use of all Services. If you stop using the Services without deactivating your Account, your Account may be deactivated due to prolonged inactivity.  
   
-To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en).  
+To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en).  
   
 The following sections will survive any termination of these Terms or of your Account: 5 (Your Content), 7 (Things You Cannot Do), 12 (Indemnity), 13 (Disclaimers and Limitation of Liability), 14 (Governing Law and Venue), 17 (Termination), and 18 (Miscellaneous).
 
@@ -274,9 +274,9 @@ When Your Content is created with or submitted to the Services, you grant us a w
   
 Any ideas, suggestions, and feedback about Reddit or our Services that you provide to us are entirely voluntary, and you agree that Reddit may use such ideas, suggestions, and feedback without compensation or obligation to you.  
   
-Although we reserve the right to review, screen, edit, or monitor Your Content, we do not necessarily review all of it at the time it is submitted to the Services. However, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content at any time and for any reason, including for violating these Terms, our [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en), or our [other terms and policies](https://www.redditinc.com/policies?hsLang=en), or if you otherwise create or are likely to create liability for us.  
+Although we reserve the right to review, screen, edit, or monitor Your Content, we do not necessarily review all of it at the time it is submitted to the Services. However, we may, in our sole discretion, delete, deem your content ineligible for monetization, or remove Your Content at any time and for any reason, including for violating these Terms, our [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), or our [other terms and policies](https://www.redditinc.com/policies?hsLang=en), or if you otherwise create or are likely to create liability for us.  
   
-For more information about Reddit’s approach to content moderation, including how we enforce our [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en) and how to appeal content moderation decisions, please visit our [Help Center.](https://support.reddithelp.com/hc/articles/23511059871252)
+For more information about Reddit’s approach to content moderation, including how we enforce our [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en) and how to appeal content moderation decisions, please visit our [Help Center.](https://support.reddithelp.com/hc/articles/23511059871252)
 
 ##### 6\. Third-Party Content, Advertisements, and Promotions
 
@@ -288,7 +288,7 @@ If you choose to use the Services to conduct a promotion, including a contest or
 
 ##### 7\. Things You Cannot Do
 
-When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en), which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en), you may not do any of the following:
+When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), you may not do any of the following:
 
 * Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;
     
@@ -303,7 +303,7 @@ When using or accessing Reddit, you must comply with these Terms and all applica
 * Use the Services in any manner that we reasonably believe to be an abuse of or fraud on Reddit or any payment system.
     
 
-We encourage you to [report](https://reddit.zendesk.com/hc/en-us/requests/new) content or conduct that you believe violates these Terms or our [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en). We also support the responsible reporting of security vulnerabilities. To report a security issue, please email [security@reddit.com](mailto:security@reddit.com).
+We encourage you to [report](https://reddit.zendesk.com/hc/en-us/requests/new) content or conduct that you believe violates these Terms or our [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en). We also support the responsible reporting of security vulnerabilities. To report a security issue, please email [security@reddit.com](mailto:security@reddit.com).
 
 ##### 8\. Moderators
 
@@ -323,7 +323,7 @@ If you choose to moderate a subreddit:
     
 * If you have access to non-public information as a result of moderating a subreddit, you will use such information only in connection with your performance as a moderator; and
     
-* You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en), or the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct?hsLang=en).
+* You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), or the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct?hsLang=en).
     
 
 Reddit reserves the right, but has no obligation, to overturn any action or decision of a moderator if Reddit, in its sole discretion, believes that such action or decision is not in the interest of Reddit or the Reddit community.
@@ -380,7 +380,7 @@ Because we offer a variety of Services, you may be asked to agree to additional 
 
 You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing use of all Services. If you stop using the Services without deactivating your Account, your Account may be deactivated due to prolonged inactivity.  
   
-To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our [Content Policy](https://www.redditinc.com/policies/content-policy?hsLang=en).  
+To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en).  
   
 The following sections will survive any termination of these Terms or of your Account: 5 (Your Content), 7 (Things You Cannot Do), 12 (Indemnity), 13 (Limitation of Liability), 16 (Termination), and 17 (Miscellaneous).
 
