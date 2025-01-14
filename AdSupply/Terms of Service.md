@@ -3,7 +3,7 @@ Advertiser & Publisher Terms
 
 These terms and conditions (hereinafter referred to as the “**Terms and Conditions**” and/or the “**Agreement**”) govern the relationship between:
 
-**ADSUPPLY INC.**, with registered address at 9024 W. Olympics Blvd., Beverly Hills, CA 90211 (the “**Company**”, “**we**” or “**our**”), operating the advertising and marketing network of advertisers and publishers, on or through its websites, including but not limited to ui.adsupply.com (the “**Company’s Website(s)**”) (collectively the “**Network**”) and you (hereinafter referred to as the “**Publisher**”, “**Advertiser**” or “**you**“) (collectively referred to as the “**Parties**”).
+**ADSUPPLY INC.**, with registered address at 9024 W. Olympic Blvd., Beverly Hills, CA 90211 (the “**Company**”, “**we**” or “**our**”), operating the advertising and marketing network of advertisers and publishers, on or through its websites, including but not limited to ui.adsupply.com (the “**Company’s Website(s)**”) (collectively the “**Network**”) and you (hereinafter referred to as the “**Publisher**”, “**Advertiser**” or “**you**“) (collectively referred to as the “**Parties**”).
 
 By visiting the Company’s Website(s), or accessing any content or material that is made available on or through the Network, or otherwise by signing up on the Company’s Website(s), using it or accessing any of the Company’s services in connection with the Network or the Order or Insertion Order (as defined below), in any manner, you are entering into a binding contract with the Company, and you agree to be bound by this Agreement.
 
