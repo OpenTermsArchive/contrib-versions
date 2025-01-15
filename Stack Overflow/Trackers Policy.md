@@ -48,7 +48,6 @@ These cookies are necessary for our website to function properly and cannot be s
 | meta.stackoverflow.com | OptanonConsent | 1st Party |
 | stackexchange.com | mc, rawr | 1st Party |
 | qa.sockets.stackexchange.com | \_\_cf\_bm, \_cfuvid | 3rd Party |
-| imgur.com | \_\_cfduid | 3rd Party |
 | stackexchange.com | \_\_cflb, \_cfuvid, prov | 3rd Party |
 | stacksnippets.net | intercom-id-inf0secd, intercom-session-inf0secd | 3rd Party |
 | cdn.sstatic.net | OptanonAlertBoxClosed, OptanonConsent | 3rd Party |
