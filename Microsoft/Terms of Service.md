@@ -436,7 +436,7 @@ The following products, apps and services are covered by the Microsoft Services 
 * LineBack
 * Link to Windows
 * Maps App
-* Microsoft 365 Business Standard, Microsoft 365 Business Basic and Microsoft 365 Apps\*
+* Microsoft 365 Business Standard, Microsoft 365 Business Basic, Microsoft 365 Apps, Microsoft 365 Copilot and Microsoft 365 Copilot Chat\*
     * \*Until a commercial domain is established for use of these services, at which time separate Microsoft commercial terms will govern instead.
 * Microsoft 365 Consumer
 * Microsoft 365 Family
