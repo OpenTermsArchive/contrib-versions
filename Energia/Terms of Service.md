@@ -911,15 +911,14 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
 
 35\. Newsletter competition terms and conditions
 
-[View the February 2023 NL Competition terms and conditions](https://www.energia.ie/getmedia/96d12fc1-d14c-4566-a859-c2fc2a3c5240/February-2023-NL-Competition-Terms-and-Conditions.pdf)   
-  
-[View the March 2023 Six Nation Tickets Competition terms and conditions](https://www.energia.ie/getmedia/a9617712-9e09-4cf1-983d-dd804d44c8a6/March-2023-Six-Nations-Competitions-terms-and-conditions.pdf)  
-  
 [View the Janurary Mascot Six Nations Competition 2024 terms and condtions](https://www.energia.ie/getattachment/36a42af5-1c28-47b5-97a7-29a045af2317/Ireland-vs-Wales-Mascot-Comp-Terms-and-Conditions-2024-(2).pdf?lang=en-GB)  
   
 [View the March SnaG Ceolchoirm with HotHouse Flowers terms and conditions](https://www.energia.ie/getattachment/4d4e22fa-7099-4f21-9ea0-1948cccb0d9d/SnaG-Ceolchoirm-with-HotHouse-Flowers-Terms-and-Conditions-2024.pdf?lang=en-GB)  
   
-[View the Energy Smart Energy Tariffs Survey Competition terms and conditions](https://www.energia.ie/getattachment/fe0c352a-0061-4232-af2e-d20f06d60fdb/Energy-Smart-Energy-Tariffs-Survey-Competition-terms-and-conditions.pdf?lang=en-GB)
+[View the Energy Smart Energy Tariffs Survey Competition terms and conditions](https://www.energia.ie/getattachment/fe0c352a-0061-4232-af2e-d20f06d60fdb/Energy-Smart-Energy-Tariffs-Survey-Competition-terms-and-conditions.pdf?lang=en-GB)  
+  
+[View the January Mascot Six Nations Compitition 2025 terms and conditions](https://www.energia.ie/getmedia/030c576e-6cf3-4237-be4d-224c372ea1e5/T-C-2025-Rugby-mascot-for-Ireland-vs-France-Jan-NL-Comp.pdf)  
+ 
 
 #### 
 
