@@ -1,4 +1,4 @@
-![](/Media/Energia/Media/lava-lamp.PNG?ext=.png) 
+![](/Media/Energia/Media/lava-lamp.PNG?width=770&height=auto&maxsidesize=770&ext=.png)
 
 Energia Privacy Statement
 =========================
