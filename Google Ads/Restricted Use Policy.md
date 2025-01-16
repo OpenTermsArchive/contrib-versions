@@ -111,9 +111,14 @@ The policies below cover content that is sometimes legally or culturally sensiti
 
 For that reason, we allow the promotion of the content below, but on a limited basis. These promotions may not show to every user in every location, and advertisers may need to meet additional requirements before their ads are eligible to run. Note that not all ad products, features, or networks are able to support this restricted content. Further details can be found in the [Policy Manager](https://ads.google.com/aw/policymanager/issues).
 
-> ### [Default Ads Treatment](https://support.google.com/adspolicy/answer/10959786)
+> ### [Ad protections for children and teens](https://support.google.com/adspolicy/answer/15416897)
 > 
-> > Google is committed to delivering a safe and trustworthy ad experience for all users. That’s why we limit serving certain types of ad categories for users that aren't signed in or users that our systems indicate are under 18.
+> > Our child and teen ads policies, along with other Google Ads policies (including but not limited to those for alcohol, gambling, and high fat, sugar, and salt food and beverages), work together to provide strong protections that include:
+> > 
+> > * Disabling ads personalization
+> > * Restricting sensitive ad content and categories
+> > 
+> > We require all our advertisers to follow local legal requirements when using our products, including any regulations on advertising to users under age 18, as well as all Google Ads policies. Learn more about our [Ad protections for children and teens](https://support.google.com/adspolicy/answer/15416897) and relevant ad policies, where they apply, and what they mean for advertisers.
 > 
 > ### [Sexual content](https://support.google.com/adspolicy/answer/6023699)
 > 
@@ -192,19 +197,6 @@ For that reason, we allow the promotion of the content below, but on a limited b
 > ### [Restricted ad formats and features](https://support.google.com/adspolicy/answer/9481382)
 > 
 > > There are multiple factors that determine access to advanced ad formats and features on Google Ads. Certain ad formats are not available for all advertisers until they meet our specific requirements or complete the certification process.
-> 
-> ### [Ads and made for kids content](https://support.google.com/adspolicy/answer/9683742)
-> 
-> > Advertisers may not run personalized ads on content set as [made for kids](https://support.google.com/youtube/answer/9528076). [See here](https://support.google.com/adspolicy/answer/9683742) for categories restricted for advertising on made for kids content.
-> 
-> ### Ad-serving protections for [children](https://support.google.com/adspolicy/answer/14170968) and [teens](https://support.google.com/adspolicy/answer/12205906)
-> 
-> > Our child and teen ads policies, along with other Google Ads policies (including but not limited to those for alcohol, gambling, and high fat, sugar, and salt food and beverages), work together to provide strong protections that include:
-> > 
-> > * Disabling ads personalization
-> > * Restricting sensitive ad content and categories
-> > 
-> > We require all our advertisers to follow local legal requirements when using our products, including any regulations on advertising to users under age 18, as well as all Google Ads policies. Learn more about our [Ad protections for children and teens](https://support.google.com/adspolicy/answer/15416897) and relevant ad policies, where they apply, and what they mean for advertisers.
 > 
 > ### [Limited ad serving](https://support.google.com/adspolicy/answer/13889491)
 > 
