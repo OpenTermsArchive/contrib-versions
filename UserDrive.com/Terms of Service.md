@@ -1,6 +1,3 @@
-Terms and services
-------------------
-
 This UsersDrive.com Service Agreement (the "Agreement") describes the terms and conditions on which UsersDrive.com ("we") offer services to you ("User"). By using our services, User agrees to be bound by the following terms and conditions: We reserve the right to disable direct linking on user accounts that are using excessive bandwidth or otherwise abusing the system.  
 Pornography, nudity, sexual images and any kind offensive images or videos are prohibited. Copyrighted material are also strictly prohibited. We reserve the right to decide appropriate content and can delete images or videos at any time without User notification.  
 Users must agree to comply with all laws which apply to their location, including copyright and trademark laws. Images, videos and files that violate copyrights or trademarks are not allowed. If someone has an infringement claim against you, you will be asked to remove the copyrighted file until the issue is resolved. If there is a dispute between participants on this site, UsersDrive.com is under no obligation to become involved.  
