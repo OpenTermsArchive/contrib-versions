@@ -1,5 +1,3 @@
- 
-
 Energia Cookie Policy
 =====================
 
