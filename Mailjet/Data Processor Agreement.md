@@ -428,4 +428,6 @@ ANNEX 3
 
 Last revised January 16, 2023. To see the previous terms, please [click here](https://www.mailgun.com/legal/dpa-old/).
 
-[Click here](https://sinch.com/legal/terms-and-conditions/other-sinch-terms-conditions/data-protection-agreement/) to see the latest version.
+* * *
+
+**Effective January 15, 2025.** [Click here](https://sinch.com/legal/terms-and-conditions/other-sinch-terms-conditions/data-protection-agreement/) to see the latest version.
