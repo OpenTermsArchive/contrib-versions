@@ -23,7 +23,7 @@ _In short: This is a contract between you and TikTok. You should read it._
 
 The company that you are contracting with depends on where you are resident or have your principal place of business:
 
-* If you are resident in one of the countries that form the [European Economic Area (“EEA”)](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)#:~:text=The%20European%20Economic%20Area%2C%20abbreviated,force%20on%201%20January%201994.) or Switzerland, your contract is with TikTok Technology Limited, which is a company registered in the Republic of Ireland with its registered office at 10 Earlsfort Terrace, Dublin, D02 T380, Ireland and company number 635755.
+* If you are resident in one of the countries that form the [European Economic Area (“EEA”)](https://ec.europa.eu/eurostat/statistics-explained/index.php?title=Glossary:European_Economic_Area_(EEA)#:~:text=The%20European%20Economic%20Area%2C%20abbreviated,force%20on%201%20January%201994.) or Switzerland, your contract is with TikTok Technology Limited, which is a company registered in the Republic of Ireland with its registered office at The Sorting Office, Ropemaker Place, Dublin 2, D02 HD23, Dublin, Ireland and company number 635755.
 * If you are resident in the United Kingdom, your contract is with TikTok Information Technologies UK Limited, which is a company registered in England with its registered office at 4 Lindsey Street, Barbican, London, EC1A 9HP, United Kingdom and company number 10165711
 
 _In short: The specific TikTok company that you have a contract with depends on where you are resident. If we say “TikTok”, “we” or “us” in these Terms, we are referring to that specific company unless we say otherwise._
