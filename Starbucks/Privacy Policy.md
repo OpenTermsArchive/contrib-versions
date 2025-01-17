@@ -4,9 +4,9 @@ As part of our effort to protect your privacy and to comply with applicable priv
 
 Please see the [Consumer Health Data Privacy Notice for Washington and Nevada](https://www.starbucks.com/consumer-health-data-privacy-notice/) for additional information of how we may process personal information that could be considered consumer health data.
 
-**Starbucks Privacy Notice**
+**STARBUCKS PRIVACY NOTICE**
 
-Last Revised: July 01, 2024
+Last Revised: January 17, 2025
 
 **Overview**
 
@@ -32,7 +32,7 @@ You may skip to the specific sections of our Privacy Notice by selecting any of 
 12. [Your Choices & Rights](#your-choices-rights)
 13. [Notice of Financial Incentive & Starbucks® Rewards](#notice-of-financial-incentive)
 14. [Additional Disclosures for Data Subjects in the EEA, the U.K. and Switzerland](#additional-disclosures-for-data-subjects-in-the-eea-the-uk-and-switzerland)
-15. [Participation in the Privacy Framework](#participation-in-the-privacy-shield-frameworks)
+15. [Participation in the Data Privacy Framework](#participation-in-the-privacy-shield-frameworks)
 16. [Contact Us](#contact-us)
 
 **1\. Applicability and Scope**
@@ -112,7 +112,7 @@ We may use your information for business purposes, including to provide the prod
 
 We may disclose your information as needed to fulfill the purposes described in this Notice and as permitted by applicable law.
 
- **(a) When We Work Together** – We may share information between and among Starbucks Corporation, its subsidiaries, and affiliates companies for purposes of management and analysis, decision making, and other business purposes. For example, we may share your information with our subsidiaries and affiliates companies to administer our loyalty programs, process orders and requests, and expand and promote our product and service offerings.
+**(a)  When We Work Together** – We may share information between and among Starbucks Corporation, its subsidiaries, and affiliates for purposes of management and analysis, decision making, and other business purposes. For example, we may share your information with our subsidiaries and affiliates to administer our loyalty programs, process orders and requests, and expand and promote our product and service offerings.
 
 **(b)  When We Work with Service Providers & Business Partners** – We may share each of the categories of information described, in the “Information We Collect” section, for a variety of business purposes, with our service providers and business partners who provide an array of services such as payment processing, website and data hosting, location mapping, product and service delivery, customer service, advertising and marketing (including counting ad impressions and audience creation), facilitating sweepstakes and Starbucks® Rewards loyalty program benefits and communication, ensuring compliance with industry standards, personalization, analytics services, security and performance monitoring, maintaining and servicing accounts, processing or fulfilling orders and transactions, verifying customer information, research, auditing, and data processing. We strive to contractually prohibit these service providers and business partners from retaining, using, or disclosing your confidential personal information for any purpose other than performing agreed upon services for us.
 
@@ -124,7 +124,7 @@ We may disclose your information as needed to fulfill the purposes described in 
 
 **(f)  When You Post on Our Websites** – If you post information on a blog or another part of our websites, the information that you post may be seen by other visitors to our websites.  We are not responsible for the information you choose to submit in these public areas.
 
-**7\. Cookies, Web Beacons and Similar Technologies**
+**7\. Cookies, Web Beacons, and Similar Technologies**
 
 We and others may use a variety of technologies to collect information about your device and use of our websites and mobile applications. These technologies include first- and third-party cookies, web beacons, JavaScript, entity tags, and HTML local storage. Most web browsers can be programmed to accept or reject the use of some or all of these technologies, although you must take additional steps to disable or control other technologies. For more information on exercising your preferences in relation to cookies and similar technologies, please see the section of this Notice titled “Your Choices & Rights”.
 
@@ -174,11 +174,11 @@ Many Starbucks stores support providing you access to wireless internet (WiFi) a
 
 **(a)  Your Choices**
 
-* **Location Services** – In order to use certain Starbucks Services, such as mobile order and pay (“MOP”) and location-based services and technology, you must either (a) enable “location services” in the Starbucks App; and/or (b) set the permissions in your mobile device to allow communication of this information.
-
-If you allow for location sharing, your device may communicate with us in ways that allow for us to customize your experience in and around Starbucks stores, to monitor the effectiveness of our marketing efforts, to tailor messages based on your time and location patterns, and to limit the number of times you see a promotional message or offer. Precise geolocation may be used to fulfill services and application functionality you choose to engage with. You can manage the use of that personal information at any time in your device settings.
-
-For most mobile devices, you can disable the collection of geolocation information by turning off location services on your device.  If you have any questions about how to prevent Starbucks from collecting your geolocation, we recommend you contact your mobile device service provider or the device manufacturer. Certain Starbucks App features and some Starbucks Services may not work properly without information about your location. You can re-enable the collection of geolocation information, at any time, by turning on location services on your device.
+* **Location Services** – In order to use certain Starbucks Services, such as mobile order and pay (“MOP”) and location-based services and technology, you must either (a) enable “location services” in the Starbucks App; and/or (b) set the permissions in your mobile device to allow communication of this information.  
+      
+    If you allow for location sharing, your device may communicate with us in ways that allow for us to customize your experience in and around Starbucks stores, to monitor the effectiveness of our marketing efforts, to tailor messages based on your time and location patterns, and to limit the number of times you see a promotional message or offer. Precise geolocation may be used to fulfill services and application functionality you choose to engage with. You can manage the use of that personal information at any time in your device settings.  
+      
+    For most mobile devices, you can disable the collection of geolocation information by turning off location services on your device.  If you have any questions about how to prevent Starbucks from collecting your geolocation, we recommend you contact your mobile device service provider or the device manufacturer. Certain Starbucks App features and some Starbucks Services may not work properly without information about your location. You can re-enable the collection of geolocation information, at any time, by turning on location services on your device.
 
 * **Voice Ordering –** In order to use certain Starbucks Services,  such as voice ordering, when available, you must (a) enable “microphone” and “speech recognition” in the Starbucks App; and/or (b) set the permissions in your mobile device to allow communication of this information.
 * **Email Communications, Push Notifications, and In-App Messages****–** The Starbucks App allows all users to set preferences for receiving promotional email communications from Starbucks, receiving push notifications on your device, and receiving inbox messages. You may opt-out of receiving promotional emails at any time by adjusting your Starbucks online account settings or by clicking the “unsubscribe” link included within any promotional emails we send you. If you opt-out of receiving promotional emails from us, we may still send communications to you about your orders and transactions, and any accounts you have with us. Please note that when you opt-out of receiving promotional emails, you may still receive automated marketing text messages if you have opted-in to receiving them.
@@ -198,7 +198,7 @@ Depending on where you live (including California, Colorado, Connecticut, Nevada
 * **Sensitive Information** – Companies who collect, use, and disclose your sensitive personal information for purposes other than to provide you with goods or services are required to provide you with the right to limit the use and disclosure of your sensitive personal information by providing a “Limit the Use and Disclosure of My Sensitive Personal Information” link. Starbucks only collects, uses, and discloses your sensitive personal information to provide services to you, therefore Starbucks is not required to provide this link.
 * **Opt-Out Preference Signals** – Some web browsers allow customers to automatically exercise their right to opt-out of sale/sharing with all businesses they interact with online by initiating an opt-out preference signal. We will honor such opt-out preference signals.
 * **Appeals –** You may appeal our decision with respect to a request you have submitted by contacting us as described in the “Contact Us” section below.
-* **Consumer Health Data Rights in Washington and Nevada –** You may have additional rights relating to consumer health data. For more information, please see the [Consumer Health Data Privacy Notice for Washington and Nevada](https://www.starbucks.com/consumer-health-data-privacy-notice/)
+* **Consumer Health Data Rights in Washington and Nevada –** You may have additional rights relating to consumer health data. For more information, please see the [Consumer Health Data Privacy Notice for Washington and Nevada](https://www.starbucks.com/consumer-health-data-privacy-notice/).
 
 Requests for U.S. residents should be submitted through this form [**HERE**](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html).
 
@@ -206,7 +206,7 @@ Request for Canadian residents should be submitted through this form [**HERE**](
 
 U.S. and Canadian residents may also submit request by calling 1-800-STARBUC (782-7282).  Once we receive your request, we may verify it by requesting information sufficient to confirm your identity.  You may be entitled to submit a request through an authorized agent or to appeal a refusal to take action on your request.  To designate an authorized agent to exercise your rights, we will require written proof that the authorized agent has been authorized to act on your behalf or a copy of the power-of-attorney document granting that right.
 
-If you are an authorized agent or you are submitting a request on behalf a customer, please submit your request through this form **[HERE](https://privacyportal.onetrust.com/webform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/8455830b-dcd5-4b5b-b866-cc377b6e86d8)** or via email to [privacy@starbucks.com](mailto:privacy@starbucks.com).
+If you are an authorized agent or you are submitting a request on behalf of a customer, please submit your request through this form **[HERE](https://privacyportal.onetrust.com/webform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/8455830b-dcd5-4b5b-b866-cc377b6e86d8)** or via email to [privacy@starbucks.com](mailto:privacy@starbucks.com).
 
 **(c)  Other California Rights**
 
@@ -215,19 +215,19 @@ If you are an authorized agent or you are submitting a request on behalf a custo
 
 **(d)  Privacy Metrics**
 
-Privacy Rights Metrics (January 2023 – December 2023) – Includes requests from the United States and Canada:
+Privacy Rights Metrics (January 2024 – December 2024) – Includes requests from the United States and Canada:
 
 Right to Know  
-**•**  Requests Received – 1,325  
-**•**  Requests Complete – 543  
-**•**  Requests unable to be completed\* – 779  
-**•**  Average completion time – 9 days  
+**•**  Requests Received – 1,237  
+**•**  Requests Complete – 463  
+**•**  Requests unable to be completed\* – 760  
+**•**  Average completion time – 7 days  
 
 Right to Delete  
-**•**  Requests Received – 3,503  
-**•**  Requests Complete – 1,913  
-**•**  Requests unable to be completed\* – 1,556  
-**•**  Average completion time – 12 days  
+**•**  Requests Received – 3,513  
+**•**  Requests Complete – 1,948  
+**•**  Requests unable to be completed\* – 1,514  
+**•**  Average completion time – 11 days  
 
 \*Requests may be unable to be completed due to factors such as inability to verify the customer, duplicate requests, or no information is found.
 
@@ -285,19 +285,17 @@ To exercise any of these rights, please see the “Your Choices & Rights” sect
 
 **15\. Participation in the Data Privacy Framework**
 
-Starbucks participates in the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Starbucks complies with the U.S. Department of Commerce requirements regarding the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF, and from the United Kingdom (and Gibraltar) under the UK Extension to the EU-U.S. DPF. Starbucks complies with the U.S. Department of Commerce requirements regarding the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Notice and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+Starbucks complies with in the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Starbucks has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) under the UK Extension to the EU-U.S. DPF. Starbucks has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Notice and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
 
-Starbucks is responsible for the processing of personal data it receives, and subsequently transfers to a third party acting as an agent on its behalf, under the Data Privacy Framework.
+Starbucks is responsible for the processing of personal data it receives under the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and Swiss-U.S. DPF and subsequently transfers to a third party acting as an agent on its behalf.
 
-Starbucks complies with the Data Privacy Principles for all onward transfers of personal data from the EU, the U.K., and Switzerland, including the onward transfer liability provisions.
+Starbucks complies with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and Swiss-U.S. DPF Principles for all onward transfers of personal data from the EU, the UK, and Switzerland, including the onward transfer liability provisions.
 
-With respect to personal data received or transferred pursuant to the Data Privacy Framework, Starbucks is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.
+The Federal Trade Commission has jurisdiction over Starbucks’ compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. In certain situations, Starbucks may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-In certain situations, Starbucks may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Starbucks commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint. These dispute resolution services are provided at no cost to you.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request).
-
-For complaints regarding DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+For complaints regarding EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and Swiss-U.S. DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website [https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction).
 
 **16\. Contact Us**
 
@@ -319,26 +317,26 @@ Additional contact information may be found below for various Starbucks entities
     * Additional Contact (If Any) –
         * Customer Support
             * [service.clientele@starbucks.fr](mailto:service.clientele@starbucks.fr)
-            * : +33 01 44 76 72 00
+            * +33 01 44 76 72 00
 * **Country – Germany**
     * Entity Name – AmRest Coffee Deutschland Sp. Z oo & Co. KG
     * Entity Address – Dachauser Strasse 6, 80335, Munich
     * Additional Contact (If Any) –
         * Customer Relations
             * [Starbucks.Gaesteservice@amrest.eu](mailto:Starbucks.Gaesteservice@amrest.eu)
-            * : +49 (0) 89.551.555.990
+            * +49 (0) 89.551.555.990
 * **Country – U.K.**
     * Entity Name – Starbucks Coffee Company (UK) Limited
     * Entity Address – Building 4 Chiswick Park, 566 Chiswick High Road, London, W4 5YE
     * Additional Contact (If Any) –
         * Customer Support
             * Please contact our U.K. Customer Care team **[HERE](https://customercare.starbucks.co.uk/sbux?lang=en)**.
-            * : +443330050449 or +442088345050 (app)
+            * +443330050449 or +442088345050 (app)
 * **Country – U.S.**
     * Entity Name – Starbucks Reserve; Princi
     * Entity Address – Starbucks, P.O. Box 20430, Augusta, GA 30916
     * Additional Contact (If Any) –
     * Customer Service
         * [http://customerservice.starbucks.com](http://customerservice.starbucks.com/)
-        * : 800-Starbuc (782-7282)
+        * 800-Starbuc (782-7282)
 * [![TRUSTe](https://privacy-policy.truste.com/privacy-seal/seal?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)
