@@ -54,9 +54,9 @@ Don't invest unless you're prepared to lose all the money you invest. This is a 
     
     Kraken Wallet
     
-    Your passport onchain](https://www.kraken.com/wallet)[![Kraken Institutions](https://assets-cms.kraken.com/images/51n36hrp/facade/0a38e07f1d558ffb9d78d0b85b0f6181fd10a6a8-36x36.svg)
+    Your passport onchain](https://www.kraken.com/wallet)[![Kraken Institutional](https://assets-cms.kraken.com/images/51n36hrp/facade/0a38e07f1d558ffb9d78d0b85b0f6181fd10a6a8-36x36.svg)
     
-    Kraken Institutions
+    Kraken Institutional
     
     Tools for institutional traders](https://www.kraken.com/institutions)
     
@@ -125,7 +125,7 @@ Get the Kraken app
 
 Buy crypto in minutes
 
-[Get the Kraken app](https://kraken.onl/JDNW/7kre1pt7)
+[Get the Kraken app](https://kraken.onl/JDNW/ua1wai9d)
 
 ##### Products
 
@@ -145,9 +145,9 @@ Multi-screen pro trading](https://www.kraken.com/desktop)[![Kraken Wallet](https
 
 Kraken Wallet
 
-Your passport onchain](https://www.kraken.com/wallet)[![Kraken Institutions](https://assets-cms.kraken.com/images/51n36hrp/facade/0a38e07f1d558ffb9d78d0b85b0f6181fd10a6a8-36x36.svg)
+Your passport onchain](https://www.kraken.com/wallet)[![Kraken Institutional](https://assets-cms.kraken.com/images/51n36hrp/facade/0a38e07f1d558ffb9d78d0b85b0f6181fd10a6a8-36x36.svg)
 
-Kraken Institutions
+Kraken Institutional
 
 Tools for institutional traders](https://www.kraken.com/institutions)
 
