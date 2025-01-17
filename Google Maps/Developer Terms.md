@@ -147,7 +147,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * City of Launceston open data: [https://opendata.launceston.tas.gov.au/datasets/launceston::address/about](https://opendata.launceston.tas.gov.au/datasets/launceston::address/about)
             
-        * City of Melbourne open data: [https://data.melbourne.vic.gov.au/explore/dataset/property-boundaries/information/?location=18,-37.81344,144.96306&basemap=mbs-7a7333#:~:text=License-,CCBY,-Modified](https://data.melbourne.vic.gov.au/explore/dataset/property-boundaries/information/?location=18,-37.81344,144.96306&basemap=mbs-7a7333#:~:text=License-,CCBY,-Modified)
+        * City of Melbourne open data: [https://data.melbourne.vic.gov.au/explore/dataset/postcodes/information/#:~:text=License-,CCBY,-Modified](https://data.melbourne.vic.gov.au/explore/dataset/postcodes/information/#:~:text=License-,CCBY,-Modified) [https://creativecommons.org/licenses/by/4.0/legalcode](https://creativecommons.org/licenses/by/4.0/legalcode)
             
         * Brisbane City Council: [https://www.data.brisbane.qld.gov.au/data/dataset/property-address-data/resource/65cb77d7-5795-48da-a37c-6aed4ee774ad](https://www.data.brisbane.qld.gov.au/data/dataset/property-address-data/resource/65cb77d7-5795-48da-a37c-6aed4ee774ad)
             
@@ -1770,6 +1770,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Open Data Košice (SK): [https://opendata.kosice.sk/](https://opendata.kosice.sk/)
             
         * eGov Prešov: [https://egov.presov.sk/](https://egov.presov.sk/)
+            
+        * Geoportal Slovakia: [https://www.geoportal.sk/en/zbgis/download/](https://www.geoportal.sk/en/zbgis/download/) [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        * Magistrát mesta Košice: [https://opendata.kosice.sk/datasets/kosice-mesto::adresné-body/about](https://opendata.kosice.sk/datasets/kosice-mesto::adresn%C3%A9-body/about)
             
     54. **Solomon Islands**
         * Pacific Data Hub (SB): [https://pacificdata.org/](https://pacificdata.org/)
