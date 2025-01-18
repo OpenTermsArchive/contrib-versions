@@ -45,7 +45,7 @@
 
 Effective Date: January 6, 2025
 
-You can also find the full Privacy Policy [here](https://roblox1531333111.zendesk.com/hc/article_attachments/20961293738004).
+You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/20961293738004).
 
 1. Welcome to the Roblox Privacy Policy
     
