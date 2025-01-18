@@ -1,9 +1,9 @@
-Effective date: November 8, 2024
+Effective date: January 17, 2025
 
 Grammarly Customer Business Agreement
 -------------------------------------
 
-([Previous Version](https://www.grammarly.com/terms/customer-business-agreement-2024))  
+([Previous Version](https://www.grammarly.com/terms/customer-business-agreement-nov-2024))  
   
 _We have updated our online terms. If you are a Grammarly Business or Grammarly for Education customer that signed an Order before March 11, 2024, the version of the terms that were in effect at that time govern your organization’s use of Grammarly._  
   
@@ -33,15 +33,13 @@ If a Customer’s Order contains additional terms and conditions, then those ter
 2\. Payment Terms
 -----------------
 
-2.1 Fees. Customer will pay the fees for the Services (“**Fees**”) described in the Order in US dollars (unless otherwise specified in the Order). All payment obligations are non-cancellable, and Fees are non-refundable except as required by law or expressly set out in this Agreement.  
+2.1 Fees. Customer will pay the fees for the Services (“**Fees**”) described in the Order in US dollars (unless otherwise specified in the Order). All payment obligations are non-cancellable, and Fees are non-refundable except as required by law or as expressly set out in this Agreement. Grammarly will send all invoices to the billing email address provided by Customer in the Order or online, as applicable. Unless otherwise agreed to in writing by Grammarly,  Grammarly will have no obligation to submit invoices to any vendor management portal or other similar system to obtain payment of the Fees.  
   
 2.2 Payment Timing. The payment timing is described in Customer’s Order. If the payment timing is not specified in Customer’s Order, Customer will pay all Fees within thirty days of when Customer receives an invoice. Late payments are subject to a service charge of the lesser of 1.5% per month or the maximum amount allowed by law.   
   
 2.3 Taxes. If there are any government-imposed sales, value-added, delivery, withholding, or similar taxes associated with your purchase of the Services (but not taxes based on our net income, net worth, asset value, property value, or employment) (“**Taxes**”), you will pay such Taxes. Unless otherwise expressly specified in an Order and as required by applicable Law, Fees are exclusive of any Taxes.  
   
 2.4 Notice of Fee Changes Prior to Renewal; Notice of Corrections. In the event we change Customer’s Fees, we will give Customer at least 30 days’ notice of that change prior to the renewal of Customer’s then-current subscription. If Customer believes we have incorrectly billed Customer, Customer has 60 days from receipt of an invoice to notify us of the error.  
-  
-2.5 Cancellations. You may cancel your subscription, and that cancellation will take effect at the end of the then-current Subscription Term (for example, if you are on a paid monthly subscription, the cancellation will take effect the following month, but if you are on a paid annual subscription, the cancellation will take effect the following year).  
 
 3\. Protection of Customer Data
 -------------------------------
@@ -88,7 +86,7 @@ If a Customer’s Order contains additional terms and conditions, then those ter
 
 7.1 Subscription Term; Agreement Term. The “**Subscription Term**” of Customer’s subscription will begin on the date specified on the applicable Order and will continue until Customer's subscription ends or is terminated. This Agreement starts on the Effective Date and continues until the end of all Subscription Terms, unless it is terminated sooner in accordance with this Agreement.   
   
-7.2 Automatic Renewal. Customer’s Subscription Term will automatically renew for successive periods unless either party gives the other notice of its intent not to renew. That notice must be given at least 30 days before the start of the next renewal period.   
+7.2 Automatic Renewal. Customer’s Subscription Term will automatically renew for successive periods unless either party gives the other written notice of its intent not to renew at least 30 days before the start of the next renewal period.  
   
 7.3 Termination. Either party may terminate this Agreement if (a) the other party materially breaches this Agreement and fails to cure that breach within 30 days after receipt of a written notice of the breach, or (b) the other party ceases its business operations or becomes subject to insolvency proceedings. Grammarly may terminate this Agreement and suspend Customer’s access to the Services if required to do so by law or for an egregious violation by Customer of the Acceptable Use Policy.  
   
