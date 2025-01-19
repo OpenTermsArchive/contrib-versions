@@ -5,23 +5,23 @@ All use of Thomson Reuters web pages located within www.thomsonreuters.com is 
 
  
 
-All use of Thomson Reuters web pages located within [www.thomsonreuters.com](https://www.thomsonreuters.com/en.html) is subject to the terms and conditions set forth below ("Terms"), provided however that other terms of use shall apply with respect to Thomson Reuters affiliates' websites, as specified on each such website. Any use of such web pages constitutes the user's agreement to abide by the Terms. We may amend the Terms at any time by posting the amended terms on this site.
+All use of Thomson Reuters web pages located within [www.thomsonreuters.com](https://www.thomsonreuters.com/en) is subject to the terms and conditions set forth below ("Terms"), provided however that other terms of use shall apply with respect to Thomson Reuters affiliates' websites, as specified on each such website. Any use of such web pages constitutes the user's agreement to abide by the Terms. We may amend the Terms at any time by posting the amended terms on this site.
 
 **Privacy**
 
-Please review our [Privacy Statement](https://www.thomsonreuters.com/en/privacy-statement.html "Privacy Statement"), which also governs your visit to [www.thomsonreuters.com](https://www.thomsonreuters.com/en.html), to understand our practices.
+Please review our [Privacy Statement](https://www.thomsonreuters.com/en/privacy-statement "Privacy Statement"), which also governs your visit to [www.thomsonreuters.com](https://www.thomsonreuters.com/en), to understand our practices.
 
 **Electronic Communications**
 
-When you visit [www.thomsonreuters.com](https://www.thomsonreuters.com/en.html) or send e-mails to us, you are communicating with us electronically. You consent to receive communications from us electronically. We will communicate with you by e-mail or by posting notices on this site. You agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
+When you visit [www.thomsonreuters.com](https://www.thomsonreuters.com/en) or send e-mails to us, you are communicating with us electronically. You consent to receive communications from us electronically. We will communicate with you by e-mail or by posting notices on this site. You agree that all agreements, notices, disclosures and other communications that we provide to you electronically satisfy any legal requirement that such communications be in writing.
 
 **Copyright**
 
-All content provided on this site is owned by or licensed to Thomson Reuters and/or its affiliates (the "Thomson Reuters Content") and protected by United States and international copyright laws. Thomson Reuters and its licensors retain all proprietary rights to the Thomson Reuters Content. The Thomson Reuters Content may not be reproduced, transmitted or distributed without the prior written consent of Thomson Reuters. [More information can be found here](https://www.thomsonreuters.com/en/policies/copyright.html).
+All content provided on this site is owned by or licensed to Thomson Reuters and/or its affiliates (the "Thomson Reuters Content") and protected by United States and international copyright laws. Thomson Reuters and its licensors retain all proprietary rights to the Thomson Reuters Content. The Thomson Reuters Content may not be reproduced, transmitted or distributed without the prior written consent of Thomson Reuters. [More information can be found here](https://www.thomsonreuters.com/en/policies/copyright).
 
 **Trademarks**
 
-Thomson Reuters and the Kinesis logo are trademarks of Thomson Reuters and its affiliated companies. More information about fair use, general use and a list of [Thomson Reuters marks can be found here](https://www.thomsonreuters.com/en/policies/trademark-notice.html).
+Thomson Reuters and the Kinesis logo are trademarks of Thomson Reuters and its affiliated companies. More information about fair use, general use and a list of [Thomson Reuters marks can be found here](https://www.thomsonreuters.com/en/policies/trademark-notice).
 
 **License and Site Access**
 
