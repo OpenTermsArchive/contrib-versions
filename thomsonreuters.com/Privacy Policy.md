@@ -6,8 +6,8 @@ Available in other languages:
 
  
 
-[中文（简体版）](https://www.thomsonreuters.com/zh-hans/privacy-statement.html)    [中文（繁体版）](https://www.thomsonreuters.com/zh-tw/privacy-statement.html)   [Nederlands](https://www.thomsonreuters.com/nl/privacy.html)    [Français](https://www.thomsonreuters.com/fr/declaration-de-confidentialite.html)    [Français(CA)](https://www.thomsonreuters.com/fr-ca/privacy-statement.html)    [Deutsch](https://www.thomsonreuters.com/de/datenschutzerklarung.html)    [Italiano](https://www.thomsonreuters.com/it/informativa-sulla-privacy.html)    [日本語](https://www.thomsonreuters.com/ja/privacy-statement.html)    [한국어](https://www.thomsonreuters.com/ko/privacy-statement.html)    [Português](https://www.thomsonreuters.com/pt/declaracao-de-privacidade.html)    [Русский](https://www.thomsonreuters.com/ru/privacy-statement.html)    [Español](https://www.thomsonreuters.com/es/declaracion-de-privacidad.html)    [Türk](https://www.thomsonreuters.com/tr/gizlilik-bildirimi.html)    [عربي](https://www.thomsonreuters.com/ar/privacy-statement.html)  
-[dansk](https://www.thomsonreuters.com/da-dk/fortrolighedserklaering.html)    [Ελληνικά](https://www.thomsonreuters.com/el-gr/privacy-statement.html)    [bahasa Indonesia](https://www.thomsonreuters.com/id-id/pernyataan-privasi.html)    [Polski](https://www.thomsonreuters.com/pl-pl/polityka-prywatnosci.html)    [svenska](https://www.thomsonreuters.com/sv-se/sekretesspolicy.html)    [แบบไทย](https://www.thomsonreuters.com/th-th/privacy-statement.html)    [हिंदी](https://www.thomsonreuters.com/he-in/privacy-statement.html)
+[中文（简体版）](https://www.thomsonreuters.com/zh-hans/privacy-statement)    [中文（繁体版）](https://www.thomsonreuters.com/zh-tw/privacy-statement)   [Nederlands](https://www.thomsonreuters.com/nl/privacy)    [Français](https://www.thomsonreuters.com/fr/declaration-de-confidentialite)    [Français(CA)](https://www.thomsonreuters.com/fr-ca/privacy-statement)    [Deutsch](https://www.thomsonreuters.com/de/datenschutzerklarung)    [Italiano](https://www.thomsonreuters.com/it/informativa-sulla-privacy)    [日本語](https://www.thomsonreuters.com/ja/privacy-statement)    [한국어](https://www.thomsonreuters.com/ko/privacy-statement)    [Português](https://www.thomsonreuters.com/pt/declaracao-de-privacidade)    [Русский](https://www.thomsonreuters.com/ru/privacy-statement)    [Español](https://www.thomsonreuters.com/es/declaracion-de-privacidad)    [Türk](https://www.thomsonreuters.com/tr/gizlilik-bildirimi)    [عربي](https://www.thomsonreuters.com/ar/privacy-statement)  
+[dansk](https://www.thomsonreuters.com/da-dk/fortrolighedserklaering)    [Ελληνικά](https://www.thomsonreuters.com/el-gr/privacy-statement)    [bahasa Indonesia](https://www.thomsonreuters.com/id-id/pernyataan-privasi)    [Polski](https://www.thomsonreuters.com/pl-pl/polityka-prywatnosci)    [svenska](https://www.thomsonreuters.com/sv-se/sekretesspolicy)    [แบบไทย](https://www.thomsonreuters.com/th-th/privacy-statement)    [हिंदी](https://www.thomsonreuters.com/he-in/privacy-statement)
 
 Effective date: June 2012  
 Last updated: April 8, 2024
@@ -51,7 +51,7 @@ This Privacy Statement does not apply to any website, application, product, or s
 Who is Thomson Reuters and how can I contact you?
 -------------------------------------------------
 
-Thomson Reuters Corporation is a Canadian corporation, and the Thomson Reuters group of companies is made up of numerous legal entities with offices located across the globe. Please see our full [list of locations](https://www.thomsonreuters.com/en/locations.html).
+Thomson Reuters Corporation is a Canadian corporation, and the Thomson Reuters group of companies is made up of numerous legal entities with offices located across the globe. Please see our full [list of locations](https://www.thomsonreuters.com/en/locations).
 
 Thomson Reuters acts as a controller of your personal information where we determine how and why personal information can be used, and the Thomson Reuters company that provides the specific Service — as identified therein — is the primary controller of your personal information. This Privacy Statement, however, does **not** apply where we act as a processor or service provider to another controller, such as our customers.
 
@@ -375,7 +375,7 @@ Please provide us with enough information to verify your identity. We will use t
 
 **Important:** these rights are **not** absolutely guaranteed and there are several exceptions where we may not have an obligation to fulfill your request. We are only required to honor these rights to the extent that they have been granted to you and apply to you under CCPA/CPRA. Please consult CCPA/CPRA to determine which rights may be available to you and when access to these rights is limited. You may appeal an adverse decision on your requests by emailing or writing to us, and you have the right to lodge a complaint with the California Attorney General if you are not satisfied with our responses to your requests or how we manage your personal information. However, we encourage you to contact us first so we can address your concerns directly.
 
-[California Consumer Request Metrics](https://www.thomsonreuters.com/en/ccpa-privacy-information.html "California Consumer Request Metrics")
+[California Consumer Request Metrics](https://www.thomsonreuters.com/en/ccpa-privacy-information "California Consumer Request Metrics")
 
 We last updated this California Statement on April 8, 2024.
 
