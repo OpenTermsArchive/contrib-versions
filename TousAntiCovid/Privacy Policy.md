@@ -65,8 +65,8 @@ Recherche
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
-            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
+            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
 * [Ministère](https://sante.gouv.fr/ministere/)
@@ -210,11 +210,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -351,7 +349,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -448,11 +446,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -589,7 +585,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -839,8 +835,8 @@ Recherche
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
-            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
+            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
 * [Ministère](https://sante.gouv.fr/ministere/)
@@ -984,11 +980,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -1125,7 +1119,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -1222,11 +1216,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -1363,7 +1355,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -1585,8 +1577,8 @@ Recherche
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
-            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
+            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
 * [Ministère](https://sante.gouv.fr/ministere/)
@@ -1730,11 +1722,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -1871,7 +1861,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -1968,11 +1958,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -2109,7 +2097,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -2269,8 +2257,8 @@ Recherche
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
-            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
+            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
 * [Ministère](https://sante.gouv.fr/ministere/)
@@ -2414,11 +2402,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -2555,7 +2541,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -2665,8 +2651,8 @@ Recherche
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
-            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
+            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
 * [Ministère](https://sante.gouv.fr/ministere/)
@@ -2810,11 +2796,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -2951,7 +2935,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -3061,8 +3045,8 @@ Recherche
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
-            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
+            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
 * [Ministère](https://sante.gouv.fr/ministere/)
@@ -3206,11 +3190,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -3347,7 +3329,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -3457,8 +3439,8 @@ Recherche
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
-            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
+            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
 * [Ministère](https://sante.gouv.fr/ministere/)
@@ -3602,11 +3584,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -3743,7 +3723,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -3853,8 +3833,8 @@ Recherche
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
-            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
+            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
 * [Ministère](https://sante.gouv.fr/ministere/)
@@ -3998,11 +3978,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -4139,7 +4117,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -4249,8 +4227,8 @@ Recherche
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
-            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
+            * [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
+            * [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
             
     
 * [Ministère](https://sante.gouv.fr/ministere/)
@@ -4394,11 +4372,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -4535,7 +4511,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -4618,8 +4594,8 @@ Retour
 * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
 
 * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-* [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
-* [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
+* [Remboursement des séances de psychologue](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/le-remboursement-des-seances-de-psychologues-mon-soutien-psy)
+* [Renforcement en psychologues dans les Maisons de santé pluriprofessionnelles et les Centres de santé](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/article/mise-en-place-d-un-dispositif-de-renforcement-en-psychologues-dans-les-maisons)
 
 Retour
 
@@ -4680,11 +4656,9 @@ Retour
 * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
 * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
 
-* [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-* [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-* [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-* [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-* [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+* [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+* [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+* [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
 
 * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
 * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
@@ -4783,7 +4757,7 @@ Retour
 * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
 * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
 * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-* [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+* [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
 * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
 
 * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -4857,11 +4831,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -4998,7 +4970,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -5093,11 +5065,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -5234,7 +5204,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -5329,11 +5299,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -5470,7 +5438,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -5565,11 +5533,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -5706,7 +5672,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -5801,11 +5767,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -5942,7 +5906,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -6037,11 +6001,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -6178,7 +6140,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -6273,11 +6235,9 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-            * [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-            * [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-            * [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-            * [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+            * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -6414,7 +6374,7 @@ Recherche
             * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
             * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
             * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-            * [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+            * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
@@ -6494,11 +6454,9 @@ Retour
 * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
 * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
 
-* [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
-* [Délégation à la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/article/delegation-a-la-sante-mentale)
-* [Accompagnement psychologique](https://sante.gouv.fr/prevention-en-sante/sante-mentale/accompagnement-psychologique/)
-* [Prévention, informations et droits](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prevention-informations-et-droits/)
-* [La prévention du suicide](https://sante.gouv.fr/prevention-en-sante/sante-mentale/la-prevention-du-suicide/)
+* [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+* [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
+* [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
 
 * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
 * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
@@ -6597,7 +6555,7 @@ Retour
 * [Obésité](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/obesite/)
 * [Plan IVG](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/plan-ivg)
 * [Prise en charge du sepsis](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/article/prevention-et-prise-en-charge-du-sepsis)
-* [Psychiatrie](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/projet-territorial-de-sante-mentale/article/les-ptsm-en-region)
+* [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
 * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
 
 * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
