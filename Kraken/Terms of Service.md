@@ -30,9 +30,6 @@
 
 Get the Kraken app
 
-* [Log in](https://www.kraken.com/sign-in)
-* [Sign up](https://www.kraken.com/sign-up)
-
 Don't invest unless you're prepared to lose all the money you invest. This is a high-risk investment and you should not expect to be protected if something goes wrong. [Take 2 minutes to learn more](https://www.kraken.com/legal/uk/disclaimer).
 
 [](https://www.kraken.com/)
@@ -111,25 +108,9 @@ Don't invest unless you're prepared to lose all the money you invest. This is a 
 
 Get the Kraken app
 
-* [Log in](https://www.kraken.com/sign-in)
-* [Sign up](https://www.kraken.com/sign-up)
-
-* [Log in](https://www.kraken.com/sign-in)
-* [Sign up](https://www.kraken.com/sign-up)
-
-* [Sign up](https://www.kraken.com/sign-up)
-
 [](https://www.kraken.com/)
 
 Get the Kraken app
-
-* [Log in](https://www.kraken.com/sign-in)
-* [Sign up](https://www.kraken.com/sign-up)
-
-* [Log in](https://www.kraken.com/sign-in)
-* [Sign up](https://www.kraken.com/sign-up)
-
-* [Sign up](https://www.kraken.com/sign-up)
 
 * [Explore](#)
     
@@ -209,9 +190,6 @@ Our commitment to transparency](https://www.kraken.com/proof-of-reserves)[![Flex
 Flexible funding options
 
 Cash, cards, crypto and more](https://www.kraken.com/features/funding-options)
-
-* [Log in](https://www.kraken.com/sign-in)
-* [Sign up](https://www.kraken.com/sign-up)
 
 English
 
