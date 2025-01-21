@@ -1,4 +1,4 @@
-[Order by phone](https://www.ikea.com/ie/en/customer-service/shopping-at-ikea/personalised-shopping-assistance-over-the-phone-pub93f14e60/?itm_content=Menu&itm_element=Prop&itm_campaign=Nav_Phone)
+[IKEA FAMILY members: Free small standard parcel delivery when you spend €65 or more](https://www.ikea.com/ie/en/customer-service/services/delivery/#18fc4069-0a57-11ec-912c-d5190c7baa2c)
 
 Cookie Policy
 =============
