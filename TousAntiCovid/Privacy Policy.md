@@ -210,7 +210,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -446,7 +446,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -980,7 +980,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -1216,7 +1216,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -1722,7 +1722,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -1958,7 +1958,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -2402,7 +2402,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -2796,7 +2796,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -3190,7 +3190,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -3584,7 +3584,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -3978,7 +3978,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -4372,7 +4372,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -4656,7 +4656,7 @@ Retour
 * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
 * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
 
-* [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+* [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
 * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
 * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
 
@@ -4831,7 +4831,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -5065,7 +5065,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -5299,7 +5299,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -5533,7 +5533,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -5767,7 +5767,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -6001,7 +6001,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -6235,7 +6235,7 @@ Recherche
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
-            * [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+            * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             
@@ -6454,7 +6454,7 @@ Retour
 * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
 * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
 
-* [Une politique nationale volontariste en faveur de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
+* [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
 * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
 * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
 
