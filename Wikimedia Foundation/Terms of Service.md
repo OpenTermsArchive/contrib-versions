@@ -61,7 +61,7 @@ Other languages:
 
 * [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "Policy:Terms of Use/af (6% translated)")
 * [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Policy:Terms of Use/id (49% translated)")
-* [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ms "Policy:Terms of Use/ms (3% translated)")
+* [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ms "Policy:Terms of Use/ms (7% translated)")
 * [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cy "Policy:Terms of Use/cy (5% translated)")
 * [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Policy:Terms of Use/de (100% translated)")
 * [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-formal "Policy:Terms of Use/de-formal (100% translated)")
@@ -121,7 +121,7 @@ Other languages:
 * [čeština](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs "Policy:Terms of Use/cs (100% translated)")
 * [Ελληνικά](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/el "Policy:Terms of Use/el (100% translated)")
 * [башҡортса](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ba "Policy:Terms of Use/ba (6% translated)")
-* [беларуская](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be "Policy:Terms of Use/be (18% translated)")
+* [беларуская](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be "Policy:Terms of Use/be (19% translated)")
 * [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be-tarask "Policy:Terms of Use/be-tarask (61% translated)")
 * [български](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bg "Policy:Terms of Use/bg (100% translated)")
 * [гӀалгӀай](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/inh "Policy:Terms of Use/inh (0% translated)")
