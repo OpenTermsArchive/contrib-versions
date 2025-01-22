@@ -6,9 +6,11 @@ Google Publisher Policies
 
 [](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
 
-**(August 12, 2024)** Due to ongoing developments in Russia, we are pausing the ability of Russia-based publishers to monetize with AdSense, AdMob, and Ad Manager.
+**(January 22, 2025)** While we will continue to pause AdMob campaigns and AdMob Network (Google demand & third-party bidding sources) from serving to users located in Russia, AdMob publishers can now manage how their chosen third-party waterfall mediation ad sources serve ads in that region.
 
-**(March 23, 2022)** Due to the war in Ukraine, we will pause monetization of content that exploits, dismisses, or condones the war.
+**(December 13, 2024)** Google will stop new account signups in Belarus and pause monetization for Belarus-based AdSense, AdMob, and Ad Manager accounts.
+
+**(August 12, 2024)** Due to ongoing developments in Russia, we are pausing the ability of Russia-based publishers to monetize with AdSense, AdMob, and Ad Manager.
 
 **(March 10, 2022)** Given the recent suspension of Google advertising systems in Russia, we’ll be pausing the creation of new Russian accounts on AdSense, AdMob, and Google Ad Manager. Additionally, we will pause ads on Google properties and networks globally for advertisers based in Russia.
 
