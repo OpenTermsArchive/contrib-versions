@@ -648,18 +648,18 @@ Recherche
 * TousAntiCovid
 
 TousAntiCovid
-=============
+-------------
 
 publié le22.12.22 mise à jour12.10.23
 
-* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#)
-* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#)
-* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Imprimer")
+* Augmenter la taille du texte
+* Diminuer la taille du texte
+* Imprimer
 
 * [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
 * [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
-* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
+* [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
 La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1418,18 +1418,18 @@ Recherche
 * TousAntiCovid
 
 TousAntiCovid
-=============
+-------------
 
 publié le22.12.22 mise à jour12.10.23
 
-* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#)
-* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#)
-* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Imprimer")
+* Augmenter la taille du texte
+* Diminuer la taille du texte
+* Imprimer
 
 * [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
 * [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
-* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
+* [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
 La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -6595,18 +6595,18 @@ Retour
 * TousAntiCovid
 
 TousAntiCovid
-=============
+-------------
 
 publié le22.12.22 mise à jour12.10.23
 
-* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#)
-* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#)
-* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Imprimer")
+* Augmenter la taille du texte
+* Diminuer la taille du texte
+* Imprimer
 
 * [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
 * [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
-* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
+* [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
 La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -6688,18 +6688,18 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 [](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#0 "Haut de page")
 
 TousAntiCovid
-=============
+-------------
 
 publié le22.12.22 mise à jour12.10.23
 
-* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#)
-* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#)
-* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Imprimer")
+* Augmenter la taille du texte
+* Diminuer la taille du texte
+* Imprimer
 
 * [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
 * [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
-* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
+* [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
 La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -6781,18 +6781,18 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 [](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#0 "Haut de page")
 
 TousAntiCovid
-=============
+-------------
 
 publié le22.12.22 mise à jour12.10.23
 
-* [Augmenter la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#)
-* [Diminuer la taille du texte](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#)
-* [Imprimer](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Imprimer")
+* Augmenter la taille du texte
+* Diminuer la taille du texte
+* Imprimer
 
 * [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
 * [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
-* [![Linkedin](/plugins/site/squelettes/mass_squelette/v1/images/linkedin.png)Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
+* [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
 La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -6872,7 +6872,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 TousAntiCovid
-=============
+-------------
 
 publié le22.12.22 mise à jour12.10.23
 
