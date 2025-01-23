@@ -1,4 +1,4 @@
-[Order by phone](https://www.ikea.com/ie/en/customer-service/shopping-at-ikea/personalised-shopping-assistance-over-the-phone-pub93f14e60/?itm_content=Menu&itm_element=Prop&itm_campaign=Nav_Phone)
+[Click today and collect in-store same day, for free. Or, collect from your local pick-up point from €2.95](https://www.ikea.com/ie/en/customer-service/services/click-collect/collect-from-partner-locations-pubb89b7800/?itm_content=Prop&itm_element=Banner&itm_campaign=prop_banner_collect_partner_location)
 
 Cookie Policy
 =============
