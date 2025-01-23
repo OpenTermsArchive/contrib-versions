@@ -497,7 +497,7 @@ Use of Cookies etc. for service improvement and analysis purposes
 
 On our website, we transmit IP addresses, access history, device and application information, network information, and other data to data collection and analysis service providers for the purpose of improving the convenience and quality of the website and maintaining its quality.
 
-If you wish to opt-out, please carry out the procedures after confirming the opt-out page of [the relevant company](https://policies.pixiv.net/ja/cookie.html#analysis) and the “Disabling cookies etc.” section of this Privacy Policy.
+If you wish to opt-out, please carry out the procedures after confirming the opt-out page of [the relevant company](https://policies.pixiv.net/en/cookie.html#analysis) and the “Disabling cookies etc.” section of this Privacy Policy.
 
 Use of Cookies etc. for advertising purposes
 --------------------------------------------
@@ -506,14 +506,14 @@ In order to optimize our delivery of advertisements by, we analyze User activity
 
 Further, Our Services may deliver targeted advertisements using cookies, ad identifiers, etc., from the servers of ad-serving providers contracted by us. In such cases, the ad-serving provider will manage such Cookies etc. in accordance with its own privacy policy.
 
-Please check each company’s privacy policy [<here>](https://policies.pixiv.net/ja/cookie.html)
+Please check each company’s privacy policy [<here>](https://policies.pixiv.net/en/cookie.html)
 
 If you wish to opt-out, please carry out the procedures after confirming the opt-out page of the relevant ad-serving provider and the “Disabling cookies etc.” section of this Privacy Policy.
 
 Use of Cookies etc. for the purpose of conducting surveys
 ---------------------------------------------------------
 
-When we conduct a survey, we send Cookies etc., which do not contain Personal Information, to the company that provides the survey service. If you wish to opt-out, please carry out the procedures after confirming the opt-out page of [the relevant company](https://policies.pixiv.net/ja/cookie.html#survey) and the “Disabling cookies etc.” section of this Privacy Policy.
+When we conduct a survey, we send Cookies etc., which do not contain Personal Information, to the company that provides the survey service. If you wish to opt-out, please carry out the procedures after confirming the opt-out page of [the relevant company](https://policies.pixiv.net/en/cookie.html#survey) and the “Disabling cookies etc.” section of this Privacy Policy.
 
 About Google Analytics
 ----------------------
