@@ -1,11 +1,3 @@
-Breadcrumb
-----------
-
-1. Privacy Policy
-
-Privacy Policy
-==============
-
 Effective Date: September 29, 2023
 
 This Policy describes how we treat personal information on the websites where it is located. This Policy does not apply to other Coolmath.com, LLC websites or apps, such as Coolmath.com or CoolmathGames.com.
