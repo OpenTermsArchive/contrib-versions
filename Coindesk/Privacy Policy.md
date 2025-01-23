@@ -50,7 +50,7 @@
     
     * [The Node](https://www.coindesk.com/newsletters/the-node)
         
-    * [First Mover](https://www.coindesk.com/newsletters/first-mover)
+    * [Crypto Daybook Americas](https://www.coindesk.com/newsletters/daybook-us)
         
     * [State of Crypto](https://www.coindesk.com/newsletters/state-of-crypto)
         
@@ -97,98 +97,107 @@
 * [Webinars](https://events.coindesk.com/)
     
 
-[Log In / Create Account](https://www.coindesk.com/api/auth/login)
+[Log In / Create Account](https://www.coindesk.com/api/auth/login?returnTo=/privacy)
+
+en
+
+Select Language
+
+[English en](https://www.coindesk.com/privacy)[Español es](https://www.coindesk.com/es/privacy)[Filipino fil](https://www.coindesk.com/fil/privacy)[Français fr](https://www.coindesk.com/fr/privacy)[Italiano it](https://www.coindesk.com/it/privacy)[Português pt-br](https://www.coindesk.com/pt-br/privacy)[Русский ru](https://www.coindesk.com/ru/privacy)[Українська uk](https://www.coindesk.com/uk/privacy)
 
 * [Prices](https://www.coindesk.com/price)
 * [Indices](https://indices.coindesk.com/indices)
 * [Consensus](https://consensus.coindesk.com/)
 
-[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-pb83nr96z-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75&dpl=dpl_5mo8FdrR9AnqJ1cbVy9iRSYB385Y)](https://www.coindesk.com/)
+[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-65p5tgvsg-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75)](https://www.coindesk.com/)
 
 * [Sponsored](https://www.coindesk.com/sponsored-content)
-* [Sign Up](https://www.coindesk.com/api/auth/login?returnTo=/privacy)
+
+en
+
+* [Sign Up](https://www.coindesk.com/api/auth/login?returnTo=https%3A%2F%2Fwww.coindesk.com%2Fprivacy)
 
 [BTC
 
-104,526.13
+102,564.96
 
-\-1.70%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
+\-3.00%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
 
-3,290.14
+3,212.70
 
-\-1.94%](https://www.coindesk.com/price/ethereum "View price details")[XRP
+\-3.12%](https://www.coindesk.com/price/ethereum "View price details")[XRP
 
-3.21
+3.15
 
-\-1.09%](https://www.coindesk.com/price/xrp "View price details")[USDT
+\-0.76%](https://www.coindesk.com/price/xrp "View price details")[USDT
 
-0.99994421
+0.99937230
 
-+0.01%](https://www.coindesk.com/price/tether "View price details")[SOL
+\-0.06%](https://www.coindesk.com/price/tether "View price details")[SOL
 
-260.49
+249.75
 
-+4.49%](https://www.coindesk.com/price/solana "View price details")[BNB
+\-2.49%](https://www.coindesk.com/price/solana "View price details")[BNB
 
-696.48
+685.80
 
-\-0.06%](https://www.coindesk.com/price/binance-coin "View price details")[DOGE
+\-1.88%](https://www.coindesk.com/price/binance-coin "View price details")[DOGE
 
-0.36502117
+0.35333239
 
-\-5.31%](https://www.coindesk.com/price/dogecoin "View price details")[USDC
+\-4.24%](https://www.coindesk.com/price/dogecoin "View price details")[USDC
 
-1.00
+0.99999307
 
 \-0.01%](https://www.coindesk.com/price/usd-coin "View price details")[ADA
 
-1.00
+0.96929512
 
-\-1.55%](https://www.coindesk.com/price/cardano "View price details")[TRX
+\-2.78%](https://www.coindesk.com/price/cardano "View price details")[TRX
 
-0.25860850
+0.24868704
 
-+5.64%](https://www.coindesk.com/price/tron "View price details")[LINK
+\-0.35%](https://www.coindesk.com/price/tron "View price details")[LINK
 
-25.73
+24.73
 
-\-3.65%](https://www.coindesk.com/price/chainlink "View price details")[AVAX
+\-4.87%](https://www.coindesk.com/price/chainlink "View price details")[AVAX
 
-37.53
+35.78
 
-+0.55%](https://www.coindesk.com/price/avax "View price details")[SUI
+\-3.15%](https://www.coindesk.com/price/avax "View price details")[SUI
 
-4.63
+4.43
 
-\-0.77%](https://www.coindesk.com/price/sui "View price details")[WBTC
+\-5.53%](https://www.coindesk.com/price/sui "View price details")[WBTC
 
-104,438.97
+102,498.46
 
-\-1.31%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[XLM
+\-2.79%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[XLM
 
-0.43726509
+0.42302581
 
-\-3.25%](https://www.coindesk.com/price/xlm "View price details")[TON
+\-2.17%](https://www.coindesk.com/price/xlm "View price details")[TON
 
-5.32
+5.18
 
-+2.07%](https://www.coindesk.com/price/toncoin "View price details")[HBAR
+\-0.87%](https://www.coindesk.com/price/toncoin "View price details")[HBAR
 
-0.32939368
+0.31892908
 
-\-4.81%](https://www.coindesk.com/price/hbar "View price details")[SHIB
+\-3.48%](https://www.coindesk.com/price/hbar "View price details")[SHIB
 
-0.0₄20588
+0.0₄20095
 
-\-3.72%](https://www.coindesk.com/price/shiba-inu "View price details")[LTC
+\-2.83%](https://www.coindesk.com/price/shiba-inu "View price details")[LEO
 
-117.08
+9.54
 
-\-4.00%](https://www.coindesk.com/price/ltc "View price details")[BCH
+\-0.12%](https://www.coindesk.com/price/unus-sed-leo "View price details")[BCH
 
-445.89
+432.30
 
-\-1.01%](https://www.coindesk.com/price/bitcoin-cash "View price details")
+\-3.51%](https://www.coindesk.com/price/bitcoin-cash "View price details")
 
 Privacy
 =======
@@ -359,7 +368,7 @@ All rights reserved.
 
 * * *
 
-ABOUT
+About
 
 * [About Us](https://www.coindesk.com/about)
 * [Masthead](https://www.coindesk.com/masthead)
@@ -369,7 +378,7 @@ ABOUT
 
 * * *
 
-CONTACT
+Contact
 
 * [Contact Us](https://www.coindesk.com/contact-us)
 * [Accessibility](https://www.coindesk.com/accessibility-help)
@@ -378,22 +387,20 @@ CONTACT
 
 * * *
 
-POLICIES
+Policies
 
 * [Ethics](https://www.coindesk.com/ethics)
 * [Privacy](https://www.coindesk.com/privacy)
 * [Terms of Use](https://www.coindesk.com/terms)
 * Cookie Consent
-* [Do Not Sell My Info](https://www.coindesk.com/privacy#dnsmpi)
+* [Do not sell my info](https://www.coindesk.com/privacy#dnsmpi)
 
 * * *
 
-DISCLOSURE
+Disclosure
 
 Please note that our [privacy policy](https://www.coindesk.com/privacy), [terms of use](https://www.coindesk.com/terms), [cookies](https://www.coindesk.com/privacy#cookies), and [do not sell my personal information](https://www.coindesk.com/privacy#dnsmpi) have been updated.  
   
 CoinDesk is an [award-winning](https://www.coindesk.com/business/2023/02/20/coindesk-wins-a-polk-award-a-top-journalism-prize-for-explosive-ftx-coverage) media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of [editorial policies](https://www.coindesk.com/ethics). CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of the Bullish group, which owns and invests in digital asset businesses and digital assets. CoinDesk employees, including journalists, may receive Bullish group equity-based compensation. Bullish was incubated by technology investor Block.one.
 
-© 2024 CoinDesk
-
-[Markets](https://www.coindesk.com/es/markets)[Finance](https://www.coindesk.com/es/business)[Tech](https://www.coindesk.com/es/tech)[Policy](https://www.coindesk.com/es/policy)[Price](https://www.coindesk.com/es/price)[Latest Crypto news](https://www.coindesk.com/es/latest-crypto-news)[Advertise](https://www.coindesk.com/es/advertise)[About](https://www.coindesk.com/es/about)[Masthead](https://www.coindesk.com/es/masthead)[News Analysis](https://www.coindesk.com/es/news-analisys)[Consensus Magazine](https://www.coindesk.com/es/consensus-magazine)[Consensus Magazine](https://www.coindesk.com/es/layer2)[Focus](https://www.coindesk.com/es/focus)[Web3](https://www.coindesk.com/es/web3)[Opinion](https://www.coindesk.com/es/opinion)[Learn](https://www.coindesk.com/es/learn)[Press Release](https://www.coindesk.com/es/press-release)[Sponsored Content](https://www.coindesk.com/es/sponsored-content)[Newsletters](https://www.coindesk.com/es/newsletters)[Coindesk News](https://www.coindesk.com/es/coindesk-news)[Markets](https://www.coindesk.com/pt-br/markets)[Finance](https://www.coindesk.com/pt-br/business)[Tech](https://www.coindesk.com/pt-br/tech)[Policy](https://www.coindesk.com/pt-br/policy)[Price](https://www.coindesk.com/pt-br/price)[Latest Crypto news](https://www.coindesk.com/pt-br/latest-crypto-news)[Advertise](https://www.coindesk.com/pt-br/advertise)[About](https://www.coindesk.com/pt-br/about)[Masthead](https://www.coindesk.com/pt-br/masthead)[News Analysis](https://www.coindesk.com/pt-br/news-analisys)[Consensus Magazine](https://www.coindesk.com/pt-br/consensus-magazine)[Consensus Magazine](https://www.coindesk.com/pt-br/layer2)[Focus](https://www.coindesk.com/pt-br/focus)[Web3](https://www.coindesk.com/pt-br/web3)[Opinion](https://www.coindesk.com/pt-br/opinion)[Learn](https://www.coindesk.com/pt-br/learn)[Press Release](https://www.coindesk.com/pt-br/press-release)[Sponsored Content](https://www.coindesk.com/pt-br/sponsored-content)[Newsletters](https://www.coindesk.com/pt-br/newsletters)[Coindesk News](https://www.coindesk.com/pt-br/coindesk-news)[Markets](https://www.coindesk.com/it/markets)[Finance](https://www.coindesk.com/it/business)[Tech](https://www.coindesk.com/it/tech)[Policy](https://www.coindesk.com/it/policy)[Price](https://www.coindesk.com/it/price)[Latest Crypto news](https://www.coindesk.com/it/latest-crypto-news)[Advertise](https://www.coindesk.com/it/advertise)[About](https://www.coindesk.com/it/about)[Masthead](https://www.coindesk.com/it/masthead)[News Analysis](https://www.coindesk.com/it/news-analisys)[Consensus Magazine](https://www.coindesk.com/it/consensus-magazine)[Consensus Magazine](https://www.coindesk.com/it/layer2)[Focus](https://www.coindesk.com/it/focus)[Web3](https://www.coindesk.com/it/web3)[Opinion](https://www.coindesk.com/it/opinion)[Learn](https://www.coindesk.com/it/learn)[Press Release](https://www.coindesk.com/it/press-release)[Sponsored Content](https://www.coindesk.com/it/sponsored-content)[Newsletters](https://www.coindesk.com/it/newsletters)[Coindesk News](https://www.coindesk.com/it/coindesk-news)[Markets](https://www.coindesk.com/fr/markets)[Finance](https://www.coindesk.com/fr/business)[Tech](https://www.coindesk.com/fr/tech)[Policy](https://www.coindesk.com/fr/policy)[Price](https://www.coindesk.com/fr/price)[Latest Crypto news](https://www.coindesk.com/fr/latest-crypto-news)[Advertise](https://www.coindesk.com/fr/advertise)[About](https://www.coindesk.com/fr/about)[Masthead](https://www.coindesk.com/fr/masthead)[News Analysis](https://www.coindesk.com/fr/news-analisys)[Consensus Magazine](https://www.coindesk.com/fr/consensus-magazine)[Consensus Magazine](https://www.coindesk.com/fr/layer2)[Focus](https://www.coindesk.com/fr/focus)[Web3](https://www.coindesk.com/fr/web3)[Opinion](https://www.coindesk.com/fr/opinion)[Learn](https://www.coindesk.com/fr/learn)[Press Release](https://www.coindesk.com/fr/press-release)[Sponsored Content](https://www.coindesk.com/fr/sponsored-content)[Newsletters](https://www.coindesk.com/fr/newsletters)[Coindesk News](https://www.coindesk.com/fr/coindesk-news)[Markets](https://www.coindesk.com/uk/markets)[Finance](https://www.coindesk.com/uk/business)[Tech](https://www.coindesk.com/uk/tech)[Policy](https://www.coindesk.com/uk/policy)[Price](https://www.coindesk.com/uk/price)[Latest Crypto news](https://www.coindesk.com/uk/latest-crypto-news)[Advertise](https://www.coindesk.com/uk/advertise)[About](https://www.coindesk.com/uk/about)[Masthead](https://www.coindesk.com/uk/masthead)[News Analysis](https://www.coindesk.com/uk/news-analisys)[Consensus Magazine](https://www.coindesk.com/uk/consensus-magazine)[Consensus Magazine](https://www.coindesk.com/uk/layer2)[Focus](https://www.coindesk.com/uk/focus)[Web3](https://www.coindesk.com/uk/web3)[Opinion](https://www.coindesk.com/uk/opinion)[Learn](https://www.coindesk.com/uk/learn)[Press Release](https://www.coindesk.com/uk/press-release)[Sponsored Content](https://www.coindesk.com/uk/sponsored-content)[Newsletters](https://www.coindesk.com/uk/newsletters)[Coindesk News](https://www.coindesk.com/uk/coindesk-news)[Markets](https://www.coindesk.com/ru/markets)[Finance](https://www.coindesk.com/ru/business)[Tech](https://www.coindesk.com/ru/tech)[Policy](https://www.coindesk.com/ru/policy)[Price](https://www.coindesk.com/ru/price)[Latest Crypto news](https://www.coindesk.com/ru/latest-crypto-news)[Advertise](https://www.coindesk.com/ru/advertise)[About](https://www.coindesk.com/ru/about)[Masthead](https://www.coindesk.com/ru/masthead)[News Analysis](https://www.coindesk.com/ru/news-analisys)[Consensus Magazine](https://www.coindesk.com/ru/consensus-magazine)[Consensus Magazine](https://www.coindesk.com/ru/layer2)[Focus](https://www.coindesk.com/ru/focus)[Web3](https://www.coindesk.com/ru/web3)[Opinion](https://www.coindesk.com/ru/opinion)[Learn](https://www.coindesk.com/ru/learn)[Press Release](https://www.coindesk.com/ru/press-release)[Sponsored Content](https://www.coindesk.com/ru/sponsored-content)[Newsletters](https://www.coindesk.com/ru/newsletters)[Coindesk News](https://www.coindesk.com/ru/coindesk-news)[Markets](https://www.coindesk.com/fil/markets)[Finance](https://www.coindesk.com/fil/business)[Tech](https://www.coindesk.com/fil/tech)[Policy](https://www.coindesk.com/fil/policy)[Price](https://www.coindesk.com/fil/price)[Latest Crypto news](https://www.coindesk.com/fil/latest-crypto-news)[Advertise](https://www.coindesk.com/fil/advertise)[About](https://www.coindesk.com/fil/about)[Masthead](https://www.coindesk.com/fil/masthead)[News Analysis](https://www.coindesk.com/fil/news-analisys)[Consensus Magazine](https://www.coindesk.com/fil/consensus-magazine)[Consensus Magazine](https://www.coindesk.com/fil/layer2)[Focus](https://www.coindesk.com/fil/focus)[Web3](https://www.coindesk.com/fil/web3)[Opinion](https://www.coindesk.com/fil/opinion)[Learn](https://www.coindesk.com/fil/learn)[Press Release](https://www.coindesk.com/fil/press-release)[Sponsored Content](https://www.coindesk.com/fil/sponsored-content)[Newsletters](https://www.coindesk.com/fil/newsletters)[Coindesk News](https://www.coindesk.com/fil/coindesk-news)
+© 2025 CoinDesk
