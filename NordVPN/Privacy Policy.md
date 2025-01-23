@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last updated: November 18, 2024
+Last updated: January 23, 2025
 
 This document (“**Privacy Policy**”) explains the privacy rules applicable to personal data and other information collected or submitted when you access, install, or use Nord Services and Websites regardless of the device (computer, mobile phone, tablet, etc.) you use.
 
@@ -139,21 +139,25 @@ Please note that there are various data protection laws across different jurisdi
 
 **Rectification.** If you’d like to edit your profile information (e.g., change your email address, add additional username), please contact our support team at [support@nordaccount.com](mailto:support@nordaccount.com).
 
-**Access/Deletion.** If you wish to delete your Account or your personal data that we process, or request to provide you with a copy of your personal data, please contact us at [privacy@nordaccount.com](mailto:privacy@nordaccount.com).
+**Access.** If you wish to make an access request to provide you with a copy of your personal data, please contact us at [privacy@nordaccount.com](mailto:privacy@nordaccount.com). Please note that you will need to pass through the Account verification process so that we can verify you are the owner of the Account before taking further action on your request.
 
-Please note that you will need to pass through the Account verification process so that we can verify you are the owner of the Account before taking further action on your request.
+**Deletion.** You can delete your account at any time from your Nord Account. Log in to your Account, navigate to “Account settings” and in the “Account deletion” section click the “Delete account” button. We will ask you to verify this request via email.
 
-Additionally, you may delete your Nord Account for different Nord products as described below. To initiate deletion, please follow these steps and our support team will follow up with your request shortly:
+Please note that in certain circumstances, additional steps may be required before your Account can be deleted. For example, this may apply if your subscription was purchased via the Apple App Store or if your account is associated with Nord’s business account.
 
-* **NordVPN Account via NordVPN app on iPhone**: open the NordVPN app and log into your Account, tap on the Profile icon, tap “Contact Us”, select “Request account deletion”, type in “Please delete my account”, and tap “SEND”.
+If you are unable to delete your account following the steps provided on Nord Account, please contact us at [support@nordaccount.com](mailto:support@nordaccount.com) for further assistance.
+
+Additionally, you may also delete your Account in our applications. To initiate deletion, please follow these steps:
+
+* **Nord Account via NordVPN application on mobile devices**: open the NordVPN app and log into your Account. Tap on the profile icon on the bottom right corner. After that tap “Help Center” tab and you will see a list of options. Choose “Contact us” and select “Request account deletion”. Please note that this action is permanent and you will lose access to all of your services purchased. Tap “Continue” and we will take you to your NordAccount to complete the process.
     
-* **NordVPN Account via NordVPN desktop app on Mac**: open the NordVPN app and log into your Account, click on “Help” and select “Email Support”; on our “Contact Us” form select “Request account deletion”, type in “Please delete my account”, and click “SEND”.
+* **Nord Account via NordVPN desktop app on Mac**: open the NordVPN app and log into your Account, click on “Help” and select “Email Support”; on our “Contact Us” form select “Request account deletion”, type in “Please delete my account”, and click “SEND”.
     
-* **NordPass Account via NordPass app on mobile devices**: open the NordPass app and log in to your Account, click on “Menu” icon at the bottom right of the window, tap the “Delete Account” option, and confirm by pressing “Submit Delete Request”; you will receive an email from NordAccount customer support to verify your identity and proceed with the Account Removal process.
+* **Nord Account via NordPass app on mobile devices**: open the NordPass app and log in to your Account, click on “Menu” icon at the bottom right of the window, tap the “Delete Account” option, and confirm by pressing “Submit Delete Request”; you will receive an email from NordAccount customer support to verify your identity and proceed with the Account Removal process.
     
-* **NordPass Account via NordPass desktop application**: open the NordPass app and log in to your Account, click on “Settings”, click the “Delete Account” option, and confirm by pressing “Submit Delete Request”; then, you will receive an email from NordAccount customer support to verify your identity and proceed with the Account Removal process.
+* **Nord Account via NordPass desktop application**: open the NordPass app and log in to your Account, click on “Settings”, click the “Delete Account” option, and confirm by pressing “Submit Delete Request”; then, you will receive an email from NordAccount customer support to verify your identity and proceed with the Account Removal process.
     
-* **NordLocker Account via NordLocker app**: open the NordLocker app and log in to your Account, click on “Settings” icon, tap the “Delete account”; you will be directed to a new page on your mobile browser, click “Submit a request” at the top right corner, type in a message saying that you wish to remove your Account and indicate the email address your Account is registered with.
+* **Nord Account via NordLocker app**: open the NordLocker app and log in to your Account, click on “Settings” icon, tap the “Delete account”; you will be directed to a new page on your mobile browser, click “Submit a request” at the top right corner, type in a message saying that you wish to remove your Account and indicate the email address your Account is registered with.
     
 
 **Nord's Obligations on Termination.** Upon expiration or termination of your Account and/or Subscription, Nord will immediately cease processing information that’s associated with you. However, please note that there might be cases when we retain information associated with you after expiration or termination of your Account and/or Subscription: (i) all Nord products' databases are connected; after expiration or termination of your Account, basic information (such as your email address) would still be visible in our system in case you have another existing Account associated with a different Nord product (e.g., if we delete your NordPass Account, your email address would still be visible in our system if you have a NordVPN or NordLocker Account). In order to delete all of your data, we would need to delete all of your Accounts associated with different Nord products (in order to do so, please contact our support team); (ii) Nord also may retain information associated with you (e.g., payments data) in order to fulfill its obligations as required by applicable laws, regulations, court orders, subpoenas, or other legal processes for archival purposes.
