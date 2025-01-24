@@ -111,6 +111,10 @@ You accept this Agreement and agree to its terms by activating the Services, usi
         
         We may require you to pay a refundable deposit when you activate the Services, add Services, or fail to pay any amounts when they are due. Subject to applicable law, your deposit will be credited to your account (without interest) if your account remains in good standing for twelve (12) months. We may refund your deposit sooner if all of the Services are disconnected. We will provide this refund within thirty (30) days of Service disconnection and the return of all Xfinity Equipment, or within the timeline set by applicable law. Refund amounts are equal to the credit balance on your account, if any, minus any amounts due on your account. Amounts due on your account may include amounts owed for the Services, including for any Xfinity Equipment that is damaged, altered, or subject to an Unreturned Equipment Fee (as defined in Section 7(b) below).
         
+    * **n. How we provide refunds**
+        
+    * If we provide a refund to you, we, in our sole discretion, will choose the manner in which your refund is paid to you, which may include a credit to your account, a virtual prepaid card, plastic prepaid card, check or other method.  We will provide more information on the method of providing your refund when we send it to you.
+        
 4. ### CHANGES TO SERVICES, RATES, CHARGES, AND THIS AGREEMENT
     
     * **a. Changes to Services, Rates, and Charges**
