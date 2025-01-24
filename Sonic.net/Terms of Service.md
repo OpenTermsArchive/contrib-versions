@@ -1,8 +1,8 @@
 Sonic.net Policies
 ==================
 
-1\. Sonic.net, LLC. General Policy
-==================================
+[Sonic.net](https://www.sonic.com/), LLC. General Policy
+========================================================
 
 By opening an account with [Sonic.net](https://www.sonic.com/), LLC you agree to abide by all policies of [Sonic.net](https://www.sonic.com/), LLC. These policies apply to all users of [Sonic.net](https://www.sonic.com/), LLC without exception; failure to adhere to the stated policies may result in termination of the account at the discretion of [Sonic.net](https://www.sonic.com/), LLC. [Sonic.net](https://www.sonic.com/), LLC. reserves the right to change policies, services, and pricing. Your continued use of an account signifies acceptance of any and all policies and policy changes, and you may cancel if you do not agree with changes in policy, service, or pricing. [Sonic.net](http://sonic.net/), LLC reserves the right to refuse to provide service to anyone.
 
@@ -23,8 +23,8 @@ By opening an account with [Sonic.net](https://www.sonic.com/), LLC you agree to
 
 [Sonic.net](https://www.sonic.com/), LLC will not otherwise disclose any private information about its customers to any other third party.
 
-2\. Acceptable Use Policy
-=========================
+Acceptable Use Policy
+=====================
 
 Any prohibited or illegal activity that affects [Sonic.net](https://www.sonic.com/), LLC, its agents, equipment or customers is punishable to the full extent of the law, and [Sonic.net](https://www.sonic.com/), LLC will hold you responsible for any damage caused by your actions, whether intentional or unintentional. You are strictly prohibited from using your account other than as outlined in this Acceptable Use Policy and will be prosecuted to the full extent of the law if you do so illegally (see Enforcement section). [Sonic.net](https://www.sonic.com/), LLC makes no exceptions in enforcing this policy. [Sonic.net](https://www.sonic.com/), LLC functions as a common carrier; our standard policy is to not monitor or interrupt our users' activities, exert editorial control over their content, or censor them or their content. To protect the interests of [Sonic.net](https://www.sonic.com/), LLC and in the best interests of our customers, exceptions to this policy may be made under certain specific circumstances including but not limited to the following:
 
@@ -53,8 +53,8 @@ Use of [Sonic.net](https://www.sonic.com/), LLC accounts or services for orches
 
 [Sonic.net](https://www.sonic.com/), LLC customers must also comply with the acceptable use policies of our upstream providers, UUNET ([http://www.uu.net](http://www.uu.net/)) and Cable and Wireless ( [http://www.cw.com](http://www.cw.com/))
 
-2.1. Support
-------------
+Support
+-------
 
 Sonic is proud to provide personal support from a knowledgeable, friendly, and local support team. Sonic support agents approach all interactions with respect and patience, and we ask that our customers do the same. Abuse or harassment of support agents will not be tolerated and will be subject to termination of service.
 
@@ -70,13 +70,13 @@ Sonic voice and fax services may not be utilized for the following: Auto-diali
 
 [Sonic.net](https://www.sonic.com/), LLC functions as a common carrier and does not censor. Material can be found on the Internet or in Usenet news groups, etc., that some viewers may find objectionable; [Sonic.net](https://www.sonic.com/), LLC is not responsible for any content available via [Sonic.net](https://www.sonic.com/), LLC accounts or services. Any limitation of access to content is at all times the responsibility of the account holder and [Sonic.net](https://www.sonic.com/), LLC shall not be held responsible for access to material that an account holder deems inappropriate. We suggest that minors be supervised.
 
-3\. Accountability
-==================
+Accountability
+==============
 
 The owner of any type of [Sonic.net](https://www.sonic.com/), LLC account or service will be held responsible for any abuse of that account or service, regardless of whether the owner was the actual initiator of the abuse. This includes for example but is not limited to: abuse of an email account or dial-up add-on which is part of a customer's account but which is used by a third party or abuse of a co-located server or co-location services by a third party, with or without the account owner's permission.
 
-4\. Enforcement and remedy:
-===========================
+Enforcement and remedy:
+=======================
 
 Violation of any terms set forth in this Acceptable Use Policy may result in one or more of the following, at the discretion of [Sonic.net](https://www.sonic.com/), LLC:
 
@@ -88,23 +88,23 @@ Violation of any terms set forth in this Acceptable Use Policy may result in one
 
 If any activities or security problems involving a [Sonic.net](https://www.sonic.com/), LLC account or [Sonic.net](https://www.sonic.com/), LLC customer's services cause network outages, the owner of the account or service will be billed for network down-time. Any account owner whose account is terminated for violation of the terms set forth in this Acceptable Use Policy will be required to pay any outstanding balances due, including any and all early termination fees. In instances where it is necessary to terminate a customer's account, an administrative disconnect fee may also be applied. [Sonic.net](https://www.sonic.com/), LLC will normally attempt to contact any user in violation of this Acceptable Use Policy before taking action, but depending on the circumstances or the severity of the violation action may be taken without prior notification. In this case, the user will be notified as soon as it is practicable.
 
-5\. No limitation
-=================
+No limitation
+=============
 
 This acceptable use policy in no way limits the rights and remedies of [Sonic.net](https://www.sonic.com/), LLC. At its discretion [Sonic.net](https://www.sonic.com/), LLC may take other actions it deems necessary to protect the integrity of its or other's networks or to recover the costs of operation as pertain to identifying and removing violators of this acceptable use policy.
 
-6\. Dial-up Connection policy
-=============================
+Dial-up Connection policy
+=========================
 
 Dial-up accounts are intended for interactive use by a single individual. [Sonic.net](https://www.sonic.com/), LLC reserves the right to terminate idle connections, that is, connections that have been unused for 15 minutes. Personal accounts are limited to one login at any given time. [Sonic.net](https://www.sonic.com/), LLC provides unlimited Internet access to its dial-up customers. "Unlimited Internet access" is defined as un-metered, on-demand dial-up access; this is different from dedicated ("always-on") access. In order to ensure that dial-up services remain available to all dial-up customers, [Sonic.net](https://www.sonic.com/), LLC reserves the right to terminate any dial-up connection that exceeds twelve consecutive hours duration. [Sonic.net](https://www.sonic.com/), LLC assumes that anyone consistently using a dial-up connection for more than twelve consecutive hours at a time will need dedicated-line access. If you consistently use your dial-up account as a dedicated-line account, you will be billed for it accordingly. Dedicated lines are available for an additional monthly charge. [Sonic.net](https://www.sonic.com/), LLC also offers several high-speed, dedicated ("always on") account types. Please see our sales page at [http://www.sonic.net/sales](http://www.sonic.net/sales) for more information.
 
-7\. WiFi Network Sharing Policy
-===============================
+WiFi Network Sharing Policy
+===========================
 
 For [Sonic.net](https://www.sonic.com/), LLC services where customer premise equipment is provided, owned and managed by [Sonic.net](https://www.sonic.com/), LLC that equipment may be used at some point in the future to provide WiFi access to others. If and when this is offered, it will be secured and separate from your own traffic and your local area network, and would provide limited access to guest users. Your own traffic would have priority. A mechanism for opting out will be provided if and when this feature is launched.
 
-8\. Technical Support Policy
-============================
+Technical Support Policy
+========================
 
 The function of the [Sonic.net](https://www.sonic.com/), LLC technical support staff is to assist customers with initial connection, Internet browser, and email account setup. Support is only available for computers running recent versions of Macintosh or Windows operating systems. [Sonic.net](https://www.sonic.com/), LLC does not offer over-the-phone tech support for issues such as CGI programming, Linux use, your website, or any other issue not directly related to your dialing software or to the basic functions of your web browser and email program. While at its discretion, the support staff may sometimes assist our customers with non-connectivity or non-email issues, any such extra service is strictly 'added value service, and provision of such service does not obligate [Sonic.net](https://www.sonic.com/), LLC to continue to provide such service. [Sonic.net](https://www.sonic.com/), LLC also provides some online discussion groups (web forums) [here](https://forums.sonic.net/); these are an excellent resource, and answers to many questions that lie outside of the [Sonic.net](https://www.sonic.com/), LLC support model may be found in these forums.
 
@@ -116,8 +116,8 @@ You are entitled to free assistance with setting up your connection, an Internet
 
 If you can email, we encourage you to write to [support@sonic.net](mailto:support@sonic.net) for assistance. If you are able to get online and have other questions, the answers may be in our support pages located at [http://www.sonic.net/support/](http://www.sonic.net/support) - we encourage you to check there first. Also, the help files in the program you are using may have the answers to your questions, so please do investigate these resources before calling tech support.
 
-9\. Text Messaging (SMS)
-========================
+Text Messaging (SMS)
+====================
 
 Sonic may send you text messages about your service to your mobile number on file. Any telephone number you have with or provide to Sonic will be eligible to receive text messages.
 
@@ -137,53 +137,53 @@ As always, message and data rates may apply for any messages sent to you from us
 
 If you have any questions regarding privacy, please read our privacy policy: [https://help.sonic.com/hc/en-us/articles/235963988-Sonic-net-Policies#sonic.net,\_llc.\_general\_policy](https://help.sonic.com/hc/en-us/articles/235963988-Sonic-net-Policies#sonic.net,_llc._general_policy "https://help.sonic.com/hc/en-us/articles/235963988-sonic-net-policies#sonic.net,_llc._general_policy")
 
-10\. Bandwidth and Disk use quotas
-==================================
+Bandwidth and Disk use quotas
+=============================
 
 [Sonic.net](https://www.sonic.com/), LLC uses a quota system for controlling customer bandwidth and disk usage. Information and specific details about these quotas can be found [here](https://help.sonic.com/hc/en-us/articles/115000381368-Bandwidth-and-Disk-Quotas "Quotas").
 
-11\. Website Policy
-===================
+[Website Policy](https://help.sonic.com/hc/en-us/articles/235963988#h_01HXFRG1GMSAQQTFJC78C9H1FX)
+=================================================================================================
 
 [Website Policy](https://help.sonic.com/hc/en-us/articles/23381773796887-Website-Policy)
 
-12\. Digital Millennium Copyright Act
-=====================================
+[Digital Millennium Copyright Act](https://help.sonic.com/hc/en-us/articles/236029887-Digital-Millennium-Copyright-Act-DMCA-policy)
+===================================================================================================================================
 
 [Digital Millennium Copyright Act](https://help.sonic.com/hc/en-us/articles/236029887-Digital-Millennium-Copyright-Act-DMCA-policy)
 
-13\. Billing Policy
-===================
+[Billing Policy](https://help.sonic.com/hc/en-us/articles/235502248-Billing-Policy)
+===================================================================================
 
 [Billing Policy](https://help.sonic.com/hc/en-us/articles/236010428-Billing-Policy)
 
-14\. Equipment Policy
-=====================
+[Equipment Policy](https://help.sonic.com/hc/en-us/articles/236030007)
+======================================================================
 
 [Equipment Policy](https://help.sonic.com/hc/en-us/articles/236030007-Equipment-Policy)
 
-15\. Sonic Wire Plan
-====================
+[Sonic Wire Plan](https://help.sonic.com/hc/en-us/articles/235967608-Sonic-Wire-Plan)
+=====================================================================================
 
 [Sonic Wire Plan](https://help.sonic.com/hc/en-us/articles/235967608-Sonic-Wire-Plan)
 
-16\. Legal Process Policy
-=========================
+[Legal Process Policy](https://help.sonic.com/hc/en-us/articles/236030167-Legal-Process-Policy)
+===============================================================================================
 
 [Legal Process Policy](https://help.sonic.com/hc/en-us/articles/236030167-Legal-Process-Policy)
 
-17\. Regulatory
-===============
+Regulatory
+==========
 
 **[CA Tariff - Local Exchange Services](https://help.sonic.com/hc/en-us/articles/115000380368-Local-Exchange-Services "SonicTariff.pdf")**
 
-18\. Force Majeure
-==================
+Force Majeure
+=============
 
 If Sonic is unable to deliver service because of any condition arising out of or caused, directly or indirectly, by circumstances beyond its reasonable control, including, without limitation, natural calamities and other acts of God; war, terrorism, sabotage, riot, or other civil or military disturbance; earthquake, fire, flood, hurricane, tornado, lightning, severe weather, or explosion; national or regional emergency; epidemic or pandemic; strike, lockout, labor stoppage or slowdown, or other industrial disturbance; power outage or failure; equipment or computer malfunction or failure; inability to obtain labor, material, equipment or transportation; change to the federal, state or local regulatory environment that make it impossible or commercially infeasible for Sonic, in Sonic’s sole judgment, to continue to deliver service, such as the discontinuance of the obligation of Incumbent Local Exchange Carriers to offer and provide one or more Unbundled Network Elements, the allowance of price increase(s) for one or more Unbundled Network Elements, and/or changes in the terms and conditions under which Unbundled Network Elements are offered and provided; change to the availability, prices, and/or terms and conditions of services or facilities offered or provided by Sonic’s suppliers and used by Sonic to perform its obligations, that make it impossible or commercially infeasible for Sonic, in Sonic’s sole judgment, to continue to perform such obligations; change to or termination of license or lease agreements, encroachment permits, excavation permits, facilities attachment arrangements, and/or other means by which Sonic deploys its facilities and equipment in public and private rights-of-way and easements, that make it impossible or commercially infeasible for Sonic, in Sonic’s sole judgment, to continue to deliver service; or any other event or circumstance not within Sonic’s reasonable control, whether similar or dissimilar to any of the foregoing, then Sonic may cease delivery of service on a day-to-day basis. Sonic will recommence service as soon as possible after the causes are removed or ceased.
 
-19\. Terms and Conditions of Global Calling
-===========================================
+Terms and Conditions of Global Calling
+======================================
 
 Sonic’s Global Calling feature is for normal residential use only and can’t be used for commercial or other special purposes. Global Calling is subject to reasonable use parameters as determined by Sonic. Customers are liable for all charges incurred from fraudulent use.
 
