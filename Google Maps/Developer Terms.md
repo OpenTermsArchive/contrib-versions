@@ -1590,6 +1590,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Nationaal Georegister - [https://creativecommons.org/publicdomain/mark/1.0/deed.nl](https://creativecommons.org/publicdomain/mark/1.0/deed.nl)
             
+        * Centraal Bureau voor de Statistiek - [https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/gegevens-per-postcode](https://www.cbs.nl/nl-nl/dossier/nederland-regionaal/geografische-data/gegevens-per-postcode)
+            
     45. **New Zealand**
         * © Auckland International Airport Ltd
             
