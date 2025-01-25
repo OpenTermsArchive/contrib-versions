@@ -24,7 +24,7 @@ For additional information, if you are located in California (USA), please also 
 * [PROTECTING YOUR INFORMATION](#protecting-your-information)
 * [CHANGES TO THIS POLICY](#changes-to-this-policy)
 * [CONTACT US](#contact-us)
-* [ADDITIONAL INFORMATION: US STATES](#additional-information:-us-states)
+* [ADDITIONAL INFORMATION: US STATES](#additional-information-us-states)
 
 INFORMATION WE COLLECT ABOUT YOU
 --------------------------------
@@ -437,8 +437,8 @@ NY 10036
 
 United States
 
-ADDITIONAL INFORMATION: US STATES
----------------------------------
+ADDITIONAL INFORMATION US STATES
+--------------------------------
 
 If you are a California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia resident, there are additional disclosures and certain additional rights regarding your personal information, as described below. The rights available to you will depend on the laws in the state where you live.
 
