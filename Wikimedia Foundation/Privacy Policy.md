@@ -83,6 +83,7 @@ Other languages:
 * [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/hy "Policy:Privacy policy/hy (62% translated)")
 * [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/yi "Policy:Privacy policy/yi (7% translated)")
 * [עברית](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/he "Policy:Privacy policy/he (32% translated)")
+* [ئۇيغۇرچە](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ug-arab "Policy:Privacy policy/ug-arab (1% translated)")
 * [اردو](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ur "Policy:Privacy policy/ur (15% translated)")
 * [الدارجة](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ary "Policy:Privacy policy/ary (5% translated)")
 * [العربية](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ar "Policy:Privacy policy/ar (100% translated)")
