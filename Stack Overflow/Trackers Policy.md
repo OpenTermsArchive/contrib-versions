@@ -52,11 +52,10 @@ These cookies are necessary for our website to function properly and cannot be s
 | stacksnippets.net | intercom-id-inf0secd, intercom-session-inf0secd | 3rd Party |
 | cdn.sstatic.net | OptanonAlertBoxClosed, OptanonConsent | 3rd Party |
 | sstatic.net | \_\_cf\_bm | 3rd Party |
-| google.com | \_\_Secure-3PAPISID, \_\_Secure-3PSID, \_\_Secure-APISID, \_\_Secure-HSID, \_\_Secure-SSID, 1P\_JAR, APISID, HSID, NID, SAPISID, SID, SIDCC, SSID | 3rd Party |
+| google.com | \_\_Secure-3PSID, \_\_Secure-APISID, \_\_Secure-HSID, \_\_Secure-SSID, 1P\_JAR, APISID, HSID, NID, SAPISID, SID, SIDCC, SSID | 3rd Party |
 | intercom.com | gtm\_id | 3rd Party |
 | artstation.com | \_\_cf\_bm | 3rd Party |
 | ajax.googleapis.com | OptanonAlertBoxClosed, OptanonConsent | 3rd Party |
-| www.pluralsight.com | \_\_cf\_bm | 3rd Party |
 | superuser.com | \_\_cf\_bm | 3rd Party |
 | discordapp.com | \_\_cf\_bm | 3rd Party |
 
