@@ -3,7 +3,7 @@ Pangea temporary hotfixes here
 Logitech Privacy Policy
 -----------------------
 
-**Last updated:** January 2025
+**Last updated:** September 2024
 
 Your privacy is essential to Logitech. This Privacy Policy explains how we handle your personal data.
 
@@ -25,8 +25,6 @@ The sections below detail the types of personal data we collect, how we use them
 * [HOW WE STORE AND PROCESS INFORMATION](#how-we-store-and-process-information)
 
 * [SPECIAL INFORMATION FOR EEA/UK/CH USERS](#special-information-for-eea-uk-ch-users)
-
-* [YOUR RIGHTS AND CHOICES](#your-rights-and-choices)
 
 * [CHANGES TO THIS POLICY](#changes-to-this-policy)
 
@@ -212,7 +210,6 @@ Below, you'll find an explanation of these activities, the categories of persona
 | We may use your information to provide you with personalized recommendations for products, content, educational articles and offers that we believe you may find relevant and interesting | Contact Data, Account Data, Purchase Information, Website Browsing Data | Consent |
 | Based on your recent purchases, we may suggest complementary products that enhance your Logitech experience | Contact Data, Account Data, Purchase Information, Website Browsing Data | Consent |
 | We may process aggregated data from the past two years to generate insights to improve our products and services and to honor your marketing opt-out preferences | Contact Data, Account Data, Purchase Information, Website Browsing Data, Aggregated Data | Legitimate Interest |
-| We may use third party advertising platforms, such as Facebook, Google, YouTube, and others, to display personalized advertisements, promotions, and offers that might interest you | Contact Data, Account Data | Consent |
 
 Your Choices:
 -------------
@@ -345,18 +342,27 @@ We process personal data for one or more of the following reasons:
 Your rights and choices
 -----------------------
 
-If you are a Logitech customer, you may have the rights described below.
+If you are a Logitech customer within the EEA, the UK or CH you may have the rights described below.
 
-**Right of access**
+In compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), Logitech commits to resolve DPF Principles-related complaints about our collection and use of your personal data. EU and UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Logitech.
+
+To invoke your rights and resolve enquiries or complaints, please fill out [this form](https://support.logitech.com/response-center). You may also contact us via phone, email or postal mail using the contact information below:
+
+**Phone:** +1 646-454-3200 or toll free +1 866-632-5644  
+**Contact:** [privacy@logitech.com](mailto:privacy@logitech.com)  
+**Postal Mail:** Logitech Privacy Office EMEA, Logitech Ireland Services Limited, City Gate Plaza Two, Mahon, Cork, Ireland  
+**Data Protection Officer (DPO):** You may contact our DPO by emailing [dpo@logitech.com](mailto:dpo@logitech.com)
+
+**Right of access and explanation**
 
 * You can ask for an explanation of what data we have about you and how we use the data.
 * You can ask for a copy of the data we have about you.
 
-**Right to rectification**
+**Right of rectification**
 
 * If you think information we have about you is inaccurate or incomplete, you can ask us to correct it.
 
-**Right to deletion**
+**Right to erasure**
 
 * You can ask us to permanently delete your data.
 
@@ -386,32 +392,13 @@ If you are a Logitech customer, you may have the rights described below.
 
 In compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), Logitech commits to resolve DPF Principles-related complaints about our collection and use of your personal data. EU and UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Logitech.
 
-How to invoke your rights and choices
+To invoke any of these rights and resolve enquiries or complaints, please fill out the form [support.logitech.com/response-center](https://support.logitech.com/response-center). You may also contact us via phone, email, or postal mail by using the contact information below:
 
-To invoke any of these rights and resolve enquiries or complaints, please contact us through the following methods:
+**Phone:** + 1-646-454-3200 or toll free +1 866-632-5644  
+**Email:** [privacy@logitech.com](mailto:privacy@logitech.com)  
+**Postal Mail:** Logitech Privacy Office EMEA, Logitech Ireland Services Limited City Gate Plaza Two, Mahon, Cork, Ireland
 
-* For access and deletion requests, please go to the [Logitech Privacy Portal](https://logitech-privacy.relyance.ai/).
-    
-* For general enquiries, please email privacy@logitech.com
-    
-* For phone: + 1-646-454-3200 or toll free +1 866-632-5644
-    
-* For postal mail: 
-    
-
-                        C/O Logitech Privacy Team
-
-                        Logitech Ireland Services Limited
-
-                        City Gate Plaza Two, 
-
-                        Mahon, Cork
-
-                        Ireland
-
-                        T12 A6RW
-
-* To contact our Data Protection Officer (DPO), please email dpo@logitech.com
+**Data Protection Officer (DPO):** You may contact our DPO by emailing [dpo@logitech.com](mailto:dpo@logitech.com)
 
 In compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF, Logitech commits to cooperate and comply respectively with the advice of the panel established by the EU data protection authorities (DPAs) and the UK Information Commissioner’s Office (ICO) and the Gibraltar Regulatory Authority (GRA) and the Swiss Federal Data Protection and Information Commissioner (FDPIC) with regard to unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF.
 
@@ -436,7 +423,7 @@ The Federal Trade Commission (FTC) has jurisdiction over Logitech’s compliance
 Creativity and Productivity products
 ------------------------------------
 
-Logitech Creativity & Productivity include hardware like mice, keyboards, touchpads, presenters, webcams, and headsets, and related software and services like Logitech Options and Options+ (Logitech Options), Logitech Capture, Logitech Presentation, Setpoint, Logitech Control Center, and SmartHabits. We use data we collect relating to these products and services for a variety of purposes described above, including security, stability and product performance. The Privacy Policy applies to these products, but there are a few distinctions as noted below.
+Logitech Creativity & Productivity include hardware like mice, keyboards, touchpads, presenters, webcams, and headsets, and related software and services like Logitech Options and Options+ (Logitech Options), Logitech Capture, Logitech Presentation, Setpoint, and Logitech Control Center. We use data we collect relating to these products and services for a variety of purposes described above, including security, stability and product performance. The Privacy Policy applies to these products, but there are a few distinctions as noted below.
 
 ### 
 
@@ -507,13 +494,6 @@ Logi AI Prompt Builder
 The Logi AI Prompt Builder is an additional feature in Options designed to facilitate your interaction with OpenAI’s ChatGPT. Logitech’s processing of personal data is limited to collecting data as described in the Performance, Diagnostics and Analytics section above.
 
 Logitech does not share any personal data or other data with OpenAI, nor does OpenAI share any personal data or other data with Logitech.
-
-SmartHabits
------------
-
-SmartHabits is a desktop application available for both Mac and Windows, designed to gently nudge individuals with contextual on-screen prompts to prioritize their well-being throughout their workday. The software aims to assist anyone who spends a lot of time sitting (or standing) at a desk to improve their work habits and productivity.
-
-Usage and analytics data are automatically collected upon downloading and using the application. This data collection is not mandatory, and users can control their preferences in the settings of the application.
 
 Cameras and Products
 --------------------
