@@ -138,7 +138,7 @@ Provide your regular customer-facing hours of operation. If applicable, you may 
 
 Certain types of businesses shouldn’t provide hours, including those with varied hours (like schedules for different types of activities, including showtimes, worship services or classes) and those that operate only by appointment. Examples of business that _shouldn’t_ provide hours include, but aren't limited to:
 
-* Indoor lodging such as: Hotels, motels and apartment buildings/complexes
+* Indoor lodging, such as hotels and motels
 * Schools and universities
 * Cinemas
 * Transportation services and airports
