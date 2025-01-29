@@ -62,7 +62,7 @@ The contact information above should also be used for communications relating to
 Our EU representative: as we, O'Reilly Media, Inc. and Safari Books Online, LLC, are not established in the EU, pursuant to Article 27 of the General Data Protection Regulation (GDPR), we have appointed European Data Protection Office (EDPO) as our GDPR representative in the EU, whom you may contact if you are located in the EU to raise any issues or queries you have relating to our processing of your personal information and/or this Privacy Policy more generally. You can contact EDPO:
 
 * By using EDPO's online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)
-* By writing to EDPO at Regus Block 1, Blanchardstown Corporate Park, Ballycoolin Road, Blanchardstown, Dublin 15, D15 AKK1, Ireland
+* By writing to EDPO at Ground Floor, 71 Lower Baggot Street, Dublin, D02 P593, Ireland
 
 Our UK representative: we have appointed O'Reilly UK Limited as our representative in the UK, whom you may contact if you are located in the UK to raise any issues or queries you have relating to our processing of your personal information and/or this Privacy Policy more generally. You can contact O'Reilly UK Limited via email at the following address:
 
