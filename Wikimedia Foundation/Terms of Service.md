@@ -74,6 +74,7 @@ Other languages:
 * [Kreyòl ayisyen](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ht "Policy:Terms of Use/ht (2% translated)")
 * [Latina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/la "Policy:Terms of Use/la (0% translated)")
 * [Lëtzebuergesch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lb "Policy:Terms of Use/lb (6% translated)")
+* [Madhurâ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mad "Policy:Terms of Use/mad (6% translated)")
 * [Malti](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mt "Policy:Terms of Use/mt (100% translated)")
 * [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Policy:Terms of Use/nl (100% translated)")
 * [Qaraqalpaqsha](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kaa "Policy:Terms of Use/kaa (0% translated)")
