@@ -6,20 +6,6 @@ Google Publisher Policies
 
 [](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
 
-**(January 22, 2025)** While we will continue to pause AdMob campaigns and AdMob Network (Google demand & third-party bidding sources) from serving to users located in Russia, AdMob publishers can now manage how their chosen third-party waterfall mediation ad sources serve ads in that region.
-
-**(December 13, 2024)** Google will stop new account signups in Belarus and pause monetization for Belarus-based AdSense, AdMob, and Ad Manager accounts.
-
-**(August 12, 2024)** Due to ongoing developments in Russia, we are pausing the ability of Russia-based publishers to monetize with AdSense, AdMob, and Ad Manager.
-
-**(March 10, 2022)** Given the recent suspension of Google advertising systems in Russia, we’ll be pausing the creation of new Russian accounts on AdSense, AdMob, and Google Ad Manager. Additionally, we will pause ads on Google properties and networks globally for advertisers based in Russia.
-
-**(March 3, 2022)** Due to the ongoing war in Ukraine, we will be temporarily pausing ads from serving to users located in Russia.
-
-**(February 26, 2022)** In light of the war in Ukraine, we are pausing Google’s monetization of Russian Federation state-funded media. 
-
-**We will continue to actively monitor the situation and make adjustments as necessary.**
-
 We are in the process of migrating and consolidating all of the Google Publisher Policies and Google Publisher Restrictions to the new [Publisher Policies Help Center](https://support.google.com/publisherpolicies). For now, you can still view all the policies in the [AdMob](https://support.google.com/admob/), [AdSense](https://support.google.com/adsense/), and [Ad Manager](https://support.google.com/admanager/) Help Centers, as well as the new Help Center. 
 
 When you monetize your content with Google ad code you are required to adhere to the following policies. Failure to comply with these policies may result in Google blocking ads from appearing against your content, or suspending or terminating your account.
