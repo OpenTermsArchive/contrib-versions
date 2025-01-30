@@ -2,8 +2,6 @@
 
 Stay organized with collections Save and categorize content based on your preferences.
 
-Missed Next '24? All sessions are now available on demand. [Watch now](https://cloud.withgoogle.com/next?utm_source=cgc-site&utm_medium=et&utm_campaign=FY24-Q2-global-EXP65-onlineevent-er-next24-digital-mc&utm_content=cgc-butter-bar-post-event-vod&utm_term=-).
-
 Google Cloud Platform/SecOps Terms of Service
 =============================================
 
@@ -332,7 +330,7 @@ The definition of "Taxes" under Section 15.19 (Definitions) is replaced as follo
 
 _"Taxes"_ means all government-imposed taxes, as per the applicable law associated with the rendering and performance of the Services, including but not limited to any duties, customs duties, and any direct or indirect taxes, including any related penalties or interest, except for taxes based on Google's profit.
 
-**Asia Pacific (all regions excluding Australia, Japan, India, New Zealand, Singapore) and Latin America (all regions excluding Brazil)**
+**Asia Pacific (all regions excluding Australia, Japan, India, New Zealand, Singapore) and Latin America (all regions excluding Brazil and Mexico)**
 
 Section 15.12 (U.S. Governing Law) is replaced as follows:
 
@@ -462,6 +460,58 @@ When the Google contracting entity is Google Cloud Brasil Computação e Serviç
 
 (f) _Fees and Expenses._ Each party will bear its own lawyers’ and experts’ fees and expenses, regardless of the arbitrator’s final decision regarding the Dispute.
 
+**Latin America - Mexico**
+
+When the Google contracting entity is Google Cloud México, S. de R.L. de C.V., the following Sections are replaced as shown below:
+
+Section 2.2 (Taxes) is replaced as follows:
+
+2.2 _Taxes_
+
+(a) _Tax Invoicing and Payments_. Taxes are not included in the Fees and will be separately itemized on Google’s invoices if applicable. Customer will pay correctly-invoiced Taxes unless Customer provides a valid tax exemption certificate. If Customer is required by law to withhold any Taxes from its payments to Google, Customer must provide Google with an official tax receipt or other appropriate documentation to support such withholding.
+
+(b) _Tax Documentation_. Google will timely provide customary tax documentation reasonably requested by the Customer and vice versa.
+
+Section 3.3 (Restrictions) is replaced as follows:
+
+3.3 _Restrictions_. Customer will not, and will not allow End Users to, (a) copy, modify, or create a derivative work of the Services; (b) reverse engineer, decompile, translate, disassemble, or otherwise attempt to extract any or all of the source code of, the Services (except to the extent such restriction is expressly prohibited by applicable law); (c) sell, resell, sublicense, transfer, or distribute any or all of the Services; or (d) access or use the Services (i) for High Risk Activities; (ii) in violation of the AUP; (iii) in a manner intended to avoid incurring Fees (including creating multiple Customer Applications, Accounts, or Projects to simulate or act as a single Customer Application, Account, or Project (respectively)) or to circumvent Service-specific usage limits or quotas; (iv) to engage in cryptocurrency mining without Google's prior written approval; (v) to operate or enable any telecommunications service or in connection with any Customer Application that allows End Users to place calls or to receive calls from any public switched telephone network, unless otherwise described in the Service Specific Terms; (vi) for materials or activities that are subject to the International Traffic in Arms Regulations (ITAR) maintained by the United States Department of State or any other applicable local legislation which regulates arms traffic; (vii) in a manner that breaches, or causes the breach of, Export Control Laws; or (viii) to transmit, store, or process health information subject to United States HIPAA regulations except as permitted by an executed HIPAA BAA and in compliance with any Applicable Privacy Law.
+
+Section 12.2 (Limitation on Amount of Liability) is replaced as follows:
+
+**12.2 _Limitation on Amount of Liability_. To the extent permitted by applicable law, each party's total aggregate Liability for damages arising out of or relating to the Agreement in connection with the GCP Services or SecOps Services, as applicable, is limited to the Fees Customer paid for such Services during the 12 month period before the event giving rise to Liability, except Google’s total aggregate Liability for damages arising out of or related to Services or Software provided free of charge is limited to $5,000 USD or its equivalent in local currency calculated in accordance with Section 15.18.1.**
+
+Section 15.12 (Governing Law ) is replaced as follows:
+
+15.12 Governing Law & Arbitration.
+
+(a) _Governing Law_. This Agreement is governed by the laws of the United Mexican States, excluding choice of law rules.
+
+(b) _Arbitration_
+
+(i) _Definitions_. “Dispute” means any contractual or non-contractual dispute regarding this Agreement, including its formation, validity, subject matter, interpretation, performance, or termination.
+
+(ii) _Settlement_. The parties will try in good faith to settle any Dispute within 30 days after a party receives the first notice regarding the Dispute in accordance with Section 15.1 (Notices). If the parties are unable to resolve the Dispute within this 30-day period, either party may refer the Dispute to arbitration in accordance with Section 15.12 (iii) (Arbitration).
+
+(iii) _Arbitration_. Except as prohibited by applicable law, the parties will refer all Disputes to final, binding arbitration under the Arbitration Rules of the National Chamber of Commerce of Mexico City in force as of this Agreement’s Effective Date (“Rules”). The arbitration will be conducted in Spanish by one arbitrator, mutually selected by the parties, in Mexico City, Mexico, which will be the seat of arbitration.
+
+(iv) _Confidentiality_. The arbitration is Confidential Information (including the arbitration’s existence and any oral or written information related to it). However, the parties may disclose to a competent court information necessary to (a) require the aid of the competent courts before or during the arbitral proceeding; or (b) execute any arbitral decision, but only if the confidentiality of those materials is maintained in those judicial proceedings.
+
+(v) _Non-Monetary Relief_. The arbitrator may only issue its award based on law, not in equity, and may not award non-monetary relief.
+
+(vi) _Fees and Expenses_. Each party will bear its own lawyers’ and experts’ fees and expenses, and the arbitrator's final decisión must not include any rulings in this regard.
+
+A new Section 15.18.1 (Currency) is included as read below. As a consequence, Section 15.18 is adjusted as follows:
+
+15.18 _Conflicting Languages_. If this Agreement is translated into any language other than English, and there is a discrepancy between the English text and the translated text, the English text will govern unless expressly stated otherwise in the translation.
+
+15.18.1 _Currency_. Unless otherwise specified in this Agreement, any ancillary document or corresponding invoice, all references to “$” in this Agreement refer to mexican pesos. If a currency conversion is required in relation to the calculation of the Fees, that conversion will be carried out using the daily average exchange rate set by a reputable third party chosen by Google in accordance with applicable law.
+
+The definition of “Taxes” under Section 15.19 (Definitions) is replaced as follows:
+
+15.19 Definitions.
+
+"Taxes" means all government-imposed tax obligations (including taxes, duties, and withholdings), except those based on net income, net worth, asset value, property value, or employment.
+
 **North America - United States**
 
 Section 15.19 (Definitions) is changed to Section 15.20 (Definitions).
@@ -478,6 +528,6 @@ Previous versions of the VirusTotal Terms of Service
 
 [January 27, 2021](https://cloud.google.com/terms/secops)  [_December 11, 2018_](https://docs.virustotal.com/docs/historic-terms-of-service)
 
-Previous versions of Google Cloud Platform Terms of Service _(Last modified October 17, 2024)_
+Previous versions of Google Cloud Platform Terms of Service _(Last modified January 30, 2025)_
 
-[September 30, 2024](https://cloud.google.com/legal/archive/terms/index-20240930) [November 16, 2023](https://cloud.google.com/legal/archive/terms/index-20231116) [July 12, 2023](https://cloud.google.com/terms/index-20230712) [April 19, 2023](https://cloud.google.com/terms/index-20230419) [February 6, 2023](https://cloud.google.com/terms/index-20230206) [November 7, 2022](https://cloud.google.com/terms/index-20221107) [September 20, 2022](https://cloud.google.com/terms/index-20220920) [March 29, 2022](https://cloud.google.com/terms/index-20220329) [September 20, 2021](https://cloud.google.com/terms/index-20210920) [April 1, 2021](https://cloud.google.com/terms/index-20210401) [November 2, 2020](https://cloud.google.com/terms/index-20201102) [October 6, 2020](https://cloud.google.com/terms/index-20201006) [August 31, 2020](https://cloud.google.com/terms/index-20200831) [August 13, 2020](https://cloud.google.com/terms/index-20200813) [March 26, 2020](https://cloud.google.com/terms/index-20200326) [November 21, 2019](https://cloud.google.com/terms/index-20191121) [July 22, 2019](https://cloud.google.com/terms/index-20190722) [November 2, 2018](https://cloud.google.com/terms/index-20181102) [November 1, 2018](https://cloud.google.com/terms/index-20181101) [October 1, 2018](https://cloud.google.com/terms/index-20181001) [June 27, 2018](https://cloud.google.com/terms/index-20180627) [June 15, 2018](https://cloud.google.com/terms/index-20180615) [June 5, 2018](https://cloud.google.com/terms/index-20180605) [May 23, 2018](https://cloud.google.com/terms/index-20180523) [May 18, 2018](https://cloud.google.com/terms/index-20180518) [April 30, 2018](https://cloud.google.com/terms/index-20180430) [April 4, 2018](https://cloud.google.com/terms/index-20180404) [February 8, 2018](https://cloud.google.com/terms/index-20180208) [January 9, 2018](https://cloud.google.com/terms/index-20180109) [October 19, 2017](https://cloud.google.com/terms/index-20171019)
+[October 17, 2024](https://cloud.google.com/legal/archive/terms/index-20241017) [September 30, 2024](https://cloud.google.com/legal/archive/terms/index-20240930) [November 16, 2023](https://cloud.google.com/legal/archive/terms/index-20231116) [July 12, 2023](https://cloud.google.com/terms/index-20230712) [April 19, 2023](https://cloud.google.com/terms/index-20230419) [February 6, 2023](https://cloud.google.com/terms/index-20230206) [November 7, 2022](https://cloud.google.com/terms/index-20221107) [September 20, 2022](https://cloud.google.com/terms/index-20220920) [March 29, 2022](https://cloud.google.com/terms/index-20220329) [September 20, 2021](https://cloud.google.com/terms/index-20210920) [April 1, 2021](https://cloud.google.com/terms/index-20210401) [November 2, 2020](https://cloud.google.com/terms/index-20201102) [October 6, 2020](https://cloud.google.com/terms/index-20201006) [August 31, 2020](https://cloud.google.com/terms/index-20200831) [August 13, 2020](https://cloud.google.com/terms/index-20200813) [March 26, 2020](https://cloud.google.com/terms/index-20200326) [November 21, 2019](https://cloud.google.com/terms/index-20191121) [July 22, 2019](https://cloud.google.com/terms/index-20190722) [November 2, 2018](https://cloud.google.com/terms/index-20181102) [November 1, 2018](https://cloud.google.com/terms/index-20181101) [October 1, 2018](https://cloud.google.com/terms/index-20181001) [June 27, 2018](https://cloud.google.com/terms/index-20180627) [June 15, 2018](https://cloud.google.com/terms/index-20180615) [June 5, 2018](https://cloud.google.com/terms/index-20180605) [May 23, 2018](https://cloud.google.com/terms/index-20180523) [May 18, 2018](https://cloud.google.com/terms/index-20180518) [April 30, 2018](https://cloud.google.com/terms/index-20180430) [April 4, 2018](https://cloud.google.com/terms/index-20180404) [February 8, 2018](https://cloud.google.com/terms/index-20180208) [January 9, 2018](https://cloud.google.com/terms/index-20180109) [October 19, 2017](https://cloud.google.com/terms/index-20171019)
