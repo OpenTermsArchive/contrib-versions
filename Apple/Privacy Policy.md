@@ -88,6 +88,8 @@ You can familiarize yourself with our privacy practices, accessible via the head
     * **Apple Partners.** We may also validate the information you provide — for example, when creating an Apple Account, with a third party for security, and for fraud-prevention purposes.
         
     
+    To power features such as search and as a source for our foundational AI models, Apple uses Applebot, a web crawler, to crawl information that is publicly available on the internet. We have measures in place to reduce the amount of personal data we collect and make no attempt to connect data crawled to any individual Apple user, or to build profiles about individuals. Your private personal data is not used to train our foundational AI models. To exercise your right as an individual to opt out of processing, visit the [Apple Intelligence Privacy Inquiries form](https://www.apple.com/legal/privacy/aipi/). For more information about Applebot, visit [support.apple.com/120320](https://support.apple.com/120320).
+    
     For research and development purposes, we may use datasets such as those that contain images, voices, or other data that could be associated with an identifiable person. When acquiring such datasets, we do so in accordance with applicable law, including law in the jurisdiction in which the dataset is hosted. When using such datasets for research and development, we do not attempt to reidentify individuals who may appear therein.
     
 * Apple’s Use of Personal Data
