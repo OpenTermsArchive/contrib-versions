@@ -133,7 +133,6 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [Kubernetes](https://ubuntu.com/kubernetes/managed)
 * [Ceph](https://ubuntu.com/ceph/managed)
 * [Apps](https://ubuntu.com/managed/apps)
-* [Observability](https://ubuntu.com/observability/managed)
 * [Firefighting](https://ubuntu.com/managed/firefighting-support)
 
 * * *
@@ -258,14 +257,6 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [Account users](https://ubuntu.com/pro/users)
 * [Pricing](https://ubuntu.com/pricing/pro)
 * [Discourse](https://discourse.ubuntu.com/c/project/ubuntu-pro/116/)
-
-* * *
-
-[Observability](https://ubuntu.com/observability) [Observability](https://ubuntu.com/observability)
----------------------------------------------------------------------------------------------------
-
-* [What is observability](https://ubuntu.com/observability/what-is-observability)
-* [Managed](https://ubuntu.com/observability/managed)
 
 * * *
 
