@@ -180,7 +180,7 @@ The following acts are prohibited when using the Services:
 
 (1) act that is in violation of laws and regulations, court judgments, decisions or orders, or legally binding administrative measures;
 
-(2) act that is contrary to social norms or public policy, act of infringing upon the copyrights, trademark rights, patent rights or other intellectual property rights, honor rights, privacy rights or other rights granted by law or other contractual rights of us or those of a third party, or act of causing trouble to others;
+(2) act that is contrary to social norms or public policy, fraud or fraud-related activities, act of infringing upon the copyrights, trademark rights, patent rights or other intellectual property rights, honor rights, privacy rights or other rights granted by law or other contractual rights of us or those of a third party, or act of causing trouble to others;
 
 (3) act of Submitting excessively violent expressions, sexually explicit expressions, expressions corresponding to child pornography or child abuse, expressions that lead to discrimination by race, nationality, beliefs, gender, social status or family origin, expressions that may induce or facilitate suicide, self-injury or drug abuse, or other expressions that include antisocial contents and cause displeasure to others;
 
@@ -500,6 +500,14 @@ If you delay payment to us, we may assign the claim thereof to a third party, an
   
 
 (Revised on October 1, 2023)
+
+[LINE Terms and Conditions of Use](https://www.lycorp.co.jp/assets/pdf/l_terms_en.pdf)
+
+[Yahoo! JAPAN Terms of Use](https://www.lycorp.co.jp/assets/pdf/y_terms_en.pdf)
+
+  
+
+(Revised on February 3, 2025)
 
   
   
