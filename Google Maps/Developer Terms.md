@@ -637,6 +637,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Finnish Transport Infrastructure Agency (FTIA): [https://vayla.fi/en/about-digiroad](https://vayla.fi/en/about-digiroad)
             
+        * Bundesamt für Landestopografie swisstopo: [https://www.swisstopo.admin.ch/en/terms-of-use-free-geodata-and-geoservices](https://www.swisstopo.admin.ch/en/terms-of-use-free-geodata-and-geoservices)
+            
     18. **France and Monaco**
         * © IGN France © 2009 IGN France BD Topo ® IGN, © 2007 IGN France BD Ortho ® IGN 50cm, © 2011 IGN France - Ortho HR® IGN 20cm (Paris region)
             
@@ -701,8 +703,6 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Contient des informations des producteurs de données suivants, sujettes à la Licence Ouverte ([source](https://www.etalab.gouv.fr/wp-content/uploads/2014/05/Open_Licence.pdf)) et mises à jour régulièrement à partir d'octobre 2022 :
             
             * Région Réunion. ([https://transport.data.gouv.fr/datasets/horaires-theoriques-au-format-gtfs-et-horaires-temps-reel-au-format-gtfs-rt-du-reseau-car-jaune-a-la-reunion/](https://transport.data.gouv.fr/datasets/horaires-theoriques-au-format-gtfs-et-horaires-temps-reel-au-format-gtfs-rt-du-reseau-car-jaune-a-la-reunion/))
-                
-            * Métropole Toulon Provence Méditerranée . ([https://transport.data.gouv.fr/datasets/reseau-de-transport-urbain-de-la-metropole-toulon-provence-mediterranee/](https://transport.data.gouv.fr/datasets/reseau-de-transport-urbain-de-la-metropole-toulon-provence-mediterranee/))
                 
             * Eurométropole de Metz. ([https://transport.data.gouv.fr/datasets/transport-donnees-gtfs/](https://transport.data.gouv.fr/datasets/transport-donnees-gtfs/))
                 
@@ -946,11 +946,27 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Réseau urbain Hoplà ([https://transport.data.gouv.fr/datasets/donnees-theoriques-du-reseau-hopla-communaute-de-communes-de-la-plaine-destrees](https://transport.data.gouv.fr/datasets/donnees-theoriques-du-reseau-hopla-communaute-de-communes-de-la-plaine-destrees))
                 
+            * Réseau urbain F'Bus ([https://transport.data.gouv.fr/datasets/reseau-lagglo-bus-de-lagglo-foix-varilhes](https://transport.data.gouv.fr/datasets/reseau-lagglo-bus-de-lagglo-foix-varilhes))
+                
+            * Navette SNGO! Giverny Vernon - Gare SNCF ([https://transport.data.gouv.fr/datasets/giverny-vernon-gare-sncf](https://transport.data.gouv.fr/datasets/giverny-vernon-gare-sncf))
+                
+            * Réseau urbain Navette Saint-Tropez ([https://transport.data.gouv.fr/datasets/golfe-de-saint-tropez-donnees-mobilite-tc-navette-reguliere-saint-tropez](https://transport.data.gouv.fr/datasets/golfe-de-saint-tropez-donnees-mobilite-tc-navette-reguliere-saint-tropez))
+                
+            * Réseau urbain Navette Ramatuelle ([https://transport.data.gouv.fr/datasets/golfe-de-saint-tropez-donnees-mobilite-tc-navette-estivale-ramatuelle](https://transport.data.gouv.fr/datasets/golfe-de-saint-tropez-donnees-mobilite-tc-navette-estivale-ramatuelle))
+                
+            * Réseau urbain hivernal Cavalaire ([https://transport.data.gouv.fr/datasets/golfe-de-saint-tropez-donnees-mobilite-tc-cavalaire-sur-mer-hiver](https://transport.data.gouv.fr/datasets/golfe-de-saint-tropez-donnees-mobilite-tc-cavalaire-sur-mer-hiver))
+                
+            * Réseau urbain Navette Grimaud ([https://transport.data.gouv.fr/datasets/golfe-de-saint-tropez-donnees-mobilite-tc-navette-estivale-grimaud](https://transport.data.gouv.fr/datasets/golfe-de-saint-tropez-donnees-mobilite-tc-navette-estivale-grimaud))
+                
+            * Réseau urbain La Croix Valmer ([https://transport.data.gouv.fr/datasets/golfe-de-saint-tropez-donnees-mobilite-tc-ligne-de-la-croix-valmer](https://transport.data.gouv.fr/datasets/golfe-de-saint-tropez-donnees-mobilite-tc-ligne-de-la-croix-valmer))
+                
+            * Réseau maritime de Martinique ([https://transport.data.gouv.fr/datasets/gtfs-du-reseau-maritime-de-martinique](https://transport.data.gouv.fr/datasets/gtfs-du-reseau-maritime-de-martinique))
+                
+            * Réseau urbain Mio - Millau ([https://transport.data.gouv.fr/datasets/fiches-horaires-reseau-urbain-mio-ccmillaugrandscausses](https://transport.data.gouv.fr/datasets/fiches-horaires-reseau-urbain-mio-ccmillaugrandscausses))
+                
         * Muséum national d'Histoire Naturelle: [https://inpn.mnhn.fr/accueil/mentions-legales](https://inpn.mnhn.fr/accueil/mentions-legales)
             
         * Réseau urbain A Citadina - ([https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina](https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina))
-            
-        * Réseau urbain et scolaire SEMO - ([https://transport.data.gouv.fr/datasets/gtfs-semo](https://transport.data.gouv.fr/datasets/gtfs-semo))
             
         * Réseau urbain SYLVIA. ([https://transport.data.gouv.fr/datasets/fr-200052264-t0016-0000-1](https://transport.data.gouv.fr/datasets/fr-200052264-t0016-0000-1))
             
@@ -1478,9 +1494,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和6年 11 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和6年 12 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和6年 11 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和6年 12 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         * ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
@@ -1511,6 +1527,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Hiroshima Dobox: [https://hiroshima-dobox.jp/en/pages/terms](https://hiroshima-dobox.jp/en/pages/terms)
             
         * 大東市: [https://www.city.daito.lg.jp/soshiki/67/44745.html](https://www.city.daito.lg.jp/soshiki/67/44745.html)
+            
+        * Dobox: [https://hiroshima-dobox.jp/resources/32489#:~:text=CreativeCommonsAttribution](https://hiroshima-dobox.jp/resources/32489#:~:text=CreativeCommonsAttribution)
             
     36. **Liechtenstein**
         * “Liechtensteinische Landesverwaltung“ - [https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf](https://service.geo.llv.li/download//officialStreet/AbiOGDLizenz.pdf)
@@ -1980,6 +1998,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Geo Euskadi: [https://www.geo.euskadi.eus/base-topografica-armonizada-a-escala-1-5-000-de-gobierno-vasco-bta/webgeo00-dataset/es/](https://www.geo.euskadi.eus/base-topografica-armonizada-a-escala-1-5-000-de-gobierno-vasco-bta/webgeo00-dataset/es/)
             
         * Valencia Open Data Soft: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        * Eustat - Euskal Estatistika Erakundea - Instituto Vasco de Estadística: [https://www.eustat.eus/informacionLegal\_c.html/](https://www.eustat.eus/informacionLegal_c.html)
             
     58. **Sweden**
         * © 2009 Cartesia GIS AB
