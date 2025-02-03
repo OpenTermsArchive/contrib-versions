@@ -511,3 +511,7 @@ Copyright © 2025 Outbrain Inc. All rights reserved. Outbrain is a trademark of 
 * [Security](https://www.outbrain.com/security)
 * [Patents](https://www.outbrain.com/patents/)
 * [Terms of Use](https://www.outbrain.com/legal#terms-of-use)
+
+**Outbrain and Teads** Close Agreement to Merge
+
+[Learn More](https://thenewteads.com/?utm_campaign=2025%20Tech%20Themes&utm_source=OB%20Website%20Banner)
