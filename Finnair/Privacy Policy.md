@@ -19,7 +19,7 @@ Your privacy is our priority.
 
 Finnair Plc  
 Business ID: 0108023-3  
-Address: Tietotie 9 01530 VANTAA, FINLAND
+Address: Tietotie 9 01530 Vantaa, Finland
 
 #### Privacy online service
 
@@ -27,7 +27,7 @@ Manage your privacy settings and request your personal data on the Finnair websi
 
 #### Data Protection Officer
 
-If you don’t find what you’re looking for in this policy or the Privacy Online Service linked above, you may contact the Finnair Group Data Protection Officer: [privacy@finnair.com](mailto:privacy@finnair.com) or Finnair Data Protection Officer, PO BOX 15, 01053 FINNAIR, FINLAND.
+If you don’t find what you’re looking for in this policy or the Privacy Online Service linked above, you may contact the Finnair Group Data Protection Officer: [privacy@finnair.com](mailto:privacy@finnair.com) or Finnair Data Protection Officer, PO Box 15, 01053 Finnair, Finland.
 
 ### Your data, your rights
 
