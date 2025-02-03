@@ -82,6 +82,10 @@ There are various reasons for which we collect your personal information.
       
     You may unsubscribe from our newsletter lists at any time by following the unsubscribe instructions included in every email we send. We will not send you any emails from a list you have selected to be unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of any other Services you have requested or for additional emails you have signed up for.
 
+### How can you request your data to be deleted?
+
+You can request us to delete all the information we have collected about you. It is important to note that by exercising your right to deletion you may lose access to your account and any purchases, points or features associated with it. If you wish to cancel your account or request that we no longer use some or all of your information to provide you services, contact us by writing to dpo@indiegala.com (please include "DATA DELETE - Privacy Policy" in the subject line) and we will respond within a reasonable timeframe after receiving your request.
+
 ### Which third parties we share your personal information with, what information we disclose and why?
 
 We may disclose your User Information to other entities for legitimate business purposes (including operating the Services, and providing services to you), in accordance with applicable law. In addition, we may disclose your User Information to:
