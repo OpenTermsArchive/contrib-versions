@@ -3,12 +3,13 @@ Terms & Conditions
 
 ![Louise](https://files.helpdocs.io/n0njida9x8/other/1697448726388/clean-shot-2023-09-26-at-13-07-20-2-x.png)
 
-Updated 2025-02-03T15:08:15Z by Louise
+Updated 2025-02-04T16:13:18Z by Louise
 
 There are several versions of Yuka's Terms & Conditions, depending on the country of residence of the User :
 
 * The Terms and Conditions for Users **in the USA** are accessible [here](https://help.yuka.io/l/en/article/c1zr4m81g1).
-* The Terms and Conditions for Users **in** **Canada** are accessible [here](https://help.yuka.io/l/en/article/29ei59sgfa).
+* The Terms and Conditions for Users **in** **Canada** are accessible [here](https://help.yuka.io/l/fr/article/gte8bvcqx8) in French.
+* The Terms and Conditions for Users **in** **Canada** are accessible [here](https://help.yuka.io/l/en/article/29ei59sgfa) in English.
 * The Terms and Conditions for Users **in** **Australia** are accessible [here](https://help.yuka.io/l/en/article/f44t7d4gwr).
 * The Terms and Conditions for Users **in the EU and UK** are accessible [here](https://help.yuka.io/l/en/article/nui6tegnjw).
 
@@ -33,4 +34,4 @@ How do we inform the team of an error with a product ?
 
 ![Louise](https://files.helpdocs.io/n0njida9x8/other/1697448726388/clean-shot-2023-09-26-at-13-07-20-2-x.png)
 
-Updated 2025-02-03T15:08:15Z by Louise
+Updated 2025-02-04T16:13:18Z by Louise
