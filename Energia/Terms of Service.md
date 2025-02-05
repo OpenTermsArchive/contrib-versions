@@ -416,7 +416,7 @@ Energia
 PO Box 12380  
 Dublin 2  
    
-(b) By telephone on 0818 405 405; or  
+(b) By telephone on [0818 405 405](https://www.energia.ie/customer-care-number); or  
 (c) By online query on our [website.](https://www.energia.ie/home)
 
 #### 
@@ -593,7 +593,7 @@ All prices are subject to change as per our General Terms and Conditions above.
    
 Your bill is paid by direct debit from the bank account you specified when you signed up. The direct debit is processed 14 days after the date your bill is issued and the payment will be taken from your bank account on your chosen date.  
    
-If you need to update your bank details with us, just give us a call on 0818 405 405 with the new details.  
+If you need to update your bank details with us, just give us a call on [0818 405 405](https://www.energia.ie/customer-care-number) with the new details.  
    
 Our online payment service, fastpay.energia.ie, allows you to make payments to your accounts, which are then credited off your next bill. Payments can be made with a debit or credit card.  This is a handy way to build up credit, so you’re not hit with the full bill all at once.  
   
