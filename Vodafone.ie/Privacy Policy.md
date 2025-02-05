@@ -19,9 +19,10 @@ We have revised our privacy notice as we are introducing some new features and w
 | 1.1 | How we use your information | Updated text on analytics | 28 September 2020 |
 | 1.2 | How long we keep your personal information | Update retention periods | 19 January 2024 |
 | 1.3 | How we use your information | Updated text on analytics to include ‘customer profile’ | 19 January 2024 |
-| 2.0 | All | Structural and content changes in the privacy notice template.<br><br>Text added on A.I. | 14 October 2024 |
+| 2.0 | All | Structural and content changes in the privacy notice template.  <br>Text added on A.I. | 14 October 2024 |
+| 2.1 | Profiling, Fraud Management and Security | Updated **What data is used?** in _Fraud Prevention & Security_ to include 'Credential information' | 4 February 2025 |
 
-Last updated: 14 October 2024
+Last updated: 4 February 2025  
 
  
 
