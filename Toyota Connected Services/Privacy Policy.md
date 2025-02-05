@@ -340,7 +340,7 @@ You may only make a verifiable consumer request to know about or access your Per
 
 **13\. CONTACT US.**
 
-To contact us with a question call us at [800-331-4331](tel:800-331-4331), email us at [Office.of.Privacy@toyota.com](mailto:Office.of.Privacy@toyota.com),or mail your inquiry to:
+To contact us with a question call us at [800-331-4331](tel:800-331-4331), submit an inquiry at [Toyota Support: Contact Toyota](https://support.toyota.com/s/questions-comments?language=en_US&_gl=1*1xa4pif*_tmna_ga*MTE3ODI1MjI0Ni4xNzM4MDA3ODgz*_tmna_ga_EP43E5EFVZ*MTczODE4NTA1My4zLjEuMTczODE4NTE3MS42MC4wLjA) , or mail your inquiry to:
 
 Toyota Motor Sales, U.S.A., Inc.  
 P.O. Box 259001  
