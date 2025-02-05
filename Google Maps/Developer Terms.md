@@ -555,6 +555,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         132. Trois-Rivières QC: [https://www.donneesquebec.ca/licence/#cc-by](https://www.donneesquebec.ca/licence/#cc-by)
             
+        133. Strathcona County: [https://opendata-strathconacounty.hub.arcgis.com/datasets/StrathconaCounty::street-network-1/about](https://opendata-strathconacounty.hub.arcgis.com/datasets/StrathconaCounty::street-network-1/about)
+            
+        134. City of Kelowna: [https://opendata.kelowna.ca/maps/kelowna::road/about](https://opendata.kelowna.ca/maps/kelowna::road/about)
+            
     10. **Cambodia**
         * The Humanitarian Data Exchange (HDX) (KM): [https://data.humdata.org/dataset/cod-ab-com](https://data.humdata.org/dataset/cod-ab-com)
             
@@ -2604,6 +2608,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         236. United States Census Burea: [https://www.census.gov/data/developers/about/terms-of-service.html](https://www.census.gov/data/developers/about/terms-of-service.html)
             
         237. Hillsborough County: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        238. Atlanta Regional Commission Transportation Coordinating Committeey: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     68. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
