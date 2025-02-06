@@ -208,11 +208,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -444,11 +449,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -648,7 +658,7 @@ Recherche
 * TousAntiCovid
 
 TousAntiCovid
--------------
+=============
 
 publié le22.12.22 mise à jour12.10.23
 
@@ -978,11 +988,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -1214,11 +1229,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -1418,7 +1438,7 @@ Recherche
 * TousAntiCovid
 
 TousAntiCovid
--------------
+=============
 
 publié le22.12.22 mise à jour12.10.23
 
@@ -1720,11 +1740,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -1956,11 +1981,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -2204,6 +2234,8 @@ Recherche
 
 Recherche 
 
+Recherche 
+
 * [Actualités/Presse](https://sante.gouv.fr/actualites/)
     
     Retour
@@ -2400,11 +2432,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -2794,11 +2831,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -3188,11 +3230,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -3582,11 +3629,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -3976,11 +4028,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -4370,11 +4427,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -4656,9 +4718,13 @@ Retour
 * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
 * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
 
+* [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+* [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+
 * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
 * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
 * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+* [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
 
 * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
 * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
@@ -4829,11 +4895,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -5063,11 +5134,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -5297,11 +5373,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -5531,11 +5612,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -5765,11 +5851,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -5999,11 +6090,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -6233,11 +6329,16 @@ Recherche
             * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
             
         * [Sécurité sanitaire](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/)
+            
+            * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+            * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+            
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+            * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
@@ -6454,9 +6555,13 @@ Retour
 * [Santé bucco-dentaire](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/article/sante-bucco-dentaire)
 * [Santé sexuelle et reproductive](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/sante-sexuelle-et-reproductive/)
 
+* [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
+* [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
+
 * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
 * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
 * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
+* [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
 
 * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
 * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
@@ -6595,7 +6700,7 @@ Retour
 * TousAntiCovid
 
 TousAntiCovid
--------------
+=============
 
 publié le22.12.22 mise à jour12.10.23
 
@@ -6688,7 +6793,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 [](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#0 "Haut de page")
 
 TousAntiCovid
--------------
+=============
 
 publié le22.12.22 mise à jour12.10.23
 
@@ -6781,7 +6886,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 [](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#0 "Haut de page")
 
 TousAntiCovid
--------------
+=============
 
 publié le22.12.22 mise à jour12.10.23
 
@@ -6872,7 +6977,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 TousAntiCovid
--------------
+=============
 
 publié le22.12.22 mise à jour12.10.23
 
