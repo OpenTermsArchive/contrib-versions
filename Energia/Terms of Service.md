@@ -266,9 +266,9 @@ In either case by cheque if you have provided Energia with a forwarding address 
 
 11\. Emergency
 
-11.1 In the event of an Emergency or incident causing danger or requiring urgent attention at the Premises relating to your gas supply, you may contact the Gas Emergency Response Service on  1800 20 50 50.
+11.1 In the event of an Emergency or incident causing danger or requiring urgent attention at the Premises relating to your gas supply, you may contact the Gas Emergency Response Service on  [1800 20 50 50](https://www.energia.ie/gni-24hr-emergency-service).
 
-11.2  In the event of an Emergency or incident causing danger or requiring urgent attention at the Premises relating to your electricity supply you may contact the Electricity Emergency Response Service on 1800 372 999.
+11.2  In the event of an Emergency or incident causing danger or requiring urgent attention at the Premises relating to your electricity supply you may contact the Electricity Emergency Response Service on [1800 372 999](https://www.energia.ie/electricity-emergency-response-service).
 
 11.3 In the event of an Emergency, supply of Energy to the Premises may be discontinued from the Premises at the request of the relevant Emergency Response Service or the Relevant System Operator.
 
@@ -318,7 +318,7 @@ In either case by cheque if you have provided Energia with a forwarding address 
 
 13.2 If this Agreement does not terminate after the term specified in the Product Terms Sheet it shall remain in force on a rolling calendar month basis and you will continue to be bound by these General Terms and Conditions.  At the end of the term specified in the Product Terms Sheet, Customers on Fixed Tariffs and Hybrid Tariffs will be migrated by Energia to the alternative specified in the Product Terms Sheet or, where no such alternative is specified, the alternative Tariff that Energia considers most appropriate.
 
-13.3 You may terminate this Agreement pursuant to Clause 4.3 or otherwise by contacting us on 0818 405 405, Monday to Friday 9am to 5pm or by writing to us with your full account details at Energia, PO Box 12380, Dublin 2; provided you give Energia at least 7 days’ prior notice and a Meter reading is obtained on the Termination Date. Energia will acknowledge receipt of your letter within ten working days.  The supply of Energy at any Supply Point will terminate on the date that a confirmed Meter reading is obtained at the Premises. In the event that a confirmed Meter reading is unavailable on the Termination Date, an estimated meter reading in respect of the Premises may be applied in accordance with Clause 13.8(a).
+13.3 You may terminate this Agreement pursuant to Clause 4.3 or otherwise by contacting us on [0818 405 405](https://www.energia.ie/customer-care-number), Monday to Friday 9am to 5pm or by writing to us with your full account details at Energia, PO Box 12380, Dublin 2; provided you give Energia at least 7 days’ prior notice and a Meter reading is obtained on the Termination Date. Energia will acknowledge receipt of your letter within ten working days.  The supply of Energy at any Supply Point will terminate on the date that a confirmed Meter reading is obtained at the Premises. In the event that a confirmed Meter reading is unavailable on the Termination Date, an estimated meter reading in respect of the Premises may be applied in accordance with Clause 13.8(a).
 
 13.4 If this Agreement is for a fixed-term period (as specified in the Product Terms Sheet) and you cancel your service any time after the cooling off period and before the end of the fixed-term period, a termination fee of €50 per fuel will apply, unless otherwise specified in the Product Terms Sheet. 
 
@@ -464,7 +464,7 @@ PO Box 12380
 Dublin 2  
 Attention: Customer Service Team,  
    
-**Telephone**: +353(0)18692000,  
+**Telephone**: [0818 405 405](https://www.energia.ie/customer-care-number),  
 **Email**:[info@energia.ie](mailto:info@energia.ie)  
   
 20.2 Energia may change its address at any time by notice in writing. Notices will be deemed served or delivered to the addressee or its office:
@@ -625,7 +625,7 @@ Learn more about our [Boiler Services Terms and Conditions](https://www.energia.
 
 The quoted average monthly bill amount is calculated upon average figures outlined below.  
   
-Tariffs rates depending on urban or rural location are outlined on https://www.energia.ie/about-energia/our-tariffs 
+Tariffs rates depending on urban or rural location are outlined [here.](https://www.energia.ie/about-energia/our-tariffs)
 
 Total discount is based on your chosen price plan. You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts. 
 
@@ -846,7 +846,7 @@ We are committed to protecting your personal data and to implementing appropriat
 1. **Data we Collect**
 
 In order to provide Electric Vehicle Charing Points we collect a number of categories of personal data. We obtain this data through the registration process, marketing or through the on-going management of these services. We cannot provide you with these services unless we have the necessary information. These personal data categories may include:  
-Name, address, contact details such as telephone number, mobile phone number, email address, MPRN, bank details and system performance data.  
+Name, address, contact details such as telephone number, mobile phone number, email address, MPRN, bank details and system performance data.  
    
 System performance data includes:  
  
