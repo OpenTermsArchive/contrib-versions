@@ -41,7 +41,7 @@ These cookies are necessary for our website to function properly and cannot be s
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | .AspNetCore.Antiforgery, \_cfuvid, acct, csouser, drafts, fkey, flash-message-json, have\_a\_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, OptanonAlertBoxClosed, optimizelyEndUserId, optimizelyPPID, prov, prov\_tgt, sgt, theme, uauth, usr | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_cfuvid, .AspNetCore.Antiforgery, acct, csouser, drafts, fkey, flash-message-json, have\_a\_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, OptanonAlertBoxClosed, optimizelyEndUserId, optimizelyPPID, prov, prov\_tgt, sgt, theme, uauth, usr | 1st Party |
 | clc.stackoverflow.com | \_\_cflb | 1st Party |
 | stackoverflow.email | iterableEmailCampaignId, iterableEndUserId, iterableMessageId, iterableTemplateId | 1st Party |
 | stack.imgur.com | \_\_cf\_bm | 1st Party |
