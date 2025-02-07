@@ -879,3 +879,56 @@ c. any other security incident (including a cyber-security attack) affecting you
 | --- | --- | --- |
 | [Auto-Invest](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-autoinvest) | [Mining Pool](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-binance-pool) |     |
 | [Crypto Loan](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-crypto-loans) | [Fiat](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/terms-fiat) |     |
+| [Gift Card](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/terms-gift-card) | [OTC Terms](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-otc) |     |
+| [Swap](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-swap-farming) |     |     |
+
+### **Community**
+
+USD-$
+
+### **Company**
+
+* [About Us](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/about)
+    
+* [Inquiries](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/about#email)
+    
+* [Careers](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/careers)
+    
+* [Press](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/press)
+    
+
+### **Support**
+
+* [Support Center](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support)
+    
+* [24/7 Chat Support](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/chat?sourceEntry=4)
+    
+* [Fees](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/fee/schedule)
+    
+* [Trading Rules](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/trade-rule)
+    
+
+### **Legal**
+
+* [Terms](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms)
+    
+* [Privacy Notice](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/privacy)
+    
+
+### **Compliance**
+
+* [Risk Warning](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/risk-warning)
+    
+* [Law Enforcement Request](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support/law-enforcement)
+    
+* [Licenses & Registrations](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/licenses)
+    
+
+### **Product Terms**
+
+|     |     |
+| --- | --- |
+| [Auto-Invest](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-autoinvest) | [Mining Pool](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-binance-pool) |
+| [Crypto Loan](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-crypto-loans) | [Fiat](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/terms-fiat) |
+| [Gift Card](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/terms-gift-card) | [OTC Terms](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-otc) |
+| [Swap](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-swap-farming) |     |
