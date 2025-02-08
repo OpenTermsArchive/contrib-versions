@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last Modified: 12/22/2023
+Last Modified: 02/07/2025
 
 **SCOPE OF THIS POLICY**
 
@@ -119,7 +119,19 @@ If you have a comment or question about this privacy policy, please contact [Gue
 
 #### [Accordion Toggle US RESIDENTS’ RIGHTS](#collapse12)
 
-Notice to US Residents: If you are a US resident, you may have certain additional privacy rights. Visit our Your [US State Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-us-state-privacy-rights/) page for more information.
+Notice to US Residents: If you are a US resident, depending on where you live, you may have certain rights with respect to your personal information<p>Personal information means information that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address, and telephone number. When anonymous information is directly or indirectly associated with personal information, the resulting information also is treated as personal information.</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#Personal-information'>Learn More</a> or personal data, which include the right not to be discriminated against (as provided for under applicable law) for exercising your rights.
+
+For example, under applicable laws and regulations, subject to exceptions, you may have the right to:
+
+* request to know about and obtain access to the personal information we have collected about you;
+* request that we delete the personal information we have collected about you, subject to applicable legal exceptions;
+* request a list of the specific third parties to which we have disclosed personal data (as such terms are defined under applicable laws and regulations);
+* request to update or correct your personal information;
+* request to opt out of targeted advertising and/or the sale or sharing of your personal information (as defined under applicable laws and regulations);
+* request that we restrict our use of your personal information; and
+* exercise such other rights and choices as may be afforded to you under applicable US state privacy laws and regulations.
+
+For more information on the rights available to you under US state laws, as well as how to exercise such rights, visit our [Your US State Privacy Rights](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/your-us-state-privacy-rights/) page. You also may find additional information and options in the [Your Controls and Choices](https://privacy.thewaltdisneycompany.com/en/current-privacy-policy/#heading6) section of this privacy policy, and you can manage your communication choices from The Walt Disney Family of Companies<p>The Walt Disney Family of Companies refers to The Walt Disney Company and its subsidiary and affiliated entities, which offer their products and services under various brand names. These companies engage in a number of businesses, including theme parks and travel, motion pictures and television, publishing, consumer products and interactive services. The Walt Disney Company brands include, among others, the following: ABC Entertainment ABC News Adventures by Disney Aulani, a Disney Resort & Spa Bamtech Media Bindass Buena Vista Catalog Company (including Disney Movie Club) D23 | The Official Disney Fan Club Disney Baby Disney Channels & DisneyNOW Disney Cruise Line Disney Digital Network Disney Family Movies Disney Movie Insiders Disney on Broadway Disney on Ice and Disney Live! Disney PhotoPass Service Disney Rewards Visa Card Disney Store Disney Vacation Club Disney+ Disneyland Paris Disneyland Resort DisneyLife El Capitan Theatre ESPN ESPN CricInfo ESPN Deportes ESPN+ FiveThirtyEight Freeform FX Networks Genx Entertainment Limited Hollywood Records Hulu Hungama TV Lucasfilm (Star Wars) Marvel Marvel Shop Marvel Digital Comics Muppets National Geographic Pixar Animation Studios Radio Disney Read Riordan The Undefeated 30 for 30 Podcasts United Home Entertainment Private Limited UTV Software Communication Limited Walt Disney Pictures Walt Disney Studios Home Entertainment Walt Disney World Resort</p><a href='https://privacy.thewaltdisneycompany.com/en/definitions/#The-Walt-Disney-Family-of-Companies'>Learn More</a> in the [Communication Choices](https://privacy.thewaltdisneycompany.com/en/privacy-controls/communication-choices/) section of this privacy policy found under the Privacy Controls tab.
 
 #### [Accordion Toggle UK, EU, & EMEA RESIDENTS' RIGHTS](#collapse13)
 
