@@ -41,7 +41,7 @@ These cookies are necessary for our website to function properly and cannot be s
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_cfuvid, .AspNetCore.Antiforgery, acct, csouser, drafts, fkey, flash-message-json, have\_a\_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, OptanonAlertBoxClosed, optimizelyEndUserId, optimizelyPPID, prov, prov\_tgt, sgt, theme, uauth, usr | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_eoi, \_cfuvid, .AspNetCore.Antiforgery, acct, csouser, datr, drafts, fkey, flash-message-json, have\_a\_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, OptanonAlertBoxClosed, optimizelyEndUserId, optimizelyPPID, prov, prov\_tgt, sgt | 1st Party |
 | clc.stackoverflow.com | \_\_cflb | 1st Party |
 | stackoverflow.email | iterableEmailCampaignId, iterableEndUserId, iterableMessageId, iterableTemplateId | 1st Party |
 | stack.imgur.com | \_\_cf\_bm | 1st Party |
@@ -52,6 +52,7 @@ These cookies are necessary for our website to function properly and cannot be s
 | stacksnippets.net | intercom-id-inf0secd, intercom-session-inf0secd | 3rd Party |
 | cdn.sstatic.net | OptanonAlertBoxClosed, OptanonConsent | 3rd Party |
 | sstatic.net | \_\_cf\_bm | 3rd Party |
+| wikipedia.org | GeoIP | 3rd Party |
 | google.com | \_\_Secure-3PSID, \_\_Secure-APISID, \_\_Secure-HSID, \_\_Secure-SSID, 1P\_JAR, APISID, HSID, NID, SAPISID, SID, SIDCC, SSID | 3rd Party |
 | intercom.com | gtm\_id | 3rd Party |
 | artstation.com | \_\_cf\_bm | 3rd Party |
@@ -121,11 +122,9 @@ These cookies are used to make advertising messages more relevant to you and may
 | scorecardresearch.com | UID, UIDR | 3rd Party |
 | www.linkedin.com | bscookie, JSESSIONID | 3rd Party |
 | casalemedia.com | CMID, CMPRO, CMPS, CMST | 3rd Party |
-| facebook.com | fr  | 3rd Party |
 | demdex.net | demdex | 3rd Party |
 | yahoo.com | A1, A1S, A3, B, GUC | 3rd Party |
 | en.wikipedia.org | NetworkProbeLimit, WMF-Last-Access | 3rd Party |
-| www.facebook.com |     | 3rd Party |
 
 You can withdraw any consent to the use of cookies or manage any other cookie preferences by visiting our Cookie Settings or clicking on the bottom of every page of our websites. You can then toggle on or off the buttons as appropriate. It may be necessary to refresh the page for the updated settings to be displayed.
 
