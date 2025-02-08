@@ -4,7 +4,7 @@ Privacy and Cookie Statement
 Privacy Statement
 -----------------
 
-22 Dec 2023
+5 Sept 2024
 
 First things first – your privacy is important to us. That might be the kind of thing all these notices say, but we mean it. You place your trust in us by using Booking.com services and we value that trust. That means we’re committed to protecting and safeguarding your personal data. We act in our customers’ best interest and we are transparent about the processing of your personal data.
 
@@ -505,7 +505,7 @@ We’ll use this information to help provide you with the service you requested 
 
 Your social media provider will be able to tell you more about how they use and process your data when you connect to Booking.com through them. This can include combining the personal data they collect when you use Booking.com through them with information they collect when you use other online platforms you have also linked to your social media account.
 
-If you decide to connect using your Facebook or Google account, please review the following links for information about how these parties use data they receive: [Facebook](https://www.facebook.com/policy.php) and [Google](https://www.google.com/policies/privacy/partners/).
+If you decide to connect using your Facebook or Google account, please review the following links for information about how these parties use data they receive: [Facebook](https://www.facebook.com/policy.php) and [Google](https://business.safety.google/privacy/).
 
 * * *
 
