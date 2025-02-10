@@ -3,7 +3,7 @@ Privacy Policy
 
 _Effective: 1 August, 2024_
 
-This Privacy Policy ("Privacy Policy") describes the types of Information that IDB LLC ("we" or "us") may collect from you through our software, website ("Site"), documentation, and related services (together, the "Services"), in person, and other means, unless otherwise expressly stated by IDB. This Privacy Policy also describes how we collect, store, use, process, and share that Information.
+This Privacy Policy ("Privacy Policy") describes the types of Information that IPinfo Inc. ("we" or "us") may collect from you through our software, website ("Site"), documentation, and related services (together, the "Services"), in person, and other means, unless otherwise expressly stated by IDB. This Privacy Policy also describes how we collect, store, use, process, and share that Information.
 
 Please read this Privacy Policy to understand our policies and practices regarding your Information and how we will handle it. If you do not agree with our policies and practices, do not use the Services or provide your Information to us.
 
