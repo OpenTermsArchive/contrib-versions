@@ -748,8 +748,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
-[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#0 "Haut de page")
-
 Suivez-nous  
 sur les réseaux sociaux
 -------------------------------------
@@ -1527,8 +1525,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 * * *
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
-
-[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#0 "Haut de page")
 
 * [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#content)
 * [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#main-nav)
@@ -6790,8 +6786,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
-[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#0 "Haut de page")
-
 TousAntiCovid
 =============
 
@@ -6882,8 +6876,6 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 * * *
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
-
-[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#0 "Haut de page")
 
 TousAntiCovid
 =============
