@@ -6,7 +6,7 @@ _Last Updated: June 3, 2024_
 Introduction
 ------------
 
-These Terms of Service ("Terms") govern your use of the website at IPinfo.io and all interactive features and communications provided in connection with the website (the "Site"). These Terms are an agreement between you and IDB LLC, which is the provider and operator of the Site. For the purposes of these Terms, "we," "our," "us," and "IDB" refer to IDB LLC.
+These Terms of Service ("Terms") govern your use of the website at IPinfo.io and all interactive features and communications provided in connection with the website (the "Site"). These Terms are an agreement between you and IPinfo Inc., which is the provider and operator of the Site. For the purposes of these Terms, "we," "our," "us," and "IDB" refer to IPinfo Inc.
 
 Your use of the Site indicates your agreement to these Terms. If you are registering for or using the Site on behalf of an organization, you are agreeing to these Terms for that organization and promising that you have the authority to bind that organization to these Terms. In that case, "you" and "your" will also refer to that organization, wherever possible.
 
