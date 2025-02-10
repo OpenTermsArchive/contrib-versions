@@ -3,7 +3,7 @@ Terms & Conditions
 
 ![Louise](https://files.helpdocs.io/n0njida9x8/other/1697448726388/clean-shot-2023-09-26-at-13-07-20-2-x.png)
 
-Updated 2025-02-04T16:13:18Z by Louise
+Updated 2025-02-10T17:36:07Z by Louise
 
 There are several versions of Yuka's Terms & Conditions, depending on the country of residence of the User :
 
@@ -29,4 +29,4 @@ How do I contact the team? ✉️
 
 ![Louise](https://files.helpdocs.io/n0njida9x8/other/1697448726388/clean-shot-2023-09-26-at-13-07-20-2-x.png)
 
-Updated 2025-02-04T16:13:18Z by Louise
+Updated 2025-02-10T17:36:07Z by Louise
