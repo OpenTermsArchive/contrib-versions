@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Updated on: 12/12/2023
+Updated on: 10/02/2024
 
 Definitions
 ===========
@@ -153,7 +153,7 @@ Article 5: Services and Features
 5.1 Purpose of the Service
 --------------------------
 
-HAPPN is an online dating application enabling Members to find, in the Application, people with whom they have crossed paths or may cross paths, as well as those likely to interest them. The Application offers Members profiles that are automatically selected based on their search preferences, their profile activity on the Application, their Characteristics, favourite places or location. The Member cannot modify the recommendation criteria. We believe these criteria are the most likely to determine your compatibility with the profiles offered by the Application.
+HAPPN is an online dating application enabling Members to find, in the Application, people with whom they have crossed paths or may cross paths, as well as those likely to interest them. The Application offers Members profiles that are automatically selected based on their search preferences, their profile activity on the Application, their Characteristics, favourite places or location. The Member cannot modify the recommendation criteria. We believe these criteria are the most likely to determine your compatibility with the profiles offered by the Application. However, the information that the Member fills in on his/her profile is likely to influence the recommendations.
 
 Each Member is free to talk to and form relationships with other Members in compliance with these TOS and the law.
 
@@ -247,27 +247,13 @@ HAPPN and its partners cannot be held liable for actions by its Members which ar
 7.3 Reporting and Community Moderation System
 ---------------------------------------------
 
-As a hosting provider and pursuant to Article 6.I-7 of the French Trust in the Digital Economy Act of June 21, 2004, HAPPN has no legal obligation to monitor the content sent or stored via the Application.
+HAPPN, as host, is not bound by any general obligation to monitor the content transmitted or stored via the Application pursuant to Article 8 of Regulation (EU) 2022/2065 of 19 October 2022 on a single market for digital services (‘Digital Services Regulation’).
 
-However, according to Article 6.I-3 of this law, as a hosting provider, HAPPN must set up a reporting and community moderation system in order to report some unlawful, abusive and prejudicial content.
+However, in accordance with Article 16 of the Digital Services Regulation, HAPPN shall set up a notification system to report illegal, abusive and harmful content.
 
-In such case and after due verification by Customer Service, HAPPN commits to promptly remove the said content.
+In this case, after verification by Customer Services, HAPPN undertakes to promptly remove the manifestly illegal content.
 
-Pursuant to Article 6.I-5 of the French Trust in the Digital Economy Act: the knowledge of illicit content is deemed effective when the hosting provider is notified of following:
-
-• The notification date
-
-• The content transmitter’s identity
-
-• A description of the disputed facts and their precise location (with the option of attaching screenshots of the disputed content);
-
-• As well as the reasons for content removal, including the legal provisions and factual evidence;
-
-• a copy of the correspondence sent to the author of the disputed content requesting its removal or modification, or proof that the author could not be contacted;
-
-• as well as a statement confirming that the notifier believes they are acting in good faith and that the information is accurate and complete. 
-
-HAPPN has therefore equipped the Application with a reporting and community moderation system, allowing Members to report the content described in Article 6.I-7 of the French Trust in the Digital Economy Act if it constitutes apology for crimes against humanity, apology for and incitement to terrorism, incitement to racial hatred, incitement to hatred based on gender, sexual orientation or handicap and inter alia child pornography, incitement to violence against women and violation of human dignity.
+In addition, the Application allows Members to report content if it constitutes apology for crimes against humanity, apology for and incitement to terrorism, incitement to racial hatred, incitement to hatred based on gender, sexual orientation or handicap and inter alia child pornography, incitement to violence against women and violation of human dignity.
 
 Guided by an extremely strict professional ethic and refusing any association with violent or insulting Members as well as unlawful, abusive or prejudicial content, HAPPN’s team takes this reporting procedure very seriously, which may also be implemented in the case of statements contrary to accepted social etiquette.
 
@@ -287,7 +273,7 @@ Should content be published that was reported and that may be seen as a violatio
 
 The reporting system put in place by HAPPN does not replace any complaint and judicial procedure against a Member who authored the reported content. 
 
-Any misuse of the community moderation system or any unjustified reporting of a Member shall be considered a breach of these TOS, and penalties may be imposed including Account suspension/termination, pursuant to Article 15.4 « Suspension/Termination of the Account by HAPPN in the event that a Member violates the terms and conditions of use » of the TOS, besides application of penalties pursuant to Article 6.I-4 of the French Trust in the Digital Economy Act or even legal proceedings, under which damages may have to be paid to victims.
+Any misuse of the community moderation system or any unjustified reporting of a Member (manifestly unfounded reports made in bad faith) shall be considered a breach of these TOS, and penalties may be imposed including Account suspension/termination, pursuant to Article 14.4 « Suspension/Termination of the Account by HAPPN in the event that a Member violates the terms and conditions of use » of the TOS, besides application of penalties pursuant to Article 6.I-4 of the French Trust in the Digital Economy Act or even legal proceedings, under which damages may have to be paid to victims.
 
 In addition, in accordance with its Privacy Policy, HAPPN puts measures in place to support its Members' peace of mind and security on the Application. 
 
@@ -712,3 +698,16 @@ Article 16: Confidentiality Clause 
 ===================================
 
 Neither HAPPN nor the Member are authorized to disclose information about the agreement between them, and each party agrees to comply with a confidentiality clause which requires them to prefer confidential negotiations in the event of a disagreement.
+
+Article 17: Internal Complaints Handling System
+===============================================
+
+The Application is considered to be an ‘intermediary service’ within the meaning of Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a single market for digital services and amending Directive 2000/31/EC (the ‘Digital Services Regulation’ or ‘DSR’), which entered into force on 17 February 2024.
+
+In accordance with Article 20 of the Digital Services Regulation, HAPPN has set up an internal complaints handling system (the ‘ **Complaints Handling System** ’). Its internal regulations are available on the following page [https://support.happn.fr/hc/en-us/articles/24923334905501-Internal-Complaint-Handling-System-Regulations](https://support.happn.fr/hc/en-us/articles/24923334905501-Internal-Complaint-Handling-System-Regulations).
+
+This complaints handling system may benefit any person who has been the subject of a measure following a report or any person who is dissatisfied with the measure taken by HAPPN following a report. Any person concerned and wishing to contest the measure taken by HAPPN can contact HAPPN at the following e-mail address:[dispute@happn.com](mailto:dispute@happn.com).
+
+You also have the possibility to refer the matter to [a certified out-of-court dispute resolution body](https://digital-strategy.ec.europa.eu/en/policies/dsa-out-court-dispute-settlement)  or to appeal to the competent court.
+
+Any abuse in the use of the Internal Complaints Handling System (complaints that are manifestly unfounded and made in bad faith) will also be considered a breach of these T&Cs and may result in the suspension/termination of the Account of the Member who committed such abuse, in accordance with Article 14.4 “Suspension/Termination of the Account by HAPPN in the event of a Member’s breach of the T&Cs” of the T&Cs.
