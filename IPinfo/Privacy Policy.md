@@ -3,18 +3,18 @@ Privacy Policy
 
 _Effective: 1 August, 2024_
 
-This Privacy Policy ("Privacy Policy") describes the types of Information that IPinfo Inc. ("we" or "us") may collect from you through our software, website ("Site"), documentation, and related services (together, the "Services"), in person, and other means, unless otherwise expressly stated by IDB. This Privacy Policy also describes how we collect, store, use, process, and share that Information.
+This Privacy Policy ("Privacy Policy") describes the types of Information that IPinfo Inc. ("we" or "us") may collect from you through our software, website ("Site"), documentation, and related services (together, the "Services"), in person, and other means, unless otherwise expressly stated by IPinfo. This Privacy Policy also describes how we collect, store, use, process, and share that Information.
 
 Please read this Privacy Policy to understand our policies and practices regarding your Information and how we will handle it. If you do not agree with our policies and practices, do not use the Services or provide your Information to us.
 
-IDB may change this Privacy Policy at any time, at its discretion. Please check the Privacy Policy periodically for updates.
+IPinfo may change this Privacy Policy at any time, at its discretion. Please check the Privacy Policy periodically for updates.
 
 Capitalized terms not defined in this Privacy Policy have the meaning as set forth in the Terms of Service for the Services, which can be found at [https://ipinfo.io/terms-of-service](https://ipinfo.io/terms-of-service).
 
-The Types of Information That IDB Collects About You and How IDB Collects That Information
-------------------------------------------------------------------------------------------
+The Types of Information That IPinfo Collects About You and How IPinfo Collects That Information
+------------------------------------------------------------------------------------------------
 
-IDB may collect Information from you directly, from the devices you use to interact with us, and from third parties "Information" is data related to your use of the Services and may include data by which you may be personally identified, such as name, postal address, e-mail address and telephone number. In some cases, you provide this Information to us directly, and at other times the Information is collected automatically. Below are specific types of Information we may collect through various means and in typical situations.
+IPinfo may collect Information from you directly, from the devices you use to interact with us, and from third parties "Information" is data related to your use of the Services and may include data by which you may be personally identified, such as name, postal address, e-mail address and telephone number. In some cases, you provide this Information to us directly, and at other times the Information is collected automatically. Below are specific types of Information we may collect through various means and in typical situations.
 
 ### Personal Contact Information
 
@@ -62,8 +62,8 @@ The following is a list of our Data Processors who collect the Information descr
 
 _Location Information -_ We do not use GPS technology to collect any Information regarding your precise real-time geo-location while using the Services. However, we may use elements of your Usage and Analytics Information (such as your IP address) to determine your generalized location. This Information is referred to as "Generalized Location Information."
 
-How IDB Uses Information It Collects About You and the Purpose for the Collection and Use
------------------------------------------------------------------------------------------
+How IPinfo Uses Information It Collects About You and the Purpose for the Collection and Use
+--------------------------------------------------------------------------------------------
 
 We use Information that we collect about you or that you provide to us for the following purposes:
 
@@ -106,8 +106,8 @@ Please note that if you are registering for or using the Services as an administ
 
 If we plan to use your Information in the future for any other purposes not identified above, we will only do so after informing you by updating this Privacy Policy. See the section of this Privacy Policy entitled "Changes to this Privacy Policy." We can use and share non-personally-identifying Information for any purpose without restriction.
 
-When IDB Shares Your Information
---------------------------------
+When IPinfo Shares Your Information
+-----------------------------------
 
 We may disclose Information that we collect or you provide as described in this Privacy Policy:
 
@@ -137,14 +137,14 @@ If you are located in the EEA or UK you may have certain rights under European a
 
 ### Controller of Personal Information
 
-IDB is the Controller of your Personal Information. IDB's primary business address is 5616 49th Ave SW, Seattle, WA 98136, and its remittance address is 300 Lenora Street, #516, Seattle, WA 98121.
+IPinfo is the Controller of your Personal Information. IPinfo's primary business address is 5616 49th Ave SW, Seattle, WA 98136, and its remittance address is 300 Lenora Street, #516, Seattle, WA 98121.
 
 ### Processing
 
-IDB may process your Personal Information on one or more of the following legal bases:
+IPinfo may process your Personal Information on one or more of the following legal bases:
 
 * as necessary to enter into a contract with you or a legal entity you represent, to perform our contractual obligations, to provide services, to respond to requests from you, or to provide support;
-* where we have a legitimate interest, as described in this Privacy Policy (see "How IDB Uses Information It Collects About You and the Purposes for Collection and Use");
+* where we have a legitimate interest, as described in this Privacy Policy (see "How IPinfo Uses Information It Collects About You and the Purposes for Collection and Use");
 * as necessary to comply with relevant law and legal obligations, including to respond to lawful requests and orders; or
 * with your consent.
 
@@ -164,7 +164,7 @@ You can exercise your rights of access, rectification, erasure, restriction, obj
 
 Where we process your Personal Information for a specified purpose based on your consent, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose.
 
-The categories of Personal Information that we collect are identified in the section titled "The Types of Information That IDB Collects about You and How IDB Collects That Information." Additional information about how long we will retain your Information and how we share your Information is found in the section titled "How IDB Uses Information It Collects About You and the Purpose for the Collection and Use" and the section titled "How Long We Retain Your Personal Information."
+The categories of Personal Information that we collect are identified in the section titled "The Types of Information That IPinfo Collects about You and How IPinfo Collects That Information." Additional information about how long we will retain your Information and how we share your Information is found in the section titled "How IPinfo Uses Information It Collects About You and the Purpose for the Collection and Use" and the section titled "How Long We Retain Your Personal Information."
 
 How We Keep Your Personal Information Secure
 --------------------------------------------
@@ -200,4 +200,4 @@ How You Can Contact Us
 
 You can help by keeping us informed of any changes in your Information, such as a change of email address or telephone number. If you have any questions, comments or suggestions, please contact us at [support@ipinfo.io](mailto:support@ipinfo.io) or by mail at:
 
-IDB, LLC 300 Lenora Street #516, Seattle, WA 98136, USA
+IPinfo Inc. 300 Lenora Street #516, Seattle, WA 98136, USA
