@@ -3,11 +3,11 @@ Pangea temporary hotfixes here
 Logitech Privacy Policy
 -----------------------
 
-**Last updated:** January 2025
+**Last updated:** February 2025
+
+Logitech’s previous Privacy Policy can be viewed [here](https://www.logitech.com/en-gb/legal/privacy-policy/privacy-policy-archive.html).
 
 Your privacy is essential to Logitech. This Privacy Policy explains how we handle your personal data.
-
-Logitech's previous Product Privacy Policy and Web Privacy Policy have been combined into this one comprehensive Privacy Policy to provide you with a unified and clear explanation on how we process your personal data. The previous Product Privacy Policy can be viewed [here](https://www.logitech.com/en-gb/legal/product-privacy-policy/product-privacy-policy-archive.html) and the previous Website Privacy Policy [here](https://www.logitech.com/en-gb/legal/web-privacy-policy/web-privacy-policy-archive.html).
 
 This Privacy Policy is applicable to all data we handle through our products and services, our websites and mobile sites (Sites), our applications (apps), software and other devices. Logitech operates under its parent company, Logitech Europe S.A., and the specific Logitech company that controls your data may vary depending on your relationship with us (whether it be as a customer, partner, supplier, contractor or any other relevant relationship).
 
@@ -19,14 +19,15 @@ The sections below detail the types of personal data we collect, how we use them
 * [INFORMATION WE COLLECT](#information-we-collect)
 * [HOW WE USE INFORMATION](#how-we-use-information)
 * [SHARING AND DISCLOSING INFORMATION](#sharing-and-disclosing-information)
-* [CONTROLLING AND ACCESSING INFORMATION](#controlling-and-accessing-information)
 * [CHILDREN](#children)
 * [DATA SECURITY](#data-security)
 * [HOW WE STORE AND PROCESS INFORMATION](#how-we-store-and-process-information)
 
-* [SPECIAL INFORMATION FOR EEA/UK/CH USERS](#special-information-for-eea-uk-ch-users)
-
 * [YOUR RIGHTS AND CHOICES](#your-rights-and-choices)
+
+* [ADDITIONAL DISCLOSURES FOR CALIFORNIA RESIDENTS](#additional-disclosures-for-california-residents)
+
+* [SPECIAL INFORMATION FOR EEA/UK/CH USERS](#special-information-for-eea-uk-ch-users)
 
 * [CHANGES TO THIS POLICY](#changes-to-this-policy)
 
@@ -260,22 +261,6 @@ Finally, we will access, transfer, disclose, and preserve personal data, includi
 **Information provided by you to third parties**  
 We are not responsible for information provided by you to third parties, and that information is not subject to this policy. You assume all privacy, security, and other risks with providing information, including personal data, to third parties. To understand the privacy protections from third parties, you should refer to their privacy policies, if any.
 
-CONTROLLING AND ACCESSING INFORMATION
--------------------------------------
-
-You can direct us to update, delete, or deactivate certain information pertaining to you. You can also request that we remove your personal data from the blog, community forums, or other public areas within our control. If we cannot remove certain personal data, we will let you know why.
-
-You also have the right to request how your data is processed and with whom we share it. Additionally, if you believe certain information Logitech processes about you is inaccurate, you have the right to have this information corrected. We will endeavor to respond to your request to review the information we have on file for you within 30 days from receiving such request.
-
-You can unsubscribe from marketing emails from us by following the instructions in the email you received or at the [subscription management page](https://www.logitech.com/en-gb/my-account/email-preferences.html) on our website. We try to respond to requests to review information we have on file within 30 days of receiving a request.
-
-You can “opt-out” of having your personal data used for certain purposes whenever we ask for this information. If you have questions, comments or would like to make a request about your data or our Privacy Policy or data practices, please contact us at [support.logitech.com/response-center](https://support.logitech.com/response-center) or through the following methods:
-
-Phone: +1 646-454-3200 or toll free +1 866 632 5644  
-Contact: [support.logitech.com/response-center](https://support.logitech.com/response-center)
-
-If you are not satisfied with our response, you can refer your privacy complaint or dispute to the state or national data protection authority in your jurisdiction.
-
 CHILDREN
 --------
 
@@ -286,13 +271,13 @@ DATA SECURITY
 
 We are committed to the protection of your personal data. We use TLS certificates, encryption, data access limitations, anti-virus software, and firewalls to reduce the risk of unauthorized access to personal data. No data transmission over the Internet or any wireless network is entirely secure. Be mindful of security risks when you transmit personal data to us and when you post information in our public forums.
 
-If you would like to report any security issues in any of our products, please fill out the form and required attachments and send it to [Logitech Security](https://content.logitech.com/filedrop/PSIRT).
+If you would like to:
+
+* Report a security issue in any of our products, please fill out the form include the required attachments and send it to [Logitech Security](https://content.logitech.com/filedrop/PSIRT).
+* Report a website security issue or phishing mail, please contact us via the Logitech Response Center at [support.logitech.com/response-center](http://support.logitech.com/response-center)
 
 HOW WE STORE AND PROCESS INFORMATION
 ------------------------------------
-
-Data Retention
---------------
 
 We retain personal data for as long as necessary to provide functionality and fulfill the transactions you have requested, or for other legitimate purposes such as complying with our legal obligations, resolving disputes, and enforcing our agreements. Because these needs can vary for different data types, the context of our interactions with you or your use of our Sites, actual retention periods can vary significantly.
 
@@ -311,41 +296,10 @@ Personal data collected by us may be stored and processed in the United States o
 
 We take steps to ensure that the data we handle is processed as described in this Policy and according to the law wherever the data is located.
 
-SPECIAL INFORMATION FOR EEA/UK/CH USERS
----------------------------------------
-
-This section provides information for users in the European Economic Area (EEA), the United Kingdom (UK) and Switzerland (CH) whose personal data is processed by Logitech in the EEA, the UK or Switzerland.
-
-### 
-
-Read More
-
-### 
-
-Read More
-
-Read More
-
-The information you provide may be transferred or accessed by Logitech entities around the world as described in this policy.
-
-Legal bases for processing
---------------------------
-
-We process personal data for one or more of the following reasons:
-
-1. **To provide you with products or services you request**  
-    We need to activate and register products, ensure products and services you use are working as they should, maintain products, answer questions and requests from you, and provide customer support under warranty or service contract.
-2. **For Logitech’s legitimate interests**  
-    We need to detect and prevent fraud and protect and defend the rights or property of other customers or third parties, or our own rights and interests. We consider your data protection interests when we do so and redact personal data as much as practicable.
-3. **To meet Logitech’s legal obligations**  
-    We may need to comply with EU law, EU Member State laws, UK law, Swiss law, regulatory requirements, and respond to lawful requests, court orders, and legal process.
-4. **With consent**  
-    Logitech uses some personal data based on consent. For example, we process usage data to conceive new products and services, and improve functionality, security and safety. We also use data with your consent for our direct marketing communications.
-
 Your rights and choices
 -----------------------
 
-If you are a Logitech customer, you may have the rights described below.
+You may have the rights described below:
 
 **Right of access**
 
@@ -358,11 +312,11 @@ If you are a Logitech customer, you may have the rights described below.
 
 **Right to deletion**
 
-* You can ask us to permanently delete your data.
+* You can ask us to permanently delete your data. There may be data that we are required to keep to comply with applicable law.
 
 **Right to object**
 
-* You can object to our use of your data on the basis of legitimate interest or for direct marketing. You can also ask not to make decisions about you based solely on automated processing. Except for direct marketing, we may continue to process your data if it’s allowed.
+* You can object to our use of your data on the basis of legitimate interest or for direct marketing. You can also ask not to make decisions about you based solely on automated processing. Except for direct marketing, we may continue to process your data if it’s allowed under applicable law.
 
 **Right to restriction of processing**
 
@@ -370,7 +324,7 @@ If you are a Logitech customer, you may have the rights described below.
 
 **Right to portability**
 
-* You can ask to port the data you have actively or passively provided to us, where we have that data based on your consent or a contract with you and our processing of the data is automated.
+* You can ask us to port the data you have actively or passively provided to us, where we have that data based on your consent or a contract with you and our processing of the data is automated.
 
 **Right to complain to the supervisory authority**
 
@@ -382,21 +336,25 @@ If you are a Logitech customer, you may have the rights described below.
     Ireland  
     Phone: +1800 437 437, +353 (01)765 01 00  
       
-    Your use of our products and services is voluntary, so where our processing is based on consent, you can withdraw your consent at any time by using the various contact information methods listed above.
+    
+
+Your use of our products and services is voluntary, so where our processing is based on consent, you can withdraw your consent at any time by using the various contact information methods listed above.
 
 In compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), Logitech commits to resolve DPF Principles-related complaints about our collection and use of your personal data. EU and UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF and the Swiss-U.S. DPF should first contact Logitech.
 
-How to invoke your rights and choices
+**How to invoke your rights and choices**
 
 To invoke any of these rights and resolve enquiries or complaints, please contact us through the following methods:
 
 * For access and deletion requests, please go to the [Logitech Privacy Portal](https://logitech-privacy.relyance.ai/).
     
+* For opting out of receiving marketing emails, you can do so at any time by clicking the "unsubscribe" link in the email; by visiting our Preference Center; or by logging into your Logitech account and navigating to Email Preferences.
+    
 * For general enquiries, please email privacy@logitech.com
     
-* For phone: + 1-646-454-3200 or toll free +1 866-632-5644
+* For phone, please call: + 1-646-454-3200 or toll free +1 866-632-5644
     
-* For postal mail: 
+* For postal mail please send it to: 
     
 
                         C/O Logitech Privacy Team
@@ -432,6 +390,77 @@ See below the list of Logitech U.S. affiliates and subsidiaries also adhering to
 Logitech has responsibility for the processing of personal data it receives under the DPF Principles and subsequently transfers to a third party acting as an agent on its behalf. Logitech shall remain liable under the DPF Principles if its agent processes such personal data in a manner inconsistent with the DPF Principles, unless Logitech proves that it is not responsible for the event giving rise to the damage.
 
 The Federal Trade Commission (FTC) has jurisdiction over Logitech’s compliance with the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF.
+
+ADDITIONAL DISCLOSURES FOR CALIFORNIA RESIDENTS
+-----------------------------------------------
+
+Under the California Consumer Privacy Act of 2018, as amended, including by the California Privacy Rights Act of 2020 (together, CCPA), California residents have specific rights around Logitech's collection, use, and sharing of their personal data. We do not sell your personal data, and we will not do so in the future without providing you with notice and an opportunity to opt-out. If you require this notice in an alternative format, please email [privacy@logitech.com](mailto:privacy@logitech.com) or call our toll-free number +1 866 632 5644.
+
+### 
+
+Read More
+
+### 
+
+Read More
+
+Read More
+
+Logitech collects and uses various types of personal data when you use its products and services, which are described within the Logitech Product and Web Privacy Policies.
+
+Logitech shares personal data with third parties for business purposes. Specifically, here are the seven categories of activities for which we share data for business purposes:
+
+* Auditing
+* Security
+* Debugging and Technical Troubleshooting
+* Short term, transient use (personal data is not disclosed to third parties and it is not used to build profiles)
+* Performing Services
+* Internal Research
+* Testing or Product/Service Improvement
+
+If you are a resident of California, you have the right to request to know what personal data has been collected about you, how we use, share and disclose it, and to access that information. You also have the right to request that we delete your personal data, though exceptions under the CCPA may allow us to retain and use certain personal data.
+
+We do not sell your personal data. In limited circumstances we share your personal data for advertising. You can “opt-out” of having your personal data used for this purpose by clicking the “unsubscribe” link in the email; by visiting our Preference Center; or by logging into your Logitech account and navigating to Email Preferences.
+
+You can learn more about how to submit a data rights request through contact details located within this policy. An agent may submit a request on your behalf, but you must provide proof that the agent is authorized to do so by providing the agent with a signed letter giving permission to submit a request on your behalf and you must confirm that authorization directly with us by sending an email to [privacy@logitech.com](mailto:privacy@logitech.com).
+
+We will not discriminate against you for exercising your rights under the CCPA. Unless permitted by the CCPA, we will not deny you goods or services, charge different prices or rates, or provide a different service level for exercising your privacy rights. However, we may offer certain financial incentives permitted by the CCPA that can result in different prices, discounts or quality levels. Any incentive we offer will reasonably relate to your personal data and will only be collected or processed with your consent.
+
+California’s Shine the Light Law
+--------------------------------
+
+Separate from the CCPA, California’s Shine the Light law gives California residents the right to ask companies what personal data they share with third parties for those third parties’ direct marketing purposes. We do not disclose your personal data to third parties for the purpose of directly marketing their goods or services to you unless you request it. If you have any questions regarding this policy, or would like to change your preferences, you may contact us at the address listed in this policy.
+
+SPECIAL INFORMATION FOR EEA/UK/CH USERS
+---------------------------------------
+
+This section provides information for users in the European Economic Area (EEA), the United Kingdom (UK) and Switzerland (CH) whose personal data is processed by Logitech in the EEA, the UK or Switzerland.
+
+### 
+
+Read More
+
+### 
+
+Read More
+
+Read More
+
+The information you provide may be transferred or accessed by Logitech entities around the world as described in this policy.
+
+Legal bases for processing
+--------------------------
+
+We process personal data for one or more of the following reasons:
+
+1. **To provide you with products or services you request**  
+    We need to activate and register products, ensure products and services you use are working as they should, maintain products, answer questions and requests from you, and provide customer support under warranty or service contract.
+2. **For Logitech’s legitimate interests**  
+    We need to detect and prevent fraud and protect and defend the rights or property of other customers or third parties, or our own rights and interests. We consider your data protection interests when we do so and redact personal data as much as practicable.
+3. **To meet Logitech’s legal obligations**  
+    We may need to comply with EU law, EU Member State laws, UK law, Swiss law, regulatory requirements, and respond to lawful requests, court orders, and legal process.
+4. **With consent**  
+    Logitech uses some personal data based on consent. For example, we process usage data to conceive new products and services, and improve functionality, security and safety. We also use data with your consent for our direct marketing communications.
 
 Creativity and Productivity products
 ------------------------------------
