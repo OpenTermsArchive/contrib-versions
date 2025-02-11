@@ -667,7 +667,7 @@ publié le22.12.22 mise à jour12.10.23
 * Imprimer
 
 * [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
-* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
+* [Partager sur X](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur X")
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
@@ -1445,7 +1445,7 @@ publié le22.12.22 mise à jour12.10.23
 * Imprimer
 
 * [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
-* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
+* [Partager sur X](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur X")
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
@@ -6705,7 +6705,7 @@ publié le22.12.22 mise à jour12.10.23
 * Imprimer
 
 * [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
-* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
+* [Partager sur X](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur X")
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
@@ -6796,7 +6796,7 @@ publié le22.12.22 mise à jour12.10.23
 * Imprimer
 
 * [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
-* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
+* [Partager sur X](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur X")
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
@@ -6887,7 +6887,7 @@ publié le22.12.22 mise à jour12.10.23
 * Imprimer
 
 * [Envoyer le lien de l’article par email à un ami](mailto:?subject=TousAntiCovid&body=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Envoyer le lien de l’article par email à un ami")
-* [Partager sur twitter](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur twitter")
+* [Partager sur X](http://twitter.com/intent/tweet/?url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid&text=TousAntiCovid "Partager sur X")
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
