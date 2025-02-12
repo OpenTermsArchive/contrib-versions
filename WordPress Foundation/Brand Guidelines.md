@@ -46,17 +46,17 @@ Use of the WordCamp name and logo is additionally allowed in the following situa
 
 All other WordPress-related businesses or projects can use the WordPress name and logo to refer to and explain their services, but they cannot use them as part of a product, project, service, domain name, or company name and they cannot use them in any way that suggests an affiliation with or endorsement by the WordPress Foundation or the WordPress open source project.
 
-For example, a consulting company can describe its business as “123 Web Services, offering WordPress consulting for small businesses,” but cannot call its business “The WordPress Consulting Company.” Similarly, a business related to WordPress themes can describe itself as “XYZ Themes, the world’s best WordPress themes,” but cannot call itself “The WordPress Theme Portal.”
+For example, a consulting company can describe its business as “123 Web Services, offering WordPress consulting for small businesses,” but cannot call its business “The WordPress Consulting Company.” Similarly, a business related to WordPress themes can describe itself as “XYZ Themes, the world’s best WordPress themes,” but cannot call itself “The WordPress Theme Portal.” Other examples of terms not to use are “Hosted WordPress,” or “Managed WordPress Hosting” instead use “Hosting for WordPress.”
 
 Similarly, it’s OK to use the WordPress or WordCamp logo as part of a page that describes your products or services, but it is not OK to use it as part of your company or product logo or branding itself. Under no circumstances is it permitted to use WordPress or WordCamp as part of a domain name or top-level domain name.
 
 We do not allow the use of the trademark in advertising, including AdSense/AdWords.
 
-Please note that it is not the goal of this policy to limit commercial activity around WordPress. We encourage WordPress-based businesses, and hundreds of them are thriving while in compliance with this policy (Automattic, GoDaddy, Hostinger, and Bluehost are a few examples).
+Please note that it is not the goal of this policy to limit commercial activity around WordPress. We encourage WordPress-based businesses, and hundreds of them are thriving while in compliance with this policy (Automattic, Newfold, Hostinger, and Bluehost are a few examples).
 
-The abbreviation “WP” is not covered by the WordPress trademarks, but please don’t use it in a way that confuses people. For example, many people think WP Engine is “WordPress Engine” and officially associated with WordPress, which it’s not. They have never once even donated to the WordPress Foundation, despite making billions of revenue on top of WordPress.
+Please do not use “WP” in any way that confuses people. For example, many people think WP Engine is “WordPress Engine” and officially associated with WordPress, which it’s not. They have not donated to the WordPress Foundation, despite making billions of revenue on top of WordPress.
 
-If you would like to use the WordPress trademark commercially, please contact Automattic, they have the exclusive license. Their only sub-licensee is Newfold.
+If you would like to use the WordPress trademark commercially, please contact Automattic, they have the exclusive license.
 
 For non-commercial use, you can contact us here at the Foundation.
 
