@@ -3,7 +3,7 @@ Terms & Conditions
 
 ![Louise](https://files.helpdocs.io/n0njida9x8/other/1697448726388/clean-shot-2023-09-26-at-13-07-20-2-x.png)
 
-Updated 2025-02-11T09:36:52Z by Louise
+Updated 2025-02-12T10:13:18Z by Louise
 
 There are several versions of Yuka's Terms & Conditions, depending on the country of residence of the User :
 
@@ -27,11 +27,6 @@ Legal notice
 How do I contact the team? ✉️
 -----------------------------](https://help.yuka.io/l/en/article/eh7vei3ud3-how-do-i-contact-the-team)
 
-[![](https://files.helpdocs.io/n0njida9x8/articles/tu0my38nn5/1617283820093/bullet.svg)
-
-How do we inform the team of an error with a product ?
-------------------------------------------------------](https://help.yuka.io/l/en/article/pkp9kgq1vh-inform-team-of-error)
-
 ![Louise](https://files.helpdocs.io/n0njida9x8/other/1697448726388/clean-shot-2023-09-26-at-13-07-20-2-x.png)
 
-Updated 2025-02-11T09:36:52Z by Louise
+Updated 2025-02-12T10:13:18Z by Louise
