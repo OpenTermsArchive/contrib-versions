@@ -1,8 +1,6 @@
 Google Measurement Controller-Controller Data Protection Terms
 ==============================================================
 
-As of 16 September 2024, when our clients and partners use Google’s Ads Services, Google relies, in certain circumstances, on the Swiss-U.S. Data Privacy Framework and the UK Extension to the EU-U.S. Data Privacy Framework for the transfer of personal information from Switzerland and the UK, respectively, to the U.S. Google has relied, in certain circumstances, on the EU-U.S. Data Privacy Framework for the transfer of personal information to the U.S since 1 September 2023. We have provided more information [here](https://business.safety.google/adsdatatransfers/) and more information will also be available [here](https://policies.google.com/privacy/frameworks) from the 16 September.
-
 The Measurement Services customer agreeing to these terms (“**Customer**”) has entered into an agreement with either Google or a third party reseller (as applicable) for the provision of the Measurement Services (as amended from time to time, the “**Agreement**”) through which services user interface Customer has enabled the Data Sharing Setting.
 
 These Google Measurement Controller-Controller Data Protection Terms (“**Controller Terms**”) are entered into by Google and Customer. Where the Agreement is between Customer and Google, these Controller Terms supplement the Agreement. Where the Agreement is between Customer and a third party reseller, these Controller Terms form a separate agreement between Google and Customer.
