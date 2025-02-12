@@ -33,7 +33,6 @@ General
 
 * [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
 * [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Policy:Terms_of_Use "Recent changes in pages linked from this page [k]")
-* [Special pages](https://foundation.wikimedia.org/wiki/Special:SpecialPages "A list of all special pages [q]")
 * [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=366676 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 * [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
@@ -105,7 +104,7 @@ Other languages:
 * [latviešu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lv "Policy:Terms of Use/lv (100% translated)")
 * [lietuvių](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lt "Policy:Terms of Use/lt (100% translated)")
 * [magyar](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hu "Policy:Terms of Use/hu (100% translated)")
-* [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nb "Policy:Terms of Use/nb (31% translated)")
+* [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nb "Policy:Terms of Use/nb (30% translated)")
 * [occitan](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/oc "Policy:Terms of Use/oc (10% translated)")
 * [polski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl "Policy:Terms of Use/pl (100% translated)")
 * [português](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt "Policy:Terms of Use/pt (100% translated)")
