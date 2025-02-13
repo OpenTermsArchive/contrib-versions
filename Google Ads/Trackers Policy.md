@@ -12,7 +12,7 @@ Cookies help to make advertising more effective. Without cookies, it’s harder 
 
 Many websites, such as news sites and blogs, partner with Google to show ads to their visitors. Working with our partners, we may use cookies for a number of purposes, such as to stop you from seeing the same ad over and over again, to detect and stop click fraud, and to show ads that are likely to be more relevant (such as ads based on websites you have visited).
 
-We store a record of the ads we serve in our logs. These [server logs](https://policies.google.com/privacy/key-terms#toc-terms-server-logs) typically include your web request, IP address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser. We store this data for a number of reasons, the most important of which are to improve our services and to maintain the security of our systems. We anonymize this log data by removing part of the IP address (after 9 months) and cookie information (after 18 months).
+We store a record of the ads we serve in our logs. These [server logs](https://policies.google.com/privacy/key-terms#toc-terms-server-logs) typically include your web request, IP address, browser type, browser language, the date and time of your request, and one or more cookies that may uniquely identify your browser or, if you are signed-in, that may uniquely identify you. We store this data for a number of reasons, the most important of which are to improve our services and to maintain the security of our systems. We anonymize this log data by removing part of the IP address (after 9 months) and cookie information (after 18 months).
 
 ### Our advertising cookies
 
@@ -33,7 +33,7 @@ Finally, you can [manage cookies in your web browser](https://policies.google.co
 Other technologies used in advertising
 --------------------------------------
 
-Google’s advertising systems may use other technologies, including Flash and HTML5, for functions like display of interactive ad formats. We may use the [IP address](https://policies.google.com/privacy/key-terms#toc-terms-ip), for example, to identify your general location. We may also select advertising based on information about your computer or device, such as your device model, browser type, or sensors in your device like the accelerometer.
+Google’s advertising systems may use other technologies, including Flash and HTML5, for functions like display of interactive ad formats. We may use the [IP address](https://policies.google.com/privacy/key-terms#toc-terms-ip), for example, to identify your general location, to measure the effectiveness of ads, and, depending on your settings, to improve the relevance of the ads you see. We may also select advertising based on information about your computer or device, such as the time and date, your device model, browser type, or sensors in your device like the accelerometer.
 
 #### Location
 
@@ -140,6 +140,8 @@ Sometimes the ad you see is based on the context of a page. If you’re looking 
 Sometimes you might also see an ad on the web that’s based on your app activity or activity on Google services; an in-app ad that’s based on your web activity; or an ad based on your activity on another device.
 
 Sometimes the ad you see on a page is served by Google but selected by another company. For example, you might have registered with a newspaper website. From information you’ve given the newspaper, it can make decisions about which ads to show you, and it can use Google’s ad serving products to deliver those ads.
+
+The ad you see on a household device, such as a connected TV (such as a Smart TV), may be related to the web or app activity from devices within the same household.
 
 You may also see ads on Google products and services, including Search, Gmail, and YouTube, based on information, such as your email address, that you provided to advertisers and the advertisers then shared with Google.
 
