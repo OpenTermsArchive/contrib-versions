@@ -209,6 +209,6 @@ As noted above in Section 15(a), Epic does not use User Content and does not lic
 
 The effective date of these Terms of Use is **February 17, 2024**.
 
-**Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated August 16, 2024)**  
-The estimated average monthly active recipients in the European Union of Sketchfab for the past six months was 1,000,000.  
+**Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 14, 2025)**  
+The estimated average monthly active recipients in the European Union of Sketchfab for the past six months was 941,000.  
 Users who accessed more than one of Epic's services or products in a given month are counted as a user for each service or product.
