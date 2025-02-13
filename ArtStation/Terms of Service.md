@@ -665,8 +665,8 @@ For more information about our content moderation practices, please visit our [S
 
 * * *
 
-**Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated August 16, 2024)**
+**Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 14, 2025).**
 
-The estimated average monthly active recipients in the European Union of ArtStation for the past six months was 2.1M.
+The estimated average monthly active recipients in the European Union of ArtStation for the past six months was 1.1M.
 
 Users who accessed more than one of Epic's services or products in a given month are counted as a user for each service or product.
