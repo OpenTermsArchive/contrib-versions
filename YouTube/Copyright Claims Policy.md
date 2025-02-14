@@ -22,7 +22,7 @@ At YouTube, our mission is to give everyone a voice and show them the world. Cop
 
 In addition, we build products that empower creators to access, create and share information like never before. We've created an [Audio Library](https://support.google.com/youtube/answer/3376882) for you to discover free high-quality music and sound effects that you can reuse safely. Now with YouTube Shorts, you can [create short videos sampling someone else's content](https://support.google.com/youtube/answer/10623810), provided that they have given you permission to do so. We're also continuing to build and expand [Creator Music](https://support.google.com/youtubecreatormusic), which lets creators in the YouTube Partner programme safely use commercial music by licensing tracks or sharing their video revenue with music rights holders.
 
-#### Resources
+Resources
 
 * [Learn more about fair use](https://support.google.com/youtube/answer/9783148?hl=en)
     
@@ -53,7 +53,7 @@ Content ID
 
 In most cases, this means that rightsholders don't need to submit copyright takedowns for these videos and instead have the opportunity to monetise and run ads in exchange for the videos being live.
 
-#### Resources
+Resources
 
 * [Learn more about YouTube's copyright management tools](https://support.google.com/youtube/answer/9245819?hl=en&ref_topic=9282364)
     
@@ -67,7 +67,7 @@ If a copyright owner submits a valid DMCA (Digital Millennium Copyright Act) com
 
 [Content ID](https://support.google.com/youtube/answer/6013276) works differently. If a match between a reference file and a new upload is found, a 'claim' is made. Based on the preference selected by the Content ID owner, we'll apply a policy to track, monetise or block, but will not issue a copyright strike.
 
-#### Resources
+Resources
 
 * [Learn more about copyright strikes](https://support.google.com/youtube/answer/2814000?hl=en&p=c_strike_basics)
     
