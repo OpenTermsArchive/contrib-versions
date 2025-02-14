@@ -1,203 +1,262 @@
+[BTC
+
+$96,693.40
+
++
+
+0.03%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
+
+$2,698.64
+
+\-
+
+0.89%](https://www.coindesk.com/price/ethereum "View price details")[XRP
+
+$2.5708
+
++
+
+3.77%](https://www.coindesk.com/price/xrp "View price details")[USDT
+
+$1.0002
+
++
+
+0.02%](https://www.coindesk.com/price/tether "View price details")[BNB
+
+$673.13
+
+\-
+
+5.14%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
+
+$195.74
+
+\-
+
+0.01%](https://www.coindesk.com/price/solana "View price details")[USDC
+
+$1.0000
+
++
+
+0.02%](https://www.coindesk.com/price/usd-coin "View price details")[DOGE
+
+$0.2624
+
+\-
+
+0.10%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
+
+$0.7990
+
++
+
+2.36%](https://www.coindesk.com/price/cardano "View price details")[TRX
+
+$0.2319
+
+\-
+
+3.43%](https://www.coindesk.com/price/tron "View price details")[WBTC
+
+$96,652.49
+
++
+
+0.14%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
+
+$18.72
+
+\-
+
+1.69%](https://www.coindesk.com/price/chainlink "View price details")[SUI
+
+$3.4801
+
+\-
+
+3.24%](https://www.coindesk.com/price/sui "View price details")[AVAX
+
+$25.68
+
+\-
+
+1.13%](https://www.coindesk.com/price/avax "View price details")[XLM
+
+$0.3385
+
++
+
+2.75%](https://www.coindesk.com/price/xlm "View price details")[SHIB
+
+$0.0₄1642
+
+\-
+
+2.25%](https://www.coindesk.com/price/shiba-inu "View price details")[LTC
+
+$126.89
+
++
+
+3.15%](https://www.coindesk.com/price/ltc "View price details")[TON
+
+$3.7756
+
++
+
+1.11%](https://www.coindesk.com/price/toncoin "View price details")[LEO
+
+$9.5377
+
+\-
+
+2.02%](https://www.coindesk.com/price/unus-sed-leo "View price details")[HYPE
+
+$26.41
+
++
+
+5.35%](https://www.coindesk.com/price/hype "View price details")
+
+Ad
+
+[Sign Up](https://www.coindesk.com/api/auth/login?returnTo=https%3A%2F%2Fwww.coindesk.com%2Fprivacy&screen_hint=signup&reg_module=navigation "Sign up for a free CoinDesk account")
+
+* [News](https://www.coindesk.com/)
+    
+    Back to menu
+    
+    News
+    
+    * [Markets](https://www.coindesk.com/markets)
+    * [Finance](https://www.coindesk.com/business)
+    * [Policy](https://www.coindesk.com/policy)
+    * [Tech](https://www.coindesk.com/tech)
+    * [Opinion](https://www.coindesk.com/opinion)
+    * [Focus](https://www.coindesk.com/focus)
+    
 * [Prices](https://www.coindesk.com/price)
+    
+    Back to menu
+    
+    Prices
+    
+* [Data](https://ccdata.io/)
+    
+    Back to menu
+    
+    Data
+    
+    * [Trade Data](https://ccdata.io/data/trade-data)
+    * [Derivatives](https://ccdata.io/data/derivatives)
+    * [Order Book Data](https://ccdata.io/data/order-book)
+    * [On-Chain Data](https://ccdata.io/data/on-chain-data)
+    * [API](https://ccdata.io/data/data-delivery)
+    * [Research & Insights](https://ccdata.io/research)
+    * [Data Catalogue](https://ccdata.io/data/data-catalogue)
+    * [AI & Machine Learning](https://ccdata.io/data/ai-machine-learning)
     
 * [Indices](https://indices.coindesk.com/indices)
     
-    * [CoinDesk 20 Index](https://indices.coindesk.com/indices/cd20)
-        
-    * [Bitcoin Offerings](https://indices.coindesk.com/indices/bitcoin)
-        
-    * [Ethereum Offerings](https://indices.coindesk.com/indices/ether/eti)
-        
-    * [Trend Indicators](https://indices.coindesk.com/indices/trend-indicators)
-        
-    * [Indices](https://indices.coindesk.com/indices/crypto-indices)
-        
-    * [Crypto Sectors](https://indices.coindesk.com/indices/sector)
-        
-* [News](https://www.coindesk.com/)
+    Back to menu
     
-    * [Markets](https://www.coindesk.com/markets)
-        
-    * [Finance](https://www.coindesk.com/business)
-        
-    * [Policy](https://www.coindesk.com/policy)
-        
-    * [Tech](https://www.coindesk.com/tech)
-        
-    * [Learn](https://www.coindesk.com/learn)
-        
-    * [Opinion](https://www.coindesk.com/opinion)
-        
-    * [Consensus Magazine](https://www.coindesk.com/consensus-magazine)
-        
-* [Video](https://www.coindesk.com/videos)
+    Indices
+    
+    * [Multi-asset Indices](https://indices.coindesk.com/indices/crypto-indices)
+    * [Insights & Announcements](https://indices.coindesk.com/indices/announcements)
+    * [Documentation & Governance](https://indices.coindesk.com/indices/crypto-index-governance)
+    
+* Events
+    
+    Back to menu
+    
+    Events
+    
+    * [Consensus 2025 Hong Kong](https://consensus-hongkong2025.coindesk.com/)
+    * [Consensus 2025 Toronto](https://consensus2025.coindesk.com/)
+    * [CoinDesk: Policy & Regulation](https://policy-regulation.coindesk.com/)
+    
+
+* [Videos](https://www.coindesk.com/videos)
+    
+    Back to menu
+    
+    Videos
+    
+    * [CoinDesk Daily](https://www.coindesk.com/videos/coindesk-daily)
+    * [Shorts](https://www.coindesk.com/videos/shorts)
+    * [Editor's Picks](https://www.coindesk.com/videos/editors-picks)
     
 * [Podcasts](https://www.coindesk.com/podcasts)
     
+    Back to menu
+    
+    Podcasts
+    
     * [CoinDesk Podcast Network](https://www.coindesk.com/podcasts/coindesk-podcast-network)
-        
     * [Markets Daily](https://www.coindesk.com/podcasts/markets-daily)
-        
     * [Gen C](https://www.coindesk.com/podcasts/generation-c)
-        
-    * [The Protocol](https://www.coindesk.com/podcasts/the-protocol)
-        
     * [Unchained with Laura Shin](https://www.coindesk.com/podcasts/unchained)
-        
     * [The Mining Pod](https://www.coindesk.com/podcasts/coindesk-podcast-network)
-        
+    
 * [Newsletters](https://www.coindesk.com/newsletters)
     
+    Back to menu
+    
+    Newsletters
+    
     * [The Node](https://www.coindesk.com/newsletters/the-node)
-        
     * [Crypto Daybook Americas](https://www.coindesk.com/newsletters/daybook-us)
-        
     * [State of Crypto](https://www.coindesk.com/newsletters/state-of-crypto)
-        
     * [Crypto Long & Short](https://www.coindesk.com/newsletters/crypto-long-short)
-        
-    * [The Protocol](https://www.coindesk.com/newsletters/the-protocol)
-        
     * [Crypto for Advisors](https://www.coindesk.com/newsletters/crypto-for-advisors)
-        
-* [Sponsored](https://www.coindesk.com/sponsored-content)
     
-    * [Thought Leadership](https://www.coindesk.com/sponsored-content)
-        
-    * [Press Release](https://www.coindesk.com/press-release)
-        
-    * [CoinW](https://www.coindesk.com/sponsored-content/hub/coinw)
-        
-    * [Abra](https://www.coindesk.com/sponsored-content/hub/abra)
-        
-    * [Bitget](https://www.coindesk.com/sponsored-content/hub/bitget)
-        
-    * [Gate.US](https://www.coindesk.com/sponsored-content/hub/gate.us)
-        
-    * [Matrixport](https://www.coindesk.com/sponsored-content/hub/Matrixport)
-        
-    * [MEXC](https://www.coindesk.com/sponsored-content/hub/MEXC)
-        
-    * [NEAR](https://www.coindesk.com/sponsored-content/hub/Near)
-        
-    * [Phemex](https://www.coindesk.com/sponsored-content/hub/Phemex)
-        
-    * [SocialGood](https://www.coindesk.com/sponsored-content/hub/SocialGood)
-        
-    * [Tron](https://www.coindesk.com/sponsored-content/hub/Tron)
-        
-    * [Advertise](https://www.coindesk.com/advertise)
-        
-* [Consensus](https://consensus.coindesk.com/)
+* [Research](https://ccdata.io/research)
     
-    * [Consensus 2025 Hong Kong](https://consensus-hongkong2025.coindesk.com/)
-        
-    * [Consensus 2025 Toronto](https://consensus2025.coindesk.com/)
-        
+    Back to menu
+    
+    Research
+    
 * [Webinars](https://events.coindesk.com/)
     
+    Back to menu
+    
+    Webinars
+    
+* [Sponsored](https://www.coindesk.com/sponsored-content)
+    
+    Back to menu
+    
+    Sponsored
+    
+    * [Thought Leadership](https://www.coindesk.com/sponsored-content)
+    * [Press Releases](https://www.coindesk.com/press-release)
+    * [CoinW](https://www.coindesk.com/sponsored-content/hub/coinw)
+    * [MEXC](https://www.coindesk.com/sponsored-content/hub/MEXC)
+    * [Phemex](https://www.coindesk.com/sponsored-content/hub/Phemex)
+    * [Advertise](https://www.coindesk.com/advertise)
+    
 
-[Log In / Create Account](https://www.coindesk.com/api/auth/login?returnTo=https%3A%2F%2Fwww.coindesk.com%2Fprivacy&reg_module=navigation "Sign in to your CoinDesk account")
-
-en
+English
 
 Select Language
 
 [English en](https://www.coindesk.com/privacy)[Español es](https://www.coindesk.com/es/privacy)[Filipino fil](https://www.coindesk.com/fil/privacy)[Français fr](https://www.coindesk.com/fr/privacy)[Italiano it](https://www.coindesk.com/it/privacy)[Português pt-br](https://www.coindesk.com/pt-br/privacy)[Русский ru](https://www.coindesk.com/ru/privacy)[Українська uk](https://www.coindesk.com/uk/privacy)
 
+[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-nqhs5x4vl-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75)](https://www.coindesk.com/)
+
+* [News](https://www.coindesk.com/)
 * [Prices](https://www.coindesk.com/price)
+* [Data](https://ccdata.io/)
 * [Indices](https://indices.coindesk.com/indices)
-* [Consensus](https://consensus.coindesk.com/)
+* Events
+    
 
-[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-3nmd4kr83-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75)](https://www.coindesk.com/)
-
-* [Sponsored](https://www.coindesk.com/sponsored-content)
-
-en
-
+* [Sign In](https://www.coindesk.com/api/auth/login?returnTo=https%3A%2F%2Fwww.coindesk.com%2Fprivacy&reg_module=navigation "Sign in to your CoinDesk account")
 * [Sign Up](https://www.coindesk.com/api/auth/login?returnTo=https%3A%2F%2Fwww.coindesk.com%2Fprivacy&screen_hint=signup&reg_module=navigation "Sign up for a free CoinDesk account")
-
-[BTC
-
-$95,770.94
-
-1.24%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
-
-$2,631.30
-
-1.18%](https://www.coindesk.com/price/ethereum "View price details")[USDT
-
-$1.0002
-
-0.01%](https://www.coindesk.com/price/tether "View price details")[XRP
-
-$2.4472
-
-0.63%](https://www.coindesk.com/price/xrp "View price details")[BNB
-
-$670.31
-
-2.57%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
-
-$192.05
-
-0.68%](https://www.coindesk.com/price/solana "View price details")[USDC
-
-$1.0001
-
-0.01%](https://www.coindesk.com/price/usd-coin "View price details")[DOGE
-
-$0.2566
-
-1.31%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
-
-$0.7884
-
-0.11%](https://www.coindesk.com/price/cardano "View price details")[TRX
-
-$0.2353
-
-3.53%](https://www.coindesk.com/price/tron "View price details")[WBTC
-
-$95,834.42
-
-0.99%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
-
-$18.38
-
-1.66%](https://www.coindesk.com/price/chainlink "View price details")[SUI
-
-$3.4729
-
-3.36%](https://www.coindesk.com/price/sui "View price details")[AVAX
-
-$25.26
-
-1.65%](https://www.coindesk.com/price/avax "View price details")[XLM
-
-$0.3268
-
-0.73%](https://www.coindesk.com/price/xlm "View price details")[SHIB
-
-$0.0₄1619
-
-3.12%](https://www.coindesk.com/price/shiba-inu "View price details")[LTC
-
-$124.28
-
-2.94%](https://www.coindesk.com/price/ltc "View price details")[TON
-
-$3.7059
-
-1.22%](https://www.coindesk.com/price/toncoin "View price details")[LEO
-
-$9.5604
-
-2.90%](https://www.coindesk.com/price/unus-sed-leo "View price details")[HBAR
-
-$0.2202
-
-2.42%](https://www.coindesk.com/price/hbar "View price details")
+* [](https://www.coindesk.com/api/auth/login?returnTo=https%3A%2F%2Fwww.coindesk.com%2Fprivacy&screen_hint=signup&reg_module=navigation "Sign up for a free CoinDesk account")
 
 Privacy
 =======
@@ -374,7 +433,6 @@ About
 * [Masthead](https://www.coindesk.com/masthead)
 * [Careers](https://bullish.wd3.myworkdayjobs.com/CoinDesk)
 * [CoinDesk News](https://www.coindesk.com/coindesk-news)
-* [Research](https://ccdata.io/research)
 
 * * *
 
