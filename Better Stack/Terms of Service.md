@@ -3,9 +3,9 @@
 Terms of Use
 ============
 
-Last Updated: November 25, 2022
+Last Updated: Feb 14, 2025
 
-The following terms and conditions govern all use of the Better Stack websites and all content, services and products available at or through betterstack.com, betteruptime.com, and logtail.com (collectively, **“Website”**). The Website is owned and operated by Better Stack, Inc., a Delaware corporation (**“Better Stack”**, **“we”** or **“us”**). The Website is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, Better Stack’s Privacy Policy) and procedures that may be published from time to time on this website by Better Stack (collectively, the **“Agreement”**).
+The following terms and conditions govern all use of the Better Stack websites and all content, services and products available at or through betterstack.com (**“Website”**). The Website is owned and operated by Better Stack, Inc., a Delaware corporation (**“Better Stack”**, **“we”** or **“us”**). The Website is offered subject to your acceptance without modification of all of the terms and conditions contained herein and all other operating rules, policies (including, without limitation, Better Stack’s Privacy Policy) and procedures that may be published from time to time on this website by Better Stack (collectively, the **“Agreement”**).
 
 Please read this Agreement carefully before accessing or using the Website. By accessing or using any part of the Website, you agree to become bound by the terms and conditions of this Agreement. If you do not agree to all the terms and conditions of this Agreement, then you may not access the Website or use any services. If these terms and conditions are considered an offer by Better Stack, acceptance is expressly limited to these terms. The Website is available only to individuals who are at least 13 years old.
 
@@ -46,6 +46,7 @@ Acceptable Use
 You must not:
 
 * use the Website to monitor websites and systems you do not own and operate or to which you have not been given authorized access.
+* use the Website to collect, store, process, or transmit any special categories of personal data or similarly protected information.
 * engage in or to instigate actions that may have an adverse effect on the stability and performance of the Website or other services. Better Stack may choose to set limits on the use of a resource through quotas, time limits, and other mechanisms.
 * engage in any activity that is intended to harm Website’s systems, other customers, other systems, or end users of other services and websites.
 * distribute, publish, send, or facilitate the sending of unsolicited mass e-mail or other messages.
@@ -103,6 +104,8 @@ You agree to indemnify and hold harmless Better Stack, its contractors, and its 
 
 Miscellaneous
 -------------
+
+All data processing activities by the Service will be governed by the data processing agreement available at: [www.betterstack.com/dpa](https://betterstack.com/dpa), which is part of this Agreement.
 
 This Agreement constitutes the entire agreement between Better Stack and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of Better Stack, or by the posting by Better Stack of a revised version.
 
