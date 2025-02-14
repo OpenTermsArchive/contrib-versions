@@ -53,4 +53,4 @@ Competent authorities of the EU and EU members willing to contact Telegram under
 
 #### [](#average-monthly-active-recipients-of-service-in-the-eu)Average monthly active recipients of service in the EU
 
-Some non-essential elements of the services provided by Telegram may qualify as “online platforms” under the DSA. As of August 2024, these services had significantly fewer than 45 million average monthly active recipients in the EU over the preceding 6 months — which is below the threshold required for designation as a “very large online platform.”
+Some non-essential elements of the services provided by Telegram may qualify as “online platforms” under the DSA. As of February 2025, these services had significantly fewer than 45 million average monthly active recipients in the EU over the preceding 6 months — which is below the threshold required for designation as a “very large online platform.”
