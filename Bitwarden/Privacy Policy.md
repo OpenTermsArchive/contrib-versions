@@ -365,4 +365,4 @@ Email: privacypolicy@bitwarden.com
 
 Web Form: [https://bitwarden.com/contact/](https://bitwarden.com/contact/)
 
-Get page details as PDF
+[Get page details as PDF](https://bitwarden.com/pdf/privacy.pdf)
