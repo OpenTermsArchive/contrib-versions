@@ -53,7 +53,7 @@ If you live in the European Economic Area (“EEA”), the United Kingdom or Swi
 If you live in Japan, the company responsible for your data is:
 
 > MG Japan Services GK  
-> 4F Sumitomo Fudosan Azabu Bldg  
+> Sumitomo Fudosan Azabu Bldg  
 > 1-4-1 Mita  
 > Minato-ku,Tokyo 108-0073  
 > Japan
