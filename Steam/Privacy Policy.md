@@ -99,13 +99,13 @@ While we do not knowingly share Personally Identifying Information about you thr
   
 **6\. Your Rights and Control Mechanisms**  
   
-The data protection laws of the European Economic Area, United Kingdom, California, and other territories grant their residents certain rights in relation to their Personal Data. While other jurisdictions may provide fewer statutory rights, we make the tools designed to exercise such rights available to our customers worldwide. (When we talk about the GDPR in this section, we mean the version of the GDPR that applies to you in the EU or UK).  
+The data protection laws of the European Economic Area, United Kingdom, Switzerland, California, and other territories grant their residents certain rights in relation to their Personal Data. While other jurisdictions may provide fewer statutory rights, we make the tools designed to exercise such rights available to our customers worldwide. (When we talk about the GDPR in this section, we mean the version of the GDPR that applies to you in the EU or UK).  
   
 To allow you to exercise your data protection rights in a simple way we are providing a dedicated section on the Steam support page (the "Privacy Dashboard"). This gives you access to your Personal Data, allows you to rectify and delete it where necessary and to object to its use where you feel necessary. To access it, log into the Steam support page at [https://help.steampowered.com](https://help.steampowered.com/) and choose the menu items _My Account -> Data Related to Your Steam Account._ In most cases, you can access, manage, or delete Personal Data in the Privacy Dashboard, but you may also contact Valve with questions or requests via the contact processes described in sections 8 and 10 below.  
   
 As a visitor to the Steam Website without being logged in, you can control Cookies through the process described in section 3.6 above. You can also contact Valve or its European representative through the contact info provided in section 8. below to exercise your rights or use [this](https://store.steampowered.com/ssa_feedback/) web form.  
   
-As a resident of the European Economic Area or United Kingdom you have the following rights in relation to your Personal Data:  
+As a resident of the European Economic Area, United Kingdom or Switzerland you have the following rights in relation to your Personal Data:  
   
 6.1 Right of Access.  
 You have the right to access your Personal Data that we hold about you, i.e. the right to require free of charge (i) information whether your Personal Data is retained, (ii) access to and/or (iii) duplicates of the Personal Data retained. You can use the right to access to your Personal Data through the Privacy Dashboard. If the request affects the rights and freedoms of others or is manifestly unfounded or excessive, we reserve the right to charge a reasonable fee (taking into account the administrative costs of providing the information or communication or taking the action requested) or refuse to act on the request.  
@@ -154,7 +154,7 @@ Att. Data Protection officer
 P.O. Box 1688  
 Bellevue, WA 98009  
   
-EU and Switzerland representative for data protection questions:  
+EU representative for data protection questions:  
   
 Valve GmbH  
 Att. Legal  
@@ -165,13 +165,22 @@ Germany
 UK representative for data protection questions:  
   
 RIVACY Ltd.  
-71, Warriner Gardens, Unit G1/G2  
-London, SW11 4DX  
-United Kingdom  
+St James' Hall  
+Mill Road  
+Lancing, West Sussex  
+England, BN15 0PT  
+  
+Swiss representative for data protection questions:  
+  
+RIVACY Switzerland GmbH  
+c/o epartners Rechtsanwälte AG  
+Piuls 5, Hardturmstrasse 11  
+8005 Zurich  
+Switzerland  
   
 **9\. Additional Information for Users from the European Economic Area, U.K., and Switzerland**  
   
-As a US-based company that operates a worldwide gaming service, we may transfer your personal data outside of the European Economic Area or the United Kingdom. In such case, we take additional steps to ensure your personal data is protected by appropriate legal safeguards, and that it is treated securely and in accordance with this Privacy Policy. In this respect, Valve has implemented appropriate contractual and organizational measures to ensure the confidentiality, security and integrity of user data in connection with its collection, processing and transfer. Measures we have taken include, among other things:
+As a US-based company that operates a worldwide gaming service, we may transfer your personal data outside of the European Economic Area, the United Kingdom or Switzerland. In such case, we take additional steps to ensure your personal data is protected by appropriate legal safeguards, and that it is treated securely and in accordance with this Privacy Policy. In this respect, Valve has implemented appropriate contractual and organizational measures to ensure the confidentiality, security and integrity of user data in connection with its collection, processing and transfer. Measures we have taken include, among other things:
 
 * Minimization of data collection; in particular the possibility to set up and operate anonymous accounts
 * Pseudonymization of data
@@ -207,7 +216,7 @@ You may designate, in writing or through a power of attorney, an authorized agen
   
 **Categories, Sources, Purposes, and Recipients of the Data We Collect.** Over the preceding 12 months, we have collected the categories of Personal Data described in section 3 of this Privacy Policy. The sources from which we collect Personal Data, and the purposes for which we collect and process it, are described in sections 2 and 3. Over the preceding 12 months, we have disclosed for business purposes each of the categories of Personal Data with the categories of third parties as described in section 5.  
   
-_Revision Date: February 14th, 2024_  
+_Revision Date: February 14th, 2025_  
   
   
    
