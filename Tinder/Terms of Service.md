@@ -33,7 +33,7 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     If you live in Japan, these Terms of Use apply between you and: 
     
     MG Japan Services GK (“MG Japan”)  
-    4F Sumitomo Fudosan Azabu Bldg.  
+    Sumitomo Fudosan Azabu Bldg.  
     1-4-1 Mita Minato-ku, Tokyo 108-0073  
     Japan
     
