@@ -1,7 +1,7 @@
 Amazon.com Privacy Notice
 =========================
 
-**Last updated: March 31, 2024.** To see prior version, click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=202056900).
+**Last updated: February 14, 2025.** To see prior version, click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=202056900).
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This Privacy Notice describes how Amazon.com and its affiliates (collectively "Amazon") collect and process your personal information through Amazon websites, devices, products, services, online and physical stores, and applications that reference this Privacy Notice (together "Amazon Services"). **By using Amazon Services, you are consenting to the practices described in this Privacy Notice.**
 
@@ -16,7 +16,7 @@ _Please read our [Additional State-Specific Privacy Disclosures](https://www.ama
 * [What Information Can I Access?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_002EF744608C4F9CAA7685BECC6C85FC)
 * [What Choices Do I Have?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_697E8F46A0354B3B83E1A0D4C2FA52EE)
 * [Are Children Allowed to Use Amazon Services?](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_D17374D6EE5B4077946965351E11175C)
-* [EU-US and Swiss-US Data Privacy Framework](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_A110DAC3F6BC4D5D9DDD59797104B1E5)
+* [EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_A110DAC3F6BC4D5D9DDD59797104B1E5)
 * [Conditions of Use, Notices, and Revisions](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_BA2E1D5A9B1F41CB86BCF0A40D9B8604)
 * [Related Practices and Information](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_644071FEF22E48A2A160BAA332F95B27)
 * [Examples of Information Collected](#GUID-8966E75F-9B92-4A2B-BFD5-967D57513A40__SECTION_87C837F9CCD84769B4AE2BEB14AF4F01)
@@ -109,12 +109,10 @@ Are Children Allowed to Use Amazon Services?
 
 Amazon does not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18, you may use Amazon Services only with the involvement of a parent or guardian. We do not knowingly collect personal information from children under the age of 13 without the consent of the child's parent or guardian. For more information, please see our [Children's Privacy Disclosure](https://www.amazon.com/childprivacydisclosure).
 
-EU-US and Swiss-US Data Privacy Framework
------------------------------------------
+EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework
+-------------------------------------------------------------------------------
 
-Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework\*. Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=G202135380) to learn more.
-
-_\*We will not rely on the Swiss-US Data Privacy Framework or the UK Extension to the EU-US Data Privacy Framework until they enter into force, but we adhere to their required commitments in anticipation of their doing so._
+Amazon.com, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework. Click [here](https://www.amazon.com/gp/help/customer/display.html?nodeId=G202135380) to learn more.
 
 Conditions of Use, Notices, and Revisions
 -----------------------------------------
