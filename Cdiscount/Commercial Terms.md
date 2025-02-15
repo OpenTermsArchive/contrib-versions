@@ -575,7 +575,7 @@ Si vous constatez que certains accessoires du produit commandé sont manquants d
 La présente stipulation ne fait pas obstacle à une réclamation ultérieure du Client au titre de l'exécution de sa commande. Ceci sans préjudice des mesures et actions que CDISCOUNT pourrait prendre à l'encontre d'un Client qui agirait de manière frauduleuse.**  
 7.2 Produits livrés abîmés**
 
-Lors de la réception ou du retrait de votre commande, vous devez vérifier l’état du (des) colis reçus et signaler toute non-conformité sur le bon de livraison ou refuser la livraison.
+Lors de la réception ou du retrait de votre commande, vous devez vérifier léétat du (des) colis reçus et signaler toute non-conformité sur le bon de livraison ou refuser la livraison.
 
 Dans le cas où, après acceptation du colis, vous constateriez que le produit commandé est abîmé, vous pouvez nous le signaler :
 
