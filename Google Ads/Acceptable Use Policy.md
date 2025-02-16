@@ -349,10 +349,9 @@ If you use Google's platform products or Google ad code for personalized adverti
 
 Publishers must:
 
-* have and abide by a privacy policy that clearly discloses any data collection, sharing and usage that takes place on any site, app, email publication or other property as a consequence of your use of Google products. The privacy policy must disclose to users that third parties may be placing and reading cookies on your users' browsers, or using web beacons to collect information as a result of ad serving on your website.
-    
-    To comply with this disclosure obligation with respect to Google’s use of data, you have the option to display a prominent link to [How Google uses data when you use our partners’ sites or apps](http://www.google.com/policies/privacy/partners/).
-    
+* have and abide by a privacy policy that clearly discloses any data collection, sharing, and usage that takes place as a consequence of your use of Google products and services, including information about the technologies used, such as your use of cookies, web beacons, IP addresses, or other identifiers. This applies for data collection, sharing, and usage on any platform, surface, or property (e.g., web, app, Connected TV, gaming console, or email publication). The privacy policy must disclose to users that third parties may be placing and reading cookies on your users' browsers, or using web beacons or IP addresses to collect information as a result of ad serving on your website.  
+      
+    To comply with this disclosure obligation with respect to Google’s use of data, you have the option to display a prominent link to [How Google uses data when you use our partners’ sites or apps](https://www.google.com/policies/privacy/partners/).
 
            ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about privacy disclosures](https://support.google.com/publisherpolicies/answer/10437794)_
 
@@ -368,8 +367,7 @@ Publishers must:
 
 Publishers must:
 
-* not use device fingerprints or locally shared objects (e.g., Flash cookies, Browser Helper Objects, HTML5 local storage) other than HTTP cookies, or user-resettable mobile device identifiers designed for use in advertising. This does not limit the use of IP address for the detection of fraud.
-* not pass any information to Google data that Google could use or recognize as personally identifiable information; or that permanently identifies a particular device (such as a mobile phone's unique device identifier if such an identifier cannot be reset).
+* not pass any information to Google data that Google could use or recognize as personally identifiable information
 * not use our services to identify users or facilitate the merging of personally identifiable information with information previously collected as non-personally identifiable information without robust notice of, and the user's prior affirmative (i.e., opt-in) consent to, that identification or merger. Irrespective of users' consent, you must not attempt to disaggregate data that Google reports in aggregate.
     
     For more information, please refer to [Guidance for complying with the Identifying Users Policy](https://support.google.com/adsense/topic/6162392).
