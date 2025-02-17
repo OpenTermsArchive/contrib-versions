@@ -671,8 +671,8 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+La fin d’un chapitre
+--------------------
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -687,8 +687,8 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Réponses à vos questions sur l’application
+------------------------------------------
 
 [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
@@ -727,8 +727,8 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Plus d’informations sur TousAntiCovid
+-------------------------------------
 
 **–** La foire aux questions technique
 
@@ -752,11 +752,11 @@ Suivez-nous
 sur les réseaux sociaux
 -------------------------------------
 
-* [](https://twitter.com/Sante_Gouv)
-* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/)
-* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/)
-* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
-* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
+* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X - Nouvelle fenêtre")
+* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook - Nouvelle fenêtre")
+* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin - Nouvelle fenêtre")
+* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube - Nouvelle fenêtre")
+* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS - Nouvelle fenêtre")
 
 ![Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028) 
 
@@ -1449,8 +1449,8 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+La fin d’un chapitre
+--------------------
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -1465,8 +1465,8 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Réponses à vos questions sur l’application
+------------------------------------------
 
 [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
@@ -1505,8 +1505,8 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Plus d’informations sur TousAntiCovid
+-------------------------------------
 
 **–** La foire aux questions technique
 
@@ -6709,8 +6709,8 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+La fin d’un chapitre
+--------------------
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -6725,8 +6725,8 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Réponses à vos questions sur l’application
+------------------------------------------
 
 [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
@@ -6765,8 +6765,8 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Plus d’informations sur TousAntiCovid
+-------------------------------------
 
 **–** La foire aux questions technique
 
@@ -6800,8 +6800,8 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+La fin d’un chapitre
+--------------------
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -6816,8 +6816,8 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Réponses à vos questions sur l’application
+------------------------------------------
 
 [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
@@ -6856,8 +6856,8 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Plus d’informations sur TousAntiCovid
+-------------------------------------
 
 **–** La foire aux questions technique
 
@@ -6891,8 +6891,8 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-La fin d’un chapitre[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+La fin d’un chapitre
+--------------------
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -6907,8 +6907,8 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
 
 * * *
 
-Réponses à vos questions sur l’application[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Réponses à vos questions sur l’application
+------------------------------------------
 
 [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
@@ -6947,8 +6947,8 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-Plus d’informations sur TousAntiCovid[](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid# "Retour au sommaire")
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Plus d’informations sur TousAntiCovid
+-------------------------------------
 
 **–** La foire aux questions technique
 
@@ -6979,51 +6979,51 @@ Suivez-nous
 sur les réseaux sociaux
 -------------------------------------
 
-* [](https://twitter.com/Sante_Gouv)
-* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/)
-* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/)
-* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
-* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
+* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X - Nouvelle fenêtre")
+* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook - Nouvelle fenêtre")
+* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin - Nouvelle fenêtre")
+* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube - Nouvelle fenêtre")
+* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS - Nouvelle fenêtre")
 
 Suivez-nous  
 sur les réseaux sociaux
 -------------------------------------
 
-* [](https://twitter.com/Sante_Gouv)
-* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/)
-* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/)
-* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
-* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
+* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X - Nouvelle fenêtre")
+* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook - Nouvelle fenêtre")
+* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin - Nouvelle fenêtre")
+* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube - Nouvelle fenêtre")
+* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS - Nouvelle fenêtre")
 
 Suivez-nous  
 sur les réseaux sociaux
 -------------------------------------
 
-* [](https://twitter.com/Sante_Gouv)
-* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/)
-* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/)
-* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
-* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
+* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X - Nouvelle fenêtre")
+* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook - Nouvelle fenêtre")
+* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin - Nouvelle fenêtre")
+* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube - Nouvelle fenêtre")
+* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS - Nouvelle fenêtre")
 
 Suivez-nous  
 sur les réseaux sociaux
 -------------------------------------
 
-* [](https://twitter.com/Sante_Gouv)
-* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/)
-* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/)
-* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
-* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
+* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X - Nouvelle fenêtre")
+* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook - Nouvelle fenêtre")
+* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin - Nouvelle fenêtre")
+* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube - Nouvelle fenêtre")
+* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS - Nouvelle fenêtre")
 
 Suivez-nous  
 sur les réseaux sociaux
 -------------------------------------
 
-* [](https://twitter.com/Sante_Gouv)
-* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/)
-* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/)
-* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg)
-* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend)
+* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X - Nouvelle fenêtre")
+* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook - Nouvelle fenêtre")
+* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin - Nouvelle fenêtre")
+* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube - Nouvelle fenêtre")
+* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS - Nouvelle fenêtre")
 
 ![Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028) 
 
