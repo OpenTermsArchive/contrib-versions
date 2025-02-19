@@ -105,7 +105,7 @@ You agree to indemnify and hold harmless Better Stack, its contractors, and its 
 Miscellaneous
 -------------
 
-All data processing activities by the Service will be governed by the data processing agreement available at: [www.betterstack.com/dpa](https://betterstack.com/dpa), which is part of this Agreement.
+All data processing activities by the Service will be governed by the data processing agreement available at: [betterstack.com/dpa](https://betterstack.com/dpa), which is part of this Agreement.
 
 This Agreement constitutes the entire agreement between Better Stack and you concerning the subject matter hereof, and they may only be modified by a written amendment signed by an authorized executive of Better Stack, or by the posting by Better Stack of a revised version.
 
