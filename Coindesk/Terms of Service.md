@@ -1,40 +1,40 @@
 [BTC
 
-$95,346.42
-
-\-
-
-0.35%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
-
-$2,691.42
+$96,317.92
 
 +
 
-0.27%](https://www.coindesk.com/price/ethereum "View price details")[XRP
+2.52%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
 
-$2.5450
+$2,711.12
 
-\-
++
 
-2.95%](https://www.coindesk.com/price/xrp "View price details")[USDT
+3.63%](https://www.coindesk.com/price/ethereum "View price details")[XRP
 
-$0.9998
+$2.6927
 
-\-
++
 
-0.03%](https://www.coindesk.com/price/tether "View price details")[BNB
+7.00%](https://www.coindesk.com/price/xrp "View price details")[USDT
 
-$652.88
+$1.0001
 
-\-
++
 
-0.52%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
+0.02%](https://www.coindesk.com/price/tether "View price details")[BNB
 
-$167.34
+$655.98
 
-\-
++
 
-3.27%](https://www.coindesk.com/price/solana "View price details")[USDC
+3.33%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
+
+$171.58
+
++
+
+4.47%](https://www.coindesk.com/price/solana "View price details")[USDC
 
 $1.0001
 
@@ -42,83 +42,83 @@ $1.0001
 
 0.00%](https://www.coindesk.com/price/usd-coin "View price details")[DOGE
 
-$0.2520
-
-\-
-
-0.65%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
-
-$0.7462
-
-\-
-
-5.94%](https://www.coindesk.com/price/cardano "View price details")[TRX
-
-$0.2434
+$0.2539
 
 +
 
-1.76%](https://www.coindesk.com/price/tron "View price details")[WBTC
+3.22%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
 
-$95,069.86
-
-\-
-
-0.43%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
-
-$17.72
-
-\-
-
-4.08%](https://www.coindesk.com/price/chainlink "View price details")[XLM
-
-$0.3276
-
-\-
-
-0.77%](https://www.coindesk.com/price/xlm "View price details")[LTC
-
-$131.66
+$0.7682
 
 +
 
-7.73%](https://www.coindesk.com/price/ltc "View price details")[AVAX
+2.43%](https://www.coindesk.com/price/cardano "View price details")[TRX
 
-$23.32
-
-\-
-
-3.48%](https://www.coindesk.com/price/avax "View price details")[SUI
-
-$3.0607
-
-\-
-
-2.12%](https://www.coindesk.com/price/sui "View price details")[TON
-
-$3.6476
-
-\-
-
-0.80%](https://www.coindesk.com/price/toncoin "View price details")[LEO
-
-$9.7774
+$0.2435
 
 +
 
-2.77%](https://www.coindesk.com/price/unus-sed-leo "View price details")[SHIB
+3.83%](https://www.coindesk.com/price/tron "View price details")[WBTC
 
-$0.0₄1529
+$96,184.66
+
++
+
+2.27%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
+
+$18.04
+
++
+
+2.94%](https://www.coindesk.com/price/chainlink "View price details")[XLM
+
+$0.3368
+
++
+
+5.21%](https://www.coindesk.com/price/xlm "View price details")[LTC
+
+$135.97
+
++
+
+8.00%](https://www.coindesk.com/price/ltc "View price details")[SUI
+
+$3.2026
+
++
+
+7.67%](https://www.coindesk.com/price/sui "View price details")[AVAX
+
+$23.80
+
++
+
+2.71%](https://www.coindesk.com/price/avax "View price details")[HBAR
+
+$0.2178
+
++
+
+9.26%](https://www.coindesk.com/price/hbar "View price details")[SHIB
+
+$0.0₄1542
+
++
+
+2.02%](https://www.coindesk.com/price/shiba-inu "View price details")[LEO
+
+$9.5955
+
++
+
+0.88%](https://www.coindesk.com/price/unus-sed-leo "View price details")[TON
+
+$3.5377
 
 \-
 
-0.87%](https://www.coindesk.com/price/shiba-inu "View price details")[HBAR
-
-$0.2064
-
-\-
-
-1.04%](https://www.coindesk.com/price/hbar "View price details")
+1.63%](https://www.coindesk.com/price/toncoin "View price details")
 
 Ad
 
@@ -169,6 +169,12 @@ Ad
     Back to menu
     
     Consensus
+    
+* [Sponsored](https://www.coindesk.com/sponsored-content)
+    
+    Back to menu
+    
+    Sponsored
     
 
 * [Videos](https://www.coindesk.com/videos)
@@ -244,6 +250,7 @@ Select Language
 * [Data](https://data.coindesk.com/)
 * [Indices](https://indices.coindesk.com/)
 * [Consensus](https://consensus.coindesk.com/)
+* [Sponsored](https://www.coindesk.com/sponsored-content)
 
 * [Sign In](https://www.coindesk.com/api/auth/login?returnTo=https%3A%2F%2Fwww.coindesk.com%2Fterms&reg_module=navigation "Sign in to your CoinDesk account")
 * [Sign Up](https://www.coindesk.com/api/auth/login?returnTo=https%3A%2F%2Fwww.coindesk.com%2Fterms&screen_hint=signup&reg_module=navigation "Sign up for a free CoinDesk account")
