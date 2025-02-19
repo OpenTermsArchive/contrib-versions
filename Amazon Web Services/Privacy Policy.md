@@ -1,7 +1,7 @@
 Privacy Notice
 ==============
 
-#### Last Updated: October 28, 2024
+#### Last Updated: February 18, 2025
 
 To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20240701/).
 
@@ -292,7 +292,7 @@ We provide additional information about our controllers and data protection offi
     
 * South Africa
     
-    **Controller of Personal Information.** With respect to personal information provided to Amazon Web Services South Africa Proprietary Limited, located at Wembley Square 2, 134 Solan Road, Gardens, Cape Town, 8001 (“AWS South Africa”), AWS South Africa is the responsible party.  
+    **Controller of Personal Information.** With respect to personal information provided to Amazon Web Services South Africa Proprietary Limited, located at 29 Gogosoa Street, Observatory, Cape Town, South Africa, 7925 (“AWS South Africa”), AWS South Africa is the responsible party.  
     
     **Your Rights.** Subject to applicable law, you have the right to:   
     
@@ -500,7 +500,7 @@ Customers can access the information above through AWS Offerings, such as the [A
 Privacy Notice
 ==============
 
-#### Last Updated: October 28, 2024
+#### Last Updated: February 18, 2025
 
 To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20240701/).
 
@@ -791,7 +791,7 @@ We provide additional information about our controllers and data protection offi
     
 * South Africa
     
-    **Controller of Personal Information.** With respect to personal information provided to Amazon Web Services South Africa Proprietary Limited, located at Wembley Square 2, 134 Solan Road, Gardens, Cape Town, 8001 (“AWS South Africa”), AWS South Africa is the responsible party.  
+    **Controller of Personal Information.** With respect to personal information provided to Amazon Web Services South Africa Proprietary Limited, located at 29 Gogosoa Street, Observatory, Cape Town, South Africa, 7925 (“AWS South Africa”), AWS South Africa is the responsible party.  
     
     **Your Rights.** Subject to applicable law, you have the right to:   
     
