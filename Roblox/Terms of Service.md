@@ -814,5 +814,9 @@ Last Updated: January 22, 2025
     
     1 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/27498186922004)
     
+* [AR - شروط استخدام Roblox 20250122.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/34951219414036)
+    
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/34951219414036)
+    
 
 [Return to top](#article-container)
