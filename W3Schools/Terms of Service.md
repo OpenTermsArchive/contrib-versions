@@ -3,300 +3,263 @@ Terms of Service
 
 * * *
 
+Introduction
+------------
+
+Welcome to W3Schools. By visiting W3Schools.com ("Website") or using our products and services ("Services"), you agree to the terms and conditions (hereafter referred to as the "Terms"). The Terms apply to everyone using the Website, including without limitation, visitors, vendors, customers, merchants, and content contributors.
+
+Please read the Terms carefully before using the Website or the Services. By accessing any part of the Website, you agree to be bound by the Terms. If you don't agree with the Terms, you shouldn't access the Website or use our Services.
+
+* * *
+
 Overview
 --------
 
-The website and the solutions are operated and managed by separate entities. Refsnes Data offers the website (w3schools.com) including all its content, information, and related tools. The solutions (Such as Spaces, Courses, and My learning) and billing system are operated by W3schools Network. The two entities are separately responsible for the services that they provide, manage and operate.
+The Website is operated and managed by Refsnes Data AS ("Refsnes") and W3Schools Network AS ("Network"), collectively referred to as "W3Schools". Refsnes provides the Website including all content, information, and related tools. Network operates certain solutions (such as Spaces, Academy, Courses, Challenges, and My Learning) and a billing system. The two entities Refsnes and Network are separately responsible for the Services they provide, manage and operate.
 
-Throughout the site, the terms "we", "us" and "our" refer to Refsnes Data and W3schools Network.
-
-By visiting our site and/or purchasing something from us, you engage in our "Service" and agree to be bound by the following terms and conditions ("Terms of Service", "Terms"), including those additional terms and conditions and policies referenced herein and/or available by hyperlink. These Terms of Service apply to all users of the site, including without limitation users who are browsers, vendors, customers, merchants, and/or contributors of content.
-
-Please read these Terms of Service carefully before accessing or using our website or services. By accessing or using any part of the site, you agree to be bound by these Terms of Service. If you do not agree to all the terms and conditions of this agreement, then you may not access the website or use any services.
-
-Any new features or tools which are added to the current site shall also be subject to the Terms of Service. You can review the most current version of the Terms of Service at any time on this page. We reserve the right to update, change or replace any part of these Terms of Service by posting updates and/or changes to our website. It is your responsibility to check this page periodically for changes. Your continued use of or access to the website following the posting of any changes constitutes acceptance of those changes.
+Any new features or tools added to the Website shall be subject to the Terms. You can review the most current version of the Terms at any time on this page. We reserve the right to update, change, or replace parts of the Terms by posting updates or changes at the Website. Please check this page periodically for changes. Your continued use of or access to the Website after posting any changes constitutes acceptance of such changes.
 
 * * *
 
-Site Usage Terms
-----------------
+Use of the Website and the Services
+-----------------------------------
 
-By agreeing to these Terms of Service, you represent that you are at least the age of majority in your state or province of residence, or that you are the age of majority in your state or province of residence and you have given us your consent to allow any of your minor dependents to use this site.
+By using the Website and or the Services, you confirm that you are at least 13 years old. The Services are not intended for anyone under the age of 13. If you are under the age of 13 or lack the authority to consent on behalf of users below this age (such as in an educational institution), you cannot use the Services.
 
-Access to services may require you to register an account. This could require you to provide information about yourself such as name, email address and credit card details. The account information and the use of data is subject to our Privacy Policy (https://www.w3schools.com/about/about\_privacy.asp)
+Some parts of the Services require you to create an account. When you register, we collect information about you, like your name and email address. Your account information and how we use your data are detailed in our [Privacy Policy](https://www.w3schools.com/about/about_privacy.asp).
 
-You may not use our products for any illegal or unauthorized purpose nor may you, in the use of the Service, violate any laws in your jurisdiction (including but not limited to copyright laws). You are responsible for complying with any law, rules, and regulations applicable to you.
+You agree not to use our products for illegal or unauthorized purposes. You must comply with all laws, rules, and regulations, including copyright laws.
 
-You must not transmit any worms or viruses or any code of a destructive nature.
+Do not transmit any viruses, worms, or harmful code through the Services.
 
-A breach or violation of any of our Terms can result in an immediate termination of your Services. We reserve the right to remove or restrict your account and to remove content such as websites and other user-created data at any time at our sole and absolute discretion.
-
-* * *
-
-General Conditions
-------------------
-
-We reserve the right to refuse service to anyone for any reason at any time.
-
-You understand that your content may be transferred unencrypted and involve (a) transmissions over various networks, and (b) changes to conform and adapt to technical requirements of connecting networks or devices.
-
-Credit card information is always encrypted during transfer over networks, and are processed and handled by our selected Payment Service Providers. We only preserve the last four-digit and expiry date of your Credit card. This is, among other things, to let you know in advance if your Credit card is soon to expire, so that we can assure the continuous running of your Services with us.
-
-You agree not to reproduce, duplicate, copy, sell, resell or exploit any portion of the Service, use of the Service, or access to the Service or any contact on the website through which the service is provided, without express written permission by us.
-
-The headings used in this agreement are included for convenience only and will not limit or otherwise affect these Terms.
+If you breach our Terms, we may terminate your access to the Services immediately. At our sole discretion, we reserve the right to remove or restrict your account and any content you've created, such as websites or other user-generated data.
 
 * * *
 
-Fair Use
---------
+Intellectual Property Rights and Fair Use
+-----------------------------------------
 
-Fair use defines our exceptions to the rights protected by copyright laws.
+All content provided by W3Schools, including text, graphics, logos, images, and software, is owned by W3Schools. Any use beyond what is specifically allowed under the Terms is forbidden, ref. the Norwegian "Lov om opphavsrett til åndsverk m.v."
 
-Fair use of W3Schools includes using copyrighted material:
+### Fair Use
 
-* In research
-* In news reporting
-* In citations
-* In commentary
+You can still use W3Schools copyright material under fair use for:
 
-Fair use of W3Schools also includes:
+* Research
+* News reporting
+* Citations
+* Commentary
+
+Fair use also includes:
 
 * Linking to W3Schools
-* Adding W3Schools to search engines
-* Library archiving W3Schools
+* Including references to W3Schools in search engines
 
 * * *
 
 Using W3Schools in Teaching
 ---------------------------
 
-Fair use includes using copyrighted material in teaching under this balancing:
+Fair use allows the use of copyrighted material in teaching, provided it meets the following guidelines:
 
-### Favorable Use:
+### Permitted Use
 
-* Copying examples and code snippets for non-profit teaching and research.
-* Copying small quantities, appropriate for classroom teaching.
+* Copying examples and code snippets for non-profit teaching or research
+* Copying small portions suitable for classroom instruction
 
-### Not Favorable Use:
+### Not Permitted Use
 
-* Copying for profitable or commercial use.
-* Massive or verbatim copying.
-* Copying large quantities.
+* Copying for profitable or commercial use
+* Mass or verbatim copying
+* Copying large portions of material
 
 * * *
 
-Accuracy, Completeness and Timeliness of Information
-----------------------------------------------------
+Privacy and Cookies
+-------------------
 
-We are not responsible if information made available on our sites is incomplete or invalid.
+By using the Website and the Services, any users thereby consent to W3Schools collecting, using, and processing the user's personal data as outlined in the [Privacy Policy](https://www.w3schools.com/about/about_privacy.asp).
 
-The material on this site is provided for general information only and should not be relied upon or used as the sole basis for making decisions without consulting primary, more accurate, more complete or more timely sources of information. Any reliance on the material on this site is at your own risk.
+Users have certain rights regarding their data. For more information on these rights and how to exercise them, please see our [Privacy Policy](https://www.w3schools.com/about/about_privacy.asp).
 
-This site may contain certain historical information. Historical information, necessarily, is not current and is provided for your reference only. We reserve the right to modify the contents of this site at any time, but we have no obligation to update any information on our site. You agree that it is your responsibility to monitor changes to our site.
+We use cookies and similar tracking technologies to improve user experience. For more information on how we use cookies, please see our [Cookie Policy](https://www.w3schools.com/about/about_cookies.asp).
 
-If you discover that the site or its contents contains errors, please contact us so these can be corrected.
+* * *
 
-Contact address:  
-help@w3schools.com
+Products and Services
+---------------------
+
+To keep our offerings current, product descriptions and prices are subject to change at any time without prior notice. Without warning, we can discontinue the supply of any Services if our rules and guidelines or applicable laws are violated.
+
+We seek to maintain high standards and to provide accurate information. However, we cannot guarantee that every product, service, or element of information will meet your expectations.
 
 * * *
 
 Modifications to the Service and Prices
 ---------------------------------------
 
-By agreeing to a subscription price, you will remain on that price for the duration of the payment term. Prices are subject to change at the end of your next payment term, and we will do our best to clearly inform you about any price change in advance of your next billing period.
+By ordering a subscription, the price for such subscription will remain firm for the period the subscription is purchased for. We reserve the right to adjust prices for any subsequent period(s).
 
-We shall not be liable to you or to any third-party for any modification, price change, suspension or discontinuance of the Service.
+We are not liable to you or any third party for any loss suffered due to modifications to the Website, price adjustments, suspension or discontinuation of the Service.
 
 * * *
 
-Products or Services
---------------------
+Accuracy and Completeness of Information
+----------------------------------------
 
-Certain products or services may be available exclusively online through the website.
+We do our best to provide accurate and current information. However, we cannot guarantee that everything on the Website is complete or always up to date. Please do not rely solely on the material at the Website when making important decisions. You are using the information on the Website at your own risk.
 
-We reserve the right, but are not obligated, to limit the sales of our products or Services to any person, geographic region or jurisdiction. We may exercise this right on a case-by-case basis.
+Some of the content you find on the Website may be historical. Since historical information may become incorrect we provide at the Website such information for reference only. We can change the contents of the Website at any time without creating a liability for W3Schools. It's your responsibility to keep track of any changes.
 
-We reserve the right to limit the quantities of any products or services that we offer. All descriptions of products or product pricing are subject to change at any time without notice, at the sole discretion of us.
-
-We reserve the right to discontinue any product at any time. Any offer for any product or service made on this site is void where prohibited.
-
-We do not warrant that the quality of any products, services, information, or other material purchased or obtained by you will meet your expectations, or that any errors in the Service will be corrected.
+If you find any errors, please let us know at [help@w3schools.com](mailto:help@w3schools.com) so we can correct them.
 
 * * *
 
 Refund Policy
 -------------
 
-Exams & Courses:
+### Exams and Courses:
 
-You may withdraw from the course or exam for any reason within 14 days after the date you first receive access to the service, which is the date of the email sent to you containing access to the online course or exam. If any exam attempts are used, purchases are considered final and are not eligible for a refund. For any questions or issues with your product please contact our support at hello@w3schools.com Otherwise, all purchases are considered final after 14 days.
+You can withdraw from a course or exam within 14 days of receiving your initial access (marked by the date we send you the access email). If you have already used any exam attempts, the purchase is final and not eligible for a refund. For questions or issues related to the product you have purchased, please contact us at [hello@w3schools.com](mailto:hello@w3schools.com).
 
-Plans & Subscriptions:
+### Plans and Subscriptions:
 
-We issue no refunds for plans and subscriptions. You may cancel your subscription with W3Schools anytime, but you won't be issued a refund for the billed period. The only exception is in legal matters such as fraud and misuse.
+We do not provide refunds for plans or subscriptions. You may cancel your subscription anytime, but no refunds will be issued for the period you paid for.
 
 * * *
 
 Domains
 -------
 
-We are offering a service to our users to purchase domains, which connects to their W3schools Spaces. This enables the user to search, select and purchase a specific domain which will be linked to the Space by automation.
+We provide a domain purchasing service that seamlessly integrates with the W3Schools web hosting and development platform ("Spaces"). It allows you to search, select, and purchase a domain that automatically links to your Spaces.
 
-You acknowledge that by purchasing a domain you are the sole owner and have the responsibility to act according to the related terms and conditions.
+When you buy a domain, you become its sole owner and must follow all related terms and conditions.
 
-W3schools are collaborating with third parties such as Amazon and its Route 53 services for registration and distribution of domains. You can read about the related third party terms and conditions agreement here:  
-[https://aws.amazon.com/route53/domain-registration-agreement/](https://aws.amazon.com/route53/domain-registration-agreement/)
+W3Schools works with third-party providers, such as Amazon and its Route 53 services, for domain registration and distribution. You can review their terms here:
 
-The exceptions to this agreement are purchasing and billing, which is handled by W3schools who acts as the distributor. Complaints, claims, concerns, or questions regarding third-party products should be directed to our support channel: support@w3schools.com
+* [Amazon Route 53 Domain Registration Agreement](https://aws.amazon.com/route53/domain-registration-agreement/)
+* [Amazon Registrar Policy Page](https://aws.amazon.com/route53/amazon-registrar-policies/)
+* [Gandi Contract Page](https://www.gandi.net/en/contracts/terms-of-service)
 
-Amazon is affiliated with Gandi as a registrar and the specific requirements related to each of the TLDs are available on the [Amazon Registrar policy](http://aws.amazon.com/route53/amazon-registrar-policies/) page and the [Gandi contract page](https://www.gandi.net/en-US/contracts/terms-of-service). Your acceptance of this agreement signifies that you have read, understood, acknowledged and agreed to the agreements, guidelines, policies, procedures, registration requirements or operational standard of the TLD in which you register any domain name. We maintain the right to cancel and withhold the refund if you do not accept the related requirements.
+As the distributor, W3Schools handles purchasing and billing. If you have any complaints, claims, or concerns about these third-party products, please contact us at [support@w3schools.com](mailto:support@w3schools.com).
 
-W3Schools are responsible for the purchasing and billing related to the distribution. The domain gets renewed automatically every year and agree that you have understood that you have to actively cancel the renewal to opt out of the service. You can read more about billing in the section Accuracy of Billing and Account Information.
+The mutual agreement for a domain renews automatically each year. If you don't want to continue with a domain purchase from us, you must cancel the renewal before the end of the current agreement. See the [Billing and Account Information](#billing_and_account_information) section for more billing information.
 
-We are not liable or responsible for any harm, errors or omissions related to any actions by the registry administrator, such as request to register or renewal. Please review carefully the third-party's policies and practices and make sure you understand them before you engage in any transaction.
-
-* * *
-
-Accuracy of Billing and Account Information
--------------------------------------------
-
-We reserve the right to refuse any order you place with us. We may, in our sole discretion, limit or cancel quantities purchased per person, per household or per order. These restrictions may include orders placed by or under the same customer account, the same credit card, and/or orders that use the same billing and/or shipping address.
-
-In the event that we make a change to or cancel an order, we may attempt to notify you by contacting the e‑mail and/or billing address/phone number provided at the time the order was made.
-
-We reserve the right to limit or prohibit orders that, in our sole judgment, appear to be placed by dealers, resellers or distributors.
-
-You agree to provide current, complete and accurate purchase and account information for all purchases made on our site. You agree to promptly update your account and other information, including your email address and credit card numbers and expiration dates, so that we can complete your transactions and contact you as needed.
+We are not liable for any harm, errors, or omissions caused by the domain registry administrator's actions, including domain registration or renewal requests. Before purchasing a domain, please review all associated third-party policies and practices to ensure you understand their terms.
 
 * * *
 
-Optional Tools
+Billing and Account Information
+-------------------------------
+
+We reserve the right to refuse any order placed with us. At our sole discretion, we can limit or cancel the quantities purchased by any individual, household, or for any specific order. These restrictions also apply to orders made under the same customer account, using the same payment method, or associated with the same billing or shipping address.
+
+If we need to change or cancel an order, we will email you using the email address you provided at the time of purchase.
+
+Please know that you agree to provide current, complete, and accurate purchase and account information for all orders made through our website. You must keep your account details updated at all times, including your email address and payment method, so we can process your transactions and contact you if needed.
+
+* * *
+
+Optional Tools and Third-Party Links
+------------------------------------
+
+We sometimes provide access to third-party tools we do not develop, monitor, or control. These tools are offered "as is" and "as available," without warranties, endorsements, or promises. We are not responsible for any issues or damages that arise from your use of these optional third-party tools.
+
+If you choose to use these tools, you do so at your own risk. Before you proceed with any such tools, please ensure you understand and agree to the terms set by the third-party provider.
+
+The Website may include links to external websites or services we do not operate or control. While we try to avoid linking to harmful or offensive content, we cannot guarantee the accuracy or quality of third-party materials, products, or services. We are not liable for any harm or damages you experience with third-party websites or services.
+
+Before you engage in any transaction with a third party, review their policies and practices to ensure you are comfortable with them. If you have complaints, claims, concerns, or questions about third-party products or services, please direct them to the appropriate third party.
+
+* * *
+
+Errors, Inaccuracies, and Omissions
+-----------------------------------
+
+Occasionally, the information on the Website or the Service contains typographical errors, inaccuracies, or omissions related to product descriptions, pricing, promotions, offers, product shipping charges, transit times, or availability. We reserve the right to correct these errors, inaccuracies, or omissions and to change or update information or cancel orders if the information on the Website or the Services is inaccurate. We can do this at any time without prior notice, including after you have placed an order.
+
+* * *
+
+Prohibited Use
 --------------
 
-We may provide you with access to third-party tools over which we neither monitor nor have any control nor input. You acknowledge and agree that we provide access to such tools "as is" and "as available" without any warranties, representations or conditions of any kind and without any endorsement. We shall have no liability whatsoever arising from or relating to your use of optional third-party tools.
+In addition to other restrictions described in these Terms, the following activities are forbidden when using the Website or its content:
 
-Any use by you of optional tools offered through the site is entirely at your own risk and discretion and you should ensure that you are familiar with and approve of the terms on which tools are provided by the relevant third-party provider(s).
+1. Engaging in any unlawful activity
+2. Encouraging others to engage in unlawful activities
+3. Violating international, national, regional, or local laws, regulations, or rules
+4. Infringing upon our intellectual property rights or those of others
+5. Harassing, abusing, insulting, harming, defaming, slandering, disparaging, intimidating, or discriminating against any individual or group, including but not limited to those defined by gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability
+6. Providing false or misleading information
+7. Uploading or transmitting viruses, malicious code, or any harmful elements designed to affect the functionality or operation of the Service, any related website, other websites, or the broader Internet
+8. Collecting or tracking personal information about others without authorization
+9. Engaging in spamming, phishing, pharming, pretexting, spidering, crawling, or scraping
+10. Using the Website or its content for offensive or unethical purposes
+11. Interfering with or attempting to bypass the security features of the Service, related websites, other websites, or the Internet in general
 
-We may also, in the future, offer new services and/or features through the website (including, the release of new tools and resources). Such new features and/or services shall also be subject to these Terms of Service.
-
-* * *
-
-Third-Party Links
------------------
-
-Certain content, products and services available via our Service may include materials from third-parties.
-
-Third-party links on this site may direct you to third-party websites that are not affiliated with us. We are not responsible for examining or evaluating the content or accuracy and we do not warrant and will not have any liability or responsibility for any third-party materials or websites, or for any other materials, products, or services of third-parties.
-
-We are not liable for any harm or damages related to the purchase or use of goods, services, resources, content, or any other transactions made in connection with any third-party websites. Please review carefully the third-party's policies and practices and make sure you understand them before you engage in any transaction. Complaints, claims, concerns, or questions regarding third-party products should be directed to the third-party.
-
-* * *
-
-User Comments, Feedback, and Other Submissions
-----------------------------------------------
-
-You are the owner of the content that you create with our services. The content is managed by you and you are responsible for its compliance. This includes copyright responsibility; you must agree that you only will create content that you own and/or have the right to use. We keep the right to change or delete user content at any time.
-
-If, at our request, you send certain specific submissions (for example contest entries) or without a request from us you send creative ideas, suggestions, proposals, plans, or other materials, whether online, by email, by postal mail, or otherwise (collectively, 'comments'), you agree that we may, at any time, without restriction, edit, copy, publish, distribute, translate and otherwise use in any medium any comments that you forward to us.
-
-We are and shall be under no obligation (1) to maintain any user content in confidence; (2) to pay compensation for any user content; or (3) to respond to any comments.
-
-We may, but have no obligation to, monitor, edit or remove content that we determine in our sole discretion are unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party's intellectual property or these Terms of Service.
-
-You agree that your user content will not violate any right of any third-party, including copyright, trademark, privacy, personality or other personal or proprietary right. You further agree that your user content will not contain libelous or otherwise unlawful, abusive or obscene material, or contain any computer virus or other malware that could in any way affect the operation of the Service or any related website. This includes any intellectual property, copyrighted material, trademark, patents and privacy rights.
-
-You may not use a false e‑mail address, pretend to be someone other than yourself, or otherwise mislead us or third-parties as to the origin of any user content. You are solely responsible for any user content you make and their accuracy.
-
-We take no responsibility and assume no liability for any comments posted by you or any third-party.
+We reserve the right to terminate your use of the Website or the Services if you engage in prohibited activities.
 
 * * *
 
-Personal Information
---------------------
+Disclaimer of Warranties and Limitation of Liability
+----------------------------------------------------
 
-Your submission of personal information through the site is governed by our [Privacy Policy](https://www.w3schools.com/about/about_privacy.asp).
+We do not guarantee that using the Service will be uninterrupted, timely, secure, or error-free.
 
-* * *
+We do not guarantee that results obtained using the Service will be accurate or reliable.
 
-Errors, Inaccuracies and Omissions
-----------------------------------
+You create and own your user-generated content and are fully responsible for it. W3Schools is not liable for any errors or faults in your user-generated content.
 
-Occasionally there may be information on our site or in the Service that contains typographical errors, inaccuracies or omissions that may relate to product descriptions, pricing, promotions, offers, product shipping charges, transit times and availability. We reserve the right to correct any errors, inaccuracies or omissions, and to change or update information or cancel orders if any information in the Service or on any related website is inaccurate at any time without prior notice (including after you have submitted your order).
+By using the Service, you accept that you do so at your own risk. Unless otherwise stated, we offer the Website and the Services "as is" and "as available" without express or implied warranties or guarantees.
 
-We undertake no obligation to update, amend or clarify information in the Service or on any related website, including without limitation, pricing information, except as required by law. No specified update or refresh date applied in the Service or on any related website, should be taken to indicate that all information in the Service or on any related website has been modified or updated.
-
-* * *
-
-Prohibited Uses
----------------
-
-In addition to other prohibitions as set forth in the Terms of Service, you are prohibited from using the site or its content:
-
-(a) for any unlawful purpose; (b) to solicit others to perform or participate in any unlawful acts; (c) to violate any international, federal, provincial or state regulations, rules, laws, or local ordinances; (d) to infringe upon or violate our intellectual property rights or the intellectual property rights of others; (e) to harass, abuse, insult, harm, defame, slander, disparage, intimidate, or discriminate based on gender, sexual orientation, religion, ethnicity, race, age, national origin, or disability; (f) to submit false or misleading information; (g) to upload or transmit viruses or any other type of malicious code that will or may be used in any way that will affect the functionality or operation of the Service or of any related website, other websites, or the Internet; (h) to collect or track the personal information of others; (i) to spam, phish, pharm, pretext, spider, crawl, or scrape; (j) for any obscene or immoral purpose; or (k) to interfere with or circumvent the security features of the Service or any related website, other websites, or the Internet.
-
-We reserve the right to terminate your use of the Service or any related website for violating any of the prohibited uses.
-
-* * *
-
-Disclaimer of Warranties; Limitation of Liability
--------------------------------------------------
-
-We do not guarantee, represent or warrant that your use of our service will be uninterrupted, timely, secure or error-free.
-
-We do not warrant that the results that may be obtained from the use of the service will be accurate or reliable. You agree that from time to time we may remove the service for indefinite periods of time or cancel the service at any time, without notice to you.
-
-You are the creator and owner of your user content and have the sole responsibility for it. You confirm that Refsnes Data is not in any way liable for your user content.
-
-You expressly agree that your use of, or inability to use, the service is at your sole risk. The service and all products and services delivered to you through the service are (except as expressly stated by us) provided 'as is' and 'as available' for your use, without any representation, warranties or conditions of any kind, either express or implied, including all implied warranties or conditions of merchantability, merchantable quality, fitness for a particular purpose, durability, title, and non-infringement.
-
-In no case shall Refsnes Data as, our directors, officers, employees, affiliates, agents, contractors, interns, suppliers, service providers or licensors be liable for any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind, including, without limitation lost profits, lost revenue, lost savings, loss of data, replacement costs, or any similar damages, whether based in contract, tort (including negligence), strict liability or otherwise, arising from your use of any of the service or any products procured using the service, or for any other claim related in any way to your use of the service or any product, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of the service or any content (or product) posted, transmitted, or otherwise made available via the service, even if advised of their possibility. Because some states or jurisdictions do not allow the exclusion or the limitation of liability for consequential or incidental damages, in such states or jurisdictions, our liability shall be limited to the maximum extent permitted by law.
+Under no circumstances shall W3Schools, its directors, officers, employees, affiliates, agents, contractors, interns, suppliers, service providers, or licensors be held liable for any injury, loss, claim, or any direct, indirect, incidental, punitive, special, or consequential damages of any kind.
 
 * * *
 
 Indemnification
 ---------------
 
-You agree to indemnify, defend and hold harmless Refsnes Data as, owners, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns and employees, harmless from any claim or demand, including reasonable attorneys' fees, made by any third-party due to or arising out of your breach of these Terms of Service or the documents they incorporate by reference, or your violation of any law or the rights of a third-party.
+By using our Services, you agree that W3Schools and its related parties (owners, subsidiaries, affiliates, partners, officers, directors, agents, contractors, licensors, service providers, subcontractors, suppliers, interns, and employees) are not responsible for any third-party claims or lawsuits that come from your violation of these Terms, any referenced documents, or any laws or rights of others. In addition, W3Schools reserves the right to claim from you a reasonable attorney's fee incurred by W3Schools and/or its Associates in relation to your breach.
 
 * * *
 
 Entire Agreement
 ----------------
 
-The failure of us to exercise or enforce any right or provision of these Terms of Service shall not constitute a waiver of such right or provision.
+If we fail to exercise or enforce any right or provision of these Terms, this does not mean we give up that right or provision.
 
-These Terms of Service and any policies or operating rules posted by us on this site or in respect to The Service constitutes the entire agreement and understanding between you and us and govern your use of the Service, superseding any prior or contemporaneous agreements, communications and proposals, whether oral or written, between you and us (including, but not limited to, any prior versions of the Terms of Service).
+These Terms and any policies or rules on the Website make up the entire agreement between you and W3Schools. They govern your use of the Service and replace any previous agreements or discussions, whether written or spoken between you and W3Schools.
 
-Any ambiguities in the interpretation of these Terms of Service shall not be construed against the drafting party.
-
-* * *
-
-Governing Law
--------------
-
-These Terms of Service and any separate agreements whereby we provide you Services shall be governed by and construed in accordance with the laws of Norway.
+Any uncertainty in interpreting these Terms should not be used to disadvantage the party responsible for drafting them.
 
 * * *
 
-Changes to Terms of Service
----------------------------
+Governing Law and Jurisdiction
+------------------------------
 
-You can review the most current version of the Terms of Service at any time at this page.
+These Terms and any separate agreements whereby we provide you with the Services shall be governed by and construed in accordance with the laws of Norway unless otherwise agreed to and accepted by W3Schools. In that case, it will only apply to the signing entity.
 
-We reserve the right, at our sole discretion, to update, change or replace any part of these Terms of Service by posting updates and changes to our website. It is your responsibility to check our website periodically for changes.
+You acknowledge that these Terms form a contract between you and W3Schools, even if they are presented electronically and not physically signed. This contract governs your use of the Services.
 
-Your continued use of or access to our website or the Service following the posting of any changes to these Terms of Service constitutes acceptance of those changes.
+* * *
+
+Changes to the Terms
+--------------------
+
+You can review this page's most up-to-date version of these Terms anytime.
+
+We reserve the right to update, change, or replace any part of these Terms by posting updates on our website. It's your responsibility to check our website regularly for changes.
+
+If you continue to use or access the Website or the Service after we post changes, you thereby accept those changes.
 
 * * *
 
 Contact Information
 -------------------
 
-If you have any questions or concerns regarding these Terms, please contact us at help@w3schools.com
+If you have any questions or concerns about these Terms, please contact us at [help@w3schools.com](mailto:help@w3schools.com)
 
-  
+Last updated: 2025.02.19
 
 [★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
 
