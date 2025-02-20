@@ -193,7 +193,7 @@ We use this information for labor management, benefits, etc., including personne
 Entrustment of Operations Involving Personal Information
 ========================================================
 
-We may entrust all or part of the operations handling Personal Data to third parties to the extent necessary to achieve the “Purposes of Use.” Such entrustment may include companies outside of Japan. [The companies](https://policies.pixiv.net/ja/privacy/outofjapan.html) to which we currently entrust operations outside of Japan are listed .
+We may entrust all or part of the operations handling Personal Data to third parties to the extent necessary to achieve the “Purposes of Use.” Such entrustment may include companies outside of Japan. [The companies](https://policies.pixiv.net/en/privacy/outofjapan.html) to which we currently entrust operations outside of Japan are listed .
 
 We select service providers that are found to handle Personal Data appropriately and ensure that Personal Data is properly managed when contracting with such service providers.
 
@@ -267,7 +267,7 @@ In principle, we do not provide Personal Data to third parties (provision of Per
 Provision to payment companies etc. and transfer outside Japan
 --------------------------------------------------------------
 
-In order to detect or prevent payment execution and payment abuse, we may provide payment-related User Data to payment-related companies and companies that actually perform payments through payment-related companies (“Payment Companies”; payment-related companies and payment companies are collectively referred to as “Payment Companies etc.”). If a Payment Company etc. used by a Customer etc. is located outside of Japan, this information may be transferred to a third party outside of Japan. In such cases, please check [here](https://policies.pixiv.net/ja/privacy/outofjapan.html) for information on the transfer destination.
+In order to detect or prevent payment execution and payment abuse, we may provide payment-related User Data to payment-related companies and companies that actually perform payments through payment-related companies (“Payment Companies”; payment-related companies and payment companies are collectively referred to as “Payment Companies etc.”). If a Payment Company etc. used by a Customer etc. is located outside of Japan, this information may be transferred to a third party outside of Japan. In such cases, please check [here](https://policies.pixiv.net/en/privacy/outofjapan.html) for information on the transfer destination.
 
 Security Control Systems
 ========================
