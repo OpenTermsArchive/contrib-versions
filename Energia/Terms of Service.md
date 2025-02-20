@@ -663,239 +663,454 @@ Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](h
 
 33\. Energia EV Charger Customer Terms and Conditions
 
-**Energia EV Charger Customer Terms and Conditions**
+**1\. BACKGROUND**
 
-1. Background
+1. 1.1 Energia offers electric vehicle charge points to its customers. Energia has arranged for the third-party contractor to offer the electric vehicle charge points to you the customer under these Terms and Conditions.
+    
 
-(a)    Energia offers electric vehicle charging points to its customers. It has arranged for the Contractor to offer the electric vehicle charging points to you under these terms and conditions.   
-(b)    These terms and conditions are in addition to Energia's supply terms and conditions which govern your energy supply with us. If there is any conflict between these terms and conditions and Energia's supply terms and conditions then Energia's supply terms and conditions shall prevail except in relation to limitation of liability which is set out in detail below. 
+3. 1.2 These Terms and Conditions are in addition to Energia's supply Terms and Conditions which govern your energy supply with us. If there is any conflict between these Terms and Conditions and Energia's supply Terms and Conditions, then Energia's supply Terms and Conditions shall prevail except in relation to limitation of liability which is set out in detail below.
+    
 
-1. Information about us and contact details
+**2.  INFORMATION ABOUT ENERGIA**  
+  
+The following definitions apply to this Agreement:
 
-(a)    The following definitions apply to this Agreement:
+1. 2.1 "**Additional Costs**" means costs due from the customer that may be determined at the time of the installation following identification of a Non-Standard Installation, as presented to the Customer in writing for Agreement.
+    
 
-1. "**Additional Costs"** means costs due from the Customer that may be determined at the time of the installation following identification of a Non-Standard Installation, as presented to the Customer in writing for agreement.
-2. "**Cancel**" means where the Customer decides that they do not want to proceed with this Contract and exercises their statutory right as consumer to cancel this Contract without any charges during the Cooling-Off Period;
-3. "**Cancellation Notice**" means a written notice that the Customer serves on Energia to inform Energia that they wish to exercise their right to Cancel this Contract;
-4. "**Conditions**" means the terms and conditions set out in this document.
-5. "**Contract**" means this contract between Energia and the Customer for the sale and purchase of the Electric Vehicle Charging Point.
-6. "**Contractor**" means any independent contractor(s) appointed by Energia for the purposes of carrying out the Services under this Contract;
-7. "**Cooling-off Period**’ means the time period of 14 days from entering of the Contract  within which the Customer has the right to Cancel this Contract pursuant to the terms of this Contract;
-8. "**Customer**" means the customer purchasing the Electric Vehicle Charging Point.
-9. **"Data Protection Legislation"** means all applicable data protection and privacy legislation in force from time to time in the Ireland including the General Data Protection Regulation (_(EU) 2016/679_); the Data Protection Act 2018; the Privacy and Electronic Communications Directive (_2002/58/EC_) (as updated by Directive 2009/136/EC) and the Privacy and Electronic Communications Regulations 2003 (_SI 2003/2426_) as amended.
-10. "**Delivery Date**" the date for delivery of the Electric Vehicle Charging Point as specified by Energia.
-11. "**Device Manufacturer**" means the manufacturer of the Electric Vehicle Charging Point.
-12. "**Electric Vehicle Charging Point**" means the electric vehicle charging point supplied by Energia under these Conditions.  
-13. **"Force Majeure Event"** means an event or circumstance beyond a party's reasonable control.
-14. "**Installation Location**" means the specific location on the Site where the Electric Vehicle Charging Point shall be installed;
-15. **"Non-Standard Installation"** means any installation that is not a Standard Installation, and which shall be as determined and advised by Energia to the Customer.
-16. "**Price**" means the total price payable by the Customer for the Services, being €600 incl VAT. For clarity, the Price may not include Additional Costs;
-17. "**Qualification Criteria**" means:
-    1. Having purchased an  electric vehicle from a retailer participating in Energia’s EV Charger scheme (**Participating Retailer)** ; and
-    2. Being registered as an Energia energy customer for the Customer's domestic dwelling (provided always that Energia may waive this requirement in its sole discretion)
-18. "**Services**" means the installation of the Electric Vehicle Charging Point at the Site. which for the avoidance of doubt, shall exclude incidental, maintenance or ongoing support services;
-19. **"Standard Installation"** means an installation that can be carried out at the Site without any additional site preparation works, man hours or additional equipment to install the Electric Vehicle Charging Point and shall include:
-    1. Installation of the device where the consumer unit (fuse board)  is no more than 5 meters from the proposed position of the exterior charge point. Customers may incur an additional charge if they wish to have the exterior charge point installed in excess of these 5 meters from the fuse board.
-    2. Fuse board is trip switch type. In the event that the fuse board is not trip switch type, the fuse board would need to be upgraded in line with Safe Electric Guidelines.
-    3. 10 Square earth bonding with earth electrode is present. In the event of no 10 Square Earth Cable, this would need to be upgraded in line with Safe Electric Guidelines.
-    4. 16 Square mains cable is present. In the event of old mains wiring, this would need to be upgraded to 15 Square Mains in line with Safe Electric Guidelines.  
-20. "**Site**" means the address at which the Services are to be performed.
-21. "**We**", "**us**" "**our**" or "**Energia**" means Energia Customer Solutions Limited t/a Energia.
+3. 2.2 "**Cancel**" means where the customer decides that they do not want to proceed with this contract and exercises their statutory right as a consumer to cancel this contract without any charges during the 14-day cooling off period;
+    
 
-1. **INTERPRETATION**
-    1. A reference to a statute or statutory provision is a reference to such statute or provision as amended or re-enacted. A reference to a statute or statutory provision includes any subordinate legislation made under that statute or statutory provision, as amended or re-enacted.
-    2. Any phrase introduced by the terms including, include, in particular or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.
-    3. A reference to writing or written includes emails.
-2. **BASIS OF CONTRACT**
-    1. These Conditions apply to the Contract to the exclusion of any other terms that the Customer seeks to impose or incorporate, or which are implied by trade, custom, practice or course of dealing.
-    2. The ordering of the Electric Vehicle Charging Point constitutes an offer by the Customer to purchase in accordance with these Conditions. It is accepted by Energia by the processing of the relevant order and sending confirmation of the same to the Customer.
-    3. In order to participate and enter into this Contract, the Customer must meet the Qualification Criteria.
-3. SEAI
-    1. You acknowledge that grant payments may be available in relation to the installation of the Electric Vehicle Charging Point. In order to avail of any such grants from SEAI that you must apply for a grant from SEAI and any such grant is subject to SEAI’s eligibility criteria and their terms and conditions. You are solely responsible for applying for the grant.
-    2. Energia makes no representation or warranty that the Electric Vehicle Charging Point is suitable for you or that you will be eligible for a grant from SEAI.
-4. **CUSTOMER'S OBLIGATIONS**
-    1. The Customer agrees and acknowledges that it is responsible for obtaining all necessary consent, permissions and approvals for the installation of the Electric Vehicle Charging Point at the Site. The Customer shall fully indemnify Energia in the event that Energia suffers a claim or loss arising from the action of any third party as a result of the Customers' failure to obtain the necessary consent.
-    2. The Customer shall ensure that the Site is safe and free from any obstructions or hazards prior to the performance of the Services. The Customer shall be responsible for the costs of all remedial work required to bring a Site up to a Safe Electric standard to allow safe Standard Installation. 
-    3. The Customer acknowledges and agrees that for Energia to be able to commence and complete the Services the Customer must:
-        1. allow Energia and its Contractors access to the Site to perform the Services, if the customer is not available at the time of appointment without giving at least 24 hours’ notice to the installation team on 0818111122 a no access fee of €100 will apply;
-        2. provide to Energia such information and documentation as Energia reasonably requires and to update Energia when any of the Customer’s information (including personal data) changes;
-        3. co-operate with Energia and its Contractors and provide such assistance as Energia reasonably requires to perform the Services; and
-        4. make available to Energia and its Contractors such power supplies, facilities, working space and access to the Installation Location, at no cost and as Energia reasonably requires from time to time.
-    4. The Customer acknowledges and agrees that it shall:
-        1. follow the Device Manufacturer's instructions for the use of the  Electric Vehicle Charging Point  
-        2. register the Electric Vehicle Charging Point with the Device Manufacture using the documentation provided with the Electric Vehicle Charging Point, failure to do so will invalidate the Device Manufacture warranty (details of which are set out in clause 8 below); and
-        3. shall be responsible for providing suitable internet communication systems to enable the Electric Vehicle Charging point to function and be updated in accordance with the Device Manufacture’s recommendations.
-    5. The Customer agrees that post installation:
-        1. it will be responsible for any damage to or interference with the Electric Vehicle Charging Point or its associated installation, whether caused through the incorrect operation of the Electric Vehicle Charging Point or otherwise; and
-        2. it will be responsible for ensuring that it uses the Electric Vehicle Charging Point in accordance with the user manual and/or manufacturer’s instructions and that any required maintenance checks are carried out throughout the warranty period of the Electric Vehicle Charging Point.
-5. **SUPPLIER'S OBLIGATIONS**
-    1. Energia shall be responsible for installing the Electric Vehicle Charging Point at the Delivery Location.
-    2. The Customer acknowledges that it may be necessary to make certain changes to the settings on the Customer's existing equipment and to physically integrate the Electric Vehicle Charging Point with the Customer's equipment. The Customer shall be responsible for satisfying itself as to the compatibility of the Electric Vehicle Charging Point with the Customer's equipment.
-    3. The Customer irrevocably undertakes to Energia not to take any steps to claim against Energia in respect of any damage, loss or expense arising out of the change of settings to the Customer's equipment or integration of the Electric Vehicle Charging Point.
-    4. For the avoidance of doubt, Energia shall not be liable for any damage or wear and tear or variation of output of the Customer's equipment as a result of the operation of the Electric Vehicle Charging Point or incompatibility of the Electric Vehicle Charging Point with the Customer's equipment. 
-6. **QUALITY**
-    1. The Electric Vehicle Charging Point is provided with the Device Manufacturer’s warranty (which excludes charging cables and their connectors which are warranted for 12 months (1 year)) ("Device Manufacturer’s Warranty") for a period of 36 months (3 years) from the point of installation at the Site.
-    2. The terms of the Device Manufacturer’s Warranty, including the exclusions, are available from Energia on request. Please note that in order to make a claim under the  Device Manufacturer’s Warranty you must notify Energia as soon as the issue arises and make no further use of the Electric Vehicle Charging Point after Energia has been notified. Energia will contact the Customer to discuss the matter and make arrangements for returning the Electric Vehicle Charging Point to the Device Manufacturer. The Customer shall comply with all reasonable requests from Energia in relation to Electric Vehicle Charging Point if a claim has been made under the Device Manufacturer’s Warranty.
-    3. Energia carries no liability under the terms of the Device Manufacturer’s Warranty.
-7. Services
-    1. Energia shall arrange with the Customer a date on which the Services will be carried out at the Site. 
-    2. The Parties agree that time will not be of the essence with respect to the provision and completion of the Services by Energia (including, but not limited to, any services that are preparatory, ancillary, or after the provision and completion of the Services)
-    3. Energia warrants to the Customer that the Services will be provided using reasonable care and skill.
-8. Intellectual Property RIGHTS
-    1. The Customer acknowledges that the Electric Vehicle Charging Point contains Intellectual Property Rights which are valuable and unique to the Device Manufacturer. The Customer undertakes not to (and shall not permit any third party to) copy, adapt, reverse engineer, decompile, disassemble, modify, adapt or make error corrections to the Electric Vehicle Charging Point, without the prior written authorisation of Energia.
-    2. The Customer acknowledges and agrees that damages may not be a sufficient or adequate remedy for breach of paragraph 10.1 and that Energia reserves all its rights in relation to enforcement of paragraph 10.1.
-9. **TITLE AND RISK**
-    1. The title in the Electric Vehicle Charging Point will not pass to the Customer until the Services have been completed to the acceptance of both Energia and the Customer and Energia has received full payment of the Price and all other sums that are due from the Customer to Energia.
-    2. Until such time as title to the Electric Vehicle Charging Point passes from Energia, the Customer shall upon request return possession of the Electric Vehicle Charging Point to Energia and allow Energia access to remove the Electric Vehicle Charging Point. Energia may enter the Site in order to repossess the Electric Vehicle Charging Point.
-10. Except during the performance of the Services, the Electric Vehicle Charging Point shall be kept by the Customer at their sole risk, from the point of delivery to the Site.
-11. PRICE AND PAYMENT
-    1. By accepting the terms of this Contract, the Customer is agreeing to pay the Price and comply with all terms upon which the Price for the Services has been quoted.
-    2. Energia reserves the right to amend the Price once the Services have commenced and any changes to the Price will be presented to the Customer for agreement.
-    3. For the avoidance of doubt the Price is based on a Standard Installation. If a Non-Standard Installation is required then Energia shall inform the Customer of the amended Price for the Services.
-    4. For the avoidance of doubt, the Customer may reject any changes to the Price and may Cancel the Services in which case paragraph 14 shall apply.
-    5. The Customer must make full payment of the Price to Energia before Services can commence.
-    6. Payment of any Additional Costs, as may be agreed by Energia and the Customer following commencement of the Services, must be paid within 30 days of receipt by the Customer of the invoice which shall be sent by Energia following completion.
-    7. If payment of any sum due under this Contract is not received by any due date specified din the relevant invoice, Energia will be entitled to charge interest on the outstanding amount at the rate of 4% per annum above Bank of Ireland rate, accruing daily.
-    8. The Contractor shall make one visit only to the Site to inspect the Site and to install the Electric Vehicle Charging Point. Any further visits to the Premises for the purpose of inspecting the Premises or installing the Electric Vehicle Charging Point shall be subject to further costs payable directly to the Contractor. You agree that We have no control over such further costs and shall not be liable for same.
-12. Cancellation
-    1. The Customer may cancel this Contract by sending a Cancellation Notice to Energia at the specified address:
-        1. before any Electric Vehicle Charging Point is delivered; or
-        2. within the Cooling-off Period.
-    2. Within 14 days of Energia receiving the Cancellation Notice, the Customer shall, at its cost, return the Electric Vehicle Charging Point to Energia in its original packaging and in a saleable condition.
-    3. For the avoidance of doubt, the acceptance of the returned Electric Vehicle Charging Point shall be at the sole discretion of Energia. Where Energia reasonably considers that the Electric Vehicle Charging Point does not meet the requirements in paragraph 14.2 above, Energia may deduct money up to the value of the Electric Vehicle Charging Point from any refund due to the Customer.
-    4. Subject to paragraph 14.3 above, Energia will refund to the Customer all monies paid within 14 days of Energia receiving the letter of the Cancellation Notice or the returned Equipment.
-    5. Except circumstances beyond the reasonable control of the Customer, the Customer shall provide Energia with a minimum of 24 hours’ notice to cancel their appointment with no charge being incurred. Failure to provide such notice may incur a fee of €100 to reschedule their appointment.
-13. TERMINATION
-    1. Without limiting its other rights or remedies, Energia may terminate this Contract with immediate effect by giving written notice to the Customer if:
-        1. the Customer commits a material breach of any term of the Contract and (if such a breach is remediable) fails to remedy that breach within twenty days of that party being notified in writing to do so;
-        2. the Customer takes any step or action in connection with its entering administration, provisional liquidation or any composition or arrangement with its creditors (other than in relation to a solvent restructuring), being wound up (whether voluntarily or by order of the court, unless for the purpose of a solvent restructuring), having a receiver appointed to any of its assets or ceasing to carry on business;
-        3. the Customer suspends, threatens to suspend, ceases or threatens to cease to carry on all or a substantial part of its business; or
-        4. the Customer's financial position deteriorates to such an extent that in Energia's opinion the Customer's capability to adequately fulfil its obligations under the Contract has been placed in jeopardy.
-    2. Without limiting its other rights or remedies, Energia may suspend provision of the Electric Vehicle Charging Point and/or Services under the Contract or any other contract between the Customer and Energia if the Customer becomes subject to any of the events listed in paragraph 15.1.1 to paragraph 15.1.4, or Energia reasonably believes that the Customer is about to become subject to any of them, or if the Customer fails to pay any amount due under this Contract on the due date for payment.
-    3. Without limiting its other rights or remedies, Energia may terminate the Contract with immediate effect by giving written notice to the Customer if:
-        1. the Customer fails to pay any amount due under the Contract on the due date for payment and remains in default not less than 14 days after being notified in writing to make such payment; or
-        2. Energia's agreement with the Participating Retailer to supply Electric Vehicle Charging Point to purchasers of the Participating Retailer electric vehicles is terminated for any reason.
-    4. On termination of the Contract for any reason the Customer shall immediately pay to Energia all of Energia's outstanding unpaid invoices and interest.
-    5. Termination of the Contract shall not affect Energia's rights and remedies that have accrued as at termination, including the right to claim damages in respect of any breach of this Contract that existed at or before the date of termination.
-    6. Any provision of the Contract that expressly or by implication is intended to come into or continue in force on or after termination shall remain in full force and effect.
-14. LIMITATION OF LIABILITY
-    1. Nothing in these Conditions shall limit or exclude Energia's liability for: 
-        1. death or personal injury caused by its negligence, or the negligence of its employees, agents or subcontractors (as applicable); or
-        2. fraud or fraudulent misrepresentation;
-    2. Subject to paragraph 8.2 and 16.1 :
-        1. Energia shall under no circumstances whatsoever be liable to the Customer, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, for any loss of profit, or any indirect or consequential loss arising under or in connection with the Contract; and 
-        2. Energia's total liability to the Customer in respect of all other losses arising under or in connection with the Contract, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, shall in no circumstances exceed £1,000.
-15. FORCE MAJEURE
-    1. Force majeure. Neither party shall be in breach of this Contract nor liable for delay in performing, or failure to perform, any of its obligations under this Contract, other than its payment obligations, if such delay or failure result from a Force Majeure Event. If the period of delay or non-performance continues for 2 months, the party not affected may terminate this Contract by giving 30 days' written notice to the affected party.
-16. **DATA PROTECTION**
-    1. Protecting our customer’s Personal Data is important to us.  Please see our Privacy Statement set out in the Appendix to this Contract for details of how we collect, use, store, share and protect your personal data in compliance with Data Protection Legislation.
-    2. You acknowledge and agree that the Electric Vehicle Charging Point in conjunction with the Device Manufacture’s software will automatically download data to and from the Electric Vehicle Charging Point and this data will automatically be forwarded to Energia. Energia reserves the right to analyse this information for the purpose of evaluating the effectiveness of the Electric Vehicle Charging Point and improving its business services. 
-    3. Notwithstanding the generality of Clause 18.2 above, you have the right to request the erasure of your personal data obtained.  You should let us know if you require us to erase your personal data by contacting our Data Protection Officer at [Dataprotection@energia.ie](mailto:Dataprotection@energia.ie)or in writing addressed to Data Protection Officer, The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H. .
-17. GENERAL
-    1. Assignment and other dealings.
-        1. Energia may at any time assign, transfer, mortgage, charge, subcontract or deal in any other manner with all or any of its rights or obligations under the Contract.
-        2. The Customer may not assign, transfer, mortgage, charge, subcontract, declare a trust over or deal in any other manner with any or all of its rights or obligations under the Contract without the prior written consent of Energia.
-    2. Confidentiality.
-        1. Each party undertakes that it shall not at any time during the term of this Contract, and for a period of two years after termination of this Contract, disclose to any person any confidential information concerning the business, affairs, customers, clients or suppliers of the other party except as permitted by paragraph 19.2.2.
-        2. Each party may disclose the other party's confidential information:
+1. 2.3 "**Cancellation Notice**" means a written notice that the customer serves on Energia to inform Energia that they wish to exercise their right to cancel this contract;
+    
 
-1. to its employees, officers, representatives or advisers who need to know such information for the purposes of exercising the party's rights or carrying out its obligations under or in connection with this Contract. Each party shall ensure that its employees, officers, representatives or advisers to whom it discloses the other party's confidential information comply with this paragraph 19.2; and
-2. as may be required by law, a court of competent jurisdiction or any governmental or regulatory authority.
-    1. No party shall use any other party's confidential information for any purpose other than to exercise its rights and perform its obligations under or in connection with this Contract.
-3. Entire agreement.
-    1. This Contract constitutes the complete and exclusive statement of agreement and understanding between Energia and the Customer, which supersedes and excludes all prior or contemporaneous proposals, understandings, agreements, or representations, whether oral or written, with respect to the subject matter hereof.
-    2. The Customer acknowledges and agrees that no representations were made prior to the entering into of this Contract and that, in entering into this Contract, he/she/it does not rely on, and shall have no remedy in respect of, any statement, representation, warranty or understanding (whether negligently or innocently made) of any person (whether party to this Contract or not) other than as expressly set out or referred to in this Contract.
-    3. Nothing in this Contract shall exclude or limit Energia liability for fraudulent misrepresentations or shall exclude (but this Contract does limit) Energia for any fundamental misrepresentation (including any misrepresentation as to a matter fundamental to his ability to perform its obligations under this Contract, on the part of Energia).
-    4. Without prejudice to the provisions of this paragraph, the only remedy available to Energia for breach of this Contract shall be for breach of contract under the terms of this Contract.
-4. **Variation**.  No variation of this Contract shall be effective unless it is in writing and signed by the parties (or their authorised representatives).
-5. **Waiver**. A waiver of any right or remedy is only effective if given in writing.  A delay or failure to  exercise, or the single or partial exercise of, any right or remedy shall not:
-    1. waive that or any other right or remedy; nor
-    2. prevent or restrict the further exercise of that or any other right or remedy.
-6. **Severance**. If any provision or part-provision of the Contract is or becomes invalid, illegal or unenforceable, it shall be deemed modified to the minimum extent necessary to make it valid, legal and enforceable. If such modification is not possible, the relevant provision or part-provision shall be deemed deleted. Any modification to or deletion of a provision or part-provision under this paragraph shall not affect the validity and enforceability of the rest of the Contract.
-7. **Notices**.
-    1. Any notice or other communication given to a party under or in connection with the Contract shall be in writing, addressed to Energia at The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H and the Customer to its address specified in its order or such other address as that party may have specified to the other party in writing in accordance with this paragraph, and shall be delivered personally, sent by pre-paid first class post or other next working day delivery service, commercial courier, or email.
-    2. A notice or other communication shall be deemed to have been received: if delivered personally, when left at the address referred to in paragraph 19.7.1; if sent by pre-paid first class post or other next working day delivery service, at 9.00 am on the second Business Day after posting; if delivered by commercial courier, on the date and at the time that the courier's delivery receipt is signed; or, if sent by email, one Business Day after transmission.
-    3. The provisions of this paragraph shall not apply to the service of any proceedings or other documents in any legal action.
-8. **Third party rights**. No one other than a party to this Contract shall have any right to enforce any of its terms.
-9. **Governing law**. The Contract, and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation, shall be governed by and construed in accordance with the law of Ireland.
-10. **Jurisdiction**. Each party irrevocably agrees that the courts of Ireland shall have exclusive jurisdiction to settle any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with this Contract or its subject matter or formation.
+1. 2.4"**Conditions**" means the Terms and Conditions set out in this document.
+    
+
+1. 2.5 "**Contract**" means this contract between Energia and the customer for the sale and purchase of the Electric Vehicle Charging Point.
+    
+
+1. 2.6 "**Contractor**" means any independent Contractor(s) appointed by Energia for the purposes of conducting the services under this contract;
+    
+
+1. 2.7 "**Cooling-off Period**’ means the time period of 14 days from entering the Contract within which the Customer has the right to cancel this contract pursuant to the terms of this Contract;
+    
+
+3. 2.8 "**Customer**" means the Customer purchasing or receiving free of charge the Electric Vehicle Charging Point.
+    
+
+1. 2.9 "**Data Protection Legislation**" means all applicable data protection and privacy legislation in force from time to time in the Ireland including the General Data Protection Regulation ((EU) 2016/679); the Data Protection Act 2018; the Privacy and Electronic Communications Directive (2002/58/EC) (as updated by Directive 2009/136/EC) and the Privacy and Electronic Communications Regulations 2003 (SI 2003/2426) as amended.
+    
+
+3. 2.10 "**Delivery Date**" the date for delivery of the Electric Vehicle Charge Point as specified by Energia.
+    
+
+5. 2.11 "**Device Manufacturer**" means the manufacturer of the Electric Vehicle Charging Point.
+    
+
+7. 2.12 **"Electric Vehicle Charging Point**" means the Electric Vehicle Charge Point supplied by Energia under these conditions.
+    
+
+9. 2.13 "**Force Majeure Event**" means an event or circumstance beyond a party's reasonable control.
+    
+
+11. 2.14 "**Installation Location**" means the specific location on the site or structure where the Electric Vehicle Charge Point shall be installed;
+    
+
+13. 2.15 "**Non-Standard Installation**" means any installation that is not a standard installation, and which shall be determined and advised by Energia or their engaged third-party contractor to the customer.
+    
+
+15. 2.16 "**Price**" means the total price payable by the Customer for the services, being €300 incl VAT. For clarity, the price may not include additional costs as set out in point 2.1.
+    
+
+17. 2.17 "**Qualification Criteria**" means:
+    
+18. 1. ) Having purchased an electric vehicle from a participating retailer or dealership included in Energia’s EV Charger scheme; and
+        
+
+20. 2. ) Being registered as an Energia energy Customer for the customer's domestic dwelling, where the Electric Vehicle Charge Point is to be installed (provided always that Energia may waive this requirement at its sole discretion). For clarity the installation can only be completed at the dwelling that is on supply with Energia for energy.
+        
+
+22. 2.18 "**Services**" means the installation of the Electric Vehicle Charge Point at the domestic site, which for the avoidance of doubt, shall exclude incidental, maintenance or ongoing support services;
+    
+
+24. 2.19 "**Standard Installation**" means an installation that can be carried out at the domestic site without any additional site preparation works, work person man hours or additional equipment to install the Electric Vehicle Charge Point and shall include:
+    
+
+26. a. Installation of the device where the consumer unit (fuse board) is no more than **15 meters** from the proposed position of the exterior charge point. Customers will incur an additional charge if they wish to have the exterior charge point installed more than these 15 meters from the fuse board.
+
+28. b. **Fuse board** is trip switch type. In the event that the fuse board is not trip switch type, the fuse board would need to be upgraded in line with Safe Electric guidelines at Customer's own cost and by Customers own registered Contractor.
+
+30. c. **16 Square mains cable** is present. In the event of old mains wiring, this would need to be upgraded to 16 Square Mains in line with Safe Electric guidelines at customer’s own cost and by customers own registered contractor.
+
+32. d. **Earth Rod** is present, visible, and available for testing at the customer premises where the Electric Vehicle Charge Point is to be installed.  In the event the Earth Rod is not present, visible, and available for testing, this would need to be installed in line with Safe Electric guidelines at the Customer’s own cost and by the Customers own registered Contractor.
+
+34. e. **Standard Installation** includes;
+
+|     |
+| --- |
+| * Up to 15 meters of cabling |
+| * Wiring 1 or 3 phase |
+| * Wall breakthrough x2 |
+| * 32 amp isolator |
+| * Sub board |
+| * Video Survey |
+
+2. 2.20 "**Site**" means the domestic address at which the services are to be performed.
+    
+
+4. 2.21 "**We**", "**us**" "**our**" or "**Energia"** means Energia Customer Solutions Limited t/a Energia.
+    
+
+3. **INTERPRETATION**
+    
+
+3. 3.1 A reference to a statute or statutory provision is a reference to such statute or provision as amended or re-enacted. A reference to a statute or statutory provision includes any subordinate legislation made under that statute or statutory provision, as amended or re-enacted.
+    
+
+1. 3.2 Any phrase introduced by the terms including, include or any similar expression shall be construed as illustrative and shall not limit the sense of the words preceding those terms.
+    
+
+1. 3.3 A reference to writing encompasses any written correspondence including emails.
+    
+
+4. **BASIS OF CONTRACT**
+    
+
+4. 4.1 These conditions apply to the Contract including exclusions of any other terms that the Customer seeks to impose or incorporate, or which are implied by trade, custom, practice or course of business.
+    
+
+1. 4.2 The acceptance of terms and ordering of the Electric Vehicle Charge Point constitutes an offer by the Customer to purchase the Electric Vehicle Charge Point in accordance with these conditions. It is accepted by Energia by the processing of the relevant order and sending confirmation of the same to the Customer.
+    
+
+1. 4.3 To participate and enter into this Contract, the Customer must meet the qualification criteria as outlined in 2.17.
+    
+
+3. **5\. The SEAI-Grant Process**
+    
+
+5. 5.1 The Customer acknowledges that grant payments may be available in relation to the installation of the Electric Vehicle Charge Point. To avail of any such grants from SEAI the Customer must apply for a grant from the SEAI independently **before** installation of your Electric Vehicle Charge Point takes place. Any such grant is subject to the SEAI’s eligibility criteria and their terms and conditions. You are solely responsible for applying for the grant.
+    
+
+1. 5.2 Energia makes no representation or warranty that the Electric Vehicle Charge Point is suitable for you or that you will be eligible for a grant from the SEAI.
+    
+
+1. 5.3 Energia has no control or involvement in grant applications, payments or payment delays, the Customer must contact the SEAI directly for such queries.
+    
+2. [**https://www.seai.ie/grants/electric-vehicle-grants/electric-vehicle-home-charger-grant/**](https://www.seai.ie/grants/electric-vehicle-grants/electric-vehicle-home-charger-grant/)
+    
+
+**6\. CUSTOMER'S OBLIGATIONS**
+
+1. 6.1 The Customer agrees and acknowledges that they are responsible for obtaining all necessary consent, permissions, and approvals for the installation of the Electric Vehicle Charge Point at the Site. The Customer shall fully indemnify Energia in the event that Energia suffers a claim or loss arising from the action of any third party as a result of the Customers failure to obtain the necessary consent.
+    
+
+1. 6.2 The Customer shall ensure that the Site is safe and free from any obstructions or hazards prior to the performance of the Services. The Customer shall be responsible for the costs of all remedial work required to bring a site up to a Safe Electric standard to allow a safe standard installation.
+    
+
+1. 6.3 The Customer acknowledges and agrees that, for Energia to be able to commence and complete the services the customer must allow Energia and its Contractors access to the Site to perform the services; if the Customer is not available at the time of the agreed appointment without giving at least 24 hours’ notice to the installation team Energia reserves the right to withdraw from the agreed 21 day timeframe for the installation until the next installation appointment becomes available in your area.
+    
+
+1. 6.4 Provide to Energia such information and documentation as Energia reasonably requires and to update Energia when any of the Customer’s information (including personal data) changes;
+    
+
+1. 6.5 Co-operate with Energia and its Contractors and provide such assistance as Energia reasonably requires performing the services; and
+    
+
+1. 6.6 Make available to Energia and its Contractors such power supplies, facilities, working space and access to the installation location, at no cost and as Energia reasonably requires from time to time.
+    
+
+1. 6.7 The Customer acknowledges and agrees that it shall:
+    
+
+a. Follow the Device Manufacturer’s instructions for the use of the Electric Vehicle Charging Point;
+
+b. Register the Electric Vehicle Charge Point on the product manufacturers website failure to do so may invalidate the Device Manufacturer warranty (details of which are set out in clause 8 below)
+
+c. Shall be responsible for providing suitable internet communication systems to enable the Electric Vehicle Charge Point to function in accordance with the Device Manufacture’s recommendations.
+
+1. 6.8 The Customer accepts that any queries, troubleshooting or faults on Electric Vehicle Charge Point Unit or Apps associated with the product are at the responsibility of the customer to liaise with the product manufacturers directly.
+    
+
+1. 6.9 The Customer agrees that post installation:
+    
+
+a. They will be responsible for any damage to or interference with the Electric Vehicle Charge Point or its associated installation, whether caused through the incorrect operation of the Electric Vehicle Charge Point or otherwise; and
+
+b. They will be responsible for ensuring that they use the Electric Vehicle Charge Point in accordance with the user manual and/or manufacturer’s instructions and that any required maintenance checks are carried out on the Electric Vehicle Charging Point.
+
+1. 6.10 The Customer acknowledges that it may be necessary to make certain changes to the settings on the Customer's existing equipment and to physically integrate the Electric Vehicle Charge Point with the Customer's equipment. The Customer shall be responsible for satisfying themselves as to the compatibility of the Electric Vehicle Charge Point with the Customer's equipment.
+    
+
+1. 6.11 The Customer irrevocably undertakes to Energia not to take any steps to claim against Energia in respect of any damage, loss or expense arising out of the change of settings to the Customer's equipment or integration of the Electric Vehicle Charge Point.
+    
+
+1. 6.12 The Customer irrevocably undertakes to Energia not to take any steps to claim against Energia in respect of any damage, loss or expense arising out of the change of settings to the Customer's equipment or integration of the Electric Vehicle Charge Point.
+    
+
+1. 6.13 For the avoidance of doubt, Energia shall not be liable for any damage or wear and tear or variation of output of the Customer's equipment because of the operation of the Electric Vehicle Charge Point or incompatibility of the Electric Vehicle Charge Point with the Customer's equipment.
+    
+
+3. **7\. SUPPLIER'S OBLIGATIONS**
+    
+
+1. 7.1 Energia shall be responsible for installing the Electric Vehicle Charge Point at the delivery location.
+    
+
+1. 7.2 Energia will endeavour to offer the most attractive device available but are not responsible to the quality or functionality of the device or applications related to it.8
+    
+
+3. **8\. QUALITY & WARRANTIES**
+    
+
+5. 8.1 The Electric Vehicle Charge Point is provided with the Device Manufacturer’s Warranty for a period of 36 months (3 years) from the point of installation at the Site. This excludes charging cables and their connectors which are warranted for 12 months (1 year).
+    
+
+1. 8.2 The terms of the Device Manufacturer’s Warranty are available from Energia on request.
+    
+
+1. 8.3 Please note that to make a claim under the ‘Device Manufacturer’s Warranty’ you must notify Energia as soon as the issue arises and make no further use of the Electric Vehicle Charge Point after Energia has been notified. Energia will contact the Customer to discuss the matter and make arrangements for returning the Electric Vehicle Charge Point to the Device Manufacturer. The Customer shall comply with all reasonable requests from Energia in relation to the Electric Vehicle Charge Point if a claim has been made under the ‘Device Manufacturer’s Warranty.’
+    
+
+1. 8.4 Energia carries no liability under the terms of the’ Device Manufacturer’s Warranty.’
+    
+
+1. 8.5 In respect of installation, Energia’s trusted third party provides a 12-month installation warranty from the date of installation.
+    
+
+3. 8.6 If a Customer tampers with, modifies, alters, or damages the device in any way or uses it incorrectly it may void their warranty
+    
+
+9. **SERVICES**
+
+1. 9.1 Energia’s third party Contractor shall arrange with the Customer, a date on which the services will be carried out at the domestic site.
+    
+
+1. 9.2 The Parties agree that time will not be of the essence with respect to the provision and completion of the services by Energia (including, but not limited to, any services that are preparatory, ancillary, or subsequent to the provision and completion of the Services).
+    
+
+1. 9.3 Energia warrants to the Customer that the services will be provided using reasonable care and skill following best practice guidelines and meeting all regulatory standards.
+    
+
+**10\. INTELLECTUAL PROPERTY RIGHTS**
+
+1. 10.1 The Customer acknowledges that the Electric Vehicle Charge Point contains Intellectual Property Rights which are valuable and unique to the Device Manufacturer. The Customer undertakes not to (and shall not permit any third party to) copy, adapt, reverse engineer, decompile, disassemble, modify, adapt, or make error corrections to the Electric Vehicle Charging Point, without the prior written authorisation of the device manufacturer.
+    
+
+1. 10.2 The Customer acknowledges and agrees that damages may not be a sufficient or adequate remedy for breach of paragraph 10.1 and that Energia reserves all its rights in relation to enforcement of paragraph 10.1.
+    
+
+**11\. TITLE AND RISK**
+
+1. 11.1 The title in the Electric Vehicle Charge Point will not pass to the Customer until the services have been completed to the acceptance of both Energia and the Customer and Energia has received full payment of the price and all other sums that are due from the Customer to Energia.
+    
+
+1. 11.2 Until such time as title to the Electric Vehicle Charge Point passes from Energia, the Customer shall, upon request, return possession of the Electric Vehicle Charge Point to Energia and allow Energia access to remove the Electric Vehicle Charge Point. Energia may enter the site in order to repossess the Electric Vehicle Charge Point.
+    
+
+1. 11.3 Except during the performance of the services, the Electric Vehicle Charge Point shall be kept by the Customer at their sole risk, from the point of delivery to the site.
+    
+
+12\. **PRICE AND PAYMENT**
+
+1. 12.1 By accepting the Terms of this Contract, the Customer is agreeing to pay the price of installation and any associated costs and comply with all terms upon which the price for the services has been quoted.
+    
+
+1. 12.2 Energia reserves the right to amend the price once the services have commenced and any changes to the price will be presented to the Customer for agreement.
+    
+
+1. 12.3 For the avoidance of doubt the price is based on a Standard Installation. If a Non-Standard Installation is required, then Energia or it’s third-party contractor shall inform the Customer of the amended price for the services.
+    
+
+1. 12.4 For the avoidance of doubt, the Customer may reject any changes to the price and may cancel the services in which case paragraph 14 shall apply.
+    
+
+1. 12.5 The Customer must make full payment of the price to Energia before services can commence.
+    
+
+1. 12.6 Payment of any additional costs, as may be agreed by Energia and the Customer following commencement of the Services, must be paid within 100 days of receipt by the Customer of the invoice which shall be sent by Energia following completion.
+    
+
+3. 12.7 The Contractor shall make one visit only to inspect the site and to install the Electric Vehicle Charging Point. Any further visits to the premises for the purpose of inspecting the premises or installing the Electric Vehicle Charge Point shall be subject to further costs payable directly to the Contractor by the customer. You agree that Energia have no control over such further costs and shall not be liable for same
+    
+
+13. **CANCELLATION**
+
+1. 13.1 The Customer may cancel this Contract by sending a Cancellation Notice in writing to Energia at the specified address.
+    
+
+1. 13.2 before any Electric Vehicle Charge Point is delivered; or
+    
+
+1. 13.3 within the fourteen (14) day Cooling-off Period.
+    
+
+1. 13.4 Within fourteen (14) days of Energia receiving the Cancellation Notice, the Customer shall, at their cost, return the undamaged, working Electric Vehicle Charge Point to Energia in its original packaging and in an operational and saleable condition.
+    
+
+1. 13.5 For the avoidance of doubt, the acceptance of the returned Electric Vehicle Charge Point shall be at the sole discretion of Energia. Where Energia reasonably considers that the Electric Vehicle Charge Point does not meet the requirements in paragraph 13.4 above, Energia reserve the right to deduct costs up to the value of the Electric Vehicle Charge Point from any refund due to the Customer.
+    
+
+1. 13.6 Subject to paragraph 13.4 above, Energia will refund to the Customer all monies paid within 14 days of Energia receiving both the written Cancellation Notice and the returned Equipment.
+    
+
+1. 13.7 With the exception of circumstances beyond the reasonable control of the Customer, the Customer shall provide Energia and its Contractors with a minimum of 24 hours’ notice to cancel their appointment with no charge being incurred. Failure to provide such notice may incur a fee of €100 to reschedule their appointment.
+    
+
+**14\. TERMINATION**
+
+1. 14.1 Without limiting its other rights or remedies, Energia may terminate this Contract with immediate effect by giving written notice to the Customer if:
+    
+
+1. 14.2 the Customer commits a material breach of any term of the Contract and (if such a breach is remediable) fails to remedy that breach within twenty days of that party being notified in writing to do so;
+    
+
+1. 14.3 the Customer takes any step or action in connection with its entering administration, provisional liquidation or any composition or arrangement with its creditors (other than in relation to a solvent restructuring), being wound up (whether voluntarily or by order of the court, unless for the purpose of a solvent restructuring), having a receiver appointed to any of its assets or ceasing to carry on business;  is this applicable to domestic customers?
+    
+
+1. 14.4 the Customer suspends, threatens to suspend, ceases, or threatens to cease to continue all or a substantial part of its business; or
+    
+
+1. 14.5 the Customer's financial position deteriorates to such an extent that in Energia's opinion the Customer's capability to adequately fulfil its obligations under the Contract has been placed in jeopardy.
+    
+
+1. 14.6 Without limiting its other rights or remedies, Energia may suspend provision of the Electric Vehicle Charge Point and/or services under the Contract or any other contract between the Customer and Energia if the Customer becomes subject to any of the events listed in paragraph 14.1. to paragraph 14.4, or Energia reasonably believes that the Customer is about to become subject to any of them, or if the Customer fails to pay any amount due under this Contract on the due date for payment.
+    
+
+1. 14.7 Without limiting its other rights or remedies, Energia may terminate the Contract with immediate effect by giving written notice to the Customer if:
+    
+
+1. 14.8 the Customer fails to pay any amount due under the Contract on the due date for payment and remains in default not less than 14 days after being notified in writing to make such payment; or
+    
+
+1. 14.9 Energia's agreement with the Participating Retailer or dealership to supply Electric Vehicle Charge Point to purchasers of the Participating Retailer electric vehicles is terminated for any reason.
+    
+
+1. 14.10 On termination of the Contract for any reason the Customer shall immediately pay to Energia all of Energia's outstanding unpaid invoices and interest.
+    
+
+1. 14.11 Termination of the Contract shall not affect Energia's rights and remedies that have accrued as at termination, including the right to claim damages in respect of any breach of this Contract that existed at or before the date of termination.
+    
+
+1. 14.12 Any provision of the Contract that expressly or by implication is intended to come into or continue in force on or after termination shall remain in full force and effect.
+    
 
   
-   
-**Appendix**  
-     **PRIVACY STATEMENT**  
- 
+15. **LIMITATION OF LIABILITY**
 
-1. **Introduction**
+  
+Nothing in these Conditions shall limit or exclude Energia's liability for:
 
-Protecting our customer’s personal data is important to Energia. This Privacy Statement sets out how we collect, use, store, share and protect your personal data in compliance with Data Protection legislation.
+1. 15.1 death or personal injury caused by its negligence, or the negligence of its employees, agents, or subcontractors (as applicable); fraud or fraudulent misrepresentation:
+    
 
-1. **Company Information**
+1. 15.2 Energia shall under no circumstances whatsoever be liable to the Customer, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, for any loss of profit, or any indirect or consequential loss arising under or in connection with the Contract; and
+    
 
-Energia is part of the Energia Group, the leading independent energy company in the all-Ireland market.  Energia is the trading name of Energia Customer Solutions Limited, a company registered in Ireland with company number 306035 and having its registered office at The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H. Further information can be found at [https://www.energia.ie/home](https://www.energia.ie/home) or [https://www.energiagroup.com/](https://www.energiagroup.com/).
+1. 15.3 Energia's total liability to the Customer in respect of all other losses arising under or in connection with the Contract, whether in contract, tort (including negligence), breach of statutory duty, or otherwise, shall in no circumstances exceed £/€1,000.
+    
 
-1. **Contact us**
+**16\. FORCE MAJEURE**
 
-If you have questions as to the manner in which your personal data is being handled or if you require any further information you can contact the Data Protection Officer at [Dataprotection@energia.ie](mailto:Dataprotection@energia.ie) or by writing to the :  
-Data Protection Officer, The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
+1. 16.1 Neither party shall be in breach of this Contract nor liable for delay in performing, or failure to perform, any of its obligations under this Contract, other than its payment obligations, if such delay or failure result from a Force Majeure Event. If the period of delay or non-performance continues for 2 months, the party not affected may terminate this Contract by giving 30 days' written notice to the affected party.
+    
 
-1. **Protecting your Information**
+17\. **DATA PROTECTION**
 
-We are committed to protecting your personal data and to implementing appropriate technical and organisational security measures to protect it against any unauthorised or unlawful processing and against any accidental loss, destruction, or damage.
+1. 17.1 Protecting our customer’s Personal Data is important to us.  Please see our Privacy Statement for details of how we collect, use, store, share and protect your personal data in compliance with Data Protection Legislation.
+    
 
-1. **Data we Collect**
+1. 17.2 You acknowledge and agree that the Electric Vehicle Charge Point in conjunction with the Device Manufacture’s software will automatically download data to and from the Electric Vehicle Charge Point and this data will automatically be forwarded to Energia. Energia reserves the right to analyse this information for the purpose of evaluating the effectiveness of the Electric Vehicle Charge Point and improving its business services.
+    
 
-In order to provide Electric Vehicle Charing Points we collect a number of categories of personal data. We obtain this data through the registration process, marketing or through the on-going management of these services. We cannot provide you with these services unless we have the necessary information. These personal data categories may include:  
-Name, address, contact details such as telephone number, mobile phone number, email address, MPRN, bank details and system performance data.  
-   
-System performance data includes:  
- 
+3. 17.3 Notwithstanding the generality of Clause 17.2 above, you have the right to request the erasure of your personal data obtained.  You should let us know if you require us to erase your personal data by contacting our Data Protection Officer at [Dataprotection@energia.ie](mailto:dataprotection@energia.ie)[mailto:](http://mailto/)or in writing addressed to Data Protection Officer, The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
+    
 
-* The power, current, voltage and frequency of all the electrical equipment in the system including the home and national grid retrospectively in real time.
+**18\. GENERAL**
 
- 
+1. 18.1 **Assignment and other dealings**
+    
 
-* The performance Electric Vehicle Charing Points, including where applicable the performance of the electric vehicle charge point including charging status and power rating, total power to the electric vehicle and total electric vehicle charge point usage.
+1. 1. 18.1.1 Energia may at any time assign, transfer, mortgage, charge, subcontract, or deal in any other manner with all or any of its rights or obligations under the Contract.
+        
 
-1. **How we use your Information**
+1. 1. 18.1.2 The Customer may not assign, transfer, mortgage, charge, subcontract, declare a trust over or deal in any other manner with any or all of its rights or obligations under the Contract without the prior written consent of Energia.
+        
+    
+2. 18.2 **Confidentiality**
+    
 
-We will use your personal data for the provision and monitoring of the services, to manage your account, provide customer support, improve our products and services, marketing (in accordance with your marketing preferences), research and data analysis and to meet our regulatory and licence requirements.  
-This processing will be undertaken as necessary for the performance of your contract, with your consent, were necessary to comply with our legal obligations or necessary for our legitimate interests or those of a third party to better manage your account, provide the appropriate services and support, continually improve our processes and products and provide you with the best customer experience.
+4. 1. 18.2.1 Each party undertakes that it shall not at any time during the term of this Contract and for a period of two years after termination of this Contract, disclose to any person any confidential information concerning the business, affairs, customers, clients, or suppliers of the other party except as permitted by paragraph 18.2.2.
+        
 
-1. **Sharing your Information**
+6. 0. 18.2.2 Each party may disclose the other party's confidential information:  
+          
+        a. to its employees, officers, representatives, or advisers who need to know such information for the purposes of exercising the party's rights or conducting its obligations under or in connection with this Contract. Each party shall ensure that its employees, officers, representatives, or advisers to whom it discloses the other party's confidential information comply with this paragraph 18.2; and
+        
+7. 1. b. as may be required by law, a court of competent jurisdiction or any governmental or regulatory authority.
+    
+    3. c. No party shall use any other party's confidential information for any purpose other than to exercise its rights and perform its obligations under or in connection with this Contract.
 
-We may share your personal data within Energia Group and with other parties such as our Contractors, and organisations who act as service providers to Energia such as providers of telecommunications, postal services, data storage, IT services and security, marketing and market research, and making and receiving financial payments. This may involve passing your personal data outside the European Economic Area (EEA) and any such recipients will be bound to comply with the European Commission standard contractual clauses or equivalent data protection safeguards for the transfers of data outside the EEA.
+  
+18.3 **Entire agreement.**
 
-1. **Retention of your Information**
+1. 18.3.1 This Contract constitutes the complete and exclusive statement of agreement and understanding between Energia and the Customer, which supersedes and excludes all prior or contemporaneous proposals, understandings, agreements, or representations, whether oral or written, with respect to the subject matter hereof
+    
 
-We will retain your personal data only for as long as is necessary for the purposes for which it was collected and in order to meet the legal and business requirements of managing your customer account and experience with us. In particular:
+.
 
-* We will retain personal data that is necessary for us to provide you with the product and service that you have requested or purchased for as long as it takes us to provide that product or service;
-* We will retain your contact details for marketing purposes for as long as we have your permission to send you marketing information or for as long as we are permitted to do so, subject to your right to object at any stage;
-* We will retain any financial transaction information for seven years after the date of those transactions; and
-* We will retain other personal data necessary for us to do so to comply with our regulatory and legal requirements.
+1. 18.3.2 The Customer acknowledges and agrees that no representations were made prior to the entering into of this Contract and that, in entering into this Contract, do not rely on, and shall have no remedy in respect of, any statement, representation, warranty or understanding (whether negligently or innocently made) of any person (whether party to this Contract or not) other than as expressly set out or referred to in this Contract.
+    
 
-1. **Your rights**
+1. 18.3.3 Nothing in this Contract shall exclude or limit Energia liability for fraudulent misrepresentations or shall exclude (but this Contract does limit) Energia for any fundamental misrepresentation (including any misrepresentation as to a matter fundamental to his ability to perform its obligations under this Contract, on the part of Energia).
+    
 
-The General Data Protection Regulation provides you with a number of rights under the legislation as a data subject. We will respond to your requests within one month of the receipt of your request or inform you in circumstances where an extension may be required.
+1. 18.3.4 Without prejudice to the provisions of this paragraph, the only remedy available to Energia for breach of this Contract shall be for breach of contract under the terms of this Contract.
+    
 
-1. **Right of access.** You have the right to be provided with details of the processing of your personal data and to obtain a copy of the personal data we hold about you, subject to applicable exemptions under data protection legislation. In order to make an access request please write to the Data Protection Officer at [Dataprotection@energia.ie](mailto:Dataprotection@energia.ie) or by writing to the:
+  
+**​​​​​​18.4** **Variation.**
 
-Data Protection Officer, The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
+  
+No variation of this Contract shall be effective unless it is in writing and signed by the parties (or their authorised representatives)
 
-1. **Right to rectification.** If the personal data we hold on you is inaccurate or incomplete you have the right to rectify such personal data and we would encourage you to ensure the personal data we hold on you is kept as up to date and accurate as possible.
-2. **Right to erasure.** In certain circumstances you have the right to request the deletion of your personal data where there is no compelling reason for us to continue processing it.
-3. **Right to restrict processing.** In certain circumstances you can request the restriction of the processing of your personal data where you contest the accuracy of the information; where you object to processing which is based on legitimate interests; where the processing is unlawful and you wish to restrict the processing rather than seek erasure; or where we no longer require to retain your personal data but you wish the personal data to be held while you establish, exercise or defend a legal claim.
-4. **Right to data portability.** In circumstances where the personal data you have provided to us in a structured, commonly used and machine-readable format is based on your consent or for the performance of the contract and where the processing is carried out by automated means you have the right to request that such personal data be provided to you or transmitted directly to another organisation.
-5. **Right to withdraw consent.** If we are processing your personal data on the legal basis of consent you have the right to withdraw your consent at any time. If you withdraw your consent we will no longer be able to carry out processing based on your consent. However by withdrawing your consent it does not invalidate any processing which was undertaken prior to the withdrawal of your consent.
-6. **Right to object to processing.** You have the right to object to processing based on legitimate interests and to direct marketing (including profiling for the purpose of direct marketing).  
-       
-    Where we have indicated that we are processing your personal data based on legitimate interest you are entitled to object to such processing on grounds relating to your particular situation. We will stop processing your personal data unless we can demonstrate compelling legitimate grounds for the processing which overrides your interests, rights and freedoms or where the processing is necessary for the establishment, exercise or defence of legal claims. If you wish to object to receiving direct marketing please use the provided opt-outs or contact us to do so.
-7. **Automated decision-making including profiling.** You have the right not to be subject to automated individual decision making, including profiling, which produce legal effects concerning you or similarly significantly affects you unless it is necessary for the entry into or performance of a contract, authorised by EU or member state law; or based on your explicit consent.
-8. **Right to lodge a complaint.**
+**18.5** **Waiver.**
 
-You have the right to lodge a complaint with the:  
-Data Protection Commission by writing to the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland or contacting them via their website at: [https://www.dataprotection.ie/](https://www.dataprotection.ie/).
+  
+A waiver of any right or remedy is only effective if given in writing. A delay or failure to exercise, or the single or partial exercise of, any right or remedy shall not:
+
+1. 18.5.1 waive that or any other right or remedy; nor
+    
+
+1. 18.5.2 prevent or restrict the further exercise of that or any other right or remedy.
+    
+
+18.6 **Severance**
+
+  
+If any provision or part-provision of the Contract is or becomes invalid, illegal, or unenforceable, it shall be deemed modified to the minimum extent necessary to make it valid, legal, and enforceable. If such modification is not possible, the relevant provision or part-provision shall be deemed deleted. Any modification to or deletion of a provision or part-provision under this paragraph shall not affect the validity and enforceability of the rest of the Contract.
+
+18.7 **Notices**
+
+  
+Any notice or other communication given to a party under or in connection with the Contract shall be in writing, addressed to Energia at The Liberty Centre, Blanchardstown Retail Park, Dublin 15, D15 YT2H and the Customer to its address specified in its order or such other address as that party may have specified to the other party in writing in accordance with this paragraph, and shall be delivered personally, sent by pre-paid first class post or other next working day delivery service, commercial courier, or email.
+
+1. 18.7.1 A notice or other communication shall be deemed to have been received: if delivered personally, when left at the address referred to in paragraph 18.7; if sent by pre-paid first class post or other next working day delivery service, at 9.00 am on the second Business Day after posting; if delivered by commercial courier, on the date and at the time that the courier's delivery receipt is signed; or, if sent by email, one Business Day after transmission.
+    
+
+3. 18.7.2 The provisions of this paragraph shall not apply to the service of any proceedings or other documents in any legal action.
+    
+
+**18.8 Third party rights**  
+No one other than a party to this Contract shall have any right to enforce any of its terms.
+
+18.9 **Governing law**
+
+The Contract, and any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with it or its subject matter or formation, shall be governed by and construed in accordance with the law of Ireland.
+
+18.10 **Jurisdiction**
+
+Each party irrevocably agrees that the Courts of Ireland shall have exclusive jurisdiction to settle any dispute or claim (including non-contractual disputes or claims) arising out of or in connection with this Contract or its subject matter or formation.
 
 #### 
 
