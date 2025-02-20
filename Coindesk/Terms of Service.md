@@ -1,124 +1,124 @@
 [BTC
 
-$96,937.47
+$98,069.27
 
 +
 
-1.32%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
+1.65%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
 
-$2,734.68
-
-+
-
-1.25%](https://www.coindesk.com/price/ethereum "View price details")[XRP
-
-$2.7311
+$2,736.53
 
 +
 
-6.70%](https://www.coindesk.com/price/xrp "View price details")[USDT
+0.86%](https://www.coindesk.com/price/ethereum "View price details")[XRP
 
-$1.0001
+$2.7225
 
 +
 
-0.02%](https://www.coindesk.com/price/tether "View price details")[BNB
+0.86%](https://www.coindesk.com/price/xrp "View price details")[USDT
 
-$648.68
+$1.0002
+
++
+
+0.00%](https://www.coindesk.com/price/tether "View price details")[BNB
+
+$654.79
 
 \-
 
-0.92%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
+0.22%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
 
-$172.50
+$173.92
 
 +
 
-2.54%](https://www.coindesk.com/price/solana "View price details")[USDC
+1.32%](https://www.coindesk.com/price/solana "View price details")[USDC
 
-$1.0000
+$0.9999
 
 \-
 
-0.01%](https://www.coindesk.com/price/usd-coin "View price details")[DOGE
+0.02%](https://www.coindesk.com/price/usd-coin "View price details")[DOGE
 
-$0.2562
-
-+
-
-1.22%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
-
-$0.7778
-
-+
-
-3.35%](https://www.coindesk.com/price/cardano "View price details")[TRX
-
-$0.2395
+$0.2531
 
 \-
 
-1.32%](https://www.coindesk.com/price/tron "View price details")[WBTC
+0.51%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
 
-$96,809.08
-
-+
-
-1.89%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
-
-$18.19
+$0.8049
 
 +
 
-3.11%](https://www.coindesk.com/price/chainlink "View price details")[XLM
+4.32%](https://www.coindesk.com/price/cardano "View price details")[TRX
 
-$0.3446
-
-+
-
-4.29%](https://www.coindesk.com/price/xlm "View price details")[SUI
-
-$3.3176
+$0.2447
 
 +
 
-9.28%](https://www.coindesk.com/price/sui "View price details")[AVAX
+0.44%](https://www.coindesk.com/price/tron "View price details")[WBTC
 
-$24.17
+$97,836.27
 
 +
 
-2.92%](https://www.coindesk.com/price/avax "View price details")[LTC
+1.59%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
 
-$130.71
+$18.23
+
++
+
+1.02%](https://www.coindesk.com/price/chainlink "View price details")[XLM
+
+$0.3490
+
++
+
+3.41%](https://www.coindesk.com/price/xlm "View price details")[SUI
+
+$3.4518
+
++
+
+7.69%](https://www.coindesk.com/price/sui "View price details")[AVAX
+
+$24.91
+
++
+
+4.29%](https://www.coindesk.com/price/avax "View price details")[LTC
+
+$128.80
 
 \-
 
-1.20%](https://www.coindesk.com/price/ltc "View price details")[HBAR
+5.72%](https://www.coindesk.com/price/ltc "View price details")[HBAR
 
-$0.2233
-
-+
-
-8.63%](https://www.coindesk.com/price/hbar "View price details")[SHIB
-
-$0.0₄1553
+$0.2205
 
 +
 
-1.25%](https://www.coindesk.com/price/shiba-inu "View price details")[TON
+1.02%](https://www.coindesk.com/price/hbar "View price details")[SHIB
 
-$3.5614
+$0.0₄1556
 
-\-
++
 
-2.22%](https://www.coindesk.com/price/toncoin "View price details")[LEO
+0.81%](https://www.coindesk.com/price/shiba-inu "View price details")[TON
 
-$9.6090
+$3.6004
 
-\-
++
 
-1.75%](https://www.coindesk.com/price/unus-sed-leo "View price details")
+1.71%](https://www.coindesk.com/price/toncoin "View price details")[LEO
+
+$9.7252
+
++
+
+0.93%](https://www.coindesk.com/price/unus-sed-leo "View price details")
 
 Ad
 
@@ -235,6 +235,18 @@ Ad
     * [MEXC](https://www.coindesk.com/sponsored-content/hub/MEXC)
     * [Phemex](https://www.coindesk.com/sponsored-content/hub/Phemex)
     * [Advertise](https://www.coindesk.com/advertise)
+    
+* [News Sections](https://www.coindesk.com/)
+    
+    Back to menu
+    
+    News Sections
+    
+    * [Markets](https://www.coindesk.com/markets)
+    * [Finance](https://www.coindesk.com/business)
+    * [Tech](https://www.coindesk.com/tech)
+    * [Policy](https://www.coindesk.com/policy)
+    * [Focus](https://www.coindesk.com/focus)
     
 
 English
