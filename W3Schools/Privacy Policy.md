@@ -1,158 +1,307 @@
-About Privacy
-=============
+Privacy Policy
+==============
 
 * * *
 
-Privacy Statement for W3Schools
--------------------------------
-
-This Privacy Policy describes how your personal information is collected, used, and shared when you visit or make a purchase from w3schools.com (the "Site").
-
-* * *
-
-Personal information we collect
--------------------------------
-
-When you visit the Site, we automatically collect certain information about your device, including information about your web browser, IP address, time zone, and some of the cookies that are installed on your device. Additionally, as you browse the Site, we collect information about the individual web pages or products that you view, what websites or search terms referred you to the Site, and information about how you interact with the Site. We refer to this automatically-collected information as "Device Information".
-
-We collect Device Information using the following technologies:
-
-* "Cookies" are data files that are placed on your device or computer and often include an anonymous unique identifier. For more information about cookies, and how to disable cookies, visit http://www.allaboutcookies.org.
-* "Log files", and User Accounts, track actions occurring on the Site, and collect data including your IP address, browser type, Internet service provider, referring/exit pages, and date/time stamps.
-* "Web beacons", "tags", and "pixels" are electronic files used to record information about how you browse the Site.
-
-Additionally when you make a purchase or attempt to make a purchase through the Site, we collect certain information from you, including your name, billing address, shipping address, payment information (including credit card numbers, email address, and phone number. We refer to this information as "Order Information".
-
-* * *
-
-Personal User Information
--------------------------
-
-When we talk about "Personal Information" in this Privacy Policy, we are talking both about Device Information and Order Information.
-
-How do we use your personal information?
-
-We use the Order Information that we collect generally to fulfill any orders placed through the Site (including processing your payment information, arranging for shipping, and providing you with invoices and/or order confirmations). Additionally, we use this Order Information to:
-
-* Communicate with you;
-* Screen our orders for potential risk or fraud; and
-* When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
-
-We use the Device Information that we collect to help us screen for potential risk and fraud (in particular, your IP address), and more generally to improve and optimize our Site (for example, by generating analytics about how our customers browse and interact with the Site, and to assess the success of our marketing and advertising campaigns).
-
-We use your account information that we collect generally to generate statistics for you, and provide personalized roadmaps. Additionally, we use this information to:
-
-* Communicate with you;
-* When in line with the preferences you have shared with us, provide you with information or advertising relating to our products or services.
-
-* * *
-
-Sharing you personal Information
---------------------------------
-
-We share your Personal Information with third parties to help us use your Personal Information, as described above.
-
-For example, we use Google Analytics to help us understand how our customers use the Site -- you can read more about how Google uses your Personal Information here: https://www.google.com/intl/en/policies/privacy/. You can also opt-out of Google Analytics here: https://tools.google.com/dlpage/gaoptout.
-
-We also use Shopify to power our online store--you can read more about how Shopify uses your Personal Information here: [https://www.shopify.com/legal/privacy](https://www.shopify.com/legal/privacy).
-
-We fund our site by showing adverts as you browse our site. These adverts are usually managed by a partner specializing in providing adverts for multiple sites. Invariably these partners collect anonymous data about the websites you visits so they can personalize the adverts to you, ensure that you don't see the same adverts too frequently and ultimately report to advertisers on which adverts are working. We use a third-party to provide monetization technologies for our site. You can review their [privacy and cookie policy here](https://www.snigel.com/privacy-policy/).
-
-Finally, we may also share your Personal Information to comply with applicable laws and regulations, to respond to a subpoena, search warrant or other lawful request for information we receive, or to otherwise protect our rights.
-
-* * *
-
-Behavioural advertising
------------------------
-
-As described above, we use your Personal Information to provide you with targeted advertisements or marketing communications we believe may be of interest to you. For more information about how targeted advertising works, you can visit the Network Advertising Initiative's ("NAI") educational page at [http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work](http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work).
-
-You can opt out of targeted advertising by using the links below:
-
-* \- Facebook: https://www.facebook.com/settings/?tab=ads
-* \- Google: https://www.google.com/settings/ads/anonymous
-* \- Bing: https://advertise.bingads.microsoft.com/en-us/resources/policies/personalized-ads
-
-You can get a full list of the partners we use by accessing our ads.txt file.
-
-Additionally, you can opt out of some of these services by visiting the Digital Advertising Alliance's opt-out portal at: [http://optout.aboutads.info/](http://optout.aboutads.info/).
-
-You can learn more about online advertising, or opt-out of almost all advertising cookies at [https://www.youronlinechoices.com](https://www.youronlinechoices.com/).
-
-**Note:** Opting out will not disable ads, they will just no longer be tailored to you.
-
-* * *
-
-Manage Consent
---------------
-
-If you want to change your choices regarding your personal information, you can use the button below:
-
-Manage Consent
-
-* * *
-
-Do not track
+Introduction
 ------------
 
-Please note that we do not alter our Site's data collection and use practices when we see a Do Not Track signal from your browser.
+This Privacy Policy explains how we collect, use, and share your personal information when you use www.w3schools.com (the “Website”) and or our product and or our services (the “Services”).
+
+We categorize our users as either "Customers" or "Free Users":
+
+* **Customers** are users who have entered into an agreement with us or our resellers, either alone or with others, to access ad-free paid Services
+* **Free Users** use the Website and the Services for free
+
+When we refer to "Users" without specifying Customers or Free Users, we mean both groups.
+
+By using or accessing the Website and the Services in any way, you agree to follow the practices and policies outlined in this Privacy Policy.
 
 * * *
 
-Your rights
------------
+About W3Schools
+---------------
 
-If you are a European resident, you have the right to access personal information we hold about you and to ask that your personal information be corrected, updated, or deleted. If you would like to exercise this right, please contact us through the contact information below.
+W3Schools is an online platform for learning web development and programming skills, offering tutorials, courses, certifications and various subscription plans. Our educational resources and interactive tools enable users to learn programming languages, build projects, track their progress and practice coding through exercises and quizzes. We fund the Website by showing adverts to our Free Users as you browse the Website.
 
-Additionally, if you are a European resident we note that we are processing your information in order to fulfill contracts we might have with you (for example if you make an order through the Site), or otherwise to pursue our legitimate business interests listed above. Additionally, please note that your information will be transferred outside of Europe, including to Canada and the United States.
-
-* * *
-
-Data retention
---------------
-
-When you place an order through the Site, we will maintain your Order Information for our records unless and until you ask us to delete this information.
+1. Visit the Website
+2. Use the Services
+3. Interact with us in any way, such as by email requests, receiving support or by filling out a form (collectively "Support")
 
 * * *
 
-Changes
--------
+Information We Collect
+----------------------
 
-We may update this privacy policy from time to time in order to reflect, for example, changes to our practices or for other operational, legal or regulatory reasons.
+We collect information about you based on how you interact with us, your choices, the products and features you use, your location, in accordance with applicable laws. This information comes either directly from you or automatically through your use of the Services.
+
+### Information That You Provide Directly
+
+We collect the following information when you use the Website and or the Services.
+
+* **Contact Information:** When you register, inquire about, or purchase our Services, participate in our marketing activities, or seek support, we collect your contact details. This includes your full name, email address, phone number, and location.
+* **Account Information:** To create, update, or manage your account on the Website, we collect information like your email address, full name and phone number.
+* **Transactional Information:** We gather payment and transaction details related to your use of the Services, such as encrypted payment card data and billing address.
+* **Support and Troubleshooting Information:** If you contact us for Support, we collect information about your preferences and any further details you provide. This includes messages, chat content and attachments, which help us assist you and comply with legal obligations.
+* **Voluntary Information:** Any other information you choose to provide, such as profile updates or feedback on your experience with the Services. By providing this information, you confirm that you own or have permission to share it.
+
+### Information from Sub-Processors
+
+We receive information about you from our sub-processors who support our business operations. We use this information only for the purposes described in this policy.
+
+### Information We Automatically Collect
+
+When you use the Website and or the Services, we automatically collect certain information about you, your device, and how you interact with us as follows:
+
+* **Telemetry Information.** We collect anonymous statistical data and aggregated, de-identified information about how you use the Website and or the Services.
+* **Usage Information.** We track how you interact with the Website and or the Services. This includes clicks, pages viewed, searches, the web browser used, page response times, errors, date and time stamps, request details (like speed and frequency), the site you came from ("referring page"), the site you visit after ours ("exit page"), and the time spent on the Website.
+* **Device Information.** We collect details about your device and how it interacts with the Website and or the Services. This includes browser type and settings, device type, screen size, operating system, model, language preferences, internet service provider, mobile network, push notification tokens, system activity, hardware settings, application version, and unique device identifiers like device type ID.
+* **Service-Generated Information.** We use data generated by your use of the Services, such as log files, diagnostics, capacity, and usage information, to determine storage needs, performance data from our servers, data settings, and system configurations, including your chosen privacy and security settings.
+* **Cookies.** We use cookies and similar tracking technologies to collect information from your browser, depending on your settings when using the Website and or the Services. As explained in our [Cookie Policy](https://www.w3schools.com/about/about_cookies.asp), you can choose to delete or not accept our cookies.
+
+Sometimes, in compliance with applicable laws or our customer agreements, we combine the information we collect from different sources. For example, we might merge usage data with your feedback to improve the Services or inform you about relevant products.
 
 * * *
 
-Using Google Drive in our Tryit Editor
---------------------------------------
+How We Use Information
+----------------------
 
-Our Tryit Editor allows users to store code to, or import code from, Google Drive.
+We use your information to operate, improve, and maintain the Website and or the Services. Here are the ways we may use your information:
 
-This allows users to:
+* **Service Operation:** We use your information to run and manage the Website and or the Services effectively. This includes operating, delivering, monitoring, and maintaining the Services, as well as troubleshooting and performing system maintenance and upgrades.
+* **Product Development and Improvement:** Your information helps us enhance the Services and develop new features. In addition we use your information to improve functionality, quality, and user experience.
+* **Support:** We use your information to provide customer assistance and technical support. This includes responding to your requests and inquiries to ensure a smooth experience with the Services.
+* **Account Administration:** We use your information to create and manage your account, complete transactions and send information such as purchase confirmations, receipts, and invoices.
+* **Marketing and Promotional Activities:** We use your information to personalize and enhance our marketing efforts. This includes developing and improving our marketing activities, analyzing trends and usage to provide content or features that match your interests and preferences and informing you about promotions, offers, updates, and new products or services that might interest you. We may send you newsletters, promotional emails, and other marketing communications tailored to your interactions with the Services.
+* **Security:** We use your information to protect you and the Services by seeking to detect and to investigate, prevent and or respond to potential threats, fraudulent transactions, unauthorized access and other malicious or illegal activities.
+* **Legal, Safety, and Compliance:** We use your information to comply with applicable laws and regulations. This involves meeting legal obligations, responding to court orders, and ensuring compliance with our terms and policies.
 
-* Store examples/code to their Google Drive
-* Share examples/code through Google Drive
+### For Free Users Only:
 
-W3Schools does not keep for ourselves, or share this information with third parties.
+We use your personal information to provide you with targeted advertisements or marketing communications that we believe may interest you. These ads are managed by partners who specialize in advertising across multiple websites. They collect anonymous data about the websites you visit to personalize ads for you, ensure you don't see the same ads too frequently, and report to advertisers on which ads are effective. For more information about targeted advertising, visit the Network Advertising Initiative's ("NAI") educational page at [http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work](http://www.networkadvertising.org/understanding-online-advertising/how-does-it-work)
 
 * * *
 
-Links
------
+How We Share Your Information
+-----------------------------
 
-W3Schools contains links to other sites. We are not responsible for the privacy practices or the content of such Web sites. This privacy document applies only to W3Schools.
+We share your information to provide the Website and or the Services, comply with legal obligations, and as part of our regular business activities. We only share your information with those who need it to ensure that proper protections and agreements are in place.
+
+* **Sub-processors.** To deliver the Website, the Services, and the Support, we share your information with our sub-processors (Overview). We only use sub-processors who have adequate contractual obligations in their standard agreements.They act based on our instructions and in line with our Privacy Policy, along with strict confidentiality and security measures. This includes:
+
+* **Cloud Services:** For data hosting, storage, and content delivery
+* **Billing and Payments:** To manage and process transactions
+* **Customer Support:** To address and resolve inquiries and support requests
+* **Security Monitoring:** To protect against fraud or illegal or harmful activities
+* **Domain Registration:** To register domains and manage related services for you
+* **Analytics:** To understand the performance and impact of our sites and services
+
+* **For legal reasons.** We will share your information if we believe it´s necessary to:
+
+* Comply with applicable laws, regulations, legal processes, or governmental requests
+* Enforce our agreements, Terms of Service and this Privacy Policy
+* Detect, prevent, or address fraud, security or technical issues
+* Protect the rights, property or safety of W3Schools, our Users, or the public
+
+* **Business transfers.** Suppose W3Schools is involved in a merger, acquisition, or sale of assets. In that case, we will continue to ensure the confidentiality of your information.
+
+### For Free Users Only:
+
+We share your information with partners who specialize in advertising across multiple websites. This sharing allows us to personalize your experience and provide you with targeted advertisements. We use sub-processors for this purpose; you can review their Privacy Policy here:
+
+* Google: [Privacy Policy](https://policies.google.com/privacy?hl=en-US)
+* Snigel: [Privacy Policy](https://www.snigel.com/privacy-policy/)
+* Buy Sell Ads: [Privacy Policy](http://buysellads.com/privacy)
+* Refinery 89: [Privacy Policy](https://refinery89.com/privacy-policy/)
+
+Opting Out of Targeted Advertising:
+
+* W3Schools:  
+    Manage Consent
+* Digital Advertising Alliance: [http://optout.aboutads.info/](http://optout.aboutads.info/)
+* Your Online Choice: [https://www.youronlinechoices.com.](https://www.youronlinechoices.com/)
+
+**Note:** Opting out will not turn off ads; it will only stop them from being tailored to your interests.
+
+* * *
+
+Your Privacy Rights
+-------------------
+
+You have choices and rights regarding how we collect and use your information. Here's a summary of those options and how to exercise them:
+
+* **Opt-out of Marketing Communications.** You can opt out of receiving marketing emails by clicking the "Unsubscribe" link in any marketing email or by contacting us directly. Please note that if you are a Customer, you will still receive transactional communications related to the Website and or the Services.
+* **Account Preferences.** You can update or correct certain account information at any time by logging into your account or contacting our support team. If you wish to delete your account, please follow the instructions provided in our [documentation.](https://support.w3schools.com/hc/en-gb/articles/14697964112402-How-can-I-delete-my-account) We will retain certain information as described in the How We Retain Your Information section.
+* **Managing Cookies and Tracking Technologies.** You can manage your cookie preferences as described in the [Cookie Policy.](https://www.w3schools.com/about/about_cookies.asp)
+* **Managing Vendor Consent** You may update and customise your Vendor Consent preferences at any time by clicking here:  
+    Manage Consent
+
+Depending on your location, you may have additional rights concerning your personal information. These rights vary by jurisdiction. To learn more about your specific rights, please see the [Jurisdiction-Specific Information](#jurisdiction).
+
+* * *
+
+How We Secure Information
+-------------------------
+
+We use appropriate administrative, technical and physical safeguards to protect your information from unauthorized access, use, alteration, destruction, loss or disclosure. We also require our sub-processors, who handle your information on our behalf, to follow industry-standard security measures and meet their privacy and security obligations. However, we are not responsible for how our sub-processors handle privacy and security beyond the information we provide to or receive from them.
+
+While we strive to protect your information, no security measures are entirely foolproof. If you have any questions about the security of the Website and the Services, please contact us using the information in the [Contact Us](#contactus) section
+
+* * *
+
+How We Retain Your Information
+------------------------------
+
+We retain your information for the minimum period necessary to fulfill our legal and contractual obligations, develop the Website and or the Services, resolve disputes, enforce our rights, and for legitimate business purposes such as tax or accounting requirements, as described in this policy and recommended by industry standards. When we no longer have a legitimate business need to process your information, we delete or anonymize it.
+
+* * *
+
+Third-Party Services
+--------------------
+
+The Website and the Services may contain links to or integrations with other websites or applications not operated or controlled by W3Schools. While we strive to avoid offensive or harmful content on these links, we are not responsible for the content, accuracy, or opinions expressed in these third-party services. We recommend you review each third-party service's terms and privacy policies before use to ensure they meet your compliance, privacy, and security requirements.
+
+* * *
+
+How We Transfer Information
+---------------------------
+
+When you access or use the Website and or the Services or provide your information, you consent to process your information in the United States or Europe, where we operate. W3Schools may store, process, and transmit your information outside your country of residence to provide the Website and the Services. These countries may have different data protection laws. They might not offer the same level of protection as your country or the country where you initially provided the information. As applicable laws require, whenever we transfer your information, we take appropriate steps to protect it, including using standard contractual clauses or other legal mechanisms.
+
+Our data privacy practices follow the EU-U.S. Data Privacy Framework (DPF). This means we comply with strict requirements for handling, storing, and sharing your information per the framework. You can read more about the framework [here](https://www.dataprivacyframework.gov/Program-Overview)
+
+* * *
+
+Minimum Age For Use Of Our Site
+-------------------------------
+
+By using the Website and or the Services, you confirm that you are at least 13 years old. The Services are not intended for anyone under the age of 13. If you are under the age of 13 or lack the authority to consent on behalf of users below this age (such as in an educational institution), you cannot use the Services.
+
+* * *
+
+Changes To This Privacy Policy
+------------------------------
+
+We periodically review and update this Privacy Policy to reflect new Services or changes to our practices. You can see when this policy was last updated by referring to the "Last Update" date at the bottom of the policy. We encourage you to review the policy whenever you interact with us to stay informed about our privacy practices and how you can help protect your privacy.
 
 * * *
 
 Contact us
 ----------
 
-For more information about our privacy practices, if you have questions, or if you would like to make a complaint, please contact us by e‑mail at help@w3schools.com or by mail using the details provided below:
+If you have any questions about this Privacy Policy, please contact us at [help@w3schools.com](mailto:help@w3schools.com)
 
-w3schools  
-\[Re: Privacy Compliance Officer\]  
-Larsamyraa 18, 4313 SANDNES, Norway
+* * *
 
-  
+Jurisdiction-Specific Information
+---------------------------------
+
+Depending on your location, certain data privacy rights and regulations may apply to you. Please refer to the sections below that are relevant to your jurisdiction:
+
+### European Economic Area (EEA) and the United Kingdom (UK)
+
+This section applies to individuals located in the European Economic Area (EEA) and the United Kingdom (UK).
+
+#### Legal Bases for Processing Personal Data
+
+W3Schools processes your personal data only when we have a valid legal basis to do so. These include:
+
+* **Your Consent:** When you have given us clear permission for specific purposes
+* **Contractual Necessity:** When the processing is required to fulfill a contract with you or to take steps before entering into a contract
+* **Legitimate Interests:** When processing is necessary for our legitimate business purposes, as long as your rights and freedoms are not overridden
+* **Legal Obligations:** When we must process your data to comply with applicable laws
+
+#### International Data Transfer
+
+If your data is collected in Europe and stored outside of the European Economic Area (EEA), we ensure that your personal data is transferred with appropriate safeguards in place, such as Standard Contractual Clauses (SCCs)
+
+#### Your Rights
+
+If you are located in the European Union (EU) or Switzerland, you have the following rights regarding the personal data we hold about you:
+
+* **Right of Access:** You have the right to request access to the personal data we process about you
+* **Right to Rectification:** You can request that we correct any inaccurate or incomplete personal data without undue delay
+* **Right to Erasure:** You can request the deletion of your personal data in certain circumstances, such as when it is no longer needed for the purposes for which it was collected
+* **Right to Restriction:** You can ask us to limit the processing of your personal data in specific situations, such as when you contest its accuracy, allowing us time to verify its correctness
+* **Right to Data Portability:** You can request a copy of your personal data in a structured, commonly used, and machine-readable format to transfer it to another organization
+* **Right to Object:** You have the right to object to the processing of your personal data for purposes based on our legitimate interests or for direct marketing
+
+If you wish to exercise any of these rights, please contact us using the details provided at the end of this Privacy Policy. We will respond to your request within 30 days. To process your request, we need to verify your identity. In some cases, applicable laws may require or allow us to decline your request. If this happens, we will explain the reason, subject to legal restrictions.
+
+We retain personal data as needed to fulfill the purposes for which it was collected. This includes retaining information for our legitimate interests, such as complying with legal obligations, resolving disputes, preventing fraud, and enforcing agreements, even after a data subject request.
+
+If your personal data was processed by us on behalf of a business customer and you wish to exercise your rights, please contact that customer directly. If you prefer to contact us, include the name of the customer on whose behalf we processed your data. We will forward your request to them and support them to the extent required by applicable law in responding to your request.
+
+### United States
+
+This section applies to individuals in the U.S. and supplements our Privacy Notice to comply with U.S. Data Privacy Laws, including the California Consumer Privacy Act (CCPA).
+
+#### Data Collection, Use, and Sharing
+
+We collect and process personal information in order to provide the Website and the Services for our Users. The types of data we collect include:
+
+* **Personal Identifiers:** Name, email address, and IP address
+* **Customer Records:** Billing address, subscription details, and payment information (processed securely and in encrypted form)
+* **Commercial Information:** Information about your purchases, subscriptions, and engagement with our services
+* **Site Activity:** Data about your interactions with the Website, such as pages visited, tutorials accessed, and performance metrics
+* **Geolocation Data:** Approximate location derived from your IP address
+
+For detailed information about what we collect and the sources of this data, see the [Information We Collect](#informationwecollect) section. We collect and use this information to provide and improve our services, process transactions, ensure security, and for other business purposes outlined in the [How We Use Information](#howweuseinformation) section.
+
+We disclose the following categories of information for business or commercial purposes: personal identifiers, commercial information, site activity, geolocation data, and inferred insights. We work with trusted partners, including service providers, payment processors, and advertising platforms, to operate the Website and manage the Services. For further details, see the [How We Share Your Information](#howweshareyourinformation) section.
+
+#### Your Privacy Rights
+
+Under U.S. Data Privacy Laws, you have the following rights regarding the personal information we collect:
+
+* **Right of Access:** You can request access to and receive a summary of the personal information we have collected about you
+* **Right to Know:** You can request details about the categories and specific pieces of personal information we have collected in the last 12 months
+* **Right to Rectify or Update:** You can ask us to correct inaccurate or incomplete personal information. We recommend updating your information in your Account Settings first, if possible
+* **Right to Delete or Limit:** You can request that we delete your personal data or limit how we process it, in line with legal requirements
+* **Right to Object:** You can object to the processing of your personal data, as permitted by applicable laws
+* **Right to Withdraw Consent:** If you previously gave consent for us to process your data, you can withdraw it at any time
+* **Right to Request Information:** You can ask for details about how we collect, share, and disclose your personal information from the last 12 months
+* **Right to Opt-Out of the Sale of Information:** To opt out of the sale of your personal data
+* **Right to Opt-Out of Sharing for Advertising:** To opt out of sharing your data for targeted advertising
+* **Right to Non-Discrimination:** Exercising your privacy rights will not affect the services we provide to you
+* **Right to Data Portability:** You can request a copy of your personal information in a format that is easy to use and transfer to another organization, when feasible
+
+#### Exercising Your Privacy Rights
+
+If you want to exercise any of these rights, contact us using the information in the [Contact Us](#contactus) section. Clearly state which right you are exercising and provide details about your request. We will confirm receipt of your request within 10 days. To process your request, we will require information to verify your identity. If we cannot verify your identity, we will not be able to fulfill your request to access or delete your data.
+
+To verify your identity, we require you to provide certain identifying information related to your account (i.e., user ID) or details about your recent interactions with us. We cannot process your request unless we verify your identity and confirm that the personal information relates to you or the individual you are acting on behalf of.
+
+If you wish to authorize an agent to make a request on your behalf, you must provide a signed written permission authorizing them to act for you. Requests submitted by an agent without proper authorization will be denied.
+
+We process verified requests within 45 days. However, certain requests cannot be fulfilled if they conflict with:
+
+* Federal, state, or local laws;
+* Regulatory investigations;
+* Subpoenas; or
+* Legal claims or defenses.
+
+* * *
+
+Appendix: Sub-Processors
+------------------------
+
+| Company | Location | Service |
+| --- | --- | --- |
+| Airwallex | EU  | Payment processing |
+| Amazon | USA | Cloud Infrastructure for the Website and the Services |
+| Brevo | EU  | Market activities |
+| Buy Sell Ads | USA | Ad-Service |
+| Google, Inc | USA | Site analytics (web) and customer interactions (email) |
+| Paypal | USA | Payment processing |
+| Refinery 89 | EU  | Ad-Service |
+| Revinova | USA | LMS platform - (Specific for AWS courses) |
+| Shopify | USA | E-commerce store |
+| Snigel | EU  | Ad-Service |
+| Stripe | USA | Payment processing |
+| Zendesk | EU  | Customer support and CRM system |
+
+Last updated: 2025.02.19
 
 [★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
 
