@@ -879,7 +879,7 @@ The Data Subjects of this Processing are individuals whose Third-Party Personal 
 ####   
 **3.4. Categories of Third-Party Personal Data**
 
-The categories of Third-Party Personal Data processed depend on what Your Content (including associated metadata) contains. They may include any data that You decide to include in Your Content and which identifies or allows the identification of the Data Subjects such as their image (still or animated), voice, name, or any other personal information.
+The categories of Third-Party Personal Data processed depend on what Your Content (including associated metadata) contains. They may include any data that You decide to include in Your Content and which identifies or allows the identification of the Data Subjects such as their image (still or animated), voice, name, or any other personal information. You agree not to include so-called special categories of Personal Data in Your Content.
 
 ###   
 **4\. Security and Confidentiality of Third-Party Personal Data**
@@ -1094,10 +1094,34 @@ Dailymotion is designed as a video-sharing platform, meaning that the videos whi
 
 Taking into account the categories of Third-Party Personal Data and the purposes Dailymotion process that Data on Your behalf, Dailymotion has no reason to believe that the laws and practices in any Third Country of destination applicable to the Processing of Third Party Personal Data, including any requirements to disclose Third Party Personal Data or measures authorizing access by a Public Authority (e.g. a government agency, or law enforcement authority, including judicial authorities), prevent Dailymotion from fulfilling its obligations under this DPA. However, if Dailymotion reasonably believes that any existing or future enacted or enforceable laws and practices in a Third Country of destination applicable to the Processing prevent it from fulfilling its obligations under this DPA and may represent a threat to Third Party Personal Data’s security and integrity, it shall promptly notify its Users, including You, and it will use reasonable efforts to make available to the affected Users a change in the Services. If Dailymotion is unable to make available such change, You may remove Your Content at any time from the Dailymotion Service.
 
-As such, Dailymotion has determined that the risks of infringing such Third-Party’s  privacy associated to such transfer to a Third Country is limited and consequently, that the existing measures in place shall be sufficient to ensure the efficiency of the protection of the rights of the data subjects whose  Third Party Personal Data is related to.
+As such, Dailymotion has determined that the risks of infringing such Third-Party’s  privacy associated to such transfer to a Third Country is limited and consequently, that the existing measures in place shall be sufficient to ensure the efficiency of the protection of the rights of the data subjects whose Third Party Personal Data is related to.
+
+### 10\. **Further Processing of Third Party Personal Data by Dailymotion**
+
+As part of the operation of the Dailymotion Service, Dailymotion analyses and further processes data related to the Service features and content hosted thereon. To the extent thus analyzed data is Your Content that comprises Third Party Personal Data, such use of data may constitute Processing of Third Party Personal Data by Dailymotion. 
+
+Dailymotion may further Process Third Party Personal Data present in Your Content, as Controller, for purposes that are compatible with the initial processing purposes, namely: 
+
+* Operation of the Service, including through revenue-generating operations; 
+
+* Analysis of the Service; including for generating insight for further content recommendations or contextual ad targeting; 
+
+* Improvement of the Services;  
+
+* Market studies; 
+
+* Fraud detection, Service misuse detection, Service security and legal compliance; 
+
+* Research and development, including fostering AI development.
+
+Depending on the context of particular processing operations Third Party Personal Data may be disclosed to third parties (be it our Commercial Partners or [Service Providers](https://legal.dailymotion.com/en/list-of-dailymotion-data-processors/))  and various methods and technologies may be used for the Processing, including pseudonymization, anonymization, cleansing, structuration and annotation.  
+
+You explicitly acknowledge and agree the initial purposes of the Processing of Third Party Personal Data are not incompatible with the Dailymotion’s Processing purposes listed hereinabove and that Third Parties have been informed of processing undertaken by Dailymotion unless such information proves impossible or would involve a disproportionate effort.  
+
+Any processing by Dailymotion as a Controller shall be subject to our [Privacy Policy](https://legal.dailymotion.com/en/privacy-policy/).   
 
 ###   
-**10\. DPO – Identity and Contact Details**
+**11\. DPO – Identity and Contact Details**
 
 * **Dailymotion’s Contact Information:** Contact email [here](mailto:feedback@dailymotion.com).
 * **Your Identity Contact Information:** the email address associated with Your Dailymotion Account, or, if applicable, the email address communicated in compliance with Section 6 of this DPA.
