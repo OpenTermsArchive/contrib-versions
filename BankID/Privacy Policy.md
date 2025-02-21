@@ -1,9 +1,33 @@
-Our privacy policy
-==================
+**Contents:**
+
+* 1\. General
+* 2\. Who we are
+* 3\. How your personal data is gathered
+* 4\. How your personal data is processed
+* 5\. How your data is shared
+* 6\. How your data is protected
+* 7\. Your rights
+* 8\. Data transfer
+* 9\. Changes
+
+Privacy policy, BankID service
+==============================
 
 Version 1.6, 01-05-2023
 
-[Read an easy version](https://www.bankid.com/en/integritetspolicy/easy-privacy-policy)
+[Easy-to-read version](https://www.bankid.com/en/integritetspolicy/easy-privacy-policy)
+
+**Contents:**
+
+* 1\. General
+* 2\. Who we are
+* 3\. How your personal data is gathered
+* 4\. How your personal data is processed
+* 5\. How your data is shared
+* 6\. How your data is protected
+* 7\. Your rights
+* 8\. Data transfer
+* 9\. Changes
 
 1\. General
 -----------
