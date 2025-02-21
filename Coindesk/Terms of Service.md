@@ -1,124 +1,124 @@
 [BTC
 
-$98,069.27
+$98,382.17
 
 +
 
-1.65%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
+1.48%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
 
-$2,736.53
-
-+
-
-0.86%](https://www.coindesk.com/price/ethereum "View price details")[XRP
-
-$2.7225
+$2,756.37
 
 +
 
-0.86%](https://www.coindesk.com/price/xrp "View price details")[USDT
+0.88%](https://www.coindesk.com/price/ethereum "View price details")[XRP
+
+$2.6575
+
+\-
+
+2.36%](https://www.coindesk.com/price/xrp "View price details")[USDT
 
 $1.0002
 
 +
 
-0.00%](https://www.coindesk.com/price/tether "View price details")[BNB
+0.01%](https://www.coindesk.com/price/tether "View price details")[BNB
 
-$654.79
-
-\-
-
-0.22%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
-
-$173.92
+$652.01
 
 +
 
-1.32%](https://www.coindesk.com/price/solana "View price details")[USDC
+0.44%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
+
+$175.26
+
++
+
+1.59%](https://www.coindesk.com/price/solana "View price details")[USDC
 
 $0.9999
 
 \-
 
-0.02%](https://www.coindesk.com/price/usd-coin "View price details")[DOGE
+0.01%](https://www.coindesk.com/price/usd-coin "View price details")[DOGE
 
-$0.2531
-
-\-
-
-0.51%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
-
-$0.8049
-
-+
-
-4.32%](https://www.coindesk.com/price/cardano "View price details")[TRX
-
-$0.2447
-
-+
-
-0.44%](https://www.coindesk.com/price/tron "View price details")[WBTC
-
-$97,836.27
-
-+
-
-1.59%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
-
-$18.23
-
-+
-
-1.02%](https://www.coindesk.com/price/chainlink "View price details")[XLM
-
-$0.3490
-
-+
-
-3.41%](https://www.coindesk.com/price/xlm "View price details")[SUI
-
-$3.4518
-
-+
-
-7.69%](https://www.coindesk.com/price/sui "View price details")[AVAX
-
-$24.91
-
-+
-
-4.29%](https://www.coindesk.com/price/avax "View price details")[LTC
-
-$128.80
+$0.2540
 
 \-
 
-5.72%](https://www.coindesk.com/price/ltc "View price details")[HBAR
+0.73%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
 
-$0.2205
-
-+
-
-1.02%](https://www.coindesk.com/price/hbar "View price details")[SHIB
-
-$0.0₄1556
+$0.8021
 
 +
 
-0.81%](https://www.coindesk.com/price/shiba-inu "View price details")[TON
+3.32%](https://www.coindesk.com/price/cardano "View price details")[TRX
 
-$3.6004
-
-+
-
-1.71%](https://www.coindesk.com/price/toncoin "View price details")[LEO
-
-$9.7252
+$0.2496
 
 +
 
-0.93%](https://www.coindesk.com/price/unus-sed-leo "View price details")
+3.84%](https://www.coindesk.com/price/tron "View price details")[WBTC
+
+$98,157.31
+
++
+
+1.43%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
+
+$18.29
+
++
+
+0.32%](https://www.coindesk.com/price/chainlink "View price details")[SUI
+
+$3.5239
+
++
+
+6.44%](https://www.coindesk.com/price/sui "View price details")[XLM
+
+$0.3391
+
+\-
+
+1.44%](https://www.coindesk.com/price/xlm "View price details")[AVAX
+
+$25.13
+
++
+
+3.66%](https://www.coindesk.com/price/avax "View price details")[LTC
+
+$135.53
+
++
+
+3.56%](https://www.coindesk.com/price/ltc "View price details")[HBAR
+
+$0.2200
+
+\-
+
+1.54%](https://www.coindesk.com/price/hbar "View price details")[SHIB
+
+$0.0₄1561
+
++
+
+0.55%](https://www.coindesk.com/price/shiba-inu "View price details")[LEO
+
+$9.7373
+
++
+
+1.44%](https://www.coindesk.com/price/unus-sed-leo "View price details")[TON
+
+$3.5831
+
++
+
+0.61%](https://www.coindesk.com/price/toncoin "View price details")
 
 Ad
 
@@ -255,7 +255,7 @@ Select Language
 
 [English en](https://www.coindesk.com/terms)[Español es](https://www.coindesk.com/es/terms)[Filipino fil](https://www.coindesk.com/fil/terms)[Français fr](https://www.coindesk.com/fr/terms)[Italiano it](https://www.coindesk.com/it/terms)[Português pt-br](https://www.coindesk.com/pt-br/terms)[Русский ru](https://www.coindesk.com/ru/terms)[Українська uk](https://www.coindesk.com/uk/terms)
 
-[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-qrddqhe0n-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75)](https://www.coindesk.com/)
+[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-gdads57w8-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75)](https://www.coindesk.com/)
 
 * [News](https://www.coindesk.com/)
 * [Prices](https://www.coindesk.com/price)
@@ -377,8 +377,6 @@ All rights not granted herein are expressly reserved to CoinDesk, Inc.
 
 [](https://www.coindesk.com/ "CoinDesk homepage")
 
-[X icon](https://twitter.com/coindesk)[](https://facebook.com/coindesk)[](https://linkedin.com/company/coindesk)[](https://www.coindesk.com/arc/outboundfeeds/rss/)[](https://instagram.com/coindesk)[](https://www.youtube.com/coindesk)[](https://www.tiktok.com/@coindesk/)[](https://discord.com/invite/tRuUMkkQd9)[](https://t.me/CoinDeskGlobal)
-
 * * *
 
 About
@@ -389,31 +387,24 @@ About
 * [CoinDesk News](https://www.coindesk.com/coindesk-news)
 * [Crypto API Documentation](https://developers.coindesk.com/documentation/data-api/introduction)
 
-* * *
-
 Contact
 
 * [Contact Us](https://www.coindesk.com/contact-us)
 * [Accessibility](https://www.coindesk.com/accessibility-help)
 * [Advertise](https://www.coindesk.com/advertise)
 * [Sitemap](https://www.coindesk.com/sitemap)
+* [System Status](https://status.coindesk.com/)
 
-* * *
+DISCLOSURE & POLICES
 
-Policies
-
-* [Ethics](https://www.coindesk.com/ethics)
-* [Privacy](https://www.coindesk.com/privacy)
-* [Terms of Use](https://www.coindesk.com/terms)
-* Cookie Consent
-* [Do not sell my info](https://www.coindesk.com/privacy#dnsmpi)
-
-* * *
-
-Disclosure
-
-Please note that our [privacy policy](https://www.coindesk.com/privacy), [terms of use](https://www.coindesk.com/terms), [cookies](https://www.coindesk.com/privacy#cookies), and [do not sell my personal information](https://www.coindesk.com/privacy#dnsmpi) have been updated.  
-  
 CoinDesk is an [award-winning](https://www.coindesk.com/business/2023/02/20/coindesk-wins-a-polk-award-a-top-journalism-prize-for-explosive-ftx-coverage) media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of [editorial policies](https://www.coindesk.com/ethics). CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of the Bullish group, which owns and invests in digital asset businesses and digital assets. CoinDesk employees, including journalists, may receive Bullish group equity-based compensation. Bullish was incubated by technology investor Block.one.
 
-© 2025 CoinDesk
+[Ethics](https://www.coindesk.com/ethics)[Privacy](https://www.coindesk.com/privacy)[Terms of Use](https://www.coindesk.com/terms)Cookie Consent[Do Not Sell My Info](https://www.coindesk.com/privacy#dnsmpi)
+
+* * *
+
+© 2025 CoinDesk, Inc.
+
+[X icon](https://twitter.com/coindesk)[](https://facebook.com/coindesk)[](https://linkedin.com/company/coindesk)[](https://www.coindesk.com/arc/outboundfeeds/rss/)[](https://instagram.com/coindesk)[](https://www.youtube.com/coindesk)[](https://www.tiktok.com/@coindesk/)[](https://discord.com/invite/tRuUMkkQd9)[](https://t.me/CoinDeskGlobal)
+
+[](https://apps.apple.com/us/app/coindesk-crypto-bitcoin-news/id6502816903)[](https://play.google.com/store/apps/details?id=com.coindesk.mobile)
