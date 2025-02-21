@@ -621,47 +621,31 @@ Learn more about our [Boiler Services Terms and Conditions](https://www.energia.
 
 #### 
 
-29\. "Get a Quote Calculator" Promotional Terms & Conditions
-
-The quoted average monthly bill amount is calculated upon average figures outlined below.  
-  
-Tariffs rates depending on urban or rural location are outlined [here.](https://www.energia.ie/about-energia/our-tariffs)
-
-Total discount is based on your chosen price plan. You must pay your bill by Direct Debit to avail of the Direct Debit Discount and register for Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts. 
-
-The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier.   
-  
-Your Dual fuel and Electricity tariff discounts will apply for the period agreed from the date Energia is registered as your supplier. After the discount period you will revert to Energia standard unit rates. Once you have signed up to an Energia Dual fuel or Electricity Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to switch. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee as agreed in the product details will apply.   
-  
-All prices are subject to change as per Energia standard terms and conditions. For new customers only that sign up online or over the phone.
-
-#### 
-
-30\. Contract Renewal Terms & Conditions
+29\. Contract Renewal Terms & Conditions
 
 Total discount is based on opting in to our Renewal Price Plan.  You must pay your bill by Direct Debit to avail of the Direct Debit Discount and use Online Billing to receive the Online Billing Discount. If you cancel your Direct Debit payment or choose to switch to paper bill, you will lose these discounts.    
    
 The Public Service Obligation (PSO) Levy is set annually in October. This applies to all domestic electricity customers irrespective of supplier.  The Carbon Tax is set annually by the Revenue. This tax applies to all domestic natural gas customers, irrespective of supplier  
    
-Your renewal discount will be applied for 12 months and will begin on either your next bill or the one following that, depending on your billing cycle. After one year you will revert to Energia standard unit rates.  Once you have signed up to an Energia Renewal Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to renew. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee of €50 per fuel will apply.   
+Your renewal discount will be applied and start on the date agreed at time of renewal. After the discount period you will revert to Energia standard unit rates.  Once you have signed up to an Energia Renewal Tariff, there is a 14 day Cooling Off period, during which you may choose to cancel your agreement to renew. There is no penalty for cancelling during the Cooling Off period. If you cancel your service any time after the Cooling Off period and before the end of your contract, a termination fee will apply.   
    
 All prices are subject to change as per our General Terms and Conditions above.
 
 #### 
 
-31\. Free Gas Boiler Offer
+30\. Free Gas Boiler Offer
 
 Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](https://www.energia.ie/getmedia/5057a354-08af-4088-a667-a4a54418dc39/Free-Gas-Boiler-Service-terms-and-conditions.pdf).
 
 #### 
 
-32\. Energia Solar & Battery Terms and Conditions
+31\. Energia Solar & Battery Terms and Conditions
 
 ****View the terms and conditions [here](https://www.energia.ie/getmedia/cf7b9dbf-bdb0-41aa-aead-322081026d05/Solar-and-Battery-TC-s-and-Privacy-Policy-(final)-(11-11-2020)_2.pdf.aspx;).****
 
 #### 
 
-33\. Energia EV Charger Customer Terms and Conditions
+32\. Energia EV Charger Customer Terms and Conditions
 
 **1\. BACKGROUND**
 
@@ -1114,19 +1098,7 @@ Each party irrevocably agrees that the Courts of Ireland shall have exclusive ju
 
 #### 
 
-34\. Revolut Customer Exclusive Offer
-
-Dual Fuel Terms:  
-   
-EAB €2,745, based on average annual usage. 12 month contract, discounted unit rates, standing charge, PSO levy and Carbon Tax, T&Cs and early termination fee apply. Valid from November 2020 & subject to change. Smart Home Voucher must be used at [https://smarthomestore.energia.ie/](https://smarthomestore.energia.ie/) by 31st December 2022. No cash equivalent will be provided. €100 cash back to be applied to 3rd customer bill.  
-   
-Electricity Terms:  
-  
-EAB €1,512, based on average annual usage. 12 month contract, discounted unit rates, standing charge, PSO levy and Carbon Tax, T&Cs and early termination fee apply. Valid from November 2020 & subject to change. Smart Home Voucher must be used at [https://smarthomestore.energia.ie/](https://smarthomestore.energia.ie/) by 31st December 2022. No cash equivalent will be provided. €50 cash back to be applied to 3rd customer bill.
-
-#### 
-
-35\. Newsletter competition terms and conditions
+33\. Newsletter competition terms and conditions
 
 [View the Janurary Mascot Six Nations Competition 2024 terms and condtions](https://www.energia.ie/getattachment/36a42af5-1c28-47b5-97a7-29a045af2317/Ireland-vs-Wales-Mascot-Comp-Terms-and-Conditions-2024-(2).pdf?lang=en-GB)  
   
@@ -1139,7 +1111,7 @@ EAB €1,512, based on average annual usage. 12 month contract, discounted unit 
 
 #### 
 
-36\. Digital & Social Competition
+34\. Digital & Social Competition
 
 General Social Compeition: Energia's decision regarding prize winners will be final, and no correspondence regarding that decision will be entered into.
 
@@ -1159,24 +1131,6 @@ General Social Compeition: Energia's decision regarding prize winners will be fi
 
 #### 
 
-37\. Download all Terms and Conditions
+35\. Download all Terms and Conditions
 
 You can download all Terms & Conditions [here.](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB)
-
-#### 
-
-Energia Rugby – Win two tickets to Leinster vs Edinburgh at the RDS Arena
-
-•    The competition runs from the 19th of October – 26th October 2023  
-•    All entrants must be over 18 years old.  
-•    All entries should be made by entering the competition via Energia Rewards competition page.  
-•    Entrants must be Energia Rewards members.  
-•    All submissions will be put into a draw and 1 customer will be drawn at random per competition.  
-•    One lucky customer will win two tickets to Leinster vs Edinburgh at the RDS Arena in Dublin on Saturday 4th November in the United Rugby Championship  
-•    The winners will be contacted via our Energia Care team, by phone prior to the 29th of October 2023.  
-•    The winner will be contacted & notified by our Care Team to arrange delivery of the tickets.  
-•    Valid and correct address details must be supplied to our Care team for the shipping of the prize to be fulfilled.  
-•    The prizes cannot be exchanged for any monetary value or any other prize option.  
-•    By entering our competition and agreeing to these terms and conditions, you are giving Energia permission to publish your name if you are to win any prize.  
-•    The competition is open to Energia customers only.  
-•    Customers are only allowed one entry per account.
