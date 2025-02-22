@@ -23,7 +23,7 @@ You can customize the Policy to only see the portions that apply to you. Just ch
 
 #### What kind of user are you?
 
-*  Test Taker
+*  Test-taker
 *  Parent/Guardian
 *  Institution Representative
 *  Website User
