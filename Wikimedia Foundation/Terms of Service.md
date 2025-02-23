@@ -3,9 +3,12 @@
 Wikimedia Foundation Terms of Use
 =================================
 
- Add languages
+ 2 languages
 
-[Add links](https://www.wikidata.org/wiki/Special:NewItem?site=foundationwiki&page=Policy%3ATerms+of+Use "Add interlanguage links")
+* [English](https://en.wikipedia.org/wiki/Wikipedia:Terms_of_use "Wikipedia:Terms of use – English")
+* [中文](https://zh.wikipedia.org/wiki/Wikipedia:%E4%BD%BF%E7%94%A8%E6%9D%A1%E6%AC%BE "Wikipedia:使用条款 – Chinese")
+
+[Edit links](https://www.wikidata.org/wiki/Special:EntityPage/Q118719909#sitelinks-wikipedia "Edit interlanguage links")
 
 * [Policy](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use "View the subject page [c]")
 * [Discussion](https://foundation.wikimedia.org/wiki/Policy_talk:Terms_of_Use "Discussion about the content page [t]")
@@ -45,6 +48,10 @@ Print/export
 * [Printable version](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&printable=yes "Printable version of this page [p]")
 
 In other projects
+
+* [Meta-Wiki](https://meta.wikimedia.org/wiki/Terms_of_use)
+* [Wikipedia](https://en.wikipedia.org/wiki/Wikipedia:Terms_of_use)
+* [Wikidata item](https://www.wikidata.org/wiki/Special:EntityPage/Q118719909 "Link to connected data repository item [g]")
 
 Appearance
 
