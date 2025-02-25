@@ -11,7 +11,7 @@ Hey there! Welcome to Tinder’s Privacy Policy.
 
 We know reading a privacy policy might not be everyone’s idea of a good time, but hear us out. We put a lot of effort into making this policy as clear and engaging as possible, because we actually want you to read it! Think of us as your digital wingmate, here to guide you through the ins and outs of what data we collect, and why and how we use it. So get cozy, grab your beverage of choice, and let’s dive into the world of personal data together. 
 
-This Privacy Policy applies from August 25, 2024. The previous version, available [here](https://policies.tinder.com/privacy-policy-6-1-2024), applies until then.
+This Privacy Policy applies from February 28, 2025. The previous version, available [here](https://policies.tinder.com/privacy-policy-8-25-2024), applies until then.
 
 1. [Who We Are](#who-we-are)
     
@@ -147,7 +147,7 @@ Tinder is part of the [Match Group family of businesses](https://mtch.com/ourcom
 
 We may share data about you with our Affiliates and they may share data about you with us, for the reasons laid out below:
 
-* To make all Match Group platforms safer, for instance by making sure that when a bad actor is found on one Match Group platform (for instance ours), they can be banned from all.
+* To make all Match Group platforms safer, for instance by searching for and identifying bad actors and how they operate across Match Group platforms, as well as making sure that when a bad actor is found on one Match Group platform (for instance ours), they can be banned from all.
     
 * To assist each other in data processing operations, as service providers. This assistance may include processing operations, such as data hosting and maintenance, customer care, marketing and targeted advertising, analytics, finance and accounting, legal support, payment processing, service improvement, data security and fighting against spam, abuse, fraud and other wrongdoings.
     
@@ -182,9 +182,9 @@ For your protection and the protection of all of our members, we may ask you for
 
 Keep in mind, we may reject requests, including if we are unable to authenticate you, if the request is unlawful or invalid, or if it may infringe on trade secrets or intellectual property or the privacy or other rights of someone else. If you wish to receive information relating to another member, such as a copy of any messages you received from them, the other member will have to make a request themselves.
 
-If you are a resident of Texas, Oregon, Montana, Virginia, Colorado, or Connecticut, USA, if we deny your privacy request, you may be able to appeal by [contacting us](https://gotinder.com/help), and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal, you may contact the attorney general for your state.
+If you are a resident of Delaware, Iowa, Nebraska, New Hampshire, New Jersey, Texas, Oregon, Montana, Virginia, Colorado, or Connecticut, USA, if we deny your privacy request, you may be able to appeal by [contacting us](https://gotinder.com/help), and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal, you may contact the attorney general for your state.
 
-In certain countries, including in the European Economic Area and the United Kingdom, you have a right to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal data. You can find information about your data protection regulator in the European Economic Area [here](https://edpb.europa.eu/about-edpb/board/members_en), and in the United Kingdom [here](https://ico.org.uk/). The data protection authority you can lodge a complaint with may be that of your habitual residence, where you work or where an alleged infringement took place.
+In certain countries, including in the European Economic Area and the United Kingdom, you have a right to a judicial remedy and to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal data. You can find information about your data protection regulator in the European Economic Area [here](https://edpb.europa.eu/about-edpb/board/members_en), and in the United Kingdom [here](https://ico.org.uk/). The data protection authority you can lodge a complaint with may be that of your habitual residence, where you work or where an alleged infringement took place.
 
 ### **9\. How Long We Retain Your Data**
 
@@ -221,10 +221,8 @@ Online: [here](https://gotinder.com/help)
 
 By post:
 
-Data Protection Officer
-
-MTCH Technology Services Limited
-
+> Data Protection Officer  
+> MTCH Technology Services Limited  
 > Tinder  
 > 1 Hatch Street Upper   
 > Dublin 2   
