@@ -440,18 +440,14 @@ Finnair Plc Business ID: 0108023-3 Address: Tietotie 9 01530 VANTAA, FINLAND
 
 **Under the GDPR, you also have the following rights regarding your personal data:**
 
-* **Right to access:** You can request a copy of the personal data that we hold of you. 
+* **Right to access:** You can request a copy of the personal data that we hold of you.
 * **Right to rectification:** You can ask us to correct any inaccurate or incomplete personal data.
 * **Right to erasure:** You can request that we delete your personal data under certain conditions.
-* **Right to restrict processing:** You can ask us to restrict the processing of your personal data in certain circumstances. 
+* **Right to restrict processing:** You can ask us to restrict the processing of your personal data in certain circumstances.
 * **Right to data portability:** When we process your personal data based on your consent, you can request to receive your personal data in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller.
 * **Right to object:** You can object to the processing of your personal data based on our legitimate interest for marketing communications purposes at any time. 
 
 Please refer to [our general privacy policy](https://www.finnair.com/en/info/finnair-privacy-policy#hello--we-want-to-make-sure-you-are-on-board-with-us-when-it-comes-to-the-use-of-your-data-) on how to use the above rights.
-
-**Contact details concerning the processing of your personal data for marketing communications and content personalisation purposes**
-
-If you have any questions concerning this privacy notice, you may contact the Finnair Customer Engagement department: customerdata@finnair.com.
 
 **Contact details of the data privacy officer**
 
@@ -573,13 +569,12 @@ If in any of our operations your personal data is transferred outside of the Eur
 We retain your personal data for marketing communications purposes for as long as you continue to consent to receive our marketing communications and for content personalisation purposes until you object to our processing of your personal data for marketing communications and content personalisation purposes.
 
 * If you would like to withdraw your consent, you can withdraw your consent as informed under the section ‘How to withdraw consent and exercise your rights’ above. After withdrawing your consent, we will no longer send you marketing emails and you will no longer see our personalised advertisements on the third-party platforms. Your consent withdrawal will be effective for emails immediately and for personalised advertisements within 24 hours.
-* If you would like to object to our processing of your personal data for marketing communications and content personalisation purposes, you can make us a request at customerdata@finnair.com. 
 
 **Please note** that we will retain certain data if required by law, or for our legitimate business purposes unrelated to marketing communications or content personalisation purposes.
 
 #### If you have a complaint
 
-**If you have a complaint concerning the processing of your personal data for our marketing communications or content personalisation purposes** informed to you in this privacy notice, please reach out to us by contacting us at customerdata@finnair.com. We will do our best to clarify and resolve any issue.
+**If you have a complaint concerning the processing of your personal data for our marketing communications or content personalisation purposes** informed to you in this privacy notice, please reach out to us by contacting us at privacy@finnair.com. We will do our best to clarify and resolve any issue.
 
 For lodging a complaint to the Finnish Data Protection Authority, please refer to [our general privacy policy](https://www.finnair.com/en/info/finnair-privacy-policy#hello--we-want-to-make-sure-you-are-on-board-with-us-when-it-comes-to-the-use-of-your-data-).
 
