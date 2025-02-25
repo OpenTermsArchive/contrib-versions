@@ -139,7 +139,7 @@ Other languages:
 * [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sr "Policy:Terms of Use/sr (23% translated)")
 * [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tg "Policy:Terms of Use/tg (2% translated)")
 * [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Policy:Terms of Use/uk (94% translated)")
-* [ўзбекча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uz-cyrl "Policy:Terms of Use/uz-cyrl (40% translated)")
+* [ўзбекча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uz-cyrl "Policy:Terms of Use/uz-cyrl (46% translated)")
 * [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hy "Policy:Terms of Use/hy (14% translated)")
 * [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "Policy:Terms of Use/yi (3% translated)")
 * [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (49% translated)")
