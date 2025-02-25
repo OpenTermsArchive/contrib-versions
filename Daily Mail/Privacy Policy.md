@@ -4,21 +4,23 @@ Associated Newspapers Ltd
 Privacy & Cookies Policy (the “Policy”)
 ---------------------------------------
 
-###### Last updated: 26 March 2024
+###### Last updated: 25 February 2025
 
-###### Previous version: 23 February 2024
-
-You can control online behavioural advertising cookies on this website via your [Privacy Settings](#). Further details on this can be found under Cookies and other identifiers in Section 17 below.
+###### Previous version: 26 March 2024
 
 ### 1\. What is this Policy for?
 
-This Policy explains how we protect and handle any personal information you provide to us, including via our websites, our apps, our social media pages/accounts, email, telephone and in person. It also covers any personal information we receive from third parties and provides you with an overview of your rights.
+This Policy explains how we protect and handle any personal information we collect, including via our websites, our apps, our social media pages/accounts, email, telephone and in person. It also covers any personal information we receive from third parties and provides you with an overview of your rights.
 
-By using our products and services, including browsing our websites, registering, logging in or signing up for newsletters or marketing, you agree that we may use your personal information as outlined in this Policy. There may be occasions when we share responsibility for the processing and protection of your personal data in connection with your use of our products and services as joint controllers with our partners (please see Section 2 Who we are for additional information). In such instances our partners will process your personal data in accordance with their privacy notices.
+By using our products and services, including browsing our websites, registering, logging in or signing up for newsletters or marketing, you agree that we may use your personal information as outlined in this Policy. There may be occasions when we share responsibility for the processing and protection of your personal data in connection with your use of our products and services as joint controllers with our partners (please see Section 2 **Who we are** for additional information). In such instances our partners will process your personal data in accordance with their privacy notices.
+
+You can control online behavioural advertising cookies on this website via your [Privacy Settings](#). Further details on this can be found under Cookies and other identifiers in Section 15 below.
+
+Users in certain jurisdictions, such as residents of the United Kingdom, the European Union and U.S. States with a comprehensive consumer privacy law, have specific rights which are set forth in Sections 10 and 11 below.
 
 ### 2\. Who we are
 
-[dmg media](https://www.dmgmedia.co.uk/) is an international multi-channel media company which is home to some of the UK’s most popular brands, including the [**Daily Mail**](https://www.dmgmedia.co.uk/brands/daily-mail/), [**The Mail on Sunday**](https://www.dmgmedia.co.uk/brands/the-mail-on-sunday/), [**MailOnline**](https://www.dailymail.co.uk/home/index.html), [**MailOnline Ireland**](https://www.dmgmedia.ie/our-brands)**,** [**Irish Daily Mail**](https://www.dmgmedia.ie/our-brands)**,** [**The Irish Mail on Sunday**](https://www.dmgmedia.ie/our-brands)**,** [**Metro**](https://metro.co.uk/), [**This is Money**](https://www.dailymail.co.uk/money/index.html), [**You Magazine**](https://www.you.co.uk/), [**MyMail**](https://www.mymail.co.uk/home), [**MailPlus**](https://www.dailymailplus.co.uk/),  [**MailShop**](https://www.mailshop.co.uk/), [**MailWineClub**](https://www.mailwineclub.co.uk/), [**MailTravel**](https://www.mailtravel.co.uk/), [**MailFinance**](https://www.mailfinance.co.uk/), [**MailExperiences**](https://www.mailexperiences.co.uk/)**,** [**MailBookshop**](https://books.mailshop.co.uk/)**,** [**The Mail (Mail Subscriptions)**](https://www.mailsubscriptions.co.uk/), [**The i**](https://www.dmgmedia.co.uk/brands/i/), [**inews**](https://www.dmgmedia.co.uk/brands/inews-co-uk/) and **[Eliza](https://eliza.co.uk/)**.
+[dmg media](https://www.dmgmedia.co.uk/) is an international multi-channel media company which is home to some of the UK’s most popular brands, including the [**Daily Mail**](https://www.dmgmedia.co.uk/brands/daily-mail/), [**The Mail on Sunday**](https://www.dmgmedia.co.uk/brands/the-mail-on-sunday/), **[Daily Mail Australia](https://www.dailymail.co.uk/auhome/index.html)**, **[Mail+](https://www.dailymail.co.uk/mailplus/index.html)**, **[DailyMail+](https://www.dailymail.co.uk/mailplus/us/index.html)**, **[Mail+ Editions](https://www.mailplus.co.uk/)**, [**MailOnline**](https://www.dailymail.co.uk/home/index.html), [**MailOnline Ireland**](https://www.dmgmedia.ie/our-brands)**,** [**Irish Daily Mail**](https://www.dmgmedia.ie/our-brands)**,** [**The Irish Mail on Sunday**](https://www.dmgmedia.ie/our-brands)**,** [**Metro**](https://metro.co.uk/), [**This is Money**](https://www.dailymail.co.uk/money/index.html), [**You Magazine**](https://www.you.co.uk/), [**MyMail**](https://www.mymail.co.uk/home), [**MailPlus**](https://www.dailymailplus.co.uk/),  [**MailShop**](https://www.mailshop.co.uk/), [**MailWineClub**](https://www.mailwineclub.co.uk/), [**MailTravel**](https://www.mailtravel.co.uk/), [**MailFinance**](https://www.mailfinance.co.uk/), [**MailExperiences**](https://www.mailexperiences.co.uk/)**,** [**MailBookshop**](https://books.mailshop.co.uk/)**,** [**The Mail (Mail Subscriptions)**](https://www.mailsubscriptions.co.uk/), [**The i**](https://www.dmgmedia.co.uk/brands/i/), [**inews**](https://www.dmgmedia.co.uk/brands/inews-co-uk/) and **[Eliza](https://eliza.co.uk/)**.
 
 These brands are all trading styles of **Associated Newspapers Ltd.** which is the controller of your personal data for the purposes of data protection law.
 
@@ -28,7 +30,7 @@ If you are a MyMail member and have linked your account with your Nectar account
 
 If you engage with certain online bargains, discounts, last-minute vouchers, best buys and/or similar promotional offers (“**Offers**”) made available on our websites, or make use of the DailyMail Extras extension for desktop web browsers (“**Extension**”), we shall process your data as joint controllers with Global Savings Group Ltd (“**GSG**”) and its affiliate CupoNation GmbH, who assist GSG as a marketing partner. GSG will handle your data in accordance with its [Privacy Policy](https://global-savings-group.com/privacy-policy/) and CupoNation GmbH will handle your data in accordance with its [Privacy Policy](https://www.cuponation.com/privacy-policy/) and [Cookie Policy](https://www.cuponation.com/cookie-policy/).
 
-### 3\. What kinds of information do we collect
+### 3\. What kinds of information do we collect?
 
 We use the term “personal information” – also called “personal data” in the laws of some states and countries – to refer to information that reasonably identifies, relates to, describes, or can be associated with you. Data that has been deidentified or that otherwise cannot reasonably be related back to a specific person is not considered personal information. Once we treat data as deidentified, we commit not to attempt to reidentify such information. The precise definition of personal information may vary depending on your state or country of residence, but we take the same approach to protecting your privacy.
 
@@ -40,9 +42,9 @@ We collect information such as your name, telephone number, address, email addre
 
 #### Subscription Services – Third Parties
 
-If you take out a subscription service for digital or paper products, we use third party companies to support us. They set you up with the subscriptions you want, on-line, print or both. These companies provide us with identity, entitlements, and subscriptions management, customer journey / audience conversion and personalisation services. The personal data that Piano, Stripe and HH&S collect on our behalf when you subscribe, creates an identity that may include your name, email, payment details (from credit/debit card or electronic payment systems, such as Apple Pay), password, newsletter preferences, payment tokens, address information and personal preferences. Piano will handle your personal data in accordance with its [Privacy Policy](https://piano.io/privacy-policy/) and [GDPR](https://piano.io/gdpr/) policy. You can also see the HH&S [Privacy Policy](https://www.subsaver.co.uk/Privacy) You can see the Stripe privacy Notice [here](https://stripe.com/privacy).
+If you take out a subscription service for digital or paper products, we use third party companies to support us. They set you up with the subscriptions you want, on-line, print or both. These companies provide us with identity, entitlements, and subscriptions management, customer journey / audience conversion and personalisation services. The personal data that Piano, Zephyr, Stripe and HH&S collect on our behalf when you subscribe, creates an identity that may include your name, email, payment details (from credit/debit card or electronic payment systems, such as Apple Pay), password, newsletter preferences, payment tokens, address information and personal preferences. Piano will handle your personal data in accordance with its [Privacy Policy](https://piano.io/privacy-policy/) and [GDPR](https://piano.io/gdpr/) policy. You can also see the HH&S [Privacy Policy](https://www.subsaver.co.uk/Privacy) You can see the Stripe privacy Notice [here](https://stripe.com/privacy).
 
-This information may be collected via your computer browser, an online web form, a data capture form, an app, by email, by telephone, or by post.
+This information may be collected via your device’s browser, an online web form, a data capture form, an app, by email, by telephone, or by post.
 
 When you visit our website or app, we shall create a unique identifier (“UID”) that allows us to recognise you when you use our website or apps, including if you log in from a different device or platform.
 
@@ -62,7 +64,7 @@ This may include:
 
 **Network/Connections:** Your IP address, so that we can recognise your geographical location.
 
-**Cookies:** Data from cookies or similar technologies placed on your device which tells us about your use of our websites and/or selected third party websites. Some cookies are also placed by third parties. Please see Section 17 on Cookies and other identifiers below for more information about our use of cookies and other similar technologies.
+**Cookies:** Data from cookies or similar technologies placed on your device which tells us about your use of our websites and/or selected third party websites. Some cookies are also placed by third parties. Please see Section 15 on Cookies and other identifiers below for more information about our use of cookies and other similar technologies.
 
 #### Information collected by the Extension.
 
@@ -70,15 +72,15 @@ This may include:
 
 **Access Data:** With regard to each of your visits to our websites and the URLs and domains you visit while the Extension is installed, GSG’s web servers record technical information which your browser automatically transmits. This includes the IP address used to connect your computer or mobile device to the internet (including in truncated form), the browser type and version you use, the operating system, date and time of your access, whether Java is on or off, whether cookies are accepted or rejected.
 
-**Usage Data:** GSG collects further information about your visit to our websites and your usage of its services and content and the URLs and domains you visit while Extension is installed. That information includes the full URL clickstream to, through and from the Extension (including date and time), visited sub-pages, information you searched for, response times, length of visits to certain pages, email openings and which banners or links on the website or in an email were clicked on, browsing activity (such as scroll positions, clicks and mouse movements), search queries, the URL of the website you visited immediately beforehand. GSG uses such data for a variety of purposes (e.g. to better understand your needs and preferences so that GSG can improve the Extension, its other services and their functions and to provide you with more relevant and interest-based contents.
+**Usage Data:** GSG collects further information about your visit to our websites and your usage of its services and content and the URLs and domains you visit while Extension is installed. That information includes the full URL clickstream to, through and from the Extension (including date and time), visited sub-pages, information you searched for, response times, length of visits to certain pages, email openings and which banners or links on the website or in an email were clicked on, browsing activity (such as scroll positions, clicks and mouse movements), search queries, the URL of the website you visited immediately beforehand. GSG uses such data for a variety of purposes (e.g. to better understand your needs and preferences so that GSG can improve the Extension, its other services and their functions and to provide you with more relevant and interest-based contents).
 
 **Device Data:** In case of Extension, screen size, time zone setting, and geographical identifiers.
 
 For more information on how GSG processes your information and how to exercise your rights, please visit GSG’s [Privacy Policy](https://global-savings-group.com/privacy-policy/).
 
-#### Posting comments on articles
+#### Posting comments
 
-When you comment on an article, the information you post and your username are publicly accessible. This information can be viewed and collected by other people. We strongly suggest you avoid sharing any personal details, and especially information that can be used to identify you directly such as your name, age, address and name of employer in your comments. We are not responsible for the privacy of the information you make publicly accessible via the comments section. Please see our Terms and House Rules for more information.
+When you comment on an article or otherwise post content via features that we make available on our website (including message boards, blogs, and other public forums, as described in Section 5 of this Privacy Policy), the information you post and your username are publicly accessible. This information can be viewed and collected by other people. We strongly suggest that you avoid using any personal details to create your username or otherwise sharing any personal details (especially information that can be used to identify you directly such as your name, age, address and name of employer). We are not responsible for the privacy of the information you make publicly accessible via the comments section. Please see our Terms and House Rules for more information.
 
 #### Information about transactions made
 
@@ -92,7 +94,7 @@ We may overlay demographic and lifestyle data from CACI to help us understand wh
 
 #### Social media
 
-If you log-in to our websites through a social media site, such as Facebook, Twitter or Google, you are granting permission to such company to share your user information with us. This will include your name and email address plus any other information you have permitted them to share with third parties. If you remove our website from your Facebook, Twitter or Google account, we shall no longer have access to this information.
+If you log-in to our websites through a social media site, such as Facebook, X (f/k/a Twitter) or Google, you are granting permission to such company to share your user information with us. This will include your name and email address plus any other information you have permitted them to share with third parties. If you remove our website from your Facebook, X (f/k/a Twitter) or Google account, we shall no longer have access to this information.
 
 We use plugins from social media networks and other platforms on our websites, that may allow you to share content with these networks/platforms or use their services on our websites. For more information, please see Section 7 of this Policy.
 
@@ -137,27 +139,21 @@ We use personal information for journalistic activities to support a free press 
 
 ##### Legal basis for these processing activities: Legitimate interests
 
-#### Message boards, blogs and other public forums
+#### Comment services, message boards, blogs and other public forums
 
-Our websites may provide message boards, blogs and other user generated content facilities. Anything that you share will become public information. You should always be careful when deciding to disclose your personal information. Please see our Terms and House Rules for more information.
+Our websites may provide functionality to comment on articles, as well as message boards, blogs and other user generated content facilities. Anything that you share will become public information. You should always be careful when deciding to disclose your personal information. We process your registration data and any comments or content that you voluntarily submit in accordance with our legitimate interests in providing users with the ability to comment on articles and use other user content features that we make available. The information you post and your username are publicly accessible and can be viewed and collected by other people. We strongly suggest you avoid sharing any personal details, and especially information that can be used to identify you directly such as your name, age, address and name of employer in your comments. We are not responsible for the privacy of the information you make publicly accessible via the comments section. Please also see the information in Section 3 about posting comments and content for more information about protecting your privacy when you use these features.
 
-##### Legal basis for these processing activities: Consent (if requested) or legitimate interests
+Use of our comments functionality and other services mentioned above is also subject to our Terms ([https://www.dailymail.co.uk/terms](https://www.dailymail.co.uk/terms)) and House Rules ([https://www.dailymail.co.uk/home/article-1388145/House-Rules.html](https://www.dailymail.co.uk/home/article-1388145/House-Rules.html)).
 
-#### Comment Moderation
+We use a third-party service provider, OpenWeb Technologies Ltd, to provide some of these features and to moderate comments and content, but we remain the data controller in respect of this activity.
 
-We monitor comments for offensive/objectionable content and disruptive behaviour that breach our Terms.
+##### Legal basis for these processing activities: Legitimate interests (or consent if required)
+
+#### User Content Moderation
+
+We monitor comments and any other content that you post via our comment services, message boards, blogs and other user generated content facilities for offensive/objectionable content and disruptive behaviour that breach our Terms.
 
 ##### **Legal basis for these processing activities: Legitimate interests**
-
-#### Comment Services
-
-Where we provide you with functionality to comment on an article, you will need to create an account with us to use the comment functionality. We process your registration data and any comments that you voluntarily submit in accordance with our legitimate interests in providing users with the ability to comment on articles. The information you post and your username are publicly accessible and can be viewed and collected by other people. We strongly suggest you avoid sharing any personal details, and especially information that can be used to identify you directly such as your name, age, address and name of employer in your comments. We are not responsible for the privacy of the information you make publicly accessible via the comments section.
-
-Our comments functionality is also subject to our [Terms](https://www.dailymail.co.uk/home/article-1388146/Terms.html) and [House Rules](https://www.dailymail.co.uk/home/house_rules.html). We will monitor and moderate comments, including for offensive/objectionable content and disruptive behaviour.
-
-We use a third-party service provider, OpenWeb Technologies Ltd, to provide our comment functionality and to moderate comments, but we remain the data controller in respect of this activity.
-
-##### Legal basis for these processing activities: Legitimate interests
 
 #### Delivering services
 
@@ -195,9 +191,11 @@ This content may be retained and reused by us for later business purposes (for e
 
 In accordance with your preferences and data protection legislation, we may use your information, including your name, email address, and phone number, to send you direct marketing communications, newsletters and to carry out marketing analysis.
 
+Our marketing communications may be personalised to you, meaning that we may select content that is most suited to you or that you are most likely to engage with. For further information, please see the next section (“**Personalisation / identifying your interests / audience segmentation / audience conversion / ecommerce activities**”).
+
 This may include communications by email, post, telephone, SMS or app notifications about our products and services, events and special offers. This also includes browser push notifications where you have consented to receiving these. We may also send you periodic emails to inform you about the any changes to our products and services where we have permission to do so.
 
-In relation to email marketing communications, we may send you such communications when we have your consent, or when you are an existing customer who has previously bought or subscribed to a similar product or service from us. You may opt out of email marketing communications when your personal information is first collected as part of that purchase or subscription.
+Where we send these email marketing communications by email, we may send you such communications when we have your consent, or when you are an existing customer who has previously bought or subscribed to a similar product or service from us. You may opt out of email marketing communications when your personal information is first collected as part of that purchase or subscription.
 
 You may also unsubscribe from receiving email marketing or newsletters at any time by clicking the “unsubscribe” link at the bottom of each email. If you unsubscribe from email marketing or newsletters, we shall keep your email address to ensure that we do not send you any marketing in future.
 
@@ -205,11 +203,11 @@ You may also unsubscribe from receiving email marketing or newsletters at any ti
 
 #### Personalisation / identifying your interests / audience segmentation / audience conversion / ecommerce activities
 
-We use your information, including your UID, to provide you with a greater personalised experience when you visit or use one of our sites or apps, and for insight and marketing purposes.
+We use your information, including your UID and Usage Data, as described below, to provide you with a greater personalised experience when you visit or use one of our sites or apps, and for insight and marketing purposes.
 
-We make assumptions and draw inferences about your interests based on the kind of articles and content you click on or read.
+We make assumptions and draw inferences about attributes and your interests based on the kind of articles and content you click on or read. We may also assess your level of engagement with our articles and content.
 
-We use this information to segment our audiences into groups with attributes. This helps us show you more relevant content/adverts and helps our advertisers target more effectively.
+We use this information to divide (or “segment”) our users and customers into groups that are likely to share certain attributes or interests (these groups are also known as “audiences”). This helps us show you more relevant content/adverts and helps our advertisers target more effectively. It also helps to assist us in our marketing efforts by ensuring that our marketing communications are sent to those people who are most likely to engage with our content.
 
 Our partner, Piano, assists us in understanding user journeys (e.g. which pages our users are visiting the most, which pages lead to the greatest audience conversion, etc.), user session length on our website/app, testing the effectiveness of our marketing campaigns, and optimising our website/app based on audience data. Please see Piano’s [Privacy Policy](https://piano.io/privacy-policy/) and [GDPR](https://piano.io/gdpr/) policy.
 
@@ -219,7 +217,7 @@ Please note you have the right to object to profiling for marketing purposes at 
 
 #### Cookie Matching
 
-Where you have given consent, we check to see if you have a cookie ID when you visit one of our properties. We are then able to compare the cookie ID we have to see if we know who you are. See Section 14 on Cookies for more information.
+Where you have given consent, we check to see if you have a cookie ID when you visit one of our properties. We are then able to compare the cookie ID we have to see if we know who you are. See Section 15 on Cookies for more information.
 
 ##### Legal basis for this processing activity: Consent
 
@@ -231,13 +229,13 @@ The data overlap between our audiences and these partners is useful to understan
 
 As part of the matching process, we segment audiences based on predefined attributes. These audiences may be similar to our partners’ existing audiences and are therefore called “lookalike audiences”. For example, a female fashion brand may want to reach “women interested in fashion”. This helps them find the right audiences and we are able to show you more relevant advertising.
 
-You may amend your settings in order to avoid UID matching taking place in the future by contacting us (see Section 20 below) or by adjusting your account settings.
+You may amend your settings in order to avoid UID matching taking place in the future by contacting us (see Section 18 below) or by adjusting your account settings.
 
 ##### Legal basis for this processing activity: Consent (if requested) or legitimate interests
 
 #### Tailored advertising
 
-We use advertising to fund some of our websites and apps. Some advertising is ‘contextual’ meaning it is shown due to the particular webpage you are presently viewing. Other advertising, known as “online behavioural advertising” is shown to you based upon your likely interests, which are inferred from your browsing history. This information is collected through the use of cookies and similar technologies or your UID. For more information on controlling your tailored advertising preferences, please see Section 17 on Cookies below.
+We use advertising to fund some of our websites and apps. Some advertising is ‘contextual’ meaning it is shown due to the particular webpage you are presently viewing. Other advertising, known as “online behavioural advertising” is shown to you based upon your likely interests, which are inferred from your browsing history. This information is collected through the use of cookies and similar technologies or your UID. For more information on controlling your tailored advertising preferences, please see Section 15 on Cookies below.
 
 Sometimes we allow advertisers to show advertisements directly on our website and apps, which are tailored to you based upon information they have obtained, such as your browsing history on their own websites.
 
@@ -410,9 +408,9 @@ We receive no personal data from the social media companies about which articles
 
  **Ipsos Iris Online Audience Measurement Solution**: When you visit our website, we may collect certain personal data about you for an online audience measurement project that analyses internet users’ behaviour and profile across different websites, applications and devices in the UK. In order to do this, our website will contain tags which is a script used to gather personal data on a website; this means when visiting the site, we can record the amount of active time spent on each web page by each user and will be reported by type of device.
 
-We will also use digital fingerprint technology, also known as "**Machine Identification**", to gather certain information about your computer, hardware and software, such as: IP address, unique device identifier, display settings of your monitor, type of browser used and type of operating system. This information will be converted into a unique serial number (the digital "fingerprint") and determines if it matches previous fingerprints.
+We will also use digital fingerprint technology, also known as "**Machine Identification**", to gather certain information about your device, hardware and software, such as: IP address, unique device identifier, display settings of your monitor, type of browser used and type of operating system. This information will be converted into a unique serial number (the digital "fingerprint") and determines if it matches previous fingerprints.
 
-Ipsos MORI, a specialist research agency will be carrying out this research, in conjunction with UKOM, the UK Online Measurement company. To carry out this research, Ipsos MORI and their trusted partner, DotMetrics, will need to receive the information gathered about your computer, hardware, software and webpage activity in order to carry out the research and analysis. This information will only be shared with Ipsos MORI and DotMetrics, if we have obtained the relevant consent from you when you initially accessed our website.
+Ipsos MORI, a specialist research agency will be carrying out this research, in conjunction with UKOM, the UK Online Measurement company. To carry out this research, Ipsos MORI and their trusted partner, DotMetrics, will need to receive the information gathered about your device, hardware, software and webpage activity in order to carry out the research and analysis. This information will only be shared with Ipsos MORI and DotMetrics, if we have obtained the relevant consent from you when you initially accessed our website.
 
 Please be assured that Ipsos MORI takes its data protection and information security responsibilities seriously and applies various precautions to ensure your personal data is protected from loss, theft or misuse. Your personal data will only be used for research and analysis purposes in line with the [Market Research Society Code of Conduct](https://www.mrs.org.uk/standards/code-of-conduct) and associated regulations and guidelines. All reporting for this research will be anonymous. Ipsos MORI will only retain your personal data in a way that can identify you for as long as is necessary to support the research project and findings.
 
@@ -436,8 +434,8 @@ Facilitation of the Advertising served on GB News’ website is conducted under 
 
 In certain circumstances, for example if you are a UK or EEA resident, you may exercise the rights available to you (with some exceptions and restrictions) under the UK or the EU data protection laws as follows:
 
-* **Access:** If you wish to exercise your right to access a free copy of your data, you can contact us, or our joint controllers, at the contact details provided below at Section 20.
-* **Portability:**: If you wish to receive personal data that you have provided to us in a structured, commonly used and machine-readable format, or transmit this data directly to another controller, please contact us, or our joint controllers, at the contact details provided below. Please note that this right applies only to the information that is processed by automated means, on the basis of consent or performance of a contract.
+* **Access:** If you wish to exercise your right to access a free copy of your data, you can contact us, or our joint controllers, at the contact details provided below at Section 18.
+* **Portability:** If you wish to receive personal data that you have provided to us in a structured, commonly used and machine-readable format, or transmit this data directly to another controller, please contact us, or our joint controllers, at the contact details provided below. Please note that this right applies only to the information that is processed by automated means, on the basis of consent or performance of a contract.
 * **Deletion:** To ask us to delete your personal data, please contact us, or our joint controllers, at the contact details provided below. However, there may be circumstances where we are legally entitled to retain certain data.
 * **Rectification**: If you wish to update or rectify your data, you can do this directly by accessing your account settings.
 * **Restriction:** To request the restriction or suppression of your personal data, please contact us, or our joint controllers, at the contact details provided below.
@@ -449,20 +447,20 @@ In certain circumstances, for example if you are a UK or EEA resident, you may e
 
 #### Exercising Your Rights
 
-To exercise your rights under the GDPR, please contact us, or our joint controllers, at the contact details provided below in Section 20, indicating the type of right you would like to exercise and that you are making the request under the GDPR. In case of requests for deletion, please note there may be circumstances where we are legally entitled to retain certain data (see Section 15 _Data retention and account deletion_).
+To exercise your rights under the GDPR, please contact us, or our joint controllers, at the contact details provided below in Section 18, indicating the type of right you would like to exercise and that you are making the request under the GDPR. In case of requests for deletion, please note there may be circumstances where we are legally entitled to retain certain data (see Section 13 _Data retention and account deletion_).
 
 We may seek to verify the identity of the person submitting the request.
 
 Where you are making a request via a third party, we need to be satisfied that the third party making the request is entitled to act on your behalf and may ask the third party to provide evidence of this entitlement. If we are satisfied that the third party has the appropriate authority, we will respond directly to that third party.
 
-### 11\. Your rights under the CCPA (for California residents only)
+### 11\. Your rights under certain U.S. State Laws
 
-This section of the Policy applies solely to visitors, users, and others who are residents of the State of California. The California Consumer Privacy Act (“**CCPA**”) and the California Privacy Rights Act of 2020 (“**CPRA**”), collectively referred to as “**California Consumer Privacy Laws**,” provide California consumers with specific rights regarding their personal information. This section describes your rights under the California Consumer Privacy Laws, explains how you can exercise those rights, and provides an overview of the types of personal information we collect.
+This section of the Policy applies solely to visitors, users, and others who are residents of California, Virginia, Colorado, Connecticut, Utah, Texas, Oregon, Montana, Delaware, Iowa, Nebraska, New Hampshire, New Jersey, Tennessee, Minnesota, Maryland or another U.S. State with a similar comprehensive consumer privacy law (collectively, “Covered States”). You may have specific rights regarding your personal information under: the California Consumer Privacy Act (“CCPA”), Virginia Consumer Data Protection Act, Colorado Privacy Act, Connecticut Data Privacy Act, Utah Consumer Privacy Act, Texas Data Privacy and Security Act, Oregon Consumer Privacy Act, Montana Consumer Data Privacy Act, New Hampshire Data Privacy Act, Delaware Personal Data Privacy Act, Iowa Consumer Data Protection Act, Nebraska Data Privacy Act, New Jersey Data Protection Act, Tennessee Information Protection Act, Minnesota Consumer Data Privacy Act, Maryland Online Data Privacy Act, or similar laws in other U.S. States (collectively, "State Privacy Laws"). This section describes your rights under the State Privacy Laws, explains how you can exercise those rights, and provides an overview of the types of personal information we collect. To be clear, these rights are granted only to the extent that you are considered a consumer of Covered State and we are acting as a “controller” or “business” (as applicable) under State Privacy Laws with respect to your personal information.
 
-Under the California Consumer Privacy Laws you have the following rights :
+Under the State Privacy Laws you may have the following rights:
 
-* **Right to know**. You have the right to know about the categories and the specific personal information that we may collect, the purposes for collecting that personal information, the categories of third parties to whom we may disclose that personal information and whether we disclose personal information for business purposes or for commercial purposes that would be considered a “sale” under the California Consumer Privacy Laws .
-* **Right to data portability**. You have the right to **request** a copy of the personal information we have collected and maintained about you during the 12 months preceding the request.
+* **Right to know**. You have the right to know about the categories and the specific personal information that we may collect, the purposes for collecting that personal information, the categories of third parties to whom we may disclose that personal information and whether we disclose personal information for business purposes or for commercial purposes that would be considered a “sale” or “share” under the State Privacy Laws. If you are a resident of Delaware, you also have the right to obtain a list of the categories of third parties to which we have disclosed personal information of Delaware consumers.
+* **Right to data portability**. You have the right to obtain a copy of your personal information that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another business without hindrance, where the processing is carried out by automated means.
 
 Upon receipt of a valid and verifiable request from you, we shall disclose to you both the categories and specific pieces of personal information we have collected about you, the categories of sources from which the personal information is collected, the business or commercial purpose for collecting that personal information, the categories of third parties which whom we share that information.
 
@@ -471,37 +469,45 @@ You have a right to receive the above twice per year. If we provide the informat
 * **Right to delete.** You have the right to request that we delete any personal information that we have collected from you unless retention of that information is permitted under applicable law. Please note that if you request deletion of your personal information, we may deny your request or may retain certain elements of your personal information if it is necessary for us or our vendors to:
     * Complete the transaction for which the personal information was collected, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between our business and you.
     * Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity.
-    * Debug to identify and repair errors that impair existing intended functionality.
+    * Debug to identify and repair errors that impair existing or intended functionality.
     * Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law.
-    * Comply with the California Electronic Communications Privacy Act pursuant to Chapter 3.6 (commencing with Section 1546) of Title 12 of Part 2 of the Penal Code.
     * Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the deletion of the information is likely to render impossible or seriously impair the achievement of such research, if you have provided informed consent.
     * To enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us.
     * Comply with a legal obligation.
     * Otherwise use the personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
 * **Right to correct**. You have the right to request the correction of any personal information we maintain about you.
-* **Right to opt-out of the sale or sharing**. You have the right to opt out of the sale or sharing of your personal information, along with the right to later opt in to the sale of such information.
+* **Right to opt-out**. You have the right to opt out of the processing of your personal information for purposes of: (i) targeted advertising (or “share”, as defined under the CCPA); (ii) the sale of personal information for monetary consideration; or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you, unless you reside in Iowa or Utah. As of the latest date of this notice:
+    * • We DO process personal data and "share” it with third parties for the purposes of targeted advertising;  
+        • We DO NOT “sell” personal data under State Privacy Laws for monetary consideration;  
+        • We DO NOT engage in profiling decision based on your personal data that produce legal or similarly significant effects concerning you.
 
-You can opt-out of the sale of your personal information by opening our [California Privacy Settings](#) tool and clicking on the “**Do Not Sell or Share My Personal Information**” button at any time. This will opt-you out of cookie placement and the collection of your data by online advertising service providers. We will also treat Global Privacy Control browser signals as opt-out of sale/share requests.
+You can exercise such opt-out rights by opening our [Privacy Settings](#) tool by clicking on the “**Do Not Sell or Share My Personal Information**” button at any time. This will opt-you out of cookie placement and the collection of your data by online advertising service providers. We will also treat Global Privacy Control browser signals as opt-out of sale/share requests. You can also exercise your data rights by going to our [FAQ](https://www.mailplus.co.uk/info/28658/help-faqs) page and selecting the following DailyMail+ US: DailyMail+ US: My Data.
 
 #### Exercising Your Rights
 
-To exercise your rights under the California Consumer Privacy Laws, please contact us, or our joint controllers, at the contact details provided below in Section 20, indicating the type of right you would like to exercise and that you are making the request under the California Consumer Privacy Laws.
+To exercise your rights under the State Privacy Laws, please contact us, or our joint controllers, at the contact details provided below in Section 18, indicating the type of right you would like to exercise and that you are making the request under the State Privacy Laws.
 
-In order to process your deletion and/or access request, we are required by law to collect certain information about you to verify your identity. For example, if you have an account with us, you can use your account information to verify. If, however, we cannot verify your identity from the information already maintained by us, we may request additional information from you, which shall only be used for the purposes of verifying your identity under the California Consumer Privacy Laws , and for security or fraud-prevention purposes, such as a passport or driver’s license.
+In order to process your deletion and/or access request, we are permitted by law to collect certain information about you to verify your identity. For example, if you have an account with us, you can use your account information to verify. If, however, we cannot verify your identity from the information already maintained by us, we may request additional information from you, which shall only be used for the purposes of verifying your identity under the State Privacy Laws, and for security or fraud-prevention purposes, such as a passport or driver’s license.
 
-A consumer may use an authorised agent to submit a request on their behalf if the consumer provides the authorised agent written permission signed by the consumer. We may also require that the consumer verify their identity directly with us and confirm that they have provided the authorised agent permission to act on their behalf.
+A consumer in California, Colorado, Connecticut, Delaware, Nebraska, Montana, New Hampshire, New Jersey, Oregon, and Texas consumer and elsewhere as permitted by State Privacy Laws has the right to use an authorised agent to submit a request on their behalf if the consumer provides the authorised agent written permission signed by the consumer. We may also require that the consumer verify their identity directly with us and confirm that they have provided the authorised agent permission to act on their behalf.
 
-We will make every effort to respond to your request within 45 days from when you contacted us. If you have a complex request, the California Consumer Privacy Laws allow us up to 90 days to respond. We will still contact you within 45 days from when you contacted us to let you know we need more time to respond.
+We will make every effort to respond to your request within 45 days from when you contacted us. If you have a complex request, the State Privacy Laws allow us up to 90 days to respond. We will still contact you within 45 days from when you contacted us to let you know we need more time to respond.
 
-We will not discriminate against you because you have exercised your rights under the California Consumer Privacy Laws .
+If we decline to take action on a request that you have submitted, we will inform you of our reasons for doing so and provide instructions for how to appeal the decision. Depending on your state of residence you may have the right to appeal within a reasonable period of time after you have received our decision. If you have used this appeal right, within 60 days (45 days for residents of Colorado) of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If we deny your appeal, we will provide you with a method for contacting your state attorney general’s office to submit a complaint.
+
+* **Right to nondiscrimination**. You have the right not to receive discriminatory treatment by us for the exercise of your privacy rights. Unless permitted by the State Privacy Laws, we will not:
+    * Deny you goods or services;
+    * Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties;
+    * Provide you a different level or quality of goods or services; or
+    * Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
 
 #### Explicit Notice
 
 We and our advertising partners collect personal information (such as the cookies stored on your browser, the advertising identifier on your mobile device, or the IP address of your device) when you visit our site or use our app. We, and our third-party business partners, use this information to tailor and deliver ads to you on our site or app, or to help tailor ads to you when you visit others’ sites or use others’ apps. To tailor ads that may be more relevant to you, we and/or our partners may share the information we collect with third parties.
 
-If you do not wish for us or our partners to use and disclose your personal information to third parties in this manner, which is considered a “sale” under the California Consumer Privacy Laws, select the applicable control from the “Do Not Sell or Share My Personal Information” [link](#).
+If you do not wish for us or our partners to use and disclose your personal information to third parties in this manner, which may be considered a “sale” under certain State Privacy Laws, select the applicable control from the “**Do Not Sell or Share My Personal Information**” [link](#).
 
-Please note that although we shall not sell your personal information after you click that button, we shall continue to share some personal information with our partners (who will function as our service providers in such instance) to help us perform advertising-related business functions such as, but not limited to:
+Please note that although we shall not sell your personal information after you click that button, we shall continue to share some personal information with our partners (who will function as our service providers or processors in such instance) to help us perform advertising-related business functions such as, but not limited to:
 
 * measuring the effectiveness of our ads;
 * managing how many times you may see an ad;
@@ -513,17 +519,11 @@ Please note that although we shall not sell your personal information after you 
 
 If you access this site or app from other devices or browsers, visit the link below from those devices or browsers to ensure your choice applies to the data collected when you use those devices or browsers. If you use different browsers, devices or platforms, you will need to opt out on each browser, device or platform.
 
-Additionally, although clicking the “Do Not Sell or Share My Personal Information” [link](#) will opt you out of the sale of your personal information for advertising purposes, it will not opt you out of the use of previously collected and sold personal information or all context-based advertising.
+Additionally, although clicking the “**Do Not Sell or Share My Personal Information**” [link](#) will opt you out of the sale of your personal information for advertising purposes, it will not opt you out of the use of previously collected and sold personal information or all context-based advertising.
 
 #### Personal Information We Collect
 
-The California Consumer Privacy Laws define personal information as information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with a particular consumer or household. Personal information does not include:
-
-* Information that is lawfully made available from federal, state, or local government records;
-* De-identified or aggregated information; and
-* Information excluded from the California Consumer Privacy Laws such as health or medical information covered under the Health Insurance Portability and Accountability Act of 1996 (“HIPAA”) and financial information covered under the Fair Credit Reporting Act (“FCRA”) or Gramm-Leach Bliley Act (“GLBA”).
-
-Information regarding our collection, use and disclosure of personal information are detailed elsewhere in this Policy. To help consumers make informed privacy decisions, the California Consumer Privacy Laws create and define categories of personal information, and our practices regarding personal information are organized below into the aforementioned categories. Please note that some types of personal information may apply to multiple categories.
+Information regarding our collection, use and disclosure of personal information are detailed elsewhere in this Policy. To help consumers make informed privacy decisions, the State Privacy Laws create and define categories of personal information, and our practices regarding personal information are organized below into the aforementioned categories. Please note that some types of personal information may apply to multiple categories.
 
 In the past 12 months, we have collected the categories of personal information described in Table 1 below for the business or commercial purpose(s) indicated. Depending on your level of interaction with us, we may not have collected your personal information from all of the categories.
 
@@ -541,7 +541,7 @@ In the past 12 months, we have collected the categories of personal information 
 
 **Table 2: How We Use and Disclose Your Personal Information**
 
-Table 2 below describes the sources for each category of personal information we collect, the entities to whom we (i) may disclose your personal information; (ii) we may sell your personal information; and (iii) with whom we may share your personal information for cross-context behavioural advertising.
+Table 2 below describes the sources for each category of personal information we collect, the entities to whom we (i) may disclose your personal information; (ii) we may sell your personal information; and (iii) with whom we may share your personal information for cross-context behavioural advertising and targeted advertising.
 
 |     |     |     |
 | --- | --- | --- |
@@ -555,43 +555,9 @@ Table 2 below describes the sources for each category of personal information we
 
 #### California “Shine the Light”
 
-Under California Civil Code Section 1798.83 (“**Shine the Light**”), if you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email at the contact details provided below in Section 20, and indicate that you are a California resident making a “Shine the Light” inquiry. Requests are free of charge.
+Under California Civil Code Section 1798.83 (“**Shine the Light**”), if you reside in California, you have the right to ask us one time each year if we have shared personal information with third parties for their direct marketing purposes. To make a request, please send us an email at the contact details provided below in Section 18, and indicate that you are a California resident making a “Shine the Light” inquiry. Requests are free of charge.
 
-### 12\. Your Virginia and other state privacy rights
-
-This section of the Policy applies solely to visitors, users, and others who are residents of the Commonwealth of Virginia, describes your Virginia Consumer Data Protection Act (“**VCDPA**”) rights and explains how you can exercise those rights. We will also apply similar VCDPA rights to residents of other U.S. states with similar laws to which you and we are both subject.
-
-The categories of personal information we process, our purposes for processing your personal information, the categories of personal information that we share with third parties and the categories of third parties with whom we share it are detailed above in this Policy.
-
-Certain rights that you may have concerning your personal information are set forth in this Policy. The VCDPA provides you with the following additional rights:
-
-* **Right to know**. You have the right to know whether we process your personal information and to access such personal information.
-* **Right to data portability**. You have the right to obtain a copy of your personal information that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another business without hindrance, where the processing is carried out by automated means. You may request such personal information up to twice annually, subject to certain exceptions.
-* **Right to delete**. You have the right to delete personal information that you have provided by or that we have obtained about you. Please note that we may deny such request if the requested deletion falls under an exception to this right set forth in the VCDPA. Additionally, if you request deletion of your personal information and we have obtained such information from a third-party source, we may retain such data by keeping a record of the deletion request and the minimum data necessary to ensure that your personal information remains deleted from our records and that such retained data is not used for any other purpose, or we may opt you out of the processing of such personal information for any purpose except for those allowed under the VCDPA.
-* **Right to correct**. You have the right to correct inaccuracies in the personal information we collect from you, taking into account the nature of the personal information and the purposes for which we process it.
-* **Right to opt out of selling or sharing**. You have the right to opt out of the processing of the personal information for purposes of (i) targeted advertising, (ii) the sale of personal information, or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you. If you wish to opt out of the processing of your personal information for any of the purposes set forth in this sub-section, please see our [Virginia Privacy Settings](#) tool and click on the “**Do Not Sell or Share My Personal Information**” button at any time.
-
-#### Exercising Your Rights
-
-To exercise your rights under the VCDPA, please contact us, or our joint controllers, at the contact details provided below in Section 20, indicating the type of right you would like to exercise and that you are making the request under the VCDPA. In case of requests for deletion, please note there may be circumstances where we are legally entitled to retain certain data (see Section 15 Data retention and account deletion).
-
-After submitting a request, we will take steps to verify your identity in order for us to properly respond and/or confirm that it is not a fraudulent request. In order to verify your identity, we will request, at a minimum, that you provide your name, email address, phone number, address, and relationship to us, so that we can seek to match this information with the information existing in our systems. When providing us this information, you represent and affirm that all information provided is true and accurate. If we are unable to verify using reasonably commercial efforts that the consumer submitting the request is the same individual about whom we have collected personal information, then we are not required to comply with the request; we may contact you for more information reasonably necessary to authenticate the request, but ultimately we may not be able to meet your request.
-
-Only you may make a verifiable request related to your personal information. If you are making a request as the parent or legal guardian of a known child regarding the processing of that child’s personal information, we may ask you to submit reliable proof of your identity.
-
-We will make every effort to respond to your request within 45 days from when you contacted us. If you have a complex request, the VCDPA allows us up to 90 days to respond. We will still contact you within 45 days from when you contacted us to let you know we need more time to respond and the reason for the extension.
-
-We shall not discriminate against you because you have exercised your rights under the VCDPA.
-
-#### Your Right to Appeal
-
-If we decline to take action regarding a request that you have submitted, we will inform you of our reason for declining to take action and provide instructions for how to appeal the decision. In the event that we do not respond to a request that you make pursuant to one of the privacy rights set forth in this section, you have the right to appeal our refusal to take action within a reasonable period of time after you receive our decision. Within 60 days of our receipt of an appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If the appeal is denied, we will also provide you with an online mechanism, if available, or other method through which you may contact the Attorney General to submit a complaint.
-
-### 13\. Your Nevada privacy rights
-
-If you are a resident of Nevada, you have the right to opt-out of the sale of certain personal information to third parties who intend to license or sell that personal information. You can exercise this right by contacting us, or our joint controllers, at the contact details provided below in Section 20, with the subject line “Nevada Do Not Sell Request” and providing us with your name and the email address associated with your account.
-
-### 14\. Your rights under the LGPD
+### 12\. Your rights under the LGPD
 
 This section describes your rights under the Brazil general data protection law (“**LGPD**”) and explains how you can exercise those rights.
 
@@ -604,7 +570,7 @@ This section of the Policy applies to:
 
 In certain circumstances, for example if you are a Brazil resident, you may exercise the rights available to you (with some exceptions and restrictions) under the LGPD. Please see Section 10 above for details of the rights of information, access, portability, deletion, correction, revoke consent for direct marketing and opt-out of online behavioural advertising. Also, see Section 10 above for details of how to exercise your rights. Please include in your request that you are making your request under the LGPD.
 
-### 15\. Data retention and account deletion
+### 13\. Data retention and account deletion
 
 We store your data for no longer than necessary in relation to the purpose under which such data was collected. This is determined on a case by case basis and depends on things such as the nature of the data provided, why it was collected, the legal basis we rely upon to process the data, and our relevant legal or operation retention requirements. For example, if you request to delete your account, we still have to retain some data for fraud prevention purposes and financial auditing.
 
@@ -612,7 +578,7 @@ Please note that we evaluate deletion requests against our processing for the pu
 
 Please see our [Terms](https://www.dailymail.co.uk/home/article-1388146/Terms.html) and [House Rules](https://www.dailymail.co.uk/home/house_rules.html) for more information.
 
-### 16\. Children and young people
+### 14\. Children and young people
 
 Our websites, apps and other products and services are not aimed at children. We do not intentionally target, or otherwise process information from individuals who are under the age of 16.
 
@@ -624,7 +590,7 @@ If you are a parent or guardian of a child under 16, please contact us, or our j
 
 In accordance with industry best practice guidelines, we may retain your information for a reasonable amount of time to make sure that we do not contact you in the future.
 
-### 17\. Cookies and other identifiers
+### 15\. Cookies and other identifiers
 
 When you use our websites and apps or interact with our emails, we may collect information using cookies or similar technologies. We may also collect information using your email address. For the purposes of this section, we use the word “**cookies**” for simplicity.
 
@@ -694,7 +660,7 @@ We also use these cookies in order to:
 
 **Ad-blockers:** We and our advertisers may use information from within our webpages to determine whether you have an ad-blocker enabled. This information may be stored or associated with your device (including through the use of cookies) to re-insert advertisements on our websites and to understand how our customers use ad-blockers. The advertisements that are re-inserted may include those from ad-blockers’ “white lists” or that promote our own products and services. We reserve the right to restrict your access to some or all of our website while you have an ad blocker turned on.
 
-**Do Not Track:** Our websites do not respond to “**Do Not Track**” browser settings; however, we treat Global Privacy Control signals as an opt-out of selling or sharing of personal information under the California Consumer Privacy Laws, and as opt-out of processing for targeted advertising requests under the VCDPA.
+**Do Not Track:** Our websites do not respond to “**Do Not Track**” browser settings; however, we treat Global Privacy Control signals as an opt-out of selling or sharing of personal information or targeted advertising under the State Privacy Laws.
 
 **Managing Cookies:** You can change your cookie settings on this website at any time via your [Privacy Settings](#). Please note that this consent tool is not supported on certain versions of Internet Explorer. Please change your browser in order to exercise your rights under the UK GDPR or the EU GDPR.
 
@@ -703,7 +669,7 @@ Cookies can also be controlled using the following instructions:
 * **Mobile Devices**: When using a mobile device, you can opt-out of receiving online behavioural advertising by selecting “**Limit Ad Tracking**” in the Settings of your Apple iPhone or iPad, or the “**Opt out of interest-based ads**” in the Settings on your Android device. You may also be able to reset your unique identifier used for online behavioural advertising (referred to as an “**Advertising ID**”) in the Settings on your Apple or Android device.
 * **Online Behavioural Advertising cookies:**: If you are primarily concerned about third party cookies generated by advertisers, you can turn these off by going to [Your Online Choices](https://www.youronlinechoices.com/uk/).
 * **Web-Beacons:** You can usually prevent the operation of web-beacons by changing your web-browser [Privacy Settings](#) and your ad choices, or for those in emails, by switching off images in your email client or viewing emails using only the “text” display (rather than “HTML” display’). See the “Help” section of your email client for instructions. Please see the [All About Cookies](https://www.allaboutcookies.org/) website for further information about managing your options.
-* You can also visit the trade body representing these advertising platforms where you can control your third-party online advertising preferences by going to th [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!%2F).
+* You can also visit the trade body representing these advertising platforms where you can control your third-party online advertising preferences by going to the [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!%2F).
 * **Browsers:** The links below take you to the help sections for each of the major browsers that will tell you how you can manage your cookies:
     * [Firefox](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectlocale=en-US&redirectslug=enable-and-disable-cookies-website-preferences)
     * [Internet Explorer](https://support.microsoft.com/en-us/topic/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d)
@@ -721,21 +687,21 @@ Where you use our apps, similar technologies to cookies are used for analytics, 
 
 Please also note that after applying these settings, you will continue to receive advertising, however, it may not be tailored to your likely interests using information collected from cookies and similar technologies on your device.
 
-### 18\. How we protect your personal information
+### 16\. How we protect your personal information
 
 Personal information is maintained on our servers or those of our vendors, and is accessible by authorized employees, representatives, and agents as necessary for the purposes described in this privacy policy.
 
-We use reasonable and appropriate physical, technical, and organizational safeguards designed to promote the security of our systems and protect the confidentiality, integrity, availability, and resilience of personal information. \[Those safeguards include: (i) the pseudonymization and encryption of personal information where we deem appropriate; (ii) taking steps to ensure personal information is backed up and remains available in the event of a security incident; and (iii) periodic testing, assessment, and evaluation of the effectiveness of our safeguards.\]
+We use reasonable and appropriate physical, technical, and organizational safeguards designed to promote the security of our systems and protect the confidentiality, integrity, availability, and resilience of personal information. Those safeguards include: (i) the pseudonymization and encryption of personal information where we deem appropriate; (ii) taking steps to ensure personal information is backed up and remains available in the event of a security incident; and (iii) periodic testing, assessment, and evaluation of the effectiveness of our safeguards.
 
 However, no method of safeguarding information is completely secure. While we use measures designed to protect personal information, we cannot guarantee that our safeguards will be effective or sufficient. In addition, you should be aware that Internet data transmission is not always secure, and we cannot warrant that information you transmit utilizing the Properties is or will be secure.
 
-### 19\. Updates to this Policy
+### 17\. Updates to this Policy
 
 We reserve the right to make changes to this Policy. Where changes are made, we shall post the revised Policy here with an updated effective date. Please check regularly for any changes to this Policy. Your continued use of our products and services after the effective date of the revised Policy (or such other act specified at that time) will constitute your consent to those changes. However, we will not, without your consent, use your personal information in a manner materially different from what was stated at the time your personal information was collected.
 
-### 20\. How to contact us
+### 18\. How to contact us
 
-If you have any queries or comments about this Policy or wish to exercise any of your rights under the UK GDPR, the EU GDPR, the California Consumer Privacy Laws , VCDPA or other laws, we encourage you to contact us at: dataprotection@dmgmedia.co.uk or using the free toll numbers for California on 877-439-7822 and Virginia on 888-583-2992,
+If you have any queries or comments about this Policy or wish to exercise any of your rights under the UK GDPR, the EU GDPR, the State Privacy Laws or other laws, we encourage you to contact us at: dataprotection@dmgmedia.co.uk or using the free toll numbers for California on 877-439-7822 and Virginia on 888-583-2992,
 
 _Alternatively, you can write to us at:_
 
