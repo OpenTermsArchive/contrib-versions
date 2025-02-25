@@ -194,7 +194,9 @@ When you visit our websites, cloud and online services, software products, or vi
 
 A cookie is a piece of data that a website may send to your browser, which may be stored on your computer and can be used to identify your computer. Web beacons, including pixels and tags, are technologies that are used to track a user visiting an IBM web page or if a web page was copied to another website. Local Shared Objects can store content information displayed on the webpage visited, and preferences. All of these technologies may be used to provide connected features across our websites or display targeted IBM advertising (subject to your cookie preferences) on other websites based on your interests. Web beacons may also be used to track your interaction with email messages or newsletters, such as to determine whether messages are opened or links are selected.
 
-Session cookies can be used to track your progression from page to page so that you are not asked for information that you have already provided during the current session, or information that is needed to be able to complete a transaction. Session cookies are erased when the web browser is closed. Persistent cookies store user preferences for successive visits to a website, such as recording your choice of language and country location. Persistent cookies erase their data within 12 months.
+Session cookies can be used to track your progression from page to page so that you are not asked for information that you have already provided during the current session, or information that is needed to be able to complete a transaction. Session cookies are erased when the web browser is closed.
+
+Persistent cookies issued by IBM expire every 14 months. IBM allows cookies issued by vendors on its websites. For cookies issued by vendors, persistent cookie retention periods are covered by the vendor's privacy policy.
 
 You can use the IBM Cookie Manager to learn more about the online tracking technologies we use and to review or set your preferences regarding the information that we collect about you on our websites. The IBM Cookie Manager is either presented as a notification window when you first visit a webpage or opened by selecting **Cookie Preferences** in the website footer. The IBM Cookie Manager does not address all types of tracking technologies (for example, email pixels). When using mobile apps, use the options on your mobile device to manage settings.
 
@@ -381,7 +383,8 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 **Sections updated in this release:**
 
-1. Your Account
+1. Cookies and Similar Technologies
+2. Your Additional Rights (US) Colorado
 
 * * *
 
