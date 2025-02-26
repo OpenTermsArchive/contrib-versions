@@ -60,15 +60,15 @@ If you live in Japan, the company responsible for your data is:
 
 If you live outside the EEA, the United Kingdom, Switzerland and Japan, the company responsible for your data is:
 
-> `Tinder, LLC`
+> Tinder, LLC
 > 
-> `8750 North Central Expressway`
+> 8750 North Central Expressway
 > 
-> `Suite 1400`
+> Suite 1400
 > 
-> `Dallas, TX 75231`
+> Dallas, TX 75231
 > 
-> `United States`
+> United States
 
 **2\. Where This Privacy Policy Applies**
 -----------------------------------------
