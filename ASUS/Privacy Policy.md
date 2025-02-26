@@ -135,7 +135,7 @@ Cookies are small text files placed on your devices to help us customize your ex
 | Security | We use cookies to enhance the security of your online activities. For instance, when you buy our products on the ASUS official online store at our official website, we may store your IP address to help us to confirm that the user placing the order is the same as the one logged into the ASUS official online store. |
 | Load balancing function | We use cookies to ensure stable browsing experiences on our websites through load-balancing functions. |
 
-##### (2) For analytical purposes and to offer you personalized advertising services and other functions, we use the following cookies to enhance your experiences when using ASUS products and services:
+(2) For analytical purposes and to offer you personalized advertising services and other functions, we use the following cookies to enhance your experiences when using ASUS products and services: 
 
 |     |     |
 | --- | --- |
