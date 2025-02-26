@@ -1,7 +1,7 @@
 PARAMOUNT PRIVACY POLICY
 ========================
 
-**Last Modified:** April 15th, 2024
+**Last Modified:** February 26, 2025
 
 Paramount is a leading global media and entertainment company that delivers premium content and experiences to audiences worldwide across studios, networks, streaming services, live events, merchandise, and more.
 
@@ -281,7 +281,7 @@ To exercise any of these rights or choices, please visit our [Privacy Rights Cen
 Depending on where you live, you may have the following rights regarding your personal information:
 
 * The right to confirm whether and how we process your personal information
-* The right to request access to, and a copy of, the information we hold about you, including details as to how we process your personal information
+* The right to request access to, and a copy of, the information we hold about you, including details as to how we process your personal information, and in some states you also have the right to receive information on the categories of third parties or specific third parties with whom we might share your personal information
 * The right to object to or restrict our processing of your personal information
 * The right to request the erasure or deletion of your personal information
 * The right to correct, amend, or update your personal information
@@ -369,7 +369,7 @@ Whenever we transfer your personal information within the Paramount family of co
 CHILDREN’S PRIVACY
 ------------------
 
-The Paramount Services covered by this privacy policy are generally not intended for use by children. Instead, our child-directed Paramount Services, including our policies around parental consent, are covered by our [Children’s Privacy Policy](https://privacy.paramount.com/en/childrens). In channels available through our general audience Paramount Services, or in areas of those Paramount Services that are directed to children, we collect only a limited amount of personal information, as permitted by law. Specifically, we may collect IP addresses, device identifiers, certain unique ID numbers, and limited viewing information. We do not use (or allow our partners to use) this information, other than for the purposes of supporting our internal operations, such as to provide children with access to features and activities on the services, to customize content and improve our services, to serve contextual advertising, or limit how often a particular advertisement is seen. We do not allow interest-based advertising on portions of our Paramount Services that are directed to children or where we know that the user is a child or teen under 16.
+The Paramount Services covered by this privacy policy are generally not intended for use by children. Instead, our child-directed Paramount Services, including our policies around parental consent, are covered by our [Children’s Privacy Policy](https://privacy.paramount.com/en/childrens). In channels available through our general audience Paramount Services, or in areas of those Paramount Services that are directed to children, we collect only a limited amount of personal information, as permitted by law. Specifically, we may collect IP addresses, device identifiers, certain unique ID numbers, and limited viewing information. We do not use (or allow our partners to use) this information, other than for the purposes of supporting our internal operations, such as to provide children with access to features and activities on the services, to customize content and improve our services, to serve contextual advertising, or limit how often a particular advertisement is seen.
 
 RETENTION
 ---------
@@ -416,7 +416,7 @@ We have adopted commercially reasonable technical, administrative, and physical 
 CHANGES TO THIS POLICY
 ----------------------
 
-We may update this privacy policy based on new technologies, industry practices, regulatory requirements, or for other purposes. We will let you know if these changes are material and, where required by applicable law, we will obtain your consent. When updating you about any material changes, we may email you at the last email address you provided, post a notice on our websites or applications, or inform you by any other means permitted by applicable law.
+We may update this privacy policy based on new technologies, industry practices, regulatory requirements, or for other purposes. We will let you know if these changes are material and, where required by applicable law, we will obtain your consent or provide an opportunity to object before such changes take effect. When updating you about any material changes, we may email you at the last email address you provided, post a notice on our websites or applications, or inform you by any other means permitted by applicable law.
 
 CONTACT US
 ----------
@@ -440,7 +440,7 @@ United States
 ADDITIONAL INFORMATION US STATES
 --------------------------------
 
-If you are a California, Colorado, Connecticut, Montana, Oregon, Texas, Utah, or Virginia resident, there are additional disclosures and certain additional rights regarding your personal information, as described below. The rights available to you will depend on the laws in the state where you live.
+Depending on where you reside, there are additional disclosures and certain additional rights regarding your personal information, as described below. The rights available to you will depend on the laws in the state where you live.
 
 ### SHARING (FOR CROSS-CONTEXT BEHAVIORAL ADVERTISING), SALE OF PERSONAL INFORMATION, AND PROCESSING FOR PURPOSES OF TARGETED ADVERTISING
 
@@ -473,7 +473,7 @@ To the extent we process deidentified information, we will maintain and use the 
 
 ### SENSITIVE PERSONAL INFORMATION
 
-In the U.S., there may be instances where we process information that is considered “sensitive personal information”. We use sensitive personal information only when permitted by applicable laws for necessary or reasonably expected purposes – specifically, to provide you with the Paramount Services, to perform analytics on the Paramount Services, to serve you targeted advertising, and to comply with our legal obligations.
+In the U.S., there may be instances where we process information that is considered “sensitive personal information”. We use sensitive personal information only when permitted by applicable laws – specifically, to provide you with the Paramount Services, to perform analytics on the Paramount Services, to serve you targeted advertising, and to comply with our legal obligations.
 
 ### YOUR U.S. PRIVACY RIGHTS
 
