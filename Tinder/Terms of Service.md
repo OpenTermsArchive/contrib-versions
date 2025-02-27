@@ -199,38 +199,31 @@ This notice shall be sent to: Tinder, Attn: Cancellations, P.O. Box 25472, Dalla
     
     For additional information on how we moderate content, please see our [Safety](https://mtch.com/safety) page for more details.  For additional information on how recommended profiles are ordered, please see the [Method Behind our Matching](https://www.help.tinder.com/hc/en-us/articles/7606685697037-Powering-Tinder-The-Method-Behind-Our-Matching).
     
-    ### 3a. **YOUR CONTENT**
+    **3a.** **YOUR CONTENT**
     
     **You are responsible for Your Content. Don't share anything that you wouldn't want others to see, that would violate this Agreement, or that may expose you or us to legal liability.**
     
-    You are solely responsible and liable for Your Content, and, therefore, you agree to indemnify, defend, release, and hold us harmless from any claims made in connection with Your Content.
-    
-    You represent and warrant to us that the information you provide to us or any other user is accurate, including any information submitted through Facebook or other third-party sources (if applicable), and that you will update your account information as necessary to ensure its accuracy.
-    
-    The content included on your individual profile should be relevant to the intended use of our Services. You may not upload any Prohibited Content, and your content must further comply with the [Community Guidelines](https://policies.tinder.com/community-guidelines). You may not display any personal contact, banking information, or peer-to-peer payment information, whether in relation to you or any other person (for example, names, home addresses or postcodes, telephone numbers, email addresses, URLs, credit/debit card, peer-to-peer payment user name, or other banking details). If you choose to reveal any personal information about yourself to other users, you do so at your own risk. We strongly encourage you to use caution in disclosing any personal information online.
-    
-    Your individual profile will be visible to other people around the world, so be sure that you are comfortable sharing Your Content before you post. You acknowledge and agree that Your Content may be viewed by other users, and, notwithstanding these Terms, other users may share Your Content with third parties. By uploading Your Content, you represent and warrant to us that you have all necessary rights and licenses to do so and automatically grant us a license to use Your Content as provided under Section 7 below.
-    
-    We may provide tools and features to enhance individual expression through Your Content and Member Content (described in Section 3b), and we’re constantly developing new technologies to improve our Services. Certain tools or features may allow you to generate or enhance content based on Your Content. This is still Your Content, and you are responsible for it and its accuracy, as well as your use of it on our Services and any and all decisions made, actions taken, and failures to take action based on Your Content. Be careful in choosing and sharing Your Content.
-    
+    You are solely responsible and liable for Your Content, and, therefore, you agree to indemnify, defend, release, and hold us harmless from any claims made in connection with Your Content.  
+    You represent and warrant to us that the information you provide to us or any other user is accurate, including any information submitted through Facebook or other third-party sources (if applicable), and that you will update your account information as necessary to ensure its accuracy.  
+    The content included on your individual profile should be relevant to the intended use of our Services. You may not upload any Prohibited Content, and your content must further comply with the [Community Guidelines](https://policies.tinder.com/community-guidelines). You may not display any personal contact, banking information, or peer-to-peer payment information, whether in relation to you or any other person (for example, names, home addresses or postcodes, telephone numbers, email addresses, URLs, credit/debit card, peer-to-peer payment user name, or other banking details). If you choose to reveal any personal information about yourself to other users, you do so at your own risk. We strongly encourage you to use caution in disclosing any personal information online.  
+      
+    Your individual profile will be visible to other people around the world, so be sure that you are comfortable sharing Your Content before you post. You acknowledge and agree that Your Content may be viewed by other users, and, notwithstanding these Terms, other users may share Your Content with third parties. By uploading Your Content, you represent and warrant to us that you have all necessary rights and licenses to do so and automatically grant us a license to use Your Content as provided under Section 7 below.  
+    We may provide tools and features to enhance individual expression through Your Content and Member Content (described in Section 3b), and we’re constantly developing new technologies to improve our Services. Certain tools or features may allow you to generate or enhance content based on Your Content. This is still Your Content, and you are responsible for it and its accuracy, as well as your use of it on our Services and any and all decisions made, actions taken, and failures to take action based on Your Content. Be careful in choosing and sharing Your Content.  
     You understand and agree that we may monitor or review Your Content, and we have the right to remove, delete, edit, limit, or block or prevent access to any of Your Content at any time at our sole discretion. Furthermore, you understand and agree that we have no obligation to display or review Your Content.
     
-    ### **3b. MEMBER CONTENT**
+    **3b. MEMBER CONTENT**
     
     **While you will have access to Member Content, it is not yours and you may not copy or use Member Content for any purpose except as contemplated by these Terms.**
     
-    Other users will also share content on our Services. Member Content belongs to the user who posted the content and is stored on our servers and displayed at the direction of that user.
-    
-    You should always carefully review and independently verify Member Content for accuracy. Other users may use tools to generate or enhance content based on the Member Content they provide.  Member Content may include biased, incorrect, harmful, offensive, or misleading information. Other users are responsible for their Member Content, as well as any and all decisions made, actions taken, and failures to take action based on their use of Member Content. 
-    
+    Other users will also share content on our Services. Member Content belongs to the user who posted the content and is stored on our servers and displayed at the direction of that user.  
+    You should always carefully review and independently verify Member Content for accuracy. Other users may use tools to generate or enhance content based on the Member Content they provide.  Member Content may include biased, incorrect, harmful, offensive, or misleading information. Other users are responsible for their Member Content, as well as any and all decisions made, actions taken, and failures to take action based on their use of Member Content.   
     You do not have any rights in relation to Member Content, and, unless expressly authorized by Tinder, you may only use Member Content to the extent that your use is consistent with our Services' purpose of allowing us to communicate with and meet one another. You may not copy the Member Content or use Member Content for commercial purposes, to spam, to harass, or to make unlawful threats. We reserve the right to terminate your account if you misuse Member Content.
     
-    ### **3c. OUR CONTENT**
+    **3c. OUR CONTENT**
     
     **Tinder owns or licenses all other content on our Services.**
     
-    Any other text, content, graphics, user interfaces, trademarks, logos, sounds, artwork, images, and other intellectual property appearing on our Services is owned, controlled or licensed by us and protected by copyright, trademark and other intellectual property law rights. All rights, title, and interest in and to Our Content remains with us at all times.
-    
+    Any other text, content, graphics, user interfaces, trademarks, logos, sounds, artwork, images, and other intellectual property appearing on our Services is owned, controlled or licensed by us and protected by copyright, trademark and other intellectual property law rights. All rights, title, and interest in and to Our Content remains with us at all times.  
     We grant you a limited license to access and use Our Content as provided under Section 6 below, and we reserve all other rights.
     
 4. INAPPROPRIATE CONTENT AND MISCONDUCT; REPORTING
