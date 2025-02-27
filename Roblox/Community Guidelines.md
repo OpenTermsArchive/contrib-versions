@@ -231,7 +231,7 @@ We expect you to respect the intellectual property rights of others, and will re
 * Using another artist’s media in your experience without their permission
 * Using a brand’s logo or designs for the content you create without their permission
 
-For information on how to use Roblox’s name and logo, please see our [Community Usage Guidelines](https://en.help.roblox.com/hc/articles/115001708126).
+For information on how to use Roblox’s name and logo in marketing materials, please see our [Community Usage Guidelines](https://en.help.roblox.com/hc/articles/115001708126).
 
 Copyright and registered trademark takedown requests can be filed [here](https://www.roblox.com/support). Roblox may proactively delete or archive assets if we suspect that the content may be infringing on someone’s intellectual property rights.
 
@@ -263,7 +263,7 @@ Roblox maintains the Robux system for everyone’s benefit and enjoyment. To kee
 * Using the group payout system in a fraudulent or misleading manner; including offering payment in Robux for acting as a model for assets, joining groups, referring members, or role-playing in experiences.
 * Circumventing Roblox payment systems or fees, including by providing users indirect benefits for purchasing content or packages in other Roblox properties or systems.
 
-Promotional Offers Developers may not use off-platform services or products to sell on-platform items (including exclusive features or other in-experience enhancements) for money or Robux, either directly or as a bundle, unless expressly authorized by or in partnership with Roblox. Find more details on acceptable promo codes [here](https://en.help.roblox.com/hc/articles/10549651908244).
+Promotional Offers Developers may not independently use off-platform services or products to sell on-platform items (including exclusive features or other in-experience enhancements) for money or Robux, either directly or as a bundle with another transaction or exchange. All off-platform commercial promotions bundled with on-platform rewards must be created in contractual agreement with Roblox. Find more details on acceptable promo codes [here](https://en.help.roblox.com/hc/articles/10549651908244). To inquire about entering into a contractual agreement with Roblox, submit a form [here](https://corp.roblox.com/request-approval).
 
 Soliciting Donations We also do not allow our community to solicit donations for a charitable cause on Roblox, including:
 
@@ -337,15 +337,16 @@ For more information about creating bundles that comply with these policies, inc
 
 For more information about how to safely offer text chat in your experience, please see [here](https://devforum.roblox.com/t/migrate-to-textchatservice-removing-support-for-legacy-chat-and-custom-chat-systems/3237100).
 
-Last Updated: October 30, 2024
+Last Updated: February 26, 2025
 
 Change Log
 
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
-| November 21, 2024 | * Updated the following Community Standard<br>    * Discrimination, Slurs, and Hate Speech<br>    * Removed repeat language<br><br>Effective November 21, 2024 |
-| November 18, 2024 | Replaced mentions of 17+ Experiences Policy with the new Restricted Content Policy |
+| February 26, 2025 | Added clarification and new resource links for the following Community Standard:<br><br>* * Promotional Offers sub-section of Roblox Economy<br><br>Effective February 26, 2025 |
+| November 21, 2024 | Updated the following Community Standard:<br><br>* * Discrimination, Slurs, and Hate Speech<br>    * Removed repeat language<br><br>Effective November 21, 2024 |
+| November 18, 2024 | Replaced mentions of 17+ Experiences Policy with the new Restricted Content Policy<br><br>Effective November 18, 2024 |
 | October 30, 2024 | Updated the following Community Standards:<br><br>* Romantic and Sexual Content<br>    * Clarified that any sexually suggestive assets or bundles are prohibited<br><br>Effective October 30, 2024<br><br>* Misusing Roblox Systems<br>    * Added note about required use of TextChatService APIs<br><br>Effective April 30, 2025 |
 | October 3, 2024 | Updated the following Community Standards:<br><br>* Child Endangerment<br>    * Changed name to “Child Exploitation”<br>* Directing Users Off-Platform<br>    * Clarified that QR codes, or barcodes are not allowed<br>    * Added note that DevForum and Talent Hub are treated differently<br>    * Added that some URLs are allowed if authorized by or in partnership with Roblox<br>* Illegal and Regulated Goods and Activities<br>    * Clarified contests to include games of chance and competitions<br>    * Updated gambling language and removed mention of favorable odds<br>* Political Content<br>    * Changed name to “Political Figures and Entities”<br>    * Moved bullet about inflammatory content related to real world border, territorial, or jurisdictional relationships to Real-World Sensitive Events<br>    * Reorganized prohibited content into two categories: political figures and political entities<br>* Real-World Sensitive Events<br>    * Added catastrophic accidents and sensational crimes<br>    * Moved bullet about inflammatory content related to real world border, territorial, or jurisdictional relationships from Political Figures and Entities<br>* Roblox Economy<br>    * Added a prohibition against offering indirect benefits across Roblox payment systems or properties<br><br>Effective October 3, 2024 |
 | August 5, 2024 | Added “Customizable Friend Requests” as permitted to use real names for eligible users under the Sharing PII policy |
