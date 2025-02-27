@@ -110,17 +110,17 @@ We might disclose or share necessary parts of your personal data to third partie
 
 (2) To safeguard the rights, property, or safety of ASUS, our service providers, customers, or the public, as allowed or required by law.
 
-### **4\. Cross-border processing of your personal data**
+### **4\. Cross-border processing of your personal data** 
 
 **This paragraph explains how ASUS may transfer your personal data to other countries. We strive to follow the privacy laws and regulations in those countries.**
 
 When providing your personal data with ASUS, you understand and agree that ASUS and its affiliated entities or service providers and partners may transfer, store, use, or process your personal data in a country different from yours. These actions regarding your personal data are bound by the Privacy Policy and by the relevant laws on privacy protection and personal data security.
 
-### **5\. Cookies and similar technologies**
+### **5\. Cookies and similar technologies** 
 
 **This paragraph explains how ASUS and third parties use cookies and similar technologies in ASUS products and services, as well as how you can control your cookie settings.**
 
-Cookies are small text files placed on your devices to help us customize your experience with ASUS products and services. ASUS and our third-party partners use cookies and similar technologies to help deliver those products and services to you. When you access any of our websites under the ASUS domain (including microsites and versions specific to certain countries/regions), those ASUS websites may employ some or all of the following cookies and similar technologies. The types of cookies and similar technologies we use may vary across different websites.
+ Cookies are small text files placed on your devices to help us customize your experience with ASUS products and services. ASUS and our third-party partners use cookies and similar technologies to help deliver those products and services to you. When you access any of our websites under the ASUS domain (including microsites and versions specific to certain countries/regions), those ASUS websites may employ some or all of the following cookies and similar technologies. The types of cookies and similar technologies we use may vary across different websites.
 
 #### 5.1 How we use Cookies
 
@@ -176,7 +176,7 @@ A web beacon is a small, usually Invisible graphic (1x1 pixel) In the form of a 
 
 ASUS products and services may have links to websites from other companies. It’s important to note that ASUS is not in charge of the security measures, privacy practices, or content of those other websites. We recommend being cautious when you navigate away from our sites and taking the time to read the privacy statements of those third-party websites. Remember, this Privacy Policy only applies to ASUS products and services.
 
-### **7\. Security**
+### **7\. Security** 
 
 **This paragraph describes how ASUS safeguards your personal data and offers tips on how you can protect your own personal data.**
 
@@ -211,6 +211,8 @@ Although we do our best, perfect security on the internet cannot be guaranteed b
 **(3)** **Manage privacy-related settings on specific ASUS products and services you use.**
 
 **(4)** **Contact us via the “Customer’s Request on Personal Data” interface on the ASUS official website, via email at** [**privacy@asus.com**](mailto:privacy@asus.com) **or by phone.**
+
+ 
 
 #### 8.1 ASUS/ROG account
 
@@ -282,6 +284,6 @@ Address: 15, Li-Te Rd., Taipei 112, Taiwan
 
 Email: [privacy@asus.com](mailto:privacy@asus.com)
 
-Updated 02/25, 2025 by ASUS Personal Data Protection Committee
+Updated 02/27, 2025 by ASUS Personal Data Protection Committee
 
 ###
