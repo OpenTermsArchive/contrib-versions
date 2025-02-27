@@ -1,4 +1,4 @@
-![](https://www.mozilla.org/media/img/trademarks/logo-mozm.5e95c457fdd1.png)
+![](https://www.mozilla.org/media/img/trademarks/symbol.dd452bbb0dd3.svg)
 
 Mozilla Subscription Services | Privacy Notice
 ==============================================
