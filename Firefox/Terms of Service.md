@@ -23,7 +23,7 @@ Mozilla does not grant you any intellectual property rights in Firefox that are 
 You Give Mozilla Certain Rights and Permissions
 -----------------------------------------------
 
-You give Mozilla all rights necessary to operate Firefox, including processing data as we describe in the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/), as well as acting on your behalf to help you navigate the internet. When you upload or input information through Firefox, you hereby grant us a nonexclusive, royalty-free, worldwide license to use that information to help you navigate, experience, and interact with online content as you indicate with your use of Firefox.
+You give Mozilla the rights necessary to operate Firefox. This includes processing your data as we describe in the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/). It also includes a nonexclusive, royalty-free, worldwide license for the purpose of doing as you request with the content you input in Firefox. This does not give Mozilla any ownership in that content.
 
 ### Your Feedback and Suggestions
 
@@ -54,7 +54,7 @@ These Terms apply until either you or Mozilla decide to end them. You can choose
 You Are Responsible for the Consequences of Your Use of Firefox
 ---------------------------------------------------------------
 
-Your use of Firefox must follow Mozilla’s [Acceptable Use Policy](https://www.mozilla.org/about/legal/acceptable-use/), and you agree that you will not use Firefox to infringe anyone’s rights or violate any applicable laws or regulations.
+You agree that you will not use Firefox to infringe anyone’s rights or violate any applicable laws or regulations.
 
 You will not do anything that interferes with or disrupts Mozilla’s services or products (or the servers and networks which are connected to Mozilla’s services).
 
