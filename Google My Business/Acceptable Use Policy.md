@@ -130,7 +130,7 @@ Provide a phone number that connects to your individual business location, or pr
 * Do not provide phone numbers or URLs that redirect or 'refer' users to landing pages or phone numbers other than those of the actual business, including pages created on social media sites.
 * The phone number must be under the direct control of the business.
 * Additional phone numbers can be used on Google Business Profile websites and other local surfaces.
-* Premium-rate telephone numbers are not allowed. These phone numbers charge high rates to the caller.
+* Premium phone numbers are not acceptable regardless of the rate charged to the caller.
 
 Opening hours
 
