@@ -65,6 +65,7 @@ From Wikimedia Foundation Governance Wiki
 
 Other languages:
 
+* [](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&language=&task=view "Start translation for this language")
 * [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "Policy:Terms of Use/af (6% translated)")
 * [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Policy:Terms of Use/id (49% translated)")
 * [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ms "Policy:Terms of Use/ms (3% translated)")
