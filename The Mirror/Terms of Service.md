@@ -2,9 +2,9 @@
 
 **The Mirror Megaverse Terms of Service**
 
-**_Last Updated: 9/13/2023_**
+**_Last Updated: Mar 2nd, 2025_**
 
-These Terms of Service (“**Terms**”) apply to your access to and use of the downloadable software, websites, mobile applications and other online products and services (collectively, the “**Services**”) available at [https://in.themirror.space](https://in.themirror.space/) via download and/or through the mobile application version of the Services (collectively, the “**Platform**” or “**The Mirror**”) provided by The Mirror Megaverse Inc. (“**TMM**”, or “**we**”).  **By using our Services, you agree to these Terms, (including the mandatory arbitration provision and class action waiver in Section 14)**.  **If you do not agree to these Terms, do not use our Services.**
+These Terms of Service (“**Terms**”) apply to your access to and use of the downloadable software, websites, mobile applications and other online products and services (collectively, the “**Services**”) available at [https://in.themirror.space](https://in.themirror.space/) and/or [https://mirrorengine.io](https://mirrorengine.io/) via download and/or through the mobile application version of the Services (collectively, the “**Platform**” or “**The Mirror**” or “**Mirror Engine**” ) provided by The Mirror Megaverse Inc. (“**TMM**”, or “**we**”).  **By using our Services, you agree to these Terms, (including the mandatory arbitration provision and class action waiver in Section 14)**.  **If you do not agree to these Terms, do not use our Services.**
 
 We may supply different or additional terms in relation to some of our Services, and those different or additional terms become part of your agreement with TMM, if you use those Services.  If there is a conflict between these Terms and the additional terms, the additional terms will control that conflict.
 
@@ -216,9 +216,5 @@ If any provision or part of a provision of these Terms is unlawful, void, or une
 1. **18\. Miscellaneous**
 
 The failure of TMM to exercise or enforce any right or provision of these Terms will not operate as a waiver of such right or provision.  These Terms reflect the entire agreement between the parties relating to the subject matter hereof and supersede all prior agreements, representations, statements, and understandings of the parties.  The section titles in these Terms are for convenience only and have no legal or contractual effect.  Use of the word “**including**” will be interpreted to mean “**including without limitation**.”  Except as otherwise provided herein, these Terms are intended solely for the benefit of the parties and are not intended to confer third-party beneficiary rights upon any other person or entity.  You agree that communications and transactions between us may be conducted electronically.
-
-  
-
-  
 
 ‍
