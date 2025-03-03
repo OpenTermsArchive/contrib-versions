@@ -37,7 +37,7 @@ You may skip to the specific sections of our Privacy Notice by selecting any of 
 
 **1\. Applicability and Scope**
 
-This Privacy Notice (“Notice”) applies to the websites located at starbucks.com, starbucksreserve.com, princi.com, starbucks.ca, the Starbucks mobile applications available at https://www.starbucks.com/coffeehouse/mobile-apps (“Starbucks App”), when you visit our stores, and through any other websites or applications owned and operated by Starbucks brands or products that direct the viewer or user to this Notice (“Starbucks Services”). Our websites and mobile applications may offer links to websites and/or other mobile applications that are operated by third parties and not by Starbucks. If you visit one of these linked websites, you should read the website’s privacy notice, terms and conditions, and their other policies. We are not responsible for the policies and practices of third parties. Any information you give to those organizations is governed under their privacy notice, terms and conditions, and other policies.
+This Privacy Notice (“Notice”) applies to the websites located at starbucks.com, starbucksreserve.com, starbucks.ca, the Starbucks mobile applications available at https://www.starbucks.com/coffeehouse/mobile-apps (“Starbucks App”), when you visit our stores, and through any other websites or applications owned and operated by Starbucks brands or products that direct the viewer or user to this Notice (“Starbucks Services”). Our websites and mobile applications may offer links to websites and/or other mobile applications that are operated by third parties and not by Starbucks. If you visit one of these linked websites, you should read the website’s privacy notice, terms and conditions, and their other policies. We are not responsible for the policies and practices of third parties. Any information you give to those organizations is governed under their privacy notice, terms and conditions, and other policies.
 
 **2\. Updates to this Privacy Notice**
 
@@ -198,7 +198,7 @@ Depending on where you live (including California, Colorado, Connecticut, Nevada
 * **Sensitive Information** – Companies who collect, use, and disclose your sensitive personal information for purposes other than to provide you with goods or services are required to provide you with the right to limit the use and disclosure of your sensitive personal information by providing a “Limit the Use and Disclosure of My Sensitive Personal Information” link. Starbucks only collects, uses, and discloses your sensitive personal information to provide services to you, therefore Starbucks is not required to provide this link.
 * **Opt-Out Preference Signals** – Some web browsers allow customers to automatically exercise their right to opt-out of sale/sharing with all businesses they interact with online by initiating an opt-out preference signal. We will honor such opt-out preference signals.
 * **Appeals –** You may appeal our decision with respect to a request you have submitted by contacting us as described in the “Contact Us” section below.
-* **Consumer Health Data Rights in Washington and Nevada –** You may have additional rights relating to consumer health data. For more information, please see the [Consumer Health Data Privacy Notice for Washington and Nevada](https://www.starbucks.com/consumer-health-data-privacy-notice/).
+* **Consumer Health Data Rights in Washington and Nevada –** You may have additional rights relating to consumer health data. For more information, please see the [Consumer Health Data Privacy Notice for Washington and Nevada](https://www.starbucks.com/consumer-health-data-privacy-notice/) .
 
 Requests for U.S. residents should be submitted through this form [**HERE**](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html).
 
@@ -281,7 +281,7 @@ To exercise any of these rights, please see the “Your Choices & Rights” sect
 
 **(d)  Transfers Outside the EEA** – Your personal information may be transferred to, stored, and processed in a country other than the one in which it was collected, including the United States.  It may also be processed by staff operating outside the EEA who work for Starbucks or for our third-party service providers. In such cases, we will take appropriate steps to ensure an adequate level of data protection of the recipient as required under the GDPR and as described in this Notice.
 
-**(e)  Complaints** – If you have any issues with our compliance, you have the right to lodge a complaint with an EEA supervisory authority (link). We would, however, appreciate the opportunity to first address your concerns and would welcome you directing an inquiry first to us per the “Contact Us” section below, or to our U.S.-based third-party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) You may also contact our Data Protection Officer (“DPO”) at any time at [privacy@starbucks.com](mailto:privacy@starbucks.com).
+**(e)  Complaints** – If you have any issues with our compliance, you have the right to lodge a complaint with an EEA supervisory authority (link). We would, however, appreciate the opportunity to first address your concerns and would welcome you directing an inquiry first to us per the “Contact Us” section below, or to our U.S.-based third-party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) You may also contact our Data Protection Officer (“DPO”) at any time at [privacy@starbucks.com](mailto:privacy@starbucks.com) .
 
 **15\. Participation in the Data Privacy Framework**
 
@@ -333,7 +333,7 @@ Additional contact information may be found below for various Starbucks entities
             * Please contact our U.K. Customer Care team **[HERE](https://customercare.starbucks.co.uk/sbux?lang=en)**.
             * +443330050449 or +442088345050 (app)
 * **Country – U.S.**
-    * Entity Name – Starbucks Reserve; Princi
+    * Entity Name – Starbucks Reserve
     * Entity Address – Starbucks, P.O. Box 20430, Augusta, GA 30916
     * Additional Contact (If Any) –
     * Customer Service
