@@ -2,11 +2,11 @@
 
 **The Mirror Privacy Policy**
 
-**_Last modified: 9/13/2023_**
+**_Last modified: Mar 2nd, 2025_**
 
 **Introduction**
 
-This policy applies to your access to and use of the downloadable software, websites, mobile applications and other online products and services (collectively, the “**Services**”) available at [https://in.themirror.space](https://in.themirror.space/) via download and/or through the mobile application version of the Services (collectively, the “**Platform**” or “**The Mirror**”) provided by The Mirror Megaverse Inc. (“**TMM**”, or “**we**”).
+This policy applies to your access to and use of the downloadable software, websites, mobile applications and other online products and services (collectively, the “**Services**”) available at [https://in.themirror.space](https://in.themirror.space/) and/or [https://mirrorengine.io](https://mirrorengine.io/) via download and/or through the mobile application version of the Services (collectively, the “**Platform**” or “**The Mirror**” or “**Mirror Engine**”) provided by The Mirror Megaverse Inc. (“**TMM**”, or “**we**”).
 
 This policy applies to information we collect:
 
