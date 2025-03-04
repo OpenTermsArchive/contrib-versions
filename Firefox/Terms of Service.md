@@ -3,7 +3,7 @@ Firefox Terms of Use
 
 Firefox is free and open source web browser software, built by a community of thousands from all over the world.
 
-Please read these Terms of Use (“Terms”) carefully because they explain important information about using your copy of the Firefox software. These Terms are a binding agreement between Mozilla Corporation (“Mozilla”) and You. For details about Firefox privacy practices, please read the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/).
+Please read these Terms of Use (“Terms”) carefully because they explain important information about using your copy of the Firefox software. These Terms are a binding agreement between Mozilla Corporation (“Mozilla”) and You. For details about Firefox privacy practices, please read the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/#notice).
 
 Mozilla Gives You Certain Rights and Permissions
 ------------------------------------------------
@@ -23,7 +23,7 @@ Mozilla does not grant you any intellectual property rights in Firefox that are 
 You Give Mozilla Certain Rights and Permissions
 -----------------------------------------------
 
-You give Mozilla the rights necessary to operate Firefox. This includes processing your data as we describe in the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/). It also includes a nonexclusive, royalty-free, worldwide license for the purpose of doing as you request with the content you input in Firefox. This does not give Mozilla any ownership in that content.
+You give Mozilla the rights necessary to operate Firefox. This includes processing your data as we describe in the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/#notice). It also includes a nonexclusive, royalty-free, worldwide license for the purpose of doing as you request with the content you input in Firefox. This does not give Mozilla any ownership in that content.
 
 ### Your Feedback and Suggestions
 
