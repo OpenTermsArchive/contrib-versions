@@ -3,6 +3,8 @@ Privacy Policy
 
 The information we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy.
 
+**_We are updating our Privacy Policy, effective March 10, 2025. Please read it [here](https://www.zillowgroup.com/zg-privacy-policy-update/)._**
+
 **Effective Date:** January 2023
 
 When you use Zillow Group services to find, buy, rent, or sell your home, get a mortgage, or connect to a real estate pro, we know you’re trusting us with your data. We also know we have a responsibility to respect your privacy, and we work hard to do just that. This Privacy Notice explains what personal data we collect, why we use it, who we share it with, and how we protect it, along with the tools you can use to manage your privacy. We periodically revise this Notice to reflect new and evolving laws that govern privacy. This Privacy Notice is not a contract and does not create any legal rights or obligations. 
