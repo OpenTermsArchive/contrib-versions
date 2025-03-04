@@ -1,9 +1,9 @@
 Google Payments Privacy Notice
 ==============================
 
-**Last modified: 18 November 2024**
+**Last modified: 4 March 2025**
 
-The [Google Privacy Policy](https://www.google.com/policies/privacy/) describes how we treat personal information when you use Google products and services. If you are under the age of 18, you can find additional resources in the [Google Teen Privacy Guide](https://www.google.com/policies/privacy/teens/).
+The [Google Privacy Policy](https://www.google.com/policies/privacy/) describes how we treat personal information when you use Google products and services. If you are under the age of 18, you can find additional resources in the [Google Teen Privacy Guide](https://www.google.com/policies/privacy/teens/) and the [Google Payments privacy guide for children](https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldt=childprivacyguide&ldl=en).
 
 Google Payments is offered to Google Account holders, and your use of it is subject to the Google Privacy Policy. In addition, this Privacy Notice describes Google privacy practices that are specific to Google Payments.
 
@@ -130,4 +130,4 @@ The security of your Google payments profile depends on you keeping your account
 
 Any information that you provide directly to a third-party merchant, website or application is not covered by this Privacy Notice. We are not responsible for the privacy or security practices of merchants or other third parties with whom you choose to share your personal information directly. We encourage you to review the privacy policies of any third party with whom you choose to share your personal information directly.
 
-© 2024 Google – [Google Home](https://www.google.com/) [Google Terms of Service](https://policies.google.com/terms) [Previous Privacy Notices](https://payments.google.com/files/privacy/archive/index.html)
+© 2025 Google – [Google Home](https://www.google.com/) [Google Terms of Service](https://policies.google.com/terms) [Previous Privacy Notices](https://payments.google.com/files/privacy/archive/index.html)
