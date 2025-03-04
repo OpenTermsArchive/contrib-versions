@@ -198,6 +198,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Open Data Österreich - [https://www.data.gv.at/katalog/dataset/468dc562-d99c-4ec1-9edd-8fead87c355e#additional-info](https://www.data.gv.at/katalog/dataset/468dc562-d99c-4ec1-9edd-8fead87c355e#additional-info)
             
+        * Amt der Tiroler Landesregierung - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     5. **Argentina**
         * Instituto Geográfico Nacional (AR): [https://www.ign.gob.ar/](https://www.ign.gob.ar/)
             
@@ -2004,6 +2006,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Valencia Open Data Soft: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
         * Eustat - Euskal Estatistika Erakundea - Instituto Vasco de Estadística: [https://www.eustat.eus/informacionLegal\_c.html/](https://www.eustat.eus/informacionLegal_c.html)
+            
+        * Centro Nacional de Información Geográfica, CNIG: [https://www.ign.es/resources/licencia/Condiciones\_licenciaUso\_IGN.pdf](https://www.ign.es/resources/licencia/Condiciones_licenciaUso_IGN.pdf)
             
     58. **Sweden**
         * © 2009 Cartesia GIS AB
