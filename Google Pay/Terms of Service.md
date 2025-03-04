@@ -3,11 +3,11 @@ IMPORTANT: If you reside in India, the Google Pay terms of service applicable 
 Google Pay/Google Payments Terms of Service
 -------------------------------------------
 
-Last modified: 23 July 2022
+Last modified: 4 March 2025
 
 ### 1\. Introduction
 
-Google Pay is subject to the [Google Terms of Service](https://www.google.com/policies/terms/) ('Google ToS') and is a 'Service' as defined in the Google ToS. The following Google Pay Terms of Service are additional terms that apply to the use of Google Pay. Your use of Google Pay is subject to these Google Pay Terms of Service and the Google ToS (which together, for purposes of these Google Pay Terms of Service, we refer to as the 'Terms'). The [Google Payments Privacy Notice](https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&ldt=privacynotice&ldr=NZ&ldl=en-AU) describes how Google handles your payments info.  Please note that the [Google Terms of Service](https://policies.google.com/terms?hl=en-US) applies to storing and using items such as loyalty cards, reward program cards, transit passes, boarding passes, and other non-payment items.
+Google Pay is subject to the [Google Terms of Service](https://www.google.com/policies/terms/) ('Google ToS') and is a 'Service' as defined in the Google ToS. The following Google Pay Terms of Service are additional terms that apply to the use of Google Pay. Your use of Google Pay is subject to these Google Pay Terms of Service and the Google ToS (which together, for purposes of these Google Pay Terms of Service, we refer to as the 'Terms'). The [Google Payments Privacy Notice](https://payments.google.com/payments/apis-secure/u/0/get_legal_document?ldo=0&ldt=privacynotice&ldl=en-GB) describes how Google handles your payments info.  Please note that the [Google Terms of Service](https://policies.google.com/terms?hl=en-US) applies to storing and using items such as loyalty cards, reward program cards, transit passes, boarding passes, and other non-payment items.
 
 If there is any conflict between the Google Pay Terms of Service and the Google ToS, the Google Pay Terms of Service shall prevail. If there is any conflict between the English-language version of the Terms and a version translated into another language, the English-language text shall prevail.
 
@@ -23,6 +23,10 @@ By agreeing to the Terms, you represent that you are:
 * capable of entering into a legally binding agreement with Google.
 
 You will also need a Google Account; a device that meets the Service's system and compatibility requirements, which may change from time to time; working Internet access; and compatible software. Your ability to use Google Pay, and Google Pay's performance may be affected by these factors. Such system requirements are your responsibility.
+
+If you’re under the age required to manage your own Google Account, you must have your parent or legal guardian’s permission to use the Service. Please have your parent or legal guardian read these terms with you.
+
+If you’re a parent or legal guardian, and you allow your child to use the Service, then these Terms apply to you and you’re responsible for your child’s activity on the Service, including any transactions made by your child using the Service. You also represent that your child is the cardholder or an authorised user of any Payment Method saved to your child’s Google Account.
 
 ### 3\. General description of Google Pay
 
@@ -47,7 +51,7 @@ Availability of a given Payment Method or its compatibility with Google Pay may 
 
 **(b) Saving a Payment Method**
 
-You may be able to save a Payment Method to your Google Account through a variety of user interfaces, including the Google Pay app or website, the Google Chrome browser, the Payment Method issuer's app or website, or through a Google product or service such as the Google Play Store. In order to save a Payment Method, you must complete all required information on any registration forms presented to you. The information that you provide must be current, complete and accurate, and you must maintain it as such. We may require you to provide additional information as a condition of continued use of Google Pay, or to help us determine whether to permit you to continue using Google Pay.
+You may be able to save a Payment Method to your Google Account through a variety of user interfaces, including the Google Pay app or website, the Google Wallet app, the Google Chrome browser, the Payment Method issuer's app or website, or through a Google product or service such as the Google Play Store. In order to save a Payment Method, you must complete all required information on any registration forms presented to you. The information that you provide must be current, complete and accurate, and you must maintain it as such. We may require you to provide additional information as a condition of continued use of Google Pay, or to help us determine whether to permit you to continue using Google Pay.
 
 When you save a Payment Method, Google may store information relating to the Payment Method, such as your name and billing address. Google Pay also allows you to save other information to your Google Account that can help speed up transactions, such as a delivery address.
 
@@ -57,7 +61,7 @@ You agree that Google Pay is for your personal use, with your own Payment Method
 
 **(c) Google's role**
 
-Except where Google or its affiliate is the issuer, neither Google nor its affiliates are a party to your Payment Methods' cardholder agreements, privacy policy or other terms of use. Nothing in these Terms modifies any such issuer terms. In the event of any inconsistency between these Terms and your issuer's terms or privacy policy, these Terms will govern the relationship between you and Google with respect to Google Pay, and your issuer's terms will govern the relationship between you and the issuer. Google does not make any representation or verify that any of your Payment Instruments is in good standing or that the issuer of your Payment Instrument will authorise or approve any transaction with a merchant or public transport provider when you use Google Pay for that transaction.
+Except where Google or its affiliate is the issuer, neither Google nor its affiliates are a party to your Payment Methods' cardholder agreements, privacy policy or other terms of use. Nothing in these Terms modifies any such issuer terms. In the event of any inconsistency between these Terms and your issuer's terms or privacy policy, these Terms will govern the relationship between you and Google with respect to Google Pay, and your issuer's terms will govern the relationship between you and the issuer. Google does not make any representation or verify that any of your Payment Methods is in good standing or that the issuer of your Payment Method will authorise or approve any transaction with a merchant or public transport provider when you use Google Pay for that transaction.
 
 Except where Google or its affiliate is the issuer, neither Google nor its affiliates are involved in issuing credit or determining eligibility for credit, nor do they exercise control over: the availability or accuracy of Payment Methods or funds; the provisioning (or addition) of Payment Methods to Google Pay or addition of funds to Payment Method balances. For any concerns relating to the foregoing, please contact your Payment Method's issuer.
 
@@ -65,7 +69,7 @@ Except where Google or its affiliate is the issuer, neither Google nor its affil
 
 The following additional terms apply when using Google Pay to save a Virtual Card Number, Public Transport Pass, or Linked Third-Party Account to your Google Account.
 
-After you have begun to add a Payment Instrument to Google Pay and provided the information requested by Google and/or your Payment Method issuer, Google Pay will check whether the Payment Method is eligible to be used with Google Pay. All of a participating issuer's Payment Methods may not be eligible. If your Payment Method's issuer supports Google Pay and your Payment Method is eligible, when adding it you may see a screen asking you to accept the issuer's terms and conditions. Once you have done so and successfully added the Payment Method, Google Pay will store a Virtual Card Number representing your payment card's actual card number, or associate your Public Transport Pass or Linked Third-Party Account with your Google Account, for use as described in Section 5 below.
+After you have begun to add a Payment Method to Google Pay and provided the information requested by Google and/or your Payment Method issuer, Google Pay will check whether the Payment Method is eligible to be used with Google Pay. All of a participating issuer's Payment Methods may not be eligible. If your Payment Method's issuer supports Google Pay and your Payment Method is eligible, when adding it you may see a screen asking you to accept the issuer's terms and conditions. Once you have done so and successfully added the Payment Method, Google Pay will store a Virtual Card Number representing your payment card's actual card number, or associate your Public Transport Pass or Linked Third-Party Account with your Google Account, for use as described in Section 5 below.
 
 Virtual Card Numbers that you register using Google Pay are distinct from any associated Payment Cards that you save to your Google Account. Unlike a Virtual Card Number, a Payment Card will generally not be presented to you with card art resembling the associated physical card and cannot be used for in-store Near-Field Communication ('NFC') transactions. However, when you register a Virtual Card Number, Google Pay may also save the associated Payment Card in your Google Account as well.
 
@@ -95,7 +99,7 @@ When you initiate a payment or public transport transaction using Google Pay wit
 
 In a Third-Party Transaction, after passing the Payment Method and other details to the Third Party, Google will have no further involvement in the transaction, and you acknowledge and agree that such transaction is solely between you and the Third Party and not with Google or any of its affiliates. You should contact the Third Party or your Payment Method provider (for example, the issuer of your Payment Card) directly regarding any issues with Third-Party Transactions, including refunds and disputes.
 
-When you visit a participating Third Party's website or app, Google may disclose to the Third Party whether or not you have Google Pay set up on your device so that the Third Party knows whether to offer you Google Pay as a payment option. You can opt out of Google making this disclosure in the Google Pay [privacy settings](https://pay.google.com/payments/u/0/home?page=privacySettings#privacySettings:). Opting out could affect your ability to use Google Pay with certain merchants.
+When you visit a participating Third Party's website or app, Google may disclose to the Third Party whether or not you have Google Pay set up on your device if requested by the Third Party so that the Third Party knows whether to offer you Google Pay as a payment option. However, you may still see the Google Pay payment option on a Third Party’s website or app if the Third Party offers Google Pay as a payment option to all users. You can opt out of Google making this disclosure in the Google Pay [privacy settings](https://pay.google.com/payments/u/0/home?page=privacySettings#privacySettings:). Opting out could affect your ability to use Google Pay with certain merchants. If you’re under the age required to manage your own Google Account, this does not apply to you and Google won’t disclose your information for this purpose.
 
 **(c) As part of Chrome or Android AutoFill**
 
