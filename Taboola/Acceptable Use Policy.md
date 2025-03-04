@@ -1,9 +1,10 @@
 Prohibited Content, Products, and Services
 ==========================================
 
-In this article you will learn about the policies for the restricted use of content, products and services in a Taboola campaign across countries.
+In this article you will learn about the policies for the restricted use of content, products and services in a Realize campaign across countries.  
+  
 
-Here at Taboola we strive to provide users with a positive, engaging, open and high quality experience as they discover your content.
+Here at Realize we strive to provide users with a positive, engaging, open and high quality experience as they discover your content.
 
 Our policy is designed to ensure your campaigns run in the right place, at the right time, and are accessible to your target audience.
 
@@ -54,7 +55,7 @@ Ads must not promote anything that is hateful, discriminatory, abusive, intolera
 
 Example:
 
-* Using Taboola’s campaign and targeting settings to knowingly discriminate based on personal attributes.
+* Using Realize’s campaign and targeting settings to knowingly discriminate based on personal attributes.
 
 4\. Obscene or offensive
 
@@ -363,7 +364,7 @@ Ads must not use methods to circumvent our ad review process and other enforceme
 Examples:
 
 * ‘Cloaking’ or using other techniques to hide the true url destination that users are redirected to once they are in the funnel.
-* Restricting Taboola’s access to a destination url.
+* Restricting Realize’s access to a destination url.
 
 24\. Malicious software - Spyware or Malwares
 
