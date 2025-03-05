@@ -54,7 +54,9 @@ We do not allow the use of the trademark in advertising, including AdSense/AdWor
 
 Please note that it is not the goal of this policy to limit commercial activity around WordPress. We encourage WordPress-based businesses, and hundreds of them are thriving while in compliance with this policy (Automattic, Newfold, Hostinger, and Bluehost are a few examples).
 
-Please do not use “WP” in any way that confuses people. For example, many people think WP Engine is “WordPress Engine” and officially associated with WordPress, which it’s not. They have not donated to the WordPress Foundation, despite making billions of revenue on top of WordPress.
+Please do not use “WP” in any way that confuses people. For example, many people think WP Engine is “WordPress Engine” and officially associated with WordPress, which it’s not. (They have not donated to the WordPress Foundation, despite making billions of revenue on top of WordPress!) Just because you’re using “WP” doesn’t mean you aren’t violating trademark law in other ways—if you [look in Internet Archive](https://web.archive.org/web/*/wpengine.com) for dozens of things WP Engine has changed on their site around their use of the WordPress (and WooCommerce) trademark you can get a good sense for what not to do.
+
+It’s never pleasant to hear you may need to change something, but if a trademark is not enforce it is at risk of being lost, so it’s necessary and also better for consumers to understand who has official permission to use the WordPress trademark in commercial ways and who doesn’t.
 
 If you would like to use the WordPress trademark commercially, please contact Automattic, they have the exclusive license.
 
