@@ -3,9 +3,10 @@
 Wikimedia Foundation Terms of Use
 =================================
 
- 2 languages
+ 3 languages
 
 * [English](https://en.wikipedia.org/wiki/Wikipedia:Terms_of_use "Wikipedia:Terms of use – English")
+* [ꠍꠤꠟꠐꠤ](https://syl.wikipedia.org/wiki/%EA%A0%83%EA%A0%81%EA%A0%87%EA%A0%A4%EA%A0%99%EA%A0%A4%EA%A0%92%EA%A0%A4%EA%A0%80:%EA%A0%9B%EA%A0%A6%EA%A0%9B%EA%A0%80%EA%A0%9E_%EA%A0%87%EA%A0%9E%EA%A0%A3%EA%A0%9E_%EA%A0%A1%EA%A0%9E%EA%A0%86%EA%A0%94%EA%A0%A3%EA%A0%81%EA%A0%98 "ꠃꠁꠇꠤꠙꠤꠒꠤꠀ:ꠛꠦꠛꠀꠞ ꠇꠞꠣꠞ ꠡꠞ꠆ꠔꠣꠁꠘ – Sylheti")
 * [中文](https://zh.wikipedia.org/wiki/Wikipedia:%E4%BD%BF%E7%94%A8%E6%9D%A1%E6%AC%BE "Wikipedia:使用条款 – Chinese")
 
 [Edit links](https://www.wikidata.org/wiki/Special:EntityPage/Q118719909#sitelinks-wikipedia "Edit interlanguage links")
@@ -165,7 +166,7 @@ Other languages:
 * [ಕನ್ನಡ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kn "Policy:Terms of Use/kn (96% translated)")
 * [ತುಳು](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tcy "Policy:Terms of Use/tcy (3% translated)")
 * [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (40% translated)")
-* [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "Policy:Terms of Use/th (56% translated)")
+* [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "Policy:Terms of Use/th (55% translated)")
 * [ລາວ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lo "Policy:Terms of Use/lo (9% translated)")
 * [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/blk "Policy:Terms of Use/blk (0% translated)")
 * [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "Policy:Terms of Use/my (65% translated)")
