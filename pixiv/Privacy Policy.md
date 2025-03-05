@@ -236,7 +236,7 @@ Please refer to the [“Purposes of Use”](#purposes_of_use) section of this Pr
 (4) Person responsible for sharing
 ----------------------------------
 
-4-23-5 Sendagaya, Shibuya-ku, Tokyo JPR Sendagaya Building 6F
+4-23-5 Sendagaya, Shibuya-ku, Tokyo
 
 Pixiv Inc.
 
@@ -459,7 +459,7 @@ Pixiv Inc.
 
 c/o Personal Information Contact Desk
 
-JPR Sendagaya Building 6F, 4-23-5 Sendagaya, Shibuya-ku, Tokyo
+4-23-5 Sendagaya, Shibuya-ku, Tokyo
 
 * To request electronically
 
@@ -833,6 +833,7 @@ Revision History
 |     |     |
 | --- | --- |
 | Revision date | Content of revision |
+| March 5, 2025 | Address updated due to building name change. |
 | May 28, 2024 | Maintenance and overall organization of the display in order to make it compliant with Japanese law and overseas laws and regulations (CCPA, GDPR) |
 | May 31st, 2024 | Development of descriptions for GDPR and other foreign laws and the overall organization that goes along with it. |
 | August 31st, 2023 | “Article 3. Information Company acquires and purposes of use (according to each Service)” and “Article 5. Provision of Personal Information to third parties, etc.” were updated. |
