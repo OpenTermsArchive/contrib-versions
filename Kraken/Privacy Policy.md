@@ -1,12 +1,12 @@
-_Last Updated: 28 October 2024_
+_Last Updated: 5 March 2025_
 
-For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/legal/privacy/us-notice)  
+For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/legal/privacy/us-notice).  
  
 
 **1\. Introduction**
 --------------------
 
-This privacy notice applies to the processing activities performed by Kraken to the personal data of its clients, prospective clients, and website visitors. 
+This privacy notice applies to the processing activities performed by Kraken to the personal data of its clients, prospective clients, users of Kraken’s products that run on-chain (such as Ink Verify), and website visitors. 
 
 Your privacy is of the utmost importance to us. It is our policy to safeguard the confidentiality of information and respect the privacy of individuals. 
 
@@ -50,9 +50,12 @@ The minimum information required for entering into a contract governing your use
 
 * Full name, residential address and contact details (e.g. email address, telephone number etc.), date of birth, place of birth, gender, citizenship (“**Biographical information and contact information**”);
 * Bank account information, wallet addresses, credit card details, details about your source of funds, assets and liabilities, and information relating to economic and trade sanctions lists (“**Financial information**”);
-* Trading account balances, trading activity (such as whether you participate in Kraken's VIP program, and custodial activity), your inquiries and our responses (“**Trading information**”);
+* Trading account balances, trading activity (such as whether you participate in Kraken's VIP program, and custodial activity) (“**Trading information**”);
 * Information on whether you (or someone close to you) holds a prominent public function (“**PEP information**”);
 * Verification information, which includes information necessary to verify your identity such as a passport, driver’s licence, selfie photos / videos, login credentials or Government-issued identity card, which may be processed using technologies that extract biometric data (“**Verification information**”);
+* Information collected when you interact with our support service channels, including online chat, phone call, email, direct message or other communication means (“**Support service communications**”);
+* Kraken Pay Service information, including Kraktag (Kraken Pay username), profile picture, email address, name, phone number, phone contacts (if enabled), display name, transaction records, user generated content such as payment descriptions, comments and attachments **(**“**Kraken Pay Service information**”**)**;
+* On-chain attestations, such as DeFi trading volume, liquidity provision, transaction metrics, verification status of a wallet (e.g., whether it is associated with a Kraken account), wallet addresses used for attestations, metadata related to attestations, such as timestamps and schema details (“**Attestation information**”);
 * Other personal data or commercial and/or identification information – Information we, in our sole discretion, deem necessary to comply with our legal obligations under various AML obligations, such as under the European Union’s 5th AML Directive and the U.S. Bank Secrecy Act (“**Other information**”).
 
 **Information we collect about you automatically:**
@@ -83,6 +86,8 @@ If Kraken discloses your personal data to service providers and business partner
 
 Kraken may also disclose personal data when it is compelled by law, for example to a government agency as a result of a valid court order.
 
+On-chain attestations are publicly available and may be accessed by third parties via blockchain explorers and APIs. Kraken does not control or restrict third-party access to on-chain attestation data.
+
 **8\. Where we store your personal data**
 -----------------------------------------
 
@@ -100,11 +105,12 @@ Your use of digital assets may be recorded on a public blockchain. Public blockc
 
 As blockchains are decentralized or third-party networks which are not controlled or operated by Kraken, we are not able to erase, modify, or alter personal data on such networks.
 
+By using Ink Verify, you acknowledge that your attestations will be recorded on a public blockchain. These attestations are immutable and cannot be modified or deleted. Additionally, linking an attestation to a Kraken-verified wallet may allow third parties to infer that the wallet owner has undergone Kraken’s identity verification process.
+
 **11\. Data retention**
 -----------------------
 
-When personal data is no longer necessary for the purposes for which it may lawfully be processed, we will remove any details that will identify you, or we will securely destroy the relevant records. We may need to maintain records for a significant period of time after you cease being our client for legal or regulatory reasons, for example, when we need to retain information to help manage a dispute or legal claim. Additionally, we are subject to certain anti-money laundering laws which may require us to retain the following for a period (e.g., 5 years) after our business relationship with you has ended:  
- 
+When personal data is no longer necessary for the purposes for which it may lawfully be processed, we will remove any details that will identify you, or we will securely destroy the relevant records. We may need to maintain records for a significant period of time after you cease being our client for legal or regulatory reasons, for example, when we need to retain information to help manage a dispute or legal claim. Additionally, we are subject to certain anti-money laundering laws which may require us to retain the following for a period (e.g., 5 years) after our business relationship with you has ended:
 
 * A copy of the records we used in order to comply with our client due diligence obligations;
 * Supporting evidence and records of transactions with you, and your relationship with us.
@@ -112,6 +118,8 @@ When personal data is no longer necessary for the purposes for which it may lawf
 If you have opted out of receiving marketing communications, we will keep your information on our suppression list to ensure that you do not receive these messages.
 
 We may keep your personal data for longer than 5 years if we cannot delete it for legal, regulatory, or technical reasons.
+
+Kraken retains attestation-related data for operational security and integrity purposes. Off-chain attestations (Ink Verify) are stored as long as necessary to prevent spam and abuse. On-chain attestations are immutable and cannot be deleted, as they are recorded on a public blockchain.
 
 **12\. Cookies**
 ----------------
@@ -136,6 +144,8 @@ You may inform us at any time if your personal details have changed by emailing 
 **Erasure**
 
 You can ask us to delete or remove your personal data in certain circumstances. Such requests may be subject to any retention limits we are required to comply with in accordance with applicable laws and regulations. If we have disclosed your personal data to others, we will let them know about the erasure request where possible. If you ask us, and if possible and lawful to do so, we will also inform you with whom we have shared your personal data.
+
+On-chain attestations cannot be modified or deleted once published. Users should carefully consider the implications before submitting an attestation.
 
 **Processing restrictions**
 
