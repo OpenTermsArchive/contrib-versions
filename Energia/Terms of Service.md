@@ -1,4 +1,4 @@
-![](/Media/Energia/Media/lava-lamp.PNG?width=770&height=auto&maxsidesize=770&ext=.png)
+   ![](/Media/Energia/Media/lava-lamp.PNG?width=0&height=auto&maxsidesize=0&ext=.png)
 
 Energia Terms & Conditions
 ==========================
