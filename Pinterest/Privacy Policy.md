@@ -33,6 +33,8 @@ Table of Contents
 
 [Contact us](https://policy.pinterest.com/en/privacy-policy#section-contact-us)
 
+We're updating our Privacy Policy, effective April 30, 2025. You can preview the updated Privacy Policy [here](https://policy.pinterest.com/privacy-policy-preview).
+
 California Privacy Statement
 ============================
 
