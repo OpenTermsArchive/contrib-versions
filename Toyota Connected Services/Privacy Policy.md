@@ -2,7 +2,7 @@ Your Privacy Rights
 
 ----------------------
 
-UPDATED AS OF: January 7, 2025  
+UPDATED AS OF: March 5, 2025  
 
 **Personal Information Sharing Practices for 2024**  
 
@@ -70,7 +70,7 @@ To read our full Privacy Notice [click here.](#privacy)
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: January 7, 2025  
+UPDATED AS OF: March 5, 2025  
 
 Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information. Personal Information is sometimes also referred to as personal data, personally identifiable information or other like terms that mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household. **Personal Information does not include the following if exempt under privacy laws**:
 
@@ -294,9 +294,25 @@ U.S. privacy laws provide consumers with certain rights regarding their Personal
 
 If you would like to exercise any of the privacy rights identified above, you may submit a request by either completing the online request form at [https://privacy.toyota.com/](https://privacy.toyota.com/) or by calling us at [855-226-4048](tel:855-226-4048).
 
-**Authorized Agents**
+**Authorized Agent/Power of Attorney/Conservatorship/Guardianship.**
 
-Where permitted by state law, you may exercise your privacy rights through an authorized agent. If we receive your request from an authorized agent, we may ask for evidence that you have provided such agent with a power of attorney or that the agent otherwise has valid written authority to submit requests to exercise rights on your behalf. If you are an authorized agent seeking to make a request where permitted by state law, please contact us at **855-226-4048**.
+Where permitted by state law, you may exercise privacy rights through an authorized agent, power of attorney, conservatorship, or guardianship.
+
+If we receive your request through an authorized agent with written authority, we will request evidence you provided such agent with valid written authority to submit privacy rights requests on your behalf.
+
+For anything other than a power of attorney, conservatorship, or guardianship, please complete, sign, and provide your authorized agent with the “_TMNA Authorized Agent Designation_” document that can be found [here](https://privacy.toyota.com/assets/files/AA_Designation_Document.pdf). Certain privacy rights requests may require you to complete the identity verification process.
+
+If you are an authorized agent seeking to make a privacy rights request (where permitted by state law), you may submit a request by:
+
+* Visiting our Privacy Hub at [https://privacy.toyota.com](https://privacy.toyota.com/)
+* Selecting the requestor’s state of residency
+* Selecting submitted by “_Authorized Agent_”
+* Completing the online form
+* Uploading the completed and signed “_TMNA Authorized Agent Designation_”
+
+You may also contact us at **855-226-4048** for assistance.
+
+If you are submitting a privacy request with a power of attorney, conservatorship, or guardianship (where permitted by state law), please contact us at **855-226-4048**.
 
 **How We Verify Your Request**
 
