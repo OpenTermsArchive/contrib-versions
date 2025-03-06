@@ -835,9 +835,6 @@ Open all
     
     The [Maine Broadband Internet Access Service Customer Privacy Act](#), effective on July 1, 2020, gives you additional privacy rights when we are your broadband Internet access service provider. The Maine law gives you the right to control certain ways that we use or disclose information we have about you and requires that we provide you with a notice of your rights and our obligations under this law. We do this in this section.
     
-      
-    de you with a notice of your rights and our obligations under this law. We do this in this section.
-    
     Maine Broadband Internet Access Service Customer Privacy Act
     
     The law applies to current or former subscribers of mass market broadband Internet access service in Maine. It also applies to applicants for this service. 
