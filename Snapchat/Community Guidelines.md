@@ -70,7 +70,7 @@ Hateful Content, Terrorism and Violent Extremism
 * Hate speech or content that demeans, defames or promotes discrimination or violence on the basis of race, colour, caste, ethnicity, national origin, religion, sexual orientation, gender, gender identity, disability or veteran status, immigration status, socio-economic status, age, weight or pregnancy status is prohibited.
     
 
-[Learn More](https://www.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism?lang=en-GB)
+[Read Next](https://www.snap.com/policy/policy-community-guidelines/hateful-content-terrorism-violent-extremism?lang=en-GB)
 
 Harassment and Bullying
 
