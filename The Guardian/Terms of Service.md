@@ -72,6 +72,8 @@ If you are accessing the Guardian Site from the United States or Australia, the 
 
 You will see advertising material submitted by third parties on the Guardian Site. Each individual advertiser is solely responsible for the content of its advertising material. We accept no responsibility for the content of advertising material, including, without limitation, any error, omission or inaccuracy therein.
 
+You will not see any personalised advertising on the Guardian website if you have a Guardian Ad-Lite subscription (see the Guardian Ad-Lite [terms](https://www.theguardian.com/guardian-ad-lite-tcs) for further details).
+
 If you want to advertise on the Guardian Site, please contact the sales team via [this online form](https://advertising.theguardian.com/advertising/contact). The Guardian is the sole direct seller of advertising on the Guardian Site. You shall not deal with any third parties in relation to the sale and placement of advertisements on the Guardian Site, except for those third parties approved by the Guardian from time to time.
 
 **6\. User content**
@@ -257,5 +259,7 @@ New paragraph 5 added to Section 3 beginning “_You shall not use any service, 
 Paragraph 6 of Section 3 amended to add the following wording at the end “, _including for the purposes of Article 4(3) of Directive (EU) 2019/790 on copyright and related rights in the Digital Single Market …. in each case, to the maximum extent permitted by applicable laws._”
 
 New paragraph 8 to Section 3 beginning “_Our robots.txt notice does not, and shall not, constitute…”_
+
+6 March 2025: Reference to Guardian Ad-Lite added in section 5.
 
 © 2013 Guardian News and Media Limited or its affiliated companies. All rights reserved.
