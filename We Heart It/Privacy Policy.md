@@ -42,7 +42,7 @@ Users outside the E.E.A, by using our Services you are consenting to our use of 
 
 1. **Entity Responsible for the Processing of your Personal Information** 
 
-Super Basic LLC at 1510 Fashion Island Blvd Suite 350 San Mateo, CA 94404 is responsible for the processing of your personal information in connection with the use of our Services. You can find our contact information in Section XIII below. 
+Super Basic LLC at 9570 West Pico Blvd, Los Angeles, CA 90035 is responsible for the processing of your personal information in connection with the use of our Services. You can find our contact information in Section XIII below. 
 
   
 
@@ -435,7 +435,7 @@ It may not be possible for us to assist you with certain customer service reques
 
 1. **Complaints**
 
-If you have any complaints concerning We Heart It’s processing of your Personal Information, please email us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) or write to us at 1510 Fashion Island Blvd Suite 350 San Mateo, CA 94404.
+If you have any complaints concerning We Heart It’s processing of your Personal Information, please email us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) or write to us at 9570 West Pico Blvd, Los Angeles, CA 90035.
 
   
 
@@ -451,7 +451,7 @@ Customers in the United Kingdom can contact the Information Commissioner’s Off
 
 1. **Contacting Us**
 
-If you have any questions about this Privacy Policy or if you would like us to delete your Personal Information, you can delete your account from the website, or by contacting us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) or at Super Basic LLC, 1510 Fashion Island Blvd Suite 350 San Mateo, CA 94404. 
+If you have any questions about this Privacy Policy or if you would like us to delete your Personal Information, you can delete your account from the website, or by contacting us at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection) or at Super Basic LLC, 9570 West Pico Blvd, Los Angeles, CA 90035. 
 
   
 
