@@ -331,3 +331,27 @@ The following sections survive any termination of this User Agreement: Fees and 
 If you are a California resident, in accordance with Cal. Civ. Code §1789.3, you may report complaints to the Complaint Assistance Unit of the Division of Consumer Services of the California Department of Consumer Affairs by contacting them in writing at 400 R Street, Sacramento, CA 95814, or by telephone at (800) 952-5210.
 
 Pursuant to 815 ILCS 414/1.5(c), for transactions involving tickets to events in Illinois, buyers and sellers may elect to submit complaints against one another to the American Arbitration Association ("AAA") under its rules and procedures. The AAA's rules are available at [www.adr.org - opens in new window or tab](http://www.adr.org/). Such complaints shall be decided by an independent arbitrator in accordance with this User Agreement. Buyers and sellers further agree to submit to the jurisdiction of the State of Illinois for complaints involving a ticketed event held in Illinois.
+
+### Was this article helpful for you?
+
+You might also be interested in:
+
+* [User Privacy Notice
+    
+    In our User Privacy Notice we have compiled all essential information about our handling of your personal data and your corresponding rights.  
+     
+    
+    This User Privacy Notice is effective from **April 8, 2024**. View the previous User Privacy Notice.
+    
+    15 min article](https://www.ebay.com/help/policies/member-behavior-policies/user-privacy-notice?id=4260)
+* [Cookies, web beacons, and similar technology ("Cookie Notice")
+    
+    Our Cookie Notice details all relevant information regarding the use of cookies, web beacons and similar technologies in connection to eBay's websites, applications, services, products and tools (collectively "Services") and your choices in this regard.
+    
+    13 min article](https://www.ebay.com/help/policies/member-behavior-policies/cookies-web-beacons-similar-technology-cookie-notice?id=4267)
+* [Community content policy
+    
+    Sharing content with other eBay members - either via discussion boards, product reviews, collections or groups - is a great way to help build the eBay community, and is something we encourage all our users to do.
+    
+    4 min article](https://www.ebay.com/help/policies/member-behavior-policies/community-content-policy?id=4265)
+* [eBay employee trading and community content policyIf you're an eBay employee buying and selling on eBay, you have to follow the same rules as all other eBay members.3 min article](https://www.ebay.com/help/policies/member-behavior-policies/ebay-employee-trading-community-content-policy?id=4263)
