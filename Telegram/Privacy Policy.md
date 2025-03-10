@@ -58,7 +58,7 @@ You can add your birthday (with or without the year) to your Telegram profile if
 
 When you enable 2-step-verification for your account or store documents using the Telegram Passport feature, you can opt to set up a password recovery email. This address will only be used to send you a password recovery code if you forget it. That's right: no marketing or “we miss you” bullshit.
 
-From September 2022, we may ask some users to provide an email address to receive login codes via email instead of SMS (with an option to use 'Sign in With Google' / 'Sign in with Apple'). In this case, we will receive an email address which will be stored separately from the recovery email, and will only be used to send you authentication codes when you log in to your account. The login email address will be stored until it is changed or the account is deleted.
+From September 2022, we may ask some users to provide an email address to receive login codes via email instead of SMS (with an option to use 'Sign in with Google' / 'Sign in with Apple'). In this case, we will receive an email address which will be stored separately from the recovery email, and will only be used to send you authentication codes when you log in to your account. The login email address will be stored until it is changed or the account is deleted.
 
 #### [](#3-3-your-messages)3.3. Your Messages
 
