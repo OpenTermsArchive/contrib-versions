@@ -248,7 +248,7 @@ _For Parents and Guardians._ The Services are not intended for children under th
 
 **X. Contact Us**
 
-If you have any questions, comments or concerns about these Terms of Service and/or our Services you may contact us via email at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection). However, please note that communications made through our Services’ e-mail and messaging system shall in no way be deemed to constitute legal notice to us or any of its officers, employees, agents or representatives, such as where notice to us is required by contract, or any federal, state or local laws, rules or regulations. You may provide legal notice to us here: Super Basic, LLC, 1510 Fashion Island Blvd, #350, San Mateo, CA 94404.
+If you have any questions, comments or concerns about these Terms of Service and/or our Services you may contact us via email at [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection). However, please note that communications made through our Services’ e-mail and messaging system shall in no way be deemed to constitute legal notice to us or any of its officers, employees, agents or representatives, such as where notice to us is required by contract, or any federal, state or local laws, rules or regulations. You may provide legal notice to us here: Super Basic, LLC, 9570 West Pico Blvd, Los Angeles, CA 90035.
 
 **Part B: Terms for Purchase of Premium or Subscription Services**
 
@@ -359,9 +359,9 @@ Post: Copyright Agent, Super Basic, LLC
 
 Copyright Team
 
-1510 Fashion Island Blvd #350
+9570 West Pico Blvd
 
-San Mateo, CA 94404 USA
+Los Angeles, CA 90035 USA
 
 Email: [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection)
 
@@ -420,7 +420,7 @@ Please note that any refunds or reimbursements to which you may be entitled must
 
 _Right of Withdrawal._ You have the right to withdraw from this agreement within 14 days without giving any reason. The withdrawal period will expire after 14 days from the day of the conclusion of the agreement.
 
-To exercise the right of withdrawal, you must inform us (Super Basic, LLC, 1510 Fashion Island Blvd, #350, San Mateo, CA 94404 USA; [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection)) of your decision to withdraw from this agreement by an unequivocal statement (e.g., a letter sent by post or e-mail). You may use the below model withdrawal form, but it is not obligatory.
+To exercise the right of withdrawal, you must inform us (Super Basic, LLC, 9570 West Pico Blvd, Los Angeles, CA 90035 USA; [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection)) of your decision to withdraw from this agreement by an unequivocal statement (e.g., a letter sent by post or e-mail). You may use the below model withdrawal form, but it is not obligatory.
 
 To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
 
@@ -434,7 +434,7 @@ _Right of Withdrawal._ You have the right to withdraw from this agreement within
 
 The withdrawal period will expire after 14 days from the day of the conclusion of the agreement.
 
-To exercise the right of withdrawal, you must inform us (Super Basic, LLC, 1510 Fashion Island Blvd, #350, San Mateo, CA 94404 USA; [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection)) of your decision to withdraw from this agreement by an unequivocal statement (e.g., a letter sent by post or e-mail). You may use the below model withdrawal form, but it is not obligatory.
+To exercise the right of withdrawal, you must inform us (Super Basic, LLC, 9570 West Pico Blvd, Los Angeles, CA 90035 USA; [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection)) of your decision to withdraw from this agreement by an unequivocal statement (e.g., a letter sent by post or e-mail). You may use the below model withdrawal form, but it is not obligatory.
 
 To meet the withdrawal deadline, it is sufficient for you to send your communication concerning your exercise of the right of withdrawal before the withdrawal period has expired.
 
@@ -454,7 +454,7 @@ To
 
 Super Basic, LLC
 
-1510 Fashion Island Blvd, #350, San Mateo, CA 94404 USA
+9570 West Pico Blvd, Los Angeles, CA 90035 USA
 
 [\[email protected\]](https://weheartit.com/cdn-cgi/l/email-protection)
 
