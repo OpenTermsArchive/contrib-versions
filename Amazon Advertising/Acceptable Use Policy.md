@@ -1,10 +1,27 @@
-Overview
-========
+General creative guidelines and advertiser copy
+===============================================
 
-Provides a general overview of advertising on Alexa guidelines.
+We apply a high creative bar to ad content to ensure a consistent, high-quality customer experience. This section details our general guidelines as well as certain ad features, such as a Call to Actions (CTA) and customer reviews, that have unique requirements.
 
-All advertising content on Alexa must:
+More ways to learn
+------------------
 
-* Be appropriate for a general audience.
-* Adhere to the existing [Amazon Ads Guidelines and Acceptance Policies](https://advertising.amazon.com/help/G26M9XTK78AMR8TP).
-* Comply with all laws, rules, and regulations that apply to the advertiser, the advertising content, and the location in which the advertisements appear.
+Check out our library of videos and e-learning material to expand your Amazon Ads knowledge.
+
+Courses
+
+Identify core policies for Sponsored ads
+========================================
+
+[10:00
+
+![](https://amazadshelp.s3.amazonaws.com/Thumbnails-+Courses+/course34_enUS_IdentifyCorePoliciesforSponsoredAds.JPG)
+
+5.0
+
+Beginner
+
+##### Identify core policies for Sponsored ads](https://advertising.amazon.com/academy/student/path/1535?ref_=advcnsl_ww_MoreWaysToLearn)
+
+Identify core policies for Sponsored ads
+========================================
