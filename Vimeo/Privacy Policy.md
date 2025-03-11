@@ -1,7 +1,7 @@
 **Vimeo Privacy Policy**
 ========================
 
-Last Updated: February 24, 2025
+Last Updated: March 11, 2025
 
 This Privacy Policy explains the information that Vimeo collects when you use our products and services or otherwise interact with us, how that information is used, with whom it may be shared, and your privacy choices.
 
@@ -222,7 +222,7 @@ Vimeo is based in the United States. We provide services globally using computer
 
 Vimeo complies with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from the EEA, the UK, and Switzerland, respectively. Vimeo has certified that it adheres to the DPF Principles. The following Vimeo subsidiaries also adhere to the DPF Principles: Livestream LLC and VideoJi, Inc. Vimeo remains responsible for any of your personal information that is shared under the Onward Transfer Principle with third parties for external processing on our behalf. If there is any conflict between the terms in this Privacy Policy and the DPF Principles, the Principles shall govern. To learn more about the DPF program, and to view our certification, visit the [DPF website](https://www.dataprivacyframework.gov/).
 
-If you have an inquiry regarding our privacy practices in relation to our DPF certification, we encourage you to contact us at the address listed in **Section 15**. Vimeo is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. You may also refer a complaint to your local data protection authority and we will work with them to resolve your concern. In certain circumstances, the DPF provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in [Annex I to the DPF Principles](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2&hl=en_US). You may contact [NAM](https://www.namadr.com/), our U.S.-based alternative dispute resolution provider, for more information or to file a complaint, at no cost to you.
+If you have an inquiry regarding our privacy practices in relation to our DPF certification, we encourage you to contact us at the address listed in **Section 15**. Vimeo is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission. You may also refer a complaint to your local data protection authority and we will work with them to resolve your concern. In certain circumstances, the DPF provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in [Annex I to the DPF Principles](https://www.dataprivacyframework.gov/s/article/ANNEX-I-introduction-dpf?tabset-35584=2&hl=en_US). You may contact [JAMS](https://www.jamsadr.com/dpf-dispute-resolution), our U.S.-based alternative dispute resolution provider, for more information or to file a complaint, at no cost to you.
 
 14\. Your Privacy Rights
 ------------------------
