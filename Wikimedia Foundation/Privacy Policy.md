@@ -5,7 +5,7 @@ Other languages:
 
 * [](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3APrivacy+policy&language=&task=view "Start translation for this language")
 * [Avañe'ẽ](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/gn "Policy:Privacy policy/gn (6% translated)")
-* [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/id "Policy:Privacy policy/id (55% translated)")
+* [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/id "Policy:Privacy policy/id (57% translated)")
 * [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ms "Policy:Privacy policy/ms (47% translated)")
 * [Basa Banyumasan](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/map-bms "Policy:Privacy policy/map-bms (9% translated)")
 * [British English](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/en-gb "Policy:Privacy policy/en-gb (62% translated)")
