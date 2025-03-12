@@ -65,9 +65,8 @@ What personal information do you collect and process?
 Generally, we collect, use, disclose, and process personal information in the following categories.  
   
 
-|     |     |
-| --- | --- |
 | **Category** | **Examples** |
+| --- | --- |
 | **Name & contact information** | Name, address, phone number, social media user ID, and email address |
 | **Account information** | Account ID, User ID, account profile, settings and preferences, purchase history, subscriptions, and registrations |
 | **Security information** | User credentials — username and password — and similar security information, individual network activity in security and audit logs |
@@ -112,9 +111,8 @@ How do you use personal information?
 
 This section includes details of the purposes for which we use personal information and the different legal reasons — also called legal basis — for processing that personal information.
 
-|     |     |
-| --- | --- |
 | **Purpose** | **Legal basis** |
+| --- | --- |
 | * To fulfill our contractual obligations, including registering your account and providing our Services, and to fulfill our obligations as an employer<br>    <br>* Communicate with you about our Services and process related transactions<br>    <br>* For any purpose, with your consent or to follow your instructions | * Our performance of a contract<br>    <br>* As outlined in your consents or instructions |
 | * To operate, improve, or personalize our Services, corporate networks and devices, offices, events, and related infrastructure<br>* To annotate, tag, and add metadata to our content, including naming or tagging individuals in our news content<br>* Develop new products, services, content, and other offerings <br>* Monitor the usage of our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Audit usage of our Services, corporate networks and devices, offices, events, and related infrastructure, including consumer interactions<br>* Ensure the security of our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Detect fraud and abuse, including for our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Manage our internal operations, such as account administration, corporate asset deployment, billing, troubleshooting, and repair | * Our performance of a contract<br>    <br>* As outlined in your consents or instructions<br>    <br>* To pursue legitimate interests |
 | * Provide our Services to third parties where our Services and content include your personal information. Under some local privacy laws, this may constitute a “sale” of personal information. | * Our performance of a contract<br>    <br>* As outlined in your consents or instructions<br>    <br>* To pursue legitimate interests |
@@ -216,21 +214,29 @@ California Consumer Request Metrics
 
 January 1 – December 31, 2023
 
-|     |     |     |     |
+| **Data Access Requests** | **Count** | **Average Days to Close** | **Median Days to Close** |
 | --- | --- | --- | --- |
-| **Request Type** | **Count** | **Average Days to Close** | **Median Days to Close** |
-| **Data Access Request** | **112** | **15** | **7** |
+| **TOTAL** | **112** | **15** | **7** |
 | COMPLETE | 15  | 37  | 36  |
 | REJECTED | 97  | 12  | 6   |
-| **Delete my PI\*** | **170** | **15** | **6** |
+
+| **Delete my Personal Information\* Requests** | **Count** | **Average Days to Close** | **Median Days to Close** |
+| --- | --- | --- | --- |
+| **TOTAL** | **170** | **15** | **6** |
 | COMPLETE | 52  | 37  | 38  |
 | REJECTED | 118 | 6   | 4   |
-| **Do Not Sell My Personal Information** | **2,052** | **2** | **1** |
-| COMPLETE | 1,833 | 2   | 1   |
-| REJECTED | 219 | 4   | 3   |
-| **Grand Total** | **2,334** | 3   | **1** |
 
 \*No requests that required deletion under each provision in California Civil Code section 1798.145 or 1798.146 were partially or wholly denied.
+
+| **Do Not Sell My Personal Information Requests** | **Count** | **Average Days to Close** | **Median Days to Close** |
+| --- | --- | --- | --- |
+| TOTAL | **2,052** | **2** | **1** |
+| COMPLETE | 1,833 | 2   | 1   |
+| REJECTED | 219 | 4   | 3   |
+
+| **All Request Types** | **Count** | **Average Days to Close** | **Median Days to Close** |
+| --- | --- | --- | --- |
+| **Grand Total** | **2,334** | **3** | **1** |
 
 Published in accordance with Section 999.317(g) of the CCPA Regulations & The Delete Act of 2023, SB 362
 
@@ -293,9 +299,8 @@ However, California law requires we restate some of this information for specifi
 Categories of personal information collected
 --------------------------------------------
 
-|     |     |     |
-| --- | --- | --- |
 | **Category of personal information** | **Examples as defined in CCPA/CPRA** | **Collected** |
+| --- | --- | --- |
 | A. Identifiers | Real name, alias, postal address, unique personal identifier, online identifier, internet protocol address, email address, account name, social security number, driver’s license number, passport number, or other similar identifiers. | ✔   |
 | B. Personal information categories listed in the California Customer Records statute, Cal. Civ. Code § 1798.80(e) | Name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information, or health insurance information. | ✔   |
 | C. Protected classification characteristics under California or federal law | Age, 40 years or older; race; color; ancestry; national origin; citizenship; religion or creed; marital status; medical condition; physical or mental disability; sex, including gender, gender identity, gender expression, pregnancy or childbirth, and related medical conditions; sexual orientation; veteran or military status; or genetic information, including familial genetic information. | ✔   |
@@ -314,9 +319,8 @@ Categories of personal information collected
 Categories of personal information disclosed for a business purpose
 -------------------------------------------------------------------------
 
-|     |     |
-| --- | --- |
 | **Category of Personal Information** | **Disclosed** |
+| --- | --- |
 | A. Identifiers | ✔   |
 | B. Personal information categories listed in the California Customer Records statute, Cal. Civ. Code § 1798.80(e) | ✔   |
 | C. Protected classification characteristics under California or federal law | ✔   |
@@ -335,9 +339,8 @@ Categories of personal information disclosed for a business purpose
 Categories of personal information sold or shared
 -------------------------------------------------------
 
-|     |     |
-| --- | --- |
 | **Category of Personal Information** | **Sold** |
+| --- | --- |
 | A. Identifiers | ✔   |
 | B. Personal information categories listed in the California Customer Records statute, Cal. Civ. Code § 1798.80(e) | ✔   |
 | C. Protected classification characteristics under California or federal law | ✔   |
@@ -496,9 +499,8 @@ We may, where applicable under the Chinese laws, rely on some or all of the foll
 
 The below table includes the relevant purposes for the personal information processing and the corresponding legal basis. This table is for indicative purposes only, and in practice, there may be some variations based on the circumstances.
 
-|     |     |
-| --- | --- |
 | **Purpose** | **Legal basis** |
+| --- | --- |
 | * To fulfill our contractual obligations, including registering your account and providing our Services<br>    <br>* Communicate with you about our Services and process related transactions<br>    <br>* For any purpose, with your consent or to follow your instructions | * Contract Basis<br>    <br>* Individual Consent |
 | * To operate, improve, or personalize our Services, corporate networks and devices, offices, events, and related infrastructure<br>* To annotate, tag, and add metadata to our content, including naming or tagging individuals in our news content<br>* Develop new products, services, content, and other offerings <br>* Monitor the usage of our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Audit usage of our Services, corporate networks and devices, offices, events, and related infrastructure, including consumer interactions<br>* Ensure the security of our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Detect fraud and abuse, including for our Services, corporate networks and devices, offices, events, and related infrastructure<br>* Manage our internal operations, such as account administration, corporate asset deployment, billing, troubleshooting, and repair | * Contract Basis<br>    <br>* Individual Consent |
 | * Provide our Services to third parties where our Services and content include your personal information.<br>* Send you personalized and interest-based advertising and marketing <br>* Improve and develop new marketing campaigns, segments, and materials<br>* To enable you to partake in a prize draw or competition or complete a survey | * Contract Basis<br>    <br>* Individual Consent<br>    <br><br>* Public Information Basis<br><br>* Individual Consent |
