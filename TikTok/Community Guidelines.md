@@ -1,455 +1,287 @@
-Community Guidelines
-====================
-
-Overview
---------
+Community Principles
+--------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-Thank you for helping to keep TikTok a welcoming space for everyone!
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-**Content Moderation**
-
-Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
-
-Remove content that we do not allow
-
-Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
-
-Restrict content that is not suitable for youth
-
-We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
-
-Make ineligible for the FYF content that does not meet our recommendation standards
-
-The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
-
-Empower our community with information, tools, and resources
-
-We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
-
-Community Guidelines
-====================
-
-Overview
---------
+Community Principles
+--------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-Thank you for helping to keep TikTok a welcoming space for everyone!
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-**Content Moderation**
-
-Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
-
-Remove content that we do not allow
-
-Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
-
-Restrict content that is not suitable for youth
-
-We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
-
-Make ineligible for the FYF content that does not meet our recommendation standards
-
-The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
-
-Empower our community with information, tools, and resources
-
-We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
-
-Community Guidelines
-====================
-
-Overview
---------
+Community Principles
+--------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-Thank you for helping to keep TikTok a welcoming space for everyone!
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-**Content Moderation**
-
-Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
-
-Remove content that we do not allow
-
-Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
-
-Restrict content that is not suitable for youth
-
-We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
-
-Make ineligible for the FYF content that does not meet our recommendation standards
-
-The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
-
-Empower our community with information, tools, and resources
-
-We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
-
-Community Guidelines
-====================
-
-Overview
---------
+Community Principles
+--------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-Thank you for helping to keep TikTok a welcoming space for everyone!
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-**Content Moderation**
-
-Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
-
-Remove content that we do not allow
-
-Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
-
-Restrict content that is not suitable for youth
-
-We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
-
-Make ineligible for the FYF content that does not meet our recommendation standards
-
-The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
-
-Empower our community with information, tools, and resources
-
-We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
-
-Community Guidelines
-====================
-
-Overview
---------
+Community Principles
+--------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-Thank you for helping to keep TikTok a welcoming space for everyone!
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-**Content Moderation**
-
-Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
-
-Remove content that we do not allow
-
-Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
-
-Restrict content that is not suitable for youth
-
-We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
-
-Make ineligible for the FYF content that does not meet our recommendation standards
-
-The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
-
-Empower our community with information, tools, and resources
-
-We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
-
-Community Guidelines
-====================
-
-Overview
---------
+Community Principles
+--------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-Thank you for helping to keep TikTok a welcoming space for everyone!
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-**Content Moderation**
-
-Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
-
-Remove content that we do not allow
-
-Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
-
-Restrict content that is not suitable for youth
-
-We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
-
-Make ineligible for the FYF content that does not meet our recommendation standards
-
-The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
-
-Empower our community with information, tools, and resources
-
-We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
-
-Community Guidelines
-====================
-
-Overview
---------
+Community Principles
+--------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-Thank you for helping to keep TikTok a welcoming space for everyone!
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-**Content Moderation**
-
-Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
-
-Remove content that we do not allow
-
-Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
-
-Restrict content that is not suitable for youth
-
-We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
-
-Make ineligible for the FYF content that does not meet our recommendation standards
-
-The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
-
-Empower our community with information, tools, and resources
-
-We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
-
-Community Guidelines
-====================
-
-Overview
---------
+Community Principles
+--------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-Thank you for helping to keep TikTok a welcoming space for everyone!
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-**Content Moderation**
-
-Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
-
-Remove content that we do not allow
-
-Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
-
-Restrict content that is not suitable for youth
-
-We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
-
-Make ineligible for the FYF content that does not meet our recommendation standards
-
-The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
-
-Empower our community with information, tools, and resources
-
-We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
-
-Community Guidelines
-====================
-
-Overview
---------
+Community Principles
+--------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-Thank you for helping to keep TikTok a welcoming space for everyone!
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-**Content Moderation**
-
-Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
-
-Remove content that we do not allow
-
-Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
-
-Restrict content that is not suitable for youth
-
-We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
-
-Make ineligible for the FYF content that does not meet our recommendation standards
-
-The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
-
-Empower our community with information, tools, and resources
-
-We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
-
-Community Guidelines
-====================
-
-Overview
---------
+Community Principles
+--------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-Thank you for helping to keep TikTok a welcoming space for everyone!
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-**Content Moderation**
-
-Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
-
-Remove content that we do not allow
-
-Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
-
-Restrict content that is not suitable for youth
-
-We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
-
-Make ineligible for the FYF content that does not meet our recommendation standards
-
-The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
-
-Empower our community with information, tools, and resources
-
-We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
-
-Community Guidelines
-====================
-
-Overview
---------
+Community Principles
+--------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-Thank you for helping to keep TikTok a welcoming space for everyone!
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
 
-**Content Moderation**
-
-Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
-
-Remove content that we do not allow
-
-Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
-
-Restrict content that is not suitable for youth
-
-We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
-
-Make ineligible for the FYF content that does not meet our recommendation standards
-
-The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
-
-Empower our community with information, tools, and resources
-
-We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
-
-Community Guidelines
-====================
-
-Overview
---------
+Community Principles
+--------------------
 
 Released April 17, 2024
 
 Effective May 17, 2024
 
-TikTok is a source of entertainment and enrichment where you can discover, create, and connect with others across the world. Our mission is to inspire creativity and bring joy.
+TikTok has eight guiding community principles that are grounded in safety and our commitment to respecting [human rights](https://www.tiktok.com/transparency/upholding-human-rights/?lang=en). Our principles shape our day-to-day work and guide how we approach difficult enforcement decisions. They are centered on these themes:
 
-We have Community Guidelines to create a welcoming, safe, and entertaining experience. The guidelines apply to everyone and everything on our platform. They include **rules** for what is allowed on TikTok, as well as **standards** for what is eligible for the For You feed (FYF). To address new risks and harms, the guidelines are updated on an ongoing basis.
+* Balancing harm prevention and expression
+* Embracing human dignity
+* Ensuring our actions are fair
 
-To help you read through the guidelines, we organize them by topic area, and highlight each rule in bold. Under each section you can click **_More information_** for definitions, examples, and clarifications to common questions. The examples do not cover everything (we are telling you this now so that you do not have to repeatedly read the phrase "including, but not limited to"). If you are ever in doubt about what to share, please remember to be kind and treat others the way that you would want to be treated.
+We recognize that sometimes these principles will be in tension with each other, and we carefully consider when we weigh one over another. These considerations are informed by international legal frameworks and industry best practices, including the [UN Guiding Principles on Business and Human Rights](https://www.ohchr.org/sites/default/files/documents/publications/guidingprinciplesbusinesshr_en.pdf), the [International Bill of Human Rights](https://www.ohchr.org/en/what-are-human-rights/international-bill-human-rights), the [Convention on the Rights of Children](https://www.ohchr.org/en/professionalinterest/pages/crc.aspx), and the [Santa Clara Principles](https://santaclaraprinciples.org/). We also seek input from our community, safety and public health experts, and our [Advisory Councils](https://www.tiktok.com/transparency/advisory-councils/?lang=en).
 
-Thank you for helping to keep TikTok a welcoming space for everyone!
-
-**Content Moderation**
-
-Keeping our platform safe, trustworthy, and vibrant requires balancing creative expression and preventing harm. We use a combination of safety approaches to strike the right balance:
-
-Remove content that we do not allow
-
-Everyone who joins TikTok has the ability to freely share content on the platform. However, we remove content--whether posted publicly or privately--when we find that it violates our rules.
-
-Restrict content that is not suitable for youth
-
-We allow a range of content on our platform, but also recognize that not all of it may be suitable for younger audiences. We restrict content that may not be suitable so that it is only viewed by adults (18 years and older). A summary of restricted content categories can be found [here](https://www.tiktok.com/community-guidelines/en/youth-safety/?cgversion=2024H1update&lang=en).
-
-Make ineligible for the FYF content that does not meet our recommendation standards
-
-The FYF is an opportunity to discover new content and reach new audiences, but it is not guaranteed that all content will be recommended. Content that does not meet our standards will be ineligible for the FYF. A summary of these standards can be found [here](https://www.tiktok.com/community-guidelines/en/fyf-standards/?cgversion=2024H1update&lang=en).
-
-Empower our community with information, tools, and resources
-
-We want to make sure you have the right information to help you manage your experience on TikTok. We may add labels, "opt-in" screens, or warnings to provide more context. Our [safety toolkit](https://www.tiktok.com/safety/community-controls/?lang=en) can help you to filter out content with specific hashtags or comments that you are not comfortable seeing, and we also offer [account controls](https://support.tiktok.com/en/account-and-privacy) and in-app features with [safety resources](https://www.tiktok.com/safety?lang=en).
+1. **Prevent harm:** Our primary focus is keeping TikTok safe and a place for joy. We consider the many ways that content or behavior may impact our diverse community. This includes individual physical, psychological, financial, and privacy harms, as well as societal harms. To strike the right balance with free expression, we restrict content only when necessary and in a way that seeks to minimize the impact on speech.
+2. **Enable free expression:** The creativity unlocked by expression is what powers our vibrant community. We honor this principle by providing the opportunity to share freely on our platform while also proactively addressing behavior that can inhibit speech of others. However, free expression is not an absolute right – it is always considered in proportion to its potential harm, and does not extend to having your content recommended in the For You feed.
+3. **Foster civility:** Civility creates respect between people and helps communities thrive. The way we engage with each other online can sometimes threaten positive interactions with others, so being civil on TikTok is critical to fulfilling our mission. This means acknowledging everyone’s inherent dignity and conducting ourselves as if we were face-to-face. To ensure space for expression, we do allow more latitude for social critique of [public figures](https://www.tiktok.com/community-guidelines/en/safety-civility?lang=en&cgversion=2024H1update#7).
+4. **Respect local context:** TikTok brings together over a billion people across 150+ countries in one shared digital space. We work with regional experts and local communities to help ensure that our global approach considers the way harms are experienced across regions, and that we allow for regional applications of our guidelines, while maintaining a baseline of internationally recognized human rights.
+5. **Champion inclusion:** We want people from around the world to feel welcome on our platform. We value and celebrate different cultures, identities, appearances, viewpoints, interests, and experiences. We know some communities historically have been afforded fewer opportunities for engagement, so we are committed to the principle of equality and mitigating harms that disproportionately affect marginalized groups.
+6. **Protect individual privacy**: We are committed to protecting and respecting the privacy of our community and of individuals who are shown or discussed in content on the platform. We seek to ensure that content shared on the platform does not expose anyone’s personal information or invade their intimate privacy.
+7. **Provide transparency and consistency**: We want everyone to know what our rules and standards are and how we apply them. We seek to provide clear notice of our policies and practices, to apply them consistently and equitably, and to share our enforcement efforts in our [Transparency Center](https://www.tiktok.com/transparency?lang=en). We will be clear throughout the guidelines when we need to prioritize another principle over consistency, such as local context or inclusion.
+8. **Be fair and just:** Moderating millions of pieces of content each day is a complex effort, and developing a trusted process to do so is foundational. We are committed to being impartial and evidence-based, producing fair outcomes, giving notice of enforcement actions, and providing an opportunity to appeal.
