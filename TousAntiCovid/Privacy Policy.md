@@ -6,9 +6,7 @@
 [![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
-
-
-======================================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
 Recherche 
 
@@ -17,8 +15,11 @@ Recherche
     Retour
     
     * * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    
     * * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    
     * * [Presse](https://sante.gouv.fr/actualites/presse/)
+    
     * * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
@@ -35,12 +36,14 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
+    
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
@@ -52,6 +55,7 @@ Recherche
             * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
             * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
             
+    
     * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
             * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
@@ -62,6 +66,7 @@ Recherche
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
+    
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -79,6 +84,7 @@ Recherche
             * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
+    
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
@@ -88,6 +94,7 @@ Recherche
             * [Agences et opérateurs](https://sante.gouv.fr/ministere/acteurs/agences-et-operateurs/)
             * [Instances rattachées](https://sante.gouv.fr/ministere/acteurs/instances-rattachees/)
             * [Partenaires](https://sante.gouv.fr/ministere/acteurs/partenaires/)
+    
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
@@ -102,11 +109,13 @@ Recherche
             * [Intelligence économique et sécurité des infrastructures sensibles](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/intelligence-economique-et-securite-des-infrastructures-sensibles)
             * [Cyber sécurité](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/cyber-securite)
             
+    
     * * [Documentation et publications officielles](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/)
             * [Bulletins officiels et documents opposables](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/bulletins-officiels-et-documents-opposables/)
             * [Guides](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/guides/)
             * [Rapports](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/rapports/)
             * [Ressources documentaires](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/ressources-documentaires/)
+    
     * * [Formulaires](https://sante.gouv.fr/ministere/formulaires/)
             * [Formulaires Santé](https://sante.gouv.fr/ministere/formulaires/formulaires-sante-10497/)
         * [Consultations publiques](https://sante.gouv.fr/ministere/consultations-publiques/)
@@ -118,6 +127,7 @@ Recherche
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
+    
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
             * [Concours et examens professionnels - Généralités](https://sante.gouv.fr/metiers-et-concours/les-concours/article/concours-et-examens-professionnels-generalites)
@@ -128,6 +138,7 @@ Recherche
             * [Résultats, compositions des jurys, rapports des jurys, statistiques](https://sante.gouv.fr/metiers-et-concours/les-concours/resultats-composition-des-jurys-rapports-des-jurys-statistiques/)
             * [Annales numériques des épreuves écrites](https://sante.gouv.fr/metiers-et-concours/les-concours/annales-numeriques-des-epreuves-ecrites/)
             
+    
     * * [Les métiers de la santé](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/)
             
             * [Le répertoire des métiers de la santé et de l’autonomie - fonction publique hospitalière](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/le-repertoire-des-metiers-de-la-sante-et-de-l-autonomie-fonction-publique/)
@@ -140,6 +151,7 @@ Recherche
     Retour
     
     * * [Tout pour les professionnels de la santé](https://sante.gouv.fr/professionnels/)
+    
     * * [Gérer un établissement de santé / médico-social](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
             * [Groupements hospitaliers de territoire](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/groupements-hospitaliers-de-territoire/)
             * [Plateformes territoriales d’appui](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/plateformes-territoriales-d-appui/)
@@ -154,6 +166,7 @@ Recherche
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
         * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
+    
     * * [Se former, s’installer, exercer](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/)
             
             * [Études de médecine : réforme du 3ème cycle](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/etudes-de-medecine-reforme-du-3eme-cycle/)
@@ -162,6 +175,7 @@ Recherche
             * [Le service sanitaire](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/article/le-service-sanitaire)
             * [La recertification des médecins](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/recertification-medecins/)
             
+    
     * * [Améliorer les conditions d’exercice](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/)
             * [Qualité de vie au travail - QVT](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/qualite-de-vie-au-travail-QVT/)
             * [Santé au travail en établissement de santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/sante-au-travail-en-etablissement-de-sante/)
@@ -183,6 +197,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -197,6 +212,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -212,6 +228,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -219,6 +236,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -248,6 +266,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -262,6 +281,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -274,6 +294,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -283,6 +304,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -318,6 +340,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -335,12 +358,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -357,6 +382,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -377,6 +403,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -384,6 +411,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -394,6 +422,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -401,6 +430,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -424,6 +454,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -438,6 +469,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -453,6 +485,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -460,6 +493,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -489,6 +523,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -503,6 +538,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -515,6 +551,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -524,6 +561,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -559,6 +597,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -576,12 +615,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -598,6 +639,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -618,6 +660,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -625,6 +668,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -635,6 +679,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -642,6 +687,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -678,35 +724,24 @@ La fin d’un chapitre
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[attestation-vaccin.ameli.fr](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
-* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/) ;
-* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
+* le [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
+    
+    Vous avez été vacciné par un professionnel de santé ?  
+    Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
+    
+    * Commencer l’importation
+        * Connectez-vous au **téléservice de l’Assurance Maladie**[](https://attestation-vaccin.ameli.fr/)
+        * [J’ai été vacciné à l’étranger
+            
+            * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+            * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.](https://attestation-vaccin.ameli.fr/)
+    
 
-* * *
-
-Réponses à vos questions sur l’application
-------------------------------------------
-
-[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
-
-Vous avez été vacciné par un professionnel de santé ?  
-Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
-
-* Commencer l’importation
-    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
-    * Cliquez sur « **S’identifier avec FranceConnect** ».
-    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
-    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
-    * Confirmez votre demande comme indiqué dans les instructions.
-
-* J’ai été vacciné à l’étranger
-    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
-
-[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[](https://attestation-vaccin.ameli.fr/)[](https://attestation-vaccin.ameli.fr/)[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -732,49 +767,21 @@ Plus d’informations sur TousAntiCovid
 
 **–** La foire aux questions technique
 
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf)
 
   
 **–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
 
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf)
 
   
 **–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
 
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf)
 
 * * *
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
-
-Suivez-nous  
-sur les réseaux sociaux
--------------------------------------
-
-* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X - Nouvelle fenêtre")
-* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook - Nouvelle fenêtre")
-* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin - Nouvelle fenêtre")
-* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube - Nouvelle fenêtre")
-* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS - Nouvelle fenêtre")
-
-![Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028) 
-
-* [info.gouv.fr](https://info.gouv.fr/)
-* [legifrance.gouv.fr](https://www.legifrance.gouv.fr/)
-* [service public.fr](https://www.service-public.fr/)
-* [data.gouv.fr](https://www.data.gouv.fr/)
-
-* [Plan du site](https://sante.gouv.fr/spip.php?page=plan)
-* [Accessibilité : partiellement conforme](https://sante.gouv.fr/ministere/article/declaration-d-accessibilite-du-site-sante-gouv-fr)
-* [Mentions légales](https://sante.gouv.fr/ministere/article/mentions-legales)
-* [Données personnelles et cookies](https://sante.gouv.fr/ministere/article/donnees-personnelles-et-cookies)
-* [Contacts](https://sante.gouv.fr/ministere/article/nous-contacter)
-* [Archives presse](https://sante.gouv.fr/archives/archives-presse/)
-
-Sauf mention contraire, tous les contenus de ce site sont sous [licence etalab-2.0](https://github.com/etalab/licence-ouverte/blob/master/LO.md)
-
-[Haut de page](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#0 "Haut de page")
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1)\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 * [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#content)
 * [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#main-nav)
@@ -784,9 +791,7 @@ Sauf mention contraire, tous les contenus de ce site sont sous [licence etalab-2
 [![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
-
-
-======================================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
 Recherche 
 
@@ -795,8 +800,11 @@ Recherche
     Retour
     
     * * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    
     * * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    
     * * [Presse](https://sante.gouv.fr/actualites/presse/)
+    
     * * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
@@ -813,12 +821,14 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
+    
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
@@ -830,6 +840,7 @@ Recherche
             * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
             * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
             
+    
     * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
             * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
@@ -840,6 +851,7 @@ Recherche
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
+    
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -857,6 +869,7 @@ Recherche
             * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
+    
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
@@ -866,6 +879,7 @@ Recherche
             * [Agences et opérateurs](https://sante.gouv.fr/ministere/acteurs/agences-et-operateurs/)
             * [Instances rattachées](https://sante.gouv.fr/ministere/acteurs/instances-rattachees/)
             * [Partenaires](https://sante.gouv.fr/ministere/acteurs/partenaires/)
+    
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
@@ -880,11 +894,13 @@ Recherche
             * [Intelligence économique et sécurité des infrastructures sensibles](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/intelligence-economique-et-securite-des-infrastructures-sensibles)
             * [Cyber sécurité](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/cyber-securite)
             
+    
     * * [Documentation et publications officielles](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/)
             * [Bulletins officiels et documents opposables](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/bulletins-officiels-et-documents-opposables/)
             * [Guides](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/guides/)
             * [Rapports](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/rapports/)
             * [Ressources documentaires](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/ressources-documentaires/)
+    
     * * [Formulaires](https://sante.gouv.fr/ministere/formulaires/)
             * [Formulaires Santé](https://sante.gouv.fr/ministere/formulaires/formulaires-sante-10497/)
         * [Consultations publiques](https://sante.gouv.fr/ministere/consultations-publiques/)
@@ -896,6 +912,7 @@ Recherche
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
+    
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
             * [Concours et examens professionnels - Généralités](https://sante.gouv.fr/metiers-et-concours/les-concours/article/concours-et-examens-professionnels-generalites)
@@ -906,6 +923,7 @@ Recherche
             * [Résultats, compositions des jurys, rapports des jurys, statistiques](https://sante.gouv.fr/metiers-et-concours/les-concours/resultats-composition-des-jurys-rapports-des-jurys-statistiques/)
             * [Annales numériques des épreuves écrites](https://sante.gouv.fr/metiers-et-concours/les-concours/annales-numeriques-des-epreuves-ecrites/)
             
+    
     * * [Les métiers de la santé](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/)
             
             * [Le répertoire des métiers de la santé et de l’autonomie - fonction publique hospitalière](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/le-repertoire-des-metiers-de-la-sante-et-de-l-autonomie-fonction-publique/)
@@ -918,6 +936,7 @@ Recherche
     Retour
     
     * * [Tout pour les professionnels de la santé](https://sante.gouv.fr/professionnels/)
+    
     * * [Gérer un établissement de santé / médico-social](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
             * [Groupements hospitaliers de territoire](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/groupements-hospitaliers-de-territoire/)
             * [Plateformes territoriales d’appui](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/plateformes-territoriales-d-appui/)
@@ -932,6 +951,7 @@ Recherche
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
         * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
+    
     * * [Se former, s’installer, exercer](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/)
             
             * [Études de médecine : réforme du 3ème cycle](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/etudes-de-medecine-reforme-du-3eme-cycle/)
@@ -940,6 +960,7 @@ Recherche
             * [Le service sanitaire](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/article/le-service-sanitaire)
             * [La recertification des médecins](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/recertification-medecins/)
             
+    
     * * [Améliorer les conditions d’exercice](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/)
             * [Qualité de vie au travail - QVT](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/qualite-de-vie-au-travail-QVT/)
             * [Santé au travail en établissement de santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/sante-au-travail-en-etablissement-de-sante/)
@@ -961,6 +982,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -975,6 +997,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -990,6 +1013,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -997,6 +1021,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -1026,6 +1051,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -1040,6 +1066,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -1052,6 +1079,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -1061,6 +1089,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -1096,6 +1125,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -1113,12 +1143,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -1135,6 +1167,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -1155,6 +1188,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -1162,6 +1196,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -1172,6 +1207,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -1179,6 +1215,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -1202,6 +1239,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -1216,6 +1254,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -1231,6 +1270,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -1238,6 +1278,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -1267,6 +1308,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -1281,6 +1323,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -1293,6 +1336,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -1302,6 +1346,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -1337,6 +1382,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -1354,12 +1400,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -1376,6 +1424,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -1396,6 +1445,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -1403,6 +1453,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -1413,6 +1464,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -1420,6 +1472,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -1456,35 +1509,24 @@ La fin d’un chapitre
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[attestation-vaccin.ameli.fr](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
-* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/) ;
-* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
+* le [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
+    
+    Vous avez été vacciné par un professionnel de santé ?  
+    Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
+    
+    * Commencer l’importation
+        * Connectez-vous au **téléservice de l’Assurance Maladie**[](https://attestation-vaccin.ameli.fr/)
+        * [J’ai été vacciné à l’étranger
+            
+            * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+            * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.](https://attestation-vaccin.ameli.fr/)
+    
 
-* * *
-
-Réponses à vos questions sur l’application
-------------------------------------------
-
-[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
-
-Vous avez été vacciné par un professionnel de santé ?  
-Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
-
-* Commencer l’importation
-    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
-    * Cliquez sur « **S’identifier avec FranceConnect** ».
-    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
-    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
-    * Confirmez votre demande comme indiqué dans les instructions.
-
-* J’ai été vacciné à l’étranger
-    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
-
-[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[](https://attestation-vaccin.ameli.fr/)[](https://attestation-vaccin.ameli.fr/)[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -1510,21 +1552,21 @@ Plus d’informations sur TousAntiCovid
 
 **–** La foire aux questions technique
 
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf)
 
   
 **–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
 
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf)
 
   
 **–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
 
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf)
 
 * * *
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1)\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 * [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#content)
 * [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#main-nav)
@@ -1534,9 +1576,7 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 [![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
-
-
-======================================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
 Recherche 
 
@@ -1545,8 +1585,11 @@ Recherche
     Retour
     
     * * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    
     * * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    
     * * [Presse](https://sante.gouv.fr/actualites/presse/)
+    
     * * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
@@ -1563,12 +1606,14 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
+    
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
@@ -1580,6 +1625,7 @@ Recherche
             * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
             * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
             
+    
     * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
             * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
@@ -1590,6 +1636,7 @@ Recherche
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
+    
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -1607,6 +1654,7 @@ Recherche
             * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
+    
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
@@ -1616,6 +1664,7 @@ Recherche
             * [Agences et opérateurs](https://sante.gouv.fr/ministere/acteurs/agences-et-operateurs/)
             * [Instances rattachées](https://sante.gouv.fr/ministere/acteurs/instances-rattachees/)
             * [Partenaires](https://sante.gouv.fr/ministere/acteurs/partenaires/)
+    
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
@@ -1630,11 +1679,13 @@ Recherche
             * [Intelligence économique et sécurité des infrastructures sensibles](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/intelligence-economique-et-securite-des-infrastructures-sensibles)
             * [Cyber sécurité](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/cyber-securite)
             
+    
     * * [Documentation et publications officielles](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/)
             * [Bulletins officiels et documents opposables](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/bulletins-officiels-et-documents-opposables/)
             * [Guides](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/guides/)
             * [Rapports](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/rapports/)
             * [Ressources documentaires](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/ressources-documentaires/)
+    
     * * [Formulaires](https://sante.gouv.fr/ministere/formulaires/)
             * [Formulaires Santé](https://sante.gouv.fr/ministere/formulaires/formulaires-sante-10497/)
         * [Consultations publiques](https://sante.gouv.fr/ministere/consultations-publiques/)
@@ -1646,6 +1697,7 @@ Recherche
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
+    
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
             * [Concours et examens professionnels - Généralités](https://sante.gouv.fr/metiers-et-concours/les-concours/article/concours-et-examens-professionnels-generalites)
@@ -1656,6 +1708,7 @@ Recherche
             * [Résultats, compositions des jurys, rapports des jurys, statistiques](https://sante.gouv.fr/metiers-et-concours/les-concours/resultats-composition-des-jurys-rapports-des-jurys-statistiques/)
             * [Annales numériques des épreuves écrites](https://sante.gouv.fr/metiers-et-concours/les-concours/annales-numeriques-des-epreuves-ecrites/)
             
+    
     * * [Les métiers de la santé](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/)
             
             * [Le répertoire des métiers de la santé et de l’autonomie - fonction publique hospitalière](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/le-repertoire-des-metiers-de-la-sante-et-de-l-autonomie-fonction-publique/)
@@ -1668,6 +1721,7 @@ Recherche
     Retour
     
     * * [Tout pour les professionnels de la santé](https://sante.gouv.fr/professionnels/)
+    
     * * [Gérer un établissement de santé / médico-social](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
             * [Groupements hospitaliers de territoire](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/groupements-hospitaliers-de-territoire/)
             * [Plateformes territoriales d’appui](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/plateformes-territoriales-d-appui/)
@@ -1682,6 +1736,7 @@ Recherche
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
         * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
+    
     * * [Se former, s’installer, exercer](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/)
             
             * [Études de médecine : réforme du 3ème cycle](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/etudes-de-medecine-reforme-du-3eme-cycle/)
@@ -1690,6 +1745,7 @@ Recherche
             * [Le service sanitaire](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/article/le-service-sanitaire)
             * [La recertification des médecins](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/recertification-medecins/)
             
+    
     * * [Améliorer les conditions d’exercice](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/)
             * [Qualité de vie au travail - QVT](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/qualite-de-vie-au-travail-QVT/)
             * [Santé au travail en établissement de santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/sante-au-travail-en-etablissement-de-sante/)
@@ -1711,6 +1767,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -1725,6 +1782,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -1740,6 +1798,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -1747,6 +1806,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -1776,6 +1836,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -1790,6 +1851,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -1802,6 +1864,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -1811,6 +1874,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -1846,6 +1910,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -1863,12 +1928,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -1885,6 +1952,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -1905,6 +1973,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -1912,6 +1981,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -1922,6 +1992,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -1929,6 +2000,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -1952,6 +2024,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -1966,6 +2039,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -1981,6 +2055,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -1988,6 +2063,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -2017,6 +2093,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -2031,6 +2108,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -2043,6 +2121,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -2052,6 +2131,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -2087,6 +2167,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -2104,12 +2185,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -2126,6 +2209,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -2146,6 +2230,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -2153,6 +2238,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -2163,6 +2249,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -2170,6 +2257,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -2186,41 +2274,31 @@ Recherche
 [![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
-
-
-======================================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
 Recherche 
 
 [![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
-
-
-======================================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
 Recherche 
 
 [![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
-
-
-======================================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
 [![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
-
-
-======================================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
 [![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
 
 sante.gouv.fr
-
-
-======================================================================================================================================================](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
+=============](https://sante.gouv.fr/ "Ministère du Travail, de la Santé, des Solidarités et des Familles")
 
 ![Ministère du Travail, de la Santé, des Solidarités et des Familles - sante.gouv.fr](IMG/logo/logo-travail-emploi4.png?1735229028)
 
@@ -2237,8 +2315,11 @@ Recherche
     Retour
     
     * * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    
     * * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    
     * * [Presse](https://sante.gouv.fr/actualites/presse/)
+    
     * * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
@@ -2255,12 +2336,14 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
+    
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
@@ -2272,6 +2355,7 @@ Recherche
             * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
             * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
             
+    
     * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
             * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
@@ -2282,6 +2366,7 @@ Recherche
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
+    
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -2299,6 +2384,7 @@ Recherche
             * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
+    
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
@@ -2308,6 +2394,7 @@ Recherche
             * [Agences et opérateurs](https://sante.gouv.fr/ministere/acteurs/agences-et-operateurs/)
             * [Instances rattachées](https://sante.gouv.fr/ministere/acteurs/instances-rattachees/)
             * [Partenaires](https://sante.gouv.fr/ministere/acteurs/partenaires/)
+    
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
@@ -2322,11 +2409,13 @@ Recherche
             * [Intelligence économique et sécurité des infrastructures sensibles](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/intelligence-economique-et-securite-des-infrastructures-sensibles)
             * [Cyber sécurité](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/cyber-securite)
             
+    
     * * [Documentation et publications officielles](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/)
             * [Bulletins officiels et documents opposables](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/bulletins-officiels-et-documents-opposables/)
             * [Guides](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/guides/)
             * [Rapports](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/rapports/)
             * [Ressources documentaires](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/ressources-documentaires/)
+    
     * * [Formulaires](https://sante.gouv.fr/ministere/formulaires/)
             * [Formulaires Santé](https://sante.gouv.fr/ministere/formulaires/formulaires-sante-10497/)
         * [Consultations publiques](https://sante.gouv.fr/ministere/consultations-publiques/)
@@ -2338,6 +2427,7 @@ Recherche
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
+    
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
             * [Concours et examens professionnels - Généralités](https://sante.gouv.fr/metiers-et-concours/les-concours/article/concours-et-examens-professionnels-generalites)
@@ -2348,6 +2438,7 @@ Recherche
             * [Résultats, compositions des jurys, rapports des jurys, statistiques](https://sante.gouv.fr/metiers-et-concours/les-concours/resultats-composition-des-jurys-rapports-des-jurys-statistiques/)
             * [Annales numériques des épreuves écrites](https://sante.gouv.fr/metiers-et-concours/les-concours/annales-numeriques-des-epreuves-ecrites/)
             
+    
     * * [Les métiers de la santé](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/)
             
             * [Le répertoire des métiers de la santé et de l’autonomie - fonction publique hospitalière](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/le-repertoire-des-metiers-de-la-sante-et-de-l-autonomie-fonction-publique/)
@@ -2360,6 +2451,7 @@ Recherche
     Retour
     
     * * [Tout pour les professionnels de la santé](https://sante.gouv.fr/professionnels/)
+    
     * * [Gérer un établissement de santé / médico-social](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
             * [Groupements hospitaliers de territoire](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/groupements-hospitaliers-de-territoire/)
             * [Plateformes territoriales d’appui](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/plateformes-territoriales-d-appui/)
@@ -2374,6 +2466,7 @@ Recherche
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
         * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
+    
     * * [Se former, s’installer, exercer](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/)
             
             * [Études de médecine : réforme du 3ème cycle](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/etudes-de-medecine-reforme-du-3eme-cycle/)
@@ -2382,6 +2475,7 @@ Recherche
             * [Le service sanitaire](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/article/le-service-sanitaire)
             * [La recertification des médecins](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/recertification-medecins/)
             
+    
     * * [Améliorer les conditions d’exercice](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/)
             * [Qualité de vie au travail - QVT](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/qualite-de-vie-au-travail-QVT/)
             * [Santé au travail en établissement de santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/sante-au-travail-en-etablissement-de-sante/)
@@ -2403,6 +2497,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -2417,6 +2512,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -2432,6 +2528,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -2439,6 +2536,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -2468,6 +2566,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -2482,6 +2581,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -2494,6 +2594,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -2503,6 +2604,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -2538,6 +2640,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -2555,12 +2658,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -2577,6 +2682,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -2597,6 +2703,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -2604,6 +2711,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -2614,6 +2722,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -2621,6 +2730,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -2636,8 +2746,11 @@ Recherche
     Retour
     
     * * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    
     * * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    
     * * [Presse](https://sante.gouv.fr/actualites/presse/)
+    
     * * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
@@ -2654,12 +2767,14 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
+    
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
@@ -2671,6 +2786,7 @@ Recherche
             * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
             * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
             
+    
     * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
             * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
@@ -2681,6 +2797,7 @@ Recherche
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
+    
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -2698,6 +2815,7 @@ Recherche
             * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
+    
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
@@ -2707,6 +2825,7 @@ Recherche
             * [Agences et opérateurs](https://sante.gouv.fr/ministere/acteurs/agences-et-operateurs/)
             * [Instances rattachées](https://sante.gouv.fr/ministere/acteurs/instances-rattachees/)
             * [Partenaires](https://sante.gouv.fr/ministere/acteurs/partenaires/)
+    
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
@@ -2721,11 +2840,13 @@ Recherche
             * [Intelligence économique et sécurité des infrastructures sensibles](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/intelligence-economique-et-securite-des-infrastructures-sensibles)
             * [Cyber sécurité](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/cyber-securite)
             
+    
     * * [Documentation et publications officielles](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/)
             * [Bulletins officiels et documents opposables](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/bulletins-officiels-et-documents-opposables/)
             * [Guides](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/guides/)
             * [Rapports](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/rapports/)
             * [Ressources documentaires](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/ressources-documentaires/)
+    
     * * [Formulaires](https://sante.gouv.fr/ministere/formulaires/)
             * [Formulaires Santé](https://sante.gouv.fr/ministere/formulaires/formulaires-sante-10497/)
         * [Consultations publiques](https://sante.gouv.fr/ministere/consultations-publiques/)
@@ -2737,6 +2858,7 @@ Recherche
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
+    
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
             * [Concours et examens professionnels - Généralités](https://sante.gouv.fr/metiers-et-concours/les-concours/article/concours-et-examens-professionnels-generalites)
@@ -2747,6 +2869,7 @@ Recherche
             * [Résultats, compositions des jurys, rapports des jurys, statistiques](https://sante.gouv.fr/metiers-et-concours/les-concours/resultats-composition-des-jurys-rapports-des-jurys-statistiques/)
             * [Annales numériques des épreuves écrites](https://sante.gouv.fr/metiers-et-concours/les-concours/annales-numeriques-des-epreuves-ecrites/)
             
+    
     * * [Les métiers de la santé](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/)
             
             * [Le répertoire des métiers de la santé et de l’autonomie - fonction publique hospitalière](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/le-repertoire-des-metiers-de-la-sante-et-de-l-autonomie-fonction-publique/)
@@ -2759,6 +2882,7 @@ Recherche
     Retour
     
     * * [Tout pour les professionnels de la santé](https://sante.gouv.fr/professionnels/)
+    
     * * [Gérer un établissement de santé / médico-social](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
             * [Groupements hospitaliers de territoire](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/groupements-hospitaliers-de-territoire/)
             * [Plateformes territoriales d’appui](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/plateformes-territoriales-d-appui/)
@@ -2773,6 +2897,7 @@ Recherche
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
         * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
+    
     * * [Se former, s’installer, exercer](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/)
             
             * [Études de médecine : réforme du 3ème cycle](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/etudes-de-medecine-reforme-du-3eme-cycle/)
@@ -2781,6 +2906,7 @@ Recherche
             * [Le service sanitaire](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/article/le-service-sanitaire)
             * [La recertification des médecins](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/recertification-medecins/)
             
+    
     * * [Améliorer les conditions d’exercice](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/)
             * [Qualité de vie au travail - QVT](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/qualite-de-vie-au-travail-QVT/)
             * [Santé au travail en établissement de santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/sante-au-travail-en-etablissement-de-sante/)
@@ -2802,6 +2928,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -2816,6 +2943,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -2831,6 +2959,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -2838,6 +2967,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -2867,6 +2997,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -2881,6 +3012,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -2893,6 +3025,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -2902,6 +3035,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -2937,6 +3071,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -2954,12 +3089,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -2976,6 +3113,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -2996,6 +3134,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -3003,6 +3142,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -3013,6 +3153,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -3020,6 +3161,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -3035,8 +3177,11 @@ Recherche
     Retour
     
     * * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    
     * * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    
     * * [Presse](https://sante.gouv.fr/actualites/presse/)
+    
     * * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
@@ -3053,12 +3198,14 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
+    
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
@@ -3070,6 +3217,7 @@ Recherche
             * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
             * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
             
+    
     * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
             * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
@@ -3080,6 +3228,7 @@ Recherche
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
+    
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -3097,6 +3246,7 @@ Recherche
             * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
+    
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
@@ -3106,6 +3256,7 @@ Recherche
             * [Agences et opérateurs](https://sante.gouv.fr/ministere/acteurs/agences-et-operateurs/)
             * [Instances rattachées](https://sante.gouv.fr/ministere/acteurs/instances-rattachees/)
             * [Partenaires](https://sante.gouv.fr/ministere/acteurs/partenaires/)
+    
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
@@ -3120,11 +3271,13 @@ Recherche
             * [Intelligence économique et sécurité des infrastructures sensibles](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/intelligence-economique-et-securite-des-infrastructures-sensibles)
             * [Cyber sécurité](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/cyber-securite)
             
+    
     * * [Documentation et publications officielles](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/)
             * [Bulletins officiels et documents opposables](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/bulletins-officiels-et-documents-opposables/)
             * [Guides](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/guides/)
             * [Rapports](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/rapports/)
             * [Ressources documentaires](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/ressources-documentaires/)
+    
     * * [Formulaires](https://sante.gouv.fr/ministere/formulaires/)
             * [Formulaires Santé](https://sante.gouv.fr/ministere/formulaires/formulaires-sante-10497/)
         * [Consultations publiques](https://sante.gouv.fr/ministere/consultations-publiques/)
@@ -3136,6 +3289,7 @@ Recherche
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
+    
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
             * [Concours et examens professionnels - Généralités](https://sante.gouv.fr/metiers-et-concours/les-concours/article/concours-et-examens-professionnels-generalites)
@@ -3146,6 +3300,7 @@ Recherche
             * [Résultats, compositions des jurys, rapports des jurys, statistiques](https://sante.gouv.fr/metiers-et-concours/les-concours/resultats-composition-des-jurys-rapports-des-jurys-statistiques/)
             * [Annales numériques des épreuves écrites](https://sante.gouv.fr/metiers-et-concours/les-concours/annales-numeriques-des-epreuves-ecrites/)
             
+    
     * * [Les métiers de la santé](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/)
             
             * [Le répertoire des métiers de la santé et de l’autonomie - fonction publique hospitalière](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/le-repertoire-des-metiers-de-la-sante-et-de-l-autonomie-fonction-publique/)
@@ -3158,6 +3313,7 @@ Recherche
     Retour
     
     * * [Tout pour les professionnels de la santé](https://sante.gouv.fr/professionnels/)
+    
     * * [Gérer un établissement de santé / médico-social](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
             * [Groupements hospitaliers de territoire](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/groupements-hospitaliers-de-territoire/)
             * [Plateformes territoriales d’appui](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/plateformes-territoriales-d-appui/)
@@ -3172,6 +3328,7 @@ Recherche
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
         * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
+    
     * * [Se former, s’installer, exercer](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/)
             
             * [Études de médecine : réforme du 3ème cycle](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/etudes-de-medecine-reforme-du-3eme-cycle/)
@@ -3180,6 +3337,7 @@ Recherche
             * [Le service sanitaire](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/article/le-service-sanitaire)
             * [La recertification des médecins](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/recertification-medecins/)
             
+    
     * * [Améliorer les conditions d’exercice](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/)
             * [Qualité de vie au travail - QVT](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/qualite-de-vie-au-travail-QVT/)
             * [Santé au travail en établissement de santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/sante-au-travail-en-etablissement-de-sante/)
@@ -3201,6 +3359,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -3215,6 +3374,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -3230,6 +3390,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -3237,6 +3398,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -3266,6 +3428,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -3280,6 +3443,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -3292,6 +3456,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -3301,6 +3466,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -3336,6 +3502,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -3353,12 +3520,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -3375,6 +3544,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -3395,6 +3565,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -3402,6 +3573,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -3412,6 +3584,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -3419,6 +3592,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -3434,8 +3608,11 @@ Recherche
     Retour
     
     * * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    
     * * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    
     * * [Presse](https://sante.gouv.fr/actualites/presse/)
+    
     * * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
@@ -3452,12 +3629,14 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
+    
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
@@ -3469,6 +3648,7 @@ Recherche
             * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
             * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
             
+    
     * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
             * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
@@ -3479,6 +3659,7 @@ Recherche
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
+    
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -3496,6 +3677,7 @@ Recherche
             * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
+    
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
@@ -3505,6 +3687,7 @@ Recherche
             * [Agences et opérateurs](https://sante.gouv.fr/ministere/acteurs/agences-et-operateurs/)
             * [Instances rattachées](https://sante.gouv.fr/ministere/acteurs/instances-rattachees/)
             * [Partenaires](https://sante.gouv.fr/ministere/acteurs/partenaires/)
+    
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
@@ -3519,11 +3702,13 @@ Recherche
             * [Intelligence économique et sécurité des infrastructures sensibles](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/intelligence-economique-et-securite-des-infrastructures-sensibles)
             * [Cyber sécurité](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/cyber-securite)
             
+    
     * * [Documentation et publications officielles](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/)
             * [Bulletins officiels et documents opposables](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/bulletins-officiels-et-documents-opposables/)
             * [Guides](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/guides/)
             * [Rapports](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/rapports/)
             * [Ressources documentaires](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/ressources-documentaires/)
+    
     * * [Formulaires](https://sante.gouv.fr/ministere/formulaires/)
             * [Formulaires Santé](https://sante.gouv.fr/ministere/formulaires/formulaires-sante-10497/)
         * [Consultations publiques](https://sante.gouv.fr/ministere/consultations-publiques/)
@@ -3535,6 +3720,7 @@ Recherche
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
+    
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
             * [Concours et examens professionnels - Généralités](https://sante.gouv.fr/metiers-et-concours/les-concours/article/concours-et-examens-professionnels-generalites)
@@ -3545,6 +3731,7 @@ Recherche
             * [Résultats, compositions des jurys, rapports des jurys, statistiques](https://sante.gouv.fr/metiers-et-concours/les-concours/resultats-composition-des-jurys-rapports-des-jurys-statistiques/)
             * [Annales numériques des épreuves écrites](https://sante.gouv.fr/metiers-et-concours/les-concours/annales-numeriques-des-epreuves-ecrites/)
             
+    
     * * [Les métiers de la santé](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/)
             
             * [Le répertoire des métiers de la santé et de l’autonomie - fonction publique hospitalière](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/le-repertoire-des-metiers-de-la-sante-et-de-l-autonomie-fonction-publique/)
@@ -3557,6 +3744,7 @@ Recherche
     Retour
     
     * * [Tout pour les professionnels de la santé](https://sante.gouv.fr/professionnels/)
+    
     * * [Gérer un établissement de santé / médico-social](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
             * [Groupements hospitaliers de territoire](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/groupements-hospitaliers-de-territoire/)
             * [Plateformes territoriales d’appui](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/plateformes-territoriales-d-appui/)
@@ -3571,6 +3759,7 @@ Recherche
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
         * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
+    
     * * [Se former, s’installer, exercer](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/)
             
             * [Études de médecine : réforme du 3ème cycle](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/etudes-de-medecine-reforme-du-3eme-cycle/)
@@ -3579,6 +3768,7 @@ Recherche
             * [Le service sanitaire](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/article/le-service-sanitaire)
             * [La recertification des médecins](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/recertification-medecins/)
             
+    
     * * [Améliorer les conditions d’exercice](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/)
             * [Qualité de vie au travail - QVT](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/qualite-de-vie-au-travail-QVT/)
             * [Santé au travail en établissement de santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/sante-au-travail-en-etablissement-de-sante/)
@@ -3600,6 +3790,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -3614,6 +3805,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -3629,6 +3821,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -3636,6 +3829,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -3665,6 +3859,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -3679,6 +3874,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -3691,6 +3887,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -3700,6 +3897,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -3735,6 +3933,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -3752,12 +3951,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -3774,6 +3975,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -3794,6 +3996,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -3801,6 +4004,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -3811,6 +4015,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -3818,6 +4023,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -3833,8 +4039,11 @@ Recherche
     Retour
     
     * * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    
     * * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    
     * * [Presse](https://sante.gouv.fr/actualites/presse/)
+    
     * * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
@@ -3851,12 +4060,14 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
+    
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
@@ -3868,6 +4079,7 @@ Recherche
             * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
             * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
             
+    
     * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
             * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
@@ -3878,6 +4090,7 @@ Recherche
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
+    
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -3895,6 +4108,7 @@ Recherche
             * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
+    
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
@@ -3904,6 +4118,7 @@ Recherche
             * [Agences et opérateurs](https://sante.gouv.fr/ministere/acteurs/agences-et-operateurs/)
             * [Instances rattachées](https://sante.gouv.fr/ministere/acteurs/instances-rattachees/)
             * [Partenaires](https://sante.gouv.fr/ministere/acteurs/partenaires/)
+    
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
@@ -3918,11 +4133,13 @@ Recherche
             * [Intelligence économique et sécurité des infrastructures sensibles](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/intelligence-economique-et-securite-des-infrastructures-sensibles)
             * [Cyber sécurité](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/cyber-securite)
             
+    
     * * [Documentation et publications officielles](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/)
             * [Bulletins officiels et documents opposables](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/bulletins-officiels-et-documents-opposables/)
             * [Guides](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/guides/)
             * [Rapports](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/rapports/)
             * [Ressources documentaires](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/ressources-documentaires/)
+    
     * * [Formulaires](https://sante.gouv.fr/ministere/formulaires/)
             * [Formulaires Santé](https://sante.gouv.fr/ministere/formulaires/formulaires-sante-10497/)
         * [Consultations publiques](https://sante.gouv.fr/ministere/consultations-publiques/)
@@ -3934,6 +4151,7 @@ Recherche
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
+    
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
             * [Concours et examens professionnels - Généralités](https://sante.gouv.fr/metiers-et-concours/les-concours/article/concours-et-examens-professionnels-generalites)
@@ -3944,6 +4162,7 @@ Recherche
             * [Résultats, compositions des jurys, rapports des jurys, statistiques](https://sante.gouv.fr/metiers-et-concours/les-concours/resultats-composition-des-jurys-rapports-des-jurys-statistiques/)
             * [Annales numériques des épreuves écrites](https://sante.gouv.fr/metiers-et-concours/les-concours/annales-numeriques-des-epreuves-ecrites/)
             
+    
     * * [Les métiers de la santé](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/)
             
             * [Le répertoire des métiers de la santé et de l’autonomie - fonction publique hospitalière](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/le-repertoire-des-metiers-de-la-sante-et-de-l-autonomie-fonction-publique/)
@@ -3956,6 +4175,7 @@ Recherche
     Retour
     
     * * [Tout pour les professionnels de la santé](https://sante.gouv.fr/professionnels/)
+    
     * * [Gérer un établissement de santé / médico-social](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
             * [Groupements hospitaliers de territoire](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/groupements-hospitaliers-de-territoire/)
             * [Plateformes territoriales d’appui](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/plateformes-territoriales-d-appui/)
@@ -3970,6 +4190,7 @@ Recherche
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
         * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
+    
     * * [Se former, s’installer, exercer](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/)
             
             * [Études de médecine : réforme du 3ème cycle](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/etudes-de-medecine-reforme-du-3eme-cycle/)
@@ -3978,6 +4199,7 @@ Recherche
             * [Le service sanitaire](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/article/le-service-sanitaire)
             * [La recertification des médecins](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/recertification-medecins/)
             
+    
     * * [Améliorer les conditions d’exercice](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/)
             * [Qualité de vie au travail - QVT](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/qualite-de-vie-au-travail-QVT/)
             * [Santé au travail en établissement de santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/sante-au-travail-en-etablissement-de-sante/)
@@ -3999,6 +4221,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -4013,6 +4236,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -4028,6 +4252,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -4035,6 +4260,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -4064,6 +4290,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -4078,6 +4305,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -4090,6 +4318,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -4099,6 +4328,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -4134,6 +4364,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -4151,12 +4382,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -4173,6 +4406,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -4193,6 +4427,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -4200,6 +4435,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -4210,6 +4446,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -4217,6 +4454,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -4232,8 +4470,11 @@ Recherche
     Retour
     
     * * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    
     * * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    
     * * [Presse](https://sante.gouv.fr/actualites/presse/)
+    
     * * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
@@ -4250,12 +4491,14 @@ Recherche
             * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
+    
     * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
         * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
             
             * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
             
         * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
             * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
@@ -4267,6 +4510,7 @@ Recherche
             * [Lutte contre les violences : professionnels de santé, portez plainte en cas d’agression verbale ou physique](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/tolerancezero)
             * [Lutte contre les violences : usagers de santé, soignons notre comportement](https://sante.gouv.fr/grands-dossiers/stop-aux-violences-contre-les-professionnels-de-sante/soignonsnotrecomportement)
             
+    
     * * [Les soins palliatifs et la fin de vie](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/)
             
             * [Droit d’accès aux soins d’accompagnement : rappel du cadre législatif](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/les-soins-palliatifs-et-la-fin-de-vie/droit-d-acces-aux-soins-d-accompagnement-rappel-du-cadre-legislatif/)
@@ -4277,6 +4521,7 @@ Recherche
             * [100% Santé : renforcer les professionnels dans leur rôle de partenaires de la santé publique](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/espace-professionnels/article/100-sante-renforcer-les-professionnels-dans-leur-role-de-partenaires-de-la)
             
         * [Bioéthique](https://sante.gouv.fr/grands-dossiers/bioethique/)
+    
     * * [Stratégie nationale en santé mentale et en psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Feuille de route de la santé mentale et de la psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -4294,6 +4539,7 @@ Recherche
             * [Yannick Neuder](https://sante.gouv.fr/ministere/les-ministres/yannick-neuder/)
             * [Organisation](https://sante.gouv.fr/ministere/les-ministres/organisation-11312/)
         * [Missions du ministère](https://sante.gouv.fr/ministere/missions-du-ministere/)
+    
     * * [Les ministères sociaux s’engagent pour la diversité](https://sante.gouv.fr/ministere/missions-du-ministere/article/les-ministeres-sociaux-s-engagent-pour-la-diversite)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Organisation](https://sante.gouv.fr/ministere/organisation/)
@@ -4303,6 +4549,7 @@ Recherche
             * [Agences et opérateurs](https://sante.gouv.fr/ministere/acteurs/agences-et-operateurs/)
             * [Instances rattachées](https://sante.gouv.fr/ministere/acteurs/instances-rattachees/)
             * [Partenaires](https://sante.gouv.fr/ministere/acteurs/partenaires/)
+    
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
@@ -4317,11 +4564,13 @@ Recherche
             * [Intelligence économique et sécurité des infrastructures sensibles](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/intelligence-economique-et-securite-des-infrastructures-sensibles)
             * [Cyber sécurité](https://sante.gouv.fr/ministere/defense-et-securite-hfds/article/cyber-securite)
             
+    
     * * [Documentation et publications officielles](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/)
             * [Bulletins officiels et documents opposables](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/bulletins-officiels-et-documents-opposables/)
             * [Guides](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/guides/)
             * [Rapports](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/rapports/)
             * [Ressources documentaires](https://sante.gouv.fr/ministere/documentation-et-publications-officielles/ressources-documentaires/)
+    
     * * [Formulaires](https://sante.gouv.fr/ministere/formulaires/)
             * [Formulaires Santé](https://sante.gouv.fr/ministere/formulaires/formulaires-sante-10497/)
         * [Consultations publiques](https://sante.gouv.fr/ministere/consultations-publiques/)
@@ -4333,6 +4582,7 @@ Recherche
     * * [Tout sur les métiers et concours](https://sante.gouv.fr/metiers-et-concours/)
         * [Travailler pour le ministère du Travail, de la Santé, des Solidarités et des Familles](https://sante.gouv.fr/metiers-et-concours/article/travailler-pour-le-ministere-du-travail-de-la-sante-des-solidarites-et-des)
         * [Les métiers du soin et de l’accompagnement social recrutent](https://sante.gouv.fr/metiers-et-concours/metiers-soin-et-accompagnement/metiersdusoin)
+    
     * * [Les concours](https://sante.gouv.fr/metiers-et-concours/les-concours/)
             
             * [Concours et examens professionnels - Généralités](https://sante.gouv.fr/metiers-et-concours/les-concours/article/concours-et-examens-professionnels-generalites)
@@ -4343,6 +4593,7 @@ Recherche
             * [Résultats, compositions des jurys, rapports des jurys, statistiques](https://sante.gouv.fr/metiers-et-concours/les-concours/resultats-composition-des-jurys-rapports-des-jurys-statistiques/)
             * [Annales numériques des épreuves écrites](https://sante.gouv.fr/metiers-et-concours/les-concours/annales-numeriques-des-epreuves-ecrites/)
             
+    
     * * [Les métiers de la santé](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/)
             
             * [Le répertoire des métiers de la santé et de l’autonomie - fonction publique hospitalière](https://sante.gouv.fr/metiers-et-concours/les-metiers-de-la-sante/le-repertoire-des-metiers-de-la-sante-et-de-l-autonomie-fonction-publique/)
@@ -4355,6 +4606,7 @@ Recherche
     Retour
     
     * * [Tout pour les professionnels de la santé](https://sante.gouv.fr/professionnels/)
+    
     * * [Gérer un établissement de santé / médico-social](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
             * [Groupements hospitaliers de territoire](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/groupements-hospitaliers-de-territoire/)
             * [Plateformes territoriales d’appui](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/plateformes-territoriales-d-appui/)
@@ -4369,6 +4621,7 @@ Recherche
             * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
         * [Encadrement de l’intérim médical : comprendre le dispositif mis en place depuis le 3 avril 2023](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/article/encadrement-de-l-interim-medical-comprendre-le-dispositif-mis-en-place-depuis)
         * [... Tous les articles](https://sante.gouv.fr/professionnels/gerer-un-etablissement-de-sante-medico-social/)
+    
     * * [Se former, s’installer, exercer](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/)
             
             * [Études de médecine : réforme du 3ème cycle](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/etudes-de-medecine-reforme-du-3eme-cycle/)
@@ -4377,6 +4630,7 @@ Recherche
             * [Le service sanitaire](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/article/le-service-sanitaire)
             * [La recertification des médecins](https://sante.gouv.fr/professionnels/se-former-s-installer-exercer/recertification-medecins/)
             
+    
     * * [Améliorer les conditions d’exercice](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/)
             * [Qualité de vie au travail - QVT](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/qualite-de-vie-au-travail-QVT/)
             * [Santé au travail en établissement de santé](https://sante.gouv.fr/professionnels/ameliorer-les-conditions-d-exercice/sante-au-travail-en-etablissement-de-sante/)
@@ -4398,6 +4652,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -4412,6 +4667,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -4427,6 +4683,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -4434,6 +4691,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -4463,6 +4721,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -4477,6 +4736,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -4489,6 +4749,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -4498,6 +4759,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -4533,6 +4795,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -4550,12 +4813,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -4572,6 +4837,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -4592,6 +4858,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -4599,6 +4866,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -4609,6 +4877,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -4616,6 +4885,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -4866,6 +5136,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -4880,6 +5151,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -4895,6 +5167,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -4902,6 +5175,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -4931,6 +5205,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -4945,6 +5220,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -4957,6 +5233,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -4966,6 +5243,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -5001,6 +5279,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -5018,12 +5297,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -5040,6 +5321,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -5060,6 +5342,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -5067,6 +5350,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -5077,6 +5361,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -5084,6 +5369,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -5105,6 +5391,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -5119,6 +5406,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -5134,6 +5422,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -5141,6 +5430,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -5170,6 +5460,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -5184,6 +5475,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -5196,6 +5488,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -5205,6 +5498,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -5240,6 +5534,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -5257,12 +5552,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -5279,6 +5576,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -5299,6 +5597,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -5306,6 +5605,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -5316,6 +5616,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -5323,6 +5624,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -5344,6 +5646,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -5358,6 +5661,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -5373,6 +5677,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -5380,6 +5685,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -5409,6 +5715,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -5423,6 +5730,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -5435,6 +5743,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -5444,6 +5753,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -5479,6 +5789,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -5496,12 +5807,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -5518,6 +5831,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -5538,6 +5852,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -5545,6 +5860,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -5555,6 +5871,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -5562,6 +5879,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -5583,6 +5901,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -5597,6 +5916,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -5612,6 +5932,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -5619,6 +5940,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -5648,6 +5970,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -5662,6 +5985,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -5674,6 +5998,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -5683,6 +6008,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -5718,6 +6044,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -5735,12 +6062,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -5757,6 +6086,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -5777,6 +6107,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -5784,6 +6115,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -5794,6 +6126,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -5801,6 +6134,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -5822,6 +6156,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -5836,6 +6171,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -5851,6 +6187,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -5858,6 +6195,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -5887,6 +6225,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -5901,6 +6240,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -5913,6 +6253,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -5922,6 +6263,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -5957,6 +6299,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -5974,12 +6317,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -5996,6 +6341,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -6016,6 +6362,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -6023,6 +6370,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -6033,6 +6381,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -6040,6 +6389,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -6061,6 +6411,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -6075,6 +6426,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -6090,6 +6442,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -6097,6 +6450,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -6126,6 +6480,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -6140,6 +6495,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -6152,6 +6508,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -6161,6 +6518,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -6196,6 +6554,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -6213,12 +6572,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -6235,6 +6596,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -6255,6 +6617,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -6262,6 +6625,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -6272,6 +6636,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -6279,6 +6644,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -6300,6 +6666,7 @@ Recherche
             * [L’addiction aux jeux](https://sante.gouv.fr/prevention-en-sante/addictions/article/l-addiction-aux-jeux)
             * [Politique de santé publique en matière d’addictions](https://sante.gouv.fr/prevention-en-sante/addictions/article/politique-de-sante-publique-en-matiere-d-addictions)
             
+    
     * * [Risques de la vie courante](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/)
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
@@ -6314,6 +6681,7 @@ Recherche
             * [Antibiotiques - Les bons gestes](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/actions-du-grand-public/article/antibiotiques-les-bons-gestes)
             * [Actions des professionnels de santé](https://sante.gouv.fr/prevention-en-sante/les-antibiotiques-des-medicaments-essentiels-a-preserver/professionnels-de-sante/)
             
+    
     * * [Préserver sa santé](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/)
             
             * [Nutrition](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/nutrition/)
@@ -6329,6 +6697,7 @@ Recherche
             * [Les alertes sanitaires](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/les-alertes-sanitaires/)
             * [Le Centre de crises sanitaires du ministère chargé de la santé](https://sante.gouv.fr/prevention-en-sante/securite-sanitaire/article/le-centre-de-crises-sanitaires-du-ministere-charge-de-la-sante)
             
+    
     * * [Santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/)
             
             * [Santé mentale et psychiatrie : une politique nationale volontariste appuyée sur les territoires](https://sante.gouv.fr/prevention-en-sante/sante-mentale/Feuille-de-route-de-la-sante-mentale-et-de-la-psychiatrie-11179/)
@@ -6336,6 +6705,7 @@ Recherche
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
             
+    
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
             
             * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
@@ -6365,6 +6735,7 @@ Recherche
             * [Pesticides](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/pesticides/)
             * [Espèces nuisibles et parasites](https://sante.gouv.fr/sante-et-environnement/risques-microbiologiques-physiques-et-chimiques/especes-nuisibles-et-parasites/)
             
+    
     * * [Eaux](https://sante.gouv.fr/sante-et-environnement/eaux/)
             
             * [Eau du robinet](https://sante.gouv.fr/sante-et-environnement/eaux/article/eau-du-robinet)
@@ -6379,6 +6750,7 @@ Recherche
             
             * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
             
+    
     * * [Activités humaines](https://sante.gouv.fr/sante-et-environnement/activites-humaines/)
             
             * [Exposition aux ondes](https://sante.gouv.fr/sante-et-environnement/activites-humaines/exposition-aux-ondes/)
@@ -6391,6 +6763,7 @@ Recherche
             * [Se protéger en cas de pic de pollution de l’air](https://sante.gouv.fr/sante-et-environnement/air-exterieur/article/se-proteger-en-cas-de-pic-de-pollution-de-l-air)
             * [Pollens et allergies](https://sante.gouv.fr/sante-et-environnement/air-exterieur/pollens-et-allergies/)
             
+    
     * * [Bâtiments](https://sante.gouv.fr/sante-et-environnement/batiments/)
             
             * [Qualité de l’air intérieur](https://sante.gouv.fr/sante-et-environnement/batiments/article/qualite-de-l-air-interieur)
@@ -6400,6 +6773,7 @@ Recherche
             * [Intoxications au monoxyde de carbone](https://sante.gouv.fr/sante-et-environnement/batiments/article/intoxications-au-monoxyde-de-carbone)
             * [Habitat insalubre](https://sante.gouv.fr/sante-et-environnement/batiments/article/habitat-insalubre)
             
+    
     * * [Risques climatiques](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/)
             
             * [Les vagues de chaleur et leurs effets sur la santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/les-vagues-de-chaleur-et-leurs-effets-sur-la-sante)
@@ -6435,6 +6809,7 @@ Recherche
             * [Maladies vectorielles et zoonoses](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-vectorielles-et-zoonoses/)
             * [Maladies infectieuses d’origine alimentaire](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-infectieuses-d-origine-alimentaire/)
             
+    
     * * [Médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/)
             
             * [Le bon usage des médicaments](https://sante.gouv.fr/soins-et-maladies/medicaments/le-bon-usage-des-medicaments/)
@@ -6452,12 +6827,14 @@ Recherche
             * [Greffes et don d’organes](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/greffes-et-don-d-organes)
             * [Produits cosmétiques](https://sante.gouv.fr/soins-et-maladies/autres-produits-de-sante/article/produits-cosmetiques)
             
+    
     * * [Qualité, sécurité et pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/)
             
             * [Qualité des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/qualite-des-soins/)
             * [Sécurité des prises en charge](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/securite-des-prises-en-charge/)
             * [Pertinence des soins](https://sante.gouv.fr/soins-et-maladies/qualite-securite-et-pertinence-des-soins/pertinence-des-soins-10584/)
             
+    
     * * [Prises en charge spécialisées](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/)
             
             * [Endométriose](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/endometriose/)
@@ -6474,6 +6851,7 @@ Recherche
             * [Psychiatrie](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/article/les-ptsm-en-region)
             * [Hospitalisation à domicile](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/had-10951/)
             
+    
     * * [Signalement-sante.gouv.fr](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/)
             
             * [Qu’est-ce qu’un événement sanitaire indésirable ?](https://sante.gouv.fr/soins-et-maladies/signalement-sante-gouv-fr/article/qu-est-ce-qu-un-evenement-sanitaire-indesirable)
@@ -6494,6 +6872,7 @@ Recherche
             * [Accompagnement à l’autonomie en santé](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/accompagnement-a-l-autonomie-en-sante/)
             * [Education thérapeutique du patient](https://sante.gouv.fr/systeme-de-sante/parcours-des-patients-et-des-usagers/education-therapeutique-du-patient/)
             
+    
     * * [Accès aux origines des personnes nées d’une assistance médicale à la procréation (AMP)](https://sante.gouv.fr/systeme-de-sante/acces-origines-AMP/)
         * [Ségur de la santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/)
             
@@ -6501,6 +6880,7 @@ Recherche
             * [Ségur de l’investissement](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/article/segur-de-l-investissement)
             * [Ségur Usage Numérique en Établissements de Santé](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/sun-es)
             
+    
     * * [100% Santé : des soins pour tous, 100% pris en charge](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/)
             
             * [100% Santé : faciliter l’accès aux soins et aux équipements auditifs, optiques et dentaires](https://sante.gouv.fr/systeme-de-sante/100pourcent-sante/article/100-sante-faciliter-l-acces-aux-soins-et-aux-equipements-auditifs-optiques-et)
@@ -6511,6 +6891,7 @@ Recherche
             * [Présentation de la Sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/presentation-de-la-securite-sociale)
             * [La Loi de financement de la sécurité sociale](https://sante.gouv.fr/systeme-de-sante/securite-sociale/article/la-loi-de-financement-de-la-securite-sociale)
             
+    
     * * [Recherche et innovation](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/)
             
             * [L’innovation et la recherche clinique](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/l-innovation-et-la-recherche-clinique/)
@@ -6518,6 +6899,7 @@ Recherche
             * [Recherches impliquant la personne humaine](https://sante.gouv.fr/systeme-de-sante/innovation-et-recherche/recherche-impliquant-la-personne-humaine/)
             
         * [Le service public d’information en santé (SPIS)](https://sante.gouv.fr/systeme-de-sante/le-service-public-d-information-en-sante-spis/)
+    
     * * [E-santé](https://sante.gouv.fr/systeme-de-sante/e-sante/)
             
             * [Mon Espace Santé](https://sante.gouv.fr/systeme-de-sante/e-sante/mon-espace-sante/)
@@ -6716,35 +7098,24 @@ La fin d’un chapitre
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[attestation-vaccin.ameli.fr](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
-* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/) ;
-* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
+* le [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
+    
+    Vous avez été vacciné par un professionnel de santé ?  
+    Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
+    
+    * Commencer l’importation
+        * Connectez-vous au **téléservice de l’Assurance Maladie**[](https://attestation-vaccin.ameli.fr/)
+        * [J’ai été vacciné à l’étranger
+            
+            * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+            * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.](https://attestation-vaccin.ameli.fr/)
+    
 
-* * *
-
-Réponses à vos questions sur l’application
-------------------------------------------
-
-[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
-
-Vous avez été vacciné par un professionnel de santé ?  
-Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
-
-* Commencer l’importation
-    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
-    * Cliquez sur « **S’identifier avec FranceConnect** ».
-    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
-    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
-    * Confirmez votre demande comme indiqué dans les instructions.
-
-* J’ai été vacciné à l’étranger
-    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
-
-[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[](https://attestation-vaccin.ameli.fr/)[](https://attestation-vaccin.ameli.fr/)[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -6770,21 +7141,21 @@ Plus d’informations sur TousAntiCovid
 
 **–** La foire aux questions technique
 
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf)
 
   
 **–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
 
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf)
 
   
 **–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
 
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf)
 
 * * *
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1)\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 TousAntiCovid
 =============
@@ -6807,35 +7178,24 @@ La fin d’un chapitre
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[attestation-vaccin.ameli.fr](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
-* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/) ;
-* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
+* le [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
+    
+    Vous avez été vacciné par un professionnel de santé ?  
+    Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
+    
+    * Commencer l’importation
+        * Connectez-vous au **téléservice de l’Assurance Maladie**[](https://attestation-vaccin.ameli.fr/)
+        * [J’ai été vacciné à l’étranger
+            
+            * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+            * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.](https://attestation-vaccin.ameli.fr/)
+    
 
-* * *
-
-Réponses à vos questions sur l’application
-------------------------------------------
-
-[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
-
-Vous avez été vacciné par un professionnel de santé ?  
-Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
-
-* Commencer l’importation
-    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
-    * Cliquez sur « **S’identifier avec FranceConnect** ».
-    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
-    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
-    * Confirmez votre demande comme indiqué dans les instructions.
-
-* J’ai été vacciné à l’étranger
-    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
-
-[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[](https://attestation-vaccin.ameli.fr/)[](https://attestation-vaccin.ameli.fr/)[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -6861,21 +7221,21 @@ Plus d’informations sur TousAntiCovid
 
 **–** La foire aux questions technique
 
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf)
 
   
 **–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
 
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf)
 
   
 **–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
 
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf)
 
 * * *
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1)\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 TousAntiCovid
 =============
@@ -6898,35 +7258,24 @@ La fin d’un chapitre
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[attestation-vaccin.ameli.fr](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
-* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/) ;
-* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
+* le [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
+    
+    Vous avez été vacciné par un professionnel de santé ?  
+    Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
+    
+    * Commencer l’importation
+        * Connectez-vous au **téléservice de l’Assurance Maladie**[](https://attestation-vaccin.ameli.fr/)
+        * [J’ai été vacciné à l’étranger
+            
+            * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+            * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.](https://attestation-vaccin.ameli.fr/)
+    
 
-* * *
-
-Réponses à vos questions sur l’application
-------------------------------------------
-
-[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
-
-Vous avez été vacciné par un professionnel de santé ?  
-Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
-
-* Commencer l’importation
-    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
-    * Cliquez sur « **S’identifier avec FranceConnect** ».
-    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
-    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
-    * Confirmez votre demande comme indiqué dans les instructions.
-
-* J’ai été vacciné à l’étranger
-    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
-
-[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[](https://attestation-vaccin.ameli.fr/)[](https://attestation-vaccin.ameli.fr/)[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -6952,78 +7301,76 @@ Plus d’informations sur TousAntiCovid
 
 **–** La foire aux questions technique
 
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf)
 
   
 **–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
 
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf)
 
   
 **–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
 
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf)
 
 * * *
-
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 TousAntiCovid
 =============
 
 publié le22.12.22 mise à jour12.10.23
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1)\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 Suivez-nous  
 sur les réseaux sociaux
 -------------------------------------
 
-* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X - Nouvelle fenêtre")
-* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook - Nouvelle fenêtre")
-* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin - Nouvelle fenêtre")
-* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube - Nouvelle fenêtre")
-* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS - Nouvelle fenêtre")
+* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X")
+* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook")
+* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin")
+* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube")
+* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS")
 
 Suivez-nous  
 sur les réseaux sociaux
 -------------------------------------
 
-* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X - Nouvelle fenêtre")
-* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook - Nouvelle fenêtre")
-* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin - Nouvelle fenêtre")
-* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube - Nouvelle fenêtre")
-* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS - Nouvelle fenêtre")
+* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X")
+* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook")
+* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin")
+* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube")
+* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS")
 
 Suivez-nous  
 sur les réseaux sociaux
 -------------------------------------
 
-* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X - Nouvelle fenêtre")
-* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook - Nouvelle fenêtre")
-* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin - Nouvelle fenêtre")
-* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube - Nouvelle fenêtre")
-* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS - Nouvelle fenêtre")
+* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X")
+* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook")
+* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin")
+* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube")
+* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS")
 
 Suivez-nous  
 sur les réseaux sociaux
 -------------------------------------
 
-* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X - Nouvelle fenêtre")
-* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook - Nouvelle fenêtre")
-* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin - Nouvelle fenêtre")
-* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube - Nouvelle fenêtre")
-* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS - Nouvelle fenêtre")
+* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X")
+* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook")
+* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin")
+* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube")
+* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS")
 
 Suivez-nous  
 sur les réseaux sociaux
 -------------------------------------
 
-* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X - Nouvelle fenêtre")
-* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook - Nouvelle fenêtre")
-* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin - Nouvelle fenêtre")
-* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube - Nouvelle fenêtre")
-* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS - Nouvelle fenêtre")
+* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X")
+* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook")
+* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin")
+* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube")
+* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS")
 
 ![Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028) 
 
