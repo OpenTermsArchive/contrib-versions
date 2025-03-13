@@ -1,7 +1,7 @@
 Google Terms of Service
 =======================
 
-Effective 22 May 2024 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20240522/ks8shls0/google_terms_of_service_en-GB_gb.pdf)
+Effective 17 March 2025 | [Archived versions](https://policies.google.com/terms/archive?hl=en-GB) | [Download PDF](https://www.gstatic.com/policies/terms/pdf/20250317/pc73tnc3/google_terms_of_service_en-GB_gb.pdf)
 
 What’s covered in these terms
 -----------------------------
@@ -250,6 +250,11 @@ Other content
 
 Finally, some of our [services](https://policies.google.com/terms?hl=en-GB#footnote-services) give you access to content that belongs to other people or [organisations](https://policies.google.com/terms?hl=en-GB#footnote-organization) – for example, a store owner’s description of their own business, or a newspaper article displayed in Google News. You may not use this content without that person or organisation’s permission, or as otherwise allowed by law. The views expressed in the content of other people or organisations are their own, and don’t necessarily reflect Google’s views.
 
+Illegal or harmful content
+--------------------------
+
+We use various measures to protect you from illegal and other harmful content. To learn more about these measures, and how to report content or make a complaint, visit our [Transparency Centre](https://transparency.google/intl/en-GB_ALL/tools-programs/reporting-and-appeals/?hl=en_GB).
+
 Software in Google services
 ===========================
 
@@ -343,7 +348,7 @@ Settling disputes, governing law and courts
 
 For information about how to contact Google, please visit our [contact page](https://www.google.com/contact?hl=en_GB).
 
-If you’re a resident of, or an [organisation](https://policies.google.com/terms?hl=en-GB#footnote-organization) based in the United Kingdom, these terms and your relationship with Google under these terms and [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), are governed by English law, and you can file legal disputes in the English courts.
+If you're a resident of, or an [organisation](https://policies.google.com/terms?hl=en-GB#footnote-organization) based in, the United Kingdom, these terms and your relationship with Google under these terms and [service-specific additional terms](https://policies.google.com/terms/service-specific?hl=en-GB), are governed by English law and you can file legal disputes (including for breaches of these terms) in the English courts.
 
 About these terms
 =================
