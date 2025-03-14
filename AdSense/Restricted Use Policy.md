@@ -193,6 +193,8 @@ Is content that:
 
 * enables users to participate in online, real-money gambling or any internet-based game where money or other items of value are paid or wagered in exchange for the opportunity to win real money or prizes based on the outcome of the game.
     
+    **Exclusions**: where the relevant content is delivered to a user located in Australia, Brazil, Canada, Colombia, France, Germany, Greece, Ireland, Italy, Japan, Mexico, Netherlands, Philippines, South Korea, Spain, Turkey, United Kingdom, or United States.
+    
     **Examples**: Online casinos or bookmakers, online lottery ticket or scratch card purchase, online sports betting, aggregator or affiliate sites that promote online gambling pages
     
 
