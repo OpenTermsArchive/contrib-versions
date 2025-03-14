@@ -10,7 +10,7 @@ LAST UPDATED: December 5, 2024
 
 1.1 Scope
 
-This Privacy Notice applies to all the products, services, websites and apps offered by SurveyMonkey Inc., SurveyMonkey Europe UC, SurveyMonkey Brasil Internet Ltda., SurveyMonkey Netherlands B.V., and other SurveyMonkey affiliates (collectively “SurveyMonkey”), except where otherwise noted. The services include SurveyMonkey, SurveyMonkey Apply, SurveyMonkey Audience, SurveyMonkey Rewards, SurveyMonkey Contribute, Wufoo, TechValidate, GetFeedback Direct, and GetFeedback Digital. We refer to those products, services, websites, and apps collectively as the “services” in this Privacy Notice. Unless otherwise noted in your contract, our services are provided by SurveyMonkey Inc. inside of the United States, by SurveyMonkey Brasil Internet Ltda. inside of Brazil, and by SurveyMonkey Europe UC everywhere else.
+This Privacy Notice applies to all the products, services, websites and apps offered by SurveyMonkey Inc., SurveyMonkey Europe UC, SurveyMonkey Brasil Internet Ltda., SurveyMonkey Netherlands B.V., and other SurveyMonkey affiliates (collectively “SurveyMonkey”), except where otherwise noted. The services include SurveyMonkey, SurveyMonkey Apply, SurveyMonkey Audience, SurveyMonkey Rewards, SurveyMonkey Contribute, Wufoo, GetFeedback Direct, and GetFeedback Digital. We refer to those products, services, websites, and apps collectively as the “services” in this Privacy Notice. Unless otherwise noted in your contract, our services are provided by SurveyMonkey Inc. inside of the United States, by SurveyMonkey Brasil Internet Ltda. inside of Brazil, and by SurveyMonkey Europe UC everywhere else.
 
 US residents: Please visit our [Region Specific Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/?ut_source=legal&ut_source2=privacy&ut_source3=inline) for more information on our privacy practices specific to individual states. 
 
@@ -573,23 +573,13 @@ We can make changes to the [Privacy Basics](https://www.surveymonkey.com/mp/lega
 
 Although this Privacy Notice applies to all our Services, some information may be specific to individual Services. Please see below for more information
 
-**13.1 **TechValidate****
-
-Our main Privacy Notice applies to our TechValidate users except where the Privacy Notice specifies a section that is only applicable to our survey tool.
-
-**13.1.1 **TechFacts****
-
-TechFacts are published on an anonymous basis – that is, no Respondent Personal Information is displayed in a TechFact unless your Respondents authorize the use of their name and company affiliation. You are able to see the individual respondent’s identity in your account and, if you give a SurveyMonkey employee permission to view that response, then SurveyMonkey will also see this. However, we never publish or disseminate this information (unless you explicitly ask us to do so).
-
-We assign a unique identification number to each TechFact. The ID will appear on each copy of the TechFact. Our site is designed so that visitors may look up and view TechFacts without the collection of any personal information (except for such visitor's internet protocol (IP) address).
-
-**13.2 **SurveyMonkey Apply****
+**13.1 **SurveyMonkey Apply****
 
 SurveyMonkey Apply is an online application system that helps organizations collect applications, manage subscriptions and facilitate reviews. Our main Privacy Notice applies to [apply.surveymonkey.com](http://apply.surveymonkey.com/?ut_source=legal&ut_source2=privacy-information-specific-to-other-services&ut_source3=inline) (“SurveyMonkey Apply”) except where the Privacy Notice specifies a section that is applicable only to our survey tool. Responses and Respondents in this section are intended as reference to applicants and their applications for the purposes of use of SurveyMonkey Apply.  
 When an applicant submits an application through SurveyMonkey Apply, their login information can be used for multiple applications across the SurveyMonkey Apply site.  
 If you have any questions about your personal information in the context of our SurveyMonkey Apply service, you can contact us [here](https://help.smapply.io/hc/en-us/sections/115000411593-Contact-Us).
 
-**13.3 **Wufoo****
+**13.2 **Wufoo****
 
 Our main Privacy Notice applies to our Wufoo users except where the Privacy Notice specifies a section that is only applicable to our survey tool.
 
