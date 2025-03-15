@@ -5,10 +5,6 @@ Google provides translated versions of our Help Center, though they are not mean
 
 Display & Video 360 users must comply with this Google Ads policy. Visit the [Display & Video 360 help center](https://support.google.com/displayvideo/answer/6027406) for additional restrictions.
 
-As part of our recent suspension of ads in Russia, we will also pause ads on Google properties and networks globally for advertisers based in Russia.
-
-Due to the ongoing war in Ukraine, we will be temporarily pausing Google ads from serving to users located in Russia.
-
 Welcome to the Google Advertising Policies Center
 -------------------------------------------------
 
