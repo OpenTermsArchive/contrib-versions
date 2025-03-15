@@ -717,8 +717,7 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-La fin d’un chapitre
---------------------
+### La fin d’un chapitre
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -762,8 +761,7 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-Plus d’informations sur TousAntiCovid
--------------------------------------
+### Plus d’informations sur TousAntiCovid
 
 **–** La foire aux questions technique
 
@@ -1502,8 +1500,7 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-La fin d’un chapitre
---------------------
+### La fin d’un chapitre
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -1547,8 +1544,7 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-Plus d’informations sur TousAntiCovid
--------------------------------------
+### Plus d’informations sur TousAntiCovid
 
 **–** La foire aux questions technique
 
@@ -7091,8 +7087,7 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-La fin d’un chapitre
---------------------
+### La fin d’un chapitre
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -7136,8 +7131,7 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-Plus d’informations sur TousAntiCovid
--------------------------------------
+### Plus d’informations sur TousAntiCovid
 
 **–** La foire aux questions technique
 
@@ -7171,8 +7165,7 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-La fin d’un chapitre
---------------------
+### La fin d’un chapitre
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -7216,8 +7209,7 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-Plus d’informations sur TousAntiCovid
--------------------------------------
+### Plus d’informations sur TousAntiCovid
 
 **–** La foire aux questions technique
 
@@ -7251,8 +7243,7 @@ publié le22.12.22 mise à jour12.10.23
 * [Partager sur facebook](https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur facebook")
 * [Partager sur linkedin](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fsante.gouv.fr%2Fsoins-et-maladies%2Fmaladies%2Fmaladies-et-infections-respiratoires%2Fcovid-19%2Farticle%2Ftousanticovid "Partager sur linkedin")
 
-La fin d’un chapitre
---------------------
+### La fin d’un chapitre
 
 **Créée dans le cadre de la lutte contre l’épidémie liée au Covid-19, l’application TousAntiCovid, encadrée par le décret n°2020-650 du 29 mai 2020 modifié, se met en pause à partir du 30 juin 2023 pour réfléchir à la suite.**
 
@@ -7296,8 +7287,7 @@ L’application ne nécessite pas de renseigner mes informations personnelles po
 
 Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid19](https://gitlab.inria.fr/stopcovid19/accueil/-/blob/master/CGU.md#donn%C3%A9es-personnelles)
 
-Plus d’informations sur TousAntiCovid
--------------------------------------
+### Plus d’informations sur TousAntiCovid
 
 **–** La foire aux questions technique
 
