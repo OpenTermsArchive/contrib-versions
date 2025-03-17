@@ -341,7 +341,7 @@ You might also be interested in:
     In our User Privacy Notice we have compiled all essential information about our handling of your personal data and your corresponding rights.  
      
     
-    This User Privacy Notice is effective from **April 8, 2024**. View the previous User Privacy Notice.
+    This User Privacy Notice is effective from **April 21, 2025**. View the previous User Privacy Notice.
     
     15 min article](https://www.ebay.com/help/policies/member-behavior-policies/user-privacy-notice?id=4260)
 * [Cookies, web beacons, and similar technology ("Cookie Notice")
