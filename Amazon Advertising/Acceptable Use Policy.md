@@ -20,6 +20,6 @@ Amazon reserves the right to reject, remove or request modifications to an ad in
 
 We periodically update our policies. You should revisit our policy pages often to ensure that you’re always up to date on our latest policy requirements.
 
-Note: We refer to advertisers as &quot;you/your,&quot; to ad placements anywhere on Amazon&#x27;s owned-and-operated properties and Amazon DSP offsite.
+Note: We refer to advertisers as “you/your,” to ad placements anywhere on Amazon’s owned-and-operated properties and Amazon DSP offsite.
 
 You can see our [Quick Reference Guide](https://advertising.amazon.com/resources/ad-policy/quick-reference?ref_=a20m_us_spcs_cap_spsc_qkrf) for an overview of common policy questions. Note that this guide is intended to highlight key reoccurring ad policies. It isn’t intended to be a comprehensive overview of all ad policies.
