@@ -51,7 +51,7 @@ This section includes some further important details about our contract, includi
 **Terms of Service**
 ====================
 
-Dated: January 5, 2022
+Dated: March 17, 2025
 
 **TERMS OF SERVICE**
 ====================
@@ -62,17 +62,17 @@ Dated: January 5, 2022
 **Introduction**
 ----------------
 
-Thank you for using the YouTube platform and the products, services and features we make available to you as part of the platform (collectively, the “Service”).  
+Thank you for using the YouTube platform and the products, services and features we make available to you as part of the platform (collectively, the “**Service**”).  
 
 **Our Service**
 ---------------
 
-The Service allows you to discover, watch and share videos and other content, provides a forum for people to connect, inform, and inspire others across the globe, and acts as a distribution platform for original content creators and advertisers large and small. We provide lots of information about our products and how to use them in our [Help Center](https://support.google.com/youtube/). Amongst other things, you can find out about [YouTube Kids](https://support.google.com/youtubekids/), the [YouTube Partner Program](https://support.google.com/youtube/topic/9223152) and [YouTube Paid Memberships and Purchases](https://support.google.com/youtube/topic/9223117). You can also read all about enjoying content on [other devices](https://support.google.com/youtube/topic/9257096) [](https://support.google.com/youtube/topic/9257096)like your television, your games console, or even [](https://support.google.com/youtube/topic/9257096)[Google Home](https://support.google.com/googlehome/answer/7029380).  
+The Service allows you to discover, watch and share videos and other content, provides a forum for people to connect, inform, and inspire others across the globe, and acts as a distribution platform for original content creators and advertisers large and small. We provide lots of information about our products and how to use them in our [Help Center](https://support.google.com/youtube/#topic=7505892). Amongst other things, you can find out about [YouTube Kids](https://support.google.com/youtubekids/#topic=6130504), the [YouTube Partner Program](https://support.google.com/youtube/topic/9223152) and [YouTube Paid Memberships and Purchases](https://support.google.com/youtube/topic/9223117). You can also read all about enjoying content on [other devices](https://support.google.com/youtube/topic/9257096) [](https://support.google.com/youtube/topic/9257096)like your television, your games console, or even [](https://support.google.com/youtube/topic/9257096)[Google Home](https://support.google.com/googlehome/answer/7029380).  
 
 **Your Service Provider**
 -------------------------
 
-The entity providing the Service in the United Kingdom is Google LLC, located at 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (referred to as “YouTube”, “we”, “us”, or “our”).  References to YouTube’s “Affiliates” in these terms means the other companies within the Alphabet Inc. corporate group.
+The entity providing the Service in the United Kingdom is Google LLC, located at 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (referred to as “**YouTube**”, “**we**”, “**us**”, or “**our**”). References to YouTube’s “**Affiliates**” in these terms means the other companies within the Alphabet Inc. corporate group.
 
 **Applicable Terms**
 --------------------
@@ -209,7 +209,12 @@ We provide information to help copyright holders manage their intellectual prope
 
 We respond to notices of alleged copyright infringement according to the process in our [YouTube Copyright Center](https://www.youtube.com/t/copyright_center), where you can also find information about how to resolve a copyright strike. YouTube's policies provide for the termination, in appropriate circumstances, of repeat infringers’ access to the Service.
 
-**Account Suspension and Termination**
+**Illegal or Harmful Content**
+------------------------------
+
+We use various measures to protect you from illegal and other harmful content. To learn more about these measures, and how to report content or make a complaint, visit our [Help Center](https://support.google.com/youtube/answer/6156383).
+
+**Account Suspension and Termination**
 ======================================
 
 **Terminations by You**
@@ -287,7 +292,7 @@ The Service may contain links to third-party websites and online services that a
 
 We may change this Agreement, for example, to reflect changes to our Service or how we do business - for example, when we add new products or features or remove old ones, (2) for legal, regulatory, or security reasons or (3) to prevent abuse or harm.
 
-If we materially change this Agreement, we’ll provide you with reasonable advance notice and the opportunity to review the changes, except (1) when we launch a new product or feature, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements.If you don’t agree to the new terms, you should remove any Content you uploaded and stop using the Service.
+If we materially change this Agreement, we’ll provide you with reasonable advance notice and the opportunity to review the changes, except (1) when we launch a new product or feature, or (2) in urgent situations, such as preventing ongoing abuse or responding to legal requirements. If you don’t agree to the new terms, you should remove any Content you uploaded and stop using the Service.
 
 **Continuation of this Agreement**
 ----------------------------------
@@ -312,6 +317,6 @@ If you do not comply with this Agreement and we do not take action immediately, 
 **Governing Law**
 -----------------
 
-If you live in the United Kingdom this Agreement, and your relationship with YouTube under this Agreement will be governed by the laws of your country of residence, and legal proceedings may be brought in your local courts.
+If you live in the United Kingdom, this Agreement, and your relationship with YouTube under this Agreement will be governed by the laws of your country of residence, and either party may bring legal proceedings (including for breaches of these terms) in your local courts.
 
-#### Effective as of January 5, 2022 ([view previous version](https://www.youtube.com/t/terms?archive=20210601))
+#### Effective as of March 17, 2025 ([view previous version](https://www.youtube.com/t/terms?archive=20220105))
