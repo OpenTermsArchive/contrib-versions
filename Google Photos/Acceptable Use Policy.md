@@ -54,6 +54,12 @@ Dangerous and illegal activities
 
 Do not use this product to engage in illegal activities, or to promote activities, goods, services or information that cause serious and immediate harm to people or animals. While we permit general information about this content for educational, documentary, scientific or artistic purposes, we draw the line when the content directly facilitates harm or encourages illegal activity. We will take appropriate action if we are notified of unlawful activities, which may include reporting you to the relevant authorities, removing access to some of our products or disabling your Google Account.
 
+Deceptive practices, fraud and scams
+
+Do not deceive, mislead or confuse users for financial gain or personal harm. This includes providing instructions on, recruiting for or facilitating scams and fraud. Deceptive content includes, but isn't limited to, fake reviews, 'get rich quick' schemes, advance fee, romance, sweepstakes and investment scams.
+
+**Last updated:** December 2024
+
 Harassment, bullying and threats
 
 Don't harass, bully or threaten others. We also don’t allow this product to be used to engage or incite others in these activities. This includes singling someone out for malicious abuse, threatening someone with serious harm, sexualising someone in an unwanted way, exposing private information of someone else that could be used to carry out threats, disparaging or belittling targets of violence or tragedy, inciting others to carry out these activities or harassing someone in other ways. Keep in mind that online harassment is illegal in many places and can have serious offline consequences for both the harasser and the target. We may take appropriate action if we are notified of threats of harm or other dangerous situations, which may include reporting you to the relevant authorities, removing access to some of our products or disabling your Google Account.
