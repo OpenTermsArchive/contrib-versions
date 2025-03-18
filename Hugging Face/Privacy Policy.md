@@ -1,4 +1,4 @@
-[Terms of Service](https://huggingface.co/terms-of-service) [Privacy Policy](https://huggingface.co/privacy) [Content Policy](https://huggingface.co/content-guidelines) [Code of Conduct](https://huggingface.co/code-of-conduct)
+[Terms of Service](https://huggingface.co/terms-of-service) [Privacy Policy](https://huggingface.co/privacy) [Content Policy](https://huggingface.co/content-policy) [Code of Conduct](https://huggingface.co/code-of-conduct)
 
 Hugging Face Privacy Policy
 ===========================
