@@ -1,7 +1,9 @@
 Google APIs Terms of Service
-============================
 
 Stay organized with collections Save and categorize content based on your preferences.
+
+
+======================================================================================================================
 
 Last modified: November 9, 2021 [(see previous version)](https://developers.google.com/terms/2020)
 
