@@ -2,9 +2,11 @@
 * [Brand & marketing](https://developer.android.com/distribute/marketing-tools)
 
 Brand guidelines
-================
 
 Stay organized with collections Save and categorize content based on your preferences.
+
+
+==========================================================================================================
 
 The "Android" name, the Android logo, the "Google Play" brand, and other Google trademarks, are property of Google LLC and not part of the assets available through the Android Open Source Project.
 
