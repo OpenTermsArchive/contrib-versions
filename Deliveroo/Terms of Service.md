@@ -166,13 +166,11 @@ These content standards apply to any and all material which you contribute to ou
 * be used to impersonate any person, or to misrepresent your identity or affiliation with any person or give the impression that they emanate from us, if this is not the case; or
 * advocate, promote or assist any unlawful act such as (by way of example only) copyright infringement or computer misuse.
 
-Please see below for specific terms and community guidelines for public reviews.
-
 If you become aware of Contributions on the platform that you believe to be illegal or otherwise incompatible with these Terms of Use, you can submit a notice via the process set out in the Deliveroo User Review and Contribution Terms.
 
-If you become aware of any other content on the platform that you believe to be illegal or otherwise incompatible with these Terms of Use (for example, menu items, reviews, replies to reviews and intellectual property infringement) (“**Alleged Illegal Items**”), you can submit a notice to [support@deliveroo.co.uk](mailto:support@deliveroo.co.uk), or via the Webform which can be accessed via the Contact Us option at [https://deliveroo.ie/contact (“**Illegal Content Notice**”).](https://deliveroo.ie/contact)
+If you become aware of any other content on the platform that you believe to be illegal or otherwise incompatible with these Terms of Use (for example, menu items and intellectual property infringement) (“**Alleged Illegal Items**”), you can submit a notice to [support@deliveroo.co.uk](mailto:support@deliveroo.co.uk), or via the Webform which can be accessed via the Contact Us option at [https://deliveroo.ie/contact (“**Illegal Content Notice**”).](https://deliveroo.ie/contact)
 
-We will review your [Illegal Content Notice](https://deliveroo.ie/contact) and advise you of our decision and any action we propose to take as a result of our decision. If you are not satisfied with the decision we make regarding your notice, you can lodge a complaint for up to six months by contacting the email appeals@deliveroo.co.uk. 
+We will review your [Illegal Content Notice](https://deliveroo.ie/contact) and advise you of our decision and any action we propose to take as a result of our decision. If you are not satisfied with the decision we make regarding your notice, you can lodge a complaint for up to six months by contacting the email appeals@deliveroo.ie. 
 
 Section 6 below will apply to any complainants who frequently submit Illegal Content Notices that are manifestly unfounded.
 
