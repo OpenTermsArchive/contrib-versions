@@ -22,7 +22,7 @@ Choose a Google product
 * [![](//storage.googleapis.com/support-kms-prod/bJppRS0Z8FmVujFmM7KFHADzbq3L0PPb1Wpj)
     
     ### Google AdSense](https://support.google.com/adsense?hl=en-GB)
-* [![](//storage.googleapis.com/support-kms-prod/RtYfYt69uZaC29qgMoE4JCX862QbezJhsup7)
+* [![](//www.gstatic.com/images/branding/productlogos/gemini_round/v1/web-64dp/logo_gemini_round_color_1x_web_64dp.png)
     
     ### Gemini Apps](https://support.google.com/gemini?hl=en-GB)
 * [![](//www.gstatic.com/images/branding/productlogos/google_search_round/v8/web-64dp/logo_google_search_round_color_1x_web_64dp.png)
