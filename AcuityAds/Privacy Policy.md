@@ -1,7 +1,8 @@
 Privacy Policy
 ==============
 
-Effective Date: July 1, 2024  
+Effective Date: March 17, 2025
+
 This privacy policy outlines what information we collect, how we secure it, and how we use it in relation to the service illumin provides to its customers via our advertising technology platform.
 
 ### Who we are
@@ -17,7 +18,7 @@ Overview of the types of data collected by illumin’s Platform
 
 #### Personal data
 
-The definitions of personal data vary depending on the laws where you are located. For example, in the European Union (EU), Canada and in certain U.S. states such as California, personal data is defined more broadly than in other places and would include both identifiable personal data (“PII”) (e.g., email addresses and phone numbers) and Pseudonymous Identifiers (defined below). Some places use the term “personal data” while other places use the term “personal information”. illumin will explain the different types of personal data and personal information below and will try to be clear when we’re describing our use of each throughout this Policy. illumin does not knowingly place PII on our advertising Platform, but we do process Pseudonymous Identifiers via the Platform.
+The definitions of personal data vary depending on the laws where you are located. For example, in the European Union (EU), Canada and in certain U.S. states such as California, personal data is defined more broadly than in other places and would include both identifiable personal data (“PII”) (e.g., email addresses and phone numbers) and Pseudonymous Identifiers (defined below). Some places use the term “personal data” while other places use the term “personal information”. illumin will explain the different types of personal data and personal information below, and will try to be clear when we’re describing our use of each throughout this Policy. illumin does not knowingly place PII on our advertising Platform, but we do process Pseudonymous Identifiers via the Platform.
 
 #### Pseudonymous identifiers
 
@@ -25,7 +26,7 @@ illumin collects or otherwise processes Pseudonymous Identifiers via the Platfor
 
 #### Privacy practices for our technology platform
 
-The illumin Platform processes data collected across non-affiliated websites and mobile applications pursuant to serving advertisements on behalf of our Clients who are generally businesses seeking to market a product or service. We obtain this information from website and mobile application publishers, connected television devices, advertising exchanges, supply side platforms and other companies which help illumin place bids on ad slots on behalf of our advertisers. We obtain information using one or more of the following tracking techniques or technologies, which are all widely used across the Internet:
+The illumin Platform processes data collected across non-affiliated websites and mobile applications pursuant to serving advertisements on behalf of our Clients who are generally businesses seeking to market a product or service. We obtain this information from website and mobile application publishers, connected television devices, advertising exchanges, supply side platforms and other companies which help illumin place bids on ad slots on behalf of our advertisers. We obtain information using one or more of the following tracking techniques or technologies, which are all widely used across the Internet.
 
 #### Cookies
 
@@ -53,9 +54,9 @@ The information we collect is used to deliver personalized advertisements and to
 
 illumin may also collect data that can be used by our Clients and partners and receive certain data from Clients and partners. This data may include whether or not you have visited our Client’s website and/or mobile app, or if you have used a website and/or app that our Client advertises on. The data collected is used to build a consumer profile. We use the data in our algorithm to better understand your interactions online and to pair the right advertisements with the right consumers. With this information we can deliver you more personalized advertisements.
 
-### Potentially sensitive information pertaining to children & health conditions
+### Potentially sensitive information pertaining to children and health conditions
 
-illumin does not intentionally or knowingly collect information from children under 18 years of age and does not tailor any segments to children under 18 years of age.
+illumin does not intentionally or knowingly collect information from children under 18 years of age, and does not tailor any segments to children under 18 years of age.
 
 ### Data retention
 
@@ -69,7 +70,7 @@ illumin takes reasonable measures to help protect the information we collect fro
 
 Many Internet users enjoy receiving relevant advertisements. Our algorithm reads your online data and aims to deliver you the most relevant advertising content available. This results in you only seeing ads that match your inferred interests. Without targeted advertising, marketers do not know your consumer preferences and will likely deliver you ads that you are uninterested in.
 
-It is also important to consider that the websites you use receive substantial payments from marketers to present interest based ads. These increased revenues can improve website content and pass on a reciprocal benefit to you, as the user. Without these revenue websites are more likely to deliver lesser value content. illumin periodically evaluates the benefits of the targeted ads served by our platform against the potential risks to data protection rights.
+It is also important to consider that the websites you use receive substantial payments from marketers to present interest based ads. These increased revenues can improve website content and pass on a reciprocal benefit to you, as the user. Without these revenue websites are more likely to deliver lesser value content. illumin periodically evaluates the benefits of the targeted ads served by our platform against the potential risks to data protection rights
 
 ### Browser-based choice mechanisms
 
@@ -107,13 +108,20 @@ We adhere to applicable laws when it comes to honoring data subject rights such 
 
 Certain U.S. states (e.g., California, Virginia, Nevada, Colorado and Connecticut) provide additional privacy protections for their data subjects under applicable law, including: a) the right to see what data we have about you, (i.e., the right to know), b) the right to delete the data we have about you, (i.e., the right to delete), c) the right to correct the data we have about you, and; d) the right to opt-out of the sale of data about you (i.e., the right to opt-out from sales of your information). Most of these rights are also applicable to the Pseudonymous Identifiers and other personal data collected about your computer or device by the Platform. We do not discriminate against you if you exercise any of the above rights. Moreover, we may not be able to honor a right if doing so would violate applicable law.
 
-You may access those rights with respect to illumin by sending us an email to [privacy@illumin.com](mailto:privacy@illumin.com), by calling our California privacy help line at 1-866-6Acuity, or by visiting our [data subject access page here](https://illumin.com/legal/subject-access-request/). If you make a subject access request as set out in this policy, you are entitled to see and delete the personal information that we have about you. We will confirm your request within 10 days and make a good faith attempt to fulfill your request within 45 days unless applicable law provides that we do so more quickly. Some U.S. states (e.g., Colorado and [Virginia](https://www.oag.state.va.us/consumer-protection/index.php/file-a-complaint)) provide you with a right to appeal if we deny your request and enable you to complain to the Attorney General in your state. Please send any appeals to [privacy@illumin.com](mailto:privacy@illumin.com).
+* You may access those rights with respect to illumin by sending us an email to [privacy@illumin.com](mailto:privacy@illumin.com), by calling our California privacy help line at 1-866-6Acuity, or by visiting our [data subject access page here](https://illumin.com/legal/subject-access-request/). If you make a subject access request as set out in this policy, you are entitled to see and delete the personal information that we have about you. We will confirm your request within 10 days and make a good faith attempt to fulfill your request within 45 days unless applicable law provides that we do so more quickly. Some jurisdictions provide you with the right lodge an appeal to illumin if you are unsatisfied with our response to your request to exercise the rights above. Please send any appeals to [privacy@illumin.com](mailto:privacy@illumin.com) Some U.S. states also provide you with the right to further appeal our determination to a consumer protection agency located in that state. For example:
+    * Colorado – The Colorado Attorney General’s Office.
+    * Maryland – Maryland Attorney General Consumer Protection Division.
+    * Nebraska – Nebraska Attorney General’s Office.
+    * New Hampshire – Data Privacy Unit of the Consumer Protection and Antitrust Bureau of the New Hampshire Attorney General’s Office
+    * New Jersey – Division of Consumer Affairs in the Department of Law and Public Safety of New Jersey.
+    * Texas – For denied appeals, visit the Texas Attorney General’s Office, Consumer Protection Division.
+    * Virginia – For denied appeals, visit the Virginia Attorney General’s Office, Consumer Protection Division.
 
 The number of CCPA requests to know that illumin received, compiled with whole or part and denied in 2023: 13, 13 and 0.
 
 The number of CCPA requests to delete that illumin received, compiled with whole or part and denied in 2023: 3, 3 and 0.
 
-The number of CCPA requests to opt-out that illumin received (not including requests made via illumin’s cookie based opt-out mechanism) compiled with whole or part and denied in 2023: 1537, 2537, and 0.
+The number of CCPA requests to opt-out that illumin received (not including requests made via illumin’s cookie based opt-out mechanism) compiled with whole or part and denied in 2023: 1537, 1537 and 0.
 
 The median number of days within which illumin substantively responded to requests to know, requests to delete and requests to opt-out: 14, 14 and 1.
 
@@ -121,7 +129,7 @@ The median number of days within which illumin substantively responded to reques
 
 The General Data Privacy Regulation (“GDPR”) affords additional rights to EU data subjects. Switzerland and the United Kingdom have similar data protection laws in place which grant similar rights. When this policy references EU data subjects, we also mean to include data subjects located in all of the EEA as well as Switzerland and the UK. Those rights include the right to complain to Supervisory Authorities and the right to access, correct, opt-out, and delete certain personal data processed by illumin. In certain circumstances, a consent is required (e.g., prior to the placement of a cookie by our Platform).
 
-As described above, with respect to EU data subjects, personal data includes Pseudonymous Identifiers such as an IP address, a mobile advertising ID, a hashed email address or a cookie ID. Where illumin is a controller of data (e.g. via our Platform), the legal basis will be consent in accordance with Article 6 of the GDPR and depending on the type of information subject to processing and the information we receive from upstream partners. To the extent that we may rely upon legitimate interest for further processing, we have assessed the processing is not high risk and will not violate fundamental human rights. For example, we may process
+As described above, with respect to EU data subjects, personal data includes Pseudonymous Identifiers such as an IP address, a mobile advertising ID, a hashed email address or a cookie ID. Where illumin is a controller of data (e.g. via our Platform), the legal basis will be consent in accordance with Article 6 of the GDPR and depending on the type of information subject to processing and the information we receive from upstream partners. To the extent that we may rely upon legitimate interest for further processing, we have assessed the processing is not high risk and will not violate fundamental human rights. For example, we may process [TC Strings](https://usercentrics.com/knowledge-hub/iab-tcf-2-2-transparency-and-consent-framework-quick-guide/) for the purpose of ensuring and being able to demonstrate that Users have consented to or not objected to the processing of their personal data in connection with targeted ads on our advertising Platform. We process personal data of Clients and partners for the performance of our contracts with them in accordance with Article 6 of the GDPR.
 
 Where illumin receives from an EU data subject a request to cease processing of data via one of the choice mechanisms listed above, illumin will stop all data processing with respect to the opted out browser or device unless such processing is required by law.
 
