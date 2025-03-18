@@ -275,7 +275,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -532,7 +532,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -733,14 +733,18 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
     Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
     
     * Commencer l’importation
-        * Connectez-vous au **téléservice de l’Assurance Maladie**[](https://attestation-vaccin.ameli.fr/)
-        * [J’ai été vacciné à l’étranger
-            
-            * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-            * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.](https://attestation-vaccin.ameli.fr/)
+        * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+        * Cliquez sur « **S’identifier avec FranceConnect** ».
+        * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
+        * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
+        * Confirmez votre demande comme indiqué dans les instructions.
+    
+    * J’ai été vacciné à l’étranger
+        * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+        * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
     
 
-[](https://attestation-vaccin.ameli.fr/)[](https://attestation-vaccin.ameli.fr/)[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -765,21 +769,21 @@ Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid1
 
 **–** La foire aux questions technique
 
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf)
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
 
   
 **–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
 
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf)
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
 
   
 **–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
 
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf)
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
 
 * * *
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1)\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 * [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#content)
 * [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#main-nav)
@@ -1058,7 +1062,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -1315,7 +1319,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -1516,14 +1520,18 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
     Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
     
     * Commencer l’importation
-        * Connectez-vous au **téléservice de l’Assurance Maladie**[](https://attestation-vaccin.ameli.fr/)
-        * [J’ai été vacciné à l’étranger
-            
-            * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-            * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.](https://attestation-vaccin.ameli.fr/)
+        * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+        * Cliquez sur « **S’identifier avec FranceConnect** ».
+        * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
+        * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
+        * Confirmez votre demande comme indiqué dans les instructions.
+    
+    * J’ai été vacciné à l’étranger
+        * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+        * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
     
 
-[](https://attestation-vaccin.ameli.fr/)[](https://attestation-vaccin.ameli.fr/)[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -1548,21 +1556,21 @@ Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid1
 
 **–** La foire aux questions technique
 
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf)
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
 
   
 **–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
 
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf)
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
 
   
 **–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
 
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf)
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
 
 * * *
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1)\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 * [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#content)
 * [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#main-nav)
@@ -1841,7 +1849,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -2098,7 +2106,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -2571,7 +2579,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -3002,7 +3010,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -3433,7 +3441,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -3864,7 +3872,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -4295,7 +4303,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -4726,7 +4734,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -5013,7 +5021,7 @@ Retour
 * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
 * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
 * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-* 
+* \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
 
 * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
 
@@ -5210,7 +5218,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -5465,7 +5473,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -5720,7 +5728,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -5975,7 +5983,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -6230,7 +6238,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -6485,7 +6493,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -6740,7 +6748,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * 
+            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -6962,7 +6970,7 @@ Retour
 * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
 * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
 * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-* 
+* \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
 
 * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
 
@@ -7103,14 +7111,18 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
     Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
     
     * Commencer l’importation
-        * Connectez-vous au **téléservice de l’Assurance Maladie**[](https://attestation-vaccin.ameli.fr/)
-        * [J’ai été vacciné à l’étranger
-            
-            * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-            * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.](https://attestation-vaccin.ameli.fr/)
+        * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+        * Cliquez sur « **S’identifier avec FranceConnect** ».
+        * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
+        * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
+        * Confirmez votre demande comme indiqué dans les instructions.
+    
+    * J’ai été vacciné à l’étranger
+        * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+        * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
     
 
-[](https://attestation-vaccin.ameli.fr/)[](https://attestation-vaccin.ameli.fr/)[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -7135,21 +7147,21 @@ Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid1
 
 **–** La foire aux questions technique
 
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf)
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
 
   
 **–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
 
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf)
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
 
   
 **–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
 
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf)
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
 
 * * *
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1)\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 TousAntiCovid
 =============
@@ -7181,14 +7193,18 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
     Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
     
     * Commencer l’importation
-        * Connectez-vous au **téléservice de l’Assurance Maladie**[](https://attestation-vaccin.ameli.fr/)
-        * [J’ai été vacciné à l’étranger
-            
-            * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-            * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.](https://attestation-vaccin.ameli.fr/)
+        * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+        * Cliquez sur « **S’identifier avec FranceConnect** ».
+        * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
+        * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
+        * Confirmez votre demande comme indiqué dans les instructions.
+    
+    * J’ai été vacciné à l’étranger
+        * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+        * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
     
 
-[](https://attestation-vaccin.ameli.fr/)[](https://attestation-vaccin.ameli.fr/)[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -7213,21 +7229,21 @@ Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid1
 
 **–** La foire aux questions technique
 
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf)
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
 
   
 **–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
 
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf)
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
 
   
 **–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
 
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf)
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
 
 * * *
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1)\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 TousAntiCovid
 =============
@@ -7259,14 +7275,18 @@ Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plu
     Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
     
     * Commencer l’importation
-        * Connectez-vous au **téléservice de l’Assurance Maladie**[](https://attestation-vaccin.ameli.fr/)
-        * [J’ai été vacciné à l’étranger
-            
-            * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-            * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.](https://attestation-vaccin.ameli.fr/)
+        * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+        * Cliquez sur « **S’identifier avec FranceConnect** ».
+        * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
+        * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
+        * Confirmez votre demande comme indiqué dans les instructions.
+    
+    * J’ai été vacciné à l’étranger
+        * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+        * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
     
 
-[](https://attestation-vaccin.ameli.fr/)[](https://attestation-vaccin.ameli.fr/)[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+[Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
 Si besoin, vous pouvez générer un **nouveau QR Code** en vous connectant sur le téléservice de l’Assurance maladie [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/) (pour une attestation de vaccination).
 
@@ -7291,17 +7311,17 @@ Pour en savoir plus sur les données personnelles : [gitlab.inria.fr/stopcovid1
 
 **–** La foire aux questions technique
 
-pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf)
+pdf FAQ technique [Téléchargement du pdf (367.6 kio)](https://sante.gouv.fr/IMG/pdf/foire_aux_questions_technique_tousanticovid.pdf "FAQ technique")
 
   
 **–** Le rapport d’activité du 2 juin 2020 au 30 novembre 2021
 
-pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf)
+pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_2021.pdf "Rapport d’activité 2020-2021")
 
   
 **–** Le rapport d’activité du 1er octobre 2021 au 25 janvier 2023
 
-pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf)
+pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
 
 * * *
 
@@ -7310,7 +7330,7 @@ TousAntiCovid
 
 publié le22.12.22 mise à jour12.10.23
 
-\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1)\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 Suivez-nous  
 sur les réseaux sociaux
