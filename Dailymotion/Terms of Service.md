@@ -703,7 +703,7 @@ Dailymotion takes compliance with its [Prohibited Content Policy](https://legal.
 
 Thus, there are [various procedures, measures and tools](https://legal.dailymotion.com/en/terms-of-use/#ii-detection-and-report-of-prohibited-content) that Dailymotion uses to enforce compliance with our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) and which might lead us to moderate content posted onto our Service. 
 
-If you repeatedly post Content that violates this Prohibited Content Policy, we may restrict certain features associated with your Dailymotion Account or permanently disable your Dailymotion Account under this repeated infringer policy. Please note that additional specific terms are available [here](https://legal.dailymotion.com/en/copyright-repeated-infringement-policy/) in regards to copyright repeated infringements.
+If you repeatedly post Content that violates this Prohibited Content Policy, we may temporarily restrict certain features associated with your Dailymotion Account or permanently disable your Dailymotion Account under this repeated infringement policy. Please note that additional specific terms are available [here](https://legal.dailymotion.com/en/copyright-repeated-infringement-policy/) in regards to copyright repeated infringements.
 
 In a general manner, each Dailymotion Account has a penalty scoring system associated with it (the “**Counter**“). Such Counter is set up at zero by default, but any violation of our [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#prohibited-content) or of our [general Terms of Use](https://legal.dailymotion.com/en/terms-of-use/) will be accounted against the Dailymotion Account having performed such violation and will make the Counter increase. 
 
@@ -719,13 +719,13 @@ We are currently working on features that will enable us to increase the level o
 
 #### **D. Restricting features** 
 
-The Counter linked to the violations performed by a given Dailymotion Account might lead to a restriction of the features linked to your account for a certain period of time or even the disabling of such Dailymotion Account at some point, as defined below. 
+The Counter linked to the violations performed by a given Dailymotion Account might lead to a temporary restriction of the features linked to your account for a certain period of time or even the disabling of such Dailymotion Account at some point, as defined below. 
 
 In addition to the Counter linked to a Dailymotion Account, Dailymotion may also take into consideration the weight of the violations to our policies compared to the activity of this account or of the corresponding User in general, and whenever possible the intention of the violation, in order to define the best and most proportionate sanction applicable. 
 
 Several different sanctions might be applied for periods of up to several days if the Counter of a Dailymotion Account reaches a certain threshold, including :  
 
-* Blocking the ability to upload Videos ont such Dailymotion Account; 
+* Blocking the ability to upload Videos on such Dailymotion Account; 
 * Excluding Content posted on such Dailymotion Account from the [Dailymotion recommendation systems](https://legal.dailymotion.com/en/recommendation-tools-transparency/); 
 * restricting the visibility of your Content posted on such Dailymotion Account;
 * For Partners having the opportunity to monetize their Content, excluding the Content posted on such Dailymotion Account from monetization. 
