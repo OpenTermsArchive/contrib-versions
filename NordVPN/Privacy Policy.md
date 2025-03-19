@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last updated: January 23, 2025
+Last updated: March 19, 2025
 
 This document (“**Privacy Policy**”) explains the privacy rules applicable to personal data and other information collected or submitted when you access, install, or use Nord Services and Websites regardless of the device (computer, mobile phone, tablet, etc.) you use.
 
@@ -19,7 +19,24 @@ By visiting our Websites, by submitting your personal data to us, and by accessi
 
 Additional information on your personal data may also be indicated in contractual terms, supplemental privacy statements, or notices.
 
+**PLEASE NOTE:** To help you understand this Privacy Policy, we've included a short summary at the beginning of each section. While these summaries are not legally binding, they highlight the key points of the text using clear everyday language. Be sure to read the full Privacy Policy for all the details.
+
+TABLE OF CONTENTS
+
+1. [PROCESSING OF YOUR PERSONAL DATA](#PROCESSING OF YOUR PERSONAL DATA)
+2. [GROUNDS FOR PROCESSING OF PERSONAL DATA](#GROUNDS FOR PROCESSING OF PERSONAL DATA)
+3. [SHARING YOUR PERSONAL DATA](#SHARING YOUR PERSONAL DATA)
+4. [CHOICES RELATED TO YOUR PERSONAL DATA](#CHOICES RELATED TO YOUR PERSONAL DATA)
+5. [DATA SECURITY](#DATA SECURITY)
+6. [DATA RETENTION AND DELETION](#DATA RETENTION AND DELETION)
+7. [COUNTRY-SPECIFIC PROVISIONS](#COUNTRY-SPECIFIC PROVISIONS)
+8. [CONTACT US](#CONTACT US)
+9. [CHILDREN’S DATA](#CHILDREN’S DATA)
+10. [OTHER TERMS](#OTHER TERMS)
+
 1\. PROCESSING OF YOUR PERSONAL DATA
+
+**SUMMARY:** As per our no-logs policy, we don't track your online activity — but we do need some of your personal data (such as your email address and payment details) to provide our services. You may also voluntarily give us your data in situations that don't involve using our products, such as when you agree to accept cookies on our website or participate in a giveaway. In all cases, we only store the bare minimum of information needed to work with you.
 
 Nord processes personal data to a limited scope to provide Services, process payments for the Services, and enable the functioning of our Websites and mobile applications. We may process the following categories of personal data:
 
@@ -71,6 +88,8 @@ Social networks data
 
 2\. GROUNDS FOR PROCESSING OF PERSONAL DATA
 
+**SUMMARY:** We mainly process your personal data to provide you with our services and to fulfil legal requirements for our business. In rare situations, we may have to process data to protect our or certain third parties legitimate interests (such as preventing the services abuse). In some cases, we also process your personal data when you give us your consent (for example, when you want to receive our newsletters).
+
 Your personal data is processed:
 
 * **Where it is necessary to fulfill our contract with you at your request.** Such cases include: i) to provide access to our Services; ii) to process your purchase transactions; iii) to ensure the secure, reliable, and robust performance of our Services and Websites.
@@ -82,7 +101,9 @@ Your personal data is processed:
 * **We sometimes may process your personal data under the legal basis of our or third parties’ legitimate interest.** Such cases include: i) to properly administer business communication with you; ii) to detect, prevent, or otherwise address fraud, abuse, security, or technical issues with our Services and Websites; iii) to protect against harm to the rights, property, and safety of Nord, our users, or third parties; iv) to improve or maintain our Services and provide new products and features; v) to receive knowledge of how our Websites and applications are being used (crash reports, app store reviews, information about the channel from which our app was downloaded, etc.).
     
 
-3\. Sharing your personal data
+3\. SHARING YOUR PERSONAL DATA
+
+**SUMMARY:** In some cases, we may need to share personal data with certain third parties, such as trusted service providers, partners, and other Nord group companies. In all cases, we make sure to handle your data safely and respect your privacy — even when it needs to be processed outside of your country.
 
 We do not share your personal data with third parties except as described in this Privacy Policy.
 
@@ -117,6 +138,8 @@ Cross-border transfers of personal data
 To facilitate our Services and Websites, we may store, access, and transfer personal data from around the world, including in countries where Nord has operations. These locations may not guarantee the same level of protection of personal data as the one in which you reside. We assess the circumstances involving all cross-border data transfers and have suitable safeguards in place to require that your personal data will remain protected in accordance with this Privacy Policy. For example, in case your personal data is transferred to countries outside the EEA, we make sure there is an adequacy decision from the European Commission with regards to the recipient country or we use standard contractual clauses approved by the European Commission for such transfer of your personal data.
 
 4\. CHOICES RELATED TO YOUR PERSONAL DATA
+
+**SUMMARY:** You have certain rights when it comes to your data processing. You can contact our customer support team at any time if you need help exercising them.
 
 Please note that there are various data protection laws across different jurisdictions that provide privacy rights to you as a data subject. Subject to those applicable data protection laws, among others, you may have the following rights:
 
@@ -170,7 +193,9 @@ If you do not agree with the processing of your personal data by Nord, please do
 
 To raise any other questions, concerns, or complaints about our privacy practices or about our processing of your personal data, please contact us as provided below (Section “Contact Us”).
 
-5\. Data security
+5\. DATA SECURITY
+
+**SUMMARY:** We take your data security very seriously, using a number of protective measures to keep your personal information safe.
 
 We maintain tight controls over the personal data we collect. Our dedicated IT security team has implemented appropriate physical, technical, and organizational measures to protect information about you against accidental or unlawful destruction or accidental loss, alteration, unauthorized disclosure, or access and against all other unlawful forms of processing:
 
@@ -185,6 +210,8 @@ If we detect something suspicious, we will notify you immediately and guide you 
 
 6\. DATA RETENTION AND DELETION
 
+**SUMMARY:** We only keep your personal data for as long as we need it to provide our services or comply with the law. Once there are no legitimate grounds for holding this information, we'll immediately dispose of it in a secure way.
+
 Nord will keep your personal data only as long as necessary to provide you with the Services, or for as long as we have another legitimate ground to do so, but not longer than permitted or required by law. Some of more specific data retention terms are provided below:
 
 * Customer billing information and payment details are kept by Nord for 10 years from the last payment transaction.
@@ -197,6 +224,8 @@ Nord will keep your personal data only as long as necessary to provide you with 
 When we no longer have a legal ground to keep your personal data, it will either be securely disposed of, or de-identified through appropriate anonymization means. Nord will destroy personal data recorded or stored in the form of electronic files using method(s) that would prevent the recovery of the data.
 
 7\. COUNTRY-SPECIFIC PROVISIONS
+
+**SUMMARY:** While some of your rights are rooted in this Privacy Policy, you may have additional rights available to you depending on your country. If you want to exercise them (or if you want to know more), simply contact us.
 
 For users in European Economic Area (“EEA”)
 
@@ -211,6 +240,8 @@ For Users in the Republic of Korea
 As set out in Section 3 of this Privacy Policy, we share personal data with service providers and other third parties that may be located outside the Republic of Korea. For users in the Republic of Korea, a detailed list of these third parties, along with additional Korea-specific terms, is provided in the Korean-specific Privacy Policy, [available here](https://my.nordaccount.com/ko/legal/privacy-policy/).
 
 8\. CONTACT US
+
+**SUMMARY:** Legal documents can be tricky. If you have any questions about your personal data or this Privacy Policy (or if you want to exercise your rights), our contacts are provided below.
 
 If you have questions, requests, concerns, or complaints about this Privacy Policy or our personal data processing practices, or you wish to exercise your data subject rights, please contact us via [privacy@nordaccount.com](mailto:privacy@nordaccount.com) or by writing to us at the following address:
 
@@ -240,7 +271,9 @@ Nord has also appointed a Data Protection Officer (DPO) to ensure the protection
 
 Nord does not knowingly collect or solicit personal data from anyone under the age of 18. If you are under 18, please do not attempt to send any personal data about yourself to Nord. If we acknowledge that we have collected and processed personal data from a child under the age of 18, we will delete that data as quickly as possible.
 
-10\. Other Terms
+10\. OTHER TERMS
+
+**SUMMARY:** We will do our end to keep your personal data safe, but you are ultimately responsible for your actions online while using our services. In addition, this Privacy Policy does not apply to other websites, even if you got to them by following a link on our page. Finally, this document is not set in stone — but if we do change it in a way that significantly concerns you, we'll let you know.
 
 **Limitation of Liability.** To ensure the security of personal data, Nord employs various technical, physical, and organizational security measures; however, it is your responsibility to exercise caution and reason when using the Services and Websites. You will be personally liable if your use of the Services and Websites violates any third party privacy or any other rights or any applicable laws. Under no circumstances is Nord liable for the consequences of your unlawful, willful and negligent activities, and any circumstances that may not have been reasonably controlled or foreseen (please read the [General Terms](https://my.nordaccount.com/legal/terms-of-service/) for more information).
 
