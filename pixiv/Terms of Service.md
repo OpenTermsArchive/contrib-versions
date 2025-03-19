@@ -575,7 +575,7 @@ Points acquired on the iOS/Android app do not have an expiration date.
 Contact address and inquiry form
 --------------------------------
 
-JPR Sendagaya Building 6F, 4-23-5 Sendagaya, Shibuya-ku, Tokyo 151-0051 (Japan)
+4-23-5 Sendagaya, Shibuya-ku, Tokyo 151-0051 (Japan)
 
 Please contact us via the [Inquiry form](https://www.pixiv.net/support?mode=faq&service=sketch&section=360001134914).
 
@@ -632,6 +632,11 @@ Measures to protect users of third-party payment services (\*1)
 
 (\*1) Under the Payment Services Act, only pixiv Points purchased through the iOS/Android app are applicable for “protection measures for Users under the Payment Services Act”.
 
+Revisions
+---------
+
+* March 19, 2025 The address has been revised due to a change in the name of the office building.
+
 Notation on specified commercial transaction
 ============================================
 
@@ -648,7 +653,7 @@ Yasuhiro Niwa
 Address
 -------
 
-JPR Sendagaya Building 6F, 4-23-5 Sendagaya, Shibuya-ku, Tokyo 151-0051 (Japan)
+4-23-5 Sendagaya, Shibuya-ku, Tokyo 151-0051 (Japan)
 
 Inquiries
 ---------
@@ -701,6 +706,11 @@ For credit card payment or carrier pay, please use [this](https://www.pixiv.net/
 
 For in-app payments through services such as Google Play, please unsubscribe via the procedures detailed in each app store.  
 No refunds will be provided if you unsubscribe within the period of your subscription.
+
+Revisions
+---------
+
+* March 19, 2025 The address has been revised due to a change in the name of the office building.
 
 Restrictions for Healthy Expression in Specific Countries and Regions
 =====================================================================
