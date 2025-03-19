@@ -9,11 +9,9 @@ If you want to access the main points of our Terms of Use in a simplified way, f
 
 Last update:
 
-We just updated our Terms of Use on February 20, 2025. The new changes will **become effective on February 27, 2025**.
+February 20, 2025. The new changes are **effective since February 27, 2025**.
 
-If you do not agree to the updated Terms, your can stop using the Dailymotion Service before they become effective. If you continue to use the Dailymotion Service after the effective date, we will consider that you accepted the updated Terms.
-
-You can access previous versions of our Terms of Use by clicking on this link.
+If you do not agree to the updated Terms, your can stop using the Dailymotion Service. If you continue to use the Dailymotion Service after the effective date, we consider that you accepted the updated Terms.
 
 ### **SECTION 1: DESCRIPTION OF THE DAILYMOTION SERVICE**
 
@@ -151,7 +149,7 @@ Some jurisdictions limit or do not allow the disclaimer of warranties or damages
 
 7.1. Dailymotion has implemented an easily accessible mechanism next to each video uploaded on the Dailymotion Service allowing anyone to report the availability of infringing or illegal material and/or activity on the Dailymotion Service set out in Section 6.1.
 
-7.2. Such processes to report prohibited content are described in detail at the following URL: [**http://www.dailymotion.com/legal/prohibited**](https://www.dailymotion.com/legal/prohibited?localization=en) and within our Help Center at the following URL: [**https://faq.dailymotion.com/hc/en-us/sections/200384117-Community-guidelines**.](https://faq.dailymotion.com/hc/en-us/sections/200384117-Community-guidelines.)
+7.2. Such processes to report prohibited content are described in detail at the following URL: **[https://legal.dailymotion.com/en/terms-of-use/#b-the-reporting-tool-for-prohibited-content](https://legal.dailymotion.com/en/terms-of-use/#b-the-reporting-tool-for-prohibited-content)** and within our Help Center’s Community Guidelines in the [Prohibited Content Section](https://faq.dailymotion.com/hc/en-us/sections/200384117-Community-guidelines).
 
 ###   
 **SECTION 8: DATA, ADVERTISEMENTS AND PRIVACY**
@@ -168,7 +166,7 @@ In particular, Your **video Content is stored in the European Economic Area** (�
 
 Your Comments are stored outside the EEA, namely in the USA.
 
-As any other business, Dailymotion uses third parties’ services to carry out its operations. Some of these services require processing of Your data outside of the EEA. For example, we use non-EEA cloud storage to store information pertaining to the delivery of advertising shown to You. For more details on how Your personal data is processed outside the EEA please refer to our [Privacy Policy](https://legal.dailymotion.com/en/privacy-policy/#10-international-data-transfers-and-standard-contrcatual-clauses).
+As any other business, Dailymotion uses third parties’ services to carry out its operations. Some of these services require processing of Your data outside of the EEA. For example, we use non-EEA cloud storage to store information pertaining to the delivery of advertising shown to You. For more details on how Your personal data is processed outside the EEA please refer to our [Privacy Policy](https://legal.dailymotion.com/en/privacy-policy/#10-international-data-transfers-and-standard-contrcatual-clauses)‘s dedicated section.
 
 The technical constraints related to the international presence of the Dailymotion Service do not allow us to store data in a single country. Dailymotion has implemented, or has ensured that its service providers have implemented, industry-standard systems and procedures aiming at ensuring the security and confidentiality of Your data, protection against anticipated threats or hazards thereto and unauthorized access to or use thereof. Nevertheless, **if You do not want Your data or data concerning You to be stored outside of Your country of residence, then do not use the Dailymotion Service. By using the Dailymotion Service, You consent to this transfer, Processing and storage of data, including personal data**.
 
@@ -422,9 +420,9 @@ Dailymotion strictly prohibits any macabre, sadistic, threatening, violent, or h
 In particular, it is forbidden for our Users to post online any content:
 
 * Likely to endanger others and in particular any content encouraging, promoting, or glorifying:
-    *  Hoaxes or dangerous challenges (strangulation challenges, scarfing, etc.);
-    *  Suicide, self-harm and/or eating disorders;
-    *  And in general, all practices that may harm the physical or mental integrity of the individual
+    * Hoaxes or dangerous challenges (strangulation challenges, scarfing, etc.);
+    * Suicide, self-harm and/or eating disorders;
+    * And in general, all practices that may harm the physical or mental integrity of the individual
 * Using excessively vulgar or offensive language;
 * Offering the sale, purchase or trade of products and services that are prohibited for sale (firearms, explosives, drugs etc.);
 * Infringing on the regulations applicable to the sale, purchase, canvassing, or trading of products and services that are regulated or prohibited for sale (firearms, explosives, ammunition, drugs, alcohol etc.);
@@ -440,8 +438,10 @@ Certain content representing or evoking one of the situations listed above can b
 
   
 Any User who violates the rules set out above and/or encourages their violation shall be subject to the consequences set out in Section III.  
-Should any illegal activity(ies) be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.  
-For more information on this type of content, you can read the dedicated article on the Dailymotion help center.
+Should any illegal activity be detected, Dailymotion will contact the relevant authorities in accordance with the applicable regulations.
+
+  
+For more information on this type of content, you can read the dedicated article on the [Dailymotion Help Center](https://faq.dailymotion.com/hc/en-us/sections/200384117-Community-guidelines).
 
 #### I. Misleading and/or spam content
 
@@ -488,7 +488,7 @@ However, it should be noted that:
 * The exploitation of a work that has fallen into the public domain may remain subject to certain requirements. However, note that:
     * It must always respect the moral rights (which remains even after entering the public domain), and
     * The exploitation of an adaptation and/or interpretation of the work that has fallen into the public domain remains subject to the authorization of the rights holders of the adaptation and/or interpretation concerned when these latter have not fallen into the public domain; and
-* That certain uses of protected works may be possible without the authorization of their authors or of the person who holds the rights to such works when they fall within the scope of the exceptions to copyright and/or related rights provided for by the applicable laws and regulations (and in particular in France by articles L.122-5 L and L.211-3 of the Intellectual Property Code, as detailed in our Help Centre at the following address: [https://faq.dailymotion.com/hc/en-us/articles/360020018900-Exceptions-to-copyright](https://faq.dailymotion.com/hc/en-us/articles/360020018900-Exceptions-to-copyright)) which must always be interpreted strictly.
+* That certain uses of protected works may be possible without the authorization of their authors or of the person who holds the rights to such works when they fall within the scope of the exceptions to copyright and/or related rights provided for by the applicable laws and regulations (and in particular in France by articles L.122-5 L and L.211-3 of the Intellectual Property Code, as detailed in our Help Center at the following link : [Exceptions to copyright](https://faq.dailymotion.com/hc/en-us/articles/360020018900-Exceptions-to-copyright)) which must always be interpreted strictly.
 
 Any User who violates the rules set out above and/or encourages their violation is liable to the consequences set out in Section III. For more information on this type of content, you can read our dedicated article on our Help Center.
 
@@ -499,17 +499,23 @@ In particular, our Users are prohibited from posting any content online:
 
 1. Participating in any form of harassment, including:  
     • cyber-harassment of a person or “pack harassment” (i.e. publications by several authors of violent remarks made against the same target), and  
-    • sexual or sexist language or behavior that violates dignity by being degrading or humiliating or creates an intimidating, hostile or offensive situation. Sexual harassment is the use, even if not repeated, of any form of serious pressure with the real or apparent aim of obtaining an act of a sexual nature, whether this is sought for the benefit of the perpetrator or for a third party;
+    • sexual or sexist language or behavior that violates dignity by being degrading or humiliating or creates an intimidating, hostile or offensive situation. Sexual harassment is the use, even if not repeated, of any form of serious pressure with the real or apparent aim of obtaining an act of a sexual nature, whether this is sought for the benefit of the perpetrator or for a third party;  
+    
 2. Constituting any form of insult, and in particular:  
     • Using particularly vulgar or offensive language in an insulting manner towards one or more persons, or  
-    • Including any term of contempt, insulting expression, and/or violent or coarse insult seeking to belittle and/or undermine honor or sensitivity;
+    • Including any term of contempt, insulting expression, and/or violent or coarse insult seeking to belittle and/or undermine honor or sensitivity;  
+    
 3. Constituting any form of threat, including:  
     • Presenting threats of blackmail and/or hacking into another person’s account,  
     • Including any form of threat to a person’s physical integrity and/or property, or  
-    • Aiming to intimidate or threatening to reveal information relating to privacy, personal data, and, in particular, information that could identify a person (such as postal or e-mail address, telephone number, bank statement, social security number and/or passport number (doxing));
-4. Disclosing personal information and, in general, any personal data without the permission of the person concerned;
-5. Infringing on the privacy and/or image of a given person;
-6. Including defamatory statements; or
+    • Aiming to intimidate or threatening to reveal information relating to privacy, personal data, and, in particular, information that could identify a person (such as postal or e-mail address, telephone number, bank statement, social security number and/or passport number (doxing));  
+    
+4. Disclosing personal information and, in general, any personal data without the permission of the person concerned;  
+    
+5. Infringing on the privacy and/or image of a given person;  
+    
+6. Including defamatory statements; or  
+    
 7. Infringing on the rights of the owner of a trademark.
 
 The above list is non-exhaustive and applies to all types of content.  
@@ -572,7 +578,7 @@ Any other report based on other legislation must be submitted to Dailymotion by 
 
 ##### 2\. **Tool for reporting Content comments**
 
-To report a comment, simply :
+To report a **comment**, simply :
 
 1. Log in to your Dailymotion account;
 2. Click on the “Report” button available near the Content concerned;
@@ -643,9 +649,9 @@ Service Contenus Abusifs,
 50, rue Camille Desmoulins 92130 Issy-les-Moulineaux France  
 **Email address:** notifications@dailymotion.com
 
-Regarding reports of copyright infringement, we remind you that certain uses of protected works may be permitted without the authorization of their authors or of the person who holds their rights when they fall within the scope of the exceptions to copyright and/or related rights provided for by the applicable laws and regulations (and in particular in France by articles L.122-5 L and L.211-3 of the Intellectual Property Code, as detailed in our Help Center at the following address:  
-[https://faq.dailymotion.com/hc/en-us/articles/360020018900-What-are-the-exceptions-to-copyright-and-related-rights](https://faq.dailymotion.com/hc/en-us/articles/360020018900-What-are-the-exceptions-to-copyright-and-related-rights)).  
-Before reporting any Content for copyright infringement, it is thus recommended to check whether the use of the protected work in question is permitted under one of these exceptions.  
+Regarding reports of copyright infringement, we remind you that certain uses of protected works may be permitted without the authorization of their authors or of the person who holds their rights when they fall within the scope of the exceptions to copyright and/or related rights provided for by the applicable laws and regulations (and in particular in France by articles L.122-5 L and L.211-3 of the Intellectual Property Code, as detailed in our Help Center at the following link: [Exceptions to copyright](https://faq.dailymotion.com/hc/en-us/articles/360020018900-What-are-the-exceptions-to-copyright-and-related-rights)).  
+  
+Before reporting any Content for copyright infringement, it is recommended to check whether the use of the protected work in question is permitted under one of these exceptions.  
 Please note that reports of copyright infringement or infringement of other rights must be made by the owner of the rights concerned or by its duly authorized representative.
 
 Regarding reports from **competent EU Member States Authorities in regards to the DSA application**, Dailymotion can process the requests in **English**, as a language broadly understood by a large number of EU citizens, as well as in **French**.
@@ -685,7 +691,7 @@ Dailymotion reserves the right to demonetize video Content that is not suitable 
 
 Dailymotion has established an internal appeal mechanism for the decisions taken by its moderation team following the detection and/or reporting of Prohibited Content (“Moderation Decision(s)”). This internal appeal system allows:
 
-1. the author of a report to contest the Moderation Decision taken following his/her report; and
+1. the author of a report to contest the Moderation Decision taken following their report; and
 2. the User who has put Content online that has been subject to a Moderation Action mentioned in Section III. A of this Policy to contest the corresponding Moderation Decision.
 
 This internal appeal mechanism is available by contacting our Support teams (see Section II.A.C.) or, in certain cases, via a URL link indicated in the e-mails sent by the moderation team to the author of the report or to the User who posted the Content online.  
@@ -758,7 +764,7 @@ Dailymotion encourages its Visitors to [report any Content that may violate the 
 
 While we truly believe these reports allow the Dailymotion Service to remain a safe space for everyone, it is important to note that in some cases, unfounded reports might be considered abusive. 
 
-Indeed, unfounded reports done repeatedly and/or reports reasonably suspected to be willfully made to harm the User having posted the reported Content for instance might lead to the refusal of Dailymotion to process the further reports you might make for a certain period of time. 
+Indeed, unfounded reports done repeatedly and/or reports reasonably suspected to be willfully made (i) to harm the User having posted the reported Content for instance, or (ii) to abuse Dailymotion’s reporting systems (notably by sending duplicatives or spammy reports, e.g. through the use of automated tools) might lead to the de-prioritization of such reports or even to the refusal of Dailymotion to process the further reports you might make for a certain period of time. 
 
 We remind you that you may always appeal every moderation decision taken by Dailymotion through the link that was provided to you in the email informing you of such reporting restriction. 
 
@@ -825,7 +831,7 @@ In this DPA, capitalized terms and phrases have the meanings indicated below, 
 
 “**Supervisory Authority**” means the independent public authority responsible for monitoring the application of Applicable Data Protection Laws in each applicable country in order to protect the fundamental rights and freedoms of natural persons with respect to data Processing and to facilitate the free flow of data within the applicable country. In France, the competent supervisory authority is the “_Commission Nationale de l’Informatique et des Libertés_” (CNIL).
 
-**“Third Countries**” means (a) for the purpose of application of the EU Data Protection Law: a country which: (i) is not part of the European Economic Area (“**EEA**”); and (ii) is not subject of a formal adequacy decision of the European Commission (“**EC**”) taken in accordance with Art. 25 (6) of Directive 95/46/EC of the European Parliament and the Council of the European Union or Art. 45 (3) of GDPR, recognizing that the country ensures an adequate level of protection of Personal Data; and (iii) is not subject to a formal [Swiss adequacy decision](https://www.edoeb.admin.ch/edoeb/en/home/data-protection/handel-und-wirtschaft/transborder-data-flows.html), and (iv) is not subject to [UK adequacy decision](https://ico.org.uk/for-organisations/guide-to-data-protection/guide-to-the-general-data-protection-regulation-gdpr/international-transfers-after-uk-exit/#adequacy), and b) for the purpose of application of the LGPD: a country outside of Brazil and not considered as providing adequate protection.When Personal Data is transferred to the US, and during the validity of the DPF under the applicable EC adequacy decision, the term “Third Country” refers to transfers to entities that do not participate in the Data Privacy Framework (“**DPF**”).
+**“Third Countries**” means (a) for the purpose of application of the EU Data Protection Law: a country which: (i) is not part of the European Economic Area (“**EEA**”); and (ii) is not subject of a formal adequacy decision of the European Commission (“**EC**”) taken in accordance with Art. 25 (6) of Directive 95/46/EC of the European Parliament and the Council of the European Union or Art. 45 (3) of GDPR, recognizing that the country ensures an adequate level of protection of Personal Data; and (iii) is not subject to a formal [Swiss adequacy decision](https://www.edoeb.admin.ch/edoeb/en/home/data-protection/handel-und-wirtschaft/transborder-data-flows.html), and (iv) is not subject to [UK adequacy decision](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-transfers-a-guide/#Q1), and b) for the purpose of application of the LGPD: a country outside of Brazil and not considered as providing adequate protection.When Personal Data is transferred to the US, and during the validity of the DPF under the applicable EC adequacy decision, the term “Third Country” refers to transfers to entities that do not participate in the Data Privacy Framework (“**DPF**”).
 
 “**UK Addendum**” means the terms complementing the 2021 SCCs as adapted under the UK GDPR and available [here](https://ico.org.uk/media/for-organisations/documents/4019539/international-data-transfer-addendum.pdf).
 
