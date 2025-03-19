@@ -88,6 +88,8 @@ We use Customer Information for the following purposes:
 * _**Providing our Services**_. We use Customer Information to provide our Sites and Services and for other customer service purposes in relation to Customer accounts.
 * _**Communicating with you about your Taboola Partnership**_. We use Customer Information to communicate, via email or otherwise, about Customers’ accounts; to contact Customers about Taboola’s products or services that we think may interest you; to respond to Customer inquiries, requests, or complaints; and to provide Customers with product updates, news, best practices, and other helpful or interesting information that can enhance your use of Taboola’s Services, in accordance with their communications preferences. When we communicate in this way, our emails may deploy a cookie that tracks when the emails are opened to measure Customer engagement. For more information about cookies, please see our [Cookie Policy](https://www.taboola.com/policies/cookie-policy).
 * _**Marketing and advertising**_. We use Customer Information to provide Customers with newsletters, special offers, and promotions, including via email; and for other marketing, advertising, and promotional purposes, including general updates about Taboola. These communications will be sent in accordance with our Customers’ communications preferences.
+* **_Fraud detection._**  We may use your personal data for fraud detection purposes.
+* _**Analytics/measurement.**_ We may process your data for analytics and measurement purposes.
 
 ### 1.3 To Whom We Disclose Customer Information
 
