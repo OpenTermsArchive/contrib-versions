@@ -1,5 +1,5 @@
-PLAYSTATIONTM NETWORK TERMS OF SERVICE AND USER AGREEMENT
-=========================================================
+**PLAYSTATIONTM NETWORK TERMS OF SERVICE AND USER AGREEMENT**
+=============================================================
 
 [View table of contents](javascript:void(0);)
 
