@@ -423,9 +423,9 @@ Referral Program Terms
 Deliveroo Plus Terms and Conditions
 -----------------------------------
 
-Last updated 8 April 2024
+Last updated 19 March 2025
 
-These T&Cs apply to you if you subscribe to have a Deliveroo Plus account. These do not replace the Terms and Conditions of Service for your Deliveroo account or the Deliveroo Terms of Use for Website and Applications, which will continue to apply except to the extent these T&C vary them.
+These T&Cs apply to you if you subscribe to a Deliveroo Plus account. These do not replace the Terms and Conditions of Service for your Deliveroo account or the Deliveroo Terms of Use for Website and Applications, which will continue to apply except to the extent these T&C vary them.
 
 We know these T&Cs are quite long to read! You can find a summary in the Deliveroo Plus Customers FAQ sheet (“Customer FAQ”) – [https://deliveroo.ie/faq](https://deliveroo.ie/faq)
 
@@ -443,7 +443,7 @@ If you do not want to continue with your Plus Subscription following receipt of 
 
 ### **2\. Eligible Users, Eligible Orders and Participating Partners**
 
-**_Eligible Users_**
+_**Eligible Users**_
 
 Plus and/or some aspects of Plus, including any Free Trial Period, may not be available to all Eligible Users. We will explain which services are available to you when you sign up.
 
@@ -508,7 +508,7 @@ You acknowledge and agree that Deliveroo may vary the Deliveroo Plus Fee during 
 
 Your Deliveroo Plus subscription period (“Deliveroo Plus Subscription Period”) will be communicated and chosen by you at the time of subscribing.
 
-You will receive an email prior to the end of the current Deliveroo Plus Subscription Period notifying you that your subscription will be automatically renewed for an additional Deliveroo Plus Subscription Period. Subscriptions will automatically renew at the end of each Deliveroo Plus Subscription Period until your Deliveroo Plus membership is cancelled (by you) or terminated (by us) in accordance with these terms and conditions. Your first Deliveroo Plus Subscription Period will start on the day you sign up, or, if you are offered and eligible for a Free Trial Period or a Free Trial Upgrade, the day immediately following the date on which your Free Trial Period or your Free Trial Upgrade Period expires (“Start Date”).
+You will receive an email prior to the end of the current Deliveroo Plus Subscription Period notifying you that your subscription will be automatically renewed for an additional Deliveroo Plus Subscription Period. Subscriptions will automatically renew at the end of each Deliveroo Plus Subscription Period until your Deliveroo Plus membership is cancelled (by you) or terminated (by us) in accordance with these terms and conditions. Your first Deliveroo Plus Subscription Period will start on the day you sign up, or, if you are offered and eligible for a Free Trial Period or a Free Trial Upgrade, the day immediately following the date on which your Free Trial Period or your Free Trial Upgrade Period expires (“Start Date”). More information can be found in our FAQ section.
 
 ### **6\. Payment And Billing**
 
@@ -547,7 +547,7 @@ After you unpause:
 * You will get access to all Plus benefits.
 * You can’t pause your Deliveroo Plus subscription again for another 30 days.
 * You can use all of your frozen days that were remaining on your previous Deliveroo Plus Subscription Period when you cancelled. After all your remaining “frozen” days are used, we will then charge you the Deliveroo Plus Fee for the next Deliveroo Plus Subscription period. 
-* Your Deliveroo Plus Subscription Period date may change from what it is before you paused your subscription.
+* Your Deliveroo Plus Subscription Period date may change from what it was before you paused your subscription.
 * All payments will be made in accordance with section 6 (Payment and Billing). E.g. if you pause with 10 days remaining in your payment cycle, after you unpause, you’ll first use the 10 days and only after that we’ll charge you for the next Deliveroo Plus Subscription Period.
 
 If you choose to pause your Deliveroo Plus subscription and it remains paused for three months or more, Deliveroo may email to notify you that your Plus subscription will be automatically cancelled unless you unpause within the time period specified in the email. If you do not unpause, your account may be cancelled and you will lose any days remaining at the time of pausing.
@@ -584,7 +584,7 @@ Trial Upgrade Availability: From time to time, we may offer new or existing Plus
 
 ●      Eligibility: Eligibility for a Free Trial Period or a Free Trial Upgrade is determined by Deliveroo at its sole discretion. To prevent fraudulent activity and abuse of the Free Trial Period we may limit eligibility or duration. We reserve the right to revoke the Free Trial Period and put a hold on your account in the event that we determine that you are not eligible.
 
-●      End of Free Trial Period: At the end of the Free Trial Period or Free Trial Upgrade Period, you shall be required to pay the Deliveroo Plus Fees applicable for the tier to which you have subscribed. If you do not want to automatically pay the Deliveroo Plus Fee you must cancel your subscription within the Cooling Off Period. You can cancel the trial offer at by logging into your account or by contacting Customer Services. If you cancel your Deliveroo Plus subscription at any time in the future, any future subscription to Deliveroo Plus that uses the same Deliveroo account, phone number, or credit card associated with your first Deliveroo Plus subscription will not be entitled to receive an additional Free Trial Period.
+●      End of Free Trial Period: At the end of the Free Trial Period or Free Trial Upgrade Period, you shall be required to pay the Deliveroo Plus Fees applicable for the tier to which you have subscribed. If you do not want to automatically pay the Deliveroo Plus Fee you must cancel your subscription within the Cooling Off Period. You can cancel the trial offer by logging into your account or by contacting Customer Services. If you cancel your Deliveroo Plus subscription at any time in the future, any future subscription to Deliveroo Plus that uses the same Deliveroo account, phone number, or credit card associated with your first Deliveroo Plus subscription will not be entitled to receive an additional Free Trial Period.
 
 ●      Providing mobile unique number: You will need to provide us with a unique valid mobile phone number. By providing this number you consent to us sending you a one-time verification code which you will be asked to provide back to us as part of the registration process and in order to activate the trial offer. If you do not have a valid mobile phone number you will not be able to participate in our trial offer. We will only be able to accept a mobile phone number on one (1) occasion as a means of validating a trial offer. Failure to provide a valid mobile phone number will result in your request to participate in the trial offer being declined. Please note that while we do not charge you for the SMS, your mobile standard messaging rates may apply. If you have any questions regarding privacy, please read our privacy policy at: [https://deliveroo.co.ie/privacy](https://deliveroo.co.ie/privacy).
 
@@ -600,7 +600,7 @@ Trial Upgrade Availability: From time to time, we may offer new or existing Plus
 2. Sign up or login to Deliveroo
 3. Link your Amazon account
 
-* Existing fee paying Deliveroo Plus subscription customers are also able to redeem this offer (provided they have a current Amazon Prime membership) and, if they are an Eligible User, will be moved onto the Deliveroo Plus with Amazon Prime ‘free period’ plan for 12 months after the offer redemption date. At the end of your ‘free period’ or if you end your Amazon Prime membership, you will automatically be moved back onto your previous pay monthly Plus subscription plan, and the relevant subscription fee will be payable by you. You will need to cancel your subscription prior to the end of the ‘free period’ to avoid paying these charges.
+* Existing fee paying Deliveroo Plus subscription customers are also able to redeem this offer (provided they have a current Amazon Prime membership) and, if they are an Eligible User, will be moved onto the Deliveroo Plus with Amazon Prime ‘free period’ plan for 12 months after the offer redemption date. At the end of your ‘free period’ or if you end your Amazon Prime membership, you will automatically be moved back onto your previous Plus subscription plan, and the relevant subscription fee will be payable by you. You will need to cancel your subscription prior to the end of the ‘free period’ to avoid paying these charges.
 
 ### **13\. Deliveroo Plus Offer with Revolut**
 
