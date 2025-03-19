@@ -2617,6 +2617,14 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         239. City of Phoenix: [https://www.phoenixopendata.com/dataset/street-centerline](https://www.phoenixopendata.com/dataset/street-centerline)
             
+        240. Data Gov, US: [https://www.usa.gov/government-copyright](https://www.usa.gov/government-copyright)
+            
+        241. United States Census Bureau: [https://www.census.gov/about/policies/privacy.html](https://www.census.gov/about/policies/privacy.html)
+            
+        242. Maryland Open Data, US: [https://data-maryland.opendata.arcgis.com/datasets/maryland::maryland-road-centerlines-comprehensive/about](https://data-maryland.opendata.arcgis.com/datasets/maryland::maryland-road-centerlines-comprehensive/about)
+            
+        243. Atlanta Regional Commission: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     68. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
     69. **United Arab Emirates / Abu Dhabi**
