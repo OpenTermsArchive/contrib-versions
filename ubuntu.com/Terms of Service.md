@@ -1,8 +1,6 @@
 Website terms and conditions
 ============================
 
-Valid since 17 April 2014
-
 Intellectual property
 ---------------------
 
@@ -62,14 +60,17 @@ Yes, it gives most of us a headache to read all of this, but it's important so t
 
 ### Registered office
 
-2nd Floor, Clarendon House,  
-Victoria Street,  
-Douglas IM1 2LN,  
-Isle of Man
+    2nd Floor, Clarendon House,
+    Victoria Street,
+    Douglas IM1 2LN,
+    Isle of Man
+    
 
 ### Contact us
 
 Please note Canonical will not provide legal advice. For other queries, please contact us via [legal@canonical.com](mailto:legal@canonical.com)
+
+[Back to top](#)
 
 ### Want a fully managed private cloud?
 
