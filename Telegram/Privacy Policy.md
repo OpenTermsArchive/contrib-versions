@@ -126,7 +126,7 @@ Telegram is a cloud service. We will process your data to deliver your cloud cha
 
 #### [](#5-2-safety-and-security)5.2. Safety and Security
 
-Telegram supports massive communities which we have to police against abuse and Terms of Service violations. Telegram also has more than [900 million](https://telegram.org/blog/700-million-and-premium) users which makes it a lucrative target for spammers. To improve the security of your account, as well as to prevent [spam](https://telegram.org/faq_spam), abuse, and other violations of our Terms of Service, we may collect metadata such as your IP address, devices and Telegram apps you've used, history of username changes, etc. If collected, this metadata can be kept for 12 months maximum.
+Telegram supports massive communities which we have to police against abuse and Terms of Service violations. Telegram also has more than [1 billion](https://t.me/durov/404) users which makes it a lucrative target for spammers. To improve the security of your account, as well as to prevent [spam](https://telegram.org/faq_spam), abuse, and other violations of our Terms of Service, we may collect metadata such as your IP address, devices and Telegram apps you've used, history of username changes, etc. If collected, this metadata can be kept for 12 months maximum.
 
 #### [](#5-3-spam-and-abuse)5.3. Spam and Abuse
 
