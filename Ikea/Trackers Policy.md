@@ -1,4 +1,4 @@
-[Click today and collect in-store same day, for free. Or, collect from your local pick-up point from €2.95](https://www.ikea.com/ie/en/customer-service/services/click-collect/collect-from-partner-locations-pubb89b7800/?itm_content=Prop&itm_element=Banner&itm_campaign=prop_banner_collect_partner_location)
+[IKEA FAMILY members: Free small standard parcel delivery when you spend €65 or more](https://www.ikea.com/ie/en/customer-service/services/delivery/#18fc4069-0a57-11ec-912c-d5190c7baa2c)
 
 Cookie Policy
 =============
