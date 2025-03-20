@@ -167,19 +167,19 @@ You can find more information about the individual cookies we use and the purpos
 | Cookie | Name | Purpose |
 | --- | --- | --- |
 | Site cookie acceptance | `_cookies_accepted` | This cookie is used to record if a user has accepted the use of cookies on our website. To withdraw your consent after accepting this cookie, delete the `_cookies_accepted` cookie. |
-| Google Tag Manager with Google Analytics | `_utma`, `_utmb`, `_utmc`, `_utmz`, `_ga`, `_gid`, `_id_cpn`, `_id_eml`, `trwsa.sid`, `trwsb.cpv`, `trwsb.sid`, `trwsb.stu`, `trwv.crd`, `trwv.cvd`, `trwv.eml`, `trwv.lvd`, `trwv.uid`, `trwv.uid`, `waiting_in_queue`, `lc_window_state`, `_dc_gtm_UA-XXXXXXX-X`, `__lc.visitor_id.XXXXXXX` | Google Tag Manager to set most of our trackers as well as Google Analytics.<br><br>[Google's privacy policy](https://policies.google.com/privacy?hl=en-GB&gl=uk) |
-| Crazyegg | `_ceir`, `is_returning`, `_CEFT`, `ceg.s`,`ceg.u` | Crazyegg tracks javascript on some pages of our site to understand what links our visitors are clicking on. This helps us optimise our content for the best user experience. The Crazyegg script may store a cookie on your computer. This cookie may contain a session ID, a visitor ID and a few other dynamically created parameters that allow Crazyegg to track our site's traffic accurately. No personal information is stored within the cookie.<br><br>[Crazy Egg's privacy policy](https://www.crazyegg.com/privacy) |
-| Marketo Munchkin | `_mkto_trk`, `BIGipServersjrtp3_https`, `firstTouchGA`, `LPVID`, `_A_source`, `_A_time` | Marketo's cookie allows us to track repeated visits to the website, and link each visit to the information voluntarily provided by the visitor. For example, if the visitor is asked to provide us with their name, company name and email address, we will know the identity of the visitor when they visit the site at a later date, or when we send them email.<br><br>[Marketo's privacy policy](https://documents.marketo.com/legal/privacy/) |
-| Facebook | Pixel cookies<br><br>`fr`, `datr`, `reg_ext_ref`, `reg_fb_gate`, `reg_fb_ref`, `sb`, `wb`<br><br>Conversion API cookies<br><br>`client_user_agent`, `action_source`, `event_source_url` | The Facebook pixel allows us to see how many people take action on our ads and which ad led to a conversion.<br><br>Website events are shared with the Facebook Conversions API. This contributes to improving quality of events used for ad delivery<br><br>[Facebook's privacy policy](https://www.facebook.com/about/privacy/) |
-| LinkedIn | `bcookie`, `lidc`, `BizoID`, `UserMatchHistory`, `lang`, `bscookie` | LinkedIn tracking allows us to see how many people take action on our ads and which ad led to a conversion.<br><br>[LinkedIn's privacy policy](https://www.linkedin.com/legal/privacy-policy) |
-| Twitter | `guest_id`, `personalization_id`, `_ga`, `_gid` | Twitter tracking allows us to see how many people take action on our ads and which ad led to a conversion.<br><br>[Twitter's privacy policy](https://twitter.com/en/privacy) |
-| LiveChat | `__livechat`, `recent_window`, `notifications[]`, `message_text`, `main_window_timestamp`, `__lc_vv`, `__livechat`, `__livechat_lastvisit` | LiveChat allows potential customers to talk to our sales people through live chat. Cookies help the service function.<br><br>[LiveChat's privacy policy](https://www.livechatinc.com/privacy-policy/) |
-| Vimeo | `vuid` | Vimeo hosts our videos. Their cookies provides more information about how many people view our videos and for how long.<br><br>[Vimeo's privacy policy](https://vimeo.com/privacy) |
-| N.Rich | `_naiuid` | N.Rich tracking allows us to optimize our account-based marketing campaigns, enabling more granular, cookie-based analytics, and advertising personalization.<br><br>[N.Rich privacy notice](https://privacy.nrich.ai/privacy-notice) |
-| Salesloft | `sliguid`, `slirequested`, `slireg`, `sli_token`, `site_identity` | Salesloft website tracking lets us track activity and interactions with web pages in Salesloft's platform.<br><br>[Salesloft's privacy notice](https://salesloft.com/privacy-notice/) |
-| Reddit | `_rdt_uuid`, `reddaid` | Using the Reddit Pixel, we can build a retargeting audience. This helps us reconnect with people who’ve shown interest.<br><br>[Reddit's privacy policy](https://www.reddit.com/policies/privacy-policy) |
-| ZoomInfo | `ab`, `u`, `ssi`, `demdex`, `dpm`, `_cc_id`, `_cc_dc_`, `rla3`, `pxrc`, `IDE`, `i`, `CookieConsent`, `__cf_bm`, `lrsync`, `_ga`, `chs`, `visitorid`, `insent-user-id`, `_zitok`, `_px3`, `__cf_bm` | Using ZoomInfo’s WebSights service, we can get a better idea of user behavior on our websites based on firmographic data.<br><br>[ZoomInfo's privacy policy](https://www.zoominfo.com/legal/privacy-policy) |
-| Google reCAPTCHA | `__Secure-1PSIDCC`, `__Secure-3PSIDCC`, `SIDCC` | [Google reCAPTCHA](https://www.google.com/recaptcha/about/) tracks various website interaction signals to identify bot sessions and provides us protection against spam and abuse.<br><br>[Google Privacy Policy](https://policies.google.com/privacy)<br><br>[Google Terms of Service](https://policies.google.com/terms) |
+| Google Tag Manager with Google Analytics | `_utma`, `_utmb`, `_utmc`, `_utmz`, `_ga`, `_gid`, `_id_cpn`, `_id_eml`, `trwsa.sid`, `trwsb.cpv`, `trwsb.sid`, `trwsb.stu`, `trwv.crd`, `trwv.cvd`, `trwv.eml`, `trwv.lvd`, `trwv.uid`, `trwv.uid`, `waiting_in_queue`, `lc_window_state`, `_dc_gtm_UA-XXXXXXX-X`, `__lc.visitor_id.XXXXXXX` | Google Tag Manager to set most of our trackers as well as Google Analytics.  <br>  <br>[Google's privacy policy](https://policies.google.com/privacy?hl=en-GB&gl=uk) |
+| Crazyegg | `_ceir`, `is_returning`, `_CEFT`, `ceg.s`,`ceg.u` | Crazyegg tracks javascript on some pages of our site to understand what links our visitors are clicking on. This helps us optimise our content for the best user experience. The Crazyegg script may store a cookie on your computer. This cookie may contain a session ID, a visitor ID and a few other dynamically created parameters that allow Crazyegg to track our site's traffic accurately. No personal information is stored within the cookie.  <br>  <br>[Crazy Egg's privacy policy](https://www.crazyegg.com/privacy) |
+| Marketo Munchkin | `_mkto_trk`, `BIGipServersjrtp3_https`, `firstTouchGA`, `LPVID`, `_A_source`, `_A_time` | Marketo's cookie allows us to track repeated visits to the website, and link each visit to the information voluntarily provided by the visitor. For example, if the visitor is asked to provide us with their name, company name and email address, we will know the identity of the visitor when they visit the site at a later date, or when we send them email.  <br>  <br>[Marketo's privacy policy](https://documents.marketo.com/legal/privacy/) |
+| Facebook | Pixel cookies  <br>  <br>`fr`, `datr`, `reg_ext_ref`, `reg_fb_gate`, `reg_fb_ref`, `sb`, `wb`  <br>  <br>Conversion API cookies  <br>  <br>`client_user_agent`, `action_source`, `event_source_url` | The Facebook pixel allows us to see how many people take action on our ads and which ad led to a conversion.  <br>  <br>Website events are shared with the Facebook Conversions API. This contributes to improving quality of events used for ad delivery  <br>  <br>[Facebook's privacy policy](https://www.facebook.com/about/privacy/) |
+| LinkedIn | `bcookie`, `lidc`, `BizoID`, `UserMatchHistory`, `lang`, `bscookie` | LinkedIn tracking allows us to see how many people take action on our ads and which ad led to a conversion.  <br>  <br>[LinkedIn's privacy policy](https://www.linkedin.com/legal/privacy-policy) |
+| Twitter | `guest_id`, `personalization_id`, `_ga`, `_gid` | Twitter tracking allows us to see how many people take action on our ads and which ad led to a conversion.  <br>  <br>[Twitter's privacy policy](https://twitter.com/en/privacy) |
+| LiveChat | `__livechat`, `recent_window`, `notifications[]`, `message_text`, `main_window_timestamp`, `__lc_vv`, `__livechat`, `__livechat_lastvisit` | LiveChat allows potential customers to talk to our sales people through live chat. Cookies help the service function.  <br>  <br>[LiveChat's privacy policy](https://www.livechatinc.com/privacy-policy/) |
+| Vimeo | `vuid` | Vimeo hosts our videos. Their cookies provides more information about how many people view our videos and for how long.  <br>  <br>[Vimeo's privacy policy](https://vimeo.com/privacy) |
+| N.Rich | `_naiuid` | N.Rich tracking allows us to optimize our account-based marketing campaigns, enabling more granular, cookie-based analytics, and advertising personalization.  <br>  <br>[N.Rich privacy notice](https://privacy.nrich.ai/privacy-notice) |
+| Salesloft | `sliguid`, `slirequested`, `slireg`, `sli_token`, `site_identity` | Salesloft website tracking lets us track activity and interactions with web pages in Salesloft's platform.  <br>  <br>[Salesloft's privacy notice](https://salesloft.com/privacy-notice/) |
+| Reddit | `_rdt_uuid`, `reddaid` | Using the Reddit Pixel, we can build a retargeting audience. This helps us reconnect with people who’ve shown interest.  <br>  <br>[Reddit's privacy policy](https://www.reddit.com/policies/privacy-policy) |
+| ZoomInfo | `ab`, `u`, `ssi`, `demdex`, `dpm`, `_cc_id`, `_cc_dc_`, `rla3`, `pxrc`, `IDE`, `i`, `CookieConsent`, `__cf_bm`, `lrsync`, `_ga`, `chs`, `visitorid`, `insent-user-id`, `_zitok`, `_px3`, `__cf_bm` | Using ZoomInfo’s WebSights service, we can get a better idea of user behavior on our websites based on firmographic data.  <br>  <br>[ZoomInfo's privacy policy](https://www.zoominfo.com/legal/privacy-policy) |
+| Google reCAPTCHA | `__Secure-1PSIDCC`, `__Secure-3PSIDCC`, `SIDCC` | [Google reCAPTCHA](https://www.google.com/recaptcha/about/) tracks various website interaction signals to identify bot sessions and provides us protection against spam and abuse.  <br>  <br>[Google Privacy Policy](https://policies.google.com/privacy)  <br>  <br>[Google Terms of Service](https://policies.google.com/terms) |
 
 Please note that third parties (including, for example, advertising networks and providers of external services like web traffic analysis services) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.
 
@@ -233,11 +233,7 @@ Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [dataprotection@canonical.com](mailto:dataprotection@canonical.com) or to the address below:
 
-Legal, Canonical  
-4th Floor,  
-201 Borough High Street  
-London SE1 1JA  
-United Kingdom  
+Legal, Canonical 4th Floor, 201 Borough High Street London SE1 1JA United Kingdom
 
 Alternatively you can use the relevant [contact us](https://ubuntu.com/contact-us) form.
 
@@ -246,38 +242,18 @@ Your right to complain
 
 If you have a complaint about our use of your information, you can contact the Information Commissioner's Office via their website at [ico.org.uk/make-a-complaint/](https://ico.org.uk/make-a-complaint/) or write to them at:
 
-Information Commissioner's Office  
-Wycliffe House  
-Water Lane  
-Wilmslow  
-Cheshire  
-SK9 5AF  
-United Kingdom
-
-#### CONTENTS
-
-* [Privacy notices](#privacy-notices)
-* [Information we collect from you](#information-we-collect-from-you)
-* [How information is collected from you](#how-information-is-collected-from-you)
-* [What do we do with your personal data](#what-do-we-do-with-your-personal-data)
-* [What are your rights](#what-are-your-rights)
-* [Cookies](#cookies)
-* [How do we protect the information we collect](#how-do-we-protect-the-information-we-collect)
-* [How we use the information we collect](#how-we-use-the-information-we-collect)
-* [Disclosure of your information](#disclosure-of-your-information)
-* [Where we transfer and store your information](#where-we-transfer-and-store-your-information)
-* [Changes to our privacy policy](#changes-to-our-privacy-policy)
-* [Contact](#contact)
-* [Your right to complain](#your-right-to-complain)
+Information Commissioner's Office Wycliffe House Water Lane Wilmslow Cheshire SK9 5AF United Kingdom
 
 #### Older versions
 
 * [25 March 2013 ›](https://ubuntu.com/legal/data-privacy/2013-03-25)
-* [08 February2016 ›](https://ubuntu.com/legal/data-privacy/2016-02-08)
+* [08 February 2016 ›](https://ubuntu.com/legal/data-privacy/2016-02-08)
 
 #### Contact us
 
 * [Data protection enquiries ›](https://ubuntu.com/legal/data-privacy/enquiry)
+
+[Back to top](#)
 
 ### Want a fully managed private cloud?
 
