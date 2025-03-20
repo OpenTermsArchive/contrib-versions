@@ -28,7 +28,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -275,7 +275,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -313,7 +313,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -532,7 +532,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -570,7 +570,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -723,26 +723,32 @@ publié le22.12.22 mise à jour12.10.23
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[attestation-vaccin.ameli.fr](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
-* le [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
-    
-    Vous avez été vacciné par un professionnel de santé ?  
-    Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
-    
-    * Commencer l’importation
-        * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
-        * Cliquez sur « **S’identifier avec FranceConnect** ».
-        * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
-        * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
-        * Confirmez votre demande comme indiqué dans les instructions.
-    
-    * J’ai été vacciné à l’étranger
-        * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-        * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
-    
+* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/) ;
+* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
+
+* * *
+
+### Réponses à vos questions sur l’application
+
+[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+
+Vous avez été vacciné par un professionnel de santé ?  
+Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
+
+* Commencer l’importation
+    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+    * Cliquez sur « **S’identifier avec FranceConnect** ».
+    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
+    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
+    * Confirmez votre demande comme indiqué dans les instructions.
+
+* J’ai été vacciné à l’étranger
+    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
 [Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
@@ -785,6 +791,34 @@ pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https:/
 
 \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
+Suivez-nous  
+sur les réseaux sociaux
+-------------------------------------
+
+* [](https://twitter.com/Sante_Gouv "Suivez-nous sur X")
+* [_Suivez-nous sur Facebook_](https://www.facebook.com/Sante.Gouv/ "Suivez-nous sur Facebook")
+* [_Suivez-nous sur Linkedin_](https://www.linkedin.com/company/minist%C3%A8re-des-solidarites-de-la-sant%C3%A9/ "Suivez-nous sur Linkedin")
+* [_Suivez-nous sur YouTube_](https://www.youtube.com/channel/UCApzB6X-04YRPq9SZ0WfEsg "Suivez-nous sur YouTube")
+* [_S'abonner aux flux RSS_](http://social-sante.gouv.fr/spip.php?page=backend "S'abonner aux flux RSS")
+
+![Ministère du Travail, de la Santé, des Solidarités et des Familles](IMG/logo/logo-travail-emploi4.png?1735229028) 
+
+* [info.gouv.fr](https://info.gouv.fr/)
+* [legifrance.gouv.fr](https://www.legifrance.gouv.fr/)
+* [service public.fr](https://www.service-public.fr/)
+* [data.gouv.fr](https://www.data.gouv.fr/)
+
+* [Plan du site](https://sante.gouv.fr/spip.php?page=plan)
+* [Accessibilité : partiellement conforme](https://sante.gouv.fr/ministere/article/declaration-d-accessibilite-du-site-sante-gouv-fr)
+* [Mentions légales](https://sante.gouv.fr/ministere/article/mentions-legales)
+* [Données personnelles et cookies](https://sante.gouv.fr/ministere/article/donnees-personnelles-et-cookies)
+* [Contacts](https://sante.gouv.fr/ministere/article/nous-contacter)
+* [Archives presse](https://sante.gouv.fr/archives/archives-presse/)
+
+Sauf mention contraire, tous les contenus de ce site sont sous [licence etalab-2.0](https://github.com/etalab/licence-ouverte/blob/master/LO.md)
+
+[Haut de page](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#0 "Haut de page")
+
 * [Aller au contenu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#content)
 * [Aller au menu](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#main-nav)
 * [Aller à la recherche](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#recherche)
@@ -815,7 +849,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -1062,7 +1096,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -1100,7 +1134,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -1319,7 +1353,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -1357,7 +1391,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -1510,26 +1544,32 @@ publié le22.12.22 mise à jour12.10.23
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[attestation-vaccin.ameli.fr](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
-* le [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
-    
-    Vous avez été vacciné par un professionnel de santé ?  
-    Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
-    
-    * Commencer l’importation
-        * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
-        * Cliquez sur « **S’identifier avec FranceConnect** ».
-        * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
-        * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
-        * Confirmez votre demande comme indiqué dans les instructions.
-    
-    * J’ai été vacciné à l’étranger
-        * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-        * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
-    
+* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/) ;
+* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
+
+* * *
+
+### Réponses à vos questions sur l’application
+
+[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+
+Vous avez été vacciné par un professionnel de santé ?  
+Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
+
+* Commencer l’importation
+    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+    * Cliquez sur « **S’identifier avec FranceConnect** ».
+    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
+    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
+    * Confirmez votre demande comme indiqué dans les instructions.
+
+* J’ai été vacciné à l’étranger
+    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
 [Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
@@ -1602,7 +1642,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -1849,7 +1889,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -1887,7 +1927,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -2106,7 +2146,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -2144,7 +2184,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -2332,7 +2372,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -2579,7 +2619,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -2617,7 +2657,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -2763,7 +2803,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -3010,7 +3050,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -3048,7 +3088,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -3194,7 +3234,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -3441,7 +3481,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -3479,7 +3519,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -3625,7 +3665,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -3872,7 +3912,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -3910,7 +3950,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -4056,7 +4096,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -4303,7 +4343,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -4341,7 +4381,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -4487,7 +4527,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -4734,7 +4774,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -4772,7 +4812,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -4904,7 +4944,7 @@ Retour
 
 Retour
 
-* [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+* [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
 * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
 * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
 * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -5021,7 +5061,7 @@ Retour
 * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
 * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
 * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-* \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+* 
 
 * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
 
@@ -5044,7 +5084,7 @@ Retour
 * [Risques sanitaires liés au froid](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/risques-sanitaires-lies-au-froid)
 * [Changement climatique et santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/changement-climatique-et-sante)
 
-* [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+* [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
 * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
 * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
 * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -5218,7 +5258,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -5256,7 +5296,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -5473,7 +5513,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -5511,7 +5551,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -5728,7 +5768,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -5766,7 +5806,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -5983,7 +6023,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -6021,7 +6061,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -6238,7 +6278,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -6276,7 +6316,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -6493,7 +6533,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -6531,7 +6571,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -6748,7 +6788,7 @@ Recherche
             * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
             * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
             * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-            * \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+            * 
             
         * [Planification écologique en santé](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/)
             
@@ -6786,7 +6826,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -6970,7 +7010,7 @@ Retour
 * [Usage domestique d’eaux impropres à la consommation humaine](https://sante.gouv.fr/sante-et-environnement/eaux/article/usage-domestique-d-eaux-impropres-a-la-consommation-humaine)
 * [Laboratoires agréés pour le contrôle sanitaire des eaux](https://sante.gouv.fr/sante-et-environnement/eaux/article/laboratoires-agrees-pour-le-controle-sanitaire-des-eaux)
 * [Légionellose](https://sante.gouv.fr/sante-et-environnement/eaux/article/legionellose)
-* \_page\_top\_>\_site\_navigation','actionmode', '', 'actionlabel', 'click,navigation,link,,custom\_event','actionpname', 'component\_label', 'actionpvalue', '','actionpname', 'component\_value', 'actionpvalue', '" class=','actionpname', 'component\_hierarchy', 'actionpvalue', 'content','actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation'\])"click">
+* 
 
 * [Qu’est-ce que la planification écologique en santé ?](https://sante.gouv.fr/sante-et-environnement/planification-ecologique-en-sante/article/qu-est-ce-que-la-planification-ecologique-en-sante-432408)
 
@@ -6993,7 +7033,7 @@ Retour
 * [Risques sanitaires liés au froid](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/risques-sanitaires-lies-au-froid)
 * [Changement climatique et santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/changement-climatique-et-sante)
 
-* [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+* [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
 * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
 * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
 * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -7101,26 +7141,32 @@ publié le22.12.22 mise à jour12.10.23
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[attestation-vaccin.ameli.fr](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
-* le [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
-    
-    Vous avez été vacciné par un professionnel de santé ?  
-    Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
-    
-    * Commencer l’importation
-        * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
-        * Cliquez sur « **S’identifier avec FranceConnect** ».
-        * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
-        * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
-        * Confirmez votre demande comme indiqué dans les instructions.
-    
-    * J’ai été vacciné à l’étranger
-        * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-        * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
-    
+* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/) ;
+* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
+
+* * *
+
+### Réponses à vos questions sur l’application
+
+[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+
+Vous avez été vacciné par un professionnel de santé ?  
+Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
+
+* Commencer l’importation
+    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+    * Cliquez sur « **S’identifier avec FranceConnect** ».
+    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
+    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
+    * Confirmez votre demande comme indiqué dans les instructions.
+
+* J’ai été vacciné à l’étranger
+    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
 [Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
@@ -7183,26 +7229,32 @@ publié le22.12.22 mise à jour12.10.23
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[attestation-vaccin.ameli.fr](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
-* le [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
-    
-    Vous avez été vacciné par un professionnel de santé ?  
-    Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
-    
-    * Commencer l’importation
-        * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
-        * Cliquez sur « **S’identifier avec FranceConnect** ».
-        * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
-        * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
-        * Confirmez votre demande comme indiqué dans les instructions.
-    
-    * J’ai été vacciné à l’étranger
-        * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-        * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
-    
+* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/) ;
+* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
+
+* * *
+
+### Réponses à vos questions sur l’application
+
+[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+
+Vous avez été vacciné par un professionnel de santé ?  
+Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
+
+* Commencer l’importation
+    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+    * Cliquez sur « **S’identifier avec FranceConnect** ».
+    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
+    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
+    * Confirmez votre demande comme indiqué dans les instructions.
+
+* J’ai été vacciné à l’étranger
+    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
 [Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
@@ -7265,26 +7317,32 @@ publié le22.12.22 mise à jour12.10.23
 
 Les objectifs initiaux de l’application (contribution aux activités de contact tracing, accompagnement des cas et personnes contacts, mise à disposition d’informations sur l’épidémie et les mesures de gestion, stockage des certificats sanitaires) ont été remplis. Nous remercions tous les utilisateurs de TousAntiCovid pour leur confiance, leur contribution à la gestion de la pandémie, mais également pour vos retours sur l’application qui nous ont aidé à l’améliorer et l’adapter durant ces trois années.
 
-En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[attestation-vaccin.ameli.fr](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
+En attendant, vous pourrez toujours accéder à votre carnet et stocker vos certificats de test et/ou vaccination. Nous vous recommandons également de conserver chacun de vos certificats de test et/ou vaccination, au format papier ou en format numérique sur votre téléphone (au format PDF, ou dans les photos par exemple) \[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nb1 "Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur (…)")\]. Vous pourrez toujours récupérer vos certificats de vaccination sur le portail de l’Assurance maladie ([attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/)). Si vous êtes affiliés à l’Assurance maladie, vous pouvez récupérer vos certificats sur Mon Espace Santé.
 
 Pour continuer à suivre la situation sanitaire sur le Covid, vous trouverez plus d’information sur :
 
-* le [Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/)
-    
-    Vous avez été vacciné par un professionnel de santé ?  
-    Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
-    
-    * Commencer l’importation
-        * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
-        * Cliquez sur « **S’identifier avec FranceConnect** ».
-        * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
-        * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
-        * Confirmez votre demande comme indiqué dans les instructions.
-    
-    * J’ai été vacciné à l’étranger
-        * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
-        * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
-    
+* le [site du ministère de la Santé et de la Prévention](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/) ;
+* le [site de Santé publique France](https://www.santepubliquefrance.fr/dossiers/coronavirus-covid-19) pour la situation épidémiologique.
+
+* * *
+
+### Réponses à vos questions sur l’application
+
+[Comment importer son certificat de vaccination ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
+
+Vous avez été vacciné par un professionnel de santé ?  
+Le professionnel de santé vous remettra, au format papier, un certificat de vaccination à l’issue de l’acte.
+
+* Commencer l’importation
+    * Connectez-vous au **téléservice de l’Assurance Maladie** [attestation-vaccin.ameli.fr](https://attestation-vaccin.ameli.fr/).
+    * Cliquez sur « **S’identifier avec FranceConnect** ».
+    * **Choisissez un compte** que vous connaissez parmi ceux disponibles (impots.gouv.fr, ameli.fr, msa.fr, etc.).
+    * FranceConnect vous redirige vers la page de connexion pour **entrer vos identifiants**.
+    * Confirmez votre demande comme indiqué dans les instructions.
+
+* J’ai été vacciné à l’étranger
+    * Si vous avez été **vacciné dans un pays raccordé au réseau mondial de certification numérique en matière de santé**, le pays émetteur vous remettra un certificat de vaccination au format international (GDHCN, pour "Global digital health certification network"), qui sera lu et reconnu sur le territoire français.
+    * Pour importer le certificat dans TousAntiCovid, flashez le QR Code en bas à gauche.
 
 [Comment récupérer un nouveau certificat sanitaire ?](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#_bloc_non_ajax)
 
@@ -7324,6 +7382,8 @@ pdf Rapport d’activité 2020-2021 [Téléchargement du pdf (2.6 Mio)](https:/
 pdf Rapport d’activité 2021-2022 [Téléchargement du pdf (1.2 Mio)](https://sante.gouv.fr/IMG/pdf/rapport_tousanticovid_mars_2023.pdf "Rapport d’activité 2021-2022")
 
 * * *
+
+\[[1](https://sante.gouv.fr/soins-et-maladies/maladies/maladies-et-infections-respiratoires/covid-19/article/tousanticovid#nh1 "Notes 1")\] Le règlement relatif au certificat COVID numérique de l’UE entré en vigueur le 1er juillet 2021 prend fin au 30 juin 2023. Néanmoins l’Organisation mondiale de la santé (OMS) assurera la suite de ce dispositif de certification des preuves sanitaires avec le lancement du réseau mondial de certification numérique en matière de santé (GDHCN, pour « Global digital health certification network »). Dans ce cadre, les certificats de vaccination continueront d’être délivrés par l’Assurance maladie et interopérables avec les pays rejoignant le réseau. Les certificats de tests (test négatif et certificat de rétablissement) ne seront plus délivrés à partir du 1er juillet 2023 conformément à la fin du traitement de données dénommé SI-DEP qui sera effective à cette même date. Dans le cadre du nouveau réseau GDHCN, des travaux sont en cours avec l’OMS afin d’élargir le dispositif de certification des preuves sanitaires de manière pérenne.
 
 TousAntiCovid
 =============
