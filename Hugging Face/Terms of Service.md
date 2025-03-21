@@ -1,7 +1,7 @@
 [Terms of Service](https://huggingface.co/terms-of-service) [Privacy Policy](https://huggingface.co/privacy) [Content Policy](https://huggingface.co/content-policy) [Code of Conduct](https://huggingface.co/code-of-conduct)
 
-Terms of Service
-================
+[](#terms-of-service)Terms of Service
+=====================================
 
 **🗓 Effective Date: September 15, 2022**
 
@@ -21,8 +21,8 @@ We **may change** or update the Terms from time to time. Changes will be effecti
 
 We may also post and update [supplemental terms](https://cdn-media.huggingface.co/landing/assets/Supplemental+Terms.pdf) for specific Services ("Supplemental Terms"), and such Supplemental Terms will also apply to you.
 
-📚 A few definitions
---------------------
+[](#📚-a-few-definitions)📚 A few definitions
+---------------------------------------------
 
 **Let's make sure we speak the same language!**
 
@@ -64,8 +64,8 @@ We may also post and update [supplemental terms](https://cdn-media.huggingface.c
 
 "**User**" refers to the individual person, company or organization that accesses, receives, or uses the Services. That's you!
 
-👩‍💻 Your Use of the Services
-------------------------------
+[](#👩💻-your-use-of-the-services)👩‍💻 Your Use of the Services
+----------------------------------------------------------------
 
 **Here are the Services we offer, and how you should use them.**
 
@@ -96,8 +96,8 @@ You must use our Services in **strict compliance** with these Terms, the [Supple
 
 We **may** at any time **modify**, **suspend**, or **discontinue**, temporarily or permanently, the Services (or any part thereof) with or without notice. You agree that we will not be liable to you or to any third party for any modification, suspension or discontinuance of the Services.
 
-👤 Your Account
----------------
+[](#👤-your-account)👤 Your Account
+-----------------------------------
 
 **Pretty basic, but necessary before accessing some of our Services!**
 
@@ -107,8 +107,8 @@ When you create your Account, we are going to ask you to provide us with some **
 
 🔒Security is very important to us, and we need every member of our community to cooperate. You are **responsible for maintaining the confidentiality and security** of your password necessary for accessing your Account and the Services. You may not disclose your password to any third party, and you are solely responsible for any action taken with your Account. You must notify us immediately of any actual or suspected breach of security on your Account, loss or compromise of password, or unauthorized use of your Account.
 
-💬 Your Content
----------------
+[](#💬-your-content)💬 Your Content
+-----------------------------------
 
 **Wondering about what we do with your Content?**
 
@@ -130,8 +130,8 @@ When Content **contains notice of a reasonable and customary license**, (such as
 
 Any Content you download, access or use from us or another User, is **at your own risk** and subject to these Terms and/or the terms accompanying such Content.
 
-💰 Payment
-----------
+[](#💰-payment)💰 Payment
+-------------------------
 
 **We work hard to make our Services most useful to you, and we thank you for your trust and support!**
 
@@ -147,8 +147,8 @@ The plan is billed **in advance** on a **monthly** basis, and **usage** based fe
 
 For **certain Services**, the Service Fees and payment terms may be specified in the **Supplemental Terms** and/or in any other binding document signed between us, including but not limited to an Order Form, a Scope of Work, or a Master Service Agreement, which are fully incorporated into the Agreement between us.
 
-😔 Termination
---------------
+[](#😔-termination)😔 Termination
+---------------------------------
 
 **Don't go! But if you do, here is what happens after termination.**
 
@@ -162,8 +162,8 @@ We also reserve the **right to retain** **your information** for legal or regula
 
 For **certain Services**, the Service Term and causes for termination may be specified in the **Supplemental Terms** and/or in any other binding document signed between us, including but not limited to an Order Form, a Scope of Work, or a Master Service Agreement, which are fully incorporated into the Agreement between us.
 
-🤐 Confidentiality
-------------------
+[](#🤐-confidentiality)🤐 Confidentiality
+-----------------------------------------
 
 **What is confidential, stays confidential.**
 
@@ -179,8 +179,8 @@ Confidential Information is and shall at all times remain the **exclusive proper
 
 Upon **termination** or expiration of the Agreement, we ask you to promptly destroy or return all Confidential Information, and we will do the same if you ask us to do so.
 
-💡 Intellectual Property
-------------------------
+[](#💡-intellectual-property)💡 Intellectual Property
+-----------------------------------------------------
 
 Let's give credit where it is due, and protect our intellectual property rights!
 
@@ -194,15 +194,15 @@ Let's give credit where it is due, and protect our intellectual property rights!
 
 **Supplemental Terms**. Certain Services may be governed by specific intellectual property terms which are stated in the **Supplemental Terms** and/or in any other binding document signed between us, and which are fully incorporated into the Agreement between us.
 
-⛔ Privacy
----------
+[](#⛔-privacy)⛔ Privacy
+-----------------------
 
 **Your privacy is paramount to us, and here is how we respect it.**
 
 We will provide the Services in accordance with our **Privacy Policy** available at: [https://huggingface.co/privacy](https://huggingface.co/privacy).
 
-🎓 Liability
-------------
+[](#🎓-liability)🎓 Liability
+-----------------------------
 
 **Our worst case scenario.**
 
@@ -210,8 +210,8 @@ Neither of us (or any of our affiliates, subsidiaries, contractors, licensors, o
 
 **Either Party’s** (and each Related Party’s) **aggregate liability** to the other Party or any third party in any circumstance will not exceed the amount that you **paid us during the 12-month** period immediately preceding the last claim (or **$50** if relating to a free service). This **limitation will not apply** to **(i)** either party’s liability from fraud, gross negligence, recklessness, or willful or criminal misconduct, **(ii)** your liability for infringement of our intellectual property rights, **(iii)** your liability for breach of the confidentiality section, or **(iv)** amounts you owe us for the service made available as per your payment obligations.
 
-👩‍⚖️ Indemnity
----------------
+[](#👩⚖️-indemnity)👩‍⚖️ Indemnity
+----------------------------------
 
 **Your worst-case scenario.**
 
@@ -219,8 +219,8 @@ Neither of us (or any of our affiliates, subsidiaries, contractors, licensors, o
 
 In this regard, you agree to **indemnify**, defend and hold harmless **us and Related Parties** from all claims, liability, and expenses, including attorney's fees, arising out or in connection with your **use** of (or inability to use) the Services, including but not limited to your **violation** of these Terms, applicable law or regulation, any Content or data posted or used by you, or any other party's use of any Service with your credentials, unless arising directly from Hugging Face’s fraud, gross negligence, recklessness, or willful or criminal misconduct, provided that we provide you with (i) a prompt written notice of the claim, demand, suit or proceeding, (ii) sole control of the defense and settlement of the claim, demand, suit or proceeding, and (iii) all reasonable assistance and cooperation in connection with the defense and settlement of the claim, at its own expense.
 
-🙅‍♂️ Disclaimer of Warranties
-------------------------------
+[](#🙅♂️-disclaimer-of-warranties)🙅‍♂️ Disclaimer of Warranties
+----------------------------------------------------------------
 
 **There are certain promises that we cannot make...**
 
@@ -234,8 +234,8 @@ We **further disclaim all warranties** or guarantees about the accuracy, reliabi
 
 You will be **solely responsible for any damage** resulting from your use of or access to the Services, your downloading of Content or data, or use of any other material provided by or through the Services.
 
-📃 Miscellaneous
-----------------
+[](#📃-miscellaneous)📃 Miscellaneous
+-------------------------------------
 
 **Almost done! These are important legal terms that you should also read.**
 
@@ -263,8 +263,8 @@ You will be **solely responsible for any damage** resulting from your use of or 
 
 **Execution**. Each Party represents and warrants that **(i)** it possesses the legal right and capacity to enter into, execute, deliver and perform the Agreement; **(ii)** the individual signing the Agreement on the Party’s behalf has full power and authority to bind the Party to the terms and conditions set out in this Agreement; and **(iii)** the Agreement is a valid and binding obligation of that Party. You agree that an **electronic signature** shall have the same force and effect as manual signatures.
 
-🔗 Quick links
---------------
+[](#🔗-quick-links)🔗 Quick links
+---------------------------------
 
 [Supplemental Terms](https://cdn-media.huggingface.co/landing/assets/Supplemental+Terms.pdf)
 
