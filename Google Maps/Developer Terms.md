@@ -2625,6 +2625,46 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         243. Atlanta Regional Commission: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        244. United States Census Bureau: [https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=Roads](https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2024&layergroup=Roads)
+            
+        245. City of Milwaukee Open Data Portal: [https://data.milwaukee.gov/dataset/streets](https://creativecommons.org/licenses/by/4.0/)
+            
+        246. Open Data DC: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        247. Catalog Data Gov: [https://catalog.data.gov/dataset/tiger-line-shapefile-2019-state-indiana-primary-and-secondary-roads-state-based-shapefile](https://catalog.data.gov/dataset/tiger-line-shapefile-2019-state-indiana-primary-and-secondary-roads-state-based-shapefile)
+            
+        248. Denver open data: [https://opendata-geospatialdenver.hub.arcgis.com/](https://opendata-geospatialdenver.hub.arcgis.com/)
+            
+        249. Geo Platform: [https://www.geoplatform.gov/metadata/af0123ba-7c15-4c25-b613-253dc57402bd](https://www.geoplatform.gov/metadata/af0123ba-7c15-4c25-b613-253dc57402bd)
+            
+        250. Catalog Data Gov - Delaware Roads: [https://catalog.data.gov/dataset/tiger-line-shapefile-2023-state-delaware-primary-and-secondary-roads](https://catalog.data.gov/dataset/tiger-line-shapefile-2023-state-delaware-primary-and-secondary-roads)
+            
+        251. DCGiS, US: [https://drive.google.com/file/d/0Bw1ZzvRYzwerakdRa1ludGtmdXc/view?resourcekey=0-Gn7n-wtp1qKJRATtV3OO-A](https://drive.google.com/file/d/0Bw1ZzvRYzwerakdRa1ludGtmdXc/view?resourcekey=0-Gn7n-wtp1qKJRATtV3OO-A)
+            
+        252. New Jersey Office of GIS: [https://www.arcgis.com/home/item.html?id=2b11e237a6e149c0a94027780c22c9c4](https://www.arcgis.com/home/item.html?id=2b11e237a6e149c0a94027780c22c9c4)
+            
+        253. Geo Platform, US: [https://www.geoplatform.gov/metadata/e5f1c83e-5fe5-483b-8939-056c6873e66e](https://www.geoplatform.gov/metadata/e5f1c83e-5fe5-483b-8939-056c6873e66e)
+            
+        254. Kansas Geoportal, US: [https://hub.kansasgis.org/datasets/KSDOT::tiger-2020-roads/about](https://hub.kansasgis.org/datasets/KSDOT::tiger-2020-roads/about)
+            
+        255. Geo Platform: [https://www.geoplatform.gov/metadata/2e35142b-7e32-42a6-9ac7-ac6ea0e5c581](https://www.geoplatform.gov/metadata/2e35142b-7e32-42a6-9ac7-ac6ea0e5c581)
+            
+        256. Catalog Data Gov: [https://data.gov/privacy-policy/#licensing](https://data.gov/privacy-policy/#licensing)
+            
+        257. Atlanta Regional Commission: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        258. Atlanta Regional Commission Metro: Fulton County Atlanta: [https://opendata.atlantaregional.com/datasets/fulcogis::street-centerlines/about](https://opendata.atlantaregional.com/datasets/fulcogis::street-centerlines/about) [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
+        259. Missouri Spatial Data Information Service: [https://data-msdis.opendata.arcgis.com/datasets/02b93fe10fdf4c7eb204b4fd156f482b\_0/explore](https://data-msdis.opendata.arcgis.com/datasets/02b93fe10fdf4c7eb204b4fd156f482b_0/explore)
+            
+        260. Chicago Data Portal: [https://www.chicago.gov/city/en/narr/foia/data\_disclaimer.html](https://www.chicago.gov/city/en/narr/foia/data_disclaimer.html)
+            
+        261. Geo Platform: [https://www.geoplatform.gov/metadata/55ac52f4-0be2-429a-9ccd-7562a5dfa63c](https://www.geoplatform.gov/metadata/55ac52f4-0be2-429a-9ccd-7562a5dfa63c)
+            
+        262. Caltrans: [https://gisdata-caltrans.opendata.arcgis.com/datasets/2d56e65de89c418780056651640291e8\_0/about](https://gisdata-caltrans.opendata.arcgis.com/datasets/2d56e65de89c418780056651640291e8_0/about)
+            
+        263. Iowa DOT Open Data Portal, US: [https://data.iowadot.gov/datasets/IowaDOT::511-traveler-information-events-nebraska/explore](https://data.iowadot.gov/datasets/IowaDOT::511-traveler-information-events-nebraska/explore) [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     68. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
     69. **United Arab Emirates / Abu Dhabi**
