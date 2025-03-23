@@ -1,7 +1,7 @@
 Community Guidelines
 ====================
 
-Updated 11 December, 2024
+Updated 21 March, 2025
 
 **Our Promise**
 ===============
@@ -24,7 +24,7 @@ Glassdoor strives to be the most trusted and transparent place for candidates to
     
 * **Verification of Account(s)**: We require email verification from a permanent, active email address or a valid social networking account for each user submitting content. In some cases, we may 1) require users to confirm their account using an employer email address, or 2) attempt to verify their employment history or status through various methods, including third-party integrations or services.
     
-* **Moderation Process:** We moderate content through a two-step moderation process. The first step of review is technological. We apply proprietary technology that analyzes multiple attributes of the content. If the content does not pass initial technological review, a team of human moderators reviews the content to determine if it meets our guidelines. Additionally, a human moderates certain content that is flagged for a secondary review by our users.
+* **Moderation Process:** We moderate content using proprietary technology that analyzes multiple attributes of the content for compliance with these Guidelines. If the content does not pass technological review, it is rejected and not made visible on our services. Additionally, a human moderates certain content that is flagged for a secondary review by our users.
     
 * **Preventing Abuse and Gaming:** We use proprietary technology filters & algorithms to detect attempted abuse and gaming.
     
