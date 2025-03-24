@@ -458,7 +458,10 @@ Solutions
 * [AI](https://canonical.com/solutions/ai)
 * [Data](https://canonical.com/data)
 * [Infrastructure](https://canonical.com/solutions/infrastructure)
-* [Secure open source](https://canonical.com/solutions/secure-open-source)
+* [Managed IT services](https://ubuntu.com/managed?_gl=1*e5c2b5*_gcl_au*NDE2OTY3MDMxLjE3MzgxNDUxNTA.)
+* [Open source security](https://canonical.com/solutions/secure-open-source)
+* [IoT and devices](https://canonical.com/solutions/iot-and-devices)
+* [Cloud native development](https://canonical.com/solutions/cloud-native-development)
 
 * * *
 
