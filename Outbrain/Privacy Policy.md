@@ -1,4 +1,4 @@
-#### USERS PRIVACY POLICY
+**OUTBRAIN USERS PRIVACY POLICY**
 
 Last Updated January 2025
 
@@ -6,13 +6,13 @@ Outbrain is committed to protecting your Personal Data. For purposes of this Pri
 
 We use your Personal Data in line with all applicable laws. To ensure compliance and to align with Outbrain’s values around trust and transparency we have a team of privacy champions responsible for continuously implementing our global privacy program. Citizens from “European Territories” mean the European Economic Area (EEA), the European Free Trade Area (EFTA) and Switzerland. 
 
-This Users Privacy Policy (“**Users Privacy** **Policy**”) governs Outbrain’s use of User Personal Data. We may change this Users Privacy Policy from time to time. You are a User when you visit a page of a website or application of one of Outbrain’s partners (“**Partners**”) where the Outbrain widget is installed or our recommendations are placed (“**Partner Sites**”). For example, if you visit [https://news.sky.com/uk](https://news.sky.com/uk?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE), [www.spiegel.de](http://www.spiegel.de/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE) or [www.cnn.com](http://www.cnn.com/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE), the Outbrain widget is implemented on those websites. You know you are engaging with an Outbrain widget when you see text referencing Outbrain (e.g., “Recommended by Outbrain”, “by Outbrain”) near recommendations. If you click on the hyperlinked reference to Outbrain you will see a [detailed notice](https://www.outbrain.com/what-is/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE) that enables you to navigate to [Outbrain’s Interest Profile](https://my.outbrain.com/recommendations-settings/home?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE) and this Users Privacy Policy where you can opt out of personalized recommendations. In some instances, a Partner may have a white-labelled version of Outbrain’s service for their own offering. In such an event, such Partners must disclose their use of Outbrain in their privacy policies. 
+This Users Privacy Policy (“**Users Privacy** **Policy**”) governs Outbrain’s use of User Personal Data. We may change this Users Privacy Policy from time to time. You are a User when you visit a page of a website or application of one of Outbrain’s partners (“**Partners**”) where the Outbrain widget is installed or our recommendations are placed (“**Partner Sites**”). For example, if you visit [https://news.sky.com/uk](https://news.sky.com/uk), [www.spiegel.de](https://www.spiegel.de/) or [www.cnn.com](http://www.cnn.com/), the Outbrain widget is implemented on those websites. You know you are engaging with an Outbrain widget when you see the AdChoices logo directing you to Outbrain and/or text referencing Outbrain (e.g., “Recommended by Outbrain”, “by Outbrain”) near recommendations. If you click on the AdChoices logo you will see a detailed notice enables you to navigate to [Outbrain’s Interest Profile](https://my.outbrain.com/recommendations-settings/home) and this Users Privacy Policy where you can opt out of personalized recommendations. In some instances, a Partner may have a white-labelled version of Outbrain’s service for their own offering. In such an event, such Partners must disclose their use of Outbrain in their privacy policies.
 
 **Example of an Outbrain Widget**
 
 ![Example of an Outbrain Widget](https://www.outbrain.com/privacy/wp-content/uploads/2021/11/SJ4v1w7y7-1.png)
 
-For more information on how Outbrain uses your Personal Data when you visit [www.outbrain.com](http://www.outbrain.com/) (or any derivation/any of our other sites, such as Outbrain.co.uk; Outbrain.fr; outbrain.de, https://www.zemanta.com/ etc.) (our “Sites”), please see Outbrain’s [Site Visitors Privacy Policy](https://www.outbrain.com/legal#terms-of-use).
+For more information on how Outbrain uses your Personal Data when you visit [www.outbrain.com](http://www.outbrain.com/) (or any derivation/any of our other sites, such as Outbrain.co.uk; Outbrain.fr; outbrain.de, https://www.zemanta.com/ etc.) (our “Sites”), please see Outbrain’s Site Visitors Privacy Policy.
 
 If you are a business partner of Outbrain and want to find out more information about how Outbrain uses personal data of its business partners, please see Outbrain’s Business Partner Privacy Policy.
 
@@ -32,9 +32,9 @@ Outbrain’s mission is to serve interesting recommendations to users when they 
 * online publishers and partners who want to recommend relevant content to their readers (this is [Outbrain Engage](https://www.outbrain.com/help/publishers/what-is-outbrain-engage/)); and
 * advertising partners who want readers to view their content (this is [Outbrain Amplify](https://www.outbrain.com/help/advertisers/what-is-outbrain-amplify/)).
 
-For further information on our Amplify (advertising partner) services see [here](https://www.outbrain.com/advertisers/?kme=PageClick&km_Home_page=H_Advertisers_cta) and our Engage (media partners) services see [here](https://www.outbrain.com/publishers/?kme=PageClick&km_Home_page=H_Publishers_cta). For further information on our Outbrain DSP services, please see [here](https://www.zemanta.com/).
+For further information on our Amplify (advertising partner) services see [here](https://www.outbrain.com/advertisers/) and our Engage (media partners) services see [here](https://www.outbrain.com/publishers/). For further information on our Outbrain DSP services, please see [here](https://www.zemanta.com/).
 
-**How to contact us:**
+**c) How to contact us:**
 
 We regularly review our compliance with this Users Privacy Policy. Questions, comments and requests regarding this Users Privacy Policy are welcomed and should be addressed in the first instance to [privacy@outbrain.com](mailto:privacy@outbrain.com).
 
@@ -44,7 +44,7 @@ If Outbrain does not satisfactorily answer your questions or concerns, you may a
 * the [Information Commissioner’s Office](https://ico.org.uk/concerns/), which is Outbrain’s supervisory authority in the UK; and/or
 * [Slovenia SA](https://www.ip-rs.si/en/) which is Outbrain’s lead supervisory authority within the European Territories.
 
-2\. Alliances and Adherence
+2\. Alliances and adherence
 ---------------------------
 
 * We adhere to the Self-Regulatory Principles set forth by the [Digital Advertising Alliance](http://digitaladvertisingalliance.org/) (DAA) and the [European Interactive Digital Advertising Alliance](https://www.edaa.eu/) (EDAA);
@@ -70,7 +70,7 @@ When you, as a User, first visit a Partner Site (e.g., CNN.com), Outbrain drops 
 
 The UUID is a sequence of numbers and/or letters. This UUID attaches itself to your device and varies depending on your browser combination. In other words, Outbrain records a different UUID depending on which device and/or which browser you use when accessing the Partner Sites. For example, you will have one UUID when you visit a Partner Site from your mobile phone using the browser Safari, and a different UUID when you visit a Partner Site from your iPad using the browser Safari. Outbrain will combine and consolidate a UUID from a mobile device (handheld or tablet) from a browser that then accesses an application (or vice versa) from that same device. Outbrain does not conduct cross device tracking and therefore cannot link a user interacting with Outbrain on their phone as the same user who is interacting with Outbrain on their desktop.
 
-We may also collect an Outbrain DSP (Formerly known as Zemanta) online identifier and advertiser ID which operate similarly to as described above. Please see the Outbrain DSP Privacy Policy [here](https://www.outbrain.com/privacy/privacy-policy-outbrain-dsp/#:~:text=If%20there%20was%20no%20Zemanta,information%20with%20a%20UUID's%20profile.) for more information.
+We may also collect an Outbrain DSP (Formerly known as Zemanta) online identifier and advertiser ID which operate similarly to as described above. Please see the Outbrain DSP Privacy Policy [here](https://www.outbrain.com/privacy/privacy-policy-outbrain-dsp/) for more information.
 
 * **IP Address**
 
@@ -78,21 +78,20 @@ In addition to your UUID, we recognize your IP address, which we translate into 
 
 * **Other Usage Information**
 
-In addition to your UUID and IP address, we also collect the following information from you on
+In addition to your UUID and IP address, we also collect the following information from you on:
 
-(a) desktop and mobile web: (i) User Agent data: device type (e.g., iPhone), browser type (e.g., chrome), operating system (e.g. iOS); (ii) the pages visited; (iii) the time of visit; and (iv) referring URLs and other information normally transmitted in HTTP requests. The above statistical information provides us with information about how many Users visited a specific page on our Partner Sites on which the Outbrain widget is installed, how long each User stayed on that page, the type of content on that page they clicked on and how they generally engaged with that page; and 
+* * desktop and mobile web: (i) User Agent data: device type (e.g., iPhone), browser type (e.g., chrome), operating system (e.g. iOS); (ii) the pages visited; (iii) the time of visit; and (iv) referring URLs and other information normally transmitted in HTTP requests. The above statistical information provides us with information about how many Users visited a specific page on our Partner Sites on which the Outbrain widget is installed, how long each User stayed on that page, the type of content on that page they clicked on and how they generally engaged with that page; and 
+    * on applications: (i) application version (as it appears in App Store or Play Store); (ii) application ID or package name (as it appears in the App Store or Play Store); (iii) operating system ( e.g. IOS or Android); (iv) operating system version; and (v) device model (e.g. iPhone X).This information is considered personal data if Outbrain associates it with a UUID.
 
-(b) on applications: (i) application version (as it appears in App Store or Play Store); (ii) application ID or package name (as it appears in the App Store or Play Store); (iii) operating system ( e.g. IOS or Android); (iv) operating system version; and (v) device model (e.g. iPhone X).This information is considered personal data if Outbrain associates it with a UUID.
+We also use your Personal Data (individual profiles, preferences, characteristics, and behaviors) to make inferences and audience segments (some examples which can be found  [here](https://www.outbrain.com/privacy/health-categories/).
 
-We also use your Personal Data (individual profiles, preferences, characteristics, and behaviors) to make inferences and audience segments (some examples which can be found  [here](https://www.outbrain.com/privacy/health-categories/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE).
-
-**Machine learning techniques**
+ c) Machine learning techniques
 
 Outbrain uses non-generative machine learning techniques to process Users’ Personal Data and to analyze trends and popular recommendations to predict what you will be interested in and what advertisement to show you based on this. Users will not be subject to decisions that will have a significant impact on them based on automated decision-making unless we have notified Users and have a lawful basis for doing so. 
 
-c) Legal basis for processing
+d) Legal basis for processing
 
-As Outbrain does not control the Partner Sites upon which its technology is implemented, Outbrain relies on its partners to provide Users with relevant notices and consent management solutions. Where required by your applicable jurisdiction, we will only process your Personal Data where we have a legal basis to do so. The legal basis will depend on the purposes for which we have collected and use your Personal Data. In almost every case the legal basis will be one of the following: 
+As Outbrain does not control the Partner Sites upon which its technology is implemented, Outbrain relies on its partners to provide Users with relevant notices and consent management solutions. Where required by your applicable jurisdiction, we will only process your Personal Data where we have a legal basis to do so. The legal basis will depend on the purposes for which we have collected and use of your Personal Data. In almost every case the legal basis will be one of the following: 
 
 * **Consent:** For example, where you have provided your consent via a consent management platform. 
 * **Our legitimate business interests:** Where it is necessary for us to understand our customers, promote our services and operate effectively, provided in each case that this is done in a legitimate way which does not unduly affect your privacy and other rights. These legitimate interests include the operation of the Outbrain technology.
@@ -103,19 +102,19 @@ As Outbrain does not control the Partner Sites upon which its technology is impl
 
 **a) Outbrain cookies**
 
-Please see the Users [Cookie Table](https://www.outbrain.com/privacy/cookies/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE) under for a detailed list of the cookies we use when you interact with Partner Sites where the Outbrain technology is implemented.
+Please see the Users [Cookie Table](https://www.outbrain.com/privacy/cookies/) under for a detailed list of the cookies we use when you interact with Partner Sites where the Outbrain technology is implemented.
 
 **b) Outbrain pixels**
 
-In addition to Outbrain’s visible widget on Partner Sites, certain Outbrain advertisers or publishers may implement the Outbrain pixel on their websites. The pixel can be used to create segments of users for retargeting purposes. The Outbrain pixel determines whether the User reaching the page where the pixel is installed has an Outbrain UUID in order to either provide attribution tracking to advertisers or publishers in respect of their particular campaign or to create audience segments for advertisers or publishers wishing to retarget relevant users for future campaigns. If there is a UUID associated with such end user, Outbrain allows advertisers to either retarget those UUIDs and/or provides advertisers with the total number of Users (on an aggregated and anonymized basis) that reached a particular page (for example, an advertiser does not know that UUID1234 converted but only that 1 conversion took place). Outbrain does not pass its advertisers any Personal Data (including your UUID) or collect any further Personal Data via the pixel. 
+In addition to Outbrain’s visible widget on Partner Sites, certain Outbrain advertisers or publishers may implement the Outbrain pixel on their websites. The pixel can be used to create segments of users for retargeting purposes. The Outbrain pixel determines whether the User reaching the page where the pixel is installed has an Outbrain UUID in order to either provide attribution tracking to advertisers or publishers in respect of their particular campaign or to create audience segments for advertisers or publishers wishing to retarget relevant users for future campaigns. If there is a UUID associated with such end user, Outbrain allows advertisers to either retarget those UUIDs and/or provides advertisers with the total number of Users (on an aggregated and anonymized basis) that reached a particular page (for example, an advertiser does not know that UUID1234 converted but only that 1 conversion took place). Outbrain does not pass its advertisers any Personal Data (including your UUID) or collect any further Personal Data via the pixel.
 
 **c) Third party pixels**
 
 If you click on a link to one of our recommendations, the advertiser sponsoring the recommendation may place cookies (or third-party cookies of third parties acting on the advertiser’s behalf) on your device either through redirects prior to arriving on the destination page of the recommendations or upon reaching the destination page. Such cookies are dropped for the purposes of providing analytics to the advertiser with regards to the advertiser’s campaign (for example, to see how many users viewed the advertiser’s campaign). We require our advertisers to disclose the use of third-party pixels and/or cookies to end users via their website. As these cookies and/or pixels are added at the sole discretion of our advertisers, you will be subject to that advertiser’s privacy notice and/or privacy policy.
 
-We also require our partners to disclose the usage of the Outbrain pixel on their own websites. Outbrain may also allow certain trusted third-party partners to collect data via cookies delivered through the Outbrain widget. In such cases, Outbrain does not pass these third parties the data which Outbrain collects on its Users but allows such third parties to directly collect data (including personal data) via the widget for fraud and/or security purposes or in order to provide measurement information to advertisers (such as the number of conversions and/or impressions). You can find a list of Outbrain’s Trusted Partners [here](https://www.outbrain.com/privacy/outbrain-trusted-partners/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE). 
+We also require our partners to disclose the usage of the Outbrain pixel on their own websites. Outbrain may also allow certain trusted third-party partners to collect data via cookies delivered through the Outbrain widget. In such cases, Outbrain does not pass these third parties the data which Outbrain collects on its Users but allows such third parties to directly collect data (including personal data) via the widget for fraud and/or security purposes or in order to provide measurement information to advertisers (such as the number of conversions and/or impressions). You can find a list of Outbrain’s Trusted Partners [here](https://www.outbrain.com/privacy/outbrain-trusted-partners/).
 
- **d)** **Mobile advertising identifiers**
+**d)** **Mobile advertising identifiers**
 
 Mobile advertising IDs (like IDFA) are unique IDs associated with individual mobile devices which Outbrain uses to associate with a user profile. Users can reset them by instructing their device to do so.
 
@@ -128,7 +127,7 @@ We may use web analytics from time to time, for example, our DSP service integra
 
 **a) Outbrain opt out on desktop and mobile web**
 
-You may opt out of Outbrain’s personalized recommendations (or, if you have opted out and would like to opt back in) at any time by moving the toggle below. You may also opt out of personalized recommendations via [Outbrain’s Interest Profile](https://my.outbrain.com/recommendations-settings/home?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwEhttps://my.outbrain.com/recommendations-settings/home) which is a website that allows you to exercise your data subject rights, including opting out of behavioral advertising, deleting your user profile or accessing the data Outbrain may hold on you.
+You may opt out of Outbrain’s personalized recommendations (or, if you have opted out and would like to opt back in) at any time by moving the toggle below. You may also opt out of personalized recommendations via [Outbrain’s Interest Profile](https://my.outbrain.com/recommendations-settings/home) which is a website that allows you to exercise your data subject rights, including opting out of behavioral advertising, deleting your user profile or accessing the data Outbrain may hold on you.
 
 **b) Outbrain opt out on apps**
 
@@ -141,7 +140,7 @@ Please note that an opt out via our Interest Profile and/or this Privacy Policy 
 
 **c) Additional opt-out options**
 
-You may also opt out of receiving personalized ads served by us or other advertising companies through industry powered tools such as the NAI or the various DAA-based pages (DAA, [http://www.aboutads.info/choices](http://www.aboutads.info/choices?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE); DAAC, [www.youradchoices.ca/choices](http://www.youradchoices.ca/choices?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE) , and/or EDAA [www.youronlinechoices.eu](http://www.youronlinechoices.eu/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE)). Visiting the NAI, DAA, DAAC, or EDAA consumer choice pages allows you to opt out of all some or all of the participating members’ services. Like Outbrain’s opt out, these opt outs do not mean you will no longer receive any advertising, the advertisements will just not be tailored to you. You will continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., [contextually based ads](https://www.outbrain.com/contextual-advertising/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE)). Also, if your browsers are configured to reject cookies when you visit the DAA, DAAC or EDAA consumer choice pages, your opt out may not be effective as our opt out is cookie based.
+You may also opt out of receiving personalized ads served by us or other advertising companies through industry powered tools such as the NAI or the various DAA-based pages ([DAA](http://www.aboutads.info/choices), [DAAC](http://www.youradchoices.ca/choices), and/or [EDAA](https://www.outbrain.com/legal/blank)). Visiting the NAI, DAA, DAAC, or EDAA consumer choice pages allows you to opt out of all some or all of the participating members’ services. Like Outbrain’s opt out, these opt outs do not mean you will no longer receive any advertising, the advertisements will just not be tailored to you. You will continue to receive advertisements, for example, based on the particular website that you are viewing (i.e., [contextually based ads](https://www.outbrain.com/contextual-advertising/)). Also, if your browsers are configured to reject cookies when you visit the DAA, DAAC or EDAA consumer choice pages, your opt out may not be effective as our opt out is cookie based.
 
 If you are located in the European Territories/UK, please see Section 8 below which outlines other rights that you may exercise.  If you are a resident of California or certain other states within the United States, please see Section 9 below which outlines other rights that you may exercise, depending on your state of residency.
 
@@ -149,8 +148,8 @@ If you are located in the European Territories/UK, please see Section 8 below wh
 
 Even though you have opted out of Outbrain’s personalized recommendations:
 
-* **You will still see Outbrain recommendations.** Opting out of Outbrain personalization tracking does not mean you will no longer receive recommendations from Outbrain. Instead, it means that Outbrain’s recommendations will not be personalized (i.e. they will be context-based recommendations).
-* **Your opt out will be cookie based and device/browser specific.** If you browse the web from several devices and/or browsers, you will need to opt out from each device and/or browser to ensure that we prevent personalization tracking on all of them. For the same reason, if you buy a new device, change browsers or delete (or clear) the opt out cookie, you will need to opt-out again. Opting out of personalization tracking is not the same as blocking cookies.
+* **You will still see Outbrain recommendations.** Opting out of Outbrain personalization tracking does not mean you will no longer receive recommendations from Outbrain. Instead, it means that Outbrain’s recommendations will not be personalized (i.e. they will be context-based recommendations).
+* **Your opt out will be cookie based and device/browser specific.** If you browse the web from several **devices** and/or browsers, you will need to opt out from each device and/or browser to ensure that we prevent personalization tracking on all of them. For the same reason, if you buy a new device, change browsers or delete (or clear) the opt out cookie, you will need to opt-out again. Opting out of personalization tracking is not the same as blocking cookies.
 * **As with most opt out cookies, the Outbrain browser opt out relies upon a cookie.** The opt-out cookie is intended to be persistent to honor the user’s preferences. However, the “Intelligent Tracking Prevention” feature in iOS11 may impact the persistence of cookies across websites post a 24 hour window. We suggest using another browser or considering blocking all 3rd party cookies from the browser so that you are “opted out” without needing to rely on any company’s actual opt out methodology.
 * **Your local storage will not be cleared.** Even though you have opted out of Outbrain’s personalized recommendations your local storage will not be automatically cleared and therefore you need to clear this at a browser level in addition to your opt out.
 
@@ -174,7 +173,7 @@ Outbrain may share certain elements of a user profile (for example, UUID) with t
 * Ad Exchanges and/or Networks; and
 * Demand Management Platforms.
 
-Please see [here](https://www.outbrain.com/privacy/outbrain-trusted-partners/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE) for a list of our trusted partners (which may be updated from time to time). In addition, we may collect and/ or share some Personal Data with trusted partners by virtue of participating in the OpenRTB. Many of these partners are registered as IAB TCF Global Vendors and can be found [here](https://iabeurope.eu/vendor-list/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE). We may also allow third parties to collect data directly from you- please refer to our [Trusted Partners](https://www.outbrain.com/privacy/outbrain-trusted-partners/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE) and/or the Users section of our [Cookie Policy](https://www.outbrain.com/privacy/cookies/).
+Please see [here](https://www.outbrain.com/privacy/outbrain-trusted-partners/) for a list of our trusted partners (which may be updated from time to time). In addition, we may collect and/ or share some Personal Data with trusted partners by virtue of participating in the OpenRTB. Many of these partners are registered as IAB TCF Global Vendors and can be found [here](https://iabeurope.eu/vendor-list/?cq_plt=gp&utm_source=google-ww&utm_medium=cpc&utm_campaign=a1y2p000005W2rZAAS--amplify-google-ww-leads-text-brand_english_speakers-17.5.2023&utm_term=outbrain&utm_ad_group=outbrain_exact&utm_matchtype=e&utm_device=c&utm_content=en_4&gad_source=1&gclid=CjwKCAiA6KWvBhAREiwAFPZM7vMJp2MSG-2r_a2vId1oRM5JVH81kPaIQXlBFozrDOe9Ou95ec8DKBoCT6QQAvD_BwE). We may also allow third parties to collect data directly from you – please refer to our [Trusted Partners](https://www.outbrain.com/privacy/outbrain-trusted-partners/) and/or the Users section of our [Cookie Policy](https://www.outbrain.com/privacy/cookies/).
 
 In addition, we may also disclose Personal Data as follows:
 
@@ -215,7 +214,7 @@ In compliance with certain privacy laws, in particular the European General Data
 * contact our data protection officer if there are any questions, comments, complaints or requests in connection with our statement on data protection and the processing of your Personal Data; and
 * the right to complain to the responsible supervisory authority if believed that the processing of your Personal Data is in violation of the legislation.
 
-We will handle any request to exercise your rights in accordance with applicable law and any relevant legal exemptions. If you wish to exercise any of these rights or have any questions, please email [Privacy@outbrain.com](mailto:Privacy@outbrain.com).
+We will handle any request to exercise your rights in accordance with applicable law and any relevant legal exemptions. If you wish to exercise any of these rights or have any questions, please email [privacy@outbrain.com](mailto:privacy@outbrain.com).
 
 **b) Data transfers outside the European Territories/UK to non-US territories** 
 
@@ -227,11 +226,11 @@ For more detail on transfers to the United States, please see below.
 
 **c) Data transfers outside the European Territories/UK to US territories – EU-US Data Protection Framework (DPF) Participation**
 
-**1\. EU-US Data Protection Framework (DPF) Participation**
+**i. EU-US Data Protection Framework (DPF) Participation**
 
 Outbrain Inc. complies with the [EU-U.S. Data Privacy Framework (“EU-U.S. DPF”)](https://www.dataprivacyframework.gov/), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (“Swiss-U.S. DPF”) as set forth by the U.S. Department of Commerce. Outbrain has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of Personal Data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Outbrain has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of Personal Data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this Privacy Policy and the EU-U.S. DPF Principles, the EU-U.S. DPF Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit https://[www.dataprivacyframework.gov/](http://www.dataprivacyframework.gov/).
 
-**2\. Complaint and Dispute Resolution Procedure under the DPF** 
+**ii. Complaint and Dispute Resolution Procedure under the DPF** 
 
 Outbrain’s internal complaints mechanism
 
@@ -253,7 +252,7 @@ You may also be able to invoke binding arbitration for unresolved complaints but
 
 If such a resident invokes binding arbitration, each party shall be responsible for its own attorney’s fees. Please be advised that, pursuant to the DPF, the arbitrator(s) may only impose individual- specific, non-monetary, equitable relief necessary to remedy any violation of the DPF Principles with respect to the resident. The arbitration option may not be invoked if the individual’s same claimed violation of the Principles has previously been subject to binding arbitration; was the subject of a final judgement entered in a court action to which the individual was a party; or was previously settled by the parties. For more details, please click [here](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction).
 
-**3\. OUTBRAIN’S LIABILITY IN CASES OF ONWARD TRANSFERS TO THIRD PARTIES**
+**iii. OUTBRAIN’S LIABILITY IN CASES OF ONWARD TRANSFERS TO THIRD PARTIES**
 
 In the context of an onward transfer, Outbrain has responsibility for the processing of Personal Data it receives under the DPF Principles and subsequently transfers to a third party acting as an agent on its behalf. Outbrain remains liable under the DPF Principles if its agent processes such Personal Data in a manner inconsistent with the DPF Principles, unless Outbrain proves that it is not responsible for the event giving rise to the damage.
 
@@ -289,17 +288,20 @@ You may exercise your privacy rights described above as follows:
 
 * By calling us toll free on 1-866-I-OPT-OUT and entering service code 253# to leave us a message.
 * By emailing [privacy@outbrain.com](mailto:privacy@outbrain.com)
-* **Right to opt-out of the “sale” or “sharing” for targeted advertising of your Personal Data**. We do not sell your Personal Data in the conventional sense (i.e., for money). However, like many companies, we use services that help deliver interest-based ads to you. To opt-out from this “sale” or “share” for targeted advertising, click on this [link](https://my.outbrain.com/recommendations-settings/home) which will take you to our Interest Profile where you can opt out of personalized recommendations. If you choose to use the Global Privacy Control (GPC) browser signal, you will only be opted out of online sales or sharing of Personal Data, and will need to turn it on for each browser you use.
+
+**c) Right to opt-out of the “sale” or “sharing” for targeted advertising of your Personal Data**. 
+
+We do not sell your Personal Data in the conventional sense (i.e., for money). However, like many companies, we use services that help deliver interest-based ads to you. To opt-out from this “sale” or “share” for targeted advertising, click on this [link](https://my.outbrain.com/recommendations-settings/home) which will take you to our Interest Profile where you can opt out of personalized recommendations. If you choose to use the Global Privacy Control (GPC) browser signal, you will only be opted out of online sales or sharing of Personal Data, and will need to turn it on for each browser you use.
 
 We will need to confirm your identity and state of residency to process your requests. We cannot process your request if you do not provide us with sufficient detail to allow us to understand and respond to it. Depending on your state of residency, you may be able to designate an authorized agent to make a request on your behalf; however, you may still need to verify your identity with us before your request can be processed. An authorized agent may submit a request on your behalf using the methods listed above.
 
 Please note that if you make a privacy rights request, we will retain the Personal Data submitted in connection with your request for recordkeeping purposes.
 
-**c) Personal Data that we collect, disclose, sell and share**
+**d) Personal Data that we collect, disclose, sell and share**
 
 The section below summarizes how we collect, disclose, sell and share Personal Data, and describes our practices during the 12 months preceding the effective date of this Privacy Policy as well as our current practices. These examples may vary depending on the nature of your interactions with us. Additional information may be found in this Outbrain Privacy Policy.
 
-We collect the following categories of Personal Data about you, as described more fully in Section 3 of the Outbrain Privacy Policy above:
+We collect the following categories of Personal Data about you, as described more fully in this User Privacy Policy above:
 
 * Identifiers
 * Internet or Network Information
@@ -319,21 +321,18 @@ We may disclose the categories of Personal Data listed above to our affiliates, 
 * Undertaking internal research for technological development and demonstration
 * Undertaking activities to verify or maintain the quality or safety of our services
 
-Targeted Advertising, Sales, and Sharing of Personal Data. Although we do not sell Personal Data in exchange for money, some of the ways in which we share Personal Data for targeted or cross-context behavioral advertising or analytics may be considered “sales” or “sharing” under certain United States state privacy laws. Please see [here](https://www.outbrain.com/privacy/outbrain-trusted-partners/) for a list of our trusted partners. .
+**e) Targeted** **Advertising, Sales, and Sharing of Personal Data**
+
+Although we do not sell Personal Data in exchange for money, some of the ways in which we share Personal Data for targeted or cross-context behavioral advertising or analytics may be considered “sales” or “sharing” under certain United States state privacy laws. Please see [here](https://www.outbrain.com/privacy/outbrain-trusted-partners/) for a list of our trusted partners. .
 
 The purposes for which we sell/share this information include to deliver interest-based ads to you. We do not have actual knowledge that we sell or share the Personal Data of consumers under the age of 16.
 
 10\. “Do Not Track” disclosure
 ------------------------------
 
-Some browsers transmit Do Not Track (DNT) signals to websites. Because there is no common understanding of how to interpret the DNT signal, Outbrain does not currently alter, change, or respond to DNT requests or signals from these browsers. We will continue to monitor industry activity in this area and reassess our DNT practices as necessary. In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving personalized recommendations in the Users section. We also recognize the GPC browser signal, as described in Section 9 above. 
+Some browsers transmit Do Not Track (DNT) signals to websites. Because there is no common understanding of how to interpret the DNT signal, Outbrain does not currently alter, change, or respond to DNT requests or signals from these browsers. We will continue to monitor industry activity in this area and reassess our DNT practices as necessary. In the meantime, you can use the range of other tools we provide to control data collection and use, including the ability to opt out of receiving personalized recommendations in the Users section. We also recognize the GPC browser signal, as described in Section 9 above.
 
-11\. How this privacy policy may change
----------------------------------------
-
-We may change this Privacy Policy from time to time. 
-
-12\. Contact us
+11\. Contact us
 ---------------
 
 **a) Data Protection Officer (DPO) – if you are based outside the US**
