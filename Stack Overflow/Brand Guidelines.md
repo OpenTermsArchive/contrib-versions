@@ -3,7 +3,7 @@ Guidelines for the Use of the Stack Exchange, Inc. Trademarks
 
 We believe in our core mission to "make the Internet a better place to get expert answers to your questions." We decided early on that all user-generated content in the Stack Exchange Network would be given back to the community under a Creative Commons license. We created the Stack Exchange API as a way to allow users to write applications which use the Stack Exchange Network in new and creative ways. With open access to use (and reuse) our services, it is important that users not be confused by our relationship with the people who use our content and our services.
 
-Last updated **1 November 2023**
+Last updated November 1, 2023
 
 _The Stack Exchange name and logos are trademarks of Stack Exchange Inc. The names and logos for sites and products operating on the Stack Exchange network are also trademarks of Stack Exchange Inc._
 
