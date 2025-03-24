@@ -11,7 +11,39 @@ _Pour consulter la version des Conditions Générales d'Utilisation en vigueur d
 
 _Pour consulter la version des Conditions Générales d'Utilisation en vigueur du 15.02.2024 au 09.07.2024, cliquez [ici](https://fr.shopping.rakuten.com/cdn/legal/CGU/8.0_CGU_en_vigueur_du_15_f%C3%A9vrier_2024_au_09_juillet_2024.pdf?vh=2afa74&func=proxy)._ 
 
-**PRÉAMBULE**
+### Sommaire
+
+* [PRÉAMBULE](#h_01JQ448MZHYKSNFNAW7CKDX6EE)
+* [1\. DÉFINITIONS](#h_01JQ448XGTWSYGS1KN77ESWNSE)
+* [2\. OBJET](#h_01JQ449652TKK1GBP8NKP44A2R)
+* [3\. OBLIGATIONS DE RAKUTEN](#h_01JQ4498WJ82QVJ1N1PG7VQB7Y)
+* [4\. PROCESSUS DE VENTE](#h_01JQ449C7B4PGK946DYBQ2GRXJ)
+* [5\. OBLIGATIONS DES MEMBRES](#h_01JQ449G635RNJCKXTH4G94WKM)
+* [6\. OBLIGATIONS DES VENDEURS](#h_01JQ449MGBPBHDXDQHTW99QBW5)
+    * [6.5 Délivrance du Produit à l'Acheteur](#h_01JQ469PF2KSNTZT9KAPK0T565)
+    * [6.7 Obligations des Vendeurs Professionnels](#h_01JQ469TNM2EEX5XA650C02HCZ)
+    * [6.8 Stipulations financières](#h_01JQ469XKQTAGJH2A89F8W15AC)
+* [7\. OBLIGATIONS DES ACHETEURS](#h_01JQ44A453KGG7QPKMJ8S1CQ85)
+    * [7.9 Protection Acheteurs](#h_01JQ46A464CYV539H2C7CCS0YS)
+* [8\. RÉCLAMATIONS ET DROIT DE RÉTRACTATION](#h_01JQ44AAX7THZ3SEKN11N1WMRM)
+    * [8.1 Traitement des Réclamations](#h_01JQ46A8GZQY4KVRZ6622B7NA0)
+    * [8.2 Résolution amiable de la Réclamation entre le Vendeur et l’Acheteur](#h_01JQ46AD83XQP5W0B9QWZ4ZFPP)
+    * [8.3 Non-réception de la commande](#h_01JQ46AFAE591YQFQWEXBXAM0Z)
+    * [8.4 Défaut de conformité](#h_01JQ46AJWN1J730Y4WQVQXGBFY)
+    * [8.6 Droit légal de rétractation](#h_01JQ46AP0SPJB7BCE9FFVJWEJ3)
+    * [8.7 Approbation de la Réclamation](#h_01JQ46AP0SPJB7BCE9FFVJWEJ3)
+* [9\. RESPONSABILITÉ](#h_01JQ44AKWCK7Y2DZX2H4J3MF2H)
+* [10\. UTILISATION DES ESPACES D'ÉCHANGE](#h_01JQ44AQ31PG9Y3Q0YCB1HFEHQ)
+* [11\. RÉSILIATION](#h_01JQ44ATZ3G9WE60KZYWZB5VQY)
+    * [11.2 Restriction, suspension de l’accès aux services et résiliation aux torts du membre](#h_01JQ46AXMQ8R9JN8V2J0735RR3)
+    * [11.3 Règlement sur les Services Numériques](#h_01JQ46B1QHM553JE0HGHEKMZBF)
+* [12\. STIPULATIONS GÉNÉRALES](#h_01JQ44B0GS6MQXVV5ZMH4CMQ4C)
+    * [12.8 Médiation](#h_01JQ46B6K291Q6C6RNMF1Q0C5Z)
+* [ANNEXES](#h_01JQ44BB6N52T5MCPR1ZPJRHAE)
+    * [Annexe I](#h_01JQ44B60VR62S4R2V8K27X8R7)
+    * [Annexe II](#h_01JQ44BGKCVX1D8A1J8VBJ9PG1)
+
+#### **PRÉAMBULE**
 
 Le service d'annonces en ligne Rakuten est édité et hébergé par la société Rakuten France ( « Rakuten »), société par actions simplifiée au capital de 355 964,80 euros, dont le siège social est sis 92 rue Réaumur, 75002 PARIS, France, immatriculée au Registre du commerce et des sociétés de Paris sous le numéro B 432 647 584, Tél. : 09.70.75.64.60 (appel non surtaxé) - [courrier électronique](https://help.fr.shopping.rakuten.net/hc/fr), numéro de TVA Intracommunautaire FR23432647584, enregistrée à l'ORIAS sous le numéro 13005139. Rakuten est un agent mandaté par la société Mangopay, société anonyme de droit luxembourgeois dont le siège social est situé 2 avenue Amélie, L.1125 LUXEMBOURG, immatriculée au Registre du commerce et des sociétés de Luxembourg sous le numéro B173459, pour fournir des services de paiement.
 
@@ -21,7 +53,7 @@ La Plateforme Rakuten permet la mise en relation ("_Mise en relation"_) de vende
 
 L'acceptation des présentes Conditions Générales d'Utilisation de la Plateforme Rakuten par les Membres vaut mandat donné à Rakuten pour mettre en relation Vendeurs et Acheteurs et opérer les transactions effectuées sur la Plateforme Rakuten selon les modalités ci-après.
 
-**1. DÉFINITIONS**
+#### **1. DÉFINITIONS**
 
 **Acheteur :** désigne un Membre ayant indiqué son acceptation de l'offre d'un Vendeur.
 
@@ -63,11 +95,11 @@ L'acceptation des présentes Conditions Générales d'Utilisation de la Platefor
 
 **Vendeur Professionnel** : désigne un Vendeur agissant dans le cadre de son activité professionnelle. Le Membre inscrit en tant que Vendeur Professionnel sur la Plateforme Rakuten est réputé agir pour ses besoins professionnels. 
 
-**2\. OBJET**
+#### **2\. OBJET**
 
 Les présentes Conditions Générales d'Utilisation de la Plateforme Rakuten ont pour objet de définir les conditions dans lesquelles les Membres sont autorisés à utiliser la Plateforme Rakuten aux fins d'opérer leur Mise en Relation.
 
-**3\. OBLIGATIONS DE RAKUTEN**
+#### **3\. OBLIGATIONS DE RAKUTEN**
 
 **3.1** Rakuten s'engage à mettre à la disposition des Membres sur la Plateforme Rakuten les offres des Vendeurs. Rakuten reçoit, à cette fin, mandat de la part du Vendeur pour mettre à la disposition des Acheteurs les offres fournies par le Vendeur et pour ouvrir en son nom et pour son compte, un compte séquestre des sommes perçues au cours de la transaction.
 
@@ -79,7 +111,7 @@ Les présentes Conditions Générales d'Utilisation de la Plateforme Rakuten ont
 
 **3.5** Rakuten pourra supprimer de ses serveurs, sans préavis, tous les signaux, écrits, images, messages et autres éléments constitutifs de l’offre du Vendeur et stockés à sa demande lorsque cette offre sera restée hors-ligne plus de six (6) mois consécutifs.
 
-**4\. PROCESSUS DE VENTE**
+#### **4\. PROCESSUS DE VENTE**
 
 **4.1** L'Acheteur reconnaît que son acceptation de l'offre est faite en considération de la description du Produit objet de la Vente et qu'elle vaut engagement ferme de contracter avec le Vendeur aux conditions de l'offre. Toutefois, le contrat de Vente est conclu sous la condition résolutoire que le Produit commandé soit disponible. La confirmation de la disponibilité du Produit par le Vendeur emporte la levée de la condition résolutoire. En cas d’infirmation de la disponibilité du Produit, le contrat de Vente conclu entre l'Acheteur et le Vendeur est automatiquement et immédiatement résolu et les obligations de chacune des parties sont révoquées de plein droit. Il est précisé qu’en cas de contrat de Vente portant sur plusieurs Produits, seul sera résolu le contrat de Vente portant sur le Produit indisponible.
 
@@ -99,7 +131,7 @@ Rakuten donnera ordre au compte séquestre de procéder au paiement du Prix de l
 
 **4.7** Dès lors que l'Acheteur a accepté l'offre du Vendeur, que celui-ci a confirmé la disponibilité du Produit objet de l'offre et que Rakuten a encaissé le règlement intégral du Prix de la Transaction de l'Acheteur, Rakuten communiquera au Vendeur les coordonnées de l'Acheteur. Sur simple demande, Rakuten communiquera à l'Acheteur les coordonnées du Vendeur Professionnel.
 
-**5\. OBLIGATIONS DES MEMBRES**
+#### **5\. OBLIGATIONS DES MEMBRES**
 
 **5.1** En s'enregistrant auprès de Rakuten, le Membre dispose d'un identifiant unique et d'un code d'accès nominatif strictement personnels, qu'il s'engage à conserver confidentiels. Le Membre enregistré est seul autorisé à utiliser la Plateforme Rakuten à l'aide de l'identifiant et du code d'accès nominatif. Le Membre s'engage à ne proposer à aucune autre personne l'accès sous son identité ou son identifiant à la Plateforme Rakuten. Dans l'hypothèse où il aurait connaissance de ce qu'une autre personne accède à celle-ci, le Membre informera Rakuten sans délai et confirmera cette information par courrier.
 
@@ -129,7 +161,7 @@ L’accès au Porte-Monnaie du Membre et l’activation du compte du Vendeur Pro
 
 **5.11** Le Membre autorise Rakuten à transmettre aux Etats et administrations français et étrangers, à titre automatique, spontané ou sur demande, dans la limite des obligations fiscales et sociales de Rakuten, les informations relatives au Membre ainsi qu’aux transactions auxquelles le Membre a participé.
 
-**6\. OBLIGATIONS DES VENDEURS**
+#### **6\. OBLIGATIONS DES VENDEURS**
 
 **6.1** Le Vendeur s'engage à ce que toute offre d'un Produit corresponde à un bien matériel dont il dispose de la pleine et entière propriété et capacité de vente et disponible immédiatement ou dont les propriété(s), capacité de vendre et disponibilité seront certaines pour les Produits offerts en précommande.  
 Est par conséquent insusceptible d’être proposé à la vente tout bien incorporel tel que, par exemple, un nom de domaine, un lien hypertexte, un compte associé à un univers de jeu en ligne, une ou plusieurs unités de cryptomonnaie, une créance ou une part sociale d’entreprise, etc.
@@ -142,7 +174,7 @@ Est par conséquent insusceptible d’être proposé à la vente tout bien incor
 
 Le Vendeur qui s'absente plus de trois (3) jours ouvrés devra retirer de la vente ses Produits. Rakuten met à sa disposition l'option « Vous partez en vacances » permettant de programmer la remise en ligne automatique des offres.
 
-**6.5 Délivrance du Produit à l'Acheteur**
+#### **6.5 Délivrance du Produit à l'Acheteur**
 
 **6.5.1** Le Vendeur est seul responsable de la bonne exécution de l'obligation de livrer le Produit commandé à l'Acheteur.
 
@@ -160,7 +192,7 @@ La communication du code de retrait au Vendeur est sans préjudice des droits et
 
 **6.6** Le Vendeur s'engage à ne joindre au Produit aucune publicité pour lui-même ou pour quiconque, sous quelque forme que ce soit (par exemple : message, plaquette, prospectus, stick autocollant...). Les coordonnées de l'Acheteur doivent être utilisées uniquement pour les besoins de l'exécution de la commande et des obligations légales qui s'y rattachent. Toute autre utilisation, location, vente, revente et/ou copie de la part du Vendeur sont expressément interdites.
 
-**6.7 Obligations des Vendeurs Professionnels**
+#### **6.7 Obligations des Vendeurs Professionnels**
 
 **6.7.1** Le Vendeur agissant à titre professionnel doit s'identifier auprès de Rakuten en cette qualité. Rakuten se réserve le droit de ne pas contracter avec un Vendeur Professionnel.
 
@@ -172,7 +204,7 @@ La communication du code de retrait au Vendeur est sans préjudice des droits et
 
 **6.7.5** Le Vendeur Professionnel s'engage à respecter les [Conditions particulières applicables aux Vendeurs Professionnels](https://fr.shopping.rakuten.com/newhelp/cpvp/).
 
-**6.8 Stipulations financières**
+#### **6.8 Stipulations financières**
 
 **6.8.1** Le Vendeur autorise Rakuten à percevoir, en son nom et pour son compte, le Prix de la Transaction par le biais du système sécurisé de paiement électronique mis en place sur la Plateforme Rakuten ou par tout autre moyen, qui serait ultérieurement validé par Rakuten.
 
@@ -188,7 +220,7 @@ La communication du code de retrait au Vendeur est sans préjudice des droits et
 
 Les modalités de détermination desdits frais sont décrites dans l’Aide en ligne (à la rubrique « [A quoi correspondent les frais prélevés lors mon achat ?](https://help.fr.shopping.rakuten.net/hc/fr/articles/10324490666002-A-quoi-correspondent-les-frais-pr%C3%A9lev%C3%A9s-lors-mon-achat-) »).
 
-**7\. OBLIGATIONS DES ACHETEURS**
+#### **7\. OBLIGATIONS DES ACHETEURS**
 
 **7.1** Rakuten pourra être amené, à titre exceptionnel et dans le but de lutter contre les éventuelles fraudes, à procéder à une validation de l'identité de l'Acheteur. En cas de communication tardive ou de défaut de communication conforme des informations requises par Rakuten dans le cadre de la validation de l'identité, Rakuten pourra retarder ou annuler l'exécution de la transaction opérée par l'Acheteur.  
 Ces données seront uniquement destinées à Rakuten.
@@ -212,7 +244,7 @@ Rakuten n’a aucun contrôle sur les frais de dédouanement et ceux-ci seront �
 **7.8** Tout achat effectué par le biais de la Plateforme Rakuten doit être destiné à satisfaire les besoins propres à une consommation personnelle.  
 L’Acheteur est donc averti qu’un Vendeur agissant à titre professionnel sera en droit de refuser toute commande de nature à avoir été passée à des fins commerciales et notamment de revente.
 
-**7.9 Protection Acheteurs** 
+#### **7.9 Protection Acheteurs** 
 
 **7.9.1** La Protection Acheteurs fait partie intégrante des services d'intermédiation de la Plateforme Rakuten, qui incluent, notamment :
 
@@ -233,9 +265,9 @@ Les stipulations du présent article 7.9.2 s’appliquent sans préjudice des di
 
 **7.9.3** A la demande de l’Acheteur, Rakuten exécute les services de la Protection Acheteurs, notamment de Mise en relation, au moment de l’achat du Produit sur la Plateforme Rakuten. Dans ces conditions, l’Acheteur est informé et accepte qu’il renonce à son droit de rétractation portant sur les services de la Protection Acheteurs.
 
-**8\. RÉCLAMATIONS ET DROIT DE RÉTRACTATION**
+#### **8\. RÉCLAMATIONS ET DROIT DE RÉTRACTATION**
 
-**8.1 Traitement des Réclamations**
+#### **8.1 Traitement des Réclamations**
 
 **8.1.1** En cas de difficulté relative à la conclusion ou l’exécution d’une transaction via la Plateforme Rakuten, le Membre doit contacter directement son cocontractant (le Vendeur ou l’Acheteur du Produit) soit par le biais de son suivi de commande sur la Plateforme Rakuten, soit par tout moyen qu’il juge utile.
 
@@ -255,19 +287,19 @@ Les délais précités sont sans préjudice de l’exercice des garanties légal
 
 **8.1.5** En cas de Réclamation et jusqu'à résolution de celle-ci, le Porte-Monnaie du Membre peut être temporairement suspendu, à titre conservatoire, par Rakuten (notamment, mais sans s’y limiter, en cas de remboursement/paiement à tort de l’un ou l’autre des Membres concernés, de suspicion légitime de fraude, ou pour toute autre raison prévue par les Conditions Générales d’Utilisation). En cas de Réclamations anormalement nombreuses visant un même Membre ou d'un taux d'annulation ou de Réclamations anormalement élevé de la part de ce dernier menant raisonnablement Rakuten à considérer que l’activité du Membre sur la Plateforme pourrait s’effectuer dans des conditions contraires aux Conditions Générales d’Utilisation et/ou à toute réglementation en vigueur, Rakuten se réserve également le droit de suspendre temporairement le Porte-Monnaie dudit Membre jusqu'à régularisation de cette situation.
 
-**8.2** **Résolution amiable de la Réclamation entre le Vendeur et l’Acheteur**
+#### **8.2** **Résolution amiable de la Réclamation entre le Vendeur et l’Acheteur**
 
 À la suite du dépôt d’une Réclamation, et préalablement à l'intervention de Rakuten, l'Acheteur et le Vendeur disposent d’une période ne pouvant excéder trois (3) jours ouvrés afin de résoudre amiablement leur litige. Rakuten peut anticiper son traitement de la Réclamation dès lors qu'une résolution amiable du litige lui paraît impossible ou inopportune.
 
 Le Vendeur peut proposer à l’Acheteur de lui restituer une partie du Prix afin de le dédommager pour le problème rencontré avec le Produit reçu. En cas d'acceptation de la proposition du Vendeur, le montant restitué est crédité sur le Porte-Monnaie Rakuten de l’Acheteur. La Réclamation est considérée comme résolue et il n’est plus possible d'en réintroduire une nouvelle auprès de Rakuten.
 
-**8.3 Non-réception de la commande**
+#### **8.3 Non-réception de la commande**
 
 Sous réserve des délais prévus à l'article 8.1.3, l'Acheteur s'engage à attendre un délai raisonnable (défini notamment en fonction du délai de livraison indiqué par le Vendeur dans son offre) après la notification de la confirmation de la disponibilité du Produit par le Vendeur pour déposer auprès de Rakuten une Réclamation en cas de non-réception, totale ou partielle, du Produit commandé, sauf si le Vendeur reconnaît ne pas avoir envoyé ledit Produit. Le traitement de cette Réclamation pourra nécessiter la communication préalable par l’Acheteur d’une déclaration sur l’honneur attestant de la non-réception du Produit.
 
 En cas de Réclamation pour non-réception déposée par un Acheteur, le Vendeur s’engage à mettre en oeuvre sans délai toute démarche utile auprès de l’Acheteur et du transporteur en vue de parvenir à la résolution de cette Réclamation. L’Acheteur et le Vendeur s’engagent à fournir à Rakuten, à sa demande, toute pièce ou document nécessaire au traitement d’une telle Réclamation (suivi de colis, justificatifs, bordereaux de livraison, preuve de délivrance, photographies, captures vidéo, etc.) selon les modalités indiquées par Rakuten.
 
-**8.4 Défaut de conformité**
+#### **8.4 Défaut de conformité**
 
 **8.4.1** Une Réclamation invoquant le défaut de conformité du Produit entraîne l'obligation pour l'Acheteur de procéder au renvoi du Produit ou de communiquer à Rakuten des photographies, vidéos du Produit ou tout autre justificatif susceptible d’établir l’existence de ce défaut de conformité, selon les modalités indiquées par Rakuten.
 
@@ -277,7 +309,7 @@ En cas de Réclamation pour non-réception déposée par un Acheteur, le Vendeur
 
 **8.5** Garanties légales de conformité et des vices cachés - Les stipulations du présent chapitre sont sans préjudice des dispositions relatives à la garantie légale de conformité et des vices cachées ci-annexées.
 
-**8.6 Droit légal de rétractation**
+#### **8.6 Droit légal de rétractation**
 
 **8.6.1** Lorsqu'un Produit a été acheté à un Vendeur Professionnel enregistré comme tel sur la Plateforme Rakuten, l'Acheteur dispose d'un droit de rétractation discrétionnaire. Celui-ci ne peut s'appliquer que dans les quatorze (14) jours suivant la réception effective du Produit, sans préjudice du prolongement conventionnel de cette protection par Rakuten, dans le cadre d'une garantie commerciale complémentaire. Dans le cas d'une commande portant sur plusieurs Produits livrés séparément ou dans le cas d'une commande d'un Produit composé de lots ou de pièces multiples dont la livraison est échelonnée sur une période définie, le délai précité court à compter de la réception du dernier Produit ou lot ou de la dernière pièce par l’Acheteur.
 
@@ -306,7 +338,7 @@ Lorsqu'un Produit est retourné dans les conditions prévues aux présentes par 
 
 **8.7.2** Rakuten pourra conserver le Produit retourné tant que le Vendeur n'aura pas remboursé tous les frais exposés pour la réexpédition du Produit. En tout état de cause, le Produit voyage aux risques du Vendeur.
 
-**9\. RESPONSABILITÉ**
+#### **9\. RESPONSABILITÉ**
 
 **9.1** Le Vendeur déclare et garantit avoir le droit de transmettre le(s) Produit(s) cédé(s), qu'il(s) n'est (ne sont) en aucune manière cédé(s), hypothéqué(s), grevé(s) ou plus généralement dévolu(s) en faveur d'un tiers, et que l'opération qu'il réalise n'est pas susceptible de violer les droits d'un tiers. Le Vendeur atteste par le seul fait de la mise en ligne du Produit par ses soins que sa vente est conforme aux règles légales en vigueur, notamment au regard du Code de la Propriété Intellectuelle et de toute réglementation particulière, comme par exemple, s'agissant du livre, de la loi du 10 août 1981 dite "loi Lang".
 
@@ -318,7 +350,7 @@ Rakuten ne pourra être tenu responsable du caractère injurieux, diffamatoire e
 
 **9.2** Sauf faute de sa part, Rakuten ne pourra être tenu responsable d'un dommage éventuellement subi par un Membre, notamment : pertes d'exploitation ou d'informations. Rakuten ne pourra être tenu responsable d'un éventuel dysfonctionnement, panne, retard ou interruption de l'accès au réseau internet.
 
-**10\. UTILISATION DES ESPACES D'ÉCHANGE**
+#### **10\. UTILISATION DES ESPACES D'ÉCHANGE**
 
 **10.1** L’utilisation des Espaces d’échange est réservée aux Membres afin de leur permettre, par exemple, de transmettre et recevoir des messages dans le cadre d’une transaction ou de laisser un commentaire sur un Produit ou une transaction.
 
@@ -343,11 +375,11 @@ Rakuten se réserve la faculté de sanctionner tout Membre utilisant les Espaces
 
 **10.3** Rakuten se réserve la faculté de supprimer, au sein de l’Espace d’échange du Membre, des conversations de plus de six (6) mois et de les archiver au sein de son système d’information pour une durée de cinq (5) ans. En cas de réclamation ou de nécessité d’accéder à l’historique des conversations, Rakuten pourra transmettre aux Membres la ou les conversations supprimées de leur Espace d’échange.
 
-**11\. RÉSILIATION**
+#### **11\. RÉSILIATION**
 
 **11.1** Le présent contrat est un contrat à durée indéterminée. En tant que tel, il est résiliable à tout moment par Rakuten ou par le Membre sans motif particulier par simple notification.
 
-**11.2 Restriction, suspension de l’accès aux services et résiliation aux torts du membre**
+#### **11.2 Restriction, suspension de l’accès aux services et résiliation aux torts du membre**
 
 Dans le cas où Rakuten constaterait, sur la base de faits ou d’un faisceau d’indices, que le Membre violerait ou serait susceptible de violer l’une ou plusieurs des stipulations des Conditions Générales d’Utilisation de la Plateforme Rakuten, de tout document de nature contractuelle auquel l’adhésion est nécessaire pour bénéficier de tout ou partie des services de la Plateforme Rakuten et/ou toutes dispositions législatives ou réglementaires en vigueur et, notamment, mais sans s’y limiter, commettrait l'une des violations contractuelles ou infractions suivantes :
 
@@ -370,7 +402,7 @@ Ces stipulations sont sans préjudice de mesures et sanctions spécifiquement d�
 
 La suspension ne produit ses effets que pour l'avenir. Ainsi, en dépit d'une suspension pour quelque motif que ce soit, le Membre reste tenu au versement des Commissions ou frais de Protection Acheteurs exigibles pour une Mise en Relation effectuée avant la date effective de suspension.
 
-**11.3 Règlement sur les Services Numériques** 
+#### **11.3 Règlement sur les Services Numériques** 
 
 **11.3.1** Rakuten met à disposition sur la [page dédiée](https://help.fr.shopping.rakuten.net/hc/fr/articles/17077414665106-R%C3%A8glement-sur-les-Services-Num%C3%A9riques-Digital-Services-Act) au Règlement sur les Services Numériques (« RSN »), l’ensemble des informations utiles et régulièrement mises à jour, tel que les rapports de transparence, les mécanismes de notifications et de réclamations, les organismes de règlement extrajudiciaire des litiges et au moins tous les six (6) mois, les informations relatives aux destinataires actifs des services ainsi que le point de contact pour les autorités.
 
@@ -384,7 +416,7 @@ La suspension ne produit ses effets que pour l'avenir. Ainsi, en dépit d'une su
 
 **11.3.6** Tout Membre dispose du droit d’introduire une plainte auprès du coordinateur pour les services numériques français (ARCOM).
 
-**12\. STIPULATIONS GÉNÉRALES**
+#### **12\. STIPULATIONS GÉNÉRALES**
 
 **12.1** Rakuten a la faculté de modifier les présentes Conditions Générales d'Utilisation, ainsi que les frais de Protection Acheteurs, en fonction de l'évolution de son offre et du marché. Toute modification prendra effet immédiatement pour les offres en ligne dès leur notification aux Membres par tout moyen choisi par Rakuten. Elles ne s'appliqueront pas pour les transactions en cours au moment de leur entrée en vigueur. À titre occasionnel, Rakuten pourra interrompre le service pour des raisons opérationnelles, de maintenance ou en cas d'urgence.
 
@@ -401,16 +433,16 @@ La suspension ne produit ses effets que pour l'avenir. Ainsi, en dépit d'une su
 **12.7** LE PRESENT CONTRAT EST SOUMIS À LA LOI FRANÇAISE.  
 TOUT LITIGE AVEC UN MEMBRE ET NÉ A L’OCCASION DE SON INTERPRETATION ET/OU DE SON EXECUTION, SERA SOUMIS AUX JURIDICTIONS FRANÇAISES EN APPLICATION DES RÈGLES DE COMPÉTENCE, À L’EXCLUSION DES LITIGES AVEC UN MEMBRE AGISSANT À TITRE PROFESSIONNEL POUR LESQUELS LA COMPÉTENCE SERA ATTRIBUÉE AU TRIBUNAL DE COMMERCE DE PARIS.
 
-**12.8** **Médiation**
+#### **12.8** **Médiation**
 
 **12.8.1** Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Rakuten adhère au Service du Médiateur de la consommation de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – [http://www.mediateurfevad.fr](http://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis de Rakuten, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).
 
 **12.8.2** Les Membres agissant en qualité de consommateurs peuvent également recourir au service de règlements des différends en ligne proposé par la Commission européenne accessible [ici](http://ec.europa.eu/consumers/odr).
 
-**  
+#### **  
 ANNEXES**
 
-**Annexe I**
+#### **Annexe I**
 
 **_Article L. 217-3 du Code de la consommation_**
 
@@ -526,6 +558,6 @@ _\[...\] l'acheteur a le choix de rendre la chose et de se faire restituer le pr
 
 _L'action résultant des vices rédhibitoires doit être intentée par l'acquéreur dans un délai de deux ans à compter de la découverte du vice._
 
-**Annexe II**
+#### **Annexe II**
 
 **Prestations de transport opérées par Mondial Relay** – Le Vendeur se déclare dûment informé que la remise d'un Produit à Mondial Relay pour sa livraison à l'Acheteur est soumise à l'acceptation expresse et sans réserve des [Conditions générales de ventes de Mondial Relay](https://www.mondialrelay.fr/envoi-de-colis/conditions-generales-de-ventes/).
