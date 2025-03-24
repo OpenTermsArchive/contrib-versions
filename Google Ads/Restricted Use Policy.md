@@ -26,7 +26,7 @@ Our advertising policies cover 4 broad areas:
 > | ![Google Ads policies \| prohibited content](//storage.googleapis.com/support-kms-prod/RrjdySjRxcYJL3NpcXaobwTxuk7zctDbL8rX) | **[Prohibited content](#con):** Content you can't advertise on the Google Network |
 > | ![Google Ads policies \| prohibited practice](//storage.googleapis.com/support-kms-prod/aYpRwkWqocXCGj8TVXwShJAbVpbcYO9qABIs) | **[Prohibited practices](#pra):** Things you can't do if you want to advertise with us |
 > | ![Google Ads policies \| restricted content](//storage.googleapis.com/support-kms-prod/tNErobNFH6ZkSwZtpMfEXrQkhCi1uMdPn3ur) | **[Restricted content and features](#res):** Content you can advertise, but with limitations |
-> | ![Google Ads policies \| Editorial and technical](//storage.googleapis.com/support-kms-prod/hza1ZDCgK38me1XBTkYHl7o1eUaDUDjNGfVT) | **[Editorial and technical](#ed):** Quality standards for your ads, websites, and apps |
+> | ![](//storage.googleapis.com/support-kms-prod/hza1ZDCgK38me1XBTkYHl7o1eUaDUDjNGfVT) | **[Editorial and technical](#ed):** Quality standards for your ads, websites, and apps |
 > 
 > To learn more about which policies are included in these broad categories, click the links for the category names to review the content below. For additional details about each policy, click the header of the section to learn more.
 
