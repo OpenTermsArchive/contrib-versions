@@ -2,6 +2,9 @@
 
 Last Updated January 2025
 
+Introduction
+------------
+
 Outbrain is committed to protecting your Personal Data. For purposes of this Privacy Policy, “**Personal Data**” means information that identifies, relates to, describes, is reasonably capable of being associated with, or could reasonably be linked, directly or indirectly, with you. 
 
 We use your Personal Data in line with all applicable laws. To ensure compliance and to align with Outbrain’s values around trust and transparency we have a team of privacy champions responsible for continuously implementing our global privacy program. Citizens from “European Territories” mean the European Economic Area (EEA), the European Free Trade Area (EFTA) and Switzerland. 
