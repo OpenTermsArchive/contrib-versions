@@ -31,7 +31,7 @@ _Pour consulter la version des Conditions Générales d'Utilisation en vigueur d
     * [8.3 Non-réception de la commande](#h_01JQ46AFAE591YQFQWEXBXAM0Z)
     * [8.4 Défaut de conformité](#h_01JQ46AJWN1J730Y4WQVQXGBFY)
     * [8.6 Droit légal de rétractation](#h_01JQ46AP0SPJB7BCE9FFVJWEJ3)
-    * [8.7 Approbation de la Réclamation](#h_01JQ46AP0SPJB7BCE9FFVJWEJ3)
+    * [8.7 Approbation de la Réclamation](#h_01JQ6WDPX2W9N4SDQRD2ENTDXM)
 * [9\. RESPONSABILITÉ](#h_01JQ44AKWCK7Y2DZX2H4J3MF2H)
 * [10\. UTILISATION DES ESPACES D'ÉCHANGE](#h_01JQ44AQ31PG9Y3Q0YCB1HFEHQ)
 * [11\. RÉSILIATION](#h_01JQ44ATZ3G9WE60KZYWZB5VQY)
@@ -330,7 +330,7 @@ En cas de Réclamation pour non-réception déposée par un Acheteur, le Vendeur
 
 **8.6.5** Les frais de retour occasionnés lors d'une rétractation sont à la charge de l'Acheteur. Par exception à ce qui précède, les frais de retour d’un Produit ne pouvant, en raison de sa nature, être renvoyé par voie postale, seront à la charge du Vendeur lorsque celui-ci n’aura pas précisé, avant la commande, le coût du retour dudit Produit. De même, les frais de retour seront à la charge du Vendeur dès lors que ce dernier aura fourni à l’Acheteur un Produit d’une qualité et d’un prix équivalents ou supérieurs suite à l’indisponibilité du Produit effectivement commandé, dans les conditions prévues à l’article 6.5.
 
-**8.7 Approbation de la Réclamation**
+#### **8.7 Approbation de la Réclamation**
 
 **8.7.1** Lorsqu’un Produit est retourné par l’Acheteur au Vendeur en dehors de toute Réclamation, Rakuten ne sera pas en mesure de traiter celle-ci.
 
