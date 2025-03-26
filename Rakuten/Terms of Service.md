@@ -20,17 +20,14 @@ _Pour consulter la version des Conditions Générales d'Utilisation en vigueur d
 * [4\. PROCESSUS DE VENTE](#h_01JQ449C7B4PGK946DYBQ2GRXJ)
 * [5\. OBLIGATIONS DES MEMBRES](#h_01JQ449G635RNJCKXTH4G94WKM)
 * [6\. OBLIGATIONS DES VENDEURS](#h_01JQ449MGBPBHDXDQHTW99QBW5)
-    * [6.5 Délivrance du Produit à l'Acheteur](#h_01JQ469PF2KSNTZT9KAPK0T565)
-    * [6.7 Obligations des Vendeurs Professionnels](#h_01JQ469TNM2EEX5XA650C02HCZ)
-    * [6.8 Stipulations financières](#h_01JQ469XKQTAGJH2A89F8W15AC)
 * [7\. OBLIGATIONS DES ACHETEURS](#h_01JQ44A453KGG7QPKMJ8S1CQ85)
-    * [7.9 Protection Acheteurs](#h_01JQ46A464CYV539H2C7CCS0YS)
 * [8\. RÉCLAMATIONS ET DROIT DE RÉTRACTATION](#h_01JQ44AAX7THZ3SEKN11N1WMRM)
     * [8.1 Traitement des Réclamations](#h_01JQ46A8GZQY4KVRZ6622B7NA0)
     * [8.2 Résolution amiable de la Réclamation entre le Vendeur et l’Acheteur](#h_01JQ46AD83XQP5W0B9QWZ4ZFPP)
     * [8.3 Non-réception de la commande](#h_01JQ46AFAE591YQFQWEXBXAM0Z)
     * [8.4 Défaut de conformité](#h_01JQ46AJWN1J730Y4WQVQXGBFY)
-    * [8.6 Droit légal de rétractation](#h_01JQ46AP0SPJB7BCE9FFVJWEJ3)
+    * [8.5 Garanties légales de conformité et vices cachés](#h_01JQ46AP0SPJB7BCE9FFVJWEJ3)
+    * [8.6 Droit légal de rétractation](#h_01JQ8VNK8CWT7PCF6QS9DNCRV7)
     * [8.7 Approbation de la Réclamation](#h_01JQ6WDPX2W9N4SDQRD2ENTDXM)
 * [9\. RESPONSABILITÉ](#h_01JQ44AKWCK7Y2DZX2H4J3MF2H)
 * [10\. UTILISATION DES ESPACES D'ÉCHANGE](#h_01JQ44AQ31PG9Y3Q0YCB1HFEHQ)
@@ -38,7 +35,6 @@ _Pour consulter la version des Conditions Générales d'Utilisation en vigueur d
     * [11.2 Restriction, suspension de l’accès aux services et résiliation aux torts du membre](#h_01JQ46AXMQ8R9JN8V2J0735RR3)
     * [11.3 Règlement sur les Services Numériques](#h_01JQ46B1QHM553JE0HGHEKMZBF)
 * [12\. STIPULATIONS GÉNÉRALES](#h_01JQ44B0GS6MQXVV5ZMH4CMQ4C)
-    * [12.8 Médiation](#h_01JQ46B6K291Q6C6RNMF1Q0C5Z)
 * [ANNEXES](#h_01JQ44BB6N52T5MCPR1ZPJRHAE)
     * [Annexe I](#h_01JQ44B60VR62S4R2V8K27X8R7)
     * [Annexe II](#h_01JQ44BGKCVX1D8A1J8VBJ9PG1)
@@ -174,7 +170,7 @@ Est par conséquent insusceptible d’être proposé à la vente tout bien incor
 
 Le Vendeur qui s'absente plus de trois (3) jours ouvrés devra retirer de la vente ses Produits. Rakuten met à sa disposition l'option « Vous partez en vacances » permettant de programmer la remise en ligne automatique des offres.
 
-#### **6.5 Délivrance du Produit à l'Acheteur**
+**6.5 Délivrance du Produit à l'Acheteur**
 
 **6.5.1** Le Vendeur est seul responsable de la bonne exécution de l'obligation de livrer le Produit commandé à l'Acheteur.
 
@@ -192,7 +188,7 @@ La communication du code de retrait au Vendeur est sans préjudice des droits et
 
 **6.6** Le Vendeur s'engage à ne joindre au Produit aucune publicité pour lui-même ou pour quiconque, sous quelque forme que ce soit (par exemple : message, plaquette, prospectus, stick autocollant...). Les coordonnées de l'Acheteur doivent être utilisées uniquement pour les besoins de l'exécution de la commande et des obligations légales qui s'y rattachent. Toute autre utilisation, location, vente, revente et/ou copie de la part du Vendeur sont expressément interdites.
 
-#### **6.7 Obligations des Vendeurs Professionnels**
+**6.7 Obligations des Vendeurs Professionnels**
 
 **6.7.1** Le Vendeur agissant à titre professionnel doit s'identifier auprès de Rakuten en cette qualité. Rakuten se réserve le droit de ne pas contracter avec un Vendeur Professionnel.
 
@@ -204,7 +200,7 @@ La communication du code de retrait au Vendeur est sans préjudice des droits et
 
 **6.7.5** Le Vendeur Professionnel s'engage à respecter les [Conditions particulières applicables aux Vendeurs Professionnels](https://fr.shopping.rakuten.com/newhelp/cpvp/).
 
-#### **6.8 Stipulations financières**
+**6.8 Stipulations financières**
 
 **6.8.1** Le Vendeur autorise Rakuten à percevoir, en son nom et pour son compte, le Prix de la Transaction par le biais du système sécurisé de paiement électronique mis en place sur la Plateforme Rakuten ou par tout autre moyen, qui serait ultérieurement validé par Rakuten.
 
@@ -244,7 +240,7 @@ Rakuten n’a aucun contrôle sur les frais de dédouanement et ceux-ci seront �
 **7.8** Tout achat effectué par le biais de la Plateforme Rakuten doit être destiné à satisfaire les besoins propres à une consommation personnelle.  
 L’Acheteur est donc averti qu’un Vendeur agissant à titre professionnel sera en droit de refuser toute commande de nature à avoir été passée à des fins commerciales et notamment de revente.
 
-#### **7.9 Protection Acheteurs** 
+**7.9 Protection Acheteurs** 
 
 **7.9.1** La Protection Acheteurs fait partie intégrante des services d'intermédiation de la Plateforme Rakuten, qui incluent, notamment :
 
@@ -306,6 +302,8 @@ En cas de Réclamation pour non-réception déposée par un Acheteur, le Vendeur
 **8.4.2** Le retour d'un Produit ne sera admis que s'il fait l'objet d'une Réclamation et que l'Acheteur suit les instructions délivrées via le service après-vente de Rakuten. L'Acheteur s'engage à protéger et à emballer convenablement le Produit de sorte à garantir son intégrité lors de son acheminement.
 
 **8.4.3** Après constatation de la non-conformité du Produit par rapport à l'offre du Vendeur Professionnel, ce dernier procédera selon les modalités prévues aux articles L.217-8 et suivants du Code de la consommation.
+
+#### **8.5 Garanties légales de conformité et des vices cachés**
 
 **8.5** Garanties légales de conformité et des vices cachés - Les stipulations du présent chapitre sont sans préjudice des dispositions relatives à la garantie légale de conformité et des vices cachées ci-annexées.
 
@@ -433,7 +431,7 @@ La suspension ne produit ses effets que pour l'avenir. Ainsi, en dépit d'une su
 **12.7** LE PRESENT CONTRAT EST SOUMIS À LA LOI FRANÇAISE.  
 TOUT LITIGE AVEC UN MEMBRE ET NÉ A L’OCCASION DE SON INTERPRETATION ET/OU DE SON EXECUTION, SERA SOUMIS AUX JURIDICTIONS FRANÇAISES EN APPLICATION DES RÈGLES DE COMPÉTENCE, À L’EXCLUSION DES LITIGES AVEC UN MEMBRE AGISSANT À TITRE PROFESSIONNEL POUR LESQUELS LA COMPÉTENCE SERA ATTRIBUÉE AU TRIBUNAL DE COMMERCE DE PARIS.
 
-#### **12.8** **Médiation**
+**12.8** **Médiation**
 
 **12.8.1** Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Rakuten adhère au Service du Médiateur de la consommation de la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes : 60 Rue La Boétie – 75008 Paris – [http://www.mediateurfevad.fr](http://www.mediateurfevad.fr/). Après démarche préalable écrite des consommateurs vis-à-vis de Rakuten, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, cliquer [ici](http://www.mediateurfevad.fr/index.php/espace-consommateur/).
 
