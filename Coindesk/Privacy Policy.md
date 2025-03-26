@@ -1,16 +1,16 @@
 [BTC
 
-$87,504.81
+$86,600.95
 
-+
+\-
 
-1.09%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
+1.43%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
 
-$2,057.99
+$2,004.22
 
-+
+\-
 
-0.15%](https://www.coindesk.com/price/ethereum "View price details")[USDT
+2.85%](https://www.coindesk.com/price/ethereum "View price details")[USDT
 
 $1.0003
 
@@ -18,107 +18,107 @@ $1.0003
 
 0.01%](https://www.coindesk.com/price/tether "View price details")[XRP
 
-$2.4536
-
-+
-
-1.54%](https://www.coindesk.com/price/xrp "View price details")[BNB
-
-$631.14
+$2.3877
 
 \-
 
-1.89%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
+2.69%](https://www.coindesk.com/price/xrp "View price details")[BNB
 
-$142.78
+$619.92
 
-+
+\-
 
-2.19%](https://www.coindesk.com/price/solana "View price details")[USDC
+1.68%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
+
+$137.91
+
+\-
+
+5.04%](https://www.coindesk.com/price/solana "View price details")[USDC
 
 $1.0001
 
 +
 
-0.01%](https://www.coindesk.com/price/usd-coin "View price details")[DOGE
+0.02%](https://www.coindesk.com/price/usd-coin "View price details")[DOGE
 
-$0.1926
-
-+
-
-5.16%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
-
-$0.7488
+$0.1941
 
 +
 
-1.78%](https://www.coindesk.com/price/cardano "View price details")[TRX
+1.20%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
 
-$0.2288
-
-+
-
-0.71%](https://www.coindesk.com/price/tron "View price details")[WBTC
-
-$87,378.79
-
-+
-
-0.91%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
-
-$15.62
-
-+
-
-3.01%](https://www.coindesk.com/price/chainlink "View price details")[AVAX
-
-$22.60
-
-+
-
-3.51%](https://www.coindesk.com/price/avax "View price details")[XLM
-
-$0.2983
-
-+
-
-2.85%](https://www.coindesk.com/price/xlm "View price details")[LEO
-
-$9.7651
-
-+
-
-0.04%](https://www.coindesk.com/price/unus-sed-leo "View price details")[TON
-
-$3.6240
+$0.7291
 
 \-
 
-1.06%](https://www.coindesk.com/price/toncoin "View price details")[SHIB
+2.70%](https://www.coindesk.com/price/cardano "View price details")[TRX
 
-$0.0₄1486
-
-+
-
-10.73%](https://www.coindesk.com/price/shiba-inu "View price details")[HBAR
-
-$0.1952
+$0.2296
 
 +
 
-0.24%](https://www.coindesk.com/price/hbar "View price details")[SUI
+0.76%](https://www.coindesk.com/price/tron "View price details")[WBTC
 
-$2.5009
+$86,497.20
+
+\-
+
+1.38%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[LINK
+
+$15.19
+
+\-
+
+1.64%](https://www.coindesk.com/price/chainlink "View price details")[AVAX
+
+$22.08
+
+\-
+
+4.00%](https://www.coindesk.com/price/avax "View price details")[LEO
+
+$9.7971
 
 +
 
-5.95%](https://www.coindesk.com/price/sui "View price details")[LTC
+0.32%](https://www.coindesk.com/price/unus-sed-leo "View price details")[TON
 
-$94.36
+$3.5987
 
 +
 
-2.03%](https://www.coindesk.com/price/ltc "View price details")
+0.46%](https://www.coindesk.com/price/toncoin "View price details")[XLM
+
+$0.2857
+
+\-
+
+2.22%](https://www.coindesk.com/price/xlm "View price details")[SHIB
+
+$0.0₄1457
+
++
+
+6.66%](https://www.coindesk.com/price/shiba-inu "View price details")[HBAR
+
+$0.1925
+
+\-
+
+1.31%](https://www.coindesk.com/price/hbar "View price details")[SUI
+
+$2.5662
+
++
+
+5.18%](https://www.coindesk.com/price/sui "View price details")[LTC
+
+$92.26
+
+\-
+
+1.19%](https://www.coindesk.com/price/ltc "View price details")
 
 Ad
 
