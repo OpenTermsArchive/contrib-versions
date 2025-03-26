@@ -10,11 +10,9 @@ This Cookie policy explains what cookies are and how we use them. You should rea
 
 This Policy also tells you what your rights are in relation to the personal data you give to us. If you have any questions about this Cookie policy, please contact: 
 
-**Address**: IKEA, Customer Support Centre, Kingston Park, Peterborough, PE2 9ET, United Kingdom\*
-
-**Phone**: 01 696 6246[\*\*](https://publicera.ingka.com/ie/en/01%20541%203300**)
-
-**Email**: dataprotection.officer.ie@ingka.ikea.com
+* **Address**: IKEA, Customer Support Centre, Kingston Park, Peterborough, PE2 9ET, United Kingdom\*
+* **Phone**: 01 696 6246\*\*
+* **Email**: dataprotection.officer.ie@ingka.ikea.com
 
 \*Note that if you contact us by post, international postage charges may apply 
 
@@ -139,7 +137,7 @@ This Policy also tells you what your rights are in relation to the personal data
     
     For the performance cookies and targeting cookies when starting a new session on our website, you can choose to opt-out of these. It is possible that any advertising you receive will be less targeted as a result, but the site should function correctly.   
     If you wish to disable the strictly necessary cookies, then within your browser you can choose whether you want to accept cookies or not. Different browsers make different controls available to you. Generally, your browser will offer you the choice to accept, refuse or delete all cookies, third-party cookies or specific website cookies. Each browser’s website should contain instructions on how you can do this.   
-    For further information please refer to: [https://www.aboutcookies.org/how-to-delete-cookies/](https://www.aboutcookies.org/how-to-delete-cookies/)   
+    For further information please refer to: [https://www.aboutcookies.org/how-to-delete-cookies/](https://www.aboutcookies.org/how-to-delete-cookies/%C2%A0)   
     If you block these cookies on our website, you may be unable to access certain areas of our website and certain functions and pages will not work in the usual way. 
     
 * Changes to the Cookie policy
