@@ -154,4 +154,4 @@ Learn more about [how we use your data](https://www.criteo.com/privacy/how-we-us
 
 Please note that we may update or change this privacy policy. If we revise our privacy policy, we will post those changes to this privacy statement, and to other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any we disclose it. If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective.
 
-Last updated : 11/03/2022
+Last updated: 01/01/2025
