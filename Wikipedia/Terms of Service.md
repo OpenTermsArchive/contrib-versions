@@ -370,7 +370,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 **Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.**
 
-![](https://login.wikimedia.org/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=0)
+![](https://auth.wikimedia.org/loginwiki/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
 
 Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=366676](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=366676)"
 
