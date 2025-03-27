@@ -1,7 +1,7 @@
 **Terms of Service**
 ====================
 
-Updated as of July 23, 2024
+Updated as of March 26, 2025
 
 ### WE DO NOT CONDUCT CRIMINAL BACKGROUND CHECKS. PLEASE BE SAFE WHEN INTERACTING WITH USERS.
 
@@ -168,25 +168,62 @@ Because your contract with Tagged, the Agreement, and this Arbitration Agreement
 
 **Unavailability:** If for some reason AAA is not available to administer the arbitration and you live in California, the arbitration will be administered by ADR Services, Inc. pursuant to its then in-effect arbitration rules and procedures, available at [https://www.adrservices.com/services-2/arbitration-rules/](https://www.adrservices.com/services-2/arbitration-rules/). If for some reason AAA is not available to administer the arbitration and you live outside of California, the arbitration will be administered by National Arbitration and Mediation pursuant to its most current Comprehensive Dispute Resolution Rules and Procedures, available at [https://www.namadr.com/resources/rules-fees-forms](https://www.namadr.com/resources/rules-fees-forms), or under its most current Supplemental Rules for Mass Arbitrations, as applicable, available at [https://www.namadr.com/content/uploads/2021/12/SupplementalRules12.22.21.pdf](https://www.namadr.com/content/uploads/2021/12/SupplementalRules12.22.21.pdf). If none of these arbitration providers is available, including because it is not able to administer the arbitration(s) consistent with the rules, procedures, and terms of this arbitration agreement, including those regarding mass filings, the parties will select an alternative arbitral forum, with comparable fees and procedures for mass filings, if applicable. If the parties cannot agree on an appropriate alternative arbitration provider, then the parties will ask a court of competent jurisdiction to appoint an arbitrator pursuant to 9 U.S.C. § 5 that is able to administer the arbitration(s) consistent with the rules, procedures, and terms of this arbitration agreement, including those regarding mass filings, if applicable. If no such arbitration provider is available, the dispute shall be resolved in state or federal court in Delaware.
 
-### **N) Termination**
+### **N) Online Safety Code for dating services**
+
+The Meet Group, Inc. (TMG, which operates the following platforms: MeetMe, Skout, Tagged, hi5, and Growlr) is proud to participate in the [Online Safety Code for dating services (Code)](https://www.australianonlinedatingcode.com.au/#:~:text=%E2%80%8BABOUT%20THE%20CODE,dating%20services%20operating%20in%20Australia.), a voluntary and collaborative industry code of practice which is designed to reduce the risk of online enabled harm to dating service users in Australia. TMG currently has a Tier 2 Code rating. We are fully committed to adhering to the principles outlined in this Code, ensuring transparency and ease of reporting. By complying with the Code, TMG aims to help keep our community safe and prosperous for all members. We have an easy-to-use reporting mechanism of any instances of online enabled harm by other members that violate TMG’s Terms of Service, including but not limited to, instances of harassment, assault, sexual abuse, criminal or sex offender records, and threats against our members or others. If you would like to report a violation by a TMG member, you can now submit your report as follows:
+
+#### Process for reporting a member on the mobile app
+
+1. Tap the "..." in the upper right corner of the member's profile
+2. Select the appropriate report category
+3. Provide supporting details
+4. Tap "Send" in the upper right corner
+5. Report is queued up for review by a moderator
+
+#### Process for reporting a member on the website
+
+1. Click the "Report Abuse" button on the left side of the member's profile
+2. Select the appropriate report category
+3. Indicate where the behavior that led to the report was observed
+4. Provide supporting details
+5. Click "submit"
+6. Report is queued up for review by a moderator, and reporting member is proactively given the option to block the reported member
+
+#### Process for reporting a Live Video streamer
+
+1. While viewing a live stream, tap"!" icon at top of screen
+2. Select appropriate report category
+3. Add supporting details or attachments
+4. Tap "Submit Report"
+5. Reported user is added to the reporting user's block list, and the report is queued up for review by a moderator
+
+#### Process for reporting a Live Video commenter
+
+1. While viewing a live stream, tap commenter's display name to view mini-profile
+2. Tap "Report" button in upper left corner
+3. Report is queued up for review by a moderator
+
+Our team will carefully and promptly review each report and take appropriate action to keep our platform safe. To the extent possible, we will notify you of the action(s) we take in response to your report. Please review the Terms of Service and [Content and Conduct](https://terms.hi5.com/content-and-conduct) policy to learn more about our policies and practices. TMG appreciates your cooperation in helping us protect the community and improve our services.
+
+### **O) Termination**
 
 Either party may terminate use of the Services with or without cause at any time and effective immediately upon written notice to the other party. The Company may terminate with or without cause at any time and effective immediately, at the Company's sole discretion, including but not limited to Member's failure to conform with these terms and conditions of the Agreement. the Company shall not be liable to Member or any third party for termination of use of the Services or Services. Member's right to use the Services shall cease immediately. Member shall have no right and the Company will have no obligation thereafter to forward any unread or unsent messages to Member or any third party. Sections G-N shall survive termination of the Agreement.
 
-### **O) DISCLAIMERS OF WARRANTIES**
+### **P) DISCLAIMERS OF WARRANTIES**
 
 MEMBER AGREES THAT USE OF THE COMPANY SERVICES IS ENTIRELY AT MEMBER'S OWN RISK. THE COMPANY SERVICES ARE PROVIDED ON AN "AS IS" BASIS, WITHOUT ANY WARRANTIES OF ANY KIND. ALL EXPRESS AND IMPLIED WARRANTIES, INCLUDING, WITHOUT LIMITATION, THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT OF PROPRIETARY RIGHTS ARE EXPRESSLY DISCLAIMED TO THE FULLEST EXTENT PERMITTED BY LAW. TO THE FULLEST EXTENT PERMITTED BY LAW, THE COMPANY DISCLAIMS ANY WARRANTIES FOR THE SECURITY, RELIABILITY, TIMELINESS, ACCURACY, AND PERFORMANCE OF THE COMPANY SERVICES. TO THE FULLEST EXTENT PERMITTED BY LAW, THE COMPANY DISCLAIMS ANY WARRANTIES FOR OTHER SERVICES OR GOODS RECEIVED THROUGH OR ADVERTISED ON THE COMPANY SERVICES ACCESSED THROUGH ANY LINKS ON THE SERVICES. TO THE FULLEST EXTENT PERMITTED BY LAW, THE COMPANY DISCLAIMS ANY WARRANTIES FOR VIRUSES OR OTHER HARMFUL COMPONENTS IN CONNECTION WITH THE THE COMPANY SERVICES. Some jurisdictions do not allow the disclaimer of implied warranties. In such jurisdictions, the foregoing disclaimers may not apply to you insofar as they relate to implied warranties.
 
-### **P) LIMITATION OF LIABILITY**
+### **Q) LIMITATION OF LIABILITY**
 
 UNDER NO CIRCUMSTANCES SHALL THE COMPANY BE LIABLE AS A RESULT OF MEMBER'S USE OR MISUSE OF THE COMPANY SERVICES, WHETHER THE DAMAGES ARISE FROM USE OR MISUSE OF THE COMPANY SERVICES, FROM INABILITY TO USE THE COMPANY SERVICES, OR THE INTERRUPTION, SUSPENSION, MODIFICATION, ALTERATION, OR TERMINATION OF THE COMPANY SERVICES. SUCH LIMITATION SHALL ALSO APPLY WITH RESPECT TO DAMAGES INCURRED BY REASON OF OTHER SERVICES OR PRODUCTS RECEIVED THROUGH OR ADVERTISED IN CONNECTION WITH THE THE COMPANY SERVICES OR ANY LINKS ON THE COMPANY SERVICES, AS WELL AS BY REASON OF ANY INFORMATION OR ADVICE RECEIVED THROUGH OR ADVERTISED IN CONNECTION WITH THE THE COMPANY SERVICES OR ANY LINKS ON THE COMPANY SERVICES. THESE LIMITATIONS SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY LAW. In some jurisdiction, limitations of liability are not permitted. In such jurisdictions, the foregoing limitation may not apply to you.
 
 NOTWITHSTANDING ANYTHING TO THE CONTRARY CONTAINED HEREIN, AND TO THE EXTENT THAT A JUDGMENT IS RENDERED IN A COURT OF COMPETENT JURISDICTION DISREGARDING ONE OR MORE OF THE WARRANTY DISCLAIMERS AND LIABILITY LIMITATIONS CONTAINED HEREIN, OUR AGGREGATE LIABILITY TO YOU SHALL NOT EXCEED THE GREATER OF THE AMOUNT YOU PAID THE MEET GROUP, INC. FOR USE OF THE SERVICES OR CONTENT OR ONE HUNDRED DOLLARS ($100) USD.
 
-### **Q) Indemnification**
+### **R) Indemnification**
 
 Member agrees to indemnify and hold the Company, its subsidiaries, affiliates, successors, assigns, directors, officers, agents, employees, service providers, and suppliers harmless from any dispute which may arise from a breach of terms of this Agreement or use of the Services. Member agrees to hold the Company harmless from any claims and expenses, including reasonable attorney's fees and court costs, related to Member's violation of this Agreement.
 
-### **R) Agreement**
+### **S) Agreement**
 
 The Agreement makes up the entire agreement between Member and the Company and governs your use of the Services, superseding any prior agreements between Member and the Company. You also may be subject to additional terms and conditions that may apply when you use affiliate services, third-party content or third-party software. The failure of the Company to exercise or enforce any right or provision of the Agreement shall not result in a waiver of such right or provision. The section titles in the Agreement are for convenience only and have no legal or contractual effect. In the event there is a discrepancy between this English language version and any translated copies of the Agreement, the English version shall prevail. The side summaries within this Agreement are for reference only. In the event that there is a discrepancy between the full terms of this Agreement and the language contained within the side summaries the full version of the Agreement shall prevail.
 
@@ -197,7 +234,7 @@ Users with questions about this Agreement and any of the above statements may co
 Terms of Service for users having their residence in the European Economic Area or the United Kingdom
 =====================================================================================================
 
-Updated as of July 23, 2024
+Updated as of March 26, 2025
 
 **The following Terms of Service for users having their residence in the European Economic Area or the United Kingdom ("Terms of Service") set out the contractual relationship between The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, USA ("TMG", "us", "our", "we") and its customers ("you") when you subscribe to and use the free-of-charge and chargeable services of Tagged and/or Hi5 (collectively, the "Services"), whether through a mobile device, mobile application (our app) or computer.**
 
@@ -213,7 +250,7 @@ Updated as of July 23, 2024
 
 **If you do not agree to be bound by the Terms of Service, you will not be able to register for, or use, the Services.**
 
-**IMPORTANT NOTICE REGARDING THE PETS GAME FEATURE: You understand that, if you participate in the Pets Game, as described in Clause 16 below, your profile and images may be accessed by other players, referred to as "pet" and "traded" at a certain Pets Cash "value".**
+**IMPORTANT NOTICE REGARDING THE PETS GAME FEATURE: You understand that, if you participate in the Pets Game, as described in Clause 17 below, your profile and images may be accessed by other players, referred to as "pet" and "traded" at a certain Pets Cash "value".**
 
 **Overview**
 
@@ -239,17 +276,19 @@ Updated as of July 23, 2024
     
 11. Cancellation/Withdrawal Policy, Exclusion of the Right to Cancel
     
-12. Your legal rights
+12. Online Safety Code for dating services
     
-13. Miscellaneous
+13. Your legal rights
     
-14. Additional Terms which apply if you have downloaded our app from Apple's App Store
+14. Miscellaneous
     
-15. Additional Terms which apply if you have downloaded our app from GooglePlay
+15. Additional Terms which apply if you have downloaded our app from Apple's App Store
     
-16. Pets Terms of Service
+16. Additional Terms which apply if you have downloaded our app from GooglePlay
     
-17. Contact Us
+17. Pets Terms of Service
+    
+18. Contact Us
     
 
 Template for the withdrawal form
@@ -268,9 +307,9 @@ Template for the withdrawal form
 
 2.3. We also offer various services or features that are subject to a fee. Before you sign up to purchase such services or features, we will provide you with further information about what you will be purchasing, for example, where applicable: the main characteristics of the services or features, the term of your subscription (including any extension), how to terminate your subscription, the price and any payment conditions and limitations of means of payment. In case you purchase Virtual Goods (see Clause 3.3 below), we will further inform you that these are redeemable only on the Service for digital merchandise and content and that they are not refundable. If you want to upgrade your Basic Membership by choosing a membership that is subject to a fee ("Premium Membership"), or access any other services or features subject to a fee, you acknowledge that by pressing the "Buy now"-button (or comparable button), you will have confirmed that you want to purchase the Premium Membership or other services or features that you have selected. Our contractual relationship for such purchases will be confirmed on the date that you receive a confirmation of your order. Please note, however, that the fulfilment of your payment obligation to us is subject to the respective payment service provider verifying and processing the purchase.
 
-2.4. You can also make purchases via our Apple iOS app or Google Android app. This includes purchasing a Premium Membership or any other services or features subject to a fee. In this case, we remain responsible for the provision of our Service. You will receive an order confirmation regarding your Subscription Terms after any such purchase. However, any purchase and/or subscription is concluded (and must be cancelled or terminated) through Apple / Google only (see Clause 5.3), and is subject to the technical standards and principles established by Apple / Google, over which we have no control. As a rule, a purchase via an app store will take place when you click on "Buy now" (or a comparable button) and, when required, you enter your password or equivalent credentials (e.g., touch ID or face ID) for the app store. Your contractual relationship with Apple / Google will be confirmed on the date that Apple / Google sends you an email confirmation of your order; and Apple / Google will invoice you for any Premium Membership charges through your Apple / Google account. You will also find in the app store all the essential information that you need about your contractual relationship with Apple / Google. If you purchase a Premium Membership via the app store that is subject to automatic extension, the Premium Membership will run for a fixed term, which will automatically extend unless you terminate your subscription with Apple / Google in accordance with Apple's / Google's Terms of Service. Please note that Clauses 5.3 and 12 of these Terms of Service will not apply where you have purchased a Premium Membership via Apple / Google.
+2.4. You can also make purchases via our Apple iOS app or Google Android app. This includes purchasing a Premium Membership or any other services or features subject to a fee. In this case, we remain responsible for the provision of our Service. You will receive an order confirmation regarding your Subscription Terms after any such purchase. However, any purchase and/or subscription is concluded (and must be cancelled or terminated) through Apple / Google only (see Clause 5.3), and is subject to the technical standards and principles established by Apple / Google, over which we have no control. As a rule, a purchase via an app store will take place when you click on "Buy now" (or a comparable button) and, when required, you enter your password or equivalent credentials (e.g., touch ID or face ID) for the app store. Your contractual relationship with Apple / Google will be confirmed on the date that Apple / Google sends you an email confirmation of your order; and Apple / Google will invoice you for any Premium Membership charges through your Apple / Google account. You will also find in the app store all the essential information that you need about your contractual relationship with Apple / Google. If you purchase a Premium Membership via the app store that is subject to automatic extension, the Premium Membership will run for a fixed term, which will automatically extend unless you terminate your subscription with Apple / Google in accordance with Apple's / Google's Terms of Service. Please note that Clauses 5.3 and 13 of these Terms of Service will not apply where you have purchased a Premium Membership via Apple / Google.
 
-2.5. Please also see Clauses 14 and 15 below for those terms that will apply if you have downloaded our app from Apple or Google. Please also note -- if you have downloaded our app from Apple's / Google's app store, Apple's / Google's app store terms of service apply and these will prevail over these Terms of Service if there is any conflict.
+2.5. Please also see Clauses 15 and 16 below for those terms that will apply if you have downloaded our app from Apple or Google. Please also note -- if you have downloaded our app from Apple's / Google's app store, Apple's / Google's app store terms of service apply and these will prevail over these Terms of Service if there is any conflict.
 
 **3\. Free-of-Charge and Chargeable Services and Purchases**
 
@@ -302,7 +341,7 @@ Template for the withdrawal form
 
 5.2. If your Basic Membership has active Virtual Goods you must communicate any termination to us [support@themeetgroup.com](mailto:support@themeetgroup.com). Please make sure to provide the email address connected to your account or comparable credentials so to allow us to identify you.
 
-5.3. If, at any point, you wish to discontinue your Premium Membership, you may do so at your convenience. If your Premium Membership account is billed through our website, you must visit [http://www.hi5.com/account\_info.html](http://www.hi5.com/account_info.html) , click the Subscriptions and Payments tab, select 'cancel your subscription' and click 'Cancel Premium' at least three days prior to your next scheduled automatic payment so that we can process your cancellation properly. If you fail to do so, you can still cancel by the end of the respective subscription term, however we may collect the money for the following period which we will then refund to you. Your right to terminate your Premium Membership based on other grounds remains unaffected. In this case, you must state the grounds for extraordinary termination when cancelling your subscription based on this ground. If your Premium Membership account is billed through Apple, you must cancel at least 24 hours prior to your next scheduled automatic payment, by following the process outlined [here](https://support.apple.com/en-us/HT202039). If your Premium Membership account is billed through GooglePlay, you must cancel within seven days from the start of your billing cycle, by following the process outlined [here](https://support.google.com/googleplay/answer/7018481?hl=en&co=GENIE.Platform%3DAndroid). You may also write to us using the contact details provided below in Clause 16. Subject to Clause 5.5 and Clause 11 below, any termination of your subscription will not take effect until the end of the current billing period (and, as such, you will not be entitled to any refund). Thus, in order to make sure that your Premium Membership does not automatically extend, you must tell us that you want to terminate your subscription before the end of your then-current subscription term.
+5.3. If, at any point, you wish to discontinue your Premium Membership, you may do so at your convenience. If your Premium Membership account is billed through our website, you must visit [http://www.hi5.com/account\_info.html](http://www.hi5.com/account_info.html) , click the Subscriptions and Payments tab, select 'cancel your subscription' and click 'Cancel Premium' at least three days prior to your next scheduled automatic payment so that we can process your cancellation properly. If you fail to do so, you can still cancel by the end of the respective subscription term, however we may collect the money for the following period which we will then refund to you. Your right to terminate your Premium Membership based on other grounds remains unaffected. In this case, you must state the grounds for extraordinary termination when cancelling your subscription based on this ground. If your Premium Membership account is billed through Apple, you must cancel at least 24 hours prior to your next scheduled automatic payment, by following the process outlined [here](https://support.apple.com/en-us/HT202039). If your Premium Membership account is billed through GooglePlay, you must cancel within seven days from the start of your billing cycle, by following the process outlined [here](https://support.google.com/googleplay/answer/7018481?hl=en&co=GENIE.Platform%3DAndroid). You may also write to us using the contact details provided below in Clause 18. Subject to Clause 5.5 and Clause 11 below, any termination of your subscription will not take effect until the end of the current billing period (and, as such, you will not be entitled to any refund). Thus, in order to make sure that your Premium Membership does not automatically extend, you must tell us that you want to terminate your subscription before the end of your then-current subscription term.
 
 5.4. If you delete your Basic or Premium Membership, any previously purchased Virtual Goods will also be deleted, and existing payment obligations from purchases of paid-for services or features (like Virtual Goods) will remain in place, subject to applicable cancellation rights (see Clause 12).
 
@@ -326,7 +365,7 @@ Template for the withdrawal form
 
 6.5. If we offer product updates, including updates for our Android and iOS apps, we strongly recommend that you install them as soon as possible. It is your responsibility to install such updates within a reasonable time. If you fail to do so, although we have informed you that an update is available and the consequences of not installing it, we will not be liable for any product defects resulting from your failure to install the update; this shall not apply if the fact that you have not installed the update or have installed it incorrectly is not due to inadequate installation instructions provided by us to you.
 
-6.6. You are responsible for the accuracy of the information provided during your registration. If you need to update your profile or registration information, you can generally do this at any time through your profile. However, there is some information that can only be updated by contacting us using the details in Clause 16. It will also be made clear to you if you need to contact us to update specific information.
+6.6. You are responsible for the accuracy of the information provided during your registration. If you need to update your profile or registration information, you can generally do this at any time through your profile. However, there is some information that can only be updated by contacting us using the details in Clause 18. It will also be made clear to you if you need to contact us to update specific information.
 
 6.7. We are only responsible for the technical provision of the Service (as further described in Clause 3). We will generally enable you to make contacts with other members. We cannot, however, guarantee that you will find a partner as a result of using the Service.
 
@@ -401,7 +440,7 @@ c) Liability under the German Product Liability Act remains unaffected by the ab
 
 10.1. These Terms of Service shall be governed by, and construed in accordance with interpreted in accordance with the laws of the State of California, USA, without regard to any conflict of law principles to the contrary. This choice of law shall not apply, however, if it has the result of depriving you of the protection afforded to you by provisions that cannot be derogated from by agreement by virtue of the law which, in the absence of choice, would have been applicable on the basis of statutory provisions.
 
-10.2. Under current law, we are obligated to inform consumers about the existence of the European Online Dispute Resolution Platform, which was set up by the European Commission for dispute resolution. The European Online Dispute Resolution Platform can be found here: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). Contact details of the official dispute resolution bodies can be found at the following link: [https://webgate.ec.europa.eu/odr/main/index.cfm](https://webgate.ec.europa.eu/odr/main/index.cfm). In the absence of a legal obligation to participate in dispute settlement proceedings before a consumer dispute resolution body, we are not obligated and not willing to participate in such dispute resolution proceedings. Our email address can be found in Clause 16.
+10.2. Under current law, we are obligated to inform consumers about the existence of the European Online Dispute Resolution Platform, which was set up by the European Commission for dispute resolution. The European Online Dispute Resolution Platform can be found here: [https://ec.europa.eu/consumers/odr/](https://ec.europa.eu/consumers/odr/). Contact details of the official dispute resolution bodies can be found at the following link: [https://webgate.ec.europa.eu/odr/main/index.cfm](https://webgate.ec.europa.eu/odr/main/index.cfm). In the absence of a legal obligation to participate in dispute settlement proceedings before a consumer dispute resolution body, we are not obligated and not willing to participate in such dispute resolution proceedings. Our email address can be found in Clause 18.
 
 10.3. Should any provision of these Terms of Service be or become wholly or partly ineffective or unenforceable, this shall not affect the validity of the remaining provisions of these Terms of Service.
 
@@ -429,31 +468,66 @@ However, please note that if you have started to use the purchased goods or serv
 
 11.4. Clauses 11.1 to 11.3 do not apply to cancellation of Premium Membership purchased from Apple via the iOS app or Google via the Android app. Please see Clause 2.4 for further information. Apple / Google may also provide additional mechanisms for you to cancel your subscription. To cancel your Premium Membership purchased from Apple via the iOS app or Google via the Android app, please see their instructions for cancelling available for Apple [here](https://support.apple.com/en-gb/HT202039) and for Google [**here**](https://support.google.com/googleplay/answer/7018481).
 
-**12\. Your legal rights**
+**12\. Online Safety Code for dating services** The Meet Group, Inc. (TMG, which operates the following platforms: MeetMe, Skout, Tagged, hi5, and Growlr) is proud to participate in the [Online Safety Code for dating services (Code)](https://www.australianonlinedatingcode.com.au/#:~:text=%E2%80%8BABOUT%20THE%20CODE,dating%20services%20operating%20in%20Australia.), a voluntary and collaborative industry code of practice which is designed to reduce the risk of online enabled harm to dating service users in Australia. TMG currently has a Tier 2 Code rating. We are fully committed to adhering to the principles outlined in this Code, ensuring transparency and ease of reporting. By complying with the Code, TMG aims to help keep our community safe and prosperous for all members. We have an easy-to-use reporting mechanism of any instances of online enabled harm by other members that violate TMG’s Terms of Service, including but not limited to, instances of harassment, assault, sexual abuse, criminal or sex offender records, and threats against our members or others. If you would like to report a violation by a TMG member, you can now submit your report as follows:
+
+#### Process for reporting a member on the mobile app
+
+1. Tap the "..." in the upper right corner of the member's profile
+2. Select the appropriate report category
+3. Provide supporting details
+4. Tap "Send" in the upper right corner
+5. Report is queued up for review by a moderator
+
+#### Process for reporting a member on the website
+
+1. Click the "Report Abuse" button on the left side of the member's profile
+2. Select the appropriate report category
+3. Indicate where the behavior that led to the report was observed
+4. Provide supporting details
+5. Click "submit"
+6. Report is queued up for review by a moderator, and reporting member is proactively given the option to block the reported member
+
+#### Process for reporting a Live Video streamer
+
+1. While viewing a live stream, tap"!" icon at top of screen
+2. Select appropriate report category
+3. Add supporting details or attachments
+4. Tap "Submit Report"
+5. Reported user is added to the reporting user's block list, and the report is queued up for review by a moderator
+
+#### Process for reporting a Live Video commenter
+
+1. While viewing a live stream, tap commenter's display name to view mini-profile
+2. Tap "Report" button in upper left corner
+3. Report is queued up for review by a moderator
+
+Our team will carefully and promptly review each report and take appropriate action to keep our platform safe. To the extent possible, we will notify you of the action(s) we take in response to your report. Please review the Terms of Service and [Content and Conduct](https://terms.hi5.com/content-and-conduct) policy to learn more about our policies and practices. TMG appreciates your cooperation in helping us protect the community and improve our services.
+
+**13\. Your legal rights**
 
 You are entitled for the Service to be as described, fit for purpose and of satisfactory quality. If you purchase a Premium Membership and the content that we provide to you is faulty, you are entitled to a repair or replacement; or, if the fault cannot be fixed, or if it cannot be fixed in a reasonable time and without significant inconvenience, you may be entitled to a full or partial refund. If you can show that the fault has damaged your device and we have not used reasonable care and skill, you may be entitled to a repair or compensation.
 
-**13\. Miscellaneous**
+**14\. Miscellaneous**
 
-13.1. We may use third-party service providers and agents, including entities belonging to our group, to help us provide the Service to you.
+14.1. We may use third-party service providers and agents, including entities belonging to our group, to help us provide the Service to you.
 
-13.2. Should any provision of the Subscription Terms be or become invalid, or should they be incomplete, it shall not affect the validity of the remaining content of the Subscription Terms.
+14.2. Should any provision of the Subscription Terms be or become invalid, or should they be incomplete, it shall not affect the validity of the remaining content of the Subscription Terms.
 
-13.3. The contractual language and the language of the Subscription Terms is English.
+14.3. The contractual language and the language of the Subscription Terms is English.
 
-13.4. We will not automatically store a copy of your Subscription Terms. As such, you should save a copy on your computer, or otherwise store a copy of your Subscription Terms at the time your contract is concluded.
+14.4. We will not automatically store a copy of your Subscription Terms. As such, you should save a copy on your computer, or otherwise store a copy of your Subscription Terms at the time your contract is concluded.
 
-13.5. You may not assign or sub-contract any of your rights or obligations under the Subscription Terms to any third party unless we agree in writing.
+14.5. You may not assign or sub-contract any of your rights or obligations under the Subscription Terms to any third party unless we agree in writing.
 
-13.6. We may assign, transfer or sub-contract any of our rights or obligations under the Subscription Terms to any third party at our discretion. However, where we have engaged a third party to perform part of the contract with you, we remain liable towards you for the full performance of our agreement and also for the performance by the third party.
+14.6. We may assign, transfer or sub-contract any of our rights or obligations under the Subscription Terms to any third party at our discretion. However, where we have engaged a third party to perform part of the contract with you, we remain liable towards you for the full performance of our agreement and also for the performance by the third party.
 
-13.7. Our subsidiaries and group companies are third party beneficiaries of these Terms of Service. You, TMG and our subsidiaries and group companies may enforce the Subscription Terms in accordance with the Contracts (Rights of Third Parties) Act 1999. Apart from this (but subject to Clauses 14 and 15 below), no other person has rights under the Contract (Rights of Third Parties) Act 1999 to enforce the Subscription Terms.
+14.7. Our subsidiaries and group companies are third party beneficiaries of these Terms of Service. You, TMG and our subsidiaries and group companies may enforce the Subscription Terms in accordance with the Contracts (Rights of Third Parties) Act 1999. Apart from this (but subject to Clauses 15 and 16 below), no other person has rights under the Contract (Rights of Third Parties) Act 1999 to enforce the Subscription Terms.
 
-**14\. Additional Terms which apply if you have downloaded our app from Apple's App Store**
+**15\. Additional Terms which apply if you have downloaded our app from Apple's App Store**
 
-14.1. This section contains additional terms that apply to you if you have downloaded our app from Apple's App Store.
+15.1. This section contains additional terms that apply to you if you have downloaded our app from Apple's App Store.
 
-14.2. With respect to the relationship between us and Apple, the responsibility for our app is allocated as follows:
+15.2. With respect to the relationship between us and Apple, the responsibility for our app is allocated as follows:
 
 * These Terms of Service are between you and us. These Terms of Service are not between you and Apple.
     
@@ -470,26 +544,26 @@ You are entitled for the Service to be as described, fit for purpose and of sati
 * If a third party claims that our app, or your use or possession of our app, infringes that third party's intellectual property rights, we, not Apple, will be solely responsible for the investigation, defence, settlement, and/or discharge of any such claim.
     
 
-14.3. If you downloaded our app from Apple's App Store, you also confirm that:
+15.3. If you downloaded our app from Apple's App Store, you also confirm that:
 
 * you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a "terrorist supporting" country; and
     
 * you are not listed on any U.S. Government list of prohibited or restricted parties.
     
 
-14.4. You must comply with any applicable third party terms when using our app (for example, you must not be in violation of your wireless data service terms when using our app).
+15.4. You must comply with any applicable third party terms when using our app (for example, you must not be in violation of your wireless data service terms when using our app).
 
-14.5. You must use our app in accordance with the Usage Rules in the current Apple's App Store Terms of Service available [here](https://www.apple.com/legal/internet-services/itunes/uk/terms.html).
+15.5. You must use our app in accordance with the Usage Rules in the current Apple's App Store Terms of Service available [here](https://www.apple.com/legal/internet-services/itunes/uk/terms.html).
 
-14.6. You will only use our app on an Apple-branded device.
+15.6. You will only use our app on an Apple-branded device.
 
-14.7. Apple and Apple's subsidiaries are third party beneficiaries of these Terms of Service. Apple and its subsidiaries may enforce these Terms of Service in accordance with the Contracts (Rights of Third Parties) Act 1999. There is no requirement to obtain consent from Apple, any Apple subsidiary or any other person who is not a party to these Terms of Service in order to rescind, vary, suspend, enforce or terminate these Terms of Service, or to assign or transfer any rights or obligations, or to grant any waiver under these Terms of Service.
+15.7. Apple and Apple's subsidiaries are third party beneficiaries of these Terms of Service. Apple and its subsidiaries may enforce these Terms of Service in accordance with the Contracts (Rights of Third Parties) Act 1999. There is no requirement to obtain consent from Apple, any Apple subsidiary or any other person who is not a party to these Terms of Service in order to rescind, vary, suspend, enforce or terminate these Terms of Service, or to assign or transfer any rights or obligations, or to grant any waiver under these Terms of Service.
 
-**15\. Additional Terms which apply if you have downloaded our app from GooglePlay**
+**16\. Additional Terms which apply if you have downloaded our app from GooglePlay**
 
-15.1. This section contains additional terms that apply to you if you have downloaded our app from GooglePlay.
+16.1. This section contains additional terms that apply to you if you have downloaded our app from GooglePlay.
 
-15.2. With respect to the relationship between us and Google, the responsibility for our app is allocated as follows:
+16.2. With respect to the relationship between us and Google, the responsibility for our app is allocated as follows:
 
 * These Terms of Service are between you and us. These Terms of Service are not between you and Google.
     
@@ -498,17 +572,17 @@ You are entitled for the Service to be as described, fit for purpose and of sati
 * You should contact us, not Google, if you have any problems when using our app, or if you want to let us know about any errors or performance issues with our app.
     
 
-15.3. If you have downloaded our app from GooglePlay, you must also use our app in accordance with the current Android Market Terms of Service available [here](https://www.google.com/intl/en_gb/mobile/android/market-tos.html).
+16.3. If you have downloaded our app from GooglePlay, you must also use our app in accordance with the current Android Market Terms of Service available [here](https://www.google.com/intl/en_gb/mobile/android/market-tos.html).
 
-15.4. Google is a third-party beneficiary of these Terms. Google may enforce these Terms of Service in accordance with the Contracts (Rights of Third Parties) Act 1999.
+16.4. Google is a third-party beneficiary of these Terms. Google may enforce these Terms of Service in accordance with the Contracts (Rights of Third Parties) Act 1999.
 
-**16\. Pets Terms of Service**
+**17\. Pets Terms of Service**
 
-16.1. As a member you have the option to participate in the Pets game, a feature on our Services that allows you to "buy", "sell", and "trade" virtual "Pets" and meet new people while doing it. You can compete with other members to see who can collect the most Pets and whose profile is the most "valuable".
+17.1. As a member you have the option to participate in the Pets game, a feature on our Services that allows you to "buy", "sell", and "trade" virtual "Pets" and meet new people while doing it. You can compete with other members to see who can collect the most Pets and whose profile is the most "valuable".
 
-16.2. By accessing the Pets feature and accepting these terms, you understand and agree to participation in the Pets Game included with the Service. You understand and agree that the Pets Game enables other members to have access to your profile descriptions and likenesses, and those members may utilize those description and likenesses in various ways. This use may include designating you and other members as "pets" which members may "own," and "selling" (for Virtual Goods) such "pets" to other members. We may indicate a "value" associated with each pet, based on criteria established by us, which may include the number and frequency of "sales" involving that pet. The value assigned to each pet may fluctuate over time. The company may publish rankings and other data that include references to or calculations of the value of the pets owned by members. By becoming a member, you irrevocably permit, authorize, grant, and license us and our affiliates, successors, and assigns, to use, and to permit others, including other members, to use, your image, likeness, appearance, profile information, or other personal characteristics in connection with the operation of the Pets Game or other operations of the Service, in perpetuity, without further consent from you, and without royalty, payment, or other compensation.
+17.2. By accessing the Pets feature and accepting these terms, you understand and agree to participation in the Pets Game included with the Service. You understand and agree that the Pets Game enables other members to have access to your profile descriptions and likenesses, and those members may utilize those description and likenesses in various ways. This use may include designating you and other members as "pets" which members may "own," and "selling" (for Virtual Goods) such "pets" to other members. We may indicate a "value" associated with each pet, based on criteria established by us, which may include the number and frequency of "sales" involving that pet. The value assigned to each pet may fluctuate over time. The company may publish rankings and other data that include references to or calculations of the value of the pets owned by members. By becoming a member, you irrevocably permit, authorize, grant, and license us and our affiliates, successors, and assigns, to use, and to permit others, including other members, to use, your image, likeness, appearance, profile information, or other personal characteristics in connection with the operation of the Pets Game or other operations of the Service, in perpetuity, without further consent from you, and without royalty, payment, or other compensation.
 
-**17\. Contact Us**
+**18\. Contact Us**
 
 The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, USA represented by its Board of Directors, is responsible for the content of the Tagged Service. You can contact us using the following contact details:
 
@@ -564,7 +638,7 @@ Date
 Términos de Uso para usuarios con residencia en el Espacio Económico Europeo o en el Reino Unido
 ================================================================================================
 
-Actualizado a partir del July 23, 2024
+Actualizado a partir del March 26, 2025
 
 **Los siguientes Términos de Uso para usuarios con residencia en el Espacio Económico Europeo o en el Reino Unido ("Términos de Uso") establecen la relación contractual entre The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, EE. UU. ("TMG", "nosotros", "nuestro", "nos") y sus clientes ("tú") cuando te suscribes y utilizas los servicios gratuitos y de pago de Tagged y/o Hi5 (colectivamente, los "Servicios"), ya sea a través de un dispositivo móvil, una aplicación móvil (nuestra app) o una computadora.**
 
@@ -931,7 +1005,7 @@ Citas
 Condições de serviço para utilizadores com residência no Espaço Económico Europeu ou no Reino Unido
 ===================================================================================================
 
-Atualizado em July 23, 2024
+Atualizado em March 26, 2025
 
 **As condições de serviço, a seguir, destinam-se a utilizadores que residam no Espaço Económico Europeu ou no Reino Unido ("Condições de Serviço") e estabelecem a relação contratual entre o The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, USA ("TMG", "nós", "o nosso") e os seus clientes ("o utilizador") quando subscreve e utilizar os serviços gratuitos e pagos da Tagged e/ou da Hi5 (coletivamente, os "serviços"), seja através de um dispositivo móvel, aplicação móvel (ou app) ou computador.**
 
@@ -1298,7 +1372,7 @@ Encontro
 Nutzungsbedingungen für Benutzer mit Wohnsitz im Europäischen Wirtschaftsraum oder im Vereinigten Königreich
 ============================================================================================================
 
-Stand: July 23, 2024
+Stand: March 26, 2025
 
 **Die nachstehenden Nutzungsbedingungen für Benutzer mit Wohnsitz im Europäischen Wirtschaftsraum bzw. im Vereinigten Königreich („Nutzungsbedingungen“) regeln das Vertragsverhältnis zwischen The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, USA („TMG“, „uns“, „unser“, „wir“ in allen gebeugten Formen), und ihren Kunden („Sie“ in allen gebeugten Formen) bei der Anmeldung für und Nutzung der kostenlosen und kostenpflichtigen Dienste von Tagged und/oder Hi5 (zusammen die „Dienste“), sei es über ein Mobilgerät, eine Mobilanwendung (unsere App) oder einen Computer.**
 
@@ -1663,7 +1737,7 @@ Date
 Conditions générales d'utilisation applicables aux utilisateurs résidant dans l'Espace économique européen ou au Royaume-Uni
 ============================================================================================================================
 
-Document mis à jour le July 23, 2024
+Document mis à jour le March 26, 2025
 
 **Les Conditions générales d'utilisation applicables aux utilisateurs résidant dans l'Espace économique européen ou au Royaume-Uni qui suivent (« Conditions générales d'utilisation ») régissent les relations contractuelles entre The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, USA (« TMG », « nous », « notre » ou « nos ») et ses clients (« Vous ») lorsque vous vous abonnez et utilisez les services gratuits et payants de Tagged et/ou Hi5 (collectivement, les « Services »), que ce soit sur un appareil mobile, à l'aide de l'application mobile (notre appli) ou d'un ordinateur.**
 
@@ -2030,7 +2104,7 @@ Date
 Warunki korzystania z usługi dla użytkowników mających miejsce zamieszkania w Europejskim Obszarze Gospodarczym lub Wielkiej Brytanii
 =====================================================================================================================================
 
-Aktualizacja na dzień July 23, 2024
+Aktualizacja na dzień March 26, 2025
 
 **Poniższe Warunki korzystania z usługi dla użytkowników mających miejsce zamieszkania w Europejskim Obszarze Gospodarczym lub Wielkiej Brytanii („Warunki korzystania z usługi”) określają stosunek umowny między firmą The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, USA („TMG”, „nam”, „nasz” i „my” we wszystkich formach gramatycznych) i jej klientami („użytkownik”), gdy użytkownik subskrybuje bezpłatne i płatne usługi Tagged i/lub Hi5 (zwanych łącznie „Usługami”) oraz z nich korzysta za pośrednictwem urządzenia mobilnego, aplikacji mobilnej (naszej aplikacji) lub komputera.**
 
@@ -2397,7 +2471,7 @@ Data
 Servicevoorwaarden voor gebruikers die in de Europese Economische Ruimte of het Verenigd Koninkrijk wonen
 =========================================================================================================
 
-Bijgewerkt op July 23, 2024
+Bijgewerkt op March 26, 2025
 
 **In de volgende Servicevoorwaarden voor gebruikers die in de Europese Economische Ruimte of het Verenigd Koninkrijk wonen ('Servicevoorwaarden') wordt de contractuele relatie tussen The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, VS ('TMG', 'ons', 'onze', 'wij', 'we') en zijn klanten ('je', 'jij') uiteengezet wanneer je je abonneert op en gebruik maakt van de gratis en betaalde diensten van Tagged en/of Hi5 (gezamenlijk de 'Diensten'), of dit nu via een mobiel toestel, een mobiele toepassing (onze app) of een computer is.**
 
@@ -2764,7 +2838,7 @@ Date
 Az Európai Gazdasági Térségben vagy az Egyesült Királyságban lakóhellyel rendelkező felhasználókra vonatkozó Szolgáltatási feltételek
 =====================================================================================================================================
 
-Frissítve: July 23, 2024
+Frissítve: March 26, 2025
 
 **Az alábbi, az Európai Gazdasági Térségben vagy az Egyesült Királyságban lakóhellyel rendelkező felhasználókra vonatkozó Szolgáltatási feltételek ("Szolgáltatási feltételek") a The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, USA ("TMG", "mi", "miénk", "mi") és ügyfelei ("Ön") közötti szerződéses kapcsolatot szabályozzák, amikor Ön előfizet a Tagged és/vagy a Hi5 (együttesen a „Szolgáltatások”) ingyenes és fizetős szolgáltatásaira, és azokat akár mobileszközön, mobilalkalmazáson (alkalmazásunkon), akár számítógépen használja.**
 
@@ -3131,7 +3205,7 @@ Dátum
 Termeni de utilizare a serviciului pentru utilizatorii cu reședința în Spațiul Economic European sau în Regatul Unit
 ====================================================================================================================
 
-Actualizat la data de July 23, 2024
+Actualizat la data de March 26, 2025
 
 **Următorii Termeni de utilizare a serviciului pentru utilizatorii cu reședința în Spațiul Economic European sau Regatul Unit („Termenii de utilizare a serviciului”) stabilesc relația contractuală dintre The Meet Group, Inc., 100 Union Square Drive, New Hope, PA 18938, SUA („TMG”, „nouă”, „nostru”, „noi”) și clienții săi („dvs.”) atunci când vă abonați și utilizați serviciile gratuite și contra cost ale Tagged și/ sau Hi5 (colectiv, „serviciile”), fie printr-un dispozitiv mobil, aplicație mobilă (aplicația noastră) sau computer.**
 
