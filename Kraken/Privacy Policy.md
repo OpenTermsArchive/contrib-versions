@@ -1,4 +1,4 @@
-_Last Updated: 5 March 2025_
+_Last Updated: 26 March 2025_
 
 For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/legal/privacy/us-notice).  
  
@@ -30,7 +30,7 @@ The following terms are defined as follows:
 
 Our products and services are provided through local operating entities that are part of the Kraken group of companies.
 
-You are contracting with Kraken as specified in our [Terms of Service](https://www.kraken.com/legal). The company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal data in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws.
+You are contracting with Kraken as specified in our [Terms of Service](https://www.kraken.com/legal) (unless you are contracting for MIFID2 financial instruments, including derivatives, with Payward Europe Digital Solutions (CY) Limited then these [Terms of Service](http://eu.kraken.com/legal/Payward-Europe-Digital-Solutions-CY-Terms-Conditions) apply). The company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal data in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws.
 
 **4\. How do we protect personal data?**
 ----------------------------------------
@@ -133,13 +133,13 @@ The rights that are available to you in relation to the personal data we process
 
 **Access**
 
-You can ask us to confirm whether we are processing your personal data and, if so, what information we process. Should you wish to obtain a copy of that information, please contact [support@kraken.com](mailto:support@kraken.com).
+You can ask us to confirm whether we are processing your personal data and, if so, what information we process. Should you wish to obtain a copy of that information, please submit your request by using our [contact form](https://support.kraken.com/hc/en-us/forms/648008).
 
 **Rectification**
 
 It is important to us that your personal data is up to date. We will take all reasonable steps to make sure that your personal data remains accurate, complete and up-to-date. Please inform us if your personal data changes. If the personal data we hold about you is inaccurate or incomplete, you are entitled to have it rectified. If we have disclosed your personal data to others, we will let them know about the rectification where possible. If you ask us, and if possible and lawful to do so, we will also inform you with whom we have shared your personal data.
 
-You may inform us at any time if your personal details have changed by emailing us at [support@kraken.com](mailto:support@kraken.com). Subject to applicable law, Kraken will update your personal data in accordance with your instructions. To proceed with such requests, in some cases we may need supporting documents from you as proof, i.e. personal data that we are required to keep for regulatory or other legal purposes.
+You may inform us at any time if your personal details have changed by using our [contact form](https://support.kraken.com/hc/en-us/forms/648008). Subject to applicable law, Kraken will update your personal data in accordance with your instructions. To proceed with such requests, in some cases we may need supporting documents from you as proof, i.e. personal data that we are required to keep for regulatory or other legal purposes.
 
 **Erasure**
 
@@ -169,7 +169,7 @@ If we have made a decision about you based solely on an automated process (e.g. 
 
 **Complaints**
 
-You have the right to complain to a competent data protection authority. Contact details are set out in Section 17 below. We ask that you first contact [support@kraken.com](mailto:support@kraken.com) to give us an opportunity to address any concerns. 
+You have the right to complain to a competent data protection authority. Contact details are set out in Section 17 below. We ask that you first reach out, by using our [contact form](https://support.kraken.com/hc/en-us/forms/648008), to give us an opportunity to address any concerns. 
 
 **Withdraw consent**
 
@@ -183,12 +183,12 @@ Our privacy notice is reviewed regularly in light of new regulations, technologi
 **15\. Our products and services are not available to children**
 ----------------------------------------------------------------
 
-Our products and services are not directed to persons under the age of 18 (herein, “Children”, “Child”) and we do not knowingly collect personal data from children. If we learn that we have inadvertently processed personal data from a child, we will take legally permissible measures to remove that data from our records. Kraken will require the child user to close his or her account and will not allow the use of our products and services. If you are a parent or guardian of a child, and you become aware that a child has provided personal data to us, please contact us at [support@kraken.com](mailto:support@kraken.com).
+Our products and services are not directed to persons under the age of 18 (herein, “Children”, “Child”) and we do not knowingly collect personal data from children. If we learn that we have inadvertently processed personal data from a child, we will take legally permissible measures to remove that data from our records. Kraken will require the child user to close his or her account and will not allow the use of our products and services. If you are a parent or guardian of a child, and you become aware that a child has provided personal data to us, please reach out by using our [contact form](https://support.kraken.com/hc/en-us/forms/648008).
 
 **16\. Contact information**
 ----------------------------
 
-Any questions, complaints, comments and requests regarding this privacy notice are welcome and should be addressed to [support@kraken.com](mailto:support@kraken.com). You can also contact our Data Protection Officer at [support@kraken.com](mailto:support@kraken.com). 
+Any questions, complaints, comments and requests regarding this privacy notice are welcome and should be submitted using our [contact form](https://support.kraken.com/hc/en-us/forms/648008). You can also contact our Data Protection Officer by using our [contact form](https://support.kraken.com/hc/en-us/forms/648008). 
 
 **17\. Data Protection Authorities**
 ------------------------------------
@@ -230,6 +230,16 @@ Data Protection Commission
 Dublin 2  
 D02 RD28  
 Ireland
+
+**For clients of Payward Europe Digital Solutions (CY) Limited** (For MIFID2 financial instruments, including derivatives)
+
+The Office of the Commissioner for Data Protection (Cyprus)
+
+Office address:  
+Kypranoros 15, Nicosia 1061, Cyprus
+
+Postal address:  
+P.O.Box 23378, 1682 Nicosia, Cyprus
 
 **For clients of Kraken Futures (Singapore):**
 
