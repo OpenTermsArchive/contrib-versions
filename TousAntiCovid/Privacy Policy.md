@@ -28,7 +28,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -313,7 +313,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -570,7 +570,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -849,7 +849,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -1134,7 +1134,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -1391,7 +1391,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -1642,7 +1642,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -1927,7 +1927,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -2184,7 +2184,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -2372,7 +2372,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -2657,7 +2657,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -2803,7 +2803,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -3088,7 +3088,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -3234,7 +3234,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -3519,7 +3519,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -3665,7 +3665,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -3950,7 +3950,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -4096,7 +4096,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -4381,7 +4381,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -4527,7 +4527,7 @@ Recherche
     
     * * [Un meilleur accès aux soins pour tous sur le territoire](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+            * [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
             * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
             * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
             * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -4812,7 +4812,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -4944,7 +4944,7 @@ Retour
 
 Retour
 
-* [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
+* [Le médicobus : une démarche "d’aller vers" les patients éloignés des soins dans les territoires ruraux](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-medicobus-une-demarche-d-aller-vers-les-patients-eloignes-des-soins-dans-les)
 * [Le recrutement d’assistants médicaux pour libérer du temps médical](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/article/le-recrutement-d-assistants-medicaux-pour-liberer-du-temps-medical)
 * [Le service d’accès aux soins (SAS)](https://sante.gouv.fr/systeme-de-sante/segur-de-la-sante/le-service-d-acces-aux-soins-sas/)
 * [Les maisons de santé](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/article/les-maisons-de-sante-300889)
@@ -5084,7 +5084,7 @@ Retour
 * [Risques sanitaires liés au froid](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/risques-sanitaires-lies-au-froid)
 * [Changement climatique et santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/changement-climatique-et-sante)
 
-* [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+* [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
 * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
 * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
 * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -5296,7 +5296,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -5551,7 +5551,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -5806,7 +5806,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -6061,7 +6061,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -6316,7 +6316,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -6571,7 +6571,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -6826,7 +6826,7 @@ Recherche
             
         * [Les plans nationaux santé-environnement](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/)
             
-            * [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+            * [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
             * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
             * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
             * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
@@ -7033,7 +7033,7 @@ Retour
 * [Risques sanitaires liés au froid](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/risques-sanitaires-lies-au-froid)
 * [Changement climatique et santé](https://sante.gouv.fr/sante-et-environnement/risques-climatiques/article/changement-climatique-et-sante)
 
-* [\_navigation\_>\_click', 'actionpname', 'heading\_hierarchy', 'actionpvalue', 'page\_top\_>\_site\_navigation' \])"> Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
+* [Plan National Santé-Environnement 4 (PNSE 4) : "un environnement, une santé" (2021-2025)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-national-sante-environnement-4-pnse-4-un-environnement-une-sante-2021-2025)
 * [Plan Ecophyto 2+](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-ecophyto-2)
 * [Le plan chlordécone IV (2021-2027)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/le-plan-chlordecone-iv-2021-2027)
 * [Plan d’action interministériel amiante (PAIA)](https://sante.gouv.fr/sante-et-environnement/les-plans-nationaux-sante-environnement/article/plan-d-action-interministeriel-amiante-paia)
