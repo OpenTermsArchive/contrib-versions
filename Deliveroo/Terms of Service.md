@@ -168,9 +168,9 @@ These content standards apply to any and all material which you contribute to ou
 
 If you become aware of Contributions on the platform that you believe to be illegal or otherwise incompatible with these Terms of Use, you can submit a notice via the process set out in the Deliveroo User Review and Contribution Terms.
 
-If you become aware of any other content on the platform that you believe to be illegal or otherwise incompatible with these Terms of Use (for example, menu items and intellectual property infringement) (“**Alleged Illegal Items**”), you can submit a notice to [support@deliveroo.co.uk](mailto:support@deliveroo.co.uk), or via the Webform which can be accessed via the Contact Us option at [https://deliveroo.ie/contact (“**Illegal Content Notice**”).](https://deliveroo.ie/contact)
+If you become aware of any other content on the platform that you believe to be illegal or otherwise incompatible with these Terms of Use (for example, menu items and intellectual property infringement) (“**Alleged Illegal Items**”), you can submit a notice via the Webform which can be accessed via the Contact Us option at [https://deliveroo.ie/contact (“**Illegal Content Notice**”).](https://deliveroo.ie/contact)
 
-We will review your [Illegal Content Notice](https://deliveroo.ie/contact) and advise you of our decision and any action we propose to take as a result of our decision. If you are not satisfied with the decision we make regarding your notice, you can lodge a complaint for up to six months by contacting the email appeals@deliveroo.ie. 
+We will review your [Illegal Content Notice](https://deliveroo.ie/contact) and advise you of our decision and any action we propose to take as a result of our decision, including how to lodge a complaint if you are dissatisfied with our decision.
 
 Section 6 below will apply to any complainants who frequently submit Illegal Content Notices that are manifestly unfounded.
 
@@ -685,7 +685,7 @@ We will review your notification or complaint promptly and advise you of our dec
 
 **7\. Termination**
 
-We reserve the right to suspend or terminate your account if we determine that the account or your Review or User Contribution violates these User Review and Contribution Terms.
+We reserve the right to suspend or terminate your account if we determine that the account or your Review or User Contribution violates these User Review and Contribution Terms, or if you frequently submit illegal content notices that are manifestly unfounded, by any means.
 
 **8\. Submissions**
 
