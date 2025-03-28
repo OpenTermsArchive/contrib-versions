@@ -17,18 +17,11 @@ In case you provide us with the personal data of third persons (such as family m
 
 For any matters, relating to data protection you may contact [notices@ethereum.org(opens in a new tab)](mailto:notices@ethereum.org) in writing by e-mail or letter to the following address:
 
-    Ethereum Foundation
-    Zeughausgasse 7A,
-    6302 Zug, Switzerland
-    Email: notices@ethereum.org
-    
+Ethereum Foundation Zeughausgasse 7A, 6302 Zug, Switzerland Email: [notices@ethereum.org(opens in a new tab)](mailto:notices@ethereum.org)
 
 Our representative in the EU according to article 27 GDPR is:
 
-    Ethereum Dev GmbH
-    Oranienstrasse 6, 10997 Berlin
-    Email: notices@ethereum.org
-    
+Ethereum Dev GmbH Oranienstrasse 6, 10997 Berlin Email: [notices@ethereum.org(opens in a new tab)](mailto:notices@ethereum.org)
 
 **3\. Data processing in connection with the Websites**
 
