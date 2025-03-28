@@ -3,7 +3,7 @@ And now, we’ve evolved into a tool that empowers users to connect with confide
 When we talk about Bumble Group, we refer to Bumble Holding Limited, Badoo Trading Limited and Bumble Trading LLC (also known simply as “Bumble”, “we”, “us”, or “our” in this policy). This Policy explains how we process your personal information. It applies any time you’re using the Bumble mobile application or desktop version (“App”), and to your use of our “Sites”, which includes our websites like [Bumble.com](https://bumble.com/), microsites, and other digital products and services, like our competitions or surveys. We also suggest you read our [Terms and Conditions of Use](https://bumble.com/terms).
 
 Have any questions about this Policy?  
-Just [Contact Us](#contact-us) and we’ll be happy to help.
+Just [Contact Us](#contact-us--our-contact-information) and we’ll be happy to help.
 
 Here at Bumble, we pride ourselves on taking all appropriate and reasonable security measures to:
 
@@ -37,11 +37,11 @@ This means we might ask for your phone number and, in some cases, ask that you c
 
 You can also choose to (i) verify your photo voluntarily, which will allow you to add a grey “verified” badge to your profile, and (ii) verify your identity with your ID document, which will allow you to add a blue “verified” badge to your profile. If you choose to verify your profile photo, we will scan each photo that you submit. This scan can include the use of facial recognition technology to compare the submitted photo(s) to your profile photo, which helps us make sure you are who you say you are. If you choose to also verify your ID, our third party partner called Veriff will carry out the ID check on our behalf. Veriff will compare a selfie you take to your ID document. This scan can include the use of facial recognition technology, but you also have the option to request a manual review if you do not want facial recognition technology to be used.
 
-When you choose to verify your photo, we do not add verification photos to your profile, but we do keep the scans to verify you in the future and for our records. We will only keep the scans as long as we need them for these purposes, but never longer than 3 years after your last interaction with us. Once we no longer need the scans or the 3 years have passed, we will take reasonable business steps to permanently and securely delete the scans from our systems. When you choose to also verify your ID, your selfie and your ID are compared by our third party partner, Veriff. Veriff will retain your selfie and the picture of your ID for up to 72 hours. You can read more about Veriff’s privacy practices <a href="">here</a>.
+When you choose to verify your photo, we do not add verification photos to your profile, but we do keep the scans to verify you in the future and for our records. We will only keep the scans as long as we need them for these purposes, but never longer than 3 years after your last interaction with us. Once we no longer need the scans or the 3 years have passed, we will take reasonable business steps to permanently and securely delete the scans from our systems. When you choose to also verify your ID, your selfie and your ID are compared by our third party partner, Veriff. Veriff will retain your selfie and the picture of your ID for up to 72 hours. You can read more about Veriff’s privacy practices [here](https://www.veriff.com/privacy-notice).
 
 If you decide to purchase any of our premium services, we will process your payment information and securely keep it for audit/tax purposes and to prevent fraud.
 
-To prevent fraudulent payments from being processed, we use automated decisions and our systems check payment information and transactions for behaviour that might violate our [Terms and Conditions of Use](https://bumble.com/terms). We may automatically block any transaction that is likely to be fraudulent and meets the relevant criteria suggesting a violation. If a transaction is blocked, the relevant person will be notified that their transaction cannot be processed and can [contact us](#contact-us) to contest the decision.
+To prevent fraudulent payments from being processed, we use automated decisions and our systems check payment information and transactions for behaviour that might violate our [Terms and Conditions of Use](https://bumble.com/terms). We may automatically block any transaction that is likely to be fraudulent and meets the relevant criteria suggesting a violation. If a transaction is blocked, the relevant person will be notified that their transaction cannot be processed and can [contact us](#contact-us--our-contact-information) to contest the decision.
 
 You can always turn off geolocation if you ever change your mind about giving Bumble access to your location by:
 
@@ -109,7 +109,7 @@ Safety on our App and Sites is very important to us, so we take steps to make su
 We will issue a warning to the relevant account if any account or message meets the relevant criteria suggesting a likely violation. We can also restrict or block the relevant user’s access, who can contact Bumble to contest the decision.
 
 If the legal basis is consent, you can withdraw your consent at any time. If the legal basis is legitimate interests, you have a right to object to how we use that information.  
-How? Just [contact us](#contact-us) or follow the instructions provided in the relevant sections of this Policy.
+How? Just [contact us](#contact-us--our-contact-information) or follow the instructions provided in the relevant sections of this Policy.
 
 According to European Union (“EU”) and United Kingdom (“UK”) data protection laws, processing personal information must always have a specific lawful basis – meaning there must always be a legal reason, which is defined by the GDPR and other relevant laws. Here you will find the legal basis for all of the personal information we collect, use, and process.
 
@@ -194,7 +194,7 @@ Here at Bumble, we pride ourselves on taking all appropriate and reasonable secu
 * help protect your information against loss, misuse, and unauthorised access or sharing
 * protect the confidentiality of your personal information, such as by using secured servers with firewalls
 
-If you want to learn more or exercise your rights, just visit our [Feedback Page](https://bumble.com/contact-us), email our Data Protection Officer at [DPO@bumble.com](mailto:DPO@bumble.com), or [contact us](#contact-us). To protect you and everyone on the App and Sites, we might need to ask you for specific information to help us confirm your identity before we answer your request.
+If you want to learn more or exercise your rights, just visit our [Feedback Page](https://bumble.com/contact-us), email our Data Protection Officer at [DPO@bumble.com](mailto:DPO@bumble.com), or [contact us](#contact-us--our-contact-information). To protect you and everyone on the App and Sites, we might need to ask you for specific information to help us confirm your identity before we answer your request.
 
 If yes, there’s a bit more information you need to know. In addition to the rights we just described, people living in California have the following rights under the California Consumer Privacy Act (“CCPA”):
 
