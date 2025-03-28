@@ -72,6 +72,27 @@ Please note Canonical will not provide legal advice. For other queries, please c
 
 [Back to top](#)
 
+On this page
+------------
+
+### Want a fully managed private cloud?
+
+Canonical provides a managed services option for OpenStack. Our experts take responsibility for the design, deployment and operations.
+
+[Learn more ›](https://ubuntu.com/openstack/managed)
+
+[Contact us](https://ubuntu.com/openstack/managed#get-in-touch)
+
+### Get Ubuntu
+
+The open source software platform that runs everywhere from the smartphone, the tablet and the PC to the server and the cloud.
+
+[Download Ubuntu ›](https://ubuntu.com/download)
+
+### Further reading
+
+* _Loading..._
+
 ### Want a fully managed private cloud?
 
 Canonical provides a managed services option for OpenStack. Our experts take responsibility for the design, deployment and operations.
