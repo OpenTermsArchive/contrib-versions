@@ -1,5 +1,7 @@
-Solana Privacy Policy
-=====================
+Optional Eyebrow
+
+Powerful for developers. Fast for everyone.
+===========================================
 
 Last modified date: October 11, 2023
 
@@ -72,7 +74,7 @@ We use the information we collect to:
 
 We share personal information in the following circumstances or as otherwise described in this policy:
 
-* We share personal information with vendors, service providers, and consultants that need access to personal information in order to perform services for us, such as companies that assist us with web hosting, shipping and delivery, payment processing, fraud prevention, customer service, and marketing and advertising.
+* We share personal information with vendors, service providers, and consultants that need access to personal information in order to perform services for us, such as companies that assist us with web hosting, shipping and delivery, payment processing, fraud prevention, customer service, data analytics and marketing and advertising.
 * We may disclose personal information if we believe that disclosure is in accordance with, or required by, any applicable law or legal process, including lawful requests by public authorities to meet national security or law enforcement requirements.
 * We may share personal information if we believe that your actions are inconsistent with our user agreements or policies, if we believe that you have violated the law, or if we believe it is necessary to protect the rights, property, and safety of Solana, our users, the public, or others.
 * We share personal information with our lawyers and other professional advisors where necessary to obtain advice or otherwise protect and manage our business interests.
