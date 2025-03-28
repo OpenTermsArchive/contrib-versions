@@ -1,7 +1,7 @@
 Conditions of Use & Sale
 ========================
 
-_Last updated on 9 August, 2024._
+_Last updated on 28 March, 2025._
 
 Find the previous iteration of the Conditions of Use & Sale on click [Previous versions of Legal policies](https://www.amazon.co.uk/gp/help/customer/display.html/?nodeId=GYT8SUSD2E9EWE8Q). This version of the Conditions of Use & Sale applies to all orders which were placed on or after the last update date indicated above. For orders placed before this date, please access previous versions of the Conditions of Use & Sale and select the version that applied at the time of your order.
 
@@ -117,7 +117,7 @@ Nothing in these conditions limits or excludes our responsibility for fraudulent
 13\. APPLICABLE LAW
 -------------------
 
-These conditions are governed by and construed in accordance with the laws of the Grand Duchy of Luxembourg, and the application of the United Nations Convention of Contracts for the International Sale of Goods is expressly excluded. If you are a consumer and have your habitual residence in the EU or the UK, you additionally enjoy the protection afforded to you by mandatory provisions of the law of your country of residence. We both agree to submit to the non-exclusive jurisdiction of the courts of the district of Luxembourg City, which means that you may bring a claim to enforce your consumer protection rights in connection with these Conditions of Use in Luxembourg or in the EU country in which you live. If you reside in the EU, the European Commission provides for an online dispute resolution platform, which you can access here: [https://ec.europa.eu/consumers/odr](https://ec.europa.eu/consumers/odr). If you would like to bring a matter to our attention, please [contact us](https://www.amazon.co.uk/contactus).
+These conditions are governed by and construed in accordance with the laws of the Grand Duchy of Luxembourg, and the application of the United Nations Convention of Contracts for the International Sale of Goods is expressly excluded. If you are a consumer and have your habitual residence in the EU or the UK, you additionally enjoy the protection afforded to you by mandatory provisions of the law of your country of residence. We both agree to submit to the non-exclusive jurisdiction of the courts of the district of Luxembourg City, which means that you may bring a claim to enforce your consumer protection rights in connection with these Conditions of Use in Luxembourg or in the EU country in which you live. If you would like to bring a matter to our attention, please [contact us](https://www.amazon.co.uk/contactus).
 
 14\. EXPORT CONTROLS
 --------------------
