@@ -11,8 +11,8 @@ These terms of use are entered into by and between you and Stiftung Ethereum (th
 
 Please read the Terms of Use carefully before you start to use the Websites. By using the Websites or by clicking to accept or agree to the Terms of Use when this option is made available to you, you accept and agree to be bound and abide by these Terms of Use in addition to:
 
-* our [Privacy Policy](https://ethereum.org/en/privacy-policy), incorporated herein by reference; and
-* our [Cookie Policy](https://ethereum.org/en/cookie-policy), incorporated herein by reference.
+* our [Privacy Policy](https://ethereum.org/en/privacy-policy/), incorporated herein by reference; and
+* our [Cookie Policy](https://ethereum.org/en/cookie-policy/), incorporated herein by reference.
 
 If you do not agree to these Terms of Use, you must not access or use the Websites.
 
@@ -83,7 +83,7 @@ We may update the content on the Websites from time to time, but its content is 
 
 **Information About You and Your Visits to the Websites**
 
-All information we collect on the Websites is subject to our [Privacy Policy](https://ethereum.org/en/privacy-policy). By using the Websites, you consent to all actions that may be taken by us with respect to your information in compliance with the Privacy Policy.
+All information we collect on the Websites is subject to our [Privacy Policy](https://ethereum.org/en/privacy-policy/). By using the Websites, you consent to all actions that may be taken by us with respect to your information in compliance with the Privacy Policy.
 
 **Online Purchases and Other Terms and Conditions**
 
