@@ -12,15 +12,15 @@ LAST UPDATED: December 5, 2024
 
 This Privacy Notice applies to all the products, services, websites and apps offered by SurveyMonkey Inc., SurveyMonkey Europe UC, SurveyMonkey Brasil Internet Ltda., SurveyMonkey Netherlands B.V., and other SurveyMonkey affiliates (collectively “SurveyMonkey”), except where otherwise noted. The services include SurveyMonkey, SurveyMonkey Apply, SurveyMonkey Audience, SurveyMonkey Rewards, SurveyMonkey Contribute, Wufoo, GetFeedback Direct, and GetFeedback Digital. We refer to those products, services, websites, and apps collectively as the “services” in this Privacy Notice. Unless otherwise noted in your contract, our services are provided by SurveyMonkey Inc. inside of the United States, by SurveyMonkey Brasil Internet Ltda. inside of Brazil, and by SurveyMonkey Europe UC everywhere else.
 
-US residents: Please visit our [Region Specific Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/?ut_source=legal&ut_source2=privacy&ut_source3=inline) for more information on our privacy practices specific to individual states. 
+US residents: Please visit our [Region Specific Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline) for more information on our privacy practices specific to individual states. 
 
-This Privacy Notice does not apply to personal information we collect from our employees or job applicants in their capacity as employees or candidates. Employees and candidates should refer to our Employee Privacy Notice or [Candidate Privacy Notice](https://www.surveymonkey.com/mp/legal/candidate-privacy-notice/), respectively.
+This Privacy Notice does not apply to personal information we collect from our employees or job applicants in their capacity as employees or candidates. Employees and candidates should refer to our Employee Privacy Notice or [Candidate Privacy Notice](https://www.surveymonkey.com/mp/legal/candidate-privacy-notice/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20), respectively.
 
 1.2 **Quick Links**
 
-* If you want to identify your data controller please see the “[Who is my data controller?](https://www.surveymonkey.com/mp/legal/privacy/?ut_source=legal&ut_source2=privacy&ut_source3=inline#who-is-my-data-controller)” section below.
+* If you want to identify your data controller please see the “[Who is my data controller?](https://www.surveymonkey.com/mp/legal/privacy/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline#who-is-my-data-controller)” section below.
 
-* For a quick snapshot of how SurveyMonkey treats personal information see our [Privacy Basics](https://www.surveymonkey.com/mp/legal/privacy-basics/?ut_source=legal&ut_source2=privacy&ut_source3=inline).
+* For a quick snapshot of how SurveyMonkey treats personal information see our [Privacy Basics](https://www.surveymonkey.com/mp/legal/privacy-basics/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline).
 
 2\. Personal Data we collect and the sources
 --------------------------------------------
@@ -35,7 +35,7 @@ We group consumers or businesses into the following categories:
 
 * **Creator**: the business or consumer that holds an account within a SurveyMonkey service that either directly creates surveys, forms, applications, or questionnaires or that can collaborate, commenting, or review surveys, forms, applications, or questionnaires within an account.
 * **Respondent**: the individual that receives a survey, form, application, or questionnaire powered by a SurveyMonkey service.
-* **Panelist**: the individual that uses Contribute or Rewards to take surveys sent by SurveyMonkey on behalf of Creators, or an individual that receives surveys through a third party panel provider. Privacy information specific to panelists can be found in our [Contribute Privacy Notice](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-privacy-notice/), [Rewards Privacy Notice](https://www.surveymonkey.com/rewards/privacy_statement/?ut_source=legal&ut_source2=privacy-information-specific-to-other-services&ut_source3=inline), and [Third Party Panel Privacy Notice](https://www.surveymonkey.com/mp/legal/third-party-panelist-privacy-notice/).
+* **Panelist**: the individual that uses Contribute or Rewards to take surveys sent by SurveyMonkey on behalf of Creators, or an individual that receives surveys through a third party panel provider. Privacy information specific to panelists can be found in our [Contribute Privacy Notice](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-privacy-notice/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20), [Rewards Privacy Notice](https://www.surveymonkey.com/rewards/privacy_statement/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy-information-specific-to-other-services&ut_source3=inline), and [Third Party Panel Privacy Notice](https://www.surveymonkey.com/mp/legal/third-party-panelist-privacy-notice/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20).
 * **Visitor**: you are just visiting one of our websites because you are curious,  have been invited to review a survey as a guest, or you have heard about us from our marketing and sales channels!
 
 ### 2.3 Types of Personal Data We Collect
@@ -46,7 +46,7 @@ You might provide us with your contact information (for example: name or email a
 
 **(b) Cookie information.**
 
-We use first party and third party cookies and tracking services that employ cookies and page tags (also known as [web beacons](https://www.surveymonkey.com/mp/legal/cookies/)) to collect data about visitors to our websites. This data includes usage and user statistics. Emails sent by SurveyMonkey or by users through our services also include page tags that allow the sender to collect information about who opened those emails and clicked on links in them. We provide more information on cookies in our [Cookies Notice.](https://www.surveymonkey.com/mp/legal/cookies/)
+We use first party and third party cookies and tracking services that employ cookies and page tags (also known as [web beacons](https://www.surveymonkey.com/mp/legal/cookies/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20)) to collect data about visitors to our websites. This data includes usage and user statistics. Emails sent by SurveyMonkey or by users through our services also include page tags that allow the sender to collect information about who opened those emails and clicked on links in them. We provide more information on cookies in our [Cookies Notice.](https://www.surveymonkey.com/mp/legal/cookies/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20)
 
 **(c) Customer support information.**
 
@@ -79,7 +79,7 @@ We collect information from third parties with whom SurveyMonkey enables integra
 * **Billing information.**
     * If you make a payment to SurveyMonkey, we require you to provide your billing details, a name, address, email address and financial information corresponding to your selected method of payment (e.g., a credit card number and expiration date or a bank account number). If you provide a billing address, we will regard that as the location of the account holder to determine the SurveyMonkey entity with whom you contract and the sales tax, if applicable, to be applied to your purchase.
 * **Account settings.**
-    * You can set various preferences and personal details on pages like your [account settings page](https://www.surveymonkey.com/user/account/?ut_source=legal&ut_source2=privacy&ut_source3=inline) (or on your account settings page for our other products as applicable). These may include, for example, your default language, time zone and communication preferences (e.g., opting in or out of receiving marketing communications from SurveyMonkey).
+    * You can set various preferences and personal details on pages like your [account settings page](https://www.surveymonkey.com/user/account/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline) (or on your account settings page for our other products as applicable). These may include, for example, your default language, time zone and communication preferences (e.g., opting in or out of receiving marketing communications from SurveyMonkey).
 
 **(j) Address book information.**
 
@@ -117,7 +117,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     * We or third party data and advertising platforms that we work with collect data from and advertising cookies, page tags, mobile identifiers and IP addresses. We use this data to infer users’ common identities across different services and multiple devices. We may do so, for instance, to tailor ads, personalize marketing, to enable us to determine the success of our advertising campaigns and to improve upon them. You can withdraw your consent at any time.
     * These third party data and advertising platforms may sometimes use data that we provide to them in order to improve their technologies and their ability to match common devices to users.
-    * To learn more about interest-based advertising and how to opt-out of it, please see our [Cookies Notice](https://www.surveymonkey.com/mp/legal/cookies/?ut_source=legal&ut_source2=privacy&ut_source3=inline) in Section 6. By clearing your cookies in your browser settings, you will no longer see personalized messages in this way but you continue to see ads over the internet that are not based on the information you provided to SurveyMonkey. Depending on your geographic location you can also withdraw your consent using our in-product cookie management tools.
+    * To learn more about interest-based advertising and how to opt-out of it, please see our [Cookies Notice](https://www.surveymonkey.com/mp/legal/cookies/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline) in Section 6. By clearing your cookies in your browser settings, you will no longer see personalized messages in this way but you continue to see ads over the internet that are not based on the information you provided to SurveyMonkey. Depending on your geographic location you can also withdraw your consent using our in-product cookie management tools.
     
     **(b) Contact information.**
     
@@ -149,7 +149,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     * We collect and use information from third parties and integration partners, where applicable to one of our services, to:
         * Ensure you can sign-up to our service from a third party integration like Facebook/LinkedIn/Microsoft/Google/SSO;
         * Ensure you can use our service in conjunction with other services.
-    * See further information [here](https://www.surveymonkey.com/apps/?ut_source=legal&ut_source2=privacy&ut_source3=inline) on our API partners – for other SurveyMonkey services see below or on the website for that service.
+    * See further information [here](https://www.surveymonkey.com/apps/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline) on our API partners – for other SurveyMonkey services see below or on the website for that service.
     
     **(f) Survey questions and survey responses.**
     
@@ -166,7 +166,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     **(a) Contact information.**
     
-    * Where consent is not required, we use contact information to send you marketing information based on our legitimate interests for as long as you do not opt out. You can opt out of marketing communications at any time by clicking on the “unsubscribe” link in emails or changing the relevant setting on your [My Account](https://www.surveymonkey.com/user/account/?ut_source=legal&ut_source2=privacy&ut_source3=inline) page.
+    * Where consent is not required, we use contact information to send you marketing information based on our legitimate interests for as long as you do not opt out. You can opt out of marketing communications at any time by clicking on the “unsubscribe” link in emails or changing the relevant setting on your [My Account](https://www.surveymonkey.com/user/account/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline) page.
     
     **(b) Customer support information.**
     
@@ -202,7 +202,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     **(h) End page data.**
     
-    * If you use our survey tool, depending on the package you are on and the settings you have selected, your Respondents may reach the standard [survey end page](https://help.surveymonkey.com/en/create/survey-end-page/) on completion of a survey. The end page is part of the SurveyMonkey website. We may include our own [research surveys](https://www.surveymonkey.com/mp/legal/survey-research-privacy-notice/) and polling on this end page. These surveys are optional for any Respondent to take or skip.
+    * If you use our survey tool, depending on the package you are on and the settings you have selected, your Respondents may reach the standard [survey end page](https://help.surveymonkey.com/en/create/survey-end-page/) on completion of a survey. The end page is part of the SurveyMonkey website. We may include our own [research surveys](https://www.surveymonkey.com/mp/legal/survey-research-privacy-notice/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20) and polling on this end page. These surveys are optional for any Respondent to take or skip.
     
     **(i) De-identified Device Data.**
     
@@ -221,7 +221,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     * To enforce our agreements where applicable;
     * To investigate security issues;
     * To prevent or address potentially unlawful activities; and
-    * To screen for and prevent undesirable or abusive activity. For example, we have automated systems that screen content for phishing activities, spam, and fraud under our [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/).
+    * To screen for and prevent undesirable or abusive activity. For example, we have automated systems that screen content for phishing activities, spam, and fraud under our [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20).
     
 * **3.2 Respondent**
     
@@ -239,7 +239,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     **(b) Cookies.**
     
-    * We use required cookies to ensure the operation of a Creator’s survey, form, application, or other SurveyMonkey product. These cookies are used to ensure that all aspects of the survey operate appropriately and optimally. For more information please read our [Cookies section below](https://www.surveymonkey.com/mp/legal/privacy/#cookies) and our [Respondent Cookies Notice](https://www.surveymonkey.com/mp/legal/survey-page-cookies/).
+    * We use required cookies to ensure the operation of a Creator’s survey, form, application, or other SurveyMonkey product. These cookies are used to ensure that all aspects of the survey operate appropriately and optimally. For more information please read our [Cookies section below](https://www.surveymonkey.com/mp/legal/privacy/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20#cookies) and our [Respondent Cookies Notice](https://www.surveymonkey.com/mp/legal/survey-page-cookies/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20).
     * Examples: We use page tags to allow the email sender (for a survey or form for example) to measure the performance of email messaging and to learn how to improve email deliverability and open rates. We also use cookies to ensure a respondent can only take a survey once (where the Creator has set this function) and to track completion rates of surveys.
     * After completion of a survey, in most cases, you will be redirected to our website and treated as a website visitor where other cookies may be used so you should read our Website Visitor section if this is of interest to you.
     
@@ -310,7 +310,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     * To enforce our agreements where applicable;
     * To investigate security issues;
     * To prevent or address potentially unlawful activities; and
-    * To screen for and prevent undesirable or abusive activity . For example, we have automated systems that screen content for phishing activities, spam, and fraud under our [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/).
+    * To screen for and prevent undesirable or abusive activity . For example, we have automated systems that screen content for phishing activities, spam, and fraud under our [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20).
     
 * **3.3 Visitor**
     
@@ -388,7 +388,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     * To enforce our agreements where applicable;
     * To prevent potentially illegal activities; and
-    * To screen for and prevent undesirable or abusive activity. For example, we have automated systems that screen content for phishing activities, spam, and fraud under our [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/).
+    * To screen for and prevent undesirable or abusive activity. For example, we have automated systems that screen content for phishing activities, spam, and fraud under our [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20).
     
 
 4\. How we share or disclose Personal Data
@@ -413,15 +413,15 @@ We do not share your information or data with third parties outside SurveyMonkey
 **(e)** To help us provide certain aspects of our services we use our affiliates and trusted key partners – in particular, we engage third parties to:
 
 * facilitate our collectors for sending surveys by email or text to Respondents. For email delivery, we use [SparkPost](https://www.sparkpost.com/policies/privacy/) and for text/SMS services we use [Twilio](https://www.twilio.com/legal/privacy). We share the relevant contact information for respondents (email address or phone number as applicable) with these third parties.
-* facilitate Creators in making [payments](https://www.surveymonkey.com/mp/legal/list-of-payment-processors/).
+* facilitate Creators in making [payments](https://www.surveymonkey.com/mp/legal/list-of-payment-processors/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20).
 * to facilitate the delivery of certain features, for example if you use the “Create a survey using AI” we will send your survey prompts to our AI vendor. We recommend that you do not include Personal Data in these prompts but if you do they will be shared with the AI vendor. 
 * to detect fraud (to include, for example, performing identify checks or verify malicious IPs).
 * deliver and help us track our marketing and advertising content.
 * help us track website conversion success metrics.
 * manage our sales and customer support services to you, including for resolving any disputes.
-* We enter into confidentiality and data processing terms with partners to ensure they comply with high levels of confidentiality and best practices in privacy and security standards and we regularly review these standards and practices. You can find more information in our [Subprocessor Statement](https://www.surveymonkey.com/mp/legal/subprocessor-list/?ut_source=legal&ut_source2=privacy&ut_source3=inline).
+* We enter into confidentiality and data processing terms with partners to ensure they comply with high levels of confidentiality and best practices in privacy and security standards and we regularly review these standards and practices. You can find more information in our [Subprocessor Statement](https://www.surveymonkey.com/mp/legal/subprocessor-list/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline).
 
-**(f)** On your instructions, we share your information or data if you choose to use an integration in conjunction with SurveyMonkey services, to the extent necessary to facilitate that use. See further information [here](https://www.surveymonkey.com/apps/?ut_source=legal&ut_source2=privacy&ut_source3=inline) on our API partners.
+**(f)** On your instructions, we share your information or data if you choose to use an integration in conjunction with SurveyMonkey services, to the extent necessary to facilitate that use. See further information [here](https://www.surveymonkey.com/apps/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline) on our API partners.
 
 **(g)** We also may have to share information or data for the following purposes:
 
@@ -442,12 +442,12 @@ If you are a Creator, we generally do not delete the data in your account as lon
 
 We also encourage Creators to actively review their data retention practices in their account and take care to retain data only as long as is strictly necessary. 
 
-We also describe the expiry periods for cookies on our websites in our [Cookies Notice](https://www.surveymonkey.com/mp/legal/cookies/?ut_source=legal&ut_source2=privacy&ut_source3=inline). 
+We also describe the expiry periods for cookies on our websites in our [Cookies Notice](https://www.surveymonkey.com/mp/legal/cookies/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline). 
 
 6\. Personalized marketing and cookies
 --------------------------------------
 
-We and our partners use cookies and similar technologies on our websites. For more information see our [Cookies Notice](https://www.surveymonkey.com/mp/legal/cookies/?ut_source=legal&ut_source2=privacy&ut_source3=inline). For information about cookies used in our surveys please see [Cookies used on Survey Pages](https://www.surveymonkey.com/mp/legal/survey-page-cookies/). If you are a customer of SurveyMonkey and separately use cookies or similar technologies in conjunction with any of our products and services, then you yourself will be responsible for complying with any laws related to the use of those technologies and this Privacy Notice is not applicable to that use by you.
+We and our partners use cookies and similar technologies on our websites. For more information see our [Cookies Notice](https://www.surveymonkey.com/mp/legal/cookies/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline). For information about cookies used in our surveys please see [Cookies used on Survey Pages](https://www.surveymonkey.com/mp/legal/survey-page-cookies/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20). If you are a customer of SurveyMonkey and separately use cookies or similar technologies in conjunction with any of our products and services, then you yourself will be responsible for complying with any laws related to the use of those technologies and this Privacy Notice is not applicable to that use by you.
 
 You can also choose to remove or disable cookies via your [browser settings](https://help.surveymonkey.com/en/account/opt-out/) and, depending on your geographic location you can withdraw consent to non-essential cookies using the in-product cookie preferences tool.
 
@@ -458,7 +458,7 @@ Depending on your geographic location, we may share your email address in hashed
 7\. Security
 ------------
 
-We have a security statement related to our self-serve businesses (SurveyMonkey and Wufoo) available to view [here](https://www.surveymonkey.com/mp/legal/security/). For information about security related to our other business lines you can speak to a sales representative by completing the form [here](https://www.surveymonkey.com/product/enterprise/?form_autoload=).
+We have a security statement related to our self-serve businesses (SurveyMonkey and Wufoo) available to view [here](https://www.surveymonkey.com/mp/legal/security/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20). For information about security related to our other business lines you can speak to a sales representative by completing the form [here](https://www.surveymonkey.com/product/enterprise/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&form_autoload=).
 
 8\. Safety of Minors
 --------------------
@@ -468,7 +468,7 @@ Our services (including creating and responding to surveys) are not intended for
 9\. Data Transfers
 ------------------
 
-Your information and data may be processed in and transferred or disclosed in the United States and countries in which our affiliates are located and in which our service providers are located or have servers. You can view a list of these locations in our [EU Data Transfer Statement](https://www.surveymonkey.com/mp/legal/subprocessor-list/). You can also read about data that is stored in our other data centers here in our [International Data Center Overview](https://www.surveymonkey.com/mp/legal/international-data-center-overview/). We ensure that the recipient of your Personal Data offers an adequate level of protection, for instance by entering into the appropriate back-to-back agreements with standard contractual clauses or other transfer mechanisms as approved by the European Commission or relevant data protection authority.
+Your information and data may be processed in and transferred or disclosed in the United States and countries in which our affiliates are located and in which our service providers are located or have servers. You can view a list of these locations in our [EU Data Transfer Statement](https://www.surveymonkey.com/mp/legal/subprocessor-list/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20). You can also read about data that is stored in our other data centers here in our [International Data Center Overview](https://www.surveymonkey.com/mp/legal/international-data-center-overview/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20). We ensure that the recipient of your Personal Data offers an adequate level of protection, for instance by entering into the appropriate back-to-back agreements with standard contractual clauses or other transfer mechanisms as approved by the European Commission or relevant data protection authority.
 
 We have also provided a [help article](https://help.surveymonkey.com/en/policy/data-processing-agreements-eu/) which answers some additional questions about data transfers to the US.
 
@@ -491,9 +491,9 @@ If you have provided survey responses, filled out a form, submitted an applicati
 
 For SurveyMonkey Enterprise account holders, your organization’s primary administrator controls some basic account level information which you input when setting up your account like name, email address, and profile photo.  
 
-If you have provided survey responses, filled out a form, submitted an application, or provided website feedback directly to SurveyMonkey, then SurveyMonkey is the controller and our use of that data is described by this Notice and in our [SurveyMonkey Research Privacy Notice](https://www.surveymonkey.com/mp/legal/survey-research-privacy-notice/?ut_source=legal&ut_source2=privacy&ut_source3=inline). 
+If you have provided survey responses, filled out a form, submitted an application, or provided website feedback directly to SurveyMonkey, then SurveyMonkey is the controller and our use of that data is described by this Notice and in our [SurveyMonkey Research Privacy Notice](https://www.surveymonkey.com/mp/legal/survey-research-privacy-notice/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline). 
 
-If you are a Creator and have received more responses than your plan allows (“overage data”), SurveyMonkey is the controller over the overage data until you change your plan type, or the overage data is deleted in accordance with section 12.4 of our [Terms of Use](https://www.surveymonkey.com/mp/legal/terms-of-use/#12.4%20SurveyMonkey%20Basic%20(Free)%20Plan%20Response%20Limits.) or per the terms of your negotiated contract.
+If you are a Creator and have received more responses than your plan allows (“overage data”), SurveyMonkey is the controller over the overage data until you change your plan type, or the overage data is deleted in accordance with section 12.4 of our [Terms of Use](https://www.surveymonkey.com/mp/legal/terms-of-use/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20#12.4%20SurveyMonkey%20Basic%20(Free)%20Plan%20Response%20Limits.) or per the terms of your negotiated contract.
 
 SurveyMonkey is a controller for the account-level data provided by its Creators and panelists from Contribute and Rewards. More information can be found in section 13.6 of this Privacy Notice.
 
@@ -536,7 +536,7 @@ For SurveyMonkey Apply users please see [information on how to exercise your rig
 
 **11.7 **Other rights and choices****
 
-* For rights and choices specific to US consumers, please refer to our [Region Specific Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/). Please note we will take reasonable steps to verify your identity and the authenticity of your request as described in that Notice.
+* For rights and choices specific to US consumers, please refer to our [Region Specific Privacy Notice](https://www.surveymonkey.com/mp/legal/region-specific-privacy-statement/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20). Please note we will take reasonable steps to verify your identity and the authenticity of your request as described in that Notice.
 
 **11.8 **Contact****
 
@@ -566,7 +566,7 @@ If you are a resident in the European Union and you are dissatisfied with how we
 12\. Changes to our Privacy Notice
 ----------------------------------
 
-We can make changes to the [Privacy Basics](https://www.surveymonkey.com/mp/legal/privacy-basics/?ut_source=legal&ut_source2=privacy&ut_source3=inline) and this Privacy Notice from time to time. We will identify the changes we have made on [this page](https://www.surveymonkey.com/mp/legal/updates-to-our-terms-and-policies/?ut_source=legal&ut_source2=privacy&ut_source3=inline). In circumstances where a change will materially change the way in which we collect or use your personal information or data, we will send a notice of this change to all of our account holders. 
+We can make changes to the [Privacy Basics](https://www.surveymonkey.com/mp/legal/privacy-basics/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline) and this Privacy Notice from time to time. We will identify the changes we have made on [this page](https://www.surveymonkey.com/mp/legal/updates-to-our-terms-and-policies/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline). In circumstances where a change will materially change the way in which we collect or use your personal information or data, we will send a notice of this change to all of our account holders. 
 
 13\. Privacy information specific to other services
 ---------------------------------------------------
@@ -575,7 +575,7 @@ Although this Privacy Notice applies to all our Services, some information may b
 
 **13.1 **SurveyMonkey Apply****
 
-SurveyMonkey Apply is an online application system that helps organizations collect applications, manage subscriptions and facilitate reviews. Our main Privacy Notice applies to [apply.surveymonkey.com](http://apply.surveymonkey.com/?ut_source=legal&ut_source2=privacy-information-specific-to-other-services&ut_source3=inline) (“SurveyMonkey Apply”) except where the Privacy Notice specifies a section that is applicable only to our survey tool. Responses and Respondents in this section are intended as reference to applicants and their applications for the purposes of use of SurveyMonkey Apply.  
+SurveyMonkey Apply is an online application system that helps organizations collect applications, manage subscriptions and facilitate reviews. Our main Privacy Notice applies to [apply.surveymonkey.com](http://apply.surveymonkey.com/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy-information-specific-to-other-services&ut_source3=inline) (“SurveyMonkey Apply”) except where the Privacy Notice specifies a section that is applicable only to our survey tool. Responses and Respondents in this section are intended as reference to applicants and their applications for the purposes of use of SurveyMonkey Apply.  
 When an applicant submits an application through SurveyMonkey Apply, their login information can be used for multiple applications across the SurveyMonkey Apply site.  
 If you have any questions about your personal information in the context of our SurveyMonkey Apply service, you can contact us [here](https://help.smapply.io/hc/en-us/sections/115000411593-Contact-Us).
 
@@ -627,9 +627,9 @@ To exercise your rights (as described in Section 11 of the Privacy Notice), plea
 
 If you are a panelist using our Rewards or Contribute apps, please read the following notices as they apply to your use of those Services:
 
-* [SurveyMonkey Contribute Privacy Notice](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-privacy-notice/)
-* [SurveyMonkey Rewards Privacy Notice](https://www.surveymonkey.com/rewards/privacy_statement?ut_source=legal&ut_source2=privacy&ut_source3=inline)
+* [SurveyMonkey Contribute Privacy Notice](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-privacy-notice/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20)
+* [SurveyMonkey Rewards Privacy Notice](https://www.surveymonkey.com/rewards/privacy_statement?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20&ut_source=legal&ut_source2=privacy&ut_source3=inline)
 
 If you are a panelist responding to a SurveyMonkey survey through a third party, please read the following notice as it applies to your use of those Services:
 
-* [Third Party Panel Privacy Notice](https://www.surveymonkey.com/mp/legal/third-party-panelist-privacy-notice/)
+* [Third Party Panel Privacy Notice](https://www.surveymonkey.com/mp/legal/third-party-panelist-privacy-notice/?usecase=%25252525252525257C%25252525252525252Bsleep%25252525252525252B20)
