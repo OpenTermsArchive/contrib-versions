@@ -39,7 +39,6 @@ How we use your data?
 ---------------------
 
 Contracts management and customer relations
--------------------------------------------
 
 Scaleway processes your data in order to manage contracts for the services you use. This includes the management of accounts, support and payment methods.
 
@@ -51,7 +50,6 @@ Scaleway processes your data in order to manage contracts for the services you u
 \*Means any public authority or administration authorized by a text to receive personal information
 
 Sales and Marketing
--------------------
 
 Scaleway processes certain data in order to send its service offers to its customers or prospects, guests for events or even collect their opinions on products (processing may involve profiling techniques). These processing operations may be based either on legitimate interest, if the person is already a customer of the company, particularly if the proposals concern products or services similar to those already subscribed, or on consent. Scaleway mainly collects this data directly but can also obtain it indirectly via specialized data processors in conformity with all applicable legal requirements.
 
@@ -64,7 +62,6 @@ Scaleway processes certain data in order to send its service offers to its custo
 | Produce usage statistics | Connection data | Legitimate interest | Cookies: between 3 months and 1 year  <br>Service usage data kept during the contractual period or anonymized | Scaleway Sales and Marketing Teams  <br>Entitled Scaleway Partners for quality analysis  <br>Authorized third parties |
 
 Recruitment
------------
 
 Scaleway also processes the personal data of candidates as part of its recruitment procedure.
 
@@ -73,7 +70,6 @@ Scaleway also processes the personal data of candidates as part of its recruitme
 | Recruitment | Identity data | Execution of contract or pre-contractual measures | If the application is not accepted, the data is kept for a maximum period of 2 years  <br>If the application is accepted, the data is kept for the entire duration of the contract, accompanied by an archiving period intended to comply with our legal obligations or guarantee the legitimate interests of the company. | Human resources services  <br>Manager and team concerned  <br>Scaleway partners for human resources  <br>Authorized third parties |
 
 Legal obligations
------------------
 
 Scaleway processes some of your data in order to meet its legal obligations. This is particularly the case in order to secure our services as a provider of electronic communications services, to meet our accounting and tax obligations or to process your requests for rights relating to data protection.
 
@@ -87,7 +83,6 @@ Scaleway processes some of your data in order to meet its legal obligations. Thi
 | Legal or administrative procedure management | Identity data  <br>User account information related to the case | Legal obligation | The necessary data is kept until the expiration of the legal remedies | Scaleway Legal Department  <br>Iliad Legal Department  <br>Competent administrative authority  <br>Entitled third parties (legal advisor etc.) |
 
 Legitimate interest
--------------------
 
 Scaleway processes some of your data in order to meet a legitimate interest. This is particularly the case in order to secure our services, ensure the management of unpaid debts and the training of our teams (processing relating to security or fraud may involve profiling techniques).
 
