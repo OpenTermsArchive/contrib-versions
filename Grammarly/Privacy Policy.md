@@ -1,4 +1,4 @@
-Effective as of March 28, 2024
+Effective as of March 28, 2025
 
 Privacy Policy
 --------------
