@@ -31,7 +31,7 @@ You can customize the Policy to only see the portions that apply to you. Just ch
 Privacy Notice
 --------------
 
-Last modified July 17, 2024.
+Last modified March 29, 2025.
 
 * General
 * "Personal Information" means information that identifies, relates to, describes, is capable of being associated with or could reasonably be linked, directly or indirectly, with a particular consumer or household, such as your name, mailing and email addresses, phone number, and other information that permits us to contact you at a physical location, online, or by electronic communication, including telephone or email.
@@ -736,6 +736,14 @@ If you as an EU, UK, or Swiss individual believe that Proctorio has violated its
 The Federal Trade Commission has jurisdiction over Proctorio’s compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF).
 
 Proctorio also complies with the EU General Data Protection Regulation ("GDPR"). Proctorio is committed to subjecting all Personal Information received from European Union (EU) member countries and Switzerland to GDPR standards. In situations where public authorities make lawful requests for information, such as to meet national security or law enforcement requirements, Proctorio may be required to disclose Personal Information.
+
+Proctorio's Data Protection Officer contact information is as follows:  
+Data Protection Officer  
+UBG mbH  
+Im Breitspiel 210  
+69126 Heidelberg  
+Telephone: 069/6530006-23  
+E-mail: [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protection)
 
 European Economic Area (EEA) or Switzerland User Rights
 -------------------------------------------------------
