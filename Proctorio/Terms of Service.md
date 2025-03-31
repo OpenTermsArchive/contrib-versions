@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Last modified September, 2024.
+Last modified March 29, 2025.
 
 These Terms of Service ("**TOS**" or "**Terms**") apply to you if: you are an institution, university, college, school, or organization (each, an "**Institution**"); you are an authorized Institution administrator, professor, test sponsor, employee, agent or contractor of an Institution (each, an "**Institution User**"); or you are an authorized individual, customer, or test taker end user (each, an "**End User**"). For purposes of these Terms, "You" refers to an Institution, Institution User, or End User, in whatever manner applicable to you. These Terms govern Your access to and use of the services, including our (referred to as "**Proctorio**" or "**We**") various websites, SMS, APIs, email notifications, documentation, software, licenses or applications, including the SaaS Agreement technology/application software (the "_Application Service**") (collectively, the "**Services**"), and any information, content, text, graphics, photos, audio, video, or other materials, uploaded, downloaded, or appearing on the Services, (with the exclusion of "**Feedback**," as defined in Section 7) (collectively, the "**Content_\*"). Your access to and use of the Services is conditioned on Your acceptance of and compliance with these Terms, as revised by Proctorio from time to time in its sole and exclusive discretion. The most current version of the Terms will always be at proctorio.com/policies. By continuing to access or use the Services after any revisions to the Terms become effective, You agree to be bound by the revised Terms as published. If You have entered into a SaaS Agreement, in the event of a conflict between these Terms and those contained in the SaaS Agreement, the terms of the SaaS Agreement shall prevail.
 
@@ -39,6 +39,8 @@ Proctorio is committed to the ethical use of Proctorio's Application Service by 
 
 At Institution's expense, Institution will assist Proctorio with access to, and use of, its facilities, equipment, and personnel, as Proctorio may need to perform Its obligations and enforce the obligations of the Authorized Users under an applicable SaaS Agreement and these Terms of Service.
 
+Proctorio ensures its AI systems are fair, transparent, and secure, with clear user guidance and feedback mechanisms. Users or anyone affected by the AI models or algorithms can submit their concerns at privacy@proctorio.com.
+
 5\. Your License to Use the Services.
 -------------------------------------
 
@@ -67,8 +69,13 @@ Proctorio offers a flexible service, which may include recording of video, audio
 
 More information can be found at [proctorio.com/support/requirements](https://proctorio.com/support/requirements).
 
-9\. Restrictions on Use of Services.
-------------------------------------
+9\. Identity Verification Disclosures.
+--------------------------------------
+
+Proctorio uses a third-party sub-processor to conduct identity verification of test takers. When conducting identity verification, and with test takers’ explicit consent, Proctorio provides the sub-processor with test takers’ credit cards, identity documents, and/or biometric data (“Underlying Data”) solely to verify identity of test takers. As soon as the sub-processor verifies identity, Proctorio initiates a redaction sequence from the sub-processor who then immediately redacts all Underlying Data. At no time does Proctorio retain or store any Underlying Data.
+
+10\. Restrictions on Use of Services.
+-------------------------------------
 
 Proctorio has the right, but not the obligation, at all times to remove or refuse to distribute any Content on the Services, to suspend or terminate users without liability to You if we reasonably determine that the Content or users materially violated these Terms. Subject to applicable laws and the terms of Proctorio's [Privacy Policy](https://proctorio.com/privacy), we also reserve the right to access, read, preserve, and disclose any information as we reasonably believe necessary to: (i) satisfy any applicable law, regulation, legal process, or governmental request; (ii) enforce the Terms, including investigation of potential violations hereof; (iii) detect, prevent, or otherwise address fraud, security, or technical issues; (iv) respond to user support requests; or (v) protect the rights, property, or safety of Proctorio, its users, its clients, and the public.
 
@@ -76,7 +83,7 @@ While accessing or using the Services You shall not: (i) access, tamper with, or
 
 Proctorio’s Services are not considered an Automated Decision Tool (“ADT”). An ADT is an artificial intelligence system or service that makes a consequential decision, or is a substantial factor in making consequential decisions. The Services do not autonomously make or recommend critical decisions based on algorithmic processes. Instead, the Services serve as an analytical or support tool, requiring human input and oversight for any significant actions. You agree that you will not use the Services to automate any decisions.
 
-10\. Copyright Policy.
+11\. Copyright Policy.
 ----------------------
 
 Proctorio respects the intellectual property rights of others and expects You to do the same. We will respond to notices of alleged copyright infringement that comply with applicable law and are properly provided to Proctorio. If You believe Your Content has been infringed, please provide Proctorio with the following information: (i) a physical or electronic signature of the copyright owner or a person authorized to act on their behalf; (ii) identification of the copyrighted work claimed to have been infringed; (iii) identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled, and information reasonably sufficient to permit Proctorio to locate the material; (iv) Your contact information, including Your address, telephone number, and email; (v) a statement that You have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or the law; and (vi) a statement that the information in the notification is accurate, and, under penalty of perjury, that You are authorized to act on behalf of the copyright owner.
@@ -85,7 +92,7 @@ We reserve the right to remove Content alleged to be infringing without prior no
 
 **If you suspect Content to infringe upon the proprietary rights of others, please contact Proctorio's designated copyright agent found on dmca.copyright.gov/osp.**
 
-11\. Ending these Terms.
+12\. Ending these Terms.
 ------------------------
 
 The Terms will continue to apply until terminated by either You or Proctorio, pursuant to the following provisions, unless You are otherwise subject to certain termination provisions arising from a SaaS Agreement with Proctorio.
@@ -98,14 +105,14 @@ In all such cases, the Terms shall terminate, including, without limitation, Aut
 
 Nothing in this section shall affect Proctorio's rights to change, limit or stop the provision of the Services without prior notice, as provided above in Section 1.
 
-12\. Indemnification.
+13\. Indemnification.
 ---------------------
 
 If You entered into a SaaS Agreement with Proctorio, Proctorio agrees to indemnify, defend, and hold You harmless from and against any and all losses, liabilities, costs (including reasonable attorneys' fees) or damages resulting from (a) any third party claim that the Application Service and/or the Application Documentation infringes such third party's U.S. patents issued as of the Effective Date or infringes or misappropriates, as applicable, such third party's copyrights or trade secret rights under applicable laws of any jurisdiction, provided You promptly notify Proctorio in writing of the claim, cooperate with Proctorio, and allow Proctorio sole authority to control the defense and settlement of such claim; provided however Proctorio shall not admit fault or liability on Your part without Your prior written consent; (b) any claim that Proctorio failed to comply with applicable law, or violated confidentiality obligations in a SaaS Agreement; (c) Proctorio's gross negligence or willful misconduct. In the event of a claim under (a), in addition to Proctorio's indemnification obligations, You agree to permit Proctorio, at Proctorio's sole discretion, to enable You to continue to use the Application Service or the Application Documentation, or to modify or replace any such infringing material to make it non-infringing. If none of these alternatives is available, You shall, upon Proctorio's written request, cease use of, and, if applicable, return, materials subject to the infringement claim. This provision shall not apply if the alleged infringement arises from any: (i) modification of the Application IP; (ii) combination, operation, or use of the Application IP with other non-Proctorio provided software, hardware or technology; (iii) use of a superseded or altered release of any of the Application IP, if You failed to use a then-current release of the Application IP we provided to you; (iv) Customer Content; or (v) Third Party Products (any of the foregoing circumstances under clauses (i), (ii), (iii), or (iv), or (v) an **"Indemnity Exclusion"**). THIS IS PROCTORIO'S ENTIRE OBLIGATION AND LIABILITY FOR INFRINGEMENT OR MISAPPROPRIATION CLAIMS, AND PROCTORIO'S LIABILITY UNDER THIS SECTION SHALL NOT EXCEED PROCTORIO'S LIMITATIONS OF LIABILITY.
 
 To the extent allowable by law You agree to hold harmless, indemnify, and, at Proctorio's option, defend Proctorio from and against any losses, liabilities, costs (including reasonable attorneys' fees) or damages resulting from: (i) Your or any Authorized User's negligence or willful misconduct; (ii) Your or any Authorized User's unauthorized use of the Application IP; (iii) third-party claims arising from Your alleged violations of law; or (iv) a an Indemnity Exclusion, provided Proctorio promptly notifies You in writing of the claim, cooperates with You, and allows You sole authority to control the defense and settlement of such claim; provided however You will not settle any third-party claim against Proctorio without Proctorio's consent.
 
-13\. K-12 Institutions.
+14\. K-12 Institutions.
 -----------------------
 
 We recognize that certain privacy protections apply specifically to minors, and accordingly have implemented additional privacy and security protections in place for minor users. If you are accessing and using the Services as a representative of a K-12 Institution, as a parent of a child attending a K-12 Institution (collectively, "Minor Representative"), or as the minor child who has been given parental permission by a parent, the following terms will also apply to you.
@@ -116,7 +123,7 @@ B. **Parents and Guardians.** As a parent or guardian, you represent and warrant
 
 C. **Collection of Student Information.** Proctorio's Services only collect the personal information from K-12 students that is needed for the operation and management of the Services, and only where the educational institution has contracted with Proctorio to do so. We first require that the educational institution (i) obtain the consent of parents/legal guardians prior to collecting such information or (ii) consent on their behalf. Further information concerning how K-12 student information is handled can be found in Proctorio's [Privacy Policy](https://proctorio.com/privacy).
 
-14\. Disclaimers and Limitations of Liability.
+15\. Disclaimers and Limitations of Liability.
 ----------------------------------------------
 
 This section limits the liability of Proctorio and its parents, subsidiaries, affiliates, related companies, officers, directors, employees, agents, representatives, partners, and licensors (collectively, the "**Proctorio Entities**") and You. Each of the subsections below only applies up to the maximum extent permitted under applicable law. Some jurisdictions do not allow the disclaimer of implied warranties or the limitation of liability in contracts, and as a result the contents of this section may not apply to You. Nothing in this section is intended to limit any rights You may have which may not be lawfully limited.
@@ -139,7 +146,7 @@ EXCEPT FOR INDEMNIFICATION OBLIGATIONS AS STATED IN THESE TERMS, IN NO EVENT SHA
 
 THE LIMITATIONS OF THIS SUBSECTION SHALL APPLY TO ANY THEORY OF LIABILITY, WHETHER BASED ON WARRANTY, CONTRACT, STATUTE, TORT (INCLUDING NEGLIGENCE), OR OTHERWISE, AND WHETHER OR NOT THE PROCTORIO ENTITIES HAVE BEEN INFORMED OF THE POSSIBILITY OF ANY SUCH DAMAGE, AND EVEN IF A REMEDY SET FORTH HEREIN IS FOUND TO HAVE FAILED OF ITS ESSENTIAL PURPOSE.
 
-15\. General Terms.
+16\. General Terms.
 -------------------
 
 ### A. English Language.
@@ -185,7 +192,15 @@ In the event an Institution's payment method stops working for any reason, the I
 
 All payments are nonrefundable. In certain circumstances, we may provide a refund to an End User who purchases the Services directly from Proctorio who can demonstrate that they no longer require the Services because they either (1) dropped the program which required use of the Services, or (2) are no longer enrolled in an Institution. Should You believe you are entitled to a refund because either of these circumstances apply to You, please contact our support team within 90 days at refunds@proctorio.com.
 
-If You, or the third party payment instrument holder, see a charge on a card or bank statement for a purchase from Proctorio that You did not make, please first check with your family and friends to see if they made the purchase. Once You've confirmed that the charge was not made by anyone You know, please report the charge to our support team at refunds@proctorio.com within 90 days of the transaction.
+If You see a charge on a card or bank statement for a purchase from Proctorio that You did not make, please first check with your family and friends to see if they made the purchase. Once You've confirmed that the charge was not made by anyone You know, please report the charge to our support team at refunds@proctorio.com within 90 days of the transaction.
+
+When You purchase Services, a receipt is automatically sent to your email, and the charge will appear on your credit card statement as "Proctorio."
+
+If You dispute a charge, Proctorio will provide evidence to the payment processor, including a copy of the agreement You accepted before completing the purchase. This agreement includes your signature, which may be either typed or drawn on the screen.
+
+Charge disputes often occur when a cardholder does not recognize a transaction. If the dispute is due to unauthorized use, such as a stolen credit card, the chargeback may be valid. However, disputes initiated to avoid payment will be contested by Proctorio with supporting evidence.
+
+To prevent unnecessary disputes, we encourage You to review your purchase details and contact our support team with any questions before initiating a chargeback.
 
 The amount and the decision to provide a refund will be made by Proctorio in its sole and absolute discretion. If You receive a refund for any reason, Proctorio reserves the right to terminate Your access to the relevant Services.
 
@@ -225,6 +240,6 @@ If You entered into a SaaS Agreement with Proctorio, the SaaS Agreement, these T
 
 If You are not a party to a SaaS Agreement, these Terms, Proctorio's [Privacy Policy](https://proctorio.com/privacy), and the [Acceptable Use Policy](https://proctorio.com/policies#all&all&aup&section-acceptableusepolicy) are the entire and exclusive agreement between Proctorio and You regarding the Services, and these Terms supersede and replace any prior agreements between Proctorio and You regarding the Services.
 
-L. No Third Party Beneficiaries.
+### L. No Third Party Beneficiaries.
 
 Other than members of the group of companies of which Proctorio is the parent, no other person or company will be a third party beneficiary to the Terms.
