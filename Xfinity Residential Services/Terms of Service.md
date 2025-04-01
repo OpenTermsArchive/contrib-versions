@@ -113,7 +113,7 @@ You accept this Agreement and agree to its terms by activating the Services, usi
         
     * **n. How we provide refunds**
         
-    * If we provide a refund to you, we, in our sole discretion, will choose the manner in which your refund is paid to you, which may include a credit to your account, a virtual prepaid card, plastic prepaid card, check or other method.  We will provide more information on the method of providing your refund when we send it to you.
+    * If we provide a refund to you, we, in our sole discretion, will choose the manner in which your refund is paid to you, which may include a credit to your account, a virtual prepaid card, plastic prepaid card, check or other method. We will provide more information on the method of providing your refund when we send it to you.
         
 4. ### CHANGES TO SERVICES, RATES, CHARGES, AND THIS AGREEMENT
     
@@ -398,4 +398,4 @@ You accept this Agreement and agree to its terms by activating the Services, usi
     The following sections shall survive the termination of your Services with us: Section 11, Section 13, Section 14, Section 15, Section 16, and Section 19.
     
 
-Stnd0125
+Stnd0425
