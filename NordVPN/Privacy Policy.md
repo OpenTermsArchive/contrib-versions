@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last updated: March 19, 2025
+Last updated: April 1, 2025
 
 This document (“**Privacy Policy**”) explains the privacy rules applicable to personal data and other information collected or submitted when you access, install, or use Nord Services and Websites regardless of the device (computer, mobile phone, tablet, etc.) you use.
 
@@ -50,7 +50,7 @@ Subscription information
 
 **Payment related information** (if using paid Services)
 
-* **Payment data.** This information is necessary to collect payments for the Services. Our payment processing partners process basic billing information for payment processing and refund requests (e.g., date of purchase, payer’s IP address, postal (ZIP) code, credit card owner's full name and credit card information). We also process some of such billing information ourselves (e. g., date of purchase, credit card owner's full name, part of your credit card number, its expiration date) in cases of recurring payments or when you provide your payment details directly to us.
+* **Payment data.** This information is necessary to collect payments for the Services. Our payment processing partners process basic billing information for payment processing and refund requests (e.g., date of purchase, payer's IP address, postal (ZIP) code, credit card owner's full name and credit card information). We also process some of such billing information ourselves (e. g., date of purchase, credit card owner's full name, part of your credit card number, its expiration date) in cases of recurring payments or when you provide your payment details directly to us. In some cases, information about your two previous transactions, along with your IP address, may also be used to resolve transaction disputes. This data helps verify the legitimacy of disputed transactions.
 * **Country details.** When making a purchase we process information on the user’s country the purchase takes place from. This information is necessary for VAT calculation purposes.
 * **Information for payment fraud prevention.** To prevent fraudulent payments for the Services, your personal data (such as payer's email address and device information) can be verified by our and/or our payment processing partners fraud management tools. A payment transaction that is considered high risk may be rejected by us.
 * **Information concerning zero authorization for billing.** The purpose of the zero authorization is to confirm that your payment method is still valid, which, respectively, leads to a seamless continuation of your Subscription. No personally identifiable information is collected in this case, apart from the fact that your provided payment method is still valid (or not) and the date of such authorization.
