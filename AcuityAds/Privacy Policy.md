@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective Date: March 17, 2025
+Effective Date: April 1, 2025
 
 This privacy policy outlines what information we collect, how we secure it, and how we use it in relation to the service illumin provides to its customers via our advertising technology platform.
 
@@ -160,5 +160,3 @@ M5J 2M4
 The illumin Data Protection Officer is Alan Chapell and he may be reached at [dpo@illumin.com](mailto:dpo@illumin.com).
 
 The illumin EU Representative is Josep Tribo and he may be reached at [representative@illumin.com](mailto:representative@illumin.com).
-
-[illumin Legitimate Interest Assessment](https://illumin.com/legal/appendix-1-legitimate-interest-assessment/)
