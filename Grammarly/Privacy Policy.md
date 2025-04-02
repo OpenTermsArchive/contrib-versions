@@ -203,7 +203,7 @@ Above we explain how we [collect](https://www.grammarly.com/privacy-policy#secti
   
 _Use, Disclosure, and Retention of Personal Information for Business Purposes_  
 
-![ Use, Disclosure, and Retention of Personal Information for Business Purposes ](https://static-web.grammarly.com/1e6ajr2k4140/54xcLxsYvlaWyWhPkD2GMp/fc97cc056de15a07dce75b61e095fa78/Frame_16__5_.png?w=5648)
+![ Use, Disclosure, and Retention of Personal Information for Business Purposes ](https://static-web.grammarly.com/1e6ajr2k4140/54xcLxsYvlaWyWhPkD2GMp/ca8c4a9b1c7f0382ffa31e04b6e276ba/Frame_16__6_.png?w=11295)
 
   
 When we process information that is considered “sensitive” under State Privacy Laws (such as when such information is included in your user content, including the content of communications you use Grammarly products to edit and improve), we use such data only for the legally permitted purposes described [above](#sectionSingleColumn_6bK2Xll9RxNtqJ4sHgXCuN), in the same way we process user content generally. We similarly limit how we process account log-in information, which may be considered “sensitive” under certain State Privacy Laws. We do not use or disclose such information for the purpose of inferring characteristics about you.  
