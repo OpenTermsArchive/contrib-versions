@@ -1,124 +1,124 @@
 [BTC
 
-$86,645.00
+$83,386.94
 
 \-
 
-0.00%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
+1.54%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
 
-$1,895.74
-
-\-
-
-0.51%](https://www.coindesk.com/price/ethereum "View price details")[USDT
-
-$1.0000
-
-+
-
-0.01%](https://www.coindesk.com/price/tether "View price details")[XRP
-
-$2.1458
-
-+
-
-1.01%](https://www.coindesk.com/price/xrp "View price details")[BNB
-
-$604.41
+$1,824.12
 
 \-
 
-0.39%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
-
-$129.87
-
-+
-
-3.04%](https://www.coindesk.com/price/solana "View price details")[USDC
+3.53%](https://www.coindesk.com/price/ethereum "View price details")[USDT
 
 $0.9999
 
 \-
 
-0.00%](https://www.coindesk.com/price/usd-coin "View price details")[DOGE
+0.01%](https://www.coindesk.com/price/tether "View price details")[XRP
 
-$0.1724
-
-\-
-
-0.42%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
-
-$0.6856
-
-+
-
-1.21%](https://www.coindesk.com/price/cardano "View price details")[TRX
-
-$0.2378
-
-+
-
-0.43%](https://www.coindesk.com/price/tron "View price details")[WBTC
-
-$86,552.99
-
-+
-
-2.26%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[TON
-
-$3.9876
-
-+
-
-1.01%](https://www.coindesk.com/price/toncoin "View price details")[LINK
-
-$13.85
+$2.0630
 
 \-
 
-1.74%](https://www.coindesk.com/price/chainlink "View price details")[LEO
+4.24%](https://www.coindesk.com/price/xrp "View price details")[BNB
 
-$9.3916
-
-+
-
-0.40%](https://www.coindesk.com/price/unus-sed-leo "View price details")[XLM
-
-$0.2709
+$608.75
 
 \-
 
-1.03%](https://www.coindesk.com/price/xlm "View price details")[AVAX
+2.49%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
 
-$19.31
-
-+
-
-0.74%](https://www.coindesk.com/price/avax "View price details")[SUI
-
-$2.4442
-
-+
-
-0.48%](https://www.coindesk.com/price/sui "View price details")[SHIB
-
-$0.0₄1259
+$119.18
 
 \-
 
-0.42%](https://www.coindesk.com/price/shiba-inu "View price details")[HBAR
+2.82%](https://www.coindesk.com/price/solana "View price details")[USDC
 
-$0.1724
+$0.9999
 
 \-
 
-0.33%](https://www.coindesk.com/price/hbar "View price details")[LTC
+0.01%](https://www.coindesk.com/price/usd-coin "View price details")[DOGE
 
-$85.62
+$0.1660
+
+\-
+
+4.25%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
+
+$0.6515
+
+\-
+
+2.81%](https://www.coindesk.com/price/cardano "View price details")[TRX
+
+$0.2364
+
+\-
+
+0.25%](https://www.coindesk.com/price/tron "View price details")[WBTC
+
+$83,258.94
+
+\-
+
+1.58%](https://www.coindesk.com/price/wrapped-bitcoin "View price details")[TON
+
+$3.7946
+
+\-
+
+3.19%](https://www.coindesk.com/price/toncoin "View price details")[LINK
+
+$13.11
+
+\-
+
+5.51%](https://www.coindesk.com/price/chainlink "View price details")[LEO
+
+$9.4491
 
 +
 
-1.25%](https://www.coindesk.com/price/ltc "View price details")
+1.71%](https://www.coindesk.com/price/unus-sed-leo "View price details")[XLM
+
+$0.2630
+
+\-
+
+3.29%](https://www.coindesk.com/price/xlm "View price details")[AVAX
+
+$18.71
+
+\-
+
+5.60%](https://www.coindesk.com/price/avax "View price details")[SUI
+
+$2.3632
+
+\-
+
+4.06%](https://www.coindesk.com/price/sui "View price details")[SHIB
+
+$0.0₄1234
+
+\-
+
+3.25%](https://www.coindesk.com/price/shiba-inu "View price details")[HBAR
+
+$0.1639
+
+\-
+
+3.99%](https://www.coindesk.com/price/hbar "View price details")[LTC
+
+$83.71
+
+\-
+
+0.87%](https://www.coindesk.com/price/ltc "View price details")
 
 Ad
 
@@ -427,7 +427,7 @@ This section is part of our Privacy Policy but applies only to residents of the 
 
 **Your Rights:** You have certain rights under applicable law. These rights include (1) to obtain information about the processing of your personal data and a copy of your personal data that we store; (2) to request that we update your personal data if it is inaccurate or incomplete; (3) to request the deletion of your personal data if it is no longer necessary for the purposes for which it was collected or if you withdraw consent and no other legal basis for processing exists; (4) to restrict the processing if you contest the accuracy of your personal data, if our processing is deemed unlawful and you oppose deletion, or if we no longer need the personal data but must store it to comply with our legal obligations; (5) to receive your personal data and to transfer it to another controller; (6) to object to our processing when we process your personal data based on legitimate interest; and (7) to lodge a complaint about our collection or processing of your personal data with your Data Protection Authority (DPA).
 
-If you would like to exercise rights (1) through (6), please sending us an email at [privacy@coindesk.com](mailto:privacy@coindesk.com). To verify your identity, we may require you to provide us with personal data prior to accessing any records about you. If you would like to file a complaint with your DPA, contact details for the DPAs in the EEA and UK are available at [ec.europa.eu/justice/article-29/structure/data-protection-authorities/index\_en.htm](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) and for Switzerland at [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection---switzerland.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/links/data-protection---switzerland.html).
+If you would like to exercise rights (1) through (6), please sending us an email at [privacy@coindesk.com](mailto:privacy@coindesk.com). To verify your identity, we may require you to provide us with personal data prior to accessing any records about you. If you would like to file a complaint with your DPA, contact details for the DPAs in the EEA and UK are available at [ec.europa.eu](http://ec.europa.eu/justice/article-29/structure/data-protection-authorities/index_en.htm) and for Switzerland at [www.edoeb.admin.ch](https://www.edoeb.admin.ch/en).
 
 You are not required to provide all personal data identified in this Privacy Policy to use our Websites, purchase our services, or to interact with us offline, but certain functionality may not be available to you. If you do not provide your personal information, we may not be able to respond to your requests, perform a transaction with you, or provide you with marketing that we believe you would find valuable. We do not use automated decision-making without human intervention, including profiling, in a way that procedures legal effects concerning you or otherwise significantly affects you.
 
