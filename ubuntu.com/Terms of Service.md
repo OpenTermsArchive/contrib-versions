@@ -237,6 +237,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [CVEs](https://ubuntu.com/security/cves)
 * [Notices](https://ubuntu.com/security/notices)
 * [Docker Images](https://ubuntu.com/security/docker-images)
+* [Assurances](https://ubuntu.com/security/assurances)
 
 * * *
 
