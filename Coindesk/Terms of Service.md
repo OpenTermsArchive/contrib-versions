@@ -1,126 +1,124 @@
 [BTC
 
-$81,831.90
+$83,210.37
 
 \-
 
-5.54%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
+0.18%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
 
-$1,775.71
+$1,806.73
 
 \-
 
-6.16%](https://www.coindesk.com/price/ethereum "View price details")[USDT
+0.88%](https://www.coindesk.com/price/ethereum "View price details")[USDT
 
-$0.9997
+$0.9996
 
 \-
 
 0.02%](https://www.coindesk.com/price/tether "View price details")[XRP
 
-$2.0250
+$2.0797
+
++
+
+0.80%](https://www.coindesk.com/price/xrp "View price details")[BNB
+
+$596.42
 
 \-
 
-5.43%](https://www.coindesk.com/price/xrp "View price details")[BNB
-
-$587.70
-
-\-
-
-2.58%](https://www.coindesk.com/price/binance-coin "View price details")[USDC
+2.06%](https://www.coindesk.com/price/binance-coin "View price details")[USDC
 
 $1.0001
 
 +
 
-0.01%](https://www.coindesk.com/price/usd-coin "View price details")[SOL
+0.00%](https://www.coindesk.com/price/usd-coin "View price details")[SOL
 
-$113.91
-
-\-
-
-11.87%](https://www.coindesk.com/price/solana "View price details")[DOGE
-
-$0.1578
+$116.56
 
 \-
 
-8.08%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
+2.04%](https://www.coindesk.com/price/solana "View price details")[DOGE
 
-$0.6317
-
-\-
-
-7.61%](https://www.coindesk.com/price/cardano "View price details")[TRX
-
-$0.2357
+$0.1648
 
 \-
 
-1.03%](https://www.coindesk.com/price/tron "View price details")[TON
+0.83%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
 
-$3.5967
-
-\-
-
-9.71%](https://www.coindesk.com/price/toncoin "View price details")[LEO
-
-$9.3922
-
-\-
-
-0.03%](https://www.coindesk.com/price/unus-sed-leo "View price details")[LINK
-
-$12.51
-
-\-
-
-9.54%](https://www.coindesk.com/price/chainlink "View price details")[XLM
-
-$0.2560
-
-\-
-
-5.54%](https://www.coindesk.com/price/xlm "View price details")[AVAX
-
-$17.90
-
-\-
-
-7.31%](https://www.coindesk.com/price/avax "View price details")[SUI
-
-$2.2202
-
-\-
-
-9.04%](https://www.coindesk.com/price/sui "View price details")[SHIB
-
-$0.0₄1214
-
-\-
-
-3.56%](https://www.coindesk.com/price/shiba-inu "View price details")[HBAR
-
-$0.1591
-
-\-
-
-7.08%](https://www.coindesk.com/price/hbar "View price details")[LTC
-
-$81.44
-
-\-
-
-4.62%](https://www.coindesk.com/price/ltc "View price details")[OM
-
-$6.3681
+$0.6558
 
 +
 
-0.69%](https://www.coindesk.com/price/om "View price details")
+0.73%](https://www.coindesk.com/price/cardano "View price details")[TRX
 
-Ad
+$0.2387
+
++
+
+0.84%](https://www.coindesk.com/price/tron "View price details")[LEO
+
+$9.5874
+
++
+
+1.42%](https://www.coindesk.com/price/unus-sed-leo "View price details")[TON
+
+$3.5164
+
+\-
+
+7.54%](https://www.coindesk.com/price/toncoin "View price details")[LINK
+
+$12.89
+
+\-
+
+1.80%](https://www.coindesk.com/price/chainlink "View price details")[XLM
+
+$0.2616
+
+\-
+
+0.53%](https://www.coindesk.com/price/xlm "View price details")[AVAX
+
+$18.40
+
+\-
+
+1.74%](https://www.coindesk.com/price/avax "View price details")[SHIB
+
+$0.0₄1224
+
+\-
+
+0.80%](https://www.coindesk.com/price/shiba-inu "View price details")[SUI
+
+$2.2143
+
+\-
+
+6.38%](https://www.coindesk.com/price/sui "View price details")[HBAR
+
+$0.1627
+
+\-
+
+0.69%](https://www.coindesk.com/price/hbar "View price details")[LTC
+
+$83.89
+
++
+
+0.37%](https://www.coindesk.com/price/ltc "View price details")[OM
+
+$6.3356
+
++
+
+0.46%](https://www.coindesk.com/price/om "View price details")
 
 [Sign Up](https://www.coindesk.com/api/auth/login?returnTo=https%3A%2F%2Fwww.coindesk.com%2Fterms&screen_hint=signup&reg_module=navigation "Sign up for a free CoinDesk account")
 
@@ -262,9 +260,9 @@ English
 
 Select Language
 
-[English en](https://www.coindesk.com/terms)[Español es](https://www.coindesk.com/es/terms)[Filipino fil](https://www.coindesk.com/fil/terms)[Français fr](https://www.coindesk.com/fr/terms)[Italiano it](https://www.coindesk.com/it/terms)[Português pt-br](https://www.coindesk.com/pt-br/terms)[Русский ru](https://www.coindesk.com/ru/terms)[Українська uk](https://www.coindesk.com/uk/terms)
+[English en](https://www.coindesk.com/terms)[Português pt-br](https://www.coindesk.com/pt-br/terms)[Українська uk](https://www.coindesk.com/uk/terms)[Italiano it](https://www.coindesk.com/it/terms)[Русский ru](https://www.coindesk.com/ru/terms)[Français fr](https://www.coindesk.com/fr/terms)[Español es](https://www.coindesk.com/es/terms)[Filipino fil](https://www.coindesk.com/fil/terms)
 
-[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-1qyimvwhs-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75)](https://www.coindesk.com/)
+[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-327l7rzkg-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75)](https://www.coindesk.com/)
 
 * [News](https://www.coindesk.com/)
 * [Prices](https://www.coindesk.com/price)
@@ -409,7 +407,7 @@ DISCLOSURE & POLICES
 
 CoinDesk is an [award-winning](https://www.coindesk.com/business/2023/02/20/coindesk-wins-a-polk-award-a-top-journalism-prize-for-explosive-ftx-coverage) media outlet that covers the cryptocurrency industry. Its journalists abide by a strict set of [editorial policies](https://www.coindesk.com/ethics). CoinDesk has adopted a set of principles aimed at ensuring the integrity, editorial independence and freedom from bias of its publications. CoinDesk is part of the Bullish group, which owns and invests in digital asset businesses and digital assets. CoinDesk employees, including journalists, may receive Bullish group equity-based compensation. Bullish was incubated by technology investor Block.one.
 
-[Ethics](https://www.coindesk.com/ethics)[Privacy](https://www.coindesk.com/privacy)[Terms of Use](https://www.coindesk.com/terms)Cookie Consent[Do Not Sell My Info](https://www.coindesk.com/privacy#dnsmpi)
+[Ethics](https://www.coindesk.com/ethics)[Privacy](https://www.coindesk.com/privacy)[Terms of Use](https://www.coindesk.com/terms)Cookie Settings[Do Not Sell My Info](https://www.coindesk.com/privacy#dnsmpi)
 
 * * *
 
