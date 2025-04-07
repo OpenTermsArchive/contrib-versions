@@ -1441,19 +1441,21 @@ Article 2. Platform
 Article 3. Provision of Services
 --------------------------------
 
-The Company grants to User a non-exclusive right to use the Individual Service in accordance with these Individual Terms of Use and the terms of use set forth in the Individual Service. Even in cases where terms such as “purchase,” “sale,” and the like are displayed on the Individual Service page, Intellectual Property Rights and ownership relating to the content will not transfer to User, and User is granted only a use right.
+The Company grants to User a non-exclusive right to use the Individual Service in accordance with these Individual Terms of Use and the terms of use set forth in the Individual Service. Even in cases where terms such as “purchase,” “sale,” and the like are displayed on the Individual Service page, Intellectual Property Rights and ownership relating to the content (defined in the next article) will not transfer to User, and User is granted only a use right.
 
 Article 4. Content
 ------------------
 
-1. “Content” means manga works and their electronic book files that can be purchased and read on the Individual Service, including posted works.In addition, in these Individual Terms of Use, "subscription" means purchasing the right to view content provided for a fee with Coins (defined in the next article).
-2. Content may be read via a viewer using an application or browser version. Users shall comply with the unit of reading, the range of reading, the use fees, use periods, payment methods, and other terms of use specified with regard to Content.
-3. Content that is read for a fee may be used only from the account from which the purchase was made. Users may not assign or transfer Content use rights to third parties.
-4. Some content may have restrictions on how long it can be viewed. In this case, the Company may terminate or restrict the provision of the content without prior notice. We are not obliged to notify users that the browsing period has expired.
-5. Some Content may be purchasable and readable only using a browser and cannot be purchased or read through an application. Further, some Content may be purchased and readable through an application and cannot be purchased or read using a browser.
-6. Users may not use Content in excess of the use format intended by the Individual Service (including reproduction, transmission, reprinting, modification, and other similar conduct).
-7. Some Content may not be purchasable or readable depending on the region of use or the account use conditions.
-8. In the following cases, the Company may terminate or restrict the provision of specific content without prior notice , regardless of whether there are access period restrictions. Except where specified otherwise in the Master Terms of Use or these Individual Terms, the Company shall owe no liability for any damage suffered by Users in consequence of such termination or restriction of content provision under the provisions of this paragraph.
+1. “Comic” means manga works and their electronic book files that can be subscribed to and read on the Individual Service, including posted works.In addition, in these Individual Terms of Use, "subscription" means subscribing to a comic (hereinafter referred to as “Subscribed Comic”) provided for a fee with Coins (defined in the next article).
+2. “Novel” means the novels that can be read on the Individual Service.
+3. Collectively, “Content” means the comics, subscribed comics, and novels.
+4. Content may be read via a viewer using an application or browser version. Users shall comply with the unit of reading, the range of reading, the use fees, use periods, payment methods, and other terms of use specified with regard to Content.
+5. Subscribed Comics may be used only on the account or through the Application from which they were purchased. Users may not assign or transfer the use rights of Subscribed Comics to third parties.
+6. Some content may have restrictions on how long it can be viewed. In this case, the Company may terminate or restrict the provision of the content without prior notice. We are not obliged to notify users that the browsing period has expired.
+7. Some Content may be purchasable and readable only using a browser and cannot be purchased or read through an application. Further, some Content may be purchased and readable through an application and cannot be purchased or read using a browser.
+8. Users may not use Content in excess of the use format intended by the Individual Service (including reproduction, transmission, reprinting, modification, and other similar conduct).
+9. Some Content may not be purchasable or readable depending on the region of use or the account use conditions.
+10. In the following cases, the Company may terminate or restrict the provision of specific content without prior notice , regardless of whether there are access period restrictions. Except where specified otherwise in the Master Terms of Use or these Individual Terms, the Company shall owe no liability for any damage suffered by Users in consequence of such termination or restriction of content provision under the provisions of this paragraph.
     1. When the author, copyright holder, publishing company, or other rights holder of the content wishes to terminate or restrict provision;
     2. When an agreement between the Company and the author, copyright holder, publishing company, or other rights holder allowing Users to purchase or read the content has terminated; and
     3. When the Company otherwise determines that a circumstance has arisen which will make it difficult to provide the content to Users.
@@ -1461,24 +1463,24 @@ Article 4. Content
 Article 5. Coins
 ----------------
 
-1. “Coins” means a prepaid payment instrument exclusive to the Individual Service used for purchasing the Content that is fee-based (“Fee-based Content”).
-2. “Bonus Coins” means a payment instrument exclusive to the Individual Service granted to Users free of charge by the Company (excluding “Coins”set forth in the previous paragraph1 granted free of charge by the Company at the occasions of campaigns or the like), which Users may use to purchase Fee-based Content.
-3. Coins are granted to Users through purchases through the Individual Service, campaigns, and by other means specified by the Company. Coin purchase units, methods of payment, use periods, and other conditions of grant are specified by the Company and indicated on the Individual Service.
-4. Each of Coins has the following validity period. The Coins will be expired on the date when the validity period has expired:
-    1. Coins for iOS Application or Android Application: indefinite period,
-    2. Coins for Browser Version: 180 days on and after each date when Users get each Coin, or
-    3. Bonus Coins: 180 days on and after the last date when Users get Bonus Coin. This shall also apply to Bonus Coins which users hold before such date and are valid at the date.
-5. Coins and Bonus Coins may be exchanged only for the rights to purchase Fee-based Content specified by the Company. Coins or Bonus Coins may not be exchanged for any other rights (except the rights above), cash, goods, or other economic benefits. The number of Coins necessary for exchange for Content and other conditions of use of Coins including Bonus Coins shall be determined by the Company and indicated on the Individual Service. In cases where Coins or Bonus Coins are used to purchase Content, such use may not be canceled.
-6. No refunds of Coins shall be made for any reason; provided, however, that this shall not apply in the case where the Company discontinues the Individual Service and other cases where refund is required by laws and regulations. In such a case, the method of refund of Coins shall be specified by the Company in accordance with laws and regulations and indicated on the Individual Service.
-7. Coins and Bonus Coins may be used only from the account etc. used to purchase or get the Coins. Assignment or transfer of Coins to other accounts etc. is not permitted.
-8. Coins may be transferred on the same Platform verified from the same account; provided, however, that Coins puchased or gotten on different Platform are different types of Coins even though these Coins have the same name, and different types of Coins cannot be accepted or combined in any case.
-9. If the user's account or applications etc. is deleted (including the case User withdraws from the Individual Serivce),if the user's PC, smartphone or other instrument in which the Application or Browser Version is installed is lost, or if the user's ID or email address used for login to the Individual Service is lost, Coin or Bonus Coins will no longer be usable. In this case, the Company shall not be liable unless otherwise provided in Master Terms of Use or these Individual Terms of Use.
-10. If the user is deemed to have engaged in an act that is prohibited by the terms of use stipulated by the Company, the Company will be entitled to delete the account of the user without advance notice to the User When accounts have been deleted (including cases where a user's account or user’s membership has been canceled in accordance with Article 7 of the Master Terms of Use, Article 15 of the Master Terms of Use, or other provisions, or where a user has deleted its own account in accordance with Article 16 of the Master Terms of Use), unused Coins and unused Bonus Coins shall cease to exist.
+1. “Coin” means each of the following defined in this Article: App Version Purchase Coin, Browser Version Purchase Coin, and Bonus Coin. The purchase unit, payment method, and other conditions for App Version Purchase Coin and Browser Version Purchase Coin shall be displayed on each platform.
+2. “App Version Purchase Coin” means the prepaid payment instrument that can be purchased by the User on the iOS Application or Android Application and that can be used only on the respective App Version.
+3. “Browser Version Purchase Coin” means the prepaid payment instrument that can be purchased by the User on the Browser Version and that can be used only on the Browser Version.
+4. “Bonus Coin” means that which the Company awards to the User free of charge as a prize through campaigns or other means, and that may be used by the User to subscribe to and view Subscribed Comic regardless of platform. The validity periods for App Version Purchase Coin, Browser Version Purchase Coin, and Bonus Coin shall be as specified in the following:
+    1. App Version Purchase Coin: No expiration.
+    2. Browser Version Purchase Coin: Valid until the date that is 180 days after the purchase date of each Browser Version Purchase Coin.
+    3. Bonus Coin: Valid until the date that is 180 days after the date on which Bonus Coin was last acquired (hereinafter referred to as the “Last Acquisition Date”). (Bonus Coins held prior to the Last Acquisition Date that were valid as of the Last Acquisition Date shall also be valid until the date that is 180 days after the Last Acquisition Date.)Unused Browser Version Purchase Coins and Bonus Coins shall expire upon the lapse of their validity periods.
+5. Coins may not be exchanged for any rights other than the right to subscribe to and view Subscribed Comic as designated by the Company, nor for cash, property, or any other economic benefit. The number of Coins required for exchange with Subscribed Comic and other conditions of use shall be determined by the Company and displayed on the Individual Service. In addition, once Coins have been used for subscribing to and viewing Subscribed Comic, such use may not be cancelled.
+6. Coins shall not be refunded for any reason whatsoever; however, this shall not apply where required by law. In such cases, the method for refunding Coins shall be determined by the Company in accordance with applicable law and displayed on the Individual Service.
+7. Coins may only be used on the account with which they were acquired. They may not be assigned or transferred to other accounts.
+8. App Version Purchase Coins and Browser Version Purchase Coins may only be carried over on the same platform authenticated by the same account. Coins acquired on different platforms, even if bearing the same name, are of different types and, under any circumstances, may not be carried over or aggregated.
+9. In the event that a User’s account or application software is deleted (including cases where the User withdraws), or if the User loses the device on which the App Version or Browser Version is installed, or loses the ID or email address used for login, Coins will no longer be usable. In such cases, unless otherwise specified in the Master Terms of Use or these Individual Terms of Use, the Company shall not be liable.
+10. The Company may delete a User’s account without prior notice if it determines that the User has engaged in conduct prohibited by the Terms of Use set by the Company. In the event that the Service account is deleted (including cases where the account or User qualification is revoked pursuant to Article 7, Article 15, or other provisions of the Master Terms of Use, or when the User deletes their own account pursuant to Article 16 of the Master Terms of Use), any unused Coins shall expire.
 
 Article 6. Discount Items
 -------------------------
 
-1. “Discount Items” means a discount ticket exclusively for the Individual Service, which can be used when subscribing to Content that is Fee-based Content.
+1. “Discount Items” means a discount ticket exclusively for the Individual Service, which can be used when subscribing to Subscribed Comic.
 2. The Discount Items provided by the Company in the Individual Service fall under the following two categories:
     1. Coupons; and
     2. Promotion codes.
@@ -1501,6 +1503,7 @@ Supplementary Provisions
 Revision
 --------
 
+* 4/7, 2025 Article 3 (Provision of Services) through Article 6 (Discount Items) have been revised in conjunction with the commencement of the novel reading functionality.
 * 9/20, 2022 Article 4 (Content) have been revised.
 * 2/7, 2022 Article 5 (Coins) have been revised.
 * 3/25, 2021 Article 2 (Platform) has been added. Article 5 (Coins) and Article (Discount Items) have been revised.
