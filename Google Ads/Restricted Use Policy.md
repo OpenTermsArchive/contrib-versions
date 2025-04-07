@@ -76,7 +76,9 @@ Prohibited practices
 
 > ### [Abusing the ad network](https://support.google.com/adspolicy/answer/6020954)
 > 
-> > We want ads across the Google Network to be useful, varied, relevant, and safe for users. We don’t allow advertisers to run ads, content, or destinations that attempt to trick or circumvent our ad review processes.
+> > Ads across the Google Network should be useful, varied, relevant, and safe for users. Google Ads doesn't allow advertisers to run ads, content, or destinations that attempt to trick or circumvent our ad review processes.
+> > 
+> > Learn more about the [Abusing the ad network policy](https://support.google.com/adspolicy/answer/6020954).
 > > 
 > > **Examples of abusing of the ad network (non-exhaustive)**: promoting content that contains malware; "cloaking" or using other techniques to hide the true destination that users are directed to; "arbitrage" or promoting destinations for the sole or primary purpose of showing ads; promoting "bridge" or "gateway" destinations that are solely designed to send users elsewhere; advertising with the sole or primary intent of gaining public social network endorsements from the user; "gaming" or manipulating settings in an attempt to circumvent our policy review systems
 > 
@@ -92,7 +94,9 @@ Prohibited practices
 > 
 > ### [Misrepresentation](https://support.google.com/adspolicy/answer/6020955)
 > 
-> > We want users to trust the ads on our platform, so we strive to ensure ads are clear and honest, and provide the information that users need to make informed decisions. We don’t allow ads or destinations that deceive users by excluding relevant product information or providing misleading information about products, services, or businesses.
+> > We want ads across the Google Network to be useful, varied, relevant, and safe for users. We don’t allow advertisers to run ads, content, or destinations that attempt to trick or circumvent our ad review processes.
+> > 
+> > Below are some examples of what to avoid in your ads. Learn more about [What happens if you violate our policies](https://support.google.com/adspolicy/answer/7187501).
 > > 
 > > **Examples of misrepresentation (non-exhaustive)**: omitting or obscuring billing details such as how, what, and when users will be charged; omitting or obscuring charges associated with financial services such as interest rates, fees, and penalties; failing to display tax or licence numbers, contact information, or physical address where relevant; making offers that aren't actually available; making misleading or unrealistic claims regarding weight loss or financial gain; collecting donations under false pretenses; "phishing" or falsely purporting to be a reputable company in order to get users to part with valuable personal or financial information
 
@@ -249,6 +253,7 @@ Advertisers have a responsibility not to promote content or engage in behavior t
 Need help?
 ----------
 
+  
 If you have questions about our policies, [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
 
 Rate how helpful this page is and share your feedback with us below:
