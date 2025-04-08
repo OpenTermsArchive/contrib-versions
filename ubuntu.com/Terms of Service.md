@@ -176,7 +176,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 * [ROS ESM](https://ubuntu.com/robotics/ros-esm)
 * [What is ROS](https://ubuntu.com/robotics/what-is-ros)
 * [Community](https://ubuntu.com/robotics/community)
-* [Docs](https://ubuntu.com/robotics/docs)
+* [Docs](https://canonical-robotics.readthedocs-hosted.com/en/latest/)
 
 * * *
 
