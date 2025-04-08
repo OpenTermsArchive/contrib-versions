@@ -1679,6 +1679,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Land information New Zealand [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        * Data Govt: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     47. **Northern Ireland**
         * © Ordnance Survey of Northern Ireland
             
@@ -2685,6 +2687,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Servicio de Geomática, República Oriental del Uruguay. Dataset used: [https://catalogodatos.gub.uy/dataset/intendencia-montevideo-parcelas-catastrales](https://catalogodatos.gub.uy/dataset/intendencia-montevideo-parcelas-catastrales) ([https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia\_de\_datos\_abiertos\_0.pdf](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf))
             
         * Agencia de Gobierno Electrónico y Sociedad de la Información y del Conocimiento, AGESIC (UY): [https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/) Licensed under Open Data License - Uruguay Credited for Political Admin Areas
+            
+        * Infraestructura de Datos Espaciales: [https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia\_de\_datos\_abiertos\_0.pdf](https://www.gub.uy/agencia-gobierno-electronico-sociedad-informacion-conocimiento/sites/agencia-gobierno-electronico-sociedad-informacion-conocimiento/files/documentos/publicaciones/licencia_de_datos_abiertos_0.pdf)
             
     72. **Worldwide**
         * Unicode Common Locale Data Repository © Unicode, Inc. ([https://www.unicode.org/copyright.html](https://www.unicode.org/copyright.html)). All rights reserved.
