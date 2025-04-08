@@ -1,5 +1,3 @@
-**We've updated our Privacy Policy, effective 7 April 2025. You can view the prior Privacy Policy, which applies to all users until 7 April 2025,** [**here**](https://www.snap.com/privacy/prior-privacy-policy-02-24-2024?lang=en-GB)**.**
-
 ### 
 
 Privacy Policy
