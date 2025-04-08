@@ -12,13 +12,15 @@ Table of Contents
 
 Welcome! This is where you can learn about Criteo, the technologies and services we offer to our partners, and our data collection and privacy policies.
 
-[Disable Criteo services](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers/)
-
 [![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=5f32f66b-aff3-4986-b4a3-b33ea7c0c7b7)](https://privacy.truste.com/privacy-seal/validation?rid=5f32f66b-aff3-4986-b4a3-b33ea7c0c7b7)
 
-#### Our activity
+#### About Criteo
+
+Criteo is a public limited company with its registered office at 32 rue Blanche, 75009 Paris, FRANCE, and registered with the Paris Trade and Companies Register under number 484 786 249.
 
 Criteo helps brands, e-commerce sites and other advertisers (“Advertisers”) promote their products and services. We do that by enabling Advertisers to tailor their campaigns and/or offers to audiences that they want to reach with content that they wish to promote, which in turns means that you may receive advertising that may be of interest to you on the websites, mobile applications and other platforms of our partners (the “Publishers” or “Partners”).
+
+Criteo acts as a joint controller together with its clients and partners when processing your personal data. For more information, please see [how we use your data](https://www.criteo.com/privacy/how-we-use-your-data/).
 
 #### How do our services work?
 
@@ -139,19 +141,19 @@ By using the Criteo Services, they undertake, where the applicable regulations r
 
 In order to help our partners meet their legal and contractual obligations, we regularly share industry best practices with them.  
 
-#### Google’s Privacy Sandbox
-
-We participate in testing the Google Privacy Sandbox, a set of technologies to enable digital advertising without using third-party cookies in Google Chrome. With your consent, and as part of the testing, Criteo may store and access data on your device or browser, including by setting new cookies, that relates to your web browsing interests and to ad measurement. In accordance with applicable data protection laws, you have the right to withdraw your consent at any time on this [page](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers/). For more information about the Google Privacy Sandbox please see [https://privacysandbox.com/](https://privacysandbox.com/).
-
 #### Your data, your choice
 
-[Understand my rights](https://www.criteo.com/privacy/your-rights/) in relation to my personal data.  
-Learn more about [how we use your data](https://www.criteo.com/privacy/how-we-use-your-data/).  
-[Disable Criteo services](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers/).  
-[Contact us](mailto:dpo@criteo.com).
+You can learn more about how we use your data [here](https://www.criteo.com/privacy/how-we-use-your-data/), and you can exercise your rights in relation to your data [here](https://www.criteo.com/privacy/your-rights/). You also can disable Criteo services [here](https://www.criteo.com/privacy/disable-criteo-services-on-internet-browsers/).
+
+If you have any questions about this privacy notice or our privacy practices, would like to contact our Data Protection Officer, you can contact us:
+
+* By post: Data Protection Officer – 32 rue Blanche, 75009 Paris, FRANCE.
+* By email: dpo@criteo.com
+
+In addition, if you have any questions about privacy or the use of your data in connection with our services, you may contact our US-based dispute resolution service provider free of charge at this [link](https://feedback-form.truste.com/watchdog/request).
 
 #### Changes to our privacy policy
 
 Please note that we may update or change this privacy policy. If we revise our privacy policy, we will post those changes to this privacy statement, and to other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any we disclose it. If we make any material changes we will notify you by means of a notice on this site prior to the change becoming effective.
 
-Last updated: 01/01/2025
+Last updated: 04/04/2025
