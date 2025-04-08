@@ -225,8 +225,6 @@ If you have any questions about this Policy or wish to exercise your rights, ple
 
 **Email:** readerservices@situationpublishing.com
 
-**Email:** datacontroller@sitpub.com
-
 **Postal address UK**  
 Situation Publishing Limited,  
 27 Old Gloucester St  
