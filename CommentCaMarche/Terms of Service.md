@@ -141,9 +141,9 @@ French law applies to the content and data transmission on and related to this w
 [CCM](https://ccm.net/apps-sites/internet-archeology/ccm/)
 ----------------------------------------------------------
 
+* [How is your data processed by CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/9941-processing-of-personal-data-ccm/)
 * [CCM: Terms of Use and Legal Matters](https://ccm.net/apps-sites/internet-archeology/ccm/10123-terms-of-use-for-ccm/)
 * [CCM: Who we are](https://ccm.net/apps-sites/internet-archeology/ccm/9987-ccm-who-we-are/)
-* [How is your data processed by CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/9941-processing-of-personal-data-ccm/)
 * [Why CCM won't help unlock phones, smart watches or SIM cards](https://ccm.net/apps-sites/internet-archeology/ccm/1783-why-ccm-doesn-t-help-unlock-mobile-phones-smart-watches-or-sim-cards/)
 * [CCM: My profile has been blocked, what to do?](https://ccm.net/apps-sites/internet-archeology/ccm/10195-ccm-my-profile-has-been-blocked/)
 * [CCM: Commercial, religious, politics terms of use](https://ccm.net/apps-sites/internet-archeology/ccm/10149-terms-of-use-for-ccm-commercial-religious-politics/)
@@ -153,8 +153,8 @@ French law applies to the content and data transmission on and related to this w
 * [CCM: Community Management](https://ccm.net/apps-sites/internet-archeology/ccm/10143-community-management/)
 * [CCM: User Guide](https://ccm.net/apps-sites/internet-archeology/ccm/10121-user-guide/)
 * [Moderation Guidelines](https://ccm.net/apps-sites/internet-archeology/ccm/10125-moderation-guidelines/)
+* [Advice for writing messages on CCM](https://ccm.net/apps-sites/internet-archeology/ccm/10137-advice-for-writing-messages-on-ccm/)
 * [How to browse CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10129-browsing-ccm/)
 * [CCM: Copyright Information](https://ccm.net/apps-sites/internet-archeology/ccm/10145-copyright-information/)
-* [Advice for writing messages on CCM](https://ccm.net/apps-sites/internet-archeology/ccm/10137-advice-for-writing-messages-on-ccm/)
 * [CCM: Moderation of defamatory posts](https://ccm.net/apps-sites/internet-archeology/ccm/10197-ccm-moderation-of-defamatory-posts/)
 * [How to contribute to the development of CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10135-contributing-to-the-development-of-ccm-net/)
