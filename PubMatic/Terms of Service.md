@@ -1,7 +1,7 @@
 Publisher Master Services Agreement
 ===================================
 
-**Dated: April 8, 2024**
+**Dated: April 10, 2025**
 
 **Subject to Service Order:**
 
@@ -12,11 +12,16 @@ This Agreement, effective as of the Effective Date provided in the Service Order
 We recommend that you read this entire Agreement carefully.  However, to make it easier for you to review those sections of this Agreement that apply to you, you may click the links below:
 
 * Section 1- [PubMatic Products](#Services)
+    
     * 1.1- [Provision of Services](#Provision)
     * 1.2- [License](#License)
     * 1.3- [Multi-Level Auction](#Multi)
     * 1.4- [Account Credentials](#Credentials)
-* Section 2- [Warranties; Disclaimer](#Warranties)
+    * 1.5- [Third Party Service Providers](#ThirdParty)
+    [](#ThirdParty)
+    
+    [](#ThirdParty)
+[](#ThirdParty)* [Section 2-](#ThirdParty) [Warranties; Disclaimer](#Warranties)
     * 2.1- [Mutual Warranties](#Mutual)
     * 2.2- [PubMatic Warranties](#PubWar)
     * 2.3- [Publisher Warranties](#PubWarranties)
@@ -54,6 +59,8 @@ We recommend that you read this entire Agreement carefully.  However, to make i
 
 1.4    Account Credentials. In connection with applicable PubMatic Products, Publisher may set or be issued account credentials, including, but not limited to, username, Publisher name, email and password. Publisher shall be responsible for maintaining, protecting, and securing all account credentials and will not share account credentials with any unauthorized persons. In the event of an actual or suspected breach or unauthorized use of account credentials, Publisher shall promptly provide written notice to PubMatic of any such incident with reasonable supporting details and documentation. Publisher is solely responsible for all account activity related to account credentials, regardless of whether such activity is authorized or unauthorized, and PubMatic disclaims any and all liability related to or arising out of such account activity.
 
+1.5 Third Party Service Providers. The PubMatic Products may enable Publisher to have access to various products and services provided by third party vendors/service providers, in which case Publisher’s use of such products and services shall be subject to the applicable third-party terms which may be made available to Publisher on the applicable PubMatic Product interface. Use of such third party products and services by Publisher may result in additional fees, which shall be reflected on the applicable Monthly Statement.
+
 **SECTION 2 – WARRANTIES; DISCLAIMER**
 
 2.1    Mutual Warranties. Each party represents and warrants to the other party that: (a) the person executing this Agreement is duly authorized and has the legal capacity to execute and deliver this Agreement; (b) it is duly organized and existing and is in good standing under the laws of its jurisdiction of formation or incorporation; (c) it has all necessary rights and authority to enter into, execute and perform its obligations under this Agreement; and (d) the execution of this Agreement and the performance of its respective obligations hereunder do not and will not violate any agreement to which such party is a party or by which it is otherwise bound.
@@ -68,7 +75,7 @@ We recommend that you read this entire Agreement carefully.  However, to make i
 
 3.1    Publisher Revenue; Payments; Reporting.
 
-3.1.1         During the Term, PubMatic shall pay Publisher the Publisher Revenue (when in aggregate over $200 USD, or the currency equivalent selected in the Order Form), net of (a) PubMatic fees for each PubMatic Product, (b) third party auction-related, transaction-based or service fees, and (c) Charged Adjustments, within the time period set forth in the Order Form (or if none set forth, than ninety (90) days, following the end of each calendar month. PubMatic shall provide Publisher with a monthly statement which includes the Publisher Revenue, PubMatic fees for each PubMatic Product, and Charged Adjustments (if applicable) (the “Monthly Statement”). If Publisher does not raise any issues in writing about the Monthly Statement within thirty (30) days of receipt, Publisher will forfeit its right to do so. Publisher acknowledges that all numbers displayed in any other reporting apart from the Monthly Statement made available by PubMatic are estimates and do not represent valid numbers for billing purposes.
+3.1.1         During the Term, PubMatic shall pay Publisher the Publisher Revenue (when in aggregate over $200 USD, or the currency equivalent selected in the Order Form), net of (a) PubMatic fees for each PubMatic Product, (b) third party, auction, transactional or service fees, and (c) Charged Adjustments, within the time period set forth in the Order Form (or if none set forth, than ninety (90) days, following the end of each calendar month. PubMatic shall provide Publisher with a monthly statement which includes the Publisher Revenue, PubMatic fees for each PubMatic Product, and Charged Adjustments (if applicable) (the “Monthly Statement”). If Publisher does not raise any issues in writing about the Monthly Statement within thirty (30) days of receipt, Publisher will forfeit its right to do so. Publisher acknowledges that all numbers displayed in any other reporting apart from the Monthly Statement made available by PubMatic are estimates and do not represent valid numbers for billing purposes.
 
 3.1.2.        Publisher acknowledges and agrees that (a) the PubMatic Fee provided herein for any of the PubMatic Products elected by Publisher may vary in accordance with the terms of third-party supply optimization (“**SPO**”) agreements between PubMatic and applicable Demand Partner(s), and (b) in the event of any conflict between the PubMatic Fee provided in the Agreement and that provided in an SPO agreement with a Demand Partner, the latter shall control.
 
