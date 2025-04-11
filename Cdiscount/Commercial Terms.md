@@ -1390,7 +1390,7 @@ Une fois le formulaire d’inscription renseigné par l’Abonné un « email d
 
 Cet email permet au Bénéficiaire de prendre connaissance des conditions applicables au Partage ainsi que des CGA.  
   
-Un (1) jour suivant la réception de l’« email de bienvenue », le Bénéficiaire pourra profiter de l’ensemble des avantages inclus dans l'Abonnement au Service et ce, pour la durée de l’Abonnement de l’Abonné restant à courir (hors renouvellement).
+Un (1) jour suivant la réception de l’« email de bienvenue », le Bénéficiaire pourra profiter de l’ensemble des avantages inclus dans l’Abonnement au Service et ce, pour la durée de l’Abonnement de l’Abonné restant à courir (hors renouvellement).
 
 En conséquence : 
 
