@@ -148,7 +148,7 @@ You can learn more about how we use your data [here](https://www.criteo.com/priv
 If you have any questions about this privacy notice or our privacy practices, would like to contact our Data Protection Officer, you can contact us:
 
 * By post: Data Protection Officer – 32 rue Blanche, 75009 Paris, FRANCE.
-* By email: dpo@criteo.com
+* By email: [dpo@criteo.com](mailto:dpo@criteo.com)
 
 In addition, if you have any questions about privacy or the use of your data in connection with our services, you may contact our US-based dispute resolution service provider free of charge at this [link](https://feedback-form.truste.com/watchdog/request).
 
