@@ -9,12 +9,11 @@ This privacy policy outlines what information we collect, how we secure it, and 
 
 illumin (“we” “our”) is a leading advertising company that provides a technology platform (the “Platform”) for marketers, offering a powerful and holistic solution for digital advertising across all ad formats and devices to amplify reach and Share of Attention™ throughout the customer journey. illumin has developed a proprietary technology platform that enables marketers and agencies to effectively target consumers with digital advertising. Most of the internet is offered to users free of charge. Web publishers are able to offer valuable content for free because they are supported by advertising. illumin aims to create a better digital experience for web users by allowing advertisers to present relevant advertising content, rather than advertising that is unrelated to users’ interests. Advertisers also benefit because targeted advertising is more effective and better received.
 
-We offer this privacy policy (the “Policy”) because we take your privacy seriously. This Policy outlines our privacy practices with respect to the illumin Platform. If you want to understand illumin’s privacy practices with respect to our corporate website and information we collect from our customers, please visit our Corporate Privacy Policy here.
+We offer this privacy policy (the “Policy”) because we take your privacy seriously. This Policy outlines our privacy practices with respect to the illumin Platform. If you want to understand illumin’s privacy practices with respect to our corporate website and information we collect from our customers, please visit our [Corporate Privacy Policy](https://illumin.com/legal/corporate/).
 
 We are members in good standing with the Network Advertising Initiative (NAI), and participants in the Digital Advertising Alliance (DAA) and the Digital Advertising Alliance of Canada’s (DAAC) Self-Regulatory Principles for Online Behavioural Advertising. We continuously improve our privacy safeguards in order to help protect information about your browsing activities.
 
 Overview of the types of data collected by illumin’s Platform
--------------------------------------------------------------
 
 #### Personal data
 
@@ -70,7 +69,7 @@ illumin takes reasonable measures to help protect the information we collect fro
 
 Many Internet users enjoy receiving relevant advertisements. Our algorithm reads your online data and aims to deliver you the most relevant advertising content available. This results in you only seeing ads that match your inferred interests. Without targeted advertising, marketers do not know your consumer preferences and will likely deliver you ads that you are uninterested in.
 
-It is also important to consider that the websites you use receive substantial payments from marketers to present interest based ads. These increased revenues can improve website content and pass on a reciprocal benefit to you, as the user. Without these revenue websites are more likely to deliver lesser value content. illumin periodically evaluates the benefits of the targeted ads served by our platform against the potential risks to data protection rights
+It is also important to consider that the websites you use receive substantial payments from marketers to present interest based ads. These increased revenues can improve website content and pass on a reciprocal benefit to you, as the user. Without these revenue websites are more likely to deliver lesser value content. illumin periodically evaluates the benefits of the targeted ads served by our platform against the potential risks to data protection rights.
 
 ### Browser-based choice mechanisms
 
@@ -108,14 +107,15 @@ We adhere to applicable laws when it comes to honoring data subject rights such 
 
 Certain U.S. states (e.g., California, Virginia, Nevada, Colorado and Connecticut) provide additional privacy protections for their data subjects under applicable law, including: a) the right to see what data we have about you, (i.e., the right to know), b) the right to delete the data we have about you, (i.e., the right to delete), c) the right to correct the data we have about you, and; d) the right to opt-out of the sale of data about you (i.e., the right to opt-out from sales of your information). Most of these rights are also applicable to the Pseudonymous Identifiers and other personal data collected about your computer or device by the Platform. We do not discriminate against you if you exercise any of the above rights. Moreover, we may not be able to honor a right if doing so would violate applicable law.
 
-* You may access those rights with respect to illumin by sending us an email to [privacy@illumin.com](mailto:privacy@illumin.com), by calling our California privacy help line at 1-866-6Acuity, or by visiting our [data subject access page here](https://illumin.com/legal/subject-access-request/). If you make a subject access request as set out in this policy, you are entitled to see and delete the personal information that we have about you. We will confirm your request within 10 days and make a good faith attempt to fulfill your request within 45 days unless applicable law provides that we do so more quickly. Some jurisdictions provide you with the right lodge an appeal to illumin if you are unsatisfied with our response to your request to exercise the rights above. Please send any appeals to [privacy@illumin.com](mailto:privacy@illumin.com) Some U.S. states also provide you with the right to further appeal our determination to a consumer protection agency located in that state. For example:
-    * Colorado – The Colorado Attorney General’s Office.
-    * Maryland – Maryland Attorney General Consumer Protection Division.
-    * Nebraska – Nebraska Attorney General’s Office.
-    * New Hampshire – Data Privacy Unit of the Consumer Protection and Antitrust Bureau of the New Hampshire Attorney General’s Office
-    * New Jersey – Division of Consumer Affairs in the Department of Law and Public Safety of New Jersey.
-    * Texas – For denied appeals, visit the Texas Attorney General’s Office, Consumer Protection Division.
-    * Virginia – For denied appeals, visit the Virginia Attorney General’s Office, Consumer Protection Division.
+You may access those rights with respect to illumin by sending us an email to [privacy@illumin.com](mailto:privacy@illumin.com), by calling our California privacy help line at 1-866-6Acuity, or by visiting our [data subject access page here](https://illumin.com/legal/subject-access-request/). If you make a subject access request as set out in this policy, you are entitled to see and delete the personal information that we have about you. We will confirm your request within 10 days and make a good faith attempt to fulfill your request within 45 days unless applicable law provides that we do so more quickly. Some jurisdictions provide you with the right lodge an appeal to illumin if you are unsatisfied with our response to your request to exercise the rights above. Please send any appeals to [privacy@illumin.com](mailto:privacy@illumin.com) Some U.S. states also provide you with the right to further appeal our determination to a consumer protection agency located in that state. For example:
+
+* Colorado – [The Colorado Attorney General’s Office](https://coag.gov/office-sections/consumer-protection/)
+* Maryland – [Maryland Attorney General Consumer Protection Division](https://www.marylandattorneygeneral.gov/Pages/CPD/default.aspx)
+* Nebraska – [Nebraska Attorney General’s Office](https://ago.nebraska.gov/)
+* New Hampshire – [Data Privacy Unit of the Consumer Protection and Antitrust Bureau of the New Hampshire Attorney General’s Office](https://www.doj.nh.gov/news-and-media/attorney-general-formella-announces-creation-new-data-privacy-unit)
+* New Jersey – [Division of Consumer Affairs in the Department of Law and Public Safety of New Jersey](https://www.njconsumeraffairs.gov/)
+* Texas – For denied appeals, visit the [Texas Attorney General’s Office, Consumer Protection Division](https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint)
+* Virginia – For denied appeals, visit the V[irginia Attorney General’s Office, Consumer Protection Division](https://www.oag.state.va.us/consumer-protection/files/tips-and-info/Virginia-Consumer-Data-Protection-Act-Summary-2-2-23.pdf)
 
 The number of CCPA requests to know that illumin received, compiled with whole or part and denied in 2023: 13, 13 and 0.
 
@@ -135,9 +135,9 @@ Where illumin receives from an EU data subject a request to cease processing of 
 
 If you believe illumin is processing one of your Pseudonymous Identifiers and wish to exercise your right to access, delete, port or remove such information, please click [here](https://illumin.com/legal/subject-access-request/) to visit our EU data subject access request page.
 
-For all requests concerning the security of your data, please contact our data protection officer at [privacy@illumin.com](mailto:privacy@illumin.com).
+For all requests concerning the security of your data, please contact our Data Protection Officer at [dpo@illumin.com](mailto:dpo@illumin.com).
 
-If you have a particularly sensitive request, you may want to consider contacting our data protection officer by postal mail, as communication by e-mail can always be flawed by security vulnerabilities.
+If you have a particularly sensitive request, you may want to consider contacting our Data Protection Officer by postal mail, as communication by e-mail can always be flawed by security vulnerabilities.
 
 ### Revisions
 
@@ -145,17 +145,15 @@ illumin reserves the right to revise its policies and practices periodically. If
 
 ### Contacting us
 
-If you have any questions about our privacy policy, please contact us:
+If you have any questions about our privacy policy or data protection, please contact us:
 
-Simon Cairns, CEO  
 illumin Inc.  
-[www.illumin.com](https://illumin.com/)  
 70 University Ave, Suite 1200  
 Toronto, ON, Canada  
 M5J 2M4  
 (416) 218-9888
 
-[privacy@illumin.com](mailto:privacy@illumin.com)
+[dpo@illumin.com](mailto:dpo@illumin.com)
 
 The illumin Data Protection Officer is Alan Chapell and he may be reached at [dpo@illumin.com](mailto:dpo@illumin.com).
 
