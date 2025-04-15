@@ -255,6 +255,7 @@ Publication Categories
 * [Retail & eCommerce](https://www.webpronews.com/ecommerce/)
 * [Emerging Tech](https://www.webpronews.com/emergingtech/)
 * [Life](https://www.webpronews.com/life/)
+* [SoftwareEngineeringNews](https://www.webpronews.com/softwareengineeringnews/)
 * [IT Management](https://www.webpronews.com/technology/)
 
 Advertise With Us
