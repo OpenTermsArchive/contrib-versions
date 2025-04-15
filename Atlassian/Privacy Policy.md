@@ -158,7 +158,7 @@ How we store and secure information we collect
 
 **Information storage and security**
 
-We use industry standard technical and organizational measures to secure the information we store. For more information on where and how we store your information, please see the [Atlassian Trust](https://www.atlassian.com/trust), [Trello Trust](https://trello.com/en-US/trust), and [Jira Align Trust](https://www.atlassian.com/software/jira-align/security) pages. 
+We use industry standard technical and organizational measures to secure the information we store. For more information on where and how we store your information, please see the [Atlassian Trust](https://www.atlassian.com/trust), [Trello Trust](https://trello.com/en-US/trust), and [Jira Align Trust](https://www.atlassian.com/collections/strategy/security) pages. 
 
 While we implement safeguards designed to protect your information, no security system is impenetrable and due to the inherent nature of the Internet, we cannot guarantee that information, during transmission through the Internet or while stored on our systems or otherwise in our care, is absolutely safe from intrusion by others.
 
