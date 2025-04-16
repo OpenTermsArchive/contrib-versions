@@ -21,13 +21,6 @@ We also have a [Privacy Policy](https://discord.com/privacy), [Community Guideli
 
 Together, these rules make Discord possible, and they matter to us. If you believe others aren’t following them, please let us know [by reporting it to us](https://discord.com/safety/360044103651-reporting-abusive-behavior-to-discord).
 
-Who we are
-----------
-
-We provide services that allow you to interact with other Discord users (such as through direct messages and group direct messages) and participate in large and small spaces (or “servers”). Our services may also include access to certain software, features, and content, including items that you can purchase from us or others. Additional [terms](https://discord.com/terms/paid-services-terms) may apply to those purchases.
-
-Discord Inc. is located at 444 De Haro Street #200, San Francisco, CA 94107, USA. Discord Netherlands B.V. is located at Schiphol Boulevard 195, 1118 BG Schiphol, Netherlands.
-
 Age requirements and responsibility of parents and legal guardians
 ------------------------------------------------------------------
 
@@ -264,3 +257,10 @@ Contacting each other
 ---------------------
 
 If you have any questions about these terms, please contact us at [privacy@discord.com](mailto:privacy@discord.com). We may send you electronic communications related to our services. Where required, we’ll get your consent before sending you direct marketing, and we’ll make it easy for you to opt out.
+
+Who we are
+----------
+
+We provide services that allow you to interact with other Discord users (such as through direct messages and group direct messages) and participate in large and small spaces (or “servers”). Our services may also include access to certain software, features, and content, including items that you can purchase from us or others. Additional [terms](https://discord.com/terms/paid-services-terms) may apply to those purchases.
+
+Discord Inc. is located at 444 De Haro Street #200, San Francisco, CA 94107, USA. Discord Netherlands B.V. is located at Schiphol Boulevard 195, 1118 BG Schiphol, Netherlands.
