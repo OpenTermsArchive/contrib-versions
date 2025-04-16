@@ -5,17 +5,6 @@ Discord Privacy Policy
 
 #### Last Updated: March 15, 2024
 
-**Welcome!**
-------------
-
-This Privacy Policy explains how we collect, use, store, protect, and share your personal information through our services. If you reside in the European Economic Area (“EEA”) or United Kingdom, Discord Netherlands BV is the “data controller” of your personal information collected through the services (as defined in our [Terms of Service](https://discord.com/terms)). For everyone else, Discord Inc. is the data controller. It’s important that you read this entire policy, but here’s a summary to get you started:
-
-* **We care a lot about privacy**. We are committed to creating spaces where people can talk, hang out and have fun with friends online. Respecting user privacy is a key part of [that mission](https://discord.com/safety-privacy).
-* **We don’t sell your personal information**. Our business is based on subscriptions and paid products, not from selling your personal information to third parties.
-* **We limit what information is required**. We require the information that enables us to create your account, provide and maintain our services, meet our commitments to our users, and satisfy our legal requirements. The rest is optional.
-* **We care deeply about safety**. Our dedicated Trust and Safety team works hard to help keep our community safe. We also use certain information to help us identify violations of our Community Guidelines and prevent harmful content from being distributed through the services. 
-* **We give you control**. We give you the ability to control your privacy on Discord.
-
 Discord is the best place to talk, hang out and have fun with friends online
 ----------------------------------------------------------------------------
 
@@ -231,3 +220,14 @@ VeraSafe United Kingdom Ltd. 
 37 Albert Embankment 
 
 London SE1 7TL United Kingdom
+
+**Welcome!**
+------------
+
+This Privacy Policy explains how we collect, use, store, protect, and share your personal information through our services. If you reside in the European Economic Area (“EEA”) or United Kingdom, Discord Netherlands BV is the “data controller” of your personal information collected through the services (as defined in our [Terms of Service](https://discord.com/terms)). For everyone else, Discord Inc. is the data controller. It’s important that you read this entire policy, but here’s a summary to get you started:
+
+* **We care a lot about privacy**. We are committed to creating spaces where people can talk, hang out and have fun with friends online. Respecting user privacy is a key part of [that mission](https://discord.com/safety-privacy).
+* **We don’t sell your personal information**. Our business is based on subscriptions and paid products, not from selling your personal information to third parties.
+* **We limit what information is required**. We require the information that enables us to create your account, provide and maintain our services, meet our commitments to our users, and satisfy our legal requirements. The rest is optional.
+* **We care deeply about safety**. Our dedicated Trust and Safety team works hard to help keep our community safe. We also use certain information to help us identify violations of our Community Guidelines and prevent harmful content from being distributed through the services. 
+* **We give you control**. We give you the ability to control your privacy on Discord.
