@@ -200,6 +200,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Amt der Tiroler Landesregierung - [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        * Data Gov AT - [https://www.data.gv.at/katalog/dataset/3fefc838-791d-4dde-975b-a4131a54e7c5#additional-info](https://www.data.gv.at/katalog/dataset/3fefc838-791d-4dde-975b-a4131a54e7c5#additional-info)
+            
     5. **Argentina**
         * Instituto Geográfico Nacional (AR): [https://www.ign.gob.ar/](https://www.ign.gob.ar/)
             
@@ -2573,7 +2575,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         214. Santa Clara Valley Transportation Authority (US): [https://www.vta.org/](https://www.vta.org/)
             
-        215. Catalog Data Gov (US): [https://www.usa.gov/copyrighted-government-works](https://www.usa.gov/copyrighted-government-works)
+        215. Catalog Data Gov: [https://www.usa.gov/government-copyright](https://www.usa.gov/government-copyright)
             
         216. San Jose CA Open Data Portal: [https://data.sanjoseca.gov/dataset/neighborhoods](https://data.sanjoseca.gov/dataset/neighborhoods)
             
@@ -2674,6 +2676,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         264. Catalog Data Gov: [https://catalog.data.gov/dataset/tiger-line-shapefile-2021-county-harris-county-tx-all-roads](https://catalog.data.gov/dataset/tiger-line-shapefile-2021-county-harris-county-tx-all-roads)
             
         265. US Census Bureau: [https://www.census.gov/about/policies/privacy.html](https://www.census.gov/about/policies/privacy.html)
+            
+        266. Indiana Geographic Information Office: [https://www.indianamap.org/datasets/d6a9d77ab6294bb2b38ddd1f84622307\_8/explore](https://www.indianamap.org/datasets/d6a9d77ab6294bb2b38ddd1f84622307_8/explore)
+            
+        267. City of Austin: [https://austin.maps.arcgis.com/home/item.html?id=a78db5b7a72640bcbb181dcb88817652](https://austin.maps.arcgis.com/home/item.html?id=a78db5b7a72640bcbb181dcb88817652)
             
     69. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
