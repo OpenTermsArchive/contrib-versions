@@ -52,7 +52,7 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/50px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.** |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the .**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any .  <br><br>**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.** |
 
 |     |     |
 | --- | --- |
