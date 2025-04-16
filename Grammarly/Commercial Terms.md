@@ -1,4 +1,4 @@
-Effective date: March 17, 2025
+Effective date: April 15, 2025
 
 Grammarly Customer Business Agreement
 -------------------------------------
