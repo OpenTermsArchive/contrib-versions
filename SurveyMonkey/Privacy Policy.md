@@ -265,7 +265,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     **(g) Survey response data.**
     
-    * SurveyMonkey may use first party machine learning or third party artificial intelligence tools on data around the type of survey the Creator has sent you, the question type, survey responses (at an aggregated and de-identified/pseudonymized level only), and device and event data associated with responses to  fulfill our contract with Creators and provide Creators with useful and relevant insights from the data they have collected using our services. Specifically, we use machine learning on survey data to help Creators by:
+    * SurveyMonkey may use first party machine learning or third party artificial intelligence tools on data around the type of survey the Creator has sent you, the question type, survey responses (at an aggregated and de-identified/pseudonymized level only where possible), and device and event data associated with responses to  fulfill our contract with Creators and provide Creators with useful and relevant insights from the data they have collected using our services. Specifically, we use machine learning on survey data to help Creators by:
         * identifying trends in their responses; 
         * ongoing training of models to optimize responses; 
         * making product recommendations and providing guidance on which products and services work best in different scenarios (For an example of this check out how SurveyMonkey Genius works here);
@@ -345,7 +345,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     
     **(b) Comments/Content.**
     
-    * Any comments or content linked to you which you share if you are a guest invited to collaborate on a survey.
+    * SurveyMonkey provides some product features to individuals who do not have an account, so that they can collaborate with users who do have accounts, or to allow guests to try out features before signing up for their own account. We use comments or content input by you when interacting with guest features in order to deliver, maintain, secure and improve the product, and prevent abuse. For example, if you are [invited by a SurveyMonkey account holder to review and provide feedback on their survey design](https://help.surveymonkey.com/en/surveymonkey/analyze/commenting/), SurveyMonkey processes the comments you provide.
     
     3.3.3 **Legitimate Interest**s
     
@@ -491,11 +491,11 @@ If you have provided survey responses, filled out a form, submitted an applicati
 
 For SurveyMonkey Enterprise account holders, your organization’s primary administrator controls some basic account level information which you input when setting up your account like name, email address, and profile photo.  
 
-If you have provided survey responses, filled out a form, submitted an application, or provided website feedback directly to SurveyMonkey, then SurveyMonkey is the controller and our use of that data is described by this Notice and in our [SurveyMonkey Research Privacy Notice](https://www.surveymonkey.com/mp/legal/survey-research-privacy-notice/?ut_source=legal&ut_source2=privacy&ut_source3=inline). 
+If you have provided survey responses, filled out a form, submitted an application, or provided website feedback directly to SurveyMonkey or at SurveyMonkey's request through a third party, then SurveyMonkey is the controller and our use of that data is described by this Notice and in our [SurveyMonkey Research Privacy Notice](https://www.surveymonkey.com/mp/legal/survey-research-privacy-notice/?ut_source=legal&ut_source2=privacy&ut_source3=inline). 
 
 If you are a Creator and have received more responses than your plan allows (“overage data”), SurveyMonkey is the controller over the overage data until you change your plan type, or the overage data is deleted in accordance with section 12.4 of our [Terms of Use](https://www.surveymonkey.com/mp/legal/terms-of-use/#12.4%20SurveyMonkey%20Basic%20(Free)%20Plan%20Response%20Limits.) or per the terms of your negotiated contract.
 
-SurveyMonkey is a controller for the account-level data provided by its Creators and panelists from Contribute and Rewards. More information can be found in section 13.6 of this Privacy Notice.
+SurveyMonkey is a controller for the account-level data provided by its Creators and panelists from Contribute and Rewards. More information can be found in section 13.5 of this Privacy Notice.
 
 11\. Your rights
 ----------------
@@ -583,7 +583,7 @@ If you have any questions about your personal information in the context of our 
 
 Our main Privacy Notice applies to our Wufoo users except where the Privacy Notice specifies a section that is only applicable to our survey tool.
 
-**13.3.1 **Your control over your form data****
+**13.2.1 **Your control over your form data****
 
 We store your form data (form content and responses) for you. You have the following controls over your form data:
 
@@ -593,7 +593,7 @@ We store your form data (form content and responses) for you. You have the follo
 
 We would like to emphasize that we will not use your form data to compete with you, market to your clients, or contact them for any other means of profit. We will also not sell your form data to anyone.
 
-**13.4 **GetFeedback Digital (formerly Usabilla)****
+**13.3 **GetFeedback Digital (formerly Usabilla)****
 
 Our main Privacy Notice applies to our GetFeedback Digital users, except where the Privacy Notice specifies a section that is only applicable to our survey tool, or information in this section distinguishes our treatment of data and information in the case of GetFeedback Digital’s service, in which case this Section takes precedence.
 
@@ -604,26 +604,26 @@ Our main Privacy Notice applies to our GetFeedback Digital users, except where t
 * To adjust your preferences and settings around data and information you must be logged into your account and/or can contact GetFeedback Digital’s team at privacy@getfeedback.com for assistance or you can read about this more [here](https://support.usabilla.com/hc/en-us/articles/360004975472-How-can-I-hide-privacy-sensitive-information-).
 * To exercise your data rights (as described in our main Privacy NoticeSection 14 above) you can use our [contact form](https://help.surveymonkey.com/en/contact/?l=en&form=datarequest) (please specify that this is a GetFeedback Digital request) or you can contact GetFeedback Digital’s team at privacy@getfeedback.com.
 
-**13.5 **GetFeedback Direct****
+**13.4 **GetFeedback Direct****
 
 Our main Privacy Notice applies to our GetFeedback Direct users, except where the Privacy Notice specifies a section that is only applicable to our survey tool, or information in this section distinguishes our treatment of data and information in the case of GetFeedback Direct's service, in which case this section takes precedence. If you are part of any of our early adopter programs our main Privacy Notice will apply to you.
 
-**13.5.1 **Sentiment Analysis****
+**13.4.1 **Sentiment Analysis****
 
 Sentiment Analysis and other additional machine learning features are auto-implemented for all customer accounts and cannot be switched off. If you do not wish to collect sentiment on your response data you should avoid use of open text response questions. 
 
-**13.5.2 **Salesforce**  
+**13.4.2 **Salesforce**  
 **GetFeedback Direct is a Salesforce ISVforce partner. If you have created a GetFeedback Direct account, the registration information you provide will be disclosed to Salesforce.com, Inc. and will be used by Salesforce.com, Inc. pursuant to its privacy policy (see [Salesforce Privacy Policy](https://www.salesforce.com/company/privacy/)). More information about how to automate emails in GetFeedback Direct using Salesforce is available [here](https://www.getfeedback.com/help/automate-getfeedback-using-salesforce/). Information about displaying a Post Chat Survey in Salesforce Chat can be found [here](https://www.getfeedback.com/help/displaying-a-post-chat-survey-in-salesforce-chat/).  
 
-**13.5.3 **Suppression Lists****
+**13.4.3 **Suppression Lists****
 
 You can manage your suppression lists and map these to Salesforce so as to ensure you comply with unsubscribe requests from your Respondents by following the steps outlined [here](https://www.getfeedback.com/help/automate-getfeedback-using-salesforce/). For clarity, we are not responsible for how you manage your suppression lists.
 
-**13.5.4 **Contact Us****
+**13.4.4 **Contact Us****
 
 To exercise your rights (as described in Section 11 of the Privacy Notice), please contact the GetFeedback Direct support team at [help@getfeedback.com](mailto:help@getfeedback.com).
 
-**13.6 **Audience****
+**13.5 **Audience****
 
 If you are a panelist using our Rewards or Contribute apps, please read the following notices as they apply to your use of those Services:
 
