@@ -182,6 +182,8 @@ For your protection and the protection of all of our members, we may ask you for
 
 Keep in mind, we may reject requests, including if we are unable to authenticate you, if the request is unlawful or invalid, or if it may infringe on trade secrets or intellectual property or the privacy or other rights of someone else. If you wish to receive information relating to another member, such as a copy of any messages you received from them, the other member will have to make a request themselves.
 
+If you are located in Brazil, please contact us via email: dpobrazil@gotinder.com.
+
 If you are a resident of Delaware, Iowa, Nebraska, New Hampshire, New Jersey, Texas, Oregon, Montana, Virginia, Colorado, or Connecticut, USA, if we deny your privacy request, you may be able to appeal by [contacting us](https://gotinder.com/help), and explicitly referencing “Privacy Request Appeal.” If you have concerns about the result of your appeal, you may contact the attorney general for your state.
 
 In certain countries, including in the European Economic Area and the United Kingdom, you have a right to a judicial remedy and to lodge a complaint with the appropriate data protection authority if you have concerns about how we process your personal data. You can find information about your data protection regulator in the European Economic Area [here](https://edpb.europa.eu/about-edpb/board/members_en), and in the United Kingdom [here](https://ico.org.uk/). The data protection authority you can lodge a complaint with may be that of your habitual residence, where you work or where an alleged infringement took place.
