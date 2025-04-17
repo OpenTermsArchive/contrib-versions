@@ -28,6 +28,7 @@ In connection with using or accessing our Services you agree to comply with this
 * fail to pay for items purchased by you, unless you have a valid reason as set out in an eBay policy, for example, where the seller has materially changed the item's description after you bid (see our [Unpaid item policy](https://www.ebay.com/help/policies/payment-policies/unpaid-item-policy?id=4271));
 * fail to deliver items sold by you, unless you have a valid reason as set out in an eBay policy;
 * manipulate the price of any item or interfere with any other user's listings;
+* fail to complete delivery, clear ownership, and/or complete any other documentation associated with the sale or purchase of any vehicle;
 * take any action that may undermine the feedback or ratings systems (our [Feedback policies](https://www.ebay.com/help/policies/feedback-policies/feedback-policies?id=4208));
 * transfer your eBay account (including feedback) and user ID to another party without our consent;
 * share your log in credentials with any third parties. If you require that authorized third parties (employees, agents, etc.) have access to your account we offer a [Multi-User Account Access - opens in new window or tab](https://pages.ebay.com/seller-center/run-your-store/multi-user-account-access.html) program for that purpose;
