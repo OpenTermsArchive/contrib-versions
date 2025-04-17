@@ -65,7 +65,7 @@ Prohibited content
 > 
 > > We value diversity and respect for others, and we strive to avoid offending users, so we don’t allow ads or destinations that display shocking content or promote hatred, intolerance, discrimination, or violence.
 > > 
-> > **Examples of inappropriate or offensive content (non-exhaustive)**: bullying or intimidation of an individual or group, racial discrimination, hate group paraphernalia, graphic crime scene or accident images, cruelty to animals, murder, self-harm, extortion or blackmail, sale or trade of endangered species, ads using profane language
+> > **Examples of inappropriate or offensive content (non-exhaustive)**: bullying or intimidation of an individual or group, racial discrimination, content promoting hate groups or hate group paraphernalia, graphic crime scene or accident images, cruelty to animals, murder, self-harm, extortion or blackmail, sale or trade of endangered species, ads using profane language, and content promoting the sexual exploitation of minors
 
 * * *
 
