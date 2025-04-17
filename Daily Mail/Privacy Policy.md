@@ -4,9 +4,9 @@ Associated Newspapers Ltd
 Privacy & Cookies Policy (the “Policy”)
 ---------------------------------------
 
-###### Last updated: 25 February 2025
+###### Last updated: 16 April 2025
 
-###### Previous version: 26 March 2024
+###### Previous version: 25 February 2025
 
 ### 1\. What is this Policy for?
 
@@ -28,7 +28,7 @@ These brands also share infrastructure, systems and technology and all fall unde
 
 If you are a MyMail member and have linked your account with your Nectar account, Associated Newspapers Ltd. and Nectar Loyalty Ltd. (“**Nectar**”) will each be data controllers of your personal data. Associated Newspapers Ltd will handle your personal data in accordance with this Policy and Nectar will handle your data in accordance with Nectar’s [Privacy Policy](https://www.nectar.com/about/privacy-and-legal/privacy-policy) and [Cookie Policy](https://www.nectar.com/about/privacy-and-legal/cookie-policy).
 
-If you engage with certain online bargains, discounts, last-minute vouchers, best buys and/or similar promotional offers (“**Offers**”) made available on our websites, or make use of the DailyMail Extras extension for desktop web browsers (“**Extension**”), we shall process your data as joint controllers with Global Savings Group Ltd (“**GSG**”) and its affiliate CupoNation GmbH, who assist GSG as a marketing partner. GSG will handle your data in accordance with its [Privacy Policy](https://global-savings-group.com/privacy-policy/) and CupoNation GmbH will handle your data in accordance with its [Privacy Policy](https://www.cuponation.com/privacy-policy/) and [Cookie Policy](https://www.cuponation.com/cookie-policy/).
+If you engage with certain online bargains, discounts, last-minute vouchers, best buys and/or similar promotional offers (“**Offers**”) made available on our websites, or make use of the DailyMail Extras extension for desktop web browsers (“**Extension**”), we shall process your data as joint controllers with Atolls London Limited (“**Atolls**”) and its affiliate CupoNation GmbH, who assist GSG as a marketing partner. GSG will handle your data in accordance with its [Privacy Policy](https://global-savings-group.com/privacy-policy/) and CupoNation GmbH will handle your data in accordance with its [Privacy Policy](https://www.cuponation.com/privacy-policy/) and [Cookie Policy](https://www.cuponation.com/cookie-policy/).
 
 ### 3\. What kinds of information do we collect?
 
@@ -94,7 +94,7 @@ We may overlay demographic and lifestyle data from CACI to help us understand wh
 
 #### Social media
 
-If you log-in to our websites through a social media site, such as Facebook, X (f/k/a Twitter) or Google, you are granting permission to such company to share your user information with us. This will include your name and email address plus any other information you have permitted them to share with third parties. If you remove our website from your Facebook, X (f/k/a Twitter) or Google account, we shall no longer have access to this information.
+You can log-in to your account quickly by using your existing social media accounts, such as Facebook, X (f/k/a Twitter) or Google. When you choose this option, you are granting permission to such company to share your user information with us. This will include your name and email address plus any other information you have permitted them to share with third parties, and your account will be linked to your social media account. You can ask us to delete your personal data or de-link your account from your social media account by emailing dataprotection@dmgmedia.co.uk.
 
 We use plugins from social media networks and other platforms on our websites, that may allow you to share content with these networks/platforms or use their services on our websites. For more information, please see Section 7 of this Policy.
 
@@ -428,11 +428,9 @@ When transferring your personal data outside the United Kingdom (UK) or the Euro
 
 We sometimes work with other organisations and process data collected by them as Joint Controllers. This means that both we, and the other organisation, have responsibilities to process your data in accordance with relevant Data Protection and Privacy laws. Where this is the case, you may approach either ourselves, or the other organisation, to fulfil any data subject requests in relation to your data. We will process any personal data under this arrangement in accordance with this Privacy Notice. If you wish to know more about our Joint Controller arrangements in this regard, please contact us at dataprotection@dmgmedia.co.uk.
 
-Facilitation of the Advertising served on GB News’ website is conducted under a Joint Controller relationship between ourselves and GB News. Their privacy notice, which will apply to how they process personal data under this agreement, can be seen [here](https://www.gbnews.uk/privacy).
-
 ### 10\. Your rights under the UK GDPR and the EU GDPR
 
-In certain circumstances, for example if you are a UK or EEA resident, you may exercise the rights available to you (with some exceptions and restrictions) under the UK or the EU data protection laws as follows:
+You have certain rights in relation to the personal data we hold about you. These rights include the right: (i) to obtain copies of your personal data; (ii) to have your personal data corrected or deleted; (iii) to limit the way in which your personal data is used; (iv) to object to our use of your personal data; (v) to transfer your personal data; (vi) not to be subject to decisions based on automated processing (including profiling); and (vii) to complain to a supervisory authority.
 
 * **Access:** If you wish to exercise your right to access a free copy of your data, you can contact us, or our joint controllers, at the contact details provided below at Section 18.
 * **Portability:** If you wish to receive personal data that you have provided to us in a structured, commonly used and machine-readable format, or transmit this data directly to another controller, please contact us, or our joint controllers, at the contact details provided below. Please note that this right applies only to the information that is processed by automated means, on the basis of consent or performance of a contract.
