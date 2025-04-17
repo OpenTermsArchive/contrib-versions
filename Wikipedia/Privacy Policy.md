@@ -424,6 +424,6 @@ This version was approved by on June 7, 2021, pursuant to the by the Board, and 
 
 Privacy-related pages
 
-![](https://auth.wikimedia.org/loginwiki/wiki/Special:CentralAutoLogin/start?useformat=desktop&type=1x1&usesul3=1)
+![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&usesul3=1)
 
 Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy\_policy&oldid=366672](https://foundation.wikimedia.org/w/index.php?title=Policy:Privacy_policy&oldid=366672)"
