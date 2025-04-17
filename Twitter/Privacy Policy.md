@@ -280,9 +280,9 @@ Attn: Privacy Policy Inquiry
 865 FM 1209, Building 2   
 Bastrop, TX 78602**
 
-If you live in the European Union, EFTA States, or the United Kingdom, the data controller responsible for your personal data is Twitter International Unlimited Company, with an address of:
+If you live in the European Union, EFTA States, or the United Kingdom, the data controller responsible for your personal data is X Internet Unlimited Company, with an address of:
 
-**Twitter International Unlimited Company  
+**X Internet Unlimited Company  
 Attn: Data Protection Officer  
 One Cumberland Place, Fenian Street  
 Dublin 2, D02 AX07 IRELAND**
@@ -296,6 +296,6 @@ Bolligenstrasse 18
 Bern, 3006, SWITZERLAND**
 
   
-If you wish to raise a concern about our [data processing practices](https://help.x.com/rules-and-policies/data-processing-legal-bases), you have the right to do so with your local supervisory authority or Twitter International Unlimited Company’s lead supervisory authority, the Irish Data Protection Commission, using the [contact details](https://www.dataprotection.ie/contact/how-contact-us) listed on their website.
+If you wish to raise a concern about our [data processing practices](https://help.x.com/rules-and-policies/data-processing-legal-bases), you have the right to do so with your local supervisory authority or X Internet Unlimited Company’s lead supervisory authority, the Irish Data Protection Commission, using the [contact details](https://www.dataprotection.ie/contact/how-contact-us) listed on their website.
 
 [View previous policies](https://x.com/privacy/previous)
