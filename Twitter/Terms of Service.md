@@ -166,7 +166,7 @@ X Terms of Service
 
 These Terms of Service (“Terms”) govern your and other users’ access to and use of the services, including our various websites, SMS, APIs, email notifications, applications, buttons, widgets, ads, commerce services, and our [other covered services](https://help.x.com/rules-and-policies/x-services-and-corporate-affiliates) ([https://help.x.com/rules-and-policies/x-services-and-corporate-affiliates)](https://help.x.com/rules-and-policies/x-services-and-corporate-affiliates) that link to these Terms (collectively, the “Services”), and any information, text, links, graphics, photos, audio, videos, or other materials or arrangements of materials uploaded, downloaded or appearing on the Services (collectively referred to as “Content”). By using the Services you agree to be bound by these Terms.
 
-These Terms are an agreement between you and Twitter International Unlimited Company (Co. number 503351, VAT number IE9803175Q), an Irish company, which provides X and the Services, with its registered office at One Cumberland Place, Fenian Street Dublin 2, D02 AX07 Ireland. The words “we,” “us,” and “our,” mean Twitter International Unlimited Company.
+These Terms are an agreement between you and X Internet Unlimited Company (Co. number 503351, VAT number IE9803175Q), an Irish company, which provides X and the Services, with its registered office at One Cumberland Place, Fenian Street Dublin 2, D02 AX07 Ireland. The words “we,” “us,” and “our,” mean X Internet Unlimited Company.
 
 1\. Who May Use the Services
 ----------------------------
@@ -248,7 +248,7 @@ We may suspend or terminate your account or cease providing you with all or part
 5\. Limitations of Liability
 ----------------------------
 
-By using the Services you agree that Twitter International Unlimited Company, its parents, affiliates, related companies, officers, directors, employees, agents representatives, partners and licensors, liability is limited to the maximum extent permissible in your country of residence.
+By using the Services you agree that X Internet Unlimited Company, its parents, affiliates, related companies, officers, directors, employees, agents representatives, partners and licensors, liability is limited to the maximum extent permissible in your country of residence.
 
 ### Liquidated Damages
 
