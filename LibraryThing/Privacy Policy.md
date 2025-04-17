@@ -23,7 +23,7 @@ LibraryThing membership does not require an email address.
 
 LibraryThing respects your inbox. We do not sell your email address to authors, publishers, marketing companies, or anyone else.
 
-By default, most new members who provide their email address are subscribed to our "State of the Thing" newsletter. Members who join from the EU after May 25, 2018 are not subscribed automatically, and will have to consent explicitly to receive the State of the Thing.
+By default, most new members who provide their email address are subscribed to our "State of the Thing" newsletter. Members who join from the EEA after May 25, 2018 are not subscribed automatically, and will have to consent explicitly to receive the State of the Thing.
 
 By default, members who provide their email address receive profile comments by email. This can be disabled in the [Privacy Center](https://www.librarything.com/settings/privacy). LibraryThing reserves the right to send profile-comment emails for GDPR-exempt system notifications, and customer support.
 
@@ -35,7 +35,7 @@ All LibraryThing members have access to their own Member [Privacy Center](https:
 
 * Subscription settings for different types of LibraryThing emails
 * Review-sharing preferences
-* EU or non-EU residency
+* EEA or non-EEA residency
 * Display preferences for name, location and other non-required fields
 * Application-sharing preferences, such as to Facebook and Twitter
 * Export and download account data (incomplete as of June 8, 2018)
