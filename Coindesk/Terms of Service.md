@@ -1,126 +1,124 @@
 [BTC
 
-$85,074.48
-
-+
-
-1.24%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
-
-$1,608.80
-
-+
-
-2.66%](https://www.coindesk.com/price/ethereum "View price details")[USDT
-
-$0.9997
+$84,761.44
 
 \-
 
-0.02%](https://www.coindesk.com/price/tether "View price details")[XRP
+0.11%](https://www.coindesk.com/price/bitcoin "View price details")[ETH
 
-$2.0954
-
-+
-
-0.16%](https://www.coindesk.com/price/xrp "View price details")[BNB
-
-$592.52
-
-+
-
-1.70%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
-
-$135.21
-
-+
-
-5.32%](https://www.coindesk.com/price/solana "View price details")[USDC
-
-$0.9998
+$1,581.67
 
 \-
 
-0.00%](https://www.coindesk.com/price/usd-coin "View price details")[TRX
+1.36%](https://www.coindesk.com/price/ethereum "View price details")[USDT
 
-$0.2500
-
-\-
-
-0.48%](https://www.coindesk.com/price/tron "View price details")[DOGE
-
-$0.1589
-
-+
-
-3.50%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
-
-$0.6273
-
-+
-
-3.54%](https://www.coindesk.com/price/cardano "View price details")[LEO
-
-$9.0532
+$0.9995
 
 \-
 
-3.71%](https://www.coindesk.com/price/unus-sed-leo "View price details")[LINK
+0.04%](https://www.coindesk.com/price/tether "View price details")[XRP
 
-$12.64
+$2.0709
 
-+
+\-
 
-3.84%](https://www.coindesk.com/price/chainlink "View price details")[AVAX
+1.62%](https://www.coindesk.com/price/xrp "View price details")[BNB
 
-$19.42
-
-+
-
-3.48%](https://www.coindesk.com/price/avax "View price details")[TON
-
-$2.9850
+$588.25
 
 +
 
-3.85%](https://www.coindesk.com/price/toncoin "View price details")[XLM
+0.85%](https://www.coindesk.com/price/binance-coin "View price details")[SOL
 
-$0.2412
+$134.35
+
+\-
+
+0.23%](https://www.coindesk.com/price/solana "View price details")[USDC
+
+$0.9996
+
+\-
+
+0.03%](https://www.coindesk.com/price/usd-coin "View price details")[TRX
+
+$0.2451
+
+\-
+
+0.24%](https://www.coindesk.com/price/tron "View price details")[DOGE
+
+$0.1551
+
+\-
+
+1.43%](https://www.coindesk.com/price/dogecoin "View price details")[ADA
+
+$0.6157
+
+\-
+
+1.17%](https://www.coindesk.com/price/cardano "View price details")[LEO
+
+$9.1901
+
+\-
+
+2.64%](https://www.coindesk.com/price/unus-sed-leo "View price details")[LINK
+
+$12.65
 
 +
 
-2.76%](https://www.coindesk.com/price/xlm "View price details")[SHIB
+0.12%](https://www.coindesk.com/price/chainlink "View price details")[AVAX
 
-$0.0₄1197
+$19.07
 
-+
+\-
 
-2.47%](https://www.coindesk.com/price/shiba-inu "View price details")[SUI
+1.60%](https://www.coindesk.com/price/avax "View price details")[TON
 
-$2.1499
-
-+
-
-3.42%](https://www.coindesk.com/price/sui "View price details")[HBAR
-
-$0.1647
+$2.9821
 
 +
 
-5.15%](https://www.coindesk.com/price/hbar "View price details")[BCH
+0.65%](https://www.coindesk.com/price/toncoin "View price details")[XLM
 
-$334.61
-
-+
-
-4.95%](https://www.coindesk.com/price/bitcoin-cash "View price details")[LTC
-
-$76.29
+$0.2419
 
 +
 
-2.51%](https://www.coindesk.com/price/ltc "View price details")
+1.09%](https://www.coindesk.com/price/xlm "View price details")[SHIB
 
-[Sign Up](https://www.coindesk.com/api/auth/login?returnTo=https%3A%2F%2Fwww.coindesk.com%2Fterms&screen_hint=signup&reg_module=navigation "Sign up for a free CoinDesk account")
+$0.0₄1189
+
+\-
+
+1.13%](https://www.coindesk.com/price/shiba-inu "View price details")[HBAR
+
+$0.1656
+
++
+
+2.84%](https://www.coindesk.com/price/hbar "View price details")[SUI
+
+$2.1109
+
++
+
+0.10%](https://www.coindesk.com/price/sui "View price details")[BCH
+
+$328.20
+
+\-
+
+2.06%](https://www.coindesk.com/price/bitcoin-cash "View price details")[LTC
+
+$75.34
+
+\-
+
+0.21%](https://www.coindesk.com/price/ltc "View price details")
 
 * [News](https://www.coindesk.com/)
     
@@ -242,9 +240,11 @@ English
 
 Select Language
 
-[English en](https://www.coindesk.com/terms)[Українська uk](https://www.coindesk.com/uk/terms)[Русский ru](https://www.coindesk.com/ru/terms)[Português pt-br](https://www.coindesk.com/pt-br/terms)[Français fr](https://www.coindesk.com/fr/terms)[Italiano it](https://www.coindesk.com/it/terms)[Español es](https://www.coindesk.com/es/terms)[Filipino fil](https://www.coindesk.com/fil/terms)
+[English en](https://www.coindesk.com/terms)[Français fr](https://www.coindesk.com/fr/terms)[Русский ru](https://www.coindesk.com/ru/terms)[Português pt-br](https://www.coindesk.com/pt-br/terms)[Filipino fil](https://www.coindesk.com/fil/terms)[Українська uk](https://www.coindesk.com/uk/terms)[Italiano it](https://www.coindesk.com/it/terms)[Español es](https://www.coindesk.com/es/terms)
 
-[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-7zwlyw9ew-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75)](https://www.coindesk.com/)
+[](https://www.coindesk.com/search)
+
+[![Logo](/_next/image?url=https%3A%2F%2Fcoindesk-next-l2mcha1w9-coindesk.vercel.app%2F_next%2Fstatic%2Fmedia%2Fcoindesk-logo.68661da3.png&w=384&q=75)](https://www.coindesk.com/)
 
 * [News](https://www.coindesk.com/)
 * [Prices](https://www.coindesk.com/price)
