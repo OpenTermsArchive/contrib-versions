@@ -170,7 +170,6 @@ Other languages:
 * [ລາວ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lo "Policy:Terms of Use/lo (9% translated)")
 * [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/blk "Policy:Terms of Use/blk (0% translated)")
 * [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "Policy:Terms of Use/my (65% translated)")
-* [ရခိုင်](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/rki "Policy:Terms of Use/rki (1% translated)")
 * [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/xmf "Policy:Terms of Use/xmf (26% translated)")
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "Policy:Terms of Use/ka (45% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/km "Policy:Terms of Use/km (6% translated)")
