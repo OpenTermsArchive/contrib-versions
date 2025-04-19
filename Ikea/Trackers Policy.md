@@ -1,4 +1,4 @@
-[New Interior Design services - prices for IKEA Family members start at €20](https://www.ikea.com/ie/en/customer-service/services/interior-design-service-home/)
+[Order by phone](https://www.ikea.com/ie/en/customer-service/shopping-at-ikea/personalised-shopping-assistance-over-the-phone-pub93f14e60/?itm_content=Menu&itm_element=Prop&itm_campaign=Nav_Phone)
 
 Cookie Policy
 =============
