@@ -1006,7 +1006,7 @@ Article 1. Introduction
 
 1. These Individual Terms of Use apply to all conduct in cases where User uses the “pixivFANBOX” service (“Individual Service”) provided by the Company.
 2. These Individual Terms of Use set forth conditions for use of the Individual Service. User agrees to, and shall use the Individual Serve in accordance with, these Individual Terms of Use.
-3. These Individual Terms of Use are the individual terms of pixiv service Master Terms of Use ("Master Terms of Use"), which are applied for all services throughout pixiv Inc.'s services, and cases unspecified in these Individual Terms of Use, unless specified to exclude in the Individual Terms of Use, shall follow Master Terms of Use and other relating guidelines ("Terms etc.") set by the Company.
+3. These Individual Terms of Use are the individual terms of pixiv service Master Terms of Use (“Master Terms of Use”), which are applied to all services provided by the Company, and any matters not specified in the Individual Terms of Use, unless otherwise specified to exclude in the Individual Terms of Use, shall follow the Master Terms of Use, other guidelines, the Help section, and the like (“Terms etc.”) set by the Company.
 4. By using the Individual Service, User shall be deemed to have agreed to the entire content of these Individual Terms of Use.
 5. Unless User agrees to these Individual Terms of Use, User may not use the Individual Services.
 
@@ -1017,25 +1017,28 @@ The terms used in these Individual Terms of Use shall have the meanings set fort
 
 1. “Site” means the website known as “pixivFANBOX” ([https://www.fanbox.cc/](https://www.fanbox.cc/)) and operated by the Company.
 2. “Individual Service” means all services provided on the Site.
-3. “User” means a user who registered an account with the Company and uses the Site.
+3. “User” means a person who creates a pixiv account and uses the Site.
 4. “Creator” means a User who completed creator registration for the Individual Service in accordance with the prescribed procedures.
-5. “Supporter” means a User who supports Creators through the Individual Service in accordance with the prescribed procedures.
-6. “Support Money” means money serving as consideration for an access to Supporter-exclusive Posted Content published by a Creator receiving Privileges and other payments, which is to be paid to the Creator by a Fan under a Support Agreement stipulated in Article 9.
-7. “Support Money, etc.” is the general term for money to be paid by the Company to Creators based on campaigns implemented by the Company or any other circumstances and the Support Money paid to the Company.
-8. “Posted Data” means profiles created, edited, and posted on the Site by User, comments transmitted using the comment function, and all other data posted or transmitted by User using certain functions on the Site (excluding Posted Content).
-9. “Content” means text, voice data, music, images, videos and other information.
-10. “Posted Content” means Content posted by a Creator on the Site or a related site.
-11. “Amount Receivable” means the amount of money remaining after subtracting the fees set forth below from the support money, etc. that has not yet been received by the Creator. The Company shall receive payment of the following fees from the Creators by deducting them from the Support Money, etc..
-    1. Platform fees: An amount corresponding to 10% of the Support Monies, etc. (including payment fee and amounts equivalent to consumption taxes; rounded to the nearest whole number)
-12. “Regular Transfer” means a function that allows Creators to make a request for the total amount of Amount Receivable as of the 20th of the current month every month by setting up the function in the method prescribed by the Company.
-13. “Instant Transfer” means a function that allows Creators to make a request for an arbitrary amount of money specified by the Creator within the range of Amount Receivable at the time of the request by applying in the method prescribed by the Company.
+5. “Plan” means a unit that grants the right to view content posted on the Site by a Creator that limits the scope of access (“Supporter-exclusive Posted Content”) that is provided for a fee.
+6. “Support” means to apply through the Site to subscribe to a Plan created by a Creator in accordance with procedures prescribed by the Company and to support a Creator’s activities.
+7. “Supporter” means a User who executes a Support Agreement (as defined in the following item) to support a Creator through the Individual Service in accordance with the prescribed procedures.
+8. “Support Agreement” means an agreement relating to subscription of a Plan formed between a Creator and a Supporter.
+9. “Support Money” means money paid by a Supporter to a Creator as considerations for subscription to a Plan.
+10. “Posted Data” means profiles created, edited, and posted on the Site by User, comments transmitted using the comment function, and all other data posted or transmitted by User using certain functions on the Site (excluding Posted Content).
+11. “Content” means text, voice data, music, images, videos and other information.
+12. “Posted Content” means content posted on the Site by a Creator.
+13. “Supporter-exclusive Posted Content” means Posted Content that is posted by limiting the scope of access only to Supporters.
+14. “Amount Receivable” means the amount of money remaining after subtracting fees specified by the Company from the Support Monies that arise pursuant to individual Support Agreements that has not yet been received by the Creator. The Company shall receive payment of fees from Creators by deducting said fees from Support Monies. Details of the fees are listed in the Help section: ([https://fanbox.pixiv.help/hc/articles/360005063674](https://fanbox.pixiv.help/hc/articles/360005063674)).
+15. “Regular Transfer” means a function that enables Creators to request payment of the Amount Receivable as of the 20th day of each month by setting up the function by the method prescribed by the Company.
+16. “Instant Transfer” means a function that allows Creators to make a request for an arbitrary amount of money specified by the Creator within the range of Amount Receivable at the time of the request by applying in the method prescribed by the Company.
 
 Article 3. Scope of Application of these Terms of Use
 -----------------------------------------------------
 
-1. The conditions for use of the Individual Service are set forth in these Individual Terms of Use or other terms of use and the like on the Site. Such other terms of use and the like constitute a part of these Individual Terms of Use, regardless of designation.
-2. In the case of a discrepancy between these Individual Terms of Use and other terms of use and the like, such other terms of use and the like shall apply preferentially.
-3. Any matters not specified in these Individual Terms of Use or other terms of use and the like shall be governed by the pixiv Master Terms of Use.
+1. The conditions for use of the Individual Service are set forth in these Individual Terms of Use and the Terms etc. on the Site. Such Terms etc. constitute a part of these Individual Terms of Use, regardless of designation.
+2. In the case of a discrepancy between these Individual Terms of Use and the Terms etc., such Terms etc. shall apply preferentially.
+3. Any matters not specified in these Individual Terms of Use or the Terms etc. shall be governed by the Master Terms of Use.
+4. If a person who wishes to use the Individual Service is a minor, such person must obtain the consent of a person with parental authority, guardian, or other legal representative, and the Company may require presentation of information to confirm the consent of the legal representative (including the contact details of the legal representative).
 
 Article 4. Creator Registration
 -------------------------------
@@ -1044,7 +1047,7 @@ Article 4. Creator Registration
 2. A person who applied for registration (“Registration Applicant”) shall become a Creator when the Company approves the registration application.
 3. In the case where a Registration Applicant falls under any of the following, the Company may, at its discretion, reject the Registration Applicant’s registration application without disclosing the reason.
     1. In cases where the Registration Applicant applied for registration not using the method prescribed by the Company;
-    2. In cases where the Registration Applicant was the subject of compulsory withdrawal in the past on the grounds of violation of the pixiv Master Terms of Use, these Individual Terms of Use, other terms of use and the like, or the terms of use and the like of other services operated by the Company;
+    2. In cases where the Registration Applicant was the subject of compulsory withdrawal in the past on the grounds of violation of the Master Terms of Use, these Individual Terms of Use, the Terms etc., or the terms of use and the like of other services operated by the Company (“Other Terms of Use, etc.”);
     3. In cases where it is determined that the registration information provided to the Company is false in whole or in part; or
     4. In other cases where the Company determines that the application is inappropriate.
 
@@ -1054,23 +1057,24 @@ Article 5. Cancellation of Creator Registration
 1. In the case where a Creator wishes to cancel his or her registration, the User shall submit notice of cancellation of the Creator registration to the Company by the method prescribed by the Company.
 2. In the case where a Creator engages in the conduct set forth in any of the following items, the Company may, at its discretion, cancel the Creator registration, compel the Creator to withdraw also as a User, and refuse use of the Individual Service and related services.
     1. In cases where it is determined that the registration application was not performed using the method prescribed by the Company;
-    2. In cases where the Company determines that the Creator violated or is suspected of violating the pixiv Master Terms of Use, these Individual Terms of Use, or other terms of use and the like;
+    2. In cases where the Company determines that the Creator violated or is suspected of violating the Master Terms of Use, these Individual Terms of Use, the Terms etc., or Other Terms of Use, etc.;
     3. In case the Company determines that it is impossible to grasp the Creator's activities in the Individual Service; or
     4. In cases where the Company determines that registration is inappropriate
 
-Article 6. Creation of Support Plans
-------------------------------------
+Article 6. Creation of Plans
+----------------------------
 
-1. Creators may create support plans using the method prescribed by the Company.
-2. When a Creator creates a support plan, the Creator shall do so to the extent and by the method prescribed by the Company, and the following matters shall be specified.
-    1. Creation of multiple support plans and setting monthly fees for each support plan;
-    2. Details of the Supporter-exclusive Posted Content to be provided to Supporters according to a support plan; and
-    3. Details of other privileges that Supporters can enjoy (“Privileges”).
+1. Creators may create a Plan using the method prescribed by the Company.
+2. When a Creator creates a Plan, the Creator shall do so to the extent and by the method prescribed by the Company, and the following matters shall be specified.
+    1. Creation of Plans and setting monthly fees for each Plan;
+    2. Details of the Supporter-exclusive Posted Content to be provided to Supporters according to a Plan; and
+    3. Details of other privileges that Supporters can enjoy (“Privileges”)
+3. Creators shall be responsible for publishing Supporter-exclusive Posted Content without delay after creating a Plan.
 
 Article 7. Posting
 ------------------
 
-1. After setting the scope of disclosure using the method prescribed by the Company, Creators can publish posts on a Creator page at their discretion.
+1. A Creator can publish Posted Content on its Creator page at its discretion with a visibility setting chosen by the Creator using the method prescribed by the Company.
 2. When using the Individual Services, Creators shall not publish Posted Data or Posted Contents that fall under any of the following, or direct Users to external online storage services or other external web services, etc. for the purpose of publishing such Posted Data or Posted Contents. If the Company determines that a post falls under any one of the following, the Company is entitled to request that the registered Creator revise the post or make the post private in whole or in part, and depending on the circumstances, the Company may cancel the Creator registration of the relevant Creator.
     1. Obscene or excessively deviant sexual expression;
     2. Violent or cruel expression that causes strong feelings of disgust or discomfort;
@@ -1079,11 +1083,12 @@ Article 7. Posting
     5. Expression that glorifies or promotes cult-like religious behavior or extreme political behavior;
     6. In the case where a third party makes a claim of infringement of rights or other assertion, and following investigation by the Company, a determination is made that the third party’s claim is not baseless;
     7. A post regarding which a public agency or an expert (a national or regional public body, a credibility confirmation organization specified in the Act on the Limitation of Liability for Damages of Specified Telecommunications Service Providers and the Right to Demand Disclosure of Identification Information of the Senders, Internet hotline, attorney, etc.) indicates or expresses an opinion that the content is unlawful, contrary to public morals, or infringes on the rights of another person;
-    8. Expression that infringes on the rights of a third person or falls under Article 18 (Prohibitions) and is determined to be inappropriate for provision on the Individual Service even when taking into consideration the freedom of expression;
-    9. Content defined by the Company as "AI-generated content" in the Individual Service. Please also refer to the following for the determination of applicability; or
+    8. Expression that infringes on the rights of a third person or falls under Article 21 (Prohibitions) and is determined to be inappropriate for provision on the Individual Service even when taking into consideration the freedom of expression
+    9. Informational commodities related to finance such as FX transactions, stock transactions and cryptocurrency transactions, and tools and content related to such informational commodities;
+    10. Content defined by the Company as "AI-generated content" in the Individual Service. Please also refer to the following for the determination of applicability; or
         1. [pixivFANBOX Guidelines](https://fanbox.pixiv.help/hc/articles/13239721816217)
         2. [What is "AI-generated content"?](https://fanbox.pixiv.help/hc/articles/20299395982489)
-    10. Further to the above, expression that violates the pixiv Master Terms of Use, these Individual Terms of Use, or other guidelines.
+    11. Further to the above, expression that violates the pixiv Master Terms of Use, these Individual Terms of Use, or other guidelines.
 
 Article 8. Monitoring of the Site by the Company
 ------------------------------------------------
@@ -1093,85 +1098,123 @@ The Company and third parties entrusted by the Company are entitled to monitor a
 Article 9. Support by Supporters
 --------------------------------
 
-1. Users may support Creators under a particular plan by the method prescribed by the Company.
-2. In the case where User applies for a particular support plan, a two-party sales contract or the other agreement (“Support Agreement”) shall be formed between the User and the Creator who created the relevant plan. The principal content of such agreement shall be the provision of access to Supporter-exclusive Posted Content and Privileges by the Creator to the relevant User and the payment of support money by the User as consideration for such provision.
-3. Users may access Supporter-exclusive Posted Content published by the Creator and receive Privileges as long as the User is a Supporter.
-4. User confirms and agrees that the Company shall not bear any liability whatsoever regarding the particulars of Supporter-exclusive Posted Content and Privileges.
+1. A User can apply to Support a Creator by the method prescribed by the Company.
+2. In the case where a User applies to Support under a particular Plan, upon completion of the process for payment of the Support Money, a Support Agreement will be formed between the User and the Creator who created the relevant Plan.
+3. A Supporter can access Supporter-exclusive Posted Content published by a Creator and receive Privileges as long as the Support Agreement is in effect.
+4. Supporters confirm and agree that the Company will not bear any liability whatsoever regarding the particulars of Supporter-exclusive Posted Content or Privileges.
+5. When applying to Support, a Supporter agrees in advance that the Support Agreement may be cancelled for reasons of the Creator.
 
-Article 10. Performance of Duties under Support Agreements, Availability of a Cooling-Off Period, etc.
+Article 10. Payment of Support Money and Payment Method
+-------------------------------------------------------
+
+1. At the time of the application for Support pursuant to Article 9, Supporters shall pay Support Money by the method prescribed by the Company.
+2. If consumption taxes arise pursuant to a Support Agreement, the amount of the Support Money shall include consumption taxes.
+3. In the case where a Support Agreement is cancelled pursuant to Article 14, Paragraph 1 or Article 15, Paragraph 1, even if the Support Agreement is cancelled in the middle of month, regardless of the reason, Support Money shall not be prorated.
+4. Please see the Help section ([https://fanbox.pixiv.help/hc/articles/360003698754](https://fanbox.pixiv.help/hc/articles/360003698754)) regarding payment methods and fees for Support Money.
+5. When paying Support Money, a Supporter shall comply with the agreement terms and conditions, terms of use, and the like set forth by the payment processing service provider (“Payment Processing Service Provider”) for the Support Money, and must use a payment method that is in the name of the Supporter.
+
+Article 11. Performance of Duties under Support Agreements, Availability of a Cooling-Off Period, etc.
 ------------------------------------------------------------------------------------------------------
 
 1. Supporters may not demand refund of support monies that were previously paid. Support amounts are not subject to a cooling-off period, and therefore, refunds under a cooling-off period cannot be made.
 2. Supporters cannot cancel or obtain a refund of support monies previously paid on grounds relating to the particulars of the Supporter-exclusive Posted Content or Privileges, but in the case where Supporter-exclusive Posted Content or Privileges are not provided in accordance with the relevant plan and in cases where such Supporter-exclusive Posted Content or Privileges contain defects as to form (incorrect file format, inability to download, etc.), Supporters may contact the Company using the Contact Form on the Site.
 3. Creator shall comply with the Act for the Prevention of Unreasonable Premiums and Misrepresentation concerning Products and Services, the Specified Commercial Transactions Act, and other relevant laws and regulations and shall properly perform labeling on the Site required under the Specified Commercial Transactions Act.
 
-Article 11. Term, Renewal, and Cancellation of Support Agreements
------------------------------------------------------------------
+Article 12. Term and Renewal of Support Agreements
+--------------------------------------------------
 
-1. The term of Support Agreements shall be from the day of provision of support by User to the relevant Creator until the last day of the month in which that day occurs. In subsequent months, Support Agreements shall automatically be renewed on a monthly basis from the first day to the last day of each month.
-2. In the case where a Creator or Supporter wishes to cancel automatic renewal of a Support Agreement, such person shall cancel automatic renewal using the procedures prescribed by the Company by the following month.
-3. Even in the case where automatic renewal of a Support Agreement is canceled, Supporters may not demand daily pro rata refund of support monies paid pursuant to the Support Agreement for the month in which the day of cancellation of automatic renewal falls.
-4. In the case where a registered User makes late payment of support monies (including cases where payment procedures are not performed as a result of a credit card error or the like), the relevant User shall automatically be deemed to have canceled automatic renewal.
+1. The term of Support Agreements shall be from the day on which a Supporter applied to Support under a particular Plan and payment is completed until the last day of the same month. Renewal of Support Agreements for subsequent months will vary depending on the payment method used. Please see the Help section ([https://fanbox.pixiv.help/hc/articles/7324997407513](https://fanbox.pixiv.help/hc/articles/7324997407513)) for more details.
+2. If automatic renewal is selected for the payment method under the preceding paragraph, regardless of the date of formation of a Support Agreement, the Support Agreement will be automatically renewed on a monthly basis from the first day to the last day of each month.
+3. In the case where a Creator or a Supporter wishes to cancel automatic renewal of a Support Agreement, such person shall cancel automatic renewal using the procedures prescribed by the Company by the date prescribed by the Company.
+4. In the case where a Supporter makes late payment of Support Money (including cases where a payment was not processed as a result of a credit card error or the like), the relevant Support Agreement will not be renewed.
 
-Article 12. Cancellation of Particular Support Plans
-----------------------------------------------------
+Article 13. Change of Plan
+--------------------------
 
-1. Notwithstanding the preceding article, a Creator may delete the particular support plans by using the procedures prescribed by the Company and cancel the Support Agreements of Supporters for such support plans.
-2. When a Creator cancels a plan, no duties for the Creator to provide new Supporter-exclusive Posted Content and Privileges shall arise and no duties for Supporters to pay support monies shall arise with regard to the relevant plan as of the month (from the first day to the last day) following the day of cancellation of the plan.
+1. A Supporter may at any time change an existing Support Agreement with a Creator from one Plan to another Plan created by the Creator.
+2. The handling of Support Money when a Plan is changed shall be as specified in the Help section: ([https://fanbox.pixiv.help/hc/articles/360003723693](https://fanbox.pixiv.help/hc/articles/360003723693)).
 
-Article 13. Termination of Support Agreements with Supporters for Other Reasons
+Article 14. Cancellation of Support Agreements by Supporters
+------------------------------------------------------------
+
+1. Supporters may at any time request cancellation of a Support Agreement by suspending Support using the method prescribed by the Company. In said case, the relevant Support Agreement will terminate on the last day of the month in which the day of cancellation request falls. Accordingly, no refund shall be provided in connection with the cancellation of the Support Agreement.
+2. Notwithstanding the preceding paragraph, if a Supporter has performed the Support Agreement, the Support Agreement may not be cancelled until expiration.
+
+Article 15. Cancellation of Support Agreements by Creators
+----------------------------------------------------------
+
+1. A Creator may delete a particular Plan created by the Creator on the Site by following the prescribed procedures and cancel the relevant Support Agreements with Supporters subscribing to the Plan from that point in time onward; Supporters agree to the foregoing in advance.
+2. From the month following the month in which the day a Plan (from first day through the last day) is deleted falls, Creators shall have no duty to provide any new Supporter-exclusive Posted Content or Privileges, and Supporters shall have no duty to pay Support Money. A Plan will be deleted from the Site from the month following the month in which the day of deletion of the Plan falls.
+
+Article 16. Termination of Support Agreements with Supporters for Other Reasons
 -------------------------------------------------------------------------------
 
-1. Notwithstanding the preceding two articles, in the case where the Company cancels the Creator registration of a particular Creator, all Support Agreements between the relevant registered Creator and Supporters shall terminate.
-2. In the case of the preceding paragraph, support monies shall not be calculated on a daily pro rata basis, and Supporters may not demand refund of the support monies for the current month.
-3. Even in the case where a Support Agreement terminates pursuant to this article, the Company shall be released from liability to the extent of measures pursuant to these Individual Terms of Use, and in such case, User may not make any demands whatsoever for compensatory damages to the Company.
-4. In the case where the Company cancels the Creator registration of a particular Creator, the Company may delete the Creator pages and posts of the relevant Creator.
+1. In the case where the Company suspends or deletes the Creator registration of a particular Creator, all Support Agreements between the relevant Creator and Supporters shall immediately terminate.
+2. In the case where the Company deletes the pixiv account of a particular Supporter, all Support Agreements between the relevant Supporter and Creators shall terminate.
+3. In the case of the preceding two paragraphs, Support Monies shall not be calculated on a daily basis, and Supporters may not demand refund of the Support Monies for the current month.
+4. Even in the case where a Support Agreement terminates pursuant to this article, the Company shall be released from liability to the extent of measures pursuant to the Master Terms of Use and/or these Individual Terms of Use, and in such case, the Creator and the Supporter may not make any demands whatsoever for compensatory damages to the Company.
+5. In the case where the Company deletes the Creator registration of a particular Creator, the Company may delete the Creator page and all Posted Content and Posted Data of the relevant Creator.
 
-Article 14. Payment
--------------------
+Article 17. Proxy Receipt of Support Money
+------------------------------------------
 
 1. Creators shall grant in advance to the Company the legal right to receive support monies paid by Supporters to Creators in fulfillment of the payment obligation under Support Agreement on behalf of Creators and the authority to grant such proxy receipt authority to a third party designated by the Company.
-2. Supporters shall pay support monies (including amounts equivalent to consumption taxes) for the month in which the day that support commenced occurs and thereafter shall pay each month’s support monies at the beginning of each month by the method specified by the Company.
-3. Even in the case where a Support Agreement is canceled or terminated for any other reason during a month, no daily pro rata calculation of support monies shall be performed.
-4. In cases where a credit card is used, support monies shall comply with the contract terms and conditions or terms of use of the relevant credit card company. A credit card held in the name of the Supporter must be used.
-5. The Company shall have the authority to collect support monies paid by Supporters to Creators and to outsource such collection services to third parties specified by the Company. The duty to pay support monies of Supporters under Support Agreement shall extinguish upon receipt of support monies from a Supporter by the Company or the third party specified by the Company.
+2. Pursuant to the preceding paragraph, the Company shall have the authority to collect Support Monies paid by Supporters to Creators and outsource such collection services to third parties specified by the Company. The duty to pay Support Money of a Supporter under a Support Agreement shall extinguish upon receipt of Support Money from the Supporter by the Company or the third party specified by the Company.
 
-Article 15. Direct Deposit Request
-----------------------------------
+Article 18. Payment of Support Money to Creators
+------------------------------------------------
 
-1. Creators shall pay Platform fees (Article 2.11.a) to the Company when a Support Agreement is concluded.​​The Creators shall agree in advance to pay the fees to the Company by the method that the Company will deduct the fees from the Support Money, etc..
+1. Creators shall pay fees (specified in Article 2.14) to the Company when a Support Agreement is concluded. Creators agree in advance to pay the fees to the Company by the method that the Company will deduct the fees from Support Monies
 2. Creators may request payment of Support Monies by setting up Regular Transfer or applying for an Instant Transfer by the method prescribed by the Company.
-3. In such case of setting up Regular Transfer, the Company shall pay the remaining balance of Amount Receivable as of the 20th of the current month minus the assorted fees specified below by remittance to the transfer account specified in advance by the Creator within 5 business days from the 20th of each month.The details regarding transfer accounts and transfer fees are listed in the following Help section: ( [https://fanbox.pixiv.help/hc/articles/360005114953](https://fanbox.pixiv.help/hc/articles/360005114953) ).
-4. Notwithstanding the provisions of the preceding paragraph, the Company may transfer all or part of Amount Receivable in the following month if the amount of the Amount Receivable is high.
-5. In cases where the Company is unable to complete a remittance because the remittance account information registered by a Creator is incomplete or incorrect, or the amount of Amount Receivable is less than 5,000 yen, the remittance shall be carried over to the following and subsequent months, with the same procedure to be performed in subsequent months.
-6. In case of Instant Transfer, the Company shall pay the remaining balance of an arbitrary amount of money specified by the Creator within the range of the Amount Receivable at the time of the request by applying minus the assorted fees specified in the Paragraph 3 by remittance to the transfer account specified in advance by the Creator within 5 business days from the date of application.
-7. The maximum amount that can be applied for at one time in an Instant Transfer application is 1,000,000 yen.
-8. No interest shall accrue during the period from when the Company or the third party specified by the Company receives Support Monies until the Company makes payment to the Creator.
-9. In cases where doubt concerning the rights and so on to a Supporter-exclusive Posted Content published by a Creator or a Privilege arise and in cases where the Company determines that a problem arising between the Creator and a User on the basis of inquiries and the like from the User cannot be resolved within a certain period, the Company may suspend remittance to the relevant Creator, and Creators agree to this.
-10. In cases where a remittance is not completed because of incorrect remittance account information or the like, the Company will deem that the Creator has exempted the Company from the obligation to pay the relevant Amount Receivable after the lapse of six months from the day on which the Creator earned the Support Money, etc..
-11. Notwithstanding the provisions of the preceding paragraph, in the case that the Creator has not made a request for payment in the method prescribed by the Company by the time six months have elapsed from the time of March 31, 2021 ("Reference Date") for the Amount Receivable that existed at the time of Reference Date and for which no transfer has been made, the Company will deem that the Creator has exempted the Company from the obligation to pay the relevant Amount Receivable.
-12. In the case where a payment date is a business holiday of the Company or financial institutions, payment shall be made within five business days from the following business day.
+3. If a Creator sets up Regular Transfer, the Company shall make effort to pay the remaining balance of Amount Receivable as of the 20th day of each month minus the assorted transfer fees by remittance to the transfer account specified in advance by the Creator within five business days from the 20th day of each month. The details regarding transfer accounts and transfer fees are listed in the Help section: ([https://fanbox.pixiv.help/hc/articles/360005114953](https://fanbox.pixiv.help/hc/articles/360005114953)).
+4. Creators acknowledge in advance that transfers under the preceding paragraph may be delayed because of procedures of the Payment Processing Service Provider.
+5. Notwithstanding the provisions of the preceding three paragraphs, the Company may transfer all or part of Amount Receivable in the following month if the amount of the Amount Receivable is high.
+6. In cases where the Company is unable to complete a remittance because the remittance account information registered by a Creator is incomplete or incorrect, or the amount of Amount Receivable is less than 5,000 yen, the remittance shall be carried over to the following and subsequent months, with the same procedure to be performed in subsequent months.
+7. In case of Instant Transfer, the Company shall pay the remaining balance of an arbitrary amount of money specified by the Creator within the range of the Amount Receivable at the time of the request by applying minus the assorted fees specified in the Paragraph 3 by remittance to the transfer account specified in advance by the Creator within 5 business days from the date of application.
+8. The maximum amount that can be applied for at one time in an Instant Transfer application is 1,000,000 yen.
+9. No interest shall accrue during the period from when the Company or the third party specified by the Company receives Support Monies until the Company makes payment to the Creator.
+10. In the case where doubts have arisen as to rights etc. related to the Posted Content or Privileges, or where it is determined that a problem arising between a Creator and a Supporter as a result of an inquiry from the Supporter or the like has not been resolved after a certain period, the Company may halt any remittance of Received Amounts to the relevant Creator; Creators agree to the foregoing.
+11. In cases where a remittance from the Company to a Creator is not completed because of incorrect remittance account information or the like, after the lapse of six months from the last day of the month in which the day on which the relevant Support Money was earned falls, the Company will deem that the Creator has released the Company from the obligation to pay the Amount Receivable corresponding to the relevant Support Money.
 
-Article 16. Insufficient or Incorrect Direct Deposit Account Information
+Article 19. Insufficient or Incorrect Direct Deposit Account Information
 ------------------------------------------------------------------------
 
-1. In the case where a Creator makes a Direct Deposit Request but the Company is unable to make the direct deposit because of insufficient or incorrect direct deposit bank account information provided by the Creator, the Company may handle the relevant payment request as void. In this case, the Company shall notify the registered Creator regarding the insufficient or incorrect direct deposit account information and encourage the Creator to reapply for payment.
-2. In the case where a Creator makes a Direct Deposit Request but the Company makes a remittance to a third party due to insufficient or incorrect direct deposit bank account information, the Company may deem that the payment was made to the relevant Creator and shall be released from liability regarding claims from the Creator.
+In the event that the direct deposit bank account information designated by the Creator is insufficient or incorrect, resulting in the Company effecting a remittance to a third party, the Company may deem such remittance as payment made to the Creator and shall be released from any claims by the Creator thereunder.
 
-Article 17. Reaction to Problems
+Article 20. Reaction to Problems
 --------------------------------
 
 1. Except in cases specified in these Individual Terms of Use, the Company shall not bear any responsibility or any duties relating to problems that occur between Users or between a User and a third party in relation to the Individual Service.  
     However, in the case where the Company determines that it is necessary for operation of the Individual Service, the Company may serve as a liaison to convey the particulars of the other party’s claim to User or a third party. In this case, User shall respond in good faith in accordance with the Company’s instruction; provided, however, that the Company shall not be obligated to perform any such liaison services.
-2. In the case where the Company receives a claim from a third party (for the purpose of this paragraph, including User) of infringement of copyrights or other rights in relation to Posted Content, the Company shall notify the User who posted the relevant Content and may make the relevant Posted Content private on the basis of its own determination.
+2. When a third party (including Users for the purposes of this paragraph) has claimed infringement of copyrights or other such rights against the Company in respect of Posted Content or Posted Data, the Company shall communicate with the User that published the relevant Posted Content or Posted Data and shall be entitled to make such content inaccessible by the public at its discretion.
 
-Article 18. Prohibitions
+Article 21. Prohibitions
 ------------------------
 
 When using the Individual Service, User may not engage in any conduct prohibited by or in violation of the pixiv Master Terms of Use, these Individual Terms of Use, or other terms of use or guidelines. In the case where User engages in prohibited conduct or commits a violation, User may be subject to compulsory withdrawal, suspension of use, deletion of posted work data in whole or in part, modification of the scope of disclosure, or other measures deemed necessary by the Company; provided, however, that the Company shall not bear a duty to take these measures and shall not bear a duty to disclose the reasons for measures it has taken.
 
-Supplementary provision:
-------------------------
+Article 22. Notices from the Company
+------------------------------------
+
+1. Notices from the Company to Users in relation to Individual Services will be posted on the Site. Users must check such notices at least once a month.
+2. If there is a change in the email address notified to the Company by a User when the User opened a pixiv account, the User must notify the Company of the new email address without delay.
+3. Each User will be liable for any detriment incurred by the User as a result of failing to confirm or provide notices as prescribed in the preceding two paragraphs, and the Company will not be liable for any such damage.
+
+Article 23. Copyrights and Usage
+--------------------------------
+
+1. When updating an Individual Service or the like, the Company may at its own discretion modify the Posted Content created using the Individual Service with the intent of optimizing how the Posted Content looks and works on the Individual Service.
+2. Copyrights and all other rights related to Posted Content belong to the User who creates and registers the Posted Content.
+
+Article 24. Disclaimers
+-----------------------
+
+1. The Company shall not bear any liability for compensation for any damage incurred by a User in relation to an Individual Service except in the case of the Company’s willful misconduct or gross negligence.
+2. Scope of the Company’s Liability  
+    Even if the Company is liable for damages to a User, the Company’s liability is limited to actual, direct, and ordinary damages caused to the User due to an event of default or illegal act by the Company up to 1,000 yen. This excludes cases caused by willful misconduct or gross negligence by the Company."
+
+Supplemental Provisions
+-----------------------
 
 * These terms and conditions will be enforced from April 28, 2018.
 * These individual terms also apply to any actions you have taken prior to the enforcement of these individual terms.
@@ -1179,6 +1222,7 @@ Supplementary provision:
 Revision
 --------
 
+* April 21st, 2025 The entire Individual Terms of Use were updated.
 * August 31st, 2023 “Article 15. Direct Deposit Request” was updated.
 * July 25, 2023 “Article 5. Cancellation of Creator Registration” and “Article 7. Posting” have been revised.
 * October 25, 2021 "Article 2. Support by Supporters" , "Article 15. Direct Deposit Request", "Article 16. Insufficient or Incorrect Direct Deposit Account Information" and "Article 18. Prohibitions" have been revised.
