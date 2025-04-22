@@ -1,5 +1,9 @@
-Terms of Service
-----------------
+terms
+-----
+
+* * *
+
+##### title: Terms of Service
 
 These are the terms of service for sr.ht; please read them before using sr.ht.
 
