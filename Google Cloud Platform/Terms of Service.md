@@ -2,22 +2,22 @@
 
 Stay organized with collections Save and categorize content based on your preferences.
 
-Google Cloud Platform/SecOps Terms of Service
-=============================================
+Google Cloud Terms of Service
+=============================
 
 New to Google Cloud? A quick overview of Google Cloud’s online contracting can be found [here](https://cloud.google.com/terms/overview).
 
-If you are accessing the Google Cloud Platform Services as a customer of an unaffiliated Google Cloud Platform reseller, the terms below do not apply to you, and your agreement with your reseller governs your use of the Google Cloud Platform Services. For the avoidance of doubt, if you are accessing the SecOps Services as a customer of an unaffiliated Google Cloud reseller, the terms below do apply to you in relation to your use of SecOps Services, subject to Section 14 (Resold Customers).
+If you are accessing the Google Cloud Platform Services or Looker (original) Services as a customer of an unaffiliated Google Cloud Platform reseller, the terms below do not apply to you, and your agreement with your reseller governs your use of the Google Cloud Platform Services or Looker (original) Services. For the avoidance of doubt, if you are accessing the SecOps Services as a customer of an unaffiliated Google Cloud reseller, the terms below do apply to you in relation to your use of SecOps Services, subject to Section 14 (Resold Customers).
 
-If you signed an offline variant of this Agreement for use of the Google Cloud Platform or SecOps Services under the same Google Cloud Platform or SecOps Account, the terms below do not apply to you, and your offline terms govern your use of the Google Cloud Platform or SecOps Services.
+If you signed an offline variant of this Agreement for use of the Google Cloud Platform Services, SecOps Services, or Looker (original) Services under the same Google Cloud Platform Services, SecOps Services or Looker (original) Services Account, the terms below do not apply to you, and your offline terms govern your use of the Google Cloud Platform Services, SecOps Services or Looker (original) Services, as applicable.
 
-These Google Cloud Platform/SecOps Terms of Service (together, the "Agreement") are entered into by Google and the entity or person agreeing to these terms ("Customer") and govern Customer's access to and use of the Services. "Google" has the meaning given at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity).
+These Google Cloud Terms of Service (together, the "Agreement") are entered into by Google and the entity or person agreeing to these terms ("Customer") and govern Customer's access to and use of the Services. "Google" has the meaning given at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity).
 
 This Agreement is effective when Customer clicks to accept or otherwise agrees to it (the "Effective Date"). If you are accepting on behalf of Customer, you represent and warrant that (i) you have full legal authority to bind Customer to this Agreement; (ii) you have read and understand this Agreement; and (iii) you agree, on behalf of Customer, to this Agreement.
 
 **1. Provision of the Services.**
 
-1.1 _Services Use._ During the Term, Google will provide the Services in accordance with this Agreement, including the SLAs, and Customer may use the Services, and integrate the GCP Services into any Customer Application that has material value independent of the Services, in accordance with this Agreement. For clarity, Customer may not create or host Customer Applications using the SecOps Services under this Agreement.
+1.1 _Services Use._ During the Term, Google will provide the Services in accordance with this Agreement, including the SLAs, and Customer may use the Services, and integrate the GCP Services and Looker (original) Services into any Customer Application that has material value independent of the Services, in accordance with this Agreement. For clarity, Customer may not create or host Customer Applications using the SecOps Services under this Agreement and may only integrate Looker (original) Services into a Customer Application as provided in the Service Specific Terms.
 
 1.2 _Admin Console._ If applicable, Customer will have access to the Admin Console, through which Customer may manage its use of the Services.
 
@@ -27,7 +27,13 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 (a) _To the Services._ Google may make commercially reasonable updates to the Services from time to time.
 
-(b) _To this Agreement (GCP Services and TSS only)._ For GCP Services and TSS only, Google may make updates to this Agreement and pricing from time to time. Unless otherwise noted by Google, material updates to this Agreement will become effective 30 days after they are posted. Notwithstanding the preceding sentence, to the extent any updates apply to new functionality or are required to comply with applicable law, they will be effective immediately. If Customer does not agree to the updated Agreement, Customer may stop using the GCP Services or TSS. Customer may also terminate this Agreement for convenience under Section 8.4 (Termination for Convenience). Customer's continued use of the GCP Services or TSS after a material update will constitute Customer's consent to such update. Google will post any update to this Agreement to [https://cloud.google.com/terms/](https://cloud.google.com/terms). This subsection 1.4(b) does not apply to updates to the URL Terms, which are governed by subsection 1.4(c) below.
+(b) _To this Agreement._ For GCP Services, Looker (original) Services, and their respective TSS only, Google may make updates to this Agreement and pricing from time to time. Google will post any update to this Agreement to [https://cloud.google.com/terms/](https://cloud.google.com/terms/). This subsection 1.4(b) does not apply to updates to the URL Terms, which are governed by subsection 1.4(c) below.
+
+(i) With respect to GCP Services and their corresponding TSS, unless otherwise noted by Google, material updates to this Agreement will become effective 30 days after they are posted. Notwithstanding the preceding sentence, to the extent any updates apply to new functionality or are required to comply with applicable law, they will be effective immediately. If Customer does not agree to any update to the Agreement regarding GCP or its TSS, Customer may stop using the GCP Services or TSS. Customer may also terminate this Agreement for convenience under Section 8.4 (Termination for Convenience). Customer's continued use of the GCP Services or TSS after a material update will constitute Customer's consent to such update.
+
+(ii) With respect to Looker (original) Services and their corresponding TSS, material updates to this Agreement will only take effect if and when Customer’s Order Term renews.
+
+(iii) For the avoidance of doubt, this Section 1.4(b) does not apply to SecOps Services and their corresponding TSS.
 
 (c) _To the URL Terms (All Services)._ Google may make commercially reasonable updates to the URL Terms from time to time by posting any such update at the relevant URL Term. Unless otherwise noted by Google, material updates to the URL Terms will become effective 30 days after they are posted. Notwithstanding the preceding sentence, to the extent the updates apply to new functionality or the Cloud Data Processing Addendum, or are required by applicable law, they will be effective immediately.
 
@@ -47,7 +53,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 **2. Payment Terms.**
 
-2.1 _Billing._ Google will issue an electronic bill or invoice to Customer for all Fees, including, if applicable, Fees based on Customer's use of the Services during the applicable Fee Accrual Period and any relevant Fees for TSS. If Google reasonably determines based on evidence available to Google that Customer is at risk of non-payment or that Customer’s Account is potentially fraudulent, then Google may invoice Customer more frequently. Customer will pay all Fees in the currency stated in the bill or invoice. If Customer pays by credit card, debit card, or other non-invoiced form of payment, Customer will pay all Fees immediately at the end of the Fee Accrual Period or when otherwise charged by Google. If Customer pays by invoice, Customer will pay Google all invoiced amounts by the Payment Due Date. Unless required by law, Customer's obligation to pay all Fees is non-cancellable. For GCP Services Google's measurement tools will be used to determine Customer's usage of the Services. Google has no obligation to provide multiple bills. Payments made via wire transfer must include the bank information provided by Google.
+2.1 _Billing._ Google will issue an electronic bill or invoice to Customer for all Fees, including, if applicable, Fees based on Customer's use of the Services during the applicable Fee Accrual Period and any relevant Fees for TSS. If Google reasonably determines based on evidence available to Google that Customer is at risk of non-payment or that Customer’s Account is potentially fraudulent, then Google may invoice Customer more frequently. Customer will pay all Fees in the currency stated in the bill or invoice. If Customer pays by credit card, debit card, or other non-invoiced form of payment, Customer will pay all Fees immediately at the end of the Fee Accrual Period or when otherwise charged by Google. If Customer pays by invoice, Customer will pay Google all invoiced amounts by the Payment Due Date. Unless required by law, Customer's obligation to pay all Fees is non-cancellable. For GCP Services and Looker (original) Services, Google's measurement tools will be used to determine Customer's usage of the Services. Google has no obligation to provide multiple bills. Payments made via wire transfer must include the bank information provided by Google.
 
 2.2 _Taxes._
 
@@ -81,7 +87,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 4.2 _Other Suspension._ Notwithstanding Section 4.1 (AUP Violations), Google may immediately Suspend all or part of Customer's use of the Services if (a) Google reasonably believes Suspension is needed to protect the Services, Google’s infrastructure supporting the Services, or any other customer of the Services (or their end users); (b) there is suspected unauthorized third-party access to the Services; (c) Google reasonably believes that immediate Suspension is required to comply with any applicable law; or (d) Customer is in breach of Section 3.3 (Restrictions) or the Service Specific Terms. Google will lift any such Suspension when the circumstances giving rise to the Suspension have been resolved. At Customer's request, Google will, unless prohibited by applicable law, notify Customer of the basis for the Suspension as soon as is reasonably possible.
 
-4.3 _Generative AI Safety and Abuse._ Google uses automated safety tools to detect abuse of Generative AI Services. Notwithstanding the “Handling of Prompts and Generated Output” section in the Service Specific Terms, if these tools detect potential abuse or violations of Google’s [AUP](https://cloud.google.com/terms/aup) or [Prohibited Use Policy](https://policies.google.com/terms/generative-ai/use-policy), Google may log Customer prompts solely for the purpose of reviewing and determining whether a violation has occurred. See the [Abuse Monitoring](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/abuse-monitoring) documentation page for more information about how logging prompts impacts Customer’s use of the Services.
+4.3 _Generative AI Safety and Abuse._ Google uses automated safety tools to detect abuse of Generative AI Services. Notwithstanding the “Handling of Prompts and Generated Output” section in the Service Specific Terms for GCP Services, if these tools detect potential abuse or violations of Google’s [AUP](https://cloud.google.com/terms/aup) or [Prohibited Use Policy](https://policies.google.com/terms/generative-ai/use-policy), Google may log Customer prompts solely for the purpose of reviewing and determining whether a violation has occurred. See the [Abuse Monitoring](https://cloud.google.com/vertex-ai/generative-ai/docs/learn/abuse-monitoring) documentation page for more information about how logging prompts impacts Customer’s use of the Services.
 
 **5. Intellectual Property Rights; Protection of Customer Data; Feedback.**
 
@@ -115,7 +121,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 8.3 _Termination for Inactivity._ Google reserves the right to terminate the provision of GCP Services to a Project upon 30 days' advance notice if, for a period of 60 days (a) Customer has not accessed the Admin Console or the Project has had no network activity and (b) such Project has not incurred any Fees for such Services.
 
-8.4 _Termination for Convenience._ Customer may stop using the Services at any time. Subject to any financial commitments in an Order Form or addendum to this Agreement, Customer may terminate this Agreement for its convenience at any time on prior written notice and, upon termination, must cease use of the applicable Services. For purposes of GCP Services and TSS only, Google may terminate this Agreement or any applicable Order Form for its convenience at any time with 30 days' prior written notice to Customer. For the avoidance of doubt, any termination of this Agreement by Google for its convenience pursuant to the prior sentence will not impact any active SecOps Services Order Forms, and this Agreement will continue to govern such SecOps Services Order Forms until their expiration or termination pursuant to this Agreement.
+8.4 _Termination for Convenience._ Customer may stop using the Services at any time. Subject to any financial commitments in an Order Form or addendum to this Agreement, Customer may terminate this Agreement for its convenience at any time on prior written notice and, upon termination, must cease use of the applicable Services. For purposes of GCP Services and TSS only, Google may terminate this Agreement or any applicable Order Form for its convenience at any time with 30 days' prior written notice to Customer. For the avoidance of doubt, any termination of this Agreement by Google for its convenience pursuant to the prior sentence will not impact any active SecOps Services or Looker (original) Services Order Forms, and this Agreement will continue to govern such SecOps Services or Looker (original) Services Order Forms, as applicable, until their expiration or termination pursuant to this Agreement.
 
 8.5 _Termination Due to Applicable Law; Violation of Laws._ Google may terminate this Agreement immediately on written notice if Google reasonably believes that (a) continued provision of any Service used by Customer would violate applicable law(s) or (b) Customer has violated or caused Google to violate any Anti-Bribery Laws or Export Control Laws.
 
@@ -131,7 +137,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 **12.1 _Limitation on Indirect Liability._ To the extent permitted by applicable law and subject to Section 12.3 (Unlimited Liabilities), neither party will have any Liability arising out of or relating to this Agreement for any (a) indirect, consequential, special, incidental, or punitive damages or (b) lost revenues, profits, savings, or goodwill.**
 
-**12.2 _Limitation on Amount of Liability._ Each party's total aggregate Liability for damages arising out of or relating to the Agreement in connection with the GCP Services or SecOps Services, as applicable, is limited to the Fees Customer paid for such Services during the 12 month period before the event giving rise to Liability, except Google’s total aggregate Liability for damages arising out of or related to Services or Software provided free of charge is limited to $5,000.**
+**12.2 _Limitation on Amount of Liability._ Each party's total aggregate Liability for damages arising out of or relating to the Agreement in connection with the GCP Services, SecOps Services, or Looker (original) Services, as applicable, is limited to the Fees Customer paid for such Services during the 12 month period before the event giving rise to Liability, except Google’s total aggregate Liability for damages arising out of or related to Services or Software provided free of charge is limited to $5,000.**
 
 **12.3 _Unlimited Liabilities._ Nothing in this Agreement excludes or limits either party's Liability for:**
 
@@ -167,7 +173,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 13.6 _Sole Rights and Obligations._ Without affecting either party's termination rights and to the extent permitted by applicable law, this Section 13 (Indemnification) states the parties' sole and exclusive remedy under this Agreement for any third-party allegations of Intellectual Property Rights infringement covered by this Section 13 (Indemnification).
 
-**14.** **Resold Customers****.** This Section 14 (Resold Customers) applies only if Customer orders SecOps Services from a Reseller under a Reseller Agreement (such Services, “Resold Services”). For the avoidance of doubt, this Agreement does not apply to Google Cloud Platform Services ordered from a Reseller.
+**14.** **Resold Customers****.** This Section 14 (Resold Customers) applies only if Customer orders SecOps Services from a Reseller under a Reseller Agreement (such Services, “Resold Services”). For the avoidance of doubt, this Agreement does not apply to Google Cloud Platform Services or Looker (original) Services ordered from a Reseller.
 
 14.1 _Applicable Terms._ For the purposes of Resold Services:
 
@@ -245,7 +251,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 15.19 _Definitions._
 
-* "Account" means Customer's Google Cloud Platform or SecOps Services account, as applicable.
+* "Account" means Customer's Google Cloud Platform, SecOps Services, or Looker (original) Services account, as applicable.
 * "Admin Console" means the online console(s) or dashboard provided by Google to Customer for administering certain Services.
 * "Affiliate" means any entity that directly or indirectly Controls, is Controlled by, or is under common Control with a party.
 * "Anti-Bribery Laws" means all applicable commercial and public anti-bribery laws, including the U.S. Foreign Corrupt Practices Act of 1977 and the UK Bribery Act 2010, that prohibit corrupt offers of anything of value, either directly or indirectly, to anyone, including government officials, to obtain or keep business or to secure any other improper commercial advantage. Government officials include: any government employees, candidates for public office, members of royal families, and employees of government-owned or government-controlled companies, public international organizations, and political parties.
@@ -256,9 +262,9 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 * "Cloud Data Processing Addendum" means the then-current terms describing data processing and security obligations with respect to Customer Data, as described at [https://cloud.google.com/terms/data-processing-addendum](https://cloud.google.com/terms/data-processing-addendum).
 * "Confidential Information" means information that one party (or an Affiliate) discloses to the other party under or in connection with this Agreement, and which is marked as confidential or would normally under the circumstances be considered confidential information. It does not include information that is independently developed by the recipient, is rightfully given to the recipient by a third party without confidentiality obligations, or becomes public through no fault of the recipient. Subject to the preceding sentence, Customer Data is considered Customer's Confidential Information.
 * "Control" means control of greater than 50 percent of the voting rights or equity interests of a party.
-* "Customer Application" means a software program that Customer creates or hosts using the GCP Services.
+* "Customer Application" means a software program that Customer creates or hosts using the GCP Services or Looker (original) Services, as applicable.
 * "Customer Data" means data provided to Google by Customer or End Users through the Services under the Account, and data that Customer or End Users derive from that data through their use of the Services.
-* "Documentation" means the Google documentation (as may be updated from time to time) in the form generally made available by Google to its customers for use with the Services, including at [https://cloud.google.com/docs/](https://cloud.google.com/docs).
+* "Documentation" means the Google documentation (as may be updated from time to time) in the form generally made available by Google to its customers for use with the Services, including at [https://cloud.google.com/docs/](https://cloud.google.com/docs) and any Looker (original) user guides and manuals Google provides Customer for its internal use.
 * "End Users" means the individuals who are permitted by Customer to use the Services. For clarity, End Users may include employees of Customer Affiliates and other authorized third parties.
 * "Export Control Laws" means all applicable export and re-export control laws and regulations, including (a) the Export Administration Regulations ("EAR") maintained by the U.S. Department of Commerce, (b) trade and economic sanctions maintained by the U.S. Treasury Department’s Office of Foreign Assets Control, and (c) the International Traffic in Arms Regulations ("ITAR") maintained by the U.S. Department of State.
 * "Fee Accrual Period" means a calendar month or other period or billing frequency specified by Google in the Admin Console or in an Order Form.
@@ -272,6 +278,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 * "Intellectual Property Rights" means current and future worldwide rights under patent, copyright, trade secret, trademark, and moral rights laws, and other similar rights.
 * "Legal Process" means an information disclosure request made under law, governmental regulation, court order, subpoena, warrant, or other valid legal authority, legal procedure, or similar process.
 * "Liability" means any liability, whether under contract, tort (including negligence), or otherwise, regardless of whether foreseeable or contemplated by the parties.
+* "Looker (original) Services" means the integrated business intelligence and embedded analytics platform (including the software components that connect to APIs) provided as either a deployment hosted by Google or a deployment hosted by Customer, as specified in the applicable Order Form. For clarity, Looker Studio and Looker (Google Cloud core) are GCP Services and are not Looker (original) Services.
 * "Notification Email Address" means the email address(es) designated by Customer in the Admin Console, or if none exists, the applicable Order Form.
 * "Order Form" means (a) an order form, statement of work, or other ordering document issued by Google under this Agreement and executed by Customer and Google; or (b) an order placed by Customer via a Google website or the Services, in each case specifying the Services Google will provide to Customer.
 * "Order Term" means the period of time starting on the Services Start Date for the Services and continuing for the period indicated on the Order Form unless terminated in accordance with this Agreement.
@@ -289,19 +296,23 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 * "SecOps Services" means the then-current services described at [https://cloud.google.com/terms/secops/services](https://cloud.google.com/terms/secops/services).
 * "Service Specific Terms" means, as applicable:
     
-    (i) For GCP Services, the then-current terms specific to one or more Services stated at [cloud.google.com/terms/service-terms](https://cloud.google.com/terms/service-terms); and
+    (i) For GCP Services, the then-current terms specific to one or more Services stated at [cloud.google.com/terms/service-terms](https://cloud.google.com/terms/service-terms);
     
-    (ii) For SecOps Services, the then-current terms specific to one or more Services stated at [https://cloud.google.com/terms/secops/service-terms](https://cloud.google.com/terms/secops/service-terms).
+    (ii) For SecOps Services, the then-current terms specific to one or more Services stated at [https://cloud.google.com/terms/secops/service-terms](https://cloud.google.com/terms/secops/service-terms); and
     
-* "Services" means the GCP Services and/or the SecOps Services, as applicable. In each case, Services exclude any Third-Party Offerings.
+    (iii) For Looker (original) Services, the then-current terms specific to one or more Services stated at [https://cloud.google.com/terms/looker/legal/customers/service-terms](https://cloud.google.com/terms/looker/legal/customers/service-terms).
+    
+* "Services" means the GCP Services, SecOps Services, or Looker (original) Services, as applicable. In each case, Services exclude any Third-Party Offerings.
 * "Services Start Date" means either the start date described in the Order Form or, in the absence of any such date, the date Google makes the Services available to Customer.
 * "SLA" means, as applicable:
     
-    (i) For GCP Services, each of the then-current service level agreements at [https://cloud.google.com/terms/sla](https://cloud.google.com/terms/sla) and
+    (i) For GCP Services, each of the then-current service level agreements at [https://cloud.google.com/terms/sla](https://cloud.google.com/terms/sla);
     
-    (ii) For SecOps Services, each of the then-current service level agreements at [https://cloud.google.com/terms/secops/sla](https://cloud.google.com/terms/secops/sla).
+    (ii) For SecOps Services, each of the then-current service level agreements at [https://cloud.google.com/terms/secops/sla](https://cloud.google.com/terms/secops/sla); and
     
-* "Software" means any downloadable tools, software development kits, or other such computer software provided by Google in connection with the Services, and any updates Google may make to such Software from time to time, excluding any Third-Party Offerings.
+    (iii) For Looker (original) Services, each of the then-current service level agreements at [https://cloud.google.com/terms/looker/legal/customers/sla](https://cloud.google.com/terms/looker/legal/customers/sla).
+    
+* "Software" means any downloadable tools, software development kits, or other such computer software provided by Google in connection with the applicable Services, and any updates Google may make to such Software from time to time, excluding any Third-Party Offerings.
 * "Suspend" or "Suspension" means disabling or limiting access to or use of the Services or components of the Services.
 * "Taxes" means all government-imposed taxes, except for taxes based on Google's net income, net worth, asset value, property value, or employment.
 * "Term" has the meaning stated in Section 8.1 (Agreement Term) of this Agreement.
@@ -310,7 +321,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 * "TSS" means the then-current technical support service provided by Google to Customer under the TSS Guidelines.
 * "TSS Guidelines" means Google's technical support services guidelines then in effect for the Services. TSS Guidelines are available at, as applicable:
     
-    (i) For GCP Services, [https://cloud.google.com/terms/tssg/](https://cloud.google.com/terms/tssg/) (under Google Cloud Platform Services); and
+    (i) For GCP Services and Looker (original) Services, [https://cloud.google.com/terms/tssg/](https://cloud.google.com/terms/tssg/); and
     
     (ii) For SecOps Services, [https://cloud.google.com/terms/secops/tssg](https://cloud.google.com/terms/secops/tssg).
     
@@ -410,7 +421,7 @@ A new Section 11A is added as follows:
 
 Section 12.2 (Limitation on Amount of Liability) is replaced with the following: 
 
-**12.2 Limitation on Amount of Liability. Each party's total aggregate Liability for damages arising out of or relating to this Agreement in connection with either the GCP Services or SecOps Services, as applicable, is limited to the greater of: (a) the Fees Customer paid for such Services during the 12 month period before the event giving rise to Liability, or (b) $AUD1,000, except Google’s total aggregate Liability for damages arising out of or related to Services or Software provided free of charge is limited to US$5,000.**
+**12.2 Limitation on Amount of Liability. Each party's total aggregate Liability for damages arising out of or relating to this Agreement in connection with either the GCP Services, SecOps Services or Looker (original) Services, as applicable, is limited to the greater of: (a) the Fees Customer paid for such Services during the 12 month period before the event giving rise to Liability, or (b) $AUD1,000, except Google’s total aggregate Liability for damages arising out of or related to Services or Software provided free of charge is limited to US$5,000.**
 
 Section 15.12(c) (U.S. Governing Law) is amended by inserting the following text at the end of that Section: “IF APPLICABLE LAW PREVENTS A DISPUTE FROM BEING RESOLVED IN A CALIFORNIA COURT, THEN CUSTOMER MAY FILE THE DISPUTE IN CUSTOMER’S LOCAL COURTS. IF APPLICABLE LAW PREVENTS CUSTOMER’S LOCAL COURT FROM APPLYING CALIFORNIA LAW TO RESOLVE A DISPUTE, THEN THE DISPUTE WILL BE GOVERNED BY THE APPLICABLE LOCAL LAWS OF CUSTOMER’S COUNTRY, STATE, OR OTHER PLACE OF RESIDENCE.” 
 
@@ -486,7 +497,7 @@ Section 15.12 (Governing Law ) is replaced as follows:
 
 (a) _Governing Law_. This Agreement is governed by the laws of the United Mexican States, excluding choice of law rules.
 
-(b) _Arbitration_
+(b) _Arbitration_.
 
 (i) _Definitions_. “Dispute” means any contractual or non-contractual dispute regarding this Agreement, including its formation, validity, subject matter, interpretation, performance, or termination.
 
@@ -504,13 +515,13 @@ A new Section 15.18.1 (Currency) is included as read below. As a consequence, Se
 
 15.18 _Conflicting Languages_. If this Agreement is translated into any language other than English, and there is a discrepancy between the English text and the translated text, the English text will govern unless expressly stated otherwise in the translation.
 
-15.18.1 _Currency_. Unless otherwise specified in this Agreement, any ancillary document or corresponding invoice, all references to “$” in this Agreement refer to mexican pesos. If a currency conversion is required in relation to the calculation of the Fees, that conversion will be carried out using the daily average exchange rate set by a reputable third party chosen by Google in accordance with applicable law.
+15.18.1 _Currency_. Unless otherwise specified in this Agreement, any ancillary document or corresponding invoice, all references to “$” in this Agreement refer to Mexican pesos. If a currency conversion is required in relation to the calculation of the Fees, that conversion will be carried out using the daily average exchange rate set by a reputable third party chosen by Google in accordance with applicable law.
 
 The definition of “Taxes” under Section 15.19 (Definitions) is replaced as follows:
 
 15.19 Definitions.
 
-"Taxes" means all government-imposed tax obligations (including taxes, duties, and withholdings), except those based on net income, net worth, asset value, property value, or employment.
+_"Taxes"_ means all government-imposed tax obligations (including taxes, duties, and withholdings), except those based on net income, net worth, asset value, property value, or employment.
 
 **North America - United States**
 
@@ -526,8 +537,12 @@ Previous versions of SecOps Services Agreement
 
 Previous versions of the VirusTotal Terms of Service
 
-[January 27, 2021](https://cloud.google.com/terms/secops)  [_December 11, 2018_](https://docs.virustotal.com/docs/historic-terms-of-service)
+[January 27, 2021](https://cloud.google.com/terms/secops)  [December 11, 2018](https://docs.virustotal.com/docs/historic-terms-of-service)
 
-Previous versions of Google Cloud Platform Terms of Service _(Last modified January 30, 2025)_
+Previous versions of Looker (original) Services Terms of Service
 
-[October 17, 2024](https://cloud.google.com/legal/archive/terms/index-20241017) [September 30, 2024](https://cloud.google.com/legal/archive/terms/index-20240930) [November 16, 2023](https://cloud.google.com/legal/archive/terms/index-20231116) [July 12, 2023](https://cloud.google.com/terms/index-20230712) [April 19, 2023](https://cloud.google.com/terms/index-20230419) [February 6, 2023](https://cloud.google.com/terms/index-20230206) [November 7, 2022](https://cloud.google.com/terms/index-20221107) [September 20, 2022](https://cloud.google.com/terms/index-20220920) [March 29, 2022](https://cloud.google.com/terms/index-20220329) [September 20, 2021](https://cloud.google.com/terms/index-20210920) [April 1, 2021](https://cloud.google.com/terms/index-20210401) [November 2, 2020](https://cloud.google.com/terms/index-20201102) [October 6, 2020](https://cloud.google.com/terms/index-20201006) [August 31, 2020](https://cloud.google.com/terms/index-20200831) [August 13, 2020](https://cloud.google.com/terms/index-20200813) [March 26, 2020](https://cloud.google.com/terms/index-20200326) [November 21, 2019](https://cloud.google.com/terms/index-20191121) [July 22, 2019](https://cloud.google.com/terms/index-20190722) [November 2, 2018](https://cloud.google.com/terms/index-20181102) [November 1, 2018](https://cloud.google.com/terms/index-20181101) [October 1, 2018](https://cloud.google.com/terms/index-20181001) [June 27, 2018](https://cloud.google.com/terms/index-20180627) [June 15, 2018](https://cloud.google.com/terms/index-20180615) [June 5, 2018](https://cloud.google.com/terms/index-20180605) [May 23, 2018](https://cloud.google.com/terms/index-20180523) [May 18, 2018](https://cloud.google.com/terms/index-20180518) [April 30, 2018](https://cloud.google.com/terms/index-20180430) [April 4, 2018](https://cloud.google.com/terms/index-20180404) [February 8, 2018](https://cloud.google.com/terms/index-20180208) [January 9, 2018](https://cloud.google.com/terms/index-20180109) [October 19, 2017](https://cloud.google.com/terms/index-20171019)
+[January 30, 2025](https://cloud.google.com/archive/terms/looker/msa-20250130)  [October 16, 2024](https://cloud.google.com/archive/terms/looker/msa-20241016)  [December 13, 2023](https://cloud.google.com/archive/terms/looker/msa/msa-20231213)  [October 4, 2023](https://cloud.google.com/terms/looker/msa/msa-20231004)  [December 7, 2022](https://cloud.google.com/terms/looker/msa/msa-20221207)  [February 14, 2022](https://cloud.google.com/terms/looker/msa/msa-20220214/)  [August 19, 2021](https://cloud.google.com/terms/looker/msa/msa-20210819/)  [April 1, 2021](https://cloud.google.com/terms/looker/msa/msa-20210401)  [November 2, 2020](https://cloud.google.com/terms/looker/msa/msa-20201102)  [June 1, 2020](https://cloud.google.com/terms/looker/msa/msa-20200601)  [April 30, 2019](https://cloud.google.com/terms/looker/msa/msa-201904)  [April 30, 2019](https://cloud.google.com/terms/looker/legal/customer-hosted)  [February 28, 2019](https://cloud.google.com/terms/looker/msa/msa-201902) 
+
+Previous versions of Google Cloud Terms of Service _(Last modified April 22, 2025)_
+
+[January 30, 2025](https://cloud.google.com/legal/archive/terms/index-20250130) [October 17, 2024](https://cloud.google.com/legal/archive/terms/index-20241017) [September 30, 2024](https://cloud.google.com/legal/archive/terms/index-20240930) [November 16, 2023](https://cloud.google.com/legal/archive/terms/index-20231116) [July 12, 2023](https://cloud.google.com/terms/index-20230712) [April 19, 2023](https://cloud.google.com/terms/index-20230419) [February 6, 2023](https://cloud.google.com/terms/index-20230206) [November 7, 2022](https://cloud.google.com/terms/index-20221107) [September 20, 2022](https://cloud.google.com/terms/index-20220920) [March 29, 2022](https://cloud.google.com/terms/index-20220329) [September 20, 2021](https://cloud.google.com/terms/index-20210920) [April 1, 2021](https://cloud.google.com/terms/index-20210401) [November 2, 2020](https://cloud.google.com/terms/index-20201102) [October 6, 2020](https://cloud.google.com/terms/index-20201006) [August 31, 2020](https://cloud.google.com/terms/index-20200831) [August 13, 2020](https://cloud.google.com/terms/index-20200813) [March 26, 2020](https://cloud.google.com/terms/index-20200326) [November 21, 2019](https://cloud.google.com/terms/index-20191121) [July 22, 2019](https://cloud.google.com/terms/index-20190722) [November 2, 2018](https://cloud.google.com/terms/index-20181102) [November 1, 2018](https://cloud.google.com/terms/index-20181101) [October 1, 2018](https://cloud.google.com/terms/index-20181001) [June 27, 2018](https://cloud.google.com/terms/index-20180627) [June 15, 2018](https://cloud.google.com/terms/index-20180615) [June 5, 2018](https://cloud.google.com/terms/index-20180605) [May 23, 2018](https://cloud.google.com/terms/index-20180523) [May 18, 2018](https://cloud.google.com/terms/index-20180518) [April 30, 2018](https://cloud.google.com/terms/index-20180430) [April 4, 2018](https://cloud.google.com/terms/index-20180404) [February 8, 2018](https://cloud.google.com/terms/index-20180208) [January 9, 2018](https://cloud.google.com/terms/index-20180109) [October 19, 2017](https://cloud.google.com/terms/index-20171019)
