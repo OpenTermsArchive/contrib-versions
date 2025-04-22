@@ -1,12 +1,12 @@
 ### Privacy Policy
 
-**The Mirror Privacy Policy**
+**The Mirror Megaverse Inc. Privacy Policy**
 
-**_Last modified: Mar 2nd, 2025_**
+**_Last modified: Apr 19th, 2025_**
 
 **Introduction**
 
-This policy applies to your access to and use of the downloadable software, websites, mobile applications and other online products and services (collectively, the “**Services**”) available at [https://in.themirror.space](https://in.themirror.space/) and/or [https://mirrorengine.io](https://mirrorengine.io/) via download and/or through the mobile application version of the Services (collectively, the “**Platform**” or “**The Mirror**” or “**Mirror Engine**”) provided by The Mirror Megaverse Inc. (“**TMM**”, or “**we**”).
+This policy applies to your access to and use of the downloadable software, websites, mobile applications and other online products and services (collectively, the “**Services**”) available at [https://themirror.space](https://themirror.space/) and/or [https://mirrorengine.io](https://mirrorengine.io/) and any subdomains via download and/or through the mobile application version of the Services (collectively, the “**Platform**” or “**The Mirror**” or “**Mirror Engine**”) provided by The Mirror Megaverse Inc. (“**TMM**”, or “**we**”).
 
 This policy applies to information we collect:
 
@@ -22,9 +22,11 @@ It does not apply to information collected by:
 
 Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it.  If you do not agree with our policies and practices, your choice is not to use our Service.  By accessing or using our Service, you agree to this privacy policy.  This policy may change from time to time (_see_ [Changes to Our Privacy Policy](http://%5Cl%20%22SD_ChangesPrivacyPolicy%22)).  Your continued use of this Service after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
-**Children Under the Age of 18**
+**Children Under the Age of 13**
 
-**Our Service is not intended for children under 18 years of age.  No one under age 18 may provide any information to or on the Service.  We do not knowingly collect personal information from children under 18.  If you are under 18, do not use or provide any information on this Service, or on/or through any of its features.  If we learn we have collected or received personal information from a child under 18 without verification of parental consent, we will delete that information.  If you believe we might have any information from or about a child under 18, please contact us at:** [**legal@themirror.space**](mailto:legal@themirror.space)**. Information We Collect About You and How We Collect It**
+**Our Service is not intended for children under 13 years of age. Our Service is intended for users age 13 and over. No one under age 13 may provide any information to or on the Service.  We do not knowingly collect personal information from children under 13.  If you are under 13, do not use or provide any information on this Service, or on/or through any of its features.  If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information.  If you believe we might have any information from or about a child under 13, please contact us at:** [**legal@themirror.space**](mailto:legal@themirror.space)**.**
+
+**Information We Collect About You and How We Collect It**
 
 We collect several types of information from and about users of our Service, including information:
 
@@ -65,7 +67,7 @@ The information we collect automatically may include personal information, or we
 The technologies we use for this automatic data collection may include:
 
 * **Cookies (or browser cookies)**.  A cookie is a small file placed on the hard drive of your computer or mobile device.  You may refuse to accept browser cookies, by activating the appropriate setting on your computer.  However, if you select this setting, you may be unable to access certain parts of our Service.  Unless you have adjusted your computer setting, (so that it will refuse cookies), our system will issue cookies when you direct your computer to our Service.
-* **Flash Cookies**.  Certain features of our Service may use locally stored objects (or Flash cookies) to collect and store information about your preferences, and navigation to, from, and/on our Platform.  Flash cookies are not managed by the same computer or mobile device settings, as are used for browser cookies.  For information about managing your privacy and security settings for Flash cookies, _see_ [Choices About How We Use and Disclose Your Information](http://%5Cl%20%22SD_ChoicesAboutUse%22).
+* **Browser functionality** for data storage, including but not limited to Session Storage.
 
 **Third-Party Use of Cookies**
 
