@@ -1,4 +1,4 @@
-[Click today and collect in-store same day, for free. Or, collect from your local pick-up point from €2.95](https://www.ikea.com/ie/en/customer-service/services/click-collect/collect-from-partner-locations-pubb89b7800/?itm_content=Prop&itm_element=Banner&itm_campaign=prop_banner_collect_partner_location)
+[Free bedroom appointments, online and in store. Talk to us about your sleep and storage needs](https://www.ikea.com/ie/en/customer-service/services/planning-consultation/#8f122ac0-8280-11ec-8fb5-bbf24207f858)
 
 Cookie Policy
 =============
