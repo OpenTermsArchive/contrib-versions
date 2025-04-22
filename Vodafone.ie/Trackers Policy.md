@@ -31,7 +31,7 @@ You can find the privacy supplements for all our products and services at [Priva
 
 #### Who we are
 
-We are Vodafone Ireland and we are a member of the Vodafone Group. If you go to [http://www.vodafone.com/content/index/about/where.html](http://www.vodafone.com/content/index/about/where.html) you can find links to all of the Vodafone operating companies that are part of the Vodafone Group.
+We are Vodafone Ireland and we are a member of the Vodafone Group. If you go to [where Vodafone operates globally](http://www.vodafone.com/content/index/about/where.html) you can find links to all of the Vodafone operating companies that are part of the Vodafone Group.
 
 In this privacy notice:
 
