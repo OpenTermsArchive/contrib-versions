@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Last updated: April 1, 2025
+Last updated: April 22, 2025
 
 This document (“**Privacy Policy**”) explains the privacy rules applicable to personal data and other information collected or submitted when you access, install, or use Nord Services and Websites regardless of the device (computer, mobile phone, tablet, etc.) you use.
 
@@ -112,7 +112,7 @@ Service providers. We use third-party service providers to help us with various 
 Some of our main long-term service providers:
 
 * Live chat and support service platform, e.g., Zendesk (provided by Zendesk Inc.), Klaus (provided by Qualitista OÜ)
-* Emailing service providers, e.g., Iterable (provided by Iterable Inc.), Sendgrid (provided by Twilio Inc.)
+* Emailing service providers, e.g., Braze (provided by Braze, Inc.), Sendgrid (provided by Twilio Inc.)
 * Marketing, application analytics and diagnostics, e.g., Google Analytics, Firebase Analytics (provided by Google), AppsFlyer (provided by AppsFlyer Ltd.), Bugsnag (provided by Bugsnag Inc.)
 * Conversion attribution system, e.g., Hasoffers (provided by Tune Inc.)
 * Payments processing, e.g., Mollymind AG, NordSec B.V., Moonflash Limited, Lagosec, Inc., Nord Security JP Co., Ltd, Checkout Ltd
