@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Effective starting: May 17, 2024_ ([view archived versions](https://www.atlassian.com/legal/archives))
+_Effective starting: April 25, 2025_ ([view archived versions](https://www.atlassian.com/legal/archives))
 
 What this policy covers
 -----------------------
@@ -198,7 +198,7 @@ _**Delete your information**_: Our Services and related documentation (see [Atl
 
 _**Request that we stop using your information**_:  In some cases, you may ask us to stop accessing, storing, using and otherwise processing your information where you believe we don't have the appropriate rights to do so.  For example, if you believe a Services account was created for you without your permission or you are no longer an active user, you can request that we delete your account as provided in this policy.  Where you gave us consent to use your information for a limited purpose, you can contact us to withdraw that consent, but this will not affect any processing that has already taken place at the time. You can also opt-out of our use of your information for certain marketing purposes by contacting us, as provided below.  When you make such requests, we may need time to investigate and facilitate your request.  If there is delay or dispute as to whether we have the right to continue using your information, we will restrict any further use of your information until the request is honored or the dispute is resolved, provided your administrator does not object (where applicable).  If you object to information about you being disclosed to a third-party app, please disable the app or contact your administrator to do so.
 
-_**Opt out of communications**_: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your Service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database.  Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services. You can opt out of some notification messages in your account settings. Please note, you will continue to receive generic ads.
+_**Opt out of communications**_: You may opt out of receiving promotional communications from us by using the unsubscribe link within each email, updating your email preferences within your Service account settings menu, or by contacting us as provided below to have your contact information removed from our promotional email list or registration database.  Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding our Services. You can opt out of some notification messages in your account settings. Please note, you will continue to receive generic ads. If personal data is to be used in a way not previously disclosed, or shared with external parties not covered in this policy, you will be provided the opportunity to opt-out. 
 
 _**Opt out of targeted advertising**_: Where applicable under local law, you may have the right to opt out of targeted advertising by [clicking here](#additional-disclosures-for-ca-residents) and following the instructions. 
 
@@ -221,21 +221,23 @@ _**International transfers within the Atlassian Companies**_: To facilitate our
 
 _**International transfers to third parties**_: Some of the third parties described in this privacy policy, which provide services to us under contract, are based in other countries that may not have equivalent privacy and data protection laws to the country in which you reside. When we disclose information of customers in the European Economic Area, the UK, or Switzerland, we make use of the European Commission-approved standard contractual data protection clauses, binding corporate rules for transfers to data processors, or other appropriate legal mechanisms to safeguard the transfer.
 
-**Data Privacy Framework Notice**
+**EU–US, Swiss–US and UK –Extension Data Privacy Framework**
 
 On July 10, 2023, the European Commission’s adequacy decision for the EU-U.S. Data Privacy Framework (EU-U.S. DPF) entered into force.
 
 Atlassian, Inc. and its U.S. subsidiaries (Atlassian Network Service, Inc., Dogwood Labs, Inc., AgileCraft LLC, Halp, Inc., Loom, Inc., Opsgenie, Inc., and Trello, Inc.) adhere to the Data Privacy Framework Principles regarding the collection, use, and retention of personal data that is transferred from the European Union and Switzerland to the U.S. 
 
-Atlassian complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Atlassian has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union and the United Kingdom in reliance on the EU-U.S. DPF and the UK Extension to the EU-U.S. DPF.  Atlassian has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF.  If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the DPF Principles shall govern. To learn more about the Data Privacy Framework Program, please visit the Data Privacy Framework Program website [here](https://www.dataprivacyframework.gov/). To view Atlassian’s certifications, search for “Atlassian” in the Data Privacy Framework List.
+Atlassian complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the U.S. Department of Commerce. Atlassian has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Atlassian has certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/.](https://www.dataprivacyframework.gov/) 
 
-As required under the principles, when we receive information under the Data Privacy Framework and then transfer it to a third-party service provider acting as an agent on our behalf, we have certain liability under the Data Privacy Framework if the agent processes the information in a manner inconsistent with the Data Privacy Framework and we are responsible for the event giving rise to the damage.
+In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF, Atlassian commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.trustarc.com/watchdog/request](https://feedback-form.trustarc.com/watchdog/request) for more information or to file a complaint. These dispute resolution services are provided at no cost to you. 
 
-We encourage you to contact us as provided below should you have a Data Privacy Framework related (or general privacy-related) complaint.  If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our [U.S.-based third-party dispute resolution provider](https://feedback-form.truste.com/watchdog/request) (free of charge).  Through this third-party dispute resolution provider, we have also committed to cooperating and complying with the information and advice provided by an informal panel of data protection authorities in the European Economic Area, and/or the Swiss Federal Data Protection and Information Commissioner (as applicable) in relation to unresolved complaints (as further described in the Data Privacy Framework Principles). You may also contact your local data protection authority within the European Economic Area or Switzerland (as applicable) for unresolved complaints.    
+The Federal Trade Commission has jurisdiction over Atlassian’s compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF. 
 
-Under certain conditions, more fully described on the [Data Privacy Framework website](https://www.dataprivacyframework.gov/), including when other dispute resolution procedures have been exhausted, you may invoke binding arbitration.  
+For complaints regarding EU-U.S. DPF, the UK Extension to the EU-U.S DPF, and Swiss-U.S. DPF compliance not resolved by any of the other DPF mechanisms, you have the possibility, under certain conditions, to invoke binding arbitration. Further information can be found on the official DPF website: [Data Privacy Framework](https://www.dataprivacyframework.gov/). 
 
-Atlassian, Inc. is subject to the investigatory and enforcement powers of the U.S. Federal Trade Commission (FTC).
+In certain situations, Atlassian may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+
+In the context of onward transfers, Atlassian is accountable for the processing of personal data it receives, under the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and Swiss-U.S. DPF and subsequently transfers to a third party acting as an agent on its behalf. Atlassian remains liable under the EU-U.S. DPF Principles, and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF Principles if the Atlassian’s agent processes personal information in a manner inconsistent with the EU-U.S. DPF Principles, and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF Principles, unless the Atlassian proves that it is not responsible for the event giving rise to damage. 
 
 Other important privacy information
 -----------------------------------
@@ -339,6 +341,10 @@ E-Mail: [ukrepresentative@atlassian.com](mailto:ukrepresentative@atlassian.com)
 
 Key Changes
 -----------
+
+**Effective April 25, 2025**
+
+We have updated the section EU – US, Swiss – US and UK – Extension Data Privacy Framework as part of our Data Privacy Framework re-certification.
 
 **Effective May 17, 2024**
 
