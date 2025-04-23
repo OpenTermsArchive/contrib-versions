@@ -54,9 +54,9 @@ USA
 Cloudflare Privacy Policy
 =========================
 
-This Privacy Policy is effective as of August 28, 2024.
+This Privacy Policy is effective as of April 22, 2025.
 
-_We have updated our July 18, 2024 Privacy Policy to update the contact email of our Data Protection Officer._  
+_We have updated our Aug 28, 2024 Privacy Policy to add our entities, Cloudflare Capability Center (India) Private Limited and Cloudflare Sweden AB._  
   
 
 * * *
@@ -489,5 +489,22 @@ Lingkaran Syed Putra,
 Kuala Lumpur  
 Wilayah Persekutuan  
 59200  
+Attention: Data Protection Officer  
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
+
+Cloudflare Capability Center (India) Private Limited  
+14, 1 Cross 4F  
+NS Halli, Gundappa Lane,  
+Sanjaya Nagar, R.M.V. Extension II Stage  
+Bangalore North, Bangalore - 560094, Karnataka, India  
+Attention: Grievance Officer  
+[dpo@cloudflare.com](mailto:dpo@cloudflare.com)
+
+Cloudflare Sweden AB  
+c/o Setterwalls Advokatbyrå  
+Att: J. Johannesson  
+Box 1050  
+101 39 Stockholm  
+Sweden  
 Attention: Data Protection Officer  
 [dpo@cloudflare.com](mailto:dpo@cloudflare.com)
