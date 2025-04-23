@@ -172,6 +172,7 @@ Other languages:
 * [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "Policy:Terms of Use/my (65% translated)")
 * [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/xmf "Policy:Terms of Use/xmf (26% translated)")
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "Policy:Terms of Use/ka (45% translated)")
+* [ትግርኛ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ti "Policy:Terms of Use/ti (8% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/km "Policy:Terms of Use/km (6% translated)")
 * [ᱥᱟᱱᱛᱟᱲᱤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sat "Policy:Terms of Use/sat (4% translated)")
 * [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "Policy:Terms of Use/zh (100% translated)")
