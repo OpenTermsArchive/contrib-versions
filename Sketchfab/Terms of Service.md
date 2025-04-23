@@ -121,7 +121,7 @@ Sketchfab respects the intellectual property rights of others, and complies with
 
 In the event you believe that any User Content on the Services infringes your copyright, please file a notice of infringement using this form:
 
-[FILE A DMCA TAKEDOWN NOTICE](https://docs.google.com/forms/d/e/1FAIpQLSfK8PodZ67kAKwjRBdvjZEMf7EEHfHUu7-nPqbURwk2LvPf-w/viewform "File a DMCA takedown notice")
+[FILE A DMCA TAKEDOWN NOTICE](https://docs.google.com/forms/d/e/1FAIpQLSflk6tc6yuUMsnqap2hRmCHGGIptTQrJ85IcNYIGBccqxcpCQ/viewform "File a DMCA takedown notice")
 
 Electronic notification is preferred. You can also file a notice with our designated agent, but processing may be slower than using the link above.
 
@@ -148,7 +148,7 @@ If you are a User and material that you have uploaded to the Services has been r
 3. A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material to be removed or disabled; and
 4. Your name, address, and telephone number, and a statement that you consent to the jurisdiction of Federal District Court for the judicial district in which the address is located or, if your address is outside of the United States, for any judicial district in which Company may be found, and that you will accept service of process from the person who provided notification under subsection 17 U.S.C. § 512(c)(1)(C) or an agent of such person.
 
-If you have a claim related to trademarks, patents, intellectual property, or any other matter other than copyright, please [contact us](https://docs.google.com/forms/d/e/1FAIpQLSfK8PodZ67kAKwjRBdvjZEMf7EEHfHUu7-nPqbURwk2LvPf-w/viewform). Please provide detailed information regarding the nature of your complaint, including but not limited to your name and contact information, the subject matter of the complaint, and any additional information that we may require in order to review the matter and take action (or no action) as may be appropriate. Please be advised that we may share the details of your complaint with the User that owns the User Content that is the subject of your complaint, or with appropriate authorities (including law enforcement authorities) if Sketchfab in its sole discretion believes that such action is necessary, or if we are obligated to do so by law.
+If you have a claim related to trademarks, patents, intellectual property, or any other matter other than copyright, please contact [dmca@sketchfab.com](mailto:dmca@sketchfab.com). Please provide detailed information regarding the nature of your complaint, including but not limited to your name and contact information, the subject matter of the complaint, and any additional information that we may require in order to review the matter and take action (or no action) as may be appropriate. Please be advised that we may share the details of your complaint with the User that owns the User Content that is the subject of your complaint, or with appropriate authorities (including law enforcement authorities) if Sketchfab in its sole discretion believes that such action is necessary, or if we are obligated to do so by law.
 
 ### 9\. Modifying and terminating the Services
 
