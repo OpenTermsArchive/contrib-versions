@@ -218,7 +218,7 @@ If we are notified of a court order or other legal process (including garnishmen
 
 If you attempt to do this, we may hold your money for a period of time that is reasonably necessary to protect our or a third party’s interest.
 
-**9.5 You are responsible for your Wise Account after closure.** You agree that you will continue to be responsible for all obligations related to your Wise Account and your use of our Services, even after it is closed or you have stopped using our Services. For example, if you have a negative balance with Wise, you will remain responsible for paying us even after your Wise Account is closed and/or you have deleted your profile. For more information, see “What happens if you owe us money” in section 30.9.
+**9.5 You are responsible for your Wise Account after closure.** You agree that you will continue to be responsible for all obligations related to your Wise Account and your use of our Services, even after it is closed or you have stopped using our Services. For example, if you have a negative balance with Wise, you will remain responsible for paying us even after your Wise Account is closed and/or you have deleted your profile. For more information, see “What happens if you owe us money” in section 29.9.
 
 **9.6 We may end this Agreement by giving you two months notice.** We may end this Agreement and terminate your Wise Account or any Services associated with it by giving you two months prior notice, where required.
 
@@ -302,7 +302,7 @@ As required by the Payment Services Law, we will make sure that your money is al
 
 You agree that you will not exercise your chargeback right for any other reason. If we need to investigate or take any actions in connection with a chargeback caused by or related to you, we may charge you for our costs in doing so and may deduct those costs from your Wise Account or close your Wise Account or limit your access to our Services.
 
-**12.8 When we will credit your Wise Account.** We will credit your Wise Account once we have received your funds. For some Pay-in Methods such as a credit or debit card, we will credit the funds as soon as possible subject to our right of Reversal. This means if we credit your Wise Account for the full amount you intended to add but this amount does not reach us within a reasonable time, and you use that credited amount, for instance to send money or make a purchase, we may deduct that amount from your Wise Account. This could make your Wise Account have a negative balance (see “What happens if you owe us money” in section 30.9).
+**12.8 When we will credit your Wise Account.** We will credit your Wise Account once we have received your funds. For some Pay-in Methods such as a credit or debit card, we will credit the funds as soon as possible subject to our right of Reversal. This means if we credit your Wise Account for the full amount you intended to add but this amount does not reach us within a reasonable time, and you use that credited amount, for instance to send money or make a purchase, we may deduct that amount from your Wise Account. This could make your Wise Account have a negative balance (see “What happens if you owe us money” in section 29.9).
 
 **12.9 Adding money with your debit or credit card.** If you choose to add money using your debit or credit card, provided we offer this method, you will need to provide your card details to us, including your card number and cardholder name. When you choose to add money via debit or credit card, you confirm that your card details are correct, that you are authorised to access and transmit funds from your card account, that your card account is in good standing with the account-holding financial institution, and that you have the authority to initiate a debit or credit card payment in the amount at issue to or from your card account. You authorise us to initiate credits and debits to your bank account through card payment networks in order to process your transaction, including any applicable fees and charges, and this authorisation shall remain in effect so long as you are able to use our Services, unless cancelled in accordance with this Agreement.
 
@@ -737,7 +737,7 @@ Changes to this Agreement which are (1) more favourable to you; (2) required by 
 31\. Complaints
 ---------------
 
-**31.1** If you have any complaints about us or our Services, you may contact us following our [customer complaint procedure](https://wise.com/help/articles/2235393/how-do-i-make-a-complaint).
+**31.1** If you have any complaints about us or our Services, you may contact us following our [customer complaint procedure](https://wise.com/help/articles/2235393/how-do-i-make-a-complaint). Make sure to reach out to us first. If you’re not satisfied with our final response, you can escalate your complaint to the Ombudsfin, North Gate II, Boulevard du Roi Albert II, n°8, bte. 2, 1000 Brussels, Belgium, or at ombudsman@ombudsfin.be. You may also contact the Economic Inspectorate of the Federal Public Service Economy, by phone at +32 800 120 33 or e-mail: info.eco@economie.fgov.be.
 
 * * *
 
