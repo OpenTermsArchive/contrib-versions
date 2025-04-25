@@ -873,15 +873,6 @@ c. any other security incident (including a cyber-security attack) affecting you
 
 **Website** means the website located at [www.binance.com](https://web.archive.org/web/20240515111941/http://www.binance.com/). 
 
-**Product Terms**
-
-|     |     |     |
-| --- | --- | --- |
-| [Auto-Invest](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-autoinvest) | [Mining Pool](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-binance-pool) |     |
-| [Crypto Loan](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-crypto-loans) | [Fiat](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/terms-fiat) |     |
-| [Gift Card](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/terms-gift-card) | [OTC Terms](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-otc) |     |
-| [Swap](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-swap-farming) |     |     |
-
 ### **Community**
 
 USD-$
@@ -922,13 +913,3 @@ USD-$
 * [Law Enforcement Request](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support/law-enforcement)
     
 * [Licenses & Registrations](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/licenses)
-    
-
-### **Product Terms**
-
-|     |     |
-| --- | --- |
-| [Auto-Invest](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-autoinvest) | [Mining Pool](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-binance-pool) |
-| [Crypto Loan](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-crypto-loans) | [Fiat](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/terms-fiat) |
-| [Gift Card](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/terms-gift-card) | [OTC Terms](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-otc) |
-| [Swap](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms-swap-farming) |     |
