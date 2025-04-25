@@ -416,7 +416,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * [ESM](https://ubuntu.com/security/esm)
 * [Livepatch](https://ubuntu.com/security/livepatch)
-* [Certifications & Hardening](https://ubuntu.com/security/compliance-automation)
+* [Security standards](https://ubuntu.com/security/security-standards)
 * [CVEs](https://ubuntu.com/security/cves)
 * [Notices](https://ubuntu.com/security/notices)
 * [Docker Images](https://ubuntu.com/security/docker-images)
