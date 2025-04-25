@@ -1,4 +1,4 @@
-[NEW Interior Design services - prices for IKEA Family members start at €20, (regular price €25)](https://www.ikea.com/ie/en/customer-service/services/interior-design-service-home/)
+[IKEA FAMILY members: Free small standard parcel delivery when you spend €65 or more](https://www.ikea.com/ie/en/customer-service/services/delivery/#18fc4069-0a57-11ec-912c-d5190c7baa2c)
 
 Privacy policy
 ==============
