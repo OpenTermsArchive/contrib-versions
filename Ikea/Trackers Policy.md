@@ -1,4 +1,4 @@
-[NEW Interior Design services - prices for IKEA Family members start at €20, (regular price €25)](https://www.ikea.com/ie/en/customer-service/services/interior-design-service-home/)
+[Free bedroom appointments, online and in store. Talk to us about your sleep and storage needs](https://www.ikea.com/ie/en/customer-service/services/planning-consultation/#8f122ac0-8280-11ec-8fb5-bbf24207f858)
 
 Cookie Policy
 =============
