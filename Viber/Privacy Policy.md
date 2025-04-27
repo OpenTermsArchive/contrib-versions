@@ -381,7 +381,7 @@ We share your personal data with our trusted service providers and business part
 * **Advertising and marketing service providers,** who help us with advertising measurements and app installations;
 * **Data storage providers,** with whom we entrust the hosting and storage of our data;
 * **Customer support providers**, who help us perform such functions as customer support and customer service;
-* **Data analytics and data management providers**, who help us analyze, improve, personalize,enhance our Services and moderate the content;
+* **Data analytics and data management providers**, who help us analyze, improve, personalize, enhance our Services and moderate the content;
 * **Measurement partners**, who help us with measurements, tracking and targeting;
 * **Payment and fintech services providers**, who enable processing payments and fintech actions on our app;
 * **Data security partners**, who help us detect and prevent potentially illegal acts, violations of our policies, fraud and/or data security breaches and ensure compliance with legal obligations.
@@ -562,7 +562,7 @@ We are committed to working with you to obtain a fair resolution of any complain
 
 In the event you read this policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.
 
-Current Privacy Policy PDF Version Viber Privacy Policy March 2025
+Current Privacy Policy PDF Version [Viber Privacy Policy March 2025](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-March-2025.pdf)
 
 Previous Privacy Policy PDF Version [Viber Privacy Policy August 2023](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-August-2023-3.pdf)
 
