@@ -1,4 +1,4 @@
-[Click today and collect in-store same day, for free. Or, collect from your local pick-up point from €2.95](https://www.ikea.com/ie/en/customer-service/services/click-collect/collect-from-partner-locations-pubb89b7800/?itm_content=Prop&itm_element=Banner&itm_campaign=prop_banner_collect_partner_location)
+[NEW Interior Design services - prices for IKEA Family members start at €20, (regular price €25)](https://www.ikea.com/ie/en/customer-service/services/interior-design-service-home/)
 
 Privacy policy
 ==============
