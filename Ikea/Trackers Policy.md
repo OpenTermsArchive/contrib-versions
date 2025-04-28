@@ -1,5 +1,3 @@
-[NEW Interior Design services - prices for IKEA Family members start at €20, (regular price €25)](https://www.ikea.com/ie/en/customer-service/services/interior-design-service-home/)
-
 Cookie Policy
 =============
 
@@ -25,9 +23,11 @@ This Policy also tells you what your rights are in relation to the personal data
     **1\. Strictly Necessary cookies**  
     These cookies are necessary for the website to function and cannot be switched off in our systems. They are usually only set in response to actions made by you which amount to a request of services, such as setting your privacy preferences, logging in or filling in forms. You can set your browser to block or alert you about these cookies, but some parts of the site will not then work. These cookies do not store any personally identifiable information. 
     
-    **2\. Performance cookies**These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site.
+    **2\. Performance cookies  
+    **These cookies allow us to count visits and traffic sources, so we can measure and improve the performance of our site. They help us know which pages are the most and least popular and see how visitors move around the site. All information these cookies collect is aggregated and therefore anonymous. If you do not allow these cookies, we will not know when you have visited our site.
     
-    **3\. Targeting cookies**These cookies may be set through our site by our advertising partners who may use them to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. 
+    **3\. Targeting cookies  
+    **These cookies may be set through our site by our advertising partners who may use them to build a profile of your interests and show you relevant adverts on other sites. They do not store directly personal information but are based on uniquely identifying your browser and internet device. If you do not allow these cookies, you will experience less targeted advertising. 
     
 * How do we use Cookies?
     
@@ -69,13 +69,15 @@ This Policy also tells you what your rights are in relation to the personal data
     * \_ga
     
       
-    **Akamai**These are performance cookies which help us to ensure that content delivery on our site is in order and they ensure our servers are optimised so that your webpage loads as quickly as possible.
+    **Akamai  
+    **These are performance cookies which help us to ensure that content delivery on our site is in order and they ensure our servers are optimised so that your webpage loads as quickly as possible.
     
     * RT   
           
         
     
-    **Contentsquare**These are performance cookies which we use to observe user engagement on our site and to improve your experience. No personal data is obtained or processed. 
+    **Contentsquare  
+    **These are performance cookies which we use to observe user engagement on our site and to improve your experience. No personal data is obtained or processed. 
     
     * \_cs\_id
     * \_cs\_s
@@ -107,28 +109,35 @@ This Policy also tells you what your rights are in relation to the personal data
     * \_pin\_unauth
     * \_pinterest\_ct\_ua 
     
-    **Facebook**These are targeting cookies which allow us to place advertising content onto Facebook that is relevant to you based on your browsing patterns on our website. This information is never connected to your profile and it is always anonymous. You can read more and change your preferences on Facebook here:  [https://www.facebook.com/policies/cookies/](https://www.facebook.com/policies/cookies/) . You can control and opt-out of Facebook adverts and other third-party cookies here:  [https://www.youronlinechoices.com/ie/your-ad-choices](https://www.youronlinechoices.com/ie/your-ad-choices) 
+    **  
+    Facebook  
+    **These are targeting cookies which allow us to place advertising content onto Facebook that is relevant to you based on your browsing patterns on our website. This information is never connected to your profile and it is always anonymous. You can read more and change your preferences on Facebook here:  [https://www.facebook.com/policies/cookies/](https://www.facebook.com/policies/cookies/) . You can control and opt-out of Facebook adverts and other third-party cookies here:  [https://www.youronlinechoices.com/ie/your-ad-choices](https://www.youronlinechoices.com/ie/your-ad-choices) 
     
     * \_fbp 
     * fr
     
     Facebook pixel is used to collect event data from the website. We and Facebook Ireland are joint controllers on the event data collection for the purposes of creating and optimising advertising campaigns based on it. Facebook will also process the data according to their privacy policy for example to personalise content on their services and to promote safety and security. For these activities they act as independent controller. Facebook will handle all requests or questions you may have according to their privacy policy. 
     
-    **Contensquare**This is a targeting cookie which we use to observe user engagement on our site and to improve your experience. No personal data is obtained or processed.
+    **  
+    Contensquare  
+    **This is a targeting cookie which we use to observe user engagement on our site and to improve your experience. No personal data is obtained or processed.
     
     *  \_cs\_same\_site 
     
-    **Salesforce**This is a targeting cookie to collect device information and behavioural data about how our website and other digital touchpoints are used. Salesforce data management platform is used to build audiences for online advertising. The aim is to make sure we advertise relevant products and services at the correct time. Audiences can be for example interest based (viewed kitchen products) or based on demography (age gender).
+    **Salesforce  
+    **This is a targeting cookie to collect device information and behavioural data about how our website and other digital touchpoints are used. Salesforce data management platform is used to build audiences for online advertising. The aim is to make sure we advertise relevant products and services at the correct time. Audiences can be for example interest based (viewed kitchen products) or based on demography (age gender).
     
     * \_kuid\_ 
     
-    **Youtube**YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites.
+    **Youtube  
+    **YouTube collects user data through videos embedded in websites, which is aggregated with profile data from other Google services in order to display targeted advertising to web visitors across a broad range of their own and other websites.
     
     * YSC
     * VISITOR\_INFO1\_LIVE
     * CONSENT 
     
-    **Others**There are several other targeting cookies used for market and audience segmentation and are used to make our advertising seen on other sites more relevant. These are: 
+    **Others  
+    **There are several other targeting cookies used for market and audience segmentation and are used to make our advertising seen on other sites more relevant. These are: 
     
     * \_gat\_xxxxxxxxxxxxxxxxxxxxxxxxxx – owned by Google Analytics 
     * \_gat\_gtag\_xxxxxxxxxxxxxxxxxxxxxxxxxxx – owned by Google Analytics 
