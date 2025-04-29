@@ -325,7 +325,7 @@ To allow safe access to emergency services, the Viber mobile app initiates emerg
 
 In case you experience any issue with the Viber Out service, please contact our support as provided under section 21 of the Terms and our team will check such report and will endeavor to remedy any such fault as reasonably feasible. For any information relating to technical details with respect to the calls transferred between mobile networks, please review your agreement with your mobile operator.
 
-Current Terms of Use PDF Viber Terms of Service March 2025
+Current Terms of Use PDF [**Viber Terms of Service March 2025**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-March-2025.pdf)
 
 Previous Terms of Use PDF [**Viber Terms of Service April 2023**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-April-2023-1.pdf)
 
