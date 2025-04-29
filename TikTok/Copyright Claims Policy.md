@@ -4,8 +4,6 @@ _Released March 27, 2025_
 
 _Effective April 26, 2025_
 
-_We are updating our policy to further improve the protection and enforcement of intellectual property on TikTok. You can find our current guidelines_ [here](https://www.tiktok.com/legal/copyright-policy-archive)_._
-
   
 
 TikTok respects the intellectual property rights of others and requires compliance with the [Terms of Service](https://www.tiktok.com/legal/terms-of-service) and [Community Guidelines](https://www.tiktok.com/community-guidelines) which do not allow content that violates or infringes someone else's intellectual property rights, including copyright and trademark.
