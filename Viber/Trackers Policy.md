@@ -228,17 +228,3 @@ For any queries in relation to this Ads & Cookies Policy please contact us at:
 Current Cookies policy March 2025 [**Viber Cookies Policy March 2025**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-EN-March-2025.pdf)
 
 Previous Cookies policy December 2024 [**Viber Cookies Policy December 2024**](https://www.viber.com/app/uploads/Ads-Cookies-Tracking-Technologies-Policy-Dec-2024.pdf)
-
-Previous Cookies policy August 2023 [**Viber Cookies Policy August 2023**](https://www.viber.com/app/uploads/AdsCookies-Policy-EN-August-2023-1.pdf)
-
-Previous Cookies policy June 2023 **[Viber Cookies Policy June 2023](https://www.viber.com/app/uploads/Ads^0Cookies-Policy-June-2023.pdf)**
-
-Previous Cookies policy 2022 [**Viber Cookies Policy 2022**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-March-2022-EN-1.pdf)
-
-Previous Cookies policy 2021 [**Viber Cookies Policy 2021**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-2021-EN.pdf) 
-
-Previous Cookies policy 2019 [**Viber Cookies Policy 2019**](https://www.viber.com/app/uploads/Cookies-Tracking-Technologies-Policy-Nov-2019-1.pdf)
-
-Previous Cookies policy 2018 [**Viber Cookies Policy 2018**](https://www.viber.com/app/uploads/Cookies-and-Tracking-Policy-2018.pdf)
-
-Previous Cookies policy 2016 [**Viber Cookies Policy 2016**](https://www.viber.com/app/uploads/vibercoockies2016-1.pdf)
