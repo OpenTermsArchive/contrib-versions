@@ -1,5 +1,5 @@
-Community Guidelines  
-======================
+Community Guidelines   Neighbours
+=================================
 
 We’re glad you’re here. 
 ------------------------
