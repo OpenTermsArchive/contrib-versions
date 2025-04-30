@@ -565,15 +565,3 @@ In the event you read this policy in any language other than English, you agree 
 Current Privacy Policy PDF Version [Viber Privacy Policy March 2025](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-March-2025.pdf)
 
 Previous Privacy Policy PDF Version [Viber Privacy Policy August 2023](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-August-2023-3.pdf)
-
-Previous Privacy Policy PDF Version [Viber Privacy Policy March 2022](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-June-2023.pdf)
-
-Previous Privacy Policy PDF Version [Viber Privacy Policy November 2019](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-November-2019.pdf)
-
-Previous Policy PDF Version [Viber Privacy Policy May 2018](https://www.viber.com/app/uploads/Viber-Privacy-Policy-May-2018.pdf)
-
-Previous Policy PDF Version [Viber Privacy Policy March 2017](https://www.viber.com/app/uploads/privacy_policy_march_2017-1.pdf)
-
-Previous Policy PDF Version [Viber Privacy Policy September 2016](https://www.viber.com/app/uploads/Privacy-Policy-September-2016.pdf)
-
-Previous Policy PDF Version  [Viber Privacy Policy June 2014](https://www.viber.com/app/uploads/Privacy-Policy-June-2014-1.pdf)
