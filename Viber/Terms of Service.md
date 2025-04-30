@@ -328,13 +328,3 @@ In case you experience any issue with the Viber Out service, please contact our 
 Current Terms of Use PDF [**Viber Terms of Service March 2025**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-March-2025.pdf)
 
 Previous Terms of Use PDF [**Viber Terms of Service April 2023**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-April-2023-1.pdf)
-
-Previous Terms of Use PDF [**Viber Terms of Service March 2022**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-March-2022-1.pdf)
-
-Previous Terms of Use PDF [**Viber Terms of Use May 2018**](https://www.viber.com/app/uploads/Viber-Terms-of-Use-EN-May-2018.pdf)
-
-Previous Terms of Use PDF **[Viber Terms of Use update February 2017](https://www.viber.com/app/uploads/Viber-Terms-of-Use-update-Feb-2017.pdf)**
-
-Previous Terms of Use PDF **[Viber Terms of Use September 2016](https://www.viber.com/app/uploads/VibertermsofUseAugust2016.pdf)**
-
-Previous Terms of Use PDF Version **[Viber Terms of Use June 2014](https://www.viber.com/app/uploads/ViberEULA82316.pdf)**
