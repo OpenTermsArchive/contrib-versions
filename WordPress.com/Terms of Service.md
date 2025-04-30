@@ -14,7 +14,7 @@
 14. [12\. Changes](https://wordpress.com/tos/#changes)
 15. [13\. Termination](https://wordpress.com/tos/#termination)
 16. [14\. Disclaimers](https://wordpress.com/tos/#dislaimers)
-17. [15\. Jurisdiction and Applicable Law.](https://wordpress.com/tos/#jurisdiction-applicable-law)
+17. [15\. Jurisdiction and Applicable Law](https://wordpress.com/tos/#jurisdiction-applicable-law)
 18. [16\. Limitation of Liability](https://wordpress.com/tos/#limitation-of-liability)
 19. [17\. Indemnification](https://wordpress.com/tos/#indemnification)
 20. [18\. US Economic Sanctions](https://wordpress.com/tos/#us-economic-sanctions)
@@ -402,8 +402,8 @@ You can stop using our Services at any time, or, if you use a Paid Service, you 
 
 Our Services are provided “as is.” Automattic and its suppliers and licensors hereby disclaim all warranties of any kind, express or implied, to the maximum extent allowed by applicable law, including, without limitation, the warranties of merchantability, fitness for a particular purpose and non-infringement. Neither Automattic, nor its suppliers and licensors, makes any warranty that our Services will be error free or that access thereto will be continuous or uninterrupted. If you’re reading this, [here’s a treat](https://wordpress.com/tos/treat/). You understand that you download from, or otherwise obtain content or services through, our Services at your own discretion and risk.
 
-15\. Jurisdiction and Applicable Law.
--------------------------------------
+15\. Jurisdiction and Applicable Law
+------------------------------------
 
 Except to the extent any applicable law provides otherwise, the Agreement and any access to or use of our Services will be governed by the laws of the state of California, U.S.A., excluding its conflict of law provisions and the application of the United Nations Convention of Contracts for the International Sale of Goods, and the proper venue for any disputes arising out of or relating to the Agreement and any access to or use of our Services will be the state and federal courts located in San Francisco County, California, U.S.A. Nothing in this Agreement affects your rights as a consumer to rely on mandatory provisions in your country of residence.
 
