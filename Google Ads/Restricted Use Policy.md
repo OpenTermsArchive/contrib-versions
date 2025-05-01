@@ -192,7 +192,7 @@ For that reason, we allow the promotion of the content below, but on a limited b
 > 
 > ### [Other restricted businesses](https://support.google.com/adspolicy/answer/6368711)
 > 
-> > We restrict certain kinds of businesses from advertising with us to prevent users from being exploited, even if individual businesses appear to comply with our other policies. Based on our own continuous reviews, and feedback from users, regulators, and consumer protection authorities, we occasionally identify products or services that are prone to abuse. If we feel that certain kinds of businesses pose an unreasonable risk to user safety or user experience, then we may limit or stop related ads from running.
+> > We restrict certain businesses from advertising to prevent user exploitation, even if they comply with other policies. Continuous reviews and feedback from users, regulators, and consumer protection authorities help us identify products or services that are prone to abuse. We may limit or stop ads from businesses that pose an unreasonable risk to user safety or experience.
 > 
 > ### [Restricted ad formats and features](https://support.google.com/adspolicy/answer/9481382)
 > 
