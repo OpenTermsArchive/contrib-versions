@@ -256,27 +256,34 @@ We do not allow content that:
 Video inventory restrictions
 ----------------------------
 
+#### Definitions
+
+* "**In-stream**" means a video or audio ad played within the stream of video or audio content, where the video or audio content is the focus of the user's visit or explicitly requested by the user.
+    
+    Example: A video ad that is played before, in the middle of, or after the stream of a user-requested video content.
+    
+* "**Accompanying Content**" means a video ad played within the stream of video content accompanying the main content of the user’s visit, where the video content is neither the focus of the user’s visit nor explicitly requested by the user. Accompanying Content placements must load within the body of the page, and muted by default.
+    
+    Example: A video ad that is played before, in the middle of, or after the stream of muted video content that takes up a small portion of a primarily editorial page.
+    
+* "**Interstitial**" means a video ad played without the presence of any other streaming video content in a transition between content, where the video ad is the primary focus of the page and takes up the majority of the viewport.
+    
+    Example: A video ad that is independent of any other streaming video content, and that is placed in full view in a natural break or transition between content.
+    
+* "**Standalone**" means a video ad played without the presence of any other streaming video content, where the video ad is not the focus of the page.
+    
+    Example: A video ad that is independent of any other streaming video content, and that is placed in a banner at the right rail of an article page.
+    
+* "**Connected TV**", "**Digital out-of-home**", "**In-stream placement in CTV**" and "**Non-in-stream placement in CTV**" have the meanings as defined in the [Requirements for Connected TV and Digital out-of-home inventory](https://support.google.com/adsense/answer/16127271#definitions).
+    
+
 #### Accurately describe inventory
 
 1. Video inventory must provide declarations with accurate signals (for Ad Manager, see [VAST ad tag URL parameters](https://support.google.com/admanager/answer/10678356)), including:
     * Audibility of ad placement: Audible by default or muted (for Ad Manager, see [`vpmute` parameter](https://support.google.com/admanager/answer/10678356#vpmute)).
-    * Type of ad placement: Video ads serving into video players with video content must be accurately declared as either "In-stream" or "Accompanying Content" placements (for Ad Manager, see [`plcmt` parameter](https://support.google.com/admanager/answer/10678356#plcmt)). Video ads serving into non-video player placements do not require declarations, and will be automatically determined by Google based on [inventory format](https://support.google.com/admanager/answer/9796545) as either "Interstitial" or "Standalone" placements.
-        * "**In-stream**" means a video or audio ad played within the stream of video or audio content, where the video or audio content is the focus of the user's visit or explicitly requested by the user.
-            
-            Example: A video ad that is played before, in the middle of, or after the stream of a user-requested video content.
-            
-        * "**Accompanying Content**" means a video ad played within the stream of video content accompanying the main content of the user’s visit, where the video content is neither the focus of the user’s visit nor explicitly requested by the user. Accompanying Content placements must load within the body of the page, and muted by default.
-            
-            Example: A video ad that is played before, in the middle of, or after the stream of muted video content that takes up a small portion of a primarily editorial page.
-            
-        * "**Interstitial**" means a video ad played without the presence of any other streaming video content in a transition between content, where the video ad is the primary focus of the page and takes up the majority of the viewport.
-            
-            Example: A video ad that is independent of any other streaming video content, and that is placed in full view in a natural break or transition between content.
-            
-        * "**Standalone**" means a video ad played without the presence of any other streaming video content, where the video ad is not the focus of the page.
-            
-            Example: A video ad that is independent of any other streaming video content, and that is placed in a banner at the right rail of an article page.
-            
+    * Type of ad placement:
+        * For Connected TV or Digital out-of-home inventory: Placements must be accurately declared per the [Requirements for Connected TV and Digital out-of-home inventory](https://support.google.com/adsense/answer/16127271#definitions).
+        * For inventory other than Connected TV and Digital out-of-home: Video ads serving into video players with video content must be accurately declared as either "In-stream" or "Accompanying Content" placements (for Ad Manager, see [`plcmt` parameter](https://support.google.com/admanager/answer/10678356#plcmt)). Video ads serving into non-video player placements do not require declarations, and will be automatically determined by Google based on [inventory format](https://support.google.com/admanager/answer/9796545) as either "Interstitial" or "Standalone" placements.
 
 **Note**: For Ad Manager, the terms "instream" or "in-stream" in Help Center pages and in-product controls refer to both "In-stream" and "Accompanying Content" as defined in these policies. Ad Manager Video Inventory that is "In-stream" or "Accompanying Content" per these policies must adhere to the respective requirements in these policies.
 
@@ -285,7 +292,7 @@ Video inventory restrictions
 2. In-stream or Accompanying Content placements must use the [Google Interactive Media Ads SDK](https://developers.google.com/interactive-media-ads) or [Google Programmatic Access Library](https://developers.google.com/ad-manager/pal) on supported platforms, unless through an official Google Beta program.
     * Partners and publishers cannot use Interactive Media Ads products to monetize YouTube content. For YouTube content, partners and publishers must monetize through the [YouTube Partner Program](https://support.google.com/youtube/answer/72851).
 3. Interstitial or Standalone placements must use Google-provided solutions: on web: [Google Publisher Tags](https://developers.google.com/publisher-tag/guides/get-started); in app: the Google Mobile Ads SDK ([for Ad Manager](https://developers.google.com/ad-manager/mobile-ads-sdk); [for AdMob](https://developers.google.com/admob)).
-    * The Google Interactive Media Ads SDK is not allowed for Interstitial or Standalone placements, except for placements in games.
+    * The Google Interactive Media Ads SDK and Google Programmatic Access Library are not allowed for Interstitial or Standalone placements, unless through an official Google Beta program or [for placements in CTV inventory](https://support.google.com/adsense/answer/16127271).
 
 #### Protect advertiser value
 
@@ -299,9 +306,13 @@ Video inventory restrictions
     * Only one video inventory across all placement types may autoplay with sound at any time.
         * Additionally for In-stream or Accompanying Content placements, only one video player may autoplay in view at any time.
     * The ad must not autoplay until at least 50% of the ad unit is visible.
-7. Video inventory may be sticky, provided that:
+7. Except Connected TV and Digital out-of-home inventory where sticky placements are not supported, other types of video inventory may be sticky, provided that:
     * A dismiss option is presented for the entire duration of the video or ad content. This option must not be hidden, obstructed, or non-functional.
     * For In-stream or Accompanying Content placements that transition to a sticky placement, the video player must start in the main content and only transition as a user scrolls the video player off the page.
+
+#### Additional requirements for Connected TV and Digital out-of-home
+
+8. In addition to the above, Connected TV and Digital out-of-home inventory must comply with the [Requirements for Connected TV and Digital out-of-home inventory](https://support.google.com/adsense/answer/16127271#definitions).
 
   ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about video inventory restrictions](https://support.google.com/publisherpolicies/answer/15208072)_ 
 
