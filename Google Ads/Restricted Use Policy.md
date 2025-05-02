@@ -94,7 +94,7 @@ Prohibited practices
 > 
 > ### [Misrepresentation](https://support.google.com/adspolicy/answer/6020955)
 > 
-> > We want ads across the Google Network to be useful, varied, relevant, and safe for users. We don’t allow advertisers to run ads, content, or destinations that attempt to trick or circumvent our ad review processes.
+> > We want users to trust the ads on our platform, so we strive to ensure ads are clear and honest, and provide the information that users need to make informed decisions. We don’t allow ads or destinations that deceive users by excluding relevant product information or providing misleading information about products, services, or businesses.
 > > 
 > > Below are some examples of what to avoid in your ads. Learn more about [What happens if you violate our policies](https://support.google.com/adspolicy/answer/7187501).
 > > 
