@@ -33,8 +33,6 @@ Table of Contents
 
 [Contact us](https://policy.pinterest.com/en/privacy-policy#section-contact-us)
 
-This updated Privacy Policy will be effective April 30, 2025. Until the effective date, you can view our current Privacy Policy [here](https://policy.pinterest.com/privacy-policy).
-
 State Privacy Law Disclosure & Notice at Collection
 ===================================================
 
