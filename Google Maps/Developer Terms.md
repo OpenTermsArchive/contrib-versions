@@ -2919,6 +2919,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * The National Access Point (NAP) of Cyprus: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        * Open Data CY: [https://data.gov.cy/el/kateythyntiries-grammes](https://creativecommons.org/licenses/by/4.0/)
+            
     111. **Cuba**
         * The Humanitarian Data Exchange (CU): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
             
