@@ -33,8 +33,6 @@ Table of Contents
 
 [13\. General terms](https://policy.pinterest.com/en/terms-of-service#section-13-general-terms)
 
-These updated Terms of Service will be effective April 30, 2025. Until the effective date, you can view our current Terms of Service [here](https://policy.pinterest.com/terms-of-service).
-
 Thank you for using Pinterest!
 ==============================
 
