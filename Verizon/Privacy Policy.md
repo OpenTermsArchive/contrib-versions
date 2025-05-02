@@ -646,7 +646,7 @@ Open all
     
     * Identifiers, including, name, billing and email address, mobile device identifiers, IP address, account credentials, business customer representative contact information, Social Security or driver’s license number and other similar identifiers.
     * Legally protected classifications, including race, ancestry, gender, and disability.
-    * Commercial information, including products and services you purchase and consider and how you use them
+    * Commercial information, including products and services you purchase and consider and how you use them.
     * Internet information, including browsing history, search and other activity on our sites, and information about your interaction with our sites, apps, and advertisements.
     * Geolocation data from our network and, when you permit it, our apps.
     * Audio, electronic, visual, or similar information, including voice recordings of customer service calls and photographs of customer equipment or that you use within our apps.
