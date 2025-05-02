@@ -173,13 +173,13 @@ We display targeted advertising to you through social media platforms, such as F
 
 ● **Access to, Modification of, or Deletion of Your Information**: You have the right to request access to your personal information, amendment/correction of inaccurate/incomplete personal information, or deletion of your personal information. In order to better protect the security of your personal information, we will seek to confirm your identity as part of our processing of any request. Under certain circumstances, we may not fulfill your request, such as where we, in our discretion, deem that your identity has not been reasonably verified or that such information is subject to legal/regulatory, internal audit, record-keeping, or other requirements or legal exceptions such that the request should not reasonably be granted (or should be granted in part). In any event, we will respond to your request within a reasonable timeframe. In order to make such a request of us, please contact us by using one of the following methods:  
   
-⠀⠀⠀⠀⠀o   for United States residents and for individuals located in the European Economic Area, Switzerland, or the United Kingdom, please use this [form](https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/0c410d51-8e85-4308-9bb9-37c24a461ccb.html%E2%80%9D%20with%20%E2%80%9Chttps://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/ac1b3f16-60f7-4795-aca2-2240267ed067.html).  
+⠀⠀⠀⠀⠀o   for United States residents and for individuals located in the European Economic Area, Switzerland, or the United Kingdom, please use this [form](https://privacyportalde-cdn.onetrust.com/dsarwebform/2159c482-749a-49db-916b-475017a9efa5/ac1b3f16-60f7-4795-aca2-2240267ed067.html).  
 ⠀⠀⠀⠀⠀o  Email [privacy@dotdashmdp.com](mailto:privacy@dotdashmdp.com) for assistance on exercising rights requests (email assistance available only where required under applicable privacy laws).  
   
 
 ● **Marketing E-mail Preferences**: You can manage your opt-out preferences for each of our brand’s marketing e-mails by:  
 ⠀⠀⠀⠀⠀o   using the unsubscribe link at the bottom of such messages, or  
-⠀⠀⠀⠀⠀o   by visiting “[E-mail Preferences](https://secure.bhg.com/common/profile/member/optout/)” (to the extent offered by a brand) on our Services and updating your preferences.  
+⠀⠀⠀⠀⠀o   by visiting “E-mail Preferences” (to the extent offered by a brand) on our Services and updating your preferences.  
 ⠀⠀⠀⠀⠀o Further, you may opt-out of marketing e-mails globally (i.e., across our brands) by clicking on the following link and filling out this [form](https://websupport.meredith.com/hc/en-us/requests/new) accordingly.  
   
 If you no longer want to receive third-party marketing e-mails that you requested through our Services, simply follow the third party’s unsubscribe link or opt-out instructions that should be included each such marketing e-mail from that third party.
