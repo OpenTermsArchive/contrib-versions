@@ -187,7 +187,6 @@ If you no longer want to receive third-party marketing e-mails that you requeste
 Please note that you cannot opt out of transactional or administrative e-mails (e.g., renewal notifications, orders placed).
 
 ● **Postal Mail**: To remove your name and postal address from lists that we sell or rent to third parties for their direct marketing purposes, or to opt out of receiving marketing offers for other magazines and products by mail:   
-o   please use the opt-out form available [here](https://www.meredith.com/offlinePrivacy.html); or  
 o   send your request to us in a letter addressed to **Dotdash Meredith, Opt-Out Postal,** **Attn: Circulation, 225 Liberty St, 4th Floor, New York, NY 10281**. Note that if you choose to opt out of our promotional mailings, you may still receive renewal notices and related offers for any magazines to which you subscribe.
 
 ● **Telemarketing Calls/Texts**: When you have provided your “prior express written consent” where required under the TCPA to receive telemarketing communications from us, we will not provide such consent to third parties so that they can provide telemarketing communications to you to the extent such telemarketing communications from such third party also requires “prior express written consent” and you have not provided such consent to such third party. Message and data rates may apply to telephonic communications you receive; message frequency varies. The phrase “prior express written consent” used in this paragraph is as defined under the Telephone Consumer Protection Act (TCPA).  
