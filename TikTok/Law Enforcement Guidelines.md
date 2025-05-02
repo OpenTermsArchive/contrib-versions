@@ -3,7 +3,7 @@ TikTok Law Enforcement Guidelines
 **TikTok Law Enforcement Guidelines**
 -------------------------------------
 
-_Last updated: April 16, 2025_
+_Last updated: April 25, 2025_
 
 These guidelines (“**Guidelines**”) are a reference for law enforcement officials seeking the data of users of the TikTok (the “**Platform**”) from any of the TikTok entities listed in Section 1 below (together “**TikTok**”). For additional information, see our [Law Enforcement FAQS](#faq).
 
@@ -48,9 +48,28 @@ Each request must clearly specify the type of data requested and the legal basis
 
 Each request must be signed, dated, sent on law enforcement letterhead and include the following information:
 
-* **Details of requesting law enforcement authority (or Court)**:**Requesting Authority (or Court)**: The name and location of the relevant authority. In the case of a Court order, the request should indicate the location and name of the relevant Court and judge / magistrate.**Requesting officer**: The requesting officer’s name, badge / identification number, email address (this must be from an official email domain) and phone number (including any direct dial extension).
-* **Details of relevant user account**:**TikTok username**: When requesting data regarding a specific user of the Platform, you must provide a specific TikTok username or an approved account identifier associated with the relevant account. We also request that a screenshot of the relevant account be provided (to help us to identify the correct account more quickly). The following are TikTok approved identifiers:TikTok User IDTikTok username (account URL or screenshot accepted)Phone numberEmail addressVideo ID (video URL or screenshot accepted)**Data requested**: The request should clearly specify the scope of the data requested. Overly broad requests will be refused.**Date range**: The request must specify a date (and, if possible, a time), or a date range as relevant to the request (for historic data only).
-* **Legal basis for the request**:**Relevant legal process**: The request should clearly specify the legal process (i.e. citing the relevant article or section of an Act / Statute / Code), which authorizes law enforcement to request and collect information for the purposes of prevention, detection or investigation of criminal offences.**Context and Offence(s) under investigation**: The request should separately indicate the type of offence(s) under investigation (citing the relevant article or section of Act / Statute / Code), the circumstances of the offence and in what way it is connected to the Platform.**User notification**: Please indicate whether user notification is permitted (see Section 4 below).
+* **Details of requesting law enforcement authority (or Court)**:
+
+* **Requesting Authority (or Court)**: The name and location of the relevant authority. In the case of a Court order, the request should indicate the location and name of the relevant Court and judge / magistrate.
+* **Requesting officer**: The requesting officer’s name, badge / identification number, email address (this must be from an official email domain) and phone number (including any direct dial extension).
+
+* **Details of relevant user account**:
+
+* **TikTok username**: When requesting data regarding a specific user of the Platform, you must provide a specific TikTok username or an approved account identifier associated with the relevant account. We also request that a screenshot of the relevant account be provided (to help us to identify the correct account more quickly). The following are TikTok approved identifiers:
+
+* TikTok User ID
+* TikTok username (account URL or screenshot accepted)
+* Phone number
+* Email addressVideo ID (video URL or screenshot accepted)
+
+* **Data requested**: The request should clearly specify the scope of the data requested. Overly broad requests will be refused.
+* **Date range**: The request must specify a date (and, if possible, a time), or a date range as relevant to the request (for historic data only).
+
+* **Legal basis for the request**:
+
+* **Relevant legal process**: The request should clearly specify the legal process (i.e. citing the relevant article or section of an Act / Statute / Code), which authorizes law enforcement to request and collect information for the purposes of prevention, detection or investigation of criminal offences.
+* **Context and Offence(s) under investigation**: The request should separately indicate the type of offence(s) under investigation (citing the relevant article or section of Act / Statute / Code), the circumstances of the offence and in what way it is connected to the Platform.
+* **User notification**: Please indicate whether user notification is permitted (see Section 4 below).
 
 ### **4\. User Notifications**
 
