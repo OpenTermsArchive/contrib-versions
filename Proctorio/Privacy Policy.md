@@ -31,7 +31,7 @@ You can customize the Policy to only see the portions that apply to you. Just ch
 Privacy Notice
 --------------
 
-Last modified March 29, 2025.
+Last modified May 1, 2025.
 
 * General
 * "Personal Information" means information that identifies, relates to, describes, is capable of being associated with or could reasonably be linked, directly or indirectly, with a particular consumer or household, such as your name, mailing and email addresses, phone number, and other information that permits us to contact you at a physical location, online, or by electronic communication, including telephone or email.
@@ -591,8 +591,6 @@ FERPA protects students from having their information disclosed to third parties
 
 Proctorio complies with FERPA by only using student Personal Information as a School Official as authorized by an educational Institution in Proctorio's written agreements.
 
-Proctorio [certified as FERPA compliant by the iKeep Safe Coalition](https://ikeepsafe.org/products/) which signifies Proctorio's compliance with relevant laws and regulations. Proctorio is also a [signatory of the Student Privacy Pledge](https://studentprivacypledge.org/signatories/), where Proctorio pledges responsible stewardship and appropriate use of student Personal Information according to the commitments in the Pledge and in an effort to adhere to all laws applicable to Proctorio as a school service provider.
-
 Audio, video, and screen recordings and images collected during the exam attempt, stored by Proctorio, and received from an Institution are encrypted using Zero-Knowledge Encryption. These recordings and images can only be decrypted and reviewed by Institution-approved representatives within the Institution's assessment platform. Proctorio dictates who these authorized users are by utilizing the educational Institution's assessment platform to gain information about the user's role. This restricts information from being shared with users who do not fall under the "School Official" role. The entire process is transparent to the end user. Proctorio securely delivers all content for the Services encrypted and Proctorio's servers make every effort to comply with industry security standards, including SOC 2, ISO 27001, ISO 27018 and PCI-DSS.
 
 For Proctorio's technical support channels, Proctorio's Support Representatives are trained on privacy and security and are instructed not to ask for information beyond what FERPA defines as "Directory Information". This information may include:
@@ -618,7 +616,7 @@ Proctorio does not use any client-side tracking pixels such as those used for ad
 Your Rights
 -----------
 
-* \* Some countries and/or states have their own privacy and data security laws, Proctorio makes every effort to comply with each and every one of them.
+* * Some countries and/or states have their own privacy and data security laws, Proctorio makes every effort to comply with each and every one of them.
 
 As a data processor
 -------------------
@@ -690,9 +688,9 @@ via email: [\[email protected\]](https://proctorio.com/cdn-cgi/l/email-protecti
 
 Only you, or someone legally authorized to act on your behalf (if in California, the person legally authorized to act on your behalf must be registered with the California Secretary of State), may make a verifiable consumer request related to your Personal Information. You may also make a verifiable consumer request on behalf of your minor child. You may only make a verifiable consumer request for access or data portability twice within a 12-month period. The verifiable consumer request must provide sufficient information that allows Proctorio to reasonably verify you are the person about whom Proctorio collected Personal Information or an authorized representative, which may include the users:
 
-1. \* First name
-2. \* Last name
-3. \* Email address
+1. * First name
+2. * Last name
+3. * Email address
 
 Describe your request with sufficient detail that allows Proctorio to properly understand, evaluate, and respond to your request.
 
@@ -866,7 +864,7 @@ Retention, location, data deletion, and destruction
 
 Proctorio retains data only as directed by an Institution related to the Services that Proctorio provides to them. Proctorio will store and maintain Institutional data for up to 30 days after the termination of an applicable agreement, unless otherwise specified by the Institution or as required by applicable law.
 
-Proctorio cannot and does not retain exam attempt recordings or chat transcripts for longer than required by the Institution or applicable law.  
+\*\*Proctorio cannot and does not retain exam attempt recordings or chat transcripts for longer than required by the Institution or applicable law.  
   
 When Proctorio is a processor for an Institution, Proctorio will direct the test taker to contact their respective Institution with any requests related to their Personal Information.
 
