@@ -69,7 +69,7 @@ In an effort to be as transparent as possible regarding the removal or restricti
 
   ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 530 86%22%3E%3C/svg%3E)
 
-  ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 161%22%3E%3C/svg%3E)
+  ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 356 359%22%3E%3C/svg%3E)
 
 My content was removed from X
 =============================
@@ -139,4 +139,4 @@ Additionally, re-posting material that was already removed in response to a copy
 
   ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 530 86%22%3E%3C/svg%3E)
 
-  ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 350 161%22%3E%3C/svg%3E)
+  ![](data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 356 359%22%3E%3C/svg%3E)
