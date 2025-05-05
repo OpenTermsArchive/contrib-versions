@@ -4,7 +4,7 @@ Terms of Service
 
 **(If you are a user having your residence in the European Economic Area, Switzerland and the UK)**
 
-_Last updated: November 2024_
+_Last updated: May 2025_
 
   
 
@@ -50,6 +50,8 @@ Additional terms and policies may apply to certain products or features of the P
 * TikTok Shop Buyer Terms: These terms apply when you buy items on TikTok Shop (where available).
 * [Branded Content Policy](https://www.tiktok.com/legal/bc-policy): This policy applies when you post content on the Platform that promotes a third party brand or its products or services in exchange for payment or any other incentive.
 * [Business Terms](https://www.tiktok.com/legal/business-terms-eea): These terms apply if you use the Platform for purposes within your trade, business, craft or profession, including managing your own business through your account on the Platform or administering an account on behalf of a business.
+
+If you live in the EEA and use our direct messaging service, please read this important [pre-contract information](https://www.tiktok.com/legal/direct-messaging-contract-information) and [contract summary](https://www.tiktok.com/legal/direct-messaging-contract-summary). We recommend keeping a copy of these documents for your records.
 
 _In short: These Terms cover your use of the Platform. There may be some additional terms and policies that will apply if you want to access additional functionality, post or live stream certain kinds of content, or use the Platform for business or commercial purposes._
 
