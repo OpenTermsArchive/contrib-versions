@@ -385,9 +385,9 @@ The open source software platform that runs everywhere from the smartphone, the 
 [Ubuntu Desktop](https://ubuntu.com/desktop) [Ubuntu Desktop](https://ubuntu.com/desktop)
 -----------------------------------------------------------------------------------------
 
-* [Organisations](https://ubuntu.com/desktop/organisations)
+* [Organizations](https://ubuntu.com/desktop/organizations)
 * [Developers](https://ubuntu.com/desktop/developers)
-* [Flavours](https://ubuntu.com/desktop/flavours)
+* [Flavors](https://ubuntu.com/desktop/flavors)
 * [WSL](https://ubuntu.com/desktop/wsl)
 
 * * *
@@ -475,8 +475,7 @@ The open source software platform that runs everywhere from the smartphone, the 
 
 * * *
 
-Solutions
----------
+[Solutions](https://canonical.com/solutions)
 
 * [AI](https://canonical.com/solutions/ai)
 * [Data](https://canonical.com/data)
