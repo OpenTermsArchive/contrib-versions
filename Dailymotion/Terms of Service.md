@@ -569,12 +569,14 @@ To report **video** Content, you need to:
 5. Fill in your first name and surname(s) (as they appear on an official identity document issued by an administration) as well as your e-mail address. This information will allow Dailymotion to inform the Visitor who has reported the Content of the follow-up given to the report.
 
   
-It should be noted that it is NOT necessary to have a Dailymotion account to report Prohibited Video Content.
+It should be noted that it is NOT necessary to have a Dailymotion account to report Prohibited video Content.
 
 In the event of a report of copyright infringement or infringement of other rights, the Visitor will be redirected to a dedicated form. He must necessarily include the URL address of the reported video. Otherwise, Dailymotion will not be able to process the report.  
 The reporting forms specific to copyright infringement or other rights infringement are also available via this link.  
 Any report sent to Dailymotion through the reporting tool will be treated in accordance with the formalities required under French law.  
 Any other report based on other legislation must be submitted to Dailymotion by e-mail or by post in accordance with the provisions below.
+
+Please note that you cannot submit a takedown request for copyright infringement concerning **an entire channel**. Dailymotion will not provide a specific response to a notifier regarding any potential copyright takedown request for a channel. However, please refer to Dailymotion’s repeat infringer policy set out in Section III below to learn more about the measures and sanctions applicable to channels that violate this policy per Dailymotion’s assessment.
 
 ##### 2\. **Tool for reporting Content comments**
 
@@ -722,6 +724,8 @@ We remind you that you may always appeal every moderation decision taken by Dail
 If an item of content you posted is restored due to an appeal, Dailymotion will take that restoration into consideration and the corresponding violation will no longer count towards the Counter of your Dailymotion Account. 
 
 We are currently working on features that will enable us to increase the level of transparency around the measures taken for the safety of our platform, such as features allowing each User to follow the history of violations of our policies or of the Counter associated to a Dailymotion Account.
+
+We also inform notifiers that it is not possible to submit takedown requests for **a channel** itself. The assessment of the seriousness or repeated nature of infringements on a given channel is solely at the discretion of Dailymotion, which conducts periodic reviews and imposes appropriate sanctions in the event of a violation of our repeated infringer policy. Therefore, no channel takedown request will receive a specific response addressed to the notifier in this regard. However, if you believe that one or more pieces of Content on a channel violate your copyright, you may submit a takedown request for the specific content in question, provided you comply with the notification requirements set out in our [Prohibited Content Policy](https://legal.dailymotion.com/en/terms-of-use/#b-the-reporting-tool-for-prohibited-content).
 
 #### **D. Restricting features** 
 
