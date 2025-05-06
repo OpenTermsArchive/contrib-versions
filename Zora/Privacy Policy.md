@@ -3,7 +3,7 @@ ZORA Privacy Policy
 
 > Last updated January 31, 2024
 
-Thank you for visiting Zora! Zora Labs, Inc. ("Zora", “Company”, “we”, “us”, or “our”) is committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at [\[email protected\]](https://support.zora.co/en/articles/1369025#f_891969_e_97_b_8978_d_8_a_82978_a_99_d_69_b_9795)
+Thank you for visiting Zora! Zora Labs, Inc. ("Zora", “Company”, “we”, “us”, or “our”) is committed to protecting your personal information and your right to privacy. If you have any questions or concerns about our policy, or our practices with regards to your personal information, please contact us at [support@zora.co](mailto:support@zora.co)
 
 When you visit ourzora.com (“Site”) or and use our platform, applications, or developer tools (collectively the “Services”), you trust us with your personal information. We take your privacy very seriously. In this Privacy Policy, we seek to explain to you in the clearest way possible what information we collect, how we use it and what rights you have in relation to it. We hope you take some time to read through it carefully, as it is important. If there are any terms in this privacy policy that you do not agree with, please discontinue your use of our services.
 
