@@ -292,7 +292,7 @@ Video inventory restrictions
 2. In-stream or Accompanying Content placements must use the [Google Interactive Media Ads SDK](https://developers.google.com/interactive-media-ads) or [Google Programmatic Access Library](https://developers.google.com/ad-manager/pal) on supported platforms, unless through an official Google Beta program.
     * Partners and publishers cannot use Interactive Media Ads products to monetize YouTube content. For YouTube content, partners and publishers must monetize through the [YouTube Partner Program](https://support.google.com/youtube/answer/72851).
 3. Interstitial or Standalone placements must use Google-provided solutions: on web: [Google Publisher Tags](https://developers.google.com/publisher-tag/guides/get-started); in app: the Google Mobile Ads SDK ([for Ad Manager](https://developers.google.com/ad-manager/mobile-ads-sdk); [for AdMob](https://developers.google.com/admob)).
-    * The Google Interactive Media Ads SDK and Google Programmatic Access Library are not allowed for Interstitial or Standalone placements, unless through an official Google Beta program or [for placements in CTV inventory](https://support.google.com/admanager/16127271).
+    * The Google Interactive Media Ads SDK and Google Programmatic Access Library are not allowed for Interstitial or Standalone placements, unless through an official Google Beta program or [for placements in CTV inventory](https://support.google.com/admanager/answer/16127271).
 
 #### Protect advertiser value
 
