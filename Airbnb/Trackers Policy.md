@@ -1,93 +1,29 @@
-Legal terms
-
-Airbnb Cookie Policy
+Log in or sign up
 
 
+=====================
 
+Welcome to Airbnb
+-----------------
 
-==========================
+Country/Region
 
-Airbnb uses cookies, mobile identifiers, tracking URLs, log data and similar technologies to help provide, protect, and improve the Airbnb Platform. This Cookie Policy (“**Policy**”) supplements the Airbnb [Privacy Policy](https://www.airbnb.co.uk/terms/privacy_policy) and explains how and why we use these technologies and the choices you have.
+Afghanistan (+93)Åland Islands (+358)Albania (+355)Algeria (+213)American Samoa (+1)Andorra (+376)Angola (+244)Anguilla (+1)Antigua & Barbuda (+1)Argentina (+54)Armenia (+374)Aruba (+297)Australia (+61)Austria (+43)Azerbaijan (+994)Bahamas (+1)Bahrain (+973)Bangladesh (+880)Barbados (+1)Belarus (+375)Belgium (+32)Belize (+501)Benin (+229)Bermuda (+1)Bhutan (+975)Bolivia (+591)Bonaire, Sint Eustatius and Saba (+599)Bosnia & Herzegovina (+387)Botswana (+267)Brazil (+55)British Indian Ocean Territory (+246)British Virgin Islands (+1)Brunei (+673)Bulgaria (+359)Burkina Faso (+226)Burundi (+257)Cambodia (+855)Cameroon (+237)Canada (+1)Cape Verde (+238)Cayman Islands (+1)Central African Republic (+236)Chad (+235)Chile (+56)China (+86)Christmas Island (+61)Cocos (Keeling) Islands (+61)Colombia (+57)Comoros (+269)Congo (+242)Cook Islands (+682)Costa Rica (+506)Côte d’Ivoire (+225)Croatia (+385)Cuba (+53)Curaçao (+599)Cyprus (+357)Czechia (+420)Democratic Republic of the Congo (+243)Denmark (+45)Djibouti (+253)Dominica (+1)Dominican Republic (+1)Ecuador (+593)Egypt (+20)El Salvador (+503)Equatorial Guinea (+240)Eritrea (+291)Estonia (+372)Eswatini (+268)Ethiopia (+251)Falkland Islands (Islas Malvinas) (+500)Faroe Islands (+298)Fiji (+679)Finland (+358)France (+33)French Guiana (+594)French Polynesia (+689)Gabon (+241)Gambia (+220)Georgia (+995)Germany (+49)Ghana (+233)Gibraltar (+350)Greece (+30)Greenland (+299)Grenada (+1)Guadeloupe (+590)Guam (+1)Guatemala (+502)Guernsey (+44)Guinea (+224)Guinea-Bissau (+245)Guyana (+592)Haiti (+509)Honduras (+504)Hong Kong (+852)Hungary (+36)Iceland (+354)India (+91)Indonesia (+62)Iraq (+964)Ireland (+353)Isle of Man (+44)Israel (+972)Italy (+39)Jamaica (+1)Japan (+81)Jersey (+44)Jordan (+962)Kazakhstan (+7)Kenya (+254)Kiribati (+686)Kosovo (+383)Kuwait (+965)Kyrgyzstan (+996)Laos (+856)Latvia (+371)Lebanon (+961)Lesotho (+266)Liberia (+231)Libya (+218)Liechtenstein (+423)Lithuania (+370)Luxembourg (+352)Macau (+853)Madagascar (+261)Malawi (+265)Malaysia (+60)Maldives (+960)Mali (+223)Malta (+356)Marshall Islands (+692)Martinique (+596)Mauritania (+222)Mauritius (+230)Mayotte (+262)Mexico (+52)Micronesia (+691)Moldova (+373)Monaco (+377)Mongolia (+976)Montenegro (+382)Montserrat (+1)Morocco (+212)Mozambique (+258)Myanmar (+95)Namibia (+264)Nauru (+674)Nepal (+977)Netherlands (+31)New Caledonia (+687)New Zealand (+64)Nicaragua (+505)Niger (+227)Nigeria (+234)Niue (+683)Norfolk Island (+672)North Macedonia (+389)Northern Mariana Islands (+1)Norway (+47)Oman (+968)Pakistan (+92)Palau (+680)Palestinian Territories (+970)Panama (+507)Papua New Guinea (+675)Paraguay (+595)Peru (+51)Philippines (+63)Pitcairn Islands (+64)Poland (+48)Portugal (+351)Puerto Rico (+1)Qatar (+974)Réunion (+262)Romania (+40)Russia (+7)Rwanda (+250)Samoa (+685)San Marino (+378)São Tomé & Príncipe (+239)Saudi Arabia (+966)Senegal (+221)Serbia (+381)Seychelles (+248)Sierra Leone (+232)Singapore (+65)Sint Maarten (+1)Slovakia (+421)Slovenia (+386)Solomon Islands (+677)Somalia (+252)South Africa (+27)South Georgia & South Sandwich Islands (+500)South Korea (+82)South Sudan (+211)Spain (+34)Sri Lanka (+94)St Barthélemy (+590)St Helena (+290)St Kitts & Nevis (+1)St Lucia (+1)St Martin (+590)St Pierre & Miquelon (+508)St Vincent & Grenadines (+1)Sudan (+249)Suriname (+597)Svalbard & Jan Mayen (+47)Sweden (+46)Switzerland (+41)Taiwan (+886)Tajikistan (+992)Tanzania (+255)Thailand (+66)Timor-Leste (+670)Togo (+228)Tokelau (+690)Tonga (+676)Trinidad & Tobago (+1)Tunisia (+216)Turkey (+90)Turkmenistan (+993)Turks & Caicos Islands (+1)Tuvalu (+688)Uganda (+256)Ukraine (+380)United Arab Emirates (+971)United Kingdom (+44)United States (+1)Uruguay (+598)US Virgin Islands (+1)Uzbekistan (+998)Vanuatu (+678)Vatican City (+379)Venezuela (+58)Vietnam (+84)Wallis & Futuna (+681)Western Sahara (+212)Yemen (+967)Zambia (+260)Zimbabwe (+263)
 
-**Why Airbnb Uses These Technologies**
+Phone number
 
-We use these technologies for a number of purposes, such as:
++44
 
-* to enable you to use and access the Airbnb Platform and the Payment Services
-* to enable, facilitate and streamline the functioning of and your access to the Airbnb Platform
-* to better understand how you navigate through and interact with the Airbnb Platform and to improve the Airbnb Platform
-* to serve you tailored advertising (such as on the Airbnb Platform, emails and on third-party websites)
-* to show you content (e.g., advertisements) that is more relevant to you
-* to monitor and analyze the performance, operation, and effectiveness of the Airbnb Platform and Airbnb advertisements
-* to enforce legal agreements that govern use of the Airbnb Platform
-* for fraud detection and prevention, trust and safety, and investigations
-* for purposes of our own customer support, analytics, research, product development, and regulatory compliance.
+We’ll call or text you to confirm your number. Standard message and data rates apply. [Privacy Policy](https://www.airbnb.co.uk/terms/privacy_policy?source=signup)
 
-**Cookies**
+Continue
 
-When you visit the Airbnb Platform we may place cookies on your device. Cookies are small text files that websites send to your computer or other Internet-connected device to uniquely identify your browser or to store information or settings in your browser. Cookies allow us to recognize you when you return. They also help us provide a customized experience and can enable us to detect certain kinds of fraud. In many cases the information we collect using cookies and other tools is only used in a non-identifiable manner without reference to personal information. For example, we may use information we collect to better understand website traffic patterns and to optimize our website experience. In some cases we associate the information we collect using cookies and other technology with your personal information. Our business partners may also use these tracking technologies on the Airbnb Platform or engage others to track your behavior on our behalf.
+or
 
-There are two types of cookies used on the Airbnb Platform: (1) “session cookies” and (2) “persistent cookies.” Session cookies normally expire when you close your browser, while persistent cookies remain on your device after you close your browser, and can be used again the next time you access the Airbnb Platform.
+Continue with Google
 
-In many cases you can manage cookie preferences and opt-out of having cookies and other data collection technologies used by adjusting the settings on your browser. All browsers are different so visit the “help” section of your browser when to learn about cookie preferences and other privacy settings that may be available. Please note that if you choose to remove or reject cookies or clear local storage this could affect the features, availability, and functionality of the Airbnb Platform.
+Continue with Apple
 
-**Flash Cookies**
+Continue with email
 
-We may use Flash Cookies, also known as Local Stored Objects, and similar technologies to personalize and enhance your online experience. A Flash cookie is a small data file placed on a computer using Adobe Flash technology. The Adobe Flash Player is an application that allows rapid development of dynamic content, such as video clips and animation.
-
-We use Flash cookies to personalize and enhance your online experience and to deliver content for Flash players. We may also use Flash cookies for security purposes, to gather certain website metrics and to help remember settings and preferences. Flash cookies are managed through a different interface than the one provided by your web browser. To manage Flash cookies, please visit [Adobe’s website](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html).
-
-If you disable Flash cookies or other similar technologies, please note that you may not have access to certain content and product features such as your device remembering a Listing that you viewed during a previous visit.
-
-**Pixel Tags, Web Beacons, and Trackers**
-
-Pixel tags, web beacons, and tracking urls are tiny graphic images and/or small blocks of code placed on website pages, ads, or in our emails that allow us to determine whether you performed a specific action. When you access these pages, or when you open an email, let us know you have accessed the web page or opened the email. These tools help us measure response to our communications and improve our web pages and promotions.
-
-**Server Logs and Other Technologies**
-
-We collect many different types of information from server logs and other technologies. For example, we collect information about the device you use to access the Airbnb Platform, your operating system type, browser type, domain, and other system settings, as well as the language your system uses and the country and time zone where your device is located. Our server logs also record the IP address of the device you use to connect to the Internet. An IP address is a unique identifier that devices require to identify and communicate with each other on the Internet. We may also collect information about the website you were visiting before you came to the Airbnb Platform and the website you visit after you leave the Airbnb Platform.
-
-We may also collect information about your use of the Airbnb Platform such as when we provide accessibility tools. The tools described help us improve user experience and deliver our services.
-
-**Device Information**
-
-We may use device-related information to authenticate users. For example, we may use your IP address, browser information, or other data provided by your browser or device to identify the device being used to access our platform. We may also use these device-related techniques for associating you with different devices that you may use to access our content including for fraud-protection purposes and to better target advertising.
-
-**Third Parties**
-
-Airbnb permits third parties to collect the information described above through our Service and discloses such information to third parties for business purposes as described in this Privacy Policy, including but not limited to providing advertising on our Service and elsewhere based on users’ online activities over time and across different sites, services, and devices.
-
-Third parties, including Facebook, place technologies such as pixels and SDKs on the Airbnb Platform. These technologies (1) help us analyze how you use the Airbnb Platform, such as by noting the third party services from which you arrived, (2) market and advertise Airbnb services to you on the Airbnb Platform and third party websites, (3) help us detect or prevent fraud or conduct risk assessments, and (4) collect information about your activities on the Airbnb Platform, other sites, and/or the ads you have clicked on. For example, to help us better understand how people use the Airbnb Platform, we work with a number of analytics partners, including Google Analytics. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-Out Browser by [clicking here](https://tools.google.com/dlpage/gaoptout). In some cases, cookies are placed if certain criteria is met, such as being logged into the third party service on the same browser.
-
-Third parties, including Facebook, may also use such tracking technologies to collect or receive information from the Airbnb Platform and elsewhere and use that information to serve ads that they believe are most likely to be of interest to you and measure the effectiveness of their ads both on the Airbnb Platform and on other websites and online services. Targeting and advertising cookies we use may include Google, and other advertising networks and services we use from time to time. See [here](https://policies.google.com/technologies/partner-sites) for information on how Google manages data in its ad products. For more information about targeting and advertising cookies and how you can opt out, you can visit the [Network Advertising Initiative’s opt-out page](https://www.networkadvertising.org/choices/), the [Digital Advertising Alliance’s opt-out page](https://www.aboutads.info/choices/), or [http://youronlinechoices.eu](https://youronlinechoices.eu/). To opt out of Google Analytics for display advertising or customize Google display network ads, you can visit the [Google Ads Settings](https://www.google.com/settings/ads) page. To the extent advertising technology is integrated into the Airbnb Platform and you opt-out of tailored advertising, you may still receive advertising content. In that case, the advertising content will just not be tailored to your interests. Also, we do not control any of these opt-out links and are not responsible for the availability or accuracy of these mechanisms. Users can opt-out of the collection and use of information for ad targeting by updating their Facebook account ad settings and by contacting opt-out@airbnb.com with a description of your request and validation information.
-
-**Third Party Social Plugins**
-
-The Airbnb Platform may use social plugins provided and operated by third parties, such as Facebook’s Like Button. As a result of this, you may send to the third party the information that you are viewing on a certain part of the Airbnb Platform. If you are not logged into your account with the third party, then the third party may not know your identity. If you are logged in to your account with the third party, then the third party may be able to link information or actions about your interactions with the Airbnb Platform to your account with them. Please refer to the third party’s privacy policies to learn more about its data practices.
-
-**Your Choices**
-
-Most browsers automatically accept cookies, but you can modify your browser setting to decline cookies by visiting the Help portion of your browser’s toolbar. While you may disable cookies through your browser settings, the Airbnb Platform currently does not respond to a “Do Not Track” signal in the HTTP header from your browser or mobile application due to lack of standardization regarding how that signal should be interpreted.
-
-Flash cookies operate differently than browser cookies, and cookie management tools available in a web browser will not remove flash cookies. To learn more about how to manage flash cookies, you can visit the [Adobe website](https://www.adobe.com/) and make changes at the [Global Privacy Settings Panel](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html).
-
-Your mobile device may allow you to control cookies through its settings function. Refer to your device manufacturer’s instructions for more information.
-
-If you choose to decline cookies, some parts of the Airbnb Platform may not work as intended or may not work at all.
-
-Related articles
-
-
---------------------
-
-* [Airbnb basics
-    
-    Enterprise Customers and Airbnb for Work
-    
-    Please review this information which supplements our Privacy Policy.](https://www.airbnb.co.uk/help/article/2865/enterprise-customers-and-airbnb-for-work)
-* [Airbnb basics
-    
-    Airbnb Community Outreach Programme Terms – Ireland
-    
-    Please review our Airbnb Community Outreach Programme Terms – Ireland.](https://www.airbnb.co.uk/help/article/1497/airbnb-community-outreach-programme-terms-ireland)
-* [Retired article 173: What are references on Airbnb?](https://www.airbnb.co.uk/help/article/173/retired-article-173-what-are-references-on-airbnb)
+Continue with Facebook
