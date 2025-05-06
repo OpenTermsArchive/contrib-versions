@@ -37,12 +37,8 @@ Recherche
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     
-    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
-            
-            * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
-            
-        * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -858,12 +854,8 @@ Recherche
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     
-    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
-            
-            * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
-            
-        * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -1651,12 +1643,8 @@ Recherche
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     
-    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
-            
-            * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
-            
-        * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -2381,12 +2369,8 @@ Recherche
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     
-    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
-            
-            * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
-            
-        * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -2812,12 +2796,8 @@ Recherche
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     
-    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
-            
-            * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
-            
-        * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -3243,12 +3223,8 @@ Recherche
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     
-    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
-            
-            * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
-            
-        * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -3674,12 +3650,8 @@ Recherche
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     
-    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
-            
-            * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
-            
-        * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -4105,12 +4077,8 @@ Recherche
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     
-    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
-            
-            * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
-            
-        * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -4536,12 +4504,8 @@ Recherche
             * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
             
     
-    * * [Jeux Olympiques et Paralympiques de Paris 2024 Bougeons avec les Jeux : le ministère du Travail, de la Santé et des Solidarités s’engage](https://sante.gouv.fr/grands-dossiers/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le/article/jeux-olympiques-et-paralympiques-de-paris-2024-bougeons-avec-les-jeux-le)
-        * [Refondation du métier infirmier](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/)
-            
-            * [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
-            
-        * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+    * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
             
@@ -4951,8 +4915,6 @@ Retour
 * [CPTS : s’organiser sur un même territoire pour renforcer les soins aux patients](https://sante.gouv.fr/systeme-de-sante/structures-de-soins/cpts-s-organiser-sur-un-meme-territoire-pour-renforcer-les-soins-aux-patients/)
 * [L’infirmier en pratique avancée](https://sante.gouv.fr/grands-dossiers/un-meilleur-acces-aux-soins-pour-tous-sur-le-territoire/cooperations-interprofessionnelles/article/l-infirmier-en-pratique-avancee)
 * [Télésanté : pour l’accès de tous à des soins à distance](https://sante.gouv.fr/soins-et-maladies/prises-en-charge-specialisees/telesante-pour-l-acces-de-tous-a-des-soins-a-distance/)
-
-* [Refondation du métier infirmier : 18 mois de co-construction pour repenser compétences, formation et carrières](https://sante.gouv.fr/grands-dossiers/refondation-du-metier-infirmier/article/refondation-du-metier-infirmier-18-mois-de-co-construction-pour-repenser)
 
 * [De nouveaux vaccins obligatoires pour les nourrissons](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/de-nouveaux-vaccins-obligatoires-pour-les-nourrissons)
 * [Le parcours vaccinal des 0-2 ans](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/article/le-parcours-vaccinal-des-0-2-ans)
