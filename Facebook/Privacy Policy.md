@@ -3,8 +3,6 @@
 Politique de confidentialité
 ----------------------------
 
-Nous avons mis à jour notre politique de confidentialité le 7 avril 2025. [Consulter notre politique précédente.](https://fr-fr.facebook.com/privacy/policy/version/8810742435690564/)
-
 Qu’est-ce que la Politique de confidentialité et que couvre-t-elle ?
 
 Date effective : 7 avril 2025 | [Voir la version imprimable](https://mbasic.facebook.com/privacy/policy/printable/) | [Afficher les versions précédentes](https://fr-fr.facebook.com/privacy/policy/?show_versions=1)
