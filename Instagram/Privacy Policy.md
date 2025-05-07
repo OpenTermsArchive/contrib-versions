@@ -1,8 +1,6 @@
 Privacy Policy
 --------------
 
-We updated our Privacy Policy on April 7, 2025. [View our previous policy.](https://privacycenter.instagram.com/policy/version/8810742435690564/)
-
 What is the Privacy Policy and what does it cover?
 
 Effective April 7, 2025 | [View printable version](https://mbasic.facebook.com/privacy/policy/printable/) | [See previous versions](https://privacycenter.instagram.com/policy/?show_versions=1)
