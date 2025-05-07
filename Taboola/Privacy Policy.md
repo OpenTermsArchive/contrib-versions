@@ -38,6 +38,8 @@ Taboola also maintains an externally-facing [Trust Center](https://help.taboola.
 
 [![](https://www.taboola.com//wp-content/uploads/2021/09/nai-logo.jpg)](https://www.taboola.com/policies/privacy-policy/nai-logo)
 
+[![](https://www.taboola.com//wp-content/uploads/2023/01/iab-canada-4.png)](https://www.taboola.com/policies/privacy-policy/iab-canada-4)
+
 ### **Privacy Policy:**
 
 Taboola, Inc., together with its [Affiliates](https://www.taboola.com/pdf/affiliate-list), (“**Taboola**”, “**we**”, “**us**”, or “**our**”), recognize the importance of your privacy. In this privacy policy (“Privacy Policy”) we describe how we collect, process, use, and disclose information that we obtain in the following contexts:
