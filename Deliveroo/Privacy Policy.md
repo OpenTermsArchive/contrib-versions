@@ -89,7 +89,7 @@ See more
 
 We may update this policy from time to time, so remember to check back in every so often, in case anything has changed. Where appropriate, we may notify you of changes, for example by email or in-app notification. 
 
-This policy was last published on: 27 November 2024
+This policy was last published on: 8 May 2025
 
 **Deliveroo Ireland Limited**, 2 Dublin Landings North Dock Dublin 1 Ireland
 
