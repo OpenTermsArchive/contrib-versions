@@ -57,7 +57,7 @@ Other languages:
 * [oʻzbekcha / ўзбекча](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/uz "Policy:Privacy policy/uz (25% translated)")
 * [polski](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pl "Policy:Privacy policy/pl (100% translated)")
 * [português](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pt "Policy:Privacy policy/pt (56% translated)")
-* [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pt-br "Policy:Privacy policy/pt-br (95% translated)")
+* [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/pt-br "Policy:Privacy policy/pt-br (96% translated)")
 * [română](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/ro "Policy:Privacy policy/ro (18% translated)")
 * [sardu](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sc "Policy:Privacy policy/sc (5% translated)")
 * [shqip](https://foundation.wikimedia.org/wiki/Policy:Privacy_policy/sq "Policy:Privacy policy/sq (10% translated)")
@@ -131,11 +131,11 @@ Other languages:
 
 |     |     |
 | --- | --- |
-| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/50px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the [Wikimedia Foundation Board of Trustees](https://wikimediafoundation.org/role/board/ "foundationsite:role/board/").**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any [Wikimedia project](https://wikimediafoundation.org/our-work/wikimedia-projects/ "foundationsite:our-work/wikimedia-projects/").  <br><br>**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.** |
+| [![Wikimedia Foundation mark](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/60px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg) | **This policy is approved by the [Wikimedia Foundation Board of Trustees](https://wikimediafoundation.org/role/board/ "foundationsite:role/board/").**  <br><br>It may not be circumvented, eroded, or ignored by Wikimedia Foundation officers or staff nor local policies of any [Wikimedia project](https://wikimediafoundation.org/our-work/wikimedia-projects/ "foundationsite:our-work/wikimedia-projects/").  <br><br>**Please note that in the event of any differences in meaning or interpretation between the original English version of this content and a translation, the original English version takes precedence.** |
 
 Wikimedia Foundation Privacy Policy
 
-[![](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/90px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg)
+[![](//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Wikimedia-logo_black.svg/120px-Wikimedia-logo_black.svg.png)](https://foundation.wikimedia.org/wiki/File:Wikimedia-logo_black.svg)
 
 This is a [summary](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy/Summary "Special:MyLanguage/Policy:Privacy policy/Summary") of the Privacy Policy. To read the full terms, scroll down or [click here](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Privacy_policy#introduction "Special:MyLanguage/Policy:Privacy policy").
 
