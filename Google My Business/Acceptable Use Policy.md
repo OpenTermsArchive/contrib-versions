@@ -164,7 +164,7 @@ If your business has multiple sets of hours, refer to these guidelines for parti
 
 * During the season your business is open, set your regular hours of operation. You can [set special hours](https://support.google.com/business/answer/6303076) for public holidays, temporary closures or other events.
     * You can also indicate that your business is open only for a specific seasonal period in your business description.
-* During off-season, you can mark your business as [temporarily closed](https://support.google.com/business/answer/9790266).
+* During off-season, you can mark your business as [temporarily closed](https://support.google.com/business/answer/15300196).
     * Set your regular opening hours when your business reopens.
 
 Categories
@@ -315,7 +315,7 @@ You may also be eligible for rebranding if you have multiple locations and the b
 
 If your business meets the rebranding criteria above, you can update your business name when you edit your business information. 
 
-If your business changes its name but doesn't meet the criteria above, then it's considered a new business. You must mark the existing Business Profile as closed and then create a new Business Profile with your new business name. [Learn how to mark a profile as closed](https://support.google.com/business/answer/6314541).
+If your business changes its name but doesn't meet the criteria above, then it's considered a new business. You must mark the existing Business Profile as closed and then create a new Business Profile with your new business name. [Learn how to mark a profile as closed](https://support.google.com/business/answer/15300196).
 
 If you encounter any issues with rebranding, [contact our support team](https://support.google.com/business/contactflow). 
 
