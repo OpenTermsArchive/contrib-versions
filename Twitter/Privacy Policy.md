@@ -271,7 +271,7 @@ The X Privacy Policy is written in English but is made available in multiple lan
 10\. How To Contact X
 ---------------------
 
-We want to hear from you if you have thoughts or questions about this Privacy Policy. You can contact us via our [Privacy Policy Inquiries](https://help.x.com/forms/privacy) page or by writing to us at the appropriate address below. Information about our handling of California Consumer Privacy Act (CCPA) requests is available [here](https://privacy.x.com/en/ccpa). Information about our handling of “Consumer Health Data” and associated requests as defined under Washington State’s My Health My Data Act and other similar state laws is available [here](https://privacy.x.com/for-our-users/x-consumer-health-data-policy).  
+We want to hear from you if you have thoughts or questions about this Privacy Policy. You can contact us via our [Privacy Policy Inquiries](https://help.x.com/forms/privacy) page or by writing to us at the appropriate address below. Information about our handling of California Consumer Privacy Act (CCPA) requests is available [here](https://privacy.x.com/en/ccpa). Information about our handling of “Consumer Health Data” and associated requests as defined under Washington State’s My Health My Data Act and other similar state laws is available [here](https://privacy.x.com/for-our-users/x-consumer-health-data-policy). For Oregon residents, more information about our handling of personal information described in this Privacy Policy and associated requests and appeals under Oregon’s Consumer Privacy Act (OCPA) is available [here](https://privacy.x.com/for-our-users/ocpa).  
 
 If you live in the United States or any other country outside of the European Union, EFTA States, or the United Kingdom, the data controller responsible for your personal data is X Corp., with an address of:
 
@@ -289,11 +289,12 @@ Dublin 2, D02 AX07 IRELAND**
 
 If you live in Switzerland, you can also contact our appointed representative at the following address:  
   
-**Twitter Switzerland GmbH  
+**X Switzerland GmbH  
 Attn: Data Protection Officer  
 c/o Wasag Treuhand AG  
-Bolligenstrasse 18  
-Bern, 3006, SWITZERLAND**
+Normannenstrasse 8  
+Postfach 783  
+3018 Bern, SWITZERLAND**
 
   
 If you wish to raise a concern about our [data processing practices](https://help.x.com/rules-and-policies/data-processing-legal-bases), you have the right to do so with your local supervisory authority or X Internet Unlimited Company’s lead supervisory authority, the Irish Data Protection Commission, using the [contact details](https://www.dataprotection.ie/contact/how-contact-us) listed on their website.
