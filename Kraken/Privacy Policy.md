@@ -1,4 +1,4 @@
-_Last Updated: 8 May 2025_
+_Last Updated: 9 May 2025_
 
 For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/en-gb/legal/privacy/us-notice).  
  
@@ -80,7 +80,7 @@ We also receive information about you from third parties such as your payment pr
 **7\. Disclosure of your personal data**
 ----------------------------------------
 
-As part of processing your personal data for the purposes set out above, Kraken may disclose your personal data to any members of the Kraken company group, and to third parties. For example, Kraken may disclose your personal data to any of our service providers and business partners, for business or other legitimate purposes, such as specialist advisors who have been contracted to provide us with administrative, financial, legal, tax, compliance, insurance, IT, debt-recovery, analytics, research or other services.
+As part of processing your personal data for the purposes set out above, Kraken may disclose your personal data to any members of the Kraken company group, and to third parties. For example, Kraken may disclose your personal data to any of our service providers and business partners, for business or other legitimate purposes, such as specialist advisors who have been contracted to provide us with administrative, financial, legal, tax, compliance, insurance, IT, debt-recovery, analytics, research or other services. Depending on your jurisdiction, Kraken may disclose your personal data to telecommunication providers or mobile network operators for the purpose of identity verification.
 
 If Kraken discloses your personal data to service providers and business partners, in order to perform the services requested by clients or to comply with our legal and regulatory obligations, such providers and partners may store your personal data within their own systems. We require them to protect the confidentiality of this personal data, and comply with all relevant privacy and data protection laws.
 
