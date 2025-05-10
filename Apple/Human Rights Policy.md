@@ -1,4 +1,4 @@
-Human Rights Policy May 2024
+Human Rights Policy May 2025
 
 
 
@@ -10,11 +10,11 @@ Human Rights
 
 “Whether we’re protecting the right to privacy, designing technology that is
 
-accessible to all, or using more recycled material in our products than ever, we
+accessible to all, or using more recycled material in our products than ever, we are
 
-are always working to make a difference for the people we serve and the planet
+always working to make a difference for the people we serve and the planet we
 
-we share.”
+share.”
 
 
 
@@ -42,7 +42,7 @@ others.
 
 It also means leading with our values. Our human rights policy governs how we treat everyone—from our
 
-customers and teams to our business partners and communities and to people at every level of our supply
+customers and teams, to our business partners and communities, and to people at every level of our supply
 
 chain.
 
@@ -78,9 +78,11 @@ We conduct robust due diligence to identify salient human rights risks through r
 
 channels we maintain with stakeholders, including workers in our supply chain, civil rights groups, human
 
-rights and labor experts, investors, governments, and United Nations bodies. We work to mitigate these
+rights and labor experts, investors, governments, and United Nations bodies. We work to mitigate these risks,
 
-risks, and we seek to remedy adverse impacts, track and measure our progress, and report our findings.
+and we seek to remedy adverse impacts, track and measure our progress, and report our findings.
+
+Human Rights Policy May 2025
 
 
 
@@ -88,33 +90,29 @@ Embedding Respect for Human Rights
 
 
 
-We’ve embeded a respect for human rights across our company—in the technology we make, in the way we
+We’ve embedded a respect for human rights across our company—in the technology we make, in the way we
 
 make it, and in how we treat people. We're deeply committed to continually assessing our progress and
 
 building the lessons we learn into everything we do.
 
-Human Rights Policy May 2024
-
 
 
 The Technology We Make
 
-As a global technology company, we operationalize our sense of responsibility to make technology for
+As a global technology company, we operationalize our sense of responsibility to make technology for people
 
-people that respects their human rights, empowers them with useful tools and information, and enhances
+that respects their human rights, empowers them with useful tools and information, and enhances their
 
-their overall quality of life.
+overall quality of life.
 
 
 
-We do that with our uncompromising commitment to security and user privacy—setting the industry
+We do that with our uncompromising commitment to security and user privacy—setting the industry standard
 
-standard for minimizing personal data collection. We build privacy protections into everything we make—
+for minimizing personal data collection. We build privacy protections into everything we make—from products
 
-from products like iPhone, to services like Apple Pay, to our comprehensive review process for every app on
-
-the App Store.
+like iPhone, to services like Apple Pay, to our comprehensive review process for every app on the App Store.
 
 
 
@@ -122,11 +120,11 @@ Hand in hand with the privacy of our users is our commitment to freedom of infor
 
 products help our customers communicate, learn, express their creativity, and exercise their ingenuity. We
 
-believe in the critical importance of an open society in which information flows freely, and we’re convinced
+believe in the critical importance of an open society in which information flows freely, and we’re convinced the
 
-the best way we can continue to promote openness is to remain engaged, even where we may disagree with
+best way we can continue to promote openness is to remain engaged, even where we may disagree with a
 
-a country’s laws.
+country’s laws.
 
 
 
@@ -134,9 +132,9 @@ We act responsibly when it comes to the content on our platforms, and with servi
 
 make it easy for our users to find timely information from the most trusted sources. Across all our services,
 
-including the App Store, Apple Podcasts, and others, users can choose from a wide variety of options, and
+including the App Store, Apple Podcasts, and others, users can choose from a wide variety of options, and we
 
-we carefully review the content on every Apple app and service against our guidelines and standards.
+carefully review the content on every Apple app and service against our guidelines and standards.
 
 
 
@@ -164,11 +162,11 @@ should meet everyone’s needs.
 
 The Way We Make It
 
-Respect for human rights shapes how we make our products and services. Our responsibilities go beyond
+Respect for human rights shapes how we make our products and services. Our responsibilities go beyond our
 
-our stores and corporate offices: They extend to the people in our supply chain, the communities we’re a part
+stores and corporate offices: They extend to the people in our supply chain, the communities we’re a part of,
 
-of, and the planet we all share.
+and the planet we all share.
 
 
 
@@ -188,9 +186,13 @@ We want to be a force for good in the lives of people in our supply chain and th
 
 to work with our neighbors and suppliers to develop new skill sets, start businesses, and advocate for
 
-change. In addition to our global educational initiatives, we’ve partnered with human rights and
+Human Rights Policy May 2025
 
-environmental defenders and international human rights nonprofits.
+
+
+change. In addition to our global educational initiatives, we’ve partnered with human rights and environmental
+
+defenders and international human rights nonprofits.
 
 
 
@@ -202,19 +204,15 @@ recycle our products.
 
 We run Apple on 100 percent renewable energy, and we’re working with our suppliers to achieve carbon
 
-neutrality across our entire supply chain by 2030. Every day, we’re making progress on our goal of reaching
+neutrality across our entire supply chain by 2030. Every day, we’re working to make progress on our goal of
 
-Human Rights Policy May 2024
+reaching a closed-loop supply chain that uses only recycled or renewable content. Even as we work toward
 
+this goal, we remain committed to sourcing primary materials responsibly. And we’ve put our innovation and
 
+expertise to the task of conserving water, recycling and recovering precious materials, and sharing our road
 
-a closed-loop supply chain that uses only recycled and renewable content. Even as we work toward this
-
-goal, we remain committed to sourcing primary materials responsibly. And we’ve put our innovation and
-
-expertise to the task of conserving water, making robots that recycle and recover precious materials, and
-
-sharing our road map for the future to inspire our industry peers to join us on our environmental journey.
+map for the future to inspire our industry peers to join us on our environmental journey.
 
 
 
@@ -238,19 +236,11 @@ applicable laws and regulations.
 
 
 
-We’re also committed to advancing civil rights and the essential work of improving diversity, increasing
+We’re also committed to a welcoming and inclusive environment for our teams around the world. Our efforts
 
-inclusion, and advancing racial justice—both within our company and through efforts like our Racial Equity
+are motivated by a strong desire to foster a culture of belonging where everyone is treated with dignity and
 
-and Justice Initiative, which supports education, economic equality, and criminal justice reform. Our efforts
-
-here are motivated by a strong desire to create a welcoming and supportive environment for all our teams
-
-and to help combat discrimination, injustice, and systemic racism. We require every Apple employee to
-
-participate in trainings on unconscious bias, and we’re working to improve representation and diversity in
-
-positions of leadership and at every level of our company.
+respect.
 
 
 
@@ -268,15 +258,15 @@ We track and measure our performance across a range of areas, and we apply the l
 
 continually improve. We report our progress publicly, and updates are available at apple.com on topics
 
-ranging from privacy to environmental performance to supply chain due diligence. To make sure our
+ranging from privacy to environmental performance to supply chain due diligence. To make sure our progress
 
-progress is as meaningful and impactful as possible, we work with a broad range of groups—including
+is as meaningful and impactful as possible, we work with a broad range of groups—including workers’ rights
 
-workers’ rights advocates and local leaders—and consult with rights holders and other stakeholders that
+advocates and local leaders—and consult with rights holders and other stakeholders that include United
 
-include United Nations bodies, governments, nongovernmental organizations, civil rights groups, and the
+Nations bodies, governments, nongovernmental organizations, civil rights groups, and the world’s leading
 
-world’s leading human rights experts.
+human rights experts.
 
 
 
@@ -290,7 +280,7 @@ issues.
 
 
 
-We always strive to be an example for others to follow, and to share our progress to accelerate industrywide
+We always strive to be an example for others to follow, and to share our progress to accelerate industry-wide
 
 change. But we also know our work will never be finished—because we believe that if we aren’t finding ways
 
