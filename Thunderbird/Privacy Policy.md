@@ -1,9 +1,9 @@
 Thunderbird Privacy Notice
 ==========================
 
-Last updated February 12, 2025
+Last updated May 9, 2025
 
-The Thunderbird Desktop, Thunderbird for Android, and K-9 Mail applications (together, “Thunderbird”) allow users to privately integrate and manage their online communications. K-9 Mail is a variant of Thunderbird for Android. All references to “Thunderbird” or “Thunderbird for Android” apply equally to K-9 Mail.
+The Thunderbird Desktop, Thunderbird for iOS, Thunderbird for Android, and K-9 Mail applications (together, “Thunderbird”) allow users to privately integrate and manage their online communications. K-9 Mail is a variant of Thunderbird for Android. All references to “Thunderbird” or “Thunderbird for Android” apply equally to K-9 Mail.
 
 This Privacy Notice explains what data Thunderbird collects and shares, and why. We also adhere to the [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) for how we receive, handle, and share information.
 
@@ -20,7 +20,7 @@ Thunderbird sends telemetry about your interactions with Thunderbird to us. Ther
 
 **Technical data**: Thunderbird also receives environment data from your device, such as, application version, hardware configuration, device operating system, and language preference. When Thunderbird sends technical data to us, your IP address is temporarily collected as part of our server logs.
 
-We use this information to make better decisions on which features should remain included or need to be changed, identify improvements for new features we implement, and find other ways to improve Thunderbird for all our users. Read the telemetry documentation for [Thunderbird Desktop](https://support.mozilla.org/kb/thunderbird-telemetry) or [Thunderbird for Android](https://support.mozilla.org/kb/thunderbird-android-telemetry) to learn how to opt-out of this data collection. Mozilla’s [data dictionary](https://dictionary.telemetry.mozilla.org/) contains information on some of the data points collected.
+We use this information to make better decisions on which features should remain included or need to be changed, identify improvements for new features we implement, and find other ways to improve Thunderbird for all our users. Read the telemetry documentation for [Thunderbird Desktop](https://support.mozilla.org/kb/thunderbird-telemetry) or [Thunderbird Mobile](https://support.mozilla.org/kb/thunderbird-mobile-telemetry) to learn how to opt-out of this data collection. Mozilla’s [data dictionary](https://dictionary.telemetry.mozilla.org/) contains information on some of the data points collected.
 
 ### Set-Up, Configure, and Process Your Email
 
@@ -64,9 +64,9 @@ If Thunderbird crashes, we will ask you to share a report with more detailed inf
 
 Read the full documentation [here](https://support.mozilla.org/kb/mozilla-crash-reporter-tb).
 
-#### Thunderbird for Android
+#### Thunderbird Mobile
 
-Google collects crash reports for all Android apps installed via the Play Store. These reports are accessible to us, together with other analytics automatically collected by Google.
+Crash reports and related analytics may be collected by app store providers for apps distributed through their platforms. This data collection is carried out by the platform providers and may be shared with us subject to their terms. We do not control or manage the data collection practices of these third parties. To adjust your data preferences, please refer to the privacy settings and documentation provided by your app store provider.
 
 ### Improve Security for Our Users Everywhere
 
@@ -93,7 +93,7 @@ OAuth authentication and user data synchronization occur directly between Thunde
 
 Data protection on your device:
 
-* Login credentials are not stored on your device; instead, they are exchanged for OAuth tokens. These tokens, along with your email and calendar data, are secured within the application sandbox (on Android) or confined within your user profile (on Desktop). Additional security measures such as operating system level full disk encryption increase the security of your data.
+* Login credentials are not stored on your device; instead, they are exchanged for OAuth tokens. These tokens, along with your email and calendar data, are secured within the application sandbox (on Android), the secure key storage (on iOS), or confined within your user profile (on Desktop). Additional security measures such as operating system level full disk encryption increase the security of your data.
 * Email and calendar data reside solely on your device for the duration required to operate Thunderbird. This includes sensitive user data associated with your Apple Calendar, Microsoft 365 or Google Calendar.
 * Thunderbird does not share OAuth tokens, email contents, calendar events, contact lists, or account details with third parties, except as necessary to provide the services requested by the user (e.g., sending an email or scheduling a calendar event).
 
