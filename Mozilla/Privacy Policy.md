@@ -5,7 +5,7 @@ April 3, 2024
 
 We care about your privacy. When Mozilla (that’s us) collects information about you, our [Mozilla Privacy Policy](https://www.mozilla.org/privacy/) describes how we handle that information.
 
-This privacy notice applies to Mozilla operated websites and mobile apps, which include the domains mozilla.org, and firefox.com, among others. This includes, for example, addons.mozilla.org, bugzilla.mozilla.org, careers.mozilla.org, community.mozilla.org, developer.mozilla.org, foundation.mozilla.org, people.mozilla.org, support.mozilla.org, and wiki.mozilla.org.
+This privacy notice applies to Mozilla operated websites and mobile apps, which include the domains mozilla.org, and firefox.com, among others. This includes, for example, addons.mozilla.org, bugzilla.mozilla.org, careers.mozilla.org, community.mozilla.org, developer.mozilla.org, mozillafoundation.org, people.mozilla.org, support.mozilla.org, and wiki.mozilla.org.
 
 Things you should know
 ----------------------
