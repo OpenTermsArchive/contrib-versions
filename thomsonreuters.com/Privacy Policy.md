@@ -4,8 +4,6 @@ Thomson Reuters Privacy Statement
 Available in other languages:
 -----------------------------
 
- 
-
 [中文（简体版）](https://www.thomsonreuters.com/zh-hans/privacy-statement)    [中文（繁体版）](https://www.thomsonreuters.com/zh-tw/privacy-statement)   [Nederlands](https://www.thomsonreuters.com/nl/privacy)    [Français](https://www.thomsonreuters.com/fr/declaration-de-confidentialite)    [Français(CA)](https://www.thomsonreuters.com/fr-ca/privacy-statement)    [Deutsch](https://www.thomsonreuters.com/de/datenschutzerklarung)    [Italiano](https://www.thomsonreuters.com/it/informativa-sulla-privacy)    [日本語](https://www.thomsonreuters.com/ja/privacy-statement)    [한국어](https://www.thomsonreuters.com/ko/privacy-statement)    [Português](https://www.thomsonreuters.com/pt/declaracao-de-privacidade)    [Русский](https://www.thomsonreuters.com/ru/privacy-statement)    [Español](https://www.thomsonreuters.com/es/declaracion-de-privacidad)    [Türk](https://www.thomsonreuters.com/tr/gizlilik-bildirimi)    [عربي](https://www.thomsonreuters.com/ar/privacy-statement)  
 [dansk](https://www.thomsonreuters.com/da-dk/fortrolighedserklaering)    [Ελληνικά](https://www.thomsonreuters.com/el-gr/privacy-statement)    [bahasa Indonesia](https://www.thomsonreuters.com/id-id/pernyataan-privasi)    [Polski](https://www.thomsonreuters.com/pl-pl/polityka-prywatnosci)    [svenska](https://www.thomsonreuters.com/sv-se/sekretesspolicy)    [แบบไทย](https://www.thomsonreuters.com/th-th/privacy-statement)    [हिंदी](https://www.thomsonreuters.com/he-in/privacy-statement)
 
