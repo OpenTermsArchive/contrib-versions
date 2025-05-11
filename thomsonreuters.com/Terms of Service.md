@@ -3,8 +3,6 @@
 
 All use of Thomson Reuters web pages located within www.thomsonreuters.com is subject to the terms and conditions set forth below 
 
- 
-
 All use of Thomson Reuters web pages located within [www.thomsonreuters.com](https://www.thomsonreuters.com/en) is subject to the terms and conditions set forth below ("Terms"), provided however that other terms of use shall apply with respect to Thomson Reuters affiliates' websites, as specified on each such website. Any use of such web pages constitutes the user's agreement to abide by the Terms. We may amend the Terms at any time by posting the amended terms on this site.
 
 **Privacy**
