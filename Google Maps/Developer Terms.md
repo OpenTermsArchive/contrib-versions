@@ -202,6 +202,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Data Gov AT - [https://www.data.gv.at/katalog/dataset/3fefc838-791d-4dde-975b-a4131a54e7c5#additional-info](https://www.data.gv.at/katalog/dataset/3fefc838-791d-4dde-975b-a4131a54e7c5#additional-info)
             
+        * Open Data Österreich - [https://www.data.gv.at/katalog/dataset/522d3045-0b37-48d0-b868-57c99726b1c4#additional-info](https://www.data.gv.at/katalog/dataset/522d3045-0b37-48d0-b868-57c99726b1c4#additional-info)
+            
     5. **Argentina**
         * Instituto Geográfico Nacional (AR): [https://www.ign.gob.ar/](https://www.ign.gob.ar/)
             
@@ -604,6 +606,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Open Data Denmark (DK): [https://www.opendata.dk/](https://www.opendata.dk/) Licensed by Creative Commons Attribution 4.0 International (CC By 4.0)
             
         * Rejseplanen Copenhagen: [https://help.rejseplanen.dk/hc/da/articles/213633029-Retningslinjer-for-databrug](https://help.rejseplanen.dk/hc/da/articles/213633029-Retningslinjer-for-databrug)
+            
+        * Datafordeler: [https://datafordeler.dk/vejledning/brugervilkaar/kds-geografiske-data/](https://datafordeler.dk/vejledning/brugervilkaar/kds-geografiske-data/)
             
     14. **Ecuador**
         * Quito, [https://www.quito.gob.ec/.](https://www.quito.gob.ec/)
