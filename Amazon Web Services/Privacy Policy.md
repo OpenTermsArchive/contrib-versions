@@ -1,9 +1,9 @@
 Privacy Notice
 ==============
 
-#### Last Updated: February 21, 2025
+#### Last Updated: May 12, 2025
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20250218/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20250221/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -47,14 +47,14 @@ We use your personal information to operate, provide, and improve AWS Offerings.
 * **Recommendations and Personalization:** We use your personal information to recommend AWS Offerings that might be of interest to you, identify your preferences, and personalize your experience with AWS Offerings.
 * **Comply with Legal Obligations:** In certain cases, we have a legal obligation to collect, use, or retain your personal information. For example, we collect bank account information from AWS Marketplace sellers for identity verification.
 * **Communicate with You:** We use your personal information to communicate with you in relation to AWS Offerings via different channels (e.g., by phone, email, chat) and to respond to your requests.
-* **Marketing:** We use your personal information to market and promote AWS Offerings. 
+* **Marketing and Advertising:** We use your personal information to market, advertise, and promote AWS Offerings. 
 * **Fraud and Abuse Prevention and Credit Risks:** We use your personal information to prevent and detect fraud and abuse in order to protect the security of our customers, AWS, and others. We may also use scoring methods to assess and manage credit risks.
 * **Purposes for Which We Seek Your Consent:** We may also ask for your consent to use your personal information for a specific purpose that we communicate to you.  
     
 
 #### Cookies
 
-To enable our systems to recognize your browser or device and to provide, market, and improve AWS Offerings, we and approved third parties use cookies and other identifiers. For more information about cookies and how we use them, please read our [Cookie Notice](https://aws.amazon.com/legal/cookies/).  
+To enable our systems to recognize your browser or device, and to provide, market, and improve AWS Offerings, and to advertise to you on third-party websites and services, we and approved third parties use cookies and other identifiers. For more information about cookies and how we use them, please read our [Cookie Notice](https://aws.amazon.com/legal/cookies/).  
 
 #### How We Share Personal Information
 
@@ -81,6 +81,10 @@ At AWS, security is our highest priority. We design our systems with your securi
 * We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal information. Our security procedures mean that we may request proof of identity before we disclose personal information to you.  
     
 
+### Advertising
+
+To help you receive more useful and relevant ads on other sites and services and to measure their effectiveness, AWS shares limited personal information with our advertising partners. We don’t share your name or other information that directly identifies you when we do this. Instead, we use an identifier like a cookie or a unique code derived from your contact information (such as a hashed email address). If you want to adjust your personalized advertising preferences, refer to the “Access and Choice” section below.
+
 #### Access and Choice
 
 You can view, update, and delete certain information about your account and your interactions with AWS Offerings. Click [here](#Information_You_Can_Access) for a list of examples of information that you can access. If you cannot access or update your information yourself, you can always contact us for assistance.
@@ -89,6 +93,7 @@ You have choices about the collection and use of your personal information. Many
 
 * **Account Information:** If you want to add, update, or delete information related to your account, please go to the [AWS Management Console](https://console.aws.amazon.com/billing/home?#/account). When you update or delete any information, we usually keep a copy of the prior version for our records.
 * **Communications:** If you do not want to receive promotional messages from us, please unsubscribe or adjust your communication preferences in the [AWS Management Console](https://console.aws.amazon.com/billing/home?#/preferences) or the [AWS Email Preference Center](https://pages.awscloud.com/communication-preferences.html). If you do not want to receive in-app notifications from us, please adjust your notification settings in the app or your device.
+* **Advertising:** If you are located in the United States, you may opt-out of personalized advertising, including cross-context behavioral advertising, by clicking the “Your Privacy Choices” link in the footer of the AWS site you’re visiting and following the instructions presented. If you are located outside the United States, you may adjust your personalized advertising preferences by filling out the form available [here](https://pulse.aws/application/ZRPLWLL6) [](#_msocom_1)and by following the Cookie Preferences instructions below.
 * **Cookies Preferences:** You can change your cookie preferences on AWS sites at any time by clicking Cookie Preferences in the footer of the AWS site. You can also manage cookies through your browser settings. The "Help" feature on most browsers and devices will tell you how to remove cookies from your device, how to prevent your browser or device from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 * **Sellers and Amazon Partners:** Sellers and Amazon Partner Network members can add, update, or delete information in the [AWS Marketplace](https://aws.amazon.com/marketplace/account-management) and [APN Partner Central](https://partnercentral.awspartner.com/SiteLogin), respectively.  
     
@@ -202,6 +207,10 @@ We provide additional information about our controllers and data protection offi
     * request us to restrict the processing of personal information where the processing is inappropriate;
     * object to the processing of personal information; and
     * request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means.
+    
+    **Advertising**. To help you receive more useful and relevant ads on other sites and services and to measure their effectiveness, AWS shares limited personal information with our advertising partners. If you provide your consent, we use advertising cookies and similar technologies. You can withdraw your consent by clicking on the “Cookie Preferences” link presented in the footer of the AWS website you’re visiting.
+    
+    We may also share a unique code derived from your contact information (such as a hashed email address) with our advertising partners. We don’t share your name or other information that directly identifies you when we do this. We rely on our legitimate interests for this processing, including to help you find and discover features, products, and services that might be of interest to you. To opt out, click the link [here](https://pulse.aws/application/ZRPLWLL6).[](#_msocom_1)
     
     **Questions and Contacts.** If you wish to do any of these things or have a data-protection related question, and you are an AWS customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html). 
     
@@ -360,7 +369,7 @@ We provide additional information about our controllers and data protection offi
     
 * United States
     
-    These additional disclosures are required by certain state privacy laws to the extent they apply to your use of AWS Offerings, and serve as a Notice at Collection under the California Privacy Rights Act.
+    These additional disclosures are required by certain state privacy laws to the extent they apply to your use of AWS Offerings, and serve as a Notice at Collection under the California Privacy Rights Act. Information about our customers is an important part of our business and we are not in the business of selling our customers’ personal information to others. 
     
     **Categories of personal information collected**. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Privacy Rights Act and other state privacy laws, depending on how you engage with the AWS Offerings:
     
@@ -404,11 +413,18 @@ We provide additional information about our controllers and data protection offi
     
     For more information about the personal information we may disclose for a business purpose, click [here](https://aws.amazon.com/privacy/#How_We_Share_Personal_Information).
     
-    **Your Data Rights**. You may have certain data rights under state privacy laws, including to request information about the collection of your personal information by us, to access your personal information in a portable format, and to correct or delete your personal information. If you wish to do any of these things and you are an AWS customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256). If you are not an AWS customer, or you are an authorized agent under applicable state law, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or at the address under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. Additionally, you may have the right to appeal the denial of any of these rights by submitting a form that will be provided to you if we deny a data request. Depending on your data choices, certain services may be limited or unavailable.
+    **Advertising.** To help ensure you receive more useful and relevant ads on other sites and services and to measure their effectiveness, AWS shares limited personal information with our advertising partners. We don’t share your name or other information that directly identifies you when we do this. Any personal information AWS may share for the purpose of cross-context behavioral advertising, as those terms are defined by the California Privacy Rights Act, or processes for the purposes of targeted advertising as that term is defined in other state privacy laws, above falls into the following categories:
+    
+    * identifiers such as a cookie, or a hashed value derived from your contact information, such as your email address;
+    * internet or other electronic network activity information, such as web browser information, pages viewed, or links clicked, via cookies and similar technologies.
+    
+    AWS does not knowingly share personal information about consumers who are under the age of 18.
+    
+    **Your Data Rights**. You may have certain data rights under state privacy laws, including to request information about the collection of your personal information by us, to access your personal information in a portable format, and to correct or delete your personal information. If you wish to do any of these things and you are an AWS customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256). If you are not an AWS customer, or you are an authorized agent under applicable state law, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or at the address under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. Additionally, you may have the right to opt out of the processing of your personal data for cross-context behavioral advertising (also referred to as targeted advertising under certain state privacy laws). To do so, please click on the Your Privacy Choices link in the footer of the AWS website that you’re visiting and follow the instructions presented. You can also opt out of such advertising based on cookies or similar technologies by visiting our websites with a legally recognized opt-out preference signal, such as the Global Privacy Control, enabled.
+    
+    You may have the right to appeal the denial of any of these rights by submitting a form that will be provided to you if we deny a data request. Depending on your data choices, certain services may be limited or unavailable.
     
     To ensure the security of your AWS account, we will generally ask you to verify your request using the contact information you have already provided. If you are an authorized agent making a request on behalf of a consumer pursuant to applicable state law, we may ask you to provide information verifying you have proper authority to make the request on behalf of the consumer or we may ask the consumer to verify their identity with us directly.  
-    
-    **No sale or sharing of personal information**. We do not sell or share any personal information of consumers, as those terms are defined under the California Privacy Rights Act.
     
     **De-identified Data Disclosure.** AWS may use de-identified data in some instances. AWS either maintains such data without attempting to re-identify it or treats such data as personal data subject to applicable law.
     
@@ -499,9 +515,9 @@ Customers can access the information above through AWS Offerings, such as the [A
 Privacy Notice
 ==============
 
-#### Last Updated: February 21, 2025
+#### Last Updated: May 12, 2025
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20250218/).
+To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20250221/).
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
@@ -545,14 +561,14 @@ We use your personal information to operate, provide, and improve AWS Offerings.
 * **Recommendations and Personalization:** We use your personal information to recommend AWS Offerings that might be of interest to you, identify your preferences, and personalize your experience with AWS Offerings.
 * **Comply with Legal Obligations:** In certain cases, we have a legal obligation to collect, use, or retain your personal information. For example, we collect bank account information from AWS Marketplace sellers for identity verification.
 * **Communicate with You:** We use your personal information to communicate with you in relation to AWS Offerings via different channels (e.g., by phone, email, chat) and to respond to your requests.
-* **Marketing:** We use your personal information to market and promote AWS Offerings. 
+* **Marketing and Advertising:** We use your personal information to market, advertise, and promote AWS Offerings. 
 * **Fraud and Abuse Prevention and Credit Risks:** We use your personal information to prevent and detect fraud and abuse in order to protect the security of our customers, AWS, and others. We may also use scoring methods to assess and manage credit risks.
 * **Purposes for Which We Seek Your Consent:** We may also ask for your consent to use your personal information for a specific purpose that we communicate to you.  
     
 
 #### Cookies
 
-To enable our systems to recognize your browser or device and to provide, market, and improve AWS Offerings, we and approved third parties use cookies and other identifiers. For more information about cookies and how we use them, please read our [Cookie Notice](https://aws.amazon.com/legal/cookies/).  
+To enable our systems to recognize your browser or device, and to provide, market, and improve AWS Offerings, and to advertise to you on third-party websites and services, we and approved third parties use cookies and other identifiers. For more information about cookies and how we use them, please read our [Cookie Notice](https://aws.amazon.com/legal/cookies/).  
 
 #### How We Share Personal Information
 
@@ -579,6 +595,10 @@ At AWS, security is our highest priority. We design our systems with your securi
 * We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal information. Our security procedures mean that we may request proof of identity before we disclose personal information to you.  
     
 
+### Advertising
+
+To help you receive more useful and relevant ads on other sites and services and to measure their effectiveness, AWS shares limited personal information with our advertising partners. We don’t share your name or other information that directly identifies you when we do this. Instead, we use an identifier like a cookie or a unique code derived from your contact information (such as a hashed email address). If you want to adjust your personalized advertising preferences, refer to the “Access and Choice” section below.
+
 #### Access and Choice
 
 You can view, update, and delete certain information about your account and your interactions with AWS Offerings. Click [here](#Information_You_Can_Access) for a list of examples of information that you can access. If you cannot access or update your information yourself, you can always contact us for assistance.
@@ -587,6 +607,7 @@ You have choices about the collection and use of your personal information. Many
 
 * **Account Information:** If you want to add, update, or delete information related to your account, please go to the [AWS Management Console](https://console.aws.amazon.com/billing/home?#/account). When you update or delete any information, we usually keep a copy of the prior version for our records.
 * **Communications:** If you do not want to receive promotional messages from us, please unsubscribe or adjust your communication preferences in the [AWS Management Console](https://console.aws.amazon.com/billing/home?#/preferences) or the [AWS Email Preference Center](https://pages.awscloud.com/communication-preferences.html). If you do not want to receive in-app notifications from us, please adjust your notification settings in the app or your device.
+* **Advertising:** If you are located in the United States, you may opt-out of personalized advertising, including cross-context behavioral advertising, by clicking the “Your Privacy Choices” link in the footer of the AWS site you’re visiting and following the instructions presented. If you are located outside the United States, you may adjust your personalized advertising preferences by filling out the form available [here](https://pulse.aws/application/ZRPLWLL6) [](#_msocom_1)and by following the Cookie Preferences instructions below.
 * **Cookies Preferences:** You can change your cookie preferences on AWS sites at any time by clicking Cookie Preferences in the footer of the AWS site. You can also manage cookies through your browser settings. The "Help" feature on most browsers and devices will tell you how to remove cookies from your device, how to prevent your browser or device from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 * **Sellers and Amazon Partners:** Sellers and Amazon Partner Network members can add, update, or delete information in the [AWS Marketplace](https://aws.amazon.com/marketplace/account-management) and [APN Partner Central](https://partnercentral.awspartner.com/SiteLogin), respectively.  
     
@@ -700,6 +721,10 @@ We provide additional information about our controllers and data protection offi
     * request us to restrict the processing of personal information where the processing is inappropriate;
     * object to the processing of personal information; and
     * request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means.
+    
+    **Advertising**. To help you receive more useful and relevant ads on other sites and services and to measure their effectiveness, AWS shares limited personal information with our advertising partners. If you provide your consent, we use advertising cookies and similar technologies. You can withdraw your consent by clicking on the “Cookie Preferences” link presented in the footer of the AWS website you’re visiting.
+    
+    We may also share a unique code derived from your contact information (such as a hashed email address) with our advertising partners. We don’t share your name or other information that directly identifies you when we do this. We rely on our legitimate interests for this processing, including to help you find and discover features, products, and services that might be of interest to you. To opt out, click the link [here](https://pulse.aws/application/ZRPLWLL6).[](#_msocom_1)
     
     **Questions and Contacts.** If you wish to do any of these things or have a data-protection related question, and you are an AWS customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html). 
     
@@ -858,7 +883,7 @@ We provide additional information about our controllers and data protection offi
     
 * United States
     
-    These additional disclosures are required by certain state privacy laws to the extent they apply to your use of AWS Offerings, and serve as a Notice at Collection under the California Privacy Rights Act.
+    These additional disclosures are required by certain state privacy laws to the extent they apply to your use of AWS Offerings, and serve as a Notice at Collection under the California Privacy Rights Act. Information about our customers is an important part of our business and we are not in the business of selling our customers’ personal information to others. 
     
     **Categories of personal information collected**. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Privacy Rights Act and other state privacy laws, depending on how you engage with the AWS Offerings:
     
@@ -902,11 +927,18 @@ We provide additional information about our controllers and data protection offi
     
     For more information about the personal information we may disclose for a business purpose, click [here](https://aws.amazon.com/privacy/#How_We_Share_Personal_Information).
     
-    **Your Data Rights**. You may have certain data rights under state privacy laws, including to request information about the collection of your personal information by us, to access your personal information in a portable format, and to correct or delete your personal information. If you wish to do any of these things and you are an AWS customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256). If you are not an AWS customer, or you are an authorized agent under applicable state law, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or at the address under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. Additionally, you may have the right to appeal the denial of any of these rights by submitting a form that will be provided to you if we deny a data request. Depending on your data choices, certain services may be limited or unavailable.
+    **Advertising.** To help ensure you receive more useful and relevant ads on other sites and services and to measure their effectiveness, AWS shares limited personal information with our advertising partners. We don’t share your name or other information that directly identifies you when we do this. Any personal information AWS may share for the purpose of cross-context behavioral advertising, as those terms are defined by the California Privacy Rights Act, or processes for the purposes of targeted advertising as that term is defined in other state privacy laws, above falls into the following categories:
+    
+    * identifiers such as a cookie, or a hashed value derived from your contact information, such as your email address;
+    * internet or other electronic network activity information, such as web browser information, pages viewed, or links clicked, via cookies and similar technologies.
+    
+    AWS does not knowingly share personal information about consumers who are under the age of 18.
+    
+    **Your Data Rights**. You may have certain data rights under state privacy laws, including to request information about the collection of your personal information by us, to access your personal information in a portable format, and to correct or delete your personal information. If you wish to do any of these things and you are an AWS customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256). If you are not an AWS customer, or you are an authorized agent under applicable state law, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or at the address under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. Additionally, you may have the right to opt out of the processing of your personal data for cross-context behavioral advertising (also referred to as targeted advertising under certain state privacy laws). To do so, please click on the Your Privacy Choices link in the footer of the AWS website that you’re visiting and follow the instructions presented. You can also opt out of such advertising based on cookies or similar technologies by visiting our websites with a legally recognized opt-out preference signal, such as the Global Privacy Control, enabled.
+    
+    You may have the right to appeal the denial of any of these rights by submitting a form that will be provided to you if we deny a data request. Depending on your data choices, certain services may be limited or unavailable.
     
     To ensure the security of your AWS account, we will generally ask you to verify your request using the contact information you have already provided. If you are an authorized agent making a request on behalf of a consumer pursuant to applicable state law, we may ask you to provide information verifying you have proper authority to make the request on behalf of the consumer or we may ask the consumer to verify their identity with us directly.  
-    
-    **No sale or sharing of personal information**. We do not sell or share any personal information of consumers, as those terms are defined under the California Privacy Rights Act.
     
     **De-identified Data Disclosure.** AWS may use de-identified data in some instances. AWS either maintains such data without attempting to re-identify it or treats such data as personal data subject to applicable law.
     
