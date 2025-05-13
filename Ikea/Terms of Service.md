@@ -4,7 +4,7 @@ Terms and Conditions
 **About these Terms and Conditions**
 ------------------------------------
 
-If you buy with us in-store or shop online, these **[General Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/general-terms-and-conditions-pubf0169731/)** will apply (unless local store terms also apply). We have other important terms that we like you to read including our **[Privacy policy,](https://www.ikea.com/ie/en/customer-service/privacy-policy/)** **[Returns policy](https://www.ikea.com/ie/en/customer-service/return-policy/)** and [**WEEE white goods collection**](https://www.ikea.com/ie/en/customer-service/services/removal/electrical-recycling-pub61bfaa11/) (collection of your old appliances for free on a like-for-like, one-for-one basis).
+If you buy with us in-store or shop online, these **[General Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/general-terms-and-conditions-pubf0169731/)** will apply (unless local store terms also apply). We have other important terms that we like you to read including our **[Privacy policy,](https://www.ikea.com/ie/en/customer-service/privacy-policy/)** **[Returns policy](https://www.ikea.com/ie/en/customer-service/return-policy/)** and [**WEEE white goods collection**](https://www.ikea.com/ie/en/customer-service/services/removal/electrical-recycling-pub61bfaa11/).
 
 **The formal stuff**
 
