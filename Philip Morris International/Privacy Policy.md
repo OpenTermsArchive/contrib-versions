@@ -184,7 +184,7 @@ If you are in Germany, we share information about you with SCHUFA Holding AG, Ko
 
 _**If you are in Japan, find out more…**_
 
-If you are in Japan, note that we share information about you described in this notice as being collected by us, for the purposes described in this notice, with Dentsu Promotion Plus Inc. (“Dentsu”), the operator of IQOS Stores, IQOS Online Store and IQOS Telesales Center, on the basis of “joint use” under Japanese data protection laws. When we do this, Philip Morris Japan Limited ([](https://pmiprivacy.com/en/consumer/affiliates)[here](https://pmiprivacy.com/global/en/consumer/affiliates/) for details) continues to manage your personal information responsibly, and we require Dentsu to do the same.
+If you are in Japan, note that we share information about you described in this notice as being collected by us, for the purposes described in this notice, with Dentsu Promotion Plus Inc. (“Dentsu”), the operator of IQOS Stores, IQOS Online Store and IQOS Telesales Center, on the basis of “joint use” under Japanese data protection laws. When we do this, Philip Morris Japan Limited ([here](https://pmiprivacy.com/global/en/consumer/affiliates/) for details) continues to manage your personal information responsibly, and we require Dentsu to do the same.
 
 Where might information about you be sent?
 ------------------------------------------
