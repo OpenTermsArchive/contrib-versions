@@ -3,7 +3,7 @@ Pangea temporary hotfixes here
 Logitech Privacy Policy
 -----------------------
 
-**Last updated:** February 2025
+**Last updated:** May 2025
 
 Logitech’s previous Privacy Policy can be viewed [here](https://www.logitech.com/en-gb/legal/privacy-policy/privacy-policy-archive.html).
 
@@ -346,7 +346,7 @@ In compliance with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK E
 
 To invoke any of these rights and resolve enquiries or complaints, please contact us through the following methods:
 
-* For access and deletion requests, please go to the [Logitech Privacy Portal](https://logitech-privacy.relyance.ai/).
+* For access and deletion requests, please email privacy@logitech.com.
     
 * For opting out of receiving marketing emails, you can do so at any time by clicking the "unsubscribe" link in the email; by visiting our Preference Center; or by logging into your Logitech account and navigating to Email Preferences.
     
