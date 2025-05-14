@@ -268,7 +268,7 @@ We may combine information about you from third party sources (such as LinkedIn,
     * SurveyMonkey may use first party machine learning or third party artificial intelligence tools on data around the type of survey the Creator has sent you, the question type, survey responses (at an aggregated and de-identified/pseudonymized level only where possible), and device and event data associated with responses to  fulfill our contract with Creators and provide Creators with useful and relevant insights from the data they have collected using our services. Specifically, we use machine learning on survey data to help Creators by:
         * identifying trends in their responses; 
         * ongoing training of models to optimize responses; 
-        * making product recommendations and providing guidance on which products and services work best in different scenarios (For an example of this check out how SurveyMonkey Genius works here);
+        * making product recommendations and providing guidance on which products and services work best in different scenarios
         * Extracting and analyzing usage patterns, for example, we might identify when respondents prefer multiple choice versus open text questions and make predictive response suggestions when certain question types are selected. We might also use this data to help improve analysis of responses;
         * undertaking personalization for survey Creators; 
         * improving user experience (for example, by collecting and using device and browser information from Respondents to improve how our survey service operates on those devices and in those browsers or by altering questions to match the responses being provided by a Respondent); and
