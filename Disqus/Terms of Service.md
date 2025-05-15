@@ -5,7 +5,7 @@ Disqus' Terms of Service for Users and Publishers.
 
 Written by Disqus
 
-Updated over 12 months ago
+Updated today
 
 DISQUS TERMS
 ============
@@ -21,7 +21,7 @@ THESE TERMS CONTAIN A MANDATORY ARBITRATION OF DISPUTES PROVISION THAT REQUIRES 
 
 **Use of the Service**. 
 
-You may only access and use the Service if you agree to be bound by these Terms, are over the age of 13, and are not a person barred from receiving or using the Services under the laws of the applicable jurisdiction.  If you are accepting these Terms and using the Service on behalf of a company, organization, government or other legal entity, you represent and warrant that you are authorized to do so. In the event you breach these Terms, or violate the [Basic Rules of Disqus](https://help.disqus.com/terms-and-policies/basic-rules-for-disqus), Disqus may, in our sole discretion, revoke your rights to use the Service and terminate your account.
+You may only access and use the Service if you agree to be bound by these Terms, are over the age of 18, and are not a person barred from receiving or using the Services under the laws of the applicable jurisdiction.  If you are accepting these Terms and using the Service on behalf of a company, organization, government or other legal entity, you represent and warrant that you are authorized to do so. In the event you breach these Terms, or violate the [Basic Rules of Disqus](https://help.disqus.com/terms-and-policies/basic-rules-for-disqus), Disqus may, in our sole discretion, revoke your rights to use the Service and terminate your account.
 
 **License to Use the Service.** 
 
