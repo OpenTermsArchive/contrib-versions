@@ -5,8 +5,8 @@ Discord Privacy Policy
 
 #### Last Updated: March 15, 2024
 
-**Welcome!**
-------------
+Welcome!
+--------
 
 This Privacy Policy explains how we collect, use, store, protect, and share your personal information through our services. If you reside in the European Economic Area (“EEA”) or United Kingdom, Discord Netherlands BV is the “data controller” of your personal information collected through the services (as defined in our [Terms of Service](https://discord.com/terms)). For everyone else, Discord Inc. is the data controller. It’s important that you read this entire policy, but here’s a summary to get you started:
 
