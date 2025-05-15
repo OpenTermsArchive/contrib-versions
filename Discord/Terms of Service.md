@@ -5,13 +5,6 @@ Discord's Terms of Service
 
 #### Last Updated: March 15, 2024
 
-Who we are
-----------
-
-We provide services that allow you to interact with other Discord users (such as through direct messages and group direct messages) and participate in large and small spaces (or “servers”). Our services may also include access to certain software, features, and content, including items that you can purchase from us or others. Additional [terms](https://discord.com/terms/paid-services-terms) may apply to those purchases.
-
-Discord Inc. is located at 444 De Haro Street #200, San Francisco, CA 94107, USA. Discord Netherlands B.V. is located at Schiphol Boulevard 195, 1118 BG Schiphol, Netherlands.
-
 Welcome! Discord is the best place to talk, hang out and have fun with friends online. We’re happy you’re here.
 
 These terms set forth our legal obligations to each other. They apply to your use of our services.
@@ -27,6 +20,13 @@ When we say “you” or “your,” we mean you. If you’re accessing our serv
 We also have a [Privacy Policy](https://discord.com/privacy), [Community Guidelines](https://discord.com/guidelines), and these [other policies](https://support.discord.com/hc/articles/4420312247575) that apply to your use of our services and are incorporated into these terms. You should read these policies—we’ve worked hard to make them simple and clear, and they contain important information about your use of our services. If you use our API, Discord’s [Developer Terms of Service](https://discord.com/developers/docs/legal) and [Developer Policy](https://discord.com/developers/docs/policy) apply to that use. Discord’s [Paid Services Terms](https://discord.com/terms/paid-services-terms) apply to any purchase you make through Discord, and Discord’s [Monetization Terms](https://support.discord.com/hc/en-us/articles/5330075836311-Monetization-Terms) apply to any sales you make through Discord.
 
 Together, these rules make Discord possible, and they matter to us. If you believe others aren’t following them, please let us know [by reporting it to us](https://discord.com/safety/360044103651-reporting-abusive-behavior-to-discord).
+
+Who we are
+----------
+
+We provide services that allow you to interact with other Discord users (such as through direct messages and group direct messages) and participate in large and small spaces (or “servers”). Our services may also include access to certain software, features, and content, including items that you can purchase from us or others. Additional [terms](https://discord.com/terms/paid-services-terms) may apply to those purchases.
+
+Discord Inc. is located at 444 De Haro Street #200, San Francisco, CA 94107, USA. Discord Netherlands B.V. is located at Schiphol Boulevard 195, 1118 BG Schiphol, Netherlands.
 
 Age requirements and responsibility of parents and legal guardians
 ------------------------------------------------------------------
