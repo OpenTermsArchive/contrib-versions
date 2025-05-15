@@ -24,6 +24,7 @@ Roblox Community Standards
         * [Prohibited Advertising Practices and Content](#prohibited-advertising-practices-and-content)
     * [Roblox Economy](#roblox-economy)
         * [Promotional Offers](#promotional-offers)
+        * [Commerce](#commerce)
         * [Soliciting Donations](#soliciting-donations)
         * [Paid Random Items](#paid-random-items)
 * [Security](#security)
@@ -265,6 +266,10 @@ Roblox maintains the Robux system for everyone’s benefit and enjoyment. To kee
 
 Promotional Offers Developers may not independently use off-platform services or products to sell on-platform items (including exclusive features or other in-experience enhancements) for money or Robux, either directly or as a bundle with another transaction or exchange. All off-platform commercial promotions bundled with on-platform rewards must be created in contractual agreement with Roblox. Find more details on acceptable promo codes [here](https://en.help.roblox.com/hc/articles/10549651908244). To inquire about entering into a contractual agreement with Roblox, submit a form [here](https://corp.roblox.com/request-approval).
 
+Commerce Developers leveraging our Commerce program and features must comply with the [Commerce Standards.](https://en.help.roblox.com/hc/articles/36495190721172)  
+  
+[Eligible developers](https://create.roblox.com/docs/en-us/production/monetization/commerce-products#eligibility) may link to authorized Shopify stores in order to sell physical products within their experience(s). Certain developers may also be eligible to bundle a digital reward with a user's purchase of their physical products. To learn more about offering physical products for sale within your experience, please click [here](https://create.roblox.com/docs/en-us/production/monetization/commerce-products).
+
 Soliciting Donations We also do not allow our community to solicit donations for a charitable cause on Roblox, including:
 
 * In-experience prompts for users to donate Robux toward a crowdfunding campaign
@@ -337,13 +342,14 @@ For more information about creating bundles that comply with these policies, inc
 
 For more information about how to safely offer text chat in your experience, please see [here](https://devforum.roblox.com/t/migrate-to-textchatservice-removing-support-for-legacy-chat-and-custom-chat-systems/3237100).
 
-Last Updated: February 26, 2025
+Last Updated: May 15, 2025
 
 Change Log
 
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| May 15, 2025 | Added a new "Commerce" section under Roblox Economy, requiring developers using the Commerce feature to comply with the Commerce Standards. <br><br>Effective May 15, 2025 |
 | February 26, 2025 | Added clarification and new resource links for the following Community Standard:<br><br>* * Promotional Offers sub-section of Roblox Economy<br><br>Effective February 26, 2025 |
 | November 21, 2024 | Updated the following Community Standard:<br><br>* * Discrimination, Slurs, and Hate Speech<br>    * Removed repeat language<br><br>Effective November 21, 2024 |
 | November 18, 2024 | Replaced mentions of 17+ Experiences Policy with the new Restricted Content Policy<br><br>Effective November 18, 2024 |
