@@ -186,7 +186,7 @@ Browse Categories
 * [Advertise With Us](https://www.webpronews.com/advertise/)
 * [Newsletter Signup](https://www.webpronews.com/subscribe)
 
-[](https://www.facebook.com/WebProNews/)[](https://twitter.com/WebProNews)[](https://www.linkedin.com/company/webpronews)
+[](https://www.facebook.com/WebProNews/)[](https://twitter.com/WebProNews)[](https://www.linkedin.com/company/webpronews)[](https://www.webpronews.com/rss)
 
 [Request Media Kit](https://www.webpronews.com/advertise)
 
@@ -239,7 +239,7 @@ WebProNews is a leading publisher of business and technology email newsletters a
 
 [Contact Us](https://www.webpronews.com/contact-us/subscribe?utm_source=main_header&utm_medium=site&utm_campaign=medie_kit_pop)
 
-[](https://www.facebook.com/WebProNews/)[](https://twitter.com/WebProNews)[](https://www.linkedin.com/company/webpronews)
+[](https://www.facebook.com/WebProNews/)[](https://twitter.com/WebProNews)[](https://www.linkedin.com/company/webpronews)[](https://www.webpronews.com/rss)
 
 Reach our audience
 
@@ -254,8 +254,6 @@ Publication Categories
 * [Developer](https://www.webpronews.com/developer/)
 * [Retail & eCommerce](https://www.webpronews.com/ecommerce/)
 * [Emerging Tech](https://www.webpronews.com/emergingtech/)
-* [Life](https://www.webpronews.com/life/)
-* [SoftwareEngineeringNews](https://www.webpronews.com/softwareengineeringnews/)
 * [IT Management](https://www.webpronews.com/technology/)
 
 Advertise With Us
