@@ -269,3 +269,23 @@ We may update this privacy policy from time to time. The updated version will be
 --------------------------------------------------
 
 If you have questions or comments about this policy, you may email us at [support@zora.co](mailto:support@zora.co).
+
+Was this article helpful?
+-------------------------
+
+Yes
+
+No
+
+Sorry about that! Care to tell us more?
+
+What was unhelpful?
+
+Submit
+
+Thanks for the feedback!
+------------------------
+
+There was an issue submitting your feedback
+
+Please check your connection and try again.
