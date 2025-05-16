@@ -1,7 +1,7 @@
 AWS Service Terms
 =================
 
-#### Last Updated: May 15, 2025
+#### Last Updated: May 16, 2025
 
 #### 1\. Universal Service Terms (Applicable to All Services)
 
@@ -882,8 +882,6 @@ Notwithstanding any other provision of the Agreement, you may incorporate into y
 **50.13.2. Other Service Improvement.** You agree and instruct that we may also use Amazon Q Content that does not contain personal data to develop and improve AWS and affiliate machine-learning and artificial intelligence technologies including to train machine-learning models.
 
 **50.13.3. Further Instructions.** You may instruct AWS not to use and store Amazon Q Content for service improvement as described in this Section 50.13 by (i) configuring an AI services opt-out policy using AWS Organizations, (ii) if you use Amazon Q in the IDE, by adjusting your settings in the IDE, or (iii) using the opt-out mechanism described in the Amazon Q documentation.
-
-**50.14. AWS Transform.** By using AWS Transform, you agree to run the transformed workload on AWS for a minimum of 24 months from the date that the transformation is complete.
 
 #### 51\. Amazon Lightsail
 
