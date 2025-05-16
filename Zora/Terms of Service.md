@@ -446,3 +446,23 @@ You understand that you are responsible for all conduct and activities associate
 ### **5\. ELIGIBILITY REQUIREMENTS**
 
 Pursuant to Section 2.1 of the Terms, persons subject to economic and trade sanctions and/or located in a jurisdiction subject to economic and trade sanctions, among others, are not eligible to access or use the Services. Additionally, the Zora Network is designed to programmatically restrict persons subject to economic and trade sanctions and/or located in a jurisdiction subject to economic and trade sanctions from accessing the Zora Network.
+
+Was this article helpful?
+-------------------------
+
+Yes
+
+No
+
+Sorry about that! Care to tell us more?
+
+What was unhelpful?
+
+Submit
+
+Thanks for the feedback!
+------------------------
+
+There was an issue submitting your feedback
+
+Please check your connection and try again.
