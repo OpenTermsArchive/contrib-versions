@@ -52,7 +52,7 @@ Periscope retains different types of information for different time periods. Bro
 ### Data Controller  
 
   
-For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is X Corp. based in San Francisco, California. For people who live in the European Union or the European Economic Area, the data controller is Twitter International Unlimited Company based in Dublin, Ireland.
+For people who live in the United States or any other country outside of the European Union or the European Economic Area, the data controller responsible for personal data is X Corp. based in Bastrop, Texas. For people who live in the European Union or the European Economic Area, the data controller is X Internet Unlimited Company based in Dublin, Ireland.
 
 ### Preservation requests
 
@@ -76,7 +76,7 @@ Law enforcement and government preservation requests for user information may be
 ### Requests for X account information  
 
   
-Requests for user account information from law enforcement should be directed to X Corp. in San Francisco, California or Twitter International Unlimited Company in Dublin, Ireland. X responds to valid legal process issued in compliance with applicable law.
+Requests for user account information from law enforcement should be directed to X Corp. in Bastrop, Texas or X Internet Unlimited Company in Dublin, Ireland. X responds to valid legal process issued in compliance with applicable law.
 
 ### **Private information requires a subpoena or court order**  
 
@@ -150,7 +150,7 @@ X’s policy is to promptly respond to requests that are properly issued via mut
 **  
 How to request a terms of service review**
 
-If you are a law enforcement agent or government official and would like to have potentially illegal content removed from X for violating local law(s), please first review the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules) and, if applicable, submit a request to have the content reviewed for possible violations of our [Terms of Service](https://twitter.com/en/tos). An overview on [how to report potential violations](https://help.twitter.com/en/rules-and-policies/twitter-report-violation) of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules) and [Terms of Service](https://twitter.com/en/tos) is available here. Reporting possible violations of our [Terms of Service](https://twitter.com/en/tos) will ensure that your request is routed to the appropriate team and processed expeditiously. We disclose this data every six months in the X Transparency Report.  
+If you are a law enforcement agent or government official and have concerns about the content on X, please first review the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules) and, if applicable, submit a request to have the content reviewed for possible violations of our [Terms of Service](https://twitter.com/en/tos). An overview on [how to report potential violations](https://help.twitter.com/en/rules-and-policies/twitter-report-violation) of the [X Rules](https://help.twitter.com/en/rules-and-policies/twitter-rules) and [Terms of Service](https://twitter.com/en/tos) is available here. Reporting possible violations of our [Terms of Service](https://twitter.com/en/tos) will ensure that your request is routed to the appropriate team and processed expeditiously. We disclose this data every six months in the X Transparency Report.  
  
 
 **How to submit a legal request to withhold content**
@@ -161,7 +161,7 @@ Along with identifying the specific post(s) or account(s) at issue, please ident
 
 X will promptly notify affected users about legal requests to withhold content, including a copy of the original request, unless we are legally prohibited from doing so. If you believe X is prohibited from notifying the user, please state the reason in your request, including citations to relevant law (where applicable), and/or upload any documents supporting this prohibition in the "File attachments" section, if available.
 
-Government and law enforcement reporters may also request the withholding of content determined to be illegal in their jurisdiction by mailing a hard copy of your request to the contact information listed below. If you are based in the European Union or the European Economic Area, please mail your request to Twitter International Unlimited Company in Ireland (see “Contact Information” section below). Requests submitted by mail should expect longer response times. 
+Government and law enforcement reporters may also request the withholding of content determined to be illegal in their jurisdiction by mailing a hard copy of your request to the contact information listed below. If you are based in the European Union or the European Economic Area, please mail your request to X Internet Unlimited Company in Ireland (see “Contact Information” section below). Requests submitted by mail should expect longer response times. 
 
 Find more information on our Country Withheld Content policy [here](https://help.twitter.com/en/rules-and-policies/tweet-withheld-by-country).
 
@@ -204,16 +204,15 @@ Receipt of correspondence by this means does not waive any objections, including
 Our address details are:
 
 **X Corp.  
-**c/o Trust & Safety - Legal Policy  
-1355 Market Street, Suite 900  
-San Francisco, CA 94103
+**Attn: Safety - Legal Policy  
+865 FM 1209 Bldg. 2  
+Bastrop, TX 78602
 
-**Twitter International Unlimited Company  
-**c/o Trust & Safety - Legal Policy  
-One Cumberland Place  
-Fenian Street  
-Dublin 2  
-D02 AX07  
+**X Internet Unlimited Company**  
+One Cumberland Place,  
+Fenian Street,  
+Dublin 2,  
+D02 AX07,  
 Ireland
 
 Receipt of correspondence by any of these means is for convenience only and does not waive any objections, including the lack of jurisdiction or proper service. Governmental entities who do not submit legal requests through the Legal Request Submissions site should expect longer response times.
