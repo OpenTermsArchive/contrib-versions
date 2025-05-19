@@ -2,13 +2,13 @@ Gartner and its affiliates are committed to protecting your information. Please 
 
 **Gartner companies issuing the Policy**
 
-In this Policy, references to "we," "us," or "Gartner" are references to Gartner Inc. and all its group companies doing business under the Gartner name listed [here](https://www.gartner.com/technology/contact/worldwide_offices.jsp). Certain Gartner products and/or services which may be linked through [www.gartner.com](https://www.gartner.com/en) or Gartner group companies with different business models have their own applicable privacy policies, and this Policy does not apply to them. Those companies include [Evanta](https://www.evanta.com/terms/privacy_policy) and the [Gartner Digital Markets Companies](https://www.gartner.com/en/digital-markets) of [Capterra](https://www.capterra.com/legal/privacy-policy), [GetApp](https://www.getapp.com/privacy_policy), [Software Advice](https://www.softwareadvice.com/affiliate-privacy/) and [UpCity.](https://upcity.com/privacy-policy/)
+In this Policy, references to "we," "us," or "Gartner" are references to Gartner Inc. and all its group companies doing business under the Gartner name listed [here](https://www.gartner.com/technology/contact/worldwide_offices.jsp). Certain Gartner products and/or services which may be linked through [www.gartner.com](https://www.gartner.com/en) or Gartner group companies with different business models have their own applicable privacy policies, and this Policy does not apply to them. Those companies include [Gartner C-level Communities](https://www.evanta.com/terms/privacy_policy) (formely Evanta) and the [Gartner Digital Markets Companies](https://www.gartner.com/en/digital-markets) of [Capterra](https://www.capterra.com/legal/privacy-policy), [GetApp](https://www.getapp.com/privacy_policy), [Software Advice](https://www.softwareadvice.com/affiliate-privacy/) and [UpCity.](https://upcity.com/privacy-policy/)
 
 Gartner and all its group companies will have access to information on individuals covered by this Policy. A list of our entities can be found [here](https://www.gartner.com/en/contact/worldwide-offices).
 
 **How to Contact Us**
 
-Questions, comments and requests regarding this Privacy Policy should be addressed to our Data Protection Office by completing the form at [www.gartner.com/personaldatarequest](http://www.gartner.com/personaldatarequest), via email at [privacy@gartner.com](mailto:privacy@gartner.com) or regular mail at:
+Questions, comments and requests regarding this Privacy Policy should be addressed to our Data Protection Office by completing the form [here](https://www.gartner.com/en/requests/personaldata), via email at [privacy@gartner.com](mailto:privacy@gartner.com) or regular mail at:
 
 Global Data Protection Office  
 Legal Department  
@@ -152,7 +152,7 @@ We may share information with our organizational clients about how their employe
 
 ### 3\. DATA SUBJECT RIGHTS
 
-In certain circumstances, you have certain rights regarding your personal information. A summary of each right and how you can exercise it is set out below. To opt out of receiving commercial communications, please send an email to privacy@gartner.com. To exercise any of your other rights (such as the right to access or deletion of your information), please complete the form at [www.gartner.com/personaldatarequest](http://www.gartner.com/personaldatarequest).  Such requests should include information to allow us to verify your identity (e.g., your name, address, email address or other information reasonably required). If you are a California resident, please refer to Section 11 below for more detailed information on your rights under California law. 
+In certain circumstances, you have certain rights regarding your personal information. A summary of each right and how you can exercise it is set out below. To exercise any of your other rights (such as the right to access or deletion of your information), please complete the form [here](https://www.gartner.com/en/requests/personaldata).  Such requests should include information to allow us to verify your identity (e.g., your name, address, email address or other information reasonably required). If you are a California resident, please refer to Section 10 below for more detailed information on your rights under California law. 
 
 Where we receive your request to exercise one of these rights, we will respond without undue delay and within the time required by applicable law. This may be extended in certain circumstances, e.g., where requests are complex or numerous.
 
@@ -177,6 +177,8 @@ Gartner may transfer and maintain the personal information of individuals covere
 The countries to which we transfer data outside of the EEA may include any of the countries in which Gartner does business. A list of Gartner office locations can be found [here](https://www.gartner.com/technology/contact/worldwide_offices.jsp).
 
 All Gartner entities have signed an Intragroup Agreement containing the European Union (“EU”) Commission Approved Standard Contractual Clauses for the transfer of data outside the European Economic Area. All Gartner entities have the same technical, physical, and administrative security controls and are required to comply with our data protection policies and procedures, applicable laws, and the terms of our client and member contracts governing the collection and use of information.
+
+Gartner complies with the EU-U.S. Data Privacy Framework (EU-U.S. DPF) and the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF) as set forth by the US Department of Commerce. For more information, refer to our [Data Privacy Framework Notice](https://www.gartner.com/en/about/policies/privacy-framework-notice "Data Privacy Framework Notice").
 
 ### 5\. RETENTION PERIODS
 
@@ -265,7 +267,7 @@ Do Not Share My Personal Information
 
 You may have the right to receive information about the financial incentives that we offer to you (if any). You also have the right to not be discriminated against (as provided for in applicable law) for exercising certain of your rights. Certain information may be exempt from such requests under applicable law. For example, we need certain types of information so that we can provide the Services to you and for compliance with applicable law. If you ask us to delete certain information, you may no longer be able to access or use the Services.
 
-If would like to exercise any of these rights, please complete the form at [www.gartner.com/personaldatarequest](http://www.gartner.com/personaldatarequest) or send your written request to Data Protection Counsel, Americas, Gartner, 1201 Wilson Blvd., Arlington, VA. You will be required to verify your identity before we fulfill your request. You can also designate an authorized agent to make a request on your behalf. To do so, you must provide us with written authorization or a power of attorney, signed by you, for the agent to act on your behalf. You will still need to verify your identity directly with us.
+If you would like to exercise any of these rights, please email us at [privacy@gartner.com](mailto:privacy@gartner.com), contact us [here](https://www.gartner.com/en/requests/personaldata), or send your written request to Data Protection Counsel, Americas, Gartner, 1201 Wilson Blvd., Arlington, VA. You will be required to verify your identity before we fulfill your request. You can also designate an authorized agent to make a request on your behalf. To do so, you must provide us with written authorization or a power of attorney, signed by you, for the agent to act on your behalf. You will still need to verify your identity directly with us.
 
 Subject to certain limits under California Civil Code § 1798.83, California residents may request certain information regarding our disclosure of information to third parties for their direct marketing purposes. To make such a request, please contact us as specified at the beginning of this Privacy Policy.
 
@@ -275,4 +277,4 @@ Do Not Track (“DNT”) is a privacy preference that users can set in certain w
 
 ### 11\. NEVADA PRIVACY RIGHTS
 
-Nevada law requires us to provide certain Nevada consumers the ability to opt out of the “sale” of “personally identifiable information” as such terms are defined under Nevada law.  We do not engage in such activity; however, if you are a Nevada resident who has purchased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by emailing [privacy@gartner.com](mailto:privacy@gartner.com). Once verified, we will maintain your request in the event our practices change.
+Nevada law requires us to provide certain Nevada consumers the ability to opt out of the “sale” of “personally identifiable information” as such terms are defined under Nevada law.  We do not engage in such activity; however, if you are a Nevada resident who has purchased goods or services from us, you may submit a request to opt out of any potential future sales under Nevada law by completing the form [here](https://www.gartner.com/en/requests/personaldata) or emailing [privacy@gartner.com](mailto:privacy@gartner.com). Once verified, we will maintain your request in the event our practices change.
