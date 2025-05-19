@@ -200,7 +200,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -459,7 +459,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -1022,7 +1022,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -1281,7 +1281,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -1816,7 +1816,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -2075,7 +2075,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -2547,7 +2547,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -2977,7 +2977,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -3407,7 +3407,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -3837,7 +3837,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -4267,7 +4267,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -4697,7 +4697,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -5008,7 +5008,7 @@ Retour
 
 * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
 * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-* [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+* [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
 * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
 * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
 
@@ -5183,7 +5183,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -5440,7 +5440,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -5697,7 +5697,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -5954,7 +5954,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -6211,7 +6211,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -6468,7 +6468,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -6725,7 +6725,7 @@ Recherche
             
             * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
             * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-            * [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+            * [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
             * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
             * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
             
@@ -6973,7 +6973,7 @@ Retour
 
 * [Accidents domestiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/accidents-domestiques)
 * [Activités en montagne](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/activites-en-montagne)
-* [Baignades et activités nautiques](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
+* [Baignades et activités nautiques : attention aux noyades !](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/baignades)
 * [Bricolage et produits ménagers](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/bricolage-et-produits-menagers)
 * [Santé et conduite](https://sante.gouv.fr/prevention-en-sante/risques-de-la-vie-courante/article/sante-et-conduite)
 
