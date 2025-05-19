@@ -1,7 +1,7 @@
 Wix.com Terms of Use
 ====================
 
-Last Revised: January 21, 2025
+Last Revised: May 19, 2025
 
 Welcome to Wix.com’s Terms of Use! We are truly excited to have you aboard. Thank you for choosing to use our services.
 
@@ -18,7 +18,7 @@ We understand that legal terms can be exhausting to read, and we’ve tried to m
 
 ### 1.1. Our Purpose
 
-Our services offer our Users (as defined below) the ability to easily create a beautiful and highly functional online presence, manage and promote businesses, content, and ideas, and have an overall great experience doing so – even without being tech-savvy or a design guru. As detailed below, we offer our users numerous tools and features for creating, publishing, and use of stunning websites, online e-commerce platforms, newsletters, galleries, media players, mobile apps, and other online and mobile applications, tools, and services. The online, and mobile websites, functionalities, and platforms created by Users are collectively referred to herein as **“User Platform(s)”**.
+Our services offer our Users (as defined below) the ability to easily create a beautiful and highly functional online presence, manage and promote businesses, content, and ideas, and have an overall great experience doing so – even without being tech-savvy or a design guru. As detailed below, we offer our users numerous tools and features for creating, publishing, and use of stunning websites, online e-commerce platforms, newsletters, galleries, media players, mobile apps, and other online and mobile applications, tools, and services. The online, and mobile websites, functionalities, designs and platforms created by Users are collectively referred to herein as **“User Platform(s)”**.
 
 #### #ItsThatEasy
 
