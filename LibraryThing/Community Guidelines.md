@@ -49,7 +49,7 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 
 #### Your own words
 
-* You may not post any content that violates copyright or other intellectual property law.
+* You may not post any content that violates the law, including copyright and other intellectual property law.
 * Do not plagiarize another member's content.
 * LibraryThing prohibits members from posting AI-created content (for example, produced by ChatGPT), unless clearly and prominently labelled as such for the purpose of discussion. All such content is prohibited in book reviews and summaries, even if labelled. This prohibition does not extend to the use of AI-generated cover images, as long as they are the actual cover images, or to cataloging material created by AI.
 
@@ -69,6 +69,7 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 * No purely "personal" groups (groups with fewer than two members).
 * Do not upload X-rated or otherwise highly objectionable pictures.
 * Do not upload suggestive images of minors or seeming minors.
+* LibraryThing rarely removes book covers, but will do so in cases where we believe the cover image may violate the law.
 * You may not impersonate another person, or other entity, on LibraryThing.
 * Your member name may not be pornographic, or an insult, either general or specific. Sheesh!
 * We may remove accounts with no books after three months. (But we have never done so.)
