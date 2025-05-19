@@ -252,11 +252,11 @@ Social plug-ins and social applications are operated by the social network thems
 
 Right to correct personal data
 
-You have the right to have information held about you corrected if it is not accurate. If any of the information that we have on file relating to your account needs to be updated, or you think it may be inaccurate, you can log in to My Vodafone to update it ([Login > My account](https://n.vodafone.ie/home/login.html)) or contact our [Customer Services](https://n.vodafone.ie/support) team.  
+You have the right to have information held about you corrected if it is not accurate. If any of the information that we have on file relating to your account needs to be updated, or you think it may be inaccurate, you can log in to My Vodafone to update it ([Login > My account](https://n.vodafone.ie/home/login.html)) or contact our [Customer Services](https://n.vodafone.ie/support.html) team.  
 
 Right to access personal data
 
-You have the right to make a request for a copy of the personal data that Vodafone holds about you. To make this request as an individual or an authorised 3rd party, please fill out the [online form](https://binaries.vodafone.co.uk/tizrehont83j/122j4pENa7QlOO086rERsd/ea767982fdfa0a00b6ce07398a8c95e8/subject-access-request-form.pdf) or post it to the address on the form. Alternatively, you can contact the [Customer Services team](https://n.vodafone.ie/support). We will take reasonable steps to confirm your identity before issuing any copy of your personal information.  
+You have the right to make a request for a copy of the personal data that Vodafone holds about you. To make this request as an individual or an authorised 3rd party, please fill out the [online form](https://binaries.vodafone.co.uk/tizrehont83j/122j4pENa7QlOO086rERsd/ea767982fdfa0a00b6ce07398a8c95e8/subject-access-request-form.pdf) or post it to the address on the form. Alternatively, you can contact the [Customer Services team](https://n.vodafone.ie/support.html). We will take reasonable steps to confirm your identity before issuing any copy of your personal information.  
 
 Right to data portability
 
@@ -286,7 +286,7 @@ There are various ways to opt out:
 
 * Log in to your Privacy Settings to manage your permissions; your [Privacy Settings](#privacysettings) will also provide you with the ability to opt out or into receiving personalised marketing.
     
-* Contact our customer services team – see the [contact us page](https://n.vodafone.ie/support);
+* Contact our customer services team – see the [contact us page](https://n.vodafone.ie/support.html);
     
 * Click the link at the end of a marketing email or text to unsubscribe;
     
@@ -309,7 +309,7 @@ Want to disable a cookie, or understand more about what these are? Check the [Co
 
 How to lodge a complaint
 
-If you want to contact us about any of your rights or to complain about how we use your information, contact our [Customer Services](https://n.vodafone.ie/support) team or email us at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com). We’ll do our best to help, but if you’re still unhappy, you can contact the Data Protection Commission. Contact details for the Data Protection Commissioner are:
+If you want to contact us about any of your rights or to complain about how we use your information, contact our [Customer Services](https://n.vodafone.ie/support.html) team or email us at [dataprotection.ie@vodafone.com](mailto:dataprotection.ie@vodafone.com). We’ll do our best to help, but if you’re still unhappy, you can contact the Data Protection Commission. Contact details for the Data Protection Commissioner are:
 
 * Email: [info@dataprotection.ie](mailto:info@dataprotection.ie)
     
@@ -902,7 +902,7 @@ Your rights
 Here's how you can exercise your rights. If you have any questions, please contact our Customer Service.
 
 Right to correct personal data  
-You have the right to have information held about you corrected if it is not accurate. If what we hold on you needs updating, or you think it may be inaccurate, you can log in to [My Vodafone](https://n.vodafone.ie/home/login.html) to update it (Login > My account) or contact our [Customer Care](https://n.vodafone.ie/support).
+You have the right to have information held about you corrected if it is not accurate. If what we hold on you needs updating, or you think it may be inaccurate, you can log in to [My Vodafone](https://n.vodafone.ie/home/login.html) to update it (Login > My account) or contact our [Customer Care](https://n.vodafone.ie/support.html).
 
 Right to access personal data  
 You have the right to make a request for a copy of the personal data that Vodafone holds about you. To make this request as an individual or an authorised 3rd party, please [download this form](https://binaries.vodafone.co.uk/tizrehont83j/122j4pENa7QlOO086rERsd/ea767982fdfa0a00b6ce07398a8c95e8/subject-access-request-form.pdf) and email or post it to the address on the form. Alternatively, you can contact the Customer Care on 1907.
@@ -1231,7 +1231,7 @@ If you no longer want to receive marketing messages from Vodafone, you can elect
 
 There are various ways to opt out:
 
-* Contact our customer services team – see the [contact us](https://n.vodafone.ie/support) page;
+* Contact our customer services team – see the [contact us](https://n.vodafone.ie/support.html) page;
     
 * Click the link at the end of a marketing email or text to unsubscribe;
     
@@ -1505,7 +1505,7 @@ Some of our products are developed in partnership with specific third party part
     
 * V-Camera, in partnership with [Arlo](http://netgear.com/about/privacy-policy/).
     
-* V-Luggage and V-Mini, in partnership with [Trackimo](https://trackimo.com/your-privacy/).
+* V-Luggage and V-Mini, in partnership with [Trackimo](https://trackimo.com/).
     
 
 We take the privacy of our users very seriously. We ask that you read this privacy statement carefully as it contains important information about how we will use your personal data.
