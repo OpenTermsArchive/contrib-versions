@@ -24,7 +24,9 @@ Any new features or tools added to the Website shall be subject to the Terms. Yo
 Use of the Website and the Services
 -----------------------------------
 
-By using the Website and or the Services, you confirm that you are at least 13 years old. The Services are not intended for anyone under the age of 13. If you are under the age of 13 or lack the authority to consent on behalf of users below this age (such as in an educational institution), you cannot use the Services.
+Our Service is generally not intended for users under the age of 16. We do not knowingly collect personal information from anyone under the age of 13 in ways not allowed by the Children's Online Privacy Protection Act (COPPA). If you are a parent or legal guardian and believe that your child has shared personal information in a way that is not allowed by law, please contact us at help@w3schools.com. We will look into it and delete the information as required by law.
+
+When a school uses our Services in an educational setting, it is the school's responsibility to ensure it has the legal right to share student information with us. This includes getting parental consent where the law requires it, such as under COPPA. By using our services on behalf of students, the school confirms that it has obtained or holds all the necessary permissions.
 
 Some parts of the Services require you to create an account. When you register, we collect information about you, like your name and email address. Your account information and how we use your data are detailed in our [Privacy Policy](https://www.w3schools.com/about/about_privacy.asp).
 
@@ -259,7 +261,7 @@ Contact Information
 
 If you have any questions or concerns about these Terms, please contact us at [help@w3schools.com](mailto:help@w3schools.com)
 
-Last updated: 2025.02.19
+Last updated: 2025.05.19
 
 [★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
 
