@@ -112,7 +112,6 @@ We share your information with partners who specialize in advertising across mul
 * Google: [Privacy Policy](https://policies.google.com/privacy?hl=en-US)
 * Snigel: [Privacy Policy](https://www.snigel.com/privacy-policy/)
 * Buy Sell Ads: [Privacy Policy](http://buysellads.com/privacy)
-* Refinery 89: [Privacy Policy](https://refinery89.com/privacy-policy/)
 
 Opting Out of Targeted Advertising:
 
@@ -175,7 +174,7 @@ Our data privacy practices follow the EU-U.S. Data Privacy Framework (DPF). This
 Minimum Age For Use Of Our Site
 -------------------------------
 
-By using the Website and or the Services, you confirm that you are at least 13 years old. The Services are not intended for anyone under the age of 13. If you are under the age of 13 or lack the authority to consent on behalf of users below this age (such as in an educational institution), you cannot use the Services.
+Our Service is generally not intended for users under the age of 16. We do not knowingly collect personal information from anyone under the age of 13 in ways not allowed by the Children's Online Privacy Protection Act (COPPA). If you are a parent or legal guardian and believe that your child has shared personal information in a way that is not allowed by law, please contact us at help@w3schools.com. We will look into it and delete the information as required by law.
 
 * * *
 
@@ -301,7 +300,7 @@ Appendix: Sub-Processors
 | Stripe | USA | Payment processing |
 | Zendesk | EU  | Customer support and CRM system |
 
-Last updated: 2025.02.19
+Last updated: 2025.05.19
 
 [★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
 
