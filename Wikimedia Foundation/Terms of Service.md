@@ -146,7 +146,7 @@ Other languages:
 * [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "Policy:Terms of Use/yi (3% translated)")
 * [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (100% translated)")
 * [اردو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ur "Policy:Terms of Use/ur (3% translated)")
-* [الدارجة](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ary "Policy:Terms of Use/ary (1% translated)")
+* [الدارجة](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ary "Policy:Terms of Use/ary (2% translated)")
 * [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "Policy:Terms of Use/ar (100% translated)")
 * [جهلسری بلوچی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bcc "Policy:Terms of Use/bcc (5% translated)")
 * [فارسی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fa "Policy:Terms of Use/fa (25% translated)")
