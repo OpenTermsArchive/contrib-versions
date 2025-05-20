@@ -80,3 +80,18 @@ We reserve the right to make changes to Google One, and Google One may be revise
 ----------------
 
 Google may stop providing Google One to you at any time, including for breach of these Terms. If you are on a Sponsored Plan, your access to Google One may also be suspended or terminated by your sponsoring party. Google reserves the right to suspend or terminate Google One at any time, upon reasonable notice to you.
+
+AI Credits Terms of Use
+=======================
+
+Your use of AI credits is subject to the Google One Additional Terms of Service. You can use AI credits to enable and process your requests within designated AI features. The number of credits required for a specific action (e.g., generating a video) will be communicated to you within the relevant product or feature. Google reserves the right to modify the credit cost for using AI features. AI credits are available for eligible Google One subscriptions only. AI credits can only be used to access certain AI features that may be made available by Google from time to time.
+
+Your purchase of AI credits will be subject to separate terms from the seller. For example, when you purchase AI credits through Google, your purchase will be subject to the [Google Play Terms of Service](https://play.google.com/about/play-terms/index.html).
+
+AI credits expire after a certain period, as set out when you acquire them.
+
+If you are part of a family group on Google One, members of your family group will be able to see the amount of AI credits you have consumed.
+
+You have no right or title in AI credits except as expressly stated in these Terms. You may not sell or transfer AI credits to another user or account, or attempt to sell or transfer AI credits. When you purchase AI credits, you are pre-paying for the use of certain designated AI features. AI credits are not a digital currency, security, commodity, or any other kind of financial instrument and are not redeemable for any cash value. AI credits are only redeemable for the specified AI features within the Google ecosystem. Any unused AI credits will be forfeited upon termination or cancellation of your Google One plan, subject to any applicable refund policies.
+
+[Learn more about AI credits](https://support.google.com/googleone?p=g1_credit_management).
