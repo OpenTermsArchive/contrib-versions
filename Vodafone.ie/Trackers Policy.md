@@ -1989,7 +1989,7 @@ Some of our products are developed in partnership with specific third party part
     
 * V-Camera, in partnership with [Arlo](http://netgear.com/about/privacy-policy/).
     
-* V-Luggage and V-Multi Tracker in partnership with [Trackimo](https://trackimo.com/your-privacy/).
+* V-Luggage and V-Multi Tracker in partnership with [Trackimo](https://trackimo.com/).
     
 
 We take the privacy of our users very seriously. We ask that you read this privacy statement carefully as it contains important information about how we will use your personal data.
