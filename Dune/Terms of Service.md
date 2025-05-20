@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Last updated: May 14th, 2024
+Last updated: May 20th, 2025
 
 In these terms of service (“**Terms of Service**”), the words "you," "your," and "User" mean each and every person who accesses or uses any Service (as defined below), including any business or other entity on behalf of which any Service is accessed. The words "we," "us," "our", refer to Dune (as defined below).
 
@@ -29,17 +29,23 @@ The terms and conditions found in these "General Terms and Conditions" section o
 
 [Dune Data Hub Service Addendum](https://dune.com/data%20hub%20addendum)
 
-[Dune API Service Addendum](https://dune.com/api-terms)
+[Dune SQL API Service Addendum](https://dune.com/sql-api-terms)
 
-[Subscription Tiers and Pricing Addendum](https://dune.com/pricing)
+[Sim API Service Addendum](https://dune.com/sim-api-terms)
+
+[Dune Subscription Tiers and Pricing Addendum](https://dune.com/pricing)
+
+[Sim Subscription Tiers and Pricing Addendum](https://sim.dune.com/pricing)
 
 [Data Processing Agreement](https://dune.com/data%20processing%20agreement)
 
-The Dune Application Service allows Users to create SQL queries on blockchain data or on data uploaded by the User through the Dune Data Hub Service. The results are visualized as charts and the charts can be assembled into dashboards displayed within the Site.
+**Services:**
 
-The Dune Data Hub Service allows Users to bring different sets of data through uploads and/or synchronization and connection of data in different formats (as made available by Dune from time to time) into Dune for use of the data in connection with the other Dune Services.
-
-The Dune API Service allows Users to have access to Dune’s application programming interfaces (the “API”) to perform SQL queries on blockchain data.
+* **The Dune Application Service** allows Users to create SQL queries on blockchain data or on data uploaded by the User through the Dune Data Hub Service. The results are visualized as charts and the charts can be assembled into dashboards displayed within the Site.
+* **The Dune Data Hub Service** allows Users to bring different sets of data through uploads and/or synchronization and connection of data in different formats (as made available by Dune from time to time) into Dune for use of the data in connection with the other Dune Services.
+* **Dune SQL API** allows Users to have access to Dune’s application programming interfaces (the “API”) to perform SQL queries on blockchain data.
+* **Sim API** is a suite of APIs that provide real-time access to blockchain data, such as wallet balances, token holdings, and transactions.
+* **Additional Services and Features**. From time to time, we may offer other services or features, including beta, experimental, or limited-access functionality. These may be subject to separate terms or usage restrictions.
 
 Your access to Services, specific features, performance and pricing will be determined by your subscription plan (“Subscription Plan”) selected under “Settings” in your User or Team account or by a separate agreement, as applicable. An overview of Dune’s Services and Subscription Plans can be found in the Subscription Tiers and Pricing Page.
 
@@ -104,7 +110,7 @@ You may only register a username or Team handle deemed appropriate by Dune. User
 User Content
 ------------
 
-"User Content" refers to any data, information, code or material that is created, submitted, uploaded, or otherwise provided by Users or Teams on the Site or Service, including, but not limited to, code, queries, visualizations, dashboards, views, materialized views, and datasets uploaded through the Data Hub Service.
+"User Content" refers to any data, information, code or material that is created, submitted, uploaded, or otherwise provided by Users or Teams on the Site or Service, including, but not limited to, code, queries, visualizations, dashboards, views, materialized views, and uploaded datasets.
 
 You alone are responsible for any of your User Content that may be lost or unrecoverable through your use of the Site or Service.
 
@@ -196,7 +202,7 @@ Dune reserves the right to suspend the Services in the case of non-payment of th
 
 #### Credits
 
-“Credits” are how we denominate paid usage at Dune. Credits allow you to flexibly decide how to use Dune’s most key functionalities, so you can freely choose how to trade off query Executions with Execution performance and API data export volumes. The number of Credits ascribed to each Subscription Plan is described in the Subscription Tiers and Pricing Addendum.
+“Credits” are how we denominate paid usage at Dune. Credits allow you to flexibly decide how to use Dune’s most key functionalities, so you can freely choose how to trade off query Executions with Execution performance and SQL API data export volumes. The number of Credits ascribed to each Subscription Plan is described in the Subscription Tiers and Pricing Addendum.
 
   
 
@@ -224,7 +230,7 @@ The User agrees that Dune may list and/or identify a User’s name (including by
 Limitation of Executions
 ------------------------
 
-The default number of Executions a User or Team is entitled to perform is defined in each Subscription Plan. For the purposes of these Terms of Service, an “Execution” is defined as a request for data or information from Dune’s database originated from either the Dune Application Service or the Dune API Service. Dune may suspend or block the User if Dune believes, at its sole discretion, that the User is abusing the limitation of Executions.
+The default number of Executions a User or Team is entitled to perform is defined in each Subscription Plan. For the purposes of these Terms of Service, an “Execution” is defined as a request for data or information from Dune’s database originated from either the Dune Application Service or the SQL API Service. Dune may suspend or block the User if Dune believes, at its sole discretion, that the User is abusing the limitation of Executions.
 
 Teams
 -----
