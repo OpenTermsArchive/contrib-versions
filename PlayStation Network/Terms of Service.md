@@ -1,7 +1,7 @@
 **PLAYSTATIONTM NETWORK TERMS OF SERVICE AND USER AGREEMENT**
 =============================================================
 
-[View table of contents](javascript:void(0);)
+View table of contents
 
 1. [ABOUT THIS AGREEMENT](#about-this-agreement)
 2. [PSN SERVICES AND THIRD-PARTY SERVICES ON PSN](#psn-services-and-third-party-services-on-psn)
