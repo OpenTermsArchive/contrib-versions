@@ -4,11 +4,11 @@ HSBC Holdings plc has a Companies House number of 617987 and a principal place o
 
 The information contained on the Site is for information purposes only. HSBC Holdings plc does not hold itself out as providing legal, financial or other advice via the Site.
 
-* References to 'Site' are references to the Site at www.hsbc.com
-* References to 'Local Sites' are references to other HSBC pages and web sites or pages and web sites issued by other entities within the HSBC Group
-* References to 'you', 'your' and 'yours' are references to the person(s) accessing the Site or any Local Site
-* References to 'we', 'us' and 'our' are references to HSBC Holdings plc
-* References to the 'HSBC Group' are references to HSBC Holdings plc, its subsidiaries and affiliated companies
+* References to ´Site´ are references to the Site at www.hsbc.com
+* References to ´Local Sites´ are references to other HSBC pages and web sites or pages and web sites issued by other entities within the HSBC Group
+* References to ´you´, ´your´ and ´yours´ are references to the person(s) accessing the Site or any Local Site
+* References to ´we´, ´us´ and ´our´ are references to HSBC Holdings plc
+* References to the ´HSBC Group´ are references to HSBC Holdings plc, its subsidiaries and affiliated companies
 
 About hsbc.com
 --------------
@@ -18,16 +18,16 @@ hsbc.com gives you information about us and about the other companies in our gro
 The provision of financial services or products
 -----------------------------------------------
 
-HSBC Holdings plc does not offer financial services or products and HSBC Holdings plc's operation of the hsbc.com portal, or gateway, does not constitute an offer of any products or services provided by any of the HSBC Group members.
+HSBC Holdings plc does not offer financial services or products and HSBC Holdings plc´s operation of the hsbc.com portal, or gateway, does not constitute an offer of any products or services provided by any of the HSBC Group members.
 
 Not all the products and services that you may be able to view via the Site are available in all geographical locations or available to all customers. The relevant HSBC Group member reserves the right to make the final determination on whether or not you are eligible for any particular product or service. If you choose to enter a website outside your country of residence, you are advised that it may not be legal in that jurisdiction for you to access or use the facilities available on that Site and the legal requirements of that jurisdiction may prohibit you from dealing or otherwise transacting in that jurisdiction.
 
-If you visit, or view any products or services on, another HSBC Group members’ site, then that site’s terms and conditions will apply instead of these. Such sites, and the products and services offered, may be aimed only at customers in particular jurisdictions.
+If you visit, or view any products or services on, another HSBC Group members´ site, then that site´s terms and conditions will apply instead of these. Such sites, and the products and services offered, may be aimed only at customers in particular jurisdictions.
 
 Local Sites
 -----------
 
-All products and services provided by members of the HSBC Group are subject to the terms and conditions and disclaimers of the applicable agreement governing their supply and use (‘Product terms and conditions’). Where Product terms and conditions conflict with these Terms and Conditions or any Local Site's terms and conditions the Product terms and conditions shall prevail.
+All products and services provided by members of the HSBC Group are subject to the terms and conditions and disclaimers of the applicable agreement governing their supply and use (´Product terms and conditions´). Where Product terms and conditions conflict with these Terms and Conditions or any Local Site´s terms and conditions the Product terms and conditions shall prevail.
 
 Your use of any Local Site shall be governed by both these Terms and Conditions and the terms and conditions of the Local Site. However, where these Terms and Conditions conflict with those of the Local Site, the terms and conditions of the Local Site shall prevail. Please read carefully any Local Site and/or Product terms and conditions before using the Local Site or product.
 
@@ -85,7 +85,7 @@ We shall not be liable for any loss or damage whatsoever and howsoever arising a
 Links to third party Sites or content
 -------------------------------------
 
-Your use of hyperlinks on the Site is at your own risk. We provide hyperlinks to other locations on the Internet for information and convenience purposes only. No endorsement of third party web sites or content is implied. We are not responsible for the content of any other web sites or pages linked to or from the Site or any Local Site. We have not verified the content of any such web sites, or pages. It is recommended that you view the linked website's terms or privacy policy pages to understand how use of that website may affect you.
+Your use of hyperlinks on the Site is at your own risk. We provide hyperlinks to other locations on the Internet for information and convenience purposes only. No endorsement of third party web sites or content is implied. We are not responsible for the content of any other web sites or pages linked to or from the Site or any Local Site. We have not verified the content of any such web sites, or pages. It is recommended that you view the linked website´s terms or privacy policy pages to understand how use of that website may affect you.
 
 We are not responsible for the accuracy, timeliness or the continued availability or the existence of content, hyperlinks, or third party web sites or pages linked to the Site or any Local Site. Links to downloadable software Sites are for convenience only and we are not responsible or liable for any difficulties or consequences associated with downloading the software. Use of any downloaded software is governed by the terms of the licence agreement, if any, which accompanies or is provided with the software.
 
@@ -150,7 +150,7 @@ Fostering Responsible Engagement
 * The content provided on our sites is owned or licensed by HSBC, unless otherwise indicated. Do not copy, download, transfer, modify, or otherwise use or commercially exploit the content on our pages without permission
 * While we may follow or share information from other sites or users, we do not endorse specific social media sites themselves, or any information posted on them by third parties or other users nor does HSBC guarantee the accuracy of content that is not directly posted by HSBC (such as a share or retweet)
 * HSBC does not directly offer financial services or products on social media though we may from time to time advertise or promote such items. Our operation of social media channels, pages and accounts does not constitute an offer of any products or services provided by HSBC Group or its members
-* We don't give investment, tax or other professional advice via social media. You should always seek independent professional advice before making such decisions
+* We don´t give investment, tax or other professional advice via social media. You should always seek independent professional advice before making such decisions
 * Our pages should not be used for illegal purposes, to breach any laws, or transmit through our profiles any computer viruses or defamatory materials deemed to be offensive or obscene
 * We do not allow and will remove posts that infringe upon the rights of others. Users may not harass, bully, or cause distress to other users on our pages
 * Administration of our pages, features, functions and content provided within our official profiles are the right of HSBC and its members and are not for the use of others without our express permission
@@ -158,7 +158,7 @@ Fostering Responsible Engagement
 Protecting Your Information
 ---------------------------
 
-* When you engage with us via social media (e.g. X, Facebook, LinkedIn) it is important for you to know that information shared may be stored on that Site's servers, which are outside our control and may be in the U.S. or elsewhere inside or outside the EU. Any information posted to such Sites may be accessed and read by the general public. It is not an appropriate forum to discuss customers' products or financial arrangements
+* When you engage with us via social media (e.g. X, Facebook, LinkedIn) it is important for you to know that information shared may be stored on that Site´s servers, which are outside our control and may be in the U.S. or elsewhere inside or outside the EU. Any information posted to such Sites may be accessed and read by the general public. It is not an appropriate forum to discuss customers´ products or financial arrangements
 * We will never ask you to share personal, account, or security information via our social media sites. For your own protection, always be thoughtful about what you publish - particularly on external platforms. You must make sure you do not disclose or use confidential or proprietary information in any online social platform
 * Do not post materials on our pages that are false, fraudulent, libelous, defamatory, obscene, threatening, are invasive of privacy or publicity rights, infringe on intellectual property rights, are abusive, harassing, illegal, or otherwise objectionable
 
@@ -175,4 +175,4 @@ Data Treasury Corporation (DTC) Licence
 
 HSBC is licensed by DTC under U.S. Patent Nos. 5,910,988; 6,032,137; 6,594,647; 6,341,272; 5,974,146.
 
-HSBC Holdings plc is a company incorporated under the laws of England and Wales with company registration number 14259 and its registered office at 8 Canada Square, London E14 5HQ. HSBC Bank plc's registered VAT Number is GB 365684514.
+HSBC Holdings plc is a company incorporated under the laws of England and Wales with company registration number 617987 and its registered office at 8 Canada Square, London E14 5HQ. HSBC Bank plc´s registered VAT Number is GB 365684514.
