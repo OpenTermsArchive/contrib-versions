@@ -233,7 +233,3 @@ Wickr
 ![](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/Powered-By_logo-horiz_RGB.87c70af8a8a34b68606524ade6261db083947a14.png)
 
 ![](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/Powered-By_logo-horiz_RGB_REV.0225902cc6a7f48ea9c65e903ff4f31efd239105.png)
-
-![](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/Powered-By_logo-horiz_RGB.87c70af8a8a34b68606524ade6261db083947a14.png)
-
-![](https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/Powered-By_logo-horiz_RGB_REV.0225902cc6a7f48ea9c65e903ff4f31efd239105.png)
