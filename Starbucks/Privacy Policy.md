@@ -6,7 +6,7 @@ Please see the [Consumer Health Data Privacy Notice for Washington and Nevada](h
 
 **STARBUCKS PRIVACY NOTICE**
 
-Last Revised: January 17, 2025
+Last Revised: May 21, 2025
 
 **Overview**
 
@@ -29,7 +29,7 @@ You may skip to the specific sections of our Privacy Notice by selecting any of 
 9. [Retention](#retention)
 10. [Children’s Privacy](#childrens-privacy)
 11. [Starbucks WiFi](#starbucks-wifi)
-12. [Your Choices & Rights](#your-choices-rights)
+12. [Your Privacy Choices & Rights](#your-choices-rights)
 13. [Notice of Financial Incentive & Starbucks® Rewards](#notice-of-financial-incentive)
 14. [Additional Disclosures for Data Subjects in the EEA, the U.K. and Switzerland](#additional-disclosures-for-data-subjects-in-the-eea-the-uk-and-switzerland)
 15. [Participation in the Data Privacy Framework](#participation-in-the-privacy-shield-frameworks)
@@ -170,7 +170,7 @@ We do not intend for our websites or online services to be used by anyone under 
 
 Many Starbucks stores support providing you access to wireless internet (WiFi) at no charge. For any such WiFi access, please carefully review the terms of use listed on the activation page prior to accepting and connecting.
 
-**12\. Your Choices & Rights,** **including State-Specific Rights**  
+**12\. Your Privacy Choices & Rights**
 
 **(a)  Your Choices**
 
@@ -186,31 +186,34 @@ Many Starbucks stores support providing you access to wireless internet (WiFi) a
 
 If you use the Starbucks App features described above, you consent to the transmission of your user information to Starbucks and/or its agents, and authorize Starbucks and/or its agents, to record, process, and store such user information as necessary for administering the Starbucks App features and for purposes described in this Notice.
 
-**(b)  Your Rights,** **including State-Specific Rights**
+**(b)  Your Privacy Rights in the U.S. and Canada**
 
-Depending on where you live (including California, Colorado, Connecticut, Nevada, Utah, Virginia, and Washington), you may be entitled to certain rights with respect to your personal information, as described below.
+You may submit a request to exercise the rights described below. We will respond to your request consistent with applicable law, including applicable exceptions.
 
-* **Right to Know** – You may have the right to know what personal information the business has collected about you, including the categories of personal information, the categories of sources from which it is collected, the business or commercial purposes for collecting, selling, or sharing it, and the categories of third parties to whom we disclose it.
-* **Access and Data Portability** – Subject to certain exceptions, you may have the right to request a copy of the personal information that we collected about you during the 12 months before your request.
+* **Right to Know and Access (Data Portability)** – You may have the right to (1) know what personal information Starbucks processes about you, including the categories of personal information, the categories of sources from which it is collected, the business or commercial purposes for collecting, selling, or sharing it, the categories of third parties to whom we may disclose it, including a specific list of third parties to whom we have disclosed our customers’ personal information; and (2) receive a copy of the specific personal information we have processed or are processing about you.
 * **Deletion** – You may have the right to request that we delete information that we collected from you and retained, subject to certain exceptions.
-* **Correct Inaccurate Information** – You may have the right to request that we correct inaccuracies in the personal information we maintain about you.  You may also correct information about you for Starbucks Rewards in the Starbucks App.
+* **Correct Inaccurate Information** – You may have the right to request that we correct inaccuracies in the personal information we maintain about you. You may also correct certain personal information associated with your Starbucks Rewards account yourself in the Starbucks App or by signing in at Starbucks.com.
 * **Targeted Advertising** – We do not sell your information for monetary or valuable consideration.  You may have the right to opt-out of having your personal information shared for purposes of targeted advertising.  To opt-out, click this “Do Not Share My Personal Information” link.
 * **Sensitive Information** – Companies who collect, use, and disclose your sensitive personal information for purposes other than to provide you with goods or services are required to provide you with the right to limit the use and disclosure of your sensitive personal information by providing a “Limit the Use and Disclosure of My Sensitive Personal Information” link. Starbucks only collects, uses, and discloses your sensitive personal information to provide services to you, therefore Starbucks is not required to provide this link.
 * **Opt-Out Preference Signals** – Some web browsers allow customers to automatically exercise their right to opt-out of sale/sharing with all businesses they interact with online by initiating an opt-out preference signal. We will honor such opt-out preference signals.
 * **Appeals –** You may appeal our decision with respect to a request you have submitted by contacting us as described in the “Contact Us” section below.
 * **Consumer Health Data Rights in Washington and Nevada –** You may have additional rights relating to consumer health data. For more information, please see the [Consumer Health Data Privacy Notice for Washington and Nevada](https://www.starbucks.com/consumer-health-data-privacy-notice/) .
 
-Requests for U.S. residents should be submitted through this form [**HERE**](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html).
+Requests for U.S. residents should be submitted through this form [**HERE**](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html) .
 
-Request for Canadian residents should be submitted through this form [**HERE**](https://privacyportal.onetrust.com/webform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/2e24ae7b-8edf-411f-a11d-14a16ddaa413).
+Request for Canadian residents should be submitted through this form [**HERE**](https://privacyportal.onetrust.com/webform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/2e24ae7b-8edf-411f-a11d-14a16ddaa413) .
 
-U.S. and Canadian residents may also submit request by calling 1-800-STARBUC (782-7282).  Once we receive your request, we may verify it by requesting information sufficient to confirm your identity.  You may be entitled to submit a request through an authorized agent or to appeal a refusal to take action on your request.  To designate an authorized agent to exercise your rights, we will require written proof that the authorized agent has been authorized to act on your behalf or a copy of the power-of-attorney document granting that right.
+U.S. and Canadian residents may also submit a request by calling 1-800-STARBUC (782-7282).  
+Once we receive your request, we may verify it by requesting information sufficient to confirm your identity.  
+You may be entitled to submit a request through an authorized agent or to appeal a refusal to take action on your request. To designate an authorized agent to exercise your rights, we may require written proof that the authorized agent has been authorized to act on your behalf or a copy of the power-of-attorney document granting that right.
 
 If you are an authorized agent or you are submitting a request on behalf of a customer, please submit your request through this form **[HERE](https://privacyportal.onetrust.com/webform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/8455830b-dcd5-4b5b-b866-cc377b6e86d8)** or via email to [privacy@starbucks.com](mailto:privacy@starbucks.com).
 
-**(c)  Other California Rights**
+We will not discriminate against you for exercising any of your applicable rights. We reserve the right to deny your request if we cannot verify your identity or if an exception applies under applicable law.
 
-* If you are a California resident, you can request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to: Starbucks, P.O. Box 20430, Augusta, GA 30916
+**(c)  Additional California Rights**
+
+* If you are a California resident, you can also request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to: Starbucks, P.O. Box 20430, Augusta, GA 30916
 * Some web browsers have a “Do Not Track” preference that transmits a “Do Not Track” header to the websites you visit with information indicating that you do not want your activity to be tracked. We currently do not respond to browser “Do Not Track” signals, as there is no standard for how online services should respond to such signals. As standards develop, we may develop policies for responding to do-not-track signals that we will describe in this Notice.
 
 **(d)  Privacy Metrics**
@@ -219,13 +222,13 @@ Privacy Rights Metrics (January 2024 – December 2024) – Includes requests fr
 
 Right to Know  
 **•**  Requests Received – 1,237  
-**•**  Requests Complete – 463  
+**•**  Requests Completed – 463  
 **•**  Requests unable to be completed\* – 760  
 **•**  Average completion time – 7 days  
 
 Right to Delete  
 **•**  Requests Received – 3,513  
-**•**  Requests Complete – 1,948  
+**•**  Requests Completed – 1,948  
 **•**  Requests unable to be completed\* – 1,514  
 **•**  Average completion time – 11 days  
 
@@ -235,7 +238,7 @@ Right to Delete
 
 Starbucks® Rewards is one way in which Starbucks endeavors to reward and thank loyal customers for patronizing our business and purchasing Starbucks products.  Starbucks® Rewards members opt in by signing up for Rewards online or through the Starbucks App and are able to earn and accumulate "Stars" that can be redeemed for Starbucks® Rewards benefits at participating Starbucks stores. If you would like to become a Starbucks® Rewards member, please see the Starbucks Rewards Terms of Use available at [https://www.starbucks.com/rewards/terms](https://www.starbucks.com/rewards/terms).
 
-Starbucks collects and uses the categories of personal information described in the “Information We Collect” section, including information you voluntarily provide us (such as your name and email), information we collect automatically, and information from other sources to operate the Starbucks® Rewards loyalty program, including to send you promotions, content, and special offers and the other uses described in this Notice.  We work with many service providers and business partners to offer the benefits of our Starbucks® Rewards loyalty program.  Those partners may fall into the following categories: delivery partners, Starbucks global licensees, subsidiaries, and affiliates, and or service providers and business partners.  You can learn about the business partners with whom we share your information by referring to the “How We Disclose Your Information” section.  Starbucks does not assign monetary value for the information we collect through the Starbucks® Rewards loyalty program when sending email communications.  You may opt out of receiving promotional emails at any time by adjusting your Starbucks online account settings, or by clicking the “unsubscribe” link included within any promotional emails we send you. Participation in Starbucks® Rewards is voluntary, and you may withdraw from the Starbucks® Rewards loyalty program by visiting the Account section in the Starbucks App, by requesting deletion of your information by filling out this form **[HERE](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html)**, or by calling Starbucks customer service. Please note that by withdrawing from Starbucks® Rewards, you will no longer have access to your Starbucks® Rewards account, but you can otherwise continue to use the Starbucks app. All points and rewards you have earned until the time of withdrawal will no longer be available.  As previously shared, to communicate and provide services to you through the Starbucks® Rewards loyalty program, we need to use your personal information. Therefore, if you choose to delete your personal information from the Starbucks® Rewards loyalty program, we can no longer provide you with services through this loyalty program. 
+Starbucks collects and uses the categories of personal information described in the “Information We Collect” section, including information you voluntarily provide us (such as your name and email), information we collect automatically, and information from other sources to operate the Starbucks® Rewards loyalty program, including to send you promotions, content, and special offers and the other uses described in this Notice.  We work with many service providers and business partners to offer the benefits of our Starbucks® Rewards loyalty program.  Those partners may fall into the following categories: delivery partners, Starbucks global licensees, subsidiaries, and affiliates, and or service providers and business partners.  You can learn about the business partners with whom we share your information by referring to the “How We Disclose Your Information” section.  Starbucks does not assign monetary value for the information we collect through the Starbucks® Rewards loyalty program when sending email communications.  You may opt out of receiving promotional emails at any time by adjusting your Starbucks online account settings, or by clicking the “unsubscribe” link included within any promotional emails we send you. Participation in Starbucks® Rewards is voluntary, and you may withdraw from the Starbucks® Rewards loyalty program by visiting the Account section in the Starbucks App, by requesting deletion of your information by filling out this form **[HERE](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html)** , or by calling Starbucks customer service. Please note that by withdrawing from Starbucks® Rewards, you will no longer have access to your Starbucks® Rewards account, but you can otherwise continue to use the Starbucks app. All points and rewards you have earned until the time of withdrawal will no longer be available.  As previously shared, to communicate and provide services to you through the Starbucks® Rewards loyalty program, we need to use your personal information. Therefore, if you choose to delete your personal information from the Starbucks® Rewards loyalty program, we can no longer provide you with services through this loyalty program. 
 
 Based on our reasonable and good faith estimate, we receive value from Starbucks® Rewards in increased customer loyalty and patronage, though any value will vary by Starbucks® Rewards member depending on purchases made, which offers a member takes advantage of, and many other factors.
 
@@ -330,7 +333,7 @@ Additional contact information may be found below for various Starbucks entities
     * Entity Address – Building 4 Chiswick Park, 566 Chiswick High Road, London, W4 5YE
     * Additional Contact (If Any) –
         * Customer Support
-            * Please contact our U.K. Customer Care team **[HERE](https://customercare.starbucks.co.uk/sbux?lang=en)**.
+            * Please contact our U.K. Customer Care team **[HERE](https://customercare.starbucks.co.uk/sbux?lang=en)** .
             * +443330050449 or +442088345050 (app)
 * **Country – U.S.**
     * Entity Name – Starbucks Reserve
