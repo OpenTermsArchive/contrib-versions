@@ -7,7 +7,7 @@ If you want to access the main points of our Privacy Policy in a simplified way,
 
 Last Update of this Privacy Policy:
 
-February 20th, 2025
+May 21st, 2025
 
 Dailymotion respects Your privacy. Our Privacy Policy explains how we collect, use, share and protect Personal Data from or about You in connection with Your use of the Dailymotion Service.
 
@@ -61,13 +61,13 @@ Because our Service is provided to You through different digital properties, nam
 
 When You access our Service through the **Dailymotion website and app** we rely on the following legal basis when Processing Your Personal Data.
 
-* Contract: we rely on contract when processing of Your Personal Data is required to provide You with our Service, including when You choose to use its optional features. In particular, we rely on contract when we process Your Personal Data for the following purposes:
+* Contract: we rely on contract when processing of Your Personal Data is required to provide You with our Service, including when You choose to use its optional features. In particular, we rely on contract we have with You (i.e. on the Dailymotion Service Terms of Use) when we process Your Personal Data for the following purposes:
     
     * Display of Content and ads: Dailymotion Service offers access to Content in association with ads. **Presence of both,** **Content and ads is an essential and non-dissociable part of our Service**. Consequently, when we use Your Personal Data to display Content and ads we rely on contract as legal ground.
     
     * Content recommendation: presence of relevant Content is our Service’s major feature.  Consequently, processing of Your Personal Data by our content recommendation tools is based on contract
     
-    * Use of our Service: we process Your Personal Data to prevent unauthorized access to our Service, including by so-called bots, and enable You to use our Service features.  For example, when you upload videos, we store Your Content and if you are entitled to receive payments from us, Your payment details and information linked the amount to be paid are used by us to process such payment
+    * Use of our Service: we process Your Personal Data to prevent unauthorized access to our Service, including by so-called bots, and enable You to use our Service features.  For example, when you upload videos, we store Your Content and if you are entitled to receive payments from us, Your payment details and information linked the amount to be paid are used by us to process such payment. To prevent unauthorized access to our Service we may use tracking technologies that analyze your navigation and device characteristics to detect and block unauthorized access attempts by bots and other non-human technologies.
     
     * Account creation and management: Your email address, password, age and username are mandatory elements of each account. Processing of these account credentials and related information for the purpose of managing Your account is based on contract.
     * Respect of parties’ obligations under the agreements in place between You and Dailymotion. When You access our Service, you accept our Terms of Use, i.e. You enter into an agreement with Dailymotion. In general, we rely on contract when processing of Your Personal Data is necessary for the execution of that agreement.
@@ -132,7 +132,7 @@ If You are entitled to payment from our Service and You chose to integrate an ac
 
 * **Third-Party Data**
 
-Subject to Your consent or if otherwise authorized unnder the applicable laws, we may receive information about You from some of our Data Partners. Your Data may be disclosed to us by our Commercial Partners and be shared with us by our [selected Commercial Partners](https://legal.dailymotion.com/en/data-share-selected-commercial-partners/).
+Subject to Your consent or if otherwise authorized under the applicable laws, we may receive information about You from some of our Data Partners. Your Data may be disclosed to us by our Commercial Partners and be shared with us by our [selected Commercial Partners](https://legal.dailymotion.com/en/data-share-selected-commercial-partners/).
 
 Shared data (whether identified, pseudonymized or anonymous and whether collected online or offline) may include information about Your interests, demographic data, purchasing behavior, and Your online activities (such as websites You have visited and/or advertisements You have viewed).
 
@@ -144,7 +144,7 @@ We may combine the shared information with the information we collect from or ab
 
 Like many online services, we use, directly or via our subcontractors, various technologies to collect usage data and store Your user settings. The Data thus collected helps us propose, protect and improve the Dailymotion Service and personalize Your user experience, for example, by enabling You to access videos in a language corresponding to Your browser’s settings or in a format compatible with Your device.   
 
-Despite the variety of the actual measures deployed, the various technologies used to collect data are commonly referred to as “**cookies**” or “**trackers**” and their use is regulated by “cookie laws.” Whenever applicable laws subject the use of cookies to user consent, Dailymotion asks for YYour consent prior to their use.
+Despite the variety of the actual measures deployed, the various technologies used to collect data are commonly referred to as “**cookies**” or “**trackers**” and their use is regulated by “cookie laws.” Whenever applicable laws subject the use of cookies to user consent, Dailymotion asks for Your consent prior to their use.
 
 A “cookie” is a small data file that is installed on Your device. A cookie lifespan is limited to its purpose and does not, in general, exceed 13 months. A cookie expires upon the end of its validity period unless it uses so-called “refresh” feature. It may be deleted before the end of its validity period by You or by the technologies You use (e.g. Your browser).
 
@@ -204,7 +204,7 @@ Dailymotion may process the Data for the following purposes:
 
 * **_Elaborate Aggregated or Anonymized Statistics._** We may “de-identify” information about You and/or other users, which means that the Data is modified (anonymized or aggregated with other information) so it no longer personally identifies You. We may then use this “de-identified” information for any legitimate internal and external business purpose, including for research and analysis of the Dailymotion Service, improving our capacity to deliver customized advertisements, and for promoting our Service to future users, Commercial Partners and other business partners. In particular, we may also share Your aggregated Data (i.e. information in a form that does not allow its recipients to identify You) with advertisers and Content owners to provide them with meaningful insight about the audience of their ads or Content on our Service.
 
-* _**Ensure Safety and Security of Dailymotion Service and its Conformity with Applicable Laws.**_  We may use the Data to ensure the security of our Service and anti-fraud protection. Our dedicated engineering teams do so by using automated procedures and advanced technologies such as data encryption and machine learning. Consequently, Your Data may be processed as part of investigation of suspicious account activities or violations of our legal terms and policies. In conformity with our legal obligations, Dailymotion maintains connections logs linked to each User’s account activities and communicates them, if requested to do so pursuant to applicable legal procedures, to duly authorized public authorities.
+* _**Ensure Safety and Security of Dailymotion Service and its Conformity with Applicable Laws.**_  We may use the Data to ensure the overall security of our Service including anti-fraud protection. Our dedicated engineering teams do so by using tracking technologies, automated procedures and advanced technologies such as data encryption and machine learning. The technical tools used evolve to adapt to the ever-evolving security threats faced by our Service. For example, to fight security risks related to malvertising (e.g. fake ads that contain viruses or redirecting to fraudulent websites), we use trackers verifying the authenticity of an ad shown to You (i.e. whether a video shown to You is really an ad that was meant to be displayed and not a fake ads with links redirecting to fraudulent sites where You might be a victim of identity theft). Consequently, Your Data may be processed as part of an investigation of suspicious account activities or violations of our legal terms and policies. In particular, we may use trackers on Your devices and process Your Personal Data to detect and prevent unauthorized access to any part of our Service by bots and similar technologies (i.e. to verify that You are not a bot) and Your IP address may be checked against a list of  IP addresses identified as corresponding to bots. In conformity with our legal obligations, Dailymotion maintains connection logs linked to each User’s account activities and communicates them, if requested to do so pursuant to applicable legal procedures, to duly authorized public authorities.
 
 * **_Share Your Data._** Operation of our Service may require share of Your Data. Share of Data is not a purpose in itself but serves distinct purposes underlying our relationship with the entities we disclose Your Data to. For example, in general, the delivery of digital ads requires disclosure of some of Your Personal Data to companies participating in the ad-delivery process (ex. to advertisers, agencies, technical facilitators, etc.). The quantity and type of Data disclosed depends on whether or not Your consent to being shown targeted ads. Additionally, we may share Your Data with [Selected Commercial Partners](https://legal.dailymotion.com/en/data-share-selected-commercial-partners/) we closely cooperate with (some of which are our Affiliates). We do so to better understand what interests You and  offer You better services, Content and ads that are of interest to You. Some of Your Data may be disclosed to some of our Data Partners for further use of fostering AI development.
 
