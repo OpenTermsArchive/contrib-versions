@@ -41,6 +41,10 @@ We only share the information you give us with another government agency if your
 
 LAST UPDATED: November 12, 2024
 
+SHARE THIS PAGE:
+
+[![Facebook](/themes/custom/usagov/images/social-media-icons/Facebook_Icon.svg)](https://www.facebook.com/sharer/sharer.php?u=https://www.usa.gov/privacy-security&v=3)[![X Twitter USAGov](/themes/custom/usagov/images/social-media-icons/X_Twitter_Icon.svg?version=2)](https://twitter.com/intent/tweet?source=webclient&text=https://www.usa.gov/privacy-security)[![Email](/themes/custom/usagov/images/social-media-icons/Email_Icon.svg?version=2)](mailto:?subject=https://www.usa.gov/privacy-security)
+
 Have a question?
 ----------------
 
