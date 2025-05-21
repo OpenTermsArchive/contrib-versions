@@ -9,9 +9,9 @@ If you want to access the main points of our Terms of Use in a simplified way, f
 
 Last update:
 
-February 20, 2025. The new changes are **effective since February 27, 2025**.
+May 21, 2025. The new changes become **effective as of May 28, 2025**.
 
-If you do not agree to the updated Terms, your can stop using the Dailymotion Service. If you continue to use the Dailymotion Service after the effective date, we consider that you accepted the updated Terms.
+If you do not agree to the updated Terms, you can stop using the Dailymotion Service. If you continue to use the Dailymotion Service after the effective date, we consider that you accepted the updated Terms.
 
 ### **SECTION 1: DESCRIPTION OF THE DAILYMOTION SERVICE**
 
@@ -21,7 +21,7 @@ If you do not agree to the updated Terms, your can stop using the Dailymotion Se
 
 1.3. If You want to be able to upload videos and access some other features of the Dailymotion Service, You first need to create a Dailymotion Account and have Your email address validated (see Section 1.4.) at which point You will be a “**User**.” A “**Dailymotion Account**” means the video content storage space on the Dailymotion Service which is dedicated to a User (as defined below) on the Dailymotion Service that can be created by signing up for a Dailymotion Account via [www.dailymotion.com](http://www.dailymotion.com/).
 
-1.4. Information provided by You to create Your Dailymotion Account must be accurate and complete. In order for Dailymotion to verify that the email address You provided is valid, You will receive an email from Dailymotion asking You to validate Your email address.
+1.4. Information provided by You to create Your Dailymotion Account must be accurate and complete. In order for Dailymotion to verify that the email address You provided is valid, You will receive an email from Dailymotion asking You to validate Your email address. Pending validation of Your email address, access to some of the Dailymotion Service’s features may be restricted. 
 
 1.5. By creating a Dailymotion Account, You agree that You alone is responsible (to Dailymotion and to others) for the activities that occur under Your Dailymotion Account. Your user ID and password are at Your sole responsibility and it is Your obligation to keep them confidential. You should immediately notify Dailymotion of any unauthorized use of Your User ID, password or any other breach of Your Dailymotion Account security.
 
@@ -50,11 +50,11 @@ b) Dailymotion may use technical or other tools to maintain compliance of Conten
 
 2.3. Dailymotion may, in its sole discretion, modify the Terms from time to time, and You agree to be bound by such modifications. Although we may notify You when major changes are made to the Terms, You should periodically review the most up-to-date version which is always accessible from the homepage of the Dailymotion website. If You do not agree to the modified Terms or cannot comply with the modified Terms, Your only recourse is to stop using the Dailymotion Service. Your continued use of the Dailymotion Service after the effective date of the modified Terms will constitute Your acceptance of the modified Terms.
 
-2.4. If you are an individual (by opposition to a legal entity), You represent to Dailymotion that you are either: (i) more than 18 years old, or (ii) an emancipated minor, or (iii) the law of your country allows you to enter into the terms, conditions, obligations, affirmations, representations, and warranties in the Terms, or (iv) You have obtained your parent or guardian consent. In any case, the Dailymotion Service is not intended for children under 13 so you shall not use it if you are not 13 yet. You shall neither use the Dailymotion Service if (a) You are not of legal age to form a binding contract with Dailymotion, or (b) You are legally prohibited from receiving or using the Dailymotion Service under the laws of the country in which You are a resident or from which You access or use the Dailymotion Service.
+2.4. If you are an individual (by opposition to a legal entity), You represent to Dailymotion that You are either: (i) at least 18 years old, or (ii) at least 13 years old AND either: (a) an emancipated minor, or (b) the law of your country allows you to enter into the terms, conditions, obligations, affirmations, representations, and warranties in the Terms, or (c) You have obtained your parent or guardian consent. In any case, the Dailymotion Service is not intended for children under 13 so You shall not use it if You are not 13 yet. You shall neither use the Dailymotion Service if (a) You are not of legal age to form a binding contract with Dailymotion, or (b) You are legally prohibited from receiving or using the Dailymotion Service under the laws of the country in which You are a resident or from which You access or use the Dailymotion Service.
 
 2.5. If You are not an individual (i.e., a corporation or other legal entity), You represent to Dailymotion that You have all necessary corporate or equivalent authority and power to agree to the Terms which You agree shall be binding on the corporation, partnership, association or other entity in whose name You are using or accessing the Dailymotion Service.
 
-2.6. Access to the Dailymotion Service is limited to individuals, corporations or other legal entities. Unless authorized by the applicable laws, access by means of automated processes (e.g. robots, botnets, or scraper) is expressly prohibited without a prior written approval of Dailymotion. Dailymotion may use technical means to detect and block any unauthorized access to the Dailymotion Service.
+2.6. Access to the Dailymotion Service is limited to individuals, corporations or other legal entities. Access by means of automated processes (e.g. robots, botnets, scrapers, etc.) endangers the proper functioning of our Service, limits legitimate end-users’ access to its features, causes financial prejudice and constitutes a security threat to various categories of our end-users. Unless authorized by the applicable laws, access by means of automated processes is expressly prohibited without a prior written approval of Dailymotion. Dailymotion may use technical means to detect and block any unauthorized access to the Dailymotion Service. You explicitly recognize and agree that when You access the Dailymotion Service or any part thereof, the use of such technologies, including when they consist in accessing Your device to read or write information (ex. to determine whether an attempt to access the Dailymotion Service is triggered by a human or by a robot), is necessary for the detection and prevention of attempts of such unauthorized access  and for the provision of the Dailymotion Service to You. 
 
 ###   
 **SECTION 3: YOUR INTELLECTUAL PROPERTY RIGHTS**
