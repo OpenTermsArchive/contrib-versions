@@ -229,7 +229,7 @@ Your rights in relation to your personal data
 
 Open
 
-In some countries and territories, data protection and consumer privacy laws provide individuals with rights regarding the personal data processed by organisationz. If you live or work in the UK, EEA or Switzerland, you have the rights below in relation to the personal data processed by Palantir. If you live or work in any other country, and that country you live or work in grants similar rights, you may also have some or all of the rights below in relation to the personal data processed by Palantir. Please note that these rights are not absolute, and in some circumstances may be balanced against other considerations, including the privacy rights of other individuals. Your rights:
+In some countries and territories, data protection and consumer privacy laws provide individuals with rights regarding the personal data processed by organizations. If you live or work in the UK, EEA or Switzerland, you have the rights below in relation to the personal data processed by Palantir. If you live or work in any other country, and that country you live or work in grants similar rights, you may also have some or all of the rights below in relation to the personal data processed by Palantir. Please note that these rights are not absolute, and in some circumstances may be balanced against other considerations, including the privacy rights of other individuals. Your rights:
 
 **_The right of access to your personal data:_** You may have the right to receive confirmation about whether we process your personal data and, if we do, to obtain access to your personal data. You may also have the right to obtain certain information about how we process your personal data.
 
@@ -302,7 +302,7 @@ Palantir Technologies GmbH
 
 Attention**:** Data Protection Officer
 
-Mainzer Landstr. 41
+Marienstraße 15
 
 60329 Frankfurt am Main
 
@@ -366,7 +366,7 @@ To target advertising:
 * **Our legitimate interests.** We process this personal data on the basis of Palantir’s legitimate interest in understanding who best to market our products and services to.
     
 
-To analyse activity on our websites and improve our public facing platforms and communications user experience:
+To analyze activity on our websites and improve our public facing platforms and communications user experience:
 
 * **Our legitimate interests.** We process this personal data on the basis of Palantir’s legitimate interest in understanding how Palantir’s websites are used and how best they can be improved.
     
@@ -418,7 +418,7 @@ Open
 
 **US Consumer Privacy Act Notice**
 
-_Last updated December 2024._
+_Last updated February 2025._
 
 This section (the “US Notice”) provides additional information regarding the applicable US state comprehensive privacy laws that are in effect as of January 15, 2025 (individually known as a “US State Privacy Law” and collectively known as “US State Privacy Laws”) and supplements the disclosures and information throughout this Statement. The commitments in this US Notice apply only to individuals covered by the US State Privacy Laws and are subject to certain statutory exceptions laid out in the US State Privacy Laws. This US Notice does not apply to information we collect about individuals in their capacity as present or former job applicants, employees, contractors, owners, directors, or officers of Palantir.
 
@@ -706,7 +706,7 @@ Request to Obtain a Copy: Where applicable ,you may request that we provide a co
 
 List of specific third parties: Oregon, Minnesota, and Delaware consumer may request a list of specific third parties to whom we have disclosed your Personal Data.
 
-Sensitive Information: For Virginia, New Hampshire, Colorado, Connecticut, Delaware, Nebraska, Utah, Texas, and Oregon consumers, we will not process your Sensitive Personal Information without obtaining your consent. California consumers will have the right, at any time, to limit the use of their Sensitive Personal Information. For California consumers, please visit “Limit the Use of My Sensitive Personal Information by submitting a form [here](https://www.palantir.com/privacy-and-security/data-request) or by emailing us at [ccpa-requests@palantir.com to exercise this right.](mailto:ccpa-requests@palantir.com%20to%20exercise%20this%20right.%20) These requests will be processed in accordance with Calfornia Consumer Privacy Act, as amended by the California Privacy Rights Act “CCPA”.
+Sensitive Information: For Virginia, New Hampshire, Colorado, Connecticut, Delaware, Nebraska, Utah, Texas, and Oregon consumers, we will not process your Sensitive Personal Information without obtaining your consent. California consumers will have the right, at any time, to limit the use of their Sensitive Personal Information. For California consumers, please visit “Limit the Use of My Sensitive Personal Information by submitting a form [here](https://www.palantir.com/privacy-and-security/data-request) or by emailing us at [ccpa-requests@palantir.com to exercise this right.](mailto:ccpa-requests@palantir.com%20to%20exercise%20this%20right.%20) These requests will be processed in accordance with California Consumer Privacy Act, as amended by the California Privacy Rights Act “CCPA”.
 
 Request to Opt-Out of the Sale or Sharing: Where applicable, you may opt out of our “sale” of Personal Information or “sharing” of Personal Information for the purposes of (i) targeted advertising, or (ii) “sale” of personal data. Opt-out preference signals will be processed in accordance with applicable laws.
 
