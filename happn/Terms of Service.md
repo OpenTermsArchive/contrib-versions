@@ -1,7 +1,7 @@
 Terms of Service
 ================
 
-Updated on: 10/02/2024
+Updated on: 31/05/2025
 
 Definitions
 ===========
@@ -51,8 +51,6 @@ If the photo of the Member’s face is not placed in first position, it will be 
 **Subscriber Member**: member who has subscribed to HAPPN Premium or HAPPN Supreme.
 
 **Account**: The Member’s dedicated personal area within the Application, which he or she accesses when he or she registers and connects to the Application. It enables the Member to access the Services. A Member may only have one Account.
-
-**Facebook Connect**: A feature enabling Members to use their Facebook account to log in to the Application, in order to simplify the registration process.
 
 **CrushTime**: An optional game, offered by HAPPN via a notification to the Member. For each hand, guess which person Liked you from a board of four profiles by sending him or her a Like in return.
 
@@ -137,13 +135,11 @@ The Member must be over the age of 18, and must guarantee that all information p
 
 Registration can be done in these ways:
 
-\- via the Facebook Connect: the social network enables HAPPN to use the Member’s profile photo, first name, age calculated based on date of birth in order to create a “profile” page.  Consequently, the Member must check the accuracy of his or her Facebook  information before registering with the Service.
-
-\- via a cell phone number: in this case, no information on the Member may be automatically retrieved and it is his or her responsibility to supply personal information such as first and last name, sex, date of birth as well as other additional information if desired and one or more personal photos at the time of registration. 
+\- via a mobile phone number: in this case, no information on the Member may be automatically retrieved and it is his or her responsibility to supply personal information such as first and last name, sex, date of birth as well as other additional information if desired and one or more personal photos at the time of registration. 
 
 \- Via Apple or Google Sign in: it is the Member’s responsibility to provide information relating to him or her, such as first name, last name, gender, date of birth, and other additional information if he or she wishes. The Member must also provide one or more photos of himself or herself when registering.
 
-\- Via the HAPPN Webapp via Facebook Connect or Google Sign in.
+\- Via the HAPPN Webapp via a mobile phone number or Google Sign in.
 
 Upon registration, the Member accepts these TOS and the Privacy Policy and agrees to fulfill his or her obligations, and particularly those set out in the Member Code of Conduct defined in Article 8 of these TOS.
 
@@ -153,7 +149,7 @@ Article 5: Services and Features
 5.1 Purpose of the Service
 --------------------------
 
-HAPPN is an online dating application enabling Members to find, in the Application, people with whom they have crossed paths or may cross paths, as well as those likely to interest them. The Application offers Members profiles that are automatically selected based on their search preferences, their profile activity on the Application, their Characteristics, favourite places or location. The Member cannot modify the recommendation criteria. We believe these criteria are the most likely to determine your compatibility with the profiles offered by the Application. However, the information that the Member fills in on his/her profile is likely to influence the recommendations.
+HAPPN is an online dating application enabling Members to find, in the Application, people with whom they have crossed paths or may cross paths, as well as those likely to interest them. The Application offers Members profiles that are automatically selected using artificial intelligence systems (« AIS ») based on their search preferences, their profile activity on the Application, their Characteristics, favourite places or location. HAPPN undertakes to implement these AIS in accordance with the “AI Systems” article of these T&Cs. The Member cannot modify the recommendation criteria. We believe these criteria are the most likely to determine your compatibility with the profiles offered by the Application. However, the information that the Member fills in on his/her profile is likely to influence the recommendations.
 
 Each Member is free to talk to and form relationships with other Members in compliance with these TOS and the law.
 
@@ -265,9 +261,9 @@ Outside the scope of this reporting system, the Member can decide to block anoth
 
 This reporting system is accessible and operational: 
 
-• On an iPhone: at the top right of the Member’s profile photo, and at the top right of the conversation with the Member in question;
+• On iPhone: At the bottom of the Member's profile and at the top right corner of the conversation with the Member concerned.
 
-• On an Android Smartphone: at the top right of the Member’s profile photo, and at the top right of the conversation with the Member in question;
+• On Android smartphones: At the bottom of the Member's profile and at the top right corner of the conversation with the Member concerned.
 
 Should content be published that was reported and that may be seen as a violation of law or regulations, the Member who is a victim of this content is encouraged to submit a complaint to the appropriate police authorities.
 
@@ -289,6 +285,22 @@ Similarly, the Member is solely liable for checking the identity of the Crush wi
 
 Any use of HAPPN Services to organize a group meeting of its Members constitutes a misuse of the Service. This is why using the Application to plan or organize a demonstration in a public place is strictly prohibited. Should such a meeting take place, HAPPN may not be held liable in the case of a public order offense or any damage caused by such meeting.
 
+  
+7.6 AI Systems
+-----------------
+
+HAPPN uses AI systems to:
+
+\- detect fake profiles;
+
+\- detect fraudulent behaviour on the Application, such as scams or other abusive behaviour;
+
+\- generate profile recommendations.
+
+HAPPN has taken into account, during the design of the Services, and undertakes to continuously take into account (i) the applicable regulations on artificial intelligence, in particular Regulation (EU) 2024/1689 of the European Parliament and of the Council of 13 June 2024 establishing harmonised rules on artificial intelligence ("AI Act"), (ii) the general principles and international standards on artificial intelligence, in particular relating to the use of ethical, responsible, and sustainable artificial intelligence technologies and models, (iii) respect for the rights of individuals, in particular their privacy, and (iv) the risks of bias and discrimination, which it will endeavour to limit.
+
+HAPPN makes no warranties with respect to the AI systems used in connection with the Services beyond the applicable provisions of the AI Act.
+
 Article 8: Member Code of Conduct
 =================================
 
@@ -299,7 +311,7 @@ In order to become a Member, all of the following conditions must be met:
 
 • Must be an adult as specified by French law (minimum of 18 years old on last birthday).
 
-• Must have honestly and truthfully filled out the Facebook profile information or directly in the Application in the case of registration via a cell phone number via Apple or Google Sign in, or via the HAPPN Webapp. The Member must have provided the first name, sex and date of birth shown in his or her personal information. Failing that, the Member agrees to correct any errors on his or her Facebook profile, and to activate syncing of information between his or her Facebook profile and his or her Account. At the same time, the Member agrees to provide a valid email address.
+• Must have honestly and truthfully filled out the profile information directly in the Application in the case of registration via a cell phone number via Apple or Google Sign in, or via the HAPPN Webapp. The Member must have provided the first name, sex and date of birth shown in his or her personal information. At the same time, the Member agrees to provide a valid email address.
 
 • Must agree to regularly update the information provided when accessing his or her Account from the Application.
 
@@ -320,7 +332,7 @@ In order to remain a Member, all of the following conditions must be met: 
 
 • Be honest and truthful in his or her statements.
 
-• Only post photos and/or profile information that allow a Member to be easily identified, and at the very least, in first position, one Profile Photo as previously defined, meaning one in which your face can be recognized clearly, these two criteria comprising a fundamental condition for using the Services, excluding photos and/or information in which third parties or items with no connection to the person or Member appear, such that HAPPN reserves the right to delete, at its discretion, any photo and/or profile that does not meet these requirements.
+• Only post photos and/or profile information that allow a Member to be easily identified, and at the very least, in first position, one Profile Photo as previously defined, meaning one in which your face can be recognized clearly, these two criteria comprising a fundamental condition for using the Services, excluding photos and/or information in which third parties or items with no connection to the person or Member appear, such that HAPPN reserves the right to delete, at its discretion, any photo and/or profile that does not meet these requirements. The use of Photos generated by an AIS is prohibited.
 
 • Refrain from posting any confidential information about others such as financial data.
 
@@ -344,7 +356,7 @@ In order to remain a Member, all of the following conditions must be met: 
 
 • Refrain from changing, copying, assembling, decompiling or otherwise attempting to use the Application’s source code, algorithms or software as well as those of HAPPN’s partners, for any purposes other than those provided in these TOS, especially for reverse engineering.
 
-• Refrain from using robots or tools other than those provided by HAPPN when using the Application to contact other Members.
+• Do not use robots, AIS, or tools other than those provided by HAPPN when using the Application to contact other Members.
 
 • Refrain from using the Application to arrange professional services (escort or other similar services).
 
@@ -403,7 +415,7 @@ As regards the people with whom the Member has agreed to exchange Messages, it i
 8.7 Account Management
 ----------------------
 
-The Member must regularly consult his or her inbox and notifications, which HAPPN will use inter alia to keep the Member updated on information pertaining to its Services. This information may also be sent to the Member’s email address obtained through Facebook Connect or directly provided by the Member when registering with a cell phone number, or via Apple, Google Sign in, or via the HAPPN Webapp.
+The Member must regularly consult his or her inbox and notifications, which HAPPN will use inter alia to keep the Member updated on information pertaining to its Services. This information may also be sent to the Member’s email address provided by the Member when registering with a cell phone number, or via Apple, Google Sign in, or via the HAPPN Webapp.
 
 The Member may access the Services of his or her Account by connecting to the Application using a confidential user name and password. The Member is solely responsible for his or her login information and must ensure that no third party may access them. In particular, the Member shall specifically hold HAPPN harmless against any communication, use or declaration made using his or her Account.
 
