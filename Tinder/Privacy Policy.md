@@ -11,7 +11,7 @@ Hey there! Welcome to Tinder’s Privacy Policy.
 
 We know reading a privacy policy might not be everyone’s idea of a good time, but hear us out. We put a lot of effort into making this policy as clear and engaging as possible, because we actually want you to read it! Think of us as your digital wingmate, here to guide you through the ins and outs of what data we collect, and why and how we use it. So get cozy, grab your beverage of choice, and let’s dive into the world of personal data together. 
 
-This Privacy Policy applies from February 28, 2025. The previous version, available [here](https://policies.tinder.com/privacy-policy-8-25-2024), applies until then.
+This Privacy Policy applies from May 21, 2025. The previous version, available [here](https://policies.tinder.com/privacy-policy-8-25-2024), applies until then.
 
 1. [Who We Are](#who-we-are)
     
@@ -231,6 +231,24 @@ By post:
 > Dublin   
 > D02 PY28  
 > Ireland
+
+#### **If you live in the United Kingdom:**
+
+Online: [here](https://gotinder.com/help)
+
+By post:
+
+> UK GDPR Representative: Prighter Group
+> 
+> [rep\_tinder@prighter.com](mailto:rep_tinder@prighter.com) 
+> 
+> 20 Mortlake Mortlake High Street,
+> 
+> London, SW14 8JN,
+> 
+> United Kingdom
+
+UK representation certificate and representative details here. 
 
 For more information on how to contact the data protection officer, please click [here](https://www.help.tinder.com/hc/articles/5349453268877-How-do-I-contact-Tinder-s-Data-Protection-Officer-) 
 
