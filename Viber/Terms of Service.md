@@ -1,7 +1,7 @@
 Viber Terms of Service
 ======================
 
-_Last updated: March 24, 2025_
+_Last updated: May 22, 2025_
 
 _We’ve recently updated our terms and policies. View the summary of changes_ [**_here_**](https://vb.me/policyupd2025)_._
 
@@ -79,6 +79,8 @@ Currently we offer the following services, some of the services are free of char
 * **Viber Dating****:** Viber Dating allows you to create a dating profile on Viber and experience our dating services. Viber Dating’s goal is to help you find and meet new people, and build and foster friendships and relationships. Viber Dating is governed by the **[Viber Dating Terms and Conditions](https://www.viber.com/terms/viber-dating-terms-and-conditions/)****.**
 
 * **Business Accounts (Micro and Small Businesses):** users who own micro or small business can increase their business engagement and create a business profile on the Viber App (“**Business Account**”), enabling the direct interaction with their customers, including by promoting their goods and services and using secure one-on-one messages. The Business Accounts and business services are governed by the [**Viber Business Accounts Terms and Conditions**](http://www.viber.com/en/terms/viber-business-terms-and-conditions/).
+
+When users search for Business Accounts on Viber, our algorithm displays and orders results based on several main parameters, including (i) relevance to the user’s query (e.g., matching keywords in the Business Account name or description, business location, business category), (ii) general business interactions and responsiveness levels, (iii) compliance with Viber policies, and (iv) whether a Business Account has chosen to use the “Boost” feature (part of Business Account paid subscription), which can increase visibility over non-Boosted accounts. While Boost influences how prominently a Business Account appears, it does not guarantee a specific ranking or placement. Viber may update these parameters from time to time to improve user experience.
 
 * **Business Solutions****:** For larger businesses, Viber offers various businesses-oriented solutions, which can be explored **[here](https://www.forbusiness.viber.com/en/)**.
 
@@ -325,6 +327,6 @@ To allow safe access to emergency services, the Viber mobile app initiates emerg
 
 In case you experience any issue with the Viber Out service, please contact our support as provided under section 21 of the Terms and our team will check such report and will endeavor to remedy any such fault as reasonably feasible. For any information relating to technical details with respect to the calls transferred between mobile networks, please review your agreement with your mobile operator.
 
-Current Terms of Use PDF [**Viber Terms of Service March 2025**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-March-2025.pdf)
+Current Terms of Use PDF [**Viber Terms of Service May 2025**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-May-2025.pdf)
 
-Previous Terms of Use PDF [**Viber Terms of Service April 2023**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-April-2023-1.pdf)
+Previous Terms of Use PDF [**Viber Terms of Service March 2025**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-March-2025.pdf)
