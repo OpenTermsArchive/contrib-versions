@@ -41,14 +41,16 @@ Do not create, upload or distribute content that exploits or abuses children. Th
 
 More broadly, Google prohibits the use of our products to endanger children. This includes, but is not limited to, predatory behaviour towards children such as:
 
-* 'Child grooming' (e.g. befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child);
+* 'Child grooming' (e.g. befriending a child online to facilitate, either online or offline, sexual contact and/or exchanging sexual imagery with that child)
 * 'Sextortion' (e.g. threatening or blackmailing a child by using real or alleged access to a child's intimate images)
-* Sexualisation of a minor (e.g. imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children); and
-* Trafficking of a child (e.g. advertising or the solicitation of a child for commercial sexual exploitation).
+* Sexualisation of a minor (e.g. imagery that depicts, encourages or promotes the sexual abuse of children or the portrayal of children in a manner that could result in the sexual exploitation of children) and
+* The trafficking of a child (e.g. advertising or the solicitation of a child for commercial sexual exploitation)
 
-We will remove such content and take appropriate action, which may include reporting to the National Center for Missing & Exploited Children, limiting access to product features and disabling accounts. If you believe that a child is in danger of or has been subject to abuse, exploitation or trafficking, contact the police immediately. If you have already made a report to the police and still need help, [you can report the behaviour to Google](https://support.google.com/families/contact/report_child_grooming).
+We will remove such content and take appropriate action, which may include reporting to the US National Center for Missing & Exploited Children, limiting access to product features and disabling accounts. If you believe that a child is in danger of or has been subject to abuse, exploitation or trafficking, contact the police immediately. If you have already made a report to the police and still need help, [you can report the behaviour to Google](https://support.google.com/families/contact/report_child_grooming).
 
-**Last updated**: October 2019
+[Learn more about Google's efforts to combat child sexual abuse](https://support.google.com/transparencyreport/answer/10330933).
+
+**Last updated:** May 2025
 
 Circumvention
 
