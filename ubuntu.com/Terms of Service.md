@@ -231,12 +231,12 @@ The open source software platform that runs everywhere from the smartphone, the 
 [Security](https://ubuntu.com/security) [Security](https://ubuntu.com/security)
 -------------------------------------------------------------------------------
 
+* [Platform Security](https://ubuntu.com/security/platform-security)
 * [ESM](https://ubuntu.com/security/esm)
 * [Livepatch](https://ubuntu.com/security/livepatch)
 * [Security standards](https://ubuntu.com/security/security-standards)
 * [CVEs](https://ubuntu.com/security/cves)
 * [Notices](https://ubuntu.com/security/notices)
-* [Docker Images](https://ubuntu.com/security/docker-images)
 * [Assurances](https://ubuntu.com/security/assurances)
 
 * * *
