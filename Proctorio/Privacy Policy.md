@@ -31,7 +31,7 @@ You can customize the Policy to only see the portions that apply to you. Just ch
 Privacy Notice
 --------------
 
-Last modified May 1, 2025.
+Last modified May 7, 2025.
 
 * General
 * "Personal Information" means information that identifies, relates to, describes, is capable of being associated with or could reasonably be linked, directly or indirectly, with a particular consumer or household, such as your name, mailing and email addresses, phone number, and other information that permits us to contact you at a physical location, online, or by electronic communication, including telephone or email.
@@ -116,6 +116,8 @@ ID Verification
 Additionally, an Institution may select an option to verify the test taker's identity before they start their exam. The Institution can choose the Live ID Verification or the Automated ID Verification option. In both options, the Personal Information that is collected may include name, government ID number, and date of birth if the test taker chooses to utilize their government-issued ID or the Institution requires the test taker to use the government-issued ID to validate their identity.
 
 This ID image along with other test-taker audio, video, and screen recordings and images are stored with Zero-Knowledge Encryption by Proctorio as described below.
+
+Proctorio uses a third-party sub-processor to conduct identity verification of test takers. When conducting identity verification, and with test takers’ explicit consent, Proctorio provides the sub-processor with test takers’ credit cards, identity documents, and/or biometric data ("Underlying Data") solely to verify identity of test takers. As soon as the subprocessor verifies identity, Proctorio initiates a redaction sequence from the sub-processor who then immediately redacts all Underlying Data. At no time does Proctorio retain or store any Underlying Data.
 
 ### Live ID
 
