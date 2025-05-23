@@ -217,7 +217,7 @@ This policy may change over time. We’re always looking for new and innovative 
 
 If you have questions about this Privacy Policy, you have different options below:
 
-#### **If you live in the European Economic Area, the United Kingdom or Switzerland:**
+#### **If you live in the European Economic Area or Switzerland:**
 
 Online: [here](https://gotinder.com/help)
 
