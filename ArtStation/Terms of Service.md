@@ -335,7 +335,7 @@ Epic does not endorse any of the content on the Site. Epic will not be responsib
 
 ### 21\. Monitoring and Disclosure.
 
-Epic cannot monitor everything on the Site and does not normally monitor your use of the Services; however, Epic and our representatives may do so. We reserve the right (but have no obligation) to remove, delete, edit or reclassify content that we determine, in our sole discretion, is objectionable for any reason. We will not have any liability for any failure to remove, or delay in removing, any content. We may disclose any information that is necessary to satisfy any law, regulation or lawful request or as necessary to operate the Services or to protect the rights or property of itself or others that are directly related to providing the Services. If you notice any inappropriate content on the Site, please contact us.
+Epic cannot monitor everything on the Site and does not normally monitor your use of the Services; however, Epic and our representatives may do so. We reserve the right (but have no obligation, unless required by applicable law) to remove, delete, edit or reclassify content that we determine, in our sole discretion, is objectionable for any reason. We will not have any liability for any failure to remove, or delay in removing, any content, unless required by applicable law. We may disclose any information that is necessary to satisfy any law, regulation or lawful request or as necessary to operate the Services or to protect the rights or property of itself or others that are directly related to providing the Services. If you notice any inappropriate content on the Site, please contact us.
 
 > Basically...
 > 
@@ -473,7 +473,7 @@ If you do not log into your account for any period of at least 365 consecutive c
 
 ### 32\. Termination
 
-Without prejudice to any of our rights at law or equity, Epic may terminate your access to the Site and the Services with no prior notice if you fail to make a payment to Epic as and when required, or if you fail to comply with any obligation in this Agreement, or if any of your representations or warranties is or becomes untrue. Epic may also terminate or suspend any or all of the Services at any time without prior notice.
+Without prejudice to any of our rights at law or equity, Epic may terminate your access to the Site and the Services with no prior notice if you fail to make a payment to Epic as and when required, or if you fail to comply with any obligation in this Agreement, or if any of your representations or warranties is or becomes untrue. If you are a user residing outside the EU, Epic may also terminate or suspend any or all of the Services at any time without prior notice.
 
 ### 33\. Termination by you
 
@@ -493,7 +493,7 @@ Upon termination of your account or this agreement:
 
 (b) you will have no further access to your account or anything associated with it;
 
-(c) you will not receive any refunds for fees you paid under this Agreement;
+(c) you will not receive any refunds for fees you paid under this Agreement (Nothing in the foregoing is intended to affect any statutory right of withdrawal. To find out more about your statutory right of withdrawal, please consult our [Information regarding the Right of Withdrawal for Users domiciled in the European Union](https://www.epicgames.com/site/right-of-withdrawal).);
 
 (d) any unused or remaining time, credits, points or in your account at the date of termination will be permanently forfeited and revoked from you, and you will not receive any refund or credit for any of them;
 
@@ -551,15 +551,33 @@ You must not link to the Site or any content on the Site except as explicitly pe
 
 ### 38\. Disclaimer
 
+If you are a user residing outside the EU, the following applies:
+
 THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS AND THE SERVICES ARE PROVIDED “AS IS” AND “AS AVAILABLE”. EPIC DISCLAIMS ALL TERMS, CONDITIONS, GUARANTEES, REPRESENTATIONS AND WARRANTIES (EXPRESS, IMPLIED, STATUTORY AND OTHERWISE), IN RESPECT OF THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS AND THE SERVICES, INCLUDING THOSE OF MERCHANTABILITY, NON-INFRINGEMENT, TITLE, QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+
+If you are a user residing in the EU, the following applies:
+
+Your statutory warrant rights apply.
 
 ### 39\. Limitation of Liability
 
+If you are a user residing outside the EU, the following applies:
+
 YOU USE THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS AND THE SERVICES AT YOUR OWN RISK. EPIC WILL NOT BE LIABLE FOR ANY LOSS IN CONNECTION TO THE USE OF, OR INABILITY TO USE, THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS AND THE SERVICES, INCLUDING ANY LOSS TO YOUR CONTENT. TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AND WITHOUT LIMITING THE PREVIOUS SENTENCE, EPIC WILL NOT BE LIABLE FOR ANY INDIRECT, CONSEQUENTIAL, INCIDENTAL, SPECIAL, PUNITIVE OR EXEMPLARY DAMAGES OR LOST PROFITS WHATSOEVER IN CONNECTION WITH THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS OR THE SERVICES.
+
+If you are a user residing in the EU, the following applies:
+
+Epic, its affiliates, and its and their licensors and service providers (collectively, the “Epic Parties”) shall be liable without limitation for intent and gross negligence as well as for damages resulting from injury to life, body or health. In cases of slight negligence, the Epic Parties shall only be liable in the event of a breach of a material contractual obligation. A material contractual obligation within the meaning of this clause is an obligation the fulfilment of which the contractual partner may therefore regularly rely. The limitations of liability apply accordingly in favor of the Epic Parties’s employees, agents and vicarious agents. Any liability on the Epic Parties’s part for any commercial guarantees the Epic Parties may have provided and for claims based on obligatory product liability law or in the event of data protection violations shall remain unaffected.
 
 ### 40\. Maximum Liability
 
+If you are a user residing outside the EU, the following applies:
+
 IF, DESPITE THE ABOVE LIMITATIONS, EPIC BECOMES LIABLE TO YOU IN RESPECT OF THE SITE, THE ARTSTATION CONTENT, THE ARTSTATION TOOLS OR THE SERVICES, OR A COMBINATION OF THE FOREGOING, THAT LIABILITY WILL BE LIMITED TO USD $500.
+
+If you are a user residing in the EU, the following applies:
+
+This liability for breach of a slight negligent breach of a material contractual obligation that does not result in damages from injury to life, body, or health is limited to the damage foreseeable at the time of the conclusion of the contract, the occurrence of which must be typically expected.
 
 ### 41\. Indemnity
 
@@ -581,7 +599,13 @@ YOU WILL INDEMNIFY EPIC AND ITS AFFILIATES, OFFICERS, DIRECTORS, SHAREHOLDERS, E
 
 ### 42\. Modifications to this Agreement
 
+If you are a user residing outside the EU, the following applies:
+
 From time to time in our sole discretion Epic may modify the terms of this Agreement by posting the modifications on the Site. You will be bound by the modified terms after the modified terms have been emailed to you or have been posted on the Site for 30 days.
+
+If you are a user residing in the EU, the following applies:
+
+Epic may amend this Agreement at any time for the future, with the exception of the provisions determining your and Epic’s primary contractual obligations hereunder, if and to the extent such changes are necessary due to the implementation of statutory requirements, changes in supreme court rulings, and the elimination of interpretation doubts due to regulatory loophole or ambiguities. If the contractual balance between you and Epic is significantly disturbed by the amendment and if the amendment becomes unreasonable to you, as a result, the amendment shall not be made. Epic will inform you of any proposed amendments of this Agreement with at least 30 days notice before such amendments are in effect. If you do not expressly refuse the respective amendment within 30 days from the date on which the new Agreement is implemented, you are deemed to have approved the amendment of this Agreement.
 
 > Basically...
 > 
@@ -591,7 +615,13 @@ From time to time in our sole discretion Epic may modify the terms of this Agree
 
 ### 43\. Governing law
 
-Any dispute or claim by you arising out of or related to this Agreement will be governed by North Carolina law, exclusive of its choice of law rules.  For any disputes deemed not subject to binding individual arbitration, as provided in the section immediately below, you and Epic agree to submit to the exclusive jurisdiction of the Superior Court of Wake County, North Carolina, or, if federal court jurisdiction exists, the United States District Court for the Eastern District of North Carolina.  You and Epic agree to waive any jurisdictional, venue, or inconvenient forum objections to such courts (without affecting either party’s rights to remove a case to federal court if permissible), as well as any right to a jury trial.  The Convention on Contracts for the International Sale of Goods will not apply.  Any law or regulation which provides that the language of a contract shall be construed against the drafter will not apply to this Agreement. This paragraph will be interpreted as broadly as applicable law permits.
+If you are a Content Provider, or you are a Content Acquirer residing outside the EU, the following applies:
+
+Any dispute or claim by you arising out of or related to this Agreement will be governed by North Carolina law, exclusive of its choice of law rules. For any disputes deemed not subject to binding individual arbitration, as provided in the section immediately below, you and Epic agree to submit to the exclusive jurisdiction of the Superior Court of Wake County, North Carolina, or, if federal court jurisdiction exists, the United States District Court for the Eastern District of North Carolina. You and Epic agree to waive any jurisdictional, venue, or inconvenient forum objections to such courts (without affecting either party’s rights to remove a case to federal court if permissible), as well as any right to a jury trial. The Convention on Contracts for the International Sale of Goods will not apply. Any law or regulation which provides that the language of a contract shall be construed against the drafter will not apply to this Agreement. This paragraph will be interpreted as broadly as applicable law permits.
+
+If you are a Content Acquirer residing in the EU, the following applies:
+
+Any claim or dispute arising out of or related to this Agreement shall be governed by the laws of your country of residence.
 
 * * *
 
@@ -665,8 +695,8 @@ For more information about our content moderation practices, please visit our [S
 
 * * *
 
-Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 16, 2024)
+**Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 14, 2025).**
 
-The estimated average monthly active recipients in the European Union of ArtStation for the past six months was 1.3 million.
+The estimated average monthly active recipients in the European Union of ArtStation for the past six months was 1.1M.
 
 Users who accessed more than one of Epic's services or products in a given month are counted as a user for each service or product.
