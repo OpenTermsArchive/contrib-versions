@@ -59,7 +59,7 @@ We may collect information about you from other sources, such as through certain
 1. **Social Media Services**. If you register or log into your account through a third-party social media service, we will have access to some of your third-party account information from that service, including identifiers, such as your name and other information in that account, and used for purposes such as improving your Meetup recommendations. We may also have access to third-party account information if you use the Platform feature to share a link. [See this article for more information on how to enable or disable the connection between our Platform and your third-party account](https://help.meetup.com/hc/en-us/articles/360002878451).
 2. **Member Content**. We may receive information about you when you or another member uploads photos or posts other content to the Platform. For further details about the rights over this information available to individuals, see [Section 6](https://help.meetup.com/hc/en-us/articles/360044422391#h_c9263130-4290-4d41-a349-6c9ea2db47fa).
 3. **Current or Future Corporate Affiliates**. We may receive information about you from our current or future corporate parents, subsidiaries, or affiliates.
-4. **Information From Other Third-Party Sources**. In order to provide you with more tailored recommendations, we may obtain information about you from publicly and commercially available sources, such as third-party publishers, advertising networks, and service providers that we use to manage ads on our and other sites, and other third parties as permitted by law. For more information about the data that we obtain from these providers, please contact us at privacy@meetup.com.
+4. **Information From Other Third-Party Sources**. In order to provide you with more tailored recommendations, we may obtain information about you from publicly and commercially available sources, such as third-party publishers, advertising networks, and service providers that we use to manage ads on our and other sites, and other third parties as permitted by law. For more information about the data that we obtain from these providers, please contact us at privacy@meetup.com.
 
 We may analyze and make inferences from the information we collect.
 
@@ -223,7 +223,7 @@ We may modify this Privacy Policy from time to time. When we do, we will provide
 
 **5.1 Your Choices: Account Information**
 
-You may update or correct your account information by editing your account settings or by sending a request to privacy@meetup.com as described in [Section 6](https://help.meetup.com/hc/en-us/articles/360044422391#h_c9263130-4290-4d41-a349-6c9ea2db47fa) and [Section 7](https://help.meetup.com/hc/en-us/articles/360044422391#h_d134450a-afaa-4dc5-9fb3-095c8b1bb0cd). You may deactivate your account by editing your account settings. You may also request deletion of your information as described in [Section 6](https://help.meetup.com/hc/en-us/articles/360044422391#h_c9263130-4290-4d41-a349-6c9ea2db47fa) and [Section 7](https://help.meetup.com/hc/en-us/articles/360044422391#h_d134450a-afaa-4dc5-9fb3-095c8b1bb0cd).  You will also be able to choose what information others see about you and who may contact you by using the Privacy Settings section in your Account.
+You may update or correct your account information by editing your account settings or by sending a request to [privacy@meetup.com](mailto:privacy@meetup.com) as described in [Section 6](https://help.meetup.com/hc/en-us/articles/360044422391#h_c9263130-4290-4d41-a349-6c9ea2db47fa) and [Section 7](https://help.meetup.com/hc/en-us/articles/360044422391#h_d134450a-afaa-4dc5-9fb3-095c8b1bb0cd). You may deactivate your account by editing your account settings. You may also request deletion of your information as described in [Section 6](https://help.meetup.com/hc/en-us/articles/360044422391#h_c9263130-4290-4d41-a349-6c9ea2db47fa) and [Section 7](https://help.meetup.com/hc/en-us/articles/360044422391#h_d134450a-afaa-4dc5-9fb3-095c8b1bb0cd).  You will also be able to choose what information others see about you and who may contact you by using the Privacy Settings section in your Account.
 
 **5.2 Your Choices: Location Information**
 
@@ -262,7 +262,7 @@ You can tag photos of yourself and others. When a photo has been tagged it means
 3. _You have the right to opt out of receiving Meetup’s promotional messages, but you may still receive other communications._
 4. _You can complain to your local data protection authority about the use of your information._
 
-We respond to all requests that we receive from individuals who wish to exercise their data protection rights in accordance with applicable data protection laws. You can contact us with your request by sending an email to privacy@meetup.com. You can also request deletion of your account and personal information by:
+We respond to all requests that we receive from individuals who wish to exercise their data protection rights in accordance with applicable data protection laws. You can contact us with your request by sending an email to privacy@meetup.com. You can also request deletion of your account and personal information by:
 
 * Filling out the form available in this Help Center article: [**"Request permanent deletion of your data."**](https://help.meetup.com/hc/en-us/articles/360050018571) **You must be logged in to your Meetup account to view this article and access the form.**
 * Clicking the “Delete account and personal information” link in your profile settings on the Meetup iOS app.
@@ -305,8 +305,6 @@ If you are a resident in the Republic of Korea, you can find specific informatio
 
 9\. Contact Us
 --------------
-
-**_Summary:_** _If you have any questions, you can contact us at privacy@meetup.com._
 
 Under European data protection law, the controller of your information is Meetup LLC.
 
