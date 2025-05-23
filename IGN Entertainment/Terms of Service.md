@@ -1,7 +1,7 @@
 Ziff Davis, LLC Terms of Use
 ============================
 
-**Effective September 2024**
+**Effective May 2025**
 
 #### **Note: The Ziff Davis Terms of Use have been updated. Please review the updated Terms of Use carefully before using the Ziff Davis Services. By using any of the Ziff Davis Services, you consent to the terms of the updated Terms of Use.**
 
@@ -132,7 +132,7 @@ _Definitions._
 
 “Rewards Wallet” is defined as the user interface associated with your RetailMeNot account that will show Activated Rewards, Approved Rewards, and related information.
 
-“Third-party Service Providers” is deﬁned in Section 7 below.
+“Third-party Service Providers” is deﬁned as any vendor, contractor or other entity (and their officers, employees, agents or subcontractors) engaged by Ziff Davis or its affiliates to perform services or functions on Ziff Davis’s behalf in connection with the Services including, without limitation, hosting and infrastructure, content-delivery networks, payment and billing, analytics and tracking, email and messaging platforms, customer-support operations, marketing and advertising, and other data-processing or technical services. Third-Party Service Providers may access, collect, transmit or store personal or non-personal data as reasonably necessary to provide such services.
 
 “Total Rewards available during Promotion” or “Total Rewards Oﬀer” is defined as the limited quantity of Rewards available under the Promotion, as speciﬁed on the Promotion Landing Page if the quantity is limited.
 
@@ -174,9 +174,45 @@ _Premium Services_: Certain Services provided by Ziff Davis require registration
 
 If Ziff Davis does not receive payment from the credit card issuer or its agent, you agree to pay all amounts due upon our demand. Your card issuer agreement governs your use of your designated card in connection with the Premium Services, and you must refer to that agreement and not this Agreement to determine your rights and liabilities as a cardholder. YOU, AND NOT ZIFF DAVIS, ARE RESPONSIBLE FOR PAYING ANY AMOUNTS BILLED TO YOUR CREDIT CARD BY A THIRD PARTY, EVEN IF THEY WERE NOT AUTHORIZED BY YOU.
 
+**For CNET Cash Back and Rewards Services**
+
+Acceptance of terms. By using the Services, you acknowledge that you have read and understood these terms and conditions, and that you agree to be legally bound by all of them. You also acknowledge that you have had an opportunity to review and agree to the terms of our Privacy Policy. If you do not agree to all of these terms and conditions, you may not participate in or use the Services.
+
+Eligibility. You represent and warrant that you are at least eighteen (18) years of age. If you are under age eighteen (18), you may not, under any circumstances or for any reason, use the Services.
+
+Rewards. The Services enable you to access and earn rewards, subject to the guidelines herein (“Services”). CNET offers users opportunities to earn cash back on their purchases from Merchants activated by the creation of trackable links (“Links”) for a Merchant as a way to incentivize the purchase and promotion of the Merchant’s products. Links are configured to track and attribute transactions to you so that you may earn a reward if you or someone to whom you send a Link completes a qualifying transaction with a Merchant. The CNET cashback program is an incentive and promotional program.
+
+Some transactions may not earn rewards or may earn at a rate different from the rate indicated by the Service. You are not guaranteed to earn a reward from a transaction for several reasons, without notice to you, including, without limitation:
+
+* Merchants may alter terms, conditions, or commission rates.
+* Merchants may discontinue their programs.
+* Merchants may exclude certain products from Reward eligibility.
+* Merchants may have technical failures which result in transactions failing to be tracked or attributed to you.
+* Links may fail to function properly.
+* Links may be disabled by web browsers or ad blockers.
+* Merchants may reject transactions due to suspected policy violations. 
+* Other: charge-backs, product returns, accounting error, Merchant non-payment, fraudulent transactions, our inability to contact you to validate transactions, your inappropriate distribution of Links, or your failure to comply with Merchant policies.  
+    
+
+If the Merchant pays less than the expected amount or does not pay a commission for the transaction, we reserve the right, in our sole discretion, to adjust or cancel the reward. Furthermore, we reserve the right, in our sole discretion, to withhold, cancel or adjust the amount of any reward, for any reason at any time. By using the Services, you accept this condition. CNET may assign its rights and obligations hereunder to any person, including any affiliate, without your consent.
+
+Payout timing. We only provide a reward to you after a transaction is successfully tracked and completed, after we receive payment for that specific transaction from the Merchant, and after you accrue the Minimum Redemption Amount (as defined below). Merchants usually have holdback periods during which they hold a pending payment (for example, until the expiration of a return policy and/or until a service is consumed). Rewards remain in a pending state until we receive payment from the Merchant for the associated transaction. After we receive payment and you have accrued the Minimum Redemption Amount, you may request to redeem your rewards.
+
+Payout Threshold. A minimum approved balance of $10.00 is required for redemption (the “Minimum Redemption Amount”). This amount may change from time to time, in our sole discretion, without notice to you. If your balance is below the Minimum Redemption Amount, rewards will be stored in a record on your account and may be subject to a Dormant Account Fee (as defined below). Once you have accrued the Minimum Redemption Amount, rewards may be redeemed for third-party merchant gift cards. Use of a third-party merchant gift card at a selected merchant will be subject to such merchant’s and/or the gift card issuer’s own terms of service.
+
+Coupons. Some rewards may include coupons, discounts or promotions from Merchants (“Offers”). We do not guarantee that Merchants will honor Offers. Offer codes may be expired or invalid. Offers may not be eligible for your transaction, based upon exclusions, terms and conditions determined by Merchants. Offers are not redeemable for any value with CNET.
+
+Dormant accounts. If you have pending rewards and your account has no new activity (defined as the earning of a pending reward) for a period of one hundred and eighty (180) days, we reserve the right to assess a monthly Dormant Account Fee of up to $5.00 USD, until such time as your reward balance reaches $0.00, to recover the cost associated with maintenance of the account. Any Dormant Account Fee we apply may or may not be displayed in your user dashboard. If your account has no new activity for a period of twelve (12) months, we reserve the right to void any remaining balance of rewards in your account.
+
+Tax. You are solely responsible for independently assessing and complying with all relevant tax and legal requirements. We shall not provide you with tax or legal advice.
+
+Cookies. Some Merchants may place cookies (or other tracking beacons) on your device to recognize your device during a subsequent visit. If you, or those clicking on your shared Link, block or delete cookies, tracking and attribution may be inoperable, in which case no reward shall be earned.
+
+Third-Party Services. We do not endorse, warrant or guarantee the products, services or content of Merchants or other third parties. We are not an agent, broker or otherwise responsible for any Merchant’s activities, policies, products or services.
+
 **For Spiceworks and Lead Generation Related Services:** 
 
-Except as otherwise set forth herein, the Service is made available to you for: (a) your personal use; (b) your internal business use; or (c) if you are a Managed Service Provider (“**MSP**“), or Value Added Reseller (“**VAR**”), use in connection with the commercial support of your customers, in compliance with all applicable laws, rules, and regulations. If you want to make any other commercial use of the Service, including but not limited to selling, distributing, or providing access to the Service for payment, you must enter into a separate written agreement with Spiceworks or obtain Spiceworks’ written permission in advance
+Except as otherwise set forth herein, the Service is made available to you for: (a) your personal use; (b) your internal business use; or (c) if you are a Managed Service Provider (“**MSP**“), or Value Added Reseller (“**VAR**”), use in connection with the commercial support of your customers, in compliance with all applicable laws, rules, and regulations. If you want to make any other commercial use of the Service, including but not limited to selling, distributing, or providing access to the Service for payment, you must enter into a separate written agreement with Spiceworks or obtain Spiceworks’ written permission in advance.
 
 Access to and use of portions of the Service may require you to open an account (including setting up a Spiceworks ID and password). To register, you must provide a valid email address as a Spiceworks ID. You are entirely responsible for maintaining and promptly updating your registration data to keep it accurate and complete. You are entirely responsible for maintaining the confidentiality of your account information, including your password, and for any and all activity that occurs under your account. You agree to notify Spiceworks immediately of any unauthorized use of your account or password, or any other breach of security. However, you will be responsible for losses incurred by Spiceworks or any other user of the Service due to someone else using your Spiceworks ID, password, or account.
 
