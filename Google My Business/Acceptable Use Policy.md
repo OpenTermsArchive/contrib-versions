@@ -325,7 +325,7 @@ Departments within other businesses, universities or institutions
 
 Departments within businesses, universities, hospitals and government institutions may have their own Business Profiles on Google.
 
-Auto dealers and healthcare providers have specific and separate guidelines. Get started with Business Profiles for [auto dealers](https://support.google.com/business/answer/9074290) and [healthcare providers](https://support.google.com/business/answer/9798848).
+Car dealers have specific and separate guidelines. [Get started with a Business Profile for your car dealership](https://support.google.com/business/answer/9074290).
 
 Public-facing departments that operate as distinct entities should have their own page. The exact name of each department must be different from that of the main business and that of other departments. Typically such departments have a separate customer entrance and should each have distinct categories. Their hours may sometimes differ from those of the main business.
 
