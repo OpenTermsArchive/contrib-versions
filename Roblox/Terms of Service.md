@@ -1055,5 +1055,9 @@ Last Updated: April 15, 2025
     
     2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/34951219414036)
     
+* [JA - Roblox利用規約 20250415.pdf](https://en.help.roblox.com/hc/en-us/article_attachments/37817599748628)
+    
+    2 MB [Download](https://en.help.roblox.com/hc/en-us/article_attachments/37817599748628)
+    
 
 [Return to top](#article-container)
