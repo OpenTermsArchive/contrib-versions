@@ -2767,6 +2767,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * © 2023 Vexcel Imaging US, Inc
             
+        * GeoJunxion
+            
     73. **Chile**
         * Biblioteca del Congreso Nacional de Chile ([https://creativecommons.org/licenses/by/3.0/cl/](https://creativecommons.org/licenses/by/3.0/cl/))
             
