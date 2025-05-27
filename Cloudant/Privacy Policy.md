@@ -243,7 +243,7 @@ Your personal information may be transferred to or accessed by IBM subsidiaries 
 
 We have implemented various safeguards including:
 
-* Contractual Clauses, such as those approved by the EU Commission and accepted in several other countries. You can request a copy of the EU Standard Contractual Clauses (EU SCCs) by selecting **Contact Us** in the header of this page.
+* Contractual Clauses, such as those approved by the EU Commission and accepted in several other countries. 
 * Data Privacy Framework Certification. Where applicable, certain designated IBM services (for example, IBM Infrastructure-as-a-Service, Platform-as-a-Service, Software-as-a-Service, and select other hosted offerings) are certified to comply with the Data Privacy Framework. For more information, see [IBM Data Privacy Framework Policy for Certified IBM Cloud Services](https://www.ibm.com/us-en/privacy/dataprivacyframework "IBM Data Privacy Framework Policy for Certified IBM Cloud Services").
 * Binding Corporate Rules for Controllers (IBM BCR-C). We have BCR-C approved by the European Data Protection Authorities and the UK Information Commissioner’s Office. For more information, see [IBM Controller Binding Corporate Rules](https://www.ibm.com/privacy/bcr "IBM Controller Binding Corporate Rules").
 * IBM's privacy practices, described in this Privacy Statement, comply with the APEC Cross Border Privacy Rules Framework. The [APEC Cross Border Privacy Rules](http://www.cbprs.org/) (CBPR) system provides protection of personal information that is transferred among participating [APEC economies](http://cbprs.org/about-cbprs/) as it pertains to online information collected through ibm.com.
@@ -257,7 +257,19 @@ IBM does business through its subsidiaries worldwide. The privacy laws in some c
 
 Where this is relevant for the privacy laws in your country, the Controller of your personal information is IBM’s main subsidiary in your country or region, unless International Business Machines Corporation (IBM Corp.) or another IBM subsidiary identifies itself as the Controller for a specific interaction with you.
 
-The contact details of our main subsidiary of a country or region can be found by selecting your country or region and selecting Contact on the footer of ibm.com websites. IBM Corp. can be contacted at: International Business Machines Corporation, 1, North Castle Drive, Armonk, New York, United States of America.
+IBM Corp. or our Chief Privacy & Responsible Technology Officer can be contacted at:
+
+International Business Machines Corporation,
+
+1, North Castle Drive,
+
+Armonk,
+
+New York,
+
+United States of America.
+
+The contact details of the main subsidiary of a country or region can be found [here](https://www.ibm.com/contact/global#Contact+information "Contact Us").
 
 Where IBM Corp. or a subsidiary it controls is required to appoint a legal representative, the following representatives have been appointed.
 
@@ -304,7 +316,7 @@ When personal information is no longer needed, we have processes in place to sec
 Your Rights
 -----------
 
-You have certain rights when it comes to the handling of your personal information.
+You may have certain rights when it comes to the handling of your personal information.
 
 The [Contact Us](http://ibm.biz/contactoprt "Contact Us") form can be used to:
 
@@ -383,8 +395,10 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 **Sections updated in this release:**
 
-1. Cookies and Similar Technologies
-2. Your Additional Rights (US) Colorado
+1. Sharing Personal Information
+2. Controller and Representative Information
+3. Your Rights
+4. Your Additional Rights: US States
 
 * * *
 
