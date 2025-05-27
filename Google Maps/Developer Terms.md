@@ -651,6 +651,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Bundesamt für Landestopografie swisstopo: [https://www.swisstopo.admin.ch/en/terms-of-use-free-geodata-and-geoservices](https://www.swisstopo.admin.ch/en/terms-of-use-free-geodata-and-geoservices)
             
+        * Finnish Environment Institute: [https://www.syke.fi/en/environmental-data/use-license-and-responsibilities](https://www.syke.fi/en/environmental-data/use-license-and-responsibilities)
+            
     18. **France and Monaco**
         * © IGN France © 2009 IGN France BD Topo ® IGN, © 2007 IGN France BD Ortho ® IGN 50cm, © 2011 IGN France - Ortho HR® IGN 20cm (Paris region)
             
