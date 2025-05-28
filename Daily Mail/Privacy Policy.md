@@ -4,9 +4,9 @@ Associated Newspapers Ltd
 Privacy & Cookies Policy (the “Policy”)
 ---------------------------------------
 
-###### Last updated: 16 April 2025
+###### Last updated: 28 May 2025
 
-###### Previous version: 25 February 2025
+###### Previous version: 16 April 2025
 
 ### 1\. What is this Policy for?
 
@@ -706,8 +706,8 @@ _Alternatively, you can write to us at:_
 Legal Department – Data Protection & Privacy  
 Associated Newspapers Limited  
 Northcliffe House  
-2 Derry Street  
-London, W8 5TT  
+9 Derry Street  
+London, W8 5HY  
 U.K.
 
 _Alternatively, you can also write to us at_:
