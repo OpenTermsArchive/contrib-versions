@@ -492,7 +492,7 @@ Sectors
 * [Automotive](https://ubuntu.com/automotive)
 * [Industrial](https://ubuntu.com/industrial)
 * [Government](https://ubuntu.com/gov)
-* [Telco](https://ubuntu.com/telco)
+* [Telco](https://canonical.com/solutions/telco)
 * [Finance](https://ubuntu.com/financial-services)
 
 * * *
