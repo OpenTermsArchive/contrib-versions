@@ -248,7 +248,7 @@ By post:
 > 
 > United Kingdom
 
-UK representation certificate and representative details here. 
+UK representation certificate and representative details [here](https://app.prighter.com/portal/14777855921). 
 
 For more information on how to contact the data protection officer, please click [here](https://www.help.tinder.com/hc/articles/5349453268877-How-do-I-contact-Tinder-s-Data-Protection-Officer-) 
 
