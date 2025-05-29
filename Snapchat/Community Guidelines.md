@@ -94,7 +94,7 @@ Illegal or Regulated Activities
 
 [Learn More](https://www.snap.com/policy/policy-community-guidelines/illegal-regulated-activities?lang=en-GB)
 
-Harmful False or Deceptive Information
+Harmful False or Deceptive Practices
 
 * We prohibit spreading false information that causes harm or is malicious, such as denying the existence of tragic events, unsubstantiated medical claims, undermining the integrity of civic processes or manipulating content for false or misleading purposes (whether through generative AI or through deceptive editing).
     
