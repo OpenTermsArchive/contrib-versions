@@ -478,8 +478,6 @@ How long we keep your information
 
 We keep your information only so long as we need it to provide Pinterest to you and fulfill the purposes described in this policy. When we no longer need to use your information and there is no need for us to keep it to comply with our legal or regulatory obligations, we’ll either remove it from our systems or depersonalize it so that we can't use it to identify you.
 
-If you live in the EEA, the UK, or Switzerland, here is some further information on our retention practices: We keep your information only so long as necessary for the purposes identified in this Privacy Policy, which include providing our Service, or for other legitimate purposes, such as complying with legal obligations, enforcing and preventing violations of our Terms, to fight spam, or protecting or defending our rights, property and users. The storage periods are determined on a case-by-case basis. We keep account information, like your name, email address, and password, for as long as your account is in existence because we need it to operate your account.
-
 Additional information if you live in the EEA, Switzerland, and the UK
 
 We keep your information only so long as necessary for the purposes identified in this Privacy Policy, which include providing our Service, or for other legitimate purposes, such as complying with legal obligations, enforcing and preventing violations of our Terms, to fight spam, or protecting or defending our rights, property and users. The storage periods are determined on a case-by-case basis depending on the following factors:
