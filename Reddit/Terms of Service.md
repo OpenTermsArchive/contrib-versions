@@ -1,10 +1,14 @@
-Effective September 24, 2024. Last Revised September 24, 2024
+Effective June 28, 2025. Last Revised May 29, 2025
+
+**We’ve updated our User Agreement. Please take a look before the changes take effect on June 28, 2025.**   
+  
+**This page is the updated User Agreement; for the version effective until June 28, 2025, click [here](https://www.redditinc.com/policies/user-agreement-september-24-2024?hsLang=en).** 
 
 **Reddit powers hundreds of thousands of distinct online communities. This User Agreement and your conduct make that possible.**
 
-* If you live in the United States or outside the European Economic Area (“**EEA**”), the United Kingdom, and Switzerland, your terms are [here](#hello-redditors-and-people-of-the-internet-this).
+* If you live in the United States or outside the European Economic Area (“**EEA**”), the United Kingdom, and Switzerland, your terms are [here](#outside_EEA).
     
-* If you live in the EEA, United Kingdom, or Switzerland, your terms are [here](#us-hello-redditors-and-people-of-the-internet-this).
+* If you live in the EEA, United Kingdom, or Switzerland, your terms are [here](#inside_eea).
     
 
 * * *
@@ -17,7 +21,7 @@ Remember Reddit is for fun and is intended to be a place for your entertainment,
 
 ##### 1\. Your Access to the Services
 
-No one under 13 is allowed to use or access the Services. We may offer additional Services that require you to be older to use them, so please read all notices and any Additional Terms carefully when you access the Services.  
+No one under 13 is allowed to use or access the Services. Parts of our Services require you to be older to use them. For example, you must be at least 18 years old to view mature content on Reddit. Please read all notices and any Additional Terms carefully when you access the Services.  
   
 By using the Services, you state that:
 
@@ -87,7 +91,7 @@ If you choose to use the Services to conduct a promotion, including a contest or
 
 ##### 7\. Things You Cannot Do
 
-When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), you may not do any of the following:
+When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), which are incorporated by this reference into, and made a part of, these Terms and contain our rules about prohibited content and conduct. In addition to what is prohibited in the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), you may not do any of the following:
 
 * Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;
     
@@ -129,7 +133,7 @@ Reddit reserves the right, but has no obligation, to overturn any action or deci
 
 ##### 9\. Copyright, Trademark, the DMCA, and Takedowns
 
-Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our [Copyright Report Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_copyright_infringement_dmca) or [Trademark Report Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_trademark_request), or by contacting:  
+Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a [policy](https://support.reddithelp.com/hc/sections/360008810152) that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our [Copyright Report Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_copyright_infringement_dmca) or [Trademark Report Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_trademark_request), or by contacting:  
   
 Copyright Agent  
 Reddit, Inc.  
@@ -138,7 +142,7 @@ San Francisco, CA 94107[copyright@reddit.com](mailto:copyright@reddit.com)
   
 See [17 U.S.C. § 512(c)(3)](http://www.copyright.gov/title17/92chap5.html#512) for the requirements of a proper notification. Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Reddit for certain costs and damages.  
   
-If we remove Your Content in response to a copyright or trademark notice, we will notify you via Reddit’s private messaging system. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our [Copyright Counter Notice Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_copyright_counter_notice) or to our Copyright Agent (contact information provided above). Please see [17 U.S.C. § 512(g)(3)](http://www.copyright.gov/title17/92chap5.html#512) for the requirements of a proper counter notification.
+If we remove Your Content in response to a copyright or trademark notice, we will notify you. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our [Copyright Counter Notice Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_copyright_counter_notice) or to our Copyright Agent (contact information provided above). Please see [17 U.S.C. § 512(g)(3)](http://www.copyright.gov/title17/92chap5.html#512) for the requirements of a proper counter notification.
 
 ##### 10\. Paid Services
 
@@ -164,19 +168,19 @@ IN NO EVENT WILL ANY OF THE REDDIT ENTITIES BE LIABLE TO YOU FOR ANY INDIRECT, C
 
 We want you to enjoy Reddit, so if you have an issue or dispute, you agree to raise it and try to resolve it with us informally. You can contact us with feedback and concerns [here](https://www.reddithelp.com/en/submit-request).  
   
-To the fullest extent permitted by applicable law, any claims arising out of or relating to these Terms or the Services will be governed by the laws of the State of California, without regard to its conflict of laws rules; all disputes related to these Terms or the Services will be brought solely in the federal or state courts located in San Francisco, California, and you and Reddit consent to personal jurisdiction in these courts.  
+To the fullest extent permitted by applicable law, any claims you bring arising out of or relating to these Terms or the Services will be governed by the laws of the State of California, without regard to its conflict of laws rules; all disputes related to these Terms or the Services will be brought solely in the federal or state courts located in San Francisco, California, and you and Reddit consent to personal jurisdiction in these courts.  
   
 If you are a U.S. city, county, or state government entity, then this Section 14 does not apply to you. If you are a U.S. federal government entity, any claims arising out of or relating to these Terms or the Services will be governed by the laws of the United States of America without regard to its conflict of laws rules. To the extent permitted by federal law, the laws of California (other than its conflict of law rules) will apply in the absence of applicable federal law. All disputes related to these Terms or the Services will be brought solely in the federal or state courts located in San Francisco, California.
 
 ##### 15\. Changes to these Terms
 
-We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your Account (if you have chosen to provide an email address) or by otherwise providing you with notice through our Services. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective.
+We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our sole discretion, are material, we may also notify you by sending an email to the address associated with your Account or by otherwise providing you with notice through our Services. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective.
 
 ##### 16\. Additional Terms
 
 Because we offer a variety of Services, you may be asked to agree to additional terms, policies, guidelines, or rules before using a specific product or service offered by Reddit (collectively, “**Additional Terms**”). All Additional Terms are incorporated by this reference into, and made a part of, these Terms, and to the extent any Additional Terms conflict with these Terms, the Additional Terms govern with respect to your use of the corresponding Services.
 
-* If you use any Paid Services, you must also agree to the [Reddit Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement?hsLang=en).
+* If you use any Paid Services or Digital Goods, you must also agree to the [Reddit Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement?hsLang=en).
     
 * If you use any preview features, you must also agree to the [Reddit Previews Terms](https://www.redditinc.com/policies/previews-terms?hsLang=en).
     
@@ -189,7 +193,7 @@ Because we offer a variety of Services, you may be asked to agree to additional 
 
 ##### 17\. Termination
 
-You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing use of all Services. If you stop using the Services without deactivating your Account, your Account may be deactivated due to prolonged inactivity.  
+You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing use of all Services. If you stop using the Services without deleting your Account, your Account may be deactivated due to prolonged inactivity.  
   
 To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en).  
   
@@ -218,7 +222,7 @@ Remember Reddit is for fun and is intended to be a place for your entertainment,
 
 ##### 1\. Your Access to the Services
 
-No one under 13 is allowed to use or access the Services. We may offer additional Services that require you to be older to use them, so please read all notices and any Additional Terms carefully when you access the Services.  
+No one under 13 is allowed to use or access the Services. Parts of our Services require you to be older to use them. For example, you must be at least 18 years old to view mature content on Reddit. Please read all notices and any Additional Terms carefully when you access the Services.  
   
 By using the Services, you state that:
 
@@ -288,7 +292,7 @@ If you choose to use the Services to conduct a promotion, including a contest or
 
 ##### 7\. Things You Cannot Do
 
-When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), which is incorporated by this reference into, and made a part of, these Terms and contain Reddit’s rules about prohibited content and conduct. In addition to what is prohibited in the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), you may not do any of the following:
+When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), which are incorporated by this reference into, and made a part of, these Terms and contain our rules about prohibited content and conduct. In addition to what is prohibited in the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), you may not do any of the following:
 
 * Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;
     
@@ -330,7 +334,7 @@ Reddit reserves the right, but has no obligation, to overturn any action or deci
 
 ##### 9\. Copyright, Trademark, the DMCA, and Takedowns
 
-Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a policy that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our [Copyright Report Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_copyright_infringement_dmca) or [Trademark Report Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_trademark_request), or by contacting:  
+Reddit respects the intellectual property of others and requires that users of our Services do the same. We have a [policy](https://support.reddithelp.com/hc/sections/360008810152) that includes the removal of any infringing material from the Services and for the termination, in appropriate circumstances, of users of our Services who are repeat infringers. If you believe that anything on our Services infringes a copyright or a trademark that you own or control, you may notify Reddit’s Designated Agent by filling out our [Copyright Report Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_copyright_infringement_dmca) or [Trademark Report Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_trademark_request), or by contacting:  
   
 Copyright Agent  
 Reddit, Inc.  
@@ -339,7 +343,7 @@ San Francisco, CA 94107[copyright@reddit.com](mailto:copyright@reddit.com)
   
 See [17 U.S.C. § 512(c)(3)](http://www.copyright.gov/title17/92chap5.html#512) for the requirements of a proper notification. Also, please note that if you knowingly misrepresent that any activity or material on our Services is infringing, you may be liable to Reddit for certain costs and damages.  
   
-If we remove Your Content in response to a copyright or trademark notice, we will notify you via Reddit’s private messaging system. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our [Copyright Counter Notice Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_copyright_counter_notice) or to our Copyright Agent (contact information provided above). Please see [17 U.S.C. § 512(g)(3)](http://www.copyright.gov/title17/92chap5.html#512) for the requirements of a proper counter notification.
+If we remove Your Content in response to a copyright or trademark notice, we will notify you. If you believe Your Content was wrongly removed due to a mistake or misidentification in a copyright notice, you can send a counter notification via our [Copyright Counter Notice Form](https://support.reddithelp.com/hc/en-us/requests/new?ticket_form_id=16510899084308&tf_16510589022228=contact_form_copyright_counter_notice) or to our Copyright Agent (contact information provided above). Please see [17 U.S.C. § 512(g)(3)](http://www.copyright.gov/title17/92chap5.html#512) for the requirements of a proper counter notification.
 
 ##### 10\. Paid Services
 
@@ -359,13 +363,13 @@ By using the Services you agree that the Reddit Entities’ liability is limited
 
 ##### 14\. Changes to these Terms
 
-We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our reasonable discretion, are material, we will notify you by sending an email to the address associated with your Account (if you have chosen to provide an email address) or by otherwise providing you with notice through our Services at least 30 days before the date they become effective. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective.
+We may make changes to these Terms from time to time. If we make changes, we will post the revised Terms and update the Effective Date above. If the changes, in our reasonable discretion, are material, we will notify you by sending an email to the address associated with your Account or by otherwise providing you with notice through our Services at least 30 days before the date they become effective. By continuing to access or use the Services on or after the Effective Date of the revised Terms, you agree to be bound by the revised Terms. If you do not agree to the revised Terms, you must stop accessing and using our Services before the changes become effective.
 
 ##### 15\. Additional Terms
 
 Because we offer a variety of Services, you may be asked to agree to additional terms, policies, guidelines, or rules before using a specific product or service offered by Reddit (collectively, “**Additional Terms**”). All Additional Terms are incorporated by this reference into, and made a part of, these Terms, and to the extent any Additional Terms conflict with these Terms, the Additional Terms govern with respect to your use of the corresponding Services.
 
-* If you use any Paid Services, you must also agree to the [Reddit Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement?hsLang=en).
+* If you use any Paid Services or Digital Goods, you must also agree to the [Reddit Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement?hsLang=en).
     
 * If you use any preview features, you must also agree to the [Reddit Previews Terms](https://www.redditinc.com/policies/previews-terms?hsLang=en).
     
@@ -378,7 +382,7 @@ Because we offer a variety of Services, you may be asked to agree to additional 
 
 ##### 16\. Termination
 
-You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing use of all Services. If you stop using the Services without deactivating your Account, your Account may be deactivated due to prolonged inactivity.  
+You may terminate these Terms at any time and for any reason by deleting your Account and discontinuing use of all Services. If you stop using the Services without deleting your Account, your Account may be deactivated due to prolonged inactivity.  
   
 To the fullest extent permitted by applicable law, we may suspend or terminate your Account, moderator status, or ability to access or use the Services at any time for any or no reason, including for violating these Terms or our [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en).  
   
