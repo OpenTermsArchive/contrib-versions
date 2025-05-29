@@ -13,7 +13,7 @@ WHAT ARE COOKIES?
 HOW WE USE COOKIES?
 -------------------
 
-**Below you can see a list of the types of cookies used by Waze. You can also find out how Waze and our partners use cookies in advertising.**
+**Below you can see a list of the types of cookies used by Waze.**
 
 ### Processes
 
@@ -37,26 +37,9 @@ We use security cookies to authenticate users, prevent fraudulent use of Sign in
 
 Websites often collect information about how users interact with a website. This may include the pages users visit most often and whether users get error messages from certain pages. We use these so-called ‘session state cookies’ to help us improve our services, in order to improve our users’ browsing experience. Blocking or deleting these cookies will not render the website unusable.
 
-### Advertising
-
-Depending on your setting, we permit third-party ad partners (see a list below) to use cookies and other technology from this site to market our services to you on other websites and online services you visit. These cookies also may help to limit the number of times that you see an ad and help us measure the effectiveness of our marketing campaigns.
-
-Ad Partners:
-
-* [Google](https://adssettings.google.com/authenticated?hl=en).
-* [Facebook](https://www.facebook.com/ads/preferences/?entry_product=ad_settings_screen).
-* [LinkedIn](https://www.linkedin.com/start/join?session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fpsettings%2Fadvertising%2Fwebsites-visited&trk=login_reg_redirect).
-* [Snapchat](https://support.snapchat.com/en-US/a/advertising-preferences).
-* [Yahoo](https://aim.yahoo.com/aim/us/en/optout/?guccounter=1).
-* [Twitter](https://twitter.com/settings/personalization).
-
-Learn more about how you can control [Advertising Cookies](https://www.waze.com/account/cookies_preferences).
-
 ### Analytics
 
 Google Analytics is Google’s analytics tool that helps website and app owners to understand how their visitors engage with their properties. It may use a set of cookies to collect information and report website usage statistics without personally identifying individual visitors to Google. The main cookie used by Google Analytics is the ‘\_\_ga’ cookie.
-
-In addition to reporting website usage statistics, Google Analytics can also be used, together with some of the Advertising cookies described above, to help show more relevant ads on Google properties (like Google Search) and across the web and to measure interactions with the ads we show.
 
 Learn more about [Analytics cookies and privacy information](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies?hl=en).
 
@@ -70,8 +53,6 @@ YOUR CHOICES
 * If you use Google Chrome browser, you can use the “Clear Browsing Data” option included in Tools menu to delete cookies and other site and plug-in data, including data stored on your device by the Adobe Flash Player (commonly known as Flash cookies). See [instructions for managing cookies in Chrome](https://support.google.com/chrome/answer/95647).
     
 * Another feature of Chrome is its [incognito mode](https://support.google.com/chrome/answer/95464). You can browse in incognito mode when you don’t want your website visits or downloads to be recorded in your browsing and download histories. Any cookies created while in incognito mode are deleted after you close all incognito windows.
-    
-* For more information on how you can manage Advertising cookies, please see Section Advertising above.
     
 * You can also manage many companies’ cookies used for online advertising via the consumer choice tools created under self-regulation programmes in many countries, such as the US-based [aboutads.info choices](https://www.aboutads.info/choices) page or the EU-based [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices).
     
