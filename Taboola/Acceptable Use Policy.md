@@ -53,7 +53,7 @@ Table of contents
 
 [25\. Low quality or disruptive content](#h_aa5f7e2b4c)
 
-In this article you will learn about the policies for the restricted use of content, products and services in a Realize campaign across countries.  
+qqqIn this article you will learn about the policies for the restricted use of content, products and services in a Realize campaign across countries.  
 ​
 
 **Here at** Realize **we strive to provide users with a positive, engaging, open and high quality experience as they discover your content.**
@@ -69,8 +69,7 @@ As part of our core principles, your campaigns should avoid the following throug
 Ads must not promote content that is pornographic, sexualised, containing nudity or covered nudity, or promoting adult and casual dating or mail-order brides.  
 ​
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not promote content that is pornographic, sexualised, containing nudity, covered nudity or over emphasis on intimate body parts.
 
@@ -90,10 +89,10 @@ Examples of inappropriate content:
 2\. Harm or sexualisation of children
 -------------------------------------
 
-Ads must not depict harm or sexualisation of children
+Ads must not depict harm or sexualisation of children  
+​
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not depict harm or sexualisation of children.
 
@@ -107,10 +106,10 @@ Example:
 3\. Hateful, discriminatory, abusive, intolerant or exploitative content
 ------------------------------------------------------------------------
 
-Ads must not promote anything that is hateful, discriminatory, abusive, intolerant, or exploitative. For example disparaging people of a certain religion.
+Ads must not promote anything that is hateful, discriminatory, abusive, intolerant, or exploitative. For example disparaging people of a certain religion.  
+​
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not promote anything that is hateful, discriminatory, abusive, intolerant, or exploitative, or content that encourages any such feelings or behaviors.
 
@@ -126,10 +125,10 @@ Example:
 4\. Obscene or offensive
 ------------------------
 
-Ads must not promote anything that is obscene or offensive. For example using images of dead bodies, faces, or bodily fluids.
+Ads must not promote anything that is obscene or offensive. For example using images of dead bodies, faces, or bodily fluids.  
+​
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not promote anything that is obscene or offensive.
 
@@ -145,10 +144,10 @@ Examples:
 5\. Profanity or vulgar language
 --------------------------------
 
-Ads must not use profanity or vulgar language. For example: curse words, racial, religious, or homophobic slurs, spelling variations of profane language, or use of foreign language profanity.
+Ads must not use profanity or vulgar language. For example: curse words, racial, religious, or homophobic slurs, spelling variations of profane language, or use of foreign language profanity.  
+​
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not use profanity or vulgar language.
 
@@ -168,10 +167,10 @@ Examples:
 6\. Illegal products and services
 ---------------------------------
 
-Ads must not promote anything that has a significant risk of being a breach of international law, a crime against humanity, or considered to be illegal in the target region.
+Ads must not promote anything that has a significant risk of being a breach of international law, a crime against humanity, or considered to be illegal in the target region.  
+​
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not promote anything that has a significant risk of breaching international law, being a crime against humanity or considered illegal in the target region.
 
@@ -187,10 +186,10 @@ Examples:
 7\. Third party infringements
 -----------------------------
 
-Ads must not violate third party rights including but not limited to copyright, trademark, privacy, publicity, other personal or proprietary rights.
+Ads must not violate third party rights including but not limited to copyright, trademark, privacy, publicity, other personal or proprietary rights.  
+​
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not violate third party rights including but not limited to copyright, trademark, privacy, publicity, other personal or proprietary rights.
 
@@ -210,10 +209,10 @@ Examples:
 8\. Targeting children
 ----------------------
 
-Ads must not target children or be inappropriately positioned on the network where the intention is to capture an underage audience.
+Ads must not target children or be inappropriately positioned on the network where the intention is to capture an underage audience.  
+​
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not target children or be inappropriately positioned on the network where the intention is to capture an underage audience.
 
@@ -225,10 +224,10 @@ Examples:
 9\. Misusing user information
 -----------------------------
 
-Ads must not collect or distribute user information unless they comply with all applicable privacy laws, and include clear disclosures that user information is being collected, the purpose of its collection, and where it will be distributed, if applicable.
+Ads must not collect or distribute user information unless they comply with all applicable privacy laws, and include clear disclosures that user information is being collected, the purpose of its collection, and where it will be distributed, if applicable.  
+​
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not collect or distribute user information without clearly disclosing it is being collected, where it will be distributed and its intended purpose.
 
@@ -246,10 +245,10 @@ Examples:
 10\. Fraud or scams
 -------------------
 
-Ads must not promote anything that is at significant risk of being fraudulent or intended to scam users out of money or user information.
+Ads must not promote anything that is at significant risk of being fraudulent or intended to scam users out of money or user information.  
+​
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not promote anything that is at significant risk of being fraudulent or intended to scam users out of money or user information.
 
@@ -259,7 +258,7 @@ Examples:
     
 * Get-rich-quick schemes.
     
-* Campaigns making exaggerated claims (see [misleading claims](https://help.taboola.com/hc/en-us/articles/115007068368-Prohibited-Content-Products-and-Services#search)).
+* Campaigns making exaggerated claims.
     
 * Products that have received multiple significant verified user complaints (treated on a case by case basis).
     
@@ -269,8 +268,7 @@ Examples:
 
 Ads must not make claims that cannot be easily supported or that set unrealistic expectations for the user.
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not make claims that cannot be easily supported or set unrealistic expectations for the user.
 
@@ -294,8 +292,7 @@ Examples:
 
 Ads must not use deception or intentionally hide or exaggerate information to lead users to misunderstand or believe something that is incorrect. Images and text should not appear to or suggest that they have functionality, when they don’t.
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not use deception or intentionally hide or exaggerate information to lead users to misunderstand or believe something that is incorrect.
 
@@ -324,8 +321,7 @@ Examples:
 
 Ads must not promote or disseminate anything that qualifies as fake news or any information that is at high risk of being false.
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not promote or disseminate anything that qualifies as fake news or information that is at high risk of being false.
 
@@ -343,8 +339,7 @@ Examples:
 
 Ads must not use shock or scare tactics to promote content, products, or services.
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not use shock or scare tactics to promote content, products or services.
 
@@ -364,8 +359,7 @@ Example of inappropriate tactics:
 
 Ads must not exploit crises, controversies (e.g. political change), social issues or sensitive subjects (e.g. the death of a celebrity) to promote content, products, or services.
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not exploit crises, controversies (e.g. political change), social issues or sensitive subjects (e.g. the death of a celebrity) to promote content, products or services.
 
@@ -378,8 +372,7 @@ Further Information
 
 Ads must not promote content that encourages dangerous behaviour or that is at significant risk of being dangerous to the user.
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not promote content that encourages dangerous behaviour or at significant risk of being dangerous to the user.
 
@@ -401,8 +394,7 @@ Examples:
 
 Ads must not promote the sale of weapons, ammunition, and explosives
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not promote the sale of weapons, ammunition and explosives.
 
@@ -436,22 +428,20 @@ Examples:
 
 Ads must not promote the sale of illicit or recreational drugs.
 
-Further Information
-===================
+### q
 
 ❌ Ads must not promote the sale of illicit or recreational drugs.
 
 ❌ Ads must not promote the direct sale of prescription medications.
 
-✅ Ads may promote licensed online pharmacies with gated access to prescription medication [(see Online Pharmacies policy)](https://help.taboola.com/hc/en-us/articles/115000220793-Restricted-Content-Products-and-Services#accordion1)
+✅ Ads may promote licensed online pharmacies with gated access to prescription medication [(see Online Pharmacies policy)](https://www.taboola.com/help/en/articles/3878199-restricted-content-products-and-services)
 
 19\. Tobacco and related products
 ---------------------------------
 
 Ads must not promote the sale of tobacco and related products.
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not promote the sale of tobacco and related products.
 
@@ -487,8 +477,7 @@ Examples:
 
 Ads must not promote the sale of body parts or fluids.
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not promote the sale of human body parts or fluids.
 
@@ -499,8 +488,7 @@ Further Information
 
 Ads must not promote the sale of endangered, vulnerable, or threatened species.
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not promote the sale of endangered, vulnerable or threatened species
 
@@ -509,8 +497,7 @@ Further Information
 
 Ads must not exploit the network settings or use the network inappropriately.
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not exploit the network settings or use the network inappropriately.
 
@@ -526,8 +513,7 @@ Examples:
 
 Ads must not use methods to circumvent our ad review process and other enforcement systems. For example, ‘cloaking’ or using other techniques to hide the true URL destination that users are redirected to in the funnel.
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not use methods to circumvent our ad review process and other enforcement systems.
 
@@ -543,8 +529,7 @@ Examples:
 
 Ads must not promote content, product, or services intended to harm or gain unauthorized access to a user’s computer.
 
-Further Information
-===================
+### Further Information
 
 ❌ Ads must not promote content, product or services intended to harm or gain unauthorized access to a user’s computer.
 
@@ -560,8 +545,7 @@ Examples:
 
 Ads must not interfere with the user’s experience. For example, Ads may not use poor spelling and incorrect grammar throughout the entirety of the content.
 
-Further Information
-===================
+### Further Information
 
 ❌ Ad must not interfere with the user’s experience.
 
@@ -591,4 +575,4 @@ Examples:
 
 Related Articles
 
-[Campaign Rejection Reasons](https://www.taboola.com/help/en/articles/3878194-campaign-rejection-reasons)[Restricted Content, Products, and Services](https://www.taboola.com/help/en/articles/3878199-restricted-content-products-and-services)[Prohibited Product or Service](https://www.taboola.com/help/en/articles/4176647-prohibited-product-or-service)[Policy FAQ - Video Gaming](https://www.taboola.com/help/en/articles/7199951-policy-faq-video-gaming)[A Content Checklist: How to Avoid Campaign Rejection](https://www.taboola.com/help/en/articles/8965770-a-content-checklist-how-to-avoid-campaign-rejection)
+[Restricted Content, Products, and Services](https://www.taboola.com/help/en/articles/3878199-restricted-content-products-and-services)[Prohibited Product or Service](https://www.taboola.com/help/en/articles/4176647-prohibited-product-or-service)[Video Creative is not related to / does not match the content on the landing page](https://www.taboola.com/help/en/articles/4176675-video-creative-is-not-related-to-does-not-match-the-content-on-the-landing-page)[Policy FAQ - Video Gaming](https://www.taboola.com/help/en/articles/7199951-policy-faq-video-gaming)[A Content Checklist: How to Avoid Campaign Rejection](https://www.taboola.com/help/en/articles/8965770-a-content-checklist-how-to-avoid-campaign-rejection)
