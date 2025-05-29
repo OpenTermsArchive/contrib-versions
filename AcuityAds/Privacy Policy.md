@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Effective Date: April 1, 2025
+Effective Date: May 28, 2025
 
 This privacy policy outlines what information we collect, how we secure it, and how we use it in relation to the service illumin provides to its customers via our advertising technology platform.
 
@@ -117,13 +117,13 @@ You may access those rights with respect to illumin by sending us an email to [
 * Texas – For denied appeals, visit the [Texas Attorney General’s Office, Consumer Protection Division](https://www.texasattorneygeneral.gov/consumer-protection/file-consumer-complaint)
 * Virginia – For denied appeals, visit the V[irginia Attorney General’s Office, Consumer Protection Division](https://www.oag.state.va.us/consumer-protection/files/tips-and-info/Virginia-Consumer-Data-Protection-Act-Summary-2-2-23.pdf)
 
-The number of CCPA requests to know that illumin received, compiled with whole or part and denied in 2023: 13, 13 and 0.
+The number of CCPA requests to know that illumin received, compiled with whole or part and denied in 2024: 11, 11 and 0.
 
-The number of CCPA requests to delete that illumin received, compiled with whole or part and denied in 2023: 3, 3 and 0.
+The number of CCPA requests to delete that illumin received, compiled with whole or part and denied in 2024: 194, 194 and 0.
 
-The number of CCPA requests to opt-out that illumin received (not including requests made via illumin’s cookie based opt-out mechanism) compiled with whole or part and denied in 2023: 1537, 1537 and 0.
+The number of CCPA requests to opt-out that illumin received (not including requests made via illumin’s cookie based opt-out mechanism) compiled with whole or part and denied in 2024: 401, 401 and 0.
 
-The median number of days within which illumin substantively responded to requests to know, requests to delete and requests to opt-out: 14, 14 and 1.
+The median number of days within which illumin substantively responded to requests to know, requests to delete and requests to opt-out: 1, 1 and 2.
 
 ### European Union, Swiss and UK data subjects
 
