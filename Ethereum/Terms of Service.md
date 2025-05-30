@@ -138,3 +138,15 @@ The Terms of Use, our Privacy Policy and terms of conditions for the registratio
 **Your Comments and Concerns**
 
 The Websites are operated by the Foundation. All other feedback, comments, requests for technical support and other communications relating to the Websites should be directed to: [support@ethereum.org(opens in a new tab)](mailto:support@ethereum.org).
+
+Page last update: January 15, 2025
+
+[0(opens in a new tab)](https://github.com/0xwitty)
+
+[N(opens in a new tab)](https://github.com/nhsz)
+
+[W(opens in a new tab)](https://github.com/wackerow)
+
++2
+
+See contributors
