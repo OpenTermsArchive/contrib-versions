@@ -3,9 +3,10 @@ Find more solutions
 Conditions of Use
 =================
 
-**Last updated: September 14, 2022**
+**Last updated: May 30, 2025  
+**
 
-Welcome to Amazon.com. Amazon.com Services LLC and/or its affiliates ("Amazon") provide website features and other products and services to you when you visit or shop at Amazon.com, use Amazon products or services, use Amazon applications for mobile, or use software provided by Amazon in connection with any of the foregoing (collectively, "Amazon Services"). By using the Amazon Services, you agree, on behalf of yourself and all members of your household and others who use any Service under your account, to the following conditions.
+Welcome to Amazon.com. Amazon.com Services LLC and/or its affiliates ("Amazon") provide website features and other products and services to you when you visit or shop at Amazon.com, use Amazon products or services, use Amazon applications for mobile, or use software provided by Amazon in connection with any of the foregoing (collectively, "Amazon Services"). By using the Amazon Services, you agree, on behalf of yourself and all members of your household and others who use any Amazon Service under your account, to the following conditions.
 
 Please read these conditions carefully.
 ---------------------------------------
@@ -30,12 +31,12 @@ All content included in or made available through any Amazon Service, such as te
 TRADEMARKS
 ----------
 
-[Click here to see a non-exhaustive list of Amazon trademarks](https://www.amazon.com/gp/help/customer/display.html/?nodeId=200738910). In addition, graphics, logos, page headers, button icons, scripts, and service names included in or made available through any Amazon Service are trademarks or trade dress of Amazon in the U.S. and other countries. Amazon's trademarks and trade dress may not be used in connection with any product or service that is not Amazon's, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Amazon. All other trademarks not owned by Amazon that appear in any Amazon Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Amazon.
+[Click here to see a non-exhaustive list of Amazon trademarks](https://www.amazon.com/gp/help/customer/display.html/?nodeId=200738910). In addition, graphics, logos, page headers, button icons, scripts, and service names included in or made available through any Amazon Service are trademarks or trade dress of Amazon in the U.S. and other countries. Amazon's trademarks and trade dress may not be used in connection with any product or service that is not Amazon's or in any manner that is likely to cause confusion among customers. All other trademarks not owned by Amazon that appear in any Amazon Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Amazon.
 
 LICENSE AND ACCESS
 ------------------
 
-Subject to your compliance with these Conditions of Use and any Service Terms, and your payment of any applicable fees, Amazon or its content providers grant you a limited, non-exclusive, non-transferable, non-sublicensable license to access and make personal and non-commercial use of the Amazon Services. This license does not include any resale or commercial use of any Amazon Service, or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of any Amazon Service or its contents; any downloading, copying, or other use of account information for the benefit of any third party; or any use of data mining, robots, or similar data gathering and extraction tools. All rights not expressly granted to you in these Conditions of Use or any Service Terms are reserved and retained by Amazon or its licensors, suppliers, publishers, rightsholders, or other content providers. No Amazon Service, nor any part of any Amazon Service, may be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without express written consent of Amazon. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of Amazon without express written consent. You may not use any meta tags or any other "hidden text" utilizing Amazon's name or trademarks without the express written consent of Amazon. You may not misuse the Amazon Services. You may use the Amazon Services only as permitted by law. The licenses granted by Amazon terminate if you do not comply with these Conditions of Use or any Service Terms.
+Subject to your compliance with these Conditions of Use and any Service Terms, and your payment of any applicable fees, Amazon or its content providers grant you a limited, non-exclusive, non-transferable, non-sublicensable license to access and make personal and non-commercial use of the Amazon Services. This license does not include any resale or commercial use of any Amazon Service, or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of any Amazon Service or its contents; any downloading, copying, or other use of account information for the benefit of any third party; or any use of data mining, robots, or similar data gathering and extraction tools. You may not use the Amazon Services to infringe, misappropriate, or violate intellectual property or other legal rights. All rights not expressly granted to you in these Conditions of Use or any Service Terms are reserved and retained by Amazon or its licensors, suppliers, publishers, rightsholders, or other content providers. No Amazon Service, nor any part of any Amazon Service or its contents, may be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without express written consent of Amazon. You will not, and will not allow any third party to, use AI-generated content from the Amazon Services to, directly or indirectly, develop or improve large language or multimodal models, machine learning models or related technology. You may not frame or utilize framing techniques to enclose any trademark, logo, or other proprietary information (including images, text, page layout, or form) of Amazon without express written consent. You may not use any meta tags or any other "hidden text" utilizing Amazon's name or trademarks without the express written consent of Amazon. You may not misuse the Amazon Services. You may use the Amazon Services only as permitted by law. The licenses granted by Amazon terminate if you do not comply with these Conditions of Use or any Service Terms.
 
 YOUR ACCOUNT
 ------------
@@ -72,11 +73,11 @@ Amazon attempts to be as accurate as possible. However, Amazon does not warrant 
 PRICING
 -------
 
-"List Price" means the suggested retail price of a product as provided by a manufacturer, supplier, or seller. We regularly check List Prices against prices recently found on Amazon and other retailers. Certain products may have a "Was Price" displayed, which is determined using recent price history of the product on Amazon.
-
 With respect to items sold by Amazon, we cannot confirm the price of an item until you order. Despite our best efforts, a small number of the items in our catalog may be mispriced. If the correct price of an item sold by Amazon is higher than our stated price, we will, at our discretion, either contact you for instructions before shipping or cancel your order and notify you of such cancellation. Other merchants may follow different policies in the event of a mispriced item. 
 
 We generally do not charge your credit card until after your order has entered the shipping process or, for digital products, until we make the digital product available to you.
+
+In addition to the stated purchase price, products may display other reference prices as a point of comparison to inform your purchase decisions. [Click here](https://www.amazon.com/gp/help/customer/display.html?nodeId=GQ6B6RH72AX8D2TD) for more information on reference prices and savings displays. 
 
 APP PERMISSIONS
 ---------------
@@ -115,12 +116,19 @@ SITE POLICIES, MODIFICATION, AND SEVERABILITY
 
 Please review our other policies, such as our [pricing policy](https://www.amazon.com/gp/help/customer/display.html/?nodeId=468502), posted on this site. These policies also govern your use of Amazon Services. We reserve the right to make changes to our site, policies, Service Terms, and these Conditions of Use at any time. If any of these conditions shall be deemed invalid, void, or for any reason unenforceable, that condition shall be deemed severable and shall not affect the validity and enforceability of any remaining condition.
 
+Governing Language
+------------------
+
+It is the express wish of the parties that these Conditions of Use be drawn up in English. In the event of any inconsistency, discrepancy or conflict between the English version of these Conditions of Use and their translation in another language, the English version shall prevail. 
+
 OUR ADDRESS
 -----------
 
 Amazon.com, Inc.
 P.O. Box 81226
 Seattle, WA 98108-1226
+
+[https://amazon.com](https://www.amazon.com/gp/help/customer/display.html/?nodeId=468502)
 
 ADDITIONAL AMAZON SOFTWARE TERMS
 --------------------------------
@@ -129,10 +137,27 @@ The following terms (“Software Terms”) apply to any software (including any 
 
 1.  **Use of the Amazon Software.** You may use Amazon Software solely for purposes of enabling you to use the Amazon Services as provided by Amazon, and as permitted by these Conditions of Use and any Service Terms. You may not incorporate any portion of the Amazon Software into other programs or compile any portion of it in combination with other programs, or otherwise copy (except to exercise rights granted in this section), modify, create derivative works of, distribute, assign any rights to, or license the Amazon Software in whole or in part. All software used in any Amazon Service is the property of Amazon or its software suppliers and is protected by United States and international copyright laws.
 2. **Use of Third Party Services.** When you use the Amazon Software, you may also be using the services of one or more third parties, such as a wireless carrier or a mobile software provider. Your use of these third party services may be subject to the separate policies, terms of use, and fees of these third parties.
-3.  **No Reverse Engineering.** You may not reverse engineer, decompile or disassemble, tamper with, or bypass any security associated with the Amazon Software, whether in whole or in part.
+3. **No Reverse Engineering.** You may not reverse engineer, decompile or disassemble, tamper with, apply any other process or procedure to derive the source code or other underlying components (such as a model, model parameters, or model weights), or bypass any security associated with the Amazon Software, whether in whole or in part.
 4. **Updates.** We may offer automatic or manual updates to the Amazon Software at any time and without notice to you.
-5.  **Government End Users.** If you are a U.S. Government end user, we are licensing the Amazon Software to you as a "Commercial Item" as that term is defined in the U.S. Code of Federal Regulations (see 48 C.F.R. § 2.101), and the rights we grant you to the Amazon Software are the same as the rights we grant to all others under these Conditions of Use.
+5.  **Government End Users.** If you are a U.S. Government end user, we are licensing the Amazon Software to you as a "Commercial Product" as that term is defined in the U.S. Code of Federal Regulations (see 48 C.F.R. § 2.101), and the rights we grant you to the Amazon Software are the same as the rights we grant to all others under these Conditions of Use.
 6. **Conflicts.** In the event of any conflict between these Conditions of Use and any other Amazon or third-party terms applicable to any portion of Amazon Software, such as open-source license terms, such other terms will control as to that portion of the Amazon Software and to the extent of the conflict.
+
+Agents
+------
+
+The terms in this section ("Agent Terms") apply if you use, allow, enable, or cause the deployment of an Agent to access, use, or interact with any Amazon Services. For the purposes of these Agent Terms, "Agent” means any software or service that takes autonomous or semi-autonomous action on behalf of, or at the instruction of, any person or entity.
+
+1. **Transparency and Consent**. No Agent may access, use, or interact with Amazon Services unless, at all times, it identifies itself and operates in strict accordance with the requirements in section 3 of these Agent Terms. In addition, no Agent may access, use, or interact with Amazon Services if we have requested that the Agent refrain from accessing, using, or interacting with any Amazon Service. 
+2. **Limitation on Access.** At our sole discretion, we may limit, including by technical measures, whether and how any Agent accesses, uses, and interacts with Amazon Services. 
+3. **Technical Requirements.** Agents must:
+    
+    1. In all HTTP/HTTPS requests, identify that the request is from an Agent and disclose the name of the Agent by including the following in the request's user agent string:
+    
+    "Agent/\[agent name\]" (e.g., Agent/AmazonAgent)
+    
+    2. Not conceal or obfuscate that any access, use, or interactions are from an Agent, such as by (a) mimicking the speed or pattern of human keystrokes, page navigation, or other interactions or (b) completing or circumventing CAPTCHAs or other measures intended to distinguish computers from humans. 
+    3. Respond truthfully to any question or prompt seeking to determine if interactions are coming from a human or a computer. 
+    4. Not circumvent or otherwise avoid any measure intended to block, limit, modify, or control whether and how Agents access, use, or interact with an Amazon Service. 
 
 HOW TO SERVE A SUBPOENA OR OTHER LEGAL PROCESS
 ----------------------------------------------
