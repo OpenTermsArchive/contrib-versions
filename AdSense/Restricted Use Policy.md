@@ -280,7 +280,7 @@ Video inventory restrictions
 #### Accurately describe inventory
 
 1. Video inventory must provide declarations with accurate signals (for Ad Manager, see [VAST ad tag URL parameters](https://support.google.com/admanager/answer/10678356)), including:
-    * Audibility of ad placement: Audible by default or muted (for Ad Manager, see [`vpmute` parameter](https://support.google.com/admanager/answer/10678356#vpmute)).
+    * Audibility of ad placement: Audible (volume > 0 at the time of the ad request) by default or muted (for Ad Manager, see [`vpmute` parameter](https://support.google.com/admanager/answer/10678356#vpmute)).
     * Type of ad placement:
         * For Connected TV or Digital out-of-home inventory: Placements must be accurately declared per the [Requirements for Connected TV and Digital out-of-home inventory](https://support.google.com/admanager/answer/16127271#definitions).
         * For inventory other than Connected TV and Digital out-of-home: Video ads serving into video players with video content must be accurately declared as either "In-stream" or "Accompanying Content" placements (for Ad Manager, see [`plcmt` parameter](https://support.google.com/admanager/answer/10678356#plcmt)). Video ads serving into non-video player placements do not require declarations, and will be automatically determined by Google based on [inventory format](https://support.google.com/admanager/answer/9796545) as either "Interstitial" or "Standalone" placements.
