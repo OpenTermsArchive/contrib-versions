@@ -87,7 +87,7 @@ Harassment and Bullying
 
 Illegal or Regulated Activities
 
-* Don’t use Snapchat to send or post content that’s illegal in your jurisdiction, or for any illegal activity. This includes promoting, facilitating or participating in criminal activity, such as buying, selling, exchanging or facilitating sales of illegal or regulated drugs, contraband (such as child sexual exploitation or abuse imagery), weapons or counterfeit goods or documents. It also includes promoting or facilitating any form of exploitation, including sex trafficking, labour trafficking or other human trafficking.
+* Don’t use Snapchat to send or post content that’s illegal in your jurisdiction, or for any illegal activity. This includes promoting, facilitating or participating in criminal activity, such as buying, selling, exchanging or facilitating sales of illegal or regulated drugs, contraband or weapons. It also includes promoting or facilitating any form of exploitation, including sex trafficking, labour trafficking or other human trafficking.
     
 * We prohibit the illegal promotion of regulated goods or industries, including unauthorised promotion of gambling, tobacco or vape products and alcohol.
     
