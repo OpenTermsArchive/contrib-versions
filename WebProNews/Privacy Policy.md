@@ -170,6 +170,7 @@ WebProNews](https://www.webpronews.com/)
     * [SharingEconomyTrends](https://www.webpronews.com/ecommerce/sharingeconomytrends/)
     * [SubscriptionEconomyPro](https://www.webpronews.com/ecommerce/subscriptioneconomypro/)
     * [SupplyChainPro](https://www.webpronews.com/ecommerce/supplychainpro/)
+* **[🔥Firehose](https://www.webpronews.com/firehose)**
 
 Browse Categories
 
