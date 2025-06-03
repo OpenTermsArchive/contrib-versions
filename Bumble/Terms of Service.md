@@ -162,10 +162,14 @@ Background Check
 
 In certain circumstances, such as in response to member-generated or press reports of suspected misconduct, the Bumble group may investigate whether a member has a criminal history, which may, depending on the circumstances, include searching sex offender registries or other public records. If such investigations identify a person with a criminal conviction, the bumble group may use available information to determine whether the person identified by the investigation is the same person as the member about whom the investigation was conducted. following any such investigation, with respect to any member that the bumble group reasonably believes to have been convicted of a sex offense (such as sexual assault or sexual harassment, and including any registered sex offenders), or a conviction for human trafficking, stalking, kidnapping, child abuse, domestic abuse, murder, hate crimes, or terrorism or violent extremism, the bumble group may take steps to block that person from using the service and communicating with other members over the platform. The bumble group reserves the right to block members for other offenses, or for other violations of these terms, or for other reasons in their sole discretion. Criminal background investigations, when conducted, are not typically updated by the bumble group. Additionally, while investigations for criminal histories may be conducted on some members, they are not foolproof and most members are not expected to be subject to any form of check for criminal histories. Any investigations for criminal histories may give members a false sense of security. The checks for criminal histories that may be conducted by the bumble group are not a perfect safety solution. Criminals may circumvent even the most sophisticated search technology. Not all criminal records are public in all states and not all databases are up to date. Only publicly available convictions are included in checks, and checks do not cover other types of convictions or arrests or any convictions from foreign countries.
 
-Identification Verification
----------------------------
+Identification and Device Verification
+--------------------------------------
 
-To use our service, you must be at least 18 years old or the age of majority to legally enter into a contract under the laws of your home country if that happens to be greater than 18; Please note that we monitor for underage use and we will terminate, suspend or ask you to verify your Account if we have reason to believe that you may be underage.
+To use our service, you must be at least 18 years old or the age of majority to legally enter into a contract under the laws of your home country if that happens to be greater than 18. Please note that we monitor for underage use and we will terminate, suspend or ask you to verify your Account if we have reason to believe that you may be underage.
+
+We may require users to verify their identity in order to register an Account, or to continue using an Account, at any time. We also reserve the right to require users to provide a valid phone number registered to their Account and to verify it at any time. Please note that if you don’t complete a verification request, you may be unable to register an Account or you may lose access to the Bumble services.
+
+We may also suspend or close your Account where you have multiple Accounts.
 
 When a member may be suspended or blocked
 -----------------------------------------
@@ -488,4 +492,4 @@ The Terms constitute a binding legal agreement between you as user (“you”) a
 
 ### Effective date
 
-The Terms were last updated on: 14th March, 2025.
+The Terms were last updated on: 3rd June, 2025.
