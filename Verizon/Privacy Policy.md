@@ -346,7 +346,7 @@ Open all
     | What information is used? | [Verizon, third party and advertiser information](#)<br><br>Verizon, third party and advertiser Information<br><br>This includes information we have about your postal address and use of Verizon products and services (such as service packages, Fios TV purchases and viewership categories); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information provided to us by or on behalf of advertisers. | [Verizon, third party and advertiser information](#)<br><br>Verizon, third party and advertiser information<br><br>This includes information we have about your postal address and use of Verizon products and services (such as service packages, connected devices, TV and video purchases and viewing data); and demographic and interest information you provide or we obtain from other companies, such as your gender, age range and interests (i.e. sports fan, frequent diner or pet owner). The program may also use information provided to us by or on behalf of advertisers. |
     | Information that identifies me will not be disclosed outside of Verizon, its service providers and advertising partners | Yes | Yes |
     | I have a choice about participating | Yes | Yes |
-    | More Information | [Relevant Online Advertising FAQs](https://www.verizon.com/support/residential/announcements/direct-digital-marketing) | [Relevant TV Advertising FAQs](http://verizon.com/relevanttvfaqs) |
+    | More Information | [Relevant Online Advertising FAQs](https://www.verizon.com/support/residential/announcements/direct-digital-marketing) | [Relevant TV Advertising FAQs](https://www.verizon.com/support/residential/announcements/relevant-tv-advertising?CMP=BMO_CON_OTH_99999_NA_20210720_NA_M20210098_00001) |
     
     Relevant Online Advertising
     
@@ -410,7 +410,7 @@ Open all
     
     More Information
     
-    [Relevant TV Advertising FAQs](http://verizon.com/relevanttvfaqs)
+    [Relevant TV Advertising FAQs](https://www.verizon.com/support/residential/announcements/relevant-tv-advertising?CMP=BMO_CON_OTH_99999_NA_20210720_NA_M20210098_00001)
     
     ### Our Business and Marketing Insights program helps companies understand consumer behaviors in aggregate.
     
