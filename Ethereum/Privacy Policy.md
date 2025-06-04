@@ -218,3 +218,15 @@ For more information on applicable privacy regulations, you may refer to:
 * Swiss Ordinance to the Federal Act on Data Protection: [https://www.admin.ch/opc/en/classified-compilation/19930159/index.html(opens in a new tab)](https://www.admin.ch/opc/en/classified-compilation/19930159/index.html)
 
 Please do not hesitate to contact us if you have any questions regarding this Privacy Policy by contacting us at [support@ethereum.org(opens in a new tab)](mailto:support@ethereum.org).
+
+Page last update: February 21, 2025
+
+[p(opens in a new tab)](https://github.com/pettinarip)
+
+[w(opens in a new tab)](https://github.com/writegr)
+
+[n(opens in a new tab)](https://github.com/nhsz)
+
++4
+
+See contributors
