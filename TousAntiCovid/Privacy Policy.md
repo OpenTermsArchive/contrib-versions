@@ -38,7 +38,7 @@ Recherche
             
     
     * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/lutte-contre-la-desinformation-en-sante-et-l-obscurantisme/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
         * [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
@@ -860,7 +860,7 @@ Recherche
             
     
     * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/lutte-contre-la-desinformation-en-sante-et-l-obscurantisme/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
         * [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
@@ -1654,7 +1654,7 @@ Recherche
             
     
     * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/lutte-contre-la-desinformation-en-sante-et-l-obscurantisme/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
         * [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
@@ -2385,7 +2385,7 @@ Recherche
             
     
     * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/lutte-contre-la-desinformation-en-sante-et-l-obscurantisme/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
         * [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
@@ -2815,7 +2815,7 @@ Recherche
             
     
     * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/lutte-contre-la-desinformation-en-sante-et-l-obscurantisme/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
         * [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
@@ -3245,7 +3245,7 @@ Recherche
             
     
     * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/lutte-contre-la-desinformation-en-sante-et-l-obscurantisme/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
         * [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
@@ -3675,7 +3675,7 @@ Recherche
             
     
     * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/lutte-contre-la-desinformation-en-sante-et-l-obscurantisme/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
         * [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
@@ -4105,7 +4105,7 @@ Recherche
             
     
     * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/lutte-contre-la-desinformation-en-sante-et-l-obscurantisme/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
         * [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
@@ -4535,7 +4535,7 @@ Recherche
             
     
     * * [France 2030](https://sante.gouv.fr/grands-dossiers/france-2030/)
-        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
+        * [Lutte contre la désinformation en santé : une priorité du ministère en charge de la Santé](https://sante.gouv.fr/grands-dossiers/lutte-contre-la-desinformation-en-sante-et-l-obscurantisme/article/lutte-contre-la-desinformation-en-sante-une-priorite-du-ministere-en-charge-de)
         * [Mon Bilan Prévention : les rendez-vous santé aux âges clés de la vie](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/mon-bilan-prevention-les-rendez-vous-sante-aux-ages-cles-de-la-vie/)
     
     * * [Vaccins obligatoires](https://sante.gouv.fr/prevention-en-sante/preserver-sa-sante/vaccination/vaccins-obligatoires/)
