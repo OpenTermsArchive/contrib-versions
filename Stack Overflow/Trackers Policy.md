@@ -41,7 +41,7 @@ These cookies are necessary for our website to function properly and cannot be s
 
 | Domain | Cookies | Used as |
 | --- | --- | --- |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_eoi, \_cfuvid, .AspNetCore.Antiforgery, acct, cf\_clearance, csouser, datr, drafts, fkey, flash-message-json, have\_a\_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, OptanonAlertBoxClosed, optimizelyEndUserId, optimizelyPPID, prov, prov\_tgt, sgt, usr | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_eoi, \_cfuvid, .AspNetCore.Antiforgery, acct, cf\_clearance, csouser, datr, drafts, eupubconsent-v2, fkey, flash-message-json, have\_a\_cookie, hero-dismissed, job-alert-tooltip-dismissed, job-alert-verified-email, job-visitor-survey-dismissed, jquery-fallback, mobileSearchAccordion, no-responsiveness, OptanonAlertBoxClosed, optimizelyEndUserId, optimizelyPPID, prov, prov\_tgt, sgt, usr | 1st Party |
 | clc.stackoverflow.com | \_\_cflb | 1st Party |
 | stackoverflow.email | iterableEmailCampaignId, iterableEndUserId, iterableMessageId, iterableTemplateId | 1st Party |
 | stack.imgur.com | \_\_cf\_bm | 1st Party |
@@ -106,7 +106,7 @@ These cookies are used to make advertising messages more relevant to you and may
 | Domain | Cookies | Used as |
 | --- | --- | --- |
 | wikipedia.org | WMF-Last-Access-Global | 1st Party |
-| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_gads, \_\_gpi, \_gat\_legacyTracker, \_so\_tgt, eupubconsent-v2, GoogleAdServingTest, uc, urr | 1st Party |
+| askubuntu.com, mathoverflow.net, serverfault.com, stackapps.com, stackexchange.com, stackoverflow.co, stackoverflow.com, stackoverflow.blog, stackoverflowsolutions.com, stackoverflowteams.com, superuser.com | \_\_gads, \_\_gpi, \_gat\_legacyTracker, \_so\_tgt, GoogleAdServingTest, uc, urr | 1st Party |
 | everesttech.net | everest\_g\_v2 | 1st Party |
 | bidr.io | bito, bitoIsSecure | 1st Party |
 | bidr.io | checkForPermission | 3rd Party |
