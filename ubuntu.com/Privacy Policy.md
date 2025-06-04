@@ -493,7 +493,7 @@ Sectors
 * [Industrial](https://ubuntu.com/industrial)
 * [Government](https://ubuntu.com/gov)
 * [Telco](https://canonical.com/solutions/telco)
-* [Finance](https://ubuntu.com/financial-services)
+* [Finance](https://canonical.com/solutions/financial-services)
 
 * * *
 
