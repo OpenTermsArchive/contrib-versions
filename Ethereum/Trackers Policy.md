@@ -24,3 +24,15 @@ You can find more information about the individual cookies we may use and the pu
 You can block cookies by activating the setting on your browser that allows you to refuse the setting of all or some cookies. However, if you use your browser settings to block all cookies (including essential cookies), you may not be able to access all or parts of our sites.
 
 Except for essential cookies, all cookies will expire after two years.
+
+Page last update: August 8, 2024
+
+[c(opens in a new tab)](https://github.com/cratiu222)
+
+[n(opens in a new tab)](https://github.com/nhsz)
+
+[w(opens in a new tab)](https://github.com/wackerow)
+
++3
+
+See contributors
