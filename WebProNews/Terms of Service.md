@@ -217,7 +217,7 @@ When you visit iEntry Network or WebProNews.com or send emails to us, you are co
 
 The entire contents of this website, including but not limited to: text, graphics, logos, button icons, Flash movies, images, audio clips, digital downloads, data compilations, and software, are the property of iEntry Network or WebProNews.com, its collaborators, or its clients and are protected by domestic and international copyright and trademark laws. You may not modify, copy, reproduce, republish, upload, post, transmit, or distribute any portion of the website contents without the prior expressed written consent of iEntry Network or WebProNews.com.”
 
-You may print or download portions of the materials from various areas of this website solely for your own non-commercial use provided that you agree not to change or delete any copyright or proprietary notices from the materials. If you believe any content appearing on our website constitutes a copyright infringement of another party’s rights, please contact us immediately at _[\[email protected\]](https://www.webpronews.com/cdn-cgi/l/email-protection)_ to notify us of this infringement.
+You may print or download portions of the materials from various areas of this website solely for your own non-commercial use provided that you agree not to change or delete any copyright or proprietary notices from the materials. If you believe any content appearing on our website constitutes a copyright infringement of another party’s rights, please contact us immediately at _support@ientry.com_ to notify us of this infringement.
 
 Your submissions of files including, but not limited to: resumes, email, Flash movies, images, logos, audio loops, and other software hereby constitutes your agreement to grant iEntry Network or WebProNews.com a non-exclusive, royalty-free, worldwide, sub-licensable, perpetual license to reproduce, distribute, transmit, adapt, sub-license, and publicly display any such submissions. You also grant iEntry Network or WebProNews.com the right to utilize your name in connection with all advertising, marketing, and promotional materials related thereto.
 
@@ -259,7 +259,7 @@ iEntry Network or WebProNews.com’s failure to insist upon or enforce strict pe
 
 ### Contact Info
 
-Please send notices by care of email to _[\[email protected\]](https://www.webpronews.com/cdn-cgi/l/email-protection)_ or reach us at our physical mailing address or by telephone.
+Please send notices by care of email to _support@ientry.com_ or reach us at our physical mailing address or by telephone.
 
 iEntry, Inc.
 
