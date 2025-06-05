@@ -5,28 +5,21 @@ PART III - PROCESSING OF PERSONAL DATA FOR WHICH SCALINGO IS THE CONTROLLER
 
 SCALINGO processes the following Personal Data, as data controller:
 
-  
-  
-
-  
-  
-
-| Data subject | Purpose of the processing | Legal base | Categories of data processed | Retention time |
+| Data Subject | Purpose of the processing | Legal base | Categories of data processed | Retention time |
 | --- | --- | --- | --- | --- |
-| Client contact, subscriber of the Services; DPO contact; HDS contact (1) | Client Relationship Management | Contractual agreement | Last name, first name; Job title or function; Work phone number and email address; Business postal address | Duration of the Agreement + archiving: 5 years (legal prescription in contractual matters) |
-| Client contact, subscriber of the Services | Billing | Contractual agreement and legal obligation | Last name, first name; | 10 years from the date of the invoice |
-| User | Account Creation and Access | Contractual agreement | Last name, first name ; Email address, Username | Duration of the Agreement + archiving: 5 years (legal prescription in contractual matters) |
-| User | User support system,assistance & on-boarding | Contractual agreement | Last name, first name; Username; Job title or function; Email address; Connection and activity logs; Scalingo ID; app deployment & status logs, all data that the User could communicate in the framework of the support. | Duration of the Agreement + archiving: 1 year following end of contract, last activity or last contact |
-| User | Compliance with legal obligations | Legal obligation | Connection logs (activity logs); IP Address | 1 year ; if an offense is discovered during this period, duration of the criminal statute of limitations applicable to the offense. |
-| User | Malware & fraud detection and prevention, security incident management | Legitimate interest | Last name, first name; Job title or function; Email address; IP address; Connection logs (activity logs); | Duration of the Agreement |
-| User | Prospecting & loyalty (SCALINGO’s offers communication) ; Improvement of user experience | Legitimate interest | Last name, first name; Username; Job title or function; Phone number and email address ; User’s GitHub ID; Scalingo ID; Connection & activity logs; referral logs | Duration of the Agreement |
-| Prospect and communication Subscribers | Prospecting (SCALINGO’s offers communication) | Consent | Last name, first name; Job title or function; Phone number and email address ; User’s GitHub ID; | Duration of Consent |
+| Client contact, subscriber of the Services; DPO contact; HDS contact (1) | Client Relationship Management | Contractual agreement | Last name, first name; Job title or function; Phone number; Email address; Postal address | Duration of the Agreement + archiving: 5 years (legal prescription in contractual matters) |
+| Client contact, subscriber of the Services | Billing | Contractual agreement and legal obligation | Last name, first name | 10 years from the date of the invoice |
+| User | Account Creation & Access | Contractual agreement | Last name, first name ; Email address, Username | Duration of the Agreement + archiving: 5 years (legal prescription in contractual matters) |
+| User | User support system, assistance & on-boarding | Contractual agreement | Last name, first name; Username; Job title or function; Email address; Activity logs; Scalingo ID; app deployment & status logs, Any data that the User may disclose in the context of support | Duration of the Agreement + archiving: 1 year following end of contract, last activity or last contact |
+| User | Compliance with legal obligations | Legal obligation | Activity logs; IP Address | 1 year; if an offense is discovered during this period, duration of the criminal statute of limitations applicable to the offense. |
+| User | Malware & fraud detection and prevention, security incident management | Legitimate interest | Last name, first name; Job title or function; Email address; IP address; Activity logs | Duration of the Agreement |
+| User | Loyalty (communicating Scalingo's offers, proposing new services), Improving the user experience | Legitimate interest Consent (for information flows such as the Newsletter) | Last name, first name; Username; Job title or function; Phone number; Email address; User's GitHub ID; Scalingo ID; Activity logs; Referral logs | Duration of the Agreement |
+| Prospect and communication Subscribers | Prospecting (SCALINGO's offers communication) | Consent | Last name, first name; Job title or function; Phone number; Email address; User's GitHub ID | Duration of Consent |
+| Any individual whose Personal Data is processed by SCALINGO as part of a support or contractual support relationship | Sales and customer support | Contract performance | Any Personal Data contained in the information communicated in the context of sales and/or support | Duration of Contract or date of exercise of right + 30 days (period for returning data before deletion) or any shorter retention period requested by the Customer |
 
-  
-  
 (1) Contact point able to designate a health professional
 
-The Client is informed that the Personal Data collected is further processed by SCALINGO, in order to improve the functionality and performance of the Platform and the Services and to carry out statistics. In accordance with the Data Protection Regulation, SCALINGO guarantees that the statistical results will not contain any personal data but only anonymous aggregated data. SCALINGO shall be free to use these statistical results for institutional publications concerning its products, services, and activities and for marketing purposes.
+The Client is informed that the Personal Data collected are further processed by SCALINGO, in order to improve the functionality and performance of the Platform and the Services and to carry out statistics. In accordance with the Data Protection Regulation, SCALINGO guarantees that the statistical results will not contain any Personal Data but only anonymous aggregated data. SCALINGO shall be free to use these statistical results for institutional publications concerning its products, services, and activities and for marketing purposes.
 
 ### ARTICLE 20 - IDENTIFICATION OF SCALINGO'S SUB-PROCESSORS
 
@@ -36,87 +29,18 @@ SCALINGO reserves the right to engage any other Sub-processors of its choice and
 
 In any event, SCALINGO shall ensure that any Sub-processors it calls upon offers sufficient guarantees to implement the appropriate technical and organizational measures so that the processing it carries out on behalf of SCALINGO complies with the prescriptions and requirements set out in this DPA and, more generally, the Data Protection Regulations
 
-As of the date of signature of the Agreement, SCALINGO's Sub-processors are:
+As of the date of signature of the Agreement, SCALINGO's Sub-processors are:  
 
-  
-
-|     |     |
-| --- | --- |
-| Name | BREVO |
-| Contact details | 7 rue de Madrid,75008 Paris |
-| Purpose of the processing | Email services |
-| Legal base | Execution of the Agreement |
-| Categories of data processed | User's first name, last name, professional email address |
-| Location | EU  |
-| Transfers outside the EU | No  |
-| Security measures in case of transfer | N/A |
-
-  
-
-|     |     |
-| --- | --- |
-| Name | OUTSCALE |
-| Contact details | 1 rue Royale 92210 SAINT-CLOUD |
-| Purpose of the processing | Hosting services |
-| Legal base | Execution of the Agreement |
-| Categories of data processed | All databases |
-| Location | Cf ARTICLE 8. |
-| Transfers outside the EU | No  |
-| Security measures in case of transfer | N/A> |
-
-  
-
-|     |     |
-| --- | --- |
-| Name | INTERCOM |
-| Contact details | 55 2nd Street, 4th Floor, San Francisco, CA 94105 |
-| Purpose of the processing | User’s Support |
-| Legal base | Execution of the Agreement |
-| Categories of data processed | Name, first name, professional email address of the User; Company, position, location; Connection data (Date of first connection, date of authentication, date of last contact, date of last email opening, browser language, browser version, operating system); Location data (IP geolocation, time zone). |
-| Location | USA |
-| Transfers outside the EU | Yes (USA) |
-| Security measures in case of transfer | EU Standard Contractual Clauses (June 2021) |
-
-  
-
-|     |     |
-| --- | --- |
-| Name | STRIPE |
-| Contact details | C/O A & L Goodbody, Ifsc, North Wall Quay Dublin D01 H104, Ireland |
-| Purpose of the processing | Payment |
-| Legal base | Execution of the contract; legal obligation (LCB-FT regulation: anti-fraud controls and management of disputes in the context of transactions) |
-| Categories of data processed | Client details and bank details of the Client who uses the STRIPE service when paying by credit card or SEPA direct debit |
-| Location | EU  |
-| Transfers outside the EU | Yes |
-| Security measures in case of transfer | EU Standard Contractual Clauses (June 2021) |
-
-  
-
-|     |     |
-| --- | --- |
-| Name | PAYPAL |
-| Contact details | 21 rue de la banque 75002 PARIS |
-| Purpose of the processing | Payment |
-| Legal base | Execution of the contract; legal obligation (LCB-FT regulation: anti-fraud controls and management of disputes in the context of transactions) |
-| Categories of data processed | Client details and bank details of the Client who uses the PAYPAL service when paying by credit card or SEPA transfer |
-| Location | USA |
-| Transfers outside the EU | Yes |
-| Security measures in case of transfer | EU Standard Contractual Clauses (June 2021) |
-
-  
-
-|     |     |
-| --- | --- |
-| Name | PIPEDRIVE |
-| Contact details | Mustamäe tee 3a, 10615 Tallinn, Harju maakond, Estonia |
-| Purpose of the processing | Customer Relationship Management, User support and onboarding, Billing, Scalingo’s offers communication |
-| Legal base | Execution of the Agreement, SCALINGO's legitimate interest, Performance of the Agreement and SCALINGO’s legal obligation |
-| Categories of data processed | \- Contact information : full name, username, email address(es), Position; Company Name; User’s GitHub ID; Scalingo User ID  <br>\- Transactional data : purchase statistics and history;  <br>\- Billing information and profile  <br>\- Platform usage activity data; Feature usage logs; Applications deployment status; Status of additional services  <br>\- User and account status  <br>\- Customer support & communication data ; History of interactions via Scalingo's internal messaging system ; Marketing subscription status |
-| Location | EU / Estonia |
-| Transfers outside the EU | Yes |
-| Security measures in case of transfer | EU Standard Contractual Clauses (June 2021) |
-
-  
+| Name | Contact details | Purpose of the processing | Legal base | Categories of data processed | Location | Transfers outside the EU | Security measures in case of transfer |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| BREVO | 7 rue de Madrid, 75008 Paris | Email services | Execution of the Agreement | User's first name, last name, professional email address | EU  | No  | N/A |
+| CLOUDFLARE (custom contract and/or specific customer request) | 101 Townsend Street, San Francisco, CA 94107, USA | CDN, WAF, Anti-DDOS | Performance of the custom contract and/or specific customer request; SCALINGO's legitimate interest | \- IP addresses - HTTP metadata - Analytical server performance data - Behavioral data for anti-DDOS functions (request patterns) - Traffic data | USA or Europe depending on the origin of the request (PoP infrastructure). | Yes | EU-U.S. Data Privacy Framework |
+| INTERCOM | 55 2nd Street, 4th Floor, San Francisco, CA 94105 | User's Support | Execution of the Agreement | Name, first name, professional email address of the User; Company, position, location; Connection data (Date of first connection, date of authentication, date of last contact, date of last email opening, browser language, browser version, operating system); Location data (IP geolocation, time zone). | USA | Yes | EU Standard Contractual Clauses (June 2021) |
+| OUTSCALE | 1 rue Royale 92210 SAINT-CLOUD | Hosting services | Execution of the Agreement | All databases | See ARTICLE 8. | No  | N/A |
+| PAYPAL | 21 rue de la banque 75002 PARIS | Payment | Execution of the contract; legal obligation (LCB-FT regulation: anti-fraud controls and management of disputes in the context of transactions) | Client details and bank details of the Client who uses the PAYPAL service when paying by credit card or SEPA transfer | USA | Yes | EU Standard Contractual Clauses (June 2021) |
+| PIPEDRIVE | Mustamäe tee 3a, 10615 Tallinn, Harju maakond, Estonia | Customer Relationship Management, User support and onboarding, Billing, Scalingo's offers communication | Execution of the Agreement, SCALINGO's legitimate interest, Performance of the Agreement and SCALINGO's legal obligation | \- Contact information : full name, username, email address(es), Position; Company Name; User's GitHub ID; Scalingo User ID - Transactional data : purchase statistics and history; - Billing information and profile - Platform usage activity data; Feature usage logs; Applications deployment status; Status of additional services - User and account status - Customer support & communication data ; History of interactions via Scalingo's internal messaging system ; Marketing subscription status | EU / Estonia | Yes | EU Standard Contractual Clauses (June 2021) |
+| STRIPE | C/O A & L Goodbody, Ifsc, North Wall Quay Dublin D01 H104, Ireland | Payment | Execution of the contract; legal obligation (LCB-FT regulation: anti-fraud controls and management of disputes in the context of transactions) | Client details and bank details of the Client who uses the STRIPE service when paying by credit card or SEPA direct debit | EU  | Yes | EU Standard Contractual Clauses (June 2021) |
+| SURFE | 17 allée des Gassets 77700 Serris, FRANCE | Prospecting intermediary, CRM database enrichment from LinkedIn | SCALINGO's legitimate interests, consent | User information: full name, username, email address(es), job title, company name, LinkedIn profile URL | EU  | No  | N/A |
 
 ### ARTICLE 21 - IDENTIFICATION OF THE RECIPIENTS OF THE PERSONAL DATA PROCESSED
 
