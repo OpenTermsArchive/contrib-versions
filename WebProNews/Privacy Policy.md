@@ -213,7 +213,7 @@ You may occasionally get cookies from our advertisers. These cookies are sent fr
 Removal from our Database
 -------------------------
 
-Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at [\[email protected\]](https://www.webpronews.com/cdn-cgi/l/email-protection).
+Should you ever wish to be removed from our database, simply contact us and we will be happy to fulfill your request. Additionally, should you wish further clarification of this policy, please do not hesitate to email us at support@WebProNews.com.
 
 ![](https://www.webpronews.com/wp-content/themes/wpntheme/imgs/wpn-nl-ipad.png)
 
