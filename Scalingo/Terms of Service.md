@@ -1,7 +1,7 @@
 General Terms of Use
 ====================
 
-The purpose of these general terms of use is to define the terms and conditions of access to and use of the cloud computing platform operated by SCALINGO, a simplified joint-stock company, registered in the Strasbourg Trade and Companies Register under number 808 665 483, whose registered office is located at 13 rue Jacques Peirotes - 67000 Strasbourg (France) represented by its president, Mr. Yann KLIS (hereinafter referred to as "**SCALINGO**").
+The purpose of these general terms of use is to define the terms and conditions of access to and use of the cloud computing platform operated by SCALINGO, a simplified joint-stock company, registered in the Strasbourg Trade and Companies Register under number 808 665 483, whose registered office is located at 13 rue Jacques Peirotes - 67000 Strasbourg (France) represented by its president, Mr. Yann KLIS (hereinafter referred to as "SCALINGO").
 
 Article 1. Definitions
 ----------------------
@@ -22,7 +22,7 @@ In the GTU, the terms identified below by a capital letter have the following me
 
 **Regulation applicable to the protection of personal data**: means any regulation applicable to the protection of personal data and in particular the Regulation (EU) No. 2016/679 of the European Parliament and of the Council of 27 April 2016 known as the "General Data Protection Regulation" or "GDPR" and Law No. 78-17 of 6 January 1978 as amended known as the "Data Protection Act".
 
-**Resources**: means the Client's resources hosted on the SCALINGO Platform, including the Client's application, databases, the Client's managed networks, as well as, where applicable, third-party resources approved by SCALINGO;
+**Resources**: means the Client's resources hosted on the Platform, including the Client's application, databases, the Client's managed networks, as well as, where applicable, third-party resources approved by SCALINGO;
 
 **Services**: means all the services provided to the User through the Platform, it being specified that the scope of the Services open to the User is agreed in the Agreement between the Client and SCALINGO among the following categories of services: "Managed application environments"; "Managed databases"; "Managed networks"; "Professional services"; "Operational readiness maintenance service";
 
