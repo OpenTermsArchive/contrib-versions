@@ -41,8 +41,6 @@ Websites often collect information about how users interact with a website. This
 
 Google Analytics is Google’s analytics tool that helps website and app owners to understand how their visitors engage with their properties. It may use a set of cookies to collect information and report website usage statistics without personally identifying individual visitors to Google. The main cookie used by Google Analytics is the ‘\_\_ga’ cookie.
 
-Learn more about [Analytics cookies and privacy information](https://developers.google.com/analytics/resources/concepts/gaConceptsCookies?hl=en).
-
 YOUR CHOICES
 ------------
 
