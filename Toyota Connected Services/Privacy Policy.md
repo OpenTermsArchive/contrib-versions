@@ -2,7 +2,7 @@ Your Privacy Rights
 
 ----------------------
 
-UPDATED AS OF: March 5, 2025  
+UPDATED AS OF: June 4, 2025  
 
 **Personal Information Sharing Practices for 2024**  
 
@@ -18,7 +18,7 @@ Your vehicle may be equipped with Connected Services that electronically transmi
 
 **Toyota Privacy Notice – Summary**
 
-This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on January 7, 2025.
+This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on June 4, 2025.
 
 **Information Collected**
 
@@ -70,7 +70,7 @@ To read our full Privacy Notice [click here.](#privacy)
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: March 5, 2025  
+UPDATED AS OF: June 4, 2025  
 
 Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information. Personal Information is sometimes also referred to as personal data, personally identifiable information or other like terms that mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household. **Personal Information does not include the following if exempt under privacy laws**:
 
@@ -338,21 +338,23 @@ We do not charge a fee to process or respond to your verifiable consumer request
 You may only make a verifiable consumer request to know about or access your Personal Information twice within a 12-month period.
 
 **METRICS FOR REQUESTS BY CALIFORNIA RESIDENTS**  
-(January 1, 2023, to December 31, 2023)
+(January 1, 2024, to December 31, 2024)
 
   
 
 |     |     |     |     |     |
 | --- | --- | --- | --- | --- |
-| **Request Type** | **“Do Not Sell Or Share My Personal Information”** | **“Delete My Personal Information”** | **“Get My Personal Information”** | **“Correct My Personal Information”** |
-| **Received** | 7,017 | 1,188 | 569 | 69  |
-| **Complied with in whole or in part** | 6,757 | 482 | 218 | 28  |
-| **Denied** | 260\* | 706\*\* | 351\*\* | 41\*\* |
-| **Median number of days to complete** | 3   | 13  | 18  | 5   |
+| **Request Type\*\*\*** | **“Do Not Sell Or Share My Personal Information”** | **“Delete My Personal Information”** | **“Get My Personal Information”** | **“Correct My Personal Information”** |
+| **Received** | 13,344 | 2,008 | 956 | 85  |
+| **Complied with in whole or in part** | 12,954 | 1,324 | 677 | 55  |
+| **Denied** | 390\* | 684\*\* | 279\*\* | 30\*\* |
+| **Median number of days to complete** | 2   | 11  | 11  | 5   |
 
-\*Failed matching with internal system of consumer records, or request canceled where the submission failed to register with privacy tool.
+\*Failed matching with the internal system of consumer records, or request canceled where the submission failed to register with the privacy tool because of a technical failure, but another request was resubmitted for each impacted consumer with a new request ID.
 
-\*\*Request not verifiable with third party provider, failed matching with internal system of consumer records, or request canceled where the submission failed to register with privacy tool.
+\*\*Request not verifiable with third-party provider, failed matching with the internal system of consumer records, or request canceled where the submission failed to register with the privacy tool because of a technical failure, but another request was resubmitted for each impacted consumer with a new request ID.
+
+\*\*\*”Limit use and disclosure of sensitive personal information requests” are not offered because such data is already used for limited purposes under the California Consumer Privacy Act.
 
 **13\. CONTACT US.**
 
