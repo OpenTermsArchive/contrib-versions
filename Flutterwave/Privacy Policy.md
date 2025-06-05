@@ -6,7 +6,7 @@ These Terms apply in full force and effect to your use of the Services and by us
 
 ### Who We Are And Our Company Information
 
-We are Flutterwave Incorporated; a company registered under the laws of the United States of America. Our registered office is at 1323 Columbus Avenue, San Francisco CA, 94133.
+We are Flutterwave Incorporated; a company registered under the laws of the United States of America. Our registered office is at 2261 Market Street, Suite 85079, San Francisco, CA 94114.
 
 PLEASE READ AND UNDERSTAND THE TERMS OF AGREEMENT CAREFULLY BEFORE AGREEING TO BE BOUND BY ITS TERMS.
 
@@ -175,6 +175,6 @@ Flutterwave Incorporated
 
 Email Address: hi@flutterwavego.com
 
-Address: 1323 Columbus Avenue, San Francisco CA, 94133
+Address: 2261 Market Street, Suite 85079, San Francisco, CA 94114.
 
 Hours of Operation: 9am - 6pm (Mon - Fri)
