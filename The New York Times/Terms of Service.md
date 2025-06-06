@@ -1,4 +1,4 @@
-_Last Updated on March 3, 2025_
+_Last Updated on June 9, 2025_
 
 This page describes the terms and conditions that govern your use of certain New York Times products or services, including NYTimes.com and mobile applications, offered by The New York Times Company and its subsidiaries, including The Athletic (“NYT”, “us” or “we”).
 
@@ -64,6 +64,8 @@ Debate, but don't attack. In a community full of opinions and preferences, peopl
 For more information regarding The Athletic’s Code of Conduct, please go to [nytimes.com/athletic/code-of-conduct](https://nytimes.com/athletic/code-of-conduct).
 
 When playing Crossplay, you agree to abide by the [Crossplay Acceptable Use Policy](https://help.nytimes.com/hc/en-us/articles/35116654771220-Crossplay-Acceptable-Use-Policy), which is incorporated by reference into these Terms.
+
+We may use automated scanning and moderation technology to monitor users’ direct messages in order to identify any violations of an applicable Acceptable Use Policy and these Terms of Service, to help ensure a safe and respectful experience for you and other users.
 
 3.2 The Services may be used only in a noncommercial manner. You must not, without the express approval of NYT, distribute or otherwise publish any material containing any solicitation of funds, advertising or solicitation for goods or services. You may not use all or part of the Services to collect, store, or use any user information for any purpose not expressly permitted by these Terms of Service.
 
