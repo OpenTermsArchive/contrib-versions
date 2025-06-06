@@ -3992,3 +3992,21 @@ https://policies.google.com/privacy
 Web Domain
 
 .x.com
+
+Name
+
+cf\_chl\_rc\_m
+
+Description
+
+This cookie is for Cloudflare to identify production issues on clients
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.cloudflare.com/privacypolicy
+
+Web Domain
+
+help.x.com
