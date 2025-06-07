@@ -131,4 +131,3882 @@ Along with [optout.aboutads.info](https://optout.aboutads.info/?c=2&lang=EN), yo
 
 **Important:** To view or change web settings for your X account, you'll need to log in to the web browser. Changing your X settings in the web browser when you’re logged out will only affect behavior on that browser while you aren't logged in to X. Read our article on how to access your [personalization and data settings](https://help.twitter.com/en/personalization-data-settings.html) for more.
 
-The cookies you encounter depend on the features and functionality you use. The most commonly used cookies on X services are described in this [chart](https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/rules-and-policies/cookie-description-lists/cookie-description-list-en.pdf), which we update from time to time. Cookie lifespans are capped at 13 months in certain areas.
+The cookies you encounter depend on the features and functionality you use. The most commonly used cookies on X services are described in this [chart](https://cdn.cms-twdigitalassets.com/content/dam/help-twitter/rules-and-policies/cookie-description-lists/cookie-description-list-en.pdf), which we update from time to time. Cookie lifespans are capped at 13 months in certain areas.   
+
+Name
+
+Description
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+Web Domain
+
+Name
+
+lscr
+
+Description
+
+This cookie is for admin authentication for Scroll
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.scroll.com
+
+Name
+
+app\_shell\_referrer
+
+Description
+
+This cookie is for security and functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+\_\_utma
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+zipbox\_auth\_token
+
+Description
+
+This cookie is for legal requests
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+zipbox.twitter.biz
+
+Name
+
+\_\_Host-3PLSID
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+google.com
+
+Name
+
+1P\_JAR
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+.gstatic.com
+
+Name
+
+\_ga\_
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+csrftoken
+
+Description
+
+This cookie is for MoPub authentication (when Twitter issued)
+
+This cookie is for Giphy integration and/or analytics (when thirdparty issued)
+
+Controller
+
+Giphy Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy](https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy)
+
+Web Domain
+
+.giphy.com
+
+Name
+
+\_sl
+
+Description
+
+This cookie is for web authentication and security
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+shopify\_app\_session.sig
+
+Description
+
+This cookie is used for account security and authentication, to ensure that a shopify merchant who is trying to access the twitter sales channel application is logged in to the relevant shopify admin account and to enable the shopify merchant to grant us access to install our application in their admin site.
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+shopify-staging.twitterintegration.com
+
+Name
+
+gscr
+
+Description
+
+This cookie is for authentication
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.scroll.com
+
+Name
+
+test\_cookie
+
+Description
+
+This cookie is for doubleclick integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+doubleclick.net
+
+Name
+
+AMP\_TOKEN
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+GED\_PLAYLIST\_ACTIVITY
+
+Description
+
+This cookie is for YouTube integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies?hl=en)
+
+Web Domain
+
+x.com
+
+Name
+
+night\_mode
+
+Description
+
+This cookie is for night mode functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+daa
+
+Description
+
+This cookie is for opt-out of user preference tracking (when third party issued)
+
+This cookie is for business account functionality on [ads.twitter.com](http://ads.twitter.com/) (when twitter issued)
+
+Controller
+
+Digital Advertising Alliance
+
+Learn More (Privacy Policy URL)
+
+[https://digitaladvertisingalliance.org/privacy-policy](https://digitaladvertisingalliance.org/privacy-policy)
+
+Web Domain
+
+.x.com
+
+Name
+
+lv-uid
+
+Description
+
+This cookie is for video functionality on iOS
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+didomi\_token
+
+Description
+
+This cookie is for Giphy integration and/or analytics
+
+Controller
+
+Giphy Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy](https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy)
+
+Web Domain
+
+.giphy.com
+
+Name
+
+bouncer\_reset\_cookie
+
+Description
+
+This cookie is for password reset and account security
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+cd\_user\_id
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+daa
+
+Description
+
+This cookie is for opt-out of user preference tracking (when third party issued)
+
+This cookie is for business account functionality on [ads.twitter.com](http://ads.twitter.com/) (when twitter issued)
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+twid
+
+Description
+
+This cookie is for authentication
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+fontsLoaded
+
+Description
+
+This cookie is for fonts functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+kampyleUserSessionCount
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+email\_read\_only
+
+Description
+
+This cookie is for authenication from a Twitter email
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+x.com
+
+Name
+
+csrf\_id
+
+Description
+
+This cookie is for Twitter web functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+VISITOR\_INFO1\_LIVE\_\_default
+
+Description
+
+This cookie is for YouTube integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies?hl=en)
+
+Web Domain
+
+youtube.com
+
+Name
+
+\_ga
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+\_\_Secure-3PSIDCC
+
+Description
+
+This cookie is for Google Analytics and ads targeting
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+google.com
+
+Name
+
+\_ep\_sess
+
+Description
+
+This cookie is for functionality to remain logged in
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[](https://twitter.com/en/privacy)[https://business.twitter.com/en/help/campaign-setup/quick-promote.html](https://business.twitter.com/en/help/campaign-setup/quick-promote.html)[https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+shopify\_app\_session.sig
+
+Description
+
+This cookie is used for account security and authentication, to ensure that a shopify merchant who is trying to access the twitter sales channel application is logged in to the relevant shopify admin account and to enable the shopify merchant to grant us access to install our application in their admin site.
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+shopify.twitterintegration.com
+
+Name
+
+kampyleInvitePresented
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+\_gac\_
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+csrf\_same\_site
+
+Description
+
+This cookie is for security
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+guest\_id
+
+Description
+
+This cookie is for authentication
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+gt
+
+Description
+
+This cookie is for external app functionality and authorization
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+scroll1
+
+Description
+
+This cookie is for long-form reading functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Publisher Partner Domain
+
+Name
+
+language
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+\_\_utmv
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+guest\_id\_marketing
+
+Description
+
+This cookie is for advertising when logged out
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+scroll0
+
+Description
+
+This cookie is for publisher site authentication
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Publisher Partner Domain
+
+Name
+
+sessionid
+
+Description
+
+This cookie is for MoPub authentication and session information
+
+Controller
+
+Mopub
+
+Learn More (Privacy Policy URL)
+
+[https://www.applovin.com/privacy](https://www.applovin.com/privacy/)
+
+Web Domain
+
+app.mopub.com
+
+Name
+
+\_\_Secure-3PAPISID
+
+Description
+
+This cookie is for Google Analytics and ads targeting
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy?hl=en](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+google.com
+
+Name
+
+mobile\_ads\_stat\_type
+
+Description
+
+This cookie is used to retain your preferences
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+ads.x.com
+
+Name
+
+fm
+
+Description
+
+This cookie is for functionality of error or success messages
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+check
+
+Description
+
+This cookie for Adobe integration and/or analytics
+
+Controller
+
+Adobe
+
+Learn More (Privacy Policy URL)
+
+[https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/what-s-the-purpose-of-at-check-cookie/td-p/389344](https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/what-s-the-purpose-of-at-check-cookie/td-p/389344)
+
+Web Domain
+
+x.com
+
+Name
+
+\_\_stripe\_sid
+
+Description
+
+This cookie is for transaction functionality and fraud protection
+
+Controller
+
+Stripe
+
+Learn More (Privacy Policy URL)
+
+[https://stripe.com/cookies-policy/legal](https://stripe.com/cookies-policy/legal%22)
+
+"
+
+Web Domain
+
+.scroll.com
+
+Name
+
+\_\_stripe\_mid
+
+Description
+
+This cookie is for transaction functionality and fraud protection
+
+Controller
+
+Stripe
+
+Learn More (Privacy Policy URL)
+
+[https://stripe.com/cookies-policy/legal](https://stripe.com/cookies-policy/legal)
+
+Web Domain
+
+.scroll.com
+
+Name
+
+momentmaker.tos.accepted
+
+Description
+
+This cookie is for authentication for MomentMaker pro features for brand partners
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+kampyleUserPercentile
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+lv-pod-
+
+Description
+
+This cookie is for ads in live video
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.t.lv.twimg.com
+
+Name
+
+\_gat
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+uuid
+
+Description
+
+This cookie is for ads tracking
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+x.com
+
+Name
+
+backendDataInSessionFlag
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+muc
+
+Description
+
+This cookie is for bot detection
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.t.co
+
+Name
+
+csrf\_same\_site\_set
+
+Description
+
+This cookie is for security
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+eu\_cn
+
+Description
+
+This cookie is for cookie notices
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+shopify\_app\_session.sig
+
+Description
+
+This cookie is used for account security and authentication, to ensure that a shopify merchant who is trying to access the twitter sales channel application is logged in to the relevant shopify admin account and to enable the shopify merchant to grant us access to install our application in their admin site.
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+shopify-staging.twitterintegration.com
+
+Name
+
+kampyle\_userid
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+ads\_prefs
+
+Description
+
+This cookie is to opt-out of ads tracking
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+\_\_Secure-3PSID
+
+Description
+
+This cookie is for Google Analytics and ads targeting
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+google.com
+
+Name
+
+att
+
+Description
+
+This cookie is for authentication and password reset
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+twitter\_ads\_id
+
+Description
+
+This cookie is for advertising personalization
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+shopify\_app\_session
+
+Description
+
+This cookie is used for account security and authentication, to ensure that a shopify merchant who is trying to access the twitter sales channel application is logged in to the relevant shopify admin account and to enable the shopify merchant to grant us access to install our application in their admin site.
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+shopify-staging.twitterintegration.com
+
+Name
+
+request\_method
+
+Description
+
+This cookie is for browsing functionality and speed
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+aem-lang-preference
+
+Description
+
+This cookie is for language functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+x.com
+
+Name
+
+email\_uid
+
+Description
+
+This cookie is for authenication by SMS
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+x.com
+
+Name
+
+\_opt\_awkid
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+giphy\_pbid
+
+Description
+
+This cookie is for Giphy integration and/or analytics
+
+Controller
+
+Giphy Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy](https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy)
+
+Web Domain
+
+.giphy.com
+
+Name
+
+shopify\_app\_session
+
+Description
+
+This cookie is used for account security and authentication, to ensure that a shopify merchant who is trying to access the twitter sales channel application is logged in to the relevant shopify admin account and to enable the shopify merchant to grant us access to install our application in their admin site.
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+shopify-staging.twitterintegration.com
+
+Name
+
+VISITOR\_INFO1\_LIVE
+
+Description
+
+This cookie is for YouTube integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies?hl=en)
+
+Web Domain
+
+youtube.com
+
+Name
+
+SIDCC
+
+Description
+
+This cookie is for YouTube integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies?hl=en)
+
+Web Domain
+
+google.com
+
+Name
+
+mbox
+
+Description
+
+This cookie is for marketing on developer.twitter.com
+
+Controller
+
+Adobe
+
+Learn More (Privacy Policy URL)
+
+[https://experienceleague.adobe.com/docs/target/using/implement-target/before-implement/privacy/cmp-privacy-and-general-data-protection-regulation.html](https://experienceleague.adobe.com/docs/target/using/implement-target/before-implement/privacy/cmp-privacy-and-general-data-protection-regulation.html?lang=en)
+
+Web Domain
+
+.x.com
+
+Name
+
+id
+
+Description
+
+This cookie is for doubleclick integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+doubleclick.net
+
+Name
+
+didomi\_accept\_cookie
+
+Description
+
+This cookie is for Giphy integration and/or analytics
+
+Controller
+
+Giphy Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy](https://support.giphy.com/hc/en-us/articles/360032872931-GIPHY-Privacy-Policy)
+
+Web Domain
+
+.giphy.com
+
+Name
+
+shopify\_app\_session
+
+Description
+
+This cookie is used for account security and authentication, to ensure that a shopify merchant who is trying to access the twitter sales channel application is logged in to the relevant shopify admin account and to enable the shopify merchant to grant us access to install our application in their admin site.
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+shopify.twitterintegration.com
+
+Name
+
+at\_check
+
+Description
+
+This cookie for Adobe integration and/or analytics
+
+Controller
+
+Adobe
+
+Learn More (Privacy Policy URL)
+
+[https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/what-s-the-purpose-of-at-check-cookie/td-p/389344](https://experienceleaguecommunities.adobe.com/t5/adobe-target-questions/what-s-the-purpose-of-at-check-cookie/td-p/389344)
+
+Web Domain
+
+.x.com
+
+Name
+
+mdLogger
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+ACLK\_DATA
+
+Description
+
+This cookie is for YouTube integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies?hl=en)
+
+Web Domain
+
+youtube.com
+
+Name
+
+kampyleUserSessionsCount
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+client\_token
+
+Description
+
+This cookie is for web authentication
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+mp\_
+
+Description
+
+This cookie analyzes your user interaction on Twitter for product research
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+DSID
+
+Description
+
+This cookie is for doubleclick integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+.doubleclick.net
+
+Name
+
+aa\_u
+
+Description
+
+This cookie is for Teams functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+VISITOR\_INFO1\_LIVE\_\_k
+
+Description
+
+This cookie is for YouTube integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies?hl=en)
+
+Web Domain
+
+youtube.com
+
+Name
+
+shopify\_app\_session.sig
+
+Description
+
+This cookie is used for account security and authentication, to ensure that a shopify merchant who is trying to access the twitter sales channel application is logged in to the relevant shopify admin account and to enable the shopify merchant to grant us access to install our application in their admin site.
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+shopify.twitterintegration.com
+
+Name
+
+lv-ctx-
+
+Description
+
+This cookie is for video functionality for live events
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.t.lv.twimg.com
+
+Name
+
+\_GRECAPTCHA
+
+Description
+
+This cookie is for Google Recaptcha and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)[](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+google.com
+
+Name
+
+d\_prefs
+
+Description
+
+This cookie is for your cookie preferences
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+\_dc\_gtm\_
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+auth\_multi
+
+Description
+
+This cookie is for authentication if you have multiple accounts
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+ct0
+
+Description
+
+This cookie is for authentication
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+\_gaexp\_rc
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+RUL
+
+Description
+
+This cookie is for doubleclick integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+.doubleclick.net
+
+Name
+
+ui\_metrics
+
+Description
+
+This cookie is for authentication and account verification
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+csrftoken
+
+Description
+
+This cookie is for MoPub authentication (when Twitter issued)
+
+This cookie is for Giphy integration and/or analytics (when thirdparty issued)
+
+Controller
+
+Mopub
+
+Learn More (Privacy Policy URL)
+
+[https://www.applovin.com/privacy](https://www.applovin.com/privacy/) [https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+app.mopub.com
+
+Name
+
+md\_isSurveySubmittedInSession
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+\_opt\_awcid
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+Authorization
+
+Description
+
+This cookie is for video functionality for live events
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.lv.twimg.com
+
+Name
+
+\_s
+
+Description
+
+This cookie is for Branch Metrics analytics 
+
+Controller
+
+Branch Metrics
+
+Learn More (Privacy Policy URL)
+
+[https://branch.app.link/optout](https://branch.app.link/optout)
+
+Web Domain
+
+.app.link
+
+Name
+
+NID
+
+Description
+
+This cookie is for Google Recaptcha and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+google.com
+
+Name
+
+FLC
+
+Description
+
+This cookie is for doubleclick integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+.doubleclick.net
+
+Name
+
+connect.sid
+
+Description
+
+This cookie is for functionality and authentication
+
+Controller
+
+Mopub
+
+Learn More (Privacy Policy URL)
+
+[https://www.applovin.com/privacy](https://www.applovin.com/privacy/)
+
+Web Domain
+
+ads.x.com
+
+Name
+
+lang-preference
+
+Description
+
+This cookie is for language functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+kampyleSessionPageCounter
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+CONSENT
+
+Description
+
+This cookie is for YouTube integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies?hl=en)
+
+Web Domain
+
+google.com
+
+Name
+
+pm\_sess
+
+Description
+
+This cookie is for doubleclick integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+doubleclick.net
+
+Name
+
+\_gaexp
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+cms-csp-nonce
+
+Description
+
+This cookie is for security
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+com.adobe.reactor.dataElementCookiesMigrated
+
+Description
+
+This cookie is for marketing
+
+Controller
+
+Adobe
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+syndication\_guest\_id
+
+Description
+
+This cookie is for video functionality of Tweets off-Twitter
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+kdt
+
+Description
+
+This cookie is to authenticate a known device
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+personalization\_id
+
+Description
+
+This cookie tracks activities on and off Twitter for a personalized experience
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+\_\_ncuid
+
+Description
+
+This cookie is for doubleclick integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+x.com
+
+Name
+
+\_gid
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+LAST\_INVITATION\_VIEW
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+timezone
+
+Description
+
+This cookie is for time-zone functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+\_\_utmz
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+csrftoken
+
+Description
+
+This cookie is for MoPub authentication (when Twitter issued)
+
+This cookie is for Giphy integration and/or analytics (when thirdparty issued)
+
+Controller
+
+Mopub
+
+Learn More (Privacy Policy URL)
+
+[https://www.applovin.com/privacy](https://www.applovin.com/privacy/)
+
+Web Domain
+
+demand.mopub.com
+
+Name
+
+NEW\_SUBSCRIPTION\_ACCOUNT
+
+Description
+
+This cookie lets us know if you are new on Twitter
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+ads.x.com
+
+Name
+
+\_support\_session
+
+Description
+
+This cookie is for account support
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+FPID
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+dnt
+
+Description
+
+This cookie is for opt-out of ads personalization
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+SUBMITTED\_DATE
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+\_\_utmt
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+m\_session
+
+Description
+
+This cookie is for video functionality for live events by geolocation
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+PREF
+
+Description
+
+This cookie is for YouTube integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies?hl=en)
+
+Web Domain
+
+youtube.com
+
+Name
+
+\_opt\_utmc
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+IDE
+
+Description
+
+This cookie is for doubleclick integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+.doubleclick.net
+
+Name
+
+form-lead-gen
+
+Description
+
+This cookie is for Business account functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+business.x.com
+
+Name
+
+tooltip
+
+Description
+
+This cookie is for functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+lv-ctx-zzz
+
+Description
+
+This cookie is for video functionality for live events
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.t.lv.twimg.com
+
+Name
+
+signup\_ui\_metrics
+
+Description
+
+This cookie is for authentication and account verification
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+app\_shell\_visited
+
+Description
+
+This cookie is for security and functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+\_opt\_awgid
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+tweetdeck\_version
+
+Description
+
+This cookie is for TweetDeck functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+\_opt\_awmid
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+sessionid
+
+Description
+
+This cookie is for MoPub authentication and session information
+
+Controller
+
+Mopub
+
+Learn More (Privacy Policy URL)
+
+[https://www.applovin.com/privacy](https://www.applovin.com/privacy/)
+
+Web Domain
+
+demand.mopub.com
+
+Name
+
+lang
+
+Description
+
+This cookie is for language functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+\_ttc\_session
+
+Description
+
+This cookie is for translations
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+translate.x.com
+
+Name
+
+\_\_utmb
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+cookies\_enabled
+
+Description
+
+This cookie is for video functionality for live events
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.lv.twimg.com
+
+Name
+
+ssa-calendar-signup
+
+Description
+
+This cookie is for Business account functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+business.x.com
+
+Name
+
+auth\_token
+
+Description
+
+This cookie is for account login and authentication
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+mobile\_ads\_time\_interval
+
+Description
+
+This cookie is used to retain your preferences
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+ads.x.com
+
+Name
+
+GA\_OPT\_OUT
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+google-analytics.com
+
+Name
+
+studio\_account
+
+Description
+
+This cookie is for authentication for Twitter Media Studio
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+DECLINED\_DATE
+
+Description
+
+This cookie is for help center functionality on help.twitter.com
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+help.x.com
+
+Name
+
+messages
+
+Description
+
+This cookie is for MoPub authentication
+
+Controller
+
+Mopub
+
+Learn More (Privacy Policy URL)
+
+[https://www.applovin.com/privacy](https://www.applovin.com/privacy/)
+
+Web Domain
+
+Any MoPub Domain
+
+Name
+
+\_mb\_tk
+
+Description
+
+This cookie is used for authentication on mobile web
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+mobile.x.com
+
+Name
+
+external\_referer
+
+Description
+
+This cookie is for analytics
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+lastOwnerId
+
+Description
+
+This cookie is for multiple account access to Twitter Media Studio
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+studio.x.com
+
+Name
+
+zipbox\_forms\_auth\_token
+
+Description
+
+This cookie is used for authentication
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+legalrequests.x.com
+
+Name
+
+shopify\_app\_session
+
+Description
+
+This cookie is used for account security and authentication, to ensure that a shopify merchant who is trying to access the twitter sales channel application is logged in to the relevant shopify admin account and to enable the shopify merchant to grant us access to install our application in their admin site.
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/en/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+shopify.twitterintegration.com
+
+Name
+
+LSOLH
+
+Description
+
+This cookie is for authentication with your Google account
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+google.com
+
+Name
+
+\_\_utmc
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies)
+
+Web Domain
+
+.x.com
+
+Name
+
+\_twitter\_sess
+
+Description
+
+This cookie is for user sessions
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+YSC
+
+Description
+
+This cookie is for YouTube integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/technologies/cookies](https://policies.google.com/technologies/cookies?hl=en)
+
+Web Domain
+
+youtube.com
+
+Name
+
+aboutads\_sess
+
+Description
+
+This cookie is for doubleclick integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+.doubleclick.net
+
+Name
+
+muc\_ads
+
+Description
+
+This cookie is for advertising
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.t.co
+
+Name
+
+guest\_id\_ads
+
+Description
+
+This cookie is for advertising when logged out
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+pm\_sess\_
+
+Description
+
+This cookie is for doubleclick integration and/or analytics
+
+Controller
+
+Google
+
+Learn More (Privacy Policy URL)
+
+[https://policies.google.com/privacy](https://policies.google.com/privacy?hl=en)
+
+Web Domain
+
+doubleclick.net
+
+Name
+
+user\_id
+
+Description
+
+This cookie is for tracking listener count for logged-out listeners of Twitter Spaces.
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+proxsee.pscp.tv
+
+Name
+
+co
+
+Description
+
+This cookie is for testing functionality
+
+Controller
+
+Twitter Inc.
+
+Learn More (Privacy Policy URL)
+
+[https://twitter.com/privacy](https://twitter.com/en/privacy)
+
+Web Domain
+
+.x.com
+
+Name
+
+idp\_user\_ssf
+
+Description
+
+This cookie is for authentication.
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://twitter.com/privacy
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+\_\_cf\_bm
+
+Description
+
+This cookie is for Cloudflare to monitor traffic
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.cloudflare.com/privacypolicy
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+\_shopify\_y
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+cart\_currency
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+\_shopify\_s
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+localization
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+secure\_customer\_sig
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+\_dd\_s
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.datadoghq.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+shopify\_pay\_redirect
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+\_shopify\_sa\_t
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+\_landing\_page
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+\_orig\_referrer
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+\_tracking\_consent
+
+Description
+
+This cookie is for user preferences in Shopify
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+\_shopify\_sa\_p
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+keep\_alive
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+\_gcl\_au
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://policies.google.com/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+\_\_cf\_bm
+
+Description
+
+This cookie is for Cloudflare to monitor traffic
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.cloudflare.com/privacypolicy
+
+Web Domain
+
+Any Twitter Domain
+
+Name
+
+\_shopify\_y
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+cart\_currency
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+\_shopify\_s
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+localization
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+secure\_customer\_sig
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+\_dd\_s
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.datadoghq.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+shopify\_pay\_redirect
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+\_shopify\_sa\_t
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+\_landing\_page
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+\_orig\_referrer
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+\_tracking\_consent
+
+Description
+
+This cookie is for user preferences in Shopify
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+\_shopify\_sa\_p
+
+Description
+
+This cookie is for Shopify reporting and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+keep\_alive
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
+
+Name
+
+\_gcl\_au
+
+Description
+
+This cookie is for Google Analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://policies.google.com/privacy
+
+Web Domain
+
+.x.com
+
+Name
+
+cf\_chl\_rc\_m
+
+Description
+
+This cookie is for Cloudflare to identify production issues on clients
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.cloudflare.com/privacypolicy
+
+Web Domain
+
+help.x.com
