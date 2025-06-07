@@ -1,5 +1,5 @@
-Palantir's Privacy Statement
-============================
+Palantir's Privacy and Security Statement
+=========================================
 
 _Last updated February 2025_
 
