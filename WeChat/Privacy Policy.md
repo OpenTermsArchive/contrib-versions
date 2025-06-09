@@ -1,7 +1,7 @@
 WECHAT PRIVACY POLICY
 =====================
 
-**Last Updated:** 2024-12-16
+**Last Updated:** 2025-06-06
 
 **SUMMARY**
 
@@ -50,7 +50,7 @@ Depending on where you live, you may have special rights over your data and how 
 
 **JURISDICTION-SPECIFIC ADDENDA**
 
-If you are a user located (as determined by your currently registered mobile number) in Australia, Brazil, California, Canada, Chinese Taiwan, Hong Kong SAR, Indonesia, Japan, Macau SAR, Malaysia, Mexico, Philippines, Russia, Serbia, Singapore, South Korea, Sri Lanka, Thailand, Türkiye, United Arab Emirates, United Kingdom or Vietnam, there are additional jurisdictional-specific terms that apply to you. You can see these by visiting this [**page**](https://www.wechat.com/en/jurisdictions.html).
+If you are a user located (as determined by your currently registered mobile number) in Australia, Brazil, Canada, Chinese Taiwan, Hong Kong SAR, Indonesia, Japan, Macau SAR, Malaysia, Mexico, Philippines, Russia, Serbia, Singapore, South Korea, Sri Lanka, Thailand, Türkiye, United Arab Emirates, United Kingdom, United States or Vietnam, there are additional jurisdictional-specific terms that may apply to you. You can see these by visiting this [**page**](https://www.wechat.com/en/jurisdictions.html).
 
 **HOW WILL WE NOTIFY YOU OF CHANGES?**
 
@@ -249,7 +249,7 @@ Children under the age of 13 (or such applicable age of majority under relevant 
 
 **This Section 11 (Your Rights) only applies to users located in a Relevant Jurisdiction, unless otherwise specified.**
 
-**If you are a user located in Australia, Brazil, California, Canada, Chinese Taiwan, Hong Kong SAR, Indonesia, Japan, Macau SAR, Malaysia, Mexico, Philippines, Russia, Serbia, Singapore, South Korea, Sri Lanka, Thailand, Türkiye, United Arab Emirates, United Kingdom and Vietnam, the terms set out under the name of your jurisdiction in this [page](https://www.wechat.com/en/jurisdictions.html) apply to you in addition to the terms set out in our Privacy Policy.**
+**If you are a user located in Australia, Brazil, Canada, Chinese Taiwan, Hong Kong SAR, Indonesia, Japan, Macau SAR, Malaysia, Mexico, Philippines, Russia, Serbia, Singapore, South Korea, Sri Lanka, Thailand, Türkiye, United Arab Emirates, United Kingdom, United States and Vietnam, the terms set out under the name of your jurisdiction in this [page](https://www.wechat.com/en/jurisdictions.html) may apply to you in addition to the terms set out in our Privacy Policy.**
 
 You may have certain rights in relation to the personal information we hold about you. Some of these only apply in certain circumstances (as set out in more detail below). Please note that in order to protect your information, we will need to verify your identity before responding to any request to exercise your rights ("**DSR Request**"). To exercise any of your rights, please complete the request form [here](https://help.wechat.com/cgi-bin/newreadtemplate?t=help_center/index_vue#/rights-request).
 
