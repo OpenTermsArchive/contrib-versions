@@ -41,59 +41,103 @@ This Grammarly Customer Business Agreement ("**Agreement"**) is made between Gra
   
 1.8 Professional Services. From time to time, Customer may request that Grammarly provide professional services, including integration and/or customization services in connection with the Services (“**Professional Services**”). If the Parties agree to proceed with requested Professional Services, the Parties shall enter into a separate agreement that sets forth the specific terms and fees for such Professional Services.  
 
-2\. Data Privacy and Confidentiality
-------------------------------------
-
-2.1 Data Privacy. The terms of the Grammarly Data Privacy Addendum located at [https://www.grammarly.com/online-dpa](https://www.grammarly.com/online-dpa) are incorporated by reference into these Terms. Company is responsible for providing all legally required notices and obtaining all consents necessary to allow Grammarly to provide the Services to the Company’s end users.   
-  
-2.2 Confidentiality. The recipient of Confidential Information will use the disclosing party's Confidential Information only as permitted under these POC Terms and will use reasonable care to protect against its disclosure. The recipient may disclose Confidential Information only to its affiliates, employees, agents, or professional advisors who need to know it and who have agreed in writing to keep it confidential. The recipient may disclose Confidential Information to the extent required by an information disclosure request made under law, governmental regulation, court order, subpoena, or other valid legal authority, if the recipient (a) promptly notifies the other party before disclosing, and (b) complies with the disclosing party’s reasonable requests regarding its efforts to oppose the disclosure, in each case, if doing so is consistent with applicable law and does not obstruct a governmental investigation. "**Confidential Information**" means information that one party discloses to the other party under the POC Agreement that is marked as confidential or would normally be considered confidential information under the circumstances. Confidential Information does not include information that is: (a) independently developed by the recipient; (b) is rightfully given to the recipient by a third party without confidentiality obligations, or (c) becomes public through no fault of the recipient.  
-
-3\. Intellectual Property Rights
---------------------------------
-
-3.1 Reservation of Rights. As between the parties, Company owns all Intellectual Property Rights in Customer Data, and Grammarly owns all Intellectual Property Rights in the Services and the Documentation. Except as otherwise explicitly stated, the POC Agreement does not grant either party any rights, implied or otherwise, to the other's intellectual property.    
-  
-3.2 Right to Use Customer Data**.** Company grants Grammarly a worldwide, non-exclusive, limited right to use (including storing, processing, copying, transmitting, modifying, and displaying) Customer Data solely as necessary to provide, support, and protect the Services. “**Customer Data**” means (i) data submitted to the Services by Company’s end users and (ii) any outputs generated from the data submitted to the Services by Company or its end users.  
-  
-3.3 Prohibition on Training AI Models**.** Grammarly will not use Customer Data to train any generative artificial intelligence models without the Customer's prior consent.   
-  
-3.4 Feedback. If Company or its end users provide Grammarly with any suggestions, enhancement requests, recommendations, or other feedback regarding the Services (“**Feedback**”), Grammarly may use that Feedback without restriction or obligation to Company, and Customer hereby assigns all rights, title, and interest in such Feedback to Grammarly.  
-
-4\. Grammarly Indemnification
------------------------------
-
-4.1 Indemnification. Grammarly will defend and indemnify Company against damages and costs finally awarded in any third-party legal proceeding to the extent that they arise from an allegation that the Services infringe the third party's Intellectual Property Rights. This indemnification obligation will not apply to the extent the underlying allegation arises from (a) Company’s breach of these Terms; or (b) a modification or combination of the Services by Company with a third party’s materials not provided by Grammarly. If Grammarly believes the Services might infringe a third party's Intellectual Property Rights, then Grammarly may immediately terminate Company's use of the Services and the POC Agreement.  
-  
-4.2 Indemnity Procedure. Company must promptly notify Grammarly in writing of any allegation(s) of infringement of Intellectual Property Rights and must cooperate reasonably with Grammarly to resolve the allegation(s) and any relevant third-party legal proceeding. Any failure to promptly notify or to reasonably cooperate will mean that Grammarly’s indemnification obligation will be reduced in proportion to the prejudice caused by such failures. To the extent permitted by applicable law, Company must give sole control of the third-party legal proceeding to Grammarly.   
-
-5\. Term and Termination
-------------------------
-
-Grammarly will provide the Services to Company until the earlier of (a) the end of the proof of concept or trial subscription term set out in the POC Order; (b) the start date of any paid annual or multi-year subscription to such Service; or (c) termination of the POC Agreement (the “**Trial Period**”). Either party may terminate the POC Agreement, including any POC Orders hereunder, at its convenience upon 5 days’ prior written notice to the other party. Grammarly may also immediately suspend Company’s access to the Services if it knows or suspects Company has breached the terms of the POC Agreement. Upon termination or expiry of the POC Agreement, Company will no longer have access to the Services, and Grammarly may elect in its discretion to terminate the End User accounts or downgrade the End User accounts to individual subscriber accounts. All sections of these Terms that should survive termination will do so, including the confidentiality obligations, limitation of liability, and disclaimers.  
-
-6\. Disclaimer
---------------
-
-TO THE FULLEST EXTENT PERMITTED BY LAW, GRAMMARLY (A) DOES NOT MAKE ANY WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE, TITLE, NONINFRINGEMENT, OR THAT USE OF THE SERVICES AND BETA SERVICES, INCLUDING ANY OUTPUT GENERATED FROM THE SERVICES OR BETA SERVICES, WILL BE ACCURATE, ERROR-FREE, OR UNINTERRUPTED; (B) MAKES NO REPRESENTATION OR WARRANTY ABOUT THE CONTENT, OUTPUT, OR INFORMATION ACCESSIBLE THROUGH THE SERVICES OR BETA SERVICES, INCLUDING THAT OUTPUT WILL BE UNIQUE TO COMPANY; AND (C) DO NOT WARRANT THAT THE OPERATION OF THE SERVICES OR BETA SERVICES WILL MEET COMPANY’S REQUIREMENTS. NOTWITHSTANDING ANYTHING ELSE IN THESE TERMS, TO THE FULLEST EXTENT PERMITTED BY LAW, GRAMMARLY WILL HAVE NO LIABILITY ARISING OUT OF OR IN CONNECTION WITH BETA SERVICES.  
-
-7\. Limitation of Liability
----------------------------
-
-TO THE EXTENT PERMITTED BY APPLICABLE LAW AND SUBJECT TO SECTION 6 (DISCLAIMERS), (A) EACH PARTY'S TOTAL AGGREGATE LIABILITY ARISING OUT OF OR RELATING TO THE POC AGREEMENT WILL NOT EXCEED ONE-HUNDRED THOUSAND DOLLARS ($100,000.00), AND (B) NEITHER PARTY WILL HAVE ANY LIABILITY ARISING OUT OF OR RELATING TO THE POC AGREEMENT FOR ANY (I) INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR PUNITIVE DAMAGES OR (II) LOST REVENUES, COST OF REPLACEMENT SERVICES, PROFITS, SAVINGS, OR GOODWILL. **NOTWITHSTANDING THE FOREGOING,** **TO THE EXTENT PERMITTED BY APPLICABLE LAW, NOTHING IN THESE TERMS EXCLUDES OR LIMITS EITHER PARTY'S LIABILITY FOR (A) ITS FRAUD OR FRAUDULENT MISREPRESENTATION, (B) ITS INFRINGEMENT OF THE OTHER PARTY'S INTELLECTUAL PROPERTY RIGHTS, OR (C) MATTERS FOR WHICH LIABILITY CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.**   
-
-8\. Miscellaneous
+2\. Payment Terms
 -----------------
 
-Each party represents and warrants that it has full legal authority and power to enter into the POC Agreement. The POC Agreement constitutes the entire agreement between Company and Grammarly. Neither party may assign the POC Agreement or any rights or obligations established under these Terms without the other party’s written consent. POC Agreement shall be governed by the laws of the State of California, excluding California’s conflict of laws rules. Notwithstanding the immediately foregoing, if the law establishing or governing Company (“**Customer’s Law**”) requires Company to enter into contracts governed by Customer’s Law, then the POC Agreement shall be governed by Customer’s Law. The United Nations Convention on Contracts for the International Sale of Goods will not govern these Terms. The POC Agreement does not confer any benefits on any third party. The POC Agreement does not create any agency, partnership, or joint venture between the parties. Grammarly will provide any applicable notices related to the POC Agreement to Company by sending an email to the address that Grammarly has on file for Company. Company will provide applicable notices to Grammarly by sending an email to contract\_notices@grammarly.com. Company (a) will comply with all applicable export and import laws and (b) represents and warrants that it is not listed on any U.S. government list of prohibited or restricted parties or located in (or a national of) a country subject to a U.S. government embargo or designated by the U.S. government as a “terrorist supporting” country. Company will not submit to the Services any data controlled under the U.S. International Traffic in Arms Regulations. To the extent applicable, the Services are “commercial computer software” or a “commercial item” for purposes of FAR 12.212 for and DFARS 227.7202.   
-
-9\. Definitions
----------------
-
-"**Intellectual Property Rights**" means current and future worldwide rights under patent, copyright, trade secret, trademark, and moral rights laws, and other similar rights.  
+2.1 Fees. Customer will pay the fees for the Services (“**Fees**”) described in the Order. Payment will be made in US dollars (unless another currency is specified in the Order). All payment obligations are non-cancellable, and Fees are non-refundable except as required by law or as expressly set out in this Agreement. Grammarly will send all invoices to the billing email address provided by Customer in the Order. Unless otherwise agreed to in writing by Grammarly, Grammarly will have no obligation to submit invoices to any vendor management portal or other similar system to obtain payment of the Fees.  
   
-“**Liability**” means any liability, whether under contract, tort (including negligence), or otherwise, regardless of whether foreseeable or contemplated by the parties.  
+2.2 Payment Timing; Billing Errors. The payment timing is described in Customer's Order. If payment timing is not specified in Customer’s Order, Customer must pay all undisputed Fees within 30 days of Customer’s receipt of Grammarly’s invoice.  Late payments may be subject to a service charge of the lesser of 1.5% per month or the maximum amount allowed by law. If Customer believes the invoice contains an error (“**Billing Error**”), Customer must send a written notice to Grammarly describing the error in reasonable detail within 30 days of Customer’s receipt of the disputed invoice. The Parties will use good faith efforts to resolve the Billing Error. If the Parties are unable to resolve the Billing Error within 60 days of Customer’s receipt of the disputed invoice, then the Parties will be free to exercise any legal or contractual remedies available to them.  
   
-“**Services**” means the services described in the Order, including any software provided by Grammarly to access the services and updates and modifications that Grammarly makes to them from time to time.  
+2.3 Taxes. Unless otherwise expressly specified in an Order and as required by applicable law, Fees are exclusive of any Taxes. Other than taxes on Grammarly’s net income, Customer is responsible for paying any Taxes assessed in connection with Customer’s subscription to the Service. Grammarly will invoice Customer for such Taxes if Grammarly believes it has a legal obligation to do so, and Customer agrees to pay such Taxes if so invoiced. If Customer claims exemption from any Taxes under this Agreement, Customer must provide Grammarly with a valid tax exemption certificate or tax ID at the time of Order, and after receipt of valid evidence of exemption, Grammarly will not include the Taxes on the relevant invoice to Customer.   
+  
+2.4 Notice of Fee Changes. If Grammarly intends to change the Fees following the end of Customer’s current Subscription Term, Grammarly will give Customer at least 30 days’ notice of that change prior to the renewal of Customer's then-current subscription. Notwithstanding the foregoing, Customer acknowledges that Grammarly may not provide notice for any changes in Fees that occur due to a change in the fees charged by a Third-Party Service provider for a Third Party Service.  
+  
+2.5 Free Trials or Programs. If Customer registers for a free trial or program for any Service, Grammarly will provide such Service to Customer on a trial basis free of charge until the earlier of (a) the end of the free trial or program period; (b) the start date of any paid subscription to such Service; or (c) termination of the free trial or program by either Party, in its sole discretion.  
+
+3\. Protection of Customer Data
+-------------------------------
+
+3.1 Security. Grammarly has implemented appropriate technical and organizational measures to enable a level of security that is appropriate to reduce the risk of unauthorized or unlawful processing, accidental loss of, and/or damage to Customer Data. Grammarly will maintain a compliance program that includes independent third-party audits and certifications, including SOC II.    
+  
+3.2 Data Privacy and Data Privacy Addendum. To the extent that Customer Data includes any Personal Data, the Parties agree to comply with the terms of the Grammarly Data Privacy Addendum located at [https://www.grammarly.com/online-dpa](https://www.grammarly.com/online-dpa), which are incorporated by reference into this Agreement (the “**DPA**”). To the extent that Account Information includes any Personal Data for which Grammarly is a data controller, Grammarly will collect and process that Personal Data in accordance with Grammarly’s privacy policy.   
+  
+3.3 Data Removal and Retention. During the Subscription Term, Customer will have the ability within its account settings to export and/or delete its Customer Data. Upon termination or expiry of the Agreement, Grammarly will, at the choice and written request of Customer, return to Customer and/or securely destroy all Customer Data in its possession or control in accordance with the Agreement, except to the extent Grammarly is required by applicable law to retain some or all of the Customer Data, or to Customer Data it has archived on back up systems, in which case, that Customer Data shall securely isolate and protect from any further processing and shall be deleted by Grammarly in accordance with its deletion practices.   
+  
+3.4 HIPAA Data. Customer agrees not to submit any HIPAA Data to the Services unless it has entered into a BAA with Grammarly for the applicable Service(s). Unless a BAA is in place, Grammarly will have no liability under this Agreement for HIPAA Data, notwithstanding anything to the contrary in this Agreement, HIPAA, or any similar federal or state laws, rules, or regulations. Upon mutual execution of a BAA, the BAA will be incorporated by reference into this Agreement.  
+
+4\. Confidentiality
+-------------------
+
+4.1 Definition. "**Confidential Information**" means information that a Party (or its Affiliate) discloses to the other Party under this Agreement and which is marked as confidential or would normally be considered confidential information by a reasonable party under the circumstances. Confidential Information does not include information that is independently developed by the recipient, is rightfully given to the recipient by a third party without confidentiality obligations, or becomes public through no fault of the recipient.   
+  
+4.2 Restrictions on Use and Disclosure of Confidential Information. The recipient of Confidential Information will only use the disclosing party's Confidential Information to exercise its rights and fulfill its obligations under this Agreement and will use reasonable care to protect against the disclosure of the disclosing party's Confidential Information. The recipient may disclose Confidential Information only to its Affiliates, employees, agents, or professional advisors who need to know it and who have agreed in writing (or in the case of professional advisors are otherwise bound) to keep it confidential. The recipient will ensure that those people and entities use the received Confidential Information only to exercise rights and fulfill obligations under this Agreement.  
+  
+4.3 Required Disclosure. The recipient may disclose Confidential Information to the extent required by applicable Legal Process if the recipient uses commercially reasonable efforts to (a) promptly notify the other Party of such disclosure before disclosing; and (b) comply with the other Party's reasonable requests regarding its efforts to oppose the disclosure, in each case, if doing so is consistent with the Legal Process and does not obstruct a governmental investigation.  
+
+5\. Intellectual Property Rights
+--------------------------------
+
+5.1 Reservation of Intellectual Property Rights. As between the Parties, (a) Customer owns all Intellectual Property Rights in Customer Data; and (b) Grammarly owns all Intellectual Property Rights in the Services, Coda Packs, Beta Services, Documentation, and System Data. Except as expressly stated, this Agreement does not grant either Party any rights, implied or otherwise, to the other's content or any of the other's intellectual property.   
+  
+5.2 Right to Use Customer Data. Customer grants Grammarly a worldwide, non-exclusive, limited right to use (including storing, processing, copying, transmitting, modifying, and displaying) Customer Data solely as necessary to provide, support, and protect the Services in accordance with this Agreement.   
+  
+5.3 Publishing. From time to time, Customer may, in its sole discretion, elect to make certain Customer Data publicly available within Grammarly’s marketplace ecosystem, including on the Coda Gallery in the form of published documents, templates, websites, forms, and surveys (collectively, “**Published Content**”). The Services do not require Customer to publish any Customer Data. However, if Customer elects to make any Published Content publicly available, Customer hereby grants Grammarly a perpetual, irrevocable, fully transferable, and sublicensable (through multiple tiers), worldwide, non-exclusive, royalty-free license: (a) to reproduce, electronically distribute, transmit, have transmitted, perform, display, store, and archive any Published Content; and (b) to make, have made, copy, modify, make derivative works of, use, sell, import, and otherwise distribute any such Published Content under all applicable laws.  
+  
+5.4 Prohibition on Training AI Models.  Grammarly will not use and will not permit its third-party providers to use Customer Data to train any generative artificial intelligence models without Customer's prior consent.   
+  
+5.5 Feedback. If Customer or its End Users provide Grammarly with any suggestions, enhancement requests, recommendations, or other feedback regarding the Services, Grammarly may use that feedback without restriction or obligation to Customer, and Customer hereby assigns all rights, title, and interest in such feedback to Grammarly.   
+  
+5.6 Customer Reference. Grammarly may use Customer's name, logo, and marks to identify Customer as Grammarly's customer on Grammarly's website and in other marketing materials and activities, subject to any brand guidelines provided by Customer to Grammarly in writing. Upon Customer’s written request, Grammarly will promptly remove Customer’s name, logo, and any such marks from Grammarly's website and, to the extent commercially feasible, Grammarly's marketing materials.  
+
+6\. Customer Obligations
+------------------------
+
+6.1 Terminate Unauthorized Use. Customer will use commercially reasonable efforts to prevent and terminate any unauthorized use of or access to the Services. Customer will promptly notify Grammarly of any unauthorized use of or access to the Services of which Customer becomes aware.   
+  
+6.2 Acceptable Use Policy. Customer agrees to comply with the Grammarly Acceptable Use Policy set forth at [https://www.grammarly.com/acceptable-use-policy](https://www.grammarly.com/acceptable-use-policy) ("**AUP**").  
+  
+6.3 Compliance with Laws; Export Compliance. Customer (a) will comply with all export and import laws in performing this Agreement; and (b) represents and warrants that it is not listed on any US government list of prohibited or restricted parties or located in (or a national of) a country subject to a US government embargo or designated by the US government as a “terrorist supporting” country. Customer will not submit to the Services any data controlled under the US International Traffic in Arms Regulations.  
+
+7\. Term, Termination, and Suspension
+-------------------------------------
+
+7.1 Subscription Term; Agreement Term. The “**Subscription Term**” of Customer’s subscription will begin and end on the dates specified on the applicable Order, unless earlier terminated in accordance with this Agreement. This Agreement starts on the Effective Date and terminates one calendar year after the end of all Subscription Terms unless terminated earlier in accordance with this Agreement.   
+  
+7.2 Automatic Renewal. Unless otherwise stated in the applicable Order, (a) Customer’s subscription to the Service will renew for a Subscription Term equivalent in length to the then-expiring Subscription Term; and (b) the Fees applicable to any subsequent Subscription Term will be Grammarly’s then-current rates for the Services at the time of such renewal.   
+  
+7.3 Subscription Cancellation. Either Party may elect to terminate a subscription to a Service at the end of the then-current Subscription Term by providing written notice to the other Party no less than thirty (30) days prior to the end of such Subscription Term.  
+  
+7.4 Termination. Either party may terminate this Agreement, including any Orders hereunder, if (a) the other party materially breaches this Agreement and fails to cure that breach within 30 days after receipt of a written notice of the breach; or (b) the other party ceases its business operations or becomes subject to insolvency proceedings. Grammarly may immediately terminate this Agreement and Customer’s access to the Services if required by law or if Customer materially violates the AUP.  
+  
+7.5 Suspension. Upon written notice to Customer, Grammarly may temporarily suspend Customer's or any End User’s access to the Services (or any part thereof) if:  
+(a) Customer's use of the Services poses a significant risk to Grammarly’s customers, infrastructure, or security;   
+(b) Customer’s payment of Fees to Grammarly (or, if applicable, to Reseller) is late; or   
+(c) Customer is otherwise in material breach of this Agreement or the AUP.   
+  
+7.6 Effect of Termination. When this Agreement terminates, Customer's right to access and use the Services will cease. Unless Customer has requested Grammarly return and/or securely destroy all Customer Data in Grammarly’s possession or control, Grammarly may elect in its discretion to (a) delete Customer’s End Users’ accounts, or (b) downgrade Customer’s End User accounts to a lower tier. Customer acknowledges that upon downgrading to a lower tier, its End Users may lose access to certain Service features and functionality.  
+
+8\. Warranties & Disclaimer
+---------------------------
+
+8.1 Mutual Warranties. Each Party represents and warrants to the other Party that: (a) it has the authority to enter into this Agreement; and (b) it shall comply with all applicable laws and regulations in connection with its performance of this Agreement, including in the provision of the Services (in the case of Grammarly) and in the access and use of the Services (in the case of Customer), and including all laws and regulations related to data privacy and international communications.   
+  
+8.2 Customer Warranties. Customer represents and warrants that: (a) it has created and/or obtained the rights to and is using the Customer Data lawfully; (b) the Customer Data does not violate any third party’s rights, including Intellectual Property Rights or privacy rights; and (c) Customer Data is free of all viruses, Trojan horses, and other elements that could interrupt or harm the Services.  
+  
+8.3 Disclaimer about the Services. EXCEPT AS EXPRESSLY STATED IN THIS AGREEMENT, TO THE FULLEST EXTENT PERMITTED BY LAW, GRAMMARLY, GRAMMARLY'S AFFILIATES, AND GRAMMARLY'S SUPPLIERS: (A) DO NOT MAKE ANY WARRANTIES OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY, OR OTHERWISE, INCLUDING WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR USE, TITLE, NONINFRINGEMENT, OR THAT USE OF THE SERVICES, INCLUDING ANY OUTPUT GENERATED FROM THE SERVICES, WILL BE ACCURATE, ERROR-FREE, OR UNINTERRUPTED; (B) MAKE NO REPRESENTATION OR WARRANTY ABOUT THE CONTENT, OUTPUT, OR INFORMATION ACCESSIBLE THROUGH THE SERVICES OR DOCUMENTATION, INCLUDING THAT OUTPUT WILL BE UNIQUE TO CUSTOMER; AND (C) DO NOT WARRANT THAT THE OPERATION OF THE SERVICES WILL MEET CUSTOMER’S REQUIREMENTS**.**   
+
+9\. Limitation of Liability
+---------------------------
+
+9.1 Limitation on Liability Amount. TO THE EXTENT PERMITTED BY APPLICABLE LAW AND SUBJECT TO **SECTION 9.3 (UNLIMITED LIABILITIES)**, EACH PARTY'S TOTAL AGGREGATE LIABILITY ARISING OUT OF OR RELATING TO THIS AGREEMENT IS LIMITED TO THE FEES PAID OR PAYABLE BY CUSTOMER TO GRAMMARLY (OR TO RESELLER IF CUSTOMER PURCHASED THE SERVICES FROM A RESELLER) IN CONNECTION WITH THIS AGREEMENT DURING THE TWELVE-MONTH PERIOD BEFORE THE EVENT GIVING RISE TO LIABILITY (UNLESS THAT AMOUNT IS ZERO DUE TO CUSTOMER PARTICIPATING IN A FREE TRIAL OR PROGRAM, IN WHICH CASE GRAMMARLY’S TOTAL LIABILITY WILL NOT EXCEED ONE HUNDRED DOLLARS).  EXCEPT WHERE PROHIBITED BY LAW, NO CLAIM REGARDLESS OF FORM, WHICH IN ANY WAY ARISES OUT OF THE AGREEMENT MAY BE MADE, NOR ACTION BASED UPON SUCH CLAIM BE BROUGHT BY CUSTOMER MORE THAN ONE (1) YEAR AFTER THE TERMINATION OR EXPIRATION OF THE AGREEMENT.  
+  
+9.2 Limitation on Indirect Liabilities. TO THE EXTENT PERMITTED BY APPLICABLE LAW AND SUBJECT TO **SECTION 9.3 (UNLIMITED LIABILITIES)**, NEITHER PARTY WILL HAVE ANY LIABILITY ARISING OUT OF OR RELATING TO THIS AGREEMENT FOR ANY (A) INDIRECT, CONSEQUENTIAL, SPECIAL, INCIDENTAL, OR PUNITIVE DAMAGES; OR (B) LOST REVENUES, COST OF REPLACEMENT SERVICES, PROFITS, SAVINGS, OR GOODWILL.  
+  
+9.3 Unlimited Liabilities. NOTHING IN THIS AGREEMENT EXCLUDES OR LIMITS EITHER PARTY'S LIABILITY FOR:  
+(A) ITS FRAUD OR FRAUDULENT MISREPRESENTATION;  
+(B) ITS INDEMNIFICATION OBLIGATIONS UNDER **SECTION 10 (INDEMNIFICATION**_)_;  
+(C) ITS INFRINGEMENT OF THE OTHER PARTY'S INTELLECTUAL PROPERTY RIGHTS;  
+(D) ITS PAYMENT OBLIGATIONS UNDER THIS AGREEMENT; OR  
+(E) MATTERS FOR WHICH LIABILITY CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW.  
 
 10\. Indemnification
 --------------------
