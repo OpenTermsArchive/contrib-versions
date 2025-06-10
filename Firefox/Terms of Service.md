@@ -23,7 +23,7 @@ Mozilla does not grant you any intellectual property rights in Firefox that are 
 You Give Mozilla Certain Rights and Permissions
 -----------------------------------------------
 
-You give Mozilla the rights necessary to operate Firefox. This includes processing your data as we describe in the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/#notice). It also includes a non-exclusive, royalty-free, worldwide license for the purpose of doing as you request with the content you input in Firefox. This does not give Mozilla any ownership in that content.
+You give Mozilla the rights necessary to operate Firefox. This includes processing your data as we describe in the [Firefox Privacy Notice](https://www.mozilla.org/privacy/firefox/#notice).
 
 ### Your Feedback and Suggestions
 
