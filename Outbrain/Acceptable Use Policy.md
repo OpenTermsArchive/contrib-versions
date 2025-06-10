@@ -6,11 +6,11 @@ Trust & Authenticity
 Great Recommendations Inspire Action
 ------------------------------------
 
-Here at Outbrain, one of our key differentiators is that our platform is filled with high-quality, reliable content from premium publishers and marketers alike. Our overlying goal is to create a great discovery experience for consumers online.
+Outbrain is operating under the Teads brand following the merger of Outbrain and Teads. The following Advertiser Guidelines describe the standards applicable to any advertiser or agency partners who have contracted Outbrain Inc. (recently renamed Teads Holding Co.) and Outbrain UK Limited (the “Outbrain Group”). In order to utilise technology powered by the Outbrain Group, media owners agree to abide by the Advertiser Guidelines set out below. Any violation of these guidelines is subject to enforcement including removal or suspension from our network or termination of any contractual agreement with the Outbrain Group. We reserve the right to update these Advertiser Guidelines from time to time.
 
-To do this, we've developed advertising guidelines to help you understand what can (and cannot) be promoted on our platform. Keep in mind, Outbrain reserves the right to reject or block any content for any reason at our sole discretion, even after post-launch, if we feel that it compromises the safety or quality of the user experience. Also, both publishers and marketers can choose to block pages or sources that they don't feel resonate with their brands.
+To do this, we've developed advertising guidelines to help you understand what can (and cannot) be promoted on our platform. Keep in mind, we reserve the right to reject or block any content for any reason at our sole discretion, even after post-launch, if we feel that it compromises the safety or quality of the user experience. Also, both publishers and marketers can choose to block pages or sources that they don't feel resonate with their brands.
 
-If you encounter any content that violates Outbrain's guidelines, or have any questions, don't hesitate to reach out to our friendly Support team.
+If you encounter any content that violates our guidelines, or have any questions, don't hesitate to reach out to our friendly Support team.
 
 We hope to see your content on our platform soon.
 
@@ -25,7 +25,7 @@ Acceptable Page Types
 * Product/Landing Pages
 * App Download Pages
 * Infographics
-* Advertorials (with proper disclosure that follow Outbrain's Advertorial policies)
+* Advertorials (with proper disclosure that follow our Advertorial policies)
 
 PDF pages are not acceptable landing pages formats.
 
@@ -97,7 +97,7 @@ Prohibited Categories
 
 #### Unsafe Products or Supplements
 
-* No anabolic steroids, ephedra, or HGH (others may be added according to Outbrain's discretion)
+* No anabolic steroids, ephedra, or HGH (others may be added according to our discretion)
 * No herbal supplements that mimic the effects of illegal substances (e.g. magic mushrooms)
 * No nootropics, 'brain pills', or 'smart drugs' meant to improve cognitive function
 
@@ -120,7 +120,7 @@ Marketers are solely responsible for complying with applicable federal, state an
 
 #### Tobacco products
 
-* Content can promote the sale of tobacco-related products only in countries that allow the sale and advertisement of tobacco. Such offers can be promoted by managed accounts only, and upon verification by the Outbrain team.
+* Content can promote the sale of tobacco-related products only in countries that allow the sale and advertisement of tobacco. Such offers can be promoted by managed accounts only, and upon verification by our team.
 * Marketers are solely responsible for complying with applicable federal, state and local laws and regulatory guidelines (including age-gating where necessary).
 
 #### Dating & Personals
@@ -139,7 +139,7 @@ Marketers are solely responsible for complying with applicable federal, state an
 #### Financial Services (Restricted)
 
 * Content must comply with financial governing bodies
-* CFDs and Forex can be promoted by managed accounts only, and upon verification by the Outbrain team.
+* CFDs and Forex can be promoted by managed accounts only, and upon verification by the our team.
 
 #### Cryptocurrency
 
@@ -149,7 +149,7 @@ Marketers are solely responsible for complying with applicable federal, state an
 * ICOs
 * Investment and trading advice
 
-* However, selected countries may decide to run cryptocurrency offers that they deem are valid in their country only. Such offers can be promoted by managed accounts only, and upon verification by the Outbrain team.
+* However, selected countries may decide to run cryptocurrency offers that they deem are valid in their country only. Such offers can be promoted by managed accounts only, and upon verification by our team.
 
 #### Gambling
 
@@ -174,7 +174,7 @@ Marketers are solely responsible for complying with applicable federal, state an
     * The landing page must include a link to contact information for the organization.
     * All political ads that are in full or in part AI generated must be clearly labelled, including in accordance with local legislation and legal requirements, where applicable.
 * **Focus on Facts** - Content should contain only stories/positions that are based on facts.
-* **Prevent Outbrain Affiliation:** - Political advertising cannot give the appearance that Outbrain promotes any particular candidate, party, or political agenda.
+* **Prevent our Affiliation:** - Political advertising cannot give the appearance that we promote any particular candidate, party, or political agenda.
 
 * **Prohibited Political Ads**:
 
@@ -258,7 +258,7 @@ Landing Page Guidelines
 
 #### Competitor Widgets
 
-* Additional sites may also be required to display the Outbrain widget for all Outbrain referring traffic
+* Additional sites may also be required to display our widget for all our referring traffic
 
 #### Timeliness
 
@@ -360,7 +360,7 @@ Additional Guidelines for Publishers
 
 #### Landing Page User Experience
 
-* Publishers who use Outbrain to drive traffic to their sites may be required to host user experiences that comply with the stated Outbrain content guidelines.
+* Publishers who use us to drive traffic to their sites may be required to host user experiences that comply with the stated content guidelines.
 
 #### Prohibited Categories:
 
@@ -423,25 +423,30 @@ Additional Guidelines for Publishers
 * News stories in slideshow format should not use headlines to insinuate recent or breaking news if it's not current
 * If the title mentions a specific celebrity, that celebrity must match the celebrity in the ad image.
 
-Outbrain's Strike Policy
-------------------------
+Our Strike Policy
+-----------------
 
-When running campaigns on the Outbrain network, please make sure to adhere to the above guidelines.
+When running campaigns on our network, please make sure to adhere to the above guidelines.
 
-If you **do not follow the advertiser guidelines** Outbrain will assign **red flag warnings** (communicated to you via email). Repeat or severe violations may result in your account, content and/or campaigns being **suspended or banned** from the Outbrain network at any time and at Outbrain's sole discretion.
+If you **do not follow the advertiser guidelines** we will assign **red flag warnings** (communicated to you via email). Repeat or severe violations may result in your account, content and/or campaigns being **suspended or banned** from our network at any time and at our sole discretion.
 
-If you encounter any content that violates Outbrain's guidelines, or have any questions, don't hesitate to reach out to our friendly Support team. **We hope to see your content on our platform soon**.
+If you encounter any content that violates our guidelines, or have any questions, don't hesitate to reach out to our friendly Support team. **We hope to see your content on our platform soon**.
 
-For Advertisers
----------------
+![Outbrain Direct logo](/images/logo-ob-direct.png)
 
-* [Advertise with Outbrain](https://www.outbrain.com/advertisers/)
-* [Native Advertising](https://www.outbrain.com/native-advertising/)
-* [Contextual Advertising](https://www.outbrain.com/contextual-advertising/)
+Outbrain Direct Response (ODR) by Teads uses years of performance expertise to boost ROI across the open internet, combining unique reach, contextual insights, and predictive AI technology.
+
+Outbrain for Direct Response is subsidiary of the new Teads. Visit [Teads website](https://www.teads.com/) to discover how it delivers elevated outcomes, from branding to performance.
+
+* [](https://www.linkedin.com/showcase/outbrain-direct-response "Linkedin")
+* [](https://www.facebook.com/OutbrainDirectResponse "Facebook")
+
+Advertisers
+-----------
+
+* [Advertisers](https://www.outbrain.com/advertisers/)
 * [Ads Specs](https://www.outbrain.com/help/ads-specs/)
-* [Demo Outbrain](https://www.outbrain.com/try-outbrain-demo/)
-* [How to Buy Outbrain](https://www.outbrain.com/advertisers/buying-options/)
-* [Outbrain Academy](https://lp.outbrain.com/outbrain-academy//advertisers/guidelines/)
+* [Buy Your Way](https://www.outbrain.com/advertisers/buying-options/)
 * [Advertiser Guidelines](https://www.outbrain.com/advertisers/guidelines/)
 * [Advertising FAQ](https://www.outbrain.com/help/advertisers/)
 * [Support](https://www.outbrain.com/contact?who=support)
@@ -453,58 +458,33 @@ Insights
 * [Vertical Insights](https://www.outbrain.com/brainpower/)
 * [Vertical Hub](https://www.outbrain.com/resources/vertical-hub/)
 
-Affiliates
-----------
+Performance
+-----------
 
 * [Affiliate Marketing](https://www.outbrain.com/blog/affiliate-marketing/)
 * [Affiliate Hub](https://www.outbrain.com/affiliate-marketing-strategy/)
 * [High-Conversion Content](https://www.outbrain.com/resources/guides/how-to-create-high-conversion-content-for-your-outbrain-campaigns/)
 * [Repurpose Social Campaigns](https://www.outbrain.com/resources/guides/how-to-repurpose-your-social-campaigns-for-native-ads/)
 
-About Outbrain
---------------
+About Us
+--------
 
-* [Company Overview](https://www.outbrain.com/about/company/)
-* [Cultural Manifesto](https://www.outbrain.com/about/cultural-manifesto/)
-* [Leadership](https://www.outbrain.com/about/team/)
-* [Join Us](https://www.outbrain.com/careers/)
+* [About Us](https://www.teads.com/about-teads/)
+* [Leadership](https://www.teads.com/company-team/)
+* [Join Us](https://www.teads.com/teads-careers/)
 * [Trust & Transparency](https://www.outbrain.com/trust-and-transparency/)
-* [For Publishers](https://www.outbrain.com/publishers/)
 * [News](https://www.outbrain.com/news)
-* [Thought Leadership](https://www.outbrain.com/blog/category/insights-opinion/)
 * [Contact Us](https://www.outbrain.com/contact)
 
 Resources
 ---------
 
-* [Outbrain Blog](https://www.outbrain.com/blog/)
+* [Blog](https://www.outbrain.com/blog/)
 * [Resources Hub](https://www.outbrain.com/resources/)
-* [Events](https://www.outbrain.com/resources/events)
-* [Webinars](https://www.outbrain.com/resources/webinars)
 * [Case Studies](https://www.outbrain.com/case-studies/)
-* [Performance Marketing](https://www.outbrain.com/blog/performance-marketing/)
-* [Advertising Academy](https://lp.outbrain.com/outbrain-academy/)
-* [Publisher's Directory](https://www.outbrain.com/publishers-directory/)
 * [Help Center](https://www.outbrain.com/help/)
 
-[Register](https://my.outbrain.com/amplify/funnel/)[Login](https://my.outbrain.com/login)
-
-English (US)GermanFrenchSpanishPortugueseJapaneseItalianChinese
-
-* [](https://facebook.com/outbrain "Facebook")
-* [](https://twitter.com/outbrain "X")
-* [](https://www.linkedin.com/company/outbrain "Linkedin")
-* [](https://www.youtube.com/c/outbrain "Youtube")
-
-Ready to start?
-
-Try Outbrain for Advertisers today
-
-Your work email
-
-Copyright © 2025 Outbrain Inc. All rights reserved. Outbrain is a trademark of Outbrain Inc.
-
-* [Interest-Based Ads (Opt Out)](https://my.outbrain.com/recommendations-settings/home)
+* [Interest-Based Ads (Opt Out)](https://dsr.outbrain.com/recommendations-settings/home)
 * [Advertiser Guidelines](https://www.outbrain.com/advertisers/guidelines/)
 * [Privacy Policy](https://www.outbrain.com/privacy)
 * [Cookies](https://www.outbrain.com/privacy/cookies)
@@ -512,6 +492,4 @@ Copyright © 2025 Outbrain Inc. All rights reserved. Outbrain is a trademark of 
 * [Patents](https://www.outbrain.com/patents/)
 * [Terms of Use](https://www.outbrain.com/legal#terms-of-use)
 
-**Outbrain and Teads** Close Agreement to Merge
-
-[Learn More](https://thenewteads.com/?utm_campaign=2025%20Tech%20Themes&utm_source=OB%20Website%20Banner)
+Copyright © 2025 Outbrain Inc. All rights reserved. Outbrain is a trademark of Outbrain Inc.
