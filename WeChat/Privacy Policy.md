@@ -1,7 +1,7 @@
 WECHAT PRIVACY POLICY
 =====================
 
-**Last Updated:** 2025-06-06
+**Last Updated:** 2025-06-11
 
 **SUMMARY**
 
@@ -26,27 +26,27 @@ You can check whether you are a WeChat or Weixin user by clicking "Me" > "Settin
 
 **WHAT INFORMATION DO YOU NEED TO PROVIDE WECHAT?**
 
-When you register for a WeChat account, we will need your mobile number and an alias. You can further refine and populate your profile with additional information. If you use certain functions available within WeChat (such as posting photos to your Moments), we will process your information to provide these functions. [**More Information**](#pp_how)
+When you register for a WeChat account, we will need your mobile number and an alias. You can further refine and populate your profile with additional information. If you use certain functions available within WeChat (such as posting photos to your Moments), we will process your information to provide these functions. [**More Information**](https://www.wechat.com/en/privacy_policy.html#pp_how)
 
 **HOW DO WE USE YOUR INFORMATION?**
 
-We use your information to provide WeChat to you, allow you to communicate with other users, allow you to use the features available on WeChat, and to improve and support your WeChat experience. If you are a parent or guardian who has granted permission for your child to use WeChat then we retain the contact information you have provided to ensure we can validate any requests or queries you may have in relation to your child's WeChat account. [**More Information**](#pp_how)
+We use your information to provide WeChat to you, allow you to communicate with other users, allow you to use the features available on WeChat, and to improve and support your WeChat experience. If you are a parent or guardian who has granted permission for your child to use WeChat then we retain the contact information you have provided to ensure we can validate any requests or queries you may have in relation to your child's WeChat account. [**More Information**](https://www.wechat.com/en/privacy_policy.html#pp_how)
 
 **WHO DO WE SHARE YOUR DATA WITH?**
 
-We do not share your information with third parties, except where we need to in order to provide the service (e.g., SMS service providers) or if we are instructed to by a court, authority or compelled by law. We use these third party services solely to process or store your information for the purposes described in this Privacy Policy . Any third party with whom we share user data is required to provide the same or equal protection of user data as stated in this Privacy Policy. [**More Information**](#pp_sharing)
+We do not share your information with third parties, except where we need to in order to provide the service (e.g., SMS service providers) or if we are instructed to by a court, authority or compelled by law. We use these third party services solely to process or store your information for the purposes described in this Privacy Policy . Any third party with whom we share user data is required to provide the same or equal protection of user data as stated in this Privacy Policy. [**More Information**](https://www.wechat.com/en/privacy_policy.html#pp_sharing)
 
 **WHERE DO WE PROCESS YOUR DATA?**
 
-Our servers are located in Singapore and the Hong Kong Special Administrative Region ("**Hong Kong SAR**"). We also have support, engineering and other teams that support the provision of WeChat to you, located around the world (including Singapore and the Netherlands), who will have access to your information. Rigorous internal control measures are in place to strictly limit access to your data by designated personnel. [**More Information**](#pp_location)
+Our servers are located in Singapore and the Hong Kong Special Administrative Region ("**Hong Kong SAR**"). We also have support, engineering and other teams that support the provision of WeChat to you, located around the world (including Singapore and the Netherlands), who will have access to your information. Rigorous internal control measures are in place to strictly limit access to your data by designated personnel. [**More Information**](https://www.wechat.com/en/privacy_policy.html#pp_location)
 
 **HOW LONG DO WE KEEP HOLD OF YOUR DATA?**
 
-How long we retain information for depends on the type of information – for example, log-in data is retained for up to 90 days from the date the data is collected. We do not retain your information for longer than the time period prescribed by law. [**More Information**](#pp_how)
+How long we retain information for depends on the type of information – for example, log-in data is retained for up to 90 days from the date the data is collected. We do not retain your information for longer than the time period prescribed by law. [**More Information**](https://www.wechat.com/en/privacy_policy.html#pp_how)
 
 **HOW CAN YOU EXERCISE YOUR RIGHTS OVER YOUR DATA?**
 
-Depending on where you live, you may have special rights over your data and how we can use it. These include how you can access the data, erase the data, restrict how your data can be used, object to our use, and get a copy of your information. [**More Information**](#pp_rights)
+Depending on where you live, you may have special rights over your data and how we can use it. These include how you can access the data, erase the data, restrict how your data can be used, object to our use, and get a copy of your information. [**More Information**](https://www.wechat.com/en/privacy_policy.html#pp_rights)
 
 **JURISDICTION-SPECIFIC ADDENDA**
 
@@ -54,7 +54,7 @@ If you are a user located (as determined by your currently registered mobile num
 
 **HOW WILL WE NOTIFY YOU OF CHANGES?**
 
-If there are any significant changes to this Privacy Policy, we will update it here and notify you before the change becomes effective. [**More Information**](#pp_changes)
+If there are any significant changes to this Privacy Policy, we will update it here and notify you before the change becomes effective. [**More Information**](https://www.wechat.com/en/privacy_policy.html#pp_changes)
 
 **DATA CONTROLLER**
 
