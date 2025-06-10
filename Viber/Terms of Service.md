@@ -178,7 +178,7 @@ When you make a purchase or pay for subscription through the Viber App or throug
 
 In-app payments for Premium Services which are processed through app stores (“**IAP**”) are subject to the applicable app store terms (Apple [Terms](https://www.apple.com/legal/internet-services/itunes/), Google Play [Terms](https://play.google.com/intl/en_US/about/play-terms/), etc.), which you hereby consent to and agree to comply with.
 
-Should you choose to cancel your subscription, your access to the paid Premium Services will continue through the end of your billing period, as applicable, and expire thereafter, and you may be downgraded to the free Services. To the extent permitted by applicable law, any fees paid for your purchase of a subscription plan are non-refundable, and we do not provide refunds for any partial subscriptions. For more information see the [**Refund**](#refunds) section below.
+Should you choose to cancel your subscription, your access to the paid Premium Services will continue through the end of your billing period, as applicable, and expire thereafter, and you may be downgraded to the free Services. To the extent permitted by applicable law, any fees paid for your purchase of a subscription plan are non-refundable, and we do not provide refunds for any partial subscriptions. For more information see the [**Refund**](#refunds) section below. Subscriptions for Premium Services must be cancelled through the same channel where they were originally purchased.
 
 We may also offer, from time to time, special promotional offers, which may include different terms and conditions, including free trials. We reserve the right to change, cancel and/or restrict these promotional offers at our sole discretion and at any time. The specific terms for each promotion, including the terms of the free trial, will be disclosed prior to making the purchase(s) based on such promotion(s). Free trials may be limited in time and contain an automatic renewal unless you terminate the free trial up-to 24 hours prior to its expiration. We reserve the right to limit your ability to take advantage of multiple trials and to limit your use to one free trial.  
 
@@ -327,6 +327,6 @@ To allow safe access to emergency services, the Viber mobile app initiates emerg
 
 In case you experience any issue with the Viber Out service, please contact our support as provided under section 21 of the Terms and our team will check such report and will endeavor to remedy any such fault as reasonably feasible. For any information relating to technical details with respect to the calls transferred between mobile networks, please review your agreement with your mobile operator.
 
-Current Terms of Use PDF [**Viber Terms of Service May 2025**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-May-2025.pdf)
+Current Terms of Use PDF [**Viber Terms of Service May 2025**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-May-2025-1.pdf)
 
 Previous Terms of Use PDF [**Viber Terms of Service March 2025**](https://www.viber.com/app/uploads/Viber-Terms-of-Service-EN-March-2025.pdf)
