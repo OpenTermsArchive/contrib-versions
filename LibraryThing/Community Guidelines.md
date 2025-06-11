@@ -51,7 +51,7 @@ In event of dispute, account ownership is determined as follows: If a paid accou
 
 * You may not post any content that violates the law, including copyright and other intellectual property law.
 * Do not plagiarize another member's content.
-* LibraryThing prohibits members from posting AI-created content (for example, produced by ChatGPT), unless clearly and prominently labelled as such for the purpose of discussion. All such content is prohibited in book reviews and summaries, even if labelled. This prohibition does not extend to the use of AI-generated cover images, as long as they are the actual cover images, or to cataloging material created by AI.
+* LibraryThing prohibits members from posting AI-created content (for example, produced by ChatGPT), unless clearly and prominently labelled as such for the purpose of discussion. All such content is prohibited in book reviews and summaries, even if labelled. AI-generated or edited author photos are also prohibited. This prohibition does not extend to the use of AI-generated cover images, as long as they are the actual cover images, or to cataloging material created by AI.
 
 #### System integrity
 
