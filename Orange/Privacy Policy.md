@@ -349,6 +349,12 @@ La technologie Utiq est fournie par Utiq SA/NV, une société européenne. Elle 
 
 Utiq travaille avec des [opérateurs télécom partenaires](https://consenthub.utiq.com/pages/privacy-statement#telecom-operators), comme nous, qui aident au fonctionnement de la technologie.
 
+La technologie Utiq ne peut être activée que si vous utilisez une connexion internet compatible\* fournie par un opérateur télécom listé ci-dessous, dans les pays ou notre technologie est disponible.
+
+  
+_\*Connexion internet compatible : Dans certains pays où nous opérons, la technologie Utiq est activable uniquement sur les connexions mobiles, tandis que dans d’autres pays, elle fonctionne également sur les connexions foyer (ex : Wi-Fi).  
+Veuillez trouver [ici](https://consenthub.utiq.com/pages/privacy-statement#telecom-operators) la liste des connexions internet compatibles par pays et par opérateurs télécom partenaires._
+
 Cette technologie, qui est disponible pour nos clients, est désactivée par défaut et nécessite votre consentement pour être activée. Si elle est activée, les sites web partenaires peuvent l’utiliser pour supporter leurs activités digitales, telles que la personnalisation publicitaire ou de contenu et d’analyses.
 
 En plus d’être un opérateur télécom partenaire travaillant avec Utiq, nous utilisons également cette technologie sur nos sites web. Plus de détails ci-dessous.
@@ -380,7 +386,7 @@ Nous Orange agissons en tant que responsable de traitement conjoint avec Utiq po
 
 * Nous collectons votre consentement à l’activation de la technologie Utiq, qui inclut les traitements de données effectués par Utiq et votre opérateur télécom en vue de cette activation.
 * Nous mettons à votre disposition un lien dédié en bas de chacun de nos sites web (“[Gérer Utiq](https://consenthub.utiq.com/)”) afin de vous fournir des informations sur la technologie et les contrôles dont vous disposez.
-* Utiq met à votre disposition un portail (consenthub) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement les consentements Utiq. À tout moment. En un seul endroit.
+* Utiq met à votre disposition un portail ([consenthub](https://consenthub.utiq.com/)) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement les consentements Utiq. À tout moment. En un seul endroit.
 * Bien que vous puissiez exercer vos droits à l’égard de chacun des responsables de traitement, Utiq demeure le point de contact principal pour toute question ou demande que vous pourriez avoir en relation avec la technologie Utiq.
 
 #### Comment gérer les consentements Utiq
@@ -392,7 +398,7 @@ Vous pouvez révoquer les consentements\* Utiq de diverses manières :
 
   
   
-La technologie Utiq est basée sur votre connexion internet. Ainsi, si vous utilisez d’autres connections, il vous faudra gérer les consentements sur chaque connexion séparément.
+La technologie Utiq est basée sur votre connection internet. Ainsi, si vous utilisez d’autres connections, il vous faudra gérer les consentements sur chaque connexion séparément.
 
 Autrement, vous avez toujours la possibilité de supprimer votre historique et données de navigation via les paramètres de votre navigateur. Cela supprimera tous vos consentements Utiq de votre navigateur. Toutes vos données stockées dans la plateforme Utiq seront également supprimées dans la durée indiquée dans la [Politique relative à l’utilisation des données personnelles d'Utiq](https://consenthub.utiq.com/pages/privacy-statement).
 
@@ -430,4 +436,4 @@ Le dispositif technique utilisé par Flux Vision garantit une anonymisation irr�
 
 La présente Politique de Protection des Données personnelles peut être amenée à évoluer.
 
-Dernière mise à jour le 14/11/2024
+Dernière mise à jour le 11/06/2025
