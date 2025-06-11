@@ -2691,6 +2691,12 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         269. City of Phoenix: [https://www.phoenixopendata.com/dataset/traffic-restrictions](https://www.phoenixopendata.com/dataset/traffic-restrictions)
             
+        270. Iowa Department of Transportation: [https://data.iowadot.gov/datasets/a8d6cac036164c0194eb3226f66f2aa8\_0/explore](https://data.iowadot.gov/datasets/a8d6cac036164c0194eb3226f66f2aa8_0/explore)
+            
+        271. City of Washington, DC: [https://opendata.dc.gov/datasets/03d94dc6579949ae9d7c9dd8ffebeb89\_43/explore](https://opendata.dc.gov/datasets/03d94dc6579949ae9d7c9dd8ffebeb89_43/explore)
+            
+        272. Environmental Data Center: [https://www.rigis.org/datasets/1654c41c29f8468ba8d85f329f484f4b\_0/explore](https://www.rigis.org/datasets/1654c41c29f8468ba8d85f329f484f4b_0/explore)
+            
     69. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
     70. **United Arab Emirates / Abu Dhabi**
