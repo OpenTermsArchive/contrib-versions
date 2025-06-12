@@ -1206,7 +1206,7 @@ Si l'Abonné choisit d'interrompre sa Période d'essai au cours de celle-ci, il 
 \-     ou contacter notre Service Client, disponible par téléphone, aux horaires indiqués sur le Site, et ce, jusqu'à la veille de la fin de la Période d'essai :  
             - depuis la France au 09 70 80 90 50 (numéro non surtaxé) ;  
             - depuis la Belgique au 0800 58 211 (numéro gratuit) ;  
-            - depuis l’Italie au 800 694 130 (numéro gratuit) ;  
+            - depuis léItalie au 800 694 130 (numéro gratuit) ;  
             - depuis l’Allemagne au 0800 627 9980 (numéro gratuit) ;  
             - depuis l’Espagne au 0800 00 01 17 (numéro gratuit) ;  
             - depuis le Luxembourg au 0800 40 234 (numéro gratuit);
@@ -1669,7 +1669,7 @@ Les CGA et CGV applicables sont celles en vigueur au jour de votre souscription 
   
 **
 
- Le Service vous permet de recevoir vos produits favoris, sous réserve qu’ils soient éligibles (voir conditions d’éligibilité à l’**Article 4** ci-après – les « **Produits Eligibles** »), de manière régulière et automatique, selon la fréquence et la quantité que vous aurez choisies. 
+ Le Service vous permet de recevoir vos produits favoris, sous réserve qu’ils soient éligibles (voir conditions d’éligibilité à l’**Article 4** ci-après – les « **Produits Eligibles** »), de maniére régulière et automatique, selon la fréquence et la quantité que vous aurez choisies. 
 
 **ARTICLE 3 - CONDITIONS D’ABONNEMENT  
   
