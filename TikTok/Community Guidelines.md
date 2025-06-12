@@ -875,7 +875,7 @@ NOT ALLOWED
 * A public figure who is:
 
 * being degraded or harassed, or engaging in criminal or anti-social behavior
-* taking a position on a political issue, commercial product, or a matter of public importance (such as an elections)
+* taking a position on a political issue, commercial product, or a matter of public importance (such as an election)
 * being politically endorsed or condemned by an individual or group
 
 ALLOWED
