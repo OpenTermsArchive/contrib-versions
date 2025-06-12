@@ -57,7 +57,7 @@ Promotional Trial and Qualification-Based Memberships
 
 We sometimes offer certain customers various trial or other promotional memberships, which are subject to these Terms except as otherwise stated in the promotional offers. Trial members may at any time (through Your Account) choose not to continue to paid membership at the end of the trial period.
 
-If you sign up for a qualification-based Prime membership (including but not limited to Prime Student and Prime for [qualifying EBT and government assistance recipients)](https://www.amazon.com/gp/help/customer/display.html/?nodeId=G54BETR9USUZFZW5), you will receive certain Prime benefits for the reduced rate specified in the [Prime section](https://www.amazon.com/gp/help/customer/display.html?nodeId=G34EUPKVMYFW8N2U) of our Help page. To sign up for and use a qualification-based Prime membership, you must meet the eligibility conditions described on the applicable enrollment page and provide any required documentation.
+If you sign up for a qualification-based Prime membership (including but not limited to Prime for Young Adults and Prime for [qualifying EBT and government assistance recipients)](https://www.amazon.com/gp/help/customer/display.html/?nodeId=G54BETR9USUZFZW5), you will receive certain Prime benefits for the reduced rate specified in the [Prime section](https://www.amazon.com/gp/help/customer/display.html?nodeId=G34EUPKVMYFW8N2U) of our Help page. To sign up for and use a qualification-based Prime membership, you must meet the eligibility conditions described on the applicable enrollment page and provide any required documentation.
 
 Agreement Changes
 -----------------
