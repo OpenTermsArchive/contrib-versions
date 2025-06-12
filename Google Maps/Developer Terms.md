@@ -1064,6 +1064,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Île de France Mobilites: [https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf](https://www.etalab.gouv.fr/wp-content/uploads/2017/04/ETALAB-Licence-Ouverte-v2.0.pdf)
             
+        * République Française: [http://www.data.gouv.fr/fr/](http://www.data.gouv.fr/fr/)
+            
     19. **Gambia**
         * Gambia National Disaster Management Agency (NDMA) - [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
             
@@ -1342,6 +1344,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Capital Region Urban Transport (CRUT), 2020, City Bus GTFS Static in Bhubaneshwar City, DataSpace, version v0.0.1, 08/07/2022: [https://dataspace.mobi/dataset/city-bus-bhubaneswar-gtfs-static.](https://dataspace.mobi/dataset/city-bus-bhubaneswar-gtfs-static) Published under Government Open Data License (India) - [https://data.gov.in/government-open-data-license-india](https://data.gov.in/government-open-data-license-india)
             
+        * Open Government Data Platform India: [https://www.data.gov.in/terms-of-use](https://www.data.gov.in/terms-of-use)
+            
     29. **Indonesia**
         * OPEN DATA JAWA TENGAH: [https://data.jatengprov.go.id/dataset/peta-jalan/resource/dfe03a7b-b986-481b-b0f1-5f7c92c01c73](https://data.jatengprov.go.id/dataset/peta-jalan/resource/dfe03a7b-b986-481b-b0f1-5f7c92c01c73)
             
@@ -1391,6 +1395,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Smart Dublin (IE): [https://data.smartdublin.ie/](https://data.smartdublin.ie/) Licensed by Creative Commons Attribution 4.0 International (CC By 4.0)
             
         * Road Management Office Ireland [https://roadmanagement.maps.arcgis.com/home/item.html?id=a049f91847034767b00896e48871cb91#overview](https://roadmanagement.maps.arcgis.com/home/item.html?id=a049f91847034767b00896e48871cb91#overview) [https://data.gov.ie/dataset/local-roads](https://data.gov.ie/dataset/local-roads#overview) Licensed under Creative Commons Attribution 4.0
+            
+        * Tailte Éireann: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     31. **Isle of Man**
         
