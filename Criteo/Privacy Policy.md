@@ -12,8 +12,6 @@ Table of Contents
 
 Welcome! This is where you can learn about Criteo, the technologies and services we offer to our partners, and our data collection and privacy policies.
 
-[![TRUSTe](//privacy-policy.truste.com/privacy-seal/seal?rid=5f32f66b-aff3-4986-b4a3-b33ea7c0c7b7)](https://privacy.truste.com/privacy-seal/validation?rid=5f32f66b-aff3-4986-b4a3-b33ea7c0c7b7)
-
 #### About Criteo
 
 Criteo is a public limited company with its registered office at 32 rue Blanche, 75009 Paris, FRANCE, and registered with the Paris Trade and Companies Register under number 484 786 249.
@@ -124,7 +122,7 @@ Criteo respects the [self-regulatory principles of the Digital Advertising Alli
 
 * **Network Advertising Initiative ![](https://www.criteo.com/wp-content/uploads/2017/10/nai.gif-Q-width76-height28nai.gif)** 
 
-Criteo adheres to the [codes of conduct of the Network Advertising Initiative (NAI)](https://thenai.org/accountability/code-of-conduct/) and is integrated with the [NAI unsubscription platform](http://optout.networkadvertising.org/?c=1), which offers you the opportunity to express your choices regarding online advertising to all the players involved, and in particular your desire to disable their services.
+Criteo adheres to the [NAI Self-Regulatory Framework](https://thenai.org/self-regulatory-framework/) and is integrated with the [NAI unsubscription platform](http://optout.networkadvertising.org/?c=1), which offers you the opportunity to express your choices regarding online advertising to all the players involved, and in particular your desire to disable their services.
 
 * **IAB Europe** **![](https://www.criteo.com/wp-content/uploads/2023/09/IAB-Europe-logo.png)**
 
