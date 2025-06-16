@@ -318,10 +318,16 @@ A couple of final, but important, points. First, these Terms constitute the enti
 
 In the event of a conflict, the English language version shall govern.
 
+* [Legal Information](https://evernote.com/legal)
 * [Privacy Center](https://evernote.com/privacy)
-* [Privacy Policy](https://evernote.com/privacy/policy)
-* [Region-Specific Information](https://evernote.com/privacy/regional)
-* [3 Laws of Data Protection](https://evernote.com/privacy/3-laws-of-data-protection)
-* [Cookie Notice](https://evernote.com/privacy/cookies)
-* [Transparency Report](https://evernote.com/privacy/transparency-report)
-* [Vendors](https://evernote.com/privacy/vendors)
+* [Terms of Service](https://evernote.com/legal/terms-of-service)
+* [User Guidelines](https://evernote.com/legal/user-guidelines)
+* [Commercial Terms](https://evernote.com/legal/commercial-terms)
+* [Supplemental Terms](https://evernote.com/legal/supplemental-terms)
+* [Evernote Teams Agreement](https://evernote.com/legal/teams)
+* [Glossary](https://evernote.com/legal/glossary)
+* [IP Compliance Program](https://evernote.com/legal/ip-compliance)
+* [Trademark Use](https://evernote.com/legal/trademark-use)
+* [Information for Authorities](https://evernote.com/legal/law-enforcement)
+* [Open Source Licenses](https://evernote.com/legal/open-source)
+* [Legal Document Updates](https://evernote.com/)
