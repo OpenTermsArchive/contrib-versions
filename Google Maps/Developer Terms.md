@@ -978,6 +978,22 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
                 
             * Réseau urbain Mio - Millau ([https://transport.data.gouv.fr/datasets/fiches-horaires-reseau-urbain-mio-ccmillaugrandscausses](https://transport.data.gouv.fr/datasets/fiches-horaires-reseau-urbain-mio-ccmillaugrandscausses))
                 
+            * Réseau urbain BAAG ([https://transport.data.gouv.fr/datasets/regie-des-transports-baag-gtfs](https://transport.data.gouv.fr/datasets/regie-des-transports-baag-gtfs))
+                
+            * Réseau urbain et scolaire CA2BM ([https://transport.data.gouv.fr/datasets/transports-en-commun-ca2bm](https://transport.data.gouv.fr/datasets/transports-en-commun-ca2bm))
+                
+            * Réseau urbain Compagnie d'Autobus de Monaco ([https://transport.data.gouv.fr/datasets/horaires-reseau-au-4-novembre-2024-fichier-gtfs](https://transport.data.gouv.fr/datasets/horaires-reseau-au-4-novembre-2024-fichier-gtfs))
+                
+            * Navette hivernale Méribus ([https://transport.data.gouv.fr/datasets/meribus-hiver](https://transport.data.gouv.fr/datasets/meribus-hiver))
+                
+            * Réseau urbain ARAVIS Bus ([https://transport.data.gouv.fr/datasets/reseau-urbain-aravis-bus](https://transport.data.gouv.fr/datasets/reseau-urbain-aravis-bus))
+                
+            * Réseau urbain Vaï Embrun ([https://transport.data.gouv.fr/datasets/reseau-vai-embrun](https://transport.data.gouv.fr/datasets/reseau-vai-embrun))
+                
+            * Navettes hivernales Skibus Courchevel ([https://transport.data.gouv.fr/datasets/skibus-courchevel-hiver](https://transport.data.gouv.fr/datasets/skibus-courchevel-hiver))
+                
+            * Navettes Bourg-Saint-Maurice ([https://transport.data.gouv.fr/datasets/navettes-bourg-saint-maurice](https://transport.data.gouv.fr/datasets/navettes-bourg-saint-maurice))
+                
         * Muséum national d'Histoire Naturelle: [https://inpn.mnhn.fr/accueil/mentions-legales](https://inpn.mnhn.fr/accueil/mentions-legales)
             
         * Réseau urbain A Citadina - ([https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina](https://transport.data.gouv.fr/datasets/horaires-temps-reels-reseau-a-citadina))
