@@ -245,8 +245,8 @@ We have implemented various safeguards including:
 
 * Contractual Clauses, such as those approved by the EU Commission and accepted in several other countries. 
 * Data Privacy Framework Certification. Where applicable, certain designated IBM services (for example, IBM Infrastructure-as-a-Service, Platform-as-a-Service, Software-as-a-Service, and select other hosted offerings) are certified to comply with the Data Privacy Framework. For more information, see [IBM Data Privacy Framework Policy for Certified IBM Cloud Services](https://www.ibm.com/us-en/privacy/dataprivacyframework "IBM Data Privacy Framework Policy for Certified IBM Cloud Services").
-* Binding Corporate Rules for Controllers (IBM BCR-C). We have BCR-C approved by the European Data Protection Authorities and the UK Information Commissioner’s Office. For more information, see [IBM Controller Binding Corporate Rules](https://www.ibm.com/privacy/bcr "IBM Controller Binding Corporate Rules").
-* IBM's privacy practices, described in this Privacy Statement, comply with the APEC Cross Border Privacy Rules Framework. The [APEC Cross Border Privacy Rules](http://www.cbprs.org/) (CBPR) system provides protection of personal information that is transferred among participating [APEC economies](http://cbprs.org/about-cbprs/) as it pertains to online information collected through ibm.com.
+* Binding Corporate Rules for Controllers (IBM BCR-C). We have BCR-C approved by the European Data Protection Authorities and the UK Information Commissioner’s Office. For more information, see [IBM Controller Binding Corporate Rules](https://www.ibm.com/us-en/privacy/bcr "IBM Controller Binding Corporate Rules").
+* IBM's privacy practices, described in this Privacy Statement, comply with the APEC Cross Border Privacy Rules Framework. The [APEC Cross Border Privacy Rules](https://www.cbprs.org/) (CBPR) system provides protection of personal information that is transferred among participating [APEC economies](https://cbprs.org/about-cbprs/) as it pertains to online information collected through ibm.com.
 
 * * *
 
@@ -318,12 +318,12 @@ Your Rights
 
 You may have certain rights when it comes to the handling of your personal information.
 
-The [Contact Us](http://ibm.biz/contactoprt "Contact Us") form can be used to:
+The [Contact Us](https://www.ibm.com/privacy/requests/contact/ "Contact Us") form can be used to:
 
 * ask questions related to this Privacy Statement and privacy practices. Your message is forwarded to the appropriate member of IBM's Data Privacy Team, including the responsible Data Protection Officers.
 * submit a complaint to IBM if you are not satisfied with how IBM is processing your personal information.
 
-The [Submit a data rights request form](http://ibm.biz/dsrrequest "Submit a data rights request form") can be used to:
+The [Submit a data rights request form](https://www.ibm.com/privacy/requests/ "Submit a data rights request form") can be used to:
 
 * request access to the personal information that we have on you, or have it updated or corrected. Depending on the applicable law, you may have additional rights concerning your personal information.
 * request to obtain your personal information in a usable format and transmit it to another party (also known as the right to data portability);
@@ -340,7 +340,7 @@ For more information about how we process your data, see [Personal Information W
 
 Your rights may be subject to limitations and exceptions resulting from applicable laws. For example, there may be situations where we cannot share certain information that you seek if disclosing this means disclosing information about others.
 
-You may also have the right to complain to the competent supervisory authority. Information about additional rights, when they apply, and the right to complain to the competent supervisory authority can be found [here](https://www.ibm.com/privacy/additional-data-subjects-rights "Your Additional Rights ").
+You may also have the right to complain to the competent supervisory authority. Information about additional rights, when they apply, and the right to complain to the competent supervisory authority can be found [here](https://www.ibm.com/us-en/privacy/additional-data-subjects-rights "Your Additional Rights ").
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third-party dispute resolution provider (free of charge) [here](https://feedback-form.truste.com/watchdog/request).
 
@@ -391,7 +391,7 @@ Privacy Statement Updates
 
 If a material change is made to this Privacy Statement, the effective date is revised, and a notice is posted on the updated Privacy Statement for 30 days. By continuing to use our websites and services after a revision takes effect, it is considered that users have read and understand the changes.
 
-Previous versions of the Privacy Statement are available [here](https://www.ibm.com/privacy/portal/previous-versions-of-IBM-privacy-statements "https://www.ibm.com/us-en/privacy/previous-versions").
+Previous versions of the Privacy Statement are available [here](https://www.ibm.com/us-en/privacy/previous-versions "https://www.ibm.com/us-en/privacy/previous-versions").
 
 **Sections updated in this release:**
 
@@ -402,6 +402,6 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 * * *
 
-We have made our best effort to accurately translate the IBM Privacy Statement into this language. To report any translation concerns, select [Contact Us](https://ibm.biz/contactoprt "Contact Us") in the header of this page.
+We have made our best effort to accurately translate the IBM Privacy Statement into this language. To report any translation concerns, select [Contact Us](https://www.ibm.com/privacy/requests/contact/ "Contact Us") in the header of this page.
 
 * * *
