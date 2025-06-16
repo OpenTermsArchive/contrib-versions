@@ -1,11 +1,14 @@
-**Welcome to Outbrain Privacy Center**
-======================================
+#### **Welcome to our Privacy Center**
 
-When you interact with Outbrain’s sites and services we may collect information which qualifies as personal data under applicable privacy laws. Outbrain is committed to protecting your personal data. Below, you will find privacy policies which set how and why Outbrain processes your data when you interact with Outbrain in various scenarios.  
+_Outbrain is operating under the Teads brand following the merger of Outbrain and Teads. Although Outbrain operates as Teads, you may still be utilising legacy Outbrain technology (via our Teads Amplify and Teads Engage services) or the ads you are seeing may still be powered by legacy Outbrain technology which continues to be utilised on media partners pages and advertiser partner pages. You will know you are interacting with legacy Outbrain technology if you click on the AdChoices logo on ads served by Teads and you are directed to this [User Privacy Policy](https://www.outbrain.com/privacy/user-policy/) and/or the [Interest Profile](https://dsr.outbrain.com/recommendations-settings/home/) which allows you to exercise your privacy rights._
 
-* **User Privacy Policy –** you are a “user” when you visit a website or application of one of Outbrain’s partners (website or application publisher) where the Outbrain technology is implemented (and where such technology generally displays advertising content). 
-* **Business Partners Privacy Policy** – You are a “business partner” if you are media owner, advertiser or agency who contracts with Outbrain to utilise Outbrain’s services. 
-* **Site visitors** **Privacy Policy**  –  You are a “site visitor” if you Outbrain’s websites and digital properties, such as [www.outbrain.com](http://www.outbrain.com/) or any of our other sites (e.g., [www.zemanta.com/](https://www.zemanta.com/)).
+_If you interact with ads powered by Teads technology (you will know this if you click on the AdChoices logo and it directs you to the Teads User Policy), you can find out more about how Teads uses your data on the [Teads User Privacy Policy](https://privacy-policy.teads.com/). You can also opt out of personalised ads served by Teads via the [Teads opt out page](https://privacy-policy.teads.com/#deactivate)._
+
+Below, you will find privacy policies relevant to the various ways you may still interact with Outbrain legacy technology. These policies set out how we may use and process your personal data.
+
+* **User Privacy Policy –** You are a “user” when you visit a website or application of one of our partners (website or application publisher) and where such partner is utilising legacy Outbrain technology.
+* **Business Partners Privacy Policy** – You are a “business partner” if you are a media owner, advertiser or agency who contracts with Outbrain to utilise Teads Amplify or Teads Engage services.
+* **Site visitors** **Privacy Policy** – You are a “site visitor” if you visit Outbrain websites and digital properties, such as [www.outbrain.com](http://www.outbrain.com/) or any of our other sites (e.g., [www.zemanta.com/](http://www.zemanta.com/)).
 
 To learn more about each user type and applicable privacy policy, please refer to sections below.
 
