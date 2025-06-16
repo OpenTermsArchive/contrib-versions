@@ -374,15 +374,15 @@ You might also be interested in:
     
     This User Privacy Notice is effective from **April 21, 2025**. View the previous User Privacy Notice.
     
-    15 min article](https://www.ebay.com/help/policies/member-behavior-policies/user-privacy-notice?id=4260)
+    15 min article](https://www.ebay.com/help/policies/member-behavior-policies/user-privacy-notice?id=4260&ra=true)
 * [Cookies, web beacons, and similar technology ("Cookie Notice")
     
     Our Cookie Notice details all relevant information regarding the use of cookies, web beacons and similar technologies in connection to eBay's websites, applications, services, products and tools (collectively "Services") and your choices in this regard.
     
-    13 min article](https://www.ebay.com/help/policies/member-behavior-policies/cookies-web-beacons-similar-technology-cookie-notice?id=4267)
+    13 min article](https://www.ebay.com/help/policies/member-behavior-policies/cookies-web-beacons-similar-technology-cookie-notice?id=4267&ra=true)
 * [Community content policy
     
     Sharing content with other eBay members - either via discussion boards, product reviews, collections or groups - is a great way to help build the eBay community, and is something we encourage all our users to do.
     
-    4 min article](https://www.ebay.com/help/policies/member-behavior-policies/community-content-policy?id=4265)
-* [eBay employee trading and community content policyIf you're an eBay employee buying and selling on eBay, you have to follow the same rules as all other eBay members.3 min article](https://www.ebay.com/help/policies/member-behavior-policies/ebay-employee-trading-community-content-policy?id=4263)
+    4 min article](https://www.ebay.com/help/policies/member-behavior-policies/community-content-policy?id=4265&ra=true)
+* [eBay employee trading and community content policyIf you're an eBay employee buying and selling on eBay, you have to follow the same rules as all other eBay members.3 min article](https://www.ebay.com/help/policies/member-behavior-policies/ebay-employee-trading-community-content-policy?id=4263&ra=true)
