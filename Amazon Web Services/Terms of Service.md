@@ -1,8 +1,8 @@
 AWS Service Terms
 =================
 
-Last Updated: June 9, 2025
---------------------------
+Last Updated: June 17, 2025
+---------------------------
 
 1\. Universal Service Terms (Applicable to All Services)
 --------------------------------------------------------
@@ -1471,20 +1471,18 @@ Amazon FinSpace is a tool to help you analyze data for investment and business d
 
 **88.1.2.** AWS Wickr End Users can be managed by End Users with administrative privileges (“AWS Wickr Administrators”). AWS Wickr Administrators can (a) upgrade or downgrade End Users’ AWS Wickr feature set; (b) suspend End User’s access to AWS Wickr; and (c) access information about their End Users’ use of AWS Wickr.  
 
-89\. AWS Private 5G
--------------------
+89\. Amazon Elastic VMware Service (EVS) (Preview)
+--------------------------------------------------
 
-**89.1.** AWS Private 5G Equipment. AWS will make equipment available to you to support your use of the AWS Private 5G Service (the “Private 5G Equipment”). AWS, or its affiliates, maintain all rights in the Private 5G Equipment and is not selling, renting, leasing, or transferring any ownership, intellectual or other rights in the Private 5G Equipment to you. You will not, and will not purport to, assign, grant, or transfer the Private 5G Equipment or any interest in the Private 5G Equipment to any individual or entity, and any such purported assignment, grant or transfer is void.
+**89.1.** License models - Under the "bring-your-own-license" (BYOL) option, AWS Elastic VMware Service enables you to provision VMware Cloud Foundation software and add-ons ("VCF Software") on Amazon EC2 instances.
 
-**89.2.** Facility Assessment. You will ensure that, at all times, the facility at which the Private 5G Equipment is located (the “Designated Facility”) meets the minimum requirements necessary to support the installation, maintenance, use, and removal of the Private 5G Equipment as described [here](https://docs.aws.amazon.com/private-networks/latest/userguide/what-is-private-5g.html) and otherwise as described in the AWS Private 5G technical documentation or provided to you during the ordering process. When moving the Private 5G Equipment from the Designated Facility to a new Designated Facility, you must notify AWS of the new Designated Facility’s Address.   
+**89.2.** You must be eligible to use VCF Software with AWS Elastic VMware Service under your agreements with Broadcom. You are solely responsible for obtaining all required licenses and for complying with all applicable licensing requirements.
 
-**89.3.** Delivery. You will ensure that you have all necessary rights, certifications, and licenses for the delivery, installation, maintenance, use, and removal of the Private 5G Equipment at the Designated Facility.   
+**89.3.** You acknowledge that (a) the VCF Software deployed by EVS is neither sold nor distributed to you and may only be used in conjunction with EVS, and (b) EVS requires a persistent connection to your VCF deployment through the VPC subnet you provide (“Service Access Subnet”). You will not take any action that interferes with, impedes, or prevents AWS from accessing, managing or maintaining EVS, including modifying the Service Access Subnet (as specified in the documentation).   
 
-**89.4.** Use. You are responsible for the installation, use, and removal of the AWS Private 5G Equipment at the Designated Facility and returning the Private 5G Equipment to AWS as described in the AWS Private 5G technical documentation or provided to you during the ordering process. Except as provided for in the technical documentation, you will ensure that no one accesses or repairs the Private 5G Equipment. In addition to other rights and remedies AWS may have under the Agreement, AWS may charge a lost device fee if the Private 5G Equipment is lost or damaged between when it is first in your possession and when the carrier accepts the Private 5G Equipment for delivery back to AWS. AWS may terminate your use of AWS Private 5G and remove the Private 5G Equipment if you breach these terms or materially breach the terms of the Agreement with respect to AWS Private 5G. In the event that we terminate your use of AWS Private 5G and remove the Private 5G Equipment in accordance with this Section 89.4, we will provide you with prior notice where practicable under the circumstances.  
+**89.4.** You will remain enrolled in Business Support or better during the entire period of your use of EVS.
 
-**89.5.** Business Support. You will remain enrolled in AWS Support at the Business level during the entire period of your use of AWS Private 5G.  
-
-**89.6.** Security. As the Private 5G Equipment is physically located at the Designated Facility, you are responsible for physical security and access controls, as well as all power, networking, and environmental conditions at your Designated Facility. Consequently, any AWS commitments in the Agreement that depend on AWS’s operation of such physical security and access controls, or power, networking, and environmental conditions, do not apply to AWS Private 5G. 
+**89.5.** AWS may share Account Information, logs or other usage information with Broadcom to enable Broadcom to provide technical and sales support and verify license compliance.
 
 90\. AWS SimSpace
 -----------------
@@ -1641,17 +1639,9 @@ h. Your use of Adobe After Effects is subject to the terms and conditions of the
 
 **104.3.** By enabling alert triaging you agree to grant AWS Security Incident Response permissions to access Amazon GuardDuty and AWS Security Hub to ingest alerts and create suppression rules on your behalf.  
 
-105\. Amazon Elastic VMware Service (EVS) (Preview)
----------------------------------------------------
+105\. Amazon Inspector
+----------------------
 
-**105.1.** License models - Under the "bring-your-own-license" (BYOL) option, AWS Elastic VMware Service enables you to provision VMware Cloud Foundation software and add-ons ("VCF Software") on Amazon EC2 instances.
-
-**105.2.** You must be eligible to use VCF Software with AWS Elastic VMware Service under your agreements with Broadcom. You are solely responsible for obtaining all required licenses and for complying with all applicable licensing requirements.
-
-**105.3.** You acknowledge that (a) the VCF Software deployed by EVS is neither sold nor distributed to you and may only be used in conjunction with EVS, and (b) EVS requires a persistent connection to your VCF deployment through the VPC subnet you provide (“Service Access Subnet”). You will not take any action that interferes with, impedes, or prevents AWS from accessing, managing or maintaining EVS, including modifying the Service Access Subnet (as specified in the documentation).   
-
-**105.4.** You will remain enrolled in Business Support or better during the entire period of your use of EVS.
-
-**105.5.** AWS may share Account Information, logs or other usage information with Broadcom to enable Broadcom to provide technical and sales support and verify license compliance.
+**105.1. Amazon Inspector Code Security.** We may change, discontinue, or deprecate support for any third-party software development services at any time without prior notice. We will provide you with prior notice of any deprecation or discontinuation of support for a third-party software development service where practicable under the circumstances.
 
 [Previous version(s)](https://aws.amazon.com/service-terms/historical/)
