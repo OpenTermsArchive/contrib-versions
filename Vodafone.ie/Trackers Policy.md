@@ -21,7 +21,7 @@ This Privacy Notice gets updated from time to time; whenever we make a material 
 
 We have revised our privacy notice as we are introducing some new features and ways of working. The main changes are outlined below.
 
-Last updated: 14 October 2024
+Last updated: 4 February 2025
 
 #### How to use this privacy notice
 
