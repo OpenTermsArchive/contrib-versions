@@ -53,11 +53,11 @@ Please note that if you choose not to permit Cookies some areas of our Websites 
 4\. How to contact us?
 ----------------------
 
-Bumble has designated a Data Protection Officer and they can be reached by emailing DPO@team.bumble.com or by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS.
+Bumble has designated a Data Protection Officer and they can be reached by emailing DPO@bumble.com or by post at the following address: The Broadgate Tower Third Floor, 20 Primrose Street, London, United Kingdom, EC2A 2RS.
 
-If you have any questions regarding this Cookie Policy, please visit our Feedback Page or email us at DPO@team.bumble.com. You can also contact us by post at the address above.
+If you have any questions regarding this Cookie Policy, please visit our Feedback Page or email us at DPO@bumble.com. You can also contact us by post at the address above.
 
 Effective date
 --------------
 
-This Cookie Policy was last updated on 17 January 2022.
+This Cookie Policy was last updated on 16 June 2025.
