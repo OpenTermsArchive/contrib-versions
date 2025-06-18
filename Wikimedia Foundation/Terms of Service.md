@@ -37,7 +37,7 @@ General
 
 * [What links here](https://foundation.wikimedia.org/wiki/Special:WhatLinksHere/Policy:Terms_of_Use "A list of all wiki pages that link here [j]")
 * [Related changes](https://foundation.wikimedia.org/wiki/Special:RecentChangesLinked/Policy:Terms_of_Use "Recent changes in pages linked from this page [k]")
-* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=503835 "Permanent link to this revision of this page")
+* [Permanent link](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=515959 "Permanent link to this revision of this page")
 * [Page information](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&action=info "More information about this page")
 * [Get shortened URL](https://foundation.wikimedia.org/w/index.php?title=Special:UrlShortener&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
 * [Download QR code](https://foundation.wikimedia.org/w/index.php?title=Special:QrCode&url=https%3A%2F%2Ffoundation.wikimedia.org%2Fwiki%2FPolicy%3ATerms_of_Use)
@@ -67,118 +67,118 @@ From Wikimedia Foundation Governance Wiki
 Other languages:
 
 * [](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&language=&task=view "Start translation for this language")
-* [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "Policy:Terms of Use/af (6% translated)")
-* [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Policy:Terms of Use/id (48% translated)")
+* [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "Policy:Terms of Use/af (5% translated)")
+* [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Policy:Terms of Use/id (46% translated)")
 * [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ms "Policy:Terms of Use/ms (3% translated)")
 * [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cy "Policy:Terms of Use/cy (5% translated)")
-* [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Policy:Terms of Use/de (100% translated)")
-* [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-formal "Policy:Terms of Use/de-formal (100% translated)")
+* [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Policy:Terms of Use/de (94% translated)")
+* [Deutsch (Sie-Form)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-formal "Policy:Terms of Use/de-formal (94% translated)")
 * English
 * [Esperanto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eo "Policy:Terms of Use/eo (16% translated)")
 * [Fulfulde](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ff "Policy:Terms of Use/ff (5% translated)")
-* [Gaeilge](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ga "Policy:Terms of Use/ga (100% translated)")
+* [Gaeilge](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ga "Policy:Terms of Use/ga (94% translated)")
 * [Hausa](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ha "Policy:Terms of Use/ha (1% translated)")
 * [Igbo](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ig "Policy:Terms of Use/ig (1% translated)")
 * [Kreyòl ayisyen](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ht "Policy:Terms of Use/ht (2% translated)")
 * [Latina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/la "Policy:Terms of Use/la (0% translated)")
-* [Lëtzebuergesch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lb "Policy:Terms of Use/lb (6% translated)")
+* [Lëtzebuergesch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lb "Policy:Terms of Use/lb (5% translated)")
 * [Madhurâ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mad "Policy:Terms of Use/mad (6% translated)")
-* [Malti](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mt "Policy:Terms of Use/mt (100% translated)")
-* [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Policy:Terms of Use/nl (100% translated)")
+* [Malti](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mt "Policy:Terms of Use/mt (94% translated)")
+* [Nederlands](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nl "Policy:Terms of Use/nl (94% translated)")
 * [Qaraqalpaqsha](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kaa "Policy:Terms of Use/kaa (0% translated)")
 * [Ripoarisch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ksh "Policy:Terms of Use/ksh (18% translated)")
 * [Runa Simi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/qu "Policy:Terms of Use/qu (5% translated)")
 * [Schweizer Hochdeutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de-ch "Policy:Terms of Use/de-ch (0% translated)")
 * [Scots](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sco "Policy:Terms of Use/sco (5% translated)")
-* [Sunda](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/su "Policy:Terms of Use/su (10% translated)")
-* [Tagalog](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tl "Policy:Terms of Use/tl (21% translated)")
-* [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vi "Policy:Terms of Use/vi (100% translated)")
-* [Türkçe](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tr "Policy:Terms of Use/tr (100% translated)")
-* [Zazaki](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/diq "Policy:Terms of Use/diq (9% translated)")
-* [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Policy:Terms of Use/ast (40% translated)")
-* [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/az "Policy:Terms of Use/az (10% translated)")
+* [Sunda](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/su "Policy:Terms of Use/su (9% translated)")
+* [Tagalog](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tl "Policy:Terms of Use/tl (20% translated)")
+* [Tiếng Việt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vi "Policy:Terms of Use/vi (94% translated)")
+* [Türkçe](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tr "Policy:Terms of Use/tr (94% translated)")
+* [Zazaki](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/diq "Policy:Terms of Use/diq (8% translated)")
+* [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Policy:Terms of Use/ast (38% translated)")
+* [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/az "Policy:Terms of Use/az (9% translated)")
 * [bosanski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bs "Policy:Terms of Use/bs (3% translated)")
-* [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Terms of Use/ca (87% translated)")
-* [dansk](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/da "Policy:Terms of Use/da (100% translated)")
-* [eesti](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/et "Policy:Terms of Use/et (100% translated)")
-* [español](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es "Policy:Terms of Use/es (100% translated)")
-* [euskara](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eu "Policy:Terms of Use/eu (7% translated)")
-* [français](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr "Policy:Terms of Use/fr (100% translated)")
+* [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Terms of Use/ca (82% translated)")
+* [dansk](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/da "Policy:Terms of Use/da (94% translated)")
+* [eesti](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/et "Policy:Terms of Use/et (94% translated)")
+* [español](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es "Policy:Terms of Use/es (94% translated)")
+* [euskara](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eu "Policy:Terms of Use/eu (6% translated)")
+* [français](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr "Policy:Terms of Use/fr (94% translated)")
 * [français cadien](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/frc "Policy:Terms of Use/frc (3% translated)")
 * [føroyskt](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fo "Policy:Terms of Use/fo (5% translated)")
-* [galego](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gl "Policy:Terms of Use/gl (41% translated)")
-* [hrvatski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hr "Policy:Terms of Use/hr (100% translated)")
-* [italiano](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/it "Policy:Terms of Use/it (100% translated)")
+* [galego](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gl "Policy:Terms of Use/gl (39% translated)")
+* [hrvatski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hr "Policy:Terms of Use/hr (94% translated)")
+* [italiano](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/it "Policy:Terms of Use/it (94% translated)")
 * [kurdî](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ku "Policy:Terms of Use/ku (3% translated)")
-* [latviešu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lv "Policy:Terms of Use/lv (100% translated)")
-* [lietuvių](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lt "Policy:Terms of Use/lt (100% translated)")
-* [magyar](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hu "Policy:Terms of Use/hu (100% translated)")
-* [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nb "Policy:Terms of Use/nb (30% translated)")
-* [occitan](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/oc "Policy:Terms of Use/oc (10% translated)")
-* [polski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl "Policy:Terms of Use/pl (100% translated)")
-* [português](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt "Policy:Terms of Use/pt (100% translated)")
-* [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt-br "Policy:Terms of Use/pt-br (100% translated)")
-* [română](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ro "Policy:Terms of Use/ro (100% translated)")
+* [latviešu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lv "Policy:Terms of Use/lv (94% translated)")
+* [lietuvių](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lt "Policy:Terms of Use/lt (94% translated)")
+* [magyar](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hu "Policy:Terms of Use/hu (94% translated)")
+* [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nb "Policy:Terms of Use/nb (29% translated)")
+* [occitan](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/oc "Policy:Terms of Use/oc (9% translated)")
+* [polski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl "Policy:Terms of Use/pl (94% translated)")
+* [português](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt "Policy:Terms of Use/pt (94% translated)")
+* [português do Brasil](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pt-br "Policy:Terms of Use/pt-br (94% translated)")
+* [română](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ro "Policy:Terms of Use/ro (94% translated)")
 * [sardu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sc "Policy:Terms of Use/sc (2% translated)")
 * [shqip](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sq "Policy:Terms of Use/sq (8% translated)")
-* [slovenčina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sk "Policy:Terms of Use/sk (100% translated)")
-* [slovenščina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sl "Policy:Terms of Use/sl (100% translated)")
-* [suomi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fi "Policy:Terms of Use/fi (100% translated)")
-* [svenska](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sv "Policy:Terms of Use/sv (100% translated)")
+* [slovenčina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sk "Policy:Terms of Use/sk (94% translated)")
+* [slovenščina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sl "Policy:Terms of Use/sl (94% translated)")
+* [suomi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fi "Policy:Terms of Use/fi (94% translated)")
+* [svenska](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sv "Policy:Terms of Use/sv (94% translated)")
 * [vèneto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vec "Policy:Terms of Use/vec (3% translated)")
 * [íslenska](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/is "Policy:Terms of Use/is (2% translated)")
-* [čeština](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs "Policy:Terms of Use/cs (100% translated)")
-* [Ελληνικά](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/el "Policy:Terms of Use/el (100% translated)")
+* [čeština](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs "Policy:Terms of Use/cs (94% translated)")
+* [Ελληνικά](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/el "Policy:Terms of Use/el (94% translated)")
 * [башҡортса](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ba "Policy:Terms of Use/ba (6% translated)")
-* [беларуская](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be "Policy:Terms of Use/be (19% translated)")
-* [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be-tarask "Policy:Terms of Use/be-tarask (61% translated)")
-* [български](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bg "Policy:Terms of Use/bg (100% translated)")
+* [беларуская](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be "Policy:Terms of Use/be (18% translated)")
+* [беларуская (тарашкевіца)](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/be-tarask "Policy:Terms of Use/be-tarask (58% translated)")
+* [български](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bg "Policy:Terms of Use/bg (94% translated)")
 * [гӀалгӀай](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/inh "Policy:Terms of Use/inh (0% translated)")
-* [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ky "Policy:Terms of Use/ky (100% translated)")
-* [македонски](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mk "Policy:Terms of Use/mk (64% translated)")
+* [кыргызча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ky "Policy:Terms of Use/ky (94% translated)")
+* [македонски](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mk "Policy:Terms of Use/mk (61% translated)")
 * [нохчийн](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ce "Policy:Terms of Use/ce (0% translated)")
-* [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Policy:Terms of Use/ru (100% translated)")
-* [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sr "Policy:Terms of Use/sr (23% translated)")
+* [русский](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ru "Policy:Terms of Use/ru (94% translated)")
+* [српски / srpski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sr "Policy:Terms of Use/sr (22% translated)")
 * [тоҷикӣ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tg "Policy:Terms of Use/tg (2% translated)")
-* [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Policy:Terms of Use/uk (94% translated)")
-* [ўзбекча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uz-cyrl "Policy:Terms of Use/uz-cyrl (56% translated)")
+* [українська](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uk "Policy:Terms of Use/uk (89% translated)")
+* [ўзбекча](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/uz-cyrl "Policy:Terms of Use/uz-cyrl (53% translated)")
 * [հայերեն](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hy "Policy:Terms of Use/hy (14% translated)")
 * [ייִדיש](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/yi "Policy:Terms of Use/yi (3% translated)")
-* [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (100% translated)")
+* [עברית](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/he "Policy:Terms of Use/he (94% translated)")
 * [اردو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ur "Policy:Terms of Use/ur (3% translated)")
 * [الدارجة](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ary "Policy:Terms of Use/ary (2% translated)")
-* [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "Policy:Terms of Use/ar (100% translated)")
+* [العربية](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ar "Policy:Terms of Use/ar (94% translated)")
 * [جهلسری بلوچی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bcc "Policy:Terms of Use/bcc (5% translated)")
-* [فارسی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fa "Policy:Terms of Use/fa (25% translated)")
+* [فارسی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fa "Policy:Terms of Use/fa (24% translated)")
 * [مصرى](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/arz "Policy:Terms of Use/arz (3% translated)")
-* [پښتو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ps "Policy:Terms of Use/ps (12% translated)")
+* [پښتو](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ps "Policy:Terms of Use/ps (11% translated)")
 * [کوردی](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ckb "Policy:Terms of Use/ckb (2% translated)")
 * [ܐܪܡܝܐ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/arc "Policy:Terms of Use/arc (0% translated)")
-* [नेपाली](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ne "Policy:Terms of Use/ne (35% translated)")
-* [मराठी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mr "Policy:Terms of Use/mr (19% translated)")
-* [हिन्दी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hi "Policy:Terms of Use/hi (96% translated)")
+* [नेपाली](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ne "Policy:Terms of Use/ne (33% translated)")
+* [मराठी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/mr "Policy:Terms of Use/mr (18% translated)")
+* [हिन्दी](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hi "Policy:Terms of Use/hi (90% translated)")
 * [অসমীয়া](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/as "Policy:Terms of Use/as (2% translated)")
 * [বাংলা](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bn "Policy:Terms of Use/bn (28% translated)")
-* [ਪੰਜਾਬੀ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pa "Policy:Terms of Use/pa (23% translated)")
+* [ਪੰਜਾਬੀ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pa "Policy:Terms of Use/pa (22% translated)")
 * [ગુજરાતી](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/gu "Policy:Terms of Use/gu (9% translated)")
 * [தமிழ்](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ta "Policy:Terms of Use/ta (6% translated)")
-* [తెలుగు](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/te "Policy:Terms of Use/te (99% translated)")
-* [ಕನ್ನಡ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kn "Policy:Terms of Use/kn (96% translated)")
+* [తెలుగు](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/te "Policy:Terms of Use/te (93% translated)")
+* [ಕನ್ನಡ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/kn "Policy:Terms of Use/kn (90% translated)")
 * [ತುಳು](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tcy "Policy:Terms of Use/tcy (3% translated)")
-* [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (40% translated)")
-* [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "Policy:Terms of Use/th (57% translated)")
+* [മലയാളം](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ml "Policy:Terms of Use/ml (38% translated)")
+* [ไทย](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/th "Policy:Terms of Use/th (55% translated)")
 * [ລາວ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lo "Policy:Terms of Use/lo (9% translated)")
 * [ပအိုဝ်ႏဘာႏသာႏ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/blk "Policy:Terms of Use/blk (0% translated)")
-* [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "Policy:Terms of Use/my (66% translated)")
-* [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/xmf "Policy:Terms of Use/xmf (26% translated)")
-* [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "Policy:Terms of Use/ka (45% translated)")
-* [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/km "Policy:Terms of Use/km (6% translated)")
+* [မြန်မာဘာသာ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/my "Policy:Terms of Use/my (62% translated)")
+* [მარგალური](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/xmf "Policy:Terms of Use/xmf (24% translated)")
+* [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "Policy:Terms of Use/ka (43% translated)")
+* [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/km "Policy:Terms of Use/km (5% translated)")
 * [ᱥᱟᱱᱛᱟᱲᱤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sat "Policy:Terms of Use/sat (4% translated)")
-* [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "Policy:Terms of Use/zh (100% translated)")
-* [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "Policy:Terms of Use/ja (100% translated)")
-* [閩南語 / Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan "Policy:Terms of Use/nan (19% translated)")
-* [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/syl "Policy:Terms of Use/syl (17% translated)")
-* [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "Policy:Terms of Use/ko (100% translated)")
+* [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "Policy:Terms of Use/zh (94% translated)")
+* [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "Policy:Terms of Use/ja (94% translated)")
+* [閩南語 / Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan "Policy:Terms of Use/nan (18% translated)")
+* [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/syl "Policy:Terms of Use/syl (16% translated)")
+* [한국어](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ko "Policy:Terms of Use/ko (94% translated)")
 
 **Want to help translate? [Translate the missing messages](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=agg-Terms_of_Use&filter=%21translated&action=page&language=).**
 
@@ -254,7 +254,7 @@ Certain activities, whether legal or illegal under the applicable law, may be ha
 
 **Violating the Privacy of Others**
 
-* Infringing the privacy rights of others under the laws of the United States of America or other applicable laws (which may include the laws where you live or where you view or edit content);
+* Infringing the privacy rights of others under applicable laws (which may include the laws where you live or where you view or edit content);
 * Soliciting personally identifiable information for the purposes of harassment, exploitation, or violation of privacy, or for any promotional or commercial purpose not explicitly approved by the Wikimedia Foundation; and
 * Soliciting personally identifiable information from anyone under the age of 18 years, or under the age of majority where you are if higher than 18 years, for an illegal purpose or violating any applicable law regarding the health or well-being of minors.
 
@@ -306,11 +306,10 @@ Certain activities, whether legal or illegal under the applicable law, may be ha
 
 For more information, please read our [FAQ on disclosure of paid contributions](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Terms_of_Use/Frequently_asked_questions_on_paid_contributions_without_disclosure "Special:MyLanguage/Policy:Terms of Use/Frequently asked questions on paid contributions without disclosure").
 
-We reserve the right to exercise our enforcement discretion with respect to the provisions in section 4 of these Terms of Use. Where required, enforcement of these terms may include actions not listed in the Wikimedia Foundation [Office Action Policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Office_actions "Special:MyLanguage/Policy:Office actions"). If enforcement is required in new circumstances, we will make an effort within at most one (1) year to update the Office Action Policy to catalog the new type of action.
-
-**Marketing Company Mediations**
-
+  
 Undisclosed editing by users receiving compensation creates an unreasonable burden on volunteer editors [who investigate and enforce community policies](https://en.wikipedia.org/wiki/Wikipedia:Conflict_of_interest "en:Wikipedia:Conflict of interest"). Therefore, for violations of this section related to undisclosed paid editing, you agree to submit to binding "Med-Arb" (a "Marketing Company Mediation") as described in section 14 of these Terms of Use.
+
+We reserve the right to exercise our enforcement discretion with respect to the provisions in section 4 of these Terms of Use. Where required, enforcement of these terms may include actions not listed in the Wikimedia Foundation [Office Action Policy](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Office_actions "Special:MyLanguage/Policy:Office actions"). If enforcement is required in new circumstances, we will make an effort within at most one (1) year to update the Office Action Policy to catalog the new type of action.
 
 5\. Password Security
 ---------------------
@@ -361,8 +360,18 @@ You agree to the following licensing requirements:
     When modifying or making additions to any non-text media that you have obtained from a Project website, you agree to license the modified or added content in accordance with whatever license under which the work has been made available.  
     With both text content and non-text media, you agree to clearly indicate that the original work has been modified. If you are reusing text content in a wiki, it is sufficient to indicate in the page history that you made a change to the imported text. For each copy or modified version that you distribute, you agree to include a licensing notice stating which license the work is released under, along with either a hyperlink or URL to the text of the license or a copy of the license itself.
 
-8\. DMCA Compliance
--------------------
+8\. Copyright Compliance
+------------------------
+
+**Global Copyright Compliance**
+
+If you believe that content on Wikipedia violates intellectual property rights, it can be reported to the Wikimedia Foundation following our illegal content reporting process (see section 10 below).
+
+Please note that due to the harmonization of international copyright law, in many cases it will be possible to submit a notice of copyright violation under either your local law or US law. To be valid under US law, a copyright notice must follow the requirements of the DMCA, listed below.
+
+We will terminate, in appropriate circumstances, users and account holders of our system and network who are repeat infringers on our Projects and services.
+
+**DMCA Compliance**
 
 The Wikimedia Foundation wants to ensure that the content that we host can be reused by other users without fear of liability and that it is not infringing the proprietary rights of others. In fairness to our users, as well as to other creators and copyright holders, our policy is to respond to notices of alleged infringement that comply with the formalities of the Digital Millennium Copyright Act ("DMCA"). Pursuant to the DMCA, we will terminate, in appropriate circumstances, users and account holders of our system and network who are repeat infringers on our Projects and services.
 
@@ -382,8 +391,9 @@ You are solely responsible for your use of any third-party websites or resources
 
 The community has the primary role in creating and enforcing policies applying to the different Project editions. At the Wikimedia Foundation, we rarely intervene in community decisions about policy and its enforcement.
 
-It is possible to notify us of illegal content, or content that violates our Terms of Use (including all policies and other documents incorporated by reference) for other reasons [by contacting us directly](https://wikimediafoundation.org/about/contact/ "foundationsite:about/contact/"). However, you can typically make a request directly to the Project's community: this may be more efficient, and is more consistent with our Projects' aim to empower the user community.
+It is possible to notify us of illegal content, or content that violates our Terms of Use (including all policies and other documents incorporated by reference) for other reasons [by contacting us directly](https://wikimediafoundation.org/about/contact/ "foundationsite:about/contact/"). However, you can typically make a request directly to the Project's community: this may be more efficient, and is more consistent with our Projects' aim to empower the user community. Please note that this contact method functions as the Foundation’s grievance redressal mechanism for all jurisdictions that require one. Grievances submitted through this contact will be reviewed, in accordance with applicable legal requirements.
 
+  
 Each Project will usually provide "Help" or "Contact" pages for further guidance, or specific tools for reporting issues. Alternatively – if in doubt – you can ask members of the community for help, by sending an email to info![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org or a more language-specific address from the [Volunteer Response Team page](https://meta.wikimedia.org/wiki/Special:MyLanguage/Volunteer_Response_Team "m:Special:MyLanguage/Volunteer Response Team"). Please note that these mailboxes are monitored by users of the Projects, not the Foundation. As a result, they should not be threatened or issued with legal demands.
 
 If you contact the Foundation with a problem, we will typically explore whether and how existing community-led mechanisms can investigate and, where appropriate, resolve it.
@@ -409,7 +419,9 @@ The blocking of an account or access or the banning of a user under this provisi
 
 If you believe we have not satisfactorily acted on a problematic content report, or if you have been subjected to a Foundation moderation action that you wish to challenge, you may be able to [submit an appeal](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Policy:Office_actions#appeals "Special:MyLanguage/Policy:Office actions").  Other information about routes of appeal may also be explained to you at the time, or in Project-specific help pages.
 
-We reserve the right to suspend (temporarily, or permanently) our handling of reports or other correspondence from users or third parties, whether about allegedly illegal or otherwise problematic content or conduct, or requesting appeals against moderation actions, if such correspondence was made in bad faith, repetitive, unfounded, and/or abusive. In appropriate circumstances, your email address may even be blocked on our email system(s), and you will then need to contact us [at our postal address](https://wikimediafoundation.org/about/contact/ "foundationsite:about/contact/") if you wish to further correspond with us during that block. For less serious cases (e.g. up to three polite emails about one or more meritless complaints), this is likely to be temporary. More frequent or more abusive communications are more likely to lead to permanent measures.
+We reserve the right to suspend (temporarily, or permanently) our handling of reports or other correspondence from users or third parties, whether about allegedly illegal or otherwise problematic content or conduct, or requesting appeals against moderation actions, if such correspondence was made in bad faith, repetitive, unfounded, and/or abusive. In appropriate circumstances, your email address may even be blocked on our email system(s), and you will then need to contact us [at our postal address](https://wikimediafoundation.org/about/contact/ "foundationsite:about/contact/") if you wish to further correspond with us during that block. For less serious cases (e.g. up to three polite emails about one or more meritless complaints), this is likely to be temporary. More frequent or more abusive communications are more likely to lead to permanent measures. Additional information for persons in the EU can be found on [our page about EU compliance and reporting](https://foundation.wikimedia.org/wiki/Special:MyLanguage/Legal:Wikimedia_Foundation_EU_Compliance "Special:MyLanguage/Legal:Wikimedia Foundation EU Compliance").
+
+  
 
 11\. Resolutions and Project Policies
 -------------------------------------
@@ -433,7 +445,7 @@ _Highlighted for emphasis_
 
 We hope that no serious disagreements arise involving you, but, in the event there is a dispute, we encourage you to seek resolution through the dispute resolution procedures or mechanisms provided by the Projects or Project editions and the Wikimedia Foundation. If you seek to file a legal claim against us, you agree to file and resolve it exclusively in a state or federal court located in San Francisco County, California. You also agree that the laws of the State of California and, to the extent applicable, the laws of the United States of America will govern these Terms of Use, as well as any legal claim that might arise between you and us (without reference to conflict of laws principles). You agree to submit to the personal jurisdiction of, and agree that venue is proper in, the courts located in San Francisco County, California, in any legal action or proceeding relating to us or these Terms of Use.
 
-To ensure that disputes are dealt with soon after they arise, you agree that regardless of any statute or law to the contrary, any claim or cause of action you might have arising out of or related to use of our services or these Terms of Use must be filed within the applicable statute of limitations or, if earlier, one (1) year after the pertinent facts underlying such claim or cause of action could have been discovered with reasonable diligence (or be forever barred).
+To ensure that disputes are dealt with soon after they arise, you agree that regardless of any statute or law to the contrary, any claim or cause of action you might have arising out of or related to use of our services or these Terms of Use must be filed within the applicable statute of limitations or, if earlier, one (1) year after the pertinent facts underlying such claim or cause of action could have been discovered with reasonable diligence (or be forever barred). If "choice of forum" clauses like the one above are not accepted by the courts where you normally reside, then (i) our choice of forum clause, above, shall be ignored, and (ii) you can refer any dispute to the courts of the jurisdiction where you normally live, following the applicable law rules of those courts. Similarly, if applicable law does not allow the enforcement of the choice of law in this section, then you can resolve a dispute according to the choice of law rules in the court of competent jurisdiction.
 
 **Marketing Company Mediations** As described in section 4 of these Terms of Use, you agree to resolve violations of the Paid Contributions without Disclosure in a Marketing Company Mediation at the Foundation's discretion. Marketing Company Mediations are **binding** mediations where, at the end of either a half or full day session, any disputed items that remain unresolved will be decided by the mediator in a legally binding decision. They will be conducted in meetings by teleconference or videoconference. If an in-person meeting is required, then the Marketing Company Mediation will take place in San Francisco County, California. The parties will split all fees and expenses related to the mediation/arbitration equally.
 
@@ -506,7 +518,7 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=503835](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=503835)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=515959](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=515959)"
 
 [Categories](https://foundation.wikimedia.org/wiki/Special:Categories "Special:Categories"):
 
