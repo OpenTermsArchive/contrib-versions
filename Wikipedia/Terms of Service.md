@@ -121,7 +121,7 @@ Certain activities, whether legal or illegal under the applicable law, may be ha
 
 **Violating the Privacy of Others**
 
-* Infringing the privacy rights of others under the laws of the United States of America or other applicable laws (which may include the laws where you live or where you view or edit content);
+* Infringing the privacy rights of others under applicable laws (which may include the laws where you live or where you view or edit content);
 * Soliciting personally identifiable information for the purposes of harassment, exploitation, or violation of privacy, or for any promotional or commercial purpose not explicitly approved by the Wikimedia Foundation; and
 * Soliciting personally identifiable information from anyone under the age of 18 years, or under the age of majority where you are if higher than 18 years, for an illegal purpose or violating any applicable law regarding the health or well-being of minors.
 
@@ -172,11 +172,10 @@ Certain activities, whether legal or illegal under the applicable law, may be ha
 
 For more information, please read our .
 
-We reserve the right to exercise our enforcement discretion with respect to the provisions in section 4 of these Terms of Use. Where required, enforcement of these terms may include actions not listed in the Wikimedia Foundation . If enforcement is required in new circumstances, we will make an effort within at most one (1) year to update the Office Action Policy to catalog the new type of action.
-
-**Marketing Company Mediations**
-
+  
 Undisclosed editing by users receiving compensation creates an unreasonable burden on volunteer editors . Therefore, for violations of this section related to undisclosed paid editing, you agree to submit to binding "Med-Arb" (a "Marketing Company Mediation") as described in section 14 of these Terms of Use.
+
+We reserve the right to exercise our enforcement discretion with respect to the provisions in section 4 of these Terms of Use. Where required, enforcement of these terms may include actions not listed in the Wikimedia Foundation . If enforcement is required in new circumstances, we will make an effort within at most one (1) year to update the Office Action Policy to catalog the new type of action.
 
 5\. Password Security
 ---------------------
@@ -227,8 +226,18 @@ You agree to the following licensing requirements:
     When modifying or making additions to any non-text media that you have obtained from a Project website, you agree to license the modified or added content in accordance with whatever license under which the work has been made available.  
     With both text content and non-text media, you agree to clearly indicate that the original work has been modified. If you are reusing text content in a wiki, it is sufficient to indicate in the page history that you made a change to the imported text. For each copy or modified version that you distribute, you agree to include a licensing notice stating which license the work is released under, along with either a hyperlink or URL to the text of the license or a copy of the license itself.
 
-8\. DMCA Compliance
--------------------
+8\. Copyright Compliance
+------------------------
+
+**Global Copyright Compliance**
+
+If you believe that content on Wikipedia violates intellectual property rights, it can be reported to the Wikimedia Foundation following our illegal content reporting process (see section 10 below).
+
+Please note that due to the harmonization of international copyright law, in many cases it will be possible to submit a notice of copyright violation under either your local law or US law. To be valid under US law, a copyright notice must follow the requirements of the DMCA, listed below.
+
+We will terminate, in appropriate circumstances, users and account holders of our system and network who are repeat infringers on our Projects and services.
+
+**DMCA Compliance**
 
 The Wikimedia Foundation wants to ensure that the content that we host can be reused by other users without fear of liability and that it is not infringing the proprietary rights of others. In fairness to our users, as well as to other creators and copyright holders, our policy is to respond to notices of alleged infringement that comply with the formalities of the Digital Millennium Copyright Act ("DMCA"). Pursuant to the DMCA, we will terminate, in appropriate circumstances, users and account holders of our system and network who are repeat infringers on our Projects and services.
 
@@ -248,8 +257,9 @@ You are solely responsible for your use of any third-party websites or resources
 
 The community has the primary role in creating and enforcing policies applying to the different Project editions. At the Wikimedia Foundation, we rarely intervene in community decisions about policy and its enforcement.
 
-It is possible to notify us of illegal content, or content that violates our Terms of Use (including all policies and other documents incorporated by reference) for other reasons . However, you can typically make a request directly to the Project's community: this may be more efficient, and is more consistent with our Projects' aim to empower the user community.
+It is possible to notify us of illegal content, or content that violates our Terms of Use (including all policies and other documents incorporated by reference) for other reasons . However, you can typically make a request directly to the Project's community: this may be more efficient, and is more consistent with our Projects' aim to empower the user community. Please note that this contact method functions as the Foundation’s grievance redressal mechanism for all jurisdictions that require one. Grievances submitted through this contact will be reviewed, in accordance with applicable legal requirements.
 
+  
 Each Project will usually provide "Help" or "Contact" pages for further guidance, or specific tools for reporting issues. Alternatively – if in doubt – you can ask members of the community for help, by sending an email to info![@](//upload.wikimedia.org/wikipedia/commons/thumb/8/88/At_sign.svg/20px-At_sign.svg.png)wikimedia![.](//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Dot.svg/4px-Dot.svg.png)org or a more language-specific address from the . Please note that these mailboxes are monitored by users of the Projects, not the Foundation. As a result, they should not be threatened or issued with legal demands.
 
 If you contact the Foundation with a problem, we will typically explore whether and how existing community-led mechanisms can investigate and, where appropriate, resolve it.
@@ -275,7 +285,9 @@ The blocking of an account or access or the banning of a user under this provisi
 
 If you believe we have not satisfactorily acted on a problematic content report, or if you have been subjected to a Foundation moderation action that you wish to challenge, you may be able to .  Other information about routes of appeal may also be explained to you at the time, or in Project-specific help pages.
 
-We reserve the right to suspend (temporarily, or permanently) our handling of reports or other correspondence from users or third parties, whether about allegedly illegal or otherwise problematic content or conduct, or requesting appeals against moderation actions, if such correspondence was made in bad faith, repetitive, unfounded, and/or abusive. In appropriate circumstances, your email address may even be blocked on our email system(s), and you will then need to contact us if you wish to further correspond with us during that block. For less serious cases (e.g. up to three polite emails about one or more meritless complaints), this is likely to be temporary. More frequent or more abusive communications are more likely to lead to permanent measures.
+We reserve the right to suspend (temporarily, or permanently) our handling of reports or other correspondence from users or third parties, whether about allegedly illegal or otherwise problematic content or conduct, or requesting appeals against moderation actions, if such correspondence was made in bad faith, repetitive, unfounded, and/or abusive. In appropriate circumstances, your email address may even be blocked on our email system(s), and you will then need to contact us if you wish to further correspond with us during that block. For less serious cases (e.g. up to three polite emails about one or more meritless complaints), this is likely to be temporary. More frequent or more abusive communications are more likely to lead to permanent measures. Additional information for persons in the EU can be found on .
+
+  
 
 11\. Resolutions and Project Policies
 -------------------------------------
@@ -299,7 +311,7 @@ _Highlighted for emphasis_
 
 We hope that no serious disagreements arise involving you, but, in the event there is a dispute, we encourage you to seek resolution through the dispute resolution procedures or mechanisms provided by the Projects or Project editions and the Wikimedia Foundation. If you seek to file a legal claim against us, you agree to file and resolve it exclusively in a state or federal court located in San Francisco County, California. You also agree that the laws of the State of California and, to the extent applicable, the laws of the United States of America will govern these Terms of Use, as well as any legal claim that might arise between you and us (without reference to conflict of laws principles). You agree to submit to the personal jurisdiction of, and agree that venue is proper in, the courts located in San Francisco County, California, in any legal action or proceeding relating to us or these Terms of Use.
 
-To ensure that disputes are dealt with soon after they arise, you agree that regardless of any statute or law to the contrary, any claim or cause of action you might have arising out of or related to use of our services or these Terms of Use must be filed within the applicable statute of limitations or, if earlier, one (1) year after the pertinent facts underlying such claim or cause of action could have been discovered with reasonable diligence (or be forever barred).
+To ensure that disputes are dealt with soon after they arise, you agree that regardless of any statute or law to the contrary, any claim or cause of action you might have arising out of or related to use of our services or these Terms of Use must be filed within the applicable statute of limitations or, if earlier, one (1) year after the pertinent facts underlying such claim or cause of action could have been discovered with reasonable diligence (or be forever barred). If "choice of forum" clauses like the one above are not accepted by the courts where you normally reside, then (i) our choice of forum clause, above, shall be ignored, and (ii) you can refer any dispute to the courts of the jurisdiction where you normally live, following the applicable law rules of those courts. Similarly, if applicable law does not allow the enforcement of the choice of law in this section, then you can resolve a dispute according to the choice of law rules in the court of competent jurisdiction.
 
 **Marketing Company Mediations** As described in section 4 of these Terms of Use, you agree to resolve violations of the Paid Contributions without Disclosure in a Marketing Company Mediation at the Foundation's discretion. Marketing Company Mediations are **binding** mediations where, at the end of either a half or full day session, any disputed items that remain unresolved will be decided by the mediator in a legally binding decision. They will be conducted in meetings by teleconference or videoconference. If an in-person meeting is required, then the Marketing Company Mediation will take place in San Francisco County, California. The parties will split all fees and expenses related to the mediation/arbitration equally.
 
@@ -372,6 +384,6 @@ We appreciate your taking the time to read these Terms of Use, and we are very h
 
 ![](https://foundation.wikimedia.org/wiki/Special:CentralAutoLogin/start?type=1x1&usesul3=1)
 
-Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=503835](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=503835)"
+Retrieved from "[https://foundation.wikimedia.org/w/index.php?title=Policy:Terms\_of\_Use&oldid=515959](https://foundation.wikimedia.org/w/index.php?title=Policy:Terms_of_Use&oldid=515959)"
 
 :
