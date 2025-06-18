@@ -174,7 +174,7 @@ Other languages:
 * [ქართული](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ka "Policy:Terms of Use/ka (43% translated)")
 * [ភាសាខ្មែរ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/km "Policy:Terms of Use/km (5% translated)")
 * [ᱥᱟᱱᱛᱟᱲᱤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sat "Policy:Terms of Use/sat (4% translated)")
-* [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "Policy:Terms of Use/zh (94% translated)")
+* [中文](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/zh "Policy:Terms of Use/zh (96% translated)")
 * [日本語](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ja "Policy:Terms of Use/ja (94% translated)")
 * [閩南語 / Bân-lâm-gú](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nan "Policy:Terms of Use/nan (18% translated)")
 * [ꠍꠤꠟꠐꠤ](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/syl "Policy:Terms of Use/syl (16% translated)")
