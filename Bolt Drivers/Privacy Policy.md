@@ -24,6 +24,7 @@ Bolt Ireland - as the entity in charge of the taxi dispatching in Ireland - is d
 * The financial data of providing transportation services is not considered as personal data, because Drivers provide services in the course of economic and professional activities.
 * Communication and correspondence records: such as when the driver engages with our in-app chat ("Send a Message" option), or speak with our customer service agents, the date and time of the communication, and its content.
 * Information required under applicable law for taxation purposes: such as your taxpayer identification number, VAT ID, place of birth, financial account identifier, information of each Member State in which you are a resident.
+* User generated content: such as audio recordings generated during the trip (as part of our safety toolkit trip audio recording feature, where such feature is available - for more information, please visit https://bolt.eu/en-ie/blog/new-audio-trip-recording-feature), or any other content submitted like pictures, videos or files in connection with a customer support request.
 
 ****2\. Purposes of the processing****
 
@@ -80,6 +81,9 @@ Bolt Ireland - as the entity in charge of the taxi dispatching in Ireland - is d
 * Journey history data will be stored for 3 years, after which the data will be anonymized.
 * Please note that the deinstallation of Bolt app in your device does not cause the deletion of your personal data.
 * If the Bolt app has not been used for 3 years, you will be notified and asked whether the account is still active. If no reply is received, the account will be closed and personal data will be deleted unless such data is required to be stored for accounting, dispute resolution or fraud prevention purposes.
+* The retention period for audio recording data generated through our Audio Trip Recording Feature is:
+* * 24 hours, while stored locally on the device of the person who generates the recording. The recordings are automatically deleted after 24 hours if a report to Bolt’s customer support team is not created and the recording is not explicitly shared with Bolt’s customer support team as part of the report.
+    * Recordings shared and investigated by Bolt will be automatically deleted after 7 days unless the retention period is manually extended for investigation/legal reasons.
 
 ****9\. Deletion****
 
@@ -103,4 +107,4 @@ We will respond to any request for transfer of personal data submitted by e-mail
 * Disputes relating to the processing of personal data are resolved through customer support (for matters relating to Bolt Head Office: [info@bolt.eu](mailto:info@bolt.eu); for matters relating to Bolt Ireland: [dublin@bolt.eu](mailto:dublin@bolt.eu)) or by contacting Bolt’s Data Protection Officer ([privacy@bolt.eu](mailto:privacy@bolt.eu)).
 * In case you believe that the data processing is unlawful, you are entitled to start the procedure before the Irish Data Protection Commission (Postal address: Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland; web contact: [https://forms.dataprotection.ie/contact ↗](https://forms.dataprotection.ie/contact)) and initiate judicial proceedings or before the Estonian Data Protection Inspectorate ([www.aki.ee ↗](https://www.aki.ee/)) which can be contacted by email: [info@aki.ee](mailto:info@aki.ee).
 
-This privacy notice was last updated on 28 December 2022.
+This privacy notice was last updated on 18 June 2025.
