@@ -39,7 +39,7 @@ To see the Privacy policy applicable to the Outbrain Business Partners, please n
 Site Visitors Privacy Policy
 ----------------------------
 
-You are considered an Outbrain Site Visitor when you visit and interact with any of our websites, namely Outbrain.com (or any derivation, such as, outbrain.co.uk, outbrain.fr, outbrain.de, [https://www.zemanta.com/](https://www.zemanta.com/) etc.).
+You are considered an Outbrain Site Visitor when you visit and interact with any of our websites, namely Outbrain.com (or any derivation, such as, [www.zemanta.com](https://www.zemanta.com/) etc.).
 
 To see the Privacy policy applicable to the Outbrain Business Partners, please navigate [here](https://www.outbrain.com/privacy/site-visitor-policy/).
 
