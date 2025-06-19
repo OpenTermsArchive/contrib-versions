@@ -394,8 +394,8 @@ On this page
 * [Features](https://ubuntu.com/landscape/features)
 * [Managed](https://ubuntu.com/landscape/managed)
 * [Compare](https://ubuntu.com/landscape/compare)
-* [Install](https://ubuntu.com/landscape/docs/quickstart-deployment)
-* [Docs](https://ubuntu.com/landscape/docs)
+* [Install](https://documentation.ubuntu.com/landscape/how-to-guides/landscape-installation-and-set-up/quickstart-installation/)
+* [Docs](https://documentation.ubuntu.com/landscape)
 * [Log in to Landscape](https://landscape.canonical.com/)
 
 * * *
