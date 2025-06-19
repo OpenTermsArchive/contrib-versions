@@ -1,4 +1,4 @@
-_Last Updated: 9 May 2025_
+_Last Updated: 13 June 2025_
 
 For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/en-gb/legal/privacy/us-notice).  
  
@@ -48,13 +48,14 @@ The minimum information required for entering into a contract governing your use
 
 **The information that we collect from you is as follows:**
 
-* Full name, residential address and contact details (e.g. email address, telephone number etc.), date of birth, place of birth, gender, citizenship (“**Biographical information and contact information**”);
+* Full name, residential address and contact details (e.g. email address, telephone number etc.), date of birth, place of birth, gender, residency, citizenship (“**Biographical information and contact information**”);
 * Bank account information, wallet addresses, credit card details, details about your source of funds, assets and liabilities, and information relating to economic and trade sanctions lists (“**Financial information**”);
 * Trading account balances, trading activity (such as whether you participate in Kraken's VIP program, and custodial activity) (“**Trading information**”);
 * Information on whether you (or someone close to you) holds a prominent public function (“**PEP information**”);
 * Verification information, which includes information necessary to verify your identity such as a passport, driver’s licence, selfie photos / videos, login credentials or Government-issued identity card, which may be processed using technologies that extract biometric data (“**Verification information**”);
 * Information collected when you interact with our support service channels, including online chat, phone call, email, direct message or other communication means (“**Support service communications**”);
-* Kraken Pay Service information, including Kraktag (Kraken Pay username), profile picture, email address, name, phone number, phone contacts (if enabled), display name, transaction records, user generated content such as payment descriptions, comments and attachments **(**“**Kraken Pay Service information**”**)**;
+* Kraken Pay Service information, including Kraktag (Kraken Pay username), profile picture, email address, name, phone number, phone contacts (if enabled), display name, Kraken Pay Service transaction records, user generated content such as payment descriptions, comments and attachments **(**“**Kraken Pay Service information**”**)**;
+* Krak card information, including card details such as PAN (Primary Account Number), card issuer ID and Krak card transaction records **(“Krak card information”)**;
 * On-chain attestations, such as DeFi trading volume, liquidity provision, transaction metrics, verification status of a wallet (e.g., whether it is associated with a Kraken account), wallet addresses used for attestations, metadata related to attestations, such as timestamps and schema details (“**Attestation information**”);
 * Other personal data or commercial and/or identification information – Information we, in our sole discretion, deem necessary to comply with our legal obligations under various AML obligations, such as under the European Union’s 5th AML Directive, the UK’s Money Laundering Regulations 2017, and the U.S. Bank Secrecy Act (“**Other information**”).
 
@@ -69,6 +70,7 @@ We also receive information about you from third parties such as your payment pr
 
 * The banks you use to transfer money to us will provide us with your basic personal data, such as your name and address, as well as your financial information such as your bank account details.
 * Your business partners may provide us with your name and address, as well as financial information.
+* Our card-issuing partner provides us with Krak card transaction details and fraud-risk signals so that we can show you your transactions, investigate disputes and comply with our regulatory obligations.
 * Advertising networks, analytics providers and search information providers may provide us with anonymised or de-identified information about you, such as confirming how you found our website. 
 * Our service providers may provide us with information relating to fraud, security, sanctions and AML and other risks, for example, confirmation of identity attributes, and information about any attributes linked to such matters. 
 * Credit reference agencies may provide us with your personal data during the credit referencing process.
@@ -80,11 +82,15 @@ We also receive information about you from third parties such as your payment pr
 **7\. Disclosure of your personal data**
 ----------------------------------------
 
-As part of processing your personal data for the purposes set out above, Kraken may disclose your personal data to any members of the Kraken company group, and to third parties. For example, Kraken may disclose your personal data to any of our service providers and business partners, for business or other legitimate purposes, such as specialist advisors who have been contracted to provide us with administrative, financial, legal, tax, compliance, insurance, IT, debt-recovery, analytics, research or other services. Depending on your jurisdiction, Kraken may disclose your personal data to telecommunication providers or mobile network operators for the purpose of identity verification.
+As part of the processing activities described above, Kraken may share your personal data within the Kraken company group and with carefully selected third parties. We only disclose data for legitimate purposes and when it is lawful to do so, and we require each recipient to process the data in line with applicable data protection laws.
+
+Kraken uses third party service providers for operational support in areas including, but not limited to: administrative, financial, legal, tax, payment card issuance and processing, compliance, insurance, IT, debt-recovery, marketing, analytics and research. Depending on your jurisdiction, we may disclose your personal data to telecommunication providers or mobile network operators for the purpose of identity verification.
+
+In certain circumstances, third parties to whom we disclose your personal data, may act as independent data controllers for specific processing activities. For example, our card-issuing partner acts as an independent controller when processing Krak card information for fraud prevention and AML checks as well as to comply with their other regulatory obligations.
 
 If Kraken discloses your personal data to service providers and business partners, in order to perform the services requested by clients or to comply with our legal and regulatory obligations, such providers and partners may store your personal data within their own systems. We require them to protect the confidentiality of this personal data, and comply with all relevant privacy and data protection laws.
 
-Kraken may also disclose personal data when it is compelled by law, for example to a government agency as a result of a valid court order.
+Kraken may also disclose personal data when it is compelled by law, for example to a government agency as a result of a valid court order. Kraken may also disclose your data in the event of a prospective merger, acquisition, or sale of all or part of our business or assets.
 
 On-chain attestations are publicly available and may be accessed by third parties via blockchain explorers and APIs. Kraken does not control or restrict third-party access to on-chain attestation data.
 
@@ -128,7 +134,7 @@ Kraken retains attestation-related data for operational security and integrity p
 **12\. Cookies**
 ----------------
 
-Cookies are small text files that provide information regarding the device used by a visitor. Click on Cookie Settings in the footer of this page for additional detail on the types of cookies this website uses and why, and to adjust your Cookie Settings. Cookie information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies although doing so may impact website functionality.
+Cookies are small text files that provide information regarding the device used by a visitor. Click on Cookie Settings in the footer of this page for additional detail on the types of cookies and similar technologies this website uses and why, and to adjust your Cookie Settings. Cookie information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies and similar technologies although doing so may impact website functionality.
 
 **13\. Your rights regarding your personal data**
 -------------------------------------------------
