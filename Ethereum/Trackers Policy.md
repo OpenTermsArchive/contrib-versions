@@ -27,11 +27,11 @@ Except for essential cookies, all cookies will expire after two years.
 
 Page last update: August 8, 2024
 
-[c(opens in a new tab)](https://github.com/cratiu222)
+[copens in a new tab](https://github.com/cratiu222)
 
-[n(opens in a new tab)](https://github.com/nhsz)
+[nopens in a new tab](https://github.com/nhsz)
 
-[w(opens in a new tab)](https://github.com/wackerow)
+[wopens in a new tab](https://github.com/wackerow)
 
 +3
 
