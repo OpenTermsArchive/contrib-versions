@@ -410,8 +410,8 @@ U.S. RESIDENTS ALSO AGREE TO THE FOLLOWING MANDATORY ARBITRATION AND CLASS ACTIO
 **14.12 Notice.** Except as otherwise provided in this Agreement, all notices to NextRoll must be delivered in writing by courier, certified or registered mail (postage prepaid and return receipt requested):  
 
 NextRoll, Inc.  
-2300 Harrison Street, FL 2  
-San Francisco, CA 94110  
+71 Stevenson St, Suite 403  
+San Francisco, CA 94105  
 U.S.A.  
 Attn: Legal Department
 
