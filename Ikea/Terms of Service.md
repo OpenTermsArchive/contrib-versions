@@ -1,3 +1,6 @@
+1. [Customer services](https://www.ikea.com/ie/en/customer-service/)
+2. Terms and Conditions
+
 Terms and Conditions
 ====================
 
@@ -35,6 +38,10 @@ If you have any questions about these terms and conditions or the policies pleas
 * [Re-shop and Re-use Online Terms & Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/circular-hub-online-terms-and-conditions-pubc376f160/)
 * [IKEA interior design service Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-interior-design-service-terms-and-conditions-pub9832e411/)
 * [IKEA Buyback & Resell service Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/ikea-buy-back-service-terms-and-conditions-pub9e989950/)
+
+1. [Customer services](https://www.ikea.com/ie/en/customer-service/)
+2. [Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/)
+3. Terms of use
 
 Terms of use
 ============
@@ -93,6 +100,10 @@ If you have any questions about anything on this website you can **[contact us](
 Date updated: **05/04/2018**
 
 * * *
+
+1. [Customer services](https://www.ikea.com/ie/en/customer-service/)
+2. [Terms and Conditions](https://www.ikea.com/ie/en/customer-service/terms-conditions/)
+3. General Terms and Conditions
 
 General Terms and Conditions
 ============================
