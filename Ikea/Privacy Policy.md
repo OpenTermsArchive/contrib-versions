@@ -1,3 +1,6 @@
+1. [Customer services](https://www.ikea.com/ie/en/customer-service/)
+2. Privacy policy
+
 Privacy policy
 ==============
 
