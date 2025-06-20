@@ -270,7 +270,7 @@ On this page
 Sectors
 -------
 
-* [Automotive](https://ubuntu.com/automotive)
+* [Automotive](https://canonical.com/solutions/automotive)
 * [Industrial](https://ubuntu.com/industrial)
 * [Government](https://ubuntu.com/gov)
 * [Telco](https://canonical.com/solutions/telco)
