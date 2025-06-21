@@ -1,11 +1,11 @@
 Stack Exchange, Inc. Privacy Policy
 -----------------------------------
 
-Last updated: July 25, 2024
+Last updated: June 18, 2025
 
 ABOUT STACK OVERFLOW
 
-The Stack Overflow Network (also referred to herein as “Stack Overflow” or “Network”) is a set of related Internet sites and other applications for asynchronous collaboration and sharing knowledge, owned and operated by Stack Exchange, Inc. (“Stack Overflow”, “we” or “us”), a Delaware corporation.
+The Stack Overflow Network (also referred to herein as “Stack Overflow” or “Network”) is a set of related Internet sites and other applications for asynchronous collaboration and sharing knowledge, owned and operated by Stack Exchange, Inc. (“Stack Overflow”, “we” or “us”), a Delaware corporation. As of 6/18/25, this policy also applies to all use of [stackoverflow.ai](https://stackoverflow.ai/) and its related sites and services (“Services”). For the purpose of applying this policy to the Services, “Network” means “Services” as defined in the [Stackoverflow.ai Terms of Use](https://policies.stackoverflow.co/services/stackoverflow-ai-terms-of-use/).
 
 Stack Overflow welcomes you to the Network, the largest community of developers and technologists in the world, and invites you to participate in the community by sharing knowledge with your peers and colleagues.
 
