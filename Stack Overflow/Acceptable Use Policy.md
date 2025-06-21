@@ -1,7 +1,7 @@
 Stack Exchange Network Acceptable Use Policy
 --------------------------------------------
 
-The intent of this Acceptable Use Policy (“AUP”) is to clarify what we at Stack Exchange, Inc. (“Stack Exchange”, “we” or “us”) consider to be acceptable use of any website or service provided on Stack Exchange’s set of related Internet sites and other applications for contributed and curated content (the “Network”).
+The intent of this Acceptable Use Policy (“AUP”) is to clarify what we at Stack Exchange, Inc. (“Stack Exchange”, “we” or “us”) consider to be acceptable use of any website or service provided on Stack Exchange’s set of related Internet sites and other applications for contributed and curated content (the “Network”). As of 6/18/25, this policy also applies to all use of [stackoverflow.ai](https://stackoverflow.ai/) and its related sites and services (“Services”). For the purpose of applying this policy to the Services, “Network” means “Services” as defined in the [Stackoverflow.ai Terms of Use](https://policies.stackoverflow.co/services/stackoverflow-ai-terms-of-use/).
 
 If you are found to be in violation of any of the below sections, your access to the Network may be restricted or terminated without notice, and your content may be removed at our discretion. When it is possible to do so, Stack Exchange will make a good-faith effort to provide you with advance notice of actions we take under this AUP, and we will do our best to work with you and ensure a fair outcome in all cases. You may appeal any action we take under this AUP via our [contact form.](https://stackoverflow.com/contact)
 
