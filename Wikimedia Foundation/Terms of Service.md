@@ -112,7 +112,7 @@ Other languages:
 * [kurdî](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ku "Policy:Terms of Use/ku (3% translated)")
 * [latviešu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lv "Policy:Terms of Use/lv (94% translated)")
 * [lietuvių](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/lt "Policy:Terms of Use/lt (94% translated)")
-* [magyar](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hu "Policy:Terms of Use/hu (94% translated)")
+* [magyar](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/hu "Policy:Terms of Use/hu (96% translated)")
 * [norsk bokmål](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/nb "Policy:Terms of Use/nb (29% translated)")
 * [occitan](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/oc "Policy:Terms of Use/oc (9% translated)")
 * [polski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/pl "Policy:Terms of Use/pl (94% translated)")
