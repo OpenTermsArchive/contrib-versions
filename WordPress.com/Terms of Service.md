@@ -225,8 +225,6 @@ By default, information you include in your Gravatar is public, including your e
 
 ### c. Woo
 
-**Prohibited Uses.** Your Content and conduct must not violate the [Gravatar User Guidelines](https://support.gravatar.com/gravatar-user-guidelines/).**Prohibited Uses.** Your Content and conduct must not violate the [Gravatar User Guidelines](https://support.gravatar.com/gravatar-user-guidelines/).
-
 Woo is an open source, customizable ecommerce platform. The Services we offer at WooCommerce.com give you the power to sell your products and services in whatever way your business needs.
 
 Your use of certain Services offered via Woo, like those related to tax calculation, payment, and shipping, may require a Jetpack connection to function. If you enable those features, the Jetpack-specific terms also apply.
