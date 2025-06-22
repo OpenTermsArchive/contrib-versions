@@ -101,7 +101,7 @@ Other languages:
 * [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Terms of Use/ca (82% translated)")
 * [dansk](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/da "Policy:Terms of Use/da (94% translated)")
 * [eesti](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/et "Policy:Terms of Use/et (94% translated)")
-* [español](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es "Policy:Terms of Use/es (94% translated)")
+* [español](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/es "Policy:Terms of Use/es (100% translated)")
 * [euskara](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/eu "Policy:Terms of Use/eu (6% translated)")
 * [français](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fr "Policy:Terms of Use/fr (100% translated)")
 * [français cadien](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/frc "Policy:Terms of Use/frc (3% translated)")
