@@ -68,7 +68,7 @@ Other languages:
 
 * [](https://foundation.wikimedia.org/w/index.php?title=Special:Translate&group=page-Policy%3ATerms+of+Use&language=&task=view "Start translation for this language")
 * [Afrikaans](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/af "Policy:Terms of Use/af (5% translated)")
-* [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Policy:Terms of Use/id (59% translated)")
+* [Bahasa Indonesia](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/id "Policy:Terms of Use/id (73% translated)")
 * [Bahasa Melayu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ms "Policy:Terms of Use/ms (3% translated)")
 * [Cymraeg](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cy "Policy:Terms of Use/cy (5% translated)")
 * [Deutsch](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/de "Policy:Terms of Use/de (100% translated)")
@@ -124,7 +124,7 @@ Other languages:
 * [slovenčina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sk "Policy:Terms of Use/sk (94% translated)")
 * [slovenščina](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sl "Policy:Terms of Use/sl (94% translated)")
 * [suomi](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/fi "Policy:Terms of Use/fi (94% translated)")
-* [svenska](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sv "Policy:Terms of Use/sv (98% translated)")
+* [svenska](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/sv "Policy:Terms of Use/sv (100% translated)")
 * [vèneto](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/vec "Policy:Terms of Use/vec (3% translated)")
 * [íslenska](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/is "Policy:Terms of Use/is (2% translated)")
 * [čeština](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/cs "Policy:Terms of Use/cs (94% translated)")
