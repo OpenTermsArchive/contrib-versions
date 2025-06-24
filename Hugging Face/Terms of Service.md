@@ -30,7 +30,7 @@ We may also post and update [supplemental terms](https://cdn-media.huggingface.c
 
 "**Agreement**" or "**Terms**" refer to all of the terms and conditions that apply between us. They include these Terms, Supplemental Terms, notices and policies available at [https://huggingface.co](https://huggingface.co/), and/or any other binding document that we provide and/or that you sign, including but not limited to an Order Form, a Scope of Work or a Master Services Agreement.
 
-"**Inference API**" refers to hosted services available on [https://huggingface.co](https://huggingface.co/) that let you, individuals, companies or organizations, run inference via application programming interface on machine learning models publicly or privately hosted on Hugging Face's model hub.
+"**Inference Providers**" refers to hosted services available on [https://huggingface.co](https://huggingface.co/) that let you, individuals, companies or organizations, run inference via application programming interface on machine learning models publicly or privately hosted on Hugging Face's model hub.
 
 "**Content**" refers to any material posted, displayed, or accessed on our Website or Hub, including but not limited to code, data, text, graphics, images, applications, or software you, we, or any third party provide or make available.
 
@@ -60,7 +60,7 @@ We may also post and update [supplemental terms](https://cdn-media.huggingface.c
 
 **"Repository"** refers to a data structure which contains all of the project files and the entire revision history. A Repository may be public (i.e. anyone on the internet can see it, but only you or members of your organization can make changes) or private (i.e. only you or members of your organization can see and make changes to the repository).
 
-"**Services**" refer to the products and/or services we offer or provide, and that you access, use or purchase. Services may include limited licenses or subscriptions to access or use certain offerings in accordance with these Terms, including use of Models, Datasets, Hugging Face Open-Sources Libraries, the Inference API, AutoTrain, Expert Support, Infinity or other Content. Reference to "purchases" and/or "sales" mean a limited right to access and use a Service (not a transfer or any ownership right, title, or interest) in accordance with these Terms.
+"**Services**" refer to the products and/or services we offer or provide, and that you access, use or purchase. Services may include limited licenses or subscriptions to access or use certain offerings in accordance with these Terms, including use of Models, Datasets, Hugging Face Open-Sources Libraries, the Inference Providers, AutoTrain, Expert Support, Infinity or other Content. Reference to "purchases" and/or "sales" mean a limited right to access and use a Service (not a transfer or any ownership right, title, or interest) in accordance with these Terms.
 
 "**User**" refers to the individual person, company or organization that accesses, receives, or uses the Services. That's you!
 
@@ -77,9 +77,9 @@ We provide Services in the field of machine learning, here is the list:
     
 * Hugging Face private **Hub**: where you can build, benchmark, share, version and deploy Models, Datasets and Machine Learning Applications, that are only accessible by You or your Organization(s)
     
-* **Inference API Service**: where you or your organization(s) can run inference via application programming interface on machine learning models publicly or privately hosted on our Model Hub
+* **Inference Providers Service**: where you or your organization(s) can run inference via application programming interface on machine learning models publicly or privately hosted on our Model Hub
     
-* **AutoTrain premium Service**: create state of the art Models from your own training data, everything being automatically hosted privately on the Model Hub. You can then share them publicly and/or serve them through the Inference API Service for example.
+* **AutoTrain premium Service**: create state of the art Models from your own training data, everything being automatically hosted privately on the Model Hub. You can then share them publicly and/or serve them through the Inference Providers Service for example.
     
 * **Expert Support**: get Premium Support on the use of our open source and all our services and/or products.
     
