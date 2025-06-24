@@ -4010,3 +4010,21 @@ https://www.cloudflare.com/privacypolicy
 Web Domain
 
 help.x.com
+
+Name
+
+\_shopify\_essential
+
+Description
+
+This cookie is for shop functionality on shop.x.com
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://www.shopify.com/legal/privacy
+
+Web Domain
+
+shop.x.com
