@@ -1,9 +1,7 @@
-terms
------
+Terms of Service
+----------------
 
-* * *
-
-##### title: Terms of Service
+**Notice**: Revisions to the terms of service are currently [under discussion](https://lists.sr.ht/~sircmpwn/sr.ht-dev/patches/60282).
 
 These are the terms of service for sr.ht; please read them before using sr.ht.
 
