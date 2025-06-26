@@ -1,8 +1,8 @@
 User Agreement
 ==============
 
-Updated: November 23 2023, 08:31 GMT  
-Location: [https://www.livejournal.com/legal/tos-en.bml?r=15272](https://www.livejournal.com/legal/tos-en.bml?r=15272)
+Updated: June 26 2025, 09:26 GMT  
+Location: [https://www.livejournal.com/legal/tos-en.bml?r=15273](https://www.livejournal.com/legal/tos-en.bml?r=15273)
 
 1. #### Subject of the Agreement
     
@@ -31,8 +31,6 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15272](https://www.liv
     
     **Community Moderator** means User to whom the Community Owner provided access to the functionality necessary to moderate the Community’s Content.
     
-    **Profile** means a publicly available page automatically created within the Service during the Registration, which contains all the information filled out by User during the Registration as well as during any further modifications or amendments of his/her Account, except for password and email address specified for registration.
-    
     **Paid Services** means any one time and continuing additional services provided to User by the Administration on a monetary base.
     
     **Registration** means User’s actions performed in order to create an Account in accordance with the Agreement pursuant to the procedure established by the Administration. User shall give his/her Authentication Details during the Registration process and may also give any other non-obligatory information which he/she deems fit.
@@ -45,8 +43,6 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15272](https://www.liv
     
     **Community** means a Blog devoted to a topic specified by the Community Owner, which Content’s scope may be created by a Community of Users in accordance with the rules defined by the Community Owner.
     
-    **Google Maps** means features and content of the «Google Maps» and «Google Earth» services, which may be utilized within the Service.
-    
 4. #### Account Registration
     
     1. In order to use a number of functions of the Service, User shall go through Registration procedure.
@@ -57,8 +53,7 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15272](https://www.liv
     6. User shall be responsible for the security (guessing attacks resistance) of the Authentication Details and its confidentiality.
     7. User shall be responsible for all actions performed using the User’s Authentications Details, All actions performed upon the Authorisation using the User’s Authentication Details shall be deemed performed by the User personally, unless the User has duly notified the Administration in advance of possible Unauthorised Access and/or any breach (alleged breach) of confidentiality of his/her Authentication Details in accordance herewith.
     8. The User shall be responsible for any possible loss or distortion of information and for other consequences of any nature which may occur due to the User’s breach of any provisions of the Agreement.
-    9. User also can get an access to additional Service functions via her/his Facebook’, Twitter’, Google’, Apple’, VKontakte’ or Mail. ru’ account (Third Party’ Account). Third Party Account functions can be limited in comparison with Account functions.
-    10. By using Google Maps, including features and content of «Google Maps» and «Google Earth» services, User is notified that the Service utilizes Google Maps, and User hereby unconditionally accepts then-current version of the Google Maps/Google Earth Additional Terms of Service at [https://maps.google.com/help/terms\_maps.html](https://maps.google.com/help/terms_maps.html); and Google Privacy Policy at [https://www.google.com/policies/privacy/](https://www.google.com/policies/privacy/). User’s breach of Google Maps/Google Earth Additional Terms of Service or Google Privacy Policy may cause actions by Administration in accordance with clause 2(5) of the Agreement or disablement of corresponding Google Maps features. The Administration shall not be liable for any failures or interruptions in the operation of Google Maps utilized within the Service as well as for Google Maps’ consistency with User’s expectations.
+    9. User also can get an access to additional Service functions via her/his VKontakte, Mail.ru, Rambler ID, Sber ID, OpenID and other Third Party Accounts. Third Party Account functions can be limited in comparison with Account functions.
 5. #### User Details
     
     1. The terms and conditions of User’s data processing and its security measures while using of the Service are governed by [the Privacy Policy](https://www.livejournal.com/legal/privacy-en.bml).
@@ -112,16 +107,16 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15272](https://www.liv
     3. The Administration shall not verify preliminary the compliance of Content and/or Users’ actions with the terms and conditions hereof and with the applicable laws; however, it reserves the right to take measures specified in clause 2.5 hereof and restrict the access to Blog/Community for certain Users without User’s prior notice to mark Content as an “adult material” in the cases and in the manner prescribed by Russian legislation, including the request received from the competent authority and/or the substantiated request by another entity. The Administration notifies the Users about measures undertaken under clause 2.5 hereof in the manner prescribed by Russian legislation.
     4. In case of request from a competent authority, the Administration may be obliged to provide the information about User or related to User.
     5. The Administration may restrict User’s access to any Service function and restrict or prohibit the use of API and posting of links to third-party resources and take any other actions aimed at protecting the Service from factors which present or may have a risk to Users, to the normal operation of the Service and to the Administration’s policies. The Administration shall implement the said measures at its own discretion and shall not be responsible for possible negative consequences of such measures to User and to third parties.
-    6. The Administration may at its own discretion and without User’s prior notice supplement, reduce or otherwise modify any Service function and it’ procedures.
+    6. The Administration may at its own discretion and without User’s prior notice supplement, reduce or otherwise modify any Service function and its procedures.
     7. The Administration may engage third parties to render services necessary for the operation of the Service, including hosting providers
-    8. The User may not:
+    8. Procedure for monitoring the Service:
         1. The Administration has the right to use special technical solutions and/or other methods of identifying Content that violates the terms of the Agreement and/or Russian legislation to comply with the requirements of Russian legislation. The procedure for using these methods is to be determined either by the Administration or by Russian legislation.
         2. The Administration has the right, in the case and in the manner prescribed by Russian legislation, to take measures to restrict access to the Content.
         3. User is obliged to comply with requirements and restrictions provided for by Russian legislation, including those concerning information that is prohibited or restricted for distribution, in particular not to distribute materials with pornographic images of minors and (or) advertisements for engaging minors as performers in entertainment activities of pornographic nature; information on methods and techniques of development, manufacture and use of narcotic drugs, psychotropic substances and their precursors, new potentially dangerous psychoactive substances, places of their acquisition, methods and places of cultivation of narcotic plants; information on methods of committing suicide, as well as exhortation to commit suicide; information that violates the requirements prohibiting activities related to organizing and conducting gambling and lotteries using the Internet and other communication means; information containing offers for retail sales of alcoholic products, spirits-containing food products, ethyl alcohol, and spirits-containing non-food products, the retail sale of which is restricted or prohibited by legislation on state regulation of production and circulation of ethyl alcohol, alcoholic and spirits-containing products, and on limiting the consumption (drinking) of alcoholic products; information aimed at enticing or involving minors in unlawful actions that pose a threat to their life and/or health or to the life and/or health of others; information expressed in an indecent form that insults human dignity and public morality, shows explicit disrespect for society, the state, official state symbols of the Russian Federation, the Constitution of the Russian Federation, or authorities exercising state power in the Russian Federation; information containing calls for mass riots, extremist activities, participation in mass (public) events held in violation of established procedures, false socially significant information disseminated under the guise of reliable messages that create a threat of harm to citizens’ lives and/or health, property, a threat of mass disruption of public order and/or public safety, or a threat of obstruction to the functioning or cessation of functioning of life support objects, transport or social infrastructure, credit institutions, energy, industrial or communication facilities, information materials of foreign or international non-governmental organizations whose activities are deemed undesirable on the territory of the Russian Federation in accordance with Federal Law No. 272-FZ «On Measures of Influence on Persons Involved in Violations of Fundamental Human Rights and Freedoms, Rights and Freedoms of Citizens of the Russian Federation,» information allowing access to such information or materials; information promoting non-traditional sexual relationships and/or preferences, pedophilia, gender reassignment.
 11. #### Liability
     
     1. User shall be liable for breaching the terms and conditions hereof, including the requirements to Registration and Content posting, as well as for violation of applicable laws committed by User, including the laws of the Russian Federation and the laws of User’s residence;
-    2. The Administration shall not be liable for any temporary failures or interruption in the operation of the Service and for information unavailability and/or loss caused by it. The Administration shall not be liable for any damage to any equipment or computer software or data caused by or related to using the Service including damage caused by Service’ supplementation in accordance with clause 10.6 of the Agreeement.
+    2. The Administration shall not be liable for any temporary failures or interruption in the operation of the Service and for information unavailability and/or loss caused by it. The Administration shall not be liable for any damage to any equipment or computer software or data caused by or related to using the Service including damage caused by Service’ supplementation in accordance with clause 10.6 of the Agreement.
     3. **Please note that in accordance with the Russian Federation Act No. 2300-1 dated February 7, 1992, the provisions of the said act related to consumer rights protection do not apply to the relationship between the Administration and Users as the Service is provided for free.**
 12. #### Advertising
     
@@ -140,15 +135,17 @@ Location: [https://www.livejournal.com/legal/tos-en.bml?r=15272](https://www.liv
     6. If there are obscene or offensive expressions in the request, threats to life, health and property of the Administration or other persons, the Administration will refuse to consider User’s request.
 14. #### Miscellaneous
     
-    1. The following addresses shall be used to send legally significant communications:
+    1. The terms of One Time and Continuing Paid Services provided on a paid basis by the Administration to the User are governed by [the Agreement on Paid Services.](https://www.livejournal.com/legal/psa-en.bml)
+    2. The following addresses shall be used to send legally significant communications:
         1. to the Administration:
             1. [ljlegal@rambler-co.ru](mailto:ljlegal@rambler-co.ru)
             2. bldg. 1, 9 Varshavskoye Highway, Moscow, 117105.
         2. to User: the address provided for registration:
-    2. All disputes arising out of this Agreement and/or related to the Service and Content may be resolved in court after the Parties have taken steps to settle the dispute by negotiation, 30 calendar days upon the date when the claim (request) was sent to the addresses defined in clause 12.1 hereof.
-    3. If the dispute is not resolved by the time defined in clause 14.2 hereof it may be resolved by the Court in the Administration’s place of incorporation.
-    4. The Agreement is drawn up in [Russian language](https://www.livejournal.com/legal/tos-ru.bml). The English version is a translation and is provided solely for the convenience of reading the Agreement. In the event of any inconsistency between the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) and its translation, the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) of the Agreement shall prevail.
+    3. All disputes arising out of this Agreement and/or related to the Service and Content may be resolved in court after the Parties have taken steps to settle the dispute by negotiation, 30 calendar days upon the date when the claim (request) was sent to the addresses defined in clause 14.2 hereof.
+    4. If the dispute is not resolved by the time defined in clause 14.2 hereof it may be resolved by the Court in the Administration’s place of incorporation.
+    5. The Agreement is drawn up in [Russian language](https://www.livejournal.com/legal/tos-ru.bml). The English version is a translation and is provided solely for the convenience of reading the Agreement. In the event of any inconsistency between the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) and its translation, the [Russian version](https://www.livejournal.com/legal/tos-ru.bml) of the Agreement shall prevail.
 
+[Previous version November 23 2023, 08:31 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15272) (archived)  
 [Previous version May 17 2023, 14:26 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15271) (archived)  
 [Previous version March 31 2023, 13:45 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15270) (archived)  
 [Previous version January 20 2022, 11:18 GMT](https://www.livejournal.com/legal/tos-en.bml?r=15269) (archived)  
