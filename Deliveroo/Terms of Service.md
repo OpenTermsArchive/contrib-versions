@@ -135,7 +135,7 @@ For further information on how we rank our Partners, you’ll find a dedicated s
 Deliveroo Terms Of Use For Website And Applications
 ---------------------------------------------------
 
-Last updated: 15 November 2024
+Last updated: 26 June 2025
 
 This page (together with the documents referred to on it) tells you the terms of use on which you may make use of our website deliveroo.ie (and all pages attaching to and including this domain name) (our **"Site"**) or any application we make available via an app store or otherwise (our **"Service"**), whether as a guest or a registered user. Please read these terms of use carefully before you start to use our Site or our Service. By accessing our Site or by using our Service, you indicate that you accept these terms of use and that you agree to abide by them. If you do not agree to these terms of use, do not access our Site or use our Service.
 
@@ -145,7 +145,7 @@ deliveroo.ie, and all pages attaching to and including this domain name, is a we
 
 ### 2\. Accessing Our Service Or Our Services
 
-Access to our Site and to our Service is permitted on a temporary basis, and we reserve the right to withdraw or amend access to our Site or our Service without notice (see below). We will not be liable if, for any reason, our Site or our Service is unavailable at any time or for any period. From time to time, we may restrict access to some parts of our Site or our Service, or our entire Site or Service, including to users who have registered with us. You are responsible for maintaining the confidentially of your login details and any activities that occur under your account. If you have any concerns about your login details or think they have been misused, you should contact us straight away to let us know. We can deactivate your account at any time.
+Access to our Site and to our Service is permitted on a temporary basis, and we reserve the right to withdraw or amend access to our Site or our Service without notice (see below). We will not be liable if, for any reason, our Site or our Service is unavailable at any time or for any period. From time to time, we may restrict access to some parts of our Site or our Service, or our entire Site or Service, including to users who have registered with us. You are responsible for maintaining the confidentiality of your login details and any activities that occur under your account. If you have any concerns about your login details or think they have been misused, you should contact us straight away to let us know. We can deactivate your account at any time.
 
 ### 3\. Acceptable Use
 
@@ -157,26 +157,11 @@ We may from time to time provide certain features which allow you to interact th
 
 ### 5\. Content Standards
 
-These content standards apply to any and all material which you contribute to our Service (the **"Contributions"**), and to any interactive services associated with it. You must comply with the spirit of the following standards as well as the letter. The standards apply to each part of any Contributions as well as to its whole. Contributions must be accurate (where they state facts), be genuinely held (where they state opinions) and comply with applicable law in the Ireland and in any country from which they are posted. Contributions must not:
-
-* contain any material which is defamatory of any person, obscene, offensive, hateful or inflammatory, promote sexually explicit material or promote violence or promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age;
-* infringe any copyright, database right or trademark of any other person;
-* be likely to deceive any person or be made in breach of any legal duty owed to a third party, such as a contractual duty or a duty of confidence or promote any illegal activity;
-* be threatening, abuse or invade another'ss privacy, or cause annoyance, inconvenience or needless anxiety or be likely to harass, upset, embarrass, alarm or annoy any other person;
-* be used to impersonate any person, or to misrepresent your identity or affiliation with any person or give the impression that they emanate from us, if this is not the case; or
-* advocate, promote or assist any unlawful act such as (by way of example only) copyright infringement or computer misuse.
-
-If you become aware of Contributions on the platform that you believe to be illegal or otherwise incompatible with these Terms of Use, you can submit a notice via the process set out in the Deliveroo User Review and Contribution Terms.
-
-If you become aware of any other content on the platform that you believe to be illegal or otherwise incompatible with these Terms of Use (for example, menu items and intellectual property infringement) (“**Alleged Illegal Items**”), you can submit a notice via the Webform which can be accessed via the Contact Us option at [https://deliveroo.ie/contact (“**Illegal Content Notice**”).](https://deliveroo.ie/contact)
-
-We will review your [Illegal Content Notice](https://deliveroo.ie/contact) and advise you of our decision and any action we propose to take as a result of our decision, including how to lodge a complaint if you are dissatisfied with our decision.
-
-Section 6 below will apply to any complainants who frequently submit Illegal Content Notices that are manifestly unfounded.
+The Deliveroo User Review and Contribution Terms apply to any and all material (including reviews or any other user contribution) which you contribute to our Service and to any interactive services associated with it. You must comply with the spirit of the Deliveroo User Review and Contribution Terms as well as the letter.
 
 ### 6\. Suspension And Termination
 
-Failure to comply with section 3 (Acceptable Use) and/or 5 (Content Standards) in these Terms of Use constitutes a material breach of the Terms of Use, and may result in our taking all or any of the following actions:
+Failure to comply with section 3 (Acceptable Use), 5 (Content Standards) and/or 16 (Your Concerns) in these Terms of Use constitutes a material breach of the Terms of Use, and may result in our taking all or any of the following actions:
 
 * immediate, temporary or permanent withdrawal of your right to use our Service;
 * immediate, temporary or permanent removal of any posting or material uploaded by you to our Service;
@@ -226,7 +211,7 @@ We may revise these terms of use at any time by amending this page. You are expe
 
 ### 16\. Your Concerns
 
-If you have any concerns about material which appears on our Service, please contact [support@deliveroo.ie](mailto:support@deliveroo.ie)
+We set standards for content provided by our partners who offer their Services on the Site. If you become aware of any content on our Site that you believe to be illegal or otherwise incompatible with these Terms of Use (for example, descriptions of items, imagery, issues such as intellectual property infringement, or illegal items or other material), you can submit a notice via the Webform which can be accessed via the Contact Us option at [https://deliveroo.ie/contact.](https://deliveroo.ie/contact) Alternatively, you can notify us via the email address [support@deliveroo.ie](mailto:support@deliveroo.ie). We will review your notice, take the appropriate action and then notify you of the outcome including how to complain and available options for out of court settlement. Please ensure that your notice is true, accurate and complete to the best of your knowledge.
 
 Deliveroo Voucher and Account Credit Terms
 ------------------------------------------
@@ -626,7 +611,7 @@ Service fees and Deliveroo Plus T&Cs apply when you use the Deliveroo Plus Offer
 Deliveroo User Review and Contribution Terms (Republic of Ireland)
 ------------------------------------------------------------------
 
-Last updated: 17 June 2024
+Last updated: 26 June 2025
 
 This section (together with the documents referred to in it) tells you the terms (the “**User Review and Contribution Terms**”) that apply when you:
 
@@ -634,58 +619,73 @@ This section (together with the documents referred to in it) tells you the terms
 
 (b) upload, post, publish, design or display any other content or material to our Site (“**User Contribution**”). 
 
-Please read these User Review and Contribution Terms before submitting any Review or User Contribution to our Site. If you have any questions relating to these User Review and Contribution Terms please contact support@deliveroo.co.uk before you submit a Review or User Contribution.
+Please read these User Review and Contribution Terms before submitting any Review or User Contribution to our Site. If you have any questions relating to these User Review and Contribution Terms please contact support@deliveroo.ie before you submit a Review or User Contribution.
 
-**User Conduct**
+**1\. User Conduct**
 
-You are solely responsible for all content and materials in your Reviews and User Contributions, including ensuring that your Reviews or User Contributions comply in full with any applicable laws (including data protection laws) and our Community Guidelines (below). We have provided below some non-exhaustive examples of the kind of content and/or use that is illegal or prohibited by us. We reserve the right to investigate and take appropriate legal action against anyone who, in our sole discretion, violates this provision, including without limitation, removing the offending Review or User Contribution from our Site, suspending or terminating the account of such violators and reporting you to the law enforcement authorities. 
+You are solely responsible for all content and materials in your Reviews and User Contributions, including ensuring that your Reviews or User Contributions comply in full with any applicable laws (including data protection laws) and our Community Guidelines (below). We have provided below some non-exhaustive examples of the kind of content and/or use that is illegal or prohibited by us. We reserve the right to investigate and take appropriate legal action against anyone who, in our sole discretion, violates this provision, including without limitation, removing the offending Review or User Contribution from our Site, suspending or terminating the account of such violators and reporting you to the law enforcement authorities. These terms apply to each part of any Review or User Contribution as well as to their whole. Reviews and User Contributions must be accurate (where they state facts), be genuinely held (where they state opinions) and comply with applicable law in Ireland and in any country from which they are posted.
 
 Reviews and User Contributions must not:
 
 * violate any applicable law or regulation;
-* infringe any intellectual property or other rights of any party. You must have a right to publish and upload third party works incorporated or referenced in your Review or User Contribution in accordance with any law or under contractual or fiduciary relationships;
+* infringe any intellectual property (including copyright, trade mark or other intellectual property rights) of any party. You must have a right to publish and upload third party works incorporated or referenced in your Review or User Contribution in accordance with any law or under contractual or fiduciary relationships;
 * pose or create a privacy or security risk to any person; 
-* be unlawful, harmful, threatening, abusive, harassing, tortious, excessively violent, defamatory, vulgar, obscene, pornographic, defamatory, hateful racially, ethnically or otherwise objectionable; 
+* invade another's privacy, or cause annoyance, inconvenience or needless anxiety or be likely to harass, upset, embarrass, alarm or annoy any other person;
+* be or contain any information or material that is unlawful, harmful, threatening, abusive, harassing, tortious, excessively violent, defamatory, vulgar, obscene, pornographic, defamatory, hateful or inflammatory racially, ethnically or is otherwise objectionable or offensive;
+* contain any material which promotes sexually explicit material or promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age; 
 * in our sole view, expose Deliveroo, our Partners or our users to any harm of liability of any type;
 * impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity;
-* advertise or offer to sell or buy any goods or services for any business purpose that is not specifically authorised; or
-* further or promote any criminal activity or enterprise or provide instructional information about illegal activities.
+* advertise or offer to sell or buy any goods or services for any business purpose that is not specifically authorised;
+* be likely to deceive any person or be made in breach of any legal duty owed to a third party, such as a contractual duty, or promote any criminal activity or enterprise or provide instructional information about illegal activities;
+* be used to impersonate any person, or to misrepresent your identity or affiliation with any person or give the impression that they emanate from us, if this is not the case.
 
-**3\. Screening Content**
+**2\. Screening Content**
 
 Under no circumstances will we be liable in any way for any Review or User Contribution, including, but not limited to, any that contain errors or omissions, or for any loss or damage of any kind incurred as a result of the use of any Review or User Contribution. 
 
-We monitor Reviews and User Contributions to the extent required by applicable law to meet our safeguarding duties and to ensure our Site is used respectfully and in accordance with the law. We operate both human and automated monitoring systems which search for keywords to detect language which may breach our terms of service and our content standards. Deliveroo and its designees will have the right (but not the obligation) in our sole discretion to refuse or remove any Review or User Contribution (in whole or part) that is made available on the Site. Without limiting the foregoing, Deliveroo and its designees will have the right to remove any content that violates these User Review and Contribution Terms or is deemed by us, in our sole discretion, to be otherwise objectionable. You have a right to bring a claim for breach of contract if your Review or User Contribution is taken down, or access to it is restricted, in breach of these User Review and Contribution Terms. 
+We monitor Reviews and User Contributions (as well as any replies to Reviews) to the extent required by applicable law to meet our safeguarding duties and to ensure our Site is used respectfully and in accordance with the law. We operate both human and automated monitoring systems which search for keywords to detect language which may breach our terms of service and our content standards. Deliveroo and its designees will have the right (but not the obligation) in our sole discretion to refuse or remove any Review or User Contribution (in whole or part) that is made available on the Site. Without limiting the foregoing, Deliveroo and its designees will have the right to remove any content that violates these User Review and Contribution Terms or is deemed by us, in our sole discretion, to be otherwise objectionable. You have a right to bring a claim for breach of contract if your Review or User Contribution is taken down, or access to it is restricted, in breach of these User Review and Contribution Terms. 
 
 You agree that you must evaluate, and bear all risks associated with, the use of any Review or User Contribution available on the Site, including any reliance on the accuracy, completeness, or usefulness of such Review or User Contribution.
 
-**4\. Rights to Reviews and User Contributions** 
+**3\. Rights to Reviews and User Contributions** 
 
 You represent and warrant that you own all right, title and interest in and to all content and materials in your Reviews and User Contributions, including, without limitation, all copyrights and other rights. By uploading a Review or User Contribution you grant Deliveroo and our affiliated companies a non-exclusive, worldwide, royalty free, fully paid up, transferable, sub-licensable, perpetual, irrevocable license to copy, display, upload, perform, distribute, store, modify and otherwise use your Review or User Contribution in connection with the operation of the Site and Deliveroo’s promotion, advertising or marketing of the Site and our services, in any form, medium or technology now known or later developed. As between us and you, you retain all right, title and interest in and to your Reviews and User Contributions.
 
-**5\. Our Use of Reviews and User Contributions**
+**4\. Our Use of Reviews and User Contributions**
 
 You acknowledge and agree that we may preserve your Reviews and User Contributions if required to do by law or if we reasonably believe that such preservation or disclosure is reasonably necessary to: (a) comply with legal process, applicable law or government requests; (b) enforce these User Review and Contribution Terms; (c) respond to claims that any Review or User Contribution violates the rights of third parties; or (d) protect the rights, property or personal safety of Deliveroo, our Partners and users and the public. 
 
-**6\. How to Complain about Illegal Content or Misconduct**
+**5\. How to Complain about Illegal Content or Misconduct**
 
-We respect the law and the rights of others, and we ask our users to do the same. If you believe that any Review or User Contribution is illegal, harmful, or infringes your copyright or other intellectual property rights (“**Alleged Illegal Content**”), or you believe we are not meeting our legal obligations to manage the risk of harm to individuals, to facilitate reporting of online harms or to protect a user’s freedom of expressions and a user’s legal rights to privacy (“**Alleged Misconduct**”), you should notify Deliveroo by writing to support@deliveroo.co.uk. You can also report Alleged Illegal Content in-app, by clicking the ‘Report Review’ function available for all Reviews and User Contributions. 
+We respect the law and the rights of others, and we ask our users to do the same. If you believe that any Review or User Contribution is illegal, harmful, or breaches these terms, or you believe we are not meeting our legal obligations to manage the risk of harm to individuals, to facilitate reporting of online harms or to protect a user’s freedom of expressions and a user’s legal rights to privacy (“**Alleged Misconduct**”), you should notify Deliveroo by either clicking the ‘Report Review’ function available for all Reviews and User Contributions in-app, or via the Webform for Digital Services Act reports, which can be accessed via the Contact Us option at [https://deliveroo.ie/contact](https://deliveroo.ie/contact). You can also submit a notice via the email address [support@deliveroo.ie](mailto:support@deliveroo.ie). We will review your report, take the appropriate action and notify you of the outcome, including how to complain if you are dissatisfied with our decision. writing to support@deliveroo.co.uk. You can also report Alleged Illegal Content in-app, by clicking the ‘Report Review’ function available for all Reviews and User Contributions. 
 
-You may also raise a complaint in writing to support@deliveroo.co.uk if your Review or User Contribution is taken down by us on the basis that it is illegal or if we have issued you with a warning, suspended or banned you from using our services or the Site, or in any other way restricted your ability to use our services or the Site, as a result of your Review or User Contribution which we consider to be illegal (“**Take Down Procedures**”).
+The provisions of paragraph 7 below will also apply to any complainants who frequently submit illegal content notices that are manifestly unfounded.
+
+In addition, to the processes which will be notified to you should you submit a notice via the Webform,, you may also raise a complaint in writing to support@deliveroo.ie if your Review or User Contribution is taken down by us on the basis that it is illegal or if we have issued you with a warning, suspended or banned you from using our services or the Site, or in any other way restricted your ability to use our services or the Site, as a result of your Review or User Contribution which we consider to be illegal (“**Take Down Procedures**”).
 
 Your notification or complaint must be in writing and contain the following information:
 
-* in relation to Alleged Illegal Content or Alleged Misconduct, a description of the Alleged Illegal Content or Alleged Misconduct and an explanation of the reasons for your claim; 
+* in relation to alleged illegal content or Alleged Misconduct, a description of the alleged illegal content or Alleged Misconduct and an explanation of the reasons for your claim; 
 * in relation to Take Down Procedures, a description of your Review or User Contribution that was the subject of our Take Down Procedures and an explanation of the reasons for your complaint;
-* a detailed description of the Alleged Illegal Content or Alleged Misconduct or relevant Review or User Contribution so that we may find it on the Site;
+* a detailed description of the alleged illegal content or Alleged Misconduct or relevant Review or User Contribution so that we may find it on the Site;
 * your address, telephone number, and email address;
 * a statement by you that you have a good faith belief that the information in your notice or complaint is accurate and, in the case of a claim that a Review or User Contribution infringes your intellectual property rights, that you are the intellectual property owner or authorised to act on the intellectual property owner’s behalf.
 
-We will review your notification or complaint promptly and advise you of our decision and any action we propose to take as a result of our decision.
+We will review your notification or complaint promptly and advise you of our decision and any action we propose to take as a result of our decision. Further details of how we moderate content on our Site can be found in our FAQs.
 
-**7\. Termination**
+**7\. Suspension and Termination**
 
 We reserve the right to suspend or terminate your account if we determine that the account or your Review or User Contribution violates these User Review and Contribution Terms, or if you frequently submit illegal content notices that are manifestly unfounded, by any means.
+
+Failure to comply with the Deliveroo Review and User Contribution Terms constitutes a material breach of the Terms of Use, and may result in our taking all or any of the following actions:
+
+* immediate, temporary or permanent withdrawal of your right to use our Service.
+* immediate, temporary or permanent removal of any posting or material uploaded by you to our Service;
+* issuing of a warning to you;
+* legal action against you including proceedings for reimbursement of all costs on an (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
+* disclosure of such information to law enforcement authorities as we reasonably feel is necessary.
+
+The responses described in this clause are not limited, and we may take any other action we reasonably deem appropriate.
 
 **8\. Submissions**
 
