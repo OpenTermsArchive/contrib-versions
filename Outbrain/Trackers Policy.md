@@ -21,7 +21,7 @@ For example, if you visit https://news.sky.com/uk or www.cnn.com, the Outbrain w
 
 **Example of the widget is available below:**
 
-![](https://www2.outbrain.com/privacy/wp-content/uploads/2021/11/SJ4v1w7y7-1.png)
+![](https://www.outbrain.com/privacy/wp-content/uploads/2025/06/privacy-widget.png)
 
 If you click on the AdChoices logo within the widget, you will see a detailed information notice that enables you to navigate to [Outbrain’s Interest Profile](https://my.outbrain.com/recommendations-settings/?utm_source=www.outbrain.com%2Fprivacy%2Fwp-admin%2Fpost.php%3Fpost%3D940%26action%3Dedit), which provides information on the interest categories we think you might be interested in, which websites you have visited where Outbrain technology is installed and which device and browser is used, and the ability to opt out (or Do Not Sell) or withdraw your consent from interest based advertisements.
 
