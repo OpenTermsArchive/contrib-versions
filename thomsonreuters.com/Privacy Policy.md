@@ -210,35 +210,18 @@ If there are any differences between the English version of our Privacy Statemen
 California Consumer Request Metrics
 -----------------------------------
 
-January 1 – December 31, 2023
+January 1 – December 31, 2024
 
-| **Data Access Requests** | **Count** | **Average Days to Close** | **Median Days to Close** |
-| --- | --- | --- | --- |
-| **TOTAL** | **112** | **15** | **7** |
-| COMPLETE | 15  | 37  | 36  |
-| REJECTED | 97  | 12  | 6   |
-
-| **Delete my Personal Information\* Requests** | **Count** | **Average Days to Close** | **Median Days to Close** |
-| --- | --- | --- | --- |
-| **TOTAL** | **170** | **15** | **6** |
-| COMPLETE | 52  | 37  | 38  |
-| REJECTED | 118 | 6   | 4   |
-
-\*No requests that required deletion under each provision in California Civil Code section 1798.145 or 1798.146 were partially or wholly denied.
-
-| **Do Not Sell My Personal Information Requests** | **Count** | **Average Days to Close** | **Median Days to Close** |
-| --- | --- | --- | --- |
-| TOTAL | **2,052** | **2** | **1** |
-| COMPLETE | 1,833 | 2   | 1   |
-| REJECTED | 219 | 4   | 3   |
-
-| **All Request Types** | **Count** | **Average Days to Close** | **Median Days to Close** |
-| --- | --- | --- | --- |
-| **Grand Total** | **2,334** | **3** | **1** |
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| **Request** | **Received** | **Completed** | **Rejected** | **Median Days to Respond** |
+| Data Access Request | 343 | 44  | 299 | 18  |
+| Delete My Personal Information Request | 590 | 287 | 303 | 29  |
+| Do Not Sell My Personal Information Request | 6,562 | 5,716 | 846 | 1   |
+| Correct My Personal Information | 37  | 5   | 32  | 9   |
+| **TOTAL** | **7,532** | **6,052** | **1,480** | **1** |
 
 Published in accordance with Section 999.317(g) of the CCPA Regulations & The Delete Act of 2023, SB 362
-
-[California Consumer Request Metrics](https://www.thomsonreuters.com/content/dam/ewp-m/documents/thomsonreuters/en/pdf/other/california-consumer-request-metrics-2023.pdf)
 
 [Back to top](#toc)
 
