@@ -3,8 +3,9 @@
 Wikimedia Foundation Terms of Use
 =================================
 
- 3 languages
+ 4 languages
 
+* [العربية](https://ar.wikipedia.org/wiki/%D9%88%D9%8A%D9%83%D9%8A%D8%A8%D9%8A%D8%AF%D9%8A%D8%A7:%D8%B4%D8%B1%D9%88%D8%B7_%D8%A7%D9%84%D8%A7%D8%B3%D8%AA%D8%AE%D8%AF%D8%A7%D9%85 "ويكيبيديا:شروط الاستخدام – Arabic")
 * [English](https://en.wikipedia.org/wiki/Wikipedia:Terms_of_use "Wikipedia:Terms of use – English")
 * [ꠍꠤꠟꠐꠤ](https://syl.wikipedia.org/wiki/%EA%A0%83%EA%A0%81%EA%A0%87%EA%A0%A4%EA%A0%99%EA%A0%A4%EA%A0%92%EA%A0%A4%EA%A0%80:%EA%A0%9B%EA%A0%A6%EA%A0%9B%EA%A0%80%EA%A0%9E_%EA%A0%87%EA%A0%9E%EA%A0%A3%EA%A0%9E_%EA%A0%A1%EA%A0%9E%EA%A0%86%EA%A0%94%EA%A0%A3%EA%A0%81%EA%A0%98 "ꠃꠁꠇꠤꠙꠤꠒꠤꠀ:ꠛꠦꠛꠀꠞ ꠇꠞꠣꠞ ꠡꠞ꠆ꠔꠣꠁꠘ – Sylheti")
 * [中文](https://zh.wikipedia.org/wiki/Wikipedia:%E4%BD%BF%E7%94%A8%E6%9D%A1%E6%AC%BE "Wikipedia:使用条款 – Chinese")
