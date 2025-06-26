@@ -1234,6 +1234,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Berlin Open Data: [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0) [https://daten.berlin.de/datensaetze/baustellen-sperrungen-und-sonstige-storungen-von-besonderem-verkehrlichem-interesse](https://daten.berlin.de/datensaetze/baustellen-sperrungen-und-sonstige-storungen-von-besonderem-verkehrlichem-interesse)
             
+        * Bundesministerium für Digitales und Verkehr: [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0), [https://mobilithek.info/offers/608439575154401280](https://mobilithek.info/offers/608439575154401280)
+            
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
