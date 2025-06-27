@@ -1,4 +1,4 @@
-_Last Updated: 13 June 2025_
+_Last Updated: 27 June 2025_
 
 For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/en-gb/legal/privacy/us-notice).  
  
@@ -84,7 +84,7 @@ We also receive information about you from third parties such as your payment pr
 
 As part of the processing activities described above, Kraken may share your personal data within the Kraken company group and with carefully selected third parties. We only disclose data for legitimate purposes and when it is lawful to do so, and we require each recipient to process the data in line with applicable data protection laws.
 
-Kraken uses third party service providers for operational support in areas including, but not limited to: administrative, financial, legal, tax, payment card issuance and processing, compliance, insurance, IT, debt-recovery, marketing, analytics and research. Depending on your jurisdiction, we may disclose your personal data to telecommunication providers or mobile network operators for the purpose of identity verification.
+Kraken uses third party service providers for operational support in areas including, but not limited to: administrative, financial, legal, tax, payment card issuance and processing, compliance, insurance, IT, debt-recovery, marketing, analytics and research. Depending on your jurisdiction, we may disclose your personal data to telecommunication providers or mobile network operators for the purpose of identity verification. Please note no mobile information will be shared with third parties for their marketing or promotional purposes.
 
 In certain circumstances, third parties to whom we disclose your personal data, may act as independent data controllers for specific processing activities. For example, our card-issuing partner acts as an independent controller when processing Krak card information for fraud prevention and AML checks as well as to comply with their other regulatory obligations.
 
