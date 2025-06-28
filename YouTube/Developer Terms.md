@@ -23,7 +23,7 @@ This is a legal document that specifies policies about allowed or prohibited act
 3. The terms **should**, **should not**, **recommend**, and **recommended** indicate that the statement describes a general best practice. While these terms suggest certain actions or behaviors, they acknowledge that you might decide to follow a different course based on specific aspects of your use case.
 4. The term **may** indicates that an action is optional and left entirely to your discretion or, depending on the context in which it is used, to YouTube's discretion.
 
-In addition, the [Definitions](#iv-definitions) section that concludes this document identifies other terms that have a very specific meaning when used in this document. For your convenience, this document uses a special style for those terms to so that you can easily identify them in context and link to their definitions.
+In addition, the [Definitions](#iv.-definitions) section that concludes this document identifies other terms that have a very specific meaning when used in this document. For your convenience, this document uses a special style for those terms to so that you can easily identify them in context and link to their definitions.
 
 II. Software Development Principles
 -----------------------------------
