@@ -21,7 +21,7 @@ If you have any questions about these terms and conditions or the policies pleas
 
 **Phone**: 01 696 6246\*\*
 
-**E-mail**: **[terms.conditions.ie@ikea.com](mailto:terms.conditions.ie@ikea.com)**
+**E-mail**: **[\[email protected\]](https://www.ikea.com/cdn-cgi/l/email-protection)**
 
 \*Note that if you contact us by post, international postage charges may apply  
 \*\*Standard national tariff applies (often free if national rate numbers are part of your phone provider package)
@@ -476,7 +476,7 @@ For the purposes of the Data Protection Act 2018 and any future amendments or su
 
 ### **Disputes**
 
-In the event you have a complaint regarding a product or service purchased from IKEA, please contact us at **[ikea.complaints.ie@ikea.com](mailto:ikea.complaints.ie@ikea.com)**.
+In the event you have a complaint regarding a product or service purchased from IKEA, please contact us at **[\[email protected\]](https://www.ikea.com/cdn-cgi/l/email-protection)**.
 
 In the unlikely event that our Customer Relations team are unable to resolve your complaint, and you are still not satisfied following the conclusion of our complaints handling procedure, you may refer your complaint to the Competition and Consumer Protection Commission which maintains a list of Alternative Dispute Resolution (ADR) entities. We will engage in this process in good faith with you as required.
 
