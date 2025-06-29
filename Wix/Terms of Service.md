@@ -1,7 +1,7 @@
 Wix.com Terms of Use
 ====================
 
-Last Revised: May 19, 2025
+Last Revised: June 29, 2025
 
 Welcome to Wix.com’s Terms of Use! We are truly excited to have you aboard. Thank you for choosing to use our services.
 
