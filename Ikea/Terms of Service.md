@@ -21,7 +21,7 @@ If you have any questions about these terms and conditions or the policies pleas
 
 **Phone**: 01 696 6246\*\*
 
-**E-mail**: **[terms.conditions.ie@ikea.com](mailto:terms.conditions.ie@ikea.com)**
+**E-mail**: **[\[email protected\]](https://www.ikea.com/cdn-cgi/l/email-protection)**
 
 \*Note that if you contact us by post, international postage charges may apply  
 \*\*Standard national tariff applies (often free if national rate numbers are part of your phone provider package)
