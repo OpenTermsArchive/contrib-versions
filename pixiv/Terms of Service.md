@@ -1089,6 +1089,8 @@ Article 7. Posting
         1. [pixivFANBOX Guidelines](https://fanbox.pixiv.help/hc/articles/13239721816217)
         2. [What is "AI-generated content"?](https://fanbox.pixiv.help/hc/articles/20299395982489)
     11. Further to the above, expression that violates the pixiv Master Terms of Use, these Individual Terms of Use, or other guidelines.
+3. In accordance with the pixivFANBOX Guidelines, Creators shall set, on their Creator Page, “R‑18 Content posting” to either “Post” or “Do not post.” “R‑18 Content” means Posted Content that falls under “Regarding Age Restrictions” in the pixivFANBOX Guidelines; please refer to the Help section ([https://fanbox.pixiv.help/hc/articles/13239721816217](https://fanbox.pixiv.help/hc/articles/13239721816217)) for details. If the Company determines that any Posted Content of a Creator constitutes R‑18 Content, the Company may, without the prior consent or notice of the relevant Creator, change “Posting R-18 contents \[No\]” to “\[Yes\]”. The Company will endeavor to notify the Creator of such change but shall bear no obligation to do so.
+4. Even if, pursuant to the preceding paragraph, the Company changes “R‑18 Content posting” and, as a result, Supporters become unable to view the Posted Content, the Company shall not refund any Support Money to such Supporters. A Supporter who wishes to cancel a Support Agreement shall apply for cancellation in accordance with Article 14.
 
 Article 8. Monitoring of the Site by the Company
 ------------------------------------------------
@@ -1191,7 +1193,7 @@ Article 20. Reaction to Problems
 Article 21. Prohibitions
 ------------------------
 
-When using the Individual Service, User may not engage in any conduct prohibited by or in violation of the pixiv Master Terms of Use, these Individual Terms of Use, or other terms of use or guidelines. In the case where User engages in prohibited conduct or commits a violation, User may be subject to compulsory withdrawal, suspension of use, deletion of posted work data in whole or in part, modification of the scope of disclosure, or other measures deemed necessary by the Company; provided, however, that the Company shall not bear a duty to take these measures and shall not bear a duty to disclose the reasons for measures it has taken.
+Users shall not engage in any conduct prohibited by or in violation of the Master Terms of Use, these Individual Terms of Use, or other terms of use or guidelines in using the Individual Service. In the case where User engages in prohibited conduct or commits a violation, or if the Company detects fraudulent payment or unauthorized login to a pixiv account, User may be subject to compulsory withdrawal, suspension of use, suspension of the pixiv account, deletion of posted work data in whole or in part, modification of the scope of disclosure, changes to the posting status of R-18 Content, or other measures deemed necessary by the Company; provided, however, that the Company shall not bear a duty to take these measures and shall not bear a duty to disclose the reasons for measures it has taken.
 
 Article 22. Notices from the Company
 ------------------------------------
@@ -1213,6 +1215,33 @@ Article 24. Disclaimers
 2. Scope of the Company’s Liability  
     Even if the Company is liable for damages to a User, the Company’s liability is limited to actual, direct, and ordinary damages caused to the User due to an event of default or illegal act by the Company up to 1,000 yen. This excludes cases caused by willful misconduct or gross negligence by the Company."
 
+Article 25. Special Provisions regarding the Discord Integration Function
+-------------------------------------------------------------------------
+
+1. Definitions
+    
+    The terms used in this article shall have the meanings set forth in the following items.
+    
+    1. “Discord” means a service provided by Discord Inc. that enables communication by text, voice, video, and the like.
+    2. “Discord Server” means an invite-only community space that a Creator can create on Discord.
+    3. “Discord Channel” means a space for communication that a Creator can create within a Discord Server; such space includes text channels for conversation using text and voice channels for conversation using voice or video, and multiple text channels and voice channels may be created.
+    4. “Role” means a specific privilege that a User may have within a Discord Server or Discord Channel.
+    5. “Discord Integration Function” means a function that becomes available when a Creator links an account for the Individual Service with an account for Discord. Upon such linking, the Creator may grant any Roles to Supporters by Plan, and Supporters may participate in a Discord Server established by the Creator on the basis of the granted Role.
+2. Common Provisions regarding Users who use the Discord Integration Function
+    1. A person who wishes to use the Discord Integration Function must first obtain a Discord account.
+    2. Users who use the Discord Integration Function shall comply with these Individual Terms of Use and other rules and regulations, as well as the terms of use, guidelines, and other rules and the like of Discord.
+    3. The Company shall not bear any liability whatsoever with respect to posts made by Users to a Discord Channel, the content of such posts, Users’ use of Discord including communication with others), or any damage incurred by Users arising from such use of Discord.
+    4. Where the Discord Integration Function is used, Article 8 (Monitoring of the Site by the Company) shall apply mutatis mutandis, with “all areas on the Site” read as “all areas on the Site and any Discord Channels created using the Discord Integration Function.”
+    5. Where the Discord Integration Function is used, the term “Individual Service” in Article 21 (Prohibitions) shall be interpreted as “Individual Service including the Discord Integration Function,” and, if the Company determines that a User using the Discord Integration Function has violated or is likely to violate the pixiv Master Terms of Use, these Individual Terms of Use, other rules and regulations, or the terms of use, guidelines, and other rules and the like of Discord, the Company may take the measures specified in Article 21 (Prohibitions) and may also remove the linkage with Discord and/or kick a Supporter (meaning the removal of a specific Supporter from a Discord Server).
+    6. The Company shall not bear any liability whatsoever for damage incurred by a User as a result of the measures under the preceding item.
+3. Provisions regarding Creators who use the Discord Integration Function
+    1. Only Creators who satisfy the criteria specified by the Company may use the Discord Integration Function. Details of the criteria are set out in the Help section ([https://fanbox.pixiv.help/hc/articles/47896033959193](https://fanbox.pixiv.help/hc/articles/47896033959193)).
+    2. A Creator may not link more than one Discord account to a FANBOX account at the same time.
+4. Provisions regarding Supporters who use the Discord Integration Function
+    1. If a Supporter supports a Plan that offers the Discord Integration Function, the Supporter may participate in a Discord Server designated by the Creator on the basis of the Role granted per Plan.
+    2. Within a Discord Server in which a Supporter participates, the Supporter shall comply with the rules and manners established by the Creator. If the Supporter violates such rules or manners, is likely to do so as determined by the Company, or otherwise uses the server against the intent of the Creator, the Supporter may be kicked from the Discord Server or have the linkage with the Discord Integration removed by the Company or the relevant Creator, and the Supporter agrees to this in advance.
+    3. Even if a Supporter is subject to the measure set forth in the preceding item, the Support Agreement shall not be terminated. A Supporter who wishes to cancel a Support Agreement shall apply for cancellation in accordance with Article 14.
+
 Supplemental Provisions
 -----------------------
 
@@ -1222,6 +1251,7 @@ Supplemental Provisions
 Revision
 --------
 
+* June 30th, 2025 “Article 7. Posting”, “Article 21. Prohibitions” and “Article 25. Special Provisions regarding the Discord Integration Function” have been revised.
 * April 21st, 2025 The entire Individual Terms of Use were updated.
 * August 31st, 2023 “Article 15. Direct Deposit Request” was updated.
 * July 25, 2023 “Article 5. Cancellation of Creator Registration” and “Article 7. Posting” have been revised.
