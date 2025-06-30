@@ -272,7 +272,7 @@ Sectors
 
 * [Automotive](https://canonical.com/solutions/automotive)
 * [Industrial](https://ubuntu.com/industrial)
-* [Government](https://ubuntu.com/gov)
+* [Public sector](https://canonical.com/public-sector)
 * [Telco](https://canonical.com/solutions/telco)
 * [Finance](https://canonical.com/solutions/financial-services)
 
