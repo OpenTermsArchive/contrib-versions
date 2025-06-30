@@ -44,11 +44,11 @@
         * [Your rights as a Data Subject](#brazil-rights-as-data-subject)
 * [Summary of Recent Changes](#change-summary)
 
-Effective Date: June 4, 2025
+Effective Date: June 30, 2025
 
 [Summary of Recent Changes](#change-summary)
 
-You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/20961293738004).
+You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/38873040764180).
 
 1. Welcome to the Roblox Privacy Policy
     
@@ -104,7 +104,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     If you’re in Korea, more information is located in the [Privacy Policy Addendum for Users in Republic of Korea](https://en.help.roblox.com/hc/articles/15685139483924).
     
-    If you’re in the United States, additional rules may apply depending on the state you live in. To learn more about the rights available to you under US state laws please visit the the [US State Privacy Policy Addendum](https://en.help.roblox.com/hc/articles/4402871541140).
+    If you’re in the United States, additional rules may apply depending on the state you live in. To learn more about the rights available to you under US state laws please visit the [US State Privacy Policy Addendum](https://en.help.roblox.com/hc/articles/4402871541140).
     
     Before moving on to the rest of the Privacy Policy, when you see certain terms in this Policy, some of them have specific meanings.
     
@@ -204,13 +204,11 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Additionally, with your explicit and informed consent, we may use your phone number to recommend you as a friend to others using Roblox. You will be recommended with your contact name as stored on your friends’ devices, which may also include your real name. If you do not want us to use your phone number to be found by your friends on Roblox, please do not activate this feature or deactivate it at any time. Please note that the Discoverability feature may not be available in certain locations.
     
-    We do not ask for your phone number if you are under 13.
-    
     Purchases on Roblox
     
-    You can buy virtual currency (Robux) or premium subscriptions and choose how to pay from our available payment methods. When you pay, you (or your parent or guardian if you’re under 13) will have to give billing information, including Personal Information such as:
+    You can buy Robux or premium subscriptions and choose how to pay from our available payment methods. When you pay, you (or your parent or guardian if you’re under 13) will have to give billing information, including Personal Information such as:
     
-    * Name of the person responsible for buying virtual currency
+    * Name of the person responsible for buying Robux
     * Their billing address and contact details, like email or phone number
     * credit card or other payment information
     
@@ -220,7 +218,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Posting content
     
-    You can post comments, messages, or other content on Roblox through chats, forums, group walls, personal posts, or other features. Users who are age 13 or older can also use voice chat on Roblox. We monitor what you say and write to check that it meets our Community Standards and complies with our Terms of Use. If we find that the content doesn’t meet our standards, for example, if we believe that it is inappropriate, includes Personal Information, or is not suitable for users to have on Roblox, we have the right to change or remove it. Where the law allows us to, we may use the content you and other users have posted for training or to help us to improve the way we filter content on our platform. Our aim is to increase safety on our platform. We also may use this data to help us provide a better experience on Roblox and to respond to requests about your account from you or your parent or legal guardian.
+    You can post comments, messages, or other content on Roblox through chats, forums, group walls, personal posts, or other features. Users who are age 13 or older can also use audio features on Roblox. Content you post, including your chat or audio, may be captured or shared by other users. We monitor what you say and write to check that it meets our Community Standards and complies with our Terms of Use. If we find that the content doesn’t meet our standards, for example, if we believe that it is inappropriate, includes Personal Information, or is not suitable for users to have on Roblox, we have the right to change or remove it. Where the law allows us to, we may use the content you and other users have posted for training or to help us to improve the way we filter content on our platform. Our aim is to increase safety on our platform. We also may use this data to help us provide a better experience on Roblox and to respond to requests about your account from you or your parent or legal guardian.
     
     Asking questions or getting technical support
     
@@ -247,20 +245,20 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     If you use your Roblox ID to sign in to a non-Roblox website or service, and later delete your Roblox account, you may lose access to that website or service.
     
-    Voice-based services (users 13 and older)
+    Audio features (users 13 and older)
     
-    If you use Roblox’s voice services, we will monitor, collect, use, and store your voice recordings to:
+    If you use Roblox’s audio features, we will monitor, collect, use, and store audio captured through your device:
     
-    * enable voice services
-    * make our voice-related services safer, including to detect and combat abuse and other harmful activity on our Services.
+    * to enable voice chat,
+    * to make our voice-related services safer, including to detect and combat abuse and other harmful activity on our Services,
+    * in accordance with applicable law, to inform training and product improvement, and
+    * in connection with screen recordings that Creators and Users produce through the Services.
     
-    If you use voice services on Roblox, we may use voice recordings to inform training and product improvement in accordance with applicable law. For more information about laws that apply in your region, please visit Section 7 of this policy.
-    
-    We will not use your voice recording with private server voice-chat recordings of EEA and Brazilian users for training or product improvement.
+    For more information about laws that apply in your region, please visit Section 7 of this policy.
     
     Location-based Services (users 13 and older)
     
-    You can choose to use location-based Services if you’re 13 or older. If you agree, we may collect and track geolocation information so that we can offer Services that depend on us knowing where you are. We collect location at the country or region level; we do not collect precise geolocation data. Examples are personalizing content or advertising.
+    You can choose to use location-based Services if you’re 13 or older. If you agree, we may collect and track geolocation information so that we can offer Services that depend on us knowing where you are.
     
     We collect this information by using an identifier on your device or browser so that we can recognize you each time you return. To stop us collecting your location information, you can update your device settings, stop using the Service, or uninstall our mobile apps.
     
@@ -270,7 +268,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Camera-enabled features and uploads (users 13 and older)
     
-    If you use Roblox features that require the use of your camera or that enable you to upload content that contains your Personal Information, including photos, we will collect, process, and store that content to accomplish the purpose of the feature, including processing the content for safety purposes. Video used to generate animation key frames is processed on your device and is not shared with Roblox or any third parties. For more information, please refer to the [Roblox Facial Animation Privacy Policy](https://en.help.roblox.com/hc/articles/8064749848980). For information about how Roblox uses ID Verification, please refer to the [Roblox Biometric Privacy Notice](https://en.help.roblox.com/hc/articles/4412863575316).
+    If you use Roblox features that require the use of your camera or that enable you to upload content that contains your Personal Information, including photos, we will collect, process, and store that content to accomplish the purpose of the feature, including processing the content for safety purposes. Video used to generate animation key frames is processed on your device and is not shared with Roblox or any third parties. For more information, please refer to the [Roblox Facial Animation Privacy Notice](https://en.help.roblox.com/hc/articles/8064749848980). For information about how Roblox uses ID Verification, please refer to the [Roblox Facial Media Capture Privacy Notice](https://en.help.roblox.com/hc/articles/4412863575316).
     
     Contact Importer (users 13 and older)
     
@@ -306,11 +304,9 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Advertising
     
-    To market Roblox’s Service to new and existing users, we use Personal Information like:
+    We process Personal Information to personalize the ads you see on Roblox. Specifically, we use information we collect to decide which ads to show you on Roblox.
     
-    * IP addresses
-    * information on users’ browsers or operating systems, including language settings and general location information
-    * usernames or user IDs
+    Roblox also may work with partners to directly show you ads on Roblox.
     
     If you choose to create an Ad Account, we may collect additional information to create your account such as name, email, address, business and/or tax information. The purpose of collecting this information is to provide the ad account and comply with applicable laws, including tax laws.
     
@@ -395,13 +391,13 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     When you visit our website with an EEA IP address, a cookie banner will appear asking you for your consent. You can manage your choice by clicking on “manage cookie preferences” in the cookie banner. We will save your choices in the form of a cookie. This cookie has a limited effective period of one year. For more information, see Section 7 below.
     
-    Third-party advertising companies
+    Off-Roblox Ads
     
-    We partner with third-party advertising companies such as ad server companies and ad networks. If you interact with content or reach Roblox through a link in an advertisement, we or our service providers may give these third-party advertising companies identifiers from your device, such as an IP address or device ID. We collect this information to help us to promote and market our Services better.
+    We partner with third-party advertising companies such as ad server companies and ad networks to advertise Roblox on other websites and services. If you interact with content or reach Roblox through a link in an advertisement, we or our service providers may give these third-party advertising companies identifiers from your device, such as an IP address or device ID. We collect this information to help us to promote and market our Services better.
     
     For users under 13 years old, Roblox partners with third-party advertising companies:
     
-    * to display contextual advertising that is based on the content of the game you play
+    * to display contextual advertising
     * to limit how much advertising is shown to you if you’re under 13 years old
     * to provide related uses permitted by COPPA.
     
@@ -507,7 +503,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Roblox may disclose information collected from or about you with third-party advertising companies and/or advertising measurement companies to select advertisements for you, or measure and improve advertising effectiveness. In accordance with applicable law, we provide our users with choices about whether data is disclosed for this purpose. Data disclosed for this purpose includes:
     
-    * Contact Identifiers
+    * Contact identifiers
     * Characteristics or demographics
     * Device identifiers
     
@@ -597,13 +593,13 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Setting up a Roblox account
     
-    * Username and password to create your account. The basis for processing this personal data is Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”).
-    * Email addresses and other information you provided us with for added verification and/or to enable certain features. The bases for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) and f (“legitimate interest”) GDPR. Roblox has a legitimate interest in providing a safe and secure Service, especially to protect children.
-    * If you choose to provide a phone number, we will use the phone number for security and account access purposes, which will allow you to log in via mobile and recover a lost or forgotten password. You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Roblox or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”) and f (“legitimate interest”) GDPR. We have a legitimate interest in enabling you to use our Services via your mobile device, ensuring security, and preventing fraud. Additionally, with your explicit and informed consent, we may use your phone number to recommend you as a friend to others using Roblox. The legal basis for  friend recommendations and discoverability based on your phone number is Article 6 sec. 1 sent. 1 lit. a GDPR (“consent”).
+    * Username and password to create your account. The basis for processing this Personal Information is Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”).
+    * Email addresses and other information you provided us with for added verification and/or to enable certain features. The bases for processing this Personal Information are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) and f (“legitimate interest”) GDPR. Roblox has a legitimate interest in providing a safe and secure Service, especially to protect children.
+    * If you choose to provide a phone number, we will use the phone number for security and account access purposes, which will allow you to log in via mobile and recover a lost or forgotten password. You authorize your wireless carrier to use or disclose information about your account and your wireless device, if available, to Roblox or its service provider for the duration of your business relationship, solely to help them identify you or your wireless device and to prevent fraud. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”) and f (“legitimate interest”) GDPR. We have a legitimate interest in enabling you to use our Services via your mobile device, ensuring security, and preventing fraud. Additionally, with your consent, we may use your phone number to recommend you as a friend to others using Roblox. The legal basis for  friend recommendations and discoverability based on your phone number is Article 6 sec. 1 sent. 1 lit. a GDPR (“consent”).
     
     Purchases on Roblox
     
-    * Billing and payment information, when you participate in Developer Exchange or purchase virtual currency or premium subscriptions on behalf of yourself or another user, including your name, billing address, credit card or other payment information and billing information. You may choose to save information such as your credit card number through a third-party payment provider; in such cases the information is not stored by Roblox; it is stored with the third-party partner. If you purchase Robux on behalf of another Roblox user, we collect contact information, such as email or phone number, in order to communicate with you about the transaction. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”). We may also collect billing addresses and retain transaction details and purchase and payment history. The legal basis for processing these personal data is our legitimate interest in being able to perform billing and resolve inquiries, Article 6 sec. 1 sent. 1 lit. f GDPR (“legitimate interest”).
+    * Billing and payment information, when you participate in Developer Exchange or purchase Robux or premium subscriptions on behalf of yourself or another user, including your name, billing address, credit card or other payment information and billing information. You may choose to save information such as your credit card number through a third-party payment provider; in such cases the information is not stored by Roblox; it is stored with the third-party partner. If you purchase Robux on behalf of another Roblox user, we collect contact information, such as email or phone number, in order to communicate with you about the transaction. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”). We may also collect billing addresses and retain transaction details and purchase and payment history. The legal basis for processing this Personal Information is our legitimate interest in being able to perform billing and resolve inquiries, Article 6 sec. 1 sent. 1 lit. f GDPR (“legitimate interest”).
     
     Posting content
     
@@ -616,14 +612,14 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Using Roblox Features
     
     * Social media links you add to your account. When you use these features, certain information from your social media accounts may be accessed by or shared with Roblox. The legal bases for this processing activity are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”). If you use your Roblox credentials to sign in to a third-party website or service, and later delete your Roblox account, you may lose access to such third-party website or service.
-    * When you use voice based services from Roblox, we will collect, process and store your voice recording to enable voice services and make our voice-related services safer. We will not engage in training or product improvement with private server voice chat recordings of EEA users. The bases for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) GDPR and Article 6 sec. 1 sent. 1 lit. f (“legitimate interest”). With your consent, we will use voice recordings to inform training and product improvement. The basis for processing voice data for training and product improvement is Article 6 sec. 1 sent. 1 lit. a (“consent”).
-    * When you request or agree to location-based services (users 13 years old and older), we may collect and track geolocation information so that we can offer services that depend on us knowing where you are. Examples are personalizing content or advertising. We collect this information by using an identifier on your device or browser so that we can recognize you each time you return. To stop us collecting your location information, you can update your device settings, stop using the service, or uninstall our mobile apps. The basis for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”).
-    * If you join our experiences on a VR platform, we will collect your physical movement information in order to replicate your movement in the experience. This information is only used to provide the Service and is not stored. The bases for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”).
-    * If you join a virtual event hosted by a Creator, data such as your username, email, and Roblox user ID may be shared with the third-party platform that hosts events. Such data is used to allow you to log in to the experience. Your activity during a Creator Event is subject to the third party platform’s privacy policy as well as the [Roblox Community Standards](https://en.help.roblox.com/hc/articles/203313410). The bases for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) to join an event and f (“legitimate interest”) GDPR to support the security and integrity of our service.
-    * Information required for additional features that require the use of your camera or upload content, including photos or video, that contains your Personal Information. If you decide to use these features and upload content that requires the use of your camera or upload content that contains your Personal Information, we will collect, process, and store that content only for as long as needed to accomplish the purpose of the feature. The bases for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”). For certain uploads, such as ID verification, Roblox processes data you upload on the basis of consent, Article 6 sec. 1 sent. 1 lit. a or Article 9 sec. 2 lit. a (“consent”). For more information, please refer to the [Roblox Facial Animation Privacy Policy](https://en.help.roblox.com/hc/articles/8064749848980) and [Roblox Biometric Privacy Notice](https://en.help.roblox.com/hc/articles/4412863575316).
-    * Information required for other features or activities, which may be available to our users other than children. We may offer other features or activities on our Services from time to time, and you may be able to submit or upload Personal Information in connection with such features. The data being collected for such features and their intended uses will be evident at the time of data collection. The bases for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”).
+    * When you use audio features from Roblox, we may collect, process and store your audio recording to enable features like voice services and make Roblox safer. We will not engage in training or product improvement with private server voice chat recordings of EEA users. The bases for data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) GDPR and Article 6 sec. 1 sent. 1 lit. f (“legitimate interest”). With your consent, we will use voice recordings to inform training and product improvement. The basis for processing this Personal Information for training and product improvement is Article 6 sec. 1 sent. 1 lit. a (“consent”).
+    * When you request or agree to location-based services (users 13 years old and older), we may collect and track geolocation information so that we can offer services that depend on us knowing where you are. Examples are personalizing content or advertising. We collect this information by using an identifier on your device or browser so that we can recognize you each time you return. To stop us collecting your location information, you can update your device settings, stop using the service, or uninstall our mobile apps. The basis for processing this Personal Information is Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”).
+    * If you join our experiences on a VR platform, we will collect your physical movement information in order to replicate your movement in the experience. This information is only used to provide the Service and is not stored. The bases for processing this Personal Information are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”).
+    * If you join a virtual event hosted by a Creator, data such as your username, email, and Roblox user ID may be shared with the third-party platform that hosts events. Such data is used to allow you to log in to the experience. Your activity during a Creator Event is subject to the third party platform’s privacy policy as well as the [Roblox Community Standards](https://en.help.roblox.com/hc/articles/203313410). The bases for processing this Personal Information are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) to join an event and f (“legitimate interest”) GDPR to support the security and integrity of our service.
+    * Information required for additional features that require the use of your camera or upload content, including photos or video, that contains your Personal Information. If you decide to use these features and upload content that requires the use of your camera or upload content that contains your Personal Information, we will collect, process, and store that content only for as long as needed to accomplish the purpose of the feature. The bases for processing this Personal Information are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”). For certain uploads, such as ID verification, Roblox processes data you upload on the basis of consent, Article 6 sec. 1 sent. 1 lit. a or Article 9 sec. 2 lit. a (“consent”). For more information, please refer to the [Roblox Facial Animation Privacy Notice](https://en.help.roblox.com/hc/articles/8064749848980) and [Roblox Facial Media Capture Privacy Notice](https://en.help.roblox.com/hc/articles/4412863575316).
+    * Information required for other features or activities, which may be available to our users other than children. We may offer other features or activities on our Services from time to time, and you may be able to submit or upload Personal Information in connection with such features. The data being collected for such features and their intended uses will be evident at the time of data collection. The bases for processing this Personal Information are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”).
     * If you opt-in to the Contact Importer feature, you consent to sharing with Roblox the first and last names and phone numbers of your contacts in your address book on your mobile phone, either at the time you register for our Service or otherwise. We do so to help you connect with your friends on our Service. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b GDPR (“performance of a contract”).
-    * Interacting with our experiences. To improve your experience and support our safety efforts, we collect information about how you interact with the Services and we connect this information with your account. For example, we may collect information from a user's game state to detect violations of our Terms and to improve our ability to detect such violations; collect information about your behavior when you interact with your device for security and safety purposes; collect information from your search history to give you similar recommendations; share information like your username and transaction details to the UGC creator or subsequent owners, if you acquire a limited item if you purchase, share, trade, or otherwise engage in a transaction involving UGC. The bases for processing this personal data are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) and f (“legitimate interest”). We may use data collected from your interaction with our experiences for safety or moderation purposes on the basis of Article 6 sec. 1 sent.1 lit. f ("legitimate interest").
+    * Interacting with our experiences. To improve your experience and support our safety efforts, we collect information about how you interact with the Services and we connect this information with your account. For example, we may collect information from a user's game state to detect violations of our Terms and to improve our ability to detect such violations; collect information about your behavior when you interact with your device for security and safety purposes; collect information from your search history to give you similar recommendations; share information like your username and transaction details to the UGC creator or subsequent owners, if you acquire a limited item if you purchase, share, trade, or otherwise engage in a transaction involving UGC. The bases for processing this Personal Information are Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”) and f (“legitimate interest”). We may use data collected from your interaction with our experiences for safety or moderation purposes on the basis of Article 6 sec. 1 sent.1 lit. f ("legitimate interest").
     
     Competitions, promotions, and research
     
@@ -632,8 +628,11 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Advertising
     
-    * To market our services, inter alia, via social media platforms in order to bring new users to our websites and to maintain and increase our user base, we may process Personal Information such as IP addresses, information on users’ browser or operating system, including language settings, regional location information and user names or user IDs. To the extent these practices involve the processing of Personal Information, the legal basis for the processing is Art. 6 sec. 1 sent. 1 lit. a GDPR (“consent”).
-    * When you choose to create an Ad Account, we may collect additional information for your account (such as name, email, address, business information, etc.) in order to create an account. The basis for processing this personal data is Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”). We may also retain transaction details and purchase and payment history. The legal basis for processing these personal data is our legitimate interest in being able to resolve subsequent disputes and inquiries, Article 6 sec. 1 sent. 1 lit. f GDPR (“legitimate interest”).
+    * We process Personal Information to personalize the ads you see on Roblox. Specifically, we use information we collect and receive from partners to decide which ads to show you on Roblox. To the extent these practices involve the processing of Personal Information, the legal basis for the processing is Art. 6 sec. 1 sent. 1 lit. a GDPR (“consent”).
+    * Roblox also may work with partners to directly show you ads on Roblox. To the extent these practices involve the processing of Personal Information, the legal basis for the processing is Art. 6 sec. 1 sent. 1 lit. a GDPR (“consent”).
+    * Roblox will process information collected from or about you to measure and improve advertising effectiveness. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. f GDPR (“legitimate interest”).
+    * To market our services on other sites and apps, for example, via social media platforms in order to bring new users to our websites and to maintain and increase our user base, we may process Personal Information. To the extent these practices involve the processing of Personal Information, the legal basis for the processing is Art. 6 sec. 1 sent. 1 lit. a GDPR (“consent”).
+    * When you choose to create an Ad Account, we may collect additional information for your account (such as name, email, address, business information, etc.) in order to create an account. The basis for processing this Personal Information is Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”). We may also retain transaction details and purchase and payment history. The legal basis for processing these Personal Information is our legitimate interest in being able to resolve subsequent disputes and inquiries, Article 6 sec. 1 sent. 1 lit. f GDPR (“legitimate interest”).
     
     If you’re a developer or creator
     
@@ -641,7 +640,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Other purposes for collecting your information
     
-    * We collect and process personal data for other legitimate purposes including the following. We collect and process data to let you manage your account and our services, to make things better for you, and to protect you by keeping our platform safe and secure. The legal basis for this processing is Article 6 sec.1 sent. 1 lit. f GDPR (“legitimate interest”). We also use data to comply with law and our policies. The legal basis for this processing is Article 6 sec.1 sent. 1 lit. b GDPR (“performance of a contract”) and Article 6 sec.1 sent. 1 lit. b GDPR (“legal obligation”).
+    * We collect and process Personal Information for other legitimate purposes including the following. We collect and process data to let you manage your account and our services, to make things better for you, and to protect you by keeping our platform safe and secure. The legal basis for this processing is Article 6 sec.1 sent. 1 lit. f GDPR (“legitimate interest”). We also use data to comply with law and our policies. The legal basis for this processing is Article 6 sec.1 sent. 1 lit. b GDPR (“performance of a contract”) and Article 6 sec.1 sent. 1 lit. b GDPR (“legal obligation”).
         
     
     Cookies and similar technologies
@@ -679,7 +678,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Further, the creators of the experiences you use or content you interact with will have access to your username, display name, user ID, game metrics, UGC transaction details, and your regional location (which we base on your IP address). We do not share your IP address with the creators. We provide creators with the regional location of players to determine their player base and make sure their experiences meet the legal requirements of the country you live in. The legal basis for this processing activity is Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”), Article 6 sec. 1 sent. 1 lit. c (“compliance with legal obligation”) in compliance with the respective EEA or Member State law and lit. f (“legitimate interest”) GDPR. It is the creators’ legitimate interest to comply with non-EEA legal obligations.
     
-    With your consent, Roblox will disclose information collected from or about you with advertisers and/or advertising measurement companies to select advertisements for you, or measure and improve advertising effectiveness. Data disclosed for this purpose includes contact identifiers and device identifiers. The legal basis for this processing activity is Article 6 sec. sent. 1 lit. a (“consent”).
+    In accordance with applicable laws, Roblox may disclose information collected from or about you with advertisers and/or advertising measurement companies to select advertisements for you, or measure and improve advertising effectiveness. The legal basis for disclosing information to third party advertising partners is Article 6 sec. 1 sent. 1 lit. a(“consent”). Data disclosed for advertising measurement purposes includes contact identifiers and device identifiers. The legal basis for this processing activity is Article 6 sec. sent. 1 lit. f (“legitimate interest”).
     
     If you directly interact with a Commerce Provider to purchase a Commerce Product(s) on Roblox, Roblox and the Commerce Provider may need to exchange information about your purchase in order to fulfill the transaction. This involves Roblox or the Commerce Provider creating a transaction identifier that allows each party to confirm certain information about the transaction, such as whether a purchase has been completed. The legal basis for data sharing required to facilitate a purchase you make through a fulfillment partner is Article 6 sec. 1 sent. 1 lit. b (“performance of a contract”).
     
@@ -719,7 +718,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Purchases on Roblox
     
-    * Billing and payment information, when you participate in Developer Exchange or purchase virtual currency or premium subscriptions on behalf of yourself or another user, including your name, billing address, credit card or other payment information and billing information. You may choose to save information such as your credit card number through a third-party payment provider; in such cases the information is not stored by Roblox; it is stored with the third-party partner. We may also collect billing addresses and retain transaction details and purchase and payment history. If you purchase Robux on behalf of another Roblox user, we collect contact information, such as email or phone number, in order to communicate with you about the transaction.
+    * Billing and payment information, when you participate in Developer Exchange or purchase Robux or premium subscriptions on behalf of yourself or another user, including your name, billing address, credit card or other payment information and billing information. You may choose to save information such as your credit card number through a third-party payment provider; in such cases the information is not stored by Roblox; it is stored with the third-party partner. We may also collect billing addresses and retain transaction details and purchase and payment history. If you purchase Robux on behalf of another Roblox user, we collect contact information, such as email or phone number, in order to communicate with you about the transaction.
     
     Posting content
     
@@ -733,11 +732,11 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     * Social media links you add to your account.Information relating to your use of or interaction with third party plug-ins, e.g. social plugins from Google, Facebook or Twitter. When you use these features, certain information from your social media accounts may be accessed by or shared with Roblox, and likewise, certain information about your use of Roblox may be posted to your profile on those platforms. If you use your Roblox credentials to sign in to a third-party website or service, and later delete your Roblox account, you may lose access to such third-party website or service.
         
-    * When you use voice based services from Roblox, we will collect, process, and store your voice recording to enable voice services and make our voice-related services safer. We will not engage in training or product improvement with private server voice chat recordings of Brazil users. With your consent, we will use voice recordings to inform training and product improvement.
+    * When you use audio features from Roblox, we may collect, process, and store your audio recording to enable voice services and make Roblox safer. We will not engage in training or product improvement with private server voice chat recordings of Brazil users. With your consent, we will use voice recordings to inform training and product improvement.
     * When you request or agree to location-based services (users 13 years old and older), we may collect and track geolocation information so that we can offer services that depend on us knowing where you are. Examples are personalizing content or advertising. We collect this information by using an identifier on your device or browser so that we can recognize you each time you return. To stop us collecting your location information, you can update your device settings, stop using the service, or uninstall our mobile apps.
     * If you join our experiences on a VR platform, we will collect your physical movement information in order to replicate your movement in the experience. This information is only used to provide the Service and is not stored.
     * If you join a virtual event hosted by a Creator, data such as your username, email, and Roblox user ID may be shared with the third-party platform that hosts events. Such data is used to allow you to log in to the experience. Your activity during a Creator Event is subject to the third party platform’s privacy policy as well as the [Roblox Community Standards](https://en.help.roblox.com/hc/articles/203313410).
-    * Information required for additional features that require the use of your camera or upload content, including photos, that contains your Personal Information. If you decide to use these features and upload content, we will collect, process, and store that content to accomplish the purpose of the feature. For more information, please refer to the [Roblox Facial Animation Privacy Policy](https://en.help.roblox.com/hc/articles/8064749848980) and [Roblox Biometric Privacy Notice](https://en.help.roblox.com/hc/articles/4412863575316).
+    * Information required for additional features that require the use of your camera or upload content, including photos or videos, that contains your Personal Information. If you decide to use these features and upload content, we will collect, process, and store that content to accomplish the purpose of the feature. For more information, please refer to the [Roblox Facial Animation Privacy Notice](https://en.help.roblox.com/hc/articles/8064749848980)and [Roblox Facial Media Capture Privacy Notice](https://en.help.roblox.com/hc/articles/4412863575316).
     * Information required for other features or activities, which may be available to our users other than children. We may offer other features or activities on our Services from time to time, and you may be able to submit or upload Personal Information in connection with such features. The data being collected for such features and their intended uses will be evident at the time of data collection.
     * If you opt-in to the Contact Importer feature, you consent to sharing with Roblox the first and last names and phone numbers of your contacts in your address book on your mobile phone, either at the time you register for our Service or otherwise. We do so to help you connect with your friends on our Service.
     * Interacting with our experiences. To improve your experience and support our safety efforts, we collect information about how you interact with the Services and we connect this information with your account. For example, we may collect information from a user's game state to detect violations of our Terms and to improve our ability to detect such violations; collect information about your behavior when you interact with your device for security and safety purposes; collect information from your search history to give you similar recommendations; share information like your username and transaction details to the UGC creator or subsequent owners, if you acquire a limited item if you purchase, share, trade, or otherwise engage in a transaction involving UGC.
@@ -749,7 +748,9 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Advertising
     
-    * To market our services, inter alia, via social media platforms in order to bring new users to our websites and to maintain and increase our user base, we may process Personal Information such as IP addresses, information on users’ browser or operating system, including language settings, regional location information and user names or user IDs.
+    * We process Personal Information to personalize the ads you see on Roblox. Specifically, we use information we collect and receive from partners to decide which ads to show you on Roblox. Depending on where you live, Roblox also may work with partners to directly show you ads on Roblox.
+    * Roblox will process information collected from or about you to measure and improve advertising effectiveness.
+    * To market our services on other sites and apps, for example, via social media platforms in order to bring new users to our websites and to maintain and increase our user base, we may process Personal Information.
     * When you choose to create an Ad Account, we may collect additional information for your account (such as name, email, address, business information, etc.) in order to create an account. We may also retain transaction details and purchase and payment history.
     
     If you’re a developer or creator
@@ -800,7 +801,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     Further, the creators of the experiences you use or content you interact with will have access to your username, display name, user ID, game metrics, UGC transaction details, and your regional location (which we base on your IP address). We do not share your IP address with the creators. We provide creators with the regional location of players to determine their player base and make sure their experiences meet the legal requirements of the country you live in.
     
-    With your consent, Roblox will disclose information collected from or about you with advertisers and/or advertising measurement companies to select advertisements for you, or measure and improve advertising effectiveness. Data disclosed for this purpose includes contact identifiers and device identifiers.
+    In accordance with applicable laws, Roblox may disclose information collected from or about you with advertisers and/or advertising measurement companies to select advertisements for you, or measure and improve advertising effectiveness. Data disclosed for this purpose includes contact identifiers and device identifiers.
     
     If you directly interact with a Commerce Provider to purchase a Commerce Product(s) on Roblox, Roblox and the Commerce Provider may need to exchange information about your purchase in order to fulfill the transaction. This involves Roblox or the Commerce Provider creating a transaction identifier that allows each party to confirm certain information about the transaction, such as whether a purchase has been completed.
     
@@ -837,8 +838,9 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
 
 Summary of Recent Changes
 
-* We have added language to clarify how we collect and use personal information for social media links and billing addresses. 
-* We have clarified the legal basis for ID verification and other purposes we may collect your information.
+* We have added language to clarify audio features on Roblox.
+* We have added language to clarify data processing relating to ads on Roblox.
+* We have added language to clarify how we may collect images or videos for certain features in our Facial Media Capture Privacy Notice.
 
-Effective Date: June 4, 2025  
-Last Updated: June 4, 2025
+Effective Date: June 30, 2025  
+Last Updated: June 30, 2025
