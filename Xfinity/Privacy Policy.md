@@ -1,4 +1,4 @@
-Effective January 1, 2025 | [Download PDF (English)](https://assets.xfinity.com/assets/dotcom/projects_3/2024/dec/privacy-policy---info-collection/xfinityprivacypolicy_january2025.pdf) | [Download PDF (Spanish)](https://assets.xfinity.com/assets/dotcom/dam-183/Privacy%20Policy%20Spanish%20Version.pdf)
+Effective July 1, 2025 | [Download PDF (English)](https://assets.xfinity.com/assets/dotcom/projects_3/2024/dec/privacy-policy---info-collection/PP_07012025.pdf) | [Download PDF (Spanish)](https://assets.xfinity.com/assets/dotcom/projects_3/2024/dec/privacy-policy---info-collection/PP_SP_07012025.pdf)
 
   
 
@@ -17,7 +17,7 @@ Table of contents
 
 [](#privacy-how)
 
-[](#privacy-how)[When and with whom we share information](#privacy-who)
+[](#privacy-how)[When and with whom we disclose information](#privacy-who)
 
 [](#privacy-who)[How we protect your information](#protect-how)
 
@@ -209,22 +209,21 @@ TO INVESTIGATE THEFT OR OTHER ILLEGAL ACTIVITIES, TO ENSURE A SECURE ONLINE ENVI
 * To protect the health and safety of our customers, employees,  
     contractors, or the general public
 
-When and with whom we share information
----------------------------------------
+When and with whom we disclose information
+------------------------------------------
 
-You are in control of your data. We do not sell, and have never sold, information that identifies who you are to anyone. This includes your Internet usage information, video usage information, or call detail information. If you participate in offers that require us to disclose your identifiable data, we will, but only at your direction and with your consent.
-
-We share personal information with others when it's needed to provide you with our Services, including credit reporting agencies. We also share personal information with others:
+We share personal information with others when it’s needed to provide you with our Services, including with credit reporting agencies. We also share personal information with others:
 
 * When you direct us to do so, including to authorize other users on your account
 * When required by law or to respond to legal process
 * To protect our property or rights or the safety of our employees, our customers, or other individuals
+* With third party partners to the extent you elect to participate in programs such as Xfinity Rewards
 
 If your internet service or other access is provided in whole or in part by a third party, such as a landlord or property owner, educational institution, local government, or nonprofit entity, we may share with them information collected during your registration, as well as service tier, activation, and/or aggregated usage information.
 
-If we share your personal information with other companies for their own marketing and advertising activities, we will first get your consent. This may be through [opt-in or opt-out settings](#/privacy/overlays/opt-in), depending on the type of personal information shared.
+We do not sell information that directly identifies you (such as your name or email address) to third parties. This includes your Internet usage information, video usage information, or call detail information. If you participate in offers that require us to disclose your identifiable data to [another company](#/privacy/overlays/Another-company), we will, but only at your direction and with your consent.
 
-We may also share personal information that does not identify you with third parties for their own marketing and advertising purposes, which you can opt out of. This mainly occurs when you interact with our websites and mobile applications that contain third-party cookies or other advertising trackers. To learn more about this, please read our [Cookie Notice](https://www.xfinity.com/privacy/policy/cookienotice)
+We may also disclose personal information that does not directly identify you (such as IP address or device identifier) with third parties, including for marketing and advertising purposes, which you can control through [opt-in or opt-out settings](#/privacy/overlays/opt-in), depending on the type of personal information shared. It is possible that our third party partners may be able to identify you based on information they collect from other sources, including any interactions you have with them.
 
 * * *
 
@@ -280,10 +279,6 @@ Including services related to our call centers, installation, maintenance, and r
 
 **Third parties**
 
-We do not sell, and have never sold, information that personally identifies who you are to anyone. Although permitted by federal law, we do not disclose your name and address to non-governmental entities, such as charities or businesses, for their own marketing purposes.
-
-Sometimes, you may ask us to share information that personally identifies you with [another company](#/privacy/overlays/Another-company). In that instance, we will make sure you give us clear direction about what you want us to share and with whom, before we share that information.
-
 Other sharing with third parties can include:
 
 SOCIAL MEDIA COMPANIES
@@ -301,7 +296,7 @@ We work with business partners to help us measure and analyze how our customers 
 
 NON-XFINITY APPS AND PARTNERS
 
-Certain Services enable you to interact directly with technology provided by other companies, such as using a [non-Xfinity video app](#/privacy/overlays/Non-Xfinity-Video-app) available through our Services, or accessing our Services through [another company’s platform or device](#/privacy/overlays/Another-company-Platform). When you use our Services in connection with any technology provided by another company, you are directing us to interact with that company and that company may collect information from you and our Services. This Privacy Policy does not cover the privacy practices of other companies. For more information about how those companies use your information, please review their privacy policies. For more information about non-Xfinity apps supported on our video Services, please visit [https://my.xfinity.com/privacy/providers](https://my.xfinity.com/privacy/providers). Certain apps may also run using technology provided by Metrological, a separate Comcast company not subject to this Privacy Policy, whose privacy practices are described at [metrological.com/privacypolicy](https://www.xfinity.com/privacy/www.metrological.com/privacypolicy).
+Certain Services enable you to interact directly with technology provided by other companies, such as using a [non-Xfinity video app](#/privacy/overlays/Non-Xfinity-Video-app) available through our Services, or accessing our Services through [another company’s platform or device](#/privacy/overlays/Another-company-Platform). When you use our Services in connection with any technology provided by another company, you are directing us to interact with that company and that company may collect information from you and our Services. This Privacy Policy does not cover the privacy practices of other companies. For more information about how those companies use your information, please review their privacy policies. For more information about non-Xfinity apps supported on our video Services, please visit [https://my.xfinity.com/privacy/providers](https://my.xfinity.com/privacy/providers).
 
 CONSUMER REPORTING AGENCIES
 
@@ -426,6 +421,8 @@ Your privacy may be impacted differently depending on where you live. If you're 
 
 [Maine](https://www.xfinity.com/privacy/policy/staterights#maine)
 
+[Minnesota](https://www.xfinity.com/privacy/policy/staterights#minnesota)
+
 [Montana](https://www.xfinity.com/privacy/policy/staterights#montana)
 
 [Nebraska](https://www.xfinity.com/privacy/policy/staterights#nebraska)
@@ -435,6 +432,8 @@ Your privacy may be impacted differently depending on where you live. If you're 
 [New Jersey](https://www.xfinity.com/privacy/policy/staterights#newjersey)
 
 [Oregon](https://www.xfinity.com/privacy/policy/staterights#oregon)
+
+[Tennessee](https://www.xfinity.com/privacy/policy/staterights#tennessee)
 
 [Texas](https://www.xfinity.com/privacy/policy/staterights#texas)
 
