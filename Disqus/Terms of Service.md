@@ -5,7 +5,7 @@ Disqus' Terms of Service for Users and Publishers.
 
 Written by Disqus
 
-Updated over a month ago
+Updated over 2 months ago
 
 DISQUS TERMS
 ============
