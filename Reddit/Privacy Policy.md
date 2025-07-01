@@ -3,8 +3,6 @@ Reddit Privacy Policy
 
 Effective: June 28, 2025. Last Revised: May 29, 2025.
 
-false
-
 Introduction
 ------------
 
