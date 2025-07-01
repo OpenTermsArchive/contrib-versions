@@ -240,7 +240,7 @@ Information provided by publishers to enable their use of or interaction with Go
 * must be materially accurate and complete, without misleading omissions; and
 * cannot be expressed in a deceptive or misleading manner.
     
-    **Examples:** The personal information or payment details provided by a publisher are materially incomplete, obscured or inaccurate. Information provided about a publisher’s website (e.g., in the ads.txt file) or app (e.g., in the app-ads.txt file) is inaccurate. Ad requests that contain partial or inaccurate URLs or AppIDs.
+    **Examples:** The personal information or payment details provided by a publisher are materially incomplete, obscured or inaccurate. Information provided about a publisher’s website (e.g., in the ads.txt file) or app (e.g., in the app-ads.txt file) is inaccurate. Deceptively incomplete or inaccurate data in the ad requests such as partial or inaccurate URLs or AppIDs, incorrect geolocation, etc.
     
 
                ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about dishonest declarations](https://support.google.com/publisherpolicies/answer/11037245)_
