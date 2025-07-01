@@ -16,7 +16,7 @@ Choose a Google product
 * [![](//fonts.gstatic.com/s/i/productlogos/play_prism/v8/web-64dp/logo_play_prism_color_1x_web_64dp.png)
     
     ### Google Play](https://support.google.com/googleplay?hl=en-GB)
-* [![](//www.gstatic.com/images/branding/googleg/1x/googleg_standard_color_64dp.png)
+* [![](//www.gstatic.com/images/branding/googleg_gradient/1x/googleg_gradient_standard_40dp.png)
     
     ### Web Search](https://support.google.com/websearch?hl=en-GB)
 * [![](//storage.googleapis.com/support-kms-prod/bJppRS0Z8FmVujFmM7KFHADzbq3L0PPb1Wpj)
