@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-Thu 6 Mar 2025 10.34 GMT
+Tue 1 Jul 2025 13.21 BST
 
 Introduction
 ------------
@@ -49,19 +49,17 @@ Some of our other sites provide additional privacy information. You can read tha
     
 * [Guardian Holidays](https://holidays.theguardian.com/privacy-policy/)
     
-* [Guardian Crowd](https://www.theguardiancrowd.com/MediaServer/15/documents/Privacy_Policy.pdf) (pdf)
-    
 * [Guardian Foundation](https://theguardianfoundation.org/privacy-policy)
     
 
 Sometimes our sites may contain links to sites and services that are not part of the Guardian family of offerings. These sites and services have their own privacy policies. If you follow a link to these non-Guardian sites and apps, you should read the privacy policy shown on their site.
 
-If you are a provider of content in a freelance or other commercial capacity and/or third party licensee customer of our content products and services, please refer to our Contributor & Licensing Customers privacy policy [here](https://www.theguardian.com/info/2024/nov/29/contributor-licensing-customers-privacy-policy).
+If you are a provider of content in a freelance or other commercial capacity and/or a third party licensee customer of our content products and services, please refer to our Contributor & Licensing Customers privacy policy [here](https://www.theguardian.com/info/2024/nov/29/contributor-licensing-customers-privacy-policy).
 
 Who we are
 ----------
 
-Guardian News & Media Limited, Kings Place, 90 York Way, London N1 9GU is the data controller in respect of your personal data that you share with us. This means that we are responsible for deciding how and why we hold and use your personal data. If you want to contact us directly, you can find our contact details in the “Contact us for information about how we use your personal data” section below.
+Guardian News & Media Limited, Kings Place, 90 York Way, London N1 9GU is the data controller in respect of personal data that we collect from you. This means that we are responsible for our use of your personal data. If you want to contact us directly, you can find our contact details in the “Contact us for information about how we use your personal data” section below.
 
 The types of personal data we collect about you
 -----------------------------------------------
@@ -98,7 +96,7 @@ You can change or remove these details using the profile and settings area of yo
 
 _Personal data we generate about you_
 
-When you register for a Guardian account or sign up for a newsletter, we assign you a unique ID number. We use this to manage your preferences, for example, the newsletters you have subscribed to. When you register for a Guardian account we use your unique ID to recognise you when you are signed in to our services.
+When you register for a Guardian account, sign up for a newsletter, or make a payment, we assign you a unique ID number. We use this to manage your preferences, for example, the newsletters you have subscribed to. When you register for a Guardian account we use your unique ID to recognise you when you are signed in to our services.
 
 We will match this to your browsing behaviour to recognise you on a new device or through a different application such as the Guardian app on mobile devices.
 
@@ -114,16 +112,16 @@ When you use our sites we may also use cookies or similar technologies to collec
     
 * Details of your computer, mobile, TV, tablet or other devices, for example, the unique device ID, mobile advertising ID, unique vendor or advertising ID and browsers used to access our content.
     
-* Identifiers derived from those cookies or similar technologies, your device, or generated based on the data described above.
+* Identifiers derived from those cookies or similar technologies, your device, or generated based on the data you share when registering, signing up for newsletters or making a payment, such as your email address, or the data described above.
     
 
 We will not collect special categories of data from you - such as personal data concerning your race, political opinions, religion, health or sexual orientation - unless you have chosen to provide that type of personal data to us.
 
 _When you use our apps_
 
-The Guardian apps use personal data based on the content you have viewed. Information on bugs and crashes is also sent to us when you use our apps. A list of the articles that you have recently viewed is also cached in the local storage on your device. You can delete this reading history in the settings of the app. You can choose to receive notifications on your device via the app, and manage these notifications in the settings of the app.
+The Guardian apps use personal data based on the content you have viewed. Information on bugs and crashes is also sent to us when you use our apps, including your device’s information if you report an issue. A list of the articles that you have recently viewed is also cached in the local storage on your device. You can delete this reading history in the settings of the app. You can choose to receive notifications on your device via the app, and manage these notifications in the settings of the app.
 
-_Using your social media details to sign into your Guardian account_
+_Using your social media details to sign in to your Guardian account_
 
 When you sign in to our sites using your social media ID, we will use this personal data to form a profile for your Guardian account. If you remove the Guardian app from your Google settings or your Apple ID, we will no longer have access to this data. However, we will still have the personal data that we received when you first set up your Guardian account using your Google login, Apple ID, or any other social media sign in.
 
@@ -190,13 +188,12 @@ The legal ground may be one of the following:
     
     * Place non-essential cookies and similar technologies including for personalised advertising as set out in the “Privacy settings” link on our sites in the footer of every page, which you may withdraw at any time depending on whether you are able to read the Guardian ad free or have a Guardian Ad-Lite subscription.
         
-    * Use your registration data to personalise advertising.
+    * Sending editorial newsletters that you have signed up to receive.
         
 * _Performance of a contract with you_ (or in order to take steps prior to entering into a contract with you): We will use your personal data if we need to in order to perform a contract with you. For example, where you have purchased a subscription from us, we will need to use your contact details and payment data in order to process your order and deliver your subscription. We will use your information as necessary in order to conduct competitions or prize draws. We may contact you directly via social media or email if you enter competitions, prize draws, bids or respond to call-outs.
     
 * _Compliance with law_: In some cases, we may have a legal obligation to use or keep your personal data, for example to retain records of transactions as required by financial regulations.
     
-
 * _Our legitimate interest_: We may process your personal data where it is necessary for our legitimate interests in a way that might be expected as part of running the Guardian and in a way which does not materially impact your rights and freedoms. For example, it is in our legitimate interest for us to understand our readers, promote our services and ways to support us, and operate our sites efficiently for the creation, publication and distribution of news, media and related journalistic content both online and in print form, globally. Please refer to the table below for examples of when we rely on our legitimate interests to use your personal data.
     
 
@@ -228,6 +225,8 @@ Where we rely on cookies to collect any personal data please see our [cookie pol
 Where personal data has been de-identified or anonymised, it will not be used in order to re-identify individuals.
 
 The Guardian is a media organisation and publisher. Data protection law includes certain exemptions when personal data is processed for the purposes of journalism. Those exemptions apply to some of the ways the Guardian uses personal data. This privacy policy does not cover personal data that the Guardian processes for the purposes of journalism.
+
+The Guardian may use generative AI functionalities in our software and systems, including in our use of personal data. The Guardian has set out our [generative AI principles](https://www.theguardian.com/help/insideguardian/2023/jun/16/the-guardians-approach-to-generative-ai) on how we will use generative AI.
 
 _Access permissions when you are using the Guardian app_
 
@@ -262,6 +261,10 @@ We also use personal data based on the content you have viewed on our sites and 
 _Personal data shared by event partners_
 
 When you register or book a ticket for a Guardian event organised by an event partner, your registration data may be shared with us by the event partner.
+
+_Personal data shared by survey partners_
+
+When you participate in a survey conducted by one of our survey partners, your email address may be shared with us by the survey partner to facilitate follow-up research.
 
 Children’s personal data
 ------------------------
@@ -305,7 +308,7 @@ _Service providers_ - We may share your data with other organisations that provi
     
 * Life-cycle engagement platforms such as Braze, to help us build and manage our campaigns and send our email communications, including newsletters.
     
-* Software service providers such as Salesforce that assist us with our customer relationship management.
+* Software service providers such as Salesforce and mParticle that assist us with our customer relationship management.
     
 * Communications services providers, such as our podcast service provider called Acast.
     
@@ -332,7 +335,7 @@ _Service providers_ - We may share your data with other organisations that provi
 
 _Advertising partners_ - We may also share your data collected through our sites with our advertising partners, as set out in our [cookie policy](https://www.theguardian.com/info/cookies). These partners help us deliver relevant advertising across our sites. For example, we use Google Ad Manager to assist us with the delivery of relevant ads.
 
-These partners may also generate their own identifier for the purpose of recognising your devices for personalised advertising. You can find details about these partners’ use of data and opt out of their identifiers through the following links:
+These partners may also generate their own identifier from your device or email address for the purpose of personalised advertising. You can find details about these partners’ use of data and opt out of their identifiers through the following links:
 
 * LiveRamp: [https://liveramp.uk/privacy/service-privacy-policy/](https://liveramp.uk/privacy/service-privacy-policy/) and opt out - [https://liveramp.uk/privacy/your-rights/](https://liveramp.uk/privacy/your-rights/)
     
@@ -340,7 +343,11 @@ These partners may also generate their own identifier for the purpose of recogni
     
 * Lotame: Privacy policy - [https://www.lotame.com/privacy/privacy-notices/services/](https://www.lotame.com/privacy/privacy-notices/services/) and opt out - [https://www.lotame.com/privacy/privacy-manager/](https://www.lotame.com/privacy/privacy-manager/)
     
-* The Trade Desk (UID and EUID): Privacy policy - [https://www.thetradedesk.com/us/privacy](https://www.thetradedesk.com/us/privacy) and opt out - [https://adsrvr.org/](https://adsrvr.org/)
+* The Trade Desk: Privacy policy - [https://www.thetradedesk.com/us/privacy](https://www.thetradedesk.com/us/privacy) and opt out - [https://adsrvr.org/](https://adsrvr.org/)
+    
+* EUID: Privacy policy - [https://www.transparentadvertising.eu/privacy](https://www.transparentadvertising.eu/privacy) and opt out - [https://www.transparentadvertising.eu/](https://www.transparentadvertising.eu/)
+    
+* UID2: Privacy policy - [https://transparentadvertising.com/privacy](https://transparentadvertising.com/privacy) and opt out - [https://www.transparentadvertising.com/](https://www.transparentadvertising.com/)
     
 
 _Affiliate marketing_ - When a product is linked from a Guardian article or gallery, if the retailer has an affiliate programme, then the link will redirect to the retailer website through our affiliate marketing partner, such as Skimlinks’ network. When a reader clicks on a link, Skimlinks will identify which page the click came from and assign it a randomly generated number. This is communicated to the retailer and associated with any subsequent purchase. The affiliate marketing partner, such as Skimlinks, then reconciles the list of clicks from links on the Guardian with purchases on the retailer’s site. This is used in order to calculate the commission for the Guardian.
@@ -474,7 +481,7 @@ You can designate an “authorized agent” to make requests to exercise your ri
 
 **Record of requests**
 
-We keep a record of requests that we received from users exercising their CCPA rights. We have set out this record of requests for the last calendar year from 1 July 2023 below:
+We keep a record of requests that we received from users exercising their CCPA rights. We have set out this record of requests for the last calendar year from 1 July 2024 below:
 
 **California “Shine the Light” privacy rights**
 
@@ -506,7 +513,7 @@ These principles and rights are reflected throughout this privacy policy.
 
 _Opt out of personalised advertising_
 
-Under the Australian Privacy Act, you have the right to opt out of the use of your personal information for the purpose of direct marketing, including in relation to personalised advertising. You can opt out of personalised advertising across our website and apps at any time by going to the “Privacy Settings” link on our sites in the footer of every page. You will still see non-personalised advertising.
+Under the Australian Privacy Act, you have the right to opt out of the use of your personal information for the purpose of direct marketing, including in relation to personalised advertising. You can opt out of personalised advertising across our website and apps at any time by going to the “Privacy settings” link on our sites in the footer of every page. You will still see non-personalised advertising.
 
 We and our partners use cookies and similar technologies to collect information about your use of the website to help create reports and statistics on the performance of the website. Analytics cookies collect information such as your IP address, device type and operating system, referring URLs, location and pages visited.
 
@@ -535,8 +542,8 @@ For individuals based in the European Union:
 
 Since we do not have an establishment in the European Union, we have appointed an EU based representative to serve as a direct contact for data protection authorities and individuals on our behalf, who can be contacted at theguardian@mcf.ie or MCF Legal Technology Solutions Limited, Riverside One, Sir John Rogerson’s Quay, Dublin 2, Ireland.
 
-**Changes to this privacy policy**
-----------------------------------
+Changes to this privacy policy
+------------------------------
 
 If we decide to change our privacy policy, the updated privacy policy will be posted on this page. If the changes are significant, we may also choose to email all our registered users with the new details. If required by law, we will get your permission or give you the opportunity to opt out of any new uses of your data.
 
@@ -544,7 +551,9 @@ _Changes to this privacy policy to date_
 
 The most recent changes to this privacy policy were made on:
 
-* 6 March 2025
+* 1 July 2025
+    
+* 5 March 2025
     
 * 1 July 2024
     
