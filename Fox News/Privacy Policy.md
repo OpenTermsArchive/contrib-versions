@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-_Last Updated/Effective Date: July 1, 2024_
+_Last Updated/Effective Date: July 1, 2025_
 
 Table of Contents:
 ------------------
