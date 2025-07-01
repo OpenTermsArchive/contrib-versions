@@ -7,7 +7,7 @@ Google Cloud Terms of Service
 
 New to Google Cloud? A quick overview of Google Cloud’s online contracting can be found [here](https://cloud.google.com/terms/overview).
 
-If you are accessing the Google Cloud Platform Services or Looker (original) Services as a customer of an unaffiliated Google Cloud Platform reseller, the terms below do not apply to you, and your agreement with your reseller governs your use of the Google Cloud Platform Services or Looker (original) Services. For the avoidance of doubt, if you are accessing the SecOps Services as a customer of an unaffiliated Google Cloud reseller, the terms below do apply to you in relation to your use of SecOps Services, subject to Section 14 (Resold Customers).
+If you are accessing the Services as a customer of an unaffiliated Google Cloud reseller, these terms will apply to you in relation to your use of the Services (subject to the “Resold Customers” section of the applicable Service Specific Terms). Notwithstanding the applicability of these terms, if you fall under one of the exempt categories described at [https://cloud.google.com/terms/direct-tos-exemptions](https://cloud.google.com/terms/direct-tos-exemptions) for the applicable Services, these terms do not apply to you, unless you and Google agree otherwise in writing. If you become exempt from these terms after the Effective Date, this will not affect any liability arising between the parties prior to the date that you become exempt.
 
 If you signed an offline variant of this Agreement for use of the Google Cloud Platform Services, SecOps Services, or Looker (original) Services under the same Google Cloud Platform Services, SecOps Services or Looker (original) Services Account, the terms below do not apply to you, and your offline terms govern your use of the Google Cloud Platform Services, SecOps Services or Looker (original) Services, as applicable.
 
@@ -27,13 +27,11 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 (a) _To the Services._ Google may make commercially reasonable updates to the Services from time to time.
 
-(b) _To this Agreement._ For GCP Services, Looker (original) Services, and their respective TSS only, Google may make updates to this Agreement and pricing from time to time. Google will post any update to this Agreement to [https://cloud.google.com/terms/](https://cloud.google.com/terms/). This subsection 1.4(b) does not apply to updates to the URL Terms, which are governed by subsection 1.4(c) below.
+(b) _To this Agreement._ Subject to subsections (i) and (ii), Google may make updates to this Agreement and pricing from time to time. Google will post any update to this Agreement to [https://cloud.google.com/terms/](https://cloud.google.com/terms/). This subsection 1.4(b) does not apply to updates to the URL Terms, which are governed by subsection 1.4(c) below.
 
 (i) With respect to GCP Services and their corresponding TSS, unless otherwise noted by Google, material updates to this Agreement will become effective 30 days after they are posted. Notwithstanding the preceding sentence, to the extent any updates apply to new functionality or are required to comply with applicable law, they will be effective immediately. If Customer does not agree to any update to the Agreement regarding GCP or its TSS, Customer may stop using the GCP Services or TSS. Customer may also terminate this Agreement for convenience under Section 8.4 (Termination for Convenience). Customer's continued use of the GCP Services or TSS after a material update will constitute Customer's consent to such update.
 
-(ii) With respect to Looker (original) Services and their corresponding TSS, material updates to this Agreement will only take effect if and when Customer’s Order Term renews.
-
-(iii) For the avoidance of doubt, this Section 1.4(b) does not apply to SecOps Services and their corresponding TSS.
+(ii) With respect to SecOpS Services and Looker (original) Services and their respective corresponding TSS, material updates to this Agreement will only take effect if and when Customer’s Order Term renews.
 
 (c) _To the URL Terms (All Services)._ Google may make commercially reasonable updates to the URL Terms from time to time by posting any such update at the relevant URL Term. Unless otherwise noted by Google, material updates to the URL Terms will become effective 30 days after they are posted. Notwithstanding the preceding sentence, to the extent the updates apply to new functionality or the Cloud Data Processing Addendum, or are required by applicable law, they will be effective immediately.
 
@@ -71,7 +69,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 3.1 _Compliance._ Customer will (a) ensure that Customer and its End Users' use of the Services complies with this Agreement, (b) use commercially reasonable efforts to prevent and terminate any unauthorized use of, or access to, the Services, and (c) promptly notify Google of any unauthorized use of, or access to, the Services, Account, or Customer's password of which Customer becomes aware. Google reserves the right to investigate any potential violation of the AUP by Customer, which may include reviewing Customer Applications, Customer Data, or Projects.
 
-3.2 _Privacy_. Customer is responsible for any consents and notices required to permit (a) Customer's use and receipt of the Services and (b) Google's accessing, storing, and processing of data provided by Customer (including Customer Data, if applicable) under this Agreement.
+3.2 _Consents_. Customer is responsible for any consents and notices required to permit (a) Customer's use and receipt of the Services and (b) Google's accessing, storing, and processing of data provided by Customer (including Customer Data, if applicable) under this Agreement.
 
 3.3 _Restrictions._ Customer will not, and will not allow End Users to, (a) copy, modify, or create a derivative work of the Services; (b) reverse engineer, decompile, translate, disassemble, or otherwise attempt to extract any or all of the source code of, the Services (except to the extent such restriction is expressly prohibited by applicable law); (c) sell, resell, sublicense, transfer, or distribute any or all of the Services; or (d) access or use the Services (i) for High Risk Activities; (ii) in violation of the AUP; (iii) in a manner intended to avoid incurring Fees (including creating multiple Customer Applications, Accounts, or Projects to simulate or act as a single Customer Application, Account, or Project (respectively)) or to circumvent Service-specific usage limits or quotas; (iv) to engage in cryptocurrency mining without Google's prior written approval; (v) to operate or enable any telecommunications service or in connection with any Customer Application that allows End Users to place calls or to receive calls from any public switched telephone network, unless otherwise described in the Service Specific Terms; (vi) for materials or activities that are subject to the International Traffic in Arms Regulations (ITAR) maintained by the United States Department of State; (vii) in a manner that breaches, or causes the breach of, Export Control Laws; or (viii) to transmit, store, or process health information subject to United States HIPAA regulations except as permitted by an executed HIPAA BAA.
 
@@ -137,7 +135,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 **12.1 _Limitation on Indirect Liability._ To the extent permitted by applicable law and subject to Section 12.3 (Unlimited Liabilities), neither party will have any Liability arising out of or relating to this Agreement for any (a) indirect, consequential, special, incidental, or punitive damages or (b) lost revenues, profits, savings, or goodwill.**
 
-**12.2 _Limitation on Amount of Liability._ Each party's total aggregate Liability for damages arising out of or relating to the Agreement in connection with the GCP Services, SecOps Services, or Looker (original) Services, as applicable, is limited to the Fees Customer paid for such Services during the 12 month period before the event giving rise to Liability, except Google’s total aggregate Liability for damages arising out of or related to Services or Software provided free of charge is limited to $5,000.**
+**12.2 _Limitation on Amount of Liability._ Each party's total aggregate Liability for damages arising out of or relating to the Agreement in connection with the GCP Services, GWS Services, SecOps Services, or Looker (original) Services, as applicable, is limited to the Fees Customer paid for such Services during the 12 month period before the event giving rise to Liability, except Google’s total aggregate Liability for damages arising out of or related to Services or Software provided free of charge is limited to $5,000.**
 
 **12.3 _Unlimited Liabilities._ Nothing in this Agreement excludes or limits either party's Liability for:**
 
@@ -155,7 +153,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 13.1 _Google Indemnification Obligations._ Google will defend Customer and its Affiliates using the Services under Customer’s Account and indemnify them against Indemnified Liabilities in any Third-Party Legal Proceeding to the extent arising from an allegation that any Service or any Google Brand Feature, in each case used in accordance with this Agreement, infringes the third party's Intellectual Property Rights.
 
-13.2 _Customer Indemnification Obligations._ Customer will defend Google and its Affiliates providing the Services and indemnify them against Indemnified Liabilities in any Third-Party Legal Proceeding to the extent arising from (a) any Customer Application, Project, Customer Data, or Customer Brand Features; or (b) Customer's or an End User's use of the Services in breach of the AUP or Section 3.3 (Restrictions).
+13.2 _Customer Indemnification Obligations._ Customer will defend Google and its Affiliates providing the Services and indemnify them against Indemnified Liabilities in any Third-Party Legal Proceeding to the extent arising from (a) any Customer Application, Project, Customer Data, or Customer Brand Features; or (b) Customer's or an End User's use of the Services or Software in breach of the AUP or Section 3.3 (Restrictions).
 
 13.3 _Exclusions._ Sections 13.1 (Google Indemnification Obligations) and 13.2 (Customer Indemnification Obligations) will not apply to the extent the underlying allegation arises from (a) the indemnified party's breach of this Agreement, (b) a combination of the indemnifying party's technology or Brand Features with materials not provided by the indemnifying party under this Agreement, unless the combination is required by this Agreement, or (c) in the case of Google or any of its Affiliates as the indemnifying party, any Services provided to Customer free of charge.
 
@@ -173,83 +171,51 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 13.6 _Sole Rights and Obligations._ Without affecting either party's termination rights and to the extent permitted by applicable law, this Section 13 (Indemnification) states the parties' sole and exclusive remedy under this Agreement for any third-party allegations of Intellectual Property Rights infringement covered by this Section 13 (Indemnification).
 
-**14.** **Resold Customers****.** This Section 14 (Resold Customers) applies only if Customer orders SecOps Services from a Reseller under a Reseller Agreement (such Services, “Resold Services”). For the avoidance of doubt, this Agreement does not apply to Google Cloud Platform Services or Looker (original) Services ordered from a Reseller.
+**14. Miscellaneous.**
 
-14.1 _Applicable Terms._ For the purposes of Resold Services:
+14.1 _Notices._ Under this Agreement, notices to Customer must be sent to the Notification Email Address and notices to Google must be sent to [legal-notices@google.com](mailto:legal-notices@google.com). Notice will be treated as received when the email is sent. Customer is responsible for keeping its Notification Email Address current throughout the Term.
 
-(a) Section 2 (Payment Terms) of this Agreement will not apply;
+14.2 _Emails._ The parties may use emails to satisfy written approval and consent requirements under this Agreement.
 
-(b) Reseller Fees will apply and be payable directly to Reseller, and all prices for Resold Services will be solely determined between Reseller and Customer;
+14.3 _Assignment._ Neither party may assign any part of this Agreement without the written consent of the other, except to an Affiliate where (a) the assignee has agreed in writing to be bound by the terms of this Agreement, and (b) the assigning party has notified the other party of the assignment. Any other attempt to assign is void. If Customer assigns this Agreement to an Affiliate in another jurisdiction such that there is a change in the Google contracting entity as defined at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity) this Agreement is automatically assigned to the new Google contracting entity.
 
-(c) Google will provide to Customer the Resold Services described in the Reseller Order to the extent that there is a valid and binding order for such Services between Google and Reseller;
+14.4 _Change of Control._ If a party experiences a change of Control other than as part of an internal restructuring or reorganization (for example, through a stock purchase or sale, merger, or other form of corporate transaction), that party will give written notice to the other party within 30 days after the change of Control.
 
-(d) Customer will receive any applicable SLA credits or monetary refunds described in this Agreement from Reseller only;
+14.5 _Force Majeure._ Neither party will be liable for failure or delay in performance to the extent caused by circumstances beyond its reasonable control, including acts of God, natural disasters, terrorism, riots, or war.
 
-(e) In the event of termination of this Agreement, Google will send Reseller (and not Customer) the final invoice (if applicable) for payment obligations related to Resold Services. Customer will notify (i) Reseller of any termination of this Agreement and (ii) Google of any termination of the Reseller Agreement;
+14.6 _Subcontracting_. Google may subcontract obligations under this Agreement but will remain liable to Customer for any subcontracted obligations.
 
-(f) Any renewal(s) of the Resold Services and/or any Reseller Order will be as agreed between Customer and Reseller;
+14.7 _No Agency._ This Agreement does not create any agency, partnership, or joint venture between the parties.
 
-(g) If Reseller fails to pay an undisputed invoice for Resold Services to Google due to Customer’s failure to pay Reseller, Google may Suspend Customer’s access to the Services;
+14.8 _No Waiver._ Neither party will be treated as having waived any rights by not exercising (or delaying the exercise of) any rights under this Agreement.
 
-(h) “Order Term,” as it is used in this Agreement, means the period of time starting on the Services Start Date or the renewal date (as applicable) for the Resold Services and continuing until the expiration or termination of the applicable Reseller Order; and
+14.9 _Severability._ If any part of this Agreement is invalid, illegal, or unenforceable, the rest of this Agreement will remain in effect.
 
-(i) “Services Start Date,” as it is used in this Agreement, means either the start date described in the Reseller Order or, if none is specified in the Reseller Order, the date Google makes the Resold Services available to Customer; and
+14.10 _No Third-Party Beneficiaries._ This Agreement does not confer any benefits on any third party unless it expressly states that it does.
 
-(j) Certain Services require linking to the Reseller's billing account in order to be billed by the Reseller. Customer acknowledges and agrees that, until any such Services used by Customer are linked to the Reseller’s billing account, such Services will (i) not constitute Resold Services (and therefore not be subject to this Section 14 (Resold Customers)), and (ii) be regarded as Services ordered directly from Google and accordingly, despite the terms of the Reseller Agreement (including the fees agreed between Customer and Reseller), Customer will be required to pay Fees to Google for such Services, in accordance with the terms of this Agreement. For inquiries about which Services must be linked, Customer should contact Reseller.
+14.11 _Equitable Relief._ Nothing in this Agreement will limit either party's ability to seek equitable relief.
 
-14.2 _Liability Cap._ For the purposes of Section 12.2 (Limitation on Amount of Liability), where the event giving rise to Liability is a breach of this Agreement or otherwise arises in connection with the Resold Services, "Fees" as it is used in that Section means "Reseller Fees”. If Customer or Google brings a claim under the Agreement, then for the purposes of establishing the Liability cap under Section 12.2 (Limitation on Amount of Liability), upon Google's request, Customer will (a) promptly disclose to Google the amount of any Reseller Fees paid or payable under the Reseller Agreement; (b) consent to Reseller disclosing such amount to Google, notwithstanding Reseller's confidentiality obligations under the Reseller Agreement; and (c) procure any consents necessary to enable Customer's or Reseller's disclosure under this Section 14.2 (Liability Cap).
-
-14.3 _Sharing Confidential Information._ Google may share Customer Confidential Information with Reseller as a Delegate subject to Section 7.1 (Obligations).
-
-14.4 _Reseller-Customer Relationship._ At Customer’s discretion, Reseller may access Customer’s Account. As between Google and Customer, Customer is solely responsible for (a) any access by Reseller to Customer's Account and (b) defining in the Reseller Agreement any rights or obligations as between Reseller and Customer with respect to the Resold Services. Google will not have any Liability arising out of a Reseller’s (x) suspension or termination of Customer’s access to the Services; (y) access to and visibility of Customer’s Account and Customer’s Account’s billing-related metadata; or (z) offering or provisioning of Reseller or third party products or services.
-
-14.5 _Reseller Technical Support._ Customer acknowledges and agrees that Reseller may disclose Customer and End User personal data to Google as reasonably required for Reseller to handle any support issues that Customer escalates to or via Reseller.
-
-**15. Miscellaneous.**
-
-15.1 _Notices._ Under this Agreement, notices to Customer must be sent to the Notification Email Address and notices to Google must be sent to [legal-notices@google.com](mailto:legal-notices@google.com). Notice will be treated as received when the email is sent. Customer is responsible for keeping its Notification Email Address current throughout the Term.
-
-15.2 _Emails._ The parties may use emails to satisfy written approval and consent requirements under this Agreement.
-
-15.3 _Assignment._ Neither party may assign any part of this Agreement without the written consent of the other, except to an Affiliate where (a) the assignee has agreed in writing to be bound by the terms of this Agreement, and (b) the assigning party has notified the other party of the assignment. Any other attempt to assign is void. If Customer assigns this Agreement to an Affiliate in another jurisdiction such that there is a change in the Google contracting entity as defined at [https://cloud.google.com/terms/google-entity](https://cloud.google.com/terms/google-entity) this Agreement is automatically assigned to the new Google contracting entity.
-
-15.4 _Change of Control._ If a party experiences a change of Control other than as part of an internal restructuring or reorganization (for example, through a stock purchase or sale, merger, or other form of corporate transaction), that party will give written notice to the other party within 30 days after the change of Control.
-
-15.5 _Force Majeure._ Neither party will be liable for failure or delay in performance to the extent caused by circumstances beyond its reasonable control, including acts of God, natural disasters, terrorism, riots, or war.
-
-15.6 _Subcontracting_. Google may subcontract obligations under this Agreement but will remain liable to Customer for any subcontracted obligations.
-
-15.7 _No Agency._ This Agreement does not create any agency, partnership, or joint venture between the parties.
-
-15.8 _No Waiver._ Neither party will be treated as having waived any rights by not exercising (or delaying the exercise of) any rights under this Agreement.
-
-15.9 _Severability._ If any part of this Agreement is invalid, illegal, or unenforceable, the rest of this Agreement will remain in effect.
-
-15.10 _No Third-Party Beneficiaries._ This Agreement does not confer any benefits on any third party unless it expressly states that it does.
-
-15.11 _Equitable Relief._ Nothing in this Agreement will limit either party's ability to seek equitable relief.
-
-15.12 _U.S. Governing Law._
+14.12 _U.S. Governing Law._
 
 (a) _For U.S. City, County, and State Government Entities._ If Customer is a U.S. city, county, or state government entity, then this Agreement will be silent regarding governing law and venue.
 
 (b) _For U.S. Federal Government Entities._ If Customer is a U.S. federal government entity, then the following applies: ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SERVICES WILL BE GOVERNED BY THE LAWS OF THE UNITED STATES OF AMERICA, EXCLUDING ITS CONFLICT OF LAWS RULES. SOLELY TO THE EXTENT PERMITTED BY FEDERAL LAW, (I) THE LAWS OF THE STATE OF CALIFORNIA (EXCLUDING CALIFORNIA'S CONFLICT OF LAWS RULES) WILL APPLY IN THE ABSENCE OF APPLICABLE FEDERAL LAW; AND (II) FOR ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SERVICES, THE PARTIES CONSENT TO PERSONAL JURISDICTION IN, AND THE EXCLUSIVE VENUE OF, THE COURTS IN SANTA CLARA COUNTY, CALIFORNIA.
 
-(c) _For All Other Entities._ If Customer is any entity not identified in Section 15.12(a) (U.S. Governing Law for U.S. City, County, and State Government Entities) or (b) (U.S. Governing Law for Federal Government Entities), then the following applies: ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SERVICES WILL BE GOVERNED BY CALIFORNIA LAW, EXCLUDING THAT STATE'S CONFLICT OF LAWS RULES, AND WILL BE LITIGATED EXCLUSIVELY IN THE FEDERAL OR STATE COURTS OF SANTA CLARA COUNTY, CALIFORNIA, USA; THE PARTIES CONSENT TO PERSONAL JURISDICTION IN THOSE COURTS.
+(c) _For All Other Entities._ If Customer is any entity not identified in Section 14.12(a) (U.S. Governing Law for U.S. City, County, and State Government Entities) or (b) (U.S. Governing Law for Federal Government Entities), then the following applies: ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR THE SERVICES WILL BE GOVERNED BY CALIFORNIA LAW, EXCLUDING THAT STATE'S CONFLICT OF LAWS RULES, AND WILL BE LITIGATED EXCLUSIVELY IN THE FEDERAL OR STATE COURTS OF SANTA CLARA COUNTY, CALIFORNIA, USA; THE PARTIES CONSENT TO PERSONAL JURISDICTION IN THOSE COURTS.
 
-15.13 _Amendments._ Except as stated in Sections 1.4(b) (Updates: To this Agreement (GCP Services and TSS only)); 1.4(c) (Updates: To the URL Terms (All Services)) or (c) (Updates: To the Cloud Data Processing Addendum), any amendment must be in writing, signed by both parties, and expressly state that it is amending this Agreement.
+14.13 _Amendments._ Except as stated in Sections 1.4(b) (Updates: To this Agreement (GCP Services and TSS only)); 1.4(c) (Updates: To the URL Terms (All Services)) or (c) (Updates: To the Cloud Data Processing Addendum), any amendment must be in writing, signed by both parties, and expressly state that it is amending this Agreement.
 
-15.14 _Survival._ The following Sections will survive expiration or termination of this Agreement: Section 2 (Payment Terms), Section 5 (Intellectual Property Rights; Protection of Customer Data; Feedback), Section 7 (Confidential Information), Section 8.6 (Effect of Termination), Section 11 (Disclaimer), Section 12 (Limitation of Liability), Section 13 (Indemnification), Section 14.1(e) (termination of Reseller Agreement), Section 14.2 (Liability Cap), Section 14.3 (Sharing Confidential Information), Section 14.4 (Reseller-Customer Relationship), and Section 15 (Miscellaneous).
+14.14 _Survival._ The following Sections will survive expiration or termination of this Agreement: Section 2 (Payment Terms), Section 5 (Intellectual Property Rights; Protection of Customer Data; Feedback), Section 7 (Confidential Information), Section 8.6 (Effect of Termination), Section 11 (Disclaimer), Section 12 (Limitation of Liability), Section 13 (Indemnification), and Section 14 (Miscellaneous).
 
-15.15 _Entire Agreement._ This Agreement sets out all terms agreed between the parties and supersedes all other agreements between the parties relating to its subject matter. In entering into this Agreement, neither party has relied on, and neither party will have any right or remedy based on, any statement, representation, or warranty (whether made negligently or innocently), except those expressly stated in this Agreement. The URL Terms are incorporated by reference into this Agreement. After the Effective Date, Google may provide an updated URL in place of any URL in this Agreement.
+14.15 _Entire Agreement._ This Agreement sets out all terms agreed between the parties and supersedes all other agreements between the parties relating to its subject matter. In entering into this Agreement, neither party has relied on, and neither party will have any right or remedy based on, any statement, representation, or warranty (whether made negligently or innocently), except those expressly stated in this Agreement. The URL Terms are incorporated by reference into this Agreement. After the Effective Date, Google may provide an updated URL in place of any URL in this Agreement.
 
-15.16 _Conflicting Terms._ If there is a conflict between the documents that make up this Agreement, the documents will control in the following order (of decreasing precedence): the Cloud Data Processing Addendum, the remainder of this Agreement (excluding the URL Terms), and the URL Terms (excluding the Cloud Data Processing Addendum).
+14.16 _Conflicting Terms._ If there is a conflict between the documents that make up this Agreement, the documents will control in the following order (of decreasing precedence): the Cloud Data Processing Addendum, any applicable Order Form, the remainder of this Agreement (excluding the URL Terms), and the URL Terms (excluding the Cloud Data Processing Addendum).
 
-15.17 _Headers._ Headings and captions used in this Agreement are for reference purposes only and will not have any effect on the interpretation of this Agreement.
+14.17 _Headers._ Headings and captions used in this Agreement are for reference purposes only and will not have any effect on the interpretation of this Agreement.
 
-15.18 _Conflicting Languages._ If this Agreement is translated into any language other than English, and there is a discrepancy between the English text and the translated text, the English text will govern unless expressly stated otherwise in the translation. Unless otherwise specified, all references to “$” in this Agreement refer to United States dollars.
+14.18 _Conflicting Languages._ If this Agreement is translated into any language other than English, and there is a discrepancy between the English text and the translated text, the English text will govern unless expressly stated otherwise in the translation. Unless otherwise specified, all references to “$” in this Agreement refer to United States dollars.
 
-15.19 _Definitions._
+14.19 _Definitions._
 
 * "Account" means Customer's Google Cloud Platform, SecOps Services, or Looker (original) Services account, as applicable.
 * "Admin Console" means the online console(s) or dashboard provided by Google to Customer for administering certain Services.
@@ -289,10 +255,6 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
     
     (ii) an instance of the SecOps Services configured and used by Customer.
     
-* "Reseller" means, if applicable, the authorized unaffiliated third-party reseller that sells the Services to Customer.
-* "Reseller Agreement" means, if applicable, the separate agreement between Customer and Reseller regarding the Services. The Reseller Agreement is independent of and outside the scope of this Agreement.
-* "Reseller Fees" means the fees (if any) for Services used or ordered by Customer as agreed in a Reseller Agreement, plus any applicable Taxes.
-* "Reseller Order" means, if applicable, an order form issued by a Reseller and executed by Customer and the Reseller specifying the Services Customer is ordering from the Reseller.
 * "SecOps Services" means the then-current services described at [https://cloud.google.com/terms/secops/services](https://cloud.google.com/terms/secops/services).
 * "Service Specific Terms" means, as applicable:
     
@@ -327,7 +289,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
     
 * "URL Terms" means, collectively, the AUP, Cloud Data Processing Addendum, Service Specific Terms, SLA, and TSS Guidelines.
 
-**16. Regional Terms.** Customer agrees to the following modifications to this Agreement if Customer’s billing address is in the applicable region as described below:
+**15. Regional Terms.** Customer agrees to the following modifications to this Agreement if Customer’s billing address is in the applicable region as described below:
 
 **Asia Pacific - All regions, excluding India**
 
@@ -335,17 +297,17 @@ Section 2.2 is replaced as follows:
 
 2.2 _Taxes._ Google will itemize any invoiced Taxes. If Taxes must be withheld from any payment to Google, then Customer will increase the payment to Google so that the net amount received by Google is equal to the amount invoiced, without reduction for Taxes.
 
-The definition of "Taxes" under Section 15.19 (Definitions) is replaced as follows:
+The definition of "Taxes" under Section 14.19 (Definitions) is replaced as follows:
 
-15.19 _Definitions._
+14.19 _Definitions._
 
 _"Taxes"_ means all government-imposed taxes, as per the applicable law associated with the rendering and performance of the Services, including but not limited to any duties, customs duties, and any direct or indirect taxes, including any related penalties or interest, except for taxes based on Google's profit.
 
 **Asia Pacific (all regions excluding Australia, Japan, India, New Zealand, Singapore) and Latin America (all regions excluding Brazil and Mexico)**
 
-Section 15.12 (U.S. Governing Law) is replaced as follows:
+Section 14.12 (U.S. Governing Law) is replaced as follows:
 
-15.12 _Governing Law; Arbitration._
+14.12 _Governing Law; Arbitration._
 
 (a) ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY RELATED GOOGLE PRODUCTS OR SERVICES (INCLUDING ANY DISPUTE REGARDING THE INTERPRETATION OR PERFORMANCE OF THIS AGREEMENT) ("Dispute") WILL BE GOVERNED BY THE LAWS OF THE STATE OF CALIFORNIA, USA, EXCLUDING CALIFORNIA'S CONFLICTS OF LAWS RULES.
 
@@ -355,11 +317,11 @@ Section 15.12 (U.S. Governing Law) is replaced as follows:
 
 (d) Either party may apply to any competent court for injunctive relief necessary to protect its rights pending resolution of the arbitration. The arbitrator may order equitable or injunctive relief consistent with the remedies and limitations in this Agreement.
 
-(e) Subject to the confidentiality requirements in Subsection (g), either party may petition any competent court to issue any order necessary to protect that party's rights or property; this petition will not be considered a violation or waiver of this governing law and arbitration section and will not affect the arbitrator’s powers, including the power to review the judicial decision. The parties stipulate that the courts of Santa Clara County, California, USA, are competent to grant any order under this Subsection 15.12 (e).
+(e) Subject to the confidentiality requirements in Subsection (g), either party may petition any competent court to issue any order necessary to protect that party's rights or property; this petition will not be considered a violation or waiver of this governing law and arbitration section and will not affect the arbitrator’s powers, including the power to review the judicial decision. The parties stipulate that the courts of Santa Clara County, California, USA, are competent to grant any order under this Subsection 14.12 (e).
 
 (f) The arbitral award will be final and binding on the parties and its execution may be presented in any competent court, including any court with jurisdiction over either party or any of its property.
 
-(g) Any arbitration proceeding conducted in accordance with this Section 15.12 (Governing Law; Arbitration) will be considered Confidential Information under Section 7 (Confidential Information), including: (i) the existence of, (ii) any information disclosed during, and (iii) any oral communications or documents related to, the arbitration proceedings. In addition to the disclosure rights under Section 7 (Confidential Information), the parties may disclose the information described in this Subsection 15.12 (g) to a competent court as may be necessary to file any order under Subsection 15.12 (e) or execute any arbitral decision, but the parties must request that those judicial proceedings be conducted _in camera_ (in private).
+(g) Any arbitration proceeding conducted in accordance with this Section 14.12 (Governing Law; Arbitration) will be considered Confidential Information under Section 7 (Confidential Information), including: (i) the existence of, (ii) any information disclosed during, and (iii) any oral communications or documents related to, the arbitration proceedings. In addition to the disclosure rights under Section 7 (Confidential Information), the parties may disclose the information described in this Subsection 14.12 (g) to a competent court as may be necessary to file any order under Subsection 14.12 (e) or execute any arbitral decision, but the parties must request that those judicial proceedings be conducted _in camera_ (in private).
 
 (h) The parties will pay the arbitrator’s fees, the arbitrator's appointed experts' fees and expenses, and the arbitration center's administrative expenses in accordance with the Rules. In its final decision, the arbitrator will determine the non-prevailing party's obligation to reimburse the amount paid in advance by the prevailing party for these fees.
 
@@ -391,13 +353,13 @@ Section 2 (Payment Terms) is replaced as follows:
 
 (a) Customer must submit any invoice disputes to collections@google.com before the Payment Due Date. If the parties determine that Fees were incorrectly invoiced, then Google will issue a credit equal to the agreed amount.
 
-Section 15.12 (U.S. Governing Law) is replaced as follows:
+Section 14.12 (U.S. Governing Law) is replaced as follows:
 
-15.12 _Governing Law_. 
+14.12 _Governing Law_. 
 
 All claims arising out of or relating to this Agreement will be governed by laws of India, excluding that state’s conflict of laws rules, and will be litigated exclusively in the courts of New Delhi; the parties consent to exclusive jurisdiction in those courts. Notwithstanding the above, the Customer can and will bring all claims with respect to Google under this Agreement against Google Cloud India Private Limited.
 
-The definition of "Taxes" under Section 15.19 (Definitions) is replaced as follows:
+The definition of "Taxes" under Section 14.19 (Definitions) is replaced as follows:
 
 “_Taxes_” means all taxes as per the applicable law including but not limited to any duties, or taxes (other than income tax on income), including indirect taxes such as goods and services tax (“GST”) or the taxes associated with the purchase of the Services
 
@@ -409,9 +371,9 @@ A new Section 8.7 is added:
 
 8.7 _Termination Waiver._ The parties agree to waive any provisions under any applicable laws to the extent that a court decision or order is required for the cancellation of this Agreement.
 
-The Indonesian version of this Agreement is accessible [here](https://cloud.google.com/terms) and Section 15.18 is replaced as follows:
+The Indonesian version of this Agreement is accessible [here](https://cloud.google.com/terms) and Section 14.18 is replaced as follows:
 
-15.18 _Conflicting Languages._ This Agreement is made in the Indonesian and the English language. Both versions are equally authentic. In the event of any inconsistency or different interpretation between the Indonesian version and the English version, the parties agree to amend the Indonesian version to make the relevant part of the Indonesian version consistent with the relevant part of the English version.
+14.18 _Conflicting Languages._ This Agreement is made in the Indonesian and the English language. Both versions are equally authentic. In the event of any inconsistency or different interpretation between the Indonesian version and the English version, the parties agree to amend the Indonesian version to make the relevant part of the Indonesian version consistent with the relevant part of the English version.
 
 **Asia Pacific - Australia**
 
@@ -423,9 +385,9 @@ Section 12.2 (Limitation on Amount of Liability) is replaced with the following:
 
 **12.2 Limitation on Amount of Liability. Each party's total aggregate Liability for damages arising out of or relating to this Agreement in connection with either the GCP Services, SecOps Services or Looker (original) Services, as applicable, is limited to the greater of: (a) the Fees Customer paid for such Services during the 12 month period before the event giving rise to Liability, or (b) $AUD1,000, except Google’s total aggregate Liability for damages arising out of or related to Services or Software provided free of charge is limited to US$5,000.**
 
-Section 15.12(c) (U.S. Governing Law) is amended by inserting the following text at the end of that Section: “IF APPLICABLE LAW PREVENTS A DISPUTE FROM BEING RESOLVED IN A CALIFORNIA COURT, THEN CUSTOMER MAY FILE THE DISPUTE IN CUSTOMER’S LOCAL COURTS. IF APPLICABLE LAW PREVENTS CUSTOMER’S LOCAL COURT FROM APPLYING CALIFORNIA LAW TO RESOLVE A DISPUTE, THEN THE DISPUTE WILL BE GOVERNED BY THE APPLICABLE LOCAL LAWS OF CUSTOMER’S COUNTRY, STATE, OR OTHER PLACE OF RESIDENCE.” 
+Section 14.12(c) (U.S. Governing Law) is amended by inserting the following text at the end of that Section: “IF APPLICABLE LAW PREVENTS A DISPUTE FROM BEING RESOLVED IN A CALIFORNIA COURT, THEN CUSTOMER MAY FILE THE DISPUTE IN CUSTOMER’S LOCAL COURTS. IF APPLICABLE LAW PREVENTS CUSTOMER’S LOCAL COURT FROM APPLYING CALIFORNIA LAW TO RESOLVE A DISPUTE, THEN THE DISPUTE WILL BE GOVERNED BY THE APPLICABLE LOCAL LAWS OF CUSTOMER’S COUNTRY, STATE, OR OTHER PLACE OF RESIDENCE.” 
 
-Section 15.15 (Entire Agreement) is amended by inserting the following text at the end of that Section: “Nothing in this Agreement excludes a party’s liability for prior written or oral misrepresentation.”
+Section 14.15 (Entire Agreement) is amended by inserting the following text at the end of that Section: “Nothing in this Agreement excludes a party’s liability for prior written or oral misrepresentation.”
 
 **Europe, Middle East, Africa -** **Algeria, Bahrain, Jordan, Kuwait, Libya, Mauritania, Morocco, Oman, Palestine, Qatar, Tunisia, Yemen, Egypt, United Arab Emirates and Lebanon**
 
@@ -433,9 +395,9 @@ A new Section 8.7 is added as follows:
 
 8.7 _No requirement for Court Order_. Both parties acknowledge and agree that a court order will not be required to give effect to any term or termination of this Agreement or of any Order Form.
 
-Section 15.12 (U.S. Governing Law) is replaced as follows:
+Section 14.12 (U.S. Governing Law) is replaced as follows:
 
-15.12 _Governing Law; Arbitration._
+14.12 _Governing Law; Arbitration._
 
 (a) ALL CLAIMS ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY RELATED GOOGLE PRODUCTS OR SERVICES (INCLUDING ANY DISPUTE REGARDING THE INTERPRETATION OR PERFORMANCE OF THIS AGREEMENT) ("Dispute") WILL BE GOVERNED BY THE LAWS OF THE STATE OF CALIFORNIA, USA, EXCLUDING CALIFORNIA'S CONFLICTS OF LAWS RULES.
 
@@ -447,7 +409,7 @@ Section 15.12 (U.S. Governing Law) is replaced as follows:
 
 (e) The arbitral award will be final and binding on the parties and its execution may be presented in any competent court, including any court with jurisdiction over either party or any of its property.
 
-(f) Any arbitration proceeding conducted in accordance with this Section 15.12 (Governing Law; Arbitration) will be considered Confidential Information under Section 7 (Confidential Information), including: (i) the existence of, (ii) any information disclosed during, and (iii) any oral communications or documents related to, the arbitration proceedings. In addition to the disclosure rights under Section 7 (Confidential Information), the parties may disclose the information described in this Subsection 15.12 (f) to a competent court as may be necessary to execute any arbitral decision, but the parties must request that those judicial proceedings be conducted _in camera_ (in private).
+(f) Any arbitration proceeding conducted in accordance with this Section 14.12 (Governing Law; Arbitration) will be considered Confidential Information under Section 7 (Confidential Information), including: (i) the existence of, (ii) any information disclosed during, and (iii) any oral communications or documents related to, the arbitration proceedings. In addition to the disclosure rights under Section 7 (Confidential Information), the parties may disclose the information described in this Subsection 14.12 (f) to a competent court as may be necessary to execute any arbitral decision, but the parties must request that those judicial proceedings be conducted _in camera_ (in private).
 
 (g) The parties will pay the arbitrator’s fees, the arbitrator's appointed experts' fees and expenses, and the arbitration center's administrative expenses in accordance with the Rules. In its final decision, the arbitrator will determine the non-prevailing party's obligation to reimburse the amount paid in advance by the prevailing party for these fees.
 
@@ -455,13 +417,13 @@ Section 15.12 (U.S. Governing Law) is replaced as follows:
 
 **Latin** **America** **- Brazil**
 
-When the Google contracting entity is Google Cloud Brasil Computação e Serviços de Dados Ltda., Section 15.12 (U.S. Governing Law) is replaced as follows:
+When the Google contracting entity is Google Cloud Brasil Computação e Serviços de Dados Ltda., Section 14.12 (U.S. Governing Law) is replaced as follows:
 
-15.12 _Governing Law & Arbitration._ This Agreement is governed by Brazilian Law. ALL DISPUTES ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY RELATED GOOGLE PRODUCTS OR SERVICES WILL BE SETTLED BY ARBITRATION, AS DESCRIBED BELOW.
+14.12 _Governing Law & Arbitration._ This Agreement is governed by Brazilian Law. ALL DISPUTES ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY RELATED GOOGLE PRODUCTS OR SERVICES WILL BE SETTLED BY ARBITRATION, AS DESCRIBED BELOW.
 
 (a) _Definitions._ “Dispute” means any contractual or non-contractual dispute regarding this Agreement, including its formation, validity, subject matter, interpretation, performance, or termination.
 
-(b) _Settlement._ The parties will try in good faith to settle any Dispute within 30 days after a party receives the first notice regarding the Dispute in accordance with Section 15.12 (Notices). If the parties are unable to resolve the Dispute within this 30-day period, either party may refer the Dispute to arbitration in accordance with Section 15.12(c) (Arbitration).
+(b) _Settlement._ The parties will try in good faith to settle any Dispute within 30 days after a party receives the first notice regarding the Dispute in accordance with Section 14.12 (Notices). If the parties are unable to resolve the Dispute within this 30-day period, either party may refer the Dispute to arbitration in accordance with Section 14.12(c) (Arbitration).
 
 (c) _Arbitration._ The parties will refer all Disputes to final, binding arbitration under the rules of the Center of Arbitration and Mediation of the Brazil-Canada Chamber of Commerce in force as of this Agreement’s Effective Date (“Rules”). The arbitration will be conducted in Portuguese by three arbitrators in São Paulo, SP, Brazil, which will be the seat of arbitration.
 
@@ -489,11 +451,11 @@ Section 3.3 (Restrictions) is replaced as follows:
 
 Section 12.2 (Limitation on Amount of Liability) is replaced as follows:
 
-**12.2 _Limitation on Amount of Liability_. To the extent permitted by applicable law, each party's total aggregate Liability for damages arising out of or relating to the Agreement in connection with the GCP Services or SecOps Services, as applicable, is limited to the Fees Customer paid for such Services during the 12 month period before the event giving rise to Liability, except Google’s total aggregate Liability for damages arising out of or related to Services or Software provided free of charge is limited to $5,000 USD or its equivalent in local currency calculated in accordance with Section 15.18.1.**
+**12.2 _Limitation on Amount of Liability_. To the extent permitted by applicable law, each party's total aggregate Liability for damages arising out of or relating to the Agreement in connection with the GCP Services, SecOps Services, or Looker (original) Services, as applicable, is limited to the Fees Customer paid for such Services during the 12 month period before the event giving rise to Liability, except Google’s total aggregate Liability for damages arising out of or related to Services or Software provided free of charge is limited to $5,000 USD or its equivalent in local currency calculated in accordance with Section 14.18.1.**
 
-Section 15.12 (Governing Law ) is replaced as follows:
+Section 14.12 (Governing Law ) is replaced as follows:
 
-15.12 Governing Law & Arbitration.
+14.12 Governing Law & Arbitration.
 
 (a) _Governing Law_. This Agreement is governed by the laws of the United Mexican States, excluding choice of law rules.
 
@@ -501,7 +463,7 @@ Section 15.12 (Governing Law ) is replaced as follows:
 
 (i) _Definitions_. “Dispute” means any contractual or non-contractual dispute regarding this Agreement, including its formation, validity, subject matter, interpretation, performance, or termination.
 
-(ii) _Settlement_. The parties will try in good faith to settle any Dispute within 30 days after a party receives the first notice regarding the Dispute in accordance with Section 15.1 (Notices). If the parties are unable to resolve the Dispute within this 30-day period, either party may refer the Dispute to arbitration in accordance with Section 15.12 (iii) (Arbitration).
+(ii) _Settlement_. The parties will try in good faith to settle any Dispute within 30 days after a party receives the first notice regarding the Dispute in accordance with Section 14.1 (Notices). If the parties are unable to resolve the Dispute within this 30-day period, either party may refer the Dispute to arbitration in accordance with Section 14.12 (iii) (Arbitration).
 
 (iii) _Arbitration_. Except as prohibited by applicable law, the parties will refer all Disputes to final, binding arbitration under the Arbitration Rules of the National Chamber of Commerce of Mexico City in force as of this Agreement’s Effective Date (“Rules”). The arbitration will be conducted in Spanish by one arbitrator, mutually selected by the parties, in Mexico City, Mexico, which will be the seat of arbitration.
 
@@ -511,25 +473,25 @@ Section 15.12 (Governing Law ) is replaced as follows:
 
 (vi) _Fees and Expenses_. Each party will bear its own lawyers’ and experts’ fees and expenses, and the arbitrator's final decisión must not include any rulings in this regard.
 
-A new Section 15.18.1 (Currency) is included as read below. As a consequence, Section 15.18 is adjusted as follows:
+A new Section 14.18.1 (Currency) is included as read below. As a consequence, Section 14.18 is adjusted as follows:
 
-15.18 _Conflicting Languages_. If this Agreement is translated into any language other than English, and there is a discrepancy between the English text and the translated text, the English text will govern unless expressly stated otherwise in the translation.
+14.18 _Conflicting Languages_. If this Agreement is translated into any language other than English, and there is a discrepancy between the English text and the translated text, the English text will govern unless expressly stated otherwise in the translation.
 
-15.18.1 _Currency_. Unless otherwise specified in this Agreement, any ancillary document or corresponding invoice, all references to “$” in this Agreement refer to Mexican pesos. If a currency conversion is required in relation to the calculation of the Fees, that conversion will be carried out using the daily average exchange rate set by a reputable third party chosen by Google in accordance with applicable law.
+14.18.1 _Currency_. Unless otherwise specified in this Agreement, any ancillary document or corresponding invoice, all references to “$” in this Agreement refer to Mexican pesos. If a currency conversion is required in relation to the calculation of the Fees, that conversion will be carried out using the daily average exchange rate set by a reputable third party chosen by Google in accordance with applicable law.
 
-The definition of “Taxes” under Section 15.19 (Definitions) is replaced as follows:
+The definition of “Taxes” under Section 14.19 (Definitions) is replaced as follows:
 
-15.19 Definitions.
+14.19 Definitions.
 
 _"Taxes"_ means all government-imposed tax obligations (including taxes, duties, and withholdings), except those based on net income, net worth, asset value, property value, or employment.
 
 **North America - United States**
 
-Section 15.19 (Definitions) is changed to Section 15.20 (Definitions).
+Section 14.19 (Definitions) is changed to Section 14.20 (Definitions).
 
-A new Section 15.19 is added:
+A new Section 14.19 is added:
 
-15.19 _U.S. Federal Agency Users._ The Services were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable Federal Acquisition Regulations and their agency supplements.
+14.19 _U.S. Federal Agency Users._ The Services were developed solely at private expense and are commercial computer software and related documentation within the meaning of the applicable Federal Acquisition Regulations and their agency supplements.
 
 Previous versions of SecOps Services Agreement
 
@@ -543,6 +505,6 @@ Previous versions of Looker (original) Services Terms of Service
 
 [January 30, 2025](https://cloud.google.com/archive/terms/looker/msa-20250130)  [October 16, 2024](https://cloud.google.com/archive/terms/looker/msa-20241016)  [December 13, 2023](https://cloud.google.com/archive/terms/looker/msa/msa-20231213)  [October 4, 2023](https://cloud.google.com/terms/looker/msa/msa-20231004)  [December 7, 2022](https://cloud.google.com/terms/looker/msa/msa-20221207)  [February 14, 2022](https://cloud.google.com/terms/looker/msa/msa-20220214/)  [August 19, 2021](https://cloud.google.com/terms/looker/msa/msa-20210819/)  [April 1, 2021](https://cloud.google.com/terms/looker/msa/msa-20210401)  [November 2, 2020](https://cloud.google.com/terms/looker/msa/msa-20201102)  [June 1, 2020](https://cloud.google.com/terms/looker/msa/msa-20200601)  [April 30, 2019](https://cloud.google.com/terms/looker/msa/msa-201904)  [April 30, 2019](https://cloud.google.com/terms/looker/legal/customer-hosted)  [February 28, 2019](https://cloud.google.com/terms/looker/msa/msa-201902) 
 
-Previous versions of Google Cloud Terms of Service _(Last modified April 22, 2025)_
+Previous versions of Google Cloud Terms of Service _(Last modified July 1, 2025)_
 
-[January 30, 2025](https://cloud.google.com/legal/archive/terms/index-20250130) [October 17, 2024](https://cloud.google.com/legal/archive/terms/index-20241017) [September 30, 2024](https://cloud.google.com/legal/archive/terms/index-20240930) [November 16, 2023](https://cloud.google.com/legal/archive/terms/index-20231116) [July 12, 2023](https://cloud.google.com/terms/index-20230712) [April 19, 2023](https://cloud.google.com/terms/index-20230419) [February 6, 2023](https://cloud.google.com/terms/index-20230206) [November 7, 2022](https://cloud.google.com/terms/index-20221107) [September 20, 2022](https://cloud.google.com/terms/index-20220920) [March 29, 2022](https://cloud.google.com/terms/index-20220329) [September 20, 2021](https://cloud.google.com/terms/index-20210920) [April 1, 2021](https://cloud.google.com/terms/index-20210401) [November 2, 2020](https://cloud.google.com/terms/index-20201102) [October 6, 2020](https://cloud.google.com/terms/index-20201006) [August 31, 2020](https://cloud.google.com/terms/index-20200831) [August 13, 2020](https://cloud.google.com/terms/index-20200813) [March 26, 2020](https://cloud.google.com/terms/index-20200326) [November 21, 2019](https://cloud.google.com/terms/index-20191121) [July 22, 2019](https://cloud.google.com/terms/index-20190722) [November 2, 2018](https://cloud.google.com/terms/index-20181102) [November 1, 2018](https://cloud.google.com/terms/index-20181101) [October 1, 2018](https://cloud.google.com/terms/index-20181001) [June 27, 2018](https://cloud.google.com/terms/index-20180627) [June 15, 2018](https://cloud.google.com/terms/index-20180615) [June 5, 2018](https://cloud.google.com/terms/index-20180605) [May 23, 2018](https://cloud.google.com/terms/index-20180523) [May 18, 2018](https://cloud.google.com/terms/index-20180518) [April 30, 2018](https://cloud.google.com/terms/index-20180430) [April 4, 2018](https://cloud.google.com/terms/index-20180404) [February 8, 2018](https://cloud.google.com/terms/index-20180208) [January 9, 2018](https://cloud.google.com/terms/index-20180109) [October 19, 2017](https://cloud.google.com/terms/index-20171019)
+[April 22, 2025](https://cloud.google.com/legal/archive/terms/index-20250422) [January 30, 2025](https://cloud.google.com/legal/archive/terms/index-20250130) [October 17, 2024](https://cloud.google.com/legal/archive/terms/index-20241017) [September 30, 2024](https://cloud.google.com/legal/archive/terms/index-20240930) [November 16, 2023](https://cloud.google.com/legal/archive/terms/index-20231116) [July 12, 2023](https://cloud.google.com/terms/index-20230712) [April 19, 2023](https://cloud.google.com/terms/index-20230419) [February 6, 2023](https://cloud.google.com/terms/index-20230206) [November 7, 2022](https://cloud.google.com/terms/index-20221107) [September 20, 2022](https://cloud.google.com/terms/index-20220920) [March 29, 2022](https://cloud.google.com/terms/index-20220329) [September 20, 2021](https://cloud.google.com/terms/index-20210920) [April 1, 2021](https://cloud.google.com/terms/index-20210401) [November 2, 2020](https://cloud.google.com/terms/index-20201102) [October 6, 2020](https://cloud.google.com/terms/index-20201006) [August 31, 2020](https://cloud.google.com/terms/index-20200831) [August 13, 2020](https://cloud.google.com/terms/index-20200813) [March 26, 2020](https://cloud.google.com/terms/index-20200326) [November 21, 2019](https://cloud.google.com/terms/index-20191121) [July 22, 2019](https://cloud.google.com/terms/index-20190722) [November 2, 2018](https://cloud.google.com/terms/index-20181102) [November 1, 2018](https://cloud.google.com/terms/index-20181101) [October 1, 2018](https://cloud.google.com/terms/index-20181001) [June 27, 2018](https://cloud.google.com/terms/index-20180627) [June 15, 2018](https://cloud.google.com/terms/index-20180615) [June 5, 2018](https://cloud.google.com/terms/index-20180605) [May 23, 2018](https://cloud.google.com/terms/index-20180523) [May 18, 2018](https://cloud.google.com/terms/index-20180518) [April 30, 2018](https://cloud.google.com/terms/index-20180430) [April 4, 2018](https://cloud.google.com/terms/index-20180404) [February 8, 2018](https://cloud.google.com/terms/index-20180208) [January 9, 2018](https://cloud.google.com/terms/index-20180109) [October 19, 2017](https://cloud.google.com/terms/index-20171019)
