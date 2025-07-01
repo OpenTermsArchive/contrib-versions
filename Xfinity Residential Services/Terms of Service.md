@@ -186,7 +186,7 @@ You accept this Agreement and agree to its terms by activating the Services, usi
     
     In connection with your use of the Services, if you need to access third-party software or hardware, you will be subject to third-party terms and conditions. Certain components of the Services are also subject to our Software License Agreement, available at [xfinity.com/terms/license](https://www.xfinity.com/terms/license).
     
-    Your use of certain Services may also be subject to acceptable use policies, available at [xfinity.com/policies](https://www.xfinity.com/policies). For example, our Acceptable Use for Xfinity Internet Policy is available at [xfinity.com/Corporate/Customers/Policies/HighSpeedInternetAUP](https://www.xfinity.com/Corporate/Customers/Policies/HighSpeedInternetAUP). To understand how we collect and use information through the Services, please read our privacy policy, available at [xfinity.com/Corporate/Customers/Policies/CustomerPrivacy](https://www.xfinity.com/Corporate/Customers/Policies/CustomerPrivacy).
+    Your use of certain Services may also be subject to acceptable use policies, available at [xfinity.com/policies](https://www.xfinity.com/policies). For example, our Acceptable Use for Xfinity Internet Policy is available at [xfinity.com/Corporate/Customers/Policies/HighSpeedInternetAUP](https://www.xfinity.com/Corporate/Customers/Policies/HighSpeedInternetAUP). To understand how we collect and use information through the Services, please read our privacy policy, available at [xfinity.com/privacy/policy](https://www.xfinity.com/privacy/policy).
     
     We may amend these policies and agreements from time to time, with or without notice to you. You should consult these policies and agreements regularly to comply with the most recent versions. We incorporate these additional policies and agreements (including any amendments) into this Agreement by reference. WE RESERVE THE RIGHT TO LIMIT OR BLOCK ANY SERVICE USAGE AS WE DEEM NECESSARY TO PREVENT HARM TO OUR NETWORK, FRAUD, OR OTHER ABUSE OF THE SERVICES, OR AS OTHERWISE PROVIDED BY LAW.
     
@@ -398,4 +398,4 @@ You accept this Agreement and agree to its terms by activating the Services, usi
     The following sections shall survive the termination of your Services with us: Section 11, Section 13, Section 14, Section 15, Section 16, and Section 19.
     
 
-Stnd0425
+Stnd0725
