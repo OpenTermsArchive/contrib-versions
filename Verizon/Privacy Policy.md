@@ -856,7 +856,7 @@ Open all
     
     **Reporting.** You can access our [2024 CCPA report](https://www.verizon.com/about/privacy/ccpa-reporting) to learn about the individual rights requests we received during that year.
     
-    **Questions.** If you have questions about your rights under California Law or about our privacy policies and practices, Verizon customers may submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) or call 800-922-0204 if you are a Mobile customer or call 800-837-4966 if you have Home-based services, such as Verizon Fios. Verizon Value customers may email us at privacy@tracfone.com
+    **Questions.** If you have questions about your rights under California Law or about our privacy policies and practices, Verizon customers may submit a [privacy inquiry form](https://www.verizon.com/about/privacy/privacy-inquiries) or call 800-922-0204 if you are a Mobile customer or call 800-837-4966 if you have Home-based services, such as Verizon Fios. Verizon Value customers may email us at privacy@tracfone.com.
     
     ### Additional California Privacy Rights
     
