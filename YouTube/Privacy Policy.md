@@ -13,7 +13,7 @@ Looking to change your privacy settings?
 
 [Take the Privacy Checkup](https://myaccount.google.com/privacycheckup?utm_source=pp&utm_medium=Promo-in-product&utm_campaign=pp_intro)
 
-Effective September 16, 2024 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20240916/pe84lsmf/google_privacy_policy_en_eu.pdf)
+Effective July 1, 2025 | [Archived versions](https://policies.google.com/privacy/archive) | [Download PDF](https://www.gstatic.com/policies/privacy/pdf/20250630/au717dgi/google_privacy_policy_en_eu.pdf)
 
 Contents
 --------
@@ -112,7 +112,7 @@ Depending on the products you’re using and settings you choose, Google may use
 * [Activity on Google services](https://policies.google.com/privacy#footnote-activity-on-services), such as from your searches or [places you label like home or work](https://policies.google.com/privacy#footnote-places-you-label)
 * [Information about things near your device](https://policies.google.com/privacy#footnote-near-device), such as Wi-Fi access points, cell towers, and Bluetooth-enabled devices
 
-The types of location data we collect and how long we store it depend in part on your device and account settings. For example, you can [turn your Android device’s location on or off](https://support.google.com/accounts?p=privpol_location) using the device’s settings app. You can also turn on [Location History](https://support.google.com/accounts?p=privpol_lochistory) if you want to create a private map of where you go with your signed-in devices. And if your Web & App Activity setting is enabled, your searches and other activity from Google services, which may also include location information, is saved to your Google Account. Learn more about [how we use location information](https://policies.google.com/technologies/location-data).
+The types of location data we collect and how long we store it depend in part on your device and account settings. For example, you can [turn your Android device’s location on or off](https://support.google.com/accounts?p=privpol_location) using the device’s settings app. You can also turn on [Timeline](https://support.google.com/accounts?p=privpol_lochistory) if you want to create a private map of where you go with your signed-in devices. And if your Web & App Activity setting is enabled, your searches and other activity from Google services, which may also include location information, is saved to your Google Account. Learn more about [how we use location information](https://policies.google.com/technologies/location-data).
 
 * * *
 
@@ -154,7 +154,7 @@ Depending on your settings, we may also show you [personalized ads](https://poli
 
 ### Measure performance
 
-We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with, including your related Google Search activity, to help advertisers understand the performance of their ad campaigns. We use a variety of tools to do this, including Google Analytics. When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google to [link information](https://policies.google.com/privacy#footnote-link-info) about your activity from that site or app with activity from other sites or apps that use our ad services.
+We use data for analytics and measurement to understand how our services are used. For example, we analyze data about your visits to our sites to do things like optimize product design. And we also use data about the ads you interact with, including your related Google Search activity, to help advertisers understand the [performance of their ad campaigns](https://policies.google.com/privacy#footnote-link-performance). We use a variety of tools to do this, including Google Analytics. When you visit sites or use apps that use Google Analytics, a Google Analytics customer may choose to enable Google to [link information](https://policies.google.com/privacy#footnote-link-info) about your activity from that site or app with activity from other sites or apps that use our ad services.
 
 ### Communicate with you
 
@@ -669,6 +669,10 @@ For example, if you add a credit card or other payment method to your Google Acc
 
 We may also use payment information to verify that you meet age requirements, if, for example, you enter an incorrect birthday indicating you’re not old enough to have a Google Account. [Learn more](https://support.google.com/accounts?p=privpol_agereq&hl=en_US)
 
+### Performance of their ad campaigns.
+
+[Learn more](https://policies.google.com/technologies/ads) about the technologies used for advertising.
+
 ### personalized ads
 
 You may also see personalized ads based on information from the advertiser. If you shopped on an advertiser's website, for example, they can use that visit information to show you ads. [Learn more](https://support.google.com/accounts?p=privpol_whyad&hl=en_US)
@@ -679,7 +683,7 @@ If you add your phone number to your account, it can be used for different purpo
 
 ### Places you label like home and work
 
-You might choose to save places to your Google Account that are important to you, such as your home or your work. If you set your home or work addresses, they can be used to help you do things more easily, such as getting directions or finding results closer to your home or work, and for more useful ads.
+You might choose to save places to your Google Account that are important to you, such as your home or your work. If you set your home or work addresses, they can be used to help you do things more easily, such as getting directions or finding results closer to your home or work, and for ads.
 
 You can edit or delete your home or work addresses anytime in your [Google Account.](https://myaccount.google.com/personal-info)
 
