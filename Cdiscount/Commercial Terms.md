@@ -868,7 +868,7 @@ Les dispositions du présent chapitre sont sans préjudice de l'allocation de do
   
 Dès lors que le consommateur fait le choix de la réparation mais que celle-ci n'est pas mise en œuvre par le vendeur, la mise en conformité par le remplacement du bien fait courir, au bénéfice du consommateur, un nouveau délai de garantie légale de conformité attaché au bien remplacé. Cette disposition s'applique à compter du jour où le bien de remplacement est délivré au consommateur.
 
-**Article L217-28 du Code de la Consommation** Lorsque le consommateur demande au garant, pendant le cours de la garantie légale ou de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien, une remise en état couverte par cette garantie, toute période d'immobilisation suspend la garantie qui restait à courir jusqu'à la délivrance du bien remis en état.  
+**Article L217-28 du Code de la Consommation** Lorsque le consommateur demande au garant, pendant le cours de la garantie légale ou de la garantie commerciale qui lui a été consentie lors de l'acquisition ou de la réparation d'un bien, une remise en état couverte par cette garantie, toute période d'immobilisation suspend la garantie qui restait é courir jusqu'à la délivrance du bien remis en état.  
   
 Cette période court à compter de la demande d'intervention du consommateur ou de la mise à disposition pour réparation ou remplacement du bien en cause, si ce point de départ s'avère plus favorable au consommateur.  
   
