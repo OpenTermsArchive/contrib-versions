@@ -33,11 +33,11 @@ Finally, you can [manage cookies in your web browser](https://policies.google.co
 Other technologies used in advertising
 --------------------------------------
 
-Google’s advertising systems may use other technologies, including Flash and HTML5, for functions like display of interactive ad formats. We may use the [IP address](https://policies.google.com/privacy/key-terms#toc-terms-ip), for example, to identify your general location, to measure the effectiveness of ads, and, depending on your settings, to improve the relevance of the ads you see. We may also select advertising based on information about your computer or device, such as the time and date, your device model, browser type, or sensors in your device like the accelerometer.
+Google’s advertising systems may use other technologies, including Flash and HTML5, for functions like display of interactive ad formats. We may use the [IP address](https://policies.google.com/privacy/key-terms#toc-terms-ip), for example, to identify your general location, to measure the effectiveness of ads, and, depending on your settings, to improve the relevance of the ads you see. When using information to measure the effectiveness of ads, we may infer whether activity from different devices or accounts is associated. We may also select advertising based on information about your computer or device, such as the time and date, your device model, browser type, or sensors in your device like the accelerometer.
 
 #### Location
 
-Google’s ad products may receive or infer information about your location from a variety of sources. For example, we may use the IP address to identify your general location; we may receive precise location from your mobile device; we may infer your location from your search queries; and websites or apps that you use may send information about your location to us. Google uses location information in our ads products to infer demographic information, to improve the relevance of the ads you see, to measure ad performance and to report aggregate statistics to advertisers.
+Google’s ad products may receive or infer information about your location from a variety of sources. For example, we may use the IP address to identify your general location; we may receive precise location from your mobile device; we may infer your location from your search queries; we may use your declared home or work address; and websites or apps that you use may send information about your location to us. Google uses location information in our ads products to infer demographic information, to improve the relevance of the ads you see, to measure ad performance and to report aggregate statistics to advertisers.
 
 ### Advertising identifiers for mobile apps
 
