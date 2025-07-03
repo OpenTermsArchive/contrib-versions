@@ -53,7 +53,7 @@ Child Exploitation
 
 Roblox has a zero-tolerance policy for the exploitation of minors, including:
 
-* Any predatory behavior, including attempting to befriend a minor in order to manipulate and exploit them (i.e., grooming)
+* Any predatory behavior, including attempting to connect with a minor in order to manipulate and exploit them (i.e., grooming)
 * Sexualizing minors in any way
 * Engaging in sexual conversation with or soliciting sexual material from minors
 * Sharing, requesting, or discussing child sexual exploitation material
@@ -145,7 +145,7 @@ For Restricted experiences, please see [Roblox’s Restricted Content Policy Sta
 
 Romantic and Sexual Content
 
-Roblox is a safe space for meeting online friends, chatting, and collaborating on creative projects, but we prohibit content that depicts sexual activity or seeks real world romantic relationships, including:
+Roblox is a safe space for making online connections, chatting, and collaborating on creative projects, but we prohibit content that depicts sexual activity or seeks real world romantic relationships, including:
 
 * Romantic or flirtatious gestures or communication between users in a romantic context
 * Pursuing or soliciting romantic relationships online
@@ -268,7 +268,7 @@ Promotional Offers Developers may not independently use off-platform services or
 
 Commerce Developers leveraging our Commerce program and features must comply with the [Commerce Standards.](https://en.help.roblox.com/hc/articles/36495190721172)  
   
-[Eligible developers](https://create.roblox.com/docs/en-us/production/monetization/commerce-products#eligibility) may link to authorized Shopify stores in order to sell physical products within their experience(s). Certain developers may also be eligible to bundle a digital reward with a user's purchase of their physical products. To learn more about offering physical products for sale within your experience, please click [here](https://create.roblox.com/docs/en-us/production/monetization/commerce-products).
+[Eligible developers](https://create.roblox.com/docs/en-us/production/monetization/commerce-products#eligibility) may link to authorized Shopify stores in order to sell physical products within their experience(s). Certain developers may also be eligible to bundle a digital reward with a user's purchase of their physical products. To learn more about offering physical products for sale within your experience, please see [here](https://create.roblox.com/docs/en-us/production/monetization/commerce-products).
 
 Soliciting Donations We also do not allow our community to solicit donations for a charitable cause on Roblox, including:
 
@@ -305,7 +305,7 @@ To maintain privacy and safety, users may be prohibited from sharing or requesti
 * Internet Identifiers such as usernames and handles not linked to Roblox
 * Sensitive credentials such as social security number
 * Visual and audio media of themselves or other non-public figures
-* Full legal names except as permitted in Customizable Friend Requests, Usernames or Display Names for eligible users
+* Full legal names except as permitted in Customizable Connection Requests, Usernames or Display Names for eligible users
 
 Directing Users Off-Platform
 
