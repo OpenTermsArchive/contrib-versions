@@ -16,7 +16,7 @@ _These are terms that will apply to your use of our Services.  You should read 
 
 These Terms of Use (“**TOU**”) apply to your access and use of SurveyMonkey's products, services, websites, and apps that you purchase or sign up for on SurveyMonkey's websites and which are branded as “SurveyMonkey”, “Wufoo” or “GetFeedback” (collectively the “**Service(s)**”). These TOU do not apply to Services which are available solely through our [enterprise sales](https://www.surveymonkey.com/product/enterprise/) channel.
 
-Additional [service-specific terms](https://www.surveymonkey.com/mp/legal/which-terms-apply/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) apply to some Services (“**Service-Specific Terms**”). Certain [country-specific terms](https://www.surveymonkey.com/mp/legal/country-specific-terms/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) may also apply to you if you are located outside the United States (“**Country-Specific Terms**”). We refer to the Service-Specific Terms and Country-Specific Terms collectively as “**Additional Terms**” and the combination of these TOU and any applicable Additional Terms collectively as these “**Terms**.” To the extent any conflict exists, the Additional Terms prevail over these TOU with respect to the Services for which the Additional Terms apply.
+Additional [service-specific terms](https://www.surveymonkey.com/mp/legal/which-terms-apply/) apply to some Services (“**Service-Specific Terms**”). Certain [country-specific terms](https://www.surveymonkey.com/mp/legal/country-specific-terms/) may also apply to you if you are located outside the United States (“**Country-Specific Terms**”). We refer to the Service-Specific Terms and Country-Specific Terms collectively as “**Additional Terms**” and the combination of these TOU and any applicable Additional Terms collectively as these “**Terms**.” To the extent any conflict exists, the Additional Terms prevail over these TOU with respect to the Services for which the Additional Terms apply.
 
 You agree to these Terms by clicking to accept these Terms, executing a document that references them, or using the Services.
 
@@ -78,7 +78,7 @@ _You can trust us with your Content, which includes your personal data. Check ou
 
 ### **2.1 Privacy.**
 
-We know that by giving us your Content (as defined below), you are trusting us to treat it appropriately. SurveyMonkey's [Privacy Notice](https://www.surveymonkey.com/mp/legal/privacy/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline), together with any Service-specific privacy notices or statements (collectively, “**SurveyMonkey** **privacy notices**”), detail how we treat your Content (as defined below) that is considered Personal Data (as defined in our [Data Processing Agreement](https://www.surveymonkey.com/mp/legal/data-processing-agreement/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline)) and we agree to adhere to those SurveyMonkey privacy notices. You in turn agree that SurveyMonkey may use and share your Content in accordance with the SurveyMonkey privacy notices and applicable Data Protection Legislation. You also agree that you are responsible for notifying your respondents, end users, and guests about the SurveyMonkey privacy notices. Our [Data Processing Agreement](https://www.surveymonkey.com/mp/legal/data-processing-agreement/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) also apply to and are supplemental to these Terms. Where there is a conflict between the Data Processing Agreement and these Terms, the Data Processing Agreement will prevail except with respect to Exclusion and Limitation of Liability where these Terms will prevail.
+We know that by giving us your Content (as defined below), you are trusting us to treat it appropriately. SurveyMonkey's [Privacy Notice](https://www.surveymonkey.com/mp/legal/privacy/), together with any Service-specific privacy notices or statements (collectively, “**SurveyMonkey** **privacy notices**”), detail how we treat your Content (as defined below) that is considered Personal Data (as defined in our [Data Processing Agreement](https://www.surveymonkey.com/mp/legal/data-processing-agreement/)) and we agree to adhere to those SurveyMonkey privacy notices. You in turn agree that SurveyMonkey may use and share your Content in accordance with the SurveyMonkey privacy notices and applicable Data Protection Legislation. You also agree that you are responsible for notifying your respondents, end users, and guests about the SurveyMonkey privacy notices. Our [Data Processing Agreement](https://www.surveymonkey.com/mp/legal/data-processing-agreement/) also apply to and are supplemental to these Terms. Where there is a conflict between the Data Processing Agreement and these Terms, the Data Processing Agreement will prevail except with respect to Exclusion and Limitation of Liability where these Terms will prevail.
 
 ### **2.2 Confidentiality.**
 
@@ -94,7 +94,7 @@ _The security of the data processed by SurveyMonkey is a top priority. We follow
 
 SurveyMonkey will store and process your Content in a manner consistent with industry security standards. SurveyMonkey has implemented appropriate technical, organizational, and administrative systems, policies, and procedures.
 
-If SurveyMonkey becomes aware of any unauthorized or unlawful access to, or acquisition, alteration, use, disclosure, or destruction of, Personal Data, as that term is defined in our [Data Processing Agreement](https://www.surveymonkey.com/mp/legal/data-processing-agreement/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline), related to your account (“**Security Incident**”), SurveyMonkey will take reasonable steps to notify you without undue delay. Such notification shall not be interpreted or construed as an admission of fault or liability by SurveyMonkey. A Security Incident does not include unsuccessful attempts or activities that do not compromise the security of Personal Data, including unsuccessful log-in attempts, pings, port scans, denial of service attacks, or other network attacks on firewalls or networked systems. SurveyMonkey will also reasonably cooperate with you with respect to any investigations relating to a Security Incident, any required notices, and providing information reasonably requested by you and available to us in relation to any Security Incident, where such information is not already available to you in your account or online through updates provided by SurveyMonkey.
+If SurveyMonkey becomes aware of any unauthorized or unlawful access to, or acquisition, alteration, use, disclosure, or destruction of, Personal Data, as that term is defined in our [Data Processing Agreement](https://www.surveymonkey.com/mp/legal/data-processing-agreement/), related to your account (“**Security Incident**”), SurveyMonkey will take reasonable steps to notify you without undue delay. Such notification shall not be interpreted or construed as an admission of fault or liability by SurveyMonkey. A Security Incident does not include unsuccessful attempts or activities that do not compromise the security of Personal Data, including unsuccessful log-in attempts, pings, port scans, denial of service attacks, or other network attacks on firewalls or networked systems. SurveyMonkey will also reasonably cooperate with you with respect to any investigations relating to a Security Incident, any required notices, and providing information reasonably requested by you and available to us in relation to any Security Incident, where such information is not already available to you in your account or online through updates provided by SurveyMonkey.
 
 3\. Your Content
 ----------------
@@ -111,7 +111,7 @@ You grant SurveyMonkey a worldwide, royalty free license to use, reproduce, dist
 
 ### **3.3** **Representations and Warranties**.
 
-You represent and warrant that: (a) you own or control the appropriate rights in and to your Content, including any intellectual property owned by third parties; and (b) you will not submit, upload, or otherwise make available via the Services, any Content or materials that are in breach of our [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline).
+You represent and warrant that: (a) you own or control the appropriate rights in and to your Content, including any intellectual property owned by third parties; and (b) you will not submit, upload, or otherwise make available via the Services, any Content or materials that are in breach of our [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/).
 
 ### **3.4** **Responsibility for Your Content**.
 
@@ -195,7 +195,7 @@ You warrant and undertake that you will at no time use or avail (or permit the u
 9\. Acceptable Uses Policy
 --------------------------
 
-You agree to comply with the [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline).
+You agree to comply with the [Acceptable Uses Policy](https://www.surveymonkey.com/mp/legal/acceptable-uses-policy/).
 
 10\. PCI Compliance
 -------------------
@@ -414,9 +414,9 @@ SurveyMonkey makes no representations or warranties for a Beta Service, includin
 17\. Terms for SurveyMonkey's API
 ---------------------------------
 
-See [here](https://developer.surveymonkey.com/tou/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) for the terms for SurveyMonkey's API for products branded as SurveyMonkey.
+See [here](https://developer.surveymonkey.com/tou/) for the terms for SurveyMonkey's API for products branded as SurveyMonkey.
 
 18\. Terms for SurveyMonkey Contribute
 --------------------------------------
 
-See [here](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-terms-of-service/?ut_source=legal&ut_source2=terms-of-use&ut_source3=inline) for the terms for using SurveyMonkey Contribute.
+See [here](https://www.surveymonkey.com/mp/legal/surveymonkey-contribute-terms-of-service/) for the terms for using SurveyMonkey Contribute.
