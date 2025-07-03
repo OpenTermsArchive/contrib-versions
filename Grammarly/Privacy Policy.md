@@ -34,7 +34,7 @@ While we hope you read this entire Privacy Policy, here is a brief overview of s
 
   
 
-Table of Contents
+Table of contents
 -----------------
 
 [How Does Grammarly Make Money?](https://www.grammarly.com/privacy-policy#sectionSingleColumn_2BY3yGiyOjdXcNjfiXIsCY)  
