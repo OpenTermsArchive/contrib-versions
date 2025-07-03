@@ -91,7 +91,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 5.1 _Intellectual Property Rights._ Except as expressly stated in this Agreement, this Agreement does not grant either party any rights, implied or otherwise, to the other's content or any of the other's intellectual property. As between the parties, Customer retains all Intellectual Property Rights in Customer Data and Customer Applications, and Google retains all Intellectual Property Rights in the Services and Software.
 
-5.2 _Protection of Customer Data._ Google will only access, use, and otherwise process Customer Data in accordance with the Cloud Data Processing Addendum and will not access, use, or process Customer Data for any other purpose. Google has implemented and will maintain technical, organizational, and physical measures to protect Customer Data, as further described in the Cloud Data Processing Addendum.
+5.2 _Protection of Customer Data._ Google will only access, use, and otherwise process Customer Data in accordance with the Cloud Data Processing Addendum and will not access, use, or process Customer Data for any other purpose. Google has implemented and will maintain technical, organizational, and physical measures to protect Customer Data, as further described in the Cloud Data Processing Addendum. If you are accessing the Services as a customer of an unaffiliated Google Cloud reseller, this Section 5.2 (Protection of Customer Data)is subject to the "Resold Customers" section of the applicable Service Specific Terms.
 
 5.3 _Customer Feedback_. At its option, Customer may provide feedback or suggestions about the Services to Google ("Feedback"). If Customer provides Feedback, then Google and its Affiliates may use that Feedback without restriction and without obligation to Customer.
 
@@ -417,7 +417,9 @@ Section 14.12 (U.S. Governing Law) is replaced as follows:
 
 **Latin** **America** **- Brazil**
 
-When the Google contracting entity is Google Cloud Brasil Computação e Serviços de Dados Ltda., Section 14.12 (U.S. Governing Law) is replaced as follows:
+When the Google contracting entity is Google Cloud Brasil Computação e Serviços de Dados Ltda., the following Sections are replaced or added as follows:
+
+(i) Section 14.12 (U.S. Governing Law) is replaced as follows:
 
 14.12 _Governing Law & Arbitration._ This Agreement is governed by Brazilian Law. ALL DISPUTES ARISING OUT OF OR RELATING TO THIS AGREEMENT OR ANY RELATED GOOGLE PRODUCTS OR SERVICES WILL BE SETTLED BY ARBITRATION, AS DESCRIBED BELOW.
 
@@ -432,6 +434,10 @@ When the Google contracting entity is Google Cloud Brasil Computação e Serviç
 (e) _Non-Monetary Relief._ The arbitrator(s) may only issue its award based on law, not in equity, and may not award non-monetary relief.
 
 (f) _Fees and Expenses._ Each party will bear its own lawyers’ and experts’ fees and expenses, regardless of the arbitrator’s final decision regarding the Dispute.
+
+(ii) Section 14.20 is added as follows:
+
+14.20. Currency Conversion. When the price list is not available in the local currency and the billing is in non-USD currency, Google will convert USD-denominated prices into applicable currency according to market conversion rates adopted by Google’s foreign exchange partners and leading financial institutions in Brazil, considering the date of the billing, for pay-as-you-go products, or the date of implementation of a subscription, as applicable, and unless otherwise provided in a specific foreign exchange section in a pricing or discount addenda.
 
 **Latin America - Mexico**
 
