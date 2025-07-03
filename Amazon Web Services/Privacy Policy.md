@@ -1,13 +1,13 @@
 Privacy Notice
 ==============
 
-#### Last Updated: May 12, 2025
+#### Last Updated: July 2, 2025
 
-To see prior version, click [here](https://aws.amazon.com/privacy/aws-privacy-prior-20250221/).
+View the [prior version](https://aws.amazon.com/privacy/aws-privacy-prior-20250512/) of this Privacy Notice. 
 
 This Privacy Notice describes how we collect and use your personal information in relation to AWS websites, applications, products, services, events, and experiences that reference this Privacy Notice (together, “AWS Offerings”).
 
-This Privacy Notice does not apply to the “content” processed, stored, or hosted by our customers using AWS Offerings in connection with an AWS account. See the agreement governing your access to your AWS account and the [AWS Data Privacy FAQ](https://aws.amazon.com/compliance/data-privacy-faq/) for more information about how we handle content and how our customers can control their content through AWS Offerings. This Privacy Notice also does not apply to any products, services, websites, or content that are offered by third parties or have their own privacy notice.
+This Privacy Notice does not apply to the “content” processed, stored, or hosted by our customers using AWS Offerings in connection with an AWS account. See the agreement governing your access to your AWS account and the [AWS Data Privacy FAQs](https://aws.amazon.com/compliance/data-privacy-faq/) for more information about how we handle content and how our customers can control their content through AWS Offerings. This Privacy Notice also does not apply to any products, services, websites, or content that are offered by third parties or have their own privacy notice.
 
 * [Personal Information We Collect](#Personal_Information_We_Collect)
 * [How We Use Personal Information](#How_We_Use_Personal_Information)
@@ -33,10 +33,12 @@ We collect your personal information in the course of providing AWS Offerings to
 
 Here are the types of information we gather:
 
-* **Information You Give Us:** We collect any information you provide in relation to AWS Offerings. Click [here](#Information_You_Give_Us) to see examples of information you give us.
-* **Automatic Information:** We automatically collect certain types of information when you interact with AWS Offerings. Click [here](#Automatic_Information) to see examples of information we collect automatically.
-* **Information from Other Sources:** We might collect information about you from other sources, including service providers, partners, and publicly available sources. Click [here](#Information_from_Other_Sources) to see examples of information we collect from other sources.  
+* **Information You Give Us:** We collect any information you provide in relation to AWS Offerings. 
+* **Automatic Information:** We automatically collect certain types of information when you interact with AWS Offerings.
+* **Information from Other Sources:** We might collect information about you from other sources, including service providers, partners, and publicly available sources.   
     
+
+See [examples of information we collect or receive](https://aws.amazon.com/privacy/#Information_You_Give_Us). 
 
 #### How We Use Personal Information
 
@@ -46,7 +48,7 @@ We use your personal information to operate, provide, and improve AWS Offerings.
 * **Measure, Support, and Improve AWS Offerings:** We use your personal information to measure use of, analyze performance of, fix errors in, provide support for, improve, and develop AWS Offerings.
 * **Recommendations and Personalization:** We use your personal information to recommend AWS Offerings that might be of interest to you, identify your preferences, and personalize your experience with AWS Offerings.
 * **Comply with Legal Obligations:** In certain cases, we have a legal obligation to collect, use, or retain your personal information. For example, we collect bank account information from AWS Marketplace sellers for identity verification.
-* **Communicate with You:** We use your personal information to communicate with you in relation to AWS Offerings via different channels (e.g., by phone, email, chat) and to respond to your requests.
+* **Communicate with You:** We use your personal information to communicate with you in relation to AWS Offerings via different channels (for example, by phone, email, chat) and to respond to your requests.
 * **Marketing and Advertising:** We use your personal information to market, advertise, and promote AWS Offerings. 
 * **Fraud and Abuse Prevention and Credit Risks:** We use your personal information to prevent and detect fraud and abuse in order to protect the security of our customers, AWS, and others. We may also use scoring methods to assess and manage credit risks.
 * **Purposes for Which We Seek Your Consent:** We may also ask for your consent to use your personal information for a specific purpose that we communicate to you.  
@@ -58,9 +60,9 @@ To enable our systems to recognize your browser or device, and to provide, marke
 
 #### How We Share Personal Information
 
-Information about our customers is an important part of our business and we are not in the business of selling our customers’ personal information to others. We share personal information only as described below and with Amazon.com, Inc. and the affiliates that Amazon.com, Inc. controls that are either subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
+Information about our customers is an important part of our business, and we are not in the business of selling our customers’ personal information to others. We share personal information only as described below and with Amazon.com, Inc. and the affiliates that Amazon.com, Inc. controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 
-* **Transactions Involving Third Parties:** We make available to you services, software, and content provided by third parties for use on or through AWS Offerings. You can tell when a third party is involved in your transactions, and we share information related to those transactions with that third party. For example, you can order services, software, and content from sellers using the AWS Marketplace and we provide those sellers information to facilitate your subscription, purchases, or support.
+* **Transactions Involving Third Parties:** We make available to you services, software, and content provided by third parties for use on or through AWS Offerings. You can tell when a third party is involved in your transactions, and we share information related to those transactions with that third party. For example, you can order services, software, and content from sellers using the AWS Marketplace and we provide those sellers with information to facilitate your subscription, purchases, or support.
 * **Third-Party Service Providers:** We employ other companies and individuals to perform functions on our behalf. Examples include: delivering AWS hardware, sending communications, processing payments, assessing credit and compliance risks, analyzing data, providing marketing and sales assistance (including advertising and event management), conducting customer relationship management, and providing training. These third-party service providers have access to personal information needed to perform their functions, but may not use it for other purposes. Further, they must process that information in accordance with this Privacy Notice and as permitted by applicable data protection law.
 * **Business Transfers:** As we continue to develop our business, we might sell or buy businesses or services. In such transactions, personal information generally is one of the transferred business assets but remains subject to the promises made in any pre-existing Privacy Notice (unless, of course, the individual consents otherwise). Also, in the unlikely event that AWS or substantially all of its assets are acquired, your information will of course be one of the transferred assets.
 * **Protection of Us and Others:** We release account and other personal information when we believe release is appropriate to comply with the law, enforce or apply our terms and other agreements, or protect the rights, property, or security of AWS, our customers, or others. This includes exchanging information with other companies and organizations for fraud prevention and detection and credit risk reduction.
@@ -75,7 +77,7 @@ Amazon Web Services, Inc. is located in the United States, and our affiliated co
 
 At AWS, security is our highest priority. We design our systems with your security and privacy in mind.
 
-* We maintain a wide variety of compliance programs that validate our security controls. Click [here](https://aws.amazon.com/compliance/programs/) to learn more about our compliance programs.
+* We maintain a wide variety of compliance programs that validate our security controls. Learn more about our [compliance programs at AWS Cloud Security](https://aws.amazon.com/compliance/programs/).
 * We protect the security of your information during transmission to or from AWS websites, applications, products, or services by using encryption protocols and software.
 * We follow the Payment Card Industry Data Security Standard (PCI DSS) when handling credit card data.
 * We maintain physical, electronic, and procedural safeguards in connection with the collection, storage, and disclosure of personal information. Our security procedures mean that we may request proof of identity before we disclose personal information to you.  
@@ -87,14 +89,14 @@ To help you receive more useful and relevant ads on other sites and services and
 
 #### Access and Choice
 
-You can view, update, and delete certain information about your account and your interactions with AWS Offerings. Click [here](#Information_You_Can_Access) for a list of examples of information that you can access. If you cannot access or update your information yourself, you can always contact us for assistance.
+You can view, update, and delete certain information about your account and your interactions with AWS Offerings. [See examples of information that you can access](https://aws.amazon.com/privacy/#Information_You_Can_Access). If you cannot access or update your information yourself, you can always contact us for assistance.
 
 You have choices about the collection and use of your personal information. Many AWS Offerings include settings that provide you with options as to how your information is being used. You can choose not to provide certain information, but then you might not be able to take advantage of certain AWS Offerings.
 
 * **Account Information:** If you want to add, update, or delete information related to your account, please go to the [AWS Management Console](https://console.aws.amazon.com/billing/home?#/account). When you update or delete any information, we usually keep a copy of the prior version for our records.
 * **Communications:** If you do not want to receive promotional messages from us, please unsubscribe or adjust your communication preferences in the [AWS Management Console](https://console.aws.amazon.com/billing/home?#/preferences) or the [AWS Email Preference Center](https://pages.awscloud.com/communication-preferences.html). If you do not want to receive in-app notifications from us, please adjust your notification settings in the app or your device.
-* **Advertising:** If you are located in the United States, you may opt-out of personalized advertising, including cross-context behavioral advertising, by clicking the “Your Privacy Choices” link in the footer of the AWS site you’re visiting and following the instructions presented. If you are located outside the United States, you may adjust your personalized advertising preferences by filling out the form available [here](https://pulse.aws/application/ZRPLWLL6) [](#_msocom_1)and by following the Cookie Preferences instructions below.
-* **Cookies Preferences:** You can change your cookie preferences on AWS sites at any time by clicking Cookie Preferences in the footer of the AWS site. You can also manage cookies through your browser settings. The "Help" feature on most browsers and devices will tell you how to remove cookies from your device, how to prevent your browser or device from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
+* **Advertising:** If you are located in the United States, you may opt-out of personalized advertising, including cross-context behavioral advertising, by clicking the “Your Privacy Choices” link in the footer of the AWS site you’re visiting and following the instructions presented. If you are located outside the United States, you may adjust your personalized advertising preferences by filling out the [Your Privacy Choices](https://pulse.aws/application/ZRPLWLL6?p=0) form [](#_msocom_1)and by following the Cookie Preferences instructions.
+* **Cookie Preferences:** You can change your cookie preferences on AWS sites at any time by clicking Cookie Preferences in the footer of the AWS site. You can also manage cookies through your browser settings. The "Help" feature on most browsers and devices will tell you how to remove cookies from your device, how to prevent your browser or device from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether.
 * **Sellers and Amazon Partners:** Sellers and Amazon Partner Network members can add, update, or delete information in the [AWS Marketplace](https://aws.amazon.com/marketplace/account-management) and [APN Partner Central](https://partnercentral.awspartner.com/SiteLogin), respectively.  
     
 
@@ -124,7 +126,7 @@ Our business changes constantly, and our Privacy Notice may also change. You sho
 
 #### EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework
 
-Amazon Web Services, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework. Click [here](https://www.amazon.com/gp/help/customer/display.html/ref=hp_left_v4_sib?ie=UTF8&nodeId=202135380) to learn more.
+Amazon Web Services, Inc. participates in the EU-US Data Privacy Framework, the UK Extension to the EU-US Data Privacy Framework, and the Swiss-US Data Privacy Framework. Learn more about the [EU-US Data Privacy Framework, UK Extension, and Swiss-US Data Privacy Framework](https://www.amazon.com/gp/help/customer/display.html?nodeId=G202135380). 
 
 #### Additional Information for Certain Jurisdictions
 
@@ -151,11 +153,11 @@ We provide additional information about our controllers and data protection offi
     * request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means; and
     * request information about the possibility of refusing consent and the consequences of doing so.
     
-    If you wish to do any of these things and you are an AWS customer, please contact us [here](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or at the address under Controller of Personal Information above. 
+    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home) through your AWS Account. If you are not an AWS customer, please fill out a [request form](https://pages.awscloud.com/DSAR_RTF.html) or send us a letter at Amazon AWS Serviços Brasil Ltda., A. Presidente Juscelino Kubitschek, 2.041, Torre E - 18th and 19th Floors, Vila Nova Conceicao, Sao Paulo. 
     
     You can also file a complaint with Brazil’s National Data Protection Authority (ANPD) through its official channels.
     
-    When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose.
+    When you consent to our processing of your personal information for a specified purpose, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose.
     
     **Transfers outside of Brazil**. When we transfer your personal information outside Brazil, we do so in accordance with the terms of this Privacy Notice and applicable data protection law. 
     
@@ -168,7 +170,7 @@ We provide additional information about our controllers and data protection offi
     * request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements; and
     * lodge a complaint with us regarding our practices related to your personal information.
     
-    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or by mail at 120 Bremner Blvd, 26th Floor, Toronto, Ontario, M5J 0A8, Canada, ATTN: AWS Canada Legal. Further, the Amazon Web Services Canada, Inc. Privacy Officer can be contacted at [aws-canada-privacy@amazon.com](mailto:aws-canada-privacy@amazon.com) or by mail at the address noted above.
+    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home) through your AWS Account. If you are not an AWS customer, please fill out a [request form](https://pages.awscloud.com/DSAR_RTF.html) or send us a letter at 120 Bremner Blvd, 26th Floor, Toronto, Ontario, M5J 0A8, Canada, ATTN: AWS Canada Legal. Further, the Amazon Web Services Canada, Inc. Privacy Officer can be contacted at [aws-canada-privacy@amazon.com](mailto:aws-canada-privacy@amazon.com) or by mail at the address noted above.
     
     When you consent to our processing your personal information for a specified purpose, you may withdraw your consent at any time, and we will stop any further processing of your data for that purpose.
     
@@ -176,7 +178,7 @@ We provide additional information about our controllers and data protection offi
     
     **Your Rights**. With respect to data collected and processed by Amazon Web Services Costa Rica (“AWS Costa Rica”), you have the rights of access, rectification, erasure, restriction, or complaint. When you consent to AWS Costa Rica processing your personal information for a specified purpose, you may withdraw your consent at any time and AWS Costa Rica will stop any further processing of your data for that purpose.
     
-    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home). If you are not an AWS customer, please contact us at Zona Franca America, Edificio C7. 600 norte de Plaza Real Cariari, sobre la paralela a la Autopista General Cañas. San Francisco de Heredia, Costa Rica.  
+    If you wish to do any of these things and you are an AWS customer, please [contact us](https://console.aws.amazon.com/support/home) through your AWS Account. If you are not an AWS customer, please send us a letter at Zona Franca America, Edificio C7. 600 norte de Plaza Real Cariari, sobre la paralela a la Autopista General Cañas. San Francisco de Heredia, Costa Rica.  
     
 * European Economic Area, UK, and Switzerland
     
@@ -193,11 +195,9 @@ We provide additional information about our controllers and data protection offi
     * as necessary to comply with relevant law and legal obligations, including to respond to lawful requests and orders; or 
     * with your consent.
     
-    **Information We Retain After Your Account is Closed.**  
+    **Information We Retain After Your Account is Closed.**
     
-    * If you decide to terminate your agreement and close your AWS account, we will retain your content for a period of up to 90 days after account closure, during which you may still access part of the AWS Management Console in order to retrieve your billing documents and to contact customer support. During this period, you may also decide to reopen your AWS account. At the end of this period, we will delete any content remaining in your account.  
-        
-    * After account closure, we may need to keep certain information for an additional period of time for legal and legitimate business purposes. For example, we may retain personal information such as your contact information (e.g., name, email address, physical address) and any invoices that AWS has sent to you (e.g., record of purchases, applicable discounts, and tax information) for tax and accounting purposes. If applicable, AWS may also retain records of communications with you, as well as relevant logs (e.g., a log of your account closure) for dispute resolution purposes. We further may keep records for preventing fraud and ensuring security, for example in case of misuse of our services or violation of our terms.
+    * After account closure, we may need to keep certain information for an additional period of time for legal and legitimate business purposes. For example, we may retain personal information such as your contact information (for example, name, email address, physical address) and any invoices that AWS has sent to you (for example, record of purchases, applicable discounts, and tax information) for tax and accounting purposes. If applicable, AWS may also retain records of communications with you, as well as relevant logs (for example, a log of your account closure) for dispute resolution purposes. We may further keep records for preventing fraud and ensuring security, for example in case of misuse of our services or violation of our terms.
     
     **Your Rights**. Subject to applicable law, you have the right to:
     
@@ -210,9 +210,9 @@ We provide additional information about our controllers and data protection offi
     
     **Advertising**. To help you receive more useful and relevant ads on other sites and services and to measure their effectiveness, AWS shares limited personal information with our advertising partners. If you provide your consent, we use advertising cookies and similar technologies. You can withdraw your consent by clicking on the “Cookie Preferences” link presented in the footer of the AWS website you’re visiting.
     
-    We may also share a unique code derived from your contact information (such as a hashed email address) with our advertising partners. We don’t share your name or other information that directly identifies you when we do this. We rely on our legitimate interests for this processing, including to help you find and discover features, products, and services that might be of interest to you. To opt out, click the link [here](https://pulse.aws/application/ZRPLWLL6).[](#_msocom_1)
+    We may also share a unique code derived from your contact information (such as a hashed email address) with our advertising partners. We don’t share your name or other information that directly identifies you when we do this. We rely on our legitimate interests for this processing, including to help you find and discover features, products, and services that might be of interest to you. You may adjust your personalized advertising preferences by filling out the [Your Privacy Choices form](https://pulse.aws/application/ZRPLWLL6).
     
-    **Questions and Contacts.** If you wish to do any of these things or have a data-protection related question, and you are an AWS customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html). 
+    **Questions and Contacts.** If you wish to do any of these things or have a data-protection related question, and you are an AWS customer, please [contact us](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256) through your AWS Account.. If you are not an AWS customer, please fill out a [request form](https://pages.awscloud.com/DSAR_RTF.html). 
     
     The data protection officer for Amazon Web Services EMEA SARL can be contacted at aws-EU-privacy@amazon.com.  
     
@@ -242,15 +242,15 @@ We provide additional information about our controllers and data protection offi
     
     When we share your personal information with third parties outside of Japan, such as sellers of products on AWS Marketplace and sponsors of AWS events, we require the recipients to adopt personal information security measures to protect your personal information.
     
-    Please see [here](https://aws.amazon.com/legal/sharing-of-personal-information-japan/) for information on the countries where third parties may be located, and the applicable data privacy laws and data protection systems in these countries.  
+    Learn more about [the countries where third parties may be located, and the applicable data privacy laws and data protection systems in these countries](https://aws.amazon.com/legal/sharing-of-personal-information-japan/).  
     
     **Your Rights**
     
-    You may have the right to request access to or delete your personal information in accordance with applicable law. If you wish to submit a data subject access request, please [contact us](https://console.aws.amazon.com/support/home) (for AWS customers) or contact us at our mailing address, Amazon Web Services Japan G.K., 3-1-1 Kamiosaki, Shinagawa-ku, Tokyo 141-0021 JAPAN, ATTN: AWS Japan Legal (for current or prospective customers of Amazon Web Services Japan G.K. and non-customers in Japan).
+    You may have the right to request access to or delete your personal information in accordance with applicable law. If you wish to submit a data subject access request, please [contact us](https://console.aws.amazon.com/support/home) through your AWS Account (for AWS customers) or send us a letter at Amazon Web Services Japan G.K., 3-1-1 Kamiosaki, Shinagawa-ku, Tokyo 141-0021 JAPAN, ATTN: AWS Japan Legal (for current or prospective customers of Amazon Web Services Japan G.K. and non-customers in Japan).
     
 * Malaysia
     
-    A Bahasa Malaysia translation of this Privacy Notice can be found [here](https://d1.awsstatic.com/legal/privacypolicy/AWS_Privacy_Notice_Bahasa%20Malaysia_2020-08-15.pdf).  
+    You may visit the [Bahasa Malaysia translation of this Privacy Notice](https://d1.awsstatic.com/legal/privacypolicy/AWS_Privacy_Notice_Bahasa%20Malaysia_2020-08-15.pdf).
     
 * Nigeria
     
@@ -266,7 +266,7 @@ We provide additional information about our controllers and data protection offi
     * request portability of personal information that you have provided to us (which does not include information derived from the collected information), where the processing of such personal information is based on consent or a contract with you and is carried out by automated means; and
     * request information about the possibility of refusing consent and the consequences of doing so.
     
-    If you wish to do any of these things and you are an AWS Nigeria customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26skipRegion%3Dtrue%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=qJD7SvS8ZXtDXWnoWuWG_vI9hvUhROYNvvF-DRHgr44&code_challenge_method=SHA-256). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html). 
+    If you wish to do any of these things and you are an AWS Nigeria customer, please [contact us](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26skipRegion%3Dtrue%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=qJD7SvS8ZXtDXWnoWuWG_vI9hvUhROYNvvF-DRHgr44&code_challenge_method=SHA-256) through your AWS Account. If you are not an AWS customer, please fill out a [request form](https://pages.awscloud.com/DSAR_RTF.html).
     
     You can also file a complaint with Nigeria’s National Information Technology Development Agency through its official channels.
     
@@ -276,7 +276,7 @@ We provide additional information about our controllers and data protection offi
     
     **Controller of Personal Information.** With respect to personal information provided to Amazon Web Services Peru S.R.L., located at Av. Jorge Basadre 349 San Isidro, Lima (“AWS Peru”), AWS Peru is the data controller and the personal data bank holder of the following data banks: customers, prospective customers, and vendors.   
     
-    **Personal Information.** Depending on how you engage with AWS Peru, we may process one or more of the following kinds of personal information: name, identity card number, Tax ID, contact information (such as address, telephone, email address), profession, banking and credit card details, and physical or electronic signature. For more information about the personal information that we collect, click [here](https://aws.amazon.com/privacy/#Personal_Information_We_Collect).  
+    **Personal Information.** Depending on how you engage with AWS Peru, we may process one or more of the following kinds of personal information: name, identity card number, Tax ID, contact information (such as address, telephone, email address), profession, banking and credit card details, and physical or electronic signature. Learn more about the [personal information that we collect](https://aws.amazon.com/privacy/#Personal_Information_We_Collect).  
     
     **Your Rights.** Subject to applicable law, you have the right to: 
     
@@ -288,7 +288,7 @@ We provide additional information about our controllers and data protection offi
     * exercise any other rights afforded by the Peruvian Personal Data Protection Regulations.  
         
     
-    If you wish to do any of these things and you are an AWS Peru customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26skipRegion%3Dtrue%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=NWEYa499RsUilufub3YRf-fMlUpaF_SVA8dqdzOVfk0&code_challenge_method=SHA-256). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or at the address under Controller of Personal Information above.   
+    If you wish to do any of these things and you are an AWS Peru customer, please [contact us](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26skipRegion%3Dtrue%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=NWEYa499RsUilufub3YRf-fMlUpaF_SVA8dqdzOVfk0&code_challenge_method=SHA-256) through your AWS Account. If you are not an AWS customer, please fill out an [AWS Data Subject Rights Request form](https://pages.awscloud.com/DSAR_RTF.html) or send a letter to Amazon Web Services Peru S.R.L., Av. Jorge Basadre 349 San Isidro, Lima.   
     
     You can also file a complaint before the Peruvian National Data Protection Authority through its official channels.   
     
@@ -296,7 +296,7 @@ We provide additional information about our controllers and data protection offi
     
 * Philippines
     
-    With respect to personal information provided to Amazon Web Services Philippines, Inc. (“AWS Philippines”), you may contact the Data Protection Officer (“DPO”) and Data Compliance Officer for Privacy (“COP”) [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26skipRegion%3Dtrue%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=dnyOArsgoKPlnAwgR04NdyAJ3ZcmK0FOKcNk4EgqWZE&code_challenge_method=SHA-256) if you are an AWS Philippines customer. If you are not an AWS customer, you may contact the DPO and COP at 21st floor Arthaland Century Pacific Tower, 5th Avenue 1634 Bonifacio Global City, Taguig, Philippines. 
+    With respect to personal information provided to Amazon Web Services Philippines, Inc. (“AWS Philippines”), you may [contact the Data Protection Officer (“DPO”) and Data Compliance Officer for Privacy (“COP”)](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26skipRegion%3Dtrue%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=dnyOArsgoKPlnAwgR04NdyAJ3ZcmK0FOKcNk4EgqWZE&code_challenge_method=SHA-256) if you are an AWS Philippines customer. If you are not an AWS customer, you may contact the DPO and COP at 21st floor Arthaland Century Pacific Tower, 5th Avenue 1634 Bonifacio Global City, Taguig, Philippines. 
     
 * South Africa
     
@@ -308,10 +308,9 @@ We provide additional information about our controllers and data protection offi
     * request deletion of personal information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements; 
     * object, at any time to the processing of your personal information for purposes of direct marketing other than direct marketing by means of unsolicited electronic communications from AWS which is prohibited unless you give consent to receive such direct marketing; 
     * object, at any time (at which point we will cease processing of your personal information), to the processing of your personal information if you feel the processing of that personal information is not necessary for protection of your legitimate interest/s; proper performance of a public law duty by a public body; or pursuance of the legitimate interests of AWS or of a third party to whom the information is supplied; and 
-    * to submit a complaint to the Information Regulator of South Africa regarding interference with the protection of your personal information.   
-        
+    * to submit a complaint to the Information Regulator of South Africa regarding interference with the protection of your personal information. 
     
-    If you wish to do any of these things and you are an AWS South Africa customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26skipRegion%3Dtrue%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=NWEYa499RsUilufub3YRf-fMlUpaF_SVA8dqdzOVfk0&code_challenge_method=SHA-256). If you are not an AWS customer, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or at the address under Controller of Personal Information above.
+    If you wish to do any of these things and you are an AWS South Africa customer, please [contact us](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26skipRegion%3Dtrue%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=NWEYa499RsUilufub3YRf-fMlUpaF_SVA8dqdzOVfk0&code_challenge_method=SHA-256) through your AWS Account. If you are not an AWS customer, please fill out a [request form](https://pages.awscloud.com/DSAR_RTF.html) or send us a letter at Amazon Web Services South Africa Proprietary Limited, located at 29 Gogosoa Street, Observatory, Cape Town, South Africa, 7925.
     
     The Information Regulator Contact Details. The Information Regulator of South Africa is located at: JD House, 27 Stiemens Street, Braamfontein, Johannesburg, 2001. P.O. Box 31533, Braamfontein, Johannesburg, 2017. You may direct general enquiries by email to: [enquiries@inforegulator.org.za](mailto:enquiries@inforegulator.org.za). You may direct complaints by email to: [POPIAComplaints@inforegulator.org.za](mailto:POPIAComplaints@inforegulator.org.za).   
     
@@ -361,7 +360,7 @@ We provide additional information about our controllers and data protection offi
     
     Email: aws-korea-privacy@amazon.com  
     
-    Korean translation of this Privacy Notice can be found [here](https://aws.amazon.com/ko/privacy/).  
+    You may visit the [Korean translation of this Privacy Notice](https://aws.amazon.com/ko/privacy/).
     
 * Turkey
     
@@ -371,9 +370,9 @@ We provide additional information about our controllers and data protection offi
     
     These additional disclosures are required by certain state privacy laws to the extent they apply to your use of AWS Offerings, and serve as a Notice at Collection under the California Privacy Rights Act. Information about our customers is an important part of our business and we are not in the business of selling our customers’ personal information to others. 
     
-    **Categories of personal information collected**. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, fall into the following categories established by the California Privacy Rights Act and other state privacy laws, depending on how you engage with the AWS Offerings:
+    **Categories of personal information collected**. The personal information that we may collect, or may have collected from consumers in the preceding twelve months, falls into the following categories established by the California Privacy Rights Act and other state privacy laws, depending on how you engage with the AWS Offerings:
     
-    * Identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (such as a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses, or an ID you provide for identity verification, which in some cases may reflect citizenship or immigration status);  
+    * identifiers, such as your name, alias, address, phone numbers, or IP address, your AWS account log-in information, or a government-issued identifier (such as a state-issued ID number, which may be required to verify your identity when completing certain AWS certification courses, or an ID you provide for identity verification, which in some cases may reflect citizenship or immigration status);  
         
     * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information;
     * characteristics of protected classifications under California or US federal law, such as age, race, or gender or gender identity, for example if we conduct user surveys or analysis;  
@@ -389,13 +388,13 @@ We provide additional information about our controllers and data protection offi
     * inference data, such as information about your preferences; and
     * education information, such as information about enrollment status, fields of study, or degrees, honors, and awards received.
     
-    We collect this information from you, automatically through your interaction with the AWS Offerings, or from third parties. For more information about the personal information we collect, click [here](https://aws.amazon.com/privacy/#Personal_Information_We_Collect). We collect this information for the business and commercial purposes described in the “How We Use Personal Information” section above.  
+    We collect this information from you, automatically through your interaction with the AWS Offerings, or from third parties. Learn more about the [personal information we collect](https://aws.amazon.com/privacy/#Personal_Information_We_Collect). We collect this information for the business and commercial purposes described in the “How We Use Personal Information” section above.  
     
-    **Categories of personal information disclosed for a business purpose**. The personal information that we may have disclosed about consumers for a business purpose in the preceding twelve months fall into the following categories established by the California Privacy Rights Act and other state privacy laws, depending on how you engage with the AWS Offerings:
+    **Categories of personal information disclosed for a business purpose**. The personal information that we may have disclosed about consumers for a business purpose in the preceding twelve months falls into the following categories established by the California Privacy Rights Act and other state privacy laws, depending on how you engage with the AWS Offerings:
     
     * Identifiers, such as your name, address, or phone numbers, for example if we use a third-party carrier to deliver AWS hardware, or government identifier or certain types of ID you provide for identity verification, which may in some cases reflect your citizenship or immigration status, for example if we use a third-party service to verify your identity;
     * personal information as described in subdivision (e) of Section 1798.80 of the California Civil Code, such as a credit card number or other payment information, for example if we use a third-party payment processor;
-    * information that may reveal your age, gender or gender identity, race, or other protected classifications under California or US federal law, for example if we conduct user surveys or analysis using a third-party service provider;  
+    * information that may reveal your age, gender or gender identity, race, or other protected classifications under California or US federal law, for example if we conduct user surveys or analyses using a third-party service provider;  
         
     * commercial information, such as the details of a product or service you purchased if a third-party service provider assists in providing that product or service to you;
     * internet or other electronic network activity information, such as if we use a third-party service provider to help us gather reports for analyzing the health of our devices and services;
@@ -411,7 +410,7 @@ We provide additional information about our controllers and data protection offi
     * inference data, for example if we use a third-party service provider to store information about your preferences.  
         
     
-    For more information about the personal information we may disclose for a business purpose, click [here](https://aws.amazon.com/privacy/#How_We_Share_Personal_Information).
+    Learn more about [the personal information we may disclose for a business purpose](https://aws.amazon.com/privacy/#How_We_Share_Personal_Information).
     
     **Advertising.** To help ensure you receive more useful and relevant ads on other sites and services and to measure their effectiveness, AWS shares limited personal information with our advertising partners. We don’t share your name or other information that directly identifies you when we do this. Any personal information AWS may share for the purpose of cross-context behavioral advertising, as those terms are defined by the California Privacy Rights Act, or processes for the purposes of targeted advertising as that term is defined in other state privacy laws, above falls into the following categories:
     
@@ -420,7 +419,7 @@ We provide additional information about our controllers and data protection offi
     
     AWS does not knowingly share personal information about consumers who are under the age of 18.
     
-    **Your Data Rights**. You may have certain data rights under state privacy laws, including to request information about the collection of your personal information by us, to access your personal information in a portable format, and to correct or delete your personal information. If you wish to do any of these things and you are an AWS customer, please contact us [here](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256). If you are not an AWS customer, or you are an authorized agent under applicable state law, please contact us [here](https://pages.awscloud.com/DSAR_RTF.html) or at the address under [Contacts, Notices, and Revisions](https://aws.amazon.com/privacy/#Contacts.2C_Notices.2C_and_Revisions) above. Additionally, you may have the right to opt out of the processing of your personal data for cross-context behavioral advertising (also referred to as targeted advertising under certain state privacy laws). To do so, please click on the Your Privacy Choices link in the footer of the AWS website that you’re visiting and follow the instructions presented. You can also opt out of such advertising based on cookies or similar technologies by visiting our websites with a legally recognized opt-out preference signal, such as the Global Privacy Control, enabled.
+    **Your Data Rights**. You may have certain data rights under state privacy laws, including to request information about the collection of your personal information by us, to access your personal information in a portable format, and to correct or delete your personal information. If you wish to do any of these things and you are an AWS customer, please [contact us](https://signin.aws.amazon.com/signin?redirect_uri=https%3A%2F%2Fus-east-1.console.aws.amazon.com%2Fsupport%2Fhome%3Fregion%3Dus-east-1%26state%3DhashArgs%2523%26isauthcode%3Dtrue&client_id=arn%3Aaws%3Aiam%3A%3A015428540659%3Auser%2Fsupportcenter&forceMobileApp=0&code_challenge=k2xgcbrSF22NYXIq_NYk47-95DzdIyEpseijzwDkUlY&code_challenge_method=SHA-256) through your AWS Account. If you are not an AWS customer, or you are an authorized agent under applicable state law, please fill out a [request form](https://pages.awscloud.com/DSAR_RTF.html) or send us a letter at Amazon Web Services, Inc., 410 Terry Avenue North, Seattle, WA 98109-5210, ATTN: AWS Legal. Additionally, you may have the right to opt out of the processing of your personal data for cross-context behavioral advertising (also referred to as targeted advertising under certain state privacy laws). To do so, please click on the Your Privacy Choices link in the footer of the AWS website that you’re visiting and follow the instructions presented. You can also opt out of such advertising based on cookies or similar technologies by visiting our websites with a legally recognized opt-out preference signal, such as the Global Privacy Control, enabled.
     
     You may have the right to appeal the denial of any of these rights by submitting a form that will be provided to you if we deny a data request. Depending on your data choices, certain services may be limited or unavailable.
     
@@ -430,11 +429,13 @@ We provide additional information about our controllers and data protection offi
     
     **California Privacy Rights Act Sensitive Personal Information Disclosure**. The categories of data that we collect and disclose for a business purpose include “sensitive personal information” as defined under the California Privacy Rights Act. We do not use or disclose sensitive personal information for any purpose not expressly permitted by the California Privacy Rights Act.
     
-    **California Privacy Rights Act Retention Disclosure**. To enable your continued use of AWS Services, we keep your personal information for as long as it is required in order to fulfill the relevant purposes described in this AWS Privacy Notice, as permitted or as may be required by law, or as otherwise communicated to you.  
+    **California Privacy Rights Act and Minnesota Consumer Data Privacy Act**. To enable your continued use of AWS Services, we keep your personal information for as long as it is required in order to fulfill the relevant purposes described in this AWS Privacy Notice, as permitted or as may be required by law, or as otherwise communicated to you.  
     
     **California Privacy Rights Act Non-Discrimination Statement**. We will not discriminate against any consumer for exercising their rights under the California Privacy Rights Act.
     
-    **Colorado Privacy Act and Oregon Privacy Act Profiling Disclosure**. We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects, as those terms are defined under the Colorado Privacy Act or the Oregon Privacy Act.    
+    **Colorado Privacy Act and Oregon Privacy Act Profiling Disclosure**. We do not engage in profiling of consumers in furtherance of automated decisions that produce legal or similarly significant effects, as those terms are defined under the Colorado Privacy Act or the Oregon Privacy Act.  
+    
+    **New Jersey Notice of Material Change Disclosure.** If we make material changes to our Privacy Notice, we will provide affected customers with advance notice of the change, such as by email, on our website or via their account.
     
 
 #### Examples of Information Collected
