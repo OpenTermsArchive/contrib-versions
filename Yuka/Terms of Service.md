@@ -3,7 +3,7 @@ Terms & Conditions
 
 ![Louise](https://files.helpdocs.io/n0njida9x8/other/1697448726388/clean-shot-2023-09-26-at-13-07-20-2-x.png)
 
-Updated 2025-05-27T12:15:53Z by Louise
+Updated 2025-07-07T13:47:20Z by Louise
 
 There are several versions of Yuka's Terms & Conditions, depending on the country of residence of the User :
 
@@ -34,4 +34,4 @@ What are Yuka's limitations ?
 
 ![Louise](https://files.helpdocs.io/n0njida9x8/other/1697448726388/clean-shot-2023-09-26-at-13-07-20-2-x.png)
 
-Updated 2025-05-27T12:15:53Z by Louise
+Updated 2025-07-07T13:47:20Z by Louise
