@@ -42,11 +42,8 @@
         * [Legal disclosure](#brazil-legal-disclosure)
         * [Storage and international transfer of your Personal Information](#brazil-storage-international-transfer-pii)
         * [Your rights as a Data Subject](#brazil-rights-as-data-subject)
-* [Summary of Recent Changes](#change-summary)
 
-Effective Date: June 30, 2025
-
-[Summary of Recent Changes](#change-summary)
+Effective Date: July 7, 2025
 
 You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/article_attachments/38873040764180).
 
@@ -99,6 +96,13 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Attn: Roblox Corporation  
     16 Great Queen Street  
     Covent Garden, London, WC2B 5AH, United Kingdom
+    
+    Our data protection officer in the EU according to Art. 37 GDPR can be reached via:  
+    DP Dock DPO Services GmbH  
+    \- Roblox  
+    Grüffkamp 10  
+    24159 Kiel, Germany  
+    roblox@dp-officer.com
     
     If you’re in Brazil, contact our Brazilian Data Protection Officer by emailing [privacy@roblox.com](mailto:privacy@roblox.com).
     
@@ -455,7 +459,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     * Analytics services (e.g., Google LLC);
     * User acquisition services (e.g., AppsFlyer);
     * Community filtering and moderation services;
-    * Customer support services (e.g., Zendesk);
+    * Customer support services;
     * Surveys and promotions (e.g., Reach3);
     * Billing and payment services (e.g., Kount, Worldpay, PayPal, Incomm, Blackhawk, Google, Apple, Amazon, Windows Store, Xbox, Playstation, Meta Quest, Xsolla)
     * Hosting and content delivery services (eg, AWS, Equinix, CenturyLink, YouTube, Vimeo).
@@ -669,7 +673,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     * Analytics services (e.g., Google LLC);
     * User Acquisition services (e.g., AppsFlyer);
     * Community filtering and moderation services;
-    * Customer support services (e.g., Zendesk);
+    * Customer support services;
     * Surveys and promotions (e.g., Reach3);
     * Billing services and payment gateway providers (e.g., Kount, Worldpay, PayPal, Incomm, Blackhawk, Google, Apple, Amazon, Windows Store, Xbox, Playstation, Meta Quest, Xsolla); and
     * Hosting and content delivery network services (e.g., AWS, Equinix, CenturyLink, YouTube, Vimeo).
@@ -792,7 +796,7 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     * Analytics services (e.g., Google LLC);
     * User Acquisition services (e.g., AppsFlyer);
     * Community filtering and moderation services;
-    * Customer support services (e.g., Zendesk);
+    * Customer support services;
     * Surveys and promotions (e.g., Reach3);
     * Billing services and payment gateway providers (e.g., Kount, Worldpay, PayPal, Incomm, Blackhawk, Google, Apple, Amazon, Windows Store, Xbox, Playstation, Meta Quest, Xsolla); and
     * Hosting and content delivery network services (e.g., AWS, Equinix, CenturyLink, YouTube, Vimeo).
@@ -836,11 +840,5 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     Please also note that these rights are not absolute and may not apply in certain circumstances. For example, we may continue to process and retain Personal Information regardless of your request to delete, object, block or anonymize it, to comply with legal, contractual and/or regulatory obligations, and to protect and exercise rights, including in judicial, administrative and arbitration proceedings, and as otherwise required by law. To exercise your rights or ask questions, you can contact us by completing this [Customer Support Form](https://www.roblox.com/support). To appeal a decision about your privacy rights, please contact our Brazilian Data Protection Officer by emailing [privacy@roblox.com](mailto:privacy@roblox.com), or otherwise reaching out to us as described in Section 1.
     
 
-Summary of Recent Changes
-
-* We have added language to clarify audio features on Roblox.
-* We have added language to clarify data processing relating to ads on Roblox.
-* We have added language to clarify how we may collect images or videos for certain features in our Facial Media Capture Privacy Notice.
-
-Effective Date: June 30, 2025  
-Last Updated: June 30, 2025
+Effective Date: July 7, 2025  
+Last Updated: July 7, 2025
