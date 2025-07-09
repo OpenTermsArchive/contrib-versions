@@ -1,7 +1,7 @@
 Privacy policy
 ==============
 
-This version (Version 4.14) is effective as of September 26, 2023.
+This version (Version 4.15) is effective as of July 8, 2025.
 
 * [Overview](#overview)
 * [About Us](#about)
@@ -32,11 +32,11 @@ Any use you make of O'Reilly service offerings is subject to O'Reilly's [Terms o
 About Us
 --------
 
-O'Reilly Media, Inc. is a corporation registered in Delaware, with a principal office located at 1005 Gravenstein Highway North, Sebastopol, CA 95472, United States of America.
+O'Reilly Media, Inc. is a corporation registered in Delaware, with a principal office located at 141 Stony Circle, Suite 195, Santa Rosa, CA 95401, United States of America.
 
-O'Reilly UK Limited is a company registered in England, under company number 03569414, with its registered address at New Derwent House, 69-73 Theobalds Road, London, WC1X 8TA, United Kingdom.
+O'Reilly UK Limited is a company registered in England, under company number 03569414, with its registered address at O'Reilly UK Ltd, Clockhouse, Dogflud Way, Farnham, GU9 7UD, United Kingdom.
 
-Safari Books Online, LLC is a limited liability company registered in Delaware, with a principal office located at 1003 Gravenstein Highway North, Sebastopol, CA 95472, United States of America.
+Safari Books Online, LLC is a limited liability company registered in Delaware, with a principal office located at 141 Stony Circle, Suite 195, Santa Rosa, CA 95401, United States of America.
 
 Questions or Concerns: Contact Us
 ---------------------------------
@@ -49,7 +49,7 @@ Data Protection Officer
 
 Address
 
-O'Reilly Media, Inc., 1005 Gravenstein Highway North, Sebastopol, CA 95472, USA
+141 Stony Circle, Suite 195, Santa Rosa, CA 95401, United States of America
 
 Email
 
@@ -416,6 +416,8 @@ Please note that this Policy may change from time to time. We will not reduce yo
 --------------------------------------------
 
 ### 12.1 O'Reilly and Safari privacy policies
+
+[Click here for version 4.14](https://www.oreilly.com/privacy-092623.html)
 
 [Click here for version 4.13](https://www.oreilly.com/privacy-072123.html)
 
