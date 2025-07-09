@@ -34,7 +34,9 @@
 
 [Notice to California residents](#16-notice-to-california-residents)
 
-[Contact information](#17-contact-information)
+[Turnstile privacy addendum](#17-turnstile-privacy-addendum)
+
+[Contact information](#18-contact-information)
 
 [Legal questions](#legal-links)
 
@@ -54,9 +56,9 @@ USA
 Cloudflare Privacy Policy
 =========================
 
-This Privacy Policy is effective as of April 22, 2025.
+This Privacy Policy is effective as of July 08, 2025.
 
-_We have updated our Aug 28, 2024 Privacy Policy to add our entities, Cloudflare Capability Center (India) Private Limited and Cloudflare Sweden AB._  
+_We have updated our April 22, 2025 Privacy Policy to disclose Cloudflare’s certification to the_ [_Global CBPR (Cross-Border Privacy Rules) and Global PRP (Privacy Recognition for Processors) Systems_](https://www.google.com/search?rlz=1C5GCCM_en&cs=0&sca_esv=2733a3999a04fae8&q=Global+CBPR+%28Cross-Border+Privacy+Rules%29+and+Global+PRP+%28Privacy+Recognition+for+Processors%29+Systems&sa=X&ved=2ahUKEwjlofuL9fmNAxUHIEQIHeV1D_AQxccNegQIBBAB&mstk=AUtExfBzqbff0Qxneki2iJcwYQQGGLdjZl9zyAabeLj4jBv-ikLOn80zdgilO62IN0U32cHkC6U2eZM3bYRLZZOun7Ctu_zK4re_aaK6cYqjFRs-9GZu-uDsdUOOOIZmDme4g-KDaPwrozYZvNV90mfO3A3XMsLgs6Jnb1bzBW3Tmfr_zxk&csui=3) _for the transfer of personal information from participating countries and an addendum for individuals._  
   
 
 * * *
@@ -240,11 +242,14 @@ Cloudflare is a U.S. based, global company. We primarily store your information 
 
 Whenever a Cloudflare company transfers personal information originating from one country to another Cloudflare group company or a third party service provider or partner in a different country, we will implement appropriate safeguards, consistent with the laws of the territory from which the data is exported. We describe the safeguards we implement [here](https://www.cloudflare.com/trust-hub/). If you have any questions about or need further information concerning the safeguards Cloudflare has in place to protect your personal information, please contact us at [privacyquestions@cloudflare.com](mailto:privacyquestions@cloudflare.com).
 
-When Cloudflare transfers personal data from the EEA, Switzerland, or the United Kingdom (UK) to the United States, we rely on our certifications under the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), and the UK Extension to the EU-U.S. DPF. Should these certifications lapse or become otherwise invalidated, Cloudflare relies on the standard contractual clauses, including supplementary measures as necessary for transfers to the United States. We also use standard contractual clauses for other international transfers from the EEA, Switzerland, or the United Kingdom.  
-  
-Self-certification to the Data Privacy Framework  
-  
-Cloudflare complies with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF as set forth by the U.S. Department of Commerce. Cloudflare has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Cloudflare has also certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+* Transfers from countries participating in the Global Cross Border Privacy Rules System: When Cloudflare transfers personal data from a country that recognizes the Global Cross Border Privacy Rules (“CBPR”) System and the Global Privacy Recognition for Processors (“PRP”) System as lawful data transfer mechanisms, we rely on our certifications under the CBPR System and Global PRP System, as applicable. The Global CBPR System means the data privacy framework established by the Global CBPR Forum against which data controllers can voluntarily certify and undergo assessment by third-party accountability agents to enable accountable cross-border data flows among participating jurisdictions, and the Global PRP System means the complementary framework to the Global CBPR System against which data processors can voluntarily certify and undergo assessment by third-party accountability agents to enable accountable cross-border data flows among participating jurisdictions of personal information they process on behalf of data controllers, as these systems are described further at [www.globalcbpr.org.](http://www.globalcbpr.org/) Details of our certifications can be viewed at [https://www.globalcbpr.org/privacy-certifications/directory/](https://www.globalcbpr.org/privacy-certifications/directory/). If you have any questions about Cloudflare's compliance with the Global CBPR System, please contact us at dpo@cloudflare.com. If you have unresolved privacy concerns related to the Global CBPR System, that we have not addressed satisfactorily, you may contact our [third-party dispute resolution provider](https://www.schellman.com/services/privacy-assessments/cbpr-prp-certification/complaint-statistics).
+    
+* Transfers from countries in the EEA, Switzerland, and the UK: When Cloudflare transfers personal data from the EEA, Switzerland, or the United Kingdom (UK) to the United States, we rely on our certifications under the EU-U.S. Data Privacy Framework (EU-U.S. DPF), the Swiss-U.S. Data Privacy Framework (Swiss-U.S. DPF), and the UK Extension to the EU-U.S. DPF. Should these certifications lapse or become otherwise invalidated, Cloudflare relies on the standard contractual clauses, including supplementary measures as necessary for transfers to the United States. We also use standard contractual clauses for other international transfers from the EEA, Switzerland, or the United Kingdom.  
+      
+    Self-certification to the Data Privacy Framework  
+      
+    Cloudflare complies with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF as set forth by the U.S. Department of Commerce. Cloudflare has certified to the U.S. Department of Commerce that it adheres to the EU-U.S. Data Privacy Framework Principles (EU-U.S. DPF Principles) with regard to the processing of personal data received from the European Union in reliance on the EU-U.S. DPF and from the United Kingdom (and Gibraltar) in reliance on the UK Extension to the EU-U.S. DPF. Cloudflare has also certified to the U.S. Department of Commerce that it adheres to the Swiss-U.S. Data Privacy Framework Principles (Swiss-U.S. DPF Principles) with regard to the processing of personal data received from Switzerland in reliance on the Swiss-U.S. DPF. If there is any conflict between the terms in this privacy policy and the EU-U.S. DPF Principles and/or the Swiss-U.S. DPF Principles, the Principles shall govern. To learn more about the Data Privacy Framework (DPF) program, and to view our certification, please visit [https://www.dataprivacyframework.gov/](https://www.dataprivacyframework.gov/).
+    
 
 In compliance with the EU-U.S. DPF, the UK Extension to the EU-U.S. DPF, and the Swiss-U.S. DPF (together, the “DPFs”), Cloudflare commits to resolve DPF Principles-related complaints about our collection and use of your personal information. EU, UK, and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the DPFs should first contact us by emailing sar@cloudflare.com or via mail to: Cloudflare, Inc., 101 Townsend St., San Francisco, CA 94107, Attn: Data Protection Officer. We will respond to your inquiry within 30 days of receipt and verification of your identity.  
   
@@ -378,7 +383,11 @@ In addition, some internet browsers offer the option to enable opt-out signals s
 
 Please note that you will still see some advertising, regardless of your selection. We do not impose verification protocols for processing opt out requests unless we have reason to question the authenticity of a requester’s identity, in which case we may request evidence of identity and California residency.
 
-### 17\. CONTACT INFORMATION
+### 17\. TURNSTILE PRIVACY ADDENDUM
+
+For more information about how we process your personal data for Cloudflare Turnstile, please see the [Turnstile Privacy Addendum](https://www.cloudflare.com/turnstile-privacy-policy/).
+
+### 18\. CONTACT INFORMATION
 
 Cloudflare, Inc.  
 101 Townsend St.  
