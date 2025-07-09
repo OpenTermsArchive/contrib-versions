@@ -80,7 +80,7 @@ Submission of requests
 
 Online:
 
-Law enforcement officials may use the [Law Enforcement Online Request System](https://www.facebook.com/records) for the submission, tracking and processing of requests. A government-issued email address is required to access the Law Enforcement Online Request System.
+Law enforcement officials may use the [Law Enforcement Online Request System](https://www.facebook.com/records), a law enforcement contact process, for the submission, tracking and processing of requests. A government-issued email address is required to access the Law Enforcement Online Request System.
 
 Please note:
 
