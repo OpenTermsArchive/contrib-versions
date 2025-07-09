@@ -454,7 +454,7 @@ Sectors
 -------
 
 * [Automotive](https://canonical.com/solutions/automotive)
-* [Industrial](https://ubuntu.com/industrial)
+* [Industrial](https://canonical.com/solutions/industrial)
 * [Public sector](https://canonical.com/public-sector)
 * [Telco](https://canonical.com/solutions/telco)
 * [Finance](https://canonical.com/solutions/financial-services)
