@@ -660,7 +660,8 @@ View our [EV charger offer customer terms and condtions.](https://www.energia.ie
 [View the Energy Smart Energy Tariffs Survey Competition terms and conditions](https://www.energia.ie/getattachment/fe0c352a-0061-4232-af2e-d20f06d60fdb/Energy-Smart-Energy-Tariffs-Survey-Competition-terms-and-conditions.pdf?lang=en-GB)  
   
 [View the January Mascot Six Nations Compitition 2025 terms and conditions](https://www.energia.ie/getmedia/030c576e-6cf3-4237-be4d-224c372ea1e5/T-C-2025-Rugby-mascot-for-Ireland-vs-France-Jan-NL-Comp.pdf)  
- 
+  
+[View the Ticket Competition (Indo Sport x Energia Women's Send Off Event) Terms & Conditions](https://www.energia.ie/getmedia/7d112eba-23df-4575-b2c7-8c2c9751db1a/Energia-Rugby-%e2%80%93-Win-two-tickets-to-the-Women%e2%80%99s-Rugby-World-Cup-send-off-event.pdf) 
 
 #### 
 
