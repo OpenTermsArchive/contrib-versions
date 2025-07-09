@@ -240,7 +240,7 @@ If Telegram receives a valid order from the relevant judicial authorities that c
 
 Users can choose to translate a specific text message into a different language by tapping “Translate” in the action menu of the message (to enable this option, a user should first turn on Translation services in the Settings > Languages section of the Telegram application). Telegram Premium users can also optionally enable automatic live translation on any chat, group or channel.
 
-Since Telegram may rely on a third-party, Google LLC, subsidiary of Alphabet Inc, for automatic translation of messages, the text of any message or set of messages that users choose to translate may be shared with Google in order to obtain their translated versions. Google will only access the data to provide a translation and will not use it for any other Google products, services, or advertising.
+Since Telegram may rely on Google LLC or Microsoft Corporation for automatic translation of messages, the text of any message or set of messages that users choose to translate may be shared with Google or Microsoft in order to obtain their translated versions. These third-party companies will only access the data to provide a translation and will not use it for any other products, services, or advertising.
 
 #### [](#8-5-transcription-of-voice-and-video-messages-at-the-request-of)8.5. Transcription of Voice and Video Messages at the Request of the User
 
