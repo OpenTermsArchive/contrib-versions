@@ -5,8 +5,8 @@ Information for law enforcement
 
 These operational guidelines are for law enforcement officials seeking Instagram account records. This information may change at any time.
 
-Requests for user information[#](#requests-for-user-information)
-----------------------------------------------------------------
+Requests for user information
+-----------------------------
 
 We disclose account records solely in accordance with our terms of service and applicable law, including the federal Stored Communications Act (“SCA”), 18 U.S.C. Sections 2701-2712. Under the SCA:
 
@@ -18,65 +18,65 @@ It is important to note that some information we store is collected automaticall
 
 For additional information about Instagram, please read our [Privacy Policy](https://privacycenter.instagram.com/policy/) and [Terms of Use](https://help.instagram.com/581066165581870?helpref=faq_content).
 
-Data retention and availability[#](#data-retention-and-availability)
---------------------------------------------------------------------
+Data retention and availability
+-------------------------------
 
 We retain different types of information for different time periods. Given the volume of real-time content on Instagram, some information may only be stored for a short period of time. We do not retain data for law enforcement purposes unless we receive a legally valid preservation request.
 
-Information to include[#](#information-to-include)
---------------------------------------------------
+Information to include
+----------------------
 
 All requests must be made with particularity, including the specific data categories requested and date limitations for the request, as well as:
 
 * The name of the issuing authority and agent, email address from a law enforcement domain, and a direct contact phone number.
 * The username of the Instagram account in question on the relevant date and details regarding specific information requested and its relationship to your investigation. Usernames are not static and we are unable to process requests that do not include the relevant date combined with the username.
 
-Emergency requests[#](#emergency-requests)
-------------------------------------------
+Emergency requests
+------------------
 
 In responding to a matter involving imminent harm to a child or risk of death or serious physical injury to any person and requiring disclosure of information without delay, a law enforcement official may submit a request through the Law Enforcement Online Request System at facebook.com/records.
 
 Important note: We will not review or respond to messages sent to this email address by non-law enforcement officials. Users aware of an emergency situation should immediately and directly contact local law enforcement officials.
 
-Child safety[#](#child-safety)
-------------------------------
+Child safety
+------------
 
 We report all apparent instances of child sexual exploitation appearing on our site from anywhere in the world to the National Center for Missing and Exploited Children (NCMEC), in accordance with applicable law including content drawn to our attention by government requests. NCMEC refers matters to law enforcement authorities from around the world in order to help victims.
 
 If a request relates to a child exploitation or safety matter, please specify those circumstances (and include relevant NCMEC report identifiers) in the request to ensure that we are able to address these matters expeditiously and effectively.
 
-International legal process requirements[#](#international-legal-process-requirements)
---------------------------------------------------------------------------------------
+International legal process requirements
+----------------------------------------
 
 We disclose account records solely in accordance with applicable terms of service and applicable law. A Mutual Legal Assistance Treaty request or letter rogatory may be required to compel the disclosure of the contents of an account. Further information can be found [in our Privacy Policy](https://help.instagram.com/155833707900388/).
 
-Account preservation[#](#account-preservation)
-----------------------------------------------
+Account preservation
+--------------------
 
 We will take steps to preserve account records in connection with official criminal investigations for 90 days pending our receipt of formal legal process. You may expeditiously submit formal preservation requests through the Law Enforcement Online Request System at facebook.com/records, or by email, or mail as indicated below.
 
-User consent[#](#user-consent)
-------------------------------
+User consent
+------------
 
 If law enforcement seeks information about an Instagram user who has provided consent for the official to access or obtain the user’s account information, the user should be directed to obtain that information on their own from their account. For account content, such as messages, photos and videos, users can access Instagram’s "Download Data" feature from their Privacy and Security settings.
 
-Notification[#](#notification)
-------------------------------
+Notification
+------------
 
 Our policy is to notify people who use our service of requests for their information prior to disclosure unless we are prohibited by law from doing so or in exceptional circumstances, such as child exploitation cases, emergencies or when notice would be counterproductive. We will provide delayed notice upon expiration of a specific non-disclosure period in a court order and where we have a good faith belief that exceptional circumstances no longer exist, and we are not otherwise prohibited by law from doing so. Law enforcement officials who believe that notification would jeopardize an investigation should obtain an appropriate court order or other appropriate process establishing that notice is prohibited. If your data request draws attention to an ongoing violation of our terms of use, we will take action to prevent further abuse, including actions that may notify the user that we are aware of their misconduct.
 
-Testimony[#](#testimony)
-------------------------
+Testimony
+---------
 
 We are unable to provide expert testimony. Any records produced are self-authenticating and do not require the testimony of records custodians. If a special form of certification is required, please attach it to your records request.
 
-Cost reimbursement[#](#cost-reimbursement)
-------------------------------------------
+Cost reimbursement
+------------------
 
 We may seek reimbursement for costs in responding to requests for information as provided by law. Unusual or burdensome requests may result in added costs that we may recover. We may waive fees in matters pertaining to potential harm to children, us or our users, and emergency requests.
 
-Submission of requests[#](#submission-of-requests)
---------------------------------------------------
+Submission of requests
+----------------------
 
 Online:
 
