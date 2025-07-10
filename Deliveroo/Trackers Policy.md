@@ -61,8 +61,8 @@ When you visit a Deliveroo website or use one of our apps, we’ll ask you for y
 
 You can change your mind on this consent and turn off those non-essential cookies at any time, as well as learn more about the individual cookies that Deliveroo uses on our websites and apps, and the function they perform:
 
-* on our websites by using our cookie management tool and clicking on \[cookie privacy preference centre available here\], and
-* in-app by going to ‘Account’, ‘About’, ‘Cookie settings’ and then click on \[cookie privacy preference centre available here\]. 
+* on our websites by using our cookie management tool and clicking on Cookies Settings, and
+* in-app by going to ‘Account’, ‘About’, ‘Cookie settings’ and then click on Cookies Settings. 
 
 You can also turn off cookies through your browser by changing your cookie settings but if you do, our websites and apps may not function properly. 
 
