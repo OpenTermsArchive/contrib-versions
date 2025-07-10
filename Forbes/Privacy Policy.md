@@ -545,7 +545,7 @@
     
     Forbes commits to refer unresolved complaints concerning our handling of personal data received in reliance on the EU-U.S. DPF, the UK Extension, and the Swiss-U.S. DPF to TRUSTe, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request) for more information or to file a complaint. These dispute resolution services are provided at no cost to you.
     
-    Under certain conditions, more fully described on the Data Privacy Framework website at, [https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf](https://www.dataprivacyframework.gov/s/article/How-to-Submit-a-Complaint-Relating-to-a-Participating-Organization-s-Compliance-with-the-DPF-Principles-dpf), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+    Under certain conditions, more fully described on the Data Privacy Framework website at, [https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction](https://www.dataprivacyframework.gov/framework-article/ANNEX-I-introduction), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
     
     **Use of your personal data for marketing purposes**
     
