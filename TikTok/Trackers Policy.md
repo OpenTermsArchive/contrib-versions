@@ -30,7 +30,7 @@ We have provided more information below about the purpose of cookies.
 
 Some cookies are essential to provide you with the Platform and features you have requested. You cannot decline or turn them off afterwards.
 
-Other optional, non-essential cookies will be used based on your usage and the sites you visit. We outline a summary of the types of cookies we use in Section 2.2 below.
+Other optional, non-essential cookies will be used based on your usage and the sites you visit. We outline a summary of the types of cookies we use below.
 
   
 
