@@ -1416,6 +1416,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Tailte Éireann: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
+        * Tailte IE: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+            
     31. **Isle of Man**
         
         Isle of Man Government
@@ -1738,6 +1740,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Statens Vegvesen: [https://data.norge.no/nlod/no](https://data.norge.no/nlod/no)
             
         * Geonorge: [https://data.norge.no/nlod/no/1.0](https://data.norge.no/nlod/no/1.0)
+            
+        * Geonorge - Norway: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
             
     49. **Poland**
         * © MGGP Aero
@@ -2099,7 +2103,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Kanton Zürich Geoinformation: [https://maps.zh.ch/?topic=AwelRKNGZH](https://maps.zh.ch/?topic=AwelRKNGZH)
             
-        * City of Zurich [https://www.stadt-zuerich.ch/geodaten/download/Signalisierte\_Geschwindigkeiten](https://www.stadt-zuerich.ch/geodaten/download/Signalisierte_Geschwindigkeiten)
+        * City of Zurich: [https://www.stadt-zuerich.ch/geodaten/download/Signalisierte\_Geschwindigkeiten](https://www.stadt-zuerich.ch/geodaten/download/Signalisierte_Geschwindigkeiten)
+            
+        * Amt für Raumentwicklung (Switzerland): [https://www.swisstopo.admin.ch/de/nutzungsbedingungen-kostenlose-geodaten-und-geodienste](https://www.swisstopo.admin.ch/de/nutzungsbedingungen-kostenlose-geodaten-und-geodienste)
             
     61. **Syria**
         * HDX: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
@@ -2720,6 +2726,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         271. City of Washington, DC: [https://opendata.dc.gov/datasets/03d94dc6579949ae9d7c9dd8ffebeb89\_43/explore](https://opendata.dc.gov/datasets/03d94dc6579949ae9d7c9dd8ffebeb89_43/explore)
             
         272. Environmental Data Center: [https://www.rigis.org/datasets/1654c41c29f8468ba8d85f329f484f4b\_0/explore](https://www.rigis.org/datasets/1654c41c29f8468ba8d85f329f484f4b_0/explore)
+            
+        273. Utah Geospatial Resource Center: [https://opendata.gis.utah.gov/datasets/utah-roads/about](https://opendata.gis.utah.gov/datasets/utah-roads/about)
             
     69. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
