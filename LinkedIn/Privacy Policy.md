@@ -113,7 +113,7 @@ Table of Contents
     
     We log your visits and use of our Services, including mobile apps.
     
-    We log usage data when you visit or otherwise use our Services, including our sites, app and platform technology, such as when you view or click on content (e.g., learning video) or ads (on or off our sites and apps), perform a search, install or update one of our mobile apps, share articles or apply for jobs. We use log-ins, cookies, [device information](https://www.linkedin.com/legal/privacy-policy#your_device_and_location) and internet protocol (“IP”) addresses to identify you and log your use.
+    We log usage data when you visit or otherwise use our Services, including our sites, app and platform technology, such as when you view or click on content (e.g., learning video) or ads (on or off our sites and apps), perform a search, install or update one of our mobile apps, share articles or apply for jobs. We use log-ins, cookies, [device information](#your-device-and-location) and internet protocol (“IP”) addresses to identify you and log your use.
     
     ### 1.4 Cookies and Similar Technologies
     
