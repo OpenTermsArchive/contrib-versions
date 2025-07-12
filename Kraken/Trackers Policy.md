@@ -1,3 +1,3 @@
 Cookies are small text files that provide information regarding the device used by a website visitor. Click on Cookie Settings in the footer of this page for additional detail on the types of cookies this website uses and why, and to adjust your Cookie Settings. Cookie information does not usually directly identify you, but it can give you a more personalized web experience. Because we respect your right to privacy, you can choose not to allow some types of cookies although doing so may impact website functionality.
 
-Any questions, complaints, comments and requests regarding Cookies are welcome and should be addressed to [\[email protected\]](https://www.kraken.com/cdn-cgi/l/email-protection).
+Any questions, complaints, comments and requests regarding Cookies are welcome and should be addressed to support@kraken.com.
