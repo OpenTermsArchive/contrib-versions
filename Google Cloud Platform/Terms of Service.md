@@ -135,7 +135,7 @@ This Agreement is effective when Customer clicks to accept or otherwise agrees t
 
 **12.1 _Limitation on Indirect Liability._ To the extent permitted by applicable law and subject to Section 12.3 (Unlimited Liabilities), neither party will have any Liability arising out of or relating to this Agreement for any (a) indirect, consequential, special, incidental, or punitive damages or (b) lost revenues, profits, savings, or goodwill.**
 
-**12.2 _Limitation on Amount of Liability._ Each party's total aggregate Liability for damages arising out of or relating to the Agreement in connection with the GCP Services, GWS Services, SecOps Services, or Looker (original) Services, as applicable, is limited to the Fees Customer paid for such Services during the 12 month period before the event giving rise to Liability, except Google’s total aggregate Liability for damages arising out of or related to Services or Software provided free of charge is limited to $5,000.**
+**12.2 _Limitation on Amount of Liability._ Each party's total aggregate Liability for damages arising out of or relating to the Agreement in connection with the GCP Services, SecOps Services, or Looker (original) Services, as applicable, is limited to the Fees Customer paid for such Services during the 12 month period before the event giving rise to Liability, except Google’s total aggregate Liability for damages arising out of or related to Services or Software provided free of charge is limited to $5,000.**
 
 **12.3 _Unlimited Liabilities._ Nothing in this Agreement excludes or limits either party's Liability for:**
 
