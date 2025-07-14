@@ -492,4 +492,4 @@ Resources
 * [Patents](https://www.outbrain.com/patents/)
 * [Terms of Use](https://www.outbrain.com/legal#terms-of-use)
 
-Copyright © 2025 Outbrain Inc. All rights reserved. Outbrain is a trademark of Outbrain Inc.
+Copyright © 2025 Outbrain Inc. All rights reserved. Teads is a trademark of Teads Holding Co.
