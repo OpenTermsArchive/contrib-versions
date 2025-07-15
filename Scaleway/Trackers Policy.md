@@ -85,7 +85,7 @@ Analytics
 
 These cookies are used to monitor the performance of our site and to enhance your browsing experience.
 
-Applicable cookies:
+Applicable cookies: **Amplitude, Algolia**
 
 * * *
 
@@ -93,6 +93,6 @@ Marketing
 
 These cookies are used to understand user behavior in order to provide you with a more relevant browsing experience or personalize the content on our site.
 
-Applicable cookies:
+Applicable cookies: **LinkedIn, Google Ads**
 
 Accept allReject allSave settings
