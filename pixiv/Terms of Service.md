@@ -2507,6 +2507,80 @@ Article 18. Prohibitions when Using pixivFACTORY Palette
 7. User may not engage in conduct contrary to the warnings and prohibitions described on the Individual Service.
 8. In addition to the preceding paragraphs, User may not engage in any conduct deemed by the Company to be inappropriate.
 
+Special Provisions for the "Send to a Friend" Feature
+=====================================================
+
+Article 19. Definitions Relating to the "Send to a Friend" Feature
+------------------------------------------------------------------
+
+The meanings of terms used in the Special Provisions for the "Send to a Friend" Feature ("these Special Provisions") are as set forth in the following items. In cases where not specified in these Special Provisions, terms shall have the meanings defined in the Master Terms of Use and Article 2 of these Individual Terms of Use.
+
+1. "Send to a Friend" feature: A feature that allows the Sender (defined in Item 3) to gift an item commissioned for production to the Recipient (defined in Item 4) or to sell it for a fee through the Company.
+2. Secret Code: A character string issued by the Sender when using the "Send to a Friend" feature.
+3. Sender: A user who gifts or sells an item using the "Send to a Friend" feature.
+4. Recipient: A user who receives an item via the "Send to a Friend" feature.
+
+Article 20. Special Provisions on Use of the "Send to a Friend" Feature
+-----------------------------------------------------------------------
+
+1. Both the Sender and Recipient must be logged into an account registered with the Company.
+2. When using the "Send to a Friend" feature, the Sender must, in accordance with these Individual Terms, choose whether to gift the product to the Recipient or to sell it to the Recipient through the Company at the time of commissioning the product.
+3. If the Sender selects "Gift to a Friend" in the above choice, the procedures thereafter shall follow the provisions of Article 21. If the Sender selects "Limited Sale to a Friend", the procedures thereafter shall follow the provisions of Article 22.
+
+Article 21. Gift to a Friend
+----------------------------
+
+1. When the Sender, upon using the "Send to a Friend" feature, chooses to have the product manufactured and gifted to the Recipient, this shall be referred to as "Gift to a Friend".
+2. After commissioning the product, the Sender must pay the manufacturing commission fee as listed on the platform.
+3. Once the payment is made, the Sender may generate Secret Codes up to the number of products commissioned.
+4. The Sender delivers the product by sending a Secret Code to the Recipient.
+5. Upon receiving a Secret Code, the Recipient uses the service’s prescribed method to specify a shipping address.
+6. Thereafter, the Company manufactures and ships the product to that address.
+7. Secret Codes have an expiration as defined by the Company; any unused by that deadline become invalid.
+8. If Secret Codes are unused, the Company will refund the unutilized portion of the manufacturing fee to the Sender.
+9. The Sender is responsible for safeguarding their Secret Codes. If leakage occurs without Company fault, and unintended Recipients claim products, the Company will fulfill shipping to the specified address and shall be released from further obligations.
+
+Article 22. Limited Sale to a Friend
+------------------------------------
+
+1. When the Sender, upon using the "Send to a Friend" feature, chooses to sell the product to the Recipient via the Company, this shall be referred to as "Limited Sale to a Friend".
+2. The Sender may generate Secret Codes up to the number of products commissioned. By generating a Secret Code, the Sender is deemed to have consigned the sale of the product to the Company.
+3. Based on this consignment, the Company will sell the product to any Recipient who possesses a valid Secret Code.
+4. The Recipient may purchase the product from the Company using the Secret Code provided by the Sender.
+5. Secret Codes have an expiration as defined by the Company; any unused by that deadline become invalid.
+6. The Company may offset the amount payable by the Sender for the manufacturing commission fee against the sales proceeds payable by the Company to the Sender.
+7. The Sender is responsible for safeguarding their Secret Codes. If leakage occurs without Company fault, and unintended Recipients claim products, the Company will fulfill shipping to the specified address and shall be released from further obligations.
+
+Article 23. Shipping Using the "Send to a Friend" Feature
+---------------------------------------------------------
+
+1. The Company will make reasonable efforts to deliver the product to the address specified by the Recipient (within Japan only) by the scheduled delivery date.
+2. If, after shipping to the Recipient’s specified address, the product is not received due to an incorrect or incomplete address, absence of the Recipient, or similar reasons, and the product is returned to the Company, and if the Recipient fails to take necessary action (such as correcting the shipping information) within 30 days, the Company will consider the Recipient to have forfeited ownership of the product.
+
+Article 24. Termination
+-----------------------
+
+1. The Company may, without prior notice or demand to the user, immediately terminate any contract between users or between a user and the Company arising from use of the "Send to a Friend" feature (hereinafter referred to in this Article as "the Contract") if any of the following circumstances apply. The Company shall bear no liability for any damages incurred by the user as a result of such termination.
+    1. The Company determines that, in using the "Send to a Friend" feature, the user has violated any provisions of the Master Terms of Use, these Individual Terms of Use, or other applicable rules; or that the submitted design, etc. infringes or is likely to infringe upon the rights of a third party.
+    2. After the product has been manufactured by the Company, it is discovered that the user has violated any provisions of the Master Terms of Use, these Individual Terms of Use, or other applicable rules; or that the submitted design, etc. infringes or is likely to infringe upon the rights of a third party.
+    3. After the product has been shipped by the Company, it is discovered that the user had violated any provisions of the Master Terms of Use, these Individual Terms of Use, or other applicable rules; or that the submitted design, etc. infringed upon the rights of a third party, and such violation results in damage to the Company.
+2. In the event that the Contract is terminated under any of the above circumstances, the Company will respond as follows regarding the manufacture and shipment of the products in question.
+    1. In the case of Item 1 above, all Secret Codes issued by the Sender, including those already used, shall be rendered invalid.
+    2. The Company may dispose of any products for which manufacturing has already begun. In such cases, the Sender shall pay the Company an amount equivalent to the manufacturing commission fee as a penalty.
+    3. In the event of a refund to the Recipient under Item 1 or Item 2 above, the Sender shall bear the costs required for such refund.
+    4. In the case of Item 3 above, the Company may claim compensation from the user responsible for the termination.
+
+Article 25. Disclaimer
+----------------------
+
+1. If a refund cannot be processed due to errors or deficiencies in the bank account information registered by the refund recipient, the Company shall bear no responsibility.
+2. If the refund cannot be completed for a period of six months or longer due to such circumstances, the Company may deem the refund recipient to have waived the right to receive said refund.
+
+Article 26. Scope of Application of these Terms of Use
+------------------------------------------------------
+
+Matters not stipulated in these Special Provisions shall be governed by the provisions of these Individual Terms of Use. However, Article 6 (Cancellation of Orders and Return or Replacement of Products) and Article 7 (Liability for Noncompliance with Contract) shall be applied with the term "User" interpreted as "Recipient".
+
 Supplementary Provisions
 ------------------------
 
@@ -2515,6 +2589,7 @@ Supplementary Provisions
 Revision
 --------
 
+* July 16th, 2025: Revised to establish new provisions relating to the introduction of a new feature.
 * August 17, 2023 Overall terms of Individual Terms of Use were updated following the release of the new function.
 * March 30, 2020 As related as individual terms of Master Terms of Use, overall terms of Individual Terms of Use were modified.
 
