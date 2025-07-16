@@ -1,4 +1,4 @@
-_Last Updated: 27 June 2025_
+_Last Updated: 16 July 2025_
 
 For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/en-gb/legal/privacy/us-notice).  
  
@@ -90,14 +90,16 @@ In certain circumstances, third parties to whom we disclose your personal data, 
 
 If Kraken discloses your personal data to service providers and business partners, in order to perform the services requested by clients or to comply with our legal and regulatory obligations, such providers and partners may store your personal data within their own systems. We require them to protect the confidentiality of this personal data, and comply with all relevant privacy and data protection laws.
 
-Kraken may also disclose personal data when it is compelled by law, for example to a government agency as a result of a valid court order. Kraken may also disclose your data in the event of a prospective merger, acquisition, or sale of all or part of our business or assets.
+In connection with Kraken’s global operations and our compliance with applicable law across the jurisdictions where Kraken operates, we may disclose your personal data regarding your use of Kraken services and our platform to governmental, regulatory, or law enforcement authorities, including those outside the jurisdiction where you reside to the extent that Kraken is required to make such disclosures. Such disclosures will only be made in accordance with applicable laws (including, without limitation, regulations administered by the U.S. Department of the Treasury’s Office of Foreign Assets Control (“**OFAC**”, which includes the Specially Designated Nationals “ **SDN** ” List and other non-SDN restricted or blocked parties lists) and/or anti-money laundering and/or economic sanctions laws and regulations made by the governments of the European Union, the United Kingdom, Canada and any other applicable national, regional, provincial, state, municipal or local laws and regulations as amended from time to time) that apply to you or Kraken, as well as in response to court orders or other lawful requests made by such authorities in those jurisdictions. 
+
+Kraken may also disclose your data in the event of a prospective merger, acquisition, or sale of all or part of our business or assets.
 
 On-chain attestations are publicly available and may be accessed by third parties via blockchain explorers and APIs. Kraken does not control or restrict third-party access to on-chain attestation data.
 
 **8\. Where we store your personal data**
 -----------------------------------------
 
-Our operations are supported by a network of computers, servers, other infrastructure and information technology, and third-party service providers. We and our third-party service providers and business partners store and process your personal data in the European Union, Japan, Australia, the United Kingdom, the United States of America and elsewhere in the world. Courts, law enforcement and security agencies of these jurisdictions may be able to use legal processes to access your personal data.
+Our operations are supported by a network of computers, servers, other infrastructure and information technology, and third-party service providers. We and our third-party service providers and business partners store and process your personal data in the European Union, Japan, Australia, the United Kingdom, the United States of America and elsewhere in the world. Courts, law enforcement, regulators and security agencies of these jurisdictions may be able to use legal processes to access your personal data. Additionally, we may be required by law to disclose your personal information to regulators or other authorities in these jurisdictions where such disclosure is mandated by applicable law.
 
 **9\. International transfers of personal data** 
 -------------------------------------------------
