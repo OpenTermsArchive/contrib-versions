@@ -970,7 +970,7 @@ Pour en savoir plus sur les éco-participations, vous pouvez consulter l'article
   
 **b) Reprise 1 pour 1**
 
-Conformément aux articles L. 541-10-8 et R. 541-161 et suivants du Code de l'Environnement, vous pouvez bénéficier d’une reprise gratuite de vos anciens produits pour les filières REP suivantes :   
+Conformément aux articles L. 541-10-8 et R. 541-161 et suivants du Code de l'Environnement, vous pouvez bénéficier déune reprise gratuite de vos anciens produits pour les filières REP suivantes :   
         - DEEE  
         - DEA  
         - DAB&J  
