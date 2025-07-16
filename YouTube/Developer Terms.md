@@ -147,7 +147,7 @@ III. General Developer Policies
 
 1. API Credentials
     
-    To access or use some [YouTube API Services](#definition-youtube-api-services), you must first use the [Google Developers Console](https://console.cloud.google.com/) ([https://console.cloud.google.com/](https://console.cloud.google.com/)) to create [API Credentials](#definition-api-credentials) for your [API Project](#definition-api-project"). Those credentials enable Google and YouTube to link API activity to a particular [API Project](#definition-api-project") and [API Client](#definition-api-client).
+    To access or use some [YouTube API Services](#definition-youtube-api-services), you must first use the [Google Developers Console](https://console.cloud.google.com/) ([https://console.cloud.google.com/](https://console.cloud.google.com/)) to create [API Credentials](#definition-api-credentials) for your [API Project](#definition-api-project). Those credentials enable Google and YouTube to link API activity to a particular [API Project](#definition-api-project) and [API Client](#definition-api-client).
     
     In addition to creating [API Credentials](#definition-api-credentials), the Developers Console might require you to provide certain other information, such as identification or contact details, before you can access or use the [YouTube API Services](#definition-youtube-api-services) associated with those credentials. YouTube reserves the right to require you to provide additional information to continue to access or use [YouTube API Services](#definition-youtube-api-services).
     
@@ -160,11 +160,11 @@ III. General Developer Policies
     
     The following policies also apply to access and use of [YouTube API Services](#definition-youtube-api-services):
     
-    1. You must not mask or misrepresent your identity or your [API Client's](#definition-api-client) identity when accessing or using [YouTube API Services](#definition-youtube-api-services) or when creating an [API Project](#definition-api-project") or [API Credentials](#definition-api-credentials).
+    1. You must not mask or misrepresent your identity or your [API Client's](#definition-api-client) identity when accessing or using [YouTube API Services](#definition-youtube-api-services) or when creating an [API Project](#definition-api-project) or [API Credentials](#definition-api-credentials).
         
-    2. You must only use [API Credentials](#definition-api-credentials) assigned to you and to your [API Project](#definition-api-project") to access [YouTube API Services](#definition-youtube-api-services). Similarly, you must not use any other means to mask or misrepresent your [API Client's](#definition-api-client) access to, or usage of, [YouTube API Services](#definition-youtube-api-services).
+    2. You must only use [API Credentials](#definition-api-credentials) assigned to you and to your [API Project](#definition-api-project) to access [YouTube API Services](#definition-youtube-api-services). Similarly, you must not use any other means to mask or misrepresent your [API Client's](#definition-api-client) access to, or usage of, [YouTube API Services](#definition-youtube-api-services).
         
-    3. If your [API Client](#definition-api-client) needs to create [API Credentials](#definition-api-credentials) to access or use [YouTube API Services](#definition-youtube-api-services), you must create exactly one (1) [API Project](#definition-api-project") for that [API Client](#definition-api-client). Those [API Credentials](#definition-api-credentials) are intended to be used exclusively by the associated API Client, which means that you must not use that one (1) [API Project](#definition-api-project") for multiple [API Clients](#definition-api-client).
+    3. If your [API Client](#definition-api-client) needs to create [API Credentials](#definition-api-credentials) to access or use [YouTube API Services](#definition-youtube-api-services), you must create exactly one (1) [API Project](#definition-api-project) for that [API Client](#definition-api-client). Those [API Credentials](#definition-api-credentials) are intended to be used exclusively by the associated API Client, which means that you must not use that one (1) [API Project](#definition-api-project) for multiple [API Clients](#definition-api-client).
         
     4. You may share your [API Credentials](#definition-api-credentials) with agents operating solely on your behalf and under a written duty of confidentiality. However, you must not share or disclose your [API Credentials](#definition-api-credentials) to any other third party, allow access to or use of your [API Credentials](#definition-api-credentials) by any other third party, or embed your [API Credentials](#definition-api-credentials) in open source projects.
         
@@ -222,11 +222,11 @@ III. General Developer Policies
     
 4. Inactivity
     
-    YouTube reserves the right to disable or curtail your access to, or use of, specific [YouTube API Services](#definition-youtube-api-services) if your [API Project](#definition-api-project") has been inactive for 90 consecutive days. For example, YouTube could revoke your [API Credentials](#definition-api-credentials), or reduce (or eliminate) your [API Project's](#definition-api-project") quotas for specific [YouTube API Services](#definition-youtube-api-services). If your [API Client's](#definition-api-client) quota is reduced or eliminated, you may reapply for quota or a quota extension, and YouTube will review that application based on YouTube’s determination of your expected use of the [YouTube API Services](#definition-youtube-api-services).
+    YouTube reserves the right to disable or curtail your access to, or use of, specific [YouTube API Services](#definition-youtube-api-services) if your [API Project](#definition-api-project) has been inactive for 90 consecutive days. For example, YouTube could revoke your [API Credentials](#definition-api-credentials), or reduce (or eliminate) your [API Project's](#definition-api-project) quotas for specific [YouTube API Services](#definition-youtube-api-services). If your [API Client's](#definition-api-client) quota is reduced or eliminated, you may reapply for quota or a quota extension, and YouTube will review that application based on YouTube’s determination of your expected use of the [YouTube API Services](#definition-youtube-api-services).
     
 5. Contact Information
     
-    YouTube’s primary means of contacting you about your [API Project](#definition-api-project") or [API Client](#definition-api-client) is the email address that is associated with the Google Account that you use to log in to the Google Developers Console. You must comply to any communication that YouTube sends you regarding compliance issues relating to your [API Clients](#definition-api-client).
+    YouTube’s primary means of contacting you about your [API Project](#definition-api-project) or [API Client](#definition-api-client) is the email address that is associated with the Google Account that you use to log in to the Google Developers Console. You must comply to any communication that YouTube sends you regarding compliance issues relating to your [API Clients](#definition-api-client).
     
     If users of your [API Client](#definition-api-client) have questions about your privacy practices, and you do not have a contact address in your [API Client's](#definition-api-client) privacy policy as discussed in section (A.2.i), YouTube may share your primary email address with those users.
     
@@ -329,8 +329,8 @@ Aside from the permissions and rights granted in this section, you and your [API
     3. protect [API Data](#definition-api-data) and any other data used in your [API Client](#definition-api-client) from unauthorized access, use, or disclosure.
 6. Scraping
     
-
-You and your [API Clients](#definition-api-client) must not, and must not encourage, enable, or require others to, directly or indirectly, scrape [YouTube Applications](#definition-youtube-applications) or [Google Applications](#definition-google-applications), or obtain scraped YouTube data or content. Public search engines may scrape data only in accordance with YouTube's robots.txt file or with YouTube's prior written permission.
+    You and your [API Clients](#definition-api-client) must not, and must not encourage, enable, or require others to, directly or indirectly, scrape [YouTube Applications](#definition-youtube-applications) or [Google Applications](#definition-google-applications), or obtain scraped YouTube data or content. Public search engines may scrape data only in accordance with YouTube's robots.txt file or with YouTube's prior written permission.
+    
 
 ### F. User Experience
 
@@ -495,7 +495,7 @@ IV. Definitions
 
 "**API Client**" means a website or software application (including a mobile application) developed by you that accesses or uses the [YouTube API Services](#definition-youtube-api-services).
 
-"**API Credentials**" means the credentials assigned by YouTube or Google via the Google Developer Console that each [API Project](#definition-api-project") authenticates with to access and use the [YouTube API Services](#definition-youtube-api-services).
+"**API Credentials**" means the credentials assigned by YouTube or Google via the Google Developer Console that each [API Project](#definition-api-project) authenticates with to access and use the [YouTube API Services](#definition-youtube-api-services).
 
 "**API Data**" is defined within the definition of "[YouTube API Services](#definition-youtube-api-services)" later in this Definitions section.
 
