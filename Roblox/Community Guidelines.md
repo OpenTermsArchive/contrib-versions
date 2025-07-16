@@ -76,29 +76,32 @@ Roblox has a zero tolerance policy for content or behavior that incites, condone
 
 Threats, Bullying, and Harassment
 
-Threatening others with real-world or online harm, inciting violence against people or property, bullying, stalking, trolling, harassment, intimidation, extortion, and blackmail are not permitted on Roblox. We also do not allow any content that depicts, glorifies, or promotes such behavior, including:
+Threatening others with real-world or online harm, inciting violence against people or property, bullying, stalking, trolling, harassment, intimidation, extortion, and blackmail are not permitted on Roblox. We also do not allow any content that depicts, glorifies, encourages, promotes, or provides instructions for such behavior, including:
 
 * Threatening physical or sexual assault or violence
 * Threatening to harm someone in real life
 * Revealing or threatening to reveal others’ personal information
 * Threatening to take over another’s Roblox account or to file false abuse reports against another user
-* Singling out a user or group for ridicule or abuse, either publicly or privately
+* Singling out a user or group for ridicule, abuse, humiliation, or degradation, either publicly or privately, including as part of a targeted mistreatment campaign
 * Sexual harassment
 * Impersonating individuals, groups, or entities, in ways that may damage their reputation or cause others to harm them, either online or in real life
+* Shaming or stigmatising body types or physical features
 
 Suicide, Self Injury, and Harmful Behavior
 
-At Roblox, we take our users’ well-being very seriously. We’re here to help provide resources for those struggling with mental health, and we reserve the right to communicate with authorities regarding credible threats of self-harm. We do not allow content or behavior that depicts, glorifies, or encourages suicide, self-injury, or real-world activities that may create an extreme risk of physical harm including:
+At Roblox, we take our users’ well-being very seriously. We’re here to help provide resources for those struggling with mental health, and we reserve the right to communicate with authorities regarding credible threats of self-harm. We do not allow content or behavior that depicts, glorifies, promotes, or encourages suicide, self-injury, eating disorders, or real-world activities that may create a serious or extreme risk of physical harm including:
 
-* Describing methods for suicide or self-harm
+* Providing instructions related to, or details of, methods for suicide or self-harm. This includes content that promotes ingestion of substances that would cause physical harm
 * Content that glorifies, supports, or depicts instances or methods of suicide or self-harm
+* Content that encourages depression, hopelessness and despair by portraying such feelings as aspirational or desirable
+* Discouraging others from seeking the help they need to overcome feelings of depression and hopelessness
 * Dangerous physical challenges or stunts in the real world
 
 If you or a loved one are having thoughts of suicide or self-harm, there is help available. Reach out to a suicide prevention hotline like the one found [here](https://988lifeline.org/). For additional global resources, [here](https://support.google.com/websearch/answer/11181469) is a good place to start.
 
 Discrimination, Slurs, and Hate Speech
 
-Roblox honors and welcomes users of all ages, backgrounds, and identities. We do not allow content or behavior that supports, glorifies, or promotes hate groups, their ideologies, or actions. You also may not discriminate, mock, or promote hatred against individuals or groups, or encourage others to do so directly or indirectly, on the basis of their:
+Roblox honors and welcomes users of all ages, backgrounds, and identities. We do not allow content or behavior that supports, glorifies, or promotes hate groups, their ideologies, or actions. You also may not discriminate, promote hate against, insult, abuse, mock, or threaten individuals or groups, or encourage others to do so directly or indirectly, on the basis of their:
 
 * Age
 * Race, perceived race, or ethnicity
@@ -138,7 +141,7 @@ Violent Content and Gore
 
 Although some experiences on Roblox may include weapons and violence, we do not allow content that contains extreme violence or serious physical or psychological abuse, including:
 
-* Animal abuse and torture
+* Depicting or glorifying animal or fictional creature abuse and torture
 * Realistic or real-world depictions of extreme gore, graphic violence, or death
 
 For Restricted experiences, please see [Roblox’s Restricted Content Policy Standards](https://en.help.roblox.com/hc/articles/15869919570708).
@@ -152,7 +155,7 @@ Roblox is a safe space for making online connections, chatting, and collaboratin
 * Engaging in unwanted flirtatious behavior
 * Engaging in sexually explicit conversations or soliciting sexual material from other Robloxians
 * Content that depicts, strongly suggests, or explicitly describes sexual acts
-* Nudity
+* Nudity, partial nudity or other content produced for sexual arousal
 * Sexually suggestive assets or bundles
 
 For more information about creating assets or bundles that comply with these policies, including required use of modesty layers, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
@@ -349,6 +352,7 @@ Change Log
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
+| July 15, 2025 | Added clarifying language to the following Standards:<br><br>* Romantic and Sexual Content<br>* Suicide, Self Injury, and Harmful Behavior<br>* Discrimination, Slurs, and Hate Speech<br>* Threats, Bullying and Harassment<br>* Violent Content and Gore |
 | May 15, 2025 | Added a new "Commerce" section under Roblox Economy, requiring developers using the Commerce feature to comply with the Commerce Standards. <br><br>Effective May 15, 2025 |
 | February 26, 2025 | Added clarification and new resource links for the following Community Standard:<br><br>* * Promotional Offers sub-section of Roblox Economy<br><br>Effective February 26, 2025 |
 | November 21, 2024 | Updated the following Community Standard:<br><br>* * Discrimination, Slurs, and Hate Speech<br>    * Removed repeat language<br><br>Effective November 21, 2024 |
