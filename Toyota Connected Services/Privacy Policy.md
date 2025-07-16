@@ -2,7 +2,7 @@ Your Privacy Rights
 
 ----------------------
 
-UPDATED AS OF: June 4, 2025  
+UPDATED AS OF: July 16, 2025  
 
 **Personal Information Sharing Practices for 2024**  
 
@@ -18,7 +18,7 @@ Your vehicle may be equipped with Connected Services that electronically transmi
 
 **Toyota Privacy Notice – Summary**
 
-This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on June 4, 2025.
+This summary of the Toyota Privacy Notice applies to Personal Information (as defined below) collected by or on behalf of Toyota Motor Sales, U.S.A., Inc. ("Toyota," "us," or "our"). Some of our products and services may have additional privacy notices that apply, such as Toyota Connected Services. Where product- or service-specific privacy notices conflict with this Privacy Notice, those privacy notices shall govern. This Privacy Notice was last updated on July 16, 2025.
 
 **Information Collected**
 
@@ -52,25 +52,11 @@ This summary of the Toyota Privacy Notice applies to Personal Information (as d
 
 [**Learn more**](#_5)
 
-**How to Contact Us**
-
-To contact us with a question call us at 800-331-4331 or mail your inquiry to:
-
-Toyota Motor Sales, U.S.A., Inc.
-
-P.O. Box 259001
-
-Plano, TX
-
-75025-9001
-
-To read our full Privacy Notice [click here.](#privacy)
-
 **Toyota Privacy Notice**
 
 [\[Versión en Español\]](https://www.toyota.com/espanol/support/privacy-rights)
 
-UPDATED AS OF: June 4, 2025  
+UPDATED AS OF: July 16, 2025  
 
 Toyota Motor Sales, U.S.A., Inc. is committed to maintaining your confidence and trust as it relates to the privacy of your Personal Information. Personal Information is sometimes also referred to as personal data, personally identifiable information or other like terms that mean any information that directly or indirectly identifies you or is reasonably capable of being associated with you or your household. **Personal Information does not include the following if exempt under privacy laws**:
 
@@ -257,7 +243,7 @@ Below, we describe the categories of Personal Information we may sell or share f
 |     |     |     |     |
 | --- | --- | --- | --- |
 | **Category of Personal Information** | **Sold or Shared** | **Category of Third Party** | **Business or Commercial Purpose for Sale or Sharing** |
-| **Contact information:** attributes that identify a natural person, which may be considered an "identifier" or information covered under the California Customer Records Act. Examples include name, address, phone number, email, owner account information, online identifier, user ID, social media ID, and site visitor details (names, addresses, etc.) and demographic information (such as Zip Code and age). | We may have sold or shared this category of Personal Information. | We may have sold or shared this category of Personal Information to third parties who provide advertising, vehicle financing, insurance, and satellite radio subscription services. | To provide advertising, vehicle financing, insurance, and satellite radio subscription services. |
+| **Contact information:** attributes that identify a natural person, which may be considered an "identifier" or information covered under the California Customer Records Act. Examples include name, address, phone number, email, owner account information, online identifier, user ID, social media ID, and site visitor details (names, addresses, etc.) and demographic information (such as Zip Code and age). | We may have sold or shared this category of Personal Information. Please note, however, that mobile phone numbers that are collected by Toyota exclusively and solely for SMS purposes will not be shared with nor sold to third parties for their own marketing or promotional purposes. | We may have sold or shared this category of Personal Information to third parties who provide advertising, vehicle financing, insurance, and satellite radio subscription services. | To provide advertising, vehicle financing, insurance, and satellite radio subscription services. |
 | **Consumer product and service data**, which may be considered "commercial information," such as consumer vehicle ownership records associated with the consumer's current and/or prior-owned vehicles. Examples include vehicle ownership transactions, Retail Delivery Report records, recall records, warranty records, repair order records, part order records, Toyota Insurance Management Solutions insurance product records, and incentive offers accepted by a consumer. | We may have sold or shared this category of Personal Information. | We may have sold or shared this category of Personal Information to third parties who provide advertising, vehicle financing, insurance, and satellite radio subscription services. | To provide advertising, vehicle financing, insurance, and satellite radio subscription services. |
 | **Consumer interaction data**, which may be considered "audio, visual or other similar information," such as consumer's interaction with Toyota via telephone, email, chat, text and/or postal mail. Examples include call center records and screen, audio and/or video recordings. | We may have sold or shared this category of Personal Information. We may have sold or shared this category of Personal Information. | We may have sold or shared this category of Personal Information to third parties who provide advertising, vehicle financing, insurance, and satellite radio subscription services. | To provide advertising, vehicle financing, insurance, and satellite radio subscription services. |
 | **Consumer online activity**, which may be considered "identifiers" and "Internet or other electronic network activity information," such as consumer's online interactions with Toyota. Examples include online accounts, browsing history, cookies, IP addresses, social media information | We may have sold or shared this category of Personal Information. | We may have sold or shared this category of Personal Information to third parties who provide advertising, vehicle financing, insurance, and satellite radio subscription services. | To provide advertising, vehicle financing, insurance, and satellite radio subscription services. |
@@ -292,7 +278,7 @@ U.S. privacy laws provide consumers with certain rights regarding their Personal
 
 **How to Submit a Request**
 
-If you would like to exercise any of the privacy rights identified above, you may submit a request by either completing the online request form at [https://privacy.toyota.com/](https://privacy.toyota.com/) or by calling us at [855-226-4048](tel:855-226-4048).
+If you would like to exercise any of the privacy rights identified above, you may submit a request by completing the online request form at [https://privacy.toyota.com/](https://privacy.toyota.com/).
 
 **Authorized Agent/Power of Attorney/Conservatorship/Guardianship.**
 
@@ -309,8 +295,6 @@ If you are an authorized agent seeking to make a privacy rights request (where p
 * Selecting submitted by “_Authorized Agent_”
 * Completing the online form
 * Uploading the completed and signed “_TMNA Authorized Agent Designation_”
-
-You may also contact us at **855-226-4048** for assistance.
 
 If you are submitting a privacy request with a power of attorney, conservatorship, or guardianship (where permitted by state law), please contact us at **855-226-4048**.
 
@@ -358,13 +342,7 @@ You may only make a verifiable consumer request to know about or access your Per
 
 **13\. CONTACT US.**
 
-To contact us with a question call us at [800-331-4331](tel:800-331-4331), submit an inquiry at [Toyota Support: Contact Toyota](https://support.toyota.com/s/questions-comments?language=en_US&_gl=1*1xa4pif*_tmna_ga*MTE3ODI1MjI0Ni4xNzM4MDA3ODgz*_tmna_ga_EP43E5EFVZ*MTczODE4NTA1My4zLjEuMTczODE4NTE3MS42MC4wLjA) , or mail your inquiry to:
-
-Toyota Motor Sales, U.S.A., Inc.  
-P.O. Box 259001  
-Plano, TX 75025-9001
-
-You may also obtain an update on our information practices by sending a request to:
+To contact us with a question regarding our information practices, call us at 855-226-4048, or mail your inquiry to:
 
 Toyota Motor Sales, U.S.A., Inc.  
 P.O. Box 259001  
