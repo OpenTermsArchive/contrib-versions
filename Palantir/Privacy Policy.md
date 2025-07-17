@@ -1,7 +1,7 @@
 Palantir's Privacy Statement
 ============================
 
-_Last updated February 2025_
+_Last updated July 2025_
 
 Who is Palantir?
 ----------------
@@ -146,6 +146,8 @@ _1\. To conduct our business operations and provide our products and services_:
     
 * **Event management:** Depending on the event or how you engage with Palantir in the course of an event hosted, or co-hosted by Palantir, we process your Contact Data, Professional Data, Communication Data, Audiovisual Data and Technical Data to enable your attendance as Palantir hosted or affiliated events such as conferences or webinars. We may also process information we receive, including from our partners, during such events to understand whether you are interested in our products or services so that we can present you with the most relevant information on our products and services at the relevant event or in post event communications.
     
+* **To protect our business, our affiliates, our visitors, and others**: We process your personal data which can include Contact Data, Professional Data, Transaction Data, Technical Data, Audiovisual and Communication Data to monitor for, or detect, fraudulent, harmful or illegal activity.
+    
 
 4\. _To comply with legal obligations and maintain the physical and information security of Palantir’s products and services, employees and partners_:
 
@@ -173,7 +175,7 @@ Palantir may disclose or transfer personal information that we process as requir
     
 * To provide payment processing services;
     
-* Provide the result of any training course or quiz you complete with us to your employer where you have taken part in training or certification as part of an employment requirement;
+* Provide your employer, or the organization that provides you with your Palantir Learning or certification exam code, with details of your participation, progress, and results for any training courses, quizzes, or certifications you register for with us, when these are taken as part of your employment;
     
 * Enable business transfers to a buyer or other party to a transaction if there is a proposed or actual merger, purchase, sale acquisition, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Palantir’s assets, in which personal data processed by Palantir pursuant to this Statement, forms part of the assets transferred;
     
