@@ -8,7 +8,7 @@ _Version 3.3_
 1\. What's in this policy?
 --------------------------
 
-This policy is for when you're in the UK ([view policy for when you're outside the UK](https://www.bbc.co.uk/usingthebbc/privacy-policy-outside-the-uk)). It tells you:
+This policy is for when you're in the UK ([view policy for when you're outside the UK](https://www.bbc.com/pages/privacy-policy)). It tells you:
 
 * what information we might collect about you
 * how we might use that information
