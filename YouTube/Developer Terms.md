@@ -44,7 +44,7 @@ These principles underlie many of the policies in this document. Even though the
     
 4. **Respect users' privacy.**
     
-    Make sure that your data collection, storage, use, security, and deletion policies and practices protect users. Don't allow unauthorized access to, or use of, user data. Don't store user data indefinitely, and provide a clear, straightforward process for them to delete data in your possession. Finally, don’t, and do not make attempts to, request, collect, or store users' YouTube login credentials.
+    Make sure that your data collection, storage, use, security, and deletion policies and practices protect users. Don't allow unauthorized access to, or use of, user data. Don't store user data indefinitely, and provide a clear, straightforward process for them to delete data in your possession. Finally, don't, and do not make attempts to, request, collect, or store users' YouTube login credentials.
     
 5. **Be a good citizen.**
     
@@ -72,7 +72,7 @@ III. General Developer Policies
         
     6. disclose, if it does so, that the [API Client](#definition-api-client) allows third parties to serve content, including advertisements,
         
-    7. disclose, if it does so, that the [API Client](#definition-api-client) stores, accesses or collects (or allows third parties to do so) information directly or indirectly on or from users’ devices, including by placing, accessing or recognizing cookies or similar technology on users' devices or browsers,
+    7. disclose, if it does so, that the [API Client](#definition-api-client) stores, accesses or collects (or allows third parties to do so) information directly or indirectly on or from users' devices, including by placing, accessing or recognizing cookies or similar technology on users' devices or browsers,
         
     8. if the [API Client](#definition-api-client) accesses or uses [Authorized Data](#definition-authorized-data), explain that, in addition to the [API Client's](#definition-api-client) normal procedure for deleting stored data, users can revoke that [API Client's](#definition-api-client) access to their data via the Google security settings page at [https://security.google.com/settings/security/permissions](https://security.google.com/settings/security/permissions), and
         
@@ -222,11 +222,11 @@ III. General Developer Policies
     
 4. Inactivity
     
-    YouTube reserves the right to disable or curtail your access to, or use of, specific [YouTube API Services](#definition-youtube-api-services) if your [API Project](#definition-api-project) has been inactive for 90 consecutive days. For example, YouTube could revoke your [API Credentials](#definition-api-credentials), or reduce (or eliminate) your [API Project's](#definition-api-project) quotas for specific [YouTube API Services](#definition-youtube-api-services). If your [API Client's](#definition-api-client) quota is reduced or eliminated, you may reapply for quota or a quota extension, and YouTube will review that application based on YouTube’s determination of your expected use of the [YouTube API Services](#definition-youtube-api-services).
+    YouTube reserves the right to disable or curtail your access to, or use of, specific [YouTube API Services](#definition-youtube-api-services) if your [API Project](#definition-api-project) has been inactive for 90 consecutive days. For example, YouTube could revoke your [API Credentials](#definition-api-credentials), or reduce (or eliminate) your [API Project's](#definition-api-project) quotas for specific [YouTube API Services](#definition-youtube-api-services). If your [API Client's](#definition-api-client) quota is reduced or eliminated, you may reapply for quota or a quota extension, and YouTube will review that application based on YouTube's determination of your expected use of the [YouTube API Services](#definition-youtube-api-services).
     
 5. Contact Information
     
-    YouTube’s primary means of contacting you about your [API Project](#definition-api-project) or [API Client](#definition-api-client) is the email address that is associated with the Google Account that you use to log in to the Google Developers Console. You must comply to any communication that YouTube sends you regarding compliance issues relating to your [API Clients](#definition-api-client).
+    YouTube's primary means of contacting you about your [API Project](#definition-api-project) or [API Client](#definition-api-client) is the email address that is associated with the Google Account that you use to log in to the Google Developers Console. You must comply to any communication that YouTube sends you regarding compliance issues relating to your [API Clients](#definition-api-client).
     
     If users of your [API Client](#definition-api-client) have questions about your privacy practices, and you do not have a contact address in your [API Client's](#definition-api-client) privacy policy as discussed in section (A.2.i), YouTube may share your primary email address with those users.
     
@@ -258,7 +258,7 @@ Aside from the permissions and rights granted in this section, you and your [API
         
     2. Do not aggregate [API Data](#definition-api-data) or otherwise use [API Data](#definition-api-data) or [YouTube API Services](#definition-youtube-api-services) to gain insights into YouTube's usage, revenue, or any other aspects of YouTube's business.
         
-        For example, suppose that two different content owners recognized by YouTube have each authorized an [API Client](#definition-api-client) to retrieve [API Data](#definition-api-data) on their behalf for their respective viewing. That [API Client](#definition-api-client) may separately aggregate [API Data](#definition-api-data) retrieved for each content owner's channels provided that such aggregation per content owner does not provide insights into YouTube’s usage, revenue or any other aspects of YouTube’s business. The [API Client](#definition-api-client) must not combine [API Data](#definition-api-data) from the different content owners.
+        For example, suppose that two different content owners recognized by YouTube have each authorized an [API Client](#definition-api-client) to retrieve [API Data](#definition-api-data) on their behalf for their respective viewing. That [API Client](#definition-api-client) may separately aggregate [API Data](#definition-api-data) retrieved for each content owner's channels provided that such aggregation per content owner does not provide insights into YouTube's usage, revenue or any other aspects of YouTube's business. The [API Client](#definition-api-client) must not combine [API Data](#definition-api-data) from the different content owners.
         
 3. Authorized Data Usage
     
@@ -387,7 +387,7 @@ In addition, you may distribute and display YouTube audiovisual content and acco
         
 2. Permitted Actions
     
-    All of the following commercial use cases are permitted subject to your and Your [API Clients](#definition-api-client)’ compliance with all other terms of the [Agreement](#definition-agreement), including the prohibited actions detailed in the previous section:
+    All of the following commercial use cases are permitted subject to your and Your [API Clients](#definition-api-client)' compliance with all other terms of the [Agreement](#definition-agreement), including the prohibited actions detailed in the previous section:
     
     1. Selling an API Client;
         
@@ -473,15 +473,15 @@ You and your [API Clients](#definition-api-client) must not, and must not encour
         
 2. 1. **For You and Your Child-Directed API Client.** You and your Child-Directed API Client will not, and must not attempt to, take any YouTube API Services write-based actions to YouTube websites, applications, services or products via your Child-Directed API Client.
         
-    2. Notwithstanding Section III.D.1.c (API Credentials) above which requires exactly one (1) [API Project](#definition-api-project) for each [API Client](#definition-api-client), you can upload your own videos to your own official YouTube channel(s) via the YouTube Data API Service (not via your Child-Directed API Client or anyone else’s API Client) by creating a new API Project ("**Upload Project**").
+    2. Notwithstanding Section III.D.1.c (API Credentials) above which requires exactly one (1) [API Project](#definition-api-project) for each [API Client](#definition-api-client), you can upload your own videos to your own official YouTube channel(s) via the YouTube Data API Service (not via your Child-Directed API Client or anyone else's API Client) by creating a new API Project ("**Upload Project**").
         
-        1. To upload your own videos to your own official YouTube channel(s) via YouTube Data API Service, you must (A) create one (1) new [API Project](#definition-api-project) using the [Google Developers Console](https://console.developers.google.com/) ([https://console.developers.google.com/](https://console.developers.google.com/)) (an "**Upload Project**") prior to uploading, (B) append _mfk110_ as a prefix in the ID of your Upload Project, and (C) only upload from your non-Child-Directed API Client (not from your Child-Directed API Client or anyone else’s API Client); and
+        1. To upload your own videos to your own official YouTube channel(s) via YouTube Data API Service, you must (A) create one (1) new [API Project](#definition-api-project) using the [Google Developers Console](https://console.developers.google.com/) ([https://console.developers.google.com/](https://console.developers.google.com/)) (an "**Upload Project**") prior to uploading, (B) append _mfk110_ as a prefix in the ID of your Upload Project, and (C) only upload from your non-Child-Directed API Client (not from your Child-Directed API Client or anyone else's API Client); and
             
-        2. Only you can use the Upload Project, and the Upload Project must only be used to upload your own videos to your own official YouTube channel(s) via the YouTube Data API Service from your non-Child-Directed API Client (not from your Child-Directed API Client or anyone else’s API Client). If you are uploading a Made for Kids video via the YouTube Data API Service from your non-Child-Directed API Client (not from your Child-Directed API Client or anyone else’s API Client), you must designate the YouTube Data API Service Made for Kids parameter as "true". See here for more information on determining if content is [Made for Kids](https://support.google.com/youtube/answer/9528076).
+        2. Only you can use the Upload Project, and the Upload Project must only be used to upload your own videos to your own official YouTube channel(s) via the YouTube Data API Service from your non-Child-Directed API Client (not from your Child-Directed API Client or anyone else's API Client). If you are uploading a Made for Kids video via the YouTube Data API Service from your non-Child-Directed API Client (not from your Child-Directed API Client or anyone else's API Client), you must designate the YouTube Data API Service Made for Kids parameter as "true". See here for more information on determining if content is [Made for Kids](https://support.google.com/youtube/answer/9528076).
             
     3. **For You and Users of Your Child-Directed API Client.** You and your Child-Directed API Client must not enable, encourage or require, users of your Child-Directed API Client to take YouTube API Services write-based actions (such as, but not limited to, uploading content, commenting and creating/sharing playlists). YouTube API Services write-based actions taken by users of Known Child-Directed API Clients will not be implemented on YouTube websites, applications, services and products. This means that, notwithstanding [Section 9.1 (Required Notice) of the YouTube API Services Terms of Service](https://developers.google.com/youtube/terms/api-services-terms-of-service) pursuant to which users of your API Client may upload content to their YouTube channels or your YouTube channel(s), uploads from users of Known Child-Directed API Clients will not be implemented on YouTube websites, applications, services and products.
         
-3. You and your API Client’s access to, or use of, YouTube API Services can be suspended or terminated by YouTube for non-compliance with the YouTube API Services Terms of Service and Policies including non-compliance with this Section III.J.
+3. You and your API Client's access to, or use of, YouTube API Services can be suspended or terminated by YouTube for non-compliance with the YouTube API Services Terms of Service and Policies including non-compliance with this Section III.J.
     
 
 ### K. Reporting Noncompliance
