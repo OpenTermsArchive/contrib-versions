@@ -663,6 +663,8 @@ View our [EV charger offer customer terms and condtions.](https://www.energia.ie
   
 [View the Ticket Competition (Indo Sport x Energia Women's Send Off Event) Terms & Conditions](https://www.energia.ie/getmedia/7d112eba-23df-4575-b2c7-8c2c9751db1a/Energia-Rugby-%e2%80%93-Win-two-tickets-to-the-Women%e2%80%99s-Rugby-World-Cup-send-off-event.pdf) 
 
+[View the RWC Fmily Trip Competition Terms & Conditions](https://www.energia.ie/getmedia/698e2cc3-5a9f-4734-b762-0ca990691419/July-25-NL-family-trip-to-rugby-womens-(1).pdf)
+
 #### 
 
 34\. Digital & Social Competition
