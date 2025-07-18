@@ -345,14 +345,15 @@ For more information about creating bundles that comply with these policies, inc
 
 For more information about how to safely offer text chat in your experience, please see [here](https://devforum.roblox.com/t/migrate-to-textchatservice-removing-support-for-legacy-chat-and-custom-chat-systems/3237100).
 
-Last Updated: May 15, 2025
+Last Updated: July 17, 2025
 
 Change Log
 
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
-| July 15, 2025 | Added clarifying language to the following Standards:<br><br>* Romantic and Sexual Content<br>* Suicide, Self Injury, and Harmful Behavior<br>* Discrimination, Slurs, and Hate Speech<br>* Threats, Bullying and Harassment<br>* Violent Content and Gore |
+| July 17, 2025 | Added clarifying language to the following Standards:<br><br>* Sharing Personal Information<br>* Romantic and Sexual Content<br>* Child Exploitation<br><br>Effective July17, 2025 |
+| July 15, 2025 | Added clarifying language to the following Standards:<br><br>* Romantic and Sexual Content<br>* Suicide, Self Injury, and Harmful Behavior<br>* Discrimination, Slurs, and Hate Speech<br>* Threats, Bullying and Harassment<br>* Violent Content and Gore<br><br>Effective July 15, 2025 |
 | May 15, 2025 | Added a new "Commerce" section under Roblox Economy, requiring developers using the Commerce feature to comply with the Commerce Standards. <br><br>Effective May 15, 2025 |
 | February 26, 2025 | Added clarification and new resource links for the following Community Standard:<br><br>* * Promotional Offers sub-section of Roblox Economy<br><br>Effective February 26, 2025 |
 | November 21, 2024 | Updated the following Community Standard:<br><br>* * Discrimination, Slurs, and Hate Speech<br>    * Removed repeat language<br><br>Effective November 21, 2024 |
