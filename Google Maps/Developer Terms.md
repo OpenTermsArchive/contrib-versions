@@ -288,7 +288,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Prefeitura de Goiânia: [https://opendefinition.org/licenses/cc-by/](https://opendefinition.org/licenses/cc-by/)
             
-        * Data.Rio - Instituto Pereira Passos (IPP): [https://www.data.rio/maps/PCRJ::rede-cicloviária-implantada/about](https://www.data.rio/maps/PCRJ::rede-ciclovi%C3%A1ria-implantada/about)
+        * Data.Rio - Instituto Pereira Passos (IPP): [https://www.data.rio/datasets/PCRJ::rede-cicloviária-implantada/about](https://www.data.rio/datasets/PCRJ::rede-ciclovi%C3%A1ria-implantada/about)
             
     9. **Canada**
         1. Google’s maps of Canada include data provided from the following:
