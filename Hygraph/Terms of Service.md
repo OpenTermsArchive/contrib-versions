@@ -186,9 +186,3 @@ The Content displayed and/or processed through your Application or other web sit
 * to interfere with the use of the Services, or the equipment used to provide the Service, by customers, authorized resellers, or other authorized users;
 * to disable, interfere with or circumvent any aspect of the Service;
 * to generate, distribute, publish or facilitate unsolicited mass email, promotions, advertisings or other solicitations (“spam”)
-
-Get started for free, or request a demo  
-to discuss larger projects
---------------------------------------------------------------------
-
-[Contact sales](https://hygraph.com/contact)[Get started](https://app.hygraph.com/signup)
