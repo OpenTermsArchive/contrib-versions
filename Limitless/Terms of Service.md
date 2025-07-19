@@ -1,4 +1,4 @@
-Last updated: January 28, 2025
+Last updated: July 18, 2025
 
 Welcome, and thank you for your interest in Limitless AI, Inc., FKA Rewind AI (**“Limitless” “we,” “our”, or “us”**) and our websites at [https://limitless.ai](https://limitless.ai/) and [https://rewind.ai](https://rewind.ai/), along with our related websites, wearable devices, hosted applications, desktop or other downloadable applications, and other services provided by us (collectively, the **“Service”**). These Terms of Service are a legally binding contract between you and Limitless regarding your use binding contract between you and Limitless regarding your use of the Service.
 
@@ -58,7 +58,21 @@ Except and solely to the extent such a restriction is impermissible under applic
 
 **5.3 Feedback.**
 
-If you choose to provide input or suggestions regarding problems with or proposed modifications or improvements to the Service (**“Feedback”**), then you hereby grant Limitless an unrestricted, perpetual, irrevocable, non-exclusive, fully-paid, royalty-free right to use, and exploit the Feedback in any manner and for any purpose, without remuneration or attribution, including to improve the Service and create other products and services.
+If you choose to provide input or suggestions regarding problems with or proposed modifications or improvements to the Service (**"Feedback"**), then you hereby grant Limitless an unrestricted, perpetual, irrevocable, non-exclusive, fully-paid, royalty-free right to use, and exploit the Feedback in any manner and for any purpose, without remuneration or attribution, including to improve the Service and create other products and services.
+
+**5.5 HIPAA Compliance & Business Associate Agreement (BAA)**
+
+If you are a Covered Entity or Business Associate (as defined under the Health Insurance Portability and Accountability Act of 1996, "HIPAA") and you transmit, store, or process Protected Health Information ("PHI") using the Services, you acknowledge and agree to the following:
+
+**Business Associate Agreement:** Your use of the Services involving PHI is subject to our Business Associate Agreement ("BAA"), which is hereby incorporated by reference into these Terms. You can review the BAA at: [https://limitless.ai/baa](https://limitless.ai/baa). In the event of any conflict between these Terms and the BAA with respect to PHI, the BAA shall control.
+
+**BAA Requirement:** You agree not to upload or transmit PHI to the Services unless you have entered into a valid BAA with Limitless AI. Limitless AI is not considered a Business Associate under HIPAA unless and until such a BAA is in effect. If you upload PHI without a BAA in place, you do so at your own risk and Limitless AI disclaims all liability related to such use.
+
+**Safeguards and Compliance:** When acting as your Business Associate under HIPAA, Limitless AI will maintain appropriate administrative, technical, and physical safeguards to protect PHI, in accordance with applicable HIPAA requirements.
+
+**Breach Notification:** In the event of a breach of unsecured PHI, we will provide notifications as required under HIPAA and as outlined in the BAA.
+
+It is your responsibility to ensure your use of the Services complies with all applicable HIPAA requirements.
 
 **6\. Ownership; Proprietary Rights.**
 
