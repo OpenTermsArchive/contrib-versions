@@ -1,3 +1,5 @@
+We’re updating the Platform Terms. The updates go into effect on August 22, 2025. [Read the new terms](https://developers.facebook.com/terms/dfc_platform_terms/preview)
+
 Meta Platform Terms
 ===================
 
