@@ -221,11 +221,11 @@ Please do not hesitate to contact us if you have any questions regarding this Pr
 
 Page last update: February 21, 2025
 
-[![pettinarip](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F468158%3Fv%3D4&w=1920&q=75)popens in a new tab](https://github.com/pettinarip)
+[![pettinarip](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F468158%3Fv%3D4&w=1920&q=90)popens in a new tab](https://github.com/pettinarip)
 
-[![writegr](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F167099595%3Fv%3D4&w=1920&q=75)wopens in a new tab](https://github.com/writegr)
+[![writegr](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F167099595%3Fv%3D4&w=1920&q=90)wopens in a new tab](https://github.com/writegr)
 
-[![nhsz](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F948922%3Fv%3D4&w=1920&q=75)nopens in a new tab](https://github.com/nhsz)
+[![nhsz](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F948922%3Fv%3D4&w=1920&q=90)nopens in a new tab](https://github.com/nhsz)
 
 +4
 
