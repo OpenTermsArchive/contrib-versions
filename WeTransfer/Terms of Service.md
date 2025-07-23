@@ -1,13 +1,31 @@
-👋 We've seen some of you are concerned about what's new under section 6.3 of our updated Terms of Service. Check out our [latest blog post](https://wetransfer.com/blog/story/wetransfer-terms-of-service-changes-july-2025) for all the details and our [FAQ](https://help.wetransfer.com/hc/sections/201971306-How-we-keep-your-stuff-safe) for more information how we keep your content safe.
+Terms of Service
+================
+
+We have deep roots in the creative community and respect for the people who bring creativity to life—your voices, your stories, your work.
+
+Legal terms can be long to navigate, so here are the most important bits concerning your content:
+
+With WeTransfer...
+
+* **Your content belongs to you**
+    
+
+* **Your content isn't used to train AI**
+    
+
+* **Your content isn't sold to third parties**
+    
 
 If your usual residence is in the United States of America, [these Terms of Service](#32691d85-40a2-41ee-8bbf-796377a6534e) apply.
 
+[Download pdf](https://wetransfer.com/documents/WeTransfer%20-%20Terms%20of%20Service%20(US).pdf)
+
 If your usual residence is outside the United States of America, [these Terms of Service](#6dc5ea75-bb33-474a-9f13-150121902967) apply.
 
-[Download pdf](https://wetransfer.com/documents/WeTransfer_Terms_20250715.pdf)
+[Download pdf](https://wetransfer.com/documents/WeTransfer%20-%20Terms%20of%20Service%20(non-US).pdf)
 
-Terms of Service
-================
+Terms of Service - United States of America
+===========================================
 
 Last update: July 15, 2025. Effective as of August 8, 2025, unless you are a new user.
 
@@ -316,8 +334,8 @@ When you access, purchase, or download our App from the Apple App Store, you ack
 
 • Apple is a third-party beneficiary of these Terms, and Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as a third-party beneficiary thereof.
 
-Terms of Service
-================
+Terms of Service - Outside the United States of America
+=======================================================
 
 Last update: July 15, 2025. Effective as of August 8, 2025, unless you are a new user.
 
