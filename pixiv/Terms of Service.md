@@ -3743,7 +3743,7 @@ Article 5 Purchasing pixivcoban
 2. Purchase procedures for pixivcoban
     1. A User purchases Cobans (fee-based) in accordance with procedures prescribed by us.
     2. Cobans (fee-based) purchased by the User are recorded on the User’s pixivcoban dashboard.
-    3. Each User may confirm the purchase unit, cap for purchase, effective period, and the like of Cobans (fee-based) on [the User’s pixivcoban dashboard](https://coban.pixiv.net/).
+    3. Each User may confirm the purchase limits, validity period, and other conditions related to paid Cobans on the Notation based on the [Specified Commercial Transaction Act](https://coban.pixiv.net/legal).
     4. A User may not cancel the purchase of Cobans (fee-based) after completing the procedures prescribed in item (1) in this paragraph.
 
 Article 6 Acquisition of Cobans (free of charge)
