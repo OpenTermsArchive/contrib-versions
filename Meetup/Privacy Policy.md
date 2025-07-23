@@ -5,7 +5,7 @@ Privacy Policy
 
 _Effective:_ May 12, 2023
 
-(_View previous versions: [10/3/22](https://help.meetup.com/hc/en-us/articles/15720512860045)_, _[10/1/21](https://help.meetup.com/hc/en-us/articles/9556612582669),_ [_4/19/21_](https://help.meetup.com/hc/en-us/articles/4410440206349)_)_
+(_View previous versions:_ [_10/3/22_](https://help.meetup.com/hc/en-us/articles/15720512860045), [_10/1/21_](https://help.meetup.com/hc/en-us/articles/9556612582669)_,_ [_4/19/21_](https://help.meetup.com/hc/en-us/articles/4410440206349)_)_
 
 Our Privacy Policy explains how Meetup collects, uses, and discloses information about you. The terms “Meetup,” “we,” “us,” and “our” include Meetup LLC and our affiliates. We use the terms “member,” “you,” and “your” to mean any person using our Platform or attending related events, including any organization or person using the Platform on an organization’s behalf. This Privacy Policy applies to the processing of information about members and other individuals that we collect when you use our “Platform,” which means any website, application, or services we offer, or when you communicate with us. For information about choices you may have under this policy, please see “Your Choices” below. This Privacy Policy does not apply to the information that you may provide to third parties, such as members, and others with whom you may share information about yourself. For more information about the scope of our Privacy Policy, please see [Section 4.5](https://help.meetup.com/hc/en-us/articles/360044422391#h_b87ea47b-8923-406a-a6cd-bbdcc083e47b). 
 
@@ -24,7 +24,7 @@ To make this Privacy Policy easier to understand, we have provided summaries bel
 1\. Collection Of Information
 -----------------------------
 
-**_Summary:_** _We collect information about you when you:_
+_**Summary:** We collect information about you when you:_
 
 1. _Create an account;_
 2. _Use the Platform;_
@@ -66,7 +66,7 @@ We may analyze and make inferences from the information we collect.
 2\. Use Of Information
 ----------------------
 
-**_Summary:_** _We use information about you to:_ 
+_**Summary:** We use information about you to:_ 
 
 1. _Operate, improve, promote, and protect Meetup and our Platform;_
 2. _Communicate with you; and_
@@ -97,7 +97,7 @@ We may use information about you for various business purposes related to commun
 
 We may use information about you for various other business purposes, including to:
 
-1. Provide content, features, or sponsorships that match member profiles or interests 
+1. Provide content, features, or sponsorships that match member profiles or interests
 2. Deliver more relevant advertising to you on and off the Platform;
 3. Facilitate contests and other promotions;
 4. Send you marketing communications, subject to applicable law;
@@ -116,15 +116,16 @@ If you are in a jurisdiction that requires a specific legal basis for processing
 3\. Sharing Of Information
 --------------------------
 
-**_Summary:_** _We do not share information about you except as described in this Privacy Policy. We may disclose personal information about you, including:_
+_**Summary:** We do not share information about you except as described in this Privacy Policy. We may disclose personal information about you, including:_
 
-1. _to members or social media services, depending on how you engage with the Platform.  Information that is public on our platform is accessible to others both on and off the Platform;_
-2. _to our third-party service providers who help us to operate or improve our Platform;_
-3. _when we work with third parties for analytics and to deliver targeted advertising to you on and off the Platform.  For more information, please see our_ [_Cookie Policy_](https://help.meetup.com/hc/en-us/articles/360046339551)_;_
-4. _to authorities to comply with legal obligations or requests and to protect and defend our rights and property;_ 
-5. _to an affiliate or successor entity or otherwise as part of a corporate transaction;_ 
-6. _among our businesses and affiliated companies; and_
-7. _when you direct us to share your information._  
+1.  
+    1. _to members or social media services, depending on how you engage with the Platform.  Information that is public on our platform is accessible to others both on and off the Platform;_
+    2. _to our third-party service providers who help us to operate or improve our Platform;_
+    3. _when we work with third parties for analytics and to deliver targeted advertising to you on and off the Platform.  For more information, please see our_ [_Cookie Policy_](https://help.meetup.com/hc/en-us/articles/360046339551)_;_
+    4. _to authorities to comply with legal obligations or requests and to protect and defend our rights and property;_
+    5. _to an affiliate or successor entity or otherwise as part of a corporate transaction;_
+    6. _among our businesses and affiliated companies; and_
+    7. _when you direct us to share your information._  
 
 _We may also share information in a manner that does not identify you, such as de-identified or aggregated information. Such information is not subject to this Privacy Policy._
 
@@ -169,7 +170,7 @@ We may also share information about you with your consent or at your direction o
 4\. Additional Details
 ----------------------
 
-**_Summary:_**
+_**Summary:**_
 
 1. _Meetup is based in and governed by U.S. law and we will be processing, transferring, and storing information in and to the U.S. and other countries._
 2. _We have implemented technical and organizational measures to protect your personal information. We cannot guarantee these controls will provide absolute security._
@@ -214,7 +215,7 @@ We may modify this Privacy Policy from time to time. When we do, we will provide
 5\. Your Choices
 ----------------
 
-**_Summary:_**
+_**Summary:**_
 
 1. _You can review and change information about you or deactivate your account in your account settings, but we may retain certain information._
 2. _You can remove photo tags if you wish._
@@ -255,7 +256,7 @@ You can tag photos of yourself and others. When a photo has been tagged it means
 6\. Data Rights
 ---------------
 
-**_Summary:_**
+_**Summary:**_
 
 1. _You may have the right to exercise data protection rights, including to request that Meetup deletes, amends, or provides you access to your information._
 2. _You may have the right to opt out of the sharing or processing of your personal information for the purposes of targeted advertising._
@@ -273,7 +274,7 @@ Rights that you may have, depending on the jurisdiction in which you live, may i
 
 * **Accessing, correcting,  or requesting deletion of your information**.
 
-* **Appealing a decision Meetup has made about an access, correction, or deletion request.** 
+* **Appealing a decision Meetup has made about an access, correction, or deletion request.**
 
 * **Opting out of the sharing of your personal information for targeted advertising**. To exercise your right to opt-out of these kinds of advertising, please follow the instructions found in the “Opting Out” section of our [Cookie Policy](https://help.meetup.com/hc/en-us/articles/360046339551) and as described in Section 5.3 above.
 
@@ -311,6 +312,7 @@ Under European data protection law, the controller of your information is Meetup
 If you have any questions or complaints about this Privacy Policy or how we use your information, please contact [privacy@meetup.com](mailto:privacy@meetup.com).
 
 If you are located in the European Economic Area, you can also contact Meetup’s GDPR representative:  
+ 
 
 VeraSafe Ireland Ltd.  
 Unit 3D North Point House  
