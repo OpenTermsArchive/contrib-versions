@@ -771,3 +771,5 @@ For example, you can choose whether you want Google to save an audio recording t
 This activity might come from your use of Google services, for example from syncing your account with Chrome or your visits to sites and apps that partner with Google. Many websites and apps partner with Google to improve their content and services. For example, a website might use our advertising services (like AdSense) or analytics tools (like Google Analytics), or it might embed other content (such as videos from YouTube). These services may share information about your activity with Google and, depending on your [account settings](https://myaccount.google.com/?hl=en_GB), and the products in use (for instance, when a partner uses Google Analytics in conjunction with our advertising services), this data may be associated with your personal information.
 
 [Find out more](https://policies.google.com/technologies/partner-sites?hl=en-GB) about how Google uses data when you use our partners' sites or apps.
+
+_close_
