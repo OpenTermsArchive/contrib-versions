@@ -93,6 +93,6 @@ Marketing
 
 These cookies are used to understand user behavior in order to provide you with a more relevant browsing experience or personalize the content on our site.
 
-Applicable cookies: **LinkedIn, Google Ads**
+Applicable cookies: **LinkedIn, Google AdWord**
 
 Accept allReject allSave settings
