@@ -104,6 +104,16 @@ If you share your [Live Location](https://telegram.org/blog/live-locations) in a
 
 The only cookies we use are those to operate and provide our Services on the web. We do not use cookies for profiling or advertising. The cookies we use are small text files that allow us to provide and customize our Services, and in doing so provide you with an enhanced user experience. Your browser should allow you to control these cookies, including whether or not to accept them and how to remove them. You may choose to block cookies with your web browser, however, if you do disable these cookies you will not be able to log in to Telegram Web.
 
+##### [](#3-7-age-estimation)3.7. Age Estimation
+
+To comply with regional legal requirements (such as the Online Safety Act 2021 in the UK), we may offer optional age estimation features. These features are only available in regions where local law requires age verification and are used exclusively to check whether you are eligible to access certain content. The data utilized for these features is never used for any other purpose.
+
+To estimate your age, we ask you to undergo a brief facial scan. This process runs _entirely on your device_. Facial images and biometric data are not uploaded to or stored on our servers, are not accessible to Telegram and are deleted after the age estimation is completed.
+
+This feature tells us only one thing: whether you are likely under or over 18.
+
+To track performance and prevent misuse, we may store the age estimation result and certain metadata (as described in [section 5.2](#5-2-safety-and-security)) on our servers, in relation to regions where local laws restrict access to certain content to users who are under 18.
+
 ### [](#4-keeping-your-personal-data-safe)4\. Keeping Your Personal Data Safe
 
 #### [](#4-1-storing-data)4.1. Storing Data
