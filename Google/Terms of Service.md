@@ -552,5 +552,3 @@ Things that you create, upload, submit, store, send, receive or share using our 
 * emails that you send and receive through Gmail
 * pictures that you share with friends via Photos
 * travel itineraries that you share with Google
-
-_close_
