@@ -42,7 +42,7 @@ These Website Terms of Use (the “Agreement”) govern all use of the GitLab.co
 
 **4.1.** As GitLab asks others to respect its intellectual property rights, it respects the intellectual property rights of others. If you believe that Content located on or linked to the Website violates your copyright, you are encouraged to notify GitLab in accordance with our [DMCA policy](https://handbook.gitlab.com/handbook/legal/dmca/).
 
-**4.2.** Your use of the Website is subject to the [GitLab Privacy Policy](https://about.gitlab.com/privacy/), which is incorporated herein by reference.
+**4.2.** Your use of the Website is subject to the [GitLab Privacy Statement](https://about.gitlab.com/privacy/), which is incorporated herein by reference.
 
 ### 5\. Modifications / Updates[](#5-modifications--updates)
 
