@@ -1238,6 +1238,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Bundesministerium für Digitales und Verkehr: [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0), [https://mobilithek.info/offers/608439575154401280](https://mobilithek.info/offers/608439575154401280)
             
+        * Tübingen: [https://www.tuebingen.de/33688.html#/34665](https://www.tuebingen.de/33688.html#/34665)
+            
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
@@ -1589,6 +1591,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * State Enterprise Centre of Registers: [https://www.geoportal.lt/geoportal/en/web/en/general-conditions-for-the-use-of-spatial-data](https://www.geoportal.lt/geoportal/en/web/en/general-conditions-for-the-use-of-spatial-data)
         * Vilnius Open Data: [https://opendata.vilnius.lt/dataset/vilnius-addresses](https://opendata.vilnius.lt/dataset/vilnius-addresses)
         * Lithuanian Road Administration: [https://creativecommons.org/licenses/by/4.0/](https://creativecommons.org/licenses/by/4.0/)
+        * Registru Centras: [https://www.registrucentras.lt/atviri-duomenys-ir-statistika/adresu-registro-pirminiai-duomenys-raw-data](https://www.registrucentras.lt/atviri-duomenys-ir-statistika/adresu-registro-pirminiai-duomenys-raw-data)
     38. **Luxembourg**
         
         © Administration du Cadastre et de la Topography (ACT)
@@ -2109,6 +2112,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Amt für Raumentwicklung (Switzerland): [https://www.swisstopo.admin.ch/de/nutzungsbedingungen-kostenlose-geodaten-und-geodienste](https://www.swisstopo.admin.ch/de/nutzungsbedingungen-kostenlose-geodaten-und-geodienste)
             
+        * Federal Office of Topography swisstopo: [https://www.swisstopo.admin.ch/de/nutzungsbedingungen-kostenlose-geodaten-und-geodienste](https://www.swisstopo.admin.ch/de/nutzungsbedingungen-kostenlose-geodaten-und-geodienste)
+            
     61. **Syria**
         * HDX: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
             
@@ -2176,6 +2181,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * SpatialData Gov Scot [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
             
         * Welsh Government (Wales, UK) [https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/)
+            
+        * DataMap Wales [https://datamap.gov.wales/layers/inspire-nrw:NRW\_FOREST\_ROADS](https://datamap.gov.wales/layers/inspire-nrw:NRW_FOREST_ROADS)
             
     67. **Ukraine**
         
@@ -2730,6 +2737,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         272. Environmental Data Center: [https://www.rigis.org/datasets/1654c41c29f8468ba8d85f329f484f4b\_0/explore](https://www.rigis.org/datasets/1654c41c29f8468ba8d85f329f484f4b_0/explore)
             
         273. Utah Geospatial Resource Center: [https://opendata.gis.utah.gov/datasets/utah-roads/about](https://opendata.gis.utah.gov/datasets/utah-roads/about)
+            
+        274. GeoNames: [https://www.geonames.org/](https://www.geonames.org/)
+            
+        275. South Dakota Department of Transportation: [https://storage.mtls.cloud.google.com/geodataupload-uploads/internal\_uploads/GDO Outreach/Speed Limits/Permissions/\[Permissions\] South Dakota Department of Transportation - US - SD - Speed limits.png/](https://storage.mtls.cloud.google.com/geodataupload-uploads/internal_uploads/GDO%20Outreach/Speed%20Limits/Permissions/[Permissions]%20South%20Dakota%20Department%20of%20Transportation%20-%20US%20-%20SD%20-%20Speed%20limits.png)
             
     69. International GNSS Service (IGS). NASA CDDIS.GNSS Station Position Products. Available from ([https://cddis.nasa.gov/Data\_and\_Derived\_Products/GNSS/station\_position\_products.html](https://cddis.nasa.gov/Data_and_Derived_Products/GNSS/station_position_products.html)) Licenses: ([https://cddis.nasa.gov/About/Data\_citation\_and\_acknowledgment.html](https://cddis.nasa.gov/About/Data_citation_and_acknowledgment.html))
         
