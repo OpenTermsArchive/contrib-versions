@@ -3,7 +3,7 @@ Disqus Privacy Policy
 
 Written by Disqus
 
-Updated over 2 months ago
+Updated today
 
 Disqus Privacy Policy  
 ​  
@@ -18,9 +18,9 @@ This Privacy Policy tells you how Disqus collects, uses, sells, discloses and pr
 **Applicability to third-party websites and services**. Disqus offers an online engagement service that other websites use to enable discussion and interactivity among their users. This Privacy Policy applies to the data Disqus collects about Users of the Service and through cookies on Service-enabled websites, and does not apply to the independent data collection practices of any website that uses the Service or other website linked to from the Service. For information about how third-party websites collect and use your personal information, please refer to those websites’ privacy policies.  
 ​
 
-**Your Privacy Rights**. You have rights over your personal information. These rights are described in greater detail in [Section 9: Your Rights](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy#h_faec8bc021) , below. You can exercise your data privacy rights [here](https://help.disqus.com/privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/9a049fa1-37af-4598-a87a-d0df2e2d904b.html).
+**Your Privacy Rights**. You have rights over your personal information. These rights are described in greater detail in [Section 9: Your Rights](https://help.disqus.com/en/articles/1717103-disqus-privacy-policy#h_faec8bc021) , below. You can exercise your data privacy rights [here](https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/9a049fa1-37af-4598-a87a-d0df2e2d904b.html).
 
-**Children’s Privacy**. The Service is not intended for use by children under the age of 18. We do not knowingly collect or sell personal information from children under 18 or knowingly allow such persons to register for an account on the service. In the event that we learn that we have collected personal information from a child under the age of 18, we will delete it. If you believe that we might have collected personal information from a child under 18, please contact us, or submit a data privacy rights requests [here](https://help.disqus.com/privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/9a049fa1-37af-4598-a87a-d0df2e2d904b.html).
+**Children’s Privacy**. The Service is not intended for use by children under the age of 18. We do not knowingly collect or sell personal information from children under 18 or knowingly allow such persons to register for an account on the service. In the event that we learn that we have collected personal information from a child under the age of 18, we will delete it. If you believe that we might have collected personal information from a child under 18, please contact us, or submit a data privacy rights requests [here](https://privacyportal-cdn.onetrust.com/dsarwebform/bc2d3301-11a5-4de5-b15e-ce796187a352/9a049fa1-37af-4598-a87a-d0df2e2d904b.html).
 
 #### **2\. THE DATA WE COLLECT ABOUT YOU**
 
@@ -64,7 +64,7 @@ When Disqus loads ads, we use ad serving technologies from [Google](https://po
 
 **Pixels and Similar Trackers.** When you use the Service, we employ pixels, clear gifs (also known as web beacons) which are used to collect Technical Data and information such as online usage patterns. We also use clear gifs in HTML-based emails sent to our users to track which emails are opened and which links or advertisements are clicked by recipients. We also use pixels and clear gifs on third party websites on which the Service is enabled to collect information about how you interact with those websites, even if you do not leave comments, respond to polls, or otherwise directly interact with the Service on those websites.
 
-**Third parties or publicly available sources**. We obtain or receive personal data about you from analytics providers such as Google; advertising partners listed [here](https://help.disqus.com/help.disqus.com/terms-and-policies/third-party-advertising-partners); and third-party data brokers who sell personal data. We obtain or receive personal data from third party connections or log-ins through social media platforms such as Facebook Connect, Google or Twitter/X when you “follow,” “like,” or link your account to the Service. Please note that some of these providers, in particular analytics providers like Google, may process data from European Economic Area (EEA) residents outside the EEA.
+**Third parties or publicly available sources**. We obtain or receive personal data about you from analytics providers such as Google; advertising partners listed [here](https://help.disqus.com/terms-and-policies/third-party-advertising-partners); and third-party data brokers who sell personal data. We obtain or receive personal data from third party connections or log-ins through social media platforms such as Facebook Connect, Google or Twitter/X when you “follow,” “like,” or link your account to the Service. Please note that some of these providers, in particular analytics providers like Google, may process data from European Economic Area (EEA) residents outside the EEA.
 
 Managing Cookies in Your Browser
 
@@ -85,9 +85,9 @@ Below are links to information about managing your cookie preferences in common 
 
 #### **4\. TARGETED ADVERTISING and AD PARTNERS.**
 
-**Targeted Advertising.** Advertising is the predominant way Disqus makes money. Advertising revenue allows Disqus to operate, support and improve the Service. Disqus uses, and shares with third party ad partners and affiliates, cookie IDs, device IDs (including mobile), hashed email addresses, IP address, Internet Service Provider (ISP) and browser information, demographic or interest data, content viewed and actions taken on the Service, on partner sites, or on other third party sites. This includes information about the websites you’ve viewed and advertisements you’ve interacted with in order to provide you with more relevant advertising targeted to your preferences and interests. This may be derive from your interaction with the Service, partner sites or other third party websites. For a list of third-party ad partners that Disqus is currently working with click [here](https://help.disqus.com/help.disqus.com/terms-and-policies/third-party-advertising-partners).
+**Targeted Advertising.** Advertising is the predominant way Disqus makes money. Advertising revenue allows Disqus to operate, support and improve the Service. Disqus uses, and shares with third party ad partners and affiliates, cookie IDs, device IDs (including mobile), hashed email addresses, IP address, Internet Service Provider (ISP) and browser information, demographic or interest data, content viewed and actions taken on the Service, on partner sites, or on other third party sites. This includes information about the websites you’ve viewed and advertisements you’ve interacted with in order to provide you with more relevant advertising targeted to your preferences and interests. This may be derive from your interaction with the Service, partner sites or other third party websites. For a list of third-party ad partners that Disqus is currently working with click [here](https://help.disqus.com/terms-and-policies/third-party-advertising-partners).
 
-**Email Marketing.** Disqus may also send you email newsletters and email marketing messages if you have provided us with permission, or consented to receive such emails, as required in the jurisdiction in which you reside. Email marketing messages may be tailored to your interests based on the information described above in this section. For information about how to opt-out and to exercise your privacy rights please click [here](https://help.disqus.com/help.disqus.com/customer/portal/articles/1255134#email-notifications).
+**Email Marketing.** Disqus may also send you email newsletters and email marketing messages if you have provided us with permission, or consented to receive such emails, as required in the jurisdiction in which you reside. Email marketing messages may be tailored to your interests based on the information described above in this section. For information about how to opt-out and to exercise your privacy rights please click [here](https://help.disqus.com/customer/portal/articles/1255134#email-notifications).
 
 **Ad Partners and Third Party Disclosures.** We partner and share data with third parties that collect information across various channels, including offline and online, for purposes of delivering more relevant advertising to you or your business. Our partners use this information to recognize you across different channels and platforms, over time, (including but not limited to, computers, mobile devices, addressable TV, or other media), for marketing, analytics, attribution, and reporting purposes. While Disqus does not make inferences based on your data, our advertising partners may draw inferences from your data to understand your preferences, characteristics, psychological trends, predispositions, behavior, attitudes, intelligence, abilities, and aptitudes.  
 ​
@@ -134,7 +134,7 @@ We may disclose any of the categories of personal data that we collect from and 
 
 **Zeta Global**. Disqus user data is shared with our affiliated company Zeta Global for marketing purposes, including cross-context behavioral advertising. Disqus data is merged by Zeta with data from other online and offline sources to inform marketing decisions and messages on behalf of Zeta’s advertiser customers (brands and agencies). Zeta may also share data obtained from Disqus with these advertiser customers.
 
-**Business Partners.** We also share personal data with external third parties for similar purposes as with Zeta Global. These third parties include other companies who participate in cross-context behavioral advertising, and data brokers who may further sell or share your personal data. We may also share personal data with advertisers with whom you have already shared your data interest categories based on your online activity, for marketing purposes. For a list of external third parties, please click [here](https://help.disqus.com/help.disqus.com/en/articles/1944034-cookies-and-data-recipients).
+**Business Partners.** We also share personal data with external third parties for similar purposes as with Zeta Global. These third parties include other companies who participate in cross-context behavioral advertising, and data brokers who may further sell or share your personal data. We may also share personal data with advertisers with whom you have already shared your data interest categories based on your online activity, for marketing purposes. For a list of external third parties, please click [here](https://help.disqus.com/en/articles/1944034-cookies-and-data-recipients).
 
 **Service Providers.** We rely on service providers (e.g. companies that provide web hosting or analytics services) for the operation of our website and Service, and these service providers may have access to your personal data. Our service providers are contractually prohibited from using your personal data for their own purposes, and are required to treat your personal data and maintain its confidentiality in the same way as us.
 
@@ -174,7 +174,7 @@ Disqus will not discriminate against you for exercising your privacy rights. Pri
 
 You also have the right in many countries to contact the relevant privacy or data protection authority if you believe we are not complying with privacy laws, and we have not been able to resolve the situation to your satisfaction.
 
-Visit our [Privacy Choices page](https://help.disqus.com/disqus.com/data-sharing-settings/) for more details about these rights or to exercise them.
+Visit our [Privacy Choices page](https://disqus.com/data-sharing-settings/) for more details about these rights or to exercise them.
 
 **Rights Requests.** Under California law, we are required to publish statistics on how many people exercised their privacy rights in the previous year. The following statistics are for people who made requests relating to Disqus during the twelve months ending December 31, 2024. These statistics cover all requests received from individuals around the world.
 
@@ -203,7 +203,7 @@ Disqus recognizes and processes user preferences as set in the browser-based “
 **Changes to Privacy Policy**. Disqus may, in its sole discretion, modify or update this Privacy Policy from time to time, and so you should review this page periodically. When we change the policy, we will update the ‘last modified’ date at the top of this page. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.  
 ​
 
-[Click here](https://help.disqus.com/help.disqus.com/customer/portal/articles/466260-terms-of-service) to view the Terms of Service.
+[Click here](https://help.disqus.com/customer/portal/articles/466260-terms-of-service) to view the Terms of Service.
 
   
 Our Privacy Policy is also available in the following languages:  
