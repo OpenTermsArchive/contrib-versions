@@ -1,18 +1,18 @@
-_Article 1 : CHAMP D'APPLICATION_
----------------------------------
+_PREAMBULE : Général_
+---------------------
 
 Ce site est opéré  par :  
   
 CDISCOUNT  
 Société anonyme au capital social de 6.642.912,78€  
 Immatriculée au RCS Bordeaux n° B 424 059 822  
-Représentée par M. Thomas METIVIER , en qualité de Directeur Général  
+Représentée par M. Thomas METIVIER, en qualité de Directeur Général  
 Siège social : 120-126 Quai de Bacalan - 33000 Bordeaux (siège administratif uniquement, aucun colis ne doit être retourné à cette adresse)  
   
-Le site cdiscount.com propose une offre réservée uniquement aux personnes physiques agissant en qualité de consommateurs. 
+Le site cdiscount.com propose une offre réservée uniquement aux personnes physiques agissant en qualité de consommateurs.
 
-_PREAMBULE  Modalités de contact_
----------------------------------
+_PREAMBULE : Modalités de contact_
+----------------------------------
 
   
   
@@ -117,11 +117,7 @@ Les CGV applicables sont celles figurant sur le Site au moment de votre commande
 
 Toute commande passée sur le Site suppose l’acceptation entière, sans réserve et sans condition des CGV en vigueur au moment  de ladite commande.
 
-  
-
- 
-
-[](https://i1.cdscdn.com/ImagesOK/CGV/CLeMarche.pdf)
+[](https://i1.cdscdn.com/ImagesOK/CGV/CLeMarche.pdf) 
 
 _Article 2 : INFORMATION SUR LES PRIX_
 --------------------------------------
@@ -156,7 +152,7 @@ Le prix de comparaison d’un produit ou d’un service proposé sur le Site p
 
 \- Le « _prix de comparaison renseigné par le vendeur de la Marketplace_ » est le prix de référence renseigné par le vendeur de la Marketplace Cdiscount. Notre société n’intervient pas dans la détermination de ce prix de référence. 
 
-.   
+.    
 
 _Article 3 : COMMANDES_
 -----------------------
@@ -252,14 +248,10 @@ A ce titre, CDISCOUNT se réserve le droit de ne pas valider la commande, d’en
 
 Nonobstant ce qui précède, CDISCOUNT se réserve le droit d’engager toute action de recouvrement à l’encontre du client ayant bénéficié à tort et/ou via des manœuvres frauduleuses, de remises promotionnelles, afin de recouvrer les sommes indument perçues sur le fondement de l’article 1302-1 du code civil. 
 
-  
-
 _Article 4 : MODALITES DE PAIEMENT_
 -----------------------------------
 
- **4.1. Modes de paiement** 
-
-Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :  
+ **4.1. Modes de paiement**  Les modes de paiement listés ci-après peuvent être proposés par CDISCOUNT :  
    
 4.1.1 Paiement au comptant  
   
@@ -289,7 +281,7 @@ En cas d'abandon, de rétractation, ou tout autre motif d’annulation d’une c
 4.1.2 Paiement en plusieurs fois  
   
 (a) Paiement en « 4 fois »  
-Le paiement en « 4 fois » peut être effectué en utilisant une carte bancaire des réseaux Cartes Bancaires (CB), Visa, Mastercard, conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande. Sous réserve d'acceptation de Cnova Pay, agréée par l'Autorité de Contrôle Prudentiel et de Résolution (ACPR).  Les conditions générales du paiement en « 4 fois » sont accessibles en [cliquant ici](https://paymentresources.cdiscount.com/static/cgv/4f.pdf)
+Le paiement en « 4 fois » peut être effectué en utilisant une carte bancaire des réseaux Cartes Bancaires (CB), Visa, Mastercard, conformément aux conditions générales du paiement en « 4 fois », dont vous devez prendre connaissance au moment de la passation de votre commande. Sous réserve d'acceptation de Cnova Pay, agréée par l'Autorité de Contrôle Prudentiel et de Résolution (ACPR).  Les conditions générales du paiement en « 4 fois » sont accessibles en [cliquant ici](https://paymentresources.cdiscount.com/static/cgv/4f.pdf)  
 
 Le paiement en "4 fois" n'est pas proposé de manière systématique à tous nos clients et/ou pour toutes les commandes. Nous mettons en œuvre un traitement automatisé afin d'identifier les clients et commandes éligibles au paiement "4 fois".  
 (b) Paiement jusqu'à 20 fois par carte bancaire Cdiscount  
@@ -311,7 +303,7 @@ Cdiscount, en partenariat avec FLOA Bank, peut vous proposer, pour certains prod
 Ce système vous permet, pour les paiements par carte bancaire, de ne plus saisir votre numéro de Carte de Paiement lors de vos prochaines commandes passées sur le Site et livrées à la ou les adresse(s) associée(s) à votre numéro de Carte de Paiement. A noter : votre numéro de Carte de Paiement est visible en totalité lors de la saisie de celui-ci, mais seuls les 4 derniers chiffres seront visibles dans votre Compte Client Cdiscount. Le service paiement flash est entièrement sécurisé, pour en savoir plus sur le Paiement Flash, [cliquez ici](https://www.cdiscount.com/payment/paymentinfo.html).
 
 (b) Par Paypal :  
-La commande peut être réglée par PayPal, dans la limite de 3000 euros. Pour bénéficier de ce mode de paiement, vous devez avoir un compte auprès de la société PayPal. En cas de paiement par PayPal, ce sont les conditions générales d'utilisation de PayPal qui s'appliquent. Elles sont accessibles [en cliquant ici](https://www.paypal.com/fr/webapps/mpp/ua/useragreement-full?locale.x=fr_FR).
+La commande peut être réglée par PayPal. Pour bénéficier de ce mode de paiement, vous devez avoir un compte auprès de la société PayPal. En cas de paiement par PayPal, ce sont les conditions générales d'utilisation de PayPal qui s'appliquent. Elles sont accessibles [en cliquant ici](https://www.paypal.com/fr/webapps/mpp/ua/useragreement-full?locale.x=fr_FR).
 
 (c) Par Apple Pay   
 Apple Pay est un moyen de paiement numérique vous permettant de régler vos achats directement depuis vos appareils Apple (iPhone, iPad, Apple Watch).  
@@ -350,7 +342,7 @@ CDISCOUNT a développé un partenariat avec la société THREATMETRIX afin de vo
 
 Vous êtes informé de la collecte de ces informations dès votre première connexion sur le Site par l'intermédiaire du bandeau d'information relatifs aux cookies. En continuant votre navigation sur notre site ou en cliquant sur la croix présente sur le bandeau d'information, vous acceptez la collecte de l'identifiant équipement.  
   
-Vous pouvez retirer votre consentement à la collecte de cet identifiant à tout moment en cliquant sur l'onglet "Gérer mes cookies" présent sur la page d'information "Protection de la vie privée et cookies" et en désactivant les cookies "Analytique et Personnalisation". Pour en savoir +, [cliquez ici](https://www.cdiscount.com/vie-privee-et-cookies.html).
+Vous pouvez retirer votre consentement à la collecte de cet identifiant à tout moment en cliquant sur l'onglet "Gérer mes cookies" présent sur la page d'information "Protection de la vie privée et cookies" et en désactivant les cookies "Analytique et Personnalisation". Pour en savoir +, [cliquez ici](https://www.cdiscount.com/vie-privee-et-cookies.html). 
 
 _Article 6 : EXPEDITION ET LIVRAISON_
 -------------------------------------
@@ -666,7 +658,7 @@ b)      **ou en nous retournant, à l’adresse postale indiquée, le formu
 
 (Veuillez compléter et renvoyer le présent formulaire uniquement si vous souhaitez vous rétracter du contrat).
 
-À l’attention de CDISCOUNT, Cdiscount.com / SGPN Service Client - BP 90200 - 93472 Neuilly Sur Marne, France, [\[email protected\]](https://www.cdiscount.com/mailto:droit.retractation@cdiscount.com) :
+À l’attention de CDISCOUNT, Cdiscount.com / SGPN Service Client - BP 90200 - 93472 Neuilly Sur Marne, France, \[email protected\] :
 
 — Je/Nous (\*) vous notifie/notifions (\*) par la présente ma/notre (\*) rétractation du contrat portant sur la vente du bien (\*) / prestation de services (\*) ci-dessous \[Indiquez le ou les produits/services pour lesquels vous vous rétractez\]…………………………………………………………………………………………………… ……………………………………………….... — Commandé le (\*) / reçu le (\*)………………………………………………………………………………………………… …………..............
 
@@ -699,7 +691,7 @@ Si une même commande contient plusieurs produits, livrés par colis distincts, 
 Pour un meilleur traitement des demandes de rétractation, chaque produit d'une même commande qui fait l'objet d'une demande de rétractation, doit faire l'objet d'un retour dans un colis distinct.  
   
 
-En cas d’exercice d’un droit de rétractation sur un produit ayant bénéficié d’une prestation de service de montage pleinement exécutée, dont l'exécution a commencé après accord préalable exprès du client et renoncement exprès à son droit de rétractation;  vous serez remboursé de toutes les sommes versées à l’exception de celles correspondant à la prestation de service de montage pleinement exécutée et de toute dépréciation financière du produit qui pourrait vous être imputée dans les conditions ci-dessous. 
+En cas d’exercice d’un droit de rétractation sur un produit ayant bénéficié d’une prestation de service de montage pleinement exécutée, dont l'exécution a commencé après accord préalable exprès du client et renoncement exprès à son droit de rétractation;  vous serez remboursé de toutes les sommes versées à l’exception de celles correspondant à la prestation de service de montage pleinement exécutée et de toute dépréciation financière du produit qui pourrait vous être imputée dans les conditions ci-dessous.    
 
 **  
 8.3 Exceptions**
@@ -725,9 +717,9 @@ Conformément à l’article L221-28 du Code de la Consommation, le droit de ré
   
 Conformément à l’article L221-25 du Code de la consommation : « Si vous avez demandé de commencer la prestation de services pendant le délai de rétractation, vous devrez nous payer un montant proportionnel à ce qui vous a été fourni jusqu'au moment où vous nous avez informé de votre rétractation du présent contrat, par rapport à l'ensemble des prestations prévues par le contrat. » 
 
-      
+          
 
-**8.4 Remboursement dans le cadre d’une rétractation**  
+**8.4 Remboursement dans le cadre d’une rétractation**   
 
   
 A la suite de votre demande de rétractation, CDISCOUNT, conformément aux dispositions légales, procédera à votre remboursement dans un délai de 14 jours suivant la notification de votre demande de rétractation.
@@ -737,8 +729,6 @@ En l’absence de réception de votre produit ou d’une preuve d’expédition 
 CDISCOUNT procédera à votre remboursement via le même moyen de paiement que celui utilisé au jour de votre commande, sauf dans le cas où le moyen de paiement utilisé ne le permettrait pas.
 
 Ainsi, si vous avez payé votre commande à l’aide d’une carte bancaire (au comptant ou en 4x) CDISCOUNT procédera à votre remboursement par recrédit sur votre carte bancaire.
-
- 
 
 _Article 9 : GARANTIES_
 -----------------------
@@ -750,7 +740,7 @@ Pour les produits directement vendus par Cdiscount (à l’exclusion des produit
 **Attention, pour les produits achetés auprès d’un vendeur de la Marketplace, vous devez vous rapprocher du vendeur concerné pour exercer vos droits, CDISCOUNT ne pouvant se substituer au vendeur.** 
 
   
-Il est rappelé que le consommateur, dans le cadre de la garantie légale de conformité :  
+Il est rappelé que, dans le cadre de la garantie légale de conformité :  
 
     Le consommateur dispose d'un délai de deux ans à compter de la délivrance du bien pour obtenir la mise en œuvre de la garantie légale de conformité en cas d'apparition d'un défaut de conformité. Durant ce délai, le consommateur n'est tenu d'établir que l'existence du défaut de conformité et non la date d'apparition de celui-ci.  
   
@@ -970,7 +960,7 @@ Pour en savoir plus sur les éco-participations, vous pouvez consulter l'article
   
 **b) Reprise 1 pour 1**
 
-Conformément aux articles L. 541-10-8 et R. 541-161 et suivants du Code de l'Environnement, vous pouvez bénéficier déune reprise gratuite de vos anciens produits pour les filières REP suivantes :   
+Conformément aux articles L. 541-10-8 et R. 541-161 et suivants du Code de l'Environnement, vous pouvez bénéficier d’une reprise gratuite de vos anciens produits pour les filières REP suivantes :   
         - DEEE  
         - DEA  
         - DAB&J  
@@ -984,7 +974,7 @@ _Exemple_ : une machine à laver le linge reprise suite à l’achat d’une nou
   
 Pour connaître les modalités de reprise de votre ancien produit, vous pouvez consulter l'article "Eco-participations et reprise" en bas de page de notre Site. La reprise pourra vous être refusée pour tout produit ne respectant pas ces modalités.
 
-**10.2 Redevance pour copie privée**
+  **10.2 Redevance pour copie privée**
 
 Copie France collecte la rémunération pour copie privée auprès des fabricants et distributeurs de supports d’enregistrement vierges lors de la mise en circulation de ces supports sur le marché français.
 
@@ -992,11 +982,9 @@ Cette rémunération est ensuite répercutée par les fabricants et les distribu
 
 Une notice explicative relative à la redevance copie privée établie par le Ministère de la Culture. Pour consulter cette notice, [cliquez ici](https://www.legifrance.gouv.fr/jo_pdf.do?id=JORFTEXT000028539319).
 
-Certains produits vendus sur le Site sont soumis à redevance copie privée.
+ Certains produits vendus sur le Site sont soumis à redevance copie privée.
 
-   Pour connaître le détail des produits concernés ainsi que le barème des redevances applicables, nous vous invitons à consulter le site de Copie France ([https://www.copiefrance.fr/fr/](https://www.copiefrance.fr/fr/)).          
-
-        
+   Pour connaître le détail des produits concernés ainsi que le barème des redevances applicables, nous vous invitons à consulter le site de Copie France ([https://www.copiefrance.fr/fr/](https://www.copiefrance.fr/fr/)).                                               
 
 _Article 11 : FORCE MAJEURE_
 ----------------------------
@@ -1020,12 +1008,14 @@ _Article 14 : LITIGE, MEDIATION ET DROIT APPLICABLE_
 
 14.1 Pour toute réclamation, notre Service Client est à votre disposition.  
 
- 14.2 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Cdiscount adhère au Service du Médiateur de la consommation la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes :  Médiateur de la consommation FEVAD
+ 
+
+14.2 Conformément aux dispositions du Code de la consommation concernant le règlement amiable des litiges, Cdiscount adhère au Service du Médiateur de la consommation la FEVAD (Fédération du e-commerce et de la vente à distance) dont les coordonnées sont les suivantes :  Médiateur de la consommation FEVAD
 
 BP 20015 - 75362 PARIS CEDEX 8 - [https://www.mediateurfevad.fr](https://urldefense.com/v3/__https:/62021a2e94424da7995e2da9606a295b.svc.dynamics.com/t/t/7dYvfcxBDUAE9fNdxqL9eQadDF0pBN6nPEK9S9vBRQwx/uKgxLWVBK5mT1IHQWFMm3AawqxziTIrV9ZlxULrf0Okx__;!!HseEOGaABhuC!RyJyLDoHTwAjBuH4Vd7NU60H7UMLQFP52W6nEcaP8q_9d9V79N1_RW7r5vqlhSkp3Z4utKAuSvsgPkEpGEUVeA$ "https://www.mediateurfevad.fr/"). Après démarches préalables écrites des consommateurs vis-à-vis de Cdiscount, le Service du Médiateur peut être saisi pour tout litige de consommation dont le règlement n’aurait pas abouti. Pour connaître les modalités de saisine du Médiateur, [cliquer ici](https://urldefense.com/v3/__https:/62021a2e94424da7995e2da9606a295b.svc.dynamics.com/t/t/E6GqxjI5iv00wdanY60VFRHgGJUx78rpZ2MsGz46C1Ux/uKgxLWVBK5mT1IHQWFMm3AawqxziTIrV9ZlxULrf0Okx__;!!HseEOGaABhuC!RyJyLDoHTwAjBuH4Vd7NU60H7UMLQFP52W6nEcaP8q_9d9V79N1_RW7r5vqlhSkp3Z4utKAuSvsgPkGur6A3WQ$ "http://www.mediateurfevad.fr/index.php/espace-consommateur/").  
   
   
-14.3 La Commission européenne a mis en place une plateforme de résolution des litiges destinée à recueillir les éventuelles réclamations de consommateurs faisant suite à un achat en ligne afin de les transmettre ensuite aux médiateurs nationaux compétents. Cette plateforme est accessible [en cliquant ici](http://ec.europa.eu/consumers/odr/).  
+14.3 La Commission européenne a mis en place une plateforme de résolution des litiges destinée à recueillir les éventuelles réclamations de consommateurs faisant suite à un achat en ligne afin de les transmettre ensuite aux médiateurs nationaux compétents. Cette plateforme est accessible [en cliquant ici](http://ec.europa.eu/consumers/odr/).
 
 14.4 Sauf dispositions impératives contraires telles que découlant du Règlement CE n°593/2008 du 17 juin 2008 sur la loi applicable aux obligations contractuelles (Rome I), les présentes CGV sont soumises à la législation française.
 
@@ -1786,9 +1776,7 @@ Cdiscount se réserve le droit de résilier votre Abonnement pour motifs légiti
 _CONDITIONS GENERALES DE PRECOMMANDE JEUX VIDEOS - TELEPHONIE (uniquement pour la France métropolitaine)_
 ---------------------------------------------------------------------------------------------------------
 
-**  
-  
-ARTICLE 1 – CHAMP D’APPLICATION**  
+**ARTICLE 1 – CHAMP D’APPLICATION**  
   
   
 Les présentes conditions générales de précommande s’appliquent à toute commande passée à distance comprenant un ou plusieurs produits en précommande par une personne physique disposant de la capacité juridique et agissant à titre personnel en qualité de consommateur auprès de CDISCOUNT, soit directement sur le site internet de CDISCOUNT accessible à l’adresse suivante : www.cidscount.com, soit par l’intermédiaire d'une application CDISCOUNT pour smartphones ou tablettes (ci-après, ensemble le « Site »), soit par téléphone au 3979 (0.70cts€/ min + prix de l'appel).  
