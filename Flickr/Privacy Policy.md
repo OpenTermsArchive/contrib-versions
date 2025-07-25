@@ -3,7 +3,7 @@ Flickr Privacy Policy
 
 For SmugMug’s Privacy Policy click [here](https://www.smugmug.com/about/privacy/).
 
-Date of Last Revision: October 29, 2024
+Date of Last Revision: July 24, 2025
 
 Awes.me, Inc. d/b/a Awesome & Flickr, Inc. ("Flickr") is passionately committed to the privacy of our customers.
 
