@@ -1,7 +1,7 @@
 Google Business Profile Additional Terms of Service for Business Entities
 =========================================================================
 
-**Last modified:** 3 April 2024
+**Last modified:** 17 July 2025
 
 The Google Business Profile Services allow business entities to create and manage a business profile on Google ('Business Profile').
 
@@ -17,7 +17,7 @@ What we expect from you
 You’re responsible for the entity listed on your Business Profile. That means, in addition to following the basic rules of conduct in [the Google Terms of Service](https://policies.google.com/terms), you must, when using the Business Profile Services:
 
 * Comply with applicable laws and industry best practices when operating and promoting your entity, including obtaining all applicable licences and approvals.
-* Ensure that your content is correct, up to date and complete.
+* To improve your Business Profile's visibility on Google Search and Maps, ensure that all content is accurate, up-to-date and complete.
 * Supply all required disclaimers, warnings and notices (or if you rely on any supplied by Google, ensure their sufficiency for your entity).
 * Comply with the policies that apply to the Business Profile Services ('Policies'). [Learn more about Business Profile policies and guidelines](https://support.google.com/business/answer/7667250).
 
