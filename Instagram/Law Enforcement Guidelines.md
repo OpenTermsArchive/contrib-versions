@@ -28,8 +28,8 @@ Information to include
 
 All requests must be made with particularity, including the specific data categories requested and date limitations for the request, as well as:
 
-* The name of the issuing authority and agent, email address from a law enforcement domain, and a direct contact phone number.
-* The username of the Instagram account in question on the relevant date and details regarding specific information requested and its relationship to your investigation. Usernames are not static and we are unable to process requests that do not include the relevant date combined with the username.
+1. The name of the issuing authority and agent, email address from a law enforcement domain, and a direct contact phone number.
+2. The username of the Instagram account in question on the relevant date and details regarding specific information requested and its relationship to your investigation. Usernames are not static and we are unable to process requests that do not include the relevant date combined with the username.
 
 Emergency requests
 ------------------
