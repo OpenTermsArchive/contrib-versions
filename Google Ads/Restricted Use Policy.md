@@ -253,7 +253,6 @@ Advertisers have a responsibility not to promote content or engage in behavior t
 Need help?
 ----------
 
-  
 If you have questions about our policies, [contact Google Ads Support](https://support.google.com/google-ads/gethelp).
 
 Rate how helpful this page is and share your feedback with us below:
