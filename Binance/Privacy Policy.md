@@ -218,29 +218,4 @@ While retention requirements vary by jurisdiction, information about our typical
     
 * Contact Information such as your name, email address and telephone number for marketing purposes is retained on an ongoing basis and until you (a) unsubscribe, or we (b) delete your account. Thereafter we will add your details to an unsubscribed list to ensure we do not inadvertently market to you.
     
-* Content that you post on our website such as support desk comments, photographs, videos, blog posts, and other content may be kept after you close your account for audit and crime prevention purposes.
-    
-* Recording of voice calls with you may be kept for a period of up to six years, for audit/ compliance purposes and to resolve disputes and/or legal claims.
-    
-* Information collected via cookies, web page counters and other analytics tools is kept for a period of up to one year from the date of the collection of the cookie of the relevant cookie.
-    
-
-12\. Notices and Revisions
-
-If you have any concerns about privacy at Binance, please contact us, and we will try to resolve it. You also have the right to contact your local Data Protection Authority.
-
-Our business changes regularly, and our Privacy Notice may change also. You should check our websites frequently to see recent changes. We will update the “Last Updated” date accordingly at the beginning of this Privacy Notice. We will announce any material changes to this Privacy Notice on our Platform or by sending an email that you have provided under your account. Your continued use of Binance after the changes to this Privacy Notice means that you understand and agree to such changes. 
-
-Unless stated otherwise, our most recent  Privacy Notice applies to all information that we have about you and your account.
-
-13\. Languages
-
-This Privacy Policy may be published in different languages. In case of any discrepancy, this English version shall prevail. 
-
-14\. Contact Information
-
-Our data protection officer can be contacted [here](mailto:dpo@binance.com) and will work to address any questions or issues that you have with respect to the collection and processing of your personal data.
-
-If you have a question about your account management, or Binance products or services the Data Protection Officer will not be able to assist you. In that case, please contact our Customer Support team using the following [](http://www.binance.com/en/chat)[link](http://www.binance.com/en/chat).
-
-Please read the [FAQ](https://www.binance.com/en-GB/support/faq/how-to-delete-my-binance-account-f02c2640a1cd44e58de68e4a49d599f6) for further  information on how you can delete your account.
+* Content that you post on our website such as support desk comments, photographs, videos, blog posts, and other content may be kept after you close your account for au
