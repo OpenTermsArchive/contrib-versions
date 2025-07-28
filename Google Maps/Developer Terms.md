@@ -2760,7 +2760,7 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     72. **Worldwide**
         * Unicode Common Locale Data Repository © Unicode, Inc. ([https://www.unicode.org/copyright.html](https://www.unicode.org/copyright.html)). All rights reserved.
             
-        * © 2010 Europa Technologies
+        * © Europa Technologies Ltd. ([https://www.europa.uk.com/map-data/global/](https://www.europa.uk.com/map-data/global/))
             
         * © CNES / Airbus
             
