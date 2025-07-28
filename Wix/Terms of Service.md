@@ -1,7 +1,12 @@
+Wix has updated its General Terms of Use as of \[date of publication\].  
+If you created your account prior to \[date of publication\], the changes will be effective as of \[enter future date- ~ 2 weeks from publications\]. Learn More
+
 Wix.com Terms of Use
 ====================
 
 Last Revised: July 24, 2025
+
+[(Previous versio](https://www.wix.com/about/terms-of-use-dyn/prev-version)n)
 
 Welcome to Wix.com’s Terms of Use! We are truly excited to have you aboard. Thank you for choosing to use our services.
 
