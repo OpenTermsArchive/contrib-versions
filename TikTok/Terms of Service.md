@@ -4,8 +4,6 @@ Terms of Service
 
 **(These terms apply if you live or have your principal place of business in the European Economic Area, Switzerland or the UK)**
 
-_Our new Terms of Service come into effect on 25 July 2025. Click_ [here](https://www.tiktok.com/legal/terms-of-service-eea-archive) _to view our current Terms of Service and_ [here](https://www.tiktok.com/legal/learn-more-nov-eea) _for more details about what is changing._
-
 _Last updated: July 2025_
 
 Welcome to TikTok.
