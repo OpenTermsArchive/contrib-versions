@@ -1,9 +1,5 @@
 Virtual Items Policy
 
-_Our new Virtual Items Policy comes into effect on 25 July 2025. Click_ [here](https://www.tiktok.com/legal/coin-policy-eea-archive) _to view our current Coins Policy, which is being replaced by the Virtual Items Policy, and_ [here](https://www.tiktok.com/legal/learn-more-nov-eea) _for more details about what is changing._
-
-  
-
 _Last updated: July 2025_
 
   
