@@ -4,9 +4,9 @@ Associated Newspapers Ltd
 Privacy & Cookies Policy (the “Policy”)
 ---------------------------------------
 
-###### Last updated: 28 May 2025
+###### Last updated: 29 July 2025
 
-###### Previous version: 16 April 2025
+###### Previous version: 28 May 2025
 
 ### 1\. What is this Policy for?
 
@@ -20,13 +20,11 @@ Users in certain jurisdictions, such as residents of the United Kingdom, the Eur
 
 ### 2\. Who we are
 
-[dmg media](https://www.dmgmedia.co.uk/) is an international multi-channel media company which is home to some of the UK’s most popular brands, including the [**Daily Mail**](https://www.dmgmedia.co.uk/brands/daily-mail/), [**The Mail on Sunday**](https://www.dmgmedia.co.uk/brands/the-mail-on-sunday/), **[Daily Mail Australia](https://www.dailymail.co.uk/auhome/index.html)**, **[Mail+](https://www.dailymail.co.uk/mailplus/index.html)**, **[DailyMail+](https://www.dailymail.co.uk/mailplus/us/index.html)**, **[Mail+ Editions](https://www.mailplus.co.uk/)**, [**MailOnline**](https://www.dailymail.co.uk/home/index.html), [**MailOnline Ireland**](https://www.dmgmedia.ie/our-brands)**,** [**Irish Daily Mail**](https://www.dmgmedia.ie/our-brands)**,** [**The Irish Mail on Sunday**](https://www.dmgmedia.ie/our-brands)**,** [**Metro**](https://metro.co.uk/), [**This is Money**](https://www.dailymail.co.uk/money/index.html), [**You Magazine**](https://www.you.co.uk/), [**MyMail**](https://www.mymail.co.uk/home), [**MailPlus**](https://www.dailymailplus.co.uk/),  [**MailShop**](https://www.mailshop.co.uk/), [**MailWineClub**](https://www.mailwineclub.co.uk/), [**MailTravel**](https://www.mailtravel.co.uk/), [**MailFinance**](https://www.mailfinance.co.uk/), [**MailExperiences**](https://www.mailexperiences.co.uk/)**,** [**MailBookshop**](https://books.mailshop.co.uk/)**,** [**The Mail (Mail Subscriptions)**](https://www.mailsubscriptions.co.uk/), [**The i**](https://www.dmgmedia.co.uk/brands/i/), [**inews**](https://www.dmgmedia.co.uk/brands/inews-co-uk/) and **[Eliza](https://eliza.co.uk/)**.
+[dmg media](https://www.dmgmedia.co.uk/) is an international multi-channel media company which is home to some of the UK’s most popular brands, including the [**Daily Mail**](https://www.dmgmedia.co.uk/brands/daily-mail/), [**The Mail on Sunday**](https://www.dmgmedia.co.uk/brands/the-mail-on-sunday/),  [**DailyMail+,**](https://www.dailymail.co.uk/mailplus/index.html) [**DailyMail+ Editions**](https://www.mailplus.co.uk/newspaper)**,** [**Irish Daily Mail**](https://www.dmgmedia.ie/our-brands)**,** [**The Irish Mail on Sunday**](https://www.dmgmedia.ie/our-brands)**,** [**Metro**](https://metro.co.uk/)**,** [**This is Money**](https://www.dailymail.co.uk/money/index.html)**,** [**You Magazine**](https://www.you.co.uk/)**, Daily** [**Mail Rewards**](https://www.mailplus.co.uk/rewards)  [**Mail Shop**](https://www.mailshop.co.uk/)**,** [**Mail Wine Club**](https://www.mailwineclub.co.uk/)**,**  [**Mail Travel**](https://www.mailtravel.co.uk/)**,** [**Mail Finance**](https://www.mailfinance.co.uk/)**,**  [**Mail Bookshop**](https://books.mailshop.co.uk/)**,** [**Daily Mail (Mail Subscriptions)**](https://www.mailsubscriptions.co.uk/), [**The i Paper**](https://www.dmgmedia.co.uk/brands/i/), and [**Eliza**](https://eliza.co.uk/).
 
 These brands are all trading styles of **Associated Newspapers Ltd.** which is the controller of your personal data for the purposes of data protection law.
 
 These brands also share infrastructure, systems and technology and all fall under the data control of Associated Newspapers Ltd. These brands work together to understand how our users interact with our products and services, and to share insights to improve our products and services.
-
-If you are a MyMail member and have linked your account with your Nectar account, Associated Newspapers Ltd. and Nectar Loyalty Ltd. (“**Nectar**”) will each be data controllers of your personal data. Associated Newspapers Ltd will handle your personal data in accordance with this Policy and Nectar will handle your data in accordance with Nectar’s [Privacy Policy](https://www.nectar.com/about/privacy-and-legal/privacy-policy) and [Cookie Policy](https://www.nectar.com/about/privacy-and-legal/cookie-policy).
 
 If you engage with certain online bargains, discounts, last-minute vouchers, best buys and/or similar promotional offers (“**Offers**”) made available on our websites, or make use of the DailyMail Extras extension for desktop web browsers (“**Extension**”), we shall process your data as joint controllers with Atolls London Limited (“**Atolls**”) and its affiliate CupoNation GmbH, who assist GSG as a marketing partner. GSG will handle your data in accordance with its [Privacy Policy](https://global-savings-group.com/privacy-policy/) and CupoNation GmbH will handle your data in accordance with its [Privacy Policy](https://www.cuponation.com/privacy-policy/) and [Cookie Policy](https://www.cuponation.com/cookie-policy/).
 
@@ -84,7 +82,7 @@ When you comment on an article or otherwise post content via features that we ma
 
 #### Information about transactions made
 
-If you purchase anything or make any other financial transactions on any of our properties (e.g. on MailShop), we collect information about your purchase and ask for information including your name, email address and delivery address, to be forwarded on to the partners who are responsible for delivering your order. This may include payment information such as your credit/debit card number where we are engaging a third party to process payments on our behalf.
+If you purchase anything or make any other financial transactions on any of our properties (e.g. on Daily Mail Shop), we collect information about your purchase and ask for information including your name, email address and delivery address, to be forwarded on to the partners who are responsible for delivering your order. This may include payment information such as your credit/debit card number where we are engaging a third party to process payments on our behalf.
 
 #### Information from partners
 
@@ -94,7 +92,7 @@ We may overlay demographic and lifestyle data from CACI to help us understand wh
 
 #### Social media
 
-You can log-in to your account quickly by using your existing social media accounts, such as Facebook, X (f/k/a Twitter) or Google. When you choose this option, you are granting permission to such company to share your user information with us. This will include your name and email address plus any other information you have permitted them to share with third parties, and your account will be linked to your social media account. You can ask us to delete your personal data or de-link your account from your social media account by emailing dataprotection@dmgmedia.co.uk.
+You can log-in to your account quickly by using your existing social media accounts, such as Facebook, X (f/k/a Twitter), Apple or Google. When you choose this option, you are granting permission to such company to share your user information with us. This will include your name and email address plus any other information you have permitted them to share with third parties, and your account will be linked to your social media account. You can ask us to delete your personal data or de-link your account from your social media account by emailing dataprotection@dmgmedia.co.uk.
 
 We use plugins from social media networks and other platforms on our websites, that may allow you to share content with these networks/platforms or use their services on our websites. For more information, please see Section 7 of this Policy.
 
@@ -145,7 +143,7 @@ Our websites may provide functionality to comment on articles, as well as messag
 
 Use of our comments functionality and other services mentioned above is also subject to our Terms ([https://www.dailymail.co.uk/terms](https://www.dailymail.co.uk/terms)) and House Rules ([https://www.dailymail.co.uk/home/article-1388145/House-Rules.html](https://www.dailymail.co.uk/home/article-1388145/House-Rules.html)).
 
-We use a third-party service provider, OpenWeb Technologies Ltd, to provide some of these features and to moderate comments and content, but we remain the data controller in respect of this activity.
+We may use third-party service providers to provide some of these features and to moderate comments and content, but we remain the data controller in respect of this activity.
 
 ##### Legal basis for these processing activities: Legitimate interests (or consent if required)
 
@@ -317,11 +315,11 @@ Where we are required by law to collect your personal data, or we need to collec
 
 #### Sharing with third-party partners
 
-**Partners:** When you purchase goods or services from us, we partner with specialist companies (including payment companies) to fulfil your order and provide certain customer services. This includes vendors on MailShop who you may have bought something from and specialist companies who assist us in obtaining ratings and reviews of product(s) and/or service(s), namely, YouGarden, Clifford James Consultants Limited, KH Direct Ltd, and Aspire Furniture Ltd.
+**Partners:** When you purchase goods or services from us, we partner with specialist companies (including payment companies) to fulfil your order and provide certain customer services. This includes vendors on MailShop who you may have bought something from and specialist companies who assist us in obtaining ratings and reviews of product(s) and/or service(s), namely, YouGarden, KH Direct Ltd, Monwell Ltd and Aspire Furniture Ltd.
 
 We usually remain the data controller of your information and the other companies only process data under our instructions and cannot use the information for their own purposes. If one of our third-party partners acts as data controller of your personal data (whether or not as a data controller in common with us) we shall let you know before you register for the service.
 
-You can access the privacy policy of YouGarden [here](https://www.yougarden.com/privacy-policy.htm), Clifford James Consultants Limited [here](https://www.clifford-james.co.uk/privacy-policy), KH Direct Ltd [here](https://www.mailshopsofas.co.uk/help-and-info/privacy/), and Aspire Furniture Ltd. [here](https://aspirestore.co.uk/privacy-policy/).
+You can access the privacy policy of YouGarden [here](https://www.yougarden.com/privacy-policy.htm), KH Direct Ltd [here](https://www.mailshopsofas.co.uk/help-and-info/privacy/), Monwell Ltd [here](https://books.mailshop.co.uk/privacy-policy/) and Aspire Furniture Ltd. [here](https://aspirestore.co.uk/privacy-policy/).
 
 ##### Legal basis for processing this data: Contract
 
@@ -384,7 +382,7 @@ For further information from Facebook about:
 | --- | --- |
 | **Social Media Plugin** | **Privacy policy** |
 | Facebook Share Button<br><br>Facebook Messenger Share Button<br><br>Facebook Like Button | https://www.facebook.com/policy.php |
-| Twitter Share Button<br><br>Twitter Follow Button | https://twitter.com/en/privacy |
+| X (f/k/a Twitter) Share Button<br><br>X Follow Button | https://x.com/en/privacy |
 | Pinterest Share Button<br><br>Pinterest Follow Button | https://policy.pinterest.com/en-gb/privacy-policy |
 | Flipboard Share Button<br><br>Flipboard Follow Button | https://about.flipboard.com/privacy/ |
 | Instagram Follow Button | https://help.instagram.com/519522125107875 |
@@ -392,7 +390,7 @@ For further information from Facebook about:
 
 If you do not click on the respective buttons, no personal data will be collected and stored by the social media company.
 
-If you are logged onto to your Facebook, Twitter, Pinterest, Flipboard, Instagram or Snapchat account, certain user data (including your IP address at the time) may be collected and linked to your social media account information by the respective social media company.
+If you are logged onto to your Facebook, X (f/k/a Twitter), Pinterest, Flipboard, Instagram or Snapchat account, certain user data (including your IP address at the time) may be collected and linked to your social media account information by the respective social media company.
 
 We receive no personal data from the social media companies about which articles you have clicked or seen on our websites. However, we do receive summarised, aggregated statistical reports on the use of these plugins.
 
