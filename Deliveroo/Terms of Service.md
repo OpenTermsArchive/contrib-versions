@@ -403,7 +403,7 @@ Referral Program Terms
 4. We may discontinue the Referral Programme at any time. We will give advance notice of discontinuance on our Site. Voucher credit already applied to your account as a result of referrals will remain available for the period as stated in Clause 2 above, even if the Referral Programme is discontinued.
 5. Referral credits are Vouchers and are therefore subject to the above Voucher Terms and Conditions.
 6. You may receive Voucher credit for a maximum of 100 referrals. We reserve the right to change the maximum number of referrals for which Voucher credit is awarded at any time, though you will receive Voucher credit for any referral orders placed by your relatives or friends before the change.
-7. The Promoter is Deliveroo Ireland Limited, 15 Flemmings Place, Dublin 4, D0 P6W3.  
+7. The Promoter is Deliveroo Ireland Limited, 1-2 Victoria Buildings, Haddington Road Dublin 4 DUBLIN, Ireland.
 
 Deliveroo Plus Terms and Conditions
 -----------------------------------
