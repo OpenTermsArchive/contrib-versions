@@ -13,7 +13,7 @@ This Policy also tells you what your rights are in relation to the personal data
 
 * **Address**: IKEA, Customer Support Centre, Kingston Park, Peterborough, PE2 9ET, United Kingdom\*
 * **Phone**: 01 696 6246\*\*
-* **Email**: \[email protected\]
+* **Email**: dataprotection.officer.ie@ingka.ikea.com
 
 \*Note that if you contact us by post, international postage charges may apply 
 
