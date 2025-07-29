@@ -125,3 +125,9 @@ These service providers are categorized as follows:
 * Error analysis tool providers.
 
 _Last updated: 25.01.2022_
+
+Get started for free, or request a demo  
+to discuss larger projects
+--------------------------------------------------------------------
+
+[Contact sales](https://hygraph.com/contact)[Get started](https://app.hygraph.com/signup)
