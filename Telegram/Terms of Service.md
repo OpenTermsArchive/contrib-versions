@@ -397,6 +397,8 @@ Users whose publications were taken down in connection with the TCO Regulation c
 * by writing to EDSR at Avenue Huart Hamoir 71, 1030 Brussels, Belgium, or
 * by contacting the [@EURegulation](https://t.me/EURegulation) bot on Telegram and using the command `/tco_ask`.
 
+Requests can be accepted in English and French.
+
 #### [](#q-a-bot-or-channel-is-infringing-on-my-copyright-what-do-i-do)Q: A bot or channel is infringing on my copyright. What do I do?
 
 **Private groups and chats** on Telegram are private amongst their participants. We do not process any requests related to them. However, Telegram also supports **sticker sets**, **bots**, **channels** and **groups** that are _publicly available_.
