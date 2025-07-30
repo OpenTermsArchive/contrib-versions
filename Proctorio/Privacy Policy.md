@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-Hi there. Welcome to Proctorio's Privacy Policy. Privacy policies can be messy and complicated. But, at Proctorio, your privacy is important to us, which is why we have tried to unscramble the legal jargon to provide one comprehensive spot to provide information to you about our privacy practices.
+Welcome to Proctorio's Privacy Policy. We've simplified things here to ensure your privacy is clear and easy to understand. This is your one-stop source for information about our privacy practices.
 
 Read our Privacy Policy
 -----------------------
@@ -12,7 +12,7 @@ To read the Policy, choose one of the options below:
 
 ### Customized Policy
 
-You can customize the Policy to only see the portions that apply to you. Just choose from the options below:
+You can filter the Policy to only see the portions that apply to you. Just choose from the options below:
 
 #### Where is your institution located?
 
