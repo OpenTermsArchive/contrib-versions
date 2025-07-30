@@ -28,7 +28,7 @@ Disruption and Circumvention
 Wrongful Activities
 -------------------
 
-* **Violations of Law**. Do not use our services for any illegal purpose or in violation of any laws, including, without limitation, EU, UK, and Swiss Data Protection Laws, the US Foreign Corrupt Practices Act of 1977, as amended, the UK Bribery Act of 2010, or any additional applicable anti-bribery, anti-corruption, anti-money laundering law, or other law. Grammarly may cooperate with law enforcement, including cases when we believe there's a risk of threat to public safety, and Grammarly maintains a zero-tolerance policy for the following types of content:  
+* **Violations of Law**. Do not use our services for any illegal purpose or in violation of any laws, including, without limitation, EU, UK, and Swiss Data Protection Laws, the US Foreign Corrupt Practices Act of 1977, as amended, the UK Bribery Act of 2010, or any additional applicable anti-bribery, anti-corruption, anti-money laundering law, the European Union Artificial Intelligence Act, or other law. Grammarly may cooperate with law enforcement, including cases when we believe there's a risk of threat to public safety, and Grammarly maintains a zero-tolerance policy for the following types of content:  
     * Child sexual exploitation  
         
     * Posting or threatening to post intimate images of others  
@@ -47,11 +47,17 @@ Wrongful Activities
     
 * **Access for Third Parties**. Do not access or use our services for the benefit of any third party unless you are an authorized reseller and are doing so for a legitimate business purpose. Do not sell, resell, or lease our services or purport to grant any rights under our terms of service to third parties.  
     
-* **Impersonation and Misrepresentation**. Do not impersonate any person or entity or falsely state or otherwise misrepresent your affiliation with a person or entity. Do not transmit or upload potentially harmful or deceptive misinformation.  
+* **Impersonation and Misrepresentation**. Do not impersonate any person or entity or falsely state or otherwise misrepresent your affiliation with a person or entity. Do not transmit or upload potentially harmful or deceptive misinformation. Do not use the services to deceive anyone into thinking any AI-generated content was created by a human or engage in or promote academic dishonesty.  
     
 * **Unauthorized Personal Use**. For members of Grammarly Business and Grammarly for Education team accounts only: do not establish an account for our services as an individual for personal, family, or household purposes.  
     
 * **Harassment and Abuse**. Do not harass or abuse Grammarly personnel representatives, or agents performing services on behalf of Grammarly. Do not defame others or promote violence or hatred against others. This includes content that promotes discrimination, violence, or intolerance on the basis of race, ethnicity, national origin, religion, disability, disease, age, sexual orientation, gender, or gender identity. Hateful text, images, symbols, or other such content is not permitted in your username, profile, bio, or docs. Do not bully or share non-consensual images or deepfakes.  
+    
+* **Political Process.** Do not use any of our artificial intelligence offerings and features to engage in political campaigning or lobbying, including generating campaign materials to influence a political process, or to interfere with participation in electoral, democratic or civic processes.  
+    
+* **Legal, Medical, or Financial Advice.** If you are using the services to provide legal, medical, or financial advice, you must ensure that the final decision complies with all applicable laws related to such use, including any requirements that the content is reviewed by a qualified professional in the field, special audits and testing, consent, notice, or disclosure.  
+    
+* **Automated Decisions.** Do not use the services to make automated decisions with legal or similarly significant effects, including in any domains that may affect an individual’s rights, safety, health or well-being (for example, in the domains of finance, credit, insurance, employment, housing, education, essential services, healthcare, law or law enforcement, migration, management of critical infrastructure, judicial proceedings or social scoring). You must implement appropriate human oversight and safeguards to mitigate potential risks associated with your use of the service and remain responsible for all decisions made, advice given, actions taken, and failures to take action based on your use of the services.  
     
 
   
