@@ -662,7 +662,7 @@ In its decision to suspend the Account, HAPPN will consider the seriousness of t
 
 The Member is invited to contact HAPPN customer service by email in order to obtain more information on the reasons for the suspension and in order to provide explanations and/or bring the proof that the breach has been remediated. Members may also turn to the internal complaints handling system set up by HAPPN.
 
-If within 30 days following the notification of the account suspension, the Member has not contacted HAPPN customer service, or if the elements given by the Members did not help to remedy the breach, HAPPN will be entitled to notify the Member of termination of his or Account via the Application and/or by email and inform the Member of the period in which he or she cannot re-register for the Application.  Unless stated otherwise, the duration of such removal is set at 1 year from the notification of termination of the Account.
+If within 30 days following the notification of the account suspension, the Member has not contacted HAPPN customer service, or if the elements given by the Members did not help to remedy the breach, HAPPN will be entitled to notify the Member of termination of his or Account via the Application and/or by email and inform the Member of the period in which he or she cannot re-register for the Application.  Unless stated otherwise, the duration of such removal is set at 2 years from the notification of termination of the Account.
 
 Upon Termination of the Account:
 
@@ -670,7 +670,7 @@ Upon Termination of the Account:
 
 • The remaining SuperCrushs or Boosts, in the Member’s Account on the day the Account is terminated shall be definitively deleted without the possibility to claim any reimbursement.
 
-The Member will not be able to create another account for a maximum 1-year period from the notification of the Account termination. 
+The Member will not be able to create another account for a maximum 2-years period from the notification of the Account termination. 
 
 14.5 Termination of Inactive Accounts by HAPPN
 ----------------------------------------------
