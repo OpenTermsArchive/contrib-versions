@@ -450,6 +450,7 @@ Supplementary Provisions
 Revisions
 ---------
 
+* July 31, 2025: "Collection Feature Individual Terms of Use" and "Collection Feature Guidelines" were added to "Article 2. Individual Agreements etc.", Table 1.
 * December 9, 2024: pixiv Novel was removed from "Article 2. Individual Agreements etc.", Table 1. "Article 24. Disclaimers", Section 2 was revised.
 * August 1, 2024: "Article 19: Use Fees" was updated, and "Article 19-2: Payment Procedures" was added.
 * April 25, 2024: “Article 2, Individual Agreements etc.”, Section 5 have been amended. “Article 7, Account Registration”, Section 4 added.
@@ -983,6 +984,85 @@ The Company and third parties entrusted by the Company which agreed with the Com
 Please be advised that the enquiries on the information obtained for the purpose above shall be sent to the contact below.  
 [https://www.pixiv.net/support.php?mode=inquiry&service=pixiv&type=28](https://www.pixiv.net/support.php?mode=inquiry&service=pixiv&type=28)
 
+Collection Feature Individual Terms of Use
+==========================================
+
+Article 1: Introduction
+-----------------------
+
+1. These Collection Feature Individual Terms of Use (“Collection Feature Individual Terms of Use”) are the individual terms for the “Collection Feature (Beta)” (“Feature”), which is a feature in the “pixiv” service provided by the Company.
+2. The Feature is a Beta Version, and its provision is limited to certain Users. Therefore, until the official release, the only Users who are permitted to create Collections (as defined in the following Article) based on the Feature are Users designated by the Company. Moreover, the provisions of this paragraph do not guarantee that the Company will officially release the Feature.
+3. By using the “pixiv” service, Users shall be deemed to have consented to all of the particulars set forth in these Collection Feature Individual Terms of Use.
+4. Any matters not specified in these Collection Feature Individual Terms of Use shall be governed by the Master Terms of Use. In the case of any discrepancy between these Collection Feature Individual Terms of Use and the Master Terms of Use, the Collection Feature Individual Terms of Use shall apply preferentially over the Master Terms of Use.
+
+Article 2: Definitions
+----------------------
+
+The terms used in these Collection Feature Individual Terms of Use shall have the meanings ascribed to them in the following items. Unless otherwise noted, terms used in these Collection Feature Individual Terms of Use other than those defined below shall have the meanings prescribed in the Master Terms of Use.
+
+1. “Service” means the “pixiv” service provided by the Company.
+2. “Illustrations” means Posted Information posted by Users by selecting “Illustration” when posting their Works.
+3. “Ugoira“ means Posted Information posted by Users by selecting “Ugoira” when posting their Works.
+4. “Manga” means Posted Information posted by Users by selecting “Manga” when posting their Works.
+5. “Novels” means Posted Information posted by Users by selecting “Novel” when posting their Works.
+6. “Works” collectively mean Illustrations, Ugoira, Manga, and Novels.
+7. “Collection Feature” means a feature that allows Users to create a Collection consisting of Works that have been posted etc. on the Service (whether they are Works posted by Users themselves or those posted by other Users), website URLs, and text information created by Users themselves, and then publish the Collection on the Service.
+8. “Collection” means an aggregation of Works, website URLs, and text information created by Users themselves collected by the Collection Feature. Works eligible to be included in Collections are subject to the Collection Feature Guidelines.
+9. “Collected Works” means Works posted in a Collection.
+10. “Licensor” means a person who has posted their own Work on the Service in a case where that Work has become a Collected Work of another User.
+11. “Novel Text Quote” means an excerpt of only part of the main text of a “Novel” among Collected Works, and the feature on the Service for making a Novel Text Quote is referred to as the “Novel Text Quote Feature”.
+
+Article 3: Creation of Collections
+----------------------------------
+
+1. By using the Collection Feature, Users can create a Collection and publish it on the Service. Article 14, Paragraph 2 of the Master Terms of Use shall not apply to Collections created in accordance with this Article 3.
+2. Works that Users can add to their Collections shall be limited to Works that Licensors have allowed to be added to Collections.
+3. Users shall create Collections in accordance with the rules and guidelines set forth by the Company.
+4. With regard to Novels, Users are entitled to add Novel Text Quotes to a Collection only of Works that Licensors have allowed to become Collected Works.
+5. When making a Novel Text Quote under the preceding item, Users shall make the Novel Text Quote in accordance with the rules and guidelines set forth by the Company, as well as with these Individual Terms of Use.
+6. Users shall consent in advance that even after they have published a Collection on the Service, Licensors can withdraw permission for their Works to be used as Collected Works.
+7. Users may not edit the content of a Collection after publishing the Collection. This shall not apply to making the Collection private or deletion of the Collection.
+8. In creating a Collection, Users shall respect Licensors, and may not create a Collection that would damage a Licensor’s honor, social reputation, or credibility.
+
+Article 4: Making Novel Text Quotes
+-----------------------------------
+
+1. When adding a Novel that a Licensor has allowed to become a Collected Work to a Collection, Users are entitled to make a Novel Text Quote freely from the main text of the Novel.
+2. In making any Novel Text Quotes, Users must use the Novel Text Quote Feature, and may not make a Novel Text Quote in any other way (for example, by excerpting the main text as text information).
+
+Article 5: Publishing Collections
+---------------------------------
+
+Users are entitled to publish Collections created by themselves on the Service. Furthermore, Users can post the Collection’s URL on SNS etc. In this case, the Collected Works included in the Collection or any parts of them may be displayed on such SNS.
+
+Article 6: Control by Licensors
+-------------------------------
+
+1. Licensors are entitled to control whether to allow or not allow their Works to be used as Collected Works.
+2. Licensors shall consent in advance that the control set forth in the preceding paragraph is set by default to allow their Works to be used as Collected Works.
+3. Licensors shall consent in advance that in cases where, as a result of the control specified in Paragraph 1, they have allowed their Works to be used as Collected Works, if the URL of a Collection including such Collected Works is posted on any websites other than the Service or on an SNS, such Collected Works may be displayed, and that this displaying may mean in some cases that only parts of such Collected Works are displayed, and Licensors shall grant the rights necessary for such display to the User who created the Collection.
+4. Licensors are entitled to change the control in Paragraph 1 at any time.
+5. Licensors are entitled to terminate the posting of any Collected Works that have already been published as a Collection, either individually or collectively, by following the procedures prescribed by the Company.
+
+Article 7: Copyright
+--------------------
+
+1. The copyright of a Collected Work collected by a User is the sole property of the Licensor, and Users are entitled to use Collected Works to the extent permitted herein.
+2. When a User creates a Collection, the copyright associated with any newly created texts and the compilation copyright associated with the Collection shall belong to the User.
+3. Users shall not exercise moral rights of the author against the Company with respect to the copyright and compilation copyright arising under the preceding paragraph.
+
+Article 8: Prohibitions
+-----------------------
+
+1. Users must not engage in any of the following conduct when using the Collection Feature.
+    1. Creating a Collection that is determined to defame Licensors;
+    2. Creating a Collection in a manner that damages a Licensor’s honor, social reputation, or credibility;
+    3. Creating a Collection in which some portion of a Novel is stated in text information;
+    4. Creating a Collection in a way that deviates from the provisions of the Collection Feature Guidelines set forth by the Company;
+    5. Creating a Collection including a Work or information that violates the Master Terms of Use and the pixiv Guidelines; or
+    6. Otherwise creating a Collection that the Company considers inappropriate, as set forth in the Collection Feature Guidelines.
+2. If the Company judges that a Collection falls under or is likely to fall under any of the items of the preceding paragraph, the Company is entitled to make such Collection private at any time, and to restrict the breaching User from using the Collection Feature or suspend their account.
+
 Supplemental Provisions
 -----------------------
 
@@ -991,10 +1071,11 @@ Supplemental Provisions
 Revision
 --------
 
-* April 25, 2024 “INTRODUCTION”, Section 6 was updated.
-* August 31st, 2023 “Article 8: Payment of Sale Proceeds to Creators” was updated.
-* May 31, 2021 "Article 2: Definitions", "Article 5: Formation of Request Agreements" and "Article 8: Payment of Sale Proceeds to Creators" were modified.
-* May 13, 2021 In order to ease the communication between creators and fans, Articles 11.1 and 16 have been added.
+* July 31, 2025:“Collection Feature Individual Terms of Use” was added.
+* April 25, 2024:“INTRODUCTION”, Section 6 was updated.
+* August 31st, 2023:In the Requests Feature Individual Terms of Service,“Article 8: Payment of Sale Proceeds to Creators” was updated.
+* May 31, 2021: In the Requests Feature Individual Terms of Service, "Article 2: Definitions", "Article 5: Formation of Request Agreements" and "Article 8: Payment of Sale Proceeds to Creators" were modified.
+* May 13, 2021: In order to ease the communication between creators and fans, Articles 11.1 and 16 have been added to the Requests Feature Individual Terms of Service.
 
 pixivFANBOX
 ===========
