@@ -1,4 +1,4 @@
-Effective as of March 14, 2025 | Posted: March 17, 2025
+Effective as of July 30, 2025 | Posted: July 30, 2025
 
 Grammarly Acceptable Use Policy
 -------------------------------
