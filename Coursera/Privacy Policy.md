@@ -5,7 +5,7 @@ Privacy Notice
 
 * * *
 
-_Effective: January 1, 2025._
+_Effective: July 30, 2025._
 
 Key Information
 ---------------
@@ -178,12 +178,3 @@ Contact Us
 ----------
 
 Please contact us with any questions or comments about this DPF Notice, transfer of your Personal Data from the EEA, UK or Switzerland to the U.S., our privacy practices, or your consent choices by email at [privacy@coursera.org](mailto:privacy@coursera.org).
-
-* * *
-
-Revisions
-=========
-
-* * *
-
-Below is a list of all the revisions made to our Privacy Notice, with links to view the difference between each revision.
