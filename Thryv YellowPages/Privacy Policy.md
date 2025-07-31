@@ -1,12 +1,12 @@
 Privacy Notice
 ==============
 
-Thryv, Inc. and its affiliates and subsidiaries (individually and collectively known as “Thryv”) respect your right to privacy, and we want you to be aware of how we collect and handle information. This policy applies to our handling of information on each website and mobile application on which we provide this Privacy Policy.
+Thryv, Inc. and its affiliates and subsidiaries (individually and collectively known as “**Thryv**”) respect your right to privacy, and we want you to be aware of how we collect and handle information. This policy applies to our handling of information on each website and mobile application on which we provide this Privacy Policy.
 
 Privacy Notice
 ==============
 
-Thryv, Inc. and its affiliates and subsidiaries (individually and collectively known as “Thryv”) respect your right to privacy, and we want you to be aware of how we collect and handle information. This policy applies to our handling of information on each website and mobile application on which we provide this Privacy Policy.
+Thryv, Inc. and its affiliates and subsidiaries (individually and collectively known as “**Thryv**”) respect your right to privacy, and we want you to be aware of how we collect and handle information. This policy applies to our handling of information on each website and mobile application on which we provide this Privacy Policy.
 
 **Revised: November 26, 2024**
 
