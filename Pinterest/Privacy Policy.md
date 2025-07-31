@@ -1,7 +1,7 @@
-Privacy Policy
+Privacy Policy | Pinterest Policy
 
 
-==================
+=====================================
 
 Table of Contents
 
