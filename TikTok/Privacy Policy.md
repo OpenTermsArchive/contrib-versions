@@ -353,7 +353,8 @@ We may amend or update this Privacy Policy from time to time. We will notify you
 
 You can contact us about this Privacy Policy through our [webform](https://www.tiktok.com/legal/report/privacy). You can reach TikTok's Data Protection Officer [here](https://www.tiktok.com/legal/report/DPO).
 
-You can also contact us at the following postal address.
+You can also contact us at the following postal addresses:
 
 * **For users in the European Economic Area and Switzerland**: TikTok Technology Limited, The Sorting Office, Ropemaker Place, Dublin 2, Dublin, D02 HD23, Ireland.
 * **For users in the United Kingdom**: TikTok Information Technologies UK Limited, Kaleidoscope, 4 Lindsey Street, London, EC1A 9HP, United Kingdom.
+* **For users in Switzerland, our appointed representative is:** TikTok Switzerland GmbH, Talacker 41, 8001, Zürich, Switzerland.
