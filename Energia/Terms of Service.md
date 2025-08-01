@@ -690,3 +690,15 @@ General Social Compeition: Energia's decision regarding prize winners will be fi
 35\. Download all Terms and Conditions
 
 You can download all Terms & Conditions [here.](https://www.energia.ie/getattachment/c17c13d4-4322-425a-ac32-768974c4396f/5366-Energia-Domestic-Terms-and-Conditions-Nov-21.pdf?lang=en-GB)
+
+#### 
+
+36\. Energia Rugby Competition
+
+* Competition entrants must be over 18, _or have the permission of a guardian to enter._  
+* By entering this competition, you consent for Energia to use all content for promotional purposes.
+* All entries will be put into a draw will be drawn at random.
+* The winners will be contacted by Legacy Communications, by email on **Friday, 22nd August 2025**
+* The prizes, _of tickets to the Vodafone Women’s Interpro Finals Day and signed Irish Rugby jersey_, cannot be exchanged for any monetary value or any other prize option
+* By entering our competition and agreeing to these terms and conditions, you are giving Energia permission to publish your name if you are to win any prize.
+* Energia excludes liability, to the fullest extent permitted by law, for any loss or damage caused to the winner arising out of the prize.
