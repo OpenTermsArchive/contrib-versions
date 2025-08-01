@@ -274,7 +274,7 @@ WE ARE NOT MAKING ANY PROMISES OF ANY KIND, INCLUDING ABOUT THE APP’S AND CONT
 
 If you use a VPN, we can’t guarantee Spark will work properly. The quality of the performance via VPN solely relies on the servers of the VPN network.
 
-We provide email-based support in English, Russian and Ukrainian 7 days a week (from Monday till Friday: from 9 AM to 11:30 PM (GMT+3); from Saturday to Sunday: from 9 AM to 6 PM (GMT+3)). Please use our [Help Center](https://sparkmailapp.com/help) or contact [support@sparkmailapp.com](mailto:support@sparkmailapp.com), if you have any problems with the App functioning. If you subscribed to the Premium plan, your requests will be considered a priority.
+We provide email-based support 7 days a week (from Monday till Friday: from 9 AM to 11:30 PM (GMT+3); from Saturday to Sunday: from 9 AM to 6 PM (GMT+3)). Please use our [Help Center](https://sparkmailapp.com/help) or contact [support@sparkmailapp.com](mailto:support@sparkmailapp.com), if you have any problems with the App functioning. If you subscribed to the Premium plan, your requests will be considered a priority.
 
 Limitation of Liability
 -----------------------
