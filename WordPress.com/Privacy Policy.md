@@ -19,7 +19,7 @@ This Privacy Policy applies to information that we collect about you when you us
 
 * Our websites (including automattic.com, wordpress.com, jetpack.com, woocommerce.com, crowdsignal.com, gravatar.com, intensedebate.com, vaultpress.com, akismet.com, simplenote.com, simperium.com, leandomainsearch.com, cloudup.com, longreads.com, atavist.com, mailpoet.com, automatewoo.com, jetpackcrm.com, happy.tools, wpcourses.com, wpscan.com, newspack.pub, and wp.cloud);
 * Our mobile applications (including the WordPress mobile app for Android and iOS);
-* Our other Automattic products, services, and features that are available on or through our websites (for example, WordPress.com plans, the Payments feature, the Pay with PayPal block, WordPress.com, Jetpack, Woo Shipping, Woo Tax, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, Cloudup, Longreads, MailPoet, AutomateWoo, Jetpack CRM, Happy Tools, WordPress.com Courses, WPScan and Newspack); and
+* Our other Automattic products, services, and features that are available on or through our websites (for example, WordPress.com plans, the Payments feature, the Pay with PayPal block, WordPress.com, Jetpack, Woo Shipping, Woo Tax, Gravatar, the IntenseDebate comment management system, Akismet plans, Simplenote, Simperium, Cloudup, Longreads, MailPoet, AutomateWoo, Jetpack CRM, Happy Tools, WordPress.com Courses, WPScan, Newspack, and WP Cloud); and
 * Other users’ websites that use our Services, while you are logged in to your account with us.
 
 This Privacy Policy also applies to information we collect when you apply for a job at Automattic or one of our subsidiaries.
