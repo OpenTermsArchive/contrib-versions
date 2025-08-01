@@ -1,7 +1,7 @@
 Apple Privacy Policy
 ====================
 
-### Updated January 31, 2025
+### Updated July 30, 2025
 
 Apple’s Privacy Policy describes how Apple collects, uses, and shares your personal data.
 
@@ -190,12 +190,7 @@ You can familiarize yourself with our privacy practices, accessible via the head
     
     Personal data collected by [Apple or an Apple-affiliated company](https://www.apple.com/legal/privacy/en-ww/affiliated-company/) worldwide is generally stored by Apple Inc. in the United States. Regardless of where your personal data is stored, Apple maintains the same high level of protection and safeguarding measures.
     
-    Apple’s privacy practices, as described in this Privacy Policy, comply with the Global Cross-Border Privacy Rules (CBPRs) System and the Global Privacy Recognition for Processors (PRP) System. For more information about the Global CBPR and PRP Systems, visit [Global CBPR Forum](https://www.globalcbpr.org/). To view our certifications, visit [CBPR System Compliance Directory](https://cbprs.org/). For more information about the scope of our participation, or to submit a privacy inquiry through [BBB National Programs](https://bbbprograms.org/programs/all-programs/GlobalPrivacyDivision/gpd-complaints-portal), our Accountability Agent, visit:
-    
-    * [Cross-Border Privacy Rules Program](https://privacyseals.bbbprograms.org/seal/Confirmation/1114171343)
-        
-    * [Privacy Recognition for Processors Program](https://privacyseals.bbbprograms.org/seal/Confirmation/195838664)
-        
+    Apple’s privacy practices, as described in this Privacy Policy, comply with the Global Cross-Border Privacy Rules (CBPR) System and the Global Privacy Recognition for Processors (PRP) System. For more information about the Global CBPR and PRP Systems, visit [Global CBPR Forum](https://www.globalcbpr.org/). To view our certifications, visit [Global CBPR System Directory](https://www.globalcbpr.org/privacy-certifications/directory/). For more information about the scope of our participation, or to [submit a privacy inquiry through BBB National Programs](https://bbbprograms.org/programs/all-programs/GlobalPrivacyDivision/gpd-complaints-portal), our Accountability Agent, click the official seals below.
     
     Personal data relating to individuals in the People’s Republic of China may be processed by Apple in countries outside of the People’s Republic of China, such as Apple Inc. in the United States or Apple Distribution International Limited in the Republic of Ireland. Where this occurs, it will be done in compliance with local laws, including the Personal Information Protection Law. For the purposes of processing set out in this Privacy Policy, Apple may also transfer such personal data to third-party service providers, who may in turn store or transfer the data outside of the People’s Republic of China. For more information, visit [China Mainland Privacy Disclosures](https://www.apple.com.cn/legal/privacy/disclosure/).
     
@@ -216,8 +211,3 @@ You can familiarize yourself with our privacy practices, accessible via the head
     You may at any time — including if you are not satisfied with Apple’s response — refer your complaint to the applicable regulator. If you ask us, we will endeavor to provide you with information about relevant complaint avenues which may be applicable to your circumstances.
     
     When there is a material change to this Privacy Policy, we’ll post a notice on this website at least a week in advance of doing so and contact you directly about the change if we have your data on file.
-    
-
-[View our CBPR certification](https://privacyseals.bbbprograms.org/seal/Confirmation/1114171343)
-
-[View our PRP certification](https://privacyseals.bbbprograms.org/seal/Confirmation/195838664)
