@@ -20,7 +20,7 @@ It does not apply to information collected by:
 * Use offline or a different means (including on any other website) operated by the Company or any third party; or
 * Any third-party (including our affiliates and subsidiaries), including through any application or content (including advertising) that may link to or be accessible from or on the Service.
 
-Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it.  If you do not agree with our policies and practices, your choice is not to use our Service.  By accessing or using our Service, you agree to this privacy policy.  This policy may change from time to time (_see_ [Changes to Our Privacy Policy](http://%5Cl%20%22SD_ChangesPrivacyPolicy%22)).  Your continued use of this Service after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it.  If you do not agree with our policies and practices, your choice is not to use our Service.  By accessing or using our Service, you agree to this privacy policy.  This policy may change from time to time (_see_ [Changes to Our Privacy Policy](https://%5Cl%20%22SD_ChangesPrivacyPolicy%22)).  Your continued use of this Service after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates.
 
 **Children Under the Age of 13**
 
