@@ -1,76 +1,101 @@
-The first rule of copyright
----------------------------
+Copyright
+=========
 
-Creators should only upload videos that they have made or that they're authorised to use. That means that they should not upload videos that they didn't make, or use content in their videos that someone else owns the copyright to, such as music tracks, snippets of copyrighted programmes or videos made by other users, without necessary authorisations.
+YouTube is designed to ensure that every player in our ecosystem can be successful.
 
-What are copyright exceptions?
-------------------------------
+This includes both protecting rightsholders and giving creators peace of mind so that they can focus on producing original content.
 
-Copyright exceptions are laws that allow you to reuse someone else's copyright-protected material without getting their permission, but only under certain circumstances.
+JUMP TO A SECTION ![JUMP TO A SECTION icon](/howyoutubeworks/static/images/arrow_drop_dow_black.svg)
 
-In the US, the most widely known copyright exception is fair use. When deciding whether a use is fair, courts look at four factors: the purpose and character of the use, the nature of the copyrighted work, the amount and substantiality of the portion used in relation to the copyrighted work as a whole, and the effect of the use upon the potential market for or value of the copyrighted work. Some activities that may qualify as fair use include criticism, commentary and news reporting. Fair use aims to promote freedom of expression.
+Copyright protection tools Copyright claims appeals
 
-In some civil law countries, including many in the EU, more limited exceptions are recognised where the reuse must fall within specific categories, instead of having factors that are weighed. The categories set out in Article 17 of the EU Digital Single Market copyright directive are quotation, criticism, review, caricature, parody and pastiche. These words have their usual meaning in everyday language, but are also enacted into law by each member state and interpreted by both national courts and the Court of Justice of the European Union (CJEU). It is also important to consider the context of the use, and the purpose of such copyright exceptions, one of which is to balance creators' freedom of expression, and rightsholders' copyright.
+![JUMP TO A SECTION icon](/howyoutubeworks/static/images/arrow_drop_dow_black.svg) JUMP TO A SECTION Copyright
 
-In some countries, such as Canada, the UK and Australia, a hybrid concept of fair dealing exists. Courts weigh factors similar to those in fair use, but reuses must fall within specific categories. These categories include quotation (general quotation, and quotation for the purposes of criticism, review or news reporting), caricature, parody and pastiche.
+Copyright protection tools Copyright claims appeals
 
-Most countries in the world have signed an international treaty known as the Berne Convention, which allows reuses in specific categories, including for quotation, and news reporting.
+How YouTube’s Copyright Protection Tools work
+---------------------------------------------
 
-While there are some similarities regarding copyright exceptions across the globe, there are still considerable differences between the laws of each country. There's no one-size-fits-all answer as to whether a reuse falls within copyright exceptions, and the courts decide the applicability of such exceptions on a case-by-case basis.
+We've invested millions of dollars in developing a Copyright Management Suite that's designed to balance the needs of our entire ecosystem — and we have clear rules when it comes to copyright.
 
-At YouTube, our mission is to give everyone a voice and show them the world. Copyright exceptions play a key role in furthering this mission by supporting the free flow of ideas and creativity. Therefore, we ask rightsholders to consider the applicability of copyright exceptions before they submit copyright removal requests. We believe that this would strike a balance between respecting the copyright of rightsholders, and creators' freedom of expression that may be protected by copyright exceptions.
+YouTube has worked directly with rightsholders to ensure that copyrighted material on our platform is authorised, and that we provide those robust tools to allow rightsholders to notify YouTube of alleged infringement, which we remove in accordance with the law. There are three main tools that make up our Copyright Management Suite:
 
-In addition, we build products that empower creators to access, create and share information like never before. We've created an [Audio Library](https://support.google.com/youtube/answer/3376882) for you to discover free high-quality music and sound effects that you can reuse safely. Now with YouTube Shorts, you can [create short videos sampling someone else's content](https://support.google.com/youtube/answer/10623810), provided that they have given you permission to do so. We're also continuing to build and expand [Creator Music](https://support.google.com/youtubecreatormusic), which lets creators in the YouTube Partner programme safely use commercial music by licensing tracks or sharing their video revenue with music rights holders.
-
-Resources
-
-* [Learn more about fair use](https://support.google.com/youtube/answer/9783148?hl=en)
+* Webform
+    
+    **Who is it for?**
+    
+    Available in more than 80 languages, all rightsholders have access to the webform, which we've built as a streamlined and efficient way to submit copyright removal requests.
+    
+    **What does it do?**
+    
+    Rightsholders enter a few details of their request, which is then reviewed by YouTube to see if it meets the legal requirements for removing the reported content.
+    
+    Rightsholders have access to powerful features, including the ability to ask YouTube to automatically prevent copies of the removed content from being reuploaded.
+    
+* Copyright Match Tool
+    
+    **Who's it for?**
+    
+    It helps creators and rightsholders to protect their content by automatically finding videos that are the same or very similar to ones previously uploaded.
+    
+    **What does it do?**
+    
+    If a match is found, the creator or the rightsholder is notified. They can then review the video that potentially reused their content and decide whether to request the video's removal.
+    
+* Content ID
+    
+    **Who's it for?**
+    
+    Rightsholders who have the most complex rights management needs and experience heavy reposting of copyrighted material, like film studios and music labels.
+    
+    **What does it do?**
+    
+    Rightsholders can pre-determine rules for when content matches are found, choosing to block a whole video from being viewed, monetise the video by running ads against it or track the video's viewership stats.
     
 
-How can rightsholders make copyright claims?
---------------------------------------------
+![Webform image](https://kstatic.googleusercontent.com/files/0f126b763c36f42707ff66571ddcafdbf66a88bc199c41026fe814e0b4ad34493441d1f16733a804b36da2b32f627440fae6056536983b98e19f7ae526e67d46=w1080)
 
-Everyone has access to YouTube's Copyright Management tools, which give rightsholders control of their copyrighted material on YouTube. We work with rightsholders to match them to appropriate features based on the scale of their copyrighted content on YouTube and the resources that they've dedicated to responsibly managing their content online. Our Copyright Management Suite provides a number of ways for rightsholders to make copyright claims.
+![Webform image](https://kstatic.googleusercontent.com/files/0f126b763c36f42707ff66571ddcafdbf66a88bc199c41026fe814e0b4ad34493441d1f16733a804b36da2b32f627440fae6056536983b98e19f7ae526e67d46=w1080)
 
-Webform
--------
+### Webform
 
-The simplest way to have unauthorised copies of copyrighted content removed is by manually submitting a copyright notification through our [DMCA (Digital Millennium Copyright Act) webform](https://www.youtube.com/copyright_complaint_form). This tool is best for most users – it is open to everyone and available in every language.
+**Who is it for?**
 
-Copyright Match Tool
---------------------
+Available in more than 80 languages, all rightsholders have access to the webform, which we've built as a streamlined and efficient way to submit copyright removal requests.
 
-The [Copyright Match Tool](https://support.google.com/youtube/answer/7648743) uses the power of Content ID matching technology to find re-uploads of videos on YouTube. Available to over 1,500,000 channels, it identifies near-full re-uploads of a creator's original videos on other YouTube channels and allows the creator to choose an action to take: they can request the removal of the video, message the uploader of the video or simply archive the match if they do not want to take any action. Any user with a demonstrated history of successful DMCA takedowns via our webform can apply for access using our public form.
+\*\*What does it do? \*\*
 
-Content ID
-----------
+Rightsholders enter a few details of their request, which is then reviewed by YouTube to see if it meets legal requirements for removing the reported content.
 
-[Content ID](https://support.google.com/youtube/answer/2797370) is our solution for those with the most complex rights management needs. It is our digital fingerprinting system that allows rightsholders to upload content that they have exclusive rights to as reference files, and then scans videos uploaded to YouTube for matches of that content. When a user uploads content, Content ID scans against the database for matching videos. If there is a match, then an action is taken based on the predefined rules or policies that a content owner sets themselves:
+Rightsholders have access to powerful features, including the ability to ask YouTube to automatically prevent copies of the removed content from being reuploaded.
 
-* Block a whole video from being viewed. Creators do not receive a copyright strike if the content owner blocks a video.
-* Monetise the video by running ads against it, in some cases sharing revenue with the uploader.
-* Track the video's viewership statistics.
+### Copyright Match Tool
 
-In most cases, this means that rightsholders don't need to submit copyright takedowns for these videos and instead have the opportunity to monetise and run ads in exchange for the videos being live.
+**Who's it for?**
 
-Resources
+It helps creators and rightsholders to protect their content by automatically finding videos that are the same or very similar to ones previously uploaded.
 
-* [Learn more about YouTube's copyright management tools](https://support.google.com/youtube/answer/9245819?hl=en&ref_topic=9282364)
-    
-* [Learn more about copyright strikes](https://support.google.com/youtube/answer/2814000?hl=en&p=c_strike_basics)
-    
+**What does it do?**
 
-What action does YouTube take for copyright infringement?
----------------------------------------------------------
+If a match is found, the creator or the rightsholder is notified. They can then review the video that potentially reused their content and decide whether to request the video's removal.
 
-If a copyright owner submits a valid DMCA (Digital Millennium Copyright Act) complaint through our webform, we take down that video and apply a **copyright strike**. If a user gets three copyright strikes in 90 days, their account, along with any associated channels, will be terminated. We also have tools to help creators resolve their copyright strikes – including waiting for it to expire after 90 days, requesting a retraction or submitting a counter notification.
+### Content ID
 
-[Content ID](https://support.google.com/youtube/answer/6013276) works differently. If a match between a reference file and a new upload is found, a 'claim' is made. Based on the preference selected by the Content ID owner, we'll apply a policy to track, monetise or block, but will not issue a copyright strike.
+**Who's it for?**
 
-Resources
+Rightsholders who have the most complex rights management needs and experience heavy reposting of copyrighted material, like film studios and music labels.
 
-* [Learn more about copyright strikes](https://support.google.com/youtube/answer/2814000?hl=en&p=c_strike_basics)
-    
-* [Retract a claim of copyright infringement](https://support.google.com/youtube/answer/2807691?hl=en)
-    
-* [Submit a counter notification](https://support.google.com/youtube/answer/2807684?hl=en)
+**What does it do?**
+
+Rightsholders can pre-determine rules for when content matches are found, choosing to block a whole video from being viewed, monetise the video by running ads against it or track the video's viewership stats.
+
+ ![Previous](https://fonts.gstatic.com/s/i/googlematerialicons/navigate_before/v10/24px.svg)![Next](https://fonts.gstatic.com/s/i/googlematerialicons/navigate_next/v10/24px.svg)
+
+How YouTube Addresses Copyright Claims Appeals
+----------------------------------------------
+
+The majority of copyright claims and removal requests on YouTube come from our automatic detection technology.
+
+We empower uploaders to report wrongful takedown requests, and we measure how often creators push back against [removals](https://support.google.com/youtube/answer/2807684?en-GB&sjid=10233159174352341243-NA) and [Content ID claims](https://support.google.com/youtube/answer/2797454?en-GB&sjid=10233159174352341243-NA) in our [Copyright Transparency Report](https://transparencyreport.google.com/youtube-copyright/intro?en_GB).
+
+Of the more than one billion Content ID claims made between July 2023 and December 2023, fewer than 1% have been disputed. Over 65% of those disputes succeeded, because claimants either voluntarily released the claim or did not respond within the 30-day window, resulting in the claim's release. ([Source](https://transparencyreport.google.com/youtube-copyright/balanced-ecosystem?en_GB))
