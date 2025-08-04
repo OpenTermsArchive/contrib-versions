@@ -261,11 +261,10 @@ By post:
 Data Protection Officer
 
 > MG Japan Services GK  
-> c/o Tinder, LLC  
-> 8750 North Central Expressway  
-> Suite 1400  
-> Dallas, TX 75231  
-> United States
+> Sumitomo Fudosan Azabu Bldg  
+> 1-4-1 Mita  
+> Minato-ku,Tokyo 108-0073  
+> Japan
 
 #### **If you live outside the European Economic Area, the United Kingdom, Switzerland and Japan:**
 
