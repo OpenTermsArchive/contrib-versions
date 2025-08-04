@@ -233,6 +233,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -492,6 +493,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -1055,6 +1057,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -1314,6 +1317,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -1849,6 +1853,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -2108,6 +2113,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -2580,6 +2586,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -3010,6 +3017,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -3440,6 +3448,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -3870,6 +3879,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -4300,6 +4310,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -4730,6 +4741,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -5031,6 +5043,7 @@ Retour
 * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
 * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
 * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+* [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
 
 * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
 * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
@@ -5216,6 +5229,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -5473,6 +5487,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -5730,6 +5745,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -5987,6 +6003,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -6244,6 +6261,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -6501,6 +6519,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -6758,6 +6777,7 @@ Recherche
             * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
             * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
             * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+            * [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
             
     
     * * [Santé des populations](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/)
@@ -6996,6 +7016,7 @@ Retour
 * [Prendre soin de sa santé mentale : accompagnement et parcours de prise en charge](https://sante.gouv.fr/prevention-en-sante/sante-mentale/prendre-soin-de-sa-sante-mentale-accompagnement-et-parcours-de-prise-en-charge/)
 * [Promotion et prévention](https://sante.gouv.fr/prevention-en-sante/sante-mentale/promotion-et-prevention/)
 * [Des enjeux de proximité pour la politique de santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/des-enjeux-de-proximite-pour-la-politique-de-sante-mentale/)
+* [Glossaire de la santé mentale](https://sante.gouv.fr/prevention-en-sante/sante-mentale/article/glossaire-de-la-sante-mentale)
 
 * [Enfants](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/enfants/)
 * [Assises de la pédiatrie et de la santé de l’enfant](https://sante.gouv.fr/prevention-en-sante/sante-des-populations/article/assises-de-la-pediatrie-et-de-la-sante-de-l-enfant)
