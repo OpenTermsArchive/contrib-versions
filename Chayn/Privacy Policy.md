@@ -103,8 +103,8 @@ Alternatively, you may have a right to complain to your local data protection au
 ‍**We may update this Privacy Policy from time to time.  The effective date of the current Privacy Policy is noted at the top of this page. We encourage you to periodically review this page.  
   
 **Other policies**  
-1. [Equal opportunities and anti-oppression policy](http://www.chayn.co/policies/equal-opportunities-and-anti-oppression-policy)  
-[2\. Events: code of conduct](http://www.chayn.co/policies/events-code-of-conduct)  
+1. [Equal opportunities and anti-oppression policy](https://www.chayn.co/policies/equal-opportunities-and-anti-oppression-policy)  
+[2\. Events: code of conduct](https://www.chayn.co/policies/events-code-of-conduct)  
 **‍**
 
 **How to contact us**
