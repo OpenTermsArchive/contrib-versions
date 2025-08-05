@@ -3458,9 +3458,7 @@ Want To Change Your Privacy Settings?
 
 You can change your privacy settings by logging into My Vodafone and going to 'Manage my settings'. If you have any difficulties you can call us at 1800 200 234 and we will help with any changes you wish to make.
 
-(Note: Dev team has to link below button to correct URL.)
-
-[My Vodafone Login](#)
+[My Vodafone Login](https://n.vodafone.ie/myaccount/privacy-preferences.html)
 
 [](https://www.citizensinformation.ie/en/consumer/phone-internet-tv-and-postal-services/regulation-of-postal-services-phone-internet-radion-and-tv/)
 
