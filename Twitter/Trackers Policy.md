@@ -4028,3 +4028,19 @@ https://www.shopify.com/legal/privacy
 Web Domain
 
 shop.x.com
+
+Name
+
+\_\_cuid
+
+Description
+
+This cookie is for tracking and analytics
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+Web Domain
+
+Any Twitter Domain
