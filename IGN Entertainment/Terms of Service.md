@@ -9,7 +9,7 @@ PLEASE READ THESE TERMS OF USE (“**TERMS**”) CAREFULLY BECAUSE THEY DESCRIBE
 
 **THESE TERMS CONTAIN A BINDING ARBITRATION CLAUSE AND A CLASS ACTION WAIVER.**
 
-**[SECTION 17](https://www.ziffdavis.com/terms-of-use#section-17) CONTAINS AN IMPORTANT NOTE TO NEW JERSEY CONSUMERS.**
+**[SECTION 18](https://www.ziffdavis.com/terms-of-use#section-18) CONTAINS AN IMPORTANT NOTE TO NEW JERSEY CONSUMERS.**
 
 IF FOR ANY REASON, YOU ARE UNABLE OR UNWILLING TO AGREE TO ALL OUR TERMS OF USE, PLEASE IMMEDIATELY STOP USING OR ATTEMPTING TO USE OUR WEBSITE AND OTHER SERVICES, BECAUSE IF YOU CONTINUE, YOU WILL BE AGREEING TO EVERYTHING IN OUR TERMS OF USE.
 
@@ -404,22 +404,50 @@ _IN THE EVENT THAT YOU HAVE A DISPUTE WITH ANOTHER USER RELATED TO, ARISING FROM
 
 **Some jurisdictions do not allow exclusion of implied warranties or certain limitations of liability, including for incidental or consequential damages, punitive or exemplary damages, bodily or moral (reputational) damages, gross negligence, death or personal injury caused by negligence, personal injury or loss of or damage to property caused by defective products, fraud and/or fraudulent misrepresentation, or recklessness, so the above limitations or exclusions may not apply to you. In such jurisdictions, the liability of Ziff Davis, third party content providers and their respective agents shall be limited to the greatest extent permitted by applicable law.**
 
-10\. Member Disputes
+10\. SMS Text Messaging Terms
+-----------------------------
+
+**SMS Messaging**
+
+These terms govern your participation in SMS text messaging programs offered by certain Ziff Davis brands and supplement the general Terms of Use.
+
+**SMS Messaging Overview**  
+Certain Ziff Davis brands may offer SMS text messaging services to provide you with promotional offers, updates, or other content. By enrolling in any Ziff Davis SMS program, you agree to receive automated, recurring marketing text messages at the mobile number you provide. Consent to receive such messages is not a condition of purchase.
+
+**Opt-In and Consent**  
+By opting in (via an on-site form), you confirm you are at least 16 years old and that you are the subscriber or authorized user of the mobile number provided. You consent to receive recurring text messages from the applicable Ziff Davis brand. Ziff Davis or its service providers may retain opt-in records, including the timestamp and method of consent, for compliance purposes.
+
+**Message Types and Frequency**  
+Messages are promotional and marketing in nature. While there is no fixed frequency, you may receive up to one message per day, depending on the brand’s program.
+
+**Charges**  
+Standard message and data rates may apply.
+
+**Opt-Out and Assistance**  
+You may opt out at any time by replying STOP, CANCEL, QUIT, or UNSUBSCRIBE to any message. No confirmation message will be sent upon opt-out. To request assistance, reply HELP or contact the support email listed for the relevant brand.
+
+**Brand-Specific Numbers**  
+Each Ziff Davis brand uses a dedicated toll-free number for SMS communications. Opt-outs are specific to the brand and number from which you received the message. Opting out of one brand’s SMS program does not unsubscribe you from others.
+
+**Legal Compliance**  
+Ziff Davis ensures its SMS programs comply with applicable laws and industry standards, including the Telephone Consumer Protection Act (TCPA), the CAN-SPAM Act, and CTIA guidelines.
+
+11\. Member Disputes
 --------------------
 
 You are solely responsible for your interactions with other Members of the Services. Ziff Davis reserves the right, but has no obligation, to monitor disputes between you and other Members and to take action (e.g., account deletion or removal of content posted by a user) if Ziff Davis determines that there has been a violation of the Agreement or if such action is otherwise necessary or desirable, in its sole discretion.
 
-11\. International Use
+12\. International Use
 ----------------------
 
 We make no claims that any Material, Services or any Content is appropriate or may be downloaded outside of the United States or outside the country where such Material, Services or any Content was produced. Access to the Material, Services or any Content may not be legal in certain countries or for certain persons. If you access any Material, Services or Content from outside of the United States, you do so at your own risk and are responsible for compliance with the laws of your jurisdiction. You agree to comply with: (i) all local rules regarding user conduct on the Internet and acceptable content; and (ii) all applicable laws regarding the downloading and/or transmission of technical data and other material from or to the United States and the country in which you are located.
 
-12\. No Submission of Unsolicited Ideas
+13\. No Submission of Unsolicited Ideas
 ---------------------------------------
 
 Ziff Davis does not accept unsolicited ideas of any kind, including ideas for: advertising; promotions; new products, technologies, processes, or materials; marketing plans; or product names. Please do not send us any such ideas or materials relating to such ideas. This is to avoid any potential misunderstanding or dispute should our products or marketing strategies seem similar to unsolicited ideas submitted to us. If, despite this request, you do send us any unsolicited ideas or materials, we make no assurances that such ideas or materials will be treated as confidential or proprietary.
 
-13\. Binding Arbitration
+14\. Binding Arbitration
 ------------------------
 
 **In the unlikely event that you’re not satisfied with customer service’s solution, and you and Ziff Davis are unable to resolve a dispute through the Informal Dispute Resolution Procedures below, we each agree to resolve the dispute through binding arbitration or small claims court instead of in courts of general jurisdiction.**
@@ -489,34 +517,34 @@ A court of competent jurisdiction shall have the authority to enforce these Mass
 You and Ziff Davis agree that we each value the integrity and efficiency of arbitration and wish to employ the process for the fair resolution of genuine and sincere disputes between us. You and Ziff Davis acknowledge and agree to act in good faith to ensure the processes set forth herein are followed. The parties further agree that application of these Mass Filing procedures have been reasonably designed to result in an efficient and fair adjudication of such cases.  
 (10) **Severability**: If any portion of this Arbitration Agreement is found to be void, invalid, or otherwise unenforceable, then that portion shall be deemed to be severable and, if possible, superseded by a valid, enforceable provision, or portion thereof, that matches the intent of the original provision, or portion thereof, as closely as possible. The remainder of this Arbitration Agreement shall continue to be enforceable and valid according to the terms contained herein.
 
-14\. CLASS ACTION AND JURY TRIAL WAIVER
+15\. CLASS ACTION AND JURY TRIAL WAIVER
 ---------------------------------------
 
 You and Ziff Davis agree that, to the fullest extent permitted by law, each party may bring claims (whether in court or in arbitration) against the other only in an individual capacity, and not participate as a plaintiff, claimant, or class member in any class, collective, consolidated, private attorney general, or representative proceeding. This means that you and Ziff Davis may not bring a claim on behalf of a class or group and may not bring a claim on behalf of any other person unless doing so as a parent, guardian, or ward of a minor or in another similar capacity for an individual who cannot otherwise bring their own individual claim. This also means that you and Ziff Davis may not participate in any class, collective, consolidated, private attorney general, or representative proceeding brought by any third party. Notwithstanding the foregoing, you or Ziff Davis may participate in a class-wide settlement. To the fullest extent permitted by law, you and Ziff Davis waive any right to a jury trial.
 
-15\. Limitation Period for Claims
+16\. Limitation Period for Claims
 ---------------------------------
 
 You agree that regardless of any statute or law to the contrary, any claim or cause of action arising out of or related to use of our sites or the Agreement must be filed within one (1) year after such claim or cause of action arose or be forever barred.
 
-16\. Miscellaneous
+17\. Miscellaneous
 ------------------
 
 We may be required by international, state or federal law to notify you of certain events. You hereby acknowledge and consent that such notices will be effective upon our posting them on our sites or delivering them to you through e-mail. Subject to the arbitration provision above and for all purposes of this Agreement, this Agreement shall be construed in accordance with the laws of the State of New York, without reference to principles of choice of law. You and Ziff Davis each irrevocably consent to the personal jurisdiction of the federal or state courts located in New York, New York, the Borough of Manhattan (the “Courts”) with respect to any action, suit or proceeding arising out of or related to this Agreement or to the Services (including without limitation any Content) and waive any objection to venue in any of the Courts for such an action, suit or proceeding (whether based on forum non conveniens or otherwise); additionally, you agree that you will not bring any such action, suit or proceeding in any court other than the Courts.
 
 This Agreement constitutes the entire agreement between the parties with respect to the subject matter hereof, and supersedes all previous written or oral agreements between the parties with respect to such subject matter. If any inconsistency exists between the terms of this Agreement and any additional terms and conditions posted on the Services, such terms shall be interpreted as to eliminate any inconsistency, if possible, and otherwise, the additional terms and conditions shall control. If any provision of this Agreement is held invalid, illegal or unenforceable in any respect, (i) such provision shall be interpreted in such a manner as to preserve, to the maximum extent possible, the intent of the parties, (ii) the validity, legality and enforceability of the remaining provisions shall not in any way be affected or impaired thereby, and (iii) such decision shall not affect the validity, legality or enforceability of such provision under other circumstances.  Ziff Davis’ failure to enforce any term of this Agreement shall not constitute a waiver of that provision.  No waiver shall be binding unless in writing and signed by Ziff Davis, and such waiver shall not be construed as Ziff Davis’ waiver of any other or subsequent breach.
 
-17\. New Jersey Residents
+18\. New Jersey Residents
 -------------------------
 
 If, and to the extent that New Jersey law applies, with respect to residents of New Jersey, the terms in Sections 6 (insofar as any claims may arise from, or relate to, consumer protection or fraud and/or misrepresentation, or result in attorney’s fees), 9 and 14 do not limit any rights you may have as a consumer under New Jersey law and are intended to be only as broad and inclusive as permitted by the laws of the state of your residence. Subject to the foregoing, Ziff Davis, third party content providers, and their respective agents reserve all rights, defenses, and permissible limitations under New Jersey law. Nothing in this Section shall modify the binding arbitration clause and waiver for class action and jury trial in Section 13.
 
-18\. Australia Residents
+19\. Australia Residents
 ------------------------
 
 Nothing in these Terms (including in Sections 6, 9 and 15) limits, excludes or modifies any rights you may have under any law, including under the Australian Consumer Law (the “ACL”) and consumer guarantees under the ACL, which may not be limited, excluded or modified by agreement (including where such exclusion, restriction or modification would be illegal or void under such law).
 
-19\. Privacy Policy
+20\. Privacy Policy
 -------------------
 
 The applicable privacy policy will be made available on the property from which you accessed these Terms. Such privacy policy is incorporated by reference into these Terms.
