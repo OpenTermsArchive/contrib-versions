@@ -1,7 +1,7 @@
 Cloudflare Self-Serve Subscription Agreement
 ============================================
 
-Last Updated December 3, 2024
+Last Updated August 5, 2025
 
 PLEASE READ THE FOLLOWING CAREFULLY AS IT AFFECTS YOUR LEGAL RIGHTS. THIS AGREEMENT CONTAINS PROVISIONS REQUIRING THAT YOU AGREE TO THE USE OF ARBITRATION TO RESOLVE ANY DISPUTES ARISING UNDER THIS AGREEMENT RATHER THAN A JURY TRIAL OR ANY OTHER COURT PROCEEDINGS, AND TO WAIVE YOUR PARTICIPATION IN CLASS ACTION OF ANY KIND AGAINST CLOUDFLARE.
 
@@ -91,7 +91,7 @@ We may offer free or trial versions of the Services (“Free Services”) from t
 
 ### 2.7 Acceptable Use
 
-You agree not to, and not to allow third parties to use the Services to: (a) falsely imply any sponsorship or association with Cloudflare; (b) post, transmit, store or link to any files, materials, data, text, audio, video, images or other content that infringe on any person’s intellectual property rights or that are otherwise unlawful; (c) distribute viruses, worms, time bombs, Trojan horses, or other malicious code, files, scripts, software agents and programs; (d) facilitate phishing, spamming, or other technical abuse; or (e) engage in any activities that are illegal, including disseminating, promoting or facilitating child sexual abuse material or engaging in human trafficking. You can find more information on our approach to abuse and reporting practices [here](https://www.cloudflare.com/trust-hub/abuse-approach/).
+You agree not to, and not to allow third parties to use the Services to: (a) falsely imply any sponsorship or association with Cloudflare; (b) post, transmit, store or link to any files, materials, data, text, audio, video, images or other content that infringe on any person’s intellectual property rights or that are otherwise unlawful; (c) distribute viruses, worms, time bombs, Trojan horses, or other malicious code, files, scripts, software agents and programs; (d) facilitate phishing, spamming, or other technical abuse; or (e) engage in any activities that are illegal, including disseminating, promoting or facilitating child sexual exploitation and abuse or human trafficking. You can find more information on our approach to abuse and reporting practices [here](https://www.cloudflare.com/trust-hub/abuse-approach/).
 
 3\. Third-Party Products and Services
 -------------------------------------
@@ -103,7 +103,7 @@ You may access or use, at your sole discretion, certain third-party products and
 
 ### 4.1 Recurring Billing
 
-In order to access those Services for which we require a fee (“Paid Services”) you will be required to provide Cloudflare with your credit card information (“Payment Method”). By providing a Payment Method you are authorizing us to charge your Payment Method on a monthly, annual, or pay-as-you-go basis, or as otherwise applicable for the fees associated with the Paid Services that you use. Any Payment Method that you provide us must be valid, and kept current by you during the Subscription Term. By providing us with a Payment Method, you represent and warrant that you are authorized to use such Payment Method. Cloudflare will begin billing your Payment Method for the Paid Services on the day that you begin using such Paid Services, regardless of whether you have fully configured the Paid Services as of that date. For Services subject to usage-based billing, we may initiate a pre-authorization on your credit card for the accrued fees at any point during a billing period. This hold will be removed when the time limit for the hold is up.
+In order to access those Services for which we require a fee (“Paid Services”) you will be required to provide Cloudflare with your credit card information (“Payment Method”). By providing a Payment Method you are authorizing us to charge your Payment Method on a monthly, annual, or pay-as-you-go basis, or as otherwise applicable for the fees associated with the Paid Services that you use. Any Payment Method that you provide us must be valid, and kept current by you during the Subscription Term. By providing us with a Payment Method, you represent and warrant that you are authorized to use such Payment Method. Cloudflare will begin billing your Payment Method for the Paid Services on the day that you begin using such Paid Services, regardless of whether you have fully configured the Paid Services as of that date. For Services subject to usage-based billing, we may initiate a pre-authorization on your credit card for the accrued fees at any point during a billing period. This hold will be removed when the time limit for the hold is up. To guard against fraud, you also authorize us to charge a nominal sum to your Payment Method, which we will reverse after 3-7 business days.
 
 ### 4.2 Price Changes
 
