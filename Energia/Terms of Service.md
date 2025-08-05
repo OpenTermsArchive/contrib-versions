@@ -693,7 +693,7 @@ You can download all Terms & Conditions [here.](https://www.energia.ie/getattac
 
 #### 
 
-36\. Energia Rugby Competition
+36\. Energia "We Are Rugby" Fan Competition
 
 * Competition entrants must be over 18, _or have the permission of a guardian to enter._  
 * By entering this competition, you consent for Energia to use all content for promotional purposes.
