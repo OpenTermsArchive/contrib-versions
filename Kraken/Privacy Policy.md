@@ -1,6 +1,6 @@
 _Last Updated: 16 July 2025_
 
-For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/legal/privacy/us-notice).  
+For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/en-gb/legal/privacy/us-notice).  
  
 
 **1\. Introduction**
@@ -30,12 +30,12 @@ The following terms are defined as follows:
 
 Our products and services are provided through local operating entities that are part of the Kraken group of companies.
 
-You are contracting with Kraken as specified in our [Terms of Service](https://www.kraken.com/legal) (unless you are contracting for MIFID2 financial instruments, including derivatives, with Payward Europe Digital Solutions (CY) Limited then these [Terms of Service](http://eu.kraken.com/legal/Payward-Europe-Digital-Solutions-CY-Terms-Conditions) apply). The company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal data in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws.
+You are contracting with Kraken as specified in our [Terms of Service](https://www.kraken.com/en-gb/legal) (unless you are contracting for MIFID2 financial instruments, including derivatives, with Payward Europe Digital Solutions (CY) Limited then these [Terms of Service](http://eu.kraken.com/legal/Payward-Europe-Digital-Solutions-CY-Terms-Conditions) apply). The company you are contracting with is your Data Controller, and is responsible for the collection, use, disclosure, retention and protection of your personal data in accordance with our global privacy standards, this Privacy Notice, as well as any applicable national laws.
 
 **4\. How do we protect personal data?**
 ----------------------------------------
 
-Kraken takes the security of personal data incredibly seriously. For additional information on our information security practices, please click [here](https://support.kraken.com/hc/en-us/articles/203248063-What-does-Kraken-do-to-secure-my-personal-information-), and for general security information, click [here](https://www.kraken.com/features/security).
+Kraken takes the security of personal data incredibly seriously. For additional information on our information security practices, please click [here](https://support.kraken.com/hc/en-us/articles/203248063-What-does-Kraken-do-to-secure-my-personal-information-), and for general security information, click [here](https://www.kraken.com/en-gb/features/security).
 
 **5\. Information we may collect about you**
 --------------------------------------------
