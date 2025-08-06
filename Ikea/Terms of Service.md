@@ -262,18 +262,20 @@ These terms are governed by Irish law and you and we both agree to submit to the
 **Returns and Cancellation**
 ----------------------------
 
-You can return new and unused product(s) within 365 days of making your purchase, subject to the limitations set out in these Terms and Conditions. IKEA will provide a refund for product(s) returned with the original proof of purchase, in new and unused condition and with the original packaging. You are responsible for any costs incurred in the returning of the product(s) unless the product is faulty or not as described. IKEA will refund the price paid for the goods via the original payment method.
+Items can be returned within 365 days of making your purchase or receiving your delivery, subject to the limitations set out in these Terms and Conditions. IKEA will provide a refund for product(s) returned with the original proof of purchase, in new and unused condition and with the original packaging. IKEA will refund the price paid for the goods via the original payment method.
 
-A refund may be refused, or the value of the refund reduced if the product(s) are not able to be sold at full retail value as a result of you handling the product(s) in such a way that the product(s) are no longer saleable at full retail value. IKEA at its sole discretion, may reduce your refund to reflect any reduction in the retail value of the goods. Any refund and reduction will be proportionate to the retail value of the product(s) in the condition returned.
+Items that have been “tried and tested” are returnable but will only be refunded to a refund card and not the original tender type.  
 
-### **Exclusions**
+Items that are considered “used” are not returnable under this policy. Items are considered “used” when there is signs of usage that is beyond the means to test and try the form and function of the product. This might be signs of wear and tear, or cosmetic imperfections. It is at IKEA’s sole discretion what is deemed “tried and tested” and “used”.
+
+Food or drink, perishable product (cut flowers or plants), or custom-made product(s) – May be returned in their original  A refund may be refused, or the value of the refund reduced if the product(s) are not able to be sold at full retail value as a result of you handling the product(s) in such a way that the product(s) are no longer saleable at full retail value. IKEA at its sole discretion, may reduce your refund to reflect any reduction in the retail value of the goods. Any refund and reduction will be proportionate to the retail value of the product(s) in the condition returned. You are responsible for any costs incurred in the returning of the product(s) unless the product is faulty or not as described.
+
+**Exclusions**
 
 There are certain circumstances, where at our sole discretion we are not able to accept returns, cancel orders or offer a refund unless the product(s) is faulty (or unless there is any other breach of your statutory rights). These exclusions are as follows:
 
 * where you do not have proof of purchase;
-* where the product(s) are returned without full packaging;
-* where the product(s) are not returned in a saleable condition; and
-* where the product is a food or drink, perishable product (cut flowers or plants), or custom-made product(s) (including worktops) or any other product(s) to which the exclusions in regulation 28 of the Consumer Contracts (Information, Cancellation and Additional Charges) Regulations 2013, apply.
+* where the product(s) are not returned in a saleable condition.
 
 * See more information about cancellation or return of orders online or via e-mail
     
