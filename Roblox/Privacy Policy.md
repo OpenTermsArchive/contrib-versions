@@ -585,11 +585,11 @@ You can also find the full Privacy Policy [here](https://en.help.roblox.com/hc/a
     
     If you live in the United States
     
-    If you live in the United States, please visit our US State Privacy Policy Addendum for more information.
+    If you live in the United States, please visit our [US State Privacy Policy Addendum](https://en.help.roblox.com/hc/articles/4402871541140) for more information.
     
     If you live in the Republic of Korea
     
-    If you’re in Korea, more information is located in the Privacy Policy Addendum for Users in Republic of Korea.
+    If you’re in Korea, more information is located in the [Privacy Policy Addendum for Users in Republic of Korea](https://en.help.roblox.com/hc/articles/15685139483924).
     
     If you live in the European Economic Area (EEA), the United Kingdom (UK) or Switzerland
     
