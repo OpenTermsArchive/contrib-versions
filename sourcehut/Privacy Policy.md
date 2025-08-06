@@ -5,7 +5,7 @@ Privacy policy
 
 If you have any questions, please reach out to [sr.ht-support](mailto:~sircmpwn/sr.ht-support@lists.sr.ht) via email.
 
-#### What we collect and why
+### [#](#what-we-collect-and-why)What we collect and why
 
 The only data we require of your account is your email address; a username of your choosing, which must be unique among all users; and a password. Your email and username are stored in "plain text". Your password is stored after processing with bcrypt, from which the original password cannot be devised without a computationally expensive process. However, given your password, we can determine that it matches our stored key without expensive processing. The purpose of this step is to ensure that should our database become compromised, your original password will be difficult to recover. Regardless, you are strongly encouraged to use a unique password for your SourceHut account.
 
@@ -44,13 +44,13 @@ If you choose to use our paid services, we will store a token which is used to b
 
 We also use cookies to store long-lived authorization data, to remember that you're logged into your account between visits without prompting you for your password again, and to store short-lived information, for example when filling out a form which requires several pages to complete.
 
-##### How and where your data is stored and processed
+#### How and where your data is stored and processed
 
 Your data is primarily stored and processed on our servers in the Netherlands, which are owned and operated by SourceHut and colocated in a secured facility alongside other service providers. Under some circumstances, some or all of your data may be processed in other countries within the European Union on servers rented from European service providers on a temporary or ongoing basis.
 
 Some of your personal data is stored in an encrypted form in the United States. This data is encrypted prior to transmission and is stored in an encrypted form, such that your personal data cannot be processed in the United States under any circumstances. The purpose of this system is for off-site backups, which SourceHut may use to restore data in the event of a systems failure in our European facilities.
 
-##### How we share your information with third-parties
+#### How we share your information with third-parties
 
 Aside from information you choose to make public in the course of your use of SourceHut and information you explicitly choose to share with specific third parties, none of your information is shared with third parties.
 
@@ -66,12 +66,12 @@ If you use any of our paid services, we will transmit your payment information t
 
 We may also be required to provide some or all of your account data upon receiving a lawful order from an applicable court with jurisdiction over SourceHut. We will notify you that we have received and complied with this order unless the order prohibits us from doing so.
 
-##### How to access and control the information we've collected
+#### How to access and control the information we've collected
 
 You may submit a request via email to [support](mailto:~sircmpwn/sr.ht-support@lists.sr.ht) to request an archive of the information we've collected about you, or to request that we remove any information we've collected about you.
 
 You may also reach out to our data protection officer directly: Drew DeVault [drew@ddevault.org](mailto:drew@ddevault.org).
 
-##### Changes to this document
+#### Changes to this document
 
 We may make changes to this document with no less than 2 weeks notice. Notice of these changes will be sent to the email on file for your account.
