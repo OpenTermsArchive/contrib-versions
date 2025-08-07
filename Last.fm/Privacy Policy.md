@@ -1,13 +1,13 @@
-PARAMOUNT PRIVACY POLICY
-========================
+PARAMOUNT SKYDANCE PRIVACY POLICY
+=================================
 
-**Last Modified:** February 26, 2025
+**Last Modified:** August 7, 2025
 
-Paramount is a leading global media and entertainment company that delivers premium content and experiences to audiences worldwide across studios, networks, streaming services, live events, merchandise, and more.
+Paramount is now part of the Paramount Skydance Corporation! Together, we are a leading global media and entertainment company that delivers premium content and experiences to audiences worldwide across studios, networks, streaming services, live events, merchandise, and more.
 
-You may interact with Paramount and its affiliates (“Paramount” or the “Paramount family of companies”) (collectively “we” or “us”) through our global portfolio of networks, platforms, streaming services and websites, and through our advertisements and customer service tools, all which you may access online, via mobile and connected devices, applications, streaming platforms, or in-person at live events. You can find out more about our businesses and brands and the services we provide [here](https://www.paramount.com/about#businesses) (together, the “Paramount Services”).
+You may interact with Paramount Skydance Corporation and its affiliates (“Paramount” or the “Paramount Skydance Family of Companies”) (collectively “we” or “us”) through our global portfolio of networks, platforms, streaming services and websites, and through our advertisements and customer service tools, all which you may access online, via mobile and connected devices, applications, streaming platforms, or in-person at live events. You can find out more about our businesses and brands and the services we provide [here](https://www.paramount.com/about/brands) (together, the “Paramount Services”).
 
-The controller of your personal information will be the Paramount company that provides the Paramount Services to you. You can view a [list of the Paramount controllers](https://privacy.paramount.com/en/controllers-list) here. We know how important it is to protect your personal information. This privacy policy explains our practices — and your choices — on how we collect, use, and share your information when you interact with any of the Paramount Services. This privacy policy applies to the Paramount Services that we make available throughout the world. Depending on the Paramount Service(s) you interact with, our practices with respect to personal information may vary and there may be additional notices about our practices and your choices that should be read in addition to this privacy policy.
+The controller of your personal information will be the company that provides the Paramount Services to you. You can view a [list of the Paramount Skydance controllers](https://privacy.paramount.com/en/controllers-list) here. We know how important it is to protect your personal information. This privacy policy explains our practices — and your choices — on how we collect, use, and share your information when you interact with any of the Paramount Services. This privacy policy applies to the Paramount Services that we make available throughout the world. Depending on the Paramount Service(s) you interact with, our practices with respect to personal information may vary and there may be additional notices about our practices and your choices that should be read in addition to this privacy policy.
 
 For additional information, if you are located in California (USA), please also review [this notice](#notice-of-collection-for-california-consumers).
 
@@ -227,15 +227,15 @@ For the above purposes, we process your personal information to **meet obligatio
 WHO WE SHARE YOUR INFORMATION WITH AND WHY
 ------------------------------------------
 
-The information we share about you varies based on the Paramount Services you are interacting with. We share personal information within the [Paramount family of companies](https://privacy.paramount.com/en/controllers-list) and with some of our business partners (including those supporting advertising based on your interests). We also share personal information with sponsors and other partners for events, giveaways, sweepstakes, and promotions.
+The information we share about you varies based on the Paramount Services you are interacting with. We share personal information within the [Paramount Skydance Family of Companies](https://privacy.paramount.com/en/controllers-list) and with some of our business partners (including those supporting advertising based on your interests). We also share personal information with sponsors and other partners for events, giveaways, sweepstakes, and promotions.
 
 We share personal information as part of a corporate transactions, to comply with our legal obligations, and to protect ourselves.
 
 ### Learn More...
 
-#### PARAMOUNT FAMILY OF COMPANIES
+#### PARAMOUNT SKYDANCE FAMILY OF COMPANIES
 
-We share your information among the [Paramount family of companies](https://privacy.paramount.com/en/controllers-list) for the purposes described under “[How we use your information and why](#how-we-use-your-information-and-why)”.
+We share your information among the [Paramount Skydance Family of Companies](https://privacy.paramount.com/en/controllers-list) for the purposes described under “[How we use your information and why](#how-we-use-your-information-and-why)”.
 
 #### SERVICE PROVIDERS
 
@@ -362,9 +362,9 @@ For additional information about the rights that may be available to you if you 
 INTERNATIONAL TRANSFERS
 -----------------------
 
-Paramount is a global company that may transfer your personal information to a country (including the United States) that does not provide the same level of protection for your personal information. Paramount may transfer your personal information to the [Paramount family of companies](https://privacy.paramount.com/en/controllers-list), carefully selected service providers, business partners, and other third parties for the purposes described in this policy.
+Paramount is a global company that may transfer your personal information to a country (including the United States) that does not provide the same level of protection for your personal information. Paramount may transfer your personal information to the [Paramount Skydance Family of Companies](https://privacy.paramount.com/en/controllers-list), carefully selected service providers, business partners, and other third parties for the purposes described in this policy.
 
-Whenever we transfer your personal information within the Paramount family of companies and to our service providers, business partners, and other third parties, we look at the risks to your information and rely on safeguards, where applicable, to ensure your rights are protected. For instance, we have put in place standard contractual clauses approved under data protection laws in Argentina, the EEA, Switzerland, and the United Kingdom to facilitate transfers to the United States.
+Whenever we transfer your personal information within the Paramount Skydance Family of Companies and to our service providers, business partners, and other third parties, we look at the risks to your information and rely on safeguards, where applicable, to ensure your rights are protected. For instance, we have put in place standard contractual clauses approved under data protection laws in Argentina, the EEA, Switzerland, and the United Kingdom to facilitate transfers to the United States.
 
 CHILDREN’S PRIVACY
 ------------------
@@ -421,20 +421,16 @@ We may update this privacy policy based on new technologies, industry practices,
 CONTACT US
 ----------
 
-The Paramount company responsible for your personal information can be found in the “[Paramount Controller List](https://privacy.paramount.com/en/controllers-list)”.
+The Paramount company responsible for your personal information can be found in the “[Paramount Skydance Controller List](https://privacy.paramount.com/en/controllers-list)”.
 
 If you have any questions or concerns regarding this privacy policy or would like to contact the data protection officer, please visit the [Privacy Rights Center](https://privacy.paramount.com/privacyrightscenter) and select the relevant form.
 
 If you prefer to send your questions or comments by postal mail, please send a letter to the following address:
 
-Paramount
-
-Attention of Paramount Privacy Team
-
-1515 Broadway
-
-NY 10036
-
+Paramount Skydance Corporation  
+Attention of Paramount Skydance Privacy Team  
+1515 Broadway  
+NY 10036  
 United States
 
 ADDITIONAL INFORMATION US STATES
