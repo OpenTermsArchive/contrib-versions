@@ -337,7 +337,7 @@ Academia
 580 California Street  
 No. 400  
 San Francisco, CA 94104  
-[privacy@academia.edu](mailto:privacy@academia.edu)
+[\[email protected\]](https://www.academia.edu/cdn-cgi/l/email-protection)
 
   
 [SUPPLEMENTAL NOTICE FOR TÜRKİYE RESIDENTS](https://www.academia.edu/privacy_turkish_supplemental)
