@@ -9,8 +9,6 @@ Where we provide products, services, or applications as a business-to-business p
 
 We may provide additional data privacy information by using a supplementary privacy notice.
 
-* * *
-
 Personal Information We Collect and Use
 ---------------------------------------
 
@@ -20,13 +18,13 @@ It includes information on [Your Account](#Your_Account "Your Account"), [IBM We
 
 The information that we collect and use may include profile information, interactions on webpages, marketing preferences, information to investigate malicious activities, recordings or transcripts of your conversations with us for support purposes, information to improve our business operations, and more.
 
-* * *
-
 #### Your Account
 
 You can create an account with IBM by creating an IBMid. An IBMid provides IBM with your name, email address, mailing address, and related information that you may provide. We may require an IBMid for certain services, such as the use of [IBM Applications, Cloud and Online Services](#IBM_Cloud_and_Online_Services "IBM Cloud and Online Services").
 
 We may also store your details from business contact information that you provide to us, or that we collect from your organization, our Business Partners, or our suppliers.
+
+Learn more
 
 An IBMid uniquely identifies you when you access our websites, make a request or order, or use a product or service. If you log into our websites with an IBMid we may link the information we collect with your account. An IBMid is also used to give you access to [IBM Applications, Cloud and Online Services](#IBM_Cloud_and_Online_Services "IBM Cloud and Online Services") and allows you to manage your contract and billing history. The email address in your IBMid may be used to contact you in relation to any services to which you subscribe.
 
@@ -49,6 +47,8 @@ If your IBMid is created through an Enterprise Federation Partner (Identity Prov
 Our websites offer ways to communicate with you about us, our products, and services. The information that we collect on websites is used to provide you with access to the website, to operate the website, to improve your experience, and to personalize the way that information is provided to you. If you visit our websites without logging in with an [account](#Your_Account), we may still collect information that is connected to your website visit.
 
 For more information on the technologies that we use to collect website information, and setting your preferences, see [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies).
+
+Learn more
 
 We collect information about your use of our websites, such as:
 
@@ -81,6 +81,8 @@ We accept no responsibility for the content provided on, or privacy practices, o
 
 Our cloud and online services include “as-a-service” and desktop applications, mobile applications (or apps), and IBM Learning services. We collect information about the use of these services, such as pages you view or your interactions on that page, to improve and develop our services and to generate technical and market insights. We may require an IBMid for the use of our cloud and online services (see [Your Account](#Your_Account)_)._
 
+Learn More
+
 The information that we collect on our cloud and online services may include:
 
 * the pages you view,
@@ -104,6 +106,8 @@ We accept no responsibility for the content provided on, or privacy practices, o
 #### Marketing
 
 Subject to your preferences, we use the information that we collect to communicate with you about relevant products, services, and offerings. We also use this information to personalize your online experience with our content and advertisements and to develop internal marketing and business intelligence. To set or update your preferences with regards to marketing communications by email, phone, or postal, visit the [IBM Privacy Preference Center](https://myibm.ibm.com/profile/dataprivacypreferences/welcome/us-en "IBM Privacy Preference Center"). You may also submit an [opt-out request](https://www.ibm.com/account/reg/us-en/signup?formid=urx-42537 "opt-out request"), or select **Unsubscribe** at the bottom of each marketing email. To review or set your preferences regarding the information that we collect about you online on our websites, select **Cookie Preferences** in the website footer.
+
+Learn more
 
 We use information that we collect for marketing purposes. This may include information:
 
@@ -133,6 +137,8 @@ We also use this information to develop marketing and business intelligence, whi
 
 A contractual relationship is created when you order a trial, or a product or service from us. While we mainly provide our products and services to businesses, individuals may also enter into an agreement with us directly as a client. We may collect any information that is reasonably necessary to prepare for, enter, and fulfill, the contractual agreement.
 
+Learn more
+
 The information collected in a contractual relationship may include the business contact information of the requester, an IBMid, and the order details. Information that is required for shipment and payment, for the implementation of services, or to grant access to the product or service may also be collected.
 
 This information may be collected for various purposes, depending on the nature of the products or services, for example, for contractual management and compliance, to provide support, for the improvement or development of our products and services, to contact you for customer satisfaction surveys, and to generate technical and market insights. For more information, see [IBM Applications, Cloud and Online Services](#IBM_Cloud_and_Online_Services "IBM Cloud and Online Services").
@@ -143,6 +149,8 @@ The information collected in a contractual relationship is not used for the purp
 
 When you contact us to request support, including through LiveChat, we collect your contact information, problem description, and possible resolutions. We record the information that is provided to handle the support query, for administrative purposes, to foster our relationship with you, for staff training, and for quality assurance purposes.
 
+Learn more
+
 The information that we collect may include any information exchanged during our phone conversations or provided during Live Chat support sessions on our websites. This may include a recording or transcript of your conversations with us. We may use this information to inform you of products or services that are related to your support request. This can include product updates or fixes, and we may combine the information that is collected through other interactions with you or your organization to provide more valuable suggestions in relation to product support, such as any available training regarding the issue.
 
 While we handle the support case, we may have incidental access to information that you have provided or information that is on your system. This information may contain information about you, your organization's employees, customers, or other relevant parties. The conditions regarding the handling and processing of this information is covered by the applicable Terms of Use or other agreements between your organization and IBM, such as the Terms of Use for Exchanging Diagnostic Data.
@@ -150,6 +158,8 @@ While we handle the support case, we may have incidental access to information t
 #### Protecting You and IBM
 
 We may collect and use information to protect you and IBM from IT security threats and to secure the information that we hold from unauthorized access, disclosure, alteration, or destruction. This includes information from our IT access authorization systems, such as log-in information.[](#Protecting_You_and_IBM)
+
+Learn more
 
 The security solutions we use to protect your information, our infrastructure, and our networks may collect information such as IP addresses and log files. This is necessary for the functionality and utility of security programs to enable the investigation of any potential security incidents and generate insights on security threats.
 
@@ -159,6 +169,8 @@ We may use specialized tooling and other technical means to collect information 
 
 When you visit an IBM location, we collect your name or business contact information (see [Your Account](#Your_Account)), and, in some cases, information from a government issued ID. This information is collected for access management and to protect the security and safety of our locations and employees.
 
+Learn more
+
 The information that is collected at our locations is used to issue access badges. We may verify the identity of visitors where legally permissible and, for supplier personnel working on site, a badge with a photo identification may be requested for identification purposes.
 
 Camera supervision and access management are used for reasons of security and safety of our locations, employees, and assets. More information may be available at the IBM location.
@@ -166,6 +178,8 @@ Camera supervision and access management are used for reasons of security and sa
 #### Recruitment and Former Employees
 
 We are constantly searching for new talent for our organization, and we collect information about job applicants or prospective candidates from several sources. Applicants are referred to the [Talent Acquisition Privacy Notice](https://www.ibm.com/careers/applicant-data-privacy "Talent Acquisition Privacy Notice ") for more information. When an employee leaves IBM, we continue to process information that is related to them for any remaining business, contractual, employment, legal, and fiscal purposes, including the management of pensions to the extent handled by IBM.
+
+Learn more
 
 Regarding recruitment, we may look for prospective candidates with the help of recruitment intermediaries and may use publicly available information on social media platforms to identify prospective candidates for a specific function.
 
@@ -176,6 +190,8 @@ After an employee retires, we process information about the retiree for fulfilli
 #### Conducting our Business Operations
 
 We collect and use information to improve our business operations, systems, and processes. For example, information may be used to conduct, maintain, audit, and optimize our operations, to protect our assets and employees, for product development, and to defend our rights.
+
+Learn more
 
 We collect information about our business operations to make informed decisions about the organization, the business, and to report on performance, audits, and trends. For example, we use this information to analyze the costs and quality of our operations. Where possible, this is done by using aggregated information, but may use personal information.
 
@@ -191,6 +207,8 @@ We collect information from the use of our business processes, websites, cloud a
 #### Cookies and Similar Technologies
 
 When you visit our websites, cloud and online services, software products, or view our content on certain third-party websites, we collect information regarding your connection and your activity by using various online tracking technologies, such as cookies, web beacons, Local Storage, or HTML5. Information that is collected with these technologies may be necessary to operate the website or service, to improve performance, to help us understand how our online services are used, or to determine the interests of our users. We use advertising partners to provide and assist in the use of such technologies on IBM and other sites.
+
+Learn more
 
 A cookie is a piece of data that a website may send to your browser, which may be stored on your computer and can be used to identify your computer. Web beacons, including pixels and tags, are technologies that are used to track a user visiting an IBM web page or if a web page was copied to another website. Local Shared Objects can store content information displayed on the webpage visited, and preferences. All of these technologies may be used to provide connected features across our websites or display targeted IBM advertising (subject to your cookie preferences) on other websites based on your interests. Web beacons may also be used to track your interaction with email messages or newsletters, such as to determine whether messages are opened or links are selected.
 
@@ -210,8 +228,6 @@ For information on cookies and how to remove these technologies by using browser
 
 Unless otherwise indicated, our websites, products, and services are not intended for use by children or minors as specified by law in their jurisdiction.
 
-* * *
-
 Sharing Personal Information
 ----------------------------
 
@@ -222,6 +238,8 @@ We may share your personal information internally and externally with suppliers,
 When sharing personal information, we implement appropriate checks and controls to confirm that the information can be shared in accordance with the applicable law.
 
 If we decide to sell, buy, merge, or otherwise reorganize businesses in some countries, such a transaction may involve disclosing some personal information to prospective or actual business purchasers, or the collection of personal information from those selling such businesses.
+
+Learn more
 
 Internally, personal information is shared for our business purposes: to improve efficiency, for cost savings, and internal collaboration between our subsidiaries (such as Red Hat). For example, we may share personal information such as managing our relationship with you and other external parties, compliance programs, or systems and networks security.
 
@@ -248,8 +266,6 @@ We have implemented various safeguards including:
 * Binding Corporate Rules for Controllers (IBM BCR-C). We have BCR-C approved by the European Data Protection Authorities and the UK Information Commissioner’s Office. For more information, see [IBM Controller Binding Corporate Rules](https://www.ibm.com/us-en/privacy/bcr "IBM Controller Binding Corporate Rules").
 * IBM's privacy practices, described in this Privacy Statement, comply with the APEC Cross Border Privacy Rules Framework. The [APEC Cross Border Privacy Rules](https://www.cbprs.org/) (CBPR) system provides protection of personal information that is transferred among participating [APEC economies](https://cbprs.org/about-cbprs/) as it pertains to online information collected through ibm.com.
 
-* * *
-
 Controller and Representative Information
 -----------------------------------------
 
@@ -273,6 +289,8 @@ The contact details of the main subsidiary of a country or region can be found 
 
 Where IBM Corp. or a subsidiary it controls is required to appoint a legal representative, the following representatives have been appointed.
 
+European Economic Area (EEA)
+
 IBM International Group B.V.,
 
 Johan Huizingalaan 765,
@@ -280,6 +298,8 @@ Johan Huizingalaan 765,
 1066 VH Amsterdam,
 
 The Netherlands
+
+United Kingdom (UK)
 
 IBM United Kingdom Limited,
 
@@ -311,8 +331,6 @@ We retain any contractual relationship information for administrative purposes, 
 
 When personal information is no longer needed, we have processes in place to securely delete it, for example by erasing electronic files and shredding physical records.
 
-* * *
-
 Your Rights
 -----------
 
@@ -330,6 +348,8 @@ The [Submit a data rights request form](https://www.ibm.com/privacy/requests/ "S
 * request to delete the personal information we hold about you;
 * Opt-out of specific personal information processing types, such as targeted advertising
 
+Data Rights Requests Details
+
 When you submit a Data Rights (DR) request, you provide us with personal information, including your name and contact details, which we use to respond to your request. In some circumstances, to verify your identity and to ensure we disclose the personal information to the correct individual, we may also request a copy of your photo ID, which is deleted immediately after verification of your identity.
 
 Upon your DR request, your personal information is processed for handling and fulfilling your DR request, in line with IBM's legal obligations and commitments related to DRs.
@@ -346,14 +366,14 @@ If you have an unresolved privacy or data use concern that we have not addressed
 
 To set or update your marketing communications preferences, visit the [IBM Privacy Preference Center](https://myibm.ibm.com/profile/dataprivacypreferences/welcome/us-en). You can also submit an [opt-out request](https://www.ibm.com/account/reg/us-en/signup?formid=urx-42537), or select **Unsubscribe** at the end of each marketing email.
 
-* * *
-
 Legal Basis
 -----------
 
 In some jurisdictions, the lawful handling of personal information is subject to a justification, sometimes referred to as legal basis. The legal bases that we rely on for the lawful handling of your personal information vary depending on the purpose and applicable law.
 
 The different legal bases that we may use are:
+
+Necessary for the performance of a contract with you
 
 We rely on this legal basis when we need to process certain personal information, such as your contact details, payment details, and shipment details, to perform our obligations or to manage our [contractual relationship](#Contractual_Relationship) with you.
 
@@ -362,6 +382,8 @@ Examples:
 * If you intend to purchase a product or service, we require your business contact information to enter into a contract with you or you may need to create an IBMid (see [Your Account](#Your_Account "Your Account")_)_ to access a purchased product online_._
 * When fulfilling a contract, you may need to receive [support services](#Support_Services), for which we will need to collect your contact information.
 * We need personal information to consider job applicants or manage the pension entitlements of retirees (see [Recruitment and Former Employees](#Recruitment_and_Former_Employees)).
+
+Necessary for the purposes of IBM’s or a third party’s legitimate interest
 
 Legitimate interests relate to being able to conduct and organize business, which includes the marketing of our offerings, protecting our legal interests, securing our IT environment, or meeting client requirements.  
 Examples:
@@ -377,10 +399,14 @@ We may also process personal information where it is necessary to defend our rig
 
 We process personal information for credit protection, which is a specific legal basis under Brazilian law (LGPD) but is also covered under the legal basis of legitimate interest in other countries.
 
+Consent
+
 The processing is based on your consent where we request this.  
 Example:
 
 * the optional use of [Cookies and Similar Technologies](#Cookies_and_Similar_Technologies) or email of [Marketing](#Marketing) materials.
+
+Legal obligation
 
 Where we need to process certain personal information based on our legal obligation**.** Example:
 
@@ -400,8 +426,4 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 3. Your Rights
 4. Your Additional Rights: US States
 
-* * *
-
 We have made our best effort to accurately translate the IBM Privacy Statement into this language. To report any translation concerns, select [Contact Us](https://www.ibm.com/privacy/requests/contact/ "Contact Us") in the header of this page.
-
-* * *
