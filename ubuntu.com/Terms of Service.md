@@ -291,6 +291,8 @@ Sectors
 * [](https://www.facebook.com/ubuntulinux/ "Follow Ubuntu on Facebook")
 * [](https://www.linkedin.com/company/234280 "Find Canonical on LinkedIn")
 * [](https://www.instagram.com/ubuntu_os/ "Follow Ubuntu on Instagram")
+* [](https://www.youtube.com/user/celebrateubuntu "Subscribe to the Ubuntu YouTube channel")
+* [](https://www.tiktok.com/@canonical_ubuntu "Follow Canonical on TikTok")
 * [](https://ubuntu.com/blog/feed "Use the Ubuntu Blog rss feed")
 
 * * *
