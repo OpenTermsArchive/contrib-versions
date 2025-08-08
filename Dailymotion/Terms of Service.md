@@ -9,7 +9,7 @@ If you want to access the main points of our Terms of Use in a simplified way, f
 
 Last update:
 
-May 21, 2025. The new changes become **effective as of May 28, 2025**.
+August 8, 2025. The new changes become **effective as of August 15, 2025**.
 
 If you do not agree to the updated Terms, you can stop using the Dailymotion Service. If you continue to use the Dailymotion Service after the effective date, we consider that you accepted the updated Terms.
 
@@ -514,7 +514,7 @@ In particular, our Users are prohibited from posting any content online:
     • Including any form of threat to a person’s physical integrity and/or property, or  
     • Aiming to intimidate or threatening to reveal information relating to privacy, personal data, and, in particular, information that could identify a person (such as postal or e-mail address, telephone number, bank statement, social security number and/or passport number (doxing));  
     
-4. Disclosing personal information and, in general, any personal data without the permission of the person concerned;  
+4. Disclosing personal information and, in general, any personal data without the permission of the person concerned and in the absence of another applicable legal basis;  
     
 5. Infringing on the privacy and/or image of a given person;  
     
@@ -549,8 +549,10 @@ The automatic detection device implemented by Dailymotion includes:
 
 Dailymotion has put in place a list of keywords and short phrases to prevent the uploading of Content that is clearly contrary to this Prohibited Content Policy. This list is updated every week and takes into account the “**Moderation Decisions**” made during the previous 6 months.
 
-Thus, when uploading Content to the Service, if a word or short phrase in the comment, title or description of the video being uploaded is present in the above-mentioned list, the Content in question will be forwarded to our moderation team.  
-The Restricted Mode may be applied to Video Content (as described in Section IV).
+Dailymotion uses AI-based tools (Artificial Intelligence) as part of the automated detection devices. These tools help to improve the efficiency of the detection process (ex. by detecting Dailymotion-defined keywords and short phrases despite spelling mistakes, abbreviations or multitude of languages). They do not determine whether the examined Content infringes or not the Dailymotion Prohibited Content Policy. They only help to detect Content that might be infringing. 
+
+Thus, when uploading Content to the Service, if a word or short phrase in the comment, title or description of the video or in another category of Content being uploaded is present in the above-mentioned list, the Content in question will be forwarded to our human moderation team who will analyze it and issue a moderation decision.    
+The Restricted Mode may be applied to Video Content (as described in Section IV). 
 
 2. **Technologies for the protection of copyrighted content**
 
