@@ -7,7 +7,7 @@ If you want to access the main points of our Privacy Policy in a simplified way,
 
 Last Update of this Privacy Policy:
 
-May 21st, 2025
+August 8, 2025
 
 Dailymotion respects Your privacy. Our Privacy Policy explains how we collect, use, share and protect Personal Data from or about You in connection with Your use of the Dailymotion Service.
 
@@ -82,12 +82,16 @@ When You access our Service through the **Dailymotion website and app** we rely 
         
 * Legal obligation: we rely on legal obligation when processing Your Personal Data is required by applicable laws. For example, we rely on legal obligation when we process Your Personal Data for the following purposes:
     
-    * Retention of identifying information of a User: as a content hosting platform we are legally obliged to retain identifying information of anyone having uploaded, changed or deleted Content on our Service. Consequently, when we store Your email address or other identifying information following Your upload, change or Content deletion we rely on a legal obligation.
+    * **Retention and mandatory communication of Personal Data to competent authorities**: as a content hosting platform, we are legally required to keep certain limited information about our Users and, if conditions defined by the applicable laws are met, share it with competent public authorities. For example, if You upload, modify, or delete Content on our platform, we must keep records that identify You (ex. Your email address) and some technical information related to these operations. If requested by the competent authorities, we are obliged to provide them with this information. Upon discovery of certain manifestly illegal content on our platform, we must report its presence to the authorities and, if requested, share information about its uploader. The information we need to retain and the exact circumstances when we have an obligation to disclose it to the competent authorities are defined by the applicable laws. Consequently, legal obligation is the legal basis for our processing of Your Personal Data that is necessary to meet the requirements of these laws. 
     
-    * Age collection: some of the legal obligations imposed on on-line service providers depend on the age of their end-users. Consequently, when we ask for Your birthdate during the account-opening process, we do so to be able to comply with these obligations.  
-    * o Mandatory communication: in some cases, we are legally obliged to send you information whether by email or otherwise. For example, if Your Content is moderated, we have to inform You about it. Consequently, when we use Your email to send such notification, we do so to comply with our legal obligation.
-    * o Security: various laws impose security obligations on services like ours. For example, the GDPR imposes on entities processing personal data an obligation to implement adequate security measures that, without warranting absence of breaches, protect processed data. When we use Your Personal Data for the purpose of these security measures, we do so to comply with our legal obligation.
-* Consent: we rely on consent when processing Your Personal Data to determine what interests You have and show You ads that are adapted to Your interests. When there is no already established legal basis for such disclosure, we also ask for Your consent to share Your Personal Data with third parties.
+    * **Age collection**: some of the legal obligations imposed on on-line service providers depend on the age of their end-users. Consequently, when we ask for Your birthdate during the account-opening process, we do so to be able to comply with these obligations.  
+    * **Mandatory communication**: in some cases, we are legally obliged to send you information whether by email or otherwise. For example, if Your Content is moderated, we have to inform You about it. Consequently, when we use Your email to send such notification, we do so to comply with our legal obligation.
+    * **Security**: various laws impose security obligations on services like ours. For example, the GDPR imposes on entities processing personal data an obligation to implement adequate security measures that, without warranting absence of breaches, protect processed data. When we use Your Personal Data for the purpose of these security measures, we do so to comply with our legal obligation.
+    * **Content moderation**: as a content hosting platform, we have a legal obligation to disable access to any hosted Content reasonably believed to be illicit. Consequently, when we process Your Personal Data in relation to Content moderation, we do so to comply with our legal obligation.   
+        
+* **Vital interest**: on rare occasions we may rely on vital interest when processing Your Personal Data. For example, when videos present on our platform constitute an imminent vital risk to somebody, we may disclose its Uploader’s information to competent public authorities before a valid order is presented to us.   
+    
+* **Consent**: we rely on consent when processing Your Personal Data to determine what interests You have and show You ads that are adapted to Your interests. When there is no already established legal basis for such disclosure, we also ask for Your consent to share Your Personal Data with third parties.
 
 Note that when our Processing of Your Personal Data is based on consent, we ask You to communicate Your consent via a positive action (e.g. by clicking the “Accept” button on our Site, Secondary Site or Video Player or through another method compliant under the applicable laws). When Processing of Your Personal Data is based on legal grounds other than consent, we provide You with information regarding the applicable legal grounds and, when applicable, provide You with means to oppose to it.
 
@@ -171,6 +175,12 @@ We may use or work with third parties, including our Commercial Partners and ser
 #### 2.2.2. Collection of Data through Other Means
 
 We may receive Data directly from You (ex. when You open an account, fill-in a questionnaire or contact our Support Team), from some of our Data Partners (ex. general information about your centers of interests deduced by our Data Partners when You use their services or those of third parties) or we may deduce certain information about You based on the information we have.
+
+#### **2.2.3. Use of AI Tools for Processing of Your Data** 
+
+Dailymotion may process your Personal Data using various technologies, which can be traditional software or new technologies including AI (Artificial Intelligence) tools. In particular, AI-based technologies may help us to analyze our Service, prevent non-compliance with our Terms and Conditions, provide You with efficient Service features such as content search and recommendation, or with advanced Content management tools (ex. subtitles or transcripts in foreign languages).  
+
+AI-based tools help us with operating our Service in an efficient and consistent manner, but their use does not result in automated decisions impacting your rights or obligations. For example, we may use AI-based tools as part of our Content moderation process to detect suspicious content (ex. by detecting language generally considered as discriminatory) but the decision about whether or not to take down a given Content is eventually always taken by a human moderator and subject to Your right to appeal. 
 
 **3\. PURPOSES FOR DATA PROCESSING**
 ------------------------------------
@@ -480,7 +490,7 @@ The following categories of PI have been Sold or Shared by Dailymotion for the b
 
 ###### **_**_8.6.1.a.iii. Retention Period of PI_**_**
 
-Your PI is retained for as long as it is needed to fulfill our business purposes, including the execution of a contract we have with You, compliance with legal obligations or as necessary for the establishment, exercise or defense of legal claims. It is deleted, aggregated, deidentified or anonymized once it is no longer needed for the purposes described above. For each type of data and operation, we set retention timeframes based on the purpose for its collection, and ensure it is kept for no longer than necessary.
+Your PI is retained for as long as it is needed to fulfill our business purposes, including the execution of a contract we have with You, compliance with legal obligations or as necessary for the establishment, exercise or defense of legal claims. It is deleted, aggregated, deidentified or anonymized once it is no longer needed for the purposes described above. For each type of data and operation, we set retention timeframes based on the purpose for its collection, and ensure it is kept for no longer than necessary. When Your PI is de-identified we retain and use it without attempting to reidentify it.
 
 ###### **_**_8.6.1.a.iv._**_** Automated Decision-Making
 
