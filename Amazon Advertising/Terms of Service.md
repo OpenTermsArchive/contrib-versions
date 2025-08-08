@@ -1,7 +1,7 @@
 Conditions of Use & Sale
 ========================
 
-_Last updated on 28 March, 2025._
+_Last updated on 8 August, 2025._
 
 Find the previous iteration of the Conditions of Use & Sale on click [Previous versions of Legal policies](https://www.amazon.co.uk/gp/help/customer/display.html/?nodeId=GYT8SUSD2E9EWE8Q). This version of the Conditions of Use & Sale applies to all orders which were placed on or after the last update date indicated above. For orders placed before this date, please access previous versions of the Conditions of Use & Sale and select the version that applied at the time of your order.
 
@@ -40,14 +40,16 @@ You may not extract and/or re-utilise parts of the content of any Amazon Service
 4\. TRADEMARKS
 --------------
 
-[Click here to see a non-exhaustive list of Amazon trademarks](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200952730). In addition graphics, logos, page headers, button icons, scripts, and service names included in or made available through any Amazon Service are trademarks or trade dress of Amazon. Amazon's trademarks and trade dress may not be used in connection with any product or service that is not Amazon's, in any manner that is likely to cause confusion among customers or in any manner that disparages or discredits Amazon. All other trademarks not owned by Amazon that appear in any Amazon Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Amazon.
+[Click here to see a non-exhaustive list of Amazon trademarks](https://www.amazon.co.uk/gp/help/customer/display.html?nodeId=200952730). In addition graphics, logos, page headers, button icons, scripts, and service names included in or made available through any Amazon Service are trademarks or trade dress of Amazon. Amazon's trademarks and trade dress may not be used in connection with any product or service that is not Amazon's or in any manner that is likely to cause confusion among customers. All other trademarks not owned by Amazon that appear in any Amazon Service are the property of their respective owners, who may or may not be affiliated with, connected to, or sponsored by Amazon.
 
 5\. LICENCE AND ACCESS
 ----------------------
 
-Subject to your compliance with these Conditions of Use and applicable Service Terms and your payment of any applicable fees, Amazon or its content providers grant you a limited, non-exclusive, non-transferable, non-sublicensable licence to access and make personal and non-commercial use of the Amazon Services. This licence does not include any resale or commercial use of any Amazon Service or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of any Amazon Service or its contents; any downloading or copying of account information for the benefit of another merchant; or any use of data mining, robots, or similar data gathering and extraction tools.
+Subject to your compliance with these Conditions of Use and applicable Service Terms and your payment of any applicable fees, Amazon or its content providers grant you a limited, non-exclusive, non-transferable, non-sublicensable licence to access and make personal and non-commercial use of the Amazon Services. This licence does not include any resale or commercial use of any Amazon Service or its contents; any collection and use of any product listings, descriptions, or prices; any derivative use of any Amazon Service or its contents; any downloading or copying of account information for the benefit of another merchant; or any use of data mining, robots, or similar data gathering and extraction tools. You may not use the Amazon Services to infringe, misappropriate, or violate intellectual property or other legal rights.
 
-All rights not expressly granted to you in these Conditions of Use or any Service Terms are reserved and retained by Amazon or its licensors, suppliers, publishers, rights holders, or other content providers. No Amazon Service, nor any part of any Amazon Service, may be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without our express written consent. You may not frame or use framing techniques to enclose any trademark, logo or other proprietary information (including images, text, page layout, or form) of Amazon without our express written consent. You may not use any meta tags or any other hidden text utilising Amazon's names or trademarks without our express written consent.
+All rights not expressly granted to you in these Conditions of Use or any Service Terms are reserved and retained by Amazon or its licensors, suppliers, publishers, rights holders, or other content providers. No Amazon Service or its contents, nor any part of any Amazon Service, may be reproduced, duplicated, copied, sold, resold, visited, or otherwise exploited for any commercial purpose without our express written consent. You will not, and will not allow any third party to, use AI-generated content from the Amazon Services to, directly or indirectly, develop or improve large language or multimodal models, machine learning models or related technology, such as AI models and AI systems.
+
+You may not frame or use framing techniques to enclose any trademark, logo or other proprietary information (including images, text, page layout, or form) of Amazon without our express written consent. You may not use any meta tags or any other hidden text utilising Amazon's names or trademarks without our express written consent.
 
 You may not misuse the Amazon Services. You may use the Amazon Services only as permitted by law. The licences granted by Amazon terminate if you do not comply with these Conditions of Use or any Service Terms.
 
@@ -143,10 +145,15 @@ If you breach these Conditions of Use and we take no action, we will still be en
 
 We do not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18 you may use the Amazon Services only with the involvement of a parent or guardian.
 
-18\. OUR CONTACT DETAILS
+18\. GOVERNING LANGUAGE
+-----------------------
+
+In the event of any inconsistency, discrepancy or conflict between the English version of these Conditions of Use and their translation in another language, the English version shall prevail.
+
+19\. OUR CONTACT DETAILS
 ------------------------
 
-This website is owned and maintained by Amazon Europe Core SARL. Specific terms of use and sale for other Amazon Services, for example the MP3 Music Service which is operated by Amazon Media EU SARL, can be found within this website.
+This website is owned and maintained by Amazon Europe Core SARL.
 
 **For Amazon Europe Core SARL:**
 
@@ -168,7 +175,7 @@ RCS Luxembourg No: B-101818
 Business Licence Number: 134248
 Luxembourg VAT Registration Number: LU 20260743
 
-Local Registered Branch:
+**Local Registered Branch:**
 
 Amazon EU SARL, UK Branch, 1 Principal Place, London, Worship Street, EC2A 2FA, United Kingdom
 Registered in England & Wales
@@ -185,7 +192,15 @@ RCS Luxembourg No: 112767
 Business Licence Number: 136312
 Luxembourg VAT Registration Number: LU 20944528
 
-19\. NOTICE AND PROCEDURE FOR MAKING CLAIMS OF RIGHT INFRINGEMENTS
+**For Amazon Digital UK Limited:**
+
+Amazon Digital UK Ltd
+1 Principal Place, Worship Street,
+London, EC2A 2FA
+Registered in UK
+Company Number: 6528297
+
+20\. NOTICE AND PROCEDURE FOR MAKING CLAIMS OF RIGHT INFRINGEMENTS
 ------------------------------------------------------------------
 
 If you believe that your intellectual property rights have been infringed and you are eligible for [Brand Registry](https://brandservices.amazon.co.uk/), please sign up to that service and submit your complaint via Brand Registry. Otherwise, please submit your complaint using our online [Report Infringement form](https://www.amazon.co.uk/report/infringement). This form may be used to report all types of intellectual property claims including, but not limited to, copyright, trademark, design and patent claims
@@ -218,8 +233,26 @@ ADDITIONAL AMAZON SOFTWARE TERMS
 
 1. **Use of the Amazon Software.** You may use Amazon Software solely for purposes of enabling you to use and enjoy the Amazon Services as provided by Amazon, and as permitted by the Conditions of Use, these Software Terms and any Service Terms. You may not incorporate any portion of the Amazon Software into your own programs or compile any portion of it in combination with your own programs, transfer it for use with another service, or sell, rent, lease, lend, loan, distribute or sub-license the Amazon Software or otherwise assign any rights to the Amazon Software in whole or in part. You may not use the Amazon Software for any illegal purpose. We may cease providing any Amazon Software and we may terminate your right to use any Amazon Software at any time. Your rights to use the Amazon Software will automatically terminate without notice from us if you fail to comply with any of these Software Terms, the Conditions of Use or any other Service Terms. Additional third party terms contained within or distributed with certain Amazon Software that are specifically identified in related documentation may apply to that Amazon Software (or software incorporated with the Amazon Software) and will govern the use of such software in the event of a conflict with these Conditions of Use. All software used in any Amazon Service is the property of Amazon or its software suppliers and protected by Luxembourg and international copyright laws.
 2. **Use of Third Party Services.** When you use the Amazon Software, you may also be using the services of one or more third parties, such as a wireless carrier or a mobile platform provider. Your use of these third party services may be subject to the separate policies, terms of use, and fees of these third parties.
-3. **No Reverse Engineering.** Unless explicitly permitted under applicable mandatory law, you may not, and you will not encourage, assist or authorise any other person to copy, modify, reverse engineer, decompile or disassemble, or otherwise tamper with, the Amazon Software, whether in whole or in part, or create any derivative works from or of the Amazon Software.
+3. **No Reverse Engineering.** Unless explicitly permitted under applicable mandatory law, you may not, and you will not encourage, assist or authorise any other person to copy, modify, reverse engineer, decompile or disassemble, apply any other process or procedure to derive the source code or other underlying components (such as a model, model parameters, or model weights), or otherwise tamper with, the Amazon Software, whether in whole or in part, or create any derivative works from or of the Amazon Software.
 4. **Updates.** In order to keep the Amazon Software up-to-date, we may offer automatic or manual updates at any time and without notice to you.
+
+AGENTS
+------
+
+The terms in this section (“Agent Terms”) apply if you use, allow, enable, or cause the deployment of an Agent to access, use, or interact with any Amazon Services. For the purposes of these Agent Terms, "Agent” means any software or service that takes autonomous or semi-autonomous action on behalf of, or at the instruction of, any person or entity.
+
+1. **Transparency and Consent.** No Agent may access, use, or interact with Amazon Services unless, at all times, it identifies itself and operates in strict accordance with the requirements in section 3 of these Agent Terms. In addition, no Agent may access, use, or interact with Amazon Services if we have requested that the Agent refrain from accessing, using, or interacting with any Amazon Service.
+2. **Limitation on Access.** At our sole discretion, we may limit, including by technical measures, whether and how any Agent accesses, uses, and interacts with Amazon Services.
+3. **Technical Requirements.** Agents must:
+    
+    1. In all HTTP/HTTPS requests, identify that the request is from an Agent and disclose the name of the Agent by including the following in the request’s user agent string:
+        
+        “Agent/\[agent name\]” (e.g., Agent/AmazonAgent)
+        
+    2. Not conceal or obfuscate that any access, use, or interactions are from an Agent, such as by (a) mimicking the speed or pattern of human keystrokes, page navigation, or other interactions or (b) completing or circumventing CAPTCHAs or other measures intended to distinguish computers from humans.
+    3. Respond truthfully to any question or prompt seeking to determine if interactions are coming from a human or a computer.
+    4. Not circumvent or otherwise avoid any measure intended to block, limit, modify, or control whether and how Agents access, use, or interact with an Amazon Service.
+    
 
 Conditions of Sale
 ------------------
@@ -341,7 +374,12 @@ If you breach these Conditions of Sale and we take no action, we will still be e
 
 We do not sell products for purchase by children. We sell children's products for purchase by adults. If you are under 18 you may only use Amazon.co.uk with the involvement of a parent or guardian.
 
-13\. OUR CONTACT DETAILS
+13\. GOVERNING LANGUAGE
+-----------------------
+
+In the event of any inconsistency, discrepancy or conflict between the \[insert main local language for each store\] version of these Conditions of Sale and their translation in another language, the \[insert main local language for each store\] version shall prevail.
+
+14\. OUR CONTACT DETAILS
 ------------------------
 
 Our contact details are:
