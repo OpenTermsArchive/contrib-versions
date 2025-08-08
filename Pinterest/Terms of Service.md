@@ -1,7 +1,7 @@
-Terms of Service | Pinterest Policy
+Terms of Service
 
 
-=======================================
+====================
 
 Table of Contents
 
