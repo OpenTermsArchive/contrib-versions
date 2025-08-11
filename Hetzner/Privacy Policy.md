@@ -461,7 +461,7 @@ In some cases, especially if there are doubts about the accuracy of the data you
 
 ##### What data will be processed and how does it reach Hetzner?
 
-To verify your identity, we may ask you to provide a **alid ID document** (e.g. passport or national ID card). The following data may be processed: **name, address, date of birth, expiry date of the document.**  
+To verify your identity, we may ask you to provide a **valid ID document** (e.g. passport or national ID card). The following data may be processed: **name, address, date of birth, expiry date of the document.**  
 **You may black out or hide other information on the document that is not needed.**
 
   
