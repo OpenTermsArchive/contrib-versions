@@ -45,7 +45,7 @@ Licence
 
 This licence covers the basic Business Profile information that you provide, if that information is protected by intellectual property rights.
 
-You give Google a perpetual (which means for as long as that information is protected by intellectual property rights), irrevocable, worldwide, royalty free and non-exclusive licence to reproduce, adapt, modify, translate, publish, publicly perform, publicly display, distribute and create derivative works of the basic Business Profile information (such as the entity name, location, phone number, category, hours and website). Notwithstanding this licence, you may revoke your consent for Google Assistant to send automated calls or texts to your Business Profile number at any time. [Learn more about phone calls from Google Assistant](https://support.google.com/business/answer/7690269).
+You give Google a perpetual (which means for as long as that information is protected by intellectual property rights), irrevocable, worldwide, royalty free and non-exclusive licence to reproduce, adapt, modify, translate, publish, publicly perform, publicly display, distribute and create derivative works of the basic Business Profile information (such as the entity name, location, phone number, category, hours and website). Notwithstanding this licence, you may revoke your consent for Google to send automated calls or texts to your Business Profile number at any time. [Learn more about automated calls and texts from Google to confirm business info](https://support.google.com/business/answer/7690269).
 
 You also grant to other Google services users the right to access and use, including the right to edit, that information as permitted under the applicable Google Terms of Service.
 
