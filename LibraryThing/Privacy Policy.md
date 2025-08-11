@@ -41,6 +41,29 @@ All LibraryThing members have access to their own Member [Privacy Center](https:
 * Export and download account data (incomplete as of June 8, 2018)
 * Disable or delete your account
 
+### How to Delete Your Data
+
+LibraryThing members have full control over deleting their accounts and personal data.
+
+#### To permanently delete your account and associated data:
+
+1. Go to your [Account Settings](https://www.librarything.com/settings/account).
+2. Scroll to the bottom of the page, under the **“Big Steps”** section, and click **Delete Account**.
+3. You’ll be prompted to confirm your password.
+4. After confirming, you’ll be taken to the **Delete Account** page, where you can review and complete the process.
+
+#### On the Delete Account page, you’ll see information about what deletion means:
+
+* Your account and all personal data will be permanently deleted and cannot be restored.
+* Your books, reviews, ratings, and library data will be removed.
+* Contributions to shared community resources, such as book covers or Common Knowledge entries, are retained.
+* If you use TinyCat, your catalog will be disabled.
+* You can choose whether to keep, anonymize, or delete your Talk posts and profile comments.
+
+Before deleting your account, you have the option to [export your library](https://www.librarything.com/more/import) and [download your personal data](https://www.librarything.com/settings/export).
+
+If you need assistance or prefer to request deletion manually, you can contact us at [info@librarything.com](mailto:info@librarything.com).
+
 ### Private libraries
 
 LibraryThing allows "private" libraries—libraries that others can't see. We cannot give an absolute 100% guarantee of privacy. After all, even Amazon had a day when all their "anonymous" reviewers were exposed by mistake. If the public disclosure of your library would really damage you, by all means don't post it online.
