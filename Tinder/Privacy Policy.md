@@ -55,7 +55,7 @@ If you live in Japan, the company responsible for your data is:
 > MG Japan Services GK  
 > Sumitomo Fudosan Azabu Bldg  
 > 1-4-1 Mita  
-> Minato-ku,Tokyo 108-0073  
+> Minato-ku, Tokyo 108-0073  
 > Japan
 
 If you live outside the EEA, the United Kingdom, Switzerland and Japan, the company responsible for your data is:
