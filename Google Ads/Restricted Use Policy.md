@@ -63,7 +63,7 @@ Prohibited content
 > 
 > ### [Inappropriate content](https://support.google.com/adspolicy/answer/6015406)
 > 
-> > We value diversity and respect for others, and we strive to avoid offending users, so we don’t allow ads or destinations that display shocking content or promote hatred, intolerance, discrimination, or violence.
+> > Google Ads values diversity and respect for others and strives to avoid offending users, so ads or destinations that display shocking content or promote hatred, intolerance, discrimination, or violence aren’t allowed.
 > > 
 > > **Examples of inappropriate or offensive content (non-exhaustive)**: bullying or intimidation of an individual or group, racial discrimination, content promoting hate groups or hate group paraphernalia, graphic crime scene or accident images, cruelty to animals, murder, self-harm, extortion or blackmail, sale or trade of endangered species, ads using profane language, and content promoting the sexual exploitation of minors
 
@@ -76,7 +76,7 @@ Prohibited practices
 
 > ### [Abusing the ad network](https://support.google.com/adspolicy/answer/6020954)
 > 
-> > Ads across the Google Network should be useful, varied, relevant, and safe for users. Google Ads doesn't allow advertisers to run ads, content, or destinations that attempt to trick or circumvent our ad review processes.
+> > Ads across the Google Network should be useful, varied, relevant, and safe for users. Google Ads doesn't allow advertisers to attempt to trick or circumvent our ad review processes with their ads, content, or destinations.
 > > 
 > > Learn more about the [Abusing the ad network policy](https://support.google.com/adspolicy/answer/6020954).
 > > 
@@ -94,7 +94,7 @@ Prohibited practices
 > 
 > ### [Misrepresentation](https://support.google.com/adspolicy/answer/6020955)
 > 
-> > We want users to trust the ads on our platform, so we strive to ensure ads are clear and honest, and provide the information that users need to make informed decisions. We don’t allow ads or destinations that deceive users by excluding relevant product information or providing misleading information about products, services, or businesses.
+> > Ads or destinations that deceive users by excluding relevant product information or providing misleading information about products, services, and businesses can compromise user trust in the Google Ads platform. The Misrepresentation policy strives to ensure that ads are clear, honest, and provide information that users need to make informed decisions.
 > > 
 > > Below are some examples of what to avoid in your ads. Learn more about [What happens if you violate our policies](https://support.google.com/adspolicy/answer/7187501).
 > > 
