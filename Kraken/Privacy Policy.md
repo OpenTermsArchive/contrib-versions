@@ -1,4 +1,4 @@
-_Last Updated: 16 July 2025_
+_Last Updated: 12 August 2025_
 
 For residents of the United States and US Territories, please refer to the [US Privacy Notice](https://www.kraken.com/en-gb/legal/privacy/us-notice).  
  
@@ -6,7 +6,7 @@ For residents of the United States and US Territories, please refer to the [US 
 **1\. Introduction**
 --------------------
 
-This privacy notice applies to the processing activities performed by Kraken to the personal data of its clients, prospective clients, users of Kraken’s products that run on-chain (such as Kraken Verify), and website visitors. 
+This privacy notice applies to the processing activities performed by Kraken to the personal data of its clients, prospective clients, individuals Kraken clients transact with, users of Kraken’s products that run on-chain (such as Kraken Verify), and website visitors. 
 
 Your privacy is of the utmost importance to us. It is our policy to safeguard the confidentiality of information and respect the privacy of individuals. 
 
@@ -89,6 +89,10 @@ Kraken uses third party service providers for operational support in areas inclu
 In certain circumstances, third parties to whom we disclose your personal data, may act as independent data controllers for specific processing activities. For example, our card-issuing partner acts as an independent controller when processing Krak card information for fraud prevention and AML checks as well as to comply with their other regulatory obligations.
 
 If Kraken discloses your personal data to service providers and business partners, in order to perform the services requested by clients or to comply with our legal and regulatory obligations, such providers and partners may store your personal data within their own systems. We require them to protect the confidentiality of this personal data, and comply with all relevant privacy and data protection laws.
+
+Kraken may also disclose your personal data to banking and payments partners for the purpose of investigating and responding to potential sanctions violations and crime including fraud and money laundering.
+
+With your consent, Kraken may disclose your name and email to Trustpilot to enable you to leave a review of Kraken without having to create a full Trustpilot account.
 
 In connection with Kraken’s global operations and our compliance with applicable law across the jurisdictions where Kraken operates, we may disclose your personal data regarding your use of Kraken services and our platform to governmental, regulatory, or law enforcement authorities, including those outside the jurisdiction where you reside to the extent that Kraken is required to make such disclosures. Such disclosures will only be made in accordance with applicable laws (including, without limitation, regulations administered by the U.S. Department of the Treasury’s Office of Foreign Assets Control (“**OFAC**”, which includes the Specially Designated Nationals “ **SDN** ” List and other non-SDN restricted or blocked parties lists) and/or anti-money laundering and/or economic sanctions laws and regulations made by the governments of the European Union, the United Kingdom, Canada and any other applicable national, regional, provincial, state, municipal or local laws and regulations as amended from time to time) that apply to you or Kraken, as well as in response to court orders or other lawful requests made by such authorities in those jurisdictions. 
 
@@ -261,9 +265,3 @@ Kypranoros 15, Nicosia 1061, Cyprus
 
 Postal address:  
 P.O.Box 23378, 1682 Nicosia, Cyprus
-
-**For clients of Kraken Futures (Singapore):**
-
-Personal Data Protection Commission  
-10 Pasir Panjang Road,  
-#03-01 Mapletree Business City Singapore 117438
