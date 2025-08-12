@@ -4,7 +4,7 @@ Terms of Service
 
 **(These terms apply if you live or have your principal place of business in the European Economic Area, Switzerland or the UK)**
 
-_Last updated: July 2025_
+_Last updated: August 2025_
 
 Welcome to TikTok.
 
@@ -17,7 +17,6 @@ While we encourage you to read these Terms in full, click [here](https://www.tik
 _In short: This is a contract between you and TikTok. You should read it and any other terms that apply to you._
 
 **1\. Who your contract is with**
----------------------------------
 
 The company you are contracting with depends on where you are resident or have your principal place of business:
 
@@ -26,10 +25,9 @@ The company you are contracting with depends on where you are resident or have y
 
 We and the companies affiliated with us (such as TikTok Information Technologies UK Limited, TikTok Inc. and TikTok Pte. Ltd.) (“**Affiliates**”) provide the Platform around the world.
 
-_In short: The specific TikTok company your contract is with depends on where you live. If we say “TikTok”, “we” or “us” in these Terms, we mean that company unless we say otherwise._
+_In short: The specific TikTok company your contract is with depends on where you live. If we say_ “_TikTok_”_,_ “_we_” _or_ “_us_” _in these Terms, we mean that company unless we say otherwise._
 
 **2\. The services covered by these Terms**
--------------------------------------------
 
 These Terms govern your use of TikTok services, which includes TikTok apps, websites, software and related services (the “**Platform**”). Our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en) also form part of our contract with you and, by agreeing to these Terms, you agree that you will comply with them and that you will not circumvent them.
 
@@ -38,7 +36,6 @@ Your use of TikTok’s Commercial Products (defined in the Commercial Terms of S
 _In short: These Terms apply to your use of all TikTok services (except Commercial Products) however you access them. You must also follow our Community Guidelines and any other terms and policies that apply to you._
 
 **3\. Additional terms that apply if you use certain features**
----------------------------------------------------------------
 
 The additional terms and policies below apply to certain products or features of the Platform, or if you use the Platform for business or commercial purposes. Where they apply, they form part of these Terms and your contract with us and you must comply with, and not circumvent, them.
 
@@ -60,9 +57,8 @@ Further terms may apply to certain activities. We will let you know about these 
 _In short: There are some additional terms and policies that apply if you access additional functionality, post or live stream certain kinds of content, or use the Platform for business or commercial purposes._
 
 **4\. Using the Platform**
---------------------------
 
-### **4.1 Our Platform and business model**
+**4.1 Our Platform and business model**
 
 The Platform allows you and others to create, view and share content, and interact with others. We also personalise parts of your experience on the Platform, such as the “For You” feed. The “For You” feed uses a recommendation system to allow you to discover a breadth of content, creators and topics that are likely to be interesting for you. In deciding what gets recommended, the system takes into account factors such as likes, shares, comments, searches, diversity of content, and popular videos. Learn more about the recommendation system and the tools you can use to customise your feed [here](https://support.tiktok.com/en/using-tiktok/exploring-videos/how-tiktok-recommends-content) (this information forms part of these Terms).
 
@@ -76,7 +72,7 @@ Information on how we use data we collect about you can be found in our [Privacy
 
 _In short: The Platform allows you to create, view and share content, and interact with others. You do not have to pay to use most features on our Platform but, in exchange, we allow some individuals and businesses to advertise and we receive payment for this._
 
-### **4.2 Account details**
+**4.2 Account details**
 
 You can use some basic features of the Platform without having an account. If you use the Platform without an account, these Terms will still apply and we will still process your personal data in accordance with our [Privacy Policy](https://www.tiktok.com/legal/privacy-policy-eea?lang=en).
 
@@ -85,20 +81,20 @@ To access the full functionality of the Platform, you must create an account wit
 When you create an account:
 
 * you must provide accurate and up-to-date information about yourself (such as your date of birth);
-* your account, content and Platform settings (including privacy settings) will sync across the Platform, including across each TikTok app. For example, when you create an account via TikTok, you will be able to access any other TikTok apps available in your country using that account; and 
+* your account, content and Platform settings will sync across the Platform, including across each TikTok app. For example, when you create an account via TikTok, you will be able to access any other TikTok apps available in your country using that account; and 
 * you agree to maintain and promptly update your details if they change. See our [Help Center](https://support.tiktok.com/en/) for information about opening an account. Any changes you make to these details, content or settings, will also sync across the Platform.
 
 It is important that you take reasonable steps to keep your account password secure and do not disclose it to any third party. If you know or suspect that any third party knows your password or has accessed your account, please let us know straight away [here](https://www.tiktok.com/legal/report/feedback?lang=en).
 
 _In short: Your account is important. Keep it safe and up to date. When you create an account in one TikTok app, you will be able to use the same account to access other TikTok services in your country._
 
-### **4.3 Minimum age**
+**4.3 Minimum age**
 
 You can only use the Platform if you are 13 years or older, although for some features you need to be older (we will tell you when this is the case). We monitor for underage use and will suspend (whilst we investigate) or terminate your account if we reasonably suspect you are underage or are allowing someone underage to use your account. You can appeal our decision to terminate your account if you think we have made a mistake.
 
 _In short: You need to be 13 or over to use our Platform._
 
-### **4.4 What you can do on the Platform**
+**4.4 What you can do on the Platform**
 
 You can use the Platform to:
 
@@ -124,13 +120,13 @@ Access to certain features of the Platform depends on your age. For example:
 
 _In short: You can do many things on our Platform, including creating and sharing content and interacting with others and their content. However, you might not be able to use every feature if you are not old enough._
 
-### **4.5 What you can’t do on the Platform**
+**4.5 What you can’t do on the Platform**
 
 Our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en) apply to everyone and to all content on the Platform. You must not create, post, share, link to or otherwise interact with content in breach of our Community Guidelines.
 
 Also, you must not use the Platform to:
 
-* do anything illegal (this includes posting, live steaming or distributing illegal content);
+* do anything illegal (this includes posting, live streaming or distributing illegal content);
 * do anything that violates applicable laws, regulations, or requirements where you live or where we operate, including anti-corruption, anti-money laundering, counter terrorist financing, import controls, export controls and economic sanctions laws or regulations;
 * engage with others, including minors, in an exploitative or inappropriate way;
 * undermine the Platform’s operations or security;
@@ -154,12 +150,12 @@ You can report suspected illegal content or content which otherwise breaches the
 
 _In short: Enjoy using our Platform but, for the benefit of all our users, there are rules you need to follow. If you see something that should not be on our Platform, please tell us_.
 
-### **4.6 Your content**
+**4.6 Your content**
 
 It is important you understand what happens to the content you create, post or share on the Platform:
 
 * You are responsible for the content you make available on the Platform and you should have all the rights needed to create, post or share it.
-* Content you create, post or share via one TikTok service may be automatically shared across the Platform (although your privacy settings will still apply).
+* Content you create, post or share via one TikTok service may be automatically shared across the Platform.
 * We review content both proactively and reactively. For example, we have systems to detect content that breaches our rules and we respond to notices from users and authorities. To do this we use a combination of technology and human moderators. Our approach to content moderation is explained [here](https://www.tiktok.com/transparency/en/content-moderation/) (the information on this page forms part of these Terms).
 * We may restrict access to or remove any content, including yours, if we reasonably believe (i) it is in breach of these Terms or our [Community Guidelines](https://www.tiktok.com/community-guidelines?lang=en); or (ii) it causes harm to us, Affiliates, other users or third parties. Our Community Guidelines set out how content might be removed or restricted on the Platform.
 * If we remove or restrict access to your content, we will notify you without undue delay and let you know the reasons for our decision, unless it is not appropriate for us to do so (for example, we are legally prevented from doing so).
@@ -168,13 +164,13 @@ It is important you understand what happens to the content you create, post or s
 * If other users of the Platform have used your content to create new content (e.g. by using Duet or Stitch), their that new content may stay on the Platform even if you delete your content or your account. Similarly, if they have shared your content on third party services, your content may stay on the third party service after you delete your content or account on the Platform. You can make a separate request for Duet or Stitch videos that contain your content to be deleted.
 * You can restrict how other users interact with and use your content in your Platform settings. You should check these settings before you post content on the Platform.
 
-### **4.7 Posting Branded Content**
+**4.7 Posting Branded Content**
 
 If you post content on the Platform promoting or reviewing a third party brand or its products or services in exchange for payment or any other incentive you must comply with the Branded Content Policy, unless you are using one of TikTok’s paid ad services (e.g. Promote or TikTok Ads Manager). You must use appropriate disclosures including any functionality we provide to ensure that any posts that are, for example, sponsored, are clear.
 
 _In short: Where you post about a brand, product or service in return for any payment or other incentive, you should follow our Branded Content Policy and include any necessary disclosures, so your relationship is clear._
 
-### **4.8 Respecting the intellectual property rights of others**
+**4.8 Respecting the intellectual property rights of others**
 
 We respect copyright and other intellectual property rights. Please read our [Intellectual Property Policy](https://www.tiktok.com/legal/page/global/copyright-policy/en). You can report suspected infringements of intellectual property rights on the Platform here:
 
@@ -183,7 +179,7 @@ We respect copyright and other intellectual property rights. Please read our [In
 
 _In short: You should read our Intellectual Property Policy and follow those additional rules._
 
-### **4.9 Ownership of content and grant of licences**
+**4.9 Ownership of content and grant of licences**
 
 We don’t own your content. If you are the owner of the intellectual property rights in the content you create or share on the Platform, nothing in these Terms changes that.
 
@@ -211,7 +207,6 @@ If you choose to submit comments, ideas or feedback to us, you agree we can use 
 _In short: When you post content to the Platform, it remains yours. But we can use your content to provide the Platform, and if you choose to make it available to others, we can show it to other users. Those other users may be able to reuse it too. That is what our Platform is all about. If you later take it down, copies of it made by others may stay on the Platform._
 
 **5\. What we promise to you**
-------------------------------
 
 We promise to use reasonable skill and care and to act with professional diligence for so long as we choose to offer the Platform. We will also take all reasonable steps to keep the Platform a safe and secure environment for our users. We do not promise to offer the Platform forever or in its current form for any particular period of time.
 
@@ -242,15 +237,14 @@ If you are an EEA-based consumer, then EEA consumer laws provide you with a lega
 _In short: We always want you to have a great and safe user experience, but you take the Platform as it is and understand we do not control everything on it. We also cannot promise all content posted on the Platform is to your liking. If you are an EEA consumer, you have a legal guarantee covering the Platform, and you can make a claim under this by contacting us._
 
 **6\. Restricting, suspending or ending our relationship**
-----------------------------------------------------------
 
-### **6.1 Your rights**
+**6.1 Your rights**
 
 You may end your relationship with TikTok at any time by simply closing your account and stopping your use of the Platform. Instructions for how to do this are in our [Help Center](https://support.tiktok.com/en/). Consumers in the EEA can also withdraw from this contract using the model form [here](https://www.tiktok.com/legal/model-withdrawal-form-eea?lang=en).
 
 _In short: We want you to stay, but you can go whenever you want if you close your account and stop using the Platform._
 
-### **6.2 TikTok’s rights**
+**6.2 TikTok’s rights**
 
 If we suspect you have breached these Terms or our Community Guidelines we may investigate. While we do so, we are allowed to restrict or take down some or all of your content, or suspend your access to some or all features of the Platform.
 
@@ -272,9 +266,8 @@ We can request that you install updates or automatically update or modify the Pl
 _In short: We have rules you must follow. If you break them, we can take action against you which may include terminating your account._
 
 **7\. Changes to these Terms or the Platform**
-----------------------------------------------
 
-### **7.1 What happens when we make changes**
+**7.1 What happens when we make changes**
 
 We may make changes to these Terms or the Platform from time to time. If we do, we will consider your reasonable interests before doing so.
 
@@ -286,7 +279,7 @@ If you do not agree to the changes to the Terms or the Platform, you should stop
 
 _In short: Our Platform will not stay the same forever. If these Terms or the Platform changes significantly, we will tell you. It won’t change anything between us that has happened already but, if you want to keep using the Platform in the future, you will need to agree to the changes. Our Platform will evolve as we improve it._
 
-### **7.2 Reasons for changes**
+**7.2 Reasons for changes**
 
 Reasons we might make changes to these Terms or the Platform are:
 
@@ -301,7 +294,6 @@ Reasons we might make changes to these Terms or the Platform are:
 _In short: We can make changes to these Terms or the Platform for a limited number of reasons._
 
 **8\. Resolving disputes**
---------------------------
 
 If we have a dispute, we will first try and resolve it with you amicably.
 
@@ -317,7 +309,6 @@ If you are operating a business, please see our [Business Terms](https://www.tik
 _In short: We hope we do not get into a dispute but, if we do, there are a couple of ways we can try to resolve it._
 
 **9\. Other**
--------------
 
 These Terms, and any rights and permissions granted in them, cannot be transferred by you, but may be transferred by TikTok. If we do so, this will not negatively affect any rights you may have as a consumer. And, if you are not happy, you always have the right to terminate this contract and stop using the Platform at any time.
 
@@ -332,7 +323,6 @@ Even if we or you delay in enforcing these Terms, either of us can still enforce
 _In short: Just because you or we do not rely on one of these Terms, this does not change the fact that we both agree these Terms are the agreement between us._
 
 **10\. Contacting TikTok**
---------------------------
 
 You can contact us here: [Share your feedback](https://www.tiktok.com/legal/report/feedback?lang=en)
 
