@@ -68,6 +68,55 @@ We reserve the right, but not the obligation, to: (1) monitor the Site for viola
 
 “Solana” and our logos, our product or service names, our slogans and the look and feel of the Service are trademarks of the Foundation and may not be copied, imitated or used, in whole or in part, without our prior written permission, which may be obtained by emailing operations@solana.foundation. All other trademarks, registered trademarks, product names and company names or logos mentioned on the Service are the property of their respective owners. Reference to any products, services, processes or other information by trade name, trademark, manufacturer, supplier or otherwise does not constitute or imply endorsement, sponsorship or recommendation by us.
 
+**Repeat Infringer Policy**
+
+The Foundation maintains a policy to suspend or terminate user accounts that repeatedly infringe the intellectual property rights of others. 
+
+**Copyright Infringement Notice – Framework and Requirements**
+
+The Foundation complies with the Digital Millennium Copyright Act (“**DMCA**”) and responds to notices alleging copyright infringement in accordance with Section 512 of the DMCA. This section also establishes procedures for counter-notifications in cases where a user disputes the removal of content.
+
+To submit a DMCA takedown notice, please provide the following information:
+
+1. **Your electronic or physical signature** (typing your full name in an email or webform is sufficient);
+2. **A description of the copyrighted work** you believe has been infringed, along with a URL or location where we can review the original work;
+3. **Identification of the material** that you claim is infringing and its location (such as a URL) on the Foundation’s website, application, or service;
+4. **Your contact information**, including name, address, telephone number, and email address;
+5. **A statement** that you have a good faith belief that the use of the material is not authorized by the copyright owner, their agent, or the law; and
+6. **A statement under penalty of perjury** that the information in your notice is accurate and that you are the copyright owner or authorized to act on behalf of the owner.
+
+Please submit your notice to the Foundation’s designated copyright agent:
+
+**Solana Foundation**
+
+Attn: Copyright Agent
+
+16 Dammstrasse, 6300 Zug Switzerland
+
+Email: dmcaagent@solana.org
+
++41 41 562 73 63 
+
+  
+
+By submitting a notice, you acknowledge that the Foundation may share the information you provide with the individual who posted the allegedly infringing content.
+
+**Important Legal Notice:** Copyright law requires that you consider applicable defenses such as fair use before submitting a takedown request. If you are unsure whether the material infringes your copyright, you should seek legal advice. Submitting false claims may result in liability under **17 U.S.C. § 512(f)**, including damages, costs, and attorneys’ fees.
+
+**Submitting a Counter-Notice**
+
+If your content has been removed or disabled as a result of a DMCA notice and you believe it was wrongly removed, you may submit a counter-notice to the Foundation’s copyright agent.
+
+A valid counter-notice must include:
+
+1. Your physical or electronic signature;
+2. Identification of the material that was removed or disabled and the location where it appeared before removal;
+3. A statement under penalty of perjury that you have a good faith belief that the material was removed or disabled as a result of mistake or misidentification;
+4. Your name, address, and telephone number; and
+5. A statement that you consent to the jurisdiction of the federal district court in which your address is located (or if outside the U.S., any judicial district in which the Foundation may be found), and that you will accept service of process from the person who filed the original DMCA notice.
+
+Upon receipt of a valid counter-notice, the Foundation may forward it to the party who submitted the original infringement notice. If that party does not file a court action within **ten business days**, the Foundation may, at its discretion, restore the removed material.
+
 **DISPUTE RESOLUTION**
 
 **Please read the following section carefully because it requires you to arbitrate certain disputes and claims with the Foundation and limits the manner in which you can seek relief from us, unless you opt out of arbitration by following the instructions set forth below. No class or representative actions or arbitrations are allowed under this arbitration provision.** In addition, arbitration precludes you from suing in court or having a jury trial. \*\*
