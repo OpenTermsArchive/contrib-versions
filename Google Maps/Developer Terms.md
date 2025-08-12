@@ -167,6 +167,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Digital Atlas of Australia: [https://digital.atlas.gov.au/datasets/7f1d581ac75446629e66d1fd1c05a1e9/about](https://digital.atlas.gov.au/datasets/7f1d581ac75446629e66d1fd1c05a1e9/about)
             
+        * Victoria's Big Build: [https://bigbuild.vic.gov.au/terms-of-use](https://bigbuild.vic.gov.au/terms-of-use)
+            
     4. **Austria**
         * You are not permitted, at any one time, to use Austrian Postal Data to provide, display or provide access to mass downloads or bulk feeds of numerical latitude and longitude coordinates.
             
