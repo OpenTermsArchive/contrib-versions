@@ -84,7 +84,7 @@ Copyright Designated Agent
 Brave, Inc.  
 580 Howard St. Unit 402,  
 San Francisco, CA 94105  
-Support: [community.brave.com](https://community.brave.com/)
+Support: [community.brave.app](https://community.brave.app/)
 
 Brave Premium Products[](#brave-premium-products "Permalink to this headline")
 ------------------------------------------------------------------------------
