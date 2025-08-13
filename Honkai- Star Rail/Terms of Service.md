@@ -1,6 +1,6 @@
 TERMS OF SERVICE
 
-**Last Updated: May 21st, 2025**
+**Last Updated: August 13th, 2025**
 
 PLEASE READ THESE TERMS OF SERVICE CAREFULLY, INCLUDING OUR PRIVACY POLICY.
 
@@ -344,7 +344,7 @@ The Informal Resolution Period is designed to allow the parties to make a fair, 
 
 (ii). **Written Notice of Dispute.**
 
-The informal Dispute resolution process shall be deemed to have begun upon the receipt of written notice from one party to the other ("Written Notice of Dispute"). The Written Notice of Dispute must include: (a) the full name and contact information of the complainant, (b) a detailed description of the claim or Dispute, including dates, (c) the specific damages or other remedy or remedies that the complainant is seeking, and (d) a screenshot from the COGNOSPHERE Services showing your Account and player ID. If COGNOSPHERE has a dispute with you, we must first send a Written Notice of Dispute detailing the Dispute and sending it to you to the address we have on file for you (whether physical or electronic), or, if we do not have an address, via an in-app notice. If you have a dispute with us, you must first send to us a Written Notice of Dispute detaining the Dispute at COGNOSPHERE PTE. LTD. 405 E Laburnum Ave, Ste 3 PMB 109, Richmond, VA 23222.
+The informal Dispute resolution process shall be deemed to have begun upon the receipt of written notice from one party to the other ("Written Notice of Dispute"). The Written Notice of Dispute must include: (a) the full name and contact information of the complainant, (b) a detailed description of the claim or Dispute, including dates, (c) the specific damages or other remedy or remedies that the complainant is seeking, and (d) a screenshot from the COGNOSPHERE Services showing your Account and player ID. If COGNOSPHERE has a dispute with you, we must first send a Written Notice of Dispute detailing the Dispute and sending it to you to the address we have on file for you (whether physical or electronic), or, if we do not have an address, via an in-app notice. If you have a dispute with us, you must first send to us a Written Notice of Dispute detailing the Dispute at COGNOSPHERE PTE. LTD. 405 E Laburnum Ave, Ste 3 PMB 109, Richmond, VA 23222.
 
 A Written Notice of Dispute is only valid if it pertains to and is on behalf of the complaining party individually; a Written Notice of Dispute brought on behalf of multiple parties is not valid.
 
