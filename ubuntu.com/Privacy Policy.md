@@ -309,7 +309,6 @@ On this page
 -----------------------------------------------------------------
 
 * [MLOps](https://ubuntu.com/ai/mlops)
-* [Kubeflow](https://ubuntu.com/ai/what-is-kubeflow)
 * [MLflow](https://ubuntu.com/ai/mlflow)
 * [Consulting](https://ubuntu.com/ai/consulting)
 * [Data Science](https://ubuntu.com/ai/data-science)
