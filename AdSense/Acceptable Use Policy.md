@@ -463,7 +463,6 @@ Google must comply with sanctions and export controls maintained by the United S
 * So-called Donetsk People's Republic (DNR) and Luhansk People's Republic (LNR) 
 * Iran
 * North Korea
-* Syria
 
 Google publisher products also may not be used for or on behalf of a party located in the above listed sanctioned countries or regions. 
 
