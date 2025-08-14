@@ -4,6 +4,10 @@ Community Guidelines
 Overview
 --------
 
+On September 13, 2025, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/?cgversion=2025H2update).
+
+  
+
 Released April 17, 2024
 
 Effective May 17, 2024
@@ -39,6 +43,10 @@ We want to make sure you have the right information to help you manage your expe
 Community Principles
 --------------------
 
+On September 13, 2025, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/?cgversion=2025H2update).
+
+  
+
 Released April 17, 2024
 
 Effective May 17, 2024
@@ -62,6 +70,10 @@ We recognize that sometimes these principles will be in tension with each other,
 
 Youth Safety and Well-Being
 ---------------------------
+
+On September 13, 2025, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/?cgversion=2025H2update).
+
+  
 
 Released April 17, 2024
 
@@ -159,6 +171,10 @@ More information
 
 Safety and Civility
 -------------------
+
+On September 13, 2025, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/?cgversion=2025H2update).
+
+  
 
 Released April 17, 2024
 
@@ -421,6 +437,10 @@ ALLOWED
 Mental and Behavioral Health
 ----------------------------
 
+On September 13, 2025, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/?cgversion=2025H2update).
+
+  
+
 Released April 17, 2024
 
 Effective May 17, 2024
@@ -551,6 +571,10 @@ ALLOWED
 
 Sensitive and Mature Themes
 ---------------------------
+
+On September 13, 2025, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/?cgversion=2025H2update).
+
+  
 
 Released April 17, 2024
 
@@ -748,6 +772,10 @@ ALLOWED
 
 Integrity and Authenticity
 --------------------------
+
+On September 13, 2025, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/?cgversion=2025H2update).
+
+  
 
 Released April 17, 2024
 
@@ -987,6 +1015,10 @@ NOT ALLOWED
 Regulated Goods and Commercial Activities
 -----------------------------------------
 
+On September 13, 2025, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/?cgversion=2025H2update).
+
+  
+
 Released April 17, 2024
 
 Effective May 17, 2024
@@ -1166,6 +1198,10 @@ NOT ALLOWED
 Privacy and Security
 --------------------
 
+On September 13, 2025, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/?cgversion=2025H2update).
+
+  
+
 Released April 17, 2024
 
 Effective May 17, 2024
@@ -1208,6 +1244,10 @@ NOT ALLOWED
 
 For You feed Eligibility Standards
 ----------------------------------
+
+On September 13, 2025, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/?cgversion=2025H2update).
+
+  
 
 Released April 17, 2024
 
@@ -1356,6 +1396,10 @@ More information
 Accounts and Features
 ---------------------
 
+On September 13, 2025, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/?cgversion=2025H2update).
+
+  
+
 Released April 17, 2024
 
 Effective May 17, 2024
@@ -1456,6 +1500,10 @@ All commercial content on TikTok must be disclosed and must comply with the rele
 
 Enforcement
 -----------
+
+On September 13, 2025, we are updating our Community Guidelines so you can continue to create, discover, and share safely on TikTok. Check out the new Community Guidelines [here](https://www.tiktok.com/community-guidelines/overview?lang={lang}&cgversion=2025H2update).
+
+  
 
 Released April 17, 2024
 
