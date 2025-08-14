@@ -44,7 +44,7 @@ During the operation of the Services, Users may upload certain User Content incl
 
 **4.2.1 Use by us.**
 
-**(a) License to Provide and Improve the Services.** By using the Services, you grant a worldwide, non-exclusive, royalty-free, fully paid-up, perpetual, irrevocable, sub-licensable (through multiple tiers) right and license to Sketchfab to use, reproduce, publicly display, adapt, modify, reformat, and distribute User Content as necessary to , improve and promote the Services; provided that to the extent User Content includes personal data, we shall not use such personal data for any purpose other than providing the Services and as further set forth in our Privacy Policy at [https://sketchfab.com/privacy](https://sketchfab.com/privacy). You further grant Sketchfab the right to use your name and trademarks, if any, in connection with our use of your publicly shared User Content for the purposes set forth in this Section 4.2.1.
+**(a) License to Provide and Improve the Services.** By using the Services, you grant a worldwide, non-exclusive, royalty-free, fully paid-up, perpetual, irrevocable, sub-licensable (through multiple tiers) right and license to Sketchfab to use, reproduce, publicly display, adapt, modify, reformat, and distribute User Content as necessary to provide, improve and promote the Services; provided that to the extent User Content includes personal data, we shall not use such personal data for any purpose other than providing the Services and as further set forth in our Privacy Policy at [https://sketchfab.com/privacy](https://sketchfab.com/privacy). You further grant Sketchfab the right to use your name and trademarks, if any, in connection with our use of your publicly shared User Content for the purposes set forth in this Section 4.2.1.
 
 **(b) License for Safety and Discovery Tools.** We use automation to moderate content and improve discovery. This helps us provide a safe and trustworthy service, enforce our rules and make it as easy as possible for you to discover the quality content that you are looking for. Sketchfab and our affiliate, Epic Games, Inc. (“Epic”), use User Content to improve (1) our internal safety tools (“Safety Tools”) to ensure all of our products and services comply with Epic’s [Content Guidelines](https://www.epicgames.com/site/en-US/content-guidelines) and [Epic Community Rules](https://www.epicgames.com/site/community-rules) and (2) our search and recommendation tools to improve users’ ability to discover content across all of our products and services ((1) and (2), collectively, “Safety and Discovery Tools”).
 
@@ -225,6 +225,6 @@ As noted above in Section 15(a), Epic does not use User Content and does not lic
 
 The effective date of these Terms of Use is **April 3, 2025**.
 
-**Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated February 14, 2025)**  
-The estimated average monthly active recipients in the European Union of Sketchfab for the past six months was 941,000.  
+**Regulatory Disclosure Requirement - Monthly Active Users in the EU (Updated August 15, 2025)**  
+The estimated average monthly active recipients in the European Union of Sketchfab for the past six months was 955,000.  
 Users who accessed more than one of Epic's services or products in a given month are counted as a user for each service or product.
