@@ -246,7 +246,7 @@ The types of data we will use for such purpose will mainly include (as detailed 
 
 Viber uses different types of personal data in order to contact you with marketing and offers relating to products and services offered by Viber, and our third party trusted partners, in line with applicable laws. This may include, for example:
 
-* We will use your email address, name,inferred gender, age range, certain dating profile data, device and activity data for the purpose contacting you with marketing and offers relating to products and services offered by Viber, and our third party trusted partners. When advertising Viber services outside of Viber, we might share your email address or device identifiers with our trusted marketing vendors;
+* We will use your email address, name, inferred gender, age range, certain dating profile data, device and activity data for the purpose contacting you with marketing and offers relating to products and services offered by Viber, and our third party trusted partners. When advertising Viber services outside of Viber, we might share your email address or device identifiers with our trusted marketing vendors;
 * Your IP address will be used to extract your general location (city level), for the purposes of presenting offers applicable to your region;
 * Subject to the permissions you have provided, we may use your GPS location data for the purpose of providing you with location-based marketing offers, and communications.
 
