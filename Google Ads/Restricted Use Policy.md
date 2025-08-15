@@ -57,7 +57,7 @@ Prohibited content
 > 
 > ### [Enabling dishonest behavior](https://support.google.com/adspolicy/answer/6016086)
 > 
-> > We value honesty and fairness, so we don't allow the promotion of products or services that are designed to enable dishonest behavior.
+> > Google Ads values honesty and fairness and doesn’t allow the promotion of products or services that are designed to enable dishonest behavior. Below are some examples of what to avoid in your ads. Learn more about [What happens if you violate our policies](https://support.google.com/adwordspolicy/answer/7187501).
 > > 
 > > **Examples of products or services that enable dishonest behavior (non-exhaustive)**: Hacking software or instructions; services designed to artificially inflate ad or website traffic; fake documents; academic cheating services
 > 
