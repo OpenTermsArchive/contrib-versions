@@ -1438,7 +1438,7 @@ Le montant du crédit auquel donne droit une Offre Site est précisé sur la fic
 
 \- d’un montant en euros ; ou
 
-\- d’un pourcentage de son prix de vente effectif (c’est-é-dire hors bons de réduction éventuels) ;
+\- d’un pourcentage de son prix de vente effectif (c’est-à-dire hors bons de réduction éventuels) ;
 
  
 
