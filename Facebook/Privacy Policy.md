@@ -237,7 +237,7 @@ En bref
 
 ![Un Meta Quest, un téléphone mobile affichant les applications Facebook, Instagram et Messenger et une paire de lunettes Ray-Ban Stories sont posés sur une table.](/images/assets_DO_NOT_HARDCODE/company_brand_privacy_center_policy/PrivacyPolicy-LogoTree-Hero-16x7-WWW.png)
 
-Nous faisons partie des [Entités Meta](https://www.facebook.com/help/111814505650678) qui fournissent les Produits des Entités Meta. [Les Produits des Entités Meta](https://www.facebook.com/help/195227921252400) comprennent tous les [Produits Meta](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) couverts par la présente Politique et d’autres produits comme WhatsApp et bien d’autres.
+Nous faisons partie des [Entités Meta](https://www.facebook.com/help/111814505650678) qui fournissent les Produits des Entités Meta. [Les Produits des Entités Meta](https://www.facebook.com/legal/meta-company-products) comprennent tous les [Produits Meta](https://fr-fr.facebook.com/privacy/policy/?annotations[0]=0.ex.0-WhatProductsDoesThis) couverts par la présente Politique et d’autres produits comme WhatsApp et bien d’autres.
 
 Nous partageons les informations que nous recueillons, l’infrastructure, les systèmes et la technologie avec les autres Entités Meta. [En savoir plus](https://fr-fr.facebook.com/privacy/policy/?section_id=9-HowDoWeTransfer) sur la manière dont nous transférons les informations vers d’autres pays.
 
