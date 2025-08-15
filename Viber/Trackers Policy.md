@@ -225,7 +225,7 @@ For any queries in relation to this Ads & Cookies Policy please contact us at:
 
 **In the event you read this Ads & Cookie Policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.**
 
-Current Cookies policy March 2025 **Viber Cookies Policy August 2025**
+Current Cookies policy August 2025 **Viber Cookies Policy August 2025**
 
 Previous Cookies policy March 2025 [**Viber Cookies Policy March 2025**](https://www.viber.com/app/uploads/Viber-Ads-Cookies-Tracking-Technologies-Policy-EN-March-2025.pdf)
 
