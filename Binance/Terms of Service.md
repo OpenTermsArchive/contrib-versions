@@ -775,4 +775,141 @@ g. except where the context requires others, the following terms shall have the 
 
 (a) in the case of a company, being the beneficial owner of more than fifty percent (50%) of the issued share capital of or of the voting rights in that company, or having the right to appoint and remove a majority of the directors or otherwise control the votes at board meetings of that company by virtue of any powers conferred by the organisational documents, shareholders’ agreement, a majority of the board of directors or any other document regulating the affairs of that company or by any other means; or
 
-(b) in the case of a partnership, being the beneficial owner of more than fifty percent (50%) of the capital of that partnership, or having the right to control the composition of or the votes to the majority of the ma
+(b) in the case of a partnership, being the beneficial owner of more than fifty percent (50%) of the capital of that partnership, or having the right to control the composition of or the votes to the majority of the management of that partnership by virtue of any powers conferred by the partnership agreement or any other document regulating the affairs of that partnership or by any other means.
+
+**Corporate Binance Account** means a Binance Account maintained for a corporation, entity, or other organisation for the provision of Binance Services.
+
+**Created IP** means any Intellectual Property Rights created by you pursuant to these Terms, including the User Materials, but excluding any other User IP.
+
+**Digital Assets** means a digital representation of value or rights which may be transferred and stored electronically, using distributed ledger technology or similar technology, including, but not limited to, cryptocurrencies, stablecoins, non-fungible tokens and tokenised derivatives of any other digital asset.
+
+**Dominant Digital Asset** means a Forked Digital Asset that has dominance over one or more other versions of a Digital Asset that was subject to the relevant Fork, as determined by us in our sole discretion.
+
+**Email** **Account** means the email account(s) associated with your Binance Account(s), as agreed with Binance from time to time, in accordance with any processes identified by Binance when using the Platform.
+
+**Fiat Currency** means any government or central bank issued national, or supra-national, currency, or other monetary obligation denominated in such currency and which is not a Digital Asset.
+
+**Force Majeure Events** means: 
+
+a. any fire, strike, riot, civil unrest, terrorist act, war or industrial action;
+
+b. any natural disaster such as floods, tornadoes, earthquakes and hurricanes;
+
+c. any epidemic, pandemic or public health emergency of national or international concern;
+
+d. any act or regulation made by a government, supra national body or authority that we believe stops us from providing Binance Services on the Platform;
+
+e. the suspension or closure of any Binance Affiliate;
+
+f. the nationalisation of any Binance Affiliate;
+
+g. the imposition of limits or unusual terms by a government on any Digital Assets traded on our Platform;
+
+h. excessive changes to the price, supply or demand of any Digital Asset;
+
+i. technical failures in transmission, communication or computer facilities including power failures and electronic or equipment failures;
+
+j. the failure of any supplier, intermediate broker, agent, principal custodian, sub-custodian, dealer, exchange, staking platform, liquidity pool, bridge provider, issuer of a Backed Digital Asset, market maker, clearing house or regulatory organisation to perform its obligations to us; 
+
+k. liquidity providers not providing, or being unable to provide liquidity to us; 
+
+l. any labour or trade disputes, strikes, industrial actions or lockouts (other than in each case by Binance or the Binance Affiliates); and/or
+
+m. an event which significantly disrupts the market for Digital Assets, which could include excessive movements in the price, supply or demand of a Digital Asset, whether regulated or unregulated.
+
+**Fork** means any planned, unplanned, sudden, scheduled, expected, unexpected, publicised, not well-known, consensual, and/or controversial changes to the underlying operating rules of certain Digital Assets that may occur from time to time, in such a way as to result in the creation of one or more related versions of an existing Digital Asset.
+
+**Forked Digital Asset** means a Digital Asset that results from a Fork.
+
+**Instruction** means any instruction, request, or order given to Binance by you or a Permitted User in relation to the operation of your Binance Account or to execute any Transaction, through such medium and in such form and manner as Binance may require.
+
+**Intellectual Property Rights** means: (a) copyright, patents, database rights and rights in trade marks, designs, know-how and confidential information (whether registered or unregistered); (b) applications for registration, and rights to apply for registration, of any of the foregoing rights; and (c) all other intellectual property rights and equivalent or similar forms of protection existing anywhere in the world.
+
+**List of Prohibited Countries** means the list of countries accessible at https://www.binance.com/en-GB/legal/list-of-prohibited-countries.
+
+**Local Terms** means the terms governing your use of the Binance Services provided in any particular jurisdiction.
+
+**Losses** has the meaning given to it in clause **‎**29.1.
+
+**Manifest Error** means any error, omission or misquote (whether an error of Binance or any third party) which is manifest or palpable, including a misquote by any representative of Binance taking into account the current market and currently advertised quotes, or any error of any information, source, official, official result or pronunciation.
+
+**Mobile App** means any mobile application developed or provided by us or any of the Binance Affiliates that enables you to use or otherwise access Binance Services.
+
+**Permitted User** means any person identified by you and communicated to us, in accordance with these Terms, that is authorised to act on a user’s behalf with respect to any Corporate Binance Account.
+
+**Platform** means the digital platform that we or any of the Binance Affiliates may make accessible to you via Sites, the Mobile App, a Binance API or by such other means as Binance Affiliates may prescribe from time to time for the use of Binance Services.  
+  
+**Privacy Notice** means the privacy notice located at [https://www.binance.com/en-GB/privacy](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/privacy). 
+
+**Product Terms** means the product-specific terms and conditions that apply to the use of a Binance Service, in addition to these Terms.
+
+**Regulatory Authority** means any foreign, domestic, state, federal, cantonal, municipal or local governmental, executive, legislative, judicial, administrative, supervisory or regulatory authority, agency, quasi-governmental authority, court, commission, government organisation, self-regulatory organisation having regulatory authority, tribunal, arbitration tribunal or panel or supra-national organisation, or any division or instrumentality thereof, including any tax authority.
+
+**Restricted Person** means a person or legal entity who (a) is included in any trade embargoes or economic sanctions, terrorist or corrupt foreign officials list (such as the United Nations Security Council Sanctions List,  issued by a government agency including the list of specially designated nationals maintained by the office of foreign assets control of the U.S. Department of the Treasury (OFAC), or the denied persons or entity list of the U.S. Department of Commerce), or by the United Kingdom, European Union, Canada) tor (b) resides, or is established, or has operations in, in any country listed in the [List of Prohibited Countries](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/list-of-prohibited-countries).
+
+**Risk Warning** means the general risk warning published on the Website.
+
+**Security Breach** means 
+
+a. your Binance Account(s) or any of your Access IDs have been compromised;
+
+b. the loss, theft, or unauthorised use of any of your Access IDs or any unauthorised access to and use of your Binance Account or the Binance Services on your behalf; or
+
+c. any other security incident (including a cyber-security attack) affecting you and/or Binance.
+
+**Sites** means our Website and any other websites, pages, features, or content we own or operate.
+
+**Supported Digital Assets** means those Digital Assets that are available in connection with your use of the Binance Services.
+
+**Terms** means these terms of use, together with any other documents expressly incorporated by reference, including the Product Terms, in each case as amended or supplemented from time to time.
+
+**Trade Marks** means the Intellectual Property Rights in the trade marks, service marks and logos used and displayed on or through the Platform, the Sites and/or the Binance Services.
+
+**Transaction** means selling, purchasing, or entering into any other type of transactions, or agreeing to sell, purchase or enter into any other type of transactions involving Digital Asset(s), their derivatives, other asset(s) or product(s) as Binance may from time to time permit to be carried out on the Platform, and depositing or withdrawing Digital Assets or Fiat Currency into or out of your Binance Account.
+
+**User IP** means the Intellectual Property Rights owned by or licensed to you as at the date of these Terms and any other Intellectual Property Rights owned or acquired by or licensed to you after the date of these Terms, excluding Binance IP. 
+
+**User Materials** means the Intellectual Property Rights in any reviews, posts, information, data, and comments you or other users provide to us on the Sites (through our “Contact Us” pages or otherwise), the Platform, through use of Binance Services, or otherwise.
+
+**Website** means the website located at [www.binance.com](https://web.archive.org/web/20240515111941/http://www.binance.com/). 
+
+### **Community**
+
+USD-$
+
+### **Company**
+
+* [About Us](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/about)
+    
+* [Inquiries](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/about#email)
+    
+* [Careers](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/careers)
+    
+* [Press](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/press)
+    
+
+### **Support**
+
+* [Support Center](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support)
+    
+* [24/7 Chat Support](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/chat?sourceEntry=4)
+    
+* [Fees](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/fee/schedule)
+    
+* [Trading Rules](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/trade-rule)
+    
+
+### **Legal**
+
+* [Terms](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms)
+    
+* [Privacy Notice](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/privacy)
+    
+
+### **Compliance**
+
+* [Risk Warning](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/risk-warning)
+    
+* [Law Enforcement Request](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support/law-enforcement)
+    
+* [Licenses & Registrations](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/licenses)
