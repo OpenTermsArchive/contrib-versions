@@ -153,10 +153,11 @@ Roblox is a safe space for making online connections, chatting, and collaboratin
 * Romantic or flirtatious gestures or communication between users in a romantic context
 * Pursuing or soliciting romantic relationships online
 * Engaging in unwanted flirtatious behavior
-* Engaging in sexually explicit conversations or soliciting sexual material from other Robloxians
-* Content that depicts, strongly suggests, or explicitly describes sexual acts
+* Engaging in sexually explicit conversations or soliciting sexual material from other users
+* Content or behavior that depicts, implies, or explicitly describes sexual acts
 * Nudity, partial nudity or other content produced for sexual arousal
-* Sexually suggestive assets or bundles
+* Sexually suggestive content or behavior, including but not limited to: avatar bodies, assets and clothes, avatar emotes, or settings/environments in experiences
+* Depicting private spaces, such as bathroom stalls or bedrooms, in experiences labeled as [Social Hangouts](https://create.roblox.com/docs/production/promotion/content-maturity#social-hangout)
 
 For more information about creating assets or bundles that comply with these policies, including required use of modesty layers, please review the guidelines [here](https://create.roblox.com/docs/art/marketplace/marketplace-policy).
 
@@ -352,7 +353,8 @@ Change Log
 |     |     |
 | --- | --- |
 | **Announcement Date** | **Change Summary** |
-| July 17, 2025 | Added clarifying language to the following Standards:<br><br>* Sharing Personal Information<br>* Romantic and Sexual Content<br>* Child Exploitation<br><br>Effective July17, 2025 |
+| August 15, 2025 | Added clarifying language to the Romantic and Sexual Content Standard.  <br>  <br>Effective August 15, 2025 |
+| July 17, 2025 | Added clarifying language to the following Standards:<br><br>* Sharing Personal Information<br>* Romantic and Sexual Content<br>* Child Exploitation<br><br>Effective July 17, 2025 |
 | July 15, 2025 | Added clarifying language to the following Standards:<br><br>* Romantic and Sexual Content<br>* Suicide, Self Injury, and Harmful Behavior<br>* Discrimination, Slurs, and Hate Speech<br>* Threats, Bullying and Harassment<br>* Violent Content and Gore<br><br>Effective July 15, 2025 |
 | May 15, 2025 | Added a new "Commerce" section under Roblox Economy, requiring developers using the Commerce feature to comply with the Commerce Standards. <br><br>Effective May 15, 2025 |
 | February 26, 2025 | Added clarification and new resource links for the following Community Standard:<br><br>* * Promotional Offers sub-section of Roblox Economy<br><br>Effective February 26, 2025 |
