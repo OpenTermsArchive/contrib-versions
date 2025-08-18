@@ -1,7 +1,7 @@
 DeviantArt, Inc. Privacy Policy
 ===============================
 
-_Policy last updated: Feburary 16, 2023_
+_Policy last updated: August 18, 2025_
 
 DeviantArt respects your privacy and is fully committed to protect your personal information and use it properly and in compliance with data privacy laws.
 
@@ -129,8 +129,9 @@ Please check out the table below to receive information about the type, categori
 | Local Storage | FilmQuality | Allow the use of player settings | persistent | Essential |
 | Local Storage | statusUpdateSubmitCounter | Number of status updates submitted via eclipse | persistent | Functional |
 | Local Storage | intents, intents\_other | List of signup intents selected by user | persistent | Essential |
-| Local storage | pwa\_notifications | Allowing push notifications | persistent | Essential |
+| Local Storage | pwa\_notifications | Allowing push notifications | persistent | Essential |
 | Cookie | pwa\_banner | Dismissing the prompt to install the web app | session | Essential |
+| Local Storage | boost\_promo\_last\_seen | Dismissing the prompt to boost deviations | persistent | Functional |
 
 Third Party Cookies:
 
