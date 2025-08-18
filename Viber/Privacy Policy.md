@@ -564,8 +564,6 @@ We are committed to working with you to obtain a fair resolution of any complain
 
 In the event you read this policy in any language other than English, you agree that in the event of any discrepancies, the English version shall prevail.
 
-Current Privacy Policy PDF Version Viber Privacy Policy August 2025
+Current Privacy Policy PDF Version [Viber Privacy Policy August 2025](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-August-2025.pdf)
 
 Previous Privacy Policy PDF Version [Viber Privacy Policy March 2025](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-March-2025.pdf)
-
-Previous Privacy Policy PDF Version [Viber Privacy Policy August 2023](https://www.viber.com/app/uploads/Viber-Privacy-Policy-EN-August-2023-3.pdf)
