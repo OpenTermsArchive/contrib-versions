@@ -346,7 +346,7 @@ For more information about creating bundles that comply with these policies, inc
 
 For more information about how to safely offer text chat in your experience, please see [here](https://devforum.roblox.com/t/migrate-to-textchatservice-removing-support-for-legacy-chat-and-custom-chat-systems/3237100).
 
-Last Updated: July 17, 2025
+Last Updated: August 15, 2025
 
 Change Log
 
