@@ -1,9 +1,12 @@
+[Wordfeud](http://wordfeud.com/)
+================================
+
 Privacy Policy – Bertheussen IT AS
 ==================================
 
-Bertheussen IT respect the privacy rights of our users and are committed to protecting the information collected through Wordfeud and other products (together “Services”). Bertheussen IT has adopted this privacy policy (“Privacy Policy”) to explain how Bertheussen IT collects, stores, and uses the information collected in connection with Bertheussen IT's Services.
+Bertheussen IT respect the privacy rights of our users and are committed to protecting the information collected through Wordfeud and other products (together "Services"). Bertheussen IT has adopted this privacy policy ("Privacy Policy") to explain how Bertheussen IT collects, stores, and uses the information collected in connection with Bertheussen IT's Services.
 
-Bertheussen IT AS is a Norwegian company. We are committed to comply with all applicable laws and regulations, including the General Data Protection Regulation 2016/679 (“GDPR”).
+Bertheussen IT AS is a Norwegian company. We are committed to comply with all applicable laws and regulations, including the General Data Protection Regulation 2016/679 ("GDPR").
 
 The Data Controller for our processing of personal data is Bertheussen IT AS.
 
@@ -43,16 +46,16 @@ Bertheussen IT will only use your personal data for a specific purpose if we hav
 2\. Personal data that are processed
 ------------------------------------
 
-For purposes of this Privacy Policy, “personal data” means personally identifiable information that specifically identifies or can identify you as an individual.
+For purposes of this Privacy Policy, "personal data" means personally identifiable information that specifically identifies or can identify you as an individual.
 
 Likely situations where you make personal data available to Bertheussen IT include, but are not limited to:
 
 * registration for Services, contests and special events;
 * accessing Services using a third party ID, such as social networking sites or gaming services;
 * subscribing to newsletters;
-* registration of a user account in our mobile app “Wordfeud”
-* purchasing a product or services through Bertheussen IT’s online stores;
-* using “tell a friend,” "email this page," or other similar features;
+* registration of a user account in our mobile app "Wordfeud"
+* purchasing a product or services through Bertheussen IT's online stores;
+* using "tell a friend," "email this page," or other similar features;
 * use of chat functions in our applications;
 * requesting technical support; and
 * otherwise through use of Bertheussen IT Services where personal data is required for use and/or participation.
@@ -61,7 +64,7 @@ The types of personal data may vary depending on the type of activity you are en
 
 * your name,
 * screen/nick name,
-* Bertheussen IT Services’ or third party service ID,
+* Bertheussen IT Services' or third party service ID,
 * e-mail address,
 * phone number,
 * photo or other image,
@@ -79,7 +82,7 @@ If you consent to allow your social networking site to make information availabl
 * user ID,
 * email address,
 * your country, language and time zone,
-* the names and profile pictures of your social networking site “friends” and other information you have included in your social networking site profile.
+* the names and profile pictures of your social networking site "friends" and other information you have included in your social networking site profile.
 
 Bertheussen IT may associate and/or combine as well as use information collected by Bertheussen IT and/or obtained through such social networking sites in accordance with this Privacy Policy.
 
@@ -129,11 +132,11 @@ You always have the right to lodge a complaint with the relevant supervisory aut
 
 Bertheussen IT collects and processes personal data on a voluntary basis and it is not in the business of selling your personal data to third parties. Personal data may, however, occasionally be disclosed in accordance with applicable legislation and this Privacy Policy.
 
-Bertheussen IT may hire agents and contractors (“data processors”) to collect and process personal data on Bertheussen IT’s behalf and in such cases such agents and contractors will be instructed to comply with our Privacy Policy and to use personal data only for the purposes for which the third party has been engaged by Bertheussen IT, according to applicable data processor agreements. These agents and contractors may not use your personal data for their own marketing purposes. Such data processors might be third party service providers such as credit card processors, e-mail service providers, shipping agents, data analyzers and business intelligence providers.
+Bertheussen IT may hire agents and contractors ("data processors") to collect and process personal data on Bertheussen IT's behalf and in such cases such agents and contractors will be instructed to comply with our Privacy Policy and to use personal data only for the purposes for which the third party has been engaged by Bertheussen IT, according to applicable data processor agreements. These agents and contractors may not use your personal data for their own marketing purposes. Such data processors might be third party service providers such as credit card processors, e-mail service providers, shipping agents, data analyzers and business intelligence providers.
 
-Bertheussen IT may disclose your personal data to third parties as required by law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or Bertheussen IT to legal liability. Bertheussen IT may also disclose your personal data to third parties when Bertheussen IT has a reason to believe that a disclosure is necessary to address potential or actual injury or interference with Bertheussen IT’s rights, property, operations, users or others who may be harmed or may suffer loss or damage, or Bertheussen IT believes that such disclosure is necessary to protect Bertheussen IT’s rights, combat fraud and/or comply with a judicial proceeding, court order, or legal process served on Bertheussen IT.
+Bertheussen IT may disclose your personal data to third parties as required by law enforcement or other government officials in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose you or Bertheussen IT to legal liability. Bertheussen IT may also disclose your personal data to third parties when Bertheussen IT has a reason to believe that a disclosure is necessary to address potential or actual injury or interference with Bertheussen IT's rights, property, operations, users or others who may be harmed or may suffer loss or damage, or Bertheussen IT believes that such disclosure is necessary to protect Bertheussen IT's rights, combat fraud and/or comply with a judicial proceeding, court order, or legal process served on Bertheussen IT.
 
-For processing of personal data in relation to Bertheussen IT’s use of analytics, in relation to the placement of ads in our applications as well as in relation to your use of you accounts with social medias to log in with us, se chapters 8, 9 and 10 below.
+For processing of personal data in relation to Bertheussen IT's use of analytics, in relation to the placement of ads in our applications as well as in relation to your use of you accounts with social medias to log in with us, se chapters 8, 9 and 10 below.
 
 As Bertheussen IT delivers applications used worldwide, we will store and/or transfer your personal data to our data processors and partners in and outside of EU/EEA member states and the United States in accordance with mandatory legislation and this Privacy Policy.
 
@@ -153,9 +156,9 @@ Even if data is changed or deleted, Bertheussen IT may still retain some of the 
 6\. Safeguards
 --------------
 
-Bertheussen IT follows generally accepted industry standards and maintains reasonable safeguards to attempt to ensure the security, integrity and privacy of the information in Bertheussen IT’s possession. Only those persons with a need to process your personal data in connection with the fulfillment of their tasks in accordance with the purposes of this Privacy Policy and for the purposes of performing technical maintenance, have access to your personal data in Bertheussen IT’s possession.
+Bertheussen IT follows generally accepted industry standards and maintains reasonable safeguards to attempt to ensure the security, integrity and privacy of the information in Bertheussen IT's possession. Only those persons with a need to process your personal data in connection with the fulfillment of their tasks in accordance with the purposes of this Privacy Policy and for the purposes of performing technical maintenance, have access to your personal data in Bertheussen IT's possession.
 
-Personal data collected by Bertheussen IT is stored in secure operating environments that are not available to the public. To prevent unauthorized on-line access to personal data, Bertheussen IT maintains personal data behind a firewall-protected server. However, no system can be 100% secure and there is the possibility that despite Bertheussen IT’s reasonable efforts, there could be unauthorized access to your personal data. By using the Services, you assume this risk.
+Personal data collected by Bertheussen IT is stored in secure operating environments that are not available to the public. To prevent unauthorized on-line access to personal data, Bertheussen IT maintains personal data behind a firewall-protected server. However, no system can be 100% secure and there is the possibility that despite Bertheussen IT's reasonable efforts, there could be unauthorized access to your personal data. By using the Services, you assume this risk.
 
 7\. Cookies
 -----------
@@ -173,7 +176,7 @@ We use ad serving technology from Google, Facebook and MoPub/Twitter.
 
 Personalized ads delivered by Facebook is based in your user terms with Facebook.
 
-If you choose to log into our services using your Facebook ID, Facebook will place advertisements for you. Our apps do not require your log in with Facebook ID. It is optional for you to log in with Facebook ID. Bertheussen IT has no influence over ad placement conducted by Facebook and Bertheussen IT do not process your personal data in relation to ads placed by Facebook. Facebook’s processing of personal data is subject to terms entered into by you with Facebook and Facebook provide you as a Facebook user with settings for personal data and ads, on the Facebook platform. You can find more information on Facebook’s use of personal data here:  
+If you choose to log into our services using your Facebook ID, Facebook will place advertisements for you. Our apps do not require your log in with Facebook ID. It is optional for you to log in with Facebook ID. Bertheussen IT has no influence over ad placement conducted by Facebook and Bertheussen IT do not process your personal data in relation to ads placed by Facebook. Facebook's processing of personal data is subject to terms entered into by you with Facebook and Facebook provide you as a Facebook user with settings for personal data and ads, on the Facebook platform. You can find more information on Facebook's use of personal data here:  
 [https://www.facebook.com/about/basics](https://www.facebook.com/about/basics)  
 and more information on their use of, and your settings with them, concerning use of personal data to tailor ads here:  
 [https://www.facebook.com/about/basics/advertising](https://www.facebook.com/about/basics/advertising).
@@ -182,14 +185,14 @@ and more information on their use of, and your settings with them, concerning us
 
 Personalized ads delivered by MoPub is based on your consent.
 
-If you consent, you will be presented with personalized ads delivered by MoPub/Twitter in some of Bertheussen IT’s applications. For more information visit MoPubs Privacy Policy here: [https://www.mopub.com/legal/privacy/](https://www.mopub.com/legal/privacy/).  
+If you consent, you will be presented with personalized ads delivered by MoPub/Twitter in some of Bertheussen IT's applications. For more information visit MoPubs Privacy Policy here: [https://www.mopub.com/legal/privacy/](https://www.mopub.com/legal/privacy/).  
 Section 1 will be especially relevant to you as Section 1 describes personal data that will be processed if you consent to personalized ads.
 
 ### Ads placed by Google
 
 Personalized ads delivered by Google is based on your consent.
 
-If you consent, you will be presented with personalized ads delivered by Google in some of Bertheussen IT’s applications. For more information on how Google process personal data in relation to ad placement, visit Google’s site here: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).  
+If you consent, you will be presented with personalized ads delivered by Google in some of Bertheussen IT's applications. For more information on how Google process personal data in relation to ad placement, visit Google's site here: [https://policies.google.com/technologies/partner-sites](https://policies.google.com/technologies/partner-sites).  
 This page also informs you about how you can administer your ads personalization settings with Google.
 
 Bertheussen IT is not liable for the acts and omissions of these third parties, except as provided by mandatory law.
@@ -205,12 +208,12 @@ We do not use first party cookies or first party identifiers in relation to Goog
 
 Our implementation of Firebase Analytics is limited to collection and our use of statistical and aggregated data.
 
-You can read more about data collected through Firebase Analytics including Firebase Analytics’ use of Advertising Identifier and use of masked IP-addresses here:
+You can read more about data collected through Firebase Analytics including Firebase Analytics' use of Advertising Identifier and use of masked IP-addresses here:
 
 * [https://support.google.com/firebase/answer/6317485](https://support.google.com/firebase/answer/6317485)
 * [https://support.google.com/firebase/answer/6317486](https://support.google.com/firebase/answer/6317486)
 * [https://support.google.com/analytics/answer/6004245](https://support.google.com/analytics/answer/6004245) (see sections 3,4 and 5)
-* [https://support.google.com/firebase/answer/6318039](https://support.google.com/firebase/answer/6318039) (the section called “Firebase Performance Monitoring data collection” is not relevant as we do not use this feature)
+* [https://support.google.com/firebase/answer/6318039](https://support.google.com/firebase/answer/6318039) (the section called "Firebase Performance Monitoring data collection" is not relevant as we do not use this feature)
 
 10\. Third party Terms and Conditions
 -------------------------------------
@@ -222,9 +225,9 @@ Please note that your access to and use of the Services may be subject to certai
 
 Please be aware of the open nature of certain social networking and other open features of the Services Bertheussen IT may make available to you. You may choose to disclose data about yourself in the course of contributing user generated content to the Services. Any Data that you disclose in any of these forums, blogs, chats or the like is public information, and there is no expectation of privacy or confidentiality. Bertheussen IT is not responsible for any personal data you choose to make public in any of these forums.
 
-If you are under 15 years of age or a minor in your country of residence, please ask your legal guardian’s permission to use or access the Services. Bertheussen IT takes children’s privacy seriously, and encourages parents and/or guardians to play an active role in their children's online experience at all times.
+If you are under 15 years of age or a minor in your country of residence, please ask your legal guardian's permission to use or access the Services. Bertheussen IT takes children's privacy seriously, and encourages parents and/or guardians to play an active role in their children's online experience at all times.
 
-In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event involving all or a portion of Bertheussen IT, Bertheussen IT’s customer information may be transferred to Bertheussen IT’s successor or assign.
+In addition, in the event of a merger, acquisition, reorganization, bankruptcy, or other similar event involving all or a portion of Bertheussen IT, Bertheussen IT's customer information may be transferred to Bertheussen IT's successor or assign.
 
 12\. Changes to our Privacy Policy
 ----------------------------------
@@ -232,3 +235,7 @@ In addition, in the event of a merger, acquisition, reorganization, bankruptcy, 
 Due to changes in relevant regulations and administrative practices as well as due to changes in our services, we may from time to time need to modify this Privacy Policy. An updated version will at all times be available here. Please review our Privacy Policy frequently.
 
 Last update: 25 October, 2021
+
+[Home](http://wordfeud.com/) — [Wordfeud Dictionaries](http://wordfeud.com/dictionaries/) — [Terms of Service](http://wordfeud.com/tos/) — [Report a security vulnerability](http://wordfeud.com/secreport/) — [Company info (Norwegian)](http://wordfeud.com/company/)
+
+© 2025 Bertheussen IT AS
