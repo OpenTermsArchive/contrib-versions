@@ -292,6 +292,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Data.Rio - Instituto Pereira Passos (IPP): [https://www.data.rio/datasets/PCRJ::rede-cicloviária-implantada/about](https://www.data.rio/datasets/PCRJ::rede-ciclovi%C3%A1ria-implantada/about)
             
+        * IBGE - Instituto Brasileiro de Geografia e Estatística: [https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html](https://www.ibge.gov.br/acesso-informacao/acoes-e-programas/politica-de-privacidade.html)
+            
     9. **Canada**
         1. Google’s maps of Canada include data provided from the following:
             
@@ -1251,6 +1253,10 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * Landesamt für Geoinformation und Landentwicklung Baden-Württemberg: [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
             
         * Freistaat Thüringen: [https://geoportal.thueringen.de/gdi-th/download-offene-geodaten](https://geoportal.thueringen.de/gdi-th/download-offene-geodaten), [https://www.govdata.de/dl-de/by-2-0](https://www.govdata.de/dl-de/by-2-0)
+            
+        * LGLN Niedersachsen: [https://www.lgln.niedersachsen.de/startseite/wir\_uber\_uns\_amp\_organisation/allgemeine\_geschafts\_und\_nutzungsbedingungen\_agnb/allgemeine-geschafts-und-nutzungsbedingungen-agnb-97401.html](https://www.lgln.niedersachsen.de/startseite/wir_uber_uns_amp_organisation/allgemeine_geschafts_und_nutzungsbedingungen_agnb/allgemeine-geschafts-und-nutzungsbedingungen-agnb-97401.html)
+            
+        * Geodatenportal Sachsen-Anhalt: [https://www.lvermgeo.sachsen-anhalt.de/de/gdp-open-data.html](https://www.lvermgeo.sachsen-anhalt.de/de/gdp-open-data.html)
             
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
