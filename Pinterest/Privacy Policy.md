@@ -465,7 +465,7 @@ For a copy of these adequacy decisions or SCCs, please contact us via the detail
 
 #### More information on the Data Privacy Frameworks
 
-In compliance with the Data Privacy Frameworks, Pinterest, Inc. commits to resolve DPF Principles-related complaints about our collection and use of your information. EU, UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the Data Privacy Frameworks should first contact Pinterest Inc. at [privacy-support@pinterest.com](mailto:mailto:privacy-support@pinterest.com).
+In compliance with the Data Privacy Frameworks, Pinterest, Inc. commits to resolve DPF Principles-related complaints about our collection and use of your information. EU, UK and Swiss individuals with inquiries or complaints regarding our handling of personal data received in reliance on the Data Privacy Frameworks should first contact Pinterest Inc. at [privacy-support@pinterest.com](mailto:privacy-support@pinterest.com).
 
 Pinterest, Inc. commits to refer unresolved complaints concerning our handling of personal data received in reliance on the Data Privacy Frameworks to JAMS, an alternative dispute resolution provider based in the United States. If you do not receive timely acknowledgment of your DPF Principles-related complaint from us, or if we have not addressed your DPF Principles-related complaint to your satisfaction, please visit [https://www.jamsadr.com/DPF-Dispute-Resolution](https://www.jamsadr.com/DPF-Dispute-Resolution) for more information or to file a complaint. The services of JAMS are provided at no cost to you.
 
