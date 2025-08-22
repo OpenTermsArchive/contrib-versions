@@ -1,5 +1,3 @@
-We’re updating the Platform Terms. The updates go into effect on August 22, 2025. [Read the new terms](https://developers.facebook.com/terms/dfc_platform_terms/preview)
-
 Meta Platform Terms
 ===================
 
@@ -412,7 +410,7 @@ After you agree to these Terms, any written notice, request, or communications f
 
 In addition to and without limiting the scope of the “Indemnification” Section in our [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms) if anyone brings a claim, cause of action, or dispute against the [Meta Companies](https://www.facebook.com/help/111814505650678) related to your use of Platform, your Processing of Platform Data, Your Content, or your App, name or logo, products or services, or actions in connection with Platform, you will indemnify and hold the [Meta Companies](https://www.facebook.com/help/111814505650678) harmless from and against all damages, losses, and expenses of any kind (including reasonable legal fees and costs) related to any such claim, cause of action, or dispute.
 
-10\. International Transfers — EEA Data Transfers
+10A. International Transfers — EEA Data Transfers
 -------------------------------------------------
 
 This section shall apply to the extent that your Processing of Platform Data includes personal data controlled by Meta Platforms Ireland Limited (“Meta Ireland Data”) and the transfer of such Meta Ireland Data to a territory outside of the European Economic Area that, at the time of such transfer, does not have a positive adequacy decision from the European Commission under Article 45 of Regulation (EU) 2016/679 (each an “EEA Data Transfer”).
@@ -452,9 +450,9 @@ Whenever there is an EEA Data Transfer, your use of Meta Ireland Data is subject
     d. For the purposes of Annex II to the Clauses, you will implement and maintain [Meta's Technical and Organisational Measures](https://www.facebook.com/legal/terms/Privacy/TOMs).
     
 
-10A. International Transfers — UK Data Transfers
+10B. International Transfers — UK Data Transfers
 
-This Section 10A shall apply to the extent that your Processing of Platform Data includes personal data controlled by Meta Platforms, Inc. that is subject to the UK GDPR (as defined in the UK's Data Protection Act 2018 ("DPA")) (“UK Data”) and the transfer of such UK Data to a territory outside of the United Kingdom that, at the time of such transfer, does not have a positive adequacy decision from the Secretary of State in accordance with the relevant provisions of the UK GDPR and the DPA (“UK Data Transfer”).
+This Section 10B shall apply to the extent that your Processing of Platform Data includes personal data controlled by Meta Platforms, Inc. that is subject to the UK GDPR (as defined in the UK's Data Protection Act 2018 ("DPA")) (“UK Data”) and the transfer of such UK Data to a territory outside of the United Kingdom that, at the time of such transfer, does not have a positive adequacy decision from the Secretary of State in accordance with the relevant provisions of the UK GDPR and the DPA (“UK Data Transfer”).
 
 Whenever there is a UK Data Transfer, your use of UK Data is subject to your compliance with the Approved Addendum (which is hereby incorporated by reference into these Terms and is deemed to have been entered into and completed as set out below). Nothing in this Section 10A (International transfers – UK Data Transfers) is intended to vary or modify the Approved Addendum. All defined terms used below shall have the meanings given to them in the Approved Addendum. For the purpose of the Approved Addendum, the following will apply:
 
@@ -495,6 +493,12 @@ Whenever there is a UK Data Transfer, your use of UK Data is subject to your com
 *   
     d. In Table 4 of the UK Addendum, the data exporter may end the UK Addendum in accordance with the terms of the UK Addendum.
     
+
+  
+
+10C. International Transfer - Other Data Transfers
+
+The Supplementary Data Transfer Addendum forms part of, and is incorporated by reference into, these Terms and applies to certain transfers of Platform Data as set out therein. For purposes of the Supplementary Data Transfer Addendum, you and Meta Platforms, Inc. are each independent “controllers.”
 
   
 
@@ -597,13 +601,16 @@ Whenever there is a UK Data Transfer, your use of UK Data is subject to your com
     q. “Service Provider” means an entity you use to provide you services in connection with Platform or any Platform Data.
     
 *   
-    r. “Tech Provider” means a Developer of an App whose primary purpose is to enable Users thereof to access and use Platform or Platform Data.
+    r. “Supplementary Data Transfer Addendum” means the terms available at https://www.facebook.com/legal/terms/Privacy/Transfers.
     
 *   
-    s. “Third-Party Auditors” has the meaning given in Section 7.b (“Regular Monitoring”).
+    s. “Tech Provider” means a Developer of an App whose primary purpose is to enable Users thereof to access and use Platform or Platform Data.
     
 *   
-    t. “User” means the end user of an App (whether a person or an entity).
+    t. “Third-Party Auditors” has the meaning given in Section 7.b (“Regular Monitoring”).
     
 *   
-    u. “Your Content” has the meaning given in Section 2.b (“Your License to Us”).
+    u. “User” means the end user of an App (whether a person or an entity).
+    
+*   
+    v. “Your Content” has the meaning given in Section 2.b (“Your License to Us”).
