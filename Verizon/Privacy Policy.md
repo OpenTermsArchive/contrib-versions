@@ -1186,11 +1186,11 @@ Read
 
 ### Curious about our responses to government data demands?
 
-[Curious about our responses to government data demands?](https://www.verizon.com/about/portal/transparency-report/)
+[Curious about our responses to government data demands?](https://www.verizon.com/about/investors/transparency-report)
 
 Our Transparency Report provides information about data requests we receive.
 
-[](https://www.verizon.com/about/portal/transparency-report/)
+[](https://www.verizon.com/about/investors/transparency-report)
 
 Tips
 
