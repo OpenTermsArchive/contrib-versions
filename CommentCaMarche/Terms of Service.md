@@ -1,16 +1,23 @@
 General Terms and Conditions of Use
 ===================================
 
-[](https://ccm.net/account/nataliakudryavtseva-11754057)[Natalia Kudryavtseva](https://ccm.net/account/nataliakudryavtseva-11754057) 03/09/2023 13:46
-
 General Terms and Conditions of Use
 ===================================
 
    ![General Terms and Conditions of Use](https://img-19.ccm.net/DHIPOk9Ypuf3HyVAyWrkYC4W1b0=/480x335/smart/fb370537ed49497384c46ade8ca32fea/ccmcms-enccm/38208810.jpg)
 
-[](https://ccm.net/account/nataliakudryavtseva-11754057)[Natalia Kudryavtseva](https://ccm.net/account/nataliakudryavtseva-11754057) 03/09/2023 13:46
+ [![Natalia Kudryavtseva](https://img-19.ccm.net/68iTj6lXo2wlC1kbuQrFzCmUn2k=/50x50/smart/5d73755bba064c42b7d238ce9fb5e166/auth-avatar/61695f7dbef41)](https://ccm.net/account/nataliakudryavtseva-11754057)
 
-[](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9909-general-terms-and-conditions-of-use/)[](https://twitter.com/intent/tweet?text=General+Terms+and+Conditions+of+Use%2C+par+NataliaKudryavtseva%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9909-general-terms-and-conditions-of-use%2F%20via%20@ccmnet)
+[Natalia Kudryavtseva](https://ccm.net/account/nataliakudryavtseva-11754057)
+
+9 March 2023 13:46
+
+Partager Partager
+
+* [](https://twitter.com/intent/tweet?text=General+Terms+and+Conditions+of+Use%2C+par+NataliaKudryavtseva%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9909-general-terms-and-conditions-of-use%2F%20via%20@ccmnet)
+* [](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9909-general-terms-and-conditions-of-use/)
+
+* Copier
 
 All Rights Reserved - 2018 © CCM BENCHMARK GROUP
 
@@ -136,7 +143,12 @@ Legal Jurisdiction
 
 French law applies to the content and data transmission on and related to this website. The French language version of this Contract shall govern over any translation. Any legal matter that may arise, and which cannot be resolved through mutual agreement, will be governed by the jurisdiction of French courts.
 
-[](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9909-general-terms-and-conditions-of-use/)[](https://twitter.com/intent/tweet?text=General+Terms+and+Conditions+of+Use%2C+par+NataliaKudryavtseva%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9909-general-terms-and-conditions-of-use%2F%20via%20@ccmnet)
+Partager Partager
+
+* [](https://twitter.com/intent/tweet?text=General+Terms+and+Conditions+of+Use%2C+par+NataliaKudryavtseva%20:%20https%3A%2F%2Fccm.net%2Fapps-sites%2Finternet-archeology%2Fccm%2F9909-general-terms-and-conditions-of-use%2F%20via%20@ccmnet)
+* [](https://www.facebook.com/sharer.php?u=https://ccm.net/apps-sites/internet-archeology/ccm/9909-general-terms-and-conditions-of-use/)
+
+* Copier
 
 [CCM](https://ccm.net/apps-sites/internet-archeology/ccm/)
 ----------------------------------------------------------
@@ -146,14 +158,14 @@ French law applies to the content and data transmission on and related to this w
 * [How is your data processed by CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/9941-processing-of-personal-data-ccm/)
 * [Why CCM won't help unlock phones, smart watches or SIM cards](https://ccm.net/apps-sites/internet-archeology/ccm/1783-why-ccm-doesn-t-help-unlock-mobile-phones-smart-watches-or-sim-cards/)
 * [CCM: My profile has been blocked, what to do?](https://ccm.net/apps-sites/internet-archeology/ccm/10195-ccm-my-profile-has-been-blocked/)
-* [CCM: Commercial, religious, politics terms of use](https://ccm.net/apps-sites/internet-archeology/ccm/10149-terms-of-use-for-ccm-commercial-religious-politics/)
-* [Why CCM cannot recover your personal passwords](https://ccm.net/apps-sites/internet-archeology/ccm/3373-why-ccm-doesn-t-recover-lost-passwords/)
 * [How to register for CCM Membership?](https://ccm.net/apps-sites/internet-archeology/ccm/10029-ccm-membership-registration/)
+* [Why CCM cannot recover your personal passwords](https://ccm.net/apps-sites/internet-archeology/ccm/3373-why-ccm-doesn-t-recover-lost-passwords/)
+* [CCM: Commercial, religious, politics terms of use](https://ccm.net/apps-sites/internet-archeology/ccm/10149-terms-of-use-for-ccm-commercial-religious-politics/)
 * [CCM: User Guide](https://ccm.net/apps-sites/internet-archeology/ccm/10121-user-guide/)
 * [CCM: Community Management](https://ccm.net/apps-sites/internet-archeology/ccm/10143-community-management/)
 * [CCM: Online Services](https://ccm.net/apps-sites/internet-archeology/ccm/10151-ccm-online-services/)
-* [Moderation Guidelines](https://ccm.net/apps-sites/internet-archeology/ccm/10125-moderation-guidelines/)
 * [How to browse CCM?](https://ccm.net/apps-sites/internet-archeology/ccm/10129-browsing-ccm/)
+* [Moderation Guidelines](https://ccm.net/apps-sites/internet-archeology/ccm/10125-moderation-guidelines/)
 * [Advice for writing messages on CCM](https://ccm.net/apps-sites/internet-archeology/ccm/10137-advice-for-writing-messages-on-ccm/)
 * [CCM: Copyright Information](https://ccm.net/apps-sites/internet-archeology/ccm/10145-copyright-information/)
 * [CCM: Moderation of defamatory posts](https://ccm.net/apps-sites/internet-archeology/ccm/10197-ccm-moderation-of-defamatory-posts/)
