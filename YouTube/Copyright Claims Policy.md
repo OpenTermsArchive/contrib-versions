@@ -22,7 +22,7 @@ We've invested millions of dollars in developing a Copyright Management Suite th
 
 YouTube has worked directly with rightsholders to ensure that copyrighted material on our platform is authorised, and that we provide those robust tools to allow rightsholders to notify YouTube of alleged infringement, which we remove in accordance with the law. There are three main tools that make up our Copyright Management Suite:
 
-* Webform
+* ### Webform
     
     **Who is it for?**
     
@@ -34,7 +34,7 @@ YouTube has worked directly with rightsholders to ensure that copyrighted materi
     
     Rightsholders have access to powerful features, including the ability to ask YouTube to automatically prevent copies of the removed content from being reuploaded.
     
-* Copyright Match Tool
+* ### Copyright Match Tool
     
     **Who's it for?**
     
@@ -44,7 +44,7 @@ YouTube has worked directly with rightsholders to ensure that copyrighted materi
     
     If a match is found, the creator or the rightsholder is notified. They can then review the video that potentially reused their content and decide whether to request the video's removal.
     
-* Content ID
+* ### Content ID
     
     **Who's it for?**
     
