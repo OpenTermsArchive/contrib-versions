@@ -845,4 +845,71 @@ m. an event which significantly disrupts the market for Digital Assets, which co
 
 **Regulatory Authority** means any foreign, domestic, state, federal, cantonal, municipal or local governmental, executive, legislative, judicial, administrative, supervisory or regulatory authority, agency, quasi-governmental authority, court, commission, government organisation, self-regulatory organisation having regulatory authority, tribunal, arbitration tribunal or panel or supra-national organisation, or any division or instrumentality thereof, including any tax authority.
 
-**Restric**
+**Restricted Person** means a person or legal entity who (a) is included in any trade embargoes or economic sanctions, terrorist or corrupt foreign officials list (such as the United Nations Security Council Sanctions List,  issued by a government agency including the list of specially designated nationals maintained by the office of foreign assets control of the U.S. Department of the Treasury (OFAC), or the denied persons or entity list of the U.S. Department of Commerce), or by the United Kingdom, European Union, Canada) tor (b) resides, or is established, or has operations in, in any country listed in the [List of Prohibited Countries](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/list-of-prohibited-countries).
+
+**Risk Warning** means the general risk warning published on the Website.
+
+**Security Breach** means 
+
+a. your Binance Account(s) or any of your Access IDs have been compromised;
+
+b. the loss, theft, or unauthorised use of any of your Access IDs or any unauthorised access to and use of your Binance Account or the Binance Services on your behalf; or
+
+c. any other security incident (including a cyber-security attack) affecting you and/or Binance.
+
+**Sites** means our Website and any other websites, pages, features, or content we own or operate.
+
+**Supported Digital Assets** means those Digital Assets that are available in connection with your use of the Binance Services.
+
+**Terms** means these terms of use, together with any other documents expressly incorporated by reference, including the Product Terms, in each case as amended or supplemented from time to time.
+
+**Trade Marks** means the Intellectual Property Rights in the trade marks, service marks and logos used and displayed on or through the Platform, the Sites and/or the Binance Services.
+
+**Transaction** means selling, purchasing, or entering into any other type of transactions, or agreeing to sell, purchase or enter into any other type of transactions involving Digital Asset(s), their derivatives, other asset(s) or product(s) as Binance may from time to time permit to be carried out on the Platform, and depositing or withdrawing Digital Assets or Fiat Currency into or out of your Binance Account.
+
+**User IP** means the Intellectual Property Rights owned by or licensed to you as at the date of these Terms and any other Intellectual Property Rights owned or acquired by or licensed to you after the date of these Terms, excluding Binance IP. 
+
+**User Materials** means the Intellectual Property Rights in any reviews, posts, information, data, and comments you or other users provide to us on the Sites (through our “Contact Us” pages or otherwise), the Platform, through use of Binance Services, or otherwise.
+
+**Website** means the website located at [www.binance.com](https://web.archive.org/web/20240515111941/http://www.binance.com/). 
+
+### **Community**
+
+USD-$
+
+### **Company**
+
+* [About Us](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/about)
+    
+* [Inquiries](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/about#email)
+    
+* [Careers](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/careers)
+    
+* [Press](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/press)
+    
+
+### **Support**
+
+* [Support Center](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support)
+    
+* [24/7 Chat Support](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/chat?sourceEntry=4)
+    
+* [Fees](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/fee/schedule)
+    
+* [Trading Rules](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/trade-rule)
+    
+
+### **Legal**
+
+* [Terms](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/terms)
+    
+* [Privacy Notice](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/privacy)
+    
+
+### **Compliance**
+
+* [Risk Warning](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/risk-warning)
+    
+* [Law Enforcement Request](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/support/law-enforcement)
+    
+* [Licenses & Registrations](https://web.archive.org/web/20240515111941/https://www.binance.com/en-GB/legal/licenses)
