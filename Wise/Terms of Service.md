@@ -34,17 +34,17 @@ In this Agreement:
 * **API Partner** means a business we have partnered with for Wise to offer our Services through their website, mobile application or similar.
 * **App** means the mobile application software where we offer our Services, the data supplied with the software and the associated media.
 * **Business Day** means a day other than a Saturday, Sunday or a public holiday in Belgium.
-* **Card** has the meaning given in section 18.1.
+* **Card** means a card issued on a Wise Account by Wise, either for your Main Account or a Group.
 * **Chargeback** means the person sending you the money has made a claim to their bank or payment provider that money was sent to you illegitimately, or the payment to Wise fails due to insufficient funds, account closed or any other reason.
 * **Intellectual Property** means (i) rights in, and in relation to, any trademarks, logos, patents, registered designs, design rights, copyright and related rights, moral rights, databases, domain names, utility models, and including registrations and applications for, and renewals or extensions of, such rights, and similar or equivalent rights or forms of protection in any part of the world; (ii) rights in the nature of unfair competition rights and to sue for passing off and for past infringement; and (iii) trade secrets, confidentiality and other proprietary rights, including rights to know how and other technical information.
 * **Money Transfer** means a direct transfer of funds paid by you, without using funds in your Wise Account, to a designated recipient that is sent using Wise. In some currencies, you may only be able to convert and send funds using your Wise Account and cannot make a direct Money Transfer.
 * **Payment Services Law** means the Belgian law of 11 March 2018 on the status and supervision of payment institutions and electronic money institutions.
 * **Negative Currency Accounts** has the meaning given in section 15.7.
-* **Reversal** means the funds received by you are reversed, returned or clawed back for any reason. For example, due to insufficient funds or account closure.
+* **Reversal or Reversed** means the funds received by you are reversed, returned or clawed back for any reason. For example, due to insufficient funds or account closure.
 * **Services** means all products, services, content, features, technologies, or functions offered by us and all related websites, applications (including the App), and service models (including the Website and via an API Partner), and including the Wise Account, the currency conversion and Money Transfer offerings.
 * **Third Party Materials** has the meaning given in section 28.
 * **Website** means any Wise webpage, including but not limited to www.wise.com, where we provide the Services to you.
-* **Wise Account** means a multi-currency account held by customers at Wise, which may include a Jar.
+* **Wise Account** is a multi-currency account that allows you to hold, spend, send, and receive money as well as convert currency. Where possible you may also have a Card. Within your Wise Account you will have a main account, where you can add currencies for holding, spending, sending and receiving (“**Main Account**”). You can also have Jars and Groups outside the Main Account (but still part of the same Wise Account), where you can separate money away from your Main Account.
 
 * * *
 
@@ -233,7 +233,7 @@ If you attempt to do this, we may hold your money for a period of time that is r
 
 **10.2 You can see our fee structure on the Pricing page.** For clarity, the fees applicable to you as set out on the ["Pricing" page](https://wise.com/pricing) forms part of this Agreement which may be subject to change as set out in “**Our right to make changes**”. We may charge you a variable fee during periods of potential heightened volatility or unpredictability in the foreign exchange market, as determined by Wise. We will let you know if this fee is applicable when you set up your order. It is important that you read and agree to these fees before you use our Services. We may make changes to our fees as set out in “**Our right to make changes**”.
 
-**10.3 We can make deductions for amounts you owe us.** You agree that we are authorised to deduct our fees, any applicable Reversal amounts, or any amounts you owe us from your Wise Account, including funds held in a Jar. If you don’t have sufficient funds in your Wise Account to cover these amounts, we may refuse to execute pending or future transactions or provide any Services to you and may deduct funds sent to us for Services in the future.
+**10.3 We can make deductions for amounts you owe us.** You agree that we are authorised to deduct our fees, any applicable Reversal amounts, or any amounts you owe us from your Wise Account, including a negative Main Account balance in any currency and funds held in a Jar or Group. If you don’t have sufficient funds in your Wise Account to cover these amounts, we may refuse to execute pending or future transactions or provide any Services to you and may deduct funds sent to us for Services in the future.
 
 **10.4 Taxes.** You are responsible for any taxes which may be due by you resulting from your use of our Services, and it is your responsibility to collect, report and pay the correct tax to the appropriate tax authority.
 
@@ -251,7 +251,7 @@ If you attempt to do this, we may hold your money for a period of time that is r
 
 * a) As part of a Money Transfer;
 * b) In your Wise Account, where you may add money in one currency and then later use those funds to send money to a third party, spend money on your Card or withdraw money in a different currency; or
-* c) In your Wise Account, where you may hold a balance or Jar in one currency and then convert it to a different currency.
+* c) In your Wise Account, where you hold one currency in your Main Account, Jar or Group and then convert it to a different currency.
 
 **11.2 Exchange rate.** When we refer to an exchange rate in this Agreement, it means the exchange rate at the relevant time for the relevant currency pair (for example, GBP to EUR, USD to AUD) that is offered by Wise., which is typically provided by a reference rate provider. We may change our reference rate provider from time to time without notice to you.
 
@@ -337,7 +337,7 @@ You agree that you will not exercise your chargeback right for any other reason.
 
 **13.2** If any funds are Reversed by the sender or any payment provider, you agree that Wise may refund, deduct or Reverse the Received Amount plus any applicable fees from your Wise Account (if applicable) in the same currency as the original transaction. If your Wise Account balance for the relevant currency is insufficient to cover the amount of a refund, deduction or Reversal, Wise may at its discretion perform a currency conversion to refund or Reverse the transaction, subject to the exchange rate being offered by Wise in the applicable currencies at that time. If a Reversal or chargeback causes you to have a negative balance, you will be immediately liable to Wise for the negative balance plus any losses to Wise, if any.
 
-**13.3 Chargeback Fees.** If you receive a debit or credit card-funded payment into your Wise Account and you (or a third party) pursue a chargeback for the transaction with the card issuer, then Wise may apply a fee for facilitating the chargeback process and will remove the chargeback funds from your Wise Account, including funds held in a Jar.
+**13.3 Chargeback Fees.** If you receive a debit or credit card-funded payment into your Wise Account and you (or a third party) pursue a chargeback for the transaction with the card issuer, then Wise may apply a fee for facilitating the chargeback process and will remove the chargeback funds from your Wise Account, including funds held in the Main Account, Jars or Groups.
 
 * * *
 
