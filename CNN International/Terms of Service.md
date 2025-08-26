@@ -25,7 +25,7 @@ These Terms of Use describe the terms and conditions that govern your use of the
 
 The following terms apply to content submitted by users, and user conduct, on the Site’s Interactive Areas:
 
-(A) Interactive Areas. The Site may contain comments sections, discussion forums, or other interactive features, CNN’s user-generated news community (“Interactive Areas”) in which you may post or upload user-generated content, comments, video, photos, messages, other materials or items (collectively, “User Content”). You are solely responsible for your use of any Interactive Areas and you use them at your own risk. By submitting User Content to an Interactive Area, you represent that you are that you are 18. Employees of Cable News Network, Inc. may not submit User Content without permission from their supervisors.
+(A) Interactive Areas. The Site may contain comments sections, discussion forums, or other interactive features, CNN’s user-generated news community (“Interactive Areas”) in which you may post or upload user-generated content, comments, video, photos, messages, other materials or items (collectively, “User Content”). You are solely responsible for your use of any Interactive Areas and you use them at your own risk. By submitting User Content to an Interactive Area, you represent that you are 18. Employees of Cable News Network, Inc. may not submit User Content without permission from their supervisors.
 
 (B) Community Guidelines. By submitting any User Content or participating in an Interactive Area within or in connection with the Site, you agree to abide by the following rules of conduct:
 
