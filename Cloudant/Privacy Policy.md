@@ -421,9 +421,8 @@ Previous versions of the Privacy Statement are available [here](https://www.ibm
 
 **Sections updated in this release:**
 
-1. Sharing Personal Information
-2. Controller and Representative Information
-3. Your Rights
-4. Your Additional Rights: US States
+1. Your Additional Rights: Brazil
+2. Your Additional Rights: Israel
+3. Your Additional Rights: Maryland
 
 We have made our best effort to accurately translate the IBM Privacy Statement into this language. To report any translation concerns, select [Contact Us](https://www.ibm.com/privacy/requests/contact/ "Contact Us") in the header of this page.
