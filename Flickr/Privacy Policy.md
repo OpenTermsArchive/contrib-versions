@@ -3,7 +3,7 @@ Flickr Privacy Policy
 
 For SmugMug’s Privacy Policy click [here](https://www.smugmug.com/about/privacy/).
 
-Date of Last Revision: July 24, 2025
+Date of Last Revision: August 26, 2025
 
 Awes.me, Inc. d/b/a Awesome & Flickr, Inc. ("Flickr") is passionately committed to the privacy of our customers.
 
@@ -14,6 +14,8 @@ This Privacy Policy explains how Flickr collects, uses and discloses information
 We may change this Privacy Policy from time to time. If we make changes, we will notify you by revising the date at the top of the policy and, if the changes are significant, we will provide you with additional notice (such as adding a statement to our homepage or sending you an email notification). We encourage you to review the Privacy Policy whenever you access the Services to stay informed about our information practices and the choices available to you.
 
 For information about how to change your privacy settings, please see: [https://flickrhelp.com/hc/en-us/articles/4404078163732-Change-your-privacy-settings](https://flickrhelp.com/hc/en-us/articles/4404078163732-Change-your-privacy-settings).
+
+Click [here](https://www.flickrhelp.com/hc/en-us/articles/4404063857812-Network-Enforcement-Act-NetzDG) for Flickr's authorized agent in Germany pursuant to § 5 NetzDG.
 
 Collection of Information
 
@@ -297,9 +299,13 @@ Flickr, Inc.
 
 Attention: Privacy Manager
 
-67 E Evelyn Ave, Ste 200
+548 Market St, STE 32047
 
-Mountain View, CA 94041, USA
+San Francisco, California 94104-5401
+
+USA
+
+  
 
 Flickr, Inc.
 
