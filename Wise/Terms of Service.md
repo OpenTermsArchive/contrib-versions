@@ -40,7 +40,7 @@ In this Agreement:
 * **Money Transfer** means a direct transfer of funds paid by you, without using funds in your Wise Account, to a designated recipient that is sent using Wise. In some currencies, you may only be able to convert and send funds using your Wise Account and cannot make a direct Money Transfer.
 * **Payment Services Law** means the Belgian law of 11 March 2018 on the status and supervision of payment institutions and electronic money institutions.
 * **Negative Currency Accounts** has the meaning given in section 15.7.
-* **Reversal or Reversed** means the funds received by you are reversed, returned or clawed back for any reason. For example, due to insufficient funds or account closure.
+* **Reversal** or **Reversed** means the funds received by you are reversed, returned or clawed back for any reason. For example, due to insufficient funds or account closure.
 * **Services** means all products, services, content, features, technologies, or functions offered by us and all related websites, applications (including the App), and service models (including the Website and via an API Partner), and including the Wise Account, the currency conversion and Money Transfer offerings.
 * **Third Party Materials** has the meaning given in section 28.
 * **Website** means any Wise webpage, including but not limited to www.wise.com, where we provide the Services to you.
@@ -362,12 +362,20 @@ Accordingly, you should not use our Services, including the Wise Account or the 
 
 * * *
 
-15\. Jars
----------
+15\. Main Account, Jars, Groups
+-------------------------------
 
-**15.1 What is a Jar?.** A “Jar” is a sub account within the Wise Account that can be used to segregate a portion of your funds. You may use Jars to keep funds for a designated purpose in the future, such as paying invoices or to assist with your budgeting. You can only put funds into your Jar by moving money from a balance or another Jar in your Wise account. You can use the funds directly from a Jar to send or transfer funds out of the Jar to external accounts or move the money back into a Wise Account balance or another Jar. You should keep enough unrestricted money in your Wise Account to cover all anticipated fees. Wise is not responsible for fees resulting from unfunded transactions due to funds being in a Jar.
+**15.1** Within your Wise Account, there are several ways to hold and organise your money. These are the Main Account, Jars and Groups.
 
-**15.2 Jars are not savings accounts, do not have their own account numbers, and don’t earn interest.** Money held in your Jars does not earn any interest and is not insured by any deposit protection scheme, including the FSCS.
+**15.2 What is a Main Account?** The Main Account is part of the Wise Account. It is where you can add and hold your main currencies that you use most often. All Wise Account customers will have a Main Account by default. It’s also where your physical card will spend from, if you have one.
+
+**15.3 What is a Jar?** A “**Jar**” is a sub account within the Wise Account that can be used to segregate a portion of your funds. You may use Jars to keep funds for a designated purpose in the future, such as paying invoices or to assist with your budgeting. You can only put funds into your Jar by moving money from your Main Account, or another Jar or Group within your Wise Account. You can use the funds directly from a Jar to send or transfer funds out of the Jar to external accounts, or move the money back into your Main Account, or another Jar or Group. You should keep enough unrestricted money in your Wise Account to cover all anticipated fees. Wise is not responsible for fees resulting from unfunded transactions due to funds being in a Jar.
+
+**15.4 Jars are not savings accounts, do not have their own account numbers, and don’t earn interest.** Money held in your Jars does not earn any interest and is not insured by any deposit protection scheme, including the FSCS.
+
+**15.5** “**Group Spending**” or “**Groups**” is a feature designed for Wise customers who wish to share and spend their finances with other Wise customers, such as friends and family.
+
+**15.6 Group Spending is not a joint account.** For further information on Group Spending, you can refer to [Group Spending Terms and Conditions](https://wise.com/eu/legal/group-spending).
 
 * * *
 
@@ -430,13 +438,15 @@ Accordingly, you should not use our Services, including the Wise Account or the 
 
 **17.13 Returns and Refunds.** If you are entitled to a refund for any reason for goods or services obtained with your Card, you agree to accept credits to your Wise Account for such refunds and agree to the refund policy of that merchant. Merchant refunds will be provided to Wise for sending to the Wise Account when they are received. Wise has no control over when a merchant sends a refund transaction; there may be a delay between the date of the refund transaction and the date the refund amount is credited into your Wise Account and refunds from merchants may be in an amount the same or less than the amount of the corresponding debit.
 
-**17.14 When can we suspend or cancel your Card.** Along with closing or suspending your Wise Account, we can suspend or cancel your Card, including if the activity on your Card or Wise Account appears suspicious, fraudulent or may be associated with criminal activity or activity which is inconsistent with this Agreement. Unusual or multiple purchases may prompt a merchant inquiry or Card suspension to allow us to investigate such activity.
+**17.14 Refunds in different currencies.** If you receive a refund on a card payment in a supported currency, we will credit your Wise Account in that currency. If you receive a refund in a currency we do not support (see [FAQ](https://wise.com/help/articles/2571907/what-currencies-can-i-send-to-and-from?origin=search-a+currency+we+do+not+support)), we will first convert the amount at the current Mastercard or Visa rate to a supported currency and then credit your Wise Account. We may need to activate a currency in your Wise Account in order to credit you the refund.
+
+**17.15 When can we suspend or cancel your Card.** Along with closing or suspending your Wise Account, we can suspend or cancel your Card, including if the activity on your Card or Wise Account appears suspicious, fraudulent or may be associated with criminal activity or activity which is inconsistent with this Agreement. Unusual or multiple purchases may prompt a merchant inquiry or Card suspension to allow us to investigate such activity.
 
 We reserve the right, in our sole discretion, to limit your use of the Card. We may refuse to issue or replace a Card or may revoke Card privileges, other than as required by applicable law. You agree not to use or allow others to use an expired, revoked, cancelled, suspended or otherwise invalid Card. We will not incur liability to you because of the unavailability of the funds that may be associated with your Card or Wise Account.
 
-**17.15 Unjust enrichment.** In case you notice a refund has been received twice for the same transaction, for example in both your Wise Account and from a merchant, you are required immediately to let us know, and we always reserve the right to debit back a previously issued refund when a refund for the same transaction has been provided by the merchant as well, without prior notice.
+**17.16 Unjust enrichment.** In case you notice a refund has been received twice for the same transaction, for example in both your Wise Account and from a merchant, you are required immediately to let us know, and we always reserve the right to debit back a previously issued refund when a refund for the same transaction has been provided by the merchant as well, without prior notice.
 
-**17.16 Disputed transactions.** In case of disputed Card transactions, we may, subject to any restrictions under applicable law, decide not to proceed with chargebacks at our sole discretion. Reasons for this might include:
+**17.17 Disputed transactions.** In case of disputed Card transactions, we may, subject to any restrictions under applicable law, decide not to proceed with chargebacks at our sole discretion. Reasons for this might include:
 
 * a) Not receiving sufficient information to determine that an error occurred;
 * b) Not receiving a notification about the payment error in a timely manner;
@@ -448,19 +458,21 @@ We reserve the right, in our sole discretion, to limit your use of the Card. We 
 18\. Card transactions
 ----------------------
 
-**18.1 You authorise every transaction.** You agree that any use by you of your Card, card number or PIN constitutes your authorisation and consent to the transaction.
+**18.1** You can have a card attached to your Main Account and also for Groups created as part of Group Spending. If a card is linked to the Main Account, it will not be able to use funds from a Group and vice versa.
 
-**18.2 Cards for individuals are for your sole personal use.** If you are an individual, you undertake not to authorise others to use your identity or user status, and you may not assign or otherwise transfer your Card to any other person or entity.
+**18.2 You authorise every transaction.** You agree that any use by you of your Card, card number or PIN constitutes your authorisation and consent to the transaction.
 
-**18.3 Priority of currencies and currency conversion when you use your Card.** If you withdraw cash or make a purchase in a currency for which you hold a balance in your Wise Account, Wise will use that currency for your withdrawal or purchase and you consent to and authorise Wise to convert the currency in place of your Card network.
+**18.3 Cards for individuals are for your sole personal use.** If you are an individual, you undertake not to authorise others to use your identity or user status, and you may not assign or otherwise transfer your Card to any other person or entity.
 
-**18.4 In a currency that you do not hold in your Wise Account.** If you withdraw cash or make a purchase in a currency for which you do not hold in your Wise Account, or if you withdraw cash or make a purchase in a currency in an amount that exceeds the available funds that you hold in that currency, Wise may convert funds from another currency that you hold in your Wise Account to cover that transaction, and Wise currency conversion fees will apply. You cannot set a default or preferred currency to convert from.
+**18.4 Priority of currencies and currency conversion when you use your Card.** If you withdraw cash or make a purchase in a currency for which you hold a balance in your Wise Account, Wise will use that currency for your withdrawal or purchase and you consent to and authorise Wise to convert the currency in place of your Card network.
 
-**18.5** When determining which currency to convert where you have more than one currency in your Wise Account, Wise will use the currency with the lowest conversion fee for the currency needed to complete the cash withdrawal or purchase made by you. In cases where the conversion from several currencies will have the same conversion fee, we will convert based on the highest conversion rate. For more information on which currencies would be used in the event that you use your Card to withdraw cash or make a purchase in a currency that you do not hold in your Wise Account, please check the Wise [pricing page](https://wise.com/gb/pricing/card-fees) or contact [Customer Support](https://wise.com/help/contact).
+**18.5 In a currency that you do not hold in your Wise Account.** If you withdraw cash or make a purchase in a currency for which you do not hold in your Wise Account, or if you withdraw cash or make a purchase in a currency in an amount that exceeds the available funds that you hold in that currency, Wise may convert funds from another currency that you hold in your Wise Account to cover that transaction, and Wise currency conversion fees will apply. However, Wise will only ever take money from currencies in the Main Account or Group that the card is associated with. You cannot set a default or preferred currency to convert from.
 
-**18.6 In a currency that is not supported by Wise.** If you withdraw cash or make a purchase in a foreign currency that is not supported by Wise, the rate charged by the VISA/MASTERCARD® ​network shall apply.
+**18.6** When determining which currency to convert where you have more than one currency in your Wise Account, Wise will use the currency with the lowest conversion fee for the currency needed to complete the cash withdrawal or purchase made by you. In cases where the conversion from several currencies will have the same conversion fee, we will convert based on the highest conversion rate. For more information on which currencies would be used in the event that you use your Card to withdraw cash or make a purchase in a currency that you do not hold in your Wise Account, please check the Wise [pricing page](https://wise.com/gb/pricing/card-fees) or contact [Customer Support](https://wise.com/help/contact).
 
-**18.7** Please note that if you are offered the option at a point of sale (“**POS**”) terminal to pay in local currency or to pay in your home or another currency, ​you must pick the local currency if you want the Wise rate to apply to your transaction.
+**18.7 In a currency that is not supported by Wise.** If you withdraw cash or make a purchase in a foreign currency that is not supported by Wise, the rate charged by the VISA/MASTERCARD® ​network shall apply.
+
+**18.8** Please note that if you are offered the option at a point of sale (“**POS**”) terminal to pay in local currency or to pay in your home or another currency, ​you must pick the local currency if you want the Wise rate to apply to your transaction.
 
 * * *
 
@@ -535,7 +547,7 @@ We reserve the right, in our sole discretion, to limit your use of the Card. We 
 
 **24.1 How to pay for your Money Transfer.** To pay for your Money Transfer, you need to access your Wise Account or profile, by logging in on our Website or App or via an API Partner, and follow the steps provided.
 
-**24.2 Payment methods.** You may be presented with one or more methods of paying for a Money Transfer (for example, a bank transfer, or a credit cards or debit card). The number of payment methods made available to you will depend on a number of factors including where you live and your verification status with us. We cannot guarantee the availability of any particular payment method and we may change or stop offering a payment method at any time without notice to you.
+**24.2 Payment methods.** You may be presented with one or more methods of paying for a Money Transfer (for example, a bank transfer, a credit card, a debit card or money in your Wise Account). The number of payment methods made available to you will depend on a number of factors including where you live and your verification status with us. We cannot guarantee the availability of any particular payment method and we may change or stop offering a payment method at any time without notice to you.
 
 **24.3 Payment instruments must be in your name.** Any payment instrument (for example, the credit card or debit card or a bank account from which you make a transfer) you use to pay for a Money Transfer must be in your name. We may reject the payment if the instrument is not in your name.
 
