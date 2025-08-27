@@ -47,9 +47,17 @@ You can report content as illegal on [this page](https://telegram.org/dsa-report
 
 Note that if you report illegal content under the Digital Services Act, you will be prompted to include more details, including your name, contact information and a clear and convincing explanation why the content in question is illegal. We may have to dismiss your report if the information provided by you is insufficient to support it and may suspend the processing of your notices and complaints if you repeatedly submit manifestly unfounded, fraudulent or misleading reports.
 
-#### [](#contact-points-for-competent-authorities-in-eu-countries)Contact points for competent authorities in EU countries
+#### [](#legal-representative-under-article-13-of-the-digital-services-ac)Legal Representative under Article 13 of the Digital Services Act
 
-Competent authorities of the EU and EU members willing to contact Telegram under the Digital Services Act can obtain the necessary contact details from European Digital Services Representative (EDSR), Telegram's representative pursuant to Article 13 of the Digital Services Act, registered at Avenue Huart Hamoir 71, 1030 Brussels, Belgium. EDSR can be contacted by email dsa.telegram@edsr.eu, by phone +32 2 216 19 71 or by post. Requests can be accepted in English and French. If you are not a competent EU or EU member authority, your request will not be processed and you will not get a response.
+EU Member States’ competent authorities (as defined in Article 49 of the Digital Services Act), the EU Commission and the European Board for Digital Services (the **Board**) who wish to contact Telegram under the Digital Services Act can obtain the necessary contact details from European Digital Services Representative (**EDSR**), Telegram's representative pursuant to Article 13 of the Digital Services Act, registered at Avenue Huart Hamoir 71, 1030 Brussels, Belgium. EDSR can be contacted by email at dsa.telegram@edsr.eu, by phone +32 2 216 19 71 or by post. Requests can be accepted in English and French.
+
+#### [](#points-of-contact-for-member-states-authorities)Points of contact for Member States’ authorities
+
+Authorities in the EU (which are not competent authorities under Article 49 of the Digital Services Act) who wish to submit requests under Articles 9 or 10 of the Digital Services Act can obtain the contact details of Telegram's designated contact points from EDSR (see above).
+
+#### [](#out-of-scope-requests)Out of scope requests
+
+Please note that the above contact details are reserved for requests from competent authorities (as defined in Article 49 of the Digital Services Act), the EU Commission, the Board, and relevant authorities in the EU making requests under Articles 9 or 10 of the Digital Service Act. Requests made outside of the specified scope may not be processed.
 
 #### [](#average-monthly-active-recipients-of-service-in-the-eu)Average monthly active recipients of service in the EU
 
