@@ -1,14 +1,14 @@
 Service Privacy Notice
 ======================
 
-Effective as of March 13, 2025  
+Effective as of August 27, 2025  
 View [archived Privacy Notice](https://www.nextroll.com/privacy/archived)
 
-NextRoll, Inc. (formerly AdRoll, Inc.) and its subsidiaries and affiliates (“**we** ” “**our**” or “**us**”) is an independent marketing technology company that offers intelligent, data-driven advertising and marketing services and solutions to help big and small companies accelerate their growth (“**Services**”).
+NextRoll, Inc. and its subsidiaries and affiliates (“**we** ” “**our**” or “**us**”) a connected advertising platform built for fast-moving, resource-constrained marketers. We provide multi-channel audience activation, account-based marketing, AI-powered engines and agents, cross-channel attribution, and award-winning support to help businesses generate awareness, deepen engagement, and drive full-funnel growth.
 
-We have prepared this Service Privacy Notice to describe the types of data we collect from you, and explain how, why and when we collect this data in order to provide our Services to our Customers. References to **“Customer”** in this Policy Notice refers to any business, brand, marketer and/or advertiser who uses NextRoll’s Services. This Service Privacy Notice also identifies what rights you have concerning the collection of this data, such as the right to opt-out of interest-based advertising (also commonly referred to as targeted or personalized advertising). If you have additional questions, you can visit our [Trust Center](https://www.nextroll.com/trust-center) or [Contact Us.](#service-17)
+We have prepared this Service Privacy Notice to describe the types of data we collect, and explain how, why and when we collect this data in order to provide our Services to our Customers. References to **“Customer”** in this Policy Notice refers to any business, brand, marketer and/or advertiser who uses NextRoll’s Services. This Service Privacy Notice also identifies what rights Customers and the visitors’ to Customers’ sites have concerning the collection of this data, such as the right to opt-out of interest-based advertising (also commonly referred to as targeted or personalized advertising). If you have additional questions, you can visit our [Trust Center](https://www.nextroll.com/trust-center) or [Contact Us.](#service-17)
 
-Please note that this Privacy Notice does not apply to data we collect when you visit a NextRoll website, including [https://www.nextroll.com/](https://www.nextroll.com/), [www.adroll.com](https://www.adroll.com/) and [https://www.rollworks.com/](https://www.rollworks.com/). To learn what data we collect when you visit our websites, please visit the [NextRoll Website Privacy Notice](#website).
+**Please note that this Privacy Notice does not apply to data we collect when you visit a NextRoll website, including [https://www.nextroll.com/](https://www.nextroll.com/), [www.adroll.com](https://www.adroll.com/) and [https://www.rollworks.com/](https://www.rollworks.com/). To learn what data we collect when you visit our websites, please visit the [NextRoll Website Privacy Notice](#website).**
 
 * * *
 
@@ -40,18 +40,18 @@ Table of Contents
 
 [Back to top](#service-toc)
 
-NextRoll is a marketing technology company that helps big and small companies deliver products ambitious marketers use and rely on to grow their businesses. Powered by machine learning and integrated data platforms, NextRoll’s intelligent, data-driven marketing and advertising services and solutions go beyond serving digital ads by providing companies better visibility into which audiences are most interested in certain products and services. By using NextRoll’s proprietary data and machine learning offerings (“**NextRoll Technology**”), companies can better understand their current customers, find new loyal customers and build lasting customer relationships through intelligence-driven direct marketing activities.
+AdRoll and AdRoll ABM are AI-powered NextRoll Services providing a connected advertising platform designed for mid-market businesses, with solutions for full-funnel multi-channel advertising, social advertising, ecommerce growth, cross-channel attribution and account-based marketing. By using NextRoll’s proprietary data and machine learning AI systems (“**NextRoll Technology**”), companies can better understand their current customers, find new loyal customers and build lasting customer relationships through intelligence-driven direct marketing activities.
 
-NextRoll has two different business divisions:
+NextRoll provides solutions for direct to consumer brands through its AdRoll services and account based marketing through its AdRoll ABM services:
 
 * [AdRoll](https://www.adroll.com/) is an e-commerce marketing platform for companies that sell their products and services directly to consumers (called “**Direct to Consumer**” or “**D2C**” companies). The AdRoll platform makes it easy and affordable for D2C companies to deliver the cross-channel experiences consumers expect – enabling them to sell more to their existing consumers and identify new consumers to introduce to their products and services. AdRoll does this by creating connected, personalized customer journeys that enable brands to reach new and existing customers through digital advertising, email marketing and onsite experiences. AdRoll also helps companies understand the impact of their marketing efforts with advanced measurement and attribution;
-* [RollWorks](https://www.rollworks.com/) offers an account-based platform for businesses who want to sell their products and services to other businesses (called “**Business to Business”** or “**B2B**” companies). Our RollWorks Services help B2B companies identify their target accounts and key buyers, reach those accounts across multiple channels and measure program effectiveness in their system-of-record.
+* [AdRoll ABM](https://www.adroll.com/) offers an account-based platform for businesses who want to sell their products and services to other businesses (called “**Business to Business”** or “**B2B**” companies). Our AdRoll ABM Services help B2B companies identify their target accounts and key buyers, reach those accounts across multiple channels and measure program effectiveness in their system-of-record.
 
 #### Interest-Based Advertising
 
-NextRoll’s Technology helps our D2C and B2B Customers provide ads and send emails to people that are most likely to find them interesting by showing them ads that are relevant to their specific interests. This is called “interest-based advertising”. We show many of these interest-based ads on websites and mobile apps which rely on advertising revenue to support the content they provide - and what we all consume - for free each day.
+NextRoll’s Technology helps our D2C and B2B Customers show ads and send emails to people that are most likely to find them interesting. By serving them ads that are relevant to an individual's specific interests, our Customers reach prospective and existing customers more effectively and learn more about what constitutes their “ideal customer” and which ads and website pages generate the most attention and result in a purchase of services or products. These activities are frequently referred to as “interest-based advertising”. We show many of these interest-based ads on websites and mobile apps which rely on advertising revenue to support the content they provide for free each day.
 
-When you visit a website or a mobile application (each a “**Digital Property**”) operated by one of our Customers, open an email from a Customer, or get served an ad by us on behalf of our Customer on a third party site, we may collect certain data from your device as described in this Service Privacy Notice. Our platform then uses that data, as well as other data described in [What Data We Collect](#service-2), to help our Customers provide ads and send emails to you that aim to be more relevant to you. To see an example of how this works in practice, see [Example of Interest-Based Advertising.](#redbox)
+When you visit a website or a mobile application (each a “**Digital Property**”) operated by one of our Customers, open an email from a Customer, or get served an ad by us on behalf of our Customer on a third party site, we have likely collected certain data from your device. This Service Privacy Notice describes the data we collect and how we use it, including the reasons why it is collected and the items that are disclosed to other third parties in the adtech ecosystem for the purpose of serving the ad or providing analytics. . The majority of the ads served to our Customers’ site visitors are part of a “real-time bidding” system used throughout the internet and apps to deliver ads in the nanoseconds it takes to upload a webpage or swipe to a new section of an App.
 
 Interest-based advertising enables publishers of Digital Properties to more accurately determine which ads to serve to specific users based on near real-time data. In turn, this allows our Customers to provide more effective advertising that reaches a more precise pool of prospective buyers.
 
@@ -59,17 +59,21 @@ All in all, interest-based advertising promotes better competition in the market
 
 #### Example of Interest-Based Advertising
 
-_You’re working from home for the foreseeable future and want to invest in more comfortable work-from-home clothing. You can’t go to the store right now so you decide to peruse some e-commerce sites instead. You go to Google and type in “loungewear” and a list of websites pop up, including one for ABC Sweatshirts. You’re still in the research phase so you browse their site but don’t purchase. Luckily, ABC Sweatshirts is a_ [_customer_](https://www.adroll.com/resources/case-studies/lounge-underwear) _of NextRoll and uses the AdRoll technology for its e-commerce platform. Our technology notes that your device visited ABC Loungwear’s website and was looking at sweatshirts._
+_You’re working from home for the foreseeable future and want to invest in more comfortable work-from-home clothing. You decide to peruse some e-commerce sites and get a lay of the land so you go to your favorite browser and type in “loungewear” to get things started. A list of websites pops up, including one for ABC Sweatshirts. You’re still in the research phase so you browse their site but don’t purchase. Luckily, ABC Sweatshirts is a_ [_customer_](https://www.adroll.com/resources/case-studies/lounge-underwear) _of NextRoll and uses the AdRoll technology for its e-commerce platform. Our technology notes that your device visited ABC Loungwear’s website and was looking at sweatshirts._
 
-_Later, as you browse the Internet, we show you ads online from ABC Sweatshirts to encourage you to come back and purchase the sweatshirt, perhaps even with a discount offer or notice of an upcoming sale. We may also show you ads from other companies that sell similar products or services you may be interested in to complete your loungewear outfit, such as sweatpants or home slippers. In addition, if you gave ABC Sweatshirts your email address for marketing purposes, we may also send you emails on behalf of the brand that tell you about its new exclusive line of sweatshirts, special promotions, and more. Alternatively, we may use your email to serve you interest-based ads on social media (for example, your social media provider may match a pseudonymized form of your email address that we provide them with the email address details you have registered with your social media account, enabling us to show you interest-based ads in your social media newsfeed)_.
+_Later, as you browse the Internet, we show you ads online from ABC Sweatshirts to encourage you to come back and purchase the sweatshirt, perhaps even with a discount offer or notice of an upcoming sale. We may also show you ads from other companies that sell similar products or services you may be interested in to complete your loungewear outfit, such as sweatpants or home slippers. In addition, if you gave ABC Sweatshirts your email address for marketing purposes, then ABC Sweatshirts may have an Email Service Provider connected through AdRoll that can coordinate the interests you’ve demonstrated in order to send you an email about its new exclusive line of sweatshirts, special promotions, and more. Alternatively, may use your email to serve you interest-based ads on social media (for example, your social media provider may match a pseudonymized form of your email address that we provide them with the email address details you have registered with your social media account, enabling us to show you interest-based ads in your social media newsfeed)_.
 
 #### Measurement and Attribution
 
 In addition to interest-based advertising, we also provide various analytics to help our Customers measure the success of their advertising campaigns and identify prospective buyers who may be the most interested in their products or services.
 
-For instance, by collecting a unique identifier (such as a cookie ID) from the devices of users who see our Customers’ ads or visit their Digital Properties, we can measure whether those unique identifiers subsequently took a particular action, such as buying a Customer’s product or visiting their Digital Property (sometimes called a “conversion”). In some cases, we may use our cross device data asset to match unique identifiers (which includes browsing activity) to email addresses. Customers are only notified of a match if the email already exists in the Customer ‘s CRM records. AdRoll’s D2C Services can collect, measure and analyze different types of data in conjunction with these unique identifiers and provide useful information to our AdRoll Customers such as what IP address ranges visitors to their Digital Properties are from (indicating the geographic locations of a visitor, which may help indicate what locations to run a particular ad campaign), what products or services located on their Digital Property are attracting more attention (or less), and what ad campaigns ultimately led a cookie ID back to a Digital Property to view more products or make a purchase.
+For instance, by collecting a unique identifier (such as a cookie ID) from the devices of users who see our Customers’ ads or visit their Digital Properties, we can measure whether those unique identifiers subsequently took a particular action, such as buying a Customer’s product or visiting their Digital Property (sometimes called a “conversion”). In some cases, we may use our [cross device](https://www.nextroll.com/privacy#service-3:~:text=in%20the%20sequence.-,Mapping%20data%20to%20Our%20Cross%2DDevice%20Asset%3A,-NextRoll%E2%80%99s%20cross%2Ddevice) data asset to match unique identifiers (which includes browsing activity) to email addresses. Customers are only notified of a match if the email already exists in the Customer ‘s CRM records. AdRoll’s D2C Services can collect, measure and analyze different types of data in conjunction with these unique identifiers and provide useful information to our AdRoll Customers such as what IP address ranges visitors to their Digital Properties are from (indicating the geographic locations of a visitor, which may help indicate what locations to run a particular ad campaign), what products or services located on their Digital Property are attracting more attention (or less), and what ad campaigns ultimately led a cookie ID back to a Digital Property to view more products or make a purchase.
 
-RollWorks’ B2B Services provide similar types of analytics derived from the same sort of data as AdRoll’s D2C Services described above, but with a focus on firmographic information to provide insights on the type of B2B customers that appear to be interested in specific products or offerings on that Customer’s Digital Property. For example, determining which IP address ranges are associated with a unique identifier (such as a cookie ID) so we can identify companies who may be interested in our Customer’s product or service, or, if a unique identifier is linked to an email address that has already been provided to the B2B customer, RollWorks may alert the Customer of increased browsing activity that indicates interest from a particular known account.
+AdRoll ABM is our B2B solution that provides similar types of analytics derived from the same sort of data as AdRoll’s D2C Services described above. However, in the case of AdRoll ABM where companies are seeking to market services and products to other companies, there is a focus on company-level (sometimes called firmographic) information to provide insights on the type of B2B customers that appear to be interested in specific products or offerings on that Customer’s Digital Property. For example, determining which IP address ranges are associated with a unique identifier (such as a cookie ID) so we can identify companies who may be interested in our Customer’s product or service, or, if a unique identifier is linked to an email address that has already been provided to the B2B customer, AdRoll ABM may alert the Customer of increased browsing activity that indicates interest from a particular known account.
+
+Overall, we use the data collected and described in this Privacy Notice to serve ads and provide analytics reporting to both our D2C (AdRoll) and B2B (AdRoll ABM) Customers.
+
+We aim to explain the data collected and used and organized topically in our Table of Contents to address different parts of the ad ecosystem. Everything from the [What Data We Collect](https://www.nextroll.com/privacy#service-2) section, [Your Cookies and Opting Out of Interest Based Advertising and Analytics](https://www.nextroll.com/privacy#service-8) to [Data Retention](https://www.nextroll.com/privacy#service-9), and [Making a Privacy Request](https://www.nextroll.com/privacy#service-15) (and everything in between and otherwise set forth in this Notice) seeks to give our Customers and their site visitors information about data used for our services and effectuating individual data rights.
 
 Overall, we use the information learned from unique identifier behavior across the Internet to provide reporting to both our D2C and B2B Customers. A more detailed list of all the data we collect is described in [What Data We Collect.](#service-2)
 
@@ -81,7 +85,7 @@ We collect the following categories of data in the provision of our Services for
 
 #### Data You or Our Customers Provide To Us
 
-* **_Email and CRM data from our Customers_:** Some Customers provide their customer relationship data to us (e.g. name, email address, company address, mobile number) or instruct us to collect clear email addresses on their behalf using NextRoll Technology (“**Customer CRM Data**”) for processing as part of our Services. By doing so, we help our Customers identify who is showing interest on their Digital Properties as well as serve, measure and analyze interest-based ads to their current or potential customers (we may also trigger these ads by licensing [RollWorks B2B Contact Data](https://www.rollworks.com/contact-data) to a Customer). For example, if you are browsing a software company’s website and submitted your email to download a white paper, the software company may use our Services to contact you and provide you with more information about the software company’s products that appear to be of most interest to you (subject to the marketing preferences you indicate to the software company). We use our Customer’s CRM Data only as a processor for the purpose of assisting that particular Customer with their own advertising efforts and reporting performance back to the Customer's CRM system. We do not share clear email addresses belonging to one Customer with another Customer.
+* **_Email and CRM data from our Customers_:** Some Customers provide their customer relationship data to us (e.g. name, email address, company address, mobile number) or instruct us to collect clear email addresses on their behalf using NextRoll Technology (“**Customer CRM Data**”) for processing as part of our Services. By doing so, we help our Customers identify who is showing interest on their Digital Properties as well as serve, measure and analyze interest-based ads to their current or potential customers (we may also trigger these ads by licensing [AdRoll ABM B2B Contact Data](https://www.adroll.com/account-based-marketing-platform) to a Customer). For example, if you are browsing a software company’s website and submitted your email to download a white paper, the software company may use our Services to contact you and provide you with more information about the software company’s products that appear to be of most interest to you (subject to the marketing preferences you indicate to the software company). We use our Customer’s CRM Data only as a processor for the purpose of assisting that particular Customer with their own advertising efforts and reporting performance back to the Customer's CRM system. We do not share clear email addresses belonging to one Customer with another Customer.
     
 * **_Shopping Data_**_:_ Some Customers provide us with data about their buyers’ shopping habits, including non-financial transactional data, product codes and check-out activity in addition to the browsing data that we collect. This data may come from their Digital Properties or other non-financial transactional data they maintain. We use this data to help us better target, personalize and measure the effectiveness of advertising campaigns. This data is also Customer CRM Data and belongs to our Customers and is handled by NextRoll as a processor.
     
@@ -94,7 +98,7 @@ We collect the following categories of data in the provision of our Services for
 
 Unless you have opted-out or have otherwise refused to provide consent, the following is data that we collect from your device automatically:
 
-* **_Cookies:_** A unique identifier that NextRoll assigns to you when visiting a Customer’s Digital Property so NextRoll can understand your online journey and have the opportunity to serve ads to you when you visit Publisher’s Digital Properties.
+* **_Cookies or Alternative Identifiers:_** A **_cookie_** is a unique identifier that NextRoll assigns to you when visiting a Customer’s Digital Property so NextRoll can understand your online journey and have the opportunity to serve ads to you when you visit Publisher’s Digital Properties. **_Alternative Identifiers_** are unique identifiers that are not third party cookies, but which seek to pseudonymously identify a site visitor. If a particular site visitor also has an alternative identifier associated with a cookie, IP address, or email address,
     
 * **_Device Information:_** This is technical information about the device you use to access our Customers’ Digital Property, such as your operating system. Additionally, in the case of mobile devices, your device type, and mobile device's unique advertising identifier (such as the Apple IDFA or Android Advertising ID), and any other unique identifier that may be assigned to the mobile device, such as an Android ID or UDID in older Apple phone models, or a non-cookie unique identifier used by [Non-Cookie Technologies](#service-7).
     
@@ -115,29 +119,32 @@ All of this data is collected to help make sure you get the best and most releva
 
 * **_Campaign Performance Data:_** This data includes information about how well our Customers’ ads and campaigns have performed, whether on our platform or on other advertising platforms.
     
-* **_Data from Audience Partners:_** We may collect additional information about you from our audience partners who create and provide us with segments which we use for our Customers (“**Audience Partner**”). A segment is a grouping of users who share one or more attributes (e.g. demographic or firmographic attributes). We use this data to better understand the Customers’ target audience and to better market the Customers’ products and services to you. We may also work with our Customers and Audience Partners to synchronize their unique, pseudonymous identifiers to our own to enable us to more accurately recognize a particular unique browser or device and the advertising interests associated with it (commonly known as “ID or User Syncing”).
+* **_Data from Audience Partners:_** We may collect additional information about you from our audience partners who create and provide us with segments which we use for our Customers (“**Audience Partner**”). A segment is a grouping of users who share one or more attributes (e.g. demographic or firmographic attributes). We use this data to better understand the Customers’ target audience and to better market the Customers’ products and services to you. We may also work with our Customers and Audience Partners to synchronize their unique, pseudonymous identifiers to our own to enable us to more accurately recognize a particular unique browser or device and the advertising interests associated with it (commonly known as “ID or User Syncing”). Our Audience Partners are [Bombora](https://bombora.com/digital-audiences/) and [Experian](https://www.experian.co.uk/business/find-retain-customers/targeting-profiling) and [Eyeota](https://www.eyeota.com/audience-marketplace) (please see our [Pixel Partners](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners) list (LiveRamp onboards the Bombora data).
     
-* **_Data from Advertising Partners:_** This is data that allows us to match the NextRoll cookie identifier with identifiers that may already be used by other companies in the digital advertising ecosystem that we work with (“[**Advertising Partners**](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners)”). For example, we work with ad exchanges, publishers and supply side platforms (i.e. companies that sell advertising space on publishers’ websites) in order to serve our ads. Matching cookie identifiers helps us deliver ads to you and recognize you across browsers and devices and may include pseudonymous advertising identifiers (meaning identifiers that help identify your browser or device, but not you directly) which some Advertising Partners choose to share with us.
+* **_Data from Advertising Partners:_** This is data that allows us to match the NextRoll cookie identifier with identifiers that may already be used by other companies in the digital advertising ecosystem that we work with (“[**Advertising Partners**](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners)”). For example, we work with ad exchanges, publishers and supply side platforms (i.e. companies that sell advertising space on publishers’ websites) in order to serve our ads. Matching cookie identifiers helps us deliver ads to you and recognize you across browsers and devices and may include pseudonymous advertising identifiers (meaning identifiers that help identify your browser or device, but not you directly) which some Advertising Partners choose to share with us. Please see our [Pixel Partners](https://help.adroll.com/hc/en-us/articles/360004450251-AdRoll-Pixel-Partners) listing the Advertising Partners we work with to deliver ads on publisher pages.
     
 
-#### Data collected pursuant to RollWorks Business only:
+#### Third Party Data Collection Unique to CTV Ads:
 
-* **_Email Communications:_** Customers may provide us with access to their email communications from their prospects when they have engaged us to provide email marketing services. NextRoll acts as a processor of this CRM Data. . When access to this data involves access to Gmail Data, it will be subject to these additional restrictions:
+* **_Referrer URL:_** Third party companies that assist with measurement and attribution data for ads served via CTV collect the some of the same data we collect via our Pixel (e.g., IP address, cookie or alternative identifier) and may also collect a referrer url which is the website someone who has been served a CTV ad puts into their browser within a specified time frame of being served the ad.
     
-    * We will only use access to read, write, modify or control Gmail message bodies (including attachments), metadata, headers, and settings to provide a web email that allows users to compose, send, read and process emails and will not transfer this Gmail Data to others unless doing so is necessary to provide and improve these features, comply with applicable law or as part of a merger, acquisition or sale of assets;
-        
-    * We will not use this Gmail Data for serving advertisements; and
-        
-    * We will not allow humans to read this data unless agreed to by the Customer, doing so is necessary for security purposes such as investigating abuse, to comply with applicable law, or for the provision of NextRoll’s Services.
-        
-* **_Contact data from third parties_:**  We obtain and collect contact data from various third-party sources, including from public sources and through licenses with data providers. We may also infer contact data based on email addresses and email naming conventions. This contact data is B2B information – in other words, it is typically a business email address, business street address and a business telephone number. Please note that as part of our RollWorks Services, we do not collect business email addresses from third parties for any individuals who are residing in any European Territories (as defined in [International Transfers](#service-11)).
+* **_QR-Data:_** If you point the camera on any modern phone or tablet at a QR code, you’ll either be given an option to take some action, or your device will automatically take that action (such as direct you to a website). Third party companies that provide customers with QR codes for CTV ads (identified on the QR code when presented for notification and privacy-related options) collect the following data:
+    
+    * a record of the specific QR Code scanned;
+    * information about the device that scanned the code, such as its current IP address, the operating system and the browser used by the device;
+    * where permitted under applicable law, a unique cookie ID is assigned and collected; and
+    * precise geolocation
+
+#### Data collected pursuant to AdRoll ABM Business only:
+
+* **_Contact data from third parties_:**  We obtain and collect contact data from various third-party sources, including from public sources and through licenses with data providers. We may also infer contact data based on email addresses and email naming conventions. This contact data is B2B information – in other words, it is typically a business email address, business street address and a business telephone number. Please note that as part of our AdRoll ABM Services, we do not collect business email addresses from third parties for any individuals who are residing in any European Territories (as defined in [International Transfers](#service-11)).
     
 
 ### 3\. How We Use the Data We Collect
 
 [Back to top](#service-toc)
 
-Our goal is to leverage this data to help Customers better identify and engage with you and, in turn, provide you with an ideal online experience whereby ad-sponsored content is available for free and the ads served to you are for products and services that aim to be relevant and interesting to you. The data we collect also helps Customers analyze traffic on their Digital Properties, measure the effectiveness of their ad campaigns and gauge the interest of prospective buyers. Additionally, we use this data to operate, improve and enhance our Services.
+Our goal is to use this data to help Customers better identify and engage with you and, in turn, provide you with an ideal online experience whereby ad-sponsored content is available for free and the ads served to you are for products and services that aim to be relevant and interesting to you. The data we collect also helps Customers analyze traffic on their Digital Properties, measure the effectiveness of their ad campaigns and gauge the interest of prospective buyers. Additionally, we use this data to operate, improve and enhance our Services.
 
 Specifically, we use this data for the following purposes:
 
@@ -161,7 +168,7 @@ Specifically, we use this data for the following purposes:
     
 * **_Reporting and Attribution:_**  By analyzing activity on our Customers’ Digital Properties, we provide our Customers insights into how their ad campaigns are performing and surface insights about their site visitors. Reporting may include ad metrics, such as traffic on certain Digital Properties, measuring impact of campaigns, impressions (ads served), clicks (ads you clicked on) and conversions. What qualifies as a “conversion” is defined by the Customer—it might include, for example, a sale or a white paper download or a correlation to an actual or inferred sale, site visit or store visit. This data allows a Customer to determine if an ad is not performing well (few attributed conversions), so that the Customer can update the ad (perhaps with a better deal!).
     
-* **_Licensing Data:_**  When we receive an email address for a U.S. resident or obtain attribute data from third party data providers or derive an email address we may license that data to our Customers. For example, our [RollWorks Contact Data Product](https://www.rollworks.com/contact-data) provides our Customers with business email addresses. 
+* **_Licensing Data:_**  When we receive an email address for a U.S. resident or obtain attribute data from third party data providers or derive an email address we may license that data to our Customers. For example, our [AdRoll ABM Contact Data Product](https://www.adroll.com/account-based-marketing-platform) provides our Customers with business email addresses. 
     
 * **_Conducting Our Corporate Operations:_**  Data we collect in our corporate capacity (i.e. our own B2B lists of Customers) is used to conduct our business operations and communications. Please see our [Website Privacy Notice](#website) to learn more about how we use that data.
     
@@ -176,7 +183,7 @@ Specifically, we use this data for the following purposes:
 
 We may disclose data about you with the following third parties:
 
-* **_With a Customer:_**  We may share data about how you have interacted with a Customer’s Digital Properties, email campaigns or ads.  We may share [business contact data](#service-13) collected from third party sources or inferred (for example, based on email naming conventions) with a RollWorks B2B Customer if we think that your business or employer would be interested in that Customer’s products. In regards to RollWorks’ Services, we do not collect contact data about residents of European Territories from third parties.
+* **_With a Customer:_**  We may share data about how you have interacted with a Customer’s Digital Properties, email campaigns or ads.  We may share [business contact data](#service-13) collected from third party sources or inferred (for example, based on email naming conventions) with a AdRoll ABM B2B Customer if we think that your business or employer would be interested in that Customer’s products. In regards to AdRoll ABM’s Services, we do not collect contact data about residents of European Territories from third parties.
     
 * **_With Our Audience Partners:_**  We share hashed email addresses or other pseudonymous online identifiers with our Audience Partners in connection with audience creation and modeling and creating segments for the Customer based on the Customer’s CRM Data. 
     
@@ -369,7 +376,7 @@ Personal information listed in the California Customer Records statute (Cal. Civ
 
 Yes
 
-Name, business address, business telephone number, education, employment, employment history, household income.the perceived general education level of consumers may be collected for marketing, advertising and analytics.
+Name, business address, business telephone number, education, employment, employment history, household income. the perceived general education level of consumers may be collected for marketing, advertising and analytics.
 
 Directly from third party data providers and Audience Partners.
 
@@ -409,10 +416,10 @@ Internet or other similar network activity
 
 Yes
 
-Browsing history, search history, information on a consumer's interaction with a website, application or advertisement. For example, which pages you visited and when, what items were clicked on a page, how much time was spent on a page, whether you downloaded a white paper on a B2B website, what items you placed into your online shopping cart, what products were purchased and the price of the products purchased.
+Browsing history, search history, information on the consumers interaction with a website, application or advertisement. For example, which Pages you visited and when, what items were clicked on a page, How much time is spent on a page, whether you downloaded a white paper or a B2B website, what items you placed in your online shopping cart, what products were purchased and the price of the products purchased.
 
-Directly from browsing history on Customers’ Digital Properties.  
-Non-personal information about one of our ads (e.g. the third party who served the ad, and the name of the ad) may be connected with browsing history or activity on our websites for the purposes of determining attribution information (e.g. whether particular ad led to a consumer visiting our website, and, if so, which particular ad campaign).
+"Directly from browsing history on Customers’ Digital Properties.  
+Non-personal information about one of our ads (e.g. the third party who served the ad, and the name of the ad) may be connected with browsing history or activity on our websites for the purposes of determining attribution information (e.g. whether particular ad led to a consumer visiting our website, and, if so, which particular ad campaign)"
 
 G.
 
@@ -460,9 +467,16 @@ Inferences drawn from other personal information
 
 Yes
 
-Creating profiles that reflect consumer preferences and interests.
+Personal information that reveals a consumer’s financial account, debit card, or credit card number in combination with any required security or access code, password, or credentials allowing access to an account.  
+  
+Personal information that relates to the analysis of an individual's physical or mental health may be collected to the extent that the following constitute collection of sensitive personal information:
 
-Directly from Audience Partners.
+* purchase or browsing history for over-the-counter medications or devices that inform targeted ad selection; and
+* browsing history and inquiry for services such as elective surgeries, allergy treatments, and health-education or support groups that inform targeted ad selection.
+
+NextRoll does not create consumer profiles based on perceived interest or association with the categories of information related to health information (for example, NextRoll does not have consumer profiles for “allergies” or “ankle surgery,” etc.). NextRoll does not purchase consumer profiles that reflect consumer preferences and interests related to health.The consumer-profile interests NextRoll permits for targeted advertising can be found [here](https://help.adroll.com/hc/en-us/articles/360044069352).
+
+Directly from Customers and consumers.
 
 L.
 
@@ -480,6 +494,16 @@ Personal information that relates to the analysis of an individual's physical or
 NextRoll does not create consumer profiles based on perceived interest or association with the categories of information related to health information (for example, NextRoll does not have consumer profiles for “allergies” or “ankle surgery,” etc.). NextRoll does not purchase consumer profiles that reflect consumer preferences and interests related to health.The consumer-profile interests NextRoll permits for targeted advertising can be found [here](https://help.adroll.com/hc/en-us/articles/360044069352).
 
 Directly from Customers and consumers.
+
+M.
+
+Referrer URL
+
+Yes
+
+Ads served on CTV send they referrer URL to a third party attribution and measurement service. The referrer url is the link an individual puts into their device after watching a CTV ad within a specific time period after viewing the ad.
+
+Directly from consumers.
 
 #### Purposes for Which Personal Information is Collected
 
@@ -508,12 +532,13 @@ In the preceding twelve (12) months, we have shared, and/or sold, the following 
 
 * Category A (Identifiers). By serving ads on digital publisher sites such as news, blogs and weather sites we share and/or sell cookie string data and pseudonymous data (e.g. hashed emails) from Category A (identifiers) with Advertising Partners and Advertising Partners.
 * Category F (Internet or other similar network activity). NextRoll may share and/or sell browsing information (e.g., page views on a NextRoll customer site or ads served or clicked) to NextRoll customers about end users who have visited the customer’s site.
+* Category M (Referrer url). NextRoll’s CTV attribution and measurement partner collects a referrer url (where available) such that this data is shared with the CTV attribution and measurement third party partner for the purpose of attributing site visits to ads shown via CTV.
 
 #### Sales of Personal Information
 
 In the preceding (12) twelve months, we have sold the following categories of personal information:
 
-* Category A (Identifiers). Pursuant to our [RollWorks B2B Contact Data](https://www.rollworks.com/contact-data) Service, we have sold personal information in the form of business emails from Category A (Identifiers) to Customers.
+* Category A (Identifiers). Pursuant to our [AdRoll ABM B2B Contact Data](https://www.adroll.com/account-based-marketing-platform) Service, we have sold personal information in the form of business emails from Category A (Identifiers) to Customers.
 
 NextRoll does not have actual knowledge that it sells or shares the personal information of minors. 
 
