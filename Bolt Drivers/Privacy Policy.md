@@ -13,47 +13,47 @@ Date when this Privacy Notice was last updated: 28 August 2025
 
   
 
-[1\. About this Privacy Notice ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.jq8m9suqr0qs)
+1\. About this Privacy Notice
 
-[2\. How can you contact us? ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.84lh8dc0u2g8)
+2\. How can you contact us?
 
-[3\. What personal data do we process? ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.wd1ljw4e8doc)
+3\. What personal data do we process?
 
-[Personal Data provided by you to Bolt ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.h3ssi5cnt89x)
+Personal Data provided by you to Bolt
 
-[Personal Data we collect about you when you use Bolt services ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.sewsymgqo3nd)
+Personal Data we collect about you when you use Bolt services
 
-[Personal Data we collect about you from other sources ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.8qd4a8avjki0)
+Personal Data we collect about you from other sources
 
-[4\. What purposes do we use your personal data for and what is our Legal Basis for Processing? ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.7ltgplqowlx5)
+4\. What purposes do we use your personal data for and what is our Legal Basis for Processing?
 
-[For the provision of the Bolt services (including the Bolt Platform) ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.9y54gr6e9ogt)
+For the provision of the Bolt services (including the Bolt Platform)
 
-[For Customer Support ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.no5r91ny9ezq)
+For Customer Support
 
-[For Safety and Security ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.ia9rft5tqer5)
+For Safety and Security
 
-[For marketing and advertising ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.6dks3529bgjd)
+For marketing and advertising
 
-[For service communications ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.c1o7lsyjjcl6)
+For service communications
 
-[For research and improvement of the Bolt services ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.5flyu7kbyxho)
+For research and improvement of the Bolt services
 
-[For Legal Proceedings and Compliance with the Law ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.uq24v3lx8ebe)
+For Legal Proceedings and Compliance with the Law
 
-[5\. Who do we share your personal data with? ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.crjuq0ryaclq)
+5\. Who do we share your personal data with?
 
-[6\. Does Bolt transfer your personal data to other countries? ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.jxjdz435d3ko)
+6\. Does Bolt transfer your personal data to other countries?
 
-[7\. How do we keep your personal data safe? ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.med4s827dkks)
+7\. How do we keep your personal data safe?
 
-[8\. How long do we retain your personal data for? ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.t91115b4xthl)
+8\. How long do we retain your personal data for?
 
-[9\. What are your rights? ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.auvcr8dz7zij)
+9\. What are your rights?
 
-[10\. How do we use your personal data for direct marketing? ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.de4j8o2yvbdm)
+10\. How do we use your personal data for direct marketing?
 
-[11\. How do we notify you of changes to this Notice? ↗](https://docs.google.com/document/d/18lNMwd34vTcW8CCXGU8XGF2Ackj6fgoy/edit#heading=h.3vjtsj8im86)
+11\. How do we notify you of changes to this Notice?
 
   
 
