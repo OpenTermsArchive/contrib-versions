@@ -317,7 +317,7 @@ If you want to contact us about any of your rights or to complain about how we u
     
 * Phone: +353 (1) 765 01 00 or 1800 437 737
     
-* In writing: Data Protection Office, 21 Fitzwilliam Square, Dublin 2, D02 RD28.
+* In writing: Data Protection Commission, 6 Pembroke Row, Dublin 2, D02 X963, Ireland
     
 
 Privacy and products
