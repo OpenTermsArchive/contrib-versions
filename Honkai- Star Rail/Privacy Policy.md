@@ -1,6 +1,6 @@
 Privacy Policy
 
-**Version date: 7 May 2025**
+**Version date: 28 Aug 2025**
 
 _NOTE: We may translate this Privacy Policy into other languages. If there is any difference between the English version and other language versions, then the English version, subject to applicable laws and regulations, shall prevail._
 
@@ -394,7 +394,7 @@ For clarity, the data indicated above (including persistent identifiers) will be
 
 We collect a parent or guardian email address from a child player to send the parent or guardian an email notice that the child has initiated account creation, and informs them about how verifiable parental consent works. This notice also lets them review our privacy practices, provide consent for their child to create an account, and set up parental controls. Please note that parents/guardians must complete our parent verification process to provide consent for a child to set up an account.
 
-We use Kids Web Services (KWS), for user age verification purposes. You can learn more about KWS in the KWS [Privacy Policy](https://www.kidswebservices.com/en-US/privacy-policy).
+We use Kids Web Services (KWS), for parent/guardian verification and user age verification purposes. KWS will remember that you have verified your age the next time you use your email address to access other games/services powered by KWS technology, so you won’t need to verify again. We and KWS are separate independent controllers for personal information sent to us. For example, we collect a parent or guardian’s email address and transfer it to KWS as an independent controller. However, once the parent or guardian is re-directed to the KWS environment, KWS is an independent controller for the processing activities that follows. Such processing activities include checking the email against the KWS AgeGraph, collecting verification information from the parents or guardians, hashing the email and adding it into the AgeGraph, sending the user the verification confirmation, and notifying the parent or guardian of successful verification. With regard to the data shared by KWS with us following a successful verification, such as the parent’s email and their verified status, we are the independent controller. For more information, you can learn more about KWS in the KWS[Privacy Policy](https://www.kidswebservices.com/en-US/privacy-policy).
 
 When a parent or guardian gives permission for a child to set up an account, parental controls are enabled automatically. Parental controls can then be accessed using a PIN code, let you change choices about particular features made during the permission flow, and further customize your child’s experience. You can learn more about our parental controls [here](https://account.hoyoverse.com/passport/index.html#/parental-control/verify).
 
