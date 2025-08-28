@@ -219,14 +219,14 @@ For more information on applicable privacy regulations, you may refer to:
 
 Please do not hesitate to contact us if you have any questions regarding this Privacy Policy by contacting us at [support@ethereum.orgopens email client](mailto:support@ethereum.org).
 
-Page last update: February 21, 2025
+Page last update: August 21, 2025
+
+[![corwintines](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F15589226%3Fv%3D4&w=1920&q=100)copens in a new tab](https://github.com/corwintines)
 
 [![pettinarip](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F468158%3Fv%3D4&w=1920&q=100)popens in a new tab](https://github.com/pettinarip)
 
 [![writegr](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F167099595%3Fv%3D4&w=1920&q=100)wopens in a new tab](https://github.com/writegr)
 
-[![nhsz](/_next/image/?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F948922%3Fv%3D4&w=1920&q=100)nopens in a new tab](https://github.com/nhsz)
-
-+4
++5
 
 See contributors
