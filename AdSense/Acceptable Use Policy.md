@@ -4,7 +4,7 @@ Policies
 Google Publisher Policies
 =========================
 
-[](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
+[](https://support.google.com/adsense/answer/48182?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
 
 We are in the process of migrating and consolidating all of the Google Publisher Policies and Google Publisher Restrictions to the new [Publisher Policies Help Center](https://support.google.com/publisherpolicies). For now, you can still view all the policies in the [AdMob](https://support.google.com/admob/), [AdSense](https://support.google.com/adsense/), and [Ad Manager](https://support.google.com/admanager/) Help Centers, as well as the new Help Center. 
 
@@ -472,4 +472,4 @@ Publishers must also comply with applicable sanctions and export regulations, wh
 
                ![](//storage.googleapis.com/support-kms-prod/aa9b0795-682b-4c4b-81db-c975274db8ec)_[Learn more about sanctions compliance](https://support.google.com/publisherpolicies/answer/11128499)_
 
-[](https://support.google.com/adsense/answer/1282103?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
+[](https://support.google.com/adsense/answer/48182?hl=en&ref_topic=1250104)[Next: Google Publisher Restrictions](https://support.google.com/adsense/answer/10437795?hl=en&ref_topic=1250104)
