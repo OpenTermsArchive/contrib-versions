@@ -3,22 +3,22 @@ Privacy policy
 
 This version (Version 4.15) is effective as of July 8, 2025.
 
-* [Overview](#overview)
-* [About Us](#about)
-* [Questions or Concerns: Contact Us](#questions)
+*   [Overview](#overview)
+*   [About Us](#about)
+*   [Questions or Concerns: Contact Us](#questions)
 
-1. [Information We Collect](#collect)
-2. [Processing and Using Personal Information](#usage)
-3. [How We Share and Disclose Personal Information](#share)
-4. [How We Look After Your Personal Information and How Long We Keep It](#how)
-5. [International Transfers of Your Information](#international)
-6. [Your Rights: Access and Accuracy, Updating, Correcting, or Deleting Information](#rights)
-7. [Children's Privacy](#children)
-8. [Notice Regarding Sharing Data with Third-party Websites, Social Media Platforms, and Software Development Kits](#third-parties)
-9. [California "Shine the Light" Law](#california)
-10. [US Privacy Rights](#us)
-11. [Changes to This Privacy Policy](#changes)
-12. [Previous Versions of the Privacy Policy](#previous)
+1.  [Information We Collect](#collect)
+2.  [Processing and Using Personal Information](#usage)
+3.  [How We Share and Disclose Personal Information](#share)
+4.  [How We Look After Your Personal Information and How Long We Keep It](#how)
+5.  [International Transfers of Your Information](#international)
+6.  [Your Rights: Access and Accuracy, Updating, Correcting, or Deleting Information](#rights)
+7.  [Children's Privacy](#children)
+8.  [Notice Regarding Sharing Data with Third-party Websites, Social Media Platforms, and Software Development Kits](#third-parties)
+9.  [California "Shine the Light" Law](#california)
+10.  [US Privacy Rights](#us)
+11.  [Changes to This Privacy Policy](#changes)
+12.  [Previous Versions of the Privacy Policy](#previous)
 
 Overview
 --------
@@ -61,8 +61,8 @@ The contact information above should also be used for communications relating to
 
 Our EU representative: as we, O'Reilly Media, Inc. and Safari Books Online, LLC, are not established in the EU, pursuant to Article 27 of the General Data Protection Regulation (GDPR), we have appointed European Data Protection Office (EDPO) as our GDPR representative in the EU, whom you may contact if you are located in the EU to raise any issues or queries you have relating to our processing of your personal information and/or this Privacy Policy more generally. You can contact EDPO:
 
-* By using EDPO's online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)
-* By writing to EDPO at Ground Floor, 71 Lower Baggot Street, Dublin, D02 P593, Ireland
+*   By using EDPO's online request form: [https://edpo.com/gdpr-data-request/](https://edpo.com/gdpr-data-request/)
+*   By writing to EDPO at Ground Floor, 71 Lower Baggot Street, Dublin, D02 P593, Ireland
 
 Our UK representative: we have appointed O'Reilly UK Limited as our representative in the UK, whom you may contact if you are located in the UK to raise any issues or queries you have relating to our processing of your personal information and/or this Privacy Policy more generally. You can contact O'Reilly UK Limited via email at the following address:
 
@@ -77,32 +77,32 @@ We collect personal information in the following ways:
 
 We gather information that you provide to us when you:
 
-* Purchase products or services from us
-* Subscribe to our newsletters and mailing lists
-* Participate in promotional offers (such as a trial O'Reilly subscription) and other promotions, competitions, or prize drawings
-* Fill in forms, conduct searches, post content on the website, respond to surveys, or use any other features of our websites
-* Make an inquiry, provide feedback, submit correspondence, or make a complaint over the phone, by email, on our website, or by post
-* Register for and update an online account with us (including if you access it through Facebook, LinkedIn, Twitter, Google, or an open IP provider or our mobile applications)
-* Register for, present at, and/or attend our events and conferences or scan your attendance badge at any of the booths at our conferences/events or at our booths when we are present at someone else's conference/event
-* Enter into a contract with us
-* Sign up for job alerts on our websites; submit a job application, a CV, cover letter, or social media profile to a job vacancy; or attend an interview, assessment, or meeting
-* Contact other users on the websites, for example on the O'Reilly Community website
-* "Follow", "like," post to, or interact with our social media accounts, including Facebook, LinkedIn, Twitter, Pinterest, Instagram, and Snapchat
-* Contribute content and information about yourself in the course of your use of social and sharing features in our websites, services, or products that make users' content and information available to the public or to specific groups, such as others who use those features
+*   Purchase products or services from us
+*   Subscribe to our newsletters and mailing lists
+*   Participate in promotional offers (such as a trial O'Reilly subscription) and other promotions, competitions, or prize drawings
+*   Fill in forms, conduct searches, post content on the website, respond to surveys, or use any other features of our websites
+*   Make an inquiry, provide feedback, submit correspondence, or make a complaint over the phone, by email, on our website, or by post
+*   Register for and update an online account with us (including if you access it through Facebook, LinkedIn, Twitter, Google, or an open IP provider or our mobile applications)
+*   Register for, present at, and/or attend our events and conferences or scan your attendance badge at any of the booths at our conferences/events or at our booths when we are present at someone else's conference/event
+*   Enter into a contract with us
+*   Sign up for job alerts on our websites; submit a job application, a CV, cover letter, or social media profile to a job vacancy; or attend an interview, assessment, or meeting
+*   Contact other users on the websites, for example on the O'Reilly Community website
+*   "Follow", "like," post to, or interact with our social media accounts, including Facebook, LinkedIn, Twitter, Pinterest, Instagram, and Snapchat
+*   Contribute content and information about yourself in the course of your use of social and sharing features in our websites, services, or products that make users' content and information available to the public or to specific groups, such as others who use those features
 
 The information you provide to us will include (depending on the circumstances):
 
-* **Identity and contact data**: title, names, addresses, email addresses, phone numbers, or your signature.
-* **Account profile data**: username/display name, password, user preferences, and, if you sign up through a social media account, certain information about that account.
-* **Conference registration details**: the company/organization you work for, job title/position, language preferences, your name, your email, your age, your gender, your job function, your experience, your opinions, why you are attending the conference, what you hope to learn, and your accessibility needs.
-* **Financial data**: payment details, which may include billing addresses, credit/debit card details, and bank account details.
-* **Employment and background data**: if you apply for employment on our sites, your academic and work history, qualifications, skills, projects, research that you are involved in, references, proof of your entitlement to work in the relevant country, your national security number, your passport or other identity document details, your current level of remuneration (including benefits), and any other such similar information that you may provide to us.
-* **Visual and audio information about yourself**: for example, a photo, video footage, or a sound recording.
-* **Your preferences**: information about your preferences, interests, industry focus, community choices, and other customer profile information.
-* **Sensitive information**: information about your race or ethnicity, religious beliefs, sexual orientation, health, and whether or not you have any disability. You can find out more about how we use sensitive information in "Section 1.5 Special Categories of Data" below.
-* **Any other information that you choose to share with us**: for example, any information that you provide via correspondence, when you fill out our survey(s), via our website or social media accounts linked to our website, in person at events or meetings, or over the phone.
-* **Mobile application**: when you download and use the O'Reilly mobile app, we automatically collect information on the type of device you use and your operating system version.
-* **Usage data**: information related to your usage of the O'Reilly learning platform, such as the content you have accessed, viewed, or otherwise interacted with.
+*   **Identity and contact data**: title, names, addresses, email addresses, phone numbers, or your signature.
+*   **Account profile data**: username/display name, password, user preferences, and, if you sign up through a social media account, certain information about that account.
+*   **Conference registration details**: the company/organization you work for, job title/position, language preferences, your name, your email, your age, your gender, your job function, your experience, your opinions, why you are attending the conference, what you hope to learn, and your accessibility needs.
+*   **Financial data**: payment details, which may include billing addresses, credit/debit card details, and bank account details.
+*   **Employment and background data**: if you apply for employment on our sites, your academic and work history, qualifications, skills, projects, research that you are involved in, references, proof of your entitlement to work in the relevant country, your national security number, your passport or other identity document details, your current level of remuneration (including benefits), and any other such similar information that you may provide to us.
+*   **Visual and audio information about yourself**: for example, a photo, video footage, or a sound recording.
+*   **Your preferences**: information about your preferences, interests, industry focus, community choices, and other customer profile information.
+*   **Sensitive information**: information about your race or ethnicity, religious beliefs, sexual orientation, health, and whether or not you have any disability. You can find out more about how we use sensitive information in "Section 1.5 Special Categories of Data" below.
+*   **Any other information that you choose to share with us**: for example, any information that you provide via correspondence, when you fill out our survey(s), via our website or social media accounts linked to our website, in person at events or meetings, or over the phone.
+*   **Mobile application**: when you download and use the O'Reilly mobile app, we automatically collect information on the type of device you use and your operating system version.
+*   **Usage data**: information related to your usage of the O'Reilly learning platform, such as the content you have accessed, viewed, or otherwise interacted with.
 
 ### 1.2 Information we collect through technology related to our products and services
 
@@ -118,17 +118,17 @@ Technologies such as cookies, beacons, tags, local storage, and scripts are used
 
 In certain circumstances, we will receive information about you from other sources, including third parties. For example, we may receive personal information from any of the following, who may be based inside and/or outside the EU:
 
-* **Other website users.**
-* **Event attendees.**
-* **Your agents or representatives** who are acting on your instructions.
-* **Commercial contact lists** that we acquire from other organizations.
-* **Organizations that we acquire or merge with.**
-* **Organizations with whom we provide co-branded events, websites, products, and services.**
-* **Fraud detection agencies.**
-* **Your current and former employers, recruitment agencies, and references.**
-* **Service providers,** including our website developers, IT support providers, cloud services providers, payment services providers, billing service providers, contractors, consultants, advertising agencies and platforms, digital performance monitoring and management providers, advertising analytics providers, marketing and sales service providers, user experience testing platforms, B2B contact databases, recruitment agencies, survey tool providers, customer relationship and customer support service providers, event ticket retailers, event management platform service providers, customer identity account management providers, HR service providers, couriers, and instant messaging service providers.
-* **Social media plug-ins.** By providing your social media account details, you are authorizing that third-party provider to share with us certain information about you.
-* **Publicly available sources** such as LinkedIn, Facebook, and Twitter.
+*   **Other website users.**
+*   **Event attendees.**
+*   **Your agents or representatives** who are acting on your instructions.
+*   **Commercial contact lists** that we acquire from other organizations.
+*   **Organizations that we acquire or merge with.**
+*   **Organizations with whom we provide co-branded events, websites, products, and services.**
+*   **Fraud detection agencies.**
+*   **Your current and former employers, recruitment agencies, and references.**
+*   **Service providers,** including our website developers, IT support providers, cloud services providers, payment services providers, billing service providers, contractors, consultants, advertising agencies and platforms, digital performance monitoring and management providers, advertising analytics providers, marketing and sales service providers, user experience testing platforms, B2B contact databases, recruitment agencies, survey tool providers, customer relationship and customer support service providers, event ticket retailers, event management platform service providers, customer identity account management providers, HR service providers, couriers, and instant messaging service providers.
+*   **Social media plug-ins.** By providing your social media account details, you are authorizing that third-party provider to share with us certain information about you.
+*   **Publicly available sources** such as LinkedIn, Facebook, and Twitter.
 
 We might also receive information about you from other third parties if you have indicated to such third parties that you would like to hear from us.
 
@@ -138,17 +138,17 @@ Special categories of particularly sensitive personal information require higher
 
 We need to have further justification for collecting, storing, and using this type of personal information. We process special categories of personal information in the following circumstances:
 
-* In limited circumstances, with your explicit written consent
-* Where it is necessary to carry out our legal obligations or exercise rights in connection with employment
-* Where it is necessary for reasons of substantial public interest, such as for equal opportunities monitoring
-* Where it is necessary in relation to legal claims
-* Where it is necessary to protect your interests (or someone else's interests) and you are not capable of giving your consent
-* Where you have already made the information public
+*   In limited circumstances, with your explicit written consent
+*   Where it is necessary to carry out our legal obligations or exercise rights in connection with employment
+*   Where it is necessary for reasons of substantial public interest, such as for equal opportunities monitoring
+*   Where it is necessary in relation to legal claims
+*   Where it is necessary to protect your interests (or someone else's interests) and you are not capable of giving your consent
+*   Where you have already made the information public
 
 For example, we will collect special categories of information:
 
-* When you apply to work for us (for diversity and equal opportunities records, to support your needs and facilitate access to our premises, and to carry out background checks)
-* When you attend our events, visit our premises, or apply for a diversity and inclusion scholarship from us to obtain access to our products or services
+*   When you apply to work for us (for diversity and equal opportunities records, to support your needs and facilitate access to our premises, and to carry out background checks)
+*   When you attend our events, visit our premises, or apply for a diversity and inclusion scholarship from us to obtain access to our products or services
 
 In limited circumstances, we may request your written consent to allow us to use certain particularly sensitive data. If we do so, we will provide you with full details of the information that we would like to use and the reason we need it so that you can carefully consider whether you wish to consent.
 
@@ -159,37 +159,37 @@ In limited circumstances, we may request your written consent to allow us to use
 
 We process and use your information for the following purposes:
 
-* **To provide access to our website** in a manner convenient and optimal and with personalized content relevant to you (on the basis of our legitimate interest to ensure our website is presented in an effective and optimal manner).
-* **To register and maintain your O'Reilly or Safari account** (on the basis of performing our contract with you).
-* **To process and fulfill your orders for O'Reilly and Safari products and services** (on the basis of performing our contract with you).
-* **To process and facilitate transactions and payments, and recover money owed to us** (on the basis of performing our contract with you and on the basis of our legitimate interest to recover debts due).
-* **To monitor your account and use of services** to ensure compliance with our end-user agreements and prevent and identify unlawful content use and violations (on the basis of our legitimate interests to operate a safe and lawful business, or where we have a legal obligation to do so).
-* **To enable you to communicate with other website users and clients** (on the basis of your consent where we have requested it, or on the basis of performing our contract with you).
-* **To manage our relationship with you**, which will include notifying you about changes to our Terms of Service or Privacy Policy and asking you to leave a review or take a survey (on the basis of performing our contract with you, to comply with our legal obligations, and our legitimate interests in keeping our records updated and study how our website and services are used).
-* **To enable and support your participation and sharing** in connection with those social features of our websites, products, services, and online communities in which you choose to participate.
-* **To conduct business with you or your employer**, including to contact you and to manage and facilitate our business relationship with you and your employer (on the basis of performing our contract with you, and our legitimate interest in running our business).
-* **To provide customer service and support**, like dealing with inquiries or complaints about the website, which may include sharing your information with our website developer, IT support provider, and payment services provider as necessary (on the basis of performing our contract with you, our legitimate interest in providing the correct products and services to our website users, and to comply with our legal obligations).
-* **To enable you to take part in prize drawings, competitions, and surveys** (on the basis of performing our contract with you, and our legitimate interest in studying how our website and services are used and to develop them and to grow our business).
-* **To work with you and undertake projects with you**, including to process any proposals that you submit to us (on the basis of our contract with you, and our legitimate interest in running our business).
-* **To provide access to and administer O'Reilly scholarship programs** (on the basis of your consent where we have requested it, on the basis of performing our contract with you, and our legitimate interest in making our products and services accessible to a range of individuals with diverse backgrounds).
-* **For recruitment**, including to process any job applications you submit to us, whether directly or via an agent or recruiter, including sharing your information with our third-party recruitment agencies (on the basis of our legitimate interest to recruit new employees or contractors).
-* **To carry out marketing** and let you know about our news, events, new website features, products, or services that we believe may interest you, including sharing your information with our marketing services providers (either on the basis of your consent where we have requested it or our legitimate interest to provide you with marketing communications where we may lawfully do so).
-* **To deliver relevant website content and advertisements to you** and measure or understand the effectiveness of the advertising we serve to you (on the basis of our legitimate interests in studying how our website and services are used, to develop them, to grow our business, and to inform our marketing strategy).
-* **To interact with users on social media platforms** (on the basis of our legitimate interest in promoting our brand and communicating with interested individuals).
-* **To conduct data analytics** to improve our website, products and services, marketing, customer relationships, and experiences (on the basis of our legitimate interests in defining types of customers for our website and services, to keep our website updated and relevant, to develop our business, to provide the right kinds of products and services to our customers, and to inform our business and marketing strategy).
-* **To make suggestions and recommendations** by sharing your information with selected third parties such as sponsors and partners, so they can contact you about things that may interest you (either on the basis of your consent where we have requested it or on the basis of our legitimate interest to share details of conference attendees with our copresenters and sponsors).
-* **To carry out marketing research and user testing** to assess the levels of satisfaction of existing and proposed products and services (on the basis of our legitimate interest in carrying out research and providing the right kinds of products and services to our customers).
-* **To protect, investigate, and deter against fraudulent, unauthorized, or illegal activity** (on the basis of our legitimate interests to operate a safe and lawful business or where we have a legal obligation to do so).
-* **To enable us to comply with our policies and procedures and enforce our legal rights**, and to protect the rights, property, or safety of our employees and share your information with our technical and legal advisors (on the basis of our legitimate interests to operate a safe and lawful business or where we have a legal obligation to do so).
-* **To create deidentified information**, such as deidentified demographic information, deidentified location information, information about the computer or device from which you access our services, or other analyses we create (on the basis of our legitimate interests in studying how our website/services are used, to develop them, to grow our business, and to inform our marketing strategy).
-* **To send push notifications through our mobile application**. We may, if allowed by applicable law, send you push notifications through our mobile application. You may at any time opt out from receiving these types of communications by changing the settings on your mobile device.
+*   **To provide access to our website** in a manner convenient and optimal and with personalized content relevant to you (on the basis of our legitimate interest to ensure our website is presented in an effective and optimal manner).
+*   **To register and maintain your O'Reilly or Safari account** (on the basis of performing our contract with you).
+*   **To process and fulfill your orders for O'Reilly and Safari products and services** (on the basis of performing our contract with you).
+*   **To process and facilitate transactions and payments, and recover money owed to us** (on the basis of performing our contract with you and on the basis of our legitimate interest to recover debts due).
+*   **To monitor your account and use of services** to ensure compliance with our end-user agreements and prevent and identify unlawful content use and violations (on the basis of our legitimate interests to operate a safe and lawful business, or where we have a legal obligation to do so).
+*   **To enable you to communicate with other website users and clients** (on the basis of your consent where we have requested it, or on the basis of performing our contract with you).
+*   **To manage our relationship with you**, which will include notifying you about changes to our Terms of Service or Privacy Policy and asking you to leave a review or take a survey (on the basis of performing our contract with you, to comply with our legal obligations, and our legitimate interests in keeping our records updated and study how our website and services are used).
+*   **To enable and support your participation and sharing** in connection with those social features of our websites, products, services, and online communities in which you choose to participate.
+*   **To conduct business with you or your employer**, including to contact you and to manage and facilitate our business relationship with you and your employer (on the basis of performing our contract with you, and our legitimate interest in running our business).
+*   **To provide customer service and support**, like dealing with inquiries or complaints about the website, which may include sharing your information with our website developer, IT support provider, and payment services provider as necessary (on the basis of performing our contract with you, our legitimate interest in providing the correct products and services to our website users, and to comply with our legal obligations).
+*   **To enable you to take part in prize drawings, competitions, and surveys** (on the basis of performing our contract with you, and our legitimate interest in studying how our website and services are used and to develop them and to grow our business).
+*   **To work with you and undertake projects with you**, including to process any proposals that you submit to us (on the basis of our contract with you, and our legitimate interest in running our business).
+*   **To provide access to and administer O'Reilly scholarship programs** (on the basis of your consent where we have requested it, on the basis of performing our contract with you, and our legitimate interest in making our products and services accessible to a range of individuals with diverse backgrounds).
+*   **For recruitment**, including to process any job applications you submit to us, whether directly or via an agent or recruiter, including sharing your information with our third-party recruitment agencies (on the basis of our legitimate interest to recruit new employees or contractors).
+*   **To carry out marketing** and let you know about our news, events, new website features, products, or services that we believe may interest you, including sharing your information with our marketing services providers (either on the basis of your consent where we have requested it or our legitimate interest to provide you with marketing communications where we may lawfully do so).
+*   **To deliver relevant website content and advertisements to you** and measure or understand the effectiveness of the advertising we serve to you (on the basis of our legitimate interests in studying how our website and services are used, to develop them, to grow our business, and to inform our marketing strategy).
+*   **To interact with users on social media platforms** (on the basis of our legitimate interest in promoting our brand and communicating with interested individuals).
+*   **To conduct data analytics** to improve our website, products and services, marketing, customer relationships, and experiences (on the basis of our legitimate interests in defining types of customers for our website and services, to keep our website updated and relevant, to develop our business, to provide the right kinds of products and services to our customers, and to inform our business and marketing strategy).
+*   **To make suggestions and recommendations** by sharing your information with selected third parties such as sponsors and partners, so they can contact you about things that may interest you (either on the basis of your consent where we have requested it or on the basis of our legitimate interest to share details of conference attendees with our copresenters and sponsors).
+*   **To carry out marketing research and user testing** to assess the levels of satisfaction of existing and proposed products and services (on the basis of our legitimate interest in carrying out research and providing the right kinds of products and services to our customers).
+*   **To protect, investigate, and deter against fraudulent, unauthorized, or illegal activity** (on the basis of our legitimate interests to operate a safe and lawful business or where we have a legal obligation to do so).
+*   **To enable us to comply with our policies and procedures and enforce our legal rights**, and to protect the rights, property, or safety of our employees and share your information with our technical and legal advisors (on the basis of our legitimate interests to operate a safe and lawful business or where we have a legal obligation to do so).
+*   **To create deidentified information**, such as deidentified demographic information, deidentified location information, information about the computer or device from which you access our services, or other analyses we create (on the basis of our legitimate interests in studying how our website/services are used, to develop them, to grow our business, and to inform our marketing strategy).
+*   **To send push notifications through our mobile application**. We may, if allowed by applicable law, send you push notifications through our mobile application. You may at any time opt out from receiving these types of communications by changing the settings on your mobile device.
 
 **We will use your information for the purposes listed above either on the basis of:**
 
-* Your consent (where we request it)
-* Performance of your contract with us and the provision of our services to you
-* Where we need to comply with a legal or regulatory obligation
-* Our legitimate interests or those of a third party (see "Section 2.2 Legitimate Interests" below for more information)
+*   Your consent (where we request it)
+*   Performance of your contract with us and the provision of our services to you
+*   Where we need to comply with a legal or regulatory obligation
+*   Our legitimate interests or those of a third party (see "Section 2.2 Legitimate Interests" below for more information)
 
 ### 2.2 Legitimate interests
 
@@ -205,8 +205,8 @@ Your browsing activity may be tracked across different websites and different de
 
 You may be receiving access to our O'Reilly learning platform service pursuant to a business-to-business ("B2B") contract in place between us and your employer. Some of our B2B customers are subject to laws and regulations such as GDPR which require them to execute a data processing addendum or other kinds of stipulations regarding privacy and personal data protection with us. To the extent that your employer has executed a data processing addendum with O'Reilly, the following terms apply to our processing of your personal information in relation to a B2B account:
 
-* **We act as data processors** for the personal information that we receive from your employer. This is the personal information that we require in order to create a user account for you under our B2B contract with your employer. As data processors, we only process this personal information in accordance with the instructions provided to us by your employer, who, as data controller, is solely responsible for determining the purposes for which we may process your personal information.
-* **We act as data controllers** for any personal information we collect in relation to your usage of the O'Reilly learning platform ("B2B Usage Data"), such as the content you have accessed, as well as for any additional personal information you choose to share with us. Our policies in relation to our collection and processing of your personal information as data controllers are covered by this Privacy Policy.
+*   **We act as data processors** for the personal information that we receive from your employer. This is the personal information that we require in order to create a user account for you under our B2B contract with your employer. As data processors, we only process this personal information in accordance with the instructions provided to us by your employer, who, as data controller, is solely responsible for determining the purposes for which we may process your personal information.
+*   **We act as data controllers** for any personal information we collect in relation to your usage of the O'Reilly learning platform ("B2B Usage Data"), such as the content you have accessed, as well as for any additional personal information you choose to share with us. Our policies in relation to our collection and processing of your personal information as data controllers are covered by this Privacy Policy.
 
 Please note that B2B Usage Data may be made visible, shared, or otherwise disclosed to your employer. When we make B2B Usage Data available to your employer, we do so based on the fact that your employer administers your account and that it has a legitimate interest in understanding and optimizing your usage of the O'Reilly learning platform. Your employer's processing of B2B Usage Data is governed by your employer's privacy policy. Please contact your employer if you have any questions or concerns in relation to your employer's use of B2B Usage Data.
 
@@ -219,15 +219,15 @@ Please note that your employer and O'Reilly may have executed legal terms, inclu
 
 There are certain circumstances in which we may share your personal information with certain third parties, as follows
 
-* **Other website users and clients who use our websites and/or applications** to communicate or otherwise interact with you
-* **Sponsors, partners, and collaborators,** including sponsors of our events, products, or services and organizations with whom we host co-branded events
-* **Our service providers who are acting as processors** and who assist us with our administrative or business functions or in the provision of any of our products/services to you
-* **Wholly owned subsidiaries and foreign offices of O'Reilly Media, Inc.,** including those based in the USA, the UK, China, and Japan
-* **Regulators and governmental bodies** like the IRS, HMRC, and other authorities and regulators acting as processors or joint controllers who require reporting of processing activities in certain circumstances
-* **Marketing parties,** which are any selected third party that you consent to our sharing your information with for marketing purposes
-* **Any prospective buyer of our business or assets**, only in the event that we wish to sell any part of our business or assets
-* **Your employer,** pursuant to Section 2.4 above
-* **Other third parties,** including legal, professional, or other advisors, regulatory authorities, courts, law enforcement agencies, and government agencies, where necessary to enable us to enforce our legal rights or to protect the rights, property, or safety of our employees, or where such disclosure may be permitted or required by law
+*   **Other website users and clients who use our websites and/or applications** to communicate or otherwise interact with you
+*   **Sponsors, partners, and collaborators,** including sponsors of our events, products, or services and organizations with whom we host co-branded events
+*   **Our service providers who are acting as processors** and who assist us with our administrative or business functions or in the provision of any of our products/services to you
+*   **Wholly owned subsidiaries and foreign offices of O'Reilly Media, Inc.,** including those based in the USA, the UK, China, and Japan
+*   **Regulators and governmental bodies** like the IRS, HMRC, and other authorities and regulators acting as processors or joint controllers who require reporting of processing activities in certain circumstances
+*   **Marketing parties,** which are any selected third party that you consent to our sharing your information with for marketing purposes
+*   **Any prospective buyer of our business or assets**, only in the event that we wish to sell any part of our business or assets
+*   **Your employer,** pursuant to Section 2.4 above
+*   **Other third parties,** including legal, professional, or other advisors, regulatory authorities, courts, law enforcement agencies, and government agencies, where necessary to enable us to enforce our legal rights or to protect the rights, property, or safety of our employees, or where such disclosure may be permitted or required by law
 
 For a list of the categories of personal information we have disclosed about consumers for a business purpose in the past 12 months, please click [here](https://www.oreilly.com/privacy-categories-disclosed-for-business-purpose.html). For a list of categories of personal information we have sold or shared about consumers for a business purpose in the past 12 months for valuable consideration, please click [here](https://www.oreilly.com/privacy-categories-disclosed-for-valuable-consideration.html). We rely on the lawful bases set out in Section 2.1 above when we use your information for these purposes.
 
@@ -240,11 +240,11 @@ We use administrative, technical, and physical safeguards to protect the securit
 
 The safeguards we use include:
 
-* Ensuring the physical security of our offices, warehouses, or other sites
-* Ensuring the physical and digital security of our equipment and devices by using appropriate password protection and encryption
-* Using standard security protocols and mechanisms, such as Secure Sockets Layer (SSL) encryption, to transmit sensitive data such as credit card details
-* Maintaining a data protection policy for and delivering data protection training to our employees
-* Limiting access to your personal information to those who need to use it in the course of their work
+*   Ensuring the physical security of our offices, warehouses, or other sites
+*   Ensuring the physical and digital security of our equipment and devices by using appropriate password protection and encryption
+*   Using standard security protocols and mechanisms, such as Secure Sockets Layer (SSL) encryption, to transmit sensitive data such as credit card details
+*   Maintaining a data protection policy for and delivering data protection training to our employees
+*   Limiting access to your personal information to those who need to use it in the course of their work
 
 If you have any questions about the security of your personal information, please contact us using the methods outlined in the ["Contact Us" section](#questions) above.
 
@@ -258,12 +258,12 @@ Please contact us using the methods outlined in the ["Contact Us" section](#ques
 
 You can also play a part in keeping your information safe by:
 
-* Choosing a strong account password, changing it regularly, and using different passwords for different online accounts.
-* Keeping your login and password details confidential.
-* Logging out of the website and closing the browser each time you have finished using it, especially when using a shared computer.
-* Informing us if you know or suspect that your account has been compromised or if someone has accessed your account without your permission.
-* Keeping your devices protected by using the latest version of your operating system and maintaining any necessary antivirus software.
-* Being vigilant against fraudulent emails that may appear to be from us. Any emails that we send will come from an email address ending in either @oreilly.com (O'Reilly US), @mail.oreilly.com.cn (O'Reilly China), @oreilly.co.uk (O'Reilly UK), @oreilly.co.jp (O'Reilly Japan), or @safaribooksonline.com or @e.safaribooksonline.com (Safari Books).
+*   Choosing a strong account password, changing it regularly, and using different passwords for different online accounts.
+*   Keeping your login and password details confidential.
+*   Logging out of the website and closing the browser each time you have finished using it, especially when using a shared computer.
+*   Informing us if you know or suspect that your account has been compromised or if someone has accessed your account without your permission.
+*   Keeping your devices protected by using the latest version of your operating system and maintaining any necessary antivirus software.
+*   Being vigilant against fraudulent emails that may appear to be from us. Any emails that we send will come from an email address ending in either @oreilly.com (O'Reilly US), @mail.oreilly.com.cn (O'Reilly China), @oreilly.co.uk (O'Reilly UK), @oreilly.co.jp (O'Reilly Japan), or @safaribooksonline.com or @e.safaribooksonline.com (Safari Books).
 
 5\. International Transfers of Your Information
 -----------------------------------------------
@@ -290,8 +290,8 @@ We transact business throughout the world and have operations, processes, and sy
 
 If you reside in the European Union, please be advised that your personal information will be processed outside of the European Economic Area (EEA). We will take all steps necessary to ensure that your information is adequately protected and processed in accordance with this Privacy Policy, including but not limited to:
 
-* Only transferring your personal information to [countries that have been deemed to provide an adequate level of protection for personal information by the European Commission](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
-* Where we use certain service providers, we may use specific contracts approved by the European Commission, which give personal information the same protection it has in Europe (the so-called [European Commission's Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)).
+*   Only transferring your personal information to [countries that have been deemed to provide an adequate level of protection for personal information by the European Commission](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/adequacy-protection-personal-data-non-eu-countries_en).
+*   Where we use certain service providers, we may use specific contracts approved by the European Commission, which give personal information the same protection it has in Europe (the so-called [European Commission's Standard Contractual Clauses](https://ec.europa.eu/info/law/law-topic/data-protection/data-transfers-outside-eu/model-contracts-transfer-personal-data-third-countries_en)).
 
 We may transfer your personal information to countries in the following regions outside of the EEA: North America and Asia. Please contact us using the [contact details](#questions) in this Privacy Policy if you want further information on the specific mechanism used by us when transferring your personal information out of the EEA.
 
@@ -302,16 +302,16 @@ We may transfer your personal information to countries in the following regions 
 
 You have certain rights in respect of the information that we hold about you, including:
 
-* The right to be informed of the ways in which we use your information, as we seek to do in this Privacy Policy
-* The right to restrict or object to the processing of your personal information, including the right to opt in or opt out of the sale of your personal information to third parties, if applicable, where such requests are permitted by law
-* The right to request access to the information that we hold about you
-* The right to request that we correct or rectify any information that we hold about you which is out of date or incorrect
-* The right to withdraw your consent for our use of your information in reliance of your consent (refer to Section 2 above to see when we are relying on your consent), which you can do by contacting us using any of the details at the top of this Privacy Policy
-* The right to object to our using your information on the basis of our legitimate interests (refer to Section 2 above to see when we are relying on our legitimate interests) or those of a third party, and there is something about your particular situation which makes you want to object to processing on this ground
-* The right to receive a copy of any information we hold about you (or request that we transfer this to another service provider) in a structured, commonly used machine-readable format, in certain circumstances
-* In certain circumstances, the right to ask us to limit or cease processing or erase information we hold about you
-* The right to lodge a complaint about us to the UK Information Commissioner's Office ([https://ico.org.uk/](https://ico.org.uk/)) as well as the right to lodge a complaint with the relevant authority in your country of work or residence
-* The right of nondiscrimination for exercising your rights
+*   The right to be informed of the ways in which we use your information, as we seek to do in this Privacy Policy
+*   The right to restrict or object to the processing of your personal information, including the right to opt in or opt out of the sale of your personal information to third parties, if applicable, where such requests are permitted by law
+*   The right to request access to the information that we hold about you
+*   The right to request that we correct or rectify any information that we hold about you which is out of date or incorrect
+*   The right to withdraw your consent for our use of your information in reliance of your consent (refer to Section 2 above to see when we are relying on your consent), which you can do by contacting us using any of the details at the top of this Privacy Policy
+*   The right to object to our using your information on the basis of our legitimate interests (refer to Section 2 above to see when we are relying on our legitimate interests) or those of a third party, and there is something about your particular situation which makes you want to object to processing on this ground
+*   The right to receive a copy of any information we hold about you (or request that we transfer this to another service provider) in a structured, commonly used machine-readable format, in certain circumstances
+*   In certain circumstances, the right to ask us to limit or cease processing or erase information we hold about you
+*   The right to lodge a complaint about us to the UK Information Commissioner's Office ([https://ico.org.uk/](https://ico.org.uk/)) as well as the right to lodge a complaint with the relevant authority in your country of work or residence
+*   The right of nondiscrimination for exercising your rights
 
 ### 6.2 How to exercise your rights
 
@@ -366,12 +366,12 @@ This section applies only to California consumers. O'Reilly's and Safari's polic
 
 We have collected the following statutory categories of personal information in the past twelve (12) months:
 
-* **Identity and contact data**: names, addresses, and email addresses
-* **Account profile data**: username/display name, password, user preferences, and, if you sign up through a social media account, certain information about that account
-* **Financial data**: payment details, which may include billing addresses, credit/debit card details, and bank account details
-* **Any other information that you choose to share with us**: for example, any information that you choose to provide within the bio and social profiles sections of your profile settings, when you fill out our survey(s), via our website or social media accounts linked to our website, in person at events or meetings, or over the phone
-* **Technical data**: your web browser user agent information and IP address
-* **Usage data and analytics**: information related to your usage of the O'Reilly learning platform, such as the content you have accessed, viewed or otherwise interacted with
+*   **Identity and contact data**: names, addresses, and email addresses
+*   **Account profile data**: username/display name, password, user preferences, and, if you sign up through a social media account, certain information about that account
+*   **Financial data**: payment details, which may include billing addresses, credit/debit card details, and bank account details
+*   **Any other information that you choose to share with us**: for example, any information that you choose to provide within the bio and social profiles sections of your profile settings, when you fill out our survey(s), via our website or social media accounts linked to our website, in person at events or meetings, or over the phone
+*   **Technical data**: your web browser user agent information and IP address
+*   **Usage data and analytics**: information related to your usage of the O'Reilly learning platform, such as the content you have accessed, viewed or otherwise interacted with
 
 The business and commercial purposes for which we collect this information are described in Section 2 of this Privacy Policy. The categories of third parties to whom we "disclose" this information for a business purpose are described in Section 3 of this Privacy Policy.
 
@@ -388,11 +388,11 @@ This section applies if you are a resident of a US state that has enacted a cons
 
 You have certain rights regarding the personal information we collect or maintain about you. Please note these rights are not absolute, and there may be cases when we decline your request as permitted by law.
 
-* **Right to know.** You have the right to request that we disclose to you what personal information we collect, use, and share, including the categories of personal information, the categories of sources from which the personal information is collected, the business or commercial purpose for collecting, selling, or sharing personal information, the categories of third parties to whom we disclose personal information, and the specific pieces of personal information we have collected about you.
-* **Right to correct inaccurate information.** You have the right to request that we correct any inaccurate personal information we process about you.
-* **Right to delete personal information.** You have the right to request that we delete personal information collected or maintained by us, subject to certain exceptions.
-* **Right to opt out.** To the extent that we sell or share your personal information, you have the right to opt out from such sale or sharing of your personal information. In any case, please note that we do not knowingly sell or share any personal information of consumers under 16 years of age.
-* **Right to nondiscrimination.** You have the right to nondiscrimination, which means that you will not receive any discriminatory treatment should you decide to exercise one of your privacy rights.
+*   **Right to know.** You have the right to request that we disclose to you what personal information we collect, use, and share, including the categories of personal information, the categories of sources from which the personal information is collected, the business or commercial purpose for collecting, selling, or sharing personal information, the categories of third parties to whom we disclose personal information, and the specific pieces of personal information we have collected about you.
+*   **Right to correct inaccurate information.** You have the right to request that we correct any inaccurate personal information we process about you.
+*   **Right to delete personal information.** You have the right to request that we delete personal information collected or maintained by us, subject to certain exceptions.
+*   **Right to opt out.** To the extent that we sell or share your personal information, you have the right to opt out from such sale or sharing of your personal information. In any case, please note that we do not knowingly sell or share any personal information of consumers under 16 years of age.
+*   **Right to nondiscrimination.** You have the right to nondiscrimination, which means that you will not receive any discriminatory treatment should you decide to exercise one of your privacy rights.
 
 **How to exercise your rights**
 
@@ -400,10 +400,10 @@ You can exercise your rights yourself, or you can alternatively designate an aut
 
 Please use the contact details methods outlined in the [Contact Us" section above](#questions) if you would like to:
 
-* Access this policy in an alternative format
-* Exercise your rights
-* Learn more about your rights or our privacy practices
-* Designate an authorized agent to make a request on your behalf
+*   Access this policy in an alternative format
+*   Exercise your rights
+*   Learn more about your rights or our privacy practices
+*   Designate an authorized agent to make a request on your behalf
 
 You may also opt out from the sale or sharing of your personal information by directly filling out the form included under the ["Contact Us" section](#questions) of this Policy.
 
