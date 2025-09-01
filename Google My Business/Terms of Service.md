@@ -16,10 +16,10 @@ What we expect from you
 
 You’re responsible for the entity listed on your Business Profile. That means, in addition to following the basic rules of conduct in [the Google Terms of Service](https://policies.google.com/terms), you must, when using the Business Profile Services:
 
-* Comply with applicable laws and industry best practices when operating and promoting your entity, including obtaining all applicable licences and approvals.
-* To improve your Business Profile's visibility on Google Search and Maps, ensure that all content is accurate, up-to-date and complete.
-* Supply all required disclaimers, warnings and notices (or if you rely on any supplied by Google, ensure their sufficiency for your entity).
-* Comply with the policies that apply to the Business Profile Services ('Policies'). [Learn more about Business Profile policies and guidelines](https://support.google.com/business/answer/7667250).
+*   Comply with applicable laws and industry best practices when operating and promoting your entity, including obtaining all applicable licences and approvals.
+*   To improve your Business Profile's visibility on Google Search and Maps, ensure that all content is accurate, up-to-date and complete.
+*   Supply all required disclaimers, warnings and notices (or if you rely on any supplied by Google, ensure their sufficiency for your entity).
+*   Comply with the policies that apply to the Business Profile Services ('Policies'). [Learn more about Business Profile policies and guidelines](https://support.google.com/business/answer/7667250).
 
 Moderation of your content and other content on the Business Profile
 
@@ -63,9 +63,9 @@ Termination
 
 Google reserves the right to wholly or partially restrict, suspend or terminate your access to, or use of, Business Profile Services if:
 
-1. You breach these Terms, any Policies or applicable law(s).
-2. Google is required to do so to comply with a legal requirement or a court order.
-3. Your conduct causes harm or liability to a third party or Google.
+1.  You breach these Terms, any Policies or applicable law(s).
+2.  Google is required to do so to comply with a legal requirement or a court order.
+3.  Your conduct causes harm or liability to a third party or Google.
 
 If you believe your access to Business Profile Services has been restricted, suspended or terminated in error, refer to the appeal process in the Policies. You may terminate these Terms at any time by removing the profile content and managers and, if applicable, marking the business as permanently closed. [Learn how to remove profile content and managers from a Business Profile](https://support.google.com/business/answer/4669092#single).
 
@@ -84,5 +84,5 @@ Nothing in these Terms prevents you from raising issues with any relevant public
 Related resources
 -----------------
 
-* [Report misleading information or fraudulent activity on Google Maps](https://support.google.com/business/contact/business_redressal_form)
-* [Report a violation of Business Profile third-party policies](https://support.google.com/business/contact/gmb_3p_complaints)
+*   [Report misleading information or fraudulent activity on Google Maps](https://support.google.com/business/contact/business_redressal_form)
+*   [Report a violation of Business Profile third-party policies](https://support.google.com/business/contact/gmb_3p_complaints)
