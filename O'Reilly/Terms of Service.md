@@ -3,20 +3,20 @@ Terms of service
 
 Last updated: December 19, 2019
 
-* [Acceptance](#acceptance)
-* [Your Conduct](#conduct)
-* [Your Submissions](#submissions)
-* [Content Licenses and Ownership](#licenses)
-* [Copyright Infringement Claims](#copyright)
-* [Registration Data](#registration)
-* [Privacy Policy](#privacy)
-* [Advertisements, Third Party Posts and Links](#advertisements)
-* [Trademark Information](#trademark)
-* [Indemnity](#indemnity)
-* [Modification and Termination of Services](#modification)
-* [Assumptions of Risk, Safety, and Warranty Disclaimer](#disclaimer)
-* [Liability Limitation](#liability)
-* [General Provisions](#provisions)
+*   [Acceptance](#acceptance)
+*   [Your Conduct](#conduct)
+*   [Your Submissions](#submissions)
+*   [Content Licenses and Ownership](#licenses)
+*   [Copyright Infringement Claims](#copyright)
+*   [Registration Data](#registration)
+*   [Privacy Policy](#privacy)
+*   [Advertisements, Third Party Posts and Links](#advertisements)
+*   [Trademark Information](#trademark)
+*   [Indemnity](#indemnity)
+*   [Modification and Termination of Services](#modification)
+*   [Assumptions of Risk, Safety, and Warranty Disclaimer](#disclaimer)
+*   [Liability Limitation](#liability)
+*   [General Provisions](#provisions)
 
 Acceptance
 ----------
@@ -78,12 +78,12 @@ Copyright Infringement Claims
 
 O'Reilly respects the intellectual property rights of others, and we ask our users to do the same. If you believe that your copyrighted work has been copied and is accessible on an O'Reilly site in a way that constitutes copyright infringement, please send a written notice to our Copyright Agent that includes:
 
-* The electronic or physical signature of the owner of the copyright or the person authorized to act on the owner's behalf;
-* A description of the copyrighted work that you claim has been infringed;
-* A description of where the material that you claim is infringing is located, such as the URL where it is posted;
-* Your name, address, telephone number and email address;
-* A statement by you that you have a good faith belief that the disputed use of the material is not authorized by the copyright owner, its agent, or the law; and
-* A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or are authorized to act on the copyright owner's behalf.
+*   The electronic or physical signature of the owner of the copyright or the person authorized to act on the owner's behalf;
+*   A description of the copyrighted work that you claim has been infringed;
+*   A description of where the material that you claim is infringing is located, such as the URL where it is posted;
+*   Your name, address, telephone number and email address;
+*   A statement by you that you have a good faith belief that the disputed use of the material is not authorized by the copyright owner, its agent, or the law; and
+*   A statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright owner or are authorized to act on the copyright owner's behalf.
 
 O'Reilly's Copyright Agent for notice of claims of copyright infringement can be reached at:
 
