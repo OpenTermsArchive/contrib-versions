@@ -34,10 +34,10 @@ A l’occasion de certains traitements Orange est susceptible de traiter des doc
 
 Certaines données traitées par Orange sont collectées de manière indirecte :
 
-* Au travers de cookies et traceurs déposés ou lus sur votre terminal
-* Au travers de sources provenant de partenaires sur la base de notre intérêt légitime ou d’obligations légales : fournisseurs de données, organismes de prévention de la fraude, organismes de gestion des impayés
-* Au travers de sources provenant de partenaires sur la base de votre consentement
-* Au travers de sources en libre accès
+*   Au travers de cookies et traceurs déposés ou lus sur votre terminal
+*   Au travers de sources provenant de partenaires sur la base de notre intérêt légitime ou d’obligations légales : fournisseurs de données, organismes de prévention de la fraude, organismes de gestion des impayés
+*   Au travers de sources provenant de partenaires sur la base de votre consentement
+*   Au travers de sources en libre accès
 
 2\. Pourquoi Orange traite vos données ?
 ----------------------------------------
@@ -54,29 +54,29 @@ En se fondant sur l’exécution du contrat que vous avez souscrit, Orange met e
 
 | Finalité du traitement | Description | Base légale applicable |
 | --- | --- | --- |
-| Facturer et encaisser les paiements | * Mettre à disposition un suivi de consommation<br>* Calculer et facturer l’offre ou l’achat<br>* Communiquer et expliquer la facture<br>* Encaisser le paiement, rembourser<br>* Gérer la comptabilité<br>* Remettre en banque le paiement encaissé<br>* Gérer les caisses des boutiques | Exécution du contrat |
-| Assurer le Service Après-vente | * Accéder aux données de contexte du client<br>* Orienter le client vers le back-office concerné<br>* Accompagner le client<br>* Diagnostiquer et traiter le problème<br>* Dépanner à distance<br>* Traiter à distance le sinistre d’un équipement<br>* Prendre le contrôle, à distance sur l’environnement du client |
-| Gérer les données personnelles, caractéristiques et droits sur un contrat | * Gérer les créations et modifications des informations et données personnelles<br>* Proposer et traiter les modifications des informations personnelles<br>* Recueillir et utiliser les informations personnelles complémentaires requises |
-| Maintenir la qualité du temps de réponse ressenti par les clients Internet Fibre ou ADSL | * Détecter les équipements réseau induisant une baisse de performance du réseau pour mettre les actions correctrices nécessaires |
-| Proposer un service de messagerie électronique Mail Orange | * Créer et gérer jusqu’à la suppression l'adresse de messagerie électronique<br>* Envoyer et recevoir des emails et leurs pièces jointes de manière sécurisée et les stocker jusqu’à suppression de l’email par l’utilisateur<br>* Agréger les emails provenant d’autres fournisseurs de messagerie électronique Notifier<br>* Gérer un annuaire de contacts<br>* Gérer un agenda et exporter les emails |
-| Assurer un service de messagerie vocale | * Sauvegarder les messages vocaux notifier les clients sur l’arrivée d’un nouveau message<br>* Supprimer les messages, soit sur demande du client soit après un délai d’expiration<br>* Gérer les préférences pour certains clients mobiles<br>* Retranscrire en texte les messages vocaux par SMS |
-| Gérer le matériel | * Préparer, configurer, expédier, livrer, réparer, recycler, reconditionner, échanger, récupérer ou détruire |
+| Facturer et encaisser les paiements | *   Mettre à disposition un suivi de consommation<br>*   Calculer et facturer l’offre ou l’achat<br>*   Communiquer et expliquer la facture<br>*   Encaisser le paiement, rembourser<br>*   Gérer la comptabilité<br>*   Remettre en banque le paiement encaissé<br>*   Gérer les caisses des boutiques | Exécution du contrat |
+| Assurer le Service Après-vente | *   Accéder aux données de contexte du client<br>*   Orienter le client vers le back-office concerné<br>*   Accompagner le client<br>*   Diagnostiquer et traiter le problème<br>*   Dépanner à distance<br>*   Traiter à distance le sinistre d’un équipement<br>*   Prendre le contrôle, à distance sur l’environnement du client |
+| Gérer les données personnelles, caractéristiques et droits sur un contrat | *   Gérer les créations et modifications des informations et données personnelles<br>*   Proposer et traiter les modifications des informations personnelles<br>*   Recueillir et utiliser les informations personnelles complémentaires requises |
+| Maintenir la qualité du temps de réponse ressenti par les clients Internet Fibre ou ADSL | *   Détecter les équipements réseau induisant une baisse de performance du réseau pour mettre les actions correctrices nécessaires |
+| Proposer un service de messagerie électronique Mail Orange | *   Créer et gérer jusqu’à la suppression l'adresse de messagerie électronique<br>*   Envoyer et recevoir des emails et leurs pièces jointes de manière sécurisée et les stocker jusqu’à suppression de l’email par l’utilisateur<br>*   Agréger les emails provenant d’autres fournisseurs de messagerie électronique Notifier<br>*   Gérer un annuaire de contacts<br>*   Gérer un agenda et exporter les emails |
+| Assurer un service de messagerie vocale | *   Sauvegarder les messages vocaux notifier les clients sur l’arrivée d’un nouveau message<br>*   Supprimer les messages, soit sur demande du client soit après un délai d’expiration<br>*   Gérer les préférences pour certains clients mobiles<br>*   Retranscrire en texte les messages vocaux par SMS |
+| Gérer le matériel | *   Préparer, configurer, expédier, livrer, réparer, recycler, reconditionner, échanger, récupérer ou détruire |
 | S’authentifier à un service Orange ou à un service de tiers via le service Mobile Connect |     |
-| Proposer un service d’hébergement de pages web avec le service Pages perso | * Créer et héberger avec possibilité de supprimer des pages sur signalement dans les cas prévus par la loi ou les conditions générales |
-| Intervenir en physique chez le client | * Informer le client de l’intervention<br>* Permettre au client de communiquer avec le technicien en charge du rendez-vous<br>* Installer<br>* Dépanner, récupérer et désinstaller l’équipement<br>* Permettre au client d’évaluer la prestation suite à un rendez-vous technicien<br>* Permettre au technicien d’optimiser ses parcours et plannings d’intervention |
-| Gérer les impayés | * Recouvrer à l’amiable<br>* Inscrire les clients en contentieux<br>* Recouvrer les impayés des clients en contentieux<br>* Alimenter la base du GIE Préventel<br>* Interroger les fichiers d’impayés lors de la souscription d’un nouvel abonnement mobile et collecter un dépôt de garantie le cas échéant |
+| Proposer un service d’hébergement de pages web avec le service Pages perso | *   Créer et héberger avec possibilité de supprimer des pages sur signalement dans les cas prévus par la loi ou les conditions générales |
+| Intervenir en physique chez le client | *   Informer le client de l’intervention<br>*   Permettre au client de communiquer avec le technicien en charge du rendez-vous<br>*   Installer<br>*   Dépanner, récupérer et désinstaller l’équipement<br>*   Permettre au client d’évaluer la prestation suite à un rendez-vous technicien<br>*   Permettre au technicien d’optimiser ses parcours et plannings d’intervention |
+| Gérer les impayés | *   Recouvrer à l’amiable<br>*   Inscrire les clients en contentieux<br>*   Recouvrer les impayés des clients en contentieux<br>*   Alimenter la base du GIE Préventel<br>*   Interroger les fichiers d’impayés lors de la souscription d’un nouvel abonnement mobile et collecter un dépôt de garantie le cas échéant |
 
 #### 2.1.2 Exécution du contrat et intérêt légitime
 
 | Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
 | --- | --- | --- |
-| Déployer et opérer les réseaux | * Construire, exploiter et optimiser les réseaux<br>* Assurer le traitement des dossiers de dommage aux réseaux jusqu’au recouvrement<br>* Intervenir sur les réseaux, en préventif ou curatif<br>* Paramétrer les réseaux | Exécution du contrat ou intérêt légitime |
-| * Acheminer les communications | Exécution du contrat |
-| Traiter les résiliations | * Gérer la résiliation à l’initiative du client ou de son représentant | Exécution du contrat |
-| * Gérer la résiliation à l’initiative d’Orange | Intérêt légitime |
-| Gérer les courriers entrants | * Réception, numérisation et archivage des courriers / documents | Exécution du contrat ou intérêt légitime |
-| Déployer et opérer les offres et services | * Fournir au client des rapports d’analyse de ses usages ou de ses offres<br>* Opérer des services<br>* Permettre au client d’administrer la configuration de ses produits et services | Exécution du contrat et intérêt légitime |
-| Etudier le déploiement des réseaux | * Etudier et préparer le déploiement du réseau | Exécution du contrat ou intérêt légitime |
+| Déployer et opérer les réseaux | *   Construire, exploiter et optimiser les réseaux<br>*   Assurer le traitement des dossiers de dommage aux réseaux jusqu’au recouvrement<br>*   Intervenir sur les réseaux, en préventif ou curatif<br>*   Paramétrer les réseaux | Exécution du contrat ou intérêt légitime |
+| *   Acheminer les communications | Exécution du contrat |
+| Traiter les résiliations | *   Gérer la résiliation à l’initiative du client ou de son représentant | Exécution du contrat |
+| *   Gérer la résiliation à l’initiative d’Orange | Intérêt légitime |
+| Gérer les courriers entrants | *   Réception, numérisation et archivage des courriers / documents | Exécution du contrat ou intérêt légitime |
+| Déployer et opérer les offres et services | *   Fournir au client des rapports d’analyse de ses usages ou de ses offres<br>*   Opérer des services<br>*   Permettre au client d’administrer la configuration de ses produits et services | Exécution du contrat et intérêt légitime |
+| Etudier le déploiement des réseaux | *   Etudier et préparer le déploiement du réseau | Exécution du contrat ou intérêt légitime |
 
 #### 2.1.3. Exécution du contrat et consentement
 
@@ -116,7 +116,7 @@ En se fondant sur l’exécution du contrat que vous avez souscrit, Orange met e
 | Recueillir et enregistrer l’acceptation de la proposition commerciale |
 | Proposer et vendre les offres d’Orange et de ses filiales : prospecter, gérer les rdv clients, présenter les offres, gérer les documents commerciaux et contractuels | Consentement et exécution du contrat |
 | Gérer la file d’attente en boutique | Intérêt légitime |
-| Fournir des services de renseignements universels et non universels | Mettre à disposition un annuaire, avec fourniture des services de renseignements universels et non universels, et exercer l’activité d’opérateur intermédiaire au sens de la décision de l’ARCEP n°06-0639 | * Exécution du contrat<br>* Intérêt légitime<br>* Obligation légale |
+| Fournir des services de renseignements universels et non universels | Mettre à disposition un annuaire, avec fourniture des services de renseignements universels et non universels, et exercer l’activité d’opérateur intermédiaire au sens de la décision de l’ARCEP n°06-0639 | *   Exécution du contrat<br>*   Intérêt légitime<br>*   Obligation légale |
 
 ### 2.2. Intérêt légitime
 
@@ -126,11 +126,11 @@ Orange réalise également des traitements de données pour d’autres finalité
 
 | Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
 | --- | --- | --- |
-| Assurer la sécurité des technologies de l’information | * Superviser les usages et détecter les comportements anormaux de services applicatifs<br>* Auditer et évaluer les vulnérabilités<br>* Protéger les données et contrôler les accès et usages des applications et services<br>* Anonymiser les données personnelles | Intérêt légitime |
+| Assurer la sécurité des technologies de l’information | *   Superviser les usages et détecter les comportements anormaux de services applicatifs<br>*   Auditer et évaluer les vulnérabilités<br>*   Protéger les données et contrôler les accès et usages des applications et services<br>*   Anonymiser les données personnelles | Intérêt légitime |
 | Superviser le dispositif de facturation |     |
-| Eviter la fraude et préserver le Chiffre d’Affaires | * Contrôler les processus sur nos canaux de vente<br>* Vérifier la réalité de l'identité des personnes à l'aide de la réalisation et de la conservation d'un scan de la pièce d'identité ou de son numéro <br>* Interroger, et gérer les inscriptions et désinscriptions inter-opérateur nationaux – GIE Préventel – et dans la base des impayés d’Orange<br>* Estimer et prévenir les risques d’impayé client<br>* Détecter et superviser des situations suspectes pouvant impacter le chiffre d’affaires et/ou relever des cas de fraudes afin d’en limiter les risques et d’assurer les actions de remédiations nécessaires<br>* Constituer le dossier de preuves dans le cade d’investigations en cas de fraude |
-| Sonder les clients ou les utilisateurs | * Mesurer la qualité de l’acte suite à la sollicitation des clients<br>* Enrichir la connaissance clients au travers des sondages clients |
-| Améliorer notre offre et relation client | * Mesurer, catégoriser et comprendre les sollicitations clients et les réponses sondages afin de dimensionner et améliorer la relation client et afin d’améliorer nos produits et services<br>* Mesurer, comprendre et améliorer la performance des parcours clients<br>* Améliorer la satisfaction client<br>* Analyser nos ventes afin d’adapter nos offres, produits et services<br>* Enrichir la connaissance clients au travers d’études<br>* Mettre à disposition, en interne, des outils et données d’analyse afin d’améliorer notre relation client |
+| Eviter la fraude et préserver le Chiffre d’Affaires | *   Contrôler les processus sur nos canaux de vente<br>*   Vérifier la réalité de l'identité des personnes à l'aide de la réalisation et de la conservation d'un scan de la pièce d'identité ou de son numéro <br>*   Interroger, et gérer les inscriptions et désinscriptions inter-opérateur nationaux – GIE Préventel – et dans la base des impayés d’Orange<br>*   Estimer et prévenir les risques d’impayé client<br>*   Détecter et superviser des situations suspectes pouvant impacter le chiffre d’affaires et/ou relever des cas de fraudes afin d’en limiter les risques et d’assurer les actions de remédiations nécessaires<br>*   Constituer le dossier de preuves dans le cade d’investigations en cas de fraude |
+| Sonder les clients ou les utilisateurs | *   Mesurer la qualité de l’acte suite à la sollicitation des clients<br>*   Enrichir la connaissance clients au travers des sondages clients |
+| Améliorer notre offre et relation client | *   Mesurer, catégoriser et comprendre les sollicitations clients et les réponses sondages afin de dimensionner et améliorer la relation client et afin d’améliorer nos produits et services<br>*   Mesurer, comprendre et améliorer la performance des parcours clients<br>*   Améliorer la satisfaction client<br>*   Analyser nos ventes afin d’adapter nos offres, produits et services<br>*   Enrichir la connaissance clients au travers d’études<br>*   Mettre à disposition, en interne, des outils et données d’analyse afin d’améliorer notre relation client |
 | Identifier un client via son compte grâce au service Orange ID |     |
 
 #### 2.2.2. Intérêt légitime et exécution du contrat
@@ -163,11 +163,11 @@ Orange recueille votre consentement afin d’effectuer certains traitements sur 
 
 | Finalité du traitement | Description | Base(s) légale(s) applicable(s) |
 | --- | --- | --- |
-| Améliorer la qualité de service sur nos réseaux par collecte d’informations du terminal | * Améliorer la qualité de service sur nos réseaux<br>* Améliorer la satisfaction client dans les domaines de la qualité des réseaux, des offres et de la relation client<br>* Optimiser la qualité de service sur nos réseaux | Consentement |
+| Améliorer la qualité de service sur nos réseaux par collecte d’informations du terminal | *   Améliorer la qualité de service sur nos réseaux<br>*   Améliorer la satisfaction client dans les domaines de la qualité des réseaux, des offres et de la relation client<br>*   Optimiser la qualité de service sur nos réseaux | Consentement |
 | Sonder les prospects |     |
 | Identifier un client via son compte grâce au service Orange ID |     |
-| Faire des recommandations personnalisées sur la TV d’Orange – le Guide TV | * Proposer aux clients de la TV d’Orange des contenus et offres personnalisés en fonction de leur consommation des services de la TV d’Orange |
-| Cibler la publicité sur la TV d’Orange | * Recueillir le consentement des clients pour recevoir de la publicité ciblée des partenaires d’Orange<br>* Analyser les usages pour calculer, optimiser et mettre à disposition des critères de ciblage<br>* Déterminer le profil du consommateur TV |
+| Faire des recommandations personnalisées sur la TV d’Orange – le Guide TV | *   Proposer aux clients de la TV d’Orange des contenus et offres personnalisés en fonction de leur consommation des services de la TV d’Orange |
+| Cibler la publicité sur la TV d’Orange | *   Recueillir le consentement des clients pour recevoir de la publicité ciblée des partenaires d’Orange<br>*   Analyser les usages pour calculer, optimiser et mettre à disposition des critères de ciblage<br>*   Déterminer le profil du consommateur TV |
 
 #### 2.3.2. Consentement et exécution du contrat
 
@@ -188,8 +188,8 @@ En tant qu’opérateur de communications électroniques Orange se doit de répo
 | Archiver les données comptables |     | Obligation légale |
 | Répondre aux demandes des tiers autorisés par la règlementation |     |
 | Répondre aux réquisitions des autorités et aux décisions de justice |     |
-| Gérer le livre de police | * Lutte contre la fraude fiscale et le recel d’objets volés |
-| Gérer les demandes d’exercice des droits des personnes concernées | * Réception des plaintes, des réclamations et/ou demandes d’exercice des droits |
+| Gérer le livre de police | *   Lutte contre la fraude fiscale et le recel d’objets volés |
+| Gérer les demandes d’exercice des droits des personnes concernées | *   Réception des plaintes, des réclamations et/ou demandes d’exercice des droits |
 | Assurer le blocage, à l’utilisation, des mobiles déclarés volés |     |
 
 #### 2.4.2. Obligation légale et exécution du contrat
@@ -205,47 +205,47 @@ Voir 2.2.4
 
 Vos Données Personnelles sont conservées sur les périodes suivantes :
 
-* Données utilisées dans le cadre de la gestion de la relation commerciale et à des fins de prospection commerciale : les données d’un client d’une offre résidentielle sont conservées pendant 3 ans à compter de la fin de la relation commerciale. Les données d’un client d’une offre entreprise sont conservées pendant 5 ans à compter de la fin de la relation commerciale. Les données d’un prospect sont conservées pendant 3 ans à compter de leur collecte ou du dernier contact émanant du prospect.
-* Données relatives à l’identification des clients au titre des articles L34-1 et R10-13 du Code des postes et des communications électroniques : ces données sont conservées pendant 5 ans à compter de la fin de la relation commerciale.
+*   Données utilisées dans le cadre de la gestion de la relation commerciale et à des fins de prospection commerciale : les données d’un client d’une offre résidentielle sont conservées pendant 3 ans à compter de la fin de la relation commerciale. Les données d’un client d’une offre entreprise sont conservées pendant 5 ans à compter de la fin de la relation commerciale. Les données d’un prospect sont conservées pendant 3 ans à compter de leur collecte ou du dernier contact émanant du prospect.
+*   Données relatives à l’identification des clients au titre des articles L34-1 et R10-13 du Code des postes et des communications électroniques : ces données sont conservées pendant 5 ans à compter de la fin de la relation commerciale.
     
-* Données de connexion, d’usages des services et d’interaction : ces données sont conservées deux ans à compter de leur collecte, sauf pour les données de trafic au sens de l’article L34-1 du Code des Postes et communication électronique qui sont conservées un an à compter de leur collecte.
-* Données d’interactions avec les services clients Orange: les conversations écrites (e-chat) sont conservées pendant 13 mois. Les conversations orales sont enregistrées de manière aléatoire (échantillonnage) et sont conservées 6 mois.
-* Les données de contenus des services vendus par Orange sont conservées le temps de délivrer le service (acheminement, remise du contenu et accès au contenu).
-* Données relatives au paiement : ces données relatives sont conservées pendant 13 mois suivant la date de débit à titre de preuve, et jusqu’à 15 mois afin de prendre en compte la possibilité d'utilisation de cartes de paiement à débit différé.
-* Données relatives au score et à la segmentation client : ces données sont conservées jusqu’à 2 ans à compter de leur calcul.
-* Données utilisées dans le cadre de la gestion des impayés : en cas de non-paiement, les informations sont conservées jusqu’à 56 mois après la résiliation, durée éventuellement prolongée d’un délai correspondant à la période maximale pendant laquelle un client mobile peut être inscrit dans le fichier du GIE Préventel. En cas de paiement les informations sont conservées 48 heures à compter du paiement.
-* Données spécifiques utilisées pour éviter la fraude et préserver le chiffre d’affaire : les données d’alerte en cas de fraude sont conservées dans un délai de 12 mois à compter de l'émission des alertes pour les qualifier. Les alertes non qualifiées sont supprimées directement. Les données d’alerte en cas de fraude avérée sont conservées pour une durée maximale de 5 ans à compter de la clôture du dossier de fraude. Les données de lutte contre le blanchiment sont conservées pendant 5 ans à compter de l’exécution de l’opération. Justificatifs d’identité : Ils sont conservés jusqu'à 18 mois à compter de leur collecte à des fins de lutte contre la fraude.
-* Données permettant de réaliser des jeux concours : les données sont conservées 3 mois et jusqu’à 6 mois après la fin du jeu s’il existe un risque élevé de contestation.
-* Données permettant de piloter notre impact environnemental : pour le traitement des plaintes environnementales, les données sont conservées 12 mois à partir de la collecte ou du dépôt de la plainte. Pour le calcul et la restitution de l’empreinte carbone, les données ne sont pas conservées.
-* Données relatives à la géolocalisation pour déployer et opérer les réseaux et les services : ces données sont conservées jusqu’à 6 mois à compter de leur collecte.
-* Cookies et traceurs : les informations issues des cookies et traceurs sont conservées pour une durée de 25 mois. Pour en savoir plus Orange vous invite à consulter sa Politique Cookies et Traceurs ici.
-* Données relatives aux annuaires : les données sont conservées deux ans après la fin de la parution de vos données à l’annuaire.
-* Données traitées dans le cadre du service de messagerie électronique Mail Orange pour les offres internet : Les logs d’usage sont conservés 12 mois à compter de leur émission. Pour les autres données, elles sont conservées pendant 12 mois à compter de la résiliation du client si celui-ci n’utilise plus le service. Si le client n’utilise plus le service mail plus de 9 mois après la résiliation les données sont conservées alors 5 mois à compter de l’arrêt d’utilisation du service.
-* Données traitées dans le cadre du service de messagerie électronique Mail Orange pour les offres mobile : Les logs d’usage sont conservés 12 mois à compter de leur émission. Pour les autres données, elles sont conservées pendant 6 mois à compter de la résiliation du client.
+*   Données de connexion, d’usages des services et d’interaction : ces données sont conservées deux ans à compter de leur collecte, sauf pour les données de trafic au sens de l’article L34-1 du Code des Postes et communication électronique qui sont conservées un an à compter de leur collecte.
+*   Données d’interactions avec les services clients Orange: les conversations écrites (e-chat) sont conservées pendant 13 mois. Les conversations orales sont enregistrées de manière aléatoire (échantillonnage) et sont conservées 6 mois.
+*   Les données de contenus des services vendus par Orange sont conservées le temps de délivrer le service (acheminement, remise du contenu et accès au contenu).
+*   Données relatives au paiement : ces données relatives sont conservées pendant 13 mois suivant la date de débit à titre de preuve, et jusqu’à 15 mois afin de prendre en compte la possibilité d'utilisation de cartes de paiement à débit différé.
+*   Données relatives au score et à la segmentation client : ces données sont conservées jusqu’à 2 ans à compter de leur calcul.
+*   Données utilisées dans le cadre de la gestion des impayés : en cas de non-paiement, les informations sont conservées jusqu’à 56 mois après la résiliation, durée éventuellement prolongée d’un délai correspondant à la période maximale pendant laquelle un client mobile peut être inscrit dans le fichier du GIE Préventel. En cas de paiement les informations sont conservées 48 heures à compter du paiement.
+*   Données spécifiques utilisées pour éviter la fraude et préserver le chiffre d’affaire : les données d’alerte en cas de fraude sont conservées dans un délai de 12 mois à compter de l'émission des alertes pour les qualifier. Les alertes non qualifiées sont supprimées directement. Les données d’alerte en cas de fraude avérée sont conservées pour une durée maximale de 5 ans à compter de la clôture du dossier de fraude. Les données de lutte contre le blanchiment sont conservées pendant 5 ans à compter de l’exécution de l’opération. Justificatifs d’identité : Ils sont conservés jusqu'à 18 mois à compter de leur collecte à des fins de lutte contre la fraude.
+*   Données permettant de réaliser des jeux concours : les données sont conservées 3 mois et jusqu’à 6 mois après la fin du jeu s’il existe un risque élevé de contestation.
+*   Données permettant de piloter notre impact environnemental : pour le traitement des plaintes environnementales, les données sont conservées 12 mois à partir de la collecte ou du dépôt de la plainte. Pour le calcul et la restitution de l’empreinte carbone, les données ne sont pas conservées.
+*   Données relatives à la géolocalisation pour déployer et opérer les réseaux et les services : ces données sont conservées jusqu’à 6 mois à compter de leur collecte.
+*   Cookies et traceurs : les informations issues des cookies et traceurs sont conservées pour une durée de 25 mois. Pour en savoir plus Orange vous invite à consulter sa Politique Cookies et Traceurs ici.
+*   Données relatives aux annuaires : les données sont conservées deux ans après la fin de la parution de vos données à l’annuaire.
+*   Données traitées dans le cadre du service de messagerie électronique Mail Orange pour les offres internet : Les logs d’usage sont conservés 12 mois à compter de leur émission. Pour les autres données, elles sont conservées pendant 12 mois à compter de la résiliation du client si celui-ci n’utilise plus le service. Si le client n’utilise plus le service mail plus de 9 mois après la résiliation les données sont conservées alors 5 mois à compter de l’arrêt d’utilisation du service.
+*   Données traitées dans le cadre du service de messagerie électronique Mail Orange pour les offres mobile : Les logs d’usage sont conservés 12 mois à compter de leur émission. Pour les autres données, elles sont conservées pendant 6 mois à compter de la résiliation du client.
     
-* Données spécifiques traitées dans le cadre du service de messagerie vocale : les données d’identification (numéro de téléphone) et de contact (mail) sont conservées pendant toute la durée vie du contrat et supprimées 20 jours après résiliation. Les données de contenu du message vocal sont conservées jusqu’à 40 jours s’il n’y a pas d’action du client, et 14 jours si le message est lu par le client.
-* Données spécifiques traitées dans le cadre de l’identification d’un client via son compte grâce au service Orange ID : les données de logs lors de l’utilisation du service sont conservées pendant 370 jours.
-* Données spécifiques traitées dans le cadre des recommandations personnalisées sur la TV d’Orange – le Guide TV : les données de connexion, d’usage des services et d’interaction sont conservées pendant 18 mois. Les autres données sont conservées tant que le Client est actif sur le service TV.
-* Données spécifiques traitées dans le cadre du ciblage de la publicité sur la TV d’Orange : les données d’identification sont conservées pendant 90 jours sur la télé en live et 13 mois sur le service replay. Les données de contact et les données de vie personnelles sont conservées jusqu’à 3 ans à compter de la résiliation du client. Les données connexion, d’usage des services et d’interaction (usage et log TV, consentement) sont conservées pendant 13 mois. Les profils, scores et segmentations client sont conservés à partir des 30 derniers jours et recalculés tous les 30 jours.
-* Données utilisées dans le cadre de contentieux : les données sont conservées tant que le contentieux et actif, et jusqu’à l’expiration de l’ensemble des voies de recours.
+*   Données spécifiques traitées dans le cadre du service de messagerie vocale : les données d’identification (numéro de téléphone) et de contact (mail) sont conservées pendant toute la durée vie du contrat et supprimées 20 jours après résiliation. Les données de contenu du message vocal sont conservées jusqu’à 40 jours s’il n’y a pas d’action du client, et 14 jours si le message est lu par le client.
+*   Données spécifiques traitées dans le cadre de l’identification d’un client via son compte grâce au service Orange ID : les données de logs lors de l’utilisation du service sont conservées pendant 370 jours.
+*   Données spécifiques traitées dans le cadre des recommandations personnalisées sur la TV d’Orange – le Guide TV : les données de connexion, d’usage des services et d’interaction sont conservées pendant 18 mois. Les autres données sont conservées tant que le Client est actif sur le service TV.
+*   Données spécifiques traitées dans le cadre du ciblage de la publicité sur la TV d’Orange : les données d’identification sont conservées pendant 90 jours sur la télé en live et 13 mois sur le service replay. Les données de contact et les données de vie personnelles sont conservées jusqu’à 3 ans à compter de la résiliation du client. Les données connexion, d’usage des services et d’interaction (usage et log TV, consentement) sont conservées pendant 13 mois. Les profils, scores et segmentations client sont conservés à partir des 30 derniers jours et recalculés tous les 30 jours.
+*   Données utilisées dans le cadre de contentieux : les données sont conservées tant que le contentieux et actif, et jusqu’à l’expiration de l’ensemble des voies de recours.
 
 Orange conserve également des données dans le cadre de ses obligations légales :
 
-* Données comptables devant être archivées : ces données sont conservées 10 ans en base d'archivage à titre de preuve.
-* Données permettant de répondre au droit de communication des autorités et aux réquisitions des autorités et aux décisions de justice : ces données sont conservées pendant 12 mois à compter de la réponse.
-* Données relatives au livre de police : ces données sont conservées pendant 10 ans après leur collecte.
-* Données relatives aux demandes d’exercice des droits des personnes concernées : ces données sont conservées pour une durée de 5 ans après le traitement de la demande ou, à défaut, dès la prescription d’une décision de l’autorité de contrôle compétente ou prescription du contentieux.
-* Données nécessaires pour assurer le blocage, à l’utilisation, des mobiles déclarés volés : ces données sont conservées pendant 18 mois après la date d’inscription.
+*   Données comptables devant être archivées : ces données sont conservées 10 ans en base d'archivage à titre de preuve.
+*   Données permettant de répondre au droit de communication des autorités et aux réquisitions des autorités et aux décisions de justice : ces données sont conservées pendant 12 mois à compter de la réponse.
+*   Données relatives au livre de police : ces données sont conservées pendant 10 ans après leur collecte.
+*   Données relatives aux demandes d’exercice des droits des personnes concernées : ces données sont conservées pour une durée de 5 ans après le traitement de la demande ou, à défaut, dès la prescription d’une décision de l’autorité de contrôle compétente ou prescription du contentieux.
+*   Données nécessaires pour assurer le blocage, à l’utilisation, des mobiles déclarés volés : ces données sont conservées pendant 18 mois après la date d’inscription.
 
 4\. Quelles personnes sont concernées par ces traitements de données ?
 ----------------------------------------------------------------------
 
 Les personnes concernées par les traitements réalisés dans le cadre de cette Politique par Orange sont :
 
-* Clients détenteurs d’une offre résidentielle et / ou professionnelle, utilisateurs de ces offres
-* Prospects
-* Clients des opérateurs tiers pour les besoins techniques attenants à leurs offres
-* Ayants-droits, représentants et mandataires de ces clients
+*   Clients détenteurs d’une offre résidentielle et / ou professionnelle, utilisateurs de ces offres
+*   Prospects
+*   Clients des opérateurs tiers pour les besoins techniques attenants à leurs offres
+*   Ayants-droits, représentants et mandataires de ces clients
 
 5\. Quels sont les destinataires de vos données ?
 -------------------------------------------------
@@ -376,25 +376,25 @@ Ainsi, toutes les personnes utilisant la même connexion et ayant consenti se ve
   
 En général :
 
-* **Pour une connexion foyer** (ex : Wi-Fi), la personnalisation sera basée sur la navigation des membres du foyer ayant consenti.
-* **Pour une connexion mobile**, la personnalisation sera basée uniquement sur la navigation du propriétaire du mobile.
+*   **Pour une connexion foyer** (ex : Wi-Fi), la personnalisation sera basée sur la navigation des membres du foyer ayant consenti.
+*   **Pour une connexion mobile**, la personnalisation sera basée uniquement sur la navigation du propriétaire du mobile.
     
 
   
   
 Nous Orange agissons en tant que responsable de traitement conjoint avec Utiq pour certaines étapes de traitement. Dans le cadre de notre accord de responsables conjoints :
 
-* Nous collectons votre consentement à l’activation de la technologie Utiq, qui inclut les traitements de données effectués par Utiq et votre opérateur télécom en vue de cette activation.
-* Nous mettons à votre disposition un lien dédié en bas de chacun de nos sites web (“[Gérer Utiq](https://consenthub.utiq.com/)”) afin de vous fournir des informations sur la technologie et les contrôles dont vous disposez.
-* Utiq met à votre disposition un portail ([consenthub](https://consenthub.utiq.com/)) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement les consentements Utiq. À tout moment. En un seul endroit.
-* Bien que vous puissiez exercer vos droits à l’égard de chacun des responsables de traitement, Utiq demeure le point de contact principal pour toute question ou demande que vous pourriez avoir en relation avec la technologie Utiq.
+*   Nous collectons votre consentement à l’activation de la technologie Utiq, qui inclut les traitements de données effectués par Utiq et votre opérateur télécom en vue de cette activation.
+*   Nous mettons à votre disposition un lien dédié en bas de chacun de nos sites web (“[Gérer Utiq](https://consenthub.utiq.com/)”) afin de vous fournir des informations sur la technologie et les contrôles dont vous disposez.
+*   Utiq met à votre disposition un portail ([consenthub](https://consenthub.utiq.com/)) pour faciliter l’exercice de vos droits en matière de protection des données et vous permettre de gérer facilement les consentements Utiq. À tout moment. En un seul endroit.
+*   Bien que vous puissiez exercer vos droits à l’égard de chacun des responsables de traitement, Utiq demeure le point de contact principal pour toute question ou demande que vous pourriez avoir en relation avec la technologie Utiq.
 
 #### Comment gérer les consentements Utiq
 
 Vous pouvez révoquer les consentements\* Utiq de diverses manières :
 
-* **Sur le consenthub** : Pour révoquer tous les consentements Utiq sur l’ensemble des sites web utilisant la technologie Utiq, accédez au portail d’Utiq (“[consenthub](https://consenthub.utiq.com/)”)
-* **Sur les sites web partenaires** : où vous pouvez révoquer chaque consentement Utiq sur les sites web où vous l’avez donné, en visitant la page “Gérer Utiq” accessible au bas de chaque site web.
+*   **Sur le consenthub** : Pour révoquer tous les consentements Utiq sur l’ensemble des sites web utilisant la technologie Utiq, accédez au portail d’Utiq (“[consenthub](https://consenthub.utiq.com/)”)
+*   **Sur les sites web partenaires** : où vous pouvez révoquer chaque consentement Utiq sur les sites web où vous l’avez donné, en visitant la page “Gérer Utiq” accessible au bas de chaque site web.
 
   
   
