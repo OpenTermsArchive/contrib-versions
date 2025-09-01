@@ -49,17 +49,17 @@ Unlike telephone services, the Application does not allow access to emergency se
 
 It allows the User, as soon as it is installed on the support, to:
 
-* exchange text
-* exchange attachments, whatever the nature, format and size of the files
-* create discussion groups
-* receive secure audio calls
-* set up ephemeral messages
-* use Olvid Web, Android compatible.
+*   exchange text
+*   exchange attachments, whatever the nature, format and size of the files
+*   create discussion groups
+*   receive secure audio calls
+*   set up ephemeral messages
+*   use Olvid Web, Android compatible.
 
 The application, in its paid version, allows you to:
 
-* make secure audio calls between Users of the Application.
-* interface with directories, in order to facilitate the enrollment of users and the deployment of Olvid.
+*   make secure audio calls between Users of the Application.
+*   interface with directories, in order to facilitate the enrollment of users and the deployment of Olvid.
 
 New features will be regularly integrated in the updates (secure video calls, desktop clients - Windows, macOS, Linux -, video-conferences…).
 
@@ -134,8 +134,8 @@ With regard to monthly subscriptions, he will be informed by message via the app
 
 To end the subscription:
 
-* in the case of an in-app purchase, the User may cancel their subscription directly on the stores;
-* in the case of a purchase directly from Olvid, The cancellation will be made by sending an email to Olvid, one month before the planned end of the subscription.
+*   in the case of an in-app purchase, the User may cancel their subscription directly on the stores;
+*   in the case of a purchase directly from Olvid, The cancellation will be made by sending an email to Olvid, one month before the planned end of the subscription.
 
 ### 7.7. Suspension of subscription
 
