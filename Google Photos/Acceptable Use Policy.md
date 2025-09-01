@@ -193,3 +193,7 @@ Known violent non-state organisations and movements are not permitted to use thi
 #### Violence and gore
 
 We will not print violent or gory content involving real-life people or animals that’s primarily intended to be shocking, sensational or gratuitous. This includes ultra-graphic material, such as dismemberment or close-up footage of mutilated corpses, and graphic material, such as content containing significant amounts of blood. We may print content used in an educational, documentary, scientific or artistic context. In some cases, content may be so violent or shocking that no amount of context will allow that content to be printed. Lastly, we will not print content encouraging others to commit specific acts of violence.
+
+Use of music
+
+Music provided within Google Photos is made available solely for personal, non-commercial use. For example, you may not use any memory or video that includes music in a manner that is intended for or results in monetary compensation or commercial gain. This includes, but is not limited to, uploading such content to monetised channels, such as YouTube channels, promoting products or services, or distributing the content for sale or licensing. Any such use is a violation of these Terms and may result in the removal of your content and/or suspension or termination of your account.
