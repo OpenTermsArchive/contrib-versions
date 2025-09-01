@@ -31,8 +31,8 @@ _Other Users_
 
 **These Terms do not apply to you if you are a Weixin user. You are a Weixin user if you either:**
 
-* **register by linking a mobile number that uses international dialling code +86 (i.e., a “China Mainland mobile number”); or**
-* **have contracted with 深圳市腾讯计算机系统有限公司 (Shenzhen Tencent Computer Systems Company Limited) for Weixin.**
+*   **register by linking a mobile number that uses international dialling code +86 (i.e., a “China Mainland mobile number”); or**
+*   **have contracted with 深圳市腾讯计算机系统有限公司 (Shenzhen Tencent Computer Systems Company Limited) for Weixin.**
 
 **If you are a Weixin user, you are subject to the Weixin** [**Agreement on Software License and Service of Tencent Weixin**](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=default&cc=CN) (the “**Weixin Terms of Service**”) **and not to these Terms.**
 
@@ -69,30 +69,30 @@ _WeChat policies_
 
 The following policies are Additional Terms that you must comply with in using WeChat:
 
-* [_WeChat Privacy Policy_](https://www.wechat.com/en/privacy_policy.html) – which sets out how we collect, store and use your personal information.
-* [_WeChat Acceptable Use Policy_](https://www.wechat.com/en/acceptable_use_policy.html) – which sets out rules of good behaviour applicable to your use of WeChat. You may also refer to the [_WeChat Community Guidelines_](https://safety.wechat.com/en_US/community-guidelines) which further explains the types of content and behaviour that are or are not allowed on WeChat.
-* [_Copyright Policy_](https://www.tencent.com/legal/html/en-us/complaint.html) – which sets out how we deal with intellectual property rights-related complaints in accordance with the DMCA.
+*   [_WeChat Privacy Policy_](https://www.wechat.com/en/privacy_policy.html) – which sets out how we collect, store and use your personal information.
+*   [_WeChat Acceptable Use Policy_](https://www.wechat.com/en/acceptable_use_policy.html) – which sets out rules of good behaviour applicable to your use of WeChat. You may also refer to the [_WeChat Community Guidelines_](https://safety.wechat.com/en_US/community-guidelines) which further explains the types of content and behaviour that are or are not allowed on WeChat.
+*   [_Copyright Policy_](https://www.tencent.com/legal/html/en-us/complaint.html) – which sets out how we deal with intellectual property rights-related complaints in accordance with the DMCA.
 
 _Terms applicable to specific WeChat features_
 
 Some of the services and features available within or via WeChat have Additional Terms specific to their use. You must comply with such Additional Terms (as well as these Terms) in your use of such services and features. Such service-specific Additional Terms include:
 
-* _Sticker Licence Agreement_ – governing your use of Stickers (as defined in such agreement) within WeChat.
-* _Weixin Open Platform Developer Service Agreement_ – governing your use of the Weixin Developers Platform.
-* _WeChat e-Commerce Service Agreement_ – governing your use of WeChat's e-commerce services.
-* _Weixin Official Account Admin Platform User Agreement_ – governing your use of the Weixin Official Account Admin Platform.
-* _WeChat Out Terms of Service_ – governing your use of WeChat Out.
-* _WeChat Pay Hong Kong Stored Value and Payment Processing Service Agreement_ – governing your use of WeChat Pay Hong Kong Wallet, if you are a Hong Kong WeChat user.
-* _WeChat E_\-_money_ _and Payment Processing Service Agreement_ – governing your use of WeChat Pay Malaysia Wallet, if you are a Malaysian WeChat user.
+*   _Sticker Licence Agreement_ – governing your use of Stickers (as defined in such agreement) within WeChat.
+*   _Weixin Open Platform Developer Service Agreement_ – governing your use of the Weixin Developers Platform.
+*   _WeChat e-Commerce Service Agreement_ – governing your use of WeChat's e-commerce services.
+*   _Weixin Official Account Admin Platform User Agreement_ – governing your use of the Weixin Official Account Admin Platform.
+*   _WeChat Out Terms of Service_ – governing your use of WeChat Out.
+*   _WeChat Pay Hong Kong Stored Value and Payment Processing Service Agreement_ – governing your use of WeChat Pay Hong Kong Wallet, if you are a Hong Kong WeChat user.
+*   _WeChat E_\-_money_ _and Payment Processing Service Agreement_ – governing your use of WeChat Pay Malaysia Wallet, if you are a Malaysian WeChat user.
 
 _Additional country-specific terms_
 
 If you are a citizen or a habitual resident of the following countries, the following country-specific Additional Terms will also apply to your use of WeChat:
 
-* USA.
-* Australia.
-* United Kingdom / European Union.
-* Singapore.
+*   USA.
+*   Australia.
+*   United Kingdom / European Union.
+*   Singapore.
 
 _Inconsistencies_
 
@@ -108,8 +108,8 @@ Where we consider that such changes are material, we will (where reasonably prac
 
 As WeChat and user experiences are constantly evolving, we may from time to time:
 
-* add, change or remove features or services from WeChat (including in relation to whether a feature or service is free of charge or not); and/or
-* suspend, discontinue or terminate WeChat altogether.
+*   add, change or remove features or services from WeChat (including in relation to whether a feature or service is free of charge or not); and/or
+*   suspend, discontinue or terminate WeChat altogether.
 
 You agree that we may take any such actions at any time. Where we consider that any changes to WeChat or any services or features accessible within WeChat are reasonably material, we will (where reasonably practicable) notify you (via [http://www.wechat.com](http://www.wechat.com/), direct communication to you, on this page or the relevant page for the relevant additional terms or policy, or other means), prior to such changes becoming effective.
 
@@ -119,8 +119,8 @@ You need to create an account with us in order to access and use WeChat. Any acc
 
 You are responsible for:
 
-* a. safeguarding your account details, including any passwords used to access your account and WeChat, and
-* b. all use of WeChat under your account, including any purchases made and/or payment obligations arising under your account. You must promptly notify us by going to "Me" -> "Settings" -> "Help & Feedback" from within the WeChat app or by visiting [http://help.wechat.com](http://help.wechat.com/) if you know or suspect that your password or account has been compromised. We will regard all use of your account on WeChat as being by you, except where we have received a valid and properly received notification to us regarding your account or password being compromised.
+*   a. safeguarding your account details, including any passwords used to access your account and WeChat, and
+*   b. all use of WeChat under your account, including any purchases made and/or payment obligations arising under your account. You must promptly notify us by going to "Me" -> "Settings" -> "Help & Feedback" from within the WeChat app or by visiting [http://help.wechat.com](http://help.wechat.com/) if you know or suspect that your password or account has been compromised. We will regard all use of your account on WeChat as being by you, except where we have received a valid and properly received notification to us regarding your account or password being compromised.
 
 We may allow you to register for and login to WeChat using sign-on functionalities provided by third party platforms, such as Facebook or Apple. You agree to comply with the relevant third party platform's terms and conditions applicable to your use of such functionalities (in addition to these Terms).
 
@@ -130,10 +130,10 @@ From time to time, certain products or services within WeChat may be subject to 
 
 If such products or services are subject to automatic, recurring or subscription-based charges, then you agree that (subject to applicable laws and regulations):
 
-* such purchases or payments are generally made by you on an advance basis. Unless the purchase was on a subscription basis, we will notify you prior to any automatic renewals;
-* you authorise us to: (a) save your chosen payment method's information (e.g. credit card information) on our systems; and (b) bill your chosen payment method for the relevant time-periods as chosen by or notified to you;
-* if any payment made via your chosen payment method is rejected, denied or returned unpaid for any reason: (a) we may not provide you with, or suspend our provision of, the relevant WeChat product or service until payment is properly processed; and (b) you are liable to us for any fees, costs, expenses or other amounts we incur arising from such rejection, denial or return (and we may automatically charge you for such amounts); and
-* we will provide you with further instructions within WeChat regarding how you may update or cancel the relevant payment method.
+*   such purchases or payments are generally made by you on an advance basis. Unless the purchase was on a subscription basis, we will notify you prior to any automatic renewals;
+*   you authorise us to: (a) save your chosen payment method's information (e.g. credit card information) on our systems; and (b) bill your chosen payment method for the relevant time-periods as chosen by or notified to you;
+*   if any payment made via your chosen payment method is rejected, denied or returned unpaid for any reason: (a) we may not provide you with, or suspend our provision of, the relevant WeChat product or service until payment is properly processed; and (b) you are liable to us for any fees, costs, expenses or other amounts we incur arising from such rejection, denial or return (and we may automatically charge you for such amounts); and
+*   we will provide you with further instructions within WeChat regarding how you may update or cancel the relevant payment method.
 
 We may change any fees that we charge for WeChat (or any parts of WeChat) at any time upon publication within WeChat. If you do not accept such change to the fees, we may be unable to provide WeChat (or the relevant part of WeChat) to you.
 
@@ -141,26 +141,26 @@ SUBJECT TO MANDATORY APPLICABLE LAWS AND REGULATIONS OR AS OTHERWISE SPECIFIED B
 
 If you believe that we have charged you in error, and subject to applicable laws and regulations:
 
-* a. you must contact us within 30 days of the date of the relevant charge; and
-* b. no refunds will be given for any erroneous charges after such 30 days period. We may process payments from you in WeChat via a third party service, and we may provide your relevant Information to such third parties to process your payments. You agree to comply with that relevant third party's terms and conditions in relation to the payment processing service, as further set out in the "Third Party Content and Services" section below.
+*   a. you must contact us within 30 days of the date of the relevant charge; and
+*   b. no refunds will be given for any erroneous charges after such 30 days period. We may process payments from you in WeChat via a third party service, and we may provide your relevant Information to such third parties to process your payments. You agree to comply with that relevant third party's terms and conditions in relation to the payment processing service, as further set out in the "Third Party Content and Services" section below.
 
 ### YOUR CONTENT
 
 When you submit, upload, transmit or display any data, information, media or other content in connection with your use of WeChat (“**Your Content**”), you understand and agree that:
 
-* you will continue to own and be responsible for Your Content;
-* we will not sell Your Content to any third party;
-* you are giving us and our affiliate companies a perpetual, non-exclusive, transferable, sub-licensable, royalty-free, worldwide licence to use Your Content (with no fees or charges payable by us to you) for the purposes of providing, promoting, developing and trying to improve WeChat and our other services, including new services that we may provide in the future. All such use will, to the extent Your Content contains Personal Information, be in accordance with our [WeChat Privacy Policy](https://www.wechat.com/en/privacy_policy.html). As part of this licence, we and our affiliate companies may, subject to the [WeChat Privacy Policy](https://www.wechat.com/en/privacy_policy.html), copy, reproduce, host, store, process, adapt, modify, translate, perform, distribute and publish Your Content worldwide in all media and by all distribution methods, including those that are developed in the future;
-* you grant other WeChat users a non-exclusive licence to access and use Your Content within WeChat, in accordance with these Terms and WeChat's functionalities;
-* we may share Your Content with third parties that we work with to help provide, promote, develop and improve WeChat in accordance with the [WeChat Privacy Policy](https://www.wechat.com/en/privacy_policy.html);
-* we may use the name that you submit in connection with Your Content (whether that be your account name, real name or otherwise); and
-* you will comply with these Terms, including our [WeChat Acceptable Use Policy](https://www.wechat.com/en/acceptable_use_policy.html), in your submission of Your Content.
+*   you will continue to own and be responsible for Your Content;
+*   we will not sell Your Content to any third party;
+*   you are giving us and our affiliate companies a perpetual, non-exclusive, transferable, sub-licensable, royalty-free, worldwide licence to use Your Content (with no fees or charges payable by us to you) for the purposes of providing, promoting, developing and trying to improve WeChat and our other services, including new services that we may provide in the future. All such use will, to the extent Your Content contains Personal Information, be in accordance with our [WeChat Privacy Policy](https://www.wechat.com/en/privacy_policy.html). As part of this licence, we and our affiliate companies may, subject to the [WeChat Privacy Policy](https://www.wechat.com/en/privacy_policy.html), copy, reproduce, host, store, process, adapt, modify, translate, perform, distribute and publish Your Content worldwide in all media and by all distribution methods, including those that are developed in the future;
+*   you grant other WeChat users a non-exclusive licence to access and use Your Content within WeChat, in accordance with these Terms and WeChat's functionalities;
+*   we may share Your Content with third parties that we work with to help provide, promote, develop and improve WeChat in accordance with the [WeChat Privacy Policy](https://www.wechat.com/en/privacy_policy.html);
+*   we may use the name that you submit in connection with Your Content (whether that be your account name, real name or otherwise); and
+*   you will comply with these Terms, including our [WeChat Acceptable Use Policy](https://www.wechat.com/en/acceptable_use_policy.html), in your submission of Your Content.
 
 In addition, you agree that we and our affiliate companies (subject to these Terms, our [WeChat Privacy Policy](https://www.wechat.com/en/privacy_policy.html) and applicable laws and regulations):
 
-* are allowed to retain and continue to use Your Content after you stop using WeChat;
-* may be required to retain or disclose Your Content: (a) in order to comply with applicable laws or regulations; (b) in order to comply with a court order, subpoena or other legal process; (c) in order to respond to a lawful request by a government authority, law enforcement agency or similar body; or (d) where we believe it is reasonably necessary to comply with applicable laws or regulations, in each case including (where applicable) orders, requests and other legal processes issued or made pursuant to mutual legal assistance treaty or similar lawful means. You may refer to our [Law Enforcement Data Request Guidelines](https://www.wechat.com/en/law_enforcement_data_request.html) and [Governmental Request Policy](https://www.wechat.com/en/government_request_policy.html) for further details on how we may retain or disclose Your Content;
-* may be required to retain or disclose Your Content in order to enforce these Terms or to protect any rights, property or safety of ours, our affiliate companies or other users of WeChat.
+*   are allowed to retain and continue to use Your Content after you stop using WeChat;
+*   may be required to retain or disclose Your Content: (a) in order to comply with applicable laws or regulations; (b) in order to comply with a court order, subpoena or other legal process; (c) in order to respond to a lawful request by a government authority, law enforcement agency or similar body; or (d) where we believe it is reasonably necessary to comply with applicable laws or regulations, in each case including (where applicable) orders, requests and other legal processes issued or made pursuant to mutual legal assistance treaty or similar lawful means. You may refer to our [Law Enforcement Data Request Guidelines](https://www.wechat.com/en/law_enforcement_data_request.html) and [Governmental Request Policy](https://www.wechat.com/en/government_request_policy.html) for further details on how we may retain or disclose Your Content;
+*   may be required to retain or disclose Your Content in order to enforce these Terms or to protect any rights, property or safety of ours, our affiliate companies or other users of WeChat.
 
 You understand that even if you seek to delete Your Content from WeChat, it may as a technical and administrative matter take some time or not be possible to achieve this – for example, we may not be able to prevent any third party from storing or using any of Your Content that you have made public via WeChat. Further information on your rights in relation to Your Content are set out in our [WeChat Privacy Policy](https://www.wechat.com/en/privacy_policy.html).
 
@@ -172,8 +172,8 @@ You are solely responsible for Your Content. We are not responsible for maintain
 
 You must at all times ensure that:
 
-* a. you have the rights required to copy, process, transmit, access, publish, display and use Your Content, and to grant us and other third parties the rights as set out in these Terms; and
-* b. Your Content (and our use of Your Content in accordance with these Terms) does not infringe or violate any applicable laws or regulations or the rights of any person.
+*   a. you have the rights required to copy, process, transmit, access, publish, display and use Your Content, and to grant us and other third parties the rights as set out in these Terms; and
+*   b. Your Content (and our use of Your Content in accordance with these Terms) does not infringe or violate any applicable laws or regulations or the rights of any person.
 
 ### INFRINGEMENT OF RIGHTS
 
@@ -211,8 +211,8 @@ If you are a Weixin Pay user, you may be able to access Weixin Pay via the WeCha
 
 WeChat may include advertising or commercial content. You agree that:
 
-* a. we may integrate, display and otherwise communicate advertising or commercial content in WeChat and that (where reasonably practicable) we will identify such advertising or commercial content; and
-* b. as explained in more detail in our [WeChat Privacy Policy](https://www.wechat.com/en/privacy_policy.html), we may use targeted advertising to try to make advertising more relevant and valuable to you.
+*   a. we may integrate, display and otherwise communicate advertising or commercial content in WeChat and that (where reasonably practicable) we will identify such advertising or commercial content; and
+*   b. as explained in more detail in our [WeChat Privacy Policy](https://www.wechat.com/en/privacy_policy.html), we may use targeted advertising to try to make advertising more relevant and valuable to you.
 
 ### OUR INTELLECTUAL PROPERTY RIGHTS
 
@@ -234,8 +234,8 @@ We may in our discretion provide technical support for WeChat (whether for free 
 
 Certain WeChat Software may contain software that are subject to “open source” licences (the “**Open Source Software**”). Where we use such Open Source Software, please note that:
 
-* there may be provisions in the Open Source Software's licence that expressly override these Terms, in which case such provisions shall prevail to the extent of any conflict with these Terms; and
-* we will credit the relevant Open Source Software used in WeChat Software within an Appendix to these terms and/or within the relevant WeChat Software.
+*   there may be provisions in the Open Source Software's licence that expressly override these Terms, in which case such provisions shall prevail to the extent of any conflict with these Terms; and
+*   we will credit the relevant Open Source Software used in WeChat Software within an Appendix to these terms and/or within the relevant WeChat Software.
 
 ### USE OF YOUR DEVICE BY WECHAT
 
@@ -267,62 +267,62 @@ We warrant to you that we will provide WeChat using reasonable care and skill.
 
 APART FROM THIS WARRANTY, TO THE EXTENT PERMITTED BY APPLICABLE LAWS AND REGULATIONS, WECHAT (INCLUDING ANY WECHAT SOFTWARE) IS PROVIDED ON AN “AS IS” AND “AS AVAILABLE” BASIS AND NEITHER US NOR ANY OF OUR AFFILIATE COMPANIES MAKE ANY REPRESENTATION OR WARRANTY OR GIVE ANY UNDERTAKING IN RELATION TO WECHAT, ANY WECHAT SOFTWARE OR ANY DATA, MEDIA OR OTHER CONTENT SUBMITTED, TRANSMITTED OR DISPLAYED BY WECHAT, INCLUDING:
 
-* A. ANY REPRESENTATION, WARRANTY OR UNDERTAKING THAT WECHAT OR WECHAT SOFTWARE WILL BE UNINTERRUPTED, SECURE OR ERROR-FREE OR FREE FROM VIRUSES;
-* B. THAT WECHAT OR WECHAT SOFTWARE WILL BE COMPATIBLE WITH YOUR DEVICE; OR
-* C. THAT WECHAT OR WECHAT SOFTWARE WILL BE OF MERCHANTABLE QUALITY, FIT FOR A PARTICULAR PURPOSE OR NOT INFRINGE THE INTELLECTUAL PROPERTY RIGHTS OF ANY PERSON. TO THE EXTENT PERMITTED BY APPLICABLE LAWS AND REGULATIONS, YOU WAIVE ANY AND ALL IMPLIED REPRESENTATIONS, WARRANTIES AND UNDERTAKINGS.
+*   A. ANY REPRESENTATION, WARRANTY OR UNDERTAKING THAT WECHAT OR WECHAT SOFTWARE WILL BE UNINTERRUPTED, SECURE OR ERROR-FREE OR FREE FROM VIRUSES;
+*   B. THAT WECHAT OR WECHAT SOFTWARE WILL BE COMPATIBLE WITH YOUR DEVICE; OR
+*   C. THAT WECHAT OR WECHAT SOFTWARE WILL BE OF MERCHANTABLE QUALITY, FIT FOR A PARTICULAR PURPOSE OR NOT INFRINGE THE INTELLECTUAL PROPERTY RIGHTS OF ANY PERSON. TO THE EXTENT PERMITTED BY APPLICABLE LAWS AND REGULATIONS, YOU WAIVE ANY AND ALL IMPLIED REPRESENTATIONS, WARRANTIES AND UNDERTAKINGS.
 
 ### LIABILITY FOR WECHAT
 
 TO THE EXTENT PERMITTED BY APPLICABLE LAWS AND REGULATIONS, THE TOTAL AGGREGATE LIABILITY OF US AND OUR AFFILIATE COMPANIES FOR ALL CLAIMS IN CONNECTION WITH THESE TERMS, OR WECHAT (INCLUDING ANY WECHAT SOFTWARE), ARISING OUT OF ANY CIRCUMSTANCES, WILL BE LIMITED TO THE GREATER OF THE FOLLOWING AMOUNTS:
 
-* A. THE AMOUNT THAT YOU HAVE PAID TO US FOR YOUR USE OF WECHAT OR WECHAT SOFTWARE TO WHICH THE CLAIM RELATES IN THE 6 MONTHS IMMEDIATELY PRECEDING THE DATE OF THE MOST RECENT CLAIM; AND
+*   A. THE AMOUNT THAT YOU HAVE PAID TO US FOR YOUR USE OF WECHAT OR WECHAT SOFTWARE TO WHICH THE CLAIM RELATES IN THE 6 MONTHS IMMEDIATELY PRECEDING THE DATE OF THE MOST RECENT CLAIM; AND
     
-* B. USD100 (ONE HUNDRED US DOLLARS). TO THE EXTENT PERMITTED BY APPLICABLE LAWS AND REGULATIONS, IN NO EVENT WILL WE OR ANY OF OUR AFFILIATE COMPANIES BE LIABLE FOR ANY OF THE FOLLOWING:
+*   B. USD100 (ONE HUNDRED US DOLLARS). TO THE EXTENT PERMITTED BY APPLICABLE LAWS AND REGULATIONS, IN NO EVENT WILL WE OR ANY OF OUR AFFILIATE COMPANIES BE LIABLE FOR ANY OF THE FOLLOWING:
     
-* IN CONNECTION WITH THESE TERMS OR WECHAT OR WECHAT SOFTWARE, FOR ANY DAMAGES OR LOSSES CAUSED BY:
+*   IN CONNECTION WITH THESE TERMS OR WECHAT OR WECHAT SOFTWARE, FOR ANY DAMAGES OR LOSSES CAUSED BY:
     
-* A. ANY NATURAL DISASTER SUCH AS FLOODS, EARTHQUAKES, PANDEMICS OR EPIDEMICS;
+*   A. ANY NATURAL DISASTER SUCH AS FLOODS, EARTHQUAKES, PANDEMICS OR EPIDEMICS;
     
-* B. ANY SOCIAL EVENT SUCH AS WARS, RIOTS OR GOVERNMENT ACTIONS;
+*   B. ANY SOCIAL EVENT SUCH AS WARS, RIOTS OR GOVERNMENT ACTIONS;
     
-* C. ANY COMPUTER VIRUS, TROJAN HORSE OR OTHER DAMAGE CAUSED BY MALWARE OR HACKERS;
+*   C. ANY COMPUTER VIRUS, TROJAN HORSE OR OTHER DAMAGE CAUSED BY MALWARE OR HACKERS;
     
-* D. ANY MALFUNCTION OR FAILURE OF OUR OR YOUR SOFTWARE, SYSTEM, HARDWARE OR CONNECTIVITY;
+*   D. ANY MALFUNCTION OR FAILURE OF OUR OR YOUR SOFTWARE, SYSTEM, HARDWARE OR CONNECTIVITY;
     
-* E. IMPROPER OR UNAUTHORISED USE OF WECHAT OR WECHAT SOFTWARE;
+*   E. IMPROPER OR UNAUTHORISED USE OF WECHAT OR WECHAT SOFTWARE;
     
-* F. YOUR USE OF WECHAT OR WECHAT SOFTWARE IN BREACH OF THESE TERMS;
+*   F. YOUR USE OF WECHAT OR WECHAT SOFTWARE IN BREACH OF THESE TERMS;
     
-* G. ANY REASONS BEYOND OUR REASONABLE CONTROL OR PREDICTABILITY; OR
+*   G. ANY REASONS BEYOND OUR REASONABLE CONTROL OR PREDICTABILITY; OR
     
-* H. FAILURE TO SAVE OR BACK UP ANY DATA OR OTHER CONTENT;
+*   H. FAILURE TO SAVE OR BACK UP ANY DATA OR OTHER CONTENT;
     
-* ANY LOSS ARISING FROM ANY CONTENT, PROGRAMS OR SERVICES PROVIDED BY ANY PARTY OTHER THAN US (OR OUR AFFILIATES);
+*   ANY LOSS ARISING FROM ANY CONTENT, PROGRAMS OR SERVICES PROVIDED BY ANY PARTY OTHER THAN US (OR OUR AFFILIATES);
     
-* ANY LOSS OR DAMAGE WHICH ARE NOT FORESEEABLE, INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES OR LOSSES. FOR THE PURPOSES OF THIS CLAUSE, LOSS OR DAMAGE IS FORESEEABLE IF EITHER IT IS OBVIOUS THAT IT WILL HAPPEN OR IF, AT THE TIME THE CONTRACT WAS MADE, BOTH WE AND YOU KNEW IT MIGHT HAPPEN; AND/OR
+*   ANY LOSS OR DAMAGE WHICH ARE NOT FORESEEABLE, INDIRECT, SPECIAL, CONSEQUENTIAL, EXEMPLARY OR PUNITIVE DAMAGES OR LOSSES. FOR THE PURPOSES OF THIS CLAUSE, LOSS OR DAMAGE IS FORESEEABLE IF EITHER IT IS OBVIOUS THAT IT WILL HAPPEN OR IF, AT THE TIME THE CONTRACT WAS MADE, BOTH WE AND YOU KNEW IT MIGHT HAPPEN; AND/OR
     
-* ANY:
+*   ANY:
     
-    * LOSS OF USE;
-    * LOSS OR INTERRUPTION OF BUSINESS;
-    * LOSS OF REVENUES;
-    * LOSS OF PROFITS;
-    * LOSS OF GOODWILL;
-    * LOSS OR DESTRUCTION OF CONTENT OR DATA.
+    *   LOSS OF USE;
+    *   LOSS OR INTERRUPTION OF BUSINESS;
+    *   LOSS OF REVENUES;
+    *   LOSS OF PROFITS;
+    *   LOSS OF GOODWILL;
+    *   LOSS OR DESTRUCTION OF CONTENT OR DATA.
 
 Nothing in these Terms limits or excludes any of the following liabilities, except to the extent that such liabilities may be waived, limited or excluded under applicable laws and regulations:
 
-* any liability for fraud;
-* any liability for negligently caused death or personal injury;
-* any liability for gross negligence or wilful misconduct; or
-* any other liability to the extent that such other liability cannot be waived, limited or excluded under applicable laws and regulations.
+*   any liability for fraud;
+*   any liability for negligently caused death or personal injury;
+*   any liability for gross negligence or wilful misconduct; or
+*   any other liability to the extent that such other liability cannot be waived, limited or excluded under applicable laws and regulations.
 
 NOTWITHSTANDING ANY OTHER PROVISIONS OF THESE TERMS, NOTHING IN THESE TERMS LIMITS OR EXCLUDES ANY OF YOUR STATUTORY RIGHTS IN YOUR JURISDICTION (INCLUDING ANY RIGHTS UNDER APPLICABLE CONSUMER PROTECTION REGULATION), TO THE EXTENT SUCH STATUTORY RIGHTS MAY NOT BE EXCLUDED OR WAIVED UNDER APPLICABLE LAWS AND REGULATIONS.
 
 YOU AGREE THAT YOU (AND YOUR ORGANISATION, IF YOU ARE USING WECHAT OR WECHAT SOFTWARE ON BEHALF OF SUCH ORGANISATION) INDEMNIFY US AND OUR AFFILIATE COMPANIES FROM AND AGAINST ANY CLAIM, SUIT, ACTION, DEMAND, DAMAGE, DEBT, LOSS, COST, EXPENSE (INCLUDING LITIGATION COSTS AND ATTORNEYS' FEES) AND LIABILITY ARISING FROM:
 
-* A. YOUR USE OF WECHAT OR WECHAT SOFTWARE; OR
-* B. YOUR BREACH OF THESE TERMS.
+*   A. YOUR USE OF WECHAT OR WECHAT SOFTWARE; OR
+*   B. YOUR BREACH OF THESE TERMS.
 
 ### NO LIABILITY FOR THIRD PARTIES
 
@@ -338,26 +338,26 @@ You may terminate your use of WeChat, or any of the services accessible therein,
 
 We may suspend or terminate your access to your account or any or all of WeChat:
 
-* if we undertake maintenance or support of WeChat;
-* to make changes to WeChat as notified by us to you;
-* if we reasonably believe that you have breached these Terms;
-* if your use of WeChat creates risk for us or for other users of WeChat, gives rise to a threat of potential third party claims against us or is potentially damaging to our reputation;
-* if you fail to use WeChat for a prolonged period;
-* if such suspension or termination is required due to applicable laws; or
-* to the extent permitted by applicable laws and regulations, for any other reason in our sole and absolute discretion,
+*   if we undertake maintenance or support of WeChat;
+*   to make changes to WeChat as notified by us to you;
+*   if we reasonably believe that you have breached these Terms;
+*   if your use of WeChat creates risk for us or for other users of WeChat, gives rise to a threat of potential third party claims against us or is potentially damaging to our reputation;
+*   if you fail to use WeChat for a prolonged period;
+*   if such suspension or termination is required due to applicable laws; or
+*   to the extent permitted by applicable laws and regulations, for any other reason in our sole and absolute discretion,
 
 and where reasonably practicable, we will give you advance notice of any suspension or termination.
 
 If we suspend your access to any or all of WeChat then, to the extent permitted by applicable laws and regulations in your jurisdiction:
 
-* a. you remain responsible for all fees accrued through the date of suspension (including where the fees were incurred before suspension date but performance of the relevant obligations were after the suspension date); and
-* b. you remain responsible for any applicable fees for any part of WeChat to which you continue to have access.
+*   a. you remain responsible for all fees accrued through the date of suspension (including where the fees were incurred before suspension date but performance of the relevant obligations were after the suspension date); and
+*   b. you remain responsible for any applicable fees for any part of WeChat to which you continue to have access.
 
 If your access to WeChat is terminated (in whole or in part) by you or us, you agree that:
 
-* a. all of your rights under these Terms will terminate;
-* b. you remain responsible for all fees accrued through the date of termination (including where the fees were incurred before termination date but performance of the relevant obligations were after the termination date); and
-* c. you will immediately permanently delete all copies of WeChat Software to which the termination relates and you will immediately cease accessing and using any such WeChat Software.
+*   a. all of your rights under these Terms will terminate;
+*   b. you remain responsible for all fees accrued through the date of termination (including where the fees were incurred before termination date but performance of the relevant obligations were after the termination date); and
+*   c. you will immediately permanently delete all copies of WeChat Software to which the termination relates and you will immediately cease accessing and using any such WeChat Software.
 
 _Retention and back-up of Your Content_
 
@@ -373,13 +373,13 @@ No person other than you and us will have any right to enforce these Terms, whet
 
 Except to the extent that:
 
-* a. any applicable additional terms incorporated into these Terms provide differently, or
+*   a. any applicable additional terms incorporated into these Terms provide differently, or
     
-* b. the applicable laws and regulations of your jurisdiction mandate otherwise (for example, you may have statutory rights in your jurisdiction in relation to bringing or defending claims in a local court (including small claims court)):
+*   b. the applicable laws and regulations of your jurisdiction mandate otherwise (for example, you may have statutory rights in your jurisdiction in relation to bringing or defending claims in a local court (including small claims court)):
     
-* these Terms and any dispute or claim arising out of or in connection with these Terms will be governed by the law of Singapore; and
+*   these Terms and any dispute or claim arising out of or in connection with these Terms will be governed by the law of Singapore; and
     
-* any dispute, controversy or claim (whether in contract, tort or otherwise) arising out of, relating to, or in connection with these Terms, including their existence, validity, interpretation, performance, breach or termination, will be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre under the Arbitration Rules of the Singapore International Arbitration Centre in force when the Notice of Arbitration is submitted. The seat of the arbitration will be Singapore. There will be one arbitrator only. The arbitration proceedings will be conducted in English.
+*   any dispute, controversy or claim (whether in contract, tort or otherwise) arising out of, relating to, or in connection with these Terms, including their existence, validity, interpretation, performance, breach or termination, will be referred to and finally resolved by arbitration administered by the Singapore International Arbitration Centre under the Arbitration Rules of the Singapore International Arbitration Centre in force when the Notice of Arbitration is submitted. The seat of the arbitration will be Singapore. There will be one arbitrator only. The arbitration proceedings will be conducted in English.
     
 
 ### WECHAT TERMS OF SERVICE (USA-SPECIFIC TERMS)
@@ -406,8 +406,8 @@ Nothing in these Terms excludes, restricts or modifies any guarantee, warranty, 
 
 If any guarantee, condition, warranty or term is implied or imposed by any applicable laws and regulations and cannot be excluded (a “**Non-Excludable Provision**”), and we are able to limit your remedy for a breach of the Non-Excludable Provision, then our liability for breach of the Non-Excludable Provision is limited to one or more of the following at our option:
 
-* in the case of goods, the replacement of the goods or the supply of equivalent goods, the repair of the goods, the payment of the cost of replacing the goods or of acquiring equivalent goods, or the payment of the cost of having the goods repaired; or
-* in the case of services, the supplying of the services again, or the payment of the cost of having the services supplied again.
+*   in the case of goods, the replacement of the goods or the supply of equivalent goods, the repair of the goods, the payment of the cost of replacing the goods or of acquiring equivalent goods, or the payment of the cost of having the goods repaired; or
+*   in the case of services, the supplying of the services again, or the payment of the cost of having the services supplied again.
 
 ### WECHAT TERMS OF SERVICE (UNITED KINGDOM AND EUROPEAN UNION-SPECIFIC TERMS)
 
@@ -433,10 +433,10 @@ In compliance with Article 11 of the DSA, we have designated a specific channel 
 
 For effective communication, we request that all messages to this address include the following information:
 
-* In the subject line and body of the email, the name of the relevant online service/product in which the communications relate to (if applicable)
-* The sender‘s full name
-* The designation of the EU-based authority they represent
-* A contact email affiliated with the respective authority for any necessary follow-up. Preferred language(s) for communication: English. Dutch can also be used for communication if required.
+*   In the subject line and body of the email, the name of the relevant online service/product in which the communications relate to (if applicable)
+*   The sender‘s full name
+*   The designation of the EU-based authority they represent
+*   A contact email affiliated with the respective authority for any necessary follow-up. Preferred language(s) for communication: English. Dutch can also be used for communication if required.
 
 _DSA Single Point of Contact for users_
 
@@ -446,9 +446,9 @@ In compliance with Article 12 of the DSA, our designated electronic single point
 
 Unless you have provided your consent, or to the extent otherwise described in our [**Privacy Policy**](https://www.wechat.com/en/privacy_policy.html), we will only use your information for the following purposes:
 
-* for planning requirements in relation to network operations or network maintenance for any service provided by us, excluding activities which are commercial in nature such as business, market or product research or development;
-* for facilitating interconnection and inter-operability between us and such other telecommunication licensee for the provision of services;
-* for the provision of assistance to law enforcement, judicial or other government agencies;
-* for compliance with any regulatory requirement imposed by the Info-communications Media Development Authority authorizing the use of your information (for example, for the provision of directory assistance services);
-* for managing bad debt and preventing fraud related to the provision of services; and/or
-* for the provision of mobile roaming-related information to in-bound mobile roaming customers in Singapore.
+*   for planning requirements in relation to network operations or network maintenance for any service provided by us, excluding activities which are commercial in nature such as business, market or product research or development;
+*   for facilitating interconnection and inter-operability between us and such other telecommunication licensee for the provision of services;
+*   for the provision of assistance to law enforcement, judicial or other government agencies;
+*   for compliance with any regulatory requirement imposed by the Info-communications Media Development Authority authorizing the use of your information (for example, for the provision of directory assistance services);
+*   for managing bad debt and preventing fraud related to the provision of services; and/or
+*   for the provision of mobile roaming-related information to in-bound mobile roaming customers in Singapore.
