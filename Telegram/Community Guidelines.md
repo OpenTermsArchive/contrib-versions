@@ -3,12 +3,12 @@ User guidance for the EU Digital Services Act
 
 Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 October 2022 on a Single Market For Digital Services and amending Directive 2000/31/EC (Digital Services Act) (the **Digital Services Act**) lays down an EU-wide set of rules on delivering digital services and requires us to make available additional information about:
 
-* [What is not allowed on Telegram](#what-is-not-allowed-on-telegram)
-* [Our approach to content moderation](#how-we-moderate-content)
-* [Measures we take against abuse and how to lift restrictions](#what-action-we-can-take)
-* [Which recommender systems we use](#recommender-systems)
-* [How to get in touch with Telegram](#how-to-get-in-touch-with-telegram-as-a-user)
-* [Average monthly active recipients of the service in the EU](#average-monthly-active-recipients-of-service-in-the-eu)
+*   [What is not allowed on Telegram](#what-is-not-allowed-on-telegram)
+*   [Our approach to content moderation](#how-we-moderate-content)
+*   [Measures we take against abuse and how to lift restrictions](#what-action-we-can-take)
+*   [Which recommender systems we use](#recommender-systems)
+*   [How to get in touch with Telegram](#how-to-get-in-touch-with-telegram-as-a-user)
+*   [Average monthly active recipients of the service in the EU](#average-monthly-active-recipients-of-service-in-the-eu)
 
 > For users accessing Telegram within the European Union, this guide constitutes an integral part of our [Terms of Service](https://telegram.org/tos/eu).
 
@@ -16,10 +16,10 @@ Regulation (EU) 2022/2065 of the European Parliament and of the Council of 19 Oc
 
 To maintain a safe digital environment for all our users, we restrict the following on our public platform:
 
-* **Spam**. We prohibit unsolicited or unwanted advertisement, as well as any form of commercial harassment.
-* **Promoting violence**. We prohibit calls for violence, terrorism, soliciting funds for terrorist organizations, etc.
-* **Illegal sexual content**. We never allow child sexual abuse materials (CSAM), bestiality, and non-consensual publication of sexual materials.
-* **Activities which are recognized as illegal in the majority of countries**. This includes child abuse, selling or offering illegal goods and services (drugs, firearms, forged documents), sharing personal details of others to intimidate or bully them (doxing), etc.
+*   **Spam**. We prohibit unsolicited or unwanted advertisement, as well as any form of commercial harassment.
+*   **Promoting violence**. We prohibit calls for violence, terrorism, soliciting funds for terrorist organizations, etc.
+*   **Illegal sexual content**. We never allow child sexual abuse materials (CSAM), bestiality, and non-consensual publication of sexual materials.
+*   **Activities which are recognized as illegal in the majority of countries**. This includes child abuse, selling or offering illegal goods and services (drugs, firearms, forged documents), sharing personal details of others to intimidate or bully them (doxing), etc.
 
 > All examples are illustrative and non-exhaustive.
 
