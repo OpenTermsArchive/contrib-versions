@@ -58,23 +58,23 @@ No unlawful or prohibited use
 
 **While using this Website, you may NOT do the following:**
 
-* Restrict or inhibit any other user from using and enjoying this Website
-* Post or transmit any unlawful, fraudulent, libelous, defamatory, racist, sexist, obscene, pornographic, profane, threatening, abusive, hateful, offensive, or otherwise objectionable information of any kind
-* Post or transmit any information constituting or encouraging conduct that would constitute a criminal offense, give rise to civil liability, constitute unauthorized practice of a professional service, or otherwise violate any local, state, national, or foreign law, including without limitation U.S. export control laws and regulations
-* Use the “Logitech” or “Logi” names, domain names, trademarks, logos, or insignia in your user or screen name, or in any other manner, that would imply that you work with or are affiliated with Logitech
-*  Pretend that you are, or that you represent, someone else or impersonate any other person or entity
-* Invade the privacy or violate any personal or proprietary right of any person or entity
-* Post or transmit any advertisements, solicitations, chain letters, pyramid or Ponzi schemes, investment opportunities or schemes, or other unsolicited commercial communication (except as otherwise expressly permitted by Logitech), or engage in spamming, phishing, or denial of service attacks
-* Post, publish, transmit, reproduce, distribute, or in any way exploit any information, software, or other material obtained through this Website for commercial purposes (other than as expressly permitted by the provider of such information, software, or other material)
-* Use the Website to generate traffic for other sites
-* Infringe the intellectual property rights or similar rights, including but not limited to copyrights, trademarks, and patents, of any person or entity
-* Upload, post, publish, transmit, reproduce, or distribute in any way information, software, or other material obtained through this Website, which is protected by copyright or other proprietary right, or derivative works with respect thereto, without obtaining permission of the copyright owner or right holder 
-* Upload, post, publish, reproduce, transmit, or distribute in any way any component of this Website itself or derivative works with respect thereto without Logitech’s prior written consent, as this Website is protected under U.S. and international copyright laws
-* Take any action that imposes an unreasonable or disproportionately large load on the infrastructure of this Website or Logitech’s systems or networks, or any systems or networks connected to this Website or to Logitech
-* Forge headers (headings) or otherwise manipulate identifiers in order to disguise the origin of any message or transmittal you send to Logitech on or through this Website or any service offered on or through this Website
-* Use any robot, spider, scraper, or other automated means to access this Website or services for any purpose without our express written permission; however, this provision shall not apply to the indexing or updating of search engines
-* Post or transmit any information or software that contains a virus, Trojan horse, worm, or other harmful component
-* Post or transmit any information, file, or software that contains, but not limited to, a virus, Trojan horse, worm, adware, spyware, crimeware, online graffiti tagger, dropper, rootkit, keylogger, bot, or any other harmful software program or program element
+*   Restrict or inhibit any other user from using and enjoying this Website
+*   Post or transmit any unlawful, fraudulent, libelous, defamatory, racist, sexist, obscene, pornographic, profane, threatening, abusive, hateful, offensive, or otherwise objectionable information of any kind
+*   Post or transmit any information constituting or encouraging conduct that would constitute a criminal offense, give rise to civil liability, constitute unauthorized practice of a professional service, or otherwise violate any local, state, national, or foreign law, including without limitation U.S. export control laws and regulations
+*   Use the “Logitech” or “Logi” names, domain names, trademarks, logos, or insignia in your user or screen name, or in any other manner, that would imply that you work with or are affiliated with Logitech
+*    Pretend that you are, or that you represent, someone else or impersonate any other person or entity
+*   Invade the privacy or violate any personal or proprietary right of any person or entity
+*   Post or transmit any advertisements, solicitations, chain letters, pyramid or Ponzi schemes, investment opportunities or schemes, or other unsolicited commercial communication (except as otherwise expressly permitted by Logitech), or engage in spamming, phishing, or denial of service attacks
+*   Post, publish, transmit, reproduce, distribute, or in any way exploit any information, software, or other material obtained through this Website for commercial purposes (other than as expressly permitted by the provider of such information, software, or other material)
+*   Use the Website to generate traffic for other sites
+*   Infringe the intellectual property rights or similar rights, including but not limited to copyrights, trademarks, and patents, of any person or entity
+*   Upload, post, publish, transmit, reproduce, or distribute in any way information, software, or other material obtained through this Website, which is protected by copyright or other proprietary right, or derivative works with respect thereto, without obtaining permission of the copyright owner or right holder 
+*   Upload, post, publish, reproduce, transmit, or distribute in any way any component of this Website itself or derivative works with respect thereto without Logitech’s prior written consent, as this Website is protected under U.S. and international copyright laws
+*   Take any action that imposes an unreasonable or disproportionately large load on the infrastructure of this Website or Logitech’s systems or networks, or any systems or networks connected to this Website or to Logitech
+*   Forge headers (headings) or otherwise manipulate identifiers in order to disguise the origin of any message or transmittal you send to Logitech on or through this Website or any service offered on or through this Website
+*   Use any robot, spider, scraper, or other automated means to access this Website or services for any purpose without our express written permission; however, this provision shall not apply to the indexing or updating of search engines
+*   Post or transmit any information or software that contains a virus, Trojan horse, worm, or other harmful component
+*   Post or transmit any information, file, or software that contains, but not limited to, a virus, Trojan horse, worm, adware, spyware, crimeware, online graffiti tagger, dropper, rootkit, keylogger, bot, or any other harmful software program or program element
 
 #####   
 Links to third party websites and services
@@ -93,12 +93,12 @@ Procedure for making claims of copyright infringement
 
 At Logitech, we respect the intellectual property of others. If you believe that your copyrighted work has been copied and is accessible on the Website in a way that constitutes copyright infringement, please contact us to report possible copyright infringement. When contacting us, please provide Logitech’s copyright agent with the following information:
 
-* A full description of the copyrighted work or other intellectual property that you claim has been infringed
-* An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest
-* A description of where the material that you claim is infringing is located on this Website 
-* Your name, address, telephone number, and e-mail address
-* A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law
-* A statement signed by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or are authorized to act on the copyright or intellectual property owner’s behalf
+*   A full description of the copyrighted work or other intellectual property that you claim has been infringed
+*   An electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest
+*   A description of where the material that you claim is infringing is located on this Website 
+*   Your name, address, telephone number, and e-mail address
+*   A statement by you that you have a good-faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law
+*   A statement signed by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or are authorized to act on the copyright or intellectual property owner’s behalf
 
 **Logitech’s agent can be reached through any of the contacts listed below:**
 
