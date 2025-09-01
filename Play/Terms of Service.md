@@ -85,17 +85,17 @@ Your contract for the purchase and use of Content is completed once you receive 
 
 **Restrictions**: You may not:
 
-* display (in part or in whole) the Content as part of any public performance or display even if no fee is charged except (a) where such use would not constitute a copyright infringement or violate any other applicable right or (b) as specifically permitted and only in the exact manner provided.
+*   display (in part or in whole) the Content as part of any public performance or display even if no fee is charged except (a) where such use would not constitute a copyright infringement or violate any other applicable right or (b) as specifically permitted and only in the exact manner provided.
 
-* sell, rent, lease, redistribute, broadcast, transmit, communicate, modify, sublicense, transfer, assign any Content to any third party including with regard to any downloads of Content that you may obtain through Google Play except as specifically permitted and only in the exact manner provided.
+*   sell, rent, lease, redistribute, broadcast, transmit, communicate, modify, sublicense, transfer, assign any Content to any third party including with regard to any downloads of Content that you may obtain through Google Play except as specifically permitted and only in the exact manner provided.
 
-* use Google Play or any Content in conjunction with any stream-ripping, stream capture or similar software to record or create a copy of any Content that is presented to you in streaming format.
+*   use Google Play or any Content in conjunction with any stream-ripping, stream capture or similar software to record or create a copy of any Content that is presented to you in streaming format.
 
-* use Content as part of any service for sharing, lending or multi-person use, or for the purpose of any other institution, except as specifically permitted and only in the exact manner provided.
+*   use Content as part of any service for sharing, lending or multi-person use, or for the purpose of any other institution, except as specifically permitted and only in the exact manner provided.
 
-* attempt to, or assist, authorize or encourage others to circumvent, disable or defeat any of the security features or components that protect, obfuscate or otherwise restrict access to any Content or Google Play.
+*   attempt to, or assist, authorize or encourage others to circumvent, disable or defeat any of the security features or components that protect, obfuscate or otherwise restrict access to any Content or Google Play.
 
-* remove any watermarks, labels or other legal or proprietary notices included in any Content, or attempt to modify any Content obtained through Google Play, including any modification for the purpose of disguising or changing any indications of the ownership or source of Content.
+*   remove any watermarks, labels or other legal or proprietary notices included in any Content, or attempt to modify any Content obtained through Google Play, including any modification for the purpose of disguising or changing any indications of the ownership or source of Content.
 
 **Third-Party Provisions.** Notwithstanding anything to the contrary in these Terms, the third parties who license their Content to Google are intended third party beneficiaries under these Terms solely with respect to the specific provisions of these Terms that directly concern their Content (**“Third-Party Provisions”**), and solely for the purpose of enabling such third parties to enforce their rights in such Content. For the avoidance of doubt, nothing in these Terms confers a third-party beneficiary right upon any party, with respect to any provision that falls outside the Third Party Provisions, which includes but is not limited to any provisions or agreements incorporated by reference, or that may be referenced without incorporation, in these Terms.
 
