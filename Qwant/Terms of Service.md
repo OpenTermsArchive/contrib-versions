@@ -28,12 +28,12 @@ nformation provided on the Services have only informational purpose. We make our
 
 Therefore, we decline all responsibility, of any nature:
 
-* in case of inaccuracy, lack of update, error or omissions in information available through the Services;
-* for the absence of availability of information;
-* for any damage, direct and/or indirect, whichever are the causes, origins, nature or consequences, induced by the access by anyone to the Services of by the impossibility to access them;
-* for the use of the Services and/or for the credit granted to any information obtained directly or indirectly from the Services;
-* for decisions based on information obtained through the Services, and for the use that may be done by third parties;
-* in case of inadequacies between the provided information, the offered Services, and your needs
+*   in case of inaccuracy, lack of update, error or omissions in information available through the Services;
+*   for the absence of availability of information;
+*   for any damage, direct and/or indirect, whichever are the causes, origins, nature or consequences, induced by the access by anyone to the Services of by the impossibility to access them;
+*   for the use of the Services and/or for the credit granted to any information obtained directly or indirectly from the Services;
+*   for decisions based on information obtained through the Services, and for the use that may be done by third parties;
+*   in case of inadequacies between the provided information, the offered Services, and your needs
 
 Non commercial links
 --------------------
@@ -86,10 +86,10 @@ QWANT’s policy regarding the privacy of its users meets a very high level of r
 
 All of the processing that we have to carry out and the methods that we apply to protect your privacy are detailed in our [Privacy Policy](https://about.qwant.com/fr/legal/confidentialite/), which states in particular:
 
-* the reasons why we collect some of your personal data and how we use it;
-* the security measures we use to protect the confidentiality of your personal data, particularly in the event of transfer to a partner;
-* how long we keep your data;
-* the rights you have over the personal data you provide to us and the processing of that data.
+*   the reasons why we collect some of your personal data and how we use it;
+*   the security measures we use to protect the confidentiality of your personal data, particularly in the event of transfer to a partner;
+*   how long we keep your data;
+*   the rights you have over the personal data you provide to us and the processing of that data.
 
 For any delisting request, please refer to the help page “[How to exercise my right to be forgotten?](https://help.qwant.com/help/overview/right-to-be-forgotten/)“.
 
@@ -105,9 +105,9 @@ Applicable law
 
 The Services and their TOS are subject to French law, wherever they may be used. In the event of that amicable solutions fail or are not sought, any dispute arising from these provisions may be brought before the competent courts.
 
-* Mise à jour : 20/05/2024
+*   Mise à jour : 20/05/2024
 
-* [Privacy policy](https://about.qwant.com/en/legal/confidentialite/)
-* [Terms of use](https://about.qwant.com/en/legal/qwant-search/)
-* [Legal notices](https://about.qwant.com/en/legal/mentions-legales/)
-* [Ranking](https://about.qwant.com/en/legal/classement/)
+*   [Privacy policy](https://about.qwant.com/en/legal/confidentialite/)
+*   [Terms of use](https://about.qwant.com/en/legal/qwant-search/)
+*   [Legal notices](https://about.qwant.com/en/legal/mentions-legales/)
+*   [Ranking](https://about.qwant.com/en/legal/classement/)
