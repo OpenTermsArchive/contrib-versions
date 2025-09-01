@@ -19,8 +19,8 @@ Your use of Google Pay requires that you agree to the following terms. Please re
 
 By agreeing to the Terms, you represent that you are:
 
-* At least as old as the age specified [here](https://support.google.com/accounts/answer/1350409); and
-* capable of entering into a legally binding agreement with Google.
+*   At least as old as the age specified [here](https://support.google.com/accounts/answer/1350409); and
+*   capable of entering into a legally binding agreement with Google.
 
 You will also need a Google Account; a device that meets the Service's system and compatibility requirements, which may change from time to time; working Internet access; and compatible software. Your ability to use Google Pay, and Google Pay's performance may be affected by these factors. Such system requirements are your responsibility.
 
@@ -32,7 +32,7 @@ If you’re a parent or legal guardian, and you allow your child to use the Serv
 
 Google Pay lets you save the following to your Google Account, manage them in one place and transact with Google and third parties using them:
 
-* Credit cards, debit cards and other kinds of payment methods that you can use to pay in shops, in apps, on the web and in other ways;
+*   Credit cards, debit cards and other kinds of payment methods that you can use to pay in shops, in apps, on the web and in other ways;
 
 ### 4\. Payment methods
 
@@ -40,12 +40,12 @@ Google Pay lets you save the following to your Google Account, manage them in on
 
 With Google Pay, you can save and manage various kinds of payment methods in your Google Account (collectively, **'Payment Methods'**), including:
 
-* Payment cards such as credit, debit and prepaid cards (**'Payment Cards'**)
-* Bank-issued virtual account numbers or virtual card numbers representing your Payment Cards ('**Virtual Card Numbers'** or **'Virtual Account Numbers'**)
-* Bank accounts
-* Operator billing accounts
-* Gift cards
-* Digital wallets or accounts that you have with companies other than Google (**'Linked Third-Party Accounts'**)
+*   Payment cards such as credit, debit and prepaid cards (**'Payment Cards'**)
+*   Bank-issued virtual account numbers or virtual card numbers representing your Payment Cards ('**Virtual Card Numbers'** or **'Virtual Account Numbers'**)
+*   Bank accounts
+*   Operator billing accounts
+*   Gift cards
+*   Digital wallets or accounts that you have with companies other than Google (**'Linked Third-Party Accounts'**)
 
 Availability of a given Payment Method or its compatibility with Google Pay may depend on your country of residence and other factors. The compatible Payment Method types, as well as the Payment Method uses and Google Pay features described below may not be available everywhere, and may change at any time.
 
