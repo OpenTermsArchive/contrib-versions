@@ -57,13 +57,13 @@ In its paid version, Olvid processes the data strictly necessary for the invoici
 
 We collect information about You only:
 
-* when You purchase license packages (as a representative of the entity for which You work),
+*   when You purchase license packages (as a representative of the entity for which You work),
     
-* when You contact Us or interact with Us by any other means (e-mail, telephone, social networks…),
+*   when You contact Us or interact with Us by any other means (e-mail, telephone, social networks…),
     
-* when You respond to one of Our satisfaction surveys,
+*   when You respond to one of Our satisfaction surveys,
     
-* when You subscribe to Our marketing communications.
+*   when You subscribe to Our marketing communications.
     
 
 ### 2.2. Why Do We Collect Your Data?
@@ -76,11 +76,11 @@ These purposes are specific and legitimate and, under no circumstances will Your
 
 Thus, We are likely to use Your data, as the case may be, for:
 
-* invoice the user licenses,
+*   invoice the user licenses,
     
-* respond to Your contact requests,
+*   respond to Your contact requests,
     
-* manage possible complaints.
+*   manage possible complaints.
     
 
 ### 2.3 What data do we collect?
@@ -91,13 +91,13 @@ By **Personal Data**, we mean any information allowing us to identify you, direc
 
 As part of the sale of license packages, the information that We may collect and process is as follows:
 
-* **Your first and last names**\*
-* **Your company’s name**\*
-* **Your contact information (phone and postal address)**\*
-* **Your email**\*
-* **Your bank and financial data**\* to proceed to the billing
-* **Your contact history** with Us to provide you with assistance
-* **The IP address** for the use of the application. We remind you that, like any application, Olvid uses for its operation the IP addresses of the users, without ever consulting, collecting or keeping them.
+*   **Your first and last names**\*
+*   **Your company’s name**\*
+*   **Your contact information (phone and postal address)**\*
+*   **Your email**\*
+*   **Your bank and financial data**\* to proceed to the billing
+*   **Your contact history** with Us to provide you with assistance
+*   **The IP address** for the use of the application. We remind you that, like any application, Olvid uses for its operation the IP addresses of the users, without ever consulting, collecting or keeping them.
 
 The **mandatory fields** are those indicated as such by the **symbol (\*)**. If You do not fill in these fields, We will unfortunately not be able to access your request. The other data are optional, i.e. You are free to fill them in, or not, without any particular obligation or inconvenience to You.
 
@@ -133,21 +133,21 @@ Transactions with a third party recipient are subject to a contract in order to 
 
 What are Your rights and how to exercise them? You have, within the limits provided by the regulations in force, several rights regarding the processing of Your data:
 
-* The right to be informed about the use of Your personal information.
+*   The right to be informed about the use of Your personal information.
     
-* The right to access the personal information that We have about You.
+*   The right to access the personal information that We have about You.
     
-* The right to request the correction of erroneous personal information that We have about You.
+*   The right to request the correction of erroneous personal information that We have about You.
     
-* The right to request that We delete Your data, or that We stop processing or collecting it, in certain circumstances.
+*   The right to request that We delete Your data, or that We stop processing or collecting it, in certain circumstances.
     
-* The right to withdraw your consent to receive news from Us and to object to the processing of Your data (in particular regarding Us sending You direct marketing messages).
+*   The right to withdraw your consent to receive news from Us and to object to the processing of Your data (in particular regarding Us sending You direct marketing messages).
     
-* The right to request that We provide You with Your data or transfer it to another service provider (“portability” right),
+*   The right to request that We provide You with Your data or transfer it to another service provider (“portability” right),
     
-* The right to set guidelines regarding your Personal Data after your death; and
+*   The right to set guidelines regarding your Personal Data after your death; and
     
-* The right to complain to the national authority in charge of the protection of personal data. In France, this is the CNIL, Commission Nationale de l’Informatique et des Libertés, whose site can be [accessed here](https://www.cnil.fr/en/home)).
+*   The right to complain to the national authority in charge of the protection of personal data. In France, this is the CNIL, Commission Nationale de l’Informatique et des Libertés, whose site can be [accessed here](https://www.cnil.fr/en/home)).
     
 
 For any question and/or to exercise Your rights, You may contact Olvid, by electronic or postal mail, by sending a letter accompanied by a copy of any relevant identity document to the following address:
@@ -173,9 +173,9 @@ You can join our Linkedin or Twitter accounts from our Site and, through them, f
 
 We are, however, not responsible for the processing that may be made of Your data by these social networks. For more information on this subject, as well as to know Your rights in this respect and to set the options to protect Your privacy, We invite You to consult the privacy policy of the concerned social networks.
 
-* LinkedIn Privacy Policy: [available here](https://www.linkedin.com/legal/privacy-policy)
+*   LinkedIn Privacy Policy: [available here](https://www.linkedin.com/legal/privacy-policy)
     
-* Twitter Privacy Policy: [accessible here](https://twitter.com/privacy)
+*   Twitter Privacy Policy: [accessible here](https://twitter.com/privacy)
     
 
 8\. Applicable law and litigation
