@@ -3,26 +3,26 @@
 
 View table of contents
 
-1. [ABOUT THIS AGREEMENT](#about-this-agreement)
-2. [PSN SERVICES AND THIRD-PARTY SERVICES ON PSN](#psn-services-and-third-party-services-on-psn)
-3. [ACCOUNT CREATION AND SECURITY](#account-creation-and-security)
-4. [CHILD ACCOUNTS AND PARENTAL CONTROLS](#child-accounts-and-parental-controls)
-5. [CODE OF CONDUCT](#code-of-conduct)
-6. [USER INFORMATION AND USER GENERATED CONTENT](#user-information-and-user-generated-content)
-7. [VIRTUAL WALLET](#virtual-wallet)
-8. [PLAYSTATION STORE](#playstation-store)
-9. [PREPAID CARDS AND PRODUCT CODES](#prepaid-cards-and-product-codes)
-10. [CONTENT LICENSE AND RESTRICTIONS](#content-license-and-restrictions)
-11. [VIDEO CONTENT](#video-content)
-12. [ACCOUNT TERMINATION, CONSOLE SUSPENSION, AND OTHER REMEDIAL ACTIONS](#account-termination-console-suspension-and-other-remedial-actions)
-13. [MAINTENANCE AND UPGRADES](#maintenance-and-upgrades)
-14. [BINDING INDIVIDUAL ARBITRATION](#binding-individual-arbitration)
-15. [GOVERNING LAW AND JURISDICTION](#governing-law-and-jurisdiction)
-16. [GENERAL LEGAL](#general-legal)
-17. [WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY](#warranty-disclaimer-and-limitation-of-liability)
-18. [CONTACT INFORMATION](#contact-information)
+1.  [ABOUT THIS AGREEMENT](#about-this-agreement)
+2.  [PSN SERVICES AND THIRD-PARTY SERVICES ON PSN](#psn-services-and-third-party-services-on-psn)
+3.  [ACCOUNT CREATION AND SECURITY](#account-creation-and-security)
+4.  [CHILD ACCOUNTS AND PARENTAL CONTROLS](#child-accounts-and-parental-controls)
+5.  [CODE OF CONDUCT](#code-of-conduct)
+6.  [USER INFORMATION AND USER GENERATED CONTENT](#user-information-and-user-generated-content)
+7.  [VIRTUAL WALLET](#virtual-wallet)
+8.  [PLAYSTATION STORE](#playstation-store)
+9.  [PREPAID CARDS AND PRODUCT CODES](#prepaid-cards-and-product-codes)
+10.  [CONTENT LICENSE AND RESTRICTIONS](#content-license-and-restrictions)
+11.  [VIDEO CONTENT](#video-content)
+12.  [ACCOUNT TERMINATION, CONSOLE SUSPENSION, AND OTHER REMEDIAL ACTIONS](#account-termination-console-suspension-and-other-remedial-actions)
+13.  [MAINTENANCE AND UPGRADES](#maintenance-and-upgrades)
+14.  [BINDING INDIVIDUAL ARBITRATION](#binding-individual-arbitration)
+15.  [GOVERNING LAW AND JURISDICTION](#governing-law-and-jurisdiction)
+16.  [GENERAL LEGAL](#general-legal)
+17.  [WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY](#warranty-disclaimer-and-limitation-of-liability)
+18.  [CONTACT INFORMATION](#contact-information)
 
-1. **ABOUT THIS AGREEMENT**
+1.  **ABOUT THIS AGREEMENT**
 
 **1.1**. Please read this entire agreement and indicate whether you accept its terms. It is a contract between you and Sony Interactive Entertainment LLC ("**SIE**"). Access to and use of PlayStation Network (“**PSN**”) is expressly conditioned upon acceptance of this agreement.  You accept this agreement by creating an account for PSN (**“Account**”), by making a purchase on the PlayStation Store, or through any other use of PSN, or by continuing to use PSN after being notified of a change to these terms. If you do not agree to these terms, you will not be able to create an Account and will not be able to access PSN or its products or services.
 
@@ -43,7 +43,7 @@ If you are accepting this Agreement on behalf of a child under 18 (“**child**�
 
 **1.6.** Breach of these Terms by you or your Child (if accepting these Terms on behalf of a child) may result in the temporary or permanent suspension of your console or your Account, including any accounts you may have set up for a child under 18 (“Child Accounts”) under your Account, and loss of access, or restricted access, to the content associated with those Accounts. See Section 12 for more information.  
 
-1. **PSN SERVICES AND THIRD-PARTY SERVICES ON PSN**
+1.  **PSN SERVICES AND THIRD-PARTY SERVICES ON PSN**
 
 **2.1.** **PSN Services** include PlayStation Network, PlayStation Store, PlayStation Plus, PlayStation Video, PlayStation Direct, and those websites, products and services that SIE, and its affiliates offer through or in connection with PSN or your Account.
 
@@ -53,7 +53,7 @@ If you are accepting this Agreement on behalf of a child under 18 (“**child**�
 
 **2.4.** SIE does not endorse Third-Party Services promoted or marketed on PSN or through PSN Content.
 
-1. **ACCOUNT CREATION, USAGE AND SECURITY**
+1.  **ACCOUNT CREATION, USAGE AND SECURITY**
 
 **3.1.**   All information provided during Account creation, and during the use of your Account, must be accurate and complete. We reserve the right to suspend, terminate or restrict any Account (including as stated in Section 12.2 of this Agreement) that uses or was created using false information, or that we determine was created or used for a purpose that violates this Agreement.    
 
@@ -67,7 +67,7 @@ If you are accepting this Agreement on behalf of a child under 18 (“**child**�
 
 **3.6.** We may request identifying documentation or information from you as part of your Account creation (or at any time thereafter) in order for you to create an Account or for us to provide certain offerings, functionality, or features to you; if we have a reasonable suspicion of fraud, illegal activity, that your Account may have been compromised, or that you or your Account is in violation of these terms; to avoid harm to SIE, its affiliates, licensors, or players; or as may be required by law. We reserve the right to suspend, terminate, or restrict your Account and PlayStation Device, and your participation in or access to offerings, functionality, or features, if you do not provide such documentation or information, or based on our review of such documentation and information.  
 
-1. **CHILD ACCOUNTS AND PARENTAL CONTROLS**
+1.  **CHILD ACCOUNTS AND PARENTAL CONTROLS**
 
 **4.1.** If you are the parent or legal guardian of a child who will access PSN, you are responsible for creating a Child Account for them.  If you have more than one child, you will need to create a separate Child Account for each one. In order to create a Child Account, you will first need to set up an Account for yourself.    
 
@@ -89,7 +89,7 @@ If you are accepting this Agreement on behalf of a child under 18 (“**child**�
 
 **4.10.** Your child can also review our PSN Rules at [https://www.playstation.com/legal/psn-rules/](https://www.playstation.com/legal/psn-rules/). The PSN Rules do not contain the full Terms, but they highlight the most important parts for our younger users.
 
-1. **CODE OF CONDUCT**
+1.  **CODE OF CONDUCT**
 
 **5.1. Code of Conduct.**
 
@@ -179,7 +179,7 @@ For more information, find additional resources at playstation.com/safety and pl
 
 **5.2.** We are not responsible for monitoring or recording any activity or communications on PSN, although we may do so in order to investigate violations of or enforce this Agreement, or to protect the rights and property of SIE, its partners, and customers. We are not liable for any violation of this Agreement by you or by any other PSN user. Violations of our Code of Conduct may result in moderation action taken against your Account and PlayStation Devices (see Section 12 for more information). We may also notify law enforcement (or another appropriate government agency) if the breach involves a threat to the life or safety of yourself or others, or any other activity that we believe to be unlawful. If you are rude to, or abuse or threaten, our employees, agents, or representatives, in addition to any other actions we may take under this Agreement, we may restrict you from contacting us by email or refuse to provide you with any further consumer support.
 
-1. **USER INFORMATION AND USER GENERATED CONTENT** 
+1.  **USER INFORMATION AND USER GENERATED CONTENT** 
 
 **6.1. User Information.** We may provide functionality allowing you to share information relating to your presence on PSN, in including your name, sign-in ID, Online ID, profile, pictures, friends list, communications and interactions (including by voice), activities, and information on your gameplay, purchases made and content viewed (collectively, "**User Information**"), or to recommend your favorite Content via PSN. Only share User Information with friends who you know want to receive it, and whose age is appropriate for the Content you are sharing.  
 
@@ -193,7 +193,7 @@ Some Content on PSN may have features that allow your User Information to be rec
 
 **6.4.** You agree to cooperate in resolving any dispute that may arise from your User Information or UGC. 
 
-1. **VIRTUAL WALLET**
+1.  **VIRTUAL WALLET**
 
 **7.1.** Your Account has an associated virtual wallet, which can store funds from an outside payment method (e.g., credit card, PayPal Account), or from vouchers or prepaid card redemptions (**“PSN Wallet**”).  Child Accounts that are associated with your Account do not have a separate wallet.  All purchases made by any associated Child Accounts will be made through your PSN Wallet.  
 
@@ -201,7 +201,7 @@ Some Content on PSN may have features that allow your User Information to be rec
 
 **7.3.** FUNDS ADDED TO THE PSN WALLET ARE NON-REFUNDABLE AND NON-TRANSFERABLE EXCEPT WHERE THE LAW REQUIRES. WE HAVE NO OBLIGATION TO REVERSE OR REFUND UNAUTHORIZED CHARGES MADE USING ANY PAYMENT METHOD TO FUND THE WALLET. WALLET FUNDS THAT ARE DEEMED ABANDONED OR UNUSED BY LAW WILL NOT BE RETURNED OR RESTORED.
 
-1. **PLAYSTATION STORE**
+1.  **PLAYSTATION STORE**
 
 **8.1. Access and Use.** PlayStation Store is where you can buy digital games, subscriptions, virtual currency, and other digital content. You can pay for purchases on PlayStation Store using PSN Wallet funds or any other current, valid payment method we may identify as acceptable on the Store, as may be updated from time to time, and which may include payment through your account with a third party (an "Approved Payment Method"). You must be signed into your Account to complete your purchase. If you delete or close your Account, you may lose access to and use of any purchased Content.  
 
@@ -256,7 +256,7 @@ You can update your Approved Payment Method in Account Settings. We may also upd
 
 **8.19. Inaccuracy Disclaimer.** From time to time there may be information on the PlayStation Store, and related PlayStation websites, that contain errors, inaccuracies, or omissions that relate to product descriptions, pricing, offer terms, and availability. We reserve the right to correct any such errors, inaccuracies, or omissions and to change or update such information at any time without prior notice to you. 
 
-1. **PREPAID CARDS AND PRODUCT CODES**
+1.  **PREPAID CARDS AND PRODUCT CODES**
 
 **9.1.** SIE or its affiliates may provide prepaid cards that allow users to redeem PSN Content or fund the wallet. If you acquire a prepaid card that has a value that, when added to the wallet's existing balance, exceeds the Limit, you will not be able to apply the value of the prepaid card to the wallet until sufficient funds have been spent from the wallet to allow the sum of the full value of the prepaid card and wallet to be equal to or less than the Limit. Your wallet will only accept prepaid cards with currency value from the same country as the one designated for your Account.
 
@@ -264,7 +264,7 @@ You can update your Approved Payment Method in Account Settings. We may also upd
 
 **9.3.** SIE is not liable for any claims relating to prepaid cards or product codes, including any problems or defects relating to those cards or codes. Your use of these instruments is subject to this Agreement and their respective Usage Terms (if any).
 
-1. **CONTENT LICENSE AND RESTRICTIONS**
+1.  **CONTENT LICENSE AND RESTRICTIONS**
 
 **10.1.** All intellectual property rights subsisting in PSN Content, including all software, data, services, and other content subsisting in or used in connection with PSN, the Online ID and access to content and hardware used in connection with PSN belong to SIE, its affiliates, and its licensors. Use of the terms "own," "ownership", "purchase," "sale," "sold," "sell," "rent" or "buy" in this Agreement or in connection with PSN Content does not mean or imply any transfer of ownership of any content, data or software or any intellectual property rights from SIE, its affiliates or its licensors to any user or third party.
 
@@ -288,7 +288,7 @@ You can update your Approved Payment Method in Account Settings. We may also upd
 
 **10.11.** Some PlayStation Devices may be set to download Content automatically from PSN without notice to you if you sign into PSN. This Content may include featured content that we believe will be of interest to you, such as game demos or free trial promotions. You can change your device settings so that it does not download content automatically by setting the automatic download option to "OFF".
 
-1. **VIDEO CONTENT**
+1.  **VIDEO CONTENT**
 
 **11.1.**  Video Content includes any recordings or live streams of sports, music concerts and other entertainment events, television shows and movies made available for rental, purchase, or free viewing through PSN.
 
@@ -314,7 +314,7 @@ You bear all responsibility for ensuring that you have the capabilities to view 
 
 **11.9.** Proper activation of a supported Authorized Device by the Account that ordered the Video Content is required to download, stream or view the content. Video Content is connected to the Account used to order that content and cannot be transferred from one Account to another. Each Account can activate no more than the maximum number of Authorized Devices, and each Authorized Device can only be activated for a limited number of Accounts. 
 
-1. **ACCOUNT TERMINATION, CONSOLE SUSPENSION, AND OTHER REMEDIAL ACTIONS**
+1.  **ACCOUNT TERMINATION, CONSOLE SUSPENSION, AND OTHER REMEDIAL ACTIONS**
 
 **12.1. Termination by You.** You may terminate your Account at any time by contacting PlayStation Support. The best way to request closure of an Account is by going to: support.playstation.com/livechatrequest. Please have the following information readily available: (a) Sign-in ID (email address); (b) PSN ID; and (c) account security information. 
 
@@ -331,13 +331,13 @@ we may permit your associated Child Accounts to remain open. In those cases, you
 
 **12.6.** **Other Remedial Actions**. If we determine that you or any of your associated Child Accounts have violated this Agreement (including the Community Code of Conduct, the Usage Terms, or any other incorporated terms), or that your actions have injured or damaged SIE or the PSN community, we reserve the right to take any action we believe necessary to remedy the violation or to protect SIE’s interests, including: (a) the automatic removal or blockage of content associated with those Accounts; (b) implementation of upgrades or devices intended to discontinue unauthorized use; (c) the permanent or temporary disablement of access to any PSN Content, PlayStation Devices, products, services or features; (d) notifying law enforcement or the appropriate authority; and (e) initiating legal action.
 
-1. **MAINTENANCE AND UPGRADES**
+1.  **MAINTENANCE AND UPGRADES**
 
 From time to time, it may become necessary to provide certain content to you to ensure that PSN, PSN Content, or your PlayStation Devices are functioning properly. Some content may be provided automatically without notice when you sign in. This content may include automatic updates or upgrades that may change your current operating system, cause a loss of data or content or cause a loss of functionalities or utilities. Upgrades or updates may be provided for system software for your PlayStation Device or other devices. Access or use to any system software is subject to terms of a separate end user license agreement. You authorize us to provide this content, updates and upgrades, and you acknowledge that we are not liable for any damages, loss of data or loss of functionalities arising from our delivery of these content, updates, upgrades and maintenance services. It is recommended that you regularly back up any archivable data.  
   
 We may indefinitely suspend, or discontinue online access to content or data associated with your Account at any time, including for service deprecations, maintenance services, or upgrades, without notice or liability. We may also discontinue offering certain PSN Content or features.  For any PSN Content that uses online servers, we make no commitment to continue to make those servers available. In addition, we reserve the right to delete player account data that we determine to have been dormant.
 
-1. **BINDING INDIVIDUAL ARBITRATION  
+1.  **BINDING INDIVIDUAL ARBITRATION  
     14.1.** **Purpose.** The term "Dispute" means any dispute, claim, or controversy between you and Sony Interactive Entertainment LLC, Sony Interactive Entertainment Inc., or any of their current or former affiliates, including parents or subsidiaries, and any predecessor or successor entity to any of the foregoing, including Sony Computer Entertainment America LLC, and Sony Interactive Entertainment America LLC (collectively, "**Sony Entities**") regarding PSN or PSN Content, or the use of any PlayStation Devices or other devices sold by a Sony Entity to access PSN Content, whether based in contract, statute, regulation, ordinance, tort (including fraud, misrepresentation, fraudulent inducement, or negligence), or any other legal or equitable theory, and includes the validity, enforceability or scope of this "BINDING INDIVIDUAL ARBITRATION" section (with the exception of the enforceability of the Class Action Waiver clause below). "Dispute" is to be given the broadest possible meaning that will be enforced. If you have a Dispute with any Sony Entity or any of a Sony Entity's officers, directors, employees and agents that cannot be resolved through negotiation within the time frame described in the "Notice of Dispute" clause below, you and the Sony Entity that you have a Dispute with agree to seek resolution of the Dispute only through arbitration of that Dispute in accordance with the terms of this section, and not litigate any Dispute in court, except for those matters listed in the Exclusions from Arbitration clause. Arbitration means that the Dispute will be resolved by a neutral arbitrator instead of in a court by a judge or jury.  
     **14.2.**  **Exclusions from Arbitration**. YOU AND THE SONY ENTITIES AGREE THAT ANY CLAIM FILED BY YOU OR BY A SONY ENTITY IN SMALL CLAIMS COURT ARE NOT SUBJECT TO THE ARBITRATION TERMS CONTAINED IN THIS SECTION.  
     **14.3.** **Opt-Out Right.** YOU HAVE THE RIGHT TO OPT OUT OF BINDING ARBITRATION AND CLASS ACTION WAIVER WITHIN 30 DAYS. IF YOU DO NOT WISH TO BE BOUND BY THE BINDING ARBITRATION AND CLASS ACTION WAIVER IN THIS SECTION, YOU MUST NOTIFY US IN WRITING WITHIN 30 DAYS OF THE DATE THAT YOU ACCEPT THIS AGREEMENT UNLESS A LONGER PERIOD IS REQUIRED BY APPLICABLE LAW. YOUR WRITTEN NOTIFICATION MUST BE MAILED TO 6080 CENTER DRIVE, 10TH FLOOR, LOS ANGELES, CA 90045, ATTN: LEGAL DEPARTMENT/ARBITRATION AND MUST INCLUDE: (1) YOUR NAME, (2) YOUR ADDRESS, (3) YOUR PSN SERVICES ONLINE ID, IF YOU HAVE ONE, AND (4) A CLEAR STATEMENT THAT YOU DO NOT WISH TO RESOLVE DISPUTES WITH ANY SONY ENTITY THROUGH ARBITRATION.  
@@ -348,19 +348,19 @@ We may indefinitely suspend, or discontinue online access to content or data ass
     **14.8. Arbitration Location**. You or the applicable Sony Entity may initiate arbitration in either San Mateo County, California or the United States county in which you reside. In the event that you select the county of your United States residence, the Sony Entity may transfer the arbitration to San Mateo, County in the event that it agrees to pay any additional fees or costs you incur as a result of the change in location as determined by the arbitrator.  
     **14.9**. **Severability.** If any clause within this arbitration agreement (other than the Class Action Waiver clause above) is found to be illegal or unenforceable, that clause will be severed from this section, and the remainder of this arbitration agreement will be given full force and effect. If the Class Action Waiver clause is found to be illegal or unenforceable in its entirety, this entire arbitration agreement will be unenforceable, and the Dispute will be decided by a court.  
     **14.10.** **Continuation**. This section survives any termination of this agreement or the provision of PSN Services to you.
-2. **GOVERNING LAW AND JURISDICTION** The laws of the State of California, without regard to conflict-of-law rules, govern this agreement and any dispute between you and the Sony Entities. Any dispute not subject to arbitration and not initiated in small claims court may be brought by either party in a court of competent jurisdiction in either the Superior Courts for the State of California in and for the County of San Mateo or in the United States District Court for the Northern District of California. Each party submits itself to the exclusive jurisdiction and venue of those courts, and waives all jurisdictional, venue and inconvenient forum objections to those courts. In any litigation to enforce any part of this agreement, all costs and fees, including attorney's fees, will be paid by the non-prevailing party.
-3. **GENERAL LEGAL  
+2.  **GOVERNING LAW AND JURISDICTION** The laws of the State of California, without regard to conflict-of-law rules, govern this agreement and any dispute between you and the Sony Entities. Any dispute not subject to arbitration and not initiated in small claims court may be brought by either party in a court of competent jurisdiction in either the Superior Courts for the State of California in and for the County of San Mateo or in the United States District Court for the Northern District of California. Each party submits itself to the exclusive jurisdiction and venue of those courts, and waives all jurisdictional, venue and inconvenient forum objections to those courts. In any litigation to enforce any part of this agreement, all costs and fees, including attorney's fees, will be paid by the non-prevailing party.
+3.  **GENERAL LEGAL  
     16.1.**  **Modifications.** We may modify the terms of this agreement at any time, including imposing a fee for creating Accounts or for any PSN Service. A printable copy of this agreement is available at www.playstation.com/legal. If material changes to this agreement are made, you will be notified by e-mail or other communication when you sign in to PSN Services. Your continued use of PSN Services, including use by your children on the associated Accounts, will signify your acceptance of those changes. If you do not accept material changes to the agreement, please do not use PSN Services, and contact customer service at the addresses located at the end of this agreement to terminate this agreement and your Accounts.  
     **16.2.** **Successors and Assigns.** This agreement inures to the benefit of the parties, including any of our successors in interest. We have the right to assign our rights and obligations under this agreement to any affiliates or to any Sony Entity.  
     **16.3. Severability.** If any provision of this agreement is held illegal or unenforceable by a court of competent jurisdiction, that provision will be severed, and the remainder of the agreement will remain in full force and effect.
 
-1. **WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY**
+1.  **WARRANTY DISCLAIMER AND LIMITATION OF LIABILITY**
 
 **17.1.** **No Warranty.** No warranty is given about the quality, functionality, availability or performance of PSN, PSN Services, or any feature or Content offered on or through PSN. All services and content are provided "AS IS" and "AS AVAILABLE" with all faults. We may change, add or remove functionalities or features in our PSN Services, and we may suspend or stop our services altogether. We do not warrant that the service and content will be uninterrupted, error-free or without delays. In addition to the limitations of liability of this agreement, we expressly disclaim any implied warranty of merchantability, warranty of fitness for a particular purpose and warranty of non-infringement. We assume no liability for any inability to purchase, access, download or use any content, data or service. YOUR SOLE AND EXCLUSIVE RECOURSE IN THE EVENT OF ANY DISSATISFACTION WITH OR DAMAGE ARISING FROM PSN OR ITS PRODUCTS OR SERVICES, OR IN CONNECTION WITH THIS AGREEMENT, AND OUR MAXIMUM LIABILITY UNDER THIS AGREEMENT OR WITH RESPECT TO YOUR USE OF OR ACCESS TO PSN SERVICES IS LIMITED TO YOUR DIRECT DAMAGES, NOT TO EXCEED THE UNUSED FUNDS IN YOUR WALLET AS OF THE DATE OF TERMINATION. EXCEPT AS STATED IN THE FOREGOING SENTENCE, WE EXCLUDE ALL LIABILITY FOR ANY LOSS OF DATA, DAMAGE CAUSED TO YOUR SOFTWARE OR HARDWARE, AND ANY OTHER LOSS OR DAMAGE SUFFERED BY YOU OR ANY THIRD PARTY, WHETHER DIRECT, INDIRECT, INCIDENTAL, SPECIAL, OR CONSEQUENTIAL AND HOWEVER ARISING, AS A RESULT OF ACCESSING OR DOWNLOADING ANY CONTENT TO YOUR AUTHORIZED SYSTEM, OR YOUR 4K ULTRA HD MEDIA PLAYER SYSTEM, BRAVIA® TELEVISION, SONY BLU-RAY® DISC PLAYER OR ANY OTHER HARDWARE DEVICE, OR USING OR ACCESSING PSN SERVICES. UNLESS THIS PROVISION IS UNENFORCEABLE IN YOUR JURISDICTION, THE FOREGOING LIMITATIONS, EXCLUSIONS AND DISCLAIMERS APPLY TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, EVEN IF ANY REMEDY FAILS ITS ESSENTIAL PURPOSE.
 
 **17.2**. **Internet Access.** Accessing and using PSN and its Content may require an internet connection for which you are solely responsible. Further, you are solely responsible for payment of any third-party fees associated with your internet connection, including internet service provider or airtime charges. The provision, quality and security of internet connectivity are the sole responsibility of the third party providing your internet service. PlayStation Devices and all other devices are sold separately.
 
-1. **CONTACT INFORMATION**
+1.  **CONTACT INFORMATION**
 
 For further information, or if you have questions about your PSN Account, the best way to contact us is via our website at: www.playstation.com/support. You may also reach us by phone at 800-345-7669 or write to us at the following address:  Sony Interactive Entertainment, Attn: Consumer Services Department, 2207 Bridgepointe Pkwy, San Mateo, CA 94404, USA. Additional contact information for us is available at www.playstation.com/legal.
 
