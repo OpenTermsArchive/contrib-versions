@@ -66,11 +66,11 @@ Advertising for any dating site that promotes affairs or infidelity, escort or p
 
 Advertising for products, including but not limited to adware, spyware, P2P application, malware, viruses, worms, Trojan horses are prohibited. Any advertising containing harmful computer code that interferes with or disrupts the integrity or performance of the Criteo Service is prohibited, this includes but is not limited to code that:
 
-* Changes user preferences or browser settings.
-* Initiates downloads without the user’s explicit consent.
-* Distributes adware, spyware, malware, viruses, worms, Trojan horses or redirects users to unwanted websites, including malware.
-* Initiates pop-ups or pop-unders that interfere with site navigation.
-* Inflates arbitrage ad impressions, including advertising stacking or calling other advertising units at run time.
+*   Changes user preferences or browser settings.
+*   Initiates downloads without the user’s explicit consent.
+*   Distributes adware, spyware, malware, viruses, worms, Trojan horses or redirects users to unwanted websites, including malware.
+*   Initiates pop-ups or pop-unders that interfere with site navigation.
+*   Inflates arbitrage ad impressions, including advertising stacking or calling other advertising units at run time.
 
 * * *
 
@@ -95,26 +95,26 @@ Advertising of hard liquor, spirits, wine, beer, and other alcoholic beverages.
 
 Advertising for online or offline gambling. This includes without limitation, online and offline poker, bingo and other types of gambling, lotteries, race books, sports betting, online gambling-related information, and online non-casino games played for money or prizes.
 
-* “Online gambling” is defined as promotion of online, real-money gambling for money and/or ‘monies worth’, as well as the promotion of sites that contain or link to content relating to online gambling;
-* “Offline gambling” is defined as promotion of physical, real-money gambling for money and/or ‘monies worth’, activity or establishments;
-* “Online non-casino games” is defined as any internet-based game where money or other items of value are paid or wagered, in exchange for the opportunity to win real money or prizes based on the outcome of games, such as fantasy sports, online tournaments, or video games played for money or prizes.
+*   “Online gambling” is defined as promotion of online, real-money gambling for money and/or ‘monies worth’, as well as the promotion of sites that contain or link to content relating to online gambling;
+*   “Offline gambling” is defined as promotion of physical, real-money gambling for money and/or ‘monies worth’, activity or establishments;
+*   “Online non-casino games” is defined as any internet-based game where money or other items of value are paid or wagered, in exchange for the opportunity to win real money or prizes based on the outcome of games, such as fantasy sports, online tournaments, or video games played for money or prizes.
 
 **2.5. Tobacco**
 
 Advertising of tobacco or tobacco-related products, vaping products, or related paraphernalia (including but not limited to electronic cigarettes, vapes, vaping devices, pipes, bongs, cigarettes, cigars, rolling papers, smokeless tobacco, or any other related products).
 
-* Advertising clearly intended for smoking cessation is permitted in allowed countries and under specific restrictions.
-* Electronic cigarettes and chewing tobacco cannot be advertised even when marketed as smoking cessation.
+*   Advertising clearly intended for smoking cessation is permitted in allowed countries and under specific restrictions.
+*   Electronic cigarettes and chewing tobacco cannot be advertised even when marketed as smoking cessation.
 
 **2.6. Psychics, Astrology, Fortune Tellers, etc.**
 
-* Advertising of psychic products or services, including fortune-tellers, mediums, astrologists, tarot card readings, witchcraft, hypnosis, cult /occult activities and similar products or services.
-* However advertising which promotes the accuracy of, or guarantees results based on, astrology, psychics, or paranormal services or products are strictly prohibited.
+*   Advertising of psychic products or services, including fortune-tellers, mediums, astrologists, tarot card readings, witchcraft, hypnosis, cult /occult activities and similar products or services.
+*   However advertising which promotes the accuracy of, or guarantees results based on, astrology, psychics, or paranormal services or products are strictly prohibited.
 
 **2.7. Financial Products Services and Insurance Sites**
 
-* Advertising of financial products/services includes banking/investment/money management products and services, loans, business opportunities, etc.
-* Advertising of insurance products/services includes home insurance, personal insurance, life insurance, car insurance, health insurance, etc.
+*   Advertising of financial products/services includes banking/investment/money management products and services, loans, business opportunities, etc.
+*   Advertising of insurance products/services includes home insurance, personal insurance, life insurance, car insurance, health insurance, etc.
 
 **Gambling, Alcohol and Tobacco restricted categories – The MediaGrid and BidSwitch customers:**
 
@@ -127,18 +127,18 @@ For the Gambling, Alcohol and Tobacco restricted categories, customers of Criteo
 
 **3.1. Advertising Shall Not Contain Any of the Following:**
 
-* hacking/cracking content.
-* auto-play audio elements.
-* pop-up or pop-under content.
-* shaking or blurry images.
-* advertising that is not within the specified ad unit size parameters. multiple advertising units per advertising slot.
-* auto-refresh advertising units.
+*   hacking/cracking content.
+*   auto-play audio elements.
+*   pop-up or pop-under content.
+*   shaking or blurry images.
+*   advertising that is not within the specified ad unit size parameters. multiple advertising units per advertising slot.
+*   auto-refresh advertising units.
 
 **3.2. Advertiser Shall:**
 
-* not resell ad units, except with explicit publisher approval.
-* serve an ad unit to the publisher with the correct technical guidelines and requirements for said publisher ad unit, except with explicit publisher and advertiser approval.
-* observe Criteo’s technical specifications relating to the use of the Criteo’s Platform and its affiliates platform. To refer to technical specifications required by BidSwitch, please consult [http://docs.bidswitch.com](http://docs.bidswitch.com/).
+*   not resell ad units, except with explicit publisher approval.
+*   serve an ad unit to the publisher with the correct technical guidelines and requirements for said publisher ad unit, except with explicit publisher and advertiser approval.
+*   observe Criteo’s technical specifications relating to the use of the Criteo’s Platform and its affiliates platform. To refer to technical specifications required by BidSwitch, please consult [http://docs.bidswitch.com](http://docs.bidswitch.com/).
 
 For more information on technical requirements and format guidelines, you can also consult our supply partner guidelines [here](https://www.criteo.com/supply-partner-guidelines/).
 
@@ -149,18 +149,18 @@ For more information on technical requirements and format guidelines, you can al
 
 Promotion of content, product or services that targets one or several of the following non-exhaustive list of users’ protected characteristics is prohibited unless expressly approved by Criteo in permitted countries:
 
-* Race
-* Ethnicity
-* Religious Affiliation or Belief Sensitive Health Condition
-* Sexual Orientation
-* Sexual Interests and Practices Personally Identifiable Information
-* Political affiliation/opinion
-* Trade Union Membership
-* Biometric information or genetic data Criminal History or Status
-* Religion or personal belief
-* Gender
-* Financial status
-* Age (age range is acceptable)
+*   Race
+*   Ethnicity
+*   Religious Affiliation or Belief Sensitive Health Condition
+*   Sexual Orientation
+*   Sexual Interests and Practices Personally Identifiable Information
+*   Political affiliation/opinion
+*   Trade Union Membership
+*   Biometric information or genetic data Criminal History or Status
+*   Religion or personal belief
+*   Gender
+*   Financial status
+*   Age (age range is acceptable)
 
 To learn more about Criteo advertisers’ obligations related to the information of users and the collection of consent, please click [here](https://www.criteo.com/criteo-privacy-guidelines-for-clients-and-publisher-partners/).
 
