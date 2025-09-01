@@ -4,10 +4,10 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-* Last updated: 04 September 2025
-* Here we inform you about data processing in connection with the entire service XING and its applications (XING, kununu, onlyfy, etc.).
-* New Work SE is the body responsible for the processing of personal data.
-* Our Data Protection Officer is Christian Schmidt.
+*   Last updated: 04 September 2025
+*   Here we inform you about data processing in connection with the entire service XING and its applications (XING, kununu, onlyfy, etc.).
+*   New Work SE is the body responsible for the processing of personal data.
+*   Our Data Protection Officer is Christian Schmidt.
 
 #### XING is a comprehensive service with various applications
 
@@ -15,10 +15,10 @@ General information
   
 We provide this Privacy Policy to inform you about data processing in connection with the entire service XING (including all applications). We also provide additional information about data processing for the following applications, which you can access on the respective websites of the applications:
 
-* [onlyfy TalentManager](https://www.xing.com/legal/privacy_policy_talentmanager)
-* [XING TalentpoolManager](https://www.xing.com/legal/privacy_policy_talentpoolmanager)
-* [XING AdCreator](https://www.xing.com/terms)
-* [FreelancerManager](https://www.xing.com/legal/privacy_policy_freelancermanager)
+*   [onlyfy TalentManager](https://www.xing.com/legal/privacy_policy_talentmanager)
+*   [XING TalentpoolManager](https://www.xing.com/legal/privacy_policy_talentpoolmanager)
+*   [XING AdCreator](https://www.xing.com/terms)
+*   [FreelancerManager](https://www.xing.com/legal/privacy_policy_freelancermanager)
 
 #### Responsible body
 
@@ -54,9 +54,9 @@ If you give us your consent, we will use your data for targeting on third-party 
 
 This refers to data we obtain from you directly and information you publish and send on [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites) such as:
 
-* Login details (e.g. username and password)
-* Profile information (e.g. job title, company name, industry, educational background, contact options, photo)
-* Messages, posts, billing details
+*   Login details (e.g. username and password)
+*   Profile information (e.g. job title, company name, industry, educational background, contact options, photo)
+*   Messages, posts, billing details
 
 This includes data that we have obtained from you directly and information that you publish or send on [XING Websites](https://privacy.xing.com/en/privacy-policy/glossary/xing-websites). There are both mandatory entry fields (which as marked as such) and optional information you can provide.
 
@@ -68,10 +68,10 @@ When you register to be able to use [XING](https://privacy.xing.com/en/privacy-p
 
 e.g.
 
-* Username
-* E-mail address to log in
-* Mobile number to log in
-* Password
+*   Username
+*   E-mail address to log in
+*   Mobile number to log in
+*   Password
 
 #### Visibility
 
@@ -93,19 +93,19 @@ You are required to complete certain mandatory fields. The social network offers
 
 e.g.
 
-* title, first name and last name
-* Job title and company name
-* Industry
-* Place: City and country
+*   title, first name and last name
+*   Job title and company name
+*   Industry
+*   Place: City and country
 
 #### Visibility
 
 The following mandatory information is always visible without limitation to other users in the [social network](https://privacy.xing.com/en/privacy-policy/glossary/social-network), and to users of certain other XING websites on which your user profile is displayed in full or in part:
 
-* First name, last name
-* Job title and company name
-* Industry
-* Place: City and country
+*   First name, last name
+*   Job title and company name
+*   Industry
+*   Place: City and country
 
 #### Period saved for
 
@@ -123,12 +123,12 @@ As well as the mandatory information we require, you can also enter additional i
 
 e.g.
 
-* Business e-mail address and phone number
-* Private interests
-* Private contact
-* Educational background
-* Photo
-* Portfolio
+*   Business e-mail address and phone number
+*   Private interests
+*   Private contact
+*   Educational background
+*   Photo
+*   Portfolio
 
 #### Visibility
 
@@ -155,9 +155,9 @@ In order to provide our services we require certain information from you. On our
 
 e.g.
 
-* First name, last name
-* E-mail address
-* Company name
+*   First name, last name
+*   E-mail address
+*   Company name
 
 #### Visibility
 
@@ -179,11 +179,11 @@ As well as the mandatory information we require, you can also enter additional i
 
 e.g.
 
-* Employer reviews
-* CV and job application data
-* Correspondence, conversations
-* Projects
-* Notes, comments
+*   Employer reviews
+*   CV and job application data
+*   Correspondence, conversations
+*   Projects
+*   Notes, comments
 
 #### Visibility
 
@@ -263,11 +263,11 @@ In the social network there are various ways of sharing content with others and 
 
 e.g.
 
-* Shared posts and links to the start page
-* Recommendations
-* Comments
-* Likes
-* Consents
+*   Shared posts and links to the start page
+*   Recommendations
+*   Comments
+*   Likes
+*   Consents
 
 #### Visibility
 
@@ -291,7 +291,7 @@ If you use [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) appl
 
 e.g.
 
-* Bank details
+*   Bank details
 
 #### Visibility
 
@@ -374,8 +374,8 @@ The legal basis for this processing of [personal data](https://privacy.xing.com/
 
 Data about you is automatically collated by means of tracking while you visit or make use of the [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) service. Here you can find out:
 
-* How tracking works
-* Why tracking is used (ensuring security, provision of our service, measurement and optimisation of advertising, and determination of statistics).
+*   How tracking works
+*   Why tracking is used (ensuring security, provision of our service, measurement and optimisation of advertising, and determination of statistics).
 
 Data about you is automatically collated by means of tracking whenever you visit or make use of the [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing) service. This takes place with the help of various tracking technologies.
 
@@ -435,7 +435,7 @@ We use the 'Braze' service to collect your usage of some parts of the platform t
   
 You can enable or deactivate this data collection. We recommend you enable it so we can provide you with useful tips and information (e.g. about updates to the features you use, or current billing information).
 
-* Opt in to data collection with Braze on xing.com
+*   Opt in to data collection with Braze on xing.com
     
     Please note that opting out of cookies is device-specific. This means that if you delete your cookie or use a different computer or web browser, you will need to opt out again. When using mobile apps, you can opt out in the app settings.
     
@@ -618,13 +618,13 @@ When using mobile apps, you need to opt out in the respective app settings.
 
 Your changes only apply in the browser you’re currently using.
 
-* Tracking on XING [Adapt Opt-In](https://www.xing.com/?showUserConsentBanner=1)
-* Tracking on kununu [Adapt Opt-In](https://www.kununu.com/?showUserConsentBanner=1)
-* Tracking on New Work [Adapt Opt-In](https://www.new-work.se/?showUserConsentBanner=1)
-* Tracking on Bewerbung.com [Adapt Opt-In](https://www.bewerbung.com/?showUserConsentBanner=1)
-* Tracking on Lebenslauf.com [Adapt Opt-In](https://www.lebenslauf.com/?showUserConsentBanner=1)
-* Tracking on Anschreiben.com [Adapt Opt-In](https://www.anschreiben.com/?showUserConsentBanner=1)
-* Tracking on HalloFreelancer [Adapt Opt-In](https://www.hallofreelancer.com/?showUserConsentBanner=1)
+*   Tracking on XING [Adapt Opt-In](https://www.xing.com/?showUserConsentBanner=1)
+*   Tracking on kununu [Adapt Opt-In](https://www.kununu.com/?showUserConsentBanner=1)
+*   Tracking on New Work [Adapt Opt-In](https://www.new-work.se/?showUserConsentBanner=1)
+*   Tracking on Bewerbung.com [Adapt Opt-In](https://www.bewerbung.com/?showUserConsentBanner=1)
+*   Tracking on Lebenslauf.com [Adapt Opt-In](https://www.lebenslauf.com/?showUserConsentBanner=1)
+*   Tracking on Anschreiben.com [Adapt Opt-In](https://www.anschreiben.com/?showUserConsentBanner=1)
+*   Tracking on HalloFreelancer [Adapt Opt-In](https://www.hallofreelancer.com/?showUserConsentBanner=1)
 
 #### Erasure of previously saved cookies
 
@@ -648,7 +648,7 @@ You will also find content produced by external providers on XING applications. 
 
 If you’d like to prevent tracking by external providers within the XING environment, you can deactivate the integration. As soon as you begin using any of the external content you will leave the XING environment and be automatically forwarded directly to the page of the provider. Please note: This doesn’t necessarily result in less tracking – it is only means that the tracking does not take place on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing).
 
-* Note for XING members:
+*   Note for XING members:
     
     Please visit your settings to adjust your tracking settings for all devices.
     
@@ -675,12 +675,12 @@ We also process data that we haven’t obtained directly from you. This occurs w
 
 This includes data which can be extracted from an address book or list (e.g. smartphone address book, e-mail address book or CSV file), e.g.:
 
-* First and last name
-* E-mail addresses
-* Phone numbers
-* Job title and company name
-* Place: City and country
-* Twitter and Facebook handles
+*   First and last name
+*   E-mail addresses
+*   Phone numbers
+*   Job title and company name
+*   Place: City and country
+*   Twitter and Facebook handles
 
 ##### Intended purpose
 
@@ -707,9 +707,9 @@ The legal basis for this processing of [personal data](https://privacy.xing.com/
 
 You can find out here who we disclose data to, what purpose this serves, and how you can customise your privacy settings on [XING](https://privacy.xing.com/en/privacy-policy/glossary/xing). By the way, we only ever pass your [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) on to third parties when:
 
-* This is required for us to fulfil our business purposes, e.g. when we make your profile accessible to another user
-* You have granted your consent (e.g. for use of an external application)
-* We are obliged to do so on legal grounds, by court order, or at the request of another official authority.
+*   This is required for us to fulfil our business purposes, e.g. when we make your profile accessible to another user
+*   You have granted your consent (e.g. for use of an external application)
+*   We are obliged to do so on legal grounds, by court order, or at the request of another official authority.
 
 We only pass your [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) on to third parties when this is required to fulfil our business purposes (i.e. in particular to perform the services we are obliged to provide you with, e.g. making your [profile](https://privacy.xing.com/en/datenschutzerklaerung/glossar/profil) available to another user), when you have given your consent to this (e.g. when using an external application), or when we are obliged to on legal grounds, by court order, or at the request of another official authority.  
 In cases where we work together with external service providers for our data processing (e.g. in software development), this is usually carried out on a commissioned processing basis, whereby we remain responsible for data processing. We review each of these service providers beforehand with regard to the measures they have undertaken to ensure data protection and data security, thereby safeguarding the contractual provisions as stipulated by law for the protection of the [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data).
@@ -731,12 +731,12 @@ After a certain period we send out a reminder e-mail ("automatic reminder") on y
 Every person you invite has the option to object to invitations being sent to their e-mail address from that point onwards.  
 Please note that, depending on the invitation feature used, recipients may be shown the following information in the invitation you send:
 
-* Your name
-* Your company
-* Your job title
-* Your e-mail address
-* Your photo
-* Your user status
+*   Your name
+*   Your company
+*   Your job title
+*   Your e-mail address
+*   Your photo
+*   Your user status
 
 #### Selected developers and companies ("API Partners")
 
@@ -814,10 +814,10 @@ What rights can you exercise?
 
 You can find detailed information here about your various rights:
 
-* Your right to object
-* Your right of access
-* Your right to erasure
-* Other rights
+*   Your right to object
+*   Your right of access
+*   Your right to erasure
+*   Other rights
 
 You have legal rights available to you with regard to data access, rectification, erasure, restriction of processing and objection to processing, as well as the right to data portability, amongst others. In addition, you can withdraw any consent you may have given to data processing at any time, and have the right to lodge a complaint with a supervisory authority.
 
@@ -865,13 +865,13 @@ Use the following e-mail address to request the data we saved about your applica
 
 You also have a right to access the following information:
 
-* The reasons for the data processing
-* The categories of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) that are processed
-* If possible the planned period of time that the [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) will be saved for, or if this isn't possible then the criteria used to determination this time period
-* The existence of a right to rectification or erasure of your [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) and/or the right to restriction of processing by the controller, or a right to object to this processing
-* The existence of a right to lodge a complaint with a supervisory authority
-* All available information about the origin of the [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) if the data was not obtained from the person in question
-* The existence of automated decision-making including [profiling](https://privacy.xing.com/en/privacy-policy/glossary/profiling) pursuant to Article 22 (1) and (4) of the [EU GDPR](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr) and – at least in some cases – insightful information about the logic involved plus the scope and aims of the repercussions of this kind of processing for the person affected
+*   The reasons for the data processing
+*   The categories of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) that are processed
+*   If possible the planned period of time that the [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) will be saved for, or if this isn't possible then the criteria used to determination this time period
+*   The existence of a right to rectification or erasure of your [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) and/or the right to restriction of processing by the controller, or a right to object to this processing
+*   The existence of a right to lodge a complaint with a supervisory authority
+*   All available information about the origin of the [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) if the data was not obtained from the person in question
+*   The existence of automated decision-making including [profiling](https://privacy.xing.com/en/privacy-policy/glossary/profiling) pursuant to Article 22 (1) and (4) of the [EU GDPR](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr) and – at least in some cases – insightful information about the logic involved plus the scope and aims of the repercussions of this kind of processing for the person affected
 
 If [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is passed on to a [third country](https://privacy.xing.com/en/privacy-policy/glossary/third-countries) or an international organisation, you have the right as the person affected to be informed about the respective guarantees (pursuant to Article 46 of the EU GDPR) regarding this sharing of data.
 
