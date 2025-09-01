@@ -16,9 +16,9 @@ Optimize, though a longstanding product, did not have many of the features and s
 
 We are collaborating on integrations with the following A/B testing providers (listed in alphabetical order):
 
-* AB Tasty
-* Optimizely
-* VWO
+*   AB Tasty
+*   Optimizely
+*   VWO
 
 We have made our APIs publicly available so anyone can integrate their A/B testing tool with Google Analytics. [Learn more about the integration](https://support.google.com/optimize/answer/12979533?)
 
