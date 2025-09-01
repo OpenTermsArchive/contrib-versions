@@ -425,11 +425,9 @@ The foregoing provisions of this Applicable Law and Jurisdiction section do not 
 **Disclosures**
 ---------------
 
-### **The services hereunder are offered by SoundCloud Global Limited & Co. KG, a company incorporated under the laws of Germany and with its main place of business at Rheinsberger Str. 76/77, 10115 Berlin, Germany. More information about SoundCloud is available**
+### **The services hereunder are offered by SoundCloud Global Limited & Co. KG, a company incorporated under the laws of Germany and with its main place of business at Rheinsberger Str. 76/77, 10115 Berlin, Germany. More information about SoundCloud is available [here](https://soundcloud.com/imprint).**
 
-### [**here**](https://soundcloud.com/imprint)
-
-### **. You may contact us by sending correspondence to the foregoing address or by emailing us at contact@soundcloud.com. If you are a resident of the State of California, you may have these Terms of Use mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for these Terms of Use. Additional information for the EU Digital Services Act (DSA):**
+### **You may contact us by sending correspondence to the foregoing address or by emailing us at contact@soundcloud.com. If you are a resident of the State of California, you may have these Terms of Use mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for these Terms of Use. Additional information for the EU Digital Services Act (DSA):**
 
 We are required to have a single point of contact for authorities and our users.
 
