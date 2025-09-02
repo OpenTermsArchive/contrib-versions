@@ -17,7 +17,7 @@ It is important that you understand how we use your information. You should read
         * We share your information with other Coinbase companies, as well as trusted third parties and service providers, in order to offer our Services and fulfill legal requirements.
     
     * To learn more, explore [**Section 3. How And Why We Share Your Information**](#how-and-why-we-share-your-information).
-        * We offer privacy tools for you to request access to or deletion of information we hold about you. You can use these tools by visiting your [Privacy Rights Dashboard](https://www.coinbase.com/en-gb/settings/privacy-rights). Depending on where you live, you may also have other privacy rights under law.
+        * We offer privacy tools for you to request access to or deletion of information we hold about you. You can use these tools by visiting your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights). Depending on where you live, you may also have other privacy rights under law.
     * If you have any questions, please contact us on our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase) or at dpo@coinbase.com. See [**Section 9. How to Contact Us With Questions**](#how-to-contact-us-with-questions) for more information.
     
 
@@ -189,7 +189,7 @@ We work with third-party service providers to help us provide our Services. When
 
 4\. HOW LONG WE RETAIN YOUR PERSONAL INFORMATION
 
-We retain your information as needed to provide our Services, comply with legal obligations, or protect our or others’ interests. While retention requirements vary by country, we maintain internal retention policies on the basis of how information needs to be used. This includes considerations such as when the information was collected or created, whether it is necessary in order to continue offering you our Services, whether we are required to hold the information to comply with our legal obligations, including AML/KYC compliance or other financial regulatory obligations, or information preservation requirements. We also keep certain information where necessary to protect the safety, security and integrity of our Services, Customers, and Users. Our third-party electronic identity verification providers collect and retain biometric information for the period required for financial regulatory compliance or otherwise as required by applicable law. They retain this information for as long as set out in their [applicable notices/policies](https://www.coinbase.com/en-gb/legal/privacy/third-party-verification-vendors). In line with these considerations, we delete information that is no longer needed for the above purposes when you close your account, or when you request deletion of your information (which you can initiate through your [Privacy Rights Dashboard](https://www.coinbase.com/en-gb/settings/privacy-rights)).
+We retain your information as needed to provide our Services, comply with legal obligations, or protect our or others’ interests. While retention requirements vary by country, we maintain internal retention policies on the basis of how information needs to be used. This includes considerations such as when the information was collected or created, whether it is necessary in order to continue offering you our Services, whether we are required to hold the information to comply with our legal obligations, including AML/KYC compliance or other financial regulatory obligations, or information preservation requirements. We also keep certain information where necessary to protect the safety, security and integrity of our Services, Customers, and Users. Our third-party electronic identity verification providers collect and retain biometric information for the period required for financial regulatory compliance or otherwise as required by applicable law. They retain this information for as long as set out in their [applicable notices/policies](https://www.coinbase.com/en-gb/legal/privacy/third-party-verification-vendors). In line with these considerations, we delete information that is no longer needed for the above purposes when you close your account, or when you request deletion of your information (which you can initiate through your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights)).
 
 5\. CHILDREN'S PERSONAL INFORMATION
 
@@ -222,11 +222,11 @@ The Federal Trade Commission has jurisdiction over Coinbase’s compliance with 
 
 7\. YOUR PRIVACY RIGHTS AND CHOICES
 
-Depending on where you live, you may be able to exercise certain privacy rights related to your personal information. For any of your privacy rights and choices referenced below, requests relating to your personal information can be made by logging into your account and going to your [Privacy Rights Dashboard](https://www.coinbase.com/en-gb/settings/privacy-rights) or by submitting a request via our [Support Portal](https://help.coinbase.com/en) or at [dpo@coinbase.com](mailto:dpo@coinbase.com). If any of the rights listed below are not provided under law for your operating entity or jurisdiction, Coinbase has absolute discretion in providing you with these rights.
+Depending on where you live, you may be able to exercise certain privacy rights related to your personal information. For any of your privacy rights and choices referenced below, requests relating to your personal information can be made by logging into your account and going to your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights) or by submitting a request via our [Support Portal](https://help.coinbase.com/en) or at [dpo@coinbase.com](mailto:dpo@coinbase.com). If any of the rights listed below are not provided under law for your operating entity or jurisdiction, Coinbase has absolute discretion in providing you with these rights.
 
 * **Right to access and portability**_:_ 
     
-    * You may request that we provide you a copy of your personal information held by us through your [Privacy Rights Dashboard](https://www.coinbase.com/en-gb/settings/privacy-rights), or by submitting a request via our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase). * **Right to rectification**_:_ 
+    * You may request that we provide you a copy of your personal information held by us through your [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights), or by submitting a request via our [Support Portal](https://help.coinbase.com/en/contact-us?product=coinbase). * **Right to rectification**_:_ 
     
     * You may request us to rectify or update any of your personal information held by Coinbase that is incomplete or inaccurate by logging in to your account and clicking the Profile or My Account tab.
         * **Right to deletion/erasure**_:_ 
@@ -266,7 +266,7 @@ We may provide additional "just-in-time" disclosures or information about how we
 
 11\. OUR RELATIONSHIP WITH YOU
 
-If you reside in the EEA or Switzerland, Coinbase Ireland Limited, Coinbase Europe Limited and Coinbase Germany GmbH act as joint controllers in respect of your personal information. Coinbase Ireland Limited is the joint controller with primary responsibility for your personal information, including with respect to providing you with information and responding to any requests you may make under the GDPR. Please see more about how you can  exercise your rights under the GDPR through our [Privacy Rights Dashboard](https://www.coinbase.com/en-gb/settings/privacy-rights).
+If you reside in the EEA or Switzerland, Coinbase Ireland Limited, Coinbase Europe Limited and Coinbase Germany GmbH act as joint controllers in respect of your personal information. Coinbase Ireland Limited is the joint controller with primary responsibility for your personal information, including with respect to providing you with information and responding to any requests you may make under the GDPR. Please see more about how you can  exercise your rights under the GDPR through our [Privacy Rights Dashboard](https://www.coinbase.com/settings/privacy-rights).
 
 CONSUMER/INSTITUTIONAL SERVICES
 
