@@ -131,6 +131,7 @@ You have choices and rights regarding how we collect and use your information. H
 
 * **Opt-out of Marketing Communications.** You can opt out of receiving marketing emails by clicking the "Unsubscribe" link in any marketing email or by contacting us directly. Please note that if you are a Customer, you will still receive transactional communications related to the Website and or the Services.
 * **Account Preferences.** You can update or correct certain account information at any time by logging into your account or contacting our support team. If you wish to delete your account, please follow the instructions provided in our [documentation.](https://support.w3schools.com/hc/en-gb/articles/14697964112402-How-can-I-delete-my-account) We will retain certain information as described in the How We Retain Your Information section.
+* **Data Deletion.** If you wish to delete your account and personal data, follow these steps. Go to your W3Schools Profile and click on 'Delete My Account' at the bottom of the page. Your account and related data will be deleted within 30 days. Be aware that deletion is permanent, content cannot be transferred to a new account, and no refunds will be issued for past purchases.
 * **Managing Cookies and Tracking Technologies.** You can manage your cookie preferences as described in the [Cookie Policy.](https://www.w3schools.com/about/about_cookies.asp)
 * **Managing Vendor Consent** You may update and customise your Vendor Consent preferences at any time by clicking here:  
     Manage Consent
