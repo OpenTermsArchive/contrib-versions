@@ -7,13 +7,13 @@ to continue to AdSense
 
 Email or phone
 
-[Forgot email?](https://accounts.google.com/signin/usernamerecovery?continue=https://adsense.google.com/adsense/login?continue%3Dhttps://adsense.google.com/adsense/tc/2018/UnitedKingdom.html&dsh=S1695684806:1756836021447819&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://adsense.google.com/adsense/login?continue%3Dhttps://adsense.google.com/adsense/tc/2018/UnitedKingdom.html&ifkv=AdBytiPdycnMHZhuYJTKm7llPEzSwHcJTQs5yZUtB_mQTninuGHz9wA7vaAc-aNy_2Z38lmg_rZ79A&service=adsense)
+[Forgot email?](https://accounts.google.com/signin/usernamerecovery?continue=https://adsense.google.com/adsense/login?continue%3Dhttps://adsense.google.com/adsense/tc/2018/UnitedKingdom.html&dsh=S-1928248813:1756879220997852&flowEntry=ServiceLogin&flowName=WebLiteSignIn&followup=https://adsense.google.com/adsense/login?continue%3Dhttps://adsense.google.com/adsense/tc/2018/UnitedKingdom.html&ifkv=AdBytiNchzAm97LueuLoyJER-2mA_7QfWJe07IbUuczEsxopb_PalaZcDdKBL4aITEOB_O1FNkf6lg&service=adsense)
 
 Not your computer? Use a private browsing window to sign in. [Learn more about using Guest mode](https://support.google.com/accounts?p=signin_privatebrowsing&hl=en-US)
 
 Next
 
-[Create account](https://accounts.google.com/lifecycle/flows/signup?continue=https://adsense.google.com/adsense/login?continue%3Dhttps://adsense.google.com/adsense/tc/2018/UnitedKingdom.html&dsh=S1695684806:1756836021447819&flowEntry=SignUp&flowName=GlifWebSignIn&followup=https://adsense.google.com/adsense/login?continue%3Dhttps://adsense.google.com/adsense/tc/2018/UnitedKingdom.html&ifkv=AdBytiPdycnMHZhuYJTKm7llPEzSwHcJTQs5yZUtB_mQTninuGHz9wA7vaAc-aNy_2Z38lmg_rZ79A&nogm=1&service=adsense)
+[Create account](https://accounts.google.com/lifecycle/flows/signup?continue=https://adsense.google.com/adsense/login?continue%3Dhttps://adsense.google.com/adsense/tc/2018/UnitedKingdom.html&dsh=S-1928248813:1756879220997852&flowEntry=SignUp&flowName=GlifWebSignIn&followup=https://adsense.google.com/adsense/login?continue%3Dhttps://adsense.google.com/adsense/tc/2018/UnitedKingdom.html&ifkv=AdBytiNchzAm97LueuLoyJER-2mA_7QfWJe07IbUuczEsxopb_PalaZcDdKBL4aITEOB_O1FNkf6lg&nogm=1&service=adsense)
 
 AfrikaansazərbaycanbosanskicatalàČeštinaCymraegDanskDeutscheestiEnglish (United Kingdom)English (United States)Español (España)Español (Latinoamérica)euskaraFilipinoFrançais (Canada)Français (France)GaeilgegalegoHrvatskiIndonesiaisiZuluíslenskaItalianoKiswahililatviešulietuviųmagyarMelayuNederlandsnorsko‘zbekpolskiPortuguês (Brasil)Português (Portugal)românăshqipSlovenčinaslovenščinasrpski (latinica)SuomiSvenskaTiếng ViệtTürkçeΕλληνικάбеларускаябългарскикыргызчақазақ тілімакедонскимонголРусскийсрпски (ћирилица)Українськаქართულიհայերեն‫עברית‬‎‫اردو‬‎‫العربية‬‎‫فارسی‬‎አማርኛनेपालीमराठीहिन्दीঅসমীয়াবাংলাਪੰਜਾਬੀગુજરાતીଓଡ଼ିଆதமிழ்తెలుగుಕನ್ನಡമലയാളംසිංහලไทยລາວမြန်မာខ្មែរ한국어中文（香港）日本語简体中文繁體中文
 
