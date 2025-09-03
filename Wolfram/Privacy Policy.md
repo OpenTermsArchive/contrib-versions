@@ -14,27 +14,27 @@ The PI we collect through our Services primarily consists of information you sub
 
 **Identifiers**
 
-* Examples include: a real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, Social Security number, driver's license number, passport number or other similar identifiers
+*   Examples include: a real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, Social Security number, driver's license number, passport number or other similar identifiers
 
 **Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))**
 
-* Examples include: a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information or health insurance information. Some PI included in this category may overlap with other categories.
+*   Examples include: a name, signature, Social Security number, physical characteristics or description, address, telephone number, passport number, driver's license or state identification card number, insurance policy number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information, medical information or health insurance information. Some PI included in this category may overlap with other categories.
 
 **Internet or other similar network activity**
 
-* Examples include: browsing history, search history, or information on a consumer's interaction with a website, application or advertisement
+*   Examples include: browsing history, search history, or information on a consumer's interaction with a website, application or advertisement
 
 **Geolocation data**
 
-* Physical location only
+*   Physical location only
 
 **Sensory data**
 
-* Audio, electronic and visual only
+*   Audio, electronic and visual only
 
 **Professional or employment-related information**
 
-* Examples include: current or past job history or performance evaluations
+*   Examples include: current or past job history or performance evaluations
 
 In addition to information that you provide to us voluntarily, we receive some additional PI and non-PI whenever you interact with our Services online, including your Internet Protocol (IP) address, browser type and version, referral URLs and other data automatically supplied by most common web browsers.
 
@@ -56,15 +56,15 @@ When we share PI, we require the recipient to protect your PI in compliance with
 
 In the past 12 months, we have disclosed the following categories of PI for a business purpose:
 
-* Identifiers
-* California Customer Records PI categories
-* Internet or other similar network activity
+*   Identifiers
+*   California Customer Records PI categories
+*   Internet or other similar network activity
 
 We disclose your PI for a business purpose to the following categories of third parties:
 
-* Our affiliates
-* Service providers
-* Third parties to whom you or your agents authorize us to disclose your PI in connection with products or Services we provide to you
+*   Our affiliates
+*   Service providers
+*   Third parties to whom you or your agents authorize us to disclose your PI in connection with products or Services we provide to you
 
 Any collected information (PI and non-PI) associated with your use of our Services may also be subject to disclosure to government authorities or other authorized third parties pursuant to a lawful request, subpoena or other process that legally compels disclosure of that information.
 
@@ -86,8 +86,8 @@ From time to time, our Services may contain links to other websites. We do not e
 
 When you visit our websites, they, like most websites, send one or more cookies—small identifiers—to your computer that store information about your session and preferences as well as information that can help improve our Services. While we do use strictly necessary and functional cookies for basic site functionality, as well as security and fraud investigation purposes, our primary purpose in using all other cookies is to enhance and improve your user experience by understanding and remembering your preferences, and by general tracking of our user trends. We utilize the following types of cookies:
 
-* Default cookies: These strictly necessary and functional cookies support and facilitate the provision of Services that you have requested on our websites, and may enable enhanced features.
-* Additional cookies: These cookies collect information that we utilize to support the measurement of our websites. On specific sites, Wolfram may use third-party cookies when working with outside partners for analytics and to optimize delivery of information that may be of interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.
+*   Default cookies: These strictly necessary and functional cookies support and facilitate the provision of Services that you have requested on our websites, and may enable enhanced features.
+*   Additional cookies: These cookies collect information that we utilize to support the measurement of our websites. On specific sites, Wolfram may use third-party cookies when working with outside partners for analytics and to optimize delivery of information that may be of interest to you. We do not have access to read or write such third-party cookies, nor do we directly control the manner in which they may be used.
 
 Most browsers are initially set up to accept cookies, but can typically be configured to block all cookies or block all third-party cookies. Please be aware that our websites may not have full functionality for you if your browser is set to block some or all cookies. Depending on your location, you may also be prompted to provide your consent to all cookies, other than strictly necessary and functional cookies, each time you visit our websites. Any information about you collected by us is retained and protected in accordance with the laws governing your location.
 
