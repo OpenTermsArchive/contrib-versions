@@ -4,7 +4,7 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-* Last updated: 20 December 2023
+* Last updated: 27 August 2025
 * Here we inform you about data processing in connection with the entire service XING and its applications (XING, kununu, onlyfy, etc.).
 * New Work SE is the body responsible for the processing of personal data.
 * Our Data Protection Officer is Christian Schmidt.
@@ -348,7 +348,7 @@ We only save copies of identification documents you provide us with for verifica
 
 The legal basis for this processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) are Article 6 (1) a) (separate consent) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr), Article 6 (1) b) (processing necessary for the performance of a contract) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr), Article 6 (1) f) (processing based on the weighing of interests) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr), and Article 6 (1) c) (processing necessary for compliance with a legal obligation) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr).
 
-#### Applications via XING
+#### Applications via XING/onlyfy, "Leverage your application" feature
 
 You can often apply for jobs directly via XING and onlyfy by entering your contact details and uploading your documents to an application form. We then send your application to the company that posted the job ad.  
   
@@ -368,7 +368,7 @@ By opting to use the "Leverage your application" feature, we will save your data
 
 #### Legal basis
 
-The legal basis for this processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is Article 6 (1) b) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr).
+The legal basis for this processing of [personal data](https://privacy.xing.com/en/privacy-policy/glossary/personal-data) is Article 6 (1) b) of the [EU General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr) and Article 6 (1) a) of the [General Data Protection Regulation (GDPR)](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr) ("Leverage your application" feature"). You can withdraw your consent to the "Leverage your application" feature at any time by e-mailing datenschutz@new-work.se or via the link provided in notification e-mails.
 
 ### 3\. Information automatically collected through your use of XING
 
@@ -401,7 +401,7 @@ Tracking and analysing user behaviour helps us to review and optimise the effect
 
 #### Clickpath
 
-One important feature to result from our analyses is, for example, the provision of the "Clickpath". This is an essential part of contact management and as such an essential feature of XING. Clickpath is a function of the service XING which registers access to users’ profiles by other users, as well as to event pages, Business Pages, Employer Branding Profiles, job ads, or access to specific information contained therein. The information registered by Clickpath is only available to Premium members, users who post job ads, operators of Business Pages and Employer Branding Profiles, and organisers who have booked the Event Plus option for their events. By using Clickpath you can see, as a Premium member, e.g. which other users have visited your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile). By the same token, all other Premium members can do the same, i.e. they may see whether you have visited their profile, event page, Business Page, Employer Branding Profile or job ad. You are not able to deactivate this feature in your privacy settings. If you do not agree that other users may see that you have visited their profile, Business Page, etc., you should refrain from using the service XING.
+One important feature to result from our analyses is, for example, the provision of the "Clickpath". This is an essential part of contact management and as such an essential feature of XING. Clickpath is a function of the service XING which registers access to users’ profiles by other users, as well as to event pages, Business Pages, Employer Branding Profiles, job ads, or access to specific information contained therein. The information registered by Clickpath is only available to Premium members, users who post job ads, operators of Business Pages and Employer Branding Profiles, and organisers who have booked the Event Plus option for their events. By using Clickpath you can see, as a Premium member, e.g. which other users have visited your [profile](https://privacy.xing.com/en/privacy-policy/glossary/profile). By the same token, all other Premium members can do the same, i.e. they may see whether you have visited their profile, event page, Business Page, Employer Branding Profile or job ad. You are not able to deactivate this feature in your privacy settings. If you do not agree that other users may see that you have visited their profile, Business Page, etc., you should refrain from using the service XING. This information about other users also applies to users who are not logged in but have been identified by XING using cookies and e-mail tokens. This function ensures a seamless and personalised user experience, ranging from XING newsletters to the XING platform, without compromising user security.
 
 #### Recommendations
 
@@ -435,7 +435,7 @@ We use the 'Braze' service to collect your usage of some parts of the platform t
   
 You can enable or deactivate this data collection. We recommend you enable it so we can provide you with useful tips and information (e.g. about updates to the features you use, or current billing information).
 
-* Opt in to data collection with Braze
+* Opt in to data collection with Braze on xing.com
     
     Please note that opting out of cookies is device-specific. This means that if you delete your cookie or use a different computer or web browser, you will need to opt out again. When using mobile apps, you can opt out in the app settings.
     
@@ -600,7 +600,7 @@ More information is available [here](https://twitter.com/en/privacy)
 
 #### XAD spoteffects GmbH
 
-More information is available [here](https://xadspoteffects.com/datenschutzerklaerung#part_a)
+More information is available [here](https://xadspoteffects.com/en/privacy-policy#part_a)
 
 #### Yieldlab
 
@@ -659,9 +659,9 @@ If you’d like to prevent tracking by external providers within the XING enviro
     As a non-member these changes only apply in the browser you're currently using.
     
 
-#### Opting out of tracking within the XING environment
+#### Use of SalesViewer technology
 
-Opting out of tracking within the XING environment
+Due to legitimate interests (legally provided for in Article 6 (1) f) of the EU GDPR), we use SalesViewer technology provided by SalesViewer GmbH to collect and save data for marketing, market research and optimisation purposes. To this end, JavaScript code is used to collect and use company-related data which is encrypted with hashing. This means that the data cannot be used to identify you as a website visitor. The data collected and saved via SalesViewer is deleted immediately once no longer required and provided that it is not subject to statutory retention periods.
 
 You have the option to opt out of data collection and storage by SalesViewer in the future by clicking on [this link](https://www.salesviewer.com/opt-out). This will set what's known as an opt-out cookie in your browser. Please note that you'll need to click on the above link again if you delete this cookie and want to continue to opt out of data collection and storage by SalesViewer.
 
@@ -756,7 +756,7 @@ Data may be transferred to [third countries](https://privacy.xing.com/en/privacy
 In particular, we make certain data available to other users or third parties worldwide to fulfill our contractual obligations. This does not require either an adequacy decision pursuant to Article 45 of the [EU GDPR](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr) or appropriate safeguards pursuant to Article 46 of the [EU GDPR](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr).  
 In cases where the transfer of data to a [third country](https://privacy.xing.com/en/privacy-policy/glossary/third-countries) does not serve the fulfilment of our contractual obligations, we have not received consent from you, the transfer is not necessary for the establishment, exercise or defence of legal claims, and no other exemption clause applies, we shall only transfer your data to a [third country](https://privacy.xing.com/en/privacy-policy/glossary/third-countries) when an adequacy decision pursuant to Article 45 of the [EU GDPR](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr) or appropriate safeguards pursuant to Article 46 of the [EU GDPR](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr) are in place.  
 In general, we provide for appropriate safeguards by closing standard data protection clauses as decreed by the European Commission with the recipient body pursuant to Article 46 of the [EU GDPR](https://privacy.xing.com/en/privacy-policy/glossary/eu-gdpr), as well as an adequate level of data protection.  
-You can obtain copies of the EU standard data protection clauses on the [Website of the European Commission](http://ec.europa.eu/justice/data-protection/international-transfers/transfer/index_en.htm).
+You can obtain copies of the EU standard data protection clauses on the [Website of the European Commission](https://commission.europa.eu/publications/publications-standard-contractual-clauses-sccs_en).
 
 #### Other categories of recipients
 
@@ -798,7 +798,7 @@ Cooperation partners
 
 #### Companies you apply to via XING/onlyfy, "Leverage your application" feature
 
-You can often apply for jobs directly via XING and onlyfy by entering your contact details and uploading your documents to an application form. We then send your application to the company that posted the job ad. If you're logged in to XING, we'll also send your XING profile as a link and PDF overview. Companies you apply to via XING receive your application via the e-mail address used in the job ad or via the company's applicant tracking system. If you give your consent to use the "Leverage your application" feature, you allow us to make your application details and documents available to other companies we think may have a matching vacancy for you.
+XING and onlyfy offer multiple ways for you to apply for jobs directly by entering your contact details and uploading your documents to an application form. We then send your application to the company that posted the job ad. If you're logged in to XING, we'll also send your XING profile as a link and PDF overview. Companies you apply to via XING receive your application via the e-mail address used in the job ad or via the company's applicant tracking system. If you give your consent to use the "Leverage your application" feature, you allow us to make your application details and documents available to other companies we think may have a matching vacancy for you.
 
 #### Google
 
