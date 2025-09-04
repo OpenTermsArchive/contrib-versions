@@ -4041,6 +4041,26 @@ Controller
 
 Learn More (Privacy Policy URL)
 
+https://x.com/privacy
+
 Web Domain
 
 Any Twitter Domain
+
+Name
+
+mobile\_dash\_footer\_enabled
+
+Description
+
+Indicates if user has dismissed the footer for the dashed bar prompting them to download the app.
+
+Controller
+
+Learn More (Privacy Policy URL)
+
+https://x.com/privacy
+
+Web Domain
+
+.x.com
