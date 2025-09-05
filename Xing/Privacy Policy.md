@@ -4,7 +4,7 @@ Privacy Policy (printable version)
 General information
 -------------------
 
-* Last updated: 27 August 2025
+* Last updated: 04 September 2025
 * Here we inform you about data processing in connection with the entire service XING and its applications (XING, kununu, onlyfy, etc.).
 * New Work SE is the body responsible for the processing of personal data.
 * Our Data Protection Officer is Christian Schmidt.
