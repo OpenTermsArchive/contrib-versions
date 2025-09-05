@@ -1,8 +1,12 @@
 Page content
 ------------
 
-* [Ulster.ac.uk](#panel1-1195415)
-* [Alumni](#panel2-1195415)
+More Information
+----------------
+
+Ulster.ac.uk
+
+Alumni
 
 Ulster.ac.uk (www.ulster.ac.uk) is provided by Ulster University.
 
