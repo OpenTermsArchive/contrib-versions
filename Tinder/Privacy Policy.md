@@ -217,20 +217,18 @@ This policy may change over time. We’re always looking for new and innovative 
 
 If you have questions about this Privacy Policy, you have different options below:
 
-#### **If you live in the European Economic Area or Switzerland:**
+#### If you live in the European Economic Area or Switzerland:
 
-Online: [here](https://gotinder.com/help)
+Online: rep\_tinder@prighter.com  
+Swiss Representative: Prighter Group GmbH
 
 By post:
 
-> Data Protection Officer  
-> MTCH Technology Services Limited  
-> Tinder  
-> 1 Hatch Street Upper   
-> Dublin 2   
-> Dublin   
-> D02 PY28  
-> Ireland
+> Obergrundstrasse 17,  
+> 6002 Luzern,  
+> Switzerland
+
+Swiss representation certificate and representative details [here](https://app.prighter.com/portal/14777855921).
 
 #### **If you live in the United Kingdom:**
 
