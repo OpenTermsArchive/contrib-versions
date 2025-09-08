@@ -655,4 +655,4 @@ This term of confidentiality in this clause shall survive termination of these T
 
 **35\. Class action waiver**
 
-You and Binance agree that any Claims shall be brought against Binance in an arbitration on an individual basis only and not as a plaintiff or class
+You and Binance agree that any Claims shall be brought against Binance in an arbitration on an individual basis only and not as a plaintiff or class member in a
