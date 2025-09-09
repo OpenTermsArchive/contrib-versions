@@ -407,7 +407,7 @@ Notice to Residents of the European Economic Area, the United Kingdom and Switze
 
 The data controller for This Website and Services is:
 
-Thryv, Inc. 2200 West Airfield DrivePO Box 619810DFW Airport, TX 75261
+Thryv, Inc. 1301 Municipal Way, Suite 220Grapevine, TX 76051
 
 Our Data Protection Officer is: Jeff Wing, [\[email protected\]](https://corporate.thryv.com/cdn-cgi/l/email-protection)
 
@@ -538,6 +538,6 @@ Contact Us
 
 If you have any questions or concerns or would like to submit a complaint to us, you may [**Contact Us**](https://corporate.thryv.com/contact-us/).
 
-You may also contact our Privacy Manager at PO Box 619810, DFW Airport, Texas 75261.
+You may also contact our Privacy Manager at 1301 Municipal Way, Suite 220, Grapevine, TX 76051.
 
 Please print a copy of this privacy policy for your records and PLEASE check this Website frequently for any changes.
