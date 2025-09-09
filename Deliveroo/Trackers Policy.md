@@ -8,10 +8,10 @@ What are cookies and similar technologies?
 
 Cookies and similar technologies are pretty cool. We use these to enhance your online experience, in particular to: 
 
-* allow our websites and apps to function properly, for example, by remembering your login details or the items you’ve put in your basket, 
-* analyse and improve our services, including our websites, apps and communications (such as our emails and push notifications),
-* personalise your online experience on Deliveroo, and 
-* show you relevant Deliveroo adverts when you browse other websites or apps.
+*   allow our websites and apps to function properly, for example, by remembering your login details or the items you’ve put in your basket, 
+*   analyse and improve our services, including our websites, apps and communications (such as our emails and push notifications),
+*   personalise your online experience on Deliveroo, and 
+*   show you relevant Deliveroo adverts when you browse other websites or apps.
 
 Cookies are small files that are stored on your device, often in the form of a unique identifier, and may collect information associated with your device when you visit our websites. Similar technologies include things like ‘web beacons’, ‘pixels’ or ‘tags’ on our websites and in our communications, which work in a similar way to cookies. 
 
@@ -49,8 +49,8 @@ How long do cookies last?
 
 Our websites cookies differ between:
 
-* session cookies, which are temporary cookies that expire automatically whenever you close your browser, or
-* persistent cookies, which usually stay on your device for a set period or until you manually delete them.
+*   session cookies, which are temporary cookies that expire automatically whenever you close your browser, or
+*   persistent cookies, which usually stay on your device for a set period or until you manually delete them.
 
 You can find more on the duration of each cookie we use in our cookie management tool by clicking on Cookies Settings.
 
@@ -61,25 +61,25 @@ When you visit a Deliveroo website or use one of our apps, we’ll ask you for y
 
 You can change your mind on this consent and turn off those non-essential cookies at any time, as well as learn more about the individual cookies that Deliveroo uses on our websites and apps, and the function they perform:
 
-* on our websites by using our cookie management tool and clicking on Cookies Settings, and
-* in-app by going to ‘Account’, ‘About’, ‘Cookie settings’ and then click on Cookies Settings. 
+*   on our websites by using our cookie management tool and clicking on Cookies Settings, and
+*   in-app by going to ‘Account’, ‘About’, ‘Cookie settings’ and then click on Cookies Settings. 
 
 You can also turn off cookies through your browser by changing your cookie settings but if you do, our websites and apps may not function properly. 
 
 Find out how to manage cookies on popular web-browsers:
 
-* [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop)
-* [Firefox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox)
-* [Apple Safari](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
-* [Internet Explorer](https://support.microsoft.com/help/17442/windows-internet-explorer-delete-manage-cookies) 
-* [Microsoft Edge](https://support.microsoft.com/en-gb/microsoft-edge/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)
-* [Opera](https://help.opera.com/en/latest/web-preferences/)
+*   [Google Chrome](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DDesktop)
+*   [Firefox](https://support.mozilla.org/en-US/kb/clear-cookies-and-site-data-firefox)
+*   [Apple Safari](https://support.apple.com/en-gb/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+*   [Internet Explorer](https://support.microsoft.com/help/17442/windows-internet-explorer-delete-manage-cookies) 
+*   [Microsoft Edge](https://support.microsoft.com/en-gb/microsoft-edge/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)
+*   [Opera](https://help.opera.com/en/latest/web-preferences/)
 
 For mobile browsers, see their instructions on how to manage cookies:
 
-* [Google Chrome on Android](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid)
-* [Firefox on Android](https://support.mozilla.org/en-US/kb/clear-your-browsing-history-and-other-personal-data)
-* [Safari on iOS](https://support.apple.com/en-gb/HT201265)
+*   [Google Chrome on Android](https://support.google.com/chrome/answer/95647?co=GENIE.Platform%3DAndroid)
+*   [Firefox on Android](https://support.mozilla.org/en-US/kb/clear-your-browsing-history-and-other-personal-data)
+*   [Safari on iOS](https://support.apple.com/en-gb/HT201265)
 
 To opt out of tracking by Google Analytics across all websites, visit [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout).
 
@@ -102,24 +102,24 @@ Strictly Necessary SDKs
 
 The SDKs listed below enable our app to work properly, for example to help create your account, sign in and place orders.  
 
-* Braintree, Checkout.com, StripeAdyen (iOS only): These are used to manage Deliveroo order payments
-* Braze: This is used to send you push notifications
-* Deliveroo: This is used to build our apps
-* Facebook: This is used to allow you to sign in to your Deliveroo account using Facebook
-* Google: This is used to allow you to sign in to your Deliveroo account using Google (under iOS and Android) and to build our apps (under Android)
-* OneTrust: This is used to manage our cookie consent platform
-* Promon, SHIELD AI Technologies: These are used to protect our app from fraud and abuse
-* Twilio: This is used to support when you need to contact a rider using the in-app contact feature
-* Datadog: This is used to detect technical bugs in our apps
-* Lyft (Android only): This is used to keep in-app times accurate  
-* Ktlint (Android only): This is used to ensure a consistent format is maintained with our apps
-* Retrofit (Android only): This is used to ensure app security  
-* Uber Rxdogtag (Android only): This is used to detect app technical errors  
-* Reachability (iOS only): This is used to verify our apps connectivity  
-* Gifu (Kaishin - iOS only): This is used to support gifs in-app
-* Nuke (Kean - iOS only): This is used to load in-app images
-* UICKeyChainStore (iOS only): This is used to store and retrieve app data 
-* FloatingPanel (iOS only): This is used to create in-app draggable panels  
+*   Braintree, Checkout.com, StripeAdyen (iOS only): These are used to manage Deliveroo order payments
+*   Braze: This is used to send you push notifications
+*   Deliveroo: This is used to build our apps
+*   Facebook: This is used to allow you to sign in to your Deliveroo account using Facebook
+*   Google: This is used to allow you to sign in to your Deliveroo account using Google (under iOS and Android) and to build our apps (under Android)
+*   OneTrust: This is used to manage our cookie consent platform
+*   Promon, SHIELD AI Technologies: These are used to protect our app from fraud and abuse
+*   Twilio: This is used to support when you need to contact a rider using the in-app contact feature
+*   Datadog: This is used to detect technical bugs in our apps
+*   Lyft (Android only): This is used to keep in-app times accurate  
+*   Ktlint (Android only): This is used to ensure a consistent format is maintained with our apps
+*   Retrofit (Android only): This is used to ensure app security  
+*   Uber Rxdogtag (Android only): This is used to detect app technical errors  
+*   Reachability (iOS only): This is used to verify our apps connectivity  
+*   Gifu (Kaishin - iOS only): This is used to support gifs in-app
+*   Nuke (Kean - iOS only): This is used to load in-app images
+*   UICKeyChainStore (iOS only): This is used to store and retrieve app data 
+*   FloatingPanel (iOS only): This is used to create in-app draggable panels  
 
 SDKs used for analytics
 -----------------------
@@ -131,12 +131,12 @@ SDKs used for advertising
 
 The SDKs listed below are used by us and our advertising partners on our app to build a profile of your interests based on your browsing history and use of our app and to show you relevant adverts (such as offers and promotions) on our app and on other third party platforms (including social media). We may also share other information relating to you and/or your use of our services with those advertising partners. 
 
-* AppsFlyer
-* BrazeKit
-* Button
-* Deliveroo
-* Facebook
-* Google
+*   AppsFlyer
+*   BrazeKit
+*   Button
+*   Deliveroo
+*   Facebook
+*   Google
 
 SDKs on Deliveroo’s Rider App 
 ------------------------------
@@ -147,16 +147,16 @@ As mentioned above, we use SDKs on our apps. An SDK (Software Development Kit) i
 
 These SDKs allow our app to function properly, so you can create your account, sign in and deliver orders. 
 
-* BrazeKit: This is used to send you push notifications
-* DataDog: This is used to detect technical bugs in-app
-* Deliveroo and Google Firebase: These are used to build our apps
-* Google Maps: This is used to surface Google maps in-app
-* Medallia Digital: This is used to send in-app surveys
-* Onfido: This is used to enable our rider ID checks
-* Promon: This is used to protect our apps from fraud and abuse
-* Twilio: This is used to support when you need to contact customers using the in-app contact feature
-* Zendesk Core: This is used to connect our rider support platform
-* LeakCanary (Android only): This is used to ensure app performance and stability 
+*   BrazeKit: This is used to send you push notifications
+*   DataDog: This is used to detect technical bugs in-app
+*   Deliveroo and Google Firebase: These are used to build our apps
+*   Google Maps: This is used to surface Google maps in-app
+*   Medallia Digital: This is used to send in-app surveys
+*   Onfido: This is used to enable our rider ID checks
+*   Promon: This is used to protect our apps from fraud and abuse
+*   Twilio: This is used to support when you need to contact customers using the in-app contact feature
+*   Zendesk Core: This is used to connect our rider support platform
+*   LeakCanary (Android only): This is used to ensure app performance and stability 
 
 Need more information on the cookies we use?
 --------------------------------------------
