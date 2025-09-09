@@ -276,7 +276,7 @@ You can reach us by:
     * Email at [DPO@bumble.com](mailto:DPO@bumble.com)
     * Mail at: 1 Blossom Yard Fourth Floor London, United Kingdom, E1 6RS
 * If you usually live in the EU and want to talk about the GDPR, contacting our EU GDPR representative, Borlux Ltd, by:
-    * Using their [online request form](https://services.nathantrust.com/privacycontact)
+    * Email: GDPRrequest@comnet.ie
     * Mail at: 1st Floor 6 Lapps Quay Cork, Ireland
 
 Need a printable version of our Privacy Policy? Click [here](https://bumble.com/privacy-policy/en/print)!
