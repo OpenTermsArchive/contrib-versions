@@ -43,7 +43,7 @@ Germany
 
   
 
-#### [4.1 Applications](https://www.hetzner.com/legal/privacy-policy#collapse_4-1)
+#### [4.1 Applications](https://www.hetzner.com/dev/tasks/DevTasks-GenerateStaticPageTask#collapse_4-1)
 
 ##### What data will be processed and how does it reach Hetzner?
 
@@ -91,7 +91,7 @@ Once the deadlines are reached, we will **delete** your data.
 
   
 
-#### [4.2 Chatbot „Ask AI“](https://www.hetzner.com/legal/privacy-policy#collapse_4-2)
+#### [4.2 Chatbot „Ask AI“](https://www.hetzner.com/dev/tasks/DevTasks-GenerateStaticPageTask#collapse_4-2)
 
 Our website [www.hetzner.com](https://www.hetzner.com/)" includes the **AI-chatbot** “Ask AI”. It can help to answer your general questions about our products, based entirely on information that Hetzner has created itself, for example, information on [Hetzner Docs](https://docs.hetzner.com/).  
 For account-specific support, please submit a support request at [https://accounts.hetzner.com](https://accounts.hetzner.com/).
@@ -150,7 +150,7 @@ The **session cookie** is **deleted when the browser is closed. Other cookies** 
 
   
 
-#### [4.3 Feedback](https://www.hetzner.com/legal/privacy-policy#collapse_4-3)
+#### [4.3 Feedback](https://www.hetzner.com/dev/tasks/DevTasks-GenerateStaticPageTask#collapse_4-3)
 
 ##### What data is processed and how does it reach Hetzner?
 
@@ -170,7 +170,7 @@ The data are stored for 2 years. After this period, they will be anonymized.
 
   
 
-#### [4.4 Forum](https://www.hetzner.com/legal/privacy-policy#collapse_4-4)
+#### [4.4 Forum](https://www.hetzner.com/dev/tasks/DevTasks-GenerateStaticPageTask#collapse_4-4)
 
 In our forum [Forum](https://forum.hetzner.com/) users can discuss about technical topics and our services.
 
@@ -194,7 +194,7 @@ After you **delete your forum account,** your data will also be **deleted immedi
 
   
 
-#### [4.5 4.8 Prize Draws / Contests](https://www.hetzner.com/legal/privacy-policy#collapse_4-5)
+#### [4.5 4.8 Prize Draws / Contests](https://www.hetzner.com/dev/tasks/DevTasks-GenerateStaticPageTask#collapse_4-5)
 
 ##### What data will be processed and how does it reach Hetzner?
 
@@ -214,7 +214,7 @@ We need this data to **carry out the prize draw,** and to **notify the winners.*
 
   
 
-#### [4.6 Customer Account](https://www.hetzner.com/legal/privacy-policy#collapse_4-6)
+#### [4.6 Customer Account](https://www.hetzner.com/dev/tasks/DevTasks-GenerateStaticPageTask#collapse_4-6)
 
 ##### What data is processed and how does it reach Hetzner?
 
@@ -252,7 +252,7 @@ After a customer account is deactivated, the following retention periods apply:
 
 Once these periods have expired, your **data will be deleted.**  
 
-#### [4.7 Newsletter](https://www.hetzner.com/legal/privacy-policy#collapse_4-7)
+#### [4.7 Newsletter](https://www.hetzner.com/dev/tasks/DevTasks-GenerateStaticPageTask#collapse_4-7)
 
 In our newsletter [Newsletter](https://www.hetzner.com/newsroom/newsletter/)\], we inform you about new products and current topics.  
 If you want to be added to the mailing list as a recipient, you must confirm this via a confirmation email.  
@@ -293,7 +293,7 @@ We use the **external service provider Sendinblue** to manage and send the newsl
 
 After the respective period, the data is **anonymized.**  
 
-#### [4.8 Hetzner Status](https://www.hetzner.com/legal/privacy-policy#collapse_4-8)
+#### [4.8 Hetzner Status](https://www.hetzner.com/dev/tasks/DevTasks-GenerateStaticPageTask#collapse_4-8)
 
 You can find general status reports on our products and services via our [status.](https://status.hetzner.com/)
 
@@ -317,7 +317,7 @@ The data is **deleted as soon as you unsubscribe** from the notification service
 
   
 
-#### [4.9 Social Media](https://www.hetzner.com/legal/privacy-policy#collapse_4-9)
+#### [4.9 Social Media](https://www.hetzner.com/dev/tasks/DevTasks-GenerateStaticPageTask#collapse_4-9)
 
 We are active on various social media platforms to communicate with you as a customer or interested party and to inform you about our services.
 
@@ -410,7 +410,7 @@ Opt-Out: [https://youtube.com/opt-out](https://youtube.com/opt-out).
 
   
 
-#### [4.10 Events](https://www.hetzner.com/legal/privacy-policy#collapse_4-10)
+#### [4.10 Events](https://www.hetzner.com/dev/tasks/DevTasks-GenerateStaticPageTask#collapse_4-10)
 
 ##### What data is processed and how does it reach Hetzner?
 
@@ -441,7 +441,7 @@ We at Hetzner will **delete** the data relevant to the event **after the event i
 
   
 
-#### [4.11 Verification](https://www.hetzner.com/legal/privacy-policy#collapse_4-11)
+#### [4.11 Verification](https://www.hetzner.com/dev/tasks/DevTasks-GenerateStaticPageTask#collapse_4-11)
 
 ##### 4.11.1 Verification of customer details
 
@@ -486,7 +486,7 @@ All further data collected by the provider is their own responsibility. Please r
 If **verification is carried out by iDenfy,** your data will be stored for **two months.**  
 **In all other cases,** the data will be **deleted immediately** after the verification is completed.
 
-#### [4.12 Website](https://www.hetzner.com/legal/privacy-policy#collapse_4-12)
+#### [4.12 Website](https://www.hetzner.com/dev/tasks/DevTasks-GenerateStaticPageTask#collapse_4-12)
 
 ##### What data is processed and how does it reach Hetzner?
 
