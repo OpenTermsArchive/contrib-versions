@@ -3,7 +3,7 @@
 Wikimedia Foundation Terms of Use
 =================================
 
- 4 languages
+ 5 languages
 
  English
 
