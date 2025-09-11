@@ -25,12 +25,12 @@ If you are an individual, you must be at least 18 years old and have full legal 
 
 To use the PayPal services you need to open a PayPal account. By opening and using a PayPal account, you agree to comply with all of the terms and conditions in this user agreement, which will be valid until terminated. You also agree to comply with the following additional documents and each of the other documents on the [**Legal Agreements**](https://www.paypal.com/legalhub/home) page that apply to you:
 
-* [Fees page](#tableOfFees1)
-* [**PayPal's Buyer Protection program**](https://www.paypal.com/legalhub/buyer-protection)
-* [**PayPal's Seller Protection program**](https://www.paypal.com/legalhub/seller-protection)
-* [Acceptable Use Policy](https://www.paypal.com/legalhub/acceptableuse-full)
-* [Alternative Payment Methods Agreement](https://www.paypal.com/legalhub/apm-tnc)
-* All future changes notified in the [Policy Update](https://www.paypal.com/legalhub/upcoming-policies-full) already published on the “Legal Agreements” page.
+*   [Fees page](#tableOfFees1)
+*   [**PayPal's Buyer Protection program**](https://www.paypal.com/legalhub/buyer-protection)
+*   [**PayPal's Seller Protection program**](https://www.paypal.com/legalhub/seller-protection)
+*   [Acceptable Use Policy](https://www.paypal.com/legalhub/acceptableuse-full)
+*   [Alternative Payment Methods Agreement](https://www.paypal.com/legalhub/apm-tnc)
+*   All future changes notified in the [Policy Update](https://www.paypal.com/legalhub/upcoming-policies-full) already published on the “Legal Agreements” page.
 
 Please read carefully all of the terms and conditions of this user agreement and each of the other documents that apply to you.
 
@@ -59,15 +59,15 @@ Opening an account
 
 We offer 2 types of accounts: personal accounts and business accounts. To open an account with us, you must:
 
-* Either be an individual (at least 18 years old) or a business that is able to form a legally binding contract; and
-* Complete our sign-up process.
+*   Either be an individual (at least 18 years old) or a business that is able to form a legally binding contract; and
+*   Complete our sign-up process.
 
 As part of our sign-up process, you must:
 
-* Register an email address and mobile number;
-* Set a password, which we will use to log you in;
-* Meet our eligibility requirements; and
-* Agree to our [Privacy Statement](https://www.paypal.com/legalhub/privacy-full) and [user agreement](https://www.paypal.com/legalhub/useragreement-full), including the applicable documents on the Legal Agreements page.
+*   Register an email address and mobile number;
+*   Set a password, which we will use to log you in;
+*   Meet our eligibility requirements; and
+*   Agree to our [Privacy Statement](https://www.paypal.com/legalhub/privacy-full) and [user agreement](https://www.paypal.com/legalhub/useragreement-full), including the applicable documents on the Legal Agreements page.
 
 #### Personal accounts
 
@@ -103,9 +103,9 @@ You may expressly grant, remove and manage permissions for some third parties to
 
 You may permit third party service providers licensed by applicable law to:
 
-* Provide account information services to access information about your account on your behalf.
-* Confirm whether an amount necessary for the execution of a card-based payment transaction is available on your account.
-* Provide payment initiation services to initiate payments from your account on your behalf.
+*   Provide account information services to access information about your account on your behalf.
+*   Confirm whether an amount necessary for the execution of a card-based payment transaction is available on your account.
+*   Provide payment initiation services to initiate payments from your account on your behalf.
 
 Granting permission to any third party to access your account in any way does not relieve you of any of your responsibilities under this user agreement. You are liable to us for the actions that you authorize the third parties to carry out. You will not hold us responsible for, and you will indemnify us from, any liability arising from the actions or inactions of such third parties in connection with the permissions you granted, subject to your mandatory legal rights.
 
@@ -116,26 +116,26 @@ You can close your account at any time. See the [PayPal Help Center](https://ww
 
 We may close your account at our convenience by providing you with 2 months’ (but no less than 60 days') prior notice. We may also close your account at any time if:
 
-1. You are in breach of this user agreement and/or we are otherwise entitled to close your account under this user agreement.
-2. You do not access your account for 3 years.
-3. We suspect that your account has been accessed without your authorisation.
+1.  You are in breach of this user agreement and/or we are otherwise entitled to close your account under this user agreement.
+2.  You do not access your account for 3 years.
+3.  We suspect that your account has been accessed without your authorisation.
 
 Where we decide to close your account we will provide you with notice of account closure and where practicable, the reasons for closing your account, together with the ability to withdraw any undisputed funds that we are holding.
 
 When your account is closed:
 
-* This user agreement terminates immediately, except that this user agreement survives termination to the extent and for so long as we require to deal with the closure of your account and to comply with applicable laws and regulations.
-* We may cancel any pending transactions and you will forfeit any balances associated with special funding arrangements.
-* We may suspend, limit or terminate your access to or use of our services, websites, software, systems (including any networks and servers used to provide any of the services) operated by us or on our behalf or some or all of the services.
-* You will remain liable for all outstanding obligations under this user agreement related to your account prior to closure.
-* We may keep your account information in our database for the purpose of fulfilling our legal obligations.
-* We may retain your electronic money after closure to the extent and for the time we reasonably require to protect us and/or any third party against the risk of reversals, fees, fines, penalties and other liabilities of whatever nature. After this time you will be able to withdraw any undisputed funds that we are holding. Please [Contact Us](https://www.paypal.com/selfhelp/home) if you have any questions about funds held in your account on closure.  
+*   This user agreement terminates immediately, except that this user agreement survives termination to the extent and for so long as we require to deal with the closure of your account and to comply with applicable laws and regulations.
+*   We may cancel any pending transactions and you will forfeit any balances associated with special funding arrangements.
+*   We may suspend, limit or terminate your access to or use of our services, websites, software, systems (including any networks and servers used to provide any of the services) operated by us or on our behalf or some or all of the services.
+*   You will remain liable for all outstanding obligations under this user agreement related to your account prior to closure.
+*   We may keep your account information in our database for the purpose of fulfilling our legal obligations.
+*   We may retain your electronic money after closure to the extent and for the time we reasonably require to protect us and/or any third party against the risk of reversals, fees, fines, penalties and other liabilities of whatever nature. After this time you will be able to withdraw any undisputed funds that we are holding. Please [Contact Us](https://www.paypal.com/selfhelp/home) if you have any questions about funds held in your account on closure.  
     **If you are the legal representative of an incapacitated or deceased account holder, please** [Contact Us](https://www.paypal.com/selfhelp/home) for assistance.
 
 In the event that we decide to discontinue any of our services or any portion or feature of our services for any reason, we will give you at least two months’ (but no less than 60 days) prior notice before discontinuing the service or feature, unless we determine in good faith that:
 
-* The service or feature must be discontinued sooner as required by law or a third-party relationship.
-* Doing so could create a security risk or substantial economic or material technical burden.
+*   The service or feature must be discontinued sooner as required by law or a third-party relationship.
+*   Doing so could create a security risk or substantial economic or material technical burden.
 
 #### Right of withdrawal
 
@@ -158,10 +158,10 @@ Please keep your funding source information current (e.g. credit card number and
 
 By linking a funding source to your PayPal account, you give us continuous permission to automatically charge that funding source (subject to this user agreement and the terms of any mandate (e.g. bank direct debit) used by the provider of that funding source to set up and maintain that authority) for the required value of the electronic money:
 
-* To cover:
-    * The payment amount (plus all transaction fees payable to us) when you use your account to send a payment to another user.
-    * Any amounts you owe us arising from your activity as a recipient of payments using our services.
-* To top up your account when you use the "Add Funds" functionality account interface.
+*   To cover:
+    *   The payment amount (plus all transaction fees payable to us) when you use your account to send a payment to another user.
+    *   Any amounts you owe us arising from your activity as a recipient of payments using our services.
+*   To top up your account when you use the "Add Funds" functionality account interface.
 
 We may charge the funding source again if the previous attempt failed. If you cancel any continuous permission from your funding source, you will reimburse us for the value of any electronic money we've already issued for which a charge from that funding source remains outstanding.
 
@@ -169,9 +169,9 @@ You can stop the permission by unlinking the funding source from your PayPal acc
 
 SEPA is an initiative of the European Commission and European banking sector, aimed at making transactions more efficient within the European Union. If you are a user with a registered address in Cyprus, Estonia, Greece, Latvia, Lithuania, Malta, Slovakia and Slovenia, whenever you register a bank account with PayPal or use a new bank account for the first time as a Funding Source, you grant PayPal a SEPA Direct Debit mandate. If you use a SEPA Direct Debit mandate for the continuous authority:
 
-* You can access the mandate and the mandate reference number (MRN) in your PayPal account profile at any time and cancel or change the mandate for future transactions.
-* PayPal will inform you of the amount of the SEPA Direct Debit payment and the time frame in which PayPal will collect the amount from the bank account together with the purchase confirmation. If PayPal resubmits any SEPA Direct Debit payment request due to reversal of the original payment, there will be no (additional) information given on the amount and the time frame ahead of the resubmission.
-* You can claim a refund from your bank at any time up to 8 weeks after the date on which the SEPA Direct Debit payment took place in accordance with your bank's terms and conditions.
+*   You can access the mandate and the mandate reference number (MRN) in your PayPal account profile at any time and cancel or change the mandate for future transactions.
+*   PayPal will inform you of the amount of the SEPA Direct Debit payment and the time frame in which PayPal will collect the amount from the bank account together with the purchase confirmation. If PayPal resubmits any SEPA Direct Debit payment request due to reversal of the original payment, there will be no (additional) information given on the amount and the time frame ahead of the resubmission.
+*   You can claim a refund from your bank at any time up to 8 weeks after the date on which the SEPA Direct Debit payment took place in accordance with your bank's terms and conditions.
 
 #### Risk of reversals to your funding source and when eCheques may arise
 
@@ -186,8 +186,8 @@ You will not receive interest or any other earnings on the money in your account
 
 We may store and move the money in your account in and between:
 
-* The [PayPal balance](#holding1) and
-* The [reserve account](#holds-limits-reserves1).
+*   The [PayPal balance](#holding1) and
+*   The [reserve account](#holds-limits-reserves1).
 
 at any given time subject further to this user agreement.
 
@@ -216,13 +216,13 @@ Adding or Withdrawing Money
 
 To get electronic money into your account you can, subject further to this user agreement:
 
-* Accept a payment in your account from someone else. We may charge you [fees](#tableOfFees1) for this.
-* Obtain electronic money from us by paying us an equivalent amount.
+*   Accept a payment in your account from someone else. We may charge you [fees](#tableOfFees1) for this.
+*   Obtain electronic money from us by paying us an equivalent amount.
 
 You can obtain electronic money from us by:
 
-* Automatically using your applicable funding source(s) to cover the amount of the payments that you instruct us to send to other users (and the transaction fees payable by you to us).
-* Manually using the “Add Funds” function available from your account interface to pay us or instructing us to charge your funding source for the electronic money.
+*   Automatically using your applicable funding source(s) to cover the amount of the payments that you instruct us to send to other users (and the transaction fees payable by you to us).
+*   Manually using the “Add Funds” function available from your account interface to pay us or instructing us to charge your funding source for the electronic money.
 
 The execution of any payment to us from your funding source provider is your funding source provider's legal responsibility. We have no control over how long the payment to us will take.
 
@@ -232,16 +232,16 @@ If you have a PayPal balance, you may withdraw any amount by transferring it to 
 
 When you instruct us to withdraw any amount of your PayPal balance, subject further to this user agreement we will:
 
-* Convert the electronic money to money that we can transfer to your nominated funding source.
-* Instruct our own bank to transfer that money to your nominated funding source.
+*   Convert the electronic money to money that we can transfer to your nominated funding source.
+*   Instruct our own bank to transfer that money to your nominated funding source.
 
 We aim to send the withdrawal payment instruction to our bank by the end of the next Business Day (“Business Day” means a day on which banks in Luxembourg are open to the general public). if there are no other delays subject to this user agreement. Once our bank receives our payment instruction, we have no control over how long the payment to you will take to complete. At this point, our bank, your funding source provider and the payment systems that they rely on take over responsibility for getting the money to your nominated funding source and this can affect the time it takes for you to receive your money. We may allow you to withdraw the money by transferring the money to:
 
-* An eligible bank account (where we make this available) through:
-    * A standard transfer to your bank account linked to your account (this withdrawal/redemption functionality is sometimes known as “transfer to bank”); or
-    * An Instant Transfer to your bank account linked to your account.  
+*   An eligible bank account (where we make this available) through:
+    *   A standard transfer to your bank account linked to your account (this withdrawal/redemption functionality is sometimes known as “transfer to bank”); or
+    *   An Instant Transfer to your bank account linked to your account.  
         We may allow the above transfers to be made through the debit card attached to that bank account.
-* Your branded MasterCard or Visa card (where we make this available).
+*   Your branded MasterCard or Visa card (where we make this available).
 
 [Fees](#tableOfFees1) apply to withdrawals. We will also disclose to you the fees in advance each time you initiate such a withdrawal.
 
@@ -251,8 +251,8 @@ You may only withdraw PayPal balance in the opening currency of your account, un
 
 This means that if you withdraw:
 
-* A PayPal balance held in a currency other than the original opening currency of your account, the conversion into your original opening currency will be performed using our [transaction exchange rate](https://www.paypal.com/webapps/mpp/paypal-fees).
-* To a funding source (for example, bank account or card) denominated in a currency other than the original opening currency of your account, the conversion into the currency in which the funding source is denominated will be performed using our [transaction exchange rate](https://www.paypal.com/webapps/mpp/paypal-fees).
+*   A PayPal balance held in a currency other than the original opening currency of your account, the conversion into your original opening currency will be performed using our [transaction exchange rate](https://www.paypal.com/webapps/mpp/paypal-fees).
+*   To a funding source (for example, bank account or card) denominated in a currency other than the original opening currency of your account, the conversion into the currency in which the funding source is denominated will be performed using our [transaction exchange rate](https://www.paypal.com/webapps/mpp/paypal-fees).
 
 Your issuer may also charge you if a currency conversion to the currency your card is issued in, is required.
 
@@ -269,7 +269,7 @@ When you open your account, it is configured for use with the opening currency o
 
 The opening currency of your account is euro (EUR), except as follows for if you are registered with us as resident in one of these countries:
 
-* Czech Republic: Czech koruna (CZK).
+*   Czech Republic: Czech koruna (CZK).
 
 You may set the currency on your card.
 
