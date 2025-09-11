@@ -84,64 +84,64 @@ We collect the following Personal Data we consider **necessary to fulfil our pr
 
 **Necessary categories of Personal Data include:**
 
-* Registration and Contact Information
-* Identification and Signature Information
-* Payment Information
-* Information related to legal requirements
-* Information you provide when you contact us
-* Transaction information
-* Package Tracking
-* Service-specific Personal Data
-* Information from credit reporting agencies and financial institutions
-* Information from your connected financial accounts
-* Information from your use of the Services
-* Technical usage data
-* Device information
-* Location data
+*   Registration and Contact Information
+*   Identification and Signature Information
+*   Payment Information
+*   Information related to legal requirements
+*   Information you provide when you contact us
+*   Transaction information
+*   Package Tracking
+*   Service-specific Personal Data
+*   Information from credit reporting agencies and financial institutions
+*   Information from your connected financial accounts
+*   Information from your use of the Services
+*   Technical usage data
+*   Device information
+*   Location data
 
 **These activities include**:
 
-* to provide our Services, to fulfil relevant agreements with you and to otherwise administer our business relationship with you.
-* to administer your payment for products and the customer relationship.
-* to assess your creditworthiness in connection with your application, confirm your identity and your contact information, and protect you and others from fraud.
-* to confirm your identity, also through the use of electronic signature, and verify your personal and contact details.
-* to prove that transactions have been executed.
-* to establish, exercise or defend a legal claim or collection procedures.
-* to comply with internal procedures.
-* to assess which payment options and services to offer you, for example by carrying out internal and external credit assessments.
-* for customer analysis, to administer our Services, and for internal operations, for example troubleshooting, data analysis, testing, research and statistical purposes.
-* to communicate with you in relation to our Services.
-* to comply with applicable EU and Member State laws, such as anti-money laundering and booking keeping laws and rules issued by our designated banks and relevant card networks.
+*   to provide our Services, to fulfil relevant agreements with you and to otherwise administer our business relationship with you.
+*   to administer your payment for products and the customer relationship.
+*   to assess your creditworthiness in connection with your application, confirm your identity and your contact information, and protect you and others from fraud.
+*   to confirm your identity, also through the use of electronic signature, and verify your personal and contact details.
+*   to prove that transactions have been executed.
+*   to establish, exercise or defend a legal claim or collection procedures.
+*   to comply with internal procedures.
+*   to assess which payment options and services to offer you, for example by carrying out internal and external credit assessments.
+*   for customer analysis, to administer our Services, and for internal operations, for example troubleshooting, data analysis, testing, research and statistical purposes.
+*   to communicate with you in relation to our Services.
+*   to comply with applicable EU and Member State laws, such as anti-money laundering and booking keeping laws and rules issued by our designated banks and relevant card networks.
 
 We have a legitimate interest in ensuring that PayPal remains a secure financial service and continuing to offer services that are innovative and of interest to you. We do this where **our legitimate interests are not outweighed by your right not to have your data processed for this purpose**.
 
 **These activities include:**
 
-* to ensure that content is presented in the most effective way for you and your device.
-* to prevent misuse of our Services as part of our efforts to keep our platform safe and secure.
-* to determine your eligibility for and to communicate with you about Services for which you may qualify or that may be of interest to you, for example by carrying out internal credit assessments.
-* to carry out risk analysis, fraud prevention and risk management.
-* to improve our Services and for general business development purposes, for example improving risk models to minimize fraud, develop new products and features and explore new business opportunities.
-* To keep your Account and financial information up to date.
-* for marketing, product and customer analysis, including testing, for example to improve our product range and optimize our customer offerings.
-* to comply with applicable laws, such as anti-money laundering, bookkeeping laws, regulatory capital adequacy requirements, and rules issued by our designated banks and relevant card networks. For example, when we process Personal Data for know-your-customer (“KYC”) requirements, to prevent, detect and investigate money laundering, terrorist financing and fraud. We also carry out sanction screening, report to tax authorities, police enforcement authorities, enforcement authorities, supervisory authorities where we are not compelled by EU and Member State law but where we have a good faith belief that sharing the information is necessary to comply with applicable law.
-* to facilitate your participation in competitions, offerings, and events.
-* to conduct financial risk management obligations such as credit performance and quality, insurance risks and compliance with capital adequacy requirements under applicable law
-* to process information about your contacts to make it easy for you to find and connect them and improve payment accuracy. **By providing us with information about your contacts you certify that you have permission to provide that information to PayPal for the purposes described in this Privacy Statement.**
-* to provide you with information, news, and marketing about our Services, including where we partner with others to offer similar services.
-* to associate information about you to identify your use of Services without a PayPal account (e.g. Pay without a PayPal account) or Unbranded Payment Services (e.g. such as Braintree) and to associate such transactions with your account, if you have one or later establish an account.
-* to remember your preferences for the next time you use the Services, such as which of your payment methods you prefer or whether you choose to receive digital receipts via email or text when you checkout.
+*   to ensure that content is presented in the most effective way for you and your device.
+*   to prevent misuse of our Services as part of our efforts to keep our platform safe and secure.
+*   to determine your eligibility for and to communicate with you about Services for which you may qualify or that may be of interest to you, for example by carrying out internal credit assessments.
+*   to carry out risk analysis, fraud prevention and risk management.
+*   to improve our Services and for general business development purposes, for example improving risk models to minimize fraud, develop new products and features and explore new business opportunities.
+*   To keep your Account and financial information up to date.
+*   for marketing, product and customer analysis, including testing, for example to improve our product range and optimize our customer offerings.
+*   to comply with applicable laws, such as anti-money laundering, bookkeeping laws, regulatory capital adequacy requirements, and rules issued by our designated banks and relevant card networks. For example, when we process Personal Data for know-your-customer (“KYC”) requirements, to prevent, detect and investigate money laundering, terrorist financing and fraud. We also carry out sanction screening, report to tax authorities, police enforcement authorities, enforcement authorities, supervisory authorities where we are not compelled by EU and Member State law but where we have a good faith belief that sharing the information is necessary to comply with applicable law.
+*   to facilitate your participation in competitions, offerings, and events.
+*   to conduct financial risk management obligations such as credit performance and quality, insurance risks and compliance with capital adequacy requirements under applicable law
+*   to process information about your contacts to make it easy for you to find and connect them and improve payment accuracy. **By providing us with information about your contacts you certify that you have permission to provide that information to PayPal for the purposes described in this Privacy Statement.**
+*   to provide you with information, news, and marketing about our Services, including where we partner with others to offer similar services.
+*   to associate information about you to identify your use of Services without a PayPal account (e.g. Pay without a PayPal account) or Unbranded Payment Services (e.g. such as Braintree) and to associate such transactions with your account, if you have one or later establish an account.
+*   to remember your preferences for the next time you use the Services, such as which of your payment methods you prefer or whether you choose to receive digital receipts via email or text when you checkout.
 
 We have a legal obligation under EU and Member State laws to conduct certain processing activities. **We do this where it is necessary to comply with applicable laws**.
 
 **These activities include:**
 
-* to provide our Services and products.
-* to certify your identity, also for signature purposes, and verify your personal and contact details.
-* to establish, exercise or defend a legal claim or collection procedures.
-* to prevent misuse of our Services as part of our efforts to keep our platform safe and secure.
-* to carry out risk analysis, fraud prevention and risk management.
-* to comply with applicable laws, such as anti-money laundering and bookkeeping laws and regulatory capital adequacy requirements and rules issued by our designated banks and relevant card networks. For example, when we process Personal Data for know-your-customer (“KYC”) requirements, to prevent, detect and investigate money laundering, terrorist financing and fraud. We also carry out sanction screening, report to tax authorities, police enforcement authorities, enforcement authorities, supervisory authorities.
+*   to provide our Services and products.
+*   to certify your identity, also for signature purposes, and verify your personal and contact details.
+*   to establish, exercise or defend a legal claim or collection procedures.
+*   to prevent misuse of our Services as part of our efforts to keep our platform safe and secure.
+*   to carry out risk analysis, fraud prevention and risk management.
+*   to comply with applicable laws, such as anti-money laundering and bookkeeping laws and regulatory capital adequacy requirements and rules issued by our designated banks and relevant card networks. For example, when we process Personal Data for know-your-customer (“KYC”) requirements, to prevent, detect and investigate money laundering, terrorist financing and fraud. We also carry out sanction screening, report to tax authorities, police enforcement authorities, enforcement authorities, supervisory authorities.
 
 **We rely on your explicit and voluntary consent** to process your Personal Data to participate in certain features that while not necessary for use of the Services may be of interest to you, such as syncing your contact list to your account, providing biometric data, targeted advertising, linking your email account for package tracking or connecting to a third-party platform. You may change your mind about use of these features at any time through your account settings. Note that withdrawing your consent will not affect the lawfulness of any processing we have conducted prior to your withdrawal. Please refer to Section 10 (“[**Your data protection rights**](#10)”) for more information on your right to withdraw your consent.
 
@@ -152,17 +152,17 @@ We will share your Personal Data with third parties where there is a lawful basi
 
 **This includes:**
 
-* **With other PayPal Companies**, in order to provide you with the Services and for our own legitimate interests in conducting our business. These interests are described further in Section 5 (“[**What Personal Data is used and for which legal basis?**](#5)**”)**. The receiving PayPal company will process your Personal Data in accordance with this Privacy Statement.
-* **With authorities**, to the extent we are under a legal obligation to do so. Such authorities include tax authorities, police authorities, enforcement authorities and supervisory authorities in relevant countries. We may also be required to provide competent authorities information about your use of our Services, for example revenue or tax authorities, which may include your name, address and information regarding card transactions processed by us on your behalf through our Services. The legal basis for complying with disclosure obligations under EU and Member States’ law is legal obligation and where acting under non-EU and Member State law, on the basis of our legitimate interest to comply with relevant laws to deter illegal conduct.
-* **With other financial institutions and card networks**, for example to facilitate payment processing, to jointly offer a product or to add cards to your electronic wallet. The legal basis for our disclosure is performance of our contract with you. These parties may also access your Personal Data for other legitimate purposes such as identification verification, fraud prevention and risk management. The legal basis for this processing is the legitimate interest of ourselves and our partners to deter fraudulent and illegal conduct.
-* **With fraud prevention and identity verification agencies**, for example to assist us in detecting activities suggestive of fraud. The legal basis for this processing is the legitimate interest of ourselves and our partners to deter fraudulent and illegal conduct.
-* **With debt collection agencies,** for example to collect unpaid overdue debts through a third party such as a debt collection agency. We do this on the basis of our legitimate interest to conduct business and recover debts. Please be aware that these parties’ privacy notice applies to the processing of Personal Data that you share directly with them, and they may report your unpaid debts to credit reporting agencies which may affect your creditworthiness or ability to secure future credit.
-* **With service providers** that operate at our direction and on our behalf to perform services we outsource to them, such as marketing, IT development, maintenance, hosting and support and customer service operations. The legal basis for this processing is the performance of our contractual obligations to you.
-* **With other Users in accordance with your Account Settings**. You may display or make certain information available to other Users, such as your profile photo, first and last name, username, or city in accordance with your Account Settings. The legal basis for this processing is your consent. Please note that you can change your profile settings at any time and at no cost to you.
-* **With financial institutions in connection with your participation in Open Banking**, for example when you initiate an Account connection with another bank, card account, or aggregator. We do this to check if you have sufficient funds or confirm your ownership of the account. When you choose to link your Account the legal basis for accessing your account data is performance of our contractual obligations to you.
-* **With partners and merchants, their service providers and others involved in a transaction**, for example when you use the Services to initiate online purchases, pay other Users, or return goods we may share information about you and your Account with the other parties involved in processing your transactions. The legal basis for this processing is the performance of our contractual obligations to you and for our legitimate interests. Please note that Personal Data shared with partners and merchants (or their service providers) involved in a transaction is subject to the partners and merchants’ own privacy policy and procedures.
-* **With third parties that are independent data controllers**, for example when we share Personal Data to credit reference agencies, acquirers and other financial institutions, or security products to prevent bots from accessing our Services. **Please be aware that these parties’ privacy notice applies to the processing of Personal Data that you share directly with them**. For example, we use Google’s reCAPTCHA to prevent misuse of our Services, when you access our mobile application. Google’s [**Privacy Policy**](https://www.google.com/intl/en/policies/privacy/) and [**Terms of Use**](https://www.google.com/intl/en/policies/terms/) apply to the processing of Personal Data you share with them. For more information specific to credit reference agencies we partner to assess your creditworthiness, see Section 12, (“**Credit Reference Agency Information Notice**”).
-* **With buyers or in connection with business transfer**, for example if we sell business or assets, we may share your Personal Data to a buyer of those business or assets. If PayPal or a significant portion of PayPal’s assets are acquired by a third party, Personal Data may also be shared. PayPal has a legitimate interest in being able to carry out these transactions.
+*   **With other PayPal Companies**, in order to provide you with the Services and for our own legitimate interests in conducting our business. These interests are described further in Section 5 (“[**What Personal Data is used and for which legal basis?**](#5)**”)**. The receiving PayPal company will process your Personal Data in accordance with this Privacy Statement.
+*   **With authorities**, to the extent we are under a legal obligation to do so. Such authorities include tax authorities, police authorities, enforcement authorities and supervisory authorities in relevant countries. We may also be required to provide competent authorities information about your use of our Services, for example revenue or tax authorities, which may include your name, address and information regarding card transactions processed by us on your behalf through our Services. The legal basis for complying with disclosure obligations under EU and Member States’ law is legal obligation and where acting under non-EU and Member State law, on the basis of our legitimate interest to comply with relevant laws to deter illegal conduct.
+*   **With other financial institutions and card networks**, for example to facilitate payment processing, to jointly offer a product or to add cards to your electronic wallet. The legal basis for our disclosure is performance of our contract with you. These parties may also access your Personal Data for other legitimate purposes such as identification verification, fraud prevention and risk management. The legal basis for this processing is the legitimate interest of ourselves and our partners to deter fraudulent and illegal conduct.
+*   **With fraud prevention and identity verification agencies**, for example to assist us in detecting activities suggestive of fraud. The legal basis for this processing is the legitimate interest of ourselves and our partners to deter fraudulent and illegal conduct.
+*   **With debt collection agencies,** for example to collect unpaid overdue debts through a third party such as a debt collection agency. We do this on the basis of our legitimate interest to conduct business and recover debts. Please be aware that these parties’ privacy notice applies to the processing of Personal Data that you share directly with them, and they may report your unpaid debts to credit reporting agencies which may affect your creditworthiness or ability to secure future credit.
+*   **With service providers** that operate at our direction and on our behalf to perform services we outsource to them, such as marketing, IT development, maintenance, hosting and support and customer service operations. The legal basis for this processing is the performance of our contractual obligations to you.
+*   **With other Users in accordance with your Account Settings**. You may display or make certain information available to other Users, such as your profile photo, first and last name, username, or city in accordance with your Account Settings. The legal basis for this processing is your consent. Please note that you can change your profile settings at any time and at no cost to you.
+*   **With financial institutions in connection with your participation in Open Banking**, for example when you initiate an Account connection with another bank, card account, or aggregator. We do this to check if you have sufficient funds or confirm your ownership of the account. When you choose to link your Account the legal basis for accessing your account data is performance of our contractual obligations to you.
+*   **With partners and merchants, their service providers and others involved in a transaction**, for example when you use the Services to initiate online purchases, pay other Users, or return goods we may share information about you and your Account with the other parties involved in processing your transactions. The legal basis for this processing is the performance of our contractual obligations to you and for our legitimate interests. Please note that Personal Data shared with partners and merchants (or their service providers) involved in a transaction is subject to the partners and merchants’ own privacy policy and procedures.
+*   **With third parties that are independent data controllers**, for example when we share Personal Data to credit reference agencies, acquirers and other financial institutions, or security products to prevent bots from accessing our Services. **Please be aware that these parties’ privacy notice applies to the processing of Personal Data that you share directly with them**. For example, we use Google’s reCAPTCHA to prevent misuse of our Services, when you access our mobile application. Google’s [**Privacy Policy**](https://www.google.com/intl/en/policies/privacy/) and [**Terms of Use**](https://www.google.com/intl/en/policies/terms/) apply to the processing of Personal Data you share with them. For more information specific to credit reference agencies we partner to assess your creditworthiness, see Section 12, (“**Credit Reference Agency Information Notice**”).
+*   **With buyers or in connection with business transfer**, for example if we sell business or assets, we may share your Personal Data to a buyer of those business or assets. If PayPal or a significant portion of PayPal’s assets are acquired by a third party, Personal Data may also be shared. PayPal has a legitimate interest in being able to carry out these transactions.
 
 7\. How long does PayPal store your Personal Data?
 --------------------------------------------------
@@ -171,9 +171,9 @@ We retain Personal Data for as long as needed or permitted in context of the pur
 
 **The criteria used to determine our retention period is as follows:**
 
-* Personal Data used for the ongoing relationship between you and PayPal is stored for the duration of the relationship plus a period of 10 years
-* Personal Data in relation to a legal obligation to which we are subject is retained consistent with the applicable law, such as under applicable bankruptcy laws and AML obligations.
-* We retain Personal Data for the least amount of time necessary where retention is advisable in light of litigation, investigations, audit and compliance practices, or to protect against legal claims.
+*   Personal Data used for the ongoing relationship between you and PayPal is stored for the duration of the relationship plus a period of 10 years
+*   Personal Data in relation to a legal obligation to which we are subject is retained consistent with the applicable law, such as under applicable bankruptcy laws and AML obligations.
+*   We retain Personal Data for the least amount of time necessary where retention is advisable in light of litigation, investigations, audit and compliance practices, or to protect against legal claims.
 
 8\. International Transfers of Personal Data
 --------------------------------------------
@@ -189,11 +189,11 @@ We use Cookies to collect your device information, internet activity information
 
 **Cookies help us to do the following:**
 
-* Remember your information so you do not have to re-enter it
-* Track and understand how you use and interact with our online services and emails
-* Tailor our online services to your preferences
-* Measure how useful and effective our services and communications are to you
-* Otherwise manage and enhance our products and services
+*   Remember your information so you do not have to re-enter it
+*   Track and understand how you use and interact with our online services and emails
+*   Tailor our online services to your preferences
+*   Measure how useful and effective our services and communications are to you
+*   Otherwise manage and enhance our products and services
 
 Do Not Track (DNT) is an optional browser setting that allows you to express your preferences regarding tracking by advertisers and other third parties. At this time our Sites are not designed to respond to DNT signals or similar mechanisms from browsers.
 
@@ -206,34 +206,34 @@ Under applicable data protection law, you have certain rights to control our col
 
 **Access, rectification, deletion, objection, portability, and restriction of your information**
 
-* We recognize the importance of your ability to control use of your Personal Data and provide several ways for you to exercise your rights to access (right to know), rectification (correction or update), deletion (erasure), objection, portability (transferring), and to restrict process in whole or in part.
-* If you have an Account you can exercise your data protection rights by accessing “Data and Privacy” from Account Settings in the PayPal app. Even if you do not you have an Account (for example, where you use Payment without a PayPal account), you can submit a request for access, modification, correction, or deletion of your information, for your Payment without a PayPal account transactions. You can submit a request related to someone else’s information, if you are their authorized agent, by contacting us. Please note that we may require you to provide additional information for verification.
+*   We recognize the importance of your ability to control use of your Personal Data and provide several ways for you to exercise your rights to access (right to know), rectification (correction or update), deletion (erasure), objection, portability (transferring), and to restrict process in whole or in part.
+*   If you have an Account you can exercise your data protection rights by accessing “Data and Privacy” from Account Settings in the PayPal app. Even if you do not you have an Account (for example, where you use Payment without a PayPal account), you can submit a request for access, modification, correction, or deletion of your information, for your Payment without a PayPal account transactions. You can submit a request related to someone else’s information, if you are their authorized agent, by contacting us. Please note that we may require you to provide additional information for verification.
 
 **Your right to object to the Automated Decisions and profiling**
 
-* If you are not approved under the Automated Decisions described below, you will not have access to our services, such as our payment methods. PayPal has several safety mechanisms to ensure the decisions are appropriate. These mechanisms include ongoing overviews of our decision models and random sampling in individual cases. If you have any concern about the outcome, you can [**contact us**](#18), and we will determine whether the procedure was performed appropriately.
-* You have the right to object to an Automated Decision with legal consequences or decisions which can otherwise significantly affect you (together with the relevant profiling) by [**contacting us**](#18). We will then review the decision, taking into account relevant additional circumstances.
+*   If you are not approved under the Automated Decisions described below, you will not have access to our services, such as our payment methods. PayPal has several safety mechanisms to ensure the decisions are appropriate. These mechanisms include ongoing overviews of our decision models and random sampling in individual cases. If you have any concern about the outcome, you can [**contact us**](#18), and we will determine whether the procedure was performed appropriately.
+*   You have the right to object to an Automated Decision with legal consequences or decisions which can otherwise significantly affect you (together with the relevant profiling) by [**contacting us**](#18). We will then review the decision, taking into account relevant additional circumstances.
 
 **Consent**
 
-* Generally, if we use your Personal Data with your consent, you have the right to withdraw your consent at any time without affecting the lawfulness of processing based on consent before its withdrawal.
-* Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Data conducted in reliance on a lawful processing ground other than consent.
+*   Generally, if we use your Personal Data with your consent, you have the right to withdraw your consent at any time without affecting the lawfulness of processing based on consent before its withdrawal.
+*   Withdrawing your consent will not affect the lawfulness of any processing we conducted prior to your withdrawal, nor will it affect processing of your Personal Data conducted in reliance on a lawful processing ground other than consent.
 
 **Right to object to Direct Marketing**
 
-* If we use your Personal Data for direct marketing, you can always modify your permissions, object and opt out of future direct marketing messages using the unsubscribe link in electronic communications or through your Account Settings.
+*   If we use your Personal Data for direct marketing, you can always modify your permissions, object and opt out of future direct marketing messages using the unsubscribe link in electronic communications or through your Account Settings.
 
 **Right to object to Legitimate Interest processing**
 
-* If we use your Personal Data to pursue our legitimate interests or those of a third-party, you have the right to object to our use for that purpose. See Section 5 (“[**What Personal Data is used and for which Legal Basis?**](#5)”)
+*   If we use your Personal Data to pursue our legitimate interests or those of a third-party, you have the right to object to our use for that purpose. See Section 5 (“[**What Personal Data is used and for which Legal Basis?**](#5)”)
 
 **How do you exercise your rights and how can you contact us or the data protection authority?**
 
-* If you are unhappy with our processing of your Personal Data for any reason, you have the right to lodge a complaint with the supervisory authority for data protection in your country.
-* Our Data Protection Officer can be contacted online or by post at PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449, Luxembourg.
-* You may also seek a remedy through **local courts** if you believe your rights have been breached.
-* You may also lodge a complaint with **our lead supervisory authority for data protection**, Luxemburg National Commission for Data Protection (CNPD) by post at Commission Nationale pour la Protection des Donnees, Service des plaints, 15, Boulevard du Jazz, L-4370 Belvaux, Luxembourg.
-* UK Representative can be contacted by post for any UK-specific data protection inquiries at Bird & Bird GDPR Representative UK, 12 New Fetter Lane, Holburn, London EC4A 1JP.
+*   If you are unhappy with our processing of your Personal Data for any reason, you have the right to lodge a complaint with the supervisory authority for data protection in your country.
+*   Our Data Protection Officer can be contacted online or by post at PayPal (Europe) S.à.r.l. et Cie, S.C.A., 22-24 Boulevard Royal L-2449, Luxembourg.
+*   You may also seek a remedy through **local courts** if you believe your rights have been breached.
+*   You may also lodge a complaint with **our lead supervisory authority for data protection**, Luxemburg National Commission for Data Protection (CNPD) by post at Commission Nationale pour la Protection des Donnees, Service des plaints, 15, Boulevard du Jazz, L-4370 Belvaux, Luxembourg.
+*   UK Representative can be contacted by post for any UK-specific data protection inquiries at Bird & Bird GDPR Representative UK, 12 New Fetter Lane, Holburn, London EC4A 1JP.
 
 11\. Specific information about automated decision-making and profiling
 -----------------------------------------------------------------------
@@ -311,27 +311,27 @@ h. Disclose aggregated statistical data with our business partners or for public
 
 i. Share necessary Account Information with unaffiliated third parties (listed [**here**](https://www.paypal.com/legalhub/third-parties-list)) for their use for the following purposes:
 
-1. Fraud Prevention and Risk Management: to help prevent fraud or assess and manage risk.
-2. Customer Service: for customer service purposes, including to help service your accounts or resolve disputes (e.g., billing or transactional).
-3. Shipping: in connection with shipping and related services for purchases made using PayPal.
-4. Legal Compliance: to help them comply with anti-money laundering and counter-terrorist financing verification requirements.
-5. Service Providers: to enable service providers under contract with us to support our business operations, such as fraud prevention, bill collection, marketing, customer service and technology services. Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
+1.  Fraud Prevention and Risk Management: to help prevent fraud or assess and manage risk.
+2.  Customer Service: for customer service purposes, including to help service your accounts or resolve disputes (e.g., billing or transactional).
+3.  Shipping: in connection with shipping and related services for purchases made using PayPal.
+4.  Legal Compliance: to help them comply with anti-money laundering and counter-terrorist financing verification requirements.
+5.  Service Providers: to enable service providers under contract with us to support our business operations, such as fraud prevention, bill collection, marketing, customer service and technology services. Our contracts dictate that these service providers only use your information in connection with the services they perform for us and not for their own benefit.
 
 17\. Definitions
 ----------------
 
-* Device Information means data that can be automatically collected from any device used to access the Site or Services. Such information may include, but is not limited to, your device type; your device’s network connections; your device’s name; your device IP address; information about your device’s web browser and internet connection you use to access the Site or Services; Geolocation Information; information about apps downloaded to your device; and biometric data.
-* Geolocation Information means information that identifies, with precise specificity, your location by using, for instance, longitude and latitude coordinates obtained through your GPS, or your device settings.
-* Location Information means information that identifies, with reasonable specificity, your approximate location by using, for instance, longitude and latitude coordinates obtained through GPS or Wi-Fi or cell site triangulation.
-* Partner means the merchant or business that our Users transact with for the purpose of obtaining goods or services.
-* Pay without a PayPal account means the same as in the [**Terms for Payments without a PayPal account**](https://www.paypal.com/legalhub/privacywax-full).
-* PayPal Companies means companies that are owned and operated by PayPal, and process Personal Data in accordance with their terms of service and privacy policies. PayPal Companies include Honey Science LLC, Paidy Inc., Happy Returns, LLC, HyperWallet, and Braintree.
-* Personal Data means information that can be associated with an identified or directly or indirectly identifiable natural person. “Personal Data” can include, but is not limited to, name, postal address (including billing and shipping addresses), telephone number, email address, payment card number, other financial account information, account number, date of birth, government-issued credentials (e.g., driver’s license number, national ID, passport number), and biometrics.
-* Processing means any method or way that we handle Personal Data or sets of Personal Data, whether by automated means, such as by collection, recording, categorization, structuring, storage, adaptation or alteration, retrieval, and consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction of Personal Data.
-* Services means any PayPal branded or Unbranded Payment Services, Pay without a PayPal account, credit products and services, content, features, technologies, or functions, and all related websites, applications and services offered to you by PayPal. Your use of the Services includes use of our Sites.
-* Sites means the websites, mobile apps, official social media platforms, or other online properties through which PayPal offers the Services and which has posted or linked to this Privacy Statement.
-* Unbranded Payment Services means you are interacting with and making payments to merchants using our card payment services that do not carry the PayPal brand.
-* User is any person who uses the Services as a consumer for personal or household use. For the purposes of this Notice, “User” includes “you” and “your”.
+*   Device Information means data that can be automatically collected from any device used to access the Site or Services. Such information may include, but is not limited to, your device type; your device’s network connections; your device’s name; your device IP address; information about your device’s web browser and internet connection you use to access the Site or Services; Geolocation Information; information about apps downloaded to your device; and biometric data.
+*   Geolocation Information means information that identifies, with precise specificity, your location by using, for instance, longitude and latitude coordinates obtained through your GPS, or your device settings.
+*   Location Information means information that identifies, with reasonable specificity, your approximate location by using, for instance, longitude and latitude coordinates obtained through GPS or Wi-Fi or cell site triangulation.
+*   Partner means the merchant or business that our Users transact with for the purpose of obtaining goods or services.
+*   Pay without a PayPal account means the same as in the [**Terms for Payments without a PayPal account**](https://www.paypal.com/legalhub/privacywax-full).
+*   PayPal Companies means companies that are owned and operated by PayPal, and process Personal Data in accordance with their terms of service and privacy policies. PayPal Companies include Honey Science LLC, Paidy Inc., Happy Returns, LLC, HyperWallet, and Braintree.
+*   Personal Data means information that can be associated with an identified or directly or indirectly identifiable natural person. “Personal Data” can include, but is not limited to, name, postal address (including billing and shipping addresses), telephone number, email address, payment card number, other financial account information, account number, date of birth, government-issued credentials (e.g., driver’s license number, national ID, passport number), and biometrics.
+*   Processing means any method or way that we handle Personal Data or sets of Personal Data, whether by automated means, such as by collection, recording, categorization, structuring, storage, adaptation or alteration, retrieval, and consultation, use, disclosure by transmission, dissemination or otherwise making available, alignment or combination, restriction, erasure or destruction of Personal Data.
+*   Services means any PayPal branded or Unbranded Payment Services, Pay without a PayPal account, credit products and services, content, features, technologies, or functions, and all related websites, applications and services offered to you by PayPal. Your use of the Services includes use of our Sites.
+*   Sites means the websites, mobile apps, official social media platforms, or other online properties through which PayPal offers the Services and which has posted or linked to this Privacy Statement.
+*   Unbranded Payment Services means you are interacting with and making payments to merchants using our card payment services that do not carry the PayPal brand.
+*   User is any person who uses the Services as a consumer for personal or household use. For the purposes of this Notice, “User” includes “you” and “your”.
 
 18\. Our Contact Information
 ----------------------------
@@ -340,5 +340,5 @@ Contact our Data Protection Officer (DPO) [**Online**](https://www.paypal.com/e
 
 If you are a **resident of the UK**, contact our representative at Bird & Bird GDPR Representative UK, 12 New Fetter Lane, Holburn, London EC4A 1JP.
 
-* Click [**here**](https://www.paypal.com/eu/smarthelp/contact-us/privacy) to contact us about your PayPal Account or Service
-* Click [**here**](https://www.xoom.com/contact-xoom-customer-service) to contact us about your Xoom Account or Service
+*   Click [**here**](https://www.paypal.com/eu/smarthelp/contact-us/privacy) to contact us about your PayPal Account or Service
+*   Click [**here**](https://www.xoom.com/contact-xoom-customer-service) to contact us about your Xoom Account or Service
