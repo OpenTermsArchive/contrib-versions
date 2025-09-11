@@ -1,6 +1,12 @@
-### **ASUS Privacy Policy**
+**ASUS Privacy Policy****/ ASUS EU Data Act Policy** 
+=====================================================
 
-ASUSTek Computer Inc. and its affiliated entities (**“ASUS”**, “**we, “our, or “us**”) are dedicated to protecting your privacy and complying with privacy laws. The ASUS Privacy Policy (“Privacy Policy”), along with any other privacy notices related to specific products and services, explains how we collect, use, and safeguard your personal data online and offline. The Privacy Policy also details who we may share or disclose the collected personal data with.
+ASUSTek Computer Inc. and its affiliated entities (“ASUS”, “we, “our, or “us”) are dedicated to protecting your privacy/ data and complying with privacy/ data laws. Please find the below general introduction of ASUS Privacy Policy (**Part 1**) and ASUS EU Data Act Policy (**Part 2**) regarding our practices of privacy/ data protection.  
+
+**\*Pa****rt 1: ASUS Privacy Policy:**
+--------------------------------------
+
+The ASUS Privacy Policy (“Privacy Policy”), along with any other privacy notices related to specific products and services, explains how we collect, use, and safeguard your personal data online and offline. The Privacy Policy also details who we may share or disclose the collected personal data with.
 
 If you are a child, you can only use ASUS products and services if your parent (or guardian) has read and agreed to our Privacy Policy and consents to providing your personal data to ASUS.
 
@@ -22,13 +28,13 @@ Additionally, when you log into your ASUS/ROG account on the ASUS official websi
 
 (2) When you buy a product or service from the ASUS official online store at our official website, for order management or to provide ASUS online store-related services, we collect your name, shipping/billing address, contact info (such as email and phone number), and order details. For some countries where ASUS official online stores are operated by our authorized resellers, the above data will also be collected by those resellers to fulfill your purchase orders with them. For more information about how they collect and use your personal data through ASUS official online store, please consult their privacy policies.
 
-(3) If you request customer services (such as a repair or an inquiry about ASUS products or services), we may collect your name, contact info (such as email and phone number), shipping address, country, product data (such as serial number), product purchase information (such as a copy of your proof of purchase to calculate or evaluate your warranty period), fail-log files in your product and your VAT number or Tax Code for invoice issuance (if the services incur any costs).
+(3) If you request customer services (such as a repair or an inquiry about ASUS products or services), we may collect your name, contact info (such as email and phone number), shipping address, country, product identifiers (such as serial number), product purchase information (such as a copy of your proof of purchase to calculate or evaluate your warranty period), fail-log files in your product and your VAT number or Tax Code for invoice issuance (if the services incur any costs).
 
-(4) When you enter our events or campaigns, we may collect your name, contact info, submitted content (such as posts, reviews, or pictures), product data (such as serial number), product purchase information (such as a copy of your proof of purchase), and additional personal data if you win or receive giveaways, such as a shipping address for the delivery of physical giveaways, and your residential address, ID or passport number and its copy for tax declaration purpose. The collected data items will vary depending on the types of events or campaigns you join. Moreover, for certain events that offer cashback, you may need to provide your bank account information for wire-transfer purposes.
+(4) When you enter our events or campaigns, we may collect your name, contact info, submitted content (such as posts, reviews, or pictures), product identifiers (such as serial number), product purchase information (such as a copy of your proof of purchase), and additional personal data if you win or receive giveaways, such as a shipping address for the delivery of physical giveaways, and your residential address, ID or passport number and its copy for tax declaration purpose. The collected data items will vary depending on the types of events or campaigns you join. Moreover, for certain events that offer cashback, you may need to provide your bank account information for wire-transfer purposes.
 
 (5) When you use our healthcare products and services, we may collect health-related data like age, gender, height, weight, body temperature, heart rate, blood pressure, and daily activity information.
 
-(6) When you use ASUS products and services, we may collect product data like IP Address and DDNS name for internet or network connection and providing services. We may also collect serial number, MAC Address, WiFi MAC Address, IMEI number, CPU ID, and other unique identifiers to perform and enhance the functions of ASUS products and services.
+(6) When you use ASUS products and services, we may collect log data like IP Address and DDNS name for internet or network connection and providing services. We may also collect serial number, MAC Address, WiFi MAC Address, IMEI number, CPU ID, and other unique identifiers to perform and enhance the functions of ASUS products and services.
 
 (7) We may collect location data associated with ASUS products and services, such as GPS signal, nearby WiFi access points, cell towers, country, city, time zone, latitude, longitude and country settings on your product to perform and enhance the functions of ASUS products and services.
 
@@ -276,6 +282,41 @@ If you have any questions, concerns, comments, or complaints about the Privacy P
 
   
 
+**\*Part 2: ASUS EU Data Act Policy:**
+--------------------------------------
+
+During your use of ASUS EU products and services, your data (“Product Data”) in connection with ASUS EU product (“Connected Product”) governed by the EU Data Act may be generated. The ASUS EU Data Act Policy (“Data Act Policy”), along with any other data act notices related to specific Connected Product, explains how we perform the obligations as required under the Article 3 (2) of EU Data Act.
+
+Please note that the following information is intended as a general introduction. The descriptions of Product Data vary depending on the nature of each Connected Product, as detailed in the respective product-specific data act notices.
+
+1.Information about type, format and estimated volume of Product Data:
+
+(1) The Connected Product may generate the following type(s) of the Product Data: log information regarding the performance and system status of hardware, firmware and software operated in Connected Product, as well as settings, usage records and interaction with Connected Product.
+
+(2) Product Data may be made available in one of the following format(s): json, txt, SQLite, dmp, etl or any other commonly-used data formats.
+
+(3) The estimated volume of the Product Data is generally indicated in KBs or MBs per data.
+
+2\. Information about whether the Connected Product is capable of generating the Product Data continuously and in real-time: Product Data may be generated continuously in real time, periodically, or based on your instruction.
+
+3\. Information about whether the Connected Product is capable of storing the Product Data on-device or on a remote server, including, where applicable, the intended duration of retention:
+
+(1) The Connected Product may be capable of storing the Product Data on the device and/or a remote server.
+
+(2) Product Data is generally stored for a limited period needed to achieve data processing purposes, or stored until you delete it.
+
+4\. Information about how the user may access, retrieve or, where relevant, erase the Product Data, including the technical means to do so, as well as their terms of use and quality of service:
+
+(1) For Product Data stored on the device, you can access, retrieve and erase it by accessing the relevant folder on the device, as indicated in the data act notice for the respective Connected Product.
+
+(2) For Product Data stored on a remote server, you can access, retrieve and erase it by submitting an application at “Customer’s Request on Personal Data” interface ([https://privacy.asus.com/global/privacy](https://privacy.asus.com/global/privacy)) on ASUS official website.
+
+5\. Contacting Us
+
+If you have any questions, concerns, comments, or complaints about the Data Act, please reach out to us. If you think that we haven't appropriately addressed any issues related to your Product Data generated by Connected Product, please be aware that you have the right to file a complaint with the government authorities responsible for personal data protection in your country.
+
+ 
+
 **ASUSTeK COMPUTER INC.**
 
 Attn: Personal Data Protection Committee
@@ -284,6 +325,6 @@ Address: 15, Li-Te Rd., Taipei 112, Taiwan
 
 Email: [privacy@asus.com](mailto:privacy@asus.com)
 
-Updated 02/27, 2025 by ASUS Personal Data Protection Committee
+Updated September/11, 2025 by ASUS Personal Data Protection Committee
 
 ###
