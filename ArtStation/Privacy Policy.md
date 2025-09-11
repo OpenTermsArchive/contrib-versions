@@ -1,7 +1,7 @@
 Privacy Policy
 ==============
 
-March 7, 2023
+September 11, 2025
 
 We are committed to maintaining the security, confidentiality and privacy of your personal information. This document describes our general privacy policies.
 
@@ -146,11 +146,11 @@ Our website, social media sites and mobile applications may contain links to web
 
 ### Sign-in with Google
 
-When you create an account with Artstation, you are given the option to sign up using your Google Account. If you select this option, Google will share your name, email address and profile picture with us. We use your name and email address to create your account. Once you have set this up, you will be able to sign in to your Artstation account using your Google Account when you visit our website.
+When you create an account with ArtStation, you are given the option to sign up using your Google Account. If you select this option, Google will share your name, email address and profile picture with us. We use your name and email address to create your account. Once you have set this up, you will be able to sign in to your ArtStation account using your Google Account when you visit our website.
 
-If you no longer want to use your Google Account to sign in to your Artstation account, you can remove access through your Google Account. Please visit [Google Support](https://support.google.com/accounts/answer/112802) for more information. Note that removing access does not delete your Arstation account.
+If you no longer want to use your Google Account to sign in to your ArtStation account, you can remove access through your Google Account. Please visit [Google Support](https://support.google.com/accounts/answer/112802) for more information. Note that removing access does not delete your Arstation account.
 
-If you delete your Artstation account (see ‘Deletion’ section above), access to your Google Account is also removed.
+If you delete your ArtStation account (see ‘Deletion’ section above), access to your Google Account is also removed.
 
 ### Governing Law
 
@@ -164,18 +164,24 @@ Please see the “Contact” section below to learn more about reaching out to A
 
 * EEA: [https://edpb.europa.eu/about-edpb/board/members\_en](https://edpb.europa.eu/about-edpb/board/members_en)
 * UK: [https://ico.org.uk/global/contact-us/](https://ico.org.uk/global/contact-us/)
-* Switzerland: [https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html](https://www.edoeb.admin.ch/edoeb/en/home/the-fdpic/contact.html)
+* Switzerland: [https://www.edoeb.admin.ch/de/kontakt](https://www.edoeb.admin.ch/de/kontakt)
 
 ### Contact
 
 Any inquiries, complaints or questions regarding this Privacy Policy or our compliance with applicable privacy laws should be directed in writing to us at **privacy@artstation.com**.
 
-We are located at:
-
 _If you reside in the United States of America:_
 
 Epic Games, Inc., located at 620 Crossroads Blvd., Cary, NC 27518, USA.
 
+* Data Controller: Epic Games, Inc.
+* Address: 620 Crossroads Blvd., Cary, NC 27518, USA
+* Data Protection Officer: dpo@support.epicgames.com
+* EU/UK Representative: Mishcon de Reya (representative@mishcon.com)
+
 _If you reside outside of the United States of America:_
 
-Epic Games Commerce GmbH located at Platz 10 6039 Root D4, Switzerland.
+* Data Controller: Epic Games Commerce GmbH
+* Address: Platz 10, 6039 Root D4, Switzerland
+* Data Protection Officer: dpo@support.epicgames.com
+* EU/UK Representative: Mishcon de Reya (representative@mishcon.com)
