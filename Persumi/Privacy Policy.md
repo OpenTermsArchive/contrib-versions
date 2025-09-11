@@ -45,11 +45,11 @@ Types of Data Collected
 
 While using our Service, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you (“**Personal Data**”). Personally identifiable information may include, but is not limited to:
 
-1. Email address
+1.  Email address
     
-2. First name and last name
+2.  First name and last name
     
-3. Cookies and Usage Data
+3.  Cookies and Usage Data
     
 
 We may use your Personal Data to contact you with newsletters, marketing or promotional materials and other information that may be of interest to you. You may opt out of receiving any, or all, of these communications from us by following the unsubscribe link.
@@ -72,13 +72,13 @@ You can instruct your browser to refuse all cookies or to indicate when a cookie
 
 Examples of Cookies we use:
 
-1. **Session Cookies:** We use Session Cookies to operate our Service.
+1.  **Session Cookies:** We use Session Cookies to operate our Service.
     
-2. **Preference Cookies:** We use Preference Cookies to remember your preferences and various settings.
+2.  **Preference Cookies:** We use Preference Cookies to remember your preferences and various settings.
     
-3. **Security Cookies:** We use Security Cookies for security purposes.
+3.  **Security Cookies:** We use Security Cookies for security purposes.
     
-4. **Advertising Cookies:** Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
+4.  **Advertising Cookies:** Advertising Cookies are used to serve you with advertisements that may be relevant to you and your interests.
     
 
 Use of Data
@@ -86,32 +86,32 @@ Use of Data
 
 Wuit Pty Ltd uses the collected data for various purposes:
 
-1. to provide and maintain our Service;
+1.  to provide and maintain our Service;
     
-2. to notify you about changes to our Service;
+2.  to notify you about changes to our Service;
     
-3. to allow you to participate in interactive features of our Service when you choose to do so;
+3.  to allow you to participate in interactive features of our Service when you choose to do so;
     
-4. to provide customer support;
+4.  to provide customer support;
     
-5. to gather analysis or valuable information so that we can improve our Service;
+5.  to gather analysis or valuable information so that we can improve our Service;
     
-6. to monitor the usage of our Service;
+6.  to monitor the usage of our Service;
     
-7. to detect, prevent and address technical issues;
+7.  to detect, prevent and address technical issues;
     
-8. to fulfill any other purpose for which you provide it;
+8.  to fulfill any other purpose for which you provide it;
     
-9. to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
+9.  to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection;
     
-10. to provide you with notices about your account and/or subscription, including expiration and renewal notices, email-instructions, etc.;
-    
-11. to provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information;
-    
-12. in any other way we may describe when you provide the information;
-    
-13. for any other purpose with your consent.
-    
+10.  to provide you with notices about your account and/or subscription, including expiration and renewal notices, email-instructions, etc.;
+     
+11.  to provide you with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless you have opted not to receive such information;
+     
+12.  in any other way we may describe when you provide the information;
+     
+13.  for any other purpose with your consent.
+     
 
 Retention of Data
 -----------------
@@ -146,7 +146,7 @@ If we or our subsidiaries are involved in a merger, acquisition or asset sale, y
 
 c. **Other cases. We may disclose your information also:**
 
-1. to our subsidiaries and affiliates;
+1.  to our subsidiaries and affiliates;
 
 Security of Data
 ----------------
@@ -164,17 +164,17 @@ If you wish to be informed what Personal Data we hold about you and if you want 
 
 In certain circumstances, you have the following data protection rights:
 
-1. the right to access, update or to delete the information we have on you;
+1.  the right to access, update or to delete the information we have on you;
     
-2. the right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete;
+2.  the right of rectification. You have the right to have your information rectified if that information is inaccurate or incomplete;
     
-3. the right to object. You have the right to object to our processing of your Personal Data;
+3.  the right to object. You have the right to object to our processing of your Personal Data;
     
-4. the right of restriction. You have the right to request that we restrict the processing of your personal information;
+4.  the right of restriction. You have the right to request that we restrict the processing of your personal information;
     
-5. the right to data portability. You have the right to be provided with a copy of your Personal Data in a structured, machine-readable and commonly used format;
+5.  the right to data portability. You have the right to be provided with a copy of your Personal Data in a structured, machine-readable and commonly used format;
     
-6. the right to withdraw consent. You also have the right to withdraw your consent at any time where we rely on your consent to process your personal information;
+6.  the right to withdraw consent. You also have the right to withdraw your consent at any time where we rely on your consent to process your personal information;
     
 
 Please note that we may ask you to verify your identity before responding to such requests. Please note, we may not able to provide Service without some necessary data.
@@ -188,13 +188,13 @@ CalOPPA is the first state law in the nation to require commercial websites and 
 
 According to CalOPPA we agree to the following:
 
-1. users can visit our site anonymously;
+1.  users can visit our site anonymously;
     
-2. our Privacy Policy link includes the word “Privacy”, and can easily be found on the page specified above on the home page of our website;
+2.  our Privacy Policy link includes the word “Privacy”, and can easily be found on the page specified above on the home page of our website;
     
-3. users will be notified of any privacy policy changes on our Privacy Policy Page;
+3.  users will be notified of any privacy policy changes on our Privacy Policy Page;
     
-4. users are able to change their personal information by emailing us at [\[email protected\]](https://persumi.com/cdn-cgi/l/email-protection).
+4.  users are able to change their personal information by emailing us at [\[email protected\]](https://persumi.com/cdn-cgi/l/email-protection).
     
 
 Our Policy on “Do Not Track” Signals:
@@ -208,28 +208,28 @@ Your Data Protection Rights under the California Consumer Privacy Act (CCPA)
 
 If you are a California resident, you are entitled to learn what data we collect about you, ask to delete your data and not to sell (share) it. To exercise your data protection rights, you can make certain requests and ask us:
 
-1. **What personal information we have about you**. If you make this request, we will return to you:
+1.  **What personal information we have about you**. If you make this request, we will return to you:
     
-    1. The categories of personal information we have collected about you.
+    1.  The categories of personal information we have collected about you.
         
-    2. The categories of sources from which we collect your personal information.
+    2.  The categories of sources from which we collect your personal information.
         
-    3. The business or commercial purpose for collecting or selling your personal information.
+    3.  The business or commercial purpose for collecting or selling your personal information.
         
-    4. The categories of third parties with whom we share personal information.
+    4.  The categories of third parties with whom we share personal information.
         
-    5. The specific pieces of personal information we have collected about you.
+    5.  The specific pieces of personal information we have collected about you.
         
-    6. A list of categories of personal information that we have sold, along with the category of any other company we sold it to. If we have not sold your personal information, we will inform you of that fact.
+    6.  A list of categories of personal information that we have sold, along with the category of any other company we sold it to. If we have not sold your personal information, we will inform you of that fact.
         
-    7. A list of categories of personal information that we have disclosed for a business purpose, along with the category of any other company we shared it with.
+    7.  A list of categories of personal information that we have disclosed for a business purpose, along with the category of any other company we shared it with.
         
     
     Please note, you are entitled to ask us to provide you with this information up to two times in a rolling twelve-month period. When you make this request, the information provided may be limited to the personal information we collected about you in the previous 12 months.
     
-2. **To delete your personal information**. If you make this request, we will delete the personal information we hold about you as of the date of your request from our records and direct any service providers to do the same. In some cases, deletion may be accomplished through de-identification of the information. If you choose to delete your personal information, you may not be able to use certain functions that require your personal information to operate.\*\*
+2.  **To delete your personal information**. If you make this request, we will delete the personal information we hold about you as of the date of your request from our records and direct any service providers to do the same. In some cases, deletion may be accomplished through de-identification of the information. If you choose to delete your personal information, you may not be able to use certain functions that require your personal information to operate.\*\*
     
-3. **To stop selling your personal information**. If you submit a request to stop selling your personal information, we will stop selling it. If you are a California resident, to opt-out of the sale of your personal information, click “Do Not Sell My Personal Information” at the bottom of our home page to submit your request.
+3.  **To stop selling your personal information**. If you submit a request to stop selling your personal information, we will stop selling it. If you are a California resident, to opt-out of the sale of your personal information, click “Do Not Sell My Personal Information” at the bottom of our home page to submit your request.
     
     Please note, if you ask us to delete or stop selling your data, it may impact your experience with us, and you may not be able to participate in certain programs or membership services which require the usage of your personal information to function. But in no circumstances, we will discriminate against you for exercising your rights.
     
