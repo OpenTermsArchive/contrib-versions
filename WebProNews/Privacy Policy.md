@@ -3,7 +3,7 @@ WebProNews](https://www.webpronews.com/)
 
 [Advertise with Us](https://www.webpronews.com/advertise)
 
-[![webpronews.com](https://www.webpronews.com/wp-content/uploads/2023/07/newlogotest.png)](https://www.webpronews.com/)
+[![webpronews.com](https://www.webpronews.com/wp-content/uploads/2023/07/newlogotest.png)](https://www.webpronews.com/) **[🔥Firehose](https://www.webpronews.com/firehose)**
 
 * [Business](https://www.webpronews.com/business/)
     * [AccountingToday](https://www.webpronews.com/business/accountingtoday/)
