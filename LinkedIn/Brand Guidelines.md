@@ -6,13 +6,13 @@ If you're looking to talk about LinkedIn for your business, or use LinkedIn bran
 **Guidance**
 ------------
 
-* [\[in\] Logo](https://brand.linkedin.com/in-logo "[in] Logo")
+*   [\[in\] Logo](https://brand.linkedin.com/in-logo "[in] Logo")
     
-* [LinkedIn Logo](https://brand.linkedin.com/linkedin-logo "Linkedin Logo")
+*   [LinkedIn Logo](https://brand.linkedin.com/linkedin-logo "Linkedin Logo")
     
-* [Badges & Other Programs](https://brand.linkedin.com/badges-and-programs "Badges & Other Trademarks")
+*   [Badges & Other Programs](https://brand.linkedin.com/badges-and-programs "Badges & Other Trademarks")
     
-* [Business, Books & Other Media Usage](https://brand.linkedin.com/business-books-and-media-usage "Business, Books & Other Media Usage")
+*   [Business, Books & Other Media Usage](https://brand.linkedin.com/business-books-and-media-usage "Business, Books & Other Media Usage")
     
 
 **Legal**
