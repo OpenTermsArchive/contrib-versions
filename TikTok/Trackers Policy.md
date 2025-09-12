@@ -10,7 +10,7 @@ Like many websites and apps, TikTok uses cookies and similar technologies, such 
 
 Most of the cookies on our Platform are set on browsers or devices and used directly by us. These are referred to as “first-party” cookies.
 
-Other businesses (“Partners”) also set and use cookies on the Platform. They help us keep it safe and secure and promote our services on other apps and websites. These cookies also enable us, our advertisers and measurement partners to measure ad campaign effectiveness and show you personalised ads. In this Cookies Policy, we refer to cookies set by Partners on the Platform as “third-party cookies”. You can find more information about the Partners that use cookies on the Platform and links to their own privacy policies here.
+Other businesses (“Partners”) also set and use cookies on the Platform. They help us keep it safe and secure and promote our services on other apps and websites. These cookies also enable us, our advertisers and measurement partners to measure ad campaign effectiveness and show you personalised ads. In this Cookies Policy, we refer to cookies set by Partners on the Platform as “third-party cookies”. You can find more information about the Partners that use cookies on the Platform and links to their own privacy policies [here](https://www.tiktok.com/legal/tiktok-partner-list).
 
 Cookies can remain on your computer or mobile device for different periods of time. Some cookies are “session cookies”. They exist only while your browser is open and are deleted automatically or shortly after you close your browser.
 
