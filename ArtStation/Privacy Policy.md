@@ -148,7 +148,7 @@ Our website, social media sites and mobile applications may contain links to web
 
 When you create an account with ArtStation, you are given the option to sign up using your Google Account. If you select this option, Google will share your name, email address and profile picture with us. We use your name and email address to create your account. Once you have set this up, you will be able to sign in to your ArtStation account using your Google Account when you visit our website.
 
-If you no longer want to use your Google Account to sign in to your ArtStation account, you can remove access through your Google Account. Please visit [Google Support](https://support.google.com/accounts/answer/112802) for more information. Note that removing access does not delete your Arstation account.
+If you no longer want to use your Google Account to sign in to your ArtStation account, you can remove access through your Google Account. Please visit [Google Support](https://support.google.com/accounts/answer/112802) for more information. Note that removing access does not delete your ArtStation account.
 
 If you delete your ArtStation account (see ‘Deletion’ section above), access to your Google Account is also removed.
 
@@ -171,8 +171,6 @@ Please see the “Contact” section below to learn more about reaching out to A
 Any inquiries, complaints or questions regarding this Privacy Policy or our compliance with applicable privacy laws should be directed in writing to us at **privacy@artstation.com**.
 
 _If you reside in the United States of America:_
-
-Epic Games, Inc., located at 620 Crossroads Blvd., Cary, NC 27518, USA.
 
 * Data Controller: Epic Games, Inc.
 * Address: 620 Crossroads Blvd., Cary, NC 27518, USA
