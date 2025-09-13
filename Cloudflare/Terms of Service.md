@@ -1,8 +1,8 @@
 Cloudflare Self-Serve Subscription Agreement
 ============================================
 
-Last Updated August 5, 2025
-
+Last Updated September 12, 2025  
+  
 PLEASE READ THE FOLLOWING CAREFULLY AS IT AFFECTS YOUR LEGAL RIGHTS. THIS AGREEMENT CONTAINS PROVISIONS REQUIRING THAT YOU AGREE TO THE USE OF ARBITRATION TO RESOLVE ANY DISPUTES ARISING UNDER THIS AGREEMENT RATHER THAN A JURY TRIAL OR ANY OTHER COURT PROCEEDINGS, AND TO WAIVE YOUR PARTICIPATION IN CLASS ACTION OF ANY KIND AGAINST CLOUDFLARE.
 
 This Self-Serve Subscription Agreement (“Agreement”) is an agreement between Cloudflare (also referred to as “we,” “us,” or “our”) and you, or the Entity you represent, (“you” or “your”) and governs your use of our Services (as defined below). This Agreement is effective when you click to accept it, use or access the Services, or otherwise indicate your acceptance of the Agreement. If you are entering into this Agreement on behalf of a company, organization, or another legal entity (an “Entity”), you are agreeing to this Agreement for that Entity and representing to Cloudflare that you have the authority to bind such Entity to this Agreement.
@@ -201,7 +201,7 @@ The authoritative version of this document is available at: [www.cloudflare.com/
 16\. General
 ------------
 
-This Agreement constitutes the entire and exclusive understanding and agreement between you and Cloudflare regarding your use of and access to the Service. You may not assign or transfer this Agreement or your rights hereunder, in whole or in part, by operation of law or otherwise, without our prior written consent. We may assign this Agreement at any time without notice. The failure to require performance of any provision will not affect our right to require performance at any time thereafter, nor will a waiver of any breach or default of this Agreement or any provision of this Agreement constitute a waiver of any subsequent breach or default or a waiver of the provision itself. Use of section headers in this Subscription Agreement is for convenience only and will not have any impact on the interpretation of particular provisions. In the event that any part of this Agreement is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent possible and the remaining parts will remain in full force and effect. Upon termination of this Agreement, any provision that by its nature or express terms should survive will survive such termination or expiration, including, but not limited to, Sections 2.5.1 and Sections 9 through 19.
+This Agreement constitutes the entire and exclusive understanding and agreement between you and Cloudflare regarding your use of and access to the Service. You may not assign or transfer this Agreement or your rights hereunder, in whole or in part, by operation of law or otherwise, without our prior written consent. We may assign this Agreement at any time without notice. The failure to require performance of any provision will not affect our right to require performance at any time thereafter, nor will a waiver of any breach or default of this Agreement or any provision of this Agreement constitute a waiver of any subsequent breach or default or a waiver of the provision itself. Use of section headers in this Subscription Agreement is for convenience only and will not have any impact on the interpretation of particular provisions. In the event that any part of this Agreement is held to be invalid or unenforceable, the unenforceable part will be given effect to the greatest extent possible and the remaining parts will remain in full force and effect. Upon termination of this Agreement, any provision that by its nature or express terms should survive will survive such termination or expiration, including, but not limited to, Sections 2.5.1 and Sections 9 through 20.
 
 17\. Dispute Resolution and Arbitration
 ---------------------------------------
@@ -238,12 +238,19 @@ In the event that Cloudflare makes any future change to this arbitration provisi
 
 Notwithstanding Section 16, if Subsection 17.1 is found to be unenforceable or if the entirety of this Section 17 is found to be unenforceable, then the entirety of this Section 17 will be null and void and, in such case, the parties agree that the exclusive jurisdiction and venue described in Section 13 will govern any action arising out of or related to this Agreement.
 
-18\. Consent to Electronic Communications
+18\. Regional Terms
+-------------------
+
+### 18.1 European Union
+
+If you (1) are an individual living in the European Union or are a corporation headquartered in the European Union and (2) have a billing address in the European Union, then the Data Act Addendum, available at [https://www.cloudflare.com/legal/data-act-addendum/](https://www.cloudflare.com/legal/cloudflare-data-act-addendum/) forms a part of this Agreement.
+
+19\. Consent to Electronic Communications
 -----------------------------------------
 
 By using the Service, you consent to receiving certain electronic communications from us as further described in our Privacy Policy. Please read our Privacy Policy to learn more about your choices regarding our electronic communications practices. You agree that any notices, agreements, disclosures, or other communications that we send to you electronically will satisfy any legal communication requirements, including that such communications be in writing.
 
-19\. Contact Information
+20\. Contact Information
 ------------------------
 
 The Service is offered by Cloudflare, Inc., located at 101 Townsend St., San Francisco, California 94107. You may contact us by sending correspondence to the foregoing address or by logging into your account at [https://dash.cloudflare.com/?to=/:account/support](https://dash.cloudflare.com/?to=/:account/support). If you are a California resident, you may have this Agreement mailed to you electronically by sending a letter to the foregoing address with your electronic mail address and a request for this Agreement.
