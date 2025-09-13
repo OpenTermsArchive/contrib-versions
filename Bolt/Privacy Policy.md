@@ -10,27 +10,27 @@ Date when this Privacy Notice was last updated: 25 April 2024
 
 ****Table of Contents****
 
-1. About this Privacy Notice
-2. How do you contact us?
-3. What personal data do we process?
-4. 1. Personal data provided by you to Bolt
-    2. Personal data we collect about you when you use the Bolt app
-    3. Personal data we collect about you from other sources
-5. What purposes do we use your personal data for and what is our legal basis for processing?
-6. 1. For the provision of the Bolt services
-    2. For Customer Support
-    3. For safety and security
-    4. For marketing and advertising
-    5. For service communications
-    6. For research and improvement of the Bolt services
-    7. For legal proceedings and compliance with the law
-7. Who do we share your personal data with?
-8. Does Bolt transfer your personal data to other countries?
-9. How do we keep your personal data safe?
-10. How long do we retain your personal data for?
-11. What are your rights?
-12. How do we use your personal data for direct marketing?
-13. How do we notify you of changes to this Notice?
+1.  About this Privacy Notice
+2.  How do you contact us?
+3.  What personal data do we process?
+4.  1.  Personal data provided by you to Bolt
+    2.  Personal data we collect about you when you use the Bolt app
+    3.  Personal data we collect about you from other sources
+5.  What purposes do we use your personal data for and what is our legal basis for processing?
+6.  1.  For the provision of the Bolt services
+    2.  For Customer Support
+    3.  For safety and security
+    4.  For marketing and advertising
+    5.  For service communications
+    6.  For research and improvement of the Bolt services
+    7.  For legal proceedings and compliance with the law
+7.  Who do we share your personal data with?
+8.  Does Bolt transfer your personal data to other countries?
+9.  How do we keep your personal data safe?
+10.  How long do we retain your personal data for?
+11.  What are your rights?
+12.  How do we use your personal data for direct marketing?
+13.  How do we notify you of changes to this Notice?
 
 1\. About this Privacy Notice
 
@@ -46,9 +46,9 @@ Bolt (or the relevant Bolt group company for your market - as set out [here](htt
 
 We collect and process personal data:
 
-* provided by you to Bolt;
-* when you use the Bolt App; and
-* from other sources such as authorised third parties who administer services on behalf of Bolt, and in some countries, governmental or public databases.
+*   provided by you to Bolt;
+*   when you use the Bolt App; and
+*   from other sources such as authorised third parties who administer services on behalf of Bolt, and in some countries, governmental or public databases.
 
 The table below sets out the different categories of personal data we process about you:
 
@@ -89,17 +89,17 @@ The table below sets out the different categories of personal data we process ab
 
 The table below sets out:
 
-* our purpose for processing your personal data;
-* our legal grounds (known as a ‘legal basis’) under data protection law, for each purpose; and
-* the categories of personal data we use for each purpose. Learn more about what personal data these categories include in Section 3 “What personal data do we process?” above.
+*   our purpose for processing your personal data;
+*   our legal grounds (known as a ‘legal basis’) under data protection law, for each purpose; and
+*   the categories of personal data we use for each purpose. Learn more about what personal data these categories include in Section 3 “What personal data do we process?” above.
 
 Here is a general explanation of each ‘legal basis’ that Bolt relies on to process your personal data to help you understand the table below:
 
-* ****Performance of a Contract****: When it is necessary for Bolt (or a third party) to process your personal data to provide you with the Bolt services we promised you and meet our obligations under the Terms and Conditions for Passengers. Where the legal basis for processing your personal data is performance of a contract, and you choose not to provide the information, you may be unable to use the Bolt services.
-* ****Legitimate Interests****: When we process your personal data relying on legitimate interest grounds. This includes our commercial and non-commercial interests in providing an innovative, personalised and safe service to you, other Passengers, and other third parties (including Drivers). Where the table below states that we rely on legitimate interests, we have provided a brief description of the legitimate interest. If you would like more information about this (including the balancing test), please contact us using the methods set out in Section 2 “__How do you contact us?__” above. In countries where legitimate interest is not an available lawful basis for Bolt’s processing activities, we will instead rely on an alternative valid legal basis.-
-* ****Consent****: When we ask you to actively indicate your agreement to our use of your personal data for a certain purpose of which you have been informed of. ​​Where we rely on consent to process your personal data, you can withdraw your consent to such activities at any time. Withdrawal of the consent does not affect the lawfulness of any processing which took place prior to you giving your consent to us.
-* ****Compliance with Legal Obligations****: When we must process your personal data to comply with a law or regulation in the markets we operate in, such as to comply with our licensing conditions and our obligations under tax and accounting laws. Where the legal basis for processing your personal data is compliance with legal obligations, and you choose not to provide the information, you may be unable to use the Bolt services.
-* ****Vital Interests****: When we process your personal data where it is necessary to protect your vital interests or those of others, for example in the event of an emergency or an imminent threat to life.
+*   ****Performance of a Contract****: When it is necessary for Bolt (or a third party) to process your personal data to provide you with the Bolt services we promised you and meet our obligations under the Terms and Conditions for Passengers. Where the legal basis for processing your personal data is performance of a contract, and you choose not to provide the information, you may be unable to use the Bolt services.
+*   ****Legitimate Interests****: When we process your personal data relying on legitimate interest grounds. This includes our commercial and non-commercial interests in providing an innovative, personalised and safe service to you, other Passengers, and other third parties (including Drivers). Where the table below states that we rely on legitimate interests, we have provided a brief description of the legitimate interest. If you would like more information about this (including the balancing test), please contact us using the methods set out in Section 2 “__How do you contact us?__” above. In countries where legitimate interest is not an available lawful basis for Bolt’s processing activities, we will instead rely on an alternative valid legal basis.-
+*   ****Consent****: When we ask you to actively indicate your agreement to our use of your personal data for a certain purpose of which you have been informed of. ​​Where we rely on consent to process your personal data, you can withdraw your consent to such activities at any time. Withdrawal of the consent does not affect the lawfulness of any processing which took place prior to you giving your consent to us.
+*   ****Compliance with Legal Obligations****: When we must process your personal data to comply with a law or regulation in the markets we operate in, such as to comply with our licensing conditions and our obligations under tax and accounting laws. Where the legal basis for processing your personal data is compliance with legal obligations, and you choose not to provide the information, you may be unable to use the Bolt services.
+*   ****Vital Interests****: When we process your personal data where it is necessary to protect your vital interests or those of others, for example in the event of an emergency or an imminent threat to life.
 
 ****For the provision of the Bolt services****
 
@@ -191,8 +191,8 @@ We operate internationally and as a result, your personal data may be transferre
 
 When we transfer your personal data outside of a country or region, such as the European Economic Area (“EEA”), we will make sure that we take steps necessary to comply with applicable legal requirements and rely on the following transfer mechanisms:
 
-* ****Adequacy Decisions****: We will rely on decisions from the European Commission where they recognise that certain countries and territories outside of the European Economic Area ensure an adequate level of protection for personal information. Please click [here ↗](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) to see the list of countries deemed ‘adequate’ by the European Commission and click [here ↗](https://www.gov.uk/government/publications/uk-approach-to-international-data-transfers/international-data-transfers-building-trust-delivering-growth-and-firing-up-innovation) to see the list of countries deemed ‘adequate’ by the UK Government. We rely on these adequacy decisions when we transfer personal data we collect from the EEA and the United Kingdom to the United States (where some of our third party service providers are based).
-* ****Standard Contractual Clauses (SCCs)****: We will utilise standard contractual clauses approved by the European Commission for transfers outside the EEA and by the UK Government for transfers outside of the United Kingdom. Please click [here ↗](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) to see the EEA SCCs and click [here ↗](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/) to see the UK SCCs. We will rely on SCCs when we transfer personal data we collect from the EEA and the United Kingdom to the United States, Singapore and Nigeria where some of our third party service providers are based.
+*   ****Adequacy Decisions****: We will rely on decisions from the European Commission where they recognise that certain countries and territories outside of the European Economic Area ensure an adequate level of protection for personal information. Please click [here ↗](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/adequacy-decisions_en) to see the list of countries deemed ‘adequate’ by the European Commission and click [here ↗](https://www.gov.uk/government/publications/uk-approach-to-international-data-transfers/international-data-transfers-building-trust-delivering-growth-and-firing-up-innovation) to see the list of countries deemed ‘adequate’ by the UK Government. We rely on these adequacy decisions when we transfer personal data we collect from the EEA and the United Kingdom to the United States (where some of our third party service providers are based).
+*   ****Standard Contractual Clauses (SCCs)****: We will utilise standard contractual clauses approved by the European Commission for transfers outside the EEA and by the UK Government for transfers outside of the United Kingdom. Please click [here ↗](https://commission.europa.eu/law/law-topic/data-protection/international-dimension-data-protection/standard-contractual-clauses-scc_en) to see the EEA SCCs and click [here ↗](https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/international-transfers/international-data-transfer-agreement-and-guidance/) to see the UK SCCs. We will rely on SCCs when we transfer personal data we collect from the EEA and the United Kingdom to the United States, Singapore and Nigeria where some of our third party service providers are based.
 
 There may be certain situations (such as responding to law enforcement requests - see Section 4 “__What purposes do we use your personal data for and what is our legal basis for processing?__” above) where a transfer of personal data will take place on the basis of exemptions provided for under applicable data protection legislation. In these circumstances, we will take steps to minimise and protect the personal data transferred.
 
@@ -242,15 +242,15 @@ Please note that the deinstallation of Bolt App in your device does not cause th
 
 As a data subject you have following rights:
 
-* ****Access your personal data (known as “Right of Access”)****: You have the right to access and to request copies of your personal data by contacting our Customer Support Team.
-* ****Update/correct your personal data (known as “Right of Rectification”)****: You have the right to request us to correct personal data that is inaccurate or incomplete. You can change and correct certain personal data yourself within the Bolt App or by contacting our Customer Support Team.
-* ****Delete your personal data (known as “Right of Erasure”)****: You have the right to request that we erase your personal data, under certain conditions (e.g., we are processing your personal data under your consent). Personal data that is processed pursuant to a legal obligation or where we have an overriding legitimate interest may not be deleted upon request. You can request erasure of your personal data by contacting our Customer Support Team.
-* ****Restrict use of your personal data (known as “Right to Restrict Processing”)****: You have the right to request that we restrict the processing of your personal data, under certain conditions (e.g., we are processing your personal data under consent). You can request restriction of the use of your personal data by contacting our Customer Support Team.
-* ****Object to use of your personal data (known as “Right to Object”)****: You have the right to object to our processing of your personal data, under certain conditions (e.g., we are processing your personal data under legitimate interests). You may submit an objection to the use of your personal data by contacting our Customer Support Team.
-* ****Object to solely automated decisions being made about you which has legal or similarly significant effect on you (known as “Right to object to automated decision making”)**** - You have the right, under certain circumstances, to object to any solely automated decisions we have made which have a legal effect or similarly significant effect which does not involve human review. You can ask that a person review the decision, obtain an explanation of the decision reached after such assessment and challenge the decision by contacting our Customer Support Team. Please note that certain exceptions and limitations may apply to your right to object to automated decision-making, as permitted by applicable laws and regulations. We will provide you with clear information regarding the implications of exercising your rights and the processes involved in objecting to solely automated decision-making.
-* ****Port your personal data (known as “Right to Data Portability”)****: You have the right to request that we transfer the personal data that you have given us to another organisation, or directly to you, under certain conditions. This only applies to information you have given us. You can request for your personal data to be ported by contacting our Customer Support Team.
-* ****Withdraw your consent****: If we process your personal data using consent as legal basis, then you have the right to withdraw your consent at any time (e.g., by unsubscribing from marketing communications or by updating your communication preferences in the Bolt App). Withdrawing your consent won’t change the legality of processing undertaken by Bolt before you withdraw your consent.
-* ****File a complaint:**** If you have any concerns regarding the processing of your personal data, you have the right to lodge a complaint with the [Estonian Data Protection Inspectorate (“AKI”) ↗](https://www.aki.ee/en) who is our lead supervisory authority or your local data protection authority. You can find their contact details on their websites. You may also have a right to seek a judicial remedy.
+*   ****Access your personal data (known as “Right of Access”)****: You have the right to access and to request copies of your personal data by contacting our Customer Support Team.
+*   ****Update/correct your personal data (known as “Right of Rectification”)****: You have the right to request us to correct personal data that is inaccurate or incomplete. You can change and correct certain personal data yourself within the Bolt App or by contacting our Customer Support Team.
+*   ****Delete your personal data (known as “Right of Erasure”)****: You have the right to request that we erase your personal data, under certain conditions (e.g., we are processing your personal data under your consent). Personal data that is processed pursuant to a legal obligation or where we have an overriding legitimate interest may not be deleted upon request. You can request erasure of your personal data by contacting our Customer Support Team.
+*   ****Restrict use of your personal data (known as “Right to Restrict Processing”)****: You have the right to request that we restrict the processing of your personal data, under certain conditions (e.g., we are processing your personal data under consent). You can request restriction of the use of your personal data by contacting our Customer Support Team.
+*   ****Object to use of your personal data (known as “Right to Object”)****: You have the right to object to our processing of your personal data, under certain conditions (e.g., we are processing your personal data under legitimate interests). You may submit an objection to the use of your personal data by contacting our Customer Support Team.
+*   ****Object to solely automated decisions being made about you which has legal or similarly significant effect on you (known as “Right to object to automated decision making”)**** - You have the right, under certain circumstances, to object to any solely automated decisions we have made which have a legal effect or similarly significant effect which does not involve human review. You can ask that a person review the decision, obtain an explanation of the decision reached after such assessment and challenge the decision by contacting our Customer Support Team. Please note that certain exceptions and limitations may apply to your right to object to automated decision-making, as permitted by applicable laws and regulations. We will provide you with clear information regarding the implications of exercising your rights and the processes involved in objecting to solely automated decision-making.
+*   ****Port your personal data (known as “Right to Data Portability”)****: You have the right to request that we transfer the personal data that you have given us to another organisation, or directly to you, under certain conditions. This only applies to information you have given us. You can request for your personal data to be ported by contacting our Customer Support Team.
+*   ****Withdraw your consent****: If we process your personal data using consent as legal basis, then you have the right to withdraw your consent at any time (e.g., by unsubscribing from marketing communications or by updating your communication preferences in the Bolt App). Withdrawing your consent won’t change the legality of processing undertaken by Bolt before you withdraw your consent.
+*   ****File a complaint:**** If you have any concerns regarding the processing of your personal data, you have the right to lodge a complaint with the [Estonian Data Protection Inspectorate (“AKI”) ↗](https://www.aki.ee/en) who is our lead supervisory authority or your local data protection authority. You can find their contact details on their websites. You may also have a right to seek a judicial remedy.
 
 To exercise any of the above rights, you can contact our Customer Support Team via the Bolt App or via our website. You can also contact the Office of the Data Protection Officer Team by emailing our Privacy Mailbox at [privacy@bolt.eu](mailto:privacy@bolt.eu) - please mark the subject line of the email “__For the attention of Bolt’s Data Protection Officer__”.
 
