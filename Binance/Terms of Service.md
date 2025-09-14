@@ -649,4 +649,4 @@ This term of confidentiality in this clause shall survive termination of these T
 
 **34\. Governing law**
 
-34.1. Subject to clause 34.2 below and aside from where Applicable Law requires or provides you with a choice otherwise, these Terms (including this arbitration agreement) shall be governed by, and constr
+34.1. Subject to clause 34.2
