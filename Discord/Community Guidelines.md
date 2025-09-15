@@ -54,7 +54,7 @@ Users may not post sexually explicit content in any space that cannot be age-res
 
 **11\. Do not share content that glorifies, promotes, or normalizes suicide or other acts of physical self-harm.** This includes content that encourages others to cut, burn, or starve themselves, as well as content that normalizes eating disorders, such as anorexia and bulimia. Self-harm acts or threats used as a form of emotional manipulation or coercion are also prohibited. (See our [Suicide and Self-Harm Policy Explainer](https://discord.com/safety/suicide-self-harm-policy-explainer) for more.)
 
-‍**12\. Do not upload or share  any material depicting violence, gore,, or animal cruelty, especially with the intention to harass or shock others.** (See our [Violence and Graphic Content Policy Explainer](https://discord.com/safety/violence-graphic-content-policy-explainer) for more.)
+‍**12\. Do not upload or share  any material depicting violence, gore, or animal cruelty, especially with the intention to harass or shock others.** (See our [Violence and Graphic Content Policy Explainer](https://discord.com/safety/violence-graphic-content-policy-explainer) for more.)
 
 Respect Discord
 ---------------
