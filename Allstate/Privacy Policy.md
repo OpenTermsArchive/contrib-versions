@@ -1,7 +1,7 @@
 Allstate online _privacy statement_
 ===================================
 
-Effective: July 18, 2025
+Effective: September 15, 2025
 
 This Allstate Online Privacy Statement (“Privacy Statement”) describes the privacy practices of the Allstate family of companies whose websites and mobile apps link to this Privacy Statement (“Allstate,” “we” “our” or “us”). This Privacy Statement explains the information we collect, why we collect it, how we use and share it, and the choices you can make regarding your information. More information about the privacy practices of Allstate and its family of companies is in the Allstate Affiliates section at the end of this Privacy Statement.
 
@@ -135,9 +135,9 @@ Online tracking technologies and advertising
 
 **Targeted Online Advertising and Opt-outs:** We or our online marketing and advertising providers may use information about your activities on our Sites or other websites to help tailor our advertisements or offers to your interests. With some of our Sites, we provide information about your online activities to third-party advertising companies, or allow those advertising companies to collect the information using cookies and similar technologies, and allow the advertising companies to combine that information with information they collect on other unrelated sites to provide you with relevant, targeted advertising. This sort of online advertising is called cross-context behavioral advertising under the California Consumer Privacy Act (CCPA) or targeted online advertising under other laws. We do not knowingly share personal information for cross-context behavioral advertising of users under the age of sixteen.
 
-Some states provide individuals the right to opt-out of the “sharing” or “selling” your personal information for cross-context behavioral advertising or of “targeted advertising” based on their personal information. You may opt-out of this sharing or the targeted advertising via the “about ads/do not sell or share my personal information” link in the footer of our website and then selecting “Opt out of targeted online advertising” or by visiting our about ads / do not sell or share my personal information and selecting “Opt out of targeted online advertising.”
+Some states provide individuals the right to opt-out of the “sharing” or “selling” your personal information for cross-context behavioral advertising or of “targeted advertising” based on their personal information. You may opt-out of this sharing or the targeted advertising via the “about ads/do not sell or share my personal information” link in the footer of our website and then selecting “Opt out of targeted online advertising” or by visiting our preference center and selecting “Opt out of targeted online advertising.”
 
-You may also, where available, opt-out by enabling a universal tool that automatically communicates your opt-out preferences such as the Global Privacy Control (“GPC”) setting of your browser. For more information about GPCs, visit https://globalprivacycontrol.org. You can also limit receiving certain targeted online advertising referred to as Interest-Based Advertising by visiting [NAI Consumer Opt Out (networkadvertising.org)](https://optout.networkadvertising.org/?c=1).
+You may also, where available, opt-out by enabling a universal tool that automatically communicates your opt-out preferences such as the Global Privacy Control (“GPC”) setting of your browser. For more information about GPCs, visit https://globalprivacycontrol.org.
 
 Some browsers offer a setting called “Do Not Track.” Although we do our best to honor the privacy preferences of our visitors, we may not be able to respond to all “Do Not Track” signals from your browser.
 
