@@ -11,16 +11,16 @@ Stack Overflow welcomes you to the Network, the largest community of developers 
 
 WE DO NOT AND WILL NOT SELL YOUR PERSONAL INFORMATION.
 
-1. [INTRODUCTION TO OUR PRIVACY POLICY](#privacy-intro)
-2. [GENERAL PRIVACY NOTICE FOR STACK EXCHANGE, INC.](#privacy-general)
-3. [WHAT INFORMATION DO WE COLLECT?](#info-we-collect)
-4. [HOW WE USE YOUR PERSONAL DATA](#use-data)
-5. [WHO DO WE SHARE YOUR PERSONAL DATA WITH?](#share-data)
-6. [HOW LONG DO WE RETAIN YOUR PERSONAL DATA?](#retain-data)
-7. [YOUR RIGHTS](#rights)
-8. [INTERNATIONAL DATA TRANSFERS](#international)
-9. [ADDITIONAL INFORMATION FOR CALIFORNIA CONSUMERS](#california)
-10. [CONTACT US](#privacy-contact)
+1.  [INTRODUCTION TO OUR PRIVACY POLICY](#privacy-intro)
+2.  [GENERAL PRIVACY NOTICE FOR STACK EXCHANGE, INC.](#privacy-general)
+3.  [WHAT INFORMATION DO WE COLLECT?](#info-we-collect)
+4.  [HOW WE USE YOUR PERSONAL DATA](#use-data)
+5.  [WHO DO WE SHARE YOUR PERSONAL DATA WITH?](#share-data)
+6.  [HOW LONG DO WE RETAIN YOUR PERSONAL DATA?](#retain-data)
+7.  [YOUR RIGHTS](#rights)
+8.  [INTERNATIONAL DATA TRANSFERS](#international)
+9.  [ADDITIONAL INFORMATION FOR CALIFORNIA CONSUMERS](#california)
+10.  [CONTACT US](#privacy-contact)
 
 INTRODUCTION TO OUR PRIVACY POLICY
 
@@ -34,11 +34,11 @@ Personal data is any information about you by which you can be identified or be 
 
 We have set out below an overview of how our privacy notices work. Depending on how you interact with us, we will collect and process your personal information in accordance with this Privacy Policy and any applicable other privacy notice(s).
 
-* This Privacy Policy applies where you interact with us through the Network, or use any of our products and services.
-* If you interact with us through our Collectives on Stack Overflow, please read the [Privacy Notice for Collectives](https://stackoverflow.com/legal/privacy-policy/collectives).
-* If you interact with us through your organization’s Private Network on Stack Overflow for Teams and/or through one of our Stack Overflow for Teams Integrations, we will only process certain information as described in our [Stack Overflow for Teams Privacy Notice](https://policies.stackoverflow.co/teams/privacy-notice) and our [Stack Overflow for Teams Integrations Privacy Notice](https://policies.stackoverflow.co/teams/integrations-privacy-notice), respectively.
-* If you’re a job applicant for a position at Stack, our [Applicant and Candidate Privacy Notice](https://policies.stackoverflow.co/company/candidate-privacy-policy) will be applicable.
-* If you’re an employee, our Employee Privacy Notice will be applicable.
+*   This Privacy Policy applies where you interact with us through the Network, or use any of our products and services.
+*   If you interact with us through our Collectives on Stack Overflow, please read the [Privacy Notice for Collectives](https://stackoverflow.com/legal/privacy-policy/collectives).
+*   If you interact with us through your organization’s Private Network on Stack Overflow for Teams and/or through one of our Stack Overflow for Teams Integrations, we will only process certain information as described in our [Stack Overflow for Teams Privacy Notice](https://policies.stackoverflow.co/teams/privacy-notice) and our [Stack Overflow for Teams Integrations Privacy Notice](https://policies.stackoverflow.co/teams/integrations-privacy-notice), respectively.
+*   If you’re a job applicant for a position at Stack, our [Applicant and Candidate Privacy Notice](https://policies.stackoverflow.co/company/candidate-privacy-policy) will be applicable.
+*   If you’re an employee, our Employee Privacy Notice will be applicable.
 
 GENERAL PRIVACY NOTICE FOR STACK EXCHANGE, INC.
 
@@ -179,26 +179,26 @@ This section explains how we use your information and what we need it for (purpo
 
 We use the above categories of personal information for the following purposes:
 
-* To verify your identity and enable you to access your products and services when you contact us or access our services.
-* To protect you from fraud and for fraud prevention and detection.
-* To provide commercial quotes to you, e.g., when you inquire about a product or service.
-* For statistical analysis (e.g., on the use of our websites).
-* To operate and improve our websites and services.
-* To notify you of any changes to our websites or our services and products that may affect you.
-* To provide you with technical and customer support.
-* To ask your opinion or feedback on our services or surveys.
-* To communicate with you about other Stack Overflow products or services, events, offers, promotions and other information or news that we think may be of interest to you. Whenever we communicate with you in this way, we will give you an opportunity to opt out of receiving future messages.
-* To enforce our legal rights or comply with legal requirements.
-* To provide improved website and product experience and communications informed by your product subscriptions and/or data collected.
+*   To verify your identity and enable you to access your products and services when you contact us or access our services.
+*   To protect you from fraud and for fraud prevention and detection.
+*   To provide commercial quotes to you, e.g., when you inquire about a product or service.
+*   For statistical analysis (e.g., on the use of our websites).
+*   To operate and improve our websites and services.
+*   To notify you of any changes to our websites or our services and products that may affect you.
+*   To provide you with technical and customer support.
+*   To ask your opinion or feedback on our services or surveys.
+*   To communicate with you about other Stack Overflow products or services, events, offers, promotions and other information or news that we think may be of interest to you. Whenever we communicate with you in this way, we will give you an opportunity to opt out of receiving future messages.
+*   To enforce our legal rights or comply with legal requirements.
+*   To provide improved website and product experience and communications informed by your product subscriptions and/or data collected.
 
 **Our legal grounds for using your personal data**
 
 We will only use your personal data when the law allows us to. We will use your personal data in the following circumstances:
 
-* Where we need to perform the contract we are about to enter into or have entered into with you. For example, where you have purchased a product or service or requested a service from us.
-* Where we have your consent. For example, where you have provided your consent to receive marketing emails from us or where you have given your consent to be contacted by a third party sponsor for an event you have participated in. You can withdraw your consent at any time. In the case of marketing emails, you can withdraw your consent by clicking on the “unsubscribe” link in the email you received.
-* Where we need to comply with a legal or regulatory obligation.
-* Where it is in our legitimate interests, including our commercial interests or a third party’s legitimate interest in using the personal information. Examples include when we analyze what content has been viewed on our Network and apps, so that we can understand how they are used and improve our content; carrying out marketing analyses to better understand your interests and preferences so that we can make our marketing more relevant to your interests and preferences. This includes when we promote our own products and services.
+*   Where we need to perform the contract we are about to enter into or have entered into with you. For example, where you have purchased a product or service or requested a service from us.
+*   Where we have your consent. For example, where you have provided your consent to receive marketing emails from us or where you have given your consent to be contacted by a third party sponsor for an event you have participated in. You can withdraw your consent at any time. In the case of marketing emails, you can withdraw your consent by clicking on the “unsubscribe” link in the email you received.
+*   Where we need to comply with a legal or regulatory obligation.
+*   Where it is in our legitimate interests, including our commercial interests or a third party’s legitimate interest in using the personal information. Examples include when we analyze what content has been viewed on our Network and apps, so that we can understand how they are used and improve our content; carrying out marketing analyses to better understand your interests and preferences so that we can make our marketing more relevant to your interests and preferences. This includes when we promote our own products and services.
 
 Whenever we rely on legitimate interests for processing, we ensure that we consider and balance our interests against the individual’s interests before processing. We do not use your personal data on the basis of legitimate interest for activities where individuals’ interests override our interests.
 
@@ -226,7 +226,7 @@ The table below gives further details of the personal data we collect and our re
 | Updating and enhancing customer records | To perform our contract with you or to take steps at your request before entering into a contract<br><br>To comply with our legal and regulatory obligations<br><br>For our legitimate interests or those of a third party, e.g., making sure that we can keep in touch with our customers about existing orders and new products |
 | Statutory returns | To comply with our legal and regulatory obligations |
 | Ensuring safe working practices, staff administration and assessments | To comply with our legal and regulatory obligations<br><br>For our legitimate interests or those of a third party, e.g., to make sure we are following our own internal procedures and working efficiently so we can deliver the best service to you |
-| Marketing our services and those of selected third parties to:<br><br>* existing and former customers;<br>* third parties who have previously expressed an interest in our services;<br>* third parties with whom we have had no previous dealings. | For our legitimate interests or those of a third party, i.e., to promote our business to existing and former customers |
+| Marketing our services and those of selected third parties to:<br><br>*   existing and former customers;<br>*   third parties who have previously expressed an interest in our services;<br>*   third parties with whom we have had no previous dealings. | For our legitimate interests or those of a third party, i.e., to promote our business to existing and former customers |
 | External audits and quality checks, e.g., for ISO or Investors in People accreditation and the audit of our accounts | For our legitimate interests or those of a third party, i.e., to maintain our accreditations so we can demonstrate we operate at the highest standards<br><br>To comply with our legal and regulatory obligations |
 
 **More details about how we use your personal data**
@@ -253,14 +253,14 @@ We work with third party advertisers to deliver ads on our Network. This involve
 
 **Targeting:**
 
-* Advertisers can target their campaigns using topic tags.
-* Advertisers can target by geography, which is identified through Google Ad Manager, based on a visitor’s IP address (which is truncated by Google).
-* Advertisers can target by industry or company size, which is identified using IP address and matching that to Dunn & Bradstreet data.
+*   Advertisers can target their campaigns using topic tags.
+*   Advertisers can target by geography, which is identified through Google Ad Manager, based on a visitor’s IP address (which is truncated by Google).
+*   Advertisers can target by industry or company size, which is identified using IP address and matching that to Dunn & Bradstreet data.
 
 **Measuring:**
 
-* We allow advertisers to use MOAT, Doubleverify, and IAS tags on their campaigns to monitor for fraud.
-* We also offer conversion pixels so advertisers can track conversions that happen within 30 days of an ad being served.
+*   We allow advertisers to use MOAT, Doubleverify, and IAS tags on their campaigns to monitor for fraud.
+*   We also offer conversion pixels so advertisers can track conversions that happen within 30 days of an ad being served.
 
 **Other Third Party Online and Digital Advertising**
 
@@ -294,20 +294,20 @@ WHO DO WE SHARE YOUR PERSONAL DATA WITH?
 
 We share personal data with:
 
-* Companies within the Stack Exchange network.
-* Third parties who provide professional services, including but not limited to accountants; banking, insurance and insurance broking services for us.
-* Third parties we use to help deliver our products and services to you, e.g., payment service providers, payment processors, warehouses and delivery companies; cloud service providers, e.g., Microsoft Azure, service providers that help us carry out certain tasks, including order fulfilment, customer service providers, maintaining technology and related infrastructure, serving and targeting ads, measuring performance, managing and analysing research, email distribution, managing marketing e.g., Marketo and promotions and surveys.
-* Additionally, to improve user experience, we offer single sign-on solutions for account login and these third parties (including Facebook and Google) may receive information from these services when you elect to use them.
-* When Stack Overflow shares your personal information and other collected information with third party service providers, we require that they use your information only for the purpose of providing services to us and consistent with this privacy policy.
-* Third parties that we partner with to deliver products and services, including certain marketing and features to you, such as [Employer Branding](#employer-branding); and Collectives on Stack Overflow (please read the [Collectives Privacy Notice](https://stackoverflow.com/legal/privacy-policy/collectives)).
-* Advertising partners – When you visit or interact with our websites, e.g., when you use the Public Network, we and authorized third parties will, with your permission, place certain cookies on your device and your account activity as described in more detail within our [cookie policy](https://policies.stackoverflow.co/stack-overflow/cookie-policy). We use this information to serve you certain advertising content. We also partner with other third parties, such as Google Ads and Microsoft Bing, to serve advertising content and manage advertising campaigns. When we use Google Ads or Microsoft Bing Customer Match for advertising campaigns, your personal data will be protected using hashed codes.  
+*   Companies within the Stack Exchange network.
+*   Third parties who provide professional services, including but not limited to accountants; banking, insurance and insurance broking services for us.
+*   Third parties we use to help deliver our products and services to you, e.g., payment service providers, payment processors, warehouses and delivery companies; cloud service providers, e.g., Microsoft Azure, service providers that help us carry out certain tasks, including order fulfilment, customer service providers, maintaining technology and related infrastructure, serving and targeting ads, measuring performance, managing and analysing research, email distribution, managing marketing e.g., Marketo and promotions and surveys.
+*   Additionally, to improve user experience, we offer single sign-on solutions for account login and these third parties (including Facebook and Google) may receive information from these services when you elect to use them.
+*   When Stack Overflow shares your personal information and other collected information with third party service providers, we require that they use your information only for the purpose of providing services to us and consistent with this privacy policy.
+*   Third parties that we partner with to deliver products and services, including certain marketing and features to you, such as [Employer Branding](#employer-branding); and Collectives on Stack Overflow (please read the [Collectives Privacy Notice](https://stackoverflow.com/legal/privacy-policy/collectives)).
+*   Advertising partners – When you visit or interact with our websites, e.g., when you use the Public Network, we and authorized third parties will, with your permission, place certain cookies on your device and your account activity as described in more detail within our [cookie policy](https://policies.stackoverflow.co/stack-overflow/cookie-policy). We use this information to serve you certain advertising content. We also partner with other third parties, such as Google Ads and Microsoft Bing, to serve advertising content and manage advertising campaigns. When we use Google Ads or Microsoft Bing Customer Match for advertising campaigns, your personal data will be protected using hashed codes.  
     Google users can control the ads that they see on Google services, including Customer Match ads, in their Google Ads Settings.  
     More information on how to control your account settings or to opt out of direct marketing campaigns can be found under [Your Choices](#your-choices) section. You can also opt out in your [Profile Settings](https://stackoverflow.com/users/email/settings/current).
-* Event sponsors and partners – we may share your personal data with sponsors of Stack Overflow events and partners whom we hold events with for marketing purposes when you have given your permission for us to do so.
-* Other third parties approved by you, e.g., third parties that run our Developer Survey, social media sites you choose to link your account to or third party payment providers.
-* We may make available APIs to enable users to download publicly available information from our websites.
-* Authorities who require reporting of processing activities in certain circumstances, for example, for anti-money laundering, sanctions and other regulatory obligations. We will not disclose your personal information to legal authorities except where such disclosure is by lawful request, including to meet legitimate national security or law enforcement demands (including a subpoena, court order, or other lawful legal demand by a legal authority with lawful jurisdiction) or in the public interest in compliance with applicable laws. In some cases, we may also release your personal information to defend our legal interests.
-* If we choose to sell, transfer, or merge parts of our business or our assets, your personal data would be shared with such third parties as part of such a transaction. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
+*   Event sponsors and partners – we may share your personal data with sponsors of Stack Overflow events and partners whom we hold events with for marketing purposes when you have given your permission for us to do so.
+*   Other third parties approved by you, e.g., third parties that run our Developer Survey, social media sites you choose to link your account to or third party payment providers.
+*   We may make available APIs to enable users to download publicly available information from our websites.
+*   Authorities who require reporting of processing activities in certain circumstances, for example, for anti-money laundering, sanctions and other regulatory obligations. We will not disclose your personal information to legal authorities except where such disclosure is by lawful request, including to meet legitimate national security or law enforcement demands (including a subpoena, court order, or other lawful legal demand by a legal authority with lawful jurisdiction) or in the public interest in compliance with applicable laws. In some cases, we may also release your personal information to defend our legal interests.
+*   If we choose to sell, transfer, or merge parts of our business or our assets, your personal data would be shared with such third parties as part of such a transaction. Alternatively, we may seek to acquire other businesses or merge with them. If a change happens to our business, then the new owners may use your personal data in the same way as set out in this privacy notice.
 
 We require all third parties to respect the security of your personal data and to treat it in accordance with the law. We do not allow our third-party service providers to use your personal data for their own purposes and only permit them to process your personal data for specified purposes and in accordance with contractual obligations which ensure adequate protection for your personal data.
 
@@ -333,8 +333,8 @@ When we send promotional emails and texts, we will give you an ‘unsubscribe’
 
 We may carry out interest-based advertising through third party services such as Microsoft or Google, as described under Advertising, above. You can opt out of such advertising in the following ways:
 
-* You can control the use of your data for interest-based advertising from Microsoft by visiting their [opt-out page.](https://go.microsoft.com/fwlink/?LinkID=286759)
-* You can opt out of advertising from Google or find out more by visiting [Google's help center.](https://support.google.com/google-ads/answer/2676774?hl=en-GB)
+*   You can control the use of your data for interest-based advertising from Microsoft by visiting their [opt-out page.](https://go.microsoft.com/fwlink/?LinkID=286759)
+*   You can opt out of advertising from Google or find out more by visiting [Google's help center.](https://support.google.com/google-ads/answer/2676774?hl=en-GB)
 
 More information and resources on how you can control your ad choices and how to opt out of interest based advertising can be found on [NAI Consumer Opt Out](https://optout.networkadvertising.org/?c=1) and [YourAdChoices.com](https://youradchoices.com/).
 
@@ -353,7 +353,7 @@ Your rights include:
 | Erasure | The right to require us to delete your personal data—in certain situations |
 | Restriction of processing | The right to require us to restrict processing of your personal data in certain circumstances, e.g., if you contest the accuracy of the data |
 | Data portability | The right to receive the personal data you provided to us, in a structured, commonly used and machine-readable format and/or transmit that data to a third party—in certain situations |
-| To object | The right to object:<br><br>* at any time to your personal data being processed for direct marketing (including profiling);<br>* in certain other situations to our continued processing of your personal data, e.g., processing carried out for the purpose of our legitimate interests. |
+| To object | The right to object:<br><br>*   at any time to your personal data being processed for direct marketing (including profiling);<br>*   in certain other situations to our continued processing of your personal data, e.g., processing carried out for the purpose of our legitimate interests. |
 
 If you would like to exercise any of these rights, please [submit a data request](https://policies.stackoverflow.co/data-request).
 
@@ -371,15 +371,15 @@ INTERNATIONAL DATA TRANSFERS
 
 To deliver services to you, it is sometimes necessary for us to transfer or share your personal data outside the UK/EEA:
 
-* with our offices or other companies within our group located outside the UK/EEA;
-* with your and our service providers, e.g., cloud service providers, located outside the UK/EEA;
-* if you are based outside the UK/EEA;
-* where there is a European and/or international dimension to the services we are providing to you.
+*   with our offices or other companies within our group located outside the UK/EEA;
+*   with your and our service providers, e.g., cloud service providers, located outside the UK/EEA;
+*   if you are based outside the UK/EEA;
+*   where there is a European and/or international dimension to the services we are providing to you.
 
 If applicable, we will only transfer or share your personal data outside the UK/EEA:
 
-* to a country, territory or organization that has been assessed as providing an adequate level of protection for personal data ‘adequacy decision’ by the UK or the EU Commission;
-* By using legally-approved UK or EU Standard Contractual Clauses (SCCS) or Model Clauses, in addition to implementing appropriate supplementary measures to ensure the protection of the personal data.
+*   to a country, territory or organization that has been assessed as providing an adequate level of protection for personal data ‘adequacy decision’ by the UK or the EU Commission;
+*   By using legally-approved UK or EU Standard Contractual Clauses (SCCS) or Model Clauses, in addition to implementing appropriate supplementary measures to ensure the protection of the personal data.
 
 If you are located in the UK or the EU, you may contact us at [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection) to request a copy of the Standard Contractual Clauses.
 
@@ -415,13 +415,13 @@ Stack Overflow does not sell (as the term is defined in the CCPA) the personal i
 
 In the last 12 months, we collected the following categories of personal information from California consumers:
 
-* Identifiers, like your Stack username, email address, IP address, and cookie information.
-* Commercial information, including information about transactions you undertake with us.
-* Internet or other electronic network activity information, such as information about your activity on our Services and limited information about your activity on the services of advertisers who use our advertising technology.
-* Geolocation information based on your IP address, or more specific location information if you authorize your device to provide it to us.
-* Audio and visual information submitted to Stack.
-* Professional or employment-related information or demographic information, but only if you explicitly provide it to us, such as by applying for a job or filling out a survey.
-* Inferences we make based on other collected data, for purposes such as recommending content, advertising, and analytics.
+*   Identifiers, like your Stack username, email address, IP address, and cookie information.
+*   Commercial information, including information about transactions you undertake with us.
+*   Internet or other electronic network activity information, such as information about your activity on our Services and limited information about your activity on the services of advertisers who use our advertising technology.
+*   Geolocation information based on your IP address, or more specific location information if you authorize your device to provide it to us.
+*   Audio and visual information submitted to Stack.
+*   Professional or employment-related information or demographic information, but only if you explicitly provide it to us, such as by applying for a job or filling out a survey.
+*   Inferences we make based on other collected data, for purposes such as recommending content, advertising, and analytics.
 
 You can find more information about (a) what we collect and sources of that information, (b) the business and commercial purposes for collecting that information, and (c) the categories of third parties with whom we share that information in the sections of our privacy statement above.
 
@@ -443,14 +443,14 @@ CONTACT US
 
 Privacy Officer
 
-* Privacy Officer, 14 Wall Street, 20th Floor, New York, NY 10005, [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection), phone: 212-232-8280
+*   Privacy Officer, 14 Wall Street, 20th Floor, New York, NY 10005, [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection), phone: 212-232-8280
 
 UK Representative
 
-* Privacy Officer, Bentima House, 168-172 Old Street, London EC1V 9BP, [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection), phone: +44 (0) 20 3349 1000
+*   Privacy Officer, Bentima House, 168-172 Old Street, London EC1V 9BP, [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection), phone: +44 (0) 20 3349 1000
 
 EU Representative
 
-* The MD Stack Overflow GMBH HRB 234500  
+*   The MD Stack Overflow GMBH HRB 234500  
     3 Frieslandstraat, Amsterdam,  
     [\[email protected\]](https://stackoverflow.com/cdn-cgi/l/email-protection), phone: +44 (0) 20 3349 1000
