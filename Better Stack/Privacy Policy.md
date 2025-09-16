@@ -1,4 +1,4 @@
-![](/assets/betterstack/policy-bg-92a54a67301b17f1f23989e8fda75e2c7b369751c022ab45aa18a2273ed3917a.png)
+![](https://betterstackcdn.com/assets/betterstack/policy-bg-92a54a67301b17f1f23989e8fda75e2c7b369751c022ab45aa18a2273ed3917a.png)
 
 Privacy Policy
 ==============
