@@ -18,22 +18,22 @@ By continuing to use Starbucks Services you acknowledge this Privacy Notice and 
 
 You may skip to the specific sections of our Privacy Notice by selecting any of the sections listed below.
 
-1. [Applicability and Scope](#applicability-and-scope)
-2. [Updates to this Privacy Notice](#updates-to-this-privacy-notice)
-3. [Information We Collect](#information-we-collect)
-4. [Sources of Information](#sources-of-information)
-5. [How We Use Your Information](#how-we-use-your-information)
-6. [How We Disclose Your Information](#how-we-disclose-your-information)
-7. [Cookies, Web Beacons, and Similar Technologies](#cookies-web-beacons-and-similar-technologies)
-8. [How We Protect Your Information](#how-we-protect-your-information)
-9. [Retention](#retention)
-10. [Children’s Privacy](#childrens-privacy)
-11. [Starbucks WiFi](#starbucks-wifi)
-12. [Your Privacy Choices & Rights](#your-choices-rights)
-13. [Notice of Financial Incentive & Starbucks® Rewards](#notice-of-financial-incentive)
-14. [Additional Disclosures for Data Subjects in the EEA, the U.K. and Switzerland](#additional-disclosures-for-data-subjects-in-the-eea-the-uk-and-switzerland)
-15. [Participation in the Data Privacy Framework](#participation-in-the-privacy-shield-frameworks)
-16. [Contact Us](#contact-us)
+1.  [Applicability and Scope](#applicability-and-scope)
+2.  [Updates to this Privacy Notice](#updates-to-this-privacy-notice)
+3.  [Information We Collect](#information-we-collect)
+4.  [Sources of Information](#sources-of-information)
+5.  [How We Use Your Information](#how-we-use-your-information)
+6.  [How We Disclose Your Information](#how-we-disclose-your-information)
+7.  [Cookies, Web Beacons, and Similar Technologies](#cookies-web-beacons-and-similar-technologies)
+8.  [How We Protect Your Information](#how-we-protect-your-information)
+9.  [Retention](#retention)
+10.  [Children’s Privacy](#childrens-privacy)
+11.  [Starbucks WiFi](#starbucks-wifi)
+12.  [Your Privacy Choices & Rights](#your-choices-rights)
+13.  [Notice of Financial Incentive & Starbucks® Rewards](#notice-of-financial-incentive)
+14.  [Additional Disclosures for Data Subjects in the EEA, the U.K. and Switzerland](#additional-disclosures-for-data-subjects-in-the-eea-the-uk-and-switzerland)
+15.  [Participation in the Data Privacy Framework](#participation-in-the-privacy-shield-frameworks)
+16.  [Contact Us](#contact-us)
 
 **1\. Applicability and Scope**
 
@@ -47,18 +47,18 @@ We may update this Notice from time to time. We will notify you of material chan
 
 When you visit and use the Starbucks Services, we may collect the following categories of information:
 
-* **Identifiers** – We may collect information that can be used to identify you, such as your first and last name, phone number, your address book, username and password, email address, postal address, IP address, day and month of your birthday, and demographic information (such as gender).
-* **Financial Information –** We may also collect information such as your credit card and debit card information, telephone number, and name.
-* **Commercial Information** – We may collect information about your transactions in our stores, on our websites or via our Starbucks App including what products you purchase, how frequently you purchase them, any Rewards or promotions associated with a purchase, and the products you have placed on your “Wishlist” or “My Bag” for future purchase.
-* **Electronic Network Activity Information –** We may collect information related to your electronic network activity, such as your browsing history, information about how you use the Starbucks Services, information about your device, and information related to Starbucks website’s “live help” chat feature.
-* **Geolocation Information –** We may collect information about your location of your device, such as information derived from your device (e.g., based on a browser or device’s IP address).  We may also use location-based technology in our retail locations, to collect information about the presence of your device, if your Bluetooth is turned on and your device settings allow for this.
-* **Audio and Visual Information** – We may collect audio and visual information when you use the Starbucks Services.  For example, closed circuit video surveillance cameras (“CCTV”) may be installed at some of our retail locations to monitor building security and assist in crime prevention, detection, and investigation, and to ensure the safety of our staff and visitors to our facilities, and these CCTV cameras may collect audio, visual, and similar information.  Also, depending on your choices, we may collect audio information when you use voice ordering.
-* **Inferences –** We may also collect inferences drawn from the other information described above.
-* **Other –** We may collect other information that you voluntarily provide when you communicate with us.
+*   **Identifiers** – We may collect information that can be used to identify you, such as your first and last name, phone number, your address book, username and password, email address, postal address, IP address, day and month of your birthday, and demographic information (such as gender).
+*   **Financial Information –** We may also collect information such as your credit card and debit card information, telephone number, and name.
+*   **Commercial Information** – We may collect information about your transactions in our stores, on our websites or via our Starbucks App including what products you purchase, how frequently you purchase them, any Rewards or promotions associated with a purchase, and the products you have placed on your “Wishlist” or “My Bag” for future purchase.
+*   **Electronic Network Activity Information –** We may collect information related to your electronic network activity, such as your browsing history, information about how you use the Starbucks Services, information about your device, and information related to Starbucks website’s “live help” chat feature.
+*   **Geolocation Information –** We may collect information about your location of your device, such as information derived from your device (e.g., based on a browser or device’s IP address).  We may also use location-based technology in our retail locations, to collect information about the presence of your device, if your Bluetooth is turned on and your device settings allow for this.
+*   **Audio and Visual Information** – We may collect audio and visual information when you use the Starbucks Services.  For example, closed circuit video surveillance cameras (“CCTV”) may be installed at some of our retail locations to monitor building security and assist in crime prevention, detection, and investigation, and to ensure the safety of our staff and visitors to our facilities, and these CCTV cameras may collect audio, visual, and similar information.  Also, depending on your choices, we may collect audio information when you use voice ordering.
+*   **Inferences –** We may also collect inferences drawn from the other information described above.
+*   **Other –** We may collect other information that you voluntarily provide when you communicate with us.
 
 Additionally, depending on how you use the Starbucks Services, we may collect the following categories of sensitive personal information from you:
 
-* **Precise Geolocation Information –** We may collect information about the precise location of your device (e.g., GPS latitude and longitude), consistent with your device settings. We may also use location-based technology in our retail locations, to collect information about the presence of your device, if your Bluetooth is turned on and your device settings allow for this. We may collect this location information or derive it from your GPS, WiFi, Bluetooth or other location-based technology for purposes of facilitating our services, such as to provide you with information about stores near you, to enable you to remotely order and pay for our products and services, or so that you may have certain Starbucks products delivered to you by a third-party vendor.
+*   **Precise Geolocation Information –** We may collect information about the precise location of your device (e.g., GPS latitude and longitude), consistent with your device settings. We may also use location-based technology in our retail locations, to collect information about the presence of your device, if your Bluetooth is turned on and your device settings allow for this. We may collect this location information or derive it from your GPS, WiFi, Bluetooth or other location-based technology for purposes of facilitating our services, such as to provide you with information about stores near you, to enable you to remotely order and pay for our products and services, or so that you may have certain Starbucks products delivered to you by a third-party vendor.
 
 We may aggregate or de-identify the information described above.  Aggregated or de-identified data that we do not attempt to reidentify is not subject to this Notice.
 
@@ -74,35 +74,35 @@ We may use your information for business purposes, including to provide the prod
 
 **(a)  To Provide Our Services** – We may process your information when you access or use the Starbucks Services, including to:
 
-* process or fulfill orders and transactions;
-* maintain and service accounts;
-* support and improve our loyalty programs, such as Starbucks® Rewards;
-* deliver gift cards or e-gifts, and any associated personalized messages, in accordance with your instructions;
-* debug to identify and repair errors that impair existing functionality;
-* facilitate the functionality of our websites and mobile applications;
-* process payments; and
-* customize experiences and personalization when you are in and around our stores, if you have given permission for location sharing.
+*   process or fulfill orders and transactions;
+*   maintain and service accounts;
+*   support and improve our loyalty programs, such as Starbucks® Rewards;
+*   deliver gift cards or e-gifts, and any associated personalized messages, in accordance with your instructions;
+*   debug to identify and repair errors that impair existing functionality;
+*   facilitate the functionality of our websites and mobile applications;
+*   process payments; and
+*   customize experiences and personalization when you are in and around our stores, if you have given permission for location sharing.
 
 **(b)  To Communicate With You** – We may process certain information in order to communicate with you in relation to your accounts, our services, our marketing, and your requests, including to:
 
-* provide customer service, including when you interact with our customer service agents through our website’s “live help” chat feature, and requests for information;
-* communicate with you about orders, purchases, returns, services, accounts, programs, contests, and sweepstakes;
-* send you personalized promotions, content, and special offers;
-* communicate with you about our brands, products, events, or other promotional purposes;
-* implement your communications preferences, such as sharing information with Starbucks business partners so that they may email you about their promotions, products and initiatives; and
-* provide important product safety information and notice of product recalls.
+*   provide customer service, including when you interact with our customer service agents through our website’s “live help” chat feature, and requests for information;
+*   communicate with you about orders, purchases, returns, services, accounts, programs, contests, and sweepstakes;
+*   send you personalized promotions, content, and special offers;
+*   communicate with you about our brands, products, events, or other promotional purposes;
+*   implement your communications preferences, such as sharing information with Starbucks business partners so that they may email you about their promotions, products and initiatives; and
+*   provide important product safety information and notice of product recalls.
 
 **(c)  For Research, Development, and Improvement of Our Services** – We want to ensure that our website, mobile applications, and services are continually improving and expanding so that we meet and exceed your needs and expectations. To do so, we may process certain personal information, including to:
 
-* maintain, improve, and analyze our websites, mobile applications, ads, and the products and services we offer; and
-* help to ensure security and integrity of the Starbucks Services, including to detect, prevent, or investigate suspicious activity or fraud.
+*   maintain, improve, and analyze our websites, mobile applications, ads, and the products and services we offer; and
+*   help to ensure security and integrity of the Starbucks Services, including to detect, prevent, or investigate suspicious activity or fraud.
 
 **(d)  To Enforce our Terms, Agreements, or Policies –** To maintain a safe, secure, and trusted environment for you when you use our websites, mobile applications, and other services, we may use your personal information to ensure our terms, policies, and agreements with you and any third parties are enforced.
 
 **(e)  To Comply with Applicable Laws –** We may be required to process certain information under certain laws and regulations, such as tax laws, as well as to:
 
-* maintain appropriate records for internal administrative purposes; and
-* comply with applicable legal and regulatory obligations, and respond to lawful governmental requests, as needed.
+*   maintain appropriate records for internal administrative purposes; and
+*   comply with applicable legal and regulatory obligations, and respond to lawful governmental requests, as needed.
 
 **(f)  Targeted Advertising –** We may process your information to provide you with targeted advertising (also known as cross-contextual advertising and online behavioral advertising) and offers and promotions that you may be interested in.
 
@@ -128,27 +128,27 @@ We may disclose your information as needed to fulfill the purposes described in 
 
 We and others may use a variety of technologies to collect information about your device and use of our websites and mobile applications. These technologies include first- and third-party cookies, web beacons, JavaScript, entity tags, and HTML local storage. Most web browsers can be programmed to accept or reject the use of some or all of these technologies, although you must take additional steps to disable or control other technologies. For more information on exercising your preferences in relation to cookies and similar technologies, please see the section of this Notice titled “Your Choices & Rights”.
 
-* **Cookies** – Cookies are small data files that are sent from a website’s server and are stored on your device’s hard drive either for only the duration of your visit (“session cookies”) or for a fixed period (“persistent cookies”). Cookies contain information that can later be read by a web server.
+*   **Cookies** – Cookies are small data files that are sent from a website’s server and are stored on your device’s hard drive either for only the duration of your visit (“session cookies”) or for a fixed period (“persistent cookies”). Cookies contain information that can later be read by a web server.
 
 You may be able to reject cookies, web beacons, entity tags and HTML5 local storage by adjusting the appropriate settings in your browser. Each browser is different, but many browsers have preferences or options that may be adjusted to allow you to either accept or reject cookies and certain other technologies before they are set or installed, or allow you to remove or reject the use or installation of certain technologies altogether. If you want to learn the correct way to modify your browser settings, please use the Help menu in your browser or review the instructions provided by the following browsers: Internet Explorer, Google Chrome, Mozilla Firefox, Safari Desktop, Safari Mobile; and Android browser.
 
-* **Interest-Based Ads** – Many advertising companies that collect information for interest-based advertising are members of the Digital Advertising Alliance (DAA) or the Network Advertising Initiative (NAI), both of which maintain websites where people can opt out of interest-based advertising from their members. To opt-out of website interest-based advertising provided by each organization’s respective participating companies, visit the DAA’s opt-out portal available at http://optout.aboutads.info/, the DAA of Canada’s opt-out portal available at https://youradchoices.ca/en/tools, or visit the NAI’s opt-out portal available at http://optout.networkadvertising.org/?c=1.
+*   **Interest-Based Ads** – Many advertising companies that collect information for interest-based advertising are members of the Digital Advertising Alliance (DAA) or the Network Advertising Initiative (NAI), both of which maintain websites where people can opt out of interest-based advertising from their members. To opt-out of website interest-based advertising provided by each organization’s respective participating companies, visit the DAA’s opt-out portal available at http://optout.aboutads.info/, the DAA of Canada’s opt-out portal available at https://youradchoices.ca/en/tools, or visit the NAI’s opt-out portal available at http://optout.networkadvertising.org/?c=1.
 
 Residents of the European Union may opt-out of online behavioral advertising served by the European Interactive Digital Advertising Alliance’s participating member organizations by visiting https://www.youronlinechoices.eu/.
 
 To opt-out of data collection for interest-based advertising across mobile applications by participating companies, download the DAA’s App Choices mobile application opt-out offering at https://youradchoices.com/appchoices.
 
-* **Adobe Flash Player Technology** – We allow Adobe to set and enable special cookies that are necessary to deliver video content for Adobe Flash Player. You cannot remove Flash cookies simply by changing your browser settings. If you would like to limit the websites that can store information in Flash cookies on your device, you must visit the Adobe website:  
+*   **Adobe Flash Player Technology** – We allow Adobe to set and enable special cookies that are necessary to deliver video content for Adobe Flash Player. You cannot remove Flash cookies simply by changing your browser settings. If you would like to limit the websites that can store information in Flash cookies on your device, you must visit the Adobe website:  
     [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings\_manager07.html](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
 
-* **Web Beacons** – Web beacons are small, transparent images that are embedded in web pages, applications, and emails that are sometimes called “clear gifs,” “single pixel gifs”, “page tags” or “web bugs.” We use web beacons to track the web pages you visit, to test the effectiveness of our marketing, and to find out if an email has been opened and acted on.
-* **JavaScript** – JavaScript are code snippets embedded in various parts of websites and applications that facilitate a variety of operations including accelerating the refresh speed of certain functionality or monitoring usage of various online components.
-* **Entity Tags** -- Entity Tags are HTTP code mechanisms that allow portions of websites to be stored or “cached” within your browser and validates these caches when the website is opened, accelerating website performance since the web server does not need to send a full response if the content has not changed.
-* **HTML5 Local Storage** – HTML5 local storage allows data from websites to be stored or “cached” within your browser to store and retrieve data in HTML5 pages when the website is revisited. These and similar technologies are used for the following purposes:
-* **Services and Functionality** – Some of these technologies are required to allow you to access and use our websites or mobile applications and the various services and functionality we offer. Without these technologies, some of the services and functionality on our websites and mobile applications would not work properly.
-* **Performance Monitoring** – Some of these technologies help us analyze and estimate traffic and assess the volume of use of services and functionality on websites and mobile applications. They show us how visitors and customers interact with our digital properties, whether there are any errors, the degree to which certain web pages, applications, services or functionality are accessed and used and how they are performing or operating. When these technologies are used for performance monitoring, no directly identifiable information (e.g., your name, email address or phone number) is collected.
-* **User Convenience** – Some of these technologies enhance the ease of use of our websites and mobile applications and the services and functionality they make available by accelerating load and refresh times and remembering information that you have provided on prior visits to our websites or when you last used a website or mobile application service or functionality.
-* **Marketing** – Some of these technologies are used to tailor your experience on our website, within our mobile applications, or across your applications or devices by controlling the promotions, advertisements and other marketing messages that may appear when you access or use these or other digital properties.
+*   **Web Beacons** – Web beacons are small, transparent images that are embedded in web pages, applications, and emails that are sometimes called “clear gifs,” “single pixel gifs”, “page tags” or “web bugs.” We use web beacons to track the web pages you visit, to test the effectiveness of our marketing, and to find out if an email has been opened and acted on.
+*   **JavaScript** – JavaScript are code snippets embedded in various parts of websites and applications that facilitate a variety of operations including accelerating the refresh speed of certain functionality or monitoring usage of various online components.
+*   **Entity Tags** -- Entity Tags are HTTP code mechanisms that allow portions of websites to be stored or “cached” within your browser and validates these caches when the website is opened, accelerating website performance since the web server does not need to send a full response if the content has not changed.
+*   **HTML5 Local Storage** – HTML5 local storage allows data from websites to be stored or “cached” within your browser to store and retrieve data in HTML5 pages when the website is revisited. These and similar technologies are used for the following purposes:
+*   **Services and Functionality** – Some of these technologies are required to allow you to access and use our websites or mobile applications and the various services and functionality we offer. Without these technologies, some of the services and functionality on our websites and mobile applications would not work properly.
+*   **Performance Monitoring** – Some of these technologies help us analyze and estimate traffic and assess the volume of use of services and functionality on websites and mobile applications. They show us how visitors and customers interact with our digital properties, whether there are any errors, the degree to which certain web pages, applications, services or functionality are accessed and used and how they are performing or operating. When these technologies are used for performance monitoring, no directly identifiable information (e.g., your name, email address or phone number) is collected.
+*   **User Convenience** – Some of these technologies enhance the ease of use of our websites and mobile applications and the services and functionality they make available by accelerating load and refresh times and remembering information that you have provided on prior visits to our websites or when you last used a website or mobile application service or functionality.
+*   **Marketing** – Some of these technologies are used to tailor your experience on our website, within our mobile applications, or across your applications or devices by controlling the promotions, advertisements and other marketing messages that may appear when you access or use these or other digital properties.
 
 Taken together, these technologies help us learn which services and functionality you are using and how you are accessing information about us. We may use this information to personalize your visit to a website or use of a mobile application or to send you relevant promotions and advertisements.
 
@@ -174,15 +174,15 @@ Many Starbucks stores support providing you access to wireless internet (WiFi) a
 
 **(a)  Your Choices**
 
-* **Location Services** – In order to use certain Starbucks Services, such as mobile order and pay (“MOP”) and location-based services and technology, you must either (a) enable “location services” in the Starbucks App; and/or (b) set the permissions in your mobile device to allow communication of this information.  
+*   **Location Services** – In order to use certain Starbucks Services, such as mobile order and pay (“MOP”) and location-based services and technology, you must either (a) enable “location services” in the Starbucks App; and/or (b) set the permissions in your mobile device to allow communication of this information.  
       
     If you allow for location sharing, your device may communicate with us in ways that allow for us to customize your experience in and around Starbucks stores, to monitor the effectiveness of our marketing efforts, to tailor messages based on your time and location patterns, and to limit the number of times you see a promotional message or offer. Precise geolocation may be used to fulfill services and application functionality you choose to engage with. You can manage the use of that personal information at any time in your device settings.  
       
     For most mobile devices, you can disable the collection of geolocation information by turning off location services on your device.  If you have any questions about how to prevent Starbucks from collecting your geolocation, we recommend you contact your mobile device service provider or the device manufacturer. Certain Starbucks App features and some Starbucks Services may not work properly without information about your location. You can re-enable the collection of geolocation information, at any time, by turning on location services on your device.
 
-* **Voice Ordering –** In order to use certain Starbucks Services,  such as voice ordering, when available, you must (a) enable “microphone” and “speech recognition” in the Starbucks App; and/or (b) set the permissions in your mobile device to allow communication of this information.
-* **Email Communications, Push Notifications, and In-App Messages****–** The Starbucks App allows all users to set preferences for receiving promotional email communications from Starbucks, receiving push notifications on your device, and receiving inbox messages. You may opt-out of receiving promotional emails at any time by adjusting your Starbucks online account settings or by clicking the “unsubscribe” link included within any promotional emails we send you. If you opt-out of receiving promotional emails from us, we may still send communications to you about your orders and transactions, and any accounts you have with us. Please note that when you opt-out of receiving promotional emails, you may still receive automated marketing text messages if you have opted-in to receiving them.
-* **Text Messages –** In connection with certain Starbucks Services you may consent to receiving automated marketing text messages. You may opt-out of receiving automated marketing text messages at any time by texting any of the following replies at the end of any text message you receive: STOP, END, CANCEL, UNSUBSCRIBE, or QUIT. Please note that when you opt-out of receiving automated marketing text messages you may still receive promotional emails.
+*   **Voice Ordering –** In order to use certain Starbucks Services,  such as voice ordering, when available, you must (a) enable “microphone” and “speech recognition” in the Starbucks App; and/or (b) set the permissions in your mobile device to allow communication of this information.
+*   **Email Communications, Push Notifications, and In-App Messages****–** The Starbucks App allows all users to set preferences for receiving promotional email communications from Starbucks, receiving push notifications on your device, and receiving inbox messages. You may opt-out of receiving promotional emails at any time by adjusting your Starbucks online account settings or by clicking the “unsubscribe” link included within any promotional emails we send you. If you opt-out of receiving promotional emails from us, we may still send communications to you about your orders and transactions, and any accounts you have with us. Please note that when you opt-out of receiving promotional emails, you may still receive automated marketing text messages if you have opted-in to receiving them.
+*   **Text Messages –** In connection with certain Starbucks Services you may consent to receiving automated marketing text messages. You may opt-out of receiving automated marketing text messages at any time by texting any of the following replies at the end of any text message you receive: STOP, END, CANCEL, UNSUBSCRIBE, or QUIT. Please note that when you opt-out of receiving automated marketing text messages you may still receive promotional emails.
 
 If you use the Starbucks App features described above, you consent to the transmission of your user information to Starbucks and/or its agents, and authorize Starbucks and/or its agents, to record, process, and store such user information as necessary for administering the Starbucks App features and for purposes described in this Notice.
 
@@ -190,14 +190,14 @@ If you use the Starbucks App features described above, you consent to the transm
 
 You may submit a request to exercise the rights described below. We will respond to your request consistent with applicable law, including applicable exceptions.
 
-* **Right to Know and Access (Data Portability)** – You may have the right to (1) know what personal information Starbucks processes about you, including the categories of personal information, the categories of sources from which it is collected, the business or commercial purposes for collecting, selling, or sharing it, the categories of third parties to whom we may disclose it, including a specific list of third parties to whom we have disclosed our customers’ personal information; and (2) receive a copy of the specific personal information we have processed or are processing about you.
-* **Deletion** – You may have the right to request that we delete information that we collected from you and retained, subject to certain exceptions.
-* **Correct Inaccurate Information** – You may have the right to request that we correct inaccuracies in the personal information we maintain about you. You may also correct certain personal information associated with your Starbucks Rewards account yourself in the Starbucks App or by signing in at Starbucks.com.
-* **Targeted Advertising** – We do not sell your information for monetary or valuable consideration.  You may have the right to opt-out of having your personal information shared for purposes of targeted advertising.  To opt-out, click this “Do Not Share My Personal Information” link.
-* **Sensitive Information** – Companies who collect, use, and disclose your sensitive personal information for purposes other than to provide you with goods or services are required to provide you with the right to limit the use and disclosure of your sensitive personal information by providing a “Limit the Use and Disclosure of My Sensitive Personal Information” link. Starbucks only collects, uses, and discloses your sensitive personal information to provide services to you, therefore Starbucks is not required to provide this link.
-* **Opt-Out Preference Signals** – Some web browsers allow customers to automatically exercise their right to opt-out of sale/sharing with all businesses they interact with online by initiating an opt-out preference signal. We will honor such opt-out preference signals.
-* **Appeals –** You may appeal our decision with respect to a request you have submitted by contacting us as described in the “Contact Us” section below.
-* **Consumer Health Data Rights in Washington and Nevada –** You may have additional rights relating to consumer health data. For more information, please see the [Consumer Health Data Privacy Notice for Washington and Nevada](https://www.starbucks.com/consumer-health-data-privacy-notice/) .
+*   **Right to Know and Access (Data Portability)** – You may have the right to (1) know what personal information Starbucks processes about you, including the categories of personal information, the categories of sources from which it is collected, the business or commercial purposes for collecting, selling, or sharing it, the categories of third parties to whom we may disclose it, including a specific list of third parties to whom we have disclosed our customers’ personal information; and (2) receive a copy of the specific personal information we have processed or are processing about you.
+*   **Deletion** – You may have the right to request that we delete information that we collected from you and retained, subject to certain exceptions.
+*   **Correct Inaccurate Information** – You may have the right to request that we correct inaccuracies in the personal information we maintain about you. You may also correct certain personal information associated with your Starbucks Rewards account yourself in the Starbucks App or by signing in at Starbucks.com.
+*   **Targeted Advertising** – We do not sell your information for monetary or valuable consideration.  You may have the right to opt-out of having your personal information shared for purposes of targeted advertising.  To opt-out, click this “Do Not Share My Personal Information” link.
+*   **Sensitive Information** – Companies who collect, use, and disclose your sensitive personal information for purposes other than to provide you with goods or services are required to provide you with the right to limit the use and disclosure of your sensitive personal information by providing a “Limit the Use and Disclosure of My Sensitive Personal Information” link. Starbucks only collects, uses, and discloses your sensitive personal information to provide services to you, therefore Starbucks is not required to provide this link.
+*   **Opt-Out Preference Signals** – Some web browsers allow customers to automatically exercise their right to opt-out of sale/sharing with all businesses they interact with online by initiating an opt-out preference signal. We will honor such opt-out preference signals.
+*   **Appeals –** You may appeal our decision with respect to a request you have submitted by contacting us as described in the “Contact Us” section below.
+*   **Consumer Health Data Rights in Washington and Nevada –** You may have additional rights relating to consumer health data. For more information, please see the [Consumer Health Data Privacy Notice for Washington and Nevada](https://www.starbucks.com/consumer-health-data-privacy-notice/) .
 
 Requests for U.S. residents should be submitted through this form [**HERE**](https://privacyportal-cdn.onetrust.com/dsarwebform/f9975fc5-c93f-4ff8-8169-846d8f6cd4d2/dd7e8c8f-839f-4be3-9ebc-060786941e92.html) .
 
@@ -213,8 +213,8 @@ We will not discriminate against you for exercising any of your applicable right
 
 **(c)  Additional California Rights**
 
-* If you are a California resident, you can also request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to: Starbucks, P.O. Box 20430, Augusta, GA 30916
-* Some web browsers have a “Do Not Track” preference that transmits a “Do Not Track” header to the websites you visit with information indicating that you do not want your activity to be tracked. We currently do not respond to browser “Do Not Track” signals, as there is no standard for how online services should respond to such signals. As standards develop, we may develop policies for responding to do-not-track signals that we will describe in this Notice.
+*   If you are a California resident, you can also request a notice disclosing the categories of personal information we have shared with third parties for the third parties’ direct marketing purposes. To request a notice, please submit your request by postal mail to: Starbucks, P.O. Box 20430, Augusta, GA 30916
+*   Some web browsers have a “Do Not Track” preference that transmits a “Do Not Track” header to the websites you visit with information indicating that you do not want your activity to be tracked. We currently do not respond to browser “Do Not Track” signals, as there is no standard for how online services should respond to such signals. As standards develop, we may develop policies for responding to do-not-track signals that we will describe in this Notice.
 
 **(d)  Privacy Metrics**
 
@@ -248,35 +248,35 @@ This section provides general information about how Starbucks collects, stores, 
 
 **(a)  Lawful Bases of Processing** – Where a Starbucks entity is acting as a data controller that determines the purposes and means of processing your personal data, such as when we collect, use, and share personal data as described in this Notice, we must have a lawful basis for processing for doing so. Our lawful bases for processing personal data include:
 
-* to conclude or perform a contract with you, for example to:
+*   to conclude or perform a contract with you, for example to:
     
-    * process your purchases of or requests for products and services, including delivering
-    * gift cards in accordance with your instructions;
-    * communicate with you about orders, purchases, returns, services, accounts, programs,
-    * contests, and sweepstakes;
+    *   process your purchases of or requests for products and services, including delivering
+    *   gift cards in accordance with your instructions;
+    *   communicate with you about orders, purchases, returns, services, accounts, programs,
+    *   contests, and sweepstakes;
     
-* for our legitimate business purposes, including to:
+*   for our legitimate business purposes, including to:
     
-    * respond to your customer service inquiries and requests for information;
-    * maintain, improve, and analyze our websites, mobile applications, ads, and the
-    * products and services we offer;
-    * detect, prevent, or investigate security breaches or fraud; and
-    * facilitate the functionality of our websites and mobile applications;
+    *   respond to your customer service inquiries and requests for information;
+    *   maintain, improve, and analyze our websites, mobile applications, ads, and the
+    *   products and services we offer;
+    *   detect, prevent, or investigate security breaches or fraud; and
+    *   facilitate the functionality of our websites and mobile applications;
     
-* to comply with our legal obligations, for example to maintain appropriate records for internal administrative purposes and as required by applicable law, and provide important product safety information and notice of product recalls; and
-* on the basis of your consent, for example to send you via email and other electronic means personalized promotions and special offers or informing you about our brands, products, events, or other promotional purposes.
+*   to comply with our legal obligations, for example to maintain appropriate records for internal administrative purposes and as required by applicable law, and provide important product safety information and notice of product recalls; and
+*   on the basis of your consent, for example to send you via email and other electronic means personalized promotions and special offers or informing you about our brands, products, events, or other promotional purposes.
 
 You can withdraw your consent at any time by modifying your promotional preferences in your Starbucks user account online, or by contacting us as described in the “Contact Us” section below.
 
 **(b)  Your EEA Data Subject Rights** – Under certain circumstances, by law you have the right to:
 
-* **Request access** to your personal information (commonly known as a “data subject access request”). This enables you to receive a copy of the personal information we hold about you.
-* **Request correction** of the personal information that we hold about you.
-* **Request erasure** of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it.
-* **Object to processing** of your personal information where we are relying on a legitimate interest (or those of a third party), or where we are processing your personal information for direct marketing purposes.
-* **Request the restriction of processing** of your personal information. This enables you to ask us to suspend the processing of personal information about you.
-* **Request the transfer** of your personal information to another party, when possible.
-* **Not be subject to automated decision-making** producing legal or significant effects on an individual, which we do not engage in.
+*   **Request access** to your personal information (commonly known as a “data subject access request”). This enables you to receive a copy of the personal information we hold about you.
+*   **Request correction** of the personal information that we hold about you.
+*   **Request erasure** of your personal information. This enables you to ask us to delete or remove personal information where there is no good reason for us continuing to process it.
+*   **Object to processing** of your personal information where we are relying on a legitimate interest (or those of a third party), or where we are processing your personal information for direct marketing purposes.
+*   **Request the restriction of processing** of your personal information. This enables you to ask us to suspend the processing of personal information about you.
+*   **Request the transfer** of your personal information to another party, when possible.
+*   **Not be subject to automated decision-making** producing legal or significant effects on an individual, which we do not engage in.
 
 To exercise any of these rights, please see the “Your Choices & Rights” section, or contact us as set forth in the “Contact Us” section below and specify which GDPR privacy right(s) you wish to exercise. We must verify your identity in order to honor your request, which we will respond to within 30 days of receipt.
 
@@ -308,38 +308,38 @@ You may reach our Global Privacy Department and our Data Protection Officer at [
 
 Additional contact information may be found below for various Starbucks entities.
 
-* **Country – Canada**
-    * Entity Name – Starbucks Corporation (Canada)
-    * Entity Address – P.O. Box 20430, Augusta, GA 30916 USA
-    * Additional Contact (If Any) –
-        * Customer Service
-            * 800-Starbuc (782-7282)
-* **Country – France**
-    * Entity Name – Starbucks Coffee France SAS
-    * Entity Address – 38 rue des Jeûneurs, 75002 Paris
-    * Additional Contact (If Any) –
-        * Customer Support
-            * [service.clientele@starbucks.fr](mailto:service.clientele@starbucks.fr)
-            * +33 01 44 76 72 00
-* **Country – Germany**
-    * Entity Name – AmRest Coffee Deutschland Sp. Z oo & Co. KG
-    * Entity Address – Dachauser Strasse 6, 80335, Munich
-    * Additional Contact (If Any) –
-        * Customer Relations
-            * [Starbucks.Gaesteservice@amrest.eu](mailto:Starbucks.Gaesteservice@amrest.eu)
-            * +49 (0) 89.551.555.990
-* **Country – U.K.**
-    * Entity Name – Starbucks Coffee Company (UK) Limited
-    * Entity Address – Building 4 Chiswick Park, 566 Chiswick High Road, London, W4 5YE
-    * Additional Contact (If Any) –
-        * Customer Support
-            * Please contact our U.K. Customer Care team **[HERE](https://customercare.starbucks.co.uk/sbux?lang=en)** .
-            * +443330050449 or +442088345050 (app)
-* **Country – U.S.**
-    * Entity Name – Starbucks Reserve
-    * Entity Address – Starbucks, P.O. Box 20430, Augusta, GA 30916
-    * Additional Contact (If Any) –
-    * Customer Service
-        * [http://customerservice.starbucks.com](http://customerservice.starbucks.com/)
-        * 800-Starbuc (782-7282)
-* [![TRUSTe](https://privacy-policy.truste.com/privacy-seal/seal?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)
+*   **Country – Canada**
+    *   Entity Name – Starbucks Corporation (Canada)
+    *   Entity Address – P.O. Box 20430, Augusta, GA 30916 USA
+    *   Additional Contact (If Any) –
+        *   Customer Service
+            *   800-Starbuc (782-7282)
+*   **Country – France**
+    *   Entity Name – Starbucks Coffee France SAS
+    *   Entity Address – 38 rue des Jeûneurs, 75002 Paris
+    *   Additional Contact (If Any) –
+        *   Customer Support
+            *   [service.clientele@starbucks.fr](mailto:service.clientele@starbucks.fr)
+            *   +33 01 44 76 72 00
+*   **Country – Germany**
+    *   Entity Name – AmRest Coffee Deutschland Sp. Z oo & Co. KG
+    *   Entity Address – Dachauser Strasse 6, 80335, Munich
+    *   Additional Contact (If Any) –
+        *   Customer Relations
+            *   [Starbucks.Gaesteservice@amrest.eu](mailto:Starbucks.Gaesteservice@amrest.eu)
+            *   +49 (0) 89.551.555.990
+*   **Country – U.K.**
+    *   Entity Name – Starbucks Coffee Company (UK) Limited
+    *   Entity Address – Building 4 Chiswick Park, 566 Chiswick High Road, London, W4 5YE
+    *   Additional Contact (If Any) –
+        *   Customer Support
+            *   Please contact our U.K. Customer Care team **[HERE](https://customercare.starbucks.co.uk/sbux?lang=en)** .
+            *   +443330050449 or +442088345050 (app)
+*   **Country – U.S.**
+    *   Entity Name – Starbucks Reserve
+    *   Entity Address – Starbucks, P.O. Box 20430, Augusta, GA 30916
+    *   Additional Contact (If Any) –
+    *   Customer Service
+        *   [http://customerservice.starbucks.com](http://customerservice.starbucks.com/)
+        *   800-Starbuc (782-7282)
+*   [![TRUSTe](https://privacy-policy.truste.com/privacy-seal/seal?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)](https://privacy.truste.com/privacy-seal/validation?rid=625f045f-b082-4cd8-af08-fcf9445e95d8)
