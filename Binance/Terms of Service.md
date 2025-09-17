@@ -645,8 +645,4 @@ c. in connection with the commencement, pursuit or defence by a party of any bon
 
 d. to the extent that the relevant confidential information is in the public domain otherwise than by breach of this agreement.
 
-This term of confidentiality in this clause shall survive termination of these Terms and conclusion or stay of any arbitration brought pursuant to these Terms.
-
-**34\. Governing law**
-
-34.1. Subject to clause 34.2
+This term of confidentiality in this clause shall survive termination of these Terms and conclusi
