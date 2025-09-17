@@ -83,6 +83,8 @@ This policy is incorporated into our [Terms of Use](https://substack.com/tos), a
 
 If you have any further questions on our various copyright policies, please contact us at [copyright@substackinc.com](mailto:copyright@substackinc.com).
 
+- - -
+
 **Repeat Infringer Policy**
 ===========================
 
