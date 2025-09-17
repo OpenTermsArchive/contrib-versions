@@ -478,6 +478,8 @@ or
 
 Substack has prepared additional disclosures and notices consistent with the California Consumer Privacy Act (CCPA). Our CCPA Policy, the terms of which are incorporated by reference into this Privacy Policy, can be found [here](https://substack.com/ccpa).
 
+- - -
+
 **California Privacy Notice**
 =============================
 
