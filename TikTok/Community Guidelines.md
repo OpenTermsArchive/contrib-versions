@@ -93,6 +93,8 @@ You are empowered to manage your experience on TikTok. We provide a [safety tool
 
 You can also visit our [Safety Center](https://www.tiktok.com/safety?lang=en) resources for extra support.
 
+- - -
+
 Community Principles
 --------------------
 
@@ -120,6 +122,8 @@ Here are the eight principles:
 8. **Act Fairly:** Evaluating millions of pieces of content each day is a complex effort, but we’re committed to being impartial, clear, and providing opportunities to appeal.
 
 In rare and exceptional situations—such as crises or moments of social unrest—we may adjust our usual enforcement or rules to protect our community and address emerging harms, while remaining guided by our principles.
+
+- - -
 
 Youth Safety and Well-Being
 ---------------------------
@@ -153,6 +157,8 @@ We know that parents sometimes post content featuring their children. If you do 
 We don’t allow content that could [harm young people](https://www.tiktok.com/transparency/en/combating-csea)—physically, emotionally, or developmentally. If we become aware an account holder has committed a sexual offense against a young person, we will [ban the account](https://www.tiktok.com/community-guidelines/en/accounts-features?lang=en&cgversion=2025H2update#1), as well as any other accounts belonging to that person. We report incidents of youth sexual abuse and exploitation to the National Center for Missing and Exploited Children ([NCMEC](https://www.missingkids.org/HOME)). We also report to relevant law enforcement authorities when there is a specific, credible, and imminent threat to human life or serious physical injury.
 
 **Learn more** **at our [Teen Safety Center](https://www.tiktok.com/safety/youth-portal/?lang=en) and [Guardian’s Guide](https://www.tiktok.com/safety/guardians-guide/?lang=en).**
+
+- - -
 
 Safety and Civility
 -------------------
@@ -484,6 +490,8 @@ ALLOWED
 * Documentary or educational content that raises awareness about harassment and bullying
 * Fiction or art, unless it's used to target or harm a real individual
 
+- - -
+
 Mental and Behavioral Health
 ----------------------------
 
@@ -620,6 +628,8 @@ ALLOWED
 * Showing professionals engaging in combat sports, extreme sports, or stunts
 * Documentary or educational content that reports on dangerous activities and challenges, unless it enables copycat behavior
 * Fiction or art, unless it promotes dangerous activities or challenges, or enables real-world behavior
+
+- - -
 
 Sensitive and Mature Themes
 ---------------------------
@@ -784,6 +794,8 @@ ALLOWED
 
 * Food-related animal body parts, including items typically available in grocery stores
 * Documentary or educational content that reports on or condemns animal abuse, unless it shows graphic abuse
+
+- - -
 
 Integrity and Authenticity
 --------------------------
@@ -1022,6 +1034,8 @@ FYF INELIGIBLE
 * False incentives for gifting or following
 * Misleading claims meant to boost views or popularity
 
+- - -
+
 Regulated Goods, Services, and Commercial Activities
 ----------------------------------------------------
 
@@ -1156,6 +1170,8 @@ NOT ALLOWED
 * Multi-level marketing (MLM)
 * Trading fake currency, forged documents, and stolen information
 
+- - -
+
 Privacy and Security
 --------------------
 
@@ -1212,6 +1228,8 @@ NOT ALLOWED
 * Trying to steal personal information, hack accounts, or access data using tricks like phishing, smishing, or automated tools
 * Trying to reverse-engineer TikTok’s code, systems, or algorithms—or create your own versions based on them
 
+- - -
+
 For You feed Eligibility Standards
 ----------------------------------
 
@@ -1226,6 +1244,8 @@ We maintain content eligibility standards for the FYF that prioritize safety, an
 Even if a video doesn’t make it to the FYF, people may still find it through search or by going to a creator's account. If a video isn’t getting many views, it also doesn’t necessarily mean it broke a rule. Creators can check [TikTok’s analytics](https://www.tiktok.com/creator-academy/?lang=en) to see how their videos are performing, including if there were any made ineligible for recommendation.
 
 Our recommendation system is built to help people discover and enjoy a wide range of content—not just the same kinds of videos over and over. We aim to prevent our systems from repeatedly recommending content that could lead to a negative experience, such as extreme fitness or dieting, sexual suggestiveness, sadness, or overgeneralized mental health advice. During moments of crisis or unrest, we may also interrupt repetitive recommendations to help ensure people continue to see a broad mix of content, creators, and perspectives—just as the FYF is designed to do. **Learn more about our work to keep your experience [safe, varied, and fun](https://www.tiktok.com/transparency/en/recommendation-system).**
+
+- - -
 
 Accounts and Features
 ---------------------
@@ -1396,6 +1416,8 @@ To be eligible, you need to meet entry criteria and follow feature-specific rule
 All commercial content must be disclosed using the [content disclosure setting](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/promoting-a-brand-product-or-service). This applies to content that promotes your brand or involves payment or perks from a third party. Branded content must also follow our [Branded Content Policy](https://support.tiktok.com/en/business-and-creator/creator-and-business-accounts/branded-content-policy), [TikTok’s Ads Creative Policy](https://ads.tiktok.com/help/article?aid=9552), and [Industry Entry Policy](https://ads.tiktok.com/help/article?aid=9550) and—where relevant—TikTok Shop Policies.
 
 If we find commercial content that hasn’t been properly disclosed, we may apply the content disclosure setting ourselves or remove it from the FYF. Repeated issues could lead to your account being temporarily restricted from posting content, or an account ban.
+
+- - -
 
 Enforcement
 -----------
