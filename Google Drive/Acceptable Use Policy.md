@@ -20,6 +20,8 @@ Reports don't guarantee removal of the file or any other action on Google's part
 
 To report copyright infringement or other legal issues, please use [this tool](https://support.google.com/legal/troubleshooter/1114905?rd=2%23ts=1115681), which will guide you through the process of reporting content that you believe warrants removal from Google's services based on applicable laws.
 
+For UK users, find [more information about reporting and the UK Online Safety Act](https://support.google.com/legal-help-center/answer/15957560).
+
 Programme Policies
 ------------------
 
