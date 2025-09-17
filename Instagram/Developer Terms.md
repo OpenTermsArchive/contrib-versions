@@ -1,18 +1,18 @@
 Platform Terms
 --------------
 
-[1\. Introduction](#introduction)  
-[2\. Intellectual Property Rights](#intellectualpropertyrights)  
-[3\. Data Use](#datause)  
-[4\. Privacy Policy](#privacypolicy)  
-[5\. Service Providers and Tech Providers](#serviceprovidersandtechproviders)  
-[6\. Data Security](#datasecurity)  
-[7\. Compliance Review Rights and Suspension and Termination of these Terms](#compliancereviewrightsandsuspensionandterminationoftheseterms)  
-[8\. Notice](#notice)  
-[9\. Indemnification](#indemnification)  
-[10\. International Transfers](#internatinaltransfers)  
-[11\. General](#general)  
-[12\. Glossary](#glossary)
+[1\. Introduction](https://developers.facebook.com/terms#introduction)  
+[2\. Intellectual Property Rights](https://developers.facebook.com/terms#intellectualpropertyrights)  
+[3\. Data Use](https://developers.facebook.com/terms#datause)  
+[4\. Privacy Policy](https://developers.facebook.com/terms#privacypolicy)  
+[5\. Service Providers and Tech Providers](https://developers.facebook.com/terms#serviceprovidersandtechproviders)  
+[6\. Data Security](https://developers.facebook.com/terms#datasecurity)  
+[7\. Compliance Review Rights and Suspension and Termination of these Terms](https://developers.facebook.com/terms#compliancereviewrightsandsuspensionandterminationoftheseterms)  
+[8\. Notice](https://developers.facebook.com/terms#notice)  
+[9\. Indemnification](https://developers.facebook.com/terms#indemnification)  
+[10\. International Transfers](https://developers.facebook.com/terms#internatinaltransfers)  
+[11\. General](https://developers.facebook.com/terms#general)  
+[12\. Glossary](https://developers.facebook.com/terms#glossary)
 
 _Last updated August 22, 2025_
 
@@ -26,7 +26,7 @@ Meta Platform Terms
     a. The Meta for Developers Platform (“Platform”) is the set of APIs, SDKs, tools, plugins, code, technology, content, and services that enables others, including app developers and website operators, to develop functionality, retrieve data from Meta and any other [Meta Products](https://www.facebook.com/help/1561485474074139?ref=tos), or provide data to us.
     
 *   
-    b. To use Platform (including to Process any Platform Data), you agree to these Platform Terms (“Terms”), as well as all other applicable terms and policies. This may include the [Meta Terms of Service](https://www.facebook.com/legal/terms), the [Instagram Terms of Use](https://developers.facebook.com/https%3A%2F%2Fl.facebook.com%2Fl.php%3Fu=https%3A%2F%2Fhelp.instagram.com%2F581066165581870&h=removed), the [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms), the [Business Tools Terms](https://www.facebook.com/legal/terms/businesstools/), and any [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos) terms that are applicable.
+    b. To use Platform (including to Process any Platform Data), you agree to these Platform Terms (“Terms”), as well as all other applicable terms and policies. This may include the [Meta Terms of Service](https://www.facebook.com/legal/terms), the [Instagram Terms of Use](https://l.facebook.com/l.php?u=https%3A%2F%2Fhelp.instagram.com%2F581066165581870), the [Meta Commercial Terms](https://www.facebook.com/legal/commercial_terms), the [Business Tools Terms](https://www.facebook.com/legal/terms/businesstools/), and any [Meta Product](https://www.facebook.com/help/1561485474074139?ref=tos) terms that are applicable.
     
 *   
     c. You must also comply with the applicable requirements in our [Developer Policies](https://developers.facebook.com/devpolicy/) and those made available on our [Developer Site](https://developers.facebook.com/), including in our [Documentation](https://developers.facebook.com/docs/) (collectively, the “Developer Docs”) and all applicable laws and regulations, including with respect to your collection, use, or other processing of Platform Data.
