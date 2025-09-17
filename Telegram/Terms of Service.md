@@ -151,6 +151,8 @@ Certain countries or jurisdictions may impose regulatory constraints on giveaway
 
 Channel admins can use the Giveaway feature to announce arbitrary prizes in addition to premium subscriptions. Should they choose to do so, they are solely responsible for delivering said prizes to giveaway winners. Telegram will not be liable if any disputes arise in relation to the prizes, their delivery or lack thereof.
 
+- - -
+
 Telegram FAQ
 ============
 
