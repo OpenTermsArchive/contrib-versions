@@ -1,4 +1,4 @@
-Last Updated: October 28, 2020
+Last Updated: September 16, 2025
 
 Academia.edu (“Academia”) provides a searchable repository to allow our users to search and share academic resources. This Privacy Policy is designed to help you understand how we collect, use, and share your personal information and to help you understand and exercise your privacy rights. Academia is the controller for the personal information we process, unless otherwise stated. For information on how to contact us, please refer to Section 13 below.
 
@@ -31,7 +31,7 @@ Academia.edu (“Academia”) provides a searchable repository to allow our user
 1 Scope
 =======
 
-This Privacy Policy applies to personal information processed by us, including on our websites, mobile applications, and other online or offline offerings. To make this Privacy Policy easier to read, our websites, mobile applications, and other offerings are collectively called “**Services.**”
+This Privacy Policy applies to personal information processed by us, including on our websites, mobile applications, advertisements, marketing materials, email and other communications, and other online or offline offerings. To make this Privacy Policy easier to read, our websites, mobile applications, and other offerings are collectively called "**Services.**"
 
 2 Personal Information We Collect
 =================================
@@ -165,9 +165,9 @@ We use your information for various administrative purposes, such as:
 3.3 Marketing and Advertising our Products and Services
 -------------------------------------------------------
 
-We may use personal information to tailor and provide you with content and advertisements. We may provide you with these materials as permitted by applicable law.
+We may use personal information (including, but not limited to, your name, voice, signature, photograph, likeness, city, institutional affiliations, citations, mentions, publications, and areas of interest) to tailor and provide you with content and advertisements. We may also use your personal information (including, but not limited to, your name, voice, signature, photograph, likeness, city, institutional affiliations, citations, mentions, publications, and areas of interest) to inform other Academia users of your activity in connection with our Services, including when you mention or cite another Academia user in a publication. We may provide you with these materials as permitted by applicable law.
 
-Some of the ways we market to you include email campaigns, custom audiences advertising, and “interest-based” or “personalized advertising,” including through cross-device tracking.
+Some of the ways we market to you and to others include email campaigns, custom audiences advertising, and "interest-based" or "personalized advertising," including through cross-device tracking.
 
 If you have any questions about our marketing practices or if you would like to opt out of the use of your personal information for marketing purposes, you may contact us at any time as set forth below.
 
@@ -202,7 +202,7 @@ The categories of third parties with whom we may share your information are desc
 * **Affiliates**. We may share your personal information with our company affiliates, for our administrative purpose including activities such as IT management, for them to provide services to you, or support and supplement the Services we provide.
     
 
-* **Other Academia Users**. If you use certain Academia features, such as browsing profiles or papers belonging to Academia Premium users, your profile information (e.g., your name, city, institutional affiliations, and areas of interest) and browsing/viewing activity may be visible to those Premium users. You can control what information is visible to Academia Premium users in your Academia account [privacy settings](https://www.academia.edu/settings#privacy-settings).
+* **Other Academia Users**. If you use certain Academia features, such as browsing profiles or papers belonging to Academia Premium users, your profile information (e.g., your name, city, institutional affiliations, and areas of interest) and browsing/viewing activity may be visible to those Premium users. You can control what information is visible to Academia Premium users in your Academia account [privacy settings](https://www.academia.edu/settings#privacy-settings). We may also disclose your personal information (including, but not limited to, your name, voice, signature, photograph, likeness, city, institutional affiliations, citations, mentions, publications, and areas of interest) to inform other Academia users of your activity in connection with our Services, including when you mention or cite another Academia user in a publication.
     
 
 * **Advertising Partners**. We may share your personal information with third-party advertising partners. These third-party advertising partners may set Technologies and other tracking tools on our Services to collect information regarding your activities and your device (e.g., your IP address, cookie identifiers, page(s) visited, location, time of day). These advertising partners may use this information (and similar information collected from other services) for purposes of delivering personalized advertisements to you when you visit digital properties within their networks. This practice is commonly referred to as “interest-based advertising” or “personalized advertising.”
@@ -213,7 +213,7 @@ The categories of third parties with whom we may share your information are desc
 4.2 Disclosures to Protect Us or Others
 ---------------------------------------
 
-We may access, preserve, and disclose any information we store associated with you to external parties if we, in good faith, believe doing so is required or appropriate to: comply with law enforcement or national security requests and legal process, such as a court order or subpoena; protect your, our, or others’ rights, property, or safety; enforce our policies or contracts; collect amounts owed to us; or assist with an investigation or prosecution of suspected or actual illegal activity.
+We may access, preserve, and disclose any information we store associated with you to external parties if we, in good faith, believe doing so is required or appropriate to: comply with law enforcement or national security requests and legal process, such as a court order or subpoena; protect your, our, or others' rights, property, or safety; enforce our policies or contracts; collect amounts owed to us; to comply with civil discovery obligations and requests; or assist with an investigation or prosecution of suspected or actual illegal activity.
 
 4.3 Disclosure in the Event of Merger, Sale, or Other Asset Transfers
 ---------------------------------------------------------------------
@@ -268,7 +268,7 @@ All information processed by us may be transferred, processed, and stored anywhe
 8 Retention of Personal Information
 ===================================
 
-We store the personal information we collect as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes, enforce our agreements, and comply with applicable laws.
+We store the personal information we collect as described in this Privacy Policy for as long as you use our Services or as necessary to fulfill the purpose(s) for which it was collected, provide our Services, resolve disputes, establish legal defenses, conduct audits, pursue legitimate business purposes (including the use and disclosure of your personal information to inform other Academia users of your activity in connection with our Services), enforce our agreements, and comply with applicable laws.
 
 9 Supplemental Notice for California Residents
 ==============================================
@@ -277,7 +277,7 @@ This Supplemental California Privacy Notice only applies to our processing of pe
 
 | **Category of Personal Information Collected by Academia** | **Category of Third Parties Information to Whom is Disclosed for a Business Purpose** |
 | --- | --- |
-| **Identifiers.**<br><br>A real name, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers. | * Advertising networks<br>    <br>* Internet service providers<br>    <br>* Data analytics providers<br>    <br>* Operating systems and platforms<br>    <br>* Social networks<br>    <br>* Service providers<br>    <br>* Other Academia users |
+| **Identifiers.**<br><br>A real name, voice, signature, photograph, likeness, city, institutional affiliations, citations, mentions, publications, areas of interest, alias, postal address, unique personal identifier, online identifier, Internet Protocol address, email address, account name, or other similar identifiers. | * Advertising networks<br>    <br>* Internet service providers<br>    <br>* Data analytics providers<br>    <br>* Operating systems and platforms<br>    <br>* Social networks<br>    <br>* Service providers<br>    <br>* Other Academia users |
 | **Personal information categories listed in the California Customer Records statute (Cal. Civ. Code § 1798.80(e))**<br><br>A name, address, telephone number, education, employment, employment history, bank account number, credit card number, debit card number, or any other financial information. Personal Information does not include publicly available information that is lawfully made available to the general public from federal, state, or local government records. Note: Some personal information included in this category may overlap with other categories. | * Advertising networks<br>    <br>* Internet service providers<br>    <br>* Data analytics providers<br>    <br>* Operating systems and platforms<br>    <br>* Social networks<br>    <br>* Service providers |
 | **Protected classification characteristics under California or federal law**<br><br>Age (40 years or older), gender. | * Advertising networks<br>    <br>* Internet service providers<br>    <br>* Data analytics providers<br>    <br>* Operating systems and platforms<br>    <br>* Social networks<br>    <br>* Service providers |
 | **Commercial information**<br><br>Records of personal property, products or services purchased, obtained, or considered, or other purchasing or consuming histories or tendencies. | * Advertising networks<br>    <br>* Internet service providers<br>    <br>* Data analytics providers<br>    <br>* Operating systems and platforms<br>    <br>* Social networks<br>    <br>* Service providers |
