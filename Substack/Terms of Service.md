@@ -204,6 +204,8 @@ The above covers most of the questions that we typically receive about Substack.
 
 * Entire Agreement: You agree that these Terms are the complete and exclusive statement of the mutual understanding between you and us, and that it supersedes and cancels all previous written and oral agreements, communications and other understandings relating to the subject matter of these Terms.
 
+- - -
+
 **Support Chatbot Terms**
 =========================
 
