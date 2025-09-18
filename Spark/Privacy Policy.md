@@ -1,7 +1,7 @@
 Privacy Policy for App
 ======================
 
-**Last updated**: June 17, 2025
+**Last updated**: September 18, 2025
 
 We are Spark Mail Limited (" **we**"), and we provide you services under the [Terms of Service](https://sparkmailapp.com/legal/terms). In the Spark Application (" **App**" or " **Spark**") you can manage your email accounts, chats and conversations from one place (" **Email Accounts**").
 
@@ -268,11 +268,15 @@ For more details on how the ‘+AI Meeting Notes’ feature operates, please ref
 
 **Customer Support communication**: We process and store email or support chat communication, including attachments and information you voluntarily decide to share with us for troubleshooting purposes whenever you communicate with our support team.
 
-To enhance your experience, we collect analytics on customer support requests (excluding any attachments) to understand the most frequent inquiries and identify areas for improvement within the App. This analysis may be conducted using secure, in-house technologies, including pre-trained machine learning models, and trusted AI providers. Rest assured, we do not use your personal data to test or train these models. Additionally, we pseudonymize all requests before engaging any trusted AI provider.
+To enhance your experience, we may offer the option of using AI-powered assistance from the trusted provider. In this case you can get quick, automated responses to your inquiries. No data will be used for training. Still, you can always choose to continue the chat without AI, if you prefer so.
+
+We also collect analytics on customer support requests (excluding any attachments) to understand the most frequent inquiries and identify areas for improvement within the App. This analysis may be conducted using secure, in-house technologies, including pre-trained machine learning models, and trusted AI providers. Rest assured, we do not use your personal data to test or train these models. Additionally, we pseudonymize all requests before engaging any trusted AI provider.
 
 **Request a feature**: When you contact us via the “Request a feature” form with your proposal for our product enhancement, we process your email address, type of device, your name (if you’re willing to share it), and any other additional information you may provide in the form. We process this data based on your consent. We automatically collect some technical information (platform, app version, date of installation, Spark ID and Braze ID) for a detailed analysis of your proposal. It is in our legitimate interest to do so. Also, we assign a unique identifier (token) for each form submission and collect the date and time of the submission.
 
-We use Intercom chat service, Typeform to collect your request and Google Sheets to process it further. To know more of how your personal data is processed, you may read [Intercom’s Product Privacy Notice](https://www.intercom.com/legal/product-privacy-notice),  [Typeform’s Privacy Policy](https://admin.typeform.com/to/dwk6gt/?typeform-source=www.typeform.com&tid=6e1275f0-d924-4083-bc77-b88eb10f8195)and [Google’s Privacy Policy](https://policies.google.com/privacy?hl=en).
+To enhance our support with your request, we may offer the option of using AI-powered assistance from the trusted provider. In this case you can get quick, automated responses to your inquiries. No data will be used for training. Still, you can always choose to continue the chat without AI, if you prefer so.
+
+We use Intercom chat and AI service, Typeform to collect your request and Google Sheets to process it further. To know more of how your personal data is processed, you may read [Intercom’s Product Privacy Notice](https://www.intercom.com/legal/product-privacy-notice),  [Typeform’s Privacy Policy](https://admin.typeform.com/to/dwk6gt/?typeform-source=www.typeform.com&tid=6e1275f0-d924-4083-bc77-b88eb10f8195)and [Google’s Privacy Policy](https://policies.google.com/privacy?hl=en).
 
 We will use your data to prepare a proposal for our product development team and your email and name to contact you for more details (if needed) and notify you of the implemented features resulting from your request. We also collect analytics on such requests to understand the most frequent inquiries and identify areas for improvement within the App. This analysis may be conducted using secure, in-house technologies, including pre-trained machine learning models, and trusted AI providers. Rest assured, we do not use your personal data to test or train these models. Additionally, we pseudonymize all requests before engaging any trusted AI provider.
 
