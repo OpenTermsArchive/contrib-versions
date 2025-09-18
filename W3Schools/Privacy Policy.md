@@ -305,6 +305,4 @@ Last updated: 2025.05.19
 
 [★ +1](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fmy-learning.w3schools.com "Your W3Schools Profile")
 
-Track your progress - it's free!
-
-[Log in](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com "Login to your account") [Sign Up](https://profile.w3schools.com/sign-up?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com "Sign Up to Improve Your Learning Experience")
+[Sign in to track progress](https://profile.w3schools.com/log-in?redirect_url=https%3A%2F%2Fpathfinder.w3schools.com "Sign in to track your progress")
