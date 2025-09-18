@@ -469,10 +469,10 @@ Attention: Customer Service Team,
   
 20.2 Energia may change its address at any time by notice in writing. Notices will be deemed served or delivered to the addressee or its office:
 
-1. If delivered by hand, upon the date of delivery;
-2. If delivered by pre-paid ordinary post within the jurisdiction in which you reside or is registered, 2 days after sending or if delivered by pre-paid ordinary post outside the jurisdiction in which you reside 5 days after sending;
-3. If delivered by facsimile, at the time that a transmission report is produced by the sender’s facsimile machine confirming that the transmission has been satisfactorily completed; or
-4. If delivered by electronic mail, at the time that the sender’s computer generates a message stating that the e-mail has been received.
+1.  If delivered by hand, upon the date of delivery;
+2.  If delivered by pre-paid ordinary post within the jurisdiction in which you reside or is registered, 2 days after sending or if delivered by pre-paid ordinary post outside the jurisdiction in which you reside 5 days after sending;
+3.  If delivered by facsimile, at the time that a transmission report is produced by the sender’s facsimile machine confirming that the transmission has been satisfactorily completed; or
+4.  If delivered by electronic mail, at the time that the sender’s computer generates a message stating that the e-mail has been received.
 
 #### 
 
@@ -522,11 +522,11 @@ Attention: Customer Service Team,
 
 23\. Miscellaneous
 
-* Energia may assign or otherwise transfer the benefit and/or burden of this Agreement or any part of it. You may assign the Agreement only with written consent of Energia.
-* This Agreement constitutes the entire agreement between the parties and supersedes all previous agreements between the parties in relation to the subject matter of this Agreement. Each party acknowledges that it has not entered into this Agreement on the basis of any representation or warranty other than those set out herein.
-* Any waiver under this Agreement must be in writing. No waiver of any power or right shall be construed as a waiver of any other power or right. A waiver of a breach will not operate or be construed as a waiver of any other or further breach.
-* If any court of competent jurisdiction declares any provision of this Agreement void, that provision will be severed and the remainder of this Agreement will remain in full force and effect. If any provision of this Agreement becomes invalid or unenforceable or requires variation as a result of any change in any Law or trading arrangements, this Agreement will be amended by agreement between the parties, or failing such agreement, as determined by Energia acting in good faith, in such a way as to give effect to the commercial intent of the parties as set out in this Agreement.
-* The laws of Ireland will govern this Agreement and the parties accept the non-exclusive jurisdiction of the courts of Ireland
+*   Energia may assign or otherwise transfer the benefit and/or burden of this Agreement or any part of it. You may assign the Agreement only with written consent of Energia.
+*   This Agreement constitutes the entire agreement between the parties and supersedes all previous agreements between the parties in relation to the subject matter of this Agreement. Each party acknowledges that it has not entered into this Agreement on the basis of any representation or warranty other than those set out herein.
+*   Any waiver under this Agreement must be in writing. No waiver of any power or right shall be construed as a waiver of any other power or right. A waiver of a breach will not operate or be construed as a waiver of any other or further breach.
+*   If any court of competent jurisdiction declares any provision of this Agreement void, that provision will be severed and the remainder of this Agreement will remain in full force and effect. If any provision of this Agreement becomes invalid or unenforceable or requires variation as a result of any change in any Law or trading arrangements, this Agreement will be amended by agreement between the parties, or failing such agreement, as determined by Energia acting in good faith, in such a way as to give effect to the commercial intent of the parties as set out in this Agreement.
+*   The laws of Ireland will govern this Agreement and the parties accept the non-exclusive jurisdiction of the courts of Ireland
 
 #### 
 
@@ -641,7 +641,7 @@ Learn more about our [Limited Offer Free Boiler Servicing Terms & Conditions](h
 
 31\. Energia Solar & Battery Terms and Conditions
 
-****View the terms and conditions [here](https://www.energia.ie/getmedia/cf7b9dbf-bdb0-41aa-aead-322081026d05/Solar-and-Battery-TC-s-and-Privacy-Policy-(final)-(11-11-2020)_2.pdf.aspx;).****
+****View the terms and conditions [here](https://www.energia.ie/getmedia/cf7b9dbf-bdb0-41aa-aead-322081026d05/Solar-and-Battery-TC-s-and-Privacy-Policy-\(final\)-\(11-11-2020\)_2.pdf.aspx;).****
 
 #### 
 
@@ -653,7 +653,7 @@ View our [EV charger offer customer terms and condtions.](https://www.energia.ie
 
 33\. Newsletter competition terms and conditions
 
-[View the Janurary Mascot Six Nations Competition 2024 terms and condtions](https://www.energia.ie/getattachment/36a42af5-1c28-47b5-97a7-29a045af2317/Ireland-vs-Wales-Mascot-Comp-Terms-and-Conditions-2024-(2).pdf?lang=en-GB)  
+[View the Janurary Mascot Six Nations Competition 2024 terms and condtions](https://www.energia.ie/getattachment/36a42af5-1c28-47b5-97a7-29a045af2317/Ireland-vs-Wales-Mascot-Comp-Terms-and-Conditions-2024-\(2\).pdf?lang=en-GB)  
   
 [View the March SnaG Ceolchoirm with HotHouse Flowers terms and conditions](https://www.energia.ie/getattachment/4d4e22fa-7099-4f21-9ea0-1948cccb0d9d/SnaG-Ceolchoirm-with-HotHouse-Flowers-Terms-and-Conditions-2024.pdf?lang=en-GB)  
   
@@ -663,7 +663,7 @@ View our [EV charger offer customer terms and condtions.](https://www.energia.ie
   
 [View the Ticket Competition (Indo Sport x Energia Women's Send Off Event) Terms & Conditions](https://www.energia.ie/getmedia/7d112eba-23df-4575-b2c7-8c2c9751db1a/Energia-Rugby-%e2%80%93-Win-two-tickets-to-the-Women%e2%80%99s-Rugby-World-Cup-send-off-event.pdf) 
 
-[View the RWC Fmily Trip Competition Terms & Conditions](https://www.energia.ie/getmedia/698e2cc3-5a9f-4734-b762-0ca990691419/July-25-NL-family-trip-to-rugby-womens-(1).pdf)
+[View the RWC Fmily Trip Competition Terms & Conditions](https://www.energia.ie/getmedia/698e2cc3-5a9f-4734-b762-0ca990691419/July-25-NL-family-trip-to-rugby-womens-\(1\).pdf)
 
 #### 
 
@@ -671,16 +671,16 @@ View our [EV charger offer customer terms and condtions.](https://www.energia.ie
 
 General Social Compeition: Energia's decision regarding prize winners will be final, and no correspondence regarding that decision will be entered into.
 
-* Prizes are non-transferable, and will only be awarded to the prize winner.
-* Use of a false name or address by a competition entrant, i.e. a name by which the entrant is not usually known, will disqualify them from receiving any prize.
-* Energia will not store prize winners' data once the prize has been delivered.
-* Our competitions are open only to residents of the Republic of Ireland.
-* Energia will deliver prizes within one month of winning unless otherwise specified.
-* Where applicable, winners on social media will be chosen at random by a third party agency to Energia.
-* When, due to circumstances beyond our control, a prize is not available, we reserve the right to substitute a prize of equal value.
-* These terms and conditions shall be governed by Irish law and the courts of Ireland shall have exclusive jurisdiction.
-* Any person or persons found to be in disregard of the above rules will be disqualified automatically.
-* Energia reserves the right to disqualify any contestant for any reason whatsoever in its sole discretion.
+*   Prizes are non-transferable, and will only be awarded to the prize winner.
+*   Use of a false name or address by a competition entrant, i.e. a name by which the entrant is not usually known, will disqualify them from receiving any prize.
+*   Energia will not store prize winners' data once the prize has been delivered.
+*   Our competitions are open only to residents of the Republic of Ireland.
+*   Energia will deliver prizes within one month of winning unless otherwise specified.
+*   Where applicable, winners on social media will be chosen at random by a third party agency to Energia.
+*   When, due to circumstances beyond our control, a prize is not available, we reserve the right to substitute a prize of equal value.
+*   These terms and conditions shall be governed by Irish law and the courts of Ireland shall have exclusive jurisdiction.
+*   Any person or persons found to be in disregard of the above rules will be disqualified automatically.
+*   Energia reserves the right to disqualify any contestant for any reason whatsoever in its sole discretion.
 
   
 . 
@@ -695,10 +695,10 @@ You can download all Terms & Conditions [here.](https://www.energia.ie/getattac
 
 36\. Energia "We Are Rugby" Fan Competition
 
-* Competition entrants must be over 18, _or have the permission of a guardian to enter._  
-* By entering this competition, you consent for Energia to use all content for promotional purposes.
-* All entries will be put into a draw will be drawn at random.
-* The winners will be contacted by Legacy Communications, by email on **Friday, 22nd August 2025**
-* The prizes, _of tickets to the Vodafone Women’s Interpro Finals Day and signed Irish Rugby jersey_, cannot be exchanged for any monetary value or any other prize option
-* By entering our competition and agreeing to these terms and conditions, you are giving Energia permission to publish your name if you are to win any prize.
-* Energia excludes liability, to the fullest extent permitted by law, for any loss or damage caused to the winner arising out of the prize.
+*   Competition entrants must be over 18, _or have the permission of a guardian to enter._  
+*   By entering this competition, you consent for Energia to use all content for promotional purposes.
+*   All entries will be put into a draw will be drawn at random.
+*   The winners will be contacted by Legacy Communications, by email on **Friday, 22nd August 2025**
+*   The prizes, _of tickets to the Vodafone Women’s Interpro Finals Day and signed Irish Rugby jersey_, cannot be exchanged for any monetary value or any other prize option
+*   By entering our competition and agreeing to these terms and conditions, you are giving Energia permission to publish your name if you are to win any prize.
+*   Energia excludes liability, to the fullest extent permitted by law, for any loss or damage caused to the winner arising out of the prize.
