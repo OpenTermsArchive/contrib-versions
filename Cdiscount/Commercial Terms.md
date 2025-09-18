@@ -986,24 +986,29 @@ Une notice explicative relative à la redevance copie privée établie par le Mi
 
    Pour connaître le détail des produits concernés ainsi que le barème des redevances applicables, nous vous invitons à consulter le site de Copie France ([https://www.copiefrance.fr/fr/](https://www.copiefrance.fr/fr/)).                                               
 
-_Article 11 : FORCE MAJEURE_
-----------------------------
+_Article 11 : CONTRÔLES A L'EXPORTATION_
+----------------------------------------
+
+Vous vous engagez à ne pas exporter, réexporter ou transférer des produits achetés sur le Site vers des pays, entités ou personnes sous sanctions. Ces restrictions incluent les interdictions imposées par l'UE, l'ONU et les autorités américaines. Vous reconnaissez également ne pas pouvoir acheter sur le Site si vous êtes soumis à de telles mesures.
+
+_Article 15 : LITIGE, MEDIATION ET DROIT APPLICABLE_
+----------------------------------------------------
 
 CDISCOUNT ne saurait être tenue pour responsable de l'inexécution d’une de ses obligations issues du contrat de vente dès lors que cette inexécution est liée à la survenance d'un événement de force majeure.
 
-_Article 12 : DONNEES PERSONNELLES_
------------------------------------
+_Article 15 : LITIGE, MEDIATION ET DROIT APPLICABLE_
+----------------------------------------------------
 
 La politique de protection de vos données personnelles est accessible [ici](https://www.cdiscount.com/vie-privee-et-cookies.html).  
 
-_Article 13 : CODE DE BONNE CONDUITE_
--------------------------------------
+_Article 15 : LITIGE, MEDIATION ET DROIT APPLICABLE_
+----------------------------------------------------
 
 CDISCOUNT adhère au Code Déontologique de la Fevad (Fédération du e-commerce et de la vente à distance).  
 
 Pour en savoir plus, rendez-vous sur le site de la FEVAD en [cliquant ici.](https://www.fevad.com/)
 
-_Article 14 : LITIGE, MEDIATION ET DROIT APPLICABLE_
+_Article 15 : LITIGE, MEDIATION ET DROIT APPLICABLE_
 ----------------------------------------------------
 
 14.1 Pour toute réclamation, notre Service Client est à votre disposition.  
@@ -1021,8 +1026,8 @@ BP 20015 - 75362 PARIS CEDEX 8 - [https://www.mediateurfevad.fr](https://urldef
 
 Dans l’hypothèse où une ou plusieurs clauses des présentes CGV deviendraient nulles suite à un changement de législation ou par décision de justice, cela ne saurait en aucun cas affecter la validité des autres clauses, qui elles resteraient applicables.
 
-_CONDITIONS GENERALES D'ABONNEMENT " CDISCOUNT A VOLONTE "_
------------------------------------------------------------
+_Article 15 : LITIGE, MEDIATION ET DROIT APPLICABLE_
+----------------------------------------------------
 
 **  
   
@@ -1629,149 +1634,6 @@ Les Clients ne bénéficient d'aucun droit de rétractation pour les dons réali
 **9.**          **DROIT APPLICABLE**
 
 Les présentes Conditions Générales d’Utilisation sont soumises au droit français
-
-_CONDITIONS GENERALES ABONNEMENT (uniquement pour la France) "CDISCOUNT ABONNEMENT"_
-------------------------------------------------------------------------------------
-
-**  
-  
-  
-ARTICLE 1 - CHAMP D’APPLICATION  
-  
-**
-
-Les présentes Conditions Générales d’Abonnement (ci-après, les « **CGA** ») du service Cdiscount abonnement (« ci-après, le « **Service** »), s’appliquent à tout abonnement (ci-après, l’« **Abonnement** ») souscrit par un particulier, résidant en France, agissant, à titre personnel, en qualité de consommateur auprès de la société CDISCOUNT (ci-après, l’ « **Abonné** »), soit :
-
-* directement sur son site internet accessible à l'adresse suivante : www.cdiscount.com (ci-après, le « **Site** »), ou,
-* par téléphone au 3979 (0.70 cts par minutes + prix de l'appel)
-
-Et portant sur le Service Cdiscount abonnement tel que décrit à l’**Article 2** des présentes.
-
-Le Service n’est disponible que sur PC. Il n’est pas disponible sur mobile, ni sur les applications Android ou IOS de Cdiscount, que ce soit pour smartphones ou tablettes. 
-
-L’Abonnement au Service requiert l’acceptation et le respect des CGA ainsi que des Conditions Générales de Vente (« **CGV** ») du Site.  
-  
-Cdiscount se réserve le droit de modifier les présentes CGU, à tout moment et sans préavis.  
-  
-Les CGA et CGV applicables sont celles en vigueur au jour de votre souscription au Service.  En cas de modification des CGA, celles-ci vous seront opposables dans les quinze (15) jours suivant ladite modification.  
-
-**ARTICLE 2 - DESCRIPTION DU SERVICE  
-  
-**
-
- Le Service vous permet de recevoir vos produits favoris, sous réserve qu’ils soient éligibles (voir conditions d’éligibilité à l’**Article 4** ci-après – les « **Produits Eligibles** »), de manière régulière et automatique, selon la fréquence et la quantité que vous aurez choisies. 
-
-**ARTICLE 3 - CONDITIONS D’ABONNEMENT  
-  
-**
-
-Pour bénéficier du Service, il suffit d’ajouter un Produit Eligible dans votre panier, en précisant la fréquence et la quantité souhaitées puis de procéder au règlement de votre première commande conformément aux CGV.
-
-Vous ne pouvez ajouter qu’un seul Produit Eligible à votre panier. Si vous souhaitez commander plusieurs Produits Eligibles, vous devez passer plusieurs commandes. Vous pouvez toutefois ajouter à un même panier, un Produit Eligible et des produits non éligibles au service Cdiscount abonnement.  
-  
-
-**ARTICLE 4 - PRODUIT ELIGIBLES** 
-
-Les Produits Eligibles au Service sont :  
-   
-\- présentés dans la rubrique « Abonnement » du Site ;
-
-\- identifiables grâce au drapeau "Cdiscount Abonnement" 
-
-**ARTICLE 5 - AVANTAGES  
-  
-**
-
- Pour les Produits Eligibles, vous bénéficiez :
-
-\- de leur **livraison automatique**, à la fréquence de votre choix ;
-
-\- de leur **livraison offerte à domicile** ;
-
-\- d’un **minimum de 5% de remise immédiate** par rapport aux prix pratiqués sur le Site pour les clients non abonnés au Service. 
-
-La disponibilité et le contenu des avantages décrits ci-dessus peuvent varier en cours d’Abonnement, sans préavis ni indemnité au profit de l’Abonné. Vous serez informé de l’évolution desdits avantages par tout moyen.
-
-Ces avantages peuvent être cumulables avec d’autres avantages présentés sur le Site, notamment avec ceux liés à votre éventuelle adhésion au programme Cdiscount à volonté. 
-
-**ARTICLE 6 - DISPONIBILITE DES PRODUITS CDISCOUNT ABONNEMENT  
-  
-**
-
-Les offres de Produits Eligibles sont valables dans la limite des stocks disponibles. La disponibilité des Produits Cdiscount abonnement est indiquée sur chaque fiche produit. 
-
-Si malgré tous nos efforts, un Produit Eligible devenait indisponible en cours d’Abonnement, Cdiscount vous en informera et vous remboursera le prix du produit concerné ainsi que toute somme versée au titre de votre commande. Toutefois, si votre commande contient d’autres produits disponibles, non compris dans votre Abonnement, ceux-ci vous seront livrés et les frais de livraison associés vous seront facturés. 
-
-**ARTICLE 7 - PRIX DU SERVICE  
-  
-**
-
-Le Service est gratuit.
-
-Cdiscount se réserve le droit de modifier le prix du Service à tout moment. Dans le cas où Cdiscount déciderait de modifier le prix du Service, Cdiscount vous en informera par tout moyen.
-
-Conformément à l’article 11 des présentes, vous disposez d’une faculté de résiliation de votre Abonnement. 
-
-**ARTICLE 8 - PRIX DES PRODUITS CDISCOUNT ABONNEMENT  
-  
-**
-
-Cdiscount se réserve le droit de modifier le prix des Produits Eligibles à tout moment. Le prix que vous paierez tout au long de votre abonnement est donc susceptible de varier. Vous serez informé de toute modification de prix par tout moyen. En toute hypothèse, vous recevrez chaque mois, au plus tard huit (8) jours avant l’expédition de votre Produit Eligible, un email récapitulatif tel que décrit ci-après.
-
-**Pour la première expédition,** le prix du Produit Eligible est le prix pratiqué sur le Site le jour où vous souscrivez à votre Abonnement. 
-
-**Pour les expéditions suivantes,** le prix du Produit Eligible est le prix affiché dans votre Espace client, huit (8) jours avant la date de livraison prévue pour votre commande. Ainsi, vous recevrez chaque mois, au plus tard huit (8) jours avant l’expédition de votre Produit Eligible, un email récapitulatif des Produits Eligibles sur le point d’être expédiés, de leur prix et de leur date de livraison prévisionnelle. Vous aurez alors la possibilité de gérer, modifier ou résilier votre abonnement afin d’annuler vos expéditions suivantes.
-
-Conformément à l’article 11 des présentes, la faculté de résiliation de votre Abonnement doit être exercée avant l’expédition de chaque commande. A défaut, elle ne sera prise en compte que pour l’expédition suivante. 
-
-**ARTICLE 9 - PAIEMENT  
-  
-**
-
-Le paiement des Produits Cdiscount abonnement ne peut être effectué que par carte bancaire. 
-
-Au moment de la validation de votre première commande de Produits Eligibles, vos coordonnées bancaires sont automatiquement enregistrées afin de faciliter vos commandes ultérieures. Cdiscount prélèvera ainsi chaque mois, sur le compte bancaire associé à votre carte bancaire, le prix du Produit Eligible que vous avez choisi.
-
-A titre informatif, vous serez prélevés des sommes correspondant au prix de vos livraisons généralement dans les trois (3) jours précédant l’expédition de vos Produits Eligibles.
-
-Comme indiqué précédemment, vous recevrez chaque mois, au plus tard huit (8) jours avant l’expédition de votre Produit Eligible, un email récapitulatif des Produits Eligibles sur le point d’être expédiés, de leur prix et de leur date de livraison prévisionnelle.
-
-Vous pourrez alors modifier la fréquence de votre abonnement. Vous pouvez également à tout moment consulter et gérer vos abonnements via votre Espace client ainsi que modifier les coordonnées bancaires liées à votre Abonnement. 
-
-**ARTICLE 10 - LIVRAISON** 
-
-Les Produits Eligibles sont livrés à l’adresse de votre choix.   
-
-Vous recevrez chaque mois, au plus tard huit (8) jours avant l’expédition de votre Produit Eligible, un email récapitulatif des Produits Eligibles sur le point d’être expédiés, de leur prix et de leur date de livraison prévisionnelle.
-
-Cdiscount se réserve le droit de modifier le prix de la livraison à tout moment. Dans le cas où Cdiscount déciderait de modifier le prix de la livraison, Cdiscount en informera personnellement l’Abonné, par tout moyen. 
-
-**ARTICLE 11 - DUREE ET RESILIATION DE L’ABONNEMENT  
-  
-**
-
-**Durée  
-**
-
-L’Abonnement est sans engagement de durée ; la durée de l’Abonnement est indéterminée. 
-
-Il prend effet lorsque vous commandez pour la 1ère fois un Produit Eligible et souscrivez simultanément, pour la 1ère fois, à un Abonnement.  
-
-**Résiliation par l’Abonné  
-**
-
-Vous pouvez à tout moment consulter, gérer et résilier vos abonnements via votre Espace client.  
-
-A noter : lorsqu’une commande est en cours d’expédition (voir statut de votre commande dans votre Espace Client), la résiliation de votre Abonnement ne sera effective que pour la commande suivante.  
-
-**Résiliation par CDISCOUNT** 
-
-Cdiscount se réserve le droit de résilier votre Abonnement pour motifs légitimes et notamment, sans que cette liste soit exhaustive dans l’hypothèse où :  
-    
-\-Vous ne respecteriez pas les CGA et/ou les CGV ;  
-\-Vous utiliserez le Service dans un but professionnel, notamment dans le but d'acheter des Produits Eligibles et de les revendre ou de faire livrer des Produits Eligibles directement à vos clients ;  
-\-Votre Produit Eligible ne serait plus éligible au Service ;  
-\-Cdiscount arrêterait le Service.
 
 _CONDITIONS GENERALES DE PRECOMMANDE JEUX VIDEOS - TELEPHONIE (uniquement pour la France métropolitaine)_
 ---------------------------------------------------------------------------------------------------------
