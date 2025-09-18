@@ -76,13 +76,13 @@ Additional terms related to the use of the Epassi Wallet are in section “II Ep
   
 Epassi has the right to close the Epassi service and prevent its use entirely or partially if:
 
-* you have provided false information during registration or later;
-* you have become subject to international sanctions;
-* the security of the use of the Epassi service has been compromised;
-* there is reason to suspect that the Epassi service is being used unlawfully or fraudulently;
-* there is reason to suspect that your mobile device compromises the security of the Epassi service;
-* you have used the Epassi service in a manner that is likely to jeopardize the reputation of Epassi or its Service Provider (e.g., as a platform for communication that Epassi or its Service Provider does not consider appropriate or in accordance with good practice); or
-* Epassi needs to change the Epassi service or its terms in such a way that continuing its use under the new terms or features requires your acceptance, and you have not given your acceptance.
+*   you have provided false information during registration or later;
+*   you have become subject to international sanctions;
+*   the security of the use of the Epassi service has been compromised;
+*   there is reason to suspect that the Epassi service is being used unlawfully or fraudulently;
+*   there is reason to suspect that your mobile device compromises the security of the Epassi service;
+*   you have used the Epassi service in a manner that is likely to jeopardize the reputation of Epassi or its Service Provider (e.g., as a platform for communication that Epassi or its Service Provider does not consider appropriate or in accordance with good practice); or
+*   Epassi needs to change the Epassi service or its terms in such a way that continuing its use under the new terms or features requires your acceptance, and you have not given your acceptance.
 
 Epassi will notify you of the closure and/or restriction of the Epassi service by email to the address you have provided or by a notice published in the application.
 
@@ -152,10 +152,10 @@ Epassi Clearing Oy has a payment institution license granted by the Financial Su
 
 **Additional definitions only concerning the Epassi Wallet**
 
-* **Customer** means you, who have accepted the terms of use of Epassi and have activated the functionalities of the Epassi Wallet.
-* The Epassi Wallet may be used by persons over the age of 15 who have funds under their control in a bank account provided by a Finnish bank.
-* **Wallet payment** means a payment made to the Service Provider using the functionalities of the Epassi Wallet (such as OwnMoney balance or Partner service balance).
-* **OwnMoney/OwnMoney balance** means the monetary amount you have transferred from your bank account to the Epassi service.
+*   **Customer** means you, who have accepted the terms of use of Epassi and have activated the functionalities of the Epassi Wallet.
+*   The Epassi Wallet may be used by persons over the age of 15 who have funds under their control in a bank account provided by a Finnish bank.
+*   **Wallet payment** means a payment made to the Service Provider using the functionalities of the Epassi Wallet (such as OwnMoney balance or Partner service balance).
+*   **OwnMoney/OwnMoney balance** means the monetary amount you have transferred from your bank account to the Epassi service.
 
 **II.1 Deployment**  
   
@@ -169,14 +169,14 @@ The Epassi Wallet and the funds contained in it are only available as long as th
 
 To use Wallet payments, you need:
 
-* a Finnish personal identification number
-* a smartphone (currently Android and iOS) or another mobile device with a phone subscription or an internet connection to use the web service
-* a mobile phone number
-* a Finnish bank account
-* a strong electronic identification tool
-* a valid email address
-* for certain Partner services, an agreement with the Partner for the use of the Partner's services
-* a valid Epassi account provided by employer
+*   a Finnish personal identification number
+*   a smartphone (currently Android and iOS) or another mobile device with a phone subscription or an internet connection to use the web service
+*   a mobile phone number
+*   a Finnish bank account
+*   a strong electronic identification tool
+*   a valid email address
+*   for certain Partner services, an agreement with the Partner for the use of the Partner's services
+*   a valid Epassi account provided by employer
 
 **II.2 Preparing and performing the Wallet Payments**  
   
