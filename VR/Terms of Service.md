@@ -1,8 +1,8 @@
-* [Travel terms and conditions](https://www.vr.fi/en/terms-and-conditions#travel-terms-conditions)  
+*   [Travel terms and conditions](https://www.vr.fi/en/terms-and-conditions#travel-terms-conditions)  
     
-* [VR Car transport terms and conditions](https://www.vr.fi/en/terms-and-conditions#car-transport)  
+*   [VR Car transport terms and conditions](https://www.vr.fi/en/terms-and-conditions#car-transport)  
     
-* [Terms and Conditions of Corporate Contracts](https://www.vr.fi/en/terms-and-conditions#terms-and-conditions-corporate-contracts)  
+*   [Terms and Conditions of Corporate Contracts](https://www.vr.fi/en/terms-and-conditions#terms-and-conditions-corporate-contracts)  
     
 
 Travel terms and conditions
@@ -234,19 +234,19 @@ b. CIV Convention – COTIF (Convention concerning International Carriage by Rai
 
 c. national legislation, when it can be applied or its application has been agreed on: for instance,
 
-* Railway Transport Act (1119/2000)  
+*   Railway Transport Act (1119/2000)  
     
-* Rail Traffic Liability Act (113/1999)  
+*   Rail Traffic Liability Act (113/1999)  
     
-* Act on Maintaining Order in Public Transport (472/1977)  
+*   Act on Maintaining Order in Public Transport (472/1977)  
     
-* Public Transport Penalty Fare Act (469/1979)  
+*   Public Transport Penalty Fare Act (469/1979)  
     
-* Act on the Transport of Dangerous Goods (719/1994)  
+*   Act on the Transport of Dangerous Goods (719/1994)  
     
-* Government Decree on the Transport of Dangerous Goods by Rail (195/2002)  
+*   Government Decree on the Transport of Dangerous Goods by Rail (195/2002)  
     
-* Firearms Act (1/1998).  
+*   Firearms Act (1/1998).  
     
 
 A consumer has the right to have a dispute concerning rail travel resolved by the Consumer Disputes Board. For further information, see [kuluttajariita.fi﻿, Opens in a new tab](https://www.kuluttajariita.fi/en/).
@@ -262,15 +262,15 @@ Car-carrier wagons and ramps are designed for normal, factory-made cars.
 
 The following can be transported in car-carrier wagons:
 
-* Roadworthy cars, station wagons and vans. The customer is responsible for ensuring that the vehicle meets the requirements  
+*   Roadworthy cars, station wagons and vans. The customer is responsible for ensuring that the vehicle meets the requirements  
     
-* Trailers coupled to the abovementioned vehicles, which are dimensionally suitable to be transported in car-carrier wagons  
+*   Trailers coupled to the abovementioned vehicles, which are dimensionally suitable to be transported in car-carrier wagons  
     
-* Motorcycles and other power-driven vehicles. The customer is responsible for ensuring that the vehicle meets the requirements.  
+*   Motorcycles and other power-driven vehicles. The customer is responsible for ensuring that the vehicle meets the requirements.  
     
-* Electric or hybrid vehicles with a damaged electric vehicle battery must not be loaded on to a train.  
+*   Electric or hybrid vehicles with a damaged electric vehicle battery must not be loaded on to a train.  
     
-* Charging an electric or hybrid vehicle is prohibited during the journey.  
+*   Charging an electric or hybrid vehicle is prohibited during the journey.  
     
 
 ### What can be carried in the vehicle during the journey?
@@ -279,13 +279,13 @@ It is strictly forbidden for the driver of the vehicle and passengers or pets to
 
 In addition to the fixed equipment in the vehicle, passenger baggage may be left inside the car, on the roof rack, transport rack behind the vehicle, and the trailer during transportation.
 
-* The roof load of the transported car may only consists of skis or suitcases or bags properly secured to the carrier or roof rack and protected from the effects of weather, loss and damage, within the dimensional limits specified below.  
+*   The roof load of the transported car may only consists of skis or suitcases or bags properly secured to the carrier or roof rack and protected from the effects of weather, loss and damage, within the dimensional limits specified below.  
     
-* Bikes can be transported in the transport rack behind the car properly secured and in accordance with the dimensions below  
+*   Bikes can be transported in the transport rack behind the car properly secured and in accordance with the dimensions below  
     
-* Canoes or other large objects are not permitted on the roof of the car  
+*   Canoes or other large objects are not permitted on the roof of the car  
     
-* In car-carriers, the carriage of dangerous goods contained in ordinary articles and packed in small quantities for consumer use is permitted within the limits of the law.  
+*   In car-carriers, the carriage of dangerous goods contained in ordinary articles and packed in small quantities for consumer use is permitted within the limits of the law.  
     
 
 ### Loading and unloading of cars
@@ -298,29 +298,29 @@ Loading and unloading a vehicle may be carried out by:
 
 Special remarks concerning loading and unloading of vehicles:
 
-* The driver of the vehicle must load and unload the following vehicles:
+*   The driver of the vehicle must load and unload the following vehicles:
     
-    * Lower ground clearance cars  
+    *   Lower ground clearance cars  
         
-    * Motorcycles  
+    *   Motorcycles  
         
-    * Other motor vehicles  
+    *   Other motor vehicles  
         
-    * Car-trailer combinations  
+    *   Car-trailer combinations  
         
-    * Cars with an alcohol interlock  
+    *   Cars with an alcohol interlock  
         
-    * The loading of a car whose width in relation to the ceiling height prevents normal entry and exit of the vehicle may be banned.  
+    *   The loading of a car whose width in relation to the ceiling height prevents normal entry and exit of the vehicle may be banned.  
         
-* If it has been agreed that VR will load the car at the time of the car space booking:
+*   If it has been agreed that VR will load the car at the time of the car space booking:
     
-    * The car must be delivered to a designated parking space at the car-carrier station  
+    *   The car must be delivered to a designated parking space at the car-carrier station  
         
-    * The car must be at the loading point at the separately specified time in advance before the actual loading time starts. Cars arriving after the specified time will not be loaded  
+    *   The car must be at the loading point at the separately specified time in advance before the actual loading time starts. Cars arriving after the specified time will not be loaded  
         
-    * The car keys must be left at the departure station at the separately specified time and place in advance before the actual load time starts. Keys delivered after the specified time will not be picked up  
+    *   The car keys must be left at the departure station at the separately specified time and place in advance before the actual load time starts. Keys delivered after the specified time will not be picked up  
         
-    * In this case, VR loads the vehicle onto the train and delivers the car keys to the destination station. The keys can be picked up from the location indicated on the ticket by proving that you have the right to pick up the car.  
+    *   In this case, VR loads the vehicle onto the train and delivers the car keys to the destination station. The keys can be picked up from the location indicated on the ticket by proving that you have the right to pick up the car.  
         
 
 ### Vehicle dimensional limitations in car-carrier wagons
@@ -333,116 +333,116 @@ There are two types of car-carrier wagons:
 
 1) Fully covered car-carrier wagon (Gd car-carrier wagon)
 
-* Height (including roof rack and load): not more than 1.84 m on the lower deck and 2.04 m on the upper deck  
+*   Height (including roof rack and load): not more than 1.84 m on the lower deck and 2.04 m on the upper deck  
     
-* Length: the maximum length of the car is 5.00 m, 10.00 m or 15.00 m, including load and protrusions, and the dimensions given in the reservation must no be exceeded  
+*   Length: the maximum length of the car is 5.00 m, 10.00 m or 15.00 m, including load and protrusions, and the dimensions given in the reservation must no be exceeded  
     
-* Width: not more than 2.20 m, including load. Please note: the roofline of a car higher than 1.84 m can be up to 1.64 m wide  
+*   Width: not more than 2.20 m, including load. Please note: the roofline of a car higher than 1.84 m can be up to 1.64 m wide  
     
-* Weight: not more than 3,000 kg and the axle or axle-group weight not more than 2,000 kg  
+*   Weight: not more than 3,000 kg and the axle or axle-group weight not more than 2,000 kg  
     
-* Rolling resistance: rolling resistance is attached to the tires and the height requirement is 15 cm in the front and back of the tires.  
+*   Rolling resistance: rolling resistance is attached to the tires and the height requirement is 15 cm in the front and back of the tires.  
     
 
 2) Partly covered car-carrier wagon (Gfot car-carrierwagon)
 
-* Height (including roof rack and load): not more than 1.65 m on the lower deck and 2.05 m, 2.30 m or 2.60 m on the upper deck  
+*   Height (including roof rack and load): not more than 1.65 m on the lower deck and 2.05 m, 2.30 m or 2.60 m on the upper deck  
     
-* Length: the maximum length of the car is 5.00 m, 10.00 m or 15.00 m, including load and protrusions, and the dimensions given in the reservation must not exceeded  
+*   Length: the maximum length of the car is 5.00 m, 10.00 m or 15.00 m, including load and protrusions, and the dimensions given in the reservation must not exceeded  
     
-* Width: not more than 2.20 m, including load  
+*   Width: not more than 2.20 m, including load  
     
-* Weight: not more than 2,500 kg and the axle or axle-group weight not more than 1,400 kg  
+*   Weight: not more than 2,500 kg and the axle or axle-group weight not more than 1,400 kg  
     
-* Rolling resistance: rolling resistance is attached to the tires and the height requirement is 15 cm in the front and back of the tires.  
+*   Rolling resistance: rolling resistance is attached to the tires and the height requirement is 15 cm in the front and back of the tires.  
     
 
 Caravans in partly covered car-carrier wagons:
 
-* Caravan height: not more than 2.60 m (including antennas and other parts rising above the roof)  
+*   Caravan height: not more than 2.60 m (including antennas and other parts rising above the roof)  
     
-* Caravan length: maximum 7.50 m, including towbar  
+*   Caravan length: maximum 7.50 m, including towbar  
     
-* Caravan width: not more than 2.20m  
+*   Caravan width: not more than 2.20m  
     
-* Caravan weight: not more than 1,400 kg.  
+*   Caravan weight: not more than 1,400 kg.  
     
 
 Freight-carrying trailers in partly covered car-carrier wagons:
 
-* Trailer height: not more than 1.60 m (including antennas and other parts rising above the roof)  
+*   Trailer height: not more than 1.60 m (including antennas and other parts rising above the roof)  
     
-* Trailer length: maximum 5.00 m, including towbar  
+*   Trailer length: maximum 5.00 m, including towbar  
     
-* Trailer width: not more than 2.20 m  
+*   Trailer width: not more than 2.20 m  
     
-* Trailer weight: not more than 1,400 kg.  
+*   Trailer weight: not more than 1,400 kg.  
     
 
 ### Responsibilities
 
 Liabilities of the railway undertaking (VR)
 
-* VR is responsible for the transport of the car when the customer loads the car onto the car-carrier wagon  
+*   VR is responsible for the transport of the car when the customer loads the car onto the car-carrier wagon  
     
-* VR is responsible for the transport of the car, and the car during loading and unloading when VR loads and unloads the car onto/from the car-carrier wagon  
+*   VR is responsible for the transport of the car, and the car during loading and unloading when VR loads and unloads the car onto/from the car-carrier wagon  
     
-* VR is responsible for the safe storage of the driver’s keys during the journey  
+*   VR is responsible for the safe storage of the driver’s keys during the journey  
     
-* VR's liability for the car ends when the car is unloaded at an appropriate storage location  
+*   VR's liability for the car ends when the car is unloaded at an appropriate storage location  
     
-* VR is responsible for ensuring that the car-carrier wagon has sufficient space needed for the car  
+*   VR is responsible for ensuring that the car-carrier wagon has sufficient space needed for the car  
     
-* VR is not responsible if the car cannot be loaded due to a reason beyond VR's control (for example, if the car does not start or there is something else wrong with the car)  
+*   VR is not responsible if the car cannot be loaded due to a reason beyond VR's control (for example, if the car does not start or there is something else wrong with the car)  
     
-* VR is not responsible for the functionality of the power supply for the entire duration of the journey  
+*   VR is not responsible for the functionality of the power supply for the entire duration of the journey  
     
-* VR is responsible for the wagon ventilation during loading and unloading  
+*   VR is responsible for the wagon ventilation during loading and unloading  
     
-* The motorcycle driver attaches the bike or other power-driven vehicle and VR confirms the mount.  
+*   The motorcycle driver attaches the bike or other power-driven vehicle and VR confirms the mount.  
     
 
 Responsibilities of the driver of the vehicle
 
-* The driver of the vehicle is responsible for providing the correct weight and dimension information when placing the order. If the weight and dimension details provided by the driver differ from the actual weight and dimensions of the vehicle, VR is not obligated to carry the vehicle.  
+*   The driver of the vehicle is responsible for providing the correct weight and dimension information when placing the order. If the weight and dimension details provided by the driver differ from the actual weight and dimensions of the vehicle, VR is not obligated to carry the vehicle.  
     
-* When making the reservation, the customer must report, in addition to the weight and dimensions of the car, any roof box or roof load as well as other baggage, trailer and technical accessories transported outside the car  
+*   When making the reservation, the customer must report, in addition to the weight and dimensions of the car, any roof box or roof load as well as other baggage, trailer and technical accessories transported outside the car  
     
-* The driver of the vehicle is responsible for the storage of the car in the parking space at the station  
+*   The driver of the vehicle is responsible for the storage of the car in the parking space at the station  
     
-* For safety reasons, VR has the right to inspect the cargo load of a transportable van or an enclosed trailer, if necessary  
+*   For safety reasons, VR has the right to inspect the cargo load of a transportable van or an enclosed trailer, if necessary  
     
-* The car must be at the loading point no later than the time specified by VR. Cars arriving after the loading time will not be loaded  
+*   The car must be at the loading point no later than the time specified by VR. Cars arriving after the loading time will not be loaded  
     
-* When the driver of the vehicle drives the car onto the car-carrier wagon and out of the wagon at the destination station, the driver of the vehicle is responsible for loading and unloading of the vehicle  
+*   When the driver of the vehicle drives the car onto the car-carrier wagon and out of the wagon at the destination station, the driver of the vehicle is responsible for loading and unloading of the vehicle  
     
-* When VR drives the vehicle onto the wagon and out of the car-carrier wagon, VR is responsible for loading and unloading of the vehicle  
+*   When VR drives the vehicle onto the wagon and out of the car-carrier wagon, VR is responsible for loading and unloading of the vehicle  
     
-* At the destination station of the vehicle, the driver must check whether there has been any damage to the vehicle being transported or to its external equipment during transport  
+*   At the destination station of the vehicle, the driver must check whether there has been any damage to the vehicle being transported or to its external equipment during transport  
     
-* VR has the right to take pictures of possible damage, if necessary  
+*   VR has the right to take pictures of possible damage, if necessary  
     
-* If the driver of the vehicle suspects damage during transport, VR personnel must be informed immediately before leaving the unloading site  
+*   If the driver of the vehicle suspects damage during transport, VR personnel must be informed immediately before leaving the unloading site  
     
-* The driver of the vehicle is responsible for securing the boxes and goods on the roof racks and carriers and for any damage they may cause  
+*   The driver of the vehicle is responsible for securing the boxes and goods on the roof racks and carriers and for any damage they may cause  
     
-* VR is not responsible for any loss or damage caused to goods or property of third parties due to poor fastening or packaging during transport  
+*   VR is not responsible for any loss or damage caused to goods or property of third parties due to poor fastening or packaging during transport  
     
-* The motorcycle driver attaches the bike or other power-driven vehicle and VR confirms the mount  
+*   The motorcycle driver attaches the bike or other power-driven vehicle and VR confirms the mount  
     
-* The use of Webasto in a car-carrier wagon is permitted  
+*   The use of Webasto in a car-carrier wagon is permitted  
     
-* The use of an engine heater in a car-carrier wagon is permitted  
+*   The use of an engine heater in a car-carrier wagon is permitted  
     
-* Charging an electric car in a car-carrier wagon is not permitted  
+*   Charging an electric car in a car-carrier wagon is not permitted  
     
-* The driver of the vehicle locks the vehicle and closes the fresh air fan during transport  
+*   The driver of the vehicle locks the vehicle and closes the fresh air fan during transport  
     
-* The driver of the vehicle is responsible for using the auxiliary power and for starting the vehicle with the auxiliary power  
+*   The driver of the vehicle is responsible for using the auxiliary power and for starting the vehicle with the auxiliary power  
     
-* At the destination station, the driver of the vehicle must proceed to the place of unloading without delay. If the driver of the vehicle does not arrive at the place of unloading without delay, they will bear the costs of moving the vehicle and any other costs incurred as a result of their delay  
+*   At the destination station, the driver of the vehicle must proceed to the place of unloading without delay. If the driver of the vehicle does not arrive at the place of unloading without delay, they will bear the costs of moving the vehicle and any other costs incurred as a result of their delay  
     
-* If the car is loaded in the outdoor area of the car-carrier wagon during the winter, the customer must check that there is no snow or ice in the engine compartment before starting the engine. If the customer fails to act in accordance with the above, VR will not cover any damage caused by snow or ice to the vehicle's engine at start-up.  
+*   If the car is loaded in the outdoor area of the car-carrier wagon during the winter, the customer must check that there is no snow or ice in the engine compartment before starting the engine. If the customer fails to act in accordance with the above, VR will not cover any damage caused by snow or ice to the vehicle's engine at start-up.  
     
 
 Terms and Conditions of Corporate Contracts
