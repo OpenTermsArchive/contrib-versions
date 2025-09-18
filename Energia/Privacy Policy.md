@@ -23,7 +23,7 @@ Energia is part of the Energia Group, the leading independent energy company in 
 
 If you have questions as to the manner in which your personal data is being handled or if you require any further information you can contact the Data Protection Officer at [**Dataprotection@energia.ie**](mailto:Dataprotection@energia.ie) or by writing to the:
 
-* Data Protection Officer, The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
+*   Data Protection Officer, The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H.
 
 ### **1.3 Statement Review**
 
@@ -170,41 +170,41 @@ In order to support customers requiring additional account management support (e
 
 If you are an Energia Smart Customer and you avail of one of our Time of Use Tariffs we will use your energy consumption data for the following purposes below:
 
-* To calculate your energy use.
+*   To calculate your energy use.
 
 **Legal Basis:** The processing is necessary for the performance of the contract to which you are party.
 
 **Legal Basis:** The processing is necessary to comply with our legal obligations.
 
-* To create bills based on your energy consumption readings which will reduce the need for estimated bills.
+*   To create bills based on your energy consumption readings which will reduce the need for estimated bills.
 
 **Legal Basis:** The processing is necessary for the performance of the contract to which you are a party.
 
-* To provide you with information and feedback about your energy consumption and how you can manage your energy usage better.
+*   To provide you with information and feedback about your energy consumption and how you can manage your energy usage better.
 
 **Legal Basis:** The processing is necessary to comply with our legal obligations.
 
-* To track trends in energy consumption and analyse your energy data and over time compare it with other customer’s energy use so that we can develop tailored products and services for you.
+*   To track trends in energy consumption and analyse your energy data and over time compare it with other customer’s energy use so that we can develop tailored products and services for you.
 
 **Legal Basis:** The processing is necessary for our legitimate interests. Further information on our legitimate interests are set out below.
 
-* To provide you with access to your energy use through your online account, or through communications we might send you such as energy savings advice.
+*   To provide you with access to your energy use through your online account, or through communications we might send you such as energy savings advice.
 
 **Legal Basis:** The processing is necessary for the performance of the contract to which you are party.
 
 **Legal Basis:** The processing is necessary to comply with our legal obligations.
 
-* To provide internal reporting, modelling and analysis to help us better understand our customer’s requirements.
+*   To provide internal reporting, modelling and analysis to help us better understand our customer’s requirements.
 
 **Legal Basis:** The processing is necessary for our legitimate interests or those of our group. Further information on our legitimate interests are set out below.
 
-* To provide energy usage for industry purposes in line with industry and regulatory requirements.
+*   To provide energy usage for industry purposes in line with industry and regulatory requirements.
 
 **Legal Basis:** The processing is necessary for our legitimate interests or those of a third party.Further information on our legitimate interests are set out below.
 
 **Legal Basis:** The processing is necessary to comply with our legal obligations.
 
-* To help us forecast energy demand.
+*   To help us forecast energy demand.
 
 **Legal Basis:** The processing is necessary for our legitimate interests or those of our group. Further information on our legitimate interests are set out below.
 
@@ -224,8 +224,8 @@ Dependent on the Time of Use Tariff you chose your smart meter will collect your
 
 Smart Meter tariff options:
 
-* Half hourly – One meter read will be taken once a day of the  half hourly data.
-* Bi-monthly – One meter read every 60 days or three meter reads covering set time periods every 60 days depending on your chosen tariff.
+*   Half hourly – One meter read will be taken once a day of the  half hourly data.
+*   Bi-monthly – One meter read every 60 days or three meter reads covering set time periods every 60 days depending on your chosen tariff.
 
 Your choice of smart meter tariff and the frequency of energy consumption data provided may limit some of the products and services available. If having chosen to provide your half hourly data, you decide to no longer do so, this may also limit some of the products and services available.
 
@@ -242,15 +242,15 @@ If you chose a Time of Use Tariff which allows for the collection of your energy
 
 There are a number of circumstances in which we may share your personal data within the Energia Group and with other parties. Below is a list of such potential recipients or categories of recipients with whom we may share information.
 
-* In order to meet our Licence and Regulatory requirements we are required to share certain personal data such as with the Network Companies– Electricity Supply Board Networks (ESBN) and Gas Networks Ireland (GNI). In order to meet our requirements with the Regulator – Commission for Regulation of Utilities (CRU).
-* In order to support the process for transferring customers between Energy Service Providers we are required to share certain personal data with previous, current and future suppliers to establish all relevant details to help transfer supply and establish the details of any outstanding debt.
-* In order to carry out credit checks when entering into an agreement we may share personal data with financial institutions and credit reference agencies.
-* In order to meet legal and regulatory requirements we may share personal data with fraud prevention agencies.
-* For debt management purposes we may in certain cases be required to share personal data with debt collection agencies.
-* We may disclose information when required by law or legal process for the administration of justice, to protect your vital interest, for investigations by law enforcement or regulatory bodies, to protect and defend Energia’s property and legal rights or by order of a valid order from a court or law enforcement agency.
-* Organisations who act as service providers to Energia such as providers of telecommunications, postal services, records storage, data storage, document production and destruction, IT services and security, fraud detection, customer loyalty programmes, marketing and market research, and making and receiving financial payments.
-* In order to meet our Licence and Regulatory requirements and with your explicit consent we will share certain special category personal data with the Network Companies ESBN and GNI, other Energy Service Providers or a person nominated to help manage your account as part of the Priority Services Register and Special Services Register for vulnerable customers.
-* In order to meet our Licence and Regulatory requirements we may be required to transfer personal data to: (a) ESB Networks Designated Activity Company where required for safety or network related activities; and (b) the Supplier of Last Resort in the event of a direction from the Regulator.
+*   In order to meet our Licence and Regulatory requirements we are required to share certain personal data such as with the Network Companies– Electricity Supply Board Networks (ESBN) and Gas Networks Ireland (GNI). In order to meet our requirements with the Regulator – Commission for Regulation of Utilities (CRU).
+*   In order to support the process for transferring customers between Energy Service Providers we are required to share certain personal data with previous, current and future suppliers to establish all relevant details to help transfer supply and establish the details of any outstanding debt.
+*   In order to carry out credit checks when entering into an agreement we may share personal data with financial institutions and credit reference agencies.
+*   In order to meet legal and regulatory requirements we may share personal data with fraud prevention agencies.
+*   For debt management purposes we may in certain cases be required to share personal data with debt collection agencies.
+*   We may disclose information when required by law or legal process for the administration of justice, to protect your vital interest, for investigations by law enforcement or regulatory bodies, to protect and defend Energia’s property and legal rights or by order of a valid order from a court or law enforcement agency.
+*   Organisations who act as service providers to Energia such as providers of telecommunications, postal services, records storage, data storage, document production and destruction, IT services and security, fraud detection, customer loyalty programmes, marketing and market research, and making and receiving financial payments.
+*   In order to meet our Licence and Regulatory requirements and with your explicit consent we will share certain special category personal data with the Network Companies ESBN and GNI, other Energy Service Providers or a person nominated to help manage your account as part of the Priority Services Register and Special Services Register for vulnerable customers.
+*   In order to meet our Licence and Regulatory requirements we may be required to transfer personal data to: (a) ESB Networks Designated Activity Company where required for safety or network related activities; and (b) the Supplier of Last Resort in the event of a direction from the Regulator.
 
 We may pass personal data to our agents and service providers and group companies when relevant for these purposes, including the use of cloud providers. This may involve passing your personal data outside of the European Economic Area (EEA) and any such recipients will be bound to comply with the European Commission standard contractual clauses or equivalent data protection safeguards for the transfers of data outside the EEA. 
 
@@ -263,11 +263,11 @@ We may pass personal data to our agents and service providers and group companie
 
 We will retain your personal data only for as long as is necessary for the purposes for which it was collected and in order to meet the legal and business requirements of managing your customer account and experience with us. In particular:
 
-* We will retain personal data that is necessary for us to provide you with a product or service that you have requested or purchased for as long as it takes us to provide that product or service;
-* We will retain your contact details for marketing purposes for as long as we have your permission to send you marketing information or for as long as we are permitted to do so, subject to your right to object at any stage;
-* We will retain records of any transactions you enter into with us or products or services you receive for up to seven years after the date of the transaction. This is so that we can respond to any complaints or disputes that arise in that period;
-* We will retain any financial transaction information for seven years after the date of those transactions; and
-* We will retain other personal data necessary for us to do so to comply with our regulatory and legal requirements.
+*   We will retain personal data that is necessary for us to provide you with a product or service that you have requested or purchased for as long as it takes us to provide that product or service;
+*   We will retain your contact details for marketing purposes for as long as we have your permission to send you marketing information or for as long as we are permitted to do so, subject to your right to object at any stage;
+*   We will retain records of any transactions you enter into with us or products or services you receive for up to seven years after the date of the transaction. This is so that we can respond to any complaints or disputes that arise in that period;
+*   We will retain any financial transaction information for seven years after the date of those transactions; and
+*   We will retain other personal data necessary for us to do so to comply with our regulatory and legal requirements.
 
   
 
@@ -284,7 +284,7 @@ You have the right to be provided with details of the processing of your persona
 
 In order to make an access request please email **[Dataprotection@energia.ie](mailto:Dataprotection@energia.ie)** or send your request in writing to the:
 
-* Data Protection Officer, The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H
+*   Data Protection Officer, The Generali Building, Blanchardstown Retail Park, Dublin 15, D15 YT2H
 
 ### **7.2 Right to rectification**
 
@@ -322,7 +322,7 @@ You have the right not to be subject to automated individual decision making, in
 
 You have the right to lodge a complaint with the:
 
-* Data Protection Commission via their website at [**www.dataprotection.ie**](http://www.dataprotection.ie/) or by writing to the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland.
+*   Data Protection Commission via their website at [**www.dataprotection.ie**](http://www.dataprotection.ie/) or by writing to the Data Protection Commission, 21 Fitzwilliam Square South, Dublin 2, D02 RD28, Ireland.
 
   
 
