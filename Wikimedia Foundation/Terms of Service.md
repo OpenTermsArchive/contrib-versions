@@ -97,7 +97,7 @@ Other languages:
 * [Türkçe](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/tr "Policy:Terms of Use/tr (94% translated)")
 * [Zazaki](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/diq "Policy:Terms of Use/diq (8% translated)")
 * [asturianu](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ast "Policy:Terms of Use/ast (38% translated)")
-* [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/az "Policy:Terms of Use/az (9% translated)")
+* [azərbaycanca](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/az "Policy:Terms of Use/az (11% translated)")
 * [bosanski](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/bs "Policy:Terms of Use/bs (3% translated)")
 * [català](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/ca "Policy:Terms of Use/ca (82% translated)")
 * [dansk](https://foundation.wikimedia.org/wiki/Policy:Terms_of_Use/da "Policy:Terms of Use/da (100% translated)")
