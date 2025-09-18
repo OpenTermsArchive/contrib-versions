@@ -15,11 +15,11 @@ What is Personal Information
 
 Personal information is information about a living individual that falls under any of the following categories
 
-* Information that can identify a specific individual by name, address, date of birth, gender, occupation, telephone number, e-mail address, etc., contained therein.
+*   Information that can identify a specific individual by name, address, date of birth, gender, occupation, telephone number, e-mail address, etc., contained therein.
 
-* Information that by itself does not identify a specific individual, but can be easily cross-referenced with other information to identify a specific individual.
+*   Information that by itself does not identify a specific individual, but can be easily cross-referenced with other information to identify a specific individual.
 
-* Items containing personal identification code (Article 2(2) of the APPI).
+*   Items containing personal identification code (Article 2(2) of the APPI).
 
 What is Personal Data
 ---------------------
@@ -77,87 +77,87 @@ Purpose of use of User Data concerning Users of Our Services
 (1) To ensure the stable operation of Our Services
 --------------------------------------------------
 
-* To create User accounts
-* For User authentication
-* To facilitate transactions in Our Services by us or Users
-* To facilitate transactions between Users
-* To respond to inquiries
-* To investigate the use of Our Services, such as whether there is any prohibited activity, unauthorized access, or other illegal or unauthorized activity
-* For security protection and fraud prevention
-* To perform delivery procedures when such procedures occur
-* To contact Users to request consent for the handling of Personal Information
-* To generate anonymized or Pseudonymized Personal Information for the purpose of producing statistical information
-* To produce statistical information and make it available to Users
-* To apply for insurance contracts relating to goods entered into a warehouse when using a warehouse service
-* To facilitate other of Our Services
+*   To create User accounts
+*   For User authentication
+*   To facilitate transactions in Our Services by us or Users
+*   To facilitate transactions between Users
+*   To respond to inquiries
+*   To investigate the use of Our Services, such as whether there is any prohibited activity, unauthorized access, or other illegal or unauthorized activity
+*   For security protection and fraud prevention
+*   To perform delivery procedures when such procedures occur
+*   To contact Users to request consent for the handling of Personal Information
+*   To generate anonymized or Pseudonymized Personal Information for the purpose of producing statistical information
+*   To produce statistical information and make it available to Users
+*   To apply for insurance contracts relating to goods entered into a warehouse when using a warehouse service
+*   To facilitate other of Our Services
 
 (2) To facilitate the smooth processing of payments when such payments occur in Our Services
 --------------------------------------------------------------------------------------------
 
-* To execute payments (including subsequent refund processing and cancellation)
+*   To execute payments (including subsequent refund processing and cancellation)
 
-* To prevent fraudulent payments
+*   To prevent fraudulent payments
 
-* To provide necessary information to companies that provide payment-related services (“Payment-Related Companies”) in order to investigate transactions suspected of being fraudulent
+*   To provide necessary information to companies that provide payment-related services (“Payment-Related Companies”) in order to investigate transactions suspected of being fraudulent
 
-* To respond to requests from Payment-Related Companies to investigate fraudulent transactions etc.
+*   To respond to requests from Payment-Related Companies to investigate fraudulent transactions etc.
 
-* To respond to inquiries regarding payments
+*   To respond to inquiries regarding payments
 
 (3) To analyze and improve Our Services, to provide better services, and to confirm the usage of Our Services
 -------------------------------------------------------------------------------------------------------------
 
-* To conduct surveys for Users
+*   To conduct surveys for Users
 
-* To send rewards to Users who respond to surveys
+*   To send rewards to Users who respond to surveys
 
-* To create statistical information from survey results and usage history of Our Services, and to use such information as a reference for the development of Our Services
+*   To create statistical information from survey results and usage history of Our Services, and to use such information as a reference for the development of Our Services
 
-* o provide personalized content and advertising based on usage history of Our Services
+*   o provide personalized content and advertising based on usage history of Our Services
 
-* To conduct promotional activities according to User segments
+*   To conduct promotional activities according to User segments
 
-* To improve Our Services
+*   To improve Our Services
 
 (4) For our marketing activities and to display advertisements tailored to Users
 --------------------------------------------------------------------------------
 
-* To distribute advertisements and information about us and our transaction counterparties to Users
+*   To distribute advertisements and information about us and our transaction counterparties to Users
 
-* To send information on campaigns, events, etc. conducted by us
+*   To send information on campaigns, events, etc. conducted by us
 
 (5) Purpose of use of User Data concerning entrants to contests, etc. conducted on Our Services by us or our transaction counterparties
 ---------------------------------------------------------------------------------------------------------------------------------------
 
-* To ensure the smooth operation and implementation of contests, etc.
+*   To ensure the smooth operation and implementation of contests, etc.
 
-* To send prize money and prizes to winners of contests, etc.
+*   To send prize money and prizes to winners of contests, etc.
 
-* To provide User Data necessary for the selection of winners and prize winners to our transaction counterparties
+*   To provide User Data necessary for the selection of winners and prize winners to our transaction counterparties
 
-* To respond to inquiries regarding contests, etc.
+*   To respond to inquiries regarding contests, etc.
 
 Purpose of use of User Data concerning our transaction counterparties
 ---------------------------------------------------------------------
 
-* To perform agreements with transaction counterparties
+*   To perform agreements with transaction counterparties
 
-* To manage payments and income relating to transaction counterparties
+*   To manage payments and income relating to transaction counterparties
 
-* To carry out our sales activities
+*   To carry out our sales activities
 
 Purpose of use of User Data relating to our recruitment activities
 ------------------------------------------------------------------
 
-* To screen applicants for employment (including reference checks)
+*   To screen applicants for employment (including reference checks)
 
-* To provide information to, contact, and notify applicants for employment
+*   To provide information to, contact, and notify applicants for employment
 
-* To provide information on employment opportunities to persons seeking employment with us
+*   To provide information on employment opportunities to persons seeking employment with us
 
-* To contact applicants for employment who are referred by our employees
+*   To contact applicants for employment who are referred by our employees
 
-* To generate anonymized or Pseudonymized Personal Information for the purpose of producing statistical information
+*   To generate anonymized or Pseudonymized Personal Information for the purpose of producing statistical information
 
 Purpose of use of User Data concerning our employees
 ----------------------------------------------------
@@ -172,21 +172,21 @@ We use this information for labor management, benefits, etc., including personne
 
 (ii) We use such Specific Personal Information to perform the following operations.
 
-* Administrative work relating withholding tax
+*   Administrative work relating withholding tax
 
-* Administrative work relating to preparation of application forms for exemption for dependents, deduction for insurance premiums, and special exemption for spouse of employment income earner
+*   Administrative work relating to preparation of application forms for exemption for dependents, deduction for insurance premiums, and special exemption for spouse of employment income earner
 
-* Administrative work relating preparation of tax returns relating to retirement income
+*   Administrative work relating preparation of tax returns relating to retirement income
 
-* Administrative work relating individual inhabitant tax
+*   Administrative work relating individual inhabitant tax
 
-* Administrative work relating to employment insurance
+*   Administrative work relating to employment insurance
 
-* Administrative work relating to health insurance and employees’ pension insurance
+*   Administrative work relating to health insurance and employees’ pension insurance
 
-* Notification of National Pension Plan No. 3 insured persons
+*   Notification of National Pension Plan No. 3 insured persons
 
-* Administrative work relating to preparation of payment records for remuneration, fees, etc.
+*   Administrative work relating to preparation of payment records for remuneration, fees, etc.
 
 (iii) We do not provide Specific Personal Information to any third party, except in cases permitted under the Act on the Use of Numbers to Identify a Specific Individual in Administrative Procedures.
 
@@ -207,26 +207,26 @@ In the event that laws, regulations, guidelines, etc. apply to the provision of 
 (1) Items of Personal Data to be shared
 ---------------------------------------
 
-* Items registered with us by Users or transaction counterparties
+*   Items registered with us by Users or transaction counterparties
 
-* Identification information of Users and transaction counterparties
+*   Identification information of Users and transaction counterparties
 
-* Any and all items registered by the Users on the Services
+*   Any and all items registered by the Users on the Services
 
-* information about our employees
+*   information about our employees
 
 (2) Scope of joint Users
 ------------------------
 
-* Pixiv Inc.
+*   Pixiv Inc.
 
-* Incolore Corporation
+*   Incolore Corporation
 
-* Pixiv Marketing, Inc.
+*   Pixiv Marketing, Inc.
 
-* Pixiv Technologies, Inc.
+*   Pixiv Technologies, Inc.
 
-* Pixiv Qualia Inc.
+*   Pixiv Qualia Inc.
 
 (3) Purpose of use in case of sharing
 -------------------------------------
@@ -250,19 +250,19 @@ Cases of provision of Personal Data to third parties
 
 In principle, we do not provide Personal Data to third parties (provision of Personal Data to a third party is hereinafter referred to as “Provision of Personal Data to Third Parties”); provided, however, that this excludes the cases set forth in the paragraphs of this Article and the cases set forth in the following items.
 
-* Cases where we provide Personal Information to third parties as specified in the items of Article 27(5) of the APPI
+*   Cases where we provide Personal Information to third parties as specified in the items of Article 27(5) of the APPI
 
-* Cases where we have obtained the prior consent of the Customer etc., to provide the information to third parties
+*   Cases where we have obtained the prior consent of the Customer etc., to provide the information to third parties
 
-* Cases where required by laws and regulations
+*   Cases where required by laws and regulations
 
-* Cases where it is necessary for the protection of the life, body, or property of an individual and it is difficult to obtain the consent of the individual
+*   Cases where it is necessary for the protection of the life, body, or property of an individual and it is difficult to obtain the consent of the individual
 
-* Cases where there is a specific need for improving public health or to promote the sound development of children and it is difficult to obtain the consent of the individual
+*   Cases where there is a specific need for improving public health or to promote the sound development of children and it is difficult to obtain the consent of the individual
 
-* Cases where it is necessary to cooperate with a national agency, a local government, or an individual or entity entrusted by either a national agency or local government to execute affairs prescribed by laws and regulations, and in which obtaining the consent of the individual is likely to impede the execution of such affairs
+*   Cases where it is necessary to cooperate with a national agency, a local government, or an individual or entity entrusted by either a national agency or local government to execute affairs prescribed by laws and regulations, and in which obtaining the consent of the individual is likely to impede the execution of such affairs
 
-* Cases where we receive an inquiry from a police officer, public prosecutor, public prosecutor’s assistant, national tax official, drug enforcement official, bar association, court, or other party with legal authority to make an inquiry, or when we determine that an emergency evacuation or self-defense is required.
+*   Cases where we receive an inquiry from a police officer, public prosecutor, public prosecutor’s assistant, national tax official, drug enforcement official, bar association, court, or other party with legal authority to make an inquiry, or when we determine that an emergency evacuation or self-defense is required.
 
 Provision to payment companies etc. and transfer outside Japan
 --------------------------------------------------------------
@@ -299,21 +299,21 @@ Physical security control measures
 
 We take the following measures for physical security control:
 
-* Management of Personal Data handling areas, etc.
-* Measures to be taken in the event of theft of equipment or electronic media, etc.
-* Prevention of leakage etc. when carrying electronic media, etc.
-* Establishment and implementation of rules for deletion of Personal Data and disposal of equipment, electronic media, etc.
+*   Management of Personal Data handling areas, etc.
+*   Measures to be taken in the event of theft of equipment or electronic media, etc.
+*   Prevention of leakage etc. when carrying electronic media, etc.
+*   Establishment and implementation of rules for deletion of Personal Data and disposal of equipment, electronic media, etc.
 
 Technical security control measures
 -----------------------------------
 
 We take the following measures for technical security control:
 
-* Setting User and management categories for Personal Data and access controls
-* Controlling access privileges to Personal Data
-* Ensuring the security of Personal Data
-* Monitoring the operation of information systems that handle Personal Data
-* Monitoring information systems that handle Personal Data
+*   Setting User and management categories for Personal Data and access controls
+*   Controlling access privileges to Personal Data
+*   Ensuring the security of Personal Data
+*   Monitoring the operation of information systems that handle Personal Data
+*   Monitoring information systems that handle Personal Data
 
 Handling of Pseudonymized Personal Information
 ==============================================
@@ -333,15 +333,15 @@ Handling of Pseudonymized Personal Information
 
 We handle Pseudonymized Personal Information that is Personal Information in accordance with the following:
 
-* The information will be used within the scope set forth in the “Purposes of Use” section of this Privacy Policy.
+*   The information will be used within the scope set forth in the “Purposes of Use” section of this Privacy Policy.
 
-* If the information is to be used for purposes other than those described in the “Purposes of Use” section of this Privacy Policy, we will publicly announce the new purposes of use before using the information.
+*   If the information is to be used for purposes other than those described in the “Purposes of Use” section of this Privacy Policy, we will publicly announce the new purposes of use before using the information.
 
-* When there is no longer a need to use the Pseudonymized Personal Information, we will make efforts to delete it without delay.
+*   When there is no longer a need to use the Pseudonymized Personal Information, we will make efforts to delete it without delay.
 
-* Pseudonymized Personal Information will not be provided to third parties, except when required by laws and regulations or when provided to service providers to the extent necessary for the performance of our business; provided, however, that this excludes cases where the information is provided as a result of the succession of business due to a merger or other reasons.
+*   Pseudonymized Personal Information will not be provided to third parties, except when required by laws and regulations or when provided to service providers to the extent necessary for the performance of our business; provided, however, that this excludes cases where the information is provided as a result of the succession of business due to a merger or other reasons.
 
-* Pseudonymized Personal Information will not be cross-referenced with other information for the purpose of identifying the individual to whom the original Personal Information pertains.
+*   Pseudonymized Personal Information will not be cross-referenced with other information for the purpose of identifying the individual to whom the original Personal Information pertains.
 
 Handling of Anonymized Information
 ==================================
@@ -351,15 +351,15 @@ Creation of anonymized information
 
 When we create anonymized information (information about individuals obtained by processing Personal Information so that specific individuals cannot be identified through measures prescribed by laws and regulations, and such Personal Information cannot be restored), we will take the following measures.
 
-* Appropriate processing in accordance with the standards set forth in laws and regulations.
+*   Appropriate processing in accordance with the standards set forth in laws and regulations.
 
-* Taking security control measures to prevent leakage, etc. of deleted information and information on processing methods in accordance with the standards set forth in laws and regulations./li>
+*   Taking security control measures to prevent leakage, etc. of deleted information and information on processing methods in accordance with the standards set forth in laws and regulations./li>
 
-* Public announcement of the items of information contained in the anonymized information created
+*   Public announcement of the items of information contained in the anonymized information created
 
-* Not taking any action to identify an individual whose Personal Information was the source for the creation of the information
+*   Not taking any action to identify an individual whose Personal Information was the source for the creation of the information
 
-* When anonymized information is obtained from a third party, information regarding the deleted information or the method of processing shall not be obtained or cross-referenced with other information for the purpose of identifying the individual to whom the original Personal Information pertains.
+*   When anonymized information is obtained from a third party, information regarding the deleted information or the method of processing shall not be obtained or cross-referenced with other information for the purpose of identifying the individual to whom the original Personal Information pertains.
 
 Items included in Anonymized Information
 ----------------------------------------
@@ -371,15 +371,15 @@ Provision of anonymized information to third parties
 
 The purposes for which anonymized information created by us is provided to third parties, the items included in the anonymized information, and the method of provision are as follows.
 
-* Purpose
+*   Purpose
 
 To create statistical information for our affiliated companies or research institutes, etc.
 
-* Items included in anonymized information to be provided to third parties
+*   Items included in anonymized information to be provided to third parties
 
 The items listed in “Items included in anonymized information” above are included.
 
-* Method of provision
+*   Method of provision
 
 Data files are encrypted and provided by secure means.
 
@@ -393,30 +393,30 @@ Requests for disclosure of Personal Data and Records on Provision of Personal Da
 
 With respect to Personal Data, we will disclose all or part of the Personal Data only if it is included in the Retained Personal Data, and with respect to Records on Provision of Personal Data to Third Parties, only if Retained Personal Data has been provided to a third party, in accordance with laws and regulations; provided, however, that the following cases are excluded from disclosure:
 
-* Cases where the data does not fall under Retained Personal Data
+*   Cases where the data does not fall under Retained Personal Data
 
-* Cases where we are only entrusted with the Personal Data and do not have the authority to disclose it
+*   Cases where we are only entrusted with the Personal Data and do not have the authority to disclose it
 
-* Cases where the disclosure falls under any of the following items as stipulated in Article 33 of the APPI
+*   Cases where the disclosure falls under any of the following items as stipulated in Article 33 of the APPI
     
-    * Cases where disclosure may harm the life, body, property, or other rights or interests of the person in question or a third party
+    *   Cases where disclosure may harm the life, body, property, or other rights or interests of the person in question or a third party
     
-    * Cases where there is a risk that Disclosure etc. will cause significant hindrance to the proper conduct of our business
+    *   Cases where there is a risk that Disclosure etc. will cause significant hindrance to the proper conduct of our business
     
-    * Cases where Disclosure etc. would violate other laws and regulations
+    *   Cases where Disclosure etc. would violate other laws and regulations
     
-    * Cases in which the individual cannot be identified based on personal identification information, etc.
+    *   Cases in which the individual cannot be identified based on personal identification information, etc.
     
-    * Other cases as required by laws and regulations
+    *   Other cases as required by laws and regulations
 
 Correction, addition, or deletion of Personal Data and suspension of Provision of Personal Data to Third Parties
 ----------------------------------------------------------------------------------------------------------------
 
 Customers etc. may request that we to correct, add, or delete your Personal Data (“Correction etc.”), or stop providing their Personal Data to third parties, in accordance with laws and regulations in the following cases:
 
-* If the content of Personal Data is different from the facts and the User requests Correction etc. of the Personal Data
+*   If the content of Personal Data is different from the facts and the User requests Correction etc. of the Personal Data
 
-* If we are providing information to a third party without the customer’s consent or without satisfying the requirements of the law, and the customer wishes us to stop providing such information to the third party.
+*   If we are providing information to a third party without the customer’s consent or without satisfying the requirements of the law, and the customer wishes us to stop providing such information to the third party.
 
 Ceasing to Use or Deleting Personal Data
 ----------------------------------------
@@ -426,13 +426,13 @@ When we receive a request from a Customer etc. to discontinue the use or erase (
 Notice of Disclosure etc. to Customers etc.
 -------------------------------------------
 
-1. Upon receiving a request for Disclosure etc., from a Customer etc., we will conduct the necessary investigation without delay after verifying the identity of the Customer etc., and notify the Customer etc. of the results of that investigation.
-2. If we decide not to provide Disclosure etc. on reasonable grounds, such as in the following examples, we will notify the Customer etc. to that effect.
+1.  Upon receiving a request for Disclosure etc., from a Customer etc., we will conduct the necessary investigation without delay after verifying the identity of the Customer etc., and notify the Customer etc. of the results of that investigation.
+2.  If we decide not to provide Disclosure etc. on reasonable grounds, such as in the following examples, we will notify the Customer etc. to that effect.
     
-    * Cases where there is no record of such Retained Personal Data or provision to a third party
+    *   Cases where there is no record of such Retained Personal Data or provision to a third party
     
-    * Cases where it is difficult to disclose the information by the method requested by the person in question
-3. The provisions of the preceding two paragraphs shall not apply in cases where we are not obligated to provide Disclosure etc. of Personal Information under the APPI or other laws and regulations.
+    *   Cases where it is difficult to disclose the information by the method requested by the person in question
+3.  The provisions of the preceding two paragraphs shall not apply in cases where we are not obligated to provide Disclosure etc. of Personal Information under the APPI or other laws and regulations.
 
 Contact for requests for Disclosure etc.
 ----------------------------------------
@@ -441,15 +441,15 @@ If you wish to make a request for Disclosure etc., please fill in the necessary 
 
 ### Necessary documents
 
-* Application form [(download URL)](https://policies.pixiv.net/pdf/personal_infomation.pdf)
+*   Application form [(download URL)](https://policies.pixiv.net/pdf/personal_infomation.pdf)
 
-* Identification documents
+*   Identification documents
 
 Examples: driver’s license, certificate of residence
 
 ### Request methods
 
-* To request by mail
+*   To request by mail
 
 Please mail by certified mail or other means that leaves a record of delivery. The mailing address is as follows:
 
@@ -461,7 +461,7 @@ c/o Personal Information Contact Desk
 
 4-23-5 Sendagaya, Shibuya-ku, Tokyo
 
-* To request electronically
+*   To request electronically
 
 Please fill out the required information and send using the contact information set forth in the “Contact for Inquiries” section below, attaching the data of the necessary documents.
 
@@ -526,11 +526,11 @@ The information collected, recorded, and analyzed by Google Analytics does not c
 
 o configure your settings for Google Analytics on our website, please see below.
 
-* If you wish to stop the collection of information about yourself
+*   If you wish to stop the collection of information about yourself
 
 Please disable Google Analytics in your browser’s add-on settings.
 
-* If you wish to disable Google Analytics
+*   If you wish to disable Google Analytics
 
 Please download and install the “Google Analytics Opt-Out Add-on” from the Google Opt-Out Add-on Download Page and change the add-on settings in your browser.
 
@@ -621,47 +621,47 @@ For the purpose of this Article, “Personal Information” means information th
 
 ### a. Types of Personal Information we have collected in the past 12 months
 
-1. **Identifiers**
+1.  **Identifiers**
 
 Examples: contact information such as name and address, online identifier (IP address), e-mail address, account name, other similar identifiers, cookies, beacons?, mobile advertising identifiers or similar technologies?, customer numbers, unique pseudonyms or User IDs, telephone numbers, or persistent or probabilistic identifiers that can be used to recognize a specific consumer or device?, UserAgent.
 
-3. **Personal information as defined by the California Consumer Privacy Act**
+3.  **Personal information as defined by the California Consumer Privacy Act**
 
 Examples: contact information such as name and address, partial credit or debit card payment numbers, PayPal account, education, school name, employment, employment history, bank information such as account numbers, etc.
 
-5. **Protected classifications under California or federal law**
+5.  **Protected classifications under California or federal law**
 
 Examples: gender, age, date of birth,
 
-7. **Commercial information**
+7.  **Commercial information**
 
 Examples: transaction information, purchase history, financial details, payment information, etc.; records of personal property; records of products or services purchased, acquired, or considered; and records of other purchases or consumption history or trends.
 
-9. **Biometric Information**
+9.  **Biometric Information**
 
 Examples: face, hands, voice recording, video.
 
-11. **Information on Internet or other electronic network activities**
+11.  **Information on Internet or other electronic network activities**
 
 Examples: browsing history, online behavior, interactions with our and other websites, and other Internet or network activity history.
 
-13. **Geolocation data**
+13.  **Geolocation data**
 
 Examples: IP location information, etc.
 
-15. Audio, electronic, visual, and similar information, including images and sound recordings, telephone calls, and video recordings made in connection with our business activities and transaction counterparties.
-16. **Occupational or employment information, such as employment history, past employers, etc.**
+15.  Audio, electronic, visual, and similar information, including images and sound recordings, telephone calls, and video recordings made in connection with our business activities and transaction counterparties.
+16.  **Occupational or employment information, such as employment history, past employers, etc.**
 
 Not obtained.
 
-18. **Academic records and other educational information subject to the U.S. Family Educational Rights and Privacy Act**
+18.  **Academic records and other educational information subject to the U.S. Family Educational Rights and Privacy Act**
 
 Not obtained.
 
-20. **Information inferred from the above Personal Information, for example, to create a profile or summary of an individual’s preferences or personality**
-    
-    Action history (page transition history), browsing history, purchase history
-    
+20.  **Information inferred from the above Personal Information, for example, to create a profile or summary of an individual’s preferences or personality**
+     
+     Action history (page transition history), browsing history, purchase history
+     
 
 ### b.Purpose of use of collected information
 
@@ -671,9 +671,9 @@ Please refer to the [“Purposes of Use”](#purposes_of_use) section of this Pr
 
 The sources of the information we collect are as follows:
 
-* Information entered by you at the time of account creation, etc.
+*   Information entered by you at the time of account creation, etc.
 
-* IP addresses, etc. obtained by us when you visit our website.
+*   IP addresses, etc. obtained by us when you visit our website.
 
 ### d. Sharing of collected information
 
@@ -694,25 +694,25 @@ For purposes of this Article, “sold” or “sales” means “disclosing Pers
 
 ### a. Right to request disclosure of information and deletion of information
 
-1. If you are a consumer or resident of the State of California, you may make requests to us for:
+1.  If you are a consumer or resident of the State of California, you may make requests to us for:
 
 (i) Disclosure of information
 
 You may request that we disclose the following information to you, provided that the information is from within 12 months of the date of the request
 
-* The types of Personal Information we collect about you
+*   The types of Personal Information we collect about you
 
-* The types of sources from which we collect your Personal Information
+*   The types of sources from which we collect your Personal Information
 
-* The business or commercial purposes for which we collect your Personal Information
+*   The business or commercial purposes for which we collect your Personal Information
 
-* The types of your Personal Information, and the types of third parties to which we share or disclose your Personal Information, in the event that we share or disclose your Personal Information to third parties
+*   The types of your Personal Information, and the types of third parties to which we share or disclose your Personal Information, in the event that we share or disclose your Personal Information to third parties
 
 (ii) Deletion of information
 
 You may request that we delete your Personal Information that we have collected or obtained from you.
 
-10. We will respond to your request as described in the preceding paragraph in accordance with applicable laws and regulations; provided, however, that we may deny your request in cases where the relevant laws and regulations do not apply or where an exception applies.
+10.  We will respond to your request as described in the preceding paragraph in accordance with applicable laws and regulations; provided, however, that we may deny your request in cases where the relevant laws and regulations do not apply or where an exception applies.
 
 ### b. Procedures for disclosure and deletion of customer information
 
@@ -742,15 +742,15 @@ In this Article, “Personal Data” means “information about an identified or
 (1) Obtainment and retention of Personal Data
 ---------------------------------------------
 
-1. Method of obtainment
+1.  Method of obtainment
 
 We obtain Personal Data in the following ways
 
-* Directly from you (e.g., when you enter your information when creating an account)
+*   Directly from you (e.g., when you enter your information when creating an account)
 
-* Indirectly from you (e.g., by obtaining the IP address when you visit our website)
+*   Indirectly from you (e.g., by obtaining the IP address when you visit our website)
 
-5. Types of Personal Data acquired or retained
+5.  Types of Personal Data acquired or retained
 
 In this Article, the types of User Data that acquired or retained refers to items (1) through (4) of the [“Scope of this Privacy Policy and User Data Obtained”](#scope_of_this_privacy_policy) section of this Privacy Policy.
 
@@ -762,14 +762,14 @@ Please refer to the [“Purposes of Use”](#purposes_of_use) section of this Pr
 (3) Legal basis
 ---------------
 
-1. We process Personal Data on the following legal basis
+1.  We process Personal Data on the following legal basis
     
-    * Your agreement to this Privacy Policy
+    *   Your agreement to this Privacy Policy
     
-    * Necessity for us to fulfill various agreements with you
+    *   Necessity for us to fulfill various agreements with you
     
-    * Necessity for us to carry out various procedures requested by you
-2. You have the right to choose whether or not to provide us with your Personal Data, but if you do not provide us with your Personal Data, you may not receive Our Services.
+    *   Necessity for us to carry out various procedures requested by you
+2.  You have the right to choose whether or not to provide us with your Personal Data, but if you do not provide us with your Personal Data, you may not receive Our Services.
 
 (4) Retention period of Personal Data
 -------------------------------------
@@ -791,9 +791,9 @@ We may provide Personal Data obtained from you to third parties within the scope
 
 We may transfer Personal Data to third countries (countries that have been certified as sufficient by the European Commission or companies that adhere to equivalent standards) in compliance with various laws and regulations for the following purposes (for details, see the [“Provision of Personal Data to Third Parties”](#provision_of_personal_data_to_third_parties) and [“Handling of Cookies etc.”](#handling_of_cookies) sections in this Privacy Policy).
 
-* To provide Our Services
+*   To provide Our Services
 
-* To comply with procedures requested by customers
+*   To comply with procedures requested by customers
 
 (8) Your rights to your Personal Data
 -------------------------------------
