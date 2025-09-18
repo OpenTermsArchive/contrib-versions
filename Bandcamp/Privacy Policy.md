@@ -5,7 +5,8 @@ Effective Date: October 18, 2023
 
 Bandcamp Ventures LLC (“Bandcamp”) knows that you care about how your Personal Data is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. This Privacy Policy describes how we collect, use, share, and safeguard your Personal Data when you access the www.bandcamp.com website and domain name, mobile applications, and any other linked pages, features, content, or application services offered from time to time by Bandcamp in connection therewith (collectively, the “Service”), or otherwise interact with us. This policy does not apply to the practices of companies that Bandcamp does not own or control, or to individuals that Bandcamp does not employ or manage. “Personal Data” means any data related to an identified or identifiable individual. By accessing or using the Service, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-### What Personal Data Does Bandcamp Collect?
+What Personal Data Does Bandcamp Collect?
+-----------------------------------------
 
 * **User information,** such as the name, username, password, email address, photograph or other likeness, settings, associations with bands and fans, purchase history, and any other information you provide in connection with your user account.
 * **User financial information,** such as your credit or debit card number, bank account number, and billing and shipping address. This information is collected and processed by our payment processor, as necessary to complete your purchase. We do not receive your credit card information directly, but we may receive information about the transaction, such as the date and time it occurred. This information may or may not be associated with an existing user or fan account on the website.
@@ -22,7 +23,8 @@ In addition to the above, we may automatically collect the following types of in
 * We use Google Analytics to collect and process analytical data about users of Bandcamp’s website. Google Analytics tracks your interaction with the Site and stores information about IP address, operating system, web browser, pages visited, information about demographics of our website users, the device used, and where the visit originated. You can learn about Google’s practices by going to [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/), and opt out of them by downloading the Google Analytics opt-out browser add-on, available at [https://tools.google.com/dlpage/gaoptout](https://tools.google.com/dlpage/gaoptout).
 * We may use software tools such as JavaScript to collect page interaction information such as clicks, drags, and hover-overs, response times, errors, and length of visits to certain pages.
 
-### For Which Purposes Will Bandcamp Use Your Personal Data?
+For Which Purposes Will Bandcamp Use Your Personal Data?
+--------------------------------------------------------
 
 The Personal Data collected by Bandcamp is used for the following purposes:
 
@@ -41,11 +43,13 @@ The Personal Data collected by Bandcamp is used for the following purposes:
 
 We also may use the information in other ways for which we provide specific notice at the time of collection.
 
-### Email Communications:
+Email Communications:
+---------------------
 
 We may receive a confirmation when you open an email from Bandcamp. Bandcamp uses this confirmation to help us make emails more interesting and helpful and improve our service. If you do not want to receive email from us, please contact us as specified in the “How To Contact Us” section below.
 
-### When Does Bandcamp Collect Personal Data Relating To You?
+When Does Bandcamp Collect Personal Data Relating To You?
+---------------------------------------------------------
 
 We may collect and use Personal Data relating to you when:
 
@@ -54,7 +58,8 @@ We may collect and use Personal Data relating to you when:
 * We have a legal obligation to use your Personal Data;
 * We have a legitimate interest in using your Personal Data. This includes our legitimate interests to ensure and improve the safety, security and performance of our products and services.
 
-### How Does Bandcamp Receive Personal Data About To You?
+How Does Bandcamp Receive Personal Data About To You?
+-----------------------------------------------------
 
 We may receive Personal Data relating to you from:
 
@@ -62,11 +67,13 @@ We may receive Personal Data relating to you from:
 * Your use of Bandcamp’s Service;
 * Third parties that provide us with information about you.
 
-### For How Long Does Bandcamp Keep Your Personal Data?
+For How Long Does Bandcamp Keep Your Personal Data?
+---------------------------------------------------
 
 Bandcamp stores Personal Data only for as long as it is necessary for the fulfillment of the purpose for which it was collected, unless otherwise required or authorized by applicable law. We take measures to destroy or permanently de-identify Personal Data if required by law or if the Personal Data is no longer required for the purpose for which we collected it.
 
-### How Will Bandcamp Share the Personal Data It Receives?
+How Will Bandcamp Share the Personal Data It Receives?
+------------------------------------------------------
 
 Personal Data about our customers is an integral part of our business. We neither rent nor sell your Personal Data to anyone. We share your Personal Data only as described below.
 
@@ -81,7 +88,8 @@ Personal Data about our customers is an integral part of our business. We neithe
 * **Compliance with the Law, Protection of Bandcamp and Others:** We may access, preserve, and disclose collected information, if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of Bandcamp, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
 * **With Your Consent:** Except as set forth above, you will be notified when your Personal Data may be shared with third parties, and will be able to prevent the sharing of this information.
 
-### Is Personal Data About You Secure?
+Is Personal Data About You Secure?
+----------------------------------
 
 Bandcamp endeavors to protect user information to ensure that your Personal Data is kept private. We use physical, managerial, and technical security measures to protect your Personal Data against accidental or unlawful destruction, loss, alteration, unauthorized disclosure or access. In particular, we take steps to ensure that our employees and service providers who have access to your Personal Data only process it upon our instructions, unless otherwise required by law.
 
@@ -89,7 +97,8 @@ However, no measures are 100% secure and unauthorized entry or use, hardware or 
 
 The Service may contain links to other sites. Bandcamp is not responsible for the privacy policies and/or practices on other sites. When linking to another site you should read the privacy policy stated on that site. This Privacy Policy only governs information collected by Bandcamp.
 
-### What Choices And Rights Do You Have Regarding Your Personal Data?
+What Choices And Rights Do You Have Regarding Your Personal Data?
+-----------------------------------------------------------------
 
 You have certain rights regarding the Personal Data we maintain about you. We also offer you certain choices about what Personal Data we collect from you, how we use that information, and how we communicate with you.
 
@@ -106,18 +115,22 @@ You have certain rights regarding the Personal Data we maintain about you. We al
 * If you provide us with any Personal Data relating to another individual, you should make sure that the sharing with us and our further use as described to you from time to time is in line with applicable laws, so for example you should duly inform that individual on the processing of her/his Personal Data and obtain her/his consent, as may be necessary under applicable laws.
 * To exercise your rights and choices as described above, please contact us as specified in the “How To Contact Us” section below.
 
-### Does Bandcamp Collect Children’s Data?
+Does Bandcamp Collect Children’s Data?
+--------------------------------------
 
 We do not knowingly collect, maintain, or use Personal Data from children under 16 years of age, and no part of the Service is directed to children under the age of 16. If you learn that your child has provided us with Personal Data without your consent, you may alert us by using the contact details provided in the “How To Contact Us” section below. If we learn that we have collected any Personal Data from children under 16, we will promptly take steps to delete such information and terminate the child’s account.
 
-### Data Transfers
+Data Transfers
+--------------
 
 When you use the Service, your information may be transferred to or stored in the United States or other countries where we or our service providers operate. The data protection laws and rules in these countries may be different than those where you live. We rely on various legal mechanisms to help lawfully support transfers of information outside the country of collection where appropriate. If permissible under local law, you’re authorizing Bandcamp to process your information in any of the locations where we operate (including the United States) by using the Bandcamp Services.
 
-### Changes to this Privacy Policy
+Changes to this Privacy Policy
+------------------------------
 
 Bandcamp may amend this Privacy Policy from time to time. Use of information we collect now is subject to the Privacy Policy in effect at the time such information is used. If we make changes in the way we use Personal Data, we will notify you by posting an announcement on our Service or sending you an email. Users are bound by any changes to the Privacy Policy when they use the Service after such changes have been first posted.
 
-### How to Contact Us
+How to Contact Us
+-----------------
 
 If you have any questions or concerns regarding the privacy of your Personal Data by Bandcamp, or if you would like to exercise your rights to your Personal Data, please send a detailed message to [support@bandcamp.com](mailto:support@bandcamp.com). Please specify the subject of your request on the subject line and in the body of your message (e.g. “Request for access to my personal data”, “Request for California Privacy Information” etc.). We will provide the requested information and make every effort to resolve your concerns.
