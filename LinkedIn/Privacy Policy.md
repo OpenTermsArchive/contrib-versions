@@ -1,9 +1,15 @@
 Privacy Policy
 ==============
 
+### **
+
+Update to our terms**
+
+### We're updating our terms on November 3, 2025. See [here](https://www.linkedin.com/legal/preview/privacy-policy) for what's coming in our updated Privacy Policy. [Learn more](https://www.linkedin.com/help/linkedin/answer/a8059228)  
+
 _[Effective September 18, 2024](https://www.linkedin.com/help/linkedin/answer/a1341216/updates-to-user-agreement-and-privacy-policy)_
 
-LinkedIn's global Privacy Policy below applies worldwide. If you're located in the EU, EEA, UK, or Switzerland, you can review additional information that will apply to you in our [European Regional Privacy Notice](https://www.linkedin.com/legal/privacy/eu).  
+LinkedIn's global Privacy Policy below applies worldwide. If you're located in the EU, EEA, UK, or Switzerland, you can review additional information that will apply to you in our [European Regional Privacy Notice](https://www.linkedin.com/legal/privacy/eu).
 
 Your Privacy Matters
 --------------------
