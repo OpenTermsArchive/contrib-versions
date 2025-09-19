@@ -10,17 +10,17 @@ sante.gouv.fr
 
 Recherche 
 
-* [Actualités/Presse](https://sante.gouv.fr/actualites/)
+* [Actualités/Presse](https://sante.gouv.fr/actualites-presse/)
     
     Retour
     
-    * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    * [Actualités du ministère](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/)
     
-    * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    * [Evénements](https://sante.gouv.fr/actualites-presse/evenements/)
     
-    * [Presse](https://sante.gouv.fr/actualites/presse/)
+    * [Presse](https://sante.gouv.fr/actualites-presse/presse/)
     
-    * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
+    * [Contacts presse](https://sante.gouv.fr/actualites-presse/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
     
@@ -95,7 +95,7 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [Conflit en Ukraine](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/accueil-ukraine)
             * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
@@ -834,17 +834,17 @@ sante.gouv.fr
 
 Recherche 
 
-* [Actualités/Presse](https://sante.gouv.fr/actualites/)
+* [Actualités/Presse](https://sante.gouv.fr/actualites-presse/)
     
     Retour
     
-    * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    * [Actualités du ministère](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/)
     
-    * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    * [Evénements](https://sante.gouv.fr/actualites-presse/evenements/)
     
-    * [Presse](https://sante.gouv.fr/actualites/presse/)
+    * [Presse](https://sante.gouv.fr/actualites-presse/presse/)
     
-    * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
+    * [Contacts presse](https://sante.gouv.fr/actualites-presse/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
     
@@ -919,7 +919,7 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [Conflit en Ukraine](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/accueil-ukraine)
             * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
@@ -1630,17 +1630,17 @@ sante.gouv.fr
 
 Recherche 
 
-* [Actualités/Presse](https://sante.gouv.fr/actualites/)
+* [Actualités/Presse](https://sante.gouv.fr/actualites-presse/)
     
     Retour
     
-    * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    * [Actualités du ministère](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/)
     
-    * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    * [Evénements](https://sante.gouv.fr/actualites-presse/evenements/)
     
-    * [Presse](https://sante.gouv.fr/actualites/presse/)
+    * [Presse](https://sante.gouv.fr/actualites-presse/presse/)
     
-    * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
+    * [Contacts presse](https://sante.gouv.fr/actualites-presse/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
     
@@ -1715,7 +1715,7 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [Conflit en Ukraine](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/accueil-ukraine)
             * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
@@ -2363,17 +2363,17 @@ Recherche
 
 Recherche 
 
-* [Actualités/Presse](https://sante.gouv.fr/actualites/)
+* [Actualités/Presse](https://sante.gouv.fr/actualites-presse/)
     
     Retour
     
-    * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    * [Actualités du ministère](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/)
     
-    * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    * [Evénements](https://sante.gouv.fr/actualites-presse/evenements/)
     
-    * [Presse](https://sante.gouv.fr/actualites/presse/)
+    * [Presse](https://sante.gouv.fr/actualites-presse/presse/)
     
-    * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
+    * [Contacts presse](https://sante.gouv.fr/actualites-presse/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
     
@@ -2448,7 +2448,7 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [Conflit en Ukraine](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/accueil-ukraine)
             * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
@@ -2794,17 +2794,17 @@ Recherche
 
 Recherche 
 
-* [Actualités/Presse](https://sante.gouv.fr/actualites/)
+* [Actualités/Presse](https://sante.gouv.fr/actualites-presse/)
     
     Retour
     
-    * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    * [Actualités du ministère](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/)
     
-    * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    * [Evénements](https://sante.gouv.fr/actualites-presse/evenements/)
     
-    * [Presse](https://sante.gouv.fr/actualites/presse/)
+    * [Presse](https://sante.gouv.fr/actualites-presse/presse/)
     
-    * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
+    * [Contacts presse](https://sante.gouv.fr/actualites-presse/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
     
@@ -2879,7 +2879,7 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [Conflit en Ukraine](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/accueil-ukraine)
             * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
@@ -3225,17 +3225,17 @@ Recherche
 
 Recherche 
 
-* [Actualités/Presse](https://sante.gouv.fr/actualites/)
+* [Actualités/Presse](https://sante.gouv.fr/actualites-presse/)
     
     Retour
     
-    * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    * [Actualités du ministère](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/)
     
-    * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    * [Evénements](https://sante.gouv.fr/actualites-presse/evenements/)
     
-    * [Presse](https://sante.gouv.fr/actualites/presse/)
+    * [Presse](https://sante.gouv.fr/actualites-presse/presse/)
     
-    * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
+    * [Contacts presse](https://sante.gouv.fr/actualites-presse/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
     
@@ -3310,7 +3310,7 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [Conflit en Ukraine](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/accueil-ukraine)
             * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
@@ -3656,17 +3656,17 @@ Recherche
 
 Recherche 
 
-* [Actualités/Presse](https://sante.gouv.fr/actualites/)
+* [Actualités/Presse](https://sante.gouv.fr/actualites-presse/)
     
     Retour
     
-    * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    * [Actualités du ministère](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/)
     
-    * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    * [Evénements](https://sante.gouv.fr/actualites-presse/evenements/)
     
-    * [Presse](https://sante.gouv.fr/actualites/presse/)
+    * [Presse](https://sante.gouv.fr/actualites-presse/presse/)
     
-    * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
+    * [Contacts presse](https://sante.gouv.fr/actualites-presse/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
     
@@ -3741,7 +3741,7 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [Conflit en Ukraine](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/accueil-ukraine)
             * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
@@ -4087,17 +4087,17 @@ Recherche
 
 Recherche 
 
-* [Actualités/Presse](https://sante.gouv.fr/actualites/)
+* [Actualités/Presse](https://sante.gouv.fr/actualites-presse/)
     
     Retour
     
-    * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    * [Actualités du ministère](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/)
     
-    * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    * [Evénements](https://sante.gouv.fr/actualites-presse/evenements/)
     
-    * [Presse](https://sante.gouv.fr/actualites/presse/)
+    * [Presse](https://sante.gouv.fr/actualites-presse/presse/)
     
-    * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
+    * [Contacts presse](https://sante.gouv.fr/actualites-presse/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
     
@@ -4172,7 +4172,7 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [Conflit en Ukraine](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/accueil-ukraine)
             * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
@@ -4518,17 +4518,17 @@ Recherche
 
 Recherche 
 
-* [Actualités/Presse](https://sante.gouv.fr/actualites/)
+* [Actualités/Presse](https://sante.gouv.fr/actualites-presse/)
     
     Retour
     
-    * [Actualités du ministère](https://sante.gouv.fr/actualites/actualites-du-ministere/)
+    * [Actualités du ministère](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/)
     
-    * [Evénements](https://sante.gouv.fr/actualites/evenements/)
+    * [Evénements](https://sante.gouv.fr/actualites-presse/evenements/)
     
-    * [Presse](https://sante.gouv.fr/actualites/presse/)
+    * [Presse](https://sante.gouv.fr/actualites-presse/presse/)
     
-    * [Contacts presse](https://sante.gouv.fr/actualites/presse/contacts-presse/article/contacts-presse)
+    * [Contacts presse](https://sante.gouv.fr/actualites-presse/presse/contacts-presse/article/contacts-presse)
     
 * [Grands dossiers](https://sante.gouv.fr/grands-dossiers/)
     
@@ -4603,7 +4603,7 @@ Recherche
     * * [Europe et International](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-            * [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+            * [Conflit en Ukraine](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/accueil-ukraine)
             * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
             
             * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
@@ -4979,7 +4979,7 @@ Retour
 Retour
 
 * [Actualités européennes et internationales](https://sante.gouv.fr/ministere/europe-et-international/actualites-europeennes-et-internationales/)
-* [Conflit en Ukraine](https://sante.gouv.fr/actualites/actualites-du-ministere/accueil-ukraine)
+* [Conflit en Ukraine](https://sante.gouv.fr/actualites-presse/actualites-du-ministere/accueil-ukraine)
 * [L’Union européenne de la santé](https://sante.gouv.fr/ministere/europe-et-international/)
 
 * [La santé mondiale](https://sante.gouv.fr/ministere/europe-et-international/la-sante-mondiale/)
