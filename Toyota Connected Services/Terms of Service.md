@@ -20,25 +20,25 @@ NOTE THAT THESE TERMS APPLY ONLY TO THESE SITES; OTHER SITES PROVIDED BY TOYOTA 
 
 These Sites are for your personal, non-commercial use. Any other use of the Sites requires the prior written consent of Toyota.
 
-1. **[DESCRIPTION OF THE SITES](#_1)**
-2. **[SIGN UP TO RECEIVE INFORMATION; ACCOUNT REGISTRATION](#_2)**
-3. **[OWNERSHIP AND USE OF THE SITES](#_3)**
-4. **[RESTRICTIONS ON ACCESSING AND USING THE SITES](#_4)**
-5. **[MOBILE SERVICES/APPLICATIONS AVAILABLE THROUGH THE SITES](#_5)**
-6. **[DOWNLOADS FROM THE SITES](#_6)**
-7. **[THIRD-PARTY PRODUCTS AND SERVICES AND LINKS](#_7)**
-8. **[USER-GENERATED CONTENT](#_8)**
-9. **[COPYRIGHT AGENT](#_9)**
-10. **[OTHER COMPLAINTS AND COMMENTS TO TOYOTA](#_10)**
-11. **[FORWARD TO A FRIEND OPPORTUNITIES](#_11)**
-12. **[PRIVACY](#_12)**
-13. **[INDEMNITY AND HOLD HARMLESS](#_13)**
-14. **[DISCLAIMER OF WARRANTIES](#_14)**
-15. **[LIMITATION OF LIABILITIES](#_15)**
-16. **[NO OFFER TO SELL OR LEASE](#_16)**
-17. **[MISCELLANEOUS](#_17)**
-18. **[DISPUTES/ARBITRATION](#_18)**
-19. **[CONTACT US](#_19)**
+1.  **[DESCRIPTION OF THE SITES](#_1)**
+2.  **[SIGN UP TO RECEIVE INFORMATION; ACCOUNT REGISTRATION](#_2)**
+3.  **[OWNERSHIP AND USE OF THE SITES](#_3)**
+4.  **[RESTRICTIONS ON ACCESSING AND USING THE SITES](#_4)**
+5.  **[MOBILE SERVICES/APPLICATIONS AVAILABLE THROUGH THE SITES](#_5)**
+6.  **[DOWNLOADS FROM THE SITES](#_6)**
+7.  **[THIRD-PARTY PRODUCTS AND SERVICES AND LINKS](#_7)**
+8.  **[USER-GENERATED CONTENT](#_8)**
+9.  **[COPYRIGHT AGENT](#_9)**
+10.  **[OTHER COMPLAINTS AND COMMENTS TO TOYOTA](#_10)**
+11.  **[FORWARD TO A FRIEND OPPORTUNITIES](#_11)**
+12.  **[PRIVACY](#_12)**
+13.  **[INDEMNITY AND HOLD HARMLESS](#_13)**
+14.  **[DISCLAIMER OF WARRANTIES](#_14)**
+15.  **[LIMITATION OF LIABILITIES](#_15)**
+16.  **[NO OFFER TO SELL OR LEASE](#_16)**
+17.  **[MISCELLANEOUS](#_17)**
+18.  **[DISPUTES/ARBITRATION](#_18)**
+19.  **[CONTACT US](#_19)**
 
 1\. DESCRIPTION OF THE SITES.
 
@@ -72,14 +72,14 @@ Toyota reserves the right at any time and from time to time to modify, suspend, 
 
 As a condition to accessing and using the Sites in accordance with the license granted to you under these Terms, you agree to comply with the following rules:
 
-1. You may not copy, download, distribute (including without limitation, forwarding to others), modify, publish, transmit, display, sell, license, use, reuse or create derivative works of any of the Content or other material displayed on the Sites, including without limitation, any trademark of Toyota or its affiliated companies, for any purpose whatsoever without our written consent and/or the consent of any third party we deem necessary;
-2. You may not access or use any of the Sites in any way that could or is intended to damage or impair the operation of the Sites, or any Content of or material displayed on any of the Sites, or any server or network underlying the Sites, or in any way that interferes with anyone else's use and enjoyment of any of the Sites;
-3. You may not frame or use framing techniques to enclose any part of the Sites without Toyota's prior written consent;
-4. You may not access or use any of the Sites in any way that could or is intended to threaten, defame, abuse, assault, stalk, harass or otherwise violate the rights of any other person or entity, including without limitation, their rights of privacy or publicity;
-5. You may not "spam" others or "phish" for, collect or store personal information about others;
-6. You may not access or attempt to access any data, information, system or servers on which the Sites are hosted or modify or alter the Sites in any way;
-7. You may not transmit or broadcast any commercial messages, text, photographs, video or audio content to or through any of the Sites; and/or
-8. You may not link or "deeplink" to, frame, or otherwise, reproduce any of the Sites without our prior consent, except that you may identify Toyota products by name or link to the Sites if you comply with the Guidelines for External Sites set forth below.
+1.  You may not copy, download, distribute (including without limitation, forwarding to others), modify, publish, transmit, display, sell, license, use, reuse or create derivative works of any of the Content or other material displayed on the Sites, including without limitation, any trademark of Toyota or its affiliated companies, for any purpose whatsoever without our written consent and/or the consent of any third party we deem necessary;
+2.  You may not access or use any of the Sites in any way that could or is intended to damage or impair the operation of the Sites, or any Content of or material displayed on any of the Sites, or any server or network underlying the Sites, or in any way that interferes with anyone else's use and enjoyment of any of the Sites;
+3.  You may not frame or use framing techniques to enclose any part of the Sites without Toyota's prior written consent;
+4.  You may not access or use any of the Sites in any way that could or is intended to threaten, defame, abuse, assault, stalk, harass or otherwise violate the rights of any other person or entity, including without limitation, their rights of privacy or publicity;
+5.  You may not "spam" others or "phish" for, collect or store personal information about others;
+6.  You may not access or attempt to access any data, information, system or servers on which the Sites are hosted or modify or alter the Sites in any way;
+7.  You may not transmit or broadcast any commercial messages, text, photographs, video or audio content to or through any of the Sites; and/or
+8.  You may not link or "deeplink" to, frame, or otherwise, reproduce any of the Sites without our prior consent, except that you may identify Toyota products by name or link to the Sites if you comply with the Guidelines for External Sites set forth below.
 
 In addition, you agree to comply with all applicable laws, regulations and other legal requirements relating to your access to and use of the Sites.
 
@@ -141,20 +141,20 @@ You agree to each of the conditions in this Agreement and further agree that eac
 
 You agree that you will not use the Sites to:
 
-1. upload, post, email or otherwise transmit any User Content that is unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, pornographic, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise unlawful or objectionable (including without limitation, nudity and depiction of drug use);
-2. harm minors in any way;
-3. impersonate any person or entity, including, but not limited to a representative of Toyota, or falsely state or otherwise misrepresent your affiliation with a person or entity;
-4. forge headers or otherwise manipulate identifiers in order to disguise the origin of any User Content transmitted through the Sites;
-5. upload, post, email or otherwise transmit any User Content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);
-6. upload, post, email or otherwise transmit any User Content that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party;
-7. upload, post, email or otherwise transmit any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes" or any other form of solicitation, except in those areas that are designated for such purpose;
-8. upload, post, email or otherwise transmit any material that contains software viruses or any other computer code, files or programs designed to interrupt, emulate, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
-9. disrupt the normal flow of dialogue, cause a screen to "scroll" faster than other users of the Sites are able to type, or otherwise act in a manner that negatively affects other users' ability to engage in real-time exchanges;
-10. interfere with or disrupt the Sites or servers or networks connected to the Sites, or disobey any requirements, procedures, policies or regulations of networks connected to the Sites;
-11. "stalk" or otherwise harass another;
-12. collect or store personal information or data about other Visitors or users of the Sites, or disclose another user's or Visitor's personal information or data to any third party;
-13. solicit personal information or data from anyone under 18 years of age; and/or
-14. "bot," "hack," "crack" or otherwise attempt to circumvent any access control, copyright protection or license-enforcement mechanisms associated with or related to the Sites.
+1.  upload, post, email or otherwise transmit any User Content that is unlawful, harmful, threatening, abusive, harassing, defamatory, vulgar, obscene, pornographic, libelous, invasive of another's privacy, hateful, or racially, ethnically or otherwise unlawful or objectionable (including without limitation, nudity and depiction of drug use);
+2.  harm minors in any way;
+3.  impersonate any person or entity, including, but not limited to a representative of Toyota, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+4.  forge headers or otherwise manipulate identifiers in order to disguise the origin of any User Content transmitted through the Sites;
+5.  upload, post, email or otherwise transmit any User Content that you do not have a right to transmit under any law or under contractual or fiduciary relationships (such as inside information, proprietary and confidential information learned or disclosed as part of employment relationships or under nondisclosure agreements);
+6.  upload, post, email or otherwise transmit any User Content that infringes any patent, trademark, trade secret, copyright or other proprietary rights of any party;
+7.  upload, post, email or otherwise transmit any unsolicited or unauthorized advertising, promotional materials, "junk mail," "spam," "chain letters," "pyramid schemes" or any other form of solicitation, except in those areas that are designated for such purpose;
+8.  upload, post, email or otherwise transmit any material that contains software viruses or any other computer code, files or programs designed to interrupt, emulate, destroy or limit the functionality of any computer software or hardware or telecommunications equipment;
+9.  disrupt the normal flow of dialogue, cause a screen to "scroll" faster than other users of the Sites are able to type, or otherwise act in a manner that negatively affects other users' ability to engage in real-time exchanges;
+10.  interfere with or disrupt the Sites or servers or networks connected to the Sites, or disobey any requirements, procedures, policies or regulations of networks connected to the Sites;
+11.  "stalk" or otherwise harass another;
+12.  collect or store personal information or data about other Visitors or users of the Sites, or disclose another user's or Visitor's personal information or data to any third party;
+13.  solicit personal information or data from anyone under 18 years of age; and/or
+14.  "bot," "hack," "crack" or otherwise attempt to circumvent any access control, copyright protection or license-enforcement mechanisms associated with or related to the Sites.
 
 You understand that by using the Sites, you may be exposed to User Content created by others that is offensive, indecent or objectionable. Toyota does not endorse or have control over what is posted as User Content. User Content is not reviewed by Toyota prior to posting and does not reflect the opinions or policies of Toyota. Toyota makes no representations or warranties, express or implied as to the User Content or the accuracy and reliability of the User Content or any other material or information that you may access through the Sites. Toyota assumes no responsibility for monitoring the Sites for inappropriate submissions or conduct, but reserves the right to do so. If at any time Toyota chooses, in its sole discretion, to monitor the Sites, Toyota nonetheless assumes no responsibility for the User Content, has no obligation to modify or remove any inappropriate User Content, and has no responsibility for the conduct of the users or Visitors submitting any such User Content. Notwithstanding the foregoing, Toyota and its designees shall have the right to remove any User Content at any time, without notice and for any reason, including but not limited to, content that violates this Agreement or is otherwise objectionable, in Toyota's sole discretion. You agree that you must evaluate, and bear all risks associated with, the use of any User Content, including any reliance on the accuracy, completeness, or usefulness of such User Content. In this regard, you acknowledge that you may not rely on any User Content. Toyota may store User Content indefinitely. However, Toyota has no obligation to store User Content or make it available to you in the future.
 
