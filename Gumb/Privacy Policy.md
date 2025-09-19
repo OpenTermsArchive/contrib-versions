@@ -70,17 +70,17 @@ In the case you are using the website purely for information purposes, i.e., if 
 
 If you wish to use our apps, we collect the following personal data that is technically necessary for us to offer you the features of our products (legal basis is Article 6, paragraph 1 sentence 1 (f) GDPR) and to ensure stability and security (legal basis is Article 6, paragraph 1 sentence 1 (f) GDPR):
 
-* IP Address
-* Device Type
-* Date and time of the request
-* time zone difference to Greenwich Mean Time (GMT)
-* content of the request (concrete page)
-* access status/HTTP status code
-* amount of data transferred in each case
-* website/app that the request comes from, if applicable
-* Browser, if applicable
-* Operating system, and its interface
-* Language and version of the browser software, if applicable
+*   IP Address
+*   Device Type
+*   Date and time of the request
+*   time zone difference to Greenwich Mean Time (GMT)
+*   content of the request (concrete page)
+*   access status/HTTP status code
+*   amount of data transferred in each case
+*   website/app that the request comes from, if applicable
+*   Browser, if applicable
+*   Operating system, and its interface
+*   Language and version of the browser software, if applicable
 
   
 
@@ -102,8 +102,8 @@ Of course, you can revoke this consent at any time in the future. We delete the 
 
 You have the opportunity to register with us and create a customer account. For the registration we collect and store the following data:
 
-* Email address (username)
-* Password
+*   Email address (username)
+*   Password
 
 After registration, you will receive personal, password-protected access and can view and manage the data you have provided. Registration is voluntary but may be required to use our services. If you use our service, we store your data and possibly also details of the payment method required to fulfill the contract, until you finally delete your account. Furthermore, we will store the voluntary data you provide for the time of your use of the app, unless you delete it before. All information can be managed and changed in your account. The legal basis for this is Article 6, paragraph 1 sentence 1 (b) and (f) GDPR.
 
@@ -119,9 +119,9 @@ For technical reasons, we also log which planning functions and the number of ev
 
 Users with special privileges, for instance, board members of a club with admin rights in the app, have the ability to pre-register customer accounts. For this purpose, we only collect and store:
 
-* Email address
-* First and last name
-* Temporary password
+*   Email address
+*   First and last name
+*   Temporary password
 
 The responsibility for the legality of this preliminary registration, as well as obtaining any necessary consents, rests entirely with the user having these special privileges. Gumb merely provides the technical platform and assumes no liability for actions or omissions of the user with special privileges. Any individual privacy policies of the user with special privileges are independent of Gumb's policies, and we have no influence over them.
 
@@ -277,14 +277,14 @@ We use the function 'anonymizeIP' (so-called IP-Masking): Due to the activation 
 
 During your app use the following data will be collected:
 
-* The pages you call up, your "click behavior“
-* Achievement of "website / apps goals" (conversions, e.g., newsletter registrations, downloads, purchases)
-* Your user behavior (for example clicks, dwell time, bounce rates)
-* Your approximate location (region)
-* Your IP addresses (in abbreviated form)
-* Technical information about your browser and the end devices you use (e.g., language settings, screen resolution)
-* Your internet provider
-* The referrer URL (via which website/advertising medium you came to this website/apps)
+*   The pages you call up, your "click behavior“
+*   Achievement of "website / apps goals" (conversions, e.g., newsletter registrations, downloads, purchases)
+*   Your user behavior (for example clicks, dwell time, bounce rates)
+*   Your approximate location (region)
+*   Your IP addresses (in abbreviated form)
+*   Technical information about your browser and the end devices you use (e.g., language settings, screen resolution)
+*   Your internet provider
+*   The referrer URL (via which website/advertising medium you came to this website/apps)
 
   
 
@@ -298,7 +298,7 @@ On behalf of the operator of this app, Google will use this information to evalu
 
 The data recipient is 
 
-* Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland
+*   Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland
 
 as a data processor. For this purpose, we have concluded a contract with Google. Google LLC, headquartered in California, USA, and, if applicable, US authorities can access the data stored at Google.
 
@@ -318,8 +318,8 @@ The data sent by us and linked to cookies is automatically deleted after 2 month
 
 You can also prevent the collection of data generated by the cookie and related to your use of the app (including your IP address) to Google and the processing of this data by Google by
 
-* not giving your consent to the settings of the cookie or
-* downloading and installing the browser add-on to disable Google Analytics [HERE](https://tools.google.com/dlpage/gaoptout?hl=en).
+*   not giving your consent to the settings of the cookie or
+*   downloading and installing the browser add-on to disable Google Analytics [HERE](https://tools.google.com/dlpage/gaoptout?hl=en).
 
   
 
@@ -491,9 +491,9 @@ You can apply for a job with us online via our application portal. We process yo
 
 The following data can be processed by us in the application process:
 
-* Master data (title, first name, surname, if necessary date of birth)
-* Contact data (address, telephone, or mobile phone number, private email address)
-* Application data (e.g., profile picture as well as other documents such as CV, cover letter, overall application, certificates).
+*   Master data (title, first name, surname, if necessary date of birth)
+*   Contact data (address, telephone, or mobile phone number, private email address)
+*   Application data (e.g., profile picture as well as other documents such as CV, cover letter, overall application, certificates).
 
 If we are unable to offer you a position, you reject an offer of a position or withdraw your application, we reserve the right to store the data you have transmitted based on our legitimate interests (Art. 6 para. 1 f) of the GDPR) for up to 6 months as of the end of the application process (rejection or withdrawal of the application). The data is then deleted and the physical application documents destroyed. In particular, data is stored for evidence purposes in the event of a legal dispute. If the data will be foreseeably required after the 12-month period has expired (e.g., due to an impending or pending legal dispute), deletion will only take place if the purpose of further storage is no longer applicable.
 
