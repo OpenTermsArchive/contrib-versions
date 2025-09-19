@@ -98,12 +98,12 @@ Customer and partner data
 
 We collect and process basic information, such as
 
-* name
-* date of birth
-* gender
-* traveller type (adult, child, infant)
-* title (Mr, Mrs, Ms)
-* contact information, such as address, billing address, ground transportation address, telephone number and email address.
+*   name
+*   date of birth
+*   gender
+*   traveller type (adult, child, infant)
+*   title (Mr, Mrs, Ms)
+*   contact information, such as address, billing address, ground transportation address, telephone number and email address.
 
 Personal information may be processed, for example, regarding the person travelling, the person making the booking, the emergency contact person, legal guardians or dependents.
 
@@ -111,12 +111,12 @@ Personal information may be processed, for example, regarding the person travell
 
 In order to make your journey possible, we process **booking and ticket information as well as baggage handling details**. This may include:
 
-* booking reference number, ticket number, pricing information
-* flight details (departure dates and times, flight number)
-* flight itinerary (journey origin and destination and possible stopovers)
-* booking date, travel type (one-way or return)
-* travel class, seat type and number
-* baggage tag codes, routing and possible security screening details.
+*   booking reference number, ticket number, pricing information
+*   flight details (departure dates and times, flight number)
+*   flight itinerary (journey origin and destination and possible stopovers)
+*   booking date, travel type (one-way or return)
+*   travel class, seat type and number
+*   baggage tag codes, routing and possible security screening details.
 
 At your request, we may also process **special service request information**. These types of requests may involve, for example, meal information, transporting pets in the cabin or in the cargo hold, or required special assistance.
 
@@ -295,41 +295,41 @@ Finnair Plus member and Finnair account data
 
 We collect and process the basic personal data you submit about you or your children when creating your Finnair Plus or Finnair account profile. This may include the following information:
 
-* name
-* date of birth
-* gender
-* family size and other residential information
-* title (Mr, Mrs, Ms)
-* contact information, such as addresses, telephone number and email address
-* occupational data – profession or occupation, name of employer, employer address and work telephone number
-* travel document information – passport number, passport validity period, issuing country for passport and nationality.
+*   name
+*   date of birth
+*   gender
+*   family size and other residential information
+*   title (Mr, Mrs, Ms)
+*   contact information, such as addresses, telephone number and email address
+*   occupational data – profession or occupation, name of employer, employer address and work telephone number
+*   travel document information – passport number, passport validity period, issuing country for passport and nationality.
 
   
 We process information regarding your membership status and history as well as data regarding your personal preferences and your use of membership benefits. This includes the following information:
 
-* membership and profile information – membership commencement date, type and campaign, seat preference (aisle or window)
-* membership card information – membership number, date of issue of last membership card, expiry date
-* membership tier information – tier history, tier points total, number of tier flights, membership tier, flight ticket price accrual, tier date details
-* Avios and tier points information – total Avios and tier points collected during membership, total Avios spent, total Avios available, total expired Avios
-* transaction data – all transactions and purchases that involve your membership
-* event-specific information – date of event, event details, such as product name, Avios and tier points collected or spent, service provider’s name, document number (ticket number or another document number) 
-* information about whether the customer has a combined Finnair Plus credit card
-* interests and preferences – leisure interests, meal preference and other interests provided by the member
-* marketing data – dispatch dates of marketing communications and Avios and tier point statements, details of campaigns offered to customer and copies of marketing letters sent to customer 
-* airport services – information about airport services, such as the use of lounge services, check-in services and baggage handling services and other airport service details
-* Direct marketing-related consents and opt-outs (unsubscriptions).
+*   membership and profile information – membership commencement date, type and campaign, seat preference (aisle or window)
+*   membership card information – membership number, date of issue of last membership card, expiry date
+*   membership tier information – tier history, tier points total, number of tier flights, membership tier, flight ticket price accrual, tier date details
+*   Avios and tier points information – total Avios and tier points collected during membership, total Avios spent, total Avios available, total expired Avios
+*   transaction data – all transactions and purchases that involve your membership
+*   event-specific information – date of event, event details, such as product name, Avios and tier points collected or spent, service provider’s name, document number (ticket number or another document number) 
+*   information about whether the customer has a combined Finnair Plus credit card
+*   interests and preferences – leisure interests, meal preference and other interests provided by the member
+*   marketing data – dispatch dates of marketing communications and Avios and tier point statements, details of campaigns offered to customer and copies of marketing letters sent to customer 
+*   airport services – information about airport services, such as the use of lounge services, check-in services and baggage handling services and other airport service details
+*   Direct marketing-related consents and opt-outs (unsubscriptions).
 
   
 Your profile also contains the data of your flights as Finnair Plus member or Finnair account holder:
 
-* flight number
-* point of departure and destination of the flight
-* travel class
-* airline code
-* travel agency that made the booking
-* price information of the ticket
-* code name for business travel booking and other booking information
-* travel partner information – name of the partner
+*   flight number
+*   point of departure and destination of the flight
+*   travel class
+*   airline code
+*   travel agency that made the booking
+*   price information of the ticket
+*   code name for business travel booking and other booking information
+*   travel partner information – name of the partner
 
 ### How we use your data
 
@@ -432,20 +432,20 @@ Finnair Plc Business ID: 0108023-3 Address: Tietotie 9 01530 VANTAA, FINLAND
 
 **Kindly note the following:**
 
-* If we have obtained your contact details in the context of a sale of our products and services, we can use these contact details for marketing communications of our own similar products or services and ancillary services related to your trip via email based on applicable legislation on privacy in electronic communications. When we use your contact details in such a way, we will give you an opportunity to opt out from such use of your contact details in each email. You will find the opt-out link at the bottom of each of our emails.
-* In our marketing communications via email, we provide you with a link to opt out from receiving such communications, to manage your consent and preferences. In this way, we enable you to choose whether you wish to receive our marketing communications.
-* Withdrawing your consent later does not affect the legality of processing your personal data for marketing communications purposes before you withdrew your consent.
-* Whether or not you have given your consent for receiving our personalised advertising, you may still see our non-personalised, general advertisements on our own digital touchpoints and on third-party channels where we advertise our services.
-* Except for marketing communications, we will always send you customer communications that concern the status, changes, and continuation of the products and services you have bought from us. We will do this based on your relationship with us as our customer without your consent.
+*   If we have obtained your contact details in the context of a sale of our products and services, we can use these contact details for marketing communications of our own similar products or services and ancillary services related to your trip via email based on applicable legislation on privacy in electronic communications. When we use your contact details in such a way, we will give you an opportunity to opt out from such use of your contact details in each email. You will find the opt-out link at the bottom of each of our emails.
+*   In our marketing communications via email, we provide you with a link to opt out from receiving such communications, to manage your consent and preferences. In this way, we enable you to choose whether you wish to receive our marketing communications.
+*   Withdrawing your consent later does not affect the legality of processing your personal data for marketing communications purposes before you withdrew your consent.
+*   Whether or not you have given your consent for receiving our personalised advertising, you may still see our non-personalised, general advertisements on our own digital touchpoints and on third-party channels where we advertise our services.
+*   Except for marketing communications, we will always send you customer communications that concern the status, changes, and continuation of the products and services you have bought from us. We will do this based on your relationship with us as our customer without your consent.
 
 **Under the GDPR, you also have the following rights regarding your personal data:**
 
-* **Right to access:** You can request a copy of the personal data that we hold of you.
-* **Right to rectification:** You can ask us to correct any inaccurate or incomplete personal data.
-* **Right to erasure:** You can request that we delete your personal data under certain conditions.
-* **Right to restrict processing:** You can ask us to restrict the processing of your personal data in certain circumstances.
-* **Right to data portability:** When we process your personal data based on your consent, you can request to receive your personal data in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller.
-* **Right to object:** You can object to the processing of your personal data based on our legitimate interest for marketing communications purposes at any time. 
+*   **Right to access:** You can request a copy of the personal data that we hold of you.
+*   **Right to rectification:** You can ask us to correct any inaccurate or incomplete personal data.
+*   **Right to erasure:** You can request that we delete your personal data under certain conditions.
+*   **Right to restrict processing:** You can ask us to restrict the processing of your personal data in certain circumstances.
+*   **Right to data portability:** When we process your personal data based on your consent, you can request to receive your personal data in a structured, commonly used and machine-readable format and have the right to transmit those data to another controller.
+*   **Right to object:** You can object to the processing of your personal data based on our legitimate interest for marketing communications purposes at any time. 
 
 Please refer to [our general privacy policy](https://www.finnair.com/en/info/finnair-privacy-policy#hello--we-want-to-make-sure-you-are-on-board-with-us-when-it-comes-to-the-use-of-your-data-) on how to use the above rights.
 
@@ -459,76 +459,76 @@ In any issues concerning the processing of your personal data, you may contact t
 
 **If you have accepted performance cookies**, we collect and process the following personal data:
 
-* **Personal identification information:** Randomised ID given to you when you visit our digital touchpoints. We will not collect any of your payment details for marketing communications purposes.
-* **Marketing-related preferences:** Information about your preferences and interests related to our products and services.
-* **Behavioural data:** Information about your online behaviour, collected through usage of our website and the Finnair app.
+*   **Personal identification information:** Randomised ID given to you when you visit our digital touchpoints. We will not collect any of your payment details for marketing communications purposes.
+*   **Marketing-related preferences:** Information about your preferences and interests related to our products and services.
+*   **Behavioural data:** Information about your online behaviour, collected through usage of our website and the Finnair app.
 
 **If you have accepted content personalisation cookies**, we collect and process the following personal data:
 
-* **Personal identification information:** Randomised ID given to you when you visit our digital touchpoints. Additionally, if you complete a transaction or fill any form, we will collect your name, email address and any other details you provide. We will not collect any of your payment details for marketing communications purposes.
-* **Marketing-related preferences:** Information about your preferences and interests related to our products and services.
-* **Behavioural data:** Information about your online behaviour, collected through usage of our website and the Finnair app.
+*   **Personal identification information:** Randomised ID given to you when you visit our digital touchpoints. Additionally, if you complete a transaction or fill any form, we will collect your name, email address and any other details you provide. We will not collect any of your payment details for marketing communications purposes.
+*   **Marketing-related preferences:** Information about your preferences and interests related to our products and services.
+*   **Behavioural data:** Information about your online behaviour, collected through usage of our website and the Finnair app.
 
 **If you have accepted advertising cookies**, we collect and process the following personal data:
 
-* **Personal identification information:** Randomised ID given to you when you visit our digital touchpoints. We will not collect any of your payment details for marketing communications purposes.
-* **Marketing preferences:** Information about your preferences and interests related to our products and services.
-* **Behavioural data:** Information about your online behaviour, collected through our website, the Finnair app and third-party channels such as social media interactions.
+*   **Personal identification information:** Randomised ID given to you when you visit our digital touchpoints. We will not collect any of your payment details for marketing communications purposes.
+*   **Marketing preferences:** Information about your preferences and interests related to our products and services.
+*   **Behavioural data:** Information about your online behaviour, collected through our website, the Finnair app and third-party channels such as social media interactions.
 
 For more information about our use of cookies, please take a look at [our cookie policy](https://www.finnair.com/en/info/finnair-cookie-policy).
 
 **To deliver you marketing emails**, we additionally collect and process the following personal data:
 
-* **Personal identification information:** Randomised ID given to you when you visit our digital touchpoints, your name and email address.
-* **Interaction data:** Data about your interactions with our marketing communications (e.g. open rates, click-through rates).
-* **Your transactions with us:** Information about the flight(s) and other services you have bought and used with us. We will not collect any of your payment details for marketing communications purposes.
-* **Finnair Plus member’s additional personal identification information:** Your membership number, date of birth, gender. We will only process your postal address information if you have given that information to us.
-* **Finnair Plus member’s travel profile and interests:** Information related to your preferences and interests as a Finnair Plus member if you have given that information to us.
-* **Finnair Plus membership data:** Information about the date of becoming a Finnair Plus member, your tier status and personal tracking period in the Finnair Plus program. We will also process data about how much you have spent as a Finnair Plus member and if you have faced some disruptions during your journeys as a Finnair Plus member. We will also process the information about whether you have a credit card related to the Finnair Plus program or not, and whether you have linked your Finnair Plus account with another loyalty program.
-* **Finnair Plus member’s transaction history:** Information about the flight(s) and other services you have bought and used as a Finnair Plus member and the history of your collection and use of previous Finnair Plus award points and current Avios and tier points throughout your membership. We will not collect any of your payment details for marketing communications purposes.
+*   **Personal identification information:** Randomised ID given to you when you visit our digital touchpoints, your name and email address.
+*   **Interaction data:** Data about your interactions with our marketing communications (e.g. open rates, click-through rates).
+*   **Your transactions with us:** Information about the flight(s) and other services you have bought and used with us. We will not collect any of your payment details for marketing communications purposes.
+*   **Finnair Plus member’s additional personal identification information:** Your membership number, date of birth, gender. We will only process your postal address information if you have given that information to us.
+*   **Finnair Plus member’s travel profile and interests:** Information related to your preferences and interests as a Finnair Plus member if you have given that information to us.
+*   **Finnair Plus membership data:** Information about the date of becoming a Finnair Plus member, your tier status and personal tracking period in the Finnair Plus program. We will also process data about how much you have spent as a Finnair Plus member and if you have faced some disruptions during your journeys as a Finnair Plus member. We will also process the information about whether you have a credit card related to the Finnair Plus program or not, and whether you have linked your Finnair Plus account with another loyalty program.
+*   **Finnair Plus member’s transaction history:** Information about the flight(s) and other services you have bought and used as a Finnair Plus member and the history of your collection and use of previous Finnair Plus award points and current Avios and tier points throughout your membership. We will not collect any of your payment details for marketing communications purposes.
 
 **To deliver you personalised advertising**, we additionally collect and process the following personal data:
 
-* **Personal identification information:** Your email address and phone number.
-* **Interaction data:** Data about your interactions with our marketing communications (e.g. open rates, click-through rates).
-* **Your transactions with us:** Information about the flight(s) and other services you have bought and used with us. We will not collect any payment details for marketing communications purposes.
-* **Finnair Plus member’s additional personal identification information:** Your membership number, date of birth, gender. We will only process your postal address information if you have given that information to us.
-* **Finnair Plus member’s travel profile and interests:** Information related to your preferences and interests as a Finnair Plus member if you have given that information to us.
-* **Finnair Plus membership data:** Information about the date of becoming a Finnair Plus member, your tier status and personal tracking period in the Finnair Plus program. We will also process data about how much you have spent as a Finnair Plus member and if you have faced some disruptions during your journeys as a Finnair Plus member. We will also process the information about whether you have a credit card related to the Finnair Plus program or not, and whether you have linked your Finnair Plus account with another loyalty program.
-* **Finnair Plus member’s transaction history:** Information about the flight(s) and other services you have bought and used as a Finnair Plus member and the history of your collection and use of previous Finnair Plus award points and current Avios and tier points throughout your membership. We will not collect any of your payment details for marketing communications purposes. 
+*   **Personal identification information:** Your email address and phone number.
+*   **Interaction data:** Data about your interactions with our marketing communications (e.g. open rates, click-through rates).
+*   **Your transactions with us:** Information about the flight(s) and other services you have bought and used with us. We will not collect any payment details for marketing communications purposes.
+*   **Finnair Plus member’s additional personal identification information:** Your membership number, date of birth, gender. We will only process your postal address information if you have given that information to us.
+*   **Finnair Plus member’s travel profile and interests:** Information related to your preferences and interests as a Finnair Plus member if you have given that information to us.
+*   **Finnair Plus membership data:** Information about the date of becoming a Finnair Plus member, your tier status and personal tracking period in the Finnair Plus program. We will also process data about how much you have spent as a Finnair Plus member and if you have faced some disruptions during your journeys as a Finnair Plus member. We will also process the information about whether you have a credit card related to the Finnair Plus program or not, and whether you have linked your Finnair Plus account with another loyalty program.
+*   **Finnair Plus member’s transaction history:** Information about the flight(s) and other services you have bought and used as a Finnair Plus member and the history of your collection and use of previous Finnair Plus award points and current Avios and tier points throughout your membership. We will not collect any of your payment details for marketing communications purposes. 
 
 **To show you personalised content in our own digital touchpoints**, we additionally collect and process the following personal data:
 
-* **Personal identification information:** Your name, email address and phone number.
-* **Interaction data:** Data about your interactions with our marketing communications (e.g. open rates, click-through rates).
-* **Your transactions with us:** Information about the flight(s) and other services you have bought and used with us. We will not collect any payment details for marketing communications purposes.
-* **Finnair Plus member’s additional personal identification information:** Your membership number, date of birth, gender. We will only process your postal address information if you have given that information to us.
-* **Finnair Plus member’s travel profile and interests:** Information related to your preferences and interests as a Finnair Plus member if you have given that information to us.
-* **Finnair Plus membership data:** Information about the date of becoming a Finnair Plus member, your tier status and personal tracking period in the Finnair Plus program. We will also process data about how much you have spent as a Finnair Plus member and if you have faced some disruptions during your journeys as a Finnair Plus member. We will also process the information about whether you have a credit card related to the Finnair Plus program or not, and whether you have linked your Finnair Plus account with another loyalty program.
-* **Finnair Plus member’s transaction history:** Information about the flight(s) and other services you have bought and used as a Finnair Plus member and the history of your collection and use of previous Finnair Plus award points and current Avios and tier points throughout your membership. We will not collect any of your payment details for marketing communications purposes.
+*   **Personal identification information:** Your name, email address and phone number.
+*   **Interaction data:** Data about your interactions with our marketing communications (e.g. open rates, click-through rates).
+*   **Your transactions with us:** Information about the flight(s) and other services you have bought and used with us. We will not collect any payment details for marketing communications purposes.
+*   **Finnair Plus member’s additional personal identification information:** Your membership number, date of birth, gender. We will only process your postal address information if you have given that information to us.
+*   **Finnair Plus member’s travel profile and interests:** Information related to your preferences and interests as a Finnair Plus member if you have given that information to us.
+*   **Finnair Plus membership data:** Information about the date of becoming a Finnair Plus member, your tier status and personal tracking period in the Finnair Plus program. We will also process data about how much you have spent as a Finnair Plus member and if you have faced some disruptions during your journeys as a Finnair Plus member. We will also process the information about whether you have a credit card related to the Finnair Plus program or not, and whether you have linked your Finnair Plus account with another loyalty program.
+*   **Finnair Plus member’s transaction history:** Information about the flight(s) and other services you have bought and used as a Finnair Plus member and the history of your collection and use of previous Finnair Plus award points and current Avios and tier points throughout your membership. We will not collect any of your payment details for marketing communications purposes.
 
 ### How we use your data
 
 #### Based on our legitimate interest
 
-* **Analytics and performance:** If you have accepted performance cookies, we measure traffic on our website and the Finnair app, identify returning customers, and understand how our customers use our website and the Finnair app.
-* **To create a profile about you:** If you have accepted content personalisation cookies, we create a profile about you based on your preferences, behaviour and personal identification data for marketing communications and content personalisation purposes. This profile is not shared with any third party unless you have given your consent to receive personalised advertising. The profile will not be used for automated decision-making or profiling that would produce legal effects concerning you.
-* **To enable third-party advertising tracking:** If you have accepted advertising cookies, we use third-party tracking pixels on our digital touchpoints which are technologies that enable our third-party partners to collect your behavioural data directly from our digital touchpoints. This allows us to optimise, measure and place targeted content on other websites and services through our third-party partners. Please see more information about how we share your data for targeted advertising under the section ‘How we share your data’.
-* **To enrich your profile data:** If you have accepted content personalisation cookies, the profile that is created based on the data we collected with these cookies is further enriched based on your ongoing engagement with our digital touchpoints and data we have collected from you as our customer and as a Finnair Plus member. This does not include automated decision-making or profiling that would produce legal effects concerning you.
-* **Segmentation and personalisation:** We use your profile data to get more insight into how we can better serve you as a customer in the context of our whole customer base. This does not include automated decision-making or profiling that would produce legal effects concerning you.
-* **To personalise our marketing communications content:** We tailor the content for our marketing communications channels and personalise content in our own digital touchpoints based on your profile and the other data we collect and process about you (as explained above). This profiling allows us to segment our customer base and provide you with marketing communications content that is relevant to you and is likely to interest you as our potential or existing customer and a Finnair Plus member. This does not include automated decision-making or profiling that would produce legal effects concerning you.
+*   **Analytics and performance:** If you have accepted performance cookies, we measure traffic on our website and the Finnair app, identify returning customers, and understand how our customers use our website and the Finnair app.
+*   **To create a profile about you:** If you have accepted content personalisation cookies, we create a profile about you based on your preferences, behaviour and personal identification data for marketing communications and content personalisation purposes. This profile is not shared with any third party unless you have given your consent to receive personalised advertising. The profile will not be used for automated decision-making or profiling that would produce legal effects concerning you.
+*   **To enable third-party advertising tracking:** If you have accepted advertising cookies, we use third-party tracking pixels on our digital touchpoints which are technologies that enable our third-party partners to collect your behavioural data directly from our digital touchpoints. This allows us to optimise, measure and place targeted content on other websites and services through our third-party partners. Please see more information about how we share your data for targeted advertising under the section ‘How we share your data’.
+*   **To enrich your profile data:** If you have accepted content personalisation cookies, the profile that is created based on the data we collected with these cookies is further enriched based on your ongoing engagement with our digital touchpoints and data we have collected from you as our customer and as a Finnair Plus member. This does not include automated decision-making or profiling that would produce legal effects concerning you.
+*   **Segmentation and personalisation:** We use your profile data to get more insight into how we can better serve you as a customer in the context of our whole customer base. This does not include automated decision-making or profiling that would produce legal effects concerning you.
+*   **To personalise our marketing communications content:** We tailor the content for our marketing communications channels and personalise content in our own digital touchpoints based on your profile and the other data we collect and process about you (as explained above). This profiling allows us to segment our customer base and provide you with marketing communications content that is relevant to you and is likely to interest you as our potential or existing customer and a Finnair Plus member. This does not include automated decision-making or profiling that would produce legal effects concerning you.
 
 #### Based on your consent
 
 **To deliver you marketing emails**
 
-* To deliver you marketing emails related to Finnair and Finnair Plus: If you have given your consent to receive our marketing emails, we will use your personal data to send you marketing emails about Finnair and Finnair Plus products, services, special offers, news and travel inspiration that may interest you.
-* To deliver you marketing emails related to Finnair Plus partners and events: If you are a Finnair Plus member and have given your consent to receive our exclusive membership offers from Finnair Plus partners and event invitations, we will use your personal data to send you marketing emails about exclusive membership offers from Finnair Plus partners’ products and services that may interest you, as well as our event invitations.
+*   To deliver you marketing emails related to Finnair and Finnair Plus: If you have given your consent to receive our marketing emails, we will use your personal data to send you marketing emails about Finnair and Finnair Plus products, services, special offers, news and travel inspiration that may interest you.
+*   To deliver you marketing emails related to Finnair Plus partners and events: If you are a Finnair Plus member and have given your consent to receive our exclusive membership offers from Finnair Plus partners and event invitations, we will use your personal data to send you marketing emails about exclusive membership offers from Finnair Plus partners’ products and services that may interest you, as well as our event invitations.
 
 **To deliver you personalised advertising**
 
-* To share and match your data with our third-party partners: If you have given your consent to receive our personalised advertising, we will share your data with third-party partners to facilitate data matching to enhance and personalise your experience with our brand.
-* To deliver you personalised advertising: If you have given your consent to receive our personalised advertising, we will use your personal data to conduct targeted marketing through third-party channels (e.g. media and social media platforms) by using information about your online behaviour to show you relevant advertisements
+*   To share and match your data with our third-party partners: If you have given your consent to receive our personalised advertising, we will share your data with third-party partners to facilitate data matching to enhance and personalise your experience with our brand.
+*   To deliver you personalised advertising: If you have given your consent to receive our personalised advertising, we will use your personal data to conduct targeted marketing through third-party channels (e.g. media and social media platforms) by using information about your online behaviour to show you relevant advertisements
 
 #### Legal basis for processing your data
 
@@ -544,23 +544,23 @@ We process your personal data for our own internal marketing communications purp
 
 We obtain your personal data when you:
 
-* Interact with our website and the Finnair app.
-* Buy a flight or other services and use those services with us.
-* Sign up for the Finnair Plus program and buy and use our services as a Finnair Plus member.
-* Sign up for our marketing communications.
-* Participate in surveys, promotions or events.
-* Participate in a campaign or fill in a form on a third-party platform related to our products and services.
+*   Interact with our website and the Finnair app.
+*   Buy a flight or other services and use those services with us.
+*   Sign up for the Finnair Plus program and buy and use our services as a Finnair Plus member.
+*   Sign up for our marketing communications.
+*   Participate in surveys, promotions or events.
+*   Participate in a campaign or fill in a form on a third-party platform related to our products and services.
 
 #### How we share your data
 
 We share your personal data with third parties who assist us with:
 
-* **Production, management and analytics:** We use third-party ICT providers to provide us with tools and services to produce and manage our marketing communications and content personalisation activities, as well as help us analyse the performance of our efforts. These ICT providers are contractually obligated to protect your personal data and only use your data according to our instructions on our behalf as our personal data processors. We ensure that these ICT providers comply with the applicable privacy and data protection legislation and that the transfer of your data from us is secure and applies legal and appropriate safeguards when such transfer is needed.
-* **Email marketing:** We use third-party providers to facilitate our email marketing campaigns and manage our mailing lists. These third-party providers are contractually obligated to protect your data and only use it according to our instructions as our personal data processors. We ensure that these third-party providers comply with the applicable privacy and data protection legislation and that the transfer of your data from us is secure and applies legal and appropriate safeguards when such transfer is needed.
-* **Targeted advertising:** If you have given your consent to advertising cookies or to receiving our personalised advertising or both, we share your personal data with our third-party partners that enable us to deliver targeted advertising through third-party channels and platforms. These third-party partners, which currently are Meta Platforms Ireland Limited and Google LLC, may act as a joint controller together with us and as an independent controller to whom your data is transferred for delivering you targeted advertising.
-    * Please note that when acting as an independent controller, these third-party partners may use your personal data for aggregation purposes and to infer and derive advertising-related segmentations and reports based on the aggregated data to be also used by other advertisers on the third-party platform.
-    * If you are a user of Meta Platforms Ireland Limited’s services such as Facebook and Instagram, you can learn more about your privacy rights on those platforms on [Facebook's website](https://www.facebook.com/privacy/policy).
-    * If you are a user of Google LLC’s services, you can learn more about your privacy rights on [Google’s website](https://policies.google.com/privacy?hl=en).
+*   **Production, management and analytics:** We use third-party ICT providers to provide us with tools and services to produce and manage our marketing communications and content personalisation activities, as well as help us analyse the performance of our efforts. These ICT providers are contractually obligated to protect your personal data and only use your data according to our instructions on our behalf as our personal data processors. We ensure that these ICT providers comply with the applicable privacy and data protection legislation and that the transfer of your data from us is secure and applies legal and appropriate safeguards when such transfer is needed.
+*   **Email marketing:** We use third-party providers to facilitate our email marketing campaigns and manage our mailing lists. These third-party providers are contractually obligated to protect your data and only use it according to our instructions as our personal data processors. We ensure that these third-party providers comply with the applicable privacy and data protection legislation and that the transfer of your data from us is secure and applies legal and appropriate safeguards when such transfer is needed.
+*   **Targeted advertising:** If you have given your consent to advertising cookies or to receiving our personalised advertising or both, we share your personal data with our third-party partners that enable us to deliver targeted advertising through third-party channels and platforms. These third-party partners, which currently are Meta Platforms Ireland Limited and Google LLC, may act as a joint controller together with us and as an independent controller to whom your data is transferred for delivering you targeted advertising.
+    *   Please note that when acting as an independent controller, these third-party partners may use your personal data for aggregation purposes and to infer and derive advertising-related segmentations and reports based on the aggregated data to be also used by other advertisers on the third-party platform.
+    *   If you are a user of Meta Platforms Ireland Limited’s services such as Facebook and Instagram, you can learn more about your privacy rights on those platforms on [Facebook's website](https://www.facebook.com/privacy/policy).
+    *   If you are a user of Google LLC’s services, you can learn more about your privacy rights on [Google’s website](https://policies.google.com/privacy?hl=en).
 
 If in any of our operations your personal data is transferred outside of the European Economic Area or the European Union, we will always use appropriate personal data transfer mechanisms and safeguards to ensure that your personal data is processed in accordance with applicable privacy and data protection laws. We also ensure that our ICT and other service providers do so and assess that our third-party partners implement similar, compliant practices to safeguard your personal data.
 
@@ -568,7 +568,7 @@ If in any of our operations your personal data is transferred outside of the Eur
 
 We retain your personal data for marketing communications purposes for as long as you continue to consent to receive our marketing communications and for content personalisation purposes until you object to our processing of your personal data for marketing communications and content personalisation purposes.
 
-* If you would like to withdraw your consent, you can withdraw your consent as informed under the section ‘How to withdraw consent and exercise your rights’ above. After withdrawing your consent, we will no longer send you marketing emails and you will no longer see our personalised advertisements on the third-party platforms. Your consent withdrawal will be effective for emails immediately and for personalised advertisements within 24 hours.
+*   If you would like to withdraw your consent, you can withdraw your consent as informed under the section ‘How to withdraw consent and exercise your rights’ above. After withdrawing your consent, we will no longer send you marketing emails and you will no longer see our personalised advertisements on the third-party platforms. Your consent withdrawal will be effective for emails immediately and for personalised advertisements within 24 hours.
 
 **Please note** that we will retain certain data if required by law, or for our legitimate business purposes unrelated to marketing communications or content personalisation purposes.
 
@@ -596,13 +596,13 @@ We aim to ensure that your consent is fully informed and given freely for any of
 
 Here’s what you can expect:
 
-* **Clear purpose:** We will always inform you about the specific reasons for collecting your data.
-* **Granular consent:** Whenever required, we will ask for your consent separately for different types of data processing activities.
-* **Easy withdrawal:** You can withdraw your consent at any time, and we will make this process simple for you.
-* **Ongoing communication:** We will keep you updated on how your data is used and inform you of any changes to our data processing practices.
-* **Data security:** Your data will be handled securely and in compliance with all relevant data protection laws and regulations.
-* **Transparency:** We will provide clear and accessible information about our data processing activities.
-* **User control:** You will have control over your personal data, with options to manage your preferences and settings easily.
+*   **Clear purpose:** We will always inform you about the specific reasons for collecting your data.
+*   **Granular consent:** Whenever required, we will ask for your consent separately for different types of data processing activities.
+*   **Easy withdrawal:** You can withdraw your consent at any time, and we will make this process simple for you.
+*   **Ongoing communication:** We will keep you updated on how your data is used and inform you of any changes to our data processing practices.
+*   **Data security:** Your data will be handled securely and in compliance with all relevant data protection laws and regulations.
+*   **Transparency:** We will provide clear and accessible information about our data processing activities.
+*   **User control:** You will have control over your personal data, with options to manage your preferences and settings easily.
 
 Thank you for trusting us with your personal data.
 
