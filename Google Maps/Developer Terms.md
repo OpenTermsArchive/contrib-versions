@@ -623,6 +623,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Faroese Environment Agency, Umhvørvisstovan (FO): [https://www.foroyakort.fo/](https://www.foroyakort.fo/) Faroe Islands, 2022
             
+        * Føroyakort (FO): [https://www.foroyakort.fo/um-foeroyakort/terms-and-conditions-in-english](https://www.foroyakort.fo/um-foeroyakort/terms-and-conditions-in-english)
+            
     16. **Fiji**
         * Fiji Ministry of Lands & Mineral Resource (FJ): [https://www.lands.gov.fj/](https://www.lands.gov.fj/)
             
@@ -1258,6 +1260,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Geodatenportal Sachsen-Anhalt: [https://www.lvermgeo.sachsen-anhalt.de/de/gdp-open-data.html](https://www.lvermgeo.sachsen-anhalt.de/de/gdp-open-data.html)
             
+        * Geoshop Rheinland Pfalz: [https://geoshop.rlp.de/digitale\_landschaftsmodelle/digitales\_basis-landschaftsmodell.html](https://geoshop.rlp.de/digitale_landschaftsmodelle/digitales_basis-landschaftsmodell.html)
+            
     21. **Great Britain**
         * This Service contains Ordnance Survey data © Crown copyright and database right 2011, Royal Mail data © Royal Mail copyright and database right 2011, and National Statistics data © Crown copyright and database right 2011 ([https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf](https://www.ordnancesurvey.co.uk/documents/licensing/data-exploration-licence.pdf)). All rights reserved. © South West Coast Path Team. Contains information of Network Rail Infrastructure Limited licensed under the following [licence](https://www.networkrail.co.uk/terms-and-conditions/). Contains public sector information licensed under the [Open Government Licence v2.0](https://www.nationalarchives.gov.uk/doc/open-government-licence/version/2/). Contains public sector information licensed under the Open Government Licence v3.0.
             
@@ -1558,9 +1562,9 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * この地図の作成にあたり、平凡社と平凡社地図出版からのライセンス提供を受けています。
             
-        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和7年 6 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
+        * 交承 平成 25 年 110 号 JR データの内容は、株式会社交通新聞社発行の「JR 時刻表」([https://www.kotsu.co.jp/jrlogo/](https://www.kotsu.co.jp/jrlogo/)) 令和7年 7 月号に基づ いています。この時刻データを無断で転載・複写し、又は紙媒体、電磁媒体その他いかなる媒体に加工することも禁じます。
             
-        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和7年 6 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
+        * JRバスデータの内容は、株式会社交通新聞社作成のデータ令和7年 7 月分に基づいています。この時刻データを無断転載・複写や電磁媒体等に加工することを禁じます。
             
         * ジオテクノロジーズ（株）の提供する地図データに基づいています。この地図データは世界各国の著作権法および国際的な著作権協定によって保護されています。Googleの利用規約類およびポリシーにより認められている場合を除き、当該データを無断転載／複写又は加工することを禁じます。[https://business.mapfan.com/aboutmap/](https://business.mapfan.com/aboutmap/)
             
@@ -1853,6 +1857,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         * [Data.gov.sg](https://data.gov.sg/) Contains information from "List of verified public access AED Locations" accessed on 2021 from [https://data.gov.sg/dataset/list-of-verified-public-access-aed-locations](https://data.gov.sg/dataset/list-of-verified-public-access-aed-locations) which is made available under the terms of the Singapore Open Data Licence version 1.0 [https://data.gov.sg/open-data-licence](https://data.gov.sg/open-data-licence)
             
         * Land Transport Authority [https://datamall.lta.gov.sg/content/datamall/en/SingaporeOpenDataLicence.html](https://datamall.lta.gov.sg/content/datamall/en/SingaporeOpenDataLicence.html)
+            
+        * LTA Data Mall [https://datamall.lta.gov.sg/content/datamall/en/api-terms-of-service.html](https://datamall.lta.gov.sg/content/datamall/en/api-terms-of-service.html)
             
     55. **Slovakia**
         * © Slovak Road Administration - [https://www.cdb.sk/sk/Novinky.alej](https://www.cdb.sk/sk/Novinky.alej)
@@ -2961,6 +2967,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
         * Croatia State Geodetic Administration (HR): [https://rgi.dgu.hr/](https://rgi.dgu.hr/) Political Boundaries, 2023
             
+        * Croatia State Geodetic Administration (HR): [https://data.gov.hr/otvorena-dozvola](https://data.gov.hr/otvorena-dozvola)
+            
     99. **Paraguay**
         * Datos Abiertos, 2023 (PY): [https://www.datos.gov.py/](https://www.datos.gov.py/)Postal codes licensed under: [https://www.paraguay.gov.py/datos-abiertos/licencias](https://www.paraguay.gov.py/datos-abiertos/licencias)
             
@@ -2972,6 +2980,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
         
     101. **Qatar**
         * The Humanitarian Data Exchange (QA): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
+            
+        * Qatar - Planning and Statistics Authority: [https://www.npc.qa/en/aboutus/pages/TermsOfUse.aspx](https://www.npc.qa/en/aboutus/pages/TermsOfUse.aspx)
             
     102. **Cameroon**
         * The Humanitarian Data Exchange (CM): [https://data.humdata.org/](https://data.humdata.org/) ; License provided at: [https://creativecommons.org/licenses/by/3.0/igo/legalcode](https://creativecommons.org/licenses/by/3.0/igo/legalcode)
@@ -3030,6 +3040,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
     118. **Peru**
         * Platforma Nacional de Datos Abiertos (PE): [https://www.datosabiertos.gob.pe/](https://www.datosabiertos.gob.pe/) Licensed under the ODC Attribution License
             
+        * Plataforma Nacional de Datos Abiertos Peru (PE): [https://www.datosabiertos.gob.pe/dataset/limites-departamentales](https://www.datosabiertos.gob.pe/dataset/limites-departamentales)
+            
     119. **Bosnia and Herzegovina**
         * The Federal Hydrometeorological Institute, FHMZ (BA): [https://www.fhmzbih.gov.ba/latinica/PRISTUP/index.php](https://www.fhmzbih.gov.ba/latinica/PRISTUP/index.php)
             
@@ -3038,6 +3050,8 @@ Unless otherwise specified, capitalized terms used in these Legal Notices have t
             
     121. **Puerto Rico**
         * United States Census Bureau: [https://www.census.gov/data/developers/about/terms-of-service.html](https://www.census.gov/data/developers/about/terms-of-service.html)
+            
+        * United States Census Bureau: [https://www.census.gov/about/policies/privacy.html](https://www.census.gov/about/policies/privacy.html)
             
     122. **Vietnam**
         * Humanitarian Data Exchange - HDX: [https://data.humdata.org/faqs/licenses](https://data.humdata.org/faqs/licenses)
