@@ -43,15 +43,15 @@ Your Ownership of Your Data and the Limited Permissions You Give Us
   
 You grant us a license to your User Content for the limited purposes of:  
 
-* Operating, providing, improving, troubleshooting, and debugging our products (for example, your acceptance or rejection of suggestions may help train our suggestion engine);  
+*   Operating, providing, improving, troubleshooting, and debugging our products (for example, your acceptance or rejection of suggestions may help train our suggestion engine);  
     
-* Protecting our products (for example, to analyze patterns in usage to prevent abuse);  
+*   Protecting our products (for example, to analyze patterns in usage to prevent abuse);  
     
-* Customizing our products (for example, to create personalized suggestions for you);  
+*   Customizing our products (for example, to create personalized suggestions for you);  
     
-* Developing new products or features (for example, creating our tone detector); and  
+*   Developing new products or features (for example, creating our tone detector); and  
     
-* Using information you upload or provide to us (such as your name) to encourage other people in your organization to join your company’s or organization’s Grammarly account.  
+*   Using information you upload or provide to us (such as your name) to encourage other people in your organization to join your company’s or organization’s Grammarly account.  
     
 
   
@@ -59,13 +59,13 @@ The license you give us is only for the above purposes. That means we will not, 
   
 The license you grant us is:  
 
-* Worldwide (so you can access your User Content from anywhere in the world);  
+*   Worldwide (so you can access your User Content from anywhere in the world);  
     
-* Non-exclusive (meaning you own your User Content and can also license it to other people or companies);  
+*   Non-exclusive (meaning you own your User Content and can also license it to other people or companies);  
     
-* Royalty-free (meaning we don’t pay you for it); and  
+*   Royalty-free (meaning we don’t pay you for it); and  
     
-* For as long as intellectual property laws protect your User Content.  
+*   For as long as intellectual property laws protect your User Content.  
     
 
   
@@ -91,11 +91,11 @@ _Usage Limits._ Depending on your subscription plan, you may have a limit on you
   
 _Usage Restrictions._ You may not use Grammarly’s generative AI features:  
 
-* To develop foundation or large language models that compete with Grammarly;   
+*   To develop foundation or large language models that compete with Grammarly;   
     
-* To mislead any third party that any output from Grammarly’s generative AI was solely human generated;  
+*   To mislead any third party that any output from Grammarly’s generative AI was solely human generated;  
     
-* In a manner that violates these terms, Grammarly documentation, usage guidelines, or our Acceptable Use Policy.  
+*   In a manner that violates these terms, Grammarly documentation, usage guidelines, or our Acceptable Use Policy.  
     
 
   
