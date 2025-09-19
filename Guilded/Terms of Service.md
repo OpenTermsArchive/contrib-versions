@@ -29,7 +29,7 @@ These Terms cover important information about Services provided to you and any c
 
 **Section 16 below outlines how disputes between you and Guilded will be resolved.  For U.S. users, the Terms include A BINDING, INDIVIDUAL ARBITRATION AND CLASS ACTION WAIVER.  THIS MEANS THAT YOU GIVE UP THE RIGHT TO BRING AN ACTION IN COURT, INDIVIDUALLY OR AS PART OF A CLASS ACTION.**
 
-1. **Will these Terms ever change?**
+1.  **Will these Terms ever change?**
 
 We are constantly trying to improve our Services, so these Terms may need to change along with our Services. We reserve the right to change the Terms at any time, but if we do, we will place a notice on our site located at guilded.gg, send you an email, and/or notify you by some other means. 
 
@@ -43,13 +43,13 @@ Except for changes by us as described here, no other amendment or modification o
 
   
 
-2. **What about my privacy?**
+2.  **What about my privacy?**
 
   
 
 Guilded takes the privacy of its users very seriously. For the current Guilded Privacy Policy, please click here.
 
-3. **What are the basics of using Guilded?**
+3.  **What are the basics of using Guilded?**
 
   
 
@@ -65,13 +65,13 @@ You will not share your Guilded User ID, account or password with anyone, and yo
 
   
 
-4. **What about messaging?**
+4.  **What about messaging?**
 
   
 
 As part of the Services, you may receive communications through the Services, including messages that Guilded sends you (for example, via email). When signing up for the Services, you will receive a welcome message and instructions on how to stop receiving messages. 
 
-5. **Are there restrictions on how I can use the Services?**
+5.  **Are there restrictions on how I can use the Services?**
 
 You represent, warrant, and agree that you will not contribute any Content or User Submission (each of those terms is defined below) or otherwise use the Services or interact with the Services in a manner that:
 
@@ -121,7 +121,7 @@ A violation of any of the foregoing is grounds for termination of your right to 
 
   
 
-6. **What are Subscription Services?** 
+6.  **What are Subscription Services?** 
 
   
 
@@ -161,7 +161,7 @@ Subscribers:  As a Subscriber, you may purchase subscriptions from Guilded to s
 
   
 
-7. **What are my rights in the Services?**
+7.  **What are my rights in the Services?**
 
   
 
@@ -173,7 +173,7 @@ Subject to these Terms, we grant each user of the Services a worldwide, non-excl
 
   
 
-8. **What about anything I contribute to the Services – do I have to grant any licenses to Guilded or to other users?**
+8.  **What about anything I contribute to the Services – do I have to grant any licenses to Guilded or to other users?**
 
   
 
@@ -225,13 +225,13 @@ Finally, you understand and agree that Guilded, in performing the required techn
 
   
 
-9. **What** **if I see something on the Services that infringes my copyright?**
+9.  **What** **if I see something on the Services that infringes my copyright?**
 
   
 
 We respect others’ intellectual property rights, and we reserve the right to delete or disable Content alleged to be infringing, and to terminate accounts that we determine to be repeat infringers; to review our complete Copyright Dispute Policy and learn how to report potentially infringing content, click [here](https://support.guilded.gg/hc/en-us/articles/1500003727262-Copyright-Dispute-Policy).
 
-10. **Who is responsible for what I see and do on the Services?**
+10.  **Who is responsible for what I see and do on the Services?**
 
 Any information or Content publicly posted or privately transmitted through the Services is the sole responsibility of the person from whom such Content originated, and you access all such information and Content at your own risk. Guilded is not liable for any errors or omissions in that information or Content or for any damages or loss you might suffer in connection with it. For example, Guilded provides communication channels such as forums, communities, or chat areas designed to enable you to communicate with other Guilded users. We have no obligation to monitor these communication channels but may do so in connection with providing the Services. We may also terminate or suspend your access to any of these communication channels at any time, without notice, for any reason. 
 
@@ -259,13 +259,13 @@ Your interactions with organizations and/or individuals found on or through the 
 
 If there is a dispute between participants on this site or Services, or between users and any third party, you agree that Guilded is under no obligation to become involved. In the event that you have a dispute with one or more other users, you release Guilded and the Affiliated Parties (as defined in Section 17 below) from claims, demands, and damages of every kind or nature, known or unknown, suspected or unsuspected, disclosed or undisclosed, arising out of or in any way related to such disputes and/or our Services. You shall and hereby do waive California Civil Code Section 1542 or any similar law of any jurisdiction, which says in substance: “A general release does not extend to claims that the creditor or releasing party does not know or suspect to exist in his or her favor at the time of executing the release and that, if known by him or her, would have materially affected his or her settlement with the debtor or released party.”
 
-11. **Will Guilded ever change the Services?**
+11.  **Will Guilded ever change the Services?**
 
   
 
 We’re always trying to improve our Services, so they may change over time. We may suspend or discontinue any part of the Services, or we may introduce new features or impose limits on certain features or restrict access to parts or all of the Services in our sole discretion, and without notice. We reserve the right to remove any Content from the Services at any time, for any reason (including, but not limited to, if someone alleges you contributed that Content in violation of these Terms), in our sole discretion, and without notice.
 
-12. **Do the Services cost anything?**
+12.  **Do the Services cost anything?**
 
   
 
@@ -289,7 +289,7 @@ The Services may be free or we may charge a fee for using the Services. If you a
 
 **i. Refund Policy**.  WE DO NOT OFFER ANY REFUNDS OR CREDITS FOR FEES ALREADY PAID FOR THE PAID SERVICES, EXCEPT AS REQUIRED BY LAW, INCLUDING WITHOUT LIMITATION IN THE EVENT OF YOUR TERMINATION OR CANCELLATION OF THE PAID SERVICES.  WE RESERVE THE RIGHT TO MODIFY OUR REFUND POLICY AT ANY TIME.
 
-13. **What if I want to stop using the Services?**
+13.  **What if I want to stop using the Services?**
 
 You’re free to do that at any time in your settings page or by contacting us at support@guilded.gg; please refer to our Privacy Policy, as well as the licenses above, to understand how we treat information you provide to us after you have stopped using our Services. 
 
@@ -311,32 +311,32 @@ Provisions that, by their nature, should survive termination of these Terms shal
 
   
 
-14. **What about Mobile Applications?**
+14.  **What about Mobile Applications?**
 
   
 
 You acknowledge and agree that the availability of our mobile application is dependent on the third-party stores from which you download the application, e.g., the App Store from Apple or the Google Play Store from Google (each an “App Store”). Each App Store may have its own terms and conditions to which you must agree before downloading mobile applications, including the specific terms relating to Apple App Store set forth below. You agree to comply with, and your license to use our application is conditioned upon your compliance with, such App Store terms and conditions. To the extent such other terms and conditions from such App Store are less restrictive than, or otherwise conflict with, the terms and conditions of these Terms of Use, the more restrictive or conflicting terms and conditions in these Terms of Use apply.
 
-15. **I** **use** **the Guilded App available via the Apple App Store – should I know anything about that?**
+15.  **I** **use** **the Guilded App available via the Apple App Store – should I know anything about that?**
 
 These Terms apply to your use of all the Services, including our iOS applications (the “Application”) available via the Apple, Inc. (“Apple”) App Store, but the following additional terms also apply to the Application:
 
   
 
-1. Both you and Guilded acknowledge that the Terms are concluded between you and Guilded only, and not with Apple, and that Apple is not responsible for the Application or the Content;
-2. The Application is licensed to you on a limited, non-exclusive, non-transferrable, non-sublicensable basis, solely to be used in connection with the Services for your private, personal, non-commercial use, subject to all the terms and conditions of these Terms as they are applicable to the Services;
-3. You will only use the Application in connection with an Apple device that you own or control;
-4. You acknowledge and agree that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Application;
-5. In the event of any failure of the Application to conform to any applicable warranty, including those implied by law, you may notify Apple of such failure; upon notification, Apple’s sole warranty obligation to you will be to refund to you the purchase price, if any, of the Application;
-6. You acknowledge and agree that Guilded, and not Apple, is responsible for addressing any claims you or any third party may have in relation to the Application;
-7. You acknowledge and agree that, in the event of any third-party claim that the Application or your possession and use of the Application infringes that third party’s intellectual property rights, Guilded, and not Apple, will be responsible for the investigation, defense, settlement and discharge of any such infringement claim;
-8. You represent and warrant that you are not located in a country subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country, and that you are not listed on any U.S. Government list of prohibited or restricted parties;
-9. Both you and Guilded acknowledge and agree that, in your use of the Application, you will comply with any applicable third-party terms of agreement which may affect or be affected by such use; and
-10. Both you and Guilded acknowledge and agree that Apple and Apple’s subsidiaries are third-party beneficiaries of these Terms, and that upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as the third-party beneficiary hereof.
+1.  Both you and Guilded acknowledge that the Terms are concluded between you and Guilded only, and not with Apple, and that Apple is not responsible for the Application or the Content;
+2.  The Application is licensed to you on a limited, non-exclusive, non-transferrable, non-sublicensable basis, solely to be used in connection with the Services for your private, personal, non-commercial use, subject to all the terms and conditions of these Terms as they are applicable to the Services;
+3.  You will only use the Application in connection with an Apple device that you own or control;
+4.  You acknowledge and agree that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Application;
+5.  In the event of any failure of the Application to conform to any applicable warranty, including those implied by law, you may notify Apple of such failure; upon notification, Apple’s sole warranty obligation to you will be to refund to you the purchase price, if any, of the Application;
+6.  You acknowledge and agree that Guilded, and not Apple, is responsible for addressing any claims you or any third party may have in relation to the Application;
+7.  You acknowledge and agree that, in the event of any third-party claim that the Application or your possession and use of the Application infringes that third party’s intellectual property rights, Guilded, and not Apple, will be responsible for the investigation, defense, settlement and discharge of any such infringement claim;
+8.  You represent and warrant that you are not located in a country subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country, and that you are not listed on any U.S. Government list of prohibited or restricted parties;
+9.  Both you and Guilded acknowledge and agree that, in your use of the Application, you will comply with any applicable third-party terms of agreement which may affect or be affected by such use; and
+10.  Both you and Guilded acknowledge and agree that Apple and Apple’s subsidiaries are third-party beneficiaries of these Terms, and that upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as the third-party beneficiary hereof.
 
   
 
-16. **What if I have a Dispute with Guilded?**
+16.  **What if I have a Dispute with Guilded?**
 
   
 
@@ -348,8 +348,8 @@ Except as otherwise permitted in the Terms, you agree that any dispute, claim, o
 
 #### i. Notice**.** To initiate the MIDR process, the party with a Dispute must first give written notice to the other party.
 
-1. 1. 1. 1. **To notify Guilded**, you must send written notice to Guilded,  970 Park Place Ste. 100, San Mateo, CA 94403 USA by certified U.S. Mail or by Federal Express (or international equivalent), providing: (a) the User’s full name, Guilded username, and any email or billing address associated with the User’s Guilded Account; (b) the name and contact information of the User’s counsel, if User is represented by counsel; (c) a brief description of the User’s Dispute and the resolution requested; and (d) any records of your previous attempts to resolve the Dispute, if they exist.
-            2. **To notify a User**, Guilded will send a written notice to the email address or billing address that the you provided to Guilded (or, if none is provided, through the messaging system on the Guilded Service); that notice will include (a) the name and contact information of Guilded’s counsel; and (b) a brief description of Guilded’s Dispute and the resolution requested.
+1.  1.  1.  1.  **To notify Guilded**, you must send written notice to Guilded,  970 Park Place Ste. 100, San Mateo, CA 94403 USA by certified U.S. Mail or by Federal Express (or international equivalent), providing: (a) the User’s full name, Guilded username, and any email or billing address associated with the User’s Guilded Account; (b) the name and contact information of the User’s counsel, if User is represented by counsel; (c) a brief description of the User’s Dispute and the resolution requested; and (d) any records of your previous attempts to resolve the Dispute, if they exist.
+            2.  **To notify a User**, Guilded will send a written notice to the email address or billing address that the you provided to Guilded (or, if none is provided, through the messaging system on the Guilded Service); that notice will include (a) the name and contact information of Guilded’s counsel; and (b) a brief description of Guilded’s Dispute and the resolution requested.
 
 #### ii. Process.  Both parties will then engage in the MIDR process. The MIDR process requires conferring in writing—or, if requested by either party, via teleconference or videoconference—in a good faith effort to informally resolve the Dispute.  If either party is represented by counsel, that counsel may participate.
 
@@ -359,10 +359,10 @@ Except as otherwise permitted in the Terms, you agree that any dispute, claim, o
 
 #### v. MIDR Is a Mandatory Prerequisite to Arbitration or Litigation. If, after participating in the MIDR process, we have been unable to resolve the Dispute, either party may commence an arbitration (or litigation, if the claim falls within an exception to the Arbitration Agreement (as defined below)).  However, if we have not engaged in the MIDR process as set forth in this section, the Dispute may not be submitted to arbitration, nor may a claim be filed in court, until the MIDR process occurs. User and Guilded understand and agree that any Dispute that has not first been subject to MIDR:
 
-1. 1. 1. 1. Shall not be accepted by the arbitration provider, and shall be deemed frivolous under Federal Rule of Civil Procedure 11(b); further, the arbitrator may allocate any arbitration fees and/or costs to any party that files a frivolous claim in violation of this Section 16.a; and
+1.  1.  1.  1.  Shall not be accepted by the arbitration provider, and shall be deemed frivolous under Federal Rule of Civil Procedure 11(b); further, the arbitrator may allocate any arbitration fees and/or costs to any party that files a frivolous claim in violation of this Section 16.a; and
                 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                 
-            2.  Shall be subject to dismissal if asserted in court.
+            2.   Shall be subject to dismissal if asserted in court.
                 ----------------------------------------------------
                 
 
@@ -404,13 +404,13 @@ The parties agree that FedArb has discretion to modify the amount or timing of a
 
 #### x. Exceptions. The Arbitration Agreement shall be subject to the following exceptions:
 
-1. 1. 1. 1. 1. ### Users and Guilded retain the right to participate in class-wide settlement of claims.
+1.  1.  1.  1.  1.  ### Users and Guilded retain the right to participate in class-wide settlement of claims.
                     
-                2. ### The Arbitration Agreement does not apply to Users who are not residents of the United States, or to Users who (pursuant to subsection ix above) properly opt out of the entire Arbitration Agreement within 30 days of signing up for the Services for the first time.
+                2.  ### The Arbitration Agreement does not apply to Users who are not residents of the United States, or to Users who (pursuant to subsection ix above) properly opt out of the entire Arbitration Agreement within 30 days of signing up for the Services for the first time.
                     
-                3. ### If a Dispute is within the jurisdiction of small claims court, either the User or Guilded may (after engaging in the MIDR process) choose to take the Dispute to small claims court in the User’s county of residence, or in the Superior Court of California, County of San Mateo.
+                3.  ### If a Dispute is within the jurisdiction of small claims court, either the User or Guilded may (after engaging in the MIDR process) choose to take the Dispute to small claims court in the User’s county of residence, or in the Superior Court of California, County of San Mateo.
                     
-                4. ### If a Dispute involves a claim that asserts infringement of patent, copyright, trademark, or trade secret rights, either the User or Guilded may assert the claim in federal or state court, as set forth in Section 16(d).
+                4.  ### If a Dispute involves a claim that asserts infringement of patent, copyright, trademark, or trade secret rights, either the User or Guilded may assert the claim in federal or state court, as set forth in Section 16(d).
                     
 
 ### c. **Timing for Raising Disputes**.  USER AND GUILDED AGREE THAT ANY CAUSE OF ACTION ARISING OUT OF OR RELATED TO THE SERVICES MUST COMMENCE WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ARISES OR IT IS PERMANENTLY BARRED.
@@ -426,7 +426,7 @@ ii. Except for small claims court actions, any Dispute that is not subject to th
   
   
 
-17. **What else do I need to know?**
+17.  **What else do I need to know?**
 
   
 
