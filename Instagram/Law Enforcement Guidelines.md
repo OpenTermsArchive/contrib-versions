@@ -1,4 +1,4 @@
-* [Staying Safe](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
+*   [Staying Safe](https://help.instagram.com/1417489251945243/?helpref=breadcrumb)
 
 Information for law enforcement
 ===============================
@@ -10,9 +10,9 @@ Requests for user information
 
 We disclose account records solely in accordance with our terms of service and applicable law, including the federal Stored Communications Act (“SCA”), 18 U.S.C. Sections 2701-2712. Under the SCA:
 
-* a valid subpoena issued in connection with an official criminal investigation is required to compel the disclosure of basic subscriber records (defined in 18 U.S.C. Section 2703(c)(2)), which may include: name, length of service, credit card information, email address(es), and any recent login/logout IP address(es), if available.
-* a court order issued under 18 U.S.C. Section 2703(d) is required to compel the disclosure of certain records or other information pertaining to the account, not including contents of communications, which may include message headers and IP addresses, in addition to the basic subscriber records identified above.
-* a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause is required to compel the disclosure of the stored contents of any account, which may include messages, photos, comments, and location information.
+*   a valid subpoena issued in connection with an official criminal investigation is required to compel the disclosure of basic subscriber records (defined in 18 U.S.C. Section 2703(c)(2)), which may include: name, length of service, credit card information, email address(es), and any recent login/logout IP address(es), if available.
+*   a court order issued under 18 U.S.C. Section 2703(d) is required to compel the disclosure of certain records or other information pertaining to the account, not including contents of communications, which may include message headers and IP addresses, in addition to the basic subscriber records identified above.
+*   a search warrant issued under the procedures described in the Federal Rules of Criminal Procedure or equivalent state warrant procedures upon a showing of probable cause is required to compel the disclosure of the stored contents of any account, which may include messages, photos, comments, and location information.
 
 It is important to note that some information we store is collected automatically, while other information is provided by the user. We do not require email or phone verification, and we do not require people to use real names or identities on Instagram.
 
@@ -28,8 +28,8 @@ Information to include
 
 All requests must be made with particularity, including the specific data categories requested and date limitations for the request, as well as:
 
-1. The name of the issuing authority and agent, email address from a law enforcement domain, and a direct contact phone number.
-2. The username of the Instagram account in question on the relevant date and details regarding specific information requested and its relationship to your investigation. Usernames are not static and we are unable to process requests that do not include the relevant date combined with the username.
+1.  The name of the issuing authority and agent, email address from a law enforcement domain, and a direct contact phone number.
+2.  The username of the Instagram account in question on the relevant date and details regarding specific information requested and its relationship to your investigation. Usernames are not static and we are unable to process requests that do not include the relevant date combined with the username.
 
 Emergency requests
 ------------------
