@@ -5,11 +5,11 @@ Terms & Privacy
 
 We want to treat you well. We also need to protect ourselves from unnecessary legal exposure and ensure transparency, which is why this page exists. For a (non-binding) overview of our Privacy Policy, see its [entry](https://privacyspy.org/product/privacyspy) in the PrivacySpy database. As for our Terms of Service, here is a (non-binding) summary of the key points:
 
-* Don't break the law while using our site, and don't use our site to break the law;
-* Feel free to post PrivacySpy's materials under the Creative Commons [BY](https://creativecommons.org/licenses/by/4.0/) license;
-* The data on this site might be wrong, but we do our best to keep everything accurate (and you can always help correct our information yourself by submitting a suggestion);
-* We don't provide legal advice, so _please_ do not consider anything here to be legal advice.
-* Please follow our [Code of Conduct](https://privacyspy.org/conduct/) when interacting with our community.
+*   Don't break the law while using our site, and don't use our site to break the law;
+*   Feel free to post PrivacySpy's materials under the Creative Commons [BY](https://creativecommons.org/licenses/by/4.0/) license;
+*   The data on this site might be wrong, but we do our best to keep everything accurate (and you can always help correct our information yourself by submitting a suggestion);
+*   We don't provide legal advice, so _please_ do not consider anything here to be legal advice.
+*   Please follow our [Code of Conduct](https://privacyspy.org/conduct/) when interacting with our community.
 
 ### 1\. Terms
 
@@ -17,16 +17,16 @@ By accessing the website at [https://privacyspy.org](https://privacyspy.org/), y
 
 ### 2\. Use License
 
-1. Permission is granted to download the materials (information or software) on PrivacySpy (Politiwatch, Inc.)'s website for viewing. This is the grant of a license, not a transfer of title, and under this license you may not remove any copyright or other notations from the materials.
-2. The content of this website, except that content which is clearly drawn from some other source (and therefore made available under a different license) shall be licensed according to Creative Commons BY ([![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)). Under this license, you must attribute PrivacySpy's materials back to PrivacySpy (ideally with a link, whenever possible), but are otherwise free to use the materials freely.
-3. By uploading or otherwise providing information to PrivacySpy, whether through the website or via a GitHub contribution, you grant PrivacySpy the right to store and, when intended, publicly display that information under the license described above. For details about your data, please see our Privacy Policy.
+1.  Permission is granted to download the materials (information or software) on PrivacySpy (Politiwatch, Inc.)'s website for viewing. This is the grant of a license, not a transfer of title, and under this license you may not remove any copyright or other notations from the materials.
+2.  The content of this website, except that content which is clearly drawn from some other source (and therefore made available under a different license) shall be licensed according to Creative Commons BY ([![Creative Commons License](https://i.creativecommons.org/l/by/4.0/80x15.png)](https://creativecommons.org/licenses/by/4.0/)). Under this license, you must attribute PrivacySpy's materials back to PrivacySpy (ideally with a link, whenever possible), but are otherwise free to use the materials freely.
+3.  By uploading or otherwise providing information to PrivacySpy, whether through the website or via a GitHub contribution, you grant PrivacySpy the right to store and, when intended, publicly display that information under the license described above. For details about your data, please see our Privacy Policy.
 
 ### 3\. Disclaimer
 
-1. The materials on PrivacySpy (Politiwatch, Inc.)'s website are provided on an 'as is' basis. PrivacySpy (Politiwatch, Inc.) makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
-2. The materials on PrivacySpy (Politiwatch, Inc.)'s website are not legal advice. PrivacySpy does not provide legal advice in any capacity.
-3. Further, PrivacySpy (Politiwatch, Inc.) does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
-4. Some of the content on PrivacySpy is user-generated. While PrivacySpy will make a good-faith effort to moderate its user-generated content, it is not responsible for it. (If you find something that shouldn't be here, please [let us know](mailto:secure@politiwatch.org) immediately.)
+1.  The materials on PrivacySpy (Politiwatch, Inc.)'s website are provided on an 'as is' basis. PrivacySpy (Politiwatch, Inc.) makes no warranties, expressed or implied, and hereby disclaims and negates all other warranties including, without limitation, implied warranties or conditions of merchantability, fitness for a particular purpose, or non-infringement of intellectual property or other violation of rights.
+2.  The materials on PrivacySpy (Politiwatch, Inc.)'s website are not legal advice. PrivacySpy does not provide legal advice in any capacity.
+3.  Further, PrivacySpy (Politiwatch, Inc.) does not warrant or make any representations concerning the accuracy, likely results, or reliability of the use of the materials on its website or otherwise relating to such materials or on any sites linked to this site.
+4.  Some of the content on PrivacySpy is user-generated. While PrivacySpy will make a good-faith effort to moderate its user-generated content, it is not responsible for it. (If you find something that shouldn't be here, please [let us know](mailto:secure@politiwatch.org) immediately.)
 
 ### 4\. Limitations
 
@@ -63,8 +63,8 @@ We only ask for personal information when we truly need it; for example, when co
 
 We collect the following data:
 
-* Your IP address and browser "user agent" (in logs and basic analytics, which are periodically rotated)
-* Aggregate website usage statistics (page views, general geographic breakdowns, device types)
+*   Your IP address and browser "user agent" (in logs and basic analytics, which are periodically rotated)
+*   Aggregate website usage statistics (page views, general geographic breakdowns, device types)
 
 We only retain collected information for as long as necessary to provide you with your requested service. What data we store, we'll protect within commercially acceptable means to prevent loss and theft, as well as unauthorized access, disclosure, copying, use or modification.
 
