@@ -13,30 +13,30 @@ We know reading a privacy policy might not be everyone’s idea of a good time, 
 
 This Privacy Policy applies from May 21, 2025. The previous version, available [here](https://policies.tinder.com/privacy-policy-8-25-2024), applies until then.
 
-1. [Who We Are](#who-we-are)
+1.  [Who We Are](#who-we-are)
     
-2. [Where This Privacy Policy Applies](#where-this-applies)
+2.  [Where This Privacy Policy Applies](#where-this-applies)
     
-3. [Data We Collect](#data-we-collect)
+3.  [Data We Collect](#data-we-collect)
     
-4. [How We Use Data](#how-we-use-data)
+4.  [How We Use Data](#how-we-use-data)
     
-5. [How We Share Data](#how-we-share-data)
+5.  [How We Share Data](#how-we-share-data)
     
-6. [How Match Group Companies Work Together](#how-match-works-together)
+6.  [How Match Group Companies Work Together](#how-match-works-together)
     
-7. [Cross-Border Data Transfers](#cross-border-data-transfers)
+7.  [Cross-Border Data Transfers](#cross-border-data-transfers)
     
-8. [Your Rights](#your-rights)
+8.  [Your Rights](#your-rights)
     
-9. [How Long We Retain Your Data](#how-long-we-retain-your-data)
+9.  [How Long We Retain Your Data](#how-long-we-retain-your-data)
     
-10. [Children's Privacy](#childrens-privacy)
-    
-11. [Privacy Policy Changes](#privacy-policy-changes)
-    
-12. [How To Contact Us](#how-to-contact-us)
-    
+10.  [Children's Privacy](#childrens-privacy)
+     
+11.  [Privacy Policy Changes](#privacy-policy-changes)
+     
+12.  [How To Contact Us](#how-to-contact-us)
+     
 
 **1.** **Who We Are**
 ---------------------
@@ -147,15 +147,15 @@ Tinder is part of the [Match Group family of businesses](https://mtch.com/ourcom
 
 We may share data about you with our Affiliates and they may share data about you with us, for the reasons laid out below:
 
-* To make all Match Group platforms safer, for instance by searching for and identifying bad actors and how they operate across Match Group platforms, as well as making sure that when a bad actor is found on one Match Group platform (for instance ours), they can be banned from all.
+*   To make all Match Group platforms safer, for instance by searching for and identifying bad actors and how they operate across Match Group platforms, as well as making sure that when a bad actor is found on one Match Group platform (for instance ours), they can be banned from all.
     
-* To assist each other in data processing operations, as service providers. This assistance may include processing operations, such as data hosting and maintenance, customer care, marketing and targeted advertising, analytics, finance and accounting, legal support, payment processing, service improvement, data security and fighting against spam, abuse, fraud and other wrongdoings.
+*   To assist each other in data processing operations, as service providers. This assistance may include processing operations, such as data hosting and maintenance, customer care, marketing and targeted advertising, analytics, finance and accounting, legal support, payment processing, service improvement, data security and fighting against spam, abuse, fraud and other wrongdoings.
     
-* To improve your chances at building significant connections with others, we may make you visible on other Match Group services or allow you to benefit from cross-platform functionalities.  We will of course comply with applicable law and, where relevant, notify you of any such opportunity and allow you to agree or to refuse.
+*   To improve your chances at building significant connections with others, we may make you visible on other Match Group services or allow you to benefit from cross-platform functionalities.  We will of course comply with applicable law and, where relevant, notify you of any such opportunity and allow you to agree or to refuse.
     
-* Where and as allowed under applicable law, to better understand how people use Match Group services overall, to personalize your experience across Match Group services and to enhance marketing and advertising campaigns.
+*   Where and as allowed under applicable law, to better understand how people use Match Group services overall, to personalize your experience across Match Group services and to enhance marketing and advertising campaigns.
     
-* For other legitimate business purposes including corporate / consolidated audit, analysis and reporting.
+*   For other legitimate business purposes including corporate / consolidated audit, analysis and reporting.
     
 
 [Learn more](https://www.help.tinder.com/hc/articles/25749901453197) about how Match Group companies work together.
@@ -196,13 +196,13 @@ If you decide to stop using our service, you can close your account and your pro
 
 Following account closure, we delete your data as laid out below: 
 
-1. To protect the safety and security of our members, we implement a safety retention window of three months following account closure or one year following an account ban. During this period, we keep your data to investigate unlawful or harmful conducts. The retention of data during this safety retention window is based on our legitimate interest as well as that of potential third-party victims. 
+1.  To protect the safety and security of our members, we implement a safety retention window of three months following account closure or one year following an account ban. During this period, we keep your data to investigate unlawful or harmful conducts. The retention of data during this safety retention window is based on our legitimate interest as well as that of potential third-party victims. 
     
-2. We maintain limited data to comply with legal data retention obligations: in particular, we keep transaction data for 10 years to comply with tax and accounting legal requirements, credit card information for the duration the user may challenge the transaction, and “traffic data” / logs for one year to comply with legal data retention obligations. We also keep records of consents members give us for five years to comply and evidence our compliance with applicable law.
+2.  We maintain limited data to comply with legal data retention obligations: in particular, we keep transaction data for 10 years to comply with tax and accounting legal requirements, credit card information for the duration the user may challenge the transaction, and “traffic data” / logs for one year to comply with legal data retention obligations. We also keep records of consents members give us for five years to comply and evidence our compliance with applicable law.
     
-3. We maintain limited data on the basis of our legitimate interest: we keep customer care exchanges with you for 6 years from the date of the communication, customer care records and supporting data, as well as imprecise location of download/purchase, for five years in support of our safety efforts, to support our customer care decisions, enforce our rights and enable us to defend ourselves in the event of a claim, information on the existence of past accounts and subscriptions, which we delete three years after the closure of your last account to ensure proper and accurate financial forecasting and reporting, profile data for one year in anticipation of potential litigation, for the establishment, exercise or defense of legal claims, and data necessary to prevent members who were banned from opening a new account for as long as necessary to ensure the safety and vital interests of our members.
+3.  We maintain limited data on the basis of our legitimate interest: we keep customer care exchanges with you for 6 years from the date of the communication, customer care records and supporting data, as well as imprecise location of download/purchase, for five years in support of our safety efforts, to support our customer care decisions, enforce our rights and enable us to defend ourselves in the event of a claim, information on the existence of past accounts and subscriptions, which we delete three years after the closure of your last account to ensure proper and accurate financial forecasting and reporting, profile data for one year in anticipation of potential litigation, for the establishment, exercise or defense of legal claims, and data necessary to prevent members who were banned from opening a new account for as long as necessary to ensure the safety and vital interests of our members.
     
-4. Finally, we maintain data on the basis of our legitimate interest where there is an outstanding or potential issue, claim or dispute requiring us to keep data in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings.
+4.  Finally, we maintain data on the basis of our legitimate interest where there is an outstanding or potential issue, claim or dispute requiring us to keep data in particular if we receive a valid legal subpoena or request asking us to preserve data (in which case we would need to keep the data to comply with our legal obligations) or if data would otherwise be necessary as part of legal proceedings.
     
 
 Where and as legally permitted, we may maintain and use data that, by itself, cannot identify or be attributed specifically to you for the purposes described in this Privacy Policy, including to improve our service and create new features, technologies and services and keep Match Group services safe. ### **10\. Children's Privacy**
