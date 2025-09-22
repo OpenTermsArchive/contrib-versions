@@ -25,20 +25,20 @@ Each user is solely responsible for all actions performed through the Services.
 
 You agree not to use your Account or the Services for any illegal or prohibited activities. Unauthorized activities include, but are not limited to:
 
-1. Disrupting the Company's networks and Servers in your use of the Service;
-2. Accessing/sharing/downloading/uploading illegal content, including but not limited to Child Sexual Abuse Material (CSAM) or content related to CSAM;
-3. Infringing upon or violating the intellectual property rights of the Company or a third party;
-4. Harassing, abusing, insulting, harming, defaming, slandering, disparaging, intimidating or discriminating against someone based on gender, sexual orientation, religion, ethnicity, race, age, nationality or disability;
-5. Trading, selling or otherwise transferring the ownership of an Account to a third party (with the exception of Lifetime Accounts, which can be sold or traded exclusively through the Company);
-6. Promoting illegal activities or providing instructional information to other parties to commit illegal activities;
-7. Having multiple free Accounts (e.g. creating bulk signups, creating and/or operating a large number of free Accounts for a single organization or individual);
-8. Paying for your subscription with fraudulent payment means, such as a stolen credit card;
-9. Engaging in spam activities, which are defined as the practice of sending irrelevant or unsolicited messages or content over the internet, typically to a large number of recipients, notably for the purposes of advertising, phishing, or spreading malware or viruses;
-10. Sending junk mail, bulk emails, or mailing list emails that contain persons that have not specifically agreed to be included on that list. You agree not to use the Services to store or share content that violates the law or the rights of a third party;
-11. Abusive registrations of email addresses (including aliases) for third-party services;
-12. Using a free account email address (including aliases) for the unique purpose of registering to third-party services;
-13. Attempting to access, probe, or connect to computing devices without proper authorization (i.e. any form of unauthorized "hacking");
-14. Referring yourself or another one of your accounts to unduly benefit from our referral program's benefits (see section 9 for discretionary benefits of the program).
+1.  Disrupting the Company's networks and Servers in your use of the Service;
+2.  Accessing/sharing/downloading/uploading illegal content, including but not limited to Child Sexual Abuse Material (CSAM) or content related to CSAM;
+3.  Infringing upon or violating the intellectual property rights of the Company or a third party;
+4.  Harassing, abusing, insulting, harming, defaming, slandering, disparaging, intimidating or discriminating against someone based on gender, sexual orientation, religion, ethnicity, race, age, nationality or disability;
+5.  Trading, selling or otherwise transferring the ownership of an Account to a third party (with the exception of Lifetime Accounts, which can be sold or traded exclusively through the Company);
+6.  Promoting illegal activities or providing instructional information to other parties to commit illegal activities;
+7.  Having multiple free Accounts (e.g. creating bulk signups, creating and/or operating a large number of free Accounts for a single organization or individual);
+8.  Paying for your subscription with fraudulent payment means, such as a stolen credit card;
+9.  Engaging in spam activities, which are defined as the practice of sending irrelevant or unsolicited messages or content over the internet, typically to a large number of recipients, notably for the purposes of advertising, phishing, or spreading malware or viruses;
+10.  Sending junk mail, bulk emails, or mailing list emails that contain persons that have not specifically agreed to be included on that list. You agree not to use the Services to store or share content that violates the law or the rights of a third party;
+11.  Abusive registrations of email addresses (including aliases) for third-party services;
+12.  Using a free account email address (including aliases) for the unique purpose of registering to third-party services;
+13.  Attempting to access, probe, or connect to computing devices without proper authorization (i.e. any form of unauthorized "hacking");
+14.  Referring yourself or another one of your accounts to unduly benefit from our referral program's benefits (see section 9 for discretionary benefits of the program).
 
 Any Account found to be committing any of the the listed unauthorized activities will be immediately suspended or restricted accordingly (which can include features and capabilities restrictions).
 
@@ -61,9 +61,9 @@ Accounts under an active paid subscription are always considered active and no a
 
 If your account is free, you are considered active by performing one of the following actions at least once in a period of 12 months:
 
-* logging in to your Account on our web, desktop or mobile apps; or
+*   logging in to your Account on our web, desktop or mobile apps; or
 
-* if you are already logged in, using one of our products (for example, accessing your inbox, reading an email, connecting to a VPN server, etc.).
+*   if you are already logged in, using one of our products (for example, accessing your inbox, reading an email, connecting to a VPN server, etc.).
 
 Activity is considered by Account, not by email address. Keeping an active Account ensures that any email addresses you created for that Account (@proton.me, @pm.me, etc.) also remain active.
 
@@ -93,21 +93,21 @@ The Company aims to provide Service availability of 99.95% or better. If downtim
 
 The Company calculates service credits in the following way:
 
-* If the monthly uptime is less than 99.95% but equal to or greater than 99.0%, the service credit is equal to 10% of the Service’s monthly cost;
+*   If the monthly uptime is less than 99.95% but equal to or greater than 99.0%, the service credit is equal to 10% of the Service’s monthly cost;
 
-* If the monthly uptime is less than 99.0%, the service credit is equal to 30% of the Service’s cost.
+*   If the monthly uptime is less than 99.0%, the service credit is equal to 30% of the Service’s cost.
 
 Some performance issues are excluded from downtime calculations, such as:
 
-* Issues caused by factors outside of the Company’s reasonable control;
+*   Issues caused by factors outside of the Company’s reasonable control;
 
-* Issues that resulted from any actions or inaction by a user or a third party;
+*   Issues that resulted from any actions or inaction by a user or a third party;
 
-* Issues that resulted from the user’s equipment and/or third-party equipment (not within the primary control of the Company). For the avoidance of any doubt, the Company does not provide any internet or network services and any performance issues related to that type of services shall be deemed not in the primary control of the Company;
+*   Issues that resulted from the user’s equipment and/or third-party equipment (not within the primary control of the Company). For the avoidance of any doubt, the Company does not provide any internet or network services and any performance issues related to that type of services shall be deemed not in the primary control of the Company;
 
-* Issues that arise from the Company’s suspension or termination of rights to use the Service in accordance with the Terms;
+*   Issues that arise from the Company’s suspension or termination of rights to use the Service in accordance with the Terms;
 
-* Downtime caused by reasonable scheduled maintenance that is announced in advance.
+*   Downtime caused by reasonable scheduled maintenance that is announced in advance.
 
 This SLA Section does not apply to the Dedicated IP feature of Proton VPN Business and Enterprise subscriptions. To ensure the best redundancy possible for those services, we recommend customers to configure back-up servers via the administrator control panel.
 
@@ -147,15 +147,15 @@ If you fail to fulfill your obligation of payment as a user of a paid Account, y
 
 The limits put on delinquent restricted accounts are as follow:
 
-* If your Account exceeds the storage capacity limit, your Account will be prevented from receiving emails, sending emails with attachments, create new calendar events and uploading files to your Drive (you may however still send emails without attachments and receive emails from Proton);
+*   If your Account exceeds the storage capacity limit, your Account will be prevented from receiving emails, sending emails with attachments, create new calendar events and uploading files to your Drive (you may however still send emails without attachments and receive emails from Proton);
 
-* If your Account is an organization account with sub-users and/or invited users, your custom domain(s) will be disabled, your sub-users will be restricted and/or your invited users will be separated from your Account.
+*   If your Account is an organization account with sub-users and/or invited users, your custom domain(s) will be disabled, your sub-users will be restricted and/or your invited users will be separated from your Account.
 
 We may delete Accounts in a delinquent restricted state, and/or part or all of the data they contain after 12 months in that state. The following actions on your part will remove the Account of that state:
 
-* Subscribing to a paid tier with a valid payment subscription means, provided such paid tier covers the features you are using
+*   Subscribing to a paid tier with a valid payment subscription means, provided such paid tier covers the features you are using
 
-* Removing the excess features (for example, by reducing your used storage capacity or deleting sub-users so that they do not exceed the limits of a free plan).
+*   Removing the excess features (for example, by reducing your used storage capacity or deleting sub-users so that they do not exceed the limits of a free plan).
 
 subscriptions and credits are linked to the Account they have originally been purchased for and cannot be transferred to another account.
 
