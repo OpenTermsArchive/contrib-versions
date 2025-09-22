@@ -20,43 +20,43 @@ These Terms govern your use of the interactive websites, mobile and connected ap
 
 These Terms cover the following Ziff Davis websites and mobile applications:
 
-* [Ziff Davis](http://www.ziffdavis.com/)
-* [AskMen](http://www.askmen.com/), [AskMen Canada](http://ca.askmen.com/), [AskMen UK](http://uk.askmen.com/), [AskMen Australia](http://au.askmen.com/)
-* [PCMag](http://www.pcmag.com/), [PCMag UK](http://uk.pcmag.com/), [PCMag Australia](http://au.pcmag.com/)
-* [Lifehacker](https://lifehacker.com/)
-* [Geek](http://www.geek.com/)
-* [ExtremeTech](http://www.extremetech.com/)
-* [TechBargains](http://www.techbargains.com/)
-* [Mashable](http://www.mashable.com/)
-* [Offers.com](http://www.offers.com/)
-* [Credit Cards Explained](http://www.creditcardsexplained.com/)
-* [CouponCodes.com](http://www.couponcodes.com/)
-* [Black Friday](http://www.blackfriday.com/)
-* [The Black Friday](https://theblackfriday.com/)
-* [Deals of America](https://dealsofamerica.com/)
-* [Best Gifts](https://bestgifts.com/)
-* [Mashable Shop](https://shop.mashable.com/)
-* [RetailMeNot](https://www.retailmenot.com/)
-* [IGN](https://www.ign.com/), [IGN Canada](http://ca.ign.com/), [IGN UK](http://uk.ign.com/), [IGN Australia](http://au.ign.com/)
-* [**Spiceworks**](https://www.spiceworks.com/)
-* [**Spiceworks Community**](https://community.spiceworks.com/)
-* [**Spiceworks Ziff Davis (SWZD)**](https://swzd.com/)
-* [**Aberdeen Strategy & Research**](https://www.aberdeen.com/)
-* [**B2B Ideas**](https://www.b2bideas.com/)
-* [**IT ResearchOnline**](https://www.itresearchonline.com/)
-* [**ReadITQuik**](https://readitquik.com/)
-* [**TechHubBox**](https://www.techhubbox.com/)
-* [**Technology-Signals**](https://technology-signals.com/)
-* [**Ziff Davis Performance Marketing**](https://zdperformancemarketing.com/)
-* [**CNET**](https://www.cnet.com/)
-* [**ZDNET**](https://www.zdnet.com/)
+*   [Ziff Davis](http://www.ziffdavis.com/)
+*   [AskMen](http://www.askmen.com/), [AskMen Canada](http://ca.askmen.com/), [AskMen UK](http://uk.askmen.com/), [AskMen Australia](http://au.askmen.com/)
+*   [PCMag](http://www.pcmag.com/), [PCMag UK](http://uk.pcmag.com/), [PCMag Australia](http://au.pcmag.com/)
+*   [Lifehacker](https://lifehacker.com/)
+*   [Geek](http://www.geek.com/)
+*   [ExtremeTech](http://www.extremetech.com/)
+*   [TechBargains](http://www.techbargains.com/)
+*   [Mashable](http://www.mashable.com/)
+*   [Offers.com](http://www.offers.com/)
+*   [Credit Cards Explained](http://www.creditcardsexplained.com/)
+*   [CouponCodes.com](http://www.couponcodes.com/)
+*   [Black Friday](http://www.blackfriday.com/)
+*   [The Black Friday](https://theblackfriday.com/)
+*   [Deals of America](https://dealsofamerica.com/)
+*   [Best Gifts](https://bestgifts.com/)
+*   [Mashable Shop](https://shop.mashable.com/)
+*   [RetailMeNot](https://www.retailmenot.com/)
+*   [IGN](https://www.ign.com/), [IGN Canada](http://ca.ign.com/), [IGN UK](http://uk.ign.com/), [IGN Australia](http://au.ign.com/)
+*   [**Spiceworks**](https://www.spiceworks.com/)
+*   [**Spiceworks Community**](https://community.spiceworks.com/)
+*   [**Spiceworks Ziff Davis (SWZD)**](https://swzd.com/)
+*   [**Aberdeen Strategy & Research**](https://www.aberdeen.com/)
+*   [**B2B Ideas**](https://www.b2bideas.com/)
+*   [**IT ResearchOnline**](https://www.itresearchonline.com/)
+*   [**ReadITQuik**](https://readitquik.com/)
+*   [**TechHubBox**](https://www.techhubbox.com/)
+*   [**Technology-Signals**](https://technology-signals.com/)
+*   [**Ziff Davis Performance Marketing**](https://zdperformancemarketing.com/)
+*   [**CNET**](https://www.cnet.com/)
+*   [**ZDNET**](https://www.zdnet.com/)
 
 Applications:
 
-* RetailMeNot
-* IGN Core
-* IGN Playlist
-* TechBargains
+*   RetailMeNot
+*   IGN Core
+*   IGN Playlist
+*   TechBargains
 
 We reserve the right, in our discretion, to change or modify all or any part of the Agreement at any time, effective immediately upon notice published on this page. Your use of the Services constitutes your binding acceptance of these terms and conditions, including any changes or modifications made by Ziff Davis as permitted above. Please be sure to review the Agreement periodically to ensure familiarity with the most current version. If at any time the terms and conditions of the Agreement are no longer acceptable to you, you should immediately cease all use of the Services. It is your responsibility to refer to the Agreement upon accessing the Services.
 
@@ -184,14 +184,14 @@ Rewards. The Services enable you to access and earn rewards, subject to the guid
 
 Some transactions may not earn rewards or may earn at a rate different from the rate indicated by the Service. You are not guaranteed to earn a reward from a transaction for several reasons, without notice to you, including, without limitation:
 
-* Merchants may alter terms, conditions, or commission rates.
-* Merchants may discontinue their programs.
-* Merchants may exclude certain products from Reward eligibility.
-* Merchants may have technical failures which result in transactions failing to be tracked or attributed to you.
-* Links may fail to function properly.
-* Links may be disabled by web browsers or ad blockers.
-* Merchants may reject transactions due to suspected policy violations. 
-* Other: charge-backs, product returns, accounting error, Merchant non-payment, fraudulent transactions, our inability to contact you to validate transactions, your inappropriate distribution of Links, or your failure to comply with Merchant policies.  
+*   Merchants may alter terms, conditions, or commission rates.
+*   Merchants may discontinue their programs.
+*   Merchants may exclude certain products from Reward eligibility.
+*   Merchants may have technical failures which result in transactions failing to be tracked or attributed to you.
+*   Links may fail to function properly.
+*   Links may be disabled by web browsers or ad blockers.
+*   Merchants may reject transactions due to suspected policy violations. 
+*   Other: charge-backs, product returns, accounting error, Merchant non-payment, fraudulent transactions, our inability to contact you to validate transactions, your inappropriate distribution of Links, or your failure to comply with Merchant policies.  
     
 
 If the Merchant pays less than the expected amount or does not pay a commission for the transaction, we reserve the right, in our sole discretion, to adjust or cancel the reward. Furthermore, we reserve the right, in our sole discretion, to withhold, cancel or adjust the amount of any reward, for any reason at any time. By using the Services, you accept this condition. CNET may assign its rights and obligations hereunder to any person, including any affiliate, without your consent.
@@ -282,17 +282,17 @@ To the extent that you provide us with any suggestions, feedback or other inform
 
 Ziff Davis has the right, but not the obligation, to investigate any illegal and/or unauthorized use of the Services and appropriate legal action may be taken, including without limitation, civil, and injunctive relief. While utilizing the Services, you may not:
 
-* Use the Services for any commercial purpose, to distribute any advertising or solicitation of funds or goods and services, or to solicit users to join competitive online services;
-* Post on the Services any links to any external Internet sites that are obscene or pornographic, or display pornographic or sexually explicit material of any kind as determined by Ziff Davis;
-* Post or transmit through the Services any Material that violates or infringes another person’s intellectual property rights (including, but not limited to, third party music, videos, photos or other materials where you do not have written authority from the owner to post or transmit such materials);
-* Post or transmit any Material that contains any advertising, promotional materials, “junk mail”, “spam”, “chain letters”, “pyramid schemes” or any other form of solicitation as determined by Ziff Davis;
-* Reformat, frame or mirror any portion of any web page that is part of the Service;
-* Post Material containing restricted or password only access pages, or hidden pages or images (those not linked to or from another accessible page);
-* Submit any Material that impersonates a person or entity, falsely implies sponsorship or endorsement of that Material by the Services, Ziff Davis and/or any third party, falsify or delete any author attributions in any Material, or promote any information that you know is false or misleading;
-* Transmit any viruses, worms, defects, Trojan horses or other items of a contaminating or destructive nature through the Services or otherwise attempt to interfere with the proper working of the Service or the use and enjoyment of the Services by other users;
-* Promote an illegal or unauthorized copy of another person’s copyrighted work, such as providing pirated computer programs or videos or links to them, providing information to circumvent manufacture-installed copy-protect devices, or providing pirated music or links to pirated music files;
-* Submit Material, or engage in any activity, that is libelous, defamatory, obscene, pornographic, abusive, harassing, threatening, unlawful, or violates the rights of any third party (including their rights of privacy or publicity) or that promotes or encourages illegal activity, racism, bigotry, hatred, physical harm or discrimination of any kind against any group or individual; or
-* Harvest or collect email addresses or other contact information of other users by electronic or other means.
+*   Use the Services for any commercial purpose, to distribute any advertising or solicitation of funds or goods and services, or to solicit users to join competitive online services;
+*   Post on the Services any links to any external Internet sites that are obscene or pornographic, or display pornographic or sexually explicit material of any kind as determined by Ziff Davis;
+*   Post or transmit through the Services any Material that violates or infringes another person’s intellectual property rights (including, but not limited to, third party music, videos, photos or other materials where you do not have written authority from the owner to post or transmit such materials);
+*   Post or transmit any Material that contains any advertising, promotional materials, “junk mail”, “spam”, “chain letters”, “pyramid schemes” or any other form of solicitation as determined by Ziff Davis;
+*   Reformat, frame or mirror any portion of any web page that is part of the Service;
+*   Post Material containing restricted or password only access pages, or hidden pages or images (those not linked to or from another accessible page);
+*   Submit any Material that impersonates a person or entity, falsely implies sponsorship or endorsement of that Material by the Services, Ziff Davis and/or any third party, falsify or delete any author attributions in any Material, or promote any information that you know is false or misleading;
+*   Transmit any viruses, worms, defects, Trojan horses or other items of a contaminating or destructive nature through the Services or otherwise attempt to interfere with the proper working of the Service or the use and enjoyment of the Services by other users;
+*   Promote an illegal or unauthorized copy of another person’s copyrighted work, such as providing pirated computer programs or videos or links to them, providing information to circumvent manufacture-installed copy-protect devices, or providing pirated music or links to pirated music files;
+*   Submit Material, or engage in any activity, that is libelous, defamatory, obscene, pornographic, abusive, harassing, threatening, unlawful, or violates the rights of any third party (including their rights of privacy or publicity) or that promotes or encourages illegal activity, racism, bigotry, hatred, physical harm or discrimination of any kind against any group or individual; or
+*   Harvest or collect email addresses or other contact information of other users by electronic or other means.
 
 _The above is not a complete list of illegal and/or prohibited uses of the Service._
 
@@ -305,14 +305,14 @@ Despite our rights outlined herein, you shall remain solely responsible for all 
 
 Ziff Davis has the right, but not the obligation, to take any of the following actions in our sole discretion at any time and for any reason without giving you any prior notice:
 
-* Restrict, suspend, or terminate your access to all or any part of our Services;
-* Change, suspend, or discontinue all or any part of our Services;
-* Refuse, move, edit or remove any Material for any reason;
-* Refuse, move, edit or remove any Content that is available on the Services;
-* Deactivate or delete your account(s) and all related information and files in your account(s);
-* Disclose your identity or other information about you to any third party who claims that Material posted by you violates their legal rights, including, but not limited to, their intellectual property rights or their rights of privacy or publicity;
-* Disclose your identity or other information about you to law enforcement officials upon request if Ziff Davis determines in its sole discretion that such disclosure is in the interest of protecting its users or the public;
-* Establish general practices and limits concerning use of our sites and Services.
+*   Restrict, suspend, or terminate your access to all or any part of our Services;
+*   Change, suspend, or discontinue all or any part of our Services;
+*   Refuse, move, edit or remove any Material for any reason;
+*   Refuse, move, edit or remove any Content that is available on the Services;
+*   Deactivate or delete your account(s) and all related information and files in your account(s);
+*   Disclose your identity or other information about you to any third party who claims that Material posted by you violates their legal rights, including, but not limited to, their intellectual property rights or their rights of privacy or publicity;
+*   Disclose your identity or other information about you to law enforcement officials upon request if Ziff Davis determines in its sole discretion that such disclosure is in the interest of protecting its users or the public;
+*   Establish general practices and limits concerning use of our sites and Services.
 
 You agree that Ziff Davis will not be liable to you or any third party for taking any of these actions. You understand and agree that our Services may include communications such as advertisements, service announcements and administrative messages from us or from our partners, and that these are considered part of the Services.
 
@@ -336,12 +336,12 @@ Please note that we may allow certain manufacturers to license, use and/or repri
 
 You agree to indemnify, defend and hold Ziff Davis and its affiliates, and their respective officers, directors, owners, agents, information providers and licensors (collectively, the “Ziff Davis Parties”) harmless from and against any and all claims, liability, losses, damages, costs and expenses (including attorneys’ fees) incurred by any Ziff Davis Party in connection with:
 
-* Your use of, or connection to, our Services;
-* Any use or alleged use of your accounts or your passwords by any person, whether or not authorized by you;
-* The content, the quality, or the performance of Material that you submit;
-* Your violation of the Agreement or our privacy policies;
-* Your violation of the rights of any other person or entity; or
-* Your violation of any applicable laws, rules or regulations.
+*   Your use of, or connection to, our Services;
+*   Any use or alleged use of your accounts or your passwords by any person, whether or not authorized by you;
+*   The content, the quality, or the performance of Material that you submit;
+*   Your violation of the Agreement or our privacy policies;
+*   Your violation of the rights of any other person or entity; or
+*   Your violation of any applicable laws, rules or regulations.
 
 Ziff Davis reserves the right, at its own expense, to assume the exclusive defense and control of any matter otherwise subject to indemnification by you, and in such case, you agree to cooperate with Ziff Davis’ defense of such claim. You may not settle any claim covered by this indemnification provision without our prior written approval.
 
@@ -458,15 +458,15 @@ Arbitration is more informal than a lawsuit in court. Arbitration uses a neutral
 
 (1) **Claims Subject to Arbitration**: To the fullest extent permitted by applicable law, Ziff Davis and you agree to arbitrate **all disputes and claims** between us, except for claims arising from bodily injury or that pertain to enforcing, protecting, or the validity of your or our intellectual property rights (or the intellectual property rights of any of our licensors, affiliates and partners). This Arbitration Agreement is intended to be broadly interpreted. It includes, but is not limited to:
 
-* claims arising out of or relating to any aspect of the relationship between us, whether based in contract, tort, fraud, misrepresentation or any other statutory or common-law legal theory;
+*   claims arising out of or relating to any aspect of the relationship between us, whether based in contract, tort, fraud, misrepresentation or any other statutory or common-law legal theory;
 
-* claims that arose before this or any prior Agreement (including, but not limited to, claims relating to advertising);
+*   claims that arose before this or any prior Agreement (including, but not limited to, claims relating to advertising);
 
-* claims for mental or emotional distress or injury not arising out of physical bodily injury;
+*   claims for mental or emotional distress or injury not arising out of physical bodily injury;
 
-* claims that are currently the subject of purported class action litigation in which you are not a current member of a certified class; and
+*   claims that are currently the subject of purported class action litigation in which you are not a current member of a certified class; and
 
-* claims that may arise after the termination of this Agreement.
+*   claims that may arise after the termination of this Agreement.
 
 References to “Ziff Davis,” “you,” “we” and “us” in this Arbitration Agreement include our respective predecessors in interest, successors, and assigns, as well as our respective past, present, and future parents, subsidiaries and affiliates (including Ziff Davis, Inc., Ziff Davis, LLC, Everyday Health, Inc., Everyday Health Media, LLC, and their affiliates); those entities and our respective agents, employees, licensees, licensors, and providers of content as of the time your or our claim arises; and all authorized or unauthorized users or beneficiaries of Services under this or prior Agreements between us. Notwithstanding the foregoing, either party may elect to have claims heard in small claims court seeking only individualized relief, so long as the action is not removed or appealed to a court of general jurisdiction. This Arbitration Agreement does not preclude you from bringing issues to the attention of federal, state, or local agencies. **You agree that, by entering into this Agreement, you and we are each waiving the right to participate in a class action and to a trial by jury to the fullest extent permitted by applicable law.** This Agreement evidences a transaction in interstate commerce, and thus the Federal Arbitration Act (9 U.S.C. §§ 1-16) governs the interpretation and enforcement of this arbitration provision. This Arbitration Agreement shall survive termination of this Agreement.
 
