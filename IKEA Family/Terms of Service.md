@@ -47,22 +47,22 @@ Le Programme IKEA Family permet au Membre IKEA Family de bénéficier d’avanta
 
 **2.3.** Le Programme est ouvert à toute personne physique, majeure, n’agissant pas à titre professionnel (particulier) et qui, dans le cadre de la création de son Compte IKEA Family, renseigne les champs suivants, ceux identifiés avec un astérisque étant obligatoires :
 
-* Civilité \* ;·        
-* Nom \* ;·        
-* Prénom \*;·        
-* Adresse email valide \* ;·        
-* Adresse postale ;·        
-* Pays ; ·        
-* Téléphone mobile ; ·        
-* Mois et année de naissance \*; ·        
-* Le magasin IKEA préféré \*; ·        
-* Mot de passe \*; ·       
-* Acceptation ou non de recevoir des communications personnalisées de IKEA dans le cadre du Programme\*. À noter :
+*   Civilité \* ;·        
+*   Nom \* ;·        
+*   Prénom \*;·        
+*   Adresse email valide \* ;·        
+*   Adresse postale ;·        
+*   Pays ; ·        
+*   Téléphone mobile ; ·        
+*   Mois et année de naissance \*; ·        
+*   Le magasin IKEA préféré \*; ·        
+*   Mot de passe \*; ·       
+*   Acceptation ou non de recevoir des communications personnalisées de IKEA dans le cadre du Programme\*. À noter :
 
            - Le Membre IKEA Family pourra modifier sa décision de recevoir des communications ainsi que, le cas échéant, les canaux de communication souhaités en se rendant dans l’onglet « Gérer votre compte Préférences », puis dans la rubrique « Préférences ».   
            - A défaut d’accord pour recevoir des communications personnalisées de IKEA, l’adresse email du Membre IKEA Family sera uniquement utilisée pour l’envoi des récompenses du Programme de fidélité (voir Article 4.b.2)·        
 
-* Acceptation des présentes Conditions Générales. \*
+*   Acceptation des présentes Conditions Générales. \*
 
 **2.4.** Comme indiqué à l’article 2.3, le Programme IKEA Family est réservé aux particuliers. Ainsi  les professionnels ne peuvent pas adhérer au Programme IKEA Family. Ils peuvent toutefois rejoindre le Réseau IKEA Pro selon les conditions prévues dans les conditions générales correspondantes accessibles [ici](https://www.ikea.com/fr/fr/customer-service/terms-conditions/conditions-generales-de-vente-produits-ikea-ikea-business-pour-les-pros-pub7f52ad70/) .
 
@@ -90,12 +90,12 @@ Au titre du Programme IKEA Family, le Membre IKEA Family peut bénéficier d’a
 
 La liste complète des Avantages et leurs conditions d’obtentions et/ou utilisation est disponible sur le Compte IKEA Family du Membre, ainsi que sur le Site et l’Application en cliquant [ici](https://www.ikea.com/fr/fr/ikea-family/benefits/) . Les avantages du Programme IKEA Family comprennent notamment : 
 
-* Des offres spécifiques sur un certain nombre de produits et/ou services IKEA ;
-* Des garanties commerciales gratuites. Voir le détails et conditions dans les conditions générales de vente IKEA accessibles [ici](https://www.ikea.com/fr/fr/customer-service/terms-conditions/conditions-generales-de-vente-pub91a0d710/) , ainsi que sur la page dédiée aux « Garanties IKEA » accessible [ici](https://www.ikea.com/fr/fr/customer-service/returns-claims/guarantee/) .
-* La possibilité de bénéficier du « Droit au changement d’avis de IKEA - 365 jours » sans avoir à présenter sa preuve d’achat ;
-* Des invitations à des ateliers, évènements, avant-premières et au savoir-faire IKEA ;
-* Le remplacement gratuitement du sac bleu FRAKTA si abimé ;
-* Une boisson chaude (café ou thé) offerte dans les Magasins disposant d’un restaurant (hors Bistrot).
+*   Des offres spécifiques sur un certain nombre de produits et/ou services IKEA ;
+*   Des garanties commerciales gratuites. Voir le détails et conditions dans les conditions générales de vente IKEA accessibles [ici](https://www.ikea.com/fr/fr/customer-service/terms-conditions/conditions-generales-de-vente-pub91a0d710/) , ainsi que sur la page dédiée aux « Garanties IKEA » accessible [ici](https://www.ikea.com/fr/fr/customer-service/returns-claims/guarantee/) .
+*   La possibilité de bénéficier du « Droit au changement d’avis de IKEA - 365 jours » sans avoir à présenter sa preuve d’achat ;
+*   Des invitations à des ateliers, évènements, avant-premières et au savoir-faire IKEA ;
+*   Le remplacement gratuitement du sac bleu FRAKTA si abimé ;
+*   Une boisson chaude (café ou thé) offerte dans les Magasins disposant d’un restaurant (hors Bistrot).
 
 Les Avantages ne sont ni échangeables, ni remboursables, et ne feront pas l’objet de versement en espèces.  
 
@@ -107,14 +107,14 @@ Les Avantages ne sont ni échangeables, ni remboursables, et ne feront pas l’o
 
 Au titre du Programme IKEA Family, le Membre IKEA Family cumulera des points de fidélité (ci-après les **« Points de fidélité »**) dans les cas et conditions suivantes :
 
-* 1 Point de fidélité par tranche de 5 € d’achat (arrondi à l’inférieur) effectué auprès de IKEA (hors cartes cadeaux) dans l’un des Magasins, Ateliers, sur le Site, l’Application ou auprès du service de vente par téléphone IKEA ;
-* 1 Point de fidélité maximum par semaine en cas de connexion du Membre IKEA Family à son Compte IKEA Family via le Site et/ou l’Application ;
-* 5 Points de fidélité à la création du Compte IKEA Family ;
-* 5 Points de fidélité à la conversion du compte IKEA en Compte IKEA Family ;
-* 2 Points de fidélité maximum par semaine pour la création et l’enregistrement d’une liste de favoris sur son Compte IKEA Family ;
-* 5 Points de fidélité maximum par semaine pour la création et l’enregistrement d’un plan de cuisine 3D sur son Compte IKEA Family ;
-* 20 Points de fidélité maximum par semaine pour l’inscription et la participation effective  à un évènement organisé dans l’un des Magasins ou Ateliers;
-* 25 Points de fidélité maximum par semaine pour avoir réservé et avoir effectivement assisté à  un rendez-vous de conception en ligne ou en Magasin auprès de IKEA.   
+*   1 Point de fidélité par tranche de 5 € d’achat (arrondi à l’inférieur) effectué auprès de IKEA (hors cartes cadeaux) dans l’un des Magasins, Ateliers, sur le Site, l’Application ou auprès du service de vente par téléphone IKEA ;
+*   1 Point de fidélité maximum par semaine en cas de connexion du Membre IKEA Family à son Compte IKEA Family via le Site et/ou l’Application ;
+*   5 Points de fidélité à la création du Compte IKEA Family ;
+*   5 Points de fidélité à la conversion du compte IKEA en Compte IKEA Family ;
+*   2 Points de fidélité maximum par semaine pour la création et l’enregistrement d’une liste de favoris sur son Compte IKEA Family ;
+*   5 Points de fidélité maximum par semaine pour la création et l’enregistrement d’un plan de cuisine 3D sur son Compte IKEA Family ;
+*   20 Points de fidélité maximum par semaine pour l’inscription et la participation effective  à un évènement organisé dans l’un des Magasins ou Ateliers;
+*   25 Points de fidélité maximum par semaine pour avoir réservé et avoir effectivement assisté à  un rendez-vous de conception en ligne ou en Magasin auprès de IKEA.   
 
 A toutes fins utiles il est rappelé que, conformément aux dispositions de l’article 3 des Conditions Générales, **la Carte IKEA Family devra avoir été présentée par le Membre IKEA Family afin de cumuler les Points de fidélité.**  
 
@@ -136,8 +136,8 @@ Les Récompenses ne sont pas cumulables entre elles, ni avec d’autres coupons 
 
 En cas de retour total ou partiel d’une commande/achat par le Membre IKEA Family, et ce peu important le motif :
 
-* **Si des Points de fidélité ont été crédités au Membre IKEA Family pour ledit achat :** Les Points de fidélité seront annulés et décrédités du Compte IKEA Family du Membre à hauteur des produits retournés. Exemple : 10 € d’achat, 5e de produit retourné = Déduction de 1 Point de fidélité du Compte IKEA Family du Membre.  
-* **Si une Récompense a été utilisée pour ledit achat :** La Récompense et les Points de fidélité correspondant seront définitivement perdus.  
+*   **Si des Points de fidélité ont été crédités au Membre IKEA Family pour ledit achat :** Les Points de fidélité seront annulés et décrédités du Compte IKEA Family du Membre à hauteur des produits retournés. Exemple : 10 € d’achat, 5e de produit retourné = Déduction de 1 Point de fidélité du Compte IKEA Family du Membre.  
+*   **Si une Récompense a été utilisée pour ledit achat :** La Récompense et les Points de fidélité correspondant seront définitivement perdus.  
 
 5\. La désadhésion au Programme de fidélité 
 --------------------------------------------
