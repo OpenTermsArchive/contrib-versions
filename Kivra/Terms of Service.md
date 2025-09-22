@@ -128,10 +128,10 @@ The Service is normally available 24 hours a day, seven (7) days a week, year-ro
 
 You are responsible for:
 
-* having the necessary connections and equipment for the Service, including a working internet connection and digital devices and browsers that enable access to the Service.
-* the accuracy of the information provided in connection with registration and use of the Service and any Additional Services.
-* continuously updating your contact details so that they are correct at all times and ensuring that you have access to the specified contact details and that these are functional for receiving information from Kivra.
-* ensuring that personal and user-specific information such as user identity and password or other documents, certificates, or devices
+*   having the necessary connections and equipment for the Service, including a working internet connection and digital devices and browsers that enable access to the Service.
+*   the accuracy of the information provided in connection with registration and use of the Service and any Additional Services.
+*   continuously updating your contact details so that they are correct at all times and ensuring that you have access to the specified contact details and that these are functional for receiving information from Kivra.
+*   ensuring that personal and user-specific information such as user identity and password or other documents, certificates, or devices
 
 that can be used for access to the Service are stored in a secure manner and are not used by or disclosed to any unauthorized person. If you suspect that such information has come into the possession of an unauthorized person or is otherwise misused, you are obliged to immediately take action to limit access to the Service and inform Kivra about the situation.
 
@@ -239,46 +239,46 @@ Otherwise, the dispute shall be settled by a general court.
 Older versions
 --------------
 
-* [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6bOCYbPvW8cJQe7FWglMlV/c7da5e84b4a06caa124082320bf159cb/2025-06-28_-_2025-08-13.pdf)
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6bOCYbPvW8cJQe7FWglMlV/c7da5e84b4a06caa124082320bf159cb/2025-06-28_-_2025-08-13.pdf)
 
 Gällde fr.o.m 2025-06-28 t.om. 2025-08-13
 
-* [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/25IGjBQ5g84h1aosyC22KY/31c3532595e444c3ab7f47b0bed3b4fd/2025-05-29_-_2025-06-27.pdf)
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/25IGjBQ5g84h1aosyC22KY/31c3532595e444c3ab7f47b0bed3b4fd/2025-05-29_-_2025-06-27.pdf)
 
 Gällde fr.o.m 2025-05-29 t.om. 2025-06-27
 
-* [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6AxEynhhIzD61TeMMUxUla/5ea22f380ee8105c0105cb29fff0dfd2/2025-02-15_-_2025-05-28.pdf)
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6AxEynhhIzD61TeMMUxUla/5ea22f380ee8105c0105cb29fff0dfd2/2025-02-15_-_2025-05-28.pdf)
 
 Gällde fr.o.m 2025-02-15 t.om. 2025-05-28
 
-* [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/26M8dcm2LB4X0vqKXi9rw3/79687a0e7a2300c4c115c66d032380cc/2024-10-18_-_2025-02-14.pdf)
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/26M8dcm2LB4X0vqKXi9rw3/79687a0e7a2300c4c115c66d032380cc/2024-10-18_-_2025-02-14.pdf)
 
 Gällde fr.o.m 2024-10-18 t.om. 2025-02-14
 
-* [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/4SN09jNzr8OXtNTK48iwTu/273a197a888f3f521feb037003df92c8/2024-03-28_-_2024-10-17.pdf)
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/4SN09jNzr8OXtNTK48iwTu/273a197a888f3f521feb037003df92c8/2024-03-28_-_2024-10-17.pdf)
 
 Gällde fr.o.m 2024-03-28 t.om. 2024-10-17
 
-* [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/vVFfwMKtWzqviJlVEPuJW/ffd10c43a05796ae11573ab7a1992422/2023-11-24_-_2024-03-27.pdf)
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/vVFfwMKtWzqviJlVEPuJW/ffd10c43a05796ae11573ab7a1992422/2023-11-24_-_2024-03-27.pdf)
 
 Gällde fr.o.m 2023-11-24 t.om. 2024-03-27
 
-* [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6soAUYXAbBWG38atd8F4jj/663930ed388474fb7eae046df35a2f07/2022-04-30_-_2023-11-24.pdf)
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/6soAUYXAbBWG38atd8F4jj/663930ed388474fb7eae046df35a2f07/2022-04-30_-_2023-11-24.pdf)
 
 Gällde fr.o.m 2022-04-29 t.om. 2023-11-24
 
-* [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/9yc1OZYzbe1gGoyB17m4b/817f7547885cf85cf79ede2cae9de988/2022-01-20_-_2022-04-29.pdf)
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/9yc1OZYzbe1gGoyB17m4b/817f7547885cf85cf79ede2cae9de988/2022-01-20_-_2022-04-29.pdf)
 
 Gällde fr.o.m 2022-01-20 t.om. 2022-04-29
 
-* [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/7mqLiknrUN8BCoFeLcui2R/ac3d98055ad14fa5af9f091f3f835cdd/2021-06-08_-_2022-01-19.pdf)
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/7mqLiknrUN8BCoFeLcui2R/ac3d98055ad14fa5af9f091f3f835cdd/2021-06-08_-_2022-01-19.pdf)
 
 Gällde fr.o.m. 2021-06-08 t.om. 2022-01-19
 
-* [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/4C9XBg4ePMAAMXyMommxHO/f57e3d608fc6fb9dcc908764f37aa127/2020-12-02_-_2021-06-07.pdf)
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/4C9XBg4ePMAAMXyMommxHO/f57e3d608fc6fb9dcc908764f37aa127/2020-12-02_-_2021-06-07.pdf)
 
 Gällde fr.o.m. 2020-12-02 t.o.m. 2021-06-07
 
-* [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/2UmqoX2JoG17VPjBOBIrwW/54f1cf01ab13afa9b082b540cef7d25e/2018-05-25_-_2020-12-01.pdf)
+*   [Allmänna villkor för tjänsten.](https://assets.ctfassets.net/7jy2i7elrvww/2UmqoX2JoG17VPjBOBIrwW/54f1cf01ab13afa9b082b540cef7d25e/2018-05-25_-_2020-12-01.pdf)
 
 Gällde fr.o.m. 2018-05-25 t.o.m. 2020-12-01
