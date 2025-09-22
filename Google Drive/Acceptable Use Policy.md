@@ -241,4 +241,6 @@ Content distribution 
 
 Google Drive allows you to store, share and stream video content, but should not be used as a replacement for a content distribution network. For large-scale public streaming, YouTube is a better fit. Google Drive will restrict usage when it appears that it's being used for large-scale public streaming. Repeated violations may result in additional action, including terminating your account or your ability to use Google Drive.
 
-Translations of our policies are provided for your convenience. If there is a conflict between the text of this policy and the text of the English-language version of the policy, the text of the English-language version of the policy will take precedence.
+Translations of our policies are provided for your convenience. If there is a conflict between the text of this policy and the text of the English-language version of the policy, the text of the English-language version of the policy will take precedence. 
+
+Learn about [Google Vids availability](https://support.google.com/docs/answer/15609411).
