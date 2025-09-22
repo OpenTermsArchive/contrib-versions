@@ -12,18 +12,18 @@ Except as otherwise noted in this Privacy Policy, IndieGala is a data controller
   
 We also collect other kinds of information from you or other sources, which we refer to as "Other Information" in this Policy, which may include but is not limited to:
 
-* Information about your use of the Services, such as usage data and statistical information, which may be aggregated.
-* Browsing history including the websites or other services you visited before and after interacting with the Services.
-* Searches for and interactions with e-commerce opportunities, such as offers contained in the Services
-* Non-precise information about the approximate physical location (for example, at the city or zip code level) of a user’s computer or device derived from the IP address of such computer or device (**"GeoIP Data"**).
-* Internet Protocol (**"IP"**) address, which is a unique string of numbers automatically assigned to your device whenever you access the Internet.
-* Information collected through the use of cookies, Javascript, pixel tags, and other technologies, including information collected using such methods and technologies about (i) your visits to, and interaction and engagement with, the Services, content and ads on third party websites, applications, platforms and other media channels (**"Channels"**), and (ii) your interaction with emails including the content and ads therein (collectively, **"Online Data"**).
-* Device type, settings and software used.
-* Log files, which may include IP addresses, browser type, ISP referring/exit pages, operating system, date/time stamps and/or clickstream data, including any clicks on customized links.
-* Web Beacons, which are electronic files that allow a website to count users who have visited that page or to access certain cookies.
-* Pixel Tags, also known as clear GIFs, beacons, spotlight tags or web bugs, which are a method for passing information from the user’s computer to a third party website.
-* Local Shared Objects, and Local Storage, such as HTML5.
-* Embedded Scripts which are programming codes designed to collect information about your interactions with the Service by temporarily downloading onto your device from our web server or a third party with whom we work. Embedded scripts are only active while you are connected to the Service and are deleted or deactivated thereafter.
+*   Information about your use of the Services, such as usage data and statistical information, which may be aggregated.
+*   Browsing history including the websites or other services you visited before and after interacting with the Services.
+*   Searches for and interactions with e-commerce opportunities, such as offers contained in the Services
+*   Non-precise information about the approximate physical location (for example, at the city or zip code level) of a user’s computer or device derived from the IP address of such computer or device (**"GeoIP Data"**).
+*   Internet Protocol (**"IP"**) address, which is a unique string of numbers automatically assigned to your device whenever you access the Internet.
+*   Information collected through the use of cookies, Javascript, pixel tags, and other technologies, including information collected using such methods and technologies about (i) your visits to, and interaction and engagement with, the Services, content and ads on third party websites, applications, platforms and other media channels (**"Channels"**), and (ii) your interaction with emails including the content and ads therein (collectively, **"Online Data"**).
+*   Device type, settings and software used.
+*   Log files, which may include IP addresses, browser type, ISP referring/exit pages, operating system, date/time stamps and/or clickstream data, including any clicks on customized links.
+*   Web Beacons, which are electronic files that allow a website to count users who have visited that page or to access certain cookies.
+*   Pixel Tags, also known as clear GIFs, beacons, spotlight tags or web bugs, which are a method for passing information from the user’s computer to a third party website.
+*   Local Shared Objects, and Local Storage, such as HTML5.
+*   Embedded Scripts which are programming codes designed to collect information about your interactions with the Service by temporarily downloading onto your device from our web server or a third party with whom we work. Embedded scripts are only active while you are connected to the Service and are deleted or deactivated thereafter.
 
   
 Under certain circumstances and depending on applicable law, some of this Other Information may constitute Personal Information. Personal Information together with Other Information is hereinafter referred to as "User Information".
@@ -38,16 +38,16 @@ By "Process", "Processing" or "Processed" in the context of your personal data w
 
 There are three types of personal data we or our partners may collect from you:
 
-* Personal information which is provided voluntarily by you to us:
-    * personal data you provide when registering an account on our web platform;
-    * personal data you provide when you subscribe to our email newsletter and/or push notifications;
-    * personal data you provide when you participate in a giveaway offer we organize;
-    * any other personal data you chose to send to us via email or postal service.
-* Personal information we collect automatically:
-    * information about your computer and your position. This may include IP address, geo-location, operating system, number of visits and/or page views, referral page and browsing history on our website;
-    * information about the purchases made on this website or, in some cases, made on third parties (e.g. if you connect your Steam account to your IndieGala account and your Steam privacy settings are set to public, we may see the list of games you own on Steam or on which groups you are part of);
-    * information about the giveaways you've participated in on our site or on third party partners.
-* Online Behavioral Advertising ("OBA") data collected by us or third parties we work with
+*   Personal information which is provided voluntarily by you to us:
+    *   personal data you provide when registering an account on our web platform;
+    *   personal data you provide when you subscribe to our email newsletter and/or push notifications;
+    *   personal data you provide when you participate in a giveaway offer we organize;
+    *   any other personal data you chose to send to us via email or postal service.
+*   Personal information we collect automatically:
+    *   information about your computer and your position. This may include IP address, geo-location, operating system, number of visits and/or page views, referral page and browsing history on our website;
+    *   information about the purchases made on this website or, in some cases, made on third parties (e.g. if you connect your Steam account to your IndieGala account and your Steam privacy settings are set to public, we may see the list of games you own on Steam or on which groups you are part of);
+    *   information about the giveaways you've participated in on our site or on third party partners.
+*   Online Behavioral Advertising ("OBA") data collected by us or third parties we work with
 
   
 We may use analytics software (e.g. Google Analytics) to collect data and to better understand your behaviour on our site and your commercial preferences. This software may record information such as how often you use our website, the events that occur within the website, which product pages you visit or which products you buy, aggregated usage, performance data, and where you reached our site from.  
@@ -59,25 +59,25 @@ These third parties may use Online Data as well as other User Information to sen
 The specific providers we use for OBA are subject to constant change. Below you can find a list of some of the providers we use most often:  
   
 
-* IndieGala
-* [PubNub](https://www.pubnub.com/)
-* [Incapsula](https://www.incapsula.com/%E2%80%8E)
-* [Google Analytics](https://analytics.google.com/analytics/web/)
-* [Facebook](https://www.facebook.com/)
-* [Twitter](https://twitter.com/)
-* [YouTube](https://www.youtube.com/?hl=it&gl=IT)
-* [Google+](https://plus.google.com/)
-* [Reddit](https://www.reddit.com/)
-* [Linode](https://www.reddit.com/)
-* [Amazon Web Services](https://aws.amazon.com/)
+*   IndieGala
+*   [PubNub](https://www.pubnub.com/)
+*   [Incapsula](https://www.incapsula.com/%E2%80%8E)
+*   [Google Analytics](https://analytics.google.com/analytics/web/)
+*   [Facebook](https://www.facebook.com/)
+*   [Twitter](https://twitter.com/)
+*   [YouTube](https://www.youtube.com/?hl=it&gl=IT)
+*   [Google+](https://plus.google.com/)
+*   [Reddit](https://www.reddit.com/)
+*   [Linode](https://www.reddit.com/)
+*   [Amazon Web Services](https://aws.amazon.com/)
 
 ### Why do we collect your personal data and how do we use it?
 
 There are various reasons for which we collect your personal information.
 
-* **To create an account for you on our website:**  
+*   **To create an account for you on our website:**  
     When an account is created for you on your website, your purchases are more secure as they are password protected and have extra security measures added that will prevent malicious users to access your orders. We will also use this information to better administrate your account, improve your experience on the website by adding new features and services, to send you statements and invoices and/or verify that you satisfy the age restricition for certain products.
-* **Direct and third party marketing content.**  
+*   **Direct and third party marketing content.**  
     We may Process your User Information to contact you via email or other methods of communication to provide you with information regarding the Services that may be of interest to you. We may send information to you regarding the Services, upcoming promotions and other information that may be of interest to you, using the contact details that you have provided to us and always in compliance with applicable law. We may also send you third party promotional content from one or more of our business partners.  
       
     You may unsubscribe from our newsletter lists at any time by following the unsubscribe instructions included in every email we send. We will not send you any emails from a list you have selected to be unsubscribed from, but we may continue to contact you to the extent necessary for the purposes of any other Services you have requested or for additional emails you have signed up for.
@@ -90,16 +90,16 @@ You can request us to delete all the information we have collected about you. It
 
 We may disclose your User Information to other entities for legitimate business purposes (including operating the Services, and providing services to you), in accordance with applicable law. In addition, we may disclose your User Information to:
 
-* legal and regulatory authorities, upon request, or for the purposes of reporting any actual or suspected breach of applicable law or regulation;
-* outside professional advisors (such as accountants, auditors, or lawyers), subject to binding contractual obligations of confidentiality;
-* third party Processors (such as analytic providers; data centers, payment gateways; etc.), located anywhere in the world, subject to the requirements noted below in this Section 9;
-* any relevant party, law enforcement agency or court, to the extent necessary for the establishment, exercise or defense of legal rights;
-* any relevant party for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and the prevention of threats to public security;
-* any relevant third party acquirer(s), in the event that we sell or transfer all or any relevant portion of our business or assets (including in the event of a reorganization, dissolution or liquidation);
-* any relevant third party provider, where our Channels use third party advertising, plugins or content. If you choose to interact with any such advertising, plugins or content, information about your activities on the Channels to provide you targeted advertising based upon your interests may be shared with the relevant third party provider. If you click or tap on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria;
-* third party developers for whom IndieGala processes payments for. IndieGala may provide your email address to these third party developers so they may deliver the final version of the game you purchased.
-* any sponsors of promotional giveaways, the registration data for such events is to be used by us as part of User Information, and may be shared with the sponsor and others, subject to this Policy and the sponsor’s privacy policy. We may also share your information with third party vendors involved in the administration of such events. For promotional giveaways, please read the official rules or terms and conditions carefully before you submit your information;
-* to third parties whose practices are not covered by this Privacy Policy (e.g., third party providers of goods and services, marketing and advertising companies and agencies, analytics providers and retailers).
+*   legal and regulatory authorities, upon request, or for the purposes of reporting any actual or suspected breach of applicable law or regulation;
+*   outside professional advisors (such as accountants, auditors, or lawyers), subject to binding contractual obligations of confidentiality;
+*   third party Processors (such as analytic providers; data centers, payment gateways; etc.), located anywhere in the world, subject to the requirements noted below in this Section 9;
+*   any relevant party, law enforcement agency or court, to the extent necessary for the establishment, exercise or defense of legal rights;
+*   any relevant party for the purposes of prevention, investigation, detection or prosecution of criminal offences or the execution of criminal penalties, including safeguarding against and the prevention of threats to public security;
+*   any relevant third party acquirer(s), in the event that we sell or transfer all or any relevant portion of our business or assets (including in the event of a reorganization, dissolution or liquidation);
+*   any relevant third party provider, where our Channels use third party advertising, plugins or content. If you choose to interact with any such advertising, plugins or content, information about your activities on the Channels to provide you targeted advertising based upon your interests may be shared with the relevant third party provider. If you click or tap on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria;
+*   third party developers for whom IndieGala processes payments for. IndieGala may provide your email address to these third party developers so they may deliver the final version of the game you purchased.
+*   any sponsors of promotional giveaways, the registration data for such events is to be used by us as part of User Information, and may be shared with the sponsor and others, subject to this Policy and the sponsor’s privacy policy. We may also share your information with third party vendors involved in the administration of such events. For promotional giveaways, please read the official rules or terms and conditions carefully before you submit your information;
+*   to third parties whose practices are not covered by this Privacy Policy (e.g., third party providers of goods and services, marketing and advertising companies and agencies, analytics providers and retailers).
 
   
 Certain functionalities on the Service permit interactions that you initiate between the Service and certain third party services ("Third Party Features"). Examples of Third Party Features include "liking" or "sharing" content over social media platforms through our Service or linking your IndieGala account to a third party service such as Steam. If you use Third Party Features, both IndieGala and the third party may have access to certain information about you and your use of our Service and the third party service. For example, if you link your IndieGala account to Steam, we may receive information related to your Steam account for the duration of the linking, including information about the games you own on the Service. Similarly, if you post information on a third party service that references our Service (e.g., by using a hashtag associated with IndieGala in a tweet or status update), your post may be used on or in connection with our Service or that third party service. We are not responsible for the practices employed by websites linked to or from the Service, nor the information or content contained therein or any information third parties obtain through your use of Third Party Features. Please remember that when you use a link to go from the Service to another website, our Privacy Policy is no longer in effect. Your browsing and interaction on any other website, including those that have a link on our website, is subject to that website's own rules and policies. Please read over those rules and policies before proceeding.  
@@ -117,25 +117,25 @@ The Services contain links to other sites or partners whose information practice
 Also, in order to store your personal data securely, we user third party software and databases that helps us to operate our store. This means that your data is safely stored (therefore also shared with) on third parties databases. The following list shows the current providers we use for this purpose but this list is subject to change at any time.  
   
 
-* **Data analysis provider:**
-    * Google Analytics ([View Privacy Policy](https://www.privacyshield.gov/participant?id=a2zt0000000TOjeAAG&status=Active))
-* **Email sending provider:**
-    * Amazon Web Services ([View Privacy Policy](https://aws.amazon.com/compliance/eu-us-privacy-shield-faq/))
-    * Google App Engine ([View Privacy Policy](https://policies.google.com/privacy?hl=en))
-* **Payment gateways:**
-    * PayPal ([View Privacy Policy](https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev))
-    * Ingenico ([View Privacy Policy](https://www.ingenico.com/privacy-policy))
-    * Razer zGold ([View Privacy Policy](https://www.razer.com/legal/customer-privacy-policy))
-    * Coinbase Commerce ([View Privacy Policy](https://commerce.coinbase.com/legal/privacy-policy/))
-* **Data storage providers:**
-    * Google App Engine ([View Privacy Policy](https://policies.google.com/privacy?hl=en))
-    * Linode ([View Privacy Policy](https://www.linode.com/privacy))
-* **Customer support provider:**
-    * Sales Force([View Privacy Policy](https://www.salesforce.com/company/privacy/))
-* **Digital product provider:**
-    * Genba ([View Privacy Policy](https://www.genbagames.com/Home/PrivacyPolicy))
-* **Monetization providers:**
-    * Google AdSense ([View Privacy Policy](https://policies.google.com/privacy?gl=IT&hl=en))
+*   **Data analysis provider:**
+    *   Google Analytics ([View Privacy Policy](https://www.privacyshield.gov/participant?id=a2zt0000000TOjeAAG&status=Active))
+*   **Email sending provider:**
+    *   Amazon Web Services ([View Privacy Policy](https://aws.amazon.com/compliance/eu-us-privacy-shield-faq/))
+    *   Google App Engine ([View Privacy Policy](https://policies.google.com/privacy?hl=en))
+*   **Payment gateways:**
+    *   PayPal ([View Privacy Policy](https://www.paypal.com/uk/webapps/mpp/ua/privacy-prev))
+    *   Ingenico ([View Privacy Policy](https://www.ingenico.com/privacy-policy))
+    *   Razer zGold ([View Privacy Policy](https://www.razer.com/legal/customer-privacy-policy))
+    *   Coinbase Commerce ([View Privacy Policy](https://commerce.coinbase.com/legal/privacy-policy/))
+*   **Data storage providers:**
+    *   Google App Engine ([View Privacy Policy](https://policies.google.com/privacy?hl=en))
+    *   Linode ([View Privacy Policy](https://www.linode.com/privacy))
+*   **Customer support provider:**
+    *   Sales Force([View Privacy Policy](https://www.salesforce.com/company/privacy/))
+*   **Digital product provider:**
+    *   Genba ([View Privacy Policy](https://www.genbagames.com/Home/PrivacyPolicy))
+*   **Monetization providers:**
+    *   Google AdSense ([View Privacy Policy](https://policies.google.com/privacy?gl=IT&hl=en))
 
 ### International transfer of your personal information
 
@@ -183,11 +183,11 @@ EU Residents. GDPR provides certain rights for EU residents. You may decline to 
 
 ### Who are the subjects of this Privacy Policy?
 
-* Data Controller.  
+*   Data Controller.  
     The data controller is IndieGala S.R.L. in person of its legal representative pro-tempore, with registered office located in Rome (IT), Via Bolzano, 15, VAT ID: IT 11660511004.  
     The data controller uses a Data Protection Officer (DPO) to monitor the protection of your personal data.  
     For any request related to your personal data, please see the DPO contact details below.
-* Data Protection Officer and contact details.  
+*   Data Protection Officer and contact details.  
     The person in charge of data protection (Data Protection Officer) pursuant to art. 37 of the GDPR is IndieGala's Legal Manager - Pasquale Basso.  
     We remind you that you can contact the DPO at any time and send any question or request regarding your personal data and respect your privacy by writing to dpo@indiegala.com
 
