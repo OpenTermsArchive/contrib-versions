@@ -48,10 +48,10 @@ Don’t [break the site](https://www.reddithelp.com/en/categories/rules-reportin
 
 We have a variety of ways of enforcing our rules, including, but not limited to
 
-* Asking you nicely to knock it off
-* Asking you less nicely
-* Temporary or permanent suspension of accounts
-* Removal of privileges from, or adding restrictions to, accounts
-* Adding restrictions to Reddit communities, such as adding NSFW tags or [Quarantining](https://www.reddithelp.com/hc/en-us/articles/360043069012)
-* Removal of content
-* Banning of Reddit communities
+*   Asking you nicely to knock it off
+*   Asking you less nicely
+*   Temporary or permanent suspension of accounts
+*   Removal of privileges from, or adding restrictions to, accounts
+*   Adding restrictions to Reddit communities, such as adding NSFW tags or [Quarantining](https://www.reddithelp.com/hc/en-us/articles/360043069012)
+*   Removal of content
+*   Banning of Reddit communities
