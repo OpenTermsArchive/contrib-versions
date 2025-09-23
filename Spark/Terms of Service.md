@@ -16,20 +16,20 @@ If you have any questions or comments about these Terms of Service, please conta
 Table of contents
 -----------------
 
-* [Entire agreement](#entireagreement)
-* [Accounts and sync](#accountssync)
-* [Data storage](#datastorage)
-* [Subscriptions](#subscriptions)
-* [Content and use license](#contentuse)
-* [Third-party websites and services](#thirdparty)
-* [Warranties and disclaimers](#warranties)
-* [Limitation of liability](#limitationofliability)
-* [Indemnification](#indemnification)
-* [Applicable law and jurisdiction](#applicablelaw)
-* [Electronic communications](#electroniccommunications)
-* [Termination](#termination)
-* [Other terms](#otherterms)
-* [Questions and contact information](#questions)
+*   [Entire agreement](#entireagreement)
+*   [Accounts and sync](#accountssync)
+*   [Data storage](#datastorage)
+*   [Subscriptions](#subscriptions)
+*   [Content and use license](#contentuse)
+*   [Third-party websites and services](#thirdparty)
+*   [Warranties and disclaimers](#warranties)
+*   [Limitation of liability](#limitationofliability)
+*   [Indemnification](#indemnification)
+*   [Applicable law and jurisdiction](#applicablelaw)
+*   [Electronic communications](#electroniccommunications)
+*   [Termination](#termination)
+*   [Other terms](#otherterms)
+*   [Questions and contact information](#questions)
 
   
   
@@ -41,10 +41,10 @@ These Terms and any operating rules and policies posted on our website or in the
 
 By installing the App, you hereby declare and warrant that:
 
-* you have read, understand, have the legal capacity to, and hereby agree to be legally bound by and to comply with these Terms in full;
-* you are 16 years of age or older (otherwise, you can use the App exclusively with the involvement of a parent or legal guardian);
-* according to your jurisdiction of residence, you are eligible to enter into this agreement and have no restrictions to use the App;
-* you comply with these Terms and all applicable laws and regulations at all times.
+*   you have read, understand, have the legal capacity to, and hereby agree to be legally bound by and to comply with these Terms in full;
+*   you are 16 years of age or older (otherwise, you can use the App exclusively with the involvement of a parent or legal guardian);
+*   according to your jurisdiction of residence, you are eligible to enter into this agreement and have no restrictions to use the App;
+*   you comply with these Terms and all applicable laws and regulations at all times.
 
 If you use the App as a business representative, you further certify that you have the right to bind the represented legal entity to the terms and conditions hereof and grant us all permissions and licenses under these Terms, disclose information about that legal entity as may be required to provide you or the represented legal entity with the functionalities of the App.
 
@@ -68,10 +68,10 @@ Data Storage
 
 We process and store your personal data based solely on the legal grounds directly prescribed by the GDPR, namely: 
 
-* your consent;
-* when processing is necessary for the performance of a contract between you and us;
-* our legitimate interest; and
-* legal obligation. 
+*   your consent;
+*   when processing is necessary for the performance of a contract between you and us;
+*   our legitimate interest; and
+*   legal obligation. 
 
 You may find all the information about our purposes for data processing, the exact categories of data collected, and your rights as a data subject under the GDPR in our Privacy Policy for the [App](https://sparkmailapp.com/legal/privacy-app) and for the [Website](https://sparkmailapp.com/legal/privacy-web). 
 
@@ -162,8 +162,8 @@ The subscription will automatically renew for a subsequent term unless you cance
 
 If you bought the subscription through the third-party app market, more information about how you may be able to manage in-app purchases (or switch off the subscription) using your device may be set out in the app market's terms and conditions or end user license agreement (EULA): 
 
-* Google Play (for Android devices);
-* App Store (for Apple devices).
+*   Google Play (for Android devices);
+*   App Store (for Apple devices).
 
 You may cancel your subscription at any time. Upon cancellation, your subscription will last until the expiration date. Note that the paid fees in the Spark Premium Plan for Teams will be prorated in accordance with the number of active users during the subscription period. In such a case your payment method will be charged or your digital Spark Account balance will be refunded with a prorated sum.
 
@@ -184,8 +184,8 @@ The App is owned and managed by Spark Mail or our affiliates. All materials of t
 
 Subject to your compliance with these Terms and having regard to the terms of the software license laid down above, Spark Mail grants you a limited, non-exclusive, non-sublicensable, revocable, non-transferable, worldwide license to:
 
-* download, install and use the App on the device(s) that you lawfully own or control in the manner provided for in these Terms for personal non-commercial or internal business purposes;
-* access and use the Content made available in or through the App and granted by Spark Mail for the purposes laid down in these Terms.
+*   download, install and use the App on the device(s) that you lawfully own or control in the manner provided for in these Terms for personal non-commercial or internal business purposes;
+*   access and use the Content made available in or through the App and granted by Spark Mail for the purposes laid down in these Terms.
 
 Spark Mail may provide upgrades, modifications, updates, or additions to the App software during the term of this license. The terms of this license shall be applied to any such modification unless it is accompanied by a separate license.
 
@@ -225,11 +225,11 @@ Although Spark Mail has no obligation to monitor the User Content, we may do so.
 
 We welcome feedback, reviews, and comments about your experience with our App (collectively "**Feedback**"). By submitting your Feedback to us directly or via any platform, including, but not limited to, online distribution platforms, marketplaces, and social media, you:
 
-1. grant us and our affiliates a worldwide, nonexclusive, royalty-free, perpetual, revocable, transferable, assignable and sub-licensable (through multiple tiers) license and right to copy, reproduce, use, modify, adapt, distribute, publish, translate, create derivative works from, distribute, and publicly display, including on-line, such Feedback on our Website, in-app screens, social media accounts, our marketing communications distributed via email or otherwise, and in any other media, including for marketing and advertising purposes, and otherwise exploit such Feedback regardless of when and in what manner it was provided by you. You grant us and our affiliates the right to use and refer to the name or username that you submit in connection with such Feedback. For this reason, we ask that you not submit any Feedback or delete any existing one that you do not wish to license to us as set forth above;
-2. agree and acknowledge that you are solely responsible for the information in your Feedback;
-3. represent and confirm that you were not asked, instructed, or commissioned to submit fake or misleading reviews and endorsements or misrepresent your experience with our App;
-4. represent and warrant that the use of your Feedback does not violate any third party’s rights;
-5. expressly release and discharge us, our affiliates, sublicensees, successors, and assignees from all liability, claims, and/or demands arising out of or in any way connected to our exercise of the rights granted under the license as discussed in item (a) above, including without limitation, any liability based on rights of publicity, invasion of privacy and other civil rights, moral rights, and copyright infringement.
+1.  grant us and our affiliates a worldwide, nonexclusive, royalty-free, perpetual, revocable, transferable, assignable and sub-licensable (through multiple tiers) license and right to copy, reproduce, use, modify, adapt, distribute, publish, translate, create derivative works from, distribute, and publicly display, including on-line, such Feedback on our Website, in-app screens, social media accounts, our marketing communications distributed via email or otherwise, and in any other media, including for marketing and advertising purposes, and otherwise exploit such Feedback regardless of when and in what manner it was provided by you. You grant us and our affiliates the right to use and refer to the name or username that you submit in connection with such Feedback. For this reason, we ask that you not submit any Feedback or delete any existing one that you do not wish to license to us as set forth above;
+2.  agree and acknowledge that you are solely responsible for the information in your Feedback;
+3.  represent and confirm that you were not asked, instructed, or commissioned to submit fake or misleading reviews and endorsements or misrepresent your experience with our App;
+4.  represent and warrant that the use of your Feedback does not violate any third party’s rights;
+5.  expressly release and discharge us, our affiliates, sublicensees, successors, and assignees from all liability, claims, and/or demands arising out of or in any way connected to our exercise of the rights granted under the license as discussed in item (a) above, including without limitation, any liability based on rights of publicity, invasion of privacy and other civil rights, moral rights, and copyright infringement.
 
 You can [contact us](https://sparkmailapp.com/help/contact-us-page) to request to refrain from or discontinue our use of your Feedback at any time.
 
@@ -241,14 +241,14 @@ The App may include additional optional features powered by artificial intellige
 
 By using the AI Features, you agree and acknowledge that:
 
-* The AI Features are provided to you ‘as is’ with no warranties or representations of any kind; 
-* It is your sole responsibility to ensure your compliance with all applicable laws and regulations in connection to the use of the AI Features and the generated outputs;
-* The AI Features may generate output that contains inaccurate, unreliable or offensive content and you must evaluate the output before relying on or otherwise using it;
-* You shall not use the AI Features in a way that infringes, misappropriates or violates any third party rights; 
-* We may, at our sole discretion, impose limits on the use of the AI Features at any time without notice;
-* You shall not use the AI Features in a manner that violates the policies of the external AI service provider;
-* You shall not mislead any person that the output generated by the AI Feature was human-generated;
-* You shall not use the AI Features to create, train, or improve (directly or indirectly) a similar foundation or large language learning model or other generative artificial intelligence service, reverse engineer, extract, or discover the AI Features’ data, models, model weights, algorithms, safety features, or operation.
+*   The AI Features are provided to you ‘as is’ with no warranties or representations of any kind; 
+*   It is your sole responsibility to ensure your compliance with all applicable laws and regulations in connection to the use of the AI Features and the generated outputs;
+*   The AI Features may generate output that contains inaccurate, unreliable or offensive content and you must evaluate the output before relying on or otherwise using it;
+*   You shall not use the AI Features in a way that infringes, misappropriates or violates any third party rights; 
+*   We may, at our sole discretion, impose limits on the use of the AI Features at any time without notice;
+*   You shall not use the AI Features in a manner that violates the policies of the external AI service provider;
+*   You shall not mislead any person that the output generated by the AI Feature was human-generated;
+*   You shall not use the AI Features to create, train, or improve (directly or indirectly) a similar foundation or large language learning model or other generative artificial intelligence service, reverse engineer, extract, or discover the AI Features’ data, models, model weights, algorithms, safety features, or operation.
 
 If you do not agree with any of the foregoing, you must refrain from or discontinue using the AI Features.
 
