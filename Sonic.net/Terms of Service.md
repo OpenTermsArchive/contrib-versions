@@ -18,8 +18,8 @@ By opening an account with [Sonic.net](https://www.sonic.com/), LLC you agree to
 
 [Sonic.net](https://www.sonic.com/), LLC keeps information about its customers such as names, addresses, telephone numbers, email addresses and details about [Sonic.net](https://www.sonic.com/) services used by the customer. All such information is considered private. [Sonic.net](https://www.sonic.com/) also keeps logs of limited technical information pertaining to matters such as customer connectivity and email processing. These logs are retained on a temporary basis in order to insure high-quality service, and no logs are kept indefinitely. The only circumstances wherein [Sonic.net](https://www.sonic.com/) will disclose any of the above-mentioned information to a third party are:
 
-* In the course of providing services our customers have specifically requested, [Sonic.net](https://www.sonic.com/), LLC may make some of this information available to our affiliates in order to fulfill the requirements of order processing.
-* In the event that we receive a legitimate, legally-mandated request for customer information, [Sonic.net](https://www.sonic.com/), LLC will respond only within the narrow scope of that request.
+*   In the course of providing services our customers have specifically requested, [Sonic.net](https://www.sonic.com/), LLC may make some of this information available to our affiliates in order to fulfill the requirements of order processing.
+*   In the event that we receive a legitimate, legally-mandated request for customer information, [Sonic.net](https://www.sonic.com/), LLC will respond only within the narrow scope of that request.
 
 [Sonic.net](https://www.sonic.com/), LLC will not otherwise disclose any private information about its customers to any other third party.
 
@@ -40,16 +40,16 @@ Email accounts are for personal or business correspondence only. Unsolicited Com
 
 Use of [Sonic.net](https://www.sonic.com/), LLC accounts or services for orchestration of or participation in any abuse of the [Sonic.net](https://www.sonic.com/), LLC or any other network, system or service is expressly forbidden and is grounds for account termination and possible legal action. Any action which interferes with the [Sonic.net](https://www.sonic.com/), LLC or other networks or which affects the use of or access to any network is likewise expressly forbidden. [Sonic.net](https://www.sonic.com/), LLC retains at all times the right to determine what constitutes network abuse. Examples include but are not limited to:
 
-* Attempts to hack the [Sonic.net](https://www.sonic.com/), LLC network or any other network or systems
-* Port scanning
-* Use of 'cracking' software or techniques
-* Dissemination of viruses or malware
-* Provocation of attacks on the [Sonic.net](https://www.sonic.com/), LLC network or any other network
-* Conduct which causes [Sonic.net](https://www.sonic.com/), LLC to be blocked by another provider or which causes [Sonic.net](https://www.sonic.com/), LLC to be placed on a "block list"
-* Flooding [Sonic.net](https://www.sonic.com/), LLC or any other network with traffic for the purpose of disrupting service
-* Mail bombing
-* Resale of Sonic services, directly or indirectly, without express written consent from Sonic. This includes sale of Wi-Fi access or any off-premises access to services.
-* Operation of servers for commercial purposes by non-Enterprise customers. Note that it is acceptable to use servers for private or personal use (such as servers to access content in your home and applications that have server capabilities such as multiplayer gaming) and for small business customers to operate private (in-profile) servers for business purposes.
+*   Attempts to hack the [Sonic.net](https://www.sonic.com/), LLC network or any other network or systems
+*   Port scanning
+*   Use of 'cracking' software or techniques
+*   Dissemination of viruses or malware
+*   Provocation of attacks on the [Sonic.net](https://www.sonic.com/), LLC network or any other network
+*   Conduct which causes [Sonic.net](https://www.sonic.com/), LLC to be blocked by another provider or which causes [Sonic.net](https://www.sonic.com/), LLC to be placed on a "block list"
+*   Flooding [Sonic.net](https://www.sonic.com/), LLC or any other network with traffic for the purpose of disrupting service
+*   Mail bombing
+*   Resale of Sonic services, directly or indirectly, without express written consent from Sonic. This includes sale of Wi-Fi access or any off-premises access to services.
+*   Operation of servers for commercial purposes by non-Enterprise customers. Note that it is acceptable to use servers for private or personal use (such as servers to access content in your home and applications that have server capabilities such as multiplayer gaming) and for small business customers to operate private (in-profile) servers for business purposes.
 
 [Sonic.net](https://www.sonic.com/), LLC customers must also comply with the acceptable use policies of our upstream providers, UUNET ([http://www.uu.net](http://www.uu.net/)) and Cable and Wireless ( [http://www.cw.com](http://www.cw.com/))
 
@@ -80,11 +80,11 @@ The owner of any type of [Sonic.net](https://www.sonic.com/), LLC account or se
 
 Violation of any terms set forth in this Acceptable Use Policy may result in one or more of the following, at the discretion of [Sonic.net](https://www.sonic.com/), LLC:
 
-* Issuance of a warning
-* Temporary suspension of service
-* Billing to defray administrative costs incurred
-* Termination of your services, account or accounts
-* Legal action
+*   Issuance of a warning
+*   Temporary suspension of service
+*   Billing to defray administrative costs incurred
+*   Termination of your services, account or accounts
+*   Legal action
 
 If any activities or security problems involving a [Sonic.net](https://www.sonic.com/), LLC account or [Sonic.net](https://www.sonic.com/), LLC customer's services cause network outages, the owner of the account or service will be billed for network down-time. Any account owner whose account is terminated for violation of the terms set forth in this Acceptable Use Policy will be required to pay any outstanding balances due, including any and all early termination fees. In instances where it is necessary to terminate a customer's account, an administrative disconnect fee may also be applied. [Sonic.net](https://www.sonic.com/), LLC will normally attempt to contact any user in violation of this Acceptable Use Policy before taking action, but depending on the circumstances or the severity of the violation action may be taken without prior notification. In this case, the user will be notified as soon as it is practicable.
 
