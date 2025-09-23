@@ -25,9 +25,9 @@ _User’s content_ represents all information stored by User on Server in the fo
 
 Provider enables User to use those Services:
 
-* Uploading Packages on Server of Provider, sending out information about package storage to selected recipients and its repeated downloading.
-* The possibility to download Packages by other Users, who are recipients of a Package (User states their e-mail addresses when uploading Package on Server), or by other Users, who are given an url link address to a Package.
-* Another Services available on Server in accordance with the Terms stated therein.
+*   Uploading Packages on Server of Provider, sending out information about package storage to selected recipients and its repeated downloading.
+*   The possibility to download Packages by other Users, who are recipients of a Package (User states their e-mail addresses when uploading Package on Server), or by other Users, who are given an url link address to a Package.
+*   Another Services available on Server in accordance with the Terms stated therein.
 
 ### users and the scope of provided Services
 
@@ -35,8 +35,8 @@ Services offered by Provider are intended for unregistered Users
 
 Unregistered User (depending on Provider’s current Offer) may use the services:
 
-* Uploading Packages via Server’s web interface
-* Downloading Packages from Server
+*   Uploading Packages via Server’s web interface
+*   Downloading Packages from Server
 
 ### User rights and obligations
 
@@ -68,9 +68,9 @@ User declares his or her acknowledgement that Provider does not provide any guar
 
 Provider is not liable to User for any direct or indirect harm or damage which User may experience in connection with the use of Server and Services. Provider is not liable to User especially for:
 
-* Malfunctions, unavailability, poor availability and speed of any Service;
-* A fail to deliver Package to e-mail addresses stated in Package;
-* A loss of Package or its part;
+*   Malfunctions, unavailability, poor availability and speed of any Service;
+*   A fail to deliver Package to e-mail addresses stated in Package;
+*   A loss of Package or its part;
 
 ### protection of personal data
 
