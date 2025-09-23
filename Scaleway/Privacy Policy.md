@@ -13,12 +13,12 @@ Scope
 
 This privacy policy is intended to govern the processing carried out by Scaleway as data controller (Scaleway, 8 RUE DE LA VILLE L'EVÊQUE 75008 PARIS 8), in particular the data collected in the context of
 
-* the management of your customer account
-* the management of marketing communications or prospection
-* the use of one of our websites (not already covered by a specific privacy policy)
-* the recruitment management
-* the compliance with our legal obligations
-* the guarantee of legitimate interests
+*   the management of your customer account
+*   the management of marketing communications or prospection
+*   the use of one of our websites (not already covered by a specific privacy policy)
+*   the recruitment management
+*   the compliance with our legal obligations
+*   the guarantee of legitimate interests
 
 The data collected for the operation of our services, where Scaleway acts as a processor, is governed by our [General Conditions of Services](https://www.scaleway.com/en/contracts/) as well as our [Data Processing Agreement (DPA).](https://www.scaleway.com/en/contracts/)
 
@@ -27,11 +27,11 @@ What kind of personal data is processed ?
 
 Scaleway is required to process the following categories of data:
 
-* Data relating to identity: name, first name, postal and email address, telephone number, customer number, signature, proof of identity.
-* Billing data: bank details, means of payment, invoices, etc.
-* Consumption data: history of services and products used, event logs etc.
-* Communication data: history of exchanges with Scaleway, complaints, support tickets, etc.
-* Connection data: IP address, user ID, location data, connection and event logs etc.
+*   Data relating to identity: name, first name, postal and email address, telephone number, customer number, signature, proof of identity.
+*   Billing data: bank details, means of payment, invoices, etc.
+*   Consumption data: history of services and products used, event logs etc.
+*   Communication data: history of exchanges with Scaleway, complaints, support tickets, etc.
+*   Connection data: IP address, user ID, location data, connection and event logs etc.
 
 The categories of data used are indicated in each of the treatments in the following section. Any reference to “user account data” includes all account data.
 
@@ -99,16 +99,16 @@ Data processors
 
 As a data controller, Scaleway uses data processors for the following purposes:
 
-* customer relationship management (support management, etc.)
-* carrying out emailing campaigns and surveys on the services
-* partnership management with other cloud providers
-* meeting our legal obligations (accounting, data protection etc.)
-* marketing data analysis
-* website data analysis
-* management of payment services
-* consulting or audit firms
-* the organization of events
-* security and identity control
+*   customer relationship management (support management, etc.)
+*   carrying out emailing campaigns and surveys on the services
+*   partnership management with other cloud providers
+*   meeting our legal obligations (accounting, data protection etc.)
+*   marketing data analysis
+*   website data analysis
+*   management of payment services
+*   consulting or audit firms
+*   the organization of events
+*   security and identity control
 
 Scaleway selects its data processors through a strict security control procedure to ensure that they only process data for the purposes for which they have been chosen. Scaleway also ensures that its data processors have technical and organizational security measures in accordance with the regulations relating to the protection of personal data.
 
@@ -141,16 +141,16 @@ Scaleway implements technical and organizational security measures to guarantee 
 
 Our security measures specifically meet data protection regulations and in particular the following points:
 
-* Information systems security policy (ISSP)
-* Physical protection measures for all of our data centers
-* Secure authentication of user accounts
-* Logging
-* Security Information and Event Management (SIEM)
-* Incident management procedure
-* Secure management procedure for data processors
-* Procedure for handling data breaches
-* Secure data backup
-* Anonymization of data when personal data is no longer necessary for processing in order to produce statistics or improve our services or marketing communication
+*   Information systems security policy (ISSP)
+*   Physical protection measures for all of our data centers
+*   Secure authentication of user accounts
+*   Logging
+*   Security Information and Event Management (SIEM)
+*   Incident management procedure
+*   Secure management procedure for data processors
+*   Procedure for handling data breaches
+*   Secure data backup
+*   Anonymization of data when personal data is no longer necessary for processing in order to produce statistics or improve our services or marketing communication
 
 In accordance with our general conditions of service, we remind you that the customer is solely responsible for the management and security of its content as well as the environments and systems that it deploys on the infrastructures made available to it as part of the services offered by Scaleway. It is also up to the customer to make any backups of their content (or other means aimed at ensuring their longevity) that he considers necessary in order to protect against possible deletion, alteration or modification of said content.
 
@@ -163,14 +163,14 @@ Data subjects rights & contact
 
 Scaleway informs you that you have the following rights depending on the purpose of processing:
 
-* Be informed why we process your personal information
-* Access your data and obtain a copy of the personal data we process about you
-* Rectify incorrect, incomplete or outdated data
-* Limit the use of your data
-* Oppose the processing of your data if it is processed on the basis of legitimate interest
-* Withdraw your consent at any time if the processing is based on this legal basis
-* Delete data that is no longer necessary for processing or to meet a legal obligation
-* Exercise your right to portability
+*   Be informed why we process your personal information
+*   Access your data and obtain a copy of the personal data we process about you
+*   Rectify incorrect, incomplete or outdated data
+*   Limit the use of your data
+*   Oppose the processing of your data if it is processed on the basis of legitimate interest
+*   Withdraw your consent at any time if the processing is based on this legal basis
+*   Delete data that is no longer necessary for processing or to meet a legal obligation
+*   Exercise your right to portability
 
 You can exercise your rights directly in the privacy section of your Scaleway account or via [privacy@scaleway.com](mailto:privacy@scaleway.com). If you believe that your rights have not been respected, you can also file a complaint [with the competent supervisory authority](https://www.edpb.europa.eu/about-edpb/about-edpb/members_fr).
 
