@@ -13,31 +13,31 @@ _Pour consulter la version des Conditions Générales d'Utilisation en vigueur d
 
 ### Sommaire
 
-* [PRÉAMBULE](#h_01JQ448MZHYKSNFNAW7CKDX6EE)
-* [1\. DÉFINITIONS](#h_01JQ448XGTWSYGS1KN77ESWNSE)
-* [2\. OBJET](#h_01JQ449652TKK1GBP8NKP44A2R)
-* [3\. OBLIGATIONS DE RAKUTEN](#h_01JQ4498WJ82QVJ1N1PG7VQB7Y)
-* [4\. PROCESSUS DE VENTE](#h_01JQ449C7B4PGK946DYBQ2GRXJ)
-* [5\. OBLIGATIONS DES MEMBRES](#h_01JQ449G635RNJCKXTH4G94WKM)
-* [6\. OBLIGATIONS DES VENDEURS](#h_01JQ449MGBPBHDXDQHTW99QBW5)
-* [7\. OBLIGATIONS DES ACHETEURS](#h_01JQ44A453KGG7QPKMJ8S1CQ85)
-* [8\. RÉCLAMATIONS ET DROIT DE RÉTRACTATION](#h_01JQ44AAX7THZ3SEKN11N1WMRM)
-    * [8.1 Traitement des Réclamations](#h_01JQ46A8GZQY4KVRZ6622B7NA0)
-    * [8.2 Résolution amiable de la Réclamation entre le Vendeur et l’Acheteur](#h_01JQ46AD83XQP5W0B9QWZ4ZFPP)
-    * [8.3 Non-réception de la commande](#h_01JQ46AFAE591YQFQWEXBXAM0Z)
-    * [8.4 Défaut de conformité](#h_01JQ46AJWN1J730Y4WQVQXGBFY)
-    * [8.5 Garanties légales de conformité et vices cachés](#h_01JQ46AP0SPJB7BCE9FFVJWEJ3)
-    * [8.6 Droit légal de rétractation](#h_01JQ8VNK8CWT7PCF6QS9DNCRV7)
-    * [8.7 Approbation de la Réclamation](#h_01JQ6WDPX2W9N4SDQRD2ENTDXM)
-* [9\. RESPONSABILITÉ](#h_01JQ44AKWCK7Y2DZX2H4J3MF2H)
-* [10\. UTILISATION DES ESPACES D'ÉCHANGE](#h_01JQ44AQ31PG9Y3Q0YCB1HFEHQ)
-* [11\. RÉSILIATION](#h_01JQ44ATZ3G9WE60KZYWZB5VQY)
-    * [11.2 Restriction, suspension de l’accès aux services et résiliation aux torts du membre](#h_01JQ46AXMQ8R9JN8V2J0735RR3)
-    * [11.3 Règlement sur les Services Numériques](#h_01JQ46B1QHM553JE0HGHEKMZBF)
-* [12\. STIPULATIONS GÉNÉRALES](#h_01JQ44B0GS6MQXVV5ZMH4CMQ4C)
-* [ANNEXES](#h_01JQ44BB6N52T5MCPR1ZPJRHAE)
-    * [Annexe I](#h_01JQ44B60VR62S4R2V8K27X8R7)
-    * [Annexe II](#h_01JQ44BGKCVX1D8A1J8VBJ9PG1)
+*   [PRÉAMBULE](#h_01JQ448MZHYKSNFNAW7CKDX6EE)
+*   [1\. DÉFINITIONS](#h_01JQ448XGTWSYGS1KN77ESWNSE)
+*   [2\. OBJET](#h_01JQ449652TKK1GBP8NKP44A2R)
+*   [3\. OBLIGATIONS DE RAKUTEN](#h_01JQ4498WJ82QVJ1N1PG7VQB7Y)
+*   [4\. PROCESSUS DE VENTE](#h_01JQ449C7B4PGK946DYBQ2GRXJ)
+*   [5\. OBLIGATIONS DES MEMBRES](#h_01JQ449G635RNJCKXTH4G94WKM)
+*   [6\. OBLIGATIONS DES VENDEURS](#h_01JQ449MGBPBHDXDQHTW99QBW5)
+*   [7\. OBLIGATIONS DES ACHETEURS](#h_01JQ44A453KGG7QPKMJ8S1CQ85)
+*   [8\. RÉCLAMATIONS ET DROIT DE RÉTRACTATION](#h_01JQ44AAX7THZ3SEKN11N1WMRM)
+    *   [8.1 Traitement des Réclamations](#h_01JQ46A8GZQY4KVRZ6622B7NA0)
+    *   [8.2 Résolution amiable de la Réclamation entre le Vendeur et l’Acheteur](#h_01JQ46AD83XQP5W0B9QWZ4ZFPP)
+    *   [8.3 Non-réception de la commande](#h_01JQ46AFAE591YQFQWEXBXAM0Z)
+    *   [8.4 Défaut de conformité](#h_01JQ46AJWN1J730Y4WQVQXGBFY)
+    *   [8.5 Garanties légales de conformité et vices cachés](#h_01JQ46AP0SPJB7BCE9FFVJWEJ3)
+    *   [8.6 Droit légal de rétractation](#h_01JQ8VNK8CWT7PCF6QS9DNCRV7)
+    *   [8.7 Approbation de la Réclamation](#h_01JQ6WDPX2W9N4SDQRD2ENTDXM)
+*   [9\. RESPONSABILITÉ](#h_01JQ44AKWCK7Y2DZX2H4J3MF2H)
+*   [10\. UTILISATION DES ESPACES D'ÉCHANGE](#h_01JQ44AQ31PG9Y3Q0YCB1HFEHQ)
+*   [11\. RÉSILIATION](#h_01JQ44ATZ3G9WE60KZYWZB5VQY)
+    *   [11.2 Restriction, suspension de l’accès aux services et résiliation aux torts du membre](#h_01JQ46AXMQ8R9JN8V2J0735RR3)
+    *   [11.3 Règlement sur les Services Numériques](#h_01JQ46B1QHM553JE0HGHEKMZBF)
+*   [12\. STIPULATIONS GÉNÉRALES](#h_01JQ44B0GS6MQXVV5ZMH4CMQ4C)
+*   [ANNEXES](#h_01JQ44BB6N52T5MCPR1ZPJRHAE)
+    *   [Annexe I](#h_01JQ44B60VR62S4R2V8K27X8R7)
+    *   [Annexe II](#h_01JQ44BGKCVX1D8A1J8VBJ9PG1)
 
 #### **PRÉAMBULE**
 
@@ -244,18 +244,18 @@ L’Acheteur est donc averti qu’un Vendeur agissant à titre professionnel ser
 
 **7.9.1** La Protection Acheteurs fait partie intégrante des services d'intermédiation de la Plateforme Rakuten, qui incluent, notamment :
 
-* l‘accès au service de Mise en relation ;
-* l’accès au service client de Rakuten, afin de permettre aux Acheteurs de traiter toute difficulté éventuelle rencontrée ou Réclamation née à l’occasion des transactions opérées sur la Plateforme Rakuten ;
-* la sécurisation, en qualité d’intermédiaire et tiers de confiance, des transactions opérées sur la Plateforme, conformément aux articles 4.5, 7.5, 8.1.2 et 8.1.3 des Conditions Générales d’Utilisation ; et,
-* l’avantage "Satisfait ou Remboursé", dont les modalités sont détaillées à l’article 7.9.2 des Conditions Générales d’Utilisation.  
+*   l‘accès au service de Mise en relation ;
+*   l’accès au service client de Rakuten, afin de permettre aux Acheteurs de traiter toute difficulté éventuelle rencontrée ou Réclamation née à l’occasion des transactions opérées sur la Plateforme Rakuten ;
+*   la sécurisation, en qualité d’intermédiaire et tiers de confiance, des transactions opérées sur la Plateforme, conformément aux articles 4.5, 7.5, 8.1.2 et 8.1.3 des Conditions Générales d’Utilisation ; et,
+*   l’avantage "Satisfait ou Remboursé", dont les modalités sont détaillées à l’article 7.9.2 des Conditions Générales d’Utilisation.  
 
 **7.9.2** La Protection Acheteurs permet plus particulièrement de bénéficier de l'avantage "Satisfait ou Remboursé".
 
 Aux termes de celui-ci, tout Acheteur de Produits porteurs du badge "Satisfait ou Remboursé" peut obtenir, selon les cas, un remboursement ou un crédit de Rakuten Points correspondant au Prix du Produit, toutes remises déduites, qui ne lui conviendrait pas, à condition que :
 
-* le Produit fasse partie des catégories couvertes, indiquées par un badge « Satisfait ou Remboursé » ;
-* le Produit présente le même état d’usure et de fonctionnement que celui décrit au sein de l’annonce d'origine du Vendeur ;
-* l’Acheteur procède à son renvoi dans les délais impartis. 
+*   le Produit fasse partie des catégories couvertes, indiquées par un badge « Satisfait ou Remboursé » ;
+*   le Produit présente le même état d’usure et de fonctionnement que celui décrit au sein de l’annonce d'origine du Vendeur ;
+*   l’Acheteur procède à son renvoi dans les délais impartis. 
 
 Les stipulations du présent article 7.9.2 s’appliquent sans préjudice des dispositions relatives aux garanties légales. 
 
@@ -315,14 +315,14 @@ En cas de Réclamation pour non-réception déposée par un Acheteur, le Vendeur
 
 **8.6.3** La rétractation ne peut s'appliquer :
 
-* aux enregistrements audio ou vidéo ou de logiciels informatiques qui ont été descellés par l’Acheteur après la livraison ;
-* aux Produits confectionnés selon les spécifications de l’Acheteur ou nettement personnalisés ;
-* aux Produits susceptibles de se détériorer ou de se périmer rapidement ;
-* aux Produits qui ont été descellés par l’Acheteur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé ;
-* aux Produits qui, après avoir été livrés, et de par leur nature, sont mélangés de manière indissociable avec d’autres Produits ;
-* à un journal, un périodique ou un magazine, sauf pour les contrats d’abonnement à ces publications ;
-* aux boissons alcoolisées dont la livraison est différée au-delà de trente jours et dont la valeur convenue à la conclusion du contrat dépend de fluctuations sur le marché échappant au contrôle du Vendeur ;
-* à la fourniture d'un contenu numérique non fourni sur un support matériel dont l'exécution a commencé après accord préalable exprès de l'Acheteur et renoncement exprès à son droit de rétractation.
+*   aux enregistrements audio ou vidéo ou de logiciels informatiques qui ont été descellés par l’Acheteur après la livraison ;
+*   aux Produits confectionnés selon les spécifications de l’Acheteur ou nettement personnalisés ;
+*   aux Produits susceptibles de se détériorer ou de se périmer rapidement ;
+*   aux Produits qui ont été descellés par l’Acheteur après la livraison et qui ne peuvent être renvoyés pour des raisons d’hygiène ou de protection de la santé ;
+*   aux Produits qui, après avoir été livrés, et de par leur nature, sont mélangés de manière indissociable avec d’autres Produits ;
+*   à un journal, un périodique ou un magazine, sauf pour les contrats d’abonnement à ces publications ;
+*   aux boissons alcoolisées dont la livraison est différée au-delà de trente jours et dont la valeur convenue à la conclusion du contrat dépend de fluctuations sur le marché échappant au contrôle du Vendeur ;
+*   à la fourniture d'un contenu numérique non fourni sur un support matériel dont l'exécution a commencé après accord préalable exprès de l'Acheteur et renoncement exprès à son droit de rétractation.
 
 **8.6.4** L’Acheteur sera remboursé du Prix du Produit, y compris des frais de livraison (à l’exception des frais supplémentaires découlant du fait que l’Acheteur a éventuellement choisi un mode de livraison autre que le mode le moins coûteux de livraison standard proposé par le Vendeur). Ce remboursement interviendra au plus tard sous quatorze (14) jours à compter de la date à laquelle la demande de rétractation aura été portée à la connaissance de Rakuten. Cependant, à moins que le Vendeur ne propose de récupérer lui-même le Produit, le remboursement de l’Acheteur pourra être différé jusqu'à récupération du Produit retourné ou jusqu'à ce que l’Acheteur ait fourni une preuve de réexpédition du Produit, la survenance du premier de ces faits étant prise en considération pour le remboursement.
 
@@ -354,14 +354,14 @@ Rakuten ne pourra être tenu responsable du caractère injurieux, diffamatoire e
 
 Il est strictement interdit d’utiliser les Espaces d’échange pour diffuser un message :
 
-* à caractère publicitaire,
-* mentionnant un autre site Internet ou renvoyant vers celui-ci,
-* automatique et/ou répété,
-* contenant des virus ou des vers informatiques,
-* contenant des données à caractère personnel, notamment pour établir un contact direct avec un Membre afin de réaliser une transaction en dehors de la Plateforme,
-* se référant, dans le cadre d'une Réclamation à la suite d'une transaction, à toute autre transaction clôturée, en cours, ou future,
-* violant, détournant ou enfreignant les droits de Rakuten, des Membres ou de tiers, y compris les droits à la vie privée, à l’image, de propriété intellectuelle ou autres droits exclusifs,
-* contraire aux bonnes moeurs et à l’ordre public, menaçant, haineux, insultant, dénigrant, diffamatoire, fallacieux, assimilable à du harcèlement ou considéré comme étant incompatible avec la finalité de l'Espace d'échange en question ou avec les présentes Conditions Générales d’Uilisation.
+*   à caractère publicitaire,
+*   mentionnant un autre site Internet ou renvoyant vers celui-ci,
+*   automatique et/ou répété,
+*   contenant des virus ou des vers informatiques,
+*   contenant des données à caractère personnel, notamment pour établir un contact direct avec un Membre afin de réaliser une transaction en dehors de la Plateforme,
+*   se référant, dans le cadre d'une Réclamation à la suite d'une transaction, à toute autre transaction clôturée, en cours, ou future,
+*   violant, détournant ou enfreignant les droits de Rakuten, des Membres ou de tiers, y compris les droits à la vie privée, à l’image, de propriété intellectuelle ou autres droits exclusifs,
+*   contraire aux bonnes moeurs et à l’ordre public, menaçant, haineux, insultant, dénigrant, diffamatoire, fallacieux, assimilable à du harcèlement ou considéré comme étant incompatible avec la finalité de l'Espace d'échange en question ou avec les présentes Conditions Générales d’Uilisation.
 
 Rakuten utilise un algorithme destiné à bloquer les messages échangés directement entre les Membres qui pourraient être inappropriés ou insultants.
 
@@ -381,18 +381,18 @@ Rakuten se réserve la faculté de sanctionner tout Membre utilisant les Espaces
 
 Dans le cas où Rakuten constaterait, sur la base de faits ou d’un faisceau d’indices, que le Membre violerait ou serait susceptible de violer l’une ou plusieurs des stipulations des Conditions Générales d’Utilisation de la Plateforme Rakuten, de tout document de nature contractuelle auquel l’adhésion est nécessaire pour bénéficier de tout ou partie des services de la Plateforme Rakuten et/ou toutes dispositions législatives ou réglementaires en vigueur et, notamment, mais sans s’y limiter, commettrait l'une des violations contractuelles ou infractions suivantes :
 
-* mise en vente de Produits Interdits,
-* activité commerciale dissimulée,
-* taux d’infirmation anormal de la disponibilité des Produits,
-* taux de Réclamations anormalement élevé,
-* ouverture de plusieurs comptes,
-* transactions entre différents comptes appartenant à des personnes ou entités identiques ou liées par des liens affectifs, juridiques, économiques et/ou familiaux (notamment transactions entre parrain et filleul, etc.) qui, au moyen d’une entente préalable, ont notamment pour objectif de de transférer de l’argent d’un compte à un autre, de manipuler les évaluations ou commentaires, de bénéficier frauduleusement de Rakuten Points, etc.
-* impayés (notamment en cas d’opposition bancaire infondée, de réclamations abusives via des services tiers, de remboursement à tort du Membre),
-* fraudes aux moyens de paiement,
-* détournement du fonctionnement des coupons de réduction,
-* manquement aux obligations sociales, fiscales et douanières,
-* absence du certificat d’engagement  ou mention inexacte, incomplète ou obsolète au regard de l’activité du Vendeur Professionnel ;
-* ou tout autre manquement, contractuel ou légal, fraude ou infraction pénale (y compris toute tentative),
+*   mise en vente de Produits Interdits,
+*   activité commerciale dissimulée,
+*   taux d’infirmation anormal de la disponibilité des Produits,
+*   taux de Réclamations anormalement élevé,
+*   ouverture de plusieurs comptes,
+*   transactions entre différents comptes appartenant à des personnes ou entités identiques ou liées par des liens affectifs, juridiques, économiques et/ou familiaux (notamment transactions entre parrain et filleul, etc.) qui, au moyen d’une entente préalable, ont notamment pour objectif de de transférer de l’argent d’un compte à un autre, de manipuler les évaluations ou commentaires, de bénéficier frauduleusement de Rakuten Points, etc.
+*   impayés (notamment en cas d’opposition bancaire infondée, de réclamations abusives via des services tiers, de remboursement à tort du Membre),
+*   fraudes aux moyens de paiement,
+*   détournement du fonctionnement des coupons de réduction,
+*   manquement aux obligations sociales, fiscales et douanières,
+*   absence du certificat d’engagement  ou mention inexacte, incomplète ou obsolète au regard de l’activité du Vendeur Professionnel ;
+*   ou tout autre manquement, contractuel ou légal, fraude ou infraction pénale (y compris toute tentative),
 
 Rakuten se réserve la faculté de suspendre au Membre l'accès à la Plateforme Rakuten et/ou de prendre toute mesure (incluant, sans s’y limiter : restriction de tout ou partie de l’accès aux services de la Plateforme Rakuten, clôture du compte du Membre, suspension temporaire de l’utilisation du Porte-Monnaie, retrait ou suspension d'une annonce, etc.) rendue nécessaire par les violations ou tentatives de violations précitées du Membre et proportionnelle à ces violations et aux circonstances entourant leur commission (notamment en considération de leur caractère grave et/ou répété), sans préjudice de l'indemnisation intégrale du dommage éventuellement subi par Rakuten; le Vendeur ne pouvant invoquer dans cette hypothèse les frais éventuellement exposés par lui à l'occasion de la mise en ligne de ses Produits.
 
