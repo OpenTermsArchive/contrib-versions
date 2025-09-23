@@ -42,10 +42,10 @@ If you believe our online tracking technologies qualify as a "sale" or "sharing"
 
 Specific information about how we use such technologies and how you can refuse certain cookies is set out in our Cookie Notice.
 
-* _Device information_, including IP address, device identifiers, and details about your web browser.
-* _Analytical information_, including details about your interaction with our website and electronic newsletters.
-* _Advertising information_, including special advertising and other unique identifiers that enable us or third parties working on our behalf to target advertisements to you. Please be aware that our advertising Data Processors may collect data about you when you visit third-party website or use third-party apps. They may use that data to better target advertisements to you on our behalf.
-* _Business record information,_ including records of your purchases of products and services.
+*   _Device information_, including IP address, device identifiers, and details about your web browser.
+*   _Analytical information_, including details about your interaction with our website and electronic newsletters.
+*   _Advertising information_, including special advertising and other unique identifiers that enable us or third parties working on our behalf to target advertisements to you. Please be aware that our advertising Data Processors may collect data about you when you visit third-party website or use third-party apps. They may use that data to better target advertisements to you on our behalf.
+*   _Business record information,_ including records of your purchases of products and services.
 
 The following is a list of our Data Processors who collect the Information described above. Please follow the links to find out more details about the Data Processors' privacy practices.
 
@@ -67,18 +67,18 @@ How IPinfo Uses Information It Collects About You and the Purpose for the Collec
 
 We use Information that we collect about you or that you provide to us for the following purposes:
 
-* To present the Service, our Site and the Site Content (as defined in the Terms of Use) to you.
-* To provide you with the Services that you request from us. If you inquire about our Services, we will use the contact Information you give us to communicate with you about them.
-* To provide customer support.
-* To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
-* To notify you about changes to our Services.
-* To communicate with you regarding our Services, including for marketing purposes.
-* To personalize your experience and our advertising to you.
-* For administrative purposes.
-* In any other way we may describe when you provide the Information.
-* To fulfill any other purpose for which you provide it.
-* For any other purpose with your consent.
-* To improve our Services and develop new Services.
+*   To present the Service, our Site and the Site Content (as defined in the Terms of Use) to you.
+*   To provide you with the Services that you request from us. If you inquire about our Services, we will use the contact Information you give us to communicate with you about them.
+*   To provide customer support.
+*   To carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection.
+*   To notify you about changes to our Services.
+*   To communicate with you regarding our Services, including for marketing purposes.
+*   To personalize your experience and our advertising to you.
+*   For administrative purposes.
+*   In any other way we may describe when you provide the Information.
+*   To fulfill any other purpose for which you provide it.
+*   For any other purpose with your consent.
+*   To improve our Services and develop new Services.
 
 Here are additional details on how we use certain specific Information about you.
 
@@ -111,15 +111,15 @@ When IPinfo Shares Your Information
 
 We may disclose Information that we collect or you provide as described in this Privacy Policy:
 
-* To our subsidiaries and affiliates.
-* To contractors, service providers, and other third parties we use to support our business, as described further below.
-* To fulfill the purpose for which you provide it.
-* For any other purpose disclosed by us when you provide the Information.
-* With your consent.
-* To enforce or apply our Terms of Use.
-* If we believe it is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of the Services, or anyone else (including the rights or property of anyone else) that could be harmed by such activities.
-* If we believe in good faith that such disclosure is required by and in accordance with the law.
-* In connection with a corporate re-organization, a merger or amalgamation with another entity, a sale of all or a substantial portion of our assets or stock, including any due diligence exercise carried out in relation to the same.
+*   To our subsidiaries and affiliates.
+*   To contractors, service providers, and other third parties we use to support our business, as described further below.
+*   To fulfill the purpose for which you provide it.
+*   For any other purpose disclosed by us when you provide the Information.
+*   With your consent.
+*   To enforce or apply our Terms of Use.
+*   If we believe it is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other users of the Services, or anyone else (including the rights or property of anyone else) that could be harmed by such activities.
+*   If we believe in good faith that such disclosure is required by and in accordance with the law.
+*   In connection with a corporate re-organization, a merger or amalgamation with another entity, a sale of all or a substantial portion of our assets or stock, including any due diligence exercise carried out in relation to the same.
 
 From time to time we may employ third parties to help us provide and/or improve the Services. These third parties may have limited access to databases of user Information or registered member Information for the purpose of helping us to provide and/or improve the Services, and they will be subject to contractual restrictions and organizational safeguards intended to protect your Information.
 
@@ -143,22 +143,22 @@ IPinfo is the Controller of your Personal Information. IPinfo's primary business
 
 IPinfo may process your Personal Information on one or more of the following legal bases:
 
-* as necessary to enter into a contract with you or a legal entity you represent, to perform our contractual obligations, to provide services, to respond to requests from you, or to provide support;
-* where we have a legitimate interest, as described in this Privacy Policy (see "How IPinfo Uses Information It Collects About You and the Purposes for Collection and Use");
-* as necessary to comply with relevant law and legal obligations, including to respond to lawful requests and orders; or
-* with your consent.
+*   as necessary to enter into a contract with you or a legal entity you represent, to perform our contractual obligations, to provide services, to respond to requests from you, or to provide support;
+*   where we have a legitimate interest, as described in this Privacy Policy (see "How IPinfo Uses Information It Collects About You and the Purposes for Collection and Use");
+*   as necessary to comply with relevant law and legal obligations, including to respond to lawful requests and orders; or
+*   with your consent.
 
 ### Your Rights
 
 Subject to applicable law, you may have the right to:
 
-* ask whether we hold Personal Information about you and request copies of such Personal Information, as well as information about how it is processed;
-* request that inaccurate Personal Information is corrected;
-* request deletion of Personal Information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements;
-* request us to restrict the processing of Personal Information under certain circumstances;
-* object to the processing of Personal Information;
-* request portability of Personal Information that you have provided to us (which does not include Information derived from the collected Information), where the processing of such Personal Information is based on consent or a contract with you and is carried out by automated means; and
-* lodge a complaint with the appropriate data protection authorities.
+*   ask whether we hold Personal Information about you and request copies of such Personal Information, as well as information about how it is processed;
+*   request that inaccurate Personal Information is corrected;
+*   request deletion of Personal Information that is no longer necessary for the purposes underlying the processing, processed based on withdrawn consent, or processed in non-compliance with applicable legal requirements;
+*   request us to restrict the processing of Personal Information under certain circumstances;
+*   object to the processing of Personal Information;
+*   request portability of Personal Information that you have provided to us (which does not include Information derived from the collected Information), where the processing of such Personal Information is based on consent or a contract with you and is carried out by automated means; and
+*   lodge a complaint with the appropriate data protection authorities.
 
 You can exercise your rights of access, rectification, erasure, restriction, objection, and data portability by contacting us at the email address below.
 
