@@ -14,9 +14,9 @@ Lawful Basis for Processing Personal Data
 
 We store some personal data in three cases:
 
-1. When consent is given by users
-2. When processing is necessary for the purposes of our legitimate interests, such as the basic functionality of our site and services
-3. When processing is necessary for compliance with a legal obligation, such as storing payment records for our [supporters and subscribers](https://www.timeanddate.com/custom/subscriptions.html)
+1.  When consent is given by users
+2.  When processing is necessary for the purposes of our legitimate interests, such as the basic functionality of our site and services
+3.  When processing is necessary for compliance with a legal obligation, such as storing payment records for our [supporters and subscribers](https://www.timeanddate.com/custom/subscriptions.html)
 
 Personal Data We Process
 ------------------------
@@ -25,43 +25,43 @@ At timeanddate.com, we process some personal data. Below is a description of wha
 
 For all users who visit our website, we store:
 
-* Web server log: IP address, pages visited by that IP address, link clicked to get here, browser name and version, and time stamp
-* Third parties collect similar information; see “Third-Party Privacy Policies” below
+*   Web server log: IP address, pages visited by that IP address, link clicked to get here, browser name and version, and time stamp
+*   Third parties collect similar information; see “Third-Party Privacy Policies” below
 
 For all users who actively make changes to site settings, we store:
 
 [Setting preferences](https://www.timeanddate.com/custom/site.html), which are not personally identifiable, i.e., the cookies are stored in the browser and not on our servers. These settings include:
 
-* [Calendar](https://www.timeanddate.com/calendar/) settings
-* [Preferred units](https://www.timeanddate.com/custom/site.html) (temperature, distance, wind speed, etc.)
-* Cities in your [Personal World Clock](https://www.timeanddate.com/worldclock/personal.html)
-* [“Home” location](https://www.timeanddate.com/custom/location.html)
+*   [Calendar](https://www.timeanddate.com/calendar/) settings
+*   [Preferred units](https://www.timeanddate.com/custom/site.html) (temperature, distance, wind speed, etc.)
+*   Cities in your [Personal World Clock](https://www.timeanddate.com/worldclock/personal.html)
+*   [“Home” location](https://www.timeanddate.com/custom/location.html)
 
 For users who sign in to their [personal user account](https://www.timeanddate.com/custom/create.html), we also store:
 
-* Your email address (will not be sold nor distributed to any third party unrelated to timeanddate.com)
-* Your password (hashed)
-* Your chosen username, if any
-* List of log-ins (stored for up to 90 days)
-* Log of changes you made to your account (stored for up to 90 days)
-* [Events added](https://www.timeanddate.com/calendar/events/) in PDF calendar lists
+*   Your email address (will not be sold nor distributed to any third party unrelated to timeanddate.com)
+*   Your password (hashed)
+*   Your chosen username, if any
+*   List of log-ins (stored for up to 90 days)
+*   Log of changes you made to your account (stored for up to 90 days)
+*   [Events added](https://www.timeanddate.com/calendar/events/) in PDF calendar lists
 
 For [newsletter subscribers](https://www.timeanddate.com/newsletter/subscribe.html), we store:
 
-* Email address, IP address, and time of sign-up
-* Newsletters received and opened
-* Additional parameters may be stored by [MailChimp](https://mailchimp.com/legal/privacy/), who we use to send our newsletter; see “Third-Party Privacy Policies” below
+*   Email address, IP address, and time of sign-up
+*   Newsletters received and opened
+*   Additional parameters may be stored by [MailChimp](https://mailchimp.com/legal/privacy/), who we use to send our newsletter; see “Third-Party Privacy Policies” below
 
 For all paying [supporters and subscribers](https://www.timeanddate.com/custom/subscriptions.html), in addition to the above-mentioned data, we also store:
 
-* Payment information: either the PayPal address or the last four digits of the credit card used for payment and a log of the steps taken to fulfill your order (stored for up to 90 days)
-* Country of residence and, if submitted, street address, state, city, and ZIP/postal code
-* Email address, if different than the one registered for the user account
-* We use [Braintree](https://www.braintreepayments.com/en-cy/legal/braintree-privacy-policy) and [Paypal](https://www.paypal.com/de/webapps/mpp/ua/privacypps-full?locale.x=en_DE) for payments; see “Third-Party Privacy Policies” below
+*   Payment information: either the PayPal address or the last four digits of the credit card used for payment and a log of the steps taken to fulfill your order (stored for up to 90 days)
+*   Country of residence and, if submitted, street address, state, city, and ZIP/postal code
+*   Email address, if different than the one registered for the user account
+*   We use [Braintree](https://www.braintreepayments.com/en-cy/legal/braintree-privacy-policy) and [Paypal](https://www.paypal.com/de/webapps/mpp/ua/privacypps-full?locale.x=en_DE) for payments; see “Third-Party Privacy Policies” below
 
 As part of the [Calendar PDF with Logo](https://www.timeanddate.com/services/calendar-logo.html) subscription, in addition to the above-mentioned data, we also store:
 
-* The logo image you upload to add it to the [PDF Calendar](https://www.timeanddate.com/calendar/create.html)
+*   The logo image you upload to add it to the [PDF Calendar](https://www.timeanddate.com/calendar/create.html)
 
 IP Address and Cookies
 ----------------------
@@ -99,37 +99,37 @@ We use third-party advertising companies to serve ads when you visit timeanddate
 Third-Party Privacy Policies
 ----------------------------
 
-* We facilitate logging in and sharing via social media accounts
-* We use [Braintree](https://www.braintreepayments.com/en-cy/legal/braintree-privacy-policy) and [Paypal](https://www.paypal.com/de/webapps/mpp/ua/privacypps-full?locale.x=en_DE) for [supporters and subscribers](https://www.timeanddate.com/custom/subscriptions.html)
-* We use [MailChimp](https://mailchimp.com/legal/privacy/) to distribute our Newsletter
-* Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website and/or other websites
-* Google's use of advertising cookies enables it and its partners to serve ads to our users based on their visit to our sites and/or other websites
-* Users may opt out of personalized advertising by visiting [YourAdChoices](http://optout.aboutads.info/) or our [privacy settings page](https://www.timeanddate.com/custom/privacy.html)
+*   We facilitate logging in and sharing via social media accounts
+*   We use [Braintree](https://www.braintreepayments.com/en-cy/legal/braintree-privacy-policy) and [Paypal](https://www.paypal.com/de/webapps/mpp/ua/privacypps-full?locale.x=en_DE) for [supporters and subscribers](https://www.timeanddate.com/custom/subscriptions.html)
+*   We use [MailChimp](https://mailchimp.com/legal/privacy/) to distribute our Newsletter
+*   Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to our website and/or other websites
+*   Google's use of advertising cookies enables it and its partners to serve ads to our users based on their visit to our sites and/or other websites
+*   Users may opt out of personalized advertising by visiting [YourAdChoices](http://optout.aboutads.info/) or our [privacy settings page](https://www.timeanddate.com/custom/privacy.html)
 
 Third parties we use for advertising:
 
-1. [Index Exchange](http://www.indexexchange.com/privacy/)
-2. [Google Ad Manager](https://policies.google.com/privacy?hl=en)
-3. [Google Admob](https://policies.google.com/privacy?hl=en)
-4. [OpenX](https://www.openx.com/legal/privacy-policy/)
-5. [App Nexus](https://www.appnexus.com/en/company/platform-privacy-policy)
-6. [Rubicon Project](https://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/)
-7. [Conversant](https://www.conversantmedia.com/legal/privacy)
-8. [Sovrn](https://www.sovrn.com/privacy-policy-eu/)
-9. [Criteo](https://www.criteo.com/privacy/)
-10. [Sonobi](https://sonobi.com/privacy-policy/)
-11. [RhythmOne](https://www.rhythmone.com/privacy-policy#rhythmonelink)
-12. [District-M](https://districtm.net/en/page/platforms-data-and-privacy-policy/)
-13. [bRealTime](http://www.brealtime.com/privacy-policy/)
-14. [Microsoft](https://privacy.microsoft.com/en-US/privacystatement)
+1.  [Index Exchange](http://www.indexexchange.com/privacy/)
+2.  [Google Ad Manager](https://policies.google.com/privacy?hl=en)
+3.  [Google Admob](https://policies.google.com/privacy?hl=en)
+4.  [OpenX](https://www.openx.com/legal/privacy-policy/)
+5.  [App Nexus](https://www.appnexus.com/en/company/platform-privacy-policy)
+6.  [Rubicon Project](https://rubiconproject.com/rubicon-project-yield-optimization-privacy-policy/)
+7.  [Conversant](https://www.conversantmedia.com/legal/privacy)
+8.  [Sovrn](https://www.sovrn.com/privacy-policy-eu/)
+9.  [Criteo](https://www.criteo.com/privacy/)
+10.  [Sonobi](https://sonobi.com/privacy-policy/)
+11.  [RhythmOne](https://www.rhythmone.com/privacy-policy#rhythmonelink)
+12.  [District-M](https://districtm.net/en/page/platforms-data-and-privacy-policy/)
+13.  [bRealTime](http://www.brealtime.com/privacy-policy/)
+14.  [Microsoft](https://privacy.microsoft.com/en-US/privacystatement)
 
 Third parties we use for logging in:
 
-1. [Facebook](https://www.facebook.com/privacy/explanation)
-2. [Google](https://policies.google.com/privacy?hl=en&gl=no)
-3. [Microsoft](https://privacy.microsoft.com/en-US/privacystatement)
-4. [LinkedIn](https://www.linkedin.com/legal/privacy-policy)
-5. [Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
+1.  [Facebook](https://www.facebook.com/privacy/explanation)
+2.  [Google](https://policies.google.com/privacy?hl=en&gl=no)
+3.  [Microsoft](https://privacy.microsoft.com/en-US/privacystatement)
+4.  [LinkedIn](https://www.linkedin.com/legal/privacy-policy)
+5.  [Amazon](https://www.amazon.com/gp/help/customer/display.html?nodeId=GX7NJQ4ZB8MHFRNJ)
 
 Right to Receive Information
 ----------------------------
