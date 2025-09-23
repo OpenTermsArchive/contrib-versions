@@ -14,24 +14,24 @@ As regards your personal data processed in context of the Service, the data cont
 
 We may collect your information through different means, which are explained below.
 
-* The information you have given to us as part of registration
+*   The information you have given to us as part of registration
     
 
 The Service requires a user account to work. When you register as a user of the Service, we may collect following information:
 
-* to verify your identification we collect some basic information, such as your name, social security number and mobile phone number;
+*   to verify your identification we collect some basic information, such as your name, social security number and mobile phone number;
     
-* information regarding your student status, such as your place of study. 
+*   information regarding your student status, such as your place of study. 
     
 
 **The information regarding the use of the Service**
 
-* When you use the Service, we may process your information in following situations:
-* your activity in the Service, such as when you make purchases, respond to any offers, or download or use applications from us; 
+*   When you use the Service, we may process your information in following situations:
+*   your activity in the Service, such as when you make purchases, respond to any offers, or download or use applications from us; 
     
-* when you contact us, we may process your information for the purpose of contacting you, or to send you necessary notifications or important information regarding Service.
+*   when you contact us, we may process your information for the purpose of contacting you, or to send you necessary notifications or important information regarding Service.
     
-* The information collected from other sources
+*   The information collected from other sources
     
 
 For the purpose of providing you the Service, we may collect your information from JOLLA and/or VIRTA and/or KOSKI  databases or Oma Opintopolku-service provided by Finnish National Agency of Education in order to verify your student status. In this context we use the information you have provided upon your registration.
@@ -56,15 +56,15 @@ If you do not want us to use your location for the purposes set forth above, you
 
 Yes. We may disclose your information to third parties in the following cases:
 
-* to provide the Service (for the purpose of student status verification) when you use or acquire student benefits from a third party via or through this Service;
+*   to provide the Service (for the purpose of student status verification) when you use or acquire student benefits from a third party via or through this Service;
     
-* as required by law, such as to comply with a subpoena, requests by competent public authorities, or similar legal process;
+*   as required by law, such as to comply with a subpoena, requests by competent public authorities, or similar legal process;
     
-* when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
+*   when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
     
-* with our trusted services providers who work on our behalf, and who do not have an independent use of the information we disclose to them or;
+*   with our trusted services providers who work on our behalf, and who do not have an independent use of the information we disclose to them or;
     
-* if Oy Frank Students Ab is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
+*   if Oy Frank Students Ab is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of this information, as well as any choices you may have regarding this information.
     
 
 ### **Is the data transferred outside the EU/ EEA?**
@@ -135,38 +135,38 @@ Frank's customer and user register
 
 Personal data is processed for three main purposes:
 
-* The personal data is processed to provide the Service, manage customer relations, send notifications relating to the Service and for customer communication;
+*   The personal data is processed to provide the Service, manage customer relations, send notifications relating to the Service and for customer communication;
     
-* For marketing purposes. Personal data may be used for Frank's marketing purposes, unless prohibited by the user.
+*   For marketing purposes. Personal data may be used for Frank's marketing purposes, unless prohibited by the user.
     
-* Personal data may be used to improve and develop the Service. 
+*   Personal data may be used to improve and develop the Service. 
     
 
 **5\. Content of register  
 **Frank's customer register collects following information regarding the users of the Service:
 
-* the basic information, such as name, mobile phone number and social security number;
+*   the basic information, such as name, mobile phone number and social security number;
     
-* the student status, such as the information of the place of study and the student number;
+*   the student status, such as the information of the place of study and the student number;
     
-* user's activity in the Service, such as purchase history and communication with us.
+*   user's activity in the Service, such as purchase history and communication with us.
     
 
 **6\. Regular sources of personal information**
 
 The Service collects users' personal data via two sources:
 
-* directly from the users as a part of registration and of the use of Service
+*   directly from the users as a part of registration and of the use of Service
     
-* from JOLLA and/or VIRTA and/or KOSKI- databases and/or Oma Opintopolku -service provided by Finnish National Agency of Education for the purpose of student status verification 
+*   from JOLLA and/or VIRTA and/or KOSKI- databases and/or Oma Opintopolku -service provided by Finnish National Agency of Education for the purpose of student status verification 
     
 
 **7\. Sharing of personal data  
 **Personal data may be disclosed to third parties regularly in the following cases:
 
-* to provide the Service (for the purpose of student verification) when student benefits, provided by third parties, are used via or through the Service; and
+*   to provide the Service (for the purpose of student verification) when student benefits, provided by third parties, are used via or through the Service; and
     
-* with trusted service providers who work on our behalf and who do not have an independent right to use the information  
+*   with trusted service providers who work on our behalf and who do not have an independent right to use the information  
     
 
 Personal data may also be disclosed to a third party when required by applicable law or requests by competent authorities or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others or to investigate fraud.
