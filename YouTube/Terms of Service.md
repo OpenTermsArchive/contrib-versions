@@ -132,16 +132,16 @@ You may access and use the Service as made available to you, as long as you comp
 
 The following restrictions apply to your use of the Service. You are not allowed to:
 
-1. access, reproduce, download, distribute, transmit, broadcast, display, sell, license, alter, modify or otherwise use any part of the Service or any Content except: (a) as specifically permitted by the Service;  (b) with prior written permission from YouTube and, if applicable, the respective rights holders; or (c) as permitted by applicable law;
-2. circumvent, disable, fraudulently engage, or otherwise interfere with the Service (or attempt to do any of these things), including security-related features or features that: (a) prevent or restrict the copying or other use of Content; or (b) limit the use of the Service or Content;
-3. access the Service using any automated means (such as robots, botnets or scrapers) except: (a) in the case of public search engines, in accordance with YouTube’s robots.txt file; (b) with YouTube’s prior written permission; or (c) as permitted by applicable law;
-4. collect or use any information that might identify a person (for example, harvesting usernames or faces), unless permitted by that person or allowed under section 3 above;
-5. use the Service to distribute unsolicited promotional or commercial content or other unwanted or mass solicitations (spam);
-6. cause or encourage any inaccurate measurements of genuine user engagement with the Service, including by paying people or providing them with incentives to increase a video’s views, likes, or dislikes, or to increase a channel’s subscribers, or otherwise manipulate metrics;
-7. misuse any reporting, flagging, complaint, dispute, or appeals process, including by making groundless, vexatious, or frivolous submissions;
-8. run contests on or through the Service that do not comply with [YouTube’s contest policies and guidelines](https://support.google.com/youtube/answer/1620498);
-9. use the Service to view or listen to Content other than for personal, non-commercial use (for example, you may not publicly screen videos or stream music from the Service); or
-10. use the Service to: (a) sell any advertising, sponsorships, or promotions placed on, around, or within the Service or Content, other than those allowed in the [Advertising on YouTube](https://www.youtube.com/t/ads_policies) policies (such as compliant product placements); or (b) sell advertising, sponsorships, or promotions on any page of any website or application that only contains Content from the Service or where Content from the Service is the primary basis for such sales (for example, selling ads on a webpage where YouTube videos are the only content of value).
+1.  access, reproduce, download, distribute, transmit, broadcast, display, sell, license, alter, modify or otherwise use any part of the Service or any Content except: (a) as specifically permitted by the Service;  (b) with prior written permission from YouTube and, if applicable, the respective rights holders; or (c) as permitted by applicable law;
+2.  circumvent, disable, fraudulently engage, or otherwise interfere with the Service (or attempt to do any of these things), including security-related features or features that: (a) prevent or restrict the copying or other use of Content; or (b) limit the use of the Service or Content;
+3.  access the Service using any automated means (such as robots, botnets or scrapers) except: (a) in the case of public search engines, in accordance with YouTube’s robots.txt file; (b) with YouTube’s prior written permission; or (c) as permitted by applicable law;
+4.  collect or use any information that might identify a person (for example, harvesting usernames or faces), unless permitted by that person or allowed under section 3 above;
+5.  use the Service to distribute unsolicited promotional or commercial content or other unwanted or mass solicitations (spam);
+6.  cause or encourage any inaccurate measurements of genuine user engagement with the Service, including by paying people or providing them with incentives to increase a video’s views, likes, or dislikes, or to increase a channel’s subscribers, or otherwise manipulate metrics;
+7.  misuse any reporting, flagging, complaint, dispute, or appeals process, including by making groundless, vexatious, or frivolous submissions;
+8.  run contests on or through the Service that do not comply with [YouTube’s contest policies and guidelines](https://support.google.com/youtube/answer/1620498);
+9.  use the Service to view or listen to Content other than for personal, non-commercial use (for example, you may not publicly screen videos or stream music from the Service); or
+10.  use the Service to: (a) sell any advertising, sponsorships, or promotions placed on, around, or within the Service or Content, other than those allowed in the [Advertising on YouTube](https://www.youtube.com/t/ads_policies) policies (such as compliant product placements); or (b) sell advertising, sponsorships, or promotions on any page of any website or application that only contains Content from the Service or where Content from the Service is the primary basis for such sales (for example, selling ads on a webpage where YouTube videos are the only content of value).
 
 **Reservation**
 ---------------
@@ -270,14 +270,14 @@ All users: Nothing in this Agreement is intended to exclude or limit any party�
 
 To the extent permitted by applicable law, YouTube and its Affiliates will not be responsible for:
 
-1. losses that were not caused by YouTube or its Affiliates’ breach of this Agreement;
-2. any loss or damage that was not, at the time that this Agreement was formed between you and YouTube, a reasonably foreseeable consequence of YouTube or its Affiliates breaching this Agreement; or
-3. the Content submitted by any user, or for the defamatory, offensive, or illegal conduct of any user.
+1.  losses that were not caused by YouTube or its Affiliates’ breach of this Agreement;
+2.  any loss or damage that was not, at the time that this Agreement was formed between you and YouTube, a reasonably foreseeable consequence of YouTube or its Affiliates breaching this Agreement; or
+3.  the Content submitted by any user, or for the defamatory, offensive, or illegal conduct of any user.
 
 Business Users only: If you are using the Service for the purpose of your trade, business, craft or profession, (a “Business User”), to the extent permitted by applicable law, the following limitations of liability will also apply:
 
-1. YouTube and its Affiliates will not be responsible for lost profits, revenues, or data; loss of opportunity or anticipated savings; indirect or consequential losses, or punitive damages (in all cases whether such losses were foreseeable or not); and
-2. YouTube and its Affiliates’ total liability for any claims arising from or relating to the Service is limited to the greater of: (a) the amount of revenue that YouTube has paid to you from your use of the Service in the 12 months before the date of your notice, in writing to YouTube, of the claim and (b) £500, whichever is higher.
+1.  YouTube and its Affiliates will not be responsible for lost profits, revenues, or data; loss of opportunity or anticipated savings; indirect or consequential losses, or punitive damages (in all cases whether such losses were foreseeable or not); and
+2.  YouTube and its Affiliates’ total liability for any claims arising from or relating to the Service is limited to the greater of: (a) the amount of revenue that YouTube has paid to you from your use of the Service in the 12 months before the date of your notice, in writing to YouTube, of the claim and (b) £500, whichever is higher.
 
 **Third-Party Links**
 ---------------------
