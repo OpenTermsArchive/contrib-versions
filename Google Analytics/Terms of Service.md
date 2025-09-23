@@ -153,6 +153,6 @@ Last Updated 11 January 2024
 
 **Previous Versions**
 
-* [15 May 2023](https://marketingplatform.google.com/about/analytics/terms/gb-20230515/)
-* [31 March 2021](https://marketingplatform.google.com/about/analytics/terms/gb-20210331/)
-* [17 June 2019](https://marketingplatform.google.com/about/analytics/terms/gb-20190617/)
+*   [15 May 2023](https://marketingplatform.google.com/about/analytics/terms/gb-20230515/)
+*   [31 March 2021](https://marketingplatform.google.com/about/analytics/terms/gb-20210331/)
+*   [17 June 2019](https://marketingplatform.google.com/about/analytics/terms/gb-20190617/)
