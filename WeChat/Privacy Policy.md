@@ -15,8 +15,8 @@ This Privacy Policy only applies to you if you are a **WeChat user**, meaning th
 
 This Privacy Policy does not apply to you if you are a **Weixin user**. You are a Weixin user if you have either:
 
-* registered by linking a mobile number that uses international dialing code +86 ("**Chinese Mainland mobile number**"); or
-* contracted with 深圳市腾讯计算机系统有限公司(Shenzhen Tencent Computer Systems Company Limited) for Weixin.
+*   registered by linking a mobile number that uses international dialing code +86 ("**Chinese Mainland mobile number**"); or
+*   contracted with 深圳市腾讯计算机系统有限公司(Shenzhen Tencent Computer Systems Company Limited) for Weixin.
 
 **If you are a Weixin user, you are subject to the [Weixin Agreement on Software License and Service of Tencent Weixin](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=default&cc=CN) and [Weixin Privacy Protection Guidelines](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=privacy&cc=CN) and not this Privacy Policy.**
 
@@ -58,8 +58,8 @@ If there are any significant changes to this Privacy Policy, we will update it h
 
 **DATA CONTROLLER**
 
-* If you are a WeChat user located in the European Economic Area ("**the EEA**"), the United Kingdom of Great Britain and Northern Ireland ("**the UK**") or Switzerland: **Tencent International Service Europe B.V.,** a Dutch company, located at Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands; and
-* If you are a WeChat user located outside of the EEA, the UK, Switzerland or the Chinese Mainland: **WeChat International Pte. Ltd.**, a Singaporean company located at 10 Anson Road, #21-07 International Plaza, Singapore 079903.
+*   If you are a WeChat user located in the European Economic Area ("**the EEA**"), the United Kingdom of Great Britain and Northern Ireland ("**the UK**") or Switzerland: **Tencent International Service Europe B.V.,** a Dutch company, located at Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands; and
+*   If you are a WeChat user located outside of the EEA, the UK, Switzerland or the Chinese Mainland: **WeChat International Pte. Ltd.**, a Singaporean company located at 10 Anson Road, #21-07 International Plaza, Singapore 079903.
 
 **CONTACT US**
 
@@ -88,8 +88,8 @@ This Privacy Policy explains the when, how and why when it comes to processing o
 
 In this Privacy Policy, **"we"**, **"our"** or **"us"** refers to:
 
-* if you are a WeChat user located (as determined by your currently registered mobile number) in the EEA, the UK or Switzerland: **Tencent International Service Europe B.V.**, a Dutch company, located at Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands; and
-* if you are a WeChat user located outside of the EEA, the UK, Switzerland or the Chinese Mainland: **WeChat International Pte. Ltd.**, a Singaporean company located at 10 Anson Road, #21-07 International Plaza, Singapore 079903.
+*   if you are a WeChat user located (as determined by your currently registered mobile number) in the EEA, the UK or Switzerland: **Tencent International Service Europe B.V.**, a Dutch company, located at Buitenveldertselaan 1-5, 1082 VA, Amsterdam, the Netherlands; and
+*   if you are a WeChat user located outside of the EEA, the UK, Switzerland or the Chinese Mainland: **WeChat International Pte. Ltd.**, a Singaporean company located at 10 Anson Road, #21-07 International Plaza, Singapore 079903.
 
 Each of the above entities is also the **data controller** for users located in the abovementioned jurisdictions.
 
@@ -108,8 +108,8 @@ This Privacy Policy only applies to you if you are a **WeChat user**.
 
 This Privacy Policy does not apply to you if you are a **Weixin user**. You are a Weixin user if you had either:
 
-* registered by linking a Chinese Mainland mobile number; or
-* contracted with 深圳市腾讯计算机系统有限公司 (Shenzhen Tencent Computer Systems Company Limited) for Weixin.
+*   registered by linking a Chinese Mainland mobile number; or
+*   contracted with 深圳市腾讯计算机系统有限公司 (Shenzhen Tencent Computer Systems Company Limited) for Weixin.
 
 **If you are a Weixin user, you are subject to the [Weixin Agreement on Software License and Service of Tencent Weixin](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=default&cc=CN) and [Weixin Privacy Protection Guidelines](https://weixin.qq.com/cgi-bin/readtemplate?lang=en_US&t=weixin_agreement&s=privacy&cc=CN) and not this Privacy Policy.**
 
@@ -126,17 +126,17 @@ If you are using WeChat on behalf of a company, partnership, association, govern
 
 **"Location Data"** is information that is derived from your GPS (GPS coordinates), WiFi (approximate city location), IP address (country location), or public posts that contain location information (the location you geo-tag). Location Data will be disclosed (either to us, to other users, or both):
 
-* when you use location-based features and when you share your location with other WeChat and/or Weixin users; and
-* when you access WeChat, we automatically derive Location Data from your IP address, device, or internet service for security purposes including to prevent fraudulent log-ins and connections to your account.
+*   when you use location-based features and when you share your location with other WeChat and/or Weixin users; and
+*   when you access WeChat, we automatically derive Location Data from your IP address, device, or internet service for security purposes including to prevent fraudulent log-ins and connections to your account.
 
 You may disable the collection and use of your location data through device-level settings.
 
 **"Log Data"** is information that is automatically collected when you use WeChat, including:
 
-* device attributes, such as your mobile carrier and network-related information, your device version and resettable identifiers, configuration information made available by your WeChat mobile app or desktop or web browser, and your IP address;
-* information about your viewing history on WeChat, such as social media profiles visited and details of other content accessed or requested by you;
-* general information about your communications on WeChat, such as the user that you have communicated with, the time, date and duration of your communications (but not the content of such communications), statistics about your use of WeChat, and traffic data; and
-* metadata, which means information related to items you have made available through WeChat, such as the date, time or location that a shared photograph or video was taken or posted.
+*   device attributes, such as your mobile carrier and network-related information, your device version and resettable identifiers, configuration information made available by your WeChat mobile app or desktop or web browser, and your IP address;
+*   information about your viewing history on WeChat, such as social media profiles visited and details of other content accessed or requested by you;
+*   general information about your communications on WeChat, such as the user that you have communicated with, the time, date and duration of your communications (but not the content of such communications), statistics about your use of WeChat, and traffic data; and
+*   metadata, which means information related to items you have made available through WeChat, such as the date, time or location that a shared photograph or video was taken or posted.
 
 **"Personal Information"** is any information, or combination of information, that relates to you, that can be used (directly or indirectly) to identify you, which we process in connection with your use of WeChat. Please see the section entitled [**"How do we use your information?"**](#pp_how) below for examples.
 
@@ -196,15 +196,15 @@ We will not transfer your Personal Information to third parties except as specif
 
 Only where necessary will we share your information with selected recipients, including:
 
-* **related group companies.** We share your Personal Information within our group of companies, and these related group companies may only use your Personal Information in accordance with this Privacy Policy. These related group companies include Tencent International Service Europe B.V. (located in the Netherlands), Aceville Pte. Ltd. (located in Singapore), and Oriental Power Holdings Limited (located in Hong Kong SAR) for the purposes of providing WeChat to you, assisting us in carrying out the purposes set out under the "[**How do we use your information?**](#pp_how)" section above, and carrying out our obligations and enforcing our rights under the WeChat Terms of Service or this Privacy Policy;
-* **service providers.** We engage service providers to supply services to support or improve WeChat. These include SMS, VOIP, payment card processing and verification, translation, location and mapping, customer service, account data labelling and safety assurance (where applicable) and content delivery service providers. These service providers are required to provide the same or equal protection of user data as stated in this Privacy Policy and are prohibited from retaining, using, or disclosing your information except as necessary to provide services to us;
-* **third party services.** When you:
-    * log in to WeChat using third party authentication services;
-    * share content from WeChat to third party services;
-    * share content on WeChat from third party services;
-    * log in to platforms of third party services using WeChat account;
-    * access content of non-Weixin third party services from WeChat; or
-    * link your WeChat contact list with your list on third party services,  
+*   **related group companies.** We share your Personal Information within our group of companies, and these related group companies may only use your Personal Information in accordance with this Privacy Policy. These related group companies include Tencent International Service Europe B.V. (located in the Netherlands), Aceville Pte. Ltd. (located in Singapore), and Oriental Power Holdings Limited (located in Hong Kong SAR) for the purposes of providing WeChat to you, assisting us in carrying out the purposes set out under the "[**How do we use your information?**](#pp_how)" section above, and carrying out our obligations and enforcing our rights under the WeChat Terms of Service or this Privacy Policy;
+*   **service providers.** We engage service providers to supply services to support or improve WeChat. These include SMS, VOIP, payment card processing and verification, translation, location and mapping, customer service, account data labelling and safety assurance (where applicable) and content delivery service providers. These service providers are required to provide the same or equal protection of user data as stated in this Privacy Policy and are prohibited from retaining, using, or disclosing your information except as necessary to provide services to us;
+*   **third party services.** When you:
+    *   log in to WeChat using third party authentication services;
+    *   share content from WeChat to third party services;
+    *   share content on WeChat from third party services;
+    *   log in to platforms of third party services using WeChat account;
+    *   access content of non-Weixin third party services from WeChat; or
+    *   link your WeChat contact list with your list on third party services,  
         we may receive information about you from such third party services and/or share your information with such third party services.  
         Third party services may collect information (including personal information and log data), and set cookies on your device. **This Privacy Policy only applies to information collected by us, and does not apply to information collected by third parties.**
 
@@ -216,9 +216,9 @@ Only where necessary will we share your information with selected recipients, in
   
 You can control which third parties have access to your information and you can withdraw your agreement to the sharing of your information by following the instructions set out [here](https://help.wechat.com/cgi-bin/micromsg-bin/oshelpcenter?opcode=2&lang=en&plat=ios&id=1803233auaIv180323aaeaM7&Channel=helpcenter). Please note however that if you ask us not to share your information with certain third parties, you may no longer be able to use those third party services;
 
-* **third parties or related group companies in the event of a merger, acquisition, restructuring, or sale of assets, or by operation of law or otherwise,** we will transfer your information to such entity accordingly so that your service can continue. Under these circumstances, we will always require the third parties or related group companies to comply with this Privacy Policy;
-* **government, public, regulatory, judicial and law enforcement bodies or authorities**. There are circumstances in which we are legally required to disclose your information, including (i) to comply with a legal obligation or request, such as a court order, subpoena or other legal process, (ii) to enforce our terms, (iii) to address issues relating to security or fraud, or (iv) where there is an imminent emergency involving risk of death, serious physical injury to a person or any risk of harm to a child, and in both cases, provided that the requesting entity has valid jurisdiction to obtain your Personal Information. Our Law Enforcement Data Request Guidelines are available [here](https://www.wechat.com/en/law_enforcement_data_request.html); and
-* **third parties pursuant to your request**, for example, pursuant to your data portability request.
+*   **third parties or related group companies in the event of a merger, acquisition, restructuring, or sale of assets, or by operation of law or otherwise,** we will transfer your information to such entity accordingly so that your service can continue. Under these circumstances, we will always require the third parties or related group companies to comply with this Privacy Policy;
+*   **government, public, regulatory, judicial and law enforcement bodies or authorities**. There are circumstances in which we are legally required to disclose your information, including (i) to comply with a legal obligation or request, such as a court order, subpoena or other legal process, (ii) to enforce our terms, (iii) to address issues relating to security or fraud, or (iv) where there is an imminent emergency involving risk of death, serious physical injury to a person or any risk of harm to a child, and in both cases, provided that the requesting entity has valid jurisdiction to obtain your Personal Information. Our Law Enforcement Data Request Guidelines are available [here](https://www.wechat.com/en/law_enforcement_data_request.html); and
+*   **third parties pursuant to your request**, for example, pursuant to your data portability request.
 
 6\. WHERE DO WE PROCESS YOUR DATA?
 ----------------------------------
@@ -279,10 +279,10 @@ If there is any other Personal Information you believe we process that you would
 
 You may request that we erase the Personal Information we hold about you where:
 
-* you believe that it is no longer necessary for us to hold your Personal Information;
-* we obtained your consent to process the Personal Information and you withdraw that consent (and we have no other valid legal grounds for processing the Personal Information);
-* you believe we are unlawfully processing your Personal Information; or
-* you are or were under the age of 13 (or such applicable age of majority under relevant local laws) when we collected the Personal Information and we can verify this.
+*   you believe that it is no longer necessary for us to hold your Personal Information;
+*   we obtained your consent to process the Personal Information and you withdraw that consent (and we have no other valid legal grounds for processing the Personal Information);
+*   you believe we are unlawfully processing your Personal Information; or
+*   you are or were under the age of 13 (or such applicable age of majority under relevant local laws) when we collected the Personal Information and we can verify this.
 
 You may exercise your right to restrict our processing your Personal Information (as described below) whilst we consider a request to erase your data.
 
@@ -300,9 +300,9 @@ Where we agree to stop processing the Personal Information, we will use reasonab
 
 You may request we stop processing and just store the Personal Information we hold about you where:
 
-* you believe the Personal Information is not accurate (for the period it takes for us to verify whether it is accurate);
-* we wish to erase the Personal Information as the processing is now unlawful (but you want us to retain the Personal Information and just store it instead); or
-* we wish to erase the Personal Information as it is no longer necessary for our purposes (but you require it to be stored for the establishment, exercise or defence of legal claims).
+*   you believe the Personal Information is not accurate (for the period it takes for us to verify whether it is accurate);
+*   we wish to erase the Personal Information as the processing is now unlawful (but you want us to retain the Personal Information and just store it instead); or
+*   we wish to erase the Personal Information as it is no longer necessary for our purposes (but you require it to be stored for the establishment, exercise or defence of legal claims).
 
 **Portability**
 
