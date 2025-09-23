@@ -3,19 +3,19 @@ We want LinkedIn to reflect the best version of professional life
 
 This is a community where we treat each other with respect and help each other succeed.
 
-* ### Be safe
+*   ### Be safe
     
     Only bring safe conversations to LinkedIn.
     
     [**Learn more**](#be-safe-policy)
     
-* ### Be trustworthy
+*   ### Be trustworthy
     
     Use your true identity and share information that is real and authentic.
     
     [**Learn more**](#be-trustworthy-policy)
     
-* ### Be professional
+*   ### Be professional
     
     We allow broad conversations about the world of work, but just keep it professional.
     
@@ -27,20 +27,20 @@ LinkedIn Professional Community Policies
 
 Thank you for using LinkedIn, where the world’s professionals come together to find jobs, stay informed, learn new skills, and build productive relationships. The content that you contribute should add to the LinkedIn community in a constructive manner. Additional information on what that means, is laid out below. You should also review our [Publishing Platform Guidelines](https://www.linkedin.com/help/linkedin/answer/47545). Together we can make our community a place where everyone is able to learn, grow, and communicate, which, in turn, helps create economic opportunity for everyone.
 
-* ### Tell us if you see abusive content
+*   ### Tell us if you see abusive content
     
     If you see something you believe may violate our policies, whether in profiles, posts, messages, comments, or anywhere else, please [report it to us](https://www.linkedin.com/help/linkedin/answer/146). Combined with our automated defenses, these reports help us identify and prevent abuse. Users can report content by clicking on the three dots icon in the upper right-hand corner of the content itself on LinkedIn. Please use the reporting tools responsibly and only for their intended purposes. To learn more about how to report inappropriate content, behavior, or members, visit our [Transparency Center](https://about.linkedin.com/transparency).
     
     In addition to LinkedIn's trained content reviewers, we use automated systems to identify potentially violative content. Violating content can be removed from LinkedIn. Learn more about our approach to content moderation, including our automated systems, [here](https://www.linkedin.com/help/linkedin/answer/a1441504).
     
-* ### Violating our community policies can result in action against your account or content
+*   ### Violating our community policies can result in action against your account or content
     
     These policies apply to all members. Depending on the severity of violation, we may limit the visibility of certain content, label it, or remove it entirely. Repeated or egregious offenses will result in account restriction. If you believe action taken on your content or your account was in error, you can submit an [appeal](https://www.linkedin.com/help/linkedin/answer/a1441505).
     
     Learn more about how [we enforce violations of our Professional Community Policies](https://www.linkedin.com/help/linkedin/answer/137368)**.**
     
 
-* Be safe
+*   Be safe
     -------
     
     Only bring safe conversations to LinkedIn.
@@ -63,7 +63,7 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     
     Learn more about our [dangerous organizations and individuals policy](https://www.linkedin.com/help/linkedin/answer/137375)**.**
     
-* Be Trustworthy
+*   Be Trustworthy
     --------------
     
     We require you to use your true identity on LinkedIn, provide accurate information about yourself or your organization, and only share information that is real and authentic.
@@ -78,7 +78,7 @@ Thank you for using LinkedIn, where the world’s professionals come together to
     
     Learn more about our [scams and fraud content policies](https://www.linkedin.com/help/linkedin/answer/137377)**.**
     
-* Be professional
+*   Be professional
     ---------------
     
     LinkedIn's mission is to connect the world's professionals to make them more productive and successful. We allow broad conversations about the world of work, but require professional expression. To maintain a professional platform, members should treat each other with respect and civility. Do not interact with others or share content in a way that's uncivil, inappropriate, or disrespectful.
