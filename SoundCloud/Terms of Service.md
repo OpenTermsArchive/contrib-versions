@@ -11,37 +11,37 @@ Please also be sure to review our [Privacy Policy](https://soundcloud.com/pages/
 
 These Terms of Use consist of the following sections:
 
-* [Acceptance of Terms of Use](#acceptance-of-terms-of-use) Basically, by using the Platform you accept our Terms of Use and [Community Guidelines](https://soundcloud.com/community-guidelines) and agree to abide by them.
-* [Changes to Terms of Use](#changes-to-terms-of-use) This section explains that our Terms of Use may change from time to time.
-* [Description of the Platform](#description-of-the-platform) This provides a general description of the Platform, its features and functionality.
-* [Your SoundCloud account](#your-soundcloud-account) This section explains your responsibilities should you choose to register for a SoundCloud account.
-* [Your Use of the Platform](#your-use-of-the-platform) This section sets out your right to use the Platform, and the conditions that apply to your use of the Platform.
-* [Your Content](#your-content) This section deals with ownership of your Content, and includes your agreement not to upload anything that infringes on anyone else’s rights.
-* [Grant of license](#grant-of-license) This section explains how your Content will be used on SoundCloud and the permissions that you grant by uploading your Content - for example, the right for other users to listen to your sounds.
-* [Representations and warranties](#representations-and-warranties) This section includes important promises and guarantees that you give when uploading content to SoundCloud - in particular, your promise that everything you upload and share is owned by you and won’t infringe anyone else’s rights.
-* [Liability for content](#liability-for-content) This section explains that SoundCloud is a hosting service and that its users are solely liable for material that they upload to SoundCloud.
-* [Reporting infringements](#reporting-infringements) This section refers to our guidelines on how to notify us of any content on SoundCloud that you believe infringes your copyright or any other intellectual property right, or that is unlawful, abusive, defamatory or otherwise contrary to our Terms of Use or [Community Guidelines](https://soundcloud.com/community-guidelines). You can find further information on reporting copyright infringement on our [Copyright Information](https://soundcloud.com/pages/copyright) pages. It also refers to our Moderation and Enforcement Policy, where you learn about instances where SoundCloud may block or remove content from the Platform and that users who repeatedly infringe third party rights or breach our Terms of Use or Community Guidelines risk having their SoundCloud accounts suspended or terminated.
-* [Third party websites and services](#third-party-websites-and-services) Through SoundCloud you may have access to other websites and services. This section explains that these are separate third party services that are not under the control of SoundCloud.
-* Blocking and removal of content This section makes it clear that SoundCloud may block or remove content from the Platform. It also refers to our Moderation and Enforcement Policy.
-* Repeat infringers Users who repeatedly infringe third party rights or breach our Terms of Use or Community Guidelines risk having their SoundCloud accounts suspended or terminated, as explained in this section. It also refers to our Moderation and Enforcement Policy.
-* Complaint procedures This section explains the different options you have if you disagree with a decision we have made in relation to your Content or account, including our internal complaints process, out-of-court dispute resolution options, and judicial redress.
-* [Disclaimer](#disclaimer) This section explains that SoundCloud cannot give any guarantees that the Platform will always be available – sometimes even a platform as awesome as ours will have a few problems.
-* [Limitation of liability](#limitation-of-liability) This section explains some of those things that SoundCloud will not be liable for. Please make sure you read and understand this section.
-* [Indemnification](#indemnification) If you use the Platform in a way that results in damage to us, you will need to take responsibility for that.
-* [Data protection, privacy, and cookies](#data-protection-privacy-and-cookies) It is really important to us that you understand how we use your personal information. All information is collected, stored and used in accordance with our [Privacy Policy](https://soundcloud.com/pages/privacy), so please make sure that you read and understand that policy. Like most other websites, we also use cookies to help us analyze how people use SoundCloud, so that we can keep improving our service. Our use of cookies is explained in our [Cookies Policy](https://soundcloud.com/pages/cookies).
-* [Meetups](#meetups) This section deals with SoundCloud meetups and explains that these are not "official" SoundCloud events, so we cannot be responsible for anything that happens at meetups.
-* [Competitions and other promotions](#competitions-and-other-promotions) This section deals with competitions, contests and sweepstakes on SoundCloud. These are not run by SoundCloud, and therefore we cannot be responsible for them. If you want to run your own competition on SoundCloud, make sure you read and understand our Competition Terms.
-* [Use of SoundCloud players and widget](#use-of-soundcloud-players-and-widget) This section includes a few restrictions on how you can use our players and widgets – basically, don’t try to use our players to create a new music or audio streaming service.
-* [Subscriptions](#subscriptions-and-gift-codes) This section links you to information explaining how to purchase paid SoundCloud subscriptions as well as gift codes and how you can cancel your purchases in certain circumstances.
-* [Changes to the Platform, accounts, and pricing](#changes-to-the-platform-accounts-and-pricing) From time to time, we may need to make some changes to SoundCloud. This section explains your rights in this situation.
-* [Termination](#termination) This section explains how you can terminate your SoundCloud account, and the grounds on which we can terminate your use of SoundCloud.
-* [Assignment to third parties](#assignment-to-third-parties) This section deals with SoundCloud’s right to transfer this agreement to someone else.
-* [Severability](#severability) This is a standard legal provision, which says that any term that is not valid will be removed from the agreement without affecting the validity of the rest of the agreement.
-* [Entire agreement](#entire-agreement) Your use of SoundCloud is governed by these Terms of Use, our [Privacy Policy](https://soundcloud.com/pages/privacy), [Cookies Policy](https://soundcloud.com/pages/cookies) and [Community Guidelines](https://soundcloud.com/community-guidelines). Any changes need to be made in writing.
-* [Third party rights](#third-party-rights) These Terms of Use apply to the relationship between you and SoundCloud only.
-* [Applicable law and jurisdiction](#applicable-law-and-jurisdiction) All of our documents are generally governed by German law, if not explicitly mentioned differently.
-* [Disclosures](#disclosures) This section provides information about SoundCloud, including how to contact us.
-* Additional information for the EU Digital Services Act This Section sets out some information we are required to make public by certain laws in the European Union.
+*   [Acceptance of Terms of Use](#acceptance-of-terms-of-use) Basically, by using the Platform you accept our Terms of Use and [Community Guidelines](https://soundcloud.com/community-guidelines) and agree to abide by them.
+*   [Changes to Terms of Use](#changes-to-terms-of-use) This section explains that our Terms of Use may change from time to time.
+*   [Description of the Platform](#description-of-the-platform) This provides a general description of the Platform, its features and functionality.
+*   [Your SoundCloud account](#your-soundcloud-account) This section explains your responsibilities should you choose to register for a SoundCloud account.
+*   [Your Use of the Platform](#your-use-of-the-platform) This section sets out your right to use the Platform, and the conditions that apply to your use of the Platform.
+*   [Your Content](#your-content) This section deals with ownership of your Content, and includes your agreement not to upload anything that infringes on anyone else’s rights.
+*   [Grant of license](#grant-of-license) This section explains how your Content will be used on SoundCloud and the permissions that you grant by uploading your Content - for example, the right for other users to listen to your sounds.
+*   [Representations and warranties](#representations-and-warranties) This section includes important promises and guarantees that you give when uploading content to SoundCloud - in particular, your promise that everything you upload and share is owned by you and won’t infringe anyone else’s rights.
+*   [Liability for content](#liability-for-content) This section explains that SoundCloud is a hosting service and that its users are solely liable for material that they upload to SoundCloud.
+*   [Reporting infringements](#reporting-infringements) This section refers to our guidelines on how to notify us of any content on SoundCloud that you believe infringes your copyright or any other intellectual property right, or that is unlawful, abusive, defamatory or otherwise contrary to our Terms of Use or [Community Guidelines](https://soundcloud.com/community-guidelines). You can find further information on reporting copyright infringement on our [Copyright Information](https://soundcloud.com/pages/copyright) pages. It also refers to our Moderation and Enforcement Policy, where you learn about instances where SoundCloud may block or remove content from the Platform and that users who repeatedly infringe third party rights or breach our Terms of Use or Community Guidelines risk having their SoundCloud accounts suspended or terminated.
+*   [Third party websites and services](#third-party-websites-and-services) Through SoundCloud you may have access to other websites and services. This section explains that these are separate third party services that are not under the control of SoundCloud.
+*   Blocking and removal of content This section makes it clear that SoundCloud may block or remove content from the Platform. It also refers to our Moderation and Enforcement Policy.
+*   Repeat infringers Users who repeatedly infringe third party rights or breach our Terms of Use or Community Guidelines risk having their SoundCloud accounts suspended or terminated, as explained in this section. It also refers to our Moderation and Enforcement Policy.
+*   Complaint procedures This section explains the different options you have if you disagree with a decision we have made in relation to your Content or account, including our internal complaints process, out-of-court dispute resolution options, and judicial redress.
+*   [Disclaimer](#disclaimer) This section explains that SoundCloud cannot give any guarantees that the Platform will always be available – sometimes even a platform as awesome as ours will have a few problems.
+*   [Limitation of liability](#limitation-of-liability) This section explains some of those things that SoundCloud will not be liable for. Please make sure you read and understand this section.
+*   [Indemnification](#indemnification) If you use the Platform in a way that results in damage to us, you will need to take responsibility for that.
+*   [Data protection, privacy, and cookies](#data-protection-privacy-and-cookies) It is really important to us that you understand how we use your personal information. All information is collected, stored and used in accordance with our [Privacy Policy](https://soundcloud.com/pages/privacy), so please make sure that you read and understand that policy. Like most other websites, we also use cookies to help us analyze how people use SoundCloud, so that we can keep improving our service. Our use of cookies is explained in our [Cookies Policy](https://soundcloud.com/pages/cookies).
+*   [Meetups](#meetups) This section deals with SoundCloud meetups and explains that these are not "official" SoundCloud events, so we cannot be responsible for anything that happens at meetups.
+*   [Competitions and other promotions](#competitions-and-other-promotions) This section deals with competitions, contests and sweepstakes on SoundCloud. These are not run by SoundCloud, and therefore we cannot be responsible for them. If you want to run your own competition on SoundCloud, make sure you read and understand our Competition Terms.
+*   [Use of SoundCloud players and widget](#use-of-soundcloud-players-and-widget) This section includes a few restrictions on how you can use our players and widgets – basically, don’t try to use our players to create a new music or audio streaming service.
+*   [Subscriptions](#subscriptions-and-gift-codes) This section links you to information explaining how to purchase paid SoundCloud subscriptions as well as gift codes and how you can cancel your purchases in certain circumstances.
+*   [Changes to the Platform, accounts, and pricing](#changes-to-the-platform-accounts-and-pricing) From time to time, we may need to make some changes to SoundCloud. This section explains your rights in this situation.
+*   [Termination](#termination) This section explains how you can terminate your SoundCloud account, and the grounds on which we can terminate your use of SoundCloud.
+*   [Assignment to third parties](#assignment-to-third-parties) This section deals with SoundCloud’s right to transfer this agreement to someone else.
+*   [Severability](#severability) This is a standard legal provision, which says that any term that is not valid will be removed from the agreement without affecting the validity of the rest of the agreement.
+*   [Entire agreement](#entire-agreement) Your use of SoundCloud is governed by these Terms of Use, our [Privacy Policy](https://soundcloud.com/pages/privacy), [Cookies Policy](https://soundcloud.com/pages/cookies) and [Community Guidelines](https://soundcloud.com/community-guidelines). Any changes need to be made in writing.
+*   [Third party rights](#third-party-rights) These Terms of Use apply to the relationship between you and SoundCloud only.
+*   [Applicable law and jurisdiction](#applicable-law-and-jurisdiction) All of our documents are generally governed by German law, if not explicitly mentioned differently.
+*   [Disclosures](#disclosures) This section provides information about SoundCloud, including how to contact us.
+*   Additional information for the EU Digital Services Act This Section sets out some information we are required to make public by certain laws in the European Union.
 
 **Acceptance of Terms of Use**
 ------------------------------
@@ -118,11 +118,11 @@ The above licenses are conditional upon your strict compliance with these Terms 
 
 (viii) You must not use the Platform to upload, post, store, transmit, display, copy, distribute, promote, make available, continue to make available or otherwise communicate to the public:
 
-* any Content that (a) breaches our Community Guidelines; (b) includes hate speech on the grounds of race, ethnicity, cultural identity, religious belief, disability, gender, identity or sexual orientation; or (c) includes terrorist or extremist content, violence, abuse, self-harm or harassment, nudity or pornography, child sexual abuse or grooming material;
-* any information, Content or other material that violates, plagiarizes, misappropriates or infringes the rights of third parties including, without limitation, copyright, trademark rights, rights of privacy or publicity, personal rights, confidential information or any other right; or
-* any Content that violates, breaches or is contrary to any law, rule, regulation, court order or is otherwise is illegal or unlawful in SoundCloud’s reasonable opinion;
-* any material of any kind that contains any virus, Trojan horse, spyware, adware, malware, bot, time bomb, worm, or other harmful or malicious component, which would or might overburden, impair or disrupt the Platform or servers or networks forming part of, or connected to, the Platform, or which does or might restrict or inhibit any other user's use and enjoyment of the Platform; or
-* any unsolicited or unauthorized advertising, promotional messages, spam or any other form of solicitation.
+*   any Content that (a) breaches our Community Guidelines; (b) includes hate speech on the grounds of race, ethnicity, cultural identity, religious belief, disability, gender, identity or sexual orientation; or (c) includes terrorist or extremist content, violence, abuse, self-harm or harassment, nudity or pornography, child sexual abuse or grooming material;
+*   any information, Content or other material that violates, plagiarizes, misappropriates or infringes the rights of third parties including, without limitation, copyright, trademark rights, rights of privacy or publicity, personal rights, confidential information or any other right; or
+*   any Content that violates, breaches or is contrary to any law, rule, regulation, court order or is otherwise is illegal or unlawful in SoundCloud’s reasonable opinion;
+*   any material of any kind that contains any virus, Trojan horse, spyware, adware, malware, bot, time bomb, worm, or other harmful or malicious component, which would or might overburden, impair or disrupt the Platform or servers or networks forming part of, or connected to, the Platform, or which does or might restrict or inhibit any other user's use and enjoyment of the Platform; or
+*   any unsolicited or unauthorized advertising, promotional messages, spam or any other form of solicitation.
 
 (ix) You must not commit or engage in, or encourage, induce, solicit or promote, any conduct that would constitute a criminal offense, give rise to civil liability or otherwise violate any law or regulation.
 
@@ -241,17 +241,17 @@ Each track page has a button entitled “Report”, which you can use to report 
 
 The report button and the webform are the most efficient means of reporting possible copyright infringement. However, if you would prefer to send your own notification, please do so in writing at copyright@soundcloud.com making sure that you include the following information:
 
-* a statement that you have identified tracks on SoundCloud which infringe your copyright or the copyright of a third party on whose behalf you are entitled to act;
-* a description of the copyright work(s) that you claim have been infringed;
-* a description of the sound(s) that you claim are infringing and the SoundCloud URL(s) where such tracks can be located;
-* your full name, address and telephone number, a valid email address at which you can be contacted, and your SoundCloud username if you have one;
-* a statement by you that you have a good faith belief that the disputed use of the material is not authorized by the copyright owner, its agent, or the law;
-* a statement by you that the information in your notice is accurate and that you are authorized to act on behalf of the owner of the exclusive right that is allegedly infringed;
+*   a statement that you have identified tracks on SoundCloud which infringe your copyright or the copyright of a third party on whose behalf you are entitled to act;
+*   a description of the copyright work(s) that you claim have been infringed;
+*   a description of the sound(s) that you claim are infringing and the SoundCloud URL(s) where such tracks can be located;
+*   your full name, address and telephone number, a valid email address at which you can be contacted, and your SoundCloud username if you have one;
+*   a statement by you that you have a good faith belief that the disputed use of the material is not authorized by the copyright owner, its agent, or the law;
+*   a statement by you that the information in your notice is accurate and that you are authorized to act on behalf of the owner of the exclusive right that is allegedly infringed;
 
 If you wish for your notice to be considered as a notice pursuant to the United States Digital Millennium Copyright Act 17 U.S.C. §512(c), your notice should be sent to SoundCloud’s designated copyright agent by email to copyrightagent@soundcloud.com and/or by mail to SoundCloud Inc., 2 Gansevoort St, 6th Floor, New York, New York 10014 Attn: Copyright Agent and should also include the following:
 
-* with respect to your statement that you are authorized to act on behalf of the owner of the exclusive right that is allegedly infringed, confirmation that such statement is made under penalty of perjury; and
-* your electronic or physical signature (which may be a scanned copy).
+*   with respect to your statement that you are authorized to act on behalf of the owner of the exclusive right that is allegedly infringed, confirmation that such statement is made under penalty of perjury; and
+*   your electronic or physical signature (which may be a scanned copy).
 
 **Third party websites and services**
 -------------------------------------
@@ -314,7 +314,7 @@ IN NO EVENT SHALL SOUNDCLOUD’S AGGREGATE LIABILITY TO YOU UNDER THIS AGREEMENT
 
 SOUNDCLOUD AND ITS SUBSIDIARIES, AFFILIATES, SUCCESSORS, AND ASSIGNS, AND THEIR RESPECTIVE EMPLOYEES, AGENTS, DIRECTORS, OFFICERS AND SHAREHOLDERS, SHALL HAVE NO LIABILITY FOR:
 
-1. ANY LOSS OR DAMAGE ARISING FROM:
+1.  ANY LOSS OR DAMAGE ARISING FROM:
 
 (A) YOUR INABILITY TO ACCESS OR USE THE PLATFORM OR ANY PART OR PARTS THEREOF, OR TO ACCESS ANY CONTENT OR ANY EXTERNAL SERVICES VIA THE PLATFORM;
 
@@ -328,9 +328,9 @@ SOUNDCLOUD AND ITS SUBSIDIARIES, AFFILIATES, SUCCESSORS, AND ASSIGNS, AND THEIR 
 
 (F) ANY MISCONDUCT BY OTHER USERS OR THIRD PARTIES USING THE PLATFORM, ESPECIALLY IN BREACH OF THE AGREEMENT;
 
-1. ANY LOSS OR DAMAGE TO ANY COMPUTER HARDWARE OR SOFTWARE, ANY LOSS OF DATA (INCLUDING YOUR CONTENT), OR ANY LOSS OR DAMAGE FROM ANY SECURITY BREACH; AND/OR
+1.  ANY LOSS OR DAMAGE TO ANY COMPUTER HARDWARE OR SOFTWARE, ANY LOSS OF DATA (INCLUDING YOUR CONTENT), OR ANY LOSS OR DAMAGE FROM ANY SECURITY BREACH; AND/OR
     
-2. ANY LOSS OF PROFITS, OR ANY LOSS YOU SUFFER WHICH IS NOT A FORESEEABLE CONSEQUENCE OF SOUNDCLOUD BREACHING THESE TERMS OF USE. LOSSES ARE FORESEEABLE WHERE THEY COULD BE CONTEMPLATED BY YOU AND SOUNDCLOUD AT THE TIME YOU AGREE TO THESE TERMS OF USE, AND THEREFORE DO NOT INCLUDE ANY INDIRECT LOSSES, SUCH AS LOSS OF OPPORTUNITY.
+2.  ANY LOSS OF PROFITS, OR ANY LOSS YOU SUFFER WHICH IS NOT A FORESEEABLE CONSEQUENCE OF SOUNDCLOUD BREACHING THESE TERMS OF USE. LOSSES ARE FORESEEABLE WHERE THEY COULD BE CONTEMPLATED BY YOU AND SOUNDCLOUD AT THE TIME YOU AGREE TO THESE TERMS OF USE, AND THEREFORE DO NOT INCLUDE ANY INDIRECT LOSSES, SUCH AS LOSS OF OPPORTUNITY.
     
 
 ANY CLAIM OR CAUSE OF ACTION ARISING OUT OF OR RELATED TO YOUR USE OF THE PLATFORM MUST BE NOTIFIED TO SOUNDCLOUD AS SOON AS POSSIBLE.
@@ -445,8 +445,8 @@ The services hereunder are offered by SoundCloud Global Limited & Co. KG, a comp
 
 We are required to have a single point of contact for authorities and our users.
 
-* The European Commission, EU Member States’ authorities, and the European Board for Digital Services may contact us at legal@soundcloud.com. Communications with us and requests can be in the German or English language.
-* Users may contact us at legal@soundcloud.com or visit our Help Center.
+*   The European Commission, EU Member States’ authorities, and the European Board for Digital Services may contact us at legal@soundcloud.com. Communications with us and requests can be in the German or English language.
+*   Users may contact us at legal@soundcloud.com or visit our Help Center.
 
 **Last Amended:** [September 10, 2025](https://soundcloud.com/terms-of-use/09-2025)
 
@@ -455,12 +455,12 @@ We are required to have a single point of contact for authorities and our users.
 
 You will find a link to prior versions of our Terms of Use below.
 
-* [May 2025](https://soundcloud.com/terms-of-use/05-2025)
-* [February 2024](https://soundcloud.com/terms-of-use/02-2024)
-* [October 2022](https://soundcloud.com/terms-of-use/10-2022)
-* [June 2021](https://soundcloud.com/terms-of-use/06-2021)
-* [December 2020](https://soundcloud.com/terms-of-use/12-2020)
-* [May 2018](https://soundcloud.com/terms-of-use/05-2018)
-* [March 2016](https://soundcloud.com/terms-of-use/03-2016)
-* [January 2016](https://soundcloud.com/terms-of-use/01-2016)
-* [March 2013](https://soundcloud.com/terms-of-use/03-2013)
+*   [May 2025](https://soundcloud.com/terms-of-use/05-2025)
+*   [February 2024](https://soundcloud.com/terms-of-use/02-2024)
+*   [October 2022](https://soundcloud.com/terms-of-use/10-2022)
+*   [June 2021](https://soundcloud.com/terms-of-use/06-2021)
+*   [December 2020](https://soundcloud.com/terms-of-use/12-2020)
+*   [May 2018](https://soundcloud.com/terms-of-use/05-2018)
+*   [March 2016](https://soundcloud.com/terms-of-use/03-2016)
+*   [January 2016](https://soundcloud.com/terms-of-use/01-2016)
+*   [March 2013](https://soundcloud.com/terms-of-use/03-2013)
