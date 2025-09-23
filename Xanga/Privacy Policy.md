@@ -15,37 +15,37 @@ We take your privacy seriously and so should you. Xanga has many features design
 
 **TABLE OF CONTENTS**
 
-* **[Children](http://help.xanga.com/about/privacy-policy/#children)**
-* **[Information Collected by Xanga](http://help.xanga.com/about/privacy-policy/#informationcollected)**
-    * Registration – Required Information
-    * Profile Information
-    * Information Submitted to Your Xanga Site
-    * Comments & Other Interactive Forums
-    * Email Addresses of Others (Sending Emails through Xanga)
-    * Verification of Age and Parental (or Guardian) Status
-    * Other Information Collected by Xanga
-* **[Managing and Protecting Your Information](http://help.xanga.com/about/privacy-policy/#managing)**
-    * Your Xanga Site – Restricting Overall Access
-    * Your Xanga Site – Restricting Access to Specific Posts
-    * Your Xanga Site – Profile Information
-    * Your Email Address
-    * Xanga Metros and Blogrings
-    * Xanga Search Results and Syndication Feeds
-    * Xanga Footprints
-* **[Information Sharing and Disclosure](http://help.xanga.com/about/privacy-policy/#informationsharing)**
-    * Third Party Advertisers
-* **[Information Xanga Retains](http://help.xanga.com/about/privacy-policy/#informationretained)**
-* **[How Others Use Your Information](http://help.xanga.com/about/privacy-policy/#usebyothers)**
-    * Links to Third Party Sites
-    * Widgets
-    * Third Party Search Engines & Syndication Feed Readers
-    * Third Party Advertisers
-    * Third Party Trackers and Scripts
-    * Xanga Mobile from Intercasting Corporation
-* **[Confidentiality & Security](http://help.xanga.com/about/privacy-policy/#confidentiality)**
-* **[Changes to this Privacy Policy](http://help.xanga.com/about/privacy-policy/#changes)**
-* **[Non-US Residents](http://help.xanga.com/about/privacy-policy/#nonus)**
-* **[Questions or Suggestions](http://help.xanga.com/about/privacy-policy/#questions)**
+*   **[Children](http://help.xanga.com/about/privacy-policy/#children)**
+*   **[Information Collected by Xanga](http://help.xanga.com/about/privacy-policy/#informationcollected)**
+    *   Registration – Required Information
+    *   Profile Information
+    *   Information Submitted to Your Xanga Site
+    *   Comments & Other Interactive Forums
+    *   Email Addresses of Others (Sending Emails through Xanga)
+    *   Verification of Age and Parental (or Guardian) Status
+    *   Other Information Collected by Xanga
+*   **[Managing and Protecting Your Information](http://help.xanga.com/about/privacy-policy/#managing)**
+    *   Your Xanga Site – Restricting Overall Access
+    *   Your Xanga Site – Restricting Access to Specific Posts
+    *   Your Xanga Site – Profile Information
+    *   Your Email Address
+    *   Xanga Metros and Blogrings
+    *   Xanga Search Results and Syndication Feeds
+    *   Xanga Footprints
+*   **[Information Sharing and Disclosure](http://help.xanga.com/about/privacy-policy/#informationsharing)**
+    *   Third Party Advertisers
+*   **[Information Xanga Retains](http://help.xanga.com/about/privacy-policy/#informationretained)**
+*   **[How Others Use Your Information](http://help.xanga.com/about/privacy-policy/#usebyothers)**
+    *   Links to Third Party Sites
+    *   Widgets
+    *   Third Party Search Engines & Syndication Feed Readers
+    *   Third Party Advertisers
+    *   Third Party Trackers and Scripts
+    *   Xanga Mobile from Intercasting Corporation
+*   **[Confidentiality & Security](http://help.xanga.com/about/privacy-policy/#confidentiality)**
+*   **[Changes to this Privacy Policy](http://help.xanga.com/about/privacy-policy/#changes)**
+*   **[Non-US Residents](http://help.xanga.com/about/privacy-policy/#nonus)**
+*   **[Questions or Suggestions](http://help.xanga.com/about/privacy-policy/#questions)**
 
 **CHILDREN** ([top](http://help.xanga.com/about/privacy-policy/#))
 
@@ -63,10 +63,10 @@ Xanga may collect certain information from you as described below. Xanga uses th
 
 When you register for a Xanga account, Xanga requires you to provide the following information:
 
-* _Username_ – a unique nickname or handle that acts as your primary identifier to other Xanga users and visitors, or viewers of Xanga material on other systems (e.g. search engines, RSS readers, cell phones, etc.). _You cannot change your username_ and _it is always publicly displayed_, so please choose carefully.
-* _Password_ – required for signing into your Xanga account. Your password provides access to all of the information in your account, so**_never share your password with anyone_** except a parent or guardian.
-* _Email Address_ – an email address is required so that Xanga can contact you about your account. In addition, Xanga has several features through which information may be forwarded to this email address – including messages or invitations from other Xanga users, alerts, or logs of activity related to your account. You can control whether you receive certain of these emails by using the settings inside your Xanga account.Your email address is _never publicly displayed on Xanga_. But when you email someone through Xanga, your email address will be revealed to them (e.g. as the “from” or “reply to” address on the email you send through Xanga). In addition, Xanga has a search feature that allows others to search for you by your email address, but you can control whether you appear in these search results by using the settings inside your Xanga account.
-* _Date of Birth_ – by default, for all new accounts created after 5/25/06, this Date of Birth is _not publicly displayed_, but you may choose to display it (or not display it) through controls inside your Xanga account.
+*   _Username_ – a unique nickname or handle that acts as your primary identifier to other Xanga users and visitors, or viewers of Xanga material on other systems (e.g. search engines, RSS readers, cell phones, etc.). _You cannot change your username_ and _it is always publicly displayed_, so please choose carefully.
+*   _Password_ – required for signing into your Xanga account. Your password provides access to all of the information in your account, so**_never share your password with anyone_** except a parent or guardian.
+*   _Email Address_ – an email address is required so that Xanga can contact you about your account. In addition, Xanga has several features through which information may be forwarded to this email address – including messages or invitations from other Xanga users, alerts, or logs of activity related to your account. You can control whether you receive certain of these emails by using the settings inside your Xanga account.Your email address is _never publicly displayed on Xanga_. But when you email someone through Xanga, your email address will be revealed to them (e.g. as the “from” or “reply to” address on the email you send through Xanga). In addition, Xanga has a search feature that allows others to search for you by your email address, but you can control whether you appear in these search results by using the settings inside your Xanga account.
+*   _Date of Birth_ – by default, for all new accounts created after 5/25/06, this Date of Birth is _not publicly displayed_, but you may choose to display it (or not display it) through controls inside your Xanga account.
 
 **Profile Information**
 
@@ -84,16 +84,16 @@ Xanga offers many ways for users to interact by posting information to each othe
 
 Xanga provides features designed to give you control over comments posted to your own Xanga Site. But please be aware that you may have_limited control_ over comments that you post anywhere else:
 
-* _Comments on Your Own Xanga Site_ – Xanga gives you the ability to _delete_ comments left on your own Xanga site. For certain comment features, you also have the ability to control who (if anyone) can submit comments to your site. For more information on controls for comments, please visit our Comments FAQ at [http://help.xanga.com/forum/comments](http://help.xanga.com/forum/comments).
-* _Comments not on Your Own Xanga Site_ – if you post a comment anywhere other than your own Xanga site, you may have _limited control_ over that comment – you can edit your comments for 15 minutes after submitting. And if you are still not satisfied, you can ALWAYS delete your comment and post a new one. But remember: any comments you leave on another’s site may be copied and posted elsewhere by anyone who has access to it – so think before you submit!
+*   _Comments on Your Own Xanga Site_ – Xanga gives you the ability to _delete_ comments left on your own Xanga site. For certain comment features, you also have the ability to control who (if anyone) can submit comments to your site. For more information on controls for comments, please visit our Comments FAQ at [http://help.xanga.com/forum/comments](http://help.xanga.com/forum/comments).
+*   _Comments not on Your Own Xanga Site_ – if you post a comment anywhere other than your own Xanga site, you may have _limited control_ over that comment – you can edit your comments for 15 minutes after submitting. And if you are still not satisfied, you can ALWAYS delete your comment and post a new one. But remember: any comments you leave on another’s site may be copied and posted elsewhere by anyone who has access to it – so think before you submit!
 
 _Using Third-Party Sign-In Services for Commenting_
 
 Xanga allows individuals to sign in through selected third-party sign-in services (e.g. Facebook or Twitter), without registering for a Xanga account, for the purpose of commenting on Xanga sites. If you sign in to comment on Xanga sites using these selected third-party sign-in services, Xanga collects the following information from your third-party account:
 
-* _User ID_ – a unique identifier for your third-party account; not publicly displayed on Xanga unless it is the same as your Display Name
-* _Display Name_ – the display name associated with your third-party account; this Display Name, linked to your third-party account, appears along with the comments you leave on Xanga
-* _Profile Picture_ – the profile picture associated with your third-party account; this Profile Picture, linked to your third-party account, appears along with the comments you leave on Xanga.
+*   _User ID_ – a unique identifier for your third-party account; not publicly displayed on Xanga unless it is the same as your Display Name
+*   _Display Name_ – the display name associated with your third-party account; this Display Name, linked to your third-party account, appears along with the comments you leave on Xanga
+*   _Profile Picture_ – the profile picture associated with your third-party account; this Profile Picture, linked to your third-party account, appears along with the comments you leave on Xanga.
 
 **Email Addresses of Others (Sending Emails through Xanga)**
 
@@ -109,15 +109,15 @@ _Verification of Age_
 
 Access to certain content on Xanga is restricted to visitors 18 and older. In order to view this content, Xanga may ask you to verify your age. One way to verify that you are 18 or older is to provide Xanga the credit card information (e.g. number, expiration date, billing address, etc.) of a credit card registered to you. If you do not wish to provide your credit card information, Xanga asks you to provide the following information:
 
-* Your full name
-* Your Xanga username
-* Your birthday
-* Your full mailing address
-* A daytime and evening telephone number
-* A copy of one of the following:
-    * Drivers license or permit
-    * Passport
-    * Birth certificate
+*   Your full name
+*   Your Xanga username
+*   Your birthday
+*   Your full mailing address
+*   A daytime and evening telephone number
+*   A copy of one of the following:
+    *   Drivers license or permit
+    *   Passport
+    *   Birth certificate
 
 Xanga uses this information in order to verify that you are 18 or older. We retain this information in order to keep a record of our verification of your age.
 
@@ -125,15 +125,15 @@ _Verification of Parental (or Guardian) Status_
 
 Persons under the age of 13 are not permitted to become Xanga members and it is Xanga’s policy not to collect any personally identifiable information from persons under 13. If you discover that your child under the age of 13 has obtained a Xanga account, you may alert Xanga and request that Xanga close the account. In this case Xanga verifies that you are the child’s parent or legal guardian by asking you to provide the following information:
 
-* Your child’s full name
-* Your child’s Xanga username
-* Your child’s birthday
-* Your full name
-* Your relationship to the child (parent or legal guardian)
-* Your full mailing address
-* Your daytime and evening telephone number
-* Your e-mail address
-* A signed statement that you are 18 or older and the child’s parent or legal guardian.
+*   Your child’s full name
+*   Your child’s Xanga username
+*   Your child’s birthday
+*   Your full name
+*   Your relationship to the child (parent or legal guardian)
+*   Your full mailing address
+*   Your daytime and evening telephone number
+*   Your e-mail address
+*   A signed statement that you are 18 or older and the child’s parent or legal guardian.
 
 Xanga uses this information in order to verify that you are the parent or legal guardian of a child under 13. We retain this information in order to keep a record or our verification that you are the parent or legal guardian of your child under 13.
 
@@ -173,9 +173,9 @@ Locks also does not prevent indexing of your information by Xanga’s search eng
 
 When you publish individual posts to your Xanga site (e.g. weblog entries, photos and the like), you have “Privacy” options to help you control access to those posts:
 
-* _Private_ – if you choose this option, the post is accessible only by signing into your account with your username and password (remember, _never share your password with anyone_ except a parent or guardian)
-* _Protected_ – if you choose this option, the post is accessible to a limited set of individuals or groups (or accessible to anyone _excluding_a specific set of individuals or groups) that you select. For more information, see our “Protected Posting FAQ” at [http://help.xanga.com/forum/protected](http://help.xanga.com/forum/protected). Note: this option may not be available for all types of posts to your Xanga site.
-* _Public_ – with this option, the post is potentially accessible to _the entire world_. The information you voluntarily submit to Xanga for public display on your own Xanga site may be accessible to anyone who visits your Xanga site, through search engines, syndication feed readers, cell phones and other mobile devices, etc.
+*   _Private_ – if you choose this option, the post is accessible only by signing into your account with your username and password (remember, _never share your password with anyone_ except a parent or guardian)
+*   _Protected_ – if you choose this option, the post is accessible to a limited set of individuals or groups (or accessible to anyone _excluding_a specific set of individuals or groups) that you select. For more information, see our “Protected Posting FAQ” at [http://help.xanga.com/forum/protected](http://help.xanga.com/forum/protected). Note: this option may not be available for all types of posts to your Xanga site.
+*   _Public_ – with this option, the post is potentially accessible to _the entire world_. The information you voluntarily submit to Xanga for public display on your own Xanga site may be accessible to anyone who visits your Xanga site, through search engines, syndication feed readers, cell phones and other mobile devices, etc.
 
 Please note that, for operational purposes, including performing maintenance and support, Xanga personnel may access your Xanga site, including private and protected portions of your Xanga site.
 
@@ -199,15 +199,15 @@ Xanga Groups (a.k.a., BlogringsSM on Xanga.com) connect groups of Xanga sites o
 
 As a registered Xanga user, you have the ability to join or create Xanga Groups or Metros. _When you join a Xanga Groups or Metro, for as long as you are a member of that Xanga Groups or Metro:_
 
-* The name of the Xanga Groups or Metro appears on your Xanga site, with a link to the main site for that Xanga Groups or Metro, and
-* Some of your information appears on the main site for that Xanga Groups or Metro, including your username, your profile picture, other public information from your Xanga profile, and other information including when you last updated your Xanga Site.
+*   The name of the Xanga Groups or Metro appears on your Xanga site, with a link to the main site for that Xanga Groups or Metro, and
+*   Some of your information appears on the main site for that Xanga Groups or Metro, including your username, your profile picture, other public information from your Xanga profile, and other information including when you last updated your Xanga Site.
 
 If you’d like to remove the name of the Xanga Groups or Metro on your own Xanga site and remove your information from the main site for that Xanga Groups or Metro, you can _leave_ the Xanga Groups or Metro. You can leave any Xanga Groups or Metro by using the controls available when you sign into your Xanga account and visit the Xanga Groups or Metro you want to leave.
 
 For more information on these features, please visit our FAQs:
 
-* Xanga Metros FAQ - [http://help.xanga.com/forum/metros](http://help.xanga.com/forum/metros)
-* Xanga Groups /Blogrings FAQ - [http://help.xanga.com/forum/blogrings](http://help.xanga.com/forum/blogrings)
+*   Xanga Metros FAQ - [http://help.xanga.com/forum/metros](http://help.xanga.com/forum/metros)
+*   Xanga Groups /Blogrings FAQ - [http://help.xanga.com/forum/blogrings](http://help.xanga.com/forum/blogrings)
 
 **Xanga Search Results and Syndication Feeds**
 
@@ -215,8 +215,8 @@ Information that you publish _publicly_ to your Xanga site is indexed by Xanga
 
 You may prevent indexing of your information by Xanga’s search engines and disable your public syndication feed using the controls inside your Xanga account. Please note: if your information has _already_ been indexed by Xanga’s search engines (e.g. your information appears in search results provided and controlled by Xanga), and you change your settings to prevent indexing of your information by Xanga’s search engines:
 
-* _New information_ that you submit will not be indexed and will not appear in search results provided and controlled by Xanga
-* _Old information_ that has _already_ been indexed will continue to appear in search results provided and controlled by Xanga until those search indexes are updated.
+*   _New information_ that you submit will not be indexed and will not appear in search results provided and controlled by Xanga
+*   _Old information_ that has _already_ been indexed will continue to appear in search results provided and controlled by Xanga until those search indexes are updated.
 
 **Footprints**
 
@@ -230,12 +230,12 @@ Be aware that some Xanga users may install third party tracking software on thei
 
 Xanga does not share, sell or rent any of your information, except as follows:
 
-* _Information that You Share_ – Any information that you submit to any public or semi-public area of the Xanga system is potentially accessible to _the entire world_. Xanga provides controls for limiting access to information you submit, but please keep in mind that the moment you share your information with _anyone_, copies of that information can be made, stored, and shared outside of the Xanga system. (For more information, see “[MANAGING AND PROTECTING YOUR INFORMATION](http://help.xanga.com/about/privacy-policy/#managing)”.)
-* _Under Confidentiality Agreements_ – Xanga may share your information with trusted third party contractors and service providers who work on behalf of Xanga under confidentiality agreements. Xanga does not grant these third parties any independent right to share your information.
-* _Aggregate Information_ – From time to time, Xanga shares aggregated, anonymous data about its users with third parties. This data does not contain personally identifiable information.
-* _Legal Proceedings_ – Xanga may share your information in response to subpoenas, court orders, legal process, or to establish or exercise our legal rights and obligations or defend against legal claims.
-* _Safety and Welfare of the Community_ – Xanga may share your information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Xanga’s [Terms of Use](http://help.xanga.com/about/terms-of-use/), or as otherwise required by law.
-* _Merger, Acquisition, or Change of Control_ – Xanga may transfer your information in the event Xanga is acquired by or merged with another company.
+*   _Information that You Share_ – Any information that you submit to any public or semi-public area of the Xanga system is potentially accessible to _the entire world_. Xanga provides controls for limiting access to information you submit, but please keep in mind that the moment you share your information with _anyone_, copies of that information can be made, stored, and shared outside of the Xanga system. (For more information, see “[MANAGING AND PROTECTING YOUR INFORMATION](http://help.xanga.com/about/privacy-policy/#managing)”.)
+*   _Under Confidentiality Agreements_ – Xanga may share your information with trusted third party contractors and service providers who work on behalf of Xanga under confidentiality agreements. Xanga does not grant these third parties any independent right to share your information.
+*   _Aggregate Information_ – From time to time, Xanga shares aggregated, anonymous data about its users with third parties. This data does not contain personally identifiable information.
+*   _Legal Proceedings_ – Xanga may share your information in response to subpoenas, court orders, legal process, or to establish or exercise our legal rights and obligations or defend against legal claims.
+*   _Safety and Welfare of the Community_ – Xanga may share your information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Xanga’s [Terms of Use](http://help.xanga.com/about/terms-of-use/), or as otherwise required by law.
+*   _Merger, Acquisition, or Change of Control_ – Xanga may transfer your information in the event Xanga is acquired by or merged with another company.
 
 **Third Party Advertisers**
 
