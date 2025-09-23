@@ -61,12 +61,12 @@ This Service is intended solely for Users who are thirteen (13) years of age or 
 
 If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the Service, please send us the following information:
 
-1. An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
-2. A description of the copyrighted work that you claim has been infringed upon;
-3. A description of the material that is claimed to be infringing and where it is located on the Service;
-4. Your address, telephone number, and e-mail address;
-5. A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and
-6. A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
+1.  An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
+2.  A description of the copyrighted work that you claim has been infringed upon;
+3.  A description of the material that is claimed to be infringing and where it is located on the Service;
+4.  Your address, telephone number, and e-mail address;
+5.  A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and
+6.  A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
 
 Goodreads’ Copyright Agent for notice of claims of copyright infringement on its site can be reached as follows:  
 Copyright Agent  
