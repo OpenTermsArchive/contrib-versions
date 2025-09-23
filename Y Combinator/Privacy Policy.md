@@ -16,28 +16,28 @@ Before using the Services or submitting any Personal Information to Y Combinator
 
 We collect information that alone or in combination with other information in our possession could be used to identify you (“**Personal Information**”).
 
-* **Personal Information You Provide.** We may collect Personal Information when you create an account, subscribe to our newsletter, sign up for an event, or communicate with us as follows:
-    * **Event Information:** If you attend one of our events, or if you are an investor and you sign up to attend Demo Day, you will be asked to provide Personal Information, including your name, the name and a description of your company or your fund, your contact information and other information that we will use to manage and administer your participation in our various events (“**Event Information**”).
+*   **Personal Information You Provide.** We may collect Personal Information when you create an account, subscribe to our newsletter, sign up for an event, or communicate with us as follows:
+    *   **Event Information:** If you attend one of our events, or if you are an investor and you sign up to attend Demo Day, you will be asked to provide Personal Information, including your name, the name and a description of your company or your fund, your contact information and other information that we will use to manage and administer your participation in our various events (“**Event Information**”).
         
-    * **Work at a Startup Information:** If you sign up for our Work at a Startup program (“**WaaS**”), we will collect your name, email, LinkedIn profile, and other information relevant to the type of job you are seeking, such as your location, eligibility to work in the United States, and your work experience, education, and skills (“**WaaS Information**”).
+    *   **Work at a Startup Information:** If you sign up for our Work at a Startup program (“**WaaS**”), we will collect your name, email, LinkedIn profile, and other information relevant to the type of job you are seeking, such as your location, eligibility to work in the United States, and your work experience, education, and skills (“**WaaS Information**”).
         
-    * **Startup School Information:** If you sign up for our Startup School program (“**SUS**”), we will collect your name, email, location (city and country), LinkedIn profile, gender (only if you choose to provide it), education, area of expertise, company information, and cofounder email addresses (“**SUS Information**”).
+    *   **Startup School Information:** If you sign up for our Startup School program (“**SUS**”), we will collect your name, email, location (city and country), LinkedIn profile, gender (only if you choose to provide it), education, area of expertise, company information, and cofounder email addresses (“**SUS Information**”).
         
-    * **Application Information:** When a company submits an application to Y Combinator, we will collect Personal Information relating to the founders of the applicant company, such as names, email addresses, telephone numbers, education, employment history, and the city/country in which they live. We will also collect information about the applicant company, such as the name, industry, and status of the company (together with Personal Information relating to founder(s) and any other information submitted in connection with the application process, “**Application Information**”).
+    *   **Application Information:** When a company submits an application to Y Combinator, we will collect Personal Information relating to the founders of the applicant company, such as names, email addresses, telephone numbers, education, employment history, and the city/country in which they live. We will also collect information about the applicant company, such as the name, industry, and status of the company (together with Personal Information relating to founder(s) and any other information submitted in connection with the application process, “**Application Information**”).
         
-    * **Hacker News Information:** If you create a Hacker News account (ID and profile), we do not collect any Personal Information unless you choose to provide your email address and/or information in the "about" field (“**HN Information**”). Your submissions to, and comments you make on, the Hacker News site are not Personal Information and are not "HN Information" as defined in this Privacy Policy.
+    *   **Hacker News Information:** If you create a Hacker News account (ID and profile), we do not collect any Personal Information unless you choose to provide your email address and/or information in the "about" field (“**HN Information**”). Your submissions to, and comments you make on, the Hacker News site are not Personal Information and are not "HN Information" as defined in this Privacy Policy.
         
-    * **Communication Information:** When you subscribe to our newsletter or otherwise communicate with us, we may collect your name, contact information, and the contents of any messages you send (“**Communication Information**”).
+    *   **Communication Information:** When you subscribe to our newsletter or otherwise communicate with us, we may collect your name, contact information, and the contents of any messages you send (“**Communication Information**”).
         
-    * **Personal Information We Collect Through Our Social Media Pages.** We have pages on social media sites like Instagram, Facebook, Twitter, YouTube and LinkedIn (“**Social Media Pages**”). When you interact with our Social Media Pages, we will collect Personal Information that you elect to provide to us, such as your contact details (“**Social Information**”). In addition, the companies that host our Social Media Pages may provide us with aggregate information and analytics regarding the use of our Social Media Pages.
+    *   **Personal Information We Collect Through Our Social Media Pages.** We have pages on social media sites like Instagram, Facebook, Twitter, YouTube and LinkedIn (“**Social Media Pages**”). When you interact with our Social Media Pages, we will collect Personal Information that you elect to provide to us, such as your contact details (“**Social Information**”). In addition, the companies that host our Social Media Pages may provide us with aggregate information and analytics regarding the use of our Social Media Pages.
         
-    * **Personal Information We Receive Automatically From Your Use of the Site.** When you visit, use, and interact with the Site, we may receive certain information about your visit, use, or interactions (“**Technical Information**”). For example, we may monitor the number of people that visit the Site, peak hours of visits, which page(s) are visited, the domains our visitors come from (e.g., google.com, yahoo.com, etc.), and which browsers people use to access the Services (e.g., Chrome, Firefox, Microsoft Internet Explorer, etc.), broad geographical information, and navigation pattern. In particular, Technical Information includes the following, which is created and automatically logged in our systems:
+    *   **Personal Information We Receive Automatically From Your Use of the Site.** When you visit, use, and interact with the Site, we may receive certain information about your visit, use, or interactions (“**Technical Information**”). For example, we may monitor the number of people that visit the Site, peak hours of visits, which page(s) are visited, the domains our visitors come from (e.g., google.com, yahoo.com, etc.), and which browsers people use to access the Services (e.g., Chrome, Firefox, Microsoft Internet Explorer, etc.), broad geographical information, and navigation pattern. In particular, Technical Information includes the following, which is created and automatically logged in our systems:
         
-        * **Log data:** Log data is information that your browser automatically sends whenever you visit the Site. Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interacted with the Site.
-        * **Cookies:** Please see the [**“Cookies”**](https://www.ycombinator.com/legal#cookies) section below to learn more about how we use cookies.
-        * **Device information:** Includes name of the device, operating system, and browser you are using. Information collected may depend on the type of device you use and its settings.
-        * **Usage Information:** We collect information about how you use our Services, such as the types of content that you view or engage with, the features you use, the actions you take, and the time, frequency, and duration of your activities.
-        * **Session replay information:** Session replay information includes Device Information, broad geographical information, and the contents of your screen.
+        *   **Log data:** Log data is information that your browser automatically sends whenever you visit the Site. Log data includes your Internet Protocol address, browser type and settings, the date and time of your request, and how you interacted with the Site.
+        *   **Cookies:** Please see the [**“Cookies”**](https://www.ycombinator.com/legal#cookies) section below to learn more about how we use cookies.
+        *   **Device information:** Includes name of the device, operating system, and browser you are using. Information collected may depend on the type of device you use and its settings.
+        *   **Usage Information:** We collect information about how you use our Services, such as the types of content that you view or engage with, the features you use, the actions you take, and the time, frequency, and duration of your activities.
+        *   **Session replay information:** Session replay information includes Device Information, broad geographical information, and the contents of your screen.
 
 _Cookies_: We use cookies to operate and administer our Site, gather usage data on our Site, and improve your experience on it. A “cookie” is a piece of information sent to your browser by a website you visit. Cookies can be stored on your computer for different periods of time. Some cookies expire after a certain amount of time, or upon logging out (session cookies), others survive after your browser is closed until a defined expiration date set in the cookie (as determined by the third party placing it), and help recognize your computer when you open your browser and browse the Internet again (persistent cookies). For more details on cookies please visit [All About Cookies](https://allaboutcookies.org/).
 
@@ -49,10 +49,10 @@ _Online Tracking and Do Not Track Signals:_ We and our third party service provi
 
 **Your Choices.** On most web browsers, you will find a “help” section on the toolbar. Please refer to this section for information on how to receive a notification when you are receiving a new cookie and how to turn cookies off. Please see the links below for guidance on how to modify your web browser’s settings on the most popular browsers:
 
-* [Internet Explorer](http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-11)
-* [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?esab=a&s=cookies&r=6&as=s)
-* [Google Chrome](https://support.google.com/accounts/answer/61416?hl=en)
-* [Apple Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
+*   [Internet Explorer](http://windows.microsoft.com/en-gb/internet-explorer/delete-manage-cookies#ie=ie-11)
+*   [Mozilla Firefox](https://support.mozilla.org/en-US/kb/enable-and-disable-cookies-website-preferences?esab=a&s=cookies&r=6&as=s)
+*   [Google Chrome](https://support.google.com/accounts/answer/61416?hl=en)
+*   [Apple Safari](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 
 Please note that if you limit the ability of websites to set cookies, you may be unable to access certain parts of the Site and you may not be able to benefit from the full functionality of the Site.
 
@@ -64,16 +64,16 @@ If you access the Site on your mobile device, you may not be able to control tra
 
 We may use Personal Information for the following purposes:
 
-* To provide and administer access to the Services;
-* To grant access to and track attendance at our events;
-* To respond to your inquiries, comments, feedback, or questions;
-* To send administrative information to you, for example, information regarding the Services and changes to our terms, conditions, and policies;
-* To analyze how you interact with our Services;
-* To maintain and improve the content and functionality of the Services;
-* To develop new programs and services;
-* To prevent fraud, criminal activity, or misuses of our Services, and to ensure the security of our IT systems, architecture, and networks;
-* To ensure compliance with sanctions regulations; and
-* To comply with legal obligations and legal process and to protect our rights, privacy, safety, or property, and/or that of our Affiliates, you, or other third parties.
+*   To provide and administer access to the Services;
+*   To grant access to and track attendance at our events;
+*   To respond to your inquiries, comments, feedback, or questions;
+*   To send administrative information to you, for example, information regarding the Services and changes to our terms, conditions, and policies;
+*   To analyze how you interact with our Services;
+*   To maintain and improve the content and functionality of the Services;
+*   To develop new programs and services;
+*   To prevent fraud, criminal activity, or misuses of our Services, and to ensure the security of our IT systems, architecture, and networks;
+*   To ensure compliance with sanctions regulations; and
+*   To comply with legal obligations and legal process and to protect our rights, privacy, safety, or property, and/or that of our Affiliates, you, or other third parties.
 
 **Aggregated Information.** We may aggregate Personal Information and use the aggregated information to analyze the effectiveness of our Services, to improve and add features to our Services, and for other similar purposes. In addition, from time to time, we may analyze the general behavior and characteristics of users of our Services and share aggregated information like general user statistics with prospective business partners. We may collect aggregated information through the Services, through cookies, and through other means described in this Privacy Policy.
 
@@ -81,12 +81,12 @@ We may use Personal Information for the following purposes:
 
 In certain circumstances we may share your Personal Information with third parties without further notice to you, unless required by the law, as set forth below:
 
-* **Vendors and Service Providers:** To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Information with vendors and service providers, including providers of hosting services, cloud services, and other information technology services providers, event management services, email communication software and email newsletter services, and web analytics services. Pursuant to our instructions, these parties will access, process, or store Personal Information in the course of performing their duties to us.
-* **Business Transfers:** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of all or a portion of our assets, or transition of service to another provider (collectively a “**Transaction**”), your Personal Information and other information may be shared in the diligence process with counterparties and others assisting with the Transaction and transferred to a successor or Affiliate as part of that Transaction along with other assets.
-* **Legal Requirements:** If required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, including to meet national security or law enforcement requirements, (ii) protect and defend our rights or property, (iii) prevent fraud, (iv) act in urgent circumstances to protect the personal safety of users of the Services, or the public, or (v) protect against legal liability.
-* **Affiliates:** We may share Personal Information with our Affiliates, meaning an entity that controls, is controlled by, or is under common control with Y Combinator. Our Affiliates will use the Personal Information we share in a manner consistent with this Privacy Policy.
-* **With Your Consent.** We may disclose your Personal Information to third parties upon your request, at your direction, or with your consent.
-* **Other Users:** certain actions you take may be visible to other users of the Services.
+*   **Vendors and Service Providers:** To assist us in meeting business operations needs and to perform certain services and functions, we may share Personal Information with vendors and service providers, including providers of hosting services, cloud services, and other information technology services providers, event management services, email communication software and email newsletter services, and web analytics services. Pursuant to our instructions, these parties will access, process, or store Personal Information in the course of performing their duties to us.
+*   **Business Transfers:** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of all or a portion of our assets, or transition of service to another provider (collectively a “**Transaction**”), your Personal Information and other information may be shared in the diligence process with counterparties and others assisting with the Transaction and transferred to a successor or Affiliate as part of that Transaction along with other assets.
+*   **Legal Requirements:** If required to do so by law or in the good faith belief that such action is necessary to (i) comply with a legal obligation, including to meet national security or law enforcement requirements, (ii) protect and defend our rights or property, (iii) prevent fraud, (iv) act in urgent circumstances to protect the personal safety of users of the Services, or the public, or (v) protect against legal liability.
+*   **Affiliates:** We may share Personal Information with our Affiliates, meaning an entity that controls, is controlled by, or is under common control with Y Combinator. Our Affiliates will use the Personal Information we share in a manner consistent with this Privacy Policy.
+*   **With Your Consent.** We may disclose your Personal Information to third parties upon your request, at your direction, or with your consent.
+*   **Other Users:** certain actions you take may be visible to other users of the Services.
 
 Please note that for purposes of this section, “sharing” does not include “sharing” as defined under the CCPA. For additional disclosures and information on our CCPA practices, please review California Privacy Rights below.
 
@@ -111,16 +111,16 @@ The following disclosures are intended to provide additional information about (
 
 **Deletion Requests:**
 
-* If you would like to request that we delete your entire Y Combinator account and all Personal Information associated with it, contact us at privacy@ycombinator.com.
-* If you would like to request that we delete your Application Information but otherwise maintain your Y Combinator account, contact us at apply@ycombinator.com.
-* If you would like to request that we delete your WaaS Information but otherwise maintain your Y Combinator account, contact us at workatastartup@ycombinator.com.  
+*   If you would like to request that we delete your entire Y Combinator account and all Personal Information associated with it, contact us at privacy@ycombinator.com.
+*   If you would like to request that we delete your Application Information but otherwise maintain your Y Combinator account, contact us at apply@ycombinator.com.
+*   If you would like to request that we delete your WaaS Information but otherwise maintain your Y Combinator account, contact us at workatastartup@ycombinator.com.  
 
 **Account Update Requests:**
 
-* Please log in to your Y Combinator account to change or correct your Personal Information. If you need help, contact us at accounts@ycombinator.com.
-* With respect to Application Information, before you submit your application, you can update your Application Information by logging in and editing your application directly.
-* If you need help updating your WaaS information, you can contact us at workatastartup@ycombinator.com.  
-* For Hacker News account recovery, contact us at hn@ycombinator.com.
+*   Please log in to your Y Combinator account to change or correct your Personal Information. If you need help, contact us at accounts@ycombinator.com.
+*   With respect to Application Information, before you submit your application, you can update your Application Information by logging in and editing your application directly.
+*   If you need help updating your WaaS information, you can contact us at workatastartup@ycombinator.com.  
+*   For Hacker News account recovery, contact us at hn@ycombinator.com.
 
 If you are a California resident, please review the below section, California Privacy Rights, for additional information on your rights under the CCPA.
 
@@ -132,15 +132,15 @@ The CCPA imposes certain obligations on us and grants certain rights to Californ
 
 **Information We Collect.** Depending on how you interact with us, we may collect the categories of personal information from or about you as identified in Personal Information We Collect and including:
 
-* **Identifiers and similar information**, such as your name, address, date of birth, email address, online identifiers or other similar identifiers;
-* **Characteristics of Protected Classifications** under certain federal or state laws, including gender, national origin, or marital status;
-* **Commercial information**, including records of products or services purchased, obtained, or considered, or other purchasing histories or tendencies;
-* **Audio, electronic, visual**, or similar information;
-* **Geolocation information**, such as information about your location or the location of your device;
-* **Professional or employment-related information**, including occupation, compensation, employer, and title;
-* **Education information**, defined as information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. section 1232g, 34 C.F.R. Part 99);
-* **Internet or other electronic network activity information**, including interactions with our website or use of certain online tools, and IP addresses; and
-* **Inferences drawn from any of the information identified above to** create a profile reflecting your preferences or similar information.
+*   **Identifiers and similar information**, such as your name, address, date of birth, email address, online identifiers or other similar identifiers;
+*   **Characteristics of Protected Classifications** under certain federal or state laws, including gender, national origin, or marital status;
+*   **Commercial information**, including records of products or services purchased, obtained, or considered, or other purchasing histories or tendencies;
+*   **Audio, electronic, visual**, or similar information;
+*   **Geolocation information**, such as information about your location or the location of your device;
+*   **Professional or employment-related information**, including occupation, compensation, employer, and title;
+*   **Education information**, defined as information that is not publicly available personally identifiable information as defined in the Family Educational Rights and Privacy Act (20 U.S.C. section 1232g, 34 C.F.R. Part 99);
+*   **Internet or other electronic network activity information**, including interactions with our website or use of certain online tools, and IP addresses; and
+*   **Inferences drawn from any of the information identified above to** create a profile reflecting your preferences or similar information.
 
 **Our Use and Collection of Information.** We may collect and use Personal Information from you for the purposes described above in How We Use Information and described below in Our Collection, Use, and Disclosure of Personal Information.
 
@@ -173,14 +173,14 @@ We may also disclose your Personal Information or otherwise make it available to
 
 To the extent provided for by law and subject to applicable exceptions, California residents may have the following privacy rights in relation to the Personal Information we collect, including the right to:
 
-* Be informed, at or before the point of collection, of the categories of Personal Information to be collected, and the purposes for which the categories of Personal Information shall be used;
-* Know what Personal Information we have collected and how we have used and disclosed that Personal Information (“Request to Know”);
-* Request deletion of your Personal Information, subject to certain exemptions (“Request to Delete”);
-* Opt-out of the “sale” (as that term is defined in the CCPA) of your personal information if a business sells your Personal Information (we do not);
-* Opt-out of the “sharing” (as that term is defined in the CCPA) of your Personal Information if a business shares your Personal Information with third parties (we do not);
-* Limit the use and disclosure of sensitive personal information where required by the CCPA (“Right to Limit”) (please note that we are not using your sensitive personal information for purposes that would require that we provide you with a Right to Limit);
-* Correct inaccurate Personal Information (“Request to Correct”); and
-* Be free from discrimination relating to the exercise of any of your privacy rights.
+*   Be informed, at or before the point of collection, of the categories of Personal Information to be collected, and the purposes for which the categories of Personal Information shall be used;
+*   Know what Personal Information we have collected and how we have used and disclosed that Personal Information (“Request to Know”);
+*   Request deletion of your Personal Information, subject to certain exemptions (“Request to Delete”);
+*   Opt-out of the “sale” (as that term is defined in the CCPA) of your personal information if a business sells your Personal Information (we do not);
+*   Opt-out of the “sharing” (as that term is defined in the CCPA) of your Personal Information if a business shares your Personal Information with third parties (we do not);
+*   Limit the use and disclosure of sensitive personal information where required by the CCPA (“Right to Limit”) (please note that we are not using your sensitive personal information for purposes that would require that we provide you with a Right to Limit);
+*   Correct inaccurate Personal Information (“Request to Correct”); and
+*   Be free from discrimination relating to the exercise of any of your privacy rights.
 
 The CCPA does not restrict our ability to do certain things like comply with other laws or comply with regulatory investigations. We also reserve the right to retain, and not to delete, certain Personal Information after receipt of a Request to Delete from you where permitted by the CCPA or another law or regulation.
 
