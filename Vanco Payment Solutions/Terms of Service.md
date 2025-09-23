@@ -27,22 +27,22 @@ Vanco makes available Apps to access the Site or certain Services via a mobile d
 
 The following additional terms and conditions apply with respect to any App that Vanco provides to you designed for use on an Apple iOS-powered mobile device (an “**iOS App**”):
 
-* You acknowledge that these Terms are between you and Vanco only, and not with Apple, Inc. (“**Apple**”).
-* Your use of Vanco’s iOS App must comply with Apple’s then-current App Store Terms of Service.
-* Vanco, and not Apple, are solely responsible for our iOS App and the Services and Content available thereon. You acknowledge that Apple has no obligation to provide maintenance and support services with respect to our iOS App. To the maximum extent permitted by applicable law, Apple will have no warranty obligation whatsoever with respect to our iOS App.
-* You agree that Vanco, and not Apple, are responsible for addressing any claims by you or any third-party relating to our iOS App or your possession and/or use of our iOS App, including, but not limited to: (i) product liability claims; (ii) any claim that the iOS App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation, and all such claims are governed solely by these Terms and any law applicable to us as provider of the iOS App.
-* You agree that Vanco, and not Apple, shall be responsible, to the extent required by these Terms, for the investigation, defense, settlement and discharge of any third-party intellectual property infringement claim related to our iOS App or your possession and use of our iOS App.
-* You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) You are not listed on any U.S. Government list of prohibited or restricted parties.
-* You agree to comply with all applicable third-party terms of agreement when using our iOS App (e.g., you must not be in violation of your wireless data service terms of agreement when using the iOS App).
+*   You acknowledge that these Terms are between you and Vanco only, and not with Apple, Inc. (“**Apple**”).
+*   Your use of Vanco’s iOS App must comply with Apple’s then-current App Store Terms of Service.
+*   Vanco, and not Apple, are solely responsible for our iOS App and the Services and Content available thereon. You acknowledge that Apple has no obligation to provide maintenance and support services with respect to our iOS App. To the maximum extent permitted by applicable law, Apple will have no warranty obligation whatsoever with respect to our iOS App.
+*   You agree that Vanco, and not Apple, are responsible for addressing any claims by you or any third-party relating to our iOS App or your possession and/or use of our iOS App, including, but not limited to: (i) product liability claims; (ii) any claim that the iOS App fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection or similar legislation, and all such claims are governed solely by these Terms and any law applicable to us as provider of the iOS App.
+*   You agree that Vanco, and not Apple, shall be responsible, to the extent required by these Terms, for the investigation, defense, settlement and discharge of any third-party intellectual property infringement claim related to our iOS App or your possession and use of our iOS App.
+*   You represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) You are not listed on any U.S. Government list of prohibited or restricted parties.
+*   You agree to comply with all applicable third-party terms of agreement when using our iOS App (e.g., you must not be in violation of your wireless data service terms of agreement when using the iOS App).
 
 The parties agree that Apple and Apple’s subsidiaries are third-party beneficiaries to these Terms as they relate to your license of Vanco’s iOS App. Upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as they relate to your license of the iOS App as a third-party beneficiary thereof.
 
 The following additional terms and conditions apply with respect to any App that we provide to you designed for use on an Android-powered mobile device (an “**Android App**”):
 
-* You acknowledge that these Terms are between you and Vanco only, and not with Google, Inc. (“**Google**”).
-* Your use of Vanco’s Android App must comply with Google’s then-current Android Market Terms of Service.
-* Google is only a provider of the Android Market where you obtained the Android App. Vanco, and not Google, are solely responsible for Vanco’s Android App and the Services and Content available thereon. Google has no obligation or liability to you with respect to Vanco’s Android App or these Terms.
-* You acknowledge and agree that Google is a third-party beneficiary to the Terms as they relate to Vanco’s Android App.
+*   You acknowledge that these Terms are between you and Vanco only, and not with Google, Inc. (“**Google**”).
+*   Your use of Vanco’s Android App must comply with Google’s then-current Android Market Terms of Service.
+*   Google is only a provider of the Android Market where you obtained the Android App. Vanco, and not Google, are solely responsible for Vanco’s Android App and the Services and Content available thereon. Google has no obligation or liability to you with respect to Vanco’s Android App or these Terms.
+*   You acknowledge and agree that Google is a third-party beneficiary to the Terms as they relate to Vanco’s Android App.
 
 ##### Geolocation Terms.
 
@@ -84,17 +84,17 @@ When you provide Submissions, you agree that those Submissions shall not be in v
 
 When using this Site and/or the services, you agree not to:
 
-* Defame, abuse, harass, stalk, threaten, or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
-* Use racially, ethnically, or otherwise offensive language.
-* Discuss or incite illegal activity.
-* Use explicit/obscene language or solicit/post sexually explicit images (actual or simulated).
-* Post anything that exploits children or minors or that depicts cruelty to animals.
-* Post any copyrighted or trademarked materials without the express permission from the owner.
-* Disseminate any unsolicited or unauthorized advertising, promotional materials, ‘junk mail’, ‘spam’, ‘chain letters’, ‘pyramid schemes’, or any other form of such solicitation.
-* Use any robot, spider, scraper or other automated means to access the Site.
-* Take any action that imposes an unreasonable or disproportionately large load on our infrastructure.
-* Alter the opinions or comments posted by others on this Site.
-* Post anything contrary to our public image, goodwill or reputation.
+*   Defame, abuse, harass, stalk, threaten, or otherwise violate the legal rights (such as rights of privacy and publicity) of others.
+*   Use racially, ethnically, or otherwise offensive language.
+*   Discuss or incite illegal activity.
+*   Use explicit/obscene language or solicit/post sexually explicit images (actual or simulated).
+*   Post anything that exploits children or minors or that depicts cruelty to animals.
+*   Post any copyrighted or trademarked materials without the express permission from the owner.
+*   Disseminate any unsolicited or unauthorized advertising, promotional materials, ‘junk mail’, ‘spam’, ‘chain letters’, ‘pyramid schemes’, or any other form of such solicitation.
+*   Use any robot, spider, scraper or other automated means to access the Site.
+*   Take any action that imposes an unreasonable or disproportionately large load on our infrastructure.
+*   Alter the opinions or comments posted by others on this Site.
+*   Post anything contrary to our public image, goodwill or reputation.
 
 This list of prohibitions provides examples and is not complete or exclusive. Vanco reserves the right to (a) terminate access to your account, your ability to post to this Site (or use the Services) and (b) refuse, delete or remove any Submissions; with or without cause and with or without notice, for any reason or no reason, or for any action that Vanco determines is inappropriate or disruptive to this Site or to any other user of this Site and/or Services. Vanco may report to law enforcement authorities any actions that may be illegal, and any reports it receives of such conduct. When legally required or at Vanco’s discretion, Vanco will cooperate with law enforcement agencies in any investigation of alleged illegal activity on this Site or on the Internet.
 
@@ -114,13 +114,13 @@ The App software that is provided to you through the Site and Services and relat
 
 Vanco respects the intellectual property rights of others, and we ask you to do the same. Vanco may, in appropriate circumstances and at our discretion, terminate service and/or access to this Site for users who infringe the intellectual property rights of others. If you believe that your work is the subject of copyright infringement and/or trademark infringement and appears on our Site, please provide Vanco’s designated agent the following information:
 
-* A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
-* Identification of the copyrighted and/or trademarked work claimed to have been infringed, or, if multiple works at a single online site are covered by a single notification, a representative list of such works at that site.
-* Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled at the Site, and information reasonably sufficient to permit Vanco to locate the material.
-* Information reasonably sufficient to permit Vanco to contact you as the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which you may be contacted.
-* A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright and/or trademark owner, its agent, or the law.
-* A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
-* Vanco’s agent for notice of claims of copyright or trademark infringement on this Site can be reached as follows:
+*   A physical or electronic signature of a person authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+*   Identification of the copyrighted and/or trademarked work claimed to have been infringed, or, if multiple works at a single online site are covered by a single notification, a representative list of such works at that site.
+*   Identification of the material that is claimed to be infringing or to be the subject of infringing activity and that is to be removed or access to which is to be disabled at the Site, and information reasonably sufficient to permit Vanco to locate the material.
+*   Information reasonably sufficient to permit Vanco to contact you as the complaining party, such as an address, telephone number, and, if available, an electronic mail address at which you may be contacted.
+*   A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright and/or trademark owner, its agent, or the law.
+*   A statement that the information in the notification is accurate, and under penalty of perjury, that you are authorized to act on behalf of the owner of an exclusive right that is allegedly infringed.
+*   Vanco’s agent for notice of claims of copyright or trademark infringement on this Site can be reached as follows:
 
 [legal@vanco.com](mailto:legal@vanco.com)
 
@@ -130,10 +130,10 @@ Please also note that for copyright infringements under Section 512(f) of the Co
 
 We will notify you that we have removed or disabled access to copyright-protected material that you provided, if such removal is pursuant to a valid DMCA take-down notice that we have received. If you receive such notice from us, you may provide us with a counter-notification in writing to Vanco designated agent that includes all of the following information:
 
-1. Your physical or electronic signature;
-2. Identification of the material that has been removed or to which access has been disabled, and the location at which the material appeared before it was removed or access to it was disabled;
-3. A statement from you under the penalty of perjury, that you have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled; and
-4. Your name, physical address and telephone number, and a statement that you consent to the jurisdiction of a court for the judicial district in which your physical address is located, or if your physical address is outside of the United States, for any judicial district in which Vanco may be located, and that you will accept service of process from the person who provided notification of allegedly infringing material or an agent of such person.
+1.  Your physical or electronic signature;
+2.  Identification of the material that has been removed or to which access has been disabled, and the location at which the material appeared before it was removed or access to it was disabled;
+3.  A statement from you under the penalty of perjury, that you have a good faith belief that the material was removed or disabled as a result of a mistake or misidentification of the material to be removed or disabled; and
+4.  Your name, physical address and telephone number, and a statement that you consent to the jurisdiction of a court for the judicial district in which your physical address is located, or if your physical address is outside of the United States, for any judicial district in which Vanco may be located, and that you will accept service of process from the person who provided notification of allegedly infringing material or an agent of such person.
 
 ###### Termination of Repeat Infringers
 
