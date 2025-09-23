@@ -165,24 +165,24 @@ Your use of the Service is subject to this Acceptable Use Policy. Hygraph reserv
 
 The Content displayed and/or processed through your Application or other web site utilizing the Service shall not contain any of the following types of content:
 
-* Content that infringes a third party's rights (e.g., copyright) according to applicable law;
-* Excessively profane content;
-* Hate-related or violent content;
-* Content advocating racial or ethnic intolerance;
-* Content intended to advocate or advance computer hacking or cracking;
-* Other illegal activity, including without limitation illegal export of controlled substances or illegal software;
-* Drug paraphernalia;
-* Phishing;
-* Malicious content;
-* Other material, products or services that violate or encourage conduct that would violate any criminal laws, any other applicable laws, or any third-party rights.
+*   Content that infringes a third party's rights (e.g., copyright) according to applicable law;
+*   Excessively profane content;
+*   Hate-related or violent content;
+*   Content advocating racial or ethnic intolerance;
+*   Content intended to advocate or advance computer hacking or cracking;
+*   Other illegal activity, including without limitation illegal export of controlled substances or illegal software;
+*   Drug paraphernalia;
+*   Phishing;
+*   Malicious content;
+*   Other material, products or services that violate or encourage conduct that would violate any criminal laws, any other applicable laws, or any third-party rights.
 
 ### Prohibited Actions
 
-* Customer agrees not to, and not to allow third parties (including End Users) to use the Service:
-* to violate, or encourage the violation of, the legal rights of others (for example, this may include allowing End Users to infringe or misappropriate the intellectual property rights of others in violation of the Digital Millennium Copyright Act);
-* to engage in, promote or encourage illegal activity
-* for any unlawful, invasive, infringing, defamatory or fraudulent purpose (for example, this may include phishing, creating a pyramid scheme or mirroring a website);
-* to intentionally distribute viruses, worms, Trojan horses, corrupted files, hoaxes, or other items of a destructive or deceptive nature;
-* to interfere with the use of the Services, or the equipment used to provide the Service, by customers, authorized resellers, or other authorized users;
-* to disable, interfere with or circumvent any aspect of the Service;
-* to generate, distribute, publish or facilitate unsolicited mass email, promotions, advertisings or other solicitations (“spam”)
+*   Customer agrees not to, and not to allow third parties (including End Users) to use the Service:
+*   to violate, or encourage the violation of, the legal rights of others (for example, this may include allowing End Users to infringe or misappropriate the intellectual property rights of others in violation of the Digital Millennium Copyright Act);
+*   to engage in, promote or encourage illegal activity
+*   for any unlawful, invasive, infringing, defamatory or fraudulent purpose (for example, this may include phishing, creating a pyramid scheme or mirroring a website);
+*   to intentionally distribute viruses, worms, Trojan horses, corrupted files, hoaxes, or other items of a destructive or deceptive nature;
+*   to interfere with the use of the Services, or the equipment used to provide the Service, by customers, authorized resellers, or other authorized users;
+*   to disable, interfere with or circumvent any aspect of the Service;
+*   to generate, distribute, publish or facilitate unsolicited mass email, promotions, advertisings or other solicitations (“spam”)
