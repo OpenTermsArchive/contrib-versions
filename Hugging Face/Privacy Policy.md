@@ -23,10 +23,10 @@ The Company collects the following information, some of which might be Personal 
 
 The Company collects information directly provided by Users as part of using the Services, such as:
 
-* information provided as part of setting up an account on the Website: email address, password, username, full name, and other optional information such as an avatar, your interests, or usernames to your third-party social networks,
-* payment information provided, if you decide to upgrade your user or organization account: credit card information,
-* other information and materials that you decide to post on the Website (e.g., the discussion forum, or other),
-* communications between you and the Company, as part of using the Services.
+*   information provided as part of setting up an account on the Website: email address, password, username, full name, and other optional information such as an avatar, your interests, or usernames to your third-party social networks,
+*   payment information provided, if you decide to upgrade your user or organization account: credit card information,
+*   other information and materials that you decide to post on the Website (e.g., the discussion forum, or other),
+*   communications between you and the Company, as part of using the Services.
 
 At any time during your use of the Services, you may decide to share some information or content publicly or privately.
 
@@ -42,9 +42,9 @@ We may collect Information from third parties that help us deliver the Services 
 
 The Company automatically records information from your use of the Services such as:
 
-* information about your Use of the Services, your session (date, location), your IP address,
-* information from cookies, especially your login information, your preferences,
-* information about your device: type, model, version, operating system, browser
+*   information about your Use of the Services, your session (date, location), your IP address,
+*   information from cookies, especially your login information, your preferences,
+*   information about your device: type, model, version, operating system, browser
 
 #### [](#d-cookies)D. Cookies
 
@@ -68,14 +68,14 @@ California Civil Code Section 1798.83 also permits customers who are California 
 
 The Company may use information from Users for the following purposes:
 
-* to deliver the Services, which may include the creation of Your account, the display of Your profile or Your content, or if applicable the upgrading of Your account to a paid account,
-* to operate and improve the Services by providing you with more effective customer service, making the Services easier to use by eliminating the need for you to enter the same information repeatedly; performing research and analysis aimed at improving the Services, or other products and technologies of the Company; automatically updating the Services; diagnosing or fixing problems with the Services,
-* to conduct analysis or research on the Services or any topics related to it, for business operations or scientific purposes,
-* to communicate with you, especially through the sending of welcome emails, information on technical service issues, security announcements, information of new services available, legal notices, response to your requests, or any other information that we think might interest or be relevant to you,
-* to ensure and maintain security on our Services or Website, which may include detecting, preventing, investigating or otherwise addressing fraud or security issues,
-* to protect against harm to the rights, property or safety of the Company, our Users, yourself or the public,
-* to enforce any applicable terms of service or agreement, including investigations of potential violations thereof,
-* to comply with any applicable law, regulation, legal process or governmental requests.
+*   to deliver the Services, which may include the creation of Your account, the display of Your profile or Your content, or if applicable the upgrading of Your account to a paid account,
+*   to operate and improve the Services by providing you with more effective customer service, making the Services easier to use by eliminating the need for you to enter the same information repeatedly; performing research and analysis aimed at improving the Services, or other products and technologies of the Company; automatically updating the Services; diagnosing or fixing problems with the Services,
+*   to conduct analysis or research on the Services or any topics related to it, for business operations or scientific purposes,
+*   to communicate with you, especially through the sending of welcome emails, information on technical service issues, security announcements, information of new services available, legal notices, response to your requests, or any other information that we think might interest or be relevant to you,
+*   to ensure and maintain security on our Services or Website, which may include detecting, preventing, investigating or otherwise addressing fraud or security issues,
+*   to protect against harm to the rights, property or safety of the Company, our Users, yourself or the public,
+*   to enforce any applicable terms of service or agreement, including investigations of potential violations thereof,
+*   to comply with any applicable law, regulation, legal process or governmental requests.
 
 #### [](#b-grounds-for-the-use-of-information)B. Grounds for the use of Information
 
@@ -181,13 +181,13 @@ The main establishment in the European Union is Hugging Face, SAS, a French soci
 
 We may share your information with Third-Party Service Providers, and when we do, we ensure that they access your information in compliance with applicable data protection laws. The following list respects the format `Subprocessor | Description of Subprocessing | Location of Subprocessing`.
 
-* Discourse | Forum | United States
-* AWS SES | Emails | United States
-* Amazon Web Services, Inc. | Hosting/Infrastructure | United States
-* Stripe | Payment | United States
-* MongoDB Atlas | Hosting/Infrastructure | United States
-* Google Cloud Platform | Hosting/Infrastructure | United States/EMEA
-* GitHub | Hosting code | United States
-* OVHCloud | Hosting/Infrastructure | France
-* Slack Technologies | Communication | United States
-* Hugging Face SAS | All of the above | France
+*   Discourse | Forum | United States
+*   AWS SES | Emails | United States
+*   Amazon Web Services, Inc. | Hosting/Infrastructure | United States
+*   Stripe | Payment | United States
+*   MongoDB Atlas | Hosting/Infrastructure | United States
+*   Google Cloud Platform | Hosting/Infrastructure | United States/EMEA
+*   GitHub | Hosting code | United States
+*   OVHCloud | Hosting/Infrastructure | France
+*   Slack Technologies | Communication | United States
+*   Hugging Face SAS | All of the above | France
