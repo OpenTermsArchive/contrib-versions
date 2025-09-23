@@ -57,14 +57,14 @@ an user profile and carry out the end-users’ KYC (Know Your Customer) process 
 
 The personal data we process within the scope of this purpose include:
 
-* Name
-* Nationality
-* Date of birth
-* Personal identification code
-* Residential address
-* Profession
-* Political exposure
-* Information on the document used to verify the identity, or if the person has been remotely identified, information about the procedure or sources used in the verification
+*   Name
+*   Nationality
+*   Date of birth
+*   Personal identification code
+*   Residential address
+*   Profession
+*   Political exposure
+*   Information on the document used to verify the identity, or if the person has been remotely identified, information about the procedure or sources used in the verification
 
 The personal data required for authenticating the end-user is processed by Telia Finland Oyj on behalf of Epassi.
 
@@ -78,10 +78,10 @@ The personal data is processed in order to collect and store the KYC (Know Your 
 
 The personal data we process within the scope of this purpose include:
 
-* Date of birth
-* Personal identification code
-* Nationality
-* PEP status of the members of the boards of directors, managing director and persons who own more than 25 % of the firm
+*   Date of birth
+*   Personal identification code
+*   Nationality
+*   PEP status of the members of the boards of directors, managing director and persons who own more than 25 % of the firm
 
 The data is processed by Visma Solutions Oy as a processor on behalf of Epassi.
 
@@ -95,18 +95,18 @@ The personal data is processed for the distribution, use, maintenance, and devel
 
 The personal data we process within the scope of this purpose include:
 
-* Name
-* Company (Employer)
-* Transactional information
-* Purchase history
-* Access logs
-* User device
-* Email address
-* Personal identification code (in Sweden)
-* Phone number
-* Postal code
-* User balances
-* Personal data provided by the data subject
+*   Name
+*   Company (Employer)
+*   Transactional information
+*   Purchase history
+*   Access logs
+*   User device
+*   Email address
+*   Personal identification code (in Sweden)
+*   Phone number
+*   Postal code
+*   User balances
+*   Personal data provided by the data subject
 
 Legal basis: The processing of personal data is based on valid and legal contract relationship when distributing and using services, and in other respects, the processing is based on Epassi’s legitimate interest to maintain and develop such services, both toward its employer customers and end-users (consumer customers). The processing of the personal identification code is based on the applicable legislation, or the consent given by the data subject.
 
@@ -118,12 +118,12 @@ The personal data is processed in order to report to Epassi’s employer custome
 
 The personal data we process within the scope of this purpose include:
 
-* Amount of benefit given
-* Amount of benefit used
-* Employee name, email address, ID and department
-* 10 most popular merchants used by the employees
-* Benefit category (in Sweden)
-* If requested by the employer: individual benefit usage data i.e., amount of benefit used and place of purchase.
+*   Amount of benefit given
+*   Amount of benefit used
+*   Employee name, email address, ID and department
+*   10 most popular merchants used by the employees
+*   Benefit category (in Sweden)
+*   If requested by the employer: individual benefit usage data i.e., amount of benefit used and place of purchase.
 
 Legal basis: The processing of personal data is based on a contract. The processing of personal data is based on a legal obligation (fraud/misuse).
 
@@ -135,11 +135,11 @@ The personal data is processed in order to store the end-users’ transactional 
 
 The personal data we process within the scope of this purpose include:
 
-* Name
-* Company
-* Transactional information
-* Purchase history
-* Access logs
+*   Name
+*   Company
+*   Transactional information
+*   Purchase history
+*   Access logs
 
 Legal basis: The processing of personal data is based on Epassi’s legitimate interest to store transaction history in order to establish or defend legal claims.
 
@@ -149,13 +149,13 @@ Retention period: Personal data is stored for a period necessary in order to est
 
 The personal data we process within the scope of this purpose include:
 
-* Name
-* Email address
-* Telephone number
-* User preferences
-* User balances
-* Company (Employer)
-* Geographical location (in Sweden)
+*   Name
+*   Email address
+*   Telephone number
+*   User preferences
+*   User balances
+*   Company (Employer)
+*   Geographical location (in Sweden)
 
 Legal basis: The processing of personal data is based on Epassi’s legitimate interest to promote Epassi’s products and/or services to the users. The processing of personal data is also based on the consent given by the data subject in relation to direct marketing in order to provide targeted marketing and advertising, as well as to provide marketing of third parties’ products or services. The data subject has the right to refuse personal data being used for direct marketing and may at any time recall prior consent.
 
@@ -169,8 +169,8 @@ The personal data is processed in order to evaluate and follow-up the email reci
 
 The personal data we process within the scope of this purpose include:
 
-* Email address
-* Information whether the data subject has opened an e-mail or any attached material or if the data subject has clicked on any links or deleted the e-mail
+*   Email address
+*   Information whether the data subject has opened an e-mail or any attached material or if the data subject has clicked on any links or deleted the e-mail
 
 Legal basis: The processing of personal data is based on Epassi’s legitimate interest to be able to follow up on how the recipients of e-mail act when receiving e-mails from Epassi.
 
@@ -192,10 +192,10 @@ The personal data is processed in order to communicate with the Epassi’s emplo
 
 The personal data we process within the scope of this purpose include:
 
-* Name
-* Email address
-* Phone number
-* Bank account number
+*   Name
+*   Email address
+*   Phone number
+*   Bank account number
 
 Legal basis: The processing of personal data is based on Epassi’s legitimate interest to communicate with Epassi’s employer and merchant customers’ contact persons.
 
@@ -208,9 +208,9 @@ Retention period: Personal data is processed/stored for as long as the employer 
 The personal details of the contact persons of Epassi’s employer customers can be used to merket Epassi's and/or its partners services. The personal data we process within the scope of this purpose include:  
   
 
-* Name
-* Email address
-* Phone number
+*   Name
+*   Email address
+*   Phone number
 
 Legal basis: The processing of personal data is based on consent by the contact person of Epassi’s employer customer. Retention period: Personal data is processed/stored for marketing purposes during the marketing capaign and two (2) years after the campaign or until the contact person withdraws his/her consent.
 
@@ -220,10 +220,10 @@ The personal data is processed in order to communicate with the Epassi’s finan
 
 The personal data we process within the scope of this purpose include:
 
-* Name
-* Email address
-* Phone number
-* Social security number of a guarantor to a leasing agreement (only in exceptional circumstances when a guarantor is required by financing partner)
+*   Name
+*   Email address
+*   Phone number
+*   Social security number of a guarantor to a leasing agreement (only in exceptional circumstances when a guarantor is required by financing partner)
 
 Legal basis: The processing of personal data is based on Epassi’s legitimate interest to communicate with Epassi’s financing partners’ contact persons.
 
@@ -237,11 +237,11 @@ The personal data is processed in order to deliver products to Epassi’s end-us
 
 The personal data we process within the scope of this purpose include:
 
-* Name
-* Email address
-* Phone number
-* Delivery address for product(s)
-* Name of employer
+*   Name
+*   Email address
+*   Phone number
+*   Delivery address for product(s)
+*   Name of employer
 
 Legal basis: The processing of personal data is based on a contract and on Epassi’s legitimate interest to communicate with Epassi’s employer and merchant customers’ contact persons.
 
@@ -255,11 +255,11 @@ The personal data is processed in order to administrate the support matters for 
 
 The personal data we process within the scope of this purpose include:
 
-* Contact details to the party initiating the support matter
-* Contact details to the person responsible for managing the matter
-* Information in text fields provided by the party initiating the support matter
-* Information in log files
-* Phone number 
+*   Contact details to the party initiating the support matter
+*   Contact details to the person responsible for managing the matter
+*   Information in text fields provided by the party initiating the support matter
+*   Information in log files
+*   Phone number 
 
 In accordance with this section, we also process feedback you provide in the application and otherwise on our platforms, to the extent that it contains personal data.
 
@@ -274,7 +274,7 @@ The personal data is processed in order to fulfil our legal obligations, such as
 
 The personal data we process within the scope of this purpose include:
 
-* All categories of personal data which have been collected and are necessary in order to comply with legal obligations.
+*   All categories of personal data which have been collected and are necessary in order to comply with legal obligations.
 
 Legal basis: The processing of personal data is based on a legal obligation.
 
@@ -320,9 +320,9 @@ For the purposes stated in this privacy policy, the personal data may be disclos
 
 Regular disclosures of personal data undertaken to third parties in order to provide the agreed services:
 
-* To Epassi Partners, where such partner’s customer is also an Epassi end-user, and the two purposes coincide and require cross-transferring or matching of personal data;
-* To Epassi Merchants, as required for financial and payment processing related purposes while using the services;
-* To provider(s) of financial services for financing products provided under Epassi’s product portfolio.
+*   To Epassi Partners, where such partner’s customer is also an Epassi end-user, and the two purposes coincide and require cross-transferring or matching of personal data;
+*   To Epassi Merchants, as required for financial and payment processing related purposes while using the services;
+*   To provider(s) of financial services for financing products provided under Epassi’s product portfolio.
 
 In addition, Epassi may share the personal data in connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of our business and in connection with other similar arrangements.
 
@@ -330,37 +330,37 @@ The personal data is also disclosed to third parties if required under any appli
 
 In order for Epassi to provide the agreed services, personal data is processed also by the following processors of Epassi. List of the processors and other recipients:
 
-* Amazon Web Services (Support tool)
-* APSIS International AB (Marketing tool)
-* BitBot Oy (Support tool for Epassibike)
-* Cellip AB (Support tool)
-* Databricks (Support tool) 
-* Epassi Finland Oy (IT operations)
-* Fortnox AB (Finance tool)
-* Freshworks Inc. (Support tool)
-* Google LLC (Google Analytics, Google Ads)
-* HeadQ Oy (Digital Commerce Platform)
-* Hetzner Online GmbH (Hosting the online service platform)
-* HubSpot, Inc. (CRM tool)
-* InExchange Factorum AB (Electronic invoicing)
-* Kund-o AB (Support tool used for case management)
-* Lime Technologies AB (CRM tool, Epassi's Swedish employer and merchant customers' contact persons, only applicable in Sweden)
-* Mainloop AB (IT-development)
-* Microsoft Corporation (Business tools)
-* Oneflow AB (Digital Contract platform)
-* Oura Health Oy (Marketing Partner)
-* Parvus Vulpes Oy (Platform tool)
-* Sharpspring (Marketing tool)
-* Shopify (Platform for EpassiBIKE)
-    * Lightward Inc. (Functionality tool in Shopify)
-    * HulkApps Inc. (Functionality tool in Shopify)
-    * Instacollect Inc. (Functionality tool in Shopify)
-* Signicat AS (Identification authentication service)
-* Svea Bank AB and Svea Bank AB, filial i Finland or Tukirahoitus Oy (EpassiBIKE financing partner)
-* Telavox AB (Support tool)
-* Telia Finland Oyj (Strong authentication)
-* Tradedoubler AB (Marketing partner)
-* Visma Solutions Oy (Netvisor and know your customer).
+*   Amazon Web Services (Support tool)
+*   APSIS International AB (Marketing tool)
+*   BitBot Oy (Support tool for Epassibike)
+*   Cellip AB (Support tool)
+*   Databricks (Support tool) 
+*   Epassi Finland Oy (IT operations)
+*   Fortnox AB (Finance tool)
+*   Freshworks Inc. (Support tool)
+*   Google LLC (Google Analytics, Google Ads)
+*   HeadQ Oy (Digital Commerce Platform)
+*   Hetzner Online GmbH (Hosting the online service platform)
+*   HubSpot, Inc. (CRM tool)
+*   InExchange Factorum AB (Electronic invoicing)
+*   Kund-o AB (Support tool used for case management)
+*   Lime Technologies AB (CRM tool, Epassi's Swedish employer and merchant customers' contact persons, only applicable in Sweden)
+*   Mainloop AB (IT-development)
+*   Microsoft Corporation (Business tools)
+*   Oneflow AB (Digital Contract platform)
+*   Oura Health Oy (Marketing Partner)
+*   Parvus Vulpes Oy (Platform tool)
+*   Sharpspring (Marketing tool)
+*   Shopify (Platform for EpassiBIKE)
+    *   Lightward Inc. (Functionality tool in Shopify)
+    *   HulkApps Inc. (Functionality tool in Shopify)
+    *   Instacollect Inc. (Functionality tool in Shopify)
+*   Signicat AS (Identification authentication service)
+*   Svea Bank AB and Svea Bank AB, filial i Finland or Tukirahoitus Oy (EpassiBIKE financing partner)
+*   Telavox AB (Support tool)
+*   Telia Finland Oyj (Strong authentication)
+*   Tradedoubler AB (Marketing partner)
+*   Visma Solutions Oy (Netvisor and know your customer).
 
 ### **7\. DATA TRANSFERS OUTSIDE THE EU/EEA**
 
@@ -368,11 +368,11 @@ Some of the services used by Epassi for processing personal data may operate out
 
 The following recipients may transfer personal data outside the EU/ EEA:
 
-* HubSpot, Inc. (Epassi’s Finnish employer and merchant customers’ contact persons data)
-* Shopify, Inc. (Epassi’s end-user data for EpassiBIKE)
-    * Lightward Inc. (Functionality tool in Shopify)
-    * HulkApps Inc. (Functionality tool in Shopify)
-    * Instacollect Inc. (Functionality tool in Shopify)
+*   HubSpot, Inc. (Epassi’s Finnish employer and merchant customers’ contact persons data)
+*   Shopify, Inc. (Epassi’s end-user data for EpassiBIKE)
+    *   Lightward Inc. (Functionality tool in Shopify)
+    *   HulkApps Inc. (Functionality tool in Shopify)
+    *   Instacollect Inc. (Functionality tool in Shopify)
 
 ### **8\. PROTECTION OF PERSONAL DATA**
 
@@ -380,17 +380,17 @@ Securing the confidentiality, integrity, and availability of personal data is im
 
 Administrative and organizational measures:
 
-* Dedicated servers in two different geographical locations in the EU. Facilities are certified against internationally recognized Information Security Standard.
-* Role based access rights management
+*   Dedicated servers in two different geographical locations in the EU. Facilities are certified against internationally recognized Information Security Standard.
+*   Role based access rights management
 
 Technical measures:
 
-* Firewalls
-* Backups
-* Access controls
-* Monitoring of processing
-* Safe encryption technologies
-* Encrypted network connections (HTTPS)
+*   Firewalls
+*   Backups
+*   Access controls
+*   Monitoring of processing
+*   Safe encryption technologies
+*   Encrypted network connections (HTTPS)
 
 Nevertheless, considering the cyber threats in modern day online environment, we cannot give full guarantee that our security measures will prevent illegally and maliciously operating third parties from obtaining access to personal data or absolute security of the personal data during its transmission or storage on our systems.
 
