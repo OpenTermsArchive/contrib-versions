@@ -159,15 +159,15 @@ When providing your personal data with ASUS, you understand and agree that ASUS 
 
 (4) The options for cookie settings can vary based on the type and version of the browser you use. We have provided information for commonly used browsers below. You can check the links to learn how to manage your cookie settings through these browsers. If you use a different browser or the content in the links is unavailable, please refer to the privacy statements or support pages of those browsers for guidance. You can also visit [https://www.aboutcookies.org/](https://www.aboutcookies.org/) for information on managing your cookie settings across various browsers.
 
-* How to control your cookies settings in the Google Chrome browser:  
+*   How to control your cookies settings in the Google Chrome browser:  
     [https://support.google.com/chrome/answer/95647?hl=en](https://support.google.com/chrome/answer/95647?hl=en)
-* How to control your cookies settings in the Microsoft Edge browser:
+*   How to control your cookies settings in the Microsoft Edge browser:
 
 [https://support.microsoft.com/en-us/microsoft-edge/view-cookies-in-microsoft-edge-a7d95376-f2cd-8e4a-25dc-1de753474879](https://support.microsoft.com/en-us/microsoft-edge/view-cookies-in-microsoft-edge-a7d95376-f2cd-8e4a-25dc-1de753474879)
 
-* How to control your cookies settings in the Mozilla Firefox browser:  
+*   How to control your cookies settings in the Mozilla Firefox browser:  
     [https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)
-* How to control your cookies settings in the Apple Safari browser:  
+*   How to control your cookies settings in the Apple Safari browser:  
     [https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac](https://support.apple.com/guide/safari/manage-cookies-and-website-data-sfri11471/mac)
 
   
