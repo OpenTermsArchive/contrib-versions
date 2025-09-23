@@ -2,9 +2,9 @@ Effective June 28, 2025. Last Revised May 29, 2025
 
 **Reddit powers hundreds of thousands of distinct online communities. This User Agreement and your conduct make that possible.**
 
-* If you live in the United States or outside the European Economic Area (“**EEA**”), the United Kingdom, and Switzerland, your terms are [here](#outside_EEA).
+*   If you live in the United States or outside the European Economic Area (“**EEA**”), the United Kingdom, and Switzerland, your terms are [here](#outside_EEA).
     
-* If you live in the EEA, United Kingdom, or Switzerland, your terms are [here](#inside_eea).
+*   If you live in the EEA, United Kingdom, or Switzerland, your terms are [here](#inside_eea).
     
 
 * * *
@@ -21,13 +21,13 @@ No one under 13 is allowed to use or access the Services. Parts of our Services 
   
 By using the Services, you state that:
 
-* You are at least 13 years old and over the minimum age required by the laws of your country of residence to access and use the Services;
+*   You are at least 13 years old and over the minimum age required by the laws of your country of residence to access and use the Services;
     
-* You can form a binding contract with Reddit, or, if you are over 13 but under the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms;
+*   You can form a binding contract with Reddit, or, if you are over 13 but under the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms;
     
-* You are not barred from using the Services under all applicable laws; and
+*   You are not barred from using the Services under all applicable laws; and
     
-* You have not been permanently suspended or removed from the Services.
+*   You have not been permanently suspended or removed from the Services.
     
 
 If you are accepting these Terms on behalf of another legal entity, including a business or government entity, you represent that you have full legal authority to bind such entity to these Terms.
@@ -42,11 +42,11 @@ Subject to your complete and ongoing compliance with these Terms, Reddit grants 
   
 Except and solely to the extent such a restriction is impermissible under applicable law, you may not, without our written agreement:
 
-* license, sell, transfer, assign, distribute, host, or otherwise commercially exploit the Services or Content;
+*   license, sell, transfer, assign, distribute, host, or otherwise commercially exploit the Services or Content;
     
-* modify, prepare derivative works of, disassemble, decompile, or reverse engineer any part of the Services or Content; or
+*   modify, prepare derivative works of, disassemble, decompile, or reverse engineer any part of the Services or Content; or
     
-* access the Services or Content in order to build a similar or competitive website, product, or service, except as permitted under any Additional Terms (as defined below).
+*   access the Services or Content in order to build a similar or competitive website, product, or service, except as permitted under any Additional Terms (as defined below).
     
 
 We are always improving our Services. This means we may add or remove features, products, or functionalities; we will try to notify you beforehand, but that won’t always be possible. We reserve the right to modify, suspend, or discontinue the Services (in whole or in part) at any time, with or without notice to you. Any future release, update, or other addition to functionality of the Services will be subject to these Terms, which may be updated from time to time. You agree that we will not be liable to you or to any third party for any modification, suspension, or discontinuation of the Services or any part thereof.  
@@ -89,17 +89,17 @@ If you choose to use the Services to conduct a promotion, including a contest or
 
 When using or accessing the Services, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), which are incorporated by this reference into, and made a part of, these Terms and contain our rules about prohibited content and conduct. In addition to what is prohibited in the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), you may not do any of the following:
 
-* Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;
+*   Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;
     
-* Gain access to (or attempt to gain access to) another user’s Account or any non-public portions of the Services, including the computer systems or networks connected to or used together with the Services;
+*   Gain access to (or attempt to gain access to) another user’s Account or any non-public portions of the Services, including the computer systems or networks connected to or used together with the Services;
     
-* Upload, transmit, or distribute to or through the Services any viruses, worms, malicious code, or other software intended to interfere with the Services, including its security-related features;
+*   Upload, transmit, or distribute to or through the Services any viruses, worms, malicious code, or other software intended to interfere with the Services, including its security-related features;
     
-* Use the Services to violate applicable law or infringe any person’s or entity’s intellectual property rights or any other proprietary rights;
+*   Use the Services to violate applicable law or infringe any person’s or entity’s intellectual property rights or any other proprietary rights;
     
-* Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit’s prior written consent is prohibited); or
+*   Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit’s prior written consent is prohibited); or
     
-* Use the Services in any manner that we reasonably believe to be an abuse of or fraud on Reddit or any payment system.
+*   Use the Services in any manner that we reasonably believe to be an abuse of or fraud on Reddit or any payment system.
     
 
 We encourage you to [report](https://reddit.zendesk.com/hc/en-us/requests/new) content or conduct that you believe violates these Terms or our [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en)[](https://www.redditinc.com/policies/content-policy?hsLang=en). We also support the responsible reporting of security vulnerabilities. To report a security issue, please email [security@reddit.com](mailto:security@reddit.com).
@@ -110,19 +110,19 @@ Moderating a subreddit is an unofficial, voluntary position that may be availabl
   
 If you choose to moderate a subreddit:
 
-* You agree to follow the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct?hsLang=en);
+*   You agree to follow the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct?hsLang=en);
     
-* You agree that when you receive reports related to a subreddit you moderate, you will take appropriate action, which may include removing content that violates policy and/or promptly escalating to Reddit for review;
+*   You agree that when you receive reports related to a subreddit you moderate, you will take appropriate action, which may include removing content that violates policy and/or promptly escalating to Reddit for review;
     
-* You are not, and may not represent that you are, authorized to act on behalf of Reddit;
+*   You are not, and may not represent that you are, authorized to act on behalf of Reddit;
     
-* You may not enter into any agreement with a third party on behalf of Reddit, or any subreddits that you moderate, without our written approval;
+*   You may not enter into any agreement with a third party on behalf of Reddit, or any subreddits that you moderate, without our written approval;
     
-* You may not perform moderation actions in return for any form of compensation, consideration, gift, or favor from third parties;
+*   You may not perform moderation actions in return for any form of compensation, consideration, gift, or favor from third parties;
     
-* If you have access to non-public information as a result of moderating a subreddit, you will use such information only in connection with your performance as a moderator; and
+*   If you have access to non-public information as a result of moderating a subreddit, you will use such information only in connection with your performance as a moderator; and
     
-* You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), or the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct?hsLang=en).
+*   You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), or the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct?hsLang=en).
     
 
 Reddit reserves the right, but has no obligation, to overturn any action or decision of a moderator if Reddit, in its sole discretion, believes that such action or decision is not in the interest of Reddit or the Reddit community.
@@ -176,15 +176,15 @@ We may make changes to these Terms from time to time. If we make changes, we wil
 
 Because we offer a variety of Services, you may be asked to agree to additional terms, policies, guidelines, or rules before using a specific product or service offered by Reddit (collectively, “**Additional Terms**”). All Additional Terms are incorporated by this reference into, and made a part of, these Terms, and to the extent any Additional Terms conflict with these Terms, the Additional Terms govern with respect to your use of the corresponding Services.
 
-* If you use any Paid Services or Digital Goods, you must also agree to the [Reddit Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement?hsLang=en).
+*   If you use any Paid Services or Digital Goods, you must also agree to the [Reddit Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement?hsLang=en).
     
-* If you use any preview features, you must also agree to the [Reddit Previews Terms](https://www.redditinc.com/policies/previews-terms?hsLang=en).
+*   If you use any preview features, you must also agree to the [Reddit Previews Terms](https://www.redditinc.com/policies/previews-terms?hsLang=en).
     
-* If you advertise on the Services, you must also agree to the [Reddit Advertising Platform Terms](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
+*   If you advertise on the Services, you must also agree to the [Reddit Advertising Platform Terms](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
     
-* If you use any of our Developer Services (including our APIs), you must also agree to the [Reddit Developer Terms](https://www.redditinc.com/policies/developer-terms?hsLang=en).
+*   If you use any of our Developer Services (including our APIs), you must also agree to the [Reddit Developer Terms](https://www.redditinc.com/policies/developer-terms?hsLang=en).
     
-* If you participate in any Reddit program that is subject to Additional Terms (e.g., [Earn Terms](https://www.redditinc.com/policies/contributor-terms?hsLang=en) for any Earnings Program), you must also agree to those Additional Terms.
+*   If you participate in any Reddit program that is subject to Additional Terms (e.g., [Earn Terms](https://www.redditinc.com/policies/contributor-terms?hsLang=en) for any Earnings Program), you must also agree to those Additional Terms.
     
 
 ##### 17\. Termination
@@ -222,13 +222,13 @@ No one under 13 is allowed to use or access the Services. Parts of our Services 
   
 By using the Services, you state that:
 
-* You are at least 13 years old and over the minimum age required by the laws of your country of residence to access and use the Services;
+*   You are at least 13 years old and over the minimum age required by the laws of your country of residence to access and use the Services;
     
-* You can form a binding contract with Reddit, or, if you are over 13 but under the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms;
+*   You can form a binding contract with Reddit, or, if you are over 13 but under the age of majority in your jurisdiction, that your legal guardian has reviewed and agrees to these Terms;
     
-* You are not barred from using the Services under all applicable laws; and
+*   You are not barred from using the Services under all applicable laws; and
     
-* You have not been permanently suspended or removed from the Services.
+*   You have not been permanently suspended or removed from the Services.
     
 
 If you are accepting these Terms on behalf of another legal entity, including a business or government entity, you represent that you have full legal authority to bind such entity to these Terms.
@@ -243,11 +243,11 @@ Subject to your complete and ongoing compliance with these Terms, Reddit grants 
   
 Except and solely to the extent such a restriction is impermissible under applicable law, you may not, without our written agreement:
 
-* license, sell, transfer, assign, distribute, host, or otherwise commercially exploit the Services or Content;
+*   license, sell, transfer, assign, distribute, host, or otherwise commercially exploit the Services or Content;
     
-* modify, prepare derivative works of, disassemble, decompile, or reverse engineer any part of the Services or Content; or
+*   modify, prepare derivative works of, disassemble, decompile, or reverse engineer any part of the Services or Content; or
     
-* access the Services or Content in order to build a similar or competitive website, product, or service, except as permitted under any Additional Terms (as defined below).
+*   access the Services or Content in order to build a similar or competitive website, product, or service, except as permitted under any Additional Terms (as defined below).
     
 
 We do not guarantee that the Services will always be available or uninterrupted. We are always improving our Services. This means we may add or remove features, products, or functionalities; we will try to notify you beforehand, but that won’t always be possible. We reserve the right to modify, suspend, or discontinue the Services (in whole or in part) at any time, with or without notice to you. Any future release, update, or other addition to functionality of the Services will be subject to these Terms, which may be updated from time to time. You agree that we will not be liable to you or to any third party for any modification, suspension, or discontinuation of the Services or any part thereof.  
@@ -290,17 +290,17 @@ If you choose to use the Services to conduct a promotion, including a contest or
 
 When using or accessing Reddit, you must comply with these Terms and all applicable laws, rules, and regulations. Please review the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), which are incorporated by this reference into, and made a part of, these Terms and contain our rules about prohibited content and conduct. In addition to what is prohibited in the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), you may not do any of the following:
 
-* Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;
+*   Use the Services in any manner that could interfere with, disable, disrupt, overburden, or otherwise impair the Services;
     
-* Gain access to (or attempt to gain access to) another user’s Account or any non-public portions of the Services, including the computer systems or networks connected to or used together with the Services;
+*   Gain access to (or attempt to gain access to) another user’s Account or any non-public portions of the Services, including the computer systems or networks connected to or used together with the Services;
     
-* Upload, transmit, or distribute to or through the Services any viruses, worms, malicious code, or other software intended to interfere with the Services, including its security-related features;
+*   Upload, transmit, or distribute to or through the Services any viruses, worms, malicious code, or other software intended to interfere with the Services, including its security-related features;
     
-* Use the Services to violate applicable law or infringe any person’s or entity’s intellectual property rights or any other proprietary rights;
+*   Use the Services to violate applicable law or infringe any person’s or entity’s intellectual property rights or any other proprietary rights;
     
-* Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit’s prior written consent is prohibited); or
+*   Access, search, or collect data from the Services by any means (automated or otherwise) except as permitted in these Terms or in a separate agreement with Reddit (we conditionally grant permission to crawl the Services in accordance with the parameters set forth in our robots.txt file, but scraping the Services without Reddit’s prior written consent is prohibited); or
     
-* Use the Services in any manner that we reasonably believe to be an abuse of or fraud on Reddit or any payment system.
+*   Use the Services in any manner that we reasonably believe to be an abuse of or fraud on Reddit or any payment system.
     
 
 We encourage you to [report](https://reddit.zendesk.com/hc/en-us/requests/new) content or conduct that you believe violates these Terms or our [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en). We also support the responsible reporting of security vulnerabilities. To report a security issue, please email [security@reddit.com](mailto:security@reddit.com).
@@ -311,19 +311,19 @@ Moderating a subreddit is an unofficial, voluntary position that may be availabl
   
 If you choose to moderate a subreddit:
 
-* You agree to follow the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct?hsLang=en);
+*   You agree to follow the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct?hsLang=en);
     
-* You agree that when you receive reports related to a subreddit you moderate, you will take appropriate action, which may include removing content that violates policy and/or promptly escalating to Reddit for review;
+*   You agree that when you receive reports related to a subreddit you moderate, you will take appropriate action, which may include removing content that violates policy and/or promptly escalating to Reddit for review;
     
-* You are not, and may not represent that you are, authorized to act on behalf of Reddit;
+*   You are not, and may not represent that you are, authorized to act on behalf of Reddit;
     
-* You may not enter into any agreement with a third party on behalf of Reddit, or any subreddits that you moderate, without our written approval;
+*   You may not enter into any agreement with a third party on behalf of Reddit, or any subreddits that you moderate, without our written approval;
     
-* You may not perform moderation actions in return for any form of compensation, consideration, gift, or favor from third parties;
+*   You may not perform moderation actions in return for any form of compensation, consideration, gift, or favor from third parties;
     
-* If you have access to non-public information as a result of moderating a subreddit, you will use such information only in connection with your performance as a moderator; and
+*   If you have access to non-public information as a result of moderating a subreddit, you will use such information only in connection with your performance as a moderator; and
     
-* You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), or the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct?hsLang=en).
+*   You may create and enforce rules for the subreddits you moderate, provided that such rules do not conflict with these Terms, the [Reddit Rules](https://www.redditinc.com/policies/reddit-rules?hsLang=en), or the [Moderator Code of Conduct](https://www.redditinc.com/policies/moderator-code-of-conduct?hsLang=en).
     
 
 Reddit reserves the right, but has no obligation, to overturn any action or decision of a moderator if Reddit, in its sole discretion, believes that such action or decision is not in the interest of Reddit or the Reddit community.
@@ -365,15 +365,15 @@ We may make changes to these Terms from time to time. If we make changes, we wil
 
 Because we offer a variety of Services, you may be asked to agree to additional terms, policies, guidelines, or rules before using a specific product or service offered by Reddit (collectively, “**Additional Terms**”). All Additional Terms are incorporated by this reference into, and made a part of, these Terms, and to the extent any Additional Terms conflict with these Terms, the Additional Terms govern with respect to your use of the corresponding Services.
 
-* If you use any Paid Services or Digital Goods, you must also agree to the [Reddit Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement?hsLang=en).
+*   If you use any Paid Services or Digital Goods, you must also agree to the [Reddit Econ Terms](https://www.redditinc.com/policies/premium-and-virtual-goods-agreement?hsLang=en).
     
-* If you use any preview features, you must also agree to the [Reddit Previews Terms](https://www.redditinc.com/policies/previews-terms?hsLang=en).
+*   If you use any preview features, you must also agree to the [Reddit Previews Terms](https://www.redditinc.com/policies/previews-terms?hsLang=en).
     
-* If you advertise on the Services, you must also agree to the [Reddit Advertising Platform Terms](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
+*   If you advertise on the Services, you must also agree to the [Reddit Advertising Platform Terms](https://www.reddithelp.com/en/categories/advertising/policy-and-guidelines/advertising-terms-ads-platform).
     
-* If you use any of our Developer Services (including our APIs), you must also agree to the [Reddit Developer Terms](https://www.redditinc.com/policies/developer-terms?hsLang=en).
+*   If you use any of our Developer Services (including our APIs), you must also agree to the [Reddit Developer Terms](https://www.redditinc.com/policies/developer-terms?hsLang=en).
     
-* If you participate in any Reddit program that is subject to Additional Terms (e.g., [Earn Terms](https://www.redditinc.com/policies/contributor-terms?hsLang=en) for any Earnings Program), you must also agree to those Additional Terms.
+*   If you participate in any Reddit program that is subject to Additional Terms (e.g., [Earn Terms](https://www.redditinc.com/policies/contributor-terms?hsLang=en) for any Earnings Program), you must also agree to those Additional Terms.
     
 
 ##### 16\. Termination
