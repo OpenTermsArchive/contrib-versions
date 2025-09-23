@@ -15,15 +15,15 @@ Deliveroo Ireland Limited is a company incorporated and registered in Ireland, w
 
 Our objective is to provide the Application to you, to link you to the businesses we partner with (**“Partners"**) and allow you to:
 
-* purchase items; and
-* arrange and receive delivery or collection of Items.
+*   purchase items; and
+*   arrange and receive delivery or collection of Items.
 
 Where you order from a Partner, you are buying the Items from that Partner and Deliveroo acts as an agent on behalf of that Partner to conclude your order from our Application and to manage your experience throughout the order process. In plain terms, this means that it is our Partners' responsibility to complete your order, and we simply provide the platform that helps you order reach our Partner and take payment from you on their behalf.
 
 You are also buying delivery services. How these are provided depends on who is responsible for delivery of your order:
 
-* delivery of the Items may be arranged by Deliveroo (a "**Deliveroo Delivery**"), in which case your contract for delivery services is with Deliveroo, and Deliveroo will arrange delivery via an independently contracted rider; or
-* delivery of the Items may be arranged by the Partner ("**Partner Delivery**"), in which case your contract for delivery services is with that Partner and Deliveroo acts as an agent on behalf of that Partner to conclude the transaction.
+*   delivery of the Items may be arranged by Deliveroo (a "**Deliveroo Delivery**"), in which case your contract for delivery services is with Deliveroo, and Deliveroo will arrange delivery via an independently contracted rider; or
+*   delivery of the Items may be arranged by the Partner ("**Partner Delivery**"), in which case your contract for delivery services is with that Partner and Deliveroo acts as an agent on behalf of that Partner to conclude the transaction.
 
 You'll be able to see when you place your order on the Application whether it is a Deliveroo Delivery or a Partner Delivery. In these terms, when we're talking about both Deliveroo Delivery and Partner Delivery together, we'll use the term "**Delivery**".
 
@@ -49,9 +49,9 @@ You must be aged 18 or older to use our Application and Service. By signing up f
 
 When you place an order you will have the choice to place it as an ASAP Delivery, a Scheduled Delivery or a Priority Delivery.
 
-* For an ASAP Delivery, we will tell you an estimated delivery time for your Item before you place the order, but we will attempt delivery as soon as possible; you must therefore be available to accept delivery from the time you place the order. 
-* For a scheduled Delivery, we will tell you the time when the Item is expected to be delivered; you must be available to accept delivery within the estimated arrival time. 
-* Priority Delivery guarantees that your rider will deliver your order directly to you, before delivering any other Deliveroo orders. This is an optional service that eligible customers can choose to add to their eligible orders. The price of Priority Delivery is shown when you select your delivery method, and Priority Delivery is added in addition to any other delivery fees that may be applicable. Both the price of Priority Delivery and any other delivery fees are shown before you confirm your order and pay. Deliveroo reserves the right to change the price of Priority Delivery. If your Priority Delivery arrives after the estimated maximum delivery time, you may be eligible for a refund. This does not affect your legal rights.
+*   For an ASAP Delivery, we will tell you an estimated delivery time for your Item before you place the order, but we will attempt delivery as soon as possible; you must therefore be available to accept delivery from the time you place the order. 
+*   For a scheduled Delivery, we will tell you the time when the Item is expected to be delivered; you must be available to accept delivery within the estimated arrival time. 
+*   Priority Delivery guarantees that your rider will deliver your order directly to you, before delivering any other Deliveroo orders. This is an optional service that eligible customers can choose to add to their eligible orders. The price of Priority Delivery is shown when you select your delivery method, and Priority Delivery is added in addition to any other delivery fees that may be applicable. Both the price of Priority Delivery and any other delivery fees are shown before you confirm your order and pay. Deliveroo reserves the right to change the price of Priority Delivery. If your Priority Delivery arrives after the estimated maximum delivery time, you may be eligible for a refund. This does not affect your legal rights.
 
 Unfortunately, despite our, and our Partner’s best efforts, things do not always go to plan and factors such as traffic and weather conditions may prevent us from delivering your Item on time. If your order is more than 15 minutes late, and we haven’t notified you giving you the option to cancel your order, we will work with you to make things right unless you have caused the delay (e.g. because you gave us the wrong address or did not come to the door).
 
@@ -59,8 +59,8 @@ We will attempt delivery at the address you provide to us when you place your or
 
 You will still be charged for the Item and for Order Fees in the event of a failed delivery if you have caused such failure for any reason. Reasons you might cause a delivery to fail include (but are not limited to):  
 
-* You do not come to the door, did not pick up the phone when the rider contacted you using the contact information you have provided us and/or you picked up the phone but then failed to provide access within a reasonable amount of time, and the rider is unable to find a safe location to leave the food.
-* The rider refuses to deliver the Item to you in accordance with section 8 (Age Restricted Products).
+*   You do not come to the door, did not pick up the phone when the rider contacted you using the contact information you have provided us and/or you picked up the phone but then failed to provide access within a reasonable amount of time, and the rider is unable to find a safe location to leave the food.
+*   The rider refuses to deliver the Item to you in accordance with section 8 (Age Restricted Products).
 
 ### 7\. Your Rights if Something is Wrong With Your Items
 
@@ -163,11 +163,11 @@ The Deliveroo User Review and Contribution Terms apply to any and all material (
 
 Failure to comply with section 3 (Acceptable Use), 5 (Content Standards) and/or 16 (Your Concerns) in these Terms of Use constitutes a material breach of the Terms of Use, and may result in our taking all or any of the following actions:
 
-* immediate, temporary or permanent withdrawal of your right to use our Service;
-* immediate, temporary or permanent removal of any posting or material uploaded by you to our Service;
-* issuing of a warning to you;
-* legal action against you including proceedings for reimbursement of all costs on an (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
-* disclosure of such information to law enforcement authorities as we reasonably feel is necessary.
+*   immediate, temporary or permanent withdrawal of your right to use our Service;
+*   immediate, temporary or permanent removal of any posting or material uploaded by you to our Service;
+*   issuing of a warning to you;
+*   legal action against you including proceedings for reimbursement of all costs on an (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
+*   disclosure of such information to law enforcement authorities as we reasonably feel is necessary.
 
 The responses described in this clause are not limited, and we may take any other action we reasonably deem appropriate.
 
@@ -263,8 +263,8 @@ These Gift Card terms and any contractual or non-contractual dispute or claim ar
 
 These terms have two parts: 
 
-1. **Terms about purchasing Gift Cards**
-2. **Terms about using Gift Cards**
+1.  **Terms about purchasing Gift Cards**
+2.  **Terms about using Gift Cards**
 
 ### **Terms about purchasing Gift Cards**
 
@@ -294,10 +294,10 @@ Deliveroo reserves the right not to fulfil a Gift Card that has not been redeeme
 
 In the event that, in respect of business purchasers:: 
 
-* you make any voluntary arrangement with your creditors or become the subject of any administration, liquidation or winding up order; 
-* a receiver or administrative receiver is appointed over your assets; 
-* you suspend or threaten to suspend any payments hereunder or threaten to cease to carry on business; or 
-* Deliveroo reasonably considers that you are about to suffer any of the events above, 
+*   you make any voluntary arrangement with your creditors or become the subject of any administration, liquidation or winding up order; 
+*   a receiver or administrative receiver is appointed over your assets; 
+*   you suspend or threaten to suspend any payments hereunder or threaten to cease to carry on business; or 
+*   Deliveroo reasonably considers that you are about to suffer any of the events above, 
 
 Deliveroo may cancel its contracts with you, suspend any further Orders from being placed or fulfilled and deactivate any Gift Cards which have not been paid for, without liability to you. 
 
@@ -305,9 +305,9 @@ Deliveroo may cancel its contracts with you, suspend any further Orders from bei
 
 Deliveroo will not be liable, in respect of Orders from businesses, in contract, tort (including, without limitation, negligence) or otherwise pursuant to or in connection with these terms for:
 
-* any economic losses (including without limitation loss of revenues, profits, contracts, business or anticipated savings); 
-* any loss of goodwill or reputation; or
-* any special, indirect, inconsequential, exemplary, incidental or punitive losses,
+*   any economic losses (including without limitation loss of revenues, profits, contracts, business or anticipated savings); 
+*   any loss of goodwill or reputation; or
+*   any special, indirect, inconsequential, exemplary, incidental or punitive losses,
 
 suffered or incurred by you out of or in connection with the provision of any Gift Cards or under these terms. In the event that a Gift Card does not work, your sole remedy and our sole liability will be the replacement of the Gift Card.
 
@@ -341,12 +341,12 @@ Deliveroo Gift Cards may only be redeemed for purchases of menu items from [www.
 
 Gift Cards cannot be: 
 
-* topped up or reloaded;
-* redeemed alongside promotional codes or promotional vouchers;
-* used to pay for subscriptions (e.g. for Deliveroo Plus) or to purchase Deliveroo Gift Cards;
-* redeemed for cash;
-* resold or transferred for value; or
-* transferred to another Deliveroo account, once redeemed.
+*   topped up or reloaded;
+*   redeemed alongside promotional codes or promotional vouchers;
+*   used to pay for subscriptions (e.g. for Deliveroo Plus) or to purchase Deliveroo Gift Cards;
+*   redeemed for cash;
+*   resold or transferred for value; or
+*   transferred to another Deliveroo account, once redeemed.
 
 #### 2\. When does my Gift Card expire?
 
@@ -378,9 +378,9 @@ Deliveroo is not responsible for Gift Cards sold or distributed by an unauthoris
 
 If an Gift Card is abused, or an Gift Card which we know or suspect was obtained fraudulently is redeemed and/or used to make purchases on our service, Deliveroo may:
 
-* suspend or close the affected customer account (and any credit remaining on the affected customer account will be cancelled and is non-refundable);
-* cancel any Gift Cards; and/or 
-* take legal action. 
+*   suspend or close the affected customer account (and any credit remaining on the affected customer account will be cancelled and is non-refundable);
+*   cancel any Gift Cards; and/or 
+*   take legal action. 
 
 #### **8\. Deliveroo General Terms**  
 
@@ -397,13 +397,13 @@ If you are a business and are having issues with your Gift Card, please contact 
 Referral Program Terms
 ----------------------
 
-1. This Referral Programme is open to selected Deliveroo customers (‘you’/’user') aged 18 or over who have made at least 1 Deliveroo order.
-2. We will notify you by email that you are eligible for the Referral Programme. The email will include a unique link. Simply share your unique link with a friend or relative (aged 18 or over) who does not live at the same address as you and who you think would benefit from the Deliveroo service (a “referral”). If anyone to whom you give a referral goes on to place a Deliveroo order using that unique link, we will apply to your account the amount of Deliveroo Voucher credit stated in the email we sent to you with the unique link. It may take up to seven days after your relative of friend places a referral order before the Voucher credit is applied to your account. Voucher credits received under the Referral Program can be redeemed at any Partner Restaurant and expire automatically within the period stated in the promotional materials or other associated Deliveroo materials.
-3. Unique links may only be used for personal and non-commercial purposes. This means that you can share your unique link with your personal connections via your own social media accounts (eg your personal Facebook, Twitter or Instagram account) but not on sites where you are a contributor but not the account owner (eg Facebook business accounts or groups, Wikipedia, Google Reviews, coupon websites). Promoting your referral code via Search Engine Marketing (eg AdWords / Yahoo / Bing) is also not allowed. If we become aware that you have made your unique link available in any of these ways we may deactivate it without telling you. We will not be responsible for any losses you suffer if we deactivate your account for this reason.
-4. We may discontinue the Referral Programme at any time. We will give advance notice of discontinuance on our Site. Voucher credit already applied to your account as a result of referrals will remain available for the period as stated in Clause 2 above, even if the Referral Programme is discontinued.
-5. Referral credits are Vouchers and are therefore subject to the above Voucher Terms and Conditions.
-6. You may receive Voucher credit for a maximum of 100 referrals. We reserve the right to change the maximum number of referrals for which Voucher credit is awarded at any time, though you will receive Voucher credit for any referral orders placed by your relatives or friends before the change.
-7. The Promoter is Deliveroo Ireland Limited, 1-2 Victoria Buildings, Haddington Road Dublin 4 DUBLIN, Ireland.
+1.  This Referral Programme is open to selected Deliveroo customers (‘you’/’user') aged 18 or over who have made at least 1 Deliveroo order.
+2.  We will notify you by email that you are eligible for the Referral Programme. The email will include a unique link. Simply share your unique link with a friend or relative (aged 18 or over) who does not live at the same address as you and who you think would benefit from the Deliveroo service (a “referral”). If anyone to whom you give a referral goes on to place a Deliveroo order using that unique link, we will apply to your account the amount of Deliveroo Voucher credit stated in the email we sent to you with the unique link. It may take up to seven days after your relative of friend places a referral order before the Voucher credit is applied to your account. Voucher credits received under the Referral Program can be redeemed at any Partner Restaurant and expire automatically within the period stated in the promotional materials or other associated Deliveroo materials.
+3.  Unique links may only be used for personal and non-commercial purposes. This means that you can share your unique link with your personal connections via your own social media accounts (eg your personal Facebook, Twitter or Instagram account) but not on sites where you are a contributor but not the account owner (eg Facebook business accounts or groups, Wikipedia, Google Reviews, coupon websites). Promoting your referral code via Search Engine Marketing (eg AdWords / Yahoo / Bing) is also not allowed. If we become aware that you have made your unique link available in any of these ways we may deactivate it without telling you. We will not be responsible for any losses you suffer if we deactivate your account for this reason.
+4.  We may discontinue the Referral Programme at any time. We will give advance notice of discontinuance on our Site. Voucher credit already applied to your account as a result of referrals will remain available for the period as stated in Clause 2 above, even if the Referral Programme is discontinued.
+5.  Referral credits are Vouchers and are therefore subject to the above Voucher Terms and Conditions.
+6.  You may receive Voucher credit for a maximum of 100 referrals. We reserve the right to change the maximum number of referrals for which Voucher credit is awarded at any time, though you will receive Voucher credit for any referral orders placed by your relatives or friends before the change.
+7.  The Promoter is Deliveroo Ireland Limited, 1-2 Victoria Buildings, Haddington Road Dublin 4 DUBLIN, Ireland.
 
 Deliveroo Plus Terms and Conditions
 -----------------------------------
@@ -462,8 +462,8 @@ You must limit your Deliveroo account to your personal use, and not share your D
 
 We use a number of measures to monitor customer fraudulent order activity and compensation abuse. If we reasonably suspect that you are engaging in fraudulent activity and/or compensation abuse, we may:
 
-* suspend and/or terminate your Deliveroo Plus subscription; and/or
-* suspend and/or deactivate your Deliveroo account.
+*   suspend and/or terminate your Deliveroo Plus subscription; and/or
+*   suspend and/or deactivate your Deliveroo account.
 
 If we terminate your Deliveroo Plus subscription but do not suspend or deactivate your Deliveroo account under this paragraph, your Deliveroo Plus subscription will terminate immediately, we will pay you a pro rated refund of the Deliveroo Plus Fee for the remainder of your Deliveroo Plus Subscription Period. To be clear, we will not have to do this if we choose to suspend or deactivate your Deliveroo account. 
 
@@ -523,17 +523,17 @@ The Plus Pausing feature allows you to pause your Deliveroo Plus subscription. 
 
 If you choose to pause your Plus subscription:
 
-* You lose access to all Plus benefits for the period your Plus subscription remains paused. 
-* Any days remaining on your Deliveroo Plus Subscription Period at the time of pausing are frozen. You can use them after you unpause your Deliveroo Plus Subscription.
-* We won’t charge you anything until you unpause and have used any remaining days on your paused Deliveroo Plus Subscription Period. 
+*   You lose access to all Plus benefits for the period your Plus subscription remains paused. 
+*   Any days remaining on your Deliveroo Plus Subscription Period at the time of pausing are frozen. You can use them after you unpause your Deliveroo Plus Subscription.
+*   We won’t charge you anything until you unpause and have used any remaining days on your paused Deliveroo Plus Subscription Period. 
 
 After you unpause:
 
-* You will get access to all Plus benefits.
-* You can’t pause your Deliveroo Plus subscription again for another 30 days.
-* You can use all of your frozen days that were remaining on your previous Deliveroo Plus Subscription Period when you cancelled. After all your remaining “frozen” days are used, we will then charge you the Deliveroo Plus Fee for the next Deliveroo Plus Subscription period. 
-* Your Deliveroo Plus Subscription Period date may change from what it was before you paused your subscription.
-* All payments will be made in accordance with section 6 (Payment and Billing). E.g. if you pause with 10 days remaining in your payment cycle, after you unpause, you’ll first use the 10 days and only after that we’ll charge you for the next Deliveroo Plus Subscription Period.
+*   You will get access to all Plus benefits.
+*   You can’t pause your Deliveroo Plus subscription again for another 30 days.
+*   You can use all of your frozen days that were remaining on your previous Deliveroo Plus Subscription Period when you cancelled. After all your remaining “frozen” days are used, we will then charge you the Deliveroo Plus Fee for the next Deliveroo Plus Subscription period. 
+*   Your Deliveroo Plus Subscription Period date may change from what it was before you paused your subscription.
+*   All payments will be made in accordance with section 6 (Payment and Billing). E.g. if you pause with 10 days remaining in your payment cycle, after you unpause, you’ll first use the 10 days and only after that we’ll charge you for the next Deliveroo Plus Subscription Period.
 
 If you choose to pause your Deliveroo Plus subscription and it remains paused for three months or more, Deliveroo may email to notify you that your Plus subscription will be automatically cancelled unless you unpause within the time period specified in the email. If you do not unpause, your account may be cancelled and you will lose any days remaining at the time of pausing.
 
@@ -577,15 +577,15 @@ Trial Upgrade Availability: From time to time, we may offer new or existing Plus
 
 ###  **12. Deliveroo Plus Offer with Amazon Prime**
 
-* UK Amazon Prime members can enjoy 1-year free (‘free period’) of a Deliveroo Plus Silver subscription worth over €40 a year (€3.99/month) with their Amazon Prime membership. This includes free delivery from a huge range of restaurants on orders over €18 and free delivery from grocery and retail stores on orders over €30. Service fees and Deliveroo Plus [Ts&Cs](https://www.deliveroo.ie/legal) apply to your use of Deliveroo Plus during this ‘free period’. 
-* If you end your Amazon Prime membership at any time during your ‘free period’, you will lose access to Deliveroo Plus and your 1-year free Deliveroo Plus with your Amazon Prime membership will terminate. You will be notified via email once your Deliveroo Plus subscription is lost. If you were previously on Deliveroo Plus and decide to switch to the 1-year free Deliveroo Plus membership with Amazon Prime, and then end your Amazon Prime membership, you will not be re-enrolled to your previous Deliveroo Plus subscription. If you choose to restart your Amazon Prime membership again, you will need to reactivate the Deliveroo Plus with Amazon Prime offer by verifying your Prime membership again through the offer redemption process set out below.
-* To redeem the offer, you should: 
+*   UK Amazon Prime members can enjoy 1-year free (‘free period’) of a Deliveroo Plus Silver subscription worth over €40 a year (€3.99/month) with their Amazon Prime membership. This includes free delivery from a huge range of restaurants on orders over €18 and free delivery from grocery and retail stores on orders over €30. Service fees and Deliveroo Plus [Ts&Cs](https://www.deliveroo.ie/legal) apply to your use of Deliveroo Plus during this ‘free period’. 
+*   If you end your Amazon Prime membership at any time during your ‘free period’, you will lose access to Deliveroo Plus and your 1-year free Deliveroo Plus with your Amazon Prime membership will terminate. You will be notified via email once your Deliveroo Plus subscription is lost. If you were previously on Deliveroo Plus and decide to switch to the 1-year free Deliveroo Plus membership with Amazon Prime, and then end your Amazon Prime membership, you will not be re-enrolled to your previous Deliveroo Plus subscription. If you choose to restart your Amazon Prime membership again, you will need to reactivate the Deliveroo Plus with Amazon Prime offer by verifying your Prime membership again through the offer redemption process set out below.
+*   To redeem the offer, you should: 
 
-1. Go to deliveroo.ie/amazon-prime
-2. Sign up or login to Deliveroo
-3. Link your Amazon account
+1.  Go to deliveroo.ie/amazon-prime
+2.  Sign up or login to Deliveroo
+3.  Link your Amazon account
 
-* Existing fee paying Deliveroo Plus subscription customers are also able to redeem this offer (provided they have a current Amazon Prime membership) and, if they are an Eligible User, will be moved onto the Deliveroo Plus with Amazon Prime ‘free period’ plan for 12 months after the offer redemption date. At the end of your ‘free period’ or if you end your Amazon Prime membership, you will automatically be moved back onto your previous Plus subscription plan, and the relevant subscription fee will be payable by you. You will need to cancel your subscription prior to the end of the ‘free period’ to avoid paying these charges.
+*   Existing fee paying Deliveroo Plus subscription customers are also able to redeem this offer (provided they have a current Amazon Prime membership) and, if they are an Eligible User, will be moved onto the Deliveroo Plus with Amazon Prime ‘free period’ plan for 12 months after the offer redemption date. At the end of your ‘free period’ or if you end your Amazon Prime membership, you will automatically be moved back onto your previous Plus subscription plan, and the relevant subscription fee will be payable by you. You will need to cancel your subscription prior to the end of the ‘free period’ to avoid paying these charges.
 
 ### **13\. Deliveroo Plus Offer with Revolut**
 
@@ -593,20 +593,20 @@ Eligible Revolut customers can enjoy a free Deliveroo Plus Silver subscription w
 
 Service fees and Deliveroo Plus T&Cs apply when you use the Deliveroo Plus Offer with Revolut.
 
-* If you close your qualifying Revolut account or if Revolut stops making Deliveroo Plus Silver available as part of your qualifying account, you will no longer benefit from the free Deliveroo Plus subscription and the Free Period will be terminated. You will be notified via email once your Deliveroo Plus subscription has ended.
-* If you were previously a Deliveroo Plus subscriber and decided to switch to the Deliveroo Plus Offer with Revolut, and then close your qualifying Revolut account or if Revolut stops making Deliveroo Plus Silver available as part of your qualifying Revolut account, you will not be re-enrolled to your previous Deliveroo Plus subscription. 
-* If you want to restart your free Deliveroo Plus Silver subscription with Revolut and it is still available as part of your qualifying Revolut account, you will need to reactivate the Deliveroo Plus Offer with Revolut by following the offer redemption process set out below:
-* Go into the Revolut app or website;  
+*   If you close your qualifying Revolut account or if Revolut stops making Deliveroo Plus Silver available as part of your qualifying account, you will no longer benefit from the free Deliveroo Plus subscription and the Free Period will be terminated. You will be notified via email once your Deliveroo Plus subscription has ended.
+*   If you were previously a Deliveroo Plus subscriber and decided to switch to the Deliveroo Plus Offer with Revolut, and then close your qualifying Revolut account or if Revolut stops making Deliveroo Plus Silver available as part of your qualifying Revolut account, you will not be re-enrolled to your previous Deliveroo Plus subscription. 
+*   If you want to restart your free Deliveroo Plus Silver subscription with Revolut and it is still available as part of your qualifying Revolut account, you will need to reactivate the Deliveroo Plus Offer with Revolut by following the offer redemption process set out below:
+*   Go into the Revolut app or website;  
     \- Follow the link found on the Deliveroo offer page in the Revolut app or website;  
     \- Log in or sign up to create a Deliveroo account (if you do not already have one);  
     \- Once signed in, you will be automatically redirected to Deliveroo’s voucher entry page where your unique voucher code will be pre-populated;  
     \- Submit the code and follow the instructions to join Deliveroo Plus.
-* Existing fee paying Deliveroo Plus subscribers may also benefit from this offer (provided they have a qualifying Revolut account) and, if they fulfil the eligibility criteria of Revolut, will be moved onto the Deliveroo Plus Offer with Revolut for the Free Period, from the date they will have linked their qualifying Revolut account according to the process described above. At the end of the Free Period or if you close your qualifying Revolut account, you will not be re-enrolled to your previous Deliveroo Plus subscription.
+*   Existing fee paying Deliveroo Plus subscribers may also benefit from this offer (provided they have a qualifying Revolut account) and, if they fulfil the eligibility criteria of Revolut, will be moved onto the Deliveroo Plus Offer with Revolut for the Free Period, from the date they will have linked their qualifying Revolut account according to the process described above. At the end of the Free Period or if you close your qualifying Revolut account, you will not be re-enrolled to your previous Deliveroo Plus subscription.
 
 ### **14\. Terms Applicable to Deliveroo Plus Gold Only**
 
-* The Deliveroo Plus Credit-Back benefit applies only to Eligible Users who are subscribed to Deliveroo Plus Gold. Plus Credit Back enables customers to earn a percentage of their basket subtotal on eligible restaurant orders over a set Minimum Order Value in the form of account credit. The Minimum Order Value will be made clear in the app or on the website before you place an order. Some partners are excluded. Customers cannot earn Plus Credit-Back on Pick up orders or Group orders. Credit will be automatically added to your account and you’ll be able to redeem it on a future eligible order.  Customers can stack credit and apply more than one credit to an order, but each credit must be redeemed within 3 months from the date of issue. You can’t earn and redeem credit on the same order. Some restricted products are excluded from both earning and redemption of Plus Credit Back. Standard credit [terms](https://deliveroo.co.uk/legal) apply.
-* The Deliveroo Plus On-Time Promise benefit only to Eligible Users who are subscribed to Deliveroo Plus Gold. If an order arrives later than expected, you may be eligible to claim a credit. For some orders, additional fraud checks may be required before credit is applied to your account. Credit cannot be redeemed on restricted products. Standard credit [terms](https://deliveroo.ie/legal) apply.
+*   The Deliveroo Plus Credit-Back benefit applies only to Eligible Users who are subscribed to Deliveroo Plus Gold. Plus Credit Back enables customers to earn a percentage of their basket subtotal on eligible restaurant orders over a set Minimum Order Value in the form of account credit. The Minimum Order Value will be made clear in the app or on the website before you place an order. Some partners are excluded. Customers cannot earn Plus Credit-Back on Pick up orders or Group orders. Credit will be automatically added to your account and you’ll be able to redeem it on a future eligible order.  Customers can stack credit and apply more than one credit to an order, but each credit must be redeemed within 3 months from the date of issue. You can’t earn and redeem credit on the same order. Some restricted products are excluded from both earning and redemption of Plus Credit Back. Standard credit [terms](https://deliveroo.co.uk/legal) apply.
+*   The Deliveroo Plus On-Time Promise benefit only to Eligible Users who are subscribed to Deliveroo Plus Gold. If an order arrives later than expected, you may be eligible to claim a credit. For some orders, additional fraud checks may be required before credit is applied to your account. Credit cannot be redeemed on restricted products. Standard credit [terms](https://deliveroo.ie/legal) apply.
 
 Deliveroo User Review and Contribution Terms (Republic of Ireland)
 ------------------------------------------------------------------
@@ -627,17 +627,17 @@ You are solely responsible for all content and materials in your Reviews and Use
 
 Reviews and User Contributions must not:
 
-* violate any applicable law or regulation;
-* infringe any intellectual property (including copyright, trade mark or other intellectual property rights) of any party. You must have a right to publish and upload third party works incorporated or referenced in your Review or User Contribution in accordance with any law or under contractual or fiduciary relationships;
-* pose or create a privacy or security risk to any person; 
-* invade another's privacy, or cause annoyance, inconvenience or needless anxiety or be likely to harass, upset, embarrass, alarm or annoy any other person;
-* be or contain any information or material that is unlawful, harmful, threatening, abusive, harassing, tortious, excessively violent, defamatory, vulgar, obscene, pornographic, defamatory, hateful or inflammatory racially, ethnically or is otherwise objectionable or offensive;
-* contain any material which promotes sexually explicit material or promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age; 
-* in our sole view, expose Deliveroo, our Partners or our users to any harm of liability of any type;
-* impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity;
-* advertise or offer to sell or buy any goods or services for any business purpose that is not specifically authorised;
-* be likely to deceive any person or be made in breach of any legal duty owed to a third party, such as a contractual duty, or promote any criminal activity or enterprise or provide instructional information about illegal activities;
-* be used to impersonate any person, or to misrepresent your identity or affiliation with any person or give the impression that they emanate from us, if this is not the case.
+*   violate any applicable law or regulation;
+*   infringe any intellectual property (including copyright, trade mark or other intellectual property rights) of any party. You must have a right to publish and upload third party works incorporated or referenced in your Review or User Contribution in accordance with any law or under contractual or fiduciary relationships;
+*   pose or create a privacy or security risk to any person; 
+*   invade another's privacy, or cause annoyance, inconvenience or needless anxiety or be likely to harass, upset, embarrass, alarm or annoy any other person;
+*   be or contain any information or material that is unlawful, harmful, threatening, abusive, harassing, tortious, excessively violent, defamatory, vulgar, obscene, pornographic, defamatory, hateful or inflammatory racially, ethnically or is otherwise objectionable or offensive;
+*   contain any material which promotes sexually explicit material or promote discrimination based on race, sex, religion, nationality, disability, sexual orientation or age; 
+*   in our sole view, expose Deliveroo, our Partners or our users to any harm of liability of any type;
+*   impersonate any person or entity, or falsely state or otherwise misrepresent your affiliation with a person or entity;
+*   advertise or offer to sell or buy any goods or services for any business purpose that is not specifically authorised;
+*   be likely to deceive any person or be made in breach of any legal duty owed to a third party, such as a contractual duty, or promote any criminal activity or enterprise or provide instructional information about illegal activities;
+*   be used to impersonate any person, or to misrepresent your identity or affiliation with any person or give the impression that they emanate from us, if this is not the case.
 
 **2\. Screening Content**
 
@@ -665,11 +665,11 @@ In addition, to the processes which will be notified to you should you submit a 
 
 Your notification or complaint must be in writing and contain the following information:
 
-* in relation to alleged illegal content or Alleged Misconduct, a description of the alleged illegal content or Alleged Misconduct and an explanation of the reasons for your claim; 
-* in relation to Take Down Procedures, a description of your Review or User Contribution that was the subject of our Take Down Procedures and an explanation of the reasons for your complaint;
-* a detailed description of the alleged illegal content or Alleged Misconduct or relevant Review or User Contribution so that we may find it on the Site;
-* your address, telephone number, and email address;
-* a statement by you that you have a good faith belief that the information in your notice or complaint is accurate and, in the case of a claim that a Review or User Contribution infringes your intellectual property rights, that you are the intellectual property owner or authorised to act on the intellectual property owner’s behalf.
+*   in relation to alleged illegal content or Alleged Misconduct, a description of the alleged illegal content or Alleged Misconduct and an explanation of the reasons for your claim; 
+*   in relation to Take Down Procedures, a description of your Review or User Contribution that was the subject of our Take Down Procedures and an explanation of the reasons for your complaint;
+*   a detailed description of the alleged illegal content or Alleged Misconduct or relevant Review or User Contribution so that we may find it on the Site;
+*   your address, telephone number, and email address;
+*   a statement by you that you have a good faith belief that the information in your notice or complaint is accurate and, in the case of a claim that a Review or User Contribution infringes your intellectual property rights, that you are the intellectual property owner or authorised to act on the intellectual property owner’s behalf.
 
 We will review your notification or complaint promptly and advise you of our decision and any action we propose to take as a result of our decision. Further details of how we moderate content on our Site can be found in our FAQs.
 
@@ -679,11 +679,11 @@ We reserve the right to suspend or terminate your account if we determine that t
 
 Failure to comply with the Deliveroo Review and User Contribution Terms constitutes a material breach of the Terms of Use, and may result in our taking all or any of the following actions:
 
-* immediate, temporary or permanent withdrawal of your right to use our Service.
-* immediate, temporary or permanent removal of any posting or material uploaded by you to our Service;
-* issuing of a warning to you;
-* legal action against you including proceedings for reimbursement of all costs on an (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
-* disclosure of such information to law enforcement authorities as we reasonably feel is necessary.
+*   immediate, temporary or permanent withdrawal of your right to use our Service.
+*   immediate, temporary or permanent removal of any posting or material uploaded by you to our Service;
+*   issuing of a warning to you;
+*   legal action against you including proceedings for reimbursement of all costs on an (including, but not limited to, reasonable administrative and legal costs) resulting from the breach;
+*   disclosure of such information to law enforcement authorities as we reasonably feel is necessary.
 
 The responses described in this clause are not limited, and we may take any other action we reasonably deem appropriate.
 
