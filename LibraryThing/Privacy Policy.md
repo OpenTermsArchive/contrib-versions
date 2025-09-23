@@ -33,13 +33,13 @@ See LibraryThing Early Reviewers, below, for terms surrounding this optional pro
 
 All LibraryThing members have access to their own Member [Privacy Center](https://www.librarything.com/settings/privacy), where they can see and then update:
 
-* Subscription settings for different types of LibraryThing emails
-* Review-sharing preferences
-* EEA or non-EEA residency
-* Display preferences for name, location and other non-required fields
-* Application-sharing preferences, such as to Facebook and Twitter
-* Export and download account data (incomplete as of June 8, 2018)
-* Disable or delete your account
+*   Subscription settings for different types of LibraryThing emails
+*   Review-sharing preferences
+*   EEA or non-EEA residency
+*   Display preferences for name, location and other non-required fields
+*   Application-sharing preferences, such as to Facebook and Twitter
+*   Export and download account data (incomplete as of June 8, 2018)
+*   Disable or delete your account
 
 ### How to Delete Your Data
 
@@ -47,18 +47,18 @@ LibraryThing members have full control over deleting their accounts and personal
 
 #### To permanently delete your account and associated data:
 
-1. Go to your [Account Settings](https://www.librarything.com/settings/account).
-2. Scroll to the bottom of the page, under the **“Big Steps”** section, and click **Delete Account**.
-3. You’ll be prompted to confirm your password.
-4. After confirming, you’ll be taken to the **Delete Account** page, where you can review and complete the process.
+1.  Go to your [Account Settings](https://www.librarything.com/settings/account).
+2.  Scroll to the bottom of the page, under the **“Big Steps”** section, and click **Delete Account**.
+3.  You’ll be prompted to confirm your password.
+4.  After confirming, you’ll be taken to the **Delete Account** page, where you can review and complete the process.
 
 #### On the Delete Account page, you’ll see information about what deletion means:
 
-* Your account and all personal data will be permanently deleted and cannot be restored.
-* Your books, reviews, ratings, and library data will be removed.
-* Contributions to shared community resources, such as book covers or Common Knowledge entries, are retained.
-* If you use TinyCat, your catalog will be disabled.
-* You can choose whether to keep, anonymize, or delete your Talk posts and profile comments.
+*   Your account and all personal data will be permanently deleted and cannot be restored.
+*   Your books, reviews, ratings, and library data will be removed.
+*   Contributions to shared community resources, such as book covers or Common Knowledge entries, are retained.
+*   If you use TinyCat, your catalog will be disabled.
+*   You can choose whether to keep, anonymize, or delete your Talk posts and profile comments.
 
 Before deleting your account, you have the option to [export your library](https://www.librarything.com/more/import) and [download your personal data](https://www.librarything.com/settings/export).
 
