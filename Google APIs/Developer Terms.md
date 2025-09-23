@@ -14,9 +14,9 @@ Accurately represent your identity and intent
 
 If you wish to access Google user data you must provide Google users and Google with clear and accurate information regarding your use of Google API Services. This includes, without limitation, requirements to accurately represent:
 
-* **Who is requesting Google user data?** All permission requests must accurately represent the identity of the application that seeks access to user data. If you have obtained authorized client credentials to access Google API Services, keep these credentials confidential.
-* **What data are you requesting?** You must provide clear and accurate information explaining the types of data being requested. In addition, if you plan to access or use a type of user data that was not originally disclosed in your privacy policy (or in-product disclosures) when a Google user initially authorized access, you must update your privacy policy and prompt the user to consent to any changes before you may access that data.
-* **Why are you requesting Google user data?** Be honest and transparent with users when you explain the purpose for which your application requests user data. If your application requests data for one reason but the data will also be utilized for a secondary purpose, you must notify Google users of both use cases. As a general matter, users should be able to readily understand the value of providing the data that your application requests, as well as the consequences of sharing that data with your application.
+*   **Who is requesting Google user data?** All permission requests must accurately represent the identity of the application that seeks access to user data. If you have obtained authorized client credentials to access Google API Services, keep these credentials confidential.
+*   **What data are you requesting?** You must provide clear and accurate information explaining the types of data being requested. In addition, if you plan to access or use a type of user data that was not originally disclosed in your privacy policy (or in-product disclosures) when a Google user initially authorized access, you must update your privacy policy and prompt the user to consent to any changes before you may access that data.
+*   **Why are you requesting Google user data?** Be honest and transparent with users when you explain the purpose for which your application requests user data. If your application requests data for one reason but the data will also be utilized for a secondary purpose, you must notify Google users of both use cases. As a general matter, users should be able to readily understand the value of providing the data that your application requests, as well as the consequences of sharing that data with your application.
 
 Be transparent about the data you access with clear and prominent privacy disclosures
 -------------------------------------------------------------------------------------
@@ -76,34 +76,34 @@ Certain Google OAuth API Scopes (the "[Sensitive](https://support.google.com/clo
 
 **Unless stated otherwise in the product's User Data and Developer Policy, additional requirements include:**
 
-1. **Appropriate Access:** Developers may only request access to the scopes for a permitted Application Type described by the product. Such application types can be found under an Appropriate Access heading in the product specific policy or the product's [Google Developer Page](https://developers.google.com/).
+1.  **Appropriate Access:** Developers may only request access to the scopes for a permitted Application Type described by the product. Such application types can be found under an Appropriate Access heading in the product specific policy or the product's [Google Developer Page](https://developers.google.com/).
     
-2. **Limited Use:** Your use of data obtained via the product's specified scopes must comply with the below requirements. These requirements apply to the raw data obtained from the scopes and data aggregated, anonymized, or derived from them.
+2.  **Limited Use:** Your use of data obtained via the product's specified scopes must comply with the below requirements. These requirements apply to the raw data obtained from the scopes and data aggregated, anonymized, or derived from them.
     
-    1. Limit your use of data to providing or improving user-facing features that are prominent in the requesting application's user interface;
+    1.  Limit your use of data to providing or improving user-facing features that are prominent in the requesting application's user interface;
         
-    2. Transfers of data are not allowed, except:
+    2.  Transfers of data are not allowed, except:
         
-        1. To provide or improve your appropriate access or user-facing features that are visible and prominent in the requesting application's user interface and only with the user's consent;
-        2. For security purposes (for example, investigating abuse);
-        3. To comply with applicable laws; or,
-        4. As part of a merger, acquisition, or sale of assets of the developer after obtaining explicit prior consent from the user.
-    3. Don't allow humans to read the data, unless:
+        1.  To provide or improve your appropriate access or user-facing features that are visible and prominent in the requesting application's user interface and only with the user's consent;
+        2.  For security purposes (for example, investigating abuse);
+        3.  To comply with applicable laws; or,
+        4.  As part of a merger, acquisition, or sale of assets of the developer after obtaining explicit prior consent from the user.
+    3.  Don't allow humans to read the data, unless:
         
-        1. You first obtained the user's affirmative agreement to view specific messages, files, or other data, with the limited exception of use cases approved by Google under additional terms applicable to the Nest Device Access program;
-        2. It is necessary for security purposes (for example, investigating a bug or abuse);
-        3. It is necessary to comply with applicable law; or
-        4. The data (including derivations) is aggregated and used for internal operations in accordance with applicable privacy and other jurisdictional legal requirements.
+        1.  You first obtained the user's affirmative agreement to view specific messages, files, or other data, with the limited exception of use cases approved by Google under additional terms applicable to the Nest Device Access program;
+        2.  It is necessary for security purposes (for example, investigating a bug or abuse);
+        3.  It is necessary to comply with applicable law; or
+        4.  The data (including derivations) is aggregated and used for internal operations in accordance with applicable privacy and other jurisdictional legal requirements.
     
     All other transfers, uses, or sales of user data are prohibited, including:
     
-    1. Transferring or selling user data to third parties like advertising platforms, data brokers, or any information resellers.
-    2. Transferring, selling, or using user data for serving ads, including retargeting, personalized or interest-based advertising.
-    3. Transferring, selling, or using user data to determine credit-worthiness or for lending purposes.
+    1.  Transferring or selling user data to third parties like advertising platforms, data brokers, or any information resellers.
+    2.  Transferring, selling, or using user data for serving ads, including retargeting, personalized or interest-based advertising.
+    3.  Transferring, selling, or using user data to determine credit-worthiness or for lending purposes.
     
     You must ensure that your employees, agents, contractors, and successors comply with this Google API Services User Data Policy.
     
-3. **Secure Data Handling:** Applications accessing the product specified scopes (the "[Sensitive](https://support.google.com/cloud/answer/9110914#sensitive-scopes) and [Restricted](https://support.google.com/cloud/answer/9110914#restricted-scopes) Scopes") must demonstrate that they adhere to certain security practices. Depending on the API being accessed and number of user grants or users, applications must pass an annual security assessment and obtain a Letter of Assessment from a Google-designated third party. More information about the assessment requirements to obtain or keep access to the scopes is also available in the [OAuth Application Verification FAQ](https://support.google.com/cloud/answer/9110914#restricted-scopes) and the product's [Google Developer Page](https://developers.google.com/).
+3.  **Secure Data Handling:** Applications accessing the product specified scopes (the "[Sensitive](https://support.google.com/cloud/answer/9110914#sensitive-scopes) and [Restricted](https://support.google.com/cloud/answer/9110914#restricted-scopes) Scopes") must demonstrate that they adhere to certain security practices. Depending on the API being accessed and number of user grants or users, applications must pass an annual security assessment and obtain a Letter of Assessment from a Google-designated third party. More information about the assessment requirements to obtain or keep access to the scopes is also available in the [OAuth Application Verification FAQ](https://support.google.com/cloud/answer/9110914#restricted-scopes) and the product's [Google Developer Page](https://developers.google.com/).
     
 
 Enforcement
