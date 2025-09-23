@@ -89,16 +89,16 @@ The User undertakes to use the Platform in accordance with the GTU, with the Cli
 
 It is strictly prohibited to use the Platform for the following purposes :
 
-* carrying out illegal, discriminatory, fraudulent actions or actions that infringe the rights or safety of third parties;
-* uploading or distributing illicit or infringing content;
-* uploading or installing on the Platform malicious software, spyware, viruses, worms, Trojan horses or similar harmful code ;
-* accessing, extracting Data from other users of the Services and/or the Platform;
-* acts intended to interrupt, suspend, slow down or prevent the continuity of the Services and/or the Platform;
-* intrusion or attempted intrusion into SCALINGO's systems;
-* breach of security and authentication measures;
-* creation of multiple accounts in order to circumvent the limits of the free trial;
-* any act likely to infringe the rights and interests of SCALINGO or the Users of its Services and/or Platform.
-* and more generally any practice that hijacks the Platform for purposes other than those for which it was designed, including in particular, the mining of cryptocurrencies.
+*   carrying out illegal, discriminatory, fraudulent actions or actions that infringe the rights or safety of third parties;
+*   uploading or distributing illicit or infringing content;
+*   uploading or installing on the Platform malicious software, spyware, viruses, worms, Trojan horses or similar harmful code ;
+*   accessing, extracting Data from other users of the Services and/or the Platform;
+*   acts intended to interrupt, suspend, slow down or prevent the continuity of the Services and/or the Platform;
+*   intrusion or attempted intrusion into SCALINGO's systems;
+*   breach of security and authentication measures;
+*   creation of multiple accounts in order to circumvent the limits of the free trial;
+*   any act likely to infringe the rights and interests of SCALINGO or the Users of its Services and/or Platform.
+*   and more generally any practice that hijacks the Platform for purposes other than those for which it was designed, including in particular, the mining of cryptocurrencies.
 
 SCALINGO may terminate the User's access to the Platform in the event of non-compliance with this article, without prejudice to any damages that SCALINGO may seek.
 
