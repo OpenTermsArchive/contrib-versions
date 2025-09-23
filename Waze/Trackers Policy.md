@@ -6,9 +6,9 @@ This policy explains how Waze Mobile Limited and its affiliates (“Waze”) use
 WHAT ARE COOKIES?
 -----------------
 
-* **A cookie** is a small piece of text sent to your browser by a website you visit. It helps the website to remember information about your visit, like your preferred language and other settings. That can make your next visit easier and the site more useful to you. Cookies play an important role. Without them, using the web would be a much more frustrating experience.
-* **A pixel tag** is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened. Pixel tags are often used in combination with cookies.
-* **Single Sign-on** allows you to sign in to certain of websites or mobile applications using sign-in services provided by third parties, such as Google. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our [sign-up form](https://www.waze.com/signin?redirect=%2F).
+*   **A cookie** is a small piece of text sent to your browser by a website you visit. It helps the website to remember information about your visit, like your preferred language and other settings. That can make your next visit easier and the site more useful to you. Cookies play an important role. Without them, using the web would be a much more frustrating experience.
+*   **A pixel tag** is a type of technology placed on a website or within the body of an email for the purpose of tracking certain activity, such as views of a website or when an email is opened. Pixel tags are often used in combination with cookies.
+*   **Single Sign-on** allows you to sign in to certain of websites or mobile applications using sign-in services provided by third parties, such as Google. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our [sign-up form](https://www.waze.com/signin?redirect=%2F).
 
 HOW WE USE COOKIES?
 -------------------
@@ -44,17 +44,17 @@ Google Analytics is Google’s analytics tool that helps website and app owners 
 YOUR CHOICES
 ------------
 
-* Please note that some cookies, such as Processes cookies, are essential to operate our website and without these cookies, the website cannot function properly.
+*   Please note that some cookies, such as Processes cookies, are essential to operate our website and without these cookies, the website cannot function properly.
     
-* Some browsers limit or delete cookies, so you may want to review your cookie settings and [ads settings](https://adssettings.google.com/). In some browsers you can set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy. This means that you can disallow cookies from all sites except those that you trust.
+*   Some browsers limit or delete cookies, so you may want to review your cookie settings and [ads settings](https://adssettings.google.com/). In some browsers you can set up rules to manage cookies on a site-by-site basis, giving you more fine-grained control over your privacy. This means that you can disallow cookies from all sites except those that you trust.
     
-* If you use Google Chrome browser, you can use the “Clear Browsing Data” option included in Tools menu to delete cookies and other site and plug-in data, including data stored on your device by the Adobe Flash Player (commonly known as Flash cookies). See [instructions for managing cookies in Chrome](https://support.google.com/chrome/answer/95647).
+*   If you use Google Chrome browser, you can use the “Clear Browsing Data” option included in Tools menu to delete cookies and other site and plug-in data, including data stored on your device by the Adobe Flash Player (commonly known as Flash cookies). See [instructions for managing cookies in Chrome](https://support.google.com/chrome/answer/95647).
     
-* Another feature of Chrome is its [incognito mode](https://support.google.com/chrome/answer/95464). You can browse in incognito mode when you don’t want your website visits or downloads to be recorded in your browsing and download histories. Any cookies created while in incognito mode are deleted after you close all incognito windows.
+*   Another feature of Chrome is its [incognito mode](https://support.google.com/chrome/answer/95464). You can browse in incognito mode when you don’t want your website visits or downloads to be recorded in your browsing and download histories. Any cookies created while in incognito mode are deleted after you close all incognito windows.
     
-* You can also manage many companies’ cookies used for online advertising via the consumer choice tools created under self-regulation programmes in many countries, such as the US-based [aboutads.info choices](https://www.aboutads.info/choices) page or the EU-based [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices).
+*   You can also manage many companies’ cookies used for online advertising via the consumer choice tools created under self-regulation programmes in many countries, such as the US-based [aboutads.info choices](https://www.aboutads.info/choices) page or the EU-based [Your Online Choices](http://www.youronlinechoices.com/uk/your-ad-choices).
     
-* Finally, you can [manage cookies in your web browser](https://policies.google.com/technologies/managing).
+*   Finally, you can [manage cookies in your web browser](https://policies.google.com/technologies/managing).
     
 
 CHANGES TO THIS COOKIE POLICY
