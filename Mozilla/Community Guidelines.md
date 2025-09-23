@@ -8,23 +8,23 @@ The heart of Mozilla is people. We put people first and do our best to recognize
 
 These guidelines aim to support a community where all people should feel safe to participate, introduce new ideas and inspire others, regardless of:
 
-* Background
-* Family status
-* Gender
-* Gender identity or expression
-* Marital status
-* Sex
-* Sexual orientation
-* Native language
-* Age
-* Ability
-* Race and/or ethnicity
-* Caste
-* National origin
-* Socioeconomic status
-* Religion
-* Geographic location
-* Any other dimension of diversity
+*   Background
+*   Family status
+*   Gender
+*   Gender identity or expression
+*   Marital status
+*   Sex
+*   Sexual orientation
+*   Native language
+*   Age
+*   Ability
+*   Race and/or ethnicity
+*   Caste
+*   National origin
+*   Socioeconomic status
+*   Religion
+*   Geographic location
+*   Any other dimension of diversity
 
 Openness, collaboration and participation are core aspects of our work — from development on Firefox to collaboratively designing curriculum. We gain strength from diversity and actively seek participation from those who enhance it. These guidelines exist to enable diverse individuals and groups to interact and collaborate to mutual advantage. This document outlines both expected and prohibited behavior.
 
@@ -33,12 +33,12 @@ When and How to Use These Guidelines
 
 These guidelines outline our behavior expectations as members of the Mozilla community in all Mozilla activities, both offline and online. Your participation is contingent upon following these guidelines in all Mozilla activities, including but not limited to:
 
-* Working in Mozilla spaces.
-* Working with other Mozillians and other Mozilla community participants virtually or co-located.
-* Representing Mozilla at public events.
-* Representing Mozilla in social media (official accounts, staff accounts, personal accounts, Facebook pages).
-* Participating in Mozilla offsites and trainings.
-* Participating in Mozilla-related forums, mailing lists, wikis, websites, chat channels, bugs, group or person-to-person meetings, and Mozilla-related correspondence.
+*   Working in Mozilla spaces.
+*   Working with other Mozillians and other Mozilla community participants virtually or co-located.
+*   Representing Mozilla at public events.
+*   Representing Mozilla in social media (official accounts, staff accounts, personal accounts, Facebook pages).
+*   Participating in Mozilla offsites and trainings.
+*   Participating in Mozilla-related forums, mailing lists, wikis, websites, chat channels, bugs, group or person-to-person meetings, and Mozilla-related correspondence.
 
 These guidelines work in conjunction with our Anti-Harassment/Discrimination Policies[\[1\]](#note-1), which sets out protections for, and obligations of, Mozilla employees. The Anti-Harassment/Discrimination Policy is crafted with specific legal definitions and requirements in mind.
 
@@ -63,12 +63,12 @@ Seek diverse perspectives. Diversity of views and of people on teams powers inno
 
 Be inclusive of everyone in an interaction, respecting and facilitating people’s participation whether they are:
 
-* Remote (on video or phone)
-* Not native language speakers
-* Coming from a different culture
-* Using pronouns other than “he” or “she”
-* Living in a different time zone
-* Facing other challenges to participate
+*   Remote (on video or phone)
+*   Not native language speakers
+*   Coming from a different culture
+*   Using pronouns other than “he” or “she”
+*   Living in a different time zone
+*   Facing other challenges to participate
 
 Think about how you might facilitate alternative ways to contribute or participate. If you find yourself dominating a discussion, step back. Make way for other voices and listen actively to them.
 
@@ -101,23 +101,23 @@ Conflicts will inevitably arise, but frustration should never turn into a person
 
 Hurtful or harmful language related to:
 
-* Background
-* Family status
-* Gender
-* Gender identity or expression
-* Marital status
-* Sex
-* Sexual orientation
-* Native language
-* Age
-* Ability
-* Race and/or ethnicity
-* Caste
-* National origin
-* Socioeconomic status
-* Religion
-* Geographic location
-* Other attributes
+*   Background
+*   Family status
+*   Gender
+*   Gender identity or expression
+*   Marital status
+*   Sex
+*   Sexual orientation
+*   Native language
+*   Age
+*   Ability
+*   Race and/or ethnicity
+*   Caste
+*   National origin
+*   Socioeconomic status
+*   Religion
+*   Geographic location
+*   Other attributes
 
 is not acceptable. This includes deliberately referring to someone by a gender that they do not identify with, and/or questioning the legitimacy of an individual’s gender identity. If you’re unsure if a word is derogatory, don’t use it. This also includes repeated subtle and/or indirect discrimination; when asked to stop, stop the behavior in question.
 
@@ -129,10 +129,10 @@ Unwelcome sexual attention or unwelcome physical contact is not acceptable. This
 
 Sustained disruption of events, forums, or meetings, including talks and presentations, will not be tolerated. This includes:
 
-* ‘Talking over’ or ‘heckling’ speakers.
-* Drinking alcohol to excess or using recreational drugs to excess, or pushing others to do so.
-* Making derogatory comments about those who abstain from alcohol or other substances, pushing people to drink, talking about their abstinence or preferences to others, or pressuring them to drink - physically or through jeering.
-* Otherwise influencing crowd actions that cause hostility in the session.
+*   ‘Talking over’ or ‘heckling’ speakers.
+*   Drinking alcohol to excess or using recreational drugs to excess, or pushing others to do so.
+*   Making derogatory comments about those who abstain from alcohol or other substances, pushing people to drink, talking about their abstinence or preferences to others, or pressuring them to drink - physically or through jeering.
+*   Otherwise influencing crowd actions that cause hostility in the session.
 
 ### Influencing Unacceptable Behavior
 
@@ -158,8 +158,8 @@ If you believe you’re experiencing unacceptable behavior that will not be tole
 
 After receiving a concise description of your situation, they will review and determine the next steps. In addition to conducting any investigation, they can provide a range of resources, from a private consultation to other community resources. They will involve other colleagues or outside specialists (such as legal counsel), as needed to appropriately address each situation.
 
-* Additional Resources: [How to Report](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/)
-* Questions: [cpg-questions@mozilla.com](mailto:cpg-questions@mozilla.com)
+*   Additional Resources: [How to Report](https://www.mozilla.org/en-US/about/governance/policies/participation/reporting/)
+*   Questions: [cpg-questions@mozilla.com](mailto:cpg-questions@mozilla.com)
 
 Please also report to us if you observe a potentially dangerous situation, someone in distress, or violations of these guidelines, even if the situation is not happening to you.
 
