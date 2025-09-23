@@ -20,7 +20,7 @@ This Policy applies to your use of the Service if you are a residential Xfinity 
 
 Comcast may revise this Policy from time to time by posting a new version on the website at [https://www.xfinity.com/](https://www.xfinity.com/) or any successor URL(s) (the “Xfinity Website”). Comcast will use reasonable efforts to make customers aware of any changes to this Policy, which may include sending email announcements or posting information on the Xfinity Website. Revised versions of this Policy are effective immediately upon posting. Accordingly, customers of the Service should read any Comcast announcements they receive and regularly visit the Xfinity Website and review this Policy to ensure that their activities conform to the most recent version. You can send questions regarding this Policy to, and report violations of it, at [https://www.xfinity.com/support/account/ways-to-get-help](https://www.xfinity.com/support/account/ways-to-get-help). To report child exploitation or another child-related incident involving the Internet, go to [https://internetsecurity.xfinity.com/help/report-abuse](https://internetsecurity.xfinity.com/help/report-abuse).
 
-1. **1\. Prohibited Uses and Activities**
+1.  **1\. Prohibited Uses and Activities**
     --------------------------------------
     
     ### **What uses and activities does Comcast prohibit?**
@@ -29,69 +29,69 @@ Comcast may revise this Policy from time to time by posting a new version on the
     
     #### **CONDUCT AND INFORMATION RESTRICTIONS**
     
-    * undertake or accomplish any unlawful purpose. This includes, but is not limited to, posting, storing, transmitting or disseminating information, data or material which is libelous, obscene, unlawful, threatening or defamatory, or which infringes the intellectual property rights of any person or entity, or which in any way constitutes or encourages conduct that would constitute a criminal offense, or otherwise violate any local, state, federal, or non-U.S. law, order, or regulation;
+    *   undertake or accomplish any unlawful purpose. This includes, but is not limited to, posting, storing, transmitting or disseminating information, data or material which is libelous, obscene, unlawful, threatening or defamatory, or which infringes the intellectual property rights of any person or entity, or which in any way constitutes or encourages conduct that would constitute a criminal offense, or otherwise violate any local, state, federal, or non-U.S. law, order, or regulation;
         
-    * post, store, send, transmit, or disseminate any information or material which a reasonable person could deem to be unlawful;
+    *   post, store, send, transmit, or disseminate any information or material which a reasonable person could deem to be unlawful;
         
-    * upload, post, publish, transmit, reproduce, create derivative works of, or distribute in any way information, software or other material obtained through the Service or otherwise that is protected by copyright or other proprietary right, without obtaining any required permission of the owner;
+    *   upload, post, publish, transmit, reproduce, create derivative works of, or distribute in any way information, software or other material obtained through the Service or otherwise that is protected by copyright or other proprietary right, without obtaining any required permission of the owner;
         
-    * transmit unsolicited bulk or commercial messages commonly known as “spam;”
+    *   transmit unsolicited bulk or commercial messages commonly known as “spam;”
         
-    * send very large numbers of copies of the same or substantially similar messages, empty messages, or messages which contain no substantive content, or send very large messages or files that disrupts a server, account, blog, newsgroup, chat, or similar service;
+    *   send very large numbers of copies of the same or substantially similar messages, empty messages, or messages which contain no substantive content, or send very large messages or files that disrupts a server, account, blog, newsgroup, chat, or similar service;
         
-    * initiate, perpetuate, or in any way participate in any pyramid or other illegal scheme;
+    *   initiate, perpetuate, or in any way participate in any pyramid or other illegal scheme;
         
-    * participate in the collection of very large numbers of email addresses, screen names, or other identifiers of others (without their prior consent), a practice sometimes known as spidering or harvesting, or participate in the use of software (including “spyware”) designed to facilitate this activity;
+    *   participate in the collection of very large numbers of email addresses, screen names, or other identifiers of others (without their prior consent), a practice sometimes known as spidering or harvesting, or participate in the use of software (including “spyware”) designed to facilitate this activity;
         
-    * collect responses from unsolicited bulk messages;
+    *   collect responses from unsolicited bulk messages;
         
-    * falsify, alter, or remove message headers;
+    *   falsify, alter, or remove message headers;
         
-    * falsify references to Comcast or its network, by name or other identifier, in messages;
+    *   falsify references to Comcast or its network, by name or other identifier, in messages;
         
-    * impersonate any person or entity, engage in sender address falsification, forge anyone else’s digital or manual signature, or perform any other similar fraudulent activity (for example, “phishing”);
+    *   impersonate any person or entity, engage in sender address falsification, forge anyone else’s digital or manual signature, or perform any other similar fraudulent activity (for example, “phishing”);
         
-    * violate the rules, regulations, terms of service, or policies applicable to any network, server, computer database, service, application, system, or website that you access or use;
+    *   violate the rules, regulations, terms of service, or policies applicable to any network, server, computer database, service, application, system, or website that you access or use;
         
     
     #### **TECHNICAL RESTRICTIONS**
     
-    * access any other person’s computer or computer system, device, sensor, camera, network, software, or data without his or her knowledge and consent; breach the security of another user or system; or attempt to circumvent the user authentication or security of any host, network, or account. This includes, but is not limited to, accessing data not intended for you, logging into or making use of a server or account you are not expressly authorized to access, or probing the security of other hosts, networks, or accounts without express permission to do so;
+    *   access any other person’s computer or computer system, device, sensor, camera, network, software, or data without his or her knowledge and consent; breach the security of another user or system; or attempt to circumvent the user authentication or security of any host, network, or account. This includes, but is not limited to, accessing data not intended for you, logging into or making use of a server or account you are not expressly authorized to access, or probing the security of other hosts, networks, or accounts without express permission to do so;
         
-    * use or distribute tools or devices designed or used for compromising security or whose use is otherwise unauthorized, such as password guessing programs, decoders, password gatherers, keystroke loggers, analyzers, cracking tools, packet sniffers, encryption circumvention devices, or Trojan Horse programs. Unauthorized port scanning is strictly prohibited;
+    *   use or distribute tools or devices designed or used for compromising security or whose use is otherwise unauthorized, such as password guessing programs, decoders, password gatherers, keystroke loggers, analyzers, cracking tools, packet sniffers, encryption circumvention devices, or Trojan Horse programs. Unauthorized port scanning is strictly prohibited;
         
-    * copy, distribute, or sublicense any proprietary software provided in connection with the Service by Comcast or any third party, except that you may make one copy of each software program for back-up purposes only;
+    *   copy, distribute, or sublicense any proprietary software provided in connection with the Service by Comcast or any third party, except that you may make one copy of each software program for back-up purposes only;
         
-    * distribute programs that make unauthorized changes to software (cracks);
+    *   distribute programs that make unauthorized changes to software (cracks);
         
-    * use or run dedicated, stand-alone equipment or servers from the Premises that provide network content or any other services to anyone outside of your Premises local area network (“Premises LAN”), also commonly referred to as public services or servers. Examples of prohibited equipment and servers include, but are not limited to, email, web hosting, file sharing, and proxy services and servers;
+    *   use or run dedicated, stand-alone equipment or servers from the Premises that provide network content or any other services to anyone outside of your Premises local area network (“Premises LAN”), also commonly referred to as public services or servers. Examples of prohibited equipment and servers include, but are not limited to, email, web hosting, file sharing, and proxy services and servers;
         
-    * use or run programs, devices, or equipment from the Premises that provide network content or any other services to anyone outside of your Premises LAN, except for your personal and non-commercial residential use;
+    *   use or run programs, devices, or equipment from the Premises that provide network content or any other services to anyone outside of your Premises LAN, except for your personal and non-commercial residential use;
         
-    * service, alter, modify, or tamper with the Comcast Equipment or Service or permit any other person to do the same who is not authorized by Comcast;
+    *   service, alter, modify, or tamper with the Comcast Equipment or Service or permit any other person to do the same who is not authorized by Comcast;
         
     
     #### **NETWORK AND USAGE RESTRICTIONS**
     
-    * use the Service for any purpose other than personal and non-commercial residential use (except for your individual use for telecommuting);
+    *   use the Service for any purpose other than personal and non-commercial residential use (except for your individual use for telecommuting);
         
-    * use the Service for operation as an Internet service provider or for any business, other legal entity, or organization purpose (whether or not for profit);
+    *   use the Service for operation as an Internet service provider or for any business, other legal entity, or organization purpose (whether or not for profit);
         
-    * restrict, inhibit, or otherwise interfere, regardless of intent, purpose or knowledge, with the ability of any other person to use or enjoy the Service (except for tools for safety and security functions such as parental controls, for example), including, without limitation, posting or transmitting any information or software which contains a worm, virus, or other harmful feature, or
+    *   restrict, inhibit, or otherwise interfere, regardless of intent, purpose or knowledge, with the ability of any other person to use or enjoy the Service (except for tools for safety and security functions such as parental controls, for example), including, without limitation, posting or transmitting any information or software which contains a worm, virus, or other harmful feature, or
         
-    * impede others’ ability to use, send, or retrieve information using the Service;
+    *   impede others’ ability to use, send, or retrieve information using the Service;
         
-    * restrict, inhibit, interfere with, or otherwise disrupt or cause a performance degradation, regardless of intent, purpose or knowledge, to the Service or any Comcast (or Comcast supplier) host, server, backbone network, node or service, or otherwise cause a performance degradation to any Comcast (or Comcast supplier) facilities used to deliver the Service;
+    *   restrict, inhibit, interfere with, or otherwise disrupt or cause a performance degradation, regardless of intent, purpose or knowledge, to the Service or any Comcast (or Comcast supplier) host, server, backbone network, node or service, or otherwise cause a performance degradation to any Comcast (or Comcast supplier) facilities used to deliver the Service;
         
-    * resell the Service or otherwise make available to anyone outside the Premises the ability to use the Service (for example, through WiFi or other methods of networking), in whole or in part, directly or indirectly, with the sole exception of your use of Comcast-provided WiFi service in accordance with its then-current terms and policies;
+    *   resell the Service or otherwise make available to anyone outside the Premises the ability to use the Service (for example, through WiFi or other methods of networking), in whole or in part, directly or indirectly, with the sole exception of your use of Comcast-provided WiFi service in accordance with its then-current terms and policies;
         
-    * connect the Comcast Equipment to any computer or device outside of your Premises;
+    *   connect the Comcast Equipment to any computer or device outside of your Premises;
         
-    * interfere with computer networking or telecommunications service to any user, host or network, including, without limitation, denial of service attacks, flooding of a network, overloading a service, improper seizing and abusing operator privileges, and attempts to “crash” a host; or
+    *   interfere with computer networking or telecommunications service to any user, host or network, including, without limitation, denial of service attacks, flooding of a network, overloading a service, improper seizing and abusing operator privileges, and attempts to “crash” a host; or
         
-    * access and use the Service with anything other than a dynamic Internet Protocol (“IP”) address that adheres to the dynamic host configuration protocol (“DHCP”). You may not configure the Service or any related equipment to access or use a static IP address or use any protocol other than DHCP unless you are subject to a Service plan that expressly permits you to do so.
+    *   access and use the Service with anything other than a dynamic Internet Protocol (“IP”) address that adheres to the dynamic host configuration protocol (“DHCP”). You may not configure the Service or any related equipment to access or use a static IP address or use any protocol other than DHCP unless you are subject to a Service plan that expressly permits you to do so.
         
-2. **2\. Customer Conduct and Features of the Service**
+2.  **2\. Customer Conduct and Features of the Service**
     ----------------------------------------------------
     
     ### **What obligations do I have under this Policy?**
@@ -114,7 +114,7 @@ Comcast may revise this Policy from time to time by posting a new version on the
     
     If Comcast believes in its sole discretion that any subscriber name, account name, or email address (collectively, an “identifier”) on the Service may be used for, or is being used for, any misleading, fraudulent, or other improper or illegal purpose, Comcast (i) reserves the right to block access to and prevent the use of any of these identifiers and (ii) may at any time require any customer to change his or her identifier. In addition, Comcast may at any time reserve any identifiers on the Service for its own purposes.
     
-3. **3\. Network Management**
+3.  **3\. Network Management**
     --------------------------
     
     ### **Why does Comcast manage its network?**
@@ -127,14 +127,14 @@ Comcast may revise this Policy from time to time by posting a new version on the
     
     Comcast uses various tools and techniques to manage its network, deliver the Service, and ensure compliance with this Policy and the Subscriber Agreement. These tools and techniques are dynamic, like the network and its usage, and can and do change frequently. For example, these network management activities may include (i) identifying spam and preventing its delivery to customer email accounts, (ii) detecting malicious Internet traffic and preventing the distribution of viruses or other harmful code or content, (iii) temporarily lowering the priority of traffic for users who are the top contributors to current network congestion, and (iv) using other tools and techniques that Comcast may be required to implement in order to meet its goal of delivering the best possible broadband Internet experience to all of its customers.
     
-4. **4\. Data Consumption**
+4.  **4\. Data Consumption**
     ------------------------
     
     ### **What data consumption requirements apply to the Service?**
     
     Comcast applies a monthly data consumption threshold to Xfinity Internet accounts. The company retains the right to trial or adopt a different data consumption threshold or other usage plan for the Service at any time. If we do this we will notify customers and, if necessary, post an updated version of this Policy. You can learn about the data plan that applies in your area by going to [https://dataplan.xfinity.com/](https://dataplan.xfinity.com/). You can view your current data usage at any time by signing into your account on xfinity.com and viewing the data usage meter at [https://customer.xfinity.com/MyServices/Internet/UsageMeter/](https://customer.xfinity.com/#/devices). You can also use the Xfinity app to view your data usage.
     
-5. **5\. Violation of this Acceptable Use Policy**
+5.  **5\. Violation of this Acceptable Use Policy**
     -----------------------------------------------
     
     ### **What happens if you violate this Policy?**
@@ -147,7 +147,7 @@ Comcast may revise this Policy from time to time by posting a new version on the
     
     Comcast reserves the right to investigate suspected violations of this Policy, including the gathering of information from the user or users involved and the complaining party, if any, and examination of material and data on Comcast’s servers and network. During an investigation, Comcast may suspend the account or accounts involved and/or remove or block material that potentially violates this Policy. You expressly authorize and consent to Comcast and its suppliers cooperating with (i) law enforcement authorities in the investigation of suspected legal violations, and (ii) and system administrators at other Internet service providers or other network or computing facilities in order to enforce this Policy. Upon termination of your Service account, Comcast is authorized to delete any files, programs, data, email and other messages associated with your account (and any secondary accounts).
     
-6. **6\. Copyright**
+6.  **6\. Copyright**
     -----------------
     
     ### **What is Comcast’s DMCA policy?**
