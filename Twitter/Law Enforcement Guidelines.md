@@ -61,10 +61,10 @@ Where legally appropriate, we accept requests from law enforcement to preserve r
 
 Preservation requests, in accordance with applicable law, should:
 
-* be signed by the requesting official;
-* have a valid return official email address;
-* be sent on law enforcement letterhead in a non-editable format;
-* include the @username and URL of the subject X profile (e.g. [https://x.com/safety](https://twitter.com/Safety) (@safety), and/or the X account's unique, public user identification number (UID) or a Periscope username and URL. To locate a X UID see [here](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support#5.7) or to locate a Periscope username see [here](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support#5.7).  
+*   be signed by the requesting official;
+*   have a valid return official email address;
+*   be sent on law enforcement letterhead in a non-editable format;
+*   include the @username and URL of the subject X profile (e.g. [https://x.com/safety](https://twitter.com/Safety) (@safety), and/or the X account's unique, public user identification number (UID) or a Periscope username and URL. To locate a X UID see [here](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support#5.7) or to locate a Periscope username see [here](https://help.twitter.com/en/rules-and-policies/twitter-law-enforcement-support#5.7).  
      
 
 We may honor requests for extensions of preservation requests, but encourage law enforcement agencies to seek records through the appropriate channels in a timely manner, as we cannot guarantee that requested information will be available.
@@ -94,12 +94,12 @@ Yes. For purposes of [transparency and due process](https://help.twitter.com/en/
 
 Requests for user account information in accordance with applicable law, are required to include the following information:
 
-* Include the X @username and URL of the subject X account in question (e.g., [https://x.com/Safety](https://twitter.com/TwitterSafety) (@Safety) or an account's unique, public user identification number or UID;
-* And/or include the valid Periscope username and URL. Find instructions on [locating a Periscope username](https://help.twitter.com/en/rules-and-policies/twitter-report-violation#periscope-info) here;
-* Provide details about what specific information is requested (e.g., basic subscriber information) and its relationship to your investigation;
-    * **NOTE**: Please ensure that the information you seek is not publicly available (e.g., posts that are not protected). We are unable to process overly broad or vague requests.
-* Include a **valid official email address** (e.g., name@agency.gov) so we may get back in touch with you upon receipt of your legal process;
-* Be issued on law enforcement letterhead.  
+*   Include the X @username and URL of the subject X account in question (e.g., [https://x.com/Safety](https://twitter.com/TwitterSafety) (@Safety) or an account's unique, public user identification number or UID;
+*   And/or include the valid Periscope username and URL. Find instructions on [locating a Periscope username](https://help.twitter.com/en/rules-and-policies/twitter-report-violation#periscope-info) here;
+*   Provide details about what specific information is requested (e.g., basic subscriber information) and its relationship to your investigation;
+    *   **NOTE**: Please ensure that the information you seek is not publicly available (e.g., posts that are not protected). We are unable to process overly broad or vague requests.
+*   Include a **valid official email address** (e.g., name@agency.gov) so we may get back in touch with you upon receipt of your legal process;
+*   Be issued on law enforcement letterhead.  
      
 
 Law enforcement and government requests for user information may be submitted through our Legal Request Submissions site (https://t.co/lr or [https://legalrequests.x.com](https://legalrequests.twitter.com/forms/landing_disclaimer)). You can find further instructions below.
@@ -130,15 +130,15 @@ If there is an exigent emergency that involves the danger of death or serious ph
 
 Please include all of the following information:
 
-* Indication on your cover sheet, which must be on law enforcement letterhead, that you're submitting an Emergency Disclosure Request;  
+*   Indication on your cover sheet, which must be on law enforcement letterhead, that you're submitting an Emergency Disclosure Request;  
     
-* Identity of the person who is in danger of death or serious physical injury;
-* The nature of the emergency (e.g., report of suicide, terrorist attack, bomb threat);
-* X @username and URL (e.g., [https://x.com/Safety](https://twitter.com/Safety) (@Safety) of the subject account(s) whose information is necessary to prevent the emergency;
-* Any [specific posts](https://help.twitter.com/en/using-twitter/tweet-and-moment-url) you would like us to review;
-* The specific information requested and why that information is necessary to prevent the emergency;
-* The signature of the submitting law enforcement officer; and
-* All other available details or context regarding the particular circumstances.
+*   Identity of the person who is in danger of death or serious physical injury;
+*   The nature of the emergency (e.g., report of suicide, terrorist attack, bomb threat);
+*   X @username and URL (e.g., [https://x.com/Safety](https://twitter.com/Safety) (@Safety) of the subject account(s) whose information is necessary to prevent the emergency;
+*   Any [specific posts](https://help.twitter.com/en/using-twitter/tweet-and-moment-url) you would like us to review;
+*   The specific information requested and why that information is necessary to prevent the emergency;
+*   The signature of the submitting law enforcement officer; and
+*   All other available details or context regarding the particular circumstances.
 
 ### Mutual legal assistance treaties  
 
