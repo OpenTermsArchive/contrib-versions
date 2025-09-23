@@ -15,9 +15,9 @@ Be sure to check back from time to time, as these policies may change.
 
 If you believe an account has violated our Program Policies, there are multiple ways to report it:
 
-* For general abuse use [this form](https://support.google.com/mail/contact/abuse?rd=1)
-* For child grooming use [this form](https://support.google.com/families/contact/report_child_grooming)
-* For copyright violations use [this form](https://support.google.com/legal/contact/lr_dmca?product=gmail)
+*   For general abuse use [this form](https://support.google.com/mail/contact/abuse?rd=1)
+*   For child grooming use [this form](https://support.google.com/families/contact/report_child_grooming)
+*   For copyright violations use [this form](https://support.google.com/legal/contact/lr_dmca?product=gmail)
 
 Make sure to read the policies below to understand how we define abusive behavior. Google may disable accounts that are found to be in violation of our policies. If your account is disabled, and you believe it was a mistake, please follow the instructions on this page.
 
