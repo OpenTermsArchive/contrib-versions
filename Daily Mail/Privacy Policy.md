@@ -100,12 +100,12 @@ We use plugins from social media networks and other platforms on our websites, t
 
 When you consent to receiving pop-up browser notifications from one of our websites, we collect the following information:
 
-* the URL of the page you were on when you were subscribed;
-* your country code;
-* your device type;
-* your browser name and version;
-* whether the notification was shown to you; and
-* the topics of the notification you have clicked on or interacted with.
+*   the URL of the page you were on when you were subscribed;
+*   your country code;
+*   your device type;
+*   your browser name and version;
+*   whether the notification was shown to you; and
+*   the topics of the notification you have clicked on or interacted with.
 
 #### Information about other people
 
@@ -125,9 +125,9 @@ We rely on the following legal bases to process your personal data under the UK 
 
 Examples of our legitimate interests processing activities include:
 
-* supporting a free press and individual and societal rights to receive information;
-* developing, delivering and maintaining relevant and engaging products services and advertising; and
-* understanding who our audiences are in order to improve our content and services.
+*   supporting a free press and individual and societal rights to receive information;
+*   developing, delivering and maintaining relevant and engaging products services and advertising; and
+*   understanding who our audiences are in order to improve our content and services.
 
 ### 5\. How we may use your information
 
@@ -157,19 +157,19 @@ We monitor comments and any other content that you post via our comment services
 
 By using our websites, apps and other products and services, we may process your information, including your name, phone number and email address, for the purpose of providing you with such products and services and managing our relationship with you, which shall include (without limitation):
 
-* carrying out ecommerce activities;
-* managing your accounts, entitlements and subscriptions;
-* communicating with you in relation to your account or service, service updates or other non-marketing communications;
-* delivering customer services and support;
-* contacting you when a checkout journey is not completed if you have provided your information;
-* dealing with and responding to you about a comment you have submitted on our message boards or other such user generated content facilities;
-* ensuring the integrity of votes, competitions and polls;
-* maintaining records of our communications with you if you get in contact with us; and
-* responding to press complaints submitted both direct to us and via the [Independent Press Standards Organisation (IPSO)](https://www.ipso.co.uk/).
+*   carrying out ecommerce activities;
+*   managing your accounts, entitlements and subscriptions;
+*   communicating with you in relation to your account or service, service updates or other non-marketing communications;
+*   delivering customer services and support;
+*   contacting you when a checkout journey is not completed if you have provided your information;
+*   dealing with and responding to you about a comment you have submitted on our message boards or other such user generated content facilities;
+*   ensuring the integrity of votes, competitions and polls;
+*   maintaining records of our communications with you if you get in contact with us; and
+*   responding to press complaints submitted both direct to us and via the [Independent Press Standards Organisation (IPSO)](https://www.ipso.co.uk/).
 
 ##### Legal basis for these processing activities: Consent (if requested) or legitimate interests or contract
 
-* running competitions effectively and informing you if you have been successful in any competitions or promotions.
+*   running competitions effectively and informing you if you have been successful in any competitions or promotions.
 
 ##### Legal basis for this processing activity: Contract or legal obligation
 
@@ -281,9 +281,9 @@ We collect information via online survey units (Pulse Poll) and via our online r
 
 We may use your information to monitor and improve our products, content and services. This may include (without limitation):
 
-* developing the design and style of our products and services to make improvements;
-* carrying out statistical, technical and logistical analysis to inform our strategic development; and
-* blocking disruptive use and ensuring the security of our products and services.
+*   developing the design and style of our products and services to make improvements;
+*   carrying out statistical, technical and logistical analysis to inform our strategic development; and
+*   blocking disruptive use and ensuring the security of our products and services.
 
 If you have registered on our websites or apps, we may analyse the information we hold on you in aggregate with our other customers to improve our advertising systems.
 
@@ -369,10 +369,10 @@ Facebook is primarily responsible for the data processing when you visit one of 
 
 For further information from Facebook about:
 
-* Page Insights and how to exercise your rights, please see [here](https://www.facebook.com/legal/terms/information_about_page_insights_data);
-* the determination of the responsibilities within this joint controller relationship please see [here](https://www.facebook.com/legal/terms/page_controller_addendum);
-* the placement of cookies by Facebook when visiting a Facebook Fan Page, please see [here](https://www.facebook.com/policies/cookies/); and
-* protecting your privacy at Facebook, please see [here](https://www.facebook.com/privacy/explanation).
+*   Page Insights and how to exercise your rights, please see [here](https://www.facebook.com/legal/terms/information_about_page_insights_data);
+*   the determination of the responsibilities within this joint controller relationship please see [here](https://www.facebook.com/legal/terms/page_controller_addendum);
+*   the placement of cookies by Facebook when visiting a Facebook Fan Page, please see [here](https://www.facebook.com/policies/cookies/); and
+*   protecting your privacy at Facebook, please see [here](https://www.facebook.com/privacy/explanation).
 
 ##### Legal basis for processing this data: Legitimate interests
 
@@ -430,16 +430,16 @@ We sometimes work with other organisations and process data collected by them as
 
 You have certain rights in relation to the personal data we hold about you. These rights include the right: (i) to obtain copies of your personal data; (ii) to have your personal data corrected or deleted; (iii) to limit the way in which your personal data is used; (iv) to object to our use of your personal data; (v) to transfer your personal data; (vi) not to be subject to decisions based on automated processing (including profiling); and (vii) to complain to a supervisory authority.
 
-* **Access:** If you wish to exercise your right to access a free copy of your data, you can contact us, or our joint controllers, at the contact details provided below at Section 18.
-* **Portability:** If you wish to receive personal data that you have provided to us in a structured, commonly used and machine-readable format, or transmit this data directly to another controller, please contact us, or our joint controllers, at the contact details provided below. Please note that this right applies only to the information that is processed by automated means, on the basis of consent or performance of a contract.
-* **Deletion:** To ask us to delete your personal data, please contact us, or our joint controllers, at the contact details provided below. However, there may be circumstances where we are legally entitled to retain certain data.
-* **Rectification**: If you wish to update or rectify your data, you can do this directly by accessing your account settings.
-* **Restriction:** To request the restriction or suppression of your personal data, please contact us, or our joint controllers, at the contact details provided below.
-* **Revoke consent for direct marketing:** : If you wish to object to the processing of your data for direct marketing, you can opt-out by updating your settings or clicking on the ‘unsubscribe’ link in any marketing email or newsletter you receive from us.
-* **Opt-out of online behavioural advertising:** You are able to control whether we and our partners may use your information for online behavioural advertising related purposes when you visit our websites via our Consent Management Platform that appears when you first visit our sites, or by going to the [Privacy Settings](#).
-* **Objection to automated profiling:** If you wish to opt-out of having your personal information profiled for personalisation purposes, you can adjust your account settings or contact us directly at the contact details provided below.
-* **Objection to legitimate interests:** If you wish to object to our processing of your data where we are pursuing our legitimate interests or those of a third party, please contact us, or our joint controllers, at the contact details provided below stating the nature of and reasons for such objection.
-* **Complain:** You also have the right to lodge a complaint about us with your local supervisory authority, for example the [Information Commissioner’s Office](https://ico.org.uk/) in the UK.
+*   **Access:** If you wish to exercise your right to access a free copy of your data, you can contact us, or our joint controllers, at the contact details provided below at Section 18.
+*   **Portability:** If you wish to receive personal data that you have provided to us in a structured, commonly used and machine-readable format, or transmit this data directly to another controller, please contact us, or our joint controllers, at the contact details provided below. Please note that this right applies only to the information that is processed by automated means, on the basis of consent or performance of a contract.
+*   **Deletion:** To ask us to delete your personal data, please contact us, or our joint controllers, at the contact details provided below. However, there may be circumstances where we are legally entitled to retain certain data.
+*   **Rectification**: If you wish to update or rectify your data, you can do this directly by accessing your account settings.
+*   **Restriction:** To request the restriction or suppression of your personal data, please contact us, or our joint controllers, at the contact details provided below.
+*   **Revoke consent for direct marketing:** : If you wish to object to the processing of your data for direct marketing, you can opt-out by updating your settings or clicking on the ‘unsubscribe’ link in any marketing email or newsletter you receive from us.
+*   **Opt-out of online behavioural advertising:** You are able to control whether we and our partners may use your information for online behavioural advertising related purposes when you visit our websites via our Consent Management Platform that appears when you first visit our sites, or by going to the [Privacy Settings](#).
+*   **Objection to automated profiling:** If you wish to opt-out of having your personal information profiled for personalisation purposes, you can adjust your account settings or contact us directly at the contact details provided below.
+*   **Objection to legitimate interests:** If you wish to object to our processing of your data where we are pursuing our legitimate interests or those of a third party, please contact us, or our joint controllers, at the contact details provided below stating the nature of and reasons for such objection.
+*   **Complain:** You also have the right to lodge a complaint about us with your local supervisory authority, for example the [Information Commissioner’s Office](https://ico.org.uk/) in the UK.
 
 #### Exercising Your Rights
 
@@ -455,25 +455,25 @@ This section of the Policy applies solely to visitors, users, and others who are
 
 Under the State Privacy Laws you may have the following rights:
 
-* **Right to know**. You have the right to know about the categories and the specific personal information that we may collect, the purposes for collecting that personal information, the categories of third parties to whom we may disclose that personal information and whether we disclose personal information for business purposes or for commercial purposes that would be considered a “sale” or “share” under the State Privacy Laws. If you are a resident of Delaware, you also have the right to obtain a list of the categories of third parties to which we have disclosed personal information of Delaware consumers.
-* **Right to data portability**. You have the right to obtain a copy of your personal information that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another business without hindrance, where the processing is carried out by automated means.
+*   **Right to know**. You have the right to know about the categories and the specific personal information that we may collect, the purposes for collecting that personal information, the categories of third parties to whom we may disclose that personal information and whether we disclose personal information for business purposes or for commercial purposes that would be considered a “sale” or “share” under the State Privacy Laws. If you are a resident of Delaware, you also have the right to obtain a list of the categories of third parties to which we have disclosed personal information of Delaware consumers.
+*   **Right to data portability**. You have the right to obtain a copy of your personal information that you previously provided to us in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the data to another business without hindrance, where the processing is carried out by automated means.
 
 Upon receipt of a valid and verifiable request from you, we shall disclose to you both the categories and specific pieces of personal information we have collected about you, the categories of sources from which the personal information is collected, the business or commercial purpose for collecting that personal information, the categories of third parties which whom we share that information.
 
 You have a right to receive the above twice per year. If we provide the information electronically, it will be in a in a portable and, to the extent technically feasible, readily usable format that allows you to transmit the information to another entity without hindrance from us.
 
-* **Right to delete.** You have the right to request that we delete any personal information that we have collected from you unless retention of that information is permitted under applicable law. Please note that if you request deletion of your personal information, we may deny your request or may retain certain elements of your personal information if it is necessary for us or our vendors to:
-    * Complete the transaction for which the personal information was collected, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between our business and you.
-    * Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity.
-    * Debug to identify and repair errors that impair existing or intended functionality.
-    * Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law.
-    * Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the deletion of the information is likely to render impossible or seriously impair the achievement of such research, if you have provided informed consent.
-    * To enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us.
-    * Comply with a legal obligation.
-    * Otherwise use the personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
-* **Right to correct**. You have the right to request the correction of any personal information we maintain about you.
-* **Right to opt-out**. You have the right to opt out of the processing of your personal information for purposes of: (i) targeted advertising (or “share”, as defined under the CCPA); (ii) the sale of personal information for monetary consideration; or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you, unless you reside in Iowa or Utah. As of the latest date of this notice:
-    * • We DO process personal data and "share” it with third parties for the purposes of targeted advertising;  
+*   **Right to delete.** You have the right to request that we delete any personal information that we have collected from you unless retention of that information is permitted under applicable law. Please note that if you request deletion of your personal information, we may deny your request or may retain certain elements of your personal information if it is necessary for us or our vendors to:
+    *   Complete the transaction for which the personal information was collected, provide a good or service requested by you, or reasonably anticipated within the context of our ongoing business relationship with you, or otherwise perform a contract between our business and you.
+    *   Detect security incidents, protect against malicious, deceptive, fraudulent, or illegal activity; or prosecute those responsible for that activity.
+    *   Debug to identify and repair errors that impair existing or intended functionality.
+    *   Exercise free speech, ensure the right of another consumer to exercise his or her right of free speech, or exercise another right provided for by law.
+    *   Engage in public or peer-reviewed scientific, historical, or statistical research in the public interest that adheres to all other applicable ethics and privacy laws, when the deletion of the information is likely to render impossible or seriously impair the achievement of such research, if you have provided informed consent.
+    *   To enable solely internal uses that are reasonably aligned with your expectations based on your relationship with us.
+    *   Comply with a legal obligation.
+    *   Otherwise use the personal information, internally, in a lawful manner that is compatible with the context in which you provided the information.
+*   **Right to correct**. You have the right to request the correction of any personal information we maintain about you.
+*   **Right to opt-out**. You have the right to opt out of the processing of your personal information for purposes of: (i) targeted advertising (or “share”, as defined under the CCPA); (ii) the sale of personal information for monetary consideration; or (iii) profiling in furtherance of decisions that produce legal or similarly significant effects concerning you, unless you reside in Iowa or Utah. As of the latest date of this notice:
+    *   • We DO process personal data and "share” it with third parties for the purposes of targeted advertising;  
         • We DO NOT “sell” personal data under State Privacy Laws for monetary consideration;  
         • We DO NOT engage in profiling decision based on your personal data that produce legal or similarly significant effects concerning you.
 
@@ -491,11 +491,11 @@ We will make every effort to respond to your request within 45 days from when yo
 
 If we decline to take action on a request that you have submitted, we will inform you of our reasons for doing so and provide instructions for how to appeal the decision. Depending on your state of residence you may have the right to appeal within a reasonable period of time after you have received our decision. If you have used this appeal right, within 60 days (45 days for residents of Colorado) of our receipt of your appeal, we will inform you in writing of any action taken or not taken in response to the appeal, including a written explanation of the reasons for the decisions. If we deny your appeal, we will provide you with a method for contacting your state attorney general’s office to submit a complaint.
 
-* **Right to nondiscrimination**. You have the right not to receive discriminatory treatment by us for the exercise of your privacy rights. Unless permitted by the State Privacy Laws, we will not:
-    * Deny you goods or services;
-    * Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties;
-    * Provide you a different level or quality of goods or services; or
-    * Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
+*   **Right to nondiscrimination**. You have the right not to receive discriminatory treatment by us for the exercise of your privacy rights. Unless permitted by the State Privacy Laws, we will not:
+    *   Deny you goods or services;
+    *   Charge you different prices or rates for goods or services, including through granting discounts or other benefits, or imposing penalties;
+    *   Provide you a different level or quality of goods or services; or
+    *   Suggest that you may receive a different price or rate for goods or services or a different level or quality of goods or services.
 
 #### Explicit Notice
 
@@ -505,13 +505,13 @@ If you do not wish for us or our partners to use and disclose your personal info
 
 Please note that although we shall not sell your personal information after you click that button, we shall continue to share some personal information with our partners (who will function as our service providers or processors in such instance) to help us perform advertising-related business functions such as, but not limited to:
 
-* measuring the effectiveness of our ads;
-* managing how many times you may see an ad;
-* reporting on the performance of our ads;
-* ensuring services are working correctly and securely;
-* providing aggregate statistics and analytics;
-* improving when and where you may see ads; and/or
-* reducing ad fraud.
+*   measuring the effectiveness of our ads;
+*   managing how many times you may see an ad;
+*   reporting on the performance of our ads;
+*   ensuring services are working correctly and securely;
+*   providing aggregate statistics and analytics;
+*   improving when and where you may see ads; and/or
+*   reducing ad fraud.
 
 If you access this site or app from other devices or browsers, visit the link below from those devices or browsers to ensure your choice applies to the data collected when you use those devices or browsers. If you use different browsers, devices or platforms, you will need to opt out on each browser, device or platform.
 
@@ -559,10 +559,10 @@ This section describes your rights under the Brazil general data protection law 
 
 This section of the Policy applies to:
 
-* Personal data collected in Brazil;
-* Personal data processing activities that are carried out in Brazil;
-* Personal data processing activities whose purpose is to process personal data of individuals in Brazil; and/or
-* Personal data processing activities whose purpose is to offer or provide goods or services to individuals in Brazil.
+*   Personal data collected in Brazil;
+*   Personal data processing activities that are carried out in Brazil;
+*   Personal data processing activities whose purpose is to process personal data of individuals in Brazil; and/or
+*   Personal data processing activities whose purpose is to offer or provide goods or services to individuals in Brazil.
 
 In certain circumstances, for example if you are a Brazil resident, you may exercise the rights available to you (with some exceptions and restrictions) under the LGPD. Please see Section 10 above for details of the rights of information, access, portability, deletion, correction, revoke consent for direct marketing and opt-out of online behavioural advertising. Also, see Section 10 above for details of how to exercise your rights. Please include in your request that you are making your request under the LGPD.
 
@@ -598,12 +598,12 @@ Cookies are small files that are downloaded to your computer or mobile device wh
 
 Yes, we use the following:
 
-* **Web beacons:** Our websites, apps and emails often contain small invisible images known as “**web beacons**” or “**tracking pixels**”. These are used in a way similar to cookies to:
-    * understand when a particular part of a webpage, email or app is viewed;
-    * understand how successful an article or an email marketing campaign has been; and
-    * verify any clicks through to links or advertisements contained in emails.
-* **Tracking URLs:** These are web links that allows us to measure when a link is clicked on. They help us measure the effectiveness of campaigns and advertising and the popularity of articles that are read.
-* **Device identifiers:** We use device identifiers on mobile devices in the same way as cookies are used on web browsers. A device identifier is a unique number on your device which allow us to remember your device.
+*   **Web beacons:** Our websites, apps and emails often contain small invisible images known as “**web beacons**” or “**tracking pixels**”. These are used in a way similar to cookies to:
+    *   understand when a particular part of a webpage, email or app is viewed;
+    *   understand how successful an article or an email marketing campaign has been; and
+    *   verify any clicks through to links or advertisements contained in emails.
+*   **Tracking URLs:** These are web links that allows us to measure when a link is clicked on. They help us measure the effectiveness of campaigns and advertising and the popularity of articles that are read.
+*   **Device identifiers:** We use device identifiers on mobile devices in the same way as cookies are used on web browsers. A device identifier is a unique number on your device which allow us to remember your device.
 
 We use these similar technologies on websites, emails and apps, for the same purposes and in much the same way as we use cookies on websites. We shall use “**cookies**” and “**websites**” below as shorthand for “cookies and similar technologies” on “websites, emails and in apps”.
 
@@ -617,16 +617,16 @@ There are many different uses for cookies, but for within our sites, they fall i
 
 Some cookies are essential so you can move around our websites and use their features. Without the use of these cookies parts of our websites would not function. For example:
 
-* your username and keeping you logged in during your visit – without cookies you might have to log in on every page you go to; and
-* when you add something to the online shopping basket, cookies make sure it is still there when you get to the checkout. 
+*   your username and keeping you logged in during your visit – without cookies you might have to log in on every page you go to; and
+*   when you add something to the online shopping basket, cookies make sure it is still there when you get to the checkout. 
 
 #### Cookies that collect information about your choices and preferences (Functional / Preference)
 
 These cookies collect information about your choices and preferences, and allow us to remember things like:
 
-* remembering a location you’ve provided us with so we can show you relevant content to where you are and to provide local weather forecasts;
-* if you have filled in a survey, so you’re not asked to do it again; and
-* showing “related article” links that are relevant to the page you are looking at.
+*   remembering a location you’ve provided us with so we can show you relevant content to where you are and to provide local weather forecasts;
+*   if you have filled in a survey, so you’re not asked to do it again; and
+*   showing “related article” links that are relevant to the page you are looking at.
 
 #### Cookies used to understand how people use our products and services (Analytics)
 
@@ -650,9 +650,9 @@ Additionally, to help us deliver relevant advertising using cookies and track au
 
 We also use these cookies in order to:
 
-* know how many advertisements we serve, how many times these are clicked or hovered over with a mouse cursor, how many advertisements we show to a given user and how many customer actions these generate;
-* understand which customers reach a sale or other action page on an advertiser’s site. This allows us to monitor how many sales or actions we achieve for an advertising client, and therefore, how effective our advertising is; and
-* protect our advertisers’ brands, we often use a technology that scans the page to ascertain that it is safe from profane, sensitive and potentially brand-negative topics, before serving an ad there. This process is called “**ad verification**”.
+*   know how many advertisements we serve, how many times these are clicked or hovered over with a mouse cursor, how many advertisements we show to a given user and how many customer actions these generate;
+*   understand which customers reach a sale or other action page on an advertiser’s site. This allows us to monitor how many sales or actions we achieve for an advertising client, and therefore, how effective our advertising is; and
+*   protect our advertisers’ brands, we often use a technology that scans the page to ascertain that it is safe from profane, sensitive and potentially brand-negative topics, before serving an ad there. This process is called “**ad verification**”.
 
 **Ad-blockers:** We and our advertisers may use information from within our webpages to determine whether you have an ad-blocker enabled. This information may be stored or associated with your device (including through the use of cookies) to re-insert advertisements on our websites and to understand how our customers use ad-blockers. The advertisements that are re-inserted may include those from ad-blockers’ “white lists” or that promote our own products and services. We reserve the right to restrict your access to some or all of our website while you have an ad blocker turned on.
 
@@ -662,20 +662,20 @@ We also use these cookies in order to:
 
 Cookies can also be controlled using the following instructions:
 
-* **Mobile Devices**: When using a mobile device, you can opt-out of receiving online behavioural advertising by selecting “**Limit Ad Tracking**” in the Settings of your Apple iPhone or iPad, or the “**Opt out of interest-based ads**” in the Settings on your Android device. You may also be able to reset your unique identifier used for online behavioural advertising (referred to as an “**Advertising ID**”) in the Settings on your Apple or Android device.
-* **Online Behavioural Advertising cookies:**: If you are primarily concerned about third party cookies generated by advertisers, you can turn these off by going to [Your Online Choices](https://www.youronlinechoices.com/uk/).
-* **Web-Beacons:** You can usually prevent the operation of web-beacons by changing your web-browser [Privacy Settings](#) and your ad choices, or for those in emails, by switching off images in your email client or viewing emails using only the “text” display (rather than “HTML” display’). See the “Help” section of your email client for instructions. Please see the [All About Cookies](https://www.allaboutcookies.org/) website for further information about managing your options.
-* You can also visit the trade body representing these advertising platforms where you can control your third-party online advertising preferences by going to the [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!%2F).
-* **Browsers:** The links below take you to the help sections for each of the major browsers that will tell you how you can manage your cookies:
-    * [Firefox](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectlocale=en-US&redirectslug=enable-and-disable-cookies-website-preferences)
-    * [Internet Explorer](https://support.microsoft.com/en-us/topic/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d)
-    * [Microsoft Edge](https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)
-    * [Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB)
-    * [Safari OS](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
-    * [Safari iOS](https://support.apple.com/en-gb/HT201265)
-    * [Android](https://support.google.com/chrome/answer/2392709?hl=en-GB)
-    * [Blackberry](https://www.blackberry.com/us/en/legal/cookies)
-    * [Windows Phone](https://support.microsoft.com/en-us/windows/windows-phone-7-3ebc303c-59c0-d367-3995-f258b184fabb)
+*   **Mobile Devices**: When using a mobile device, you can opt-out of receiving online behavioural advertising by selecting “**Limit Ad Tracking**” in the Settings of your Apple iPhone or iPad, or the “**Opt out of interest-based ads**” in the Settings on your Android device. You may also be able to reset your unique identifier used for online behavioural advertising (referred to as an “**Advertising ID**”) in the Settings on your Apple or Android device.
+*   **Online Behavioural Advertising cookies:**: If you are primarily concerned about third party cookies generated by advertisers, you can turn these off by going to [Your Online Choices](https://www.youronlinechoices.com/uk/).
+*   **Web-Beacons:** You can usually prevent the operation of web-beacons by changing your web-browser [Privacy Settings](#) and your ad choices, or for those in emails, by switching off images in your email client or viewing emails using only the “text” display (rather than “HTML” display’). See the “Help” section of your email client for instructions. Please see the [All About Cookies](https://www.allaboutcookies.org/) website for further information about managing your options.
+*   You can also visit the trade body representing these advertising platforms where you can control your third-party online advertising preferences by going to the [Network Advertising Initiative](http://optout.networkadvertising.org/?c=1#!%2F).
+*   **Browsers:** The links below take you to the help sections for each of the major browsers that will tell you how you can manage your cookies:
+    *   [Firefox](https://support.mozilla.org/en-US/kb/enhanced-tracking-protection-firefox-desktop?redirectlocale=en-US&redirectslug=enable-and-disable-cookies-website-preferences)
+    *   [Internet Explorer](https://support.microsoft.com/en-us/topic/delete-and-manage-cookies-168dab11-0753-043d-7c16-ede5947fc64d)
+    *   [Microsoft Edge](https://support.microsoft.com/en-us/windows/microsoft-edge-browsing-data-and-privacy-bb8174ba-9d73-dcf2-9b4a-c582b4e640dd)
+    *   [Chrome](https://support.google.com/chrome/answer/95647?hl=en-GB)
+    *   [Safari OS](https://support.apple.com/en-gb/guide/safari/sfri11471/mac)
+    *   [Safari iOS](https://support.apple.com/en-gb/HT201265)
+    *   [Android](https://support.google.com/chrome/answer/2392709?hl=en-GB)
+    *   [Blackberry](https://www.blackberry.com/us/en/legal/cookies)
+    *   [Windows Phone](https://support.microsoft.com/en-us/windows/windows-phone-7-3ebc303c-59c0-d367-3995-f258b184fabb)
 
 Please note that our website, apps and other products and services may not work correctly (or at all) if you change certain preferences. For example, you may not be able to purchase products via our websites. However, you may still be able to place an order via our telephone order line.
 
