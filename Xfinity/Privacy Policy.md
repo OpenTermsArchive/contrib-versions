@@ -42,9 +42,9 @@ We know you care about your privacy and the protection of your [personal informa
 
 Some of what we say in our Privacy Policy is required by law, and may at times seem long and complicated, but we’ve worked hard to try to make our Privacy Policy easy to understand and provide examples where possible. The [Xfinity Privacy Center](https://www.xfinity.com/privacy) includes more information about:
 
-* How to review and manage your personal information and account activity
-* How to manage your preferences, including setting your marketing and advertising preferences, and restricting certain uses and sharing
-* How you can better protect yourself online
+*   How to review and manage your personal information and account activity
+*   How to manage your preferences, including setting your marketing and advertising preferences, and restricting certain uses and sharing
+*   How you can better protect yourself online
 
 You can review this Privacy Policy and the information in the Xfinity Privacy Center anytime. If you still have questions, you can [contact us](https://www.xfinity.com/xfinityassistant "XfinityChat") for more information.
 
@@ -108,42 +108,42 @@ We collect personal information about you in several ways
 
 1\. DIRECTLY FROM YOU WHEN YOU CREATE AN ACCOUNT, INTERACT WITH OUR CUSTOMER SERVICE, OR INTERACT WITH US ON BEHALF OF YOUR BUSINESS, SUCH AS:
 
-* Contact information, which may include your name, mailing address, email address, or telephone number
-* Login credentials for our Services, such as your username and password
-* Information regarding your preferences for your experience on the Services, such as your settings and other information you provide us to enable personalization of content
-* Biometric information, such as audio recordings for voiceprints and facial scans that we create in the identity verification process
-* Customer communications records, including records of calls and chats with our customer service representatives
-* Information that you provide when interacting with us on our social media pages, message boards, and other forums, including your username, profile pictures, and comments, as well as information you publicly share about us
-* [Photographs](#/privacy/overlays/Photographs) or images of your property
-* Payment information, such as your credit/debit card or other financial account information
-* Your Social Security number
-* Your driver’s license, state identification cards, or other forms of identification
-* Legal documents, such as documentation of the authority to act on behalf of another person
+*   Contact information, which may include your name, mailing address, email address, or telephone number
+*   Login credentials for our Services, such as your username and password
+*   Information regarding your preferences for your experience on the Services, such as your settings and other information you provide us to enable personalization of content
+*   Biometric information, such as audio recordings for voiceprints and facial scans that we create in the identity verification process
+*   Customer communications records, including records of calls and chats with our customer service representatives
+*   Information that you provide when interacting with us on our social media pages, message boards, and other forums, including your username, profile pictures, and comments, as well as information you publicly share about us
+*   [Photographs](#/privacy/overlays/Photographs) or images of your property
+*   Payment information, such as your credit/debit card or other financial account information
+*   Your Social Security number
+*   Your driver’s license, state identification cards, or other forms of identification
+*   Legal documents, such as documentation of the authority to act on behalf of another person
 
 2\. WHEN YOU USE OR INTERACT WITH OUR SERVICES, SUCH AS:
 
-* Household and device [video selection and viewing activity](#/privacy/overlays/video-selection-viewing-activity)
-* Voice commands and audio recordings made through voice activated devices that are part of the Services, such as the Voice Remote or our app-based remote
-* Geolocation information on where you are at a specific point in time based on your service address [to help us authenticate you](#/privacy/overlays/help-us-authenticate-you) for certain services on our platform
-* IP addresses, device identifiers, and network equipment addresses when devices connect to our Services, and other device information, including information about Devices provided by other companies from which you use our Services
-* User activity information on our websites and applications [using cookies and other technologies](https://www.xfinity.com/privacy/policy/cookienotice) and information provided by other companies [when you integrate their services with our Services](#/privacy/overlays/integrated-services)
-* Domain Name Server or “[DNS](#/privacy/overlays/DNS)” searches and [network traffic activity](#/privacy/overlays/network-traffic-activity) when you use our Services, such as Xfinity Internet, Xfinity Mobile, or Xfinity WiFi
-* Geolocation information that indicates where your device is at a specific point in time when you use [Xfinity Mobile](#/privacy/overlays/Xfinity-Mobile) or enable that function in our [mobile apps](#/privacy/overlays/mobile-apps)
-* General location information, such as the city or ZIP Code that correlates with the location of a WiFi service access point or with the lease of your device IP address when you use Xfinity Internet or Xfinity WiFi 
-* The quantity, technical configuration, type, features, call history, and amount of your use of voice services (known as Customer Proprietary Network Information or “CPNI”)
-* Video and audio recordings, live video and audio streams, motion activity, images, and other events that are captured or recorded when using our Services. For example, this may include capturing video, audio, or motion information (if you have turned these features on) when you use Services such as Xfinity Home security and automation
+*   Household and device [video selection and viewing activity](#/privacy/overlays/video-selection-viewing-activity)
+*   Voice commands and audio recordings made through voice activated devices that are part of the Services, such as the Voice Remote or our app-based remote
+*   Geolocation information on where you are at a specific point in time based on your service address [to help us authenticate you](#/privacy/overlays/help-us-authenticate-you) for certain services on our platform
+*   IP addresses, device identifiers, and network equipment addresses when devices connect to our Services, and other device information, including information about Devices provided by other companies from which you use our Services
+*   User activity information on our websites and applications [using cookies and other technologies](https://www.xfinity.com/privacy/policy/cookienotice) and information provided by other companies [when you integrate their services with our Services](#/privacy/overlays/integrated-services)
+*   Domain Name Server or “[DNS](#/privacy/overlays/DNS)” searches and [network traffic activity](#/privacy/overlays/network-traffic-activity) when you use our Services, such as Xfinity Internet, Xfinity Mobile, or Xfinity WiFi
+*   Geolocation information that indicates where your device is at a specific point in time when you use [Xfinity Mobile](#/privacy/overlays/Xfinity-Mobile) or enable that function in our [mobile apps](#/privacy/overlays/mobile-apps)
+*   General location information, such as the city or ZIP Code that correlates with the location of a WiFi service access point or with the lease of your device IP address when you use Xfinity Internet or Xfinity WiFi 
+*   The quantity, technical configuration, type, features, call history, and amount of your use of voice services (known as Customer Proprietary Network Information or “CPNI”)
+*   Video and audio recordings, live video and audio streams, motion activity, images, and other events that are captured or recorded when using our Services. For example, this may include capturing video, audio, or motion information (if you have turned these features on) when you use Services such as Xfinity Home security and automation
 
 3\. FROM THIRD PARTIES, SUCH AS:
 
-* Credit reporting agencies and other entities that provide credit scoring, identity verification, fraud prevention, and similar services
-* Landlords and property owners that provide contact and other information  
+*   Credit reporting agencies and other entities that provide credit scoring, identity verification, fraud prevention, and similar services
+*   Landlords and property owners that provide contact and other information  
     Government entities that offer public records
-* Consumer data providers that offer [demographic](#/privacy/overlays/demographic), [interest](#/privacy/overlays/interest), [purchase](#/privacy/overlays/purchase), and other data that we use to tailor our marketing and communications to your interest
-* Providers of third-party apps that you use on devices governed by this privacy policy
-* Third parties that you use to sign into our Services
-* Resellers or third parties that sell you a Xumo device
-* Social networks and other publicly available data, like [Facebook](#/privacy/overlays/Facebook)
-* Online advertising companies who may share information about the marketing and advertisements you have seen or clicked on
+*   Consumer data providers that offer [demographic](#/privacy/overlays/demographic), [interest](#/privacy/overlays/interest), [purchase](#/privacy/overlays/purchase), and other data that we use to tailor our marketing and communications to your interest
+*   Providers of third-party apps that you use on devices governed by this privacy policy
+*   Third parties that you use to sign into our Services
+*   Resellers or third parties that sell you a Xumo device
+*   Social networks and other publicly available data, like [Facebook](#/privacy/overlays/Facebook)
+*   Online advertising companies who may share information about the marketing and advertisements you have seen or clicked on
 
 We do not knowingly allow others to collect personally identifiable information about your online activities over time and across third-party websites when you use our online Services. For more information about cookies and other online tracking technologies, please visit our [Cookie Notice](https://www.xfinity.com/privacy/policy/cookienotice) to manage your preferences, please visit the [Xfinity Privacy Preferences Center](https://www.xfinity.com/privacy/your-privacy-choices). You can also use a browser that offers you the ability to use the Global Privacy Control to communicate your privacy preferences to us when you visit our websites; please note that this will not affect how we process your information when you interact with our products and services. In some of our Services, such as Xumo TV, we may also use technologies to attempt to recognize when different devices are used by the same individual.
 
@@ -160,53 +160,53 @@ We may combine information across our systems, platforms, and databases. This in
 
 TO PROVIDE THE SERVICES
 
-* Set up your account and account management
-* Measure credit and payment risk
-* Service delivery
-* Bill and invoice
-* Authenticate access to your account, including identity  
+*   Set up your account and account management
+*   Measure credit and payment risk
+*   Service delivery
+*   Bill and invoice
+*   Authenticate access to your account, including identity  
     verification
-* Management of the network and devices supporting our service and our systems, and other maintenance and operations
-* Provide technical support
-* Help with hardware and software upgrades for devices and systems
+*   Management of the network and devices supporting our service and our systems, and other maintenance and operations
+*   Provide technical support
+*   Help with hardware and software upgrades for devices and systems
 
 * * *
 
 TO COMMUNICATE WITH YOU
 
-* Respond to your questions
-* Personalize communications and your experience
-* Send you service-related announcements and surveys
+*   Respond to your questions
+*   Personalize communications and your experience
+*   Send you service-related announcements and surveys
 
 * * *
 
 TO UNDERSTAND YOUR USE OF AND MAKE IMPROVEMENTS TO OUR SERVICES
 
-* Understand the use of our existing Services
-* Identify and develop new products and services
-* Create [measurement and analytics reports for us and others](#/privacy/overlays/measurement-analytics)
+*   Understand the use of our existing Services
+*   Identify and develop new products and services
+*   Create [measurement and analytics reports for us and others](#/privacy/overlays/measurement-analytics)
 
 * * *
 
 TO PROVIDE RECOMMENDATIONS AND DELIVER RELEVANT ADVERTISING 
 
-* Market the Services
-* Recommend movies or television shows to you
-* Let you know which products and services we think may be of  
+*   Market the Services
+*   Recommend movies or television shows to you
+*   Let you know which products and services we think may be of  
     interest to you
-* Help third-party advertisers and programmers deliver more relevant  
+*   Help third-party advertisers and programmers deliver more relevant  
     advertising on our Services and other services and platforms
 
 * * *
 
 TO INVESTIGATE THEFT OR OTHER ILLEGAL ACTIVITIES, TO ENSURE A SECURE ONLINE ENVIRONMENT, AND TO PROTECT HEALTH AND SAFETY
 
-* Detect the unauthorized use, or abuse of the Services
-* Protect our customers from fraudulent, abusive, or unlawful use of  
+*   Detect the unauthorized use, or abuse of the Services
+*   Protect our customers from fraudulent, abusive, or unlawful use of  
     the Services
-* Protect our rights, our personnel, and our property
-* Comply with applicable law
-* To protect the health and safety of our customers, employees,  
+*   Protect our rights, our personnel, and our property
+*   Comply with applicable law
+*   To protect the health and safety of our customers, employees,  
     contractors, or the general public
 
 When and with whom we disclose information
@@ -214,10 +214,10 @@ When and with whom we disclose information
 
 We share personal information with others when it’s needed to provide you with our Services, including with credit reporting agencies. We also share personal information with others:
 
-* When you direct us to do so, including to authorize other users on your account
-* When required by law or to respond to legal process
-* To protect our property or rights or the safety of our employees, our customers, or other individuals
-* With third party partners to the extent you elect to participate in programs such as Xfinity Rewards
+*   When you direct us to do so, including to authorize other users on your account
+*   When required by law or to respond to legal process
+*   To protect our property or rights or the safety of our employees, our customers, or other individuals
+*   With third party partners to the extent you elect to participate in programs such as Xfinity Rewards
 
 If your internet service or other access is provided in whole or in part by a third party, such as a landlord or property owner, educational institution, local government, or nonprofit entity, we may share with them information collected during your registration, as well as service tier, activation, and/or aggregated usage information.
 
@@ -351,10 +351,10 @@ You have many choices about how we communicate with you and how we use or share 
 
 **For your convenience, we have created the Xfinity Privacy Preferences Center** **where you can manage:**
 
-* how we process personal information linked to your account for certain uses associated with audience measurement, analytics, and personalized advertising for third-party products and services based on your interests
-* whether we use your sensitive personal information for personalized recommendations, advertising, and marketing
-* your preferences regarding which cookies are stored by our website in your browser when you visit 
-* your preferences regarding communications, offers, and notifications from us
+*   how we process personal information linked to your account for certain uses associated with audience measurement, analytics, and personalized advertising for third-party products and services based on your interests
+*   whether we use your sensitive personal information for personalized recommendations, advertising, and marketing
+*   your preferences regarding which cookies are stored by our website in your browser when you visit 
+*   your preferences regarding communications, offers, and notifications from us
 
 You can find out more about the choices you have and set your preferences. If you change your mind, you can return any time to update it. Some of the choices are limited to our use of certain customer information and may require you to sign in to your account.
 
