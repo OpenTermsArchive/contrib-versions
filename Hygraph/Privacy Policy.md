@@ -24,11 +24,11 @@ The data protection officer of the person responsible is: Michael Lukaszczyk
 
 You have the following rights towards us regarding your personal data:
 
-* Right to information
-* Right to correction or deletion
-* Right to restrict processing
-* Right to object to the processing
-* Right to data transferability
+*   Right to information
+*   Right to correction or deletion
+*   Right to restrict processing
+*   Right to object to the processing
+*   Right to data transferability
 
 Please send an email to support@hygraph.com in order to exercise one or more of the aforementioned rights. If you believe that the processing of personal data concerning you violates the GDPR, you have the right of appeal to a supervisory authority, without prejudice to any other remedies.
 
@@ -37,16 +37,16 @@ Please send an email to support@hygraph.com in order to exercise one or more of 
 
 When using the website for information purposes only, i.e. if you do not register or otherwise provide us with information, we only collect the personal data that your browser transmits to our server. If you wish to view our website, we collect the following data, which are technically necessary for us to display our website to you and to provide stability and security (legal basis is Art. 6 para. 1 s. 1 lit. f GDPR):
 
-* IP address
-* date and time of the request
-* time zone difference to Greenwich Mean Time (GMT)
-* content of the request (specific page)
-* access status/HTTP status code
-* the amount of data transferred in each case
-* website from which the request comes
-* Browser
-* operating system and its surface
-* language and version of the browser software.
+*   IP address
+*   date and time of the request
+*   time zone difference to Greenwich Mean Time (GMT)
+*   content of the request (specific page)
+*   access status/HTTP status code
+*   the amount of data transferred in each case
+*   website from which the request comes
+*   Browser
+*   operating system and its surface
+*   language and version of the browser software.
 
 In addition to the aforementioned data, cookies are stored on your computer when you use our website. Cookies are small text files that are stored on your hard disk in the browser you use. Through these cookies we receive certain information from you. Cookies cannot run programs or transmit viruses to your computer. They serve to make the website more user-friendly and effective overall.
 
@@ -59,8 +59,8 @@ The criterion for the duration of the storage of your personal data is the respe
 
 a. This website uses the following types of cookies, the scope and functioning of which are explained below:
 
-* Transient cookies (see b),
-* Persistent cookies (see c).
+*   Transient cookies (see b),
+*   Persistent cookies (see c).
 
 b. Transient cookies are automatically deleted when you close your browser. This includes in particular the session cookies. These store a so-called session ID, with which different requests of your browser can be assigned to the common session. This will allow your computer to be recognized when you return to our website. Session cookies are deleted when you log out or close your browser.
 
@@ -117,11 +117,11 @@ We use services and storage systems of external service providers for the provis
 
 These service providers are categorized as follows:
 
-* Hosting service providers,
-* Subscription management and invoicing tool providers,
-* Payment processing tool providers,
-* Authentification tool providers,
-* Communication tool providers,
-* Error analysis tool providers.
+*   Hosting service providers,
+*   Subscription management and invoicing tool providers,
+*   Payment processing tool providers,
+*   Authentification tool providers,
+*   Communication tool providers,
+*   Error analysis tool providers.
 
 _Last updated: 25.01.2022_
