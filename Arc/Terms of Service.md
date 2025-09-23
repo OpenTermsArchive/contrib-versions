@@ -55,16 +55,16 @@ As part of the Services, you may receive communications through the Services, in
 
 You represent, warrant, and agree that you will not provide or contribute anything, including any Content (as defined below), to the Services, or otherwise use or interact with the Services, in a manner that:
 
-1. infringes or violates the intellectual property rights or any other rights of anyone else (including Browser);
-2. violates any law or regulation, including, without limitation, any applicable export control laws, privacy laws or any other purpose not reasonably intended by Browser;
-3. is dangerous, harmful, fraudulent, deceptive, threatening, harassing, defamatory, obscene, or otherwise objectionable;
-4. jeopardizes the security of your Browser User ID, account or anyone else’s (such as allowing someone else to log in to the Services as you);
-5. attempts, in any manner, to obtain the password, account, or other security information from any other user;
-6. violates the security of any computer network, or cracks any passwords or security encryption codes;
-7. runs Maillist, Listserv, any form of auto-responder or “spam” on the Services, or any processes that run or are activated while you are not logged into the Services, or that otherwise interfere with the proper working of the Services (including by placing an unreasonable load on the Services’ infrastructure);
-8. “crawls,” “scrapes,” or “spiders” any page, data, or portion of or relating to the Services or Content (through use of manual or automated means);
-9. copies or stores any significant portion of the Content; or
-10. decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to the Services.
+1.  infringes or violates the intellectual property rights or any other rights of anyone else (including Browser);
+2.  violates any law or regulation, including, without limitation, any applicable export control laws, privacy laws or any other purpose not reasonably intended by Browser;
+3.  is dangerous, harmful, fraudulent, deceptive, threatening, harassing, defamatory, obscene, or otherwise objectionable;
+4.  jeopardizes the security of your Browser User ID, account or anyone else’s (such as allowing someone else to log in to the Services as you);
+5.  attempts, in any manner, to obtain the password, account, or other security information from any other user;
+6.  violates the security of any computer network, or cracks any passwords or security encryption codes;
+7.  runs Maillist, Listserv, any form of auto-responder or “spam” on the Services, or any processes that run or are activated while you are not logged into the Services, or that otherwise interfere with the proper working of the Services (including by placing an unreasonable load on the Services’ infrastructure);
+8.  “crawls,” “scrapes,” or “spiders” any page, data, or portion of or relating to the Services or Content (through use of manual or automated means);
+9.  copies or stores any significant portion of the Content; or
+10.  decompiles, reverse engineers, or otherwise attempts to obtain the source code or underlying ideas or information of or relating to the Services.
 
 A violation of any of the foregoing is grounds for termination of your right to use or access the Services.
 
@@ -102,27 +102,27 @@ Finally, you understand and agree that Browser, in performing the required techn
 
 In accordance with the DMCA, we’ve adopted the following policy toward copyright infringement.  We reserve the right to (1) block access to or remove material that we believe in good faith to be copyrighted material that has been illegally copied and distributed by any of our advertisers, affiliates, content providers, members or users and (2) remove and discontinue service to repeat offenders.
 
-1. _Procedure for Reporting Copyright Infringements_. If you believe that material or content residing on or accessible through the Services infringes your copyright (or the copyright of someone whom you are authorized to act on behalf of), please send a notice of copyright infringement containing the following information to Browser's Designated Agent to Receive Notification of Claimed Infringement (our “Designated Agent,” whose contact details are listed below):
+1.  _Procedure for Reporting Copyright Infringements_. If you believe that material or content residing on or accessible through the Services infringes your copyright (or the copyright of someone whom you are authorized to act on behalf of), please send a notice of copyright infringement containing the following information to Browser's Designated Agent to Receive Notification of Claimed Infringement (our “Designated Agent,” whose contact details are listed below):
 
-1. A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright that has been allegedly infringed;
-2. Identification of works or materials being infringed;
-3. Identification of the material that is claimed to be infringing including information regarding the location of the infringing materials that the copyright owner seeks to have removed, with sufficient detail so that Company is capable of finding and verifying its existence;
-4. Contact information about the notifier including address, telephone number and, if available, email address;
-5. A statement that the notifier has a good faith belief that the material identified in (1)(c) is not authorized by the copyright owner, its agent, or the law; and
-6. A statement made under penalty of perjury that the information provided is accurate and the notifying party is authorized to make the complaint on behalf of the copyright owner.
+1.  A physical or electronic signature of a person authorized to act on behalf of the owner of the copyright that has been allegedly infringed;
+2.  Identification of works or materials being infringed;
+3.  Identification of the material that is claimed to be infringing including information regarding the location of the infringing materials that the copyright owner seeks to have removed, with sufficient detail so that Company is capable of finding and verifying its existence;
+4.  Contact information about the notifier including address, telephone number and, if available, email address;
+5.  A statement that the notifier has a good faith belief that the material identified in (1)(c) is not authorized by the copyright owner, its agent, or the law; and
+6.  A statement made under penalty of perjury that the information provided is accurate and the notifying party is authorized to make the complaint on behalf of the copyright owner.
 
-3. _Once Proper Bona Fide Infringement Notification is Received by the Designated Agent_. Upon receipt of a proper notice of copyright infringement, we reserve the right to:
+3.  _Once Proper Bona Fide Infringement Notification is Received by the Designated Agent_. Upon receipt of a proper notice of copyright infringement, we reserve the right to:
 
-1. remove or disable access to the infringing material;
-2. notify the content provider who is accused of infringement that we have removed or disabled access to the applicable material; and
-3. terminate such content provider's access to the Services if he or she is a repeat offender.
+1.  remove or disable access to the infringing material;
+2.  notify the content provider who is accused of infringement that we have removed or disabled access to the applicable material; and
+3.  terminate such content provider's access to the Services if he or she is a repeat offender.
 
-5. _Procedure to Supply a Counter-Notice to the Designated Agent_. If the content provider believes that the material that was removed (or to which access was disabled) is not infringing, or the content provider believes that it has the right to post and use such material from the copyright owner, the copyright owner's agent, or, pursuant to the law, the content provider may send us a counter-notice containing the following information to the Designated Agent:
+5.  _Procedure to Supply a Counter-Notice to the Designated Agent_. If the content provider believes that the material that was removed (or to which access was disabled) is not infringing, or the content provider believes that it has the right to post and use such material from the copyright owner, the copyright owner's agent, or, pursuant to the law, the content provider may send us a counter-notice containing the following information to the Designated Agent:
 
-1. A physical or electronic signature of the content provider;
-2. Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or disabled;
-3. A statement that the content provider has a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material; and
-4. Content provider's name, address, telephone number, and, if available, email address, and a statement that such person or entity consents to the jurisdiction of the Federal Court for the judicial district in which the content provider’s address is located, or, if the content provider's address is located outside the United States, for any judicial district in which Company is located, and that such person or entity will accept service of process from the person who provided notification of the alleged infringement.
+1.  A physical or electronic signature of the content provider;
+2.  Identification of the material that has been removed or to which access has been disabled and the location at which the material appeared before it was removed or disabled;
+3.  A statement that the content provider has a good faith belief that the material was removed or disabled as a result of mistake or misidentification of the material; and
+4.  Content provider's name, address, telephone number, and, if available, email address, and a statement that such person or entity consents to the jurisdiction of the Federal Court for the judicial district in which the content provider’s address is located, or, if the content provider's address is located outside the United States, for any judicial district in which Company is located, and that such person or entity will accept service of process from the person who provided notification of the alleged infringement.
 
 If a counter-notice is received by the Designated Agent, Company may, in its discretion, send a copy of the counter-notice to the original complaining party informing that person that Company may replace the removed material or cease disabling it in 10 business days. Unless the copyright owner files an action seeking a court order against the content provider accused of committing infringement, the removed material may be replaced or access to it restored in 10 to 14 business days or more after receipt of the counter-notice, at Company's discretion.
 
@@ -174,16 +174,16 @@ You acknowledge and agree that the availability of our mobile application is dep
 
 These Terms apply to your use of all the Services, including our iOS applications (the “Application”) available via the Apple, Inc. (“Apple”) App Store, but the following additional terms also apply to the Application:
 
-1. Both you and Browser acknowledge that the Terms are concluded between you and Browser only, and not with Apple, and that Apple is not responsible for the Application or the Content;
-2. The Application is licensed to you on a limited, non-exclusive, non-transferrable, non-sublicensable basis, solely to be used in connection with the Services for your private, personal, non-commercial use, subject to all the terms and conditions of these Terms as they are applicable to the Services;
-3. You will only use the Application in connection with an Apple device that you own or control;
-4. You acknowledge and agree that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Application;
-5. In the event of any failure of the Application to conform to any applicable warranty, including those implied by law, you may notify Apple of such failure; upon notification, Apple’s sole warranty obligation to you will be to refund to you the purchase price, if any, of the Application;
-6. You acknowledge and agree that Browser, and not Apple, is responsible for addressing any claims you or any third party may have in relation to the Application;
-7. You acknowledge and agree that, in the event of any third-party claim that the Application or your possession and use of the Application infringes that third party’s intellectual property rights, Browser, and not Apple, will be responsible for the investigation, defense, settlement and discharge of any such infringement claim;
-8. You represent and warrant that you are not located in a country subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country, and that you are not listed on any U.S. Government list of prohibited or restricted parties;
-9. Both you and Browser acknowledge and agree that, in your use of the Application, you will comply with any applicable third-party terms of agreement which may affect or be affected by such use; and
-10. Both you and Browser acknowledge and agree that Apple and Apple’s subsidiaries are third-party beneficiaries of these Terms, and that upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as the third-party beneficiary hereof.
+1.  Both you and Browser acknowledge that the Terms are concluded between you and Browser only, and not with Apple, and that Apple is not responsible for the Application or the Content;
+2.  The Application is licensed to you on a limited, non-exclusive, non-transferrable, non-sublicensable basis, solely to be used in connection with the Services for your private, personal, non-commercial use, subject to all the terms and conditions of these Terms as they are applicable to the Services;
+3.  You will only use the Application in connection with an Apple device that you own or control;
+4.  You acknowledge and agree that Apple has no obligation whatsoever to furnish any maintenance and support services with respect to the Application;
+5.  In the event of any failure of the Application to conform to any applicable warranty, including those implied by law, you may notify Apple of such failure; upon notification, Apple’s sole warranty obligation to you will be to refund to you the purchase price, if any, of the Application;
+6.  You acknowledge and agree that Browser, and not Apple, is responsible for addressing any claims you or any third party may have in relation to the Application;
+7.  You acknowledge and agree that, in the event of any third-party claim that the Application or your possession and use of the Application infringes that third party’s intellectual property rights, Browser, and not Apple, will be responsible for the investigation, defense, settlement and discharge of any such infringement claim;
+8.  You represent and warrant that you are not located in a country subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country, and that you are not listed on any U.S. Government list of prohibited or restricted parties;
+9.  Both you and Browser acknowledge and agree that, in your use of the Application, you will comply with any applicable third-party terms of agreement which may affect or be affected by such use; and
+10.  Both you and Browser acknowledge and agree that Apple and Apple’s subsidiaries are third-party beneficiaries of these Terms, and that upon your acceptance of these Terms, Apple will have the right (and will be deemed to have accepted the right) to enforce these Terms against you as the third-party beneficiary hereof.
 
 ### **What else do I need to know?**
 
