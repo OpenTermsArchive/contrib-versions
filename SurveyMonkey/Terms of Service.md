@@ -67,7 +67,7 @@ SurveyMonkey may change the fees charged to you for the Services at any time, pr
 
 ### **1.5 Response Overage Fees.**
 
-Each Subscription comes with a set limit of responses. If you exceed your paid Subscription response limit during a billing cycle, there is an [additional charge per response](https://help.surveymonkey.com/en/billing/response-limits/) (“Overage Fees”). For terms governing response limits for our Basic (Free) accounts see [Section 12.4](#12.4 SurveyMonkey Basic (Free) Plan Response Limits.).
+Each Subscription comes with a set limit of responses. If you exceed your paid Subscription response limit during a billing cycle, there is an [additional charge per response](https://help.surveymonkey.com/en/billing/response-limits/) (“Overage Fees”). For terms governing response limits for our Basic (Free) accounts see [Section 12.4](#12.4 SurveyMonkey Basic \(Free\) Plan Response Limits.).
 
 You agree that unused responses do not rollover. Unless otherwise stated, any Overage Fees incurred by you will be billed in arrears, charged to your payment method on file at the start of your next billing cycle. Overage Fees which remain unpaid for 30 days after being billed are considered overdue. Failure to pay Overage Fees when due may result in the applicable Service being limited, suspended, or terminated (subject to applicable legal requirements), which may result in a loss of your data associated with that Service subject to applicable law.
 
@@ -297,25 +297,25 @@ Unless otherwise noted, the Services are provided by, and you are contracting wi
 
 For any Service provided by SurveyMonkey Inc., the following provisions will apply to any terms governing that Service:
 
-* Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Inc., located at 910 Park Pl, Suite 300, San Mateo, CA 94403, USA.
-* Governing Law. Those terms are governed by the laws of the State of California (without regard to its conflict of laws provisions).
-* Jurisdiction. Except if prohibited by applicable law, each party submits to the exclusive jurisdiction of the state courts and federal courts located in San Francisco County, California with respect to the subject matter of those terms.
+*   Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Inc., located at 910 Park Pl, Suite 300, San Mateo, CA 94403, USA.
+*   Governing Law. Those terms are governed by the laws of the State of California (without regard to its conflict of laws provisions).
+*   Jurisdiction. Except if prohibited by applicable law, each party submits to the exclusive jurisdiction of the state courts and federal courts located in San Francisco County, California with respect to the subject matter of those terms.
 
 ### **14.3 SurveyMonkey** **Europe UC.**
 
 For any Service provided by SurveyMonkey Europe UC, the following provisions will apply to any terms governing that Service:
 
-* Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Europe UC, located at Ella House, Suite 40.4, 40 Merrion Square East, Dublin 2, D02 NP96, Ireland.
-* Governing Law. Those terms are governed by the laws of Ireland (without regard to its conflicts of laws provisions).
-* Jurisdiction. Except if prohibited by applicable law, in relation to any legal action or proceedings to enforce those terms or arising out of or in connection with those terms, each party irrevocably submits to the exclusive jurisdiction of the courts of Ireland.
+*   Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Europe UC, located at Ella House, Suite 40.4, 40 Merrion Square East, Dublin 2, D02 NP96, Ireland.
+*   Governing Law. Those terms are governed by the laws of Ireland (without regard to its conflicts of laws provisions).
+*   Jurisdiction. Except if prohibited by applicable law, in relation to any legal action or proceedings to enforce those terms or arising out of or in connection with those terms, each party irrevocably submits to the exclusive jurisdiction of the courts of Ireland.
 
 ### 14.4 SurveyMonkey Brasil Internet Ltda.
 
 For any Service provided by SurveyMonkey Brasil Internet Ltda., the following provisions will apply to any terms governing that Service:
 
-* Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Brasil Internet Ltda., located at Rua Joaquim Floriano, No. 243, suite 113, Itaim Bibi, São Paulo-SP, 04534-010 Brazil.
-* Governing Law. Those terms are governed by the laws of Brazil (without regard to its conflicts of laws provisions).
-* Jurisdiction. Except if prohibited by applicable law, in relation to any legal action or proceedings to enforce those terms or arising out of or in connection with those terms, each party irrevocably submits to the exclusive jurisdiction of the courts of the city of São Paulo, Brazil.
+*   Contracting Entity. References to “SurveyMonkey”, “we”, “us”, and “our” are references to SurveyMonkey Brasil Internet Ltda., located at Rua Joaquim Floriano, No. 243, suite 113, Itaim Bibi, São Paulo-SP, 04534-010 Brazil.
+*   Governing Law. Those terms are governed by the laws of Brazil (without regard to its conflicts of laws provisions).
+*   Jurisdiction. Except if prohibited by applicable law, in relation to any legal action or proceedings to enforce those terms or arising out of or in connection with those terms, each party irrevocably submits to the exclusive jurisdiction of the courts of the city of São Paulo, Brazil.
 
 15\. Other Terms
 ----------------
@@ -379,17 +379,17 @@ _Some of these additional terms may apply depending on which Services you use._
 
 The following amendments automatically apply to you upon acceptance of these Terms if you are one of the types of entities identified below:
 
-* If you are a United States Federal Government Agency, [this Amendment](https://www.surveymonkey.com/mp/legal/terms-of-use-federal-government/) applies to you.
-* If you are a different type of government entity in the United States, [this Amendment](https://www.surveymonkey.com/mp/legal/terms-of-use-state-government/) applies to you.
+*   If you are a United States Federal Government Agency, [this Amendment](https://www.surveymonkey.com/mp/legal/terms-of-use-federal-government/) applies to you.
+*   If you are a different type of government entity in the United States, [this Amendment](https://www.surveymonkey.com/mp/legal/terms-of-use-state-government/) applies to you.
 
 ### **16.2 Wufoo-Specific Terms.**
 
 If you are using Wufoo Services, the following additional terms apply:
 
-* **One free account per person**. You may only have one active, free Wufoo account at any time. Multiple Wufoo accounts for any person may be closed by SurveyMonkey.
-* **Form Gallery.** In the course of using the Wufoo website, you may create certain templates, graphics or form documents (collectively, the “**Form Content**”) and load or post such documents into the Wufoo form gallery (“**Form Gallery**”) for other users. By making such Form Content available on the Form Gallery, you grant to SurveyMonkey a worldwide, irrevocable, perpetual, royalty-free, transferable and sub-licensable, non-exclusive right to use, copy, modify, distribute, display, perform, create derivative works and exploit that Form Content in connection with SurveyMonkey's operation of Wufoo.
-* **Account Inactivity**. SurveyMonkey may close any free Wufoo accounts that do not receive a form submission for 6 months or where the accounts are not accessed for 6 months.
-* **Use of API**. You may access your Wufoo account data via Wufoo’s application programming interface (“**API**”) and SurveyMonkey hereby grants you a non-exclusive, non-transferable license (without the right to sublicense) to use the API solely as necessary to develop, test, operate and support your software application or website using certain data and content from the Wufoo website (“**Application**”), and to distribute or allow access to your integration of the API within your Application to end users of your Application. Any use of the API, including use of the API through a third party product or service that accesses Wufoo, is bound by these Terms, plus the following specific items:
+*   **One free account per person**. You may only have one active, free Wufoo account at any time. Multiple Wufoo accounts for any person may be closed by SurveyMonkey.
+*   **Form Gallery.** In the course of using the Wufoo website, you may create certain templates, graphics or form documents (collectively, the “**Form Content**”) and load or post such documents into the Wufoo form gallery (“**Form Gallery**”) for other users. By making such Form Content available on the Form Gallery, you grant to SurveyMonkey a worldwide, irrevocable, perpetual, royalty-free, transferable and sub-licensable, non-exclusive right to use, copy, modify, distribute, display, perform, create derivative works and exploit that Form Content in connection with SurveyMonkey's operation of Wufoo.
+*   **Account Inactivity**. SurveyMonkey may close any free Wufoo accounts that do not receive a form submission for 6 months or where the accounts are not accessed for 6 months.
+*   **Use of API**. You may access your Wufoo account data via Wufoo’s application programming interface (“**API**”) and SurveyMonkey hereby grants you a non-exclusive, non-transferable license (without the right to sublicense) to use the API solely as necessary to develop, test, operate and support your software application or website using certain data and content from the Wufoo website (“**Application**”), and to distribute or allow access to your integration of the API within your Application to end users of your Application. Any use of the API, including use of the API through a third party product or service that accesses Wufoo, is bound by these Terms, plus the following specific items:
 
 **(a)** Abuse of the API or excessively frequent requests to Wufoo via the API may result in the temporary or permanent suspension of your access to the API. SurveyMonkey, in its sole discretion, will determine if your usage constitutes abuse or excessive usage of the API. SurveyMonkey will endeavor to warn the account owner via email prior to suspension. While SurveyMonkey strives to have the API available without interruption, SurveyMonkey cannot guarantee any uptime for the API.
 
