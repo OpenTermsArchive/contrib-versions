@@ -604,10 +604,10 @@ Consequently, no request for withdrawal, cancellation or refund will be admissib
 
 In the event of a clear violation of the GCUS by the Customer, XANDRIE reserves the right to delete or temporarily deactivate the Customer’s account, without notice or compensation, in particular in the event of:  
 
-* infringement of XANDRIE SA’s interests and/or its intellectual property rights; 
-* provision of incorrect information when registering with the Site; 
-* bypassing or attempting to bypass the technical protection measures implemented on the Site; 
-* total or partial non-payment of bills sent to the Customer. 
+*   infringement of XANDRIE SA’s interests and/or its intellectual property rights; 
+*   provision of incorrect information when registering with the Site; 
+*   bypassing or attempting to bypass the technical protection measures implemented on the Site; 
+*   total or partial non-payment of bills sent to the Customer. 
 
 It is also possible for the Customer to have his/her account deleted. To do this, the Customer must send the request with the online contact form and XANDRIE SA will then delete the Customer’s account within a maximum of 48 hours after receipt of the said message. 
 
@@ -623,8 +623,8 @@ The availability of QOBUZ subscription offers depends on the country from which 
 
 The parties expressly elect, as domicile: 
 
-* For XANDRIE SA, its registered office; 
-* For the Customer, the address indicated at the time of subscribing, or any subsequent modification notified by registered letter with acknowledgement of receipt.  
+*   For XANDRIE SA, its registered office; 
+*   For the Customer, the address indicated at the time of subscribing, or any subsequent modification notified by registered letter with acknowledgement of receipt.  
 
 **  
 15\. Personal data** 
@@ -680,9 +680,9 @@ In addition, the European Commission has set up a dispute resolution platform in
 
 In the event of a dispute, the parties expressly elect, as address for service: 
 
-* For XANDRIE SA, its registered office; 
+*   For XANDRIE SA, its registered office; 
 
-* For the Customer, the address specified upon subscription, or upon any subsequent modification notified by registered letter with acknowledgement of receipt.  
+*   For the Customer, the address specified upon subscription, or upon any subsequent modification notified by registered letter with acknowledgement of receipt.  
 
 **20\. Nullity of an article** 
 
@@ -924,9 +924,9 @@ If the Customer has taken out a trial period or Subscription, paying through a t
 
 These GCUS govern the SUBLIME HI-FI, STUDIO SUBLIME or SUBLIME SOLO paid subscription offers (hereinafter referred as the “SUBLIME SOLO offer”) without advertising, allowing the Customer to access:
 
-* the QOBUZ streaming service without advertising allowing the Customer to listen to all the tracks in the Site’s music catalogue in true CD quality and on Hi-Res 24-bit quality (up to 192 kHz), on a single listening device at a time (personal computer, tablet, smartphone, connected audio device); 
+*   the QOBUZ streaming service without advertising allowing the Customer to listen to all the tracks in the Site’s music catalogue in true CD quality and on Hi-Res 24-bit quality (up to 192 kHz), on a single listening device at a time (personal computer, tablet, smartphone, connected audio device); 
 
-*  the true CD Quality and Hi-Res 24-bit albums via download at a preferential fee under the conditions set out in the QOBUZ Download GCUS. 
+*    the true CD Quality and Hi-Res 24-bit albums via download at a preferential fee under the conditions set out in the QOBUZ Download GCUS. 
 
 To benefit from the SUBLIME SOLO offer, any Customer of the Site must have previously consulted and accepted these GCUS without restriction or reservation. 
 
@@ -966,9 +966,9 @@ If the Customer has taken out a trial period or Subscription, paying through a t
 
 These GCUS apply to SUBLIME DUO paid subscription offer (hereinafter referred to as “the SUBLIME DUO offer”), without advertising, allowing the Customer to access:
 
-* the QOBUZ streaming service without advertising allowing the Customer to listen to all the tracks in the Site’s music catalogue in true CD quality and on Hi-Res 24-bit quality (up to 192 kHz), on a single listening device at a time (personal computer, tablet, smartphone, connected audio device); 
+*   the QOBUZ streaming service without advertising allowing the Customer to listen to all the tracks in the Site’s music catalogue in true CD quality and on Hi-Res 24-bit quality (up to 192 kHz), on a single listening device at a time (personal computer, tablet, smartphone, connected audio device); 
 
-*  the true CD Quality and Hi-Res 24-bit albums via download at a preferential fee under the conditions set out in the QOBUZ Download GCUS. 
+*    the true CD Quality and Hi-Res 24-bit albums via download at a preferential fee under the conditions set out in the QOBUZ Download GCUS. 
 
 To benefit from the SUBLIME DUO offer, any Customer of the Site must have previously consulted and accepted these GCUS without restriction or reservation. 
 
@@ -1047,9 +1047,9 @@ These GCUS apply to SUBLIME FAMILY paid subscription offer (hereinafter referred
 
   
 
-* the QOBUZ streaming service without advertising allowing the Customer to listen to all the tracks in the Site’s music catalogue in true CD quality and on Hi-Res 24-bit quality (up to 192 kHz), on a single listening device at a time (personal computer, tablet, smartphone, connected audio device); 
+*   the QOBUZ streaming service without advertising allowing the Customer to listen to all the tracks in the Site’s music catalogue in true CD quality and on Hi-Res 24-bit quality (up to 192 kHz), on a single listening device at a time (personal computer, tablet, smartphone, connected audio device); 
 
-*  the true CD Quality and Hi-Res 24-bit Albums via download at a preferential fee under the conditions set out in the QOBUZ Download GCUS. 
+*    the true CD Quality and Hi-Res 24-bit Albums via download at a preferential fee under the conditions set out in the QOBUZ Download GCUS. 
 
  21.7.1     Description and availability of SUBLIME FAMILY offer 
 
