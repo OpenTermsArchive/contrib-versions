@@ -29,27 +29,27 @@ We collect and use different types of data from and about you, including:
 
 You provide information to us when you：
 
-* search for products or services on our website；
-* place order in our stores;
-* download, stream, view, or use content on a device (camera usually), or through a service or application on a device;
-* provide information in Your Account (and you might have more than one if you have used more than one e-mail address or mobile number when you register and use our Products and Services) or Your Profile;
-* configure your settings on, provide data access permissions for, or interact with a TP-Link device or service;
-* communicate with us by phone, e-mail, livechat, or otherwise;
-* complete a questionnaire, a contest entry form, or beta testing application;
-* upload or stream images, videos, or other files to the cloud Services;
-* post new topics on the TP-Link Community forum.
+*   search for products or services on our website；
+*   place order in our stores;
+*   download, stream, view, or use content on a device (camera usually), or through a service or application on a device;
+*   provide information in Your Account (and you might have more than one if you have used more than one e-mail address or mobile number when you register and use our Products and Services) or Your Profile;
+*   configure your settings on, provide data access permissions for, or interact with a TP-Link device or service;
+*   communicate with us by phone, e-mail, livechat, or otherwise;
+*   complete a questionnaire, a contest entry form, or beta testing application;
+*   upload or stream images, videos, or other files to the cloud Services;
+*   post new topics on the TP-Link Community forum.
 
 As a result of those actions, you might supply us with information such as:
 
-* identifying information such as your name, address, and phone numbers;
-* payment information;
-* your location information;
-* people, addresses, and phone numbers listed in your Addresses;
-* email address;
-* content of livechats, posts, and emails to us;
-* personal description and photograph in Your Profile;
-* images and videos collected by cameras or stored in connection with subscribed cloud services;
-* device log files and configurations, including Wi-Fi credentials, if you choose to automatically synchronize them with your other devices or third-party accounts.
+*   identifying information such as your name, address, and phone numbers;
+*   payment information;
+*   your location information;
+*   people, addresses, and phone numbers listed in your Addresses;
+*   email address;
+*   content of livechats, posts, and emails to us;
+*   personal description and photograph in Your Profile;
+*   images and videos collected by cameras or stored in connection with subscribed cloud services;
+*   device log files and configurations, including Wi-Fi credentials, if you choose to automatically synchronize them with your other devices or third-party accounts.
 
 1.2 Automatic Information
 
@@ -65,14 +65,14 @@ We may receive data from other sources including, but not limited to, third-part
 
 We use your personal information to operate, provide, develop, and improve the products and services that we offer our products. These purposes include:
 
-* Purchase and delivery of products and services. We use your personal information to take and handle orders, deliver products and services, process payments, and communicate with you about orders, products and services, and promotional offers.
-* Provide, troubleshoot, and improve our Products and Services. We use your personal information to provide functionality, analyze performance, fix errors, and improve the usability and effectiveness of our Products and Services.
-* Recommendations and personalization. We use your personal information to recommend features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with our Products and Services.
-* Provide voice, image, and camera services. When you use our voice, image, and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services.
-* Comply with legal obligations. In certain cases, we collect and use your personal information to comply with applicable laws. For instance, we collect from Partner Program users information regarding taxpayer identification number and bank account information for tax purposes.
-* Communicate with you. We use your personal information to communicate with you in relation to our Products and Services via different channels (e.g., by phone, email, livechat).
-* Marketing. We use your personal information to display interest-based ads for features, products, and services that might be of interest to you. We do not use information that personally identifies you to display interest-based ads.
-* Fraud Prevention and Credit Risks. We use personal information to prevent and detect fraud and abuse in order to protect the security of our customers, TP-Link, and others.
+*   Purchase and delivery of products and services. We use your personal information to take and handle orders, deliver products and services, process payments, and communicate with you about orders, products and services, and promotional offers.
+*   Provide, troubleshoot, and improve our Products and Services. We use your personal information to provide functionality, analyze performance, fix errors, and improve the usability and effectiveness of our Products and Services.
+*   Recommendations and personalization. We use your personal information to recommend features, products, and services that might be of interest to you, identify your preferences, and personalize your experience with our Products and Services.
+*   Provide voice, image, and camera services. When you use our voice, image, and camera services, we use your voice input, images, videos, and other personal information to respond to your requests, provide the requested service to you, and improve our services.
+*   Comply with legal obligations. In certain cases, we collect and use your personal information to comply with applicable laws. For instance, we collect from Partner Program users information regarding taxpayer identification number and bank account information for tax purposes.
+*   Communicate with you. We use your personal information to communicate with you in relation to our Products and Services via different channels (e.g., by phone, email, livechat).
+*   Marketing. We use your personal information to display interest-based ads for features, products, and services that might be of interest to you. We do not use information that personally identifies you to display interest-based ads.
+*   Fraud Prevention and Credit Risks. We use personal information to prevent and detect fraud and abuse in order to protect the security of our customers, TP-Link, and others.
 
 We will only process your personal data for the purposes of providing Products and Services in compliance with applicable laws, as may be amended from time to time.
 
@@ -84,13 +84,13 @@ Cookies are small pieces of text used to store information on web browsers. Cook
 
 We use cookies to distinguish you from other users. This helps us deliver a better and more personalized service when you use our Products and Services. It also allows us to improve our Products and Services by enabling us to:
 
-* estimate our audience size and usage patterns;
-* store your preferences so we may customize our Products and Services according to your individual interests;
-* speed up your searches;
-* recognize you when you return;
-* keep your account, data, and our Products and Services safe and secure;
-* promote the products or services to you that you may be interested in; and
-* measure the performance of cooperating third-party sellers.
+*   estimate our audience size and usage patterns;
+*   store your preferences so we may customize our Products and Services according to your individual interests;
+*   speed up your searches;
+*   recognize you when you return;
+*   keep your account, data, and our Products and Services safe and secure;
+*   promote the products or services to you that you may be interested in; and
+*   measure the performance of cooperating third-party sellers.
 
 You may refuse to accept browser cookies by activating the appropriate setting on your browser. However, if you select this setting, certain parts of our Website may become inaccessible and certain features may not work correctly. Unless you adjust your browser settings to refuse cookies, our system will issue them.
 
@@ -100,10 +100,10 @@ We may share your personal information internally and externally with suppliers,
 
 (1) _With Our Authorized Partners_: We may share your information with our authorized partners. We share information with our authorized partners to
 
-* promote safety, security, and integrity and comply with applicable laws;
-* personalize offers, ads, and other sponsored or commercial content;
-* develop and provide features and integrations;
-* understand how customers use and interact with our Products and Services.
+*   promote safety, security, and integrity and comply with applicable laws;
+*   personalize offers, ads, and other sponsored or commercial content;
+*   develop and provide features and integrations;
+*   understand how customers use and interact with our Products and Services.
 
 (2) _Service Providers_: To assist in our business operations and better provide Products and Services (e.g., for software maintenance services, advertising serving technologies, e-mail services, delivery services, database management services, web analytics, and other services), we may share your information with such service provider.
 
@@ -125,17 +125,17 @@ While we strive to always protect the privacy of your account and personal data 
 
 Here are some best practices to protect your TP-Link ID account:
 
-* **Use complex passwords (a mixture of upper and lower letters, numbers, and symbols) when signing up.**
-* **Use a unique password different from other website accounts to avoid being involved in their accidental data breaches.**
-* **Change your passwords regularly.**
-* **Use 2 Factor Authentication (2FA) if possible.**
+*   **Use complex passwords (a mixture of upper and lower letters, numbers, and symbols) when signing up.**
+*   **Use a unique password different from other website accounts to avoid being involved in their accidental data breaches.**
+*   **Change your passwords regularly.**
+*   **Use 2 Factor Authentication (2FA) if possible.**
 
 ### **6\. HOW WE STORE AND PROCESS YOUR INFORMATION**
 
 Your information will be transferred or transmitted to, or stored and processed in the following circumstances in accordance with the purposes stated within this Privacy Policy:
 
-* Places we have infrastructure or data centers, including the United States, Ireland, and Singapore, among other Countries where TP-Link Products and Services are available. Typically, the primary storage region is the region that is closest to the customer’s region, often with backups to data centers in another region. The storage location(s) are chosen in order to operate efficiently, to improve performance, and to create redundancies in order to protect the data in the event of an outage or other problem.
-* Other countries where our Partners, vendors, service providers and third parties are located outside of the country where you live, for purposes as described in this Privacy Policy.
+*   Places we have infrastructure or data centers, including the United States, Ireland, and Singapore, among other Countries where TP-Link Products and Services are available. Typically, the primary storage region is the region that is closest to the customer’s region, often with backups to data centers in another region. The storage location(s) are chosen in order to operate efficiently, to improve performance, and to create redundancies in order to protect the data in the event of an outage or other problem.
+*   Other countries where our Partners, vendors, service providers and third parties are located outside of the country where you live, for purposes as described in this Privacy Policy.
 
 These countries may have different privacy standards that differ from where you are. Please note that data processed in another country may be subject to different laws and may be accessible to government, judicial, law enforcement, and regulatory agencies in those countries. However, we will take appropriate measures to guarantee an adequate level of data protection even if your personal data are transferred to these countries.
 
