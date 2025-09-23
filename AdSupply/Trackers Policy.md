@@ -21,12 +21,12 @@ Some of our business partners may themselves use cookies. We have no access or c
 
 Cookies are used for the following purposes:
 
-* Ensure the security and the integrity of our site: We use cookies to help us to ensure a safe and trustworthy environment. Cookies help us to fight against security breaches on our site, as well as against any activity violating the rules of our site.
-* Improve your user’s experience: We use functional cookies to remember your preferences on our site and to help you to use our services efficiently. For example, we may use cookies to remember your login information, so that you do not have to retype your login details each time you visit or use our site.
-* Analytics and research: Our site uses analytics cookies. We use these cookies to gain insight into how you use our site and enhance your user’s experience.
-* Enable affiliate & referral programs: Cookies help us to identify the referrer website our users are coming from, so we can reward our partners for their efficient activity and promotion.
-* Ad targeting: Cookies may be used to display relevant advertisements to visitors.
-* Third parties cookies: We may also allow some third-party service providers to place cookies on our site for the above-mentioned purposes.
+*   Ensure the security and the integrity of our site: We use cookies to help us to ensure a safe and trustworthy environment. Cookies help us to fight against security breaches on our site, as well as against any activity violating the rules of our site.
+*   Improve your user’s experience: We use functional cookies to remember your preferences on our site and to help you to use our services efficiently. For example, we may use cookies to remember your login information, so that you do not have to retype your login details each time you visit or use our site.
+*   Analytics and research: Our site uses analytics cookies. We use these cookies to gain insight into how you use our site and enhance your user’s experience.
+*   Enable affiliate & referral programs: Cookies help us to identify the referrer website our users are coming from, so we can reward our partners for their efficient activity and promotion.
+*   Ad targeting: Cookies may be used to display relevant advertisements to visitors.
+*   Third parties cookies: We may also allow some third-party service providers to place cookies on our site for the above-mentioned purposes.
 
 In order to help us to understand how you interact with our site, what is interesting for you and how we can improve our services, we use analytics service providers, including Google Analytics. To prevent Google Analytics from using your information for analytics, you may install the Google Analytics Opt-Out Browser by [clicking here](http://tools.google.com/dlpage/gaoptout).
 
