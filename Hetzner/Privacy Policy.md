@@ -54,10 +54,10 @@ We will obtain this data **directly from you** or – if a **recruitment agency*
 
 ##### Why does Hetzner process my data and what is the legal basis for it?
 
-* **Conclusion of an employment contract:**Reviewing and processing your application. The goal is to sign an employment contract. (Art. 6 para. 1 lit. b GDPR)
-* **Ensuring your protection rights:** Processing special categories of personal data to protect your legal rights. (Art. 9 para. 2 lit. b GDPR in connection with Art. 6 para. 1 lit. b GDPR)
-* **Inclusion in our talent pool:** Storage of your documents for future positions in the company on the basis of your voluntary consent (Art. 6 para. 1 lit. a GDPR). You can revoke your permission at any time by reaching out to our personnel team at: [career@hetzner.com](mailto:career@hetzner.com)
-* **Legal documentation:** Storing the data to protect against potential legal claims or to assert them if necessary. (Art. 6 para. 1 lit. f GDPR)
+*   **Conclusion of an employment contract:**Reviewing and processing your application. The goal is to sign an employment contract. (Art. 6 para. 1 lit. b GDPR)
+*   **Ensuring your protection rights:** Processing special categories of personal data to protect your legal rights. (Art. 9 para. 2 lit. b GDPR in connection with Art. 6 para. 1 lit. b GDPR)
+*   **Inclusion in our talent pool:** Storage of your documents for future positions in the company on the basis of your voluntary consent (Art. 6 para. 1 lit. a GDPR). You can revoke your permission at any time by reaching out to our personnel team at: [career@hetzner.com](mailto:career@hetzner.com)
+*   **Legal documentation:** Storing the data to protect against potential legal claims or to assert them if necessary. (Art. 6 para. 1 lit. f GDPR)
 
   
 
@@ -83,9 +83,9 @@ The length of time your data will be stored can vary depending on the results of
 
   
 
-* **Rejection or withdrawal of the application: Six** months after the rejection or withdrawal of your application.
-* **Storage in our talent pool: 24 months.** You can revoke your permission for this at any time. Please contact our HR team to do so: [career@hetzner.com](mailto:career@hetzner.com)
-* **You become an employee: Your personal data will become part of **your employee file.****
+*   **Rejection or withdrawal of the application: Six** months after the rejection or withdrawal of your application.
+*   **Storage in our talent pool: 24 months.** You can revoke your permission for this at any time. Please contact our HR team to do so: [career@hetzner.com](mailto:career@hetzner.com)
+*   **You become an employee: Your personal data will become part of **your employee file.****
 
 Once the deadlines are reached, we will **delete** your data.
 
@@ -110,10 +110,10 @@ To increase the protection and security of your data, we use **a tool that autom
 
 To use the chatbot, you must accept all cookies. The following cookies are used:
 
-* Session-Cookie: Contains a session ID and information about the referring page
-* Google-Cookies: Google reCAPTCHA is used. More information: [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/).
-* Google Fonts: These are loaded via reCAPTCHA. More information: [https://fonts.google.com/about](https://fonts.google.com/about).
-* Weitere Cookies: If you are logged into your Google account in the background, additional cookies may be set by Google. See Google’s privacy policy: [https://policies.google.com/privacy](https://policies.google.com/privacy).
+*   Session-Cookie: Contains a session ID and information about the referring page
+*   Google-Cookies: Google reCAPTCHA is used. More information: [https://www.google.com/recaptcha/about/](https://www.google.com/recaptcha/about/).
+*   Google Fonts: These are loaded via reCAPTCHA. More information: [https://fonts.google.com/about](https://fonts.google.com/about).
+*   Weitere Cookies: If you are logged into your Google account in the background, additional cookies may be set by Google. See Google’s privacy policy: [https://policies.google.com/privacy](https://policies.google.com/privacy).
 
 **Log files**
 
@@ -246,9 +246,9 @@ If you fail to pay despite repeated reminders, we may instruct the **debt collec
 
 After a customer account is deactivated, the following retention periods apply:
 
-* **Without product usage: 3 years**
-* **With product usage (invoicing): 14 years** (in accordance with tax and commercial law retention obligations)
-* **Unverified customer accounts: 14 days** after the end of the failed verification period
+*   **Without product usage: 3 years**
+*   **With product usage (invoicing): 14 years** (in accordance with tax and commercial law retention obligations)
+*   **Unverified customer accounts: 14 days** after the end of the failed verification period
 
 Once these periods have expired, your **data will be deleted.**  
 
@@ -288,8 +288,8 @@ We use the **external service provider Sendinblue** to manage and send the newsl
 
 ##### How long will my data be saved?
 
-* **Tracking data is stored for 2 years** from the time it is collected.
-* If you **unsubscribe or if there are technical delivery issues,** your data will be kept for up to **three years.**
+*   **Tracking data is stored for 2 years** from the time it is collected.
+*   If you **unsubscribe or if there are technical delivery issues,** your data will be kept for up to **three years.**
 
 After the respective period, the data is **anonymized.**  
 
@@ -350,9 +350,9 @@ If you interact with us (e.g. by replying to our posts or mentioning us), we als
 
 We process your data:
 
-* as part of our **public communications** (Art. 6 para. 1 lit. f GDPR)
-* to securely and reliably **provide and maintain our Mastodon instance** (Art. 6 para. 1 lit. f GDPR)
-* to use cookies that are necessary for the **basic functionality of our Mastodon page** (§ 25 para 2 No. 2 TTDSG).
+*   as part of our **public communications** (Art. 6 para. 1 lit. f GDPR)
+*   to securely and reliably **provide and maintain our Mastodon instance** (Art. 6 para. 1 lit. f GDPR)
+*   to use cookies that are necessary for the **basic functionality of our Mastodon page** (§ 25 para 2 No. 2 TTDSG).
 
   
 
@@ -364,10 +364,10 @@ Due to Mastodon’s **federated structure** – meaning global networking with o
 
 ##### How long will my data be saved?
 
-* **General access data:** 7 days
-* **Your interactions** (e.g. replies or public comments): stored until you delete your account/li>
-* **Direct messages:** stored **until your account is deleted** - Please note: Your username may still be visible in our message overview even if the message content is no longer available
-* **Session cookies:** deleted automatically **when you close your browser.** We do not store these cookies separately or permanently on our servers.
+*   **General access data:** 7 days
+*   **Your interactions** (e.g. replies or public comments): stored until you delete your account/li>
+*   **Direct messages:** stored **until your account is deleted** - Please note: Your username may still be visible in our message overview even if the message content is no longer available
+*   **Session cookies:** deleted automatically **when you close your browser.** We do not store these cookies separately or permanently on our servers.
 
   
 
@@ -536,19 +536,19 @@ The **IP address is stored in anonymized form.** A personal reference is no long
 
 The GDPR grants you the following rights regarding your data:
 
-* **Right of access:  
+*   **Right of access:  
     **You can request information at any time about whether and which personal data we process about you.
-* **Right to rectification:  
+*   **Right to rectification:  
     **If the data we have stored about you is incorrect or incomplete, you can request its correction or completion.
-* **Right to erasure ("right to be forgotten"):  
+*   **Right to erasure ("right to be forgotten"):  
     **You can request the deletion of your data if it is no longer required for its original purpose. However, please note that immediate deletion may not be possible in some cases due to legal or contractual retention obligations.
-* **Right to restriction of processing:  
+*   **Right to restriction of processing:  
     **If, for example, you dispute the accuracy of your data or believe that the processing is unlawful, you can request that we restrict the processing of your data.
-* **Right to data portability:  
+*   **Right to data portability:  
     **You have the right to receive your data in a structured, commonly used, and machine-readable format. You can also request that we transfer the data directly to a third party, if technically feasible.
-* **Right to object:  
+*   **Right to object:  
     **You can object to the processing of your personal data unless there are compelling legitimate reasons for the processing.
-* **Right not to be subject to automated decision-making:  
+*   **Right not to be subject to automated decision-making:  
     **We do not make any automated decisions regarding your person. If we did, you would have the right not to be evaluated solely by algorithms.
 
 **If you would like to make use of any of these rights, please contact our data protection officer directly.**
