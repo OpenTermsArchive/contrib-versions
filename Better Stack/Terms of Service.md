@@ -26,12 +26,12 @@ Responsibility of Contributors
 
 If you post material to the Website, post links on the Website, or otherwise make (or allow any third party to make) material available by means of the Website (any such material, **“Content”**), you are entirely responsible for the content of, and any harm resulting from, that Content and you agree to hold Better Stack harmless against all claims, civil or criminal, resulting from the Content. That is the case regardless of whether the Content in question constitutes text, graphics, an audio file, or computer software. By making Content available, you represent and warrant that:
 
-* the downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;
-* if your employer has rights to intellectual property you create, you have either (i) received permission from your employer to post or make available the Content, including but not limited to any software, or (ii) secured from your employer a waiver as to all rights in or to the Content;
-* you have fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms;
-* the Content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive content;
-* the Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);
-* the Content is not pornographic, does not contain threats or incite violence, and does not violate the privacy or publicity rights of any third party;
+*   the downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;
+*   if your employer has rights to intellectual property you create, you have either (i) received permission from your employer to post or make available the Content, including but not limited to any software, or (ii) secured from your employer a waiver as to all rights in or to the Content;
+*   you have fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms;
+*   the Content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive content;
+*   the Content is not spam, is not machine- or randomly-generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);
+*   the Content is not pornographic, does not contain threats or incite violence, and does not violate the privacy or publicity rights of any third party;
 
 Without limiting any of those representations or warranties, Better Stack has the right (though not the obligation) to, in Better Stack’s sole discretion (i) refuse or remove any Content that, in Better Stack’s reasonable opinion, violates any Better Stack policy or is in any way harmful or objectionable, or (ii) terminate or deny access to and use of the Website to any individual or entity for any reason, in Better Stack’s sole discretion. Better Stack will have no obligation to provide a refund of any amounts previously paid.
 
@@ -45,12 +45,12 @@ Acceptable Use
 
 You must not:
 
-* use the Website to monitor websites and systems you do not own and operate or to which you have not been given authorized access.
-* use the Website to collect, store, process, or transmit any special categories of personal data or similarly protected information.
-* engage in or to instigate actions that may have an adverse effect on the stability and performance of the Website or other services. Better Stack may choose to set limits on the use of a resource through quotas, time limits, and other mechanisms.
-* engage in any activity that is intended to harm Website’s systems, other customers, other systems, or end users of other services and websites.
-* distribute, publish, send, or facilitate the sending of unsolicited mass e-mail or other messages.
-* use, or facilitate use of, the Website in a manner, which violates any applicable law or regulation.
+*   use the Website to monitor websites and systems you do not own and operate or to which you have not been given authorized access.
+*   use the Website to collect, store, process, or transmit any special categories of personal data or similarly protected information.
+*   engage in or to instigate actions that may have an adverse effect on the stability and performance of the Website or other services. Better Stack may choose to set limits on the use of a resource through quotas, time limits, and other mechanisms.
+*   engage in any activity that is intended to harm Website’s systems, other customers, other systems, or end users of other services and websites.
+*   distribute, publish, send, or facilitate the sending of unsolicited mass e-mail or other messages.
+*   use, or facilitate use of, the Website in a manner, which violates any applicable law or regulation.
 
 Better Stack reserves the right to take immediate action to suspend or terminate your account if, in its sole and exclusive discretion, you are engaging in activities that violate this Agreement. Any termination or suspension may be undertaken with or without notice to you.
 
