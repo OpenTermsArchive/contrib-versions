@@ -7,12 +7,12 @@ This Acceptable Use Policy (“**Policy**”) governs your use of the services o
 
 You may not use, or facilitate or allow others to use, the Services or the AWS Site:
 
-* for any illegal or fraudulent activity; 
-* to violate the rights of others; 
-* to threaten, incite, promote, or actively encourage violence, terrorism, or other serious harm; 
-* for any content or activity that promotes child sexual exploitation or abuse; 
-* to violate the security, integrity, or availability of any user, network, computer or communications system, software application, or network or computing device; 
-* to distribute, publish, send, or facilitate the sending of unsolicited mass email or other messages, promotions, advertising, or solicitations (or “spam”).  
+*   for any illegal or fraudulent activity; 
+*   to violate the rights of others; 
+*   to threaten, incite, promote, or actively encourage violence, terrorism, or other serious harm; 
+*   for any content or activity that promotes child sexual exploitation or abuse; 
+*   to violate the security, integrity, or availability of any user, network, computer or communications system, software application, or network or computing device; 
+*   to distribute, publish, send, or facilitate the sending of unsolicited mass email or other messages, promotions, advertising, or solicitations (or “spam”).  
 
 Investigation and Enforcement
 -----------------------------
