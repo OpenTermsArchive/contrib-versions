@@ -24,10 +24,10 @@ We want you to fully understand how we may collect, use, and share data relating
 This Privacy Policy incorporates:
 ---------------------------------
 
-* Better navigation and user-friendly language. To make the policy easier to understand, we use clear, plain language and examples that illustrate our activities.
-* Insights into how we acquire your information and how it is used.
-* More control over your information. We provide intelligence on how you can control the information you provide to us. Our policy explains how you can make choices about your information, and the measures we’ve put in place to keep your information secure.
-* More about using our products for work. Many users have access to our services through their organizations (e.g., their employers), who control their accounts or use of our Services. The updated policy clarifies our relationship to these users and explains the tools available to administrators of these users.
+*   Better navigation and user-friendly language. To make the policy easier to understand, we use clear, plain language and examples that illustrate our activities.
+*   Insights into how we acquire your information and how it is used.
+*   More control over your information. We provide intelligence on how you can control the information you provide to us. Our policy explains how you can make choices about your information, and the measures we’ve put in place to keep your information secure.
+*   More about using our products for work. Many users have access to our services through their organizations (e.g., their employers), who control their accounts or use of our Services. The updated policy clarifies our relationship to these users and explains the tools available to administrators of these users.
 
 What is Personal and Non Personal Information?
 ----------------------------------------------
@@ -51,66 +51,66 @@ Below are the specific purposes for which we use the information we collect from
 
 You give us information yourself voluntarily, when you:
 
-* Create and update an account
+*   Create and update an account
     
     In order to use certain features, you need to create an account with us. We ask for the bare minimum amount of necessary information - your name and email address, a user ID selected by you, and a, hopefully, complicated and very secure password. Then we assign you a unique identifying number in our database.
     
     We use this information to authenticate you when you log in and to communicate with you. Communications may be to onboard you to a particular Service to help you become more proficient in using that Service. Or, to send you administrative messages and information, notifications about changes to our Services, and updates to our agreements. Additionally, communications could be about Service features, updates, security alerts, technical notices, support and administrative messages, surveys, offers, promotions, events, and provide other news or information which may interest you or other similar messages.
     
-* Make a purchase
+*   Make a purchase
     
     If you purchase a subscription or add-ons, you must provide certain payment and billing data to our payment processing partners, including your name, credit card information, billing address, and zip code. We do store purchase history, billing, and payment confirmation information. We’ll email you invoices confirming your purchase
     
-* Contact us directly
+*   Contact us directly
     
     If you contact us for support or to report a problem or concern (regardless of whether you have created an account), we collect and store your messages, and other data about you like your name, email address, location, operating system, IP address, and any other data you provide or that we collect through automated means (which we cover below). We use this data to respond to you and research your question or concern.
     
-* Interact with our ads
+*   Interact with our ads
     
     Our advertisers gather information when you click on or tap ads or watch videos.
     
     The information is used to show you content that’s relevant, interesting and personal to you and to tailor advertisements across your various devices. Studying ad results helps us make decisions about our customers advertising preferences.
     
-* Add names and email addresses to share folders and files
+*   Add names and email addresses to share folders and files
     
     To use these features, you provide names and email addresses in order to enable the functionality of the features.
     
-* Add people or designate an administrator or billing representative for a business account
+*   Add people or designate an administrator or billing representative for a business account
     
     Companies purchase seats on their account for employees or business associates and provide names and email addresses for the person ‘occupying’ each seat purchased. By necessity, each business account will need to provide contact information for their account administrator and, if different, a billing representative. If you are an individual registered user and the domain of the primary email address associated with your account is owned by your employer and was assigned to you as an employee of that organization, and your organization wishes to establish a business account, then certain information concerning past use of your individual account may become accessible to that organization’s administrator or group of users.
     
-* Share your information from other companies, such as Facebook, Twitter and Google
+*   Share your information from other companies, such as Facebook, Twitter and Google
     
     You may allow transmission of your personal information from companies like these, which may be controlled in the settings of each website, not by MediaFire. MediaFire does not ask for information about you.
     
-* Provide information at an event we sponsor or participate in
+*   Provide information at an event we sponsor or participate in
     
     Your name, contact, and possibly other information, may be recorded on our servers.
     
-* Your administrator integrates our Services with other services you use
+*   Your administrator integrates our Services with other services you use
     
     To do this, you will need an account.
     
-* File a DMCA claim with us
+*   File a DMCA claim with us
     
     When you file a DMCA claim, you provide information about who you are. All the info will be kept on our servers.
     
-* Accept our Terms of Service and Privacy Policy
+*   Accept our Terms of Service and Privacy Policy
     
     You must accept our agreements in order to use our Services and we record your clicked acceptance.
     
-* Apply for a job
+*   Apply for a job
     
     When a person applies for a job with MediaFire thru our website, all information is recorded and maintained on our servers. Applications received in person or by mail will be manually processed and your name and contact information will be entered into forms stored on our servers.
     
 
 Our systems and/or third parties may automatically obtain information:
 
-* Third-party platforms you connect with
+*   Third-party platforms you connect with
     
     An example would be logging into MediaFire from Facebook. We need to ensure it’s you, so information is passed to us. You should review the privacy policies of every website you visit. Third-party platforms may use cookies to track users and gather information. You should review the privacy policies of these platforms to understand their practices.
     
-* Information about your device(s)
+*   Information about your device(s)
     
     Information about your IP address, device make, model, operating system, version, and data connection type, and platform, in addition to other specifications and information will be automatically gleaned during contact with our Services.
     
@@ -118,13 +118,13 @@ Our systems and/or third parties may automatically obtain information:
     
     Devices are discussed in more detail below.
     
-* When you upload, download, collaborate, share files or otherwise interact with our Services
+*   When you upload, download, collaborate, share files or otherwise interact with our Services
     
     These actions also are subject to the next point below – ‘When you interact with our website or mobile app or API’.
     
     You can create content, which may contain information about you, and grant permission for others to see, share, edit, copy and download that content based on settings you or your company administrator (if applicable) select. Some of the collaboration features of the Services display some or all of your profile information to other Service users when you share or interact with specific content. Under certain circumstances, when you share a file, your display name and profile picture may be displayed on that page, and Service users with permission to view the page can view your profile information as well. You can confirm whether certain information is visible from within the Services by contacting us or your administrator (if applicable). Please be aware that any Content posted, including information about you, by you or anyone with access to the Content, that Content may be publicly viewed and indexed by and returned in search results of search engines.
     
-* When you interact with our website or mobile app or API
+*   When you interact with our website or mobile app or API
     
     MediaFire is always looking for ways to make our Services smarter and faster, and more innovative and useful to you. We use collective learnings about how people use our Services so we may identify areas for integration and improvement, and feedback provided directly to us to troubleshoot our Services.
     
@@ -143,21 +143,21 @@ Our systems and/or third parties may automatically obtain information:
 
 Other companies give us data:
 
-* We may collect info from third party services we contract with
+*   We may collect info from third party services we contract with
     
     We work with third-party service providers to provide website and application development, hosting, maintenance, backup, storage, virtual infrastructure, payment processing and fraud detection, analysis and other services for us, which may require them to access or use information about you. We select only well-established and trusted service partners to access information about you to perform services on our behalf.
     
-* Information related to your use of third-party services
+*   Information related to your use of third-party services
     
     The information we receive when you link or integrate our Services with a third-party service depends on the settings, permissions and privacy policy controlled by that third-party service. You should always check the privacy settings and notices in these third-party services to understand what data may be disclosed to us or shared with our Services.
     
     Have you ever searched for information on a mailbox and then when you visit other websites you see ads for mailboxes? We contract with advertising companies that will use your previous search history and clicks to provide advertising of specific interest to you. Your interests and interactions with ads are not stored on our servers, but we do benefit from this practice. After all, ads help support our website and the experience should be of interest to you.
     
-* When you engage in an online survey initiated by us
+*   When you engage in an online survey initiated by us
     
     From time to time, we may perform research (online and offline) via surveys. We may engage third-party service providers to conduct such surveys on our behalf. All survey responses are voluntary, and the information collected will be used for research and reporting purposes to help us better serve our users, as a whole, by learning more about their needs and the quality of the products and services we provide. The survey responses may be utilized to determine the effectiveness of our Website, various types of communications and/or promotional activities, and innovations in products and other service offerings we might contemplate.
     
-* From a social media website
+*   From a social media website
     
     We allow you to use social media sites to create your MediaFire account, sign in to us, or to connect your account with the social media site. Social media sites may give us automatic access to certain personal information retained by them about you (e.g., content viewed by you, content liked by you, and information about the advertisements you have been shown or have clicked on, etc.).
     
@@ -194,11 +194,11 @@ These technologies can operate across all of your browsers, and in some instance
 
 Cookies are mutually beneficial small text files, which often include a unique identifier, placed in the memory of your browser or device when you visit a website or view a message. They are commonly used to remember where you were during your session with a website. They can be used to collect, store, and share data about your activities across websites. Cookies allow us to recognize you, remember things about your visits, make our site easier to use, see which areas and features are popular and count visits to our website. Most web browsers are set to accept cookies by default. There are several types of cookies:
 
-* Session cookies expire at the end of your browser session and allow sites to link your actions during that particular browser session. They help with navigation on a website and are enabled by default.
-* Persistent cookies are stored on your device and record information, allowing sites to remember your preferences or actions across multiple sites. They remain until you manually delete them or until they expire.
-* First-party cookies are created by the website you are visiting and are necessary to keep track of your personal preferences and the current session. Most web browsers enable first-party cookies by default. If you were to disable first-party cookies, a website could not keep track of your activity as you move from page to page.
-* Third-party cookies are set by a third party site separate from the site you are visiting. These are commonly used for advertising, analytics, etc.
-* Flash cookies aka Local Shared Objects (“LSO”) are a small file stored on your computer by a website that uses Adobe’s Flash player technology. Information stored on a Flash cookie is available to all browsers and is considered a security issue. When you delete or clear cookies from your browser, you will not necessarily delete the Flash cookies stored on your computer. MediaFire does not use Flash cookies.
+*   Session cookies expire at the end of your browser session and allow sites to link your actions during that particular browser session. They help with navigation on a website and are enabled by default.
+*   Persistent cookies are stored on your device and record information, allowing sites to remember your preferences or actions across multiple sites. They remain until you manually delete them or until they expire.
+*   First-party cookies are created by the website you are visiting and are necessary to keep track of your personal preferences and the current session. Most web browsers enable first-party cookies by default. If you were to disable first-party cookies, a website could not keep track of your activity as you move from page to page.
+*   Third-party cookies are set by a third party site separate from the site you are visiting. These are commonly used for advertising, analytics, etc.
+*   Flash cookies aka Local Shared Objects (“LSO”) are a small file stored on your computer by a website that uses Adobe’s Flash player technology. Information stored on a Flash cookie is available to all browsers and is considered a security issue. When you delete or clear cookies from your browser, you will not necessarily delete the Flash cookies stored on your computer. MediaFire does not use Flash cookies.
 
 Web beacons are small graphic images (also known as "pixel tags" or "clear GIFs") that typically work in conjunction with cookies to identify users and user behavior. There are myriad ways in which they can be used. For example, a third-party tracking site can determine how much merchandise was purchased for a particular banner ad campaign. In scenarios such as these, the individual users may still remain anonymous, even though their buying habits are disclosed.
 
@@ -218,46 +218,46 @@ Our cookies and similar technologies have different functions. They are either n
 
 To help Us help You to …
 
-* save your registration ID and login password for future logins to the Service,
-* match you to your personal information,
-* remember your settings and preferences so you don‘t have to set them up every time you visit us,
-* customize your experience and preferences,
-* enable changes you have made in your account,
-* help us remember the country you’re in,
-* identify you during a single browsing session as you move around on the pages,
-* Identify you across different browser sessions and devices,
-* remember the user-interface customization cookies (i.e. the parameters attached to your device including your screen resolution, font preference, etc),
-* enable processing and management of your purchases,
-* respond to your questions and otherwise interact with you,
-* allow sharing of your Content on social media
+*   save your registration ID and login password for future logins to the Service,
+*   match you to your personal information,
+*   remember your settings and preferences so you don‘t have to set them up every time you visit us,
+*   customize your experience and preferences,
+*   enable changes you have made in your account,
+*   help us remember the country you’re in,
+*   identify you during a single browsing session as you move around on the pages,
+*   Identify you across different browser sessions and devices,
+*   remember the user-interface customization cookies (i.e. the parameters attached to your device including your screen resolution, font preference, etc),
+*   enable processing and management of your purchases,
+*   respond to your questions and otherwise interact with you,
+*   allow sharing of your Content on social media
 
 To help Us …
 
 For Our Website, to …
 
-* allow proper functioning of our website/apps,
-* enable certain features of the Service,
-* properly display Content,
-* allow you access to our sites, services, applications, and tools,
-* help us provide a faster, more secure experience, and
-* identify irregular site behavior, prevent fraudulent activity and improve security.
+*   allow proper functioning of our website/apps,
+*   enable certain features of the Service,
+*   properly display Content,
+*   allow you access to our sites, services, applications, and tools,
+*   help us provide a faster, more secure experience, and
+*   identify irregular site behavior, prevent fraudulent activity and improve security.
 
 For Performance and Analytics, to …
 
-* know how you discovered our websites / app,
-* to monitor aggregate usage and web traffic routing on the Service,
-* To avoid visitors being counted twice;
-* to better understand how users interact with the Service by collecting information about the pages you view, the links you click, and other actions you take when using our Services,
-* identify whether a page was visited,
-* understand which areas and features of the Services are most popular,
-* know users’ reaction to subscription offerings,
-* to assess the performance of our websites, applications, services, and tools, and
-* gather information about devices and networks utilized to access our Services.
+*   know how you discovered our websites / app,
+*   to monitor aggregate usage and web traffic routing on the Service,
+*   To avoid visitors being counted twice;
+*   to better understand how users interact with the Service by collecting information about the pages you view, the links you click, and other actions you take when using our Services,
+*   identify whether a page was visited,
+*   understand which areas and features of the Services are most popular,
+*   know users’ reaction to subscription offerings,
+*   to assess the performance of our websites, applications, services, and tools, and
+*   gather information about devices and networks utilized to access our Services.
 
 For the Future, to …
 
-* improve our websites/apps by testing new versions and features, and
-* understand how you interact with our Service so we can improve the Service and your experience based on that information.
+*   improve our websites/apps by testing new versions and features, and
+*   understand how you interact with our Service so we can improve the Service and your experience based on that information.
 
 Third-party websites or services linked to MediaFire are not covered by this Privacy Policy. MediaFire is not responsible for the privacy practices of the third-party websites and companies or what they do with your information. You should make sure their privacy policy is acceptable to you. These websites may collect personally and non-personally identifiable information about you utilizing cookies, web beacons, log data analysis, API, SDK, JavaScript, pixels or other technologies or methods and place cookies on your browser in order to provide advertisement about goods and services likely to be of greater interest to you. To learn more about behavioral advertising practices or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [http://www.aboutads.info](http://www.aboutads.info/) and Network Advertising Initiative (NAI) at [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). You will still see ads if you opt out of behavioral advertising but the ads will be less relevant to you. Also note that deleting browser cookies can remove your opt-out preferences.
 
