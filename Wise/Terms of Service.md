@@ -5,9 +5,9 @@
 
 **1.2** This Agreement refers to and incorporates by reference additional documents (the “**Additional Documents**”), which also apply to your use of our Services, including:
 
-* a) Our **[Privacy Policy](https://wise.com/privacy-policy)**, which sets out the terms on which we process any personal data we collect about you, or that you provide to us. By using our Services, you consent to such processing, and you promise that all data provided by you is accurate;
-* b) Our **[Cookie Policy](https://wise.com/cookie-policy)**, which sets out information about the “cookies” on our Website;
-* c) Our **[Acceptable Use Policy](https://wise.com/gb/legal/acceptable-use-policy-eea)**, which sets out the permitted and prohibited uses of our Services.
+*   a) Our **[Privacy Policy](https://wise.com/privacy-policy)**, which sets out the terms on which we process any personal data we collect about you, or that you provide to us. By using our Services, you consent to such processing, and you promise that all data provided by you is accurate;
+*   b) Our **[Cookie Policy](https://wise.com/cookie-policy)**, which sets out information about the “cookies” on our Website;
+*   c) Our **[Acceptable Use Policy](https://wise.com/gb/legal/acceptable-use-policy-eea)**, which sets out the permitted and prohibited uses of our Services.
 
 The definitions of capitalised terms are below in the Glossary (section 2) or defined in parenthesis within this Agreement or the Additional Documents.
 
@@ -30,21 +30,21 @@ The definitions of capitalised terms are below in the Glossary (section 2) or de
 
 In this Agreement:
 
-* **API** means the application programming interface provided by Wise, for example, through an API Partner.
-* **API Partner** means a business we have partnered with for Wise to offer our Services through their website, mobile application or similar.
-* **App** means the mobile application software where we offer our Services, the data supplied with the software and the associated media.
-* **Business Day** means a day other than a Saturday, Sunday or a public holiday in Belgium.
-* **Card** means a card issued on a Wise Account by Wise, either for your Main Account or a Group.
-* **Chargeback** means the person sending you the money has made a claim to their bank or payment provider that money was sent to you illegitimately, or the payment to Wise fails due to insufficient funds, account closed or any other reason.
-* **Intellectual Property** means (i) rights in, and in relation to, any trademarks, logos, patents, registered designs, design rights, copyright and related rights, moral rights, databases, domain names, utility models, and including registrations and applications for, and renewals or extensions of, such rights, and similar or equivalent rights or forms of protection in any part of the world; (ii) rights in the nature of unfair competition rights and to sue for passing off and for past infringement; and (iii) trade secrets, confidentiality and other proprietary rights, including rights to know how and other technical information.
-* **Money Transfer** means a direct transfer of funds paid by you, without using funds in your Wise Account, to a designated recipient that is sent using Wise. In some currencies, you may only be able to convert and send funds using your Wise Account and cannot make a direct Money Transfer.
-* **Payment Services Law** means the Belgian law of 11 March 2018 on the status and supervision of payment institutions and electronic money institutions.
-* **Negative Currency Accounts** has the meaning given in section 15.7.
-* **Reversal** or **Reversed** means the funds received by you are reversed, returned or clawed back for any reason. For example, due to insufficient funds or account closure.
-* **Services** means all products, services, content, features, technologies, or functions offered by us and all related websites, applications (including the App), and service models (including the Website and via an API Partner), and including the Wise Account, the currency conversion and Money Transfer offerings.
-* **Third Party Materials** has the meaning given in section 28.
-* **Website** means any Wise webpage, including but not limited to www.wise.com, where we provide the Services to you.
-* **Wise Account** is a multi-currency account that allows you to hold, spend, send, and receive money as well as convert currency. Where possible you may also have a Card. Within your Wise Account you will have a main account, where you can add currencies for holding, spending, sending and receiving (“**Main Account**”). You can also have Jars and Groups outside the Main Account (but still part of the same Wise Account), where you can separate money away from your Main Account.
+*   **API** means the application programming interface provided by Wise, for example, through an API Partner.
+*   **API Partner** means a business we have partnered with for Wise to offer our Services through their website, mobile application or similar.
+*   **App** means the mobile application software where we offer our Services, the data supplied with the software and the associated media.
+*   **Business Day** means a day other than a Saturday, Sunday or a public holiday in Belgium.
+*   **Card** means a card issued on a Wise Account by Wise, either for your Main Account or a Group.
+*   **Chargeback** means the person sending you the money has made a claim to their bank or payment provider that money was sent to you illegitimately, or the payment to Wise fails due to insufficient funds, account closed or any other reason.
+*   **Intellectual Property** means (i) rights in, and in relation to, any trademarks, logos, patents, registered designs, design rights, copyright and related rights, moral rights, databases, domain names, utility models, and including registrations and applications for, and renewals or extensions of, such rights, and similar or equivalent rights or forms of protection in any part of the world; (ii) rights in the nature of unfair competition rights and to sue for passing off and for past infringement; and (iii) trade secrets, confidentiality and other proprietary rights, including rights to know how and other technical information.
+*   **Money Transfer** means a direct transfer of funds paid by you, without using funds in your Wise Account, to a designated recipient that is sent using Wise. In some currencies, you may only be able to convert and send funds using your Wise Account and cannot make a direct Money Transfer.
+*   **Payment Services Law** means the Belgian law of 11 March 2018 on the status and supervision of payment institutions and electronic money institutions.
+*   **Negative Currency Accounts** has the meaning given in section 15.7.
+*   **Reversal** or **Reversed** means the funds received by you are reversed, returned or clawed back for any reason. For example, due to insufficient funds or account closure.
+*   **Services** means all products, services, content, features, technologies, or functions offered by us and all related websites, applications (including the App), and service models (including the Website and via an API Partner), and including the Wise Account, the currency conversion and Money Transfer offerings.
+*   **Third Party Materials** has the meaning given in section 28.
+*   **Website** means any Wise webpage, including but not limited to www.wise.com, where we provide the Services to you.
+*   **Wise Account** is a multi-currency account that allows you to hold, spend, send, and receive money as well as convert currency. Where possible you may also have a Card. Within your Wise Account you will have a main account, where you can add currencies for holding, spending, sending and receiving (“**Main Account**”). You can also have Jars and Groups outside the Main Account (but still part of the same Wise Account), where you can separate money away from your Main Account.
 
 * * *
 
@@ -107,24 +107,24 @@ Customers must immediately notify us in writing or through the permitted digital
 
 **6.2** When accessing your Wise Account or profile, you should at the minimum do the following:
 
-* a) Change your password regularly and ensure that it isn’t reused for other online accounts.
-* b) Contact [Customer Support](https://wise.com/contact) if anyone asks for your login details, including your password.
-* c) Always follow recommended password management practice, including by using [strong passwords](https://support.google.com/accounts/answer/32040?hl=en), using a mixture of letters, numbers, and symbols.
-* d) Set up 2-step authentication where prompted by us.
-* e) Keep your email account secure. You may reset your password using your email address. Let [Customer Support](https://wise.com/contact) know immediately if your email account becomes compromised.
-* f) Update the App on your device to the latest version available.
-* g) Update your device’s browser to the latest version available.
-* h) Maintain your device’s operating systems with regular security updates provided by the operating system provider.
-* i) Install and maintain the latest anti-virus software on your device, where applicable.
-* j)It is essential to ensure every time you are entering your Wise username and password that it is only ever on our official App (downloaded from the iOS or Android store) or if via a browser, at [wise.com](http://wise.com/). Emails and SMS messages sent by fraudsters may lead to fake login portals that could phish your login information and 2-step authentication details. Similarly, criminals can place malicious adverts on search engines that lead to fake websites of trusted businesses, including Wise. More information on how to avoid falling for phishing scams can be found here: https://wise.com/gb/blog/scam-websites
-* k) If you suspect you have become a victim of a scam, contact our Customer Support.
+*   a) Change your password regularly and ensure that it isn’t reused for other online accounts.
+*   b) Contact [Customer Support](https://wise.com/contact) if anyone asks for your login details, including your password.
+*   c) Always follow recommended password management practice, including by using [strong passwords](https://support.google.com/accounts/answer/32040?hl=en), using a mixture of letters, numbers, and symbols.
+*   d) Set up 2-step authentication where prompted by us.
+*   e) Keep your email account secure. You may reset your password using your email address. Let [Customer Support](https://wise.com/contact) know immediately if your email account becomes compromised.
+*   f) Update the App on your device to the latest version available.
+*   g) Update your device’s browser to the latest version available.
+*   h) Maintain your device’s operating systems with regular security updates provided by the operating system provider.
+*   i) Install and maintain the latest anti-virus software on your device, where applicable.
+*   j)It is essential to ensure every time you are entering your Wise username and password that it is only ever on our official App (downloaded from the iOS or Android store) or if via a browser, at [wise.com](http://wise.com/). Emails and SMS messages sent by fraudsters may lead to fake login portals that could phish your login information and 2-step authentication details. Similarly, criminals can place malicious adverts on search engines that lead to fake websites of trusted businesses, including Wise. More information on how to avoid falling for phishing scams can be found here: https://wise.com/gb/blog/scam-websites
+*   k) If you suspect you have become a victim of a scam, contact our Customer Support.
 
 **6.3** You must NOT:
 
-* a) Disclose your login credentials or your 2-step authentication details), and you must keep them safe.
-* b) Let anyone access your Wise Account or profile or watch you accessing it, including letting someone else take remote control of your device(s).
-* c) Use any functionality that allows your login details or passwords to be stored by the computer or browser you are using or to be cached or otherwise recorded.
-* d) Do anything which may in any way avoid or compromise the 2-step authentication process.
+*   a) Disclose your login credentials or your 2-step authentication details), and you must keep them safe.
+*   b) Let anyone access your Wise Account or profile or watch you accessing it, including letting someone else take remote control of your device(s).
+*   c) Use any functionality that allows your login details or passwords to be stored by the computer or browser you are using or to be cached or otherwise recorded.
+*   d) Do anything which may in any way avoid or compromise the 2-step authentication process.
 
 **6.4 Contact us if you suspect your Wise Account has been compromised.** If you suspect your Wise Account or other login credentials are stolen, lost, used without your authorisation or otherwise compromised, you must contact [Customer Support](https://wise.com/contact) immediately. We recommend that you both call and email Customer Support right away. You can also freeze your Card with immediate effect on our App under the Account tab. You are also advised to change your password.
 
@@ -141,55 +141,55 @@ Customers must immediately notify us in writing or through the permitted digital
 
 **7.1 You must not misuse our systems.** You must not misuse our Services by:
 
-* a) Introducing viruses, trojans, worms, logic bombs or other materials which are malicious or technologically harmful;
-* b) Taking any action that imposes an unreasonable or disproportionately large load on our websites, software, systems (including any networks and servers used to provide any of the Services) operated by us or on our behalf, or attacking our Website, App or API with any type of denial-of-service attack;
-* c) Using an anonymising proxy; use any robot, spider, other automatic device, or manual process to monitor or copy our websites without our prior written permission; or use any device, software or routine to bypass our robot exclusion headers; or
-* d) Interfering or disrupting or attempting to interfere or to gain unauthorised access to our Website, software, API, systems (including any networks and servers used to provide any of the Wise Services) operated by us or on our behalf, any of the Wise Services or other users’ use of any of the Wise Services.
+*   a) Introducing viruses, trojans, worms, logic bombs or other materials which are malicious or technologically harmful;
+*   b) Taking any action that imposes an unreasonable or disproportionately large load on our websites, software, systems (including any networks and servers used to provide any of the Services) operated by us or on our behalf, or attacking our Website, App or API with any type of denial-of-service attack;
+*   c) Using an anonymising proxy; use any robot, spider, other automatic device, or manual process to monitor or copy our websites without our prior written permission; or use any device, software or routine to bypass our robot exclusion headers; or
+*   d) Interfering or disrupting or attempting to interfere or to gain unauthorised access to our Website, software, API, systems (including any networks and servers used to provide any of the Wise Services) operated by us or on our behalf, any of the Wise Services or other users’ use of any of the Wise Services.
 
 **7.2 We may suspend your Wise Account or your access to our Services for security reasons.** We may suspend your Wise Account or restrict its functionality if we have reasonable concerns about:
 
-* a) the security of your Wise Account or your profile;
-* b) suspected unauthorised or fraudulent use of your Wise Account or our Services; or
-* c) suspected violations of this Agreement or the Additional Documents.
+*   a) the security of your Wise Account or your profile;
+*   b) suspected unauthorised or fraudulent use of your Wise Account or our Services; or
+*   c) suspected violations of this Agreement or the Additional Documents.
 
 We will give you notice of any suspension or restriction and the reasons for such suspension or restriction as soon as we can, either before the suspension or restriction is put in place, or soon thereafter, unless notifying you would be unlawful or compromise our reasonable security measures.
 
 **7.3 You must not misuse our Services.** You must not misuse our Services by:
 
-* a) Breaching this Agreement, Additional Document, or any other agreement between you and any Wise entity;
-* b) Violating any law, statute, ordinance, or regulation (for example, those governing financial services, consumer protections, unfair competition, anti-discrimination or false advertising);
-* c) Infringing Wise’s Intellectual Property;
-* d) Selling counterfeit goods;
-* e) Acting in a manner that is defamatory, libellous, threatening or harassing;
-* f) Providing false, inaccurate or misleading information;
-* g) Sending or receiving what we reasonably believe to be potentially fraudulently gained funds;
-* h) Refusing to cooperate in an investigation or provide confirmation of your identity or any information requested by us;
-* i) Attempting to “double dip” during the course of a dispute or claim by receiving or attempting to receive funds from both Wise and a third party (e.g., a merchant), bank or card issuer for the same transaction;
-* j) Using Wise’s Services in a manner that results in or may result in;
-    * i. complaints to or about Wise;
-    * ii. requests by third parties to invalidate payments made to you;
-    * iii. fees, fines, penalties or other liability or losses to Wise, other Wise customers, third parties or you;
-* k) Using our Services in a manner that Wise, a card network or any other electronic funds transfer network reasonably believes to be an abuse of the card system or a violation of card association or network rules;
-* l) Allowing your Wise Account to have a negative balance;
-* m) Accessing the Wise Services from a country that where Wise is not permitted to operate;
-* n) Taking any action that may cause us to lose any of the services from our internet service providers, payment processors, or other suppliers or service providers;
-* o) Circumventing this Agreement or any Additional Document or Wise policy or determinations about your Wise Account such as temporary or indefinite suspensions or other account holds, limitations or restrictions, including, but not limited to, engaging in the following actions: attempting to open new or additional Wise account(s) or profile(s) when an account has a negative balance or has been restricted, suspended or otherwise limited;
-* p) Opening new or additional Wise Accounts or profiles using information that is not your own (e.g., name, address, email address, etc.), or using someone else’s Wise Account;
-* q) Harassing, being abusive towards and/or threatening our employees, agents, or other customers; or
-* r) Abusing a card network dispute resolution process.
+*   a) Breaching this Agreement, Additional Document, or any other agreement between you and any Wise entity;
+*   b) Violating any law, statute, ordinance, or regulation (for example, those governing financial services, consumer protections, unfair competition, anti-discrimination or false advertising);
+*   c) Infringing Wise’s Intellectual Property;
+*   d) Selling counterfeit goods;
+*   e) Acting in a manner that is defamatory, libellous, threatening or harassing;
+*   f) Providing false, inaccurate or misleading information;
+*   g) Sending or receiving what we reasonably believe to be potentially fraudulently gained funds;
+*   h) Refusing to cooperate in an investigation or provide confirmation of your identity or any information requested by us;
+*   i) Attempting to “double dip” during the course of a dispute or claim by receiving or attempting to receive funds from both Wise and a third party (e.g., a merchant), bank or card issuer for the same transaction;
+*   j) Using Wise’s Services in a manner that results in or may result in;
+    *   i. complaints to or about Wise;
+    *   ii. requests by third parties to invalidate payments made to you;
+    *   iii. fees, fines, penalties or other liability or losses to Wise, other Wise customers, third parties or you;
+*   k) Using our Services in a manner that Wise, a card network or any other electronic funds transfer network reasonably believes to be an abuse of the card system or a violation of card association or network rules;
+*   l) Allowing your Wise Account to have a negative balance;
+*   m) Accessing the Wise Services from a country that where Wise is not permitted to operate;
+*   n) Taking any action that may cause us to lose any of the services from our internet service providers, payment processors, or other suppliers or service providers;
+*   o) Circumventing this Agreement or any Additional Document or Wise policy or determinations about your Wise Account such as temporary or indefinite suspensions or other account holds, limitations or restrictions, including, but not limited to, engaging in the following actions: attempting to open new or additional Wise account(s) or profile(s) when an account has a negative balance or has been restricted, suspended or otherwise limited;
+*   p) Opening new or additional Wise Accounts or profiles using information that is not your own (e.g., name, address, email address, etc.), or using someone else’s Wise Account;
+*   q) Harassing, being abusive towards and/or threatening our employees, agents, or other customers; or
+*   r) Abusing a card network dispute resolution process.
 
 **7.4 The actions we may take if you engage in any restricted activities.** If we believe that any of the activities listed in this section have occurred, we may take several actions to protect Wise, its customers and others at any time in our sole discretion. The actions we may take include, but are not limited to, the following:
 
-* a) Terminating this Agreement immediately;
-* b) Suspending your Wise Account or your profile, during which time your Wise Account and profile will remain open but is not able to be operated or may be subject to restrictions until we remove the suspension;
-* c) Closing your Wise Account and terminating your access to our Services, which means your Wise Account is deactivated and/or your profile will not be available, without notice, without penalty to us;
-* d) Reporting suspected breach of law, regulation, or criminal statute to the relevant law enforcement authorities, and we will cooperate with those authorities, including by disclosing your identity to them;
-* e) Refusing to provide our Services to you in the future;
-* f) Limiting your access to our Website, App, software, systems (including any networks and servers used to provide any of the Wise Services) operated by us or on our behalf, your Wise Account or any of the Services, including limiting your ability to pay, convert or send money with any of the payment methods linked to your Wise Account, restricting your ability to send money or make withdrawals;
-* g) Holding the balance in your Wise Account if reasonably needed to protect against the risk of liability or if we reasonably believe you have violated our Acceptable Use Policy;
-* h) Contacting your bank or credit card issuer, other impacted third parties, or law enforcement about your actions;
-* i) Updating inaccurate information you provided us; and
-* j) Taking legal action against you, including seeking damages and reimbursement for losses and fees.
+*   a) Terminating this Agreement immediately;
+*   b) Suspending your Wise Account or your profile, during which time your Wise Account and profile will remain open but is not able to be operated or may be subject to restrictions until we remove the suspension;
+*   c) Closing your Wise Account and terminating your access to our Services, which means your Wise Account is deactivated and/or your profile will not be available, without notice, without penalty to us;
+*   d) Reporting suspected breach of law, regulation, or criminal statute to the relevant law enforcement authorities, and we will cooperate with those authorities, including by disclosing your identity to them;
+*   e) Refusing to provide our Services to you in the future;
+*   f) Limiting your access to our Website, App, software, systems (including any networks and servers used to provide any of the Wise Services) operated by us or on our behalf, your Wise Account or any of the Services, including limiting your ability to pay, convert or send money with any of the payment methods linked to your Wise Account, restricting your ability to send money or make withdrawals;
+*   g) Holding the balance in your Wise Account if reasonably needed to protect against the risk of liability or if we reasonably believe you have violated our Acceptable Use Policy;
+*   h) Contacting your bank or credit card issuer, other impacted third parties, or law enforcement about your actions;
+*   i) Updating inaccurate information you provided us; and
+*   j) Taking legal action against you, including seeking damages and reimbursement for losses and fees.
 
 * * *
 
@@ -211,10 +211,10 @@ If we are notified of a court order or other legal process (including garnishmen
 
 **9.4 When you may not close your Wise Account or delete your profile.** You must not close your Wise Account or delete your profile:
 
-* a) To evade an investigation;
-* b) If you have a pending transaction or an open dispute or claim;
-* c) If you have a negative balance; or
-* d) If your Wise Account is subject to a hold, limitation or reserve.
+*   a) To evade an investigation;
+*   b) If you have a pending transaction or an open dispute or claim;
+*   c) If you have a negative balance; or
+*   d) If your Wise Account is subject to a hold, limitation or reserve.
 
 If you attempt to do this, we may hold your money for a period of time that is reasonably necessary to protect our or a third party’s interest.
 
@@ -249,9 +249,9 @@ If you attempt to do this, we may hold your money for a period of time that is r
 
 **11.1** Our Services include the ability to convert currencies, for example:
 
-* a) As part of a Money Transfer;
-* b) In your Wise Account, where you may add money in one currency and then later use those funds to send money to a third party, spend money on your Card or withdraw money in a different currency; or
-* c) In your Wise Account, where you hold one currency in your Main Account, Jar or Group and then convert it to a different currency.
+*   a) As part of a Money Transfer;
+*   b) In your Wise Account, where you may add money in one currency and then later use those funds to send money to a third party, spend money on your Card or withdraw money in a different currency; or
+*   c) In your Wise Account, where you hold one currency in your Main Account, Jar or Group and then convert it to a different currency.
 
 **11.2 Exchange rate.** When we refer to an exchange rate in this Agreement, it means the exchange rate at the relevant time for the relevant currency pair (for example, GBP to EUR, USD to AUD) that is offered by Wise., which is typically provided by a reference rate provider. We may change our reference rate provider from time to time without notice to you.
 
@@ -273,15 +273,15 @@ If you attempt to do this, we may hold your money for a period of time that is r
 
 **12.1 About your Wise Account:**
 
-* a) Your Wise Account allows you to hold, spend, send and receive funds and convert currency.
-* b) The funds held on your Wise Account do not expire.
-* c) The funds held on your Wise Account will not earn any interest.
-* d) You may hold your funds in any currencies that we support from time to time.
-* e) You may withdraw funds from your Wise Account at any time subject to certain conditions, please see “Withdrawing funds from your Wise Account” in section 23 for more details.
-* f) Certain limits may be placed on your Wise Account depending on your country of residence, verification status or other legal considerations. For more information about these limits, you can contact us.
-* g) The funds held on your Wise Account belong to the individual which is registered as the Wise Account holder.
-* h) You need to have sufficient funds on your Wise Account to enable us to execute your transactions. If you don’t have sufficient funds in your Wise Account, we may refuse to execute pending or future transactions. We cannot be responsible for the time it takes for the money to be sent to us by your or a third party’s bank or payment service provider.
-* i) We may at our sole and absolute discretion reject a requested transaction, or refund a payment or other transaction, for any reason whatsoever, including without limitation, where the value of your Wise Account could directly or indirectly exceed any value permitted under the applicable laws and regulations or any other regulatory or risk limit prescribed for that Wise Account.
+*   a) Your Wise Account allows you to hold, spend, send and receive funds and convert currency.
+*   b) The funds held on your Wise Account do not expire.
+*   c) The funds held on your Wise Account will not earn any interest.
+*   d) You may hold your funds in any currencies that we support from time to time.
+*   e) You may withdraw funds from your Wise Account at any time subject to certain conditions, please see “Withdrawing funds from your Wise Account” in section 23 for more details.
+*   f) Certain limits may be placed on your Wise Account depending on your country of residence, verification status or other legal considerations. For more information about these limits, you can contact us.
+*   g) The funds held on your Wise Account belong to the individual which is registered as the Wise Account holder.
+*   h) You need to have sufficient funds on your Wise Account to enable us to execute your transactions. If you don’t have sufficient funds in your Wise Account, we may refuse to execute pending or future transactions. We cannot be responsible for the time it takes for the money to be sent to us by your or a third party’s bank or payment service provider.
+*   i) We may at our sole and absolute discretion reject a requested transaction, or refund a payment or other transaction, for any reason whatsoever, including without limitation, where the value of your Wise Account could directly or indirectly exceed any value permitted under the applicable laws and regulations or any other regulatory or risk limit prescribed for that Wise Account.
 
 **12.2** Your money in the Wise Account is issued in accordance with the Law of 11 March 2018 on the status and supervision of payment institutions and electronic money institutions, access to the business of payment service providers and to the activity of issuing electronic money.
 
@@ -301,8 +301,8 @@ In the event that your Direct Debit payment results in a Reversal, Wise will try
 
 **12.8 Chargebacks on your payment instrument.** If you selected a Pay-in Method which can be subject to chargeback (for example a credit card), you agree that you will only exercise this chargeback right if:
 
-* a) we have breached this Agreement; or
-* b) there was an unauthorised use of your payment instrument, meaning that you did not execute or authorise the payment.
+*   a) we have breached this Agreement; or
+*   b) there was an unauthorised use of your payment instrument, meaning that you did not execute or authorise the payment.
 
 You agree that you will not exercise your chargeback right for any other reason. If we need to investigate or take any actions in connection with a chargeback caused by or related to you, we may charge you for our costs in doing so and may deduct those costs from your Wise Account or close your Wise Account or limit your access to our Services.
 
@@ -329,11 +329,11 @@ You agree that you will not exercise your chargeback right for any other reason.
 
 **13.1 Funds added to your Wise Account may be subject to Reversal.** Funds added to your Wise Account could be Reversed or subject to a Chargeback, which means that you will not get those funds back. If a Reversal or Chargeback causes you to have a negative balance, you will be immediately liable to Wise for the negative balance plus any fees. Funds added to your Wise Account may be Reversed by Wise, or may be Reversed or subject to a chargeback to the person paying you the money or the payment provider, and/or may be liable to repayment to Wise if, without limitation, we have reason to believe:
 
-* a) Wise, or any other party, sent the funds to you in error;
-* b) The sending of the funds was unauthorised or fraudulently undertaken or induced;
-* c) The funds were received for activities that have violated any laws, this Agreement, the Additional Documents, or any other agreement between you and Wise;
-* d) The funds are, for some other reason, Reversed by the sender or a payment provider; or
-* e) Any other error resulting in your Wise Account being credited in circumstances where you are not the lawful recipient and/or lawfully entitled to retain the funds.
+*   a) Wise, or any other party, sent the funds to you in error;
+*   b) The sending of the funds was unauthorised or fraudulently undertaken or induced;
+*   c) The funds were received for activities that have violated any laws, this Agreement, the Additional Documents, or any other agreement between you and Wise;
+*   d) The funds are, for some other reason, Reversed by the sender or a payment provider; or
+*   e) Any other error resulting in your Wise Account being credited in circumstances where you are not the lawful recipient and/or lawfully entitled to retain the funds.
 
 **13.2** If any funds are Reversed by the sender or any payment provider, you agree that Wise may refund, deduct or Reverse the Received Amount plus any applicable fees from your Wise Account (if applicable) in the same currency as the original transaction. If your Wise Account balance for the relevant currency is insufficient to cover the amount of a refund, deduction or Reversal, Wise may at its discretion perform a currency conversion to refund or Reverse the transaction, subject to the exchange rate being offered by Wise in the applicable currencies at that time. If a Reversal or chargeback causes you to have a negative balance, you will be immediately liable to Wise for the negative balance plus any losses to Wise, if any.
 
@@ -415,24 +415,24 @@ Accordingly, you should not use our Services, including the Wise Account or the 
 
 **17.10 Other limits.** We may, at our reasonable discretion, decline the use of your Card for situations including, but not limited to:
 
-* a) Pre-authorised regular payments;
-* b) Transactions at self-service petrol pumps;
-* c) Transactions for cash (other than ATM withdrawal) including for example cash back, cash from a bank, money orders, traveller’s cheques, foreign exchange, or bureau de change, or any illegal purposes;
-* d) Where it is not possible for the supplier of the good or service to obtain online authorisation that you have sufficient funds in your Wise Account for the transaction. For example: transactions on trains, ships, and some in-flight purchases;
-* e) Where there is suspicion that the Card is being used to exploit vulnerabilities in a merchant’s payment processing or the card payment ecosystem; or
-* f) Where we have grounds to believe that you have made false statements in an attempt to obtain reimbursement for a previous transaction.
+*   a) Pre-authorised regular payments;
+*   b) Transactions at self-service petrol pumps;
+*   c) Transactions for cash (other than ATM withdrawal) including for example cash back, cash from a bank, money orders, traveller’s cheques, foreign exchange, or bureau de change, or any illegal purposes;
+*   d) Where it is not possible for the supplier of the good or service to obtain online authorisation that you have sufficient funds in your Wise Account for the transaction. For example: transactions on trains, ships, and some in-flight purchases;
+*   e) Where there is suspicion that the Card is being used to exploit vulnerabilities in a merchant’s payment processing or the card payment ecosystem; or
+*   f) Where we have grounds to believe that you have made false statements in an attempt to obtain reimbursement for a previous transaction.
 
 **17.11 We are not liable for certain losses.** You are solely responsible for losses arising from your gross negligence or fraud. We also will not be liable in the following instances:
 
-* a) If through no fault of ours, you do not have enough funds available in your Wise Account to complete the transaction;
-* b) If a merchant refuses to accept your Card;
-* c) If an ATM where you are making a cash withdrawal does not have enough cash;
-* d) If an electronic terminal where you are making a transaction does not operate properly;
-* e) If access to your Card has been blocked after you reported your Card lost or stolen or if Wise has reason to believe that your Wise Account was compromised; (see “When can we suspend or cancel your Card?”)
-* f) If there is a hold or your funds are subject to legal or administrative process or other encumbrance restricting their use;
-* g) If the requested transaction is unauthorised as defined under this Agreement;
-* h) If circumstances beyond our control (such as fire, flood, or computer or communication failure) prevent the completion of the transaction, despite reasonable precautions that we have taken; or
-* i) Any other exception stated in this Agreement.
+*   a) If through no fault of ours, you do not have enough funds available in your Wise Account to complete the transaction;
+*   b) If a merchant refuses to accept your Card;
+*   c) If an ATM where you are making a cash withdrawal does not have enough cash;
+*   d) If an electronic terminal where you are making a transaction does not operate properly;
+*   e) If access to your Card has been blocked after you reported your Card lost or stolen or if Wise has reason to believe that your Wise Account was compromised; (see “When can we suspend or cancel your Card?”)
+*   f) If there is a hold or your funds are subject to legal or administrative process or other encumbrance restricting their use;
+*   g) If the requested transaction is unauthorised as defined under this Agreement;
+*   h) If circumstances beyond our control (such as fire, flood, or computer or communication failure) prevent the completion of the transaction, despite reasonable precautions that we have taken; or
+*   i) Any other exception stated in this Agreement.
 
 **17.12 No Warranty Regarding Goods or Services as Applicable.** Wise is not responsible for the quality, safety, legality, or any other aspect of any goods or services you purchase with your Card. Any disputes or issues with any goods or services you purchase with your Card should be addressed to the merchants or individuals from whom the goods and services were purchased.
 
@@ -448,10 +448,10 @@ We reserve the right, in our sole discretion, to limit your use of the Card. We 
 
 **17.17 Disputed transactions.** In case of disputed Card transactions, we may, subject to any restrictions under applicable law, decide not to proceed with chargebacks at our sole discretion. Reasons for this might include:
 
-* a) Not receiving sufficient information to determine that an error occurred;
-* b) Not receiving a notification about the payment error in a timely manner;
-* c) Disputes being caused by the risky nature of transactions undertaken with the Card;
-* d) We have evidence that you or someone you gave your Card to authorised the transactions in dispute.
+*   a) Not receiving sufficient information to determine that an error occurred;
+*   b) Not receiving a notification about the payment error in a timely manner;
+*   c) Disputes being caused by the risky nature of transactions undertaken with the Card;
+*   d) We have evidence that you or someone you gave your Card to authorised the transactions in dispute.
 
 * * *
 
@@ -555,23 +555,23 @@ We reserve the right, in our sole discretion, to limit your use of the Card. We 
 
 **24.5 Guaranteed rates.** We may provide you with a guaranteed foreign exchange rate for a period of time. We will notify you of the guaranteed rate and the time period during which we are offering that rate (the “**Guaranteed Period**”) when you create your Money Transfer. Guaranteed Periods are subject to the following conditions:
 
-* a) The Guaranteed Period may be extended if your Money Transfer is created over the weekend or on a public holiday.
-* b) We must receive sufficient funds from you during the Guaranteed Period in order to convert your funds at the guaranteed rate. You will see when we have received your funds in your Wise Account or profile. Wise is not responsible for the failure of a third party to send your funds to us in a timely manner.
-* c) If we receive your funds after the Guaranteed Period, we will not be able to convert your money using the guaranteed rate and your transfer will become a non-guaranteed rate transfer. Accordingly, we may convert your money at the applicable exchange rate at the time we receive your money or we may email you and ask you if you want to proceed with your transfer at the new exchange rate.
-* d) If the Wise exchange rate changes by 5% or more during the Guaranteed Period, we can, at our discretion, suspend your transfer for a reasonable period of time or cancel your transfer and refund the money to you.
-* e) For certain currencies, including where you are paying for a Money Transfer with Japanese Yen (JPY), the guaranteed rate will only be offered after your address has been verified by us.
+*   a) The Guaranteed Period may be extended if your Money Transfer is created over the weekend or on a public holiday.
+*   b) We must receive sufficient funds from you during the Guaranteed Period in order to convert your funds at the guaranteed rate. You will see when we have received your funds in your Wise Account or profile. Wise is not responsible for the failure of a third party to send your funds to us in a timely manner.
+*   c) If we receive your funds after the Guaranteed Period, we will not be able to convert your money using the guaranteed rate and your transfer will become a non-guaranteed rate transfer. Accordingly, we may convert your money at the applicable exchange rate at the time we receive your money or we may email you and ask you if you want to proceed with your transfer at the new exchange rate.
+*   d) If the Wise exchange rate changes by 5% or more during the Guaranteed Period, we can, at our discretion, suspend your transfer for a reasonable period of time or cancel your transfer and refund the money to you.
+*   e) For certain currencies, including where you are paying for a Money Transfer with Japanese Yen (JPY), the guaranteed rate will only be offered after your address has been verified by us.
 
 We may change these guaranteed rate conditions or suspend the guaranteed rate feature at any time.
 
 **24.6 The Wise exchange rate.** We will confirm the available exchange rate (if applicable) for your Money Transfer:
 
-* a) when you place your Money Transfer, if it is a guaranteed rate Money Transfer; or
-* b) when we have received your payment, if it is a non-guaranteed rate Money Transfer.
+*   a) when you place your Money Transfer, if it is a guaranteed rate Money Transfer; or
+*   b) when we have received your payment, if it is a non-guaranteed rate Money Transfer.
 
 **24.7 Chargebacks on your payment instrument.** If you selected a payment method which can be subject to chargeback (for example a credit card), you agree that you will only exercise this chargeback right if:
 
-* a) we have breached this Agreement; or
-* b) there was an unauthorised use of your payment instrument, meaning that you did not execute or authorise the payment.
+*   a) we have breached this Agreement; or
+*   b) there was an unauthorised use of your payment instrument, meaning that you did not execute or authorise the payment.
 
 You agree that you will not exercise your chargeback right for any other reason, including a dispute with a recipient. If we need to investigate or take any actions in connection with a chargeback caused by or related to you, we may charge you for our costs in doing so and may deduct those costs from your Wise Account (if you have one) or limit or remove your access to our Services. See “**What happens if you owe us money**”.
 
@@ -597,8 +597,8 @@ You agree that you will not exercise your chargeback right for any other reason,
 
 We must refund to you an authorised payment transaction initiated by or through a payee that has already been executed, if the two following conditions are met:
 
-* a) when the payment transaction was authorised, the exact amount of the payment transaction was not specified;
-* b) the amount of the payment transaction exceeds the amount that you can reasonably expect, based on your previous spending pattern, the terms of your framework contract and relevant aspects of the case.
+*   a) when the payment transaction was authorised, the exact amount of the payment transaction was not specified;
+*   b) the amount of the payment transaction exceeds the amount that you can reasonably expect, based on your previous spending pattern, the terms of your framework contract and relevant aspects of the case.
 
 At our request, you shall demonstrate that these conditions have been met. You have the right to request this refund for a period of eight weeks from the date the funds were debited.
 
@@ -634,11 +634,11 @@ After the expiry of the aforementioned time limits, the payment order may only b
 
 **25.3 When you cannot use Wise Materials.** Unless you have received written permission from us, you may not, and may not attempt to, directly or indirectly:
 
-* a) use any of the Wise Materials for any commercial purpose or otherwise infringe our intellectual property rights;
-* b) transfer, sublicense, loan, sell, assign, lease, rent, distribute or grant rights in the Services or the Wise Materials to any person or entity;
-* c) remove, obscure, or alter any notice of any of our trademarks, or other Intellectual Property appearing on or contained within the Services or on any Wise Materials;
-* d) modify, copy, tamper with or otherwise create derivative works of any software included in the Wise Materials; or
-* e) reverse engineer, disassemble, or decompile the Wise Materials or the Services or apply any other process or procedure to derive the source code of any software included in the Wise Materials or as part of the Services.
+*   a) use any of the Wise Materials for any commercial purpose or otherwise infringe our intellectual property rights;
+*   b) transfer, sublicense, loan, sell, assign, lease, rent, distribute or grant rights in the Services or the Wise Materials to any person or entity;
+*   c) remove, obscure, or alter any notice of any of our trademarks, or other Intellectual Property appearing on or contained within the Services or on any Wise Materials;
+*   d) modify, copy, tamper with or otherwise create derivative works of any software included in the Wise Materials; or
+*   e) reverse engineer, disassemble, or decompile the Wise Materials or the Services or apply any other process or procedure to derive the source code of any software included in the Wise Materials or as part of the Services.
 
 **25.4 Wise Trademarks.** This is a non-exhaustive list of Wise Trademarks : “WISE”, “WISE CARD”, “WISE PLATFORM”, “WISEPLATFORM”, “WISE PAY”, “WISEPAY”, “WISEBUSINESS”, “WISE BUSINESS”, “WISETRANSFER’, “WISE TRANSFER”, “TRANSFERWISE”, “BORDERLESS”, “MONEY WITHOUT BORDERS” and any other business and service names, logos, signs, graphics, page headers, button icons and/or scripts (each as might be amended from time to time) are all registered or unregistered trademarks or trade dress of Wise or Wise’s licensors in the relevant jurisdictions (“**Wise Trademarks**”). You may not copy, imitate, modify or use Wise Trademarks without our prior written consent. You may use HTML logos provided by us for the purpose of directing web traffic to the Services. You may not alter, modify or change these HTML logos in any way, use them in a manner that mischaracterizes Wise or the Services or display them in any manner that implies Wise’s sponsorship or endorsement. Further, you may not use Wise Trademarks and trade dress in connection with any product or service that is not Wise’s, in any manner that is likely to cause confusion among customers, or in any manner that disparages or discredits Wise.
 
@@ -657,12 +657,12 @@ After the expiry of the aforementioned time limits, the payment order may only b
 
 **26.4 App Store terms.** The following provisions apply with respect to your use of any version of the App compatible with the iOS operating system of Apple Inc. (“**Apple**”):
 
-* a) Apple is not a party to this Agreement and does not own and is not responsible for the App.
-* b) Apple is not providing any warranty for the App except, if applicable, to refund the purchase price for it.
-* c) Apple is not responsible for maintenance or other support services for the App and shall not be responsible for any other claims, losses, liabilities, damages, costs or expenses with respect to the App, including any third-party product liability claims, claims that the App fails to conform to any applicable legal or regulatory requirement, claims arising under consumer protection or similar legislation, and claims with respect to intellectual property infringement.
-* d) Any inquiries or complaints relating to the use of the App, including those pertaining to intellectual property rights, must be directed to Wise in accordance with this Agreement.
-* e) The licence you have been granted herein is limited to a non-transferable licence to use the App on an Apple-branded product that runs Apple’s iOS operating system and is owned or controlled by you, or as otherwise permitted by the Usage Rules set forth in Apple’s App Store Terms of Service. In addition, you must comply with the terms of any third-party agreement applicable to you when using the App, such as your wireless data service agreement.
-* f) Apple and Apple’s subsidiaries are third-party beneficiaries of this Agreement and, upon your acceptance of the terms and conditions of this Agreement, will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third-party beneficiary. Notwithstanding this, our right to enter into, rescind or terminate any variation, waiver or settlement under this Agreement is not subject to the consent of any third party, including Apple.
+*   a) Apple is not a party to this Agreement and does not own and is not responsible for the App.
+*   b) Apple is not providing any warranty for the App except, if applicable, to refund the purchase price for it.
+*   c) Apple is not responsible for maintenance or other support services for the App and shall not be responsible for any other claims, losses, liabilities, damages, costs or expenses with respect to the App, including any third-party product liability claims, claims that the App fails to conform to any applicable legal or regulatory requirement, claims arising under consumer protection or similar legislation, and claims with respect to intellectual property infringement.
+*   d) Any inquiries or complaints relating to the use of the App, including those pertaining to intellectual property rights, must be directed to Wise in accordance with this Agreement.
+*   e) The licence you have been granted herein is limited to a non-transferable licence to use the App on an Apple-branded product that runs Apple’s iOS operating system and is owned or controlled by you, or as otherwise permitted by the Usage Rules set forth in Apple’s App Store Terms of Service. In addition, you must comply with the terms of any third-party agreement applicable to you when using the App, such as your wireless data service agreement.
+*   f) Apple and Apple’s subsidiaries are third-party beneficiaries of this Agreement and, upon your acceptance of the terms and conditions of this Agreement, will have the right (and will be deemed to have accepted the right) to enforce this Agreement against you as a third-party beneficiary. Notwithstanding this, our right to enter into, rescind or terminate any variation, waiver or settlement under this Agreement is not subject to the consent of any third party, including Apple.
 
 * * *
 
@@ -704,8 +704,8 @@ After the expiry of the aforementioned time limits, the payment order may only b
 
 **29.5 Our liability to you for unauthorised payments.** The payer shall bear the loss up to the notification of the unauthorised payment transaction up to an amount not exceeding 50 euros in respect of all unauthorised payment transactions resulting from the use of a lost or stolen payment instrument or from the unauthorised use of a payment instrument. Notwithstanding this, the payer shall not bear any loss if:
 
-* a) the loss, theft or misuse of a payment instrument could not have been detected by the payer before a payment was made, unless the payer himself had acted fraudulently; or
-* b) the loss was caused by the acts or omissions of an employee, agent or branch of a payment service provider or of an entity to which the activities were outsourced.
+*   a) the loss, theft or misuse of a payment instrument could not have been detected by the payer before a payment was made, unless the payer himself had acted fraudulently; or
+*   b) the loss was caused by the acts or omissions of an employee, agent or branch of a payment service provider or of an entity to which the activities were outsourced.
 
 The payer shall bear all losses relating to unauthorised payment transactions if the payer has suffered them as a result of having acted fraudulently or deliberately or by gross negligence having failed to comply with one or more of his obligations.
 
@@ -713,11 +713,11 @@ Whether or not gross negligence occurred in the given circumstances is up to the
 
 If they fail to do so, the card could be improperly used. Wise Europe SA warns the card holders that the following behaviour, inter alia, can lead to claims for which may be held liable:
 
-* a) failing to fulfil their obligations or breaching security requirements, such as keeping the card together with its PIN in a recognisable form (such as written on the card or a document that card holders keep with the card or on themselves);
-* b) divulging their PIN to third parties, such as spouses, family members and friends, and allowing the card to be used by third parties;
-* c) using the card under conditions that are unsafe, leaving the card unattended (such as at work, in a hotel or vehicle (even if locked) or in any place effectively open to the public (such as a hospital))
-* d) failing to immediately report to Wise Europe SA the loss or theft of the card, any entries of unauthorised transactions or errors or irregularities on their statements of account;
-* e) failing to have the card stopped immediately after it has been retained by an ATM or payment terminal.
+*   a) failing to fulfil their obligations or breaching security requirements, such as keeping the card together with its PIN in a recognisable form (such as written on the card or a document that card holders keep with the card or on themselves);
+*   b) divulging their PIN to third parties, such as spouses, family members and friends, and allowing the card to be used by third parties;
+*   c) using the card under conditions that are unsafe, leaving the card unattended (such as at work, in a hotel or vehicle (even if locked) or in any place effectively open to the public (such as a hospital))
+*   d) failing to immediately report to Wise Europe SA the loss or theft of the card, any entries of unauthorised transactions or errors or irregularities on their statements of account;
+*   e) failing to have the card stopped immediately after it has been retained by an ATM or payment terminal.
 
 The User will not be liable for any financial losses arising from payment transactions not requiring strong customer authentication or the User to enter a PIN.
 
