@@ -56,9 +56,9 @@ Except in the event of e wrongdoing exclusively attributable to Match or technic
 
 In order to register for an Event, free or paid, the Member or Subscriber must:
 
-* provide the necessary information for their registration on the Events Page
-* read these Terms and Conditions as well as any conditions specific to certain Events and fully accept them.
-* pay in accordance with the conditions and price indicated in case of paid Events.
+*   provide the necessary information for their registration on the Events Page
+*   read these Terms and Conditions as well as any conditions specific to certain Events and fully accept them.
+*   pay in accordance with the conditions and price indicated in case of paid Events.
 
 Match will confirm the registration and/or purchase by sending a confirmation email, thus finalising the contract between Match and the Participant.
 
@@ -87,9 +87,9 @@ Unless displayed on the Events Page in local currency, paid Events prices are di
 
 The Member or Subscriber can pay the price of the Event for him/herself or his/her Guests:
 
-* by card (online or via mobile banking)
-* using an online payment service (Paypal, Direct Debit, etc.) depending on the available options on the relevant Website.
-* directly at the venue for certain Events, without need for prior registration and depending on the number of places available.
+*   by card (online or via mobile banking)
+*   using an online payment service (Paypal, Direct Debit, etc.) depending on the available options on the relevant Website.
+*   directly at the venue for certain Events, without need for prior registration and depending on the number of places available.
 
 **Article 4 – No right of withdrawal**
 --------------------------------------
@@ -141,19 +141,19 @@ If the Participant is prevented from participating in the Event for medical reas
 
 We hope that every Event is a good experience for everyone. Consequently, all Members, Subscribers and, if applicable, their Guests agree to follow our Code of Conduct:
 
-* Be friendly
-* Be yourself
-* Have appropriate and constructive conversations
-* Follow the instructions of the Event host
-* Report any inappropriate behaviour to the Event host
-* Respect others’ opinions and decisions
-* Think of your safety and that of others during the Event
-* Drink responsibly and respect your limits
-* Do not be rude, lewd or offensive
-* Do not cause any hassle during the Event
-* Do not provoke or harass others
-* Do not resort to violence
-* Do not respond harshly to rejection
+*   Be friendly
+*   Be yourself
+*   Have appropriate and constructive conversations
+*   Follow the instructions of the Event host
+*   Report any inappropriate behaviour to the Event host
+*   Respect others’ opinions and decisions
+*   Think of your safety and that of others during the Event
+*   Drink responsibly and respect your limits
+*   Do not be rude, lewd or offensive
+*   Do not cause any hassle during the Event
+*   Do not provoke or harass others
+*   Do not resort to violence
+*   Do not respond harshly to rejection
 
 In organising the Services, we have done our best to ensure the safety of the Participants. The Members, Subscribers and their Guests remain entirely responsible for complying with our Code of conduct and the health and safety recommendations provided by the venue where the Event is hosted. Match will not be held liable in any event for any loss or damage incurred by the Members, Subscribers or Guests as a result of the actions, omissions or conduct of other Participants or other members of the public that occur before, during or after the Event, including, but not limited to, an incident or accident resulting from non-compliance with the Code of conduct and/or the health and safety recommendations of the venue by one of the Participants or other member of the public or from a lack of vigilance or negligence of one of the Participants.
 
