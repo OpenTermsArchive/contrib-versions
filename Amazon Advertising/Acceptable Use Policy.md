@@ -7,8 +7,8 @@ At Amazon Ads, we believe maintaining a high customer experience bar for the ads
 
 Ads may not:
 
-* Misrepresent the products or services being promoted and may not mislead customers.
-* Contain content that is offensive, abusive, intolerant, or harassing.
+*   Misrepresent the products or services being promoted and may not mislead customers.
+*   Contain content that is offensive, abusive, intolerant, or harassing.
 
 Amazon customers represent a wide array of genders, races, ethnicities, abilities, ages, religions, sexual orientations and backgrounds.
 
