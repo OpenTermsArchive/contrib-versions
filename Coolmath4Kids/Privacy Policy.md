@@ -8,12 +8,12 @@ CoolMath4Kids and the third parties that it works with do not collect or use per
 
 To the extent that any persistent identifiers are used in connection with the CoolMath4Kids website, these technologies are used to support the internal operations of the website. These uses may include, but are not limited to:
 
-* Maintaining or analyzing website function, such as analyzing the number of website visitors
-* Performing network communications
-* Displaying advertisements that are not targeted to a particular user based on the user's particular habits, but are instead based on the context of this website
-* Limiting the frequency that contextual advertisements are displayed
-* Protecting security of this website, company, and website visitors
-* Complying with laws or regulations, such as responding to a court order or subpoena.
+*   Maintaining or analyzing website function, such as analyzing the number of website visitors
+*   Performing network communications
+*   Displaying advertisements that are not targeted to a particular user based on the user's particular habits, but are instead based on the context of this website
+*   Limiting the frequency that contextual advertisements are displayed
+*   Protecting security of this website, company, and website visitors
+*   Complying with laws or regulations, such as responding to a court order or subpoena.
 
 CoolMath4Kids, and the third parties that it works with, does not use persistent identifiers to serve targeted advertising to the users of this website.
 
