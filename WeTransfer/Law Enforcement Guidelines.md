@@ -25,25 +25,25 @@ Requests must be supported by a valid and legally binding order and must be subm
 
 Requests must include the following information:
 
-* Name of the issuing authority
+*   Name of the issuing authority
     
 
-* Full name and badge or ID number of the responsible agent
+*   Full name and badge or ID number of the responsible agent
     
 
-* Contact email address from a law enforcement or government domain
+*   Contact email address from a law enforcement or government domain
     
 
-* Identification details of the user or customer covered by the request (for example, the email address allegedly associated with the account)
+*   Identification details of the user or customer covered by the request (for example, the email address allegedly associated with the account)
     
 
-* The specific data covered by the request
+*   The specific data covered by the request
     
 
-* The scope and date or date range of the data covered by the request
+*   The scope and date or date range of the data covered by the request
     
 
-* The law relied upon for the authorization of the request
+*   The law relied upon for the authorization of the request
     
 
 WeTransfer is unable to process overly broad or vague requests.
