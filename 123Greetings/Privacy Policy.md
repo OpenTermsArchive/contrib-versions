@@ -46,9 +46,9 @@ We follow generally accepted standards to store and protect the personal data we
   
 We retain personal data only for as long as necessary to provide the Services you have requested and thereafter for a variety of legitimate legal or business purposes. These might include retention periods:
 
-* mandated by law, contract or similar obligations applicable to our business operations;
-* for preserving, resolving, defending or enforcing our legal/contractual rights; or
-* needed to maintain adequate and accurate business and financial records.
+*   mandated by law, contract or similar obligations applicable to our business operations;
+*   for preserving, resolving, defending or enforcing our legal/contractual rights; or
+*   needed to maintain adequate and accurate business and financial records.
 
 If you have any questions about the security or retention of your personal data, you can contact us at [privacy@123greetings-inc.com](mailto:privacy@123greetings-inc.com).
 
