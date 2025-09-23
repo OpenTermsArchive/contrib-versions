@@ -44,18 +44,18 @@ User Conduct
 
 Users may not publish to the Website any words, definitions, or other information (collectively, "Content") that:
 
-* is unlawful, threatening, libelous or defamatory;
-* violates any party's intellectual property; or
-* is detrimental to the quality or intended spirit of the Website.
+*   is unlawful, threatening, libelous or defamatory;
+*   violates any party's intellectual property; or
+*   is detrimental to the quality or intended spirit of the Website.
 
 Examples of unacceptable Content or behavior on the Website are those which we, in our sole discretion, determine constitute:
 
-* abuse, harassment, threats of violence, flaming, intimidation of any person or organization, or any other threatening behavior;
-* engaging in or contributing to any illegal activity or activity that violates others' rights;
-* providing information that is false, misleading or inaccurate;
-* hacking or modifying the Website to falsely imply an association with the Company;
-* implying or pretending to be affiliated with a company or organization with which you are not affiliated, or misrepresenting the extent of your affiliation or role with an affiliated company or organization; or
-* disclosing personal or proprietary information of another user, person or organization.
+*   abuse, harassment, threats of violence, flaming, intimidation of any person or organization, or any other threatening behavior;
+*   engaging in or contributing to any illegal activity or activity that violates others' rights;
+*   providing information that is false, misleading or inaccurate;
+*   hacking or modifying the Website to falsely imply an association with the Company;
+*   implying or pretending to be affiliated with a company or organization with which you are not affiliated, or misrepresenting the extent of your affiliation or role with an affiliated company or organization; or
+*   disclosing personal or proprietary information of another user, person or organization.
 
 The Company has the right, but not the obligation, to limit or revoke the use privileges of anyone who publishes unacceptable Content.
 
@@ -63,10 +63,10 @@ At any time, the Company may, at its sole discretion, refuse to allow Content to
 
 By publishing Content, you represent and warrant that such Content:
 
-* does not violate the rights of any third party, including, but not limited to, intellectual property and proprietary rights;
-* is not fraudulent or and does not involve counterfeit or stolen information or items;
-* does not violate any law, statute, ordinance or regulation; and
-* shall not create any liability for Urban Dictionary, LLC or any of its respective parents, subsidiaries, affiliates, successors, assigns, employees, agents, directors, officers and shareholders.
+*   does not violate the rights of any third party, including, but not limited to, intellectual property and proprietary rights;
+*   is not fraudulent or and does not involve counterfeit or stolen information or items;
+*   does not violate any law, statute, ordinance or regulation; and
+*   shall not create any liability for Urban Dictionary, LLC or any of its respective parents, subsidiaries, affiliates, successors, assigns, employees, agents, directors, officers and shareholders.
 
 You may not submit Content using unauthorized automated methods ("bots").
 
@@ -87,16 +87,16 @@ When you publish Content on the Website, you grant the Company an irrevocable, p
 
 If you believe that your work has been copied in a way that constitutes copyright infringement, or your intellectual property rights have been otherwise violated, please provide the following information to the Company's copyright agent:
 
-* an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
-* a description of the copyrighted work or other intellectual property that you claim has been infringed;
-* a description of where the material that you claim is infringing is located on the site;
-* your address, telephone number, and email address;
-* a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
-* a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or are authorized to act on the copyright or intellectual property owner's behalf.
+*   an electronic or physical signature of the person authorized to act on behalf of the owner of the copyright or other intellectual property interest;
+*   a description of the copyrighted work or other intellectual property that you claim has been infringed;
+*   a description of where the material that you claim is infringing is located on the site;
+*   your address, telephone number, and email address;
+*   a statement by you that you have a good faith belief that the disputed use is not authorized by the copyright owner, its agent, or the law; and
+*   a statement by you, made under penalty of perjury, that the above information in your notice is accurate and that you are the copyright or intellectual property owner or are authorized to act on the copyright or intellectual property owner's behalf.
 
 The Company's agent for notice of claims of copyright or other intellectual property infringement can be reached as follows:
 
-* By mail:
+*   By mail:
 
 > Copyright Agent  
 > Urban Dictionary, LLC  
@@ -104,7 +104,7 @@ The Company's agent for notice of claims of copyright or other intellectual prop
 > ECM #82617  
 > San Francisco, CA 94120
 
-* By email: [legal@urbandictionary.com](mailto:legal@urbandictionary.com)
+*   By email: [legal@urbandictionary.com](mailto:legal@urbandictionary.com)
 
 Participation Disclaimer
 ------------------------
@@ -140,13 +140,13 @@ Advertising
 
 We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here:
 
-* [http://www.networkadvertising.org/managing/opt\_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
-* [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/)
-* [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
-* [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)
-* [http://www.aboutads.info/](http://www.aboutads.info/)
-* [https://www.rhythmone.com/opt-out](https://www.rhythmone.com/opt-out)
-* [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/)
+*   [http://www.networkadvertising.org/managing/opt\_out.asp](http://www.networkadvertising.org/managing/opt_out.asp)
+*   [http://www.aboutads.info/choices/](http://www.aboutads.info/choices/)
+*   [http://www.youronlinechoices.eu](http://www.youronlinechoices.eu/)
+*   [http://www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/)
+*   [http://www.aboutads.info/](http://www.aboutads.info/)
+*   [https://www.rhythmone.com/opt-out](https://www.rhythmone.com/opt-out)
+*   [https://www.google.com/policies/privacy/partners/](https://www.google.com/policies/privacy/partners/)
 
 Thanks
 ------
